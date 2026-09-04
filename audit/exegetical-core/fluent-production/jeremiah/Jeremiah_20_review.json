@@ -1,0 +1,306 @@
+{
+  "book": "Jeremiah",
+  "chapter": 20,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 20:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 1,
+            "source_ref": "Jeremiah 20:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b56fb6a8d0d18d147e52677a36c99fc83a7435051aebd97bee4282914d33c89b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b56fb6a8d0d18d147e52677a36c99fc83a7435051aebd97bee4282914d33c89b"
+      },
+      "2": {
+        "source_ref": "Jeremiah 20:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 2,
+            "source_ref": "Jeremiah 20:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8ba3c43b98571f8e6252d161045c402a473ad1a8da5c7c8aefa835d65630a18d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8ba3c43b98571f8e6252d161045c402a473ad1a8da5c7c8aefa835d65630a18d"
+      },
+      "3": {
+        "source_ref": "Jeremiah 20:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 3,
+            "source_ref": "Jeremiah 20:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b9d8f3d80120f1c0b55de526368980f15817cf4f9528d2ddfedea8d4279e6298"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b9d8f3d80120f1c0b55de526368980f15817cf4f9528d2ddfedea8d4279e6298"
+      },
+      "4": {
+        "source_ref": "Jeremiah 20:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 4,
+            "source_ref": "Jeremiah 20:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a7e1c73fb972d99843b473a048e6910ef87aafcdd873c075e491d8ceba54623a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a7e1c73fb972d99843b473a048e6910ef87aafcdd873c075e491d8ceba54623a"
+      },
+      "5": {
+        "source_ref": "Jeremiah 20:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 5,
+            "source_ref": "Jeremiah 20:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "50231b2d88d0f1b1170e2207eea8ff348d2aa2dc54b68caea87300fca7200559"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "50231b2d88d0f1b1170e2207eea8ff348d2aa2dc54b68caea87300fca7200559"
+      },
+      "6": {
+        "source_ref": "Jeremiah 20:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 6,
+            "source_ref": "Jeremiah 20:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f1de90294b44e5fe8dcc9d75f8c9a15c1328c674d0b72b01ee9ecc46b740b1ab"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f1de90294b44e5fe8dcc9d75f8c9a15c1328c674d0b72b01ee9ecc46b740b1ab"
+      },
+      "7": {
+        "source_ref": "Jeremiah 20:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 7,
+            "source_ref": "Jeremiah 20:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1e751c5fd2172a1bac3e0e3f1a73a8c113bec851b849af11f2a09d36df9515a7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1e751c5fd2172a1bac3e0e3f1a73a8c113bec851b849af11f2a09d36df9515a7"
+      },
+      "8": {
+        "source_ref": "Jeremiah 20:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 8,
+            "source_ref": "Jeremiah 20:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "fcd9190e8a64b59d9b6389bf700cc0781fb86fd432901131ed90a1bd9738a748"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "fcd9190e8a64b59d9b6389bf700cc0781fb86fd432901131ed90a1bd9738a748"
+      },
+      "9": {
+        "source_ref": "Jeremiah 20:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 9,
+            "source_ref": "Jeremiah 20:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9829eeb7527359821f9f6810e776ba5457b341a43f112855a8ea4702e209e5a0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9829eeb7527359821f9f6810e776ba5457b341a43f112855a8ea4702e209e5a0"
+      },
+      "10": {
+        "source_ref": "Jeremiah 20:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 10,
+            "source_ref": "Jeremiah 20:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3a3cd75d90da45e15d452fc5c0ca88db85dc92309b5839b7c5c8c729bcb02ed7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3a3cd75d90da45e15d452fc5c0ca88db85dc92309b5839b7c5c8c729bcb02ed7"
+      },
+      "11": {
+        "source_ref": "Jeremiah 20:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 11,
+            "source_ref": "Jeremiah 20:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4bf126a43a34d870fe06a8169e99f7385baa863d0dec41f96ee286ed3fcbd311"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4bf126a43a34d870fe06a8169e99f7385baa863d0dec41f96ee286ed3fcbd311"
+      },
+      "12": {
+        "source_ref": "Jeremiah 20:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 12,
+            "source_ref": "Jeremiah 20:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "61b086c2d11b00ad4436e70b6f1b23d40ec09fb32535c4585420d271ef74c001"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "61b086c2d11b00ad4436e70b6f1b23d40ec09fb32535c4585420d271ef74c001"
+      },
+      "13": {
+        "source_ref": "Jeremiah 20:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 13,
+            "source_ref": "Jeremiah 20:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3235c08deca6d80132bec20003e18f75f8aae09f6bcce66c0fdd5b69f4f28cc0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3235c08deca6d80132bec20003e18f75f8aae09f6bcce66c0fdd5b69f4f28cc0"
+      },
+      "14": {
+        "source_ref": "Jeremiah 20:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 14,
+            "source_ref": "Jeremiah 20:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4f307bfa8e5292e285f0a55d12b3739e078e01e6eb2c664ac69ce5664b81ff55"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4f307bfa8e5292e285f0a55d12b3739e078e01e6eb2c664ac69ce5664b81ff55"
+      },
+      "15": {
+        "source_ref": "Jeremiah 20:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 15,
+            "source_ref": "Jeremiah 20:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8fee47d9e9d576ae1ac5968df47ae30c28d13d656a6c8655890af3dec2b428ad"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8fee47d9e9d576ae1ac5968df47ae30c28d13d656a6c8655890af3dec2b428ad"
+      },
+      "16": {
+        "source_ref": "Jeremiah 20:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 16,
+            "source_ref": "Jeremiah 20:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e1f8edae451944410c26dc5bb9a0947e81bae7c33bc94448111902af7ff8d86f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e1f8edae451944410c26dc5bb9a0947e81bae7c33bc94448111902af7ff8d86f"
+      },
+      "17": {
+        "source_ref": "Jeremiah 20:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 17,
+            "source_ref": "Jeremiah 20:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0a4a95b0296f28b824db9f39559b30f181be6efed7633104f94e61a036d8dc0d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0a4a95b0296f28b824db9f39559b30f181be6efed7633104f94e61a036d8dc0d"
+      },
+      "18": {
+        "source_ref": "Jeremiah 20:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 18,
+            "source_ref": "Jeremiah 20:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2e12036115a5422f66c9b32206edb300f4ed6f86a9ebc4eb93cd66a1da5908cc"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2e12036115a5422f66c9b32206edb300f4ed6f86a9ebc4eb93cd66a1da5908cc"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_20.md",
+    "blob_sha": "9e3a0d331478012a4b4a946c2fca4f034fc25916"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

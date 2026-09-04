@@ -1,0 +1,291 @@
+{
+  "book": "Jeremiah",
+  "chapter": 28,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 28:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 1,
+            "source_ref": "Jeremiah 28:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a52dc5d1e041b173afea150df395ea42fa3df8d33fad4137b02f3dcd33bb1ccd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a52dc5d1e041b173afea150df395ea42fa3df8d33fad4137b02f3dcd33bb1ccd"
+      },
+      "2": {
+        "source_ref": "Jeremiah 28:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 2,
+            "source_ref": "Jeremiah 28:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "cf655a1ebc9f55e53f594762cf6280bf44451ab117b30f894c5c85ecab03db13"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "cf655a1ebc9f55e53f594762cf6280bf44451ab117b30f894c5c85ecab03db13"
+      },
+      "3": {
+        "source_ref": "Jeremiah 28:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 3,
+            "source_ref": "Jeremiah 28:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8faa6db0befa54f5bf403ab25181610c0718069fed8f03f56c86af89394cd6c7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8faa6db0befa54f5bf403ab25181610c0718069fed8f03f56c86af89394cd6c7"
+      },
+      "4": {
+        "source_ref": "Jeremiah 28:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 4,
+            "source_ref": "Jeremiah 28:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c7a8dae646cb338b7fb4357f8f5c8b174d26bc1fb41fcc1a4c82e87f14c94e40"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c7a8dae646cb338b7fb4357f8f5c8b174d26bc1fb41fcc1a4c82e87f14c94e40"
+      },
+      "5": {
+        "source_ref": "Jeremiah 28:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 5,
+            "source_ref": "Jeremiah 28:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "57f71fa4add906a3b135d2a9b51523cb7cc922b090fb21702894bcaf38ccaa4a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "57f71fa4add906a3b135d2a9b51523cb7cc922b090fb21702894bcaf38ccaa4a"
+      },
+      "6": {
+        "source_ref": "Jeremiah 28:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 6,
+            "source_ref": "Jeremiah 28:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b0ce035f88c8d62ba8846637db5f4561bc5b3f0b7885e18e967efebb3d331b2f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b0ce035f88c8d62ba8846637db5f4561bc5b3f0b7885e18e967efebb3d331b2f"
+      },
+      "7": {
+        "source_ref": "Jeremiah 28:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 7,
+            "source_ref": "Jeremiah 28:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4496f53ce95d258cf276eea6f77833f46a9930ea75dee0a69c7dad30ea90b43f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4496f53ce95d258cf276eea6f77833f46a9930ea75dee0a69c7dad30ea90b43f"
+      },
+      "8": {
+        "source_ref": "Jeremiah 28:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 8,
+            "source_ref": "Jeremiah 28:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "572c7164399667cacd30ec15282bfb77156f9b60f89796f11f15cfb11c6ac73f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "572c7164399667cacd30ec15282bfb77156f9b60f89796f11f15cfb11c6ac73f"
+      },
+      "9": {
+        "source_ref": "Jeremiah 28:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 9,
+            "source_ref": "Jeremiah 28:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3beca770c667f9313f3889532cdf14a3e1b047952e8dc7f3f450126e509e0bb8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3beca770c667f9313f3889532cdf14a3e1b047952e8dc7f3f450126e509e0bb8"
+      },
+      "10": {
+        "source_ref": "Jeremiah 28:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 10,
+            "source_ref": "Jeremiah 28:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "cdffa120376d5dc97cd47daf980cd0fa321d6148fbad7e7568d3e15d380d8c0f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "cdffa120376d5dc97cd47daf980cd0fa321d6148fbad7e7568d3e15d380d8c0f"
+      },
+      "11": {
+        "source_ref": "Jeremiah 28:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 11,
+            "source_ref": "Jeremiah 28:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8a09b098a85c1fc99a19f39722ebd0a1e5f85044178f0b56007d77aadc7f544e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8a09b098a85c1fc99a19f39722ebd0a1e5f85044178f0b56007d77aadc7f544e"
+      },
+      "12": {
+        "source_ref": "Jeremiah 28:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 12,
+            "source_ref": "Jeremiah 28:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c93e0bcdbb0553528f723a5ef48eb9b8cc8a1155811835e8f76bd991cf769a4a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c93e0bcdbb0553528f723a5ef48eb9b8cc8a1155811835e8f76bd991cf769a4a"
+      },
+      "13": {
+        "source_ref": "Jeremiah 28:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 13,
+            "source_ref": "Jeremiah 28:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7f70d0514775e479ab959e6b0af8f2be5714c5cea4617b2259b1b2e50c3e36a6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7f70d0514775e479ab959e6b0af8f2be5714c5cea4617b2259b1b2e50c3e36a6"
+      },
+      "14": {
+        "source_ref": "Jeremiah 28:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 14,
+            "source_ref": "Jeremiah 28:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a0683e6dc1d103fd8719d9275f9d29eadbb45c3a871b485737c3e39573a4a8fc"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a0683e6dc1d103fd8719d9275f9d29eadbb45c3a871b485737c3e39573a4a8fc"
+      },
+      "15": {
+        "source_ref": "Jeremiah 28:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 15,
+            "source_ref": "Jeremiah 28:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a581ec28377259e1a611b0d8ed898a2d88222d7790a62a1707d1760702165ac5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a581ec28377259e1a611b0d8ed898a2d88222d7790a62a1707d1760702165ac5"
+      },
+      "16": {
+        "source_ref": "Jeremiah 28:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 16,
+            "source_ref": "Jeremiah 28:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "62d6038ddac8cae89e7f83074736bd932cb2b4237351a0e2dc597f125b32e164"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "62d6038ddac8cae89e7f83074736bd932cb2b4237351a0e2dc597f125b32e164"
+      },
+      "17": {
+        "source_ref": "Jeremiah 28:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 17,
+            "source_ref": "Jeremiah 28:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5857d0ebe277294fdfb202ee04d6005eca3ac0da3afe6523c57e32d26e5b2203"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5857d0ebe277294fdfb202ee04d6005eca3ac0da3afe6523c57e32d26e5b2203"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_28.md",
+    "blob_sha": "7213d49ab9bbe23973c04315d6229e2f15ca4f5e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

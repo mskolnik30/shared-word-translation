@@ -1,0 +1,441 @@
+{
+  "book": "Jeremiah",
+  "chapter": 17,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 17:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 1,
+            "source_ref": "Jeremiah 17:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "22b128877428aaf057207e889122c6cf57ee73020f41c75986fb3d757e5103e5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "22b128877428aaf057207e889122c6cf57ee73020f41c75986fb3d757e5103e5"
+      },
+      "2": {
+        "source_ref": "Jeremiah 17:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 2,
+            "source_ref": "Jeremiah 17:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4456a9bb8ea95eef4efee018e345f3f61cce9763590f6cfca4bd50a939e31e65"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4456a9bb8ea95eef4efee018e345f3f61cce9763590f6cfca4bd50a939e31e65"
+      },
+      "3": {
+        "source_ref": "Jeremiah 17:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 3,
+            "source_ref": "Jeremiah 17:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "683775b89be976af4b6460154f9e26467620c21f313b66c3413952e2d0599d73"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "683775b89be976af4b6460154f9e26467620c21f313b66c3413952e2d0599d73"
+      },
+      "4": {
+        "source_ref": "Jeremiah 17:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 4,
+            "source_ref": "Jeremiah 17:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1530d53b1b0b6aa1c9d669a6a45539dc94fdf0f4ceb400330a411bb2bb0e086f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1530d53b1b0b6aa1c9d669a6a45539dc94fdf0f4ceb400330a411bb2bb0e086f"
+      },
+      "5": {
+        "source_ref": "Jeremiah 17:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 5,
+            "source_ref": "Jeremiah 17:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bbec66bb7a494973e6f2b8756bc385371036fff069c34b5e6386c307e9f8ef0b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bbec66bb7a494973e6f2b8756bc385371036fff069c34b5e6386c307e9f8ef0b"
+      },
+      "6": {
+        "source_ref": "Jeremiah 17:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 6,
+            "source_ref": "Jeremiah 17:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d5b6af0b61d3daf08f16b939f1609e5aa6ff1a9e993f9f8b5f3db655e54dd380"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d5b6af0b61d3daf08f16b939f1609e5aa6ff1a9e993f9f8b5f3db655e54dd380"
+      },
+      "7": {
+        "source_ref": "Jeremiah 17:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 7,
+            "source_ref": "Jeremiah 17:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7c69cd04b0f0dbd3b205804b152122d8287fa083e9503f7d794acb51cb44b674"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7c69cd04b0f0dbd3b205804b152122d8287fa083e9503f7d794acb51cb44b674"
+      },
+      "8": {
+        "source_ref": "Jeremiah 17:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 8,
+            "source_ref": "Jeremiah 17:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b28dab003846f9ff4b1130a80343a364bf6074f0fd2f1e41821dfa70e6d81b34"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b28dab003846f9ff4b1130a80343a364bf6074f0fd2f1e41821dfa70e6d81b34"
+      },
+      "9": {
+        "source_ref": "Jeremiah 17:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 9,
+            "source_ref": "Jeremiah 17:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7caaa05b5d12e95f81a039781930be0b3d80a2d982818536ab457e07c44dfe44"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7caaa05b5d12e95f81a039781930be0b3d80a2d982818536ab457e07c44dfe44"
+      },
+      "10": {
+        "source_ref": "Jeremiah 17:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 10,
+            "source_ref": "Jeremiah 17:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ed488dc57bfecb7f6d69b363874c97668cdad64f4f1b97090d1c6a304b08a0e3"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ed488dc57bfecb7f6d69b363874c97668cdad64f4f1b97090d1c6a304b08a0e3"
+      },
+      "11": {
+        "source_ref": "Jeremiah 17:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 11,
+            "source_ref": "Jeremiah 17:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1d425e104710d8d0b7d131c25c15e67aa8fa953686e740aed2712d98af99b88b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1d425e104710d8d0b7d131c25c15e67aa8fa953686e740aed2712d98af99b88b"
+      },
+      "12": {
+        "source_ref": "Jeremiah 17:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 12,
+            "source_ref": "Jeremiah 17:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e6daad494a2e2a9b35067b3b9f1af2e8c72c077adc04d2b97d2026c06939fe7c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e6daad494a2e2a9b35067b3b9f1af2e8c72c077adc04d2b97d2026c06939fe7c"
+      },
+      "13": {
+        "source_ref": "Jeremiah 17:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 13,
+            "source_ref": "Jeremiah 17:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6756b30a13a5f96c1a30dd888ff3a1d8d8e14f210c3d14c542607ec8e2f1fd0a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6756b30a13a5f96c1a30dd888ff3a1d8d8e14f210c3d14c542607ec8e2f1fd0a"
+      },
+      "14": {
+        "source_ref": "Jeremiah 17:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 14,
+            "source_ref": "Jeremiah 17:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "cabea3534374ea44981ed1a9e9bc8dca84f99365be0c63cda12433ccb8383512"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "cabea3534374ea44981ed1a9e9bc8dca84f99365be0c63cda12433ccb8383512"
+      },
+      "15": {
+        "source_ref": "Jeremiah 17:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 15,
+            "source_ref": "Jeremiah 17:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "843f1e1de6ad50de8df0d34c15b8f6be6301a77ce47a91669f221800665df086"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "843f1e1de6ad50de8df0d34c15b8f6be6301a77ce47a91669f221800665df086"
+      },
+      "16": {
+        "source_ref": "Jeremiah 17:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 16,
+            "source_ref": "Jeremiah 17:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ed50a55d32af31d7f7d632e42b978c44f0e35d41751b6956b3d192bd1dccb606"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ed50a55d32af31d7f7d632e42b978c44f0e35d41751b6956b3d192bd1dccb606"
+      },
+      "17": {
+        "source_ref": "Jeremiah 17:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 17,
+            "source_ref": "Jeremiah 17:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "19a56a209f051612075b6472772be7a41719c8eb385d79159bc94ed0000dd5b7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "19a56a209f051612075b6472772be7a41719c8eb385d79159bc94ed0000dd5b7"
+      },
+      "18": {
+        "source_ref": "Jeremiah 17:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 18,
+            "source_ref": "Jeremiah 17:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "eb1e3aa14fbe25feacb33886981294118a4a3b5f02cb0b5eccd1d076976e4102"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "eb1e3aa14fbe25feacb33886981294118a4a3b5f02cb0b5eccd1d076976e4102"
+      },
+      "19": {
+        "source_ref": "Jeremiah 17:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 19,
+            "source_ref": "Jeremiah 17:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2870f3c748d4897854d8cdc7c9f2d191136de6c2402c2b5b99a218f9ad1d7ed3"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2870f3c748d4897854d8cdc7c9f2d191136de6c2402c2b5b99a218f9ad1d7ed3"
+      },
+      "20": {
+        "source_ref": "Jeremiah 17:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 20,
+            "source_ref": "Jeremiah 17:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6746b44f6256d6650b361e9a92d0070ff59f6d8468c3059532adfb6be5895932"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6746b44f6256d6650b361e9a92d0070ff59f6d8468c3059532adfb6be5895932"
+      },
+      "21": {
+        "source_ref": "Jeremiah 17:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 21,
+            "source_ref": "Jeremiah 17:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "dc38ac5da781016c323883d9a1fb7e59cfa7c2c6c712682124eff6b567426d97"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "dc38ac5da781016c323883d9a1fb7e59cfa7c2c6c712682124eff6b567426d97"
+      },
+      "22": {
+        "source_ref": "Jeremiah 17:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 22,
+            "source_ref": "Jeremiah 17:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2786af1494ee85c4aa2bae9937c16b975c9bb6d51081651cada2ac9788746497"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2786af1494ee85c4aa2bae9937c16b975c9bb6d51081651cada2ac9788746497"
+      },
+      "23": {
+        "source_ref": "Jeremiah 17:23 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 23,
+            "source_ref": "Jeremiah 17:23 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e826ccb16f8122b5fab4cd2ad68634abfe5b57a1f4646f888227815da25c12b4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e826ccb16f8122b5fab4cd2ad68634abfe5b57a1f4646f888227815da25c12b4"
+      },
+      "24": {
+        "source_ref": "Jeremiah 17:24 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 24,
+            "source_ref": "Jeremiah 17:24 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b0788536a239a988d5e5edeeab330883d23b768bcdcabf458be5b6cf91eac0b5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b0788536a239a988d5e5edeeab330883d23b768bcdcabf458be5b6cf91eac0b5"
+      },
+      "25": {
+        "source_ref": "Jeremiah 17:25 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 25,
+            "source_ref": "Jeremiah 17:25 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "caf93e6684a04feda290d2f6138fe28ba027ccef059949b1a74735c77feabf0d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "caf93e6684a04feda290d2f6138fe28ba027ccef059949b1a74735c77feabf0d"
+      },
+      "26": {
+        "source_ref": "Jeremiah 17:26 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 26,
+            "source_ref": "Jeremiah 17:26 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1f91542da4ef225946a971e75284a666946326163910b6c0e38a0e616656baf9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1f91542da4ef225946a971e75284a666946326163910b6c0e38a0e616656baf9"
+      },
+      "27": {
+        "source_ref": "Jeremiah 17:27 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 27,
+            "source_ref": "Jeremiah 17:27 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6ae58f90e896fae2cd9c396172b9e5395914c29780a226bfe8f3c6977cae53d0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6ae58f90e896fae2cd9c396172b9e5395914c29780a226bfe8f3c6977cae53d0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_17.md",
+    "blob_sha": "b089367f3307dda0cc400fe57f43683f0cf97b74"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

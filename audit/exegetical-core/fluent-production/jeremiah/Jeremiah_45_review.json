@@ -1,0 +1,111 @@
+{
+  "book": "Jeremiah",
+  "chapter": 45,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 45:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 1,
+            "source_ref": "Jeremiah 45:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6f6e0fc1be6dbd675bce8c8952f36c987708b9069c083860111bf6e1f2d93a75"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6f6e0fc1be6dbd675bce8c8952f36c987708b9069c083860111bf6e1f2d93a75"
+      },
+      "2": {
+        "source_ref": "Jeremiah 45:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 2,
+            "source_ref": "Jeremiah 45:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e5bff4e7d88dbc4445bcc5f812d5c233fcfdac6c534578d570f96eaa22ebbce2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e5bff4e7d88dbc4445bcc5f812d5c233fcfdac6c534578d570f96eaa22ebbce2"
+      },
+      "3": {
+        "source_ref": "Jeremiah 45:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 3,
+            "source_ref": "Jeremiah 45:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e8a6fda1efd1b644ce848e59ad616930b7ac168a5bd163f5c1e4bb57eabb3921"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e8a6fda1efd1b644ce848e59ad616930b7ac168a5bd163f5c1e4bb57eabb3921"
+      },
+      "4": {
+        "source_ref": "Jeremiah 45:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 4,
+            "source_ref": "Jeremiah 45:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d4636c0c44d45e1750453d32c0b5034e39fc3b4e8de845245e2839abbdcb7236"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d4636c0c44d45e1750453d32c0b5034e39fc3b4e8de845245e2839abbdcb7236"
+      },
+      "5": {
+        "source_ref": "Jeremiah 45:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 5,
+            "source_ref": "Jeremiah 45:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1e2f2ef0e246c8957bb9e903d99ba42f8a5beae9b84480eccf6a933f27ca5eab"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1e2f2ef0e246c8957bb9e903d99ba42f8a5beae9b84480eccf6a933f27ca5eab"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_45.md",
+    "blob_sha": "c383ed93614a0014f71e485331a251ce4bba6095"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

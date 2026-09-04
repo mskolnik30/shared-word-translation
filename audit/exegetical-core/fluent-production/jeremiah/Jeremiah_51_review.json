@@ -1,0 +1,996 @@
+{
+  "book": "Jeremiah",
+  "chapter": 51,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 51:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 1,
+            "source_ref": "Jeremiah 51:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "10412e0d604175698029f6fd2e8a6c3d604c3f2889785a1dd7d97bf54a271287"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "10412e0d604175698029f6fd2e8a6c3d604c3f2889785a1dd7d97bf54a271287"
+      },
+      "2": {
+        "source_ref": "Jeremiah 51:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 2,
+            "source_ref": "Jeremiah 51:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c2df25a3801dc5c76a602afe3a9dadc382a5993a69e2bfb445607636525e89b9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c2df25a3801dc5c76a602afe3a9dadc382a5993a69e2bfb445607636525e89b9"
+      },
+      "3": {
+        "source_ref": "Jeremiah 51:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 3,
+            "source_ref": "Jeremiah 51:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4cc53e67d3daf0b955f5b87a29ead405adae6f7753bc929045a7ede740cdc1bf"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4cc53e67d3daf0b955f5b87a29ead405adae6f7753bc929045a7ede740cdc1bf"
+      },
+      "4": {
+        "source_ref": "Jeremiah 51:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 4,
+            "source_ref": "Jeremiah 51:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e625a52e834b8cbe8e1b8adc0945160ad3cc03b647a8a743dff9892e0b29d458"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e625a52e834b8cbe8e1b8adc0945160ad3cc03b647a8a743dff9892e0b29d458"
+      },
+      "5": {
+        "source_ref": "Jeremiah 51:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 5,
+            "source_ref": "Jeremiah 51:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "844e6635a9c44e34bf78e3dc54b59501317893742761d07f2f5744a67b52b484"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "844e6635a9c44e34bf78e3dc54b59501317893742761d07f2f5744a67b52b484"
+      },
+      "6": {
+        "source_ref": "Jeremiah 51:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 6,
+            "source_ref": "Jeremiah 51:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "57601813115c4be44a1b4191586ced836095d952c04adf3e52178602d7a774e8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "57601813115c4be44a1b4191586ced836095d952c04adf3e52178602d7a774e8"
+      },
+      "7": {
+        "source_ref": "Jeremiah 51:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 7,
+            "source_ref": "Jeremiah 51:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e6ac12016d331be64dd430fd0f89e09c78ad94ec4769ff8d469cee581508252f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e6ac12016d331be64dd430fd0f89e09c78ad94ec4769ff8d469cee581508252f"
+      },
+      "8": {
+        "source_ref": "Jeremiah 51:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 8,
+            "source_ref": "Jeremiah 51:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9ad014c702796df61f97186c2465c0d6dd1526dda96cf7bf4e3cb13a75775467"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9ad014c702796df61f97186c2465c0d6dd1526dda96cf7bf4e3cb13a75775467"
+      },
+      "9": {
+        "source_ref": "Jeremiah 51:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 9,
+            "source_ref": "Jeremiah 51:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a5a00ed5e677578fbc372a0aefaeb7a87f3c745699133df55b1593e74c0c69dc"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a5a00ed5e677578fbc372a0aefaeb7a87f3c745699133df55b1593e74c0c69dc"
+      },
+      "10": {
+        "source_ref": "Jeremiah 51:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 10,
+            "source_ref": "Jeremiah 51:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d4c64899fe9586c52776e26de41c85efb6da0d6422bf9b07f70035eaf64c9fd7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d4c64899fe9586c52776e26de41c85efb6da0d6422bf9b07f70035eaf64c9fd7"
+      },
+      "11": {
+        "source_ref": "Jeremiah 51:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 11,
+            "source_ref": "Jeremiah 51:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "080cc671bdcb71032b492ef9dfc7bd694014293516e1c10412091ba0f0f48911"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "080cc671bdcb71032b492ef9dfc7bd694014293516e1c10412091ba0f0f48911"
+      },
+      "12": {
+        "source_ref": "Jeremiah 51:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 12,
+            "source_ref": "Jeremiah 51:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "646d7739c9648d6ad8632eb1a37452f403e0483f0a07d266754ed58f463b6b5f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "646d7739c9648d6ad8632eb1a37452f403e0483f0a07d266754ed58f463b6b5f"
+      },
+      "13": {
+        "source_ref": "Jeremiah 51:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 13,
+            "source_ref": "Jeremiah 51:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "17dbd17bf2cf13672c5f350247878e1f2d93ffbc4718b6e3c2609c8bc13a47bb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "17dbd17bf2cf13672c5f350247878e1f2d93ffbc4718b6e3c2609c8bc13a47bb"
+      },
+      "14": {
+        "source_ref": "Jeremiah 51:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 14,
+            "source_ref": "Jeremiah 51:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2100d36a96fb20ad40c2a28eda2d3d4f7adb2e83c7a9da84c386fef78d063e6e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2100d36a96fb20ad40c2a28eda2d3d4f7adb2e83c7a9da84c386fef78d063e6e"
+      },
+      "15": {
+        "source_ref": "Jeremiah 51:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 15,
+            "source_ref": "Jeremiah 51:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c96938171af95d97eae6d75d007deabc8426e538838b39150844e7f1849c21ed"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c96938171af95d97eae6d75d007deabc8426e538838b39150844e7f1849c21ed"
+      },
+      "16": {
+        "source_ref": "Jeremiah 51:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 16,
+            "source_ref": "Jeremiah 51:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c946281b022207372a371dca06478c837fd482b00550ea20d53258a6c09c2fa5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c946281b022207372a371dca06478c837fd482b00550ea20d53258a6c09c2fa5"
+      },
+      "17": {
+        "source_ref": "Jeremiah 51:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 17,
+            "source_ref": "Jeremiah 51:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0949aaa9bb44993af72817735b7a4256a57203c75cdf90cbc726241f8fccb672"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0949aaa9bb44993af72817735b7a4256a57203c75cdf90cbc726241f8fccb672"
+      },
+      "18": {
+        "source_ref": "Jeremiah 51:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 18,
+            "source_ref": "Jeremiah 51:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "35981a4d904c6b4a975317d701a243e2cf3c60a2d34867d374beee108af2afd4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "35981a4d904c6b4a975317d701a243e2cf3c60a2d34867d374beee108af2afd4"
+      },
+      "19": {
+        "source_ref": "Jeremiah 51:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 19,
+            "source_ref": "Jeremiah 51:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e9783c8860ea4ff59d5f60f0fe1fa091fc4cc2061dba9353d1592e52ce97d9bd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e9783c8860ea4ff59d5f60f0fe1fa091fc4cc2061dba9353d1592e52ce97d9bd"
+      },
+      "20": {
+        "source_ref": "Jeremiah 51:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 20,
+            "source_ref": "Jeremiah 51:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "412d70ce323a494f4816e1cb99996ddf2122c2033910efc5c6d19b0e2e2ac055"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "412d70ce323a494f4816e1cb99996ddf2122c2033910efc5c6d19b0e2e2ac055"
+      },
+      "21": {
+        "source_ref": "Jeremiah 51:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 21,
+            "source_ref": "Jeremiah 51:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "784356fecf61b76120dd3bbe0ff56132ad776634434fe5bb6c136eca60f314c1"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "784356fecf61b76120dd3bbe0ff56132ad776634434fe5bb6c136eca60f314c1"
+      },
+      "22": {
+        "source_ref": "Jeremiah 51:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 22,
+            "source_ref": "Jeremiah 51:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5327d907d9ed25690489c587adbce4e6d841e40ead252276490d1fa9cf802371"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5327d907d9ed25690489c587adbce4e6d841e40ead252276490d1fa9cf802371"
+      },
+      "23": {
+        "source_ref": "Jeremiah 51:23 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 23,
+            "source_ref": "Jeremiah 51:23 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2391089a89f1fabc33b9f0fbe66280a9e06e55ac1673b909040376a3e8e845ef"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2391089a89f1fabc33b9f0fbe66280a9e06e55ac1673b909040376a3e8e845ef"
+      },
+      "24": {
+        "source_ref": "Jeremiah 51:24 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 24,
+            "source_ref": "Jeremiah 51:24 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4dcab3cf6232330f2b97892abfc38cc61249bd771071f65f2bcdf7b6246a8778"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4dcab3cf6232330f2b97892abfc38cc61249bd771071f65f2bcdf7b6246a8778"
+      },
+      "25": {
+        "source_ref": "Jeremiah 51:25 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 25,
+            "source_ref": "Jeremiah 51:25 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "78614d4b8f21520d80a5da5965cf3169a9f8cbe75206cb151bf8b95b5baa06ed"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "78614d4b8f21520d80a5da5965cf3169a9f8cbe75206cb151bf8b95b5baa06ed"
+      },
+      "26": {
+        "source_ref": "Jeremiah 51:26 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 26,
+            "source_ref": "Jeremiah 51:26 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2c50db83801a95b6e881c5b6bbfb64513b4fb526b147aa9cdc999f13a06bf8e8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2c50db83801a95b6e881c5b6bbfb64513b4fb526b147aa9cdc999f13a06bf8e8"
+      },
+      "27": {
+        "source_ref": "Jeremiah 51:27 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 27,
+            "source_ref": "Jeremiah 51:27 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5e8472e63b03ab570295179956634ac3d6b5a9bf8747995e8b433f5367b9570c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5e8472e63b03ab570295179956634ac3d6b5a9bf8747995e8b433f5367b9570c"
+      },
+      "28": {
+        "source_ref": "Jeremiah 51:28 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 28,
+            "source_ref": "Jeremiah 51:28 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "20871c6d8b12cb88bef8b7f5a6604f6aa2e193083c03a98bd4db15801619773d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "20871c6d8b12cb88bef8b7f5a6604f6aa2e193083c03a98bd4db15801619773d"
+      },
+      "29": {
+        "source_ref": "Jeremiah 51:29 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 29,
+            "source_ref": "Jeremiah 51:29 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a2733c48c5ad7e94a1c62b17aa8a08c10d8b6aaf8454b9f0214430f3639da2cb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a2733c48c5ad7e94a1c62b17aa8a08c10d8b6aaf8454b9f0214430f3639da2cb"
+      },
+      "30": {
+        "source_ref": "Jeremiah 51:30 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 30,
+            "source_ref": "Jeremiah 51:30 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5eeea99c2c58a852625164e4886689e828931ab7e2300e41604085b121a3c704"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5eeea99c2c58a852625164e4886689e828931ab7e2300e41604085b121a3c704"
+      },
+      "31": {
+        "source_ref": "Jeremiah 51:31 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 31,
+            "source_ref": "Jeremiah 51:31 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6afb1ef856d7bbd785c42a6d729e7535e01d5b7f7caad9226339c86d18762e0b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6afb1ef856d7bbd785c42a6d729e7535e01d5b7f7caad9226339c86d18762e0b"
+      },
+      "32": {
+        "source_ref": "Jeremiah 51:32 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 32,
+            "source_ref": "Jeremiah 51:32 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f13fdb7b75e9e6e75a955d1943344171332e8d82a9e59481214fd1b3b816c17a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f13fdb7b75e9e6e75a955d1943344171332e8d82a9e59481214fd1b3b816c17a"
+      },
+      "33": {
+        "source_ref": "Jeremiah 51:33 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 33,
+            "source_ref": "Jeremiah 51:33 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "07c75c2bab5c5d7b3d44ec5769e7089b5270af6871b204f67fc6cb365a4f8e37"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "07c75c2bab5c5d7b3d44ec5769e7089b5270af6871b204f67fc6cb365a4f8e37"
+      },
+      "34": {
+        "source_ref": "Jeremiah 51:34 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 34,
+            "source_ref": "Jeremiah 51:34 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b52bc130ad80a8889704f204fc05a53bcb70b66f58c3c8c134c4b52ce11841c4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b52bc130ad80a8889704f204fc05a53bcb70b66f58c3c8c134c4b52ce11841c4"
+      },
+      "35": {
+        "source_ref": "Jeremiah 51:35 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 35,
+            "source_ref": "Jeremiah 51:35 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f78d9928b55e347dd5f3069c9d8da28c62bdbbc0d00c6417b07e96a22b5a6062"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f78d9928b55e347dd5f3069c9d8da28c62bdbbc0d00c6417b07e96a22b5a6062"
+      },
+      "36": {
+        "source_ref": "Jeremiah 51:36 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 36,
+            "source_ref": "Jeremiah 51:36 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bbeee094fcdf7e9a26edfa59b3826f01d0b073e74d791baa1a2425d426a31465"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bbeee094fcdf7e9a26edfa59b3826f01d0b073e74d791baa1a2425d426a31465"
+      },
+      "37": {
+        "source_ref": "Jeremiah 51:37 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 37,
+            "source_ref": "Jeremiah 51:37 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f166762368f0d39e0acaa1f2ca1f7b8176f9326223e646bfca77a31e2b88b007"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f166762368f0d39e0acaa1f2ca1f7b8176f9326223e646bfca77a31e2b88b007"
+      },
+      "38": {
+        "source_ref": "Jeremiah 51:38 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 38,
+            "source_ref": "Jeremiah 51:38 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "194b5302d5a085af3ec593027d279cd1d6ca0ee6169058eb79d98d67f0b823f2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "194b5302d5a085af3ec593027d279cd1d6ca0ee6169058eb79d98d67f0b823f2"
+      },
+      "39": {
+        "source_ref": "Jeremiah 51:39 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 39,
+            "source_ref": "Jeremiah 51:39 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "01f03276476c73213305bec0b80f731786cf8095053d998be44956ef4b4c4df9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "01f03276476c73213305bec0b80f731786cf8095053d998be44956ef4b4c4df9"
+      },
+      "40": {
+        "source_ref": "Jeremiah 51:40 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 40,
+            "source_ref": "Jeremiah 51:40 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "017ec5b1570a6ceec8b74b531b72d60c9f6887a9c0ce20b33864170163aa141b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "017ec5b1570a6ceec8b74b531b72d60c9f6887a9c0ce20b33864170163aa141b"
+      },
+      "41": {
+        "source_ref": "Jeremiah 51:41 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 41,
+            "source_ref": "Jeremiah 51:41 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5c0e21f835d2b7f34d09f8500356f3aa0cb3160f50564b186f76c4d5abf8acd5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5c0e21f835d2b7f34d09f8500356f3aa0cb3160f50564b186f76c4d5abf8acd5"
+      },
+      "42": {
+        "source_ref": "Jeremiah 51:42 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 42,
+            "source_ref": "Jeremiah 51:42 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7b63a9af3d98ab4044e6ae8a81296fe98c7722cb38fd745f6d7557575dc1bdb4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7b63a9af3d98ab4044e6ae8a81296fe98c7722cb38fd745f6d7557575dc1bdb4"
+      },
+      "43": {
+        "source_ref": "Jeremiah 51:43 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 43,
+            "source_ref": "Jeremiah 51:43 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d39dfc4b34d177e1823b50f4d412451115f50d2ca7894fd8b7344502478f50de"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d39dfc4b34d177e1823b50f4d412451115f50d2ca7894fd8b7344502478f50de"
+      },
+      "44": {
+        "source_ref": "Jeremiah 51:44 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 44,
+            "source_ref": "Jeremiah 51:44 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d26a9135334501930ba1ddecbf07fc985a46c854f12da77de14d5036dfb09ef7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d26a9135334501930ba1ddecbf07fc985a46c854f12da77de14d5036dfb09ef7"
+      },
+      "45": {
+        "source_ref": "Jeremiah 51:45 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 45,
+            "source_ref": "Jeremiah 51:45 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8f875ada0be2fbefd0fc04a3728712c789c01683a40f794482eab1310f155cd9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8f875ada0be2fbefd0fc04a3728712c789c01683a40f794482eab1310f155cd9"
+      },
+      "46": {
+        "source_ref": "Jeremiah 51:46 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 46,
+            "source_ref": "Jeremiah 51:46 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "15ba2742781f28642c2c4ec3eeb7dc4a55399cc5e64fea8f1a6960dc98465cd8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "15ba2742781f28642c2c4ec3eeb7dc4a55399cc5e64fea8f1a6960dc98465cd8"
+      },
+      "47": {
+        "source_ref": "Jeremiah 51:47 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 47,
+            "source_ref": "Jeremiah 51:47 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b69e5e0148879e50e2a9914a486a6a4b5df10c3acd976049ab5fee57bea22ffe"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b69e5e0148879e50e2a9914a486a6a4b5df10c3acd976049ab5fee57bea22ffe"
+      },
+      "48": {
+        "source_ref": "Jeremiah 51:48 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 48,
+            "source_ref": "Jeremiah 51:48 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3d378286c361ef9145bd9365e40a9c6b3c5f0784a21c7530925eb852dc005026"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3d378286c361ef9145bd9365e40a9c6b3c5f0784a21c7530925eb852dc005026"
+      },
+      "49": {
+        "source_ref": "Jeremiah 51:49 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 49,
+            "source_ref": "Jeremiah 51:49 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ddeef71ddd8ca428345f4083ca08d015f14bf0e3b62f1d50577fc7ca6fde0c25"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ddeef71ddd8ca428345f4083ca08d015f14bf0e3b62f1d50577fc7ca6fde0c25"
+      },
+      "50": {
+        "source_ref": "Jeremiah 51:50 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 50,
+            "source_ref": "Jeremiah 51:50 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "71f471a0ba7a261085d455b64f3fcc00b2ea7139970837c525c8be6e3972b17b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "71f471a0ba7a261085d455b64f3fcc00b2ea7139970837c525c8be6e3972b17b"
+      },
+      "51": {
+        "source_ref": "Jeremiah 51:51 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 51,
+            "source_ref": "Jeremiah 51:51 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9b0cbb565722cd75b5922453fe8b9b5b95c8d1113f3cc9cbea4940634a054aef"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9b0cbb565722cd75b5922453fe8b9b5b95c8d1113f3cc9cbea4940634a054aef"
+      },
+      "52": {
+        "source_ref": "Jeremiah 51:52 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 52,
+            "source_ref": "Jeremiah 51:52 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f8fd6a186ec218c78dd9abeee960183435a0dc464cf238d989fc9874f622bbcb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f8fd6a186ec218c78dd9abeee960183435a0dc464cf238d989fc9874f622bbcb"
+      },
+      "53": {
+        "source_ref": "Jeremiah 51:53 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 53,
+            "source_ref": "Jeremiah 51:53 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "29bd3265340a662388e670b97b1c8e7e6d0c42473c4dc3e6e91d11d6d2ba1119"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "29bd3265340a662388e670b97b1c8e7e6d0c42473c4dc3e6e91d11d6d2ba1119"
+      },
+      "54": {
+        "source_ref": "Jeremiah 51:54 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 54,
+            "source_ref": "Jeremiah 51:54 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1f11f1c17c7172e869da4c62faa315e62762e360441ce170bd07778442bc84a3"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1f11f1c17c7172e869da4c62faa315e62762e360441ce170bd07778442bc84a3"
+      },
+      "55": {
+        "source_ref": "Jeremiah 51:55 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 55,
+            "source_ref": "Jeremiah 51:55 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4b64868d00aa9d75725811b9d24ef8d5d13d2e06cd6d14f15aac02789abc1143"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4b64868d00aa9d75725811b9d24ef8d5d13d2e06cd6d14f15aac02789abc1143"
+      },
+      "56": {
+        "source_ref": "Jeremiah 51:56 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 56,
+            "source_ref": "Jeremiah 51:56 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5a80eb8dc5d1e2df7a17e1efc8d654c63bab2531c9e21479e23792ba795a1d47"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5a80eb8dc5d1e2df7a17e1efc8d654c63bab2531c9e21479e23792ba795a1d47"
+      },
+      "57": {
+        "source_ref": "Jeremiah 51:57 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 57,
+            "source_ref": "Jeremiah 51:57 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ec5abda96236a3c24362a2a9cd43813eb5ff4535b7d0624080ba4e50d7790f55"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ec5abda96236a3c24362a2a9cd43813eb5ff4535b7d0624080ba4e50d7790f55"
+      },
+      "58": {
+        "source_ref": "Jeremiah 51:58 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 58,
+            "source_ref": "Jeremiah 51:58 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5ebbf016aebecdab94524ae13ce9d79c793b8fa9cf20eb86bc5cf64fa052872c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5ebbf016aebecdab94524ae13ce9d79c793b8fa9cf20eb86bc5cf64fa052872c"
+      },
+      "59": {
+        "source_ref": "Jeremiah 51:59 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 59,
+            "source_ref": "Jeremiah 51:59 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "77244ddff64c68c4182fb3cbab5456dd9322106ef79768541229c5c4052543d4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "77244ddff64c68c4182fb3cbab5456dd9322106ef79768541229c5c4052543d4"
+      },
+      "60": {
+        "source_ref": "Jeremiah 51:60 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 60,
+            "source_ref": "Jeremiah 51:60 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c62883c55372444955ed774665159e974ee0966310db799d19d624175281cd67"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c62883c55372444955ed774665159e974ee0966310db799d19d624175281cd67"
+      },
+      "61": {
+        "source_ref": "Jeremiah 51:61 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 61,
+            "source_ref": "Jeremiah 51:61 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "78a37a8939dbbe1a432ecbb517f71f3db7d6261f9816ad42fb682c115dcc8d5b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "78a37a8939dbbe1a432ecbb517f71f3db7d6261f9816ad42fb682c115dcc8d5b"
+      },
+      "62": {
+        "source_ref": "Jeremiah 51:62 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 62,
+            "source_ref": "Jeremiah 51:62 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "586d1e849d8b75bf778b754252e01da824992726c91b00783c4da7edd37570cb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "586d1e849d8b75bf778b754252e01da824992726c91b00783c4da7edd37570cb"
+      },
+      "63": {
+        "source_ref": "Jeremiah 51:63 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 63,
+            "source_ref": "Jeremiah 51:63 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d0997aa72629584c809c31cadb4175ae3b2a56e4ec4ccb7ea38e298b4c374ec7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d0997aa72629584c809c31cadb4175ae3b2a56e4ec4ccb7ea38e298b4c374ec7"
+      },
+      "64": {
+        "source_ref": "Jeremiah 51:64 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 64,
+            "source_ref": "Jeremiah 51:64 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ab95b02ed7aff4c97bd1dfda6f413adf467b64d8e510d2732bf6801a640d69c5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ab95b02ed7aff4c97bd1dfda6f413adf467b64d8e510d2732bf6801a640d69c5"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_51.md",
+    "blob_sha": "748719af621e0be97e35151daebd9423ed714e23"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

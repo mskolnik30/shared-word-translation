@@ -1,0 +1,411 @@
+{
+  "book": "Jeremiah",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 10:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 1,
+            "source_ref": "Jeremiah 10:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "23b713a297aecd5ae1f9f348cea7c5dc4d0957690956bba199c6126c4b95447c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "23b713a297aecd5ae1f9f348cea7c5dc4d0957690956bba199c6126c4b95447c"
+      },
+      "2": {
+        "source_ref": "Jeremiah 10:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 2,
+            "source_ref": "Jeremiah 10:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "fbc2252a86e679a95c42aed7d9d37d61241c427b8d3fcbf8445a644bd6d61eaa"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "fbc2252a86e679a95c42aed7d9d37d61241c427b8d3fcbf8445a644bd6d61eaa"
+      },
+      "3": {
+        "source_ref": "Jeremiah 10:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 3,
+            "source_ref": "Jeremiah 10:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "37dc77e10fd0af63e13b4c6831fb88038c9a7d1c8b416649573e9dfee19e0235"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "37dc77e10fd0af63e13b4c6831fb88038c9a7d1c8b416649573e9dfee19e0235"
+      },
+      "4": {
+        "source_ref": "Jeremiah 10:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 4,
+            "source_ref": "Jeremiah 10:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "28b41b166bb8f804f4741c28ef4e48111ced801464313b90489d81da93274936"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "28b41b166bb8f804f4741c28ef4e48111ced801464313b90489d81da93274936"
+      },
+      "5": {
+        "source_ref": "Jeremiah 10:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 5,
+            "source_ref": "Jeremiah 10:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c76b4ded69f8e5f9b3da1ce3adbc67d13e713a5d23a50fb4136a35e8f65ea680"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c76b4ded69f8e5f9b3da1ce3adbc67d13e713a5d23a50fb4136a35e8f65ea680"
+      },
+      "6": {
+        "source_ref": "Jeremiah 10:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 6,
+            "source_ref": "Jeremiah 10:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5fa8dd83c62733e0ca815c91d9a2732c090dd0b537e43c18727f968392ef8a24"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5fa8dd83c62733e0ca815c91d9a2732c090dd0b537e43c18727f968392ef8a24"
+      },
+      "7": {
+        "source_ref": "Jeremiah 10:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 7,
+            "source_ref": "Jeremiah 10:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7cb06586dd86a31075b45bbf8e78e1522402a54db49a42d131bbf78d5cc5664f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7cb06586dd86a31075b45bbf8e78e1522402a54db49a42d131bbf78d5cc5664f"
+      },
+      "8": {
+        "source_ref": "Jeremiah 10:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 8,
+            "source_ref": "Jeremiah 10:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "04b8d1953de17b1133f8186603941182adc94db48706c24ba23c70f1abea5dcd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "04b8d1953de17b1133f8186603941182adc94db48706c24ba23c70f1abea5dcd"
+      },
+      "9": {
+        "source_ref": "Jeremiah 10:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 9,
+            "source_ref": "Jeremiah 10:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2493e2d077e505bcc0098ce0bcac55f1ca2f5fdcee7cf17b7f694814d524dcba"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2493e2d077e505bcc0098ce0bcac55f1ca2f5fdcee7cf17b7f694814d524dcba"
+      },
+      "10": {
+        "source_ref": "Jeremiah 10:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 10,
+            "source_ref": "Jeremiah 10:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "39db04461939a67c8a9f331affc40631443ad07da1faea9919e4e957529d3f83"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "39db04461939a67c8a9f331affc40631443ad07da1faea9919e4e957529d3f83"
+      },
+      "11": {
+        "source_ref": "Jeremiah 10:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 11,
+            "source_ref": "Jeremiah 10:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0f8151b044ae98091512c66fe82bfeea5dc46ca5d2dc1f7ac91cd110a5031d32"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0f8151b044ae98091512c66fe82bfeea5dc46ca5d2dc1f7ac91cd110a5031d32"
+      },
+      "12": {
+        "source_ref": "Jeremiah 10:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 12,
+            "source_ref": "Jeremiah 10:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c96938171af95d97eae6d75d007deabc8426e538838b39150844e7f1849c21ed"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c96938171af95d97eae6d75d007deabc8426e538838b39150844e7f1849c21ed"
+      },
+      "13": {
+        "source_ref": "Jeremiah 10:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 13,
+            "source_ref": "Jeremiah 10:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a697dab091f4b7758eb8e59735139ad37c6d4649eeffc07cea8adc9045353f79"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a697dab091f4b7758eb8e59735139ad37c6d4649eeffc07cea8adc9045353f79"
+      },
+      "14": {
+        "source_ref": "Jeremiah 10:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 14,
+            "source_ref": "Jeremiah 10:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5efef2b28989d7ab2470a02a293d899190e94daa0cd611af70a7fa3a0017efa3"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5efef2b28989d7ab2470a02a293d899190e94daa0cd611af70a7fa3a0017efa3"
+      },
+      "15": {
+        "source_ref": "Jeremiah 10:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 15,
+            "source_ref": "Jeremiah 10:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "35981a4d904c6b4a975317d701a243e2cf3c60a2d34867d374beee108af2afd4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "35981a4d904c6b4a975317d701a243e2cf3c60a2d34867d374beee108af2afd4"
+      },
+      "16": {
+        "source_ref": "Jeremiah 10:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 16,
+            "source_ref": "Jeremiah 10:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7640f837c94cab338eb0052adf9576dbeac01c39529b3edf43041671be5e43f5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7640f837c94cab338eb0052adf9576dbeac01c39529b3edf43041671be5e43f5"
+      },
+      "17": {
+        "source_ref": "Jeremiah 10:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 17,
+            "source_ref": "Jeremiah 10:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5d4d7c2467777995dbdfc3ad54dde1da3e44d8adba42910c7b477ee1a8fdf8e8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5d4d7c2467777995dbdfc3ad54dde1da3e44d8adba42910c7b477ee1a8fdf8e8"
+      },
+      "18": {
+        "source_ref": "Jeremiah 10:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 18,
+            "source_ref": "Jeremiah 10:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e8cad5e781bcd4c771aa964f02bbacfecdf4825f8564e4007d519f2f271efe43"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e8cad5e781bcd4c771aa964f02bbacfecdf4825f8564e4007d519f2f271efe43"
+      },
+      "19": {
+        "source_ref": "Jeremiah 10:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 19,
+            "source_ref": "Jeremiah 10:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5a88063c49a39a45e25933f62c45bc7f317c51dfe18a8a9d448e0b1fb6be1d3b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5a88063c49a39a45e25933f62c45bc7f317c51dfe18a8a9d448e0b1fb6be1d3b"
+      },
+      "20": {
+        "source_ref": "Jeremiah 10:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 20,
+            "source_ref": "Jeremiah 10:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bd751d14338bc77529d4d45f05c203d25c0e4bbd4fb14c440c17a59d6f7f7c8a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bd751d14338bc77529d4d45f05c203d25c0e4bbd4fb14c440c17a59d6f7f7c8a"
+      },
+      "21": {
+        "source_ref": "Jeremiah 10:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 21,
+            "source_ref": "Jeremiah 10:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f7f4b32dd0ce393cf7c750efe42208212dadcbbc038263e799a1a023dce9e07c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f7f4b32dd0ce393cf7c750efe42208212dadcbbc038263e799a1a023dce9e07c"
+      },
+      "22": {
+        "source_ref": "Jeremiah 10:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 22,
+            "source_ref": "Jeremiah 10:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "40705335a635f0b6edf47c047430d5f63d201eaf0731d9db99b8e95189adf89b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "40705335a635f0b6edf47c047430d5f63d201eaf0731d9db99b8e95189adf89b"
+      },
+      "23": {
+        "source_ref": "Jeremiah 10:23 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 23,
+            "source_ref": "Jeremiah 10:23 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "88ecb08ee43221710a0e41cc67806cc724fdfc71f30c7469f8c4a03dede3cbf8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "88ecb08ee43221710a0e41cc67806cc724fdfc71f30c7469f8c4a03dede3cbf8"
+      },
+      "24": {
+        "source_ref": "Jeremiah 10:24 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 24,
+            "source_ref": "Jeremiah 10:24 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ed525c5e5d92bcf05a0fd5226a432a1b5c803458e922c47419af76cce0af4b10"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ed525c5e5d92bcf05a0fd5226a432a1b5c803458e922c47419af76cce0af4b10"
+      },
+      "25": {
+        "source_ref": "Jeremiah 10:25 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 25,
+            "source_ref": "Jeremiah 10:25 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "25c354eb01bdf1d3f797c57652c6d69126b2a056401f16d322545ce64f707d6f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "25c354eb01bdf1d3f797c57652c6d69126b2a056401f16d322545ce64f707d6f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_10.md",
+    "blob_sha": "ff1f38e6de14c8587f6e84725fff604515e77be4"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,141 @@
+{
+  "book": "Jeremiah",
+  "chapter": 47,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 47:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 1,
+            "source_ref": "Jeremiah 47:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "168753c4b09ce8407d07880c9913c404870eefeef838a13f26f8bac69ae3005b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "168753c4b09ce8407d07880c9913c404870eefeef838a13f26f8bac69ae3005b"
+      },
+      "2": {
+        "source_ref": "Jeremiah 47:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 2,
+            "source_ref": "Jeremiah 47:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b6c498ba45d2f44726a210e86444f81b0db48061e881721aad47989af2866e68"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b6c498ba45d2f44726a210e86444f81b0db48061e881721aad47989af2866e68"
+      },
+      "3": {
+        "source_ref": "Jeremiah 47:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 3,
+            "source_ref": "Jeremiah 47:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "232990a20cc35a2800e750c0d82e1e940d4ff3a6f1140ec822538ab75f3779d1"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "232990a20cc35a2800e750c0d82e1e940d4ff3a6f1140ec822538ab75f3779d1"
+      },
+      "4": {
+        "source_ref": "Jeremiah 47:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 4,
+            "source_ref": "Jeremiah 47:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c1e095809815e2814baf8199f346424efd4ab83465a71c2e80bac0966a1b1547"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c1e095809815e2814baf8199f346424efd4ab83465a71c2e80bac0966a1b1547"
+      },
+      "5": {
+        "source_ref": "Jeremiah 47:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 5,
+            "source_ref": "Jeremiah 47:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8ac8ec81fe41db44c51cdc0ffc7df841fc7dcc87bf6a5ed65705f37b6ff88a58"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8ac8ec81fe41db44c51cdc0ffc7df841fc7dcc87bf6a5ed65705f37b6ff88a58"
+      },
+      "6": {
+        "source_ref": "Jeremiah 47:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 6,
+            "source_ref": "Jeremiah 47:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3de88b997227d7249bf351fc93f8175de4a162d1ca87be7545b15fb2cf4344a3"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3de88b997227d7249bf351fc93f8175de4a162d1ca87be7545b15fb2cf4344a3"
+      },
+      "7": {
+        "source_ref": "Jeremiah 47:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 7,
+            "source_ref": "Jeremiah 47:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b92a84823842eb6e950f436d1617bb6e5b476ae56eac151cd246b536d95f4fb5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b92a84823842eb6e950f436d1617bb6e5b476ae56eac151cd246b536d95f4fb5"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_47.md",
+    "blob_sha": "38a81bc39f3519998f3cf1d6aff3d5dbebb702da"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

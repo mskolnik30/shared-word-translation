@@ -1,0 +1,402 @@
+{
+  "book": "Jeremiah",
+  "chapter": 30,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "30:1-33:26",
+      "decision": "Preserve restoration, grief, new covenant, land purchase, justice, and durable promise without erasing prior judgment.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 30:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 1,
+            "source_ref": "Jeremiah 30:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d14b0d7b1d66769562a98b94b1ed913745977f25907eeb45fb3726544b0f68c1"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d14b0d7b1d66769562a98b94b1ed913745977f25907eeb45fb3726544b0f68c1"
+      },
+      "2": {
+        "source_ref": "Jeremiah 30:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 2,
+            "source_ref": "Jeremiah 30:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1e4651e5ee97fb726a835c288a81ff672ce98cd557133bf7dd0443d5d9f230b0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1e4651e5ee97fb726a835c288a81ff672ce98cd557133bf7dd0443d5d9f230b0"
+      },
+      "3": {
+        "source_ref": "Jeremiah 30:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 3,
+            "source_ref": "Jeremiah 30:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c1a8d1d0b63250f485b2abf15d78b7fd252d71ffc998e62ae679d7ff4b9ca295"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c1a8d1d0b63250f485b2abf15d78b7fd252d71ffc998e62ae679d7ff4b9ca295"
+      },
+      "4": {
+        "source_ref": "Jeremiah 30:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 4,
+            "source_ref": "Jeremiah 30:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "169830626a8415c0a792a7264d6bbe360378d10135da831c4020f909a8bdc13a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "169830626a8415c0a792a7264d6bbe360378d10135da831c4020f909a8bdc13a"
+      },
+      "5": {
+        "source_ref": "Jeremiah 30:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 5,
+            "source_ref": "Jeremiah 30:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "205f366ce995fc09ff46a05e3b09a538b176cd357d41301c6dd978d29f761956"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "205f366ce995fc09ff46a05e3b09a538b176cd357d41301c6dd978d29f761956"
+      },
+      "6": {
+        "source_ref": "Jeremiah 30:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 6,
+            "source_ref": "Jeremiah 30:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bfe95b3b46f36d1007d735ee206dade4c742c5984b2b174ceefb5dee243c344c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bfe95b3b46f36d1007d735ee206dade4c742c5984b2b174ceefb5dee243c344c"
+      },
+      "7": {
+        "source_ref": "Jeremiah 30:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 7,
+            "source_ref": "Jeremiah 30:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d550ffb8fd067b4a85ccb9999aaf028fe0bf121d04a842c937a71b9845628acd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d550ffb8fd067b4a85ccb9999aaf028fe0bf121d04a842c937a71b9845628acd"
+      },
+      "8": {
+        "source_ref": "Jeremiah 30:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 8,
+            "source_ref": "Jeremiah 30:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1aeb3837e579d430d77a2e86cc9610170c34fce9474060d22549a964cf7da719"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1aeb3837e579d430d77a2e86cc9610170c34fce9474060d22549a964cf7da719"
+      },
+      "9": {
+        "source_ref": "Jeremiah 30:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 9,
+            "source_ref": "Jeremiah 30:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3eae86ebc9f00d1f2d5ae199d5264620a57d4715ecbfce9880ee0be75f004a21"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3eae86ebc9f00d1f2d5ae199d5264620a57d4715ecbfce9880ee0be75f004a21"
+      },
+      "10": {
+        "source_ref": "Jeremiah 30:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 10,
+            "source_ref": "Jeremiah 30:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d25caaea60f3a3feca185a2761cd4bfb0812049fecd6b231e93d70ba846aad56"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d25caaea60f3a3feca185a2761cd4bfb0812049fecd6b231e93d70ba846aad56"
+      },
+      "11": {
+        "source_ref": "Jeremiah 30:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 11,
+            "source_ref": "Jeremiah 30:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "87d9818833f04a9918f6a4beebb3731a698a9bcca90ecff4893d2f857f4eefae"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "87d9818833f04a9918f6a4beebb3731a698a9bcca90ecff4893d2f857f4eefae"
+      },
+      "12": {
+        "source_ref": "Jeremiah 30:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 12,
+            "source_ref": "Jeremiah 30:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0ab0e200b0e44c297d36ded3e06b5c9c9a4494cea6c9d0d478b552d58c63c2e5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0ab0e200b0e44c297d36ded3e06b5c9c9a4494cea6c9d0d478b552d58c63c2e5"
+      },
+      "13": {
+        "source_ref": "Jeremiah 30:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 13,
+            "source_ref": "Jeremiah 30:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bda0aeac0d2cbae4890c0446cde5bc782c73506cab613c46c5314e4c62cf6e85"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bda0aeac0d2cbae4890c0446cde5bc782c73506cab613c46c5314e4c62cf6e85"
+      },
+      "14": {
+        "source_ref": "Jeremiah 30:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 14,
+            "source_ref": "Jeremiah 30:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "21336bc571196dfecca59854d8cc52f2c3db8ecbdd6b685efcfaec02a17580c9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "21336bc571196dfecca59854d8cc52f2c3db8ecbdd6b685efcfaec02a17580c9"
+      },
+      "15": {
+        "source_ref": "Jeremiah 30:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 15,
+            "source_ref": "Jeremiah 30:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "da4eaf839c51297b97b96f754954eb99369261097e0fd6a49dfd97b280d73b4a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "da4eaf839c51297b97b96f754954eb99369261097e0fd6a49dfd97b280d73b4a"
+      },
+      "16": {
+        "source_ref": "Jeremiah 30:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 16,
+            "source_ref": "Jeremiah 30:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "21bb68cc55d4eb8c4aa1aefa4989bca3568fbc5d08c7be94a658d7cd7409a0b9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "21bb68cc55d4eb8c4aa1aefa4989bca3568fbc5d08c7be94a658d7cd7409a0b9"
+      },
+      "17": {
+        "source_ref": "Jeremiah 30:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 17,
+            "source_ref": "Jeremiah 30:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7bab639ca9aa436f1db38ed636b517acd3ed2e723628e5462c118c800be6c7fb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7bab639ca9aa436f1db38ed636b517acd3ed2e723628e5462c118c800be6c7fb"
+      },
+      "18": {
+        "source_ref": "Jeremiah 30:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 18,
+            "source_ref": "Jeremiah 30:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a814ee08668908e0cef4ba069d30b2143a3a20f89d0c459277dd7047b5e32906"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a814ee08668908e0cef4ba069d30b2143a3a20f89d0c459277dd7047b5e32906"
+      },
+      "19": {
+        "source_ref": "Jeremiah 30:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 19,
+            "source_ref": "Jeremiah 30:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "76cbfa40b598d7d9d36a7348f489316ede564067a50daf353de84f47ec7a390a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "76cbfa40b598d7d9d36a7348f489316ede564067a50daf353de84f47ec7a390a"
+      },
+      "20": {
+        "source_ref": "Jeremiah 30:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 20,
+            "source_ref": "Jeremiah 30:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f43b469f7ea33626b7739c49621bf5bad039a2464743ed7e5e5616eadd6459d7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f43b469f7ea33626b7739c49621bf5bad039a2464743ed7e5e5616eadd6459d7"
+      },
+      "21": {
+        "source_ref": "Jeremiah 30:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 21,
+            "source_ref": "Jeremiah 30:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bdbfc07dc3b3d137089c64769126dad99e6e7615abf5045480e310cee5d88272"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bdbfc07dc3b3d137089c64769126dad99e6e7615abf5045480e310cee5d88272"
+      },
+      "22": {
+        "source_ref": "Jeremiah 30:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 22,
+            "source_ref": "Jeremiah 30:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "372b392d885f6ac4f85732f30a92e4f2eed050abb0d3470de71c0c2a3bf57916"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "372b392d885f6ac4f85732f30a92e4f2eed050abb0d3470de71c0c2a3bf57916"
+      },
+      "23": {
+        "source_ref": "Jeremiah 30:23 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 23,
+            "source_ref": "Jeremiah 30:23 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9daa65669d44c5cf49ed366520dd718822be91a0ff0d98b50ed1569f9f8004ab"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9daa65669d44c5cf49ed366520dd718822be91a0ff0d98b50ed1569f9f8004ab"
+      },
+      "24": {
+        "source_ref": "Jeremiah 30:24 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 24,
+            "source_ref": "Jeremiah 30:24 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "eb37634dae6de6823629a687e3725133c52c38ab59cab444653416a1752b8e0c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "eb37634dae6de6823629a687e3725133c52c38ab59cab444653416a1752b8e0c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_30.md",
+    "blob_sha": "9a2f5e7f41d669f5dcb3b266831cddd9bb00f8a2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

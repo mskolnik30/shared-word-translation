@@ -1,0 +1,186 @@
+{
+  "book": "Jeremiah",
+  "chapter": 24,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 24:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 1,
+            "source_ref": "Jeremiah 24:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ebfba283c059f2407271ca3fb2d33747eb68afceb525176f52f9a7435e3a6e18"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ebfba283c059f2407271ca3fb2d33747eb68afceb525176f52f9a7435e3a6e18"
+      },
+      "2": {
+        "source_ref": "Jeremiah 24:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 2,
+            "source_ref": "Jeremiah 24:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "dd0c450ea6d411c383d9ed2f985204a215c4e182414aec8716f6d989c3faff37"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "dd0c450ea6d411c383d9ed2f985204a215c4e182414aec8716f6d989c3faff37"
+      },
+      "3": {
+        "source_ref": "Jeremiah 24:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 3,
+            "source_ref": "Jeremiah 24:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a9e8cbbf78fce20e51bc1e2faae83673fced7e570d4b6e458a83720a4c809860"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a9e8cbbf78fce20e51bc1e2faae83673fced7e570d4b6e458a83720a4c809860"
+      },
+      "4": {
+        "source_ref": "Jeremiah 24:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 4,
+            "source_ref": "Jeremiah 24:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+      },
+      "5": {
+        "source_ref": "Jeremiah 24:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 5,
+            "source_ref": "Jeremiah 24:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "fc563be96ff221bbab3aa9c63ca41846bfe916c74baf1c161aa2a9a8a06df995"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "fc563be96ff221bbab3aa9c63ca41846bfe916c74baf1c161aa2a9a8a06df995"
+      },
+      "6": {
+        "source_ref": "Jeremiah 24:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 6,
+            "source_ref": "Jeremiah 24:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "90539054ea8cefd8994db12edecabd49838a94af049a494ecf175ec10a63260f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "90539054ea8cefd8994db12edecabd49838a94af049a494ecf175ec10a63260f"
+      },
+      "7": {
+        "source_ref": "Jeremiah 24:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 7,
+            "source_ref": "Jeremiah 24:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9273f7d59762a0b4e3568863e5bb792104fa50f7180a5cb8633e7a97ff035b97"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9273f7d59762a0b4e3568863e5bb792104fa50f7180a5cb8633e7a97ff035b97"
+      },
+      "8": {
+        "source_ref": "Jeremiah 24:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 8,
+            "source_ref": "Jeremiah 24:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0143fa608aae86e366a719ab7375e4478eb203ad31e875f7ccf06632583c69e3"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0143fa608aae86e366a719ab7375e4478eb203ad31e875f7ccf06632583c69e3"
+      },
+      "9": {
+        "source_ref": "Jeremiah 24:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 9,
+            "source_ref": "Jeremiah 24:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2ccf9dee296cacbb2ba59b3202ee9ebd4a2c0f9dc46e7ce916c56d8b4450fe04"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2ccf9dee296cacbb2ba59b3202ee9ebd4a2c0f9dc46e7ce916c56d8b4450fe04"
+      },
+      "10": {
+        "source_ref": "Jeremiah 24:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 10,
+            "source_ref": "Jeremiah 24:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2bba61e83dd19321f2182c5fbdefcb01ea64398fb284c5e727238c252867fb41"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2bba61e83dd19321f2182c5fbdefcb01ea64398fb284c5e727238c252867fb41"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_24.md",
+    "blob_sha": "dda5dc6874e629f8b9335a34720f8b4546836fcc"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

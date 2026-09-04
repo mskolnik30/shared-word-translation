@@ -1,0 +1,283 @@
+{
+  "book": "Jeremiah",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 52,
+  "public_verse_slots": 1364,
+  "included_verse_labels": 1364,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 1364,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-6:30",
+      "decision": "Preserve Jeremiah's call, resistance, warning, grief, and Judah's social violence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:1-10:25",
+      "decision": "Use the repository's Hebrew verse numbering and keep temple critique, idolatry, injustice, lament, and false security central.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:1-20:18",
+      "decision": "Retain covenant accusation, plots, enacted signs, persecution, protest, and Jeremiah's curse of his birth.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "21:1-29:32",
+      "decision": "Keep royal failure, prophetic conflict, exile, the letter to exiles, and disputed hopes historically grounded.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "30:1-33:26",
+      "decision": "Preserve restoration, grief, new covenant, land purchase, justice, and durable promise without erasing prior judgment.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "34:1-45:5",
+      "decision": "Keep failed release, siege, scroll, Jerusalem's fall, forced migration, and Baruch's word together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "46:1-51:64",
+      "decision": "Translate national oracles and Babylon's fall as anti-imperial judgment, not a template for ethnic hostility.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "52:1-34",
+      "decision": "Preserve the historical appendix's fall, destruction, exile, losses, and restrained closing mercy.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "source_binding_count": 1364,
+    "unique_source_record_count": 1364,
+    "public_verse_slots": 1364,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 1364
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/jeremiah/Jeremiah_01.md",
+        "blob_sha": "37cb9bee206e309de158badcfd6efbdfdb8b68b5"
+      },
+      "02": {
+        "path": "books/OT/jeremiah/Jeremiah_02.md",
+        "blob_sha": "88fb0da60052c6b97c125d2e1de2b514a804a3a7"
+      },
+      "03": {
+        "path": "books/OT/jeremiah/Jeremiah_03.md",
+        "blob_sha": "b151f504d8fab0ec5bfadc174cf600e829f5581a"
+      },
+      "04": {
+        "path": "books/OT/jeremiah/Jeremiah_04.md",
+        "blob_sha": "de637e60d3e4a74f24dd61494c180cbfdc152a1a"
+      },
+      "05": {
+        "path": "books/OT/jeremiah/Jeremiah_05.md",
+        "blob_sha": "c2d70fced37d1b4834edb7562cf008a2e86feb95"
+      },
+      "06": {
+        "path": "books/OT/jeremiah/Jeremiah_06.md",
+        "blob_sha": "d6ddaecf2ae025e3318017b5d4224cf7758af84e"
+      },
+      "07": {
+        "path": "books/OT/jeremiah/Jeremiah_07.md",
+        "blob_sha": "baeaf6c5ae5ce60fb5e1f1a998e27e647c1195d0"
+      },
+      "08": {
+        "path": "books/OT/jeremiah/Jeremiah_08.md",
+        "blob_sha": "6970f49779b8b72b5ec7ac889350099db86cf109"
+      },
+      "09": {
+        "path": "books/OT/jeremiah/Jeremiah_09.md",
+        "blob_sha": "a1b6917e554456bd4684fd494e1f30b23c11fb14"
+      },
+      "10": {
+        "path": "books/OT/jeremiah/Jeremiah_10.md",
+        "blob_sha": "ff1f38e6de14c8587f6e84725fff604515e77be4"
+      },
+      "11": {
+        "path": "books/OT/jeremiah/Jeremiah_11.md",
+        "blob_sha": "4760ca054a0414e1355880e2e145a2382873b220"
+      },
+      "12": {
+        "path": "books/OT/jeremiah/Jeremiah_12.md",
+        "blob_sha": "e24abc9d3a2fc3040886e12200b9d5652317a378"
+      },
+      "13": {
+        "path": "books/OT/jeremiah/Jeremiah_13.md",
+        "blob_sha": "408b5a81653a114e238f0f1787497ccc47ee28e2"
+      },
+      "14": {
+        "path": "books/OT/jeremiah/Jeremiah_14.md",
+        "blob_sha": "07fac1c8eff07fb359bc1462a7dee61a7cc2aa7d"
+      },
+      "15": {
+        "path": "books/OT/jeremiah/Jeremiah_15.md",
+        "blob_sha": "b652ee13506715db3e84eb06a21d5bdf73ab67d4"
+      },
+      "16": {
+        "path": "books/OT/jeremiah/Jeremiah_16.md",
+        "blob_sha": "2696bc7b7b4f8696cf86125cbf3ff96322f527ad"
+      },
+      "17": {
+        "path": "books/OT/jeremiah/Jeremiah_17.md",
+        "blob_sha": "b089367f3307dda0cc400fe57f43683f0cf97b74"
+      },
+      "18": {
+        "path": "books/OT/jeremiah/Jeremiah_18.md",
+        "blob_sha": "14df60f0ee2e0d07b7e7549a6dab84c76eab65e2"
+      },
+      "19": {
+        "path": "books/OT/jeremiah/Jeremiah_19.md",
+        "blob_sha": "a24be9716c9c47930a05620358b39e567465ef13"
+      },
+      "20": {
+        "path": "books/OT/jeremiah/Jeremiah_20.md",
+        "blob_sha": "9e3a0d331478012a4b4a946c2fca4f034fc25916"
+      },
+      "21": {
+        "path": "books/OT/jeremiah/Jeremiah_21.md",
+        "blob_sha": "7c81af71c8817a09ad484de6ece6d7b5e27b8d5a"
+      },
+      "22": {
+        "path": "books/OT/jeremiah/Jeremiah_22.md",
+        "blob_sha": "396401de9ed3131d30bc8e7f181dcfaaf38db1fc"
+      },
+      "23": {
+        "path": "books/OT/jeremiah/Jeremiah_23.md",
+        "blob_sha": "44052f1b9e76f1344e9c6dbe09909d0645204148"
+      },
+      "24": {
+        "path": "books/OT/jeremiah/Jeremiah_24.md",
+        "blob_sha": "dda5dc6874e629f8b9335a34720f8b4546836fcc"
+      },
+      "25": {
+        "path": "books/OT/jeremiah/Jeremiah_25.md",
+        "blob_sha": "0f4efc4e1f35b6872ffb023bae2db83af715c84f"
+      },
+      "26": {
+        "path": "books/OT/jeremiah/Jeremiah_26.md",
+        "blob_sha": "3ae8f09596d3166a7ac02613bacbf2359e11a13e"
+      },
+      "27": {
+        "path": "books/OT/jeremiah/Jeremiah_27.md",
+        "blob_sha": "02dfc3d156b2bd2ab46811b0ac4042ca11b8bef4"
+      },
+      "28": {
+        "path": "books/OT/jeremiah/Jeremiah_28.md",
+        "blob_sha": "7213d49ab9bbe23973c04315d6229e2f15ca4f5e"
+      },
+      "29": {
+        "path": "books/OT/jeremiah/Jeremiah_29.md",
+        "blob_sha": "baf19d7d47b6b46f5404ba5a98c107e1c4f65412"
+      },
+      "30": {
+        "path": "books/OT/jeremiah/Jeremiah_30.md",
+        "blob_sha": "9a2f5e7f41d669f5dcb3b266831cddd9bb00f8a2"
+      },
+      "31": {
+        "path": "books/OT/jeremiah/Jeremiah_31.md",
+        "blob_sha": "34ef290f16c61c2e0c68b463c38a746eed0b3e91"
+      },
+      "32": {
+        "path": "books/OT/jeremiah/Jeremiah_32.md",
+        "blob_sha": "bf7050f03d73fc9dd31f3fd23079a947c0d4d800"
+      },
+      "33": {
+        "path": "books/OT/jeremiah/Jeremiah_33.md",
+        "blob_sha": "802d0b43f7363d966f2012f7298e3fb4cf278709"
+      },
+      "34": {
+        "path": "books/OT/jeremiah/Jeremiah_34.md",
+        "blob_sha": "197739c9ca1fb62d1f50fb78fd5e0e10e6b5c751"
+      },
+      "35": {
+        "path": "books/OT/jeremiah/Jeremiah_35.md",
+        "blob_sha": "7a43854c2c6ab28ef4e469adc4bd7636fc5e5e76"
+      },
+      "36": {
+        "path": "books/OT/jeremiah/Jeremiah_36.md",
+        "blob_sha": "503358e40fa9eba6724d715e41f1f10fcf24e3a1"
+      },
+      "37": {
+        "path": "books/OT/jeremiah/Jeremiah_37.md",
+        "blob_sha": "86151266ea22a2195d7756aa32faceb9b5de736a"
+      },
+      "38": {
+        "path": "books/OT/jeremiah/Jeremiah_38.md",
+        "blob_sha": "af4aac19a2abc2c5b09d946010d58e91e048eebe"
+      },
+      "39": {
+        "path": "books/OT/jeremiah/Jeremiah_39.md",
+        "blob_sha": "3473d80574bcbd1fb066401cf0416251d9a17bec"
+      },
+      "40": {
+        "path": "books/OT/jeremiah/Jeremiah_40.md",
+        "blob_sha": "8cb291a290edbd6edaf46b90fc3064a34bfd051f"
+      },
+      "41": {
+        "path": "books/OT/jeremiah/Jeremiah_41.md",
+        "blob_sha": "b692b9a08c2baad0686a49003459c2a24b3de906"
+      },
+      "42": {
+        "path": "books/OT/jeremiah/Jeremiah_42.md",
+        "blob_sha": "0b61bbf58fac7eca60e25fbda600affe3a6cc538"
+      },
+      "43": {
+        "path": "books/OT/jeremiah/Jeremiah_43.md",
+        "blob_sha": "ef5999f2ed48e5758bfbfce36286298964714fc3"
+      },
+      "44": {
+        "path": "books/OT/jeremiah/Jeremiah_44.md",
+        "blob_sha": "882d40eca8e56dc5cfd5070ac715f0ec46441a9f"
+      },
+      "45": {
+        "path": "books/OT/jeremiah/Jeremiah_45.md",
+        "blob_sha": "c383ed93614a0014f71e485331a251ce4bba6095"
+      },
+      "46": {
+        "path": "books/OT/jeremiah/Jeremiah_46.md",
+        "blob_sha": "7e3d5a5abb3c8733b8d21f706a27310810005981"
+      },
+      "47": {
+        "path": "books/OT/jeremiah/Jeremiah_47.md",
+        "blob_sha": "38a81bc39f3519998f3cf1d6aff3d5dbebb702da"
+      },
+      "48": {
+        "path": "books/OT/jeremiah/Jeremiah_48.md",
+        "blob_sha": "40cc998eb68eadabfd5e4ae0a8957778687a6851"
+      },
+      "49": {
+        "path": "books/OT/jeremiah/Jeremiah_49.md",
+        "blob_sha": "8aa7bb322b7085bfea3e24e264e0012ad7e526aa"
+      },
+      "50": {
+        "path": "books/OT/jeremiah/Jeremiah_50.md",
+        "blob_sha": "a8f270012faf580248ce0b1ccb207a1f387a80c4"
+      },
+      "51": {
+        "path": "books/OT/jeremiah/Jeremiah_51.md",
+        "blob_sha": "748719af621e0be97e35151daebd9423ed714e23"
+      },
+      "52": {
+        "path": "books/OT/jeremiah/Jeremiah_52.md",
+        "blob_sha": "160b036f2e71f7a97a0951756d729aac1b61ded8"
+      }
+    }
+  }
+}

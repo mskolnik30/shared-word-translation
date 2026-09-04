@@ -1,0 +1,351 @@
+{
+  "book": "Jeremiah",
+  "chapter": 15,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 15:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 1,
+            "source_ref": "Jeremiah 15:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0c8c5bc9d074c798f5740534c11c6d52e62fa5c6c3bf0c4f67a1c8baac705598"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0c8c5bc9d074c798f5740534c11c6d52e62fa5c6c3bf0c4f67a1c8baac705598"
+      },
+      "2": {
+        "source_ref": "Jeremiah 15:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 2,
+            "source_ref": "Jeremiah 15:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5c8193b81f4fcce5449925f68080f7639ea7b0578ed1b2a1f792cf0d1f59977a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5c8193b81f4fcce5449925f68080f7639ea7b0578ed1b2a1f792cf0d1f59977a"
+      },
+      "3": {
+        "source_ref": "Jeremiah 15:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 3,
+            "source_ref": "Jeremiah 15:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bb1a359ae512ad45a76e6593f72db219460f2f1ce28ddd2a4781f7b2b5cfef36"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bb1a359ae512ad45a76e6593f72db219460f2f1ce28ddd2a4781f7b2b5cfef36"
+      },
+      "4": {
+        "source_ref": "Jeremiah 15:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 4,
+            "source_ref": "Jeremiah 15:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0bf8c60ef0f3cbd6e8166abdfb604b9498f9b63d4b8f02576355d58d212c249c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0bf8c60ef0f3cbd6e8166abdfb604b9498f9b63d4b8f02576355d58d212c249c"
+      },
+      "5": {
+        "source_ref": "Jeremiah 15:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 5,
+            "source_ref": "Jeremiah 15:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0a37501095bbbc4da72bbada34e9e309b33173155840798c66e8be26f51792cb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0a37501095bbbc4da72bbada34e9e309b33173155840798c66e8be26f51792cb"
+      },
+      "6": {
+        "source_ref": "Jeremiah 15:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 6,
+            "source_ref": "Jeremiah 15:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "aa4b0b9979df2752577e5664df5e23f881efd0caa34fae248308a5f7bce4eaca"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "aa4b0b9979df2752577e5664df5e23f881efd0caa34fae248308a5f7bce4eaca"
+      },
+      "7": {
+        "source_ref": "Jeremiah 15:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 7,
+            "source_ref": "Jeremiah 15:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e9bfcfb0a7019561541b3be9f23e45403bfe0bb8756414d562ffde7aba142752"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e9bfcfb0a7019561541b3be9f23e45403bfe0bb8756414d562ffde7aba142752"
+      },
+      "8": {
+        "source_ref": "Jeremiah 15:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 8,
+            "source_ref": "Jeremiah 15:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a85a130a8f38ddf1d408f54fc6b74327ee6d7d4d1d22e5224d5f79cf6b5ffb8d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a85a130a8f38ddf1d408f54fc6b74327ee6d7d4d1d22e5224d5f79cf6b5ffb8d"
+      },
+      "9": {
+        "source_ref": "Jeremiah 15:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 9,
+            "source_ref": "Jeremiah 15:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8795df4a66bd50672d27db44bb776c791b4a20849704069f8af203036f150e13"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8795df4a66bd50672d27db44bb776c791b4a20849704069f8af203036f150e13"
+      },
+      "10": {
+        "source_ref": "Jeremiah 15:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 10,
+            "source_ref": "Jeremiah 15:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a4945a1c97e62080f346d1acf1e047f662c1ad049991d74ec24bdb6334b7c82c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a4945a1c97e62080f346d1acf1e047f662c1ad049991d74ec24bdb6334b7c82c"
+      },
+      "11": {
+        "source_ref": "Jeremiah 15:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 11,
+            "source_ref": "Jeremiah 15:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b7409575d3df8de4d6c943ec3dbd1996ff42ce7b9ad6031fe798c62a4dbf7628"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b7409575d3df8de4d6c943ec3dbd1996ff42ce7b9ad6031fe798c62a4dbf7628"
+      },
+      "12": {
+        "source_ref": "Jeremiah 15:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 12,
+            "source_ref": "Jeremiah 15:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "12788f30813c539c27afb6eb0587fae1b3f03a304aefff4581b7710704119d88"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "12788f30813c539c27afb6eb0587fae1b3f03a304aefff4581b7710704119d88"
+      },
+      "13": {
+        "source_ref": "Jeremiah 15:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 13,
+            "source_ref": "Jeremiah 15:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8d806c813d8dc462dc394957be2e10bef7b322b4f83c6fdd6e6629cc5078eea7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8d806c813d8dc462dc394957be2e10bef7b322b4f83c6fdd6e6629cc5078eea7"
+      },
+      "14": {
+        "source_ref": "Jeremiah 15:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 14,
+            "source_ref": "Jeremiah 15:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0714e61098c04f8eb5d89da828f55dbb00929c6b1b2544566b69dd012a7005aa"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0714e61098c04f8eb5d89da828f55dbb00929c6b1b2544566b69dd012a7005aa"
+      },
+      "15": {
+        "source_ref": "Jeremiah 15:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 15,
+            "source_ref": "Jeremiah 15:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d3e72f96d0d89445bc81529d42ba3044a59556cce2836eff78ba3e2c7449ae26"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d3e72f96d0d89445bc81529d42ba3044a59556cce2836eff78ba3e2c7449ae26"
+      },
+      "16": {
+        "source_ref": "Jeremiah 15:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 16,
+            "source_ref": "Jeremiah 15:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3676d72846c0cc30c2669d9a0838f308f44ecceea5939487e94034c4ff3e0b8c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3676d72846c0cc30c2669d9a0838f308f44ecceea5939487e94034c4ff3e0b8c"
+      },
+      "17": {
+        "source_ref": "Jeremiah 15:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 17,
+            "source_ref": "Jeremiah 15:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8e3736ea7e4b76ceb46a3455802447f3a27a49b50fe53c93f4cd1af03c6fece6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8e3736ea7e4b76ceb46a3455802447f3a27a49b50fe53c93f4cd1af03c6fece6"
+      },
+      "18": {
+        "source_ref": "Jeremiah 15:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 18,
+            "source_ref": "Jeremiah 15:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a3547bd5eb3957849e203f2475a477747250a9342b27b4df4e2124470b3c3ed8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a3547bd5eb3957849e203f2475a477747250a9342b27b4df4e2124470b3c3ed8"
+      },
+      "19": {
+        "source_ref": "Jeremiah 15:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 19,
+            "source_ref": "Jeremiah 15:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8a807a77494ea882aeae04fb3008ad37d930c23316ef07ca98c6391c4aa75a2c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8a807a77494ea882aeae04fb3008ad37d930c23316ef07ca98c6391c4aa75a2c"
+      },
+      "20": {
+        "source_ref": "Jeremiah 15:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 20,
+            "source_ref": "Jeremiah 15:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0a61d89154803f4e4d4d3434031904692ca76ec7bf49a1935cb644df74448f12"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0a61d89154803f4e4d4d3434031904692ca76ec7bf49a1935cb644df74448f12"
+      },
+      "21": {
+        "source_ref": "Jeremiah 15:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 21,
+            "source_ref": "Jeremiah 15:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1043317190c3f344030ad791f1ce64f45fd878e8c57a2e7e300e01de922fcdd8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1043317190c3f344030ad791f1ce64f45fd878e8c57a2e7e300e01de922fcdd8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_15.md",
+    "blob_sha": "b652ee13506715db3e84eb06a21d5bdf73ab67d4"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

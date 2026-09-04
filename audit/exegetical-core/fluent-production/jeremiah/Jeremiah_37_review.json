@@ -1,0 +1,351 @@
+{
+  "book": "Jeremiah",
+  "chapter": 37,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 37:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 1,
+            "source_ref": "Jeremiah 37:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8079d76eeda846dd1271ce91923c8d6f644d55539ec386043afd3f45575c5bb1"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8079d76eeda846dd1271ce91923c8d6f644d55539ec386043afd3f45575c5bb1"
+      },
+      "2": {
+        "source_ref": "Jeremiah 37:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 2,
+            "source_ref": "Jeremiah 37:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "55422f70c254d20d8fd21ce6ec15d9cf9c0a9ec30cd9b51ef11adce2ae861bd9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "55422f70c254d20d8fd21ce6ec15d9cf9c0a9ec30cd9b51ef11adce2ae861bd9"
+      },
+      "3": {
+        "source_ref": "Jeremiah 37:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 3,
+            "source_ref": "Jeremiah 37:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0c5b9bbe1bfcdaec01d3f8e171c710e4065e60dca9c4a9b0c9cda68ab0f3fd3a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0c5b9bbe1bfcdaec01d3f8e171c710e4065e60dca9c4a9b0c9cda68ab0f3fd3a"
+      },
+      "4": {
+        "source_ref": "Jeremiah 37:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 4,
+            "source_ref": "Jeremiah 37:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "debbba391f63a97052b394c2fc70d5d3c5c07e91715ee3d37c8efb1835d8bd4f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "debbba391f63a97052b394c2fc70d5d3c5c07e91715ee3d37c8efb1835d8bd4f"
+      },
+      "5": {
+        "source_ref": "Jeremiah 37:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 5,
+            "source_ref": "Jeremiah 37:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ef81f0d92c5046454bd5260dcc3da3edf00ef789915d66ac3fc04fc6a18edd55"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ef81f0d92c5046454bd5260dcc3da3edf00ef789915d66ac3fc04fc6a18edd55"
+      },
+      "6": {
+        "source_ref": "Jeremiah 37:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 6,
+            "source_ref": "Jeremiah 37:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8788a705857fa8c0f640fad5e5e18d16bd38e3db54aa16272364301621ecc84a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8788a705857fa8c0f640fad5e5e18d16bd38e3db54aa16272364301621ecc84a"
+      },
+      "7": {
+        "source_ref": "Jeremiah 37:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 7,
+            "source_ref": "Jeremiah 37:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9331108b35c1c11265d6d3b52e5ddba42f88d43671036ff17e3fb08ea19e6eca"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9331108b35c1c11265d6d3b52e5ddba42f88d43671036ff17e3fb08ea19e6eca"
+      },
+      "8": {
+        "source_ref": "Jeremiah 37:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 8,
+            "source_ref": "Jeremiah 37:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bfc4f527317d33c4657d841135e1accff826b31bd1773d1debdea3f218097f96"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bfc4f527317d33c4657d841135e1accff826b31bd1773d1debdea3f218097f96"
+      },
+      "9": {
+        "source_ref": "Jeremiah 37:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 9,
+            "source_ref": "Jeremiah 37:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d8d694d79d63d0b20e932ef16f2c04c14851e3cb5b5e1357230f2cd6e267e69c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d8d694d79d63d0b20e932ef16f2c04c14851e3cb5b5e1357230f2cd6e267e69c"
+      },
+      "10": {
+        "source_ref": "Jeremiah 37:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 10,
+            "source_ref": "Jeremiah 37:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c5510ed0a3ee5ac4c79dc654c634e43795f5900d27e6565e30d2b671793aad76"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c5510ed0a3ee5ac4c79dc654c634e43795f5900d27e6565e30d2b671793aad76"
+      },
+      "11": {
+        "source_ref": "Jeremiah 37:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 11,
+            "source_ref": "Jeremiah 37:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e040264a368c624a00e55913f2a74da996f8f16e9df2df16082d24f7d568c2b8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e040264a368c624a00e55913f2a74da996f8f16e9df2df16082d24f7d568c2b8"
+      },
+      "12": {
+        "source_ref": "Jeremiah 37:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 12,
+            "source_ref": "Jeremiah 37:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "840adc541f1fec5e9505757669abb2a4f03eb5ccc6d20dd0e4a9371a277d877a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "840adc541f1fec5e9505757669abb2a4f03eb5ccc6d20dd0e4a9371a277d877a"
+      },
+      "13": {
+        "source_ref": "Jeremiah 37:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 13,
+            "source_ref": "Jeremiah 37:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f563d8c5fd1d0edb95aed7261cfcad3cf91c7573f49a78bc5fa8fee5ac0c21ed"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f563d8c5fd1d0edb95aed7261cfcad3cf91c7573f49a78bc5fa8fee5ac0c21ed"
+      },
+      "14": {
+        "source_ref": "Jeremiah 37:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 14,
+            "source_ref": "Jeremiah 37:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ff761dde730a17e391fc5fd652fc1641262efeaa54bda54b8b3bac50744771a5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ff761dde730a17e391fc5fd652fc1641262efeaa54bda54b8b3bac50744771a5"
+      },
+      "15": {
+        "source_ref": "Jeremiah 37:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 15,
+            "source_ref": "Jeremiah 37:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1e8bd8bfcee15cb272fe547054b1695ff216b379e96e3f36d8d3cbd5ead17600"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1e8bd8bfcee15cb272fe547054b1695ff216b379e96e3f36d8d3cbd5ead17600"
+      },
+      "16": {
+        "source_ref": "Jeremiah 37:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 16,
+            "source_ref": "Jeremiah 37:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b7f38c8f9bac7de3a1525fb7f43590e13c3c1fa61ec092274ae41e73d2270a3a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b7f38c8f9bac7de3a1525fb7f43590e13c3c1fa61ec092274ae41e73d2270a3a"
+      },
+      "17": {
+        "source_ref": "Jeremiah 37:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 17,
+            "source_ref": "Jeremiah 37:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f9bff8a0bd1ecbed8cef0a5669a58057a4ee26b20f39119fc2dbd60d58f74cea"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f9bff8a0bd1ecbed8cef0a5669a58057a4ee26b20f39119fc2dbd60d58f74cea"
+      },
+      "18": {
+        "source_ref": "Jeremiah 37:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 18,
+            "source_ref": "Jeremiah 37:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6ff284eaa2e46eaf69f91e993fd2ee52443ab5881a3fa0848b8906442f60e100"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6ff284eaa2e46eaf69f91e993fd2ee52443ab5881a3fa0848b8906442f60e100"
+      },
+      "19": {
+        "source_ref": "Jeremiah 37:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 19,
+            "source_ref": "Jeremiah 37:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "fb0597adc22e442745b5a637a53edf3c2f9561d01cbe060aea9c68ce40720709"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "fb0597adc22e442745b5a637a53edf3c2f9561d01cbe060aea9c68ce40720709"
+      },
+      "20": {
+        "source_ref": "Jeremiah 37:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 20,
+            "source_ref": "Jeremiah 37:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "76cb029b16d0ffde386ae919d9b59c9b645872b6dea3622684c7e7df77215f75"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "76cb029b16d0ffde386ae919d9b59c9b645872b6dea3622684c7e7df77215f75"
+      },
+      "21": {
+        "source_ref": "Jeremiah 37:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 21,
+            "source_ref": "Jeremiah 37:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1e95c5dfd35c0511376e37b7554d53d9ae86531c0d40291f2e2ac71cdd0560c7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1e95c5dfd35c0511376e37b7554d53d9ae86531c0d40291f2e2ac71cdd0560c7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_37.md",
+    "blob_sha": "86151266ea22a2195d7756aa32faceb9b5de736a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

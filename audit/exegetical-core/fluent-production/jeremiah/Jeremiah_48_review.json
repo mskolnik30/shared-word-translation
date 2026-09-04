@@ -1,0 +1,741 @@
+{
+  "book": "Jeremiah",
+  "chapter": 48,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 48:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 1,
+            "source_ref": "Jeremiah 48:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "117783977a452f0eb7805d31fc72add892f5c33715d3f643314aea362db1119e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "117783977a452f0eb7805d31fc72add892f5c33715d3f643314aea362db1119e"
+      },
+      "2": {
+        "source_ref": "Jeremiah 48:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 2,
+            "source_ref": "Jeremiah 48:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9c3423b26bd5a65df602fd0fba7bfc5f77a040e40a6d975bcefc1a5244d94e53"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9c3423b26bd5a65df602fd0fba7bfc5f77a040e40a6d975bcefc1a5244d94e53"
+      },
+      "3": {
+        "source_ref": "Jeremiah 48:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 3,
+            "source_ref": "Jeremiah 48:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "645b8e125c04719d923bc39c4715e6c83af9c9484c98520e2a948d033943c54a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "645b8e125c04719d923bc39c4715e6c83af9c9484c98520e2a948d033943c54a"
+      },
+      "4": {
+        "source_ref": "Jeremiah 48:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 4,
+            "source_ref": "Jeremiah 48:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0d9c43333578f26dd72a97a5df1bcbb8b370e66f470f82c3954406b0a03c24d6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0d9c43333578f26dd72a97a5df1bcbb8b370e66f470f82c3954406b0a03c24d6"
+      },
+      "5": {
+        "source_ref": "Jeremiah 48:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 5,
+            "source_ref": "Jeremiah 48:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bd27334ea0d86310dfab6b32bb163cda2c7fc8dd4d28917292601f47f0da2c80"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bd27334ea0d86310dfab6b32bb163cda2c7fc8dd4d28917292601f47f0da2c80"
+      },
+      "6": {
+        "source_ref": "Jeremiah 48:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 6,
+            "source_ref": "Jeremiah 48:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "90355b5dfd561fbe738208de5b20bca17f298f19bd43b9f37af5f9f7177a345b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "90355b5dfd561fbe738208de5b20bca17f298f19bd43b9f37af5f9f7177a345b"
+      },
+      "7": {
+        "source_ref": "Jeremiah 48:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 7,
+            "source_ref": "Jeremiah 48:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bb9ec3f84a970f4083775d1f9d16914f7c25a6d3b9057729304909744f60e1c1"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bb9ec3f84a970f4083775d1f9d16914f7c25a6d3b9057729304909744f60e1c1"
+      },
+      "8": {
+        "source_ref": "Jeremiah 48:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 8,
+            "source_ref": "Jeremiah 48:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c0ab48398b8fb22b898634c0db23c3fba6bb440d48d8a5634f3ea22494301def"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c0ab48398b8fb22b898634c0db23c3fba6bb440d48d8a5634f3ea22494301def"
+      },
+      "9": {
+        "source_ref": "Jeremiah 48:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 9,
+            "source_ref": "Jeremiah 48:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1dde75f75645ed0750dcfb6467a01d39cf64129cbfbf9cded9aacef866fe7fc2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1dde75f75645ed0750dcfb6467a01d39cf64129cbfbf9cded9aacef866fe7fc2"
+      },
+      "10": {
+        "source_ref": "Jeremiah 48:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 10,
+            "source_ref": "Jeremiah 48:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9db8ffbd4aee03ffd657df8c1e4696aa3a1006c18137222a4755cf8db0b50fea"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9db8ffbd4aee03ffd657df8c1e4696aa3a1006c18137222a4755cf8db0b50fea"
+      },
+      "11": {
+        "source_ref": "Jeremiah 48:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 11,
+            "source_ref": "Jeremiah 48:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4ffd466036a5c06c0d7d6b18d0a1296611b218e146835be19b320ce923808cb6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4ffd466036a5c06c0d7d6b18d0a1296611b218e146835be19b320ce923808cb6"
+      },
+      "12": {
+        "source_ref": "Jeremiah 48:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 12,
+            "source_ref": "Jeremiah 48:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "403651b721d0c816ef78312a2619548196754246e8f40f5fec42954471cf7cf8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "403651b721d0c816ef78312a2619548196754246e8f40f5fec42954471cf7cf8"
+      },
+      "13": {
+        "source_ref": "Jeremiah 48:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 13,
+            "source_ref": "Jeremiah 48:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e681614a34e1da37da8525445738d6fd996faaa44a123f6d295bcbca2955ae3a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e681614a34e1da37da8525445738d6fd996faaa44a123f6d295bcbca2955ae3a"
+      },
+      "14": {
+        "source_ref": "Jeremiah 48:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 14,
+            "source_ref": "Jeremiah 48:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e63b60a7e24443f3c261bffe7d413080701bbc5ca01c030ec44e8d4434e365d0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e63b60a7e24443f3c261bffe7d413080701bbc5ca01c030ec44e8d4434e365d0"
+      },
+      "15": {
+        "source_ref": "Jeremiah 48:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 15,
+            "source_ref": "Jeremiah 48:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "700e23fe0acd1ddf47286fa8a60219267213bfc66f55af46c9c763d4c400d8d0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "700e23fe0acd1ddf47286fa8a60219267213bfc66f55af46c9c763d4c400d8d0"
+      },
+      "16": {
+        "source_ref": "Jeremiah 48:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 16,
+            "source_ref": "Jeremiah 48:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bd20b556cec64105497138b9dfb074c95130970dc5c443b11ae88184a0ee862e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bd20b556cec64105497138b9dfb074c95130970dc5c443b11ae88184a0ee862e"
+      },
+      "17": {
+        "source_ref": "Jeremiah 48:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 17,
+            "source_ref": "Jeremiah 48:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b10eec1158de3f11741c7117a714f35dc26d23c87c9afb3873a0fc1f1811689a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b10eec1158de3f11741c7117a714f35dc26d23c87c9afb3873a0fc1f1811689a"
+      },
+      "18": {
+        "source_ref": "Jeremiah 48:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 18,
+            "source_ref": "Jeremiah 48:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "879c586a9a377ed649b664a1d6bf5fcff90a0e277c2fe1360945488979db923f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "879c586a9a377ed649b664a1d6bf5fcff90a0e277c2fe1360945488979db923f"
+      },
+      "19": {
+        "source_ref": "Jeremiah 48:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 19,
+            "source_ref": "Jeremiah 48:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0d6b9540f065f9cdcfe76502d6328888ac68765d3fe921602ec8260f3c613c8c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0d6b9540f065f9cdcfe76502d6328888ac68765d3fe921602ec8260f3c613c8c"
+      },
+      "20": {
+        "source_ref": "Jeremiah 48:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 20,
+            "source_ref": "Jeremiah 48:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3d628feb3063531537b0fa6048bf3c58f19b54b169706eca6903d23609c05740"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3d628feb3063531537b0fa6048bf3c58f19b54b169706eca6903d23609c05740"
+      },
+      "21": {
+        "source_ref": "Jeremiah 48:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 21,
+            "source_ref": "Jeremiah 48:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "18c52206a10f0d8166ea16382d7bba186dc415d764665d8705e7fe9d648fd6b8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "18c52206a10f0d8166ea16382d7bba186dc415d764665d8705e7fe9d648fd6b8"
+      },
+      "22": {
+        "source_ref": "Jeremiah 48:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 22,
+            "source_ref": "Jeremiah 48:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e38da5276d0cd9248a1c0ffc19104c0d27b44faaed7b685125fed0582be810df"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e38da5276d0cd9248a1c0ffc19104c0d27b44faaed7b685125fed0582be810df"
+      },
+      "23": {
+        "source_ref": "Jeremiah 48:23 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 23,
+            "source_ref": "Jeremiah 48:23 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2f610643400dd1b53c0834f56ae2b932f9021d55003106f9326c96587ad86cbe"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2f610643400dd1b53c0834f56ae2b932f9021d55003106f9326c96587ad86cbe"
+      },
+      "24": {
+        "source_ref": "Jeremiah 48:24 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 24,
+            "source_ref": "Jeremiah 48:24 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c131cf5934a74c7f5f3187947cca4e72be448f90dcf1c5dabd05900430452b8d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c131cf5934a74c7f5f3187947cca4e72be448f90dcf1c5dabd05900430452b8d"
+      },
+      "25": {
+        "source_ref": "Jeremiah 48:25 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 25,
+            "source_ref": "Jeremiah 48:25 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9c26e02066dc82c1ffe4f4682c8b4401405ba5fc191045428d64efd810010215"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9c26e02066dc82c1ffe4f4682c8b4401405ba5fc191045428d64efd810010215"
+      },
+      "26": {
+        "source_ref": "Jeremiah 48:26 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 26,
+            "source_ref": "Jeremiah 48:26 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4ae30283bc41fadcee568d461177de29352caf04fcbcf17de5d254c68730735a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4ae30283bc41fadcee568d461177de29352caf04fcbcf17de5d254c68730735a"
+      },
+      "27": {
+        "source_ref": "Jeremiah 48:27 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 27,
+            "source_ref": "Jeremiah 48:27 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7db840ad66284e816f5a8b13d9a5c057eba431074d3af435363cd0fae8aec523"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7db840ad66284e816f5a8b13d9a5c057eba431074d3af435363cd0fae8aec523"
+      },
+      "28": {
+        "source_ref": "Jeremiah 48:28 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 28,
+            "source_ref": "Jeremiah 48:28 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d2726b027fa537e6d544dedd6cf133a4b3c2e5383b233735fb142a0be608715b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d2726b027fa537e6d544dedd6cf133a4b3c2e5383b233735fb142a0be608715b"
+      },
+      "29": {
+        "source_ref": "Jeremiah 48:29 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 29,
+            "source_ref": "Jeremiah 48:29 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6483ee5f34170e1b79348c9f38f7586ee6a1cf91d6b1751874e42bfb7039bc6c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6483ee5f34170e1b79348c9f38f7586ee6a1cf91d6b1751874e42bfb7039bc6c"
+      },
+      "30": {
+        "source_ref": "Jeremiah 48:30 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 30,
+            "source_ref": "Jeremiah 48:30 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "17e36949201932ada757189b83fe8642acf4d8bb16ac13d76b864d9421f04330"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "17e36949201932ada757189b83fe8642acf4d8bb16ac13d76b864d9421f04330"
+      },
+      "31": {
+        "source_ref": "Jeremiah 48:31 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 31,
+            "source_ref": "Jeremiah 48:31 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2a16f0b3887be08cf8870d8f356c080673c26d3fef42ec6c5812f67ffe7bf2b2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2a16f0b3887be08cf8870d8f356c080673c26d3fef42ec6c5812f67ffe7bf2b2"
+      },
+      "32": {
+        "source_ref": "Jeremiah 48:32 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 32,
+            "source_ref": "Jeremiah 48:32 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e734e2ddf4a2fd99c553070f18e0552634713b1da5c11e42c213f6c2ee3503bf"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e734e2ddf4a2fd99c553070f18e0552634713b1da5c11e42c213f6c2ee3503bf"
+      },
+      "33": {
+        "source_ref": "Jeremiah 48:33 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 33,
+            "source_ref": "Jeremiah 48:33 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e64c2c7dd4ac00202d5bc0f00beafca7cc9e8e122620cda454ec4ecbfa7e01e1"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e64c2c7dd4ac00202d5bc0f00beafca7cc9e8e122620cda454ec4ecbfa7e01e1"
+      },
+      "34": {
+        "source_ref": "Jeremiah 48:34 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 34,
+            "source_ref": "Jeremiah 48:34 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "dda26a6f25e890bf2a4405a753d8a40ecf9a9446fcb2435e215d0f8648bb0bb4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "dda26a6f25e890bf2a4405a753d8a40ecf9a9446fcb2435e215d0f8648bb0bb4"
+      },
+      "35": {
+        "source_ref": "Jeremiah 48:35 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 35,
+            "source_ref": "Jeremiah 48:35 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "82cc74f34fbd1d62f7758bb11cf3d0764ce5538527073663d5dccdb6ec432d11"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "82cc74f34fbd1d62f7758bb11cf3d0764ce5538527073663d5dccdb6ec432d11"
+      },
+      "36": {
+        "source_ref": "Jeremiah 48:36 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 36,
+            "source_ref": "Jeremiah 48:36 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c3d722170fc663270a5be277990ab1073da35600757046f73873f3683b05eb2c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c3d722170fc663270a5be277990ab1073da35600757046f73873f3683b05eb2c"
+      },
+      "37": {
+        "source_ref": "Jeremiah 48:37 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 37,
+            "source_ref": "Jeremiah 48:37 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d9b43b7eaa3d88f46816c9f982d028272240eeae72e9429c822d55516974be7e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d9b43b7eaa3d88f46816c9f982d028272240eeae72e9429c822d55516974be7e"
+      },
+      "38": {
+        "source_ref": "Jeremiah 48:38 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 38,
+            "source_ref": "Jeremiah 48:38 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0dbe66a64d95933f09258339fb53c5a74e4507ce7d86cb6e03339514559c8482"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0dbe66a64d95933f09258339fb53c5a74e4507ce7d86cb6e03339514559c8482"
+      },
+      "39": {
+        "source_ref": "Jeremiah 48:39 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 39,
+            "source_ref": "Jeremiah 48:39 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "48953b93cfad65bcbe218d5f8997abc848470885ccc732cb53c74e6e6aa6e1ae"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "48953b93cfad65bcbe218d5f8997abc848470885ccc732cb53c74e6e6aa6e1ae"
+      },
+      "40": {
+        "source_ref": "Jeremiah 48:40 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 40,
+            "source_ref": "Jeremiah 48:40 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d1c7d2ec92aa46f27a8f35ea84a014cf67f82b6b570a163fbae69ed4f6342118"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d1c7d2ec92aa46f27a8f35ea84a014cf67f82b6b570a163fbae69ed4f6342118"
+      },
+      "41": {
+        "source_ref": "Jeremiah 48:41 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 41,
+            "source_ref": "Jeremiah 48:41 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "39ac2ae1310e5402292a8a040c26e86f84be385b9bb4381765f050d9ff28e6a4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "39ac2ae1310e5402292a8a040c26e86f84be385b9bb4381765f050d9ff28e6a4"
+      },
+      "42": {
+        "source_ref": "Jeremiah 48:42 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 42,
+            "source_ref": "Jeremiah 48:42 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9d3a318b0ff430d49d82abb366593d7a57998874072d749c19b2ad45d809bb55"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9d3a318b0ff430d49d82abb366593d7a57998874072d749c19b2ad45d809bb55"
+      },
+      "43": {
+        "source_ref": "Jeremiah 48:43 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 43,
+            "source_ref": "Jeremiah 48:43 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e687407fe1b04d14a6ceff8df74129067db6eac41a208b651afa92c0f1cf2055"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e687407fe1b04d14a6ceff8df74129067db6eac41a208b651afa92c0f1cf2055"
+      },
+      "44": {
+        "source_ref": "Jeremiah 48:44 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 44,
+            "source_ref": "Jeremiah 48:44 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "eebfae2d11b1cefeead68666c920eabfb73f533661ad37c09f8820552d1ba9d4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "eebfae2d11b1cefeead68666c920eabfb73f533661ad37c09f8820552d1ba9d4"
+      },
+      "45": {
+        "source_ref": "Jeremiah 48:45 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 45,
+            "source_ref": "Jeremiah 48:45 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "eb0ca1c3cce4fcfc291e3ac2380c9f9b90bc13b49e461031a28c1b8596c6d951"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "eb0ca1c3cce4fcfc291e3ac2380c9f9b90bc13b49e461031a28c1b8596c6d951"
+      },
+      "46": {
+        "source_ref": "Jeremiah 48:46 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 46,
+            "source_ref": "Jeremiah 48:46 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "dd06272e91f199d59582e5c2b81ad3d7cb04e539f4263ff07292424662012d4a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "dd06272e91f199d59582e5c2b81ad3d7cb04e539f4263ff07292424662012d4a"
+      },
+      "47": {
+        "source_ref": "Jeremiah 48:47 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 47,
+            "source_ref": "Jeremiah 48:47 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7e55bdf63b45c69c2ac5e0397dd12c9ebe00bb376416ea0f11678a5492ff772e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7e55bdf63b45c69c2ac5e0397dd12c9ebe00bb376416ea0f11678a5492ff772e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_48.md",
+    "blob_sha": "40cc998eb68eadabfd5e4ae0a8957778687a6851"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

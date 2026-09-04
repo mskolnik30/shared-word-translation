@@ -1,0 +1,411 @@
+{
+  "book": "Jeremiah",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 9:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Jeremiah 9:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c66f0684ebfb273e36a8c5b0e3c7505e80c87a59c6dde627f94c1e3d4215f7d2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c66f0684ebfb273e36a8c5b0e3c7505e80c87a59c6dde627f94c1e3d4215f7d2"
+      },
+      "2": {
+        "source_ref": "Jeremiah 9:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Jeremiah 9:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f97a25262abd2abf10926cb43ab2d3c5aa0e77959410f72793e9879ed7c76405"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f97a25262abd2abf10926cb43ab2d3c5aa0e77959410f72793e9879ed7c76405"
+      },
+      "3": {
+        "source_ref": "Jeremiah 9:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Jeremiah 9:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "33fb2b23bca36f33982ffc744ad2e79a0b18313973ee783cb80544a921e1e201"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "33fb2b23bca36f33982ffc744ad2e79a0b18313973ee783cb80544a921e1e201"
+      },
+      "4": {
+        "source_ref": "Jeremiah 9:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Jeremiah 9:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b58841d0824380567d601dcde1fcc4fa4d7d3444a50f382d16fb84a526289772"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b58841d0824380567d601dcde1fcc4fa4d7d3444a50f382d16fb84a526289772"
+      },
+      "5": {
+        "source_ref": "Jeremiah 9:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Jeremiah 9:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "02423cb21f82f9d6bc5993a3dcfcc8f402654ac42305b2717cd8a22805e09e8b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "02423cb21f82f9d6bc5993a3dcfcc8f402654ac42305b2717cd8a22805e09e8b"
+      },
+      "6": {
+        "source_ref": "Jeremiah 9:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Jeremiah 9:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "173b4e2450ed676fb3a6a86692e3e38e20f0835cfa475115e8db0ec32db9c646"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "173b4e2450ed676fb3a6a86692e3e38e20f0835cfa475115e8db0ec32db9c646"
+      },
+      "7": {
+        "source_ref": "Jeremiah 9:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Jeremiah 9:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e382714daefcc8bc3e8b83ae9dd700a4228398746aa1607eba6c9ad8cf894ebd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e382714daefcc8bc3e8b83ae9dd700a4228398746aa1607eba6c9ad8cf894ebd"
+      },
+      "8": {
+        "source_ref": "Jeremiah 9:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Jeremiah 9:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b698e54a722cfad5061435f9bb2560205af85300193d3b56ef172548896bdaa6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b698e54a722cfad5061435f9bb2560205af85300193d3b56ef172548896bdaa6"
+      },
+      "9": {
+        "source_ref": "Jeremiah 9:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Jeremiah 9:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "434311025d1d565a6bb0d0b1effb281e64144cc8ef39d030d1dbfe3a570b7405"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "434311025d1d565a6bb0d0b1effb281e64144cc8ef39d030d1dbfe3a570b7405"
+      },
+      "10": {
+        "source_ref": "Jeremiah 9:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Jeremiah 9:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "612b05826d02df5a0ad0be4221063cd0fdd7b32df638e44e9ebd1716ba4f2a59"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "612b05826d02df5a0ad0be4221063cd0fdd7b32df638e44e9ebd1716ba4f2a59"
+      },
+      "11": {
+        "source_ref": "Jeremiah 9:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Jeremiah 9:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3cfe0b5696afcd0b3f1609b3031336fd9e1dd062498142a068c4c6b55cbacf62"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3cfe0b5696afcd0b3f1609b3031336fd9e1dd062498142a068c4c6b55cbacf62"
+      },
+      "12": {
+        "source_ref": "Jeremiah 9:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Jeremiah 9:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c38f31b0596ca559e558f094a1991b6a24788ddd93e906fa460c02ea4def39dd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c38f31b0596ca559e558f094a1991b6a24788ddd93e906fa460c02ea4def39dd"
+      },
+      "13": {
+        "source_ref": "Jeremiah 9:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Jeremiah 9:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3372f56d2094e01bdc32582845d7a7dfb45cca5aa77db78be82310e1d2bd8cc7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3372f56d2094e01bdc32582845d7a7dfb45cca5aa77db78be82310e1d2bd8cc7"
+      },
+      "14": {
+        "source_ref": "Jeremiah 9:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Jeremiah 9:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "724713b2039a3b042da12007015be53c82369ee5b85574d1ab44ce8166195e0b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "724713b2039a3b042da12007015be53c82369ee5b85574d1ab44ce8166195e0b"
+      },
+      "15": {
+        "source_ref": "Jeremiah 9:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Jeremiah 9:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9f331c516d4a3921e6b942ea9d75c6fb230020b4bc91f1a425bf44b54b781859"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9f331c516d4a3921e6b942ea9d75c6fb230020b4bc91f1a425bf44b54b781859"
+      },
+      "16": {
+        "source_ref": "Jeremiah 9:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 16,
+            "source_ref": "Jeremiah 9:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d0e2f7a692ef499dfd4597c735e5c13fbc808f6f22047564f1eddc39306a029c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d0e2f7a692ef499dfd4597c735e5c13fbc808f6f22047564f1eddc39306a029c"
+      },
+      "17": {
+        "source_ref": "Jeremiah 9:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 17,
+            "source_ref": "Jeremiah 9:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "143f14912750ccc1e2d06d6944c4a675aa30c94ebff92850cefc0dd01cd143b0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "143f14912750ccc1e2d06d6944c4a675aa30c94ebff92850cefc0dd01cd143b0"
+      },
+      "18": {
+        "source_ref": "Jeremiah 9:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 18,
+            "source_ref": "Jeremiah 9:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "27313ff7b0a94228e9f9e68c18097b19f268c75f3efb60967327a5b44181a6d0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "27313ff7b0a94228e9f9e68c18097b19f268c75f3efb60967327a5b44181a6d0"
+      },
+      "19": {
+        "source_ref": "Jeremiah 9:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 19,
+            "source_ref": "Jeremiah 9:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3053136a62d83eaff8941dfe017d542316e8e896054693a1e63468f295e22c08"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3053136a62d83eaff8941dfe017d542316e8e896054693a1e63468f295e22c08"
+      },
+      "20": {
+        "source_ref": "Jeremiah 9:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 20,
+            "source_ref": "Jeremiah 9:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c5202bf59e016dd358c4f7a389c9a4dcb324c4999665f248781fb72c8938a9ae"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c5202bf59e016dd358c4f7a389c9a4dcb324c4999665f248781fb72c8938a9ae"
+      },
+      "21": {
+        "source_ref": "Jeremiah 9:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 21,
+            "source_ref": "Jeremiah 9:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "53a614e5c45efd7aa6815af88130284fe27334c1fe9f9b914b36b40861b4a064"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "53a614e5c45efd7aa6815af88130284fe27334c1fe9f9b914b36b40861b4a064"
+      },
+      "22": {
+        "source_ref": "Jeremiah 9:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 22,
+            "source_ref": "Jeremiah 9:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "02e147c486464ef2641cb3349529230437f003fe3903354ae1784e3193a22e5a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "02e147c486464ef2641cb3349529230437f003fe3903354ae1784e3193a22e5a"
+      },
+      "23": {
+        "source_ref": "Jeremiah 9:23 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 23,
+            "source_ref": "Jeremiah 9:23 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ff30e56f4efb1d276c962607302e9e730097b82189c788654f9a2f2edb64b184"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ff30e56f4efb1d276c962607302e9e730097b82189c788654f9a2f2edb64b184"
+      },
+      "24": {
+        "source_ref": "Jeremiah 9:24 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 24,
+            "source_ref": "Jeremiah 9:24 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "29b8dcbe7a2cced7062fc0caf09855d615ed2dd36d7d01a237c207116266b992"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "29b8dcbe7a2cced7062fc0caf09855d615ed2dd36d7d01a237c207116266b992"
+      },
+      "25": {
+        "source_ref": "Jeremiah 9:25 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 25,
+            "source_ref": "Jeremiah 9:25 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "52abd8dee7bf74322bf92e6c25642aa2c565eb2f2fae832919b20e38369c3d4e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "52abd8dee7bf74322bf92e6c25642aa2c565eb2f2fae832919b20e38369c3d4e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_09.md",
+    "blob_sha": "a1b6917e554456bd4684fd494e1f30b23c11fb14"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

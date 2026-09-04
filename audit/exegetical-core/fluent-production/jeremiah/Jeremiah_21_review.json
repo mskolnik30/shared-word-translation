@@ -1,0 +1,252 @@
+{
+  "book": "Jeremiah",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "21:1-29:32",
+      "decision": "Keep royal failure, prophetic conflict, exile, the letter to exiles, and disputed hopes historically grounded.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 21:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 1,
+            "source_ref": "Jeremiah 21:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "178baf84498de4bcc630d525b1df36ae0a45f4b9b79fa656a608b0054cfc173f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "178baf84498de4bcc630d525b1df36ae0a45f4b9b79fa656a608b0054cfc173f"
+      },
+      "2": {
+        "source_ref": "Jeremiah 21:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 2,
+            "source_ref": "Jeremiah 21:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8b64984cc7c3800ea5782308a6e1be70cdb48ca905b7742b4a0289cfc753b957"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8b64984cc7c3800ea5782308a6e1be70cdb48ca905b7742b4a0289cfc753b957"
+      },
+      "3": {
+        "source_ref": "Jeremiah 21:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 3,
+            "source_ref": "Jeremiah 21:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c5c7d76597888ae54ba45f52fbba955872a89cd84f28a1b4858ff45f39125d7b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c5c7d76597888ae54ba45f52fbba955872a89cd84f28a1b4858ff45f39125d7b"
+      },
+      "4": {
+        "source_ref": "Jeremiah 21:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 4,
+            "source_ref": "Jeremiah 21:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d65423b5839990843eb5099fe77775d8466d63ac250caf39ab00b9e0a103ee23"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d65423b5839990843eb5099fe77775d8466d63ac250caf39ab00b9e0a103ee23"
+      },
+      "5": {
+        "source_ref": "Jeremiah 21:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 5,
+            "source_ref": "Jeremiah 21:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b11a2a4b5161ea3fd53c1ea9fe6e1c76d9166ef358ef729d071d97a20e0f60ad"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b11a2a4b5161ea3fd53c1ea9fe6e1c76d9166ef358ef729d071d97a20e0f60ad"
+      },
+      "6": {
+        "source_ref": "Jeremiah 21:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 6,
+            "source_ref": "Jeremiah 21:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ecb7be02c8f0804d09f292255555f3ce7ab3339376b330d1acc7f30293aec005"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ecb7be02c8f0804d09f292255555f3ce7ab3339376b330d1acc7f30293aec005"
+      },
+      "7": {
+        "source_ref": "Jeremiah 21:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 7,
+            "source_ref": "Jeremiah 21:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "237a56916e6c7a69245b97a5bec42c29ebad82de499eddf290a8f28e913859c5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "237a56916e6c7a69245b97a5bec42c29ebad82de499eddf290a8f28e913859c5"
+      },
+      "8": {
+        "source_ref": "Jeremiah 21:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 8,
+            "source_ref": "Jeremiah 21:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "73278cf908c4926d023a9155574f8834902a5180bd1a7b69e1d3635b34e14d0e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "73278cf908c4926d023a9155574f8834902a5180bd1a7b69e1d3635b34e14d0e"
+      },
+      "9": {
+        "source_ref": "Jeremiah 21:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 9,
+            "source_ref": "Jeremiah 21:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e4bdd883457f5a1a123085120ea76d1bd65500e0f8b0407ae6c493b9aa65e505"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e4bdd883457f5a1a123085120ea76d1bd65500e0f8b0407ae6c493b9aa65e505"
+      },
+      "10": {
+        "source_ref": "Jeremiah 21:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 10,
+            "source_ref": "Jeremiah 21:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ffeb39a0ef3c4dbf3ea016540c2b1129919a229260805111dfdfe1ae0370eab2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ffeb39a0ef3c4dbf3ea016540c2b1129919a229260805111dfdfe1ae0370eab2"
+      },
+      "11": {
+        "source_ref": "Jeremiah 21:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 11,
+            "source_ref": "Jeremiah 21:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e1164563b4ee1d154a3129ac691c22b33f139b57e8b5c13fdb5162c28bf965d7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e1164563b4ee1d154a3129ac691c22b33f139b57e8b5c13fdb5162c28bf965d7"
+      },
+      "12": {
+        "source_ref": "Jeremiah 21:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 12,
+            "source_ref": "Jeremiah 21:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e307ad8997a691983dcbaf9d1af0b77c3603a8467cfe4bf2dbc0e1686c40a38e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e307ad8997a691983dcbaf9d1af0b77c3603a8467cfe4bf2dbc0e1686c40a38e"
+      },
+      "13": {
+        "source_ref": "Jeremiah 21:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 13,
+            "source_ref": "Jeremiah 21:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ae52b26c697dd2373cf6034f0a853ac2c165d1d899bb4970c49cd0892afdcd60"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ae52b26c697dd2373cf6034f0a853ac2c165d1d899bb4970c49cd0892afdcd60"
+      },
+      "14": {
+        "source_ref": "Jeremiah 21:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 14,
+            "source_ref": "Jeremiah 21:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "18fdbc16909a2b7ff5e4973955914bb7ca1ba25443725befaaeee1099faf7a6d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "18fdbc16909a2b7ff5e4973955914bb7ca1ba25443725befaaeee1099faf7a6d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_21.md",
+    "blob_sha": "7c81af71c8817a09ad484de6ece6d7b5e27b8d5a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
