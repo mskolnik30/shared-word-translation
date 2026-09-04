@@ -1,0 +1,357 @@
+{
+  "book": "Joel",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Joel.xml",
+    "git_blob_sha": "d1a160746190931dccd91014499558fae735586a"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "3:1-21",
+      "decision": "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Joel.xml",
+    "git_blob_sha": "d1a160746190931dccd91014499558fae735586a",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joel 4:1 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "Joel 4:1 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "3b0ffb7afc381786a992a728daf3510add5eb41c35148410ae011fa3cf0c98cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b0ffb7afc381786a992a728daf3510add5eb41c35148410ae011fa3cf0c98cd"
+      },
+      "2": {
+        "source_ref": "Joel 4:2 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "Joel 4:2 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "936bae6c507dfbca6e0026ca90c0ef3efbc8fd67c0a54d0ca39e6817e15dfe69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "936bae6c507dfbca6e0026ca90c0ef3efbc8fd67c0a54d0ca39e6817e15dfe69"
+      },
+      "3": {
+        "source_ref": "Joel 4:3 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "Joel 4:3 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "26cbeabef4a78331a5dbd170d76a7f6fece5caf428a9e42a2c598beb8698c758"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26cbeabef4a78331a5dbd170d76a7f6fece5caf428a9e42a2c598beb8698c758"
+      },
+      "4": {
+        "source_ref": "Joel 4:4 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "Joel 4:4 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "7e209c68cecdaf23e58a419f4d23a4cdc8a2109c356b688bfa47e67f4fb045a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e209c68cecdaf23e58a419f4d23a4cdc8a2109c356b688bfa47e67f4fb045a1"
+      },
+      "5": {
+        "source_ref": "Joel 4:5 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "Joel 4:5 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "6b4a572136cd8ead6688a370fe0e3bf949e254ca249f70dcdda0f8e419445048"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b4a572136cd8ead6688a370fe0e3bf949e254ca249f70dcdda0f8e419445048"
+      },
+      "6": {
+        "source_ref": "Joel 4:6 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "Joel 4:6 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "3fe9dfac73ce36adf807f80b25d03e2152d3b31564428912b45ed77a90a98d16"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3fe9dfac73ce36adf807f80b25d03e2152d3b31564428912b45ed77a90a98d16"
+      },
+      "7": {
+        "source_ref": "Joel 4:7 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "Joel 4:7 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "21a33fbeb57efb5637cd2d32c6ec90959abc3b4ec78b6ad55c3da6a66751d0a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "21a33fbeb57efb5637cd2d32c6ec90959abc3b4ec78b6ad55c3da6a66751d0a4"
+      },
+      "8": {
+        "source_ref": "Joel 4:8 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "Joel 4:8 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "3f9582ef5c1337c065077d2fdf905ce32996625a11282e9b7567b128c37a9baf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f9582ef5c1337c065077d2fdf905ce32996625a11282e9b7567b128c37a9baf"
+      },
+      "9": {
+        "source_ref": "Joel 4:9 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "Joel 4:9 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "967ae0007eec4187b44630252db5b38255486885f24b19c34104f6436646fdfc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "967ae0007eec4187b44630252db5b38255486885f24b19c34104f6436646fdfc"
+      },
+      "10": {
+        "source_ref": "Joel 4:10 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "Joel 4:10 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "cbf7b2f64e2e4215fccbdfab505ff068185ccb1a76e841168209be7032caa514"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cbf7b2f64e2e4215fccbdfab505ff068185ccb1a76e841168209be7032caa514"
+      },
+      "11": {
+        "source_ref": "Joel 4:11 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "Joel 4:11 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "c41518208201ddea9f8ccc4c09dd6380431128cdaf88567fa003808d9deb939c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c41518208201ddea9f8ccc4c09dd6380431128cdaf88567fa003808d9deb939c"
+      },
+      "12": {
+        "source_ref": "Joel 4:12 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 12,
+            "source_ref": "Joel 4:12 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "fd75e55c32d980dcb8d5d58c0d2e8cb6ada3e4aecf875071dfcefdfd5eff17ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd75e55c32d980dcb8d5d58c0d2e8cb6ada3e4aecf875071dfcefdfd5eff17ef"
+      },
+      "13": {
+        "source_ref": "Joel 4:13 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 13,
+            "source_ref": "Joel 4:13 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "e367e5185f0828632b2f0a0bd8382b2eecd39f00b72d41e06226494145a91bd3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e367e5185f0828632b2f0a0bd8382b2eecd39f00b72d41e06226494145a91bd3"
+      },
+      "14": {
+        "source_ref": "Joel 4:14 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 14,
+            "source_ref": "Joel 4:14 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "b6228d5af7f2ed533b95c20db9f2c209c3db60791f16d9cbca92dbec1548561a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6228d5af7f2ed533b95c20db9f2c209c3db60791f16d9cbca92dbec1548561a"
+      },
+      "15": {
+        "source_ref": "Joel 4:15 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 15,
+            "source_ref": "Joel 4:15 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "7de97d9ea33b813090324ea6e52d921c04cb98978ee26c40ec61c5c3278af2a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7de97d9ea33b813090324ea6e52d921c04cb98978ee26c40ec61c5c3278af2a8"
+      },
+      "16": {
+        "source_ref": "Joel 4:16 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 16,
+            "source_ref": "Joel 4:16 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "21597ebdfa1df7ee3a2e346f557c251e0c5d3025e4251510ae9c15e2474df3ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "21597ebdfa1df7ee3a2e346f557c251e0c5d3025e4251510ae9c15e2474df3ff"
+      },
+      "17": {
+        "source_ref": "Joel 4:17 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 17,
+            "source_ref": "Joel 4:17 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1e96abfb3d108f5c14654ffffa6ccab6253858502f1be994f1798674fb87d604"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e96abfb3d108f5c14654ffffa6ccab6253858502f1be994f1798674fb87d604"
+      },
+      "18": {
+        "source_ref": "Joel 4:18 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 18,
+            "source_ref": "Joel 4:18 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "72c3866d74303c36c4f4a40bd15cb05e358cf197abb2f4fc4abe82c84db52ca2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72c3866d74303c36c4f4a40bd15cb05e358cf197abb2f4fc4abe82c84db52ca2"
+      },
+      "19": {
+        "source_ref": "Joel 4:19 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 19,
+            "source_ref": "Joel 4:19 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "0d687868a97c9794dbf9cb344f030140b0822623ee02728548b125440fcbae5a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d687868a97c9794dbf9cb344f030140b0822623ee02728548b125440fcbae5a"
+      },
+      "20": {
+        "source_ref": "Joel 4:20 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 20,
+            "source_ref": "Joel 4:20 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "79ca9c074fda11430b7e93f9c1031ad82e77a6bc7bd7ee2b92148b73c97ffd37"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79ca9c074fda11430b7e93f9c1031ad82e77a6bc7bd7ee2b92148b73c97ffd37"
+      },
+      "21": {
+        "source_ref": "Joel 4:21 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 21,
+            "source_ref": "Joel 4:21 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "83264d7606f56c541e9d2687ddc4326cb5878bb836762d759a6c763687bd4af2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83264d7606f56c541e9d2687ddc4326cb5878bb836762d759a6c763687bd4af2"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joel/Joel_03.md",
+    "blob_sha": "4d24dc9ae5899932910a58102236b1b207200866"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
