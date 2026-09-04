@@ -1,0 +1,501 @@
+{
+  "book": "Exodus",
+  "chapter": 14,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 14:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 1,
+            "source_ref": "Exodus 14:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f47c7a5ccc650d4e934faf7c6d802c3260d8f0dbb984475127f8a73f0ec7e3e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f47c7a5ccc650d4e934faf7c6d802c3260d8f0dbb984475127f8a73f0ec7e3e0"
+      },
+      "2": {
+        "source_ref": "Exodus 14:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 2,
+            "source_ref": "Exodus 14:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b7dbc85f1dc3454da8984f16086fe5bbb5c38b3e33d63891898652bd9eba1f06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7dbc85f1dc3454da8984f16086fe5bbb5c38b3e33d63891898652bd9eba1f06"
+      },
+      "3": {
+        "source_ref": "Exodus 14:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 3,
+            "source_ref": "Exodus 14:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8f1ee71503f144c06fec9c8e6a884e5f377ac62013ffde98f83a24d326ec0801"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f1ee71503f144c06fec9c8e6a884e5f377ac62013ffde98f83a24d326ec0801"
+      },
+      "4": {
+        "source_ref": "Exodus 14:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 4,
+            "source_ref": "Exodus 14:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62f666ab71f67822c3982f24b15630581a2366b557df69be81341929f7043cd9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62f666ab71f67822c3982f24b15630581a2366b557df69be81341929f7043cd9"
+      },
+      "5": {
+        "source_ref": "Exodus 14:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 5,
+            "source_ref": "Exodus 14:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27c87a40d459f2a898eb251a7294c7199068c07526055e41e87e21cde924d29f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27c87a40d459f2a898eb251a7294c7199068c07526055e41e87e21cde924d29f"
+      },
+      "6": {
+        "source_ref": "Exodus 14:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 6,
+            "source_ref": "Exodus 14:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7fef1f2131a969faba0ac9691a3004955971803198c6089d02f1fe87f90ee611"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7fef1f2131a969faba0ac9691a3004955971803198c6089d02f1fe87f90ee611"
+      },
+      "7": {
+        "source_ref": "Exodus 14:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 7,
+            "source_ref": "Exodus 14:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5062dca68b05cc8fd45fe8925ac3e9d26b9e3d8af25ad501922fc47a94990d4f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5062dca68b05cc8fd45fe8925ac3e9d26b9e3d8af25ad501922fc47a94990d4f"
+      },
+      "8": {
+        "source_ref": "Exodus 14:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 8,
+            "source_ref": "Exodus 14:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "24582718901709c469ee9269d0fbf3c881aa3124adba9cf976ab09a0df58a657"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24582718901709c469ee9269d0fbf3c881aa3124adba9cf976ab09a0df58a657"
+      },
+      "9": {
+        "source_ref": "Exodus 14:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 9,
+            "source_ref": "Exodus 14:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b2c5cf0a4356feaa034f0990d6123dd7b76e88ac05a5a30c12ba72493d846bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b2c5cf0a4356feaa034f0990d6123dd7b76e88ac05a5a30c12ba72493d846bb"
+      },
+      "10": {
+        "source_ref": "Exodus 14:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 10,
+            "source_ref": "Exodus 14:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1be81ed56ab2c2f0ec57b795916f84533184ef719716c882d12e89dc339c334f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1be81ed56ab2c2f0ec57b795916f84533184ef719716c882d12e89dc339c334f"
+      },
+      "11": {
+        "source_ref": "Exodus 14:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 11,
+            "source_ref": "Exodus 14:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1572479ff3825df289ce6ffa154da66cd842a9dcfbf610c60d99e9711c6872e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1572479ff3825df289ce6ffa154da66cd842a9dcfbf610c60d99e9711c6872e"
+      },
+      "12": {
+        "source_ref": "Exodus 14:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 12,
+            "source_ref": "Exodus 14:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eebc4900b1a4b98bf2618fb07c156458dbaf4ff2a521c70e646e682e5c105b9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eebc4900b1a4b98bf2618fb07c156458dbaf4ff2a521c70e646e682e5c105b9a"
+      },
+      "13": {
+        "source_ref": "Exodus 14:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 13,
+            "source_ref": "Exodus 14:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eb432bf53db3511af608651243312d62e80affca776800fd798dd995c4c9b9c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb432bf53db3511af608651243312d62e80affca776800fd798dd995c4c9b9c7"
+      },
+      "14": {
+        "source_ref": "Exodus 14:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 14,
+            "source_ref": "Exodus 14:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "21b31275e8d7aa1992cab979e34e3478a52bf3796bf1c696dc003b95464dfbb7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "21b31275e8d7aa1992cab979e34e3478a52bf3796bf1c696dc003b95464dfbb7"
+      },
+      "15": {
+        "source_ref": "Exodus 14:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 15,
+            "source_ref": "Exodus 14:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "60c921df02a0ce5a4c6f8b9c4dcd0b7936ba0f9c420309b1e4aea6bcea744972"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60c921df02a0ce5a4c6f8b9c4dcd0b7936ba0f9c420309b1e4aea6bcea744972"
+      },
+      "16": {
+        "source_ref": "Exodus 14:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 16,
+            "source_ref": "Exodus 14:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "335d46f4780f8fdfc699cb5f3babd936afa08c6acd42f4964c514aff3bbe9f34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "335d46f4780f8fdfc699cb5f3babd936afa08c6acd42f4964c514aff3bbe9f34"
+      },
+      "17": {
+        "source_ref": "Exodus 14:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 17,
+            "source_ref": "Exodus 14:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6af3dbfebd13c61e22239f7713ffe9306e06e931adef4ba142c040d8e47d077f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6af3dbfebd13c61e22239f7713ffe9306e06e931adef4ba142c040d8e47d077f"
+      },
+      "18": {
+        "source_ref": "Exodus 14:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 18,
+            "source_ref": "Exodus 14:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1fb99b449eb0be1b6a4f0fadba4462aae243d23fb0225b26e3216019a585b8b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1fb99b449eb0be1b6a4f0fadba4462aae243d23fb0225b26e3216019a585b8b4"
+      },
+      "19": {
+        "source_ref": "Exodus 14:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 19,
+            "source_ref": "Exodus 14:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "958702b911de445e0ca5e1d082db23cb3111726d13ed0a20bb23f16f3ec1c559"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "958702b911de445e0ca5e1d082db23cb3111726d13ed0a20bb23f16f3ec1c559"
+      },
+      "20": {
+        "source_ref": "Exodus 14:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 20,
+            "source_ref": "Exodus 14:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c31ac69f33ea785b209a47a2d93cebd436fd9c1f6f029a527a51984fb6fc1f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c31ac69f33ea785b209a47a2d93cebd436fd9c1f6f029a527a51984fb6fc1f0"
+      },
+      "21": {
+        "source_ref": "Exodus 14:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 21,
+            "source_ref": "Exodus 14:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84a4b8588ca03f724c5af401f828e07f83ccd2a8cb55a0094d8bbb76c7efbd5a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84a4b8588ca03f724c5af401f828e07f83ccd2a8cb55a0094d8bbb76c7efbd5a"
+      },
+      "22": {
+        "source_ref": "Exodus 14:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 22,
+            "source_ref": "Exodus 14:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c1d9463731d294be0c16179874b784d205bce2fdadbc46ee17c1f4edf2a650f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c1d9463731d294be0c16179874b784d205bce2fdadbc46ee17c1f4edf2a650f"
+      },
+      "23": {
+        "source_ref": "Exodus 14:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 23,
+            "source_ref": "Exodus 14:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e679c2f0269e4247ef9cd63eec0b0a12e22fcaa2f73c6d5e1af99488c3a59d37"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e679c2f0269e4247ef9cd63eec0b0a12e22fcaa2f73c6d5e1af99488c3a59d37"
+      },
+      "24": {
+        "source_ref": "Exodus 14:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 24,
+            "source_ref": "Exodus 14:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "52bf0aee4893c258791eda161ce04de3fd41fb6ae57764293cb1aa9c878e7d7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "52bf0aee4893c258791eda161ce04de3fd41fb6ae57764293cb1aa9c878e7d7b"
+      },
+      "25": {
+        "source_ref": "Exodus 14:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 25,
+            "source_ref": "Exodus 14:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8edffbfb2855327722fa9a3b497d2e8241612ee09014dc3dfd8c41df90d5b5ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8edffbfb2855327722fa9a3b497d2e8241612ee09014dc3dfd8c41df90d5b5ad"
+      },
+      "26": {
+        "source_ref": "Exodus 14:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 26,
+            "source_ref": "Exodus 14:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e73e18603cab512ffa2f67d14ee89b056fdb8e6f38bb3666e675666eecca337e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e73e18603cab512ffa2f67d14ee89b056fdb8e6f38bb3666e675666eecca337e"
+      },
+      "27": {
+        "source_ref": "Exodus 14:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 27,
+            "source_ref": "Exodus 14:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f56c738f1c6373fac5e0b501f03dfc9e09545089c8f6af1165808a5e70f3ae68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f56c738f1c6373fac5e0b501f03dfc9e09545089c8f6af1165808a5e70f3ae68"
+      },
+      "28": {
+        "source_ref": "Exodus 14:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 28,
+            "source_ref": "Exodus 14:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "172d38e24bea4c7acc50060b464c0f0ede67467ac0644f9ef2ce49cd0de8ea53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "172d38e24bea4c7acc50060b464c0f0ede67467ac0644f9ef2ce49cd0de8ea53"
+      },
+      "29": {
+        "source_ref": "Exodus 14:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 29,
+            "source_ref": "Exodus 14:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e063e0046a2877724701eafe3a004010ec4fbd52e5542b44a489c8ba696cc2aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e063e0046a2877724701eafe3a004010ec4fbd52e5542b44a489c8ba696cc2aa"
+      },
+      "30": {
+        "source_ref": "Exodus 14:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 30,
+            "source_ref": "Exodus 14:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d56f0c06dcf9f067c461c90259fe1a43ddec397f9945337f9b061af3e0d62e15"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d56f0c06dcf9f067c461c90259fe1a43ddec397f9945337f9b061af3e0d62e15"
+      },
+      "31": {
+        "source_ref": "Exodus 14:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 31,
+            "source_ref": "Exodus 14:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e6094a13c5d6dbaf7bd60076885d21a7e30c1ab6249782853c8e4826775b092"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e6094a13c5d6dbaf7bd60076885d21a7e30c1ab6249782853c8e4826775b092"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_14.md",
+    "blob_sha": "9d593f056072e232a0d2b5ca04bf7fa67093732b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

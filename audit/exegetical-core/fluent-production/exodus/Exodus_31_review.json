@@ -1,0 +1,306 @@
+{
+  "book": "Exodus",
+  "chapter": 31,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 31:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 1,
+            "source_ref": "Exodus 31:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "2": {
+        "source_ref": "Exodus 31:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 2,
+            "source_ref": "Exodus 31:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f257d8d2cdd0a0094f38ed6f97a7e7e52e934644af49fabcbe4ea6443295cf7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f257d8d2cdd0a0094f38ed6f97a7e7e52e934644af49fabcbe4ea6443295cf7e"
+      },
+      "3": {
+        "source_ref": "Exodus 31:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 3,
+            "source_ref": "Exodus 31:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8c556c144e6fa33b64547c83f92c958a59d5e72d43b289fc1cdc844000ca675a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c556c144e6fa33b64547c83f92c958a59d5e72d43b289fc1cdc844000ca675a"
+      },
+      "4": {
+        "source_ref": "Exodus 31:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 4,
+            "source_ref": "Exodus 31:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "18d39f461a606094cccc439a175855b75d464348de7fdce94a938ee822db0c38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18d39f461a606094cccc439a175855b75d464348de7fdce94a938ee822db0c38"
+      },
+      "5": {
+        "source_ref": "Exodus 31:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 5,
+            "source_ref": "Exodus 31:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "336427400e6a314bc0bedc927aab214afb625cf9d7cfa194d6cdd8710b0d4f7c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "336427400e6a314bc0bedc927aab214afb625cf9d7cfa194d6cdd8710b0d4f7c"
+      },
+      "6": {
+        "source_ref": "Exodus 31:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 6,
+            "source_ref": "Exodus 31:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d77d1240596e5fb9d5c7199bc23d5096fbc90bb08782e1cfd266fe5b332cf07c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d77d1240596e5fb9d5c7199bc23d5096fbc90bb08782e1cfd266fe5b332cf07c"
+      },
+      "7": {
+        "source_ref": "Exodus 31:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 7,
+            "source_ref": "Exodus 31:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "95a580cd7349618bd7073b7fc1a795ddcfc27bc013495cb06930819c6f9c32ae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95a580cd7349618bd7073b7fc1a795ddcfc27bc013495cb06930819c6f9c32ae"
+      },
+      "8": {
+        "source_ref": "Exodus 31:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 8,
+            "source_ref": "Exodus 31:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f039a0951b2d3fd00161c595bdab6af59d0e6c6f61a242b1a91207d447a3d69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f039a0951b2d3fd00161c595bdab6af59d0e6c6f61a242b1a91207d447a3d69"
+      },
+      "9": {
+        "source_ref": "Exodus 31:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 9,
+            "source_ref": "Exodus 31:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca1e0584f5628f24d42b64f5e3336d6352add6bc3bb7229826d866fd0b8547b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca1e0584f5628f24d42b64f5e3336d6352add6bc3bb7229826d866fd0b8547b7"
+      },
+      "10": {
+        "source_ref": "Exodus 31:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 10,
+            "source_ref": "Exodus 31:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1669f444c119ade90660ee84137c434811d2c157c1239ec739250c168e287605"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1669f444c119ade90660ee84137c434811d2c157c1239ec739250c168e287605"
+      },
+      "11": {
+        "source_ref": "Exodus 31:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 11,
+            "source_ref": "Exodus 31:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1e4d4fddf63620f08d2b68856f0f48a4802476dee3c836e8770d76b8279b73c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e4d4fddf63620f08d2b68856f0f48a4802476dee3c836e8770d76b8279b73c0"
+      },
+      "12": {
+        "source_ref": "Exodus 31:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 12,
+            "source_ref": "Exodus 31:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9f175be870b612ea7b40bccf2fabea08a7fbfd2cd8cfa7eec0e76813b10d1654"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f175be870b612ea7b40bccf2fabea08a7fbfd2cd8cfa7eec0e76813b10d1654"
+      },
+      "13": {
+        "source_ref": "Exodus 31:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 13,
+            "source_ref": "Exodus 31:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27d49a69ed7825dbed1c5c46624ddfd7d0d4fb8a25822e1c50e67444db806e7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27d49a69ed7825dbed1c5c46624ddfd7d0d4fb8a25822e1c50e67444db806e7e"
+      },
+      "14": {
+        "source_ref": "Exodus 31:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 14,
+            "source_ref": "Exodus 31:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "153e7b614e53f7cf7c85b9e2a86a39eaadbf245202ee5da1f58a49d9283ddd74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "153e7b614e53f7cf7c85b9e2a86a39eaadbf245202ee5da1f58a49d9283ddd74"
+      },
+      "15": {
+        "source_ref": "Exodus 31:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 15,
+            "source_ref": "Exodus 31:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b68077d02c4d7332095176eaecfe7c76d2be50f3b8c3276d015187a2906f417"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b68077d02c4d7332095176eaecfe7c76d2be50f3b8c3276d015187a2906f417"
+      },
+      "16": {
+        "source_ref": "Exodus 31:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 16,
+            "source_ref": "Exodus 31:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2def21a8408f246266e41587d0e1c4c93d821f4efe8f3fcd3554b6f902b76aee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2def21a8408f246266e41587d0e1c4c93d821f4efe8f3fcd3554b6f902b76aee"
+      },
+      "17": {
+        "source_ref": "Exodus 31:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 17,
+            "source_ref": "Exodus 31:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a14b7850da30e89b2f37b0d7fc99ebd26b41306db622380bca5aa4e7028813b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a14b7850da30e89b2f37b0d7fc99ebd26b41306db622380bca5aa4e7028813b4"
+      },
+      "18": {
+        "source_ref": "Exodus 31:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 18,
+            "source_ref": "Exodus 31:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3c8348cac60da1645018b8917fa67224327a59292dc2e699f2a74ada2586e966"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c8348cac60da1645018b8917fa67224327a59292dc2e699f2a74ada2586e966"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_31.md",
+    "blob_sha": "2436ef3a4be180cd3b896ae139de383ce82ff81f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,441 @@
+{
+  "book": "Exodus",
+  "chapter": 18,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 18:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 1,
+            "source_ref": "Exodus 18:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "85b965549cd636f25d7be66ad7949faca503e73c0ed36c7f4035355e4ce3f719"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "85b965549cd636f25d7be66ad7949faca503e73c0ed36c7f4035355e4ce3f719"
+      },
+      "2": {
+        "source_ref": "Exodus 18:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 2,
+            "source_ref": "Exodus 18:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b57738b7104360f77dd07ccbd270b28168baae21e76c7a8abf43df73789be09a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b57738b7104360f77dd07ccbd270b28168baae21e76c7a8abf43df73789be09a"
+      },
+      "3": {
+        "source_ref": "Exodus 18:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 3,
+            "source_ref": "Exodus 18:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01ed0103cbd2527031ad32e4aff7bf6bd122bba899a5f74ada83bc811b7bed69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01ed0103cbd2527031ad32e4aff7bf6bd122bba899a5f74ada83bc811b7bed69"
+      },
+      "4": {
+        "source_ref": "Exodus 18:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 4,
+            "source_ref": "Exodus 18:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e2b87f37b6b0c0ed5ba617d35aa0ab02710d1fa50a8bc3790be7a9b94ba7d0ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2b87f37b6b0c0ed5ba617d35aa0ab02710d1fa50a8bc3790be7a9b94ba7d0ad"
+      },
+      "5": {
+        "source_ref": "Exodus 18:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 5,
+            "source_ref": "Exodus 18:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd864391d7fdcf5964baa047cc61288e2aadc1fc1b8a17a205f076d73f6452ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd864391d7fdcf5964baa047cc61288e2aadc1fc1b8a17a205f076d73f6452ba"
+      },
+      "6": {
+        "source_ref": "Exodus 18:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 6,
+            "source_ref": "Exodus 18:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb0feceb7ff5b29070dd5eaae219eaf2c7104cb6ab514e287d4d84a7c922f3ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb0feceb7ff5b29070dd5eaae219eaf2c7104cb6ab514e287d4d84a7c922f3ed"
+      },
+      "7": {
+        "source_ref": "Exodus 18:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 7,
+            "source_ref": "Exodus 18:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6fe33d4b7c737773d21999083c6ed8786a05296b2284be9f64b769f1184e9116"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6fe33d4b7c737773d21999083c6ed8786a05296b2284be9f64b769f1184e9116"
+      },
+      "8": {
+        "source_ref": "Exodus 18:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 8,
+            "source_ref": "Exodus 18:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "06fe4fef9f9a6fa31e404ed4f0f5eb723c86756c83d4630e5e96639a6a0eb750"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06fe4fef9f9a6fa31e404ed4f0f5eb723c86756c83d4630e5e96639a6a0eb750"
+      },
+      "9": {
+        "source_ref": "Exodus 18:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 9,
+            "source_ref": "Exodus 18:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "623d3021fdc93445d2d0cbca26b58f67599bdb046af8728c23b0f76150ffc18a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "623d3021fdc93445d2d0cbca26b58f67599bdb046af8728c23b0f76150ffc18a"
+      },
+      "10": {
+        "source_ref": "Exodus 18:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 10,
+            "source_ref": "Exodus 18:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac41b52d8b4522fa95cf4ec4916c337a9a8846f12a48093d14f6e876dd6b1693"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac41b52d8b4522fa95cf4ec4916c337a9a8846f12a48093d14f6e876dd6b1693"
+      },
+      "11": {
+        "source_ref": "Exodus 18:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 11,
+            "source_ref": "Exodus 18:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "da6d9973ad8315957082a533267f8f8140a587fdff76bef774b0e6be6a5b2b62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da6d9973ad8315957082a533267f8f8140a587fdff76bef774b0e6be6a5b2b62"
+      },
+      "12": {
+        "source_ref": "Exodus 18:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 12,
+            "source_ref": "Exodus 18:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "348f35e33f813c3c6d2d5098767a3ca47f80af06d42fafa8d61efae985d7fb4d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "348f35e33f813c3c6d2d5098767a3ca47f80af06d42fafa8d61efae985d7fb4d"
+      },
+      "13": {
+        "source_ref": "Exodus 18:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 13,
+            "source_ref": "Exodus 18:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c0b19a408fe4616b5d4e4797a3f7eabbdff4b231480cca9d6e73cf3f9d459876"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0b19a408fe4616b5d4e4797a3f7eabbdff4b231480cca9d6e73cf3f9d459876"
+      },
+      "14": {
+        "source_ref": "Exodus 18:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 14,
+            "source_ref": "Exodus 18:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d113cd92d4da610621abf9815f31faa924850d58431f49ffb54a7281385a3df0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d113cd92d4da610621abf9815f31faa924850d58431f49ffb54a7281385a3df0"
+      },
+      "15": {
+        "source_ref": "Exodus 18:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 15,
+            "source_ref": "Exodus 18:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7e1637b2d03beaef7add6826e2e74d81012377c4a2f51a9ed07f47b935a5b0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7e1637b2d03beaef7add6826e2e74d81012377c4a2f51a9ed07f47b935a5b0d"
+      },
+      "16": {
+        "source_ref": "Exodus 18:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 16,
+            "source_ref": "Exodus 18:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ae59ec988912f933cb04a0be4869b1ea38eb28fd83887ff3ad442492ae5c211"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ae59ec988912f933cb04a0be4869b1ea38eb28fd83887ff3ad442492ae5c211"
+      },
+      "17": {
+        "source_ref": "Exodus 18:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 17,
+            "source_ref": "Exodus 18:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c3457b1be29e25d4dae64442b35536b56dfc7e18ca3ce9a8e6047f852f85479"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c3457b1be29e25d4dae64442b35536b56dfc7e18ca3ce9a8e6047f852f85479"
+      },
+      "18": {
+        "source_ref": "Exodus 18:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 18,
+            "source_ref": "Exodus 18:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "24c486ece7c43e10bb56a8b0897ae51a272f44495f021f1424cf8c7e8b70df88"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24c486ece7c43e10bb56a8b0897ae51a272f44495f021f1424cf8c7e8b70df88"
+      },
+      "19": {
+        "source_ref": "Exodus 18:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 19,
+            "source_ref": "Exodus 18:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "11bed2d90be7dab17a7a492c0dacd608fd3e587b72887333e4a7f0778133e937"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "11bed2d90be7dab17a7a492c0dacd608fd3e587b72887333e4a7f0778133e937"
+      },
+      "20": {
+        "source_ref": "Exodus 18:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 20,
+            "source_ref": "Exodus 18:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7829c52feffa6ddcfdabd38e265e290b39c1c97de2c413bd0eef17ff7b4a1b9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7829c52feffa6ddcfdabd38e265e290b39c1c97de2c413bd0eef17ff7b4a1b9b"
+      },
+      "21": {
+        "source_ref": "Exodus 18:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 21,
+            "source_ref": "Exodus 18:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "860b25991a003673d68784c0aa161e21df830247afcca53488bc79dc9bf8b1c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "860b25991a003673d68784c0aa161e21df830247afcca53488bc79dc9bf8b1c1"
+      },
+      "22": {
+        "source_ref": "Exodus 18:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 22,
+            "source_ref": "Exodus 18:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "980901e06de40a3c85158adf22a27f91733284dfde0844d130db2e4723b601ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "980901e06de40a3c85158adf22a27f91733284dfde0844d130db2e4723b601ff"
+      },
+      "23": {
+        "source_ref": "Exodus 18:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 23,
+            "source_ref": "Exodus 18:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6ba5532469fc29d61a757b3c93409f0053e24a40ebd301c3a81097aac5dc8b72"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ba5532469fc29d61a757b3c93409f0053e24a40ebd301c3a81097aac5dc8b72"
+      },
+      "24": {
+        "source_ref": "Exodus 18:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 24,
+            "source_ref": "Exodus 18:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a7bc241a3b6def0cc969ed6bd64f95fa1493169e7baf9b14e9171ec770e8c4cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a7bc241a3b6def0cc969ed6bd64f95fa1493169e7baf9b14e9171ec770e8c4cf"
+      },
+      "25": {
+        "source_ref": "Exodus 18:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 25,
+            "source_ref": "Exodus 18:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5f9b1441868db477be08e6a25cef12aa35d200ff4dbca296e95b6d44748ab918"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f9b1441868db477be08e6a25cef12aa35d200ff4dbca296e95b6d44748ab918"
+      },
+      "26": {
+        "source_ref": "Exodus 18:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 26,
+            "source_ref": "Exodus 18:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4952cdf25ea10910b386394434e282dc6294a837d230a7d479c938171b69f5ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4952cdf25ea10910b386394434e282dc6294a837d230a7d479c938171b69f5ac"
+      },
+      "27": {
+        "source_ref": "Exodus 18:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 27,
+            "source_ref": "Exodus 18:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "219faf52eb60a1b8761ae722243f75178eb6dfd69a7b071c36cd9da3346edf48"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "219faf52eb60a1b8761ae722243f75178eb6dfd69a7b071c36cd9da3346edf48"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_18.md",
+    "blob_sha": "91ca43ca24148178eb727a83a169acca4ab127d8"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

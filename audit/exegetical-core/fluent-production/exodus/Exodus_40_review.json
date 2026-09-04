@@ -1,0 +1,606 @@
+{
+  "book": "Exodus",
+  "chapter": 40,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 40:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 1,
+            "source_ref": "Exodus 40:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "2": {
+        "source_ref": "Exodus 40:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 2,
+            "source_ref": "Exodus 40:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e755b248af0aceaecebb110ff4a415a5ea840020b7c68d7616310771defeab8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e755b248af0aceaecebb110ff4a415a5ea840020b7c68d7616310771defeab8a"
+      },
+      "3": {
+        "source_ref": "Exodus 40:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 3,
+            "source_ref": "Exodus 40:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "731f422661f2b9016c4cba54b1ab906df046cccd8956c4af0eb6f7204f6d883d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "731f422661f2b9016c4cba54b1ab906df046cccd8956c4af0eb6f7204f6d883d"
+      },
+      "4": {
+        "source_ref": "Exodus 40:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 4,
+            "source_ref": "Exodus 40:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e52e7dddc6559bc873022bec156ec195c55209994029cdb26cdce3a9dbcb847f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e52e7dddc6559bc873022bec156ec195c55209994029cdb26cdce3a9dbcb847f"
+      },
+      "5": {
+        "source_ref": "Exodus 40:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 5,
+            "source_ref": "Exodus 40:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81707059ecb0c2907f19ad738769850d22d03487ed92068ff863b77bf88a1f91"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81707059ecb0c2907f19ad738769850d22d03487ed92068ff863b77bf88a1f91"
+      },
+      "6": {
+        "source_ref": "Exodus 40:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 6,
+            "source_ref": "Exodus 40:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d1a9482fc1e0e80744882a93c40d236774c787697199fb11e405cc6550738795"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1a9482fc1e0e80744882a93c40d236774c787697199fb11e405cc6550738795"
+      },
+      "7": {
+        "source_ref": "Exodus 40:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 7,
+            "source_ref": "Exodus 40:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f50288a4774729a58dae6c6e14295ebe70721fc9de702e6ba77ee188bb188220"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f50288a4774729a58dae6c6e14295ebe70721fc9de702e6ba77ee188bb188220"
+      },
+      "8": {
+        "source_ref": "Exodus 40:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 8,
+            "source_ref": "Exodus 40:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5069366962a0f370bfaff8f066baa9e76fca7432f22d5e2994b4f93c4393e204"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5069366962a0f370bfaff8f066baa9e76fca7432f22d5e2994b4f93c4393e204"
+      },
+      "9": {
+        "source_ref": "Exodus 40:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 9,
+            "source_ref": "Exodus 40:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "975130f039fe176a0e7e8ee26a31f4c8a5dd488bb793c69fd6bba43493dedbd4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "975130f039fe176a0e7e8ee26a31f4c8a5dd488bb793c69fd6bba43493dedbd4"
+      },
+      "10": {
+        "source_ref": "Exodus 40:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 10,
+            "source_ref": "Exodus 40:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81b2ee694691505f894b7232306e4e9d6d716e9c76bc01f38422b8b18e5863b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81b2ee694691505f894b7232306e4e9d6d716e9c76bc01f38422b8b18e5863b0"
+      },
+      "11": {
+        "source_ref": "Exodus 40:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 11,
+            "source_ref": "Exodus 40:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "401ab97ec53b1522d799f354b903fafa3810735080de047a6e9b284f6e2a7664"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "401ab97ec53b1522d799f354b903fafa3810735080de047a6e9b284f6e2a7664"
+      },
+      "12": {
+        "source_ref": "Exodus 40:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 12,
+            "source_ref": "Exodus 40:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c8babbec5795140598846aea1ea937201e1baab207dcb3be79c1ff66d8e0697"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c8babbec5795140598846aea1ea937201e1baab207dcb3be79c1ff66d8e0697"
+      },
+      "13": {
+        "source_ref": "Exodus 40:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 13,
+            "source_ref": "Exodus 40:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b7fbfba5898e651c8a2e88c56d8986215dbc8206e1fc1a2dd41b0e959553341"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b7fbfba5898e651c8a2e88c56d8986215dbc8206e1fc1a2dd41b0e959553341"
+      },
+      "14": {
+        "source_ref": "Exodus 40:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 14,
+            "source_ref": "Exodus 40:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84b81e5d291640fcecde32e714b30a12d276948487dc94726ead54f4d98ef22c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84b81e5d291640fcecde32e714b30a12d276948487dc94726ead54f4d98ef22c"
+      },
+      "15": {
+        "source_ref": "Exodus 40:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 15,
+            "source_ref": "Exodus 40:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d0228b925534d2f297dde9a9bbb75011cafbdc86f1c9c636092a08d6d2ad4cb4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0228b925534d2f297dde9a9bbb75011cafbdc86f1c9c636092a08d6d2ad4cb4"
+      },
+      "16": {
+        "source_ref": "Exodus 40:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 16,
+            "source_ref": "Exodus 40:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "586ff6993aa364759e55d584c0b9c8ac6e862efcfdcfaf7d0cc5651fd43dffcf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "586ff6993aa364759e55d584c0b9c8ac6e862efcfdcfaf7d0cc5651fd43dffcf"
+      },
+      "17": {
+        "source_ref": "Exodus 40:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 17,
+            "source_ref": "Exodus 40:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a30109c9c4626e162ad8d033a2642632b668480aa233e1091d47896f49da265"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a30109c9c4626e162ad8d033a2642632b668480aa233e1091d47896f49da265"
+      },
+      "18": {
+        "source_ref": "Exodus 40:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 18,
+            "source_ref": "Exodus 40:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5a41493f5bef7f05fdda2fd29bcff555edd8da3f0e0c79bd90a04172f31ff29c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a41493f5bef7f05fdda2fd29bcff555edd8da3f0e0c79bd90a04172f31ff29c"
+      },
+      "19": {
+        "source_ref": "Exodus 40:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 19,
+            "source_ref": "Exodus 40:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9180e9ef2711ef974a2f345d6ab795592fce81018c2ae78b771e0989b331537f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9180e9ef2711ef974a2f345d6ab795592fce81018c2ae78b771e0989b331537f"
+      },
+      "20": {
+        "source_ref": "Exodus 40:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 20,
+            "source_ref": "Exodus 40:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c63a7403ca9dfe081f6ebfd31f7d40b93e9c69341aad2b7747e78a3f8a0e96f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c63a7403ca9dfe081f6ebfd31f7d40b93e9c69341aad2b7747e78a3f8a0e96f"
+      },
+      "21": {
+        "source_ref": "Exodus 40:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 21,
+            "source_ref": "Exodus 40:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bcaf7c582d3fb9ccb5e793b4f27f140d73e7b051e6283fa5617d7d68b3bc5c6e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bcaf7c582d3fb9ccb5e793b4f27f140d73e7b051e6283fa5617d7d68b3bc5c6e"
+      },
+      "22": {
+        "source_ref": "Exodus 40:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 22,
+            "source_ref": "Exodus 40:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "101c29d9f5057912499bbecd9c1b7e9965c07ed253869c162835a5d2eff5f254"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "101c29d9f5057912499bbecd9c1b7e9965c07ed253869c162835a5d2eff5f254"
+      },
+      "23": {
+        "source_ref": "Exodus 40:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 23,
+            "source_ref": "Exodus 40:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04e0e58a060be9187e818a5890c0a38b4dc82e51eedae6f53f3b1b0f95636e5b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04e0e58a060be9187e818a5890c0a38b4dc82e51eedae6f53f3b1b0f95636e5b"
+      },
+      "24": {
+        "source_ref": "Exodus 40:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 24,
+            "source_ref": "Exodus 40:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aceb517ac0cbc9cc586824df80f74dfd9481377c52efcd5a46a68ffae6b0a4fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aceb517ac0cbc9cc586824df80f74dfd9481377c52efcd5a46a68ffae6b0a4fc"
+      },
+      "25": {
+        "source_ref": "Exodus 40:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 25,
+            "source_ref": "Exodus 40:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a3657f4d06b7a0c3e521abc7e37d8d68825ee8e16598b5eb10bed1a6a4efca3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a3657f4d06b7a0c3e521abc7e37d8d68825ee8e16598b5eb10bed1a6a4efca3"
+      },
+      "26": {
+        "source_ref": "Exodus 40:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 26,
+            "source_ref": "Exodus 40:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ed956280b7009d7b4f31788e2d095563c5c764aff2710d9bc3dd4c256f779e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ed956280b7009d7b4f31788e2d095563c5c764aff2710d9bc3dd4c256f779e2"
+      },
+      "27": {
+        "source_ref": "Exodus 40:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 27,
+            "source_ref": "Exodus 40:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f762c40211587dcdffb72e18f0e1d723a5c1c3a4b93e42504e71ed6647905be1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f762c40211587dcdffb72e18f0e1d723a5c1c3a4b93e42504e71ed6647905be1"
+      },
+      "28": {
+        "source_ref": "Exodus 40:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 28,
+            "source_ref": "Exodus 40:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "634e32a994661fd4f7363637f107b1ef48a3b60ac5479e20f5d47a737c2de3d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "634e32a994661fd4f7363637f107b1ef48a3b60ac5479e20f5d47a737c2de3d1"
+      },
+      "29": {
+        "source_ref": "Exodus 40:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 29,
+            "source_ref": "Exodus 40:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b0c866dd31c219773df7570fe6b196f328993c246ee4164010138a2264969ae6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0c866dd31c219773df7570fe6b196f328993c246ee4164010138a2264969ae6"
+      },
+      "30": {
+        "source_ref": "Exodus 40:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 30,
+            "source_ref": "Exodus 40:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00987f4bf5dc02d441c2de4a0f8fa25c30a63881a1f6fe8676b6b60134acd2bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00987f4bf5dc02d441c2de4a0f8fa25c30a63881a1f6fe8676b6b60134acd2bd"
+      },
+      "31": {
+        "source_ref": "Exodus 40:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 31,
+            "source_ref": "Exodus 40:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d9a72d2c01925f6cfc322a289229947eda9e5dfc3eba7940c6f94ad5fedd44de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9a72d2c01925f6cfc322a289229947eda9e5dfc3eba7940c6f94ad5fedd44de"
+      },
+      "32": {
+        "source_ref": "Exodus 40:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 32,
+            "source_ref": "Exodus 40:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e00708b3f34400b93f1ab3f685eb622c4e9f1f8cbd26c96c5fa9d21c7e2b5ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e00708b3f34400b93f1ab3f685eb622c4e9f1f8cbd26c96c5fa9d21c7e2b5ed"
+      },
+      "33": {
+        "source_ref": "Exodus 40:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 33,
+            "source_ref": "Exodus 40:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a8e67c9586c8e558278362626a4cb121a0f16bd22ec093a73bcea2b8aac9ca70"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8e67c9586c8e558278362626a4cb121a0f16bd22ec093a73bcea2b8aac9ca70"
+      },
+      "34": {
+        "source_ref": "Exodus 40:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 34,
+            "source_ref": "Exodus 40:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "93150c0ebd791ace438a55c6e961a2b57f4bf9953f26198bc63d202a16b40ce7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93150c0ebd791ace438a55c6e961a2b57f4bf9953f26198bc63d202a16b40ce7"
+      },
+      "35": {
+        "source_ref": "Exodus 40:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 35,
+            "source_ref": "Exodus 40:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8cd7f218f2e6f6cd930f3c5277f3fc7f864c830d1b43bb0e69ad217e159067fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8cd7f218f2e6f6cd930f3c5277f3fc7f864c830d1b43bb0e69ad217e159067fe"
+      },
+      "36": {
+        "source_ref": "Exodus 40:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 36,
+            "source_ref": "Exodus 40:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe653a34626e177ae8886d4976ef63bda0d254cd349e06391730d5e5183e9be2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe653a34626e177ae8886d4976ef63bda0d254cd349e06391730d5e5183e9be2"
+      },
+      "37": {
+        "source_ref": "Exodus 40:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 37,
+            "source_ref": "Exodus 40:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62f58735c7fc28914d25ba97915e3c676d21d5c12cc7fbab9210975160eb8c03"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62f58735c7fc28914d25ba97915e3c676d21d5c12cc7fbab9210975160eb8c03"
+      },
+      "38": {
+        "source_ref": "Exodus 40:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 38,
+            "source_ref": "Exodus 40:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d2a7dc9cdc95f61d91a07e32f2b383ade70b2c488aae4921a71bca0ab61a8d89"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2a7dc9cdc95f61d91a07e32f2b383ade70b2c488aae4921a71bca0ab61a8d89"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_40.md",
+    "blob_sha": "4862661f77332460fd90229ad6751957cb1ee30f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
