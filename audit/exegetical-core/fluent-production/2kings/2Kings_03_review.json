@@ -1,0 +1,441 @@
+{
+  "book": "2 Kings",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Kgs.xml",
+    "git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Kgs.xml",
+    "git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Kings 3:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 1,
+            "source_ref": "2 Kings 3:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "db5afb9c342c5aaa5a91203f25eb554e629508dbd012bdd88a255f5c8b98a8d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db5afb9c342c5aaa5a91203f25eb554e629508dbd012bdd88a255f5c8b98a8d6"
+      },
+      "2": {
+        "source_ref": "2 Kings 3:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 2,
+            "source_ref": "2 Kings 3:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "258f0cbe4117c6d97997ebb5f185422e5fe962988c7d1d815e3c5f4585e82ed9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "258f0cbe4117c6d97997ebb5f185422e5fe962988c7d1d815e3c5f4585e82ed9"
+      },
+      "3": {
+        "source_ref": "2 Kings 3:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 3,
+            "source_ref": "2 Kings 3:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6a2a2f1496b0daf94e8b7bc9dc26b797cb3a7339b3c3b8ee39884614e987d41"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6a2a2f1496b0daf94e8b7bc9dc26b797cb3a7339b3c3b8ee39884614e987d41"
+      },
+      "4": {
+        "source_ref": "2 Kings 3:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 4,
+            "source_ref": "2 Kings 3:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "876ebfbbec38fe98517acc56cb5958061f3de9cffbfb58b5b9bd751b02df0d3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "876ebfbbec38fe98517acc56cb5958061f3de9cffbfb58b5b9bd751b02df0d3e"
+      },
+      "5": {
+        "source_ref": "2 Kings 3:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 5,
+            "source_ref": "2 Kings 3:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "05ad479c5523b1fc0279946e605cf062b8cd2be60c6780a6ecab466fe4fdba29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05ad479c5523b1fc0279946e605cf062b8cd2be60c6780a6ecab466fe4fdba29"
+      },
+      "6": {
+        "source_ref": "2 Kings 3:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 6,
+            "source_ref": "2 Kings 3:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2bac5ce4cea88b498a3857caf13a85ae5dee718e16426db0f7f066736453770e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2bac5ce4cea88b498a3857caf13a85ae5dee718e16426db0f7f066736453770e"
+      },
+      "7": {
+        "source_ref": "2 Kings 3:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 7,
+            "source_ref": "2 Kings 3:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "857fee76dc1f7cf8ceeeb67ed65865f0f1bcd595c36227b7f5a2766133dc1fcd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "857fee76dc1f7cf8ceeeb67ed65865f0f1bcd595c36227b7f5a2766133dc1fcd"
+      },
+      "8": {
+        "source_ref": "2 Kings 3:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 8,
+            "source_ref": "2 Kings 3:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1efffa067614f215e183622ceaa52602fa34c92482e38633a29ab6b957ad330"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1efffa067614f215e183622ceaa52602fa34c92482e38633a29ab6b957ad330"
+      },
+      "9": {
+        "source_ref": "2 Kings 3:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 9,
+            "source_ref": "2 Kings 3:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0beb4c3d55395d6e64d2d968af1de5ec54c8f3586c7d620853107a4bc5ac704d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0beb4c3d55395d6e64d2d968af1de5ec54c8f3586c7d620853107a4bc5ac704d"
+      },
+      "10": {
+        "source_ref": "2 Kings 3:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 10,
+            "source_ref": "2 Kings 3:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c805de1fe1452738a8475d586e9546971f233b9da7ed4f450c80195769ec4e9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c805de1fe1452738a8475d586e9546971f233b9da7ed4f450c80195769ec4e9a"
+      },
+      "11": {
+        "source_ref": "2 Kings 3:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 11,
+            "source_ref": "2 Kings 3:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f22e9d613c7732ce5b453a2a8f6277dfe765feb2019188586506cb6ef5bc561"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f22e9d613c7732ce5b453a2a8f6277dfe765feb2019188586506cb6ef5bc561"
+      },
+      "12": {
+        "source_ref": "2 Kings 3:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 12,
+            "source_ref": "2 Kings 3:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "37b8af7551d0fca623f69b871a59d08ea43ca181aecb24fa6e721fd21d3af887"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37b8af7551d0fca623f69b871a59d08ea43ca181aecb24fa6e721fd21d3af887"
+      },
+      "13": {
+        "source_ref": "2 Kings 3:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 13,
+            "source_ref": "2 Kings 3:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "055f2f33ca2a74f2403ec86208071f6cf7124cdd7ce581fbd5578c2178b8395d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "055f2f33ca2a74f2403ec86208071f6cf7124cdd7ce581fbd5578c2178b8395d"
+      },
+      "14": {
+        "source_ref": "2 Kings 3:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 14,
+            "source_ref": "2 Kings 3:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6adf45a9094d3d6fcb3c57fb31bfef6857bc239831d82361d4c76e5beffc7a0a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6adf45a9094d3d6fcb3c57fb31bfef6857bc239831d82361d4c76e5beffc7a0a"
+      },
+      "15": {
+        "source_ref": "2 Kings 3:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 15,
+            "source_ref": "2 Kings 3:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "91ffb4b95519daa65cf449d434b2db9122a5f6247e6739f2a411b878de3dcb84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91ffb4b95519daa65cf449d434b2db9122a5f6247e6739f2a411b878de3dcb84"
+      },
+      "16": {
+        "source_ref": "2 Kings 3:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 16,
+            "source_ref": "2 Kings 3:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "91eb18c875ae303ea0153461fc5dc1c4fb8356cfd8ee0ff825995291ba044bf2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91eb18c875ae303ea0153461fc5dc1c4fb8356cfd8ee0ff825995291ba044bf2"
+      },
+      "17": {
+        "source_ref": "2 Kings 3:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 17,
+            "source_ref": "2 Kings 3:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "decc0c05e00b7c40294d7e0378ba4d0dbee9d65157c1bb4d9bdb2d3cf03bae4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "decc0c05e00b7c40294d7e0378ba4d0dbee9d65157c1bb4d9bdb2d3cf03bae4a"
+      },
+      "18": {
+        "source_ref": "2 Kings 3:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 18,
+            "source_ref": "2 Kings 3:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "55e159b078139a1839b094d9c37706a46479fa0cf3bd8e54b411d3b9770d7a68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "55e159b078139a1839b094d9c37706a46479fa0cf3bd8e54b411d3b9770d7a68"
+      },
+      "19": {
+        "source_ref": "2 Kings 3:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 19,
+            "source_ref": "2 Kings 3:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2020d6029623394de0ae31e07b84cd5d9001cb2b9a9e6088893e7de9df899f1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2020d6029623394de0ae31e07b84cd5d9001cb2b9a9e6088893e7de9df899f1b"
+      },
+      "20": {
+        "source_ref": "2 Kings 3:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 20,
+            "source_ref": "2 Kings 3:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "25e235230db9aed64a22a24faa7f6b08a4e953da3c25989ca32915177cbe9baa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25e235230db9aed64a22a24faa7f6b08a4e953da3c25989ca32915177cbe9baa"
+      },
+      "21": {
+        "source_ref": "2 Kings 3:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 21,
+            "source_ref": "2 Kings 3:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b1a87b6b141b28305c59786795c22c6c40318c55ded29b2e7dd61b921bef4227"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b1a87b6b141b28305c59786795c22c6c40318c55ded29b2e7dd61b921bef4227"
+      },
+      "22": {
+        "source_ref": "2 Kings 3:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 22,
+            "source_ref": "2 Kings 3:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb6648f343f4aa001c8afc1300c12200d5ee0784f4ffa816ee7ebb84e0376500"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb6648f343f4aa001c8afc1300c12200d5ee0784f4ffa816ee7ebb84e0376500"
+      },
+      "23": {
+        "source_ref": "2 Kings 3:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 23,
+            "source_ref": "2 Kings 3:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a260ac7cee6e6bd5c64e36e4f9ca387517b40f05029de0dd5109230d698db4b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a260ac7cee6e6bd5c64e36e4f9ca387517b40f05029de0dd5109230d698db4b2"
+      },
+      "24": {
+        "source_ref": "2 Kings 3:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 24,
+            "source_ref": "2 Kings 3:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "192f4af58efc0852269a24ea5a3ec0e255c629f7352e4bd20356b72e34a69da9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "192f4af58efc0852269a24ea5a3ec0e255c629f7352e4bd20356b72e34a69da9"
+      },
+      "25": {
+        "source_ref": "2 Kings 3:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 25,
+            "source_ref": "2 Kings 3:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb3f673f7cf2467cc320d4a575b8bb4539b35e911172634a1c727e29bf2a8269"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb3f673f7cf2467cc320d4a575b8bb4539b35e911172634a1c727e29bf2a8269"
+      },
+      "26": {
+        "source_ref": "2 Kings 3:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 26,
+            "source_ref": "2 Kings 3:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "046f303d8d73fda7cf2178177b9bbc8810fed7c259899ed03f7ddb5b434c7be0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "046f303d8d73fda7cf2178177b9bbc8810fed7c259899ed03f7ddb5b434c7be0"
+      },
+      "27": {
+        "source_ref": "2 Kings 3:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 27,
+            "source_ref": "2 Kings 3:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00c8ae0d47ebc2cd91b86736c7527a25572f36b1c00fa9eda33791fe2986e46d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00c8ae0d47ebc2cd91b86736c7527a25572f36b1c00fa9eda33791fe2986e46d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2kings/2Kings_03.md",
+    "blob_sha": "2ae07441204241517b4d39fd8bb00085a7a0cf0a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

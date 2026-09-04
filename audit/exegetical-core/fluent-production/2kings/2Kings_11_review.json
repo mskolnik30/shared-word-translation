@@ -1,0 +1,357 @@
+{
+  "book": "2 Kings",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Kgs.xml",
+    "git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "11:1-17:41",
+      "decision": "Preserve royal reforms and failures, imperial pressure, Samaria's fall, displacement, and theological interpretation.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Kgs.xml",
+    "git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Kings 11:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 1,
+            "source_ref": "2 Kings 11:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "61034acff4686f1096ef8e2e58413e68d9674f576458e621dc9e4e443e4aa478"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61034acff4686f1096ef8e2e58413e68d9674f576458e621dc9e4e443e4aa478"
+      },
+      "2": {
+        "source_ref": "2 Kings 11:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 2,
+            "source_ref": "2 Kings 11:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "78be20086048d78201c083c45bd4d2712c503c2502b75bde3a8bf1dcae1b3b3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78be20086048d78201c083c45bd4d2712c503c2502b75bde3a8bf1dcae1b3b3a"
+      },
+      "3": {
+        "source_ref": "2 Kings 11:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 3,
+            "source_ref": "2 Kings 11:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "914f9af6849b8ffc5ae876576144eb2bc54c90e513f3ba6fd66b404a1eb6e7f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "914f9af6849b8ffc5ae876576144eb2bc54c90e513f3ba6fd66b404a1eb6e7f0"
+      },
+      "4": {
+        "source_ref": "2 Kings 11:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 4,
+            "source_ref": "2 Kings 11:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1eda98bbcd51ed5cd66fe90695fc53fd43f444f8db04e008777f7fe1d398dee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1eda98bbcd51ed5cd66fe90695fc53fd43f444f8db04e008777f7fe1d398dee"
+      },
+      "5": {
+        "source_ref": "2 Kings 11:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 5,
+            "source_ref": "2 Kings 11:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "968d3cdf2afe1b348fb6fa77e3c5e9a4dc642b45c76a826f45b9aabf948690b8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "968d3cdf2afe1b348fb6fa77e3c5e9a4dc642b45c76a826f45b9aabf948690b8"
+      },
+      "6": {
+        "source_ref": "2 Kings 11:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 6,
+            "source_ref": "2 Kings 11:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "319febaae16aa85d9391f39d4c5d2b8c8a8f6fb5d38b62f8a2d1840311093f91"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "319febaae16aa85d9391f39d4c5d2b8c8a8f6fb5d38b62f8a2d1840311093f91"
+      },
+      "7": {
+        "source_ref": "2 Kings 11:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 7,
+            "source_ref": "2 Kings 11:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9314f2a6111162f22c8bd7dc7edefb4a5dd58ef36eb56e10068e9447bbe224d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9314f2a6111162f22c8bd7dc7edefb4a5dd58ef36eb56e10068e9447bbe224d0"
+      },
+      "8": {
+        "source_ref": "2 Kings 11:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 8,
+            "source_ref": "2 Kings 11:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ff214f761d6cb5430daad59ada3fda7cb18231c45a4bd77841bcf29634a1dc30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff214f761d6cb5430daad59ada3fda7cb18231c45a4bd77841bcf29634a1dc30"
+      },
+      "9": {
+        "source_ref": "2 Kings 11:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 9,
+            "source_ref": "2 Kings 11:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b5a112a96fe3fef1b8cf502e19e0caff6ecf5a8ae6a279e5f72c6773baf26ac6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b5a112a96fe3fef1b8cf502e19e0caff6ecf5a8ae6a279e5f72c6773baf26ac6"
+      },
+      "10": {
+        "source_ref": "2 Kings 11:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 10,
+            "source_ref": "2 Kings 11:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d23bb5a8d7ab2243afe753089813d41156a8aa2da1674a05ee2403eff89912a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d23bb5a8d7ab2243afe753089813d41156a8aa2da1674a05ee2403eff89912a"
+      },
+      "11": {
+        "source_ref": "2 Kings 11:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 11,
+            "source_ref": "2 Kings 11:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9adc7e6a02e01e7586258d62e36e83e646b78f92298f3887579f557e1ba145db"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9adc7e6a02e01e7586258d62e36e83e646b78f92298f3887579f557e1ba145db"
+      },
+      "12": {
+        "source_ref": "2 Kings 11:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 12,
+            "source_ref": "2 Kings 11:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9f93fb463593746b1710b2a0344d6ab9fe575d99821ed6e30c033e7c1e0bfd9f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f93fb463593746b1710b2a0344d6ab9fe575d99821ed6e30c033e7c1e0bfd9f"
+      },
+      "13": {
+        "source_ref": "2 Kings 11:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 13,
+            "source_ref": "2 Kings 11:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af3c16481d5f847b60ac924a939918baf7a8f0d31725d4f32a12e5efeab18f20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af3c16481d5f847b60ac924a939918baf7a8f0d31725d4f32a12e5efeab18f20"
+      },
+      "14": {
+        "source_ref": "2 Kings 11:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 14,
+            "source_ref": "2 Kings 11:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eca95c6d528bbeebbae9c11c479462099f8ab83f7e7d5e0294666e0665765388"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eca95c6d528bbeebbae9c11c479462099f8ab83f7e7d5e0294666e0665765388"
+      },
+      "15": {
+        "source_ref": "2 Kings 11:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 15,
+            "source_ref": "2 Kings 11:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c4c05e8e1745781c7fb761f8a98b7b2c00b17f9193f95c0f88b77ad703cc1ad6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c4c05e8e1745781c7fb761f8a98b7b2c00b17f9193f95c0f88b77ad703cc1ad6"
+      },
+      "16": {
+        "source_ref": "2 Kings 11:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 16,
+            "source_ref": "2 Kings 11:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "50ba67e1cbe33036313779528504a230eb9842dc95ae26594306585d3fcda51a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50ba67e1cbe33036313779528504a230eb9842dc95ae26594306585d3fcda51a"
+      },
+      "17": {
+        "source_ref": "2 Kings 11:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 17,
+            "source_ref": "2 Kings 11:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4fbb8b1482b7db2161877c99048b4b355171c93191c56999e4c68faf63cfb01f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4fbb8b1482b7db2161877c99048b4b355171c93191c56999e4c68faf63cfb01f"
+      },
+      "18": {
+        "source_ref": "2 Kings 11:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 18,
+            "source_ref": "2 Kings 11:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9de1bf34c680256e6cc9f9081d577f443ae61aa60f60826fbd0ef18456e997be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9de1bf34c680256e6cc9f9081d577f443ae61aa60f60826fbd0ef18456e997be"
+      },
+      "19": {
+        "source_ref": "2 Kings 11:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 19,
+            "source_ref": "2 Kings 11:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c3e30b5039170f831ba80c4a3781c63aa6d44fcc03b5a1a1188e7fbfbbe91091"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3e30b5039170f831ba80c4a3781c63aa6d44fcc03b5a1a1188e7fbfbbe91091"
+      },
+      "20": {
+        "source_ref": "2 Kings 11:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 20,
+            "source_ref": "2 Kings 11:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e4c29b78af8be001c48b1e2640b060912a5501fa9bd438442106010ff71e3309"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4c29b78af8be001c48b1e2640b060912a5501fa9bd438442106010ff71e3309"
+      },
+      "21": {
+        "source_ref": "2 Kings 12:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 1,
+            "source_ref": "2 Kings 12:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d6217359dd189c33808f5d926511646fd591ffc0b5ea67979b1214d24b7c3a4b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d6217359dd189c33808f5d926511646fd591ffc0b5ea67979b1214d24b7c3a4b"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2kings/2Kings_11.md",
+    "blob_sha": "796213399223fd7cf377f37071da367e6c481811"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,160 @@
+{
+  "book": "2 Kings",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 25,
+  "public_verse_slots": 719,
+  "included_verse_labels": 719,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 719,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Kgs.xml",
+    "git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-8:29",
+      "decision": "Keep prophetic succession, miracles, famine, healing, exploitation, and royal conflict together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:1-10:36",
+      "decision": "Translate Jehu's coup, Jezebel's death, massacres, and religious purge plainly rather than celebrating indiscriminate violence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:1-17:41",
+      "decision": "Preserve royal reforms and failures, imperial pressure, Samaria's fall, displacement, and theological interpretation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "18:1-20:21",
+      "decision": "Keep Hezekiah's reform, Assyrian propaganda, prayer, deliverance, illness, and Babylonian envoys connected.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "21:1-25:30",
+      "decision": "Retain Judah's violence, reform, imperial conquest, Jerusalem's fall, exile, and the restrained closing hope.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55",
+    "source_binding_count": 719,
+    "unique_source_record_count": 719,
+    "public_verse_slots": 719,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 719
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/2kings/2Kings_01.md",
+        "blob_sha": "321e2675760ca25efb02d33c8b9edfc200e7dd88"
+      },
+      "02": {
+        "path": "books/OT/2kings/2Kings_02.md",
+        "blob_sha": "a50875d8b3fa617521281cf1af53a1290c31a3c6"
+      },
+      "03": {
+        "path": "books/OT/2kings/2Kings_03.md",
+        "blob_sha": "2ae07441204241517b4d39fd8bb00085a7a0cf0a"
+      },
+      "04": {
+        "path": "books/OT/2kings/2Kings_04.md",
+        "blob_sha": "630547933ba5382f3b9ef7f3486cc8a16aa318fe"
+      },
+      "05": {
+        "path": "books/OT/2kings/2Kings_05.md",
+        "blob_sha": "eec8c803d49a839cc2063facff23cdfded773330"
+      },
+      "06": {
+        "path": "books/OT/2kings/2Kings_06.md",
+        "blob_sha": "24c106ab1de74e8c513af19f76f4d97b86235c11"
+      },
+      "07": {
+        "path": "books/OT/2kings/2Kings_07.md",
+        "blob_sha": "8dda4de295a44a4130318b99e3d4df6f0e23b008"
+      },
+      "08": {
+        "path": "books/OT/2kings/2Kings_08.md",
+        "blob_sha": "28ff13d82aac6953c75fa1583ce12af150afd0b6"
+      },
+      "09": {
+        "path": "books/OT/2kings/2Kings_09.md",
+        "blob_sha": "3a31b73327c3ec265e9548a88732feda4244c063"
+      },
+      "10": {
+        "path": "books/OT/2kings/2Kings_10.md",
+        "blob_sha": "18d623df6e33af9f562b13295b5e7295e6b74394"
+      },
+      "11": {
+        "path": "books/OT/2kings/2Kings_11.md",
+        "blob_sha": "796213399223fd7cf377f37071da367e6c481811"
+      },
+      "12": {
+        "path": "books/OT/2kings/2Kings_12.md",
+        "blob_sha": "a3b7f106e328fb0c453a02f7e6df1cc679ddb240"
+      },
+      "13": {
+        "path": "books/OT/2kings/2Kings_13.md",
+        "blob_sha": "1bfe302cda2bc3dc83c3a9cace153a5d988589c1"
+      },
+      "14": {
+        "path": "books/OT/2kings/2Kings_14.md",
+        "blob_sha": "fcd88fb5c77b7e2011aeee431944dc65556e7f38"
+      },
+      "15": {
+        "path": "books/OT/2kings/2Kings_15.md",
+        "blob_sha": "8f25266afb5f10c479b444d67c39cf56189e7e17"
+      },
+      "16": {
+        "path": "books/OT/2kings/2Kings_16.md",
+        "blob_sha": "3801cd98ed4b7bb1d089350f5ed50700cc37269a"
+      },
+      "17": {
+        "path": "books/OT/2kings/2Kings_17.md",
+        "blob_sha": "7889a6543b40a363a9ed33d8c7b1b284b2f59d18"
+      },
+      "18": {
+        "path": "books/OT/2kings/2Kings_18.md",
+        "blob_sha": "ff911a2a2946e55bc1b47222436d07cc52bb37fd"
+      },
+      "19": {
+        "path": "books/OT/2kings/2Kings_19.md",
+        "blob_sha": "9c69f673081e8bf63545a8189b1f2b8ab33d0c86"
+      },
+      "20": {
+        "path": "books/OT/2kings/2Kings_20.md",
+        "blob_sha": "f32b243dab5ce90ec666eb69738c1450e72d30c8"
+      },
+      "21": {
+        "path": "books/OT/2kings/2Kings_21.md",
+        "blob_sha": "dad2f39c4288ba153eb91343abfddbf8196f8897"
+      },
+      "22": {
+        "path": "books/OT/2kings/2Kings_22.md",
+        "blob_sha": "09e188bc986171f83e8387c2259faf1d4180056c"
+      },
+      "23": {
+        "path": "books/OT/2kings/2Kings_23.md",
+        "blob_sha": "fe1ce2015b7a8b561fb1022b53491fc92d90365d"
+      },
+      "24": {
+        "path": "books/OT/2kings/2Kings_24.md",
+        "blob_sha": "88ead6584c921eb000a3bd9c15437c521eeef524"
+      },
+      "25": {
+        "path": "books/OT/2kings/2Kings_25.md",
+        "blob_sha": "f7eef09eb52e67cc88faa2020e053b612e9c9730"
+      }
+    }
+  }
+}
