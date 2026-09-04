@@ -3,7 +3,7 @@ id: tsw-study-deuteronomy-22-28-29
 title: A Law That Cannot Be Made Safe
 passage: Deuteronomy 22:28-29
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 2
 shared_world: [person-moses, context-deuteronomic-sexual-laws]
 content_notice: sexual violence, coerced marriage, and the treatment of a woman as male property

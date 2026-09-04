@@ -42,4 +42,4 @@ Approval of a text dossier does not approve unfinished visuals. A dossier may be
 ## Published and active batches
 
 - **Batch One:** ten dossiers approved for text publication; unfinished visuals remain individually blocked.
-- **Batch Two:** ten dossiers drafted and structurally audited; publication remains blocked until one consolidated human approval covers all seven review gates.
+- **Batch Two:** ten dossiers approved for text publication through one consolidated review; unfinished visuals remain individually blocked.

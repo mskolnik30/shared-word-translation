@@ -3,7 +3,7 @@ id: tsw-study-ecclesiastes-3-1-8
 title: A Time for Everything?
 passage: Ecclesiastes 3:1-8
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 2
 shared_world: [context-wisdom-time]
 content_notice: death, killing, hatred, war, grief, and the possible spiritualization of preventable harm

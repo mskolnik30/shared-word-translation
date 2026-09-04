@@ -3,7 +3,7 @@ id: tsw-study-revelation-20-1-10
 title: The Thousand Years and the Defeat of the Dragon
 passage: Revelation 20:1-10
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 2
 shared_world: [person-jesus, context-millennium-reception]
 content_notice: execution, persecution, war, fire, final punishment, antisemitism, colonialism, and predictive or political misuse

@@ -3,7 +3,7 @@ id: tsw-study-romans-5-1-11
 title: Peace, Suffering, and the Love of God
 passage: Romans 5:1-11
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 2
 shared_world: [person-jesus, person-paul, place-rome, context-roman-suffering-reconciliation]
 content_notice: suffering, endurance, death, enemies, and interpretations that can pressure harmed people to remain unsafe or reconcile prematurely

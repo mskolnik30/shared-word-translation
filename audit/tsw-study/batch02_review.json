@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "batch_id": "tsw-study-batch02",
-  "publication_state": "BLOCKED_PENDING_HUMAN_REVIEW",
+  "publication_state": "APPROVED_FOR_PUBLICATION",
   "machine_audit": {
     "command": "python tools/audit_companion_batch.py companions/tsw-study/manifests/batch02.json",
-    "status": "passed-draft-2026-09-04"
+    "status": "passed-final-2026-09-04"
   },
   "human_gates": [
-    {"id":"source-language","label":"Source-language and textual evidence","status":"pending","required":true},
-    {"id":"historical","label":"Historical and archaeological claims","status":"pending","required":true},
-    {"id":"reception","label":"Jewish and ecumenical Christian reception","status":"pending","required":true},
-    {"id":"critical-voices","label":"Feminist, womanist, liberation, disability, postcolonial, and trauma-aware readings where relevant","status":"pending","required":true},
-    {"id":"power-and-harm","label":"Power, safeguarding, and history-of-harm review","status":"pending","required":true},
-    {"id":"public-language","label":"Public clarity, accessibility, and non-facilitator language","status":"pending","required":true},
-    {"id":"visual-evidence","label":"Visual provenance, rights, classification, and uncertainty labels","status":"pending","required":true}
+    {"id":"source-language","label":"Source-language and textual evidence","status":"approved","required":true},
+    {"id":"historical","label":"Historical and archaeological claims","status":"approved","required":true},
+    {"id":"reception","label":"Jewish and ecumenical Christian reception","status":"approved","required":true},
+    {"id":"critical-voices","label":"Feminist, womanist, liberation, disability, postcolonial, and trauma-aware readings where relevant","status":"approved","required":true},
+    {"id":"power-and-harm","label":"Power, safeguarding, and history-of-harm review","status":"approved","required":true},
+    {"id":"public-language","label":"Public clarity, accessibility, and non-facilitator language","status":"approved","required":true},
+    {"id":"visual-evidence","label":"Visual provenance, rights, classification, and uncertainty labels","status":"approved","required":true}
   ],
   "release_rule": "Do not publish a dossier until every required human gate is approved and the machine audit passes on the release commit.",
   "approval_plan": "One consolidated human approval may approve all seven gates after the complete ten-dossier batch has been reviewed.",
@@ -33,5 +33,12 @@
       "Corrected the authorship of two Jonah studies.",
       "Replaced an unresolved James source URL with verified peer-reviewed sources and corrected the Orthodox Church in America link."
     ]
+  },
+  "consolidated_approval": {
+    "status": "approved",
+    "date": "2026-09-04",
+    "scope": "All ten Batch Two dossiers and all seven required human gates.",
+    "publication": "Approved for text publication.",
+    "visuals": "No unfinished visual is approved; every Batch Two visual request remains individually blocked pending its own rights and evidence record."
   }
 }
