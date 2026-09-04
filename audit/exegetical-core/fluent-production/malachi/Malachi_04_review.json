@@ -1,0 +1,132 @@
+{
+  "book": "Malachi",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mal.xml",
+    "git_blob_sha": "cbc6a0ee566e2911b2c8c4a229d8ee4af82b587b"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "4:1-6",
+      "decision": "Bind the public chapter to Hebrew 3:19-24 and preserve both the day, healing, Moses, Elijah, and intergenerational reconciliation.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mal.xml",
+    "git_blob_sha": "cbc6a0ee566e2911b2c8c4a229d8ee4af82b587b",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Malachi 3:19 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 19,
+            "source_ref": "Malachi 3:19 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1eff15b1a9ae17cecfc70a1f291ba59ee316651af806c8f9df7586fbabb37e0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1eff15b1a9ae17cecfc70a1f291ba59ee316651af806c8f9df7586fbabb37e0f"
+      },
+      "2": {
+        "source_ref": "Malachi 3:20 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 20,
+            "source_ref": "Malachi 3:20 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "000ad9c7e9270ebfe8617d3833ad5a6f17f2ed7a39438222738b0bc8bd7353e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "000ad9c7e9270ebfe8617d3833ad5a6f17f2ed7a39438222738b0bc8bd7353e2"
+      },
+      "3": {
+        "source_ref": "Malachi 3:21 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 21,
+            "source_ref": "Malachi 3:21 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "2434b7bc6a7bd25908fbe4224abc9421896053947f6e08a518bf1c997ce96e49"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2434b7bc6a7bd25908fbe4224abc9421896053947f6e08a518bf1c997ce96e49"
+      },
+      "4": {
+        "source_ref": "Malachi 3:22 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 22,
+            "source_ref": "Malachi 3:22 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "eac511992f062e2d085aba7b34e92c4c2e34d7cc6a25b6104e1740528525f1ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eac511992f062e2d085aba7b34e92c4c2e34d7cc6a25b6104e1740528525f1ca"
+      },
+      "5": {
+        "source_ref": "Malachi 3:23 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 23,
+            "source_ref": "Malachi 3:23 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "74b1173884dd76a1e5a8511d572f732ae2c00ddcb0cd7892062e54b66a7ced4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74b1173884dd76a1e5a8511d572f732ae2c00ddcb0cd7892062e54b66a7ced4a"
+      },
+      "6": {
+        "source_ref": "Malachi 3:24 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 24,
+            "source_ref": "Malachi 3:24 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "a5b8a8f7e460d1c25fcebf32dcadda695b4fdf806baa9000bd370ec32073d2fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5b8a8f7e460d1c25fcebf32dcadda695b4fdf806baa9000bd370ec32073d2fc"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/malachi/Malachi_04.md",
+    "blob_sha": "ac34a80b4faf434b075656475754d0a2aaf40a6d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

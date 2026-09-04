@@ -1,0 +1,257 @@
+{
+  "book": "Malachi",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mal.xml",
+    "git_blob_sha": "cbc6a0ee566e2911b2c8c4a229d8ee4af82b587b"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-5",
+      "decision": "Keep Jacob and Esau as covenantal and national language in the book's disputation, not a claim about modern ethnic worth.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:6-2:9",
+      "decision": "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mal.xml",
+    "git_blob_sha": "cbc6a0ee566e2911b2c8c4a229d8ee4af82b587b",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Malachi 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Malachi 1:1",
+            "segment_mode": "whole",
+            "sha256": "de90934bb2ce87c96965d57e5dd296c869f0889af57380799d4b2bbec7926cf7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de90934bb2ce87c96965d57e5dd296c869f0889af57380799d4b2bbec7926cf7"
+      },
+      "2": {
+        "source_ref": "Malachi 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Malachi 1:2",
+            "segment_mode": "whole",
+            "sha256": "718f85179477720203f91a4e4fe6a7255c1f5ff1a51f50b0a43ae7cc463e2f06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "718f85179477720203f91a4e4fe6a7255c1f5ff1a51f50b0a43ae7cc463e2f06"
+      },
+      "3": {
+        "source_ref": "Malachi 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Malachi 1:3",
+            "segment_mode": "whole",
+            "sha256": "17facf4d9d9dbb04caafad1cc4aef4b352c4b2f33bedabfbca624cf81c538381"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17facf4d9d9dbb04caafad1cc4aef4b352c4b2f33bedabfbca624cf81c538381"
+      },
+      "4": {
+        "source_ref": "Malachi 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Malachi 1:4",
+            "segment_mode": "whole",
+            "sha256": "d8339dca620d12d5ec8d175b2356eaa5b81790e52de217812c22e5cb7e46fb52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8339dca620d12d5ec8d175b2356eaa5b81790e52de217812c22e5cb7e46fb52"
+      },
+      "5": {
+        "source_ref": "Malachi 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Malachi 1:5",
+            "segment_mode": "whole",
+            "sha256": "e78587f80ab3556926ec13c259e08da3db875c5b75055f83d0e2aeeb0b196ceb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e78587f80ab3556926ec13c259e08da3db875c5b75055f83d0e2aeeb0b196ceb"
+      },
+      "6": {
+        "source_ref": "Malachi 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Malachi 1:6",
+            "segment_mode": "whole",
+            "sha256": "2bd8f57e4bf29baeb1f0f68ca19721f043296d54117ed7a399dc8267e0d7ab1a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2bd8f57e4bf29baeb1f0f68ca19721f043296d54117ed7a399dc8267e0d7ab1a"
+      },
+      "7": {
+        "source_ref": "Malachi 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Malachi 1:7",
+            "segment_mode": "whole",
+            "sha256": "4e930d3e3e9983e2369955fdd8f59736d03d738c18920ba712c6c383bcbf0f13"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e930d3e3e9983e2369955fdd8f59736d03d738c18920ba712c6c383bcbf0f13"
+      },
+      "8": {
+        "source_ref": "Malachi 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Malachi 1:8",
+            "segment_mode": "whole",
+            "sha256": "f2154b8c745a63b6574cb5271a97d1c08071acffc164313e80b49f0f051c53b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2154b8c745a63b6574cb5271a97d1c08071acffc164313e80b49f0f051c53b0"
+      },
+      "9": {
+        "source_ref": "Malachi 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Malachi 1:9",
+            "segment_mode": "whole",
+            "sha256": "be42aa39b1af16013e91464216818820e4d9f8874112f08b9003b299db36a05c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be42aa39b1af16013e91464216818820e4d9f8874112f08b9003b299db36a05c"
+      },
+      "10": {
+        "source_ref": "Malachi 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Malachi 1:10",
+            "segment_mode": "whole",
+            "sha256": "967345df170a6b3ef6a04b296f9b4d06465a5e5de6b3f7df90f925d2bbe7ee3d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "967345df170a6b3ef6a04b296f9b4d06465a5e5de6b3f7df90f925d2bbe7ee3d"
+      },
+      "11": {
+        "source_ref": "Malachi 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Malachi 1:11",
+            "segment_mode": "whole",
+            "sha256": "a8fe8d1a89423fcb99751159a033d964c7e0e842c57116cc15048e805f2d9ee7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8fe8d1a89423fcb99751159a033d964c7e0e842c57116cc15048e805f2d9ee7"
+      },
+      "12": {
+        "source_ref": "Malachi 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Malachi 1:12",
+            "segment_mode": "whole",
+            "sha256": "af8edd9ec67308187e8a0937c3e2f229d24ee5841c7071eac5105de46f408946"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af8edd9ec67308187e8a0937c3e2f229d24ee5841c7071eac5105de46f408946"
+      },
+      "13": {
+        "source_ref": "Malachi 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Malachi 1:13",
+            "segment_mode": "whole",
+            "sha256": "5c1b2fa095ba879439261aa31400d665cdc9ffec7bc3d401ea28287c46131eeb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c1b2fa095ba879439261aa31400d665cdc9ffec7bc3d401ea28287c46131eeb"
+      },
+      "14": {
+        "source_ref": "Malachi 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Malachi 1:14",
+            "segment_mode": "whole",
+            "sha256": "54a4eed301b6d463d760e723a2c3fb71727fc251177600f5b11dd72504a1b814"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54a4eed301b6d463d760e723a2c3fb71727fc251177600f5b11dd72504a1b814"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/malachi/Malachi_01.md",
+    "blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
