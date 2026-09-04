@@ -1,0 +1,477 @@
+{
+  "book": "Numbers",
+  "chapter": 20,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "20:14-25:18",
+      "decision": "Retain conflict, warfare, Balaam's mixed agency, blessing, sexual-religious crisis, and violence without idealization.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Numbers 20:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 1,
+            "source_ref": "Numbers 20:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af19d4eb50eaf539bea66703185150d8fba7b78f251d288e368fc07f7852262f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af19d4eb50eaf539bea66703185150d8fba7b78f251d288e368fc07f7852262f"
+      },
+      "2": {
+        "source_ref": "Numbers 20:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 2,
+            "source_ref": "Numbers 20:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cdebe0be77da29cd844d63326139942f3350398a68308fd0c7f82f03b989e763"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cdebe0be77da29cd844d63326139942f3350398a68308fd0c7f82f03b989e763"
+      },
+      "3": {
+        "source_ref": "Numbers 20:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 3,
+            "source_ref": "Numbers 20:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d99cd30c97ee7dfbcf62c1e8f47a2e2217012f27d251ae5bdb384e92329b72e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d99cd30c97ee7dfbcf62c1e8f47a2e2217012f27d251ae5bdb384e92329b72e6"
+      },
+      "4": {
+        "source_ref": "Numbers 20:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 4,
+            "source_ref": "Numbers 20:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc4a0f06adc810ae2c2aaab353e84fdee4b424bfb1110905fdb6aef8db1adf42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc4a0f06adc810ae2c2aaab353e84fdee4b424bfb1110905fdb6aef8db1adf42"
+      },
+      "5": {
+        "source_ref": "Numbers 20:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 5,
+            "source_ref": "Numbers 20:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e84dc1fce2f687b98dc067271dcb02416dbb8780b0a2003b40a1117781a15ee8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e84dc1fce2f687b98dc067271dcb02416dbb8780b0a2003b40a1117781a15ee8"
+      },
+      "6": {
+        "source_ref": "Numbers 20:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 6,
+            "source_ref": "Numbers 20:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e9bb3b4f01c245be0ce497a166f45ef8b6c1de9b4ac9a69a54c31f6a6ee6056d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e9bb3b4f01c245be0ce497a166f45ef8b6c1de9b4ac9a69a54c31f6a6ee6056d"
+      },
+      "7": {
+        "source_ref": "Numbers 20:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 7,
+            "source_ref": "Numbers 20:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "8": {
+        "source_ref": "Numbers 20:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 8,
+            "source_ref": "Numbers 20:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e8053bbdc371ec8fa06635319b0b14d58c466adbc2e5e5fef249b656e4510936"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8053bbdc371ec8fa06635319b0b14d58c466adbc2e5e5fef249b656e4510936"
+      },
+      "9": {
+        "source_ref": "Numbers 20:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 9,
+            "source_ref": "Numbers 20:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b502c09fd07c498859f04ca72afedbfdf670b22884df40da2c9f15b9bae01602"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b502c09fd07c498859f04ca72afedbfdf670b22884df40da2c9f15b9bae01602"
+      },
+      "10": {
+        "source_ref": "Numbers 20:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 10,
+            "source_ref": "Numbers 20:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "181478325ea154d58aed07701b8e6d1078227bed07d3fe62f8a9235e67941d89"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "181478325ea154d58aed07701b8e6d1078227bed07d3fe62f8a9235e67941d89"
+      },
+      "11": {
+        "source_ref": "Numbers 20:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 11,
+            "source_ref": "Numbers 20:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ab3050f575925915d5bf01f6afc6d62e02d5afff9da8f15b622fec2f6b9e413"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ab3050f575925915d5bf01f6afc6d62e02d5afff9da8f15b622fec2f6b9e413"
+      },
+      "12": {
+        "source_ref": "Numbers 20:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 12,
+            "source_ref": "Numbers 20:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e30a769fc8fb7fefa5dd970c21f0e90669d04400411b4737a645eb62acb1d4e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e30a769fc8fb7fefa5dd970c21f0e90669d04400411b4737a645eb62acb1d4e4"
+      },
+      "13": {
+        "source_ref": "Numbers 20:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 13,
+            "source_ref": "Numbers 20:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0d3bfbcc50c9100cb8a79ce016f55a1b0bb422c908067d75ad2ed5aa32e0e3a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d3bfbcc50c9100cb8a79ce016f55a1b0bb422c908067d75ad2ed5aa32e0e3a9"
+      },
+      "14": {
+        "source_ref": "Numbers 20:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 14,
+            "source_ref": "Numbers 20:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c487922056d1749f7e003d2f39ecd1d5fe64989e04ce37be6546f2d6ed308c4f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c487922056d1749f7e003d2f39ecd1d5fe64989e04ce37be6546f2d6ed308c4f"
+      },
+      "15": {
+        "source_ref": "Numbers 20:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 15,
+            "source_ref": "Numbers 20:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc7b0bd002e4529c281d42680269da7a92caf279a90871e9b391a48f60803a19"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc7b0bd002e4529c281d42680269da7a92caf279a90871e9b391a48f60803a19"
+      },
+      "16": {
+        "source_ref": "Numbers 20:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 16,
+            "source_ref": "Numbers 20:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "520356dcc15cf6592e5a992b5d9ff260fe5538abb5431e7c2f2d06c1dd575424"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "520356dcc15cf6592e5a992b5d9ff260fe5538abb5431e7c2f2d06c1dd575424"
+      },
+      "17": {
+        "source_ref": "Numbers 20:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 17,
+            "source_ref": "Numbers 20:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6af4f63afa41e4dfd6d4720488846ea68c4f36b9546da3db35cf84755e19f2aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6af4f63afa41e4dfd6d4720488846ea68c4f36b9546da3db35cf84755e19f2aa"
+      },
+      "18": {
+        "source_ref": "Numbers 20:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 18,
+            "source_ref": "Numbers 20:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "95639cfb896eb235ed322bf3edee708b0332bf8c7ab6526aec0318bb1828a783"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95639cfb896eb235ed322bf3edee708b0332bf8c7ab6526aec0318bb1828a783"
+      },
+      "19": {
+        "source_ref": "Numbers 20:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 19,
+            "source_ref": "Numbers 20:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d6bd1c9c8e354a74f4a49a59392642d5ba2bca5662542ba9c7228c0363762eda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6bd1c9c8e354a74f4a49a59392642d5ba2bca5662542ba9c7228c0363762eda"
+      },
+      "20": {
+        "source_ref": "Numbers 20:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 20,
+            "source_ref": "Numbers 20:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0d68e16ed51b9b4897a759d56d7f801687081fbc7654e46fb8b74051d7e7c87d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d68e16ed51b9b4897a759d56d7f801687081fbc7654e46fb8b74051d7e7c87d"
+      },
+      "21": {
+        "source_ref": "Numbers 20:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 21,
+            "source_ref": "Numbers 20:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79451ac3e15bc32b3ed296f5ffa869ae023066357b4342a3e078a4a31cc76c56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79451ac3e15bc32b3ed296f5ffa869ae023066357b4342a3e078a4a31cc76c56"
+      },
+      "22": {
+        "source_ref": "Numbers 20:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 22,
+            "source_ref": "Numbers 20:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d09b5ce7d6a33f8b8c2319c5c27e778e56f4587d3ec599a821d3a0d5ea88465"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d09b5ce7d6a33f8b8c2319c5c27e778e56f4587d3ec599a821d3a0d5ea88465"
+      },
+      "23": {
+        "source_ref": "Numbers 20:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 23,
+            "source_ref": "Numbers 20:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4f2769b2fb7cf80228a071b4742979074774623adbc744448d4d7f4be15a3a60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f2769b2fb7cf80228a071b4742979074774623adbc744448d4d7f4be15a3a60"
+      },
+      "24": {
+        "source_ref": "Numbers 20:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 24,
+            "source_ref": "Numbers 20:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "23dcf92cef3edbd2f1c81065f5c2e8dbec3e07f1682f30bc61a142fbccd91e24"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23dcf92cef3edbd2f1c81065f5c2e8dbec3e07f1682f30bc61a142fbccd91e24"
+      },
+      "25": {
+        "source_ref": "Numbers 20:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 25,
+            "source_ref": "Numbers 20:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "311e9af2fe5a4d2a3e7cef212b0e70a4158484562727e7f2c637067d9473261c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "311e9af2fe5a4d2a3e7cef212b0e70a4158484562727e7f2c637067d9473261c"
+      },
+      "26": {
+        "source_ref": "Numbers 20:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 26,
+            "source_ref": "Numbers 20:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ab3d4ea9d9b2a6a372b3bab0aea83548d30e1bd58d43f9aff868e9fa5aa7976"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ab3d4ea9d9b2a6a372b3bab0aea83548d30e1bd58d43f9aff868e9fa5aa7976"
+      },
+      "27": {
+        "source_ref": "Numbers 20:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 27,
+            "source_ref": "Numbers 20:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "22ae30826295ea34be077622899328939c75546e095a6cb334b19cd578de38e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22ae30826295ea34be077622899328939c75546e095a6cb334b19cd578de38e9"
+      },
+      "28": {
+        "source_ref": "Numbers 20:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 28,
+            "source_ref": "Numbers 20:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d34ee286f54bfc82307fbb6a501741675c3376b6804597ef9e336f55ff3475d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d34ee286f54bfc82307fbb6a501741675c3376b6804597ef9e336f55ff3475d"
+      },
+      "29": {
+        "source_ref": "Numbers 20:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 29,
+            "source_ref": "Numbers 20:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "675d955b91a4bc0b8ebd1ca440822865cfa4cdb57dbe8535ecfa3452ccfcf76d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "675d955b91a4bc0b8ebd1ca440822865cfa4cdb57dbe8535ecfa3452ccfcf76d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/numbers/Numbers_20.md",
+    "blob_sha": "a372427c33cdc39ea5217464ccbf8f91d1c68b93"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

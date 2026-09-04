@@ -1,0 +1,276 @@
+{
+  "book": "Numbers",
+  "chapter": 30,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Numbers 30:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 2,
+            "source_ref": "Numbers 30:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "92aa6681e951ee50632e0db235a0a89fc4ae6bc5fb42aa4f3d9db6892fb9d01b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "92aa6681e951ee50632e0db235a0a89fc4ae6bc5fb42aa4f3d9db6892fb9d01b"
+      },
+      "2": {
+        "source_ref": "Numbers 30:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 3,
+            "source_ref": "Numbers 30:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "87d869fcac41ee5589111b1537b5162fc7b3270b6dd17296a9b1e7d747fec872"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "87d869fcac41ee5589111b1537b5162fc7b3270b6dd17296a9b1e7d747fec872"
+      },
+      "3": {
+        "source_ref": "Numbers 30:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 4,
+            "source_ref": "Numbers 30:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "885b46270ab412062e2b312e740d215d31bf31a0d94c9b152f5048dfc2418629"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "885b46270ab412062e2b312e740d215d31bf31a0d94c9b152f5048dfc2418629"
+      },
+      "4": {
+        "source_ref": "Numbers 30:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 5,
+            "source_ref": "Numbers 30:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e9b0d415778081a23e3c20a752d355786314e964da005bb2622f123987518c1e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e9b0d415778081a23e3c20a752d355786314e964da005bb2622f123987518c1e"
+      },
+      "5": {
+        "source_ref": "Numbers 30:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 6,
+            "source_ref": "Numbers 30:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "06793e41433671d449075680ab5b1ed8f8ede5a7ef86f3982caa61d5a5bc6701"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "06793e41433671d449075680ab5b1ed8f8ede5a7ef86f3982caa61d5a5bc6701"
+      },
+      "6": {
+        "source_ref": "Numbers 30:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 7,
+            "source_ref": "Numbers 30:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3d8d3f25f1daee43550fa291e65779775db14602589f181f5f768d0014b6a17d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3d8d3f25f1daee43550fa291e65779775db14602589f181f5f768d0014b6a17d"
+      },
+      "7": {
+        "source_ref": "Numbers 30:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 8,
+            "source_ref": "Numbers 30:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c36fad5ecb722acf22685a16f659cf9a274c91953d567edff1883fe499fe32dd"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c36fad5ecb722acf22685a16f659cf9a274c91953d567edff1883fe499fe32dd"
+      },
+      "8": {
+        "source_ref": "Numbers 30:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 9,
+            "source_ref": "Numbers 30:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "972d4281357cd0c3ee26736ccd6f2b7d0298001fdd7d241fd81385c17e9e4ae9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "972d4281357cd0c3ee26736ccd6f2b7d0298001fdd7d241fd81385c17e9e4ae9"
+      },
+      "9": {
+        "source_ref": "Numbers 30:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 10,
+            "source_ref": "Numbers 30:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "33d460b5923b5af5ca23a90d60eb3557f71336975df9b573559fc779a965c517"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "33d460b5923b5af5ca23a90d60eb3557f71336975df9b573559fc779a965c517"
+      },
+      "10": {
+        "source_ref": "Numbers 30:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 11,
+            "source_ref": "Numbers 30:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "65ba326ab7acb6842e2cf37b2e689ada3458991c84645dca68b217a3b714e245"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "65ba326ab7acb6842e2cf37b2e689ada3458991c84645dca68b217a3b714e245"
+      },
+      "11": {
+        "source_ref": "Numbers 30:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 12,
+            "source_ref": "Numbers 30:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "85f0273042466a360e1d62fba5039fa3db6007e5c312899d939cfce9def6e456"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "85f0273042466a360e1d62fba5039fa3db6007e5c312899d939cfce9def6e456"
+      },
+      "12": {
+        "source_ref": "Numbers 30:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 13,
+            "source_ref": "Numbers 30:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "61c1177eb83e86f7ff8c49e3839a539eb652017ae3e375e0d75c194a79be16ef"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "61c1177eb83e86f7ff8c49e3839a539eb652017ae3e375e0d75c194a79be16ef"
+      },
+      "13": {
+        "source_ref": "Numbers 30:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 14,
+            "source_ref": "Numbers 30:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6b13ffcf3f649a0ad54451543a0ad16cf7c03208f25ad420c0da6c4d24dda075"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6b13ffcf3f649a0ad54451543a0ad16cf7c03208f25ad420c0da6c4d24dda075"
+      },
+      "14": {
+        "source_ref": "Numbers 30:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 15,
+            "source_ref": "Numbers 30:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6446b35b1b9132111a415a83f9361a12e35d31b0cfe0641279bd32ab0e7e9ef6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6446b35b1b9132111a415a83f9361a12e35d31b0cfe0641279bd32ab0e7e9ef6"
+      },
+      "15": {
+        "source_ref": "Numbers 30:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 16,
+            "source_ref": "Numbers 30:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "754dbdb978f17e0d76cd95ffae493ea45738a1386fcfb5490f8874a0874cd996"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "754dbdb978f17e0d76cd95ffae493ea45738a1386fcfb5490f8874a0874cd996"
+      },
+      "16": {
+        "source_ref": "Numbers 30:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 17,
+            "source_ref": "Numbers 30:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "66b9c090a0d10b342f6e690e81cfd86bf4c806d5f368f5a2a8468b2e29d6bb64"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "66b9c090a0d10b342f6e690e81cfd86bf4c806d5f368f5a2a8468b2e29d6bb64"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/numbers/Numbers_30.md",
+    "blob_sha": "b6fcde7559fe5fc216402989a4b5b95ca32e401f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

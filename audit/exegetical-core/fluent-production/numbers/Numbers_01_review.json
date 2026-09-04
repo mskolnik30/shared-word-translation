@@ -1,0 +1,852 @@
+{
+  "book": "Numbers",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-10:36",
+      "decision": "Keep census, camp order, ritual responsibility, blessing, Passover, and departure connected.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Numbers 1:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Numbers 1:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0142b6c8c356031bc71f17dee0f0f5c0cb08be0bf82da11dafc491b843a48db5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0142b6c8c356031bc71f17dee0f0f5c0cb08be0bf82da11dafc491b843a48db5"
+      },
+      "2": {
+        "source_ref": "Numbers 1:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Numbers 1:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "051be2379a4b4844ea3c937019d63480a0dc4900a7b8f65a9048b1237b96e9a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "051be2379a4b4844ea3c937019d63480a0dc4900a7b8f65a9048b1237b96e9a6"
+      },
+      "3": {
+        "source_ref": "Numbers 1:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Numbers 1:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "006bdfb65567bf5e9d954045ad46d3ec5e86c84028a5b7f8782209a4c8fe1f80"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "006bdfb65567bf5e9d954045ad46d3ec5e86c84028a5b7f8782209a4c8fe1f80"
+      },
+      "4": {
+        "source_ref": "Numbers 1:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Numbers 1:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d141b085c4edc1604f90085187a67810acb0bb3ad7c2a430e9da79d0b103cb43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d141b085c4edc1604f90085187a67810acb0bb3ad7c2a430e9da79d0b103cb43"
+      },
+      "5": {
+        "source_ref": "Numbers 1:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Numbers 1:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "10d3e4829e67e7673beadf08a373d9ed203ad422194138979b9ceae74683f0d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10d3e4829e67e7673beadf08a373d9ed203ad422194138979b9ceae74683f0d1"
+      },
+      "6": {
+        "source_ref": "Numbers 1:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Numbers 1:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "53217d9d162443ba55c3f81159f6bc8d58fa1d3881a0097e5d58b147ca074897"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53217d9d162443ba55c3f81159f6bc8d58fa1d3881a0097e5d58b147ca074897"
+      },
+      "7": {
+        "source_ref": "Numbers 1:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Numbers 1:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0e4339064509e12a11613c70670229cc6a4731d29740734442e5838a1d629ec7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e4339064509e12a11613c70670229cc6a4731d29740734442e5838a1d629ec7"
+      },
+      "8": {
+        "source_ref": "Numbers 1:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Numbers 1:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "76206072cb64079eb9e5e44b1deee53c6db1023aa818ff9194bb309e60b5b6d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76206072cb64079eb9e5e44b1deee53c6db1023aa818ff9194bb309e60b5b6d1"
+      },
+      "9": {
+        "source_ref": "Numbers 1:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Numbers 1:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d9672c3693b05c49693686ae2156e31c7660bcdcb9a5259f62acc3772bb15995"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9672c3693b05c49693686ae2156e31c7660bcdcb9a5259f62acc3772bb15995"
+      },
+      "10": {
+        "source_ref": "Numbers 1:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Numbers 1:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea464eb678af11d272ea6c3d233f05db696ba20249e31d09417f75de52dce91b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea464eb678af11d272ea6c3d233f05db696ba20249e31d09417f75de52dce91b"
+      },
+      "11": {
+        "source_ref": "Numbers 1:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Numbers 1:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "29998a8dbcfe3ac4ffbe58d895ebc633ea78fe97a236f85dd2ebd3a5bb89106e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "29998a8dbcfe3ac4ffbe58d895ebc633ea78fe97a236f85dd2ebd3a5bb89106e"
+      },
+      "12": {
+        "source_ref": "Numbers 1:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Numbers 1:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ec581a0f88abcf7c4cf9683ff4dd6f23d3468b767e0549581f365dca9c1052d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ec581a0f88abcf7c4cf9683ff4dd6f23d3468b767e0549581f365dca9c1052d"
+      },
+      "13": {
+        "source_ref": "Numbers 1:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Numbers 1:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74036492c0eb6cc0b9dd51f154a68ed40feadeb4dcfe21a2471967ebfabb27d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74036492c0eb6cc0b9dd51f154a68ed40feadeb4dcfe21a2471967ebfabb27d1"
+      },
+      "14": {
+        "source_ref": "Numbers 1:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Numbers 1:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9752946250491c0baf3245dccac9da6c06d0c58516be2e54fb2110f17a2c837a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9752946250491c0baf3245dccac9da6c06d0c58516be2e54fb2110f17a2c837a"
+      },
+      "15": {
+        "source_ref": "Numbers 1:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Numbers 1:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8464b5cdc861b51dc59707bfcf1e413138d839c22034c0b92f43ce20268a7a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8464b5cdc861b51dc59707bfcf1e413138d839c22034c0b92f43ce20268a7a8"
+      },
+      "16": {
+        "source_ref": "Numbers 1:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Numbers 1:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4f09cb2386bb4be42e148d97b3698db4283f3b437954503f23b4b191e6436920"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f09cb2386bb4be42e148d97b3698db4283f3b437954503f23b4b191e6436920"
+      },
+      "17": {
+        "source_ref": "Numbers 1:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 17,
+            "source_ref": "Numbers 1:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f2082faf631e6b1dd08b93bf9639f32a99ddc78073384daba27cbadabb40232c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2082faf631e6b1dd08b93bf9639f32a99ddc78073384daba27cbadabb40232c"
+      },
+      "18": {
+        "source_ref": "Numbers 1:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 18,
+            "source_ref": "Numbers 1:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d601088475aeee0d1f12997f17b2a5b7e5168e978e3c5e1abda18777aa1e1884"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d601088475aeee0d1f12997f17b2a5b7e5168e978e3c5e1abda18777aa1e1884"
+      },
+      "19": {
+        "source_ref": "Numbers 1:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 19,
+            "source_ref": "Numbers 1:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b7de48b85653059aa750d6bcfb1c980c11a2412218b1a08edaddb0da37ba6003"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7de48b85653059aa750d6bcfb1c980c11a2412218b1a08edaddb0da37ba6003"
+      },
+      "20": {
+        "source_ref": "Numbers 1:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 20,
+            "source_ref": "Numbers 1:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3534419def8b966e6b09143440a37cbb91f5d79b286403aca95d8be67e98eb9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3534419def8b966e6b09143440a37cbb91f5d79b286403aca95d8be67e98eb9"
+      },
+      "21": {
+        "source_ref": "Numbers 1:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 21,
+            "source_ref": "Numbers 1:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "deb94cef61be6945161b710982469778519100a9c4726145bd5d354f54b773b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "deb94cef61be6945161b710982469778519100a9c4726145bd5d354f54b773b6"
+      },
+      "22": {
+        "source_ref": "Numbers 1:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 22,
+            "source_ref": "Numbers 1:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e3e1ea26572ae13e73ca0a727d112762f8e87d264d26c2c7e3a8686119c75db9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3e1ea26572ae13e73ca0a727d112762f8e87d264d26c2c7e3a8686119c75db9"
+      },
+      "23": {
+        "source_ref": "Numbers 1:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 23,
+            "source_ref": "Numbers 1:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7e841f6aae9726e16d6ad24744f535368786b0454bbe2850fabd6b4ced8fb1e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e841f6aae9726e16d6ad24744f535368786b0454bbe2850fabd6b4ced8fb1e1"
+      },
+      "24": {
+        "source_ref": "Numbers 1:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 24,
+            "source_ref": "Numbers 1:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1660f4c9a384975b5e8e305900d6853a5ff7c23fe6fb6b6a7a90b9f1838cf2a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1660f4c9a384975b5e8e305900d6853a5ff7c23fe6fb6b6a7a90b9f1838cf2a9"
+      },
+      "25": {
+        "source_ref": "Numbers 1:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 25,
+            "source_ref": "Numbers 1:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc449de892f5b1bcad9875431d397528ee72dc47085a4cc6ee1a9c8e42a6c522"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc449de892f5b1bcad9875431d397528ee72dc47085a4cc6ee1a9c8e42a6c522"
+      },
+      "26": {
+        "source_ref": "Numbers 1:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 26,
+            "source_ref": "Numbers 1:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ffd742649d191fc7136c0c9f392b438fa1fb44f87ceb3593f6a775a38729cbed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ffd742649d191fc7136c0c9f392b438fa1fb44f87ceb3593f6a775a38729cbed"
+      },
+      "27": {
+        "source_ref": "Numbers 1:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 27,
+            "source_ref": "Numbers 1:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed0755b03610ae0a00d0931d136e01b5446a786060e1600c781dc28d47d3b50e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed0755b03610ae0a00d0931d136e01b5446a786060e1600c781dc28d47d3b50e"
+      },
+      "28": {
+        "source_ref": "Numbers 1:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 28,
+            "source_ref": "Numbers 1:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "23d1c388c6e00114e6effe3302edad5a230594ea7c51a5ac014019a4ee2f3553"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23d1c388c6e00114e6effe3302edad5a230594ea7c51a5ac014019a4ee2f3553"
+      },
+      "29": {
+        "source_ref": "Numbers 1:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 29,
+            "source_ref": "Numbers 1:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b3848807515434c4bb69ae57c169f242cbef997ec8c8c9fddc8298de19d2a48f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3848807515434c4bb69ae57c169f242cbef997ec8c8c9fddc8298de19d2a48f"
+      },
+      "30": {
+        "source_ref": "Numbers 1:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 30,
+            "source_ref": "Numbers 1:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2a8788e8220755f4a945d7cf278136153a5b48e8bff390104b90c7434e696e63"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a8788e8220755f4a945d7cf278136153a5b48e8bff390104b90c7434e696e63"
+      },
+      "31": {
+        "source_ref": "Numbers 1:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 31,
+            "source_ref": "Numbers 1:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c4e3c957aab21a4dbf23b12a586ac2c411738c1e90d6e66ed0e82d6353bf4812"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c4e3c957aab21a4dbf23b12a586ac2c411738c1e90d6e66ed0e82d6353bf4812"
+      },
+      "32": {
+        "source_ref": "Numbers 1:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 32,
+            "source_ref": "Numbers 1:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cdc0a952bdddf68e85ce103359bd4b025586a7328f80525e764a7ca9392e2603"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cdc0a952bdddf68e85ce103359bd4b025586a7328f80525e764a7ca9392e2603"
+      },
+      "33": {
+        "source_ref": "Numbers 1:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 33,
+            "source_ref": "Numbers 1:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4eaee84d9938dc3d58da1522e5ca29f54876be508500853388acac5a24af37b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4eaee84d9938dc3d58da1522e5ca29f54876be508500853388acac5a24af37b2"
+      },
+      "34": {
+        "source_ref": "Numbers 1:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 34,
+            "source_ref": "Numbers 1:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4fe95cafb38553c82fe9a86a067da8783954c62e4aa16dbd9f8218ff2a32d49b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4fe95cafb38553c82fe9a86a067da8783954c62e4aa16dbd9f8218ff2a32d49b"
+      },
+      "35": {
+        "source_ref": "Numbers 1:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 35,
+            "source_ref": "Numbers 1:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a8fd70d385ee0b2d5a884e5759c9ef246d39e46106f40a6a431272d3ba18090"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a8fd70d385ee0b2d5a884e5759c9ef246d39e46106f40a6a431272d3ba18090"
+      },
+      "36": {
+        "source_ref": "Numbers 1:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 36,
+            "source_ref": "Numbers 1:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c112da328fc3836cc4bd0597a46060fea3c2cfe9a503c70ad725cd0223c3ad34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c112da328fc3836cc4bd0597a46060fea3c2cfe9a503c70ad725cd0223c3ad34"
+      },
+      "37": {
+        "source_ref": "Numbers 1:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 37,
+            "source_ref": "Numbers 1:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ce3c52f9e06f8311fccf86085f01331c9f7b2949d11222b23723159016e3f18"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ce3c52f9e06f8311fccf86085f01331c9f7b2949d11222b23723159016e3f18"
+      },
+      "38": {
+        "source_ref": "Numbers 1:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 38,
+            "source_ref": "Numbers 1:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8719fff3aa306e586af68bfa439809142b417473ec72dc59d211fa2e909df336"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8719fff3aa306e586af68bfa439809142b417473ec72dc59d211fa2e909df336"
+      },
+      "39": {
+        "source_ref": "Numbers 1:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 39,
+            "source_ref": "Numbers 1:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1a1cc3a41cc1e12d413ba91a4657f81b34f4c0b291a2be6150f0678b3744e941"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a1cc3a41cc1e12d413ba91a4657f81b34f4c0b291a2be6150f0678b3744e941"
+      },
+      "40": {
+        "source_ref": "Numbers 1:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 40,
+            "source_ref": "Numbers 1:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ce8e12cd6e519d151e7f5362f6348ffdedc1a690534509dc52552367bec5a4a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce8e12cd6e519d151e7f5362f6348ffdedc1a690534509dc52552367bec5a4a1"
+      },
+      "41": {
+        "source_ref": "Numbers 1:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 41,
+            "source_ref": "Numbers 1:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d633e7a9280ee9e8c9e7d69ecb0872aaffa26a6633c61577e13380eb55ee96c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d633e7a9280ee9e8c9e7d69ecb0872aaffa26a6633c61577e13380eb55ee96c5"
+      },
+      "42": {
+        "source_ref": "Numbers 1:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 42,
+            "source_ref": "Numbers 1:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d376af0c1edb61ae8b5638a1523feb86b9eacd25bff5be2d9b7ba9acb070045"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d376af0c1edb61ae8b5638a1523feb86b9eacd25bff5be2d9b7ba9acb070045"
+      },
+      "43": {
+        "source_ref": "Numbers 1:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 43,
+            "source_ref": "Numbers 1:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32a840c12747358d2fd090c501616b8bc11494604ad200556874eea209c63177"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32a840c12747358d2fd090c501616b8bc11494604ad200556874eea209c63177"
+      },
+      "44": {
+        "source_ref": "Numbers 1:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 44,
+            "source_ref": "Numbers 1:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af79db44dacce4d729a277540b5634d59a8aaf0da35c6c4bd36221009ed0e82d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af79db44dacce4d729a277540b5634d59a8aaf0da35c6c4bd36221009ed0e82d"
+      },
+      "45": {
+        "source_ref": "Numbers 1:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 45,
+            "source_ref": "Numbers 1:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fcd646df310218a924dbce422749cf70f0912144f5eb237ae53ce3e7d753497c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fcd646df310218a924dbce422749cf70f0912144f5eb237ae53ce3e7d753497c"
+      },
+      "46": {
+        "source_ref": "Numbers 1:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 46,
+            "source_ref": "Numbers 1:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "988fbc117cfaf41096fe884acdbf21494ceee88e245191088b1797d60c600533"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "988fbc117cfaf41096fe884acdbf21494ceee88e245191088b1797d60c600533"
+      },
+      "47": {
+        "source_ref": "Numbers 1:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 47,
+            "source_ref": "Numbers 1:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7896c0bb86a17b69078f513f25ca3c4f1375f3107e28a1cba092955e414d88e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7896c0bb86a17b69078f513f25ca3c4f1375f3107e28a1cba092955e414d88e2"
+      },
+      "48": {
+        "source_ref": "Numbers 1:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 48,
+            "source_ref": "Numbers 1:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "49": {
+        "source_ref": "Numbers 1:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 49,
+            "source_ref": "Numbers 1:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7b6cfb84ca79af0b8ed91ac2df12e44951cd50f7e7d7cfdecbb44df36e166cd0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b6cfb84ca79af0b8ed91ac2df12e44951cd50f7e7d7cfdecbb44df36e166cd0"
+      },
+      "50": {
+        "source_ref": "Numbers 1:50 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 50,
+            "source_ref": "Numbers 1:50 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d6b9f126e60b69971921252de2ff31a7bdc57fd84900de35dfeaa00ecb565c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d6b9f126e60b69971921252de2ff31a7bdc57fd84900de35dfeaa00ecb565c9"
+      },
+      "51": {
+        "source_ref": "Numbers 1:51 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 51,
+            "source_ref": "Numbers 1:51 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "31869b43e55635bcaddd1d43b9a67a0cb71e4f6815eb830a4c4166667edb6a2a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31869b43e55635bcaddd1d43b9a67a0cb71e4f6815eb830a4c4166667edb6a2a"
+      },
+      "52": {
+        "source_ref": "Numbers 1:52 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 52,
+            "source_ref": "Numbers 1:52 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b28043061f6247b4552373e34e5759368c63570a3a751a3f4106bccbf3af6953"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b28043061f6247b4552373e34e5759368c63570a3a751a3f4106bccbf3af6953"
+      },
+      "53": {
+        "source_ref": "Numbers 1:53 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 53,
+            "source_ref": "Numbers 1:53 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e919fa809f52f43e8ed10b63062fa68877b6ae3de3ee1c7d8fcb03caae658079"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e919fa809f52f43e8ed10b63062fa68877b6ae3de3ee1c7d8fcb03caae658079"
+      },
+      "54": {
+        "source_ref": "Numbers 1:54 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 54,
+            "source_ref": "Numbers 1:54 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec66bc4ed13a0ed57b442708fb59bcda971bbf771fe255e00eddbf8a1c44f62d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec66bc4ed13a0ed57b442708fb59bcda971bbf771fe255e00eddbf8a1c44f62d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/numbers/Numbers_01.md",
+    "blob_sha": "f40093a445ca81c34bb69efa89df24b88d2f7402"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

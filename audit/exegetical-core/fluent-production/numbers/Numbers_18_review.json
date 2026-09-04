@@ -1,0 +1,516 @@
+{
+  "book": "Numbers",
+  "chapter": 18,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Numbers 18:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 1,
+            "source_ref": "Numbers 18:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1b4f0817d22f8bc521abe3bf5b2b8e19ea726e6c9c920d2b097922f12db1142"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1b4f0817d22f8bc521abe3bf5b2b8e19ea726e6c9c920d2b097922f12db1142"
+      },
+      "2": {
+        "source_ref": "Numbers 18:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 2,
+            "source_ref": "Numbers 18:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eff59e62d0b858f94b4310985f5b369c56d2eb760727ea2f3435cf3dc3afeb57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eff59e62d0b858f94b4310985f5b369c56d2eb760727ea2f3435cf3dc3afeb57"
+      },
+      "3": {
+        "source_ref": "Numbers 18:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 3,
+            "source_ref": "Numbers 18:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a55a35b437cf7d41e2746f3f30155459ca8a2cb3dbeb9df8cd93a831fed05236"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a55a35b437cf7d41e2746f3f30155459ca8a2cb3dbeb9df8cd93a831fed05236"
+      },
+      "4": {
+        "source_ref": "Numbers 18:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 4,
+            "source_ref": "Numbers 18:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e264ccc91c3a93ffd330ab18219c7cab94997fce24ea188137b9be29dfafb2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e264ccc91c3a93ffd330ab18219c7cab94997fce24ea188137b9be29dfafb2c"
+      },
+      "5": {
+        "source_ref": "Numbers 18:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 5,
+            "source_ref": "Numbers 18:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4bcfab0d40ee5abe495adf2d8bbe1f199f875c1af0330e59d0fbd67ca3278542"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4bcfab0d40ee5abe495adf2d8bbe1f199f875c1af0330e59d0fbd67ca3278542"
+      },
+      "6": {
+        "source_ref": "Numbers 18:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 6,
+            "source_ref": "Numbers 18:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "22117332cb3d3c76d73fdce22fb71146c7d110d148be6904bd8df5c8161490b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22117332cb3d3c76d73fdce22fb71146c7d110d148be6904bd8df5c8161490b7"
+      },
+      "7": {
+        "source_ref": "Numbers 18:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 7,
+            "source_ref": "Numbers 18:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "538d67e4cd7fae4e148123ceca07bbf0cdfe7eac1d4ab588044add8c0d98a894"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "538d67e4cd7fae4e148123ceca07bbf0cdfe7eac1d4ab588044add8c0d98a894"
+      },
+      "8": {
+        "source_ref": "Numbers 18:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 8,
+            "source_ref": "Numbers 18:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "952ee34c5d46a9ef22d3b98be41beb4bf580eb2719ece4a58f95972492f1ee07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "952ee34c5d46a9ef22d3b98be41beb4bf580eb2719ece4a58f95972492f1ee07"
+      },
+      "9": {
+        "source_ref": "Numbers 18:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 9,
+            "source_ref": "Numbers 18:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cdc14c680151e5b5e86666859e362b09668cc44f8d5041af02ec079a7ccb53ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cdc14c680151e5b5e86666859e362b09668cc44f8d5041af02ec079a7ccb53ea"
+      },
+      "10": {
+        "source_ref": "Numbers 18:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 10,
+            "source_ref": "Numbers 18:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1a312e604f4a313eff102164a38842e18e491d1681efa086e3fd8a937d2baeaf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a312e604f4a313eff102164a38842e18e491d1681efa086e3fd8a937d2baeaf"
+      },
+      "11": {
+        "source_ref": "Numbers 18:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 11,
+            "source_ref": "Numbers 18:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79080e4a474d996ac4851f726e7e1d928b504e34bcfe78402a03321e535634dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79080e4a474d996ac4851f726e7e1d928b504e34bcfe78402a03321e535634dc"
+      },
+      "12": {
+        "source_ref": "Numbers 18:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 12,
+            "source_ref": "Numbers 18:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f180e2cccc1edb3c9be3a19bc0b974b65fbc84df257b77e894913349d758b4b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f180e2cccc1edb3c9be3a19bc0b974b65fbc84df257b77e894913349d758b4b1"
+      },
+      "13": {
+        "source_ref": "Numbers 18:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 13,
+            "source_ref": "Numbers 18:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d8fae5bd2ba211cd90f6eb783537d73e304f228b85b096b5b2711fbdcf83da8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8fae5bd2ba211cd90f6eb783537d73e304f228b85b096b5b2711fbdcf83da8a"
+      },
+      "14": {
+        "source_ref": "Numbers 18:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 14,
+            "source_ref": "Numbers 18:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8334f6fd3744227d972ad5a6e5f9ba872569bb15d1a53df32e00bba04c8eb27a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8334f6fd3744227d972ad5a6e5f9ba872569bb15d1a53df32e00bba04c8eb27a"
+      },
+      "15": {
+        "source_ref": "Numbers 18:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 15,
+            "source_ref": "Numbers 18:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "083bb58292c1625beb35f1290c4a0115d0427fe605fc0a2d057a583bfa5a576e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "083bb58292c1625beb35f1290c4a0115d0427fe605fc0a2d057a583bfa5a576e"
+      },
+      "16": {
+        "source_ref": "Numbers 18:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 16,
+            "source_ref": "Numbers 18:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5cf99b8c5578a9ce40a741223e455ca74c69dba4e0b5e2da0bd47a2a29c58852"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5cf99b8c5578a9ce40a741223e455ca74c69dba4e0b5e2da0bd47a2a29c58852"
+      },
+      "17": {
+        "source_ref": "Numbers 18:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 17,
+            "source_ref": "Numbers 18:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4fc7815d790e07d6a922c5e5069a702379cf975fe35e6edc764e89387f178022"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4fc7815d790e07d6a922c5e5069a702379cf975fe35e6edc764e89387f178022"
+      },
+      "18": {
+        "source_ref": "Numbers 18:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 18,
+            "source_ref": "Numbers 18:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2e09cccdf237a53da95dae1102b180cd2ee1626678f04bb713225faf52d26ab2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e09cccdf237a53da95dae1102b180cd2ee1626678f04bb713225faf52d26ab2"
+      },
+      "19": {
+        "source_ref": "Numbers 18:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 19,
+            "source_ref": "Numbers 18:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ce78cf498f7e64a1fa9997d260875d25d0188d92d79957ead10358c7a8a0599"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ce78cf498f7e64a1fa9997d260875d25d0188d92d79957ead10358c7a8a0599"
+      },
+      "20": {
+        "source_ref": "Numbers 18:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 20,
+            "source_ref": "Numbers 18:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8719aece947199c2870439e47fabd87cb6f090fa55c2c006ca1a5c7eda09192d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8719aece947199c2870439e47fabd87cb6f090fa55c2c006ca1a5c7eda09192d"
+      },
+      "21": {
+        "source_ref": "Numbers 18:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 21,
+            "source_ref": "Numbers 18:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e56b439d810799bdcb30298b99d52c3680ea986309ca0e2364b962569814e41c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e56b439d810799bdcb30298b99d52c3680ea986309ca0e2364b962569814e41c"
+      },
+      "22": {
+        "source_ref": "Numbers 18:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 22,
+            "source_ref": "Numbers 18:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69602227fba35f12259ca4130c1fd6f39b5343d54081458a69550b2e7a3766ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69602227fba35f12259ca4130c1fd6f39b5343d54081458a69550b2e7a3766ca"
+      },
+      "23": {
+        "source_ref": "Numbers 18:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 23,
+            "source_ref": "Numbers 18:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7e809ee6183ad99ea31b72c25d89cbb8ee427b7d7319a03b51c51af80b8cbdfc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e809ee6183ad99ea31b72c25d89cbb8ee427b7d7319a03b51c51af80b8cbdfc"
+      },
+      "24": {
+        "source_ref": "Numbers 18:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 24,
+            "source_ref": "Numbers 18:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "08825e3b8422688e7621b40cf6c9864e6a73389e2a97c825ef231cf3a04c2864"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "08825e3b8422688e7621b40cf6c9864e6a73389e2a97c825ef231cf3a04c2864"
+      },
+      "25": {
+        "source_ref": "Numbers 18:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 25,
+            "source_ref": "Numbers 18:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "26": {
+        "source_ref": "Numbers 18:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 26,
+            "source_ref": "Numbers 18:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a8e6ca77ae650731d09ce53604d61e3b58e5801a59fd4680722cf2869aaebd2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a8e6ca77ae650731d09ce53604d61e3b58e5801a59fd4680722cf2869aaebd2"
+      },
+      "27": {
+        "source_ref": "Numbers 18:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 27,
+            "source_ref": "Numbers 18:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7e03f6088f68d56bcf3c51bd20de175f71516c7b638759ec5e762b85ba0c7dfb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e03f6088f68d56bcf3c51bd20de175f71516c7b638759ec5e762b85ba0c7dfb"
+      },
+      "28": {
+        "source_ref": "Numbers 18:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 28,
+            "source_ref": "Numbers 18:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "57edec37f7d53d6950573b75f09dc8123e21e988b165b348031919effe31390a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57edec37f7d53d6950573b75f09dc8123e21e988b165b348031919effe31390a"
+      },
+      "29": {
+        "source_ref": "Numbers 18:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 29,
+            "source_ref": "Numbers 18:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "786411bb0a821ffa3a0670572a71a9300b55acfc585a27e5055bdaed3555adc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "786411bb0a821ffa3a0670572a71a9300b55acfc585a27e5055bdaed3555adc4"
+      },
+      "30": {
+        "source_ref": "Numbers 18:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 30,
+            "source_ref": "Numbers 18:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9b95cd3bc6530b9a7b6dcad4abb8fffc6da223cc4da2cb77069df038cd272aeb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b95cd3bc6530b9a7b6dcad4abb8fffc6da223cc4da2cb77069df038cd272aeb"
+      },
+      "31": {
+        "source_ref": "Numbers 18:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 31,
+            "source_ref": "Numbers 18:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c3876f6638ac45b9e9fe75abd7d3fc9dd6c5373bfcd7345454572141b3dc2867"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3876f6638ac45b9e9fe75abd7d3fc9dd6c5373bfcd7345454572141b3dc2867"
+      },
+      "32": {
+        "source_ref": "Numbers 18:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 32,
+            "source_ref": "Numbers 18:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "99447ab67c931de5c353b0c8c42abcc306fa007a271bc9bcbe0cc0f281a2d2e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99447ab67c931de5c353b0c8c42abcc306fa007a271bc9bcbe0cc0f281a2d2e4"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/numbers/Numbers_18.md",
+    "blob_sha": "30cb342744a5e7870b7d0369ac51b7c515dbb547"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

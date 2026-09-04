@@ -1,0 +1,214 @@
+{
+  "book": "Numbers",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 36,
+  "public_verse_slots": 1288,
+  "included_verse_labels": 1288,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 1289,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-10:36",
+      "decision": "Keep census, camp order, ritual responsibility, blessing, Passover, and departure connected.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:1-20:13",
+      "decision": "Preserve complaint, provision, leadership strain, rebellion, judgment, grief, and Moses' failure.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:1-14:45",
+      "decision": "Keep exploration, fear, communal refusal, minority testimony, judgment, and failed presumption distinct.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "16:1-17:13",
+      "decision": "Translate rebellion and lethal judgment plainly without treating authority as beyond accountability.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "20:14-25:18",
+      "decision": "Retain conflict, warfare, Balaam's mixed agency, blessing, sexual-religious crisis, and violence without idealization.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "25:19-26:65",
+      "decision": "Document the combined public Numbers 26:1 binding across Hebrew 25:19 and 26:1 while preserving the census structure.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "27:1-11",
+      "decision": "Preserve the daughters of Zelophehad's claim, legal reasoning, inheritance reform, and communal precedent.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "source_binding_count": 1288,
+    "unique_source_record_count": 1289,
+    "public_verse_slots": 1288,
+    "ledger_summary": {
+      "F0": 229,
+      "F1": 91,
+      "F2": 7,
+      "F3": 961
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/numbers/Numbers_01.md",
+        "blob_sha": "f40093a445ca81c34bb69efa89df24b88d2f7402"
+      },
+      "02": {
+        "path": "books/OT/numbers/Numbers_02.md",
+        "blob_sha": "398589113fe6848f5b79ef933c7e6afee8266921"
+      },
+      "03": {
+        "path": "books/OT/numbers/Numbers_03.md",
+        "blob_sha": "1464ecdc3b5c90f57162bad0af01fe8e37067658"
+      },
+      "04": {
+        "path": "books/OT/numbers/Numbers_04.md",
+        "blob_sha": "7f7d2596559c9d626f65a077dd4995b8f30cff2a"
+      },
+      "05": {
+        "path": "books/OT/numbers/Numbers_05.md",
+        "blob_sha": "c58827348d93d51105c0466d1f2593655659e1ca"
+      },
+      "06": {
+        "path": "books/OT/numbers/Numbers_06.md",
+        "blob_sha": "aef1122ef6f058344886175c91ac460b189e2eef"
+      },
+      "07": {
+        "path": "books/OT/numbers/Numbers_07.md",
+        "blob_sha": "fc1bf4fca2d0623736aa56b5943c744b663a41b0"
+      },
+      "08": {
+        "path": "books/OT/numbers/Numbers_08.md",
+        "blob_sha": "88a07fdfea559fdcffb376c4d327ba5380ab8013"
+      },
+      "09": {
+        "path": "books/OT/numbers/Numbers_09.md",
+        "blob_sha": "9dc815822d3bf47f31786dceaaabf6c6ce32538f"
+      },
+      "10": {
+        "path": "books/OT/numbers/Numbers_10.md",
+        "blob_sha": "f611341d50c7e9ee53112b87964eeb9963f2b797"
+      },
+      "11": {
+        "path": "books/OT/numbers/Numbers_11.md",
+        "blob_sha": "ad9e640312728c78b391762550c5778dee6e2d68"
+      },
+      "12": {
+        "path": "books/OT/numbers/Numbers_12.md",
+        "blob_sha": "0a6de4efa7ac7ec27f90505de3af9b384645a60f"
+      },
+      "13": {
+        "path": "books/OT/numbers/Numbers_13.md",
+        "blob_sha": "a093720f92948b9f2eb9617bb92f135acc54aa44"
+      },
+      "14": {
+        "path": "books/OT/numbers/Numbers_14.md",
+        "blob_sha": "270fdb4107cd01da9aa1deb5e07e19cf7bd2be3b"
+      },
+      "15": {
+        "path": "books/OT/numbers/Numbers_15.md",
+        "blob_sha": "277312bb3250bed4f25bd8575e7738999c4433a1"
+      },
+      "16": {
+        "path": "books/OT/numbers/Numbers_16.md",
+        "blob_sha": "578c6097bf844a434e6efdd5e4d79ef60a5854b2"
+      },
+      "17": {
+        "path": "books/OT/numbers/Numbers_17.md",
+        "blob_sha": "ad8a716de64632c8297b45f7f4c9d7f8c9606f60"
+      },
+      "18": {
+        "path": "books/OT/numbers/Numbers_18.md",
+        "blob_sha": "30cb342744a5e7870b7d0369ac51b7c515dbb547"
+      },
+      "19": {
+        "path": "books/OT/numbers/Numbers_19.md",
+        "blob_sha": "d63d4a2245e0a247bc786d94a46707a0cfe8c6cb"
+      },
+      "20": {
+        "path": "books/OT/numbers/Numbers_20.md",
+        "blob_sha": "a372427c33cdc39ea5217464ccbf8f91d1c68b93"
+      },
+      "21": {
+        "path": "books/OT/numbers/Numbers_21.md",
+        "blob_sha": "5e1684b66500a9ffdb72442648be5093b113b0cc"
+      },
+      "22": {
+        "path": "books/OT/numbers/Numbers_22.md",
+        "blob_sha": "cd41ea2b173d4aa42cccb5aa04bdba469cc2cb06"
+      },
+      "23": {
+        "path": "books/OT/numbers/Numbers_23.md",
+        "blob_sha": "5ffcbae95432fc565a4172527f2c0b19a75aac0f"
+      },
+      "24": {
+        "path": "books/OT/numbers/Numbers_24.md",
+        "blob_sha": "5180bac265df581e474786622726baabc9bd4148"
+      },
+      "25": {
+        "path": "books/OT/numbers/Numbers_25.md",
+        "blob_sha": "f8bf07586492ac529b767f003357e231890793c2"
+      },
+      "26": {
+        "path": "books/OT/numbers/Numbers_26.md",
+        "blob_sha": "96e666a2e5f6d1b7306a001169192f2cca7165a9"
+      },
+      "27": {
+        "path": "books/OT/numbers/Numbers_27.md",
+        "blob_sha": "9d80f7608adb6afff60049b1ca1b053ab48dd663"
+      },
+      "28": {
+        "path": "books/OT/numbers/Numbers_28.md",
+        "blob_sha": "774c99e8d011ee2089b700249bbb44cf45cdfcd1"
+      },
+      "29": {
+        "path": "books/OT/numbers/Numbers_29.md",
+        "blob_sha": "b64eed099c53691c0d9957d607573fc3d7275edb"
+      },
+      "30": {
+        "path": "books/OT/numbers/Numbers_30.md",
+        "blob_sha": "b6fcde7559fe5fc216402989a4b5b95ca32e401f"
+      },
+      "31": {
+        "path": "books/OT/numbers/Numbers_31.md",
+        "blob_sha": "ba88c7fc8cff09c93d17b0d2cc6d7a337dc3862b"
+      },
+      "32": {
+        "path": "books/OT/numbers/Numbers_32.md",
+        "blob_sha": "538a075169bb13c03d5aeb77c408f43760e829c7"
+      },
+      "33": {
+        "path": "books/OT/numbers/Numbers_33.md",
+        "blob_sha": "28a3b81479e30e8fed96149ba5cee89ad4e59825"
+      },
+      "34": {
+        "path": "books/OT/numbers/Numbers_34.md",
+        "blob_sha": "5192fde65cd2991f8d3f5567a4fad46cc7c2bc3d"
+      },
+      "35": {
+        "path": "books/OT/numbers/Numbers_35.md",
+        "blob_sha": "66f353cf831cef9331a2c406dc70a783aad8a60f"
+      },
+      "36": {
+        "path": "books/OT/numbers/Numbers_36.md",
+        "blob_sha": "2f65cc1fbc24f7b7477d2207839d132572b3275c"
+      }
+    }
+  }
+}
