@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "project": {
+    "id": "shared-word",
+    "name": "The Shared Word Project"
+  },
+  "site_default": "tsw",
+  "translations": [
+    {
+      "id": "tsw",
+      "name": "The Shared Word Translation",
+      "abbreviation": "TSW",
+      "short_label": "Close Reading",
+      "description": "For close reading, preaching, study, and shared discernment.",
+      "root": "books",
+      "front_matter_id": "TSW",
+      "status": "complete-provisional",
+      "coverage": {
+        "books": 66,
+        "chapters": 1189
+      },
+      "features": {
+        "notes": true,
+        "vocabulary": true
+      },
+      "philosophy_document": "TRANSLATION_PHILOSOPHY.md"
+    },
+    {
+      "id": "fluent",
+      "name": "Fluent Translation",
+      "abbreviation": "Fluent",
+      "short_label": "Natural Reading",
+      "description": "For daily reading, devotion, teaching, and growing biblical fluency.",
+      "root": "translations/fluent",
+      "front_matter_id": "FLUENT",
+      "required_status": "QA_PASSED",
+      "status": "complete-provisional",
+      "coverage": {
+        "books": 66,
+        "chapters": 1189
+      },
+      "features": {
+        "notes": true,
+        "vocabulary": true
+      },
+      "verse_label_exceptions": [
+        {
+          "relative_to": "tsw",
+          "testament": "NT",
+          "book": "romans",
+          "chapter": 16,
+          "missing": ["25", "26", "27"],
+          "additional": ["24"],
+          "reason": "The pinned SBLGNT main text contains Romans 16:24 and ends there; the doxology numbered 25–27 belongs to a major textual tradition whose placement varies."
+        },
+        {
+          "relative_to": "tsw",
+          "testament": "OT",
+          "book": "nehemiah",
+          "chapter": 7,
+          "missing": ["68"],
+          "additional": [],
+          "reason": "Public Nehemiah 7:68 is absent from the pinned Masoretic Hebrew source; the source resumes with public verse 69."
+        }
+      ],
+      "philosophy_document": "FLUENT_TRANSLATION_PHILOSOPHY.md"
+    }
+  ]
+}
