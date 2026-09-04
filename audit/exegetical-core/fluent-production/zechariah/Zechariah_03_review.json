@@ -1,0 +1,192 @@
+{
+  "book": "Zechariah",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "3:1-10",
+      "decision": "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Zechariah 3:1",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 1,
+            "source_ref": "Zechariah 3:1",
+            "segment_mode": "whole",
+            "sha256": "42c695312472fd2a4b6296b20d5101a2a9714a88fbede3ed59fa833e778f7e6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42c695312472fd2a4b6296b20d5101a2a9714a88fbede3ed59fa833e778f7e6a"
+      },
+      "2": {
+        "source_ref": "Zechariah 3:2",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 2,
+            "source_ref": "Zechariah 3:2",
+            "segment_mode": "whole",
+            "sha256": "3bd12b2482f3ea30c258d3b373f6335c8bc0ebb4b4a6eace196523d170a756bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3bd12b2482f3ea30c258d3b373f6335c8bc0ebb4b4a6eace196523d170a756bd"
+      },
+      "3": {
+        "source_ref": "Zechariah 3:3",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 3,
+            "source_ref": "Zechariah 3:3",
+            "segment_mode": "whole",
+            "sha256": "b7346b002c5c9a6530f62a75d3ef0d2282460cbf70aa7a1936235a46d6ef17ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7346b002c5c9a6530f62a75d3ef0d2282460cbf70aa7a1936235a46d6ef17ff"
+      },
+      "4": {
+        "source_ref": "Zechariah 3:4",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 4,
+            "source_ref": "Zechariah 3:4",
+            "segment_mode": "whole",
+            "sha256": "70b46949f157f293e85fd42399d2a588790b5810f5567e5f7074113ebf33a76b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70b46949f157f293e85fd42399d2a588790b5810f5567e5f7074113ebf33a76b"
+      },
+      "5": {
+        "source_ref": "Zechariah 3:5",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 5,
+            "source_ref": "Zechariah 3:5",
+            "segment_mode": "whole",
+            "sha256": "5baa73728d320b3abd54f46a42cfc177ca18f6d27e08e176f91028f7c6af8230"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5baa73728d320b3abd54f46a42cfc177ca18f6d27e08e176f91028f7c6af8230"
+      },
+      "6": {
+        "source_ref": "Zechariah 3:6",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 6,
+            "source_ref": "Zechariah 3:6",
+            "segment_mode": "whole",
+            "sha256": "f0149b19deb441d65b4dfadcbba43b0dd38ff608cc2310953f548eaa4be902b8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0149b19deb441d65b4dfadcbba43b0dd38ff608cc2310953f548eaa4be902b8"
+      },
+      "7": {
+        "source_ref": "Zechariah 3:7",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 7,
+            "source_ref": "Zechariah 3:7",
+            "segment_mode": "whole",
+            "sha256": "df26004d7ce536b5eff3162743aa17f0fc4442a2d64ba0d03ef75bc6ca02e307"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df26004d7ce536b5eff3162743aa17f0fc4442a2d64ba0d03ef75bc6ca02e307"
+      },
+      "8": {
+        "source_ref": "Zechariah 3:8",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 8,
+            "source_ref": "Zechariah 3:8",
+            "segment_mode": "whole",
+            "sha256": "c2eba73ae7bc2c69d99afe982787b4636a90b7457a8c4c3e791639aef6a21595"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2eba73ae7bc2c69d99afe982787b4636a90b7457a8c4c3e791639aef6a21595"
+      },
+      "9": {
+        "source_ref": "Zechariah 3:9",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 9,
+            "source_ref": "Zechariah 3:9",
+            "segment_mode": "whole",
+            "sha256": "efde95c7b90312c87149db4b7c2c4f0446f543bfc8480e7e3bd472e5c8c45898"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "efde95c7b90312c87149db4b7c2c4f0446f543bfc8480e7e3bd472e5c8c45898"
+      },
+      "10": {
+        "source_ref": "Zechariah 3:10",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 10,
+            "source_ref": "Zechariah 3:10",
+            "segment_mode": "whole",
+            "sha256": "1a67b4b2219528b13a736b0fe91329f41fb60413d92a7b33cc061f4eac8fa1d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a67b4b2219528b13a736b0fe91329f41fb60413d92a7b33cc061f4eac8fa1d7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/zechariah/Zechariah_03.md",
+    "blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

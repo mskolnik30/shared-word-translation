@@ -1,0 +1,4767 @@
+{
+  "book": "Zechariah",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Zechariah 1:1",
+          "segment_mode": "whole",
+          "sha256": "c8fb968372b786a062c1a1ba558ca2132093e38eae5a77a5c9e01f1810f7b955"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c8fb968372b786a062c1a1ba558ca2132093e38eae5a77a5c9e01f1810f7b955",
+      "translation_sha256": "2f67d7398d8b7904587bbf6afa0481af2c1045c6f4d04e9558312ceec5808c2c",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Zechariah 1:2",
+          "segment_mode": "whole",
+          "sha256": "15275b70c996e18afa1cc9a7052afd09382951eb58f44fb97f207d36abc0fdb0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "15275b70c996e18afa1cc9a7052afd09382951eb58f44fb97f207d36abc0fdb0",
+      "translation_sha256": "32a6e720d740bd24572209e3f6368ced864187f76031077240b7d231c88f8a24",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Zechariah 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Zechariah 1:3",
+          "segment_mode": "whole",
+          "sha256": "c31438f4caa186eaefaa9285c7b7e3f89bd0d78f8fc15554968275a7f3c0e2f3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c31438f4caa186eaefaa9285c7b7e3f89bd0d78f8fc15554968275a7f3c0e2f3",
+      "translation_sha256": "35ae1dfddee0f368590e58fc5aca32fae8a0fcfe97cdc84a9607a9f658630c30",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Zechariah 1:4",
+          "segment_mode": "whole",
+          "sha256": "488c0f3b84ae76f69857402f2c5af369175a5a55c9637b312e793df3d3fb00e2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "488c0f3b84ae76f69857402f2c5af369175a5a55c9637b312e793df3d3fb00e2",
+      "translation_sha256": "9381b281ceefc539a049e42a36af961c6882d372545739a89799409a7d011658",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Zechariah 1:5",
+          "segment_mode": "whole",
+          "sha256": "7d9dc278db2bca37b34b88fa3f98ac08eea812fcd325661423a7bb1425ee6187"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7d9dc278db2bca37b34b88fa3f98ac08eea812fcd325661423a7bb1425ee6187",
+      "translation_sha256": "b897659ad9fb3057c5b6d813eadf692f64f00a9785b066f5a15e24bf71268009",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Zechariah 1:6",
+          "segment_mode": "whole",
+          "sha256": "71c78dd1ffa1c1970368d05f93e6804ab80716f83358af2d03bd07c5f9074064"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "71c78dd1ffa1c1970368d05f93e6804ab80716f83358af2d03bd07c5f9074064",
+      "translation_sha256": "ec88bfdc18c30edc39755a12780338868d72f26f3a3e7a3ad94ef92fba02da2b",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Zechariah 1:7",
+          "segment_mode": "whole",
+          "sha256": "aa3c1968f2f199bd6eee1f469cb881af7da8934bad10ecb44c363859a4d23307"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aa3c1968f2f199bd6eee1f469cb881af7da8934bad10ecb44c363859a4d23307",
+      "translation_sha256": "0f02fd1b4b6471cf4fe84bed54964e80006c546177097fbdc8b695fbdca20bae",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Zechariah 1:8",
+          "segment_mode": "whole",
+          "sha256": "b036aec486b300b9086859200b9a530934bb15d56f46ecfe319018ea05f4ada2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b036aec486b300b9086859200b9a530934bb15d56f46ecfe319018ea05f4ada2",
+      "translation_sha256": "392a637e6bc82586a4a0aebc6c076109fcdbac68579519810061576390e7317c",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Zechariah 1:9",
+          "segment_mode": "whole",
+          "sha256": "66a440769992e32b9d44ef686e17f635a9f516509a9fb3ea72f4bbd955a70e0a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "66a440769992e32b9d44ef686e17f635a9f516509a9fb3ea72f4bbd955a70e0a",
+      "translation_sha256": "320139a8de9198e1aa3fd777d1b07a596ab0bedc257b5d3242b53f44733d4508",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Zechariah 1:10",
+          "segment_mode": "whole",
+          "sha256": "d7b751de7acd63eb3c312baefaaad5e3e32b89525e2c55d87695c92e24fc4b81"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d7b751de7acd63eb3c312baefaaad5e3e32b89525e2c55d87695c92e24fc4b81",
+      "translation_sha256": "1c64966765cf697be99dd26279cd637f2d3e99e8559bc615d8219a6807925238",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Zechariah 1:11",
+          "segment_mode": "whole",
+          "sha256": "93c34905624e0f0582216656a6b2d6890c2496ef687419de5d0c9503f1996fe3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "93c34905624e0f0582216656a6b2d6890c2496ef687419de5d0c9503f1996fe3",
+      "translation_sha256": "8b098dd0db5a21021f37247b6223033663c98766ccb415c8ca3da1768d7d6752",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Zechariah 1:12",
+          "segment_mode": "whole",
+          "sha256": "654de91a69dc32196b860030feee8096770b90e92ad0244bef59f27eb1ce4c95"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "654de91a69dc32196b860030feee8096770b90e92ad0244bef59f27eb1ce4c95",
+      "translation_sha256": "d5657cdf9f84d646d5d07153c487f7ae7b700636a1222e8bd1299df98a28185a",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Zechariah 1:13",
+          "segment_mode": "whole",
+          "sha256": "9628a11c1ce687027ad8c8fed68b2323685bf069cbb4a4632d62d914ca296321"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9628a11c1ce687027ad8c8fed68b2323685bf069cbb4a4632d62d914ca296321",
+      "translation_sha256": "826bf990fbe49825c78a9d2d5024ed7437d1adb45fd6d36f9cceec8d308e3cde",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Zechariah 1:14",
+          "segment_mode": "whole",
+          "sha256": "ab918209df687bcc2ab9ab1cb81974af3d51df9c6e29179d66f98e833a4ec9a9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ab918209df687bcc2ab9ab1cb81974af3d51df9c6e29179d66f98e833a4ec9a9",
+      "translation_sha256": "a2d9d7e16099bf17764213159fece1094e8f67aabf0069b27ca86bf24f96521f",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Zechariah 1:15",
+          "segment_mode": "whole",
+          "sha256": "7b1f1d2609bb0aeb27b107915e52dd5a5b470d369f8778629a03e85c1cd46972"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7b1f1d2609bb0aeb27b107915e52dd5a5b470d369f8778629a03e85c1cd46972",
+      "translation_sha256": "1ccf4377f12358e4238a43802c2e18d981ff6c600c66d97119cfe3ce505bf73b",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Zechariah 1:16",
+          "segment_mode": "whole",
+          "sha256": "12559b5c78f6109f0a77387e6298f2821a6ebde65a05800d596ec2415ffedeae"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "12559b5c78f6109f0a77387e6298f2821a6ebde65a05800d596ec2415ffedeae",
+      "translation_sha256": "c511bb88769c8e44da1633e2cbff15a4803884a7609abab8472bc586f407a085",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "Zechariah 1:17",
+          "segment_mode": "whole",
+          "sha256": "12a95168f66e3d3d203ea69380152e7e030436930f795dc1ddc745623bae634c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "12a95168f66e3d3d203ea69380152e7e030436930f795dc1ddc745623bae634c",
+      "translation_sha256": "51898e3b7f017444e5fdf735a59502396aa9f4ecf7ef03c1f554a8890d5323fb",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:1 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Zechariah 2:1 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "0a1d074b49b075498e6dc4afdb304bf339108f8a594b59168fabc45bae5f644b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0a1d074b49b075498e6dc4afdb304bf339108f8a594b59168fabc45bae5f644b",
+      "translation_sha256": "bb1de79c12245b78d5a82c61ac261687981c43cfa3fd25518a13152e53d9f0cc",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:2 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Zechariah 2:2 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "ac5af967a15ca683f7f03140633513807bd79525d936a940e7ba35197b952e4d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ac5af967a15ca683f7f03140633513807bd79525d936a940e7ba35197b952e4d",
+      "translation_sha256": "a84a79687ce7f6fa3dc9e09c4c139064a4c882e0196bb8a5ea5b6aaf28e53f26",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:3 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Zechariah 2:3 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "2cf97b2d1dbdf2190b0e56b76d535f5585be934015b00f7334fc9ac5d7a70e0e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2cf97b2d1dbdf2190b0e56b76d535f5585be934015b00f7334fc9ac5d7a70e0e",
+      "translation_sha256": "a54cd2542faffba22c64970f5cf46cfa0560df73226af1ea08a22cd1a5700778",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:4 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Zechariah 2:4 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "6981f25a770a4f59728082ddce5654d38eb493fa91bbeb385fc4a673b4d6a7e2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6981f25a770a4f59728082ddce5654d38eb493fa91bbeb385fc4a673b4d6a7e2",
+      "translation_sha256": "4413de0a2df87475738c48d6e2d389afcfac196a755a3e14f6321ede484f7380",
+      "tsw_blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:5 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Zechariah 2:5 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "f8a6d864e579576608547b96fb6cf17281f6f19291af657d6799ebc2e52032a7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f8a6d864e579576608547b96fb6cf17281f6f19291af657d6799ebc2e52032a7",
+      "translation_sha256": "ec8dde1a8c96c556dd720947a21abac40074db5c062a4983dafce67be761e0e3",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:6 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Zechariah 2:6 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "10d3aba8a986b274b8e950318e7c2f68f477ac2428f903f9bc4c73e502cbecf3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "10d3aba8a986b274b8e950318e7c2f68f477ac2428f903f9bc4c73e502cbecf3",
+      "translation_sha256": "5d54cbf9b0910eae7064862d644e7e6c80584d619854e1d5f1768482a22f14fc",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:7 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Zechariah 2:7 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "6e98f775b8264929178ee4a32e26676f77ddf063d90969f26d248b155e8d3eb9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6e98f775b8264929178ee4a32e26676f77ddf063d90969f26d248b155e8d3eb9",
+      "translation_sha256": "c264c7201ad404d590bab39e2dc59c6d6d41877b7f01d3f10f46d57ed35e50f3",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:8 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Zechariah 2:8 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "e02d65544c9263cf94463eb5cfd854db97fff71bc5586cb4fe27281ab698faa5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e02d65544c9263cf94463eb5cfd854db97fff71bc5586cb4fe27281ab698faa5",
+      "translation_sha256": "243294d8d7578aa40e9ead5338aa0d0c470d5dcdc1f8de6c3741ed05300f3ca9",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:9 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Zechariah 2:9 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "95e57630d9d4b71f58e5ca78512dd81c6df1d47df0fcc20db88d01bd83ab0cdd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "95e57630d9d4b71f58e5ca78512dd81c6df1d47df0fcc20db88d01bd83ab0cdd",
+      "translation_sha256": "03647416691f1f98f2c12b5fd82de7615e5521dba4f26a452f75b3563ae6baa5",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:10 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Zechariah 2:10 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "19dc6f0f1b9999fe43426d8252124c9ab69b26c92737762acfeaf31b0707018b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "19dc6f0f1b9999fe43426d8252124c9ab69b26c92737762acfeaf31b0707018b",
+      "translation_sha256": "7b2ca3641a6cef7b6b174bb729ba1991179ecb513660ccf378b230d0fa306061",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:11 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Zechariah 2:11 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "a9b0115880f4491d481c775755eab85d9cff554d7338778e17871e5b5798ecfc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a9b0115880f4491d481c775755eab85d9cff554d7338778e17871e5b5798ecfc",
+      "translation_sha256": "011637d10f84b24e46e651bb8f57d9ca91aa43e9bf4cbe0f0d4b082b1c50bdbd",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:12 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Zechariah 2:12 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "acfd5e9b14fe4f1fc29be4216254f9244697c0b632297bf24238b81c7e0d5e55"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "acfd5e9b14fe4f1fc29be4216254f9244697c0b632297bf24238b81c7e0d5e55",
+      "translation_sha256": "42825eec789cb6a71f5f06e6266bd182b10fa89e55d254738d3a02bb74767fda",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:13 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Zechariah 2:13 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "d81e7e7531f6d3d4bc53401b03dee562f35c02f3f257b460c22d6947ad42dcf2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d81e7e7531f6d3d4bc53401b03dee562f35c02f3f257b460c22d6947ad42dcf2",
+      "translation_sha256": "dbcae8e17545df8ddcf03dbefadb56003c9c5bf0a79ef72f501b5ece0048458d",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:14 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Zechariah 2:14 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "57f15c39f30502fa918033f26d4a25421719ed5876f12f2e2820bfa3fec4589b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "57f15c39f30502fa918033f26d4a25421719ed5876f12f2e2820bfa3fec4589b",
+      "translation_sha256": "8bd410e48e95fcf322712e9aa02eecf59686481bf52bed6ada39285b885fb983",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:15 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Zechariah 2:15 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "5028df65fd58cef3cabfeb3e9909dec9440ee7fd48652683390b71e8396c9c3e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5028df65fd58cef3cabfeb3e9909dec9440ee7fd48652683390b71e8396c9c3e",
+      "translation_sha256": "847c4d9a3d4df5e6a7a8c23f953de7415711b7944ae5e6a6e02f47c9cfe1a719",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:16 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Zechariah 2:16 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "21729a9f8e77efb178c19605f697ea4c8b2e046fbe7589bf68f553eb9d233669"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "21729a9f8e77efb178c19605f697ea4c8b2e046fbe7589bf68f553eb9d233669",
+      "translation_sha256": "2dc805e023aa5a6fa301a94eb637398adfa0c78d628760fb23ab0eb783a47e00",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 2:17 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "Zechariah 2:17 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "247698cec9e5cd4972ba8ade6d7a3b0dfb69cbdb96e23dd0590884863b6b39e0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "247698cec9e5cd4972ba8ade6d7a3b0dfb69cbdb96e23dd0590884863b6b39e0",
+      "translation_sha256": "4941c980ce3765767af270d9aa208bebcc42fa07fe2a9aeb980c065d8817f002",
+      "tsw_blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Zechariah 3:1",
+          "segment_mode": "whole",
+          "sha256": "42c695312472fd2a4b6296b20d5101a2a9714a88fbede3ed59fa833e778f7e6a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "42c695312472fd2a4b6296b20d5101a2a9714a88fbede3ed59fa833e778f7e6a",
+      "translation_sha256": "5908754ea5b23e06ad2ec9e817cf84a42435ff588008fd060c3d5158284846f1",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Zechariah 3:2",
+          "segment_mode": "whole",
+          "sha256": "3bd12b2482f3ea30c258d3b373f6335c8bc0ebb4b4a6eace196523d170a756bd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3bd12b2482f3ea30c258d3b373f6335c8bc0ebb4b4a6eace196523d170a756bd",
+      "translation_sha256": "d8b11ee1218cb50ebfe1ef1f1acf02bcd799f6ea8be1f7c41ab57bc732e5352d",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Zechariah 3:3",
+          "segment_mode": "whole",
+          "sha256": "b7346b002c5c9a6530f62a75d3ef0d2282460cbf70aa7a1936235a46d6ef17ff"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b7346b002c5c9a6530f62a75d3ef0d2282460cbf70aa7a1936235a46d6ef17ff",
+      "translation_sha256": "fdd76e9007c1d61b44b4026d6246d286a184f736dcc4ac304f42820d3cdea3bf",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Zechariah 3:4",
+          "segment_mode": "whole",
+          "sha256": "70b46949f157f293e85fd42399d2a588790b5810f5567e5f7074113ebf33a76b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "70b46949f157f293e85fd42399d2a588790b5810f5567e5f7074113ebf33a76b",
+      "translation_sha256": "e39a91f860ae880ba366ba457f21f09d01faf531160058b0e9244702347601a1",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Zechariah 3:5",
+          "segment_mode": "whole",
+          "sha256": "5baa73728d320b3abd54f46a42cfc177ca18f6d27e08e176f91028f7c6af8230"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5baa73728d320b3abd54f46a42cfc177ca18f6d27e08e176f91028f7c6af8230",
+      "translation_sha256": "a51a10773de7a38713febb7043d136927b15d62e44a31f8e42406586eed505b4",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Zechariah 3:6",
+          "segment_mode": "whole",
+          "sha256": "f0149b19deb441d65b4dfadcbba43b0dd38ff608cc2310953f548eaa4be902b8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f0149b19deb441d65b4dfadcbba43b0dd38ff608cc2310953f548eaa4be902b8",
+      "translation_sha256": "81df815a9c8d65651d59458ea12dc95b55837ae5294108c8de5673452434c4aa",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Zechariah 3:7",
+          "segment_mode": "whole",
+          "sha256": "df26004d7ce536b5eff3162743aa17f0fc4442a2d64ba0d03ef75bc6ca02e307"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "df26004d7ce536b5eff3162743aa17f0fc4442a2d64ba0d03ef75bc6ca02e307",
+      "translation_sha256": "0652f3211bedcf0ce6f5c7cf81264c0cda59871675c6d92c6ae95d296c835dac",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Zechariah 3:8",
+          "segment_mode": "whole",
+          "sha256": "c2eba73ae7bc2c69d99afe982787b4636a90b7457a8c4c3e791639aef6a21595"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c2eba73ae7bc2c69d99afe982787b4636a90b7457a8c4c3e791639aef6a21595",
+      "translation_sha256": "970ffa7e9cc4d4c1fc3b2c0688700e517740536d2ee41ed633562d848ad12794",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Zechariah 3:9",
+          "segment_mode": "whole",
+          "sha256": "efde95c7b90312c87149db4b7c2c4f0446f543bfc8480e7e3bd472e5c8c45898"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "efde95c7b90312c87149db4b7c2c4f0446f543bfc8480e7e3bd472e5c8c45898",
+      "translation_sha256": "cb2235bb13685a4a0116986b5951b05653d601db560998ff0b39d4185a4fdeb1",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Zechariah 3:10",
+          "segment_mode": "whole",
+          "sha256": "1a67b4b2219528b13a736b0fe91329f41fb60413d92a7b33cc061f4eac8fa1d7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1a67b4b2219528b13a736b0fe91329f41fb60413d92a7b33cc061f4eac8fa1d7",
+      "translation_sha256": "4624e8c23b546f90d4d5dbe1583c2eb351a3f796498088c104f753da9cfa3fe0",
+      "tsw_blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:1",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "Zechariah 4:1",
+          "segment_mode": "whole",
+          "sha256": "88a893501cc44e31d4948c28f546ee7ef89e3801b426c1231879ccd4965fc53e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "88a893501cc44e31d4948c28f546ee7ef89e3801b426c1231879ccd4965fc53e",
+      "translation_sha256": "7dc523610768f1c6d7363ecfd8356cdb8b4bb0674073614cce302371dc14fabe",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:2",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "Zechariah 4:2",
+          "segment_mode": "whole",
+          "sha256": "8fad0f9e79d62aa040281cbb8dd3b755da5fb13ad77f607f21172013fd4d4142"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8fad0f9e79d62aa040281cbb8dd3b755da5fb13ad77f607f21172013fd4d4142",
+      "translation_sha256": "d75dc0b71f4e68ef9a7e00a3b0a1f82ae70039c6b5dba7f0f6a8fad7fb114ff9",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:3",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "Zechariah 4:3",
+          "segment_mode": "whole",
+          "sha256": "6cc1defe4747d0815b76bcb3c43d6709f40defd1fdfd93b3dbd2fc665d361de0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6cc1defe4747d0815b76bcb3c43d6709f40defd1fdfd93b3dbd2fc665d361de0",
+      "translation_sha256": "5806e997557d7f3430d5570d465a535099ad0901ef3d1d785c9509dd0b48e26b",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:4",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "Zechariah 4:4",
+          "segment_mode": "whole",
+          "sha256": "59bcc14a2b05635fc9a503f7439884fc6239ac01ddf65dca0b5d5f0959618b9d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "59bcc14a2b05635fc9a503f7439884fc6239ac01ddf65dca0b5d5f0959618b9d",
+      "translation_sha256": "260ac38880140a66e0bb61dd09d9e0b1b410e47841745ac290f11fd92cd904e0",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:5",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "Zechariah 4:5",
+          "segment_mode": "whole",
+          "sha256": "deb5fa959680649e2d64e499f8d50376194aed2c45ae8f6ac92c805c9746280c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "deb5fa959680649e2d64e499f8d50376194aed2c45ae8f6ac92c805c9746280c",
+      "translation_sha256": "d2f8ea69f0c343740d7627d8d2f137b670b0a2ba7d590f33b8c33595eac76605",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:6",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "Zechariah 4:6",
+          "segment_mode": "whole",
+          "sha256": "c21e9032b716a23ce0bf3bd978073c54ee7d086e33f1d3af536b2d33bd7fc436"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c21e9032b716a23ce0bf3bd978073c54ee7d086e33f1d3af536b2d33bd7fc436",
+      "translation_sha256": "0be97f87b01758c669396c63e551cf7a31f284d3c4a2eb012efca9347ae967fe",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:7",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "Zechariah 4:7",
+          "segment_mode": "whole",
+          "sha256": "53cf07c3bd2815ed321ba5546bc9cfb41ea1875b08a7dbf3fb5a586f2d7bd6d7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "53cf07c3bd2815ed321ba5546bc9cfb41ea1875b08a7dbf3fb5a586f2d7bd6d7",
+      "translation_sha256": "d1f49bbf92f51cc90c781ff17b4b023e0328b8c7e28d22f0a2b6b116d1803d41",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:8",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "Zechariah 4:8",
+          "segment_mode": "whole",
+          "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6",
+      "translation_sha256": "17c4fe23dc26d03316b1c1386cd252be6f0dd4c21d84ab75720b826569f43f33",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:9",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "Zechariah 4:9",
+          "segment_mode": "whole",
+          "sha256": "2608c74a57cedf8ec99107beee3d579c3e8d7fdd45bebe967c84fb0fcbf25b18"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2608c74a57cedf8ec99107beee3d579c3e8d7fdd45bebe967c84fb0fcbf25b18",
+      "translation_sha256": "82dc82e425dbd5d56e4294d10282b43e72811c2eeb7e2b01d71ff31e8ba2d684",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:10",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "Zechariah 4:10",
+          "segment_mode": "whole",
+          "sha256": "9d4f4b29402e73f49345b7c947d922f1718e452346c8fd705d6d242e06493943"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9d4f4b29402e73f49345b7c947d922f1718e452346c8fd705d6d242e06493943",
+      "translation_sha256": "5fa11cf5b5d8675567412ceb3327ec583a6e7f1e414c0e3a8bdd471a956a50ba",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:11",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "Zechariah 4:11",
+          "segment_mode": "whole",
+          "sha256": "5652f387ab358ca0872a7f09c5c23c03fcd885685ea7df6ad78cd8d37d264b53"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5652f387ab358ca0872a7f09c5c23c03fcd885685ea7df6ad78cd8d37d264b53",
+      "translation_sha256": "81541b42c6330a8280090df3fbddd67690b2bf9ae86e48c518a9b32bcaa6974e",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:12",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "Zechariah 4:12",
+          "segment_mode": "whole",
+          "sha256": "2ca73400a25b5c966be2eb69d41b57a2609a9abf331d4772ab652659c7571f27"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2ca73400a25b5c966be2eb69d41b57a2609a9abf331d4772ab652659c7571f27",
+      "translation_sha256": "95fb39c832061f08a536ea02fe923db2d303126d7f50b0af323a83ceba56c78b",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:13",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "Zechariah 4:13",
+          "segment_mode": "whole",
+          "sha256": "db007b7816ef9815cf8a1adb8d9db885432c3b55db255b60fff635fb767a4382"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "db007b7816ef9815cf8a1adb8d9db885432c3b55db255b60fff635fb767a4382",
+      "translation_sha256": "d5e1572a2779b0af78bcd439381ed96541b3e0f69a68702186b0416f30d7cf54",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 4:14",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 14,
+          "source_ref": "Zechariah 4:14",
+          "segment_mode": "whole",
+          "sha256": "d7f2a1b3c979d94edad6ef451e648730915ae3ca010e92c156edce20cd23dc65"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d7f2a1b3c979d94edad6ef451e648730915ae3ca010e92c156edce20cd23dc65",
+      "translation_sha256": "f7fc6b27e9b028b897bbaab70d743815cf6381edacda86b5ecd73bab5b0d3bf9",
+      "tsw_blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:1",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "source_ref": "Zechariah 5:1",
+          "segment_mode": "whole",
+          "sha256": "d45a147c8c22d7b4dc776e3f6380a4b369047a84452c694a4ebc528b9859d90a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d45a147c8c22d7b4dc776e3f6380a4b369047a84452c694a4ebc528b9859d90a",
+      "translation_sha256": "16c0adf4c9bcb6f44bde820f0674ec03005f96cd7300541a74c4f731ba8dffb8",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:2",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 2,
+          "source_ref": "Zechariah 5:2",
+          "segment_mode": "whole",
+          "sha256": "d63db012bdd383ed8f0f947a5ee2a89ecab0bacbcae08a799b81c45e2c72e4bb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d63db012bdd383ed8f0f947a5ee2a89ecab0bacbcae08a799b81c45e2c72e4bb",
+      "translation_sha256": "3a16a39e2fef96b2bd601224e9c0637ac194ea1289a450e37455e97d1e50e4d8",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:3",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 3,
+          "source_ref": "Zechariah 5:3",
+          "segment_mode": "whole",
+          "sha256": "af8144f13100ed48c5b104a727acdfbde49c855ceb40e0cf2c43e5c50070c963"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af8144f13100ed48c5b104a727acdfbde49c855ceb40e0cf2c43e5c50070c963",
+      "translation_sha256": "02a5fe111163d567d6a72902b471040b92a1be1afd78b713c27dc3f39371c4da",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:4",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 4,
+          "source_ref": "Zechariah 5:4",
+          "segment_mode": "whole",
+          "sha256": "1b4975dc56b3c4973c947a20b0003818f602a85019d318f86181deaa74902963"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1b4975dc56b3c4973c947a20b0003818f602a85019d318f86181deaa74902963",
+      "translation_sha256": "8d78b5ad9a727df0dcb616f970a8e5b4657e8aa2d906a4b08208c3dc1cfe9273",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:5",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "source_ref": "Zechariah 5:5",
+          "segment_mode": "whole",
+          "sha256": "baab2024df628405fd0f6e2b07de377d1bda3575d1b6dcc1363e4a6577ed7c61"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "baab2024df628405fd0f6e2b07de377d1bda3575d1b6dcc1363e4a6577ed7c61",
+      "translation_sha256": "e5e3efff62345946e56f354ef351326b1987d332ed4ed2d7b96c8ec9af7724fc",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:6",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 6,
+          "source_ref": "Zechariah 5:6",
+          "segment_mode": "whole",
+          "sha256": "07a6de34bda381d974d26ba6a1199b2887db93c1a4b49d272ebba84fcccea01e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "07a6de34bda381d974d26ba6a1199b2887db93c1a4b49d272ebba84fcccea01e",
+      "translation_sha256": "4469f0ae4349dfb9f647e68b73bc74839a113ef996332d66ec750f237b73f0bf",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:7",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 7,
+          "source_ref": "Zechariah 5:7",
+          "segment_mode": "whole",
+          "sha256": "7c4faee8092e650a3ca10f0554a628203dfa33eb53973f4c52519e626f0bcf1e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7c4faee8092e650a3ca10f0554a628203dfa33eb53973f4c52519e626f0bcf1e",
+      "translation_sha256": "ad1ffaeb2511e9b17d22b3856cbe3b997eabd4f805e4dd6def366f24e98db92d",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:8",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 8,
+          "source_ref": "Zechariah 5:8",
+          "segment_mode": "whole",
+          "sha256": "3bb919e26ec8f8bff20df18ee5c4a247b2bb4e9778ad5cc7cc534a536370e5ae"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3bb919e26ec8f8bff20df18ee5c4a247b2bb4e9778ad5cc7cc534a536370e5ae",
+      "translation_sha256": "41398657138dd4de4ca861ce5cd75f03703a8c953733116417776e1fa86a3494",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:9",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 9,
+          "source_ref": "Zechariah 5:9",
+          "segment_mode": "whole",
+          "sha256": "50dc037a859a00cbba9bf866e73ffdeb2466a585e3aec4b112f0dcc853de8f19"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "50dc037a859a00cbba9bf866e73ffdeb2466a585e3aec4b112f0dcc853de8f19",
+      "translation_sha256": "1be015228b3c8138f381d37ff3f108c5a7b79ce65fd7f348870be22f56c5fb8b",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:10",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 10,
+          "source_ref": "Zechariah 5:10",
+          "segment_mode": "whole",
+          "sha256": "b8ecabe4877822d79c803ea712437a69236095e32b97d771883335026ae24e25"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b8ecabe4877822d79c803ea712437a69236095e32b97d771883335026ae24e25",
+      "translation_sha256": "b9a232c12cf59613c09ff4257e1a4fa8dddf015315abde9520ad3d419d15cc12",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 5:11",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 11,
+          "source_ref": "Zechariah 5:11",
+          "segment_mode": "whole",
+          "sha256": "30d448c09ea759ec73c2271df4fc41e3c4c07f297f6e1221f3d8a0153ebcbf5b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "30d448c09ea759ec73c2271df4fc41e3c4c07f297f6e1221f3d8a0153ebcbf5b",
+      "translation_sha256": "31369cd4c798d73a83ad7e81bd28247a79c2985943823f33f09a164d1b4041d8",
+      "tsw_blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:1",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "source_ref": "Zechariah 6:1",
+          "segment_mode": "whole",
+          "sha256": "b4fdce9dfbc0aa330be3ccb5fa2f89580cca52ee9d1549453771f5632d18d3d9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b4fdce9dfbc0aa330be3ccb5fa2f89580cca52ee9d1549453771f5632d18d3d9",
+      "translation_sha256": "99af2bf81dd09cda464b004cb39fc34c45bd0e555623ef93460abc88f6c64769",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:2",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 2,
+          "source_ref": "Zechariah 6:2",
+          "segment_mode": "whole",
+          "sha256": "2a906575a0c17ea29139f534828e5f842258f8400b3eb685447bc3da2e285975"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2a906575a0c17ea29139f534828e5f842258f8400b3eb685447bc3da2e285975",
+      "translation_sha256": "3dce4b48ad0b210290ff831331bf0315baa576f63d80b1c97c34db2dbf6d3800",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:3",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 3,
+          "source_ref": "Zechariah 6:3",
+          "segment_mode": "whole",
+          "sha256": "45f9ec87ec2c1057c778904e882a07fb9a5a3c772f82e3e073b8647195e6f44d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "45f9ec87ec2c1057c778904e882a07fb9a5a3c772f82e3e073b8647195e6f44d",
+      "translation_sha256": "9f1c7700280f1ac08ab9a53933fab8e0dd7f3df8f4333b3a97920b57b33fd264",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:4",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 4,
+          "source_ref": "Zechariah 6:4",
+          "segment_mode": "whole",
+          "sha256": "5aec595706c828662b886cd8f0cf81c5647f2218278a1b3003ad44c164069e9e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5aec595706c828662b886cd8f0cf81c5647f2218278a1b3003ad44c164069e9e",
+      "translation_sha256": "260ac38880140a66e0bb61dd09d9e0b1b410e47841745ac290f11fd92cd904e0",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:5",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 5,
+          "source_ref": "Zechariah 6:5",
+          "segment_mode": "whole",
+          "sha256": "6b0f2908c5f023aea628f6220d1cb29300ecd7a2fa4287f342edca3a0a464904"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6b0f2908c5f023aea628f6220d1cb29300ecd7a2fa4287f342edca3a0a464904",
+      "translation_sha256": "775560ee04e4375cb71e8d95082ed72abaf119102f1b477a6aae0b917ad5ad44",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:6",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 6,
+          "source_ref": "Zechariah 6:6",
+          "segment_mode": "whole",
+          "sha256": "f12448340b78ab1b5d2ce93bbb55c9027d84da6af60fec5548fc2698e880c328"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f12448340b78ab1b5d2ce93bbb55c9027d84da6af60fec5548fc2698e880c328",
+      "translation_sha256": "a9fb80ae8d76f0b16b8efe6c3ff5cba4e9b12558238b291545ee488e83d03d6d",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:7",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 7,
+          "source_ref": "Zechariah 6:7",
+          "segment_mode": "whole",
+          "sha256": "dd081bea360cdfa87c72c64ed8ef66b56ffcbfe38b3df6bc0188e537867e4221"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dd081bea360cdfa87c72c64ed8ef66b56ffcbfe38b3df6bc0188e537867e4221",
+      "translation_sha256": "1a956dc24f14ccee8bb886ada0e87d408177e45fead6a25afed3981e9bcda10b",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:8",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 8,
+          "source_ref": "Zechariah 6:8",
+          "segment_mode": "whole",
+          "sha256": "4593c3ff3f89b6e7bd530ae6dd07d7edf3815b70bc73f56d4c169e5aa8a10282"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4593c3ff3f89b6e7bd530ae6dd07d7edf3815b70bc73f56d4c169e5aa8a10282",
+      "translation_sha256": "7473040de1e309d10077ee8708990babb4f7a280f2629ba045a7c1f5dad8242a",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:9",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 9,
+          "source_ref": "Zechariah 6:9",
+          "segment_mode": "whole",
+          "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6",
+      "translation_sha256": "17c4fe23dc26d03316b1c1386cd252be6f0dd4c21d84ab75720b826569f43f33",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Retain the crown and Branch symbolism without silently resolving the text's priestly and royal tensions."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:10",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 10,
+          "source_ref": "Zechariah 6:10",
+          "segment_mode": "whole",
+          "sha256": "de0a6a5d87bc8b1a5d9b2907e07155cd926d4f2f04dd7e760fcc4a455340ac07"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "de0a6a5d87bc8b1a5d9b2907e07155cd926d4f2f04dd7e760fcc4a455340ac07",
+      "translation_sha256": "9660ee98da17dfe7c872ad0bc907bd64b5838ed6acd98f83da1e2b2d650a27be",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Retain the crown and Branch symbolism without silently resolving the text's priestly and royal tensions."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:11",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 11,
+          "source_ref": "Zechariah 6:11",
+          "segment_mode": "whole",
+          "sha256": "62cef4e3983a710c10da24f38e4071af30f3f4f2c8635fd8149bc9203080becc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "62cef4e3983a710c10da24f38e4071af30f3f4f2c8635fd8149bc9203080becc",
+      "translation_sha256": "76c1cccac6d773a213fe14bf7660ece04bf00451e8fda16be58e0b78b0f2b2d4",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Retain the crown and Branch symbolism without silently resolving the text's priestly and royal tensions."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:12",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 12,
+          "source_ref": "Zechariah 6:12",
+          "segment_mode": "whole",
+          "sha256": "b02e214339d3a7977917e78cc4bb43ecf61617cf003792dfb270ab1e043ffeca"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b02e214339d3a7977917e78cc4bb43ecf61617cf003792dfb270ab1e043ffeca",
+      "translation_sha256": "7b73b4d5ee86035b6ac4f4276a83f8f898ad0f25fda11191f743d0983540f93f",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Retain the crown and Branch symbolism without silently resolving the text's priestly and royal tensions."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:13",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 13,
+          "source_ref": "Zechariah 6:13",
+          "segment_mode": "whole",
+          "sha256": "5b4741dacd78b0365e5bbf53632ac424cccda8cbc48dd3698c31a539a09edfd9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5b4741dacd78b0365e5bbf53632ac424cccda8cbc48dd3698c31a539a09edfd9",
+      "translation_sha256": "c65ac7e4c2deaea8743cf72dd444a1e66c3186f3beb5cd49c19e3bea12020050",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Retain the crown and Branch symbolism without silently resolving the text's priestly and royal tensions."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:14",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 14,
+          "source_ref": "Zechariah 6:14",
+          "segment_mode": "whole",
+          "sha256": "3022071fa7cb4e29ab5c663a955de07a31eeeb9b4da7df793899ac24051500ce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3022071fa7cb4e29ab5c663a955de07a31eeeb9b4da7df793899ac24051500ce",
+      "translation_sha256": "dfd4c341c9c860bd539f18ba3e3a2f3b0fb39a6f625419699e2718e7262026d9",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Retain the crown and Branch symbolism without silently resolving the text's priestly and royal tensions."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 6:15",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 15,
+          "source_ref": "Zechariah 6:15",
+          "segment_mode": "whole",
+          "sha256": "3cfb571476b3c08aeaff8a51be61c6c5aa7eaa7e9684e839fb80e8b15d1f0042"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3cfb571476b3c08aeaff8a51be61c6c5aa7eaa7e9684e839fb80e8b15d1f0042",
+      "translation_sha256": "8d914db4bdfeefb6222e17a2255a6e7b3d99f0c5c26240d6294529e3fb203a57",
+      "tsw_blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9",
+      "curated_decisions": [
+        "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+        "Retain the crown and Branch symbolism without silently resolving the text's priestly and royal tensions."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:1",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "source_ref": "Zechariah 7:1",
+          "segment_mode": "whole",
+          "sha256": "bbc24f6372ef67cce2bfd8fabfcdeaa36bb73b876a0941fb864515448365c0ac"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bbc24f6372ef67cce2bfd8fabfcdeaa36bb73b876a0941fb864515448365c0ac",
+      "translation_sha256": "f5647b2fc0869ae9ad22eb2866e47e5da0f98f11728b705256c7c244b0b0b10c",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:2",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 2,
+          "source_ref": "Zechariah 7:2",
+          "segment_mode": "whole",
+          "sha256": "1290949cf3d3f81ed84eca122c01fbe14af6983e2ce8e76aa5cc9f7ea74b8aeb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1290949cf3d3f81ed84eca122c01fbe14af6983e2ce8e76aa5cc9f7ea74b8aeb",
+      "translation_sha256": "e385462c15f3f0683630b876e8e7ef054a1c8d45659c76641e4cfe4d61fa0f30",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:3",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 3,
+          "source_ref": "Zechariah 7:3",
+          "segment_mode": "whole",
+          "sha256": "6e4d42dc55ec08d0395ed120ee248b218040edbbc5d212d3e5852701043591dc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6e4d42dc55ec08d0395ed120ee248b218040edbbc5d212d3e5852701043591dc",
+      "translation_sha256": "14cc1d6406b1b2668e8174968fa28f48ab0adc9575c54cf5cd93b008a75ea66c",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:4",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 4,
+          "source_ref": "Zechariah 7:4",
+          "segment_mode": "whole",
+          "sha256": "cda4ab31e797bc5550088c14736594847911de67e31e23de072f9b50dac46c52"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cda4ab31e797bc5550088c14736594847911de67e31e23de072f9b50dac46c52",
+      "translation_sha256": "7a46003184ccaa9fee7aeb7796564bbd1899437b778ff46878d2764d8862b9e4",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:5",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 5,
+          "source_ref": "Zechariah 7:5",
+          "segment_mode": "whole",
+          "sha256": "cc151447153983d7eceb454200b2533314ce67ed5994cb60419b364357a986fa"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cc151447153983d7eceb454200b2533314ce67ed5994cb60419b364357a986fa",
+      "translation_sha256": "ecd99bef625ea5715253cf7bb069a34a881a17a86c973ebe5070967150a22172",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:6",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 6,
+          "source_ref": "Zechariah 7:6",
+          "segment_mode": "whole",
+          "sha256": "a4ddfeab4f42fa01b3bdd94bed49a4241d4c8d43a7dbdf8971e401b98394e3fc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a4ddfeab4f42fa01b3bdd94bed49a4241d4c8d43a7dbdf8971e401b98394e3fc",
+      "translation_sha256": "04dad552707139296c5924ef0d8ba15860466fdbc0476ab69afb9f36e37c8710",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:7",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 7,
+          "source_ref": "Zechariah 7:7",
+          "segment_mode": "whole",
+          "sha256": "a8b751027cb0d7927444f9623658996d88dbb2f21084b4d12423fd137cd49e32"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a8b751027cb0d7927444f9623658996d88dbb2f21084b4d12423fd137cd49e32",
+      "translation_sha256": "f94c5e77458131a5a28d138b8ab09f73d0e036834844df7a330eb6ee54453796",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:8",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 8,
+          "source_ref": "Zechariah 7:8",
+          "segment_mode": "whole",
+          "sha256": "8aa2451310c3b7fd7e466b303338c3be2fbe60c03cb425da3969c10a8c7b645a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8aa2451310c3b7fd7e466b303338c3be2fbe60c03cb425da3969c10a8c7b645a",
+      "translation_sha256": "e70f70ca88fe7fc6597954f85b8d53f01f8d6c0bce09d2ae050d8b333da3e3b9",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:9",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 9,
+          "source_ref": "Zechariah 7:9",
+          "segment_mode": "whole",
+          "sha256": "bebc58b35eb8d7b609a6c8a5c2af00c623d82492a50db1bcff264219857b974f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bebc58b35eb8d7b609a6c8a5c2af00c623d82492a50db1bcff264219857b974f",
+      "translation_sha256": "1af5f5533966d448024ad51ba9d6c96fd285cd3a783e73174c3b4a209e5fb5c2",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:10",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 10,
+          "source_ref": "Zechariah 7:10",
+          "segment_mode": "whole",
+          "sha256": "515f89a71c182a9bb8a1668aa0944b615232118e7e6bcb05b6bda12a3518d267"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "515f89a71c182a9bb8a1668aa0944b615232118e7e6bcb05b6bda12a3518d267",
+      "translation_sha256": "866e9340333c14e325c14b4cdb041fc1a4daa8d8d9ebf61b1cb9fd056e485f0e",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:11",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 11,
+          "source_ref": "Zechariah 7:11",
+          "segment_mode": "whole",
+          "sha256": "873358fd34cdd21d292da51db3e7e7cab8865fb69b9009ef6100e15e67575aec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "873358fd34cdd21d292da51db3e7e7cab8865fb69b9009ef6100e15e67575aec",
+      "translation_sha256": "039ef6822a88366f8d47a4f716692a9b8e1e09b2900a8d8348ff7b5aec20985c",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:12",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 12,
+          "source_ref": "Zechariah 7:12",
+          "segment_mode": "whole",
+          "sha256": "3f7e309f1043b6bca9cb7d914e59016e10df5cfbdda84d270f76f18aa9506026"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3f7e309f1043b6bca9cb7d914e59016e10df5cfbdda84d270f76f18aa9506026",
+      "translation_sha256": "1e053c90ff0c6e2105d6452762ca2964f52120e6ab53c815a95885f503d2b6ea",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:13",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 13,
+          "source_ref": "Zechariah 7:13",
+          "segment_mode": "whole",
+          "sha256": "febccbdd95643729479ad6b67b6ca5f490d0fae72bbada626481b03c9f3fb019"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "febccbdd95643729479ad6b67b6ca5f490d0fae72bbada626481b03c9f3fb019",
+      "translation_sha256": "b79bae92bf1bc373881648af629d5d096797074a291ab9d285559c4cc895ae54",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 7:14",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 14,
+          "source_ref": "Zechariah 7:14",
+          "segment_mode": "whole",
+          "sha256": "cff81ffaa663b5f2812d5dbc5ec14589709d11b190944548f02e2e3256a7e8cd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cff81ffaa663b5f2812d5dbc5ec14589709d11b190944548f02e2e3256a7e8cd",
+      "translation_sha256": "f59e1c9a731ec0aacdd68c4aa1591c81fc04a2999b1cd9f5e066b09d1b7c101e",
+      "tsw_blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:1",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "source_ref": "Zechariah 8:1",
+          "segment_mode": "whole",
+          "sha256": "bb28d45808a8ae0a2fc4d0abb1cadeefd83b8fc377beb54d373d1e355be8d9e5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bb28d45808a8ae0a2fc4d0abb1cadeefd83b8fc377beb54d373d1e355be8d9e5",
+      "translation_sha256": "65743e52ec16d7d476d144c6f44029614373ffed1b2f4758f4469392a58c92ac",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:2",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 2,
+          "source_ref": "Zechariah 8:2",
+          "segment_mode": "whole",
+          "sha256": "e07e40646a446ec7e58518f6647540db54efd04bcd7e39bd33134702a5c139a4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e07e40646a446ec7e58518f6647540db54efd04bcd7e39bd33134702a5c139a4",
+      "translation_sha256": "f4f2a8a09ab6165299ec3c359f986452e38210763d78f316c588b7abf5ab3c05",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:3",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 3,
+          "source_ref": "Zechariah 8:3",
+          "segment_mode": "whole",
+          "sha256": "4dfa8465d0af643d2ed3bc3e36a0dceabaf71bd31784be8068409955129ae47d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4dfa8465d0af643d2ed3bc3e36a0dceabaf71bd31784be8068409955129ae47d",
+      "translation_sha256": "88f7832fcdb1c976b85df054687d1b54c71a157ed037e2ad62c86f0d330580cd",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:4",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 4,
+          "source_ref": "Zechariah 8:4",
+          "segment_mode": "whole",
+          "sha256": "711f84c567aa2a0f562f8afe7f933f8107c5f8e2628e22f91acdf1a1151b2912"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "711f84c567aa2a0f562f8afe7f933f8107c5f8e2628e22f91acdf1a1151b2912",
+      "translation_sha256": "3659321a1c2f1894bf5445b4ca50acd1e950305711632f5c296d9d277a566245",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:5",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 5,
+          "source_ref": "Zechariah 8:5",
+          "segment_mode": "whole",
+          "sha256": "7c229585625aa50897c9cb96a22f769247da9e6d1e6b2230bf6b606e86d4daae"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7c229585625aa50897c9cb96a22f769247da9e6d1e6b2230bf6b606e86d4daae",
+      "translation_sha256": "e8927220a60b810fc277bc6d00b7aa81999588cb4afb4f0859a5cb6456e15690",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:6",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 6,
+          "source_ref": "Zechariah 8:6",
+          "segment_mode": "whole",
+          "sha256": "4137c8b953b00c6931aecb6d01fedb3f98d20e67adcbc33e066534d1528baf8f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4137c8b953b00c6931aecb6d01fedb3f98d20e67adcbc33e066534d1528baf8f",
+      "translation_sha256": "2665e6fff54d1dedc02deb467cbcce0cae2428dcc0b1f4db9810d70829e59d24",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:7",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 7,
+          "source_ref": "Zechariah 8:7",
+          "segment_mode": "whole",
+          "sha256": "4154f979e0343d3a00f3ae6fcad437afe2afd3e3411330a3ba9a73ecc11b44f5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4154f979e0343d3a00f3ae6fcad437afe2afd3e3411330a3ba9a73ecc11b44f5",
+      "translation_sha256": "ba60c79f1dcd460baf7c1835e490f301e3af81452ca2981d2e1eacd5427e49a0",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:8",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 8,
+          "source_ref": "Zechariah 8:8",
+          "segment_mode": "whole",
+          "sha256": "aa7ca0aec39803d998bfc0c018ca5febdaec42abb1644bbd21752cabdd08036b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aa7ca0aec39803d998bfc0c018ca5febdaec42abb1644bbd21752cabdd08036b",
+      "translation_sha256": "6dd2fae1da3f57e6ff93621a5abb4193b57dee89614ccfa521cd6e08ca35c759",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:9",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 9,
+          "source_ref": "Zechariah 8:9",
+          "segment_mode": "whole",
+          "sha256": "9750ccfe7b547d50915247aac6e5e04e4092aa927283ff14414c239e59288505"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9750ccfe7b547d50915247aac6e5e04e4092aa927283ff14414c239e59288505",
+      "translation_sha256": "ce8041c8621b877b1f01ece9069c8daa28304c5b9b5acb627da0a85881dd68b0",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:10",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 10,
+          "source_ref": "Zechariah 8:10",
+          "segment_mode": "whole",
+          "sha256": "04b3ebdea5b8d6fe6c8e33f2a70678cce341ea6093c78a05cc86b4a135a613f4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "04b3ebdea5b8d6fe6c8e33f2a70678cce341ea6093c78a05cc86b4a135a613f4",
+      "translation_sha256": "ebc3375afd99421e6026c204d9ad2deaada8ea8b749a8a37a1cb352a4b25d9dc",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:11",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 11,
+          "source_ref": "Zechariah 8:11",
+          "segment_mode": "whole",
+          "sha256": "05efc94d07d02259264b7f3dbfc04d96ec0813cd56c1d1e38dc58f1612f399fe"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "05efc94d07d02259264b7f3dbfc04d96ec0813cd56c1d1e38dc58f1612f399fe",
+      "translation_sha256": "1a591e0664e882ace19f5dea9e4a63066f58f147158b8c6d30fb9bb04f3db357",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:12",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 12,
+          "source_ref": "Zechariah 8:12",
+          "segment_mode": "whole",
+          "sha256": "620cb210e2719a4d5a8a8522c5ee7e9cecfcfb517ffccea1fcccfb7e0defa49a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "620cb210e2719a4d5a8a8522c5ee7e9cecfcfb517ffccea1fcccfb7e0defa49a",
+      "translation_sha256": "942eedfe00b55681d5a57ad1ec1a1ab534f231d0244bea6d84c449d3930b4f9c",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:13",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 13,
+          "source_ref": "Zechariah 8:13",
+          "segment_mode": "whole",
+          "sha256": "65f0c3148159d748359ca648a5ebec969a86a45c33ae94d5823db757fe6f5041"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "65f0c3148159d748359ca648a5ebec969a86a45c33ae94d5823db757fe6f5041",
+      "translation_sha256": "3ef5dedd8ce1e7fe4dd5107b9a498b9d8178f797aea6e6f24a615b7a72f0ba6a",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:14",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 14,
+          "source_ref": "Zechariah 8:14",
+          "segment_mode": "whole",
+          "sha256": "6703024a2777ccd6bb4bcc6376fbf9804f7a34072b60d01f30e1f357c2ce7751"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6703024a2777ccd6bb4bcc6376fbf9804f7a34072b60d01f30e1f357c2ce7751",
+      "translation_sha256": "ab9a295b24b67f4d8c4173c09a96a8d8695115769b31e7d0d1deed6b3f565d32",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:15",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 15,
+          "source_ref": "Zechariah 8:15",
+          "segment_mode": "whole",
+          "sha256": "93021ba1dbf7b1c38a731eeb9a570202b757bfd016b88f043bee13be10f610bb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "93021ba1dbf7b1c38a731eeb9a570202b757bfd016b88f043bee13be10f610bb",
+      "translation_sha256": "c23eb19cfddbb6d9e57a498334bf0b5dd50caa0d6da4f5d47de1cf433df0e75f",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:16",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 16,
+          "source_ref": "Zechariah 8:16",
+          "segment_mode": "whole",
+          "sha256": "bf6339f0e641911d2e5dd89701edabdfe81fc5f78ff6e9c3ae8d978297391450"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bf6339f0e641911d2e5dd89701edabdfe81fc5f78ff6e9c3ae8d978297391450",
+      "translation_sha256": "5e308bf8aabd1914c3d79ad8dddb6e639b6d982d0dcfdeacfdf13dab67bec64a",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:17",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 17,
+          "source_ref": "Zechariah 8:17",
+          "segment_mode": "whole",
+          "sha256": "f3fefd4173118825c47516d2d3eb47d0a0951d5f039b5aab948c04cf2ca61919"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f3fefd4173118825c47516d2d3eb47d0a0951d5f039b5aab948c04cf2ca61919",
+      "translation_sha256": "23d63a6458613fd60c1474ca4378c11aa625e8e2b63187df829256407ce3a910",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:18",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 18,
+          "source_ref": "Zechariah 8:18",
+          "segment_mode": "whole",
+          "sha256": "cda4ab31e797bc5550088c14736594847911de67e31e23de072f9b50dac46c52"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cda4ab31e797bc5550088c14736594847911de67e31e23de072f9b50dac46c52",
+      "translation_sha256": "7a46003184ccaa9fee7aeb7796564bbd1899437b778ff46878d2764d8862b9e4",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:19",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 19,
+          "source_ref": "Zechariah 8:19",
+          "segment_mode": "whole",
+          "sha256": "30d6dcc72dad2df5cb0fda253649cba0dfb58807e953e05f98dea4ac382be88c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "30d6dcc72dad2df5cb0fda253649cba0dfb58807e953e05f98dea4ac382be88c",
+      "translation_sha256": "6e8905ba2a1d827002f4df404f9367b439cdab3e2165b3e7c9f568f57330f4d5",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:20",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 20,
+          "source_ref": "Zechariah 8:20",
+          "segment_mode": "whole",
+          "sha256": "2725c5df85209dc276199755d01be9edd504c7565e77995fe1c4858f6549a222"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2725c5df85209dc276199755d01be9edd504c7565e77995fe1c4858f6549a222",
+      "translation_sha256": "94cad15b969d17e3148d10c4dc5dba887c5cf7741a6a38d8a1f78b37db8bb6f1",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:21",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 21,
+          "source_ref": "Zechariah 8:21",
+          "segment_mode": "whole",
+          "sha256": "e9b9c87973bb1ec7bc4fabab903be7f59f739dcea4055c40688ecda5bd6a1028"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e9b9c87973bb1ec7bc4fabab903be7f59f739dcea4055c40688ecda5bd6a1028",
+      "translation_sha256": "9d333461821eed084a4ec56e3b12d217498626853beea053c005f627be54dab0",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:22",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 22,
+          "source_ref": "Zechariah 8:22",
+          "segment_mode": "whole",
+          "sha256": "0cfb4f83352c00d1916934675c20bcc2f2d1c548634f453690e20dcdbb990814"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0cfb4f83352c00d1916934675c20bcc2f2d1c548634f453690e20dcdbb990814",
+      "translation_sha256": "69588158ceae123c554c5899fddec7a2be7ff430cbdf3096b994445e3d81abb4",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 8:23",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 23,
+          "source_ref": "Zechariah 8:23",
+          "segment_mode": "whole",
+          "sha256": "07a29206c0869c74b3bf5625607e36bac49ab0c911b5dffc7932346308111737"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "07a29206c0869c74b3bf5625607e36bac49ab0c911b5dffc7932346308111737",
+      "translation_sha256": "ed05df6098cbd964dcae5b79b220947584e104c0eb360604fa5550547f1aa528",
+      "tsw_blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9",
+      "curated_decisions": [
+        "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 9:1",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "source_ref": "Zechariah 9:1",
+          "segment_mode": "whole",
+          "sha256": "3611a9d4dc986231500d4144cf86d7ce81ca05ff404e7fd706bff5a2e25f822d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3611a9d4dc986231500d4144cf86d7ce81ca05ff404e7fd706bff5a2e25f822d",
+      "translation_sha256": "d8f84f05b761f4196d1cdc1cebe80ebb19fc0d588b3e286dea77ba627e35e78d",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 9:2",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 2,
+          "source_ref": "Zechariah 9:2",
+          "segment_mode": "whole",
+          "sha256": "7fc268791f011b457c3f0cbc1bcc0069652450e2de99ec6205c25177b5dfc4a2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7fc268791f011b457c3f0cbc1bcc0069652450e2de99ec6205c25177b5dfc4a2",
+      "translation_sha256": "63a2bd85bd0d546dcc94b9dbdcaf47884ce208ff55b5870da9d9ac3d638d6185",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 9:3",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 3,
+          "source_ref": "Zechariah 9:3",
+          "segment_mode": "whole",
+          "sha256": "b0c1a6ba66366717323a4cb839e2549b0939d0de44ff8e80cca150731b42b5d3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b0c1a6ba66366717323a4cb839e2549b0939d0de44ff8e80cca150731b42b5d3",
+      "translation_sha256": "44e7f9bd04ce14601601ccf9fa4298d864fc6c7cff2f956e99a96b9274842579",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 9:4",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 4,
+          "source_ref": "Zechariah 9:4",
+          "segment_mode": "whole",
+          "sha256": "5c39527ed3c81a0d99aa28038baacdee988972f121c82c93a7a18ef5a9559396"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5c39527ed3c81a0d99aa28038baacdee988972f121c82c93a7a18ef5a9559396",
+      "translation_sha256": "01a5cc903ce882ed7b86ff8f097d5dc8fc9bda5c5d90361139d9e1d9e7f9b8df",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 9:5",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 5,
+          "source_ref": "Zechariah 9:5",
+          "segment_mode": "whole",
+          "sha256": "83fcb474bac427a9719891e63b7f90f4af1725f33b1c5be5d097e31373c7fa9b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "83fcb474bac427a9719891e63b7f90f4af1725f33b1c5be5d097e31373c7fa9b",
+      "translation_sha256": "05fe0d379efbf490e750d3e5f5497d90085473bdbda41b7ee2bcf3972c46561d",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 9:6",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 6,
+          "source_ref": "Zechariah 9:6",
+          "segment_mode": "whole",
+          "sha256": "4c7c004c0ff26c97226aabc5f5cf622add9b7551caff51922af369cf8a275f0d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4c7c004c0ff26c97226aabc5f5cf622add9b7551caff51922af369cf8a275f0d",
+      "translation_sha256": "7692164b554c1fbccec08dbe25ba87830af6a2a3113082935a7b6111cab0ab58",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Zechariah 9:7",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 7,
+          "source_ref": "Zechariah 9:7",
+          "segment_mode": "whole",
+          "sha256": "4e837f28fec38188c4a721b76ac82ed7bd4c6551f1621abf463d2da1cc6d6689"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4e837f28fec38188c4a721b76ac82ed7bd4c6551f1621abf463d2da1cc6d6689",
+      "translation_sha256": "373c0a482e0175e1ef0d4684cbf21f076dae218aec8972a1bffbb0a919c8bb15",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 9:8",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 8,
+          "source_ref": "Zechariah 9:8",
+          "segment_mode": "whole",
+          "sha256": "551b8bcc9e37ef87df09f8d41e35a69503f2d2b84b93741d0d26242b5e35fac4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "551b8bcc9e37ef87df09f8d41e35a69503f2d2b84b93741d0d26242b5e35fac4",
+      "translation_sha256": "97ae3924529d9716d8f83ad136ef42d61d6af9f2e4c21e13ccd0325bbd94f6ec",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 9:9",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 9,
+          "source_ref": "Zechariah 9:9",
+          "segment_mode": "whole",
+          "sha256": "266795aeee57834e3686e1ca604e12efc69575ec901367ca6a1b430d83898087"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "266795aeee57834e3686e1ca604e12efc69575ec901367ca6a1b430d83898087",
+      "translation_sha256": "466879e98235500f107cae73903b85cb40f9ac6bcd518e537c6c6f904e573321",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": [
+        "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 9:10",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 10,
+          "source_ref": "Zechariah 9:10",
+          "segment_mode": "whole",
+          "sha256": "a9c5e6118bafca7abec5dc038c3e533a7ee167ed1378e0bd6a24abd5b7fe7c63"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a9c5e6118bafca7abec5dc038c3e533a7ee167ed1378e0bd6a24abd5b7fe7c63",
+      "translation_sha256": "b5d0ebd5dfbcc800871f0548a245f314215aecfc46f627782729bf8d6a0d2bb3",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": [
+        "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 9:11",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 11,
+          "source_ref": "Zechariah 9:11",
+          "segment_mode": "whole",
+          "sha256": "3c202c03f570437cf71e6341b0dd721b0ef0d742bf893b98af9bbc33aecdf74d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3c202c03f570437cf71e6341b0dd721b0ef0d742bf893b98af9bbc33aecdf74d",
+      "translation_sha256": "b721f910b0382f904d43c4800ad0583045ebc840a916bf37fe4bc68aa5108b9e",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": [
+        "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 9:12",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 12,
+          "source_ref": "Zechariah 9:12",
+          "segment_mode": "whole",
+          "sha256": "fc49f23311b5888296cedf4e923e6fe5e517bbe254005918c0f7ff8cd34d2512"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fc49f23311b5888296cedf4e923e6fe5e517bbe254005918c0f7ff8cd34d2512",
+      "translation_sha256": "ef600fe84f2a604358dc47fc9dc3513ed3f2b523ab221ca7dda908190a52c998",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": [
+        "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 9:13",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 13,
+          "source_ref": "Zechariah 9:13",
+          "segment_mode": "whole",
+          "sha256": "1baa2859ce2771b8d9da62605ccb5a53a726ce796c038c44432f7838b8bf97fe"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1baa2859ce2771b8d9da62605ccb5a53a726ce796c038c44432f7838b8bf97fe",
+      "translation_sha256": "37964ccfec9a8cc805ce89fec556dd758d91de911062fee68b6cc0bb8d9a4e48",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": [
+        "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 9:14",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 14,
+          "source_ref": "Zechariah 9:14",
+          "segment_mode": "whole",
+          "sha256": "cb20a926df55c5f667c8e5e855b49a9f29d4aa4ec844b6d0f479b222eb4e2e27"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cb20a926df55c5f667c8e5e855b49a9f29d4aa4ec844b6d0f479b222eb4e2e27",
+      "translation_sha256": "fea2210292c10b057c86b82900e220e3cd2e8c710bbc417de6bfef8615ff803f",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": [
+        "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 9:15",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 15,
+          "source_ref": "Zechariah 9:15",
+          "segment_mode": "whole",
+          "sha256": "1442330839aaabf2fe0cd77d8c8ffaefd5ae1a3faadeff1cd14f96f171e461e8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1442330839aaabf2fe0cd77d8c8ffaefd5ae1a3faadeff1cd14f96f171e461e8",
+      "translation_sha256": "0b8040e8a5cb3b6d8c8174cb1e2fade2047b6932db25b78b7a3de5f0b7ed4326",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": [
+        "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 9:16",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 16,
+          "source_ref": "Zechariah 9:16",
+          "segment_mode": "whole",
+          "sha256": "313c3c438d52c760cb00a5f26575a20aae7568c39dd010874b86ac5a56d67c61"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "313c3c438d52c760cb00a5f26575a20aae7568c39dd010874b86ac5a56d67c61",
+      "translation_sha256": "87da38014bb6896ec64b281f44606c0e5292d10645fff6060d4cfc008cf4c02e",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": [
+        "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 9:17",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 17,
+          "source_ref": "Zechariah 9:17",
+          "segment_mode": "whole",
+          "sha256": "cf22345f8588b8db60fef8731c5e3f5b7b6b4b9702d664226ebda225387317d2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cf22345f8588b8db60fef8731c5e3f5b7b6b4b9702d664226ebda225387317d2",
+      "translation_sha256": "bc0e9a5f7f144b6e72d183465e433ef9f69fcf5effb395ebba219966735253c5",
+      "tsw_blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f",
+      "curated_decisions": [
+        "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners."
+      ]
+    },
+    {
+      "chapter": 10,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:1",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "source_ref": "Zechariah 10:1",
+          "segment_mode": "whole",
+          "sha256": "a23e666c79bf9da836f6e78b232f49403ef37475e365094ec22e1f3a41a29ca7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a23e666c79bf9da836f6e78b232f49403ef37475e365094ec22e1f3a41a29ca7",
+      "translation_sha256": "61de4d4ad9de6397137458f3c88721a166b31e90810ea6ea66be470950d7b4c4",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Zechariah 10:2",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 2,
+          "source_ref": "Zechariah 10:2",
+          "segment_mode": "whole",
+          "sha256": "520823aa4e3e2cce755ab8b3d7ab493f7523f734f702432e823da8e1bced6d4a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "520823aa4e3e2cce755ab8b3d7ab493f7523f734f702432e823da8e1bced6d4a",
+      "translation_sha256": "cc755800ffd14bae6b2adedc6bced6b889b61572603257a25d59f64fdba00088",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:3",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 3,
+          "source_ref": "Zechariah 10:3",
+          "segment_mode": "whole",
+          "sha256": "cd8d75bf07d50eb3fe980ab07050fe77245209ea8d580508d81307d0090f1ce1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cd8d75bf07d50eb3fe980ab07050fe77245209ea8d580508d81307d0090f1ce1",
+      "translation_sha256": "1ec022c362e21b71960e4d57e5abca1ad56e3354fb7d29834a71503711d69363",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:4",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 4,
+          "source_ref": "Zechariah 10:4",
+          "segment_mode": "whole",
+          "sha256": "000059e73f3cbbfe8d111a718bd4219919d958cb72414a03d8cae1649583fb79"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "000059e73f3cbbfe8d111a718bd4219919d958cb72414a03d8cae1649583fb79",
+      "translation_sha256": "f97f398bb76151c46bd830f1f193c35e4bf9158b0220c1b29a5b80e271daba91",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:5",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 5,
+          "source_ref": "Zechariah 10:5",
+          "segment_mode": "whole",
+          "sha256": "a41bf9df5b585a8971c75152572886f17ad01165d3f091bc8c5e8d5da357e04b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a41bf9df5b585a8971c75152572886f17ad01165d3f091bc8c5e8d5da357e04b",
+      "translation_sha256": "e537dc512c79ad8113fb3c6cbec55db3cdc10bc95c5384fd8b0e94a8b0867ede",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F2",
+      "source_ref": "Zechariah 10:6",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 6,
+          "source_ref": "Zechariah 10:6",
+          "segment_mode": "whole",
+          "sha256": "ecc580e5d95ba49ff8c7c3cef82921855dbe88a1717075ff10ce9c134201a2d9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ecc580e5d95ba49ff8c7c3cef82921855dbe88a1717075ff10ce9c134201a2d9",
+      "translation_sha256": "cb376a78a429141b98bc97969737af3bee55501f772451a652f8a3a2d4440af8",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:7",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 7,
+          "source_ref": "Zechariah 10:7",
+          "segment_mode": "whole",
+          "sha256": "8946662d748dc479654b7fe04021b346fe9bf5a49eebcd26f8a6e8af7a154080"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8946662d748dc479654b7fe04021b346fe9bf5a49eebcd26f8a6e8af7a154080",
+      "translation_sha256": "57f76703dbc841dff58427d2047e3f810a37845a96d0e523047bc9ec8b8244b2",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:8",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 8,
+          "source_ref": "Zechariah 10:8",
+          "segment_mode": "whole",
+          "sha256": "551ccfc33d9977dfa6697fc3f8036cb98c441ebbaabd4e9cb83ee390dcb8e6ea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "551ccfc33d9977dfa6697fc3f8036cb98c441ebbaabd4e9cb83ee390dcb8e6ea",
+      "translation_sha256": "458f8c7794ce6df71387a52c8fcf366ca356b9f09037a84ac022a24dd38daecf",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:9",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 9,
+          "source_ref": "Zechariah 10:9",
+          "segment_mode": "whole",
+          "sha256": "cac967441abde75d68b935d889ee087c643c31895404d39e1975698522433404"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cac967441abde75d68b935d889ee087c643c31895404d39e1975698522433404",
+      "translation_sha256": "356ee0e9763b62a7e627116dc690b9dff36c147260598e0f433fd02286c5bd59",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:10",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 10,
+          "source_ref": "Zechariah 10:10",
+          "segment_mode": "whole",
+          "sha256": "10457e72ddeab89648375d91113bf9e88da1bb1502dc2133ddfaa0338d901857"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "10457e72ddeab89648375d91113bf9e88da1bb1502dc2133ddfaa0338d901857",
+      "translation_sha256": "fe6fb123b0aa52d1a178916d366175fcfc50faada910c07aef83794ac77c8e12",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:11",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 11,
+          "source_ref": "Zechariah 10:11",
+          "segment_mode": "whole",
+          "sha256": "6b8eeccacdd5b6e4514f6edb376597e6f36707a7c184e94809294e52a83f16a7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6b8eeccacdd5b6e4514f6edb376597e6f36707a7c184e94809294e52a83f16a7",
+      "translation_sha256": "b3293571c4ebfcb4df6685dfc6f3b17d31a79c71216f8e38b83284a3c983b583",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 10:12",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 12,
+          "source_ref": "Zechariah 10:12",
+          "segment_mode": "whole",
+          "sha256": "1ab345411b1c96c66ffd6a8d6250d95e8dd0e4d478c9ee417541840c64d1d0ca"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1ab345411b1c96c66ffd6a8d6250d95e8dd0e4d478c9ee417541840c64d1d0ca",
+      "translation_sha256": "9bbb9aa33dd90d626c9297aa385f8aed1da51a94021fbb4112e8ebec9ef50785",
+      "tsw_blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 11:1",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 1,
+          "source_ref": "Zechariah 11:1",
+          "segment_mode": "whole",
+          "sha256": "274f7bfd4d7aa42266a00747f3cf0d8d32f880098b93c04f216f1ad3c54bbf21"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "274f7bfd4d7aa42266a00747f3cf0d8d32f880098b93c04f216f1ad3c54bbf21",
+      "translation_sha256": "0080a686f8f5691f45c76fe8ec2bd585c0b778ff6c2b431c891b4463ac7bfec5",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 11:2",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 2,
+          "source_ref": "Zechariah 11:2",
+          "segment_mode": "whole",
+          "sha256": "691ecaf7c78fe96d1512ee3de45ffe04be114f7fe3719e0b316b0eef6ac28831"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "691ecaf7c78fe96d1512ee3de45ffe04be114f7fe3719e0b316b0eef6ac28831",
+      "translation_sha256": "ea36d0ce5b2ea57804e3c4bab472e956a997df5bbf144ef94963212a8b867ab7",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 11:3",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 3,
+          "source_ref": "Zechariah 11:3",
+          "segment_mode": "whole",
+          "sha256": "899dbc1a84be0eb69bf4772da154d3b3ae845aa1a7a09332caf4c069b0b3c980"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "899dbc1a84be0eb69bf4772da154d3b3ae845aa1a7a09332caf4c069b0b3c980",
+      "translation_sha256": "02a6088f3f15bad85e4e8ac804ba625ef108e79870c398cf881bd7286d6903f8",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:4",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 4,
+          "source_ref": "Zechariah 11:4",
+          "segment_mode": "whole",
+          "sha256": "e01729dcdf96888ddd1c8ce486b35037baf1a7bd0ddaa41945da5ac5649a3bff"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e01729dcdf96888ddd1c8ce486b35037baf1a7bd0ddaa41945da5ac5649a3bff",
+      "translation_sha256": "e1587b7e9f38fea1fa4fe09eafc32a00b8692f3881af6a9b189157a4f495890a",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:5",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 5,
+          "source_ref": "Zechariah 11:5",
+          "segment_mode": "whole",
+          "sha256": "0d021035372cc9e57fc6992e0ba1fbfcd75fd3a788aba584e4ce5746595b7f2a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0d021035372cc9e57fc6992e0ba1fbfcd75fd3a788aba584e4ce5746595b7f2a",
+      "translation_sha256": "41738cf0aee1f9d11b72b8794dcb466d7c4e89138d1d95a8b13acf8bbaeea012",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:6",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 6,
+          "source_ref": "Zechariah 11:6",
+          "segment_mode": "whole",
+          "sha256": "1e88d96a6f2dce743cf7d40565853e0a1a4878fd5e1e2d71737224dc84da9dd4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1e88d96a6f2dce743cf7d40565853e0a1a4878fd5e1e2d71737224dc84da9dd4",
+      "translation_sha256": "c8dbee747647544366a53ad9c18cee6ef1ee43f5ebdd4c577f3639dec7f9a630",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:7",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 7,
+          "source_ref": "Zechariah 11:7",
+          "segment_mode": "whole",
+          "sha256": "2685727484b22f8318db5ab79515437fafac02d23b42bc170f52af152a76c210"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2685727484b22f8318db5ab79515437fafac02d23b42bc170f52af152a76c210",
+      "translation_sha256": "1b91bd9040ac6e495a469cb6dd857c57caa706d8cd39de33a743ed51fad1d2cf",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:8",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 8,
+          "source_ref": "Zechariah 11:8",
+          "segment_mode": "whole",
+          "sha256": "20949f3df0bc70bc83fcdc8c01f7b4c5f9c8082ca6d5c314d9158368724f4b20"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "20949f3df0bc70bc83fcdc8c01f7b4c5f9c8082ca6d5c314d9158368724f4b20",
+      "translation_sha256": "ef685e61bbd32a679e11eb407f2629d6075292b8f2af1da79a8ad67b4a780369",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:9",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 9,
+          "source_ref": "Zechariah 11:9",
+          "segment_mode": "whole",
+          "sha256": "b2b5cc2bfac8d7dbd19fefb354b4e743c50924a6bc49fdb784d1e5d0d44551bf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b2b5cc2bfac8d7dbd19fefb354b4e743c50924a6bc49fdb784d1e5d0d44551bf",
+      "translation_sha256": "c7edddc2fe5b1d8c6f18bdb60cb4aa09e76ff1d430c038792f3dac056223023b",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:10",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 10,
+          "source_ref": "Zechariah 11:10",
+          "segment_mode": "whole",
+          "sha256": "aee606f8ad61b7f6d66192babeed16e81d1ee4a97177af1f63fe74131db9df16"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aee606f8ad61b7f6d66192babeed16e81d1ee4a97177af1f63fe74131db9df16",
+      "translation_sha256": "d385f5c5f8410a4f99472756373fd13c82b877e4f0182f731ce7e49cb25af20c",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:11",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 11,
+          "source_ref": "Zechariah 11:11",
+          "segment_mode": "whole",
+          "sha256": "3027ac812ea88233693422b0fa399f09f09f515e5e7a70ce8e4acf33cd4405a6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3027ac812ea88233693422b0fa399f09f09f515e5e7a70ce8e4acf33cd4405a6",
+      "translation_sha256": "ec0a3ac852c06df7912d27699e63194d9d97a0f97c3ed4171cb74ce16916139e",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:12",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 12,
+          "source_ref": "Zechariah 11:12",
+          "segment_mode": "whole",
+          "sha256": "7693743185ae9a2847934225037784cc33d02246575bada072d9ed23f03647a9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7693743185ae9a2847934225037784cc33d02246575bada072d9ed23f03647a9",
+      "translation_sha256": "7d421c97d08ac77c6ef694ddcedb7d06adeb13386aa75852f70d4275da47646f",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:13",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 13,
+          "source_ref": "Zechariah 11:13",
+          "segment_mode": "whole",
+          "sha256": "b5522a0067be092a0b65714810efc8b8f3c5500d822175a17d3aa9cb282f15b8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b5522a0067be092a0b65714810efc8b8f3c5500d822175a17d3aa9cb282f15b8",
+      "translation_sha256": "c5f3ee66e440f181cb652c6d53adf7ed96671f44b4a6718d4e6c7a24f614d24b",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:14",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 14,
+          "source_ref": "Zechariah 11:14",
+          "segment_mode": "whole",
+          "sha256": "8ffaab79df79296fc7c1b4486623cc84f10426b81afd1d351f6cd9fc78fee2c4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8ffaab79df79296fc7c1b4486623cc84f10426b81afd1d351f6cd9fc78fee2c4",
+      "translation_sha256": "977b4527ebc76460288d1a1a5a0c356edab0fa44e1add7429af49f4842b3c141",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:15",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 15,
+          "source_ref": "Zechariah 11:15",
+          "segment_mode": "whole",
+          "sha256": "0fd022096bb4a3904b0b39556d281c9c3820d75989c34f38f89420e38f64ee15"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0fd022096bb4a3904b0b39556d281c9c3820d75989c34f38f89420e38f64ee15",
+      "translation_sha256": "47890a95afbe85cee89a00c714b6b6627f472f703112e06978ec35e4f4e69369",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:16",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 16,
+          "source_ref": "Zechariah 11:16",
+          "segment_mode": "whole",
+          "sha256": "e0a63b796034f59f06a3eded0f30998338a8c11402ba5768742e8fdf2cfd4c07"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e0a63b796034f59f06a3eded0f30998338a8c11402ba5768742e8fdf2cfd4c07",
+      "translation_sha256": "3a5ae44599c0699e3bbe804c6772d460b7dc20231db1fe269b42f156d79547f8",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 11:17",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 17,
+          "source_ref": "Zechariah 11:17",
+          "segment_mode": "whole",
+          "sha256": "f8c9229d82c5da50bdadad1500509f708fe497cb8bed96287b085bd4253c8ca6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f8c9229d82c5da50bdadad1500509f708fe497cb8bed96287b085bd4253c8ca6",
+      "translation_sha256": "bbba146a85035986c12eb2a7a2723ffa1697e75c8af7a5152131affb9f852063",
+      "tsw_blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049",
+      "curated_decisions": [
+        "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:1",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 1,
+          "source_ref": "Zechariah 12:1",
+          "segment_mode": "whole",
+          "sha256": "f9b32cc0a1e04db9dbf979f6ad6c1b6eada0e18fdaad810a97a42dc42a4dcb19"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f9b32cc0a1e04db9dbf979f6ad6c1b6eada0e18fdaad810a97a42dc42a4dcb19",
+      "translation_sha256": "c728edbd1c1a4f441992a26e7ec2907b931375a39126224c083bcc65e45a18d9",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:2",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 2,
+          "source_ref": "Zechariah 12:2",
+          "segment_mode": "whole",
+          "sha256": "3ec1d79b14979063d00066db7154c6d3c13c785bb3bb128775a8ff9b42021bcd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3ec1d79b14979063d00066db7154c6d3c13c785bb3bb128775a8ff9b42021bcd",
+      "translation_sha256": "604af9aa612ac6fc986014c1898683e60d1b92fe8c09e5a9d3188a02b1f1a955",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:3",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 3,
+          "source_ref": "Zechariah 12:3",
+          "segment_mode": "whole",
+          "sha256": "fda6c1caeddccb322264549e83823e6c7fb58244f2dbbb2debf2961ecd7ceea3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fda6c1caeddccb322264549e83823e6c7fb58244f2dbbb2debf2961ecd7ceea3",
+      "translation_sha256": "93b9cd006cfff0a90bdcbc4b896b0acaff0353fbbb9e3fd80b7c9171a74536f7",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:4",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 4,
+          "source_ref": "Zechariah 12:4",
+          "segment_mode": "whole",
+          "sha256": "0d683419201c0cb9ec9041a08fad1ca5e18d69d3d6af3006b00ac84552405a36"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0d683419201c0cb9ec9041a08fad1ca5e18d69d3d6af3006b00ac84552405a36",
+      "translation_sha256": "8e32b315b772f6c9dff7562e06fd41575d9a11393d60f4a7b585ccfe043a510c",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:5",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 5,
+          "source_ref": "Zechariah 12:5",
+          "segment_mode": "whole",
+          "sha256": "3aff851696da36f940acc3f3328f1d2166bdd1be2e8d8db4f5c31037c6f7fcc0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3aff851696da36f940acc3f3328f1d2166bdd1be2e8d8db4f5c31037c6f7fcc0",
+      "translation_sha256": "8c370622334e4bde8e3bccd3ec035d460c916ea0fdc3e33bca0a7932693d7286",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:6",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 6,
+          "source_ref": "Zechariah 12:6",
+          "segment_mode": "whole",
+          "sha256": "9e3df27116a47e2246e890b7e057c751482bd7507234b03045b9c1ea89856827"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e3df27116a47e2246e890b7e057c751482bd7507234b03045b9c1ea89856827",
+      "translation_sha256": "93d16dcfc9f2329e833e7b9316a025aa7ba58748404912da32b12be27c3815c4",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:7",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 7,
+          "source_ref": "Zechariah 12:7",
+          "segment_mode": "whole",
+          "sha256": "95c9a7661a675222f854551d4e74127e469cd51cc937c8c339c989d4b72184c2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "95c9a7661a675222f854551d4e74127e469cd51cc937c8c339c989d4b72184c2",
+      "translation_sha256": "4b51655d2cf20a7619f225ec1740b2eece8fcf66137af0938941009bbc9f9deb",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:8",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 8,
+          "source_ref": "Zechariah 12:8",
+          "segment_mode": "whole",
+          "sha256": "4ebafeaf924989f0d69c3f349834be7d4aae2ad946e80806008a4a9f3364df7e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4ebafeaf924989f0d69c3f349834be7d4aae2ad946e80806008a4a9f3364df7e",
+      "translation_sha256": "bb94cb56912cda6ec313299b19ac60f0d6bf44ec0f6b1a83b46d41df95d3e112",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:9",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 9,
+          "source_ref": "Zechariah 12:9",
+          "segment_mode": "whole",
+          "sha256": "3bf0049361bcaf8db6e3fc0e7539546f3ac03f29c55db8c69d62914197bf6814"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3bf0049361bcaf8db6e3fc0e7539546f3ac03f29c55db8c69d62914197bf6814",
+      "translation_sha256": "eff146c38c9251b18073a1a1f7f6ea1b60969fd27f24372d3b8b0071ed3bb37a",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 12:10",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 10,
+          "source_ref": "Zechariah 12:10",
+          "segment_mode": "whole",
+          "sha256": "57055b5eff8bba5f5b3db8c1366fb4a4933ea10f14b0891f6f0549e35225817d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "57055b5eff8bba5f5b3db8c1366fb4a4933ea10f14b0891f6f0549e35225817d",
+      "translation_sha256": "31b28dab39989af3703e77d0bf7cd9a7187b809551946afc709d9e6b7c904578",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": [
+        "Preserve the Hebrew pronoun and the one pierced without making the translation settle every later christological question."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:11",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 11,
+          "source_ref": "Zechariah 12:11",
+          "segment_mode": "whole",
+          "sha256": "88db42e0356087fb6694284cada4dd05bb7efe3bddc62baf1466b04a00bf245c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "88db42e0356087fb6694284cada4dd05bb7efe3bddc62baf1466b04a00bf245c",
+      "translation_sha256": "1aa64a44643bce3c8a18b9a9b7052a85088c272d2a68974951dd7bc4868997f2",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:12",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 12,
+          "source_ref": "Zechariah 12:12",
+          "segment_mode": "whole",
+          "sha256": "3ef4d5b1e41e844bf3c5b07000e0f2624b299ecc89857afb3027ec486f107177"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3ef4d5b1e41e844bf3c5b07000e0f2624b299ecc89857afb3027ec486f107177",
+      "translation_sha256": "eb8c933cdd3c439d582c395d76e8c26ea00a4f1d4a07ac4f298e5c583f4ebd39",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:13",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 13,
+          "source_ref": "Zechariah 12:13",
+          "segment_mode": "whole",
+          "sha256": "16362a1fdee5cdbff15fac3aa57ddd47d2a0425bbba8f81ce837f4895f368a46"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "16362a1fdee5cdbff15fac3aa57ddd47d2a0425bbba8f81ce837f4895f368a46",
+      "translation_sha256": "6c7776264821a2e98b58180d498861924a4429f7a095e79379848cd6765b0225",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 12:14",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 14,
+          "source_ref": "Zechariah 12:14",
+          "segment_mode": "whole",
+          "sha256": "cff253f0d5671352df039c66d15b73c5c3dc1f3e5193725de61faf55ba136548"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cff253f0d5671352df039c66d15b73c5c3dc1f3e5193725de61faf55ba136548",
+      "translation_sha256": "7c7997bad856953bb382a55c1798628e85be1be7c40aa2f0a29da6d5ff9e7eea",
+      "tsw_blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 13:1",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 1,
+          "source_ref": "Zechariah 13:1",
+          "segment_mode": "whole",
+          "sha256": "101535956a60863b1313e3c0f51b214c28a6cf358d61c7042b939ff3f74383c2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "101535956a60863b1313e3c0f51b214c28a6cf358d61c7042b939ff3f74383c2",
+      "translation_sha256": "9c6f0c0c158a838e75226e6aafe6fe97a38fd204cb19a6fd6dc3d073c6cc4a67",
+      "tsw_blob_sha": "576cac9fb367c57a32460179688782b2ffd97403",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 13:2",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 2,
+          "source_ref": "Zechariah 13:2",
+          "segment_mode": "whole",
+          "sha256": "b45312ebd25b6f9f5cff44fc8b8b821ee320358e2af192a0255b87f6669641df"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b45312ebd25b6f9f5cff44fc8b8b821ee320358e2af192a0255b87f6669641df",
+      "translation_sha256": "66b0bd59324c56630034eb3f459d6fc7aa43f8a77440fa71704fa9428fbbcee4",
+      "tsw_blob_sha": "576cac9fb367c57a32460179688782b2ffd97403",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Zechariah 13:3",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 3,
+          "source_ref": "Zechariah 13:3",
+          "segment_mode": "whole",
+          "sha256": "2d58a2d2b4cc58d63bb4e958fb237aa73b576ac86beb66759f165f50a860e28f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2d58a2d2b4cc58d63bb4e958fb237aa73b576ac86beb66759f165f50a860e28f",
+      "translation_sha256": "d689295e0b17fc503664f5ed5bba47f6c736d094327f57841be8f3d66f374aa6",
+      "tsw_blob_sha": "576cac9fb367c57a32460179688782b2ffd97403",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 13:4",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 4,
+          "source_ref": "Zechariah 13:4",
+          "segment_mode": "whole",
+          "sha256": "a6741dbe23b01db11357d793749a656f9eb680754726a7ed43cf6e4c3d3b65e6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a6741dbe23b01db11357d793749a656f9eb680754726a7ed43cf6e4c3d3b65e6",
+      "translation_sha256": "8b966b952252c6c1c88612940d0c86d7044d8082fd7148b71681f633e6f19597",
+      "tsw_blob_sha": "576cac9fb367c57a32460179688782b2ffd97403",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zechariah 13:5",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 5,
+          "source_ref": "Zechariah 13:5",
+          "segment_mode": "whole",
+          "sha256": "c346d6c73d07b8735715f2249bf4c3b02f681679394ac7f0de047c71fdc91957"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c346d6c73d07b8735715f2249bf4c3b02f681679394ac7f0de047c71fdc91957",
+      "translation_sha256": "4c9c0c3dbbd6d6716b8bd2c6fd3bbe076b15b7ac694fe06d5051644ea1573357",
+      "tsw_blob_sha": "576cac9fb367c57a32460179688782b2ffd97403",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Zechariah 13:6",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 6,
+          "source_ref": "Zechariah 13:6",
+          "segment_mode": "whole",
+          "sha256": "900dcf431d6dd2c09cfd6c983895e922ae1012cf574ddb260fd9de61233cc04c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "900dcf431d6dd2c09cfd6c983895e922ae1012cf574ddb260fd9de61233cc04c",
+      "translation_sha256": "112135df65db96c6838cac279fc7e88fc61f7c7104e283f9871c6a48cefd93dd",
+      "tsw_blob_sha": "576cac9fb367c57a32460179688782b2ffd97403",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 13:7",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 7,
+          "source_ref": "Zechariah 13:7",
+          "segment_mode": "whole",
+          "sha256": "2571e369445024f995100bdb0868a63c857d686b096f46497c5e005a07a96843"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2571e369445024f995100bdb0868a63c857d686b096f46497c5e005a07a96843",
+      "translation_sha256": "b8876531db6451ae5645a38b4b1e8079c6b26bd4df371127c139a8669a77c339",
+      "tsw_blob_sha": "576cac9fb367c57a32460179688782b2ffd97403",
+      "curated_decisions": [
+        "Keep the struck shepherd, scattered flock, severe testing, and covenant renewal together."
+      ]
+    },
+    {
+      "chapter": 13,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 13:8",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 8,
+          "source_ref": "Zechariah 13:8",
+          "segment_mode": "whole",
+          "sha256": "bda537716d4de44d93c362ad8d0b50e8d3f46589518bffc07a8e7767f14177ba"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bda537716d4de44d93c362ad8d0b50e8d3f46589518bffc07a8e7767f14177ba",
+      "translation_sha256": "abf301d5484b8ded04e606623d690406b6802f78f7a95b665af9d0a6aa9f23ec",
+      "tsw_blob_sha": "576cac9fb367c57a32460179688782b2ffd97403",
+      "curated_decisions": [
+        "Keep the struck shepherd, scattered flock, severe testing, and covenant renewal together."
+      ]
+    },
+    {
+      "chapter": 13,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 13:9",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 9,
+          "source_ref": "Zechariah 13:9",
+          "segment_mode": "whole",
+          "sha256": "e82c0d7d71ae03f7714de60a74101c2d233d9189fc4dbeb5e80b028428d99794"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e82c0d7d71ae03f7714de60a74101c2d233d9189fc4dbeb5e80b028428d99794",
+      "translation_sha256": "8f3e731ce500464541c113a0646976f8793ff36fb95ca46d0d8bc41ffb444217",
+      "tsw_blob_sha": "576cac9fb367c57a32460179688782b2ffd97403",
+      "curated_decisions": [
+        "Keep the struck shepherd, scattered flock, severe testing, and covenant renewal together."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:1",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 1,
+          "source_ref": "Zechariah 14:1",
+          "segment_mode": "whole",
+          "sha256": "d77d9a0379f7420c9214f886faca79762989aa498d7999338ef122f97a9a319a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d77d9a0379f7420c9214f886faca79762989aa498d7999338ef122f97a9a319a",
+      "translation_sha256": "502c4f3f92246b08d7d3660ff9a6d1455e9b958ecc00b30a4ef52074a2b5616c",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:2",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 2,
+          "source_ref": "Zechariah 14:2",
+          "segment_mode": "whole",
+          "sha256": "0edea72c182605c9e05f7a924f9d4ea1afefe0671b6f1d6185e9127359702e02"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0edea72c182605c9e05f7a924f9d4ea1afefe0671b6f1d6185e9127359702e02",
+      "translation_sha256": "aeadf65f5f88d44b50611dcb11a371b29c5ace3d21d142e8b006c8b6a71b030c",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:3",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 3,
+          "source_ref": "Zechariah 14:3",
+          "segment_mode": "whole",
+          "sha256": "66eb6fced44985e3142b7028d631111f3e881f2142660ba0d6fb634be74cd916"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "66eb6fced44985e3142b7028d631111f3e881f2142660ba0d6fb634be74cd916",
+      "translation_sha256": "a2cfd062f54f4813292fc239d7294617e829ec727b6c647797e4ab13ab15935f",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:4",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 4,
+          "source_ref": "Zechariah 14:4",
+          "segment_mode": "whole",
+          "sha256": "ed7ba58da15fce7ebc3566f395b9988a5fc65d01139e02b4b830a3c5c42d3a12"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ed7ba58da15fce7ebc3566f395b9988a5fc65d01139e02b4b830a3c5c42d3a12",
+      "translation_sha256": "1ffbc74f793835e200efb978465518c14f20e5331a72226934b9409dcd4dd369",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:5",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 5,
+          "source_ref": "Zechariah 14:5",
+          "segment_mode": "whole",
+          "sha256": "bb6217ed84d6df6c4c3a4d337d23b64169be159e57fd2f3a86ec335d9f7ada48"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bb6217ed84d6df6c4c3a4d337d23b64169be159e57fd2f3a86ec335d9f7ada48",
+      "translation_sha256": "8a992b9b83c760669c923e4941560799fc72b8deafeb9e2070ecf4355ee79a98",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:6",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 6,
+          "source_ref": "Zechariah 14:6",
+          "segment_mode": "whole",
+          "sha256": "10f24055e1e8b71f6a6b3b07e10ccd7150401f7b10135513b227ebabd5ae43e8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "10f24055e1e8b71f6a6b3b07e10ccd7150401f7b10135513b227ebabd5ae43e8",
+      "translation_sha256": "5723179e62c03d9ae718af01b83ece7e126ab2b0f2478d56b4840a96df4d6e89",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:7",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 7,
+          "source_ref": "Zechariah 14:7",
+          "segment_mode": "whole",
+          "sha256": "5d94689ebf72f81537a0ddfaf006f4a17994dde6fa0321ee4fe5112f77cc6a02"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5d94689ebf72f81537a0ddfaf006f4a17994dde6fa0321ee4fe5112f77cc6a02",
+      "translation_sha256": "e247bd0a84c1b7fa99023140b4d4f0d74cb206c4869400089dd705ceed1e0da2",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:8",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 8,
+          "source_ref": "Zechariah 14:8",
+          "segment_mode": "whole",
+          "sha256": "5eef22ea55a1242049a6e89ddedd4e37a9b8ecb6a873ae9a6ba37777374bca7c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5eef22ea55a1242049a6e89ddedd4e37a9b8ecb6a873ae9a6ba37777374bca7c",
+      "translation_sha256": "55f1c92dfeacbec4dcc891fd9cc63df2b5da12133a34f1703ea1172aebdbc2a9",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:9",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 9,
+          "source_ref": "Zechariah 14:9",
+          "segment_mode": "whole",
+          "sha256": "d729db3f2e884bd7b4cb3d128871a0056b1556d6cec3fe877f5c8c8c7e7e7a92"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d729db3f2e884bd7b4cb3d128871a0056b1556d6cec3fe877f5c8c8c7e7e7a92",
+      "translation_sha256": "b143a57e11715e46550ae956204828d8168e999d119ad193545d76b249321bc2",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:10",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 10,
+          "source_ref": "Zechariah 14:10",
+          "segment_mode": "whole",
+          "sha256": "a106a08f48434f721cee50be891d74374bb8a716647ad3c288029449b635256f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a106a08f48434f721cee50be891d74374bb8a716647ad3c288029449b635256f",
+      "translation_sha256": "be5b64b89c731c4ab81f1e4e57e1c9875ce795cf762bb224b2a5fde63d23a758",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:11",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 11,
+          "source_ref": "Zechariah 14:11",
+          "segment_mode": "whole",
+          "sha256": "44500f878c3b58bea978a99d5a12689f4727e66a7aa0c11f106289b9040837b4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "44500f878c3b58bea978a99d5a12689f4727e66a7aa0c11f106289b9040837b4",
+      "translation_sha256": "8ddeb9ad4e4984738111576538fa094e6ba23808f59506a5a6702e4aca4e7ef9",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:12",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 12,
+          "source_ref": "Zechariah 14:12",
+          "segment_mode": "whole",
+          "sha256": "da974c5b3f9232dc5ab7845d226f00a19fecde95b44f17601c10365036e390ec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "da974c5b3f9232dc5ab7845d226f00a19fecde95b44f17601c10365036e390ec",
+      "translation_sha256": "b1fa9da699b4b43c970813e60d39b5a792302ffad067f03b69e672f84f38c359",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:13",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 13,
+          "source_ref": "Zechariah 14:13",
+          "segment_mode": "whole",
+          "sha256": "af3114d2986efde2d4c5f41ed5fc39091c748f84bc8f667264571bcd65a4fbe5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af3114d2986efde2d4c5f41ed5fc39091c748f84bc8f667264571bcd65a4fbe5",
+      "translation_sha256": "373dcef542387898deab196faece51012291771993419b8fe473a32bde5f92df",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:14",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 14,
+          "source_ref": "Zechariah 14:14",
+          "segment_mode": "whole",
+          "sha256": "c1330b41aa7700012d0c2c698505e8386a53238a71c0e28352a65007f5e055b4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c1330b41aa7700012d0c2c698505e8386a53238a71c0e28352a65007f5e055b4",
+      "translation_sha256": "cf7bc0c9fb8d286581d17d36c92e42c325a5632edc7c54d987dbe6679a54e20a",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:15",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 15,
+          "source_ref": "Zechariah 14:15",
+          "segment_mode": "whole",
+          "sha256": "549252b5743c5b2c3205abf5adc3baf0c5835ce58e86ac1cb45a9a9bd0b8e1ce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "549252b5743c5b2c3205abf5adc3baf0c5835ce58e86ac1cb45a9a9bd0b8e1ce",
+      "translation_sha256": "1c7059c56751f9170028c401c58809bdb0412614aef7ead05d9175413b358d2d",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:16",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 16,
+          "source_ref": "Zechariah 14:16",
+          "segment_mode": "whole",
+          "sha256": "7396d913d1cafe3cc9ef4d6e014b4ea9964bf5ae3501cdeb83a717a4b8c756b5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7396d913d1cafe3cc9ef4d6e014b4ea9964bf5ae3501cdeb83a717a4b8c756b5",
+      "translation_sha256": "a956b99bba4347f0746d37fbbf96a22e8c22abda6555080299accc03519b6be4",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:17",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 17,
+          "source_ref": "Zechariah 14:17",
+          "segment_mode": "whole",
+          "sha256": "c94fd27fc8417652e320fd1f2c7805c8eb38bdf0d5451bf1692e3c8cb7e3a2ce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c94fd27fc8417652e320fd1f2c7805c8eb38bdf0d5451bf1692e3c8cb7e3a2ce",
+      "translation_sha256": "1a7c9738c365c729081320b6f664c02f648b1d51b5b580af9d9d58e01f5515c9",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:18",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 18,
+          "source_ref": "Zechariah 14:18",
+          "segment_mode": "whole",
+          "sha256": "9018cebe3afa71aa0bd62682d1e07c74039bed2a0deb23f0019938ddebca6f32"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9018cebe3afa71aa0bd62682d1e07c74039bed2a0deb23f0019938ddebca6f32",
+      "translation_sha256": "42d894385aa68c065b0ac68d71a072c95e4c55d52810fb28df15f14c187478c7",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:19",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 19,
+          "source_ref": "Zechariah 14:19",
+          "segment_mode": "whole",
+          "sha256": "e26d6b59f3ff4a26857be9ea82c09626ae8b27ec76655fe1a1ece7037f39dbe2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e26d6b59f3ff4a26857be9ea82c09626ae8b27ec76655fe1a1ece7037f39dbe2",
+      "translation_sha256": "5213312e61fe4667c09c1b5955378f49bc9fe617d11888b083c68e7b6aa228a5",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:20",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 20,
+          "source_ref": "Zechariah 14:20",
+          "segment_mode": "whole",
+          "sha256": "d09f9360e1fc1c810e81ee7fd3e75e9f062e3d7d7208d5eb237241b85d51af11"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d09f9360e1fc1c810e81ee7fd3e75e9f062e3d7d7208d5eb237241b85d51af11",
+      "translation_sha256": "e8e8e3d003ac5b2a565cc62a12fcaadb007c0846841ada9f7e5e02624b559f4f",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zechariah 14:21",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 21,
+          "source_ref": "Zechariah 14:21",
+          "segment_mode": "whole",
+          "sha256": "a3841294c16e9ae48ebd6a9a3196cef42c0f73cb2c40ed61762e2a133a89657f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a3841294c16e9ae48ebd6a9a3196cef42c0f73cb2c40ed61762e2a133a89657f",
+      "translation_sha256": "2aa2446a5c8484bc58886b3f40ef1735fc63d29839096b3cde2de06c978ad205",
+      "tsw_blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8",
+      "curated_decisions": [
+        "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 56,
+    "F1": 5,
+    "F2": 1,
+    "F3": 149
+  },
+  "public_verse_slots": 211,
+  "included_source_bindings": 211
+}

@@ -1,0 +1,297 @@
+{
+  "book": "Zechariah",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "9:9-17",
+      "decision": "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Zechariah 9:1",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Zechariah 9:1",
+            "segment_mode": "whole",
+            "sha256": "3611a9d4dc986231500d4144cf86d7ce81ca05ff404e7fd706bff5a2e25f822d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3611a9d4dc986231500d4144cf86d7ce81ca05ff404e7fd706bff5a2e25f822d"
+      },
+      "2": {
+        "source_ref": "Zechariah 9:2",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Zechariah 9:2",
+            "segment_mode": "whole",
+            "sha256": "7fc268791f011b457c3f0cbc1bcc0069652450e2de99ec6205c25177b5dfc4a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7fc268791f011b457c3f0cbc1bcc0069652450e2de99ec6205c25177b5dfc4a2"
+      },
+      "3": {
+        "source_ref": "Zechariah 9:3",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Zechariah 9:3",
+            "segment_mode": "whole",
+            "sha256": "b0c1a6ba66366717323a4cb839e2549b0939d0de44ff8e80cca150731b42b5d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0c1a6ba66366717323a4cb839e2549b0939d0de44ff8e80cca150731b42b5d3"
+      },
+      "4": {
+        "source_ref": "Zechariah 9:4",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Zechariah 9:4",
+            "segment_mode": "whole",
+            "sha256": "5c39527ed3c81a0d99aa28038baacdee988972f121c82c93a7a18ef5a9559396"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c39527ed3c81a0d99aa28038baacdee988972f121c82c93a7a18ef5a9559396"
+      },
+      "5": {
+        "source_ref": "Zechariah 9:5",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Zechariah 9:5",
+            "segment_mode": "whole",
+            "sha256": "83fcb474bac427a9719891e63b7f90f4af1725f33b1c5be5d097e31373c7fa9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83fcb474bac427a9719891e63b7f90f4af1725f33b1c5be5d097e31373c7fa9b"
+      },
+      "6": {
+        "source_ref": "Zechariah 9:6",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Zechariah 9:6",
+            "segment_mode": "whole",
+            "sha256": "4c7c004c0ff26c97226aabc5f5cf622add9b7551caff51922af369cf8a275f0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c7c004c0ff26c97226aabc5f5cf622add9b7551caff51922af369cf8a275f0d"
+      },
+      "7": {
+        "source_ref": "Zechariah 9:7",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Zechariah 9:7",
+            "segment_mode": "whole",
+            "sha256": "4e837f28fec38188c4a721b76ac82ed7bd4c6551f1621abf463d2da1cc6d6689"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e837f28fec38188c4a721b76ac82ed7bd4c6551f1621abf463d2da1cc6d6689"
+      },
+      "8": {
+        "source_ref": "Zechariah 9:8",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Zechariah 9:8",
+            "segment_mode": "whole",
+            "sha256": "551b8bcc9e37ef87df09f8d41e35a69503f2d2b84b93741d0d26242b5e35fac4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "551b8bcc9e37ef87df09f8d41e35a69503f2d2b84b93741d0d26242b5e35fac4"
+      },
+      "9": {
+        "source_ref": "Zechariah 9:9",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Zechariah 9:9",
+            "segment_mode": "whole",
+            "sha256": "266795aeee57834e3686e1ca604e12efc69575ec901367ca6a1b430d83898087"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "266795aeee57834e3686e1ca604e12efc69575ec901367ca6a1b430d83898087"
+      },
+      "10": {
+        "source_ref": "Zechariah 9:10",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Zechariah 9:10",
+            "segment_mode": "whole",
+            "sha256": "a9c5e6118bafca7abec5dc038c3e533a7ee167ed1378e0bd6a24abd5b7fe7c63"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9c5e6118bafca7abec5dc038c3e533a7ee167ed1378e0bd6a24abd5b7fe7c63"
+      },
+      "11": {
+        "source_ref": "Zechariah 9:11",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Zechariah 9:11",
+            "segment_mode": "whole",
+            "sha256": "3c202c03f570437cf71e6341b0dd721b0ef0d742bf893b98af9bbc33aecdf74d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c202c03f570437cf71e6341b0dd721b0ef0d742bf893b98af9bbc33aecdf74d"
+      },
+      "12": {
+        "source_ref": "Zechariah 9:12",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Zechariah 9:12",
+            "segment_mode": "whole",
+            "sha256": "fc49f23311b5888296cedf4e923e6fe5e517bbe254005918c0f7ff8cd34d2512"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fc49f23311b5888296cedf4e923e6fe5e517bbe254005918c0f7ff8cd34d2512"
+      },
+      "13": {
+        "source_ref": "Zechariah 9:13",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Zechariah 9:13",
+            "segment_mode": "whole",
+            "sha256": "1baa2859ce2771b8d9da62605ccb5a53a726ce796c038c44432f7838b8bf97fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1baa2859ce2771b8d9da62605ccb5a53a726ce796c038c44432f7838b8bf97fe"
+      },
+      "14": {
+        "source_ref": "Zechariah 9:14",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Zechariah 9:14",
+            "segment_mode": "whole",
+            "sha256": "cb20a926df55c5f667c8e5e855b49a9f29d4aa4ec844b6d0f479b222eb4e2e27"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb20a926df55c5f667c8e5e855b49a9f29d4aa4ec844b6d0f479b222eb4e2e27"
+      },
+      "15": {
+        "source_ref": "Zechariah 9:15",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Zechariah 9:15",
+            "segment_mode": "whole",
+            "sha256": "1442330839aaabf2fe0cd77d8c8ffaefd5ae1a3faadeff1cd14f96f171e461e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1442330839aaabf2fe0cd77d8c8ffaefd5ae1a3faadeff1cd14f96f171e461e8"
+      },
+      "16": {
+        "source_ref": "Zechariah 9:16",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 16,
+            "source_ref": "Zechariah 9:16",
+            "segment_mode": "whole",
+            "sha256": "313c3c438d52c760cb00a5f26575a20aae7568c39dd010874b86ac5a56d67c61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "313c3c438d52c760cb00a5f26575a20aae7568c39dd010874b86ac5a56d67c61"
+      },
+      "17": {
+        "source_ref": "Zechariah 9:17",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 17,
+            "source_ref": "Zechariah 9:17",
+            "segment_mode": "whole",
+            "sha256": "cf22345f8588b8db60fef8731c5e3f5b7b6b4b9702d664226ebda225387317d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cf22345f8588b8db60fef8731c5e3f5b7b6b4b9702d664226ebda225387317d2"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/zechariah/Zechariah_09.md",
+    "blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
