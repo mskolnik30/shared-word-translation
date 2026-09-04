@@ -46,6 +46,8 @@ Patristic theologians, drawing on the Septuagint and Greek philosophy, found her
 
 Modern Jewish and Christian interpreters have renewed attention to the future force of *ehyeh*. Liberation theologians rightly return verse 14 to verses 7–12: God's identity is known in hearing the cry of enslaved people and acting against oppression.
 
+Black Christian traditions have repeatedly received Exodus as language for survival, resistance, and freedom under slavery and segregation. Womanist interpreters have also warned that no single liberation story can stand for every Black experience: a reading that celebrates deliverance while leaving women's exploitation or the conquest of another people unexamined may reproduce the domination it opposes. Exodus should form solidarity without flattening the different burdens carried within an oppressed community.
+
 ## Power and Consequences
 
 “I AM” must not become an authoritarian slogan attached to a leader, nation, or institution. The name belongs to the God who sees what taskmasters do and sends a reluctant shepherd against imperial power.
@@ -87,3 +89,5 @@ Recommended visuals: a schematic map of proposed Sinai/Horeb regions with uncert
 - Cambridge commentary on Exodus 1:1–15:21: https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/279DEF9351DFE11EAF4C229B694A412E/9780511806377c3_p32-123_CBO.pdf/commentary_part_i_israel_in_egypt_exodus_11521.pdf
 - “Non-Priestly Genesis and Exodus” in *Yahweh among the Gods*: https://www.cambridge.org/core/books/yahweh-among-the-gods/nonpriestly-genesis-and-exodus/47F91EF32B3D124512D7940928421568
 - “The God of the Burning Bush” in *Biblical Theology*: https://www.cambridge.org/core/books/biblical-theology/god-of-the-burning-bush/98453EC425B8B489D954A7CA37772763
+- Charlie Trimm, Brittany Kim, and Carmen Joy Imes, “Black Readings of Exodus”: https://journals.sagepub.com/doi/10.1177/1476993X241258233
+- Delores S. Williams, *Sisters in the Wilderness: The Challenge of Womanist God-Talk*: https://orbisbooks.com/products/sisters-in-the-wilderness

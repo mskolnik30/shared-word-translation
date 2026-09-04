@@ -46,6 +46,8 @@ Reformation commentators defended christological reading while attending to Davi
 
 Liberation, Black, womanist, disability, and trauma-informed interpreters have emphasized the truth-telling body, public humiliation, and the difference between joining the afflicted in lament and explaining suffering from a safe distance.
 
+Trauma-aware readings can receive lament as survivor testimony that resists an imposed resolution rather than as a preliminary stage readers must hurry past. Postcolonial readings likewise hear the afflicted speaker's continued address to God as agency under domination. The later praise must not be used to overwrite the testimony that precedes it or to force survivors toward someone else's preferred ending.
+
 ## Power and Consequences
 
 The movement to praise should not be used to hurry grieving people, demand optimism, or imply that faithful prayer always produces an immediate felt rescue. The psalm itself gives sustained space to abandonment.
@@ -85,3 +87,5 @@ Recommended visuals: a literary movement diagram from lament to assembly to nati
 - “Setting Jesus's Crucifixion within the Davidic Psalms”: https://www.cambridge.org/core/books/suffering-son-of-david-in-matthews-passion-narrative/setting-jesuss-crucifixion-within-the-davidic-psalms/28575FCAC939880BAE491332032E7167
 - United States Conference of Catholic Bishops, introduction to Psalms: https://bible.usccb.org/bible/psalms/0
 - “Calvin as Commentator on the Psalms”: https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/2323E7CC7033191A6A30FC558A06ECBA/9780511606908c4_p85-106_CBO.pdf/calvin_as_commentator_on_the_psalms.pdf
+- Michael E. Spencer, “Grappling with Legacies of Pain, Shame, and Blame in Independent Schools: Reclaiming Lament and Refocusing Praise through Psalm 22”: https://journals.sagepub.com/doi/10.1177/00033286231180143
+- M. Hombana, “Reading Psalm 22 in Mark 15 through a Postcolonial Lens”: https://verbumetecclesia.org.za/index.php/ve/article/view/3592/9297

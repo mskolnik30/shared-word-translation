@@ -40,6 +40,8 @@ Patristic sources are varied: some speak directly of Peter, some of his faith or
 
 The passage also leaves questions of succession unstated. An argument for or against a later office must therefore include broader scriptural, historical, and theological reasoning rather than pretending every element is explicit in verse 18.
 
+Postcolonial interpretation asks how imperial settings and later colonial institutions shape who is permitted to answer Jesus' question and administer the keys. Feminist interpreters likewise ask why authority has so often been transmitted through male-only structures while women's discernment and witness are treated as secondary. These questions do not erase Peter's commission; they test the institutions and exclusions later built from it.
+
 ## Across Christian History
 
 Peter's confession and commission became central to early debates about unity, episcopal authority, repentance, and apostolic memory. Rome's association with Peter and Paul increased the passage's importance in Western Christianity.
@@ -87,3 +89,5 @@ Recommended visuals: a three-scale map locating Caesarea Philippi; an archaeolog
 - “Peter and the Rock: A Fresh Look at Matthew 16:17–19”: https://www.cambridge.org/core/journals/new-testament-studies/article/peter-and-the-rock-a-fresh-look-at-matthew-xvi-1719/49EB2E39B0A2046376A3262790E84702
 - “The Gospel of Matthew” in *The Cambridge Companion to the New Testament*: https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/gospel-of-matthew/EAF8210CC797981553F6484E3D9D84BA
 - “Luther and the Papacy” in *Martin Luther in Context*: https://www.cambridge.org/core/books/martin-luther-in-context/luther-and-the-papacy/9B14B760206216020DB8BDCA22C7497C
+- Johnson Kiriaku Kinyua, “A Postcolonial Examination of Matthew 16:13–23 and Related Issues in Biblical Hermeneutics”: https://www.tandfonline.com/doi/full/10.1179/1476994815Z.00000000044
+- Miranda Pillay, “Good News for All? A Feminist Perspective on the Gospel of Matthew”: https://www.scielo.org.za/scielo.php?pid=S2305-445X2015000100014&script=sci_arttext

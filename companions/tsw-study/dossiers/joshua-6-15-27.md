@@ -38,7 +38,7 @@ Rahab complicates a pure inside/outside division. A Canaanite woman recognizes I
 
 Traditional readings emphasize divine judgment on Canaanite wrongdoing and God's faithfulness to Israel's promise. Canonical readings may place Joshua beside laws that constrain war, prophetic judgments on Israel, and New Testament refusals of violence. Historical-critical readings ask how the book reflects later Israelite identity, land claims, and ancient conquest literature.
 
-Some interpreters regard hyperbolic war rhetoric as the chief moral clarification. Others argue that even a nonliteral extermination story can authorize violent imagination. Postcolonial, Indigenous, womanist, and Palestinian Christian readings ask who is allowed to identify with Israel, who is cast as disposable, and how land theology operates under modern power.
+Some interpreters regard hyperbolic war rhetoric as the chief moral clarification. Others argue that even a nonliteral extermination story can authorize violent imagination. Indigenous interpreters have identified with the Canaanites rather than with the conquerors, exposing how settler communities can claim Israel's role for themselves. Palestinian Christian readings press the modern consequences of land theology when an ancient promise is made to justify displacement. Feminist and womanist readings ask whether Rahab's survival and incorporation among the victors should be called liberation without attending to danger, sexualized reception, and the destruction surrounding her household. These readings ask who is allowed to identify with Israel, who is cast as disposable, and how interpretation operates under modern power.
 
 ## Across Christian History
 
@@ -89,3 +89,6 @@ Recommended visuals: an archaeological photograph of Tell es-Sultan; a three-sca
 - Tell es-Sultan radiocarbon study: https://www.cambridge.org/core/journals/radiocarbon/article/tell-essultan-jericho-radiocarbon-results-of-shortlived-cereal-and-multiyear-charcoal-samples-from-the-end-of-the-middle-bronze-age/49BF732173E7890A2B0EC1B21CB6A817
 - “Was There an Ancient Israel?” in *The Cambridge Introduction to the Old Testament*: https://www.cambridge.org/highereducation/books/the-cambridge-introduction-to-the-old-testament/9BB66D4C1215129A9F5BD56DC2C4D0AC/was-there-an-ancient-israel/C7A1A9B45F1CB666CCE6DB44C239590C
 - “Rahab: An Archetypal Outsider”: https://www.cambridge.org/core/books/war-memory-and-national-identity-in-the-hebrew-bible/rahab-an-archetypal-outsider/0074EB790C53388A02B82F85C6511C41
+- Robert Allen Warrior, “Canaanites, Cowboys, and Indians”: https://ourlearningcircle.org/documents/66/Warrior_Canaanites_Cowboys_and_Indians.pdf
+- Naim Stifan Ateek, *A Palestinian Theology of Liberation*: https://books.google.com/books/about/A_Palestinian_Theology_of_Liberation.html?id=EuliAQAACAAJ
+- Ekaterina E. Kozlova, “What Is in a Name? Rahab, the Canaanite, and the Rhetoric of Liberation in the Hebrew Bible”: https://doi.org/10.1515/opth-2020-0106

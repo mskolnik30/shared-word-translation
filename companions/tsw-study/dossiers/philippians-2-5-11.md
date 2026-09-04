@@ -48,6 +48,8 @@ Chalcedon is not received as an ecumenical council by the Oriental Orthodox chur
 
 John Chrysostom used the passage against readings that diminished Christ's divine status. Reformers such as Calvin treated the emptying as concealment or humble restraint rather than the loss of divinity. Modern “kenotic” theologies have explored divine self-limitation more strongly, while feminist theologians have warned that an unqualified ideal of self-emptying can reinforce the disappearance of those whose selves have already been denied.
 
+African contextual readings have directed the pattern toward political, ecclesial, and community leaders who already possess status. On this reading, kenosis calls the powerful to selfless service and shared life; it is not a demand that people beneath them surrender agency or accept neglect.
+
 ## Power and Consequences
 
 Christ's pattern judges power used for self-protection, prestige, or domination. It does not authorize leaders to keep power while asking everyone else to become small. The one with status relinquishes advantage; the vulnerable person is not instructed to become more available for harm.
@@ -94,3 +96,4 @@ Recommended visuals: a three-scale map of Philippi and the Via Egnatia; an archa
 - Common declaration of Pope John Paul II and Syriac Orthodox Patriarch Moran Mar Ignatius Zakka I Iwas on shared Christological confession: https://www.vatican.va/content/john-paul-ii/en/speeches/1984/june/documents/hf_jp-ii_spe_19840623_jp-ii-zakka-i.html
 - John Calvin, Commentary on Philippians 2: https://ccel.org/ccel/calvin/calcom42/calcom42.iv.iii.ii.html
 - “Prayerful Vulnerability,” *The Christian Century*: https://www.christiancentury.org/article/2003-06/prayerful-vulnerability
+- John A. Ottuh, “The Concept of Kenosis in Philippians 2:6–7 and Its Contextual Application in Africa”: https://verbumetecclesia.org.za/index.php/ve/article/view/2081

@@ -4,7 +4,7 @@
   "publication_state": "BLOCKED_PENDING_HUMAN_REVIEW",
   "machine_audit": {
     "command": "python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json",
-    "status": "passed-after-round3-2026-09-04"
+    "status": "passed-after-round4-2026-09-04"
   },
   "human_gates": [
     {
@@ -28,7 +28,7 @@
     {
       "id": "critical-voices",
       "label": "Feminist, womanist, liberation, disability, postcolonial, and trauma-aware readings where relevant",
-      "status": "pending",
+      "status": "approved",
       "required": true
     },
     {
@@ -88,6 +88,23 @@
         "companions/tsw-study/dossiers/joshua-6-15-27.md",
         "companions/tsw-study/dossiers/psalm-22.md",
         "companions/tsw-study/dossiers/philippians-2-5-11.md",
+        "companions/tsw-study/dossiers/romans-3-21-26.md"
+      ]
+    },
+    {
+      "round": 4,
+      "gate": "critical-voices",
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after review of feminist, womanist, liberation, disability, postcolonial, and trauma-aware perspectives across all ten dossiers, with precision additions concerning anti-Judaism in interpretation of women's speech; Black and womanist readings of Exodus; the unnamed woman in Isaiah; Indigenous, Palestinian Christian, feminist, and womanist readings of Joshua; postcolonial and feminist readings of authority in Matthew; African contextual readings of kenosis; survivor-centered readings of lament; and womanist critique of surrogate atonement imagery.",
+      "files_changed": [
+        "companions/tsw-study/dossiers/1-corinthians-14-33b-36.md",
+        "companions/tsw-study/dossiers/exodus-3-13-15.md",
+        "companions/tsw-study/dossiers/isaiah-7-10-17.md",
+        "companions/tsw-study/dossiers/joshua-6-15-27.md",
+        "companions/tsw-study/dossiers/matthew-16-13-20.md",
+        "companions/tsw-study/dossiers/philippians-2-5-11.md",
+        "companions/tsw-study/dossiers/psalm-22.md",
         "companions/tsw-study/dossiers/romans-3-21-26.md"
       ]
     }

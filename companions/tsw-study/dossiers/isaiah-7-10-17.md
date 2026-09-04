@@ -50,7 +50,7 @@ Modern historical criticism restored the Syro-Ephraimite crisis to the center. C
 
 Read alongside 2 Kings 16, Ahaz's apparently reverent refusal accompanies a political strategy of appealing to Tiglath-pileser III for Assyrian protection. Religious language can conceal dependence on violent power. The empire invited as protection becomes the razor of humiliation in the rest of Isaiah 7.
 
-The unnamed pregnant woman and her child carry the sign in their bodies while kings make alliances. Interpretation should notice this imbalance rather than treating them as props. It should also resist anti-Jewish teaching that makes Christian confidence depend on Jewish error.
+The unnamed pregnant woman and her child carry the sign in their bodies while kings make alliances. Feminist and womanist readings recover her from debates concerned only with kings, prophecy, or virginity and ask what it means for her body and child to bear the public sign while her own voice goes unrecorded. Interpretation should notice this imbalance rather than treating them as props. It should also resist anti-Jewish teaching that makes Christian confidence depend on Jewish error.
 
 “God with us” is not a guarantee that God endorses every policy of the community using the phrase. In Isaiah, divine presence judges the house of David's fear and strategy as well as promising survival.
 
@@ -86,3 +86,4 @@ Recommended visuals: far, regional, and Jerusalem-area maps for the crisis; a ti
 - “From Sinful Birth to Virgin Birth” on Septuagintal reception: https://www.cambridge.org/core/books/jesus-sin-and-perfection-in-early-christianity/from-sinfulbirth-to-virgin-birth/58551E6965156C288F2EFD74CCDDB35A
 - “The Reception of the Bible in the Post-New Testament Period”: https://www.cambridge.org/core/books/new-cambridge-history-of-the-bible/reception-of-the-bible-in-the-postnew-testament-period/854406B57894C1E0680363521662D111
 - Jewish-Christian interpretive history in *A Documentary History of Jewish-Christian Relations*: https://www.cambridge.org/core/books/documentary-history-of-jewishchristian-relations/to-900-ce/797AD7C908D6028FA594E4AFDB9D7A29
+- Sharon Moughtin-Mumby, “Feminist/Womanist Readings of Isaiah,” in *The Oxford Handbook of Isaiah*: https://academic.oup.com/edited-volume/38588/chapter-abstract/334632952

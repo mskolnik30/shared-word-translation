@@ -48,6 +48,8 @@ Quaker and other dissenting traditions appealed to the Spirit's gifts and biblic
 
 Feminist and womanist interpreters have made the passage's history of harm impossible to treat as secondary. They also warn against assuming that “women” form one socially uniform group; status, enslavement, education, marriage, and race shape whose speech is heard.
 
+Defending women's speech must not be built on blaming Judaism for the prohibition. Modern interpretation has sometimes imagined a liberating Christian Paul over against a uniformly misogynistic Judaism, even though the disputed appeal to “the law” has no clear Torah citation. That move combines misogyny with anti-Judaism instead of resolving either one.
+
 ## Power and Consequences
 
 Whatever conclusion a church reaches about liturgical office, these verses do not authorize suppressing testimony about abuse, coercion, crime, or danger. “Silence” cannot be imposed to protect an institution's reputation.
@@ -87,5 +89,6 @@ Recommended visuals: a manuscript-location diagram showing the common position a
 - “The Voice of the Manuscripts on the Silence of Women: The External Evidence for 1 Corinthians 14:34–35”: https://www.cambridge.org/core/journals/new-testament-studies/article/voice-of-the-manuscripts-on-the-silence-of-women-the-external-evidence-for-1-cor-14345/5045B323E5B1F82A873ED1706AD64677
 - “1 Cor 14:34–35 without ‘in All the Churches of the Saints’”: https://www.cambridge.org/core/journals/new-testament-studies/article/1-cor-14345-without-in-all-the-churches-of-the-saints-external-evidence/D4D25E5F5D48A16F34BD806E24BE89AB
 - Karin B. Neutel, “Women's Silence and Jewish Influence”: https://www.cambridge.org/core/journals/new-testament-studies/article/womens-silence-and-jewish-influence-the-problematic-origins-of-the-conjectural-emendation-on-1-cor-1433b35/51F7E1E4937B857E3F6ABCC0B8BA9FFE
+- Marlene Crüsemann, “Irredeemably Hostile to Women: Anti-Jewish Elements in the Exegesis of the Dispute About Women's Right to Speak”: https://journals.sagepub.com/doi/10.1177/0142064X0102307903
 - Eldon Jay Epp, “The Multivalence of the Term ‘Original Text’ in New Testament Textual Criticism”: https://www.cambridge.org/core/journals/harvard-theological-review/article/multivalence-of-the-term-original-text-in-new-testament-textual-criticism/F07B117F5314047B07F11BFF29209F1F
 - Philip B. Payne on Vaticanus marginal symbols: https://www.cambridge.org/core/journals/new-testament-studies/article/vaticanus-distigmeobelos-symbols-marking-added-text-including-1-corinthians-14345/A5FC01A6E14A2A1CF1F514A9BF93C581

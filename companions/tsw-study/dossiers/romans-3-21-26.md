@@ -50,7 +50,7 @@ Eastern Orthodox reception commonly places atonement within the larger work of s
 
 Luther's emphasis on justification by faith liberated many consciences but was sometimes joined to a caricature of Jewish law. Modern Jewish–Christian dialogue and “New Perspective” interpreters have challenged the portrayal of Judaism as a religion of self-earned merit and re-centered covenant membership, Jewish identity, and the Jew–Gentile problem. Apocalyptic readings emphasize God's invasion of sin's enslaved world.
 
-Liberation theologians stress God's rectifying justice in history. Feminist, womanist, and trauma-informed theologians ask whether atonement language sanctifies suffering, depicts divine child abuse, or can instead name God's solidarity with victims and defeat of violent powers. Those questions belong inside—not outside—the doctrine's moral testing.
+Liberation theologians stress God's rectifying justice in history. Feminist, womanist, and trauma-informed theologians ask whether atonement language sanctifies suffering, depicts divine child abuse, or can instead name God's solidarity with victims and defeat of violent powers. Delores Williams's womanist critique is especially concrete: portraying Jesus as a divinely required surrogate can make sacred the coerced surrogacy imposed on Black women. Christian speech about salvation must therefore distinguish God's saving action from divine approval of victimization. Those questions belong inside—not outside—the doctrine's moral testing.
 
 ## Power and Consequences
 
@@ -94,3 +94,5 @@ Recommended visuals: an evidence-based tabernacle/temple diagram locating the me
 - “From Sinful Death to Perfect Death” on *hilasterion* and atonement language: https://www.cambridge.org/core/books/jesus-sin-and-perfection-in-early-christianity/fromsinful-death-to-perfect-death/89DF7A18671BAFBE86AD47F5DE270018
 - “Main Themes” in *The Cambridge Companion to Joseph Ratzinger* on mercy-seat reception: https://www.cambridge.org/core/books/cambridge-companion-to-joseph-ratzinger/main-themes/9F4307F9DC1B9C2AB49752A5F51355D0
 - “The Death of Sin in the Death of Jesus: Atonement Theology”: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/678C2DC9B16F2C5C2992773513C9E3E4/9781107174412apx_451-464_CBO.pdf/death_of_sin_in_the_death_of_jesus_atonement_theology.pdf
+- Delores S. Williams, *Sisters in the Wilderness: The Challenge of Womanist God-Talk*: https://orbisbooks.com/products/sisters-in-the-wilderness
+- Jamall A. Calloway, “The Purpose of Evil Was to Survive It: Black and Womanist Rejecting the Cross for Salvation”: https://journals.sagepub.com/doi/10.1177/09667350211031176
