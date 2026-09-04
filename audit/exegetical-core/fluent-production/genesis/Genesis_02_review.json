@@ -1,0 +1,411 @@
+{
+  "book": "Genesis",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 2:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Genesis 2:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fc3444a9805d2b4c8ab78ad72335da5e2a4693850bee6d75b5483d74a74f8564"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fc3444a9805d2b4c8ab78ad72335da5e2a4693850bee6d75b5483d74a74f8564"
+      },
+      "2": {
+        "source_ref": "Genesis 2:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Genesis 2:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "92d2f8673737adf05f23c6a8bf12f8cc6d4bdc531f52b8d5c3738e71d0c97643"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "92d2f8673737adf05f23c6a8bf12f8cc6d4bdc531f52b8d5c3738e71d0c97643"
+      },
+      "3": {
+        "source_ref": "Genesis 2:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Genesis 2:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a29342077ff2725233672e7116433aabc66b09150381207eb69db76016bcad2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a29342077ff2725233672e7116433aabc66b09150381207eb69db76016bcad2"
+      },
+      "4": {
+        "source_ref": "Genesis 2:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Genesis 2:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3e241dc59ca6b73556fd5554c998da7d3314aca44f3ea1e6f187b6e6b7030af3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3e241dc59ca6b73556fd5554c998da7d3314aca44f3ea1e6f187b6e6b7030af3"
+      },
+      "5": {
+        "source_ref": "Genesis 2:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Genesis 2:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "90287e4ac55019c936c08201b6ba00e96ebdf120a67d759b97a4946a097d0905"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "90287e4ac55019c936c08201b6ba00e96ebdf120a67d759b97a4946a097d0905"
+      },
+      "6": {
+        "source_ref": "Genesis 2:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Genesis 2:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9afb4c2a2f47bdd645c7dd6f947872222424d0ad06f29d7af80a23e890608294"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9afb4c2a2f47bdd645c7dd6f947872222424d0ad06f29d7af80a23e890608294"
+      },
+      "7": {
+        "source_ref": "Genesis 2:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Genesis 2:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "02b7b01099e54f4c6c3c71c757c187808b0077121a179cd29597b3101d29fb3c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02b7b01099e54f4c6c3c71c757c187808b0077121a179cd29597b3101d29fb3c"
+      },
+      "8": {
+        "source_ref": "Genesis 2:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Genesis 2:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "88a618c0b2e8309fd968097d07f50690ccb9246ee91dd61e1ae03d085dbe57d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88a618c0b2e8309fd968097d07f50690ccb9246ee91dd61e1ae03d085dbe57d1"
+      },
+      "9": {
+        "source_ref": "Genesis 2:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Genesis 2:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6fc77a0595fd875064aa5359227877edff9c9b527ea37b73dcb1177d9b51551d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6fc77a0595fd875064aa5359227877edff9c9b527ea37b73dcb1177d9b51551d"
+      },
+      "10": {
+        "source_ref": "Genesis 2:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Genesis 2:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b51be311b5742fb7143339a72659907fadbdab7ff5e08863576993f17770bc5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b51be311b5742fb7143339a72659907fadbdab7ff5e08863576993f17770bc5"
+      },
+      "11": {
+        "source_ref": "Genesis 2:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Genesis 2:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae36a1e0682feeb250d6cdd282e53d3af848f24d300ec3f7db7525a8e4b925d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae36a1e0682feeb250d6cdd282e53d3af848f24d300ec3f7db7525a8e4b925d2"
+      },
+      "12": {
+        "source_ref": "Genesis 2:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Genesis 2:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "638ac8efb53352c433822cff429165e76b528898ac00c5f37acfca7fe58f23d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "638ac8efb53352c433822cff429165e76b528898ac00c5f37acfca7fe58f23d5"
+      },
+      "13": {
+        "source_ref": "Genesis 2:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Genesis 2:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f133afef0a1be458abe5e0b73c6705903e3730be41dccdb9955627dd2711fa59"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f133afef0a1be458abe5e0b73c6705903e3730be41dccdb9955627dd2711fa59"
+      },
+      "14": {
+        "source_ref": "Genesis 2:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "Genesis 2:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "528fc53bf1d3082eef0706220fbb835f8afa3f8a9394bbb036f706ebc80d32e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "528fc53bf1d3082eef0706220fbb835f8afa3f8a9394bbb036f706ebc80d32e9"
+      },
+      "15": {
+        "source_ref": "Genesis 2:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "Genesis 2:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6a686847b0ccaba22af5964d1457d36dc1ac009e96760c79030d2059099b1767"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a686847b0ccaba22af5964d1457d36dc1ac009e96760c79030d2059099b1767"
+      },
+      "16": {
+        "source_ref": "Genesis 2:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "Genesis 2:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a56a8a366ec18efaaaa3179f0c00e1b58117febbeacd473b9d18312f366246a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a56a8a366ec18efaaaa3179f0c00e1b58117febbeacd473b9d18312f366246a8"
+      },
+      "17": {
+        "source_ref": "Genesis 2:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 17,
+            "source_ref": "Genesis 2:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f8b55e856439d6a8650b1b7febe0493a107ba651839f6f7ebac83af565c5e3b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8b55e856439d6a8650b1b7febe0493a107ba651839f6f7ebac83af565c5e3b1"
+      },
+      "18": {
+        "source_ref": "Genesis 2:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 18,
+            "source_ref": "Genesis 2:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3366a7c54bcfa2f7eb4a1795ab6c3ea3e36f63391c761960d7fe30b3d4a83ea1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3366a7c54bcfa2f7eb4a1795ab6c3ea3e36f63391c761960d7fe30b3d4a83ea1"
+      },
+      "19": {
+        "source_ref": "Genesis 2:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 19,
+            "source_ref": "Genesis 2:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4ba9375f1a37d6eac05378a32484b1a9331535468561d5738eaf209db1aae82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4ba9375f1a37d6eac05378a32484b1a9331535468561d5738eaf209db1aae82"
+      },
+      "20": {
+        "source_ref": "Genesis 2:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 20,
+            "source_ref": "Genesis 2:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9bc212f2af42d4d1138fa217271d0875574aaa69e35496dbe64f72d89297cffb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9bc212f2af42d4d1138fa217271d0875574aaa69e35496dbe64f72d89297cffb"
+      },
+      "21": {
+        "source_ref": "Genesis 2:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 21,
+            "source_ref": "Genesis 2:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ae40e4cde7a88e28f034d9344d4fcc14a2b92e03827ae638e2d480508c1162f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ae40e4cde7a88e28f034d9344d4fcc14a2b92e03827ae638e2d480508c1162f"
+      },
+      "22": {
+        "source_ref": "Genesis 2:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 22,
+            "source_ref": "Genesis 2:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "834ae5c34a6d5468efcab23afedb9c61b90a31e5d20d082089ef7b4a27a3db44"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "834ae5c34a6d5468efcab23afedb9c61b90a31e5d20d082089ef7b4a27a3db44"
+      },
+      "23": {
+        "source_ref": "Genesis 2:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 23,
+            "source_ref": "Genesis 2:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82b8ec8b0a2c287c8fc08b5d8343061bf9e605ee5511c9c4d7324a33d75b5049"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82b8ec8b0a2c287c8fc08b5d8343061bf9e605ee5511c9c4d7324a33d75b5049"
+      },
+      "24": {
+        "source_ref": "Genesis 2:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 24,
+            "source_ref": "Genesis 2:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0757f802b98c6639ddd4325ea8bb71abc84dcff4ac948a83a470f3e56077379e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0757f802b98c6639ddd4325ea8bb71abc84dcff4ac948a83a470f3e56077379e"
+      },
+      "25": {
+        "source_ref": "Genesis 2:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 25,
+            "source_ref": "Genesis 2:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3bc124d67bbc4935c969e731c41cb12e902878b204135d882500dc86f2fc491b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3bc124d67bbc4935c969e731c41cb12e902878b204135d882500dc86f2fc491b"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_02.md",
+    "blob_sha": "eb4fc17fa19e11aa811768323432bef215bdfd5b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

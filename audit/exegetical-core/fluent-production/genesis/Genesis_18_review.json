@@ -1,0 +1,531 @@
+{
+  "book": "Genesis",
+  "chapter": 18,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 18:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 1,
+            "source_ref": "Genesis 18:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4f2af43d751497c173c428c75bd906c57ca5ab68642f8f71afc784e2b6286fc3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f2af43d751497c173c428c75bd906c57ca5ab68642f8f71afc784e2b6286fc3"
+      },
+      "2": {
+        "source_ref": "Genesis 18:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 2,
+            "source_ref": "Genesis 18:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c92c33522163c2859315b70d9a1de3c3fada9a01a91cd46dd6ca7b701ecf82a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c92c33522163c2859315b70d9a1de3c3fada9a01a91cd46dd6ca7b701ecf82a"
+      },
+      "3": {
+        "source_ref": "Genesis 18:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 3,
+            "source_ref": "Genesis 18:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82d736215297f0cd2ce18c046692e6bdb75e21ea890601c97ed84c56e4f7bd57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82d736215297f0cd2ce18c046692e6bdb75e21ea890601c97ed84c56e4f7bd57"
+      },
+      "4": {
+        "source_ref": "Genesis 18:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 4,
+            "source_ref": "Genesis 18:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb3baf3cf85e13e202325933fadd352fad0e72a350b391c5e972bda9679cdd7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb3baf3cf85e13e202325933fadd352fad0e72a350b391c5e972bda9679cdd7f"
+      },
+      "5": {
+        "source_ref": "Genesis 18:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 5,
+            "source_ref": "Genesis 18:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2652384f310c32facd8dd38d38fddb5f6010bd8749a82a44a5792a9278de83d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2652384f310c32facd8dd38d38fddb5f6010bd8749a82a44a5792a9278de83d7"
+      },
+      "6": {
+        "source_ref": "Genesis 18:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 6,
+            "source_ref": "Genesis 18:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2fe0646d9502e7f3bf7cbda14d20295f9ad225a7d588e5da7088fed44b171b4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2fe0646d9502e7f3bf7cbda14d20295f9ad225a7d588e5da7088fed44b171b4e"
+      },
+      "7": {
+        "source_ref": "Genesis 18:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 7,
+            "source_ref": "Genesis 18:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f2bb5e4dc3b169aa4165401abef695addc2f093b0117a63355ddf7aef80ed19"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f2bb5e4dc3b169aa4165401abef695addc2f093b0117a63355ddf7aef80ed19"
+      },
+      "8": {
+        "source_ref": "Genesis 18:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 8,
+            "source_ref": "Genesis 18:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "239298e7d0d2de97d24f6a4c2af28634ecc715e9b4eb9f7289a163753e5f9b30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "239298e7d0d2de97d24f6a4c2af28634ecc715e9b4eb9f7289a163753e5f9b30"
+      },
+      "9": {
+        "source_ref": "Genesis 18:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 9,
+            "source_ref": "Genesis 18:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d2b875afd10dd5f0fcd0f8076a02fd746853a5b848e5c373c252fb9f22feeea5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2b875afd10dd5f0fcd0f8076a02fd746853a5b848e5c373c252fb9f22feeea5"
+      },
+      "10": {
+        "source_ref": "Genesis 18:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 10,
+            "source_ref": "Genesis 18:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a63074c0494303201d2535e8a876b88a723385289ddc13d1b8d8569c1d46de4d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a63074c0494303201d2535e8a876b88a723385289ddc13d1b8d8569c1d46de4d"
+      },
+      "11": {
+        "source_ref": "Genesis 18:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 11,
+            "source_ref": "Genesis 18:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d60553d1f633dba20683ba17e877b1c79ea9578e477bbd4e7ef3f0bcde8c160a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d60553d1f633dba20683ba17e877b1c79ea9578e477bbd4e7ef3f0bcde8c160a"
+      },
+      "12": {
+        "source_ref": "Genesis 18:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 12,
+            "source_ref": "Genesis 18:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9fd78aa48b9c18976a09a381dc0242adaa2c98f373cb601c7fb73bc89aa7bbb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9fd78aa48b9c18976a09a381dc0242adaa2c98f373cb601c7fb73bc89aa7bbb"
+      },
+      "13": {
+        "source_ref": "Genesis 18:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 13,
+            "source_ref": "Genesis 18:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5a7c5495adf13044b14aeacfb72860353603c1b1a4224d8e533e0323c4a65898"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a7c5495adf13044b14aeacfb72860353603c1b1a4224d8e533e0323c4a65898"
+      },
+      "14": {
+        "source_ref": "Genesis 18:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 14,
+            "source_ref": "Genesis 18:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c93a17636061417fb643f422cb6fc43de99bd106394eb68f778f72f08d638e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c93a17636061417fb643f422cb6fc43de99bd106394eb68f778f72f08d638e9"
+      },
+      "15": {
+        "source_ref": "Genesis 18:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 15,
+            "source_ref": "Genesis 18:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "05bfa37204f98bda466b9d1744a6b17781ae7bd7ab69e0d4b69f21ba7ab3d532"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05bfa37204f98bda466b9d1744a6b17781ae7bd7ab69e0d4b69f21ba7ab3d532"
+      },
+      "16": {
+        "source_ref": "Genesis 18:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 16,
+            "source_ref": "Genesis 18:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c3bca80d58dc54637d217f20da276c8a856a602d2773c58447044aaf7816b2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c3bca80d58dc54637d217f20da276c8a856a602d2773c58447044aaf7816b2c"
+      },
+      "17": {
+        "source_ref": "Genesis 18:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 17,
+            "source_ref": "Genesis 18:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4627ed16f1473d0a0ac7edef614d65838254efb554490743db58e8a3835559f4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4627ed16f1473d0a0ac7edef614d65838254efb554490743db58e8a3835559f4"
+      },
+      "18": {
+        "source_ref": "Genesis 18:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 18,
+            "source_ref": "Genesis 18:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7762f0ce0a86f9e4dfc4cb848334cb8cf7358c1b17b431f2f5f51506b5b66168"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7762f0ce0a86f9e4dfc4cb848334cb8cf7358c1b17b431f2f5f51506b5b66168"
+      },
+      "19": {
+        "source_ref": "Genesis 18:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 19,
+            "source_ref": "Genesis 18:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "85652d6a691d6a658f1c60d553be9ce2e0f39da5564cf32e5aa884a6327181b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "85652d6a691d6a658f1c60d553be9ce2e0f39da5564cf32e5aa884a6327181b2"
+      },
+      "20": {
+        "source_ref": "Genesis 18:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 20,
+            "source_ref": "Genesis 18:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b06983d1e884de2e939d9ea030c8109c69e257ba0c5d2a8795daa847aadc1167"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b06983d1e884de2e939d9ea030c8109c69e257ba0c5d2a8795daa847aadc1167"
+      },
+      "21": {
+        "source_ref": "Genesis 18:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 21,
+            "source_ref": "Genesis 18:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eef1c39f85d57dca8eec865e6d385fb08d92a10d846b41b8079cf59a4161ffa0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eef1c39f85d57dca8eec865e6d385fb08d92a10d846b41b8079cf59a4161ffa0"
+      },
+      "22": {
+        "source_ref": "Genesis 18:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 22,
+            "source_ref": "Genesis 18:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81233c0346bdb2cab52731a6ee4edeb700b86b679f3914956aedc02b1d648b87"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81233c0346bdb2cab52731a6ee4edeb700b86b679f3914956aedc02b1d648b87"
+      },
+      "23": {
+        "source_ref": "Genesis 18:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 23,
+            "source_ref": "Genesis 18:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "18ada112cfade4d3a3ad39e099a29989670819d94e15c3db9940c6c8309df744"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18ada112cfade4d3a3ad39e099a29989670819d94e15c3db9940c6c8309df744"
+      },
+      "24": {
+        "source_ref": "Genesis 18:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 24,
+            "source_ref": "Genesis 18:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d0c1dd28c80b19bbe2e0072353788b99284a77c106119732aae3fa43d8369c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d0c1dd28c80b19bbe2e0072353788b99284a77c106119732aae3fa43d8369c9"
+      },
+      "25": {
+        "source_ref": "Genesis 18:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 25,
+            "source_ref": "Genesis 18:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "64568b28fd578044bdec251644a3d81929dc870afdc8b0f539c917342d868533"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64568b28fd578044bdec251644a3d81929dc870afdc8b0f539c917342d868533"
+      },
+      "26": {
+        "source_ref": "Genesis 18:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 26,
+            "source_ref": "Genesis 18:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b6e9457a5e448f56ca663c42797066d4b4d2d1ac2cbc7bec10e89afb1f3916a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b6e9457a5e448f56ca663c42797066d4b4d2d1ac2cbc7bec10e89afb1f3916a"
+      },
+      "27": {
+        "source_ref": "Genesis 18:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 27,
+            "source_ref": "Genesis 18:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8dbaa39dc3b7ff2a9de6636123e76cd5f93abdfe62229c1f5822c498ee3bc3ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8dbaa39dc3b7ff2a9de6636123e76cd5f93abdfe62229c1f5822c498ee3bc3ce"
+      },
+      "28": {
+        "source_ref": "Genesis 18:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 28,
+            "source_ref": "Genesis 18:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4dede82538159e4b5deb0187de0780ac4df71a3d93c005e43c8857b239e74955"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4dede82538159e4b5deb0187de0780ac4df71a3d93c005e43c8857b239e74955"
+      },
+      "29": {
+        "source_ref": "Genesis 18:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 29,
+            "source_ref": "Genesis 18:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aecc93e84364a6b37029ef28c146ab416691efc76be036c1f2d520f70245c93a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aecc93e84364a6b37029ef28c146ab416691efc76be036c1f2d520f70245c93a"
+      },
+      "30": {
+        "source_ref": "Genesis 18:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 30,
+            "source_ref": "Genesis 18:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0690d5ec2d0d859f4edcc0e915bc1130804954b5745cdebb5971476919a40cc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0690d5ec2d0d859f4edcc0e915bc1130804954b5745cdebb5971476919a40cc4"
+      },
+      "31": {
+        "source_ref": "Genesis 18:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 31,
+            "source_ref": "Genesis 18:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b32d161f0ceaf31796d1b84836bcf8fe79ae44eccce5a0f0804f1eaf23617e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b32d161f0ceaf31796d1b84836bcf8fe79ae44eccce5a0f0804f1eaf23617e1"
+      },
+      "32": {
+        "source_ref": "Genesis 18:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 32,
+            "source_ref": "Genesis 18:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "59add98bd516bfcb7e39b085aaa2e4ea68dc4556b0b3c013d4b0c3939611bb62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59add98bd516bfcb7e39b085aaa2e4ea68dc4556b0b3c013d4b0c3939611bb62"
+      },
+      "33": {
+        "source_ref": "Genesis 18:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 33,
+            "source_ref": "Genesis 18:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a7b9075b3a004138516cb51063f52eb84eebceebac3002982999d3d6095ea93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a7b9075b3a004138516cb51063f52eb84eebceebac3002982999d3d6095ea93"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_18.md",
+    "blob_sha": "57e3e577837b84c3fd060d6416b2430029d8d48a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

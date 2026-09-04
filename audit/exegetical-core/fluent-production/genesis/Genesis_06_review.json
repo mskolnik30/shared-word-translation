@@ -1,0 +1,372 @@
+{
+  "book": "Genesis",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "6:1-9:29",
+      "decision": "Translate flood violence and covenant plainly without sentimentalizing destruction.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 6:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "Genesis 6:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "598acd16c95a9afabcaebae647a6d61d7d70022aec6a9866fc1a9326f6eb57f5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "598acd16c95a9afabcaebae647a6d61d7d70022aec6a9866fc1a9326f6eb57f5"
+      },
+      "2": {
+        "source_ref": "Genesis 6:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "Genesis 6:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df24ccfc6888ca3305fb019d11238a7d4f2e9f2fda53d79b8c871c42124ab143"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df24ccfc6888ca3305fb019d11238a7d4f2e9f2fda53d79b8c871c42124ab143"
+      },
+      "3": {
+        "source_ref": "Genesis 6:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "Genesis 6:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "638082bb7a957d08c1b44e4d860b53907f9b4ae705a4e4958608b295c6c8b56b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "638082bb7a957d08c1b44e4d860b53907f9b4ae705a4e4958608b295c6c8b56b"
+      },
+      "4": {
+        "source_ref": "Genesis 6:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "Genesis 6:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0154a1c5dd270642add9cc9a3f88e8714ecfc6b0b81323287ca0283a070ffde5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0154a1c5dd270642add9cc9a3f88e8714ecfc6b0b81323287ca0283a070ffde5"
+      },
+      "5": {
+        "source_ref": "Genesis 6:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "Genesis 6:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1a503e6fc746a54b1d7327aaca2e4f27a54b2fcb0dc7ab944e790c86dd33097f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a503e6fc746a54b1d7327aaca2e4f27a54b2fcb0dc7ab944e790c86dd33097f"
+      },
+      "6": {
+        "source_ref": "Genesis 6:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "Genesis 6:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c8106e1cb7b52d2017fcc4297b35a72adb7d7c6b4ae95204fa40ef9170844cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c8106e1cb7b52d2017fcc4297b35a72adb7d7c6b4ae95204fa40ef9170844cb"
+      },
+      "7": {
+        "source_ref": "Genesis 6:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "Genesis 6:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7cf43207de9393a5be2c61cb2b18f21db6ed565fecb18a5f35993e8e03e01e62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7cf43207de9393a5be2c61cb2b18f21db6ed565fecb18a5f35993e8e03e01e62"
+      },
+      "8": {
+        "source_ref": "Genesis 6:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "Genesis 6:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "87331443615b441c6cdca0e36eadca8a8f31ba3af3252b9985a725be47729ec1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87331443615b441c6cdca0e36eadca8a8f31ba3af3252b9985a725be47729ec1"
+      },
+      "9": {
+        "source_ref": "Genesis 6:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "Genesis 6:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d69446fad6a9dc8861853c5a8b18a61afc656334f0b0b19732ad63cdca88ae22"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d69446fad6a9dc8861853c5a8b18a61afc656334f0b0b19732ad63cdca88ae22"
+      },
+      "10": {
+        "source_ref": "Genesis 6:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "Genesis 6:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b16ef612c3107555bfc00295963b446b4e2da757b8cf2e25fbd834a12cd43f4d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b16ef612c3107555bfc00295963b446b4e2da757b8cf2e25fbd834a12cd43f4d"
+      },
+      "11": {
+        "source_ref": "Genesis 6:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "Genesis 6:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "060d0b9b77d59b7dc416d25a3d47e7b3bd59794c15c820000039656bb71afb97"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "060d0b9b77d59b7dc416d25a3d47e7b3bd59794c15c820000039656bb71afb97"
+      },
+      "12": {
+        "source_ref": "Genesis 6:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 12,
+            "source_ref": "Genesis 6:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe57bba451a6136f8eee746410ff25b9a7f9e200a06fa5387dc41f9e2f65d22f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe57bba451a6136f8eee746410ff25b9a7f9e200a06fa5387dc41f9e2f65d22f"
+      },
+      "13": {
+        "source_ref": "Genesis 6:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 13,
+            "source_ref": "Genesis 6:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec0f4a8f01ee4515cc45f11c82aa6702c379677f6bcff72e1758fb55019df435"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec0f4a8f01ee4515cc45f11c82aa6702c379677f6bcff72e1758fb55019df435"
+      },
+      "14": {
+        "source_ref": "Genesis 6:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 14,
+            "source_ref": "Genesis 6:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "607a4b3fbae81206cfbdce1300da71ed77a5aa3e7119517b4c64c46e26448b75"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "607a4b3fbae81206cfbdce1300da71ed77a5aa3e7119517b4c64c46e26448b75"
+      },
+      "15": {
+        "source_ref": "Genesis 6:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 15,
+            "source_ref": "Genesis 6:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bb34991a6832661a24edb67fff9e0bb23f1773357767a301b664fabccc8d784c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb34991a6832661a24edb67fff9e0bb23f1773357767a301b664fabccc8d784c"
+      },
+      "16": {
+        "source_ref": "Genesis 6:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 16,
+            "source_ref": "Genesis 6:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a1dfe9c0c3c087ae86f51df7e82e3d768649a07f8eccb9ca49f6e6fcf8063183"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1dfe9c0c3c087ae86f51df7e82e3d768649a07f8eccb9ca49f6e6fcf8063183"
+      },
+      "17": {
+        "source_ref": "Genesis 6:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 17,
+            "source_ref": "Genesis 6:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "96c7164166b9adee7b097233c871b632d2aef9032c44d23bf6104ec20541541c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96c7164166b9adee7b097233c871b632d2aef9032c44d23bf6104ec20541541c"
+      },
+      "18": {
+        "source_ref": "Genesis 6:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 18,
+            "source_ref": "Genesis 6:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0dd4b951eeb5ea7d0fba00f20016c64d7c0a513c95be6a6985289b5def1dd3f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0dd4b951eeb5ea7d0fba00f20016c64d7c0a513c95be6a6985289b5def1dd3f0"
+      },
+      "19": {
+        "source_ref": "Genesis 6:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 19,
+            "source_ref": "Genesis 6:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a4c0d22929653a07e48366219b462ffa61953b0a91d63f6072cd26738eb3128"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a4c0d22929653a07e48366219b462ffa61953b0a91d63f6072cd26738eb3128"
+      },
+      "20": {
+        "source_ref": "Genesis 6:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 20,
+            "source_ref": "Genesis 6:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "081c411848c91aaa201cf514c089aaae316a3735523064fcd617f0d82c74e41a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "081c411848c91aaa201cf514c089aaae316a3735523064fcd617f0d82c74e41a"
+      },
+      "21": {
+        "source_ref": "Genesis 6:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 21,
+            "source_ref": "Genesis 6:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bdf0973dfb445f01777f318372eeab04bf6da0776dfaacb1d1d36d7493622ef8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdf0973dfb445f01777f318372eeab04bf6da0776dfaacb1d1d36d7493622ef8"
+      },
+      "22": {
+        "source_ref": "Genesis 6:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 22,
+            "source_ref": "Genesis 6:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3f95109f513444cb1ec5d86b21de5de70ec6b333562bc6860b3ccbcafa5962ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f95109f513444cb1ec5d86b21de5de70ec6b333562bc6860b3ccbcafa5962ce"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_06.md",
+    "blob_sha": "d4007f97fb07059d27642532b9a7aa17ca1348ad"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

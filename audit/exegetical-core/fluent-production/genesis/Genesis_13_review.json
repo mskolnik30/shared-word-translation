@@ -1,0 +1,306 @@
+{
+  "book": "Genesis",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 13:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Genesis 13:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a71d9b57e39061f11e59525e2212f036e2bc9c281be9d41fbd318c8501a911be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a71d9b57e39061f11e59525e2212f036e2bc9c281be9d41fbd318c8501a911be"
+      },
+      "2": {
+        "source_ref": "Genesis 13:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Genesis 13:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d11fba6d1632ac2a7ebcdb4820422dc9499cdba8be618fa25a55194f8699c2c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d11fba6d1632ac2a7ebcdb4820422dc9499cdba8be618fa25a55194f8699c2c3"
+      },
+      "3": {
+        "source_ref": "Genesis 13:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Genesis 13:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "43e40ab1175f6b0484668e015689a0ad8339db3f5841a06f88aa570e10d24346"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43e40ab1175f6b0484668e015689a0ad8339db3f5841a06f88aa570e10d24346"
+      },
+      "4": {
+        "source_ref": "Genesis 13:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Genesis 13:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "859e239a7695b564f3ed7fb2576099e55553ca8bf7c94a6181b6ffb0ce35c614"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "859e239a7695b564f3ed7fb2576099e55553ca8bf7c94a6181b6ffb0ce35c614"
+      },
+      "5": {
+        "source_ref": "Genesis 13:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Genesis 13:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bbe3aae3f14c00d8e69fa17f9204f69f102fbcec5ecdee1b1b784b9ca5cd525c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bbe3aae3f14c00d8e69fa17f9204f69f102fbcec5ecdee1b1b784b9ca5cd525c"
+      },
+      "6": {
+        "source_ref": "Genesis 13:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Genesis 13:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d28bd0c97ab67521ce6e699f6f540292151d0f6e11f5016049016ed353f09a07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d28bd0c97ab67521ce6e699f6f540292151d0f6e11f5016049016ed353f09a07"
+      },
+      "7": {
+        "source_ref": "Genesis 13:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 7,
+            "source_ref": "Genesis 13:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6107db72e103140845cd897cf3c8eaf119509e2abf310cbc721c23815d33fd11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6107db72e103140845cd897cf3c8eaf119509e2abf310cbc721c23815d33fd11"
+      },
+      "8": {
+        "source_ref": "Genesis 13:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 8,
+            "source_ref": "Genesis 13:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d6b7f6d1ce9aa8a268b354b7794e3ae7a2a1e2fd9d1f85f5fc073a83ff8529e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d6b7f6d1ce9aa8a268b354b7794e3ae7a2a1e2fd9d1f85f5fc073a83ff8529e"
+      },
+      "9": {
+        "source_ref": "Genesis 13:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 9,
+            "source_ref": "Genesis 13:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2403fbbff95bc988c2a2f425ef42db172973b72ed3d6e1e2ba4d805046618119"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2403fbbff95bc988c2a2f425ef42db172973b72ed3d6e1e2ba4d805046618119"
+      },
+      "10": {
+        "source_ref": "Genesis 13:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 10,
+            "source_ref": "Genesis 13:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ce44a08dc447ecd7a06fbd0d0f2a5e324b8a8eb4f3f7c324fab585abaa669f04"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce44a08dc447ecd7a06fbd0d0f2a5e324b8a8eb4f3f7c324fab585abaa669f04"
+      },
+      "11": {
+        "source_ref": "Genesis 13:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 11,
+            "source_ref": "Genesis 13:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "720c3a11dcca9c5f8b5913c2f4ee40621a20032683214ef11149abd47be7fc4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "720c3a11dcca9c5f8b5913c2f4ee40621a20032683214ef11149abd47be7fc4a"
+      },
+      "12": {
+        "source_ref": "Genesis 13:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 12,
+            "source_ref": "Genesis 13:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "85586883ec1eddfa2f58e7a0d77dea008477679a2f3d1e7f96a516d910b1f66b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "85586883ec1eddfa2f58e7a0d77dea008477679a2f3d1e7f96a516d910b1f66b"
+      },
+      "13": {
+        "source_ref": "Genesis 13:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 13,
+            "source_ref": "Genesis 13:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec8afb8f43a4ab71fda61403792c6029f7fd035d065c5ae1493ea4c6bb15632c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec8afb8f43a4ab71fda61403792c6029f7fd035d065c5ae1493ea4c6bb15632c"
+      },
+      "14": {
+        "source_ref": "Genesis 13:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 14,
+            "source_ref": "Genesis 13:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8317e680d27811578cae2444c7bb7850c500f638ca5bcee716b907cb11aa00cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8317e680d27811578cae2444c7bb7850c500f638ca5bcee716b907cb11aa00cc"
+      },
+      "15": {
+        "source_ref": "Genesis 13:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 15,
+            "source_ref": "Genesis 13:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af766083daa4521ea77f37646f14e5df17971e22a4c73e72fe79900af6a9a9fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af766083daa4521ea77f37646f14e5df17971e22a4c73e72fe79900af6a9a9fc"
+      },
+      "16": {
+        "source_ref": "Genesis 13:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 16,
+            "source_ref": "Genesis 13:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65b48c8326d6a1001e9f45b4e391d9a78dbca288f749b49f7f6890f218360299"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65b48c8326d6a1001e9f45b4e391d9a78dbca288f749b49f7f6890f218360299"
+      },
+      "17": {
+        "source_ref": "Genesis 13:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 17,
+            "source_ref": "Genesis 13:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b602f4691d428f7d7dbcbe665ad520e212337247d983e4c73d20356d8d249fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b602f4691d428f7d7dbcbe665ad520e212337247d983e4c73d20356d8d249fc"
+      },
+      "18": {
+        "source_ref": "Genesis 13:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 18,
+            "source_ref": "Genesis 13:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0037dbf3fbfa9ab1dea102d84b779f5e3e243047235529d86acaca85ce421594"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0037dbf3fbfa9ab1dea102d84b779f5e3e243047235529d86acaca85ce421594"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_13.md",
+    "blob_sha": "8ce0acc15bddd991f162f84a73c6af179a2b26fd"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

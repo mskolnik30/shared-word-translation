@@ -1,0 +1,546 @@
+{
+  "book": "Genesis",
+  "chapter": 46,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 46:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 1,
+            "source_ref": "Genesis 46:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a5ce843454c9e14258590fad721b0be52545b765ae13a26044c3049c250d8255"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5ce843454c9e14258590fad721b0be52545b765ae13a26044c3049c250d8255"
+      },
+      "2": {
+        "source_ref": "Genesis 46:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 2,
+            "source_ref": "Genesis 46:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fc57cffef76938e28012ed338bd2a824a636632a4414e984e7921cf570e4ea5c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fc57cffef76938e28012ed338bd2a824a636632a4414e984e7921cf570e4ea5c"
+      },
+      "3": {
+        "source_ref": "Genesis 46:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 3,
+            "source_ref": "Genesis 46:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56d08b6febba906007505f6650303665619bfa4d2d6c115ad92ca72695f3c0e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56d08b6febba906007505f6650303665619bfa4d2d6c115ad92ca72695f3c0e8"
+      },
+      "4": {
+        "source_ref": "Genesis 46:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 4,
+            "source_ref": "Genesis 46:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c46b7039be49e222ea92a3faa556b97bc2084e18ef175adb3e5372ae48d4f61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c46b7039be49e222ea92a3faa556b97bc2084e18ef175adb3e5372ae48d4f61"
+      },
+      "5": {
+        "source_ref": "Genesis 46:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 5,
+            "source_ref": "Genesis 46:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3508e661d41ab95c0104f1edb4bce6ccc2a4daa26a13832e713cdf31f903fb96"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3508e661d41ab95c0104f1edb4bce6ccc2a4daa26a13832e713cdf31f903fb96"
+      },
+      "6": {
+        "source_ref": "Genesis 46:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 6,
+            "source_ref": "Genesis 46:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd5f1f953a0a87060153c7e5faebe30964b43df8d9b89157c17bf2a4a98beaa9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd5f1f953a0a87060153c7e5faebe30964b43df8d9b89157c17bf2a4a98beaa9"
+      },
+      "7": {
+        "source_ref": "Genesis 46:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 7,
+            "source_ref": "Genesis 46:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fec51f888203f7788e41a764b60327b1652e8124465ca4c842a5ca7e0e036ab1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fec51f888203f7788e41a764b60327b1652e8124465ca4c842a5ca7e0e036ab1"
+      },
+      "8": {
+        "source_ref": "Genesis 46:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 8,
+            "source_ref": "Genesis 46:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f12a66ed7bb08c537b86bd8bd3b6d4b5abff169cd8ceb09ca0b9df9499ad9e7a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f12a66ed7bb08c537b86bd8bd3b6d4b5abff169cd8ceb09ca0b9df9499ad9e7a"
+      },
+      "9": {
+        "source_ref": "Genesis 46:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 9,
+            "source_ref": "Genesis 46:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b95000eb0aa19edc1872070adfac02ba5547f4bb54f73d5b450a6b8ac9c8d82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b95000eb0aa19edc1872070adfac02ba5547f4bb54f73d5b450a6b8ac9c8d82"
+      },
+      "10": {
+        "source_ref": "Genesis 46:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 10,
+            "source_ref": "Genesis 46:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "353b69b869c3fe5d4f83c84a87b124cddaf177c6b45c43bb39c0eca238d40b27"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "353b69b869c3fe5d4f83c84a87b124cddaf177c6b45c43bb39c0eca238d40b27"
+      },
+      "11": {
+        "source_ref": "Genesis 46:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 11,
+            "source_ref": "Genesis 46:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84d5189bab99390e5474f0126ba477641a0d15d810215b028244aa0b747924f7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84d5189bab99390e5474f0126ba477641a0d15d810215b028244aa0b747924f7"
+      },
+      "12": {
+        "source_ref": "Genesis 46:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 12,
+            "source_ref": "Genesis 46:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8299c105e37240d44941518bd05f7c3729d2f22f00a011496aff68eb8365bdb4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8299c105e37240d44941518bd05f7c3729d2f22f00a011496aff68eb8365bdb4"
+      },
+      "13": {
+        "source_ref": "Genesis 46:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 13,
+            "source_ref": "Genesis 46:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d9eb96fa294f397f8be36759f6c2fafbf63d23d5705db3e84b927683b5d9f31b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9eb96fa294f397f8be36759f6c2fafbf63d23d5705db3e84b927683b5d9f31b"
+      },
+      "14": {
+        "source_ref": "Genesis 46:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 14,
+            "source_ref": "Genesis 46:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe7a13d0f6fd30c18aa7f1b66a05608d8e6324bcceb212433397566192193f8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe7a13d0f6fd30c18aa7f1b66a05608d8e6324bcceb212433397566192193f8e"
+      },
+      "15": {
+        "source_ref": "Genesis 46:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 15,
+            "source_ref": "Genesis 46:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e30f93ac34a63e31aba43e1bcc35ec9da1c58085f286e190f693376c2f542e4d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e30f93ac34a63e31aba43e1bcc35ec9da1c58085f286e190f693376c2f542e4d"
+      },
+      "16": {
+        "source_ref": "Genesis 46:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 16,
+            "source_ref": "Genesis 46:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4b2993d77db3a6af07df2841f1587a40db774c3163b39af0f56ca0a8442510c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4b2993d77db3a6af07df2841f1587a40db774c3163b39af0f56ca0a8442510c"
+      },
+      "17": {
+        "source_ref": "Genesis 46:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 17,
+            "source_ref": "Genesis 46:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9b9b1329a7982312328a79d8142d98e086652458296737809151be89bd0f635c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b9b1329a7982312328a79d8142d98e086652458296737809151be89bd0f635c"
+      },
+      "18": {
+        "source_ref": "Genesis 46:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 18,
+            "source_ref": "Genesis 46:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9f004e78e8815c97b7cc5018b9905502f1ae145d7d0f8108894b65e8bd5fe658"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f004e78e8815c97b7cc5018b9905502f1ae145d7d0f8108894b65e8bd5fe658"
+      },
+      "19": {
+        "source_ref": "Genesis 46:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 19,
+            "source_ref": "Genesis 46:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b69f5210ff00ac9efa433afb2613c40b16951a76343a35fed0d386fe42c0c76"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b69f5210ff00ac9efa433afb2613c40b16951a76343a35fed0d386fe42c0c76"
+      },
+      "20": {
+        "source_ref": "Genesis 46:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 20,
+            "source_ref": "Genesis 46:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f767524a6947ee5def89a2bb82ed48677779ff0351b9bd17ce70c58dfa0a981d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f767524a6947ee5def89a2bb82ed48677779ff0351b9bd17ce70c58dfa0a981d"
+      },
+      "21": {
+        "source_ref": "Genesis 46:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 21,
+            "source_ref": "Genesis 46:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df258c90a997c897d3dd5bf4099656d5a675ef5cfdc369b782832b9d4f048a4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df258c90a997c897d3dd5bf4099656d5a675ef5cfdc369b782832b9d4f048a4a"
+      },
+      "22": {
+        "source_ref": "Genesis 46:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 22,
+            "source_ref": "Genesis 46:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "338b57394af6a454f0c4470419ccb6bb80bde24cfe808a3f882b4c5c25188d01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "338b57394af6a454f0c4470419ccb6bb80bde24cfe808a3f882b4c5c25188d01"
+      },
+      "23": {
+        "source_ref": "Genesis 46:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 23,
+            "source_ref": "Genesis 46:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a212e20610030a7ddb317c64bf26997390fd503d4e3c724e9a4ebff0915d43a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a212e20610030a7ddb317c64bf26997390fd503d4e3c724e9a4ebff0915d43a7"
+      },
+      "24": {
+        "source_ref": "Genesis 46:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 24,
+            "source_ref": "Genesis 46:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3465550436e98bb43cb28f6adbaada4d63b7e82b8e7422f1bd8e9293ef37ca05"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3465550436e98bb43cb28f6adbaada4d63b7e82b8e7422f1bd8e9293ef37ca05"
+      },
+      "25": {
+        "source_ref": "Genesis 46:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 25,
+            "source_ref": "Genesis 46:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "407c0e6a8d013f738aaddac2b4e9cc057d912944b08974c9a35458bb8b3aa69b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "407c0e6a8d013f738aaddac2b4e9cc057d912944b08974c9a35458bb8b3aa69b"
+      },
+      "26": {
+        "source_ref": "Genesis 46:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 26,
+            "source_ref": "Genesis 46:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "40aa1da5d56f234ba286d00b6307278c31c60c3053bcc564625dd20c6ee21fec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40aa1da5d56f234ba286d00b6307278c31c60c3053bcc564625dd20c6ee21fec"
+      },
+      "27": {
+        "source_ref": "Genesis 46:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 27,
+            "source_ref": "Genesis 46:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "23edfe70acc7e8e83fea538c49d8074611c709bf76b2c44e032a08d7637c5a0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23edfe70acc7e8e83fea538c49d8074611c709bf76b2c44e032a08d7637c5a0b"
+      },
+      "28": {
+        "source_ref": "Genesis 46:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 28,
+            "source_ref": "Genesis 46:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "30a5c709a3572647f01d4fe08f116de13fce30af88c56a4a038d4dc5f194c0f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30a5c709a3572647f01d4fe08f116de13fce30af88c56a4a038d4dc5f194c0f3"
+      },
+      "29": {
+        "source_ref": "Genesis 46:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 29,
+            "source_ref": "Genesis 46:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65cf45946d0a8dc41782867b1a07cf4a8d342407f7014f5969c39cfddebd5112"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65cf45946d0a8dc41782867b1a07cf4a8d342407f7014f5969c39cfddebd5112"
+      },
+      "30": {
+        "source_ref": "Genesis 46:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 30,
+            "source_ref": "Genesis 46:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "046cd10b92b9a3142c7b8725509d0d28355b748c280f6cdc201fecd3ce3b7a06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "046cd10b92b9a3142c7b8725509d0d28355b748c280f6cdc201fecd3ce3b7a06"
+      },
+      "31": {
+        "source_ref": "Genesis 46:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 31,
+            "source_ref": "Genesis 46:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "12e54510e5f30c5c22b3acfd54eb13790b5b0f223cdb9c62c4c89c528baaabd7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12e54510e5f30c5c22b3acfd54eb13790b5b0f223cdb9c62c4c89c528baaabd7"
+      },
+      "32": {
+        "source_ref": "Genesis 46:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 32,
+            "source_ref": "Genesis 46:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7570d82ffaf021f366da228265f5c68a77525b14716c714571e448794136eb5c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7570d82ffaf021f366da228265f5c68a77525b14716c714571e448794136eb5c"
+      },
+      "33": {
+        "source_ref": "Genesis 46:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 33,
+            "source_ref": "Genesis 46:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "67b8f0a4edb5f3b4b689c38e9080438e20b6a4139afb5cb42c8c535ed99d5701"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67b8f0a4edb5f3b4b689c38e9080438e20b6a4139afb5cb42c8c535ed99d5701"
+      },
+      "34": {
+        "source_ref": "Genesis 46:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 34,
+            "source_ref": "Genesis 46:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b5c5848b1adff953c876154611926b492554ef9fd5c9a4eeccbb880639c7716"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b5c5848b1adff953c876154611926b492554ef9fd5c9a4eeccbb880639c7716"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_46.md",
+    "blob_sha": "eb72288905f86afac4dcc2f6e67a0bc6f899317b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

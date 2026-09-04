@@ -1,0 +1,336 @@
+{
+  "book": "Genesis",
+  "chapter": 33,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 33:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 1,
+            "source_ref": "Genesis 33:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "37e8f7e4df60538b5080acfe9279ce7e9290b987c788d0cd5f151fda42df3299"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37e8f7e4df60538b5080acfe9279ce7e9290b987c788d0cd5f151fda42df3299"
+      },
+      "2": {
+        "source_ref": "Genesis 33:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 2,
+            "source_ref": "Genesis 33:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "41895bee35c464ae6b2192e6e224e7c6d9406d68cdcde6cdee03b158f3064a69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41895bee35c464ae6b2192e6e224e7c6d9406d68cdcde6cdee03b158f3064a69"
+      },
+      "3": {
+        "source_ref": "Genesis 33:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 3,
+            "source_ref": "Genesis 33:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "60a1e701cc2f86e5591e5c2814ce77894e0bda97ca35326bdea664a83afe3ee5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60a1e701cc2f86e5591e5c2814ce77894e0bda97ca35326bdea664a83afe3ee5"
+      },
+      "4": {
+        "source_ref": "Genesis 33:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 4,
+            "source_ref": "Genesis 33:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "86dcbd14a149dea1675621c033388bc927f5b939f9b4d117cd69875f108f76b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "86dcbd14a149dea1675621c033388bc927f5b939f9b4d117cd69875f108f76b5"
+      },
+      "5": {
+        "source_ref": "Genesis 33:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 5,
+            "source_ref": "Genesis 33:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a429fcf56ad319a220260a2f70dc0ef226475e498e3ec9c1fb7b6647f87647e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a429fcf56ad319a220260a2f70dc0ef226475e498e3ec9c1fb7b6647f87647e"
+      },
+      "6": {
+        "source_ref": "Genesis 33:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 6,
+            "source_ref": "Genesis 33:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e65713a44a56abaab8ab457fc22113ee5e01abb845685971b0301c7914e711fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e65713a44a56abaab8ab457fc22113ee5e01abb845685971b0301c7914e711fe"
+      },
+      "7": {
+        "source_ref": "Genesis 33:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 7,
+            "source_ref": "Genesis 33:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5559abd4deaa050a43efa6df582962b9bc0296a4243665a3d02b86033825178e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5559abd4deaa050a43efa6df582962b9bc0296a4243665a3d02b86033825178e"
+      },
+      "8": {
+        "source_ref": "Genesis 33:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 8,
+            "source_ref": "Genesis 33:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "52a6ef4051b380ac9279c0f1935d04be244903ebc7b0c8c53ea0752c355dd9b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "52a6ef4051b380ac9279c0f1935d04be244903ebc7b0c8c53ea0752c355dd9b2"
+      },
+      "9": {
+        "source_ref": "Genesis 33:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 9,
+            "source_ref": "Genesis 33:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27cb47b2758835c9a6c343358f4aec5acebb491483567c958f1764b612c0c60e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27cb47b2758835c9a6c343358f4aec5acebb491483567c958f1764b612c0c60e"
+      },
+      "10": {
+        "source_ref": "Genesis 33:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 10,
+            "source_ref": "Genesis 33:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d71fec05fa43c043e0ba2ab8e7a85109f43fff4c116ea2fbc02b251db7ced6cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d71fec05fa43c043e0ba2ab8e7a85109f43fff4c116ea2fbc02b251db7ced6cd"
+      },
+      "11": {
+        "source_ref": "Genesis 33:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 11,
+            "source_ref": "Genesis 33:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cf639f8c51985086aa873ff3d5ab2d63fa57bda2ac13af3fd3795bf0296c9cd2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cf639f8c51985086aa873ff3d5ab2d63fa57bda2ac13af3fd3795bf0296c9cd2"
+      },
+      "12": {
+        "source_ref": "Genesis 33:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 12,
+            "source_ref": "Genesis 33:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1046fa7608fdf68d08c409a39c7d3cd7dfda3d85f41069fa9d7cd64f501d345"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1046fa7608fdf68d08c409a39c7d3cd7dfda3d85f41069fa9d7cd64f501d345"
+      },
+      "13": {
+        "source_ref": "Genesis 33:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 13,
+            "source_ref": "Genesis 33:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1fdff08c5747304323e760d4f86e4ea96e3d0d1571d03fd685b0a7b26055530f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1fdff08c5747304323e760d4f86e4ea96e3d0d1571d03fd685b0a7b26055530f"
+      },
+      "14": {
+        "source_ref": "Genesis 33:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 14,
+            "source_ref": "Genesis 33:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "17ceff52f40082025c066093a17e93b1c9b237e16b854d4c791a5a41b52f9b6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17ceff52f40082025c066093a17e93b1c9b237e16b854d4c791a5a41b52f9b6a"
+      },
+      "15": {
+        "source_ref": "Genesis 33:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 15,
+            "source_ref": "Genesis 33:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "67ae1a625cb2ebf707ad50d85c018d1206bfc7ec83de0d098a86b9b7f6a94dbf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67ae1a625cb2ebf707ad50d85c018d1206bfc7ec83de0d098a86b9b7f6a94dbf"
+      },
+      "16": {
+        "source_ref": "Genesis 33:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 16,
+            "source_ref": "Genesis 33:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "140debc29b077f5b698e02eec4a95e9c8e407b7cde9182f8b28a790d475fb7ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "140debc29b077f5b698e02eec4a95e9c8e407b7cde9182f8b28a790d475fb7ab"
+      },
+      "17": {
+        "source_ref": "Genesis 33:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 17,
+            "source_ref": "Genesis 33:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a86f78ff3f2333cfd73aa294f40240b39571c1bd2eeff0c0cdae15ffcea51cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a86f78ff3f2333cfd73aa294f40240b39571c1bd2eeff0c0cdae15ffcea51cc"
+      },
+      "18": {
+        "source_ref": "Genesis 33:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 18,
+            "source_ref": "Genesis 33:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b4308634ea2ce9abd04eeb7c92d071743eba45f31779d05ce176fa6966cfdef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b4308634ea2ce9abd04eeb7c92d071743eba45f31779d05ce176fa6966cfdef"
+      },
+      "19": {
+        "source_ref": "Genesis 33:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 19,
+            "source_ref": "Genesis 33:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3f891b6ecbae79f138c79eaf0b5792bc937d6da5c6f6e1af94b855047041a330"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f891b6ecbae79f138c79eaf0b5792bc937d6da5c6f6e1af94b855047041a330"
+      },
+      "20": {
+        "source_ref": "Genesis 33:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 20,
+            "source_ref": "Genesis 33:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b4c3685f549a1a163c09610c007b3c27454ce608f1b204908f730e3f1867cf9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b4c3685f549a1a163c09610c007b3c27454ce608f1b204908f730e3f1867cf9"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_33.md",
+    "blob_sha": "5fa123d5e4335a70f760492ca866460b4a3c2c26"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

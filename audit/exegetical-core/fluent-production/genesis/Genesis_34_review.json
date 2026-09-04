@@ -1,0 +1,501 @@
+{
+  "book": "Genesis",
+  "chapter": 34,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 34:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 1,
+            "source_ref": "Genesis 34:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0eb7b0583baed8121b9e8584a450bf795c6a42ffd3027632a211452e1788a3d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0eb7b0583baed8121b9e8584a450bf795c6a42ffd3027632a211452e1788a3d2"
+      },
+      "2": {
+        "source_ref": "Genesis 34:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 2,
+            "source_ref": "Genesis 34:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c6957b89e3049135bae05c6f91cda5436224c700aa002c773d3e017c909d44ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6957b89e3049135bae05c6f91cda5436224c700aa002c773d3e017c909d44ff"
+      },
+      "3": {
+        "source_ref": "Genesis 34:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 3,
+            "source_ref": "Genesis 34:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "331f5d550797745ff7b1485ea37c95e95b76ddd0cf3357c07c55565bcb7304e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "331f5d550797745ff7b1485ea37c95e95b76ddd0cf3357c07c55565bcb7304e9"
+      },
+      "4": {
+        "source_ref": "Genesis 34:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 4,
+            "source_ref": "Genesis 34:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7744b0b18696ec1c4a4392df1121ad0af41bef128bdc777263d614433f283178"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7744b0b18696ec1c4a4392df1121ad0af41bef128bdc777263d614433f283178"
+      },
+      "5": {
+        "source_ref": "Genesis 34:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 5,
+            "source_ref": "Genesis 34:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f88b8b82fef4d962c9e553a724ad59a4b4ad9610c397c7d48baa5ed23dda07f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f88b8b82fef4d962c9e553a724ad59a4b4ad9610c397c7d48baa5ed23dda07f"
+      },
+      "6": {
+        "source_ref": "Genesis 34:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 6,
+            "source_ref": "Genesis 34:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0220824ef94847c08f44af664d92f4f694a3b0f20eba93e95b9e1bc118097465"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0220824ef94847c08f44af664d92f4f694a3b0f20eba93e95b9e1bc118097465"
+      },
+      "7": {
+        "source_ref": "Genesis 34:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 7,
+            "source_ref": "Genesis 34:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "db02f678941c5a90ef9a8d23ea7150b2bb4c798a576f1e7b04ef869a09210cc5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db02f678941c5a90ef9a8d23ea7150b2bb4c798a576f1e7b04ef869a09210cc5"
+      },
+      "8": {
+        "source_ref": "Genesis 34:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 8,
+            "source_ref": "Genesis 34:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d685e2afc36061efb5522c9768af10b7ff79634e629aa5723d9e150a5054d771"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d685e2afc36061efb5522c9768af10b7ff79634e629aa5723d9e150a5054d771"
+      },
+      "9": {
+        "source_ref": "Genesis 34:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 9,
+            "source_ref": "Genesis 34:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a4db7b1d6e38e34a68dbfc967c60f3060f70d6375c27814e4933372f8ea81370"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a4db7b1d6e38e34a68dbfc967c60f3060f70d6375c27814e4933372f8ea81370"
+      },
+      "10": {
+        "source_ref": "Genesis 34:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 10,
+            "source_ref": "Genesis 34:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "711adb2084e85c50ffa2db09e283d7514f8a88233abd8f34738f956c25a11660"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "711adb2084e85c50ffa2db09e283d7514f8a88233abd8f34738f956c25a11660"
+      },
+      "11": {
+        "source_ref": "Genesis 34:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 11,
+            "source_ref": "Genesis 34:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b4f62e4ad6df2a1c5d4ad06e6e930e5c2509d051ea2a4189697097d75c2dba5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b4f62e4ad6df2a1c5d4ad06e6e930e5c2509d051ea2a4189697097d75c2dba5"
+      },
+      "12": {
+        "source_ref": "Genesis 34:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 12,
+            "source_ref": "Genesis 34:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "94fb8da9a36864c54b76a7fc1626b9e786909c905ae84632a83fa3330e3be51e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94fb8da9a36864c54b76a7fc1626b9e786909c905ae84632a83fa3330e3be51e"
+      },
+      "13": {
+        "source_ref": "Genesis 34:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 13,
+            "source_ref": "Genesis 34:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7c26b931a8d262802b41eb38601605fa950647a819d019787fb87839929a1e67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c26b931a8d262802b41eb38601605fa950647a819d019787fb87839929a1e67"
+      },
+      "14": {
+        "source_ref": "Genesis 34:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 14,
+            "source_ref": "Genesis 34:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "18ed5e3b16e4d063747cfff3f80e9afcb6237d67fc4f59d92d03b62cc2a1cc25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18ed5e3b16e4d063747cfff3f80e9afcb6237d67fc4f59d92d03b62cc2a1cc25"
+      },
+      "15": {
+        "source_ref": "Genesis 34:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 15,
+            "source_ref": "Genesis 34:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6aa1882d58d6207cc68f33ffc0a56227541cf67820dd992805ced7b8542b2ad7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6aa1882d58d6207cc68f33ffc0a56227541cf67820dd992805ced7b8542b2ad7"
+      },
+      "16": {
+        "source_ref": "Genesis 34:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 16,
+            "source_ref": "Genesis 34:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9e52458398ff55fd72bd64c6e790e1597c25f90b7cf2796940e6ede8adb37796"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e52458398ff55fd72bd64c6e790e1597c25f90b7cf2796940e6ede8adb37796"
+      },
+      "17": {
+        "source_ref": "Genesis 34:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 17,
+            "source_ref": "Genesis 34:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "541a3c9138f18fa97555920a75fbc473c6170352d79d6202d4638485d6e1ac7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "541a3c9138f18fa97555920a75fbc473c6170352d79d6202d4638485d6e1ac7f"
+      },
+      "18": {
+        "source_ref": "Genesis 34:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 18,
+            "source_ref": "Genesis 34:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f8ca22c9595a6995ef4262221d41c50979e9919f6f5d8b667d3fdc958fb669ee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8ca22c9595a6995ef4262221d41c50979e9919f6f5d8b667d3fdc958fb669ee"
+      },
+      "19": {
+        "source_ref": "Genesis 34:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 19,
+            "source_ref": "Genesis 34:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27da802a2ed7d73207ab9d6952b2e9433e43d1dec5c7926ffe2f59b3a7321053"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27da802a2ed7d73207ab9d6952b2e9433e43d1dec5c7926ffe2f59b3a7321053"
+      },
+      "20": {
+        "source_ref": "Genesis 34:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 20,
+            "source_ref": "Genesis 34:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea97908605e0a07178d6cb2140bd2bbf962e62481c93136f5d45b31fb08d7c23"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea97908605e0a07178d6cb2140bd2bbf962e62481c93136f5d45b31fb08d7c23"
+      },
+      "21": {
+        "source_ref": "Genesis 34:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 21,
+            "source_ref": "Genesis 34:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6793e6d90fb0ad36278757acf495f2880ab3f98ef6ff4378db806490fc3f33ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6793e6d90fb0ad36278757acf495f2880ab3f98ef6ff4378db806490fc3f33ab"
+      },
+      "22": {
+        "source_ref": "Genesis 34:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 22,
+            "source_ref": "Genesis 34:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "405dcc2f524eff9b8552f7f88ca2b64163b789fc4edd2bdb03e660c01581fbc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "405dcc2f524eff9b8552f7f88ca2b64163b789fc4edd2bdb03e660c01581fbc4"
+      },
+      "23": {
+        "source_ref": "Genesis 34:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 23,
+            "source_ref": "Genesis 34:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dbab4c35ea03b4ed1a03e29647f3c5ba1379ab65756dc5f7eeaa39987b5bb084"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dbab4c35ea03b4ed1a03e29647f3c5ba1379ab65756dc5f7eeaa39987b5bb084"
+      },
+      "24": {
+        "source_ref": "Genesis 34:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 24,
+            "source_ref": "Genesis 34:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "92f20b637baaee16e457171bc1ba3a5111694f5cbf705395b80e8f1f2ba1b1da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "92f20b637baaee16e457171bc1ba3a5111694f5cbf705395b80e8f1f2ba1b1da"
+      },
+      "25": {
+        "source_ref": "Genesis 34:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 25,
+            "source_ref": "Genesis 34:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ab8a670900c6c6e80e4b62c3b54cbb4a7d23833350dc1145394ac7ccd9c453c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ab8a670900c6c6e80e4b62c3b54cbb4a7d23833350dc1145394ac7ccd9c453c"
+      },
+      "26": {
+        "source_ref": "Genesis 34:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 26,
+            "source_ref": "Genesis 34:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2ccb9fb58664314a670984906ea73fcc7738a66521023ec27ac3820afee47163"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ccb9fb58664314a670984906ea73fcc7738a66521023ec27ac3820afee47163"
+      },
+      "27": {
+        "source_ref": "Genesis 34:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 27,
+            "source_ref": "Genesis 34:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6a7dd482efb577216f843967a10690e501119776946c78dbe83be5ae17a2ea01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a7dd482efb577216f843967a10690e501119776946c78dbe83be5ae17a2ea01"
+      },
+      "28": {
+        "source_ref": "Genesis 34:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 28,
+            "source_ref": "Genesis 34:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e63b68e04ba63be04f7b4552a84709f46cfabfa5ae7e8ff28eaa72888a39bee4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e63b68e04ba63be04f7b4552a84709f46cfabfa5ae7e8ff28eaa72888a39bee4"
+      },
+      "29": {
+        "source_ref": "Genesis 34:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 29,
+            "source_ref": "Genesis 34:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb7e6a4f94b7506ad02648274f1ac6c7e93c240b209a14ea9ebf549756538758"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb7e6a4f94b7506ad02648274f1ac6c7e93c240b209a14ea9ebf549756538758"
+      },
+      "30": {
+        "source_ref": "Genesis 34:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 30,
+            "source_ref": "Genesis 34:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9e4090fa49a7f3ffddded19f5cbea370f81f0d49993647806e1e698a2a27e73b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e4090fa49a7f3ffddded19f5cbea370f81f0d49993647806e1e698a2a27e73b"
+      },
+      "31": {
+        "source_ref": "Genesis 34:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 31,
+            "source_ref": "Genesis 34:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6603bcf125583324f74ccb58539545b7c4828f0b87180a0282d2ca1ba4679377"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6603bcf125583324f74ccb58539545b7c4828f0b87180a0282d2ca1ba4679377"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_34.md",
+    "blob_sha": "607b4adc0bee29c69f1c37049222346d34bc1d6f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

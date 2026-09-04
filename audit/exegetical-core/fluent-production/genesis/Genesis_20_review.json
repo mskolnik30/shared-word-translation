@@ -1,0 +1,306 @@
+{
+  "book": "Genesis",
+  "chapter": 20,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 20:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 1,
+            "source_ref": "Genesis 20:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d1a53501dbfb5950f1cd358abf5f02e7ce0e5123f22581645aab7a9d2bd0dbda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1a53501dbfb5950f1cd358abf5f02e7ce0e5123f22581645aab7a9d2bd0dbda"
+      },
+      "2": {
+        "source_ref": "Genesis 20:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 2,
+            "source_ref": "Genesis 20:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd47a1706c1cb91db0189b6f7497d1c547f2d7dde5e76c6e96599d34dbd17a50"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd47a1706c1cb91db0189b6f7497d1c547f2d7dde5e76c6e96599d34dbd17a50"
+      },
+      "3": {
+        "source_ref": "Genesis 20:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 3,
+            "source_ref": "Genesis 20:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "223b63a609c8e7210528c0b2d7f7f92c14d35e5cff952faec592867413616b30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "223b63a609c8e7210528c0b2d7f7f92c14d35e5cff952faec592867413616b30"
+      },
+      "4": {
+        "source_ref": "Genesis 20:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 4,
+            "source_ref": "Genesis 20:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "119d564ed8fb857589b774bae7742972cd928afd59ed6aab8b6447a639360a53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "119d564ed8fb857589b774bae7742972cd928afd59ed6aab8b6447a639360a53"
+      },
+      "5": {
+        "source_ref": "Genesis 20:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 5,
+            "source_ref": "Genesis 20:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3ce649399152aa4d5e35434958aab78bebdcf19cd6960517d957b7b1165a029d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ce649399152aa4d5e35434958aab78bebdcf19cd6960517d957b7b1165a029d"
+      },
+      "6": {
+        "source_ref": "Genesis 20:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 6,
+            "source_ref": "Genesis 20:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "22b9f6abeb99ff370c89ee6285e81acb3bb042a09b1038d87f7c362c1c9b3d6b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22b9f6abeb99ff370c89ee6285e81acb3bb042a09b1038d87f7c362c1c9b3d6b"
+      },
+      "7": {
+        "source_ref": "Genesis 20:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 7,
+            "source_ref": "Genesis 20:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3e5ba3db63d5792be68739393a91c03b69397ea33fd9c0a82c6986fe06fffff6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3e5ba3db63d5792be68739393a91c03b69397ea33fd9c0a82c6986fe06fffff6"
+      },
+      "8": {
+        "source_ref": "Genesis 20:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 8,
+            "source_ref": "Genesis 20:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35ebb1e98f3fe92ed24722acfef8618f589408e41e7934bfd7b50afe0e218ea3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35ebb1e98f3fe92ed24722acfef8618f589408e41e7934bfd7b50afe0e218ea3"
+      },
+      "9": {
+        "source_ref": "Genesis 20:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 9,
+            "source_ref": "Genesis 20:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ab855b579e342e7b30d3c25e64985a161e6d4573f252ce7965074f777a71300c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab855b579e342e7b30d3c25e64985a161e6d4573f252ce7965074f777a71300c"
+      },
+      "10": {
+        "source_ref": "Genesis 20:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 10,
+            "source_ref": "Genesis 20:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d571a529ad83e9f6e98e0c43ee47f77d3a5c6325f247b8a2f452f937b57c6d4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d571a529ad83e9f6e98e0c43ee47f77d3a5c6325f247b8a2f452f937b57c6d4e"
+      },
+      "11": {
+        "source_ref": "Genesis 20:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 11,
+            "source_ref": "Genesis 20:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2f7b94fa86dd8946eeee8a27a256a1577503d901cd5c2e558a1691a182d2c4fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f7b94fa86dd8946eeee8a27a256a1577503d901cd5c2e558a1691a182d2c4fa"
+      },
+      "12": {
+        "source_ref": "Genesis 20:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 12,
+            "source_ref": "Genesis 20:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fed5b4cea842a81a6d1941fa06b671b7883f4261596cd6724992ec1b588a324e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fed5b4cea842a81a6d1941fa06b671b7883f4261596cd6724992ec1b588a324e"
+      },
+      "13": {
+        "source_ref": "Genesis 20:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 13,
+            "source_ref": "Genesis 20:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "26a8707412a703620b6ad05e37e26ec9e869c02aaf05bcdc06d5fa28e2100b70"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26a8707412a703620b6ad05e37e26ec9e869c02aaf05bcdc06d5fa28e2100b70"
+      },
+      "14": {
+        "source_ref": "Genesis 20:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 14,
+            "source_ref": "Genesis 20:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "edd8c74fe491925ef30d4b8c5d31eed40a472cd20d2f4bc9196f5d201e52095d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "edd8c74fe491925ef30d4b8c5d31eed40a472cd20d2f4bc9196f5d201e52095d"
+      },
+      "15": {
+        "source_ref": "Genesis 20:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 15,
+            "source_ref": "Genesis 20:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb39346b746a6503b7473c6a950248f6fd526cc4856b85723bf6d344c2ff7318"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb39346b746a6503b7473c6a950248f6fd526cc4856b85723bf6d344c2ff7318"
+      },
+      "16": {
+        "source_ref": "Genesis 20:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 16,
+            "source_ref": "Genesis 20:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "367f08fbcf1376a5c3faddb6db63456cde723d7c294644133c0103ac856e3332"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "367f08fbcf1376a5c3faddb6db63456cde723d7c294644133c0103ac856e3332"
+      },
+      "17": {
+        "source_ref": "Genesis 20:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 17,
+            "source_ref": "Genesis 20:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "98bca9f43c9663fdbd2d7c84651d876aefdec3e8c936ff7edd3d279c798ba6ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98bca9f43c9663fdbd2d7c84651d876aefdec3e8c936ff7edd3d279c798ba6ef"
+      },
+      "18": {
+        "source_ref": "Genesis 20:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 18,
+            "source_ref": "Genesis 20:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6fd2d3bd39c277ebe574c130a88bd9ef068f4e6b856ad781d7061b12e277d1c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6fd2d3bd39c277ebe574c130a88bd9ef068f4e6b856ad781d7061b12e277d1c7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_20.md",
+    "blob_sha": "804a50fdcff8a344ed00329e8e3b341b42a2d537"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

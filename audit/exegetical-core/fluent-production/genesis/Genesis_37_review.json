@@ -1,0 +1,582 @@
+{
+  "book": "Genesis",
+  "chapter": 37,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "37:1-50:26",
+      "decision": "Keep family violence, enslavement, sexual coercion, providence, famine policy, forgiveness, and grief in view.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 37:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 1,
+            "source_ref": "Genesis 37:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f89ab3efeea31c339128829f6f3e6285c1a3c36f48ed8805d0d097436e61105a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f89ab3efeea31c339128829f6f3e6285c1a3c36f48ed8805d0d097436e61105a"
+      },
+      "2": {
+        "source_ref": "Genesis 37:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 2,
+            "source_ref": "Genesis 37:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7919078b48027b65a080bbdc4473d28c0da072f73d82894ee0355ccce8e3c7c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7919078b48027b65a080bbdc4473d28c0da072f73d82894ee0355ccce8e3c7c3"
+      },
+      "3": {
+        "source_ref": "Genesis 37:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 3,
+            "source_ref": "Genesis 37:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1848c55b354d08369324bdc21e1b9e6dd1f5833a867e3b024d2c43d8e3691d55"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1848c55b354d08369324bdc21e1b9e6dd1f5833a867e3b024d2c43d8e3691d55"
+      },
+      "4": {
+        "source_ref": "Genesis 37:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 4,
+            "source_ref": "Genesis 37:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2391bc223bf1c79038000baf08a6025bf9435cb87f0eba916969875ff48d28aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2391bc223bf1c79038000baf08a6025bf9435cb87f0eba916969875ff48d28aa"
+      },
+      "5": {
+        "source_ref": "Genesis 37:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 5,
+            "source_ref": "Genesis 37:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62dfcc4872ed810c2d3a76976a3bb52257d999da4f9db390d24873201bd994b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62dfcc4872ed810c2d3a76976a3bb52257d999da4f9db390d24873201bd994b7"
+      },
+      "6": {
+        "source_ref": "Genesis 37:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 6,
+            "source_ref": "Genesis 37:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a4d5389179b34a56213129cf714f0a2edd0e4eed9f3f35939c011fae11acd5d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a4d5389179b34a56213129cf714f0a2edd0e4eed9f3f35939c011fae11acd5d9"
+      },
+      "7": {
+        "source_ref": "Genesis 37:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 7,
+            "source_ref": "Genesis 37:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c809123647801b5580d615a5b395cd27bb45ec7b088ac16bcd864ff019e01020"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c809123647801b5580d615a5b395cd27bb45ec7b088ac16bcd864ff019e01020"
+      },
+      "8": {
+        "source_ref": "Genesis 37:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 8,
+            "source_ref": "Genesis 37:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f394aedcad3ff7457f12fa0459e1fecc284b0349f2496271270237a8c745e9d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f394aedcad3ff7457f12fa0459e1fecc284b0349f2496271270237a8c745e9d5"
+      },
+      "9": {
+        "source_ref": "Genesis 37:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 9,
+            "source_ref": "Genesis 37:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d0ed59ae7067e2993bf538662d489764930e58d52c95df3e1c2b848ae1f3d6d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0ed59ae7067e2993bf538662d489764930e58d52c95df3e1c2b848ae1f3d6d0"
+      },
+      "10": {
+        "source_ref": "Genesis 37:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 10,
+            "source_ref": "Genesis 37:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a1f3a6a3349a201ecd5ccc19c3ffaab3c9cc57968569db0dfd3601c777988c82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1f3a6a3349a201ecd5ccc19c3ffaab3c9cc57968569db0dfd3601c777988c82"
+      },
+      "11": {
+        "source_ref": "Genesis 37:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 11,
+            "source_ref": "Genesis 37:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1598ebf18a372abaea3f492bb282567644801598df48b10e6719f9bb2f05aa51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1598ebf18a372abaea3f492bb282567644801598df48b10e6719f9bb2f05aa51"
+      },
+      "12": {
+        "source_ref": "Genesis 37:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 12,
+            "source_ref": "Genesis 37:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "986c55ef602409315deaf41d01d3dd6b4083dee95706945bdf02ade12f7f52a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "986c55ef602409315deaf41d01d3dd6b4083dee95706945bdf02ade12f7f52a3"
+      },
+      "13": {
+        "source_ref": "Genesis 37:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 13,
+            "source_ref": "Genesis 37:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "57c6dabf62e32bd856cdd6f5f2d406653d0746922dc90cfc07b5e92b0230f247"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57c6dabf62e32bd856cdd6f5f2d406653d0746922dc90cfc07b5e92b0230f247"
+      },
+      "14": {
+        "source_ref": "Genesis 37:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 14,
+            "source_ref": "Genesis 37:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc038111c308e0d1c3e8445206d3964b534a14cbd2a4a07dc6b37fbdafa695b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc038111c308e0d1c3e8445206d3964b534a14cbd2a4a07dc6b37fbdafa695b6"
+      },
+      "15": {
+        "source_ref": "Genesis 37:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 15,
+            "source_ref": "Genesis 37:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "937484e17d03d49af53f7bcb97cdfd7c36d5b901a5eb4900b55870c580c387ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "937484e17d03d49af53f7bcb97cdfd7c36d5b901a5eb4900b55870c580c387ef"
+      },
+      "16": {
+        "source_ref": "Genesis 37:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 16,
+            "source_ref": "Genesis 37:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fc0adc6bfdcc5738149eeffb12f1befb00b3122d5c2e6984a3cb4f7e07c4baa4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fc0adc6bfdcc5738149eeffb12f1befb00b3122d5c2e6984a3cb4f7e07c4baa4"
+      },
+      "17": {
+        "source_ref": "Genesis 37:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 17,
+            "source_ref": "Genesis 37:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6e3892cbf09e3ee05fb5516626bec60399f0541ec8a30d618f3958249c262ef3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e3892cbf09e3ee05fb5516626bec60399f0541ec8a30d618f3958249c262ef3"
+      },
+      "18": {
+        "source_ref": "Genesis 37:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 18,
+            "source_ref": "Genesis 37:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d6194278885d12db48dba3bc0469fc1aa2741a734bfb9a02ee254fe413a72b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d6194278885d12db48dba3bc0469fc1aa2741a734bfb9a02ee254fe413a72b7"
+      },
+      "19": {
+        "source_ref": "Genesis 37:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 19,
+            "source_ref": "Genesis 37:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d11328b012ce6d5ed54ca020ed180ac7c5d259df000c28bec31bd7c40c1d7054"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d11328b012ce6d5ed54ca020ed180ac7c5d259df000c28bec31bd7c40c1d7054"
+      },
+      "20": {
+        "source_ref": "Genesis 37:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 20,
+            "source_ref": "Genesis 37:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "506db764beff74e9e9844b90750cc67b11fc357b5100ad84aad1495bc2202897"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "506db764beff74e9e9844b90750cc67b11fc357b5100ad84aad1495bc2202897"
+      },
+      "21": {
+        "source_ref": "Genesis 37:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 21,
+            "source_ref": "Genesis 37:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1bfbcde50e900d59b8794ae840238cbe178c430c9f272813f23b79d9b1e1916a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1bfbcde50e900d59b8794ae840238cbe178c430c9f272813f23b79d9b1e1916a"
+      },
+      "22": {
+        "source_ref": "Genesis 37:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 22,
+            "source_ref": "Genesis 37:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "97ce00a02a2d8743ff911adfbf5d98d03aa7406b16f960223a85437193473920"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "97ce00a02a2d8743ff911adfbf5d98d03aa7406b16f960223a85437193473920"
+      },
+      "23": {
+        "source_ref": "Genesis 37:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 23,
+            "source_ref": "Genesis 37:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1ccfdd348a38f994343876aa6c0f195680c5f73541f0c59e53685f29268d25dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ccfdd348a38f994343876aa6c0f195680c5f73541f0c59e53685f29268d25dd"
+      },
+      "24": {
+        "source_ref": "Genesis 37:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 24,
+            "source_ref": "Genesis 37:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "649e983083a7d8221c17920bcf21ec18e41298412983f18eb5cd3fdca201ef4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "649e983083a7d8221c17920bcf21ec18e41298412983f18eb5cd3fdca201ef4a"
+      },
+      "25": {
+        "source_ref": "Genesis 37:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 25,
+            "source_ref": "Genesis 37:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cdd9f4b401eadb06f78b04f246ecc9b069ceeea20bfc027337ba3a6b16d73e9d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cdd9f4b401eadb06f78b04f246ecc9b069ceeea20bfc027337ba3a6b16d73e9d"
+      },
+      "26": {
+        "source_ref": "Genesis 37:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 26,
+            "source_ref": "Genesis 37:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0e29b1a73fd815327622b142f853e4d870fcd2c6667691cae9c72dc1db6aef9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e29b1a73fd815327622b142f853e4d870fcd2c6667691cae9c72dc1db6aef9c"
+      },
+      "27": {
+        "source_ref": "Genesis 37:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 27,
+            "source_ref": "Genesis 37:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "44c5f6d559ef6f68812be7e9546fb0b0c4d094de62cf50be7ed7f3ded0b5a711"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44c5f6d559ef6f68812be7e9546fb0b0c4d094de62cf50be7ed7f3ded0b5a711"
+      },
+      "28": {
+        "source_ref": "Genesis 37:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 28,
+            "source_ref": "Genesis 37:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a72ad28dcbd83160e9d49e9cdada5942f297471b8ca8d869bf4c3cb80be8e415"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a72ad28dcbd83160e9d49e9cdada5942f297471b8ca8d869bf4c3cb80be8e415"
+      },
+      "29": {
+        "source_ref": "Genesis 37:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 29,
+            "source_ref": "Genesis 37:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eef1a42294174c10371edf68f8f47f60669e916fb6f9f6ed287751822654ca1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eef1a42294174c10371edf68f8f47f60669e916fb6f9f6ed287751822654ca1b"
+      },
+      "30": {
+        "source_ref": "Genesis 37:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 30,
+            "source_ref": "Genesis 37:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2a17e4e07d553bea229d855328c2e0e98578555292cf109be9df76a91b8c6855"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a17e4e07d553bea229d855328c2e0e98578555292cf109be9df76a91b8c6855"
+      },
+      "31": {
+        "source_ref": "Genesis 37:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 31,
+            "source_ref": "Genesis 37:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "500ffaf27f4ac6a710167de6700c5b29e70373c6c89fb9c51e8907321d72edb7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "500ffaf27f4ac6a710167de6700c5b29e70373c6c89fb9c51e8907321d72edb7"
+      },
+      "32": {
+        "source_ref": "Genesis 37:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 32,
+            "source_ref": "Genesis 37:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2870f441e897ecefb33c4c2a6ed4ae4d20efaa6bfc4f69320f361d4826910c3c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2870f441e897ecefb33c4c2a6ed4ae4d20efaa6bfc4f69320f361d4826910c3c"
+      },
+      "33": {
+        "source_ref": "Genesis 37:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 33,
+            "source_ref": "Genesis 37:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "41a9c25516d7f66fabbd43aab00626be04fcdd52aae6772ca4124600c587f8c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41a9c25516d7f66fabbd43aab00626be04fcdd52aae6772ca4124600c587f8c4"
+      },
+      "34": {
+        "source_ref": "Genesis 37:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 34,
+            "source_ref": "Genesis 37:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fdf1b847e28dc719ccb17cce6b9f53fd45f56a9d2766c9b1c6bdc28c590ce8d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fdf1b847e28dc719ccb17cce6b9f53fd45f56a9d2766c9b1c6bdc28c590ce8d6"
+      },
+      "35": {
+        "source_ref": "Genesis 37:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 35,
+            "source_ref": "Genesis 37:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35e0dce698e766ba881ce87d274e271fa660b8b99b91f8c411616198c70a2085"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35e0dce698e766ba881ce87d274e271fa660b8b99b91f8c411616198c70a2085"
+      },
+      "36": {
+        "source_ref": "Genesis 37:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 37,
+            "verse": 36,
+            "source_ref": "Genesis 37:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4d686f93690cc966d32bbc4cb638d34cec8906de9cea7025c7aee15530c0c60e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4d686f93690cc966d32bbc4cb638d34cec8906de9cea7025c7aee15530c0c60e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_37.md",
+    "blob_sha": "0175ce185bd4a785391e5eade059b78a184dd0ab"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
