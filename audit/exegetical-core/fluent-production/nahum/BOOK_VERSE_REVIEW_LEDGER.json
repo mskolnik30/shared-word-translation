@@ -1,0 +1,1102 @@
+{
+  "book": "Nahum",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Nah.xml",
+    "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Nahum 1:1",
+          "segment_mode": "whole",
+          "sha256": "359d4f7cb2a55593b9d061c2b2f0b7ef33e6d629a671c72fea6d4ee538ebe88b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "359d4f7cb2a55593b9d061c2b2f0b7ef33e6d629a671c72fea6d4ee538ebe88b",
+      "translation_sha256": "fd0595e79a065b275d4ba95c2937132b950791ee36d535a74e9ef161e841c1b0",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Nahum 1:2",
+          "segment_mode": "whole",
+          "sha256": "6280976e9833f6f16aa2f56b2f1386d3b4a87b210f755b8eb8f8450ac187e263"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6280976e9833f6f16aa2f56b2f1386d3b4a87b210f755b8eb8f8450ac187e263",
+      "translation_sha256": "98199204d2a710af821bfb934adacd337ba7e29643cfaeb32093e7fcdde7f751",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Nahum 1:3",
+          "segment_mode": "whole",
+          "sha256": "9f2f547d67903a91f7c85910da2354ad27144adb639322fa3f32eb65d8395565"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9f2f547d67903a91f7c85910da2354ad27144adb639322fa3f32eb65d8395565",
+      "translation_sha256": "37a5a650c65eba940f6452eb98d0514e21e922649475a4de8bde696275c1a88f",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Nahum 1:4",
+          "segment_mode": "whole",
+          "sha256": "1bccbbc515edc2a8c047572e70c70451f6ab8a3bffcb0180b9c0c76bb61389d0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1bccbbc515edc2a8c047572e70c70451f6ab8a3bffcb0180b9c0c76bb61389d0",
+      "translation_sha256": "a0907da8661788640cadeef60c731811622441fdfcba4325b3a5a0061390299a",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Nahum 1:5",
+          "segment_mode": "whole",
+          "sha256": "1316bbb0fc46c9c8bacacf72128e3c722ee15d3d0d489a81aedde220d9c28f65"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1316bbb0fc46c9c8bacacf72128e3c722ee15d3d0d489a81aedde220d9c28f65",
+      "translation_sha256": "16a10a403a7466c3fc006e04e73223b17f748c04c1793451b54c36e71651ea5c",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Nahum 1:6",
+          "segment_mode": "whole",
+          "sha256": "b8721914280472a879eb87232c794d11e42a8d4124c29f6253efe0d37ad2c262"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b8721914280472a879eb87232c794d11e42a8d4124c29f6253efe0d37ad2c262",
+      "translation_sha256": "36d4a53770a81d1ba38354a347448b1e962cfabb5b18ba0d02d696834681e92a",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Nahum 1:7",
+          "segment_mode": "whole",
+          "sha256": "f96b99fad9b6fb03d9e392de0eae746856851a5f55b94cf725c4fda59e3454b7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f96b99fad9b6fb03d9e392de0eae746856851a5f55b94cf725c4fda59e3454b7",
+      "translation_sha256": "8ff1056f1b0a34a90e72257d5c038052a4755959167dbcc30a839f67fe5df59e",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Nahum 1:8",
+          "segment_mode": "whole",
+          "sha256": "1eb7ba02aedf0a556e3688a549db71542b879e2e265de2a71c7124e03e723e0c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1eb7ba02aedf0a556e3688a549db71542b879e2e265de2a71c7124e03e723e0c",
+      "translation_sha256": "710a91156537d7b575a63988a3ecf858d9d7964eff53ad7e24388575a067fbe5",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Nahum 1:9",
+          "segment_mode": "whole",
+          "sha256": "846213859c68eccec38dc73d9b4a7279f6a8f82bccd5a6bffd82f8c74f41d385"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "846213859c68eccec38dc73d9b4a7279f6a8f82bccd5a6bffd82f8c74f41d385",
+      "translation_sha256": "ba97cd625a5271aff162cf9b0d01ddb91a5757023b5ff745684b8731f52f4e38",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Nahum 1:10",
+          "segment_mode": "whole",
+          "sha256": "186152a65cca60bfb14494383a4b06980b007ec07af38c9eeec7a37f7555a72b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "186152a65cca60bfb14494383a4b06980b007ec07af38c9eeec7a37f7555a72b",
+      "translation_sha256": "76517ca130d133d3d114fe53dad60fec51c8c0bdd50582cf5fd0dbf9261d28ce",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Nahum 1:11",
+          "segment_mode": "whole",
+          "sha256": "a1f6c3da9a2099022ab24f5d827ac46fc622383591fb78c5b62ce3c44c4aae68"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a1f6c3da9a2099022ab24f5d827ac46fc622383591fb78c5b62ce3c44c4aae68",
+      "translation_sha256": "408ed58164a2ff570007ce726f6338a4208620db98deabc4b87b2ab100670d21",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Nahum 1:12",
+          "segment_mode": "whole",
+          "sha256": "9f365935a6cfc348eaab9a7aa0649481d6096de896518c93d66d14371b49ada6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9f365935a6cfc348eaab9a7aa0649481d6096de896518c93d66d14371b49ada6",
+      "translation_sha256": "0e081a51636b2334f112063418a6cfba4b0a98c485193e2526ee3b38dac0c2b6",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Nahum 1:13",
+          "segment_mode": "whole",
+          "sha256": "1f2a61f00f60d5b063adda6d6ee745b25a3550e3959d0bfc0e25d9b94e04fc9a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1f2a61f00f60d5b063adda6d6ee745b25a3550e3959d0bfc0e25d9b94e04fc9a",
+      "translation_sha256": "bfb21398a2a7388b3a5fb2ec19bf8a809631c114eb0afca7cbd4b4a35b4dc058",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Nahum 1:14",
+          "segment_mode": "whole",
+          "sha256": "6c57978d193d296b071b4f21c22dae7914d43e22f65bdb1ad49549ba463d9dd2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6c57978d193d296b071b4f21c22dae7914d43e22f65bdb1ad49549ba463d9dd2",
+      "translation_sha256": "35ad6ff35bed87a8ddb9758eb0bc7fd419fe735ea67879fcdeac14d2fa677629",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:1 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Nahum 2:1 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "c2bbec2b401955cde32a85b71567bfb6bdcad6c820f894e4358b2d536fd926d6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c2bbec2b401955cde32a85b71567bfb6bdcad6c820f894e4358b2d536fd926d6",
+      "translation_sha256": "f68b50bde98c458912af0e0dc6fbe8dd38a9c4af27035a99c35c2e43d5bf5d1e",
+      "tsw_blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a",
+      "curated_decisions": [
+        "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:2 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Nahum 2:2 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "34925f4cf106847b5833715e982ae9552569c94440a6967714fba81171dcbe21"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "34925f4cf106847b5833715e982ae9552569c94440a6967714fba81171dcbe21",
+      "translation_sha256": "cc8353854ed4e63dd2178b3729eb5ee7c274c17951302e93b1c673a31e18fbb6",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:3 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Nahum 2:3 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "213f1952dfb77c698aedc96c728e273e8c9a50f8f153f73f7828866cfbaa4659"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "213f1952dfb77c698aedc96c728e273e8c9a50f8f153f73f7828866cfbaa4659",
+      "translation_sha256": "7ac87a4af4f45c702ac1d51e5709e18d8bdb485447af3297eb61ed126e8f8cfc",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:4 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Nahum 2:4 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "b045925e701d32dc62f0d970edad41a5d7dc679d3f6ecb2f8a4cb0998e28f6da"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b045925e701d32dc62f0d970edad41a5d7dc679d3f6ecb2f8a4cb0998e28f6da",
+      "translation_sha256": "5161128170cc9f66f0d40e78ce28265b5e8c32aea9c288b8be15a3011df2aca3",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:5 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Nahum 2:5 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "834ab4f4f600b61270f19be3b3aa5979c324797432b73e0b45514ae292f24cbc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "834ab4f4f600b61270f19be3b3aa5979c324797432b73e0b45514ae292f24cbc",
+      "translation_sha256": "a62df07d987a138ca64ae3e19ddfbb0040b9f9dafdd8c2570a24306c0f6ae414",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:6 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Nahum 2:6 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "1b67cbe17e30f3de29869cb08306985a25d01910a5ad9cca771db7461ef1ef92"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1b67cbe17e30f3de29869cb08306985a25d01910a5ad9cca771db7461ef1ef92",
+      "translation_sha256": "55cb85f1b42548a5aa761cdc8a6dbe757fe71110f31c8acf5dfba867da02aae3",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:7 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Nahum 2:7 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "c074a26e7325a77d006e5520b271d15701b051c38cd4a381bc63d3bb0b37a255"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c074a26e7325a77d006e5520b271d15701b051c38cd4a381bc63d3bb0b37a255",
+      "translation_sha256": "6fd34a5b18ebe29c48e3cf747697d386df4e5447f9617d7d123168bbbda65b09",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:8 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Nahum 2:8 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "b856ec51e1646cc4fe6238d98f91c06d7a4bca1cbd2782de4879506f8a7ad591"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b856ec51e1646cc4fe6238d98f91c06d7a4bca1cbd2782de4879506f8a7ad591",
+      "translation_sha256": "d2c2d70203fa71424b207166a0d832dbd1e03f44fe550dd055c2df5bc35e4267",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:9 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Nahum 2:9 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "70bcb9c27e272ca5a09224d83ccae2f8d3ff72d7c5ba38d58d0e45d4732e7e16"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "70bcb9c27e272ca5a09224d83ccae2f8d3ff72d7c5ba38d58d0e45d4732e7e16",
+      "translation_sha256": "490f7d9a99a444851305ababcf8bc05d421a232d960c5f2344d475ef10acea21",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:10 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Nahum 2:10 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "b186450df7a97982458ce2a1c237a009d29bce4b9566f5bc26f2918394fb3741"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b186450df7a97982458ce2a1c237a009d29bce4b9566f5bc26f2918394fb3741",
+      "translation_sha256": "26aaf48f7fc72674ce8c645afc0983109150a2650d6520fb91fa7b266eb7f3f1",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:11 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Nahum 2:11 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "d63fc2c3b1d0389ff1d6ba52296c0c45046a67ad879ec449d6b6fbec1bc698a4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d63fc2c3b1d0389ff1d6ba52296c0c45046a67ad879ec449d6b6fbec1bc698a4",
+      "translation_sha256": "5d16a195f606a9314280c1146b64c44be9c3407999cb41f130fe54c34916be54",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:12 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Nahum 2:12 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "b34764670e34c3dd5c4d4c6cef9ed5ce8e08f5deb2ed26ab8f9db418793981fd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b34764670e34c3dd5c4d4c6cef9ed5ce8e08f5deb2ed26ab8f9db418793981fd",
+      "translation_sha256": "360b41d7fbd11bc4ba7c8e6ca749d2631647f8106292cde767b5f54a27b7cd70",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:13 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Nahum 2:13 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "c8a7451c0cbf67273299cae460433405d55ea0520d9357e302857e74d715999e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c8a7451c0cbf67273299cae460433405d55ea0520d9357e302857e74d715999e",
+      "translation_sha256": "c5a902750a667e77a264071dd7ee207a01d4dbbecf4c477175cb79f8408f5dc7",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 2:14 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Nahum 2:14 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "7f5c058a4eda983e4cec36de451ed5ae5f94636e619b4205ac9168f4a4f751e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7f5c058a4eda983e4cec36de451ed5ae5f94636e619b4205ac9168f4a4f751e3",
+      "translation_sha256": "d6a2cad33bd505b1267872378c3b74742d09a428625d139e82dbc61832653416",
+      "tsw_blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548",
+      "curated_decisions": [
+        "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Nahum 3:1",
+          "segment_mode": "whole",
+          "sha256": "d19bab9f7ca300903476dd736889a6258f4cfd3b2d9fed23fd4f3f826580c722"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d19bab9f7ca300903476dd736889a6258f4cfd3b2d9fed23fd4f3f826580c722",
+      "translation_sha256": "55f85c07e379ace6b1ce0acdb06fc0854aad3c2affe3df6bcb416ef2a44cde45",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Nahum 3:2",
+          "segment_mode": "whole",
+          "sha256": "2801dab8fb679e470edeb6996c995012950de6b0cc0b55126252dde54354262c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2801dab8fb679e470edeb6996c995012950de6b0cc0b55126252dde54354262c",
+      "translation_sha256": "ea6352bdcca1d2c0a1847c7c826fdd13f8b92b250f321ce3b8a7d7aa48e0a9a7",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Nahum 3:3",
+          "segment_mode": "whole",
+          "sha256": "47da816dbc691271af59ac4d59a77d475f76b95d0388c344d7d1151e7595bb78"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "47da816dbc691271af59ac4d59a77d475f76b95d0388c344d7d1151e7595bb78",
+      "translation_sha256": "8e28c76d2710bc2ad25c9bd8993a8fff826b994b1eb3caca8da1f692693e0943",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Nahum 3:4",
+          "segment_mode": "whole",
+          "sha256": "0d4cc4427c5293113d9bcae2ccc67248089864edfde7dbfb941093b62f009716"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0d4cc4427c5293113d9bcae2ccc67248089864edfde7dbfb941093b62f009716",
+      "translation_sha256": "32bc1da30df4afb48d71d11c05f5ad03118d01d66520da5e87e27d53f1381d28",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Nahum 3:5",
+          "segment_mode": "whole",
+          "sha256": "2a5bc9a86c82e0536e6c8fcacfa76b768af41bb2a0e6939dab54d74f1ea36a3e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2a5bc9a86c82e0536e6c8fcacfa76b768af41bb2a0e6939dab54d74f1ea36a3e",
+      "translation_sha256": "f81ec212a8534b67d43194047521bf534869f47174736c31e0cb44c811525c3f",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Nahum 3:6",
+          "segment_mode": "whole",
+          "sha256": "b17483b65fec66e1ba8bbcfe4c44284d698a1450867182c3510a54d4c4e31d16"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b17483b65fec66e1ba8bbcfe4c44284d698a1450867182c3510a54d4c4e31d16",
+      "translation_sha256": "b09f95a9f6cb5e6cdb15ad186764cf9aa91a50748898add9d1eb19ab48d38354",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Nahum 3:7",
+          "segment_mode": "whole",
+          "sha256": "e6049302b72aead23b65cc395eb3dfc60b5546098096d0e6a3deebb6d5d8e5ec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e6049302b72aead23b65cc395eb3dfc60b5546098096d0e6a3deebb6d5d8e5ec",
+      "translation_sha256": "305e92b6b07e7e2d88558f5209e2a1652b4399d8294c8a30ec311556dc6cd55d",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Nahum 3:8",
+          "segment_mode": "whole",
+          "sha256": "07f9bd811f64735b0ad227f0912a376b1fec25526089475c0cfcf4cc28c38832"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "07f9bd811f64735b0ad227f0912a376b1fec25526089475c0cfcf4cc28c38832",
+      "translation_sha256": "6315f4de426406fd0df102086c82d0c7075b7758968807de171abe2eacdf7163",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Nahum 3:9",
+          "segment_mode": "whole",
+          "sha256": "884f2665860339d53fe6cca3dae2ee14f76324c1b52b79d4d9a7af962d7a51e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "884f2665860339d53fe6cca3dae2ee14f76324c1b52b79d4d9a7af962d7a51e3",
+      "translation_sha256": "96cba739a1780d9afc480b71b718eb93f3123ebc65e89e4b0f9165ce1a54f63b",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Nahum 3:10",
+          "segment_mode": "whole",
+          "sha256": "ccf4646e184ab74f6beceda7281f620303999c554072012f73259274ef0bda9c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ccf4646e184ab74f6beceda7281f620303999c554072012f73259274ef0bda9c",
+      "translation_sha256": "e887af045c9d48962808c809a77b175772c609f12a0e1e2483d5e4b536d6bef4",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "Nahum 3:11",
+          "segment_mode": "whole",
+          "sha256": "99f1a4ea02d3a4004d754cc6e8885dc1f754747894fd2cd95faa1ae15fd342da"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "99f1a4ea02d3a4004d754cc6e8885dc1f754747894fd2cd95faa1ae15fd342da",
+      "translation_sha256": "cd849d911dd1571bdb588e2297a210820f90497169cfbf12db3c0921cd75fa91",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "Nahum 3:12",
+          "segment_mode": "whole",
+          "sha256": "144dcc6a80318a49b68eae9c820ea04deac5c1e8ef01a74813f5bd328b95f9c8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "144dcc6a80318a49b68eae9c820ea04deac5c1e8ef01a74813f5bd328b95f9c8",
+      "translation_sha256": "e63f70e3a1742f3ca055ab6b76056aab33568a96fcfe40f975e1d9a774bd7006",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:13",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 13,
+          "source_ref": "Nahum 3:13",
+          "segment_mode": "whole",
+          "sha256": "2110f173083b9a2581a43ad8f2cf16ba00d26a4dfaa1cfa465ae719c757a9c06"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2110f173083b9a2581a43ad8f2cf16ba00d26a4dfaa1cfa465ae719c757a9c06",
+      "translation_sha256": "800791a31740b2dd2ecfbf1e3daad5eb7ab42f9d785e09bebf10ff3a6db46f0f",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:14",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 14,
+          "source_ref": "Nahum 3:14",
+          "segment_mode": "whole",
+          "sha256": "8e3614c9328595e271abdc001f4c1d710f9f455bd0b4b025cfbb097d6b4e1664"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8e3614c9328595e271abdc001f4c1d710f9f455bd0b4b025cfbb097d6b4e1664",
+      "translation_sha256": "8d4c62892857c944c2793c322cd100bbf117cd17c8e544fb5529dfd82244c385",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:15",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 15,
+          "source_ref": "Nahum 3:15",
+          "segment_mode": "whole",
+          "sha256": "dc3e9d4b9b13a27527fc9c79798fefa5349609520d9be67ce89fb3e7c716821e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dc3e9d4b9b13a27527fc9c79798fefa5349609520d9be67ce89fb3e7c716821e",
+      "translation_sha256": "04fea94b3c2d75df3198b7b037aeebe2a8f75db184847802148bb949adfbde67",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:16",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 16,
+          "source_ref": "Nahum 3:16",
+          "segment_mode": "whole",
+          "sha256": "952b2cb36dde31edfdb77731708f3c5691d2478566d534af91d875ba077c4283"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "952b2cb36dde31edfdb77731708f3c5691d2478566d534af91d875ba077c4283",
+      "translation_sha256": "43ecfa0f21afaf7e6ff201ebc577d02549780969f4884465da16212d8bdabc98",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:17",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 17,
+          "source_ref": "Nahum 3:17",
+          "segment_mode": "whole",
+          "sha256": "07c559d1bdf6c582712a6938989fb8a51deabe781536045c6a54119ea3cf052e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "07c559d1bdf6c582712a6938989fb8a51deabe781536045c6a54119ea3cf052e",
+      "translation_sha256": "ad0b0f628a8de9e4896ec881f2a2543c531190eaefa9493313674310387deb8f",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:18",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 18,
+          "source_ref": "Nahum 3:18",
+          "segment_mode": "whole",
+          "sha256": "a854577a9fb2607b203e6a384705d5021dc47846c0b02d224e4e18daa3b7a13f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a854577a9fb2607b203e6a384705d5021dc47846c0b02d224e4e18daa3b7a13f",
+      "translation_sha256": "157432d569b64d8b5563f4ce48f8c6004089e44c3c4222372287b62a1100d6b1",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Nahum 3:19",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 19,
+          "source_ref": "Nahum 3:19",
+          "segment_mode": "whole",
+          "sha256": "1cc2a4e615be9b1081791d9a7eb4a0c9475975ffab1467f67fbcdb1a47f01f8f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1cc2a4e615be9b1081791d9a7eb4a0c9475975ffab1467f67fbcdb1a47f01f8f",
+      "translation_sha256": "aef882caa95e8622ee0b831cd363079a209f2fffacd97d62f6a8e2e0704f0acd",
+      "tsw_blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1",
+      "curated_decisions": [
+        "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 0,
+    "F1": 0,
+    "F2": 0,
+    "F3": 47
+  },
+  "public_verse_slots": 47,
+  "included_source_bindings": 47
+}

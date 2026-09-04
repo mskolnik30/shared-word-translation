@@ -1,0 +1,62 @@
+{
+  "book": "Nahum",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 3,
+  "public_verse_slots": 47,
+  "included_verse_labels": 47,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 47,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Nah.xml",
+    "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-15",
+      "decision": "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-13",
+      "decision": "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-19",
+      "decision": "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_04",
+  "deployment_audit": {
+    "source_git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00",
+    "source_binding_count": 47,
+    "unique_source_record_count": 47,
+    "public_verse_slots": 47,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 47
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/nahum/Nahum_01.md",
+        "blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a"
+      },
+      "02": {
+        "path": "books/OT/nahum/Nahum_02.md",
+        "blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548"
+      },
+      "03": {
+        "path": "books/OT/nahum/Nahum_03.md",
+        "blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1"
+      }
+    }
+  }
+}

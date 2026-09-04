@@ -1,0 +1,267 @@
+{
+  "book": "Nahum",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Nah.xml",
+    "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-15",
+      "decision": "Hold divine vengeance against violent empire together with refuge and good news for those it oppressed; bind public 1:15 to Hebrew 2:1.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Nah.xml",
+    "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Nahum 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Nahum 1:1",
+            "segment_mode": "whole",
+            "sha256": "359d4f7cb2a55593b9d061c2b2f0b7ef33e6d629a671c72fea6d4ee538ebe88b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "359d4f7cb2a55593b9d061c2b2f0b7ef33e6d629a671c72fea6d4ee538ebe88b"
+      },
+      "2": {
+        "source_ref": "Nahum 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Nahum 1:2",
+            "segment_mode": "whole",
+            "sha256": "6280976e9833f6f16aa2f56b2f1386d3b4a87b210f755b8eb8f8450ac187e263"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6280976e9833f6f16aa2f56b2f1386d3b4a87b210f755b8eb8f8450ac187e263"
+      },
+      "3": {
+        "source_ref": "Nahum 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Nahum 1:3",
+            "segment_mode": "whole",
+            "sha256": "9f2f547d67903a91f7c85910da2354ad27144adb639322fa3f32eb65d8395565"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f2f547d67903a91f7c85910da2354ad27144adb639322fa3f32eb65d8395565"
+      },
+      "4": {
+        "source_ref": "Nahum 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Nahum 1:4",
+            "segment_mode": "whole",
+            "sha256": "1bccbbc515edc2a8c047572e70c70451f6ab8a3bffcb0180b9c0c76bb61389d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1bccbbc515edc2a8c047572e70c70451f6ab8a3bffcb0180b9c0c76bb61389d0"
+      },
+      "5": {
+        "source_ref": "Nahum 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Nahum 1:5",
+            "segment_mode": "whole",
+            "sha256": "1316bbb0fc46c9c8bacacf72128e3c722ee15d3d0d489a81aedde220d9c28f65"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1316bbb0fc46c9c8bacacf72128e3c722ee15d3d0d489a81aedde220d9c28f65"
+      },
+      "6": {
+        "source_ref": "Nahum 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Nahum 1:6",
+            "segment_mode": "whole",
+            "sha256": "b8721914280472a879eb87232c794d11e42a8d4124c29f6253efe0d37ad2c262"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8721914280472a879eb87232c794d11e42a8d4124c29f6253efe0d37ad2c262"
+      },
+      "7": {
+        "source_ref": "Nahum 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Nahum 1:7",
+            "segment_mode": "whole",
+            "sha256": "f96b99fad9b6fb03d9e392de0eae746856851a5f55b94cf725c4fda59e3454b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f96b99fad9b6fb03d9e392de0eae746856851a5f55b94cf725c4fda59e3454b7"
+      },
+      "8": {
+        "source_ref": "Nahum 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Nahum 1:8",
+            "segment_mode": "whole",
+            "sha256": "1eb7ba02aedf0a556e3688a549db71542b879e2e265de2a71c7124e03e723e0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1eb7ba02aedf0a556e3688a549db71542b879e2e265de2a71c7124e03e723e0c"
+      },
+      "9": {
+        "source_ref": "Nahum 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Nahum 1:9",
+            "segment_mode": "whole",
+            "sha256": "846213859c68eccec38dc73d9b4a7279f6a8f82bccd5a6bffd82f8c74f41d385"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "846213859c68eccec38dc73d9b4a7279f6a8f82bccd5a6bffd82f8c74f41d385"
+      },
+      "10": {
+        "source_ref": "Nahum 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Nahum 1:10",
+            "segment_mode": "whole",
+            "sha256": "186152a65cca60bfb14494383a4b06980b007ec07af38c9eeec7a37f7555a72b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "186152a65cca60bfb14494383a4b06980b007ec07af38c9eeec7a37f7555a72b"
+      },
+      "11": {
+        "source_ref": "Nahum 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Nahum 1:11",
+            "segment_mode": "whole",
+            "sha256": "a1f6c3da9a2099022ab24f5d827ac46fc622383591fb78c5b62ce3c44c4aae68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1f6c3da9a2099022ab24f5d827ac46fc622383591fb78c5b62ce3c44c4aae68"
+      },
+      "12": {
+        "source_ref": "Nahum 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Nahum 1:12",
+            "segment_mode": "whole",
+            "sha256": "9f365935a6cfc348eaab9a7aa0649481d6096de896518c93d66d14371b49ada6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f365935a6cfc348eaab9a7aa0649481d6096de896518c93d66d14371b49ada6"
+      },
+      "13": {
+        "source_ref": "Nahum 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Nahum 1:13",
+            "segment_mode": "whole",
+            "sha256": "1f2a61f00f60d5b063adda6d6ee745b25a3550e3959d0bfc0e25d9b94e04fc9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f2a61f00f60d5b063adda6d6ee745b25a3550e3959d0bfc0e25d9b94e04fc9a"
+      },
+      "14": {
+        "source_ref": "Nahum 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Nahum 1:14",
+            "segment_mode": "whole",
+            "sha256": "6c57978d193d296b071b4f21c22dae7914d43e22f65bdb1ad49549ba463d9dd2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c57978d193d296b071b4f21c22dae7914d43e22f65bdb1ad49549ba463d9dd2"
+      },
+      "15": {
+        "source_ref": "Nahum 2:1 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Nahum 2:1 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "c2bbec2b401955cde32a85b71567bfb6bdcad6c820f894e4358b2d536fd926d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2bbec2b401955cde32a85b71567bfb6bdcad6c820f894e4358b2d536fd926d6"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/nahum/Nahum_01.md",
+    "blob_sha": "8c37c9096f1232cfd022d94f2fd20f659d8a6a5a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
