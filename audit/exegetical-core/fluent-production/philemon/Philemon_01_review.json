@@ -1,0 +1,196 @@
+{
+  "book": "Philemon",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 25,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Phlm.txt",
+    "git_blob_sha": "7904bf8debfe51ea69e0259d214352310eebe3c2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Philemon 1:1",
+        "source_chapter": 1,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "1381a3dd1003c18c265eb1647110d01c1d8f3f97509b74f3c320fe09b4f2792e"
+      },
+      "2": {
+        "source_ref": "Philemon 1:2",
+        "source_chapter": 1,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "8e50e36744286804b3e011c4ecc366b4d239bb4b2c996a906798c71a89a2c3b0"
+      },
+      "3": {
+        "source_ref": "Philemon 1:3",
+        "source_chapter": 1,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "3542bf950b541ec1367df8110d89a10194b9d8d1b35c81faf5fe27ab80603ecb"
+      },
+      "4": {
+        "source_ref": "Philemon 1:4",
+        "source_chapter": 1,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "211ab49121d8b274ad18176496a6950c8d45ac3d002cf7516cc6de6d70822012"
+      },
+      "5": {
+        "source_ref": "Philemon 1:5",
+        "source_chapter": 1,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "8f73b8b51a1625e078dc9d81d8f6379541fd9d450e24a79c2d801e2ffdc9067d"
+      },
+      "6": {
+        "source_ref": "Philemon 1:6",
+        "source_chapter": 1,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "9d0bc63cd7767b15219850aee05dcb0ce1cc1a0f7e954a984e0ef775683d49e4"
+      },
+      "7": {
+        "source_ref": "Philemon 1:7",
+        "source_chapter": 1,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "05d3e79e122cf38a97c143d4026fd4f73467e5a274a23ec88da7d26550a78705"
+      },
+      "8": {
+        "source_ref": "Philemon 1:8",
+        "source_chapter": 1,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "89be3cabbd18e2a0a2579e081f6f44dd53e38670ba81d18168550c0e07d99735"
+      },
+      "9": {
+        "source_ref": "Philemon 1:9",
+        "source_chapter": 1,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "88e0c79ef3c80302329e7062ec1b6d1cdb3c9985e55bd7722c0e9f1b1e33783a"
+      },
+      "10": {
+        "source_ref": "Philemon 1:10",
+        "source_chapter": 1,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "81680adec7ef7c8579c6a3ac6fc9d35e73aa6bf883454c4d8218d05e80802eae"
+      },
+      "11": {
+        "source_ref": "Philemon 1:11",
+        "source_chapter": 1,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "f2e757bc7611445ea272bb46cd29cfa0828eb7381b814ecbd1647bb4531a5030"
+      },
+      "12": {
+        "source_ref": "Philemon 1:12",
+        "source_chapter": 1,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "9afca4536b04baa6a49e918ae1bffa9227befecf66542db94a17f63bfe719d4b"
+      },
+      "13": {
+        "source_ref": "Philemon 1:13",
+        "source_chapter": 1,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "a5e3d0eab66b4b530de425059ebdbac404ac59da1cafe7596c31e2d1c1b35e18"
+      },
+      "14": {
+        "source_ref": "Philemon 1:14",
+        "source_chapter": 1,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "013ee9f411e7f89b583942975d0ab56229d6540ca4f8bb72cb7fa539a80a8e97"
+      },
+      "15": {
+        "source_ref": "Philemon 1:15",
+        "source_chapter": 1,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "4bd9f946dc545936f86ff7002b0e81d3f285133ea1f716b936e81b8998696a9c"
+      },
+      "16": {
+        "source_ref": "Philemon 1:16",
+        "source_chapter": 1,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "4a1a826eb5f8175e4eb8ef97549a8689fbbe1e4c2c185fa511df3af675002cd4"
+      },
+      "17": {
+        "source_ref": "Philemon 1:17",
+        "source_chapter": 1,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "dab820cd315439db620d5e99d20dc3464ee071c31529bbb587fd0a46ea66305b"
+      },
+      "18": {
+        "source_ref": "Philemon 1:18",
+        "source_chapter": 1,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "4fe93aac2a93fb318659c6c29f6dda7d2cf6f6390eb07e6ba3fce3d6cba502c5"
+      },
+      "19": {
+        "source_ref": "Philemon 1:19",
+        "source_chapter": 1,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "a4fa9996eb7c4f86d6cc2a568d687d067a249ffb21ce6791b0863f5ce589fd87"
+      },
+      "20": {
+        "source_ref": "Philemon 1:20",
+        "source_chapter": 1,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "3e68b9c8e2f59a32e6d90dff36bfdd21158887d467e5b237170124afa45c3ded"
+      },
+      "21": {
+        "source_ref": "Philemon 1:21",
+        "source_chapter": 1,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "50395499929f2c51511dedb1d2fc74479b3b9b0836c258f087283135f60c8f23"
+      },
+      "22": {
+        "source_ref": "Philemon 1:22",
+        "source_chapter": 1,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "5c2fe15e4c827d5a41991a97acc2df51139516b4f02131961ce85afa418ca077"
+      },
+      "23": {
+        "source_ref": "Philemon 1:23",
+        "source_chapter": 1,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "481a7dce69ccc5ab2d94749e9d70ceeb2f84a8dd3351e228d27c0aab40518c39"
+      },
+      "24": {
+        "source_ref": "Philemon 1:24",
+        "source_chapter": 1,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "af32b51b7cb07dae626688a52eccef5b7af56609815577a5dcbc8488460319ac"
+      },
+      "25": {
+        "source_ref": "Philemon 1:25",
+        "source_chapter": 1,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "2eaa6989e1f4731b6d72823aeecfc19f363325be8379f601aab37f9a6599c020"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/philemon/Philemon_01.md",
+    "blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
