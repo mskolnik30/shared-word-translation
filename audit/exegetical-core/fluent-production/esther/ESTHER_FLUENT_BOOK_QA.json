@@ -1,0 +1,110 @@
+{
+  "book": "Esther",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 10,
+  "public_verse_slots": 167,
+  "included_verse_labels": 167,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 167,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Esth.xml",
+    "git_blob_sha": "69950cc320d3cad140477d5ea3c8767949984883"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-22",
+      "decision": "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-18",
+      "decision": "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-15",
+      "decision": "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-17",
+      "decision": "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:1-10",
+      "decision": "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:1-9:19",
+      "decision": "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:20-32",
+      "decision": "Preserve Purim as communal memory, rest, feasting, generosity, and survival.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "69950cc320d3cad140477d5ea3c8767949984883",
+    "source_binding_count": 167,
+    "unique_source_record_count": 167,
+    "public_verse_slots": 167,
+    "ledger_summary": {
+      "F0": 31,
+      "F1": 5,
+      "F2": 0,
+      "F3": 131
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/esther/Esther_01.md",
+        "blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92"
+      },
+      "02": {
+        "path": "books/OT/esther/Esther_02.md",
+        "blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816"
+      },
+      "03": {
+        "path": "books/OT/esther/Esther_03.md",
+        "blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988"
+      },
+      "04": {
+        "path": "books/OT/esther/Esther_04.md",
+        "blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077"
+      },
+      "05": {
+        "path": "books/OT/esther/Esther_05.md",
+        "blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5"
+      },
+      "06": {
+        "path": "books/OT/esther/Esther_06.md",
+        "blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2"
+      },
+      "07": {
+        "path": "books/OT/esther/Esther_07.md",
+        "blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e"
+      },
+      "08": {
+        "path": "books/OT/esther/Esther_08.md",
+        "blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02"
+      },
+      "09": {
+        "path": "books/OT/esther/Esther_09.md",
+        "blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d"
+      },
+      "10": {
+        "path": "books/OT/esther/Esther_10.md",
+        "blob_sha": "4a50251a68e0edb3f7c06c0c930ac7c0a0afc33f"
+      }
+    }
+  }
+}

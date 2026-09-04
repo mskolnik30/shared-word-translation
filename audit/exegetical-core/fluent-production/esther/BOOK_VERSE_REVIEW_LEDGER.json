@@ -1,0 +1,3790 @@
+{
+  "book": "Esther",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Esth.xml",
+    "git_blob_sha": "69950cc320d3cad140477d5ea3c8767949984883"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Esther 1:1",
+          "segment_mode": "whole",
+          "sha256": "9eb67fe689290e87a383e77e4d5f2fbcb91c13198f788d9e0f61ed476006bb57"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9eb67fe689290e87a383e77e4d5f2fbcb91c13198f788d9e0f61ed476006bb57",
+      "translation_sha256": "1dea27c485c8a5627deb135b279f4657f060ef686fb67ebfa7bbec461086a0ae",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Esther 1:2",
+          "segment_mode": "whole",
+          "sha256": "85b4e93fc068d67e07eee67113ac360a57b3a326b2692be196bf05976ff0b64c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "85b4e93fc068d67e07eee67113ac360a57b3a326b2692be196bf05976ff0b64c",
+      "translation_sha256": "401bb438e27e5ed83f9731f4b89c06243dbae4186b78b19081ab019813a52794",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Esther 1:3",
+          "segment_mode": "whole",
+          "sha256": "a897643e24c15eae5e695a50656a95696e4b6a07589dbcc4740622379120949e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a897643e24c15eae5e695a50656a95696e4b6a07589dbcc4740622379120949e",
+      "translation_sha256": "bc0d31ec8a807f82fd6125de07554e98b15406f00b88b30b3230fbf9a14da8a5",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Esther 1:4",
+          "segment_mode": "whole",
+          "sha256": "693485d7e0a16e36c29b121300f0dcf06216c26620190345616371a7b8424598"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "693485d7e0a16e36c29b121300f0dcf06216c26620190345616371a7b8424598",
+      "translation_sha256": "df5e62ca9af2f541dcf3bc1c8103438c16415802c1e8a7c87983eb5425012976",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Esther 1:5",
+          "segment_mode": "whole",
+          "sha256": "3061123dd247fffb50b7277691b4f43b17cb6f1b987394d85086dbedeed56376"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3061123dd247fffb50b7277691b4f43b17cb6f1b987394d85086dbedeed56376",
+      "translation_sha256": "b87b596e667c919532fdd7b77b086e96359f90118880db63c17549a292e37461",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Esther 1:6",
+          "segment_mode": "whole",
+          "sha256": "06de79af1e66dbe8b19f77ee44e40668f605cbaf786abdc70ecab60ce89d32c9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "06de79af1e66dbe8b19f77ee44e40668f605cbaf786abdc70ecab60ce89d32c9",
+      "translation_sha256": "78dff4a089b0978f0d08a0224b148b8c2b137c9a5dec1f26e2fc552eca8db1fa",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Esther 1:7",
+          "segment_mode": "whole",
+          "sha256": "9e43d9e562b48601ec0b47e27d9ab99881d34ce3a1b23b23e0d594223e051a48"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e43d9e562b48601ec0b47e27d9ab99881d34ce3a1b23b23e0d594223e051a48",
+      "translation_sha256": "99135bd8751baa3a67afe474a8321099b8159873855ca4ac9775feb014e705b8",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Esther 1:8",
+          "segment_mode": "whole",
+          "sha256": "3d633d32d12dd22bef30a69140d1326d1c21d7e26ebfacc2ece234c23e4d8d32"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3d633d32d12dd22bef30a69140d1326d1c21d7e26ebfacc2ece234c23e4d8d32",
+      "translation_sha256": "c6b76cee29dbd972368bbf6c4f28f53af7ed7cd24718d9bcb894de77c788396a",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Esther 1:9",
+          "segment_mode": "whole",
+          "sha256": "84a96f43bde9a2d4bab2185145672192d23495a36f767a602daab1da6445583f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "84a96f43bde9a2d4bab2185145672192d23495a36f767a602daab1da6445583f",
+      "translation_sha256": "bd3b051a3a7afffb087842f9b4a4eed6934440de602bfa5d45781aceea410bdc",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Esther 1:10",
+          "segment_mode": "whole",
+          "sha256": "096d886ff89f0695c06f78c949d7c5196087b1c20ad9f194541de7a1354a0781"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "096d886ff89f0695c06f78c949d7c5196087b1c20ad9f194541de7a1354a0781",
+      "translation_sha256": "02efbb32d24a75e4509710f3ed25048b1bddb2b161d99669bab6840148cbde43",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Esther 1:11",
+          "segment_mode": "whole",
+          "sha256": "1491ef6fec4b4d6695b5677b57c89d5a194346a2b4ac3ce0a07e6bc802d7c565"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1491ef6fec4b4d6695b5677b57c89d5a194346a2b4ac3ce0a07e6bc802d7c565",
+      "translation_sha256": "4ceead3c0193d84e1216794b27b575b22586d5ec2715308114b32a3605901919",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Esther 1:12",
+          "segment_mode": "whole",
+          "sha256": "1236872e2697f677e61a1f7abe35b94704db7b3513424e207c9ebebc0e167552"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1236872e2697f677e61a1f7abe35b94704db7b3513424e207c9ebebc0e167552",
+      "translation_sha256": "843367ed943b847770e2a2bcbb3ce91ec803de67fd0f2111d948120b21d9d262",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Esther 1:13",
+          "segment_mode": "whole",
+          "sha256": "42fc8f0668509c72e57928cc6b8f2ea8acd6383c40793ef84a1a7c44862a804c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "42fc8f0668509c72e57928cc6b8f2ea8acd6383c40793ef84a1a7c44862a804c",
+      "translation_sha256": "f01e58dfbcc1a667a570ac76398336665b3490d7941953e14e124d9c1d180d2b",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Esther 1:14",
+          "segment_mode": "whole",
+          "sha256": "479d678c5a95e2a313552f3b1dce582dede6177dad521d46da36019a5b6e503d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "479d678c5a95e2a313552f3b1dce582dede6177dad521d46da36019a5b6e503d",
+      "translation_sha256": "980a02b006d1fefc36babc103a3e0d4a70f058c51d5e0ae3640d9d83f7517472",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Esther 1:15",
+          "segment_mode": "whole",
+          "sha256": "e2474be74b2370a8307a518cbe6eed06996ffe6e53262c94409c5d4af0f7ce5b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e2474be74b2370a8307a518cbe6eed06996ffe6e53262c94409c5d4af0f7ce5b",
+      "translation_sha256": "d8f7eade2c95f09f9bff4ce865947196c22cc659c50b973026f0d05af7f4ca63",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Esther 1:16",
+          "segment_mode": "whole",
+          "sha256": "c8be181fe29727ee8159119caa45783d05ea7aff2d61e8bc10d6857c34e609e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c8be181fe29727ee8159119caa45783d05ea7aff2d61e8bc10d6857c34e609e3",
+      "translation_sha256": "b223dbc38f8264496f9701970d674ab95152e5c3d8942e46f647778ca8b411fc",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "Esther 1:17",
+          "segment_mode": "whole",
+          "sha256": "0e3de2f0f115a98b572ba49870c8e5154c58428c132b3a7f6009ff2adeb35bcb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0e3de2f0f115a98b572ba49870c8e5154c58428c132b3a7f6009ff2adeb35bcb",
+      "translation_sha256": "605bda5279727b8cf24f428a94106ef74b44cd8b455df26e34dd54b6a2edeff9",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:18",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 18,
+          "source_ref": "Esther 1:18",
+          "segment_mode": "whole",
+          "sha256": "03ab64bb4b01bb5b39e23203d17a6bdcd46f998cdd4215ac1d0deee528c95ba3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "03ab64bb4b01bb5b39e23203d17a6bdcd46f998cdd4215ac1d0deee528c95ba3",
+      "translation_sha256": "c4c945e6e64a6ed384f89dc86ce6ef6163c655a4dc4aa26361b207a02d3e2117",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:19",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 19,
+          "source_ref": "Esther 1:19",
+          "segment_mode": "whole",
+          "sha256": "9b65f2db08bc4fa520178c36393523ef4d76b8632e93aee1bf2f3b9cc83fab2a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9b65f2db08bc4fa520178c36393523ef4d76b8632e93aee1bf2f3b9cc83fab2a",
+      "translation_sha256": "a6521b78974322f3557b803387e26f61a6c347efb543aa39f3b6adbc323bfa64",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:20",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 20,
+          "source_ref": "Esther 1:20",
+          "segment_mode": "whole",
+          "sha256": "b2a46c3a859d282ce1322dab2136a2b64ebfdbe6c3ed30ea463e88eddd09f96e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b2a46c3a859d282ce1322dab2136a2b64ebfdbe6c3ed30ea463e88eddd09f96e",
+      "translation_sha256": "52138edc849b9ed23d26e695c78ad6a4879ea9e8bb13931aa6d7235bcf014df2",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:21",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 21,
+          "source_ref": "Esther 1:21",
+          "segment_mode": "whole",
+          "sha256": "5088c3503442dce4ba1431d786ed592b4f8cc2375d0dcb99472c73a37d17fd8c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5088c3503442dce4ba1431d786ed592b4f8cc2375d0dcb99472c73a37d17fd8c",
+      "translation_sha256": "272035757297b9a166b39b4499ac48e37f635f5395a535e45d8990831f2c2161",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 1:22",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 22,
+          "source_ref": "Esther 1:22",
+          "segment_mode": "whole",
+          "sha256": "d58416aae51967ed3de62266171df2408d1a6ab0dc82c3bfe6bfee05803ea99f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d58416aae51967ed3de62266171df2408d1a6ab0dc82c3bfe6bfee05803ea99f",
+      "translation_sha256": "7fdad93b193c7cad057789bd682085842a5235423001d52dc5440237a3a08704",
+      "tsw_blob_sha": "762e997c6464c46a12c8395c644e262b0d3a5b92",
+      "curated_decisions": [
+        "Keep Vashti's refusal inside a coercive imperial court and do not treat the decree as a model for marriage."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Esther 2:1",
+          "segment_mode": "whole",
+          "sha256": "bcc4c2e32cab0dcaff720cefbde1d6e0bfe70993da06e71c3e76e7a7e1830778"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bcc4c2e32cab0dcaff720cefbde1d6e0bfe70993da06e71c3e76e7a7e1830778",
+      "translation_sha256": "f5dfa282cbccb5bc7a1296685330d9fe4ce9411351420dc8585c6759979f6b76",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Esther 2:2",
+          "segment_mode": "whole",
+          "sha256": "3ab8c9db3320d9806ca20dd56b704092ceb91f19cf4da82d2d18b4800648911d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3ab8c9db3320d9806ca20dd56b704092ceb91f19cf4da82d2d18b4800648911d",
+      "translation_sha256": "faa3fa623b92174e50cfc2aef80631c1b2ad9e60f18f2821d53b4077e0720b3b",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Esther 2:3",
+          "segment_mode": "whole",
+          "sha256": "39e2b6338cff9f3394a8192de548da25f264d805e2622c15ae0fede951191fdb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "39e2b6338cff9f3394a8192de548da25f264d805e2622c15ae0fede951191fdb",
+      "translation_sha256": "511fe2ee0715d0cbefe2c6892aa43b1119d50521a81e4b6a53a25ace0544f185",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Esther 2:4",
+          "segment_mode": "whole",
+          "sha256": "9815547ac2cd007f6631d2de50161b475c2ddc6cf5df9fa5097d7f70d4f9509b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9815547ac2cd007f6631d2de50161b475c2ddc6cf5df9fa5097d7f70d4f9509b",
+      "translation_sha256": "ca110e096ed03e32e4b040610db73cdb347cde71099d9872d1bb376861827105",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Esther 2:5",
+          "segment_mode": "whole",
+          "sha256": "2a21768a3795879f9964bd61fda7f4f7f47fc61005d6e6dc100bf32631bd5dfd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2a21768a3795879f9964bd61fda7f4f7f47fc61005d6e6dc100bf32631bd5dfd",
+      "translation_sha256": "2f0f6e96428aaf8059b62bdaa2606e317c7afd7132ed5482ba44a0fef3178c82",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Esther 2:6",
+          "segment_mode": "whole",
+          "sha256": "35241d9e39a143b1b24636002c1b76beb400c7bd2fc46ffd03a6e2479957254b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "35241d9e39a143b1b24636002c1b76beb400c7bd2fc46ffd03a6e2479957254b",
+      "translation_sha256": "4cea29578bcf07ed8a281875ae3ee75032a120eec64f97d20273ead6e92b5ae4",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Esther 2:7",
+          "segment_mode": "whole",
+          "sha256": "d00ea7479207a5c41aba259243a95015d69c9c00fe756aae07d75c7b99a3a87b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d00ea7479207a5c41aba259243a95015d69c9c00fe756aae07d75c7b99a3a87b",
+      "translation_sha256": "de5af3b2f64c76485a902938f09fc78a3d5ab7d2d6a79dc25c05b72e7522d1e2",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Esther 2:8",
+          "segment_mode": "whole",
+          "sha256": "43cb74bdc1479f286fca2fffd8c8755f68fa72318371a926b8ce568701f634c2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "43cb74bdc1479f286fca2fffd8c8755f68fa72318371a926b8ce568701f634c2",
+      "translation_sha256": "b0852b03b31e36cca02b2fa21b2fec4db06197f737cf7fa1a4a398885082b29d",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Esther 2:9",
+          "segment_mode": "whole",
+          "sha256": "6b3590f9b26bba9ce6e7826afa93da8ff77a57fa936103aff705f6908888b07f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6b3590f9b26bba9ce6e7826afa93da8ff77a57fa936103aff705f6908888b07f",
+      "translation_sha256": "54da5c7e06790ca070cdfbd6d93bcf9ce6bf610868276a65fc0155c60a4c74ec",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Esther 2:10",
+          "segment_mode": "whole",
+          "sha256": "ba757cd705026aa22255bf40c7fa3f0556f219ac43797a9ed8879d13bc68f8c6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ba757cd705026aa22255bf40c7fa3f0556f219ac43797a9ed8879d13bc68f8c6",
+      "translation_sha256": "4ce148510c974649d79266bb0bd04910df78f41269416fceebc61363fdfd2bcf",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Esther 2:11",
+          "segment_mode": "whole",
+          "sha256": "68084ccb736044c0f82acb7ba60e1441063d0f77b0cff39a3664ce6529847323"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "68084ccb736044c0f82acb7ba60e1441063d0f77b0cff39a3664ce6529847323",
+      "translation_sha256": "acf20ef724f69ea3bdf7031a32d3afb7006b641ca668bf4b15069762314eb572",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Esther 2:12",
+          "segment_mode": "whole",
+          "sha256": "bd68fb1cf3b912508e0eb42793d5023c789a4ddc7dc765061f22d6ac9432f2eb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bd68fb1cf3b912508e0eb42793d5023c789a4ddc7dc765061f22d6ac9432f2eb",
+      "translation_sha256": "8ce5c998876852c8fb726e8722e3e04e08d7b0df4e77fbc80e8aeaf9ccd1086a",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Esther 2:13",
+          "segment_mode": "whole",
+          "sha256": "b5bf64727aafc36e27612ea59e38e0f566aa72c19b2a3a2f00a69164b679860a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b5bf64727aafc36e27612ea59e38e0f566aa72c19b2a3a2f00a69164b679860a",
+      "translation_sha256": "f1bed5ed7f30cd90324a565118aa45124e6b40b0fb945f1d4d0b637add89a7fc",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Esther 2:14",
+          "segment_mode": "whole",
+          "sha256": "0ac655dd33514f91b4d309a7eb2593fb5ef8e1c284ac17aa80acb9cc96a76b1c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0ac655dd33514f91b4d309a7eb2593fb5ef8e1c284ac17aa80acb9cc96a76b1c",
+      "translation_sha256": "35bfdacd2903eeccfefda9f5d4e1e1bb52c4ee1f3a74512455ce96a043fe8b9a",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Esther 2:15",
+          "segment_mode": "whole",
+          "sha256": "74d79c2c937e900ae520d4d44ca8420ae820b625d43a686142cb1477090da19c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "74d79c2c937e900ae520d4d44ca8420ae820b625d43a686142cb1477090da19c",
+      "translation_sha256": "3c3cbb84bd7d226c2fa926b43ee762114ea88d36cd0ec7e683408e4b2d322b5f",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Esther 2:16",
+          "segment_mode": "whole",
+          "sha256": "3f3523e1010d8775a184f80c6e3ddfb64c0db856a0129f0d05e3bc6a167dac56"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3f3523e1010d8775a184f80c6e3ddfb64c0db856a0129f0d05e3bc6a167dac56",
+      "translation_sha256": "0f66d997c8843b5c453bd66cd2d54cd6b6007146369069829427c95403905b2a",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:17",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "Esther 2:17",
+          "segment_mode": "whole",
+          "sha256": "f37baa07debdc33d2b98d2d5dab3b20078cf46ef7963a8df7d26eb0308d9f2e4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f37baa07debdc33d2b98d2d5dab3b20078cf46ef7963a8df7d26eb0308d9f2e4",
+      "translation_sha256": "92a2b59d5887145414ab2b43f01dd1aca1fee40c228c27825bac7ae0475ebd3b",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 2:18",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 18,
+          "source_ref": "Esther 2:18",
+          "segment_mode": "whole",
+          "sha256": "61a604f1057422d79e731b3244c3ce596b305c2054d6589a49409657f7b83794"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "61a604f1057422d79e731b3244c3ce596b305c2054d6589a49409657f7b83794",
+      "translation_sha256": "32a5d2ef50e972d2b3b6d31ab95fe3d7ed5bb1bb21e2b0c843dc1f71336a2c5a",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": [
+        "Preserve Esther's constrained agency within an imperial system rather than romanticizing the recruitment of young women."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 2:19",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 19,
+          "source_ref": "Esther 2:19",
+          "segment_mode": "whole",
+          "sha256": "a47758ac8274d529cc59823911cfadb14dc79649ce3d72820f8534a25e39979e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a47758ac8274d529cc59823911cfadb14dc79649ce3d72820f8534a25e39979e",
+      "translation_sha256": "8396c19c43d1861add101173823ee3cc99db217c3e9a4f41728743402a870982",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Esther 2:20",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 20,
+          "source_ref": "Esther 2:20",
+          "segment_mode": "whole",
+          "sha256": "253df7e7436e529a627c25679cffe0839630bf018b9873406c0664f43f4ef6e5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "253df7e7436e529a627c25679cffe0839630bf018b9873406c0664f43f4ef6e5",
+      "translation_sha256": "6ea1151e154435552ebdcdb218856c9f0f3e5ed61ce102c9fb0f68f1066a043d",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 2:21",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 21,
+          "source_ref": "Esther 2:21",
+          "segment_mode": "whole",
+          "sha256": "0c09dfc989819b9fd860126c05e78e6fa18ff64f8b48a377754d737b6886b8cf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0c09dfc989819b9fd860126c05e78e6fa18ff64f8b48a377754d737b6886b8cf",
+      "translation_sha256": "1071089b10042c3440166af16612e1881ff9692176bdd54af7c9b8136c1cdb96",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 2:22",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 22,
+          "source_ref": "Esther 2:22",
+          "segment_mode": "whole",
+          "sha256": "ba2e4a6a3b07c3f9779c4b25bfd72ef870780013ae3433f3492b5821dff56760"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ba2e4a6a3b07c3f9779c4b25bfd72ef870780013ae3433f3492b5821dff56760",
+      "translation_sha256": "3af3564c6e75ff03d6b6d736f831c8b8ca9b364afc54278e3a5e5f04c632e3a5",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 2:23",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 23,
+          "source_ref": "Esther 2:23",
+          "segment_mode": "whole",
+          "sha256": "2b5846415f8c4379f553f6e2645bc4d3a1304fdc9abfd03607ee1b6e86d86d82"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2b5846415f8c4379f553f6e2645bc4d3a1304fdc9abfd03607ee1b6e86d86d82",
+      "translation_sha256": "bdecfa140fc6b7032f71ab718275315ea761b9bbfaa515aee8b168b62598b54a",
+      "tsw_blob_sha": "2f9f29444be5ad0941a1c601e435071e09d9b816",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Esther 3:1",
+          "segment_mode": "whole",
+          "sha256": "de784137877dab100a9e5d7527149162ee26f62d1d8c2eddca79aa26e62d728d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "de784137877dab100a9e5d7527149162ee26f62d1d8c2eddca79aa26e62d728d",
+      "translation_sha256": "1fea4df37e95601904adac25e0cfacf0440e905d151717304ff831430d492224",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Esther 3:2",
+          "segment_mode": "whole",
+          "sha256": "4ad8eb31638d4cc93e40971e0c11cc8112af18be9ade2be6af56011a8ff43a91"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4ad8eb31638d4cc93e40971e0c11cc8112af18be9ade2be6af56011a8ff43a91",
+      "translation_sha256": "8c304c6c7005fe00ed59b2dafdf7bff3d9d8c17c367a917b167fecb96cab333b",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Esther 3:3",
+          "segment_mode": "whole",
+          "sha256": "10923e737b480f024617d304cfa6d5c6a68f5e0d0eacd725ee2f58c59d4dfe48"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "10923e737b480f024617d304cfa6d5c6a68f5e0d0eacd725ee2f58c59d4dfe48",
+      "translation_sha256": "670ece1177415dcefccfd65b414fcf3ef9175fff007a9c4c2f2dbae23b7c041c",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Esther 3:4",
+          "segment_mode": "whole",
+          "sha256": "dfab893e2be39ad2217494291a30ccfe8eaf1710fd56ec305aa30f74ffa78bb3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dfab893e2be39ad2217494291a30ccfe8eaf1710fd56ec305aa30f74ffa78bb3",
+      "translation_sha256": "c513f5f5fe594e805364c7e778ebafe6a32e9b48fc2efe37d728fafff6b1fe1e",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Esther 3:5",
+          "segment_mode": "whole",
+          "sha256": "fb34c75d3b848f88d14df070add432aa18e060ad68fc4478aec6b86807dc6ae4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fb34c75d3b848f88d14df070add432aa18e060ad68fc4478aec6b86807dc6ae4",
+      "translation_sha256": "3eb8f7990e737f2a6bb7361fc5dc003ab61b6c5e6f3422c16c956ae171bd7da1",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Esther 3:6",
+          "segment_mode": "whole",
+          "sha256": "263e89604668d366c320ac9dd44eb92461393cf034642afe7a2890ca3511a504"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "263e89604668d366c320ac9dd44eb92461393cf034642afe7a2890ca3511a504",
+      "translation_sha256": "555e9280c3bd9c2d835401d680c11ce1f91a1817cd89ab2b1724ce3ad46a5434",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Esther 3:7",
+          "segment_mode": "whole",
+          "sha256": "d626e52056d94382f982a0a83daa381032b8b966396b2fc25d307d07fcb04ab2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d626e52056d94382f982a0a83daa381032b8b966396b2fc25d307d07fcb04ab2",
+      "translation_sha256": "ca3e5690de3a9848f5031385221d684fd989711afaa4997507d88c77fcf63f3b",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Esther 3:8",
+          "segment_mode": "whole",
+          "sha256": "4b1670976f2ada330e9d9f686d0202991aef1c1ade1c0b81990df92f77c0bf7f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4b1670976f2ada330e9d9f686d0202991aef1c1ade1c0b81990df92f77c0bf7f",
+      "translation_sha256": "203c5bc4ccab4cfd584cb1fae9f3468df481bb86185be1216488154111e4ba05",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Esther 3:9",
+          "segment_mode": "whole",
+          "sha256": "16a8e45b693da6c687ea1e3c5eb5b2a943dfd1ed6915566f551d65c64655fd32"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "16a8e45b693da6c687ea1e3c5eb5b2a943dfd1ed6915566f551d65c64655fd32",
+      "translation_sha256": "4da302fba3734760f1c7ae8939f0dbef1c33b73a72b55c9267c1f466e53838f9",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Esther 3:10",
+          "segment_mode": "whole",
+          "sha256": "7b218f6ee0bb0615e4f642404dbe4c6854ca83c6bab538371ebc59c01dc7177a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7b218f6ee0bb0615e4f642404dbe4c6854ca83c6bab538371ebc59c01dc7177a",
+      "translation_sha256": "8f9dc461ecb878b53e32c196cb7d3045814e127ff30fe47a5a80959bb7f98ab6",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "Esther 3:11",
+          "segment_mode": "whole",
+          "sha256": "b63e6872050b0826cb73df61dd2eac87a927dedfd548b5844c7f264985195772"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b63e6872050b0826cb73df61dd2eac87a927dedfd548b5844c7f264985195772",
+      "translation_sha256": "fc36bf9b3e6344794cf659af74c977215ca24479d4fc069e86209cdc5d3a2b10",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "Esther 3:12",
+          "segment_mode": "whole",
+          "sha256": "ceb0f36366398e75299f3ba478c30eebbf3b0db483de3e3cff02344b5676ecef"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ceb0f36366398e75299f3ba478c30eebbf3b0db483de3e3cff02344b5676ecef",
+      "translation_sha256": "ccbb633b98f6cbe8ebc57997d62b16ee739805ad6872333c9d71ffd43cc969c9",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:13",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 13,
+          "source_ref": "Esther 3:13",
+          "segment_mode": "whole",
+          "sha256": "523026d21802e2bb26e764c5b7081ec729ea9be80c984e0a6e4c18d8cbfabbd9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "523026d21802e2bb26e764c5b7081ec729ea9be80c984e0a6e4c18d8cbfabbd9",
+      "translation_sha256": "0dc68a11ad2624ce642a258887930dc0531c62d5de4f61d0365aa551b83e3950",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:14",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 14,
+          "source_ref": "Esther 3:14",
+          "segment_mode": "whole",
+          "sha256": "c2571c5ee7d23fa1a2d756f22ac99373a77e193b6358934888c770105c12f72f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c2571c5ee7d23fa1a2d756f22ac99373a77e193b6358934888c770105c12f72f",
+      "translation_sha256": "4cf50e77371fe9b3a61ed66658afa2479de358d14403fc83586ed44371dfd49b",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 3:15",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 15,
+          "source_ref": "Esther 3:15",
+          "segment_mode": "whole",
+          "sha256": "2536adeb4d3da7b503de2243d61c7f59e2ba82f6874360b271ed3f7dbe1cb5ba"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2536adeb4d3da7b503de2243d61c7f59e2ba82f6874360b271ed3f7dbe1cb5ba",
+      "translation_sha256": "1e3262aa2e4dd9456a59ad9256df30d9f3d1a95f4be8618e417e941db7afaba4",
+      "tsw_blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988",
+      "curated_decisions": [
+        "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:1",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "Esther 4:1",
+          "segment_mode": "whole",
+          "sha256": "aca0b09a2613f9ab8d79fa573b520fc48edba5e8992f1436a5f5e9a9f487dc50"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aca0b09a2613f9ab8d79fa573b520fc48edba5e8992f1436a5f5e9a9f487dc50",
+      "translation_sha256": "5fe3b90f25977d6567c7258c189a999cdc26f9b19056b3516d23578e1301e483",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:2",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "Esther 4:2",
+          "segment_mode": "whole",
+          "sha256": "59c5f68606a0e2a06dc1df6ff73d7e42d23680c564f031f11ea581186c25c72a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "59c5f68606a0e2a06dc1df6ff73d7e42d23680c564f031f11ea581186c25c72a",
+      "translation_sha256": "e8ed626bf0472702f331f3e51c2713a786417321cad1e58b42954d1a277e4f69",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:3",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "Esther 4:3",
+          "segment_mode": "whole",
+          "sha256": "ebb937e011f34f52c9fc107354f465b28cbb892f67abfd5252dd4a75c9508c8e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ebb937e011f34f52c9fc107354f465b28cbb892f67abfd5252dd4a75c9508c8e",
+      "translation_sha256": "f6532f0b2546abd24ace108b94475e3bf26662cefd49d13bc64339a06b3ad66f",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:4",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "Esther 4:4",
+          "segment_mode": "whole",
+          "sha256": "e7c98fc638890b547decb97ac590ba278422c463ee6ff8117718088a7ca45f9b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e7c98fc638890b547decb97ac590ba278422c463ee6ff8117718088a7ca45f9b",
+      "translation_sha256": "d65a921e412f693e657cb025b067364f9c28f72bb0dd8669d95047d3601f1128",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:5",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "Esther 4:5",
+          "segment_mode": "whole",
+          "sha256": "38c0db9b0257c2227eb265d3b5e2df3be7a90ede9c18ddb9947e3be4de983edf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "38c0db9b0257c2227eb265d3b5e2df3be7a90ede9c18ddb9947e3be4de983edf",
+      "translation_sha256": "9788588011c66ea407546aa1f5ba8e69e856b9975446fad3604b93702284ac90",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:6",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "Esther 4:6",
+          "segment_mode": "whole",
+          "sha256": "409d3d857a5788283ae4c2870e9eaa572082611590cbbe6e5174a212c8cf1dde"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "409d3d857a5788283ae4c2870e9eaa572082611590cbbe6e5174a212c8cf1dde",
+      "translation_sha256": "5604d34b016f25740f34aa66a44718f2c987066069bf104b3fc46ea8ce2e882f",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:7",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "Esther 4:7",
+          "segment_mode": "whole",
+          "sha256": "7a7ae3b7bdb4094ae0f4198750a83019b947a1863ada07d1eed4a3470ada4623"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7a7ae3b7bdb4094ae0f4198750a83019b947a1863ada07d1eed4a3470ada4623",
+      "translation_sha256": "b3b37bb1d7b777f0e0b4810645745abe43ecd2941ac3b9964cbf8a8054c5a703",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:8",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "Esther 4:8",
+          "segment_mode": "whole",
+          "sha256": "bd1c2919ed4af09f01f390538a217eb46928b65f64297fdf3ca509d51e0c5dd9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bd1c2919ed4af09f01f390538a217eb46928b65f64297fdf3ca509d51e0c5dd9",
+      "translation_sha256": "7f31710c76364ab591dff63acbdc1a18e9d5dd2561b6eee42fd4f91f2518d7f6",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:9",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "Esther 4:9",
+          "segment_mode": "whole",
+          "sha256": "4a3cf2bd8e4d5bf494316755568e8a83394a2c45ca864fc53246807da09a0f41"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4a3cf2bd8e4d5bf494316755568e8a83394a2c45ca864fc53246807da09a0f41",
+      "translation_sha256": "7ea8c63f93a6f557c7ec7c27132cee6bc4bf26dce34cc11d966709d811e30b58",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:10",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "Esther 4:10",
+          "segment_mode": "whole",
+          "sha256": "6db242d95803a8a42f6f9893fd03049fb669df24e363284d52de9ed252c8383d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6db242d95803a8a42f6f9893fd03049fb669df24e363284d52de9ed252c8383d",
+      "translation_sha256": "9cc45d48ed1720a3538e5cc8a8bae2f0fddd31a4a630d5f1db1b5dad37b4debe",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:11",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "Esther 4:11",
+          "segment_mode": "whole",
+          "sha256": "f1574223dee979b4785a28bbefde4915e515d2d1a8e318010399a0202b9df857"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f1574223dee979b4785a28bbefde4915e515d2d1a8e318010399a0202b9df857",
+      "translation_sha256": "3e2f05be131668f367f3bfc10a282c6f732c8ee5b3860be7f8d5a6528792eeaa",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:12",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "Esther 4:12",
+          "segment_mode": "whole",
+          "sha256": "128be3b9ded88040cd9d56e24835c136e0eb6056b36831fe243faa69fcf780fa"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "128be3b9ded88040cd9d56e24835c136e0eb6056b36831fe243faa69fcf780fa",
+      "translation_sha256": "7987b12f4eb46b79c6bf286ef5171e4b9deaa2e1ec6d2bb1d65615a09a3ebf5b",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:13",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "Esther 4:13",
+          "segment_mode": "whole",
+          "sha256": "6f9003b3e56deb7c6c3487e91b32c76ebf2acebcdbbde0423b88b91b7e8ef582"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6f9003b3e56deb7c6c3487e91b32c76ebf2acebcdbbde0423b88b91b7e8ef582",
+      "translation_sha256": "5a59ba12df3e255fb8cfe137ac2ea59bf7447dca2df49754e6c0cb43f1e801cf",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:14",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 14,
+          "source_ref": "Esther 4:14",
+          "segment_mode": "whole",
+          "sha256": "2464bcaf02bd91f3346944ac5f50e7c3338d5fcd577d27516d907f3c02435d52"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2464bcaf02bd91f3346944ac5f50e7c3338d5fcd577d27516d907f3c02435d52",
+      "translation_sha256": "2702899034e31cc2cdd0c9da23f50f56ce37bf24bed626060f4cb36a84fef734",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:15",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 15,
+          "source_ref": "Esther 4:15",
+          "segment_mode": "whole",
+          "sha256": "d349e7e738a1073d9e9aca82562529c05e8f541018f310ab21d94bc799fb4bd2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d349e7e738a1073d9e9aca82562529c05e8f541018f310ab21d94bc799fb4bd2",
+      "translation_sha256": "be490e951281cbd8e0dd5c9e25ace0c7b24e30dc84d0ace7586ee899c8c19bc2",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:16",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 16,
+          "source_ref": "Esther 4:16",
+          "segment_mode": "whole",
+          "sha256": "279373bb0f707d3630e304946742e1ca5b1b1848a7149aaeb02b82dc3a4ed571"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "279373bb0f707d3630e304946742e1ca5b1b1848a7149aaeb02b82dc3a4ed571",
+      "translation_sha256": "66281b20607999106f866e7bae75e3bb292c0aac6173be7aa524ed776b013b87",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 4:17",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 17,
+          "source_ref": "Esther 4:17",
+          "segment_mode": "whole",
+          "sha256": "3012802c566e1b41df20a8b041580c9c86874fa873026e6ebc92c91e3cd3c214"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3012802c566e1b41df20a8b041580c9c86874fa873026e6ebc92c91e3cd3c214",
+      "translation_sha256": "6d3b97f31ad1ed1197cd336d8c7024b5358a1e52fb35ca07577529b1b16f25a1",
+      "tsw_blob_sha": "5dd636241b66b9d57ccfb37454dea987be167077",
+      "curated_decisions": [
+        "Preserve Mordecai's challenge, Esther's risk, and the narrative's indirect providence without inserting God into the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:1",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "source_ref": "Esther 5:1",
+          "segment_mode": "whole",
+          "sha256": "a7fc0e30ffd7ea365abd20da715d1fcb08593b30b6e36336cb9c10e2e809b9f2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a7fc0e30ffd7ea365abd20da715d1fcb08593b30b6e36336cb9c10e2e809b9f2",
+      "translation_sha256": "82f7d3b861ebb302253a58eff245ecbf7498ff257abf9334e5dd447b532b923c",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:2",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 2,
+          "source_ref": "Esther 5:2",
+          "segment_mode": "whole",
+          "sha256": "2087b08f8f2f7f3427c9b414932d09c5ed7e37aa6c20baa4285d0034ca07883e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2087b08f8f2f7f3427c9b414932d09c5ed7e37aa6c20baa4285d0034ca07883e",
+      "translation_sha256": "1c26b4c582dd991ea0c3739fdaa5544ff11a49f15331850f9b437af62dd03a15",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Esther 5:3",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 3,
+          "source_ref": "Esther 5:3",
+          "segment_mode": "whole",
+          "sha256": "bdbd63b82a0b37df3c995ef5a4b132e0ce4cded5df1e570cc512cf263e480e87"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bdbd63b82a0b37df3c995ef5a4b132e0ce4cded5df1e570cc512cf263e480e87",
+      "translation_sha256": "afdf24e0a67ec5ad607ed7a176a7be527fd15d48134ad5cc03775addc672fa20",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:4",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 4,
+          "source_ref": "Esther 5:4",
+          "segment_mode": "whole",
+          "sha256": "960e40bca1cc6dc64ed62a72e387a010028d26fa5f27c8b2652ad4daffe8e1a8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "960e40bca1cc6dc64ed62a72e387a010028d26fa5f27c8b2652ad4daffe8e1a8",
+      "translation_sha256": "427d0c4a83d7dadf7ddedaf65f7b78baa5ceeeb0b103ba7c34b9cb3ae8075c91",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:5",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "source_ref": "Esther 5:5",
+          "segment_mode": "whole",
+          "sha256": "6e4becd148a4c1b935c0821b1d82fb9b619b6bb987963429cd956cdba7f9e82b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6e4becd148a4c1b935c0821b1d82fb9b619b6bb987963429cd956cdba7f9e82b",
+      "translation_sha256": "2532dc9c793060ef01b5a18822b6604cf68de228d7d15873b721448b958cb8e9",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Esther 5:6",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 6,
+          "source_ref": "Esther 5:6",
+          "segment_mode": "whole",
+          "sha256": "a77a50d947ccc1f2894df9e9540d130fbeaf55e985d5aac55947f2394563985e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a77a50d947ccc1f2894df9e9540d130fbeaf55e985d5aac55947f2394563985e",
+      "translation_sha256": "5cc4f3c7a867ec1f417295e3f3076814340ee5592589bce1368c22a7f962cc53",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:7",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 7,
+          "source_ref": "Esther 5:7",
+          "segment_mode": "whole",
+          "sha256": "1fae16235c385410c3e800914f38b733970e82a2049c63d4e4453a221aaac972"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1fae16235c385410c3e800914f38b733970e82a2049c63d4e4453a221aaac972",
+      "translation_sha256": "06d8f8ee8ab9a177ad98a9873cd5054714d75906188471316db385a8e5aca6c7",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:8",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 8,
+          "source_ref": "Esther 5:8",
+          "segment_mode": "whole",
+          "sha256": "7984b3fa3fea897c665f72a205c13c2e7de282495ccbfbeefa38ea7141b17da7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7984b3fa3fea897c665f72a205c13c2e7de282495ccbfbeefa38ea7141b17da7",
+      "translation_sha256": "33ae59fdfeae2a131f71a44ee614e5957b0cac0c80b6b886accd96ac5e2b8612",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:9",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 9,
+          "source_ref": "Esther 5:9",
+          "segment_mode": "whole",
+          "sha256": "f3df5a1cfd7a1c96e16c3f2ec5760e14f24230715b02922b99a523cba0fbfbc8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f3df5a1cfd7a1c96e16c3f2ec5760e14f24230715b02922b99a523cba0fbfbc8",
+      "translation_sha256": "2d3a05c483b896d3c680569437d3ed4f0dd11144d2ee16d93e292f8324ebdb24",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:10",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 10,
+          "source_ref": "Esther 5:10",
+          "segment_mode": "whole",
+          "sha256": "93c95600b922d2dad8c1e3c67454b851b08526baf2e8a0a65ae06a12a39d6454"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "93c95600b922d2dad8c1e3c67454b851b08526baf2e8a0a65ae06a12a39d6454",
+      "translation_sha256": "a0b38d2e8eb0f0412e55f9aa533551abcc34b4d80d1d8c1191b9bbce2c031739",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:11",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 11,
+          "source_ref": "Esther 5:11",
+          "segment_mode": "whole",
+          "sha256": "aad91f01cfea28c71cca8a2c688747fd79d15c22c4d340b14e1791f557e08b1b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aad91f01cfea28c71cca8a2c688747fd79d15c22c4d340b14e1791f557e08b1b",
+      "translation_sha256": "31daf20f3ab5eb3e38d3a482ca9e3a13cc4de4462ddad69090ae50c21e9697ac",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:12",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 12,
+          "source_ref": "Esther 5:12",
+          "segment_mode": "whole",
+          "sha256": "5a3ffab4a84acde84589f1de3e8c7d60b837917fe7965aa5e3a8263a113cfcb5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5a3ffab4a84acde84589f1de3e8c7d60b837917fe7965aa5e3a8263a113cfcb5",
+      "translation_sha256": "3767ba103d34c16bfae0daca0cab015d77cf678c981714e190933daccb6f7a0d",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:13",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 13,
+          "source_ref": "Esther 5:13",
+          "segment_mode": "whole",
+          "sha256": "bb7fa8cdb15bcf48c1ceb942c061af890a894eef547235e533659d219ad19809"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bb7fa8cdb15bcf48c1ceb942c061af890a894eef547235e533659d219ad19809",
+      "translation_sha256": "4e7b1f8b29598ddc28c8d0ebf6903ef0516d47a1ef8d946866824d5107e48eba",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 5:14",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 14,
+          "source_ref": "Esther 5:14",
+          "segment_mode": "whole",
+          "sha256": "f50a3a822cf331348c2ba892bc4840ff21aa4470908c96ebf45139d8816a2238"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f50a3a822cf331348c2ba892bc4840ff21aa4470908c96ebf45139d8816a2238",
+      "translation_sha256": "043ba0766a72c237ceca5a6ff05a8eefe244f368bb0626f22c0ebd68f83fcc93",
+      "tsw_blob_sha": "01130cd27d615241ad93e8d503eb5f134df88ac5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:1",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "source_ref": "Esther 6:1",
+          "segment_mode": "whole",
+          "sha256": "7cb172a371ec106e38ce49cede4551fc800eb39bd8b799ec2f286b1e043285ce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7cb172a371ec106e38ce49cede4551fc800eb39bd8b799ec2f286b1e043285ce",
+      "translation_sha256": "fc8275d99123a02e506641330876a774c33003f42ed484c4956d7e4dfea53dcf",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:2",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 2,
+          "source_ref": "Esther 6:2",
+          "segment_mode": "whole",
+          "sha256": "1821da6da56393a09bf2b5342c6ac77f1ef07530eaa4d20c1872727ba4f62085"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1821da6da56393a09bf2b5342c6ac77f1ef07530eaa4d20c1872727ba4f62085",
+      "translation_sha256": "b8fb01fd9dfd6ff211423d4fb3178fde4aad883b102df96eae4526badc788fba",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:3",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 3,
+          "source_ref": "Esther 6:3",
+          "segment_mode": "whole",
+          "sha256": "741ad8eceb807accc3e417b28ab52ff82df8f3655de946852d6743df6ef224cf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "741ad8eceb807accc3e417b28ab52ff82df8f3655de946852d6743df6ef224cf",
+      "translation_sha256": "1c5df84256e04ae6b0eaee740830f78780b2b32a4bc08d15ce62aab108415b85",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:4",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 4,
+          "source_ref": "Esther 6:4",
+          "segment_mode": "whole",
+          "sha256": "ee51c2813afe174eb0b89e72427164b65794b055c3f4d7184f4dca3ea0d89339"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ee51c2813afe174eb0b89e72427164b65794b055c3f4d7184f4dca3ea0d89339",
+      "translation_sha256": "3fdc3a1126226d8dd2776a831db2771be79c79012738bee7eaf1ca5cd8623801",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:5",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 5,
+          "source_ref": "Esther 6:5",
+          "segment_mode": "whole",
+          "sha256": "344c1ac379de548b53f6482158b102fff791752101d13e93a40365a8f374a5b6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "344c1ac379de548b53f6482158b102fff791752101d13e93a40365a8f374a5b6",
+      "translation_sha256": "942887fac0471aa577e0263320c5c62c4f0cd7277c1454dd0058c0120788d581",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:6",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 6,
+          "source_ref": "Esther 6:6",
+          "segment_mode": "whole",
+          "sha256": "6db014d23a642ea008b33fb331053a0b151e3a0a0b1e6fb994464d4928e7bd2d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6db014d23a642ea008b33fb331053a0b151e3a0a0b1e6fb994464d4928e7bd2d",
+      "translation_sha256": "320a9b85531ca60cea9c7bbc024aa6b8b2f0759a1c3d365c1ee049ce3e8a4a74",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:7",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 7,
+          "source_ref": "Esther 6:7",
+          "segment_mode": "whole",
+          "sha256": "823cbe45501e570a7ab295a431def1b5ba8c338ca516b740b61d482e9c753d15"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "823cbe45501e570a7ab295a431def1b5ba8c338ca516b740b61d482e9c753d15",
+      "translation_sha256": "feb79165111a9e9bffc1f6e3a53ef1b859690780ca278e3d19eb1036ef668ef4",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:8",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 8,
+          "source_ref": "Esther 6:8",
+          "segment_mode": "whole",
+          "sha256": "faec405bc312864945bd3ff9bd20388913f78c31304a1004efb836fba4a51c24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "faec405bc312864945bd3ff9bd20388913f78c31304a1004efb836fba4a51c24",
+      "translation_sha256": "fe2bdc1f902bae4293d5d87cb8d9861808e8c7f21afc8a292a71b13f53282ca7",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Esther 6:9",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 9,
+          "source_ref": "Esther 6:9",
+          "segment_mode": "whole",
+          "sha256": "f0316130dc603037d3bcc83d6d578d5bf56acc98a369752a1d050195f4f7c88c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f0316130dc603037d3bcc83d6d578d5bf56acc98a369752a1d050195f4f7c88c",
+      "translation_sha256": "3d6a2c00d4ae7889c6cba53e86bd7b9d3487a9e135db2dbbfbfeffb18965609a",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:10",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 10,
+          "source_ref": "Esther 6:10",
+          "segment_mode": "whole",
+          "sha256": "f8423c562828821cc9f65e6186c63a9331f3c4bce85960a09e1d5746943d5059"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f8423c562828821cc9f65e6186c63a9331f3c4bce85960a09e1d5746943d5059",
+      "translation_sha256": "de349211471dad8887ea348ad74fa1af0af57614bc4532f8aa70fa8a3abec754",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Esther 6:11",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 11,
+          "source_ref": "Esther 6:11",
+          "segment_mode": "whole",
+          "sha256": "1f017f80bff2297fcabac8d1985d5123b923bdc04ead8956ce8378b863bd63a7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1f017f80bff2297fcabac8d1985d5123b923bdc04ead8956ce8378b863bd63a7",
+      "translation_sha256": "39f16ee847c90b46b5142f4909575f4228bb06f8bab7e0e448034432b318ec8a",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:12",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 12,
+          "source_ref": "Esther 6:12",
+          "segment_mode": "whole",
+          "sha256": "09015b1f1ce4d2ef9fb4eb0594277ed180ada594adfda3c1646a852ff2909b3c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "09015b1f1ce4d2ef9fb4eb0594277ed180ada594adfda3c1646a852ff2909b3c",
+      "translation_sha256": "35785330a07574075f6ad4fe3409ac2ee1c785a88bcce450402d9acb455a83c7",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:13",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 13,
+          "source_ref": "Esther 6:13",
+          "segment_mode": "whole",
+          "sha256": "5dbbbbf0ee5d2407cd08426add8d43eec2cbefc2ba8f14c0bd287aba7b7d8316"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5dbbbbf0ee5d2407cd08426add8d43eec2cbefc2ba8f14c0bd287aba7b7d8316",
+      "translation_sha256": "24712b48f6156d5b966712ec39810fa1021ca6fcefb27233f8b9e45c24a193df",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 6:14",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 14,
+          "source_ref": "Esther 6:14",
+          "segment_mode": "whole",
+          "sha256": "2bbf06a8a26211651df6535d1b4401325eb93b223ba5299c2934fa063995ef2b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2bbf06a8a26211651df6535d1b4401325eb93b223ba5299c2934fa063995ef2b",
+      "translation_sha256": "1b19652e99e41c8366297e9220d87b6a66b92dcd062c67aa66e46f02cf0b1121",
+      "tsw_blob_sha": "b36ed603333bc0a088c9fcf94d0aa03cd3a08bb2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:1",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "source_ref": "Esther 7:1",
+          "segment_mode": "whole",
+          "sha256": "d1ec567003498747210d657149f62634b46a8fb3757250930f68e19995c59272"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d1ec567003498747210d657149f62634b46a8fb3757250930f68e19995c59272",
+      "translation_sha256": "119d7c64dd260642600816f4cbcfcea466f3d1963dcf3422edaba90b9d3ba06d",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:2",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 2,
+          "source_ref": "Esther 7:2",
+          "segment_mode": "whole",
+          "sha256": "13cf7857fbb48c9d689b8d19b81ae786996e72f714407ad5663295dde9ae825a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "13cf7857fbb48c9d689b8d19b81ae786996e72f714407ad5663295dde9ae825a",
+      "translation_sha256": "ddb02238decc6fed25ccc4c9c087c6af604bf8c4773b605909d903e50532575e",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:3",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 3,
+          "source_ref": "Esther 7:3",
+          "segment_mode": "whole",
+          "sha256": "1d2bb76f32ff08d06df0e02258dd85d0bc0f995dd6741bdce2426f1c9b514f12"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1d2bb76f32ff08d06df0e02258dd85d0bc0f995dd6741bdce2426f1c9b514f12",
+      "translation_sha256": "2e5fc7ac408aa4f007aeb3ad4938dd10b45dc546feb7bc005d711d65b8d1a32a",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:4",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 4,
+          "source_ref": "Esther 7:4",
+          "segment_mode": "whole",
+          "sha256": "f622f447d283a1b83f6ea47722033325f7886cab02f5f4452131436a1218deb7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f622f447d283a1b83f6ea47722033325f7886cab02f5f4452131436a1218deb7",
+      "translation_sha256": "d3c8cc100c363358f74aa017282f3fe63ae7c6c9beb163b0e0a409002b4007e8",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:5",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 5,
+          "source_ref": "Esther 7:5",
+          "segment_mode": "whole",
+          "sha256": "0ba5adc81356fd69e5095afcaa3abc6ef0c5fdb46f8346f8d8f2f6ad18672b24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0ba5adc81356fd69e5095afcaa3abc6ef0c5fdb46f8346f8d8f2f6ad18672b24",
+      "translation_sha256": "09a06f31646d660bee07aaed2d5ea8dfcdf4595e1a509cfae814cbf3b501d384",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:6",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 6,
+          "source_ref": "Esther 7:6",
+          "segment_mode": "whole",
+          "sha256": "38e537e7909933667b6af224a3f0c3a2c3b5337b74fede03f6b0fda1c17e09d8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "38e537e7909933667b6af224a3f0c3a2c3b5337b74fede03f6b0fda1c17e09d8",
+      "translation_sha256": "9946d249dbc222db7a978538eee106579d07d52367cf5d46bf88c7f974cb4fb9",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:7",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 7,
+          "source_ref": "Esther 7:7",
+          "segment_mode": "whole",
+          "sha256": "9d7d5a38144968426d5e17aef7c4ff3c34e7c5ea9a6611636523151c7fdbb412"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9d7d5a38144968426d5e17aef7c4ff3c34e7c5ea9a6611636523151c7fdbb412",
+      "translation_sha256": "9b92e72eaf49a9195a34c41d3832e2cd81deef76ba3324e9081e1d6ceea56cab",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:8",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 8,
+          "source_ref": "Esther 7:8",
+          "segment_mode": "whole",
+          "sha256": "7f48d8894b5c04d483be7fd60f6c241896a1a6ae9bb28e641d076958438ae13c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7f48d8894b5c04d483be7fd60f6c241896a1a6ae9bb28e641d076958438ae13c",
+      "translation_sha256": "a57cbd1f41e065982dd722987c47423fa6255ca988f2cc45c5a2c5ddd6980771",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:9",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 9,
+          "source_ref": "Esther 7:9",
+          "segment_mode": "whole",
+          "sha256": "1af159555ec8be206f9f1e63d2c1f14311f88d33fb3f741b7a55d845d36c3793"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1af159555ec8be206f9f1e63d2c1f14311f88d33fb3f741b7a55d845d36c3793",
+      "translation_sha256": "35aac4316fe2d60ef6acc44a103774840dd22c15e470747c963e29b249f55c11",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 7:10",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 10,
+          "source_ref": "Esther 7:10",
+          "segment_mode": "whole",
+          "sha256": "e51d46b86065cda4d28260bd11a38384f425fe790a9c3ba515ab8b150b907f1c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e51d46b86065cda4d28260bd11a38384f425fe790a9c3ba515ab8b150b907f1c",
+      "translation_sha256": "ac96d253187c386e0625169d202cb86db7eff3da29287c79a406b2404d3a7b11",
+      "tsw_blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e",
+      "curated_decisions": [
+        "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:1",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "source_ref": "Esther 8:1",
+          "segment_mode": "whole",
+          "sha256": "5e140c5961fd466d415274783273b6e713d1448692c0b8e617b0049054c7eb53"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5e140c5961fd466d415274783273b6e713d1448692c0b8e617b0049054c7eb53",
+      "translation_sha256": "a458d0d5fa849b9d366005fa39d04849314fdce9b36c520cb029d64f0e631717",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:2",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 2,
+          "source_ref": "Esther 8:2",
+          "segment_mode": "whole",
+          "sha256": "007fd1ca26a15a4fcc1d5e990bd4aeb98d1b44fced0f33d5ed43bee56f689678"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "007fd1ca26a15a4fcc1d5e990bd4aeb98d1b44fced0f33d5ed43bee56f689678",
+      "translation_sha256": "ede34b15a3a95f83f8452aaafc249c7568b6c69fc987b6018bbdb1cc177e6a04",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:3",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 3,
+          "source_ref": "Esther 8:3",
+          "segment_mode": "whole",
+          "sha256": "1575b321723e5a4154f398f17449652e0a22a646476853862c344eb34b7d7a13"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1575b321723e5a4154f398f17449652e0a22a646476853862c344eb34b7d7a13",
+      "translation_sha256": "c3261d5c6e878c0fe1a0a1695a07112891350541267ae82733c9e532b7fe0eef",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:4",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 4,
+          "source_ref": "Esther 8:4",
+          "segment_mode": "whole",
+          "sha256": "8cba7baceae93907359d81fcb910e590624bb8af0a4a43f5a1eb771602182674"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8cba7baceae93907359d81fcb910e590624bb8af0a4a43f5a1eb771602182674",
+      "translation_sha256": "5112a03827dbe3244ae678a353bd541a52832e06da05c7fdc2fac4385464d65a",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:5",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 5,
+          "source_ref": "Esther 8:5",
+          "segment_mode": "whole",
+          "sha256": "faaa27aff52f07546f7621ecc9643a991d0b272577828e1be6bccc259ae578a0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "faaa27aff52f07546f7621ecc9643a991d0b272577828e1be6bccc259ae578a0",
+      "translation_sha256": "00a3062801c549e453d7951f4c1058df4e3fd3c1c9ec6eeb158c03714bf97db7",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:6",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 6,
+          "source_ref": "Esther 8:6",
+          "segment_mode": "whole",
+          "sha256": "40a7d0e1abd32871edf355f326c4fc8f851529664b75dc32425fe4c4256c5219"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "40a7d0e1abd32871edf355f326c4fc8f851529664b75dc32425fe4c4256c5219",
+      "translation_sha256": "f4d09d070cb417bfcd08729513530ae08497f8f15bf9132ed74bdb7bc393b52c",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:7",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 7,
+          "source_ref": "Esther 8:7",
+          "segment_mode": "whole",
+          "sha256": "4b80ca5277105cd44cac18fc354caa9071d781655ce391657836cff4fa2e06eb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4b80ca5277105cd44cac18fc354caa9071d781655ce391657836cff4fa2e06eb",
+      "translation_sha256": "ee6420e2e37b550e24a0a10d5cec8f0549a0eaa194a205014b87c2c0b18349c1",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:8",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 8,
+          "source_ref": "Esther 8:8",
+          "segment_mode": "whole",
+          "sha256": "15971895c3f57a5423dd36941e16d760a01a87ca2121ec0d8e0fdddf19502361"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "15971895c3f57a5423dd36941e16d760a01a87ca2121ec0d8e0fdddf19502361",
+      "translation_sha256": "8299175a7a3dda35557c365e2a5e0d16fc6511c6f8e560e85f01cff4474bcbe0",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:9",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 9,
+          "source_ref": "Esther 8:9",
+          "segment_mode": "whole",
+          "sha256": "63b6fa6780237a6bb223494e6c89db33cf57521ffd85801d30bf7b87f696c40f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "63b6fa6780237a6bb223494e6c89db33cf57521ffd85801d30bf7b87f696c40f",
+      "translation_sha256": "6617bd28e0b0353335ca66509d123c03275f80f9d836cd6ab536176402bd141c",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:10",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 10,
+          "source_ref": "Esther 8:10",
+          "segment_mode": "whole",
+          "sha256": "1256dbefb5c7cc333d76826930c33ccb2ec5797290f14ed8d34349afe06ff922"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1256dbefb5c7cc333d76826930c33ccb2ec5797290f14ed8d34349afe06ff922",
+      "translation_sha256": "bcd4a60d9286313d3683aef18e70137f1b403cc81ebc3cd50dc836366b60a7b5",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:11",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 11,
+          "source_ref": "Esther 8:11",
+          "segment_mode": "whole",
+          "sha256": "0f94790c4875e69cc70825813ddb61c70b06eb7393524102f8cbddc2f23112f7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0f94790c4875e69cc70825813ddb61c70b06eb7393524102f8cbddc2f23112f7",
+      "translation_sha256": "28453995611e709b8a92b95aaad69b81eb87dd46f4625de45dd8af9a66190534",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:12",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 12,
+          "source_ref": "Esther 8:12",
+          "segment_mode": "whole",
+          "sha256": "98138f3d76d1a4982028bf61486fdc127455ca72c1e01a9b86c70119560c47d7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "98138f3d76d1a4982028bf61486fdc127455ca72c1e01a9b86c70119560c47d7",
+      "translation_sha256": "2a07601d9020cf6eb0018375978e24ba83a6cd62a0afb94ec8cc465e983ad8be",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:13",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 13,
+          "source_ref": "Esther 8:13",
+          "segment_mode": "whole",
+          "sha256": "297a6a0402a923312def5296ed9fd96431882f958efd1146b1bbf12b626f9a50"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "297a6a0402a923312def5296ed9fd96431882f958efd1146b1bbf12b626f9a50",
+      "translation_sha256": "f6ce20dc303d2464b5a522ff7d5898788d7b23ec1a7a68a654566c023b5d5488",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:14",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 14,
+          "source_ref": "Esther 8:14",
+          "segment_mode": "whole",
+          "sha256": "a1f6ae5d56afdc1427f26bd6ef8a62ac129fa48e1cc735ea9efcda9cfb99b0b5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a1f6ae5d56afdc1427f26bd6ef8a62ac129fa48e1cc735ea9efcda9cfb99b0b5",
+      "translation_sha256": "91d0af15c806e3b1d322c8588fb0b30b94c5ce920d63a9dc9edc290f36bd72d8",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:15",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 15,
+          "source_ref": "Esther 8:15",
+          "segment_mode": "whole",
+          "sha256": "9a8226d9d59bc423afe8900aa37db47f59c4e4811f47847319b0bb6b9f6c5a06"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9a8226d9d59bc423afe8900aa37db47f59c4e4811f47847319b0bb6b9f6c5a06",
+      "translation_sha256": "8452cc0c4b2b6fa06403e63b6b57bc6f73bfe44b672a7869af75a884207b1275",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:16",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 16,
+          "source_ref": "Esther 8:16",
+          "segment_mode": "whole",
+          "sha256": "0c404a743dbb1ded5cc07087e4aa3e1cda6d3ab22f65a7517020f89ca6755f56"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0c404a743dbb1ded5cc07087e4aa3e1cda6d3ab22f65a7517020f89ca6755f56",
+      "translation_sha256": "44bee2a2dbe4edb4ffbadec9feda23eaefbb503812195cefa65c56fa594b579d",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 8:17",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 17,
+          "source_ref": "Esther 8:17",
+          "segment_mode": "whole",
+          "sha256": "57a1b8c974929242b97d2534cf26f7ba95cefbc39fb1cac57584c196cd55b7e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "57a1b8c974929242b97d2534cf26f7ba95cefbc39fb1cac57584c196cd55b7e3",
+      "translation_sha256": "d9ae68ece36717b302c0c9b0ac5a6d1775e321ce45cc22df559ac16758545f54",
+      "tsw_blob_sha": "aeb7fead149592cb7055ff3aa3c82a370bde9c02",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:1",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "source_ref": "Esther 9:1",
+          "segment_mode": "whole",
+          "sha256": "84edc7d69d32efd1a2ca2df697b2dd5fff83f5be62a1e4f5b71fc0569c124d37"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "84edc7d69d32efd1a2ca2df697b2dd5fff83f5be62a1e4f5b71fc0569c124d37",
+      "translation_sha256": "a6540aa3304f04c4468829eccf4a11c05698e5b6ad6280f4550b583d92688548",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:2",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 2,
+          "source_ref": "Esther 9:2",
+          "segment_mode": "whole",
+          "sha256": "5865e8c62cbfad01994ce4c21e78f474d575706720cdb92a48bae348a0444c06"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5865e8c62cbfad01994ce4c21e78f474d575706720cdb92a48bae348a0444c06",
+      "translation_sha256": "1d00d9d36290335dff390d4d055a61e10eef3dcf89d549511a9257f86e3a1b4d",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:3",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 3,
+          "source_ref": "Esther 9:3",
+          "segment_mode": "whole",
+          "sha256": "d8955e062ed40859e7b7fb13c7f2da5d1898c4a7be2fb08a5dd4eecebf5dee9c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d8955e062ed40859e7b7fb13c7f2da5d1898c4a7be2fb08a5dd4eecebf5dee9c",
+      "translation_sha256": "bce47a2e13c355e75d0e8a51e074057afb36e04ec4694cef940b63c9746d590f",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:4",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 4,
+          "source_ref": "Esther 9:4",
+          "segment_mode": "whole",
+          "sha256": "5261d49595cd995eaf0cd4c55c9e1e2d39c0e0233ce649173b842085cf4568c7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5261d49595cd995eaf0cd4c55c9e1e2d39c0e0233ce649173b842085cf4568c7",
+      "translation_sha256": "2aea3a4ea0dead3a560b12a9b1292829bacbe7441314170c7ccd348f039f91b4",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:5",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 5,
+          "source_ref": "Esther 9:5",
+          "segment_mode": "whole",
+          "sha256": "c3d9b6bc449417ce4ffeb696733b5754d14e45137263ae0453b6cdcbb916174f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c3d9b6bc449417ce4ffeb696733b5754d14e45137263ae0453b6cdcbb916174f",
+      "translation_sha256": "afea3c6adfb5e811b8b6dc37f5eb92a5885c31874c9a20eeb419688e1dd40738",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:6",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 6,
+          "source_ref": "Esther 9:6",
+          "segment_mode": "whole",
+          "sha256": "00ba7097cfd61c96d1e7695662ffc59a54d9c5b2e4a11b30fb918773ec35ec77"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "00ba7097cfd61c96d1e7695662ffc59a54d9c5b2e4a11b30fb918773ec35ec77",
+      "translation_sha256": "dac8d56ec9687dba0ea466c8020bdfbbef01c4c185bfcd77a18c0cc2c684fc76",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:7",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 7,
+          "source_ref": "Esther 9:7",
+          "segment_mode": "whole",
+          "sha256": "571a7588d224fa251ffce1dfbada0c07adf33da4d9361b5522cb47d72b110790"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "571a7588d224fa251ffce1dfbada0c07adf33da4d9361b5522cb47d72b110790",
+      "translation_sha256": "754ec2aaa6c0f8882e0cf6c5450404ad3deea10b464fd5d39c6c63993e7c598b",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:8",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 8,
+          "source_ref": "Esther 9:8",
+          "segment_mode": "whole",
+          "sha256": "cd6531589854abb9b486ee1074d313eb7fbc9f44da273b3696684ac2a173f3bb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cd6531589854abb9b486ee1074d313eb7fbc9f44da273b3696684ac2a173f3bb",
+      "translation_sha256": "d40e3cda9c7a1765042948b699ec2aae3a42e45a5125ae1916046fcfe508bbe2",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:9",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 9,
+          "source_ref": "Esther 9:9",
+          "segment_mode": "whole",
+          "sha256": "0618e20f619c796d61f53dce043d29b8c8dd36995bef0263b25bc8e2352820f7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0618e20f619c796d61f53dce043d29b8c8dd36995bef0263b25bc8e2352820f7",
+      "translation_sha256": "03caa66488ac2175345230b773a62b00c1e1fe63a097eedbd91839c723309db9",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:10",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 10,
+          "source_ref": "Esther 9:10",
+          "segment_mode": "whole",
+          "sha256": "508aced15d29910916f36320b6c9b181224e7a433902ee504483794ed3186046"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "508aced15d29910916f36320b6c9b181224e7a433902ee504483794ed3186046",
+      "translation_sha256": "45a52dd8defed8fcf841c3698d5245309ec28b8fea320847ff5b5b1ac06ced18",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:11",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 11,
+          "source_ref": "Esther 9:11",
+          "segment_mode": "whole",
+          "sha256": "d4a10cf2b106f7273b00c97fc693b1d89e6562078ba6583ec62b17ff9be0a823"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d4a10cf2b106f7273b00c97fc693b1d89e6562078ba6583ec62b17ff9be0a823",
+      "translation_sha256": "954555dfe625fc2c46dcbfe0f4b45ab5bda5fb7b5e7e37760fbc16422635c90f",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:12",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 12,
+          "source_ref": "Esther 9:12",
+          "segment_mode": "whole",
+          "sha256": "b501fc7db03c20365366b90c14856fe8d6ad54df9cc32f3d5d3bb15c4a459c5f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b501fc7db03c20365366b90c14856fe8d6ad54df9cc32f3d5d3bb15c4a459c5f",
+      "translation_sha256": "a65c7c6b689197a8510a2efe25b1710e3e0365310ac4f255f6fdc0f98e831193",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:13",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 13,
+          "source_ref": "Esther 9:13",
+          "segment_mode": "whole",
+          "sha256": "35ee5735e812e26016cc993afe4b790585e9f5b896b1486f5016e03414d4d045"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "35ee5735e812e26016cc993afe4b790585e9f5b896b1486f5016e03414d4d045",
+      "translation_sha256": "08f71d1815cc70fd2571899d6f67507c3dc102cf5ff7facfbd993bcedbf1b9d5",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:14",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 14,
+          "source_ref": "Esther 9:14",
+          "segment_mode": "whole",
+          "sha256": "8b4ea00f8a2479de0920ab0fe972ca10b57411d9c3d7c679ea224d3bf823f27b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8b4ea00f8a2479de0920ab0fe972ca10b57411d9c3d7c679ea224d3bf823f27b",
+      "translation_sha256": "16151e5e66507da993fc2e2f7fe754ab7dad2055985223802b6efd0a84622b88",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:15",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 15,
+          "source_ref": "Esther 9:15",
+          "segment_mode": "whole",
+          "sha256": "1745181fe00f009eb6a58070fd05cfd217714f8f2a5de57df0eb6e3e36291c61"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1745181fe00f009eb6a58070fd05cfd217714f8f2a5de57df0eb6e3e36291c61",
+      "translation_sha256": "3b58da1edd00c4c401fe882b5d45ab644f04c3bf4716ab0725e991c3ea574031",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:16",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 16,
+          "source_ref": "Esther 9:16",
+          "segment_mode": "whole",
+          "sha256": "cc04ceeb358661b1d1964688d990e5b9d39f7df6128a0c8c3034477561395b01"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cc04ceeb358661b1d1964688d990e5b9d39f7df6128a0c8c3034477561395b01",
+      "translation_sha256": "6f378b60c1af9417d4f60c18abff8a6ec68c9990fd1ac838dfd58d8e1b48ced2",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:17",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 17,
+          "source_ref": "Esther 9:17",
+          "segment_mode": "whole",
+          "sha256": "6e61e4d72f09ce2b708e6d0d35737ae5d7c2adb939a0ee2b6d41b7436459bf34"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6e61e4d72f09ce2b708e6d0d35737ae5d7c2adb939a0ee2b6d41b7436459bf34",
+      "translation_sha256": "cf457466559a3126544420f298ede2cc6b406f7196e1990499ff099fb1e3031d",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:18",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 18,
+          "source_ref": "Esther 9:18",
+          "segment_mode": "whole",
+          "sha256": "2f1809d119355e74384bef46f6c473e78d494db56517714a89e56a023190ce10"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2f1809d119355e74384bef46f6c473e78d494db56517714a89e56a023190ce10",
+      "translation_sha256": "4ec1638f534b6730aa362fe49653467728c2406d81b13b0a4b80bbd5bd4c03f9",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:19",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 19,
+          "source_ref": "Esther 9:19",
+          "segment_mode": "whole",
+          "sha256": "9da50a21dfd634a11bd4e32733fae22796df63a962109be7f6e0bcef8899a781"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9da50a21dfd634a11bd4e32733fae22796df63a962109be7f6e0bcef8899a781",
+      "translation_sha256": "42d792e9be24ae70e6dc9c887076cacd249dac1bdef636558d9fde88fde6656c",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Retain self-defense, imperial authorization, and violent reversal without treating every act of killing as uncomplicated celebration."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:20",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 20,
+          "source_ref": "Esther 9:20",
+          "segment_mode": "whole",
+          "sha256": "d3ea52cf5831f2ec9d56fdb79120cc6eb6696eb74fff705548abc5e43cf850b3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d3ea52cf5831f2ec9d56fdb79120cc6eb6696eb74fff705548abc5e43cf850b3",
+      "translation_sha256": "433cdf0626cb68416cb0cf7cdb2f81b3f7ed61b0bc0b866e94689234708a6614",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:21",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 21,
+          "source_ref": "Esther 9:21",
+          "segment_mode": "whole",
+          "sha256": "b95955c315ed0ea6515ab1804197a1bc69c00c746d2c49703a1a70d1f15d9fb3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b95955c315ed0ea6515ab1804197a1bc69c00c746d2c49703a1a70d1f15d9fb3",
+      "translation_sha256": "1a1407c6045e9f6d8e9da250f9ec17452a6ce963f96f33e224a4ea30ce36016c",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:22",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 22,
+          "source_ref": "Esther 9:22",
+          "segment_mode": "whole",
+          "sha256": "69fa560d138ae3f34e8c7966202cf4b83baaed50ad490b18ad891d92fd1f8a7c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "69fa560d138ae3f34e8c7966202cf4b83baaed50ad490b18ad891d92fd1f8a7c",
+      "translation_sha256": "ccf0dcdfd0edee0400f2c5490148909d2ace47eca908a129697ecb4bc59d12e7",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:23",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 23,
+          "source_ref": "Esther 9:23",
+          "segment_mode": "whole",
+          "sha256": "9cd9c64897fd602a4c58e3154743d415bb607010957ff68013e0c495acc62191"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9cd9c64897fd602a4c58e3154743d415bb607010957ff68013e0c495acc62191",
+      "translation_sha256": "275a43ae8132be420ce0fa855082870644f8278dcd0c7d2035e71d66a4d7b76f",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:24",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 24,
+          "source_ref": "Esther 9:24",
+          "segment_mode": "whole",
+          "sha256": "3c42db89cb959f22c0db8f361d88eb83b021fe5351f26aefd528357ab6424fb5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3c42db89cb959f22c0db8f361d88eb83b021fe5351f26aefd528357ab6424fb5",
+      "translation_sha256": "1270da8bf8d6af72530a1ad0147277ca7ea9859698d2d7d7f8d49f0d0c41475e",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:25",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 25,
+          "source_ref": "Esther 9:25",
+          "segment_mode": "whole",
+          "sha256": "b79e5331b5724c457db48211bb4ceff311c28106e3791fa6d0e50b2e0d0513dc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b79e5331b5724c457db48211bb4ceff311c28106e3791fa6d0e50b2e0d0513dc",
+      "translation_sha256": "f2fc853b5e80810c6eb2091a704f4b85cf6dab266f37fcbff4b54db22fb596ae",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 26,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:26",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 26,
+          "source_ref": "Esther 9:26",
+          "segment_mode": "whole",
+          "sha256": "25b75ef0c42486f498bd7f9085abceeacd92430da69b8c56c18b52705febe638"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "25b75ef0c42486f498bd7f9085abceeacd92430da69b8c56c18b52705febe638",
+      "translation_sha256": "9c13bfcd0e747c388030079a6375f3e15d1d6c965f0ec9b6d6244597ba12ef36",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 27,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:27",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 27,
+          "source_ref": "Esther 9:27",
+          "segment_mode": "whole",
+          "sha256": "f6bbed7bc62ecbab492ab7a3b666b6c9d05fcb61f9687d73885404db8c5864e1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f6bbed7bc62ecbab492ab7a3b666b6c9d05fcb61f9687d73885404db8c5864e1",
+      "translation_sha256": "17c02ba18a9473cc5025ff7e202e3c296cda3af43d14cc9af98ca52f4bc1a2d0",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 28,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:28",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 28,
+          "source_ref": "Esther 9:28",
+          "segment_mode": "whole",
+          "sha256": "0422343345e68b260921e80b0811f5ff8359544792f190d2b15ea447afca8564"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0422343345e68b260921e80b0811f5ff8359544792f190d2b15ea447afca8564",
+      "translation_sha256": "7eae6bb8ee3309e6bdf89fff460c694aec5eae2ef21198078889d91523b1560b",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 29,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:29",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 29,
+          "source_ref": "Esther 9:29",
+          "segment_mode": "whole",
+          "sha256": "e944880d60273a9d530214df0922bbebdce026aa54dbf00e8ba629601ac7bd10"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e944880d60273a9d530214df0922bbebdce026aa54dbf00e8ba629601ac7bd10",
+      "translation_sha256": "9af463e4144bef9c77609a1f86c2a77e74da4ef65e6fa0f6e74aba4c12b6bea4",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 30,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:30",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 30,
+          "source_ref": "Esther 9:30",
+          "segment_mode": "whole",
+          "sha256": "65dc2798023e92cf108c432546ee69495b81fa16b2cb9d810e1c157349cf5316"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "65dc2798023e92cf108c432546ee69495b81fa16b2cb9d810e1c157349cf5316",
+      "translation_sha256": "d43870145c9cdf68b8d102e75881f3a9e288ead4d65cb4514b9380b34c7d402e",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 31,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:31",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 31,
+          "source_ref": "Esther 9:31",
+          "segment_mode": "whole",
+          "sha256": "a37a4022d329eeaa6a9fbd3aea263a61ced7ee8e4fce5679ed5e3b2e5630d149"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a37a4022d329eeaa6a9fbd3aea263a61ced7ee8e4fce5679ed5e3b2e5630d149",
+      "translation_sha256": "4f6a1e961551444262b39c9ee87da59efa3c4c4cae9c807c5dde5b6327618ac5",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 32,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Esther 9:32",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 32,
+          "source_ref": "Esther 9:32",
+          "segment_mode": "whole",
+          "sha256": "0d65acd51425c8fb9ab8df5afe90d7f7bbe38084d08ddaaf4d41a31ffc3a2b73"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0d65acd51425c8fb9ab8df5afe90d7f7bbe38084d08ddaaf4d41a31ffc3a2b73",
+      "translation_sha256": "a4b413ab333d65f8103f91e4052202e4e26b54b42ac79b019c84ee83c66c9d75",
+      "tsw_blob_sha": "ea39d8011455eff576e41f6e859aff30f7fd4f4d",
+      "curated_decisions": [
+        "Preserve Purim as communal memory, rest, feasting, generosity, and survival."
+      ]
+    },
+    {
+      "chapter": 10,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 10:1",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "source_ref": "Esther 10:1",
+          "segment_mode": "whole",
+          "sha256": "d328d1a446f4a35cc392df6cab15ddaf4e7581f65f3dbbac2b7419091b9b5ea0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d328d1a446f4a35cc392df6cab15ddaf4e7581f65f3dbbac2b7419091b9b5ea0",
+      "translation_sha256": "a4a8ae57602a004dffafba37b73e2786a54429fe1ba96835f14c9c08cee06bce",
+      "tsw_blob_sha": "4a50251a68e0edb3f7c06c0c930ac7c0a0afc33f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 10:2",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 2,
+          "source_ref": "Esther 10:2",
+          "segment_mode": "whole",
+          "sha256": "ada8f0a158f7a8629cd59d48d7fce559e01d0f4200b7ba37d4050086d89f4dc4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ada8f0a158f7a8629cd59d48d7fce559e01d0f4200b7ba37d4050086d89f4dc4",
+      "translation_sha256": "b0cb575ae7b3427dd4f6fa65d5d49856793c89814ae05cb1d2152e483e47cd8d",
+      "tsw_blob_sha": "4a50251a68e0edb3f7c06c0c930ac7c0a0afc33f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Esther 10:3",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 3,
+          "source_ref": "Esther 10:3",
+          "segment_mode": "whole",
+          "sha256": "759e2169ca7e6ecff0a62987ef2f9abec2607fad29e23c82792dade18ea7a706"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "759e2169ca7e6ecff0a62987ef2f9abec2607fad29e23c82792dade18ea7a706",
+      "translation_sha256": "e6c7f31c1ea58472fb8b451cad7e8716df93c0733bf1f9d82df51e4d8922b6a2",
+      "tsw_blob_sha": "4a50251a68e0edb3f7c06c0c930ac7c0a0afc33f",
+      "curated_decisions": []
+    }
+  ],
+  "summary": {
+    "F0": 31,
+    "F1": 5,
+    "F2": 0,
+    "F3": 131
+  },
+  "public_verse_slots": 167,
+  "included_source_bindings": 167
+}
