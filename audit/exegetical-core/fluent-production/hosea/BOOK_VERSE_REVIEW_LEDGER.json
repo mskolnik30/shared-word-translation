@@ -1,0 +1,4306 @@
+{
+  "book": "Hosea",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Hosea 1:1",
+          "segment_mode": "whole",
+          "sha256": "95060ebaa420b02102fb032e058abf8215f7223d052259a3419ca8874921c1bd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "95060ebaa420b02102fb032e058abf8215f7223d052259a3419ca8874921c1bd",
+      "translation_sha256": "942889b0c7c83d0f5f9a5e7423c51cb5d85c88d388497c53b36f5942332a9792",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Hosea 1:2",
+          "segment_mode": "whole",
+          "sha256": "afa7b98670097c1bb223ba2f9e1db9d76d0c01e3bcbe88b0b1e401f115ce7a4f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "afa7b98670097c1bb223ba2f9e1db9d76d0c01e3bcbe88b0b1e401f115ce7a4f",
+      "translation_sha256": "d1bf6b27e17efb79beb6905b8c5b696d2011769d8f59832668f262bc497eab75",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Hosea 1:3",
+          "segment_mode": "whole",
+          "sha256": "b746e94a973788b53d6671ddefbe5722754ce752dd471685385facd2da870d43"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b746e94a973788b53d6671ddefbe5722754ce752dd471685385facd2da870d43",
+      "translation_sha256": "5c1e8c96f267156bf11e2031d6eb30fe62a34de4d9e58b6f356df2851a5ed845",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Hosea 1:4",
+          "segment_mode": "whole",
+          "sha256": "7f572b621e642a8a6fe5d9a12ff999d82c48fef7129f3a4e76e8c1f687526d44"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7f572b621e642a8a6fe5d9a12ff999d82c48fef7129f3a4e76e8c1f687526d44",
+      "translation_sha256": "f3ee119253051b9a381142de3e31185d48d38fa175fcd77b44f2612ec84406db",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Hosea 1:5",
+          "segment_mode": "whole",
+          "sha256": "f6f53ced8a26a9d0fef16bf0f18d696105f3a851d50bf11139455a7506858078"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f6f53ced8a26a9d0fef16bf0f18d696105f3a851d50bf11139455a7506858078",
+      "translation_sha256": "f10a7b4be8d2b7cd6fee46c25fcb20371886171085e464c92a33b6689520828e",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Hosea 1:6",
+          "segment_mode": "whole",
+          "sha256": "b9b0b7c595c44ff7cb4a99c8e06979fe2e41d78b363c92d03e0c7ea4596dd5ca"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b9b0b7c595c44ff7cb4a99c8e06979fe2e41d78b363c92d03e0c7ea4596dd5ca",
+      "translation_sha256": "507f005da293c01964a968b83ac881ea78787a88f7c388f035bc6141d9fdc9e0",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Hosea 1:7",
+          "segment_mode": "whole",
+          "sha256": "a8cfc3bf15ba6379e44ec56c9b0e6ae11d2d227472f19502fd45e86ef20a637a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a8cfc3bf15ba6379e44ec56c9b0e6ae11d2d227472f19502fd45e86ef20a637a",
+      "translation_sha256": "f7409ef64594250acb5517cfbdda34c5943fd9edfee8a09de2482a103f3ea18d",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Hosea 1:8",
+          "segment_mode": "whole",
+          "sha256": "f1290838dc38cf32ca288d94ecda2617f95a723d4d5f986890884333cc3bc98d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f1290838dc38cf32ca288d94ecda2617f95a723d4d5f986890884333cc3bc98d",
+      "translation_sha256": "e44fb9d21c90a1080acf79df529703d74e1a1ebf88194ff65bb96ef333e982ff",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Hosea 1:9",
+          "segment_mode": "whole",
+          "sha256": "72aaf54442540a3d6eb269cf549367961aa46c5cc4c84cee57a4766b0b90c88a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "72aaf54442540a3d6eb269cf549367961aa46c5cc4c84cee57a4766b0b90c88a",
+      "translation_sha256": "e7d0283ee78373a0412df2de224300303e7feb2cb51a4b8d1c8ad58d2565d5d2",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:1 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Hosea 2:1 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "564c924ad4b84f16bbf181184c517b86429dc3f537cb9892b103cd1e4c9fc6a3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "564c924ad4b84f16bbf181184c517b86429dc3f537cb9892b103cd1e4c9fc6a3",
+      "translation_sha256": "b1a3aea987f6b6ab9172c0e60dcf9487de6f96754435aed6cd5587b5e08eaafe",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:2 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Hosea 2:2 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "116452db43bd3e35eb8f65b09289d06279576ea416907d080caa68e62ba0caec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "116452db43bd3e35eb8f65b09289d06279576ea416907d080caa68e62ba0caec",
+      "translation_sha256": "e21a27ee39731867a1629341db2519701fccb24b3a7aaf70bd09a4f20ab1e8dc",
+      "tsw_blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:3 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Hosea 2:3 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "d92dbbbc710a3faecc5273381d8f4a578d2b7950977a83ea4b107aea3d5d5739"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d92dbbbc710a3faecc5273381d8f4a578d2b7950977a83ea4b107aea3d5d5739",
+      "translation_sha256": "4fec2ff5b67703410ba3e88abb7b790bc79909d4b0b85e9379700b542ba9cf6a",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:4 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Hosea 2:4 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "aa4f9f59899fc3e158ee108b3fcd38709103ccb5146b2e568fa56225f631c504"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aa4f9f59899fc3e158ee108b3fcd38709103ccb5146b2e568fa56225f631c504",
+      "translation_sha256": "e643cfc5b5abd9e98c591630cb013dd4fd75221f6ef583a770d8c90f5525df99",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:5 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Hosea 2:5 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "ec5dc6b7735587b3724d7b60eb3f4b8b7528218d33945b53e075456defe094ce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ec5dc6b7735587b3724d7b60eb3f4b8b7528218d33945b53e075456defe094ce",
+      "translation_sha256": "0c006346ded571df4bde9af2436766a82c6bda3c599b35d72476c0222c9370cb",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:6 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Hosea 2:6 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "494d17158ffa627eaf0fca29c088606fdde0c477f462c6399d1502a6714145be"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "494d17158ffa627eaf0fca29c088606fdde0c477f462c6399d1502a6714145be",
+      "translation_sha256": "e05d2f992dd6f8e867175371a02491f537282882211cb8ca91f8864f97cfbc9c",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:7 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Hosea 2:7 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "5835e19524f3e0543907bcadfa415feb4306f8c7a3ef71bd688a0d39327f41ae"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5835e19524f3e0543907bcadfa415feb4306f8c7a3ef71bd688a0d39327f41ae",
+      "translation_sha256": "e74c8786ec128951126b7b8a85f8392402b7fe101a9b738d0907d016302337d0",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:8 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Hosea 2:8 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "422461dac584cf48d780a20adc7cb6803e8f36b03242537d236b5d425e43fe36"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "422461dac584cf48d780a20adc7cb6803e8f36b03242537d236b5d425e43fe36",
+      "translation_sha256": "bb008a8f2c3982738897d0d066162e5769b8dd2dd30ab3be243c4e78ff4d0518",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:9 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Hosea 2:9 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "895dca651f5b8b7d3d2fc129444069b7e7cd7fb110703905d797740ab4e30f85"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "895dca651f5b8b7d3d2fc129444069b7e7cd7fb110703905d797740ab4e30f85",
+      "translation_sha256": "0ec68ebbe5affc8327e246c14ffd086139c314959f50fb67956218c5af81e8ea",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:10 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Hosea 2:10 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "906e5763dd189cd1bebb70876a91ff36b5918ec939f9710ac3a5cee524f37f91"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "906e5763dd189cd1bebb70876a91ff36b5918ec939f9710ac3a5cee524f37f91",
+      "translation_sha256": "e05b83d3be4ef6ec9db74f7070c390f577404953ad0082ffe5eec3ded42fa4b2",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:11 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Hosea 2:11 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "4192a53b38e6c5ae46e5299fc1f55a3785a88ac520e4bd05460efb38f3be8fd7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4192a53b38e6c5ae46e5299fc1f55a3785a88ac520e4bd05460efb38f3be8fd7",
+      "translation_sha256": "fb7f3b4205c6ce4c2defbe6e37d5aa1a84dfc1dea830310f4a700c86b436ee1c",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:12 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Hosea 2:12 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "063a98e10289f58bd0b8de138f7289d0d4936640ace446a515ac491ad9cd4cd7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "063a98e10289f58bd0b8de138f7289d0d4936640ace446a515ac491ad9cd4cd7",
+      "translation_sha256": "174a8de612df44b1ea8f37432f43e65c001389a706456a86db677975729a213c",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:13 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Hosea 2:13 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "40a9a9dcd5f67e1f322813830346b377c62c0d73760256038e7caf214999e9b1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "40a9a9dcd5f67e1f322813830346b377c62c0d73760256038e7caf214999e9b1",
+      "translation_sha256": "e5883e1a015db9b7c14fd7d75ca91c9c4a2c176314a4958705b3e885c364da10",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:14 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Hosea 2:14 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "05ebc77b11e5bb66e6b1ca103b55861384ac74a2922e4e59b201b1cab8f09109"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "05ebc77b11e5bb66e6b1ca103b55861384ac74a2922e4e59b201b1cab8f09109",
+      "translation_sha256": "0c0a8b5a3b9d04c96705fa5286328a24fcb1403b8d67e84146930d9a279530e5",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:15 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Hosea 2:15 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "0ae044540c78803456ec3d0b9413639b9c338dbf7f7b731d662a0c850d830df2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0ae044540c78803456ec3d0b9413639b9c338dbf7f7b731d662a0c850d830df2",
+      "translation_sha256": "da483ad485db687f7932fce5f75f8f574c96ce41397cafb143daeed0a1c20180",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:16 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Hosea 2:16 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "6b1dd5d046b7a8d0fb5648b3baf01ad94c782ed96abdd6e74fd81c2c0baf5e2c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6b1dd5d046b7a8d0fb5648b3baf01ad94c782ed96abdd6e74fd81c2c0baf5e2c",
+      "translation_sha256": "ffe98bc2e71ed4ec997e0ef30a8283856bf0fb91b1d6a6336042f1700af96b32",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:17 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "Hosea 2:17 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "ba648a92c615311de9bf5ea6be7bb6ca056d516625d3895c01fd40f5262cd296"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ba648a92c615311de9bf5ea6be7bb6ca056d516625d3895c01fd40f5262cd296",
+      "translation_sha256": "317ee7745c1cc95d45ec3e6835537a1ec6c3d22d43617a18ad60d91ddba2d2cb",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:18 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 18,
+          "source_ref": "Hosea 2:18 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "26c0f9246d269a2904a459e73f06fbacce64725ec1c2665d721b1134f65574d2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "26c0f9246d269a2904a459e73f06fbacce64725ec1c2665d721b1134f65574d2",
+      "translation_sha256": "472a1aa03831c94645914500464b6d85fef63cf24551245080d9a02276df0b72",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:19 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 19,
+          "source_ref": "Hosea 2:19 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "e2ff2518104426fe08615a57177710539e5bd5d82fcd72040ae8c14d4d0e24ab"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e2ff2518104426fe08615a57177710539e5bd5d82fcd72040ae8c14d4d0e24ab",
+      "translation_sha256": "7cd98cb9abfe5dd52fec7d3069eda7502434d5ed95a6d2d747d2f1946fc1dec8",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:20 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 20,
+          "source_ref": "Hosea 2:20 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "cfde4ca2ec37b235fa50babde5e76a94bb0c4f42dfb032b0529f0dc65761ec22"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cfde4ca2ec37b235fa50babde5e76a94bb0c4f42dfb032b0529f0dc65761ec22",
+      "translation_sha256": "d82890449c418fa05983ad194b7a4a0bc93be4693204eb69c1d665b1546c4bda",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:21 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 21,
+          "source_ref": "Hosea 2:21 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "d732ce8fe56a3de818d073a85b3cdb583f5563be5aee53a25a4680035ba02d22"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d732ce8fe56a3de818d073a85b3cdb583f5563be5aee53a25a4680035ba02d22",
+      "translation_sha256": "2a7207ee270f0f3e8f31f207a1bb9710e60f932c4c2731c375702025e681d3f0",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:22 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 22,
+          "source_ref": "Hosea 2:22 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "1e02d7f4fa108a91bf45e42596ba0c9ebd477c22ce627ff7dec26bc99bcf0edc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1e02d7f4fa108a91bf45e42596ba0c9ebd477c22ce627ff7dec26bc99bcf0edc",
+      "translation_sha256": "8521f3d2a73d5bb955256abdb5d45cfdd05f08533f5f1d50861d7c90a0c0999d",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:23 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 23,
+          "source_ref": "Hosea 2:23 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "3c90030b9be227144b324ce485c78145210b6759d85affcf370800848ab57498"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3c90030b9be227144b324ce485c78145210b6759d85affcf370800848ab57498",
+      "translation_sha256": "216abfc0c500c8ff71ea8e291a4a3068dc227a2073b9dad36401a8b6ebfac20f",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:24 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 24,
+          "source_ref": "Hosea 2:24 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "3e02804495c49c4a620fb4f6a339a88d90da0f0e067c8b2ea8dab3a664f5c405"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3e02804495c49c4a620fb4f6a339a88d90da0f0e067c8b2ea8dab3a664f5c405",
+      "translation_sha256": "5c498ab2b5fc7c10c177e5900b49a2667fd4523ac1e8d93c917c87fae87ad3a3",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 2:25 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 25,
+          "source_ref": "Hosea 2:25 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "5069b06ea6c0d70bff6fd352eb9bd6b8f84261969faaf7ed91e29ee15e3e8d39"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5069b06ea6c0d70bff6fd352eb9bd6b8f84261969faaf7ed91e29ee15e3e8d39",
+      "translation_sha256": "d3821bb10eab6e9130892a1afabf31b38fd52cf2b5db62abb3a62fc5eadd5ce8",
+      "tsw_blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2",
+      "curated_decisions": [
+        "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Hosea 3:1",
+          "segment_mode": "whole",
+          "sha256": "5fa04747145c1aa64b5c570efcb568ce2c01260b642376c9ba265884ccb04043"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5fa04747145c1aa64b5c570efcb568ce2c01260b642376c9ba265884ccb04043",
+      "translation_sha256": "a1b998b1f76fff04eed72a7f66f33456f2273d4160f9fcac62bfafa103a1230c",
+      "tsw_blob_sha": "d45c53c53667592c7c8c7d9158305601886cad9e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Hosea 3:2",
+          "segment_mode": "whole",
+          "sha256": "8491bb3685f853914aee4d3089c5696fc98688e40a828abb380320d5f10cd1eb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8491bb3685f853914aee4d3089c5696fc98688e40a828abb380320d5f10cd1eb",
+      "translation_sha256": "5a71bcb51352326f7d255e2d5ac7002e43da11b0fcc87c939d824601ca48a42e",
+      "tsw_blob_sha": "d45c53c53667592c7c8c7d9158305601886cad9e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Hosea 3:3",
+          "segment_mode": "whole",
+          "sha256": "82777a155c7efb3d0b88ee60d1ccfdda3f641ee1680c683e17d47917079b25ac"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "82777a155c7efb3d0b88ee60d1ccfdda3f641ee1680c683e17d47917079b25ac",
+      "translation_sha256": "a9c4a532b99f1dcf3a3c7440e2be9f6274f863d9a7814c3a4514a60f3c1f825c",
+      "tsw_blob_sha": "d45c53c53667592c7c8c7d9158305601886cad9e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Hosea 3:4",
+          "segment_mode": "whole",
+          "sha256": "038e9f3c7aa25e46743bd8bf6d0c2ab0b9e950783802dd7c2fa4a9782b37e116"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "038e9f3c7aa25e46743bd8bf6d0c2ab0b9e950783802dd7c2fa4a9782b37e116",
+      "translation_sha256": "8fea965fe7c96f3b843b8101f02a789b7f04f20f780b4506a87765bd4ab1fe85",
+      "tsw_blob_sha": "d45c53c53667592c7c8c7d9158305601886cad9e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Hosea 3:5",
+          "segment_mode": "whole",
+          "sha256": "c1bccdfab42e931c4db737e57164f01dde6b25b522a9cd17f0b19a51f1b37243"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c1bccdfab42e931c4db737e57164f01dde6b25b522a9cd17f0b19a51f1b37243",
+      "translation_sha256": "9e81bf3bc3c4c73c725354ad873dce0ec8b5dd206b542dfecd85e6b66b91c70f",
+      "tsw_blob_sha": "d45c53c53667592c7c8c7d9158305601886cad9e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:1",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "Hosea 4:1",
+          "segment_mode": "whole",
+          "sha256": "fff553434df5ad8f3f4112dba4cc415fb70f2240ff56004084cb239ffc41cf3d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fff553434df5ad8f3f4112dba4cc415fb70f2240ff56004084cb239ffc41cf3d",
+      "translation_sha256": "c4a6a4fb3ab3e63f232c51a8d25ac71b3ddfc153b28f83dc412cc1bfabfcb75b",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:2",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "Hosea 4:2",
+          "segment_mode": "whole",
+          "sha256": "4fef667690075dabd1577ca21665b8b97e33333fff2598e935f9fd38bbaa4fca"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4fef667690075dabd1577ca21665b8b97e33333fff2598e935f9fd38bbaa4fca",
+      "translation_sha256": "9df5e642264b4ae581b46589ea68e24be6a613d5d70cca8253640f17a36e8316",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 4:3",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "Hosea 4:3",
+          "segment_mode": "whole",
+          "sha256": "22399876956b6f540f48179c849a70cfc5e464d5db2d00faa357d88b84e33db3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "22399876956b6f540f48179c849a70cfc5e464d5db2d00faa357d88b84e33db3",
+      "translation_sha256": "1b9720b5b96696df92a002afb99fdad2149e3b4a6dfec5a4b2cbd25c3431818b",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:4",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "Hosea 4:4",
+          "segment_mode": "whole",
+          "sha256": "ad8913c4b2ce967342997998ce817c206f1ada49336c1bd8e59ad42193736ea5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ad8913c4b2ce967342997998ce817c206f1ada49336c1bd8e59ad42193736ea5",
+      "translation_sha256": "649cadfa385a5238a794535e839b9a02ee11a828961f18d51e564f69d54042d3",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:5",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "Hosea 4:5",
+          "segment_mode": "whole",
+          "sha256": "6821e7e9557bc0eefaca1f8f90d9af3c45e216e4ed2ccf07e603f4129f63f60f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6821e7e9557bc0eefaca1f8f90d9af3c45e216e4ed2ccf07e603f4129f63f60f",
+      "translation_sha256": "89a5999b66d439f40d666cdb7ca69294f5eb7fbbf4cb8bfacb734063731f2601",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:6",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "Hosea 4:6",
+          "segment_mode": "whole",
+          "sha256": "8e17073314ac7ccc3a276f6de9a3ea656de5901551e6345c2ee34b32ee690f81"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8e17073314ac7ccc3a276f6de9a3ea656de5901551e6345c2ee34b32ee690f81",
+      "translation_sha256": "b301bb09c125c538e5fb2de139fa5bd9273e7db5987fa9bdc2ccea198adb49bb",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:7",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "Hosea 4:7",
+          "segment_mode": "whole",
+          "sha256": "85a125ce1d27d3748b2b94393f5c8656e5b3eb8f1e5beed4a9112aa6565ecaec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "85a125ce1d27d3748b2b94393f5c8656e5b3eb8f1e5beed4a9112aa6565ecaec",
+      "translation_sha256": "511d732f3a886198b98050622c287966a9b99f6e25875eaf656b528028cbde83",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:8",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "Hosea 4:8",
+          "segment_mode": "whole",
+          "sha256": "c4b9e870b2e4a379faae0c0fd1e3ebe60f2c36703df023d3c9d4a75f733547b7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c4b9e870b2e4a379faae0c0fd1e3ebe60f2c36703df023d3c9d4a75f733547b7",
+      "translation_sha256": "8ffa1ad84fcad974710a12dd67531e93d41708100a9eefc5d393291de364d2fc",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:9",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "Hosea 4:9",
+          "segment_mode": "whole",
+          "sha256": "912939719ca1e26de4cc962d25363a172d4c0befa519230beefb4aa111e75165"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "912939719ca1e26de4cc962d25363a172d4c0befa519230beefb4aa111e75165",
+      "translation_sha256": "e0487f32a7617558eab7577e8c2d15c8146754382c8661c41d396983270f90aa",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:10",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "Hosea 4:10",
+          "segment_mode": "whole",
+          "sha256": "e171ed6f23247418ee9bbb153438b13c72bee6190c5875e0afeb247afc930224"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e171ed6f23247418ee9bbb153438b13c72bee6190c5875e0afeb247afc930224",
+      "translation_sha256": "3e18550e0484d1895a6ed9d57c01daad3bad94e9549cda1a491f27e1708d183c",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:11",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "Hosea 4:11",
+          "segment_mode": "whole",
+          "sha256": "288af7e572a85357b6ac9d7df6e332b260144cb87af5994dcc7247f23dcd2507"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "288af7e572a85357b6ac9d7df6e332b260144cb87af5994dcc7247f23dcd2507",
+      "translation_sha256": "106cc73ee8de66476ee06eff244c7decf9b3b18fb699ec762deecc36ddf7d195",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:12",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "Hosea 4:12",
+          "segment_mode": "whole",
+          "sha256": "d84c7f83a30be3b59facef3a904dbe8373c592205c3e9faacd565a4f647c621d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d84c7f83a30be3b59facef3a904dbe8373c592205c3e9faacd565a4f647c621d",
+      "translation_sha256": "d47e8302ddbde6d29d020906bc6112a145d06245c53afe8414f3115b30e9be29",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 4:13",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "Hosea 4:13",
+          "segment_mode": "whole",
+          "sha256": "d853ca02c5658e47689c015289756206d72a6e82c111cc47b3b1df0e5229aaa3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d853ca02c5658e47689c015289756206d72a6e82c111cc47b3b1df0e5229aaa3",
+      "translation_sha256": "0d3de7b4311da82c7ce685d4dd4ee8d51a0f43480662d6368409813eee8a9a9b",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:14",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 14,
+          "source_ref": "Hosea 4:14",
+          "segment_mode": "whole",
+          "sha256": "461962147715f787e76e7dc3e2cae3f446e60f51069da96f160ad1d045dd9011"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "461962147715f787e76e7dc3e2cae3f446e60f51069da96f160ad1d045dd9011",
+      "translation_sha256": "aa396778f7b073b510de46f144c584102511e17c4c0d168939c49a53001a1fa3",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:15",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 15,
+          "source_ref": "Hosea 4:15",
+          "segment_mode": "whole",
+          "sha256": "6ee87ceb645492ced13729df5f0146336f032cffc2b102fd2df8e3753f964847"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6ee87ceb645492ced13729df5f0146336f032cffc2b102fd2df8e3753f964847",
+      "translation_sha256": "9d83bd5162428a5ce9b69b5a8601eec1c5b0aad8328a7ab863847ddfc8f9967c",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:16",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 16,
+          "source_ref": "Hosea 4:16",
+          "segment_mode": "whole",
+          "sha256": "204063efba8f6d5c6d2288a4df769bca0039ede2c7be504b179f38b106bc9878"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "204063efba8f6d5c6d2288a4df769bca0039ede2c7be504b179f38b106bc9878",
+      "translation_sha256": "e266c6d6c9a268596d4d00074933a3d4527377dc2726bff8144da615deaf3520",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:17",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 17,
+          "source_ref": "Hosea 4:17",
+          "segment_mode": "whole",
+          "sha256": "2ed0c82c9f9c5409616635329a712d6e6d5eced96d91f6f42dcae1c053b74bb1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2ed0c82c9f9c5409616635329a712d6e6d5eced96d91f6f42dcae1c053b74bb1",
+      "translation_sha256": "7046a8ea73652194e8a4f238a02368a10e26b4c81f66e8c8694a8b8bba4656d9",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:18",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 18,
+          "source_ref": "Hosea 4:18",
+          "segment_mode": "whole",
+          "sha256": "dabe2a38ddd86f2913fbe2ac094af1e3d1a44c8209937f99a5333aaed8aa8305"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dabe2a38ddd86f2913fbe2ac094af1e3d1a44c8209937f99a5333aaed8aa8305",
+      "translation_sha256": "86e23ba384d9a32141476f0f397e57aa1252427a66fd9f4d073bad08cec81c5b",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 4:19",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 19,
+          "source_ref": "Hosea 4:19",
+          "segment_mode": "whole",
+          "sha256": "e163585fc81ab6715cb0c1a861d324b543110842728af149c3ff8e9d29bbb3dd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e163585fc81ab6715cb0c1a861d324b543110842728af149c3ff8e9d29bbb3dd",
+      "translation_sha256": "46c812658a67fddff821546f17d684951f403fa87f532111c724b620a2d760d9",
+      "tsw_blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:1",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "source_ref": "Hosea 5:1",
+          "segment_mode": "whole",
+          "sha256": "875cc4e82df8e8cc0a4432ac5b3dde2461be5a54a89d010c79cb1e1246b5e119"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "875cc4e82df8e8cc0a4432ac5b3dde2461be5a54a89d010c79cb1e1246b5e119",
+      "translation_sha256": "f46edb4b2279b200365976e4181f5e089c0d0ffc63b10160998cad0e9ed66a2e",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:2",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 2,
+          "source_ref": "Hosea 5:2",
+          "segment_mode": "whole",
+          "sha256": "ca3d1ce6b940958ee7afe2949087de64fe3d72a8b1fbb38b2dcf11b89922b09e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ca3d1ce6b940958ee7afe2949087de64fe3d72a8b1fbb38b2dcf11b89922b09e",
+      "translation_sha256": "23becf5223ebb90a8c3a51c42acdc7e661a06fa605d7b7eca14af6a14f8367cd",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:3",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 3,
+          "source_ref": "Hosea 5:3",
+          "segment_mode": "whole",
+          "sha256": "acab9ac7c6c7cf2ce69723bb4967be87fe0bc40af8cfadc7524947179b456861"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "acab9ac7c6c7cf2ce69723bb4967be87fe0bc40af8cfadc7524947179b456861",
+      "translation_sha256": "02b84a45ab6b66a548e7daf6911f9f469570bf2daf3e7491306ee2134456f258",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:4",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 4,
+          "source_ref": "Hosea 5:4",
+          "segment_mode": "whole",
+          "sha256": "3e7a97cb8be39d46bdddfd2c92075c7813812a45b4fbea38c020978235eb9f66"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3e7a97cb8be39d46bdddfd2c92075c7813812a45b4fbea38c020978235eb9f66",
+      "translation_sha256": "4aa81671b74216b5dafe1847ee7a98e2a4c3a3c48e13650a09f24d7ada6c6a0d",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:5",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "source_ref": "Hosea 5:5",
+          "segment_mode": "whole",
+          "sha256": "c75a4e626a42fb323f40d3b5324c814f7850fc7700c13c54b90f5f4df95980c1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c75a4e626a42fb323f40d3b5324c814f7850fc7700c13c54b90f5f4df95980c1",
+      "translation_sha256": "a81c49fded3c36fda9ea4a7f369246fdb6369e55f30567258af6f808acfcf692",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:6",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 6,
+          "source_ref": "Hosea 5:6",
+          "segment_mode": "whole",
+          "sha256": "18b50df8c882194ec1763bf809050eb39e7b81b9960b7cebf7377952cb5e2794"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "18b50df8c882194ec1763bf809050eb39e7b81b9960b7cebf7377952cb5e2794",
+      "translation_sha256": "d8f72dd1f52855872eef2bbddc5e276745ed7776116a2b63152946d8654e8c89",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:7",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 7,
+          "source_ref": "Hosea 5:7",
+          "segment_mode": "whole",
+          "sha256": "c6ea20aca200be2032a7863d510db4ec48eeb8a1307c61189b32133075cf5912"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c6ea20aca200be2032a7863d510db4ec48eeb8a1307c61189b32133075cf5912",
+      "translation_sha256": "415ef3e48b7c73fd53b0b3d0a127369cd7177e4fe37066d4071f60fb0ede185c",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:8",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 8,
+          "source_ref": "Hosea 5:8",
+          "segment_mode": "whole",
+          "sha256": "73cfd9643e22be86f3632093d808a06bb985b04fc0536fe5377f53404cda3c34"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "73cfd9643e22be86f3632093d808a06bb985b04fc0536fe5377f53404cda3c34",
+      "translation_sha256": "d4b2ead2c9454f0c02c5ed4a09aafb5bdfebecf36b0b38963a4955a12b22568a",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 5:9",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 9,
+          "source_ref": "Hosea 5:9",
+          "segment_mode": "whole",
+          "sha256": "dcbc0ac48485f8a5276a04c365597508d74a4df94c4e4b20163657952e86d4d1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dcbc0ac48485f8a5276a04c365597508d74a4df94c4e4b20163657952e86d4d1",
+      "translation_sha256": "0657e0d33ca7077a87e1103961e149b0824d2034318add805896c4744650cfa9",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 5:10",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 10,
+          "source_ref": "Hosea 5:10",
+          "segment_mode": "whole",
+          "sha256": "c78e2a66115a7c76b781800ec28ec6c3712f3207d07cf20cd711f35606f8908e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c78e2a66115a7c76b781800ec28ec6c3712f3207d07cf20cd711f35606f8908e",
+      "translation_sha256": "0083820b90ae2e87382702a3e3500aaa495f749f28590d4e861d09691b3fa37c",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:11",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 11,
+          "source_ref": "Hosea 5:11",
+          "segment_mode": "whole",
+          "sha256": "4dd49444e7354a4ca535a7cc62fce5ec2746b8de7330c4ef51494e76d10e4174"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4dd49444e7354a4ca535a7cc62fce5ec2746b8de7330c4ef51494e76d10e4174",
+      "translation_sha256": "8405dc5f62f5d196efa0eb511f03f60cfd470b6835171e9947a155690d829267",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 5:12",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 12,
+          "source_ref": "Hosea 5:12",
+          "segment_mode": "whole",
+          "sha256": "2a33b8a5ac50e3316552864f91c6477923b5148ef4362bd79afe6519292b5e6d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2a33b8a5ac50e3316552864f91c6477923b5148ef4362bd79afe6519292b5e6d",
+      "translation_sha256": "85978623fdd266b6b1fcf5cd3aa5493338409273baa8d3649e2994ac162a632c",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:13",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 13,
+          "source_ref": "Hosea 5:13",
+          "segment_mode": "whole",
+          "sha256": "d65075de6ad68a2f74aebae24b374d2ef9b5fd905afe6b09eaf751bed7197f85"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d65075de6ad68a2f74aebae24b374d2ef9b5fd905afe6b09eaf751bed7197f85",
+      "translation_sha256": "bea78e7c9b8b8847b7de708243dbfd2d47006b6e77e18f2ef14b2858955dd732",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:14",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 14,
+          "source_ref": "Hosea 5:14",
+          "segment_mode": "whole",
+          "sha256": "866a4db52d198d48f241c3e2f735dabc7bea9f7088b36fcf5cb89a4e17a16752"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "866a4db52d198d48f241c3e2f735dabc7bea9f7088b36fcf5cb89a4e17a16752",
+      "translation_sha256": "eda86422d6527f9ebf012e33b98fa99ad17f71817e99abbe4fe2fb20b6ebff9a",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 5:15",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 15,
+          "source_ref": "Hosea 5:15",
+          "segment_mode": "whole",
+          "sha256": "af340adba2eb39cff3bbcc5f7960a0661639b6c58b245f8415e5108a3f862476"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af340adba2eb39cff3bbcc5f7960a0661639b6c58b245f8415e5108a3f862476",
+      "translation_sha256": "20d2f8444e76042370d3dde1671603cacc8d23cf1dd7ba2127e8fc4a45aec70a",
+      "tsw_blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 6:1",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "source_ref": "Hosea 6:1",
+          "segment_mode": "whole",
+          "sha256": "905d563f53559fe51a78d6fceef99f724d5399b5bb61116ccdaff9a5f11197b9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "905d563f53559fe51a78d6fceef99f724d5399b5bb61116ccdaff9a5f11197b9",
+      "translation_sha256": "e2dbefcbed122fc92b7b724bffbb5674e8a500302f27f05cc95317b792129ee2",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": [
+        "Keep steadfast love and knowledge of God above ritual performance without dismissing worship itself."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 6:2",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 2,
+          "source_ref": "Hosea 6:2",
+          "segment_mode": "whole",
+          "sha256": "25c0da529c4bc5b3e8ee1a4f4806993c99aff4b9435e2c010509eb14eed9a89c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "25c0da529c4bc5b3e8ee1a4f4806993c99aff4b9435e2c010509eb14eed9a89c",
+      "translation_sha256": "c7b40fd9ae327820df181492ccf3c410b5fb239058b048dc847acb86d7c4450b",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": [
+        "Keep steadfast love and knowledge of God above ritual performance without dismissing worship itself."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 6:3",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 3,
+          "source_ref": "Hosea 6:3",
+          "segment_mode": "whole",
+          "sha256": "d59b3154f732b4b29e635ccae71083b0456e49579c9a6ea6353c6d6b6b0e0aa7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d59b3154f732b4b29e635ccae71083b0456e49579c9a6ea6353c6d6b6b0e0aa7",
+      "translation_sha256": "60ed713c72db78efaf2bf6d3422858838919e2228b75ce482fb8e084dd3e7d49",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": [
+        "Keep steadfast love and knowledge of God above ritual performance without dismissing worship itself."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 6:4",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 4,
+          "source_ref": "Hosea 6:4",
+          "segment_mode": "whole",
+          "sha256": "d5ff72c356aff88ff6331f1083d89ca6acf0f0d19c01b209b32b2fb814216674"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d5ff72c356aff88ff6331f1083d89ca6acf0f0d19c01b209b32b2fb814216674",
+      "translation_sha256": "ce759ce01d1bac0ae598755d7b02bb269af4cdbdb7d3a596db45432460d02c87",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": [
+        "Keep steadfast love and knowledge of God above ritual performance without dismissing worship itself."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 6:5",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 5,
+          "source_ref": "Hosea 6:5",
+          "segment_mode": "whole",
+          "sha256": "00314c88bbb763d507a3486a03e0791bdc0c7fbcdb376bf332810ce13f81b2be"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "00314c88bbb763d507a3486a03e0791bdc0c7fbcdb376bf332810ce13f81b2be",
+      "translation_sha256": "912bd560aed09708d8b225e45b89c4d9cb0aef44d6353387c0d32be3bba21b74",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": [
+        "Keep steadfast love and knowledge of God above ritual performance without dismissing worship itself."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 6:6",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 6,
+          "source_ref": "Hosea 6:6",
+          "segment_mode": "whole",
+          "sha256": "7301369c65353d01263c98aa82c52782c209d382e12b8afd3e1866f8efba42d7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7301369c65353d01263c98aa82c52782c209d382e12b8afd3e1866f8efba42d7",
+      "translation_sha256": "e588e935be01fa04cad80a50a395a75fe558cb7a83532c8e697afb7fcc2ee868",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": [
+        "Keep steadfast love and knowledge of God above ritual performance without dismissing worship itself."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 6:7",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 7,
+          "source_ref": "Hosea 6:7",
+          "segment_mode": "whole",
+          "sha256": "0bd3325165109d6c3498fff59d899354bb1ab3b6259bde90b57c100408ff330c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0bd3325165109d6c3498fff59d899354bb1ab3b6259bde90b57c100408ff330c",
+      "translation_sha256": "8ec964e8d17e8138a56485bf133957d19b54a898ad111577771c4aadef2c7245",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 6:8",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 8,
+          "source_ref": "Hosea 6:8",
+          "segment_mode": "whole",
+          "sha256": "b597b27dcc71e9ffa5ca1b1b49a62780ed2f4b7a545c36137eefa6742d043831"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b597b27dcc71e9ffa5ca1b1b49a62780ed2f4b7a545c36137eefa6742d043831",
+      "translation_sha256": "19d3dce2b3ea3507c80f27f288caba832b78acec9a017aa9a4d8cdd4fbe281a7",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 6:9",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 9,
+          "source_ref": "Hosea 6:9",
+          "segment_mode": "whole",
+          "sha256": "29e935c935b50b0e15c1ef9d3ac34ef4ffab0ae7bfe4f9887b7768b5a1178b89"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "29e935c935b50b0e15c1ef9d3ac34ef4ffab0ae7bfe4f9887b7768b5a1178b89",
+      "translation_sha256": "25d5b2c875c1f99b2d6c2bb4d1e50183669e11bb99c20d7423206c5e8bdd1c49",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 6:10",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 10,
+          "source_ref": "Hosea 6:10",
+          "segment_mode": "whole",
+          "sha256": "afd176613032648b12fe192c7398e5c2d958dc0e8e51495f581b50201f710b92"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "afd176613032648b12fe192c7398e5c2d958dc0e8e51495f581b50201f710b92",
+      "translation_sha256": "ec2b719e93186d3586281e60c848fbcffc33d5a2fbfe996014f0f0b4d55ff0ec",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 6:11",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 11,
+          "source_ref": "Hosea 6:11",
+          "segment_mode": "whole",
+          "sha256": "416d1bea5d5fb18592d4f16119f68a02414411b15e686b7c444d0c2da3c8fbb3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "416d1bea5d5fb18592d4f16119f68a02414411b15e686b7c444d0c2da3c8fbb3",
+      "translation_sha256": "8e128fbfad1b9cb4c29a230ca0fca377faa3b1608ce8232de2b4abc01e3b402e",
+      "tsw_blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:1",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "source_ref": "Hosea 7:1",
+          "segment_mode": "whole",
+          "sha256": "be9a34e94eae895e7595e2aafcf5000b1e14cfbf9e1895a68ca913b980d4b37c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "be9a34e94eae895e7595e2aafcf5000b1e14cfbf9e1895a68ca913b980d4b37c",
+      "translation_sha256": "40846bf0578e688aaa4eedd52429f306113656c3ce8f338e1961f5d21dc33343",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:2",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 2,
+          "source_ref": "Hosea 7:2",
+          "segment_mode": "whole",
+          "sha256": "606c013730e6117a981e0e1e2a58f9e571e00e7115189fc0c48b96c32d13876f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "606c013730e6117a981e0e1e2a58f9e571e00e7115189fc0c48b96c32d13876f",
+      "translation_sha256": "6793a77cb28ef3f4fe680393896112849dc4930ffa52c47d8f8a6b4f690654f6",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:3",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 3,
+          "source_ref": "Hosea 7:3",
+          "segment_mode": "whole",
+          "sha256": "89b5c331bd7971087ee7dd9ac9e0f36eddcb9819a5825a492f2d200af997cb9e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "89b5c331bd7971087ee7dd9ac9e0f36eddcb9819a5825a492f2d200af997cb9e",
+      "translation_sha256": "84c086e03ff8490fb9efb2c170b418b463fd44c85f0850025fc64d4f5909b31c",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:4",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 4,
+          "source_ref": "Hosea 7:4",
+          "segment_mode": "whole",
+          "sha256": "5cdadb0bf17ff4ee34a81f0019940a060a95549d8560dc1bcbf28fa0bd6822e1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5cdadb0bf17ff4ee34a81f0019940a060a95549d8560dc1bcbf28fa0bd6822e1",
+      "translation_sha256": "80a477b66b91dbc977807068c24d964e94c7727c5822b42e252b893bdd2289bf",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:5",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 5,
+          "source_ref": "Hosea 7:5",
+          "segment_mode": "whole",
+          "sha256": "bc36f7e1fa76f1176ebb2144380cd0d122eb42dd32f37339c205776e4200e70f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bc36f7e1fa76f1176ebb2144380cd0d122eb42dd32f37339c205776e4200e70f",
+      "translation_sha256": "8c2306d35adba2ec1394c99080021bb1f75a0645e3ec8e896bac0d1f784395d1",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:6",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 6,
+          "source_ref": "Hosea 7:6",
+          "segment_mode": "whole",
+          "sha256": "1acfeb2d49b1e53b62a3688bc960ae82917c79e00ebb4a1cb7d24f5bbcd54fc7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1acfeb2d49b1e53b62a3688bc960ae82917c79e00ebb4a1cb7d24f5bbcd54fc7",
+      "translation_sha256": "ad0bc3606b47db344428e4f0358a7c3ff6ac6a380661868abd71fe00b665626e",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:7",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 7,
+          "source_ref": "Hosea 7:7",
+          "segment_mode": "whole",
+          "sha256": "3b0329d05bf80476ed60982b469c7a3b256e8320bb8bf398232603d255f9fafc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3b0329d05bf80476ed60982b469c7a3b256e8320bb8bf398232603d255f9fafc",
+      "translation_sha256": "a6fc4308a4cb06062c34260b1828479d80438e64d2150d72807f3928bfe1943e",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:8",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 8,
+          "source_ref": "Hosea 7:8",
+          "segment_mode": "whole",
+          "sha256": "5bf5a27b9f1bab2c92cc8560a991a7e957412ca1bead31758173cf7c1e7fdf00"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5bf5a27b9f1bab2c92cc8560a991a7e957412ca1bead31758173cf7c1e7fdf00",
+      "translation_sha256": "630ff90e06b1e730de53430d1c1c88be8d0103fca8af88ac665c196472f3cd77",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:9",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 9,
+          "source_ref": "Hosea 7:9",
+          "segment_mode": "whole",
+          "sha256": "ff9becae75d1d0391e5a0cd38dde920b8d20fa70b3173536e741a3aef6b7e297"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ff9becae75d1d0391e5a0cd38dde920b8d20fa70b3173536e741a3aef6b7e297",
+      "translation_sha256": "4a97e939b5ccac59773fa4fa073ef606fcf41a9c97bb33af38248e5e2154c699",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:10",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 10,
+          "source_ref": "Hosea 7:10",
+          "segment_mode": "whole",
+          "sha256": "d9b76595c5281ef732aa30f09e0810d012a6e68fec04568e31fa616e2fc78d77"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d9b76595c5281ef732aa30f09e0810d012a6e68fec04568e31fa616e2fc78d77",
+      "translation_sha256": "871a55923726012b610436d11cf92e2763e01307c3748af0d926acbbba800bdb",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:11",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 11,
+          "source_ref": "Hosea 7:11",
+          "segment_mode": "whole",
+          "sha256": "6c01386cb8c9d97e78f88d99b9a5d3b0238d09b7cc0e1dfd67f93ccebed9d9da"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6c01386cb8c9d97e78f88d99b9a5d3b0238d09b7cc0e1dfd67f93ccebed9d9da",
+      "translation_sha256": "fc4ec89e0dbbd39cb0d8d37281afac7a24ba826127ecacc30be462f849577cb2",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:12",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 12,
+          "source_ref": "Hosea 7:12",
+          "segment_mode": "whole",
+          "sha256": "7ebc57234b7258163853ab79c4c4c6f2e9368af43e1ada5abafb6cb73d3149eb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7ebc57234b7258163853ab79c4c4c6f2e9368af43e1ada5abafb6cb73d3149eb",
+      "translation_sha256": "0986a9df12e05524ad21d6cd5d16d332d6b352cb418da0d4b77021a2975d6bbc",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:13",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 13,
+          "source_ref": "Hosea 7:13",
+          "segment_mode": "whole",
+          "sha256": "cd22104bc85f56a0869c3d8be089669895b0046af5a91811fd4e826a1b8bcb22"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cd22104bc85f56a0869c3d8be089669895b0046af5a91811fd4e826a1b8bcb22",
+      "translation_sha256": "2462d291694dafcfb74a3e971a8c29d1afde47694cda99f1159abfb77412bab9",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:14",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 14,
+          "source_ref": "Hosea 7:14",
+          "segment_mode": "whole",
+          "sha256": "c34d88b6fac1dd60d79e166867681f83d35b9908b939ad383fefef53f7f30821"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c34d88b6fac1dd60d79e166867681f83d35b9908b939ad383fefef53f7f30821",
+      "translation_sha256": "fda1c83e193aa3375ad56bb6ab491e64594df02200c0f3c354a0ad1ce55bff31",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:15",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 15,
+          "source_ref": "Hosea 7:15",
+          "segment_mode": "whole",
+          "sha256": "287346339f89b327b3246f323daa7c73bad9c4ec25a0f2c306f95085f0060be4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "287346339f89b327b3246f323daa7c73bad9c4ec25a0f2c306f95085f0060be4",
+      "translation_sha256": "a2a037c8d451ae6a50c1a4507d4a4fb4e286db095aef1d96b484a3569ec429f2",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 7:16",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 16,
+          "source_ref": "Hosea 7:16",
+          "segment_mode": "whole",
+          "sha256": "523c6d1ebb60f82da532feead4217bb7e7bf0d5808c751aaed5eb9dcf081661f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "523c6d1ebb60f82da532feead4217bb7e7bf0d5808c751aaed5eb9dcf081661f",
+      "translation_sha256": "e4bc0d971754dd636a3fad5fed2d1f9e347342407c8fb76b6c6b7bcc564009e8",
+      "tsw_blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:1",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "source_ref": "Hosea 8:1",
+          "segment_mode": "whole",
+          "sha256": "f4ff285ba14f2df28bb80dac7df776daf6569d9175ecb3553a45dd9fa7e59af6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f4ff285ba14f2df28bb80dac7df776daf6569d9175ecb3553a45dd9fa7e59af6",
+      "translation_sha256": "460fe7e273f36bb4620f5f160fa59f4eaf2e5522a5aea82fc03acb5e0a881ecd",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:2",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 2,
+          "source_ref": "Hosea 8:2",
+          "segment_mode": "whole",
+          "sha256": "22bda58fafb5c1f318dbe62290596225224039aaaabf01eb6885191fa00e03c9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "22bda58fafb5c1f318dbe62290596225224039aaaabf01eb6885191fa00e03c9",
+      "translation_sha256": "01c7c84e7adf250c9bbddab4d1179bc803b390ec05cf5ba8304f703521e62662",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:3",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 3,
+          "source_ref": "Hosea 8:3",
+          "segment_mode": "whole",
+          "sha256": "499540e13454465e03a16d16a9b44f9c9e5d03771e10fb6114791082c9da487a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "499540e13454465e03a16d16a9b44f9c9e5d03771e10fb6114791082c9da487a",
+      "translation_sha256": "3b857ccae36b528b8860aa0495f7e1c5caabdd4c0f2a75841e6ad1888d90e3b6",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:4",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 4,
+          "source_ref": "Hosea 8:4",
+          "segment_mode": "whole",
+          "sha256": "a6f80f590bf13cb32d31a2cc2fc8192cf8ca8761e063be01b7e4fd0d53cda774"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a6f80f590bf13cb32d31a2cc2fc8192cf8ca8761e063be01b7e4fd0d53cda774",
+      "translation_sha256": "26179fee3501a918904105c6da972f9542418416012823fcb0aa990d323a7044",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:5",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 5,
+          "source_ref": "Hosea 8:5",
+          "segment_mode": "whole",
+          "sha256": "4c9c0a7cc49e7a6c068707f06b7d64c4894b4b6e2b1f89855d177f685b960224"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4c9c0a7cc49e7a6c068707f06b7d64c4894b4b6e2b1f89855d177f685b960224",
+      "translation_sha256": "8180003efd79762ddc22ea1cfcc41644221f10d4ed0489dd9ed523fd558f2f64",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:6",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 6,
+          "source_ref": "Hosea 8:6",
+          "segment_mode": "whole",
+          "sha256": "17ec087042bb0bd59f55f7ed646e6199c6c4e8d82da8b4b0f6fce3bc0f9077e5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "17ec087042bb0bd59f55f7ed646e6199c6c4e8d82da8b4b0f6fce3bc0f9077e5",
+      "translation_sha256": "80120177915d40c53fd1b837a56857029da80227c4eda50f752e41b95731697c",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:7",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 7,
+          "source_ref": "Hosea 8:7",
+          "segment_mode": "whole",
+          "sha256": "d536da356278517968d070ff0992e953bc174dc63be60fdcd9ef90077319615a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d536da356278517968d070ff0992e953bc174dc63be60fdcd9ef90077319615a",
+      "translation_sha256": "4c908a16a97da63583960da1a0a93040e4d6e20586830c90a73a3b775b441a8f",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:8",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 8,
+          "source_ref": "Hosea 8:8",
+          "segment_mode": "whole",
+          "sha256": "46f0342e523499b130f676e520270ce911487d295e2b60e44051f0c8087cb283"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "46f0342e523499b130f676e520270ce911487d295e2b60e44051f0c8087cb283",
+      "translation_sha256": "dcad9a72199d5f504b2c7d3f8736c83ca5744272721c75ebc6abe9fc17effe98",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:9",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 9,
+          "source_ref": "Hosea 8:9",
+          "segment_mode": "whole",
+          "sha256": "9921128384d8119e82e59b5526ef8c4586b6b09c99af6f2aac527c5a93968a2d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9921128384d8119e82e59b5526ef8c4586b6b09c99af6f2aac527c5a93968a2d",
+      "translation_sha256": "fec0d92c20802f77b251ec6967ef1c532a9207cedfc78cda894803ec9e4f3042",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:10",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 10,
+          "source_ref": "Hosea 8:10",
+          "segment_mode": "whole",
+          "sha256": "c92051abf865badfc22e56fb2acfc9bf84719463206a1bcfe77051e2b65579f9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c92051abf865badfc22e56fb2acfc9bf84719463206a1bcfe77051e2b65579f9",
+      "translation_sha256": "5d9bd4822609c1d8c4aa6c5e23ab0b2d0990163b258cdeafc24bf584d33a083d",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:11",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 11,
+          "source_ref": "Hosea 8:11",
+          "segment_mode": "whole",
+          "sha256": "ac0bce1d315e38af23393ca09aa4b2da68b914a5f96a2c5a5a50c353621d47b1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ac0bce1d315e38af23393ca09aa4b2da68b914a5f96a2c5a5a50c353621d47b1",
+      "translation_sha256": "15f73dab2db33c28b6a1ea17bda123620dbbba201ca7c48e404749546f050d3c",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:12",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 12,
+          "source_ref": "Hosea 8:12",
+          "segment_mode": "whole",
+          "sha256": "f0ca11dc82d48ce5bda3be7f6de8839c89f2094ff19e96005f50174e8bb0e958"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f0ca11dc82d48ce5bda3be7f6de8839c89f2094ff19e96005f50174e8bb0e958",
+      "translation_sha256": "56e8b9ab57b469b74eca5959bd68ba345e82b12afabddcfbb74eb5413f433148",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 8:13",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 13,
+          "source_ref": "Hosea 8:13",
+          "segment_mode": "whole",
+          "sha256": "a2c2c20555194feedb156cd4b9e14a7f462f8b60d0a9cb479391dabebb463a93"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a2c2c20555194feedb156cd4b9e14a7f462f8b60d0a9cb479391dabebb463a93",
+      "translation_sha256": "ccd1976a416ec1a6e157c0b8cd28329180a6d2aba9ff6c8786e5194798c18778",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 8:14",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 14,
+          "source_ref": "Hosea 8:14",
+          "segment_mode": "whole",
+          "sha256": "2f4abbc17248436e0cf1ed2d619dcba8a14720cf064708d60c40bb7a57512439"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2f4abbc17248436e0cf1ed2d619dcba8a14720cf064708d60c40bb7a57512439",
+      "translation_sha256": "dd726d4ca05ee7beb88fa37907c331b35c0c5ae8cc0a247eaf1b4891f74d172c",
+      "tsw_blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:1",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "source_ref": "Hosea 9:1",
+          "segment_mode": "whole",
+          "sha256": "bce0645f50b4ea5e52045a8e33d500992a18fae25042a4f4791db44ad828a19c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bce0645f50b4ea5e52045a8e33d500992a18fae25042a4f4791db44ad828a19c",
+      "translation_sha256": "1da445d8852429d968c4b09d9b9f1fda3f958cf102bef0f68a6c9c5e91c6cf27",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:2",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 2,
+          "source_ref": "Hosea 9:2",
+          "segment_mode": "whole",
+          "sha256": "28a09790e13c9329353631f04b29d4c4b9a174f61f551a68f54e9ecdea8253a5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "28a09790e13c9329353631f04b29d4c4b9a174f61f551a68f54e9ecdea8253a5",
+      "translation_sha256": "1f30d92a4ce18a7d889f852eccfe0504b7ce58e97618ce689ee605ef53a6fd83",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:3",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 3,
+          "source_ref": "Hosea 9:3",
+          "segment_mode": "whole",
+          "sha256": "176b0ce73205fd2150a91df1fb7282795d8ceeb94cff2539a8377eca5fc72ef4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "176b0ce73205fd2150a91df1fb7282795d8ceeb94cff2539a8377eca5fc72ef4",
+      "translation_sha256": "7b2e49feacbe465a3efc2af2ae788b4256570ef43410b3e9492d95dc8bc75ab8",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 9:4",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 4,
+          "source_ref": "Hosea 9:4",
+          "segment_mode": "whole",
+          "sha256": "136b96cb625889e06d1ef8c9a0e4f7479e683fa3f23072a51fda5e94b144a12e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "136b96cb625889e06d1ef8c9a0e4f7479e683fa3f23072a51fda5e94b144a12e",
+      "translation_sha256": "dc6eaaa2482670fbfc39776ec7bde97c8844a5259d8539cf4783db171dd9a48d",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:5",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 5,
+          "source_ref": "Hosea 9:5",
+          "segment_mode": "whole",
+          "sha256": "51f045a37717402fff40ca85f3416d657cdaa2f6ab41f5d5bee4dd7fabe76f85"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "51f045a37717402fff40ca85f3416d657cdaa2f6ab41f5d5bee4dd7fabe76f85",
+      "translation_sha256": "20aac4ed9a814243193038a8fb4d6ebbcfdf9940deb545fbd33680f1795f9928",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:6",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 6,
+          "source_ref": "Hosea 9:6",
+          "segment_mode": "whole",
+          "sha256": "c15f79b409d8982aeb3bd554a7f49aabecc5782af0906c523c6df8719623c0bc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c15f79b409d8982aeb3bd554a7f49aabecc5782af0906c523c6df8719623c0bc",
+      "translation_sha256": "d3cbebf2e812de6b27c188dbd91f4d02c54b73f663edad7024bdb677778448a2",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:7",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 7,
+          "source_ref": "Hosea 9:7",
+          "segment_mode": "whole",
+          "sha256": "2eca5d52c236231cfcf3c1b3f99e17d4fbdd7d20bf5cb730d3aee8e39aedbd7f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2eca5d52c236231cfcf3c1b3f99e17d4fbdd7d20bf5cb730d3aee8e39aedbd7f",
+      "translation_sha256": "a5b4e943520f00fd69e2d31492c816e502f44d5cf45dbc33a7736366c8fac10f",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:8",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 8,
+          "source_ref": "Hosea 9:8",
+          "segment_mode": "whole",
+          "sha256": "ed71541bbc95c0e55e522633ca06efb3d91f98c703055ab9b04da4457df4e6a0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ed71541bbc95c0e55e522633ca06efb3d91f98c703055ab9b04da4457df4e6a0",
+      "translation_sha256": "c3f1069d7843a5998d004accae1d630d619ab83b304cfea0c7dd82981b32a89b",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:9",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 9,
+          "source_ref": "Hosea 9:9",
+          "segment_mode": "whole",
+          "sha256": "6eb0f4b569af55ec92d7650c0f9263dc19f35547a01edba2f26761b92a135a65"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6eb0f4b569af55ec92d7650c0f9263dc19f35547a01edba2f26761b92a135a65",
+      "translation_sha256": "ada8e20c16bd1f7f685b5366dfc625155377061c1b4ea84e3690fe04d5eabd37",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:10",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 10,
+          "source_ref": "Hosea 9:10",
+          "segment_mode": "whole",
+          "sha256": "1edd62cad9c0c7d2a1eadca393c21a5ae6c0beb8fc2218a17b2fd34967d73544"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1edd62cad9c0c7d2a1eadca393c21a5ae6c0beb8fc2218a17b2fd34967d73544",
+      "translation_sha256": "fe2a0138de0b439ac75954eaa6e01807de6f6c6fabb1fb41b7041a58367f982b",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:11",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 11,
+          "source_ref": "Hosea 9:11",
+          "segment_mode": "whole",
+          "sha256": "3710174ebda3dd57ee5c1cd7ad40bc2eac0e6ada5dc9b1c8df314088ff6ac00e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3710174ebda3dd57ee5c1cd7ad40bc2eac0e6ada5dc9b1c8df314088ff6ac00e",
+      "translation_sha256": "8e7787eed72e2b43beb7ad8ad0d80ca233fc9f8c2c93e51c1dfcf44791160841",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:12",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 12,
+          "source_ref": "Hosea 9:12",
+          "segment_mode": "whole",
+          "sha256": "79586bbae2136b94eabfe302c318561b6c870b378f9bb049cfb8183f17e6087f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "79586bbae2136b94eabfe302c318561b6c870b378f9bb049cfb8183f17e6087f",
+      "translation_sha256": "7024ee16f9a326dfbfefa95e4c7b9941643b86ad8c344445b091e8d3ab9ffed8",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:13",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 13,
+          "source_ref": "Hosea 9:13",
+          "segment_mode": "whole",
+          "sha256": "8215bec11535eb256e2908d7ecaca17adc4dad8851f2492b8bc250ca11263f97"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8215bec11535eb256e2908d7ecaca17adc4dad8851f2492b8bc250ca11263f97",
+      "translation_sha256": "0b7f7eaf700a63d72997b14fec6b715f8ba93042be932b57a4703323bf1b2ca4",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:14",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 14,
+          "source_ref": "Hosea 9:14",
+          "segment_mode": "whole",
+          "sha256": "b2407eadc69f753363a29a82ec48b48f4c47a20826a65bf0b12abadd2fcd5e40"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b2407eadc69f753363a29a82ec48b48f4c47a20826a65bf0b12abadd2fcd5e40",
+      "translation_sha256": "00edd639096dfdc2fe6d005465192f9544079777b9ccb20f6f86a431f6c31cb6",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:15",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 15,
+          "source_ref": "Hosea 9:15",
+          "segment_mode": "whole",
+          "sha256": "d28aef05731411653d7464d81ea33aa3fb833652000c9bc656ba4631b332b103"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d28aef05731411653d7464d81ea33aa3fb833652000c9bc656ba4631b332b103",
+      "translation_sha256": "48432faba7a2d06a966d080dc255b1da6137d9b57a103bcde3aaf388d81bf19e",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:16",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 16,
+          "source_ref": "Hosea 9:16",
+          "segment_mode": "whole",
+          "sha256": "51e9336b08985a6889d3b4631cb8dd0d5f7313612fd9d58b74016cce4e44cabc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "51e9336b08985a6889d3b4631cb8dd0d5f7313612fd9d58b74016cce4e44cabc",
+      "translation_sha256": "38732d75d7aa32ba28cc250336a91cde0585ed36df0f7868c0a92640565c6a26",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 9:17",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 17,
+          "source_ref": "Hosea 9:17",
+          "segment_mode": "whole",
+          "sha256": "3261dd2c6f41cecf56d73379d2ae4bf5dff2a23ffba0d5be92c96bbf87db4a3a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3261dd2c6f41cecf56d73379d2ae4bf5dff2a23ffba0d5be92c96bbf87db4a3a",
+      "translation_sha256": "e1c9079d0f167672d1fa9f0490e50cc67cc38e5a1ac75b7e15ff22a8d6a12ca9",
+      "tsw_blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:1",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "source_ref": "Hosea 10:1",
+          "segment_mode": "whole",
+          "sha256": "d5a1fdcb801ce98ddd0f4469a582497b979d3a47e9fc429b3d4c43e423a8bc3f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d5a1fdcb801ce98ddd0f4469a582497b979d3a47e9fc429b3d4c43e423a8bc3f",
+      "translation_sha256": "cdd48ab4b74b7711ab0db16a424e75fc917390e4d8ae53cf57cc3782b024e1b2",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:2",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 2,
+          "source_ref": "Hosea 10:2",
+          "segment_mode": "whole",
+          "sha256": "7e3d90b902c7c5829251d00f61aed8e264de51fa5de42560156a0a86a7be1e48"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7e3d90b902c7c5829251d00f61aed8e264de51fa5de42560156a0a86a7be1e48",
+      "translation_sha256": "128ec95e1bcad7d003e0f76ef60f039ae18c4684b9c575c09f68178c0ddd17f8",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:3",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 3,
+          "source_ref": "Hosea 10:3",
+          "segment_mode": "whole",
+          "sha256": "707c48b9076fd103c056c8af1b4a6741ab5e391a992e98f8789e9104493a98a5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "707c48b9076fd103c056c8af1b4a6741ab5e391a992e98f8789e9104493a98a5",
+      "translation_sha256": "db7c1eca9564bbe5e8814b91fd81a6d2149ba94e94978a4be700af2cc0993671",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:4",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 4,
+          "source_ref": "Hosea 10:4",
+          "segment_mode": "whole",
+          "sha256": "4ab4fb12e6b9775c79d413a719bbcad718d92b43583a47884522244f08c16258"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4ab4fb12e6b9775c79d413a719bbcad718d92b43583a47884522244f08c16258",
+      "translation_sha256": "648f11c3f925090d83d3222690907a264e7a2d51b77ae9f7fe36d5cb3514cd62",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:5",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 5,
+          "source_ref": "Hosea 10:5",
+          "segment_mode": "whole",
+          "sha256": "bad5b5f836f35ec3da7e1eb0f50b11d10a6118e8c2e5064ee5186ede3b11d360"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bad5b5f836f35ec3da7e1eb0f50b11d10a6118e8c2e5064ee5186ede3b11d360",
+      "translation_sha256": "a91d2a42bd3815a03b9ceb8c20759bc4dc630c5315e97c6fd896bba4cc343fb1",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:6",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 6,
+          "source_ref": "Hosea 10:6",
+          "segment_mode": "whole",
+          "sha256": "48a9cecc1f859d574c0b8d9a5cca770e19c0e9720c3e44ec69183d5949b556fd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "48a9cecc1f859d574c0b8d9a5cca770e19c0e9720c3e44ec69183d5949b556fd",
+      "translation_sha256": "4b45332bfa411b7ca3e688fa81651430a86771ffc563b84861e41efa964b0326",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:7",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 7,
+          "source_ref": "Hosea 10:7",
+          "segment_mode": "whole",
+          "sha256": "d39e679ee889a326e75af99ba01650f01f460986682567efa28615ec5e226543"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d39e679ee889a326e75af99ba01650f01f460986682567efa28615ec5e226543",
+      "translation_sha256": "f4d783168fa4fb1cf3933adf551e84ed2a7b4b2e4b88ffadb740e93923a84199",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:8",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 8,
+          "source_ref": "Hosea 10:8",
+          "segment_mode": "whole",
+          "sha256": "8485fbd304135996f90afbf6a4786fc500e8c0234d19b0f1a99a73914209909a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8485fbd304135996f90afbf6a4786fc500e8c0234d19b0f1a99a73914209909a",
+      "translation_sha256": "5c26d73189e45ec5023cd8fd7f874e030d3466701aa0905fd13b294496bd56f4",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:9",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 9,
+          "source_ref": "Hosea 10:9",
+          "segment_mode": "whole",
+          "sha256": "6913c45c357b0a19796153881a311ed9663e1d315b97ef7303bd01c088eb4034"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6913c45c357b0a19796153881a311ed9663e1d315b97ef7303bd01c088eb4034",
+      "translation_sha256": "4c680d752a8d8b575d2ffde0879204916bd6911b600a66b07d93d68f81980ddb",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:10",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 10,
+          "source_ref": "Hosea 10:10",
+          "segment_mode": "whole",
+          "sha256": "7b2b5a7c4bcea19410ab099572ed1c2a79d5498537224c79fce81959972f01b2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7b2b5a7c4bcea19410ab099572ed1c2a79d5498537224c79fce81959972f01b2",
+      "translation_sha256": "8c660f4b37040c78026a0fadcd82a5d6023016993be76d2bcc45f0152602b613",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:11",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 11,
+          "source_ref": "Hosea 10:11",
+          "segment_mode": "whole",
+          "sha256": "b740609b9eb19ef752eab6bb8bde40a56912ee845a555004e4210a40ff1c10e6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b740609b9eb19ef752eab6bb8bde40a56912ee845a555004e4210a40ff1c10e6",
+      "translation_sha256": "efc5c5a1a9590e2f21ef539388789282dc5c952004d61555f912bcba2d263651",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:12",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 12,
+          "source_ref": "Hosea 10:12",
+          "segment_mode": "whole",
+          "sha256": "cecffd1a20b76a6822732929fe5e5b8f84dc2b852ae72a50fc7e5fc86bd692cd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cecffd1a20b76a6822732929fe5e5b8f84dc2b852ae72a50fc7e5fc86bd692cd",
+      "translation_sha256": "87bd0b5ddb0e251682611aebb31938ba0e810863a0b0bcb0f06507c9fa7a29b2",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:13",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 13,
+          "source_ref": "Hosea 10:13",
+          "segment_mode": "whole",
+          "sha256": "7e1e5c62533f8c6f62b008d17a82d4eb93310869eefeac5aa31250c7b2a7be21"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7e1e5c62533f8c6f62b008d17a82d4eb93310869eefeac5aa31250c7b2a7be21",
+      "translation_sha256": "17d9e0f70b792d3b56cfe6c8dd2019bf90751abe6e1e8b67c3d19a10110148f1",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:14",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 14,
+          "source_ref": "Hosea 10:14",
+          "segment_mode": "whole",
+          "sha256": "c9c4fddddd9b2822f684acdf0932f0df2b4b09202c385058ac20d5a47269b07f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c9c4fddddd9b2822f684acdf0932f0df2b4b09202c385058ac20d5a47269b07f",
+      "translation_sha256": "978aaf27d4c1a2e60ee0ca8209752be82fddccb6d7484c0763293083254228aa",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 10:15",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 15,
+          "source_ref": "Hosea 10:15",
+          "segment_mode": "whole",
+          "sha256": "198b4a7432dcf186bcfd94fb60f1f329f43a1c552127da71a50939cf2b2bdab7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "198b4a7432dcf186bcfd94fb60f1f329f43a1c552127da71a50939cf2b2bdab7",
+      "translation_sha256": "a252e3a34f29ef89a123cfe5d2aca086d6d65ba27186a30a2dd7bc7b355e102c",
+      "tsw_blob_sha": "1973834104483a129c449e433e41a274696a0ab2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:1",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 1,
+          "source_ref": "Hosea 11:1",
+          "segment_mode": "whole",
+          "sha256": "8f95195c98847423edf7f420f706d62dc124ec1541253151a9e74931256a3d06"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8f95195c98847423edf7f420f706d62dc124ec1541253151a9e74931256a3d06",
+      "translation_sha256": "ccde2f708d9cd4d516c88e48fd2a12fd6764e9c0693d6abfebea9a5a1175ff05",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:2",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 2,
+          "source_ref": "Hosea 11:2",
+          "segment_mode": "whole",
+          "sha256": "fc89d34c054b3e77e55fb181c0c0f0380a5e2094e615e24048cb4deba6de6258"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fc89d34c054b3e77e55fb181c0c0f0380a5e2094e615e24048cb4deba6de6258",
+      "translation_sha256": "729a3749174be48225479631182079b08927c8f71035125425394fb74e91fd5b",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:3",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 3,
+          "source_ref": "Hosea 11:3",
+          "segment_mode": "whole",
+          "sha256": "8e2600ed8c030bdd03bb5d43bdd5d84dbfe1cb3bd9c34c9573bde3c6018683f1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8e2600ed8c030bdd03bb5d43bdd5d84dbfe1cb3bd9c34c9573bde3c6018683f1",
+      "translation_sha256": "ce6112c3124a42daf539189231cb7c0d2faedce0e18e54225e7a693311ca4a2d",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:4",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 4,
+          "source_ref": "Hosea 11:4",
+          "segment_mode": "whole",
+          "sha256": "955e61a82a3e342f0f02b97c50ab06b76610b9347d20def7a68a06820a221fde"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "955e61a82a3e342f0f02b97c50ab06b76610b9347d20def7a68a06820a221fde",
+      "translation_sha256": "780079b8d359047e3693a047ead9309ca31255788001931d5d4d583b5e961084",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:5",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 5,
+          "source_ref": "Hosea 11:5",
+          "segment_mode": "whole",
+          "sha256": "8cef587a8bb196c6a5d7dec6eb83e75a7e523db4c192054072508b9931f5d95d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8cef587a8bb196c6a5d7dec6eb83e75a7e523db4c192054072508b9931f5d95d",
+      "translation_sha256": "daa2a5b6f6ec00e9636c361d1d8560fa4b724655208eecafcf7fa7163b7d5f57",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:6",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 6,
+          "source_ref": "Hosea 11:6",
+          "segment_mode": "whole",
+          "sha256": "1369c60f0468245083c46b6b34fb8c228b16b53068706660ff3351ad059f6f95"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1369c60f0468245083c46b6b34fb8c228b16b53068706660ff3351ad059f6f95",
+      "translation_sha256": "0f6fe561522fee5f75e724a8c8c8884f9dcfc29d4bf49dabc2d9f50df0bfc44d",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:7",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 7,
+          "source_ref": "Hosea 11:7",
+          "segment_mode": "whole",
+          "sha256": "d4132b0ee99fa8655fbea03d4fec4720372fb980548c1e2744c3596892d3f4f0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d4132b0ee99fa8655fbea03d4fec4720372fb980548c1e2744c3596892d3f4f0",
+      "translation_sha256": "e3e96193a8e8c21dd07609efbcaaf2e459cf2b5e3cf1c1024df581279b0b23e7",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:8",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 8,
+          "source_ref": "Hosea 11:8",
+          "segment_mode": "whole",
+          "sha256": "745328f54263c23719873c9267d01bcd7838b82859ec35de8003c1f0c5a6327d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "745328f54263c23719873c9267d01bcd7838b82859ec35de8003c1f0c5a6327d",
+      "translation_sha256": "b0c288bb1fdf1692c66b4f4a3f4dc8a115ea81532c9aa442f866b71c3fdaac6b",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:9",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 9,
+          "source_ref": "Hosea 11:9",
+          "segment_mode": "whole",
+          "sha256": "39f990f0143aa65b040e47ef8f515316dd2a435484c969128e6785ced4028d6e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "39f990f0143aa65b040e47ef8f515316dd2a435484c969128e6785ced4028d6e",
+      "translation_sha256": "a3d95b7e783bfa4fe2bdf18dbb2475c2e71d65b605523f570e9d56d8addabdec",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:10",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 10,
+          "source_ref": "Hosea 11:10",
+          "segment_mode": "whole",
+          "sha256": "3a178e9ebc3ab0a977ec5b37876ce26331239ebdeabb6e5e0459c8bebab9857f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3a178e9ebc3ab0a977ec5b37876ce26331239ebdeabb6e5e0459c8bebab9857f",
+      "translation_sha256": "eb9de2195c4bc9f91a1524ff4c5d50e617059fbb35e63f97ccf203f5ac5c47bf",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 11:11",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 11,
+          "source_ref": "Hosea 11:11",
+          "segment_mode": "whole",
+          "sha256": "97455a2dc36aa85955c2a4e6464fb964f9a7b0f7d604a8e1131cb44a7c27e40f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "97455a2dc36aa85955c2a4e6464fb964f9a7b0f7d604a8e1131cb44a7c27e40f",
+      "translation_sha256": "175010a9173e060f56e946f1afcf82a8e7e6364d1323e42fee0b1fec76b28f67",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": [
+        "Let divine grief, compassion, holiness, and refusal to destroy remain in tension."
+      ]
+    },
+    {
+      "chapter": 11,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 12:1 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 1,
+          "source_ref": "Hosea 12:1 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "74b279ae5417bf0daef6d41b0cc24301bd9fe6a944790671a46f476a9c26ad95"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "74b279ae5417bf0daef6d41b0cc24301bd9fe6a944790671a46f476a9c26ad95",
+      "translation_sha256": "9d2c9ebd5fa0ad9ceefdaabeec1ec224cbdf3ed108983193f463bfd1d44d92a4",
+      "tsw_blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:2 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 2,
+          "source_ref": "Hosea 12:2 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "993e53bc514289c06abafd835a84a837f467d59c606bf857bd6136566f2ef46c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "993e53bc514289c06abafd835a84a837f467d59c606bf857bd6136566f2ef46c",
+      "translation_sha256": "a4a68d6cf45997489790e56f313d9b76e21e55ef7710226868914595cbcc4724",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:3 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 3,
+          "source_ref": "Hosea 12:3 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "c389fbaf8a7fc51f3f0c7a612a061040d7fe4ead03163761fbc6f6435a3068f8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c389fbaf8a7fc51f3f0c7a612a061040d7fe4ead03163761fbc6f6435a3068f8",
+      "translation_sha256": "230f636d1bd1a416bf89b8bad4d6a709e11ef5879a1b3cd855b552124aecf9dc",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:4 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 4,
+          "source_ref": "Hosea 12:4 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "bef077fff47b92df63e051c306e73197fc7a5cffe5ffafb5ba2b731644160288"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bef077fff47b92df63e051c306e73197fc7a5cffe5ffafb5ba2b731644160288",
+      "translation_sha256": "24af243d9a8cc1b7788bbc2be961dfd21586935d55bc24e16a04a540fe12e606",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:5 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 5,
+          "source_ref": "Hosea 12:5 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "8e7ac67b6d797d79142df15261f2f6478f0eb50657c2c6963f51448a2bcc93ca"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8e7ac67b6d797d79142df15261f2f6478f0eb50657c2c6963f51448a2bcc93ca",
+      "translation_sha256": "be17b021013e8ab6f6aa7f75cee4eede2e2e69009b6299872a2e73af94d7d86c",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:6 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 6,
+          "source_ref": "Hosea 12:6 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "3885db897c757759982ce31361d56e4869c622b8b7160c2f329b3f44fa221091"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3885db897c757759982ce31361d56e4869c622b8b7160c2f329b3f44fa221091",
+      "translation_sha256": "cfe84a964a238707708c431ad80ce5b6129f59e8c54f6786ca07ccef4552245a",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:7 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 7,
+          "source_ref": "Hosea 12:7 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "4a8cef95a3264e6f462b9671c408845a19612f4ac3f42e1dd2611387be73e816"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4a8cef95a3264e6f462b9671c408845a19612f4ac3f42e1dd2611387be73e816",
+      "translation_sha256": "2ce05f5f0040afc4ba9821aa75d82b2e1202ac3e5e46efa05b3996b3c04d861b",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:8 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 8,
+          "source_ref": "Hosea 12:8 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "f6797e133c885ee4b2fc4a823a7b6984783d3a0212642f96f1b0ad9f29534d0e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f6797e133c885ee4b2fc4a823a7b6984783d3a0212642f96f1b0ad9f29534d0e",
+      "translation_sha256": "831b215506707856efc4ee015fb7c1e856be6206355c5422087de55c63eccb5f",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:9 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 9,
+          "source_ref": "Hosea 12:9 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "c147302df9b722221e365ba866f6337f548b3b4d8f1ae7bb54add254c7c5ee73"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c147302df9b722221e365ba866f6337f548b3b4d8f1ae7bb54add254c7c5ee73",
+      "translation_sha256": "7585760e4dbf5333bfd23b91a8f122e26a56a89262a6cb72b928f15f0414cb6b",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:10 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 10,
+          "source_ref": "Hosea 12:10 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "7cb7093a467bec6ac38e45155eead7627d7b646635b1a63c59291c7641c11fe1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7cb7093a467bec6ac38e45155eead7627d7b646635b1a63c59291c7641c11fe1",
+      "translation_sha256": "94a285169fa6d6668cd6a49d366d5667eca866e00be39676c130c89d56937e68",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:11 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 11,
+          "source_ref": "Hosea 12:11 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "44e7590647a8f05a604944eb36891adbbfac9a46863eb1fe713d3dbf76b4dabe"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "44e7590647a8f05a604944eb36891adbbfac9a46863eb1fe713d3dbf76b4dabe",
+      "translation_sha256": "18b85c946039c137c3179aa8eb9db1f829a871dd18b2808f95d7a3474745af7a",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:12 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 12,
+          "source_ref": "Hosea 12:12 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "1a4ee62436d8f8343885705be44927f6af5667f80229392fc4b2a2117c2cb6ec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1a4ee62436d8f8343885705be44927f6af5667f80229392fc4b2a2117c2cb6ec",
+      "translation_sha256": "dc12ae7137e30c133eccafe762cdb0610f4cc06d103316ea8b4ef8f121b130a7",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:13 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 13,
+          "source_ref": "Hosea 12:13 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "0647684c6b22b482c3eb65836cf12b7066c76a1178bbd2b477d55e5866ef5dda"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0647684c6b22b482c3eb65836cf12b7066c76a1178bbd2b477d55e5866ef5dda",
+      "translation_sha256": "a31ff751bbc1acf6cc39c6684fac440ce4a5a50366ba281425981c59dc813f06",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:14 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 14,
+          "source_ref": "Hosea 12:14 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "11576ae737677a2297dfcec8a5d1041211d5a0a3adc3a6ff84dc135b07d62919"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "11576ae737677a2297dfcec8a5d1041211d5a0a3adc3a6ff84dc135b07d62919",
+      "translation_sha256": "3770b9db0d83cad59b1b383bed0f586e8f1af906558f1daa4865fa8b484be03e",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 12:15 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 15,
+          "source_ref": "Hosea 12:15 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "315f82c964d8fcc6491fe168b53f7e8a00a8e61fe12926cafdcd6725ad672369"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "315f82c964d8fcc6491fe168b53f7e8a00a8e61fe12926cafdcd6725ad672369",
+      "translation_sha256": "d01775b491bc22ecc72bd0b8a412635a2a54b74375fded8c1cf81046912a1276",
+      "tsw_blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f",
+      "curated_decisions": [
+        "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text."
+      ]
+    },
+    {
+      "chapter": 13,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:1",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 1,
+          "source_ref": "Hosea 13:1",
+          "segment_mode": "whole",
+          "sha256": "ce34cf5cfc86725d85129d5ef4870c0513d08956896f8fa608635c20c186d02d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ce34cf5cfc86725d85129d5ef4870c0513d08956896f8fa608635c20c186d02d",
+      "translation_sha256": "08935476ecfa7a7d19c5d767433f438049c1ebf2d4c72bf723d1646d9f2505a1",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 13:2",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 2,
+          "source_ref": "Hosea 13:2",
+          "segment_mode": "whole",
+          "sha256": "e90b5f78aff8efa3b2a4863b75c8888dce6bd6b4b3858c4fc20583ff6b95fa62"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e90b5f78aff8efa3b2a4863b75c8888dce6bd6b4b3858c4fc20583ff6b95fa62",
+      "translation_sha256": "4a3bdd94d2b9c2eecd0652a4daf4fc5f232cba2bb91cac555424f7359c9de34d",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 13:3",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 3,
+          "source_ref": "Hosea 13:3",
+          "segment_mode": "whole",
+          "sha256": "7b189997ad6b87104050b69c1ccbf62414a191de186067c36676140e15337acc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7b189997ad6b87104050b69c1ccbf62414a191de186067c36676140e15337acc",
+      "translation_sha256": "eca4875d7de1fe7949d0dabdcb8caebcdb7bb7f3a33d407006caf3954acb8218",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 13:4",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 4,
+          "source_ref": "Hosea 13:4",
+          "segment_mode": "whole",
+          "sha256": "3e8ef8c1441361857d6bd4622176b47207d5e1d83baeeb573d378af4e111d83d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3e8ef8c1441361857d6bd4622176b47207d5e1d83baeeb573d378af4e111d83d",
+      "translation_sha256": "c99a17e7717e0ce863beaeaaa4615acd2314c3b6aff235c633c3f31fb2b7d6d4",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:5",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 5,
+          "source_ref": "Hosea 13:5",
+          "segment_mode": "whole",
+          "sha256": "46e3c88f64f3746a46cf1c5c13ae4175a4334c8897f1f8687c436c02f57304a8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "46e3c88f64f3746a46cf1c5c13ae4175a4334c8897f1f8687c436c02f57304a8",
+      "translation_sha256": "a76bc1f2d751734ee629bbed6ef0c7038e9f24b3469569f51776880155bd5af5",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Hosea 13:6",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 6,
+          "source_ref": "Hosea 13:6",
+          "segment_mode": "whole",
+          "sha256": "17efc409a5501b69ab006b16b7feca91e5739f9f774e0ccf399871c596f9a49d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "17efc409a5501b69ab006b16b7feca91e5739f9f774e0ccf399871c596f9a49d",
+      "translation_sha256": "7dde8dec979c8dff5510198b2222d3194078a5430c61ceb8bddd3b4d00814d92",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:7",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 7,
+          "source_ref": "Hosea 13:7",
+          "segment_mode": "whole",
+          "sha256": "255fa3a1068bbe123b6c291491c7c98012b355b3ec2b1666dc5cbf0ac6f30d29"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "255fa3a1068bbe123b6c291491c7c98012b355b3ec2b1666dc5cbf0ac6f30d29",
+      "translation_sha256": "f7ad91f8b3519bdb595497e4927d6f03b22231cdd732951dd426d2b6d8ea6359",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:8",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 8,
+          "source_ref": "Hosea 13:8",
+          "segment_mode": "whole",
+          "sha256": "d28e2f347dcb4fa6e52ea0092549f3144e75e77115104d5b75054c41e918c53e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d28e2f347dcb4fa6e52ea0092549f3144e75e77115104d5b75054c41e918c53e",
+      "translation_sha256": "db160c4a4be4b89f3c1d8aa38174c546054c8fe85a9b7175e319aa5a6bf5a416",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:9",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 9,
+          "source_ref": "Hosea 13:9",
+          "segment_mode": "whole",
+          "sha256": "c4270bd72709ff72ab26800e8ca9d926997697f5efbd68cfabf3d5fd53888c30"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c4270bd72709ff72ab26800e8ca9d926997697f5efbd68cfabf3d5fd53888c30",
+      "translation_sha256": "817e1d3b8061adacfd25607f3f605aec2d8a2b1d23e0de9246f4d93e1450744e",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:10",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 10,
+          "source_ref": "Hosea 13:10",
+          "segment_mode": "whole",
+          "sha256": "30395d3c407f1986ff2977d107fa1fb41c31b90ec27dfda8375b7ce69c2c444f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "30395d3c407f1986ff2977d107fa1fb41c31b90ec27dfda8375b7ce69c2c444f",
+      "translation_sha256": "0fcb99f02c1ec102e27ecdbe9a3c98b335112aabc0a9050704126efcf2576b3d",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:11",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 11,
+          "source_ref": "Hosea 13:11",
+          "segment_mode": "whole",
+          "sha256": "328e39fb1ab41e36d4e55708bdc40fa5200d243730c55468f3605768dfdcabf0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "328e39fb1ab41e36d4e55708bdc40fa5200d243730c55468f3605768dfdcabf0",
+      "translation_sha256": "de9b35c440e1acce835608ceb986a04b14443dd60c6bfc4c5d644080a126e790",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:12",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 12,
+          "source_ref": "Hosea 13:12",
+          "segment_mode": "whole",
+          "sha256": "8594137bbf53e276ebd4dfcf1e429f5b0025722678a7bb26ea2f055150fbe23b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8594137bbf53e276ebd4dfcf1e429f5b0025722678a7bb26ea2f055150fbe23b",
+      "translation_sha256": "ec0f48336814c66b905153f58b2842e67e5ffeca728d60d2838a53c883a08d11",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:13",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 13,
+          "source_ref": "Hosea 13:13",
+          "segment_mode": "whole",
+          "sha256": "af3d30eca11d3ea8208ba3c706b48c265086f337d18b3c8e1861202cb5257cae"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af3d30eca11d3ea8208ba3c706b48c265086f337d18b3c8e1861202cb5257cae",
+      "translation_sha256": "adf426e4f27171405b162025471f19e95bf1481c6f2f8d050c498e6fd1a8b3ad",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 13:14",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 14,
+          "source_ref": "Hosea 13:14",
+          "segment_mode": "whole",
+          "sha256": "7aa48352b4a6cca5495201108538bf76fd14317a29c8ff7d925e548c551fd426"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7aa48352b4a6cca5495201108538bf76fd14317a29c8ff7d925e548c551fd426",
+      "translation_sha256": "5100b155ccb457c1c42014a1580694c679541ee902091f4782853ac34f0750c9",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": [
+        "Retain the rhetorical ambiguity over ransom, death, and plague rather than forcing a single later theological reading."
+      ]
+    },
+    {
+      "chapter": 13,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 13:15",
+      "source_records": [
+        {
+          "chapter": 13,
+          "verse": 15,
+          "source_ref": "Hosea 13:15",
+          "segment_mode": "whole",
+          "sha256": "505452199706d945262e7270c27e83e2559bece6b8f21938e0ccdc3d38b7f47f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "505452199706d945262e7270c27e83e2559bece6b8f21938e0ccdc3d38b7f47f",
+      "translation_sha256": "817e61b87752ebbe9ea31d931b94dcdf396af34c84d8d1c3fae54ad2feccf9a7",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 13,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Hosea 14:1 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 1,
+          "source_ref": "Hosea 14:1 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "db4ea0deb0ff8d8c03580a885d6a558f837fb624fc269615094dd9e7845f56e0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "db4ea0deb0ff8d8c03580a885d6a558f837fb624fc269615094dd9e7845f56e0",
+      "translation_sha256": "fad2cc787f6e54fa90bc0e9b398114185376ce741ca27e6bbce19dc905b9f3e4",
+      "tsw_blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 14,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 14:2 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 2,
+          "source_ref": "Hosea 14:2 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "fcdf5fa7684885af3139663c9eaedaa5d26e504417009403b7338d189c06d355"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fcdf5fa7684885af3139663c9eaedaa5d26e504417009403b7338d189c06d355",
+      "translation_sha256": "62cb63e4e5aabcc2ff4abe52e5ec42f0223f1a6cf64cb832704c345f46125e79",
+      "tsw_blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3",
+      "curated_decisions": [
+        "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 14:3 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 3,
+          "source_ref": "Hosea 14:3 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "6f58d1ff1b28c1db92f20f54be1880af8854d1200dc845e3944b04395f51b875"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6f58d1ff1b28c1db92f20f54be1880af8854d1200dc845e3944b04395f51b875",
+      "translation_sha256": "e2e3b91edb7046628373b59b64f832b33bb00cad7ede2ea362c1ebf34e4b2cbc",
+      "tsw_blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3",
+      "curated_decisions": [
+        "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 14:4 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 4,
+          "source_ref": "Hosea 14:4 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "bc2a65348982b9c716045b5130ac1e560e1e8bcaaa20ffdca426274789eaebf8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bc2a65348982b9c716045b5130ac1e560e1e8bcaaa20ffdca426274789eaebf8",
+      "translation_sha256": "14602773f05578ff14236b5ee66def60e566c43242e5ac8814018ce7f2b24d9f",
+      "tsw_blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3",
+      "curated_decisions": [
+        "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 14:5 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 5,
+          "source_ref": "Hosea 14:5 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "b6b3d0dc2eb7308a2e12c7279e5d821288411052c6bdd44854d5c27d64f144be"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b6b3d0dc2eb7308a2e12c7279e5d821288411052c6bdd44854d5c27d64f144be",
+      "translation_sha256": "0cc8caad3a298a39f68f1236cfd2be6695563c3620fc076872f536ac6f8167c2",
+      "tsw_blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3",
+      "curated_decisions": [
+        "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 14:6 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 6,
+          "source_ref": "Hosea 14:6 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "586ab8c79a647d476f9e5d4958d7d42efa74a14764ff32650211441b0595bdb1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "586ab8c79a647d476f9e5d4958d7d42efa74a14764ff32650211441b0595bdb1",
+      "translation_sha256": "153173e3af1b8b75bb39b4a42cc9b482c87cbed966bb41ab197ab76cf33aed47",
+      "tsw_blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3",
+      "curated_decisions": [
+        "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 14:7 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 7,
+          "source_ref": "Hosea 14:7 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "2666b44552b5e194e75024324578c85187df91257ca9e64532a45ef9dc94cd10"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2666b44552b5e194e75024324578c85187df91257ca9e64532a45ef9dc94cd10",
+      "translation_sha256": "73d94809264b5ba62d6b2ff78a9c83d79bd3e450b38d208ea050c78120b8f51f",
+      "tsw_blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3",
+      "curated_decisions": [
+        "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 14:8 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 8,
+          "source_ref": "Hosea 14:8 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "fa695dfb8163d01349a3a3607ae434683108340e80b0cf685560b927ba2183c7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fa695dfb8163d01349a3a3607ae434683108340e80b0cf685560b927ba2183c7",
+      "translation_sha256": "f827a3c0dd867326f34f906a4bf33c63b88b882fd6e43202bd7a031b518ffb56",
+      "tsw_blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3",
+      "curated_decisions": [
+        "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 14:9 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 9,
+          "source_ref": "Hosea 14:9 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "a83f3ee8b8758adce22bf735565fc8357d8b308ba22774130e67859c48dad99c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a83f3ee8b8758adce22bf735565fc8357d8b308ba22774130e67859c48dad99c",
+      "translation_sha256": "5cdf2ce795d7be45d30bf7ead824ab1b9f7dfacdaea5f3d3d44430702504942f",
+      "tsw_blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3",
+      "curated_decisions": [
+        "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement."
+      ]
+    },
+    {
+      "chapter": 14,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Hosea 14:10 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 14,
+          "verse": 10,
+          "source_ref": "Hosea 14:10 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "5b11a6092bc7435bfc9aa9ac086214ff4f6f42bacbb756ea8cf855f6c0513b8e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5b11a6092bc7435bfc9aa9ac086214ff4f6f42bacbb756ea8cf855f6c0513b8e",
+      "translation_sha256": "847ea34853dc3c19056feab819549c1d0469528ac78eb7e297a560233d2eb807",
+      "tsw_blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3",
+      "curated_decisions": [
+        "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 111,
+    "F1": 12,
+    "F2": 0,
+    "F3": 74
+  },
+  "public_verse_slots": 197,
+  "included_source_bindings": 197
+}

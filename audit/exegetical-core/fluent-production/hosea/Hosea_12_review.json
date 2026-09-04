@@ -1,0 +1,252 @@
+{
+  "book": "Hosea",
+  "chapter": 12,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "12:1-14",
+      "decision": "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Hosea 12:2 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 2,
+            "source_ref": "Hosea 12:2 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "993e53bc514289c06abafd835a84a837f467d59c606bf857bd6136566f2ef46c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "993e53bc514289c06abafd835a84a837f467d59c606bf857bd6136566f2ef46c"
+      },
+      "2": {
+        "source_ref": "Hosea 12:3 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 3,
+            "source_ref": "Hosea 12:3 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "c389fbaf8a7fc51f3f0c7a612a061040d7fe4ead03163761fbc6f6435a3068f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c389fbaf8a7fc51f3f0c7a612a061040d7fe4ead03163761fbc6f6435a3068f8"
+      },
+      "3": {
+        "source_ref": "Hosea 12:4 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 4,
+            "source_ref": "Hosea 12:4 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "bef077fff47b92df63e051c306e73197fc7a5cffe5ffafb5ba2b731644160288"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bef077fff47b92df63e051c306e73197fc7a5cffe5ffafb5ba2b731644160288"
+      },
+      "4": {
+        "source_ref": "Hosea 12:5 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 5,
+            "source_ref": "Hosea 12:5 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "8e7ac67b6d797d79142df15261f2f6478f0eb50657c2c6963f51448a2bcc93ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e7ac67b6d797d79142df15261f2f6478f0eb50657c2c6963f51448a2bcc93ca"
+      },
+      "5": {
+        "source_ref": "Hosea 12:6 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 6,
+            "source_ref": "Hosea 12:6 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "3885db897c757759982ce31361d56e4869c622b8b7160c2f329b3f44fa221091"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3885db897c757759982ce31361d56e4869c622b8b7160c2f329b3f44fa221091"
+      },
+      "6": {
+        "source_ref": "Hosea 12:7 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 7,
+            "source_ref": "Hosea 12:7 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "4a8cef95a3264e6f462b9671c408845a19612f4ac3f42e1dd2611387be73e816"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a8cef95a3264e6f462b9671c408845a19612f4ac3f42e1dd2611387be73e816"
+      },
+      "7": {
+        "source_ref": "Hosea 12:8 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 8,
+            "source_ref": "Hosea 12:8 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "f6797e133c885ee4b2fc4a823a7b6984783d3a0212642f96f1b0ad9f29534d0e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6797e133c885ee4b2fc4a823a7b6984783d3a0212642f96f1b0ad9f29534d0e"
+      },
+      "8": {
+        "source_ref": "Hosea 12:9 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 9,
+            "source_ref": "Hosea 12:9 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "c147302df9b722221e365ba866f6337f548b3b4d8f1ae7bb54add254c7c5ee73"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c147302df9b722221e365ba866f6337f548b3b4d8f1ae7bb54add254c7c5ee73"
+      },
+      "9": {
+        "source_ref": "Hosea 12:10 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 10,
+            "source_ref": "Hosea 12:10 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "7cb7093a467bec6ac38e45155eead7627d7b646635b1a63c59291c7641c11fe1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7cb7093a467bec6ac38e45155eead7627d7b646635b1a63c59291c7641c11fe1"
+      },
+      "10": {
+        "source_ref": "Hosea 12:11 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 11,
+            "source_ref": "Hosea 12:11 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "44e7590647a8f05a604944eb36891adbbfac9a46863eb1fe713d3dbf76b4dabe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44e7590647a8f05a604944eb36891adbbfac9a46863eb1fe713d3dbf76b4dabe"
+      },
+      "11": {
+        "source_ref": "Hosea 12:12 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 12,
+            "source_ref": "Hosea 12:12 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1a4ee62436d8f8343885705be44927f6af5667f80229392fc4b2a2117c2cb6ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a4ee62436d8f8343885705be44927f6af5667f80229392fc4b2a2117c2cb6ec"
+      },
+      "12": {
+        "source_ref": "Hosea 12:13 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 13,
+            "source_ref": "Hosea 12:13 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "0647684c6b22b482c3eb65836cf12b7066c76a1178bbd2b477d55e5866ef5dda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0647684c6b22b482c3eb65836cf12b7066c76a1178bbd2b477d55e5866ef5dda"
+      },
+      "13": {
+        "source_ref": "Hosea 12:14 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 14,
+            "source_ref": "Hosea 12:14 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "11576ae737677a2297dfcec8a5d1041211d5a0a3adc3a6ff84dc135b07d62919"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "11576ae737677a2297dfcec8a5d1041211d5a0a3adc3a6ff84dc135b07d62919"
+      },
+      "14": {
+        "source_ref": "Hosea 12:15 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 15,
+            "source_ref": "Hosea 12:15 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "315f82c964d8fcc6491fe168b53f7e8a00a8e61fe12926cafdcd6725ad672369"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "315f82c964d8fcc6491fe168b53f7e8a00a8e61fe12926cafdcd6725ad672369"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/hosea/Hosea_12.md",
+    "blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

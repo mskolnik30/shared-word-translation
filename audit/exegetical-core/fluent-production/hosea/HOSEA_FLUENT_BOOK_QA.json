@@ -1,0 +1,126 @@
+{
+  "book": "Hosea",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 14,
+  "public_verse_slots": 197,
+  "included_verse_labels": 197,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 197,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-2:1",
+      "decision": "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:2-23",
+      "decision": "Retain the legal, marital, agricultural, and covenant imagery together; do not soften the violence or present it as a model for human relationships.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:1-6",
+      "decision": "Keep steadfast love and knowledge of God above ritual performance without dismissing worship itself.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:1-11",
+      "decision": "Let divine grief, compassion, holiness, and refusal to destroy remain in tension.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "12:1-14",
+      "decision": "Preserve the compressed Jacob traditions and the public-versification shift from the Hebrew text.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:14",
+      "decision": "Retain the rhetorical ambiguity over ransom, death, and plague rather than forcing a single later theological reading.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "14:1-9",
+      "decision": "Keep repentance, healing, freely given love, and ecological flourishing as the book's final movement.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_04",
+  "deployment_audit": {
+    "source_git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec",
+    "source_binding_count": 197,
+    "unique_source_record_count": 197,
+    "public_verse_slots": 197,
+    "ledger_summary": {
+      "F0": 111,
+      "F1": 12,
+      "F2": 0,
+      "F3": 74
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/hosea/Hosea_01.md",
+        "blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa"
+      },
+      "02": {
+        "path": "books/OT/hosea/Hosea_02.md",
+        "blob_sha": "20f4114d832dc9311dc2b99ee68fe96670ad70d2"
+      },
+      "03": {
+        "path": "books/OT/hosea/Hosea_03.md",
+        "blob_sha": "d45c53c53667592c7c8c7d9158305601886cad9e"
+      },
+      "04": {
+        "path": "books/OT/hosea/Hosea_04.md",
+        "blob_sha": "8a18cb599b7fa8e86c20ece876245bb252d55188"
+      },
+      "05": {
+        "path": "books/OT/hosea/Hosea_05.md",
+        "blob_sha": "f9cf5d5fed50bf0bcd79918decf3fd6e14899b3f"
+      },
+      "06": {
+        "path": "books/OT/hosea/Hosea_06.md",
+        "blob_sha": "8e55837787920829e08448e4bb18d4203e9464f1"
+      },
+      "07": {
+        "path": "books/OT/hosea/Hosea_07.md",
+        "blob_sha": "ef2cb85402206d6ef6a2b45f77a2215e6ddfdbd3"
+      },
+      "08": {
+        "path": "books/OT/hosea/Hosea_08.md",
+        "blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97"
+      },
+      "09": {
+        "path": "books/OT/hosea/Hosea_09.md",
+        "blob_sha": "d3155eaa027b4a5c5c6d8b4b3028e2f73246fecf"
+      },
+      "10": {
+        "path": "books/OT/hosea/Hosea_10.md",
+        "blob_sha": "1973834104483a129c449e433e41a274696a0ab2"
+      },
+      "11": {
+        "path": "books/OT/hosea/Hosea_11.md",
+        "blob_sha": "cafa96a27959ba38008b9c8871393ab5c4133254"
+      },
+      "12": {
+        "path": "books/OT/hosea/Hosea_12.md",
+        "blob_sha": "c6c6414b3d4e8653f8c969e65392dfc1ed1d7d9f"
+      },
+      "13": {
+        "path": "books/OT/hosea/Hosea_13.md",
+        "blob_sha": "d5417c741de32f5676842834a5582b40d9bdff8d"
+      },
+      "14": {
+        "path": "books/OT/hosea/Hosea_14.md",
+        "blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3"
+      }
+    }
+  }
+}

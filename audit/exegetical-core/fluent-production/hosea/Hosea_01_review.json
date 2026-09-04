@@ -1,0 +1,207 @@
+{
+  "book": "Hosea",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-2:1",
+      "decision": "Preserve Hosea's shocking family sign-act while distinguishing prophetic metaphor from permission to shame women or people harmed by sexual betrayal.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Hosea 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Hosea 1:1",
+            "segment_mode": "whole",
+            "sha256": "95060ebaa420b02102fb032e058abf8215f7223d052259a3419ca8874921c1bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95060ebaa420b02102fb032e058abf8215f7223d052259a3419ca8874921c1bd"
+      },
+      "2": {
+        "source_ref": "Hosea 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Hosea 1:2",
+            "segment_mode": "whole",
+            "sha256": "afa7b98670097c1bb223ba2f9e1db9d76d0c01e3bcbe88b0b1e401f115ce7a4f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "afa7b98670097c1bb223ba2f9e1db9d76d0c01e3bcbe88b0b1e401f115ce7a4f"
+      },
+      "3": {
+        "source_ref": "Hosea 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Hosea 1:3",
+            "segment_mode": "whole",
+            "sha256": "b746e94a973788b53d6671ddefbe5722754ce752dd471685385facd2da870d43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b746e94a973788b53d6671ddefbe5722754ce752dd471685385facd2da870d43"
+      },
+      "4": {
+        "source_ref": "Hosea 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Hosea 1:4",
+            "segment_mode": "whole",
+            "sha256": "7f572b621e642a8a6fe5d9a12ff999d82c48fef7129f3a4e76e8c1f687526d44"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f572b621e642a8a6fe5d9a12ff999d82c48fef7129f3a4e76e8c1f687526d44"
+      },
+      "5": {
+        "source_ref": "Hosea 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Hosea 1:5",
+            "segment_mode": "whole",
+            "sha256": "f6f53ced8a26a9d0fef16bf0f18d696105f3a851d50bf11139455a7506858078"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6f53ced8a26a9d0fef16bf0f18d696105f3a851d50bf11139455a7506858078"
+      },
+      "6": {
+        "source_ref": "Hosea 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Hosea 1:6",
+            "segment_mode": "whole",
+            "sha256": "b9b0b7c595c44ff7cb4a99c8e06979fe2e41d78b363c92d03e0c7ea4596dd5ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b9b0b7c595c44ff7cb4a99c8e06979fe2e41d78b363c92d03e0c7ea4596dd5ca"
+      },
+      "7": {
+        "source_ref": "Hosea 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Hosea 1:7",
+            "segment_mode": "whole",
+            "sha256": "a8cfc3bf15ba6379e44ec56c9b0e6ae11d2d227472f19502fd45e86ef20a637a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8cfc3bf15ba6379e44ec56c9b0e6ae11d2d227472f19502fd45e86ef20a637a"
+      },
+      "8": {
+        "source_ref": "Hosea 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Hosea 1:8",
+            "segment_mode": "whole",
+            "sha256": "f1290838dc38cf32ca288d94ecda2617f95a723d4d5f986890884333cc3bc98d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1290838dc38cf32ca288d94ecda2617f95a723d4d5f986890884333cc3bc98d"
+      },
+      "9": {
+        "source_ref": "Hosea 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Hosea 1:9",
+            "segment_mode": "whole",
+            "sha256": "72aaf54442540a3d6eb269cf549367961aa46c5cc4c84cee57a4766b0b90c88a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72aaf54442540a3d6eb269cf549367961aa46c5cc4c84cee57a4766b0b90c88a"
+      },
+      "10": {
+        "source_ref": "Hosea 2:1 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Hosea 2:1 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "564c924ad4b84f16bbf181184c517b86429dc3f537cb9892b103cd1e4c9fc6a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "564c924ad4b84f16bbf181184c517b86429dc3f537cb9892b103cd1e4c9fc6a3"
+      },
+      "11": {
+        "source_ref": "Hosea 2:2 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Hosea 2:2 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "116452db43bd3e35eb8f65b09289d06279576ea416907d080caa68e62ba0caec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "116452db43bd3e35eb8f65b09289d06279576ea416907d080caa68e62ba0caec"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/hosea/Hosea_01.md",
+    "blob_sha": "b8c86e38fb141ca4d65e92b79d0b52ebd5c255aa"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

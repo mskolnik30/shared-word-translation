@@ -1,0 +1,111 @@
+{
+  "book": "Hosea",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Hosea 3:1",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 1,
+            "source_ref": "Hosea 3:1",
+            "segment_mode": "whole",
+            "sha256": "5fa04747145c1aa64b5c570efcb568ce2c01260b642376c9ba265884ccb04043"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5fa04747145c1aa64b5c570efcb568ce2c01260b642376c9ba265884ccb04043"
+      },
+      "2": {
+        "source_ref": "Hosea 3:2",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 2,
+            "source_ref": "Hosea 3:2",
+            "segment_mode": "whole",
+            "sha256": "8491bb3685f853914aee4d3089c5696fc98688e40a828abb380320d5f10cd1eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8491bb3685f853914aee4d3089c5696fc98688e40a828abb380320d5f10cd1eb"
+      },
+      "3": {
+        "source_ref": "Hosea 3:3",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 3,
+            "source_ref": "Hosea 3:3",
+            "segment_mode": "whole",
+            "sha256": "82777a155c7efb3d0b88ee60d1ccfdda3f641ee1680c683e17d47917079b25ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82777a155c7efb3d0b88ee60d1ccfdda3f641ee1680c683e17d47917079b25ac"
+      },
+      "4": {
+        "source_ref": "Hosea 3:4",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 4,
+            "source_ref": "Hosea 3:4",
+            "segment_mode": "whole",
+            "sha256": "038e9f3c7aa25e46743bd8bf6d0c2ab0b9e950783802dd7c2fa4a9782b37e116"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "038e9f3c7aa25e46743bd8bf6d0c2ab0b9e950783802dd7c2fa4a9782b37e116"
+      },
+      "5": {
+        "source_ref": "Hosea 3:5",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 5,
+            "source_ref": "Hosea 3:5",
+            "segment_mode": "whole",
+            "sha256": "c1bccdfab42e931c4db737e57164f01dde6b25b522a9cd17f0b19a51f1b37243"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1bccdfab42e931c4db737e57164f01dde6b25b522a9cd17f0b19a51f1b37243"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/hosea/Hosea_03.md",
+    "blob_sha": "d45c53c53667592c7c8c7d9158305601886cad9e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
