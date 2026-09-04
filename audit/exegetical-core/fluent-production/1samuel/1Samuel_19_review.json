@@ -1,0 +1,396 @@
+{
+  "book": "1 Samuel",
+  "chapter": 19,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Samuel 19:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 1,
+            "source_ref": "1 Samuel 19:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f3dda155d6b929a73e85df2b980b2a3fb0e93192717fc8d573021cd96d379782"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3dda155d6b929a73e85df2b980b2a3fb0e93192717fc8d573021cd96d379782"
+      },
+      "2": {
+        "source_ref": "1 Samuel 19:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 2,
+            "source_ref": "1 Samuel 19:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "30ba2ecb1a98082a90257239e465c41d2a9a03ca869ef8efc1300392eb47b792"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30ba2ecb1a98082a90257239e465c41d2a9a03ca869ef8efc1300392eb47b792"
+      },
+      "3": {
+        "source_ref": "1 Samuel 19:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 3,
+            "source_ref": "1 Samuel 19:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c3186a4459bd457eecff2e5fc6c45dd1094d69d8dfb97c6bf865398a24b71987"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3186a4459bd457eecff2e5fc6c45dd1094d69d8dfb97c6bf865398a24b71987"
+      },
+      "4": {
+        "source_ref": "1 Samuel 19:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 4,
+            "source_ref": "1 Samuel 19:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e734221867a7f6deed96884dcdb93c091e6d732273db5ec63611a928910e182b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e734221867a7f6deed96884dcdb93c091e6d732273db5ec63611a928910e182b"
+      },
+      "5": {
+        "source_ref": "1 Samuel 19:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 5,
+            "source_ref": "1 Samuel 19:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b0263dcc2c1e1a77cbbeb758ba882a8a24e605effd0d3c1dc336bc83c631029a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0263dcc2c1e1a77cbbeb758ba882a8a24e605effd0d3c1dc336bc83c631029a"
+      },
+      "6": {
+        "source_ref": "1 Samuel 19:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 6,
+            "source_ref": "1 Samuel 19:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "733c56ccc50dda344a142d1faceb62d5a60567e8afccc3ff3c6fff75263e1874"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "733c56ccc50dda344a142d1faceb62d5a60567e8afccc3ff3c6fff75263e1874"
+      },
+      "7": {
+        "source_ref": "1 Samuel 19:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 7,
+            "source_ref": "1 Samuel 19:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3f30f4f934aec8ef6e9efab4e8bbcc328ec0e98fb24ba5df96bd663df7299e66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f30f4f934aec8ef6e9efab4e8bbcc328ec0e98fb24ba5df96bd663df7299e66"
+      },
+      "8": {
+        "source_ref": "1 Samuel 19:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 8,
+            "source_ref": "1 Samuel 19:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ace052da54840cedae939cae305efcf493d6b29d50bb5bac741fdec992c5896"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ace052da54840cedae939cae305efcf493d6b29d50bb5bac741fdec992c5896"
+      },
+      "9": {
+        "source_ref": "1 Samuel 19:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 9,
+            "source_ref": "1 Samuel 19:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f76d40e5e8468f26409894175c6958d7ee53b8ffe59486cc584613711e175338"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f76d40e5e8468f26409894175c6958d7ee53b8ffe59486cc584613711e175338"
+      },
+      "10": {
+        "source_ref": "1 Samuel 19:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 10,
+            "source_ref": "1 Samuel 19:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "19c6f0b9842b110e634a6aac376bb4d243c271bb17b1b6243ca9756d5037bb77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "19c6f0b9842b110e634a6aac376bb4d243c271bb17b1b6243ca9756d5037bb77"
+      },
+      "11": {
+        "source_ref": "1 Samuel 19:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 11,
+            "source_ref": "1 Samuel 19:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "704a25d11ea2a99084d15739380958888e3a6d8d5865a234d7e1bfc1aa3b7bf3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "704a25d11ea2a99084d15739380958888e3a6d8d5865a234d7e1bfc1aa3b7bf3"
+      },
+      "12": {
+        "source_ref": "1 Samuel 19:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 12,
+            "source_ref": "1 Samuel 19:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e909e9eafce0ba166c69642b5874a32d9e059c6f172abfdeaa99ec02f138e87"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e909e9eafce0ba166c69642b5874a32d9e059c6f172abfdeaa99ec02f138e87"
+      },
+      "13": {
+        "source_ref": "1 Samuel 19:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 13,
+            "source_ref": "1 Samuel 19:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7a3a9cf16af305de3dbb3b3af429cd1f51863948846fe92757349036eb895e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7a3a9cf16af305de3dbb3b3af429cd1f51863948846fe92757349036eb895e7"
+      },
+      "14": {
+        "source_ref": "1 Samuel 19:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 14,
+            "source_ref": "1 Samuel 19:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aca20dcee70293d7c7a412fbce56e2ded909c44ad492a644f9a7f01d38bc320b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aca20dcee70293d7c7a412fbce56e2ded909c44ad492a644f9a7f01d38bc320b"
+      },
+      "15": {
+        "source_ref": "1 Samuel 19:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 15,
+            "source_ref": "1 Samuel 19:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7325f84ec1ac7a5745a0116239de78d46bf2a4842859c8cc234cac2c33f8ce29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7325f84ec1ac7a5745a0116239de78d46bf2a4842859c8cc234cac2c33f8ce29"
+      },
+      "16": {
+        "source_ref": "1 Samuel 19:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 16,
+            "source_ref": "1 Samuel 19:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "48f7bae54a11ee4e500c608ccb31bcd47474267c1f0468400857392a66eec928"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48f7bae54a11ee4e500c608ccb31bcd47474267c1f0468400857392a66eec928"
+      },
+      "17": {
+        "source_ref": "1 Samuel 19:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 17,
+            "source_ref": "1 Samuel 19:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f09e02419e6de7f9ab5356ac2234112682880c9e11b20ff96f64c5e4600ebecf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f09e02419e6de7f9ab5356ac2234112682880c9e11b20ff96f64c5e4600ebecf"
+      },
+      "18": {
+        "source_ref": "1 Samuel 19:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 18,
+            "source_ref": "1 Samuel 19:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4bd788aa840595dbf3dd4ac1e1943072ff13ccf0e89f786ada5838d1599dd02b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4bd788aa840595dbf3dd4ac1e1943072ff13ccf0e89f786ada5838d1599dd02b"
+      },
+      "19": {
+        "source_ref": "1 Samuel 19:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 19,
+            "source_ref": "1 Samuel 19:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56f3402ae1d0826b0eb8f1a9ebd91da6bba669b8981323aa259510bf32d5771a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56f3402ae1d0826b0eb8f1a9ebd91da6bba669b8981323aa259510bf32d5771a"
+      },
+      "20": {
+        "source_ref": "1 Samuel 19:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 20,
+            "source_ref": "1 Samuel 19:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1847aa8515d07d1325daeb1ff0ad1fcb29f99d42e597ab305fba044de81ae6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1847aa8515d07d1325daeb1ff0ad1fcb29f99d42e597ab305fba044de81ae6a"
+      },
+      "21": {
+        "source_ref": "1 Samuel 19:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 21,
+            "source_ref": "1 Samuel 19:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c51dbb62d4f90bb8cc31f338383f575708fde8309d3567912c38ab6197f9f88"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c51dbb62d4f90bb8cc31f338383f575708fde8309d3567912c38ab6197f9f88"
+      },
+      "22": {
+        "source_ref": "1 Samuel 19:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 22,
+            "source_ref": "1 Samuel 19:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e0570fca8e727dd0daf94e955a7cce4c54bfcbff267e38b7b974269880722d2b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e0570fca8e727dd0daf94e955a7cce4c54bfcbff267e38b7b974269880722d2b"
+      },
+      "23": {
+        "source_ref": "1 Samuel 19:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 23,
+            "source_ref": "1 Samuel 19:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c92b8befd8fbd43b586abf89c16de1a53fcd62be6639cfbf800d3725bc19e139"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c92b8befd8fbd43b586abf89c16de1a53fcd62be6639cfbf800d3725bc19e139"
+      },
+      "24": {
+        "source_ref": "1 Samuel 19:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 24,
+            "source_ref": "1 Samuel 19:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d349e1559eccff9994f74e44754073593b3c7792e25de09b429c0ec321cfc482"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d349e1559eccff9994f74e44754073593b3c7792e25de09b429c0ec321cfc482"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1samuel/1Samuel_19.md",
+    "blob_sha": "40ad04a17e3439bf1b20471fbe4fd5559dfdef11"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

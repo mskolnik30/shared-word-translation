@@ -1,0 +1,261 @@
+{
+  "book": "1 Samuel",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Samuel 11:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 1,
+            "source_ref": "1 Samuel 11:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d332e56ae4bac7d880cece0d72b4e125d2886e2ba5be04106fbf9a5e80af0da9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d332e56ae4bac7d880cece0d72b4e125d2886e2ba5be04106fbf9a5e80af0da9"
+      },
+      "2": {
+        "source_ref": "1 Samuel 11:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 2,
+            "source_ref": "1 Samuel 11:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec5e0d60f754f4bf797a563392f341c1145b50319372755b7643d2f95e6780fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec5e0d60f754f4bf797a563392f341c1145b50319372755b7643d2f95e6780fd"
+      },
+      "3": {
+        "source_ref": "1 Samuel 11:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 3,
+            "source_ref": "1 Samuel 11:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4218b431449558b1c7ad5c2cb1bb0ca46a563852091b9405be14512324c7af3b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4218b431449558b1c7ad5c2cb1bb0ca46a563852091b9405be14512324c7af3b"
+      },
+      "4": {
+        "source_ref": "1 Samuel 11:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 4,
+            "source_ref": "1 Samuel 11:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a0527172ea5bb6b13f9918c66d8954335a4a8335efc05cd9673acdd85c47c82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a0527172ea5bb6b13f9918c66d8954335a4a8335efc05cd9673acdd85c47c82"
+      },
+      "5": {
+        "source_ref": "1 Samuel 11:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 5,
+            "source_ref": "1 Samuel 11:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84f660482e18bc77b147e5c6c90cc5d0914d8a3e51039fd6b4e3ba6150d0012c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84f660482e18bc77b147e5c6c90cc5d0914d8a3e51039fd6b4e3ba6150d0012c"
+      },
+      "6": {
+        "source_ref": "1 Samuel 11:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 6,
+            "source_ref": "1 Samuel 11:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f33bff36ae938fde7ce2eacce7936c938267ae2b01b604c32092c0ff4ef1479"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f33bff36ae938fde7ce2eacce7936c938267ae2b01b604c32092c0ff4ef1479"
+      },
+      "7": {
+        "source_ref": "1 Samuel 11:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 7,
+            "source_ref": "1 Samuel 11:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7df9b11b9c64ef70d32ac3e54aeabfd513f18f2a9cfa3b7e14aaa0995c8f7449"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7df9b11b9c64ef70d32ac3e54aeabfd513f18f2a9cfa3b7e14aaa0995c8f7449"
+      },
+      "8": {
+        "source_ref": "1 Samuel 11:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 8,
+            "source_ref": "1 Samuel 11:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "83deea3f8dc89116abaf74e15a0db1ebcbb068a0d29c76f3249ecbd841150d97"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83deea3f8dc89116abaf74e15a0db1ebcbb068a0d29c76f3249ecbd841150d97"
+      },
+      "9": {
+        "source_ref": "1 Samuel 11:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 9,
+            "source_ref": "1 Samuel 11:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "410de6cfadcd26f207184ab26bc11e5f4bf3956be35341d9626483aad227abbf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "410de6cfadcd26f207184ab26bc11e5f4bf3956be35341d9626483aad227abbf"
+      },
+      "10": {
+        "source_ref": "1 Samuel 11:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 10,
+            "source_ref": "1 Samuel 11:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7c92d4277754dfd1d22a542d1522fb8ce51f4f2692cf1e99cf4dc3903c997f3b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c92d4277754dfd1d22a542d1522fb8ce51f4f2692cf1e99cf4dc3903c997f3b"
+      },
+      "11": {
+        "source_ref": "1 Samuel 11:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 11,
+            "source_ref": "1 Samuel 11:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f3e7f8fc41b7e4fb999fd7ba187323f52b3e30d52ed0c0e7b488faa5a2410b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f3e7f8fc41b7e4fb999fd7ba187323f52b3e30d52ed0c0e7b488faa5a2410b9"
+      },
+      "12": {
+        "source_ref": "1 Samuel 11:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 12,
+            "source_ref": "1 Samuel 11:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4216fad3d96e3f9a8462e199d6a36780ccc9c362179525c996e36316ecade85"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4216fad3d96e3f9a8462e199d6a36780ccc9c362179525c996e36316ecade85"
+      },
+      "13": {
+        "source_ref": "1 Samuel 11:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 13,
+            "source_ref": "1 Samuel 11:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dc6c65478ef1b954a3e64ee0822c5419a2e4062992a3d910356dd6ec1c8c0c9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc6c65478ef1b954a3e64ee0822c5419a2e4062992a3d910356dd6ec1c8c0c9b"
+      },
+      "14": {
+        "source_ref": "1 Samuel 11:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 14,
+            "source_ref": "1 Samuel 11:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "80a008caa5df0fe0c222563a0a7e940d4e0660c5b406583887b10f048b7c1e35"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "80a008caa5df0fe0c222563a0a7e940d4e0660c5b406583887b10f048b7c1e35"
+      },
+      "15": {
+        "source_ref": "1 Samuel 11:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 15,
+            "source_ref": "1 Samuel 11:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "300e2555cb8f1b9331827a21e69b0bf5428a0ed9596b90b0c9ac0670b96b8d96"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "300e2555cb8f1b9331827a21e69b0bf5428a0ed9596b90b0c9ac0670b96b8d96"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1samuel/1Samuel_11.md",
+    "blob_sha": "c172e86bb50d4b638332297205096417df53cc05"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,267 @@
+{
+  "book": "1 Samuel",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "21:1-31:13",
+      "decision": "Keep flight, deception, massacre, warfare, morally complex survival, Saul's death, and grief unsanitized.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Samuel 21:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 2,
+            "source_ref": "1 Samuel 21:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "259a15d30deb6a95765894c55f56461d60bcef528e5c191a336d45e04022061e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "259a15d30deb6a95765894c55f56461d60bcef528e5c191a336d45e04022061e"
+      },
+      "2": {
+        "source_ref": "1 Samuel 21:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 3,
+            "source_ref": "1 Samuel 21:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f13c53ced1e1e81286b3cb806a20132369416eb8a8c214865ad69e6339f10dac"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f13c53ced1e1e81286b3cb806a20132369416eb8a8c214865ad69e6339f10dac"
+      },
+      "3": {
+        "source_ref": "1 Samuel 21:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 4,
+            "source_ref": "1 Samuel 21:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1ccb2de040eac1f348f55ce96b7a00d7a44d265ba9193797308a49586c5c5372"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1ccb2de040eac1f348f55ce96b7a00d7a44d265ba9193797308a49586c5c5372"
+      },
+      "4": {
+        "source_ref": "1 Samuel 21:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 5,
+            "source_ref": "1 Samuel 21:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2352072ceb0406a68898d6529caecf8863a71ecb3018b07f72dcc8773b2845d8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2352072ceb0406a68898d6529caecf8863a71ecb3018b07f72dcc8773b2845d8"
+      },
+      "5": {
+        "source_ref": "1 Samuel 21:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 6,
+            "source_ref": "1 Samuel 21:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "58ca58c4cc4df96b07ae71de9ccbb07d36d0faf9e9b61e86b4ebc589889566a9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "58ca58c4cc4df96b07ae71de9ccbb07d36d0faf9e9b61e86b4ebc589889566a9"
+      },
+      "6": {
+        "source_ref": "1 Samuel 21:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 7,
+            "source_ref": "1 Samuel 21:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b2c4e0f7a5e55d8d43e7ee2cc55d0c9939eecdde177dbb6ddf2bf365f7fcd414"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b2c4e0f7a5e55d8d43e7ee2cc55d0c9939eecdde177dbb6ddf2bf365f7fcd414"
+      },
+      "7": {
+        "source_ref": "1 Samuel 21:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 8,
+            "source_ref": "1 Samuel 21:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "54f019c8785ec1d50d1181eb2a95de1026fca69db3ee3b9b14d6950ad6ffad2e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "54f019c8785ec1d50d1181eb2a95de1026fca69db3ee3b9b14d6950ad6ffad2e"
+      },
+      "8": {
+        "source_ref": "1 Samuel 21:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 9,
+            "source_ref": "1 Samuel 21:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f480b794f593bc49c9de8b8c3f06d7c66a3a89dd880d18b664d25d0aa009db3c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f480b794f593bc49c9de8b8c3f06d7c66a3a89dd880d18b664d25d0aa009db3c"
+      },
+      "9": {
+        "source_ref": "1 Samuel 21:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 10,
+            "source_ref": "1 Samuel 21:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "34b39678fb7d42137a029ecb3e81bac8f2fd0eee22cb42caba17a2ca835a88fb"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "34b39678fb7d42137a029ecb3e81bac8f2fd0eee22cb42caba17a2ca835a88fb"
+      },
+      "10": {
+        "source_ref": "1 Samuel 21:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 11,
+            "source_ref": "1 Samuel 21:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d3696f416d87573df588cf44b3e43431bb76eed09883bb191e11e6b40ee8b9ed"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d3696f416d87573df588cf44b3e43431bb76eed09883bb191e11e6b40ee8b9ed"
+      },
+      "11": {
+        "source_ref": "1 Samuel 21:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 12,
+            "source_ref": "1 Samuel 21:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6752d4c281a43739ffc97a5cd1b24bef2a950147475ba05339c8dc3552bb55d8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6752d4c281a43739ffc97a5cd1b24bef2a950147475ba05339c8dc3552bb55d8"
+      },
+      "12": {
+        "source_ref": "1 Samuel 21:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 13,
+            "source_ref": "1 Samuel 21:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "17e8f530ab666459ac5d5f1b635912f5351d349ff76c0c0c8d9e859ffe6482a3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "17e8f530ab666459ac5d5f1b635912f5351d349ff76c0c0c8d9e859ffe6482a3"
+      },
+      "13": {
+        "source_ref": "1 Samuel 21:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 14,
+            "source_ref": "1 Samuel 21:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d215e8b4bf18e241322bfd8cb14689488fb25bb598e4881fdbea5646c8bb0c95"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d215e8b4bf18e241322bfd8cb14689488fb25bb598e4881fdbea5646c8bb0c95"
+      },
+      "14": {
+        "source_ref": "1 Samuel 21:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 15,
+            "source_ref": "1 Samuel 21:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7592a0111ccf0e0986c4a543eb513bac57ba7e5621755ae7460e26a41fa8d7ab"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7592a0111ccf0e0986c4a543eb513bac57ba7e5621755ae7460e26a41fa8d7ab"
+      },
+      "15": {
+        "source_ref": "1 Samuel 21:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 16,
+            "source_ref": "1 Samuel 21:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3e97097fdae1567db3b9fba5c90221ef3d6e2c63bc5c4fa93c8fb032c45c8976"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3e97097fdae1567db3b9fba5c90221ef3d6e2c63bc5c4fa93c8fb032c45c8976"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1samuel/1Samuel_21.md",
+    "blob_sha": "9be22aa4c7a080de537c525e03653167195faa3e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
