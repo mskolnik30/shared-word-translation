@@ -1,0 +1,113 @@
+{
+  "book": "Ephesians",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 6,
+  "public_verse_slots": 155,
+  "included_verse_labels": 155,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "in Christ",
+    "grace",
+    "church as body",
+    "Jew/Gentile one new humanity",
+    "Spirit",
+    "mystery",
+    "heavenly realms",
+    "walk",
+    "unity",
+    "love",
+    "new humanity",
+    "wisdom",
+    "armor of God"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "1:1",
+      "decision": "in Ephesus retained because pinned SBLGNT includes it bracketed; note major omission witnesses"
+    },
+    {
+      "location": "1:3-14",
+      "decision": "preserve cascading in-Christ architecture while naturalizing one long Greek sentence"
+    },
+    {
+      "location": "1:10",
+      "decision": "anakephalaiosasthai = bring everything together in Christ"
+    },
+    {
+      "location": "2:11-18",
+      "decision": "Gentile inclusion depends on Israel covenant story; one new humanity without replacement theology"
+    },
+    {
+      "location": "2:15",
+      "decision": "katargeo = rendered powerless, not Torah declared worthless"
+    },
+    {
+      "location": "3:6",
+      "decision": "co-heir/same-body/co-participant equality preserved"
+    },
+    {
+      "location": "4:9",
+      "decision": "lower regions phrase left geographically open"
+    },
+    {
+      "location": "5:21-33",
+      "decision": "mutual submission retained as bridge; head metaphor not paraphrased into one contested theory"
+    },
+    {
+      "location": "6:5-9",
+      "decision": "retain slave/master reality; no employee euphemism; divine impartiality noted"
+    },
+    {
+      "location": "6:12",
+      "decision": "struggle explicitly not against flesh and blood"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Eph.txt",
+    "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
+    "source_binding_count": 155,
+    "unique_source_record_count": 155,
+    "public_verse_slots": 155,
+    "ledger_summary": {
+      "F0": 12,
+      "F1": 58,
+      "F2": 43,
+      "F3": 42
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/ephesians/Ephesians_01.md",
+        "blob_sha": "f3efc55797202d3c89c5e76551f98de1ee574fca"
+      },
+      "02": {
+        "path": "books/NT/ephesians/Ephesians_02.md",
+        "blob_sha": "c74019f9512e87958230c62d85e18d030d80c744"
+      },
+      "03": {
+        "path": "books/NT/ephesians/Ephesians_03.md",
+        "blob_sha": "f429a294f40a73904e3755690c1ab58a83fdb14a"
+      },
+      "04": {
+        "path": "books/NT/ephesians/Ephesians_04.md",
+        "blob_sha": "30764e4bc3b7135a36a6afcc43d668c8ceffaa7d"
+      },
+      "05": {
+        "path": "books/NT/ephesians/Ephesians_05.md",
+        "blob_sha": "8e068fba6beb1d18440586ce0717ac4594927ee3"
+      },
+      "06": {
+        "path": "books/NT/ephesians/Ephesians_06.md",
+        "blob_sha": "d131e89e5cc719ae02d524a8e411e4f7cfcbac58"
+      }
+    }
+  }
+}

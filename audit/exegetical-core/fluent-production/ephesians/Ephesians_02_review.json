@@ -1,0 +1,175 @@
+{
+  "book": "Ephesians",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 22,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Eph.txt",
+    "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ephesians 2:1",
+        "source_chapter": 2,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "715c9e800fd3683444d7f1321fbf0688b6d5741600b7afca4912ae37793541a1"
+      },
+      "2": {
+        "source_ref": "Ephesians 2:2",
+        "source_chapter": 2,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "953dca5507b443e5259c611e9ef096996c872cd1cf0e29242b939f724e9d56ec"
+      },
+      "3": {
+        "source_ref": "Ephesians 2:3",
+        "source_chapter": 2,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "59850e8dd886d8861300de7e8117a0b1715cbd45aa338ee4d453262266e0ece8"
+      },
+      "4": {
+        "source_ref": "Ephesians 2:4",
+        "source_chapter": 2,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "ad7b744fa0d0a9be044a1f5d65ba05cb8d69ab5553b232fe613baa5bcd8aa2ca"
+      },
+      "5": {
+        "source_ref": "Ephesians 2:5",
+        "source_chapter": 2,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "da37a49ce41cd918f885c0970f9bd0b1774c1f481c9af40d7bc1fd4d2c5548b1"
+      },
+      "6": {
+        "source_ref": "Ephesians 2:6",
+        "source_chapter": 2,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "0bdee2a88b323294f21efe8146914d74ea290be7cce774430e7d1d165fb0ccdd"
+      },
+      "7": {
+        "source_ref": "Ephesians 2:7",
+        "source_chapter": 2,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "f26759f2e1846f2cf6d24c78324e80d97689d699ddaba917af8bb093459014aa"
+      },
+      "8": {
+        "source_ref": "Ephesians 2:8",
+        "source_chapter": 2,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "8583a5fe15e74167404e47214306b8488b99416954bb3a5dd4d9f3242527cafd"
+      },
+      "9": {
+        "source_ref": "Ephesians 2:9",
+        "source_chapter": 2,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "f1479033487754e69d0367a89c0596181b1ea4a26a1660712487cd458f58495d"
+      },
+      "10": {
+        "source_ref": "Ephesians 2:10",
+        "source_chapter": 2,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "5511e1745a955c36256cf7d6df07b49f19c40942eb1cc78e69f8f6dc28d447f5"
+      },
+      "11": {
+        "source_ref": "Ephesians 2:11",
+        "source_chapter": 2,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "70d06a577c97e316e4f4de374b57e9c2d74a0b6bec11439c7c3d5fb435a07cb6"
+      },
+      "12": {
+        "source_ref": "Ephesians 2:12",
+        "source_chapter": 2,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "91faa2b73e447caedc0acfca451f0831dfd82cc26845e5905ff8a4f9d60f6e2e"
+      },
+      "13": {
+        "source_ref": "Ephesians 2:13",
+        "source_chapter": 2,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "c092d8f16d72d80c7b448dc5b1a2d6aae4e29114ec49721a747c3d064ad71653"
+      },
+      "14": {
+        "source_ref": "Ephesians 2:14",
+        "source_chapter": 2,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "6bd5e4f380d826e5a497ea8caf851130b6815d8fb6fa2b9af6ef467ba003c3fe"
+      },
+      "15": {
+        "source_ref": "Ephesians 2:15",
+        "source_chapter": 2,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "e4bbb25ee933947113902cfa1262ad4a1e543595641aeb54db911be05eb263ab"
+      },
+      "16": {
+        "source_ref": "Ephesians 2:16",
+        "source_chapter": 2,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "58974028daded100ed8299a7c6f6b0e88f2901080c7c8d61e12e0f3831b1a2a9"
+      },
+      "17": {
+        "source_ref": "Ephesians 2:17",
+        "source_chapter": 2,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "e649418ea9ed231a251c969dc58c229a532d3715d2a93a584855a8171bc29fe3"
+      },
+      "18": {
+        "source_ref": "Ephesians 2:18",
+        "source_chapter": 2,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "feda5b3623df4a4c21976e6c2e28c5be5f340f69982bd36b89469081170e4775"
+      },
+      "19": {
+        "source_ref": "Ephesians 2:19",
+        "source_chapter": 2,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "6708ee69b5aac4ee48558c247a5a13b0f5e15df698e5605033c16fff803e1667"
+      },
+      "20": {
+        "source_ref": "Ephesians 2:20",
+        "source_chapter": 2,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "41dea8796a7e6213e35cebec8829a39d3c22bf6f77c4682f8bb9850082c5c610"
+      },
+      "21": {
+        "source_ref": "Ephesians 2:21",
+        "source_chapter": 2,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "ca9d9911a007f853e64f8051adee39591e0cb008ab63fbc5fc2ccddbe303fb07"
+      },
+      "22": {
+        "source_ref": "Ephesians 2:22",
+        "source_chapter": 2,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "1fff1248b9b3bb7cd0e88637efcd6b8a37e23df5c52f64fa48ecd6615ad273ef"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/ephesians/Ephesians_02.md",
+    "blob_sha": "c74019f9512e87958230c62d85e18d030d80c744"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

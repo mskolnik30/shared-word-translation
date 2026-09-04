@@ -1,0 +1,252 @@
+{
+  "book": "Ephesians",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 33,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Eph.txt",
+    "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ephesians 5:1",
+        "source_chapter": 5,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "4e7b458f336a62c54069eefd0445936eb0f8717581b823ca992eca1a0db2ad0d"
+      },
+      "2": {
+        "source_ref": "Ephesians 5:2",
+        "source_chapter": 5,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "09c5a7ea0813cd03cfe82b0763c7fa55f3c5dd10b097897c2fd7a0583a9f601d"
+      },
+      "3": {
+        "source_ref": "Ephesians 5:3",
+        "source_chapter": 5,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "b6e68b7c9cbc5f260bd431fdef65e8d57a19c5c93a3ee332c35e10f5b2d40905"
+      },
+      "4": {
+        "source_ref": "Ephesians 5:4",
+        "source_chapter": 5,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "24832820aa567518b97f5cf5e9827438cb3c81168d9eb11eec59d408578efaa1"
+      },
+      "5": {
+        "source_ref": "Ephesians 5:5",
+        "source_chapter": 5,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "a1df05e848d7e0b24567b405f058df0c938361bd816f574c867807be4573f34a"
+      },
+      "6": {
+        "source_ref": "Ephesians 5:6",
+        "source_chapter": 5,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "70f1ea98eb0daeaba53ca44b72ed71e9601590757dfeba1d349cf33241d94df1"
+      },
+      "7": {
+        "source_ref": "Ephesians 5:7",
+        "source_chapter": 5,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "17b099784e00c73d71009937d71723846dcbb414cb2e8d7abbf1e0efceae6d4a"
+      },
+      "8": {
+        "source_ref": "Ephesians 5:8",
+        "source_chapter": 5,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "0a9a51ce2e608822a60876ac0062103663239070ddc614b2e8ebe9a66ba45ec4"
+      },
+      "9": {
+        "source_ref": "Ephesians 5:9",
+        "source_chapter": 5,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "0bcf97fd8ceed9e2db7d350785feb724c2209e324f69b2aad7ad831d6da5709c"
+      },
+      "10": {
+        "source_ref": "Ephesians 5:10",
+        "source_chapter": 5,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "6e3f161a05e8b59a41ca0fbf8a52e1aa4cbce2c962846cc7a040cdfc81110364"
+      },
+      "11": {
+        "source_ref": "Ephesians 5:11",
+        "source_chapter": 5,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "70c639b9ac80e0f7726e43bb3f6ad3173e294b14e5714d65f8c2fea9155ebaec"
+      },
+      "12": {
+        "source_ref": "Ephesians 5:12",
+        "source_chapter": 5,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "d66f6c8b16ae122fbfa5a57664c753db5291ce53b2fb18a76e94ae43eaf28b6d"
+      },
+      "13": {
+        "source_ref": "Ephesians 5:13",
+        "source_chapter": 5,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "46d92b7bc0c040569f7b657e9e17cd5d7bbc6c4aadc58127a55ab5a7567cfc03"
+      },
+      "14": {
+        "source_ref": "Ephesians 5:14",
+        "source_chapter": 5,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "45bb5aac3671c8fb0651d4b6803da46ccdb827d44f81b521d57b18a7998404b6"
+      },
+      "15": {
+        "source_ref": "Ephesians 5:15",
+        "source_chapter": 5,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "32acecf9dab43f23bc2af7e78679164f4dbe0ffaec31003f02206f18319d031d"
+      },
+      "16": {
+        "source_ref": "Ephesians 5:16",
+        "source_chapter": 5,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "a728bec21798e599b19dc80a16255b3bff7960df938b522b3df16377aaf03f08"
+      },
+      "17": {
+        "source_ref": "Ephesians 5:17",
+        "source_chapter": 5,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "f18ba317d7a21d5c7957c28fd11095a5b821ac2336ed04f9ea826aa4050a9e5f"
+      },
+      "18": {
+        "source_ref": "Ephesians 5:18",
+        "source_chapter": 5,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "4ce768a9d9ee31d6ae0e94495d707049fe09d2dd68e2afd080d11eee00c68da1"
+      },
+      "19": {
+        "source_ref": "Ephesians 5:19",
+        "source_chapter": 5,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "1d8178c20133b79b8747d733f8a00b99118268c5871a2eab4e8714e969893758"
+      },
+      "20": {
+        "source_ref": "Ephesians 5:20",
+        "source_chapter": 5,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "8ead0e03df721177b9028711a505a890a0bb4e2bcf4d01951fbec1c4768e8188"
+      },
+      "21": {
+        "source_ref": "Ephesians 5:21",
+        "source_chapter": 5,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "f9beadd29bbe53fbe0ecfa5fc107aeb1d6430d6261739034d8d2b0ac5bc2871b"
+      },
+      "22": {
+        "source_ref": "Ephesians 5:22",
+        "source_chapter": 5,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "101ba590c1e4a68494cda5f63a1e4eb96b510de2ca5e62b83002c09858480cce"
+      },
+      "23": {
+        "source_ref": "Ephesians 5:23",
+        "source_chapter": 5,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "912782f73f9964bd833e5bdc92e75bf4b8025c05c47f0d4fe308b1d19bdb3b97"
+      },
+      "24": {
+        "source_ref": "Ephesians 5:24",
+        "source_chapter": 5,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "0d6a64ccd2a15e91720722efe6d0f49a2c02aa2933a58f2d7042d0459610b79c"
+      },
+      "25": {
+        "source_ref": "Ephesians 5:25",
+        "source_chapter": 5,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "9eaaa5a2daf737a900e4f7c453159101a8da7496957535d55ac1d485cf6225a3"
+      },
+      "26": {
+        "source_ref": "Ephesians 5:26",
+        "source_chapter": 5,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "8ed3c4b53fd1876f8d23785fc923e88fec5d98eb029733a310d30fe78ae508b6"
+      },
+      "27": {
+        "source_ref": "Ephesians 5:27",
+        "source_chapter": 5,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "cf5559ac737fb281cdf177a947c6c42891d06e58e8c7d41f03591579b8c3f518"
+      },
+      "28": {
+        "source_ref": "Ephesians 5:28",
+        "source_chapter": 5,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "993b25cf95c4ea9c10479aa4fa585545e31acb9dbae0fd11702741fc6ba0df1e"
+      },
+      "29": {
+        "source_ref": "Ephesians 5:29",
+        "source_chapter": 5,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "5bddc785955e3addbbedbb20c411fc76aa4ccdf1a1b0dc303117fa741dd567a4"
+      },
+      "30": {
+        "source_ref": "Ephesians 5:30",
+        "source_chapter": 5,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "cc5dbce6c09be974c62ec40bd23b44a884b42896688b24ed5922d8ee01a53a6a"
+      },
+      "31": {
+        "source_ref": "Ephesians 5:31",
+        "source_chapter": 5,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "f10fe57839765b07819278be93e142747721517b2c0df3ebbb0d57e212efb4c0"
+      },
+      "32": {
+        "source_ref": "Ephesians 5:32",
+        "source_chapter": 5,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "4cab36df4b60c950f59d64a516c390ed276977e54181c6ceb906143909ad300c"
+      },
+      "33": {
+        "source_ref": "Ephesians 5:33",
+        "source_chapter": 5,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "62adaa40a6f5a8e03ec6a9a67ea043866f8fb1394616d32dd1c66e16b7e8b6c0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/ephesians/Ephesians_05.md",
+    "blob_sha": "8e068fba6beb1d18440586ce0717ac4594927ee3"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
