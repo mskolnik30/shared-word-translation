@@ -1,0 +1,90 @@
+{
+  "book": "Titus",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 3,
+  "public_verse_slots": 46,
+  "included_verse_labels": 46,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "truth and godliness",
+    "God/Christ Savior",
+    "sound teaching",
+    "leadership character",
+    "grace trains",
+    "good works",
+    "mercy",
+    "Spirit renewal",
+    "set right by grace",
+    "avoid divisive controversy"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "1:5-9",
+      "decision": "elder/overseer overlap retained; leadership as stewardship"
+    },
+    {
+      "location": "1:10,14",
+      "decision": "specific circumcision false teachers/Jewish myths not generalized to Jewish people or Scripture"
+    },
+    {
+      "location": "1:12-13",
+      "decision": "Cretan stereotype preserved as quotation/polemic, not universal ethnic claim"
+    },
+    {
+      "location": "2:11",
+      "decision": "grace brings salvation for all people retained"
+    },
+    {
+      "location": "2:13",
+      "decision": "our great God and Savior Jesus Christ retained as direct christological wording"
+    },
+    {
+      "location": "3:5",
+      "decision": "not by righteous works but mercy; washing/rebirth/Spirit imagery not reduced to one sacramental mechanism"
+    },
+    {
+      "location": "3:7",
+      "decision": "dikaioo = set right by grace"
+    },
+    {
+      "location": "3:10",
+      "decision": "hairetikos = divisive/factional, not later technical heretic label"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Titus.txt",
+    "git_blob_sha": "114ee929baff42f702b30553442010fe1ec84747"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "114ee929baff42f702b30553442010fe1ec84747",
+    "source_binding_count": 46,
+    "unique_source_record_count": 46,
+    "public_verse_slots": 46,
+    "ledger_summary": {
+      "F0": 1,
+      "F1": 12,
+      "F2": 19,
+      "F3": 14
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/titus/Titus_01.md",
+        "blob_sha": "f371f4473779fbbd028e4925a29526a5b641f9ea"
+      },
+      "02": {
+        "path": "books/NT/titus/Titus_02.md",
+        "blob_sha": "33a1fb937459b5d6e6633cd1eca14809e73c9324"
+      },
+      "03": {
+        "path": "books/NT/titus/Titus_03.md",
+        "blob_sha": "61fec39aeeae0652dd63b1ab38b02182c29d5a3a"
+      }
+    }
+  }
+}
