@@ -1,0 +1,546 @@
+{
+  "book": "Leviticus",
+  "chapter": 27,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Leviticus 27:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 1,
+            "source_ref": "Leviticus 27:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "2": {
+        "source_ref": "Leviticus 27:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 2,
+            "source_ref": "Leviticus 27:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "efd2ec05b664535a3d2de0ce07fcd344edb82485165dc267d55c75adfecc21d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "efd2ec05b664535a3d2de0ce07fcd344edb82485165dc267d55c75adfecc21d9"
+      },
+      "3": {
+        "source_ref": "Leviticus 27:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 3,
+            "source_ref": "Leviticus 27:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f2b0d87ce785ac7cc72338b959b02cee4e589526d32d9801564ee0a97d8db44f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2b0d87ce785ac7cc72338b959b02cee4e589526d32d9801564ee0a97d8db44f"
+      },
+      "4": {
+        "source_ref": "Leviticus 27:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 4,
+            "source_ref": "Leviticus 27:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ee5954b281ac8fdc098331ac7b4174af69ceb39d6ee344445dfc74a6033348b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee5954b281ac8fdc098331ac7b4174af69ceb39d6ee344445dfc74a6033348b9"
+      },
+      "5": {
+        "source_ref": "Leviticus 27:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 5,
+            "source_ref": "Leviticus 27:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "34666badd92a86a1992552242e25c4f8052943434368e28d1192349311fe716a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34666badd92a86a1992552242e25c4f8052943434368e28d1192349311fe716a"
+      },
+      "6": {
+        "source_ref": "Leviticus 27:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 6,
+            "source_ref": "Leviticus 27:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a56331cf459cb19df8a52b6ad441cad4dc5cb1b6d408432aed2af9680fb3bb6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a56331cf459cb19df8a52b6ad441cad4dc5cb1b6d408432aed2af9680fb3bb6"
+      },
+      "7": {
+        "source_ref": "Leviticus 27:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 7,
+            "source_ref": "Leviticus 27:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45b284f7729a0f44785493ea8d88f0bd243c8f69b5959a5fc3ac4ad099ef738d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45b284f7729a0f44785493ea8d88f0bd243c8f69b5959a5fc3ac4ad099ef738d"
+      },
+      "8": {
+        "source_ref": "Leviticus 27:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 8,
+            "source_ref": "Leviticus 27:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e8c8652fd4be828989acdb8cef1cafcc0675f5b2e260209dc13fd7740fdaf59e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8c8652fd4be828989acdb8cef1cafcc0675f5b2e260209dc13fd7740fdaf59e"
+      },
+      "9": {
+        "source_ref": "Leviticus 27:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 9,
+            "source_ref": "Leviticus 27:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "750ad72fce15eab32d13dd1825f9408edd192f72bed361b43189096e7189c7fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "750ad72fce15eab32d13dd1825f9408edd192f72bed361b43189096e7189c7fa"
+      },
+      "10": {
+        "source_ref": "Leviticus 27:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 10,
+            "source_ref": "Leviticus 27:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a393338e209b0fa1ec1d6d9a90f9ffed3d05b4f286079a5c5c5440ceed6fc350"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a393338e209b0fa1ec1d6d9a90f9ffed3d05b4f286079a5c5c5440ceed6fc350"
+      },
+      "11": {
+        "source_ref": "Leviticus 27:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 11,
+            "source_ref": "Leviticus 27:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec5f6a6385bd1a25aa6245e6cb31d1c2407c6466274a630dc164a2427d913420"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec5f6a6385bd1a25aa6245e6cb31d1c2407c6466274a630dc164a2427d913420"
+      },
+      "12": {
+        "source_ref": "Leviticus 27:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 12,
+            "source_ref": "Leviticus 27:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65c5fd29f4b4e3dd46b62cfc14047fea7c8a89f2abac393c48b2553c130b8f53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65c5fd29f4b4e3dd46b62cfc14047fea7c8a89f2abac393c48b2553c130b8f53"
+      },
+      "13": {
+        "source_ref": "Leviticus 27:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 13,
+            "source_ref": "Leviticus 27:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cbbed1cca828997f312c87b35b3cc2abc475d83a16d7fbb3577a9fce47095e4b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cbbed1cca828997f312c87b35b3cc2abc475d83a16d7fbb3577a9fce47095e4b"
+      },
+      "14": {
+        "source_ref": "Leviticus 27:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 14,
+            "source_ref": "Leviticus 27:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ca76bb3755eb5f05bc45831800d97af43d3946e7e780f6034356b4da6d89ad7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ca76bb3755eb5f05bc45831800d97af43d3946e7e780f6034356b4da6d89ad7"
+      },
+      "15": {
+        "source_ref": "Leviticus 27:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 15,
+            "source_ref": "Leviticus 27:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "66ef0c78fe6b1df4c3f47af1a7a21f08569818cf9459f7bcef4eba3c83653b68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "66ef0c78fe6b1df4c3f47af1a7a21f08569818cf9459f7bcef4eba3c83653b68"
+      },
+      "16": {
+        "source_ref": "Leviticus 27:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 16,
+            "source_ref": "Leviticus 27:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "53c998d1ce8db2577d8a68b8728dfdc586ca2cc7b539527c73a4bae6d2514636"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53c998d1ce8db2577d8a68b8728dfdc586ca2cc7b539527c73a4bae6d2514636"
+      },
+      "17": {
+        "source_ref": "Leviticus 27:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 17,
+            "source_ref": "Leviticus 27:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "26e74376ca22fcb240a79674e5ab518f1eb22cd22e87f3a21ffee919fbf36ac6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26e74376ca22fcb240a79674e5ab518f1eb22cd22e87f3a21ffee919fbf36ac6"
+      },
+      "18": {
+        "source_ref": "Leviticus 27:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 18,
+            "source_ref": "Leviticus 27:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8c55331e948b84fdfb8e47182f8e6f13d1a77302a61bbf336602ed6411f895ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c55331e948b84fdfb8e47182f8e6f13d1a77302a61bbf336602ed6411f895ed"
+      },
+      "19": {
+        "source_ref": "Leviticus 27:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 19,
+            "source_ref": "Leviticus 27:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "edfa8c6d285823dc6fea187b144b315d12ec131fa6be49b9e63c452b1d023d9d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "edfa8c6d285823dc6fea187b144b315d12ec131fa6be49b9e63c452b1d023d9d"
+      },
+      "20": {
+        "source_ref": "Leviticus 27:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 20,
+            "source_ref": "Leviticus 27:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2bbfe17c9dda1ea113e5b57ed118ccecafd0467ab93db81336ab5a9466b8fa9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2bbfe17c9dda1ea113e5b57ed118ccecafd0467ab93db81336ab5a9466b8fa9"
+      },
+      "21": {
+        "source_ref": "Leviticus 27:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 21,
+            "source_ref": "Leviticus 27:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a41c76bd685bdfb5ce6e99be7e7eddba5551169120e6fa5f3a844f96d30315c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a41c76bd685bdfb5ce6e99be7e7eddba5551169120e6fa5f3a844f96d30315c"
+      },
+      "22": {
+        "source_ref": "Leviticus 27:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 22,
+            "source_ref": "Leviticus 27:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0b08925ebdd61afac06b79c0d39833ad733d8b60cf3c71c2b8402804a7ebb486"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b08925ebdd61afac06b79c0d39833ad733d8b60cf3c71c2b8402804a7ebb486"
+      },
+      "23": {
+        "source_ref": "Leviticus 27:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 23,
+            "source_ref": "Leviticus 27:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dfd1326fce44b5f3e5499ad5fb9525b775307ba921a9355720a188a243183c1a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfd1326fce44b5f3e5499ad5fb9525b775307ba921a9355720a188a243183c1a"
+      },
+      "24": {
+        "source_ref": "Leviticus 27:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 24,
+            "source_ref": "Leviticus 27:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c4101c0b6aef1e4f6f978e469a3870ab58b3873420f841b8cde2f736f0f75861"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c4101c0b6aef1e4f6f978e469a3870ab58b3873420f841b8cde2f736f0f75861"
+      },
+      "25": {
+        "source_ref": "Leviticus 27:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 25,
+            "source_ref": "Leviticus 27:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "89796ff4714a5c89bfa2917d4c4ca7dc89bbe7964bb2fa2e3b0687d0cf4c8f60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89796ff4714a5c89bfa2917d4c4ca7dc89bbe7964bb2fa2e3b0687d0cf4c8f60"
+      },
+      "26": {
+        "source_ref": "Leviticus 27:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 26,
+            "source_ref": "Leviticus 27:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c18d58a88a4daa41fef4f3bace63841f5a8747fae5ba615aa630eaacb6b56788"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c18d58a88a4daa41fef4f3bace63841f5a8747fae5ba615aa630eaacb6b56788"
+      },
+      "27": {
+        "source_ref": "Leviticus 27:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 27,
+            "source_ref": "Leviticus 27:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bb89a92820ab388695aeb03b3d69241d8d612495a097b35f4ecf5dad4d5a73c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb89a92820ab388695aeb03b3d69241d8d612495a097b35f4ecf5dad4d5a73c1"
+      },
+      "28": {
+        "source_ref": "Leviticus 27:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 28,
+            "source_ref": "Leviticus 27:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b4d40938d6efeaaa6fd06d6ee2dc8564d60cb2c923ae251e1b4f7dd92121c48"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b4d40938d6efeaaa6fd06d6ee2dc8564d60cb2c923ae251e1b4f7dd92121c48"
+      },
+      "29": {
+        "source_ref": "Leviticus 27:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 29,
+            "source_ref": "Leviticus 27:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77c565adafa5774e883540185c3524ebe25d98ee319b734dc12cc9c01c289a6e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77c565adafa5774e883540185c3524ebe25d98ee319b734dc12cc9c01c289a6e"
+      },
+      "30": {
+        "source_ref": "Leviticus 27:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 30,
+            "source_ref": "Leviticus 27:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82cc8320f99e69d049bd1a356b4af0c536c5ab3f65f11ab8994fffb0cb60e93e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82cc8320f99e69d049bd1a356b4af0c536c5ab3f65f11ab8994fffb0cb60e93e"
+      },
+      "31": {
+        "source_ref": "Leviticus 27:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 31,
+            "source_ref": "Leviticus 27:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84ba319701f093657f64d63c8d3e4604c1693b18e0b2643dca69e3a0d7e7c21b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84ba319701f093657f64d63c8d3e4604c1693b18e0b2643dca69e3a0d7e7c21b"
+      },
+      "32": {
+        "source_ref": "Leviticus 27:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 32,
+            "source_ref": "Leviticus 27:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b25971d09f930a7ee79aebf8435ad874b619bbe5260aa6547b6f921986a1c93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b25971d09f930a7ee79aebf8435ad874b619bbe5260aa6547b6f921986a1c93"
+      },
+      "33": {
+        "source_ref": "Leviticus 27:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 33,
+            "source_ref": "Leviticus 27:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac4c8c72b8d168c5d0d0435966bafb5212cd3641f9e01f94e82396525e693851"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac4c8c72b8d168c5d0d0435966bafb5212cd3641f9e01f94e82396525e693851"
+      },
+      "34": {
+        "source_ref": "Leviticus 27:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 34,
+            "source_ref": "Leviticus 27:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "933e6a36934d2f87426591bf15aa65792253c3e977e54b87b17621a9485b5a16"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "933e6a36934d2f87426591bf15aa65792253c3e977e54b87b17621a9485b5a16"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/leviticus/Leviticus_27.md",
+    "blob_sha": "b382b030ef5911f160d32df3ffa46a8087526dfb"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

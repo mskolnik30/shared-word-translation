@@ -1,0 +1,178 @@
+{
+  "book": "Leviticus",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 27,
+  "public_verse_slots": 859,
+  "included_verse_labels": 859,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 859,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-7:38",
+      "decision": "Preserve distinctions among offerings and their ritual functions rather than flattening all sacrifice into one theory.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:1-10:20",
+      "decision": "Keep priestly ordination, unauthorized fire, death, grief, and responsibility without inventing motives.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:1-15:33",
+      "decision": "Translate ritual purity categories accurately without equating impurity with moral inferiority.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "16:1-34",
+      "decision": "Retain the Day of Atonement's purification, two-goat ritual, priestly limits, and communal scope.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "17:1-22:33",
+      "decision": "Keep holiness laws historically situated, including difficult sexual and penal texts; do not weaponize them against vulnerable people.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "23:1-25:55",
+      "decision": "Preserve festivals, Sabbath, land rest, release, kinship, and Jubilee's economic claims.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "26:1-27:34",
+      "decision": "Keep covenant blessing, terror, exile, restoration, vows, and valuation in their literary setting.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614",
+    "source_binding_count": 859,
+    "unique_source_record_count": 859,
+    "public_verse_slots": 859,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 859
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/leviticus/Leviticus_01.md",
+        "blob_sha": "7cd48b781219a6462656ac89e267aabd4495eab9"
+      },
+      "02": {
+        "path": "books/OT/leviticus/Leviticus_02.md",
+        "blob_sha": "1aa916d678285fadba89d7a0bacedcf5e4235bf5"
+      },
+      "03": {
+        "path": "books/OT/leviticus/Leviticus_03.md",
+        "blob_sha": "578b53efac52480140c02a20ecc4dc419f2ada10"
+      },
+      "04": {
+        "path": "books/OT/leviticus/Leviticus_04.md",
+        "blob_sha": "6a81a0f6ca8aa1f9b5aa472f1b9243b65cff680e"
+      },
+      "05": {
+        "path": "books/OT/leviticus/Leviticus_05.md",
+        "blob_sha": "3d11c84351910ff5955a6ffea17c6aaad5a9baac"
+      },
+      "06": {
+        "path": "books/OT/leviticus/Leviticus_06.md",
+        "blob_sha": "8c0a83698f4a4929ea857d4cf6b96fe23e63c9df"
+      },
+      "07": {
+        "path": "books/OT/leviticus/Leviticus_07.md",
+        "blob_sha": "960e0b08db4b1709a4a85478c108feec3e0a1750"
+      },
+      "08": {
+        "path": "books/OT/leviticus/Leviticus_08.md",
+        "blob_sha": "cd364918476b29a528f77aa52c34c4ed47a70dc5"
+      },
+      "09": {
+        "path": "books/OT/leviticus/Leviticus_09.md",
+        "blob_sha": "ea2748289a8064f8dd4778c04ad56a57b552631b"
+      },
+      "10": {
+        "path": "books/OT/leviticus/Leviticus_10.md",
+        "blob_sha": "5d251ba61a8def3e39977182f4974be90e854a2b"
+      },
+      "11": {
+        "path": "books/OT/leviticus/Leviticus_11.md",
+        "blob_sha": "de44d100878bb3ac801e5671affa7012322d47e3"
+      },
+      "12": {
+        "path": "books/OT/leviticus/Leviticus_12.md",
+        "blob_sha": "cf786b03bfe15a456f96e2cf0be517d9cda0e7e3"
+      },
+      "13": {
+        "path": "books/OT/leviticus/Leviticus_13.md",
+        "blob_sha": "25201e50bbd490795be32c6b39fee38434ed0332"
+      },
+      "14": {
+        "path": "books/OT/leviticus/Leviticus_14.md",
+        "blob_sha": "aa0e68ab48dd319ec0d6c245788604e032c7b52d"
+      },
+      "15": {
+        "path": "books/OT/leviticus/Leviticus_15.md",
+        "blob_sha": "890c737cd153a638d82d16efdf98adb412ac5a8c"
+      },
+      "16": {
+        "path": "books/OT/leviticus/Leviticus_16.md",
+        "blob_sha": "be416e12d7092ecd1114bbdde8ff5d06dd9adaac"
+      },
+      "17": {
+        "path": "books/OT/leviticus/Leviticus_17.md",
+        "blob_sha": "a212b344c27cb4654c311a4ea052fae59d3ed6d6"
+      },
+      "18": {
+        "path": "books/OT/leviticus/Leviticus_18.md",
+        "blob_sha": "976129cb85642ecdf37333ea622f7c8993c210b1"
+      },
+      "19": {
+        "path": "books/OT/leviticus/Leviticus_19.md",
+        "blob_sha": "bc58e09d9b0ef80b8e90a45628c53ac7a9a10587"
+      },
+      "20": {
+        "path": "books/OT/leviticus/Leviticus_20.md",
+        "blob_sha": "9d9f4b738fc2d8b818a4526c7a8c1d9441ba2a60"
+      },
+      "21": {
+        "path": "books/OT/leviticus/Leviticus_21.md",
+        "blob_sha": "bbc666b2b0aae18142009450795478d9c74748be"
+      },
+      "22": {
+        "path": "books/OT/leviticus/Leviticus_22.md",
+        "blob_sha": "2ba03f197a080165bf6b95eb72effbf3854fd4b9"
+      },
+      "23": {
+        "path": "books/OT/leviticus/Leviticus_23.md",
+        "blob_sha": "e4bfe569ebee5d08f7b3a826aea6a43ce159ec0a"
+      },
+      "24": {
+        "path": "books/OT/leviticus/Leviticus_24.md",
+        "blob_sha": "4c5093dd4f1f7d075de4b395028af9e83032ec4c"
+      },
+      "25": {
+        "path": "books/OT/leviticus/Leviticus_25.md",
+        "blob_sha": "28f1b15ce1408711c9cd641daac216bd1bd5990f"
+      },
+      "26": {
+        "path": "books/OT/leviticus/Leviticus_26.md",
+        "blob_sha": "790029a9e9ee214d178e94b2f87bec473b243550"
+      },
+      "27": {
+        "path": "books/OT/leviticus/Leviticus_27.md",
+        "blob_sha": "b382b030ef5911f160d32df3ffa46a8087526dfb"
+      }
+    }
+  }
+}

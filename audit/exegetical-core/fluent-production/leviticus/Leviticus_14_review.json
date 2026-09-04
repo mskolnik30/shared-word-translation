@@ -1,0 +1,891 @@
+{
+  "book": "Leviticus",
+  "chapter": 14,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Leviticus 14:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 1,
+            "source_ref": "Leviticus 14:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "2": {
+        "source_ref": "Leviticus 14:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 2,
+            "source_ref": "Leviticus 14:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "38803d8d9e2514433fca0bf2ab2cfa4bfb5ab932319acc332557c66ac53b553f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38803d8d9e2514433fca0bf2ab2cfa4bfb5ab932319acc332557c66ac53b553f"
+      },
+      "3": {
+        "source_ref": "Leviticus 14:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 3,
+            "source_ref": "Leviticus 14:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ad2166564091201dffc161b9b729d0f4e34c5ddae2e5940a9efe184a810557ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad2166564091201dffc161b9b729d0f4e34c5ddae2e5940a9efe184a810557ba"
+      },
+      "4": {
+        "source_ref": "Leviticus 14:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 4,
+            "source_ref": "Leviticus 14:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "78006d0355079ecda638f45f9d04cb72d9d657347e12f7275073f9e87fbd7690"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78006d0355079ecda638f45f9d04cb72d9d657347e12f7275073f9e87fbd7690"
+      },
+      "5": {
+        "source_ref": "Leviticus 14:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 5,
+            "source_ref": "Leviticus 14:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b361b700f0c5a2d3841e7c01514aca950cc7aecf78086152f2800f7e6bb282a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b361b700f0c5a2d3841e7c01514aca950cc7aecf78086152f2800f7e6bb282a7"
+      },
+      "6": {
+        "source_ref": "Leviticus 14:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 6,
+            "source_ref": "Leviticus 14:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b222c6cf822aa5fc5aa637f2daeee4ff1467d075d751ed5a74937ffbd54763cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b222c6cf822aa5fc5aa637f2daeee4ff1467d075d751ed5a74937ffbd54763cb"
+      },
+      "7": {
+        "source_ref": "Leviticus 14:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 7,
+            "source_ref": "Leviticus 14:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f625950ebfaff8d8be9dcd2176cbb03d60d87aa26fefe9ce15c061818b58abc9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f625950ebfaff8d8be9dcd2176cbb03d60d87aa26fefe9ce15c061818b58abc9"
+      },
+      "8": {
+        "source_ref": "Leviticus 14:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 8,
+            "source_ref": "Leviticus 14:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "711592555ebad66c9f9c62c28dcc30bd41ac52346e67d5d689ba04f2e7f3d125"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "711592555ebad66c9f9c62c28dcc30bd41ac52346e67d5d689ba04f2e7f3d125"
+      },
+      "9": {
+        "source_ref": "Leviticus 14:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 9,
+            "source_ref": "Leviticus 14:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "242aa4da7d13f75cca02b84c72018fc1b9862d1431dfe0e39c66e75c17b0f18f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "242aa4da7d13f75cca02b84c72018fc1b9862d1431dfe0e39c66e75c17b0f18f"
+      },
+      "10": {
+        "source_ref": "Leviticus 14:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 10,
+            "source_ref": "Leviticus 14:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73987570837a32f8e83237459fdefcda5948cde40e11ae539af8289a5dd80652"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73987570837a32f8e83237459fdefcda5948cde40e11ae539af8289a5dd80652"
+      },
+      "11": {
+        "source_ref": "Leviticus 14:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 11,
+            "source_ref": "Leviticus 14:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4c30a67f010de04201318d8ec5fe97179c2ca2cd3592bd199c2952159eb5b483"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c30a67f010de04201318d8ec5fe97179c2ca2cd3592bd199c2952159eb5b483"
+      },
+      "12": {
+        "source_ref": "Leviticus 14:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 12,
+            "source_ref": "Leviticus 14:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f14296a2596aca1d6f71fbf0baff8d282bb31db3620153113c325025fd12c4ae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f14296a2596aca1d6f71fbf0baff8d282bb31db3620153113c325025fd12c4ae"
+      },
+      "13": {
+        "source_ref": "Leviticus 14:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 13,
+            "source_ref": "Leviticus 14:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1e0069565b323fdda8d9e287d0d07175600d81d47dd6c0e9742716e97e9a3a79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e0069565b323fdda8d9e287d0d07175600d81d47dd6c0e9742716e97e9a3a79"
+      },
+      "14": {
+        "source_ref": "Leviticus 14:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 14,
+            "source_ref": "Leviticus 14:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "18b8d233c531ebbef45a545a856fe54f15c9b009fa97a0954038c78518a9a3da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18b8d233c531ebbef45a545a856fe54f15c9b009fa97a0954038c78518a9a3da"
+      },
+      "15": {
+        "source_ref": "Leviticus 14:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 15,
+            "source_ref": "Leviticus 14:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "50242849fc87161bdcb08cbd7687a439592544eeefa35c7d621f63efcb8efadf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50242849fc87161bdcb08cbd7687a439592544eeefa35c7d621f63efcb8efadf"
+      },
+      "16": {
+        "source_ref": "Leviticus 14:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 16,
+            "source_ref": "Leviticus 14:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "940a8486960b0d7a05cfa988f796497c9c6204368aa1e1303dbf4cdcfd4652d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "940a8486960b0d7a05cfa988f796497c9c6204368aa1e1303dbf4cdcfd4652d0"
+      },
+      "17": {
+        "source_ref": "Leviticus 14:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 17,
+            "source_ref": "Leviticus 14:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "072585b9f72fdd11fb56493facb9d5b6345f17d15dd3cc14783d9d4ae7bc7232"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "072585b9f72fdd11fb56493facb9d5b6345f17d15dd3cc14783d9d4ae7bc7232"
+      },
+      "18": {
+        "source_ref": "Leviticus 14:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 18,
+            "source_ref": "Leviticus 14:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a7b967d3b66ee890578efd2af141ade1c4282c88e1985eaf40422dee4b67a266"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a7b967d3b66ee890578efd2af141ade1c4282c88e1985eaf40422dee4b67a266"
+      },
+      "19": {
+        "source_ref": "Leviticus 14:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 19,
+            "source_ref": "Leviticus 14:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4737459f5d7fc9281428fc9985194fc01b45606851558eb596a73e0b302159db"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4737459f5d7fc9281428fc9985194fc01b45606851558eb596a73e0b302159db"
+      },
+      "20": {
+        "source_ref": "Leviticus 14:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 20,
+            "source_ref": "Leviticus 14:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c5f1f95bf95236115f034547b6bbfceb678b17aaf4c64e62a13d0aedb07ad8b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c5f1f95bf95236115f034547b6bbfceb678b17aaf4c64e62a13d0aedb07ad8b9"
+      },
+      "21": {
+        "source_ref": "Leviticus 14:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 21,
+            "source_ref": "Leviticus 14:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bb17b0d2cd7c9bff2e1df2b5acab83b894acf62379daaa187b3c16f8fa4723e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb17b0d2cd7c9bff2e1df2b5acab83b894acf62379daaa187b3c16f8fa4723e7"
+      },
+      "22": {
+        "source_ref": "Leviticus 14:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 22,
+            "source_ref": "Leviticus 14:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0d7eccf2769900218b957bebbb773abdc5f8059c98f869f5150c8f3fb34821c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d7eccf2769900218b957bebbb773abdc5f8059c98f869f5150c8f3fb34821c1"
+      },
+      "23": {
+        "source_ref": "Leviticus 14:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 23,
+            "source_ref": "Leviticus 14:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5f62d22ebffdd51c610bf64d501e312dab5ea1d3097601a17669e66456983e2e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f62d22ebffdd51c610bf64d501e312dab5ea1d3097601a17669e66456983e2e"
+      },
+      "24": {
+        "source_ref": "Leviticus 14:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 24,
+            "source_ref": "Leviticus 14:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "89b99c061ee1c1d06d5dcfc9f172b9366af7dcad10efbbf76177384b4d1992bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89b99c061ee1c1d06d5dcfc9f172b9366af7dcad10efbbf76177384b4d1992bf"
+      },
+      "25": {
+        "source_ref": "Leviticus 14:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 25,
+            "source_ref": "Leviticus 14:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56de02119f203fac9d1dff57cbe216f4cd2f079739125f9c0c0940764f61e70a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56de02119f203fac9d1dff57cbe216f4cd2f079739125f9c0c0940764f61e70a"
+      },
+      "26": {
+        "source_ref": "Leviticus 14:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 26,
+            "source_ref": "Leviticus 14:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "840e67b7e9acad01456307720b5332eae06b9408d0580f9f92f22cf1033a92fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "840e67b7e9acad01456307720b5332eae06b9408d0580f9f92f22cf1033a92fa"
+      },
+      "27": {
+        "source_ref": "Leviticus 14:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 27,
+            "source_ref": "Leviticus 14:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c46a0b7f63b1a676e7335536cb94c777c60a86e549764d3fb7437a39b512b3db"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c46a0b7f63b1a676e7335536cb94c777c60a86e549764d3fb7437a39b512b3db"
+      },
+      "28": {
+        "source_ref": "Leviticus 14:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 28,
+            "source_ref": "Leviticus 14:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f125e2ed77562a78abb062f4569dff9d3f843b1ca1bebeb76e4d0e2492af6aef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f125e2ed77562a78abb062f4569dff9d3f843b1ca1bebeb76e4d0e2492af6aef"
+      },
+      "29": {
+        "source_ref": "Leviticus 14:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 29,
+            "source_ref": "Leviticus 14:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "716741ab51505ad68213a6e40a87170c519d923a330a622bbcbef290128289d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "716741ab51505ad68213a6e40a87170c519d923a330a622bbcbef290128289d3"
+      },
+      "30": {
+        "source_ref": "Leviticus 14:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 30,
+            "source_ref": "Leviticus 14:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae3d9f0578c178ea0db2bc39b810fbca853d14c5b96afe95b2d9cdbe1404c0a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae3d9f0578c178ea0db2bc39b810fbca853d14c5b96afe95b2d9cdbe1404c0a3"
+      },
+      "31": {
+        "source_ref": "Leviticus 14:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 31,
+            "source_ref": "Leviticus 14:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "16798d0f73e20853dee772f6bdf002875041d792b688eab117c7c57f36a5beaf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16798d0f73e20853dee772f6bdf002875041d792b688eab117c7c57f36a5beaf"
+      },
+      "32": {
+        "source_ref": "Leviticus 14:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 32,
+            "source_ref": "Leviticus 14:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72e4fcda8d6671dd7efc60f3c0ee0e8ec1a2fee1843cea7ac677849e89a20a5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72e4fcda8d6671dd7efc60f3c0ee0e8ec1a2fee1843cea7ac677849e89a20a5d"
+      },
+      "33": {
+        "source_ref": "Leviticus 14:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 33,
+            "source_ref": "Leviticus 14:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "145a33acee99923d20f15e3f2864555e7102bdb753d3c201a6814cbf2ea8cf5e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "145a33acee99923d20f15e3f2864555e7102bdb753d3c201a6814cbf2ea8cf5e"
+      },
+      "34": {
+        "source_ref": "Leviticus 14:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 34,
+            "source_ref": "Leviticus 14:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56b3b620d48929411c1684d747cd2c9e8364564cb5c8feb2045528be13d96289"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56b3b620d48929411c1684d747cd2c9e8364564cb5c8feb2045528be13d96289"
+      },
+      "35": {
+        "source_ref": "Leviticus 14:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 35,
+            "source_ref": "Leviticus 14:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1e987f73da2da63a2a00fc944c5760c0ff61619253031fe06078840c9415f66c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e987f73da2da63a2a00fc944c5760c0ff61619253031fe06078840c9415f66c"
+      },
+      "36": {
+        "source_ref": "Leviticus 14:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 36,
+            "source_ref": "Leviticus 14:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6cc4ea069e2cef6d6272d3fbcf1e24eb6decd6b0978b2b73aded70c7881bd9cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6cc4ea069e2cef6d6272d3fbcf1e24eb6decd6b0978b2b73aded70c7881bd9cb"
+      },
+      "37": {
+        "source_ref": "Leviticus 14:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 37,
+            "source_ref": "Leviticus 14:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8fa1754e0b4069c308983cc1acc188e56ec4f6964a77eb9a29b993cdf8ac95c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8fa1754e0b4069c308983cc1acc188e56ec4f6964a77eb9a29b993cdf8ac95c"
+      },
+      "38": {
+        "source_ref": "Leviticus 14:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 38,
+            "source_ref": "Leviticus 14:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "540b580db01dfce91f15b26697f32998ce33d92d5309e19852bcddb949bf3ea7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "540b580db01dfce91f15b26697f32998ce33d92d5309e19852bcddb949bf3ea7"
+      },
+      "39": {
+        "source_ref": "Leviticus 14:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 39,
+            "source_ref": "Leviticus 14:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0fd5bf30c1af77f628830138ec4f9fadfd59f27cafbaa32712fd3a7b0216ea97"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0fd5bf30c1af77f628830138ec4f9fadfd59f27cafbaa32712fd3a7b0216ea97"
+      },
+      "40": {
+        "source_ref": "Leviticus 14:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 40,
+            "source_ref": "Leviticus 14:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "258092d351770229e7fca4bc248f723602aac958ed9a6ceac934501170511507"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "258092d351770229e7fca4bc248f723602aac958ed9a6ceac934501170511507"
+      },
+      "41": {
+        "source_ref": "Leviticus 14:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 41,
+            "source_ref": "Leviticus 14:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "702af333a991b1f5ecd2f2176d9c26cc3067360b363d360ef748dd4760c9d5fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "702af333a991b1f5ecd2f2176d9c26cc3067360b363d360ef748dd4760c9d5fd"
+      },
+      "42": {
+        "source_ref": "Leviticus 14:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 42,
+            "source_ref": "Leviticus 14:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8020e74be43cc396142b8e44263ae2b84b3dbc5816311526453319ba85f74cc1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8020e74be43cc396142b8e44263ae2b84b3dbc5816311526453319ba85f74cc1"
+      },
+      "43": {
+        "source_ref": "Leviticus 14:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 43,
+            "source_ref": "Leviticus 14:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5776b75e15abdcc84ecd2e50a62d28979d148e220e95cd795a6d11f225db9262"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5776b75e15abdcc84ecd2e50a62d28979d148e220e95cd795a6d11f225db9262"
+      },
+      "44": {
+        "source_ref": "Leviticus 14:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 44,
+            "source_ref": "Leviticus 14:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d2bec83ce27b5e7507813e48e71911e424d2737e158113cdea23eafb6be595b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d2bec83ce27b5e7507813e48e71911e424d2737e158113cdea23eafb6be595b"
+      },
+      "45": {
+        "source_ref": "Leviticus 14:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 45,
+            "source_ref": "Leviticus 14:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed8f06db7bce80666e6b65635b44cab1b9c92968f6724186aae8910b5421afe1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed8f06db7bce80666e6b65635b44cab1b9c92968f6724186aae8910b5421afe1"
+      },
+      "46": {
+        "source_ref": "Leviticus 14:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 46,
+            "source_ref": "Leviticus 14:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ef809f8d17e94ef3d7beaadd887bce0d14fcb2f4181c1a1201eae2cf3fa66aea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef809f8d17e94ef3d7beaadd887bce0d14fcb2f4181c1a1201eae2cf3fa66aea"
+      },
+      "47": {
+        "source_ref": "Leviticus 14:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 47,
+            "source_ref": "Leviticus 14:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d57639d2d77854dd634bd83f2a596b6b5a31d3bb20abf796871f0c8689f5e51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d57639d2d77854dd634bd83f2a596b6b5a31d3bb20abf796871f0c8689f5e51"
+      },
+      "48": {
+        "source_ref": "Leviticus 14:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 48,
+            "source_ref": "Leviticus 14:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "02d1aedff6cb504c840e0bdc79902521e6b083d44bb3fc692cd4a607094066dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02d1aedff6cb504c840e0bdc79902521e6b083d44bb3fc692cd4a607094066dc"
+      },
+      "49": {
+        "source_ref": "Leviticus 14:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 49,
+            "source_ref": "Leviticus 14:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc1086bbd3cf4fc765edd153400b4a89def9bc8b3ca635edc34957fa79be0611"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc1086bbd3cf4fc765edd153400b4a89def9bc8b3ca635edc34957fa79be0611"
+      },
+      "50": {
+        "source_ref": "Leviticus 14:50 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 50,
+            "source_ref": "Leviticus 14:50 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1683feba2492de532106d3532f2967e66d158387f00925073151081cf4c54115"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1683feba2492de532106d3532f2967e66d158387f00925073151081cf4c54115"
+      },
+      "51": {
+        "source_ref": "Leviticus 14:51 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 51,
+            "source_ref": "Leviticus 14:51 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dfb00f93015106fba9a8227188ebe2d8bfcaca33f8d5f95f4bab30499bb6b6e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfb00f93015106fba9a8227188ebe2d8bfcaca33f8d5f95f4bab30499bb6b6e6"
+      },
+      "52": {
+        "source_ref": "Leviticus 14:52 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 52,
+            "source_ref": "Leviticus 14:52 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "96df03f33e0b01b856933626a73e4a6e74b0d1e6ace80ca64c534fe66a948ae6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96df03f33e0b01b856933626a73e4a6e74b0d1e6ace80ca64c534fe66a948ae6"
+      },
+      "53": {
+        "source_ref": "Leviticus 14:53 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 53,
+            "source_ref": "Leviticus 14:53 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62412547b76305ed226111aee83bfd76da6054fae8d9e907b3f23536caca5339"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62412547b76305ed226111aee83bfd76da6054fae8d9e907b3f23536caca5339"
+      },
+      "54": {
+        "source_ref": "Leviticus 14:54 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 54,
+            "source_ref": "Leviticus 14:54 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f46bd85659af6d10a8543e3c83ca4f35a20618a3cf4af2d7614d0cde62b843a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f46bd85659af6d10a8543e3c83ca4f35a20618a3cf4af2d7614d0cde62b843a2"
+      },
+      "55": {
+        "source_ref": "Leviticus 14:55 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 55,
+            "source_ref": "Leviticus 14:55 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63de5e033649d12fd40353ac0b8b2eca6fe3dc5e1ffb687fd2857875b76e1634"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63de5e033649d12fd40353ac0b8b2eca6fe3dc5e1ffb687fd2857875b76e1634"
+      },
+      "56": {
+        "source_ref": "Leviticus 14:56 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 56,
+            "source_ref": "Leviticus 14:56 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "550a40624b86722551f48cb78dbfefe360104d261441b710bfd24027d82149ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "550a40624b86722551f48cb78dbfefe360104d261441b710bfd24027d82149ce"
+      },
+      "57": {
+        "source_ref": "Leviticus 14:57 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 57,
+            "source_ref": "Leviticus 14:57 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9ffb310a97e9871d9ea8843c106ea9b9a6265c9bcfb57c6ad4c4f69859c7079"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9ffb310a97e9871d9ea8843c106ea9b9a6265c9bcfb57c6ad4c4f69859c7079"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/leviticus/Leviticus_14.md",
+    "blob_sha": "aa0e68ab48dd319ec0d6c245788604e032c7b52d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

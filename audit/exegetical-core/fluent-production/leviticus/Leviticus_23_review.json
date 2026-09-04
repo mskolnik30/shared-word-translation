@@ -1,0 +1,702 @@
+{
+  "book": "Leviticus",
+  "chapter": 23,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "23:1-25:55",
+      "decision": "Preserve festivals, Sabbath, land rest, release, kinship, and Jubilee's economic claims.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Leviticus 23:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 1,
+            "source_ref": "Leviticus 23:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "2": {
+        "source_ref": "Leviticus 23:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 2,
+            "source_ref": "Leviticus 23:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e9ba52665191883a9043cfd00ce885449c6dc18e8dcd25bbceab099ee261b77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e9ba52665191883a9043cfd00ce885449c6dc18e8dcd25bbceab099ee261b77"
+      },
+      "3": {
+        "source_ref": "Leviticus 23:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 3,
+            "source_ref": "Leviticus 23:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "226b9cd5e1f6f1be3129cbd57c13bce351d868cc34fec166fc1660c792fb3e2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "226b9cd5e1f6f1be3129cbd57c13bce351d868cc34fec166fc1660c792fb3e2d"
+      },
+      "4": {
+        "source_ref": "Leviticus 23:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 4,
+            "source_ref": "Leviticus 23:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "774b08e38275cd9feda0dc0e1b60e8631c33d4bc78f5bc317a96dbfee80ad015"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "774b08e38275cd9feda0dc0e1b60e8631c33d4bc78f5bc317a96dbfee80ad015"
+      },
+      "5": {
+        "source_ref": "Leviticus 23:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 5,
+            "source_ref": "Leviticus 23:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1856e1c0500aeaf47ca40dceacc214024ea52c7719b56451b3f10efd9da8394f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1856e1c0500aeaf47ca40dceacc214024ea52c7719b56451b3f10efd9da8394f"
+      },
+      "6": {
+        "source_ref": "Leviticus 23:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 6,
+            "source_ref": "Leviticus 23:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f8cbbd5289360289c9b9e15de2c4174b75459b8966046be5474d9ade8bbc6eaa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8cbbd5289360289c9b9e15de2c4174b75459b8966046be5474d9ade8bbc6eaa"
+      },
+      "7": {
+        "source_ref": "Leviticus 23:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 7,
+            "source_ref": "Leviticus 23:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "072a577b661d707ccf792f4de264ebc7bc3e7c63173f565149cff2e57563e4d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "072a577b661d707ccf792f4de264ebc7bc3e7c63173f565149cff2e57563e4d9"
+      },
+      "8": {
+        "source_ref": "Leviticus 23:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 8,
+            "source_ref": "Leviticus 23:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f8bac400d242c1f90cf84cf29acd7f226b9676bc14998c2ee98e3cedc23fef5b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8bac400d242c1f90cf84cf29acd7f226b9676bc14998c2ee98e3cedc23fef5b"
+      },
+      "9": {
+        "source_ref": "Leviticus 23:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 9,
+            "source_ref": "Leviticus 23:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "10": {
+        "source_ref": "Leviticus 23:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 10,
+            "source_ref": "Leviticus 23:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2ae902a7836c37c1c349d0c253b65b3b4d059ce1756517a04e30188dbc827013"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ae902a7836c37c1c349d0c253b65b3b4d059ce1756517a04e30188dbc827013"
+      },
+      "11": {
+        "source_ref": "Leviticus 23:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 11,
+            "source_ref": "Leviticus 23:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d9837af26398e087bbb7ee068cbc87ba65e4066eb956c5024504b73e2047449c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9837af26398e087bbb7ee068cbc87ba65e4066eb956c5024504b73e2047449c"
+      },
+      "12": {
+        "source_ref": "Leviticus 23:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 12,
+            "source_ref": "Leviticus 23:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3f7f55ae4a5c67c5296f268d5f1a1e7ce15f61442608d36832bb10f1217a8d9d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f7f55ae4a5c67c5296f268d5f1a1e7ce15f61442608d36832bb10f1217a8d9d"
+      },
+      "13": {
+        "source_ref": "Leviticus 23:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 13,
+            "source_ref": "Leviticus 23:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "12ad03da301b3b3a8da563acf281e94c4cc9510ca4810dc7bdb88953e1351b2f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12ad03da301b3b3a8da563acf281e94c4cc9510ca4810dc7bdb88953e1351b2f"
+      },
+      "14": {
+        "source_ref": "Leviticus 23:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 14,
+            "source_ref": "Leviticus 23:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a28ed7876ea44ddc453fa3c03de81e66bc9cbfe3680fd828c07e6b3986d87e0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a28ed7876ea44ddc453fa3c03de81e66bc9cbfe3680fd828c07e6b3986d87e0c"
+      },
+      "15": {
+        "source_ref": "Leviticus 23:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 15,
+            "source_ref": "Leviticus 23:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "575d1c519cf5cf16ef93bd6fdca1d3c8c99d79a1437702caa0f619943040600e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "575d1c519cf5cf16ef93bd6fdca1d3c8c99d79a1437702caa0f619943040600e"
+      },
+      "16": {
+        "source_ref": "Leviticus 23:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 16,
+            "source_ref": "Leviticus 23:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "15d9bd73f5cec3e4b6c5d4d8c4e49c5728818df8baa083435c51c6a7d58bab77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "15d9bd73f5cec3e4b6c5d4d8c4e49c5728818df8baa083435c51c6a7d58bab77"
+      },
+      "17": {
+        "source_ref": "Leviticus 23:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 17,
+            "source_ref": "Leviticus 23:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5440fa2a502abab1df2eeef5540c7f63d2f185545859d7c870298d19d2c90fba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5440fa2a502abab1df2eeef5540c7f63d2f185545859d7c870298d19d2c90fba"
+      },
+      "18": {
+        "source_ref": "Leviticus 23:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 18,
+            "source_ref": "Leviticus 23:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "699d0fa4725ece5d1d08c49ce9aa61e6c150b0d86a2c287b2a3ccb2427bc6ec3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "699d0fa4725ece5d1d08c49ce9aa61e6c150b0d86a2c287b2a3ccb2427bc6ec3"
+      },
+      "19": {
+        "source_ref": "Leviticus 23:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 19,
+            "source_ref": "Leviticus 23:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dd2b7fcb359966babd1497125003a7199c10b1495a1ce74cc4397f2715d4899a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd2b7fcb359966babd1497125003a7199c10b1495a1ce74cc4397f2715d4899a"
+      },
+      "20": {
+        "source_ref": "Leviticus 23:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 20,
+            "source_ref": "Leviticus 23:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d17f2e848631de15e9dd5ef5a9c8323063e0c8edf3e1f5f276fa0a4e89700d15"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d17f2e848631de15e9dd5ef5a9c8323063e0c8edf3e1f5f276fa0a4e89700d15"
+      },
+      "21": {
+        "source_ref": "Leviticus 23:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 21,
+            "source_ref": "Leviticus 23:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63fd1646281d2fe403728865fce36b300addb8fa130328c1681d2ef5e05329e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63fd1646281d2fe403728865fce36b300addb8fa130328c1681d2ef5e05329e9"
+      },
+      "22": {
+        "source_ref": "Leviticus 23:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 22,
+            "source_ref": "Leviticus 23:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cdb27b6658800f594d95f80b30622bfaece44e8a760b19ac860437e734749702"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cdb27b6658800f594d95f80b30622bfaece44e8a760b19ac860437e734749702"
+      },
+      "23": {
+        "source_ref": "Leviticus 23:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 23,
+            "source_ref": "Leviticus 23:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "24": {
+        "source_ref": "Leviticus 23:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 24,
+            "source_ref": "Leviticus 23:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "922ed89a7ad409c1624292de46e74dab6a77005f78212b11f57b75b05cc76ed8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "922ed89a7ad409c1624292de46e74dab6a77005f78212b11f57b75b05cc76ed8"
+      },
+      "25": {
+        "source_ref": "Leviticus 23:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 25,
+            "source_ref": "Leviticus 23:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "805de59115f0cfad84594b136f08dca6159c65276805edbc90466542d90e5d9f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "805de59115f0cfad84594b136f08dca6159c65276805edbc90466542d90e5d9f"
+      },
+      "26": {
+        "source_ref": "Leviticus 23:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 26,
+            "source_ref": "Leviticus 23:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "27": {
+        "source_ref": "Leviticus 23:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 27,
+            "source_ref": "Leviticus 23:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4a6fdb26ec51926a664e69814c0acb10e431f73886bcaea65fbcf78f882ce85a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a6fdb26ec51926a664e69814c0acb10e431f73886bcaea65fbcf78f882ce85a"
+      },
+      "28": {
+        "source_ref": "Leviticus 23:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 28,
+            "source_ref": "Leviticus 23:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9fdaea024d16ef7b0b860a3946151c0605c8e915f55d6b6592f3d544b563d63c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9fdaea024d16ef7b0b860a3946151c0605c8e915f55d6b6592f3d544b563d63c"
+      },
+      "29": {
+        "source_ref": "Leviticus 23:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 29,
+            "source_ref": "Leviticus 23:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c588d75af1dc52998889035b03898eef990e8e0460f2cf56f50204a04c759854"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c588d75af1dc52998889035b03898eef990e8e0460f2cf56f50204a04c759854"
+      },
+      "30": {
+        "source_ref": "Leviticus 23:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 30,
+            "source_ref": "Leviticus 23:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3cd69e647ef2275efa77b66093256658c5b0fa9ae7386168e54a29f189c3a27e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3cd69e647ef2275efa77b66093256658c5b0fa9ae7386168e54a29f189c3a27e"
+      },
+      "31": {
+        "source_ref": "Leviticus 23:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 31,
+            "source_ref": "Leviticus 23:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd9a0b11bad3e4a3695b4b317a77d74b838c5bfd656f5bfc06743909defd6817"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd9a0b11bad3e4a3695b4b317a77d74b838c5bfd656f5bfc06743909defd6817"
+      },
+      "32": {
+        "source_ref": "Leviticus 23:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 32,
+            "source_ref": "Leviticus 23:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c30c49811777ce9d7dc71db4d52c6b8d8309fa493611821efae3755ed5f7d80c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c30c49811777ce9d7dc71db4d52c6b8d8309fa493611821efae3755ed5f7d80c"
+      },
+      "33": {
+        "source_ref": "Leviticus 23:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 33,
+            "source_ref": "Leviticus 23:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "34": {
+        "source_ref": "Leviticus 23:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 34,
+            "source_ref": "Leviticus 23:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "862c6bded1075715dc1a0891885cead454d77e0385bab4afbe8dea14f09583fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "862c6bded1075715dc1a0891885cead454d77e0385bab4afbe8dea14f09583fb"
+      },
+      "35": {
+        "source_ref": "Leviticus 23:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 35,
+            "source_ref": "Leviticus 23:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "26f8356068e71a52bf31f028fdb19f36c53d8f316a0149eb126a1152b695f787"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26f8356068e71a52bf31f028fdb19f36c53d8f316a0149eb126a1152b695f787"
+      },
+      "36": {
+        "source_ref": "Leviticus 23:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 36,
+            "source_ref": "Leviticus 23:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a9818555beb393d0c3c3f5e09b6810e5db32a67a14822ab93de866c8a3d73b97"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9818555beb393d0c3c3f5e09b6810e5db32a67a14822ab93de866c8a3d73b97"
+      },
+      "37": {
+        "source_ref": "Leviticus 23:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 37,
+            "source_ref": "Leviticus 23:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7576558808ada8569c29cd51bdf74e2ce836020c0a72409d3bfff0c936483227"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7576558808ada8569c29cd51bdf74e2ce836020c0a72409d3bfff0c936483227"
+      },
+      "38": {
+        "source_ref": "Leviticus 23:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 38,
+            "source_ref": "Leviticus 23:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f302f157f9f3e3761c144bb02c841662b20979e2df5a763b18f3c0fba45c17f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f302f157f9f3e3761c144bb02c841662b20979e2df5a763b18f3c0fba45c17f2"
+      },
+      "39": {
+        "source_ref": "Leviticus 23:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 39,
+            "source_ref": "Leviticus 23:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6e863c22d0acfdce57e0a023e8232c79958432852597f7025f1f38016eaa90e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e863c22d0acfdce57e0a023e8232c79958432852597f7025f1f38016eaa90e1"
+      },
+      "40": {
+        "source_ref": "Leviticus 23:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 40,
+            "source_ref": "Leviticus 23:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd824df4382c184afad3b547803e69f89f056d58a1fbfb543669479fe75e5753"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd824df4382c184afad3b547803e69f89f056d58a1fbfb543669479fe75e5753"
+      },
+      "41": {
+        "source_ref": "Leviticus 23:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 41,
+            "source_ref": "Leviticus 23:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b669aa2f6b3dbc449e757d0ed46452ec9776a1f1b460efa71722cd06713dbbbe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b669aa2f6b3dbc449e757d0ed46452ec9776a1f1b460efa71722cd06713dbbbe"
+      },
+      "42": {
+        "source_ref": "Leviticus 23:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 42,
+            "source_ref": "Leviticus 23:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e509b929a225f38536a9ec1b8571a1b81b811edb0685af7630da9a524793a11f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e509b929a225f38536a9ec1b8571a1b81b811edb0685af7630da9a524793a11f"
+      },
+      "43": {
+        "source_ref": "Leviticus 23:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 43,
+            "source_ref": "Leviticus 23:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5834367934d9edd827dfd01cac120e2c044d4bfd1fa4ce0462bc61780c145a55"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5834367934d9edd827dfd01cac120e2c044d4bfd1fa4ce0462bc61780c145a55"
+      },
+      "44": {
+        "source_ref": "Leviticus 23:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 44,
+            "source_ref": "Leviticus 23:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a18ec16bf572fa91101f3ef79315c71cb46096d3f87be9cfdfa8e2952585f07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a18ec16bf572fa91101f3ef79315c71cb46096d3f87be9cfdfa8e2952585f07"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/leviticus/Leviticus_23.md",
+    "blob_sha": "e4bfe569ebee5d08f7b3a826aea6a43ce159ec0a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
