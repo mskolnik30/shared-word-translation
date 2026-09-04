@@ -1,0 +1,1700 @@
+{
+  "book": "Joel",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Joel.xml",
+    "git_blob_sha": "d1a160746190931dccd91014499558fae735586a"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Joel 1:1",
+          "segment_mode": "whole",
+          "sha256": "d783ea84cf3c8b7286dac3ee95812a22142ec5f9990bbb624a652a9acb163419"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d783ea84cf3c8b7286dac3ee95812a22142ec5f9990bbb624a652a9acb163419",
+      "translation_sha256": "6c34f9ef3009ec5310784e78c58cb23db538c473d04cffc22fcef5a8fdf3acc9",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Joel 1:2",
+          "segment_mode": "whole",
+          "sha256": "a66d92e61be8b140fcc1e363e616efec4145a17d73cacfa312e4def511970eb2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a66d92e61be8b140fcc1e363e616efec4145a17d73cacfa312e4def511970eb2",
+      "translation_sha256": "da5dd3d563a9c6d770e7f58adc26945790dc416b1d6be1124d3c5299ce105865",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Joel 1:3",
+          "segment_mode": "whole",
+          "sha256": "affa4a4724357b91dc0be1a18136683d9900e837063d5a04d14ea5e424a583b8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "affa4a4724357b91dc0be1a18136683d9900e837063d5a04d14ea5e424a583b8",
+      "translation_sha256": "5350430d1035310b21937ac2840712bc3048086c7983742c974b1b4f32fef483",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Joel 1:4",
+          "segment_mode": "whole",
+          "sha256": "5e291ad188b2d201fb55f9a5ec3516d8e4a7d714c6d5efcf255dfcd537d84127"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5e291ad188b2d201fb55f9a5ec3516d8e4a7d714c6d5efcf255dfcd537d84127",
+      "translation_sha256": "396efd8179487200342ae3dc374b070bb8c035118cae40815098522008afd6f0",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Joel 1:5",
+          "segment_mode": "whole",
+          "sha256": "a167fc7405ba9dc4db536c70d87d86701bd38cd31552a995d6091be824c18f0c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a167fc7405ba9dc4db536c70d87d86701bd38cd31552a995d6091be824c18f0c",
+      "translation_sha256": "b9b8267765ea17e2282bef8141ad8a85c146fb1d5dfa7eae5044d5df0e9666f3",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Joel 1:6",
+          "segment_mode": "whole",
+          "sha256": "ad011d468b95bd58a8bb95b983d3dd6969ea333024d875d95225320c955116b3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ad011d468b95bd58a8bb95b983d3dd6969ea333024d875d95225320c955116b3",
+      "translation_sha256": "d532d2e21be4578ba44fc94c29b603c9e9196ee5aebe0f03ed2c62a6d9214c18",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Joel 1:7",
+          "segment_mode": "whole",
+          "sha256": "bea5f1768101b899d0fdfde4cbddcaf5ebcf7f710bbe516a600009506c9840a7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bea5f1768101b899d0fdfde4cbddcaf5ebcf7f710bbe516a600009506c9840a7",
+      "translation_sha256": "50029709437982f4aff6248363f056250d12e65eaec8c9a9a2f19b9d094d7324",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Joel 1:8",
+          "segment_mode": "whole",
+          "sha256": "1e70667c34e08c3a37d03a392d6db7e7520c4388d188dfedceabd157f76e87d7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1e70667c34e08c3a37d03a392d6db7e7520c4388d188dfedceabd157f76e87d7",
+      "translation_sha256": "d31d8e9f9232d68455ff0d2efcb5c4288c2be5bff3874499e5a477fab49a13b6",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Joel 1:9",
+          "segment_mode": "whole",
+          "sha256": "98bc1dd8f19774407aeee950190c4933baeca163d97ff67df1e621f84cde751b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "98bc1dd8f19774407aeee950190c4933baeca163d97ff67df1e621f84cde751b",
+      "translation_sha256": "d65828ef2cd36ce12a586933c00f8a9dd68fc9305bdfedb9b94d175eb90c0058",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Joel 1:10",
+          "segment_mode": "whole",
+          "sha256": "7725b93ed99bb2e875a09e7901212ad73f2b249d09d2fd03e37db510005f2a68"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7725b93ed99bb2e875a09e7901212ad73f2b249d09d2fd03e37db510005f2a68",
+      "translation_sha256": "d00f7fb50b4eaf1580120ace0c7d20f735a113b74370763ea32b8aea0dd24924",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Joel 1:11",
+          "segment_mode": "whole",
+          "sha256": "011a72a5fd724fe45a779f5ac22ce1b812225e810a9e2c569734260f8f858219"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "011a72a5fd724fe45a779f5ac22ce1b812225e810a9e2c569734260f8f858219",
+      "translation_sha256": "941d30496e989c407fe3c4544aadd4f57fef2e1cd8ab7566883b2016e75d41d0",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Joel 1:12",
+          "segment_mode": "whole",
+          "sha256": "6231a0b30cb7028729d1ac334285e4c99a29b836bad68b6fbcffa1490133d278"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6231a0b30cb7028729d1ac334285e4c99a29b836bad68b6fbcffa1490133d278",
+      "translation_sha256": "f87b2f8306c9f9a94c0d8058610d9f156ceeac7496c13dd9d1290930a6cb0f7e",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Joel 1:13",
+          "segment_mode": "whole",
+          "sha256": "5de1330238f8b399c88db24afa381b80ab097f39aa7308d12e33e90789ceff42"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5de1330238f8b399c88db24afa381b80ab097f39aa7308d12e33e90789ceff42",
+      "translation_sha256": "e9b369cd948cb243d39f5be8a8467e09508b73314c32a27137f7ab7462b33708",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Joel 1:14",
+          "segment_mode": "whole",
+          "sha256": "5ca73fe69a521a86983f92488c3a7f75d3719036865afe4e82b2e852582525e7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5ca73fe69a521a86983f92488c3a7f75d3719036865afe4e82b2e852582525e7",
+      "translation_sha256": "c1925883701fb9081a1c4d90e77acd6ff75793a7cc800d516a5809beea8188ba",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Joel 1:15",
+          "segment_mode": "whole",
+          "sha256": "1f19749d47fcbf36dfe3b387562bb2b1a823f3fa740544aa3113626b82d1f7ac"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1f19749d47fcbf36dfe3b387562bb2b1a823f3fa740544aa3113626b82d1f7ac",
+      "translation_sha256": "2bd8404f3ea476b1ab07d8b07d9600a829aca26f03cf55ad1b3e52bf35128de4",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Joel 1:16",
+          "segment_mode": "whole",
+          "sha256": "8afda1fe47adebff8271ea4aac6336b0b78f988bb62142ae07f8e886d8e593ad"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8afda1fe47adebff8271ea4aac6336b0b78f988bb62142ae07f8e886d8e593ad",
+      "translation_sha256": "bd58336a192d7f4e814d0ea228ed642ee385e1be150ca3087e3e0f84069a1439",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "Joel 1:17",
+          "segment_mode": "whole",
+          "sha256": "71baf43a680d7fe4a5a7a090d4a0262f83089dcbd4fc114c4462f7e02a340be1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "71baf43a680d7fe4a5a7a090d4a0262f83089dcbd4fc114c4462f7e02a340be1",
+      "translation_sha256": "ec8ed88aad117874ed5e45813a9ade141354bab748f1a8bc20c1a3767381ed9f",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:18",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 18,
+          "source_ref": "Joel 1:18",
+          "segment_mode": "whole",
+          "sha256": "bc6f25955add6f972fd72e05d5494cc2aa28a7bcd5586025b6fd0709ca3c4558"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bc6f25955add6f972fd72e05d5494cc2aa28a7bcd5586025b6fd0709ca3c4558",
+      "translation_sha256": "78728bd46f05d0b6337812c2f895634a498311ccda286a15d0582abbed9cadfe",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:19",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 19,
+          "source_ref": "Joel 1:19",
+          "segment_mode": "whole",
+          "sha256": "6558d610c940b11981caaf4670ade2f531105aa2804bff38f0eb11f374357d48"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6558d610c940b11981caaf4670ade2f531105aa2804bff38f0eb11f374357d48",
+      "translation_sha256": "6a253d8a0768bfda5023734a74c6e21435d73a7da258646af7e0c82b9b04b8a2",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 1:20",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 20,
+          "source_ref": "Joel 1:20",
+          "segment_mode": "whole",
+          "sha256": "2bf026d201fee543c8d4efcce1832143d840f251e99b70cbe6222db82f40f8e8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2bf026d201fee543c8d4efcce1832143d840f251e99b70cbe6222db82f40f8e8",
+      "translation_sha256": "fc1072ee7bb8b1f9631f67212ab475af828f91426d3ee2cabab21385c09d1384",
+      "tsw_blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c",
+      "curated_decisions": [
+        "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Joel 2:1",
+          "segment_mode": "whole",
+          "sha256": "3ec2bbc1bdeed4af2191bf11015aae0c304882228ddacbf410206513c4396c24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3ec2bbc1bdeed4af2191bf11015aae0c304882228ddacbf410206513c4396c24",
+      "translation_sha256": "e057bd1cd98e7290187171916cf7898edaef13ad51708fe4ae7a196d5380072f",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Joel 2:2",
+          "segment_mode": "whole",
+          "sha256": "49a8b576863cb4ac1682337f29de82262b7909c4be8ffc9f855851628a596030"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "49a8b576863cb4ac1682337f29de82262b7909c4be8ffc9f855851628a596030",
+      "translation_sha256": "dac93442d608ddfa4caf2c9800df3f163227f04fdd004e22c6fe8464f99a152b",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Joel 2:3",
+          "segment_mode": "whole",
+          "sha256": "80a5d9a2d03184773c05f1726f82814e8ac65ba8b99dd8ccf1086177473dde1c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "80a5d9a2d03184773c05f1726f82814e8ac65ba8b99dd8ccf1086177473dde1c",
+      "translation_sha256": "6237d592ee230c79e385e8ee6e22135ebc01cb521f2981ea19bd106454f2d78f",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Joel 2:4",
+          "segment_mode": "whole",
+          "sha256": "004574e430e39105436af2b30a15e6b078d48ecb0b272406e1eb14aaa3998afb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "004574e430e39105436af2b30a15e6b078d48ecb0b272406e1eb14aaa3998afb",
+      "translation_sha256": "3a1272a73918da687364d823cb6a104914b84a58eef5fdd6f70f21ae9a7d12b9",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Joel 2:5",
+          "segment_mode": "whole",
+          "sha256": "c9b30b460acf58e6026ebccf6d8a8d9b6a9c0f416d3d97712e3d4c176d0895a3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c9b30b460acf58e6026ebccf6d8a8d9b6a9c0f416d3d97712e3d4c176d0895a3",
+      "translation_sha256": "fef5746849c964b393f21dda1fa8618891d063485feabd6e267976315f63e83f",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Joel 2:6",
+          "segment_mode": "whole",
+          "sha256": "3c536850625ba4b62e9d0f27ab8c58019cdc17950a0733c3bb50c71874825928"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3c536850625ba4b62e9d0f27ab8c58019cdc17950a0733c3bb50c71874825928",
+      "translation_sha256": "5c363d5af3d0cf951e6729ccccd24ab031a75306fd4cb0d8dc27692d9d121005",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Joel 2:7",
+          "segment_mode": "whole",
+          "sha256": "4ec5efc15ec063ebf24165f001afcbcb3ba256bc6169e10fb2a4a38a965afb6d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4ec5efc15ec063ebf24165f001afcbcb3ba256bc6169e10fb2a4a38a965afb6d",
+      "translation_sha256": "d9e86e54b0987e829c5940e545bac984b7622c47a119803c0ff21cc8e6fef0ea",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Joel 2:8",
+          "segment_mode": "whole",
+          "sha256": "49ce070d9417b6bd07911aab53d2210ffedb9ae3523b0bc8c08b834325350b6e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "49ce070d9417b6bd07911aab53d2210ffedb9ae3523b0bc8c08b834325350b6e",
+      "translation_sha256": "c4441960e08b11a6b201e4e413a1460a42f0be3bc16846a9d5baf87265a5132a",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Joel 2:9",
+          "segment_mode": "whole",
+          "sha256": "e13f4c6b7f35d2aebd9ac2b5942503957ea0862c60c784c4e966df2534032887"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e13f4c6b7f35d2aebd9ac2b5942503957ea0862c60c784c4e966df2534032887",
+      "translation_sha256": "664c7c3f38ee56ff26e24715cae5caf101a5a8f237a02edbb5a20877d7cc08a3",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Joel 2:10",
+          "segment_mode": "whole",
+          "sha256": "0dd7cb50bb16a3ca784b6568ad26e5202b6964e601bebfcdf2d85bcb05852f73"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0dd7cb50bb16a3ca784b6568ad26e5202b6964e601bebfcdf2d85bcb05852f73",
+      "translation_sha256": "f0baf835e9f608b5607124ef8bad21bd451b00e9b20aa4250ff046ba15790702",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Joel 2:11",
+          "segment_mode": "whole",
+          "sha256": "b7d229bbfc7aa4feb1d0e40657584a3ba8da4804de1185f888104bf8b092c015"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b7d229bbfc7aa4feb1d0e40657584a3ba8da4804de1185f888104bf8b092c015",
+      "translation_sha256": "ec97146b374390d9088719067d480b546caa9eed479bd19ad83da94639cf7a76",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Joel 2:12",
+          "segment_mode": "whole",
+          "sha256": "8e1aab873d9de431dc10e26db28ab32c1162a438f31eac8d33ee74d5743908be"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8e1aab873d9de431dc10e26db28ab32c1162a438f31eac8d33ee74d5743908be",
+      "translation_sha256": "1d0c8f970eaa42e6c4975a611828c33cf671c826d872a223dd719b0c7b71f695",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Joel 2:13",
+          "segment_mode": "whole",
+          "sha256": "a4c8b9b9f0e072dd52b5561947f2f07856575f5a6f6e34c81ed9ec33820f97b1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a4c8b9b9f0e072dd52b5561947f2f07856575f5a6f6e34c81ed9ec33820f97b1",
+      "translation_sha256": "8e9fec00a27cc07c89e8e2441b9e4133fdd956486ffc5a0f816253aad214f034",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Joel 2:14",
+          "segment_mode": "whole",
+          "sha256": "95f51408fa80cadb689a5ebfc07e41e3909236f39197e5ed6f195ca1be93cec3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "95f51408fa80cadb689a5ebfc07e41e3909236f39197e5ed6f195ca1be93cec3",
+      "translation_sha256": "993ce55779b5919f98a54456b733739be02bad03dd6ae2c4b54e03274c431e74",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Joel 2:15",
+          "segment_mode": "whole",
+          "sha256": "2355dd0dbb697bd93204821c7498858f54109e88f7da8176272dab7c63d395a8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2355dd0dbb697bd93204821c7498858f54109e88f7da8176272dab7c63d395a8",
+      "translation_sha256": "b43d4ed069344b94a0060e4ae1feb87b3a2501c44ad638d57376122a6631b887",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Joel 2:16",
+          "segment_mode": "whole",
+          "sha256": "dd82e28dca7fda34bba60b2a0df6152d4d4c7eda665d7a9abb13f560103ebda7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dd82e28dca7fda34bba60b2a0df6152d4d4c7eda665d7a9abb13f560103ebda7",
+      "translation_sha256": "e985c7134a126a5934a349a415efed9948cbc66d232c21b327f15b2ed5e7a8de",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:17",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "Joel 2:17",
+          "segment_mode": "whole",
+          "sha256": "332f7c98c8f39c9c9a4c1c6394f8bc35c657b73d8b48fa277555faa470ac183f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "332f7c98c8f39c9c9a4c1c6394f8bc35c657b73d8b48fa277555faa470ac183f",
+      "translation_sha256": "38fcc6e8fad3ada57106ef825317113b259296a4cdead381779a9cbd7d2ebe9e",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:18",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 18,
+          "source_ref": "Joel 2:18",
+          "segment_mode": "whole",
+          "sha256": "532095b8601163e1527825b5a6163b97e041ad8e2fcc87b0857db0558425ae69"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "532095b8601163e1527825b5a6163b97e041ad8e2fcc87b0857db0558425ae69",
+      "translation_sha256": "a9248e40d029fb8a684ca5d29134f1d8963d7644b52f1c0fcb11e610d2386529",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:19",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 19,
+          "source_ref": "Joel 2:19",
+          "segment_mode": "whole",
+          "sha256": "1281c3c87533592d5ac7dc6e9ca0d2f45d74c309049b5b2d648a10b208c2499a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1281c3c87533592d5ac7dc6e9ca0d2f45d74c309049b5b2d648a10b208c2499a",
+      "translation_sha256": "c9df547cc0879bec25a76000bc02299f4b527114b193ceb9ae82e00cf655ed7a",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:20",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 20,
+          "source_ref": "Joel 2:20",
+          "segment_mode": "whole",
+          "sha256": "5b8c7d369fa612a5b54b13914a90cf9192e2f463251ac0de8d90ad175c2ac3d6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5b8c7d369fa612a5b54b13914a90cf9192e2f463251ac0de8d90ad175c2ac3d6",
+      "translation_sha256": "4537e38e9fc5d19aa97b3ae0a2b147bfa4a8e3af92c49f4e4651144053d1ac5f",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:21",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 21,
+          "source_ref": "Joel 2:21",
+          "segment_mode": "whole",
+          "sha256": "dc77c60242c00122a7e38c8de8f21c277fc5b9e48d0d2ad8692169e25e3768ce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dc77c60242c00122a7e38c8de8f21c277fc5b9e48d0d2ad8692169e25e3768ce",
+      "translation_sha256": "04c561f8b481c11e0d22b00b48d9ee6c61bb725e5aa59bdc4ae6cf547fc77fd5",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:22",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 22,
+          "source_ref": "Joel 2:22",
+          "segment_mode": "whole",
+          "sha256": "2c6c7f4cdc9d88780ef7443fb469fd77e9f356fdeb235cd6b69b554e977d472f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2c6c7f4cdc9d88780ef7443fb469fd77e9f356fdeb235cd6b69b554e977d472f",
+      "translation_sha256": "950993c5f2ed0c1c364f95356a633f9ae181aa0db682271d6ab1d75f5628b185",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:23",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 23,
+          "source_ref": "Joel 2:23",
+          "segment_mode": "whole",
+          "sha256": "80b397877968ef951dcdf7c323af5c62cb2a09f91c464a7e3a6d90f698c8a974"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "80b397877968ef951dcdf7c323af5c62cb2a09f91c464a7e3a6d90f698c8a974",
+      "translation_sha256": "d2909e96b6557b160e5fa45ba1c5daa819c0f7b335f6604c7ea2ba51fe2b00c3",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:24",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 24,
+          "source_ref": "Joel 2:24",
+          "segment_mode": "whole",
+          "sha256": "ac5f6f70196a98d009ebe2e96e96865a389eca26137bdf55d4d27f86e577d1df"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ac5f6f70196a98d009ebe2e96e96865a389eca26137bdf55d4d27f86e577d1df",
+      "translation_sha256": "1df9b433c5af57db68d7f586225d7c77cc6f7dc3fa945f46bb38cc72eeccf49e",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:25",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 25,
+          "source_ref": "Joel 2:25",
+          "segment_mode": "whole",
+          "sha256": "9bacb1e54c36cfec77a2c3404988858896c40e802137ffbaf39d9de4f321e494"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9bacb1e54c36cfec77a2c3404988858896c40e802137ffbaf39d9de4f321e494",
+      "translation_sha256": "760d19d553b77c84e754a2f59442a434c25f2afd7649a8123144f74a694d8754",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 26,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:26",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 26,
+          "source_ref": "Joel 2:26",
+          "segment_mode": "whole",
+          "sha256": "a383f6f5c0ac1360794106e0b6c19aa5db7a76b4687bb1a13b3f7f3cc6512cb6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a383f6f5c0ac1360794106e0b6c19aa5db7a76b4687bb1a13b3f7f3cc6512cb6",
+      "translation_sha256": "309808d5e4ad931112df2f65d27ad769c4c0ae954ee7c5c42f36021ba4068a32",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 27,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 2:27",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 27,
+          "source_ref": "Joel 2:27",
+          "segment_mode": "whole",
+          "sha256": "e8658ce2a908f6e010ad8af185587668d4a072cbe666c51deb08774957597328"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e8658ce2a908f6e010ad8af185587668d4a072cbe666c51deb08774957597328",
+      "translation_sha256": "690d0dc51392055b26e8a237265f64909cad47eebc2f110237a21dc7991b78b0",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Retain restoration as God's compassionate answer to devastated land, animals, and people."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 28,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 3:1 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Joel 3:1 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "6dfb548026791e5eed6f8782901a3846158c5fb8aaa23a1dc508b12718b9654a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6dfb548026791e5eed6f8782901a3846158c5fb8aaa23a1dc508b12718b9654a",
+      "translation_sha256": "49fde2c043797b71aaaa9e4687761aa68f180f9fb24413905f2e79969e9cf9d1",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Bind these public verses to Hebrew Joel 3:1-5 and preserve the Spirit's inclusion of all flesh across age, gender, and social status."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 29,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 3:2 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Joel 3:2 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "ce81d44725e6ce4a6b1c5f247f0d972a5f2100ffcf73166274b7657e10107b22"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ce81d44725e6ce4a6b1c5f247f0d972a5f2100ffcf73166274b7657e10107b22",
+      "translation_sha256": "ac1c2a8698bbf10a5463cb0b6545ccf5b2aa2f4d3b937617dcf3a32a7e2bc3e4",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Bind these public verses to Hebrew Joel 3:1-5 and preserve the Spirit's inclusion of all flesh across age, gender, and social status."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 30,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 3:3 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Joel 3:3 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "349a31b2d76cd98d8f2f05246acc7e5fd29e9e7a94e9ff917e7f231845cd26d6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "349a31b2d76cd98d8f2f05246acc7e5fd29e9e7a94e9ff917e7f231845cd26d6",
+      "translation_sha256": "c15cef9aef5c1b4420660aa0d1b0c51a6313b2164c31f46cbc9d256ccd96088f",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Bind these public verses to Hebrew Joel 3:1-5 and preserve the Spirit's inclusion of all flesh across age, gender, and social status."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 31,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 3:4 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Joel 3:4 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "42da5cf01629d133ac61efb561bc484fe747299ed54e9491dd78ebc4e460c68d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "42da5cf01629d133ac61efb561bc484fe747299ed54e9491dd78ebc4e460c68d",
+      "translation_sha256": "8288a32b2b1e18eccae93325a7dd31adde048a9059cd8d5ac0e3d9f1c8f13f28",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Bind these public verses to Hebrew Joel 3:1-5 and preserve the Spirit's inclusion of all flesh across age, gender, and social status."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 32,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 3:5 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Joel 3:5 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "9b569b3251fc905d9955dfbc1fa4a57cb5b925b66862e8695d6fc6460455f655"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9b569b3251fc905d9955dfbc1fa4a57cb5b925b66862e8695d6fc6460455f655",
+      "translation_sha256": "12a9f1eb32018beba820e464d990188b7cd9b65c2bf23eb31c15aab6695033a8",
+      "tsw_blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756",
+      "curated_decisions": [
+        "Bind these public verses to Hebrew Joel 3:1-5 and preserve the Spirit's inclusion of all flesh across age, gender, and social status."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:1 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "Joel 4:1 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "3b0ffb7afc381786a992a728daf3510add5eb41c35148410ae011fa3cf0c98cd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3b0ffb7afc381786a992a728daf3510add5eb41c35148410ae011fa3cf0c98cd",
+      "translation_sha256": "72ea340aa16ce1a2899a96caf91e4b2af833d012dc473529c0bdbe01654e35dd",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:2 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "Joel 4:2 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "936bae6c507dfbca6e0026ca90c0ef3efbc8fd67c0a54d0ca39e6817e15dfe69"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "936bae6c507dfbca6e0026ca90c0ef3efbc8fd67c0a54d0ca39e6817e15dfe69",
+      "translation_sha256": "304658e744188c441a71d284bf3238cd1c0339d21dd043253fffedfd250c130a",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:3 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "Joel 4:3 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "26cbeabef4a78331a5dbd170d76a7f6fece5caf428a9e42a2c598beb8698c758"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "26cbeabef4a78331a5dbd170d76a7f6fece5caf428a9e42a2c598beb8698c758",
+      "translation_sha256": "1d6fbb8b898ea6790077804688a7a261435ab00bd9308d61362faa55ddae8534",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:4 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "Joel 4:4 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "7e209c68cecdaf23e58a419f4d23a4cdc8a2109c356b688bfa47e67f4fb045a1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7e209c68cecdaf23e58a419f4d23a4cdc8a2109c356b688bfa47e67f4fb045a1",
+      "translation_sha256": "9ecdd9769b27c4b9998cd749645357cc66692f5dfdf1966ee7db7841d6daeb0e",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:5 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "Joel 4:5 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "6b4a572136cd8ead6688a370fe0e3bf949e254ca249f70dcdda0f8e419445048"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6b4a572136cd8ead6688a370fe0e3bf949e254ca249f70dcdda0f8e419445048",
+      "translation_sha256": "79f628a589c6e845eccc759b24540e7761d404cb7f1d3ad77fe138ae40beb39d",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:6 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "Joel 4:6 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "3fe9dfac73ce36adf807f80b25d03e2152d3b31564428912b45ed77a90a98d16"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3fe9dfac73ce36adf807f80b25d03e2152d3b31564428912b45ed77a90a98d16",
+      "translation_sha256": "7978defb87c09452c928f1732463d74553c061f7b291b386a54dbe4e21337639",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:7 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "Joel 4:7 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "21a33fbeb57efb5637cd2d32c6ec90959abc3b4ec78b6ad55c3da6a66751d0a4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "21a33fbeb57efb5637cd2d32c6ec90959abc3b4ec78b6ad55c3da6a66751d0a4",
+      "translation_sha256": "3f56592f666f7539aae6a2677a111f5df7bccc9940e1652924b463e221d7e450",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:8 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "Joel 4:8 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "3f9582ef5c1337c065077d2fdf905ce32996625a11282e9b7567b128c37a9baf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3f9582ef5c1337c065077d2fdf905ce32996625a11282e9b7567b128c37a9baf",
+      "translation_sha256": "df588322dec8e68e912528527c1c19e614311d0de5524dfce1d49522f0669b8a",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:9 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "Joel 4:9 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "967ae0007eec4187b44630252db5b38255486885f24b19c34104f6436646fdfc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "967ae0007eec4187b44630252db5b38255486885f24b19c34104f6436646fdfc",
+      "translation_sha256": "1445007f9c1a386f5ddc1567dc76d004f91b3a9ac68b6ef9ace1cb518c5bd22d",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:10 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "Joel 4:10 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "cbf7b2f64e2e4215fccbdfab505ff068185ccb1a76e841168209be7032caa514"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cbf7b2f64e2e4215fccbdfab505ff068185ccb1a76e841168209be7032caa514",
+      "translation_sha256": "d2f8102c7a140a78f3749035ae9babacb18b1c5ac1e9667142729d30a863f8ca",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:11 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "Joel 4:11 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "c41518208201ddea9f8ccc4c09dd6380431128cdaf88567fa003808d9deb939c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c41518208201ddea9f8ccc4c09dd6380431128cdaf88567fa003808d9deb939c",
+      "translation_sha256": "0bab2c8544a6fb696c7d57879002c65ca9da5817de8ad718c94b97be297b54b2",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:12 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "Joel 4:12 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "fd75e55c32d980dcb8d5d58c0d2e8cb6ada3e4aecf875071dfcefdfd5eff17ef"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fd75e55c32d980dcb8d5d58c0d2e8cb6ada3e4aecf875071dfcefdfd5eff17ef",
+      "translation_sha256": "c8e4a6f4f66b85b70c4bc68aa96bb3d7c745a1d4748246aae5ee66cb6e44f645",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:13 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "Joel 4:13 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "e367e5185f0828632b2f0a0bd8382b2eecd39f00b72d41e06226494145a91bd3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e367e5185f0828632b2f0a0bd8382b2eecd39f00b72d41e06226494145a91bd3",
+      "translation_sha256": "278a838c1ea401223f5f035afa06e549d3be3eb8b8e36637df2d9d1c56708ca1",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:14 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 14,
+          "source_ref": "Joel 4:14 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "b6228d5af7f2ed533b95c20db9f2c209c3db60791f16d9cbca92dbec1548561a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b6228d5af7f2ed533b95c20db9f2c209c3db60791f16d9cbca92dbec1548561a",
+      "translation_sha256": "0d0b8af4293c491a1f6c7b4504b988e4af87306398945e3acee9c1ba71b64497",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:15 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 15,
+          "source_ref": "Joel 4:15 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "7de97d9ea33b813090324ea6e52d921c04cb98978ee26c40ec61c5c3278af2a8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7de97d9ea33b813090324ea6e52d921c04cb98978ee26c40ec61c5c3278af2a8",
+      "translation_sha256": "e26bcfd740874b2158292314a3513b56653577976dcae3abcc2a7a39ea9bf68b",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:16 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 16,
+          "source_ref": "Joel 4:16 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "21597ebdfa1df7ee3a2e346f557c251e0c5d3025e4251510ae9c15e2474df3ff"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "21597ebdfa1df7ee3a2e346f557c251e0c5d3025e4251510ae9c15e2474df3ff",
+      "translation_sha256": "a46f5fb259690a50cd1498e9d86334d0279c786f44c9d4ebbb87112006e9c560",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:17 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 17,
+          "source_ref": "Joel 4:17 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "1e96abfb3d108f5c14654ffffa6ccab6253858502f1be994f1798674fb87d604"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1e96abfb3d108f5c14654ffffa6ccab6253858502f1be994f1798674fb87d604",
+      "translation_sha256": "6eaaaddfbe3d5c97b892d93e1caa79c69c32718413b99775cfae75f50566d0f8",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:18 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 18,
+          "source_ref": "Joel 4:18 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "72c3866d74303c36c4f4a40bd15cb05e358cf197abb2f4fc4abe82c84db52ca2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "72c3866d74303c36c4f4a40bd15cb05e358cf197abb2f4fc4abe82c84db52ca2",
+      "translation_sha256": "e6465de3ecaeb2ead4371c511feae1bf23eb46dcd783b0e0c28352d40e41b7b2",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:19 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 19,
+          "source_ref": "Joel 4:19 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "0d687868a97c9794dbf9cb344f030140b0822623ee02728548b125440fcbae5a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0d687868a97c9794dbf9cb344f030140b0822623ee02728548b125440fcbae5a",
+      "translation_sha256": "cfff339c63062196da1eea84a92e8eebade555d679db52895201cf7e0b6838f6",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:20 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 20,
+          "source_ref": "Joel 4:20 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "79ca9c074fda11430b7e93f9c1031ad82e77a6bc7bd7ee2b92148b73c97ffd37"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "79ca9c074fda11430b7e93f9c1031ad82e77a6bc7bd7ee2b92148b73c97ffd37",
+      "translation_sha256": "7f9edd85a250a0f9d95463b2e158b17e56ab1e75ff552a14cf8d472912a708a2",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Joel 4:21 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 21,
+          "source_ref": "Joel 4:21 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "83264d7606f56c541e9d2687ddc4326cb5878bb836762d759a6c763687bd4af2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "83264d7606f56c541e9d2687ddc4326cb5878bb836762d759a6c763687bd4af2",
+      "translation_sha256": "dc04b30b9a792c502f22d7fb81642f16dd47ce27c588021c3564468de42b27b4",
+      "tsw_blob_sha": "4d24dc9ae5899932910a58102236b1b207200866",
+      "curated_decisions": [
+        "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 0,
+    "F1": 0,
+    "F2": 0,
+    "F3": 73
+  },
+  "public_verse_slots": 73,
+  "included_source_bindings": 73
+}

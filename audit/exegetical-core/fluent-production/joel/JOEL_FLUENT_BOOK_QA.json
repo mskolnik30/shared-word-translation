@@ -1,0 +1,72 @@
+{
+  "book": "Joel",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 3,
+  "public_verse_slots": 73,
+  "included_verse_labels": 73,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 73,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Joel.xml",
+    "git_blob_sha": "d1a160746190931dccd91014499558fae735586a"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-20",
+      "decision": "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-17",
+      "decision": "Keep the day of the LORD, alarm, genuine return, and God's gracious character in one rhetorical movement.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:18-27",
+      "decision": "Retain restoration as God's compassionate answer to devastated land, animals, and people.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:28-32",
+      "decision": "Bind these public verses to Hebrew Joel 3:1-5 and preserve the Spirit's inclusion of all flesh across age, gender, and social status.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-21",
+      "decision": "Bind the chapter to Hebrew Joel 4 and retain judgment, refuge, and renewed creation without recruiting the text for modern nationalism.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_04",
+  "deployment_audit": {
+    "source_git_blob_sha": "d1a160746190931dccd91014499558fae735586a",
+    "source_binding_count": 73,
+    "unique_source_record_count": 73,
+    "public_verse_slots": 73,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 73
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/joel/Joel_01.md",
+        "blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c"
+      },
+      "02": {
+        "path": "books/OT/joel/Joel_02.md",
+        "blob_sha": "d4ac4535bb1881fb9f5cf6ed2b92ffd759f2f756"
+      },
+      "03": {
+        "path": "books/OT/joel/Joel_03.md",
+        "blob_sha": "4d24dc9ae5899932910a58102236b1b207200866"
+      }
+    }
+  }
+}

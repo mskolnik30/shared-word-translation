@@ -1,0 +1,342 @@
+{
+  "book": "Joel",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Joel.xml",
+    "git_blob_sha": "d1a160746190931dccd91014499558fae735586a"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-20",
+      "decision": "Preserve the locust devastation as communal ecological and liturgical crisis without identifying a modern event.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Joel.xml",
+    "git_blob_sha": "d1a160746190931dccd91014499558fae735586a",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joel 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Joel 1:1",
+            "segment_mode": "whole",
+            "sha256": "d783ea84cf3c8b7286dac3ee95812a22142ec5f9990bbb624a652a9acb163419"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d783ea84cf3c8b7286dac3ee95812a22142ec5f9990bbb624a652a9acb163419"
+      },
+      "2": {
+        "source_ref": "Joel 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Joel 1:2",
+            "segment_mode": "whole",
+            "sha256": "a66d92e61be8b140fcc1e363e616efec4145a17d73cacfa312e4def511970eb2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a66d92e61be8b140fcc1e363e616efec4145a17d73cacfa312e4def511970eb2"
+      },
+      "3": {
+        "source_ref": "Joel 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Joel 1:3",
+            "segment_mode": "whole",
+            "sha256": "affa4a4724357b91dc0be1a18136683d9900e837063d5a04d14ea5e424a583b8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "affa4a4724357b91dc0be1a18136683d9900e837063d5a04d14ea5e424a583b8"
+      },
+      "4": {
+        "source_ref": "Joel 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Joel 1:4",
+            "segment_mode": "whole",
+            "sha256": "5e291ad188b2d201fb55f9a5ec3516d8e4a7d714c6d5efcf255dfcd537d84127"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e291ad188b2d201fb55f9a5ec3516d8e4a7d714c6d5efcf255dfcd537d84127"
+      },
+      "5": {
+        "source_ref": "Joel 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Joel 1:5",
+            "segment_mode": "whole",
+            "sha256": "a167fc7405ba9dc4db536c70d87d86701bd38cd31552a995d6091be824c18f0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a167fc7405ba9dc4db536c70d87d86701bd38cd31552a995d6091be824c18f0c"
+      },
+      "6": {
+        "source_ref": "Joel 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Joel 1:6",
+            "segment_mode": "whole",
+            "sha256": "ad011d468b95bd58a8bb95b983d3dd6969ea333024d875d95225320c955116b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad011d468b95bd58a8bb95b983d3dd6969ea333024d875d95225320c955116b3"
+      },
+      "7": {
+        "source_ref": "Joel 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Joel 1:7",
+            "segment_mode": "whole",
+            "sha256": "bea5f1768101b899d0fdfde4cbddcaf5ebcf7f710bbe516a600009506c9840a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bea5f1768101b899d0fdfde4cbddcaf5ebcf7f710bbe516a600009506c9840a7"
+      },
+      "8": {
+        "source_ref": "Joel 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Joel 1:8",
+            "segment_mode": "whole",
+            "sha256": "1e70667c34e08c3a37d03a392d6db7e7520c4388d188dfedceabd157f76e87d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e70667c34e08c3a37d03a392d6db7e7520c4388d188dfedceabd157f76e87d7"
+      },
+      "9": {
+        "source_ref": "Joel 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Joel 1:9",
+            "segment_mode": "whole",
+            "sha256": "98bc1dd8f19774407aeee950190c4933baeca163d97ff67df1e621f84cde751b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98bc1dd8f19774407aeee950190c4933baeca163d97ff67df1e621f84cde751b"
+      },
+      "10": {
+        "source_ref": "Joel 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Joel 1:10",
+            "segment_mode": "whole",
+            "sha256": "7725b93ed99bb2e875a09e7901212ad73f2b249d09d2fd03e37db510005f2a68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7725b93ed99bb2e875a09e7901212ad73f2b249d09d2fd03e37db510005f2a68"
+      },
+      "11": {
+        "source_ref": "Joel 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Joel 1:11",
+            "segment_mode": "whole",
+            "sha256": "011a72a5fd724fe45a779f5ac22ce1b812225e810a9e2c569734260f8f858219"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "011a72a5fd724fe45a779f5ac22ce1b812225e810a9e2c569734260f8f858219"
+      },
+      "12": {
+        "source_ref": "Joel 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Joel 1:12",
+            "segment_mode": "whole",
+            "sha256": "6231a0b30cb7028729d1ac334285e4c99a29b836bad68b6fbcffa1490133d278"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6231a0b30cb7028729d1ac334285e4c99a29b836bad68b6fbcffa1490133d278"
+      },
+      "13": {
+        "source_ref": "Joel 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Joel 1:13",
+            "segment_mode": "whole",
+            "sha256": "5de1330238f8b399c88db24afa381b80ab097f39aa7308d12e33e90789ceff42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5de1330238f8b399c88db24afa381b80ab097f39aa7308d12e33e90789ceff42"
+      },
+      "14": {
+        "source_ref": "Joel 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Joel 1:14",
+            "segment_mode": "whole",
+            "sha256": "5ca73fe69a521a86983f92488c3a7f75d3719036865afe4e82b2e852582525e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ca73fe69a521a86983f92488c3a7f75d3719036865afe4e82b2e852582525e7"
+      },
+      "15": {
+        "source_ref": "Joel 1:15",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Joel 1:15",
+            "segment_mode": "whole",
+            "sha256": "1f19749d47fcbf36dfe3b387562bb2b1a823f3fa740544aa3113626b82d1f7ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f19749d47fcbf36dfe3b387562bb2b1a823f3fa740544aa3113626b82d1f7ac"
+      },
+      "16": {
+        "source_ref": "Joel 1:16",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Joel 1:16",
+            "segment_mode": "whole",
+            "sha256": "8afda1fe47adebff8271ea4aac6336b0b78f988bb62142ae07f8e886d8e593ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8afda1fe47adebff8271ea4aac6336b0b78f988bb62142ae07f8e886d8e593ad"
+      },
+      "17": {
+        "source_ref": "Joel 1:17",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 17,
+            "source_ref": "Joel 1:17",
+            "segment_mode": "whole",
+            "sha256": "71baf43a680d7fe4a5a7a090d4a0262f83089dcbd4fc114c4462f7e02a340be1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71baf43a680d7fe4a5a7a090d4a0262f83089dcbd4fc114c4462f7e02a340be1"
+      },
+      "18": {
+        "source_ref": "Joel 1:18",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 18,
+            "source_ref": "Joel 1:18",
+            "segment_mode": "whole",
+            "sha256": "bc6f25955add6f972fd72e05d5494cc2aa28a7bcd5586025b6fd0709ca3c4558"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc6f25955add6f972fd72e05d5494cc2aa28a7bcd5586025b6fd0709ca3c4558"
+      },
+      "19": {
+        "source_ref": "Joel 1:19",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 19,
+            "source_ref": "Joel 1:19",
+            "segment_mode": "whole",
+            "sha256": "6558d610c940b11981caaf4670ade2f531105aa2804bff38f0eb11f374357d48"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6558d610c940b11981caaf4670ade2f531105aa2804bff38f0eb11f374357d48"
+      },
+      "20": {
+        "source_ref": "Joel 1:20",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 20,
+            "source_ref": "Joel 1:20",
+            "segment_mode": "whole",
+            "sha256": "2bf026d201fee543c8d4efcce1832143d840f251e99b70cbe6222db82f40f8e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2bf026d201fee543c8d4efcce1832143d840f251e99b70cbe6222db82f40f8e8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joel/Joel_01.md",
+    "blob_sha": "7524a83a832da8e576c42b5b77e4e516f759544c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
