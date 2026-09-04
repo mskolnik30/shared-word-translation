@@ -1,0 +1,207 @@
+{
+  "book": "Nehemiah",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-11",
+      "decision": "Preserve grief, confession, covenant appeal, and practical preparation in Nehemiah's prayer.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Nehemiah 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Nehemiah 1:1",
+            "segment_mode": "whole",
+            "sha256": "b3554faf6e9a7069d3973504c07c2d876f7241fa5833c28d0736407966c27b7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3554faf6e9a7069d3973504c07c2d876f7241fa5833c28d0736407966c27b7f"
+      },
+      "2": {
+        "source_ref": "Nehemiah 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Nehemiah 1:2",
+            "segment_mode": "whole",
+            "sha256": "3ab8ee15801ebedcacfaa381a1322a17d84998b650ebb9577186a46f4cce9bf1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ab8ee15801ebedcacfaa381a1322a17d84998b650ebb9577186a46f4cce9bf1"
+      },
+      "3": {
+        "source_ref": "Nehemiah 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Nehemiah 1:3",
+            "segment_mode": "whole",
+            "sha256": "5e07b1000aa1edce0412403d95a72d284e3001477baa46c8bbc6e66f87e6f90b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e07b1000aa1edce0412403d95a72d284e3001477baa46c8bbc6e66f87e6f90b"
+      },
+      "4": {
+        "source_ref": "Nehemiah 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Nehemiah 1:4",
+            "segment_mode": "whole",
+            "sha256": "19f0f8f4c6e0f5454fbce49e026369c0ea09778b8c75ee0bf59d1be1fc5d51fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "19f0f8f4c6e0f5454fbce49e026369c0ea09778b8c75ee0bf59d1be1fc5d51fb"
+      },
+      "5": {
+        "source_ref": "Nehemiah 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Nehemiah 1:5",
+            "segment_mode": "whole",
+            "sha256": "a421088045cff79369e33989f25a00e8ef81931d884b44f249f6b14f27334c31"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a421088045cff79369e33989f25a00e8ef81931d884b44f249f6b14f27334c31"
+      },
+      "6": {
+        "source_ref": "Nehemiah 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Nehemiah 1:6",
+            "segment_mode": "whole",
+            "sha256": "b0c18cd3721d36e8dd286741f1ad2a8e582a2762d290e19e68c60c616b9f937d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0c18cd3721d36e8dd286741f1ad2a8e582a2762d290e19e68c60c616b9f937d"
+      },
+      "7": {
+        "source_ref": "Nehemiah 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Nehemiah 1:7",
+            "segment_mode": "whole",
+            "sha256": "a42db3f338b5e69e1229f03dd591f829fa26a688aff16d3c34ded7616b690be0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a42db3f338b5e69e1229f03dd591f829fa26a688aff16d3c34ded7616b690be0"
+      },
+      "8": {
+        "source_ref": "Nehemiah 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Nehemiah 1:8",
+            "segment_mode": "whole",
+            "sha256": "22da6d50383cb4d68315108d59381a782e907a476f7bd321f6c3c2e22f0edf4b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22da6d50383cb4d68315108d59381a782e907a476f7bd321f6c3c2e22f0edf4b"
+      },
+      "9": {
+        "source_ref": "Nehemiah 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Nehemiah 1:9",
+            "segment_mode": "whole",
+            "sha256": "886d8f2656a3ff7bcf95cfa7c006967292617cc8f3bbb7e75638d0ede1257657"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "886d8f2656a3ff7bcf95cfa7c006967292617cc8f3bbb7e75638d0ede1257657"
+      },
+      "10": {
+        "source_ref": "Nehemiah 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Nehemiah 1:10",
+            "segment_mode": "whole",
+            "sha256": "1c54b1063e5b472765264d31a4b1a00f457832ee2aa5f34e913653b13996b1dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c54b1063e5b472765264d31a4b1a00f457832ee2aa5f34e913653b13996b1dc"
+      },
+      "11": {
+        "source_ref": "Nehemiah 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Nehemiah 1:11",
+            "segment_mode": "whole",
+            "sha256": "405331a34135092c564757830ece83a7788de1d0b1a4be40e4bcca3e7fe1542b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "405331a34135092c564757830ece83a7788de1d0b1a4be40e4bcca3e7fe1542b"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/nehemiah/Nehemiah_01.md",
+    "blob_sha": "39c8d5a54e4e8026b15efc3938cd37694f6966a2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

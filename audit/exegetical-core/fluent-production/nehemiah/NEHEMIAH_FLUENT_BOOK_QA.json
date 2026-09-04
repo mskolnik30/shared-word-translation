@@ -1,0 +1,136 @@
+{
+  "book": "Nehemiah",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 13,
+  "public_verse_slots": 406,
+  "included_verse_labels": 405,
+  "critical_text_absent_public_verses": {
+    "7": [
+      68
+    ]
+  },
+  "pinned_source_record_count": 405,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-11",
+      "decision": "Preserve grief, confession, covenant appeal, and practical preparation in Nehemiah's prayer.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-20",
+      "decision": "Keep imperial authorization, local resistance, community organization, and Nehemiah's confidence distinct.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-23",
+      "decision": "Bind the public chapter to Hebrew 3:33-4:17 and retain ridicule, threat, prayer, labor, and defense without universalizing armed response.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:1-19",
+      "decision": "Keep debt, land loss, enslavement, interest, and elite responsibility at the center of the reform.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:68",
+      "decision": "Document that public Nehemiah 7:68 is absent from the pinned Masoretic Hebrew source and therefore omitted from the Fluent main text.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:1-18",
+      "decision": "Preserve public Torah reading, interpretation, grief, joy, material sharing, and festival practice.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:1-38",
+      "decision": "Keep the confession's retelling of communal history, divine mercy, and ongoing subjection together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "10:1-39",
+      "decision": "Bind public 9:38 and 10:1-39 across Hebrew 10:1-40 and preserve the covenant document's communal obligations.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:1-31",
+      "decision": "Translate exclusion and marriage reforms in their postexilic setting without recruiting them as a modern program of ethnic purity.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f",
+    "source_binding_count": 405,
+    "unique_source_record_count": 405,
+    "public_verse_slots": 406,
+    "ledger_summary": {
+      "F0": 203,
+      "F1": 3,
+      "F2": 0,
+      "F3": 200
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/nehemiah/Nehemiah_01.md",
+        "blob_sha": "39c8d5a54e4e8026b15efc3938cd37694f6966a2"
+      },
+      "02": {
+        "path": "books/OT/nehemiah/Nehemiah_02.md",
+        "blob_sha": "d842c4f843bcd18142cdb26316d3d270ea6a53ab"
+      },
+      "03": {
+        "path": "books/OT/nehemiah/Nehemiah_03.md",
+        "blob_sha": "62e82895d700e6b2f529c80f2135d9fa90a70e9a"
+      },
+      "04": {
+        "path": "books/OT/nehemiah/Nehemiah_04.md",
+        "blob_sha": "cfbf8724263763e15ede73edf5b386197294e6fc"
+      },
+      "05": {
+        "path": "books/OT/nehemiah/Nehemiah_05.md",
+        "blob_sha": "dce33dc036d2a78090185c864e5c34c3c0be1cdc"
+      },
+      "06": {
+        "path": "books/OT/nehemiah/Nehemiah_06.md",
+        "blob_sha": "bfd971abf08615507ecc8ac7c36724b1982c774e"
+      },
+      "07": {
+        "path": "books/OT/nehemiah/Nehemiah_07.md",
+        "blob_sha": "8cd5e7ca54a061bfc91815600761c0a7606b4383"
+      },
+      "08": {
+        "path": "books/OT/nehemiah/Nehemiah_08.md",
+        "blob_sha": "bb761df7f11dcdea88bd685b9f8357167498d1c1"
+      },
+      "09": {
+        "path": "books/OT/nehemiah/Nehemiah_09.md",
+        "blob_sha": "31d8f7758870085dcd16a8975c159ccd349fdff2"
+      },
+      "10": {
+        "path": "books/OT/nehemiah/Nehemiah_10.md",
+        "blob_sha": "90d77310a82fa86ca69e5f891a4678d8dc074de4"
+      },
+      "11": {
+        "path": "books/OT/nehemiah/Nehemiah_11.md",
+        "blob_sha": "148e062c52e046d1223ee7255e5d0db169e8474a"
+      },
+      "12": {
+        "path": "books/OT/nehemiah/Nehemiah_12.md",
+        "blob_sha": "31b968d38a0dbf2a181ea3adfffbf95dda500f54"
+      },
+      "13": {
+        "path": "books/OT/nehemiah/Nehemiah_13.md",
+        "blob_sha": "6480ba8837ab5e215e95e9d41b8ffe59d2232d97"
+      }
+    }
+  }
+}

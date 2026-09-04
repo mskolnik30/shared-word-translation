@@ -1,0 +1,627 @@
+{
+  "book": "Nehemiah",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "10:1-39",
+      "decision": "Bind public 9:38 and 10:1-39 across Hebrew 10:1-40 and preserve the covenant document's communal obligations.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Nehemiah 10:2 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 2,
+            "source_ref": "Nehemiah 10:2 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "c818d8c49d875f2123e9c2e68bd9a813bc31b436211d3a6c4a8555408f5b6d36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c818d8c49d875f2123e9c2e68bd9a813bc31b436211d3a6c4a8555408f5b6d36"
+      },
+      "2": {
+        "source_ref": "Nehemiah 10:3 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 3,
+            "source_ref": "Nehemiah 10:3 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "63c1e46de50a2a076d8ff211dcc4897f09464b6de02bb6085fe42425f142e500"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63c1e46de50a2a076d8ff211dcc4897f09464b6de02bb6085fe42425f142e500"
+      },
+      "3": {
+        "source_ref": "Nehemiah 10:4 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 4,
+            "source_ref": "Nehemiah 10:4 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "92661f17ba8ff85fd00420e90614653b42074be046a088afc3c1db0b678cfb41"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "92661f17ba8ff85fd00420e90614653b42074be046a088afc3c1db0b678cfb41"
+      },
+      "4": {
+        "source_ref": "Nehemiah 10:5 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 5,
+            "source_ref": "Nehemiah 10:5 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "f517b736e4c86d5889b3580faedb4140067e887cbffd9d83a2f8dc6471e006aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f517b736e4c86d5889b3580faedb4140067e887cbffd9d83a2f8dc6471e006aa"
+      },
+      "5": {
+        "source_ref": "Nehemiah 10:6 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 6,
+            "source_ref": "Nehemiah 10:6 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "ff16727d62efb9024e4d5ac9a99f9d15426f797166927c35e4ed3aa8d2eee57c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff16727d62efb9024e4d5ac9a99f9d15426f797166927c35e4ed3aa8d2eee57c"
+      },
+      "6": {
+        "source_ref": "Nehemiah 10:7 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 7,
+            "source_ref": "Nehemiah 10:7 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "2d8e57afe171decc640a5248151ab0d521c220fbd1fa0b1dd849d4727dbbd339"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d8e57afe171decc640a5248151ab0d521c220fbd1fa0b1dd849d4727dbbd339"
+      },
+      "7": {
+        "source_ref": "Nehemiah 10:8 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 8,
+            "source_ref": "Nehemiah 10:8 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "3dc9ead222af27cd016b4aee000a65327770ee5fa0ed45d3b9ff41e1f091b22b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3dc9ead222af27cd016b4aee000a65327770ee5fa0ed45d3b9ff41e1f091b22b"
+      },
+      "8": {
+        "source_ref": "Nehemiah 10:9 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 9,
+            "source_ref": "Nehemiah 10:9 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "286d11b636705946d90414f7bffcde0cc19bb3ea47c77bc20a2dec51874a5326"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "286d11b636705946d90414f7bffcde0cc19bb3ea47c77bc20a2dec51874a5326"
+      },
+      "9": {
+        "source_ref": "Nehemiah 10:10 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 10,
+            "source_ref": "Nehemiah 10:10 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "798b7bb29f9f32e9dee7c40f388880172de47980f9004a8f50e153641e0bc380"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "798b7bb29f9f32e9dee7c40f388880172de47980f9004a8f50e153641e0bc380"
+      },
+      "10": {
+        "source_ref": "Nehemiah 10:11 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 11,
+            "source_ref": "Nehemiah 10:11 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "7f1341008ff6e20c48df2422491350b8a5ae69438273c35843de11f2cb499789"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f1341008ff6e20c48df2422491350b8a5ae69438273c35843de11f2cb499789"
+      },
+      "11": {
+        "source_ref": "Nehemiah 10:12 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 12,
+            "source_ref": "Nehemiah 10:12 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "41172f927b2eca305ee240aefebac3b812437260433d257c1b5cbea8e8bde8bc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41172f927b2eca305ee240aefebac3b812437260433d257c1b5cbea8e8bde8bc"
+      },
+      "12": {
+        "source_ref": "Nehemiah 10:13 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 13,
+            "source_ref": "Nehemiah 10:13 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1aa296223f5d043a2744b5d1941748b8a30ae4b88fbc493b39c214c7ea0659c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1aa296223f5d043a2744b5d1941748b8a30ae4b88fbc493b39c214c7ea0659c7"
+      },
+      "13": {
+        "source_ref": "Nehemiah 10:14 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 14,
+            "source_ref": "Nehemiah 10:14 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "253c260784485f6da509e7455fe879f458871b4ed5561dee71e7e569519f3de7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "253c260784485f6da509e7455fe879f458871b4ed5561dee71e7e569519f3de7"
+      },
+      "14": {
+        "source_ref": "Nehemiah 10:15 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 15,
+            "source_ref": "Nehemiah 10:15 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "f35f77563917d47449e3b3fd3e16495a1ad0d8a02108ad4e66b057a7d81a653b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f35f77563917d47449e3b3fd3e16495a1ad0d8a02108ad4e66b057a7d81a653b"
+      },
+      "15": {
+        "source_ref": "Nehemiah 10:16 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 16,
+            "source_ref": "Nehemiah 10:16 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "ee1ea618556cb4b5a294fc22b5da6927b37391a49cfb35fe444acae8f513fbe9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee1ea618556cb4b5a294fc22b5da6927b37391a49cfb35fe444acae8f513fbe9"
+      },
+      "16": {
+        "source_ref": "Nehemiah 10:17 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 17,
+            "source_ref": "Nehemiah 10:17 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1a3191e0c2595d3f568202037d07c473d4843a43aa7dcc3325cb133d01f53a19"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a3191e0c2595d3f568202037d07c473d4843a43aa7dcc3325cb133d01f53a19"
+      },
+      "17": {
+        "source_ref": "Nehemiah 10:18 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 18,
+            "source_ref": "Nehemiah 10:18 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "40a54eb9854ca78928752e3734bad8735072e1aed2befba4aa67baf03a5a7dc9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40a54eb9854ca78928752e3734bad8735072e1aed2befba4aa67baf03a5a7dc9"
+      },
+      "18": {
+        "source_ref": "Nehemiah 10:19 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 19,
+            "source_ref": "Nehemiah 10:19 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "275f2aa19c7e05efc22b61552ca135d487809c084c625c6a70ca6424cda240c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "275f2aa19c7e05efc22b61552ca135d487809c084c625c6a70ca6424cda240c9"
+      },
+      "19": {
+        "source_ref": "Nehemiah 10:20 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 20,
+            "source_ref": "Nehemiah 10:20 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "8b2bb0675aba6f9a1bfbbc17227e3507d15e08c32209eabd4ccbcca7ad607e74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b2bb0675aba6f9a1bfbbc17227e3507d15e08c32209eabd4ccbcca7ad607e74"
+      },
+      "20": {
+        "source_ref": "Nehemiah 10:21 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 21,
+            "source_ref": "Nehemiah 10:21 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "a1e08e720c0f78fc6096b5cbf7cb4a3639ee610968339d57c54c5e55a7c6c1fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1e08e720c0f78fc6096b5cbf7cb4a3639ee610968339d57c54c5e55a7c6c1fc"
+      },
+      "21": {
+        "source_ref": "Nehemiah 10:22 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 22,
+            "source_ref": "Nehemiah 10:22 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "24c221aa6477797896bf4c5fe66f49df45fc3f7f07bce5806c984596bb161e26"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24c221aa6477797896bf4c5fe66f49df45fc3f7f07bce5806c984596bb161e26"
+      },
+      "22": {
+        "source_ref": "Nehemiah 10:23 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 23,
+            "source_ref": "Nehemiah 10:23 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "d880ca844dbdb5d0b86ddb7d515c3f7a7d4b5f29250b4e851c5ffe6891bfa650"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d880ca844dbdb5d0b86ddb7d515c3f7a7d4b5f29250b4e851c5ffe6891bfa650"
+      },
+      "23": {
+        "source_ref": "Nehemiah 10:24 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 24,
+            "source_ref": "Nehemiah 10:24 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "d9cd82ee3b47833b9642d572913a6f1ee003b2d238968b908c5338750b4e657f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9cd82ee3b47833b9642d572913a6f1ee003b2d238968b908c5338750b4e657f"
+      },
+      "24": {
+        "source_ref": "Nehemiah 10:25 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 25,
+            "source_ref": "Nehemiah 10:25 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "291f23d88c499f57fc133d34ee3443c5c354423eb91dab8b47bb6986dfe1f0dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "291f23d88c499f57fc133d34ee3443c5c354423eb91dab8b47bb6986dfe1f0dd"
+      },
+      "25": {
+        "source_ref": "Nehemiah 10:26 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 26,
+            "source_ref": "Nehemiah 10:26 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "6a2f3910edbcc8ff3a40b7034717550f37a16a580c9dfe35c1f602c886ff6d6d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a2f3910edbcc8ff3a40b7034717550f37a16a580c9dfe35c1f602c886ff6d6d"
+      },
+      "26": {
+        "source_ref": "Nehemiah 10:27 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 27,
+            "source_ref": "Nehemiah 10:27 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "35536ee0dcf59a99052b267b8130f16271d8bb9e4b95fdece9522115357f0d21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35536ee0dcf59a99052b267b8130f16271d8bb9e4b95fdece9522115357f0d21"
+      },
+      "27": {
+        "source_ref": "Nehemiah 10:28 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 28,
+            "source_ref": "Nehemiah 10:28 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "08c165e382c2df6fe811a46d34151d67da10ab783045e4cb10147edf7183d334"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "08c165e382c2df6fe811a46d34151d67da10ab783045e4cb10147edf7183d334"
+      },
+      "28": {
+        "source_ref": "Nehemiah 10:29 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 29,
+            "source_ref": "Nehemiah 10:29 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "10d5a3c20fa7c1aff17763bc796abe35995302dc14877c673b54a2dc891ba919"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10d5a3c20fa7c1aff17763bc796abe35995302dc14877c673b54a2dc891ba919"
+      },
+      "29": {
+        "source_ref": "Nehemiah 10:30 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 30,
+            "source_ref": "Nehemiah 10:30 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "2eb8482e7618e7d4c4d656a6fce5293add7adcef1547341f4c9475239884e872"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2eb8482e7618e7d4c4d656a6fce5293add7adcef1547341f4c9475239884e872"
+      },
+      "30": {
+        "source_ref": "Nehemiah 10:31 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 31,
+            "source_ref": "Nehemiah 10:31 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "0fbce8163250665dcf5cfbf9e0e42e7f45fdf1f494acc12ef659b2d819f5dad9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0fbce8163250665dcf5cfbf9e0e42e7f45fdf1f494acc12ef659b2d819f5dad9"
+      },
+      "31": {
+        "source_ref": "Nehemiah 10:32 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 32,
+            "source_ref": "Nehemiah 10:32 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "59a0957e26b482184f55502232f1c752c35e55ea28f70104e3f0e7af13fc116d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59a0957e26b482184f55502232f1c752c35e55ea28f70104e3f0e7af13fc116d"
+      },
+      "32": {
+        "source_ref": "Nehemiah 10:33 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 33,
+            "source_ref": "Nehemiah 10:33 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "37ee8db09ef1c5550e55f15a2717a776ece412835f5c01591d5f2f3e725d9a9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37ee8db09ef1c5550e55f15a2717a776ece412835f5c01591d5f2f3e725d9a9b"
+      },
+      "33": {
+        "source_ref": "Nehemiah 10:34 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 34,
+            "source_ref": "Nehemiah 10:34 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "a47789eb576c68a93810abba30afb0ec75d144ccb18461dee23f47bc1df8d0d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a47789eb576c68a93810abba30afb0ec75d144ccb18461dee23f47bc1df8d0d6"
+      },
+      "34": {
+        "source_ref": "Nehemiah 10:35 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 35,
+            "source_ref": "Nehemiah 10:35 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "6eecf16993e353a9beb7c32fafd7d18c00ffd93a492b77b8e0a120d0e1350274"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6eecf16993e353a9beb7c32fafd7d18c00ffd93a492b77b8e0a120d0e1350274"
+      },
+      "35": {
+        "source_ref": "Nehemiah 10:36 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 36,
+            "source_ref": "Nehemiah 10:36 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "159d095fb2a780edbca8aacb855e2a25ec8b68730202b1941c9b4c69ed438420"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "159d095fb2a780edbca8aacb855e2a25ec8b68730202b1941c9b4c69ed438420"
+      },
+      "36": {
+        "source_ref": "Nehemiah 10:37 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 37,
+            "source_ref": "Nehemiah 10:37 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "bb53ae3b5c1b266b4e71e95929bb3fb2992561e4565bfd01de5caa941a77af13"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb53ae3b5c1b266b4e71e95929bb3fb2992561e4565bfd01de5caa941a77af13"
+      },
+      "37": {
+        "source_ref": "Nehemiah 10:38 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 38,
+            "source_ref": "Nehemiah 10:38 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "77d430b7e1db13a06539c9d4100d84388467360c73ef987f8adcadd5100638c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77d430b7e1db13a06539c9d4100d84388467360c73ef987f8adcadd5100638c4"
+      },
+      "38": {
+        "source_ref": "Nehemiah 10:39 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 39,
+            "source_ref": "Nehemiah 10:39 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "843d65be3fd8cc7d0af73c45c07989319cd8e179be6b3accc289bd2b8532a9b8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "843d65be3fd8cc7d0af73c45c07989319cd8e179be6b3accc289bd2b8532a9b8"
+      },
+      "39": {
+        "source_ref": "Nehemiah 10:40 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 40,
+            "source_ref": "Nehemiah 10:40 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "6b3d5199463809d8c1db81797c61b3fbdd32b204f122d554710fac0f75124a20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b3d5199463809d8c1db81797c61b3fbdd32b204f122d554710fac0f75124a20"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/nehemiah/Nehemiah_10.md",
+    "blob_sha": "90d77310a82fa86ca69e5f891a4678d8dc074de4"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
