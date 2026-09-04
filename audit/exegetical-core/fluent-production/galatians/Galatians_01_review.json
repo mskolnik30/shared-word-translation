@@ -1,0 +1,189 @@
+{
+  "book": "Galatians",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 24,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Gal.txt",
+    "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Galatians 1:1",
+        "source_chapter": 1,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "445de8dccfd3b14d192d9dae872b84a55a0eadef83c97a0a5ac727b46d7caeba"
+      },
+      "2": {
+        "source_ref": "Galatians 1:2",
+        "source_chapter": 1,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "ff2ffdc5d9a376cece4f0b1e186114e50b7cbc366c0c5f8a7b642e206c98c162"
+      },
+      "3": {
+        "source_ref": "Galatians 1:3",
+        "source_chapter": 1,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "6fbd73588368ee6a453f86686f9312f8b22c7354bd01c9fe94be8afac34bc2d3"
+      },
+      "4": {
+        "source_ref": "Galatians 1:4",
+        "source_chapter": 1,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "c5a42220c73a70db67b3c0fa3146ab0ac62395c41cddc53a5febfc11391dfe92"
+      },
+      "5": {
+        "source_ref": "Galatians 1:5",
+        "source_chapter": 1,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "e5b2ef45c16082fd702830de94108b49112afc510c6b59bb1e74f866a6447844"
+      },
+      "6": {
+        "source_ref": "Galatians 1:6",
+        "source_chapter": 1,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "70ece0537998862b046bf580cf8048eccb851fc08847c1a9a10c0e93ea8a17df"
+      },
+      "7": {
+        "source_ref": "Galatians 1:7",
+        "source_chapter": 1,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "9a699911cf514587b1c5d224de4af54d9c3a0b66887dc15b28c9ab9df9e8c2a6"
+      },
+      "8": {
+        "source_ref": "Galatians 1:8",
+        "source_chapter": 1,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "ad538db3d72f11a19fc79c5643b26c6542fcd6355eced51b8dbd80147cbffa24"
+      },
+      "9": {
+        "source_ref": "Galatians 1:9",
+        "source_chapter": 1,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "0313fe43ab49dc65a80849fbac4b9a2d5176ad20b9d170267ccf4cc6e5a340bc"
+      },
+      "10": {
+        "source_ref": "Galatians 1:10",
+        "source_chapter": 1,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "5ae77eb264684fc3d788ec725fc11e87c9326a763c22adcf03f1fa60dd953358"
+      },
+      "11": {
+        "source_ref": "Galatians 1:11",
+        "source_chapter": 1,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "c6bfc0c4d3ec37996a6bf0abec7f1bd54c135ff010d132af591a6f219f3de55f"
+      },
+      "12": {
+        "source_ref": "Galatians 1:12",
+        "source_chapter": 1,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "bdbb1eb78fd60517adf915f0857d895cf68c2f2454acc6b6de995fa84952ed00"
+      },
+      "13": {
+        "source_ref": "Galatians 1:13",
+        "source_chapter": 1,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "cff9ef41e9b5244a874f138b7a73bd05725297f095fe360d0812f01ccd539334"
+      },
+      "14": {
+        "source_ref": "Galatians 1:14",
+        "source_chapter": 1,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "25db2789d8fa1c9751440d6d0e6a25757110900bc829f17e36cc569337663d3b"
+      },
+      "15": {
+        "source_ref": "Galatians 1:15",
+        "source_chapter": 1,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "0e6da2a53dd09f32266c4927b64eba66d096662c5ee99eb36e5c153620184969"
+      },
+      "16": {
+        "source_ref": "Galatians 1:16",
+        "source_chapter": 1,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "6f775b9529d430194593742a529df83b180c29e925b6c285f3224ad4c6b7cb64"
+      },
+      "17": {
+        "source_ref": "Galatians 1:17",
+        "source_chapter": 1,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "b9cac5d2beb77fb23812ee706af988f65f60a1eaabd61697e0787e3a755121bf"
+      },
+      "18": {
+        "source_ref": "Galatians 1:18",
+        "source_chapter": 1,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "ac25aa4e38992be0d34da7b1bba747e011688da25ea9d9b287e4c55058a68821"
+      },
+      "19": {
+        "source_ref": "Galatians 1:19",
+        "source_chapter": 1,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "05e79532d95905bdf6408b94dc30955c2a27e7ac4300e8001bc78160aed1c322"
+      },
+      "20": {
+        "source_ref": "Galatians 1:20",
+        "source_chapter": 1,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "fe810d60a983519345e614ae9a283f759081e9b944e5d3517dd011eb9d99c299"
+      },
+      "21": {
+        "source_ref": "Galatians 1:21",
+        "source_chapter": 1,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "5b8811d6aeef373e3133cfd64ab2233d2b37490e2b273b89bbb0322dcf5f748f"
+      },
+      "22": {
+        "source_ref": "Galatians 1:22",
+        "source_chapter": 1,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "3109d6b591af4b33eac2a5b1ed345c4a55e9a2a92f69b9ed9c944259a0328b76"
+      },
+      "23": {
+        "source_ref": "Galatians 1:23",
+        "source_chapter": 1,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "a415619060ece557d5794e20271b65d533b88a294d8e1b5549f9f50a8d4d3f30"
+      },
+      "24": {
+        "source_ref": "Galatians 1:24",
+        "source_chapter": 1,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "9910df2988aa148f01e9f4d1b0a965bed6a149be0c85a11e1fb1c81528084a6d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/galatians/Galatians_01.md",
+    "blob_sha": "8094c6d6b83e2156de9f7c341df10dac4cecb91e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,111 @@
+{
+  "book": "Galatians",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 6,
+  "public_verse_slots": 149,
+  "included_verse_labels": 149,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "good news/gospel",
+    "grace",
+    "faithfulness of Christ and human trust",
+    "set right/dikaioō",
+    "promise and Abraham",
+    "Law",
+    "Spirit versus flesh",
+    "freedom",
+    "cross",
+    "new creation",
+    "Jew/Gentile unity without erasure"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "1:6-9",
+      "decision": "retain one-good-news architecture and severe anathema language"
+    },
+    {
+      "location": "2:11-14",
+      "decision": "Antioch dispute is table fellowship and Gentile inclusion, not anti-Jewish polemic"
+    },
+    {
+      "location": "2:16",
+      "decision": "pistis Iesou Christou = faithfulness of Jesus Christ; human response explicitly trust; dikaioo = set right"
+    },
+    {
+      "location": "2:20",
+      "decision": "pistis Son of God rendered faithfulness of the Son of God"
+    },
+    {
+      "location": "3:22",
+      "decision": "pistis Jesus Christ = faithfulness of Jesus Christ; recipients are those who trust"
+    },
+    {
+      "location": "4:3,9",
+      "decision": "stoicheia = elemental powers; interpretation left open in notes"
+    },
+    {
+      "location": "4:24-31",
+      "decision": "allegory retained without ethnic anti-Jewish generalization"
+    },
+    {
+      "location": "5:4",
+      "decision": "dikaioo = set right"
+    },
+    {
+      "location": "5:12",
+      "decision": "retain shocking mutilation wordplay"
+    },
+    {
+      "location": "6:16",
+      "decision": "Israel of God referent left open"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Gal.txt",
+    "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6",
+    "source_binding_count": 149,
+    "unique_source_record_count": 149,
+    "public_verse_slots": 149,
+    "ledger_summary": {
+      "F0": 5,
+      "F1": 77,
+      "F2": 43,
+      "F3": 24
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/galatians/Galatians_01.md",
+        "blob_sha": "8094c6d6b83e2156de9f7c341df10dac4cecb91e"
+      },
+      "02": {
+        "path": "books/NT/galatians/Galatians_02.md",
+        "blob_sha": "8d493bcb161579bc1908d9f72fde46533796638c"
+      },
+      "03": {
+        "path": "books/NT/galatians/Galatians_03.md",
+        "blob_sha": "b9fe18ba9046814c5fa0f59e9575350eee9fcf21"
+      },
+      "04": {
+        "path": "books/NT/galatians/Galatians_04.md",
+        "blob_sha": "76a07bd2201792257ae89c5d7dc42790cfaea35c"
+      },
+      "05": {
+        "path": "books/NT/galatians/Galatians_05.md",
+        "blob_sha": "6559cb9a73fedd6516b26fdeaeac6c44dbb0b3f0"
+      },
+      "06": {
+        "path": "books/NT/galatians/Galatians_06.md",
+        "blob_sha": "3d63f93610f9c4c587b57537190881604bd045ca"
+      }
+    }
+  }
+}
