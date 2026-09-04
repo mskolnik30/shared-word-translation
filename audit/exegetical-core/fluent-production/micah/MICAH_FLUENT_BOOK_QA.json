@@ -1,0 +1,93 @@
+{
+  "book": "Micah",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 7,
+  "public_verse_slots": 105,
+  "included_verse_labels": 105,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 105,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mic.xml",
+    "git_blob_sha": "91f1eb9525085bdf34d5554d93e38943ea350452"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "2:1-5",
+      "decision": "Keep planned land seizure and dispossession at the center of the accusation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-12",
+      "decision": "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-5",
+      "decision": "Preserve the nations' pilgrimage, learned peace, economic security, and faithful particularity.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:1-5",
+      "decision": "Bind public 5:1 to Hebrew 4:14 and preserve the ruler-from-Bethlehem hope in its immediate literary setting.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:6-8",
+      "decision": "Keep justice, steadfast love, and humble attentiveness to God as covenantal life rather than a generic slogan.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:18-20",
+      "decision": "Let forgiveness, steadfast love, and covenant faithfulness provide the final word.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_04",
+  "deployment_audit": {
+    "source_git_blob_sha": "91f1eb9525085bdf34d5554d93e38943ea350452",
+    "source_binding_count": 105,
+    "unique_source_record_count": 105,
+    "public_verse_slots": 105,
+    "ledger_summary": {
+      "F0": 40,
+      "F1": 29,
+      "F2": 3,
+      "F3": 33
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/micah/Micah_01.md",
+        "blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c"
+      },
+      "02": {
+        "path": "books/OT/micah/Micah_02.md",
+        "blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926"
+      },
+      "03": {
+        "path": "books/OT/micah/Micah_03.md",
+        "blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909"
+      },
+      "04": {
+        "path": "books/OT/micah/Micah_04.md",
+        "blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050"
+      },
+      "05": {
+        "path": "books/OT/micah/Micah_05.md",
+        "blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15"
+      },
+      "06": {
+        "path": "books/OT/micah/Micah_06.md",
+        "blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb"
+      },
+      "07": {
+        "path": "books/OT/micah/Micah_07.md",
+        "blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e"
+      }
+    }
+  }
+}
