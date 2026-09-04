@@ -1,0 +1,147 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 18,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Thess.txt",
+    "git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Thessalonians 4:1",
+        "source_chapter": 4,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "35514573f6198cb8d0dfcee22b3742c28025f09e77729ce2e0b9b3a4828562e6"
+      },
+      "2": {
+        "source_ref": "1 Thessalonians 4:2",
+        "source_chapter": 4,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "e5b5f31353023227cca534a37bd585d1b934cd15966a98a1144735879092577d"
+      },
+      "3": {
+        "source_ref": "1 Thessalonians 4:3",
+        "source_chapter": 4,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "9ecbe1a26f02eea8e43906e65d701c8b5bcc9e9872cc2c8498aaf873c02ef458"
+      },
+      "4": {
+        "source_ref": "1 Thessalonians 4:4",
+        "source_chapter": 4,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "cb7ff03eeaffdbcc5e4d1035a8713f7ceb4fa3303fc17159847e2103438ec771"
+      },
+      "5": {
+        "source_ref": "1 Thessalonians 4:5",
+        "source_chapter": 4,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "618d3ffefe463c4012b86c8d96bf5a7c693e3ec4ca197144e91ce6c95317e55e"
+      },
+      "6": {
+        "source_ref": "1 Thessalonians 4:6",
+        "source_chapter": 4,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "8637da24ad869064aef17fc239e34306e94ac51ec89713a2d959d77592398da7"
+      },
+      "7": {
+        "source_ref": "1 Thessalonians 4:7",
+        "source_chapter": 4,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "409fcaec0f3919be72076b8ee4c9db3a449c4ab20b790f1c9a35c01b9bcc71a0"
+      },
+      "8": {
+        "source_ref": "1 Thessalonians 4:8",
+        "source_chapter": 4,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "06e0e364f59ab22e464a52f1d2c3a40da8d8137ab07b66033313140fa38338e5"
+      },
+      "9": {
+        "source_ref": "1 Thessalonians 4:9",
+        "source_chapter": 4,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "5df1987800f57fe309d7a46828b9da268d061659571b8cb5ea6317cc4d440a1d"
+      },
+      "10": {
+        "source_ref": "1 Thessalonians 4:10",
+        "source_chapter": 4,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "dc3f6a4492a9d364bed76e34fc502f19be8485ec56156acd6438f15ddc69856a"
+      },
+      "11": {
+        "source_ref": "1 Thessalonians 4:11",
+        "source_chapter": 4,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "6a384365ce7f7912273dc64885d24e3ca04264d47df8b3885a031692c1241ef5"
+      },
+      "12": {
+        "source_ref": "1 Thessalonians 4:12",
+        "source_chapter": 4,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "6637b68c40017503dc1eec6e28eed87264b01c2a16e0f9123c448389f1baae45"
+      },
+      "13": {
+        "source_ref": "1 Thessalonians 4:13",
+        "source_chapter": 4,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "a1683b08b848e4ad1a3e92a64740ebb5a82bb35a13aac01042924c182c0bef5f"
+      },
+      "14": {
+        "source_ref": "1 Thessalonians 4:14",
+        "source_chapter": 4,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "9109b9c1cd607921687909e5cd1194c46cd126d878e57b3a1269202192387250"
+      },
+      "15": {
+        "source_ref": "1 Thessalonians 4:15",
+        "source_chapter": 4,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "8c0427dd8cc4e572b9918a9e6302d0b923dda7d33236275d353ef9441ec18e15"
+      },
+      "16": {
+        "source_ref": "1 Thessalonians 4:16",
+        "source_chapter": 4,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "0fe0efa80bf89861a6bb3076cbd411e23e3a2fcdaf90dcf58d30d52e59740821"
+      },
+      "17": {
+        "source_ref": "1 Thessalonians 4:17",
+        "source_chapter": 4,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "f16fb99bfb20fc376f137346970210b95ed19dbf3e07f2129802ea641a1b4397"
+      },
+      "18": {
+        "source_ref": "1 Thessalonians 4:18",
+        "source_chapter": 4,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "52ea18fa8db63ea8a2a83ccb65012724d0598a61e9fb7c7a618ced60c3c46f83"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1thessalonians/1Thessalonians_04.md",
+    "blob_sha": "4ad621ab10e2fad174d451007ba682f9f51bf63c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

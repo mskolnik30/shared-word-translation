@@ -1,0 +1,90 @@
+{
+  "book": "1 Thessalonians",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 5,
+  "public_verse_slots": 89,
+  "included_verse_labels": 89,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "trust-love-hope",
+    "Holy Spirit",
+    "affliction and joy",
+    "missionary integrity",
+    "holiness",
+    "brotherly love",
+    "coming/parousia",
+    "resurrection",
+    "encouragement",
+    "watchfulness"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "2:7",
+      "decision": "gentle follows SBLGNT; infants variant noted"
+    },
+    {
+      "location": "2:14-16",
+      "decision": "local Judean opposition not generalized to Jewish ethnicity; anti-Jewish misuse explicitly blocked"
+    },
+    {
+      "location": "4:4",
+      "decision": "skeuos = own body main; spouse alternative noted"
+    },
+    {
+      "location": "4:13-18",
+      "decision": "grief with resurrection hope; meeting Lord not expanded into speculative rapture itinerary"
+    },
+    {
+      "location": "5:1-11",
+      "decision": "timing curiosity redirected toward watchfulness; no date-setting"
+    },
+    {
+      "location": "5:23",
+      "decision": "psyche = life, not tripartite anthropology proof"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Thess.txt",
+    "git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f",
+    "source_binding_count": 89,
+    "unique_source_record_count": 89,
+    "public_verse_slots": 89,
+    "ledger_summary": {
+      "F0": 5,
+      "F1": 34,
+      "F2": 27,
+      "F3": 23
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/1thessalonians/1Thessalonians_01.md",
+        "blob_sha": "3ee3e73213efaf5e11821070b1d195c0df44e5dc"
+      },
+      "02": {
+        "path": "books/NT/1thessalonians/1Thessalonians_02.md",
+        "blob_sha": "5323b4ec0f641d87c70c2cc9c7e331109bf4d0ea"
+      },
+      "03": {
+        "path": "books/NT/1thessalonians/1Thessalonians_03.md",
+        "blob_sha": "3b24bf182bbdefe5e0d043f11b5c7f259eaa96aa"
+      },
+      "04": {
+        "path": "books/NT/1thessalonians/1Thessalonians_04.md",
+        "blob_sha": "4ad621ab10e2fad174d451007ba682f9f51bf63c"
+      },
+      "05": {
+        "path": "books/NT/1thessalonians/1Thessalonians_05.md",
+        "blob_sha": "76d08b204c96b2ae7d33665599b55bae5adb99d4"
+      }
+    }
+  }
+}

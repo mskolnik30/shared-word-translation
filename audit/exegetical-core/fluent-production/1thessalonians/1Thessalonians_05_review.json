@@ -1,0 +1,217 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 28,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Thess.txt",
+    "git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Thessalonians 5:1",
+        "source_chapter": 5,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "2fc942e0f5c5f08de0d1c6e5deb80737daba73a552ae4cc3ae9ccfad60144a92"
+      },
+      "2": {
+        "source_ref": "1 Thessalonians 5:2",
+        "source_chapter": 5,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "10c49dac9739d37a889fda826610150dd1e750e7c4b36c883bb66534c6ae7719"
+      },
+      "3": {
+        "source_ref": "1 Thessalonians 5:3",
+        "source_chapter": 5,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "cfff35f06f9d9bed9ad42b16682cd5cf24324015283f80c1753fba0324c1f240"
+      },
+      "4": {
+        "source_ref": "1 Thessalonians 5:4",
+        "source_chapter": 5,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "ff7938325620bc12325f8a4453528461bdc76b340bbf8af5aebc4e4b8fe97475"
+      },
+      "5": {
+        "source_ref": "1 Thessalonians 5:5",
+        "source_chapter": 5,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "5824e0518b5a7ed754e0957df9874504e03e63dcafe81b3d3745d668b7b3f7fd"
+      },
+      "6": {
+        "source_ref": "1 Thessalonians 5:6",
+        "source_chapter": 5,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "6dfe15d4d3032430337fd1a9eac9e940490f56526b456f0157ffd6479a1739b3"
+      },
+      "7": {
+        "source_ref": "1 Thessalonians 5:7",
+        "source_chapter": 5,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "727ae817d4da0e0431f93d41fc07ae8fb2b3f921a93e6f6fa43677519e7102ba"
+      },
+      "8": {
+        "source_ref": "1 Thessalonians 5:8",
+        "source_chapter": 5,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "a54780233020f61ad68c5acd8b355323e4058784bdff7a33e79a89a280362673"
+      },
+      "9": {
+        "source_ref": "1 Thessalonians 5:9",
+        "source_chapter": 5,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "7d8cd47f4c0965a53b556f7e023c9eabfe7a10cbf58dfc281c87d123e82708d6"
+      },
+      "10": {
+        "source_ref": "1 Thessalonians 5:10",
+        "source_chapter": 5,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "ed1844ef12f1193c441238e94c4858cea75a701cf9c2e41badbb5b14fd0915be"
+      },
+      "11": {
+        "source_ref": "1 Thessalonians 5:11",
+        "source_chapter": 5,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "a995791e4fb366d3b6746611741d4aa4adb5e0154d47a1a61834c4528bcb58b7"
+      },
+      "12": {
+        "source_ref": "1 Thessalonians 5:12",
+        "source_chapter": 5,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "1e80af0c6b29e85951babaadf2f5d34cfd3b7eb4054ae836b00415e10637893d"
+      },
+      "13": {
+        "source_ref": "1 Thessalonians 5:13",
+        "source_chapter": 5,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "034c9ec3d71c285f8ce6610a7543aedbd1338f846652b129883bfb13709c7683"
+      },
+      "14": {
+        "source_ref": "1 Thessalonians 5:14",
+        "source_chapter": 5,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "f40ad06ff53aac144ad063d0e406a8085c86ef233ec02ce3a05c20b1a3db600a"
+      },
+      "15": {
+        "source_ref": "1 Thessalonians 5:15",
+        "source_chapter": 5,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "2588647b9d56586f1c2613d2f61923432d8436b2ec4ded6d59f960360deb143a"
+      },
+      "16": {
+        "source_ref": "1 Thessalonians 5:16",
+        "source_chapter": 5,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "6c56126a6e1c3bf2abf9b2975ea6a5f32719a260c4bae6fa97a0b4e4ffb1e77a"
+      },
+      "17": {
+        "source_ref": "1 Thessalonians 5:17",
+        "source_chapter": 5,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "ce2d020d450d4258476da1748ca786bb4d6d65116baaab068eccd16543f603a0"
+      },
+      "18": {
+        "source_ref": "1 Thessalonians 5:18",
+        "source_chapter": 5,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "b4014a4148c836a52fb88d8026ef3a0e36be6afdd2f43c4db6072ec79755c01b"
+      },
+      "19": {
+        "source_ref": "1 Thessalonians 5:19",
+        "source_chapter": 5,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "f321b30cf5c5127fc4d2857d59a48024cef2e22e8932b33f248ef5d8e05f7c24"
+      },
+      "20": {
+        "source_ref": "1 Thessalonians 5:20",
+        "source_chapter": 5,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "d4e35b199db65aebc026afcc18d5a4ed51cda776f9d6753a84c931b2fbcf0ead"
+      },
+      "21": {
+        "source_ref": "1 Thessalonians 5:21",
+        "source_chapter": 5,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "e5de90de40b514b3914f7d7f7a137cbf3b0dc37dc9426089e5e68f249a269133"
+      },
+      "22": {
+        "source_ref": "1 Thessalonians 5:22",
+        "source_chapter": 5,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "ae7d720ccd781fc615230c7bcd54d42b89b6041325b820961e58251eba78b40a"
+      },
+      "23": {
+        "source_ref": "1 Thessalonians 5:23",
+        "source_chapter": 5,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "b08d7d9303418f762ac6550ae38e683f5d34144a0cb30bf16e551db29c2c2195"
+      },
+      "24": {
+        "source_ref": "1 Thessalonians 5:24",
+        "source_chapter": 5,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "e5194ea888d7809842e815e45bd46316e0dcf2343cecd960a2ba594aba1ac659"
+      },
+      "25": {
+        "source_ref": "1 Thessalonians 5:25",
+        "source_chapter": 5,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "11c285fc607d7f9e6e2ad2c0ccdbea8f2cff9449ba31f62be9d98961e7b5ee7f"
+      },
+      "26": {
+        "source_ref": "1 Thessalonians 5:26",
+        "source_chapter": 5,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "af61ae2a70fd9fe92e66d8a79acdddb2fe7d97a2244ddeb2183940e0ce6c6c81"
+      },
+      "27": {
+        "source_ref": "1 Thessalonians 5:27",
+        "source_chapter": 5,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "93ddf91fa3c40ef5b3f3ecd59e13b8db8ef24de1b565f14606a8617f5e7a7832"
+      },
+      "28": {
+        "source_ref": "1 Thessalonians 5:28",
+        "source_chapter": 5,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "3f03126f0afd7a16685068e3903866c478bbd9235c8d7a0fbe0277a68324e985"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1thessalonians/1Thessalonians_05.md",
+    "blob_sha": "76d08b204c96b2ae7d33665599b55bae5adb99d4"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
