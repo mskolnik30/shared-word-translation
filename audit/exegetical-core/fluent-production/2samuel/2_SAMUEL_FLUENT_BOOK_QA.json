@@ -1,0 +1,161 @@
+{
+  "book": "2 Samuel",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 24,
+  "public_verse_slots": 695,
+  "included_verse_labels": 695,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 695,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Sam.xml",
+    "git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-5:25",
+      "decision": "Preserve grief, contested succession, political violence, and David's consolidation of power.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:1-7:29",
+      "decision": "Keep ark danger and joy, Michal's protest, covenant promise, and David's prayer together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:1-10:19",
+      "decision": "Translate expansion, forced labor, diplomacy, and war without romanticizing empire.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:1-12:31",
+      "decision": "Name David's abuse of royal power, sexual exploitation, arranged killing, prophetic confrontation, and consequences clearly.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:1-20:26",
+      "decision": "Keep Tamar's voice, Amnon's violence, Absalom's revenge and revolt, grief, and political manipulation central.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "21:1-24:25",
+      "decision": "Preserve famine, execution, giant traditions, song, warrior lists, census judgment, and altar as difficult appendices.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524",
+    "source_binding_count": 695,
+    "unique_source_record_count": 695,
+    "public_verse_slots": 695,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 695
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/2samuel/2Samuel_01.md",
+        "blob_sha": "a1e9c563e1ebb1e80599b8c20b5624ddb4f1552e"
+      },
+      "02": {
+        "path": "books/OT/2samuel/2Samuel_02.md",
+        "blob_sha": "776d5d556e04d8b3c5d3b4c58d0ec12edb33a441"
+      },
+      "03": {
+        "path": "books/OT/2samuel/2Samuel_03.md",
+        "blob_sha": "2d37f9d130d80c6b78a777258ec566eaa24c1bd9"
+      },
+      "04": {
+        "path": "books/OT/2samuel/2Samuel_04.md",
+        "blob_sha": "13ce8aa7d24c1895d3068853bd8b2b56a2f7bad1"
+      },
+      "05": {
+        "path": "books/OT/2samuel/2Samuel_05.md",
+        "blob_sha": "f1197356e07eae55803cb7707e07eb64ff3f4017"
+      },
+      "06": {
+        "path": "books/OT/2samuel/2Samuel_06.md",
+        "blob_sha": "d12c6c4b8d100ad06793df2c2627a8edce369851"
+      },
+      "07": {
+        "path": "books/OT/2samuel/2Samuel_07.md",
+        "blob_sha": "3d179f41bd6918016e1f338500e8386a0f9041c5"
+      },
+      "08": {
+        "path": "books/OT/2samuel/2Samuel_08.md",
+        "blob_sha": "92b0e3b6ca86f5c794a4e22f70d8ba845db06116"
+      },
+      "09": {
+        "path": "books/OT/2samuel/2Samuel_09.md",
+        "blob_sha": "c4baccd3695f4cf8f6c96f117637b31c89210825"
+      },
+      "10": {
+        "path": "books/OT/2samuel/2Samuel_10.md",
+        "blob_sha": "d5feb6fd195a445de2dadb5cf1b0d2d53c6e7b5a"
+      },
+      "11": {
+        "path": "books/OT/2samuel/2Samuel_11.md",
+        "blob_sha": "bb391018f4246e6da0e11c01ae0ce5651acee82f"
+      },
+      "12": {
+        "path": "books/OT/2samuel/2Samuel_12.md",
+        "blob_sha": "83dbd636ba7cfdbee6997daf9b8407cc99cb1a90"
+      },
+      "13": {
+        "path": "books/OT/2samuel/2Samuel_13.md",
+        "blob_sha": "46e200fb060038cad20c8396dc5a304aad359a7c"
+      },
+      "14": {
+        "path": "books/OT/2samuel/2Samuel_14.md",
+        "blob_sha": "4cdc42f709215fe7f0f24807a62a801e955d96a1"
+      },
+      "15": {
+        "path": "books/OT/2samuel/2Samuel_15.md",
+        "blob_sha": "8f6007ed81c0d91c944a5798dc1391fcc047866a"
+      },
+      "16": {
+        "path": "books/OT/2samuel/2Samuel_16.md",
+        "blob_sha": "c121d1cd58130bfba734c2e67ac5a0c315c34ec8"
+      },
+      "17": {
+        "path": "books/OT/2samuel/2Samuel_17.md",
+        "blob_sha": "b2e80422444358e21f70ccacf67685e710947bbf"
+      },
+      "18": {
+        "path": "books/OT/2samuel/2Samuel_18.md",
+        "blob_sha": "a4a31c67d33c22ad091b9af46207b50e1484011d"
+      },
+      "19": {
+        "path": "books/OT/2samuel/2Samuel_19.md",
+        "blob_sha": "4c1b97e1f13d6ecff5c919cf98424d1e95b91fa3"
+      },
+      "20": {
+        "path": "books/OT/2samuel/2Samuel_20.md",
+        "blob_sha": "9fee6b5835b6a3f87e3fb755a9f3ee6c6872beea"
+      },
+      "21": {
+        "path": "books/OT/2samuel/2Samuel_21.md",
+        "blob_sha": "7cf71670c81993eb6ee25e2db55ca9cf50c6bcbf"
+      },
+      "22": {
+        "path": "books/OT/2samuel/2Samuel_22.md",
+        "blob_sha": "d2126d607b7f0fb372ed479841d21aeea8b5d306"
+      },
+      "23": {
+        "path": "books/OT/2samuel/2Samuel_23.md",
+        "blob_sha": "5276170f7c8bdabeea6e78a4b88b80ba6579f41e"
+      },
+      "24": {
+        "path": "books/OT/2samuel/2Samuel_24.md",
+        "blob_sha": "733d4212a2c9f8f2908678046b354dd698f34e76"
+      }
+    }
+  }
+}

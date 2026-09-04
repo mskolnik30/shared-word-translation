@@ -1,0 +1,372 @@
+{
+  "book": "2 Samuel",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Sam.xml",
+    "git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "21:1-24:25",
+      "decision": "Preserve famine, execution, giant traditions, song, warrior lists, census judgment, and altar as difficult appendices.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Sam.xml",
+    "git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Samuel 21:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 1,
+            "source_ref": "2 Samuel 21:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32e3c838eafd4a9b8a9dfa2c855078b4b550fb1981afb219110d205aba076288"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32e3c838eafd4a9b8a9dfa2c855078b4b550fb1981afb219110d205aba076288"
+      },
+      "2": {
+        "source_ref": "2 Samuel 21:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 2,
+            "source_ref": "2 Samuel 21:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6091dae57f59aaf8141af022391ab346a6d2896576dcfad1f4fb1e6fe63e054"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6091dae57f59aaf8141af022391ab346a6d2896576dcfad1f4fb1e6fe63e054"
+      },
+      "3": {
+        "source_ref": "2 Samuel 21:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 3,
+            "source_ref": "2 Samuel 21:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a497fddcefdf97d589f86c0f572c7fc8ac8f9a2081123a8154b70201df9a578"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a497fddcefdf97d589f86c0f572c7fc8ac8f9a2081123a8154b70201df9a578"
+      },
+      "4": {
+        "source_ref": "2 Samuel 21:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 4,
+            "source_ref": "2 Samuel 21:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b472301e327d5e7ee09686336ca5f7ab97cd4b83b8fe2cb03445ad91ac208792"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b472301e327d5e7ee09686336ca5f7ab97cd4b83b8fe2cb03445ad91ac208792"
+      },
+      "5": {
+        "source_ref": "2 Samuel 21:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 5,
+            "source_ref": "2 Samuel 21:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1a7cc4aa4fc3ebfe566af8f8d62d3b1762de21f8225ed2848aee1b02fa0476f4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a7cc4aa4fc3ebfe566af8f8d62d3b1762de21f8225ed2848aee1b02fa0476f4"
+      },
+      "6": {
+        "source_ref": "2 Samuel 21:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 6,
+            "source_ref": "2 Samuel 21:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1e8d2f6642f6925d6c366598d2293a3db502b431346d15194aec3848980f173d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e8d2f6642f6925d6c366598d2293a3db502b431346d15194aec3848980f173d"
+      },
+      "7": {
+        "source_ref": "2 Samuel 21:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 7,
+            "source_ref": "2 Samuel 21:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea9d1a066e844d31aec83c5eb7eff1439dd2d4e184bac96f1d476963d193413c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea9d1a066e844d31aec83c5eb7eff1439dd2d4e184bac96f1d476963d193413c"
+      },
+      "8": {
+        "source_ref": "2 Samuel 21:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 8,
+            "source_ref": "2 Samuel 21:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c801dd34d73ea560122b359a9d228fb81e54b92be828538632afa74c607f445f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c801dd34d73ea560122b359a9d228fb81e54b92be828538632afa74c607f445f"
+      },
+      "9": {
+        "source_ref": "2 Samuel 21:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 9,
+            "source_ref": "2 Samuel 21:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e6a309da3a63794b2ccfcf6ccf7d7f090d6cf18c8ab411ff7545175885ff435"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e6a309da3a63794b2ccfcf6ccf7d7f090d6cf18c8ab411ff7545175885ff435"
+      },
+      "10": {
+        "source_ref": "2 Samuel 21:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 10,
+            "source_ref": "2 Samuel 21:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8db84922c0ea255e05d7a1a3a5aa8fbe3fb724e39fad6b984062e0457bcabec7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8db84922c0ea255e05d7a1a3a5aa8fbe3fb724e39fad6b984062e0457bcabec7"
+      },
+      "11": {
+        "source_ref": "2 Samuel 21:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 11,
+            "source_ref": "2 Samuel 21:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b1c8f32f19c1a814c60a78f253403542bc3d3eecff462e9c4711176d7a252e01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b1c8f32f19c1a814c60a78f253403542bc3d3eecff462e9c4711176d7a252e01"
+      },
+      "12": {
+        "source_ref": "2 Samuel 21:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 12,
+            "source_ref": "2 Samuel 21:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77d10f8f5e5d7287a1c3fd8d055123bf68eb54185b561018155682e5a5cffc42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77d10f8f5e5d7287a1c3fd8d055123bf68eb54185b561018155682e5a5cffc42"
+      },
+      "13": {
+        "source_ref": "2 Samuel 21:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 13,
+            "source_ref": "2 Samuel 21:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a54e137b5eb24ddfa083a9b7e6498fe56dfcb822bf9c09482465e9b85f9495a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a54e137b5eb24ddfa083a9b7e6498fe56dfcb822bf9c09482465e9b85f9495a4"
+      },
+      "14": {
+        "source_ref": "2 Samuel 21:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 14,
+            "source_ref": "2 Samuel 21:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c0aeb9108e26dc8869299b8b3c9d1cc4fccfce958c91e70eec4ce25d59c3e29f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0aeb9108e26dc8869299b8b3c9d1cc4fccfce958c91e70eec4ce25d59c3e29f"
+      },
+      "15": {
+        "source_ref": "2 Samuel 21:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 15,
+            "source_ref": "2 Samuel 21:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56e52f440a729c743a0789eb3a7a4a31d81fa44a944e900bde6059ddf17cb6df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56e52f440a729c743a0789eb3a7a4a31d81fa44a944e900bde6059ddf17cb6df"
+      },
+      "16": {
+        "source_ref": "2 Samuel 21:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 16,
+            "source_ref": "2 Samuel 21:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "98b9b8ae0ae003e7ad62ed671d0acf08b369500cc2c2f6bc5327b3f9a52e76e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98b9b8ae0ae003e7ad62ed671d0acf08b369500cc2c2f6bc5327b3f9a52e76e6"
+      },
+      "17": {
+        "source_ref": "2 Samuel 21:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 17,
+            "source_ref": "2 Samuel 21:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "929b37d755a170aab2a169fe60c7a631a56e8de65476757e91bd7e31e577bdf6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "929b37d755a170aab2a169fe60c7a631a56e8de65476757e91bd7e31e577bdf6"
+      },
+      "18": {
+        "source_ref": "2 Samuel 21:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 18,
+            "source_ref": "2 Samuel 21:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b7f74df9737f4c56d684c309df3cb356301ec0401428b70302c04ced69fbb552"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7f74df9737f4c56d684c309df3cb356301ec0401428b70302c04ced69fbb552"
+      },
+      "19": {
+        "source_ref": "2 Samuel 21:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 19,
+            "source_ref": "2 Samuel 21:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "76b3272eccc059d4d009cb1aec0741d327f2d1d1d88ec1c80af7f60c0577e7b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76b3272eccc059d4d009cb1aec0741d327f2d1d1d88ec1c80af7f60c0577e7b3"
+      },
+      "20": {
+        "source_ref": "2 Samuel 21:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 20,
+            "source_ref": "2 Samuel 21:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cfdee7cd6b458fe7de375c2a25035602e49b1a58f6f8b267264d5dbe43662cda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cfdee7cd6b458fe7de375c2a25035602e49b1a58f6f8b267264d5dbe43662cda"
+      },
+      "21": {
+        "source_ref": "2 Samuel 21:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 21,
+            "source_ref": "2 Samuel 21:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c2825c2cb03ff9d93cd14c784dfa5ac2614b651f97bb4a52e6df6d499e8d6b5a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2825c2cb03ff9d93cd14c784dfa5ac2614b651f97bb4a52e6df6d499e8d6b5a"
+      },
+      "22": {
+        "source_ref": "2 Samuel 21:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 22,
+            "source_ref": "2 Samuel 21:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "99f5fbf333e297eb738971f9d700fe73ee270deb63a55eaca5546bed73ac4abf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99f5fbf333e297eb738971f9d700fe73ee270deb63a55eaca5546bed73ac4abf"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2samuel/2Samuel_21.md",
+    "blob_sha": "7cf71670c81993eb6ee25e2db55ca9cf50c6bcbf"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
