@@ -1,0 +1,302 @@
+{
+  "book": "Habakkuk",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hab.xml",
+    "git_blob_sha": "f64d893d18e79842e85b6457ea643008a81a8f9c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-4",
+      "decision": "Preserve the prophet's protest against violence, failed justice, and divine silence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:5-11",
+      "decision": "Keep Babylon as God's alarming announced instrument without treating imperial cruelty as morally innocent.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hab.xml",
+    "git_blob_sha": "f64d893d18e79842e85b6457ea643008a81a8f9c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Habakkuk 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Habakkuk 1:1",
+            "segment_mode": "whole",
+            "sha256": "daf6537de7d3065043b3c9d903390774372f4b3c21a73d7a0f950e3d5d067ed6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "daf6537de7d3065043b3c9d903390774372f4b3c21a73d7a0f950e3d5d067ed6"
+      },
+      "2": {
+        "source_ref": "Habakkuk 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Habakkuk 1:2",
+            "segment_mode": "whole",
+            "sha256": "c3285e4499d4e50e5d47df2ce7ac6569c625bb4531c4e842b2fa89973e3cb62f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3285e4499d4e50e5d47df2ce7ac6569c625bb4531c4e842b2fa89973e3cb62f"
+      },
+      "3": {
+        "source_ref": "Habakkuk 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Habakkuk 1:3",
+            "segment_mode": "whole",
+            "sha256": "024366e81eb42a81629692c1bf4282af119062434f400a079da98ec6042a3601"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "024366e81eb42a81629692c1bf4282af119062434f400a079da98ec6042a3601"
+      },
+      "4": {
+        "source_ref": "Habakkuk 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Habakkuk 1:4",
+            "segment_mode": "whole",
+            "sha256": "3d87840de34d63ce439f8303f7fa99d7a4b6efc0df69c4f92c7429fad997fa74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d87840de34d63ce439f8303f7fa99d7a4b6efc0df69c4f92c7429fad997fa74"
+      },
+      "5": {
+        "source_ref": "Habakkuk 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Habakkuk 1:5",
+            "segment_mode": "whole",
+            "sha256": "b8656919561cfedc773abcfe60daabca5973a85bf6ccb4da1d34c87bc136ca0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8656919561cfedc773abcfe60daabca5973a85bf6ccb4da1d34c87bc136ca0c"
+      },
+      "6": {
+        "source_ref": "Habakkuk 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Habakkuk 1:6",
+            "segment_mode": "whole",
+            "sha256": "ceea787e462d5923d446a4a2255a76942959e59df5481280455696ba06504f73"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ceea787e462d5923d446a4a2255a76942959e59df5481280455696ba06504f73"
+      },
+      "7": {
+        "source_ref": "Habakkuk 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Habakkuk 1:7",
+            "segment_mode": "whole",
+            "sha256": "0ddaca2cfb171617fdb4e9e66d57fa56a60bf27ef1eddf5cb13ba8b0fa10feef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ddaca2cfb171617fdb4e9e66d57fa56a60bf27ef1eddf5cb13ba8b0fa10feef"
+      },
+      "8": {
+        "source_ref": "Habakkuk 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Habakkuk 1:8",
+            "segment_mode": "whole",
+            "sha256": "ce88b7dafb9795a7f082ff578f7a9bb31c497e7589221b41d955c722bfb0327f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce88b7dafb9795a7f082ff578f7a9bb31c497e7589221b41d955c722bfb0327f"
+      },
+      "9": {
+        "source_ref": "Habakkuk 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Habakkuk 1:9",
+            "segment_mode": "whole",
+            "sha256": "fed8f987bf79dafbf745ede086b30d8f02a926af69b14ac8609741b962a52fb6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fed8f987bf79dafbf745ede086b30d8f02a926af69b14ac8609741b962a52fb6"
+      },
+      "10": {
+        "source_ref": "Habakkuk 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Habakkuk 1:10",
+            "segment_mode": "whole",
+            "sha256": "75bee61087573fe2b6f199ce37ec4e0cba64929fbeae888f8ed319ea4ff47706"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75bee61087573fe2b6f199ce37ec4e0cba64929fbeae888f8ed319ea4ff47706"
+      },
+      "11": {
+        "source_ref": "Habakkuk 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Habakkuk 1:11",
+            "segment_mode": "whole",
+            "sha256": "83d7e6e91c53586d0f58802226a8dfb66d1e97c3590d7960f94b0b768e17ff9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83d7e6e91c53586d0f58802226a8dfb66d1e97c3590d7960f94b0b768e17ff9b"
+      },
+      "12": {
+        "source_ref": "Habakkuk 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Habakkuk 1:12",
+            "segment_mode": "whole",
+            "sha256": "b462437146f76155b78bd46f35b1a0ad093b8d0351d228a7bfa959c1e0c5af6f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b462437146f76155b78bd46f35b1a0ad093b8d0351d228a7bfa959c1e0c5af6f"
+      },
+      "13": {
+        "source_ref": "Habakkuk 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Habakkuk 1:13",
+            "segment_mode": "whole",
+            "sha256": "367f26ae4b12895b167bbf9f393a7210c0ccdb1983ba6d23666846b66f7e319d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "367f26ae4b12895b167bbf9f393a7210c0ccdb1983ba6d23666846b66f7e319d"
+      },
+      "14": {
+        "source_ref": "Habakkuk 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Habakkuk 1:14",
+            "segment_mode": "whole",
+            "sha256": "79a1bbc1337ce0be84d878fe9245307256e9e401503b62afcab12494d8f09923"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79a1bbc1337ce0be84d878fe9245307256e9e401503b62afcab12494d8f09923"
+      },
+      "15": {
+        "source_ref": "Habakkuk 1:15",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Habakkuk 1:15",
+            "segment_mode": "whole",
+            "sha256": "8a7cfcfd6522fcc133443e09068bd12754fa0edb3004a15f27544267c9ed8c4c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a7cfcfd6522fcc133443e09068bd12754fa0edb3004a15f27544267c9ed8c4c"
+      },
+      "16": {
+        "source_ref": "Habakkuk 1:16",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Habakkuk 1:16",
+            "segment_mode": "whole",
+            "sha256": "4077d313d9cba9d5fc07c944ba73875acb377650810ef3a11743a0c24f797594"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4077d313d9cba9d5fc07c944ba73875acb377650810ef3a11743a0c24f797594"
+      },
+      "17": {
+        "source_ref": "Habakkuk 1:17",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 17,
+            "source_ref": "Habakkuk 1:17",
+            "segment_mode": "whole",
+            "sha256": "8dbc9546d376628881a6db6c36ef13a28db9b6c8ce6fea7682a92d236c63643e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8dbc9546d376628881a6db6c36ef13a28db9b6c8ce6fea7682a92d236c63643e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/habakkuk/Habakkuk_01.md",
+    "blob_sha": "5a0b8119a0d5120ae8d4dcaa59e3ecfad121e584"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

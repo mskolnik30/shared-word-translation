@@ -1,0 +1,77 @@
+{
+  "book": "Habakkuk",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 3,
+  "public_verse_slots": 56,
+  "included_verse_labels": 56,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 56,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hab.xml",
+    "git_blob_sha": "f64d893d18e79842e85b6457ea643008a81a8f9c"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-4",
+      "decision": "Preserve the prophet's protest against violence, failed justice, and divine silence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:5-11",
+      "decision": "Keep Babylon as God's alarming announced instrument without treating imperial cruelty as morally innocent.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:2-5",
+      "decision": "Retain the contrast between the swollen person and the righteous person who lives by faithfulness.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:6-20",
+      "decision": "Keep the woes focused on plunder, predatory wealth, violence, exploitation, and idolatry.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:3-15",
+      "decision": "Preserve the archaic theophany's poetic force without flattening its imagery into prose explanation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:16-19",
+      "decision": "Keep trembling, patient waiting, material loss, and joy in God together.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_04",
+  "deployment_audit": {
+    "source_git_blob_sha": "f64d893d18e79842e85b6457ea643008a81a8f9c",
+    "source_binding_count": 56,
+    "unique_source_record_count": 56,
+    "public_verse_slots": 56,
+    "ledger_summary": {
+      "F0": 5,
+      "F1": 5,
+      "F2": 0,
+      "F3": 46
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/habakkuk/Habakkuk_01.md",
+        "blob_sha": "5a0b8119a0d5120ae8d4dcaa59e3ecfad121e584"
+      },
+      "02": {
+        "path": "books/OT/habakkuk/Habakkuk_02.md",
+        "blob_sha": "ee838adae94b18427fc044268b1f652cb8d1f89b"
+      },
+      "03": {
+        "path": "books/OT/habakkuk/Habakkuk_03.md",
+        "blob_sha": "e12d4e6ad79f0e9f613ac89925b9b993e3d43f05"
+      }
+    }
+  }
+}
