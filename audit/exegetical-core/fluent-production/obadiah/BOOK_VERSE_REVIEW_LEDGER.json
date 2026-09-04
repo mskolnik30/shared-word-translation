@@ -1,0 +1,486 @@
+{
+  "book": "Obadiah",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Obad.xml",
+    "git_blob_sha": "17496d001587f142484239a7337380c68a30e77e"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Obadiah 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Obadiah 1:1",
+          "segment_mode": "whole",
+          "sha256": "1054bad742290253e262a90f0cdad8a89c99d5094a1fa58471b4eb5f66cf735c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1054bad742290253e262a90f0cdad8a89c99d5094a1fa58471b4eb5f66cf735c",
+      "translation_sha256": "3c99fbd4342dc4f5b7b748f6bd4a3e90c288e646f4a8cfea0bc477b117a76d3d",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Obadiah 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Obadiah 1:2",
+          "segment_mode": "whole",
+          "sha256": "08fe9e0e82ce585c15862e420737cd37d04d6e54aa846fcb2d9447d8f1606e61"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "08fe9e0e82ce585c15862e420737cd37d04d6e54aa846fcb2d9447d8f1606e61",
+      "translation_sha256": "29b60b15c3e976650dfa7f4970de4888b248e7041a56747b80927ad182c13a09",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Obadiah 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Obadiah 1:3",
+          "segment_mode": "whole",
+          "sha256": "f1ef4998072ba5553eaa3b18931da65cc5f4358f914746ed0cf726faeeeb560b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f1ef4998072ba5553eaa3b18931da65cc5f4358f914746ed0cf726faeeeb560b",
+      "translation_sha256": "81fcf7a54e18319670daee377de3cc0cb0d864d655b6a0d7ab9d4e7ebc3e78d9",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Obadiah 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Obadiah 1:4",
+          "segment_mode": "whole",
+          "sha256": "21d8402775a0bb3549799a8e589cd340f3cd337a24883b9de113788f74b60b11"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "21d8402775a0bb3549799a8e589cd340f3cd337a24883b9de113788f74b60b11",
+      "translation_sha256": "7f022fb8bddfa382ac3a7cd56e392e942afd24241016f8ea027fd881e291e80b",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Obadiah 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Obadiah 1:5",
+          "segment_mode": "whole",
+          "sha256": "637eb3d510f4adbad3a7e448173599bd600714d352227d580df91df8ae32a20b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "637eb3d510f4adbad3a7e448173599bd600714d352227d580df91df8ae32a20b",
+      "translation_sha256": "8e67a99e9b6f9330c7fade1be7372802f869256d7cf851371faa1eda485b9955",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Obadiah 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Obadiah 1:6",
+          "segment_mode": "whole",
+          "sha256": "4f046cf843ae6ee33ec66b6f1f10f9857039896230ba4235b3ec697a9b207157"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4f046cf843ae6ee33ec66b6f1f10f9857039896230ba4235b3ec697a9b207157",
+      "translation_sha256": "26e299b3c1bc652e0bd7c197de797b9d20cd5095da4857b00a015a6eff6ac6a5",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Obadiah 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Obadiah 1:7",
+          "segment_mode": "whole",
+          "sha256": "6890466e9736bcd9c0da3cf297bd2c65bc3040754c11eb4de15829498d85dd5e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6890466e9736bcd9c0da3cf297bd2c65bc3040754c11eb4de15829498d85dd5e",
+      "translation_sha256": "c2f2b86cc2ed3ddebdf94bdabe061a5c69e65e656f5a3f5c8d640f79024a84ea",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Obadiah 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Obadiah 1:8",
+          "segment_mode": "whole",
+          "sha256": "a88d9d2a9f8e0bb2473b2314da0671b253919e974791c10217019e7b9cabe101"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a88d9d2a9f8e0bb2473b2314da0671b253919e974791c10217019e7b9cabe101",
+      "translation_sha256": "d34f4f513aeee612b7c407a0382be70f036d397f3fed414658fefbf48b50d1b7",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Obadiah 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Obadiah 1:9",
+          "segment_mode": "whole",
+          "sha256": "008da207e692fce31937592161bd6c198bab482db2f3995d20e890e89c7d3dfc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "008da207e692fce31937592161bd6c198bab482db2f3995d20e890e89c7d3dfc",
+      "translation_sha256": "6f0db29549f519eb79517e453946397df202e1b2220851d5abcd3f0087e9ed6e",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Obadiah 1:10",
+          "segment_mode": "whole",
+          "sha256": "6f1fd6cd2200f03e37b999946f5f1b68558cdf4012dc49096933dc3a96b06ada"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6f1fd6cd2200f03e37b999946f5f1b68558cdf4012dc49096933dc3a96b06ada",
+      "translation_sha256": "bc8c4d202038439ce3a8c3783edf4f19a195cc63a6ddcd7507553fd400dda231",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Keep Edom's violence and opportunism against kin at the center of the indictment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Obadiah 1:11",
+          "segment_mode": "whole",
+          "sha256": "e39493c7716ca13ab0793db5b75b119c53dccb5fd2a3a0c792ed3f66dbad3be4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e39493c7716ca13ab0793db5b75b119c53dccb5fd2a3a0c792ed3f66dbad3be4",
+      "translation_sha256": "a935fc7a9552b1dabc1ebe84a4404709c652db52a46acc2fabd78317f8cd5e71",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Keep Edom's violence and opportunism against kin at the center of the indictment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Obadiah 1:12",
+          "segment_mode": "whole",
+          "sha256": "86d5265ff5d5601c4f53d4fb88faba8df7d27d417e1a945c380be1030b1a0f35"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "86d5265ff5d5601c4f53d4fb88faba8df7d27d417e1a945c380be1030b1a0f35",
+      "translation_sha256": "be097d296604d230f8090c289aa15d915ecee359061ff338af256d89e8688474",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Keep Edom's violence and opportunism against kin at the center of the indictment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Obadiah 1:13",
+          "segment_mode": "whole",
+          "sha256": "6dd6e2c899ac17ac31261deefa9a0abf94088ce701ce3d9fdf968070dac6c867"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6dd6e2c899ac17ac31261deefa9a0abf94088ce701ce3d9fdf968070dac6c867",
+      "translation_sha256": "28b85be0ad1894d4519d3350c1cf06b8a289af6daf57092c62ed2f29f973f6ba",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Keep Edom's violence and opportunism against kin at the center of the indictment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Obadiah 1:14",
+          "segment_mode": "whole",
+          "sha256": "95a6ba60a3a5804b2978bf7c305fe5a5229314d3b06df885196feea2740a9ab7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "95a6ba60a3a5804b2978bf7c305fe5a5229314d3b06df885196feea2740a9ab7",
+      "translation_sha256": "388b232fbe619625fc5fab9831ffc8befbf9df552363594686846dad4a9fdda8",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Keep Edom's violence and opportunism against kin at the center of the indictment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Obadiah 1:15",
+          "segment_mode": "whole",
+          "sha256": "2061312847fae7112ae6bdb5f8f43450b0ca7b8c7420e183d0da06449b4831f3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2061312847fae7112ae6bdb5f8f43450b0ca7b8c7420e183d0da06449b4831f3",
+      "translation_sha256": "15bc592b6a4c659c0be536a0991ad6816e2d69f6c6467a668b198a6c011132ba",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Preserve the day-of-the-LORD movement from Edom to all nations and toward God's reign."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Obadiah 1:16",
+          "segment_mode": "whole",
+          "sha256": "7e332c3fe6b0469f1c33fa00a1a0e87c9ed527588e002332877d8f12bc25bee6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7e332c3fe6b0469f1c33fa00a1a0e87c9ed527588e002332877d8f12bc25bee6",
+      "translation_sha256": "ccc703fbd05d540a00f8d43b5023d996774e17b2c769ce44f25290ccc9b00d79",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Preserve the day-of-the-LORD movement from Edom to all nations and toward God's reign."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "Obadiah 1:17",
+          "segment_mode": "whole",
+          "sha256": "361d611cd868c5f905169da4669acbaea28fef1b2da250916528b65dba4d7387"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "361d611cd868c5f905169da4669acbaea28fef1b2da250916528b65dba4d7387",
+      "translation_sha256": "35f6d403eadbbf93a77427479fa6db7e823eb4bfec433cfaa429cf11785fe4f4",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Preserve the day-of-the-LORD movement from Edom to all nations and toward God's reign."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:18",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 18,
+          "source_ref": "Obadiah 1:18",
+          "segment_mode": "whole",
+          "sha256": "46aa3aef887d8970b19fa5f7701104b10904e98dd1259e48b64e45c82ba3a6a1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "46aa3aef887d8970b19fa5f7701104b10904e98dd1259e48b64e45c82ba3a6a1",
+      "translation_sha256": "09e1ef0c8c8d9f4f58558a940b6e8635c8b850409f21c2eacd0a2f418bc94b4b",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Preserve the day-of-the-LORD movement from Edom to all nations and toward God's reign."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:19",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 19,
+          "source_ref": "Obadiah 1:19",
+          "segment_mode": "whole",
+          "sha256": "32e00948de7de0b8db790a4578ba737cb5017eeebbe6a2265b1cca6695017d2a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "32e00948de7de0b8db790a4578ba737cb5017eeebbe6a2265b1cca6695017d2a",
+      "translation_sha256": "cc1579d2a5e795f33e498abc48f9fe71d16dd8b11ddbd687f9df9ccc8a9121da",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Preserve the day-of-the-LORD movement from Edom to all nations and toward God's reign."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:20",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 20,
+          "source_ref": "Obadiah 1:20",
+          "segment_mode": "whole",
+          "sha256": "362754899451f6da7be085245c8b3390f0f28752c7b408fc764efc77424a0e8d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "362754899451f6da7be085245c8b3390f0f28752c7b408fc764efc77424a0e8d",
+      "translation_sha256": "0549ead5784247d61aec87f02f19726cdc0ee7a2ad864d6adde994d45ef04a79",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Preserve the day-of-the-LORD movement from Edom to all nations and toward God's reign."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Obadiah 1:21",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 21,
+          "source_ref": "Obadiah 1:21",
+          "segment_mode": "whole",
+          "sha256": "555ce486e5cff649ff9dc540424264b672cc62d96e0821e3e2a6ff8ee041208d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "555ce486e5cff649ff9dc540424264b672cc62d96e0821e3e2a6ff8ee041208d",
+      "translation_sha256": "c51ac80dd280e77f288fa92ee67e16bd9c65f139ea8e13a96bd1ee5c5fd6f219",
+      "tsw_blob_sha": "c9669b9078880047d04153029930697a22062942",
+      "curated_decisions": [
+        "Preserve the day-of-the-LORD movement from Edom to all nations and toward God's reign."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 9,
+    "F1": 0,
+    "F2": 0,
+    "F3": 12
+  },
+  "public_verse_slots": 21,
+  "included_source_bindings": 21
+}
