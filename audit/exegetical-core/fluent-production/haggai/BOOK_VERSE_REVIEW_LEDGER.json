@@ -1,0 +1,875 @@
+{
+  "book": "Haggai",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hag.xml",
+    "git_blob_sha": "19be7cb75bbe0ddf9f19d301dc4a54a280bae6e9"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Haggai 1:1",
+          "segment_mode": "whole",
+          "sha256": "7799c6bfa2ccb6f8daf824980de6ab6d74f21297e393d33c91abd8f006f05a42"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7799c6bfa2ccb6f8daf824980de6ab6d74f21297e393d33c91abd8f006f05a42",
+      "translation_sha256": "8a0978e98293f41161702fe7f3cececdbdeed23c642570a1494f696ccbdb2cac",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Haggai 1:2",
+          "segment_mode": "whole",
+          "sha256": "87c630f07c66ed6ae98b4c1d893c121b5c8dcbc4ff1794fa4e162c6087de170f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "87c630f07c66ed6ae98b4c1d893c121b5c8dcbc4ff1794fa4e162c6087de170f",
+      "translation_sha256": "3c88e9022cb17c48de052511008ca36fe1cc1f18b035d08547e99549dd04f995",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Haggai 1:3",
+          "segment_mode": "whole",
+          "sha256": "7301f36b6d73e81dad36922113ed90075da6bad7063f6bc9cada31021bb1c3a3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7301f36b6d73e81dad36922113ed90075da6bad7063f6bc9cada31021bb1c3a3",
+      "translation_sha256": "a2700ee2178059849ed92504c1ff7cd32dd390f1452a2a37c645ce643355ae33",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Haggai 1:4",
+          "segment_mode": "whole",
+          "sha256": "9c43b6218cc6a9873c2f15af0dab386cb0f966de67cad72f02a41e1f1f8e5161"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9c43b6218cc6a9873c2f15af0dab386cb0f966de67cad72f02a41e1f1f8e5161",
+      "translation_sha256": "78fe9362479b6c8d86c4ec74ee054e19204fb3013f7b378065d9baf3357d0d38",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Haggai 1:5",
+          "segment_mode": "whole",
+          "sha256": "003932723c284c85576a4d7705ff091faee6fd9d7c08871f98944fa67b5fa05f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "003932723c284c85576a4d7705ff091faee6fd9d7c08871f98944fa67b5fa05f",
+      "translation_sha256": "dd92e2b78981872944760901bb40ca6d4f159853c520f1013cde8f154c948184",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Haggai 1:6",
+          "segment_mode": "whole",
+          "sha256": "723e679d5819f9255d0f01b00c36b83a4da1af94c1e73a0a59c084738033dd0c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "723e679d5819f9255d0f01b00c36b83a4da1af94c1e73a0a59c084738033dd0c",
+      "translation_sha256": "874671c33e565aa9b3288b8245dd9fd116ca23f001a0ea6a041754be89be7a3b",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Haggai 1:7",
+          "segment_mode": "whole",
+          "sha256": "d24220853309c3a0d3fd6bb530dd3a2ea62ee60a1311aa2db69629f51c9f5927"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d24220853309c3a0d3fd6bb530dd3a2ea62ee60a1311aa2db69629f51c9f5927",
+      "translation_sha256": "f39fc7a729baf798609ebfb03ed7d72d9043ddc92663a9c7bfd49b959ea843a4",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Haggai 1:8",
+          "segment_mode": "whole",
+          "sha256": "824430d8931cf394ea8c97f3841a7cc90008dc46a5432ecd3ad86ddb44af33fb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "824430d8931cf394ea8c97f3841a7cc90008dc46a5432ecd3ad86ddb44af33fb",
+      "translation_sha256": "c8775b1ad45eda248462c61167883f87a6adf89e2ff341e456e135cd06536573",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Haggai 1:9",
+          "segment_mode": "whole",
+          "sha256": "41ade01b6d3ea5f4fc4039d2bba3b3a9090643d97209b3996caafd4adca7a780"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "41ade01b6d3ea5f4fc4039d2bba3b3a9090643d97209b3996caafd4adca7a780",
+      "translation_sha256": "51ea8fc14eb915d77443809f250175c07783188a73ebfbedbf98db77fa21c851",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Haggai 1:10",
+          "segment_mode": "whole",
+          "sha256": "16cbc96cd511d7fb8e695d8a67168704cf3b9ddf7e93ab835cad610ff837c5de"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "16cbc96cd511d7fb8e695d8a67168704cf3b9ddf7e93ab835cad610ff837c5de",
+      "translation_sha256": "774ddb35de15f59aadc90de63f1696d894c5a4ce8f76fb80df39d6159d8a2747",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Haggai 1:11",
+          "segment_mode": "whole",
+          "sha256": "eefa6c42825fa7043cabec21ed1d209d4d7feb44371651688c13dbd4ba7d0292"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "eefa6c42825fa7043cabec21ed1d209d4d7feb44371651688c13dbd4ba7d0292",
+      "translation_sha256": "20819fc2d4ea3b99e874aee42f72282758fee287796e4a8eed2686d7934708c3",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": [
+        "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Haggai 1:12",
+          "segment_mode": "whole",
+          "sha256": "30e736090c5e3ab4f6d207d64a35d619ae69a2ef1586469936f69d53fd8b2df5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "30e736090c5e3ab4f6d207d64a35d619ae69a2ef1586469936f69d53fd8b2df5",
+      "translation_sha256": "011c98039c4deb47a0070cff0bb21b1eea916496c087f80c6c358e075657d6f1",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Haggai 1:13",
+          "segment_mode": "whole",
+          "sha256": "388d119974ea21e0bb0710eb612f8b5209419f5d92896b9e839ad199c5d566a5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "388d119974ea21e0bb0710eb612f8b5209419f5d92896b9e839ad199c5d566a5",
+      "translation_sha256": "389c80549ed0f63c81e3247caf4eef207c46a35a59bb60e6270f1de43ce9b6cf",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Haggai 1:14",
+          "segment_mode": "whole",
+          "sha256": "8d150da78871619d3b45f60b55f9134a6eddfa21999459144fb237f854082d06"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8d150da78871619d3b45f60b55f9134a6eddfa21999459144fb237f854082d06",
+      "translation_sha256": "ea88d6b253ada93933d6271ef8e193ef54fb4dabc2c05a0262e892a8cfe35ff8",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Haggai 1:15",
+          "segment_mode": "whole",
+          "sha256": "9bbdc6269b0eaa691a8ff3e75204065adc70ce1fa24df04621a3c7757ea31fde"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9bbdc6269b0eaa691a8ff3e75204065adc70ce1fa24df04621a3c7757ea31fde",
+      "translation_sha256": "4624481186f231dcac505d13f115852012506c1c090c806ab8fdd7d344bb117e",
+      "tsw_blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Haggai 2:1",
+          "segment_mode": "whole",
+          "sha256": "2efc96560f5b2048e2fd5339a00644b0fb3b3347a3c1bc1ace537a544a32abb3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2efc96560f5b2048e2fd5339a00644b0fb3b3347a3c1bc1ace537a544a32abb3",
+      "translation_sha256": "cf00566bb2135bb030f968ee4e69431891ef7f2e3d3d5b820f377450fede9ddd",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Haggai 2:2",
+          "segment_mode": "whole",
+          "sha256": "9a90cb1305e83700e1eb8efdf281aa6d754e0391f19790ee081835cc9b169b78"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9a90cb1305e83700e1eb8efdf281aa6d754e0391f19790ee081835cc9b169b78",
+      "translation_sha256": "a7407bd713d44f357c6c6c0a0928f8ff9f03461f83eabf346a124fc5000944d2",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Haggai 2:3",
+          "segment_mode": "whole",
+          "sha256": "2ffe52b72e742b7d3e655090225ba25569ae973ca2568dfc05c40bc64ae5e33c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2ffe52b72e742b7d3e655090225ba25569ae973ca2568dfc05c40bc64ae5e33c",
+      "translation_sha256": "bffecfa203f0a558bf34a3c1c8965827f2bb18fcb320fb3dbf708227a7e9539b",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Haggai 2:4",
+          "segment_mode": "whole",
+          "sha256": "9760ebbe2298d2251806e3b81d25e7f30124e9da47464736b99026d8c417f74f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9760ebbe2298d2251806e3b81d25e7f30124e9da47464736b99026d8c417f74f",
+      "translation_sha256": "afaa300c24ebd090250bcf95bd8467665ca3cfef802019e25ccf36c691d7a7e6",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Haggai 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Haggai 2:5",
+          "segment_mode": "whole",
+          "sha256": "c47801ae4f0eb5a08ea3f01d776bc649e5ebe616b0d04249cd9e05643b2569e6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c47801ae4f0eb5a08ea3f01d776bc649e5ebe616b0d04249cd9e05643b2569e6",
+      "translation_sha256": "371c4a89d08f634f1f212b12c7c0115d0c944296ab90ff74e1f953b57b92716c",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Haggai 2:6",
+          "segment_mode": "whole",
+          "sha256": "e45ecc6dc7025815b65abb1338876a1346e9c166195757e4d44715d576d50b43"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e45ecc6dc7025815b65abb1338876a1346e9c166195757e4d44715d576d50b43",
+      "translation_sha256": "d34ba97f7e9a24a1cc1e6c512f67ed31cdabe82abfe4eacafbe0c7e9874894d5",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Retain cosmic shaking and the nations' treasure/desire ambiguity in notes."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Haggai 2:7",
+          "segment_mode": "whole",
+          "sha256": "0ca78b8e952238aa8d1d3f6d2ab2177ea94fe2d385b0d0544ab3c916910c4e0a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0ca78b8e952238aa8d1d3f6d2ab2177ea94fe2d385b0d0544ab3c916910c4e0a",
+      "translation_sha256": "61703454481ee1a40f9df65874bc3fdf2f13492b68b8d63e9c37b9d7d8a8f5ab",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Retain cosmic shaking and the nations' treasure/desire ambiguity in notes."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Haggai 2:8",
+          "segment_mode": "whole",
+          "sha256": "6e7bb1ab7c4bed3a15e7d8c033ba133c4db4332e9bf1f8454e2eac4bf6d26f8b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6e7bb1ab7c4bed3a15e7d8c033ba133c4db4332e9bf1f8454e2eac4bf6d26f8b",
+      "translation_sha256": "834cb1c602e76832cce5f0edc1ad5447ea5ea235597904eb2275fd4829ab99e2",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Retain cosmic shaking and the nations' treasure/desire ambiguity in notes."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Haggai 2:9",
+          "segment_mode": "whole",
+          "sha256": "fc4629ad2e676b420bf636dd7d20a5199bd41f6523803097d8b42ee7b069570f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fc4629ad2e676b420bf636dd7d20a5199bd41f6523803097d8b42ee7b069570f",
+      "translation_sha256": "20a0ab1017f5f1ed452174e14a5fac5ab6c9f6a8e5ba2a19681b34194ce58511",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Retain cosmic shaking and the nations' treasure/desire ambiguity in notes."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Haggai 2:10",
+          "segment_mode": "whole",
+          "sha256": "b16902b4c0b9412495d809b94d397459993b30d776a6532fdd63b81a5d306567"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b16902b4c0b9412495d809b94d397459993b30d776a6532fdd63b81a5d306567",
+      "translation_sha256": "91eccfd78c71ac7b853ddd099c8d3cf6f6e2f6678c7eb7f2b701a00f91434743",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Haggai 2:11",
+          "segment_mode": "whole",
+          "sha256": "9e55d3c9db0987d44e9c4532ddb0a5b9dc1222a1f7cea4c1fd976499a9c9918e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e55d3c9db0987d44e9c4532ddb0a5b9dc1222a1f7cea4c1fd976499a9c9918e",
+      "translation_sha256": "60853ed6d76b3f27ec5dd0790360e1687a8ca365a8fdd39f6a60de566f0964d8",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Haggai 2:12",
+          "segment_mode": "whole",
+          "sha256": "4fbc6d0c27dfaa6493c8e1add5d157c5cc08254ff8248dc9486d5ce9da252267"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4fbc6d0c27dfaa6493c8e1add5d157c5cc08254ff8248dc9486d5ce9da252267",
+      "translation_sha256": "4f1e6dec33b762898a148d97758cab2e5143dee2e86e71b56960ebc75d2abb8f",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Haggai 2:13",
+          "segment_mode": "whole",
+          "sha256": "e772c0c82a253cfcfbe64672a68f10db2116d696cb133a3b0c9d2e14286266da"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e772c0c82a253cfcfbe64672a68f10db2116d696cb133a3b0c9d2e14286266da",
+      "translation_sha256": "a2effc8121ddfe557393a4aed5dc5990d150da1d239644cddd85d5681d31f5c4",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Haggai 2:14",
+          "segment_mode": "whole",
+          "sha256": "bfb489f494d4916c31189c9b26edc52b3f0221a053176cfb331c59817554cddf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bfb489f494d4916c31189c9b26edc52b3f0221a053176cfb331c59817554cddf",
+      "translation_sha256": "7347305b290b3c698044c89ac66251eb999a430b02850b7ade64f477317dc3fe",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Haggai 2:15",
+          "segment_mode": "whole",
+          "sha256": "280ae0e2e1bc4f3ae9ebf26c8cb22adc492e620055b891fb99e59f7daf239541"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "280ae0e2e1bc4f3ae9ebf26c8cb22adc492e620055b891fb99e59f7daf239541",
+      "translation_sha256": "bd36b3cd70872e154733cc7124ca1267fd3a112a0026ababe37704fca891153a",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Haggai 2:16",
+          "segment_mode": "whole",
+          "sha256": "8c005300082f9174d7fe4bc9f97466bfed64b77eb7d799616a2704934dea08a4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8c005300082f9174d7fe4bc9f97466bfed64b77eb7d799616a2704934dea08a4",
+      "translation_sha256": "295dba518f5a7dadac075b62f470445a087fa2cc7ffbcacf505a3f3325cb168e",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:17",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "Haggai 2:17",
+          "segment_mode": "whole",
+          "sha256": "a25be90c7cbe22dea87b8d5a24c36c025f8450776eb74567e4cfb737c026f964"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a25be90c7cbe22dea87b8d5a24c36c025f8450776eb74567e4cfb737c026f964",
+      "translation_sha256": "c3423d1827244a27feb063534fe71b414a57e8d62b47a302f9264d2a548c925e",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:18",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 18,
+          "source_ref": "Haggai 2:18",
+          "segment_mode": "whole",
+          "sha256": "7ad9f7b3a72f7cca1e8cf554dd70565ccc8c832e76018d85704258e6403a1621"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7ad9f7b3a72f7cca1e8cf554dd70565ccc8c832e76018d85704258e6403a1621",
+      "translation_sha256": "21697d4bdfaaa39e2720ec7ac06919e5f171a7db7007cf2fc3c4cc9f2ab5a404",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:19",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 19,
+          "source_ref": "Haggai 2:19",
+          "segment_mode": "whole",
+          "sha256": "e53ae9576396f3c9059d9ae7d2e5e7f06236f21006df1cab5ef5ad09c9f04786"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e53ae9576396f3c9059d9ae7d2e5e7f06236f21006df1cab5ef5ad09c9f04786",
+      "translation_sha256": "20dbd3bf854cbaa914e5dbfc9a01ecfca6eeda7da2d096a23a616dc058548053",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Preserve the priestly holiness/defilement reasoning and the forward-looking promise."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:20",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 20,
+          "source_ref": "Haggai 2:20",
+          "segment_mode": "whole",
+          "sha256": "8e36480270404e982291970ddbec92b04906d06248e9a9daf5f9125dc7266a0b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8e36480270404e982291970ddbec92b04906d06248e9a9daf5f9125dc7266a0b",
+      "translation_sha256": "0bd0fba936454ad009257956e725d1cd63e475b7c18bb3b9b2560316098fb8d3",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Keep Zerubbabel's signet-ring promise in its Persian-period and Davidic horizon without claiming its full later resolution."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:21",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 21,
+          "source_ref": "Haggai 2:21",
+          "segment_mode": "whole",
+          "sha256": "3bd93fa9018b7d69bf54f374b277aba50c971db2e2e01b73e81e3b7fd1e830e4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3bd93fa9018b7d69bf54f374b277aba50c971db2e2e01b73e81e3b7fd1e830e4",
+      "translation_sha256": "3785ebceba3909cfc89dcdfc4afc216a40fc276dd17d98fc66ecd5928cee974f",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Keep Zerubbabel's signet-ring promise in its Persian-period and Davidic horizon without claiming its full later resolution."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:22",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 22,
+          "source_ref": "Haggai 2:22",
+          "segment_mode": "whole",
+          "sha256": "3b95b1181c8b811992dfd7daa8e2efaf276dcdc1d112baaf62344221c28bac24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3b95b1181c8b811992dfd7daa8e2efaf276dcdc1d112baaf62344221c28bac24",
+      "translation_sha256": "6c2634531e4cdae764e9e7da58358f8b13eda4fc90c6a224034589377512e20f",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Keep Zerubbabel's signet-ring promise in its Persian-period and Davidic horizon without claiming its full later resolution."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Haggai 2:23",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 23,
+          "source_ref": "Haggai 2:23",
+          "segment_mode": "whole",
+          "sha256": "d250ebd2155fa1c0f7b45a973e07932b532919a0c1e100854e2607ffd2c9fa55"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d250ebd2155fa1c0f7b45a973e07932b532919a0c1e100854e2607ffd2c9fa55",
+      "translation_sha256": "a2ecf4d1da7313cf52e4049ebc23fd3bfa298665767199c2f17e820f799b9f15",
+      "tsw_blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8",
+      "curated_decisions": [
+        "Keep Zerubbabel's signet-ring promise in its Persian-period and Davidic horizon without claiming its full later resolution."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 10,
+    "F1": 0,
+    "F2": 0,
+    "F3": 28
+  },
+  "public_verse_slots": 38,
+  "included_source_bindings": 38
+}

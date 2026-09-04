@@ -1,0 +1,267 @@
+{
+  "book": "Haggai",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hag.xml",
+    "git_blob_sha": "19be7cb75bbe0ddf9f19d301dc4a54a280bae6e9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-11",
+      "decision": "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hag.xml",
+    "git_blob_sha": "19be7cb75bbe0ddf9f19d301dc4a54a280bae6e9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Haggai 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Haggai 1:1",
+            "segment_mode": "whole",
+            "sha256": "7799c6bfa2ccb6f8daf824980de6ab6d74f21297e393d33c91abd8f006f05a42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7799c6bfa2ccb6f8daf824980de6ab6d74f21297e393d33c91abd8f006f05a42"
+      },
+      "2": {
+        "source_ref": "Haggai 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Haggai 1:2",
+            "segment_mode": "whole",
+            "sha256": "87c630f07c66ed6ae98b4c1d893c121b5c8dcbc4ff1794fa4e162c6087de170f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87c630f07c66ed6ae98b4c1d893c121b5c8dcbc4ff1794fa4e162c6087de170f"
+      },
+      "3": {
+        "source_ref": "Haggai 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Haggai 1:3",
+            "segment_mode": "whole",
+            "sha256": "7301f36b6d73e81dad36922113ed90075da6bad7063f6bc9cada31021bb1c3a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7301f36b6d73e81dad36922113ed90075da6bad7063f6bc9cada31021bb1c3a3"
+      },
+      "4": {
+        "source_ref": "Haggai 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Haggai 1:4",
+            "segment_mode": "whole",
+            "sha256": "9c43b6218cc6a9873c2f15af0dab386cb0f966de67cad72f02a41e1f1f8e5161"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c43b6218cc6a9873c2f15af0dab386cb0f966de67cad72f02a41e1f1f8e5161"
+      },
+      "5": {
+        "source_ref": "Haggai 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Haggai 1:5",
+            "segment_mode": "whole",
+            "sha256": "003932723c284c85576a4d7705ff091faee6fd9d7c08871f98944fa67b5fa05f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "003932723c284c85576a4d7705ff091faee6fd9d7c08871f98944fa67b5fa05f"
+      },
+      "6": {
+        "source_ref": "Haggai 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Haggai 1:6",
+            "segment_mode": "whole",
+            "sha256": "723e679d5819f9255d0f01b00c36b83a4da1af94c1e73a0a59c084738033dd0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "723e679d5819f9255d0f01b00c36b83a4da1af94c1e73a0a59c084738033dd0c"
+      },
+      "7": {
+        "source_ref": "Haggai 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Haggai 1:7",
+            "segment_mode": "whole",
+            "sha256": "d24220853309c3a0d3fd6bb530dd3a2ea62ee60a1311aa2db69629f51c9f5927"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d24220853309c3a0d3fd6bb530dd3a2ea62ee60a1311aa2db69629f51c9f5927"
+      },
+      "8": {
+        "source_ref": "Haggai 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Haggai 1:8",
+            "segment_mode": "whole",
+            "sha256": "824430d8931cf394ea8c97f3841a7cc90008dc46a5432ecd3ad86ddb44af33fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "824430d8931cf394ea8c97f3841a7cc90008dc46a5432ecd3ad86ddb44af33fb"
+      },
+      "9": {
+        "source_ref": "Haggai 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Haggai 1:9",
+            "segment_mode": "whole",
+            "sha256": "41ade01b6d3ea5f4fc4039d2bba3b3a9090643d97209b3996caafd4adca7a780"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41ade01b6d3ea5f4fc4039d2bba3b3a9090643d97209b3996caafd4adca7a780"
+      },
+      "10": {
+        "source_ref": "Haggai 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Haggai 1:10",
+            "segment_mode": "whole",
+            "sha256": "16cbc96cd511d7fb8e695d8a67168704cf3b9ddf7e93ab835cad610ff837c5de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16cbc96cd511d7fb8e695d8a67168704cf3b9ddf7e93ab835cad610ff837c5de"
+      },
+      "11": {
+        "source_ref": "Haggai 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Haggai 1:11",
+            "segment_mode": "whole",
+            "sha256": "eefa6c42825fa7043cabec21ed1d209d4d7feb44371651688c13dbd4ba7d0292"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eefa6c42825fa7043cabec21ed1d209d4d7feb44371651688c13dbd4ba7d0292"
+      },
+      "12": {
+        "source_ref": "Haggai 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Haggai 1:12",
+            "segment_mode": "whole",
+            "sha256": "30e736090c5e3ab4f6d207d64a35d619ae69a2ef1586469936f69d53fd8b2df5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30e736090c5e3ab4f6d207d64a35d619ae69a2ef1586469936f69d53fd8b2df5"
+      },
+      "13": {
+        "source_ref": "Haggai 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Haggai 1:13",
+            "segment_mode": "whole",
+            "sha256": "388d119974ea21e0bb0710eb612f8b5209419f5d92896b9e839ad199c5d566a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "388d119974ea21e0bb0710eb612f8b5209419f5d92896b9e839ad199c5d566a5"
+      },
+      "14": {
+        "source_ref": "Haggai 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Haggai 1:14",
+            "segment_mode": "whole",
+            "sha256": "8d150da78871619d3b45f60b55f9134a6eddfa21999459144fb237f854082d06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d150da78871619d3b45f60b55f9134a6eddfa21999459144fb237f854082d06"
+      },
+      "15": {
+        "source_ref": "Haggai 1:15",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Haggai 1:15",
+            "segment_mode": "whole",
+            "sha256": "9bbdc6269b0eaa691a8ff3e75204065adc70ce1fa24df04621a3c7757ea31fde"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9bbdc6269b0eaa691a8ff3e75204065adc70ce1fa24df04621a3c7757ea31fde"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/haggai/Haggai_01.md",
+    "blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

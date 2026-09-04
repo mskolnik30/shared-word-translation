@@ -1,0 +1,397 @@
+{
+  "book": "Haggai",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hag.xml",
+    "git_blob_sha": "19be7cb75bbe0ddf9f19d301dc4a54a280bae6e9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "2:6-9",
+      "decision": "Retain cosmic shaking and the nations' treasure/desire ambiguity in notes.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:10-19",
+      "decision": "Preserve the priestly holiness/defilement reasoning and the forward-looking promise.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:20-23",
+      "decision": "Keep Zerubbabel's signet-ring promise in its Persian-period and Davidic horizon without claiming its full later resolution.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hag.xml",
+    "git_blob_sha": "19be7cb75bbe0ddf9f19d301dc4a54a280bae6e9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Haggai 2:1",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Haggai 2:1",
+            "segment_mode": "whole",
+            "sha256": "2efc96560f5b2048e2fd5339a00644b0fb3b3347a3c1bc1ace537a544a32abb3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2efc96560f5b2048e2fd5339a00644b0fb3b3347a3c1bc1ace537a544a32abb3"
+      },
+      "2": {
+        "source_ref": "Haggai 2:2",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Haggai 2:2",
+            "segment_mode": "whole",
+            "sha256": "9a90cb1305e83700e1eb8efdf281aa6d754e0391f19790ee081835cc9b169b78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a90cb1305e83700e1eb8efdf281aa6d754e0391f19790ee081835cc9b169b78"
+      },
+      "3": {
+        "source_ref": "Haggai 2:3",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Haggai 2:3",
+            "segment_mode": "whole",
+            "sha256": "2ffe52b72e742b7d3e655090225ba25569ae973ca2568dfc05c40bc64ae5e33c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ffe52b72e742b7d3e655090225ba25569ae973ca2568dfc05c40bc64ae5e33c"
+      },
+      "4": {
+        "source_ref": "Haggai 2:4",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Haggai 2:4",
+            "segment_mode": "whole",
+            "sha256": "9760ebbe2298d2251806e3b81d25e7f30124e9da47464736b99026d8c417f74f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9760ebbe2298d2251806e3b81d25e7f30124e9da47464736b99026d8c417f74f"
+      },
+      "5": {
+        "source_ref": "Haggai 2:5",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Haggai 2:5",
+            "segment_mode": "whole",
+            "sha256": "c47801ae4f0eb5a08ea3f01d776bc649e5ebe616b0d04249cd9e05643b2569e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c47801ae4f0eb5a08ea3f01d776bc649e5ebe616b0d04249cd9e05643b2569e6"
+      },
+      "6": {
+        "source_ref": "Haggai 2:6",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Haggai 2:6",
+            "segment_mode": "whole",
+            "sha256": "e45ecc6dc7025815b65abb1338876a1346e9c166195757e4d44715d576d50b43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e45ecc6dc7025815b65abb1338876a1346e9c166195757e4d44715d576d50b43"
+      },
+      "7": {
+        "source_ref": "Haggai 2:7",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Haggai 2:7",
+            "segment_mode": "whole",
+            "sha256": "0ca78b8e952238aa8d1d3f6d2ab2177ea94fe2d385b0d0544ab3c916910c4e0a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ca78b8e952238aa8d1d3f6d2ab2177ea94fe2d385b0d0544ab3c916910c4e0a"
+      },
+      "8": {
+        "source_ref": "Haggai 2:8",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Haggai 2:8",
+            "segment_mode": "whole",
+            "sha256": "6e7bb1ab7c4bed3a15e7d8c033ba133c4db4332e9bf1f8454e2eac4bf6d26f8b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e7bb1ab7c4bed3a15e7d8c033ba133c4db4332e9bf1f8454e2eac4bf6d26f8b"
+      },
+      "9": {
+        "source_ref": "Haggai 2:9",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Haggai 2:9",
+            "segment_mode": "whole",
+            "sha256": "fc4629ad2e676b420bf636dd7d20a5199bd41f6523803097d8b42ee7b069570f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fc4629ad2e676b420bf636dd7d20a5199bd41f6523803097d8b42ee7b069570f"
+      },
+      "10": {
+        "source_ref": "Haggai 2:10",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Haggai 2:10",
+            "segment_mode": "whole",
+            "sha256": "b16902b4c0b9412495d809b94d397459993b30d776a6532fdd63b81a5d306567"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b16902b4c0b9412495d809b94d397459993b30d776a6532fdd63b81a5d306567"
+      },
+      "11": {
+        "source_ref": "Haggai 2:11",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Haggai 2:11",
+            "segment_mode": "whole",
+            "sha256": "9e55d3c9db0987d44e9c4532ddb0a5b9dc1222a1f7cea4c1fd976499a9c9918e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e55d3c9db0987d44e9c4532ddb0a5b9dc1222a1f7cea4c1fd976499a9c9918e"
+      },
+      "12": {
+        "source_ref": "Haggai 2:12",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Haggai 2:12",
+            "segment_mode": "whole",
+            "sha256": "4fbc6d0c27dfaa6493c8e1add5d157c5cc08254ff8248dc9486d5ce9da252267"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4fbc6d0c27dfaa6493c8e1add5d157c5cc08254ff8248dc9486d5ce9da252267"
+      },
+      "13": {
+        "source_ref": "Haggai 2:13",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Haggai 2:13",
+            "segment_mode": "whole",
+            "sha256": "e772c0c82a253cfcfbe64672a68f10db2116d696cb133a3b0c9d2e14286266da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e772c0c82a253cfcfbe64672a68f10db2116d696cb133a3b0c9d2e14286266da"
+      },
+      "14": {
+        "source_ref": "Haggai 2:14",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "Haggai 2:14",
+            "segment_mode": "whole",
+            "sha256": "bfb489f494d4916c31189c9b26edc52b3f0221a053176cfb331c59817554cddf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bfb489f494d4916c31189c9b26edc52b3f0221a053176cfb331c59817554cddf"
+      },
+      "15": {
+        "source_ref": "Haggai 2:15",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "Haggai 2:15",
+            "segment_mode": "whole",
+            "sha256": "280ae0e2e1bc4f3ae9ebf26c8cb22adc492e620055b891fb99e59f7daf239541"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "280ae0e2e1bc4f3ae9ebf26c8cb22adc492e620055b891fb99e59f7daf239541"
+      },
+      "16": {
+        "source_ref": "Haggai 2:16",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "Haggai 2:16",
+            "segment_mode": "whole",
+            "sha256": "8c005300082f9174d7fe4bc9f97466bfed64b77eb7d799616a2704934dea08a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c005300082f9174d7fe4bc9f97466bfed64b77eb7d799616a2704934dea08a4"
+      },
+      "17": {
+        "source_ref": "Haggai 2:17",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 17,
+            "source_ref": "Haggai 2:17",
+            "segment_mode": "whole",
+            "sha256": "a25be90c7cbe22dea87b8d5a24c36c025f8450776eb74567e4cfb737c026f964"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a25be90c7cbe22dea87b8d5a24c36c025f8450776eb74567e4cfb737c026f964"
+      },
+      "18": {
+        "source_ref": "Haggai 2:18",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 18,
+            "source_ref": "Haggai 2:18",
+            "segment_mode": "whole",
+            "sha256": "7ad9f7b3a72f7cca1e8cf554dd70565ccc8c832e76018d85704258e6403a1621"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ad9f7b3a72f7cca1e8cf554dd70565ccc8c832e76018d85704258e6403a1621"
+      },
+      "19": {
+        "source_ref": "Haggai 2:19",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 19,
+            "source_ref": "Haggai 2:19",
+            "segment_mode": "whole",
+            "sha256": "e53ae9576396f3c9059d9ae7d2e5e7f06236f21006df1cab5ef5ad09c9f04786"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e53ae9576396f3c9059d9ae7d2e5e7f06236f21006df1cab5ef5ad09c9f04786"
+      },
+      "20": {
+        "source_ref": "Haggai 2:20",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 20,
+            "source_ref": "Haggai 2:20",
+            "segment_mode": "whole",
+            "sha256": "8e36480270404e982291970ddbec92b04906d06248e9a9daf5f9125dc7266a0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e36480270404e982291970ddbec92b04906d06248e9a9daf5f9125dc7266a0b"
+      },
+      "21": {
+        "source_ref": "Haggai 2:21",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 21,
+            "source_ref": "Haggai 2:21",
+            "segment_mode": "whole",
+            "sha256": "3bd93fa9018b7d69bf54f374b277aba50c971db2e2e01b73e81e3b7fd1e830e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3bd93fa9018b7d69bf54f374b277aba50c971db2e2e01b73e81e3b7fd1e830e4"
+      },
+      "22": {
+        "source_ref": "Haggai 2:22",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 22,
+            "source_ref": "Haggai 2:22",
+            "segment_mode": "whole",
+            "sha256": "3b95b1181c8b811992dfd7daa8e2efaf276dcdc1d112baaf62344221c28bac24"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b95b1181c8b811992dfd7daa8e2efaf276dcdc1d112baaf62344221c28bac24"
+      },
+      "23": {
+        "source_ref": "Haggai 2:23",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 23,
+            "source_ref": "Haggai 2:23",
+            "segment_mode": "whole",
+            "sha256": "d250ebd2155fa1c0f7b45a973e07932b532919a0c1e100854e2607ffd2c9fa55"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d250ebd2155fa1c0f7b45a973e07932b532919a0c1e100854e2607ffd2c9fa55"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/haggai/Haggai_02.md",
+    "blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

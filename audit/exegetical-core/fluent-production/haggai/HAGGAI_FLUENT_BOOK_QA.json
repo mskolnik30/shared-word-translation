@@ -1,0 +1,63 @@
+{
+  "book": "Haggai",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 2,
+  "public_verse_slots": 38,
+  "included_verse_labels": 38,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 38,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hag.xml",
+    "git_blob_sha": "19be7cb75bbe0ddf9f19d301dc4a54a280bae6e9"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-11",
+      "decision": "Keep the economic frustration tied to communal neglect without turning hardship into a universal formula of punishment.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:6-9",
+      "decision": "Retain cosmic shaking and the nations' treasure/desire ambiguity in notes.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:10-19",
+      "decision": "Preserve the priestly holiness/defilement reasoning and the forward-looking promise.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:20-23",
+      "decision": "Keep Zerubbabel's signet-ring promise in its Persian-period and Davidic horizon without claiming its full later resolution.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_03",
+  "deployment_audit": {
+    "source_git_blob_sha": "19be7cb75bbe0ddf9f19d301dc4a54a280bae6e9",
+    "source_binding_count": 38,
+    "unique_source_record_count": 38,
+    "public_verse_slots": 38,
+    "ledger_summary": {
+      "F0": 10,
+      "F1": 0,
+      "F2": 0,
+      "F3": 28
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/haggai/Haggai_01.md",
+        "blob_sha": "b7ca7d651dc3616ad887e2bb09b903689c0e5d6c"
+      },
+      "02": {
+        "path": "books/OT/haggai/Haggai_02.md",
+        "blob_sha": "d3da54fd8350a22e017db96cef58585c8a6504f8"
+      }
+    }
+  }
+}
