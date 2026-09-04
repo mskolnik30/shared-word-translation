@@ -1,0 +1,582 @@
+{
+  "book": "Judges",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-3:6",
+      "decision": "Keep incomplete conquest, accommodation, oppression, and the book's recurring cycle distinct; do not idealize the violence.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Judges 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Judges 1:1",
+            "segment_mode": "whole",
+            "sha256": "e4f166c492b76b69848ebfe5d8e8d57850c0079a119b47f87bd0764b6d5a9576"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4f166c492b76b69848ebfe5d8e8d57850c0079a119b47f87bd0764b6d5a9576"
+      },
+      "2": {
+        "source_ref": "Judges 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Judges 1:2",
+            "segment_mode": "whole",
+            "sha256": "ea3d28d9bbae2bc1fdd13fd05ee1231e662c6fcb927b948cfe1eac965e773b2a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea3d28d9bbae2bc1fdd13fd05ee1231e662c6fcb927b948cfe1eac965e773b2a"
+      },
+      "3": {
+        "source_ref": "Judges 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Judges 1:3",
+            "segment_mode": "whole",
+            "sha256": "fd7ca6cc6f0d23c3ef2f4ab7b3e733601c3dcd644cb6f3106d1c1891e3be082c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd7ca6cc6f0d23c3ef2f4ab7b3e733601c3dcd644cb6f3106d1c1891e3be082c"
+      },
+      "4": {
+        "source_ref": "Judges 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Judges 1:4",
+            "segment_mode": "whole",
+            "sha256": "407f1e277b816d85677a9daed0f2fa3580b0c2798f7e77517aa9ae50a6006880"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "407f1e277b816d85677a9daed0f2fa3580b0c2798f7e77517aa9ae50a6006880"
+      },
+      "5": {
+        "source_ref": "Judges 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Judges 1:5",
+            "segment_mode": "whole",
+            "sha256": "3beedf0f7745566fd4c81b08cf3070eef270786fe385dc6995917a0282b9865c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3beedf0f7745566fd4c81b08cf3070eef270786fe385dc6995917a0282b9865c"
+      },
+      "6": {
+        "source_ref": "Judges 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Judges 1:6",
+            "segment_mode": "whole",
+            "sha256": "965cc89e599bc817adf175e94a96a02f1b56b2a16951a1ff93f5323cf93351f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "965cc89e599bc817adf175e94a96a02f1b56b2a16951a1ff93f5323cf93351f8"
+      },
+      "7": {
+        "source_ref": "Judges 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Judges 1:7",
+            "segment_mode": "whole",
+            "sha256": "5f0f53ccb3f8355ae5c0b1dea7d2998cc0343db939fc90d8ae900b839fbc7cf1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f0f53ccb3f8355ae5c0b1dea7d2998cc0343db939fc90d8ae900b839fbc7cf1"
+      },
+      "8": {
+        "source_ref": "Judges 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Judges 1:8",
+            "segment_mode": "whole",
+            "sha256": "79230632cb6382ec99797a49ed93e66cb7bfe61c75bef387a220ea2bd7be3088"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79230632cb6382ec99797a49ed93e66cb7bfe61c75bef387a220ea2bd7be3088"
+      },
+      "9": {
+        "source_ref": "Judges 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Judges 1:9",
+            "segment_mode": "whole",
+            "sha256": "b7ca97c5daadfe3d15c462085c2eff0463c4821b917c26c8403d4c034d55c871"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7ca97c5daadfe3d15c462085c2eff0463c4821b917c26c8403d4c034d55c871"
+      },
+      "10": {
+        "source_ref": "Judges 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Judges 1:10",
+            "segment_mode": "whole",
+            "sha256": "4f680232e75f896a1bfc9a2f042e8ea26633df8722554d5b7e160bfc24efecd0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f680232e75f896a1bfc9a2f042e8ea26633df8722554d5b7e160bfc24efecd0"
+      },
+      "11": {
+        "source_ref": "Judges 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Judges 1:11",
+            "segment_mode": "whole",
+            "sha256": "21beecb273f79845fe0e46acc90c0256f453bea301357befe2d2a2a531ab9689"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "21beecb273f79845fe0e46acc90c0256f453bea301357befe2d2a2a531ab9689"
+      },
+      "12": {
+        "source_ref": "Judges 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Judges 1:12",
+            "segment_mode": "whole",
+            "sha256": "0ccc586923cedec206ca872a8a69233c22af77625f4af0bbb814ae3e14f960e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ccc586923cedec206ca872a8a69233c22af77625f4af0bbb814ae3e14f960e9"
+      },
+      "13": {
+        "source_ref": "Judges 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Judges 1:13",
+            "segment_mode": "whole",
+            "sha256": "61713290443f8aa7553f4176947bfdeb91aa3e59248fa55bc817066e0418f9f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61713290443f8aa7553f4176947bfdeb91aa3e59248fa55bc817066e0418f9f0"
+      },
+      "14": {
+        "source_ref": "Judges 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Judges 1:14",
+            "segment_mode": "whole",
+            "sha256": "13087864547835c5ff4918dcbb7a3d27fd330f2e71b08081cbb45d596910eab5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13087864547835c5ff4918dcbb7a3d27fd330f2e71b08081cbb45d596910eab5"
+      },
+      "15": {
+        "source_ref": "Judges 1:15",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Judges 1:15",
+            "segment_mode": "whole",
+            "sha256": "a920626f3ef1976dde8a9d6dbe90028418dec99d2cbe9dc94f97749b09370221"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a920626f3ef1976dde8a9d6dbe90028418dec99d2cbe9dc94f97749b09370221"
+      },
+      "16": {
+        "source_ref": "Judges 1:16",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Judges 1:16",
+            "segment_mode": "whole",
+            "sha256": "e3934fdea041fbc3e6f55b72583df6ddbd5829fa5d327f0a5122feb38c065ae8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3934fdea041fbc3e6f55b72583df6ddbd5829fa5d327f0a5122feb38c065ae8"
+      },
+      "17": {
+        "source_ref": "Judges 1:17",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 17,
+            "source_ref": "Judges 1:17",
+            "segment_mode": "whole",
+            "sha256": "50449135020bc96b1612491b7b2a05571e6c6da53cbc25e89ca5359bcb697d68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50449135020bc96b1612491b7b2a05571e6c6da53cbc25e89ca5359bcb697d68"
+      },
+      "18": {
+        "source_ref": "Judges 1:18",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 18,
+            "source_ref": "Judges 1:18",
+            "segment_mode": "whole",
+            "sha256": "d6e8dc4224fa1663917da2b6241f65f4bb5fe6278ca3754bd5d9f74cb8d61051"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6e8dc4224fa1663917da2b6241f65f4bb5fe6278ca3754bd5d9f74cb8d61051"
+      },
+      "19": {
+        "source_ref": "Judges 1:19",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 19,
+            "source_ref": "Judges 1:19",
+            "segment_mode": "whole",
+            "sha256": "28b5c14d614cf4a903ea5f96e47707c0a320a7d7b336b6f7213d4e0547697108"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "28b5c14d614cf4a903ea5f96e47707c0a320a7d7b336b6f7213d4e0547697108"
+      },
+      "20": {
+        "source_ref": "Judges 1:20",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 20,
+            "source_ref": "Judges 1:20",
+            "segment_mode": "whole",
+            "sha256": "ab0640ba5490b0297258bdd5a36dffb3f68bd8423d23d106f25d231c5ba92588"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab0640ba5490b0297258bdd5a36dffb3f68bd8423d23d106f25d231c5ba92588"
+      },
+      "21": {
+        "source_ref": "Judges 1:21",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 21,
+            "source_ref": "Judges 1:21",
+            "segment_mode": "whole",
+            "sha256": "8414c36fc30df9aee30fe441d2110df2d65da701e969d8a264805d831ed4c18f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8414c36fc30df9aee30fe441d2110df2d65da701e969d8a264805d831ed4c18f"
+      },
+      "22": {
+        "source_ref": "Judges 1:22",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 22,
+            "source_ref": "Judges 1:22",
+            "segment_mode": "whole",
+            "sha256": "094226b68b3aaf0973fadaeac5fa0b38c38a8a4727c237b779d5481bbdd2fdbc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "094226b68b3aaf0973fadaeac5fa0b38c38a8a4727c237b779d5481bbdd2fdbc"
+      },
+      "23": {
+        "source_ref": "Judges 1:23",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 23,
+            "source_ref": "Judges 1:23",
+            "segment_mode": "whole",
+            "sha256": "f6b84727a5647c607645184dd918f65f5e76d50055b36af76c3e9472cde94510"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6b84727a5647c607645184dd918f65f5e76d50055b36af76c3e9472cde94510"
+      },
+      "24": {
+        "source_ref": "Judges 1:24",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 24,
+            "source_ref": "Judges 1:24",
+            "segment_mode": "whole",
+            "sha256": "a6c17f6453f67ccc7fc64be0b53a3c090688e9b5bad10dab315a56e6b72c90b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6c17f6453f67ccc7fc64be0b53a3c090688e9b5bad10dab315a56e6b72c90b5"
+      },
+      "25": {
+        "source_ref": "Judges 1:25",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 25,
+            "source_ref": "Judges 1:25",
+            "segment_mode": "whole",
+            "sha256": "a0e0c67ef3d7bba9fcc059dc57230703e82d5a7da2b6723de19bb342bca81529"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0e0c67ef3d7bba9fcc059dc57230703e82d5a7da2b6723de19bb342bca81529"
+      },
+      "26": {
+        "source_ref": "Judges 1:26",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 26,
+            "source_ref": "Judges 1:26",
+            "segment_mode": "whole",
+            "sha256": "f1c4e244d4ffda2151d7445ac96212c09276b6282652f41aa070c8c6565c7cb3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1c4e244d4ffda2151d7445ac96212c09276b6282652f41aa070c8c6565c7cb3"
+      },
+      "27": {
+        "source_ref": "Judges 1:27",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 27,
+            "source_ref": "Judges 1:27",
+            "segment_mode": "whole",
+            "sha256": "592247c3f443fc2eadfa0bc8812856d2c83a53aed4bb59ea74008188585917a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "592247c3f443fc2eadfa0bc8812856d2c83a53aed4bb59ea74008188585917a9"
+      },
+      "28": {
+        "source_ref": "Judges 1:28",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 28,
+            "source_ref": "Judges 1:28",
+            "segment_mode": "whole",
+            "sha256": "b1bd2dde4ea3983933a5960177dde107cf334526990fa713ff25218cc827153b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b1bd2dde4ea3983933a5960177dde107cf334526990fa713ff25218cc827153b"
+      },
+      "29": {
+        "source_ref": "Judges 1:29",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 29,
+            "source_ref": "Judges 1:29",
+            "segment_mode": "whole",
+            "sha256": "a39db39d3361b370ec92f4b6ac50ac0df0acf31e6c730435850fd60b795fa6c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a39db39d3361b370ec92f4b6ac50ac0df0acf31e6c730435850fd60b795fa6c6"
+      },
+      "30": {
+        "source_ref": "Judges 1:30",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 30,
+            "source_ref": "Judges 1:30",
+            "segment_mode": "whole",
+            "sha256": "7402dc902a5d7ab2bfd5c791b2d31967bf57e425db174d339bf71b1da27feaee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7402dc902a5d7ab2bfd5c791b2d31967bf57e425db174d339bf71b1da27feaee"
+      },
+      "31": {
+        "source_ref": "Judges 1:31",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 31,
+            "source_ref": "Judges 1:31",
+            "segment_mode": "whole",
+            "sha256": "f5c7ab83fa2d5ad263bed0ecd8dba061c78c1d962205851fa9f73d8bef416e25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5c7ab83fa2d5ad263bed0ecd8dba061c78c1d962205851fa9f73d8bef416e25"
+      },
+      "32": {
+        "source_ref": "Judges 1:32",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 32,
+            "source_ref": "Judges 1:32",
+            "segment_mode": "whole",
+            "sha256": "a530e51ef4344a7141be6fabcbeb213968cc585f00da0da9bb7beb24c37bf3fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a530e51ef4344a7141be6fabcbeb213968cc585f00da0da9bb7beb24c37bf3fa"
+      },
+      "33": {
+        "source_ref": "Judges 1:33",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 33,
+            "source_ref": "Judges 1:33",
+            "segment_mode": "whole",
+            "sha256": "72fe1848f07a8ac092c969f827c4d4882c11c3de6179b3662ab5271fdbc08f6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72fe1848f07a8ac092c969f827c4d4882c11c3de6179b3662ab5271fdbc08f6c"
+      },
+      "34": {
+        "source_ref": "Judges 1:34",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 34,
+            "source_ref": "Judges 1:34",
+            "segment_mode": "whole",
+            "sha256": "c58677f5de19ccef49e1367cb84916443a8930415f80589bc3c1d576fb05585a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c58677f5de19ccef49e1367cb84916443a8930415f80589bc3c1d576fb05585a"
+      },
+      "35": {
+        "source_ref": "Judges 1:35",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 35,
+            "source_ref": "Judges 1:35",
+            "segment_mode": "whole",
+            "sha256": "42e26d7fd94dce01d42e6ead23d50b0a3da52e3100513ba257a04aea1512c992"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42e26d7fd94dce01d42e6ead23d50b0a3da52e3100513ba257a04aea1512c992"
+      },
+      "36": {
+        "source_ref": "Judges 1:36",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 36,
+            "source_ref": "Judges 1:36",
+            "segment_mode": "whole",
+            "sha256": "adda43a00037469c357f918388c47f6ee22a30410279a538ee76555f43b7f134"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "adda43a00037469c357f918388c47f6ee22a30410279a538ee76555f43b7f134"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/judges/Judges_01.md",
+    "blob_sha": "00b2ed9e6dd795efa560d84d7ff053b381c50e81"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

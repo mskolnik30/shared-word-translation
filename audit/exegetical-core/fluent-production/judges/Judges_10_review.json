@@ -1,0 +1,306 @@
+{
+  "book": "Judges",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Judges 10:1",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 1,
+            "source_ref": "Judges 10:1",
+            "segment_mode": "whole",
+            "sha256": "c0e30d8f5944de56fa6d913ba60c87f928121258753214b2907c2a04c3c4a2e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0e30d8f5944de56fa6d913ba60c87f928121258753214b2907c2a04c3c4a2e6"
+      },
+      "2": {
+        "source_ref": "Judges 10:2",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 2,
+            "source_ref": "Judges 10:2",
+            "segment_mode": "whole",
+            "sha256": "f1726b423d2ddbf712a228728bf8bf951b6ff34a054c33da4552e355ed6e4af2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1726b423d2ddbf712a228728bf8bf951b6ff34a054c33da4552e355ed6e4af2"
+      },
+      "3": {
+        "source_ref": "Judges 10:3",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 3,
+            "source_ref": "Judges 10:3",
+            "segment_mode": "whole",
+            "sha256": "6822e3c4f6505e8e4984868f3f63589d6f6297fd80114756f9a2e4fc1b6122e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6822e3c4f6505e8e4984868f3f63589d6f6297fd80114756f9a2e4fc1b6122e4"
+      },
+      "4": {
+        "source_ref": "Judges 10:4",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 4,
+            "source_ref": "Judges 10:4",
+            "segment_mode": "whole",
+            "sha256": "a965c85aa7438792b77307c55b5de712dc7339e16c0a1d915b55cafb9f9c20f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a965c85aa7438792b77307c55b5de712dc7339e16c0a1d915b55cafb9f9c20f6"
+      },
+      "5": {
+        "source_ref": "Judges 10:5",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 5,
+            "source_ref": "Judges 10:5",
+            "segment_mode": "whole",
+            "sha256": "9c218dee22b95802cda5c4c9146d39bfe787ea33d2fa30a00a2bb316fe457afc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c218dee22b95802cda5c4c9146d39bfe787ea33d2fa30a00a2bb316fe457afc"
+      },
+      "6": {
+        "source_ref": "Judges 10:6",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 6,
+            "source_ref": "Judges 10:6",
+            "segment_mode": "whole",
+            "sha256": "81d7f6b025a861a0ecfd2a93ffe9c223eb4a3512407ff1644e5a246b4ce00aa8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81d7f6b025a861a0ecfd2a93ffe9c223eb4a3512407ff1644e5a246b4ce00aa8"
+      },
+      "7": {
+        "source_ref": "Judges 10:7",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 7,
+            "source_ref": "Judges 10:7",
+            "segment_mode": "whole",
+            "sha256": "f35ba6f748398e397c4ea0e2f47dae2bca294f3e09f39cbae00fb43116c45225"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f35ba6f748398e397c4ea0e2f47dae2bca294f3e09f39cbae00fb43116c45225"
+      },
+      "8": {
+        "source_ref": "Judges 10:8",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 8,
+            "source_ref": "Judges 10:8",
+            "segment_mode": "whole",
+            "sha256": "fd2b84f47bb23f29bf4b2e0aaf8372fbd74a37e73feccf535229d126de9d9e08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd2b84f47bb23f29bf4b2e0aaf8372fbd74a37e73feccf535229d126de9d9e08"
+      },
+      "9": {
+        "source_ref": "Judges 10:9",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 9,
+            "source_ref": "Judges 10:9",
+            "segment_mode": "whole",
+            "sha256": "bfe010a50ac7a0bc6951807567374fa92a4bcc3545d230a67443ddf55ebcb559"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bfe010a50ac7a0bc6951807567374fa92a4bcc3545d230a67443ddf55ebcb559"
+      },
+      "10": {
+        "source_ref": "Judges 10:10",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 10,
+            "source_ref": "Judges 10:10",
+            "segment_mode": "whole",
+            "sha256": "601194a9c85d7b6cdc118d05b37277e25f50064ec583406345ba6e5c23ee5904"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "601194a9c85d7b6cdc118d05b37277e25f50064ec583406345ba6e5c23ee5904"
+      },
+      "11": {
+        "source_ref": "Judges 10:11",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 11,
+            "source_ref": "Judges 10:11",
+            "segment_mode": "whole",
+            "sha256": "702dc980dbfe8362492138355d6eaf4e37fa7362cb30ebcd639b4291b3f97163"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "702dc980dbfe8362492138355d6eaf4e37fa7362cb30ebcd639b4291b3f97163"
+      },
+      "12": {
+        "source_ref": "Judges 10:12",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 12,
+            "source_ref": "Judges 10:12",
+            "segment_mode": "whole",
+            "sha256": "a75d1a1a4838b1e1210e873f4554b29f42a367e8901bbc834237517b5bff956e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a75d1a1a4838b1e1210e873f4554b29f42a367e8901bbc834237517b5bff956e"
+      },
+      "13": {
+        "source_ref": "Judges 10:13",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 13,
+            "source_ref": "Judges 10:13",
+            "segment_mode": "whole",
+            "sha256": "3046a1dd501bf9aa64572345a3abc6136c9da885c05e89dc16fdd3e17023f9c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3046a1dd501bf9aa64572345a3abc6136c9da885c05e89dc16fdd3e17023f9c1"
+      },
+      "14": {
+        "source_ref": "Judges 10:14",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 14,
+            "source_ref": "Judges 10:14",
+            "segment_mode": "whole",
+            "sha256": "7349ef182c12990d0083d630e2d25f1d7faa77fd06ba6a8dc0153eb6af7f1d0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7349ef182c12990d0083d630e2d25f1d7faa77fd06ba6a8dc0153eb6af7f1d0b"
+      },
+      "15": {
+        "source_ref": "Judges 10:15",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 15,
+            "source_ref": "Judges 10:15",
+            "segment_mode": "whole",
+            "sha256": "f0530f6ce1aecc2ec60a34db7a1c234d03f3a7fa695f0acc1d171ff55b0884b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0530f6ce1aecc2ec60a34db7a1c234d03f3a7fa695f0acc1d171ff55b0884b2"
+      },
+      "16": {
+        "source_ref": "Judges 10:16",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 16,
+            "source_ref": "Judges 10:16",
+            "segment_mode": "whole",
+            "sha256": "2847181f19c65c851a504d9f564f1de82561693b7707cde130119f8b82e1bba3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2847181f19c65c851a504d9f564f1de82561693b7707cde130119f8b82e1bba3"
+      },
+      "17": {
+        "source_ref": "Judges 10:17",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 17,
+            "source_ref": "Judges 10:17",
+            "segment_mode": "whole",
+            "sha256": "1f5faddcd64561455bc6dec1da9a5b5e9dc4dede61f55113d8d12fcafbd028a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f5faddcd64561455bc6dec1da9a5b5e9dc4dede61f55113d8d12fcafbd028a5"
+      },
+      "18": {
+        "source_ref": "Judges 10:18",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 18,
+            "source_ref": "Judges 10:18",
+            "segment_mode": "whole",
+            "sha256": "80bba3fd2ce120ca5b6e810ff4dc7c60582f09f6451d4184b005ebe5e1fa4335"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "80bba3fd2ce120ca5b6e810ff4dc7c60582f09f6451d4184b005ebe5e1fa4335"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/judges/Judges_10.md",
+    "blob_sha": "1aad3bc419506f7eea73bca722887017804177f6"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,417 @@
+{
+  "book": "Judges",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "13:1-16:31",
+      "decision": "Preserve Samson's divine calling, appetites, violence, exploitation, and final act without turning him into a simple moral hero.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Judges 13:1",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Judges 13:1",
+            "segment_mode": "whole",
+            "sha256": "3748c34ae16915ead9173afd4a9c6e8cfe9d7b2a4b69f6783a140386c69b500c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3748c34ae16915ead9173afd4a9c6e8cfe9d7b2a4b69f6783a140386c69b500c"
+      },
+      "2": {
+        "source_ref": "Judges 13:2",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Judges 13:2",
+            "segment_mode": "whole",
+            "sha256": "ecd5d3002b435b4ac950eb77a97308dea7ec46d657c2cb5af8a0bab3a56291b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ecd5d3002b435b4ac950eb77a97308dea7ec46d657c2cb5af8a0bab3a56291b7"
+      },
+      "3": {
+        "source_ref": "Judges 13:3",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Judges 13:3",
+            "segment_mode": "whole",
+            "sha256": "6c59fdc3cca48d1b1feb80d3e261b971be481bc7c540b950173bcfb3007307f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c59fdc3cca48d1b1feb80d3e261b971be481bc7c540b950173bcfb3007307f2"
+      },
+      "4": {
+        "source_ref": "Judges 13:4",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Judges 13:4",
+            "segment_mode": "whole",
+            "sha256": "3f2b49942e8954464e0a387aeb8118fbe518a52d0189c6d022bf89167e1e2185"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f2b49942e8954464e0a387aeb8118fbe518a52d0189c6d022bf89167e1e2185"
+      },
+      "5": {
+        "source_ref": "Judges 13:5",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Judges 13:5",
+            "segment_mode": "whole",
+            "sha256": "d4ce8aaa4ab99a354012e27e696f6bf76903c41c8a9e09e22b3594cbfaa3c694"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4ce8aaa4ab99a354012e27e696f6bf76903c41c8a9e09e22b3594cbfaa3c694"
+      },
+      "6": {
+        "source_ref": "Judges 13:6",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Judges 13:6",
+            "segment_mode": "whole",
+            "sha256": "7b1350c2f5ac42f7a4a8d726ee770124abe381778c840c89ae2239eeb6eeac03"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b1350c2f5ac42f7a4a8d726ee770124abe381778c840c89ae2239eeb6eeac03"
+      },
+      "7": {
+        "source_ref": "Judges 13:7",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 7,
+            "source_ref": "Judges 13:7",
+            "segment_mode": "whole",
+            "sha256": "7704b9ae32fb4f3778662f8441c827c5424bd533e042e3f7a157d92e9fdadfea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7704b9ae32fb4f3778662f8441c827c5424bd533e042e3f7a157d92e9fdadfea"
+      },
+      "8": {
+        "source_ref": "Judges 13:8",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 8,
+            "source_ref": "Judges 13:8",
+            "segment_mode": "whole",
+            "sha256": "7d5204c09546205da4cd6a3e966c1ea158e80c12620c796f7e7082c06eba7997"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d5204c09546205da4cd6a3e966c1ea158e80c12620c796f7e7082c06eba7997"
+      },
+      "9": {
+        "source_ref": "Judges 13:9",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 9,
+            "source_ref": "Judges 13:9",
+            "segment_mode": "whole",
+            "sha256": "2e91d142824d303b9259d06469b220ce4904fe323d54adce54f967ed74681792"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e91d142824d303b9259d06469b220ce4904fe323d54adce54f967ed74681792"
+      },
+      "10": {
+        "source_ref": "Judges 13:10",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 10,
+            "source_ref": "Judges 13:10",
+            "segment_mode": "whole",
+            "sha256": "2a26f20c7499baf3a8828eb3451ee2bc4817e9753e4b603203492c7d16a002ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a26f20c7499baf3a8828eb3451ee2bc4817e9753e4b603203492c7d16a002ef"
+      },
+      "11": {
+        "source_ref": "Judges 13:11",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 11,
+            "source_ref": "Judges 13:11",
+            "segment_mode": "whole",
+            "sha256": "46b348895f88a36edcfcd0ce507b2c3ddcf7b02ad9cbff11126222ec856127ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46b348895f88a36edcfcd0ce507b2c3ddcf7b02ad9cbff11126222ec856127ce"
+      },
+      "12": {
+        "source_ref": "Judges 13:12",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 12,
+            "source_ref": "Judges 13:12",
+            "segment_mode": "whole",
+            "sha256": "1be6edcc05504c5bf7591e507eb905c9c4756edf94dcd801cd3860e6cab894a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1be6edcc05504c5bf7591e507eb905c9c4756edf94dcd801cd3860e6cab894a6"
+      },
+      "13": {
+        "source_ref": "Judges 13:13",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 13,
+            "source_ref": "Judges 13:13",
+            "segment_mode": "whole",
+            "sha256": "4e20aa7a59c756480f8795be73a4b6b4f1e7fd586208d977564b76710124e81a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e20aa7a59c756480f8795be73a4b6b4f1e7fd586208d977564b76710124e81a"
+      },
+      "14": {
+        "source_ref": "Judges 13:14",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 14,
+            "source_ref": "Judges 13:14",
+            "segment_mode": "whole",
+            "sha256": "eb42cb1f9a2d6a4ddbb0d2d1d68a4fdb93540776a4777922ba066413ebce6e31"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb42cb1f9a2d6a4ddbb0d2d1d68a4fdb93540776a4777922ba066413ebce6e31"
+      },
+      "15": {
+        "source_ref": "Judges 13:15",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 15,
+            "source_ref": "Judges 13:15",
+            "segment_mode": "whole",
+            "sha256": "7ab25ad8b24cdaea78eab4d9fea23a1f1b5f2586b0d7f7f469c0fbc137be6b97"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ab25ad8b24cdaea78eab4d9fea23a1f1b5f2586b0d7f7f469c0fbc137be6b97"
+      },
+      "16": {
+        "source_ref": "Judges 13:16",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 16,
+            "source_ref": "Judges 13:16",
+            "segment_mode": "whole",
+            "sha256": "f8f790076161fc910357a3b5e084085d7ec405369e1288252172181e85cf6eb8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8f790076161fc910357a3b5e084085d7ec405369e1288252172181e85cf6eb8"
+      },
+      "17": {
+        "source_ref": "Judges 13:17",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 17,
+            "source_ref": "Judges 13:17",
+            "segment_mode": "whole",
+            "sha256": "7ba2b812aab00ccbbb74d5ac4f7e165adab498fa333a45793935c295b33afe9e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ba2b812aab00ccbbb74d5ac4f7e165adab498fa333a45793935c295b33afe9e"
+      },
+      "18": {
+        "source_ref": "Judges 13:18",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 18,
+            "source_ref": "Judges 13:18",
+            "segment_mode": "whole",
+            "sha256": "7730bf70feaf84e700340e63647adc57e81fb5aa244db318323931d82269ecd0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7730bf70feaf84e700340e63647adc57e81fb5aa244db318323931d82269ecd0"
+      },
+      "19": {
+        "source_ref": "Judges 13:19",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 19,
+            "source_ref": "Judges 13:19",
+            "segment_mode": "whole",
+            "sha256": "d1d64be2963a1303626dc4c32e120c912d07187d5a82fedf368e957a89f9b3be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1d64be2963a1303626dc4c32e120c912d07187d5a82fedf368e957a89f9b3be"
+      },
+      "20": {
+        "source_ref": "Judges 13:20",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 20,
+            "source_ref": "Judges 13:20",
+            "segment_mode": "whole",
+            "sha256": "36572f0c4fa9a13d6ab22d7a099784ff60b10f0f7c43a76aaf468a367b4d335b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36572f0c4fa9a13d6ab22d7a099784ff60b10f0f7c43a76aaf468a367b4d335b"
+      },
+      "21": {
+        "source_ref": "Judges 13:21",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 21,
+            "source_ref": "Judges 13:21",
+            "segment_mode": "whole",
+            "sha256": "8d55b3f10794086654d3cac07d7912f97869405fc78d147d1026468c1f81ccaf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d55b3f10794086654d3cac07d7912f97869405fc78d147d1026468c1f81ccaf"
+      },
+      "22": {
+        "source_ref": "Judges 13:22",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 22,
+            "source_ref": "Judges 13:22",
+            "segment_mode": "whole",
+            "sha256": "7620648879a3bd97ac1d4397092a03017addbc49b0ff4d934f82ee9a684527a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7620648879a3bd97ac1d4397092a03017addbc49b0ff4d934f82ee9a684527a9"
+      },
+      "23": {
+        "source_ref": "Judges 13:23",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 23,
+            "source_ref": "Judges 13:23",
+            "segment_mode": "whole",
+            "sha256": "e1f518b1f25b88b79e927e3bb452fe152d64e2fbf681034b24b84acd4795396f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1f518b1f25b88b79e927e3bb452fe152d64e2fbf681034b24b84acd4795396f"
+      },
+      "24": {
+        "source_ref": "Judges 13:24",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 24,
+            "source_ref": "Judges 13:24",
+            "segment_mode": "whole",
+            "sha256": "39c9887a5824c8d98fbef672dea19c9ceb10fbbdd42ed2873a1e296bc56f1c57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39c9887a5824c8d98fbef672dea19c9ceb10fbbdd42ed2873a1e296bc56f1c57"
+      },
+      "25": {
+        "source_ref": "Judges 13:25",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 25,
+            "source_ref": "Judges 13:25",
+            "segment_mode": "whole",
+            "sha256": "725daf75d211ee04b7450ac5061d1f00d471479310b755dc05cf34cf27260d5f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "725daf75d211ee04b7450ac5061d1f00d471479310b755dc05cf34cf27260d5f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/judges/Judges_13.md",
+    "blob_sha": "115cbb158dce9316ac31edade5339f1924ab3941"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
