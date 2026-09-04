@@ -1,0 +1,112 @@
+{
+  "book": "2 Corinthians",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 13,
+  "public_verse_slots": 257,
+  "included_verse_labels": 257,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 256,
+  "source": {
+    "type": "sblgnt",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "3:1-18",
+      "decision": "Preserve covenant contrast without translating Paul as rejecting Israel or the Hebrew Scriptures.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:14-21",
+      "decision": "Keep reconciliation grounded in God's action in Christ and preserve the compressed force of 5:21.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:1-9:15",
+      "decision": "Translate the collection as grace, equality, willing generosity, and accountable administration—not coercive fundraising.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "12:1-10",
+      "decision": "Leave the thorn unidentified and retain power made complete in weakness.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:12-14",
+      "decision": "Map SBLGNT 13:12-13 to public-English 13:12-14 explicitly.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_03",
+  "deployment_audit": {
+    "source_git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
+    "source_binding_count": 257,
+    "unique_source_record_count": 256,
+    "public_verse_slots": 257,
+    "ledger_summary": {
+      "F0": 146,
+      "F1": 32,
+      "F2": 1,
+      "F3": 78
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/2corinthians/2Corinthians_01.md",
+        "blob_sha": "0aa82e6de8ed6d4c49a8ece02f548bbe1dccc907"
+      },
+      "02": {
+        "path": "books/NT/2corinthians/2Corinthians_02.md",
+        "blob_sha": "ac87ce445a892dc38dce88c7a6cc4c4e13191f8d"
+      },
+      "03": {
+        "path": "books/NT/2corinthians/2Corinthians_03.md",
+        "blob_sha": "b55d67cff91bef0e7f41df83af1d9f532397ba1f"
+      },
+      "04": {
+        "path": "books/NT/2corinthians/2Corinthians_04.md",
+        "blob_sha": "29d170d1bf4391d65f628a5328f77bdc1f274c0b"
+      },
+      "05": {
+        "path": "books/NT/2corinthians/2Corinthians_05.md",
+        "blob_sha": "b42f39a888e6157692524c02f748ed7ae7c60db0"
+      },
+      "06": {
+        "path": "books/NT/2corinthians/2Corinthians_06.md",
+        "blob_sha": "1a35b9a0ecc6475e2513b3956ac2e4009e5d9197"
+      },
+      "07": {
+        "path": "books/NT/2corinthians/2Corinthians_07.md",
+        "blob_sha": "bb1d8fd77ad7c96bb4e19834dbd86b8f0eeb5d54"
+      },
+      "08": {
+        "path": "books/NT/2corinthians/2Corinthians_08.md",
+        "blob_sha": "6f4b58b0b66f73d49e3a19667990bea9a66a7016"
+      },
+      "09": {
+        "path": "books/NT/2corinthians/2Corinthians_09.md",
+        "blob_sha": "13e2267c05cecdbd0793cf5a36ba6f28b9b0ec08"
+      },
+      "10": {
+        "path": "books/NT/2corinthians/2Corinthians_10.md",
+        "blob_sha": "04c94f77a842ad246bfd72e0971eb06b537af8aa"
+      },
+      "11": {
+        "path": "books/NT/2corinthians/2Corinthians_11.md",
+        "blob_sha": "c68fc5698262644b9069da0ff67a185aa29cb9c5"
+      },
+      "12": {
+        "path": "books/NT/2corinthians/2Corinthians_12.md",
+        "blob_sha": "69890c799aba3e086fa154f31cc17b182abbcc99"
+      },
+      "13": {
+        "path": "books/NT/2corinthians/2Corinthians_13.md",
+        "blob_sha": "6a77753a5f66b35602f62e188270e6ea573d6477"
+      }
+    }
+  }
+}

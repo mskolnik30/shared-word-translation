@@ -1,0 +1,306 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Corinthians 4:1",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "2 Corinthians 4:1",
+            "segment_mode": "whole",
+            "sha256": "b8fd9723280a757fd8b1be7a54d0494c57921a14f10f70386986cc3ed372cb53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8fd9723280a757fd8b1be7a54d0494c57921a14f10f70386986cc3ed372cb53"
+      },
+      "2": {
+        "source_ref": "2 Corinthians 4:2",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "2 Corinthians 4:2",
+            "segment_mode": "whole",
+            "sha256": "f8fad07b40aef00d393dfec821caad528c59ccd67cd5dfea5a5213190be53385"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8fad07b40aef00d393dfec821caad528c59ccd67cd5dfea5a5213190be53385"
+      },
+      "3": {
+        "source_ref": "2 Corinthians 4:3",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "2 Corinthians 4:3",
+            "segment_mode": "whole",
+            "sha256": "6216d3493a389256686da6dcf1a201f218c8844647078e20b61b853ed1cd5eed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6216d3493a389256686da6dcf1a201f218c8844647078e20b61b853ed1cd5eed"
+      },
+      "4": {
+        "source_ref": "2 Corinthians 4:4",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "2 Corinthians 4:4",
+            "segment_mode": "whole",
+            "sha256": "5db56a6ef5366b28957f593b05ea6e75c13d737782324e72c0ac7b953dcb3db0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5db56a6ef5366b28957f593b05ea6e75c13d737782324e72c0ac7b953dcb3db0"
+      },
+      "5": {
+        "source_ref": "2 Corinthians 4:5",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "2 Corinthians 4:5",
+            "segment_mode": "whole",
+            "sha256": "3ae0fe9fb54bf554fe27267dd7bf304f27435b0ca66b177461578d4e0819db04"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ae0fe9fb54bf554fe27267dd7bf304f27435b0ca66b177461578d4e0819db04"
+      },
+      "6": {
+        "source_ref": "2 Corinthians 4:6",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "2 Corinthians 4:6",
+            "segment_mode": "whole",
+            "sha256": "2889b0dbc6f3105966a5ca9c6f63c55b5b93b587236760935e912d20df7fc45c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2889b0dbc6f3105966a5ca9c6f63c55b5b93b587236760935e912d20df7fc45c"
+      },
+      "7": {
+        "source_ref": "2 Corinthians 4:7",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "2 Corinthians 4:7",
+            "segment_mode": "whole",
+            "sha256": "f58540826f7301b68c59cebba67359ea4e68049ca4a9d5362b1233f12acdc89f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f58540826f7301b68c59cebba67359ea4e68049ca4a9d5362b1233f12acdc89f"
+      },
+      "8": {
+        "source_ref": "2 Corinthians 4:8",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "2 Corinthians 4:8",
+            "segment_mode": "whole",
+            "sha256": "406039f44d3959977d3ed621ab4e99a02a19c935fc34a1c32f12e8173fee5b08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "406039f44d3959977d3ed621ab4e99a02a19c935fc34a1c32f12e8173fee5b08"
+      },
+      "9": {
+        "source_ref": "2 Corinthians 4:9",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "2 Corinthians 4:9",
+            "segment_mode": "whole",
+            "sha256": "f26a9a6326e70d8f82918c8a4ce5b773cabb695db65f7a16295fffb26c946f6d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f26a9a6326e70d8f82918c8a4ce5b773cabb695db65f7a16295fffb26c946f6d"
+      },
+      "10": {
+        "source_ref": "2 Corinthians 4:10",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "2 Corinthians 4:10",
+            "segment_mode": "whole",
+            "sha256": "bb394314cfe97a55aba8cb3f88b0a07037cabcf9b39dc6c0481cdebe4c2d99c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb394314cfe97a55aba8cb3f88b0a07037cabcf9b39dc6c0481cdebe4c2d99c6"
+      },
+      "11": {
+        "source_ref": "2 Corinthians 4:11",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "2 Corinthians 4:11",
+            "segment_mode": "whole",
+            "sha256": "d34e38cb76aa6044f192ce25870e2c03055829c5ac0fe8967e48ee020fac451d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d34e38cb76aa6044f192ce25870e2c03055829c5ac0fe8967e48ee020fac451d"
+      },
+      "12": {
+        "source_ref": "2 Corinthians 4:12",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 12,
+            "source_ref": "2 Corinthians 4:12",
+            "segment_mode": "whole",
+            "sha256": "68ae10dd9cdae4711793b143d3aa044be57ea4579c108fb0a2fe70768482318b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68ae10dd9cdae4711793b143d3aa044be57ea4579c108fb0a2fe70768482318b"
+      },
+      "13": {
+        "source_ref": "2 Corinthians 4:13",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 13,
+            "source_ref": "2 Corinthians 4:13",
+            "segment_mode": "whole",
+            "sha256": "abdc43482c863c971a8f13041244270ae02e4f1546998a9f54b7dae85fdc789c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "abdc43482c863c971a8f13041244270ae02e4f1546998a9f54b7dae85fdc789c"
+      },
+      "14": {
+        "source_ref": "2 Corinthians 4:14",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 14,
+            "source_ref": "2 Corinthians 4:14",
+            "segment_mode": "whole",
+            "sha256": "8d8139e2c51db792a6bea456e1c44c891dc669ec432d5e7224bef1f32d0d4603"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d8139e2c51db792a6bea456e1c44c891dc669ec432d5e7224bef1f32d0d4603"
+      },
+      "15": {
+        "source_ref": "2 Corinthians 4:15",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 15,
+            "source_ref": "2 Corinthians 4:15",
+            "segment_mode": "whole",
+            "sha256": "008f0b0e0460a9b1de080f71556ae0b9156cdfae0fe626a57ac6539f09f0b5f5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "008f0b0e0460a9b1de080f71556ae0b9156cdfae0fe626a57ac6539f09f0b5f5"
+      },
+      "16": {
+        "source_ref": "2 Corinthians 4:16",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 16,
+            "source_ref": "2 Corinthians 4:16",
+            "segment_mode": "whole",
+            "sha256": "7761b64cbff4ecfbea957309c77f062a390ac3f8d75172a08ab67b74cad52b34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7761b64cbff4ecfbea957309c77f062a390ac3f8d75172a08ab67b74cad52b34"
+      },
+      "17": {
+        "source_ref": "2 Corinthians 4:17",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 17,
+            "source_ref": "2 Corinthians 4:17",
+            "segment_mode": "whole",
+            "sha256": "ff0c7a7d46d7f6a7e694dea1218c89e4f1753c3a926f0fccc6cdbb040608b947"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff0c7a7d46d7f6a7e694dea1218c89e4f1753c3a926f0fccc6cdbb040608b947"
+      },
+      "18": {
+        "source_ref": "2 Corinthians 4:18",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 18,
+            "source_ref": "2 Corinthians 4:18",
+            "segment_mode": "whole",
+            "sha256": "d10c962c4e20d209e09a22fbcf0102b9c0c3b14f06052baaeea0a0f89b8a4d99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d10c962c4e20d209e09a22fbcf0102b9c0c3b14f06052baaeea0a0f89b8a4d99"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/2corinthians/2Corinthians_04.md",
+    "blob_sha": "29d170d1bf4391d65f628a5328f77bdc1f274c0b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

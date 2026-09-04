@@ -1,0 +1,357 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "5:14-21",
+      "decision": "Keep reconciliation grounded in God's action in Christ and preserve the compressed force of 5:21.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Corinthians 5:1",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "2 Corinthians 5:1",
+            "segment_mode": "whole",
+            "sha256": "5de5f60f61bc143a623faab891cf6e677b25c5f0d89cd1c07268c81f3b4e2360"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5de5f60f61bc143a623faab891cf6e677b25c5f0d89cd1c07268c81f3b4e2360"
+      },
+      "2": {
+        "source_ref": "2 Corinthians 5:2",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "2 Corinthians 5:2",
+            "segment_mode": "whole",
+            "sha256": "b3541c151bf2e9247b2bcacf7c6acd71fac17fab41f098b53871280efaa92e62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3541c151bf2e9247b2bcacf7c6acd71fac17fab41f098b53871280efaa92e62"
+      },
+      "3": {
+        "source_ref": "2 Corinthians 5:3",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "2 Corinthians 5:3",
+            "segment_mode": "whole",
+            "sha256": "a3a11714b377b4daa1367b98cb98ec711141b8e7987ab57f2e1d49b9edae5770"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3a11714b377b4daa1367b98cb98ec711141b8e7987ab57f2e1d49b9edae5770"
+      },
+      "4": {
+        "source_ref": "2 Corinthians 5:4",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "2 Corinthians 5:4",
+            "segment_mode": "whole",
+            "sha256": "631c989e73a5e82df4916e24a9971e6b75e51b72413f180edbb82490b9c3746e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "631c989e73a5e82df4916e24a9971e6b75e51b72413f180edbb82490b9c3746e"
+      },
+      "5": {
+        "source_ref": "2 Corinthians 5:5",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "2 Corinthians 5:5",
+            "segment_mode": "whole",
+            "sha256": "ad3c47230a7efad396c04008d80f08ba68c28407c885f0f762ee36f277169700"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad3c47230a7efad396c04008d80f08ba68c28407c885f0f762ee36f277169700"
+      },
+      "6": {
+        "source_ref": "2 Corinthians 5:6",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "2 Corinthians 5:6",
+            "segment_mode": "whole",
+            "sha256": "1927302b5d18e97f6c26f636792109617b34fd8beb956aa3a4d5f20aaab106e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1927302b5d18e97f6c26f636792109617b34fd8beb956aa3a4d5f20aaab106e4"
+      },
+      "7": {
+        "source_ref": "2 Corinthians 5:7",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "2 Corinthians 5:7",
+            "segment_mode": "whole",
+            "sha256": "a641cf52fa4a703f61fb301a98d8dd1f3aaa2b54fbd357fa1c45818f7e880e56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a641cf52fa4a703f61fb301a98d8dd1f3aaa2b54fbd357fa1c45818f7e880e56"
+      },
+      "8": {
+        "source_ref": "2 Corinthians 5:8",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "2 Corinthians 5:8",
+            "segment_mode": "whole",
+            "sha256": "17e43ee7f3ebcf3c3aa4074216163dc951884fa9934369e4662b95ca4303f8c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17e43ee7f3ebcf3c3aa4074216163dc951884fa9934369e4662b95ca4303f8c8"
+      },
+      "9": {
+        "source_ref": "2 Corinthians 5:9",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "2 Corinthians 5:9",
+            "segment_mode": "whole",
+            "sha256": "32b90a64ef215e7a4e014cca4cca9f75faef9766088953f007eaf0708e63f92d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32b90a64ef215e7a4e014cca4cca9f75faef9766088953f007eaf0708e63f92d"
+      },
+      "10": {
+        "source_ref": "2 Corinthians 5:10",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "2 Corinthians 5:10",
+            "segment_mode": "whole",
+            "sha256": "a296dc9384ad0c40b846b653895f1ec87900120c9316c2a678e4421fc297b351"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a296dc9384ad0c40b846b653895f1ec87900120c9316c2a678e4421fc297b351"
+      },
+      "11": {
+        "source_ref": "2 Corinthians 5:11",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "2 Corinthians 5:11",
+            "segment_mode": "whole",
+            "sha256": "3c63836c245720121e375be8ed5fe020f0ad2abe59b0a3f718359d98648e37f4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c63836c245720121e375be8ed5fe020f0ad2abe59b0a3f718359d98648e37f4"
+      },
+      "12": {
+        "source_ref": "2 Corinthians 5:12",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "2 Corinthians 5:12",
+            "segment_mode": "whole",
+            "sha256": "cab6324e5c8fa3e406bb124406169d7f73540805b1049eeaab656e693b7c8494"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cab6324e5c8fa3e406bb124406169d7f73540805b1049eeaab656e693b7c8494"
+      },
+      "13": {
+        "source_ref": "2 Corinthians 5:13",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "2 Corinthians 5:13",
+            "segment_mode": "whole",
+            "sha256": "a377be5c95d8b692cb222d5bd0a4fdc6e600dac3cc2c991b1879cc430f61e106"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a377be5c95d8b692cb222d5bd0a4fdc6e600dac3cc2c991b1879cc430f61e106"
+      },
+      "14": {
+        "source_ref": "2 Corinthians 5:14",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "2 Corinthians 5:14",
+            "segment_mode": "whole",
+            "sha256": "7747916f97b683858fb55486c36636ba7e36ddb14a74ffc4efd3795dd8d33dc7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7747916f97b683858fb55486c36636ba7e36ddb14a74ffc4efd3795dd8d33dc7"
+      },
+      "15": {
+        "source_ref": "2 Corinthians 5:15",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "2 Corinthians 5:15",
+            "segment_mode": "whole",
+            "sha256": "9d5e72057803a2d9ee55d78358e8ded189d30c393a91d13dc67f8ab259203601"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d5e72057803a2d9ee55d78358e8ded189d30c393a91d13dc67f8ab259203601"
+      },
+      "16": {
+        "source_ref": "2 Corinthians 5:16",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 16,
+            "source_ref": "2 Corinthians 5:16",
+            "segment_mode": "whole",
+            "sha256": "06ff2b3c48c5432495b46f12dcb851ef7324e4ae934efb7f9c2e58a68429d218"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06ff2b3c48c5432495b46f12dcb851ef7324e4ae934efb7f9c2e58a68429d218"
+      },
+      "17": {
+        "source_ref": "2 Corinthians 5:17",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 17,
+            "source_ref": "2 Corinthians 5:17",
+            "segment_mode": "whole",
+            "sha256": "4d15108cdb2dbcd6dfc67707dd45193734f63dc76f1eed8330bc18f36a820c51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4d15108cdb2dbcd6dfc67707dd45193734f63dc76f1eed8330bc18f36a820c51"
+      },
+      "18": {
+        "source_ref": "2 Corinthians 5:18",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 18,
+            "source_ref": "2 Corinthians 5:18",
+            "segment_mode": "whole",
+            "sha256": "b6d621bca743cdbd7654d16217649ca183288128b123cdb6ef852d56098ae077"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6d621bca743cdbd7654d16217649ca183288128b123cdb6ef852d56098ae077"
+      },
+      "19": {
+        "source_ref": "2 Corinthians 5:19",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 19,
+            "source_ref": "2 Corinthians 5:19",
+            "segment_mode": "whole",
+            "sha256": "6ef0f8b629f927f5b941ef39c798acb601efbccd7bdeed43b8d18e21060df9c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ef0f8b629f927f5b941ef39c798acb601efbccd7bdeed43b8d18e21060df9c4"
+      },
+      "20": {
+        "source_ref": "2 Corinthians 5:20",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 20,
+            "source_ref": "2 Corinthians 5:20",
+            "segment_mode": "whole",
+            "sha256": "cd09f998ba57bc2f9ee4c26e7103441eaa8218da78a987a86d95bbb1b5940fb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd09f998ba57bc2f9ee4c26e7103441eaa8218da78a987a86d95bbb1b5940fb1"
+      },
+      "21": {
+        "source_ref": "2 Corinthians 5:21",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 21,
+            "source_ref": "2 Corinthians 5:21",
+            "segment_mode": "whole",
+            "sha256": "c5e6fd0a8d1f6c0e8fa4c9aada83c4e86f0d3ee729983fac4ab7222f20f06231"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c5e6fd0a8d1f6c0e8fa4c9aada83c4e86f0d3ee729983fac4ab7222f20f06231"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/2corinthians/2Corinthians_05.md",
+    "blob_sha": "b42f39a888e6157692524c02f748ed7ae7c60db0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
