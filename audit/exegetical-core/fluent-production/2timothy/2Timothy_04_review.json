@@ -1,0 +1,175 @@
+{
+  "book": "2 Timothy",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 22,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Tim.txt",
+    "git_blob_sha": "8809e18b0f95c7e6913ea5d239f2c28eda2fffad",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Timothy 4:1",
+        "source_chapter": 4,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "06ed205a8303df7f35b16900a0e75f5b72494d18efbb8647bc3466dd42e2cb0a"
+      },
+      "2": {
+        "source_ref": "2 Timothy 4:2",
+        "source_chapter": 4,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "127e798b687caa8d1561d8da7c852d2de435f92b9e4727129e7016a5119305b5"
+      },
+      "3": {
+        "source_ref": "2 Timothy 4:3",
+        "source_chapter": 4,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "e5c27a8d2bc63de56b851b0100b303d6fd379f512df7de8df504b5411d79d70c"
+      },
+      "4": {
+        "source_ref": "2 Timothy 4:4",
+        "source_chapter": 4,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "71897203c0311d212438ba8d57f9c27983b57e34e08412b89890a6586c8d87d2"
+      },
+      "5": {
+        "source_ref": "2 Timothy 4:5",
+        "source_chapter": 4,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "f0dd71d601ee2c5b1941215fade7b353b19fcf0322c83795149b7568ee0f3011"
+      },
+      "6": {
+        "source_ref": "2 Timothy 4:6",
+        "source_chapter": 4,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "da0bb9a0dd84049269f0c76b5210303d79ba5c5b7f90f5a2a3030a93ec33fece"
+      },
+      "7": {
+        "source_ref": "2 Timothy 4:7",
+        "source_chapter": 4,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "d0329bfa0e4bfd13b9d6a56169670c3fe95c6ac352bf953b97a916524030647c"
+      },
+      "8": {
+        "source_ref": "2 Timothy 4:8",
+        "source_chapter": 4,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "2af9fd81bc3e7b61d81e7b54fe215afee30055633a92d9de1a84525e73babea0"
+      },
+      "9": {
+        "source_ref": "2 Timothy 4:9",
+        "source_chapter": 4,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "554a0cc1e0ba5e38ca6a69ad82f8daed286d94e636e0f3681fba67268bd71719"
+      },
+      "10": {
+        "source_ref": "2 Timothy 4:10",
+        "source_chapter": 4,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "6f66439bb9efab9ad158fea9af65e5f45ada73ddaba9f0f77a50e6fc938ef56f"
+      },
+      "11": {
+        "source_ref": "2 Timothy 4:11",
+        "source_chapter": 4,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "7b320ca28252237069548add1a6994f27969b52d291601d3836819c9138d3975"
+      },
+      "12": {
+        "source_ref": "2 Timothy 4:12",
+        "source_chapter": 4,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "8ea776c898b1fc2814d920b5ffa6e24ee86a26300aee7fe44ebb95efc044d9a0"
+      },
+      "13": {
+        "source_ref": "2 Timothy 4:13",
+        "source_chapter": 4,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "9af1886eaedec3b1eea34819c3396cb1439de0daa7dfa1c03a3c6d44f3844668"
+      },
+      "14": {
+        "source_ref": "2 Timothy 4:14",
+        "source_chapter": 4,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "19b1d9401c4da776e1761543df55b4e28c70383141faee79eec3a53584de1ec9"
+      },
+      "15": {
+        "source_ref": "2 Timothy 4:15",
+        "source_chapter": 4,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "f044bc343419f4bb2325aa2cd31ead5bf251af862eda4b9cbc1031b96faf5aa6"
+      },
+      "16": {
+        "source_ref": "2 Timothy 4:16",
+        "source_chapter": 4,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "233a3237aa0e930cf38056f0dbc13004c037eb289463ba24a457fa0f07f1c8fa"
+      },
+      "17": {
+        "source_ref": "2 Timothy 4:17",
+        "source_chapter": 4,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "fd08d7843c09cc44349694a039670cd0faff0b274000c18ba17eefe410bfad0e"
+      },
+      "18": {
+        "source_ref": "2 Timothy 4:18",
+        "source_chapter": 4,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "8ce6db80fafe7e8f8f086e0f31609296f5a3db0abb8ea26b31621e03ff927f08"
+      },
+      "19": {
+        "source_ref": "2 Timothy 4:19",
+        "source_chapter": 4,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "d2e987adbd45d97d36e917485acb5a07635d54317e5c1f4b6f04ee4d1026cba5"
+      },
+      "20": {
+        "source_ref": "2 Timothy 4:20",
+        "source_chapter": 4,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "32c193860da8463ea67ff39be45d9d90df7659949288befd7058fa3a75970d3a"
+      },
+      "21": {
+        "source_ref": "2 Timothy 4:21",
+        "source_chapter": 4,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "14bd6a27d22b6f067647e24eade6939a514ba5c67a2dd4f741fc8a031df05e05"
+      },
+      "22": {
+        "source_ref": "2 Timothy 4:22",
+        "source_chapter": 4,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "06339cb400f13d6d99aa6c9ca619533337cfa609fb236d2b28449c42b24e4380"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/2timothy/2Timothy_04.md",
+    "blob_sha": "0d05d729b24661b90b3fd82740fae1ed0295eb5e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

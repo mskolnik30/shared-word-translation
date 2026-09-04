@@ -1,0 +1,94 @@
+{
+  "book": "2 Timothy",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 4,
+  "public_verse_slots": 83,
+  "included_verse_labels": 83,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "guard entrusted deposit",
+    "Holy Spirit",
+    "suffering",
+    "sound words",
+    "faithfulness",
+    "Scripture",
+    "teaching succession",
+    "good fight/course",
+    "appearing/kingdom",
+    "Lord rescue"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "1:3-5",
+      "decision": "ancestral continuity and Lois/Eunice intergenerational trust retained"
+    },
+    {
+      "location": "1:12,14",
+      "decision": "deposit wordplay retained; personal entrusting interpretation noted"
+    },
+    {
+      "location": "2:15",
+      "decision": "orthotomeo = handling/cutting word of truth straight; image preserved"
+    },
+    {
+      "location": "2:24-26",
+      "decision": "correction must be gentle; repentance as God gift"
+    },
+    {
+      "location": "3:15",
+      "decision": "sacred writings first refer to Jewish Scriptures known from infancy"
+    },
+    {
+      "location": "3:16",
+      "decision": "theopneustos = God-breathed; do not expand into later inspiration theory"
+    },
+    {
+      "location": "4:6-8",
+      "decision": "drink-offering/departure/course/crown imagery preserved"
+    },
+    {
+      "location": "4:17-18",
+      "decision": "rescue includes final heavenly kingdom, not guaranteed physical survival"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Tim.txt",
+    "git_blob_sha": "8809e18b0f95c7e6913ea5d239f2c28eda2fffad"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "8809e18b0f95c7e6913ea5d239f2c28eda2fffad",
+    "source_binding_count": 83,
+    "unique_source_record_count": 83,
+    "public_verse_slots": 83,
+    "ledger_summary": {
+      "F0": 6,
+      "F1": 37,
+      "F2": 24,
+      "F3": 16
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/2timothy/2Timothy_01.md",
+        "blob_sha": "7e2b98b9f4b538244413338ef2980777aa805193"
+      },
+      "02": {
+        "path": "books/NT/2timothy/2Timothy_02.md",
+        "blob_sha": "192c5fa05fcf562fa8677b50597057ae91e28cb2"
+      },
+      "03": {
+        "path": "books/NT/2timothy/2Timothy_03.md",
+        "blob_sha": "b142fdc2ee71215ce6befea7994b9fb289202d0d"
+      },
+      "04": {
+        "path": "books/NT/2timothy/2Timothy_04.md",
+        "blob_sha": "0d05d729b24661b90b3fd82740fae1ed0295eb5e"
+      }
+    }
+  }
+}
