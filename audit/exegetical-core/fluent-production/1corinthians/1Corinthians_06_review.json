@@ -1,0 +1,342 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Cor.txt",
+    "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "6:9-11",
+      "decision": "Translate the vice list without importing modern identity labels beyond the Greek terms.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Cor.txt",
+    "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Corinthians 6:1",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "1 Corinthians 6:1",
+            "segment_mode": "whole",
+            "sha256": "800488c1138ba3a3dfed64457ec2c0ca8e06813000fb7cb3607d91cccea8a976"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "800488c1138ba3a3dfed64457ec2c0ca8e06813000fb7cb3607d91cccea8a976"
+      },
+      "2": {
+        "source_ref": "1 Corinthians 6:2",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "1 Corinthians 6:2",
+            "segment_mode": "whole",
+            "sha256": "5ce2cd6a74afed0be7a52dd22ffbcb1814b92f78a1869e9b52011c799275fbe7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ce2cd6a74afed0be7a52dd22ffbcb1814b92f78a1869e9b52011c799275fbe7"
+      },
+      "3": {
+        "source_ref": "1 Corinthians 6:3",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "1 Corinthians 6:3",
+            "segment_mode": "whole",
+            "sha256": "dec3b58a0f792073540cada23af9199b03bccf305027f16cd15ca8b59069c67c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dec3b58a0f792073540cada23af9199b03bccf305027f16cd15ca8b59069c67c"
+      },
+      "4": {
+        "source_ref": "1 Corinthians 6:4",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "1 Corinthians 6:4",
+            "segment_mode": "whole",
+            "sha256": "fcc08a7cfa85d9dff3532bac864e8b91c0668a70118f1928a821d2a9fa32a781"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fcc08a7cfa85d9dff3532bac864e8b91c0668a70118f1928a821d2a9fa32a781"
+      },
+      "5": {
+        "source_ref": "1 Corinthians 6:5",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "1 Corinthians 6:5",
+            "segment_mode": "whole",
+            "sha256": "9d298fd2dccea269519d47150d0f053979b9ad3e5df8f693a43399ec3a9b4ada"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d298fd2dccea269519d47150d0f053979b9ad3e5df8f693a43399ec3a9b4ada"
+      },
+      "6": {
+        "source_ref": "1 Corinthians 6:6",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "1 Corinthians 6:6",
+            "segment_mode": "whole",
+            "sha256": "6ce497be25c8d938e8b852bb86b9321a54da5c5287c0b96a3dd1da545e004084"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ce497be25c8d938e8b852bb86b9321a54da5c5287c0b96a3dd1da545e004084"
+      },
+      "7": {
+        "source_ref": "1 Corinthians 6:7",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "1 Corinthians 6:7",
+            "segment_mode": "whole",
+            "sha256": "d8adbe6be5332244bc3c8137f6165efc7015f4b4885869650e386b636e18071b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8adbe6be5332244bc3c8137f6165efc7015f4b4885869650e386b636e18071b"
+      },
+      "8": {
+        "source_ref": "1 Corinthians 6:8",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "1 Corinthians 6:8",
+            "segment_mode": "whole",
+            "sha256": "0b413357383c6981f8a67a1082d1fd5b7d10a69dbe4b6c0a670193aa6790c3f7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b413357383c6981f8a67a1082d1fd5b7d10a69dbe4b6c0a670193aa6790c3f7"
+      },
+      "9": {
+        "source_ref": "1 Corinthians 6:9",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "1 Corinthians 6:9",
+            "segment_mode": "whole",
+            "sha256": "4a79d78462792c98952869bb73787ce60c2964f61c273800abd5feefc83e86be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a79d78462792c98952869bb73787ce60c2964f61c273800abd5feefc83e86be"
+      },
+      "10": {
+        "source_ref": "1 Corinthians 6:10",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "1 Corinthians 6:10",
+            "segment_mode": "whole",
+            "sha256": "bb3a882aaa7a20532c63e180393ff694c4dc2ba6fbeb4ba70152d5c14e7e4de1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb3a882aaa7a20532c63e180393ff694c4dc2ba6fbeb4ba70152d5c14e7e4de1"
+      },
+      "11": {
+        "source_ref": "1 Corinthians 6:11",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "1 Corinthians 6:11",
+            "segment_mode": "whole",
+            "sha256": "55165a9318d63829ad1fa339a57d43ae0304f6098514db035f250abd93d94966"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "55165a9318d63829ad1fa339a57d43ae0304f6098514db035f250abd93d94966"
+      },
+      "12": {
+        "source_ref": "1 Corinthians 6:12",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 12,
+            "source_ref": "1 Corinthians 6:12",
+            "segment_mode": "whole",
+            "sha256": "90e15ffdb33887fdbeb31854125d10c2526cc234bd44323af14f9f68d17ed2c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "90e15ffdb33887fdbeb31854125d10c2526cc234bd44323af14f9f68d17ed2c6"
+      },
+      "13": {
+        "source_ref": "1 Corinthians 6:13",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 13,
+            "source_ref": "1 Corinthians 6:13",
+            "segment_mode": "whole",
+            "sha256": "b92be43c9227a39b1b396888f34b6481d775399cf1ba7c3b85399d511bf8212f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b92be43c9227a39b1b396888f34b6481d775399cf1ba7c3b85399d511bf8212f"
+      },
+      "14": {
+        "source_ref": "1 Corinthians 6:14",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 14,
+            "source_ref": "1 Corinthians 6:14",
+            "segment_mode": "whole",
+            "sha256": "d223a99854a30c4c95bbdce8f0ba026b2afbbe7772f59b9377efea4d20d89ebe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d223a99854a30c4c95bbdce8f0ba026b2afbbe7772f59b9377efea4d20d89ebe"
+      },
+      "15": {
+        "source_ref": "1 Corinthians 6:15",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 15,
+            "source_ref": "1 Corinthians 6:15",
+            "segment_mode": "whole",
+            "sha256": "72229e05df9442bdc549b67749a697f6f487cc28bf61fe576f2d56265785b12d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72229e05df9442bdc549b67749a697f6f487cc28bf61fe576f2d56265785b12d"
+      },
+      "16": {
+        "source_ref": "1 Corinthians 6:16",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 16,
+            "source_ref": "1 Corinthians 6:16",
+            "segment_mode": "whole",
+            "sha256": "a9ac6119d55b1fe3be11c67f998db386cb5026f9a0df1baa712f68f4f01388a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9ac6119d55b1fe3be11c67f998db386cb5026f9a0df1baa712f68f4f01388a4"
+      },
+      "17": {
+        "source_ref": "1 Corinthians 6:17",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 17,
+            "source_ref": "1 Corinthians 6:17",
+            "segment_mode": "whole",
+            "sha256": "6a483e2da76ad29373327dbf4e036cb16e6ef9ca357b3444abe71a9e55dcb846"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a483e2da76ad29373327dbf4e036cb16e6ef9ca357b3444abe71a9e55dcb846"
+      },
+      "18": {
+        "source_ref": "1 Corinthians 6:18",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 18,
+            "source_ref": "1 Corinthians 6:18",
+            "segment_mode": "whole",
+            "sha256": "449d0ca95cb89dc7a271b7ec43471a41eb98e7f11e76e3f53407f440f2005808"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "449d0ca95cb89dc7a271b7ec43471a41eb98e7f11e76e3f53407f440f2005808"
+      },
+      "19": {
+        "source_ref": "1 Corinthians 6:19",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 19,
+            "source_ref": "1 Corinthians 6:19",
+            "segment_mode": "whole",
+            "sha256": "3e855f8b62df2c8a7ea41363f04756c509247618d94296dd0a0b093c407c0637"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3e855f8b62df2c8a7ea41363f04756c509247618d94296dd0a0b093c407c0637"
+      },
+      "20": {
+        "source_ref": "1 Corinthians 6:20",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 20,
+            "source_ref": "1 Corinthians 6:20",
+            "segment_mode": "whole",
+            "sha256": "ef66c3ae008bc6dd4a3719f221c4bd1f497cac5f340ce3ddbe27f7e6fa928878"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef66c3ae008bc6dd4a3719f221c4bd1f497cac5f340ce3ddbe27f7e6fa928878"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1corinthians/1Corinthians_06.md",
+    "blob_sha": "2318c6c067a8400f8197345acd685c2dcb03f3ce"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

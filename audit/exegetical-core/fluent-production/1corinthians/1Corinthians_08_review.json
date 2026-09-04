@@ -1,0 +1,231 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Cor.txt",
+    "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Cor.txt",
+    "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Corinthians 8:1",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "1 Corinthians 8:1",
+            "segment_mode": "whole",
+            "sha256": "639f9be2a307ccea6ca4b392db4535e047067153e96e53b2b22edd6e5e53af3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "639f9be2a307ccea6ca4b392db4535e047067153e96e53b2b22edd6e5e53af3e"
+      },
+      "2": {
+        "source_ref": "1 Corinthians 8:2",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "1 Corinthians 8:2",
+            "segment_mode": "whole",
+            "sha256": "43af4c76449e85198d3acaa7ef945b1fc1997b154dc09ecad0e4a92f3758f609"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43af4c76449e85198d3acaa7ef945b1fc1997b154dc09ecad0e4a92f3758f609"
+      },
+      "3": {
+        "source_ref": "1 Corinthians 8:3",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "1 Corinthians 8:3",
+            "segment_mode": "whole",
+            "sha256": "5264f7324ae3999b1a72b4b38daa7cfd839453fe69d0b1c58b52ca04c2b17128"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5264f7324ae3999b1a72b4b38daa7cfd839453fe69d0b1c58b52ca04c2b17128"
+      },
+      "4": {
+        "source_ref": "1 Corinthians 8:4",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "1 Corinthians 8:4",
+            "segment_mode": "whole",
+            "sha256": "4c57919586da6e303cbedd53e1b779f5dca460029162f7a3c62d836b5025200c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c57919586da6e303cbedd53e1b779f5dca460029162f7a3c62d836b5025200c"
+      },
+      "5": {
+        "source_ref": "1 Corinthians 8:5",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "1 Corinthians 8:5",
+            "segment_mode": "whole",
+            "sha256": "0b6c3b2dcc7d26d95d2dc0f652ec5acb1e0485e2bd52976e4b965476bc45b527"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b6c3b2dcc7d26d95d2dc0f652ec5acb1e0485e2bd52976e4b965476bc45b527"
+      },
+      "6": {
+        "source_ref": "1 Corinthians 8:6",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "1 Corinthians 8:6",
+            "segment_mode": "whole",
+            "sha256": "c6406baf3b49a8d6bb5e1cfbeedd3cdd3906b00b8a4d1180a08b3a9c0d074cc0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6406baf3b49a8d6bb5e1cfbeedd3cdd3906b00b8a4d1180a08b3a9c0d074cc0"
+      },
+      "7": {
+        "source_ref": "1 Corinthians 8:7",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "1 Corinthians 8:7",
+            "segment_mode": "whole",
+            "sha256": "ea08e3f236027fb1d4acff4ae7c10d07f8b3f015fb2515ba362fd564ec426236"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea08e3f236027fb1d4acff4ae7c10d07f8b3f015fb2515ba362fd564ec426236"
+      },
+      "8": {
+        "source_ref": "1 Corinthians 8:8",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "1 Corinthians 8:8",
+            "segment_mode": "whole",
+            "sha256": "f511fd76710fc25419e9b2ef889f9d9faec052604a344f6e622181d1e1152956"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f511fd76710fc25419e9b2ef889f9d9faec052604a344f6e622181d1e1152956"
+      },
+      "9": {
+        "source_ref": "1 Corinthians 8:9",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "1 Corinthians 8:9",
+            "segment_mode": "whole",
+            "sha256": "944d3eb6ff4b0ac9597ff8a9c715301be8274008a1aea87e79b092ea4ca430ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "944d3eb6ff4b0ac9597ff8a9c715301be8274008a1aea87e79b092ea4ca430ce"
+      },
+      "10": {
+        "source_ref": "1 Corinthians 8:10",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "1 Corinthians 8:10",
+            "segment_mode": "whole",
+            "sha256": "a3252842888891d29aabba0d5d97476b2314d81cce63165033ab9f5d1f352547"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3252842888891d29aabba0d5d97476b2314d81cce63165033ab9f5d1f352547"
+      },
+      "11": {
+        "source_ref": "1 Corinthians 8:11",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "1 Corinthians 8:11",
+            "segment_mode": "whole",
+            "sha256": "eb8052a4e4e45ee8267fd8a773ffcf3e1b55be2039b43b3067dd08276a84378d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb8052a4e4e45ee8267fd8a773ffcf3e1b55be2039b43b3067dd08276a84378d"
+      },
+      "12": {
+        "source_ref": "1 Corinthians 8:12",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "1 Corinthians 8:12",
+            "segment_mode": "whole",
+            "sha256": "7994b1106605da215b9d81416224b00e68fd78ab08aa11140b2d1090dc10ce4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7994b1106605da215b9d81416224b00e68fd78ab08aa11140b2d1090dc10ce4e"
+      },
+      "13": {
+        "source_ref": "1 Corinthians 8:13",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "1 Corinthians 8:13",
+            "segment_mode": "whole",
+            "sha256": "1f76c47af4a173de63a11359ee1d5faa1d1425bd1f973cb1333cca658d7a9e38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f76c47af4a173de63a11359ee1d5faa1d1425bd1f973cb1333cca658d7a9e38"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1corinthians/1Corinthians_08.md",
+    "blob_sha": "cda92f828a5c73e6415aae3cc4ddb333f188f062"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
