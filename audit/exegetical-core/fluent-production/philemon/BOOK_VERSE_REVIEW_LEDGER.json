@@ -1,0 +1,396 @@
+{
+  "book": "Philemon",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Phlm.txt",
+    "git_blob_sha": "7904bf8debfe51ea69e0259d214352310eebe3c2"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Philemon 1:1",
+      "source_chapter": 1,
+      "source_verse": 1,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "1381a3dd1003c18c265eb1647110d01c1d8f3f97509b74f3c320fe09b4f2792e",
+      "translation_sha256": "2c32da6e6c8f3ec67fcfaeddaeb33c9e34c675a10bb4c4a5ec52a7ceeaee980e",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Philemon 1:2",
+      "source_chapter": 1,
+      "source_verse": 2,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "8e50e36744286804b3e011c4ecc366b4d239bb4b2c996a906798c71a89a2c3b0",
+      "translation_sha256": "a77eb567b6fc4e042c1456c67d7d44a06ed61d4f8081f7c27935f3917edf942c",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Philemon 1:3",
+      "source_chapter": 1,
+      "source_verse": 3,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "3542bf950b541ec1367df8110d89a10194b9d8d1b35c81faf5fe27ab80603ecb",
+      "translation_sha256": "4b0c50bd93c1ece92cdc3eb0ce96aa9db845690c46dccfc6611823b4dce05733",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F2",
+      "source_ref": "Philemon 1:4",
+      "source_chapter": 1,
+      "source_verse": 4,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "211ab49121d8b274ad18176496a6950c8d45ac3d002cf7516cc6de6d70822012",
+      "translation_sha256": "8450ab9d394b69ae449cbd6653912e6917e093de2d866f8d133857d401cc7887",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F2",
+      "source_ref": "Philemon 1:5",
+      "source_chapter": 1,
+      "source_verse": 5,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "8f73b8b51a1625e078dc9d81d8f6379541fd9d450e24a79c2d801e2ffdc9067d",
+      "translation_sha256": "0322a577ec24953cba41780d5270166efccc6db8796fda1697cdd1934c3479e2",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F2",
+      "source_ref": "Philemon 1:6",
+      "source_chapter": 1,
+      "source_verse": 6,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "9d0bc63cd7767b15219850aee05dcb0ce1cc1a0f7e954a984e0ef775683d49e4",
+      "translation_sha256": "8f348e557cf9047eb6f257da2427e441d424ea8f365327ae5d01906b90d9a8be",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F2",
+      "source_ref": "Philemon 1:7",
+      "source_chapter": 1,
+      "source_verse": 7,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "05d3e79e122cf38a97c143d4026fd4f73467e5a274a23ec88da7d26550a78705",
+      "translation_sha256": "5244de2bf2cd950c9566ad5cd1533a93d3a68463e0aa216cf5466f94536eec39",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:8",
+      "source_chapter": 1,
+      "source_verse": 8,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "89be3cabbd18e2a0a2579e081f6f44dd53e38670ba81d18168550c0e07d99735",
+      "translation_sha256": "2bb49ff83d949d77335aca32012dd8bf49455a40b295247a0458acaa3c647ab7",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "Paul chooses appeal over coercive command"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:9",
+      "source_chapter": 1,
+      "source_verse": 9,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "88e0c79ef3c80302329e7062ec1b6d1cdb3c9985e55bd7722c0e9f1b1e33783a",
+      "translation_sha256": "0844491f1781aba244763ed485bca2fb8845b4c68d1b294239e24315e653b555",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "Paul chooses appeal over coercive command"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:10",
+      "source_chapter": 1,
+      "source_verse": 10,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "81680adec7ef7c8579c6a3ac6fc9d35e73aa6bf883454c4d8218d05e80802eae",
+      "translation_sha256": "73f385d861a01f08d1ad2ca4033a6264f3f41eed0135a418827918fbe2f058ca",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "Paul chooses appeal over coercive command"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:11",
+      "source_chapter": 1,
+      "source_verse": 11,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "f2e757bc7611445ea272bb46cd29cfa0828eb7381b814ecbd1647bb4531a5030",
+      "translation_sha256": "d39a589d93f46f56c0f9a212c7a21f1d4c6729c6f5fe18673dbcedb5c5a95e93",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "Paul chooses appeal over coercive command",
+        "Onesimus useless/useful wordplay retained"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:12",
+      "source_chapter": 1,
+      "source_verse": 12,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "9afca4536b04baa6a49e918ae1bffa9227befecf66542db94a17f63bfe719d4b",
+      "translation_sha256": "8b99efd8e1043344e93b7955d692c3fc2ad571fba9b3705184cacc5d69a559c0",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "Paul chooses appeal over coercive command"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:13",
+      "source_chapter": 1,
+      "source_verse": 13,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "a5e3d0eab66b4b530de425059ebdbac404ac59da1cafe7596c31e2d1c1b35e18",
+      "translation_sha256": "95790177304560fdc1d239cac5eb425d80c422f2ca58fa9a58eb7917aa425aa4",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "Paul chooses appeal over coercive command"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:14",
+      "source_chapter": 1,
+      "source_verse": 14,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "013ee9f411e7f89b583942975d0ab56229d6540ca4f8bb72cb7fa539a80a8e97",
+      "translation_sha256": "b5c23a2233cc2fe2ec8b79c3a27dfc6886c9d8f209e543c003c09dcfa97223dc",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "Paul chooses appeal over coercive command"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:15",
+      "source_chapter": 1,
+      "source_verse": 15,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "4bd9f946dc545936f86ff7002b0e81d3f285133ea1f716b936e81b8998696a9c",
+      "translation_sha256": "008fb31634eb2b591f6c7b8d11614d4e31bd71d56900beaf13a0bf5334853171",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "perhaps retained as modest providential interpretation"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:16",
+      "source_chapter": 1,
+      "source_verse": 16,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "4a1a826eb5f8175e4eb8ef97549a8689fbbe1e4c2c185fa511df3af675002cd4",
+      "translation_sha256": "b745b04ce36b895c62aff5abc0631aea02cec50f854e59bc995c3e664a4edbff",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "no longer as slave but more than slave—beloved brother retained; no employee euphemism"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F2",
+      "source_ref": "Philemon 1:17",
+      "source_chapter": 1,
+      "source_verse": 17,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "dab820cd315439db620d5e99d20dc3464ee071c31529bbb587fd0a46ea66305b",
+      "translation_sha256": "fe34482d89bf13f810fee41c470c1473e900625f106c05a49e078e877c803e89",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:18",
+      "source_chapter": 1,
+      "source_verse": 18,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "4fe93aac2a93fb318659c6c29f6dda7d2cf6f6390eb07e6ba3fce3d6cba502c5",
+      "translation_sha256": "33cba9d7aec1323d0b29919eca2ece90bb821b13d33d84bcabf6a195985f7f03",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "debt/accounting language retained"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:19",
+      "source_chapter": 1,
+      "source_verse": 19,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "a4fa9996eb7c4f86d6cc2a568d687d067a249ffb21ce6791b0863f5ce589fd87",
+      "translation_sha256": "efff95f495b74cc0ff08b346fe0c44b9be9b8ce6d8b62ceacdbcc43d1072e275",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "debt/accounting language retained"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Philemon 1:20",
+      "source_chapter": 1,
+      "source_verse": 20,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "3e68b9c8e2f59a32e6d90dff36bfdd21158887d467e5b237170124afa45c3ded",
+      "translation_sha256": "147c5a8c36450a8dc4ed829b8473c09f6460b449b2d01a598dc2eb36ae9fbe79",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Philemon 1:21",
+      "source_chapter": 1,
+      "source_verse": 21,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "50395499929f2c51511dedb1d2fc74479b3b9b0836c258f087283135f60c8f23",
+      "translation_sha256": "840866034cfaade2f9f1584456fed3336da156502a746d87946bfd1d10e748e4",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": [
+        "even more than I say left open; no forced manumission paraphrase"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Philemon 1:22",
+      "source_chapter": 1,
+      "source_verse": 22,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "5c2fe15e4c827d5a41991a97acc2df51139516b4f02131961ce85afa418ca077",
+      "translation_sha256": "15db31d39ca8083498adcfce71d4a286fe281c5b4e80b69f9057a8b82ec950f7",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Philemon 1:23",
+      "source_chapter": 1,
+      "source_verse": 23,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "481a7dce69ccc5ab2d94749e9d70ceeb2f84a8dd3351e228d27c0aab40518c39",
+      "translation_sha256": "df23427be7ff4b157ceca93e898b083fd13dae4eb0f214c5c741f08025f44fb0",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Philemon 1:24",
+      "source_chapter": 1,
+      "source_verse": 24,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "af32b51b7cb07dae626688a52eccef5b7af56609815577a5dcbc8488460319ac",
+      "translation_sha256": "31ea2f4685a8b77d0aab7148d7cf22a6ef1fd4bd52c19aca305f5086bccf8b6c",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Philemon 1:25",
+      "source_chapter": 1,
+      "source_verse": 25,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "2eaa6989e1f4731b6d72823aeecfc19f363325be8379f601aab37f9a6599c020",
+      "translation_sha256": "6db9bd1998b098e49dc7524e7e8382452de80d607bb36b2c9216aaa091925c56",
+      "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
+      "curated_decisions": []
+    }
+  ],
+  "summary": {
+    "F0": 3,
+    "F1": 5,
+    "F2": 5,
+    "F3": 12
+  },
+  "public_verse_slots": 25,
+  "included_source_bindings": 25
+}

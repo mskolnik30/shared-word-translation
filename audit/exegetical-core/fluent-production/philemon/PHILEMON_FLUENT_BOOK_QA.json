@@ -1,0 +1,72 @@
+{
+  "book": "Philemon",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 1,
+  "public_verse_slots": 25,
+  "included_verse_labels": 25,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "love over coercion",
+    "koinōnia/partnership",
+    "Onesimus useful wordplay",
+    "family language",
+    "slave to beloved brother",
+    "voluntary good",
+    "debt/accounting",
+    "heart/refreshed"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "1:8-14",
+      "decision": "Paul chooses appeal over coercive command"
+    },
+    {
+      "location": "1:11",
+      "decision": "Onesimus useless/useful wordplay retained"
+    },
+    {
+      "location": "1:15",
+      "decision": "perhaps retained as modest providential interpretation"
+    },
+    {
+      "location": "1:16",
+      "decision": "no longer as slave but more than slave—beloved brother retained; no employee euphemism"
+    },
+    {
+      "location": "1:18-19",
+      "decision": "debt/accounting language retained"
+    },
+    {
+      "location": "1:21",
+      "decision": "even more than I say left open; no forced manumission paraphrase"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Phlm.txt",
+    "git_blob_sha": "7904bf8debfe51ea69e0259d214352310eebe3c2"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "7904bf8debfe51ea69e0259d214352310eebe3c2",
+    "source_binding_count": 25,
+    "unique_source_record_count": 25,
+    "public_verse_slots": 25,
+    "ledger_summary": {
+      "F0": 3,
+      "F1": 5,
+      "F2": 5,
+      "F3": 12
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/philemon/Philemon_01.md",
+        "blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9"
+      }
+    }
+  }
+}
