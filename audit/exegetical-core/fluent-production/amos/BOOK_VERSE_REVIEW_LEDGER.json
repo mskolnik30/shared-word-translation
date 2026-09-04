@@ -1,0 +1,3221 @@
+{
+  "book": "Amos",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Amos.xml",
+    "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Amos 1:1",
+          "segment_mode": "whole",
+          "sha256": "09beec2f76db12bc52d3b512a0f687d94806c71449ab9b2f9b5d6a985675f323"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "09beec2f76db12bc52d3b512a0f687d94806c71449ab9b2f9b5d6a985675f323",
+      "translation_sha256": "19abf39faba0a1b348ef030e40621483a985b9cc368842f40773cdd0aa9b3727",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Amos 1:2",
+          "segment_mode": "whole",
+          "sha256": "e441cbb9c0a19bebf85f2506845c54687e9a3e70414de0495be55de96a16ea1d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e441cbb9c0a19bebf85f2506845c54687e9a3e70414de0495be55de96a16ea1d",
+      "translation_sha256": "34c5835a9db4d6bd67147c524e90fa84093849a4762bf8477c59a1a5d5f881f4",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Amos 1:3",
+          "segment_mode": "whole",
+          "sha256": "152ed0f82616609681cfd40167bc57598079fd886b37f0a9f6f1bab0dc3a9744"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "152ed0f82616609681cfd40167bc57598079fd886b37f0a9f6f1bab0dc3a9744",
+      "translation_sha256": "7d34c06bc00553842414242022945522e2f0706fa03f518a27edee02175c3adb",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Amos 1:4",
+          "segment_mode": "whole",
+          "sha256": "c962108fb767e45f6bee978aae7010190e54d2daaf5200adcd38240dbbccb1c0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c962108fb767e45f6bee978aae7010190e54d2daaf5200adcd38240dbbccb1c0",
+      "translation_sha256": "1b75b1f6adb25659de04913ac1bcbdf80aad4b846245c14a68f36ec89199fe5b",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Amos 1:5",
+          "segment_mode": "whole",
+          "sha256": "063e9c0ab954b89efac1d08a80125054a504d328d09e5307a24d2a4a07c9e157"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "063e9c0ab954b89efac1d08a80125054a504d328d09e5307a24d2a4a07c9e157",
+      "translation_sha256": "509210eb0050b9888ab6a518bdde19b8738acf56a258c66e72beb4369ae236e0",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Amos 1:6",
+          "segment_mode": "whole",
+          "sha256": "d3c4d1082863b46600e036e85d0fe7c0e6f5dbd6efb637e5a9de4eeb500ad857"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d3c4d1082863b46600e036e85d0fe7c0e6f5dbd6efb637e5a9de4eeb500ad857",
+      "translation_sha256": "9a3d22be609deeca494deebf766498fd9ac9ce23a2b4abaa2df9223a7ee5298e",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Amos 1:7",
+          "segment_mode": "whole",
+          "sha256": "8a19d07d7867ef1a1f596a4370075ee75cdbf139b9d30062edeae89358820d3b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8a19d07d7867ef1a1f596a4370075ee75cdbf139b9d30062edeae89358820d3b",
+      "translation_sha256": "9feda7421eab3c8bfd559f5228f31c235b0432a894d6626a304f6c6c0a106da5",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Amos 1:8",
+          "segment_mode": "whole",
+          "sha256": "7f4568202aab241e982a301e4ac667b568cdaa623cf1260ea7d24a9ce70c030a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7f4568202aab241e982a301e4ac667b568cdaa623cf1260ea7d24a9ce70c030a",
+      "translation_sha256": "73f35b2f0ac77be7746241c47bd89d36ccfa8490e4b61abac8b6be3b37c9f073",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Amos 1:9",
+          "segment_mode": "whole",
+          "sha256": "9a93ce27d554cac67b8779ab44ed260430d4637e9bcc53ce5033a0b3b23162c1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9a93ce27d554cac67b8779ab44ed260430d4637e9bcc53ce5033a0b3b23162c1",
+      "translation_sha256": "ab9d86ec6d39081a415be18320b41ab661bb83f18c129354a2645594f49243b7",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Amos 1:10",
+          "segment_mode": "whole",
+          "sha256": "09f017971451c56038b44c38516fd3bdf3b7bf3c9895cb526ba54ee70139eea5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "09f017971451c56038b44c38516fd3bdf3b7bf3c9895cb526ba54ee70139eea5",
+      "translation_sha256": "ed29f760440cb5df3eaefb70b0f575950fda024b86c932ad87d775c84d4bdb7a",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Amos 1:11",
+          "segment_mode": "whole",
+          "sha256": "4c63436cee6f457caae4f75e5f0f0de47f541e4b19409da35aa905544e78ff18"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4c63436cee6f457caae4f75e5f0f0de47f541e4b19409da35aa905544e78ff18",
+      "translation_sha256": "8b8e603e42495289a66816dd3c40d6cf749381f443cdb4ec4fd84d98ffa4cf24",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Amos 1:12",
+          "segment_mode": "whole",
+          "sha256": "f99f4eae28824198f0ed0015279ee66e142cc2fd651d1338c1a0626aa6b90803"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f99f4eae28824198f0ed0015279ee66e142cc2fd651d1338c1a0626aa6b90803",
+      "translation_sha256": "7028c2d2d895ed4ccb43619f8e4400edbbf65f2cd9f39d486c42dc9e7fcc22d2",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Amos 1:13",
+          "segment_mode": "whole",
+          "sha256": "29194211fb10e89f5abb2e1e3ddb636d15a7245cbb4826aeba7bb8cc7f7aed71"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "29194211fb10e89f5abb2e1e3ddb636d15a7245cbb4826aeba7bb8cc7f7aed71",
+      "translation_sha256": "6735477e967c38c6f886d5f094c56feac672139808f6db41e58f5c10bc98df7b",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Amos 1:14",
+          "segment_mode": "whole",
+          "sha256": "58e0f5869d50497d52e192f811e771ec0e41284fd2972aee047f39ff4494c99d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "58e0f5869d50497d52e192f811e771ec0e41284fd2972aee047f39ff4494c99d",
+      "translation_sha256": "8c4f23f590b74f67432f9e42c8ed237c3ab3c9c16073b89e636e5153058271e8",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Amos 1:15",
+          "segment_mode": "whole",
+          "sha256": "ed9f31c5409434639c73fc73bdfd6eccf247475e8f902e25afaa0bf7d2a32eb3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ed9f31c5409434639c73fc73bdfd6eccf247475e8f902e25afaa0bf7d2a32eb3",
+      "translation_sha256": "221fe10f6bc3f87a44ebb04a0dc0a674a9a32d12cb0b246a6f794059d96974f2",
+      "tsw_blob_sha": "8d616519f80c29301a029e3004d78f1e451af4a3",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Amos 2:1",
+          "segment_mode": "whole",
+          "sha256": "26c9757212ea2ede2293e11a139d95566b8f1a3a6f8e69db6c3d3763c59c3431"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "26c9757212ea2ede2293e11a139d95566b8f1a3a6f8e69db6c3d3763c59c3431",
+      "translation_sha256": "789b3f7aa79274e254d2f8ae53c6ac5864b78901219e7171c788785f3a2d0a31",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Amos 2:2",
+          "segment_mode": "whole",
+          "sha256": "91984f6bfeb79763f23fb3fda5262066f6649253c5ec155cea4d1d033720e8c2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "91984f6bfeb79763f23fb3fda5262066f6649253c5ec155cea4d1d033720e8c2",
+      "translation_sha256": "a129852eb7cc295223d0e8a1365cbcd390182492c992abbd0fe0e1197c733796",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Amos 2:3",
+          "segment_mode": "whole",
+          "sha256": "238ff3033cc7104a70a207266b849667dc049651d680cbdc379d5a176ec82aa7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "238ff3033cc7104a70a207266b849667dc049651d680cbdc379d5a176ec82aa7",
+      "translation_sha256": "11eca6ad022ea4faef848ccc0131e44d229a504c202cb56c07d285bbd02b6123",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Amos 2:4",
+          "segment_mode": "whole",
+          "sha256": "3653472deb4568ac9dde8c80dc6845e7363e23b466f77bc04b774cb27785cb6e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3653472deb4568ac9dde8c80dc6845e7363e23b466f77bc04b774cb27785cb6e",
+      "translation_sha256": "155eb276b84b0c474a69f5b2925796748e466b7ef8c2c5346fea3f2332e423a5",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Amos 2:5",
+          "segment_mode": "whole",
+          "sha256": "28f72dc7592feb8d5f74fabaf21a03abff7f834fb531c1978c9d6e13c1161380"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "28f72dc7592feb8d5f74fabaf21a03abff7f834fb531c1978c9d6e13c1161380",
+      "translation_sha256": "7ea01a312a93bba73134308fdcdc4ce29f86298c5796ef972086205514b7f012",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Amos 2:6",
+          "segment_mode": "whole",
+          "sha256": "eb4aa3161a935b44c5d63e98afca1f8abcf75d62baf7757a1a8030e4b73d81c3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "eb4aa3161a935b44c5d63e98afca1f8abcf75d62baf7757a1a8030e4b73d81c3",
+      "translation_sha256": "6e0dd5dc79553fbb24ddfa269a6af653aed4d6d32c6f5fd1f0f0cb8c1a5fe8f6",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Amos 2:7",
+          "segment_mode": "whole",
+          "sha256": "2272b40a8d6cf06a94f93672a70a2b99d8b78f8047d1abd1483de30369e897ff"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2272b40a8d6cf06a94f93672a70a2b99d8b78f8047d1abd1483de30369e897ff",
+      "translation_sha256": "adb4b7470bc1aadc81e93c954a34f5e1b8d5444161fb6c7390f7920330c903d2",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Amos 2:8",
+          "segment_mode": "whole",
+          "sha256": "d87906863b00e985e2708afbd9780b01b479c044261305ffe3c96b32d1009aeb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d87906863b00e985e2708afbd9780b01b479c044261305ffe3c96b32d1009aeb",
+      "translation_sha256": "660a245213837655db0e9ee5b5c61328ddba2494b2cb11d1854f70c047cd390a",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Amos 2:9",
+          "segment_mode": "whole",
+          "sha256": "b6fdc12efd6d01a4fe4ca85d5614e4ead1d8f1b0fbe1b07616bdbeb44e34974d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b6fdc12efd6d01a4fe4ca85d5614e4ead1d8f1b0fbe1b07616bdbeb44e34974d",
+      "translation_sha256": "bd76e061e61499d8218114352f7c5f5a8084cf56f2857260456b7cd24c760845",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Amos 2:10",
+          "segment_mode": "whole",
+          "sha256": "a85f181cc00a4fabb89696cd775e079f7604068530db4508b2073b3aa51cc689"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a85f181cc00a4fabb89696cd775e079f7604068530db4508b2073b3aa51cc689",
+      "translation_sha256": "2fe4e51c94a87b92834b438e4f8783a1e4304dd817095b9d5f05b67839665c24",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Amos 2:11",
+          "segment_mode": "whole",
+          "sha256": "a27445fb51490f8c2e7416a294a838769ce7df460b58382e0f0169f1474aae36"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a27445fb51490f8c2e7416a294a838769ce7df460b58382e0f0169f1474aae36",
+      "translation_sha256": "71f20d2fd329ca7b504776fc9d444221fcbbff8c65d24e543b73a43f1170fc9b",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Amos 2:12",
+          "segment_mode": "whole",
+          "sha256": "a3859c4bcbfeb797701f7ff50cd506fc095191b2cf1626a3a76dcd95f76ec77b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a3859c4bcbfeb797701f7ff50cd506fc095191b2cf1626a3a76dcd95f76ec77b",
+      "translation_sha256": "c788e1e0b915ef2e3748bd792be521141e199201a1b97e0b34b60a856a2005cb",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Amos 2:13",
+          "segment_mode": "whole",
+          "sha256": "6dbfc53eb8c8bc63f676e2efe085531fed1de69f86ff616d9d972b1e2e249dc8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6dbfc53eb8c8bc63f676e2efe085531fed1de69f86ff616d9d972b1e2e249dc8",
+      "translation_sha256": "527c34ee3cc204df8f5641045ba963aee2b883a617d2dab8f8e14d6586114855",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Amos 2:14",
+          "segment_mode": "whole",
+          "sha256": "78ad6a315d846767dd37068ef70400c92114371d4e50ee826fc49bde1e5ebc4b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "78ad6a315d846767dd37068ef70400c92114371d4e50ee826fc49bde1e5ebc4b",
+      "translation_sha256": "889f00023d2b11a2a661b1327d11fd26a964f660bf10203518e9071fbe348838",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Amos 2:15",
+          "segment_mode": "whole",
+          "sha256": "ef290e4d21476b32b92417e54919e93e6680c2414f6a8c7416ff621d26595318"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ef290e4d21476b32b92417e54919e93e6680c2414f6a8c7416ff621d26595318",
+      "translation_sha256": "752c4bc21c501fa5564b434c79a4b9da5724ef55ddf562a206bb8ba2adbdff11",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Amos 2:16",
+          "segment_mode": "whole",
+          "sha256": "ed09f6755d809dec50d90828f30ba057a2d7e7622992921c22e3f9f2c4127de7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ed09f6755d809dec50d90828f30ba057a2d7e7622992921c22e3f9f2c4127de7",
+      "translation_sha256": "380e712d673c3e6028eed1a0294a7032723165ed507ad84c10a4c47d12c01771",
+      "tsw_blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077",
+      "curated_decisions": [
+        "Keep the nations and Israel under the same moral scrutiny, culminating in exploitation of the poor and distortion of worship."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Amos 3:1",
+          "segment_mode": "whole",
+          "sha256": "6a6c7d3e7faa297f0b9afe94a4f9d0db8582cafec1295ddc9df298f0d3eb7983"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6a6c7d3e7faa297f0b9afe94a4f9d0db8582cafec1295ddc9df298f0d3eb7983",
+      "translation_sha256": "8825f90daa7e02e9d652a70a7c6c9e33953d4bb0f93d312f0480eb551c20a6d4",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": [
+        "Preserve the chain of rhetorical questions and prophetic compulsion without turning it into a universal formula of causation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Amos 3:2",
+          "segment_mode": "whole",
+          "sha256": "a04148c86e88be0b99ce86b8c0046b639d4a5cf35dc3d93d350d79b260bd6737"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a04148c86e88be0b99ce86b8c0046b639d4a5cf35dc3d93d350d79b260bd6737",
+      "translation_sha256": "d77a08097850daa6cba7cdcb4189a93969fd67a2be42ce99343404e69f17ab3a",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": [
+        "Preserve the chain of rhetorical questions and prophetic compulsion without turning it into a universal formula of causation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Amos 3:3",
+          "segment_mode": "whole",
+          "sha256": "9091f459ef5f221ccc17238a7568898447afd60ae01236943ce127abb5caad51"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9091f459ef5f221ccc17238a7568898447afd60ae01236943ce127abb5caad51",
+      "translation_sha256": "48ed2853478ff0f2211757e944d0166e74d6e0488a6eb9319e62e22158774641",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": [
+        "Preserve the chain of rhetorical questions and prophetic compulsion without turning it into a universal formula of causation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Amos 3:4",
+          "segment_mode": "whole",
+          "sha256": "d1d31012a341b9e6ccc92aa4b8b2efecbf46ed0ff36309caeaefacb85b4f11e7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d1d31012a341b9e6ccc92aa4b8b2efecbf46ed0ff36309caeaefacb85b4f11e7",
+      "translation_sha256": "ec1eca4fc7a43fbbf9afe47c074d8c30aadd9078d699004c1b533495a74b0c57",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": [
+        "Preserve the chain of rhetorical questions and prophetic compulsion without turning it into a universal formula of causation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Amos 3:5",
+          "segment_mode": "whole",
+          "sha256": "a61953d4b7e514cb974754c682a1e6eb938960e392b42361f74e59538a2fed49"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a61953d4b7e514cb974754c682a1e6eb938960e392b42361f74e59538a2fed49",
+      "translation_sha256": "5b2e328c89fa02cf7f3af90d558ac9819e51284407b868ad59a962f7f0cc0b7c",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": [
+        "Preserve the chain of rhetorical questions and prophetic compulsion without turning it into a universal formula of causation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Amos 3:6",
+          "segment_mode": "whole",
+          "sha256": "2d063e42022bf1fa8c8623d22d91d491052d1495f1e9fa11e76e3ae094e90ee6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2d063e42022bf1fa8c8623d22d91d491052d1495f1e9fa11e76e3ae094e90ee6",
+      "translation_sha256": "acc8c03dde20992eba2656bb7abc0f905bc9f90006f31f8c801a70bcc75ffa8c",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": [
+        "Preserve the chain of rhetorical questions and prophetic compulsion without turning it into a universal formula of causation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Amos 3:7",
+          "segment_mode": "whole",
+          "sha256": "c4f1582cce93a7ab2933a7a55df35edd292b365261bd316e5ae635969676852f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c4f1582cce93a7ab2933a7a55df35edd292b365261bd316e5ae635969676852f",
+      "translation_sha256": "368be6bfee1f3d36fc2a23e0f4a001d04d3c8b440e80b926964fb541887bc064",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": [
+        "Preserve the chain of rhetorical questions and prophetic compulsion without turning it into a universal formula of causation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Amos 3:8",
+          "segment_mode": "whole",
+          "sha256": "391c220205377e92b0f2c3e205cd4bedf99e45b275071c2b2b933bf7de911a42"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "391c220205377e92b0f2c3e205cd4bedf99e45b275071c2b2b933bf7de911a42",
+      "translation_sha256": "fccea352b301d29e6b0a4a879338eb87a3854f1a5ff81ddbb219fdd2fc1159fd",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": [
+        "Preserve the chain of rhetorical questions and prophetic compulsion without turning it into a universal formula of causation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Amos 3:9",
+          "segment_mode": "whole",
+          "sha256": "3262d55ec20d0ff0fd41c7080aebb36e41885db12b440b268698ea1c2d922e55"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3262d55ec20d0ff0fd41c7080aebb36e41885db12b440b268698ea1c2d922e55",
+      "translation_sha256": "9ea00d472f61a3cac8a5c656109e92d6792de4beaa982cd0fbca82161ee24d2a",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Amos 3:10",
+          "segment_mode": "whole",
+          "sha256": "869e339ce254c3aa1e56993a354b5098c50094c7fad899b1f3f5e033651abaa0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "869e339ce254c3aa1e56993a354b5098c50094c7fad899b1f3f5e033651abaa0",
+      "translation_sha256": "de48a6da8bd7fce8c2dcb1991e9e99b284e6ddb5f2171385f5ee3abd59f30fc9",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "Amos 3:11",
+          "segment_mode": "whole",
+          "sha256": "6073a5b1e52d5c05205bda67a2208f3a96258fc05cc45a71f9da6e69cb24e976"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6073a5b1e52d5c05205bda67a2208f3a96258fc05cc45a71f9da6e69cb24e976",
+      "translation_sha256": "aa73cb5fa4286a8e37c526ecc97ec35b20e03753ee6aa002c024f18954c803e5",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "Amos 3:12",
+          "segment_mode": "whole",
+          "sha256": "981b535d72d3a601188243783a1a823bdb007e4f5b9e38653ab06fbfb6f70f9d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "981b535d72d3a601188243783a1a823bdb007e4f5b9e38653ab06fbfb6f70f9d",
+      "translation_sha256": "a1ffa9fff39fe9f792888094cf150cd297ba95d7ea351ede320861a06a89a649",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 3:13",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 13,
+          "source_ref": "Amos 3:13",
+          "segment_mode": "whole",
+          "sha256": "1ceb451507d66b8fec55c97f7321a8df07c491524e8fd3b9cf9be0e8d7645673"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1ceb451507d66b8fec55c97f7321a8df07c491524e8fd3b9cf9be0e8d7645673",
+      "translation_sha256": "32989626add3c907bc31a6dbf1a36ae95a58075c69103ee20277c4ca1929d36f",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 3:14",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 14,
+          "source_ref": "Amos 3:14",
+          "segment_mode": "whole",
+          "sha256": "2dd785df857609309add574594b45e4d1fd2099db1d4f914213fd4e6bb4d17cb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2dd785df857609309add574594b45e4d1fd2099db1d4f914213fd4e6bb4d17cb",
+      "translation_sha256": "23067d47e03131a1df42694c589f649d03a151c6bf4b3f9aaec5fbdbe6ea4e08",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 3:15",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 15,
+          "source_ref": "Amos 3:15",
+          "segment_mode": "whole",
+          "sha256": "add6ea4afe80455fbb096e0f61428476273cf80a43f6e7088d2c16c432625ff0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "add6ea4afe80455fbb096e0f61428476273cf80a43f6e7088d2c16c432625ff0",
+      "translation_sha256": "a09ce9f7eb196ba1f665bc102ea18cda951aa51fd538ed54300eea23c130de4a",
+      "tsw_blob_sha": "8ef7db75dc6915b79c2762537db4750e29a3a5d2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:1",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "Amos 4:1",
+          "segment_mode": "whole",
+          "sha256": "3a47e6c2c4dccdd315d84a64d6d0d619686ac93bf0b9dd25d62fc8fe059535fc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3a47e6c2c4dccdd315d84a64d6d0d619686ac93bf0b9dd25d62fc8fe059535fc",
+      "translation_sha256": "1d015cd31301def5341e06d51700f3703b3b26117a09af7be57681ed4932efee",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:2",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "Amos 4:2",
+          "segment_mode": "whole",
+          "sha256": "4bdece0f342f610d608e08f969eacd2c14a2d37f90d1188ac839a5794ef1fff5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4bdece0f342f610d608e08f969eacd2c14a2d37f90d1188ac839a5794ef1fff5",
+      "translation_sha256": "2451ec75142a1bb79c4cb39f91550ad4b4da73df4ee1ed0aa2aa4d07588c40ec",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:3",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "Amos 4:3",
+          "segment_mode": "whole",
+          "sha256": "3ccaab81b93737bd3d1b15463ae082e50d2d8cb82613b7a2b422ab315b2a9969"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3ccaab81b93737bd3d1b15463ae082e50d2d8cb82613b7a2b422ab315b2a9969",
+      "translation_sha256": "fba2162f12f210dc5e51d8720ebc76eb47827945236fa36ad29abe9b4cf411f0",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:4",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "Amos 4:4",
+          "segment_mode": "whole",
+          "sha256": "f8101fcb12b29cbe6743669feb17c873f5f004d5226c1e1db6e1fa612e243f71"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f8101fcb12b29cbe6743669feb17c873f5f004d5226c1e1db6e1fa612e243f71",
+      "translation_sha256": "f2998466d26bfe26252e6a19f25f136921de5e3db6f63bb8aeded3fde9bc6935",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:5",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "Amos 4:5",
+          "segment_mode": "whole",
+          "sha256": "a00fb1827d6f558102c61867f43ac242a87af4f1c34958d7639449a07f844939"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a00fb1827d6f558102c61867f43ac242a87af4f1c34958d7639449a07f844939",
+      "translation_sha256": "3126f69c8a7f631ea817a03dc2ec0325e2999cfdad2a6be6fbfed4a7c7d57915",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:6",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "Amos 4:6",
+          "segment_mode": "whole",
+          "sha256": "3cc007b2e4bd2e06b1a61bf40867f2161be971064bd33584d4dae410c94f8b0b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3cc007b2e4bd2e06b1a61bf40867f2161be971064bd33584d4dae410c94f8b0b",
+      "translation_sha256": "097e408ddab600fa0d7674f53f8835c0cab5e65a1bc14585551d6e10c6c1bea1",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:7",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "Amos 4:7",
+          "segment_mode": "whole",
+          "sha256": "05c8998bb241e611f0511457318550407f20e652ed048ed967fee39b82dd4e44"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "05c8998bb241e611f0511457318550407f20e652ed048ed967fee39b82dd4e44",
+      "translation_sha256": "4dc1d54b15fc222bd324af18d39415c5dcf235716531923042cffb39e1e0613a",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:8",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "Amos 4:8",
+          "segment_mode": "whole",
+          "sha256": "476b1e2217074cec471db2a0b94943706a63e1987d392dfcf581841579c1e623"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "476b1e2217074cec471db2a0b94943706a63e1987d392dfcf581841579c1e623",
+      "translation_sha256": "3a1d5665973a66333ba650ab8f618cf7a08f6dd3dd149b4798b5519d6a471f4c",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:9",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "Amos 4:9",
+          "segment_mode": "whole",
+          "sha256": "43876d6a8c1b27e354e791c4b98b52af258b1ad938df416e36733b4cf8b1dff8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "43876d6a8c1b27e354e791c4b98b52af258b1ad938df416e36733b4cf8b1dff8",
+      "translation_sha256": "bcf3c20bff2dc1e0ec482b3eb1410aa0f5fe7cf895f206f3e576d5327fc019e3",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:10",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "Amos 4:10",
+          "segment_mode": "whole",
+          "sha256": "a325c64821e55c4ca91ee0f2c66cc33e75428a7a72d1cd24e62c3b67f0fc9514"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a325c64821e55c4ca91ee0f2c66cc33e75428a7a72d1cd24e62c3b67f0fc9514",
+      "translation_sha256": "bd40d43ac6627f24a5e70fbe321be190e9d392c5e9e24218b3aa565a47793480",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:11",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "Amos 4:11",
+          "segment_mode": "whole",
+          "sha256": "bbc9767f3d52069a8f4ef835da34826a0a1a5fa1ae5a300fe4438b97320f1cbb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bbc9767f3d52069a8f4ef835da34826a0a1a5fa1ae5a300fe4438b97320f1cbb",
+      "translation_sha256": "33a7692430e694b3e95dffad5f385142be515019f74f235aaf11e6a828050fc7",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 4:12",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "Amos 4:12",
+          "segment_mode": "whole",
+          "sha256": "affcfd84ab32c5392ab28694218ace4f02f5aae2d4d1f928ed470a7fbee5cf03"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "affcfd84ab32c5392ab28694218ace4f02f5aae2d4d1f928ed470a7fbee5cf03",
+      "translation_sha256": "9499ae57a84b432afac25676fb3a9188866f2d0c470e443ced28a33388c3a354",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 4:13",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "Amos 4:13",
+          "segment_mode": "whole",
+          "sha256": "f5234e836a3ed072a7e1740f096e87d33f3bc8335feeb550a8dc81a922202cba"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f5234e836a3ed072a7e1740f096e87d33f3bc8335feeb550a8dc81a922202cba",
+      "translation_sha256": "374fb273316be549d4f15f98b76db64d231e2857b9461196a44db4e28cf484f5",
+      "tsw_blob_sha": "4b7884029f95c933645365867e4f7ab5467c9c28",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:1",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "source_ref": "Amos 5:1",
+          "segment_mode": "whole",
+          "sha256": "3f5c0d5ca83be0c470f03444083f0b029ab2591063e2808879d2f30f898eba6e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3f5c0d5ca83be0c470f03444083f0b029ab2591063e2808879d2f30f898eba6e",
+      "translation_sha256": "62eaef3a772247c9d40dd4e5dbc5852cad8d58ed0372c33a2df12972a684e8ba",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:2",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 2,
+          "source_ref": "Amos 5:2",
+          "segment_mode": "whole",
+          "sha256": "43d5fef6edb800a981e2bb544f4afdb4e54666386febddbd5f8f4ea07fd26156"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "43d5fef6edb800a981e2bb544f4afdb4e54666386febddbd5f8f4ea07fd26156",
+      "translation_sha256": "eab8bd40369b912e79194969d52230cab4814fe0c5b2cbe57a20b3637f184b0f",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:3",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 3,
+          "source_ref": "Amos 5:3",
+          "segment_mode": "whole",
+          "sha256": "8c7853d918821f49b61448305eb626701047ba43d6bc54d165ec895a0bbc2c4c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8c7853d918821f49b61448305eb626701047ba43d6bc54d165ec895a0bbc2c4c",
+      "translation_sha256": "e99c13b33e3aa82dfe6834739be38b1f9312a75c35b5ca08505b6e981cf658ca",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:4",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 4,
+          "source_ref": "Amos 5:4",
+          "segment_mode": "whole",
+          "sha256": "32c78103ca01256adcc1f7096a98823af928c3b13e562fc30d8204c66bcea2cb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "32c78103ca01256adcc1f7096a98823af928c3b13e562fc30d8204c66bcea2cb",
+      "translation_sha256": "c9c1cad91a1f35ef967a2dd151ea0cdae2214e3388094d93762a09106052c5b6",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:5",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "source_ref": "Amos 5:5",
+          "segment_mode": "whole",
+          "sha256": "97c0c68b00af9830e36ca654da4fc6a373a14863ccae792597a4f5ade4588554"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "97c0c68b00af9830e36ca654da4fc6a373a14863ccae792597a4f5ade4588554",
+      "translation_sha256": "e526d32bc72aaf5dfee5f429e22ba27ef92603bb4ea8836c9a92b02cd2c486e6",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:6",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 6,
+          "source_ref": "Amos 5:6",
+          "segment_mode": "whole",
+          "sha256": "7f3ee35a72da8282e3ab15cea1f06144b8717707f226976557754e582eef8b12"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7f3ee35a72da8282e3ab15cea1f06144b8717707f226976557754e582eef8b12",
+      "translation_sha256": "a4773533b2f264f1b26a3b5e5b48e8c2d3c60bd7b42a54da1334d14310e90721",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:7",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 7,
+          "source_ref": "Amos 5:7",
+          "segment_mode": "whole",
+          "sha256": "ecfcd9e96a24e382953dbd4298c6fd64c23042ca2eb3ce84323f37386452f3b6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ecfcd9e96a24e382953dbd4298c6fd64c23042ca2eb3ce84323f37386452f3b6",
+      "translation_sha256": "7fbaf781f0e2a3938f641a8a940d6b7da77968e5d0623902ff0744a556fa0913",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:8",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 8,
+          "source_ref": "Amos 5:8",
+          "segment_mode": "whole",
+          "sha256": "1ece110597c408105a30a5a0bcbdbe71bfbca1bd41d9a7d47f96f22d970c138e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1ece110597c408105a30a5a0bcbdbe71bfbca1bd41d9a7d47f96f22d970c138e",
+      "translation_sha256": "f7a2a58960c816c75621416d392f4e32942006528bcf00f79be6f9762a7f0f3e",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:9",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 9,
+          "source_ref": "Amos 5:9",
+          "segment_mode": "whole",
+          "sha256": "25decdd3c03dbf01746015830a1cdc0ee339b285595793ce6ca6a53bd33f3887"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "25decdd3c03dbf01746015830a1cdc0ee339b285595793ce6ca6a53bd33f3887",
+      "translation_sha256": "790db1d46182ca221a13e82989c7b4fdc7eac009d8592adc2371c927a262bee2",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:10",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 10,
+          "source_ref": "Amos 5:10",
+          "segment_mode": "whole",
+          "sha256": "9dc47172179e68fadf5bd065b9ae6f0bc2a5c549a22b434fc7159be7d2064641"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9dc47172179e68fadf5bd065b9ae6f0bc2a5c549a22b434fc7159be7d2064641",
+      "translation_sha256": "14aabd23385536cb49766ecd52cfaaa3f9ef364138c3301b21ddc06b6dd76d3f",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 5:11",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 11,
+          "source_ref": "Amos 5:11",
+          "segment_mode": "whole",
+          "sha256": "d80fa65a7b1612294c9a5d6425297552e5f6f8a9bea7abf30c813662a3ae3941"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d80fa65a7b1612294c9a5d6425297552e5f6f8a9bea7abf30c813662a3ae3941",
+      "translation_sha256": "7b44fff5581f5f7bcbab9a98e2b55f8474cf98e11f8032e50b84bdcf51fcaaf3",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:12",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 12,
+          "source_ref": "Amos 5:12",
+          "segment_mode": "whole",
+          "sha256": "ec7b193235a47a8f803f1b6c847fa39b511557f15dfe6263efdcf2a63f2ce45c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ec7b193235a47a8f803f1b6c847fa39b511557f15dfe6263efdcf2a63f2ce45c",
+      "translation_sha256": "735d90b6002b8fe61ad69b7885b2ff6cbedc355b2899db15579c5d9d3ec42122",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 5:13",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 13,
+          "source_ref": "Amos 5:13",
+          "segment_mode": "whole",
+          "sha256": "9128bab33a95a2be9fa844af0159c11148f54a7321a2dcbf65aacb09ba27959c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9128bab33a95a2be9fa844af0159c11148f54a7321a2dcbf65aacb09ba27959c",
+      "translation_sha256": "77cc3686bff9d98e1655b9c64f8d886bfcf23309df12bbb59bd2228da9191fca",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:14",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 14,
+          "source_ref": "Amos 5:14",
+          "segment_mode": "whole",
+          "sha256": "5ef2ee2456458c52e30013d52192cdacfd9cb5b9330d192bd5dc234fbba6c0fe"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5ef2ee2456458c52e30013d52192cdacfd9cb5b9330d192bd5dc234fbba6c0fe",
+      "translation_sha256": "dab87c7fec08d4feaf87ce46a503038c4799bd81c1fd6465be8b9554ea4f4056",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:15",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 15,
+          "source_ref": "Amos 5:15",
+          "segment_mode": "whole",
+          "sha256": "3ba3f689350e53bf4c0f51605bb4ec30d0464ff5bb925d09a132cdf9a033aaf1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3ba3f689350e53bf4c0f51605bb4ec30d0464ff5bb925d09a132cdf9a033aaf1",
+      "translation_sha256": "61c01a5820115fa4f257b6928cef759fcde3e9e512e0717f34fe30abe076ea6c",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 5:16",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 16,
+          "source_ref": "Amos 5:16",
+          "segment_mode": "whole",
+          "sha256": "5e6f842ed74467147215f2df227da0dcd006b9130159e33041fac16d528ba4bd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5e6f842ed74467147215f2df227da0dcd006b9130159e33041fac16d528ba4bd",
+      "translation_sha256": "e1752d6f5ba86781ee4a3b588fefe9a43e27d5ca56c8f498e80b46bc3cb09517",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:17",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 17,
+          "source_ref": "Amos 5:17",
+          "segment_mode": "whole",
+          "sha256": "0c02b41255004a305cc00b5e3326bd1df9970fad39d8c7f3da8897fc9aa4d3e2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0c02b41255004a305cc00b5e3326bd1df9970fad39d8c7f3da8897fc9aa4d3e2",
+      "translation_sha256": "a9279f9bb115c5ed8b8f5eee833392b263daab70857ba8eee9e4157416b4b20c",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 5:18",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 18,
+          "source_ref": "Amos 5:18",
+          "segment_mode": "whole",
+          "sha256": "1cca777bdfb5ff190cc9006608e81365134e0102e629a8691689093904935bdb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1cca777bdfb5ff190cc9006608e81365134e0102e629a8691689093904935bdb",
+      "translation_sha256": "1ab278c809f208868e7a99fd5bb090d766b6c2cc2c5cd6677994e1199dda0418",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": [
+        "Keep the day-of-the-LORD reversal and the inseparability of worship, justice, and righteousness."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 5:19",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 19,
+          "source_ref": "Amos 5:19",
+          "segment_mode": "whole",
+          "sha256": "e2567a0c4de57b759c1fb4e40b3680986c536299a912f6f4c2a8f6b080f6e1f9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e2567a0c4de57b759c1fb4e40b3680986c536299a912f6f4c2a8f6b080f6e1f9",
+      "translation_sha256": "74d51cd6b46ec9d40095ce29f061481c986bac8a745b8f992e5d06ac56de3b37",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": [
+        "Keep the day-of-the-LORD reversal and the inseparability of worship, justice, and righteousness."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 5:20",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 20,
+          "source_ref": "Amos 5:20",
+          "segment_mode": "whole",
+          "sha256": "7a3c8f4f446ce287347891f418513c4d73553623d8c5db9c93dcea5d652ecbe3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7a3c8f4f446ce287347891f418513c4d73553623d8c5db9c93dcea5d652ecbe3",
+      "translation_sha256": "182f7ea3057ce36958975ac9c23f0e5e8cb09b74b65ba8aa19b9c1de242d1b73",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": [
+        "Keep the day-of-the-LORD reversal and the inseparability of worship, justice, and righteousness."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 5:21",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 21,
+          "source_ref": "Amos 5:21",
+          "segment_mode": "whole",
+          "sha256": "83c11e95a423444f9fb144e0feca8de23e5c7ecbebf61c7aeb45dfd1d0b055ea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "83c11e95a423444f9fb144e0feca8de23e5c7ecbebf61c7aeb45dfd1d0b055ea",
+      "translation_sha256": "ec27a7aec2fddd3ca8b891f4b93bf77e6423ffe6a1de0f3e817fc27bcf1d158e",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": [
+        "Keep the day-of-the-LORD reversal and the inseparability of worship, justice, and righteousness."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 5:22",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 22,
+          "source_ref": "Amos 5:22",
+          "segment_mode": "whole",
+          "sha256": "76d0d6d75ae0849814567109aa831baba5d20fb6bbc9abe5e6bd023394bbb5e1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "76d0d6d75ae0849814567109aa831baba5d20fb6bbc9abe5e6bd023394bbb5e1",
+      "translation_sha256": "f575b8a1c9299b8a8e3d83eccf34283c19cd045762f8f9c423e8ffd7484e66d4",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": [
+        "Keep the day-of-the-LORD reversal and the inseparability of worship, justice, and righteousness."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 5:23",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 23,
+          "source_ref": "Amos 5:23",
+          "segment_mode": "whole",
+          "sha256": "7619712f6ab098d715e5ebd89107583c569147669099c252e27393e2b4be90ef"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7619712f6ab098d715e5ebd89107583c569147669099c252e27393e2b4be90ef",
+      "translation_sha256": "eadaa52d080236f0b6a27f36680719f8a6e31e9c98a2940a171c40b7fcfdb5b2",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": [
+        "Keep the day-of-the-LORD reversal and the inseparability of worship, justice, and righteousness."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 5:24",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 24,
+          "source_ref": "Amos 5:24",
+          "segment_mode": "whole",
+          "sha256": "4f7fe941b7617872916829592bd005cd21bcacee0e246b03dced96e092bdc5f1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4f7fe941b7617872916829592bd005cd21bcacee0e246b03dced96e092bdc5f1",
+      "translation_sha256": "8f1c0164c7ed67ade7fabb109b063d325647497b1e65dea747139aee8327acb8",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": [
+        "Keep the day-of-the-LORD reversal and the inseparability of worship, justice, and righteousness."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 5:25",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 25,
+          "source_ref": "Amos 5:25",
+          "segment_mode": "whole",
+          "sha256": "ba070cb633a2a41ba2df58fea67c2e4c5a808b948da5e342615ae1a694764e59"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ba070cb633a2a41ba2df58fea67c2e4c5a808b948da5e342615ae1a694764e59",
+      "translation_sha256": "ff74186465b63a3d34e777981f6c4e6e2a7c2000beb176e6d9f0fba1cef0c50d",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 26,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 5:26",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 26,
+          "source_ref": "Amos 5:26",
+          "segment_mode": "whole",
+          "sha256": "bb2c0341ec4c6620d48d866ebd2706798c9c341ce501dc584cc16ce2b139342c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bb2c0341ec4c6620d48d866ebd2706798c9c341ce501dc584cc16ce2b139342c",
+      "translation_sha256": "f11e36ac93c9898e11f45da3b1975ab6470770c23a89820ee254b0c28e08d908",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 27,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 5:27",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 27,
+          "source_ref": "Amos 5:27",
+          "segment_mode": "whole",
+          "sha256": "a8e8be41ed4b9eeb30ed16bc204bb01ef3aa71dfb5c797162841525f170f5d6a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a8e8be41ed4b9eeb30ed16bc204bb01ef3aa71dfb5c797162841525f170f5d6a",
+      "translation_sha256": "39c81909b385e1e541a6fb40e6676ee5b6bad1bb26a01fff062a4ccf42e23cd6",
+      "tsw_blob_sha": "d42605f4482e65029b2a7f7e161771f8f405421b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:1",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "source_ref": "Amos 6:1",
+          "segment_mode": "whole",
+          "sha256": "6523fe56e087699566c743fc1d3dc9008668bbf48ffdfa14bab5a4525cd11f26"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6523fe56e087699566c743fc1d3dc9008668bbf48ffdfa14bab5a4525cd11f26",
+      "translation_sha256": "525f0c371c6823ea361999c65a579e3f8346049186e4b14e3db3632522023f5e",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:2",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 2,
+          "source_ref": "Amos 6:2",
+          "segment_mode": "whole",
+          "sha256": "4b39f0b99d6c6f749feaa46345151a454f048f398c664ffec71e4645f0b034a8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4b39f0b99d6c6f749feaa46345151a454f048f398c664ffec71e4645f0b034a8",
+      "translation_sha256": "1be07499ecc5e476538ebba29f7d4aa84763fc8f8369e90d36543e32e77734f3",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:3",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 3,
+          "source_ref": "Amos 6:3",
+          "segment_mode": "whole",
+          "sha256": "2b4edb182dae9762d7ea65144fbda2b8e51958fa665cda06831c840c09208d82"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2b4edb182dae9762d7ea65144fbda2b8e51958fa665cda06831c840c09208d82",
+      "translation_sha256": "bdbc07ecf7b8853b142c6bfa914470ab54708560463d0c3076af16bd5819f816",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:4",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 4,
+          "source_ref": "Amos 6:4",
+          "segment_mode": "whole",
+          "sha256": "0b83d5a184b85f7d4367f88d6bc78fd0c43830e4c4e259fc2250e6547a2b8b66"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0b83d5a184b85f7d4367f88d6bc78fd0c43830e4c4e259fc2250e6547a2b8b66",
+      "translation_sha256": "ccf11ceccfc2d7767616f035dba8a2a8ce3354a418c46cebc9b313463210b664",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:5",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 5,
+          "source_ref": "Amos 6:5",
+          "segment_mode": "whole",
+          "sha256": "b4c91246cb43d88e496846db2c541ce37f87b4ca967639a981469bb62e053eb1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b4c91246cb43d88e496846db2c541ce37f87b4ca967639a981469bb62e053eb1",
+      "translation_sha256": "ad587081d69726b048ba692f7431ca565caafa6c1f54894854d06026dd45b10d",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:6",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 6,
+          "source_ref": "Amos 6:6",
+          "segment_mode": "whole",
+          "sha256": "8306be51409e469e24164847b9d25d760eb06bb7f11f91a1a7aaa05b2b4cf9d7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8306be51409e469e24164847b9d25d760eb06bb7f11f91a1a7aaa05b2b4cf9d7",
+      "translation_sha256": "a401e37d433f3fd9d7b39cc772ab7ea70e7373959893367f1ec5dbb9a4985f0d",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 6:7",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 7,
+          "source_ref": "Amos 6:7",
+          "segment_mode": "whole",
+          "sha256": "11010498d79ccb75f95313e4c43ad7e69fbba3d7b95e2345efe1a787a9a5a01b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "11010498d79ccb75f95313e4c43ad7e69fbba3d7b95e2345efe1a787a9a5a01b",
+      "translation_sha256": "0823c4f349dd62cf4854dba20ff6b1a75cb416a863ec535889af0030663889b2",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:8",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 8,
+          "source_ref": "Amos 6:8",
+          "segment_mode": "whole",
+          "sha256": "fbde5c91641efa7ceaa229eaf2396ff4b919c454c75f89944aaa6c5e0b581629"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fbde5c91641efa7ceaa229eaf2396ff4b919c454c75f89944aaa6c5e0b581629",
+      "translation_sha256": "43a9cdd9f700b977b5dcf8a5acac9ff141505eb6d13bee4accd53d5f46a64150",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:9",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 9,
+          "source_ref": "Amos 6:9",
+          "segment_mode": "whole",
+          "sha256": "157afed5942557662ec72edd55e38c4eb818a276f73e494a2e685e6096a93971"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "157afed5942557662ec72edd55e38c4eb818a276f73e494a2e685e6096a93971",
+      "translation_sha256": "51adb0295bf8218f3c8e27ad8b1518e8379b9a7b0755b5f7b3dae09122ebce15",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:10",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 10,
+          "source_ref": "Amos 6:10",
+          "segment_mode": "whole",
+          "sha256": "e5cc4bedfa92340cbbd6adbf4c38108ce6c7623f3679540f2dc30c7b11ac5612"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e5cc4bedfa92340cbbd6adbf4c38108ce6c7623f3679540f2dc30c7b11ac5612",
+      "translation_sha256": "0be277f09419a667b7f703a22768aeff475d5502ac3fa5afacdb0a0e16857e81",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:11",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 11,
+          "source_ref": "Amos 6:11",
+          "segment_mode": "whole",
+          "sha256": "627331507cdf2528dfe0a13a20af2a63254a696b898668eb796e9310609759d8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "627331507cdf2528dfe0a13a20af2a63254a696b898668eb796e9310609759d8",
+      "translation_sha256": "5b457f43e9fc04f7168aaf42380993248016ff79a88bf0fa9903d011823f2af5",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:12",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 12,
+          "source_ref": "Amos 6:12",
+          "segment_mode": "whole",
+          "sha256": "24ea619c59338a8e8c89e70bb0b7b905c1a194dbb61bcd070780e101a8a6e97d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "24ea619c59338a8e8c89e70bb0b7b905c1a194dbb61bcd070780e101a8a6e97d",
+      "translation_sha256": "199a1560d76eaad792006e855d98fcab92105991f88977762a0ba4b5d35d5acf",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:13",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 13,
+          "source_ref": "Amos 6:13",
+          "segment_mode": "whole",
+          "sha256": "e8c209d110f0057dd4c7e40b98bc8486838294afb6ac1ecf7ec1f1569bc82dc6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e8c209d110f0057dd4c7e40b98bc8486838294afb6ac1ecf7ec1f1569bc82dc6",
+      "translation_sha256": "bbe95dd6e33686dbd799c5b5b7eb9acc1566f47135a31275ab7b69023d139358",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 6:14",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 14,
+          "source_ref": "Amos 6:14",
+          "segment_mode": "whole",
+          "sha256": "555d1f26bc7c65d93e41e3dd0dc1fe996dec195bdfc3e05ebea2b0c3f2680288"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "555d1f26bc7c65d93e41e3dd0dc1fe996dec195bdfc3e05ebea2b0c3f2680288",
+      "translation_sha256": "06b5b402f556c9ec1496c4a003fa22377a786c144dc8002436aff9bedae03c3b",
+      "tsw_blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:1",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "source_ref": "Amos 7:1",
+          "segment_mode": "whole",
+          "sha256": "e3bf412c4ba86aba7f45334dc1c258fd79641f3f54a73aa8ff3b5a516ae71f40"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e3bf412c4ba86aba7f45334dc1c258fd79641f3f54a73aa8ff3b5a516ae71f40",
+      "translation_sha256": "3c2c4b6a63d2bd9c2a6bdf66fda949ffb12726fd08f8bf51488f870ea864e0c8",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:2",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 2,
+          "source_ref": "Amos 7:2",
+          "segment_mode": "whole",
+          "sha256": "18dd108ceb939e91442829672f0802b2e65df8195bd81fed4c5d2c1072cb5106"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "18dd108ceb939e91442829672f0802b2e65df8195bd81fed4c5d2c1072cb5106",
+      "translation_sha256": "1fbba939e2bd26786fb283bfcfbdf1d46d8e9d49c7423e9f1fc5cf54267564fb",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:3",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 3,
+          "source_ref": "Amos 7:3",
+          "segment_mode": "whole",
+          "sha256": "e829c2353e508b54a0ba216ac2662f3b6202c3fb83ccb20152f1e899736f4999"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e829c2353e508b54a0ba216ac2662f3b6202c3fb83ccb20152f1e899736f4999",
+      "translation_sha256": "ac4ba75d23f86a67c3277a617a814d073bbc7886946d0e2a45f62bfe3d392ad6",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:4",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 4,
+          "source_ref": "Amos 7:4",
+          "segment_mode": "whole",
+          "sha256": "b7276dc356a5d1b2b5d46c1a411c31bdbf2907eff23a93e0bf7b1cafa60f0824"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b7276dc356a5d1b2b5d46c1a411c31bdbf2907eff23a93e0bf7b1cafa60f0824",
+      "translation_sha256": "ad7f1d90279abe2a22a5b323dd923087db1a9a8839a0d7c5b81219371f8259b3",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:5",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 5,
+          "source_ref": "Amos 7:5",
+          "segment_mode": "whole",
+          "sha256": "3a5650bef086e47e05f406752e4c9006e7f8fbeb6edc63419ef69cb9833f7ade"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3a5650bef086e47e05f406752e4c9006e7f8fbeb6edc63419ef69cb9833f7ade",
+      "translation_sha256": "3a64fd3c8d0a5b757e979ced97d541703021d8614137a3c7e42503e63bc7dc7d",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:6",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 6,
+          "source_ref": "Amos 7:6",
+          "segment_mode": "whole",
+          "sha256": "4914c60b1108f4cbb38323e4e71882461c3f079b39f0eb3e3c4d04a11a14a948"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4914c60b1108f4cbb38323e4e71882461c3f079b39f0eb3e3c4d04a11a14a948",
+      "translation_sha256": "81c1bf074cacaf023d182f0d4441bd2b75b7d83ce21483850ee8dd5420494db3",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:7",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 7,
+          "source_ref": "Amos 7:7",
+          "segment_mode": "whole",
+          "sha256": "e256c28c5ba510b4d4d881965e2384a4e3fa240bc6a4153fc90ec2bf1a978274"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e256c28c5ba510b4d4d881965e2384a4e3fa240bc6a4153fc90ec2bf1a978274",
+      "translation_sha256": "aac6a93514b819ca8c5cc03ce657396224bd3ec88136c0b3fb3b2c3c8c2b5501",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:8",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 8,
+          "source_ref": "Amos 7:8",
+          "segment_mode": "whole",
+          "sha256": "e8fa1ed5f091c178563d0698a1ae1f7fd59258f9329cba5638dae9143fe21947"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e8fa1ed5f091c178563d0698a1ae1f7fd59258f9329cba5638dae9143fe21947",
+      "translation_sha256": "f0aadae9c05d84ff613e9d0c9b40f9e97c6dc1d98d20d6d854638283dea06e72",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:9",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 9,
+          "source_ref": "Amos 7:9",
+          "segment_mode": "whole",
+          "sha256": "b148fc027a50a9806cf2a9b879dd3684c87f81a2aecf29f03b4dbbccd955d736"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b148fc027a50a9806cf2a9b879dd3684c87f81a2aecf29f03b4dbbccd955d736",
+      "translation_sha256": "9ea449f94e57e638e67ee9b151921810ed63a2d73854b12907168527198968a2",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:10",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 10,
+          "source_ref": "Amos 7:10",
+          "segment_mode": "whole",
+          "sha256": "1ce96c4907c22f63188c161de5397811432fec2fb89c21e2ecc53cba326f65fb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1ce96c4907c22f63188c161de5397811432fec2fb89c21e2ecc53cba326f65fb",
+      "translation_sha256": "1c448334544c3503873aaf0ea570d39b5673c3192df545eaa8770840621c4808",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:11",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 11,
+          "source_ref": "Amos 7:11",
+          "segment_mode": "whole",
+          "sha256": "a6f5c63741e0017e3f4c18a3f2c743839a56a6e13e79e4bf2a5e1709b064dfc7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a6f5c63741e0017e3f4c18a3f2c743839a56a6e13e79e4bf2a5e1709b064dfc7",
+      "translation_sha256": "93097b0846de56831275ebc1e69fba0a01bde8f67ce7db6a087a079526311060",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:12",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 12,
+          "source_ref": "Amos 7:12",
+          "segment_mode": "whole",
+          "sha256": "50f232e9791270e39dc3b299a3c251b65952db0d275e2fe9523f6e79a936fe7e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "50f232e9791270e39dc3b299a3c251b65952db0d275e2fe9523f6e79a936fe7e",
+      "translation_sha256": "403dedf85c69d53b5bd0d5a6cd25481c4b40880efc8063afe6559e5869751900",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:13",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 13,
+          "source_ref": "Amos 7:13",
+          "segment_mode": "whole",
+          "sha256": "2ac9ed2863a83b982c4fd8d4676f83663ba4e23e211b67d033ed69826cfe52b4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2ac9ed2863a83b982c4fd8d4676f83663ba4e23e211b67d033ed69826cfe52b4",
+      "translation_sha256": "6327980603db290b0095422d3037e67f6b79635ab56c7bfc03eb7cf54e1f32dc",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:14",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 14,
+          "source_ref": "Amos 7:14",
+          "segment_mode": "whole",
+          "sha256": "679d2fc86dc38a8074228e02a11caf37241323ccfba214ac3c44877269a8d83d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "679d2fc86dc38a8074228e02a11caf37241323ccfba214ac3c44877269a8d83d",
+      "translation_sha256": "4a7e988854a8f413d31ef0ba2d4b8102f89cf94a5cbaa1ddda9f7e0368c35e0c",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:15",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 15,
+          "source_ref": "Amos 7:15",
+          "segment_mode": "whole",
+          "sha256": "27f1cfa0f1d1c4e93b6e2e6c503ba68eb68a20a256566491e4e971d7b4de4201"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "27f1cfa0f1d1c4e93b6e2e6c503ba68eb68a20a256566491e4e971d7b4de4201",
+      "translation_sha256": "d917b2ad1f723af31c52db173f8ae12f7ebbc7f6abbc8e4298d2e184a34214c8",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:16",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 16,
+          "source_ref": "Amos 7:16",
+          "segment_mode": "whole",
+          "sha256": "c2361a03c5d02e554b38a63c5e546c0104f80379a8f9255d7844ea2d6f2b83c1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c2361a03c5d02e554b38a63c5e546c0104f80379a8f9255d7844ea2d6f2b83c1",
+      "translation_sha256": "5fe5a3bfc7b9e2b3154487ada9d0bf8951d823cfbb642a5808f2ae59feaa36d7",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 7:17",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 17,
+          "source_ref": "Amos 7:17",
+          "segment_mode": "whole",
+          "sha256": "b8cfec71f74214cca7db8c77ee45340ca3a84c365a262f9d0195cd27bdac25e8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b8cfec71f74214cca7db8c77ee45340ca3a84c365a262f9d0195cd27bdac25e8",
+      "translation_sha256": "a3db6b9af20ba9662c97c2daf2706e8279edc5150699615a87e8ec368a9f834a",
+      "tsw_blob_sha": "6df6526698eb12387a59bd0bf668a20728967885",
+      "curated_decisions": [
+        "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:1",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "source_ref": "Amos 8:1",
+          "segment_mode": "whole",
+          "sha256": "082c357c768b7afa4e8375809cb2d430b2ab0ca7e0e1b4efefefeeeb223e6f9b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "082c357c768b7afa4e8375809cb2d430b2ab0ca7e0e1b4efefefeeeb223e6f9b",
+      "translation_sha256": "2839f39778ac976939fa72d65276ad5694ce95092ecbba78564ba3cd449a5fec",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 8:2",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 2,
+          "source_ref": "Amos 8:2",
+          "segment_mode": "whole",
+          "sha256": "c8977e6325993fd5caea23e6a3423b24685379cd8145bba2b585c3d6d60d43c6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c8977e6325993fd5caea23e6a3423b24685379cd8145bba2b585c3d6d60d43c6",
+      "translation_sha256": "7432dbf2e018a4d2621d689f7d3f9630572f32723b425a0f5e42e52f49e6a830",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:3",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 3,
+          "source_ref": "Amos 8:3",
+          "segment_mode": "whole",
+          "sha256": "6f549c7861ffb9053df0212ea3d9c9ae4514b75458ec5f2a131e3d60984ef02c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6f549c7861ffb9053df0212ea3d9c9ae4514b75458ec5f2a131e3d60984ef02c",
+      "translation_sha256": "9c6cb5e5b9cb3caa600ff74cafa429b4f26681c210b068f1c755d969131467bc",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:4",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 4,
+          "source_ref": "Amos 8:4",
+          "segment_mode": "whole",
+          "sha256": "fb62af3748c0a6f9e80873898a252ad72b21d632e65f72c90cd7d699a983538e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fb62af3748c0a6f9e80873898a252ad72b21d632e65f72c90cd7d699a983538e",
+      "translation_sha256": "e085de21b17155f23dc2c88f2b08e9a08bd00497ebb3d46dc47b52c45fa47102",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:5",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 5,
+          "source_ref": "Amos 8:5",
+          "segment_mode": "whole",
+          "sha256": "31ffdac621bb624fef5ef646c1373286f9424e46fd48d1fdb8716375659506e0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "31ffdac621bb624fef5ef646c1373286f9424e46fd48d1fdb8716375659506e0",
+      "translation_sha256": "7b684852fb234d174155841c8752edd71f7ee4d76efda92f5ba0a574a1b4877a",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:6",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 6,
+          "source_ref": "Amos 8:6",
+          "segment_mode": "whole",
+          "sha256": "cb5d4bf453dfea9c23d2ba445591036c2714fc3fba11c71a66395396fe6f0a5a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cb5d4bf453dfea9c23d2ba445591036c2714fc3fba11c71a66395396fe6f0a5a",
+      "translation_sha256": "6ae711b5beca2b2a7c23a7482d47615a38495a97dc791784d9bfa57c4a2e0266",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:7",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 7,
+          "source_ref": "Amos 8:7",
+          "segment_mode": "whole",
+          "sha256": "8e8818fe619039ab355d71f684ff509dc0bfdcb9ba83b7b603d1ec0cb01e438f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8e8818fe619039ab355d71f684ff509dc0bfdcb9ba83b7b603d1ec0cb01e438f",
+      "translation_sha256": "9fbc3e926fcfd2c83a80ef7c35b55ee351ec0ebb0b1241823daf14d94d938b5d",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:8",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 8,
+          "source_ref": "Amos 8:8",
+          "segment_mode": "whole",
+          "sha256": "1b74cfd6511f555bcecc70d444167ca9ef0dd73ec066080d883a6d3aa08c2cd4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1b74cfd6511f555bcecc70d444167ca9ef0dd73ec066080d883a6d3aa08c2cd4",
+      "translation_sha256": "837923a4ea2ee9ef54365b0f23e67df3a1721e536e143d34e10fed776ea6bf9d",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:9",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 9,
+          "source_ref": "Amos 8:9",
+          "segment_mode": "whole",
+          "sha256": "8481cea9ac8bb33e2ed772b8cce8e37e38e1e37e798a7e877556e3eaa56c8559"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8481cea9ac8bb33e2ed772b8cce8e37e38e1e37e798a7e877556e3eaa56c8559",
+      "translation_sha256": "7359c066e16455df02f5158aaadb1b2bbefcfca77605b455a95f8fba3dbe5b00",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:10",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 10,
+          "source_ref": "Amos 8:10",
+          "segment_mode": "whole",
+          "sha256": "0e983c9a6638c9c04a31e4814c1b293ab4d91485929df37a73e4dc490e1ee870"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0e983c9a6638c9c04a31e4814c1b293ab4d91485929df37a73e4dc490e1ee870",
+      "translation_sha256": "3545a1803f9f9e18d22998e32e5256aaa785d5228455c7c3fe1a5cac5e162570",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:11",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 11,
+          "source_ref": "Amos 8:11",
+          "segment_mode": "whole",
+          "sha256": "67cb180df17211a45e43c5adf9270e0e0a5bcbbc449c3a9ef2e80d8453218755"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "67cb180df17211a45e43c5adf9270e0e0a5bcbbc449c3a9ef2e80d8453218755",
+      "translation_sha256": "3544b0eb2aaca6450d2f154a5d00be1cf3bef8b5a5522dce313d6f4b54c4079b",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:12",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 12,
+          "source_ref": "Amos 8:12",
+          "segment_mode": "whole",
+          "sha256": "29c986bed0dbb8a36c4fe2405e11346c1bbb97b8bb718de113a759f658499258"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "29c986bed0dbb8a36c4fe2405e11346c1bbb97b8bb718de113a759f658499258",
+      "translation_sha256": "86ba8a6c9074baa24c71d59c578dc404562dda1fe335857da42a7fecca01753c",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 8:13",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 13,
+          "source_ref": "Amos 8:13",
+          "segment_mode": "whole",
+          "sha256": "cd0b371091b92f20d4a78dcaa20e9c749ccb7f308d4db67e915398c81fd463c8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cd0b371091b92f20d4a78dcaa20e9c749ccb7f308d4db67e915398c81fd463c8",
+      "translation_sha256": "caa96ce67dc7c77ee5c9f2ed5f999207e13350ff140b6850988662073dc0a14f",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 8:14",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 14,
+          "source_ref": "Amos 8:14",
+          "segment_mode": "whole",
+          "sha256": "689ddaf82b194d5cf53101eede4f4778edd67693654c1d0236569f0b7222c6f0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "689ddaf82b194d5cf53101eede4f4778edd67693654c1d0236569f0b7222c6f0",
+      "translation_sha256": "c1bc35cecbf42650311020ae16e229cc3e88c39be877dcf98e06b0a7a47dbe22",
+      "tsw_blob_sha": "f0fe3f5c31b066956e206d588449bd5e8fef4bad",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 9:1",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "source_ref": "Amos 9:1",
+          "segment_mode": "whole",
+          "sha256": "0b61061c027ec82bd4c426eb70d96c58e8cd99ddd4c7e5d229d6a98a4c7f64c6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0b61061c027ec82bd4c426eb70d96c58e8cd99ddd4c7e5d229d6a98a4c7f64c6",
+      "translation_sha256": "2c54f536153f488372a3da3eef1e29e2dcb1214154a96aefe148ac38c52fd94d",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 9:2",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 2,
+          "source_ref": "Amos 9:2",
+          "segment_mode": "whole",
+          "sha256": "4425d3f4e39e3b67e8d4d43be095324451860abe5e0d63638a4ff99fe5621f17"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4425d3f4e39e3b67e8d4d43be095324451860abe5e0d63638a4ff99fe5621f17",
+      "translation_sha256": "e652b97ddde2861682f866c9cdd8f45ab1209195de7a82808b53a56fb0129c88",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 9:3",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 3,
+          "source_ref": "Amos 9:3",
+          "segment_mode": "whole",
+          "sha256": "529a25f5043f81a489791af5d82fe88b20c8b5fd5f08c7e3594bdfc4c5a22c94"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "529a25f5043f81a489791af5d82fe88b20c8b5fd5f08c7e3594bdfc4c5a22c94",
+      "translation_sha256": "d8fdc58954b9b2089239ddafba1ba5359f117145157a81887d0cd9418587667f",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 9:4",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 4,
+          "source_ref": "Amos 9:4",
+          "segment_mode": "whole",
+          "sha256": "10d0b0d1cc8bc2918d949a3ef470b45d3c26471e31b66621e0acef9c31ebc8dc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "10d0b0d1cc8bc2918d949a3ef470b45d3c26471e31b66621e0acef9c31ebc8dc",
+      "translation_sha256": "c3d0fc412bc8f6e77006b2b644bd4f57592d9e83a7a9c2fcc84ac800a7817ca3",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 9:5",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 5,
+          "source_ref": "Amos 9:5",
+          "segment_mode": "whole",
+          "sha256": "8b4b23102d43fa9fb1b80b97ae89c6f3ae54dfb843750365a843a068111676fc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8b4b23102d43fa9fb1b80b97ae89c6f3ae54dfb843750365a843a068111676fc",
+      "translation_sha256": "8d9638f84ab6c9cb10027d07c24c5037250980cb5f7119fa9cb6cf0e14c4fe75",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 9:6",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 6,
+          "source_ref": "Amos 9:6",
+          "segment_mode": "whole",
+          "sha256": "f446620e7f77c22509eb43193aaf9a031302dee91eef639ea985c7892bdc0605"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f446620e7f77c22509eb43193aaf9a031302dee91eef639ea985c7892bdc0605",
+      "translation_sha256": "b087e0855e0ecbd78dc43e6646d08016ba888716c1c99e96a829b771a00de7ce",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 9:7",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 7,
+          "source_ref": "Amos 9:7",
+          "segment_mode": "whole",
+          "sha256": "431719f4bbb3df902d8d4132a0ad0eb08cc3ec1e52147be328a573da3fb05701"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "431719f4bbb3df902d8d4132a0ad0eb08cc3ec1e52147be328a573da3fb05701",
+      "translation_sha256": "90ea24bb3f06b8f5203689a88842534b2ad5d027068fa66df1b4b585f9eee25d",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": [
+        "Preserve God's sovereignty over the migrations of Israel and other peoples without erasing covenant accountability."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 9:8",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 8,
+          "source_ref": "Amos 9:8",
+          "segment_mode": "whole",
+          "sha256": "fe3c34b88b6881a78c179a43d2966f321638992414b9c728b5a209e8abc3589f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fe3c34b88b6881a78c179a43d2966f321638992414b9c728b5a209e8abc3589f",
+      "translation_sha256": "8d5f0fb4c23facb9ab092a317a425e3769a1c268fe2871e6006cca6bb53bb935",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Amos 9:9",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 9,
+          "source_ref": "Amos 9:9",
+          "segment_mode": "whole",
+          "sha256": "60037baa27cc45e2c4e45a996cadc46b51dc7a91253ebdd893fd180ab966b783"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "60037baa27cc45e2c4e45a996cadc46b51dc7a91253ebdd893fd180ab966b783",
+      "translation_sha256": "d077a3350e784fa8ad7c048cf3b55dfbe1ce9d05a07a7a99d9c37c00b87f67bf",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Amos 9:10",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 10,
+          "source_ref": "Amos 9:10",
+          "segment_mode": "whole",
+          "sha256": "8909c8685d75e942a7e8beca116f9a4d6dd1260fabfb0ba0a30d465142879dda"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8909c8685d75e942a7e8beca116f9a4d6dd1260fabfb0ba0a30d465142879dda",
+      "translation_sha256": "479120818f4dde94b7cad84d8144cb3c7eb8a2eaaf4bcace1cd30a69a80b39cd",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 9:11",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 11,
+          "source_ref": "Amos 9:11",
+          "segment_mode": "whole",
+          "sha256": "c9d7b3157ddca9afa46e6e568e0f0971e26a6c51b8a6b5f3c7afb226e7acb763"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c9d7b3157ddca9afa46e6e568e0f0971e26a6c51b8a6b5f3c7afb226e7acb763",
+      "translation_sha256": "b499303717fd1b293e6b020533e3d6fa278769597cec5bd834fc6cfced54c453",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": [
+        "Keep restoration, abundance, and secure planting as the book's concluding promise."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 9:12",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 12,
+          "source_ref": "Amos 9:12",
+          "segment_mode": "whole",
+          "sha256": "85b07362269a256b3a9ffecf71ae3f26d0f9ba32e7aa94cd32ee489a652eef2a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "85b07362269a256b3a9ffecf71ae3f26d0f9ba32e7aa94cd32ee489a652eef2a",
+      "translation_sha256": "99c0c1da636ef25d52815b818c13a72f2871bfa4ad4f5a992e46835e919bb31f",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": [
+        "Keep restoration, abundance, and secure planting as the book's concluding promise."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 9:13",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 13,
+          "source_ref": "Amos 9:13",
+          "segment_mode": "whole",
+          "sha256": "3f64f4611304cd02fe6c98d75aaccb86caed41f447de4ffe00e8f6b1b41d1a19"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3f64f4611304cd02fe6c98d75aaccb86caed41f447de4ffe00e8f6b1b41d1a19",
+      "translation_sha256": "3807ed813a032023a1f421450d6bd02786f81ba254d04837f81eb64cc2ce0847",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": [
+        "Keep restoration, abundance, and secure planting as the book's concluding promise."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 9:14",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 14,
+          "source_ref": "Amos 9:14",
+          "segment_mode": "whole",
+          "sha256": "a09242fc9643d1eec52020271df94c3ddf869b50ce57df3ac63483ddbcd5e5e1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a09242fc9643d1eec52020271df94c3ddf869b50ce57df3ac63483ddbcd5e5e1",
+      "translation_sha256": "3963610cf2d257baa6092d8093a4151753d86200d8a98fbf71f545b03e47d9f0",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": [
+        "Keep restoration, abundance, and secure planting as the book's concluding promise."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Amos 9:15",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 15,
+          "source_ref": "Amos 9:15",
+          "segment_mode": "whole",
+          "sha256": "3ebf8ee85aaa6a9c467308c21314844d95b728830ed3e46ff7d764915aeaff6c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3ebf8ee85aaa6a9c467308c21314844d95b728830ed3e46ff7d764915aeaff6c",
+      "translation_sha256": "b8caf3bb79824ca7ec1144eb08195182ae7a477034d3ed67af1bd9cfb4cbc425",
+      "tsw_blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e",
+      "curated_decisions": [
+        "Keep restoration, abundance, and secure planting as the book's concluding promise."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 65,
+    "F1": 14,
+    "F2": 0,
+    "F3": 67
+  },
+  "public_verse_slots": 146,
+  "included_source_bindings": 146
+}

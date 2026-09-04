@@ -1,0 +1,297 @@
+{
+  "book": "Amos",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Amos.xml",
+    "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "7:1-17",
+      "decision": "Retain the visions, Amos's intercession, and the conflict with Amaziah as distinct scenes.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Amos.xml",
+    "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Amos 7:1",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 1,
+            "source_ref": "Amos 7:1",
+            "segment_mode": "whole",
+            "sha256": "e3bf412c4ba86aba7f45334dc1c258fd79641f3f54a73aa8ff3b5a516ae71f40"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3bf412c4ba86aba7f45334dc1c258fd79641f3f54a73aa8ff3b5a516ae71f40"
+      },
+      "2": {
+        "source_ref": "Amos 7:2",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 2,
+            "source_ref": "Amos 7:2",
+            "segment_mode": "whole",
+            "sha256": "18dd108ceb939e91442829672f0802b2e65df8195bd81fed4c5d2c1072cb5106"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18dd108ceb939e91442829672f0802b2e65df8195bd81fed4c5d2c1072cb5106"
+      },
+      "3": {
+        "source_ref": "Amos 7:3",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 3,
+            "source_ref": "Amos 7:3",
+            "segment_mode": "whole",
+            "sha256": "e829c2353e508b54a0ba216ac2662f3b6202c3fb83ccb20152f1e899736f4999"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e829c2353e508b54a0ba216ac2662f3b6202c3fb83ccb20152f1e899736f4999"
+      },
+      "4": {
+        "source_ref": "Amos 7:4",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 4,
+            "source_ref": "Amos 7:4",
+            "segment_mode": "whole",
+            "sha256": "b7276dc356a5d1b2b5d46c1a411c31bdbf2907eff23a93e0bf7b1cafa60f0824"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7276dc356a5d1b2b5d46c1a411c31bdbf2907eff23a93e0bf7b1cafa60f0824"
+      },
+      "5": {
+        "source_ref": "Amos 7:5",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 5,
+            "source_ref": "Amos 7:5",
+            "segment_mode": "whole",
+            "sha256": "3a5650bef086e47e05f406752e4c9006e7f8fbeb6edc63419ef69cb9833f7ade"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a5650bef086e47e05f406752e4c9006e7f8fbeb6edc63419ef69cb9833f7ade"
+      },
+      "6": {
+        "source_ref": "Amos 7:6",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 6,
+            "source_ref": "Amos 7:6",
+            "segment_mode": "whole",
+            "sha256": "4914c60b1108f4cbb38323e4e71882461c3f079b39f0eb3e3c4d04a11a14a948"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4914c60b1108f4cbb38323e4e71882461c3f079b39f0eb3e3c4d04a11a14a948"
+      },
+      "7": {
+        "source_ref": "Amos 7:7",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 7,
+            "source_ref": "Amos 7:7",
+            "segment_mode": "whole",
+            "sha256": "e256c28c5ba510b4d4d881965e2384a4e3fa240bc6a4153fc90ec2bf1a978274"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e256c28c5ba510b4d4d881965e2384a4e3fa240bc6a4153fc90ec2bf1a978274"
+      },
+      "8": {
+        "source_ref": "Amos 7:8",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 8,
+            "source_ref": "Amos 7:8",
+            "segment_mode": "whole",
+            "sha256": "e8fa1ed5f091c178563d0698a1ae1f7fd59258f9329cba5638dae9143fe21947"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8fa1ed5f091c178563d0698a1ae1f7fd59258f9329cba5638dae9143fe21947"
+      },
+      "9": {
+        "source_ref": "Amos 7:9",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 9,
+            "source_ref": "Amos 7:9",
+            "segment_mode": "whole",
+            "sha256": "b148fc027a50a9806cf2a9b879dd3684c87f81a2aecf29f03b4dbbccd955d736"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b148fc027a50a9806cf2a9b879dd3684c87f81a2aecf29f03b4dbbccd955d736"
+      },
+      "10": {
+        "source_ref": "Amos 7:10",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 10,
+            "source_ref": "Amos 7:10",
+            "segment_mode": "whole",
+            "sha256": "1ce96c4907c22f63188c161de5397811432fec2fb89c21e2ecc53cba326f65fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ce96c4907c22f63188c161de5397811432fec2fb89c21e2ecc53cba326f65fb"
+      },
+      "11": {
+        "source_ref": "Amos 7:11",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 11,
+            "source_ref": "Amos 7:11",
+            "segment_mode": "whole",
+            "sha256": "a6f5c63741e0017e3f4c18a3f2c743839a56a6e13e79e4bf2a5e1709b064dfc7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6f5c63741e0017e3f4c18a3f2c743839a56a6e13e79e4bf2a5e1709b064dfc7"
+      },
+      "12": {
+        "source_ref": "Amos 7:12",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 12,
+            "source_ref": "Amos 7:12",
+            "segment_mode": "whole",
+            "sha256": "50f232e9791270e39dc3b299a3c251b65952db0d275e2fe9523f6e79a936fe7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50f232e9791270e39dc3b299a3c251b65952db0d275e2fe9523f6e79a936fe7e"
+      },
+      "13": {
+        "source_ref": "Amos 7:13",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 13,
+            "source_ref": "Amos 7:13",
+            "segment_mode": "whole",
+            "sha256": "2ac9ed2863a83b982c4fd8d4676f83663ba4e23e211b67d033ed69826cfe52b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ac9ed2863a83b982c4fd8d4676f83663ba4e23e211b67d033ed69826cfe52b4"
+      },
+      "14": {
+        "source_ref": "Amos 7:14",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 14,
+            "source_ref": "Amos 7:14",
+            "segment_mode": "whole",
+            "sha256": "679d2fc86dc38a8074228e02a11caf37241323ccfba214ac3c44877269a8d83d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "679d2fc86dc38a8074228e02a11caf37241323ccfba214ac3c44877269a8d83d"
+      },
+      "15": {
+        "source_ref": "Amos 7:15",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 15,
+            "source_ref": "Amos 7:15",
+            "segment_mode": "whole",
+            "sha256": "27f1cfa0f1d1c4e93b6e2e6c503ba68eb68a20a256566491e4e971d7b4de4201"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27f1cfa0f1d1c4e93b6e2e6c503ba68eb68a20a256566491e4e971d7b4de4201"
+      },
+      "16": {
+        "source_ref": "Amos 7:16",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 16,
+            "source_ref": "Amos 7:16",
+            "segment_mode": "whole",
+            "sha256": "c2361a03c5d02e554b38a63c5e546c0104f80379a8f9255d7844ea2d6f2b83c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2361a03c5d02e554b38a63c5e546c0104f80379a8f9255d7844ea2d6f2b83c1"
+      },
+      "17": {
+        "source_ref": "Amos 7:17",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 17,
+            "source_ref": "Amos 7:17",
+            "segment_mode": "whole",
+            "sha256": "b8cfec71f74214cca7db8c77ee45340ca3a84c365a262f9d0195cd27bdac25e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8cfec71f74214cca7db8c77ee45340ca3a84c365a262f9d0195cd27bdac25e8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/amos/Amos_07.md",
+    "blob_sha": "6df6526698eb12387a59bd0bf668a20728967885"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

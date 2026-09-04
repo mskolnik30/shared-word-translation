@@ -1,0 +1,272 @@
+{
+  "book": "Amos",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Amos.xml",
+    "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "9:7",
+      "decision": "Preserve God's sovereignty over the migrations of Israel and other peoples without erasing covenant accountability.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:11-15",
+      "decision": "Keep restoration, abundance, and secure planting as the book's concluding promise.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Amos.xml",
+    "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Amos 9:1",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Amos 9:1",
+            "segment_mode": "whole",
+            "sha256": "0b61061c027ec82bd4c426eb70d96c58e8cd99ddd4c7e5d229d6a98a4c7f64c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b61061c027ec82bd4c426eb70d96c58e8cd99ddd4c7e5d229d6a98a4c7f64c6"
+      },
+      "2": {
+        "source_ref": "Amos 9:2",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Amos 9:2",
+            "segment_mode": "whole",
+            "sha256": "4425d3f4e39e3b67e8d4d43be095324451860abe5e0d63638a4ff99fe5621f17"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4425d3f4e39e3b67e8d4d43be095324451860abe5e0d63638a4ff99fe5621f17"
+      },
+      "3": {
+        "source_ref": "Amos 9:3",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Amos 9:3",
+            "segment_mode": "whole",
+            "sha256": "529a25f5043f81a489791af5d82fe88b20c8b5fd5f08c7e3594bdfc4c5a22c94"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "529a25f5043f81a489791af5d82fe88b20c8b5fd5f08c7e3594bdfc4c5a22c94"
+      },
+      "4": {
+        "source_ref": "Amos 9:4",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Amos 9:4",
+            "segment_mode": "whole",
+            "sha256": "10d0b0d1cc8bc2918d949a3ef470b45d3c26471e31b66621e0acef9c31ebc8dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10d0b0d1cc8bc2918d949a3ef470b45d3c26471e31b66621e0acef9c31ebc8dc"
+      },
+      "5": {
+        "source_ref": "Amos 9:5",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Amos 9:5",
+            "segment_mode": "whole",
+            "sha256": "8b4b23102d43fa9fb1b80b97ae89c6f3ae54dfb843750365a843a068111676fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b4b23102d43fa9fb1b80b97ae89c6f3ae54dfb843750365a843a068111676fc"
+      },
+      "6": {
+        "source_ref": "Amos 9:6",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Amos 9:6",
+            "segment_mode": "whole",
+            "sha256": "f446620e7f77c22509eb43193aaf9a031302dee91eef639ea985c7892bdc0605"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f446620e7f77c22509eb43193aaf9a031302dee91eef639ea985c7892bdc0605"
+      },
+      "7": {
+        "source_ref": "Amos 9:7",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Amos 9:7",
+            "segment_mode": "whole",
+            "sha256": "431719f4bbb3df902d8d4132a0ad0eb08cc3ec1e52147be328a573da3fb05701"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "431719f4bbb3df902d8d4132a0ad0eb08cc3ec1e52147be328a573da3fb05701"
+      },
+      "8": {
+        "source_ref": "Amos 9:8",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Amos 9:8",
+            "segment_mode": "whole",
+            "sha256": "fe3c34b88b6881a78c179a43d2966f321638992414b9c728b5a209e8abc3589f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe3c34b88b6881a78c179a43d2966f321638992414b9c728b5a209e8abc3589f"
+      },
+      "9": {
+        "source_ref": "Amos 9:9",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Amos 9:9",
+            "segment_mode": "whole",
+            "sha256": "60037baa27cc45e2c4e45a996cadc46b51dc7a91253ebdd893fd180ab966b783"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60037baa27cc45e2c4e45a996cadc46b51dc7a91253ebdd893fd180ab966b783"
+      },
+      "10": {
+        "source_ref": "Amos 9:10",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Amos 9:10",
+            "segment_mode": "whole",
+            "sha256": "8909c8685d75e942a7e8beca116f9a4d6dd1260fabfb0ba0a30d465142879dda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8909c8685d75e942a7e8beca116f9a4d6dd1260fabfb0ba0a30d465142879dda"
+      },
+      "11": {
+        "source_ref": "Amos 9:11",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Amos 9:11",
+            "segment_mode": "whole",
+            "sha256": "c9d7b3157ddca9afa46e6e568e0f0971e26a6c51b8a6b5f3c7afb226e7acb763"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9d7b3157ddca9afa46e6e568e0f0971e26a6c51b8a6b5f3c7afb226e7acb763"
+      },
+      "12": {
+        "source_ref": "Amos 9:12",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Amos 9:12",
+            "segment_mode": "whole",
+            "sha256": "85b07362269a256b3a9ffecf71ae3f26d0f9ba32e7aa94cd32ee489a652eef2a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "85b07362269a256b3a9ffecf71ae3f26d0f9ba32e7aa94cd32ee489a652eef2a"
+      },
+      "13": {
+        "source_ref": "Amos 9:13",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Amos 9:13",
+            "segment_mode": "whole",
+            "sha256": "3f64f4611304cd02fe6c98d75aaccb86caed41f447de4ffe00e8f6b1b41d1a19"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f64f4611304cd02fe6c98d75aaccb86caed41f447de4ffe00e8f6b1b41d1a19"
+      },
+      "14": {
+        "source_ref": "Amos 9:14",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Amos 9:14",
+            "segment_mode": "whole",
+            "sha256": "a09242fc9643d1eec52020271df94c3ddf869b50ce57df3ac63483ddbcd5e5e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a09242fc9643d1eec52020271df94c3ddf869b50ce57df3ac63483ddbcd5e5e1"
+      },
+      "15": {
+        "source_ref": "Amos 9:15",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Amos 9:15",
+            "segment_mode": "whole",
+            "sha256": "3ebf8ee85aaa6a9c467308c21314844d95b728830ed3e46ff7d764915aeaff6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ebf8ee85aaa6a9c467308c21314844d95b728830ed3e46ff7d764915aeaff6c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/amos/Amos_09.md",
+    "blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,246 @@
+{
+  "book": "Amos",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Amos.xml",
+    "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Amos.xml",
+    "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Amos 6:1",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "Amos 6:1",
+            "segment_mode": "whole",
+            "sha256": "6523fe56e087699566c743fc1d3dc9008668bbf48ffdfa14bab5a4525cd11f26"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6523fe56e087699566c743fc1d3dc9008668bbf48ffdfa14bab5a4525cd11f26"
+      },
+      "2": {
+        "source_ref": "Amos 6:2",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "Amos 6:2",
+            "segment_mode": "whole",
+            "sha256": "4b39f0b99d6c6f749feaa46345151a454f048f398c664ffec71e4645f0b034a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b39f0b99d6c6f749feaa46345151a454f048f398c664ffec71e4645f0b034a8"
+      },
+      "3": {
+        "source_ref": "Amos 6:3",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "Amos 6:3",
+            "segment_mode": "whole",
+            "sha256": "2b4edb182dae9762d7ea65144fbda2b8e51958fa665cda06831c840c09208d82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b4edb182dae9762d7ea65144fbda2b8e51958fa665cda06831c840c09208d82"
+      },
+      "4": {
+        "source_ref": "Amos 6:4",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "Amos 6:4",
+            "segment_mode": "whole",
+            "sha256": "0b83d5a184b85f7d4367f88d6bc78fd0c43830e4c4e259fc2250e6547a2b8b66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b83d5a184b85f7d4367f88d6bc78fd0c43830e4c4e259fc2250e6547a2b8b66"
+      },
+      "5": {
+        "source_ref": "Amos 6:5",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "Amos 6:5",
+            "segment_mode": "whole",
+            "sha256": "b4c91246cb43d88e496846db2c541ce37f87b4ca967639a981469bb62e053eb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4c91246cb43d88e496846db2c541ce37f87b4ca967639a981469bb62e053eb1"
+      },
+      "6": {
+        "source_ref": "Amos 6:6",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "Amos 6:6",
+            "segment_mode": "whole",
+            "sha256": "8306be51409e469e24164847b9d25d760eb06bb7f11f91a1a7aaa05b2b4cf9d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8306be51409e469e24164847b9d25d760eb06bb7f11f91a1a7aaa05b2b4cf9d7"
+      },
+      "7": {
+        "source_ref": "Amos 6:7",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "Amos 6:7",
+            "segment_mode": "whole",
+            "sha256": "11010498d79ccb75f95313e4c43ad7e69fbba3d7b95e2345efe1a787a9a5a01b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "11010498d79ccb75f95313e4c43ad7e69fbba3d7b95e2345efe1a787a9a5a01b"
+      },
+      "8": {
+        "source_ref": "Amos 6:8",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "Amos 6:8",
+            "segment_mode": "whole",
+            "sha256": "fbde5c91641efa7ceaa229eaf2396ff4b919c454c75f89944aaa6c5e0b581629"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbde5c91641efa7ceaa229eaf2396ff4b919c454c75f89944aaa6c5e0b581629"
+      },
+      "9": {
+        "source_ref": "Amos 6:9",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "Amos 6:9",
+            "segment_mode": "whole",
+            "sha256": "157afed5942557662ec72edd55e38c4eb818a276f73e494a2e685e6096a93971"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "157afed5942557662ec72edd55e38c4eb818a276f73e494a2e685e6096a93971"
+      },
+      "10": {
+        "source_ref": "Amos 6:10",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "Amos 6:10",
+            "segment_mode": "whole",
+            "sha256": "e5cc4bedfa92340cbbd6adbf4c38108ce6c7623f3679540f2dc30c7b11ac5612"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5cc4bedfa92340cbbd6adbf4c38108ce6c7623f3679540f2dc30c7b11ac5612"
+      },
+      "11": {
+        "source_ref": "Amos 6:11",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "Amos 6:11",
+            "segment_mode": "whole",
+            "sha256": "627331507cdf2528dfe0a13a20af2a63254a696b898668eb796e9310609759d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "627331507cdf2528dfe0a13a20af2a63254a696b898668eb796e9310609759d8"
+      },
+      "12": {
+        "source_ref": "Amos 6:12",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 12,
+            "source_ref": "Amos 6:12",
+            "segment_mode": "whole",
+            "sha256": "24ea619c59338a8e8c89e70bb0b7b905c1a194dbb61bcd070780e101a8a6e97d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24ea619c59338a8e8c89e70bb0b7b905c1a194dbb61bcd070780e101a8a6e97d"
+      },
+      "13": {
+        "source_ref": "Amos 6:13",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 13,
+            "source_ref": "Amos 6:13",
+            "segment_mode": "whole",
+            "sha256": "e8c209d110f0057dd4c7e40b98bc8486838294afb6ac1ecf7ec1f1569bc82dc6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8c209d110f0057dd4c7e40b98bc8486838294afb6ac1ecf7ec1f1569bc82dc6"
+      },
+      "14": {
+        "source_ref": "Amos 6:14",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 14,
+            "source_ref": "Amos 6:14",
+            "segment_mode": "whole",
+            "sha256": "555d1f26bc7c65d93e41e3dd0dc1fe996dec195bdfc3e05ebea2b0c3f2680288"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "555d1f26bc7c65d93e41e3dd0dc1fe996dec195bdfc3e05ebea2b0c3f2680288"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/amos/Amos_06.md",
+    "blob_sha": "ee843f83511fdff83bf9b3df6bb771c2a48a322a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

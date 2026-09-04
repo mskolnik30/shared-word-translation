@@ -1,0 +1,276 @@
+{
+  "book": "Amos",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Amos.xml",
+    "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Amos.xml",
+    "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Amos 2:1",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Amos 2:1",
+            "segment_mode": "whole",
+            "sha256": "26c9757212ea2ede2293e11a139d95566b8f1a3a6f8e69db6c3d3763c59c3431"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26c9757212ea2ede2293e11a139d95566b8f1a3a6f8e69db6c3d3763c59c3431"
+      },
+      "2": {
+        "source_ref": "Amos 2:2",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Amos 2:2",
+            "segment_mode": "whole",
+            "sha256": "91984f6bfeb79763f23fb3fda5262066f6649253c5ec155cea4d1d033720e8c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91984f6bfeb79763f23fb3fda5262066f6649253c5ec155cea4d1d033720e8c2"
+      },
+      "3": {
+        "source_ref": "Amos 2:3",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Amos 2:3",
+            "segment_mode": "whole",
+            "sha256": "238ff3033cc7104a70a207266b849667dc049651d680cbdc379d5a176ec82aa7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "238ff3033cc7104a70a207266b849667dc049651d680cbdc379d5a176ec82aa7"
+      },
+      "4": {
+        "source_ref": "Amos 2:4",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Amos 2:4",
+            "segment_mode": "whole",
+            "sha256": "3653472deb4568ac9dde8c80dc6845e7363e23b466f77bc04b774cb27785cb6e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3653472deb4568ac9dde8c80dc6845e7363e23b466f77bc04b774cb27785cb6e"
+      },
+      "5": {
+        "source_ref": "Amos 2:5",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Amos 2:5",
+            "segment_mode": "whole",
+            "sha256": "28f72dc7592feb8d5f74fabaf21a03abff7f834fb531c1978c9d6e13c1161380"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "28f72dc7592feb8d5f74fabaf21a03abff7f834fb531c1978c9d6e13c1161380"
+      },
+      "6": {
+        "source_ref": "Amos 2:6",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Amos 2:6",
+            "segment_mode": "whole",
+            "sha256": "eb4aa3161a935b44c5d63e98afca1f8abcf75d62baf7757a1a8030e4b73d81c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb4aa3161a935b44c5d63e98afca1f8abcf75d62baf7757a1a8030e4b73d81c3"
+      },
+      "7": {
+        "source_ref": "Amos 2:7",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Amos 2:7",
+            "segment_mode": "whole",
+            "sha256": "2272b40a8d6cf06a94f93672a70a2b99d8b78f8047d1abd1483de30369e897ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2272b40a8d6cf06a94f93672a70a2b99d8b78f8047d1abd1483de30369e897ff"
+      },
+      "8": {
+        "source_ref": "Amos 2:8",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Amos 2:8",
+            "segment_mode": "whole",
+            "sha256": "d87906863b00e985e2708afbd9780b01b479c044261305ffe3c96b32d1009aeb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d87906863b00e985e2708afbd9780b01b479c044261305ffe3c96b32d1009aeb"
+      },
+      "9": {
+        "source_ref": "Amos 2:9",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Amos 2:9",
+            "segment_mode": "whole",
+            "sha256": "b6fdc12efd6d01a4fe4ca85d5614e4ead1d8f1b0fbe1b07616bdbeb44e34974d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6fdc12efd6d01a4fe4ca85d5614e4ead1d8f1b0fbe1b07616bdbeb44e34974d"
+      },
+      "10": {
+        "source_ref": "Amos 2:10",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Amos 2:10",
+            "segment_mode": "whole",
+            "sha256": "a85f181cc00a4fabb89696cd775e079f7604068530db4508b2073b3aa51cc689"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a85f181cc00a4fabb89696cd775e079f7604068530db4508b2073b3aa51cc689"
+      },
+      "11": {
+        "source_ref": "Amos 2:11",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Amos 2:11",
+            "segment_mode": "whole",
+            "sha256": "a27445fb51490f8c2e7416a294a838769ce7df460b58382e0f0169f1474aae36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a27445fb51490f8c2e7416a294a838769ce7df460b58382e0f0169f1474aae36"
+      },
+      "12": {
+        "source_ref": "Amos 2:12",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Amos 2:12",
+            "segment_mode": "whole",
+            "sha256": "a3859c4bcbfeb797701f7ff50cd506fc095191b2cf1626a3a76dcd95f76ec77b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3859c4bcbfeb797701f7ff50cd506fc095191b2cf1626a3a76dcd95f76ec77b"
+      },
+      "13": {
+        "source_ref": "Amos 2:13",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Amos 2:13",
+            "segment_mode": "whole",
+            "sha256": "6dbfc53eb8c8bc63f676e2efe085531fed1de69f86ff616d9d972b1e2e249dc8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6dbfc53eb8c8bc63f676e2efe085531fed1de69f86ff616d9d972b1e2e249dc8"
+      },
+      "14": {
+        "source_ref": "Amos 2:14",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "Amos 2:14",
+            "segment_mode": "whole",
+            "sha256": "78ad6a315d846767dd37068ef70400c92114371d4e50ee826fc49bde1e5ebc4b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78ad6a315d846767dd37068ef70400c92114371d4e50ee826fc49bde1e5ebc4b"
+      },
+      "15": {
+        "source_ref": "Amos 2:15",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "Amos 2:15",
+            "segment_mode": "whole",
+            "sha256": "ef290e4d21476b32b92417e54919e93e6680c2414f6a8c7416ff621d26595318"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef290e4d21476b32b92417e54919e93e6680c2414f6a8c7416ff621d26595318"
+      },
+      "16": {
+        "source_ref": "Amos 2:16",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "Amos 2:16",
+            "segment_mode": "whole",
+            "sha256": "ed09f6755d809dec50d90828f30ba057a2d7e7622992921c22e3f9f2c4127de7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed09f6755d809dec50d90828f30ba057a2d7e7622992921c22e3f9f2c4127de7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/amos/Amos_02.md",
+    "blob_sha": "41c4355f61932def87183b6d5e0a73bba05c9077"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
