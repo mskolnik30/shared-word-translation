@@ -1,0 +1,49 @@
+{
+  "book": "Obadiah",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 1,
+  "public_verse_slots": 21,
+  "included_verse_labels": 21,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 21,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Obad.xml",
+    "git_blob_sha": "17496d001587f142484239a7337380c68a30e77e"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:10-14",
+      "decision": "Keep Edom's violence and opportunism against kin at the center of the indictment.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:15-21",
+      "decision": "Preserve the day-of-the-LORD movement from Edom to all nations and toward God's reign.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_03",
+  "deployment_audit": {
+    "source_git_blob_sha": "17496d001587f142484239a7337380c68a30e77e",
+    "source_binding_count": 21,
+    "unique_source_record_count": 21,
+    "public_verse_slots": 21,
+    "ledger_summary": {
+      "F0": 9,
+      "F1": 0,
+      "F2": 0,
+      "F3": 12
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/obadiah/Obadiah_01.md",
+        "blob_sha": "c9669b9078880047d04153029930697a22062942"
+      }
+    }
+  }
+}
