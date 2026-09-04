@@ -1,0 +1,681 @@
+{
+  "book": "2 Samuel",
+  "chapter": 19,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Sam.xml",
+    "git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Sam.xml",
+    "git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Samuel 19:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 2,
+            "source_ref": "2 Samuel 19:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "30eb153ddb9cc5fc24aeae2d04a763d23287a060d42438a424ef7ffc27bd9f95"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "30eb153ddb9cc5fc24aeae2d04a763d23287a060d42438a424ef7ffc27bd9f95"
+      },
+      "2": {
+        "source_ref": "2 Samuel 19:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 3,
+            "source_ref": "2 Samuel 19:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "26aac2fcf510d440ed84cf6283e90365ae0a969f4cf69b3ae3650a457190afb1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "26aac2fcf510d440ed84cf6283e90365ae0a969f4cf69b3ae3650a457190afb1"
+      },
+      "3": {
+        "source_ref": "2 Samuel 19:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 4,
+            "source_ref": "2 Samuel 19:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6bb6d25c4ec3f0384b894c4d7eb521e3e5bf16a39ae06a5b0d59a04164cfe4a3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6bb6d25c4ec3f0384b894c4d7eb521e3e5bf16a39ae06a5b0d59a04164cfe4a3"
+      },
+      "4": {
+        "source_ref": "2 Samuel 19:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 5,
+            "source_ref": "2 Samuel 19:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "489647b1eee09643d4778c36c33bfdbfea82ac310554f6df725608452e0bf474"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "489647b1eee09643d4778c36c33bfdbfea82ac310554f6df725608452e0bf474"
+      },
+      "5": {
+        "source_ref": "2 Samuel 19:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 6,
+            "source_ref": "2 Samuel 19:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6529f6a4e9f271ba29c53426672e1f7e1c9aab466ab0e21fcce53a8bc27fde10"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6529f6a4e9f271ba29c53426672e1f7e1c9aab466ab0e21fcce53a8bc27fde10"
+      },
+      "6": {
+        "source_ref": "2 Samuel 19:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 7,
+            "source_ref": "2 Samuel 19:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "909665973401e0d613d651128cca69f67114b7e8dcf14a8fa78fb02bcfcc27bc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "909665973401e0d613d651128cca69f67114b7e8dcf14a8fa78fb02bcfcc27bc"
+      },
+      "7": {
+        "source_ref": "2 Samuel 19:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 8,
+            "source_ref": "2 Samuel 19:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fd62675dbc8fdd1866aad90cc6162f7a576a57fd4cae325dbce5e66957e12f92"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fd62675dbc8fdd1866aad90cc6162f7a576a57fd4cae325dbce5e66957e12f92"
+      },
+      "8": {
+        "source_ref": "2 Samuel 19:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 9,
+            "source_ref": "2 Samuel 19:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "369cd571f0fbdf8a204efc5fbd8ad62a140d1d37cded25489a693d95d8ae3604"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "369cd571f0fbdf8a204efc5fbd8ad62a140d1d37cded25489a693d95d8ae3604"
+      },
+      "9": {
+        "source_ref": "2 Samuel 19:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 10,
+            "source_ref": "2 Samuel 19:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fc17ad909c52970661dadc2b2207574528638423a4b3bc2ccce860a604f61e32"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fc17ad909c52970661dadc2b2207574528638423a4b3bc2ccce860a604f61e32"
+      },
+      "10": {
+        "source_ref": "2 Samuel 19:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 11,
+            "source_ref": "2 Samuel 19:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "42342d224105872ca94c0e3a2ae3b4dc3d0961f4cadef75745b37c82ffba5bc4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "42342d224105872ca94c0e3a2ae3b4dc3d0961f4cadef75745b37c82ffba5bc4"
+      },
+      "11": {
+        "source_ref": "2 Samuel 19:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 12,
+            "source_ref": "2 Samuel 19:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2c2f3f6a9985358ed2d4b26b78b5e540084970a17dc36f25b01fb113d0909d0a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2c2f3f6a9985358ed2d4b26b78b5e540084970a17dc36f25b01fb113d0909d0a"
+      },
+      "12": {
+        "source_ref": "2 Samuel 19:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 13,
+            "source_ref": "2 Samuel 19:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4d66dfa5ebf83604cb2e033ec9fae82ad720278ac876941cdea83e51cb063454"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4d66dfa5ebf83604cb2e033ec9fae82ad720278ac876941cdea83e51cb063454"
+      },
+      "13": {
+        "source_ref": "2 Samuel 19:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 14,
+            "source_ref": "2 Samuel 19:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f8185bac0ca10a107ba2a3c02719a6c9e562d0df21824d3e16877365ad378d2b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f8185bac0ca10a107ba2a3c02719a6c9e562d0df21824d3e16877365ad378d2b"
+      },
+      "14": {
+        "source_ref": "2 Samuel 19:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 15,
+            "source_ref": "2 Samuel 19:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "90fe66353afac1abc4459f1a2243cd76ee3e08769fd24d03b2bafba1d5298395"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "90fe66353afac1abc4459f1a2243cd76ee3e08769fd24d03b2bafba1d5298395"
+      },
+      "15": {
+        "source_ref": "2 Samuel 19:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 16,
+            "source_ref": "2 Samuel 19:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a3bc547a7192dd68eabbd96aa07c19f83ab8d1acd5e4646370ff5ee780da4e94"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a3bc547a7192dd68eabbd96aa07c19f83ab8d1acd5e4646370ff5ee780da4e94"
+      },
+      "16": {
+        "source_ref": "2 Samuel 19:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 17,
+            "source_ref": "2 Samuel 19:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "277eb7297f605bb8e9204a9183857e3cecb589c54d0e2c3430df3bf9e288d2b9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "277eb7297f605bb8e9204a9183857e3cecb589c54d0e2c3430df3bf9e288d2b9"
+      },
+      "17": {
+        "source_ref": "2 Samuel 19:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 18,
+            "source_ref": "2 Samuel 19:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "080fe7051361e6184db8343aa600fd2cc2db5fd79a50692edb1f1ff838b3fe2c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "080fe7051361e6184db8343aa600fd2cc2db5fd79a50692edb1f1ff838b3fe2c"
+      },
+      "18": {
+        "source_ref": "2 Samuel 19:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 19,
+            "source_ref": "2 Samuel 19:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "09975d0ee9172b54c362e88b08738030ffdb2719dd38d9200d4b807b904bd444"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "09975d0ee9172b54c362e88b08738030ffdb2719dd38d9200d4b807b904bd444"
+      },
+      "19": {
+        "source_ref": "2 Samuel 19:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 20,
+            "source_ref": "2 Samuel 19:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "288789a2c470cf0c284bad8b45df6c181302308f46a0b11ce2050a6c2d3ebd36"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "288789a2c470cf0c284bad8b45df6c181302308f46a0b11ce2050a6c2d3ebd36"
+      },
+      "20": {
+        "source_ref": "2 Samuel 19:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 21,
+            "source_ref": "2 Samuel 19:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e19032376ee5208ce500dccb30dfeb2f1e7f114aac7c86d249960d13b1c83a34"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e19032376ee5208ce500dccb30dfeb2f1e7f114aac7c86d249960d13b1c83a34"
+      },
+      "21": {
+        "source_ref": "2 Samuel 19:22 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 22,
+            "source_ref": "2 Samuel 19:22 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2da08bfe4a8062e207d5c03bc078ac08f829e1af5a88570f70e3f4b60dbe2555"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2da08bfe4a8062e207d5c03bc078ac08f829e1af5a88570f70e3f4b60dbe2555"
+      },
+      "22": {
+        "source_ref": "2 Samuel 19:23 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 23,
+            "source_ref": "2 Samuel 19:23 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e37074013bb82ac13bc89f37612064258f5b0c087451b0ccd3f1aa654e069184"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e37074013bb82ac13bc89f37612064258f5b0c087451b0ccd3f1aa654e069184"
+      },
+      "23": {
+        "source_ref": "2 Samuel 19:24 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 24,
+            "source_ref": "2 Samuel 19:24 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a59e7140976f02903b0692121b80edb03a6a653523a68bdc531bc5bd1d71cb62"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a59e7140976f02903b0692121b80edb03a6a653523a68bdc531bc5bd1d71cb62"
+      },
+      "24": {
+        "source_ref": "2 Samuel 19:25 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 25,
+            "source_ref": "2 Samuel 19:25 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "68dfa6351227045cb04627991e0a0dd110ea204f5daf32ca7a597535835506f9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "68dfa6351227045cb04627991e0a0dd110ea204f5daf32ca7a597535835506f9"
+      },
+      "25": {
+        "source_ref": "2 Samuel 19:26 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 26,
+            "source_ref": "2 Samuel 19:26 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ba44d81b426e6aec921e8e6e426bcc14e45874c05d1c97ca0fbb53468ff92721"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ba44d81b426e6aec921e8e6e426bcc14e45874c05d1c97ca0fbb53468ff92721"
+      },
+      "26": {
+        "source_ref": "2 Samuel 19:27 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 27,
+            "source_ref": "2 Samuel 19:27 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8fcb305b82be627b4d34fe82f58489edf12e54260f9a22c4a13f2a23e76c6b51"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8fcb305b82be627b4d34fe82f58489edf12e54260f9a22c4a13f2a23e76c6b51"
+      },
+      "27": {
+        "source_ref": "2 Samuel 19:28 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 28,
+            "source_ref": "2 Samuel 19:28 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b7438424b641191ba5ecd922cc1bb3fd45c4d229fd8926768f62e85c6592ad6a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b7438424b641191ba5ecd922cc1bb3fd45c4d229fd8926768f62e85c6592ad6a"
+      },
+      "28": {
+        "source_ref": "2 Samuel 19:29 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 29,
+            "source_ref": "2 Samuel 19:29 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e911d217d1f63cfdebae3628e88a1a7fc8bb2ff6a5fe47e7b65c064ab62d7d68"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e911d217d1f63cfdebae3628e88a1a7fc8bb2ff6a5fe47e7b65c064ab62d7d68"
+      },
+      "29": {
+        "source_ref": "2 Samuel 19:30 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 30,
+            "source_ref": "2 Samuel 19:30 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "787ca1fa77bd3ccf0303a5928714d49310616e03e9b3a014e261c22d8bf0e55b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "787ca1fa77bd3ccf0303a5928714d49310616e03e9b3a014e261c22d8bf0e55b"
+      },
+      "30": {
+        "source_ref": "2 Samuel 19:31 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 31,
+            "source_ref": "2 Samuel 19:31 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "03ae4b810e1540f8a32d160bd6976f0dcddf74a75fda44b6b1b9966ae96c70a6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "03ae4b810e1540f8a32d160bd6976f0dcddf74a75fda44b6b1b9966ae96c70a6"
+      },
+      "31": {
+        "source_ref": "2 Samuel 19:32 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 32,
+            "source_ref": "2 Samuel 19:32 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e7d81741ceb1f7b1727eed7764e22c0ba50f4b1a5e1ffbb72082720eef2be757"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e7d81741ceb1f7b1727eed7764e22c0ba50f4b1a5e1ffbb72082720eef2be757"
+      },
+      "32": {
+        "source_ref": "2 Samuel 19:33 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 33,
+            "source_ref": "2 Samuel 19:33 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "47f305c6c9ff3cc6678e1e79bacdead470431ca456f30bdfbbb189f5db04a98f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "47f305c6c9ff3cc6678e1e79bacdead470431ca456f30bdfbbb189f5db04a98f"
+      },
+      "33": {
+        "source_ref": "2 Samuel 19:34 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 34,
+            "source_ref": "2 Samuel 19:34 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "19e7590b17d6946d89113236520ecf9c58f0106b254c7769187343800a1ecbe0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "19e7590b17d6946d89113236520ecf9c58f0106b254c7769187343800a1ecbe0"
+      },
+      "34": {
+        "source_ref": "2 Samuel 19:35 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 35,
+            "source_ref": "2 Samuel 19:35 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ffe597a44235d015ad8662858c3cb8c597f1623a29cd2e012c4ec1d4840a5916"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ffe597a44235d015ad8662858c3cb8c597f1623a29cd2e012c4ec1d4840a5916"
+      },
+      "35": {
+        "source_ref": "2 Samuel 19:36 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 36,
+            "source_ref": "2 Samuel 19:36 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0818281bcabd95986a4a3e0f52f77ada0bbab42b90df2531d5a0ef589446514d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0818281bcabd95986a4a3e0f52f77ada0bbab42b90df2531d5a0ef589446514d"
+      },
+      "36": {
+        "source_ref": "2 Samuel 19:37 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 37,
+            "source_ref": "2 Samuel 19:37 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1d9f4b74f342c87b116d6988877789d81bd188853323480ba1ccfc71b5a8867c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1d9f4b74f342c87b116d6988877789d81bd188853323480ba1ccfc71b5a8867c"
+      },
+      "37": {
+        "source_ref": "2 Samuel 19:38 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 38,
+            "source_ref": "2 Samuel 19:38 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1de9c165d757f258d1f44524fbb8b5b047c2477e41a94d1dc4d9c583cabcc376"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1de9c165d757f258d1f44524fbb8b5b047c2477e41a94d1dc4d9c583cabcc376"
+      },
+      "38": {
+        "source_ref": "2 Samuel 19:39 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 39,
+            "source_ref": "2 Samuel 19:39 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "47418bdd16dafb53a26d8ec1cd900d4869df08ff56846ee6ca5ab6492977dddd"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "47418bdd16dafb53a26d8ec1cd900d4869df08ff56846ee6ca5ab6492977dddd"
+      },
+      "39": {
+        "source_ref": "2 Samuel 19:40 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 40,
+            "source_ref": "2 Samuel 19:40 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7d61a0089d26548953bc944db60f424ccca5ccb0a4bc5a1a916fb7e7e09dcc66"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7d61a0089d26548953bc944db60f424ccca5ccb0a4bc5a1a916fb7e7e09dcc66"
+      },
+      "40": {
+        "source_ref": "2 Samuel 19:41 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 41,
+            "source_ref": "2 Samuel 19:41 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "56422fdcfbc79d745bffa97ad0f71370a31e034409755f99e9f488207c0c50f9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "56422fdcfbc79d745bffa97ad0f71370a31e034409755f99e9f488207c0c50f9"
+      },
+      "41": {
+        "source_ref": "2 Samuel 19:42 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 42,
+            "source_ref": "2 Samuel 19:42 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e872e0314309fba02e8176e3274bef96cf6c1fdf27912602914ac9c129471909"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e872e0314309fba02e8176e3274bef96cf6c1fdf27912602914ac9c129471909"
+      },
+      "42": {
+        "source_ref": "2 Samuel 19:43 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 43,
+            "source_ref": "2 Samuel 19:43 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5301cb1ae9af856d1994fb08bfcebcc3f2ccd7b2778f69f887eceedbdc682006"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5301cb1ae9af856d1994fb08bfcebcc3f2ccd7b2778f69f887eceedbdc682006"
+      },
+      "43": {
+        "source_ref": "2 Samuel 19:44 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 44,
+            "source_ref": "2 Samuel 19:44 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "47b2ae41115f39e797e9f8e8e44a12cb2d7ac8a1e966f5ce959394cce82ab5df"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "47b2ae41115f39e797e9f8e8e44a12cb2d7ac8a1e966f5ce959394cce82ab5df"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2samuel/2Samuel_19.md",
+    "blob_sha": "4c1b97e1f13d6ecff5c919cf98424d1e95b91fa3"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

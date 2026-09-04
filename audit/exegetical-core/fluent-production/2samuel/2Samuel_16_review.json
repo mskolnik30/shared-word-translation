@@ -1,0 +1,381 @@
+{
+  "book": "2 Samuel",
+  "chapter": 16,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Sam.xml",
+    "git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Sam.xml",
+    "git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Samuel 16:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 1,
+            "source_ref": "2 Samuel 16:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "53c515446a192baa895789924cd7acda3c8a6d527d4c04aa8b0d431bc25aeb1a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53c515446a192baa895789924cd7acda3c8a6d527d4c04aa8b0d431bc25aeb1a"
+      },
+      "2": {
+        "source_ref": "2 Samuel 16:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 2,
+            "source_ref": "2 Samuel 16:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f8b8b88d4d87f505aaaf7dfc8afe9d203a9b0b843883607ddf0ca036a1afa9e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8b8b88d4d87f505aaaf7dfc8afe9d203a9b0b843883607ddf0ca036a1afa9e8"
+      },
+      "3": {
+        "source_ref": "2 Samuel 16:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 3,
+            "source_ref": "2 Samuel 16:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f3186a8e86ff81ccaacd54908a94d84b6196a7c977a9c3775103fab4ecfac5f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3186a8e86ff81ccaacd54908a94d84b6196a7c977a9c3775103fab4ecfac5f6"
+      },
+      "4": {
+        "source_ref": "2 Samuel 16:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 4,
+            "source_ref": "2 Samuel 16:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3213ecb36b5b34ac65ac91500cdd5fac94320de9d5d31270345ff727c7c5f30d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3213ecb36b5b34ac65ac91500cdd5fac94320de9d5d31270345ff727c7c5f30d"
+      },
+      "5": {
+        "source_ref": "2 Samuel 16:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 5,
+            "source_ref": "2 Samuel 16:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f6482028525f19bd824a4b73eab4d93e3597c0050e3444825c0a865c9afb758"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f6482028525f19bd824a4b73eab4d93e3597c0050e3444825c0a865c9afb758"
+      },
+      "6": {
+        "source_ref": "2 Samuel 16:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 6,
+            "source_ref": "2 Samuel 16:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb4cf6b8c6a13162833dd77efae4c7ab0fdb456590b1ec8162967c81c8c78d4f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb4cf6b8c6a13162833dd77efae4c7ab0fdb456590b1ec8162967c81c8c78d4f"
+      },
+      "7": {
+        "source_ref": "2 Samuel 16:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 7,
+            "source_ref": "2 Samuel 16:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5fe2ec9ab210e13a984d020bdd9fa5be252c3fab7cabfee072a1ca5fdd885fa7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5fe2ec9ab210e13a984d020bdd9fa5be252c3fab7cabfee072a1ca5fdd885fa7"
+      },
+      "8": {
+        "source_ref": "2 Samuel 16:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 8,
+            "source_ref": "2 Samuel 16:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5366d500670193caeac16ec55b1263925e07a25767a7b3a2b4c1d4de2b804c64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5366d500670193caeac16ec55b1263925e07a25767a7b3a2b4c1d4de2b804c64"
+      },
+      "9": {
+        "source_ref": "2 Samuel 16:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 9,
+            "source_ref": "2 Samuel 16:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4cb61e755fb6d53d9cccc4f53013f927031185c18d7e33c6f68ecd83177a5617"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4cb61e755fb6d53d9cccc4f53013f927031185c18d7e33c6f68ecd83177a5617"
+      },
+      "10": {
+        "source_ref": "2 Samuel 16:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 10,
+            "source_ref": "2 Samuel 16:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1013b914a4bf7e4fe2fee910497d7d631ccbc6756cdb1db0eaad00a7bf5c094"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1013b914a4bf7e4fe2fee910497d7d631ccbc6756cdb1db0eaad00a7bf5c094"
+      },
+      "11": {
+        "source_ref": "2 Samuel 16:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 11,
+            "source_ref": "2 Samuel 16:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f41b99ebbf1bedb71d2efd8f28349e144ae17135ef26deb21c135c9c7782d3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f41b99ebbf1bedb71d2efd8f28349e144ae17135ef26deb21c135c9c7782d3f"
+      },
+      "12": {
+        "source_ref": "2 Samuel 16:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 12,
+            "source_ref": "2 Samuel 16:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5e6c2dd4e245e19d6225b3c1803bd339b1fa46c6b3804266df232f3d64f5e3bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e6c2dd4e245e19d6225b3c1803bd339b1fa46c6b3804266df232f3d64f5e3bd"
+      },
+      "13": {
+        "source_ref": "2 Samuel 16:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 13,
+            "source_ref": "2 Samuel 16:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "deb3501af988909cb36884e43a36d96885f5dc847c3971efae4b4689b0b7eabd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "deb3501af988909cb36884e43a36d96885f5dc847c3971efae4b4689b0b7eabd"
+      },
+      "14": {
+        "source_ref": "2 Samuel 16:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 14,
+            "source_ref": "2 Samuel 16:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "718f3345ec8319166bee5348b5a2152768c1b508eb7cd91accb8ba23758af5a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "718f3345ec8319166bee5348b5a2152768c1b508eb7cd91accb8ba23758af5a0"
+      },
+      "15": {
+        "source_ref": "2 Samuel 16:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 15,
+            "source_ref": "2 Samuel 16:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "02c9348163e467ddd6e3c6bc737e3c1ef0c1c958cc8f20cd08da3191bb421327"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02c9348163e467ddd6e3c6bc737e3c1ef0c1c958cc8f20cd08da3191bb421327"
+      },
+      "16": {
+        "source_ref": "2 Samuel 16:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 16,
+            "source_ref": "2 Samuel 16:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eb6db701d0cea50f59824cfd11c22774ec4d824b318952cc8f9733b14bf8aa63"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb6db701d0cea50f59824cfd11c22774ec4d824b318952cc8f9733b14bf8aa63"
+      },
+      "17": {
+        "source_ref": "2 Samuel 16:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 17,
+            "source_ref": "2 Samuel 16:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9e89af76a893a15a734eb7b06ba82fa45fccc530d44634b9d4f6dfb0ec88af3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9e89af76a893a15a734eb7b06ba82fa45fccc530d44634b9d4f6dfb0ec88af3"
+      },
+      "18": {
+        "source_ref": "2 Samuel 16:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 18,
+            "source_ref": "2 Samuel 16:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d975d92ad5445db2f5ae1ea774eafa7d8b783419ae53d32d760286abda3a9b62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d975d92ad5445db2f5ae1ea774eafa7d8b783419ae53d32d760286abda3a9b62"
+      },
+      "19": {
+        "source_ref": "2 Samuel 16:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 19,
+            "source_ref": "2 Samuel 16:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69d0bb34464360bdacd212025bc2f1c7a4da246783183d9c52ed011f6b39759a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69d0bb34464360bdacd212025bc2f1c7a4da246783183d9c52ed011f6b39759a"
+      },
+      "20": {
+        "source_ref": "2 Samuel 16:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 20,
+            "source_ref": "2 Samuel 16:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a0b6e777fa8ab9d29234287d62979179ec4c3f5a7b164e20daecbf515781aaa2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0b6e777fa8ab9d29234287d62979179ec4c3f5a7b164e20daecbf515781aaa2"
+      },
+      "21": {
+        "source_ref": "2 Samuel 16:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 21,
+            "source_ref": "2 Samuel 16:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca136bd4ba90136f072ade7b55f8b388914f80490447bf74d34025f7d6c57bd4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca136bd4ba90136f072ade7b55f8b388914f80490447bf74d34025f7d6c57bd4"
+      },
+      "22": {
+        "source_ref": "2 Samuel 16:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 22,
+            "source_ref": "2 Samuel 16:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79ded6cbe41230c933f1bbcb4e9442980a490b32dad4848df9f9011e810f483a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79ded6cbe41230c933f1bbcb4e9442980a490b32dad4848df9f9011e810f483a"
+      },
+      "23": {
+        "source_ref": "2 Samuel 16:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 23,
+            "source_ref": "2 Samuel 16:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9ca6e446cc69cfe16cf598ec6b3e3d12314681266dfe66e19ca2943704c3676"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9ca6e446cc69cfe16cf598ec6b3e3d12314681266dfe66e19ca2943704c3676"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2samuel/2Samuel_16.md",
+    "blob_sha": "c121d1cd58130bfba734c2e67ac5a0c315c34ec8"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

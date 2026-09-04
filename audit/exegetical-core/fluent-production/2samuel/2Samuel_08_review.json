@@ -1,0 +1,312 @@
+{
+  "book": "2 Samuel",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Sam.xml",
+    "git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "8:1-10:19",
+      "decision": "Translate expansion, forced labor, diplomacy, and war without romanticizing empire.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Sam.xml",
+    "git_blob_sha": "85f7684c059f500e1211da0fc51ff34e45ef5524",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Samuel 8:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "2 Samuel 8:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14e252585ea53437140da791a43001fe5614cc30188c27a9d1b6e670057359c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14e252585ea53437140da791a43001fe5614cc30188c27a9d1b6e670057359c3"
+      },
+      "2": {
+        "source_ref": "2 Samuel 8:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "2 Samuel 8:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4e08578d55e02e6555e043ff2ea5313ea88bb8c38aea56b04c588f5db5a504b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4e08578d55e02e6555e043ff2ea5313ea88bb8c38aea56b04c588f5db5a504b"
+      },
+      "3": {
+        "source_ref": "2 Samuel 8:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "2 Samuel 8:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "412d04e03790a851249d19f75f76419ebe99a1c3a8deeb09689d746c99700654"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "412d04e03790a851249d19f75f76419ebe99a1c3a8deeb09689d746c99700654"
+      },
+      "4": {
+        "source_ref": "2 Samuel 8:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "2 Samuel 8:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "41398bdc38ef55168a099fb1b937463465c4465949cc23d472fd310d010e1f3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41398bdc38ef55168a099fb1b937463465c4465949cc23d472fd310d010e1f3f"
+      },
+      "5": {
+        "source_ref": "2 Samuel 8:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "2 Samuel 8:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c02227640d13ecb16bda4fb6c11b63132a6df09a69e98f49ca791c65a167cd08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c02227640d13ecb16bda4fb6c11b63132a6df09a69e98f49ca791c65a167cd08"
+      },
+      "6": {
+        "source_ref": "2 Samuel 8:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "2 Samuel 8:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e5d3b1373abb260be89ac48845366bc98152f962cb243992d63f9c959a96c4f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5d3b1373abb260be89ac48845366bc98152f962cb243992d63f9c959a96c4f6"
+      },
+      "7": {
+        "source_ref": "2 Samuel 8:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "2 Samuel 8:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8de6aaa2538843c33bb60959d51ba40d724d244d592e720f6b821187411755bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8de6aaa2538843c33bb60959d51ba40d724d244d592e720f6b821187411755bb"
+      },
+      "8": {
+        "source_ref": "2 Samuel 8:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "2 Samuel 8:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "83ee651d101db2581625f08ab11d963d5572a8eb38adfe211a859b4e594d05d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83ee651d101db2581625f08ab11d963d5572a8eb38adfe211a859b4e594d05d0"
+      },
+      "9": {
+        "source_ref": "2 Samuel 8:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "2 Samuel 8:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d1b1acaee025bd6cfdd55225a02f2c0cccf6ade3afdb2855e346c798b0d26f0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1b1acaee025bd6cfdd55225a02f2c0cccf6ade3afdb2855e346c798b0d26f0d"
+      },
+      "10": {
+        "source_ref": "2 Samuel 8:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "2 Samuel 8:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "be0fc312ffd957efca04fd19ef289662d1d4d266252aef67bdda850060f3dc8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be0fc312ffd957efca04fd19ef289662d1d4d266252aef67bdda850060f3dc8a"
+      },
+      "11": {
+        "source_ref": "2 Samuel 8:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "2 Samuel 8:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6724f74283d232c360f387932a31f1bdfa5650ec8ee484f787020fd01f7f5b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6724f74283d232c360f387932a31f1bdfa5650ec8ee484f787020fd01f7f5b4"
+      },
+      "12": {
+        "source_ref": "2 Samuel 8:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "2 Samuel 8:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dcd6f164735d8f5a61c553cd87a3922d840bee4501220d248b6fb80a4a98cb9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dcd6f164735d8f5a61c553cd87a3922d840bee4501220d248b6fb80a4a98cb9c"
+      },
+      "13": {
+        "source_ref": "2 Samuel 8:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "2 Samuel 8:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c0a8d2d9729746b176fd467f224b30366b35e9106da8f1f808bf75f7fa43ad21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0a8d2d9729746b176fd467f224b30366b35e9106da8f1f808bf75f7fa43ad21"
+      },
+      "14": {
+        "source_ref": "2 Samuel 8:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 14,
+            "source_ref": "2 Samuel 8:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "754fffd908731f83f4b4d2fbe7d22e0dcde05d38277c33fb0ae6499213e64589"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "754fffd908731f83f4b4d2fbe7d22e0dcde05d38277c33fb0ae6499213e64589"
+      },
+      "15": {
+        "source_ref": "2 Samuel 8:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 15,
+            "source_ref": "2 Samuel 8:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ba8dea29ddce5ffd45d280d5f702ae5f927b7eb33c81abe598141f7535bee628"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba8dea29ddce5ffd45d280d5f702ae5f927b7eb33c81abe598141f7535bee628"
+      },
+      "16": {
+        "source_ref": "2 Samuel 8:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 16,
+            "source_ref": "2 Samuel 8:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c1b142f975ed80ab2538609f8ef50050009f10203ac4e6a025b9b6ba8fa81af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c1b142f975ed80ab2538609f8ef50050009f10203ac4e6a025b9b6ba8fa81af"
+      },
+      "17": {
+        "source_ref": "2 Samuel 8:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 17,
+            "source_ref": "2 Samuel 8:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d2825d7ba0c009a837a87741c9dfa42c47db0afa7ac3878d1620ed1c625627e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d2825d7ba0c009a837a87741c9dfa42c47db0afa7ac3878d1620ed1c625627e"
+      },
+      "18": {
+        "source_ref": "2 Samuel 8:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 18,
+            "source_ref": "2 Samuel 8:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "662ac197453eb5129d97731c8e7738bb5407503c9ae2bd3d9959adbcbeb72e11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "662ac197453eb5129d97731c8e7738bb5407503c9ae2bd3d9959adbcbeb72e11"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2samuel/2Samuel_08.md",
+    "blob_sha": "92b0e3b6ca86f5c794a4e22f70d8ba845db06116"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
