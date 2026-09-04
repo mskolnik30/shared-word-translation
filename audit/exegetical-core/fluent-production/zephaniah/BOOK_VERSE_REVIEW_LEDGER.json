@@ -1,0 +1,1224 @@
+{
+  "book": "Zephaniah",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zeph.xml",
+    "git_blob_sha": "db77292abc38d6c4655c892f080246883b8180a3"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zephaniah 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Zephaniah 1:1",
+          "segment_mode": "whole",
+          "sha256": "d38cc719576f7f8bbded1467806c286f91232b4477c3cce7c76ceb6c58d5ac09"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d38cc719576f7f8bbded1467806c286f91232b4477c3cce7c76ceb6c58d5ac09",
+      "translation_sha256": "77b31cc9b90cc8e06061ade775029a6312192a896c7ef89ec6acda45f12aef7a",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Zephaniah 1:2",
+          "segment_mode": "whole",
+          "sha256": "ee21c859157f09934eb88c776edabd0f1a1ae6d9e624950fdfc74c37a1df0521"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ee21c859157f09934eb88c776edabd0f1a1ae6d9e624950fdfc74c37a1df0521",
+      "translation_sha256": "5e243860f6cdae6a2658b4cf81f6fbd8ea79724f01d353bbff3af842262a1aa9",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Zephaniah 1:3",
+          "segment_mode": "whole",
+          "sha256": "4b001ab56305e43d13cdd4d150137675d6caf48c08a08bcd8426641178a4c9b9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4b001ab56305e43d13cdd4d150137675d6caf48c08a08bcd8426641178a4c9b9",
+      "translation_sha256": "532d45ea929bc3f0777cca5d5a8775453c803ece03845cf78d40a74a56d27b8c",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Zephaniah 1:4",
+          "segment_mode": "whole",
+          "sha256": "f28028e78b2236070321a544888d35d8ae099c28c4c72c78382ea0d1db557279"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f28028e78b2236070321a544888d35d8ae099c28c4c72c78382ea0d1db557279",
+      "translation_sha256": "839fb0d2b3cc47dce2041f7b87cd8455146161d58fa9fc8a96f7714e2013d7b5",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Zephaniah 1:5",
+          "segment_mode": "whole",
+          "sha256": "f6d6a9eef137636920f9b5881d53e651047271e3c1b7286e7249540238f71b3b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f6d6a9eef137636920f9b5881d53e651047271e3c1b7286e7249540238f71b3b",
+      "translation_sha256": "1882b4d4c10309694ef6f22b1af1c2c2d2ade8f2ade0d351d8c4e26a8441995d",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Zephaniah 1:6",
+          "segment_mode": "whole",
+          "sha256": "949cc66fd66370a38e4f56cfcd5d474c08b1f2c3bcb2132e3187a6b372340a7c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "949cc66fd66370a38e4f56cfcd5d474c08b1f2c3bcb2132e3187a6b372340a7c",
+      "translation_sha256": "f5d2914f3e5b3cd4f5cfcbfd1d8ed4c437332862cd2ec3dae53ba5118eba4213",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Zephaniah 1:7",
+          "segment_mode": "whole",
+          "sha256": "dcf30af4c2ee5e4617c11ed798812823001bb99f007d9dc720f3b90311f6da41"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dcf30af4c2ee5e4617c11ed798812823001bb99f007d9dc720f3b90311f6da41",
+      "translation_sha256": "1c7f99694d8f567fbd343504eb912be400827e5c849425b06a2d894edc4a7a99",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Zephaniah 1:8",
+          "segment_mode": "whole",
+          "sha256": "903b13007c299a050578a900a7a1b52a7ab18e5ba0f8edf5eaf0d0c02b130b9d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "903b13007c299a050578a900a7a1b52a7ab18e5ba0f8edf5eaf0d0c02b130b9d",
+      "translation_sha256": "3d8cb54f3156fc1e9e98dad6765dec249d21c5df75861032519dcd8482e91895",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Zephaniah 1:9",
+          "segment_mode": "whole",
+          "sha256": "5e97b44c85b21b975801c46672415f2cb47ae49b4d483ad2cccb315642d0b776"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5e97b44c85b21b975801c46672415f2cb47ae49b4d483ad2cccb315642d0b776",
+      "translation_sha256": "19d6371993ffd3d8a855dc4e3f37daec08384d803d883b2860b25d9aa2e9740b",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Zephaniah 1:10",
+          "segment_mode": "whole",
+          "sha256": "a2fb38a15d599d3d015890c35d886cf052f7e5ebc1372c8920edd021bec03d21"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a2fb38a15d599d3d015890c35d886cf052f7e5ebc1372c8920edd021bec03d21",
+      "translation_sha256": "dfbdee3c83c9394f263244e74b9381bef2cdc1caf5e320d041982efe33c47306",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Zephaniah 1:11",
+          "segment_mode": "whole",
+          "sha256": "0ed1ca622e45a505e26690d8857ed3d62479f26cc12eb13f74a8fb3848bc1200"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0ed1ca622e45a505e26690d8857ed3d62479f26cc12eb13f74a8fb3848bc1200",
+      "translation_sha256": "d5fe7a58b5c10b9dbabdf97138131fa76d6a49b3ade1236835354d42198fb573",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Zephaniah 1:12",
+          "segment_mode": "whole",
+          "sha256": "91153f887c618fc76b42e85b5716492ac0707f89cfd8c3daa20c8e782bd38c2d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "91153f887c618fc76b42e85b5716492ac0707f89cfd8c3daa20c8e782bd38c2d",
+      "translation_sha256": "462267977008e7c40a6f6e482719d125142e77267f990bc436047bd1e94bbf01",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Zephaniah 1:13",
+          "segment_mode": "whole",
+          "sha256": "1042547f0476b6deded655e0c095bb9988003dc13f7a92921966ec06b8abd95e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1042547f0476b6deded655e0c095bb9988003dc13f7a92921966ec06b8abd95e",
+      "translation_sha256": "a8887ab53f8194ca38ea52c6e9ae2758a01bc7bfbff826fc98737fd0af1ad267",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Zephaniah 1:14",
+          "segment_mode": "whole",
+          "sha256": "c09990e4f35345425f91076836c30a7b1acdd202a7a446aefe772182f031f7fb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c09990e4f35345425f91076836c30a7b1acdd202a7a446aefe772182f031f7fb",
+      "translation_sha256": "cfb053fbe13c2925971959eda8a699a0fae5ff2497f4afcdb628953fb69ae45d",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Zephaniah 1:15",
+          "segment_mode": "whole",
+          "sha256": "224e4c76b0a09f067916ec00b165f1643b63e2830128484494385cbf23cd1e14"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "224e4c76b0a09f067916ec00b165f1643b63e2830128484494385cbf23cd1e14",
+      "translation_sha256": "304eaabea95a5229cff3fecb2111ff92a052f6c2c9ad37716b882dcc50860e08",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Zephaniah 1:16",
+          "segment_mode": "whole",
+          "sha256": "49468dd796f392036c1b6deaff5186caadd2dd0a3d7d195e5fc3581a1f6440a7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "49468dd796f392036c1b6deaff5186caadd2dd0a3d7d195e5fc3581a1f6440a7",
+      "translation_sha256": "f615415396fbf120fd7bc9876c2bae5cadaae74037c010014fc12604e61f1b78",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "Zephaniah 1:17",
+          "segment_mode": "whole",
+          "sha256": "cd779d676d52b67e6e323065a588cbb0cef868c923ca4de96629d48d019b538c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cd779d676d52b67e6e323065a588cbb0cef868c923ca4de96629d48d019b538c",
+      "translation_sha256": "f45211a2e20f42e47de188c72fb5f0fd753daaf9917101bd9af187eaadce425e",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 1:18",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 18,
+          "source_ref": "Zephaniah 1:18",
+          "segment_mode": "whole",
+          "sha256": "d24ddb721e2d2b8219a3075ccb0b78e14baa2f8a2495c71879fd43aa16f2245a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d24ddb721e2d2b8219a3075ccb0b78e14baa2f8a2495c71879fd43aa16f2245a",
+      "translation_sha256": "38fde42a689e6b03d46881518188079b4e1aea7f4d2941488a53eadf5bad43e3",
+      "tsw_blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274",
+      "curated_decisions": [
+        "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Zephaniah 2:1",
+          "segment_mode": "whole",
+          "sha256": "d32d684eaab33e1e20599d8273401b755d3cda136004421986ad30c3500792e2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d32d684eaab33e1e20599d8273401b755d3cda136004421986ad30c3500792e2",
+      "translation_sha256": "da29e774a0324db68cb1cc23aa188103ecec28a073e748ba9f3569d3ad63fa95",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Zephaniah 2:2",
+          "segment_mode": "whole",
+          "sha256": "8a6e07e3ca72ae75b40b223d65e0134d78d883bbeef337878b3f5969ab178d0b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8a6e07e3ca72ae75b40b223d65e0134d78d883bbeef337878b3f5969ab178d0b",
+      "translation_sha256": "66371679d59d54adafeaf2b4a9c5b68199f8c2dc1996d8f21e4242b2e4952511",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Zephaniah 2:3",
+          "segment_mode": "whole",
+          "sha256": "a0690b242d2edd0497fd8b6e5d27ec4a24c6f389e11cde41ba139ea8f4c7dcd6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a0690b242d2edd0497fd8b6e5d27ec4a24c6f389e11cde41ba139ea8f4c7dcd6",
+      "translation_sha256": "ec3ea10a94afb821b2f0561392193f8ff8d78e146a5842ec178d287ee7596d62",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Zephaniah 2:4",
+          "segment_mode": "whole",
+          "sha256": "eefb1e57222ceed7c098ff20c04f14a782183ecee42c83fe71ec724eac3c65a5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "eefb1e57222ceed7c098ff20c04f14a782183ecee42c83fe71ec724eac3c65a5",
+      "translation_sha256": "54483c0ced9e3aab8c810a3fb97216824e8f28845814c6157648ccf4060490b0",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Zephaniah 2:5",
+          "segment_mode": "whole",
+          "sha256": "b9603dbc21fc315b384c804b50f58d52584e343c2a34e2f63f228c2ccb4ea4af"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b9603dbc21fc315b384c804b50f58d52584e343c2a34e2f63f228c2ccb4ea4af",
+      "translation_sha256": "c7b818e87f7f4addc93ed63491abfa4517b8de4805a86dce47517e5c799e792f",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Zephaniah 2:6",
+          "segment_mode": "whole",
+          "sha256": "949c899c011fccb2a665e349d1b5479ed9c36afe0003408b151b6203671f73b7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "949c899c011fccb2a665e349d1b5479ed9c36afe0003408b151b6203671f73b7",
+      "translation_sha256": "88c9eb350972701746f6616059a1b9516188e446e10980cb7b672d9a713dca20",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Zephaniah 2:7",
+          "segment_mode": "whole",
+          "sha256": "8b37438682abc46e5d812397d620391016286a19f16fa39b7cd90d7eca706795"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8b37438682abc46e5d812397d620391016286a19f16fa39b7cd90d7eca706795",
+      "translation_sha256": "a17102843bcb561e979d87a4d409e925284ef829c050005a90b120b6f668560a",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Zephaniah 2:8",
+          "segment_mode": "whole",
+          "sha256": "a27bf0778e1fed8271dca5476406b5fe0ef1497cdfec4ab744118719e3e5c2fa"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a27bf0778e1fed8271dca5476406b5fe0ef1497cdfec4ab744118719e3e5c2fa",
+      "translation_sha256": "a4d79a3b440d79cfb50f6951fe4b2dd65f52e9062d3bb3ce99b3ff15138e2413",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Zephaniah 2:9",
+          "segment_mode": "whole",
+          "sha256": "cfcd1229e7866a215e166f359970f4e7fd03c6180e6b0285f45fc4d94a51846f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cfcd1229e7866a215e166f359970f4e7fd03c6180e6b0285f45fc4d94a51846f",
+      "translation_sha256": "94c685e13ac86ca380f0ed36916581997d83444a3b474200c0972781f3b376cc",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Zephaniah 2:10",
+          "segment_mode": "whole",
+          "sha256": "f1cba33040bfc57e061f3ba520766dcc772f41d8ab478667f47ab2effbcd9628"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f1cba33040bfc57e061f3ba520766dcc772f41d8ab478667f47ab2effbcd9628",
+      "translation_sha256": "facf42b5071266462cfa3fb6ab277c6f92d26395a4b0b7d4af7ad9b555876dff",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Zephaniah 2:11",
+          "segment_mode": "whole",
+          "sha256": "1b9ebb3a3451df92282006ca7383924c276b0322e019b2a59a96d5868d140799"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1b9ebb3a3451df92282006ca7383924c276b0322e019b2a59a96d5868d140799",
+      "translation_sha256": "0684bef7f7cd00d1b66dbbb2c491db010f8b0f50ea41c96185ad0f4ab906b96e",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Zephaniah 2:12",
+          "segment_mode": "whole",
+          "sha256": "84db49c38ac5c4d9e58687803893f4be6d867e9618f87bb2e64d61ea3269e496"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "84db49c38ac5c4d9e58687803893f4be6d867e9618f87bb2e64d61ea3269e496",
+      "translation_sha256": "80bec8c65780ba7907a4d70ede058faa1287d04465fb206bb9594f30bc2517c6",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Zephaniah 2:13",
+          "segment_mode": "whole",
+          "sha256": "0d2184869ef4485d7507b7037b85239035481f0e6199cb7b35e5d14c2bb6908c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0d2184869ef4485d7507b7037b85239035481f0e6199cb7b35e5d14c2bb6908c",
+      "translation_sha256": "aaa59a679e509fbaf55a1ed2ca3836104da174660dd9ebf8f9400116c0bdff7a",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Zephaniah 2:14",
+          "segment_mode": "whole",
+          "sha256": "c03bb85614259c16ff50d87ab93ef7cb3c2d8186792f37990dad2da3e843ac83"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c03bb85614259c16ff50d87ab93ef7cb3c2d8186792f37990dad2da3e843ac83",
+      "translation_sha256": "892b582849908dfb61c18df5ddcb74cf85a27e116e3ce46b1f533ecddc886b33",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Zephaniah 2:15",
+          "segment_mode": "whole",
+          "sha256": "039d1f9b8bbca5d76179a5aaf290d82ae0b7b43796aa53b75c46fd0e37c23f05"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "039d1f9b8bbca5d76179a5aaf290d82ae0b7b43796aa53b75c46fd0e37c23f05",
+      "translation_sha256": "7926ae42a99e23a7f15a3cb2656aedbfc56d53551d5ae5db0fa44b17b61ec35b",
+      "tsw_blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e",
+      "curated_decisions": [
+        "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zephaniah 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Zephaniah 3:1",
+          "segment_mode": "whole",
+          "sha256": "af8a21a01a24536604319515357afa72a19947a6dd1310cfe44c9424e720eed2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af8a21a01a24536604319515357afa72a19947a6dd1310cfe44c9424e720eed2",
+      "translation_sha256": "ab0dc7d8c4653dd525dd6baa9313058fcdbb9e403592cb4d5ef2930cb0161ba1",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zephaniah 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Zephaniah 3:2",
+          "segment_mode": "whole",
+          "sha256": "05fffae5f0bc4c21cd7651d5b96d26dc3e9275cf20dc68caf40129970912d6d6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "05fffae5f0bc4c21cd7651d5b96d26dc3e9275cf20dc68caf40129970912d6d6",
+      "translation_sha256": "e599ff9661def73f1c8e11fd3dedb76894d0648a360b7ccca5f3414bb4ee12a3",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zephaniah 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Zephaniah 3:3",
+          "segment_mode": "whole",
+          "sha256": "1b4ce06756452721aee8070bca6b9d110ee5325fb664d7cea53135196ba638cc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1b4ce06756452721aee8070bca6b9d110ee5325fb664d7cea53135196ba638cc",
+      "translation_sha256": "36709a9e0f4ecb5887f5a410a8f246bee9e4fab82a80d44ad06658af21606145",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zephaniah 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Zephaniah 3:4",
+          "segment_mode": "whole",
+          "sha256": "679d0e9dab544b7632822248d5c9792a467dd40466c65bad87f6d2377e02a4a5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "679d0e9dab544b7632822248d5c9792a467dd40466c65bad87f6d2377e02a4a5",
+      "translation_sha256": "0925c7c850c5846b8f60fc532380c2c5d1aa3dd5bc7fc29a13ea7b252ef850b9",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zephaniah 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Zephaniah 3:5",
+          "segment_mode": "whole",
+          "sha256": "325efeaea4cc974b8037edce8d15951a330d18ab962427b62d02e36082462902"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "325efeaea4cc974b8037edce8d15951a330d18ab962427b62d02e36082462902",
+      "translation_sha256": "bab6be0817249737ed9cba23c697924fa429fddc8adf246b36ee16edeed5a5fd",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zephaniah 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Zephaniah 3:6",
+          "segment_mode": "whole",
+          "sha256": "5258edcce11ff267f7b0dc1eabc0154c1d0b78f09016e0cf22b3747f4131933f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5258edcce11ff267f7b0dc1eabc0154c1d0b78f09016e0cf22b3747f4131933f",
+      "translation_sha256": "e0c78845a3266f2900323666e77415a0b012d3165c707c26d0a447a8bf8571e0",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Zephaniah 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Zephaniah 3:7",
+          "segment_mode": "whole",
+          "sha256": "0dcd20343fc8deb1c919215349f415e84cc4e548cdf5ff39c4d794f9e7dd4d25"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0dcd20343fc8deb1c919215349f415e84cc4e548cdf5ff39c4d794f9e7dd4d25",
+      "translation_sha256": "31c6279a50452a7ee7db10763c273c7f5b00864825113a5f0c57b0531f5d53dc",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Zephaniah 3:8",
+          "segment_mode": "whole",
+          "sha256": "4d2b071b6a0c76087b6a0aded3dbd2367b2750430fcaaac7c43137a3853c569d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4d2b071b6a0c76087b6a0aded3dbd2367b2750430fcaaac7c43137a3853c569d",
+      "translation_sha256": "db3a96bd986b9bae97aa6e10a724c4c3ea43f3deb3c2471f021c84b951c4ab44",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Preserve judgment, purified speech, dispersed worshipers, humility, and refuge as a single transformation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Zephaniah 3:9",
+          "segment_mode": "whole",
+          "sha256": "1868ee1f028cf1f29c02e8416e56f5fce4297379607457002526cc5fc5dd23e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1868ee1f028cf1f29c02e8416e56f5fce4297379607457002526cc5fc5dd23e3",
+      "translation_sha256": "f5e3caf0b697976c7aa0d61acc0079abed3503b894c609b81a5596f36f1bcc08",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Preserve judgment, purified speech, dispersed worshipers, humility, and refuge as a single transformation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Zephaniah 3:10",
+          "segment_mode": "whole",
+          "sha256": "3a36a883ba7b4c3449a181fd71b3c8c6b00bd2cf1fe21b0729f1cc32d5ebaa6b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3a36a883ba7b4c3449a181fd71b3c8c6b00bd2cf1fe21b0729f1cc32d5ebaa6b",
+      "translation_sha256": "a1a45c43f379d5f51f664bad2c1ab9c9e74f9cba5728139e47abcaa388cb8b5f",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Preserve judgment, purified speech, dispersed worshipers, humility, and refuge as a single transformation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "Zephaniah 3:11",
+          "segment_mode": "whole",
+          "sha256": "47ba409309820fb00aa773fbf9bf5f2443ff44b5391798db927cda225cf4dba9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "47ba409309820fb00aa773fbf9bf5f2443ff44b5391798db927cda225cf4dba9",
+      "translation_sha256": "a95385268dc2d793d68be4e17c2a919d39c34f3636ae7ba56fa0694292e469d0",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Preserve judgment, purified speech, dispersed worshipers, humility, and refuge as a single transformation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "Zephaniah 3:12",
+          "segment_mode": "whole",
+          "sha256": "ce6c5f97db41ac6ece3b46ded59d954525165e1d2b84a4c125aadd01874d51b9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ce6c5f97db41ac6ece3b46ded59d954525165e1d2b84a4c125aadd01874d51b9",
+      "translation_sha256": "c3e27f8112a7d83f3df28355005cac12325003f8ccba9084923ca76e66ff983d",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Preserve judgment, purified speech, dispersed worshipers, humility, and refuge as a single transformation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:13",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 13,
+          "source_ref": "Zephaniah 3:13",
+          "segment_mode": "whole",
+          "sha256": "a6b088f564316b00f67a59cdb198161cf98fb2c47493a1d14255265f4f9c30dc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a6b088f564316b00f67a59cdb198161cf98fb2c47493a1d14255265f4f9c30dc",
+      "translation_sha256": "97087a4a06676ffdf5c63b8d93a0b3bbe5d4b3bbb2146c45bdd74c4231823a86",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Preserve judgment, purified speech, dispersed worshipers, humility, and refuge as a single transformation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:14",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 14,
+          "source_ref": "Zephaniah 3:14",
+          "segment_mode": "whole",
+          "sha256": "7b1c2e05301af08537386eef6149d4811d7f11277d345c7d5807dc4831f4c6ef"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7b1c2e05301af08537386eef6149d4811d7f11277d345c7d5807dc4831f4c6ef",
+      "translation_sha256": "bc69621b8f3db1ba52c183bad2c8c78fe05959a2e25670aabd75695613612b93",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Let God's presence, saving action, rejoicing love, homecoming, and restored reputation carry the conclusion."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:15",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 15,
+          "source_ref": "Zephaniah 3:15",
+          "segment_mode": "whole",
+          "sha256": "ed2c5e10adc52bb8687b9e39d42446c201043c22059e9cbb930c8789e29ff4fe"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ed2c5e10adc52bb8687b9e39d42446c201043c22059e9cbb930c8789e29ff4fe",
+      "translation_sha256": "e23ba774eb685420d6eed7438f23b143d5f7374ccaf4692171ede301b20f9820",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Let God's presence, saving action, rejoicing love, homecoming, and restored reputation carry the conclusion."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:16",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 16,
+          "source_ref": "Zephaniah 3:16",
+          "segment_mode": "whole",
+          "sha256": "8c9cd9c68f8423afab3b88b7d63d4ca7b20885d59e6010b4b7c90d374f303225"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8c9cd9c68f8423afab3b88b7d63d4ca7b20885d59e6010b4b7c90d374f303225",
+      "translation_sha256": "a182937e1b8086f77496d4c0a644761625c092acfc9a7c413a6b2f51dfdd6481",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Let God's presence, saving action, rejoicing love, homecoming, and restored reputation carry the conclusion."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:17",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 17,
+          "source_ref": "Zephaniah 3:17",
+          "segment_mode": "whole",
+          "sha256": "7f2f97a917df2f69e3d1dea894ec914528080041f27f00934e7aa77b5b0725ac"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7f2f97a917df2f69e3d1dea894ec914528080041f27f00934e7aa77b5b0725ac",
+      "translation_sha256": "4e9d3220c5cf22f29974ec55d673276d858458ab1982ed140d5c45bef9a42a8b",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Let God's presence, saving action, rejoicing love, homecoming, and restored reputation carry the conclusion."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:18",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 18,
+          "source_ref": "Zephaniah 3:18",
+          "segment_mode": "whole",
+          "sha256": "5c9b6cc3b4cd5d4084bcc3f80939a29f53c451d2182409ff0d4d1b7ef16adba9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5c9b6cc3b4cd5d4084bcc3f80939a29f53c451d2182409ff0d4d1b7ef16adba9",
+      "translation_sha256": "feb94379b5b8cbf41d1c8ab3fcb672dd6f724f847e70f2a8ca9ea48b09d4beb6",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Let God's presence, saving action, rejoicing love, homecoming, and restored reputation carry the conclusion."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:19",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 19,
+          "source_ref": "Zephaniah 3:19",
+          "segment_mode": "whole",
+          "sha256": "fc91955fa5c4d9abe9be54d88b59e3bb5bab70b2e7136e45215060578e61d768"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fc91955fa5c4d9abe9be54d88b59e3bb5bab70b2e7136e45215060578e61d768",
+      "translation_sha256": "2c0528d142266f9cfe99452893c6e8d179bc7a4ccb9969aa26768fa005053f5c",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Let God's presence, saving action, rejoicing love, homecoming, and restored reputation carry the conclusion."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Zephaniah 3:20",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 20,
+          "source_ref": "Zephaniah 3:20",
+          "segment_mode": "whole",
+          "sha256": "1db887948a7ee6b222afc0d086caaf501da4ac29d1b0754727a2595ce97db4fa"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1db887948a7ee6b222afc0d086caaf501da4ac29d1b0754727a2595ce97db4fa",
+      "translation_sha256": "ddfb6ecfbb68f929e894d9b99fc2297625c28126bb5b2d11802cc4af84d9fa45",
+      "tsw_blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2",
+      "curated_decisions": [
+        "Let God's presence, saving action, rejoicing love, homecoming, and restored reputation carry the conclusion."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 8,
+    "F1": 0,
+    "F2": 0,
+    "F3": 45
+  },
+  "public_verse_slots": 53,
+  "included_source_bindings": 53
+}

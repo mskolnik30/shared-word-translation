@@ -1,0 +1,347 @@
+{
+  "book": "Zephaniah",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zeph.xml",
+    "git_blob_sha": "db77292abc38d6c4655c892f080246883b8180a3"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "3:8-13",
+      "decision": "Preserve judgment, purified speech, dispersed worshipers, humility, and refuge as a single transformation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:14-20",
+      "decision": "Let God's presence, saving action, rejoicing love, homecoming, and restored reputation carry the conclusion.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zeph.xml",
+    "git_blob_sha": "db77292abc38d6c4655c892f080246883b8180a3",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Zephaniah 3:1",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 1,
+            "source_ref": "Zephaniah 3:1",
+            "segment_mode": "whole",
+            "sha256": "af8a21a01a24536604319515357afa72a19947a6dd1310cfe44c9424e720eed2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af8a21a01a24536604319515357afa72a19947a6dd1310cfe44c9424e720eed2"
+      },
+      "2": {
+        "source_ref": "Zephaniah 3:2",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 2,
+            "source_ref": "Zephaniah 3:2",
+            "segment_mode": "whole",
+            "sha256": "05fffae5f0bc4c21cd7651d5b96d26dc3e9275cf20dc68caf40129970912d6d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05fffae5f0bc4c21cd7651d5b96d26dc3e9275cf20dc68caf40129970912d6d6"
+      },
+      "3": {
+        "source_ref": "Zephaniah 3:3",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 3,
+            "source_ref": "Zephaniah 3:3",
+            "segment_mode": "whole",
+            "sha256": "1b4ce06756452721aee8070bca6b9d110ee5325fb664d7cea53135196ba638cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b4ce06756452721aee8070bca6b9d110ee5325fb664d7cea53135196ba638cc"
+      },
+      "4": {
+        "source_ref": "Zephaniah 3:4",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 4,
+            "source_ref": "Zephaniah 3:4",
+            "segment_mode": "whole",
+            "sha256": "679d0e9dab544b7632822248d5c9792a467dd40466c65bad87f6d2377e02a4a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "679d0e9dab544b7632822248d5c9792a467dd40466c65bad87f6d2377e02a4a5"
+      },
+      "5": {
+        "source_ref": "Zephaniah 3:5",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 5,
+            "source_ref": "Zephaniah 3:5",
+            "segment_mode": "whole",
+            "sha256": "325efeaea4cc974b8037edce8d15951a330d18ab962427b62d02e36082462902"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "325efeaea4cc974b8037edce8d15951a330d18ab962427b62d02e36082462902"
+      },
+      "6": {
+        "source_ref": "Zephaniah 3:6",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 6,
+            "source_ref": "Zephaniah 3:6",
+            "segment_mode": "whole",
+            "sha256": "5258edcce11ff267f7b0dc1eabc0154c1d0b78f09016e0cf22b3747f4131933f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5258edcce11ff267f7b0dc1eabc0154c1d0b78f09016e0cf22b3747f4131933f"
+      },
+      "7": {
+        "source_ref": "Zephaniah 3:7",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 7,
+            "source_ref": "Zephaniah 3:7",
+            "segment_mode": "whole",
+            "sha256": "0dcd20343fc8deb1c919215349f415e84cc4e548cdf5ff39c4d794f9e7dd4d25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0dcd20343fc8deb1c919215349f415e84cc4e548cdf5ff39c4d794f9e7dd4d25"
+      },
+      "8": {
+        "source_ref": "Zephaniah 3:8",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 8,
+            "source_ref": "Zephaniah 3:8",
+            "segment_mode": "whole",
+            "sha256": "4d2b071b6a0c76087b6a0aded3dbd2367b2750430fcaaac7c43137a3853c569d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4d2b071b6a0c76087b6a0aded3dbd2367b2750430fcaaac7c43137a3853c569d"
+      },
+      "9": {
+        "source_ref": "Zephaniah 3:9",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 9,
+            "source_ref": "Zephaniah 3:9",
+            "segment_mode": "whole",
+            "sha256": "1868ee1f028cf1f29c02e8416e56f5fce4297379607457002526cc5fc5dd23e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1868ee1f028cf1f29c02e8416e56f5fce4297379607457002526cc5fc5dd23e3"
+      },
+      "10": {
+        "source_ref": "Zephaniah 3:10",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 10,
+            "source_ref": "Zephaniah 3:10",
+            "segment_mode": "whole",
+            "sha256": "3a36a883ba7b4c3449a181fd71b3c8c6b00bd2cf1fe21b0729f1cc32d5ebaa6b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a36a883ba7b4c3449a181fd71b3c8c6b00bd2cf1fe21b0729f1cc32d5ebaa6b"
+      },
+      "11": {
+        "source_ref": "Zephaniah 3:11",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 11,
+            "source_ref": "Zephaniah 3:11",
+            "segment_mode": "whole",
+            "sha256": "47ba409309820fb00aa773fbf9bf5f2443ff44b5391798db927cda225cf4dba9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "47ba409309820fb00aa773fbf9bf5f2443ff44b5391798db927cda225cf4dba9"
+      },
+      "12": {
+        "source_ref": "Zephaniah 3:12",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 12,
+            "source_ref": "Zephaniah 3:12",
+            "segment_mode": "whole",
+            "sha256": "ce6c5f97db41ac6ece3b46ded59d954525165e1d2b84a4c125aadd01874d51b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce6c5f97db41ac6ece3b46ded59d954525165e1d2b84a4c125aadd01874d51b9"
+      },
+      "13": {
+        "source_ref": "Zephaniah 3:13",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 13,
+            "source_ref": "Zephaniah 3:13",
+            "segment_mode": "whole",
+            "sha256": "a6b088f564316b00f67a59cdb198161cf98fb2c47493a1d14255265f4f9c30dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6b088f564316b00f67a59cdb198161cf98fb2c47493a1d14255265f4f9c30dc"
+      },
+      "14": {
+        "source_ref": "Zephaniah 3:14",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 14,
+            "source_ref": "Zephaniah 3:14",
+            "segment_mode": "whole",
+            "sha256": "7b1c2e05301af08537386eef6149d4811d7f11277d345c7d5807dc4831f4c6ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b1c2e05301af08537386eef6149d4811d7f11277d345c7d5807dc4831f4c6ef"
+      },
+      "15": {
+        "source_ref": "Zephaniah 3:15",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 15,
+            "source_ref": "Zephaniah 3:15",
+            "segment_mode": "whole",
+            "sha256": "ed2c5e10adc52bb8687b9e39d42446c201043c22059e9cbb930c8789e29ff4fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed2c5e10adc52bb8687b9e39d42446c201043c22059e9cbb930c8789e29ff4fe"
+      },
+      "16": {
+        "source_ref": "Zephaniah 3:16",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 16,
+            "source_ref": "Zephaniah 3:16",
+            "segment_mode": "whole",
+            "sha256": "8c9cd9c68f8423afab3b88b7d63d4ca7b20885d59e6010b4b7c90d374f303225"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c9cd9c68f8423afab3b88b7d63d4ca7b20885d59e6010b4b7c90d374f303225"
+      },
+      "17": {
+        "source_ref": "Zephaniah 3:17",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 17,
+            "source_ref": "Zephaniah 3:17",
+            "segment_mode": "whole",
+            "sha256": "7f2f97a917df2f69e3d1dea894ec914528080041f27f00934e7aa77b5b0725ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f2f97a917df2f69e3d1dea894ec914528080041f27f00934e7aa77b5b0725ac"
+      },
+      "18": {
+        "source_ref": "Zephaniah 3:18",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 18,
+            "source_ref": "Zephaniah 3:18",
+            "segment_mode": "whole",
+            "sha256": "5c9b6cc3b4cd5d4084bcc3f80939a29f53c451d2182409ff0d4d1b7ef16adba9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c9b6cc3b4cd5d4084bcc3f80939a29f53c451d2182409ff0d4d1b7ef16adba9"
+      },
+      "19": {
+        "source_ref": "Zephaniah 3:19",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 19,
+            "source_ref": "Zephaniah 3:19",
+            "segment_mode": "whole",
+            "sha256": "fc91955fa5c4d9abe9be54d88b59e3bb5bab70b2e7136e45215060578e61d768"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fc91955fa5c4d9abe9be54d88b59e3bb5bab70b2e7136e45215060578e61d768"
+      },
+      "20": {
+        "source_ref": "Zephaniah 3:20",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 20,
+            "source_ref": "Zephaniah 3:20",
+            "segment_mode": "whole",
+            "sha256": "1db887948a7ee6b222afc0d086caaf501da4ac29d1b0754727a2595ce97db4fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1db887948a7ee6b222afc0d086caaf501da4ac29d1b0754727a2595ce97db4fa"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/zephaniah/Zephaniah_03.md",
+    "blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

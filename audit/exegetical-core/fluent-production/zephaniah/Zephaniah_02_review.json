@@ -1,0 +1,267 @@
+{
+  "book": "Zephaniah",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zeph.xml",
+    "git_blob_sha": "db77292abc38d6c4655c892f080246883b8180a3"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "2:1-15",
+      "decision": "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zeph.xml",
+    "git_blob_sha": "db77292abc38d6c4655c892f080246883b8180a3",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Zephaniah 2:1",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Zephaniah 2:1",
+            "segment_mode": "whole",
+            "sha256": "d32d684eaab33e1e20599d8273401b755d3cda136004421986ad30c3500792e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d32d684eaab33e1e20599d8273401b755d3cda136004421986ad30c3500792e2"
+      },
+      "2": {
+        "source_ref": "Zephaniah 2:2",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Zephaniah 2:2",
+            "segment_mode": "whole",
+            "sha256": "8a6e07e3ca72ae75b40b223d65e0134d78d883bbeef337878b3f5969ab178d0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a6e07e3ca72ae75b40b223d65e0134d78d883bbeef337878b3f5969ab178d0b"
+      },
+      "3": {
+        "source_ref": "Zephaniah 2:3",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Zephaniah 2:3",
+            "segment_mode": "whole",
+            "sha256": "a0690b242d2edd0497fd8b6e5d27ec4a24c6f389e11cde41ba139ea8f4c7dcd6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0690b242d2edd0497fd8b6e5d27ec4a24c6f389e11cde41ba139ea8f4c7dcd6"
+      },
+      "4": {
+        "source_ref": "Zephaniah 2:4",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Zephaniah 2:4",
+            "segment_mode": "whole",
+            "sha256": "eefb1e57222ceed7c098ff20c04f14a782183ecee42c83fe71ec724eac3c65a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eefb1e57222ceed7c098ff20c04f14a782183ecee42c83fe71ec724eac3c65a5"
+      },
+      "5": {
+        "source_ref": "Zephaniah 2:5",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Zephaniah 2:5",
+            "segment_mode": "whole",
+            "sha256": "b9603dbc21fc315b384c804b50f58d52584e343c2a34e2f63f228c2ccb4ea4af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b9603dbc21fc315b384c804b50f58d52584e343c2a34e2f63f228c2ccb4ea4af"
+      },
+      "6": {
+        "source_ref": "Zephaniah 2:6",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Zephaniah 2:6",
+            "segment_mode": "whole",
+            "sha256": "949c899c011fccb2a665e349d1b5479ed9c36afe0003408b151b6203671f73b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "949c899c011fccb2a665e349d1b5479ed9c36afe0003408b151b6203671f73b7"
+      },
+      "7": {
+        "source_ref": "Zephaniah 2:7",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Zephaniah 2:7",
+            "segment_mode": "whole",
+            "sha256": "8b37438682abc46e5d812397d620391016286a19f16fa39b7cd90d7eca706795"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b37438682abc46e5d812397d620391016286a19f16fa39b7cd90d7eca706795"
+      },
+      "8": {
+        "source_ref": "Zephaniah 2:8",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Zephaniah 2:8",
+            "segment_mode": "whole",
+            "sha256": "a27bf0778e1fed8271dca5476406b5fe0ef1497cdfec4ab744118719e3e5c2fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a27bf0778e1fed8271dca5476406b5fe0ef1497cdfec4ab744118719e3e5c2fa"
+      },
+      "9": {
+        "source_ref": "Zephaniah 2:9",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Zephaniah 2:9",
+            "segment_mode": "whole",
+            "sha256": "cfcd1229e7866a215e166f359970f4e7fd03c6180e6b0285f45fc4d94a51846f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cfcd1229e7866a215e166f359970f4e7fd03c6180e6b0285f45fc4d94a51846f"
+      },
+      "10": {
+        "source_ref": "Zephaniah 2:10",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Zephaniah 2:10",
+            "segment_mode": "whole",
+            "sha256": "f1cba33040bfc57e061f3ba520766dcc772f41d8ab478667f47ab2effbcd9628"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1cba33040bfc57e061f3ba520766dcc772f41d8ab478667f47ab2effbcd9628"
+      },
+      "11": {
+        "source_ref": "Zephaniah 2:11",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Zephaniah 2:11",
+            "segment_mode": "whole",
+            "sha256": "1b9ebb3a3451df92282006ca7383924c276b0322e019b2a59a96d5868d140799"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b9ebb3a3451df92282006ca7383924c276b0322e019b2a59a96d5868d140799"
+      },
+      "12": {
+        "source_ref": "Zephaniah 2:12",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Zephaniah 2:12",
+            "segment_mode": "whole",
+            "sha256": "84db49c38ac5c4d9e58687803893f4be6d867e9618f87bb2e64d61ea3269e496"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84db49c38ac5c4d9e58687803893f4be6d867e9618f87bb2e64d61ea3269e496"
+      },
+      "13": {
+        "source_ref": "Zephaniah 2:13",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Zephaniah 2:13",
+            "segment_mode": "whole",
+            "sha256": "0d2184869ef4485d7507b7037b85239035481f0e6199cb7b35e5d14c2bb6908c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d2184869ef4485d7507b7037b85239035481f0e6199cb7b35e5d14c2bb6908c"
+      },
+      "14": {
+        "source_ref": "Zephaniah 2:14",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "Zephaniah 2:14",
+            "segment_mode": "whole",
+            "sha256": "c03bb85614259c16ff50d87ab93ef7cb3c2d8186792f37990dad2da3e843ac83"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c03bb85614259c16ff50d87ab93ef7cb3c2d8186792f37990dad2da3e843ac83"
+      },
+      "15": {
+        "source_ref": "Zephaniah 2:15",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "Zephaniah 2:15",
+            "segment_mode": "whole",
+            "sha256": "039d1f9b8bbca5d76179a5aaf290d82ae0b7b43796aa53b75c46fd0e37c23f05"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "039d1f9b8bbca5d76179a5aaf290d82ae0b7b43796aa53b75c46fd0e37c23f05"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/zephaniah/Zephaniah_02.md",
+    "blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
