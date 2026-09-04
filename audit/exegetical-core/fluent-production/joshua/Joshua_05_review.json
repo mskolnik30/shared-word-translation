@@ -1,0 +1,267 @@
+{
+  "book": "Joshua",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "5:13-6:27",
+      "decision": "Translate Jericho and herem plainly in their ancient conquest narrative; do not make the violence a warrant for modern war or dispossession.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 5:1",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "Joshua 5:1",
+            "segment_mode": "whole",
+            "sha256": "4f5401019d72de360928a72d4a07881e253ed8c74d2f2386e9b6ece0b6ee748a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f5401019d72de360928a72d4a07881e253ed8c74d2f2386e9b6ece0b6ee748a"
+      },
+      "2": {
+        "source_ref": "Joshua 5:2",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "Joshua 5:2",
+            "segment_mode": "whole",
+            "sha256": "48b9a784f6c716884506f67c869d949d8a498666ee1d3fc0bd777ef1605e2a1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48b9a784f6c716884506f67c869d949d8a498666ee1d3fc0bd777ef1605e2a1b"
+      },
+      "3": {
+        "source_ref": "Joshua 5:3",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "Joshua 5:3",
+            "segment_mode": "whole",
+            "sha256": "48fc71ba1f630b1ec50ce416a67f05e27136af643459eb6ba758f3fd2e290b94"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48fc71ba1f630b1ec50ce416a67f05e27136af643459eb6ba758f3fd2e290b94"
+      },
+      "4": {
+        "source_ref": "Joshua 5:4",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "Joshua 5:4",
+            "segment_mode": "whole",
+            "sha256": "038099e7daa02a731f7b7323b626ace60896e95cb57019fe7c4e1a7f6dc2598f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "038099e7daa02a731f7b7323b626ace60896e95cb57019fe7c4e1a7f6dc2598f"
+      },
+      "5": {
+        "source_ref": "Joshua 5:5",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "Joshua 5:5",
+            "segment_mode": "whole",
+            "sha256": "554be03440a41e28e5c58a2f4dd679fe95a4b63ac1df1f33eb9b6ed045086384"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "554be03440a41e28e5c58a2f4dd679fe95a4b63ac1df1f33eb9b6ed045086384"
+      },
+      "6": {
+        "source_ref": "Joshua 5:6",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "Joshua 5:6",
+            "segment_mode": "whole",
+            "sha256": "8da4e65133090ed35dc22dc54cf061116d61d1ba077f61591dcfb6930dcc49f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8da4e65133090ed35dc22dc54cf061116d61d1ba077f61591dcfb6930dcc49f9"
+      },
+      "7": {
+        "source_ref": "Joshua 5:7",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "Joshua 5:7",
+            "segment_mode": "whole",
+            "sha256": "ccb5e037bec3f60abd1e664923bb2aa2fa7518304eba05fbcd38dbd085456dfd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ccb5e037bec3f60abd1e664923bb2aa2fa7518304eba05fbcd38dbd085456dfd"
+      },
+      "8": {
+        "source_ref": "Joshua 5:8",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "Joshua 5:8",
+            "segment_mode": "whole",
+            "sha256": "5044f9223e69d11c4e5def4ac216300c2a1a7da5362ec280333176030127cbd1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5044f9223e69d11c4e5def4ac216300c2a1a7da5362ec280333176030127cbd1"
+      },
+      "9": {
+        "source_ref": "Joshua 5:9",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "Joshua 5:9",
+            "segment_mode": "whole",
+            "sha256": "6a9c09ea417544df7cd52635ac4d23276e5ecd8da0d5bf5fc013394286ca062b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a9c09ea417544df7cd52635ac4d23276e5ecd8da0d5bf5fc013394286ca062b"
+      },
+      "10": {
+        "source_ref": "Joshua 5:10",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "Joshua 5:10",
+            "segment_mode": "whole",
+            "sha256": "0df73ee2c6a85de2b8d2f5ef9edbfd780146a46d8a87779c223f5903d8fa23cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0df73ee2c6a85de2b8d2f5ef9edbfd780146a46d8a87779c223f5903d8fa23cf"
+      },
+      "11": {
+        "source_ref": "Joshua 5:11",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "Joshua 5:11",
+            "segment_mode": "whole",
+            "sha256": "769adf33f82473fad7783e0d039803beef9c91432a6f07e87260e40c82ce5293"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "769adf33f82473fad7783e0d039803beef9c91432a6f07e87260e40c82ce5293"
+      },
+      "12": {
+        "source_ref": "Joshua 5:12",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "Joshua 5:12",
+            "segment_mode": "whole",
+            "sha256": "4c6efdb22108dc60e19074bdc11a5e593cb19f24b8799e0f804b22fe34e0da51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c6efdb22108dc60e19074bdc11a5e593cb19f24b8799e0f804b22fe34e0da51"
+      },
+      "13": {
+        "source_ref": "Joshua 5:13",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "Joshua 5:13",
+            "segment_mode": "whole",
+            "sha256": "a208bdf7560ca013b69f71be0f9d910191285ba7709ca3b226a4b67c759eff7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a208bdf7560ca013b69f71be0f9d910191285ba7709ca3b226a4b67c759eff7b"
+      },
+      "14": {
+        "source_ref": "Joshua 5:14",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "Joshua 5:14",
+            "segment_mode": "whole",
+            "sha256": "1e0b1ee0a3a3977e08551785db9951d9c32a8ba7c42dc7788969a4d63942e9db"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e0b1ee0a3a3977e08551785db9951d9c32a8ba7c42dc7788969a4d63942e9db"
+      },
+      "15": {
+        "source_ref": "Joshua 5:15",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "Joshua 5:15",
+            "segment_mode": "whole",
+            "sha256": "77786cd9bfe8c72dba74c943d9056219fd20a89dfc658874fef2b30086d2f6e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77786cd9bfe8c72dba74c943d9056219fd20a89dfc658874fef2b30086d2f6e0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_05.md",
+    "blob_sha": "1490d2a74a9a5a71648d60b3b31203451062496a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

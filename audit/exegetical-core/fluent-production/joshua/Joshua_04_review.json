@@ -1,0 +1,396 @@
+{
+  "book": "Joshua",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 4:1",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "Joshua 4:1",
+            "segment_mode": "whole",
+            "sha256": "d15745c54381e400372b41fbd30e1745ed43dd60778b406aaf8a846da6d914d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d15745c54381e400372b41fbd30e1745ed43dd60778b406aaf8a846da6d914d9"
+      },
+      "2": {
+        "source_ref": "Joshua 4:2",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "Joshua 4:2",
+            "segment_mode": "whole",
+            "sha256": "4a7936991b68b5f9cec6294537266f258f0aafb5733f2769856e5e9a58b9ca54"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a7936991b68b5f9cec6294537266f258f0aafb5733f2769856e5e9a58b9ca54"
+      },
+      "3": {
+        "source_ref": "Joshua 4:3",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "Joshua 4:3",
+            "segment_mode": "whole",
+            "sha256": "dd09576a4cff3d41b62b36bd9a5a3da6ef5b4e0651806dc99bf88c0c7c377406"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd09576a4cff3d41b62b36bd9a5a3da6ef5b4e0651806dc99bf88c0c7c377406"
+      },
+      "4": {
+        "source_ref": "Joshua 4:4",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "Joshua 4:4",
+            "segment_mode": "whole",
+            "sha256": "e5848934eec7e0fe19ed2d8252d5f107279b9d62877aaa3d53fabe38be255afb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5848934eec7e0fe19ed2d8252d5f107279b9d62877aaa3d53fabe38be255afb"
+      },
+      "5": {
+        "source_ref": "Joshua 4:5",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "Joshua 4:5",
+            "segment_mode": "whole",
+            "sha256": "bdf7af180a1cfa90d22d6c0efb4a3e44e13a314a59b56fdf9edbe74d8049eca8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdf7af180a1cfa90d22d6c0efb4a3e44e13a314a59b56fdf9edbe74d8049eca8"
+      },
+      "6": {
+        "source_ref": "Joshua 4:6",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "Joshua 4:6",
+            "segment_mode": "whole",
+            "sha256": "07d6f78157d78c1a38e2e383cdaf27d48e9dc331a73e1e73411e6bf2a0038688"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07d6f78157d78c1a38e2e383cdaf27d48e9dc331a73e1e73411e6bf2a0038688"
+      },
+      "7": {
+        "source_ref": "Joshua 4:7",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "Joshua 4:7",
+            "segment_mode": "whole",
+            "sha256": "f3ec7e896b09ed3fc11feb4f811ad7a1f24fb43a0d231f0c7aa029a8c09e75ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3ec7e896b09ed3fc11feb4f811ad7a1f24fb43a0d231f0c7aa029a8c09e75ce"
+      },
+      "8": {
+        "source_ref": "Joshua 4:8",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "Joshua 4:8",
+            "segment_mode": "whole",
+            "sha256": "cc6db272eac1b0acc7d108c95a6f3cc476a4dfb7560868e435aa469f56669cd9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc6db272eac1b0acc7d108c95a6f3cc476a4dfb7560868e435aa469f56669cd9"
+      },
+      "9": {
+        "source_ref": "Joshua 4:9",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "Joshua 4:9",
+            "segment_mode": "whole",
+            "sha256": "5714d1acb29fb610deb7d4d78c7a273d6fca380c77b96e6edbaae5523fd814b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5714d1acb29fb610deb7d4d78c7a273d6fca380c77b96e6edbaae5523fd814b7"
+      },
+      "10": {
+        "source_ref": "Joshua 4:10",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "Joshua 4:10",
+            "segment_mode": "whole",
+            "sha256": "42785d7df62452d98adb8bd16a6f619d9a058ad6d8d4804ae0a286d43f3a6fd9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42785d7df62452d98adb8bd16a6f619d9a058ad6d8d4804ae0a286d43f3a6fd9"
+      },
+      "11": {
+        "source_ref": "Joshua 4:11",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "Joshua 4:11",
+            "segment_mode": "whole",
+            "sha256": "826ed176efc63e8aa6f8ec7541c6c040de02cfa8abfb2a6757a3fdec770f5280"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "826ed176efc63e8aa6f8ec7541c6c040de02cfa8abfb2a6757a3fdec770f5280"
+      },
+      "12": {
+        "source_ref": "Joshua 4:12",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 12,
+            "source_ref": "Joshua 4:12",
+            "segment_mode": "whole",
+            "sha256": "e4992857a1dc028fe1ae3c90595c0a83c152dd6376d450ea2167a8d3cb14b601"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4992857a1dc028fe1ae3c90595c0a83c152dd6376d450ea2167a8d3cb14b601"
+      },
+      "13": {
+        "source_ref": "Joshua 4:13",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 13,
+            "source_ref": "Joshua 4:13",
+            "segment_mode": "whole",
+            "sha256": "bc46f398c921eae1e181440d47c68946fd69d134477df8616092bfd33f8d8534"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc46f398c921eae1e181440d47c68946fd69d134477df8616092bfd33f8d8534"
+      },
+      "14": {
+        "source_ref": "Joshua 4:14",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 14,
+            "source_ref": "Joshua 4:14",
+            "segment_mode": "whole",
+            "sha256": "126ab4a7735bb20c3c6231c50c1899bd6039f1e607c8ac1dee68e0d02e1462d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "126ab4a7735bb20c3c6231c50c1899bd6039f1e607c8ac1dee68e0d02e1462d8"
+      },
+      "15": {
+        "source_ref": "Joshua 4:15",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 15,
+            "source_ref": "Joshua 4:15",
+            "segment_mode": "whole",
+            "sha256": "469f3a82b3bc0d580b0b36bda63be15658ccbd4563e4d6e3505f1b714f79d5f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "469f3a82b3bc0d580b0b36bda63be15658ccbd4563e4d6e3505f1b714f79d5f8"
+      },
+      "16": {
+        "source_ref": "Joshua 4:16",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 16,
+            "source_ref": "Joshua 4:16",
+            "segment_mode": "whole",
+            "sha256": "79d6c266aa1da647f721e9ec6ac598456051b2c7fa7683e0571d10f11bbb2619"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79d6c266aa1da647f721e9ec6ac598456051b2c7fa7683e0571d10f11bbb2619"
+      },
+      "17": {
+        "source_ref": "Joshua 4:17",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 17,
+            "source_ref": "Joshua 4:17",
+            "segment_mode": "whole",
+            "sha256": "534cd42e4912271392776f150a8718388afe56116efae00262faee64e29f8a45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "534cd42e4912271392776f150a8718388afe56116efae00262faee64e29f8a45"
+      },
+      "18": {
+        "source_ref": "Joshua 4:18",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 18,
+            "source_ref": "Joshua 4:18",
+            "segment_mode": "whole",
+            "sha256": "03dd8831adf0803e70360d4e8600d1a24b8222691b055209ff33f7eff3c6929d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03dd8831adf0803e70360d4e8600d1a24b8222691b055209ff33f7eff3c6929d"
+      },
+      "19": {
+        "source_ref": "Joshua 4:19",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 19,
+            "source_ref": "Joshua 4:19",
+            "segment_mode": "whole",
+            "sha256": "112b6683f9a0e46dd54c00b57ed6145bfbcfa9b9e901c9f4bfeafce3c2eabf21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "112b6683f9a0e46dd54c00b57ed6145bfbcfa9b9e901c9f4bfeafce3c2eabf21"
+      },
+      "20": {
+        "source_ref": "Joshua 4:20",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 20,
+            "source_ref": "Joshua 4:20",
+            "segment_mode": "whole",
+            "sha256": "06f30d614f536243b0dbe699d2f9cc7bf0f78cf2295b75724de1fc70c5fd2c13"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06f30d614f536243b0dbe699d2f9cc7bf0f78cf2295b75724de1fc70c5fd2c13"
+      },
+      "21": {
+        "source_ref": "Joshua 4:21",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 21,
+            "source_ref": "Joshua 4:21",
+            "segment_mode": "whole",
+            "sha256": "0719962f2b0c622f127358ef48032ea4739bc69a0e99f7905f1356620b2ad0ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0719962f2b0c622f127358ef48032ea4739bc69a0e99f7905f1356620b2ad0ed"
+      },
+      "22": {
+        "source_ref": "Joshua 4:22",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 22,
+            "source_ref": "Joshua 4:22",
+            "segment_mode": "whole",
+            "sha256": "44eef08ca1c52056683a6df27326e6fc87b1be747c4001df5ddfe136513d7523"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44eef08ca1c52056683a6df27326e6fc87b1be747c4001df5ddfe136513d7523"
+      },
+      "23": {
+        "source_ref": "Joshua 4:23",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 23,
+            "source_ref": "Joshua 4:23",
+            "segment_mode": "whole",
+            "sha256": "6cd5c17933a469faeb7ac8e96883aa4bd8346ca7e9ef9170e9d0a3ff646481a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6cd5c17933a469faeb7ac8e96883aa4bd8346ca7e9ef9170e9d0a3ff646481a9"
+      },
+      "24": {
+        "source_ref": "Joshua 4:24",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 24,
+            "source_ref": "Joshua 4:24",
+            "segment_mode": "whole",
+            "sha256": "1179bd6efa1aa3ca5f473473bb2c3925b52f3f58c787bd903aa72419eb537ba8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1179bd6efa1aa3ca5f473473bb2c3925b52f3f58c787bd903aa72419eb537ba8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_04.md",
+    "blob_sha": "558799347990858dec7e549c1f3b6427893e69ae"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

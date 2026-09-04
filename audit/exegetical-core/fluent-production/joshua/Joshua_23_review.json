@@ -1,0 +1,276 @@
+{
+  "book": "Joshua",
+  "chapter": 23,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 23:1",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 1,
+            "source_ref": "Joshua 23:1",
+            "segment_mode": "whole",
+            "sha256": "bd34ae544bdd4b9dac8e9746991bcf9a68e84e56da84b00b5436c5a1b414e361"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd34ae544bdd4b9dac8e9746991bcf9a68e84e56da84b00b5436c5a1b414e361"
+      },
+      "2": {
+        "source_ref": "Joshua 23:2",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 2,
+            "source_ref": "Joshua 23:2",
+            "segment_mode": "whole",
+            "sha256": "4061d00dca5aafd4a8b45d37b65d6256713968ef735dcfcbf246dd32e593e53b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4061d00dca5aafd4a8b45d37b65d6256713968ef735dcfcbf246dd32e593e53b"
+      },
+      "3": {
+        "source_ref": "Joshua 23:3",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 3,
+            "source_ref": "Joshua 23:3",
+            "segment_mode": "whole",
+            "sha256": "1f5d074e2600c4195786a96b2fe2f1dbc7ff438ccd62a35a6f9a0123702415de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f5d074e2600c4195786a96b2fe2f1dbc7ff438ccd62a35a6f9a0123702415de"
+      },
+      "4": {
+        "source_ref": "Joshua 23:4",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 4,
+            "source_ref": "Joshua 23:4",
+            "segment_mode": "whole",
+            "sha256": "2e74ce846ff33b8361ea87e3536a1be24eaa33cbe3860ff762e3ccc121fa91c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e74ce846ff33b8361ea87e3536a1be24eaa33cbe3860ff762e3ccc121fa91c7"
+      },
+      "5": {
+        "source_ref": "Joshua 23:5",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 5,
+            "source_ref": "Joshua 23:5",
+            "segment_mode": "whole",
+            "sha256": "03f207addcf35f4f8dfc0409dd18cb4163a3f0342134f5c55c939aac266cea79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03f207addcf35f4f8dfc0409dd18cb4163a3f0342134f5c55c939aac266cea79"
+      },
+      "6": {
+        "source_ref": "Joshua 23:6",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 6,
+            "source_ref": "Joshua 23:6",
+            "segment_mode": "whole",
+            "sha256": "e5a33f42f6708bc881fc679811f4d3d2c334cc892ff5be6b9f9e0e75c1558e38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5a33f42f6708bc881fc679811f4d3d2c334cc892ff5be6b9f9e0e75c1558e38"
+      },
+      "7": {
+        "source_ref": "Joshua 23:7",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 7,
+            "source_ref": "Joshua 23:7",
+            "segment_mode": "whole",
+            "sha256": "f8e752ed2f76ba18b6859046c02eab164b028e7c8b247c976da0973268a538f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8e752ed2f76ba18b6859046c02eab164b028e7c8b247c976da0973268a538f9"
+      },
+      "8": {
+        "source_ref": "Joshua 23:8",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 8,
+            "source_ref": "Joshua 23:8",
+            "segment_mode": "whole",
+            "sha256": "6d3e05766d74ca928422e1f754569db6bb842c67120be289ff1cda9810446f8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6d3e05766d74ca928422e1f754569db6bb842c67120be289ff1cda9810446f8e"
+      },
+      "9": {
+        "source_ref": "Joshua 23:9",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 9,
+            "source_ref": "Joshua 23:9",
+            "segment_mode": "whole",
+            "sha256": "87c4baf84f5231112eaea6559e0b4cb44086d92cec382d27d6cf34b2af8082aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87c4baf84f5231112eaea6559e0b4cb44086d92cec382d27d6cf34b2af8082aa"
+      },
+      "10": {
+        "source_ref": "Joshua 23:10",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 10,
+            "source_ref": "Joshua 23:10",
+            "segment_mode": "whole",
+            "sha256": "17d368babed56f118d8242018b02d486cc423faba834e3726ef010a472fb0a61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17d368babed56f118d8242018b02d486cc423faba834e3726ef010a472fb0a61"
+      },
+      "11": {
+        "source_ref": "Joshua 23:11",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 11,
+            "source_ref": "Joshua 23:11",
+            "segment_mode": "whole",
+            "sha256": "2347832b544d12026ab136360f4a9f3111d78ebedf5230d545893445b376efd2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2347832b544d12026ab136360f4a9f3111d78ebedf5230d545893445b376efd2"
+      },
+      "12": {
+        "source_ref": "Joshua 23:12",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 12,
+            "source_ref": "Joshua 23:12",
+            "segment_mode": "whole",
+            "sha256": "6e08a560503afe735ae0c24f42d56a0c86c7876d2991fee7b2570f71fc3f0bce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e08a560503afe735ae0c24f42d56a0c86c7876d2991fee7b2570f71fc3f0bce"
+      },
+      "13": {
+        "source_ref": "Joshua 23:13",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 13,
+            "source_ref": "Joshua 23:13",
+            "segment_mode": "whole",
+            "sha256": "01942afd36b1e2170dd9b8f616d2500728c35c6b3e2629fd30f46e5696b69f4f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01942afd36b1e2170dd9b8f616d2500728c35c6b3e2629fd30f46e5696b69f4f"
+      },
+      "14": {
+        "source_ref": "Joshua 23:14",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 14,
+            "source_ref": "Joshua 23:14",
+            "segment_mode": "whole",
+            "sha256": "ab731b3feac7709692733bab8cb531fe27c2bf0d25d2fa55b73f5acacbf5f4cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab731b3feac7709692733bab8cb531fe27c2bf0d25d2fa55b73f5acacbf5f4cb"
+      },
+      "15": {
+        "source_ref": "Joshua 23:15",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 15,
+            "source_ref": "Joshua 23:15",
+            "segment_mode": "whole",
+            "sha256": "365b3741a349453c5ea5284b1ec1e9e5f619cd1fcbde96aab8dcc29b1ee189b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "365b3741a349453c5ea5284b1ec1e9e5f619cd1fcbde96aab8dcc29b1ee189b0"
+      },
+      "16": {
+        "source_ref": "Joshua 23:16",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 16,
+            "source_ref": "Joshua 23:16",
+            "segment_mode": "whole",
+            "sha256": "72e28ef4b7d9ab7464cc7ce3a09dcbf8fccc184e3d80daa0875bbddeca870aa0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72e28ef4b7d9ab7464cc7ce3a09dcbf8fccc184e3d80daa0875bbddeca870aa0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_23.md",
+    "blob_sha": "f3c222f6a584bea0d6d9b6fc152430fbc5252afa"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

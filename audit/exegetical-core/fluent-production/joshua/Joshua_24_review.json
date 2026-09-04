@@ -1,0 +1,537 @@
+{
+  "book": "Joshua",
+  "chapter": 24,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "24:1-33",
+      "decision": "Preserve the historical recital, covenant choice, witness, warning, and burial notices as the book's conclusion.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 24:1",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 1,
+            "source_ref": "Joshua 24:1",
+            "segment_mode": "whole",
+            "sha256": "5e25806a0a6b6d5afe843a410d7254cacbe4a449f223f267b6ea00284a40baf6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e25806a0a6b6d5afe843a410d7254cacbe4a449f223f267b6ea00284a40baf6"
+      },
+      "2": {
+        "source_ref": "Joshua 24:2",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 2,
+            "source_ref": "Joshua 24:2",
+            "segment_mode": "whole",
+            "sha256": "f2f5071259295a1bada36d502e6b75686b3e830a1c8a8c118bce3b02bf6bda24"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2f5071259295a1bada36d502e6b75686b3e830a1c8a8c118bce3b02bf6bda24"
+      },
+      "3": {
+        "source_ref": "Joshua 24:3",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 3,
+            "source_ref": "Joshua 24:3",
+            "segment_mode": "whole",
+            "sha256": "fb5a29486307581a8e9bf3d1768d9666e5ebd2fb437fa9d83b8b8028f85059fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb5a29486307581a8e9bf3d1768d9666e5ebd2fb437fa9d83b8b8028f85059fb"
+      },
+      "4": {
+        "source_ref": "Joshua 24:4",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 4,
+            "source_ref": "Joshua 24:4",
+            "segment_mode": "whole",
+            "sha256": "00dde870a81e510cc39ecb4da5b74a3dc009009a5e36c67d4fe46f26e2763997"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00dde870a81e510cc39ecb4da5b74a3dc009009a5e36c67d4fe46f26e2763997"
+      },
+      "5": {
+        "source_ref": "Joshua 24:5",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 5,
+            "source_ref": "Joshua 24:5",
+            "segment_mode": "whole",
+            "sha256": "0d46fe80c9bb8eb7bd426d05a7ad7c33596bd071f421f35fb76d267a84df9b55"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d46fe80c9bb8eb7bd426d05a7ad7c33596bd071f421f35fb76d267a84df9b55"
+      },
+      "6": {
+        "source_ref": "Joshua 24:6",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 6,
+            "source_ref": "Joshua 24:6",
+            "segment_mode": "whole",
+            "sha256": "2c1cdd34071b7bff58cbc960882a9aff1f68cf80abd2095b2eb28c51a4043c48"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c1cdd34071b7bff58cbc960882a9aff1f68cf80abd2095b2eb28c51a4043c48"
+      },
+      "7": {
+        "source_ref": "Joshua 24:7",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 7,
+            "source_ref": "Joshua 24:7",
+            "segment_mode": "whole",
+            "sha256": "5a5fdd2f6042b22edbe9b65bbb19e6f1591244fa5782ed43de8617c502dd7bb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a5fdd2f6042b22edbe9b65bbb19e6f1591244fa5782ed43de8617c502dd7bb1"
+      },
+      "8": {
+        "source_ref": "Joshua 24:8",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 8,
+            "source_ref": "Joshua 24:8",
+            "segment_mode": "whole",
+            "sha256": "5ea33c85e78d8d1f1524a6cc274219df740668fdb0c7bb173d48050e3b9ea118"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ea33c85e78d8d1f1524a6cc274219df740668fdb0c7bb173d48050e3b9ea118"
+      },
+      "9": {
+        "source_ref": "Joshua 24:9",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 9,
+            "source_ref": "Joshua 24:9",
+            "segment_mode": "whole",
+            "sha256": "d1f9d5ea08fbeb586fa7092e4201ec797faf0a5391a1f967263ed40a083d7ace"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1f9d5ea08fbeb586fa7092e4201ec797faf0a5391a1f967263ed40a083d7ace"
+      },
+      "10": {
+        "source_ref": "Joshua 24:10",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 10,
+            "source_ref": "Joshua 24:10",
+            "segment_mode": "whole",
+            "sha256": "8dbaa392864ec49b0a7714a70e1655486c236853b4cd2f9ce0104db2d347e556"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8dbaa392864ec49b0a7714a70e1655486c236853b4cd2f9ce0104db2d347e556"
+      },
+      "11": {
+        "source_ref": "Joshua 24:11",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 11,
+            "source_ref": "Joshua 24:11",
+            "segment_mode": "whole",
+            "sha256": "60bdfc638dbdd75ff12d4b7baccc4ee722d9dbefc7b69c799d25f4096a433fb7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60bdfc638dbdd75ff12d4b7baccc4ee722d9dbefc7b69c799d25f4096a433fb7"
+      },
+      "12": {
+        "source_ref": "Joshua 24:12",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 12,
+            "source_ref": "Joshua 24:12",
+            "segment_mode": "whole",
+            "sha256": "98e96edc397def61ed890306f02eb4f831b38d6c1266bf87d34b87768d3c5f0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98e96edc397def61ed890306f02eb4f831b38d6c1266bf87d34b87768d3c5f0b"
+      },
+      "13": {
+        "source_ref": "Joshua 24:13",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 13,
+            "source_ref": "Joshua 24:13",
+            "segment_mode": "whole",
+            "sha256": "840ee6c9a29185f0bc0c22f57a9c7083171ad99b2d0d326c29b8660f7a8be937"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "840ee6c9a29185f0bc0c22f57a9c7083171ad99b2d0d326c29b8660f7a8be937"
+      },
+      "14": {
+        "source_ref": "Joshua 24:14",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 14,
+            "source_ref": "Joshua 24:14",
+            "segment_mode": "whole",
+            "sha256": "a00cfe7bdaac8cede553e5f4652d276a70daf5908004b998670bc9ebf8709603"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a00cfe7bdaac8cede553e5f4652d276a70daf5908004b998670bc9ebf8709603"
+      },
+      "15": {
+        "source_ref": "Joshua 24:15",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 15,
+            "source_ref": "Joshua 24:15",
+            "segment_mode": "whole",
+            "sha256": "d5de9536f0576835160186e216bd33370304a836f3bca90ecda9c13d107f3bd1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5de9536f0576835160186e216bd33370304a836f3bca90ecda9c13d107f3bd1"
+      },
+      "16": {
+        "source_ref": "Joshua 24:16",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 16,
+            "source_ref": "Joshua 24:16",
+            "segment_mode": "whole",
+            "sha256": "68a3d671497e305581c66d9119b95804ba9fa030c6e6487c5967ef27177122ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68a3d671497e305581c66d9119b95804ba9fa030c6e6487c5967ef27177122ac"
+      },
+      "17": {
+        "source_ref": "Joshua 24:17",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 17,
+            "source_ref": "Joshua 24:17",
+            "segment_mode": "whole",
+            "sha256": "e58530cb48bd16a9ee8f0d3f38106e99a85eb02d262f9c4a3be80a04a888aaf7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e58530cb48bd16a9ee8f0d3f38106e99a85eb02d262f9c4a3be80a04a888aaf7"
+      },
+      "18": {
+        "source_ref": "Joshua 24:18",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 18,
+            "source_ref": "Joshua 24:18",
+            "segment_mode": "whole",
+            "sha256": "071a2a8da5d5686d2f2a036d2f9cb10dc294163202f191a375e1780fbef9939c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "071a2a8da5d5686d2f2a036d2f9cb10dc294163202f191a375e1780fbef9939c"
+      },
+      "19": {
+        "source_ref": "Joshua 24:19",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 19,
+            "source_ref": "Joshua 24:19",
+            "segment_mode": "whole",
+            "sha256": "9baec5b89d2bca2508697d423596b57bf7eeb958be6a94963d533f6a6738d569"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9baec5b89d2bca2508697d423596b57bf7eeb958be6a94963d533f6a6738d569"
+      },
+      "20": {
+        "source_ref": "Joshua 24:20",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 20,
+            "source_ref": "Joshua 24:20",
+            "segment_mode": "whole",
+            "sha256": "c0f7585bd9f72599c9860966e95b543746896fbd37dc8261b7b844381d589ad4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0f7585bd9f72599c9860966e95b543746896fbd37dc8261b7b844381d589ad4"
+      },
+      "21": {
+        "source_ref": "Joshua 24:21",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 21,
+            "source_ref": "Joshua 24:21",
+            "segment_mode": "whole",
+            "sha256": "8d26775b8aec946fac3760a9bddc82aa320b82657cd842a506afb2d8d9c896d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d26775b8aec946fac3760a9bddc82aa320b82657cd842a506afb2d8d9c896d2"
+      },
+      "22": {
+        "source_ref": "Joshua 24:22",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 22,
+            "source_ref": "Joshua 24:22",
+            "segment_mode": "whole",
+            "sha256": "2d78cbafb59964e5f108e3d76ba4ae3170867cc3d3f63913d7a2a4e0836a7128"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d78cbafb59964e5f108e3d76ba4ae3170867cc3d3f63913d7a2a4e0836a7128"
+      },
+      "23": {
+        "source_ref": "Joshua 24:23",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 23,
+            "source_ref": "Joshua 24:23",
+            "segment_mode": "whole",
+            "sha256": "9281c1826db8af56125b73e7aebfa2eb3da05f034e1ebf2baa13f573d1e994c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9281c1826db8af56125b73e7aebfa2eb3da05f034e1ebf2baa13f573d1e994c6"
+      },
+      "24": {
+        "source_ref": "Joshua 24:24",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 24,
+            "source_ref": "Joshua 24:24",
+            "segment_mode": "whole",
+            "sha256": "dc9997a5d41724ee220eddc3bf02e7b58e949e5566c575324e056c3f4f230608"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc9997a5d41724ee220eddc3bf02e7b58e949e5566c575324e056c3f4f230608"
+      },
+      "25": {
+        "source_ref": "Joshua 24:25",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 25,
+            "source_ref": "Joshua 24:25",
+            "segment_mode": "whole",
+            "sha256": "755cd951ac16203e022a2ec2a818217ff88b9da0802dc4e77c1636b40760aa03"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "755cd951ac16203e022a2ec2a818217ff88b9da0802dc4e77c1636b40760aa03"
+      },
+      "26": {
+        "source_ref": "Joshua 24:26",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 26,
+            "source_ref": "Joshua 24:26",
+            "segment_mode": "whole",
+            "sha256": "0dff4d9fd797ec7f15c9d435f09c5887525b59494ea8122181835f1e71d88d3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0dff4d9fd797ec7f15c9d435f09c5887525b59494ea8122181835f1e71d88d3a"
+      },
+      "27": {
+        "source_ref": "Joshua 24:27",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 27,
+            "source_ref": "Joshua 24:27",
+            "segment_mode": "whole",
+            "sha256": "9e627868ea8901897f5b7b4a8e0e8f5daed8e5e95ec0721960bc6e4043a8a406"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e627868ea8901897f5b7b4a8e0e8f5daed8e5e95ec0721960bc6e4043a8a406"
+      },
+      "28": {
+        "source_ref": "Joshua 24:28",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 28,
+            "source_ref": "Joshua 24:28",
+            "segment_mode": "whole",
+            "sha256": "611fbbd62dceb544159a42c374d0dad6cc26ce984f84e635d351d9728e56a0b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "611fbbd62dceb544159a42c374d0dad6cc26ce984f84e635d351d9728e56a0b3"
+      },
+      "29": {
+        "source_ref": "Joshua 24:29",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 29,
+            "source_ref": "Joshua 24:29",
+            "segment_mode": "whole",
+            "sha256": "890974a1362ed2ea3c680d58753647abdfe4a81bd7910c76042ebe863c88e03b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "890974a1362ed2ea3c680d58753647abdfe4a81bd7910c76042ebe863c88e03b"
+      },
+      "30": {
+        "source_ref": "Joshua 24:30",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 30,
+            "source_ref": "Joshua 24:30",
+            "segment_mode": "whole",
+            "sha256": "32366113f255db2fdc048f5ab5683d609516bafcd14fdf1a52ce2c3894e2fd85"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32366113f255db2fdc048f5ab5683d609516bafcd14fdf1a52ce2c3894e2fd85"
+      },
+      "31": {
+        "source_ref": "Joshua 24:31",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 31,
+            "source_ref": "Joshua 24:31",
+            "segment_mode": "whole",
+            "sha256": "75e2c112c6a248cff80102c51813838fca3af71bed068c756e8e448e486b8bbc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75e2c112c6a248cff80102c51813838fca3af71bed068c756e8e448e486b8bbc"
+      },
+      "32": {
+        "source_ref": "Joshua 24:32",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 32,
+            "source_ref": "Joshua 24:32",
+            "segment_mode": "whole",
+            "sha256": "ca0f3f11543c00f3fa97cdf475b8aa3f219ed8ba206d9c309343029120b34407"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca0f3f11543c00f3fa97cdf475b8aa3f219ed8ba206d9c309343029120b34407"
+      },
+      "33": {
+        "source_ref": "Joshua 24:33",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 33,
+            "source_ref": "Joshua 24:33",
+            "segment_mode": "whole",
+            "sha256": "f4db04f415e787983c493f99da34046df97dbb27478848de8a65293df64d3a07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4db04f415e787983c493f99da34046df97dbb27478848de8a65293df64d3a07"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_24.md",
+    "blob_sha": "bd696ffaf0196dc4ac945f2d25af3960b84a05f4"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,456 @@
+{
+  "book": "Joshua",
+  "chapter": 18,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 18:1",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 1,
+            "source_ref": "Joshua 18:1",
+            "segment_mode": "whole",
+            "sha256": "ec5aadfa8f6bbf6e3417183e1a5a02207530b5767a18ab353b4e85da0b4e51e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec5aadfa8f6bbf6e3417183e1a5a02207530b5767a18ab353b4e85da0b4e51e1"
+      },
+      "2": {
+        "source_ref": "Joshua 18:2",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 2,
+            "source_ref": "Joshua 18:2",
+            "segment_mode": "whole",
+            "sha256": "e09cf31970c874d0e23bf04cc9a624c5a32794b63698fb114c03aee4a6db2c98"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e09cf31970c874d0e23bf04cc9a624c5a32794b63698fb114c03aee4a6db2c98"
+      },
+      "3": {
+        "source_ref": "Joshua 18:3",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 3,
+            "source_ref": "Joshua 18:3",
+            "segment_mode": "whole",
+            "sha256": "ff02b4f124d9cd7989588f2c8833cb7ed7af769b9d2854d6b563e65486b7b45e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff02b4f124d9cd7989588f2c8833cb7ed7af769b9d2854d6b563e65486b7b45e"
+      },
+      "4": {
+        "source_ref": "Joshua 18:4",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 4,
+            "source_ref": "Joshua 18:4",
+            "segment_mode": "whole",
+            "sha256": "76ef59dd7ac3a796eaac12f8180b18569e4bd0875e1ee4fe5a8d68ad84618593"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76ef59dd7ac3a796eaac12f8180b18569e4bd0875e1ee4fe5a8d68ad84618593"
+      },
+      "5": {
+        "source_ref": "Joshua 18:5",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 5,
+            "source_ref": "Joshua 18:5",
+            "segment_mode": "whole",
+            "sha256": "39cf1fb36255b0cd73cea2745c20bf6b7d230da22c4c5940ef602565e60f8bc2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39cf1fb36255b0cd73cea2745c20bf6b7d230da22c4c5940ef602565e60f8bc2"
+      },
+      "6": {
+        "source_ref": "Joshua 18:6",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 6,
+            "source_ref": "Joshua 18:6",
+            "segment_mode": "whole",
+            "sha256": "717bd4da4ab5120d37ad94390b5b9b29c23c6791f710440457fdb42b2f2d3b9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "717bd4da4ab5120d37ad94390b5b9b29c23c6791f710440457fdb42b2f2d3b9c"
+      },
+      "7": {
+        "source_ref": "Joshua 18:7",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 7,
+            "source_ref": "Joshua 18:7",
+            "segment_mode": "whole",
+            "sha256": "b880da14c4c88ff8f7a6ed7f8cb98b05480a4bf53a5cdd200537062981cdbd1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b880da14c4c88ff8f7a6ed7f8cb98b05480a4bf53a5cdd200537062981cdbd1c"
+      },
+      "8": {
+        "source_ref": "Joshua 18:8",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 8,
+            "source_ref": "Joshua 18:8",
+            "segment_mode": "whole",
+            "sha256": "d1cc6de95465b9f6c4ed326f33409452072cc038a5f6268d42df7f6ea0256474"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1cc6de95465b9f6c4ed326f33409452072cc038a5f6268d42df7f6ea0256474"
+      },
+      "9": {
+        "source_ref": "Joshua 18:9",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 9,
+            "source_ref": "Joshua 18:9",
+            "segment_mode": "whole",
+            "sha256": "ebc90a26ab0d9057649a492bc9d7391ef31bea46e0e0255764a3f4fe4512e5b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ebc90a26ab0d9057649a492bc9d7391ef31bea46e0e0255764a3f4fe4512e5b5"
+      },
+      "10": {
+        "source_ref": "Joshua 18:10",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 10,
+            "source_ref": "Joshua 18:10",
+            "segment_mode": "whole",
+            "sha256": "e2b3ce3e3633ee8c8b8d62f59319600f6a01ccaacf0b987700a1fc004b7e05b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2b3ce3e3633ee8c8b8d62f59319600f6a01ccaacf0b987700a1fc004b7e05b2"
+      },
+      "11": {
+        "source_ref": "Joshua 18:11",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 11,
+            "source_ref": "Joshua 18:11",
+            "segment_mode": "whole",
+            "sha256": "3643d8618b9e9685c3af745a889be2f3ccd4b3285e4ad734a27113b9a276d2a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3643d8618b9e9685c3af745a889be2f3ccd4b3285e4ad734a27113b9a276d2a9"
+      },
+      "12": {
+        "source_ref": "Joshua 18:12",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 12,
+            "source_ref": "Joshua 18:12",
+            "segment_mode": "whole",
+            "sha256": "2ffc496523adb3e606abaa113dcc5a92d4bb29326c6d9b8871e9808d5a78aae3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ffc496523adb3e606abaa113dcc5a92d4bb29326c6d9b8871e9808d5a78aae3"
+      },
+      "13": {
+        "source_ref": "Joshua 18:13",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 13,
+            "source_ref": "Joshua 18:13",
+            "segment_mode": "whole",
+            "sha256": "7b03097b0dc67263a8de400c01629b79cfe83fb5a2d3cf28cbcd45611c65c160"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b03097b0dc67263a8de400c01629b79cfe83fb5a2d3cf28cbcd45611c65c160"
+      },
+      "14": {
+        "source_ref": "Joshua 18:14",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 14,
+            "source_ref": "Joshua 18:14",
+            "segment_mode": "whole",
+            "sha256": "bc94467a6a9b3f6376c3d1554c6681c2ecc8777e884705ba3e171175e5f5d557"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc94467a6a9b3f6376c3d1554c6681c2ecc8777e884705ba3e171175e5f5d557"
+      },
+      "15": {
+        "source_ref": "Joshua 18:15",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 15,
+            "source_ref": "Joshua 18:15",
+            "segment_mode": "whole",
+            "sha256": "8362e0833c1bef363b9344514a6551e5c55117c00b9c18a57e2eeb035dd62fbe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8362e0833c1bef363b9344514a6551e5c55117c00b9c18a57e2eeb035dd62fbe"
+      },
+      "16": {
+        "source_ref": "Joshua 18:16",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 16,
+            "source_ref": "Joshua 18:16",
+            "segment_mode": "whole",
+            "sha256": "9ff77c52213f1ff14daacfd2aa143c0f2546d9269bc3cda5c7154117f859bfa4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ff77c52213f1ff14daacfd2aa143c0f2546d9269bc3cda5c7154117f859bfa4"
+      },
+      "17": {
+        "source_ref": "Joshua 18:17",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 17,
+            "source_ref": "Joshua 18:17",
+            "segment_mode": "whole",
+            "sha256": "f37d2217f459f947cd395604786c81f5434364064bb29bf5d1669c71b8bd8639"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f37d2217f459f947cd395604786c81f5434364064bb29bf5d1669c71b8bd8639"
+      },
+      "18": {
+        "source_ref": "Joshua 18:18",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 18,
+            "source_ref": "Joshua 18:18",
+            "segment_mode": "whole",
+            "sha256": "3fb2b939688fba50f8036938f0636140bff8f70859f1af105c656883cc2ff5d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3fb2b939688fba50f8036938f0636140bff8f70859f1af105c656883cc2ff5d3"
+      },
+      "19": {
+        "source_ref": "Joshua 18:19",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 19,
+            "source_ref": "Joshua 18:19",
+            "segment_mode": "whole",
+            "sha256": "6512e043f59db852ec97ed5cbff8b482a03fa5938ecd39754ac2881a66e3bdd9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6512e043f59db852ec97ed5cbff8b482a03fa5938ecd39754ac2881a66e3bdd9"
+      },
+      "20": {
+        "source_ref": "Joshua 18:20",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 20,
+            "source_ref": "Joshua 18:20",
+            "segment_mode": "whole",
+            "sha256": "f0497fc34b62767d8a9dea8a95c7e0ff9763b57caaf71dbe6594e1d330e72edb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0497fc34b62767d8a9dea8a95c7e0ff9763b57caaf71dbe6594e1d330e72edb"
+      },
+      "21": {
+        "source_ref": "Joshua 18:21",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 21,
+            "source_ref": "Joshua 18:21",
+            "segment_mode": "whole",
+            "sha256": "88fba341f10dc1528fcb073c66ecdd612132e35ebb5ef1836d5bd6723da5b1be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88fba341f10dc1528fcb073c66ecdd612132e35ebb5ef1836d5bd6723da5b1be"
+      },
+      "22": {
+        "source_ref": "Joshua 18:22",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 22,
+            "source_ref": "Joshua 18:22",
+            "segment_mode": "whole",
+            "sha256": "fd05e6a6df373cdfa0101da80c63849bcacc96aa7c4b989e4b2e31cf8f309f6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd05e6a6df373cdfa0101da80c63849bcacc96aa7c4b989e4b2e31cf8f309f6c"
+      },
+      "23": {
+        "source_ref": "Joshua 18:23",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 23,
+            "source_ref": "Joshua 18:23",
+            "segment_mode": "whole",
+            "sha256": "e14e46045ce43efb49438a82116294f56a6fc9446dae12ab6dd3bceef6744c6e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e14e46045ce43efb49438a82116294f56a6fc9446dae12ab6dd3bceef6744c6e"
+      },
+      "24": {
+        "source_ref": "Joshua 18:24",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 24,
+            "source_ref": "Joshua 18:24",
+            "segment_mode": "whole",
+            "sha256": "7368dc0962f24f20861704571970322c1cc7bc92184e198afebae942204aa2e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7368dc0962f24f20861704571970322c1cc7bc92184e198afebae942204aa2e0"
+      },
+      "25": {
+        "source_ref": "Joshua 18:25",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 25,
+            "source_ref": "Joshua 18:25",
+            "segment_mode": "whole",
+            "sha256": "7e09815c61f5cc26f27f162bc3fc254636f192d76a7c60e65e1207de6ddcb0e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e09815c61f5cc26f27f162bc3fc254636f192d76a7c60e65e1207de6ddcb0e7"
+      },
+      "26": {
+        "source_ref": "Joshua 18:26",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 26,
+            "source_ref": "Joshua 18:26",
+            "segment_mode": "whole",
+            "sha256": "b2b9a479906be83448c51f33079f120a6f22d28fa524270251b0d5146b7a0f32"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2b9a479906be83448c51f33079f120a6f22d28fa524270251b0d5146b7a0f32"
+      },
+      "27": {
+        "source_ref": "Joshua 18:27",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 27,
+            "source_ref": "Joshua 18:27",
+            "segment_mode": "whole",
+            "sha256": "1bb004e0e6917c1c3ea2c3a9837b8cc3ed0b31ffd030bd8db8214d4c7f92a2c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1bb004e0e6917c1c3ea2c3a9837b8cc3ed0b31ffd030bd8db8214d4c7f92a2c5"
+      },
+      "28": {
+        "source_ref": "Joshua 18:28",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 28,
+            "source_ref": "Joshua 18:28",
+            "segment_mode": "whole",
+            "sha256": "23bd85eea876349758426bb2515d819179e35aefe431154f0538ede9f0fbeda7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23bd85eea876349758426bb2515d819179e35aefe431154f0538ede9f0fbeda7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_18.md",
+    "blob_sha": "29d80953cb40b3c76cacf22a22ec122db1431585"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

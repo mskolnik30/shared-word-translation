@@ -1,0 +1,306 @@
+{
+  "book": "Joshua",
+  "chapter": 17,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 17:1",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 1,
+            "source_ref": "Joshua 17:1",
+            "segment_mode": "whole",
+            "sha256": "077db25bbfc8e84c438e4db4144659be4485d1e88c12b4fae111cbc49f92e25d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "077db25bbfc8e84c438e4db4144659be4485d1e88c12b4fae111cbc49f92e25d"
+      },
+      "2": {
+        "source_ref": "Joshua 17:2",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 2,
+            "source_ref": "Joshua 17:2",
+            "segment_mode": "whole",
+            "sha256": "885a7452b34c442763f95cc941c1ee5eb25b7abf97b627b1ad2e59e6b1b0416d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "885a7452b34c442763f95cc941c1ee5eb25b7abf97b627b1ad2e59e6b1b0416d"
+      },
+      "3": {
+        "source_ref": "Joshua 17:3",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 3,
+            "source_ref": "Joshua 17:3",
+            "segment_mode": "whole",
+            "sha256": "4db9b569ad1cb39b6e30eb582df60213828e9b2844f1ccc0d37033e729831a43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4db9b569ad1cb39b6e30eb582df60213828e9b2844f1ccc0d37033e729831a43"
+      },
+      "4": {
+        "source_ref": "Joshua 17:4",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 4,
+            "source_ref": "Joshua 17:4",
+            "segment_mode": "whole",
+            "sha256": "18ba6cfd5d8b1899e71edb9698273b58ae5f32903c2c7170b69df4afbe862731"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18ba6cfd5d8b1899e71edb9698273b58ae5f32903c2c7170b69df4afbe862731"
+      },
+      "5": {
+        "source_ref": "Joshua 17:5",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 5,
+            "source_ref": "Joshua 17:5",
+            "segment_mode": "whole",
+            "sha256": "941ea50e9863e785ef558a643476697161cff30ed8eddf1d638bd2a33280578d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "941ea50e9863e785ef558a643476697161cff30ed8eddf1d638bd2a33280578d"
+      },
+      "6": {
+        "source_ref": "Joshua 17:6",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 6,
+            "source_ref": "Joshua 17:6",
+            "segment_mode": "whole",
+            "sha256": "da733e021d2f01c4e0a0563cd99c282307f44e313c8d90786836244b9d4df579"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da733e021d2f01c4e0a0563cd99c282307f44e313c8d90786836244b9d4df579"
+      },
+      "7": {
+        "source_ref": "Joshua 17:7",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 7,
+            "source_ref": "Joshua 17:7",
+            "segment_mode": "whole",
+            "sha256": "ec749499d9e0e399a5420c226f81b33405382005763547500ff0a180d34823a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec749499d9e0e399a5420c226f81b33405382005763547500ff0a180d34823a7"
+      },
+      "8": {
+        "source_ref": "Joshua 17:8",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 8,
+            "source_ref": "Joshua 17:8",
+            "segment_mode": "whole",
+            "sha256": "e5cbd07e3cf1a9558650752bb57d2f23cb13634bb6131fed48ee346fda63ce46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5cbd07e3cf1a9558650752bb57d2f23cb13634bb6131fed48ee346fda63ce46"
+      },
+      "9": {
+        "source_ref": "Joshua 17:9",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 9,
+            "source_ref": "Joshua 17:9",
+            "segment_mode": "whole",
+            "sha256": "581cd5372d08318a42a058ff270b40766746ef7e2b9f3f33e5ceacbd91660334"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "581cd5372d08318a42a058ff270b40766746ef7e2b9f3f33e5ceacbd91660334"
+      },
+      "10": {
+        "source_ref": "Joshua 17:10",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 10,
+            "source_ref": "Joshua 17:10",
+            "segment_mode": "whole",
+            "sha256": "9982779d88c6948e478f1816361e3acce4f1bc7fb6e79e17aa56f92c9a694184"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9982779d88c6948e478f1816361e3acce4f1bc7fb6e79e17aa56f92c9a694184"
+      },
+      "11": {
+        "source_ref": "Joshua 17:11",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 11,
+            "source_ref": "Joshua 17:11",
+            "segment_mode": "whole",
+            "sha256": "43520ba4611e5ff7ae84a84c37e1005ed5fcb6a85a4b66408306cde3ff0d7e67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43520ba4611e5ff7ae84a84c37e1005ed5fcb6a85a4b66408306cde3ff0d7e67"
+      },
+      "12": {
+        "source_ref": "Joshua 17:12",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 12,
+            "source_ref": "Joshua 17:12",
+            "segment_mode": "whole",
+            "sha256": "04750a9fe82cdc2fec492956c7d29550cb18ae26b54c23c183cd751a0cd76e30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04750a9fe82cdc2fec492956c7d29550cb18ae26b54c23c183cd751a0cd76e30"
+      },
+      "13": {
+        "source_ref": "Joshua 17:13",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 13,
+            "source_ref": "Joshua 17:13",
+            "segment_mode": "whole",
+            "sha256": "9257319f251fc7ecdf24eabe1d05ac1688d54ad3cd72ef4182308a9a1c288d58"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9257319f251fc7ecdf24eabe1d05ac1688d54ad3cd72ef4182308a9a1c288d58"
+      },
+      "14": {
+        "source_ref": "Joshua 17:14",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 14,
+            "source_ref": "Joshua 17:14",
+            "segment_mode": "whole",
+            "sha256": "6b794c1867853a7006f3f134bcd4ea94e1c878ba4db26a124853d538fbf30573"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b794c1867853a7006f3f134bcd4ea94e1c878ba4db26a124853d538fbf30573"
+      },
+      "15": {
+        "source_ref": "Joshua 17:15",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 15,
+            "source_ref": "Joshua 17:15",
+            "segment_mode": "whole",
+            "sha256": "999c5d3893af06c5a8f7322d9824332870c8f182311fa7ccc6172d4e1456ebc7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "999c5d3893af06c5a8f7322d9824332870c8f182311fa7ccc6172d4e1456ebc7"
+      },
+      "16": {
+        "source_ref": "Joshua 17:16",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 16,
+            "source_ref": "Joshua 17:16",
+            "segment_mode": "whole",
+            "sha256": "c1dfe7bd1acd302f8949b8448d327f937aedc2fb1f063d9e6bfe2560a57bc76b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1dfe7bd1acd302f8949b8448d327f937aedc2fb1f063d9e6bfe2560a57bc76b"
+      },
+      "17": {
+        "source_ref": "Joshua 17:17",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 17,
+            "source_ref": "Joshua 17:17",
+            "segment_mode": "whole",
+            "sha256": "55aa67766c90c088ae14471ccb6476e97fb97dee7fe3bffa9bb875d9e6d8f6a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "55aa67766c90c088ae14471ccb6476e97fb97dee7fe3bffa9bb875d9e6d8f6a6"
+      },
+      "18": {
+        "source_ref": "Joshua 17:18",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 18,
+            "source_ref": "Joshua 17:18",
+            "segment_mode": "whole",
+            "sha256": "4684ab4aaecfac68d44a9f198fdc2aa492259d95e72c7cb51a9dce44528b0018"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4684ab4aaecfac68d44a9f198fdc2aa492259d95e72c7cb51a9dce44528b0018"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_17.md",
+    "blob_sha": "1e63d15effd2a432791855063d15f851dd8cec32"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

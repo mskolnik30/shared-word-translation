@@ -1,0 +1,171 @@
+{
+  "book": "Joshua",
+  "chapter": 20,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 20:1",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 1,
+            "source_ref": "Joshua 20:1",
+            "segment_mode": "whole",
+            "sha256": "0d909863e1df401725fb8baf1dfc6464c7c54fe626d64de125e039a5758dc0b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d909863e1df401725fb8baf1dfc6464c7c54fe626d64de125e039a5758dc0b4"
+      },
+      "2": {
+        "source_ref": "Joshua 20:2",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 2,
+            "source_ref": "Joshua 20:2",
+            "segment_mode": "whole",
+            "sha256": "8fc4f616bf669ebb5f5ab291ea27369dbd1ccf21bcf18e1ac31859579657932e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fc4f616bf669ebb5f5ab291ea27369dbd1ccf21bcf18e1ac31859579657932e"
+      },
+      "3": {
+        "source_ref": "Joshua 20:3",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 3,
+            "source_ref": "Joshua 20:3",
+            "segment_mode": "whole",
+            "sha256": "cfa5491ab22809036609fd9e79a02b30e6ce9010bdb296f0d384b28f27bd9598"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cfa5491ab22809036609fd9e79a02b30e6ce9010bdb296f0d384b28f27bd9598"
+      },
+      "4": {
+        "source_ref": "Joshua 20:4",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 4,
+            "source_ref": "Joshua 20:4",
+            "segment_mode": "whole",
+            "sha256": "7b6364b94e93c22394b222fe440c7234f41ca1ba1409876e113a9c22f676f8d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b6364b94e93c22394b222fe440c7234f41ca1ba1409876e113a9c22f676f8d5"
+      },
+      "5": {
+        "source_ref": "Joshua 20:5",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 5,
+            "source_ref": "Joshua 20:5",
+            "segment_mode": "whole",
+            "sha256": "840f14a046a35102b16844453d72b71dd14fecce27e39934ab6751f787bc46c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "840f14a046a35102b16844453d72b71dd14fecce27e39934ab6751f787bc46c7"
+      },
+      "6": {
+        "source_ref": "Joshua 20:6",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 6,
+            "source_ref": "Joshua 20:6",
+            "segment_mode": "whole",
+            "sha256": "91819b2eaa6a82f9ac0ce90bcd164b5b98d5db512445ff1f84344b6d9544a82f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91819b2eaa6a82f9ac0ce90bcd164b5b98d5db512445ff1f84344b6d9544a82f"
+      },
+      "7": {
+        "source_ref": "Joshua 20:7",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 7,
+            "source_ref": "Joshua 20:7",
+            "segment_mode": "whole",
+            "sha256": "ccde147f424c8425b122f9995ffb498edaf6eafddaf6638c34130bf2322be558"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ccde147f424c8425b122f9995ffb498edaf6eafddaf6638c34130bf2322be558"
+      },
+      "8": {
+        "source_ref": "Joshua 20:8",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 8,
+            "source_ref": "Joshua 20:8",
+            "segment_mode": "whole",
+            "sha256": "43809ab8e7f877d8515a3b3daa4be4ecaf5b06a2aeb116321231f01162d9da79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43809ab8e7f877d8515a3b3daa4be4ecaf5b06a2aeb116321231f01162d9da79"
+      },
+      "9": {
+        "source_ref": "Joshua 20:9",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 9,
+            "source_ref": "Joshua 20:9",
+            "segment_mode": "whole",
+            "sha256": "54e9f7bef1320962de47e1ebe62b82a4f0334878e26d845965210a9843bccb4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54e9f7bef1320962de47e1ebe62b82a4f0334878e26d845965210a9843bccb4e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_20.md",
+    "blob_sha": "54e130e3da5aa81624af0b763020b60936317c83"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
