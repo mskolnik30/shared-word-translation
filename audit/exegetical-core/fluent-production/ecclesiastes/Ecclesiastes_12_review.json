@@ -1,0 +1,252 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 12,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "12:1-14",
+      "decision": "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ecclesiastes 12:1",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 1,
+            "source_ref": "Ecclesiastes 12:1",
+            "segment_mode": "whole",
+            "sha256": "456e3507fc6fb33595d5e130a06749ee837e10169d0cebef5f2b57ac95f6cf29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "456e3507fc6fb33595d5e130a06749ee837e10169d0cebef5f2b57ac95f6cf29"
+      },
+      "2": {
+        "source_ref": "Ecclesiastes 12:2",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 2,
+            "source_ref": "Ecclesiastes 12:2",
+            "segment_mode": "whole",
+            "sha256": "b05bad15316b42fbd7291f2083a20d161a6ce7ea315b93e63ee32cfde863a494"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b05bad15316b42fbd7291f2083a20d161a6ce7ea315b93e63ee32cfde863a494"
+      },
+      "3": {
+        "source_ref": "Ecclesiastes 12:3",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 3,
+            "source_ref": "Ecclesiastes 12:3",
+            "segment_mode": "whole",
+            "sha256": "29375d7d081b30db1ce6e51cda0cee80f21eb72ffaf5df67e0b88eb3bfc87ace"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "29375d7d081b30db1ce6e51cda0cee80f21eb72ffaf5df67e0b88eb3bfc87ace"
+      },
+      "4": {
+        "source_ref": "Ecclesiastes 12:4",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 4,
+            "source_ref": "Ecclesiastes 12:4",
+            "segment_mode": "whole",
+            "sha256": "d9ff5438330484530e2eb4b6f3d7d4c9618171d40dd3f44a7feb5ed1fc4b2c14"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9ff5438330484530e2eb4b6f3d7d4c9618171d40dd3f44a7feb5ed1fc4b2c14"
+      },
+      "5": {
+        "source_ref": "Ecclesiastes 12:5",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 5,
+            "source_ref": "Ecclesiastes 12:5",
+            "segment_mode": "whole",
+            "sha256": "3a9117a34ab14aaff8fc2cf6e2ec129bebba836a680453ebff3b80a21e8ec494"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a9117a34ab14aaff8fc2cf6e2ec129bebba836a680453ebff3b80a21e8ec494"
+      },
+      "6": {
+        "source_ref": "Ecclesiastes 12:6",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 6,
+            "source_ref": "Ecclesiastes 12:6",
+            "segment_mode": "whole",
+            "sha256": "1f3e9b5824fe656afabe5e552c20b433ee5466bddcb9a9ea88f4c8acc6dc7cda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f3e9b5824fe656afabe5e552c20b433ee5466bddcb9a9ea88f4c8acc6dc7cda"
+      },
+      "7": {
+        "source_ref": "Ecclesiastes 12:7",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 7,
+            "source_ref": "Ecclesiastes 12:7",
+            "segment_mode": "whole",
+            "sha256": "c72d712c3617633340965ecd6fe1bc279edec8b27cfe9e0cfbc35dc25090217f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c72d712c3617633340965ecd6fe1bc279edec8b27cfe9e0cfbc35dc25090217f"
+      },
+      "8": {
+        "source_ref": "Ecclesiastes 12:8",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 8,
+            "source_ref": "Ecclesiastes 12:8",
+            "segment_mode": "whole",
+            "sha256": "5e45e6b94cda89adc7df224c7fb2e27a7b409782d5a41baff4b5d0c5691c6b75"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e45e6b94cda89adc7df224c7fb2e27a7b409782d5a41baff4b5d0c5691c6b75"
+      },
+      "9": {
+        "source_ref": "Ecclesiastes 12:9",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 9,
+            "source_ref": "Ecclesiastes 12:9",
+            "segment_mode": "whole",
+            "sha256": "8856526923cf1cfab61dd204f577727d57c91e50607f966f6ebf12b576e20a1f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8856526923cf1cfab61dd204f577727d57c91e50607f966f6ebf12b576e20a1f"
+      },
+      "10": {
+        "source_ref": "Ecclesiastes 12:10",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 10,
+            "source_ref": "Ecclesiastes 12:10",
+            "segment_mode": "whole",
+            "sha256": "d8b1069a25b051789dae6f77179d88c7d41b42a140a073155d7cec0b9aad847c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8b1069a25b051789dae6f77179d88c7d41b42a140a073155d7cec0b9aad847c"
+      },
+      "11": {
+        "source_ref": "Ecclesiastes 12:11",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 11,
+            "source_ref": "Ecclesiastes 12:11",
+            "segment_mode": "whole",
+            "sha256": "f4b56017ed6c6db70dada06b2b2952bac291b894bf32d2e6ef989a85f8cd900b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4b56017ed6c6db70dada06b2b2952bac291b894bf32d2e6ef989a85f8cd900b"
+      },
+      "12": {
+        "source_ref": "Ecclesiastes 12:12",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 12,
+            "source_ref": "Ecclesiastes 12:12",
+            "segment_mode": "whole",
+            "sha256": "4350bcf2e111196ec6480baaf9b7844f586982a9b5e40b03276895cdc4a8b31a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4350bcf2e111196ec6480baaf9b7844f586982a9b5e40b03276895cdc4a8b31a"
+      },
+      "13": {
+        "source_ref": "Ecclesiastes 12:13",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 13,
+            "source_ref": "Ecclesiastes 12:13",
+            "segment_mode": "whole",
+            "sha256": "c01bcdd38f31453b7bc85fc40d084073e5cca61e07b02ba99eb91464c0a2398e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c01bcdd38f31453b7bc85fc40d084073e5cca61e07b02ba99eb91464c0a2398e"
+      },
+      "14": {
+        "source_ref": "Ecclesiastes 12:14",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 14,
+            "source_ref": "Ecclesiastes 12:14",
+            "segment_mode": "whole",
+            "sha256": "3796fc187ce7d6c168ff0fdee8e306dd9a83a56401bde2e6e2838fd9280f9097"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3796fc187ce7d6c168ff0fdee8e306dd9a83a56401bde2e6e2838fd9280f9097"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ecclesiastes/Ecclesiastes_12.md",
+    "blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,377 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "3:1-15",
+      "decision": "Preserve the time poem and divine sovereignty without turning every named event into an ethical command.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:16-4:3",
+      "decision": "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ecclesiastes 3:1",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 1,
+            "source_ref": "Ecclesiastes 3:1",
+            "segment_mode": "whole",
+            "sha256": "5d66f68129413d49716b0d603b3c89190ed58d2bdd088bd50a3799e6f23e196a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5d66f68129413d49716b0d603b3c89190ed58d2bdd088bd50a3799e6f23e196a"
+      },
+      "2": {
+        "source_ref": "Ecclesiastes 3:2",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 2,
+            "source_ref": "Ecclesiastes 3:2",
+            "segment_mode": "whole",
+            "sha256": "3f3af12784b5e356655985e56a56a8c75223db8106cf37903e09c088e2bf520c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f3af12784b5e356655985e56a56a8c75223db8106cf37903e09c088e2bf520c"
+      },
+      "3": {
+        "source_ref": "Ecclesiastes 3:3",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 3,
+            "source_ref": "Ecclesiastes 3:3",
+            "segment_mode": "whole",
+            "sha256": "8bb080be22887e0074594fb9f30f5e6fe5c482febd02be6c0b99e77b99165c7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8bb080be22887e0074594fb9f30f5e6fe5c482febd02be6c0b99e77b99165c7b"
+      },
+      "4": {
+        "source_ref": "Ecclesiastes 3:4",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 4,
+            "source_ref": "Ecclesiastes 3:4",
+            "segment_mode": "whole",
+            "sha256": "235b2aea14343e282af33ca40b8ad3a73227ff34ad5f70dad90e3b88c3b64faf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "235b2aea14343e282af33ca40b8ad3a73227ff34ad5f70dad90e3b88c3b64faf"
+      },
+      "5": {
+        "source_ref": "Ecclesiastes 3:5",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 5,
+            "source_ref": "Ecclesiastes 3:5",
+            "segment_mode": "whole",
+            "sha256": "024faad57dfc17913765d993c39941ab7f78affd77fa6e5785d923381822f294"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "024faad57dfc17913765d993c39941ab7f78affd77fa6e5785d923381822f294"
+      },
+      "6": {
+        "source_ref": "Ecclesiastes 3:6",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 6,
+            "source_ref": "Ecclesiastes 3:6",
+            "segment_mode": "whole",
+            "sha256": "d286db36c3808d6e43db55eb93340eabb0cc7091a970b5b454e87a59c674172d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d286db36c3808d6e43db55eb93340eabb0cc7091a970b5b454e87a59c674172d"
+      },
+      "7": {
+        "source_ref": "Ecclesiastes 3:7",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 7,
+            "source_ref": "Ecclesiastes 3:7",
+            "segment_mode": "whole",
+            "sha256": "467b14c2c2e8530e902afbe0c6cc7721cb1c830dd4cce61dfc9577bf1ba0532f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "467b14c2c2e8530e902afbe0c6cc7721cb1c830dd4cce61dfc9577bf1ba0532f"
+      },
+      "8": {
+        "source_ref": "Ecclesiastes 3:8",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 8,
+            "source_ref": "Ecclesiastes 3:8",
+            "segment_mode": "whole",
+            "sha256": "1539e9a8d38e988382521b4fbbc3278bb30c3cae07b810a65ef452217260d0a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1539e9a8d38e988382521b4fbbc3278bb30c3cae07b810a65ef452217260d0a5"
+      },
+      "9": {
+        "source_ref": "Ecclesiastes 3:9",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 9,
+            "source_ref": "Ecclesiastes 3:9",
+            "segment_mode": "whole",
+            "sha256": "b61c694ef203ef35c52dc40f0c0753f6a21d9363a4b8d67d9fcc1f5442ba6003"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b61c694ef203ef35c52dc40f0c0753f6a21d9363a4b8d67d9fcc1f5442ba6003"
+      },
+      "10": {
+        "source_ref": "Ecclesiastes 3:10",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 10,
+            "source_ref": "Ecclesiastes 3:10",
+            "segment_mode": "whole",
+            "sha256": "d5bccf31fdaec71a46443a3d5f163a09bff6e86d74c9f195a9ad83c364e36172"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5bccf31fdaec71a46443a3d5f163a09bff6e86d74c9f195a9ad83c364e36172"
+      },
+      "11": {
+        "source_ref": "Ecclesiastes 3:11",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 11,
+            "source_ref": "Ecclesiastes 3:11",
+            "segment_mode": "whole",
+            "sha256": "ea60c575a0ed0f6000175355c4bcedd7aa8c1fdc854ffeb6deade1de13a3c4c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea60c575a0ed0f6000175355c4bcedd7aa8c1fdc854ffeb6deade1de13a3c4c6"
+      },
+      "12": {
+        "source_ref": "Ecclesiastes 3:12",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 12,
+            "source_ref": "Ecclesiastes 3:12",
+            "segment_mode": "whole",
+            "sha256": "027366701add1016c9237ba1536f4267ea6fc013e89ab01950d1fbf7b8fe2cc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "027366701add1016c9237ba1536f4267ea6fc013e89ab01950d1fbf7b8fe2cc4"
+      },
+      "13": {
+        "source_ref": "Ecclesiastes 3:13",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 13,
+            "source_ref": "Ecclesiastes 3:13",
+            "segment_mode": "whole",
+            "sha256": "9077dc46f11e98579d4d937d83d9bad6c10e43af47424888bfcb8375f7740886"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9077dc46f11e98579d4d937d83d9bad6c10e43af47424888bfcb8375f7740886"
+      },
+      "14": {
+        "source_ref": "Ecclesiastes 3:14",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 14,
+            "source_ref": "Ecclesiastes 3:14",
+            "segment_mode": "whole",
+            "sha256": "76c8046dec186503c10b66a9784761b5026a477f3d6be66ac78f1b243e4a4627"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76c8046dec186503c10b66a9784761b5026a477f3d6be66ac78f1b243e4a4627"
+      },
+      "15": {
+        "source_ref": "Ecclesiastes 3:15",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 15,
+            "source_ref": "Ecclesiastes 3:15",
+            "segment_mode": "whole",
+            "sha256": "7b0e1532949c5243c11233540cd86a6b0548273cfb7364361b57d1fbed6b2a93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b0e1532949c5243c11233540cd86a6b0548273cfb7364361b57d1fbed6b2a93"
+      },
+      "16": {
+        "source_ref": "Ecclesiastes 3:16",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 16,
+            "source_ref": "Ecclesiastes 3:16",
+            "segment_mode": "whole",
+            "sha256": "af86f035829cc1cf9416e0b9a0e4f3c13cd59090c8c867f747ee989c7189020d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af86f035829cc1cf9416e0b9a0e4f3c13cd59090c8c867f747ee989c7189020d"
+      },
+      "17": {
+        "source_ref": "Ecclesiastes 3:17",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 17,
+            "source_ref": "Ecclesiastes 3:17",
+            "segment_mode": "whole",
+            "sha256": "8f89e8eb90ac9d1ed156230a444a55b4011f0c367aa44b2cdac12c0062d442f7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f89e8eb90ac9d1ed156230a444a55b4011f0c367aa44b2cdac12c0062d442f7"
+      },
+      "18": {
+        "source_ref": "Ecclesiastes 3:18",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 18,
+            "source_ref": "Ecclesiastes 3:18",
+            "segment_mode": "whole",
+            "sha256": "c0b57d1407fc037cb69c7eafb45cd0bf9e0e3a65463b57dd9f6f9c5ae12d725d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0b57d1407fc037cb69c7eafb45cd0bf9e0e3a65463b57dd9f6f9c5ae12d725d"
+      },
+      "19": {
+        "source_ref": "Ecclesiastes 3:19",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 19,
+            "source_ref": "Ecclesiastes 3:19",
+            "segment_mode": "whole",
+            "sha256": "f7708ebdaf8e636fc1fa8284b62da81219f11aa5f47e2bea9f81e4a74d19cc57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f7708ebdaf8e636fc1fa8284b62da81219f11aa5f47e2bea9f81e4a74d19cc57"
+      },
+      "20": {
+        "source_ref": "Ecclesiastes 3:20",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 20,
+            "source_ref": "Ecclesiastes 3:20",
+            "segment_mode": "whole",
+            "sha256": "c2bfe4141cbddf1bcf21f78152e2fc5828ec30e15c55fb1210165df41a153155"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2bfe4141cbddf1bcf21f78152e2fc5828ec30e15c55fb1210165df41a153155"
+      },
+      "21": {
+        "source_ref": "Ecclesiastes 3:21",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 21,
+            "source_ref": "Ecclesiastes 3:21",
+            "segment_mode": "whole",
+            "sha256": "ee6d299179a2305715497695fa9397d517d7e24ffc8acee82dd9e87ef7f222e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee6d299179a2305715497695fa9397d517d7e24ffc8acee82dd9e87ef7f222e3"
+      },
+      "22": {
+        "source_ref": "Ecclesiastes 3:22",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 22,
+            "source_ref": "Ecclesiastes 3:22",
+            "segment_mode": "whole",
+            "sha256": "e1cac537ec33300f93688ce6a6445aad4806c2db8f8705b6772dfd72b255cc4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1cac537ec33300f93688ce6a6445aad4806c2db8f8705b6772dfd72b255cc4e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ecclesiastes/Ecclesiastes_03.md",
+    "blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

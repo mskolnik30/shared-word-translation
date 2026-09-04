@@ -1,0 +1,312 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-11",
+      "decision": "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ecclesiastes 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Ecclesiastes 1:1",
+            "segment_mode": "whole",
+            "sha256": "c473553f8ad7834f76fd1ffada1af95da2b7ea3c55c944369d42637bd50b7b68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c473553f8ad7834f76fd1ffada1af95da2b7ea3c55c944369d42637bd50b7b68"
+      },
+      "2": {
+        "source_ref": "Ecclesiastes 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Ecclesiastes 1:2",
+            "segment_mode": "whole",
+            "sha256": "71d4562ce9d30b5f49d15910d81c8145921c64dbfa042aec527647bb3dbae657"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71d4562ce9d30b5f49d15910d81c8145921c64dbfa042aec527647bb3dbae657"
+      },
+      "3": {
+        "source_ref": "Ecclesiastes 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Ecclesiastes 1:3",
+            "segment_mode": "whole",
+            "sha256": "2b0cef931e7604ce5bae37bf0b68c3c2981615ec67bab078a0a1c187f264913d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b0cef931e7604ce5bae37bf0b68c3c2981615ec67bab078a0a1c187f264913d"
+      },
+      "4": {
+        "source_ref": "Ecclesiastes 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Ecclesiastes 1:4",
+            "segment_mode": "whole",
+            "sha256": "d9cce9e93d02787df1d9976d282edb12c84ee0695135196de674b431f0b7efbc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9cce9e93d02787df1d9976d282edb12c84ee0695135196de674b431f0b7efbc"
+      },
+      "5": {
+        "source_ref": "Ecclesiastes 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Ecclesiastes 1:5",
+            "segment_mode": "whole",
+            "sha256": "ca3c163f26e9e35e31b4b914a0fb798a187e805d6b550f87cc7a2316e06b608b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca3c163f26e9e35e31b4b914a0fb798a187e805d6b550f87cc7a2316e06b608b"
+      },
+      "6": {
+        "source_ref": "Ecclesiastes 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Ecclesiastes 1:6",
+            "segment_mode": "whole",
+            "sha256": "034cae5e4e0b758a1d582a8ec1dd2b740a8e79cfa2af482e2259d0115cd3d882"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "034cae5e4e0b758a1d582a8ec1dd2b740a8e79cfa2af482e2259d0115cd3d882"
+      },
+      "7": {
+        "source_ref": "Ecclesiastes 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Ecclesiastes 1:7",
+            "segment_mode": "whole",
+            "sha256": "3ae778d6a8a893caa736da5145c9cd60019f027ce0e29b5e7dcbe17b33c26538"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ae778d6a8a893caa736da5145c9cd60019f027ce0e29b5e7dcbe17b33c26538"
+      },
+      "8": {
+        "source_ref": "Ecclesiastes 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Ecclesiastes 1:8",
+            "segment_mode": "whole",
+            "sha256": "17ae1e5f1424519ff5f2244b65fd94920f425412430aeeaa72f832aae4b255d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17ae1e5f1424519ff5f2244b65fd94920f425412430aeeaa72f832aae4b255d4"
+      },
+      "9": {
+        "source_ref": "Ecclesiastes 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Ecclesiastes 1:9",
+            "segment_mode": "whole",
+            "sha256": "8ce653bed0605395e28de19c2099a80293b5eda1ca8c5c79d760389df3c26a61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ce653bed0605395e28de19c2099a80293b5eda1ca8c5c79d760389df3c26a61"
+      },
+      "10": {
+        "source_ref": "Ecclesiastes 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Ecclesiastes 1:10",
+            "segment_mode": "whole",
+            "sha256": "4a86ee20427754a64da057534e5e7f51ba60694601a62bc0c024920a26c6e6fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a86ee20427754a64da057534e5e7f51ba60694601a62bc0c024920a26c6e6fb"
+      },
+      "11": {
+        "source_ref": "Ecclesiastes 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Ecclesiastes 1:11",
+            "segment_mode": "whole",
+            "sha256": "8c7bddc18689382a3b67411a6400c573b3adac90d31c841d6a9767b5f5d7cd9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c7bddc18689382a3b67411a6400c573b3adac90d31c841d6a9767b5f5d7cd9a"
+      },
+      "12": {
+        "source_ref": "Ecclesiastes 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Ecclesiastes 1:12",
+            "segment_mode": "whole",
+            "sha256": "07a2084610e8a3e7cd5e77ff0d0ef1e9cbeb5b7fb349698235d82b5db50383b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07a2084610e8a3e7cd5e77ff0d0ef1e9cbeb5b7fb349698235d82b5db50383b5"
+      },
+      "13": {
+        "source_ref": "Ecclesiastes 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Ecclesiastes 1:13",
+            "segment_mode": "whole",
+            "sha256": "a3c3e9389bb37d2780f42114bf35cdfd05592c656ec9f10c8157faa3299ac301"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3c3e9389bb37d2780f42114bf35cdfd05592c656ec9f10c8157faa3299ac301"
+      },
+      "14": {
+        "source_ref": "Ecclesiastes 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Ecclesiastes 1:14",
+            "segment_mode": "whole",
+            "sha256": "a63152ebe046225e5b30b478689da09c525dbcb4b2329e58a1b3d8482238d951"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a63152ebe046225e5b30b478689da09c525dbcb4b2329e58a1b3d8482238d951"
+      },
+      "15": {
+        "source_ref": "Ecclesiastes 1:15",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Ecclesiastes 1:15",
+            "segment_mode": "whole",
+            "sha256": "9cf1d7a571a176c9c99afba978e8e71c7b497bda80baacda7f8d08e98c2c6e4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9cf1d7a571a176c9c99afba978e8e71c7b497bda80baacda7f8d08e98c2c6e4a"
+      },
+      "16": {
+        "source_ref": "Ecclesiastes 1:16",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Ecclesiastes 1:16",
+            "segment_mode": "whole",
+            "sha256": "4392733ed83006f7cd25add5dd51c7859e15c08b5cf8b92c19fbee7d7c191c82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4392733ed83006f7cd25add5dd51c7859e15c08b5cf8b92c19fbee7d7c191c82"
+      },
+      "17": {
+        "source_ref": "Ecclesiastes 1:17",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 17,
+            "source_ref": "Ecclesiastes 1:17",
+            "segment_mode": "whole",
+            "sha256": "5dd552f8d6b04e952cb0c956de9a088adb7c71d056b556acd1e848fe9d00efed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5dd552f8d6b04e952cb0c956de9a088adb7c71d056b556acd1e848fe9d00efed"
+      },
+      "18": {
+        "source_ref": "Ecclesiastes 1:18",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 18,
+            "source_ref": "Ecclesiastes 1:18",
+            "segment_mode": "whole",
+            "sha256": "2f98091b96df6f200212bcad9998b9db7fd18fdd3c88230fac27f6dd7b1f7808"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f98091b96df6f200212bcad9998b9db7fd18fdd3c88230fac27f6dd7b1f7808"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ecclesiastes/Ecclesiastes_01.md",
+    "blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

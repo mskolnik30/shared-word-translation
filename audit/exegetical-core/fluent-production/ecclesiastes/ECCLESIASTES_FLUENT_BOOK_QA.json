@@ -1,0 +1,123 @@
+{
+  "book": "Ecclesiastes",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 12,
+  "public_verse_slots": 222,
+  "included_verse_labels": 222,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 222,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-11",
+      "decision": "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-26",
+      "decision": "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-15",
+      "decision": "Preserve the time poem and divine sovereignty without turning every named event into an ethical command.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:16-4:3",
+      "decision": "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:1-7",
+      "decision": "Retain the warning about speech, vows, and worship without treating silence as the only faithful posture.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:15-29",
+      "decision": "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:1-12",
+      "decision": "Keep death, love, enjoyment, work, contingency, and human limitation together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "12:1-14",
+      "decision": "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80",
+    "source_binding_count": 222,
+    "unique_source_record_count": 222,
+    "public_verse_slots": 222,
+    "ledger_summary": {
+      "F0": 106,
+      "F1": 7,
+      "F2": 0,
+      "F3": 109
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_01.md",
+        "blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda"
+      },
+      "02": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_02.md",
+        "blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20"
+      },
+      "03": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_03.md",
+        "blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728"
+      },
+      "04": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_04.md",
+        "blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f"
+      },
+      "05": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_05.md",
+        "blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce"
+      },
+      "06": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_06.md",
+        "blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed"
+      },
+      "07": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_07.md",
+        "blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991"
+      },
+      "08": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_08.md",
+        "blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b"
+      },
+      "09": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_09.md",
+        "blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c"
+      },
+      "10": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_10.md",
+        "blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839"
+      },
+      "11": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_11.md",
+        "blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791"
+      },
+      "12": {
+        "path": "books/OT/ecclesiastes/Ecclesiastes_12.md",
+        "blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79"
+      }
+    }
+  }
+}
