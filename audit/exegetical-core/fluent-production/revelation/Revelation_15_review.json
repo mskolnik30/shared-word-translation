@@ -1,0 +1,156 @@
+{
+  "book": "Revelation",
+  "chapter": 15,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Revelation 15:1",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 1,
+            "source_ref": "Revelation 15:1",
+            "segment_mode": "whole",
+            "sha256": "c6a033bfb89e33d04911f123387c44b0a5847c8c5332e9fcbfe943c925b2feaf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6a033bfb89e33d04911f123387c44b0a5847c8c5332e9fcbfe943c925b2feaf"
+      },
+      "2": {
+        "source_ref": "Revelation 15:2",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 2,
+            "source_ref": "Revelation 15:2",
+            "segment_mode": "whole",
+            "sha256": "5fe9b4d634f2a6649553643add9651d690de3ae3dedf4f3d0c7c54f4140846d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5fe9b4d634f2a6649553643add9651d690de3ae3dedf4f3d0c7c54f4140846d0"
+      },
+      "3": {
+        "source_ref": "Revelation 15:3",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 3,
+            "source_ref": "Revelation 15:3",
+            "segment_mode": "whole",
+            "sha256": "6c92d9b449ce20e198191ef6bd13dcffcb406e20efebdf5e684aefc29b2e977c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c92d9b449ce20e198191ef6bd13dcffcb406e20efebdf5e684aefc29b2e977c"
+      },
+      "4": {
+        "source_ref": "Revelation 15:4",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 4,
+            "source_ref": "Revelation 15:4",
+            "segment_mode": "whole",
+            "sha256": "c5b4384bdf3e0e889597549ec931bd8e60bfbe0f46f6dbd90e0f85f50258b7f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c5b4384bdf3e0e889597549ec931bd8e60bfbe0f46f6dbd90e0f85f50258b7f2"
+      },
+      "5": {
+        "source_ref": "Revelation 15:5",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 5,
+            "source_ref": "Revelation 15:5",
+            "segment_mode": "whole",
+            "sha256": "034ee55eafc45abaef5261bd9484852d1e2ddce35cbebff3d7c8d8bc54b558f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "034ee55eafc45abaef5261bd9484852d1e2ddce35cbebff3d7c8d8bc54b558f6"
+      },
+      "6": {
+        "source_ref": "Revelation 15:6",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 6,
+            "source_ref": "Revelation 15:6",
+            "segment_mode": "whole",
+            "sha256": "94f78818d76d55ae83e1c66d6e3d594ef228e5ff75c6df276de73bd095fad36c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94f78818d76d55ae83e1c66d6e3d594ef228e5ff75c6df276de73bd095fad36c"
+      },
+      "7": {
+        "source_ref": "Revelation 15:7",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 7,
+            "source_ref": "Revelation 15:7",
+            "segment_mode": "whole",
+            "sha256": "16bde83975a14a021ae07c06dbc0735aa75d0a482efc446357653649c82d7d05"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16bde83975a14a021ae07c06dbc0735aa75d0a482efc446357653649c82d7d05"
+      },
+      "8": {
+        "source_ref": "Revelation 15:8",
+        "source_records": [
+          {
+            "chapter": 15,
+            "verse": 8,
+            "source_ref": "Revelation 15:8",
+            "segment_mode": "whole",
+            "sha256": "2c8fed32460d99312603194a5fa99d72a507183898bcf34d0321cbb02af4401e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c8fed32460d99312603194a5fa99d72a507183898bcf34d0321cbb02af4401e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/revelation/Revelation_15.md",
+    "blob_sha": "f3d458bb0d3973e5cc5553f9c4196a850c0a9a3e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
