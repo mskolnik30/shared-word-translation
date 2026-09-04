@@ -1,0 +1,531 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Corinthians 11:1",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 1,
+            "source_ref": "2 Corinthians 11:1",
+            "segment_mode": "whole",
+            "sha256": "c3611d18f7fc179b770144760b8fdd9d3b25a099624676f3556454af3841ff4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3611d18f7fc179b770144760b8fdd9d3b25a099624676f3556454af3841ff4e"
+      },
+      "2": {
+        "source_ref": "2 Corinthians 11:2",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 2,
+            "source_ref": "2 Corinthians 11:2",
+            "segment_mode": "whole",
+            "sha256": "5e9700c9d9f623f455815b687ee0e7f8ed3679de12bee2f619c435e97c39ece4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e9700c9d9f623f455815b687ee0e7f8ed3679de12bee2f619c435e97c39ece4"
+      },
+      "3": {
+        "source_ref": "2 Corinthians 11:3",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 3,
+            "source_ref": "2 Corinthians 11:3",
+            "segment_mode": "whole",
+            "sha256": "5eb098f2cfcfdc5b5d5a27737b66199cb17b6ff37ef659b7bb9438bcade61db0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5eb098f2cfcfdc5b5d5a27737b66199cb17b6ff37ef659b7bb9438bcade61db0"
+      },
+      "4": {
+        "source_ref": "2 Corinthians 11:4",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 4,
+            "source_ref": "2 Corinthians 11:4",
+            "segment_mode": "whole",
+            "sha256": "fa12ab582474c0268361372b7d6f07a8cd0bc779b52fbe6a1606c9e80f89772a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa12ab582474c0268361372b7d6f07a8cd0bc779b52fbe6a1606c9e80f89772a"
+      },
+      "5": {
+        "source_ref": "2 Corinthians 11:5",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 5,
+            "source_ref": "2 Corinthians 11:5",
+            "segment_mode": "whole",
+            "sha256": "1c3d38ebb5c7164e1004d2849c444a48dd224e5bff5e85c0870489a20d017746"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c3d38ebb5c7164e1004d2849c444a48dd224e5bff5e85c0870489a20d017746"
+      },
+      "6": {
+        "source_ref": "2 Corinthians 11:6",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 6,
+            "source_ref": "2 Corinthians 11:6",
+            "segment_mode": "whole",
+            "sha256": "1df27736e6ea12adf363996ce519abcdccf97fd0bcefa8c5f53372fd434d67f7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1df27736e6ea12adf363996ce519abcdccf97fd0bcefa8c5f53372fd434d67f7"
+      },
+      "7": {
+        "source_ref": "2 Corinthians 11:7",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 7,
+            "source_ref": "2 Corinthians 11:7",
+            "segment_mode": "whole",
+            "sha256": "0527a0ed7171d4ea9e07f14ae8c34b816db3dfcf9468e5cc6c154d30551e1fc0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0527a0ed7171d4ea9e07f14ae8c34b816db3dfcf9468e5cc6c154d30551e1fc0"
+      },
+      "8": {
+        "source_ref": "2 Corinthians 11:8",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 8,
+            "source_ref": "2 Corinthians 11:8",
+            "segment_mode": "whole",
+            "sha256": "d36c5a8358f822f7d6db9422ba80c5946548d2c04e507097df77bf9e7576b293"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d36c5a8358f822f7d6db9422ba80c5946548d2c04e507097df77bf9e7576b293"
+      },
+      "9": {
+        "source_ref": "2 Corinthians 11:9",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 9,
+            "source_ref": "2 Corinthians 11:9",
+            "segment_mode": "whole",
+            "sha256": "543e0181ecde4134c85636eb43bf2dee2f659702ce2773eb6eb6ced80bd5a79e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "543e0181ecde4134c85636eb43bf2dee2f659702ce2773eb6eb6ced80bd5a79e"
+      },
+      "10": {
+        "source_ref": "2 Corinthians 11:10",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 10,
+            "source_ref": "2 Corinthians 11:10",
+            "segment_mode": "whole",
+            "sha256": "2646500c16a15413b3cbbfb42571a39c431974a164dc9c768ca977fdacd3a8c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2646500c16a15413b3cbbfb42571a39c431974a164dc9c768ca977fdacd3a8c1"
+      },
+      "11": {
+        "source_ref": "2 Corinthians 11:11",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 11,
+            "source_ref": "2 Corinthians 11:11",
+            "segment_mode": "whole",
+            "sha256": "1c3e59614069c56566f32c096305a93989c044e85b6e7c3a3620240ffb7307cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c3e59614069c56566f32c096305a93989c044e85b6e7c3a3620240ffb7307cc"
+      },
+      "12": {
+        "source_ref": "2 Corinthians 11:12",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 12,
+            "source_ref": "2 Corinthians 11:12",
+            "segment_mode": "whole",
+            "sha256": "f0e05c8e99c8010b4f413a2acb3da13a92f099b2f476af649ca399990e6b0d38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0e05c8e99c8010b4f413a2acb3da13a92f099b2f476af649ca399990e6b0d38"
+      },
+      "13": {
+        "source_ref": "2 Corinthians 11:13",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 13,
+            "source_ref": "2 Corinthians 11:13",
+            "segment_mode": "whole",
+            "sha256": "8c1d874c6b0e71f994c3fb647c8ebed7108cddec9f71a8f62f4291425d39fdee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c1d874c6b0e71f994c3fb647c8ebed7108cddec9f71a8f62f4291425d39fdee"
+      },
+      "14": {
+        "source_ref": "2 Corinthians 11:14",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 14,
+            "source_ref": "2 Corinthians 11:14",
+            "segment_mode": "whole",
+            "sha256": "a8bfa896436fa8c92cef13da13517a2b13bd3ac2972e02fad138ecd98b0fa178"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8bfa896436fa8c92cef13da13517a2b13bd3ac2972e02fad138ecd98b0fa178"
+      },
+      "15": {
+        "source_ref": "2 Corinthians 11:15",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 15,
+            "source_ref": "2 Corinthians 11:15",
+            "segment_mode": "whole",
+            "sha256": "797edb4afeb46cbec9c85ea8cfc46058b4c044009f4c4adb4fc9a235142315f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "797edb4afeb46cbec9c85ea8cfc46058b4c044009f4c4adb4fc9a235142315f2"
+      },
+      "16": {
+        "source_ref": "2 Corinthians 11:16",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 16,
+            "source_ref": "2 Corinthians 11:16",
+            "segment_mode": "whole",
+            "sha256": "164b62a9fddad2fc1166ed3578d1bee683cde2ad39f4556d50e29fabfaf152cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "164b62a9fddad2fc1166ed3578d1bee683cde2ad39f4556d50e29fabfaf152cf"
+      },
+      "17": {
+        "source_ref": "2 Corinthians 11:17",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 17,
+            "source_ref": "2 Corinthians 11:17",
+            "segment_mode": "whole",
+            "sha256": "4d1f372b703b443f0b72e8d71f4340c24bccc9db5b711b5f6a8c1135a8e436d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4d1f372b703b443f0b72e8d71f4340c24bccc9db5b711b5f6a8c1135a8e436d6"
+      },
+      "18": {
+        "source_ref": "2 Corinthians 11:18",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 18,
+            "source_ref": "2 Corinthians 11:18",
+            "segment_mode": "whole",
+            "sha256": "80a86a152c6f5be43e464804fe9b25cd4d559755335c1cb02102e8c117f3b3da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "80a86a152c6f5be43e464804fe9b25cd4d559755335c1cb02102e8c117f3b3da"
+      },
+      "19": {
+        "source_ref": "2 Corinthians 11:19",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 19,
+            "source_ref": "2 Corinthians 11:19",
+            "segment_mode": "whole",
+            "sha256": "130f864c7338dc1a28db19baf7aea79068b102c10a143fea27001de4af47056a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "130f864c7338dc1a28db19baf7aea79068b102c10a143fea27001de4af47056a"
+      },
+      "20": {
+        "source_ref": "2 Corinthians 11:20",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 20,
+            "source_ref": "2 Corinthians 11:20",
+            "segment_mode": "whole",
+            "sha256": "f437c7e6a86021c612a15e16fb72456df7d840c6491f978a26a3923dd4970281"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f437c7e6a86021c612a15e16fb72456df7d840c6491f978a26a3923dd4970281"
+      },
+      "21": {
+        "source_ref": "2 Corinthians 11:21",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 21,
+            "source_ref": "2 Corinthians 11:21",
+            "segment_mode": "whole",
+            "sha256": "8476acf9cf0efc2b30da8be261c412ffe4e97334ae706e5a02dd809571ec59a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8476acf9cf0efc2b30da8be261c412ffe4e97334ae706e5a02dd809571ec59a7"
+      },
+      "22": {
+        "source_ref": "2 Corinthians 11:22",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 22,
+            "source_ref": "2 Corinthians 11:22",
+            "segment_mode": "whole",
+            "sha256": "a973adaa637130277d8a754e169d700efbcd3b7eb489db7db413761c74ae384f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a973adaa637130277d8a754e169d700efbcd3b7eb489db7db413761c74ae384f"
+      },
+      "23": {
+        "source_ref": "2 Corinthians 11:23",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 23,
+            "source_ref": "2 Corinthians 11:23",
+            "segment_mode": "whole",
+            "sha256": "f4496694755dae61ef9aac5fab088f06e809960ebbf479a9e5b122e1dcb3bce5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4496694755dae61ef9aac5fab088f06e809960ebbf479a9e5b122e1dcb3bce5"
+      },
+      "24": {
+        "source_ref": "2 Corinthians 11:24",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 24,
+            "source_ref": "2 Corinthians 11:24",
+            "segment_mode": "whole",
+            "sha256": "6c01bae6fc3c01a32a4a267e2fd73f4de6923d0241bb520da03350c2f70466df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c01bae6fc3c01a32a4a267e2fd73f4de6923d0241bb520da03350c2f70466df"
+      },
+      "25": {
+        "source_ref": "2 Corinthians 11:25",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 25,
+            "source_ref": "2 Corinthians 11:25",
+            "segment_mode": "whole",
+            "sha256": "bf5873158fc861e3d64271170c6195de3435a41e28a117de1b1b10f39e05284e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf5873158fc861e3d64271170c6195de3435a41e28a117de1b1b10f39e05284e"
+      },
+      "26": {
+        "source_ref": "2 Corinthians 11:26",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 26,
+            "source_ref": "2 Corinthians 11:26",
+            "segment_mode": "whole",
+            "sha256": "d6609efb43b42a156492f2c489609100b4a7a642572ab05f4c96921fc8935dcd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6609efb43b42a156492f2c489609100b4a7a642572ab05f4c96921fc8935dcd"
+      },
+      "27": {
+        "source_ref": "2 Corinthians 11:27",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 27,
+            "source_ref": "2 Corinthians 11:27",
+            "segment_mode": "whole",
+            "sha256": "4f71a8a0f020af7cdddce864bbed2e481eec856c7d228dd60b8a9429864155fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f71a8a0f020af7cdddce864bbed2e481eec856c7d228dd60b8a9429864155fd"
+      },
+      "28": {
+        "source_ref": "2 Corinthians 11:28",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 28,
+            "source_ref": "2 Corinthians 11:28",
+            "segment_mode": "whole",
+            "sha256": "d9d5a71bb76a27a869d5544eddb2c8228ecc6b50ca4678b7ca2b7984c4469209"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9d5a71bb76a27a869d5544eddb2c8228ecc6b50ca4678b7ca2b7984c4469209"
+      },
+      "29": {
+        "source_ref": "2 Corinthians 11:29",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 29,
+            "source_ref": "2 Corinthians 11:29",
+            "segment_mode": "whole",
+            "sha256": "0ea2fb4a48b13ee072934935521aecdcbe122549c9dea665d0f1f82e319562d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ea2fb4a48b13ee072934935521aecdcbe122549c9dea665d0f1f82e319562d9"
+      },
+      "30": {
+        "source_ref": "2 Corinthians 11:30",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 30,
+            "source_ref": "2 Corinthians 11:30",
+            "segment_mode": "whole",
+            "sha256": "ef88be09daeaf5fc087494d6eacfdf26f300bd39904f38321066848eff3cdb4d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef88be09daeaf5fc087494d6eacfdf26f300bd39904f38321066848eff3cdb4d"
+      },
+      "31": {
+        "source_ref": "2 Corinthians 11:31",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 31,
+            "source_ref": "2 Corinthians 11:31",
+            "segment_mode": "whole",
+            "sha256": "5e118711347d8ba8bf52abb6e92c8a0c016a9aed5c223a3f951c5878049cf6e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e118711347d8ba8bf52abb6e92c8a0c016a9aed5c223a3f951c5878049cf6e9"
+      },
+      "32": {
+        "source_ref": "2 Corinthians 11:32",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 32,
+            "source_ref": "2 Corinthians 11:32",
+            "segment_mode": "whole",
+            "sha256": "7f98e649900bcd3df53a3fa1d31836db2d90b6e6f5c2be34336df25272ab4362"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f98e649900bcd3df53a3fa1d31836db2d90b6e6f5c2be34336df25272ab4362"
+      },
+      "33": {
+        "source_ref": "2 Corinthians 11:33",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 33,
+            "source_ref": "2 Corinthians 11:33",
+            "segment_mode": "whole",
+            "sha256": "5e9acfbe3cb43c4f54bc6d774f2c0d81a1dbe0fb67997ec6e391efccb6ea7310"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e9acfbe3cb43c4f54bc6d774f2c0d81a1dbe0fb67997ec6e391efccb6ea7310"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/2corinthians/2Corinthians_11.md",
+    "blob_sha": "c68fc5698262644b9069da0ff67a185aa29cb9c5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

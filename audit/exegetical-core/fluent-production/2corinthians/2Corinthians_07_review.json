@@ -1,0 +1,276 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Corinthians 7:1",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 1,
+            "source_ref": "2 Corinthians 7:1",
+            "segment_mode": "whole",
+            "sha256": "a2124a0f4c8a5e570039b19b92606949fdc2e532590e403edc063a3debc6df60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a2124a0f4c8a5e570039b19b92606949fdc2e532590e403edc063a3debc6df60"
+      },
+      "2": {
+        "source_ref": "2 Corinthians 7:2",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 2,
+            "source_ref": "2 Corinthians 7:2",
+            "segment_mode": "whole",
+            "sha256": "786dc348a644679e6d0dfc4ea2bd922fc11c959aba433ef91ff6b1d0c975e437"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "786dc348a644679e6d0dfc4ea2bd922fc11c959aba433ef91ff6b1d0c975e437"
+      },
+      "3": {
+        "source_ref": "2 Corinthians 7:3",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 3,
+            "source_ref": "2 Corinthians 7:3",
+            "segment_mode": "whole",
+            "sha256": "28a06c3b884ff5dd4aa678910b198876d63f7d8b7a343eadf55657c4a0422a88"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "28a06c3b884ff5dd4aa678910b198876d63f7d8b7a343eadf55657c4a0422a88"
+      },
+      "4": {
+        "source_ref": "2 Corinthians 7:4",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 4,
+            "source_ref": "2 Corinthians 7:4",
+            "segment_mode": "whole",
+            "sha256": "338b3dacf4dc37f03ada84a0b1fdb7bfa7f352e08904b7520c5993410c95ef43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "338b3dacf4dc37f03ada84a0b1fdb7bfa7f352e08904b7520c5993410c95ef43"
+      },
+      "5": {
+        "source_ref": "2 Corinthians 7:5",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 5,
+            "source_ref": "2 Corinthians 7:5",
+            "segment_mode": "whole",
+            "sha256": "fd873cc9ec5c92648b60122393acacbb2654d5bdd06ecc1c643b1be637eb84ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd873cc9ec5c92648b60122393acacbb2654d5bdd06ecc1c643b1be637eb84ba"
+      },
+      "6": {
+        "source_ref": "2 Corinthians 7:6",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 6,
+            "source_ref": "2 Corinthians 7:6",
+            "segment_mode": "whole",
+            "sha256": "db8c0cdc217207ef5d4966d231c4278392aee8ff5023dc2f12e0b65e79449ea5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db8c0cdc217207ef5d4966d231c4278392aee8ff5023dc2f12e0b65e79449ea5"
+      },
+      "7": {
+        "source_ref": "2 Corinthians 7:7",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 7,
+            "source_ref": "2 Corinthians 7:7",
+            "segment_mode": "whole",
+            "sha256": "d7f3e3b2a34c9b65bca0c5a11eff31660eb323d2bb9ef9fa4011212e26daafe5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7f3e3b2a34c9b65bca0c5a11eff31660eb323d2bb9ef9fa4011212e26daafe5"
+      },
+      "8": {
+        "source_ref": "2 Corinthians 7:8",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 8,
+            "source_ref": "2 Corinthians 7:8",
+            "segment_mode": "whole",
+            "sha256": "9a9e67347cbd8c4a74a8bbfff5ee253d27aa4414db551292303ebf125062fff2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a9e67347cbd8c4a74a8bbfff5ee253d27aa4414db551292303ebf125062fff2"
+      },
+      "9": {
+        "source_ref": "2 Corinthians 7:9",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 9,
+            "source_ref": "2 Corinthians 7:9",
+            "segment_mode": "whole",
+            "sha256": "451d75e437b797558e286d9a7b4d7977f56c3b696c3df4f7cf69e0f4fc270e52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "451d75e437b797558e286d9a7b4d7977f56c3b696c3df4f7cf69e0f4fc270e52"
+      },
+      "10": {
+        "source_ref": "2 Corinthians 7:10",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 10,
+            "source_ref": "2 Corinthians 7:10",
+            "segment_mode": "whole",
+            "sha256": "a9e2a3d0797a1d61994b1b15d620988b1eb0b151689a2171158abd7490b4aaa4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9e2a3d0797a1d61994b1b15d620988b1eb0b151689a2171158abd7490b4aaa4"
+      },
+      "11": {
+        "source_ref": "2 Corinthians 7:11",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 11,
+            "source_ref": "2 Corinthians 7:11",
+            "segment_mode": "whole",
+            "sha256": "5ebf91bb78c3d48023d0adf6dd3f320c5a1b10733ceef1e5ed47eed78f8b143b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ebf91bb78c3d48023d0adf6dd3f320c5a1b10733ceef1e5ed47eed78f8b143b"
+      },
+      "12": {
+        "source_ref": "2 Corinthians 7:12",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 12,
+            "source_ref": "2 Corinthians 7:12",
+            "segment_mode": "whole",
+            "sha256": "013f63e5f4e586892d00933484cddad302af55317d0e42e46109419ab5e49441"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "013f63e5f4e586892d00933484cddad302af55317d0e42e46109419ab5e49441"
+      },
+      "13": {
+        "source_ref": "2 Corinthians 7:13",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 13,
+            "source_ref": "2 Corinthians 7:13",
+            "segment_mode": "whole",
+            "sha256": "5451e59d1dd8a0f4ed9edb7190ebc75a6beb50dce512469602b97f60e18d4764"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5451e59d1dd8a0f4ed9edb7190ebc75a6beb50dce512469602b97f60e18d4764"
+      },
+      "14": {
+        "source_ref": "2 Corinthians 7:14",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 14,
+            "source_ref": "2 Corinthians 7:14",
+            "segment_mode": "whole",
+            "sha256": "6ae23bf4f579dab3cfd8ce8892b0cff4230e9097d70c18d55fc567c2f404e1ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ae23bf4f579dab3cfd8ce8892b0cff4230e9097d70c18d55fc567c2f404e1ef"
+      },
+      "15": {
+        "source_ref": "2 Corinthians 7:15",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 15,
+            "source_ref": "2 Corinthians 7:15",
+            "segment_mode": "whole",
+            "sha256": "daf759273149f75e007b7f60553f8e7326bc3fbe214c7350e32e8ab7c3dabc2b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "daf759273149f75e007b7f60553f8e7326bc3fbe214c7350e32e8ab7c3dabc2b"
+      },
+      "16": {
+        "source_ref": "2 Corinthians 7:16",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 16,
+            "source_ref": "2 Corinthians 7:16",
+            "segment_mode": "whole",
+            "sha256": "2cc56b2cb6f3ef049a3cb2e681be56800a4a4c853930d520f565df62dc2b9f70"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2cc56b2cb6f3ef049a3cb2e681be56800a4a4c853930d520f565df62dc2b9f70"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/2corinthians/2Corinthians_07.md",
+    "blob_sha": "bb1d8fd77ad7c96bb4e19834dbd86b8f0eeb5d54"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
