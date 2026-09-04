@@ -1,0 +1,321 @@
+{
+  "book": "Leviticus",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Leviticus 5:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "Leviticus 5:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "499875ad1254d742a218285364bda4338a3d411f90c1b7dc0aa456d3b066a700"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "499875ad1254d742a218285364bda4338a3d411f90c1b7dc0aa456d3b066a700"
+      },
+      "2": {
+        "source_ref": "Leviticus 5:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "Leviticus 5:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1bc3ce22d7e03f94e242d6051e8cde1ca21bca4252cd0e8fc7c81309f30a9e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1bc3ce22d7e03f94e242d6051e8cde1ca21bca4252cd0e8fc7c81309f30a9e5"
+      },
+      "3": {
+        "source_ref": "Leviticus 5:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "Leviticus 5:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f50a8183ecf8f689e5aee027289261ca1901492d684b38fca2488b486f008c7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f50a8183ecf8f689e5aee027289261ca1901492d684b38fca2488b486f008c7b"
+      },
+      "4": {
+        "source_ref": "Leviticus 5:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "Leviticus 5:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2edd9c56bc2453c7acdb4867c8abb7e05e9b5287b2a2d23cdfa8db7ce4cb7d60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2edd9c56bc2453c7acdb4867c8abb7e05e9b5287b2a2d23cdfa8db7ce4cb7d60"
+      },
+      "5": {
+        "source_ref": "Leviticus 5:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "Leviticus 5:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5e132c44fd250f2ae4609878fe8d85f93ab638d6d3e601b23781f4cf1513f947"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e132c44fd250f2ae4609878fe8d85f93ab638d6d3e601b23781f4cf1513f947"
+      },
+      "6": {
+        "source_ref": "Leviticus 5:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "Leviticus 5:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "284d38ffba0fecb90a89fcb1eb2a079fc73bb801e9558c6aebf4b91bd1a39b02"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "284d38ffba0fecb90a89fcb1eb2a079fc73bb801e9558c6aebf4b91bd1a39b02"
+      },
+      "7": {
+        "source_ref": "Leviticus 5:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "Leviticus 5:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "66f34b3de5094988bad2db31497c34fbed3523bf8297977db4d900b9e9a6bfce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "66f34b3de5094988bad2db31497c34fbed3523bf8297977db4d900b9e9a6bfce"
+      },
+      "8": {
+        "source_ref": "Leviticus 5:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "Leviticus 5:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "177075fc76bc9b6bdd9cc04eea4c7b598c17440694f6b099ca8241aeb4f262f7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "177075fc76bc9b6bdd9cc04eea4c7b598c17440694f6b099ca8241aeb4f262f7"
+      },
+      "9": {
+        "source_ref": "Leviticus 5:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "Leviticus 5:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0001feb8616c990c96102f91d455fd4c0a3707535f597ef150157514ef384c8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0001feb8616c990c96102f91d455fd4c0a3707535f597ef150157514ef384c8e"
+      },
+      "10": {
+        "source_ref": "Leviticus 5:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "Leviticus 5:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5effd3cc42341a9c217a0bd1328554554acea0ae2d544215f003022779384be1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5effd3cc42341a9c217a0bd1328554554acea0ae2d544215f003022779384be1"
+      },
+      "11": {
+        "source_ref": "Leviticus 5:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "Leviticus 5:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2a84f7d19b64483201dfb740a8c5db49fed832de4ba18065234c47d2e27acd05"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a84f7d19b64483201dfb740a8c5db49fed832de4ba18065234c47d2e27acd05"
+      },
+      "12": {
+        "source_ref": "Leviticus 5:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "Leviticus 5:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "edd999d5523ea2e0198d69316953f3ed41cf041ca3a7d34527990710e34a638d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "edd999d5523ea2e0198d69316953f3ed41cf041ca3a7d34527990710e34a638d"
+      },
+      "13": {
+        "source_ref": "Leviticus 5:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "Leviticus 5:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2928ad1f92818ab4e2f08ee1da5168737c284cddf040e2c486afd420ba1c0b01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2928ad1f92818ab4e2f08ee1da5168737c284cddf040e2c486afd420ba1c0b01"
+      },
+      "14": {
+        "source_ref": "Leviticus 5:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "Leviticus 5:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "15": {
+        "source_ref": "Leviticus 5:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "Leviticus 5:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74c0fd57fab6a750b4aac332f3f1b113877bac23387746d362b154d76a9dcb52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74c0fd57fab6a750b4aac332f3f1b113877bac23387746d362b154d76a9dcb52"
+      },
+      "16": {
+        "source_ref": "Leviticus 5:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 16,
+            "source_ref": "Leviticus 5:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "60b772851598903e176a41af2366de5030c9d79fedc8c6578c0e8b88bd8459c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60b772851598903e176a41af2366de5030c9d79fedc8c6578c0e8b88bd8459c3"
+      },
+      "17": {
+        "source_ref": "Leviticus 5:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 17,
+            "source_ref": "Leviticus 5:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "26518c0c41c140a1eafbe287fc63f5da06dfb46394668d3d4bc25722a2a46cde"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26518c0c41c140a1eafbe287fc63f5da06dfb46394668d3d4bc25722a2a46cde"
+      },
+      "18": {
+        "source_ref": "Leviticus 5:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 18,
+            "source_ref": "Leviticus 5:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a747176eaed7bb24576b873ad6af25c2159a121ed948efd52248a6ebe935f713"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a747176eaed7bb24576b873ad6af25c2159a121ed948efd52248a6ebe935f713"
+      },
+      "19": {
+        "source_ref": "Leviticus 5:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 19,
+            "source_ref": "Leviticus 5:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "16950d0bc0e64a651646a82ec15fcec8b53d89f8a3a18d6e2798bb489245fe7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16950d0bc0e64a651646a82ec15fcec8b53d89f8a3a18d6e2798bb489245fe7d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/leviticus/Leviticus_05.md",
+    "blob_sha": "3d11c84351910ff5955a6ffea17c6aaad5a9baac"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

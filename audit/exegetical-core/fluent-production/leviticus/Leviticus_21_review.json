@@ -1,0 +1,396 @@
+{
+  "book": "Leviticus",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Leviticus 21:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 1,
+            "source_ref": "Leviticus 21:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b951d0676044623e67a5af2c81bcbb09ec17fcb9dd58a211e3c884ec1d00a07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b951d0676044623e67a5af2c81bcbb09ec17fcb9dd58a211e3c884ec1d00a07"
+      },
+      "2": {
+        "source_ref": "Leviticus 21:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 2,
+            "source_ref": "Leviticus 21:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6dcb01ead278c79d222556f1e2e49c43c061abafbb5b091fc4dd9da5abe614ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6dcb01ead278c79d222556f1e2e49c43c061abafbb5b091fc4dd9da5abe614ec"
+      },
+      "3": {
+        "source_ref": "Leviticus 21:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 3,
+            "source_ref": "Leviticus 21:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6e30958b73a56ab2df61dd27bafd0282fc86fb8504699feb13dede82756a7d60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e30958b73a56ab2df61dd27bafd0282fc86fb8504699feb13dede82756a7d60"
+      },
+      "4": {
+        "source_ref": "Leviticus 21:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 4,
+            "source_ref": "Leviticus 21:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "99e854f01fdcd1e704e8100f2ae17041e247676f292cb3a7ce8b1b11b5c233d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99e854f01fdcd1e704e8100f2ae17041e247676f292cb3a7ce8b1b11b5c233d7"
+      },
+      "5": {
+        "source_ref": "Leviticus 21:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 5,
+            "source_ref": "Leviticus 21:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "87e4738762fb25793d3161a7a1727c648b6a7cd7e0c0bd9de4c1e7209e0950a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87e4738762fb25793d3161a7a1727c648b6a7cd7e0c0bd9de4c1e7209e0950a5"
+      },
+      "6": {
+        "source_ref": "Leviticus 21:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 6,
+            "source_ref": "Leviticus 21:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "64ce87e868ae084b191662b1665c8cb88e76249a108c43b88b21cb0ba0a58306"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64ce87e868ae084b191662b1665c8cb88e76249a108c43b88b21cb0ba0a58306"
+      },
+      "7": {
+        "source_ref": "Leviticus 21:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 7,
+            "source_ref": "Leviticus 21:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "03fe39e821c07a7ee0e72830c5947974841a1e5fa5bf236f41e29f30b9d67d9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03fe39e821c07a7ee0e72830c5947974841a1e5fa5bf236f41e29f30b9d67d9c"
+      },
+      "8": {
+        "source_ref": "Leviticus 21:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 8,
+            "source_ref": "Leviticus 21:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e6f0b007cd786a65cf98e61396d7e1ddb93e38be0e55ff604292bdc4970a162b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e6f0b007cd786a65cf98e61396d7e1ddb93e38be0e55ff604292bdc4970a162b"
+      },
+      "9": {
+        "source_ref": "Leviticus 21:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 9,
+            "source_ref": "Leviticus 21:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a8198460814d7e8121c2a49cb1c02e6056189cf73e0e6348487f3a612be261f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a8198460814d7e8121c2a49cb1c02e6056189cf73e0e6348487f3a612be261f"
+      },
+      "10": {
+        "source_ref": "Leviticus 21:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 10,
+            "source_ref": "Leviticus 21:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ba5007006d11fba8cb92eaf49307d2e02f44bf9eca96aed7ee5a34206c194a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ba5007006d11fba8cb92eaf49307d2e02f44bf9eca96aed7ee5a34206c194a9"
+      },
+      "11": {
+        "source_ref": "Leviticus 21:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 11,
+            "source_ref": "Leviticus 21:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01f1ef5a75e3b714bbb49a34930f00179322249450684783b56280cb6a243918"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01f1ef5a75e3b714bbb49a34930f00179322249450684783b56280cb6a243918"
+      },
+      "12": {
+        "source_ref": "Leviticus 21:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 12,
+            "source_ref": "Leviticus 21:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "70a23105ed98d1d714a8dac742e26c01e2f4cfe3f467ece5eca6c4ca700bff4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70a23105ed98d1d714a8dac742e26c01e2f4cfe3f467ece5eca6c4ca700bff4a"
+      },
+      "13": {
+        "source_ref": "Leviticus 21:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 13,
+            "source_ref": "Leviticus 21:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dcd539d44655aa77ac91e66d22b03d80e54b43517fc8d948579efcf386fc2b7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dcd539d44655aa77ac91e66d22b03d80e54b43517fc8d948579efcf386fc2b7f"
+      },
+      "14": {
+        "source_ref": "Leviticus 21:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 14,
+            "source_ref": "Leviticus 21:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c09e5aee98b6c9a410b79424909b183feae7d877697bd2170a6ab475a61d35e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c09e5aee98b6c9a410b79424909b183feae7d877697bd2170a6ab475a61d35e"
+      },
+      "15": {
+        "source_ref": "Leviticus 21:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 15,
+            "source_ref": "Leviticus 21:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d21b6e64fb5e96c651bf69f0da36749c56dd0fa064d12cc9c22c0899d55010d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d21b6e64fb5e96c651bf69f0da36749c56dd0fa064d12cc9c22c0899d55010d4"
+      },
+      "16": {
+        "source_ref": "Leviticus 21:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 16,
+            "source_ref": "Leviticus 21:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "17": {
+        "source_ref": "Leviticus 21:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 17,
+            "source_ref": "Leviticus 21:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc484dccbaa6c764fd6c4d3ea7215abe64bb31fde869507ab310a32209b419bc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc484dccbaa6c764fd6c4d3ea7215abe64bb31fde869507ab310a32209b419bc"
+      },
+      "18": {
+        "source_ref": "Leviticus 21:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 18,
+            "source_ref": "Leviticus 21:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bcbe4f76012f7f845690a4661d054bf58d117467d54c5607fecc9c20384fd425"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bcbe4f76012f7f845690a4661d054bf58d117467d54c5607fecc9c20384fd425"
+      },
+      "19": {
+        "source_ref": "Leviticus 21:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 19,
+            "source_ref": "Leviticus 21:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac453e9e51a496547f71e930e3b858d99c748f5459a2a9634cb9db8973e0473b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac453e9e51a496547f71e930e3b858d99c748f5459a2a9634cb9db8973e0473b"
+      },
+      "20": {
+        "source_ref": "Leviticus 21:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 20,
+            "source_ref": "Leviticus 21:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "13c6c58de3006e877a8a3391bfa644b739ac29fde81e998d6c7bbd61659977f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13c6c58de3006e877a8a3391bfa644b739ac29fde81e998d6c7bbd61659977f8"
+      },
+      "21": {
+        "source_ref": "Leviticus 21:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 21,
+            "source_ref": "Leviticus 21:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3930d478f85b77d44f7f9b09ba8792973a8ee1005e31a267cb529308b989815a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3930d478f85b77d44f7f9b09ba8792973a8ee1005e31a267cb529308b989815a"
+      },
+      "22": {
+        "source_ref": "Leviticus 21:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 22,
+            "source_ref": "Leviticus 21:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f055511705dcd2b624db26f876ea77f8f3d176cfcea0eccb1c6bc397e15ded41"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f055511705dcd2b624db26f876ea77f8f3d176cfcea0eccb1c6bc397e15ded41"
+      },
+      "23": {
+        "source_ref": "Leviticus 21:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 23,
+            "source_ref": "Leviticus 21:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f43f4180bdd7e445c4d5969bfd8fbe8c7ab89a18fc12c6cae604aa72ee31821a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f43f4180bdd7e445c4d5969bfd8fbe8c7ab89a18fc12c6cae604aa72ee31821a"
+      },
+      "24": {
+        "source_ref": "Leviticus 21:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 24,
+            "source_ref": "Leviticus 21:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "17e2d2e09d8502b7e89cdeb652cfc8bbab769586866fe757229aa92ee00edeea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17e2d2e09d8502b7e89cdeb652cfc8bbab769586866fe757229aa92ee00edeea"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/leviticus/Leviticus_21.md",
+    "blob_sha": "bbc666b2b0aae18142009450795478d9c74748be"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

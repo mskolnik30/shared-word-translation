@@ -1,0 +1,276 @@
+{
+  "book": "Leviticus",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lev.xml",
+    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Leviticus 2:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Leviticus 2:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5f1d4955e4152b4dd394c9ae4f78c394c9544b1e959d3668a22eb8d0d0a720c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f1d4955e4152b4dd394c9ae4f78c394c9544b1e959d3668a22eb8d0d0a720c5"
+      },
+      "2": {
+        "source_ref": "Leviticus 2:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Leviticus 2:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f87444efca136a1bd13b454c4d1a97a48a8faea1a34094438e3739952ad8c33b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f87444efca136a1bd13b454c4d1a97a48a8faea1a34094438e3739952ad8c33b"
+      },
+      "3": {
+        "source_ref": "Leviticus 2:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Leviticus 2:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "778a142e80beaaad296629dc62c2e428cb1410b7f0887c05890cd4fe783bf9e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "778a142e80beaaad296629dc62c2e428cb1410b7f0887c05890cd4fe783bf9e7"
+      },
+      "4": {
+        "source_ref": "Leviticus 2:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Leviticus 2:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fdb140c25fa22a6307e3f249d5ba5511bbe2bfe6083f6b3386dca725fb1bd1ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fdb140c25fa22a6307e3f249d5ba5511bbe2bfe6083f6b3386dca725fb1bd1ba"
+      },
+      "5": {
+        "source_ref": "Leviticus 2:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Leviticus 2:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "848742b93da99c2104fac8b6c84f3c56f9c82c6a2060261da64b2fa3956fead5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "848742b93da99c2104fac8b6c84f3c56f9c82c6a2060261da64b2fa3956fead5"
+      },
+      "6": {
+        "source_ref": "Leviticus 2:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Leviticus 2:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "61adb1710ad78ae95ec1a80389044b4a5f30611b8f772d40472fcb5adaf226c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61adb1710ad78ae95ec1a80389044b4a5f30611b8f772d40472fcb5adaf226c2"
+      },
+      "7": {
+        "source_ref": "Leviticus 2:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Leviticus 2:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "067b7442012d0f2861fd1791cf7b453d367fe20fcada8b88ba966a5e76ef3fa8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "067b7442012d0f2861fd1791cf7b453d367fe20fcada8b88ba966a5e76ef3fa8"
+      },
+      "8": {
+        "source_ref": "Leviticus 2:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Leviticus 2:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fea07abe516149f479a7d40a9e5577143795a2057e6e317aedd77840b50bf7bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fea07abe516149f479a7d40a9e5577143795a2057e6e317aedd77840b50bf7bf"
+      },
+      "9": {
+        "source_ref": "Leviticus 2:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Leviticus 2:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "acf324310b87b38cff00a5b2e7693cb629b2d99a052c17062b708270556f6230"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "acf324310b87b38cff00a5b2e7693cb629b2d99a052c17062b708270556f6230"
+      },
+      "10": {
+        "source_ref": "Leviticus 2:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Leviticus 2:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6e37df71132e2b6f490f2c8b96208389010ee0d3de6b468bc3914d6e8f225d11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e37df71132e2b6f490f2c8b96208389010ee0d3de6b468bc3914d6e8f225d11"
+      },
+      "11": {
+        "source_ref": "Leviticus 2:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Leviticus 2:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b15801aed272a2f5b9a1204f27053001b7ed43ad525e5a0d3cb4714bee6bf23b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b15801aed272a2f5b9a1204f27053001b7ed43ad525e5a0d3cb4714bee6bf23b"
+      },
+      "12": {
+        "source_ref": "Leviticus 2:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Leviticus 2:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8192864865e53c274c1b946912d5f200f81e3688b63ea49acbe6053339906d5e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8192864865e53c274c1b946912d5f200f81e3688b63ea49acbe6053339906d5e"
+      },
+      "13": {
+        "source_ref": "Leviticus 2:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Leviticus 2:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "325749d99e809c19b60eac6d8564f9bbe224c1df9bfbddd2d5ab8c8d829ca8ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "325749d99e809c19b60eac6d8564f9bbe224c1df9bfbddd2d5ab8c8d829ca8ea"
+      },
+      "14": {
+        "source_ref": "Leviticus 2:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "Leviticus 2:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3c03b4982e40722300e3992ad4fc11f3d424c76a8ecfb51568460e7bda8ad27a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c03b4982e40722300e3992ad4fc11f3d424c76a8ecfb51568460e7bda8ad27a"
+      },
+      "15": {
+        "source_ref": "Leviticus 2:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "Leviticus 2:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6da2a3ac3ecae8d56086312641907c2dd4cc5506ef91f18e8375905a9dc838e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6da2a3ac3ecae8d56086312641907c2dd4cc5506ef91f18e8375905a9dc838e"
+      },
+      "16": {
+        "source_ref": "Leviticus 2:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "Leviticus 2:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cae45eb76ab85bf0763882d8edd3076a04066b9ef0096e7de5a27740f85c2259"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cae45eb76ab85bf0763882d8edd3076a04066b9ef0096e7de5a27740f85c2259"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/leviticus/Leviticus_02.md",
+    "blob_sha": "1aa916d678285fadba89d7a0bacedcf5e4235bf5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
