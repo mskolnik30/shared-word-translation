@@ -1,0 +1,78 @@
+{
+  "book": "2 Thessalonians",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 3,
+  "public_verse_slots": 47,
+  "included_verse_labels": 47,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "endurance",
+    "righteous judgment",
+    "coming/parousia",
+    "day of the Lord",
+    "lawlessness",
+    "truth and deception",
+    "tradition",
+    "Lord faithfulness",
+    "work and quietness",
+    "community correction"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "1:6-10",
+      "decision": "divine judgment retained; believers not commissioned to enact vengeance"
+    },
+    {
+      "location": "2:3-12",
+      "decision": "lawless one, temple, rebellion, restrainer left unidentified; no modern speculation"
+    },
+    {
+      "location": "2:13",
+      "decision": "firstfruits follows SBLGNT; from-beginning variant noted"
+    },
+    {
+      "location": "3:10",
+      "decision": "unwilling to work, not unable to work"
+    },
+    {
+      "location": "3:14-15",
+      "decision": "discipline remains familial, not enemy treatment"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Thess.txt",
+    "git_blob_sha": "d73ba27f24a7d4a953242bc81d230833152c87ed"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "d73ba27f24a7d4a953242bc81d230833152c87ed",
+    "source_binding_count": 47,
+    "unique_source_record_count": 47,
+    "public_verse_slots": 47,
+    "ledger_summary": {
+      "F0": 3,
+      "F1": 17,
+      "F2": 8,
+      "F3": 19
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/2thessalonians/2Thessalonians_01.md",
+        "blob_sha": "926c2635ba3e9810b94f58ce93825d6e0945a7a5"
+      },
+      "02": {
+        "path": "books/NT/2thessalonians/2Thessalonians_02.md",
+        "blob_sha": "128c108d5b0a3e40b5a61329ddd4b2fd7bcf83bd"
+      },
+      "03": {
+        "path": "books/NT/2thessalonians/2Thessalonians_03.md",
+        "blob_sha": "7784d10a3df17273e74798e2a1ca5f8517429f08"
+      }
+    }
+  }
+}
