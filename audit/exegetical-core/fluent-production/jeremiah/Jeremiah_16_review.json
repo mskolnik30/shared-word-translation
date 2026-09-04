@@ -1,0 +1,351 @@
+{
+  "book": "Jeremiah",
+  "chapter": 16,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 16:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 1,
+            "source_ref": "Jeremiah 16:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+      },
+      "2": {
+        "source_ref": "Jeremiah 16:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 2,
+            "source_ref": "Jeremiah 16:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5f15e7cff437f18fc2d6b9908a3c562734fcec54469000b0d8dc15f72334d011"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5f15e7cff437f18fc2d6b9908a3c562734fcec54469000b0d8dc15f72334d011"
+      },
+      "3": {
+        "source_ref": "Jeremiah 16:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 3,
+            "source_ref": "Jeremiah 16:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ad5b312ba56d645a85db186b3fcc6b935977665c5097443df90689c94bacfdc6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ad5b312ba56d645a85db186b3fcc6b935977665c5097443df90689c94bacfdc6"
+      },
+      "4": {
+        "source_ref": "Jeremiah 16:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 4,
+            "source_ref": "Jeremiah 16:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4b5a6a371a30855c41594c09d75df3eaa0514417761b12bd94f8fe3bb345381f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4b5a6a371a30855c41594c09d75df3eaa0514417761b12bd94f8fe3bb345381f"
+      },
+      "5": {
+        "source_ref": "Jeremiah 16:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 5,
+            "source_ref": "Jeremiah 16:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a69a0df34c71930a3b0703cbdfafa1f2b472cd16ff7eb43dadfcfbf1cbcc2c8b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a69a0df34c71930a3b0703cbdfafa1f2b472cd16ff7eb43dadfcfbf1cbcc2c8b"
+      },
+      "6": {
+        "source_ref": "Jeremiah 16:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 6,
+            "source_ref": "Jeremiah 16:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e12ac135f8cd39f98c94527423c7775d20d889232600c98ef8543f4b1081cb11"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e12ac135f8cd39f98c94527423c7775d20d889232600c98ef8543f4b1081cb11"
+      },
+      "7": {
+        "source_ref": "Jeremiah 16:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 7,
+            "source_ref": "Jeremiah 16:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5c2eadbe349958ff94bb0c058106859389dc406fb9654ab43522d5c0dde79e0d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5c2eadbe349958ff94bb0c058106859389dc406fb9654ab43522d5c0dde79e0d"
+      },
+      "8": {
+        "source_ref": "Jeremiah 16:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 8,
+            "source_ref": "Jeremiah 16:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e73bba08983460f926ecacc8a4c23d28f8c5a8d98fd11c694b2a3fce3843ac7e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e73bba08983460f926ecacc8a4c23d28f8c5a8d98fd11c694b2a3fce3843ac7e"
+      },
+      "9": {
+        "source_ref": "Jeremiah 16:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 9,
+            "source_ref": "Jeremiah 16:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7e49972fcc982beebef25e2662093d3ab867c2262c7f8a77afb36120893b8a47"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7e49972fcc982beebef25e2662093d3ab867c2262c7f8a77afb36120893b8a47"
+      },
+      "10": {
+        "source_ref": "Jeremiah 16:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 10,
+            "source_ref": "Jeremiah 16:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "44938a75889aeac8ebd7ef3400db7b54ce92b49ddaef0a5bc170d25fe7d21e96"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "44938a75889aeac8ebd7ef3400db7b54ce92b49ddaef0a5bc170d25fe7d21e96"
+      },
+      "11": {
+        "source_ref": "Jeremiah 16:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 11,
+            "source_ref": "Jeremiah 16:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4ae206fb3ebf9c4179ea80dbff1a0aa7db17e7ef708adf0de2b95ddf3539b433"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4ae206fb3ebf9c4179ea80dbff1a0aa7db17e7ef708adf0de2b95ddf3539b433"
+      },
+      "12": {
+        "source_ref": "Jeremiah 16:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 12,
+            "source_ref": "Jeremiah 16:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "834f1dbee4dcb64e7da32a6310019432692b648fb39a60f678d4cc33a2e5a730"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "834f1dbee4dcb64e7da32a6310019432692b648fb39a60f678d4cc33a2e5a730"
+      },
+      "13": {
+        "source_ref": "Jeremiah 16:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 13,
+            "source_ref": "Jeremiah 16:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "605cbd245d74445be597e219b3ef84a8343b55b16780f1a67df9b4f0d377038c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "605cbd245d74445be597e219b3ef84a8343b55b16780f1a67df9b4f0d377038c"
+      },
+      "14": {
+        "source_ref": "Jeremiah 16:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 14,
+            "source_ref": "Jeremiah 16:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3119a6d0f7571114cd43a34ed416edcb13c3532e8aea10d5e5b506582b4ce328"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3119a6d0f7571114cd43a34ed416edcb13c3532e8aea10d5e5b506582b4ce328"
+      },
+      "15": {
+        "source_ref": "Jeremiah 16:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 15,
+            "source_ref": "Jeremiah 16:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4d302bf6b68b80aa77097f1e96367edc162d54ae5e81de142ac6e266ca739b28"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4d302bf6b68b80aa77097f1e96367edc162d54ae5e81de142ac6e266ca739b28"
+      },
+      "16": {
+        "source_ref": "Jeremiah 16:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 16,
+            "source_ref": "Jeremiah 16:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "890fbed41dccf1cf6d42ae1b38e77477941832af91fdd67d6ae63010e3d4bc6c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "890fbed41dccf1cf6d42ae1b38e77477941832af91fdd67d6ae63010e3d4bc6c"
+      },
+      "17": {
+        "source_ref": "Jeremiah 16:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 17,
+            "source_ref": "Jeremiah 16:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5eac5e942e07dd924261a43502617259677196a80bb29a9477c4f2b1ed97d0c8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5eac5e942e07dd924261a43502617259677196a80bb29a9477c4f2b1ed97d0c8"
+      },
+      "18": {
+        "source_ref": "Jeremiah 16:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 18,
+            "source_ref": "Jeremiah 16:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0a3447bbe5409ada2b9370d12cc8feb76de44057002570d6943dc71fedc543b2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0a3447bbe5409ada2b9370d12cc8feb76de44057002570d6943dc71fedc543b2"
+      },
+      "19": {
+        "source_ref": "Jeremiah 16:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 19,
+            "source_ref": "Jeremiah 16:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c69f63e8168c97931216110aae94d507d6e6c17fd4c5f49ec1a10ea5f83de3f2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c69f63e8168c97931216110aae94d507d6e6c17fd4c5f49ec1a10ea5f83de3f2"
+      },
+      "20": {
+        "source_ref": "Jeremiah 16:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 20,
+            "source_ref": "Jeremiah 16:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "895c2ea05abd747ae9a9a5c9d3c059c052dca0b6cf424d86f73eb094760bb6d5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "895c2ea05abd747ae9a9a5c9d3c059c052dca0b6cf424d86f73eb094760bb6d5"
+      },
+      "21": {
+        "source_ref": "Jeremiah 16:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 21,
+            "source_ref": "Jeremiah 16:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "664d906f986b6eb81ee82e3e1791cc7a34e845a0654ec1e8cc024db074d0ba1e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "664d906f986b6eb81ee82e3e1791cc7a34e845a0654ec1e8cc024db074d0ba1e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_16.md",
+    "blob_sha": "2696bc7b7b4f8696cf86125cbf3ff96322f527ad"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,276 @@
+{
+  "book": "Jeremiah",
+  "chapter": 40,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 40:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 1,
+            "source_ref": "Jeremiah 40:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4cea3fd7c2673f8d532a8ca58de0d326457294df0c9ac4bbf0f425c6a02d70be"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4cea3fd7c2673f8d532a8ca58de0d326457294df0c9ac4bbf0f425c6a02d70be"
+      },
+      "2": {
+        "source_ref": "Jeremiah 40:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 2,
+            "source_ref": "Jeremiah 40:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ddef1788a6771983f106a34b6b9f56b3a5b574162f947c57d7150c14922602cd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ddef1788a6771983f106a34b6b9f56b3a5b574162f947c57d7150c14922602cd"
+      },
+      "3": {
+        "source_ref": "Jeremiah 40:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 3,
+            "source_ref": "Jeremiah 40:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "63cc68fcb9051fa559d7de0a13d3ab9a27a1dd241ef0df133c30e2e193959b7d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "63cc68fcb9051fa559d7de0a13d3ab9a27a1dd241ef0df133c30e2e193959b7d"
+      },
+      "4": {
+        "source_ref": "Jeremiah 40:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 4,
+            "source_ref": "Jeremiah 40:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "749182c1723ed63b6d9e5cc36229b1bf4a98e504a92f07bcc5363c4e20b33a8c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "749182c1723ed63b6d9e5cc36229b1bf4a98e504a92f07bcc5363c4e20b33a8c"
+      },
+      "5": {
+        "source_ref": "Jeremiah 40:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 5,
+            "source_ref": "Jeremiah 40:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f7303b8ece37ee7d91b2ed6eddf24f4db500a1be4aa44df39d02569c708bcd48"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f7303b8ece37ee7d91b2ed6eddf24f4db500a1be4aa44df39d02569c708bcd48"
+      },
+      "6": {
+        "source_ref": "Jeremiah 40:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 6,
+            "source_ref": "Jeremiah 40:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "519b801357942aa6bb56f40b97ac6b51b1eec9e62d87548d02f817fd77297cbc"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "519b801357942aa6bb56f40b97ac6b51b1eec9e62d87548d02f817fd77297cbc"
+      },
+      "7": {
+        "source_ref": "Jeremiah 40:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 7,
+            "source_ref": "Jeremiah 40:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "be9529119bef8d4e06cdec402832587e6c12d37907e015c0e26366315308c08b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "be9529119bef8d4e06cdec402832587e6c12d37907e015c0e26366315308c08b"
+      },
+      "8": {
+        "source_ref": "Jeremiah 40:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 8,
+            "source_ref": "Jeremiah 40:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "691461ac597e8528a1c66a8cac4c029761325fae7ae8af4a1e5d89491e87e2fc"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "691461ac597e8528a1c66a8cac4c029761325fae7ae8af4a1e5d89491e87e2fc"
+      },
+      "9": {
+        "source_ref": "Jeremiah 40:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 9,
+            "source_ref": "Jeremiah 40:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "cf872b0db980e357f34f0de9c27d7f0a5fc299ab9a8728cb75550c3534c1f6dd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "cf872b0db980e357f34f0de9c27d7f0a5fc299ab9a8728cb75550c3534c1f6dd"
+      },
+      "10": {
+        "source_ref": "Jeremiah 40:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 10,
+            "source_ref": "Jeremiah 40:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e8d219ebe49e5894f8d30f3f0f1eb8ae6faff9b1e3df0aa970cbe79582ce11fe"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e8d219ebe49e5894f8d30f3f0f1eb8ae6faff9b1e3df0aa970cbe79582ce11fe"
+      },
+      "11": {
+        "source_ref": "Jeremiah 40:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 11,
+            "source_ref": "Jeremiah 40:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "255e8f57d501395ed09e8464ea354dc226fe3f0ab2178a141a97357e3ef10e31"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "255e8f57d501395ed09e8464ea354dc226fe3f0ab2178a141a97357e3ef10e31"
+      },
+      "12": {
+        "source_ref": "Jeremiah 40:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 12,
+            "source_ref": "Jeremiah 40:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8b4895ef46b73d6f6d3220a36788f5a504cdc9c6713dceee9b2a6514d1ded661"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8b4895ef46b73d6f6d3220a36788f5a504cdc9c6713dceee9b2a6514d1ded661"
+      },
+      "13": {
+        "source_ref": "Jeremiah 40:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 13,
+            "source_ref": "Jeremiah 40:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "41b176cde76945c4fa57cc8dcca457f98f214a389227d5cc258a80fc7a3e1f37"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "41b176cde76945c4fa57cc8dcca457f98f214a389227d5cc258a80fc7a3e1f37"
+      },
+      "14": {
+        "source_ref": "Jeremiah 40:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 14,
+            "source_ref": "Jeremiah 40:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bc0b817dd1789fcc5d44cebd8a9002c8411548af0373c39d070afd4ad1133a5e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bc0b817dd1789fcc5d44cebd8a9002c8411548af0373c39d070afd4ad1133a5e"
+      },
+      "15": {
+        "source_ref": "Jeremiah 40:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 15,
+            "source_ref": "Jeremiah 40:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b2382906a447a30f9d91b9575edffe2afaced72f684f27e833ac4499ef05668a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b2382906a447a30f9d91b9575edffe2afaced72f684f27e833ac4499ef05668a"
+      },
+      "16": {
+        "source_ref": "Jeremiah 40:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 16,
+            "source_ref": "Jeremiah 40:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0276ddb61cd6e1ab79ed2ae00ee11ea8b842870c3ae57ce3b1878df8d33d0b34"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0276ddb61cd6e1ab79ed2ae00ee11ea8b842870c3ae57ce3b1878df8d33d0b34"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_40.md",
+    "blob_sha": "8cb291a290edbd6edaf46b90fc3064a34bfd051f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

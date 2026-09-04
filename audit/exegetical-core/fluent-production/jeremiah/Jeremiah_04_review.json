@@ -1,0 +1,501 @@
+{
+  "book": "Jeremiah",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 4:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "Jeremiah 4:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a864eb8fa9cc12d5e70b37798ea17cbcbce2d1925e06fe47b147b923c5af88bb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a864eb8fa9cc12d5e70b37798ea17cbcbce2d1925e06fe47b147b923c5af88bb"
+      },
+      "2": {
+        "source_ref": "Jeremiah 4:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "Jeremiah 4:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "066fdb182fd68961dd78617e4cabd5f0a2b01d3bfc002f7b367ece57a7d8a597"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "066fdb182fd68961dd78617e4cabd5f0a2b01d3bfc002f7b367ece57a7d8a597"
+      },
+      "3": {
+        "source_ref": "Jeremiah 4:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "Jeremiah 4:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d7f77d02a9ec22969337705a45be7a7f76af4cdf85bda096fd085aa90c15157d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d7f77d02a9ec22969337705a45be7a7f76af4cdf85bda096fd085aa90c15157d"
+      },
+      "4": {
+        "source_ref": "Jeremiah 4:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "Jeremiah 4:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "df0f5e8c79e57f8f0bba6ecc83687f0b9ea44949ff1276f9b6dd5b170d0dafe7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "df0f5e8c79e57f8f0bba6ecc83687f0b9ea44949ff1276f9b6dd5b170d0dafe7"
+      },
+      "5": {
+        "source_ref": "Jeremiah 4:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "Jeremiah 4:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0dd04f99dd1589bc5b31bd6735eefd1e2a5d2e3247845d584de9a474d678ffb8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0dd04f99dd1589bc5b31bd6735eefd1e2a5d2e3247845d584de9a474d678ffb8"
+      },
+      "6": {
+        "source_ref": "Jeremiah 4:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "Jeremiah 4:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8e2c6a46453a67776aba70be0d1a4dceea75de5a77c91aa7be4a1ee5cfc99037"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8e2c6a46453a67776aba70be0d1a4dceea75de5a77c91aa7be4a1ee5cfc99037"
+      },
+      "7": {
+        "source_ref": "Jeremiah 4:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "Jeremiah 4:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d1f7b2acc3a89c5307c34875a7300dbaf97c26fde919dccc31360b3054c27a6f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d1f7b2acc3a89c5307c34875a7300dbaf97c26fde919dccc31360b3054c27a6f"
+      },
+      "8": {
+        "source_ref": "Jeremiah 4:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "Jeremiah 4:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7079fdea0da36828ff6c18bdda4cc595c4f8e6a863c89b434ef7325136ba096d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7079fdea0da36828ff6c18bdda4cc595c4f8e6a863c89b434ef7325136ba096d"
+      },
+      "9": {
+        "source_ref": "Jeremiah 4:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "Jeremiah 4:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1e0c8f0b7ef5e87dc57ad3809fa98ef82820cb548cbe5e179d3264e1701c7aec"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1e0c8f0b7ef5e87dc57ad3809fa98ef82820cb548cbe5e179d3264e1701c7aec"
+      },
+      "10": {
+        "source_ref": "Jeremiah 4:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "Jeremiah 4:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5195b563226eb67d4fc97b2527228d16479310baa7a78d218398903b7cb1a4b6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5195b563226eb67d4fc97b2527228d16479310baa7a78d218398903b7cb1a4b6"
+      },
+      "11": {
+        "source_ref": "Jeremiah 4:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "Jeremiah 4:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2bda993dd344936883ada169bee7ff43974d7bf9118c2f1c04e8fecfcada7197"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2bda993dd344936883ada169bee7ff43974d7bf9118c2f1c04e8fecfcada7197"
+      },
+      "12": {
+        "source_ref": "Jeremiah 4:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 12,
+            "source_ref": "Jeremiah 4:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "43eae1c3e497f930e3ab4877cab64604d89fbcebb083e560f26774fd7e619d9f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "43eae1c3e497f930e3ab4877cab64604d89fbcebb083e560f26774fd7e619d9f"
+      },
+      "13": {
+        "source_ref": "Jeremiah 4:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 13,
+            "source_ref": "Jeremiah 4:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6d6a13a530d3bdcefa80fc4e411fbcf9158c7f040bbde9f47aa22d0b414069af"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6d6a13a530d3bdcefa80fc4e411fbcf9158c7f040bbde9f47aa22d0b414069af"
+      },
+      "14": {
+        "source_ref": "Jeremiah 4:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 14,
+            "source_ref": "Jeremiah 4:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "52b2cf9c0998ea0f8dfd7fe129eb12987e60929fb8cc37ea06918f9dbf6638a0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "52b2cf9c0998ea0f8dfd7fe129eb12987e60929fb8cc37ea06918f9dbf6638a0"
+      },
+      "15": {
+        "source_ref": "Jeremiah 4:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 15,
+            "source_ref": "Jeremiah 4:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a3dd7e0b2772eb01b29afecfab3805442b2c352487af60d0ec99eadbf0d505ca"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a3dd7e0b2772eb01b29afecfab3805442b2c352487af60d0ec99eadbf0d505ca"
+      },
+      "16": {
+        "source_ref": "Jeremiah 4:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 16,
+            "source_ref": "Jeremiah 4:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7ab96f48efd51f8283da2cbde40edc7bffcbfad13284840dd6f69dc6a701bbbd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7ab96f48efd51f8283da2cbde40edc7bffcbfad13284840dd6f69dc6a701bbbd"
+      },
+      "17": {
+        "source_ref": "Jeremiah 4:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 17,
+            "source_ref": "Jeremiah 4:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "04de1e0f4a01fde34b4d00a84d5076a5a7d116192133c484ad53b520be8ac543"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "04de1e0f4a01fde34b4d00a84d5076a5a7d116192133c484ad53b520be8ac543"
+      },
+      "18": {
+        "source_ref": "Jeremiah 4:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 18,
+            "source_ref": "Jeremiah 4:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "99af327e01d1bee47cce003e78e0441fc47176ee777ed80d0fed55a02d040469"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "99af327e01d1bee47cce003e78e0441fc47176ee777ed80d0fed55a02d040469"
+      },
+      "19": {
+        "source_ref": "Jeremiah 4:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 19,
+            "source_ref": "Jeremiah 4:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8ace815f01e8246f54d4cc79f0da94d8d21d3c9fbbd32c247139cdb09b0b09aa"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8ace815f01e8246f54d4cc79f0da94d8d21d3c9fbbd32c247139cdb09b0b09aa"
+      },
+      "20": {
+        "source_ref": "Jeremiah 4:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 20,
+            "source_ref": "Jeremiah 4:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "49fb792c6850504b3177bf8f961bcf9683a0fbf4bd53e9427468e76f56b11c77"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "49fb792c6850504b3177bf8f961bcf9683a0fbf4bd53e9427468e76f56b11c77"
+      },
+      "21": {
+        "source_ref": "Jeremiah 4:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 21,
+            "source_ref": "Jeremiah 4:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "b1a956846e66b74e1eabce9412256aa0705152fa04a6ad6222b8d7d2d80b3dc8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "b1a956846e66b74e1eabce9412256aa0705152fa04a6ad6222b8d7d2d80b3dc8"
+      },
+      "22": {
+        "source_ref": "Jeremiah 4:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 22,
+            "source_ref": "Jeremiah 4:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6471db757e73f573efd017bec2aa76b16afc79dbed9ad0544833d30f03cf6559"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6471db757e73f573efd017bec2aa76b16afc79dbed9ad0544833d30f03cf6559"
+      },
+      "23": {
+        "source_ref": "Jeremiah 4:23 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 23,
+            "source_ref": "Jeremiah 4:23 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c6ff93e368d5b167e4f4c229752330d428d3acdbb47043cedf38862627867a6c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c6ff93e368d5b167e4f4c229752330d428d3acdbb47043cedf38862627867a6c"
+      },
+      "24": {
+        "source_ref": "Jeremiah 4:24 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 24,
+            "source_ref": "Jeremiah 4:24 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7441d0971522dc0bbeba224a6fd1570789332597bd7f30c7c35b68aff4707db7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7441d0971522dc0bbeba224a6fd1570789332597bd7f30c7c35b68aff4707db7"
+      },
+      "25": {
+        "source_ref": "Jeremiah 4:25 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 25,
+            "source_ref": "Jeremiah 4:25 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3772c585a0e6f7c9b6def4c8144232b73648f5622b5b9f62fbb38abfa47fa39e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3772c585a0e6f7c9b6def4c8144232b73648f5622b5b9f62fbb38abfa47fa39e"
+      },
+      "26": {
+        "source_ref": "Jeremiah 4:26 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 26,
+            "source_ref": "Jeremiah 4:26 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6c8ac541f5b5cf4d57b3f0a5a2adf36abcb81c03a45faadf83fe9288eaec6026"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6c8ac541f5b5cf4d57b3f0a5a2adf36abcb81c03a45faadf83fe9288eaec6026"
+      },
+      "27": {
+        "source_ref": "Jeremiah 4:27 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 27,
+            "source_ref": "Jeremiah 4:27 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d44d338cc9e730e7835e7d75f64806ab1125c63394200787c2c94c5e5c8c8187"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d44d338cc9e730e7835e7d75f64806ab1125c63394200787c2c94c5e5c8c8187"
+      },
+      "28": {
+        "source_ref": "Jeremiah 4:28 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 28,
+            "source_ref": "Jeremiah 4:28 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6bd468e598ece051186eb8f9f298859084f36835674eca884bfce66dbb8747f0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6bd468e598ece051186eb8f9f298859084f36835674eca884bfce66dbb8747f0"
+      },
+      "29": {
+        "source_ref": "Jeremiah 4:29 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 29,
+            "source_ref": "Jeremiah 4:29 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "20a723ca23903d5b51ea157cb7f9af85d66c3d2ad708be44aeab57473d66a4ce"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "20a723ca23903d5b51ea157cb7f9af85d66c3d2ad708be44aeab57473d66a4ce"
+      },
+      "30": {
+        "source_ref": "Jeremiah 4:30 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 30,
+            "source_ref": "Jeremiah 4:30 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8ce0592ad6b1586a5b924e06792479fce8af18ebf26a6ba39977a2d6eb2b70fe"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8ce0592ad6b1586a5b924e06792479fce8af18ebf26a6ba39977a2d6eb2b70fe"
+      },
+      "31": {
+        "source_ref": "Jeremiah 4:31 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 31,
+            "source_ref": "Jeremiah 4:31 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "0240cf5657e4841ed28df67f41742dacf813e41e4fad91d43f1a7d5ab783aad0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "0240cf5657e4841ed28df67f41742dacf813e41e4fad91d43f1a7d5ab783aad0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_04.md",
+    "blob_sha": "de637e60d3e4a74f24dd61494c180cbfdc152a1a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

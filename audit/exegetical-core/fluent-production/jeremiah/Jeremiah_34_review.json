@@ -1,0 +1,372 @@
+{
+  "book": "Jeremiah",
+  "chapter": 34,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "34:1-45:5",
+      "decision": "Keep failed release, siege, scroll, Jerusalem's fall, forced migration, and Baruch's word together.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 34:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 1,
+            "source_ref": "Jeremiah 34:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9f7246c840e3c768321dcd84063402f2d1ade24c661c657528609f03d9ae4f14"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9f7246c840e3c768321dcd84063402f2d1ade24c661c657528609f03d9ae4f14"
+      },
+      "2": {
+        "source_ref": "Jeremiah 34:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 2,
+            "source_ref": "Jeremiah 34:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a38f865f6d131f691ebdf5e1d31b84cc20c673a82f31af6b7d99cf8b0f5335e5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a38f865f6d131f691ebdf5e1d31b84cc20c673a82f31af6b7d99cf8b0f5335e5"
+      },
+      "3": {
+        "source_ref": "Jeremiah 34:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 3,
+            "source_ref": "Jeremiah 34:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "69737d8fc7d712700e514983b82aba539bb6f7f1fe984794dc26f315f0634806"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "69737d8fc7d712700e514983b82aba539bb6f7f1fe984794dc26f315f0634806"
+      },
+      "4": {
+        "source_ref": "Jeremiah 34:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 4,
+            "source_ref": "Jeremiah 34:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f3d77cd397d67a67742080ffc01c6638cb09f50e5c69508ada572ef0a9b4942a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f3d77cd397d67a67742080ffc01c6638cb09f50e5c69508ada572ef0a9b4942a"
+      },
+      "5": {
+        "source_ref": "Jeremiah 34:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 5,
+            "source_ref": "Jeremiah 34:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c3e59917df9d301c809656b18f1eeb732ab38d172959b228a87e83b7b53c2ea2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c3e59917df9d301c809656b18f1eeb732ab38d172959b228a87e83b7b53c2ea2"
+      },
+      "6": {
+        "source_ref": "Jeremiah 34:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 6,
+            "source_ref": "Jeremiah 34:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "eb0af8eff169c67d31a7416dd37a429a47e6803760913fc5ac53182e324706f8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "eb0af8eff169c67d31a7416dd37a429a47e6803760913fc5ac53182e324706f8"
+      },
+      "7": {
+        "source_ref": "Jeremiah 34:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 7,
+            "source_ref": "Jeremiah 34:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "73cc6c609f136ec854e728c52a1ee1dca0dc61c5bd45db7376062c9d651f1086"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "73cc6c609f136ec854e728c52a1ee1dca0dc61c5bd45db7376062c9d651f1086"
+      },
+      "8": {
+        "source_ref": "Jeremiah 34:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 8,
+            "source_ref": "Jeremiah 34:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "00ae8a9654163c9c80196a1cb73b530a8e0f2c5097247f32e6a987a94f548381"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "00ae8a9654163c9c80196a1cb73b530a8e0f2c5097247f32e6a987a94f548381"
+      },
+      "9": {
+        "source_ref": "Jeremiah 34:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 9,
+            "source_ref": "Jeremiah 34:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "688a4c6394da2d1aab30e84c574b8c4f1f89543806b5167bc3fa49d3bdc33414"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "688a4c6394da2d1aab30e84c574b8c4f1f89543806b5167bc3fa49d3bdc33414"
+      },
+      "10": {
+        "source_ref": "Jeremiah 34:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 10,
+            "source_ref": "Jeremiah 34:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a6b9d807feeecde9895867ebe8f4239a3ee2902f483f4a76efe06c00e52aa6f2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a6b9d807feeecde9895867ebe8f4239a3ee2902f483f4a76efe06c00e52aa6f2"
+      },
+      "11": {
+        "source_ref": "Jeremiah 34:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 11,
+            "source_ref": "Jeremiah 34:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "fab6a4ef28bd8d72aa67137dfd35dbb46cfc1d5a902ee16c786881e463b7114b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "fab6a4ef28bd8d72aa67137dfd35dbb46cfc1d5a902ee16c786881e463b7114b"
+      },
+      "12": {
+        "source_ref": "Jeremiah 34:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 12,
+            "source_ref": "Jeremiah 34:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "962c7a91bb80a700e955a5942eea2125c4d62057d2d2635de8fe99a1b6462584"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "962c7a91bb80a700e955a5942eea2125c4d62057d2d2635de8fe99a1b6462584"
+      },
+      "13": {
+        "source_ref": "Jeremiah 34:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 13,
+            "source_ref": "Jeremiah 34:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ecb45e067a5064a91b2bd86f57bc976a79356fbc8280f939a2f91d81e5f924f7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ecb45e067a5064a91b2bd86f57bc976a79356fbc8280f939a2f91d81e5f924f7"
+      },
+      "14": {
+        "source_ref": "Jeremiah 34:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 14,
+            "source_ref": "Jeremiah 34:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a3140bce13b1fb77bd08cf5fe790d97fa2409a72ca304ff329178aadfaa0df86"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a3140bce13b1fb77bd08cf5fe790d97fa2409a72ca304ff329178aadfaa0df86"
+      },
+      "15": {
+        "source_ref": "Jeremiah 34:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 15,
+            "source_ref": "Jeremiah 34:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e3fec4e73723c47bdc47d7ad8c2d0f7e92ce39f544a6e53238a58ba493288a7c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e3fec4e73723c47bdc47d7ad8c2d0f7e92ce39f544a6e53238a58ba493288a7c"
+      },
+      "16": {
+        "source_ref": "Jeremiah 34:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 16,
+            "source_ref": "Jeremiah 34:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a62dfd90ee99afc3210e98a5f02bdf92ad0234854372e991e0486178aab5828c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a62dfd90ee99afc3210e98a5f02bdf92ad0234854372e991e0486178aab5828c"
+      },
+      "17": {
+        "source_ref": "Jeremiah 34:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 17,
+            "source_ref": "Jeremiah 34:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7e5308b722948427a963d18fce47eb946650e277a6c54ba6386ea22f237d829c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7e5308b722948427a963d18fce47eb946650e277a6c54ba6386ea22f237d829c"
+      },
+      "18": {
+        "source_ref": "Jeremiah 34:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 18,
+            "source_ref": "Jeremiah 34:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "db7f16d2182e5b625aaccbb16c361d54d3cf156fbf6404b453113de62a10fa1c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "db7f16d2182e5b625aaccbb16c361d54d3cf156fbf6404b453113de62a10fa1c"
+      },
+      "19": {
+        "source_ref": "Jeremiah 34:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 19,
+            "source_ref": "Jeremiah 34:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d377224be469a8092e9fac04b746b1fd994eea3f7fb48fdff7ab7c22338be985"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d377224be469a8092e9fac04b746b1fd994eea3f7fb48fdff7ab7c22338be985"
+      },
+      "20": {
+        "source_ref": "Jeremiah 34:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 20,
+            "source_ref": "Jeremiah 34:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "bd42da7f5bdbb9fa25a9f1f667b0b7b5fe34d2c96644cdb5dd77fb3de466f1be"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "bd42da7f5bdbb9fa25a9f1f667b0b7b5fe34d2c96644cdb5dd77fb3de466f1be"
+      },
+      "21": {
+        "source_ref": "Jeremiah 34:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 21,
+            "source_ref": "Jeremiah 34:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "57bbef8ecbb1132007d06467885bc232093d3cdbc85f038dd86764645a3f4f14"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "57bbef8ecbb1132007d06467885bc232093d3cdbc85f038dd86764645a3f4f14"
+      },
+      "22": {
+        "source_ref": "Jeremiah 34:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 22,
+            "source_ref": "Jeremiah 34:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "152cc0dee047205cfae1aed013161141fb848ab3ce9d794f56ef044a26681d23"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "152cc0dee047205cfae1aed013161141fb848ab3ce9d794f56ef044a26681d23"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_34.md",
+    "blob_sha": "197739c9ca1fb62d1f50fb78fd5e0e10e6b5c751"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

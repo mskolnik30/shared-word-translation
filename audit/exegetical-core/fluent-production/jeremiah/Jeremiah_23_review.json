@@ -1,0 +1,636 @@
+{
+  "book": "Jeremiah",
+  "chapter": 23,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 23:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 1,
+            "source_ref": "Jeremiah 23:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "137209b3acac79d51c5601d673d54c3c1574c0492550e2ed666a67dd7452a2c4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "137209b3acac79d51c5601d673d54c3c1574c0492550e2ed666a67dd7452a2c4"
+      },
+      "2": {
+        "source_ref": "Jeremiah 23:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 2,
+            "source_ref": "Jeremiah 23:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "376b2f36e2eaf098efcc6710be2b9293e2a98f6bde996adbd62b4587905eafcd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "376b2f36e2eaf098efcc6710be2b9293e2a98f6bde996adbd62b4587905eafcd"
+      },
+      "3": {
+        "source_ref": "Jeremiah 23:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 3,
+            "source_ref": "Jeremiah 23:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8151c519aea018b7204663d76570cd46e9d1a3ce4c997203892e6cb7b0f97dac"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8151c519aea018b7204663d76570cd46e9d1a3ce4c997203892e6cb7b0f97dac"
+      },
+      "4": {
+        "source_ref": "Jeremiah 23:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 4,
+            "source_ref": "Jeremiah 23:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4d016190e22c37efa30cd43121c6b823d5e91de658da8e1ee84d8d3b1b3cbe2c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4d016190e22c37efa30cd43121c6b823d5e91de658da8e1ee84d8d3b1b3cbe2c"
+      },
+      "5": {
+        "source_ref": "Jeremiah 23:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 5,
+            "source_ref": "Jeremiah 23:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a6a7cdef7fba4488b0ab1348b4d2fe1b20531bbc748119630da641de3ecfec66"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a6a7cdef7fba4488b0ab1348b4d2fe1b20531bbc748119630da641de3ecfec66"
+      },
+      "6": {
+        "source_ref": "Jeremiah 23:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 6,
+            "source_ref": "Jeremiah 23:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "11f31987f1ed66af9031b182103eacb110eb6d81ac3c310119207f6a626c80bc"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "11f31987f1ed66af9031b182103eacb110eb6d81ac3c310119207f6a626c80bc"
+      },
+      "7": {
+        "source_ref": "Jeremiah 23:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 7,
+            "source_ref": "Jeremiah 23:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f026092a4f3c92d9b9deb9d9965886d0edcf4c2aed6cdb0dbe7153275d0e4bbd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f026092a4f3c92d9b9deb9d9965886d0edcf4c2aed6cdb0dbe7153275d0e4bbd"
+      },
+      "8": {
+        "source_ref": "Jeremiah 23:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 8,
+            "source_ref": "Jeremiah 23:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a94581e7e1564faaba4c3ae5791efe282407566af9f9cb9ade1b9b0fa222af21"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a94581e7e1564faaba4c3ae5791efe282407566af9f9cb9ade1b9b0fa222af21"
+      },
+      "9": {
+        "source_ref": "Jeremiah 23:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 9,
+            "source_ref": "Jeremiah 23:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "825f45278fa480951e48ff18b7a982deb8bca8ea8dec531e0e4c9f293453b4d8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "825f45278fa480951e48ff18b7a982deb8bca8ea8dec531e0e4c9f293453b4d8"
+      },
+      "10": {
+        "source_ref": "Jeremiah 23:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 10,
+            "source_ref": "Jeremiah 23:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "deecd48404b9806a53be3f34ed1238eb3ed7f39f8b6e092fbca0bbb4a6b0eb4f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "deecd48404b9806a53be3f34ed1238eb3ed7f39f8b6e092fbca0bbb4a6b0eb4f"
+      },
+      "11": {
+        "source_ref": "Jeremiah 23:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 11,
+            "source_ref": "Jeremiah 23:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7a84ffa9093d7ffb8433022cf1cb94c1fd3207f1c437a866dfa91b2f337a2d1a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7a84ffa9093d7ffb8433022cf1cb94c1fd3207f1c437a866dfa91b2f337a2d1a"
+      },
+      "12": {
+        "source_ref": "Jeremiah 23:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 12,
+            "source_ref": "Jeremiah 23:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ff0826fc9cf69348c014db492cf91aef6d787e5f0114395dc90da5d24ce8d209"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ff0826fc9cf69348c014db492cf91aef6d787e5f0114395dc90da5d24ce8d209"
+      },
+      "13": {
+        "source_ref": "Jeremiah 23:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 13,
+            "source_ref": "Jeremiah 23:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "06d2b240474e318560e767b028af11fd27a46a47176aa166ad491f8b301bfdf4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "06d2b240474e318560e767b028af11fd27a46a47176aa166ad491f8b301bfdf4"
+      },
+      "14": {
+        "source_ref": "Jeremiah 23:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 14,
+            "source_ref": "Jeremiah 23:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "73a782f8cbdf7f7d1e53f7bbaa2df2847f32919d9338eaca37142906826afcbb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "73a782f8cbdf7f7d1e53f7bbaa2df2847f32919d9338eaca37142906826afcbb"
+      },
+      "15": {
+        "source_ref": "Jeremiah 23:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 15,
+            "source_ref": "Jeremiah 23:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9d2b31a79575cf582cc1cd55117f02496a0b7e7a77601783f95113eb1e734c6e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9d2b31a79575cf582cc1cd55117f02496a0b7e7a77601783f95113eb1e734c6e"
+      },
+      "16": {
+        "source_ref": "Jeremiah 23:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 16,
+            "source_ref": "Jeremiah 23:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "cb16a21f37f682a82c9eb9eda1a945ed49e0db3342c13b66026c32317050a746"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "cb16a21f37f682a82c9eb9eda1a945ed49e0db3342c13b66026c32317050a746"
+      },
+      "17": {
+        "source_ref": "Jeremiah 23:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 17,
+            "source_ref": "Jeremiah 23:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "fb18883c733f9555fad7e94836a9690d304bc98f15850a76cb0e72aa472e55c0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "fb18883c733f9555fad7e94836a9690d304bc98f15850a76cb0e72aa472e55c0"
+      },
+      "18": {
+        "source_ref": "Jeremiah 23:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 18,
+            "source_ref": "Jeremiah 23:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5c20c80a5c46f92c22d18125000dfb789cef32b971a844fa6b283eeb6ed749f4"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5c20c80a5c46f92c22d18125000dfb789cef32b971a844fa6b283eeb6ed749f4"
+      },
+      "19": {
+        "source_ref": "Jeremiah 23:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 19,
+            "source_ref": "Jeremiah 23:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "816dd3dedc25d458706f093fa8fec3fc5e3faa841bbe05d113873eb5f9ebe9da"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "816dd3dedc25d458706f093fa8fec3fc5e3faa841bbe05d113873eb5f9ebe9da"
+      },
+      "20": {
+        "source_ref": "Jeremiah 23:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 20,
+            "source_ref": "Jeremiah 23:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c424e4e6a93d90d803f4712de15d9c27094f6ad8979b55ab054e15d5f4247042"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c424e4e6a93d90d803f4712de15d9c27094f6ad8979b55ab054e15d5f4247042"
+      },
+      "21": {
+        "source_ref": "Jeremiah 23:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 21,
+            "source_ref": "Jeremiah 23:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f0476e457dcf94fb2557ec290c67e9f51194e77d5e36e2df3b78bad5c302579a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f0476e457dcf94fb2557ec290c67e9f51194e77d5e36e2df3b78bad5c302579a"
+      },
+      "22": {
+        "source_ref": "Jeremiah 23:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 22,
+            "source_ref": "Jeremiah 23:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "018fb2aff047bb541c0f033edd58746b5f8dc35e330a9d6a6f575df53dd2f2cd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "018fb2aff047bb541c0f033edd58746b5f8dc35e330a9d6a6f575df53dd2f2cd"
+      },
+      "23": {
+        "source_ref": "Jeremiah 23:23 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 23,
+            "source_ref": "Jeremiah 23:23 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "cc7fba7f9d7d36e89cc35a21fb35a7792b80b5f0f81f981d052078444a4ec947"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "cc7fba7f9d7d36e89cc35a21fb35a7792b80b5f0f81f981d052078444a4ec947"
+      },
+      "24": {
+        "source_ref": "Jeremiah 23:24 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 24,
+            "source_ref": "Jeremiah 23:24 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e037ad235dc75131a55eda5a86aff173225be9e939bf5e22c4c3524cf0e3c08c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e037ad235dc75131a55eda5a86aff173225be9e939bf5e22c4c3524cf0e3c08c"
+      },
+      "25": {
+        "source_ref": "Jeremiah 23:25 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 25,
+            "source_ref": "Jeremiah 23:25 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "54c7712d9d592e73a571f9ddcf01996595610da98184c674bfc2e356ed088097"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "54c7712d9d592e73a571f9ddcf01996595610da98184c674bfc2e356ed088097"
+      },
+      "26": {
+        "source_ref": "Jeremiah 23:26 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 26,
+            "source_ref": "Jeremiah 23:26 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4f148f21dd699b12749844c0ab0d70f38c9ba6b91f9ba156605a986e323614c0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4f148f21dd699b12749844c0ab0d70f38c9ba6b91f9ba156605a986e323614c0"
+      },
+      "27": {
+        "source_ref": "Jeremiah 23:27 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 27,
+            "source_ref": "Jeremiah 23:27 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a5249432995800028d7e2c7b5fc2399727475b94935df55d31101c13a4b8968e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a5249432995800028d7e2c7b5fc2399727475b94935df55d31101c13a4b8968e"
+      },
+      "28": {
+        "source_ref": "Jeremiah 23:28 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 28,
+            "source_ref": "Jeremiah 23:28 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a8bf00cb5ad0356c035fb9c550627e713b0b95432fc406cd4169b6f0ba7dc107"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a8bf00cb5ad0356c035fb9c550627e713b0b95432fc406cd4169b6f0ba7dc107"
+      },
+      "29": {
+        "source_ref": "Jeremiah 23:29 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 29,
+            "source_ref": "Jeremiah 23:29 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7c0610399c5fd125e21cea3391ffdbf07d0a8970e7d31f006a7c9239d4804712"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7c0610399c5fd125e21cea3391ffdbf07d0a8970e7d31f006a7c9239d4804712"
+      },
+      "30": {
+        "source_ref": "Jeremiah 23:30 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 30,
+            "source_ref": "Jeremiah 23:30 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9af9ae88cb0582b43cb92ae5a694f82fdb94aeee069a700fa008a2f2406dd831"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9af9ae88cb0582b43cb92ae5a694f82fdb94aeee069a700fa008a2f2406dd831"
+      },
+      "31": {
+        "source_ref": "Jeremiah 23:31 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 31,
+            "source_ref": "Jeremiah 23:31 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7ee60934bf5be96e6e70aaf7cf81b0e225cc7d8153126777f86881095004690e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7ee60934bf5be96e6e70aaf7cf81b0e225cc7d8153126777f86881095004690e"
+      },
+      "32": {
+        "source_ref": "Jeremiah 23:32 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 32,
+            "source_ref": "Jeremiah 23:32 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6ad0d87e0b843b39992d7c344baed4b9dfc4fa07eb94350f5d29e080fec7ccfc"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6ad0d87e0b843b39992d7c344baed4b9dfc4fa07eb94350f5d29e080fec7ccfc"
+      },
+      "33": {
+        "source_ref": "Jeremiah 23:33 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 33,
+            "source_ref": "Jeremiah 23:33 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "010b81916d3a534a3c299fabef8d0db6ce18494b4c4afda253e2ebe371abb763"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "010b81916d3a534a3c299fabef8d0db6ce18494b4c4afda253e2ebe371abb763"
+      },
+      "34": {
+        "source_ref": "Jeremiah 23:34 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 34,
+            "source_ref": "Jeremiah 23:34 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7ed221f699b1f3752ce33ef2da3ec964cda908e8482df867cac9eeb910b1c95d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7ed221f699b1f3752ce33ef2da3ec964cda908e8482df867cac9eeb910b1c95d"
+      },
+      "35": {
+        "source_ref": "Jeremiah 23:35 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 35,
+            "source_ref": "Jeremiah 23:35 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "16d9eb010a89136afc68c5f4fcf49e15fc94ecb37c0915b9578fb476313d56ed"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "16d9eb010a89136afc68c5f4fcf49e15fc94ecb37c0915b9578fb476313d56ed"
+      },
+      "36": {
+        "source_ref": "Jeremiah 23:36 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 36,
+            "source_ref": "Jeremiah 23:36 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f2b2ace0c7c8e87dc01ab8ed1896a15f07057d5d3dedd1c1f984bb0f1c786a4c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f2b2ace0c7c8e87dc01ab8ed1896a15f07057d5d3dedd1c1f984bb0f1c786a4c"
+      },
+      "37": {
+        "source_ref": "Jeremiah 23:37 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 37,
+            "source_ref": "Jeremiah 23:37 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "9f858af07040a11edf815a26497e4ee215388de3701e96ec751d99f7ade655e0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "9f858af07040a11edf815a26497e4ee215388de3701e96ec751d99f7ade655e0"
+      },
+      "38": {
+        "source_ref": "Jeremiah 23:38 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 38,
+            "source_ref": "Jeremiah 23:38 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "638d36ed035d41278b65f02b5b5a709d162702ae09ea41ff57625ee9a50cdf99"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "638d36ed035d41278b65f02b5b5a709d162702ae09ea41ff57625ee9a50cdf99"
+      },
+      "39": {
+        "source_ref": "Jeremiah 23:39 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 39,
+            "source_ref": "Jeremiah 23:39 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3beb659377c8a370073f23882780ad3415328becd54c1769bf57f065e7e3a3cc"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3beb659377c8a370073f23882780ad3415328becd54c1769bf57f065e7e3a3cc"
+      },
+      "40": {
+        "source_ref": "Jeremiah 23:40 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 40,
+            "source_ref": "Jeremiah 23:40 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ee61b63e864e7d9827855314de11c72cd5bf895728c29d2fb82fba8f0aca09c9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ee61b63e864e7d9827855314de11c72cd5bf895728c29d2fb82fba8f0aca09c9"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_23.md",
+    "blob_sha": "44052f1b9e76f1344e9c6dbe09909d0645204148"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

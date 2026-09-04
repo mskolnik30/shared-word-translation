@@ -1,0 +1,327 @@
+{
+  "book": "Jeremiah",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-6:30",
+      "decision": "Preserve Jeremiah's call, resistance, warning, grief, and Judah's social violence.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 1:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Jeremiah 1:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6b58385c7217182ea3ad46527d2f7c8fe9c3b124b4898445f777d8cb5fa48a2e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6b58385c7217182ea3ad46527d2f7c8fe9c3b124b4898445f777d8cb5fa48a2e"
+      },
+      "2": {
+        "source_ref": "Jeremiah 1:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Jeremiah 1:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6be4da2e3a79fd78528de92e8cdcb7e5aeaf7c5c3345a215fcdc3e5885990995"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6be4da2e3a79fd78528de92e8cdcb7e5aeaf7c5c3345a215fcdc3e5885990995"
+      },
+      "3": {
+        "source_ref": "Jeremiah 1:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Jeremiah 1:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6f47b826cff38358fb0dfe16f11c5afe2e16c370de83c075a15ee5e440dd9e9f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6f47b826cff38358fb0dfe16f11c5afe2e16c370de83c075a15ee5e440dd9e9f"
+      },
+      "4": {
+        "source_ref": "Jeremiah 1:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Jeremiah 1:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+      },
+      "5": {
+        "source_ref": "Jeremiah 1:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Jeremiah 1:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "666431051e10b919e7578756f9b1dd9f8be196fd006b2e6db4aaf87adf7d6b09"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "666431051e10b919e7578756f9b1dd9f8be196fd006b2e6db4aaf87adf7d6b09"
+      },
+      "6": {
+        "source_ref": "Jeremiah 1:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Jeremiah 1:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5c5d47417e6ebc7dc6a8b248890e07a8ffa162c9167abaa81ac0b9848adb71ae"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5c5d47417e6ebc7dc6a8b248890e07a8ffa162c9167abaa81ac0b9848adb71ae"
+      },
+      "7": {
+        "source_ref": "Jeremiah 1:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Jeremiah 1:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c75b10a5f3e5af7d365037c19880c868082549529b3bbc09c1cad42233e1384d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c75b10a5f3e5af7d365037c19880c868082549529b3bbc09c1cad42233e1384d"
+      },
+      "8": {
+        "source_ref": "Jeremiah 1:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Jeremiah 1:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "603c397da469c61e0c6f2760f9cfc6794b88d9d28ccf1f1bba25b378a885ff8f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "603c397da469c61e0c6f2760f9cfc6794b88d9d28ccf1f1bba25b378a885ff8f"
+      },
+      "9": {
+        "source_ref": "Jeremiah 1:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Jeremiah 1:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "258a48d9bcce093d72630d02b6bed8382efcdfe58401de28f610f45c50f506dd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "258a48d9bcce093d72630d02b6bed8382efcdfe58401de28f610f45c50f506dd"
+      },
+      "10": {
+        "source_ref": "Jeremiah 1:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Jeremiah 1:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f4deece6f89e8b075cc94d3bef4ac2bb07628f97e095806602c736f7458be42d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f4deece6f89e8b075cc94d3bef4ac2bb07628f97e095806602c736f7458be42d"
+      },
+      "11": {
+        "source_ref": "Jeremiah 1:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Jeremiah 1:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ade338a93ab2829456a1f6f99df07248c84aa64d44870a334c76e07691597be7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ade338a93ab2829456a1f6f99df07248c84aa64d44870a334c76e07691597be7"
+      },
+      "12": {
+        "source_ref": "Jeremiah 1:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Jeremiah 1:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "84bc9c9e9fa3ccbd82bd1a7a16fe6c24b5947d5321849b8e1d796e3ef0553a61"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "84bc9c9e9fa3ccbd82bd1a7a16fe6c24b5947d5321849b8e1d796e3ef0553a61"
+      },
+      "13": {
+        "source_ref": "Jeremiah 1:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Jeremiah 1:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d2d8b49714f79ab9f5c67f1da70af83c3e67b08fd6aaa19380e999c00ef21cea"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d2d8b49714f79ab9f5c67f1da70af83c3e67b08fd6aaa19380e999c00ef21cea"
+      },
+      "14": {
+        "source_ref": "Jeremiah 1:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Jeremiah 1:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "cbfd917c599aac06103292ce2f52880724d0cd9f5f94e188ea76d01638258b5f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "cbfd917c599aac06103292ce2f52880724d0cd9f5f94e188ea76d01638258b5f"
+      },
+      "15": {
+        "source_ref": "Jeremiah 1:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Jeremiah 1:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "199fab7286876debd58eaabfc5877fd69a653be9509e12c40079edceff6a8efb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "199fab7286876debd58eaabfc5877fd69a653be9509e12c40079edceff6a8efb"
+      },
+      "16": {
+        "source_ref": "Jeremiah 1:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Jeremiah 1:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "be1e87a10b89a411f15354245e969d59363262aa1af6a58c8e2b92e97288f841"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "be1e87a10b89a411f15354245e969d59363262aa1af6a58c8e2b92e97288f841"
+      },
+      "17": {
+        "source_ref": "Jeremiah 1:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 17,
+            "source_ref": "Jeremiah 1:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "aa169625a4d734a28482d8835a8a19934f5e655844d067390f727c716476e837"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "aa169625a4d734a28482d8835a8a19934f5e655844d067390f727c716476e837"
+      },
+      "18": {
+        "source_ref": "Jeremiah 1:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 18,
+            "source_ref": "Jeremiah 1:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ba523419e3d8568603146d9448a7ea15d734ade17e21cecf745a51c30b31d153"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ba523419e3d8568603146d9448a7ea15d734ade17e21cecf745a51c30b31d153"
+      },
+      "19": {
+        "source_ref": "Jeremiah 1:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 19,
+            "source_ref": "Jeremiah 1:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "abc79ebc94d33643d8221a56a25a81ac82f9e5bce2887b067afad2bad1a7fa99"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "abc79ebc94d33643d8221a56a25a81ac82f9e5bce2887b067afad2bad1a7fa99"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_01.md",
+    "blob_sha": "37cb9bee206e309de158badcfd6efbdfdb8b68b5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

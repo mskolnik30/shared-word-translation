@@ -1,0 +1,456 @@
+{
+  "book": "Jeremiah",
+  "chapter": 38,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 38:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 1,
+            "source_ref": "Jeremiah 38:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "8edbb1241e08905f7c145006661025bbef11a3b825e5f8e84a8fd30de4402e10"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "8edbb1241e08905f7c145006661025bbef11a3b825e5f8e84a8fd30de4402e10"
+      },
+      "2": {
+        "source_ref": "Jeremiah 38:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 2,
+            "source_ref": "Jeremiah 38:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ec38166b084c50a3accaa3ad87e6896b8088d361053a37e88ff5e3ab7317de2c"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ec38166b084c50a3accaa3ad87e6896b8088d361053a37e88ff5e3ab7317de2c"
+      },
+      "3": {
+        "source_ref": "Jeremiah 38:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 3,
+            "source_ref": "Jeremiah 38:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e06157715bd539e29b2c5c8b439d250853dd570a90a51cfb30d33e4a1f399ecf"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e06157715bd539e29b2c5c8b439d250853dd570a90a51cfb30d33e4a1f399ecf"
+      },
+      "4": {
+        "source_ref": "Jeremiah 38:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 4,
+            "source_ref": "Jeremiah 38:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a8125d029d8f61c949104884dcdce193bb1c09e809e79fd55c69099855418876"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a8125d029d8f61c949104884dcdce193bb1c09e809e79fd55c69099855418876"
+      },
+      "5": {
+        "source_ref": "Jeremiah 38:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 5,
+            "source_ref": "Jeremiah 38:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "14634116941e168a5c2900eb5492d839eadd742dfbbe8be7fc5179a98ffa0ce7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "14634116941e168a5c2900eb5492d839eadd742dfbbe8be7fc5179a98ffa0ce7"
+      },
+      "6": {
+        "source_ref": "Jeremiah 38:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 6,
+            "source_ref": "Jeremiah 38:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "492f46f48cd61b77b04d67f75394261f3465b1fda45d540d2b2b3067d9e60ffb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "492f46f48cd61b77b04d67f75394261f3465b1fda45d540d2b2b3067d9e60ffb"
+      },
+      "7": {
+        "source_ref": "Jeremiah 38:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 7,
+            "source_ref": "Jeremiah 38:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "870c190e0bbc4f624b8191173fc1b0f14eff401045647ba670dca02bac9b6c95"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "870c190e0bbc4f624b8191173fc1b0f14eff401045647ba670dca02bac9b6c95"
+      },
+      "8": {
+        "source_ref": "Jeremiah 38:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 8,
+            "source_ref": "Jeremiah 38:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "c862a64ae7c330b03c9c504bcb4a56fc70d2533c24e33c56e1f6d6f5de1ad875"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "c862a64ae7c330b03c9c504bcb4a56fc70d2533c24e33c56e1f6d6f5de1ad875"
+      },
+      "9": {
+        "source_ref": "Jeremiah 38:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 9,
+            "source_ref": "Jeremiah 38:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1656e2ec83cfe417612c1525d9e7dce75654a613748ba9074ab048c9b4e5e4a0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1656e2ec83cfe417612c1525d9e7dce75654a613748ba9074ab048c9b4e5e4a0"
+      },
+      "10": {
+        "source_ref": "Jeremiah 38:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 10,
+            "source_ref": "Jeremiah 38:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a32451d4559ca80cd06a0399f69434c092af62c83149958617a2bdf615d5c8ce"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a32451d4559ca80cd06a0399f69434c092af62c83149958617a2bdf615d5c8ce"
+      },
+      "11": {
+        "source_ref": "Jeremiah 38:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 11,
+            "source_ref": "Jeremiah 38:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4a7739d8c0956fe925ce85348c54c5ee1ebc9897e40b76845ed65c740b1dce2d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4a7739d8c0956fe925ce85348c54c5ee1ebc9897e40b76845ed65c740b1dce2d"
+      },
+      "12": {
+        "source_ref": "Jeremiah 38:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 12,
+            "source_ref": "Jeremiah 38:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "236a5216e13146d634f73c669ed036e52116a16fdfe301ce0fb59660e674bb1e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "236a5216e13146d634f73c669ed036e52116a16fdfe301ce0fb59660e674bb1e"
+      },
+      "13": {
+        "source_ref": "Jeremiah 38:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 13,
+            "source_ref": "Jeremiah 38:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2e4611a63493b0eb5acf7761f3da94a21c3030118b38f36972383e514f837677"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2e4611a63493b0eb5acf7761f3da94a21c3030118b38f36972383e514f837677"
+      },
+      "14": {
+        "source_ref": "Jeremiah 38:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 14,
+            "source_ref": "Jeremiah 38:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "dd979e86c0e05e6045703651571e19819ce140fc9a1cb2eeab34904e9f9fe293"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "dd979e86c0e05e6045703651571e19819ce140fc9a1cb2eeab34904e9f9fe293"
+      },
+      "15": {
+        "source_ref": "Jeremiah 38:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 15,
+            "source_ref": "Jeremiah 38:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "a495e22d0134294e9a6ac730217f1d41f07a29384c55ac1b610391188a93a828"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "a495e22d0134294e9a6ac730217f1d41f07a29384c55ac1b610391188a93a828"
+      },
+      "16": {
+        "source_ref": "Jeremiah 38:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 16,
+            "source_ref": "Jeremiah 38:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "1229ed609b3fd58e7beb47b79d9da742e771822f850cf8179e74feec549d2671"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "1229ed609b3fd58e7beb47b79d9da742e771822f850cf8179e74feec549d2671"
+      },
+      "17": {
+        "source_ref": "Jeremiah 38:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 17,
+            "source_ref": "Jeremiah 38:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "06ec9283fad4edb317c281c321d470e6418965ba9be74035ba022104526ee383"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "06ec9283fad4edb317c281c321d470e6418965ba9be74035ba022104526ee383"
+      },
+      "18": {
+        "source_ref": "Jeremiah 38:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 18,
+            "source_ref": "Jeremiah 38:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3fe6133c5e9561226849675fed106006ec657e81ed29e89f01bed9cedcf9132b"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3fe6133c5e9561226849675fed106006ec657e81ed29e89f01bed9cedcf9132b"
+      },
+      "19": {
+        "source_ref": "Jeremiah 38:19 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 19,
+            "source_ref": "Jeremiah 38:19 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "75160a034dc853b3a50f483ca080e5b01e324d63163cc3fff6fe120f99a88c09"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "75160a034dc853b3a50f483ca080e5b01e324d63163cc3fff6fe120f99a88c09"
+      },
+      "20": {
+        "source_ref": "Jeremiah 38:20 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 20,
+            "source_ref": "Jeremiah 38:20 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d932d99951dae5b9cb010093dab45dcdccf2f9bf01ad4f5c0e6d128655ce95fa"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d932d99951dae5b9cb010093dab45dcdccf2f9bf01ad4f5c0e6d128655ce95fa"
+      },
+      "21": {
+        "source_ref": "Jeremiah 38:21 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 21,
+            "source_ref": "Jeremiah 38:21 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "464bf8dbff25984b65dd529c7384e4d388e230985b444237f4c79b6da3f0f6cd"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "464bf8dbff25984b65dd529c7384e4d388e230985b444237f4c79b6da3f0f6cd"
+      },
+      "22": {
+        "source_ref": "Jeremiah 38:22 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 22,
+            "source_ref": "Jeremiah 38:22 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "815a1a43f458c0cd3d63de38bea74242b26cf2dedafb994b151baff6d4ce83da"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "815a1a43f458c0cd3d63de38bea74242b26cf2dedafb994b151baff6d4ce83da"
+      },
+      "23": {
+        "source_ref": "Jeremiah 38:23 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 23,
+            "source_ref": "Jeremiah 38:23 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e31292fdca4c384d283466cd1f6297df0718757a0b4f5191be581003934af95a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e31292fdca4c384d283466cd1f6297df0718757a0b4f5191be581003934af95a"
+      },
+      "24": {
+        "source_ref": "Jeremiah 38:24 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 24,
+            "source_ref": "Jeremiah 38:24 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "fc297d7bf5e11183550dd20e3f5c5dc0d1857dd4ae19eaaefddee7904b70b0a7"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "fc297d7bf5e11183550dd20e3f5c5dc0d1857dd4ae19eaaefddee7904b70b0a7"
+      },
+      "25": {
+        "source_ref": "Jeremiah 38:25 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 25,
+            "source_ref": "Jeremiah 38:25 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e6e827f901e1898904963421a993e4ead75b0b0e151b58b083d364d9a7d6bd3d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e6e827f901e1898904963421a993e4ead75b0b0e151b58b083d364d9a7d6bd3d"
+      },
+      "26": {
+        "source_ref": "Jeremiah 38:26 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 26,
+            "source_ref": "Jeremiah 38:26 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3eeced6c4e901c05c54f837563905d7bb2227648094b69755473bbf2aaf27710"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3eeced6c4e901c05c54f837563905d7bb2227648094b69755473bbf2aaf27710"
+      },
+      "27": {
+        "source_ref": "Jeremiah 38:27 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 27,
+            "source_ref": "Jeremiah 38:27 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "68eba14a5c450f2173b3ed0ef0a4d3770bedc0dcb01f5a66e1d96fa15ce014ae"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "68eba14a5c450f2173b3ed0ef0a4d3770bedc0dcb01f5a66e1d96fa15ce014ae"
+      },
+      "28": {
+        "source_ref": "Jeremiah 38:28 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 28,
+            "source_ref": "Jeremiah 38:28 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "335b14173b6c09b42e0274e0d640c28985668ff93a499c98d4f4ac00dc2abf91"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "335b14173b6c09b42e0274e0d640c28985668ff93a499c98d4f4ac00dc2abf91"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_38.md",
+    "blob_sha": "af4aac19a2abc2c5b09d946010d58e91e048eebe"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

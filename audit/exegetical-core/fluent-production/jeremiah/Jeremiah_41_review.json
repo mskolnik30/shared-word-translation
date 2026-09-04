@@ -1,0 +1,306 @@
+{
+  "book": "Jeremiah",
+  "chapter": 41,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 41:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 1,
+            "source_ref": "Jeremiah 41:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5a6c7043dd95ccec9a75b23eac52b6c6509f6a252470c30fb2e084e031042877"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5a6c7043dd95ccec9a75b23eac52b6c6509f6a252470c30fb2e084e031042877"
+      },
+      "2": {
+        "source_ref": "Jeremiah 41:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 2,
+            "source_ref": "Jeremiah 41:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "6d57b28b115c1b42fcd40363ac3079e99b2cd5a182a9a42c20ff7d59511cebe9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "6d57b28b115c1b42fcd40363ac3079e99b2cd5a182a9a42c20ff7d59511cebe9"
+      },
+      "3": {
+        "source_ref": "Jeremiah 41:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 3,
+            "source_ref": "Jeremiah 41:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "469a4f8ffc8e2c0dc0242be67a1359f496669518cae60e28461a64bc3a1ee53d"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "469a4f8ffc8e2c0dc0242be67a1359f496669518cae60e28461a64bc3a1ee53d"
+      },
+      "4": {
+        "source_ref": "Jeremiah 41:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 4,
+            "source_ref": "Jeremiah 41:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7c4526ff64b16387e41e9fa9746d4a2ec3bee5561f8a796717755dcb69b75785"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7c4526ff64b16387e41e9fa9746d4a2ec3bee5561f8a796717755dcb69b75785"
+      },
+      "5": {
+        "source_ref": "Jeremiah 41:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 5,
+            "source_ref": "Jeremiah 41:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "7fb04d93013335dc956c4664859fc77db76886ce62b012c39d7116cc921d14c8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "7fb04d93013335dc956c4664859fc77db76886ce62b012c39d7116cc921d14c8"
+      },
+      "6": {
+        "source_ref": "Jeremiah 41:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 6,
+            "source_ref": "Jeremiah 41:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "3d4899fcbdf72e8c69b843e526fc27adc7462a5fab9d09a81700e8a4a80c01c1"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "3d4899fcbdf72e8c69b843e526fc27adc7462a5fab9d09a81700e8a4a80c01c1"
+      },
+      "7": {
+        "source_ref": "Jeremiah 41:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 7,
+            "source_ref": "Jeremiah 41:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "488a233c7f06cc7dc9d9deed0f4f77a7c09cc0d3305116b40cbb860099a07773"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "488a233c7f06cc7dc9d9deed0f4f77a7c09cc0d3305116b40cbb860099a07773"
+      },
+      "8": {
+        "source_ref": "Jeremiah 41:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 8,
+            "source_ref": "Jeremiah 41:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "baf581217339091ce7446a9a9cbf4c21c50ae8afe6aa212a89094eeabc62b1bb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "baf581217339091ce7446a9a9cbf4c21c50ae8afe6aa212a89094eeabc62b1bb"
+      },
+      "9": {
+        "source_ref": "Jeremiah 41:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 9,
+            "source_ref": "Jeremiah 41:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d38665496cc9e83b0fca7c98ca7d8e471f809170a8cdc999ccde380c9e131ccf"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d38665496cc9e83b0fca7c98ca7d8e471f809170a8cdc999ccde380c9e131ccf"
+      },
+      "10": {
+        "source_ref": "Jeremiah 41:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 10,
+            "source_ref": "Jeremiah 41:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "468c0945c04bb62f1acba63e651eddabdd87541200d0bee217a2ca8e08cb53f3"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "468c0945c04bb62f1acba63e651eddabdd87541200d0bee217a2ca8e08cb53f3"
+      },
+      "11": {
+        "source_ref": "Jeremiah 41:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 11,
+            "source_ref": "Jeremiah 41:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "537e2a7b40617858f6f6908a4096fab60cd0e94e1d46dc7ff4a544c0a9ffc5b2"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "537e2a7b40617858f6f6908a4096fab60cd0e94e1d46dc7ff4a544c0a9ffc5b2"
+      },
+      "12": {
+        "source_ref": "Jeremiah 41:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 12,
+            "source_ref": "Jeremiah 41:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "de21a665bc62b2e924848492e9924997b6c5849908f5d88104d3910b613db1a5"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "de21a665bc62b2e924848492e9924997b6c5849908f5d88104d3910b613db1a5"
+      },
+      "13": {
+        "source_ref": "Jeremiah 41:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 13,
+            "source_ref": "Jeremiah 41:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e32b9365d6305a13df10385b6d4fad4e4f60ddbd1a8ba1c7f53d6454603044d0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e32b9365d6305a13df10385b6d4fad4e4f60ddbd1a8ba1c7f53d6454603044d0"
+      },
+      "14": {
+        "source_ref": "Jeremiah 41:14 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 14,
+            "source_ref": "Jeremiah 41:14 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ab4de0ae3686ac6ddabcd3765bf15afa775ec2a9a395d8d974c29487eb6a0d2f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ab4de0ae3686ac6ddabcd3765bf15afa775ec2a9a395d8d974c29487eb6a0d2f"
+      },
+      "15": {
+        "source_ref": "Jeremiah 41:15 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 15,
+            "source_ref": "Jeremiah 41:15 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2e3105bacff7b6f28a75bfad6be8eaf8c7bee54fb4a3d844d223bcf6375798bc"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2e3105bacff7b6f28a75bfad6be8eaf8c7bee54fb4a3d844d223bcf6375798bc"
+      },
+      "16": {
+        "source_ref": "Jeremiah 41:16 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 16,
+            "source_ref": "Jeremiah 41:16 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "191ffd08d3340cf4eff37242f5f4078a29dbc91b39873f3a9b0e9f4af449041a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "191ffd08d3340cf4eff37242f5f4078a29dbc91b39873f3a9b0e9f4af449041a"
+      },
+      "17": {
+        "source_ref": "Jeremiah 41:17 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 17,
+            "source_ref": "Jeremiah 41:17 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "611c2a4bf778f23b882a1228992b3459f30e40939afff4adca55e3c53605ed82"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "611c2a4bf778f23b882a1228992b3459f30e40939afff4adca55e3c53605ed82"
+      },
+      "18": {
+        "source_ref": "Jeremiah 41:18 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 18,
+            "source_ref": "Jeremiah 41:18 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "e1f54bd543b52d93bda1b89c80a46ea9afec90275b1b0458f0c724b3d8fe11ae"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "e1f54bd543b52d93bda1b89c80a46ea9afec90275b1b0458f0c724b3d8fe11ae"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_41.md",
+    "blob_sha": "b692b9a08c2baad0686a49003459c2a24b3de906"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

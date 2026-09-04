@@ -1,0 +1,231 @@
+{
+  "book": "Jeremiah",
+  "chapter": 43,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jer.xml",
+    "git_blob_sha": "6c69d86485c2709048731280e606b63818f37c83",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jeremiah 43:1 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 1,
+            "source_ref": "Jeremiah 43:1 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "2bea28d904ab0e4b7cb190cfe482e123ecbf2413c279db56d21a56cff2d52ae9"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "2bea28d904ab0e4b7cb190cfe482e123ecbf2413c279db56d21a56cff2d52ae9"
+      },
+      "2": {
+        "source_ref": "Jeremiah 43:2 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 2,
+            "source_ref": "Jeremiah 43:2 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "315014be252dc1522fcb125fc0f8259a21058d7ec14bff98650b50dd7babd506"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "315014be252dc1522fcb125fc0f8259a21058d7ec14bff98650b50dd7babd506"
+      },
+      "3": {
+        "source_ref": "Jeremiah 43:3 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 3,
+            "source_ref": "Jeremiah 43:3 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "aedef5f462b251f483a170136d308ebef8d4883b55b30814b5bf3f3209e1528a"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "aedef5f462b251f483a170136d308ebef8d4883b55b30814b5bf3f3209e1528a"
+      },
+      "4": {
+        "source_ref": "Jeremiah 43:4 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 4,
+            "source_ref": "Jeremiah 43:4 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "f87db757af79f631fb0b074fd5c2b2a44fd27b968bf1e12b6c350c8fcaafb389"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "f87db757af79f631fb0b074fd5c2b2a44fd27b968bf1e12b6c350c8fcaafb389"
+      },
+      "5": {
+        "source_ref": "Jeremiah 43:5 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 5,
+            "source_ref": "Jeremiah 43:5 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "99ff27d0983c81b7259d6c40f780d64ef5828250e0a4162fae934f51f54ffbd8"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "99ff27d0983c81b7259d6c40f780d64ef5828250e0a4162fae934f51f54ffbd8"
+      },
+      "6": {
+        "source_ref": "Jeremiah 43:6 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 6,
+            "source_ref": "Jeremiah 43:6 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "228b24eb861f6340cc3a37936c53846fa7976667308369810a11712270a16d27"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "228b24eb861f6340cc3a37936c53846fa7976667308369810a11712270a16d27"
+      },
+      "7": {
+        "source_ref": "Jeremiah 43:7 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 7,
+            "source_ref": "Jeremiah 43:7 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "fbcaa9b42d2f9a6092fcf6cf044d475412425c36f0e312160a633d9142c9cf42"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "fbcaa9b42d2f9a6092fcf6cf044d475412425c36f0e312160a633d9142c9cf42"
+      },
+      "8": {
+        "source_ref": "Jeremiah 43:8 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 8,
+            "source_ref": "Jeremiah 43:8 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "ed613ab3abbeea68a37f7240cafd2e046af84e1b301fb33a17385409d9265fbf"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "ed613ab3abbeea68a37f7240cafd2e046af84e1b301fb33a17385409d9265fbf"
+      },
+      "9": {
+        "source_ref": "Jeremiah 43:9 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 9,
+            "source_ref": "Jeremiah 43:9 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "4d191522c3e897ebdd49926117ca5472d2b29cfe7e6e82830ec5b95ffeb49bcb"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "4d191522c3e897ebdd49926117ca5472d2b29cfe7e6e82830ec5b95ffeb49bcb"
+      },
+      "10": {
+        "source_ref": "Jeremiah 43:10 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 10,
+            "source_ref": "Jeremiah 43:10 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "73143d365404db29c959f7a8d7a566594369bb9b0c4b3727f6ea5d4381256d3e"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "73143d365404db29c959f7a8d7a566594369bb9b0c4b3727f6ea5d4381256d3e"
+      },
+      "11": {
+        "source_ref": "Jeremiah 43:11 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 11,
+            "source_ref": "Jeremiah 43:11 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "d956fa422c2f2ff2c33907c9cc18de8cbb1fc86d4cb3058b8ebd18a1876e8231"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "d956fa422c2f2ff2c33907c9cc18de8cbb1fc86d4cb3058b8ebd18a1876e8231"
+      },
+      "12": {
+        "source_ref": "Jeremiah 43:12 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 12,
+            "source_ref": "Jeremiah 43:12 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "665a061036b9587701efd0c0f42f92474490eafb2e74a4b732a3a4b6557d9cc0"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "665a061036b9587701efd0c0f42f92474490eafb2e74a4b732a3a4b6557d9cc0"
+      },
+      "13": {
+        "source_ref": "Jeremiah 43:13 (Hebrew; whole hebrew identity)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 13,
+            "source_ref": "Jeremiah 43:13 (Hebrew; whole hebrew identity)",
+            "segment_mode": "whole_hebrew_identity",
+            "sha256": "5d9ce7c7a1b72979f254bbb4128b82d26fda70327585e3433900756ba1d3dc3f"
+          }
+        ],
+        "segment_mode": "whole_hebrew_identity",
+        "sha256": "5d9ce7c7a1b72979f254bbb4128b82d26fda70327585e3433900756ba1d3dc3f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/jeremiah/Jeremiah_43.md",
+    "blob_sha": "ef5999f2ed48e5758bfbfce36286298964714fc3"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
