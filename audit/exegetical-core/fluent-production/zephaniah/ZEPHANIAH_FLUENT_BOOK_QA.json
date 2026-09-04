@@ -1,0 +1,67 @@
+{
+  "book": "Zephaniah",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 3,
+  "public_verse_slots": 53,
+  "included_verse_labels": 53,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 53,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zeph.xml",
+    "git_blob_sha": "db77292abc38d6c4655c892f080246883b8180a3"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-18",
+      "decision": "Retain the day of the LORD's cosmic and social scope without turning its imagery into a timetable.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-15",
+      "decision": "Keep the oracles against nations centered on arrogance, violence, and the hope of refuge for the humble.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:8-13",
+      "decision": "Preserve judgment, purified speech, dispersed worshipers, humility, and refuge as a single transformation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:14-20",
+      "decision": "Let God's presence, saving action, rejoicing love, homecoming, and restored reputation carry the conclusion.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_04",
+  "deployment_audit": {
+    "source_git_blob_sha": "db77292abc38d6c4655c892f080246883b8180a3",
+    "source_binding_count": 53,
+    "unique_source_record_count": 53,
+    "public_verse_slots": 53,
+    "ledger_summary": {
+      "F0": 8,
+      "F1": 0,
+      "F2": 0,
+      "F3": 45
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/zephaniah/Zephaniah_01.md",
+        "blob_sha": "8b2fcfdde76f0f56ced020a3b0e98e8298f8f274"
+      },
+      "02": {
+        "path": "books/OT/zephaniah/Zephaniah_02.md",
+        "blob_sha": "23adac30508f11ff6017272d26da0b5ba7337f3e"
+      },
+      "03": {
+        "path": "books/OT/zephaniah/Zephaniah_03.md",
+        "blob_sha": "fb817415622eab0c0c93d6999d29c055297825c2"
+      }
+    }
+  }
+}
