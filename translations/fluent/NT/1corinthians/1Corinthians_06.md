@@ -1,0 +1,149 @@
+---
+book: 1 Corinthians
+testament: NT
+chapter: 6
+translation: FLUENT
+status: QA_PASSED
+---
+
+## Lawsuits Among Believers
+
+<p>
+v01: Does any one of you, having a matter against another, dare to go to law before the unrighteous and not before the holy ones?
+
+v02: Or do you not realize that the holy ones will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters?
+</p>
+
+<p>
+v03: Do you not realize that we will judge angels? How much more matters of this life!
+
+v04: So if you have such cases, do you appoint as judges people who are of no account in the church?
+</p>
+
+<p>
+v05: I say this to your shame. Is there not among you one wise man who will be able to decide between his brothers and sisters?
+
+v06: But brother goes to law against brother, and this before unbelievers!
+</p>
+
+<p>
+v07: Already then it is a defeat for you that you have lawsuits with one another. Why not rather be wronged? Why not rather be defrauded?
+
+v08: But you yourselves wrong and defraud—even your own brothers and sisters.
+</p>
+
+## The Unrighteous Will Not Inherit the Kingdom
+
+<p>
+v09: Or do you not realize that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor males who practice homosexuality,
+
+v10: nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God.
+</p>
+
+<p>
+v11: And such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God.
+</p>
+
+## Glorify God in Your Body
+
+<p>
+v12: “Everything are lawful for me,” but not everything are beneficial. “Everything are lawful for me,” but I will not be mastered by anything.
+
+v13: “Food is for the stomach and the stomach for food,” but God will destroy both it and them. But the body is not for sexual immorality, but for the Lord, and the Lord for the body.
+</p>
+
+<p>
+v14: God raised the Lord and will also raise us by his power.
+
+v15: Do you not realize that your bodies are members of Christ? Will I then take the members of Christ and make them members of a prostitute? May it never be!
+</p>
+
+<p>
+v16: Or do you not realize that the one who is joined to a prostitute is one body with her? For it says, “The two will become one flesh.”
+
+v17: But the one who is joined to the Lord is one spirit with him.
+</p>
+
+<p>
+v18: Flee sexual immorality. Every sin that a person commits is outside the body, but the one who commits sexual immorality sins against his own body.
+</p>
+
+<p>
+v19: Or do you not realize that your body is a temple of the Holy Spirit within you, whom you have from God, and that you are not your own?
+
+v20: For you were bought with a price; therefore glorify God in your body.
+</p>
+
+## Notes
+
+v01–04: Internal disputes should be resolved within the community.
+
+v05–08: Lawsuits reflect moral failure and loss.
+
+v09–10: Kingdom inheritance excludes persistent unrighteousness.
+
+v11: Transformation defines identity in Christ.
+
+v12–13: Freedom is limited by benefit and mastery.
+
+v14–17: Union with Christ defines bodily identity.
+
+v18: Sexual sin uniquely involves the body.
+
+v19–20: Body as temple establishes basis for ethical conduct.
+
+## Vocabulary
+
+v01: κρίνω (krinō)
+“To judge.”
+
+v02: ἅγιος (hagios)
+“Holy one.”
+
+v04: ἐξουθενημένος (exouthenēmenos)
+“Of no account.”
+
+v07: ἥττημα (hēttēma)
+“Defeat.”
+
+v08: ἀδικέω (adikeō)
+“To wrong.”
+
+v09: ἄδικος (adikos)
+“Unrighteous.”
+
+v09: εἰδωλολάτρης (eidōlolatrēs)
+“Idolater.”
+
+v10: πλεονέκτης (pleonektēs)
+“Greedy.”
+
+v11: ἀπολούω (apolouō)
+“To wash.”
+
+v11: ἁγιάζω (hagiazō)
+“To sanctify.”
+
+v11: δικαιόω (dikaioō)
+“To justify.”
+
+v12: ἐξουσιάζω (exousiazō)
+“To be mastered by.”
+
+v13: σῶμα (sōma)
+“Body.”
+
+v16: κολλάω (kollaō)
+“To join.”
+
+v17: ἓν πνεῦμα
+“One spirit.”
+
+v18: φεύγω (pheugō)
+“To flee.”
+
+v19: ναός (naos)
+“Temple.”
+
+v20: τιμή (timē)
+“Price, value.”

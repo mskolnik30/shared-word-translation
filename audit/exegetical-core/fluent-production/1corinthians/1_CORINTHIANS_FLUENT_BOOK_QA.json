@@ -1,0 +1,139 @@
+{
+  "book": "1 Corinthians",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 16,
+  "public_verse_slots": 437,
+  "included_verse_labels": 437,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 437,
+  "source": {
+    "type": "sblgnt",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Cor.txt",
+    "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:17-25",
+      "decision": "Keep the cross as the controlling reversal of human status and rhetoric.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:9-11",
+      "decision": "Translate the vice list without importing modern identity labels beyond the Greek terms.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:1-40",
+      "decision": "Preserve Paul's pastoral concessions, mutuality, and eschatological urgency without turning counsel into a universal hierarchy.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:2-16",
+      "decision": "Retain head/authority language and the unresolved force of kephalē; do not silently settle the interpretive dispute.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:17-34",
+      "decision": "Keep the Lord's Supper critique centered on humiliation, inequality, and failure to discern the body.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:1-13",
+      "decision": "Preserve love as practiced allegiance rather than sentimentality.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "14:33-40",
+      "decision": "Retain the difficult textual and social questions around women's speech, with the wider letter's evidence of women praying and prophesying kept visible.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "15:1-58",
+      "decision": "Preserve bodily resurrection, Adam/Christ typology, and the mystery language without speculative expansion.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_03",
+  "deployment_audit": {
+    "source_git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b",
+    "source_binding_count": 437,
+    "unique_source_record_count": 437,
+    "public_verse_slots": 437,
+    "ledger_summary": {
+      "F0": 184,
+      "F1": 87,
+      "F2": 2,
+      "F3": 164
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/1corinthians/1Corinthians_01.md",
+        "blob_sha": "cd1da5aa961ecd2e76aedd0ecd1cf7b5abfa8c43"
+      },
+      "02": {
+        "path": "books/NT/1corinthians/1Corinthians_02.md",
+        "blob_sha": "7382adf47f8997b141f5c693c532c6892acd8303"
+      },
+      "03": {
+        "path": "books/NT/1corinthians/1Corinthians_03.md",
+        "blob_sha": "5f5a06425a3e7c67df1b6fe110aba8d59b94ebe8"
+      },
+      "04": {
+        "path": "books/NT/1corinthians/1Corinthians_04.md",
+        "blob_sha": "afeb3c7e762bacf069d77967eb6292b03f63e982"
+      },
+      "05": {
+        "path": "books/NT/1corinthians/1Corinthians_05.md",
+        "blob_sha": "dbcab9ab1cc204835b2fa2ae69b1bd6b97b1b774"
+      },
+      "06": {
+        "path": "books/NT/1corinthians/1Corinthians_06.md",
+        "blob_sha": "2318c6c067a8400f8197345acd685c2dcb03f3ce"
+      },
+      "07": {
+        "path": "books/NT/1corinthians/1Corinthians_07.md",
+        "blob_sha": "1619599d202b2c589164bc9fc93afd7b9172e713"
+      },
+      "08": {
+        "path": "books/NT/1corinthians/1Corinthians_08.md",
+        "blob_sha": "cda92f828a5c73e6415aae3cc4ddb333f188f062"
+      },
+      "09": {
+        "path": "books/NT/1corinthians/1Corinthians_09.md",
+        "blob_sha": "551477310d8fd7bd40dd1649c8182a42ccbcecb7"
+      },
+      "10": {
+        "path": "books/NT/1corinthians/1Corinthians_10.md",
+        "blob_sha": "00dfbf49a2f77e709da461a83a91f2bb9bb46639"
+      },
+      "11": {
+        "path": "books/NT/1corinthians/1Corinthians_11.md",
+        "blob_sha": "0f6bb30fa41a2b2b8348eee837fd22f4eae7a2cf"
+      },
+      "12": {
+        "path": "books/NT/1corinthians/1Corinthians_12.md",
+        "blob_sha": "f0fbcb359b6e279afe58b47c594d637d6af41089"
+      },
+      "13": {
+        "path": "books/NT/1corinthians/1Corinthians_13.md",
+        "blob_sha": "7b69e313a02ab2391711b9563943007bcb83ddb8"
+      },
+      "14": {
+        "path": "books/NT/1corinthians/1Corinthians_14.md",
+        "blob_sha": "dc3ec45a3024a837dec1e50d67582393883ee6b8"
+      },
+      "15": {
+        "path": "books/NT/1corinthians/1Corinthians_15.md",
+        "blob_sha": "35d5bd6a01396e2a4e8976ef80f83206bce9fc48"
+      },
+      "16": {
+        "path": "books/NT/1corinthians/1Corinthians_16.md",
+        "blob_sha": "b40c02445813c6397c141cbbee42fe327d7db833"
+      }
+    }
+  }
+}
