@@ -1,0 +1,576 @@
+{
+  "book": "Proverbs",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Proverbs 8:1",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "Proverbs 8:1",
+            "segment_mode": "whole",
+            "sha256": "f64b48e43f622c58ef9db8ce5bbfbd7e16e2d89f627ba4d57b961a5d35efe20a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f64b48e43f622c58ef9db8ce5bbfbd7e16e2d89f627ba4d57b961a5d35efe20a"
+      },
+      "2": {
+        "source_ref": "Proverbs 8:2",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "Proverbs 8:2",
+            "segment_mode": "whole",
+            "sha256": "d4f711416fd32e747bc5ad3a3b1420c68dca894cdd9d682cea772490b039f195"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4f711416fd32e747bc5ad3a3b1420c68dca894cdd9d682cea772490b039f195"
+      },
+      "3": {
+        "source_ref": "Proverbs 8:3",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "Proverbs 8:3",
+            "segment_mode": "whole",
+            "sha256": "10eef5d914c8ad502e51f01f961240c6beb5b354ddaf4645ef484275300adb67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10eef5d914c8ad502e51f01f961240c6beb5b354ddaf4645ef484275300adb67"
+      },
+      "4": {
+        "source_ref": "Proverbs 8:4",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "Proverbs 8:4",
+            "segment_mode": "whole",
+            "sha256": "7f7df7a1f07a212778a93c0f76c83211377993309f744813b966c723086dc7b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f7df7a1f07a212778a93c0f76c83211377993309f744813b966c723086dc7b5"
+      },
+      "5": {
+        "source_ref": "Proverbs 8:5",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "Proverbs 8:5",
+            "segment_mode": "whole",
+            "sha256": "be2d2c18301d011003d055d653f7c2f3d2300c6738b3a07d0c3d5adbbeb7712f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be2d2c18301d011003d055d653f7c2f3d2300c6738b3a07d0c3d5adbbeb7712f"
+      },
+      "6": {
+        "source_ref": "Proverbs 8:6",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "Proverbs 8:6",
+            "segment_mode": "whole",
+            "sha256": "cad80de0320e3d8fe14f9565e5e61d07d461c9bb2304c16ba286ae4cc71b8c4c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cad80de0320e3d8fe14f9565e5e61d07d461c9bb2304c16ba286ae4cc71b8c4c"
+      },
+      "7": {
+        "source_ref": "Proverbs 8:7",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "Proverbs 8:7",
+            "segment_mode": "whole",
+            "sha256": "3506d1efca7284a1c9ac1aea497aa96817c822606e4abfd474100f4d95bcab84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3506d1efca7284a1c9ac1aea497aa96817c822606e4abfd474100f4d95bcab84"
+      },
+      "8": {
+        "source_ref": "Proverbs 8:8",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "Proverbs 8:8",
+            "segment_mode": "whole",
+            "sha256": "f4ea6236729937981b7bf29e5425f9028d30c8c8b1e6c445e462a6c24e342c5e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4ea6236729937981b7bf29e5425f9028d30c8c8b1e6c445e462a6c24e342c5e"
+      },
+      "9": {
+        "source_ref": "Proverbs 8:9",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "Proverbs 8:9",
+            "segment_mode": "whole",
+            "sha256": "9a2e4a9e51c468cbc5224ed6e36e2c373eb25f1dc5cc5d6b6b5c7aa1a03c270c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a2e4a9e51c468cbc5224ed6e36e2c373eb25f1dc5cc5d6b6b5c7aa1a03c270c"
+      },
+      "10": {
+        "source_ref": "Proverbs 8:10",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "Proverbs 8:10",
+            "segment_mode": "whole",
+            "sha256": "cc680b66b646ddb0aaa9d2e8f074c2b477bf0dd1743788bcf74ffcde7db7a9ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc680b66b646ddb0aaa9d2e8f074c2b477bf0dd1743788bcf74ffcde7db7a9ba"
+      },
+      "11": {
+        "source_ref": "Proverbs 8:11",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "Proverbs 8:11",
+            "segment_mode": "whole",
+            "sha256": "a4e901947e20dbf7d72c99086960c521de89dc2369bb08c13ae8cf4392846eb4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a4e901947e20dbf7d72c99086960c521de89dc2369bb08c13ae8cf4392846eb4"
+      },
+      "12": {
+        "source_ref": "Proverbs 8:12",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "Proverbs 8:12",
+            "segment_mode": "whole",
+            "sha256": "2bb05506eb1fdd46ddc2899795e387a9a5757f940829502a07d77163584fd59f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2bb05506eb1fdd46ddc2899795e387a9a5757f940829502a07d77163584fd59f"
+      },
+      "13": {
+        "source_ref": "Proverbs 8:13",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "Proverbs 8:13",
+            "segment_mode": "whole",
+            "sha256": "1aa759b2be04435580bdfb13addfb3503cf2b5b9bc0b8b80baf96e0f59134e0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1aa759b2be04435580bdfb13addfb3503cf2b5b9bc0b8b80baf96e0f59134e0c"
+      },
+      "14": {
+        "source_ref": "Proverbs 8:14",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 14,
+            "source_ref": "Proverbs 8:14",
+            "segment_mode": "whole",
+            "sha256": "2418799c9a6a73a42b5b015c86a3c327067d37b1d703cb4030387c8c7df55a84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2418799c9a6a73a42b5b015c86a3c327067d37b1d703cb4030387c8c7df55a84"
+      },
+      "15": {
+        "source_ref": "Proverbs 8:15",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 15,
+            "source_ref": "Proverbs 8:15",
+            "segment_mode": "whole",
+            "sha256": "0e552aff5639c3f8d610fa81ef08f587c4fed141e31ff0300b6db01a9a2afea5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e552aff5639c3f8d610fa81ef08f587c4fed141e31ff0300b6db01a9a2afea5"
+      },
+      "16": {
+        "source_ref": "Proverbs 8:16",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 16,
+            "source_ref": "Proverbs 8:16",
+            "segment_mode": "whole",
+            "sha256": "416e4abef076bd795d231b3d923b3fdc3afe0aba497a48a253add15c3614de5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "416e4abef076bd795d231b3d923b3fdc3afe0aba497a48a253add15c3614de5d"
+      },
+      "17": {
+        "source_ref": "Proverbs 8:17",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 17,
+            "source_ref": "Proverbs 8:17",
+            "segment_mode": "whole",
+            "sha256": "98b965b99ef2e843955aefd6621ab09d92cf3b5c68203a5f23232105366f73e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98b965b99ef2e843955aefd6621ab09d92cf3b5c68203a5f23232105366f73e4"
+      },
+      "18": {
+        "source_ref": "Proverbs 8:18",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 18,
+            "source_ref": "Proverbs 8:18",
+            "segment_mode": "whole",
+            "sha256": "fe5b0b80cddc39802dbe268f37e3457d035ae401c7ea15671daca69b0ad84628"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe5b0b80cddc39802dbe268f37e3457d035ae401c7ea15671daca69b0ad84628"
+      },
+      "19": {
+        "source_ref": "Proverbs 8:19",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 19,
+            "source_ref": "Proverbs 8:19",
+            "segment_mode": "whole",
+            "sha256": "42322e5af065975b5627ba608d9e24e32c24237d8e4ff61849eec8aaa9656def"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42322e5af065975b5627ba608d9e24e32c24237d8e4ff61849eec8aaa9656def"
+      },
+      "20": {
+        "source_ref": "Proverbs 8:20",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 20,
+            "source_ref": "Proverbs 8:20",
+            "segment_mode": "whole",
+            "sha256": "a0358e192f5ae9060ff2326c94347f8c54e3e6dff73c0fefadec35d13ce2977d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0358e192f5ae9060ff2326c94347f8c54e3e6dff73c0fefadec35d13ce2977d"
+      },
+      "21": {
+        "source_ref": "Proverbs 8:21",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 21,
+            "source_ref": "Proverbs 8:21",
+            "segment_mode": "whole",
+            "sha256": "3beb63398e03040218fd605bdef8e51d355f78c72931b536a6c54d5ffd18d008"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3beb63398e03040218fd605bdef8e51d355f78c72931b536a6c54d5ffd18d008"
+      },
+      "22": {
+        "source_ref": "Proverbs 8:22",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 22,
+            "source_ref": "Proverbs 8:22",
+            "segment_mode": "whole",
+            "sha256": "eb2419ff1730589d5f9b6fc7bdb074d5ce0fefe56f8500936cfc711aa93cd15f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb2419ff1730589d5f9b6fc7bdb074d5ce0fefe56f8500936cfc711aa93cd15f"
+      },
+      "23": {
+        "source_ref": "Proverbs 8:23",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 23,
+            "source_ref": "Proverbs 8:23",
+            "segment_mode": "whole",
+            "sha256": "19eb9cb8671ccbe3f5c17616307d4f86866dd218cc2ce90b3a10f784e19d9595"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "19eb9cb8671ccbe3f5c17616307d4f86866dd218cc2ce90b3a10f784e19d9595"
+      },
+      "24": {
+        "source_ref": "Proverbs 8:24",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 24,
+            "source_ref": "Proverbs 8:24",
+            "segment_mode": "whole",
+            "sha256": "d02bdf92633e0587e95c5847993aa77bb19350566d64b46e4a1b09b8042f7404"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d02bdf92633e0587e95c5847993aa77bb19350566d64b46e4a1b09b8042f7404"
+      },
+      "25": {
+        "source_ref": "Proverbs 8:25",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 25,
+            "source_ref": "Proverbs 8:25",
+            "segment_mode": "whole",
+            "sha256": "564e457ab156ecb96d45485ce9be4dc212a29785d1634b2282a75dfbeede699b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "564e457ab156ecb96d45485ce9be4dc212a29785d1634b2282a75dfbeede699b"
+      },
+      "26": {
+        "source_ref": "Proverbs 8:26",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 26,
+            "source_ref": "Proverbs 8:26",
+            "segment_mode": "whole",
+            "sha256": "1a98134e89e0839006a6d9c0cc58f4d8e525db90fae0559885ba8169a6bbd5bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a98134e89e0839006a6d9c0cc58f4d8e525db90fae0559885ba8169a6bbd5bb"
+      },
+      "27": {
+        "source_ref": "Proverbs 8:27",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 27,
+            "source_ref": "Proverbs 8:27",
+            "segment_mode": "whole",
+            "sha256": "06f4093468d8442035974cc5be166c94d6a5b22b170ecd9e193de8368b3347e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06f4093468d8442035974cc5be166c94d6a5b22b170ecd9e193de8368b3347e6"
+      },
+      "28": {
+        "source_ref": "Proverbs 8:28",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 28,
+            "source_ref": "Proverbs 8:28",
+            "segment_mode": "whole",
+            "sha256": "d4ea9b2cd9e1517786e153fddeb0f42e99960716a899f6f312996f233da98e7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4ea9b2cd9e1517786e153fddeb0f42e99960716a899f6f312996f233da98e7d"
+      },
+      "29": {
+        "source_ref": "Proverbs 8:29",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 29,
+            "source_ref": "Proverbs 8:29",
+            "segment_mode": "whole",
+            "sha256": "79c860a36e93ec50e451b5004c22a58ee523b2119cd737ff56813bc212a587c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79c860a36e93ec50e451b5004c22a58ee523b2119cd737ff56813bc212a587c7"
+      },
+      "30": {
+        "source_ref": "Proverbs 8:30",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 30,
+            "source_ref": "Proverbs 8:30",
+            "segment_mode": "whole",
+            "sha256": "75fe7a630ad32d488ac7884456ba5cd02efe8e021ff4d2345fb9935d015752d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75fe7a630ad32d488ac7884456ba5cd02efe8e021ff4d2345fb9935d015752d8"
+      },
+      "31": {
+        "source_ref": "Proverbs 8:31",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 31,
+            "source_ref": "Proverbs 8:31",
+            "segment_mode": "whole",
+            "sha256": "607f3cd1fe338d5b49c577f19569f1a627a9161eccea83847210613aaafffb43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "607f3cd1fe338d5b49c577f19569f1a627a9161eccea83847210613aaafffb43"
+      },
+      "32": {
+        "source_ref": "Proverbs 8:32",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 32,
+            "source_ref": "Proverbs 8:32",
+            "segment_mode": "whole",
+            "sha256": "423c7c525ec6fadfaac3fd9941e4d66a6b10942321d72bf3a1f121750480e19d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "423c7c525ec6fadfaac3fd9941e4d66a6b10942321d72bf3a1f121750480e19d"
+      },
+      "33": {
+        "source_ref": "Proverbs 8:33",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 33,
+            "source_ref": "Proverbs 8:33",
+            "segment_mode": "whole",
+            "sha256": "ff0769c4adce9e9c108f5badc7ac54ac5db04339fc92c66f49d30ba63dfda036"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff0769c4adce9e9c108f5badc7ac54ac5db04339fc92c66f49d30ba63dfda036"
+      },
+      "34": {
+        "source_ref": "Proverbs 8:34",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 34,
+            "source_ref": "Proverbs 8:34",
+            "segment_mode": "whole",
+            "sha256": "cc17085f6d2260a7dcaa106d43fae0ed506b788536d7d5aa7eb9e575b9459216"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc17085f6d2260a7dcaa106d43fae0ed506b788536d7d5aa7eb9e575b9459216"
+      },
+      "35": {
+        "source_ref": "Proverbs 8:35",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 35,
+            "source_ref": "Proverbs 8:35",
+            "segment_mode": "whole",
+            "sha256": "b79ca7e3a570a3897a93a75daa29af3d53f1fe83d240c933bd4a24fcd243010e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b79ca7e3a570a3897a93a75daa29af3d53f1fe83d240c933bd4a24fcd243010e"
+      },
+      "36": {
+        "source_ref": "Proverbs 8:36",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 36,
+            "source_ref": "Proverbs 8:36",
+            "segment_mode": "whole",
+            "sha256": "f240ca6109335ff133c4257f523003859e80c18379f13d4ab84a92f23de0e33c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f240ca6109335ff133c4257f523003859e80c18379f13d4ab84a92f23de0e33c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/proverbs/Proverbs_08.md",
+    "blob_sha": "1ecb3916681aa0aa65ac78932597a652297b5be0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
