@@ -1,0 +1,741 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Chronicles 11:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 1,
+            "source_ref": "1 Chronicles 11:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71bcc900b47853cb5a4913f91569fc75c9d0cce80e2db607eb53ecb822368f8f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71bcc900b47853cb5a4913f91569fc75c9d0cce80e2db607eb53ecb822368f8f"
+      },
+      "2": {
+        "source_ref": "1 Chronicles 11:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 2,
+            "source_ref": "1 Chronicles 11:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ebe90f97adb8a600bbff7f09e401ada53776054904529cf5d15207d8d10a2be7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ebe90f97adb8a600bbff7f09e401ada53776054904529cf5d15207d8d10a2be7"
+      },
+      "3": {
+        "source_ref": "1 Chronicles 11:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 3,
+            "source_ref": "1 Chronicles 11:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "888583fd4e46184808b7126b64b41b0b7bb31af2292fb833e3d08cc3e506925d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "888583fd4e46184808b7126b64b41b0b7bb31af2292fb833e3d08cc3e506925d"
+      },
+      "4": {
+        "source_ref": "1 Chronicles 11:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 4,
+            "source_ref": "1 Chronicles 11:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9694684b6e930fd085eae9e238a142ee0ea7a788021293ed88babe469fe0c637"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9694684b6e930fd085eae9e238a142ee0ea7a788021293ed88babe469fe0c637"
+      },
+      "5": {
+        "source_ref": "1 Chronicles 11:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 5,
+            "source_ref": "1 Chronicles 11:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "96edf41393bb5b78023a924a044766387415c7c189211cf2fe7eb684d2a14a38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96edf41393bb5b78023a924a044766387415c7c189211cf2fe7eb684d2a14a38"
+      },
+      "6": {
+        "source_ref": "1 Chronicles 11:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 6,
+            "source_ref": "1 Chronicles 11:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b41bc0385d6d6e71fb34d39fa228b964103b0e72af7f4cf802530a068bff0ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b41bc0385d6d6e71fb34d39fa228b964103b0e72af7f4cf802530a068bff0ff"
+      },
+      "7": {
+        "source_ref": "1 Chronicles 11:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 7,
+            "source_ref": "1 Chronicles 11:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "23af3f561253520d070eb032db570fd2978efb67403f26415f2af36b3f0bb98a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23af3f561253520d070eb032db570fd2978efb67403f26415f2af36b3f0bb98a"
+      },
+      "8": {
+        "source_ref": "1 Chronicles 11:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 8,
+            "source_ref": "1 Chronicles 11:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0d28477f8aa9159dc728e78c4a9ad3e0b80409a90bf4d824471d4e0cb05093c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d28477f8aa9159dc728e78c4a9ad3e0b80409a90bf4d824471d4e0cb05093c5"
+      },
+      "9": {
+        "source_ref": "1 Chronicles 11:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 9,
+            "source_ref": "1 Chronicles 11:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e308569500e2db29a8063640d1bba28cdee7da13d23b5fa95018b70512df150e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e308569500e2db29a8063640d1bba28cdee7da13d23b5fa95018b70512df150e"
+      },
+      "10": {
+        "source_ref": "1 Chronicles 11:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 10,
+            "source_ref": "1 Chronicles 11:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d47a848d97acb8720f4557eb1fdf995fd6383fa301687924e0f956b2ca121e8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d47a848d97acb8720f4557eb1fdf995fd6383fa301687924e0f956b2ca121e8a"
+      },
+      "11": {
+        "source_ref": "1 Chronicles 11:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 11,
+            "source_ref": "1 Chronicles 11:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f99d11068967e2b3ab1a0097aafac8af689b3c8b07a1352b260a49a808ee26a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f99d11068967e2b3ab1a0097aafac8af689b3c8b07a1352b260a49a808ee26a4"
+      },
+      "12": {
+        "source_ref": "1 Chronicles 11:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 12,
+            "source_ref": "1 Chronicles 11:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc55e13bc81fb56cc31bf064de48c79cad29216ca2de243493e3e4982d2b18f4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc55e13bc81fb56cc31bf064de48c79cad29216ca2de243493e3e4982d2b18f4"
+      },
+      "13": {
+        "source_ref": "1 Chronicles 11:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 13,
+            "source_ref": "1 Chronicles 11:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "39a93556eb030a2e6b6817d866e87321d581edf06c443edb597b3848cd20ec36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39a93556eb030a2e6b6817d866e87321d581edf06c443edb597b3848cd20ec36"
+      },
+      "14": {
+        "source_ref": "1 Chronicles 11:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 14,
+            "source_ref": "1 Chronicles 11:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f3e0a7684b06a8ed19e9aee4fb31a57dd75d92b7d4faaf2f6bd0f675a123b2e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f3e0a7684b06a8ed19e9aee4fb31a57dd75d92b7d4faaf2f6bd0f675a123b2e"
+      },
+      "15": {
+        "source_ref": "1 Chronicles 11:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 15,
+            "source_ref": "1 Chronicles 11:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f63f037705526814ed28517f7dc0e041b32b7e893dd76d7cd6d0e40c1b264c36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f63f037705526814ed28517f7dc0e041b32b7e893dd76d7cd6d0e40c1b264c36"
+      },
+      "16": {
+        "source_ref": "1 Chronicles 11:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 16,
+            "source_ref": "1 Chronicles 11:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "814f4030300ed683be261218807ef808404b719d98c995c828be0d52ba9c7e16"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "814f4030300ed683be261218807ef808404b719d98c995c828be0d52ba9c7e16"
+      },
+      "17": {
+        "source_ref": "1 Chronicles 11:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 17,
+            "source_ref": "1 Chronicles 11:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6897e654eddcf3c48975898aad4631b81acd938ee3f437531567422955ea6a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6897e654eddcf3c48975898aad4631b81acd938ee3f437531567422955ea6a1"
+      },
+      "18": {
+        "source_ref": "1 Chronicles 11:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 18,
+            "source_ref": "1 Chronicles 11:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae27a1b29d1e57d53c0e0f6f8d0e8117acd31ca5274e9f4e533a490b0b9d284a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae27a1b29d1e57d53c0e0f6f8d0e8117acd31ca5274e9f4e533a490b0b9d284a"
+      },
+      "19": {
+        "source_ref": "1 Chronicles 11:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 19,
+            "source_ref": "1 Chronicles 11:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c0623e832832d5edfd0f478a242929d44a8bd18140d726a3a3354d77aaadc78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c0623e832832d5edfd0f478a242929d44a8bd18140d726a3a3354d77aaadc78"
+      },
+      "20": {
+        "source_ref": "1 Chronicles 11:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 20,
+            "source_ref": "1 Chronicles 11:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8185d08574e9313d6703b2d0512be782d8fb371e0e78773dead197bea97194fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8185d08574e9313d6703b2d0512be782d8fb371e0e78773dead197bea97194fc"
+      },
+      "21": {
+        "source_ref": "1 Chronicles 11:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 21,
+            "source_ref": "1 Chronicles 11:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "50546b7afb88d19fb7da645c9b3d5d233003f2db74f8d8ebd3dc060727cdd67a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50546b7afb88d19fb7da645c9b3d5d233003f2db74f8d8ebd3dc060727cdd67a"
+      },
+      "22": {
+        "source_ref": "1 Chronicles 11:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 22,
+            "source_ref": "1 Chronicles 11:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4fd7ef078271a3f7eb12ae49e054e23e8fc00b2ef7bdc22e993b55ea966b47f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4fd7ef078271a3f7eb12ae49e054e23e8fc00b2ef7bdc22e993b55ea966b47f3"
+      },
+      "23": {
+        "source_ref": "1 Chronicles 11:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 23,
+            "source_ref": "1 Chronicles 11:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fbe32d50ef139826d4046432b3ef58de1393ec2821ea3cebc39dcd8bb06eaf78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbe32d50ef139826d4046432b3ef58de1393ec2821ea3cebc39dcd8bb06eaf78"
+      },
+      "24": {
+        "source_ref": "1 Chronicles 11:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 24,
+            "source_ref": "1 Chronicles 11:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c2698e64869ffed75e4c2c42265f28be732fa64b19201999ae5885cd94a5efcf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2698e64869ffed75e4c2c42265f28be732fa64b19201999ae5885cd94a5efcf"
+      },
+      "25": {
+        "source_ref": "1 Chronicles 11:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 25,
+            "source_ref": "1 Chronicles 11:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f2d144e5db8ebc0a0d485c713230f61cad712b1d6816a6db0f76debe24c0c8c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2d144e5db8ebc0a0d485c713230f61cad712b1d6816a6db0f76debe24c0c8c9"
+      },
+      "26": {
+        "source_ref": "1 Chronicles 11:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 26,
+            "source_ref": "1 Chronicles 11:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3f30c0dbcafdb1c7266ca29b42f65bf695d5927078909b61238c547cd9710282"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f30c0dbcafdb1c7266ca29b42f65bf695d5927078909b61238c547cd9710282"
+      },
+      "27": {
+        "source_ref": "1 Chronicles 11:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 27,
+            "source_ref": "1 Chronicles 11:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ef7144c93ba01e63701c82327811fc0cf8f86378c165951b22822f540cc6ce9d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef7144c93ba01e63701c82327811fc0cf8f86378c165951b22822f540cc6ce9d"
+      },
+      "28": {
+        "source_ref": "1 Chronicles 11:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 28,
+            "source_ref": "1 Chronicles 11:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ff52f88ca50e31b67e775a078b8423f64e8e7ac1d77271bb1b98dc21a8eac29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ff52f88ca50e31b67e775a078b8423f64e8e7ac1d77271bb1b98dc21a8eac29"
+      },
+      "29": {
+        "source_ref": "1 Chronicles 11:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 29,
+            "source_ref": "1 Chronicles 11:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d048b9dd381570646216cc922af4c7d654669e8d868b0915da0ddac705a93b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d048b9dd381570646216cc922af4c7d654669e8d868b0915da0ddac705a93b1"
+      },
+      "30": {
+        "source_ref": "1 Chronicles 11:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 30,
+            "source_ref": "1 Chronicles 11:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "64b9057ef7b4da0d4182669af677eb3bb1dd5c10ddfd73b8ef0a6c904ae0b9a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64b9057ef7b4da0d4182669af677eb3bb1dd5c10ddfd73b8ef0a6c904ae0b9a7"
+      },
+      "31": {
+        "source_ref": "1 Chronicles 11:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 31,
+            "source_ref": "1 Chronicles 11:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7fdf3dcfeefa32880567c0bda4673eaa61d2c6a08f01dd0cac6c8228622ccb2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7fdf3dcfeefa32880567c0bda4673eaa61d2c6a08f01dd0cac6c8228622ccb2d"
+      },
+      "32": {
+        "source_ref": "1 Chronicles 11:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 32,
+            "source_ref": "1 Chronicles 11:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b49129836fd7f2f750b71a6aa67ba5f3da17a4895a50773a9e0988409a453e88"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b49129836fd7f2f750b71a6aa67ba5f3da17a4895a50773a9e0988409a453e88"
+      },
+      "33": {
+        "source_ref": "1 Chronicles 11:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 33,
+            "source_ref": "1 Chronicles 11:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc85fa7391b194aa08974b5ebae83822ce057349bb2820caa3dd7a3fb3f046b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc85fa7391b194aa08974b5ebae83822ce057349bb2820caa3dd7a3fb3f046b7"
+      },
+      "34": {
+        "source_ref": "1 Chronicles 11:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 34,
+            "source_ref": "1 Chronicles 11:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a98af87a75de2daaa76a1fb16f31579207d48d6ccd8e1738722be34235316fec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a98af87a75de2daaa76a1fb16f31579207d48d6ccd8e1738722be34235316fec"
+      },
+      "35": {
+        "source_ref": "1 Chronicles 11:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 35,
+            "source_ref": "1 Chronicles 11:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5336c6bf7397166177648b211f27b5bcbf158e1fdf130d9f221e031d18b8295d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5336c6bf7397166177648b211f27b5bcbf158e1fdf130d9f221e031d18b8295d"
+      },
+      "36": {
+        "source_ref": "1 Chronicles 11:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 36,
+            "source_ref": "1 Chronicles 11:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7603c55ae4653811db29b7bcad9dd9ba0a8f2ca5db987c0dda0ac0c5d7747ebc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7603c55ae4653811db29b7bcad9dd9ba0a8f2ca5db987c0dda0ac0c5d7747ebc"
+      },
+      "37": {
+        "source_ref": "1 Chronicles 11:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 37,
+            "source_ref": "1 Chronicles 11:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4d60279581c04f62d7f869835cb0ff1630cf1b1150714b8da042ccfc46ed9ebb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4d60279581c04f62d7f869835cb0ff1630cf1b1150714b8da042ccfc46ed9ebb"
+      },
+      "38": {
+        "source_ref": "1 Chronicles 11:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 38,
+            "source_ref": "1 Chronicles 11:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9fb038083f00bf15982bf2318276413da70de0b60b837f1e7136f947836aeb49"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9fb038083f00bf15982bf2318276413da70de0b60b837f1e7136f947836aeb49"
+      },
+      "39": {
+        "source_ref": "1 Chronicles 11:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 39,
+            "source_ref": "1 Chronicles 11:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1600bebd43ebd00a3d99bf8b2a17811926533a595b25866cf2040455c461acab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1600bebd43ebd00a3d99bf8b2a17811926533a595b25866cf2040455c461acab"
+      },
+      "40": {
+        "source_ref": "1 Chronicles 11:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 40,
+            "source_ref": "1 Chronicles 11:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b714f9f1b40044371703cba3feb178d7fb8331b6c3591328ebd26a4e1f62c6cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b714f9f1b40044371703cba3feb178d7fb8331b6c3591328ebd26a4e1f62c6cf"
+      },
+      "41": {
+        "source_ref": "1 Chronicles 11:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 41,
+            "source_ref": "1 Chronicles 11:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5f4ebdcc724f8b1ac133b652cf1c81571819ee6d67b1889c823f8dcfd6565c11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f4ebdcc724f8b1ac133b652cf1c81571819ee6d67b1889c823f8dcfd6565c11"
+      },
+      "42": {
+        "source_ref": "1 Chronicles 11:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 42,
+            "source_ref": "1 Chronicles 11:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72ec9071784eac3dce6280528bd60ea9c6393713df4455f9149def9bac7f3274"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72ec9071784eac3dce6280528bd60ea9c6393713df4455f9149def9bac7f3274"
+      },
+      "43": {
+        "source_ref": "1 Chronicles 11:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 43,
+            "source_ref": "1 Chronicles 11:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f76758add4b6fa1d6e5582058b8745394891104ecd8a03101f59067582b0253"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f76758add4b6fa1d6e5582058b8745394891104ecd8a03101f59067582b0253"
+      },
+      "44": {
+        "source_ref": "1 Chronicles 11:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 44,
+            "source_ref": "1 Chronicles 11:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2d981752847bb9fd98af9cd988bb0f02a1b3ed2d872ea71ad6c2195dec67dc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2d981752847bb9fd98af9cd988bb0f02a1b3ed2d872ea71ad6c2195dec67dc4"
+      },
+      "45": {
+        "source_ref": "1 Chronicles 11:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 45,
+            "source_ref": "1 Chronicles 11:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f96f13f1b4bf0523a0077a1273dd7177f68ef92972c34ef9684109b611fe613"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f96f13f1b4bf0523a0077a1273dd7177f68ef92972c34ef9684109b611fe613"
+      },
+      "46": {
+        "source_ref": "1 Chronicles 11:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 46,
+            "source_ref": "1 Chronicles 11:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ef1e35fd4a0a987415bd726499daba594cdb8a638838c69ddb557c3eef077fec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef1e35fd4a0a987415bd726499daba594cdb8a638838c69ddb557c3eef077fec"
+      },
+      "47": {
+        "source_ref": "1 Chronicles 11:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 47,
+            "source_ref": "1 Chronicles 11:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd806b94daa8abb6d168dd9206973bffd809b5182c77d647a398616d5df176ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd806b94daa8abb6d168dd9206973bffd809b5182c77d647a398616d5df176ed"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1chronicles/1Chronicles_11.md",
+    "blob_sha": "41dd54c4b547bb8ad9841ab138d9b207084861ad"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

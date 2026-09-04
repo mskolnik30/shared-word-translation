@@ -1,0 +1,447 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 17,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "17:1-21:30",
+      "decision": "Preserve covenant, warfare, administration, song, census, judgment, and mercy without hiding imperial power.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Chronicles 17:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 1,
+            "source_ref": "1 Chronicles 17:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8402735e86084d893cbfe065a8c62ddeae0fcb0a1c2df022b0c3ccaa56a491ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8402735e86084d893cbfe065a8c62ddeae0fcb0a1c2df022b0c3ccaa56a491ce"
+      },
+      "2": {
+        "source_ref": "1 Chronicles 17:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 2,
+            "source_ref": "1 Chronicles 17:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8fcbfce39c57b72b4a1ae931b8065922aa63e0affd528ffc7a26e473cc1a44e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fcbfce39c57b72b4a1ae931b8065922aa63e0affd528ffc7a26e473cc1a44e2"
+      },
+      "3": {
+        "source_ref": "1 Chronicles 17:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 3,
+            "source_ref": "1 Chronicles 17:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "76f6565b72388764eee430964b63c9e955f6c71b6388008c047549335440092c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76f6565b72388764eee430964b63c9e955f6c71b6388008c047549335440092c"
+      },
+      "4": {
+        "source_ref": "1 Chronicles 17:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 4,
+            "source_ref": "1 Chronicles 17:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5d23251480c908a1120f8b09d0d00b7ba8f7cc4b7ef0f35e4c160b73a32f233d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5d23251480c908a1120f8b09d0d00b7ba8f7cc4b7ef0f35e4c160b73a32f233d"
+      },
+      "5": {
+        "source_ref": "1 Chronicles 17:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 5,
+            "source_ref": "1 Chronicles 17:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f27b5a49873049275c7e6a90d9d256ee4879e7380d42ccbf2dad11da6757d21a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f27b5a49873049275c7e6a90d9d256ee4879e7380d42ccbf2dad11da6757d21a"
+      },
+      "6": {
+        "source_ref": "1 Chronicles 17:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 6,
+            "source_ref": "1 Chronicles 17:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f8193e47abe18d4a17d35d5bb37b6b491b18c78844ebf32739741fc3f8eeca0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f8193e47abe18d4a17d35d5bb37b6b491b18c78844ebf32739741fc3f8eeca0"
+      },
+      "7": {
+        "source_ref": "1 Chronicles 17:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 7,
+            "source_ref": "1 Chronicles 17:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd9541fdffcf54bd1ac673286ae7a48152e0604cc5ace30edf60963605338e64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd9541fdffcf54bd1ac673286ae7a48152e0604cc5ace30edf60963605338e64"
+      },
+      "8": {
+        "source_ref": "1 Chronicles 17:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 8,
+            "source_ref": "1 Chronicles 17:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "daa7d0705a51cbad7743e1bb7f6cad94bb566418f64e4df7e2189963c954ef0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "daa7d0705a51cbad7743e1bb7f6cad94bb566418f64e4df7e2189963c954ef0d"
+      },
+      "9": {
+        "source_ref": "1 Chronicles 17:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 9,
+            "source_ref": "1 Chronicles 17:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e9b777f5b7b6e784c83ce4d452faae24dbaf05eb0f6ecdd8ca267b1b2648416"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e9b777f5b7b6e784c83ce4d452faae24dbaf05eb0f6ecdd8ca267b1b2648416"
+      },
+      "10": {
+        "source_ref": "1 Chronicles 17:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 10,
+            "source_ref": "1 Chronicles 17:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "910bf8437eb204337bf8d8a14980de372085a43005e19fec64fb66c11f23439c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "910bf8437eb204337bf8d8a14980de372085a43005e19fec64fb66c11f23439c"
+      },
+      "11": {
+        "source_ref": "1 Chronicles 17:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 11,
+            "source_ref": "1 Chronicles 17:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a0bdb8fdb74386fcd2c804411d6d3c1b1f045cf216194906b61b383feac875f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0bdb8fdb74386fcd2c804411d6d3c1b1f045cf216194906b61b383feac875f2"
+      },
+      "12": {
+        "source_ref": "1 Chronicles 17:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 12,
+            "source_ref": "1 Chronicles 17:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bb2e563fc1e6c6b31426922d1f9b78db3951094979a12d13a8cdbfd300016962"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb2e563fc1e6c6b31426922d1f9b78db3951094979a12d13a8cdbfd300016962"
+      },
+      "13": {
+        "source_ref": "1 Chronicles 17:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 13,
+            "source_ref": "1 Chronicles 17:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7462c6c6a197bd3f25cc664021cd0a388db325710d86f63c7f7aa0118a3c0b5e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7462c6c6a197bd3f25cc664021cd0a388db325710d86f63c7f7aa0118a3c0b5e"
+      },
+      "14": {
+        "source_ref": "1 Chronicles 17:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 14,
+            "source_ref": "1 Chronicles 17:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb5527bb95ddf65190188f9d8e72ed44c99cc378ef5a8a158e4084c03dd39ee6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb5527bb95ddf65190188f9d8e72ed44c99cc378ef5a8a158e4084c03dd39ee6"
+      },
+      "15": {
+        "source_ref": "1 Chronicles 17:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 15,
+            "source_ref": "1 Chronicles 17:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "579f46970c355f01f9af251d64137b20b4ac5df117c3da0ecbcfd4bbf6da1381"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "579f46970c355f01f9af251d64137b20b4ac5df117c3da0ecbcfd4bbf6da1381"
+      },
+      "16": {
+        "source_ref": "1 Chronicles 17:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 16,
+            "source_ref": "1 Chronicles 17:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7e052869492b6b4db9ade37b4432e35356539649a40f4904c2bc129bceca4e3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e052869492b6b4db9ade37b4432e35356539649a40f4904c2bc129bceca4e3f"
+      },
+      "17": {
+        "source_ref": "1 Chronicles 17:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 17,
+            "source_ref": "1 Chronicles 17:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "66a23d63f2340f403ff2f60516e5933ae2087e18da77efe3c9b13f4ec45ee505"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "66a23d63f2340f403ff2f60516e5933ae2087e18da77efe3c9b13f4ec45ee505"
+      },
+      "18": {
+        "source_ref": "1 Chronicles 17:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 18,
+            "source_ref": "1 Chronicles 17:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bceda05498aedf1d34c5c07254cd2b424c3b04b6d514502e6109ce21f60becb9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bceda05498aedf1d34c5c07254cd2b424c3b04b6d514502e6109ce21f60becb9"
+      },
+      "19": {
+        "source_ref": "1 Chronicles 17:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 19,
+            "source_ref": "1 Chronicles 17:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc1779c3f00cf9949aced8edbdf7835ac71a2e007a0b6ee267a375c28e26c905"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc1779c3f00cf9949aced8edbdf7835ac71a2e007a0b6ee267a375c28e26c905"
+      },
+      "20": {
+        "source_ref": "1 Chronicles 17:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 20,
+            "source_ref": "1 Chronicles 17:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb64b0184f68575e43707a1af7d91c5c6acce55d874895441755f47721822571"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb64b0184f68575e43707a1af7d91c5c6acce55d874895441755f47721822571"
+      },
+      "21": {
+        "source_ref": "1 Chronicles 17:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 21,
+            "source_ref": "1 Chronicles 17:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c21a5321f5f77a73c7edf7915aed9e9cc3509ab9b6032854a9b79ae46cafc1ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c21a5321f5f77a73c7edf7915aed9e9cc3509ab9b6032854a9b79ae46cafc1ed"
+      },
+      "22": {
+        "source_ref": "1 Chronicles 17:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 22,
+            "source_ref": "1 Chronicles 17:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b092a026ab191e2c1439f80b9a6ca291976ebd337a2491c97f503405e6da0c15"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b092a026ab191e2c1439f80b9a6ca291976ebd337a2491c97f503405e6da0c15"
+      },
+      "23": {
+        "source_ref": "1 Chronicles 17:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 23,
+            "source_ref": "1 Chronicles 17:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7d5e52807a335bf2adc5161f42b175c574125a568a158cd1c57c0834ff1d806"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7d5e52807a335bf2adc5161f42b175c574125a568a158cd1c57c0834ff1d806"
+      },
+      "24": {
+        "source_ref": "1 Chronicles 17:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 24,
+            "source_ref": "1 Chronicles 17:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2919223192666ae7d715a30113f3944f04d3df98de85ed324dbefe80dc47eeab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2919223192666ae7d715a30113f3944f04d3df98de85ed324dbefe80dc47eeab"
+      },
+      "25": {
+        "source_ref": "1 Chronicles 17:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 25,
+            "source_ref": "1 Chronicles 17:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af9f8f7d7a634836db8ec98484497985780ab1f9284131487629150ff84d7266"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af9f8f7d7a634836db8ec98484497985780ab1f9284131487629150ff84d7266"
+      },
+      "26": {
+        "source_ref": "1 Chronicles 17:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 26,
+            "source_ref": "1 Chronicles 17:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1075659f687d7704221a9e5745aa6a7983e4520e7ea7bb4e164b458e8d253dcc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1075659f687d7704221a9e5745aa6a7983e4520e7ea7bb4e164b458e8d253dcc"
+      },
+      "27": {
+        "source_ref": "1 Chronicles 17:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 27,
+            "source_ref": "1 Chronicles 17:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c76e86f6c238f3b50ee02861fbd7e76b45150c43459368e29eef687829ccc69c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c76e86f6c238f3b50ee02861fbd7e76b45150c43459368e29eef687829ccc69c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1chronicles/1Chronicles_17.md",
+    "blob_sha": "192104235c1a04a43dad7354cc996e527f793f80"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

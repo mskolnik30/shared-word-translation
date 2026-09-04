@@ -1,0 +1,351 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 28,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Chronicles 28:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 1,
+            "source_ref": "1 Chronicles 28:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7adac99e02eda977ad3e259f874260bf063921f235d7f35db77fc4d963470b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7adac99e02eda977ad3e259f874260bf063921f235d7f35db77fc4d963470b6"
+      },
+      "2": {
+        "source_ref": "1 Chronicles 28:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 2,
+            "source_ref": "1 Chronicles 28:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "70e78c52174887173ce87a0e4eb13dfc6916a67ad97dded70b6c7407d0ac06f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70e78c52174887173ce87a0e4eb13dfc6916a67ad97dded70b6c7407d0ac06f6"
+      },
+      "3": {
+        "source_ref": "1 Chronicles 28:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 3,
+            "source_ref": "1 Chronicles 28:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81c5a5e995ac6f3aacd80af72d69f3d4b45ab3a0a4e372a06b3a8f4075d9ca64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81c5a5e995ac6f3aacd80af72d69f3d4b45ab3a0a4e372a06b3a8f4075d9ca64"
+      },
+      "4": {
+        "source_ref": "1 Chronicles 28:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 4,
+            "source_ref": "1 Chronicles 28:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "879389a6b0488cb780b4f274a706ed3046a24288af7b2fc0b4ba518852509100"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "879389a6b0488cb780b4f274a706ed3046a24288af7b2fc0b4ba518852509100"
+      },
+      "5": {
+        "source_ref": "1 Chronicles 28:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 5,
+            "source_ref": "1 Chronicles 28:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e374f2c64ac2acacc6cf7c8dbb54afd9203562b9f23eb6c37a4ae8097dce9b31"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e374f2c64ac2acacc6cf7c8dbb54afd9203562b9f23eb6c37a4ae8097dce9b31"
+      },
+      "6": {
+        "source_ref": "1 Chronicles 28:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 6,
+            "source_ref": "1 Chronicles 28:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e1974d8aec150326a262d8fca93de83dbf4f1d69cee0b5997ab971d98a689828"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1974d8aec150326a262d8fca93de83dbf4f1d69cee0b5997ab971d98a689828"
+      },
+      "7": {
+        "source_ref": "1 Chronicles 28:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 7,
+            "source_ref": "1 Chronicles 28:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "de6bbbe9c17ce81d355ccdceb9b8759eed2ae436653a7a6e627d71df3c7cadaa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de6bbbe9c17ce81d355ccdceb9b8759eed2ae436653a7a6e627d71df3c7cadaa"
+      },
+      "8": {
+        "source_ref": "1 Chronicles 28:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 8,
+            "source_ref": "1 Chronicles 28:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d6463d347ee8ddd90c849d188d431712ce0d487c6f7b283dfa84996b50ade2a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d6463d347ee8ddd90c849d188d431712ce0d487c6f7b283dfa84996b50ade2a"
+      },
+      "9": {
+        "source_ref": "1 Chronicles 28:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 9,
+            "source_ref": "1 Chronicles 28:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d72f90b4ae7a7dd2300e9af0f4577604a7bec60560b6321efc643094c3a21c4c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d72f90b4ae7a7dd2300e9af0f4577604a7bec60560b6321efc643094c3a21c4c"
+      },
+      "10": {
+        "source_ref": "1 Chronicles 28:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 10,
+            "source_ref": "1 Chronicles 28:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fdd4e09091f7f3683a6bbdac8490279186ee5aaf086b5b51b08f6bd8260adc68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fdd4e09091f7f3683a6bbdac8490279186ee5aaf086b5b51b08f6bd8260adc68"
+      },
+      "11": {
+        "source_ref": "1 Chronicles 28:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 11,
+            "source_ref": "1 Chronicles 28:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "448d9a6a64c3de5aa953e2580626d4a640f2a87bff7063930124c197c1d62ac7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "448d9a6a64c3de5aa953e2580626d4a640f2a87bff7063930124c197c1d62ac7"
+      },
+      "12": {
+        "source_ref": "1 Chronicles 28:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 12,
+            "source_ref": "1 Chronicles 28:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1adcd46528310095bb4aef0d4680606e0842a0afa259999542c60d9b698ac526"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1adcd46528310095bb4aef0d4680606e0842a0afa259999542c60d9b698ac526"
+      },
+      "13": {
+        "source_ref": "1 Chronicles 28:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 13,
+            "source_ref": "1 Chronicles 28:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea26490d0bff97c744853cff24d99e5cec09c31ebea9c520a7e8bdfced3647fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea26490d0bff97c744853cff24d99e5cec09c31ebea9c520a7e8bdfced3647fc"
+      },
+      "14": {
+        "source_ref": "1 Chronicles 28:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 14,
+            "source_ref": "1 Chronicles 28:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "78f61d027babb2d523460dbbe8e34e04d86fb9e16d47434c9671cca34dca1d04"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78f61d027babb2d523460dbbe8e34e04d86fb9e16d47434c9671cca34dca1d04"
+      },
+      "15": {
+        "source_ref": "1 Chronicles 28:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 15,
+            "source_ref": "1 Chronicles 28:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "87e68e18eceb1bf8d4882cee76cdc6ae7fbc8256217dee0cf6a115b9ad56baa3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87e68e18eceb1bf8d4882cee76cdc6ae7fbc8256217dee0cf6a115b9ad56baa3"
+      },
+      "16": {
+        "source_ref": "1 Chronicles 28:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 16,
+            "source_ref": "1 Chronicles 28:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c9971f2fb40a625838690ce30183618552fbfef21c3609f5d7db4752ed6a2ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c9971f2fb40a625838690ce30183618552fbfef21c3609f5d7db4752ed6a2ed"
+      },
+      "17": {
+        "source_ref": "1 Chronicles 28:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 17,
+            "source_ref": "1 Chronicles 28:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9383b2a5e0623c5479e724378998ae6522f58bfeb7ea25541bf56fae9aa9e3d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9383b2a5e0623c5479e724378998ae6522f58bfeb7ea25541bf56fae9aa9e3d"
+      },
+      "18": {
+        "source_ref": "1 Chronicles 28:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 18,
+            "source_ref": "1 Chronicles 28:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1a3bcc8e2b3ac4f7cb0b588abc399602bd000bbd2feac18b3098bb168ced05ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a3bcc8e2b3ac4f7cb0b588abc399602bd000bbd2feac18b3098bb168ced05ca"
+      },
+      "19": {
+        "source_ref": "1 Chronicles 28:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 19,
+            "source_ref": "1 Chronicles 28:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7bb9e66aa383393c8f6309bb6039832a2f8c12783b56217ca98887fc5d286bed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7bb9e66aa383393c8f6309bb6039832a2f8c12783b56217ca98887fc5d286bed"
+      },
+      "20": {
+        "source_ref": "1 Chronicles 28:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 20,
+            "source_ref": "1 Chronicles 28:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f11b4fdf68fe6dc801bfb061d3c344305b1fc12e140e4b90bce474b17881c39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f11b4fdf68fe6dc801bfb061d3c344305b1fc12e140e4b90bce474b17881c39"
+      },
+      "21": {
+        "source_ref": "1 Chronicles 28:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 21,
+            "source_ref": "1 Chronicles 28:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f2028ddd9c7a52e0bbbd50defd7238dbec3a696db17867cbaa421b37d7649cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f2028ddd9c7a52e0bbbd50defd7238dbec3a696db17867cbaa421b37d7649cb"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1chronicles/1Chronicles_28.md",
+    "blob_sha": "4c89516e1cd690fef84c03632c8ce7db2f9289b2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

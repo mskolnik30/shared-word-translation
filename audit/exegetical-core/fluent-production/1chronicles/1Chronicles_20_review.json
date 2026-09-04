@@ -1,0 +1,156 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 20,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Chronicles 20:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 1,
+            "source_ref": "1 Chronicles 20:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "212f967ebad892f6a697976f0095bddcdc711abbcb23f9f30a85151b6fb77278"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "212f967ebad892f6a697976f0095bddcdc711abbcb23f9f30a85151b6fb77278"
+      },
+      "2": {
+        "source_ref": "1 Chronicles 20:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 2,
+            "source_ref": "1 Chronicles 20:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "09ea03c4aa625ca0e5e894768e4f3c0e120d9cbee3891088a1d4330470e9e98f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09ea03c4aa625ca0e5e894768e4f3c0e120d9cbee3891088a1d4330470e9e98f"
+      },
+      "3": {
+        "source_ref": "1 Chronicles 20:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 3,
+            "source_ref": "1 Chronicles 20:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6313563e38b4fa0e66e7e2977ae322c71398eaec3a55a7cdd872c5995b4ea8de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6313563e38b4fa0e66e7e2977ae322c71398eaec3a55a7cdd872c5995b4ea8de"
+      },
+      "4": {
+        "source_ref": "1 Chronicles 20:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 4,
+            "source_ref": "1 Chronicles 20:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2662a1af16c287f31c4722e60b320d7a5aacdaf5001daf11618d90ae4c088619"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2662a1af16c287f31c4722e60b320d7a5aacdaf5001daf11618d90ae4c088619"
+      },
+      "5": {
+        "source_ref": "1 Chronicles 20:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 5,
+            "source_ref": "1 Chronicles 20:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84ef05dcd73e7bfabb3d89c13f33996aa47120630f7e3537b77eae2fcc9cbbec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84ef05dcd73e7bfabb3d89c13f33996aa47120630f7e3537b77eae2fcc9cbbec"
+      },
+      "6": {
+        "source_ref": "1 Chronicles 20:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 6,
+            "source_ref": "1 Chronicles 20:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "106c9bb23167a9960863f1c7082c77bf2b66e80a2d00d48bf256516debf4a585"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "106c9bb23167a9960863f1c7082c77bf2b66e80a2d00d48bf256516debf4a585"
+      },
+      "7": {
+        "source_ref": "1 Chronicles 20:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 7,
+            "source_ref": "1 Chronicles 20:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "87c7e56302509a4a78c6fd17dd0552ac2786f4cb0cd9cd8f8c0a3906a6176428"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87c7e56302509a4a78c6fd17dd0552ac2786f4cb0cd9cd8f8c0a3906a6176428"
+      },
+      "8": {
+        "source_ref": "1 Chronicles 20:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 8,
+            "source_ref": "1 Chronicles 20:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c822aca480bb9bdcb5f883dec40a4b925c6e2ba51576fb1f00ab00564778dbb5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c822aca480bb9bdcb5f883dec40a4b925c6e2ba51576fb1f00ab00564778dbb5"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1chronicles/1Chronicles_20.md",
+    "blob_sha": "b27c627613aa16c9a25c8dda5f3cdbd05d08ee12"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
