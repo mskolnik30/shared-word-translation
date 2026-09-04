@@ -1,0 +1,230 @@
+{
+  "book": "Psalms",
+  "chapter": 60,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 60:1 (Hebrew; whole) + Psalms 60:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 1,
+            "source_ref": "Psalms 60:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ab3afbc1312e562c52a8c61c28f21fe7a9e5397dfea9aac8e12418b477662b2d"
+          },
+          {
+            "chapter": 60,
+            "verse": 3,
+            "source_ref": "Psalms 60:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8d7de298f589dcd4cdc55c9e680b4a9a8b9145022a77c8cf70d639d8be313ff1"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "65b9e258fc6c43e95f2f916fa06a966c1692ed878a9766a7186c78e4c268d836"
+      },
+      "2": {
+        "source_ref": "Psalms 60:2 (Hebrew; whole) + Psalms 60:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 2,
+            "source_ref": "Psalms 60:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5230a84725c204cd54271e77464ce78648c7840f3aedf90139c9866c82983d38"
+          },
+          {
+            "chapter": 60,
+            "verse": 4,
+            "source_ref": "Psalms 60:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "59d8378cee80b264b942790fc3c4d3e2e9d19f06784e600b4118956ec878d56a"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "efd371e7cefe1f13e1adf71b55e468630e88ec51e6422487fd6836c33c96f53f"
+      },
+      "3": {
+        "source_ref": "Psalms 60:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 5,
+            "source_ref": "Psalms 60:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "90737acda6411835942d4d580723f010b6f535b2d209c5a24dbe6157fb1598c0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "90737acda6411835942d4d580723f010b6f535b2d209c5a24dbe6157fb1598c0"
+      },
+      "4": {
+        "source_ref": "Psalms 60:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 6,
+            "source_ref": "Psalms 60:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5f7c045acaf428fae662bd5b54a9c7bdaecc475656a7d3c308380a4d28b13ca8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5f7c045acaf428fae662bd5b54a9c7bdaecc475656a7d3c308380a4d28b13ca8"
+      },
+      "5": {
+        "source_ref": "Psalms 60:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 7,
+            "source_ref": "Psalms 60:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2f458c169a6ea53c9562e438c559d25632f65ff2ad25ed87b8ab5ac28ecee58d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2f458c169a6ea53c9562e438c559d25632f65ff2ad25ed87b8ab5ac28ecee58d"
+      },
+      "6": {
+        "source_ref": "Psalms 60:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 8,
+            "source_ref": "Psalms 60:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8cb6dead3f5fd6735637588ea971e0b8ae9238b6b12cdb8de029bcd3b8ffda2a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8cb6dead3f5fd6735637588ea971e0b8ae9238b6b12cdb8de029bcd3b8ffda2a"
+      },
+      "7": {
+        "source_ref": "Psalms 60:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 9,
+            "source_ref": "Psalms 60:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2cfef70af2457d156c065a9638f761ddcb0feaf9d8bc7cdfcfb30e585cf18a30"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2cfef70af2457d156c065a9638f761ddcb0feaf9d8bc7cdfcfb30e585cf18a30"
+      },
+      "8": {
+        "source_ref": "Psalms 60:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 10,
+            "source_ref": "Psalms 60:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c344fb0f7849eee7cc650705510853adf9eea2125eb0b619f500f1ad0b8b1233"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c344fb0f7849eee7cc650705510853adf9eea2125eb0b619f500f1ad0b8b1233"
+      },
+      "9": {
+        "source_ref": "Psalms 60:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 11,
+            "source_ref": "Psalms 60:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f0119a14a1e7c87f3d52321216d3c19ef6f5e2769bdb0a42550b9139b39a2ae2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f0119a14a1e7c87f3d52321216d3c19ef6f5e2769bdb0a42550b9139b39a2ae2"
+      },
+      "10": {
+        "source_ref": "Psalms 60:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 12,
+            "source_ref": "Psalms 60:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b4e3c6f77a6b494a22eea55c3d7406c5d3b5beb602e44e798065fcb69c0e5d5e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b4e3c6f77a6b494a22eea55c3d7406c5d3b5beb602e44e798065fcb69c0e5d5e"
+      },
+      "11": {
+        "source_ref": "Psalms 60:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 13,
+            "source_ref": "Psalms 60:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "be01f560af0d79fe4e0701371c26ba8ba0e9b5f681c278727cb82a5751e1180c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "be01f560af0d79fe4e0701371c26ba8ba0e9b5f681c278727cb82a5751e1180c"
+      },
+      "12": {
+        "source_ref": "Psalms 60:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 60,
+            "verse": 14,
+            "source_ref": "Psalms 60:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "da210ad613392ded2b9e6cbb1120bdbc601d3f3bb4bff41b5bd78afdbd7c942a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "da210ad613392ded2b9e6cbb1120bdbc601d3f3bb4bff41b5bd78afdbd7c942a"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_060.md",
+    "blob_sha": "1e19de02cf0c492edc19934da392f41a38858d76"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

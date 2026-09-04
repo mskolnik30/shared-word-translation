@@ -1,0 +1,156 @@
+{
+  "book": "Psalms",
+  "chapter": 114,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 114:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 114,
+            "verse": 1,
+            "source_ref": "Psalms 114:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bb815eb824704e42a066c5f37c7aa98a3a39e5f0f9a5d99151f8856767fb8ea6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb815eb824704e42a066c5f37c7aa98a3a39e5f0f9a5d99151f8856767fb8ea6"
+      },
+      "2": {
+        "source_ref": "Psalms 114:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 114,
+            "verse": 2,
+            "source_ref": "Psalms 114:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5695ec1e8c59be24fa9a158d1ec842b286a31eb732ea1cc9632cedb045afc598"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5695ec1e8c59be24fa9a158d1ec842b286a31eb732ea1cc9632cedb045afc598"
+      },
+      "3": {
+        "source_ref": "Psalms 114:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 114,
+            "verse": 3,
+            "source_ref": "Psalms 114:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "23e6d98fdb7a2cec914ceed3fb03f91f464cc34e28de544aeef2f7e2843c1b5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23e6d98fdb7a2cec914ceed3fb03f91f464cc34e28de544aeef2f7e2843c1b5d"
+      },
+      "4": {
+        "source_ref": "Psalms 114:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 114,
+            "verse": 4,
+            "source_ref": "Psalms 114:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77515f39ec7ef2856c3b3f37e4543aabcb285df436217f10a77a8e8975b0bec3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77515f39ec7ef2856c3b3f37e4543aabcb285df436217f10a77a8e8975b0bec3"
+      },
+      "5": {
+        "source_ref": "Psalms 114:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 114,
+            "verse": 5,
+            "source_ref": "Psalms 114:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1ff987a99997be6315cacffdb8c6b4d78da7001ff82021ace027d7183ae306a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ff987a99997be6315cacffdb8c6b4d78da7001ff82021ace027d7183ae306a3"
+      },
+      "6": {
+        "source_ref": "Psalms 114:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 114,
+            "verse": 6,
+            "source_ref": "Psalms 114:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8099d5730e24c8f492c230b2cb9605c5c6cd6adddd6499ed0cfd04e1196580d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8099d5730e24c8f492c230b2cb9605c5c6cd6adddd6499ed0cfd04e1196580d0"
+      },
+      "7": {
+        "source_ref": "Psalms 114:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 114,
+            "verse": 7,
+            "source_ref": "Psalms 114:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a68872b8e68d02cf243735d7309e6cb9bea0b5cd509591fae832610be6d5d67b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a68872b8e68d02cf243735d7309e6cb9bea0b5cd509591fae832610be6d5d67b"
+      },
+      "8": {
+        "source_ref": "Psalms 114:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 114,
+            "verse": 8,
+            "source_ref": "Psalms 114:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "057b3c2976d2135137e3f4709f9dd521c8215588d930fbbb09a6cdbebe16a092"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "057b3c2976d2135137e3f4709f9dd521c8215588d930fbbb09a6cdbebe16a092"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_114.md",
+    "blob_sha": "87addfe23f91fb29a9f25309b23de7eff1159ce8"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

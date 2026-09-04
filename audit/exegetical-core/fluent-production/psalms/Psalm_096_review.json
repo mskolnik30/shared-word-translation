@@ -1,0 +1,231 @@
+{
+  "book": "Psalms",
+  "chapter": 96,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 96:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 1,
+            "source_ref": "Psalms 96:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f587a512f0d64d40fcf1ba50adbac8319948b318be4c82da88fe8f7cb61661bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f587a512f0d64d40fcf1ba50adbac8319948b318be4c82da88fe8f7cb61661bb"
+      },
+      "2": {
+        "source_ref": "Psalms 96:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 2,
+            "source_ref": "Psalms 96:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a09e194f84a0f57bd8c475e17a2f00cdd4507ab6241e235a4fb16796eed8f231"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a09e194f84a0f57bd8c475e17a2f00cdd4507ab6241e235a4fb16796eed8f231"
+      },
+      "3": {
+        "source_ref": "Psalms 96:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 3,
+            "source_ref": "Psalms 96:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3ab14a77d9f5b5d3e60b550e71adbd9b80f4a83d5790030b0fc5e52d25e19912"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ab14a77d9f5b5d3e60b550e71adbd9b80f4a83d5790030b0fc5e52d25e19912"
+      },
+      "4": {
+        "source_ref": "Psalms 96:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 4,
+            "source_ref": "Psalms 96:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "746f87b090e89f2d2efe881748903cbcd16e5ca557377c9264f2f9ef560bcf80"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "746f87b090e89f2d2efe881748903cbcd16e5ca557377c9264f2f9ef560bcf80"
+      },
+      "5": {
+        "source_ref": "Psalms 96:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 5,
+            "source_ref": "Psalms 96:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e20b974ccadf0bf038cb1e2ecb0ea5a457b1e64d90372e92615edff190c0a51f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e20b974ccadf0bf038cb1e2ecb0ea5a457b1e64d90372e92615edff190c0a51f"
+      },
+      "6": {
+        "source_ref": "Psalms 96:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 6,
+            "source_ref": "Psalms 96:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f68c272770035afc48a7670dd1d0ea7bf206e00f7c38fc8b4fd39400cd8edeef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f68c272770035afc48a7670dd1d0ea7bf206e00f7c38fc8b4fd39400cd8edeef"
+      },
+      "7": {
+        "source_ref": "Psalms 96:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 7,
+            "source_ref": "Psalms 96:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "11479f09f8bfcb7e2045e920795ed035b95e4c7133c4704cdaacc6302563fd22"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "11479f09f8bfcb7e2045e920795ed035b95e4c7133c4704cdaacc6302563fd22"
+      },
+      "8": {
+        "source_ref": "Psalms 96:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 8,
+            "source_ref": "Psalms 96:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "44ae15f5266329158bfde24fc514b6fdb60ec297eeebe31620b0eaa8bde44178"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44ae15f5266329158bfde24fc514b6fdb60ec297eeebe31620b0eaa8bde44178"
+      },
+      "9": {
+        "source_ref": "Psalms 96:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 9,
+            "source_ref": "Psalms 96:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "95416205c1e1d34c291ec9c771234a698ba8171f58f1f0fcdedd3f018a8c9447"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95416205c1e1d34c291ec9c771234a698ba8171f58f1f0fcdedd3f018a8c9447"
+      },
+      "10": {
+        "source_ref": "Psalms 96:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 10,
+            "source_ref": "Psalms 96:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf3413365c2868a736956cc4dfc07551fde8cf3902c2b29e6382f99e5e0361f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf3413365c2868a736956cc4dfc07551fde8cf3902c2b29e6382f99e5e0361f1"
+      },
+      "11": {
+        "source_ref": "Psalms 96:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 11,
+            "source_ref": "Psalms 96:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5e014c8330219c2d4e37805ec5e4d23325b9478b64bb3f466660cdbb3600568a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e014c8330219c2d4e37805ec5e4d23325b9478b64bb3f466660cdbb3600568a"
+      },
+      "12": {
+        "source_ref": "Psalms 96:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 12,
+            "source_ref": "Psalms 96:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "54d97d7e801f3019ec5decc924f5d561de21f1a9f32c267155400d8a6b35c67c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54d97d7e801f3019ec5decc924f5d561de21f1a9f32c267155400d8a6b35c67c"
+      },
+      "13": {
+        "source_ref": "Psalms 96:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 96,
+            "verse": 13,
+            "source_ref": "Psalms 96:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1170bfb343f5ef75e858d044ecf5954c907bce5de4d89e6fe47ff28711965274"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1170bfb343f5ef75e858d044ecf5954c907bce5de4d89e6fe47ff28711965274"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_096.md",
+    "blob_sha": "637e679410042b5898b018682eaaf941e1eb2a15"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

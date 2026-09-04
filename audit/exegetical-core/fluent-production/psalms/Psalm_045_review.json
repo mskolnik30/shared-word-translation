@@ -1,0 +1,298 @@
+{
+  "book": "Psalms",
+  "chapter": 45,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 45:1 (Hebrew; whole) + Psalms 45:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 1,
+            "source_ref": "Psalms 45:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "43194fbc185bc23069aea1d0b47544d5001a39b25d478965242a33d884490e5f"
+          },
+          {
+            "chapter": 45,
+            "verse": 2,
+            "source_ref": "Psalms 45:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "27ed2040cc49c709167195160e25829a99cf9c051999146d00692af744d9cad5"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "552964caf6676792924e12f47d65132672c342bc9d2b2e543f58d8a31d4ca498"
+      },
+      "2": {
+        "source_ref": "Psalms 45:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 3,
+            "source_ref": "Psalms 45:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e0a26b559273d34236788aded7142bb85241c5a25bd9130abb1e0a3b902c05d8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e0a26b559273d34236788aded7142bb85241c5a25bd9130abb1e0a3b902c05d8"
+      },
+      "3": {
+        "source_ref": "Psalms 45:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 4,
+            "source_ref": "Psalms 45:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f6b37f2f1bd9de4fb3436ac913d357a469fa44253c9452749c820c0c981f9a42"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f6b37f2f1bd9de4fb3436ac913d357a469fa44253c9452749c820c0c981f9a42"
+      },
+      "4": {
+        "source_ref": "Psalms 45:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 5,
+            "source_ref": "Psalms 45:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7d0fc2e474ce7020f911b36b573f9c55869a4e7faf844bd8bcfa14e75fcf5653"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7d0fc2e474ce7020f911b36b573f9c55869a4e7faf844bd8bcfa14e75fcf5653"
+      },
+      "5": {
+        "source_ref": "Psalms 45:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 6,
+            "source_ref": "Psalms 45:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "85c88d1880f0c03aaed7b2431236cc3aebacddd77ada7debdbc814044c1ed57e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "85c88d1880f0c03aaed7b2431236cc3aebacddd77ada7debdbc814044c1ed57e"
+      },
+      "6": {
+        "source_ref": "Psalms 45:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 7,
+            "source_ref": "Psalms 45:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "328ba8b90e5fc1fb19299c198496cd817c401a2d23fc8eb6135b264e797f092f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "328ba8b90e5fc1fb19299c198496cd817c401a2d23fc8eb6135b264e797f092f"
+      },
+      "7": {
+        "source_ref": "Psalms 45:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 8,
+            "source_ref": "Psalms 45:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "94fd5f37822b4b16ef28f3aadb11c52b4cdb89616c51eeb4c2859ac4881010af"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "94fd5f37822b4b16ef28f3aadb11c52b4cdb89616c51eeb4c2859ac4881010af"
+      },
+      "8": {
+        "source_ref": "Psalms 45:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 9,
+            "source_ref": "Psalms 45:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fe4605c6fd6039b9ded7d33f9a31f4a0c5f3d7db53a267d6a97b2c5b24711b4d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fe4605c6fd6039b9ded7d33f9a31f4a0c5f3d7db53a267d6a97b2c5b24711b4d"
+      },
+      "9": {
+        "source_ref": "Psalms 45:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 10,
+            "source_ref": "Psalms 45:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7f4f388d668f91a634e6609fa5412ae6ccea8199ba80436c232bf1270a9862cf"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7f4f388d668f91a634e6609fa5412ae6ccea8199ba80436c232bf1270a9862cf"
+      },
+      "10": {
+        "source_ref": "Psalms 45:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 11,
+            "source_ref": "Psalms 45:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3618a8e6573ceccacd89176d7788ab46d7843bb7157293091fc84894fdc092a1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3618a8e6573ceccacd89176d7788ab46d7843bb7157293091fc84894fdc092a1"
+      },
+      "11": {
+        "source_ref": "Psalms 45:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 12,
+            "source_ref": "Psalms 45:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6cc8fc0abd8dcd97623bb4bb3281534c24978c6bf3eb8437298e9f5c6869dcfc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6cc8fc0abd8dcd97623bb4bb3281534c24978c6bf3eb8437298e9f5c6869dcfc"
+      },
+      "12": {
+        "source_ref": "Psalms 45:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 13,
+            "source_ref": "Psalms 45:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d00766a1d5557640891d69faa4c296ad75123235c007b7bc2162bcafbfbfc526"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d00766a1d5557640891d69faa4c296ad75123235c007b7bc2162bcafbfbfc526"
+      },
+      "13": {
+        "source_ref": "Psalms 45:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 14,
+            "source_ref": "Psalms 45:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2ddbd1c661bbb8dfba10d57729eea2bc032b02f189551a84aa8cc97be0bfe7fc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2ddbd1c661bbb8dfba10d57729eea2bc032b02f189551a84aa8cc97be0bfe7fc"
+      },
+      "14": {
+        "source_ref": "Psalms 45:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 15,
+            "source_ref": "Psalms 45:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "389ad977378c0434df696a81fb9c7c6207fef19f96c8255c659f36ea8f8d6185"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "389ad977378c0434df696a81fb9c7c6207fef19f96c8255c659f36ea8f8d6185"
+      },
+      "15": {
+        "source_ref": "Psalms 45:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 16,
+            "source_ref": "Psalms 45:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a7cd19b6ab10895a86c2647af5a0e9514541602f32cfea7d87213e436c381d14"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a7cd19b6ab10895a86c2647af5a0e9514541602f32cfea7d87213e436c381d14"
+      },
+      "16": {
+        "source_ref": "Psalms 45:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 17,
+            "source_ref": "Psalms 45:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "352b14ae01c22eae01538311a44d61d766f5c181827ad0c2e28641fb8f8d006f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "352b14ae01c22eae01538311a44d61d766f5c181827ad0c2e28641fb8f8d006f"
+      },
+      "17": {
+        "source_ref": "Psalms 45:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 45,
+            "verse": 18,
+            "source_ref": "Psalms 45:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "18ab3f5e2ce4ca4729647d537af61751634b57b6886c9ede0dd8c2ee23d92345"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "18ab3f5e2ce4ca4729647d537af61751634b57b6886c9ede0dd8c2ee23d92345"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_045.md",
+    "blob_sha": "f785bd44c1cefd3223781f0d40b1e787400e383a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

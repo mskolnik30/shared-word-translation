@@ -1,0 +1,193 @@
+{
+  "book": "Psalms",
+  "chapter": 24,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 24:1 (Hebrew; before kjv marker) + Psalms 24:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 1,
+            "source_ref": "Psalms 24:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "dbbeb0cdfea232ba0d8a866f8b161bf284b87ccb89180308dbb7c2dda7c2709b"
+          },
+          {
+            "chapter": 24,
+            "verse": 1,
+            "source_ref": "Psalms 24:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "cf43e02c4d0ba18361eb30bfe4e0a11eb74be46e62a367fce82ecf98bc289c32"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "fef727357d6ec086bad335f674f4309f92ac1da16d3d3f0bbb60550f813127c5"
+      },
+      "2": {
+        "source_ref": "Psalms 24:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 2,
+            "source_ref": "Psalms 24:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d985b2da3593709b7c373f22e8434c5985482596a8c0bf4f9f8b36beeeee6dda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d985b2da3593709b7c373f22e8434c5985482596a8c0bf4f9f8b36beeeee6dda"
+      },
+      "3": {
+        "source_ref": "Psalms 24:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 3,
+            "source_ref": "Psalms 24:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bdaac2f223372a6ea292f1d04f73c81cafff87e435292a1860b9b4d31d105d64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdaac2f223372a6ea292f1d04f73c81cafff87e435292a1860b9b4d31d105d64"
+      },
+      "4": {
+        "source_ref": "Psalms 24:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 4,
+            "source_ref": "Psalms 24:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32f57957487cef962e401283632af4109656fd7a8d64d841a65c616c1c31047c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32f57957487cef962e401283632af4109656fd7a8d64d841a65c616c1c31047c"
+      },
+      "5": {
+        "source_ref": "Psalms 24:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 5,
+            "source_ref": "Psalms 24:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35fc4c4adf65c1087ba6569ecb10b37297af06e53a94196b9da2bcf1a8514bbf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35fc4c4adf65c1087ba6569ecb10b37297af06e53a94196b9da2bcf1a8514bbf"
+      },
+      "6": {
+        "source_ref": "Psalms 24:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 6,
+            "source_ref": "Psalms 24:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79544cacdbfccb458a63ed526b65ccbd6d4b0959f5f2a5d9ecf7b9e36c406d28"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79544cacdbfccb458a63ed526b65ccbd6d4b0959f5f2a5d9ecf7b9e36c406d28"
+      },
+      "7": {
+        "source_ref": "Psalms 24:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 7,
+            "source_ref": "Psalms 24:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a5750c1f568e5038b3ba1830d4ef56962b35296c7bb9b9ac6408d22f208edab8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5750c1f568e5038b3ba1830d4ef56962b35296c7bb9b9ac6408d22f208edab8"
+      },
+      "8": {
+        "source_ref": "Psalms 24:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 8,
+            "source_ref": "Psalms 24:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "091c3fc7c3d0dc70282682db4588e7b68d141718af68a1c9c56ea5de8743f386"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "091c3fc7c3d0dc70282682db4588e7b68d141718af68a1c9c56ea5de8743f386"
+      },
+      "9": {
+        "source_ref": "Psalms 24:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 9,
+            "source_ref": "Psalms 24:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4690630f678204647a09ccd21a50895525dc8ea4ca5f32045e07094f734c2662"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4690630f678204647a09ccd21a50895525dc8ea4ca5f32045e07094f734c2662"
+      },
+      "10": {
+        "source_ref": "Psalms 24:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 10,
+            "source_ref": "Psalms 24:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "02f26b9e9d14f352ec2c45c4ea1adf24df7babd074e1320bb00c7b0099f230c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02f26b9e9d14f352ec2c45c4ea1adf24df7babd074e1320bb00c7b0099f230c0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_024.md",
+    "blob_sha": "2f8f4188d4a1043b56f7e234d551494b00cc5f2b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

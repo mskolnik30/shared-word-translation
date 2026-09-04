@@ -1,0 +1,276 @@
+{
+  "book": "Psalms",
+  "chapter": 91,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 91:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 1,
+            "source_ref": "Psalms 91:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "03471614b4a0e001b12f0d7bec16add40a75da3d6c53d7aa90ec5ddb7669f2b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03471614b4a0e001b12f0d7bec16add40a75da3d6c53d7aa90ec5ddb7669f2b6"
+      },
+      "2": {
+        "source_ref": "Psalms 91:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 2,
+            "source_ref": "Psalms 91:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9af02bfd99444e94763586fd0a044c1598e8b3febdf7c7e6ff1462b61c5bbd92"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9af02bfd99444e94763586fd0a044c1598e8b3febdf7c7e6ff1462b61c5bbd92"
+      },
+      "3": {
+        "source_ref": "Psalms 91:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 3,
+            "source_ref": "Psalms 91:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e9e5c7c6a107d97742e1b9265a9a12e2c648c255cd696eda5e9bef86d1e71379"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e9e5c7c6a107d97742e1b9265a9a12e2c648c255cd696eda5e9bef86d1e71379"
+      },
+      "4": {
+        "source_ref": "Psalms 91:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 4,
+            "source_ref": "Psalms 91:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f09d35f59df6b792ee38cf8e21891f47bb1cef413063419e5de9978a33a31b5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f09d35f59df6b792ee38cf8e21891f47bb1cef413063419e5de9978a33a31b5d"
+      },
+      "5": {
+        "source_ref": "Psalms 91:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 5,
+            "source_ref": "Psalms 91:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4bb3ad09e4135d15c0925d0ff9f64b418f830288ab5dbed128c00017b56d6dee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4bb3ad09e4135d15c0925d0ff9f64b418f830288ab5dbed128c00017b56d6dee"
+      },
+      "6": {
+        "source_ref": "Psalms 91:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 6,
+            "source_ref": "Psalms 91:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2df07f0647a5498d7819ffff9ce2d9e6a092efc21e37f2895855f5938bd22c32"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2df07f0647a5498d7819ffff9ce2d9e6a092efc21e37f2895855f5938bd22c32"
+      },
+      "7": {
+        "source_ref": "Psalms 91:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 7,
+            "source_ref": "Psalms 91:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62bb968abc5de41560edb7ea07513693f8a790d1f3cd5607f90832dd165d87ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62bb968abc5de41560edb7ea07513693f8a790d1f3cd5607f90832dd165d87ff"
+      },
+      "8": {
+        "source_ref": "Psalms 91:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 8,
+            "source_ref": "Psalms 91:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32f1335b3df22c6f5d211c64da5ada9b1ef9502c5b275fdb600eef4fb7144439"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32f1335b3df22c6f5d211c64da5ada9b1ef9502c5b275fdb600eef4fb7144439"
+      },
+      "9": {
+        "source_ref": "Psalms 91:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 9,
+            "source_ref": "Psalms 91:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "656eeee99753a142cc761bed700860a9dc3bcf0ee6a2363b2e8f5ae2c0636665"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "656eeee99753a142cc761bed700860a9dc3bcf0ee6a2363b2e8f5ae2c0636665"
+      },
+      "10": {
+        "source_ref": "Psalms 91:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 10,
+            "source_ref": "Psalms 91:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d5cbaa957c1118326dbb200db6b3b9ab78b372a6b00d80392338ea7bf6a75cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d5cbaa957c1118326dbb200db6b3b9ab78b372a6b00d80392338ea7bf6a75cb"
+      },
+      "11": {
+        "source_ref": "Psalms 91:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 11,
+            "source_ref": "Psalms 91:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bae673eed672c9e23ea002a40a04bab0c4f766e41b83e0c248848e8dbaf0e3ee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bae673eed672c9e23ea002a40a04bab0c4f766e41b83e0c248848e8dbaf0e3ee"
+      },
+      "12": {
+        "source_ref": "Psalms 91:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 12,
+            "source_ref": "Psalms 91:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04da980c0efc8e29aba140476cdd72a354d3d6f1ca8a1666fca9f05f06ecd45f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04da980c0efc8e29aba140476cdd72a354d3d6f1ca8a1666fca9f05f06ecd45f"
+      },
+      "13": {
+        "source_ref": "Psalms 91:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 13,
+            "source_ref": "Psalms 91:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "380191f350eb4932e88ac9cffccae86c47c27f62edfaad8a3561fabc8a9ba2f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "380191f350eb4932e88ac9cffccae86c47c27f62edfaad8a3561fabc8a9ba2f6"
+      },
+      "14": {
+        "source_ref": "Psalms 91:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 14,
+            "source_ref": "Psalms 91:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a620f845110cd05e2c11ec9fc7f116222c1d0838204baf11ab8530d44af995c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a620f845110cd05e2c11ec9fc7f116222c1d0838204baf11ab8530d44af995c"
+      },
+      "15": {
+        "source_ref": "Psalms 91:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 15,
+            "source_ref": "Psalms 91:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f26b59b816662628cec70b2bc10ab9b57e464fc9d6a8f58c236e91b4c71ded1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f26b59b816662628cec70b2bc10ab9b57e464fc9d6a8f58c236e91b4c71ded1"
+      },
+      "16": {
+        "source_ref": "Psalms 91:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 91,
+            "verse": 16,
+            "source_ref": "Psalms 91:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8f19fc3fbcfbc8f23f00e19a9c52e69329fe23d20bbde844e002bb3b890f60a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f19fc3fbcfbc8f23f00e19a9c52e69329fe23d20bbde844e002bb3b890f60a0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_091.md",
+    "blob_sha": "497552c91b19864585920f1d475e1b700707b335"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

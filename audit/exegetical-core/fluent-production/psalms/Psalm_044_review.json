@@ -1,0 +1,433 @@
+{
+  "book": "Psalms",
+  "chapter": 44,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 44:1 (Hebrew; whole) + Psalms 44:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 1,
+            "source_ref": "Psalms 44:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2594a94ae9248ff863025179719b1a0bfc29f82311fc925800c9f2b28973c593"
+          },
+          {
+            "chapter": 44,
+            "verse": 2,
+            "source_ref": "Psalms 44:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "991dcbd83315b9554de1cf2665e59197379dda5740e2e014b246e3b90a4f5da5"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "15e06c27e718a4a6f97ac3cf2ac9ec123c14c90d840e12110c95a6e6d948ba07"
+      },
+      "2": {
+        "source_ref": "Psalms 44:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 3,
+            "source_ref": "Psalms 44:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e0e60f5757ab56c91207856cbba2dcb110069d642d53d1a48099abfb8d2f4584"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e0e60f5757ab56c91207856cbba2dcb110069d642d53d1a48099abfb8d2f4584"
+      },
+      "3": {
+        "source_ref": "Psalms 44:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 4,
+            "source_ref": "Psalms 44:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1f6b53b85da309bcb3ae68a27e604561f6b792187e3023d3e6b4acfd7486b634"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1f6b53b85da309bcb3ae68a27e604561f6b792187e3023d3e6b4acfd7486b634"
+      },
+      "4": {
+        "source_ref": "Psalms 44:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 5,
+            "source_ref": "Psalms 44:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "16769590bcf125362d9a2b08d1d05b4f029b9077228af82b3895457be08c7e55"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "16769590bcf125362d9a2b08d1d05b4f029b9077228af82b3895457be08c7e55"
+      },
+      "5": {
+        "source_ref": "Psalms 44:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 6,
+            "source_ref": "Psalms 44:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4a5a65de1e17eb491fb05102ca3a149fd79d45f4bd9fe84788e6cbadf22ce81e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4a5a65de1e17eb491fb05102ca3a149fd79d45f4bd9fe84788e6cbadf22ce81e"
+      },
+      "6": {
+        "source_ref": "Psalms 44:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 7,
+            "source_ref": "Psalms 44:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "46d21cf336bd689e56d213b6ec5555006962815c600f9d5638692d0af332e016"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "46d21cf336bd689e56d213b6ec5555006962815c600f9d5638692d0af332e016"
+      },
+      "7": {
+        "source_ref": "Psalms 44:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 8,
+            "source_ref": "Psalms 44:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ab3ddbb18ecd199244e73e36a44ddb020e96d288e1f3dc298783be28d3e40f09"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ab3ddbb18ecd199244e73e36a44ddb020e96d288e1f3dc298783be28d3e40f09"
+      },
+      "8": {
+        "source_ref": "Psalms 44:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 9,
+            "source_ref": "Psalms 44:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ec459b3576a54ccdf8230d89da72ad0b30aaf30f3dd9a1c744b9734dc6d65e64"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ec459b3576a54ccdf8230d89da72ad0b30aaf30f3dd9a1c744b9734dc6d65e64"
+      },
+      "9": {
+        "source_ref": "Psalms 44:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 10,
+            "source_ref": "Psalms 44:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c01092ed2904883e517feaeb298589ab72e9be22943510758f8de998236cc8a4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c01092ed2904883e517feaeb298589ab72e9be22943510758f8de998236cc8a4"
+      },
+      "10": {
+        "source_ref": "Psalms 44:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 11,
+            "source_ref": "Psalms 44:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "79dcbe3558efb9fea3b453a07af4ba4999d4c6be81a5ec37c8c6dde434e1361d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "79dcbe3558efb9fea3b453a07af4ba4999d4c6be81a5ec37c8c6dde434e1361d"
+      },
+      "11": {
+        "source_ref": "Psalms 44:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 12,
+            "source_ref": "Psalms 44:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "95c914bceced466b843ad0ff3ffbd4cf018d040979520640c941f85059a199d5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "95c914bceced466b843ad0ff3ffbd4cf018d040979520640c941f85059a199d5"
+      },
+      "12": {
+        "source_ref": "Psalms 44:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 13,
+            "source_ref": "Psalms 44:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "919651344620eba02f5b00ad6666d11a65129c65c7eac548b5126ccc4a37f02e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "919651344620eba02f5b00ad6666d11a65129c65c7eac548b5126ccc4a37f02e"
+      },
+      "13": {
+        "source_ref": "Psalms 44:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 14,
+            "source_ref": "Psalms 44:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a4f4d68b523450e87f10883e815acc7771198aa4983bce8bcab0ccb15e8a5189"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a4f4d68b523450e87f10883e815acc7771198aa4983bce8bcab0ccb15e8a5189"
+      },
+      "14": {
+        "source_ref": "Psalms 44:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 15,
+            "source_ref": "Psalms 44:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "66cd3a32016da6f3a8e8d1e087af976ede383656f43e1adbf812415d2d47c38e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "66cd3a32016da6f3a8e8d1e087af976ede383656f43e1adbf812415d2d47c38e"
+      },
+      "15": {
+        "source_ref": "Psalms 44:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 16,
+            "source_ref": "Psalms 44:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2582172d5fceb58d692d50bbea7ffafffcf4572490fcf0b62a367de2dc64f8df"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2582172d5fceb58d692d50bbea7ffafffcf4572490fcf0b62a367de2dc64f8df"
+      },
+      "16": {
+        "source_ref": "Psalms 44:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 17,
+            "source_ref": "Psalms 44:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e94a39007c8c7a49bfcc83f3d0c8b9e9ab70d15936110f3753fb0f09b3ed8a1a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e94a39007c8c7a49bfcc83f3d0c8b9e9ab70d15936110f3753fb0f09b3ed8a1a"
+      },
+      "17": {
+        "source_ref": "Psalms 44:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 18,
+            "source_ref": "Psalms 44:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "526cdf282947b05ea3f92097ac3fff3235ffc3f6c5b42277f5d4fc9b2489c315"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "526cdf282947b05ea3f92097ac3fff3235ffc3f6c5b42277f5d4fc9b2489c315"
+      },
+      "18": {
+        "source_ref": "Psalms 44:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 19,
+            "source_ref": "Psalms 44:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "53af554559a6ac86efef2fd14d0262cc0d0a4d6b1fcedc4bc5e46dfbaaefed50"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "53af554559a6ac86efef2fd14d0262cc0d0a4d6b1fcedc4bc5e46dfbaaefed50"
+      },
+      "19": {
+        "source_ref": "Psalms 44:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 20,
+            "source_ref": "Psalms 44:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e00900013557f5d76f3e2d7b2c54512b423f24c356659ddfd522b615d7f691b4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e00900013557f5d76f3e2d7b2c54512b423f24c356659ddfd522b615d7f691b4"
+      },
+      "20": {
+        "source_ref": "Psalms 44:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 21,
+            "source_ref": "Psalms 44:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "da19076bd2a91330dd8ec19a0017ab1d486e815d00f8cd2291046a6cc8a6c7ec"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "da19076bd2a91330dd8ec19a0017ab1d486e815d00f8cd2291046a6cc8a6c7ec"
+      },
+      "21": {
+        "source_ref": "Psalms 44:22 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 22,
+            "source_ref": "Psalms 44:22 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "98c3e1a5d3cd0f182c99c8a11139cbf192151d9334e3c749dbbd703c00213589"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "98c3e1a5d3cd0f182c99c8a11139cbf192151d9334e3c749dbbd703c00213589"
+      },
+      "22": {
+        "source_ref": "Psalms 44:23 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 23,
+            "source_ref": "Psalms 44:23 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f7d1b3be533ae4f9bf24867f579c05831dc7f0486b80401311f67b2bb6c5dd27"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f7d1b3be533ae4f9bf24867f579c05831dc7f0486b80401311f67b2bb6c5dd27"
+      },
+      "23": {
+        "source_ref": "Psalms 44:24 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 24,
+            "source_ref": "Psalms 44:24 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6f5d0d63660b0c13d750164dc1d94b6d76f87befa28d070a9e4c571a5b444c87"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6f5d0d63660b0c13d750164dc1d94b6d76f87befa28d070a9e4c571a5b444c87"
+      },
+      "24": {
+        "source_ref": "Psalms 44:25 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 25,
+            "source_ref": "Psalms 44:25 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5310e116eb235520a0abb63b486f60392b81cb9aa9e533b010274c4414a6363b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5310e116eb235520a0abb63b486f60392b81cb9aa9e533b010274c4414a6363b"
+      },
+      "25": {
+        "source_ref": "Psalms 44:26 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 26,
+            "source_ref": "Psalms 44:26 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ec8f68a5588bfd13b7fa4ec003c5d53036993956aa5e1b8ed4cfbf0f1c213d8c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ec8f68a5588bfd13b7fa4ec003c5d53036993956aa5e1b8ed4cfbf0f1c213d8c"
+      },
+      "26": {
+        "source_ref": "Psalms 44:27 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 27,
+            "source_ref": "Psalms 44:27 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c574e2530ca2a89e24243ec37a07c7eac2a0cd112d17899ce0863a2c5dcda221"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c574e2530ca2a89e24243ec37a07c7eac2a0cd112d17899ce0863a2c5dcda221"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_044.md",
+    "blob_sha": "7a4462c3375802e2175a3653c974fc610c169c73"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

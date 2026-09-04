@@ -1,0 +1,178 @@
+{
+  "book": "Psalms",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 8:1 (Hebrew; whole) + Psalms 8:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "Psalms 8:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "deb76c3b733a544fed760dc16762b6369605f9dda0d46b039e083c3818b70e22"
+          },
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "Psalms 8:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ce0bc52452aeaf76b21fc815c95e6504fbcdea42e357c9f0eecaf8c873fc3bb5"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "de92e9cff8eec062e22acb026bcc346f89ee2d48741dc64087a747ea8f8c2782"
+      },
+      "2": {
+        "source_ref": "Psalms 8:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "Psalms 8:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "79d0f879ef035f61eba042baf90285ff69b44b6b8aed9d1d16a8765a561cc5aa"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "79d0f879ef035f61eba042baf90285ff69b44b6b8aed9d1d16a8765a561cc5aa"
+      },
+      "3": {
+        "source_ref": "Psalms 8:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "Psalms 8:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d4e9bfd0ab2aa96fda1db2fb58315c0a68245e49214efa65f9ad8a80065214d0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d4e9bfd0ab2aa96fda1db2fb58315c0a68245e49214efa65f9ad8a80065214d0"
+      },
+      "4": {
+        "source_ref": "Psalms 8:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "Psalms 8:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dbbc5a139d8aa6a25b34e02c03451181a4d9fe8f459666111b738f6b5e3d2f07"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dbbc5a139d8aa6a25b34e02c03451181a4d9fe8f459666111b738f6b5e3d2f07"
+      },
+      "5": {
+        "source_ref": "Psalms 8:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "Psalms 8:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4fee8af0c2ad44c8ca05aabff03d24b04f4ef8d8021041a4e6d35c8183de450d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4fee8af0c2ad44c8ca05aabff03d24b04f4ef8d8021041a4e6d35c8183de450d"
+      },
+      "6": {
+        "source_ref": "Psalms 8:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "Psalms 8:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4fafbe5a969532f9af74c7981022d3d32dadb57a22dd0a809342a60b36580e92"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4fafbe5a969532f9af74c7981022d3d32dadb57a22dd0a809342a60b36580e92"
+      },
+      "7": {
+        "source_ref": "Psalms 8:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "Psalms 8:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "17bc094c27e65a1ae2eac8e146e3cd23370103272c8759f2db8c20d6b1b8b349"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "17bc094c27e65a1ae2eac8e146e3cd23370103272c8759f2db8c20d6b1b8b349"
+      },
+      "8": {
+        "source_ref": "Psalms 8:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "Psalms 8:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c8f1fbf52172fca8541adfa34376c7fb32b404bdb6c285070a8943acf99cbeb1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c8f1fbf52172fca8541adfa34376c7fb32b404bdb6c285070a8943acf99cbeb1"
+      },
+      "9": {
+        "source_ref": "Psalms 8:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "Psalms 8:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b6bde9681377f92075c6cbcf4875ce7976afb1e9edf56a584c952f1b96a52542"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b6bde9681377f92075c6cbcf4875ce7976afb1e9edf56a584c952f1b96a52542"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_008.md",
+    "blob_sha": "f6d6106976aaaed0e2e400d0b35b080a0db934cb"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

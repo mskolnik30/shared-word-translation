@@ -1,0 +1,193 @@
+{
+  "book": "Psalms",
+  "chapter": 141,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 141:1 (Hebrew; before kjv marker) + Psalms 141:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 1,
+            "source_ref": "Psalms 141:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "6d9bfd2ade4a79c39e86e85453cf2f44b4948bb03a8b450a93f974fbffdc5acc"
+          },
+          {
+            "chapter": 141,
+            "verse": 1,
+            "source_ref": "Psalms 141:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "39130be1dbdf0e7cea6e91fe1335197c2a337a0178d14a37d4699aaadcf45cd2"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "38da4fcad37b0718012970b856f76b3f9229890a62392a19e3b6036786adfa08"
+      },
+      "2": {
+        "source_ref": "Psalms 141:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 2,
+            "source_ref": "Psalms 141:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4a4549125b12bd078adb98892e04592f09782732232976c0c60203e820b25390"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a4549125b12bd078adb98892e04592f09782732232976c0c60203e820b25390"
+      },
+      "3": {
+        "source_ref": "Psalms 141:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 3,
+            "source_ref": "Psalms 141:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fa8772ab75fb0abb29270c380494dd8030a754c2b3f7f0d8dace2941f11b73d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa8772ab75fb0abb29270c380494dd8030a754c2b3f7f0d8dace2941f11b73d1"
+      },
+      "4": {
+        "source_ref": "Psalms 141:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 4,
+            "source_ref": "Psalms 141:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b6298aa07b05be9416f4bda7f085a3e70d551fa4a96ac48b9b2811c544b0feb3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6298aa07b05be9416f4bda7f085a3e70d551fa4a96ac48b9b2811c544b0feb3"
+      },
+      "5": {
+        "source_ref": "Psalms 141:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 5,
+            "source_ref": "Psalms 141:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "725ea19ea69baddfdab724c2b7f5dc738fb3c5844317781fd035a2c98533b1cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "725ea19ea69baddfdab724c2b7f5dc738fb3c5844317781fd035a2c98533b1cf"
+      },
+      "6": {
+        "source_ref": "Psalms 141:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 6,
+            "source_ref": "Psalms 141:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b3e19fe52658194fd71cf5228df9f1f86e56085b0dc39d4f1eb7e32a213a4047"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3e19fe52658194fd71cf5228df9f1f86e56085b0dc39d4f1eb7e32a213a4047"
+      },
+      "7": {
+        "source_ref": "Psalms 141:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 7,
+            "source_ref": "Psalms 141:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "33d9869498e6244145c84173ee3b4f948e2ccb425299e2bf8234fa2fc5470736"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "33d9869498e6244145c84173ee3b4f948e2ccb425299e2bf8234fa2fc5470736"
+      },
+      "8": {
+        "source_ref": "Psalms 141:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 8,
+            "source_ref": "Psalms 141:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ba75967f451ee0b528fb06a8ccdfe673404d4ab8683f228dbfd6fafca3e9da25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba75967f451ee0b528fb06a8ccdfe673404d4ab8683f228dbfd6fafca3e9da25"
+      },
+      "9": {
+        "source_ref": "Psalms 141:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 9,
+            "source_ref": "Psalms 141:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e868b55483a95c09e44ef75f3499b06e6ad9aa42d9c5c9d4974a1ebda801f888"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e868b55483a95c09e44ef75f3499b06e6ad9aa42d9c5c9d4974a1ebda801f888"
+      },
+      "10": {
+        "source_ref": "Psalms 141:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 141,
+            "verse": 10,
+            "source_ref": "Psalms 141:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f6efe9f2c72b1e5309f291cf8f45843eb5f42104c22401f8666c3e93976f4751"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6efe9f2c72b1e5309f291cf8f45843eb5f42104c22401f8666c3e93976f4751"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_141.md",
+    "blob_sha": "65555fc1383bc905941d94513a1928e93725b4c7"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

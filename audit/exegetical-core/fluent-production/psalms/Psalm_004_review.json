@@ -1,0 +1,163 @@
+{
+  "book": "Psalms",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 4:1 (Hebrew; whole) + Psalms 4:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "Psalms 4:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fefb241e924a95e7c423962c8086252fecfe31dd6fc1ac1bb45bcb51943df7ff"
+          },
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "Psalms 4:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "069f3840da06a12f90d051b74d92e06aa58c5844f3d8097e9408bf0c4ff13b4e"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "c2b56c7a596e52ca73e9d6c343d38c48e148d42fa1961fd9bb7453dfa6c13211"
+      },
+      "2": {
+        "source_ref": "Psalms 4:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "Psalms 4:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3652b113dbe954fa6176872f40b3f5ab70f4e827b2d51bd553be1196b7f78600"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3652b113dbe954fa6176872f40b3f5ab70f4e827b2d51bd553be1196b7f78600"
+      },
+      "3": {
+        "source_ref": "Psalms 4:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "Psalms 4:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8c6c480956d8980da60c89f68b895c46be64d6c92823d10f2d6e211190749ac0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8c6c480956d8980da60c89f68b895c46be64d6c92823d10f2d6e211190749ac0"
+      },
+      "4": {
+        "source_ref": "Psalms 4:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "Psalms 4:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "47f966ca3205e2e29ecb403268e5c56c7d0d5ece57d53f811682446220588624"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "47f966ca3205e2e29ecb403268e5c56c7d0d5ece57d53f811682446220588624"
+      },
+      "5": {
+        "source_ref": "Psalms 4:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "Psalms 4:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1b37987c296dc7c797ba115a02bf531bed228e2fd3393fd4830924bf6524f4d1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1b37987c296dc7c797ba115a02bf531bed228e2fd3393fd4830924bf6524f4d1"
+      },
+      "6": {
+        "source_ref": "Psalms 4:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "Psalms 4:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5bde9a00e0a628aa2609275007232625b3bb8d140a28583dc886455e5c782803"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5bde9a00e0a628aa2609275007232625b3bb8d140a28583dc886455e5c782803"
+      },
+      "7": {
+        "source_ref": "Psalms 4:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "Psalms 4:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a7cc230f57ef8570ba68b8f7fe8ab94ebd0d0ff87088e1441836214920ee7c54"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a7cc230f57ef8570ba68b8f7fe8ab94ebd0d0ff87088e1441836214920ee7c54"
+      },
+      "8": {
+        "source_ref": "Psalms 4:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "Psalms 4:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2e41fcad16ed755781ff6a05e5c3245b679f7011af985539d79cfaa946ad63f0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2e41fcad16ed755781ff6a05e5c3245b679f7011af985539d79cfaa946ad63f0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_004.md",
+    "blob_sha": "e7e9a8a2415929474ffba8f37702651b6c3cf272"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

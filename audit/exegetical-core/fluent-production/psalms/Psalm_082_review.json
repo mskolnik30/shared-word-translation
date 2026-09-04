@@ -1,0 +1,163 @@
+{
+  "book": "Psalms",
+  "chapter": 82,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 82:1 (Hebrew; before kjv marker) + Psalms 82:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 82,
+            "verse": 1,
+            "source_ref": "Psalms 82:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "31fa7450b3f298dd6880fc79ac52e83081fcb4253fe9f955ad55e46f032acb4c"
+          },
+          {
+            "chapter": 82,
+            "verse": 1,
+            "source_ref": "Psalms 82:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4cffa3bd8c42708472e625e0ba14c5c90e448da4beda0789dd4c7fac401b3385"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "dc04ba1876733282e161abc41b6dd7adaec87f497b97e3735218e42c02745dad"
+      },
+      "2": {
+        "source_ref": "Psalms 82:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 82,
+            "verse": 2,
+            "source_ref": "Psalms 82:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dab20e2319c7f15b3eb5f95da74c4d2d94613ae8c938cb0f56de152d7aa7f813"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dab20e2319c7f15b3eb5f95da74c4d2d94613ae8c938cb0f56de152d7aa7f813"
+      },
+      "3": {
+        "source_ref": "Psalms 82:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 82,
+            "verse": 3,
+            "source_ref": "Psalms 82:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6329da851b77c3de57ad85c99e45495298bb8071345b84eb9cc42108ebff6bca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6329da851b77c3de57ad85c99e45495298bb8071345b84eb9cc42108ebff6bca"
+      },
+      "4": {
+        "source_ref": "Psalms 82:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 82,
+            "verse": 4,
+            "source_ref": "Psalms 82:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8efd22dbd624403e38cdfcde7f455e5bebf512dddf4fd974e840382338019944"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8efd22dbd624403e38cdfcde7f455e5bebf512dddf4fd974e840382338019944"
+      },
+      "5": {
+        "source_ref": "Psalms 82:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 82,
+            "verse": 5,
+            "source_ref": "Psalms 82:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf0e23e0bc298233ae249c0b44080079815841eea7b856924acb31317a388c2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf0e23e0bc298233ae249c0b44080079815841eea7b856924acb31317a388c2d"
+      },
+      "6": {
+        "source_ref": "Psalms 82:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 82,
+            "verse": 6,
+            "source_ref": "Psalms 82:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a02fd53e5fcf5f42b81e94e60fdbc2c87ab7172f920ac5fa5d7e94ef70fb7ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a02fd53e5fcf5f42b81e94e60fdbc2c87ab7172f920ac5fa5d7e94ef70fb7ec"
+      },
+      "7": {
+        "source_ref": "Psalms 82:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 82,
+            "verse": 7,
+            "source_ref": "Psalms 82:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f68e2306d074ff702ff3b5bec72744c7ec1513379a598ec90efdda5146c44576"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f68e2306d074ff702ff3b5bec72744c7ec1513379a598ec90efdda5146c44576"
+      },
+      "8": {
+        "source_ref": "Psalms 82:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 82,
+            "verse": 8,
+            "source_ref": "Psalms 82:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7ade1ea0ccb51bae33843ffb93bca792bcd70d7d1b10159742d95f1370b0eb0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ade1ea0ccb51bae33843ffb93bca792bcd70d7d1b10159742d95f1370b0eb0c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_082.md",
+    "blob_sha": "3aedc0977531a069c8c8d9b96d17651448ee471d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

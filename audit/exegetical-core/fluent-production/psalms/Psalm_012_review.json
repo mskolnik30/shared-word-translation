@@ -1,0 +1,163 @@
+{
+  "book": "Psalms",
+  "chapter": 12,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 12:1 (Hebrew; whole) + Psalms 12:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 1,
+            "source_ref": "Psalms 12:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e26477b9efd08e60e74356cedab7ace37c45b305652f553fb9086d7caec0f6f1"
+          },
+          {
+            "chapter": 12,
+            "verse": 2,
+            "source_ref": "Psalms 12:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "15918e27cb86f7e198cb55c0ab68f976c90051f52c5a0ad47c15682164ce367e"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "e7b2ee45de5269103375d7c375da4842ce8701bee78f986dca4a331d1bf5772b"
+      },
+      "2": {
+        "source_ref": "Psalms 12:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 3,
+            "source_ref": "Psalms 12:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "cbbebd567eccddbbe90e4ae1ce5f245421aaa576063dd8fd204af3ea2e816ae2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "cbbebd567eccddbbe90e4ae1ce5f245421aaa576063dd8fd204af3ea2e816ae2"
+      },
+      "3": {
+        "source_ref": "Psalms 12:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 4,
+            "source_ref": "Psalms 12:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a7c0ad5d984098be68ccd6aac11ae60b017f7387ce5afcc1e5fc4658e62834de"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a7c0ad5d984098be68ccd6aac11ae60b017f7387ce5afcc1e5fc4658e62834de"
+      },
+      "4": {
+        "source_ref": "Psalms 12:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 5,
+            "source_ref": "Psalms 12:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "11bdcf8df4968a1d98f206ac419acd5bd80fb94b04a18630bb1e672ff9dcb2bb"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "11bdcf8df4968a1d98f206ac419acd5bd80fb94b04a18630bb1e672ff9dcb2bb"
+      },
+      "5": {
+        "source_ref": "Psalms 12:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 6,
+            "source_ref": "Psalms 12:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f8cd8a8d5db724c3d6930bf2b7ebfdb364c092fa31363363a24e698609dd314f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f8cd8a8d5db724c3d6930bf2b7ebfdb364c092fa31363363a24e698609dd314f"
+      },
+      "6": {
+        "source_ref": "Psalms 12:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 7,
+            "source_ref": "Psalms 12:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ac4a5cc6d3212d4d91e420794599fb0a448581a26d75a62e9bd090ece72785d7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ac4a5cc6d3212d4d91e420794599fb0a448581a26d75a62e9bd090ece72785d7"
+      },
+      "7": {
+        "source_ref": "Psalms 12:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 8,
+            "source_ref": "Psalms 12:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "41d21dc3212a14ba0caddc2e78f07848c650c1f497fc1e9e9b821b4b4ade9b5b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "41d21dc3212a14ba0caddc2e78f07848c650c1f497fc1e9e9b821b4b4ade9b5b"
+      },
+      "8": {
+        "source_ref": "Psalms 12:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 9,
+            "source_ref": "Psalms 12:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "557a319f5548954fe816639ea3e234e99c8cc16eff143e08fd0ebaa2c58f570c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "557a319f5548954fe816639ea3e234e99c8cc16eff143e08fd0ebaa2c58f570c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_012.md",
+    "blob_sha": "c606436ac9b0a9d4e1ef6ed7ce2aabd492052e37"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

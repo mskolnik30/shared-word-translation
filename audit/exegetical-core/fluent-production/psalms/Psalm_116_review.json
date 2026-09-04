@@ -1,0 +1,321 @@
+{
+  "book": "Psalms",
+  "chapter": 116,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 116:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 1,
+            "source_ref": "Psalms 116:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f2261fa2e3c1af6bb6032c8f35f514d50e12f3e546fb5dc5600042c68e83635"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f2261fa2e3c1af6bb6032c8f35f514d50e12f3e546fb5dc5600042c68e83635"
+      },
+      "2": {
+        "source_ref": "Psalms 116:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 2,
+            "source_ref": "Psalms 116:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2de18e4086c6748bd5c2b6c35a1c342c616a930e81a9a0f3ff3614419b85885e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2de18e4086c6748bd5c2b6c35a1c342c616a930e81a9a0f3ff3614419b85885e"
+      },
+      "3": {
+        "source_ref": "Psalms 116:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 3,
+            "source_ref": "Psalms 116:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5cf5b0684f019e21f38a5f78cb78b30ab2df9331c7a0ad9fb794f51c6958eae6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5cf5b0684f019e21f38a5f78cb78b30ab2df9331c7a0ad9fb794f51c6958eae6"
+      },
+      "4": {
+        "source_ref": "Psalms 116:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 4,
+            "source_ref": "Psalms 116:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f0fee0b93e6d114b27c0c9811226a629384c29789da2acd2b67d9aa9d20a4238"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0fee0b93e6d114b27c0c9811226a629384c29789da2acd2b67d9aa9d20a4238"
+      },
+      "5": {
+        "source_ref": "Psalms 116:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 5,
+            "source_ref": "Psalms 116:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "46ae559bd3d70f53e46bc30632acc0743d5cd3de1d0b334faba3abb579e71ffc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46ae559bd3d70f53e46bc30632acc0743d5cd3de1d0b334faba3abb579e71ffc"
+      },
+      "6": {
+        "source_ref": "Psalms 116:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 6,
+            "source_ref": "Psalms 116:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d9a436fd82e1008ae81f9b49ca8b38a0949ae108438106249fbfafa79acf7f57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9a436fd82e1008ae81f9b49ca8b38a0949ae108438106249fbfafa79acf7f57"
+      },
+      "7": {
+        "source_ref": "Psalms 116:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 7,
+            "source_ref": "Psalms 116:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc0ec90a0f6a9d285382caa2eb3a3fca3557bc12a1b0899232cf0e2e9798400c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc0ec90a0f6a9d285382caa2eb3a3fca3557bc12a1b0899232cf0e2e9798400c"
+      },
+      "8": {
+        "source_ref": "Psalms 116:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 8,
+            "source_ref": "Psalms 116:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f584a38e57baf5fe4916ea2fb8197f6d0242b5e82801c8ba848e427d4d1e61c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f584a38e57baf5fe4916ea2fb8197f6d0242b5e82801c8ba848e427d4d1e61c9"
+      },
+      "9": {
+        "source_ref": "Psalms 116:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 9,
+            "source_ref": "Psalms 116:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4e228c36d32216c50747b6711064a5b9467ea67d044d843dce97a4e0a5cefbdc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e228c36d32216c50747b6711064a5b9467ea67d044d843dce97a4e0a5cefbdc"
+      },
+      "10": {
+        "source_ref": "Psalms 116:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 10,
+            "source_ref": "Psalms 116:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "58e0bb2e2a3202340a339fb8559c959917982c23108cc96013e6a00abfc14e8f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "58e0bb2e2a3202340a339fb8559c959917982c23108cc96013e6a00abfc14e8f"
+      },
+      "11": {
+        "source_ref": "Psalms 116:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 11,
+            "source_ref": "Psalms 116:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "826aae3f34030ef7a9b7a05ffac3b2cdc32ac11007235ac94126bd4aa2834083"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "826aae3f34030ef7a9b7a05ffac3b2cdc32ac11007235ac94126bd4aa2834083"
+      },
+      "12": {
+        "source_ref": "Psalms 116:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 12,
+            "source_ref": "Psalms 116:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3217ad42a926ff2fc484ed2e0d0c1d4c2ec1775238fad969773e560dcef52542"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3217ad42a926ff2fc484ed2e0d0c1d4c2ec1775238fad969773e560dcef52542"
+      },
+      "13": {
+        "source_ref": "Psalms 116:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 13,
+            "source_ref": "Psalms 116:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4fdc6b6e4f648581a526fd8896142489cd5fafdfd1c3f62e3c92ecc737f5fc0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4fdc6b6e4f648581a526fd8896142489cd5fafdfd1c3f62e3c92ecc737f5fc0b"
+      },
+      "14": {
+        "source_ref": "Psalms 116:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 14,
+            "source_ref": "Psalms 116:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a0e77f3ba060774fe7af0f5cb4967504506fc829a4d63bdb355e582cb6bb80b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0e77f3ba060774fe7af0f5cb4967504506fc829a4d63bdb355e582cb6bb80b1"
+      },
+      "15": {
+        "source_ref": "Psalms 116:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 15,
+            "source_ref": "Psalms 116:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b6bc009f73002e7f7b93ff34c289af11f93930bfbaa20143b5031e5c98e4ffd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b6bc009f73002e7f7b93ff34c289af11f93930bfbaa20143b5031e5c98e4ffd"
+      },
+      "16": {
+        "source_ref": "Psalms 116:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 16,
+            "source_ref": "Psalms 116:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2527e652b38cb75cfae098b2efc2251df8f4e1fbc3c43fb0eb27298c534aa05c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2527e652b38cb75cfae098b2efc2251df8f4e1fbc3c43fb0eb27298c534aa05c"
+      },
+      "17": {
+        "source_ref": "Psalms 116:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 17,
+            "source_ref": "Psalms 116:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d6c951acbe05366e4e52ce479a509626ff7697bb557282faa0b1965c2ad47bae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6c951acbe05366e4e52ce479a509626ff7697bb557282faa0b1965c2ad47bae"
+      },
+      "18": {
+        "source_ref": "Psalms 116:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 18,
+            "source_ref": "Psalms 116:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a0e77f3ba060774fe7af0f5cb4967504506fc829a4d63bdb355e582cb6bb80b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0e77f3ba060774fe7af0f5cb4967504506fc829a4d63bdb355e582cb6bb80b1"
+      },
+      "19": {
+        "source_ref": "Psalms 116:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 116,
+            "verse": 19,
+            "source_ref": "Psalms 116:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7587060d908fe0f5c238b8c94781f9a63ca37b156635f1dc67f94e9403e7efd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7587060d908fe0f5c238b8c94781f9a63ca37b156635f1dc67f94e9403e7efd"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_116.md",
+    "blob_sha": "9df3a1f430ec6df6cc3f0e2ffaab7aa500a2a207"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

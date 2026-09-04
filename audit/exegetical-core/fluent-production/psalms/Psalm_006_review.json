@@ -1,0 +1,193 @@
+{
+  "book": "Psalms",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 6:1 (Hebrew; whole) + Psalms 6:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "Psalms 6:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3eb3a326052954daaec8c3eb542d57f8d6d6dc39d856f9802699a7641982771"
+          },
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "Psalms 6:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "87748e1da1d28dbdafec6558f6933146ab77c9c0fd5b4c812e33660ec184a575"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "9b39f4c07f15e62dd75fbffa8a7ccd9ee04126cd1eab685246f30ac333fc107b"
+      },
+      "2": {
+        "source_ref": "Psalms 6:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "Psalms 6:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9efb0e2967f4cf67c7e202b7f0944cbb63ae34b9b70e898be5463999c1f3224d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9efb0e2967f4cf67c7e202b7f0944cbb63ae34b9b70e898be5463999c1f3224d"
+      },
+      "3": {
+        "source_ref": "Psalms 6:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "Psalms 6:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f917e53e1843c0fc526831832a6af8515e0278e666997beb46f9a5c5d185b81f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f917e53e1843c0fc526831832a6af8515e0278e666997beb46f9a5c5d185b81f"
+      },
+      "4": {
+        "source_ref": "Psalms 6:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "Psalms 6:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5afdadb59b6e8a6e61ac757bb08295ac0948f55c1b34fab7002fab46b6803c5a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5afdadb59b6e8a6e61ac757bb08295ac0948f55c1b34fab7002fab46b6803c5a"
+      },
+      "5": {
+        "source_ref": "Psalms 6:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "Psalms 6:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "50018aebb4928149f6267a3f5689816f4b06e2991ef103d3ddef3be0293a947b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "50018aebb4928149f6267a3f5689816f4b06e2991ef103d3ddef3be0293a947b"
+      },
+      "6": {
+        "source_ref": "Psalms 6:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "Psalms 6:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "89174de0f4602d173e2268d3aa77a5be3322700a4e9cc67073e7cbb51950fafe"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "89174de0f4602d173e2268d3aa77a5be3322700a4e9cc67073e7cbb51950fafe"
+      },
+      "7": {
+        "source_ref": "Psalms 6:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "Psalms 6:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8f430bc97a9696bb0801c805b01ef1ec09eccd07c9337bbf46042f736b4eedd3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8f430bc97a9696bb0801c805b01ef1ec09eccd07c9337bbf46042f736b4eedd3"
+      },
+      "8": {
+        "source_ref": "Psalms 6:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "Psalms 6:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8de30a6dffad8419795bceeb1466e5d29ebcd6812bd0f59072a2574bef1400d6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8de30a6dffad8419795bceeb1466e5d29ebcd6812bd0f59072a2574bef1400d6"
+      },
+      "9": {
+        "source_ref": "Psalms 6:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "Psalms 6:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "571d2e464d6fa33bee09534d9a1902738212b990f249417d2991db7040248935"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "571d2e464d6fa33bee09534d9a1902738212b990f249417d2991db7040248935"
+      },
+      "10": {
+        "source_ref": "Psalms 6:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "Psalms 6:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9463aba522d32ecf45a58dae93b83bae4b37a08d8d27d26c944f5ce6a3e6af46"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9463aba522d32ecf45a58dae93b83bae4b37a08d8d27d26c944f5ce6a3e6af46"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_006.md",
+    "blob_sha": "f9f1c36cd743193c74e97241fe177df2669b934c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

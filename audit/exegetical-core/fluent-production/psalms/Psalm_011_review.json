@@ -1,0 +1,148 @@
+{
+  "book": "Psalms",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 11:1 (Hebrew; before kjv marker) + Psalms 11:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 1,
+            "source_ref": "Psalms 11:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "2692c00a47f2223665d9631d155392ae767b7ded5f75f26cf03964757586617d"
+          },
+          {
+            "chapter": 11,
+            "verse": 1,
+            "source_ref": "Psalms 11:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1b6990885a5b7e18dbb93d96cb96bb1cd813cb1a4e5edfa95911d4df12f50a31"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "e2a31a5429961e5ed86f0e7d045b494c1228edb3f6c25ec9b674ddf4e5087865"
+      },
+      "2": {
+        "source_ref": "Psalms 11:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 2,
+            "source_ref": "Psalms 11:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "191f40e4d5bcc74b598f03379ae8acfe081879a95e1330c4c74f66b53d9e0f31"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "191f40e4d5bcc74b598f03379ae8acfe081879a95e1330c4c74f66b53d9e0f31"
+      },
+      "3": {
+        "source_ref": "Psalms 11:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 3,
+            "source_ref": "Psalms 11:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2947410b82751a1468db932179c250d2989200614c6cadc54cda324a4a8d6f46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2947410b82751a1468db932179c250d2989200614c6cadc54cda324a4a8d6f46"
+      },
+      "4": {
+        "source_ref": "Psalms 11:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 4,
+            "source_ref": "Psalms 11:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1f7fdbcf1acc84f8ddf2a3c515dd9089eeceb56b62f92ff60ebe03211a8dc90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1f7fdbcf1acc84f8ddf2a3c515dd9089eeceb56b62f92ff60ebe03211a8dc90"
+      },
+      "5": {
+        "source_ref": "Psalms 11:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 5,
+            "source_ref": "Psalms 11:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9eaab3e2e1fb2b9b09e59e45d45bf971ccec33833badb38456b61cc7b40dbc56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9eaab3e2e1fb2b9b09e59e45d45bf971ccec33833badb38456b61cc7b40dbc56"
+      },
+      "6": {
+        "source_ref": "Psalms 11:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 6,
+            "source_ref": "Psalms 11:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e64f1a680a4f4d4a8780f93a57cbe40a32dd78163508217f6c21cf28689a6717"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e64f1a680a4f4d4a8780f93a57cbe40a32dd78163508217f6c21cf28689a6717"
+      },
+      "7": {
+        "source_ref": "Psalms 11:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 7,
+            "source_ref": "Psalms 11:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8cb13a8e14bcd7bde0e9e483ca6a6ccd5357a51c166849e59ee7004f006bd723"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8cb13a8e14bcd7bde0e9e483ca6a6ccd5357a51c166849e59ee7004f006bd723"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_011.md",
+    "blob_sha": "8106c22d20c16ea05fdef73b0590a803d9be15da"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,148 @@
+{
+  "book": "Psalms",
+  "chapter": 87,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 87:1 (Hebrew; before kjv marker) + Psalms 87:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 87,
+            "verse": 1,
+            "source_ref": "Psalms 87:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "475b6a32e41eb942ee38487a1730527bc12494a7219619da31447fae075c81b7"
+          },
+          {
+            "chapter": 87,
+            "verse": 1,
+            "source_ref": "Psalms 87:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8f4a290f46569ff75dc1c6d080bb1f6fa224a470444fff6a6c7e2b851958cb46"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "4668c1ee1bb4ceebea8c6aaadc220522623fe029de74a87ed8271157fd76c5ec"
+      },
+      "2": {
+        "source_ref": "Psalms 87:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 87,
+            "verse": 2,
+            "source_ref": "Psalms 87:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d03deca623a747006777a1700bc27c7f1b6714ec9b44dcd090fbc3b1f38092c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d03deca623a747006777a1700bc27c7f1b6714ec9b44dcd090fbc3b1f38092c"
+      },
+      "3": {
+        "source_ref": "Psalms 87:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 87,
+            "verse": 3,
+            "source_ref": "Psalms 87:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a46c27d9bdb5d11a1effb9534f932c9b17c6e7882eec2b436f92e1f5f3d7bd04"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a46c27d9bdb5d11a1effb9534f932c9b17c6e7882eec2b436f92e1f5f3d7bd04"
+      },
+      "4": {
+        "source_ref": "Psalms 87:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 87,
+            "verse": 4,
+            "source_ref": "Psalms 87:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84f1b3c86b731f6c46a3b638284429e0e6cef6940ae3d6fef8d14b17196cd6ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84f1b3c86b731f6c46a3b638284429e0e6cef6940ae3d6fef8d14b17196cd6ca"
+      },
+      "5": {
+        "source_ref": "Psalms 87:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 87,
+            "verse": 5,
+            "source_ref": "Psalms 87:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1ed64b4dcb18572203cb787bd79b274043d68f015d310f4e574da3937c0c0c14"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ed64b4dcb18572203cb787bd79b274043d68f015d310f4e574da3937c0c0c14"
+      },
+      "6": {
+        "source_ref": "Psalms 87:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 87,
+            "verse": 6,
+            "source_ref": "Psalms 87:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01799a6e7669612f2c34c1721de6fda68dd6548c6e280dbccf7a6b310bc3e6a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01799a6e7669612f2c34c1721de6fda68dd6548c6e280dbccf7a6b310bc3e6a1"
+      },
+      "7": {
+        "source_ref": "Psalms 87:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 87,
+            "verse": 7,
+            "source_ref": "Psalms 87:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df80ee65837e3d46f92d68760aecc0473ebc3d4d32afc5cf1573571e0868c578"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df80ee65837e3d46f92d68760aecc0473ebc3d4d32afc5cf1573571e0868c578"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_087.md",
+    "blob_sha": "df892145478be3968f6398d93ddbdcfb4a96e209"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,711 @@
+{
+  "book": "Psalms",
+  "chapter": 105,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 105:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 1,
+            "source_ref": "Psalms 105:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b86bd8f16504939499a0059aec628314ab0557f427655a52ab8208cb04f7e43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b86bd8f16504939499a0059aec628314ab0557f427655a52ab8208cb04f7e43"
+      },
+      "2": {
+        "source_ref": "Psalms 105:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 2,
+            "source_ref": "Psalms 105:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe71dfaffba2edf265181dc72c04a4222f8458aee607504b5aaee0b942e4ac77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe71dfaffba2edf265181dc72c04a4222f8458aee607504b5aaee0b942e4ac77"
+      },
+      "3": {
+        "source_ref": "Psalms 105:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 3,
+            "source_ref": "Psalms 105:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed0768c4a8a5d71fa1595a611e5cb58d53b691aa3c80db71ddd7fc06c6732db5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed0768c4a8a5d71fa1595a611e5cb58d53b691aa3c80db71ddd7fc06c6732db5"
+      },
+      "4": {
+        "source_ref": "Psalms 105:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 4,
+            "source_ref": "Psalms 105:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a2661eaeef3a2aec847d8320eed30415a2f0a276d44717964aeb691938e3645e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a2661eaeef3a2aec847d8320eed30415a2f0a276d44717964aeb691938e3645e"
+      },
+      "5": {
+        "source_ref": "Psalms 105:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 5,
+            "source_ref": "Psalms 105:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "13f79a7e22618d4fdd655e06fa3d7035ce66b89f6aa066e3f4e042dc92d79821"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13f79a7e22618d4fdd655e06fa3d7035ce66b89f6aa066e3f4e042dc92d79821"
+      },
+      "6": {
+        "source_ref": "Psalms 105:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 6,
+            "source_ref": "Psalms 105:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6bda17c3c076dd4b26938674721d54bb7058852e6dde41f982f212859c6b44ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6bda17c3c076dd4b26938674721d54bb7058852e6dde41f982f212859c6b44ed"
+      },
+      "7": {
+        "source_ref": "Psalms 105:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 7,
+            "source_ref": "Psalms 105:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "46fd127d7369e27ee2a1789ea6d7266ba341edcc4e6133c76d5d52c7ebb4a6c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46fd127d7369e27ee2a1789ea6d7266ba341edcc4e6133c76d5d52c7ebb4a6c1"
+      },
+      "8": {
+        "source_ref": "Psalms 105:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 8,
+            "source_ref": "Psalms 105:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d28cbf1eaf9d465c78a37847a312de72f8cce7e3bf30bcf7a24f5ad41c13d321"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d28cbf1eaf9d465c78a37847a312de72f8cce7e3bf30bcf7a24f5ad41c13d321"
+      },
+      "9": {
+        "source_ref": "Psalms 105:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 9,
+            "source_ref": "Psalms 105:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "47c4aaa67e43239f23cde2ad22689ec7d0669a1b7b6e614c54b5b22d0dd4ba50"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "47c4aaa67e43239f23cde2ad22689ec7d0669a1b7b6e614c54b5b22d0dd4ba50"
+      },
+      "10": {
+        "source_ref": "Psalms 105:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 10,
+            "source_ref": "Psalms 105:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "779789f0c7d1ac11031cceacd0dd2daffd78d5ddeecc0fa771b0c16331d0b010"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "779789f0c7d1ac11031cceacd0dd2daffd78d5ddeecc0fa771b0c16331d0b010"
+      },
+      "11": {
+        "source_ref": "Psalms 105:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 11,
+            "source_ref": "Psalms 105:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "11b985981d6dd7e7d599c7a737c19ad0efc727f827bff2d684cabbd7a280c8a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "11b985981d6dd7e7d599c7a737c19ad0efc727f827bff2d684cabbd7a280c8a4"
+      },
+      "12": {
+        "source_ref": "Psalms 105:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 12,
+            "source_ref": "Psalms 105:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b913d2522adad39a0c539c4b1c13be239940d006cac840767c0e0a18736d7189"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b913d2522adad39a0c539c4b1c13be239940d006cac840767c0e0a18736d7189"
+      },
+      "13": {
+        "source_ref": "Psalms 105:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 13,
+            "source_ref": "Psalms 105:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "68993fda3c9967da260a3d876afc6f19d0d75b730c9295cf122f64f6a771bbb0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68993fda3c9967da260a3d876afc6f19d0d75b730c9295cf122f64f6a771bbb0"
+      },
+      "14": {
+        "source_ref": "Psalms 105:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 14,
+            "source_ref": "Psalms 105:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "272c6507f8d63bd15a4911aa2c417106b2e34e038703feeeeefe6aa7e0e31b84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "272c6507f8d63bd15a4911aa2c417106b2e34e038703feeeeefe6aa7e0e31b84"
+      },
+      "15": {
+        "source_ref": "Psalms 105:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 15,
+            "source_ref": "Psalms 105:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0b2c425092892a7c7992929ced5134c833f03f4dc7a430cfd263cc4d75796382"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b2c425092892a7c7992929ced5134c833f03f4dc7a430cfd263cc4d75796382"
+      },
+      "16": {
+        "source_ref": "Psalms 105:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 16,
+            "source_ref": "Psalms 105:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c0cccfafccfe12de2e7db33e84cb29f756f3ae70509f58afa327b565567a3c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c0cccfafccfe12de2e7db33e84cb29f756f3ae70509f58afa327b565567a3c4"
+      },
+      "17": {
+        "source_ref": "Psalms 105:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 17,
+            "source_ref": "Psalms 105:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f87d20c277548b82b712302d139f76c0a5c0b2905f59b03973189f9d06d03f18"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f87d20c277548b82b712302d139f76c0a5c0b2905f59b03973189f9d06d03f18"
+      },
+      "18": {
+        "source_ref": "Psalms 105:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 18,
+            "source_ref": "Psalms 105:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c0ee157c081dac9e46169606c01052cf2caca3e18b790cf0820d825802d69fe4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0ee157c081dac9e46169606c01052cf2caca3e18b790cf0820d825802d69fe4"
+      },
+      "19": {
+        "source_ref": "Psalms 105:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 19,
+            "source_ref": "Psalms 105:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d411cbed8cdd86e012c9f37576e20b6d740d1450fa4588e2ca94f3543919c78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d411cbed8cdd86e012c9f37576e20b6d740d1450fa4588e2ca94f3543919c78"
+      },
+      "20": {
+        "source_ref": "Psalms 105:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 20,
+            "source_ref": "Psalms 105:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7c020ab7e0c6deb02c5953e9901ee55f414c5b2ce082da0f929615fd3992f34b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c020ab7e0c6deb02c5953e9901ee55f414c5b2ce082da0f929615fd3992f34b"
+      },
+      "21": {
+        "source_ref": "Psalms 105:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 21,
+            "source_ref": "Psalms 105:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a57823126ed13105de78b87928a04847a4d41550b8d4f9063571c0354d644321"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a57823126ed13105de78b87928a04847a4d41550b8d4f9063571c0354d644321"
+      },
+      "22": {
+        "source_ref": "Psalms 105:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 22,
+            "source_ref": "Psalms 105:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c8f23fc02af430c1f9baa81f8458fb2d7b2d59a969ee7f1fff941f940a275d6f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8f23fc02af430c1f9baa81f8458fb2d7b2d59a969ee7f1fff941f940a275d6f"
+      },
+      "23": {
+        "source_ref": "Psalms 105:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 23,
+            "source_ref": "Psalms 105:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf172c658af44e96a5465bd3848242a06a83431e42cc49b470874bd437008fb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf172c658af44e96a5465bd3848242a06a83431e42cc49b470874bd437008fb1"
+      },
+      "24": {
+        "source_ref": "Psalms 105:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 24,
+            "source_ref": "Psalms 105:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9132c7f2b064f1966c329ee7bc2d416259f47eed201ce271acc5a7f211a6527b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9132c7f2b064f1966c329ee7bc2d416259f47eed201ce271acc5a7f211a6527b"
+      },
+      "25": {
+        "source_ref": "Psalms 105:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 25,
+            "source_ref": "Psalms 105:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "967d06f6935425ed5e27d1fa2b529c933bfc7eb19e6197eaf4bef11eb220068a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "967d06f6935425ed5e27d1fa2b529c933bfc7eb19e6197eaf4bef11eb220068a"
+      },
+      "26": {
+        "source_ref": "Psalms 105:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 26,
+            "source_ref": "Psalms 105:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2cc054818f0151ecca15ad9e740e43c9b0b83dccd489235c49ad0d1d44365108"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2cc054818f0151ecca15ad9e740e43c9b0b83dccd489235c49ad0d1d44365108"
+      },
+      "27": {
+        "source_ref": "Psalms 105:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 27,
+            "source_ref": "Psalms 105:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36001833e5e27c9a7fed28b5e123f24c5e04ade38e6e25e6e008f10b935961d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36001833e5e27c9a7fed28b5e123f24c5e04ade38e6e25e6e008f10b935961d0"
+      },
+      "28": {
+        "source_ref": "Psalms 105:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 28,
+            "source_ref": "Psalms 105:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f8fc04d0230e0ecdf5f8bf4744a3164b8b52326cd191b09b8c730c29dbdcf385"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8fc04d0230e0ecdf5f8bf4744a3164b8b52326cd191b09b8c730c29dbdcf385"
+      },
+      "29": {
+        "source_ref": "Psalms 105:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 29,
+            "source_ref": "Psalms 105:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d4aa9e4fc5f783bc891cfe83194e5a79961d25b3de26bfc1aa74c340fa078bc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4aa9e4fc5f783bc891cfe83194e5a79961d25b3de26bfc1aa74c340fa078bc4"
+      },
+      "30": {
+        "source_ref": "Psalms 105:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 30,
+            "source_ref": "Psalms 105:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "819ee0f772e57054b5dc90c0f73d34acf60b05592378219195ea6d179c8a1df4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "819ee0f772e57054b5dc90c0f73d34acf60b05592378219195ea6d179c8a1df4"
+      },
+      "31": {
+        "source_ref": "Psalms 105:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 31,
+            "source_ref": "Psalms 105:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f529d27526ff01a3192914111c120408d4ca605c9001b0e52833cdbd8f0a15b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f529d27526ff01a3192914111c120408d4ca605c9001b0e52833cdbd8f0a15b2"
+      },
+      "32": {
+        "source_ref": "Psalms 105:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 32,
+            "source_ref": "Psalms 105:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd74ac965dadbe91055f94dbf85835d2d5bc1fe3f309e0feac414b29b23b47ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd74ac965dadbe91055f94dbf85835d2d5bc1fe3f309e0feac414b29b23b47ac"
+      },
+      "33": {
+        "source_ref": "Psalms 105:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 33,
+            "source_ref": "Psalms 105:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2011cbae36eb635cb1b93bd93f23bc4975404ff97d1d4d336f4e9f8dee9aecf1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2011cbae36eb635cb1b93bd93f23bc4975404ff97d1d4d336f4e9f8dee9aecf1"
+      },
+      "34": {
+        "source_ref": "Psalms 105:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 34,
+            "source_ref": "Psalms 105:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "598388a07c37dbc82847bb11f8a8bfdfa167de0391b2e2a70809bf4424131687"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "598388a07c37dbc82847bb11f8a8bfdfa167de0391b2e2a70809bf4424131687"
+      },
+      "35": {
+        "source_ref": "Psalms 105:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 35,
+            "source_ref": "Psalms 105:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c341d4daef00abff08e5e07a5feded552c234f02f0f12d80737970c33f8ff3a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c341d4daef00abff08e5e07a5feded552c234f02f0f12d80737970c33f8ff3a0"
+      },
+      "36": {
+        "source_ref": "Psalms 105:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 36,
+            "source_ref": "Psalms 105:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ced9ec8b2a4ae969d3a72707a368021dfcce13ef81a8b7b64e4807f0b42563fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ced9ec8b2a4ae969d3a72707a368021dfcce13ef81a8b7b64e4807f0b42563fd"
+      },
+      "37": {
+        "source_ref": "Psalms 105:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 37,
+            "source_ref": "Psalms 105:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "abecc8f26e12a818ae62f51912dffc95bca94c5d4aaddfb7c339b0a7bfffbcbb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "abecc8f26e12a818ae62f51912dffc95bca94c5d4aaddfb7c339b0a7bfffbcbb"
+      },
+      "38": {
+        "source_ref": "Psalms 105:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 38,
+            "source_ref": "Psalms 105:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bab09b7485177b8b2b58414b083e2010f5d98f008b6462e34454df60d7d8a3b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bab09b7485177b8b2b58414b083e2010f5d98f008b6462e34454df60d7d8a3b0"
+      },
+      "39": {
+        "source_ref": "Psalms 105:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 39,
+            "source_ref": "Psalms 105:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2921736ee30b07886fc78bd16fb5ed0be5f99323f631ce152d8afc4789d54ad8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2921736ee30b07886fc78bd16fb5ed0be5f99323f631ce152d8afc4789d54ad8"
+      },
+      "40": {
+        "source_ref": "Psalms 105:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 40,
+            "source_ref": "Psalms 105:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb28149f033ebc96dc08ae0b826d1ac21aba2c95a4160bd457b8de177f346635"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb28149f033ebc96dc08ae0b826d1ac21aba2c95a4160bd457b8de177f346635"
+      },
+      "41": {
+        "source_ref": "Psalms 105:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 41,
+            "source_ref": "Psalms 105:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "025cc82c0064af1e566461100d20c133851a8f9ed16cd8959f2befcc76ef907c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "025cc82c0064af1e566461100d20c133851a8f9ed16cd8959f2befcc76ef907c"
+      },
+      "42": {
+        "source_ref": "Psalms 105:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 42,
+            "source_ref": "Psalms 105:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f4d0564d353cd86aea9e805f868b946baa9a8378de078b30cf0d87e8000a6b05"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4d0564d353cd86aea9e805f868b946baa9a8378de078b30cf0d87e8000a6b05"
+      },
+      "43": {
+        "source_ref": "Psalms 105:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 43,
+            "source_ref": "Psalms 105:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "351e6744f1d0aaf1238a03d282704831ba643aa18e2c5a6ba688f85bf610e793"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "351e6744f1d0aaf1238a03d282704831ba643aa18e2c5a6ba688f85bf610e793"
+      },
+      "44": {
+        "source_ref": "Psalms 105:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 44,
+            "source_ref": "Psalms 105:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd118e2f61bd00a46b6e96d0a360ac809e17762ef21d22da9dab2b11403c30fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd118e2f61bd00a46b6e96d0a360ac809e17762ef21d22da9dab2b11403c30fa"
+      },
+      "45": {
+        "source_ref": "Psalms 105:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 105,
+            "verse": 45,
+            "source_ref": "Psalms 105:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "37ea1aa457f9889901e753c538b1c55b34f77ba8e8dc56f13b7728491f155109"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37ea1aa457f9889901e753c538b1c55b34f77ba8e8dc56f13b7728491f155109"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_105.md",
+    "blob_sha": "effd0c7b4cd357556b4fbb84c63592e4d938e01a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

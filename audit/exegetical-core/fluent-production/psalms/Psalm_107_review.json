@@ -1,0 +1,687 @@
+{
+  "book": "Psalms",
+  "chapter": 107,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "107:1-145:21",
+      "decision": "Retain Book V's thanksgiving, Torah, pilgrimage, lament, royal hope, and acrostic praise.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 107:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 1,
+            "source_ref": "Psalms 107:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9a9fdd211c165a815d6415f2a2aa8349357a674be2bb0d4fba4970b363ebc0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9a9fdd211c165a815d6415f2a2aa8349357a674be2bb0d4fba4970b363ebc0d"
+      },
+      "2": {
+        "source_ref": "Psalms 107:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 2,
+            "source_ref": "Psalms 107:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2895cc6f88103ccdd3b9d6bb2db68af76f21f2dedbc2149c98c42ee6234df3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2895cc6f88103ccdd3b9d6bb2db68af76f21f2dedbc2149c98c42ee6234df3f"
+      },
+      "3": {
+        "source_ref": "Psalms 107:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 3,
+            "source_ref": "Psalms 107:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "50010ef9a4d28b1ff60eac5b7bf1ba64ea304c163b90e5297e2970861d8813ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50010ef9a4d28b1ff60eac5b7bf1ba64ea304c163b90e5297e2970861d8813ab"
+      },
+      "4": {
+        "source_ref": "Psalms 107:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 4,
+            "source_ref": "Psalms 107:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd17a223aeaeb75c9f4ade55dea41f667c2291b646217f5b3357527e07e07761"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd17a223aeaeb75c9f4ade55dea41f667c2291b646217f5b3357527e07e07761"
+      },
+      "5": {
+        "source_ref": "Psalms 107:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 5,
+            "source_ref": "Psalms 107:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9fd4ea88e5a3267ffdb67866ed2461dcd244ca345712a41a50a73f3dce83ecfd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9fd4ea88e5a3267ffdb67866ed2461dcd244ca345712a41a50a73f3dce83ecfd"
+      },
+      "6": {
+        "source_ref": "Psalms 107:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 6,
+            "source_ref": "Psalms 107:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a9c39e65175b7cd6a7246a508d28b08c2da19627dc785c67c6a2d00346f34615"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9c39e65175b7cd6a7246a508d28b08c2da19627dc785c67c6a2d00346f34615"
+      },
+      "7": {
+        "source_ref": "Psalms 107:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 7,
+            "source_ref": "Psalms 107:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a16a01fc7bff77cf6bbf49ea194bdc92562741279650db8b1215b10debd5089"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a16a01fc7bff77cf6bbf49ea194bdc92562741279650db8b1215b10debd5089"
+      },
+      "8": {
+        "source_ref": "Psalms 107:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 8,
+            "source_ref": "Psalms 107:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e827ef0dfe8a4c0793ed59378f7a9834565b6c564df26464c30f206923b321d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e827ef0dfe8a4c0793ed59378f7a9834565b6c564df26464c30f206923b321d8"
+      },
+      "9": {
+        "source_ref": "Psalms 107:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 9,
+            "source_ref": "Psalms 107:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d8bf4a265e29f8dac38449b2d54679ca7abebf17bb40cef044e5b466e0aac6d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8bf4a265e29f8dac38449b2d54679ca7abebf17bb40cef044e5b466e0aac6d3"
+      },
+      "10": {
+        "source_ref": "Psalms 107:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 10,
+            "source_ref": "Psalms 107:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7eb4d46d8acb75cf8c8786c218837a3bda3053109ed4c10ed019b9ea8b5c2c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7eb4d46d8acb75cf8c8786c218837a3bda3053109ed4c10ed019b9ea8b5c2c7"
+      },
+      "11": {
+        "source_ref": "Psalms 107:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 11,
+            "source_ref": "Psalms 107:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f0b159ec518cb8035a4968012d1cb9ac3bf06b382139ff0b6cb144854b951ab5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0b159ec518cb8035a4968012d1cb9ac3bf06b382139ff0b6cb144854b951ab5"
+      },
+      "12": {
+        "source_ref": "Psalms 107:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 12,
+            "source_ref": "Psalms 107:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "027401cf1a10c6f9fc4229810f36cfada0a81aa05a8ac48c3636aaee1835b89e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "027401cf1a10c6f9fc4229810f36cfada0a81aa05a8ac48c3636aaee1835b89e"
+      },
+      "13": {
+        "source_ref": "Psalms 107:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 13,
+            "source_ref": "Psalms 107:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6bb4192f8db70ccd9921527fbe3a3a4f5c5b7d22399ddae10e1c0f5f275f0d0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6bb4192f8db70ccd9921527fbe3a3a4f5c5b7d22399ddae10e1c0f5f275f0d0f"
+      },
+      "14": {
+        "source_ref": "Psalms 107:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 14,
+            "source_ref": "Psalms 107:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a19362c7a469e66989a851426bd0552d472b4f449b0f58e5e739315a00e82a41"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a19362c7a469e66989a851426bd0552d472b4f449b0f58e5e739315a00e82a41"
+      },
+      "15": {
+        "source_ref": "Psalms 107:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 15,
+            "source_ref": "Psalms 107:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e827ef0dfe8a4c0793ed59378f7a9834565b6c564df26464c30f206923b321d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e827ef0dfe8a4c0793ed59378f7a9834565b6c564df26464c30f206923b321d8"
+      },
+      "16": {
+        "source_ref": "Psalms 107:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 16,
+            "source_ref": "Psalms 107:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b528f6c1f25b2a2dbcf7fff4cec2ca245758a0cfe95ee3f49b162825843f29d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b528f6c1f25b2a2dbcf7fff4cec2ca245758a0cfe95ee3f49b162825843f29d"
+      },
+      "17": {
+        "source_ref": "Psalms 107:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 17,
+            "source_ref": "Psalms 107:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27a900e54af5bc11ce1624db005c42325b1d3b0001db5ce3e4b6d174e05777fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27a900e54af5bc11ce1624db005c42325b1d3b0001db5ce3e4b6d174e05777fd"
+      },
+      "18": {
+        "source_ref": "Psalms 107:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 18,
+            "source_ref": "Psalms 107:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c87b3d993569139d72e22030679a57dd7da8d9c71ed13810caf8a8dfe5665c6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c87b3d993569139d72e22030679a57dd7da8d9c71ed13810caf8a8dfe5665c6a"
+      },
+      "19": {
+        "source_ref": "Psalms 107:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 19,
+            "source_ref": "Psalms 107:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6bb4192f8db70ccd9921527fbe3a3a4f5c5b7d22399ddae10e1c0f5f275f0d0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6bb4192f8db70ccd9921527fbe3a3a4f5c5b7d22399ddae10e1c0f5f275f0d0f"
+      },
+      "20": {
+        "source_ref": "Psalms 107:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 20,
+            "source_ref": "Psalms 107:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "80e5e42e0c089d6af3a00e9a99d3c7fe00b2e7f33d1552e8c36cecf31fb0b475"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "80e5e42e0c089d6af3a00e9a99d3c7fe00b2e7f33d1552e8c36cecf31fb0b475"
+      },
+      "21": {
+        "source_ref": "Psalms 107:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 21,
+            "source_ref": "Psalms 107:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "730d99a95a79dbfcdf8c79c5bede89caa6ab8ba490e4552d963201974388696c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "730d99a95a79dbfcdf8c79c5bede89caa6ab8ba490e4552d963201974388696c"
+      },
+      "22": {
+        "source_ref": "Psalms 107:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 22,
+            "source_ref": "Psalms 107:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5aa6a82859ef79ad2fe08cf7e75fabc15cb55d36a8c0b27f881bd241835fcf2b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5aa6a82859ef79ad2fe08cf7e75fabc15cb55d36a8c0b27f881bd241835fcf2b"
+      },
+      "23": {
+        "source_ref": "Psalms 107:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 23,
+            "source_ref": "Psalms 107:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca192215bb8ced645d8d775db42ba0f92548c7eb5f11a19157c1254f7d7cb226"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca192215bb8ced645d8d775db42ba0f92548c7eb5f11a19157c1254f7d7cb226"
+      },
+      "24": {
+        "source_ref": "Psalms 107:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 24,
+            "source_ref": "Psalms 107:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c93785a9b5033bccfab1c4151cac18411c6372ab5a301dee94e97f75b87c678f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c93785a9b5033bccfab1c4151cac18411c6372ab5a301dee94e97f75b87c678f"
+      },
+      "25": {
+        "source_ref": "Psalms 107:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 25,
+            "source_ref": "Psalms 107:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cea78311e0a3f5f2d8ec9d70fd0c0deff9d744db576b85d0770db2fca7d483a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cea78311e0a3f5f2d8ec9d70fd0c0deff9d744db576b85d0770db2fca7d483a7"
+      },
+      "26": {
+        "source_ref": "Psalms 107:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 26,
+            "source_ref": "Psalms 107:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b9f0534ddb5ebc9f8b6d9104c4fb6d33cfb24d705cd71263aa07b239d7325117"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b9f0534ddb5ebc9f8b6d9104c4fb6d33cfb24d705cd71263aa07b239d7325117"
+      },
+      "27": {
+        "source_ref": "Psalms 107:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 27,
+            "source_ref": "Psalms 107:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7ef59782dc63bfbb8e0976a710e142f725e0990fd3e4bc654d5db5ab818d8908"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ef59782dc63bfbb8e0976a710e142f725e0990fd3e4bc654d5db5ab818d8908"
+      },
+      "28": {
+        "source_ref": "Psalms 107:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 28,
+            "source_ref": "Psalms 107:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a8d98983c42f4ce24c9ded4c88f3c1dd88d7ebaf4802ad9174718773386c599"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a8d98983c42f4ce24c9ded4c88f3c1dd88d7ebaf4802ad9174718773386c599"
+      },
+      "29": {
+        "source_ref": "Psalms 107:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 29,
+            "source_ref": "Psalms 107:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bbc11c039cc9ec2f9f3ea83901429fb8073ec8f52ea4dd2c3ef3174ef0571232"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bbc11c039cc9ec2f9f3ea83901429fb8073ec8f52ea4dd2c3ef3174ef0571232"
+      },
+      "30": {
+        "source_ref": "Psalms 107:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 30,
+            "source_ref": "Psalms 107:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "55ff3d76d1375870fce562b812387a6427b788984966bb261c85223ff2d76225"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "55ff3d76d1375870fce562b812387a6427b788984966bb261c85223ff2d76225"
+      },
+      "31": {
+        "source_ref": "Psalms 107:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 31,
+            "source_ref": "Psalms 107:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e827ef0dfe8a4c0793ed59378f7a9834565b6c564df26464c30f206923b321d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e827ef0dfe8a4c0793ed59378f7a9834565b6c564df26464c30f206923b321d8"
+      },
+      "32": {
+        "source_ref": "Psalms 107:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 32,
+            "source_ref": "Psalms 107:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "094763c0c9c9d82dc7a7ca481b6354baeb7407e825d5a19bce5ac74f2d8e95be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "094763c0c9c9d82dc7a7ca481b6354baeb7407e825d5a19bce5ac74f2d8e95be"
+      },
+      "33": {
+        "source_ref": "Psalms 107:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 33,
+            "source_ref": "Psalms 107:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c26cca7d9b890dbc8843a5c0e7225e33e990f9a2bdfc9ece986d48ce10933ec0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c26cca7d9b890dbc8843a5c0e7225e33e990f9a2bdfc9ece986d48ce10933ec0"
+      },
+      "34": {
+        "source_ref": "Psalms 107:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 34,
+            "source_ref": "Psalms 107:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed9e30c0fb1df44617c6186b0c6225a1eca2783e5bbf619d085aad23d1ce5a62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed9e30c0fb1df44617c6186b0c6225a1eca2783e5bbf619d085aad23d1ce5a62"
+      },
+      "35": {
+        "source_ref": "Psalms 107:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 35,
+            "source_ref": "Psalms 107:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b981f8b9061a3f6627a51f85884fc8462b44ea91728645c0edf3569e542e650"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b981f8b9061a3f6627a51f85884fc8462b44ea91728645c0edf3569e542e650"
+      },
+      "36": {
+        "source_ref": "Psalms 107:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 36,
+            "source_ref": "Psalms 107:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d51d7253d9e14bc539898642ccf3cc3939c9514ec6ca0467b11b371df5c56e79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d51d7253d9e14bc539898642ccf3cc3939c9514ec6ca0467b11b371df5c56e79"
+      },
+      "37": {
+        "source_ref": "Psalms 107:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 37,
+            "source_ref": "Psalms 107:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0065189a77195f4bd845d21d7c1467fa43d6a4555fee1577c79cefb84f78b50d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0065189a77195f4bd845d21d7c1467fa43d6a4555fee1577c79cefb84f78b50d"
+      },
+      "38": {
+        "source_ref": "Psalms 107:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 38,
+            "source_ref": "Psalms 107:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "315585d76359cd976b1d8847d17a1572da4c922356bbfd84a4e080d1d8480524"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "315585d76359cd976b1d8847d17a1572da4c922356bbfd84a4e080d1d8480524"
+      },
+      "39": {
+        "source_ref": "Psalms 107:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 39,
+            "source_ref": "Psalms 107:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3ea7bbdece84fbcaee04d7a34583c82a2020b49052fa034749555c984d2841f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ea7bbdece84fbcaee04d7a34583c82a2020b49052fa034749555c984d2841f0"
+      },
+      "40": {
+        "source_ref": "Psalms 107:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 40,
+            "source_ref": "Psalms 107:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9eb2dd8b88207351a9ef6978acef8c3dd56d1c088dd21d5922f12609ec2856dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9eb2dd8b88207351a9ef6978acef8c3dd56d1c088dd21d5922f12609ec2856dd"
+      },
+      "41": {
+        "source_ref": "Psalms 107:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 41,
+            "source_ref": "Psalms 107:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "80d52ea52bb0b88e5128b9ecf6c179f6f527905b341653dbaf04d439b8aed833"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "80d52ea52bb0b88e5128b9ecf6c179f6f527905b341653dbaf04d439b8aed833"
+      },
+      "42": {
+        "source_ref": "Psalms 107:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 42,
+            "source_ref": "Psalms 107:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7786af8e59bcf79fa27eb69240dbe0eb3b9d599e46cc756db89ae0504e4ac100"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7786af8e59bcf79fa27eb69240dbe0eb3b9d599e46cc756db89ae0504e4ac100"
+      },
+      "43": {
+        "source_ref": "Psalms 107:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 107,
+            "verse": 43,
+            "source_ref": "Psalms 107:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81cad6a85ee90f5e65d0fe9d4446fd9395a3da7b1e2814f306d71529c4bb0475"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81cad6a85ee90f5e65d0fe9d4446fd9395a3da7b1e2814f306d71529c4bb0475"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_107.md",
+    "blob_sha": "14d65b264c2d07f130033a116556685b65d758da"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

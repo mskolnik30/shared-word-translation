@@ -1,0 +1,118 @@
+{
+  "book": "Psalms",
+  "chapter": 70,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 70:1 (Hebrew; whole) + Psalms 70:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 70,
+            "verse": 1,
+            "source_ref": "Psalms 70:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8b71e1c27f2952e00ddcdb7589f8b4e622c07a407ca9f901a56e6a1c2db3c35"
+          },
+          {
+            "chapter": 70,
+            "verse": 2,
+            "source_ref": "Psalms 70:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8b8a1dac227632b5c0d82831d22a2d1c8444e351c74a7518e437909bb85bfa21"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "2124643b97625eecfeb315f2bc8fb0d22d5c727e02377a3d5fc8966fdbf254c7"
+      },
+      "2": {
+        "source_ref": "Psalms 70:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 70,
+            "verse": 3,
+            "source_ref": "Psalms 70:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "13c1840d43894eaf8b423ea0fd3abe5fed4a2e8f1482413bd0dd0b3cbf4ae7f7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "13c1840d43894eaf8b423ea0fd3abe5fed4a2e8f1482413bd0dd0b3cbf4ae7f7"
+      },
+      "3": {
+        "source_ref": "Psalms 70:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 70,
+            "verse": 4,
+            "source_ref": "Psalms 70:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "31c9bc4a35cb517a93892aa06191e0d05134433ddcfa03f3d0c33de3a056f294"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "31c9bc4a35cb517a93892aa06191e0d05134433ddcfa03f3d0c33de3a056f294"
+      },
+      "4": {
+        "source_ref": "Psalms 70:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 70,
+            "verse": 5,
+            "source_ref": "Psalms 70:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "cd3570eb5d6ff5643cc23d6ef7a98d33e5dad7aee5b6162e11bffe9e54a7935c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "cd3570eb5d6ff5643cc23d6ef7a98d33e5dad7aee5b6162e11bffe9e54a7935c"
+      },
+      "5": {
+        "source_ref": "Psalms 70:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 70,
+            "verse": 6,
+            "source_ref": "Psalms 70:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9c6aa4ad65107e6f8bb6716b942e29398f8c0d9065ce5ef75fd28b59f5e131f3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9c6aa4ad65107e6f8bb6716b942e29398f8c0d9065ce5ef75fd28b59f5e131f3"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_070.md",
+    "blob_sha": "b1ac9d6938aa1273c98569248f99c772de88f728"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

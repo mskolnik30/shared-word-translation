@@ -1,0 +1,2676 @@
+{
+  "book": "Psalms",
+  "chapter": 119,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 119:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 1,
+            "source_ref": "Psalms 119:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fbb44d36c847fca96403ba1c5321b2c20c67fcdd3194a9b3e97d258e3d9232dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbb44d36c847fca96403ba1c5321b2c20c67fcdd3194a9b3e97d258e3d9232dd"
+      },
+      "2": {
+        "source_ref": "Psalms 119:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 2,
+            "source_ref": "Psalms 119:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "157a18e3b22a9ea2a3862d5d611a031f012e8e3a840edb2b0e47cc235bd8f87f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "157a18e3b22a9ea2a3862d5d611a031f012e8e3a840edb2b0e47cc235bd8f87f"
+      },
+      "3": {
+        "source_ref": "Psalms 119:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 3,
+            "source_ref": "Psalms 119:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "13de2f10b7260ef18e312ba0f272ac5421b51d168855d832f136a974ac32aa7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13de2f10b7260ef18e312ba0f272ac5421b51d168855d832f136a974ac32aa7b"
+      },
+      "4": {
+        "source_ref": "Psalms 119:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 4,
+            "source_ref": "Psalms 119:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9b2dc7106ac6b5baff7b8a8988d6ad1ad11265db27d9abcd458c3a2a6e8a8016"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b2dc7106ac6b5baff7b8a8988d6ad1ad11265db27d9abcd458c3a2a6e8a8016"
+      },
+      "5": {
+        "source_ref": "Psalms 119:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 5,
+            "source_ref": "Psalms 119:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "afced3c5c497acd316a94c25f271447676044055b416659d611a7743a9767031"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "afced3c5c497acd316a94c25f271447676044055b416659d611a7743a9767031"
+      },
+      "6": {
+        "source_ref": "Psalms 119:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 6,
+            "source_ref": "Psalms 119:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "83024ad4a2ed009db3df70d8269abc688b24e39fbaaec4bb30381f80ff075bc6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83024ad4a2ed009db3df70d8269abc688b24e39fbaaec4bb30381f80ff075bc6"
+      },
+      "7": {
+        "source_ref": "Psalms 119:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 7,
+            "source_ref": "Psalms 119:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "799f64f3dd19a5c3931b33e9da8bdd060e793e58ef6f18fa5fad07865d3da041"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "799f64f3dd19a5c3931b33e9da8bdd060e793e58ef6f18fa5fad07865d3da041"
+      },
+      "8": {
+        "source_ref": "Psalms 119:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 8,
+            "source_ref": "Psalms 119:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e06af27004cc5a1fac00a45e7369297f0b00c4c1da353b5212f108801e14033e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e06af27004cc5a1fac00a45e7369297f0b00c4c1da353b5212f108801e14033e"
+      },
+      "9": {
+        "source_ref": "Psalms 119:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 9,
+            "source_ref": "Psalms 119:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "43f3a199fccdab248ba5275d0560fbb1483cbdc66e79144e139ea128227c75f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43f3a199fccdab248ba5275d0560fbb1483cbdc66e79144e139ea128227c75f0"
+      },
+      "10": {
+        "source_ref": "Psalms 119:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 10,
+            "source_ref": "Psalms 119:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "33e7083c9d5adce50dce551603d457364745a0d18a54824d2e34802c637bc60f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "33e7083c9d5adce50dce551603d457364745a0d18a54824d2e34802c637bc60f"
+      },
+      "11": {
+        "source_ref": "Psalms 119:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 11,
+            "source_ref": "Psalms 119:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "44a43e0347ed0f27f7725346127b7d8d7d44c2346de394fbb88ab770f1dff65c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44a43e0347ed0f27f7725346127b7d8d7d44c2346de394fbb88ab770f1dff65c"
+      },
+      "12": {
+        "source_ref": "Psalms 119:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 12,
+            "source_ref": "Psalms 119:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "537076bce69ccc7e13efd149974ee02e4f7e2d5c028f7d6322173014ee5c9e67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "537076bce69ccc7e13efd149974ee02e4f7e2d5c028f7d6322173014ee5c9e67"
+      },
+      "13": {
+        "source_ref": "Psalms 119:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 13,
+            "source_ref": "Psalms 119:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ffd379612f3f4c85b6c62c7a5cba6f5a21dd2f29702003b6d0316ef38113459"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ffd379612f3f4c85b6c62c7a5cba6f5a21dd2f29702003b6d0316ef38113459"
+      },
+      "14": {
+        "source_ref": "Psalms 119:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 14,
+            "source_ref": "Psalms 119:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e2b234de2928039d54a1b1e2a75df20dc99af26ecf071c5650a32279d6a66979"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2b234de2928039d54a1b1e2a75df20dc99af26ecf071c5650a32279d6a66979"
+      },
+      "15": {
+        "source_ref": "Psalms 119:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 15,
+            "source_ref": "Psalms 119:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb659cd39803241b7d860711c45e01d0d026ea151d776168dcf6242fb4c9d6a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb659cd39803241b7d860711c45e01d0d026ea151d776168dcf6242fb4c9d6a9"
+      },
+      "16": {
+        "source_ref": "Psalms 119:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 16,
+            "source_ref": "Psalms 119:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "54eb2df1c34443d5e7f4d7b5726cef8f7572102a4df9f0c6de20a568d261ebdc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54eb2df1c34443d5e7f4d7b5726cef8f7572102a4df9f0c6de20a568d261ebdc"
+      },
+      "17": {
+        "source_ref": "Psalms 119:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 17,
+            "source_ref": "Psalms 119:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "231f2bde70ca514f469f1e9d330ffe80a129034a04cd833d01df973d12ea4db7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "231f2bde70ca514f469f1e9d330ffe80a129034a04cd833d01df973d12ea4db7"
+      },
+      "18": {
+        "source_ref": "Psalms 119:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 18,
+            "source_ref": "Psalms 119:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "39fe1c8a21100c8421c354a963ac0f5d61bc1bb3bf7d418baf4c2ed33761f1e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39fe1c8a21100c8421c354a963ac0f5d61bc1bb3bf7d418baf4c2ed33761f1e8"
+      },
+      "19": {
+        "source_ref": "Psalms 119:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 19,
+            "source_ref": "Psalms 119:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b6fdbc2c547760300e74e2bb6f61d52625531447e372cadc9f971d3cc8fcf57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b6fdbc2c547760300e74e2bb6f61d52625531447e372cadc9f971d3cc8fcf57"
+      },
+      "20": {
+        "source_ref": "Psalms 119:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 20,
+            "source_ref": "Psalms 119:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "94dd325228982492bb623354ec7fb3c9c0ef57befa58184850b65dad8e005893"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94dd325228982492bb623354ec7fb3c9c0ef57befa58184850b65dad8e005893"
+      },
+      "21": {
+        "source_ref": "Psalms 119:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 21,
+            "source_ref": "Psalms 119:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77c0c033f260d41db2b2c05b6c1693129738baf23e4ccbca75bff0e6dac46df2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77c0c033f260d41db2b2c05b6c1693129738baf23e4ccbca75bff0e6dac46df2"
+      },
+      "22": {
+        "source_ref": "Psalms 119:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 22,
+            "source_ref": "Psalms 119:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f501f1e1fd7619a6c681c17e239aa1cf3037c8420b0bf78101d2fb0f012fd56d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f501f1e1fd7619a6c681c17e239aa1cf3037c8420b0bf78101d2fb0f012fd56d"
+      },
+      "23": {
+        "source_ref": "Psalms 119:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 23,
+            "source_ref": "Psalms 119:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc17f0420d9550056bd6d591273181b32fb24c06d31f1a2f390eac13aad67fe3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc17f0420d9550056bd6d591273181b32fb24c06d31f1a2f390eac13aad67fe3"
+      },
+      "24": {
+        "source_ref": "Psalms 119:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 24,
+            "source_ref": "Psalms 119:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e514563c02eba6ceaa9a44d24e8a5c78b44dce95271bf3248aa24cb1a16a74b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e514563c02eba6ceaa9a44d24e8a5c78b44dce95271bf3248aa24cb1a16a74b7"
+      },
+      "25": {
+        "source_ref": "Psalms 119:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 25,
+            "source_ref": "Psalms 119:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d05afa24af7d9107bf9ba32d7dad9e79a9979ae5cfe42c884d26fea5696f748"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d05afa24af7d9107bf9ba32d7dad9e79a9979ae5cfe42c884d26fea5696f748"
+      },
+      "26": {
+        "source_ref": "Psalms 119:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 26,
+            "source_ref": "Psalms 119:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3228922511c569e1ecbdcd1fd771126a8c5fa10761b9048b0c5e1a9e7dc0df22"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3228922511c569e1ecbdcd1fd771126a8c5fa10761b9048b0c5e1a9e7dc0df22"
+      },
+      "27": {
+        "source_ref": "Psalms 119:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 27,
+            "source_ref": "Psalms 119:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5a937c2aee84e9cda44006f27ccc8c59c31f439b8a1a599b511d695f24934d39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a937c2aee84e9cda44006f27ccc8c59c31f439b8a1a599b511d695f24934d39"
+      },
+      "28": {
+        "source_ref": "Psalms 119:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 28,
+            "source_ref": "Psalms 119:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a92126e81266d72925f279dd3c638ea20959f74981cbaf41f30527c0571387c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a92126e81266d72925f279dd3c638ea20959f74981cbaf41f30527c0571387c5"
+      },
+      "29": {
+        "source_ref": "Psalms 119:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 29,
+            "source_ref": "Psalms 119:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c223fb41c909f1fd355410113b2ea24df4767ed5683cfa6aa11585e7c9623b6e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c223fb41c909f1fd355410113b2ea24df4767ed5683cfa6aa11585e7c9623b6e"
+      },
+      "30": {
+        "source_ref": "Psalms 119:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 30,
+            "source_ref": "Psalms 119:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5f9a5519f5cbe4b566bf1733f1484ebb017ee08083ce63dc075b6fb7258d206b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f9a5519f5cbe4b566bf1733f1484ebb017ee08083ce63dc075b6fb7258d206b"
+      },
+      "31": {
+        "source_ref": "Psalms 119:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 31,
+            "source_ref": "Psalms 119:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "115c0e54cdc580879c2f694f7cfa7d9754b9d25a8455ab8ba99e24722bc0418a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "115c0e54cdc580879c2f694f7cfa7d9754b9d25a8455ab8ba99e24722bc0418a"
+      },
+      "32": {
+        "source_ref": "Psalms 119:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 32,
+            "source_ref": "Psalms 119:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "25de16ca460d87c3aff51139ff41225376d6d36e3ae879e31a79e99aaad25a34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25de16ca460d87c3aff51139ff41225376d6d36e3ae879e31a79e99aaad25a34"
+      },
+      "33": {
+        "source_ref": "Psalms 119:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 33,
+            "source_ref": "Psalms 119:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd8d5de7ac02ad06fccd13f065597bdd5391554808519c721e5f09cd560eb857"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd8d5de7ac02ad06fccd13f065597bdd5391554808519c721e5f09cd560eb857"
+      },
+      "34": {
+        "source_ref": "Psalms 119:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 34,
+            "source_ref": "Psalms 119:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0431cd210374ec7821e06c3dad1bd19e851c41b939b481b83d6af52be48ca0e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0431cd210374ec7821e06c3dad1bd19e851c41b939b481b83d6af52be48ca0e4"
+      },
+      "35": {
+        "source_ref": "Psalms 119:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 35,
+            "source_ref": "Psalms 119:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ee3d7ea818e1cdcec1c3d9aae1414cddc830a92dfc24217396ecb41f40dc0354"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee3d7ea818e1cdcec1c3d9aae1414cddc830a92dfc24217396ecb41f40dc0354"
+      },
+      "36": {
+        "source_ref": "Psalms 119:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 36,
+            "source_ref": "Psalms 119:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "384a6b8c546dc942119c1005093d30756da455974117886251cc101985276f53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "384a6b8c546dc942119c1005093d30756da455974117886251cc101985276f53"
+      },
+      "37": {
+        "source_ref": "Psalms 119:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 37,
+            "source_ref": "Psalms 119:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bb06dd33182fa998b653391ebf76f7044dda2cbe1f27ee2aff0d314e7cac1c6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb06dd33182fa998b653391ebf76f7044dda2cbe1f27ee2aff0d314e7cac1c6c"
+      },
+      "38": {
+        "source_ref": "Psalms 119:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 38,
+            "source_ref": "Psalms 119:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b89140f27c70a7503ab9aaa181359ff28097491d16e9f6f832364338ef8142db"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b89140f27c70a7503ab9aaa181359ff28097491d16e9f6f832364338ef8142db"
+      },
+      "39": {
+        "source_ref": "Psalms 119:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 39,
+            "source_ref": "Psalms 119:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2907992cbe4beec4fd78fbb490edeebefd16236bf04c2bea6ed29d4198115076"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2907992cbe4beec4fd78fbb490edeebefd16236bf04c2bea6ed29d4198115076"
+      },
+      "40": {
+        "source_ref": "Psalms 119:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 40,
+            "source_ref": "Psalms 119:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56838c5fde5760c766bbcafb5db42f622bd4732f8b96db73240c88cf5d528ee7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56838c5fde5760c766bbcafb5db42f622bd4732f8b96db73240c88cf5d528ee7"
+      },
+      "41": {
+        "source_ref": "Psalms 119:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 41,
+            "source_ref": "Psalms 119:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8585695f07f8ad925ea949eaf28b45fdb4f55eca864c1074dd9759a2c8d4d1d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8585695f07f8ad925ea949eaf28b45fdb4f55eca864c1074dd9759a2c8d4d1d7"
+      },
+      "42": {
+        "source_ref": "Psalms 119:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 42,
+            "source_ref": "Psalms 119:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c9e53e5820645ebeea672cfbe4da869506881aa2d7b3fa7596916bdd64af3ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c9e53e5820645ebeea672cfbe4da869506881aa2d7b3fa7596916bdd64af3ce"
+      },
+      "43": {
+        "source_ref": "Psalms 119:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 43,
+            "source_ref": "Psalms 119:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8325dd48e438d6e60103b4e2311e5b5e4ed2c29a104775df2356d4a4d0adc1dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8325dd48e438d6e60103b4e2311e5b5e4ed2c29a104775df2356d4a4d0adc1dc"
+      },
+      "44": {
+        "source_ref": "Psalms 119:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 44,
+            "source_ref": "Psalms 119:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d6b59ce05ea55711779d044eccaff50e8697927ebc159a75a970d4a4cb251033"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6b59ce05ea55711779d044eccaff50e8697927ebc159a75a970d4a4cb251033"
+      },
+      "45": {
+        "source_ref": "Psalms 119:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 45,
+            "source_ref": "Psalms 119:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "53bfb3b0426aea4bc6680fdf0a5ed99a127c9f75b65b9a45c529ce949a1e3f76"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53bfb3b0426aea4bc6680fdf0a5ed99a127c9f75b65b9a45c529ce949a1e3f76"
+      },
+      "46": {
+        "source_ref": "Psalms 119:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 46,
+            "source_ref": "Psalms 119:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a9316086ab94b0087b1adda72716b86ed2c7e2f7208255ae7bee661e70ebcdda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9316086ab94b0087b1adda72716b86ed2c7e2f7208255ae7bee661e70ebcdda"
+      },
+      "47": {
+        "source_ref": "Psalms 119:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 47,
+            "source_ref": "Psalms 119:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ee27db448c25a262e7fb93a1a36392be05f9ecb3fefcc5b5f08f9a14598a4a49"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee27db448c25a262e7fb93a1a36392be05f9ecb3fefcc5b5f08f9a14598a4a49"
+      },
+      "48": {
+        "source_ref": "Psalms 119:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 48,
+            "source_ref": "Psalms 119:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cab883c6b98cd4ea68d7476ae694a58565b1c4b4d815e948df0c90b449886298"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cab883c6b98cd4ea68d7476ae694a58565b1c4b4d815e948df0c90b449886298"
+      },
+      "49": {
+        "source_ref": "Psalms 119:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 49,
+            "source_ref": "Psalms 119:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c883f002375ca9f0a322bc389e845a72c66ec27aff468a65e87c638000c73e6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c883f002375ca9f0a322bc389e845a72c66ec27aff468a65e87c638000c73e6a"
+      },
+      "50": {
+        "source_ref": "Psalms 119:50 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 50,
+            "source_ref": "Psalms 119:50 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "198a1294464d9e61998892a3e81289b7a8bda65679f54d5636baf74aecb0d5a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "198a1294464d9e61998892a3e81289b7a8bda65679f54d5636baf74aecb0d5a1"
+      },
+      "51": {
+        "source_ref": "Psalms 119:51 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 51,
+            "source_ref": "Psalms 119:51 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ee077b07eb7c14432a8c748e9490d6f19ccec5f267263f9a7764e0596b38af20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee077b07eb7c14432a8c748e9490d6f19ccec5f267263f9a7764e0596b38af20"
+      },
+      "52": {
+        "source_ref": "Psalms 119:52 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 52,
+            "source_ref": "Psalms 119:52 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "28b99d0314be4e487f4de94c6ebdb0458d4b9f72dbea148784fcba5243ab5da2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "28b99d0314be4e487f4de94c6ebdb0458d4b9f72dbea148784fcba5243ab5da2"
+      },
+      "53": {
+        "source_ref": "Psalms 119:53 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 53,
+            "source_ref": "Psalms 119:53 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2a999af5db3d400996053a0448e87dffaabb6784378595492da1c3c222002587"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a999af5db3d400996053a0448e87dffaabb6784378595492da1c3c222002587"
+      },
+      "54": {
+        "source_ref": "Psalms 119:54 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 54,
+            "source_ref": "Psalms 119:54 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9418d96b06f19e8ec633c89c9d80c16c2a1cc307303a6d5681a1323e65d5200"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9418d96b06f19e8ec633c89c9d80c16c2a1cc307303a6d5681a1323e65d5200"
+      },
+      "55": {
+        "source_ref": "Psalms 119:55 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 55,
+            "source_ref": "Psalms 119:55 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7189a4aaaedb8e19ecdf04b852507c21a7279d5fbe4700adf10688f81781a4c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7189a4aaaedb8e19ecdf04b852507c21a7279d5fbe4700adf10688f81781a4c0"
+      },
+      "56": {
+        "source_ref": "Psalms 119:56 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 56,
+            "source_ref": "Psalms 119:56 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "852b229eecd6bc463183d92b275f4d3b3f25897e57aa7955e419c688ec53542a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "852b229eecd6bc463183d92b275f4d3b3f25897e57aa7955e419c688ec53542a"
+      },
+      "57": {
+        "source_ref": "Psalms 119:57 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 57,
+            "source_ref": "Psalms 119:57 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f284ce98c75ff7abb40ecf5e2b9c637e5573a37339ff577e35d1e27e6486641"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f284ce98c75ff7abb40ecf5e2b9c637e5573a37339ff577e35d1e27e6486641"
+      },
+      "58": {
+        "source_ref": "Psalms 119:58 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 58,
+            "source_ref": "Psalms 119:58 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f85062463eb1090b720474164d45fd1574262e5e9523284c72e6e324f28cbd70"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f85062463eb1090b720474164d45fd1574262e5e9523284c72e6e324f28cbd70"
+      },
+      "59": {
+        "source_ref": "Psalms 119:59 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 59,
+            "source_ref": "Psalms 119:59 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "38ce0d177abb5d84a199dcde03fdff51bbaf5928c707ce796ca577c324adae34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38ce0d177abb5d84a199dcde03fdff51bbaf5928c707ce796ca577c324adae34"
+      },
+      "60": {
+        "source_ref": "Psalms 119:60 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 60,
+            "source_ref": "Psalms 119:60 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "16b969970565711f9adfadf9c76b5342795167a51444648774af9d919643c319"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16b969970565711f9adfadf9c76b5342795167a51444648774af9d919643c319"
+      },
+      "61": {
+        "source_ref": "Psalms 119:61 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 61,
+            "source_ref": "Psalms 119:61 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a897c49237fa218d83acd773a62d1c300bd036e7e785a1914226ad83c8de0c12"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a897c49237fa218d83acd773a62d1c300bd036e7e785a1914226ad83c8de0c12"
+      },
+      "62": {
+        "source_ref": "Psalms 119:62 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 62,
+            "source_ref": "Psalms 119:62 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ddc3b343a3f6c1e886257751b29cd8490a358a1b74ac2dd6cea0b457f827809a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ddc3b343a3f6c1e886257751b29cd8490a358a1b74ac2dd6cea0b457f827809a"
+      },
+      "63": {
+        "source_ref": "Psalms 119:63 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 63,
+            "source_ref": "Psalms 119:63 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a486b64f0088e8a1d8b97558d26f0b4fb73d8dcd2800059c041b26d920229ac1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a486b64f0088e8a1d8b97558d26f0b4fb73d8dcd2800059c041b26d920229ac1"
+      },
+      "64": {
+        "source_ref": "Psalms 119:64 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 64,
+            "source_ref": "Psalms 119:64 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1e658e121563324032362e62fb9f8a068670966db4f67d665e6e1bc144bce3bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e658e121563324032362e62fb9f8a068670966db4f67d665e6e1bc144bce3bb"
+      },
+      "65": {
+        "source_ref": "Psalms 119:65 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 65,
+            "source_ref": "Psalms 119:65 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5da056573da2056dffd423559bdd181ea512f4ee685be89b8680dd11fe74f92d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5da056573da2056dffd423559bdd181ea512f4ee685be89b8680dd11fe74f92d"
+      },
+      "66": {
+        "source_ref": "Psalms 119:66 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 66,
+            "source_ref": "Psalms 119:66 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7998778e0b567aafc4b3e2f62feeb521f50208b84d14d5e236f3dcb250806353"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7998778e0b567aafc4b3e2f62feeb521f50208b84d14d5e236f3dcb250806353"
+      },
+      "67": {
+        "source_ref": "Psalms 119:67 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 67,
+            "source_ref": "Psalms 119:67 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "42a4244703a4f3449548c91c7212a933f42d2d628fc64b562abc91273415cf01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42a4244703a4f3449548c91c7212a933f42d2d628fc64b562abc91273415cf01"
+      },
+      "68": {
+        "source_ref": "Psalms 119:68 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 68,
+            "source_ref": "Psalms 119:68 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd0e826619ff27ade8621596eaa548a08824ca7d410c9f2192ef5ff05eaf2220"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd0e826619ff27ade8621596eaa548a08824ca7d410c9f2192ef5ff05eaf2220"
+      },
+      "69": {
+        "source_ref": "Psalms 119:69 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 69,
+            "source_ref": "Psalms 119:69 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3047babad6c3008086967f860714d98ba88ebff03ab0cf231734e6bd3313f12"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3047babad6c3008086967f860714d98ba88ebff03ab0cf231734e6bd3313f12"
+      },
+      "70": {
+        "source_ref": "Psalms 119:70 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 70,
+            "source_ref": "Psalms 119:70 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b2375384c55da58c129944fcd1cc98462b3d85ed62b236b4883c452ae8ff119"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b2375384c55da58c129944fcd1cc98462b3d85ed62b236b4883c452ae8ff119"
+      },
+      "71": {
+        "source_ref": "Psalms 119:71 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 71,
+            "source_ref": "Psalms 119:71 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c2fa13728a5c65b80a6139dd04240762fcc88bd985257c09509dc08ad788aeb5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2fa13728a5c65b80a6139dd04240762fcc88bd985257c09509dc08ad788aeb5"
+      },
+      "72": {
+        "source_ref": "Psalms 119:72 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 72,
+            "source_ref": "Psalms 119:72 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3fd14f27d25978f714faf9fe243ed0480b1b2a90e3e6be9764009fcada98ca33"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3fd14f27d25978f714faf9fe243ed0480b1b2a90e3e6be9764009fcada98ca33"
+      },
+      "73": {
+        "source_ref": "Psalms 119:73 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 73,
+            "source_ref": "Psalms 119:73 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79802f6b53e7ffc56d4f6a83f4aadaf5b8f46e510aa1a68aae1fd253e08e412c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79802f6b53e7ffc56d4f6a83f4aadaf5b8f46e510aa1a68aae1fd253e08e412c"
+      },
+      "74": {
+        "source_ref": "Psalms 119:74 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 74,
+            "source_ref": "Psalms 119:74 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a9f555f3528a2bb567f8e7a6e07802b8e74418e966c2c8e6b4ac459ef5048c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a9f555f3528a2bb567f8e7a6e07802b8e74418e966c2c8e6b4ac459ef5048c9"
+      },
+      "75": {
+        "source_ref": "Psalms 119:75 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 75,
+            "source_ref": "Psalms 119:75 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84a573a5399fd525e097d0143be85d21a30dd52fc4acf3206f01d35dc672a74f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84a573a5399fd525e097d0143be85d21a30dd52fc4acf3206f01d35dc672a74f"
+      },
+      "76": {
+        "source_ref": "Psalms 119:76 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 76,
+            "source_ref": "Psalms 119:76 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2d7a1c22116b2c868467cc6db6e92a1693641425fec4fe66ef50ed967e8b322a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d7a1c22116b2c868467cc6db6e92a1693641425fec4fe66ef50ed967e8b322a"
+      },
+      "77": {
+        "source_ref": "Psalms 119:77 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 77,
+            "source_ref": "Psalms 119:77 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35884856f3ef7ea70cec1c9e8cf1069a4595abe4cc31853a8c4876bedf673e8c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35884856f3ef7ea70cec1c9e8cf1069a4595abe4cc31853a8c4876bedf673e8c"
+      },
+      "78": {
+        "source_ref": "Psalms 119:78 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 78,
+            "source_ref": "Psalms 119:78 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5414620e32e094e7c5c5f79fbbffbb021216d78a0b319975d0900ef6d5956205"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5414620e32e094e7c5c5f79fbbffbb021216d78a0b319975d0900ef6d5956205"
+      },
+      "79": {
+        "source_ref": "Psalms 119:79 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 79,
+            "source_ref": "Psalms 119:79 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "db58935d53ecb0a3134fe88859cf7bdaf990a8764de4d3d74a90b200226df2cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db58935d53ecb0a3134fe88859cf7bdaf990a8764de4d3d74a90b200226df2cd"
+      },
+      "80": {
+        "source_ref": "Psalms 119:80 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 80,
+            "source_ref": "Psalms 119:80 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a359afc2230dfb0117b01be9eeb82687387b42fced458077665bf598e328a64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a359afc2230dfb0117b01be9eeb82687387b42fced458077665bf598e328a64"
+      },
+      "81": {
+        "source_ref": "Psalms 119:81 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 81,
+            "source_ref": "Psalms 119:81 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd3724dc1cbe30b663735b21cfd7000d641eeb1926acad9c39f633a0170a0720"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd3724dc1cbe30b663735b21cfd7000d641eeb1926acad9c39f633a0170a0720"
+      },
+      "82": {
+        "source_ref": "Psalms 119:82 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 82,
+            "source_ref": "Psalms 119:82 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c61356ad5079ba5b7e97c3eeec0592113c800ee6c98b1d9f52a899e5775f67ee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c61356ad5079ba5b7e97c3eeec0592113c800ee6c98b1d9f52a899e5775f67ee"
+      },
+      "83": {
+        "source_ref": "Psalms 119:83 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 83,
+            "source_ref": "Psalms 119:83 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "482aab32220cd4dfc86c841c9a81984db47cd5be9e1c914ba7b9106c2ff7ec30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "482aab32220cd4dfc86c841c9a81984db47cd5be9e1c914ba7b9106c2ff7ec30"
+      },
+      "84": {
+        "source_ref": "Psalms 119:84 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 84,
+            "source_ref": "Psalms 119:84 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e616502579c47fac77da78145722132e833d9f072c16a81189854deae2e631c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e616502579c47fac77da78145722132e833d9f072c16a81189854deae2e631c4"
+      },
+      "85": {
+        "source_ref": "Psalms 119:85 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 85,
+            "source_ref": "Psalms 119:85 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3c1967564be9fdb920b7feda5638242c9aac9d4af15d5aee1678c985d7a7f950"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c1967564be9fdb920b7feda5638242c9aac9d4af15d5aee1678c985d7a7f950"
+      },
+      "86": {
+        "source_ref": "Psalms 119:86 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 86,
+            "source_ref": "Psalms 119:86 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0d2ddd5cc1a4b5f2171c839ab7bfaa5d872549a630efe311c52f2a1fec003b0a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d2ddd5cc1a4b5f2171c839ab7bfaa5d872549a630efe311c52f2a1fec003b0a"
+      },
+      "87": {
+        "source_ref": "Psalms 119:87 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 87,
+            "source_ref": "Psalms 119:87 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c2aa15eed36693aa9ebfeacf5248f4edf00f2aa65094015ca4ff413e63e2b5e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c2aa15eed36693aa9ebfeacf5248f4edf00f2aa65094015ca4ff413e63e2b5e"
+      },
+      "88": {
+        "source_ref": "Psalms 119:88 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 88,
+            "source_ref": "Psalms 119:88 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9289fc45262d45c4eaaa1866d704e0c2f5bc3ba4932663e982da01216e711161"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9289fc45262d45c4eaaa1866d704e0c2f5bc3ba4932663e982da01216e711161"
+      },
+      "89": {
+        "source_ref": "Psalms 119:89 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 89,
+            "source_ref": "Psalms 119:89 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a0195516a989e1ec16b070d3b132be9870be6b9e8a72297961b8e856aa973c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a0195516a989e1ec16b070d3b132be9870be6b9e8a72297961b8e856aa973c4"
+      },
+      "90": {
+        "source_ref": "Psalms 119:90 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 90,
+            "source_ref": "Psalms 119:90 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca19fd529caf8bc607cef7357d952918a75352ba28abaccec07646ef170bc715"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca19fd529caf8bc607cef7357d952918a75352ba28abaccec07646ef170bc715"
+      },
+      "91": {
+        "source_ref": "Psalms 119:91 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 91,
+            "source_ref": "Psalms 119:91 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f8d74d3d182285db4e9cc435516dd6e9f797cd553adadbbccb635d05ee537fe8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8d74d3d182285db4e9cc435516dd6e9f797cd553adadbbccb635d05ee537fe8"
+      },
+      "92": {
+        "source_ref": "Psalms 119:92 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 92,
+            "source_ref": "Psalms 119:92 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4e110752c563a0891fe2d3b4b12381e7b12c91b2ae1ebc85940e10dd6217879b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e110752c563a0891fe2d3b4b12381e7b12c91b2ae1ebc85940e10dd6217879b"
+      },
+      "93": {
+        "source_ref": "Psalms 119:93 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 93,
+            "source_ref": "Psalms 119:93 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e3df806b3233a7631be52e1edeca2ddae39880cf0ef48b61af827bb3fdfd1acd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3df806b3233a7631be52e1edeca2ddae39880cf0ef48b61af827bb3fdfd1acd"
+      },
+      "94": {
+        "source_ref": "Psalms 119:94 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 94,
+            "source_ref": "Psalms 119:94 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "773da05018275f4b15feade91f400858e2bd8490161efe3c188c866821e25111"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "773da05018275f4b15feade91f400858e2bd8490161efe3c188c866821e25111"
+      },
+      "95": {
+        "source_ref": "Psalms 119:95 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 95,
+            "source_ref": "Psalms 119:95 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9474f37c68a0bbfd71941f969694032aae3b5dc8191dffc981c81d9a32f3c50f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9474f37c68a0bbfd71941f969694032aae3b5dc8191dffc981c81d9a32f3c50f"
+      },
+      "96": {
+        "source_ref": "Psalms 119:96 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 96,
+            "source_ref": "Psalms 119:96 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "17ad77f36a93f4391d04e803118841f7809c19d19f8473a66f5c5561fbb71e0a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17ad77f36a93f4391d04e803118841f7809c19d19f8473a66f5c5561fbb71e0a"
+      },
+      "97": {
+        "source_ref": "Psalms 119:97 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 97,
+            "source_ref": "Psalms 119:97 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bedf4e4cf28aab804a67ed7d5b6a98f862e5bf37c0aed324dbadf5a5d9b5b52d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bedf4e4cf28aab804a67ed7d5b6a98f862e5bf37c0aed324dbadf5a5d9b5b52d"
+      },
+      "98": {
+        "source_ref": "Psalms 119:98 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 98,
+            "source_ref": "Psalms 119:98 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3c6d6e7aec48f551f41df216001a8a5d548461c3ba58b70e12626ff5bd1fc19f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c6d6e7aec48f551f41df216001a8a5d548461c3ba58b70e12626ff5bd1fc19f"
+      },
+      "99": {
+        "source_ref": "Psalms 119:99 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 99,
+            "source_ref": "Psalms 119:99 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72e9cfd49febbba38b74ac1d5d1ce7004bd44511abf2603e123519c2b64d0711"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72e9cfd49febbba38b74ac1d5d1ce7004bd44511abf2603e123519c2b64d0711"
+      },
+      "100": {
+        "source_ref": "Psalms 119:100 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 100,
+            "source_ref": "Psalms 119:100 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c629d572b897e6fa537e93006e20603c161ae5dbfcd775e98ecf114c96dbe86"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c629d572b897e6fa537e93006e20603c161ae5dbfcd775e98ecf114c96dbe86"
+      },
+      "101": {
+        "source_ref": "Psalms 119:101 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 101,
+            "source_ref": "Psalms 119:101 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "44fd038dfe36129418bde1a9c0ef6a626a56a4208225e4f92e7b19bf8caacddf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44fd038dfe36129418bde1a9c0ef6a626a56a4208225e4f92e7b19bf8caacddf"
+      },
+      "102": {
+        "source_ref": "Psalms 119:102 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 102,
+            "source_ref": "Psalms 119:102 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32b6831af2e66ac5d61223b2ffea7a804cd859ea1824e6f387574827f3072bc1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32b6831af2e66ac5d61223b2ffea7a804cd859ea1824e6f387574827f3072bc1"
+      },
+      "103": {
+        "source_ref": "Psalms 119:103 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 103,
+            "source_ref": "Psalms 119:103 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0ebf69f695fee6231845245ff85c4baf4e990fa540b1377c1ad009abf9611095"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ebf69f695fee6231845245ff85c4baf4e990fa540b1377c1ad009abf9611095"
+      },
+      "104": {
+        "source_ref": "Psalms 119:104 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 104,
+            "source_ref": "Psalms 119:104 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01becf96cf6110f001ed126569d15393ddd0528d0c1a842a51a811a1349d6d61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01becf96cf6110f001ed126569d15393ddd0528d0c1a842a51a811a1349d6d61"
+      },
+      "105": {
+        "source_ref": "Psalms 119:105 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 105,
+            "source_ref": "Psalms 119:105 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a7fdcd01284a4818c32e0cfca3058fd4d428e8540f589d173f1ced01d1600144"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a7fdcd01284a4818c32e0cfca3058fd4d428e8540f589d173f1ced01d1600144"
+      },
+      "106": {
+        "source_ref": "Psalms 119:106 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 106,
+            "source_ref": "Psalms 119:106 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7c90769f6641bbde004437014363c76209344d3b6137a9c037fed5b44e0187c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c90769f6641bbde004437014363c76209344d3b6137a9c037fed5b44e0187c2"
+      },
+      "107": {
+        "source_ref": "Psalms 119:107 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 107,
+            "source_ref": "Psalms 119:107 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "756bb37075070b053223ef372a5af253c46bbd5f391d1634757ab03282523da1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "756bb37075070b053223ef372a5af253c46bbd5f391d1634757ab03282523da1"
+      },
+      "108": {
+        "source_ref": "Psalms 119:108 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 108,
+            "source_ref": "Psalms 119:108 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "965480c4c4a54c8801941976298e18f630c969bf03d9ff040ba6155bbd32d02d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "965480c4c4a54c8801941976298e18f630c969bf03d9ff040ba6155bbd32d02d"
+      },
+      "109": {
+        "source_ref": "Psalms 119:109 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 109,
+            "source_ref": "Psalms 119:109 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "64550c09f467a0bfb99e41d56bcb6897582d8e5efb27ef3886e8f4e4b546d514"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64550c09f467a0bfb99e41d56bcb6897582d8e5efb27ef3886e8f4e4b546d514"
+      },
+      "110": {
+        "source_ref": "Psalms 119:110 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 110,
+            "source_ref": "Psalms 119:110 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "caad338c3f41ea95da7fdf44df7df4b981d731c72a61d2233c03ecd7e9e82e2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "caad338c3f41ea95da7fdf44df7df4b981d731c72a61d2233c03ecd7e9e82e2c"
+      },
+      "111": {
+        "source_ref": "Psalms 119:111 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 111,
+            "source_ref": "Psalms 119:111 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "917b9893d764648a121f5bcd281b3254d77e69e45fb508d95eb5937c90097def"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "917b9893d764648a121f5bcd281b3254d77e69e45fb508d95eb5937c90097def"
+      },
+      "112": {
+        "source_ref": "Psalms 119:112 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 112,
+            "source_ref": "Psalms 119:112 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b46557c430ee0e950888853605255769bccf2474cb42eab681394d2228f1a44"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b46557c430ee0e950888853605255769bccf2474cb42eab681394d2228f1a44"
+      },
+      "113": {
+        "source_ref": "Psalms 119:113 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 113,
+            "source_ref": "Psalms 119:113 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c4cb28c6ce8ffb6234e9e549563a97f25371a5aecd35f5e8cea7ef243f4648f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c4cb28c6ce8ffb6234e9e549563a97f25371a5aecd35f5e8cea7ef243f4648f2"
+      },
+      "114": {
+        "source_ref": "Psalms 119:114 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 114,
+            "source_ref": "Psalms 119:114 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9e52f3f5b15395208310cbf39d9846a8b72d3f1471371a6b7adde1b10010e753"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e52f3f5b15395208310cbf39d9846a8b72d3f1471371a6b7adde1b10010e753"
+      },
+      "115": {
+        "source_ref": "Psalms 119:115 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 115,
+            "source_ref": "Psalms 119:115 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2d601cec4847e0a226dbc27c8fde9374b1666851c4bb18012170be774f5c2a19"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d601cec4847e0a226dbc27c8fde9374b1666851c4bb18012170be774f5c2a19"
+      },
+      "116": {
+        "source_ref": "Psalms 119:116 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 116,
+            "source_ref": "Psalms 119:116 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "70bf2d6a5bffe378f958260a3e7eb99b6f6eab492b35259f0a7f46f24cec3220"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70bf2d6a5bffe378f958260a3e7eb99b6f6eab492b35259f0a7f46f24cec3220"
+      },
+      "117": {
+        "source_ref": "Psalms 119:117 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 117,
+            "source_ref": "Psalms 119:117 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a46422bb90d062e996f4ea188fde792a3f8b2d81d00f97e2ba8b04d922d9343"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a46422bb90d062e996f4ea188fde792a3f8b2d81d00f97e2ba8b04d922d9343"
+      },
+      "118": {
+        "source_ref": "Psalms 119:118 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 118,
+            "source_ref": "Psalms 119:118 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f5a609dbf14fae0e5d2af76c88141cc672d9541f8d77448ec2ad541a63ebc92c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5a609dbf14fae0e5d2af76c88141cc672d9541f8d77448ec2ad541a63ebc92c"
+      },
+      "119": {
+        "source_ref": "Psalms 119:119 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 119,
+            "source_ref": "Psalms 119:119 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6e456e700e59cb21913dc1dd2c42e4020efe6c4a1d1f4039afd9a5bd374b6327"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e456e700e59cb21913dc1dd2c42e4020efe6c4a1d1f4039afd9a5bd374b6327"
+      },
+      "120": {
+        "source_ref": "Psalms 119:120 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 120,
+            "source_ref": "Psalms 119:120 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af6498a1427036492df681e9c6f9337da97f78e32c9ecc855f3211b764fd2b71"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af6498a1427036492df681e9c6f9337da97f78e32c9ecc855f3211b764fd2b71"
+      },
+      "121": {
+        "source_ref": "Psalms 119:121 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 121,
+            "source_ref": "Psalms 119:121 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8818b07cb09e42e7f4e1a2118fbf39ee83f4a39bda8d6c59401c56ad5ab6c8d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8818b07cb09e42e7f4e1a2118fbf39ee83f4a39bda8d6c59401c56ad5ab6c8d7"
+      },
+      "122": {
+        "source_ref": "Psalms 119:122 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 122,
+            "source_ref": "Psalms 119:122 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ecea26eb0528c185a22b86d683a06a91e1b05c977c36f7583453653d5a28b78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ecea26eb0528c185a22b86d683a06a91e1b05c977c36f7583453653d5a28b78"
+      },
+      "123": {
+        "source_ref": "Psalms 119:123 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 123,
+            "source_ref": "Psalms 119:123 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d44e098708df435b67573ede9bd19389a67ef7a24c786f940ff46abb93297d8d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d44e098708df435b67573ede9bd19389a67ef7a24c786f940ff46abb93297d8d"
+      },
+      "124": {
+        "source_ref": "Psalms 119:124 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 124,
+            "source_ref": "Psalms 119:124 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "88d914febfe6f26385bdf2326b9ccde228c710095363f1fa5350042084687625"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88d914febfe6f26385bdf2326b9ccde228c710095363f1fa5350042084687625"
+      },
+      "125": {
+        "source_ref": "Psalms 119:125 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 125,
+            "source_ref": "Psalms 119:125 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "670cf1b20a3c13d7cd0bc189afc83ccbd43c5b7fc5a0c0f8bf4fc1c9af65e2f5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "670cf1b20a3c13d7cd0bc189afc83ccbd43c5b7fc5a0c0f8bf4fc1c9af65e2f5"
+      },
+      "126": {
+        "source_ref": "Psalms 119:126 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 126,
+            "source_ref": "Psalms 119:126 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "16e1ea6abd1d866aa49afecc43d00f7ec8639bddafc19bc673eb9c6370f88217"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16e1ea6abd1d866aa49afecc43d00f7ec8639bddafc19bc673eb9c6370f88217"
+      },
+      "127": {
+        "source_ref": "Psalms 119:127 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 127,
+            "source_ref": "Psalms 119:127 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d9faf8c5d0f44e2ea4600872e7135d06c8a8f6d69dfceeedeb78ec50f4d1a09"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d9faf8c5d0f44e2ea4600872e7135d06c8a8f6d69dfceeedeb78ec50f4d1a09"
+      },
+      "128": {
+        "source_ref": "Psalms 119:128 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 128,
+            "source_ref": "Psalms 119:128 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6729c7560505f446a8b66314ed7c00823ddd86a574d2be71a558e620ab63f19d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6729c7560505f446a8b66314ed7c00823ddd86a574d2be71a558e620ab63f19d"
+      },
+      "129": {
+        "source_ref": "Psalms 119:129 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 129,
+            "source_ref": "Psalms 119:129 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0fc62033b99139ef85920185d82daa89821154a9071074d5b0540f56164e833c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0fc62033b99139ef85920185d82daa89821154a9071074d5b0540f56164e833c"
+      },
+      "130": {
+        "source_ref": "Psalms 119:130 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 130,
+            "source_ref": "Psalms 119:130 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5d2cc741f091e54d598a6106cda28738516b453368c3b820eab337dc058ab84d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5d2cc741f091e54d598a6106cda28738516b453368c3b820eab337dc058ab84d"
+      },
+      "131": {
+        "source_ref": "Psalms 119:131 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 131,
+            "source_ref": "Psalms 119:131 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "252bb4bdf1a4d10817e4eb4eb6e48d27eb675de91be59c37c1cf15760febff68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "252bb4bdf1a4d10817e4eb4eb6e48d27eb675de91be59c37c1cf15760febff68"
+      },
+      "132": {
+        "source_ref": "Psalms 119:132 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 132,
+            "source_ref": "Psalms 119:132 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a9d43a597af58d19321769a1b60b19972258ffc451c70de4b62df1b5cd88c204"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9d43a597af58d19321769a1b60b19972258ffc451c70de4b62df1b5cd88c204"
+      },
+      "133": {
+        "source_ref": "Psalms 119:133 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 133,
+            "source_ref": "Psalms 119:133 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a1c35ed85491a535c46eb4f1302856a8029f1838233097ad86bd4b639d25a56a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1c35ed85491a535c46eb4f1302856a8029f1838233097ad86bd4b639d25a56a"
+      },
+      "134": {
+        "source_ref": "Psalms 119:134 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 134,
+            "source_ref": "Psalms 119:134 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71293311100f33b8538d098e5e34c351ae6acbebf32b24f1c9824d9643eded8d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71293311100f33b8538d098e5e34c351ae6acbebf32b24f1c9824d9643eded8d"
+      },
+      "135": {
+        "source_ref": "Psalms 119:135 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 135,
+            "source_ref": "Psalms 119:135 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "726f88bf97cf2603070148dccd0ab3a1680daad8b83fb161cb7d4484ab5a3161"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "726f88bf97cf2603070148dccd0ab3a1680daad8b83fb161cb7d4484ab5a3161"
+      },
+      "136": {
+        "source_ref": "Psalms 119:136 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 136,
+            "source_ref": "Psalms 119:136 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "26aa17c491625e564b4a27e3a57d8a9fbf25b81fdef4ff2374b8083db9d98a36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26aa17c491625e564b4a27e3a57d8a9fbf25b81fdef4ff2374b8083db9d98a36"
+      },
+      "137": {
+        "source_ref": "Psalms 119:137 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 137,
+            "source_ref": "Psalms 119:137 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3607650494681dd83cacc0a854f131660bfdb61ee680a8f6f4db57cd9de4695f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3607650494681dd83cacc0a854f131660bfdb61ee680a8f6f4db57cd9de4695f"
+      },
+      "138": {
+        "source_ref": "Psalms 119:138 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 138,
+            "source_ref": "Psalms 119:138 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ee2df6dcec26585d7898f329525429e756554c7825857699ce3c33a01cc964a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee2df6dcec26585d7898f329525429e756554c7825857699ce3c33a01cc964a0"
+      },
+      "139": {
+        "source_ref": "Psalms 119:139 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 139,
+            "source_ref": "Psalms 119:139 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "039e1c6d7b9a8f5953c9f76bfc288d1319a3e2c098e2edd014c782e7c540d063"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "039e1c6d7b9a8f5953c9f76bfc288d1319a3e2c098e2edd014c782e7c540d063"
+      },
+      "140": {
+        "source_ref": "Psalms 119:140 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 140,
+            "source_ref": "Psalms 119:140 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "47d975ef0156a1896a6b1ce5219d4f81b428afad028a21f35639d941e3b5b1ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "47d975ef0156a1896a6b1ce5219d4f81b428afad028a21f35639d941e3b5b1ca"
+      },
+      "141": {
+        "source_ref": "Psalms 119:141 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 141,
+            "source_ref": "Psalms 119:141 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1c0242f18af4053e76710fecc0fac5fcacf3a892a6553e5b8da3c50846311ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1c0242f18af4053e76710fecc0fac5fcacf3a892a6553e5b8da3c50846311ba"
+      },
+      "142": {
+        "source_ref": "Psalms 119:142 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 142,
+            "source_ref": "Psalms 119:142 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4545d31836e47cdf7152589eed262856cc8e7f2cb868f728afb05431a27b3a00"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4545d31836e47cdf7152589eed262856cc8e7f2cb868f728afb05431a27b3a00"
+      },
+      "143": {
+        "source_ref": "Psalms 119:143 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 143,
+            "source_ref": "Psalms 119:143 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b1db0ad59f15293774fd5e5ca2edfa49dd825236cba8ed6a9742085c30fb12a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b1db0ad59f15293774fd5e5ca2edfa49dd825236cba8ed6a9742085c30fb12a6"
+      },
+      "144": {
+        "source_ref": "Psalms 119:144 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 144,
+            "source_ref": "Psalms 119:144 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1569c8cd2eb65a2b1383b37f2f0d6631210ea70d953558300d8d15aaa9cded7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1569c8cd2eb65a2b1383b37f2f0d6631210ea70d953558300d8d15aaa9cded7b"
+      },
+      "145": {
+        "source_ref": "Psalms 119:145 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 145,
+            "source_ref": "Psalms 119:145 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1c8420eb80fd4cf21590fdc15821256f2ccca600a4ef75e1e76eb4e24f4be52c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c8420eb80fd4cf21590fdc15821256f2ccca600a4ef75e1e76eb4e24f4be52c"
+      },
+      "146": {
+        "source_ref": "Psalms 119:146 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 146,
+            "source_ref": "Psalms 119:146 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f003075ddd52a949762bf43fdd73a53705bc7c3df37b0c4485a10d268f24621"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f003075ddd52a949762bf43fdd73a53705bc7c3df37b0c4485a10d268f24621"
+      },
+      "147": {
+        "source_ref": "Psalms 119:147 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 147,
+            "source_ref": "Psalms 119:147 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d6e1403d154e941eddbdbd179d5b692dc37c9ec17d4d3e4075e944d17270c833"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6e1403d154e941eddbdbd179d5b692dc37c9ec17d4d3e4075e944d17270c833"
+      },
+      "148": {
+        "source_ref": "Psalms 119:148 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 148,
+            "source_ref": "Psalms 119:148 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bafb5ffd088d7edeef058ab600d27d487771f3b1aa5aeedbe16c0544ee644290"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bafb5ffd088d7edeef058ab600d27d487771f3b1aa5aeedbe16c0544ee644290"
+      },
+      "149": {
+        "source_ref": "Psalms 119:149 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 149,
+            "source_ref": "Psalms 119:149 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75ca10e765ba32c601c1cc22764925dd9e5afe81751e7a92242987e4a8b74ca6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75ca10e765ba32c601c1cc22764925dd9e5afe81751e7a92242987e4a8b74ca6"
+      },
+      "150": {
+        "source_ref": "Psalms 119:150 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 150,
+            "source_ref": "Psalms 119:150 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5e961f1afd552c10ab1be2a1c5d6eb69d51c12cb69841f0c376aaa9e73bb456f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e961f1afd552c10ab1be2a1c5d6eb69d51c12cb69841f0c376aaa9e73bb456f"
+      },
+      "151": {
+        "source_ref": "Psalms 119:151 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 151,
+            "source_ref": "Psalms 119:151 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2bcff57604eb17d8a5c96303a0f871faa195436bd989faecf6775c68f2f0ac2e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2bcff57604eb17d8a5c96303a0f871faa195436bd989faecf6775c68f2f0ac2e"
+      },
+      "152": {
+        "source_ref": "Psalms 119:152 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 152,
+            "source_ref": "Psalms 119:152 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "725d0e7c9d43c45374c1aef901c0016ba34a08703ea363c2b0f622da46c22806"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "725d0e7c9d43c45374c1aef901c0016ba34a08703ea363c2b0f622da46c22806"
+      },
+      "153": {
+        "source_ref": "Psalms 119:153 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 153,
+            "source_ref": "Psalms 119:153 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b41dda6ed7062e32736017eeca4a18418112e4bcd5437a0c1f7d43ad71627de9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b41dda6ed7062e32736017eeca4a18418112e4bcd5437a0c1f7d43ad71627de9"
+      },
+      "154": {
+        "source_ref": "Psalms 119:154 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 154,
+            "source_ref": "Psalms 119:154 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5cfcb63f2183984af9be2c62b998463d896a9e55b8fb8d6ce8e3fb6c1b8db877"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5cfcb63f2183984af9be2c62b998463d896a9e55b8fb8d6ce8e3fb6c1b8db877"
+      },
+      "155": {
+        "source_ref": "Psalms 119:155 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 155,
+            "source_ref": "Psalms 119:155 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8f0d74d168bd30420107588aa1f7ed44883433abd0ae1c2e501af69bcd9d9abb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f0d74d168bd30420107588aa1f7ed44883433abd0ae1c2e501af69bcd9d9abb"
+      },
+      "156": {
+        "source_ref": "Psalms 119:156 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 156,
+            "source_ref": "Psalms 119:156 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "343d67e1856acc9de4dea8b0b6e8ac4d8d1ce72a7797ba5af9ec2f7c7c46445a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "343d67e1856acc9de4dea8b0b6e8ac4d8d1ce72a7797ba5af9ec2f7c7c46445a"
+      },
+      "157": {
+        "source_ref": "Psalms 119:157 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 157,
+            "source_ref": "Psalms 119:157 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b57241fcd1d4526b0d4dc45fd19bd9a1851c1522b17ebaac45898a17debf8dad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b57241fcd1d4526b0d4dc45fd19bd9a1851c1522b17ebaac45898a17debf8dad"
+      },
+      "158": {
+        "source_ref": "Psalms 119:158 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 158,
+            "source_ref": "Psalms 119:158 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd10ab4b66a3afeb3aff17e7dcbefbb587ae1ff88e9a2bf136357e2682635e69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd10ab4b66a3afeb3aff17e7dcbefbb587ae1ff88e9a2bf136357e2682635e69"
+      },
+      "159": {
+        "source_ref": "Psalms 119:159 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 159,
+            "source_ref": "Psalms 119:159 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b1d8bb727a9b5d0ec9ab505c4ecc67acee5f2619da42652dd9a880798ff7f1b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b1d8bb727a9b5d0ec9ab505c4ecc67acee5f2619da42652dd9a880798ff7f1b4"
+      },
+      "160": {
+        "source_ref": "Psalms 119:160 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 160,
+            "source_ref": "Psalms 119:160 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "78d991c16f445378e020a9ef94f841f4cb205f67521e9e1d829987fb23656cf2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78d991c16f445378e020a9ef94f841f4cb205f67521e9e1d829987fb23656cf2"
+      },
+      "161": {
+        "source_ref": "Psalms 119:161 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 161,
+            "source_ref": "Psalms 119:161 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8449c1defdb2da68272843187238ab19dbc29339637545154ea18d91c68249e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8449c1defdb2da68272843187238ab19dbc29339637545154ea18d91c68249e"
+      },
+      "162": {
+        "source_ref": "Psalms 119:162 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 162,
+            "source_ref": "Psalms 119:162 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fba2ea38e34003459b4ce25ba09ea0d8875bc267eaaba0de175a86dc1f567783"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fba2ea38e34003459b4ce25ba09ea0d8875bc267eaaba0de175a86dc1f567783"
+      },
+      "163": {
+        "source_ref": "Psalms 119:163 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 163,
+            "source_ref": "Psalms 119:163 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f3491df2ff9ae6d0ee1f36679a51586c89e79f8b19acf803af9d4d2dbe138770"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3491df2ff9ae6d0ee1f36679a51586c89e79f8b19acf803af9d4d2dbe138770"
+      },
+      "164": {
+        "source_ref": "Psalms 119:164 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 164,
+            "source_ref": "Psalms 119:164 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e8705f038de224d9829a0608c2fc7ad6ddb6b56c30b7673e1d3e4cf5750e390f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8705f038de224d9829a0608c2fc7ad6ddb6b56c30b7673e1d3e4cf5750e390f"
+      },
+      "165": {
+        "source_ref": "Psalms 119:165 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 165,
+            "source_ref": "Psalms 119:165 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "41ef4b711d83facdfdcdb51a15598694a07e35da6ef745ba8238fcc94fe8dc00"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41ef4b711d83facdfdcdb51a15598694a07e35da6ef745ba8238fcc94fe8dc00"
+      },
+      "166": {
+        "source_ref": "Psalms 119:166 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 166,
+            "source_ref": "Psalms 119:166 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f81834cb3621cb0c41c895834dc817978b17d9390a4823dac208accead093671"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f81834cb3621cb0c41c895834dc817978b17d9390a4823dac208accead093671"
+      },
+      "167": {
+        "source_ref": "Psalms 119:167 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 167,
+            "source_ref": "Psalms 119:167 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e396de22144182ec8b8becb628ee33f84bcc9404c72d60457525ba9415d82a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e396de22144182ec8b8becb628ee33f84bcc9404c72d60457525ba9415d82a0"
+      },
+      "168": {
+        "source_ref": "Psalms 119:168 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 168,
+            "source_ref": "Psalms 119:168 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1b575db00b8363bec3470f7dbf9a20452e4e4ebc63e7a20c0ed61fe72c9d35a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1b575db00b8363bec3470f7dbf9a20452e4e4ebc63e7a20c0ed61fe72c9d35a"
+      },
+      "169": {
+        "source_ref": "Psalms 119:169 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 169,
+            "source_ref": "Psalms 119:169 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bba6b4820ed544ede2a3bd924f72ef0a8290c70d9c2b8d52c95c0fd75b6c51c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bba6b4820ed544ede2a3bd924f72ef0a8290c70d9c2b8d52c95c0fd75b6c51c7"
+      },
+      "170": {
+        "source_ref": "Psalms 119:170 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 170,
+            "source_ref": "Psalms 119:170 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c27eca0ddfb6fca637d2ad3662c0ea77eba990e3a0376e5fefc65ebbf758bd08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c27eca0ddfb6fca637d2ad3662c0ea77eba990e3a0376e5fefc65ebbf758bd08"
+      },
+      "171": {
+        "source_ref": "Psalms 119:171 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 171,
+            "source_ref": "Psalms 119:171 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bfb9b5279c0c8d4900cdbcb839bb68077be8cf9303763c1809c9648d016fda47"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bfb9b5279c0c8d4900cdbcb839bb68077be8cf9303763c1809c9648d016fda47"
+      },
+      "172": {
+        "source_ref": "Psalms 119:172 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 172,
+            "source_ref": "Psalms 119:172 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e6938865d23edd0eccebed32a17107a006bad4c57983e9aea2b6d3f57c0634df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e6938865d23edd0eccebed32a17107a006bad4c57983e9aea2b6d3f57c0634df"
+      },
+      "173": {
+        "source_ref": "Psalms 119:173 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 173,
+            "source_ref": "Psalms 119:173 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "005ddb992b5f7751aebd440345c5a673c2b3def33de77b8afa9f98448ad49474"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "005ddb992b5f7751aebd440345c5a673c2b3def33de77b8afa9f98448ad49474"
+      },
+      "174": {
+        "source_ref": "Psalms 119:174 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 174,
+            "source_ref": "Psalms 119:174 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "83a956618e36f85261f0eb5db9653e765e2cf9e71182965bdc481aee692690b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83a956618e36f85261f0eb5db9653e765e2cf9e71182965bdc481aee692690b7"
+      },
+      "175": {
+        "source_ref": "Psalms 119:175 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 175,
+            "source_ref": "Psalms 119:175 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9bd06b678eaf539638649fef1cde9753a9dca88b1a93931e8bace87f0e563d82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9bd06b678eaf539638649fef1cde9753a9dca88b1a93931e8bace87f0e563d82"
+      },
+      "176": {
+        "source_ref": "Psalms 119:176 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 119,
+            "verse": 176,
+            "source_ref": "Psalms 119:176 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b08efde70239bb03e5b5cae4ef2f238179cdc6fae51589665f4031d3475ff198"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b08efde70239bb03e5b5cae4ef2f238179cdc6fae51589665f4031d3475ff198"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_119.md",
+    "blob_sha": "a0a0ea45913ea643a6be25ae29efab985627619a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

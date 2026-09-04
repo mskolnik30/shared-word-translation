@@ -1,0 +1,268 @@
+{
+  "book": "Psalms",
+  "chapter": 144,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 144:1 (Hebrew; before kjv marker) + Psalms 144:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 1,
+            "source_ref": "Psalms 144:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "bbe22c1178d0cb123c3e7b43c499594d22fdd54dfd76ceffd44e8159a13a5172"
+          },
+          {
+            "chapter": 144,
+            "verse": 1,
+            "source_ref": "Psalms 144:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ca5c6c9cafd089d834a7e239cf95115d73a665b94c2ce0e9751efc5d7553af72"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "5c8275798f4f9192291ddee1a2066df817b9cc9ea83ed5c588beb00326ff1fc3"
+      },
+      "2": {
+        "source_ref": "Psalms 144:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 2,
+            "source_ref": "Psalms 144:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "15b5e726b7acb50085596597f54c8b7b144b3c8b5020de06ffb7c17b7f1cd540"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "15b5e726b7acb50085596597f54c8b7b144b3c8b5020de06ffb7c17b7f1cd540"
+      },
+      "3": {
+        "source_ref": "Psalms 144:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 3,
+            "source_ref": "Psalms 144:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5bbca3146729b3652a87ea9e13d188acd6ff3d67d834629532106f02561bf280"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5bbca3146729b3652a87ea9e13d188acd6ff3d67d834629532106f02561bf280"
+      },
+      "4": {
+        "source_ref": "Psalms 144:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 4,
+            "source_ref": "Psalms 144:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5cabab5d1692dfce2540f4feb773c9e87270549cbf0ed8914738494602a7590f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5cabab5d1692dfce2540f4feb773c9e87270549cbf0ed8914738494602a7590f"
+      },
+      "5": {
+        "source_ref": "Psalms 144:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 5,
+            "source_ref": "Psalms 144:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f0733d0e7d7c08d1f852626b1df9b43f6b761fb31e4e5a7efc726f15b9928dd1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0733d0e7d7c08d1f852626b1df9b43f6b761fb31e4e5a7efc726f15b9928dd1"
+      },
+      "6": {
+        "source_ref": "Psalms 144:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 6,
+            "source_ref": "Psalms 144:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5a2b4d1a76e78cbec968b72d3499061ca72e1d796cd218844bf994399d6c5ab9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a2b4d1a76e78cbec968b72d3499061ca72e1d796cd218844bf994399d6c5ab9"
+      },
+      "7": {
+        "source_ref": "Psalms 144:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 7,
+            "source_ref": "Psalms 144:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae5af087e47edcbc6f56bc3051e2c51e532f57addb8f82ef09fb578c9a55ee33"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae5af087e47edcbc6f56bc3051e2c51e532f57addb8f82ef09fb578c9a55ee33"
+      },
+      "8": {
+        "source_ref": "Psalms 144:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 8,
+            "source_ref": "Psalms 144:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e1a08aa42f6d814d5646b6ac34fcf848339e06ef0846512a701f2e7c73c59e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e1a08aa42f6d814d5646b6ac34fcf848339e06ef0846512a701f2e7c73c59e7"
+      },
+      "9": {
+        "source_ref": "Psalms 144:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 9,
+            "source_ref": "Psalms 144:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a1573641194b727721e4f44275a13e6f931496630d7abc04556c50a3f7d933fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1573641194b727721e4f44275a13e6f931496630d7abc04556c50a3f7d933fc"
+      },
+      "10": {
+        "source_ref": "Psalms 144:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 10,
+            "source_ref": "Psalms 144:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "68a64c4e128e21f91df3af148ee6884b92e3b37b56090adaf4af0f30a55aa357"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68a64c4e128e21f91df3af148ee6884b92e3b37b56090adaf4af0f30a55aa357"
+      },
+      "11": {
+        "source_ref": "Psalms 144:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 11,
+            "source_ref": "Psalms 144:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd39e793f275db1843e68ba6aa7bcc3a2d3003f3402a242ce2608df8edcf1c1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd39e793f275db1843e68ba6aa7bcc3a2d3003f3402a242ce2608df8edcf1c1b"
+      },
+      "12": {
+        "source_ref": "Psalms 144:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 12,
+            "source_ref": "Psalms 144:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e220f4d9a91681a6d1a2ecf941ffc360b11bcd7177075002bed20149c7035fb4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e220f4d9a91681a6d1a2ecf941ffc360b11bcd7177075002bed20149c7035fb4"
+      },
+      "13": {
+        "source_ref": "Psalms 144:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 13,
+            "source_ref": "Psalms 144:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f5d045ed5fc0c7abaffcfb8404cb20ac1b6abce10fae563a73172ec2b3f2b89f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5d045ed5fc0c7abaffcfb8404cb20ac1b6abce10fae563a73172ec2b3f2b89f"
+      },
+      "14": {
+        "source_ref": "Psalms 144:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 14,
+            "source_ref": "Psalms 144:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c2ba5da2840fdfac91122232b2fff84549d38c5266a1df3891da06e8a40e00d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2ba5da2840fdfac91122232b2fff84549d38c5266a1df3891da06e8a40e00d5"
+      },
+      "15": {
+        "source_ref": "Psalms 144:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 144,
+            "verse": 15,
+            "source_ref": "Psalms 144:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3667ee60dfe8f7bd46169c4d2efe2b048e3d8171adaff2b0a31694265d38216d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3667ee60dfe8f7bd46169c4d2efe2b048e3d8171adaff2b0a31694265d38216d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_144.md",
+    "blob_sha": "8acd352fca0ab34ee4cbf16ec40d1be317a9c460"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

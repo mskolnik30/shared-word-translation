@@ -1,0 +1,246 @@
+{
+  "book": "Psalms",
+  "chapter": 148,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 148:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 1,
+            "source_ref": "Psalms 148:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "854ccc70a1376f0c3dde4481452408402f932ef8a510a54c68fd19af0ffcd63e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "854ccc70a1376f0c3dde4481452408402f932ef8a510a54c68fd19af0ffcd63e"
+      },
+      "2": {
+        "source_ref": "Psalms 148:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 2,
+            "source_ref": "Psalms 148:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "612dd535567b4ef2dcbdb672bbe150185727225898e045ac4b2aadc0cfc4f6bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "612dd535567b4ef2dcbdb672bbe150185727225898e045ac4b2aadc0cfc4f6bd"
+      },
+      "3": {
+        "source_ref": "Psalms 148:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 3,
+            "source_ref": "Psalms 148:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a48b959147274ec231c192f9a763ab48a5b57d7bc4a93f3592dbeb18cd5013a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a48b959147274ec231c192f9a763ab48a5b57d7bc4a93f3592dbeb18cd5013a"
+      },
+      "4": {
+        "source_ref": "Psalms 148:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 4,
+            "source_ref": "Psalms 148:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fbe50e245baac557494fcd572f474eaa804a96962186af1747c6842d3e4a05c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbe50e245baac557494fcd572f474eaa804a96962186af1747c6842d3e4a05c6"
+      },
+      "5": {
+        "source_ref": "Psalms 148:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 5,
+            "source_ref": "Psalms 148:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "634ddaeac7f8f94cf4e1b1a708fb9abfcc6a11cc6d47b6f61e4529b267863146"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "634ddaeac7f8f94cf4e1b1a708fb9abfcc6a11cc6d47b6f61e4529b267863146"
+      },
+      "6": {
+        "source_ref": "Psalms 148:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 6,
+            "source_ref": "Psalms 148:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ad65302f290b235b94d489b2211158e604f1b779a7d85d398404e15fa312ff97"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad65302f290b235b94d489b2211158e604f1b779a7d85d398404e15fa312ff97"
+      },
+      "7": {
+        "source_ref": "Psalms 148:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 7,
+            "source_ref": "Psalms 148:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4dc5943e34080bb96b415e26978be196b06bfb132f9b36e8f4eb4469d14dc3a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4dc5943e34080bb96b415e26978be196b06bfb132f9b36e8f4eb4469d14dc3a5"
+      },
+      "8": {
+        "source_ref": "Psalms 148:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 8,
+            "source_ref": "Psalms 148:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "701b28e3d5d05449c70b9fa93882b84369dce11fdca15c3b9eacaf8f227f44d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "701b28e3d5d05449c70b9fa93882b84369dce11fdca15c3b9eacaf8f227f44d7"
+      },
+      "9": {
+        "source_ref": "Psalms 148:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 9,
+            "source_ref": "Psalms 148:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5dc3c1742da842866fab1bbdb605981414c8b81024a35690582197e07b28b207"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5dc3c1742da842866fab1bbdb605981414c8b81024a35690582197e07b28b207"
+      },
+      "10": {
+        "source_ref": "Psalms 148:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 10,
+            "source_ref": "Psalms 148:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65add6dc50055c27a083df3cde765f24be539e6ae14fa3b2235f64e9e3d65391"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65add6dc50055c27a083df3cde765f24be539e6ae14fa3b2235f64e9e3d65391"
+      },
+      "11": {
+        "source_ref": "Psalms 148:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 11,
+            "source_ref": "Psalms 148:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a645155002d921f8c7a5845129df19ad35e4f95d14aac1f2e32f4badf6b67467"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a645155002d921f8c7a5845129df19ad35e4f95d14aac1f2e32f4badf6b67467"
+      },
+      "12": {
+        "source_ref": "Psalms 148:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 12,
+            "source_ref": "Psalms 148:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79c75f987184632d47705be6540589cd70796916aecbfe5de031e345c52717bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79c75f987184632d47705be6540589cd70796916aecbfe5de031e345c52717bb"
+      },
+      "13": {
+        "source_ref": "Psalms 148:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 13,
+            "source_ref": "Psalms 148:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f85dbfe53dc6b500e6149f8096ad9dbe7f2d28d522490bd959c83761139b7f96"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f85dbfe53dc6b500e6149f8096ad9dbe7f2d28d522490bd959c83761139b7f96"
+      },
+      "14": {
+        "source_ref": "Psalms 148:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 148,
+            "verse": 14,
+            "source_ref": "Psalms 148:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3ac42e2bae66950150af738e0ec788822d17906b20be1417b81154fcfea8655"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3ac42e2bae66950150af738e0ec788822d17906b20be1417b81154fcfea8655"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_148.md",
+    "blob_sha": "fa7ceb55dd57f2923d915b29ac3902bd2d6e1dca"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,208 @@
+{
+  "book": "Psalms",
+  "chapter": 32,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 32:1 (Hebrew; before kjv marker) + Psalms 32:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 1,
+            "source_ref": "Psalms 32:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "3ecdbd93fa734ded1d942b7045745c6ca7245610a132c98623c061218fb20143"
+          },
+          {
+            "chapter": 32,
+            "verse": 1,
+            "source_ref": "Psalms 32:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6925f563ca9f603ac2c5db84c9920c73d146f80cfbc834ab58da35d5d414891e"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "eb049837a7ad308e0ef2b250575d2d3942cd2bfdeb1c51edf7fb475b1b274e5b"
+      },
+      "2": {
+        "source_ref": "Psalms 32:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 2,
+            "source_ref": "Psalms 32:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f0ea0ea18db27b53d4a21153b5b7aae4ccc2319653b9cf2e212586a5705e181"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f0ea0ea18db27b53d4a21153b5b7aae4ccc2319653b9cf2e212586a5705e181"
+      },
+      "3": {
+        "source_ref": "Psalms 32:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 3,
+            "source_ref": "Psalms 32:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9eec77a939f672337427a5dd714218ab5a3ab8e3d7d89c510705bfda5313d0da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9eec77a939f672337427a5dd714218ab5a3ab8e3d7d89c510705bfda5313d0da"
+      },
+      "4": {
+        "source_ref": "Psalms 32:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 4,
+            "source_ref": "Psalms 32:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c8ee8144c6b319727e21fd0bd72e338685ffb727ff1264e02041f7d88d5d44a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8ee8144c6b319727e21fd0bd72e338685ffb727ff1264e02041f7d88d5d44a7"
+      },
+      "5": {
+        "source_ref": "Psalms 32:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 5,
+            "source_ref": "Psalms 32:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc0bde2ca0fc79b43bd33fca2a9f96e4cc17088fdcee5d53a8865707ec63b82d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc0bde2ca0fc79b43bd33fca2a9f96e4cc17088fdcee5d53a8865707ec63b82d"
+      },
+      "6": {
+        "source_ref": "Psalms 32:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 6,
+            "source_ref": "Psalms 32:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bab0162089cbc02961cba8409263ffc9f877c490225f589df9031bf299195bf4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bab0162089cbc02961cba8409263ffc9f877c490225f589df9031bf299195bf4"
+      },
+      "7": {
+        "source_ref": "Psalms 32:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 7,
+            "source_ref": "Psalms 32:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8eff2833e62365346142cf3ead5e63db276610009a2f4e6ef8e7b5173ed9ace"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8eff2833e62365346142cf3ead5e63db276610009a2f4e6ef8e7b5173ed9ace"
+      },
+      "8": {
+        "source_ref": "Psalms 32:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 8,
+            "source_ref": "Psalms 32:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "765939eac500e702ed294fbf25d338d4a2d266e79492a99dabc910b496f9df36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "765939eac500e702ed294fbf25d338d4a2d266e79492a99dabc910b496f9df36"
+      },
+      "9": {
+        "source_ref": "Psalms 32:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 9,
+            "source_ref": "Psalms 32:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d4922ed66ba7e9795a0d2ebb4b2194fc00bd6258badef9402dc2be12efc406b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4922ed66ba7e9795a0d2ebb4b2194fc00bd6258badef9402dc2be12efc406b6"
+      },
+      "10": {
+        "source_ref": "Psalms 32:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 10,
+            "source_ref": "Psalms 32:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74ce4562c9907ea329b531577bd52b9c7b056d2537dc214a6a9930c183fd2b3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74ce4562c9907ea329b531577bd52b9c7b056d2537dc214a6a9930c183fd2b3a"
+      },
+      "11": {
+        "source_ref": "Psalms 32:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 11,
+            "source_ref": "Psalms 32:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72963435db52c13321fb69183fc15570fc6e5d75fb96985dcc1e7316656da044"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72963435db52c13321fb69183fc15570fc6e5d75fb96985dcc1e7316656da044"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_032.md",
+    "blob_sha": "ab9d83cbe75e74685621ada40b43eee004a8e2b0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,148 @@
+{
+  "book": "Psalms",
+  "chapter": 142,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 142:1 (Hebrew; whole) + Psalms 142:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 142,
+            "verse": 1,
+            "source_ref": "Psalms 142:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "baf93773900404b2261d90593879b84ad6dea55c77863ff5f35fcb35f27d880e"
+          },
+          {
+            "chapter": 142,
+            "verse": 2,
+            "source_ref": "Psalms 142:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "45a6d4a64f52bdc51446e86420307689cebf0031c94114a44677c75c64de5008"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "32789a05cb1204de7ee1bd805f8045927f4b04ed3703533e070afadeb1c4c14b"
+      },
+      "2": {
+        "source_ref": "Psalms 142:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 142,
+            "verse": 3,
+            "source_ref": "Psalms 142:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b88afef706b7766eaed6db87678f0b02892d53c91511e8151f660f919749be22"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b88afef706b7766eaed6db87678f0b02892d53c91511e8151f660f919749be22"
+      },
+      "3": {
+        "source_ref": "Psalms 142:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 142,
+            "verse": 4,
+            "source_ref": "Psalms 142:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ad8eb762fb677766f49d8f62949f79f883a7f2917c9babea340fd71c9231431f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ad8eb762fb677766f49d8f62949f79f883a7f2917c9babea340fd71c9231431f"
+      },
+      "4": {
+        "source_ref": "Psalms 142:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 142,
+            "verse": 5,
+            "source_ref": "Psalms 142:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "44b74661f9fbb8615b733f225bf143e7a50e4e97909e2a3f4abee8eff4b150ad"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "44b74661f9fbb8615b733f225bf143e7a50e4e97909e2a3f4abee8eff4b150ad"
+      },
+      "5": {
+        "source_ref": "Psalms 142:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 142,
+            "verse": 6,
+            "source_ref": "Psalms 142:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f41c9636c8ebbdd4746c43baab7ef2e975da84c9e12092df601a9376003f23e5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f41c9636c8ebbdd4746c43baab7ef2e975da84c9e12092df601a9376003f23e5"
+      },
+      "6": {
+        "source_ref": "Psalms 142:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 142,
+            "verse": 7,
+            "source_ref": "Psalms 142:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "064e21dd3d1b231a4805485fb7c532f99ae90f55e6bf30e6022f52bd94a073dd"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "064e21dd3d1b231a4805485fb7c532f99ae90f55e6bf30e6022f52bd94a073dd"
+      },
+      "7": {
+        "source_ref": "Psalms 142:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 142,
+            "verse": 8,
+            "source_ref": "Psalms 142:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a0c52d9fd34ca3270cdf4811d648271a8913c0bb45a570fc7f18de19671498c7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a0c52d9fd34ca3270cdf4811d648271a8913c0bb45a570fc7f18de19671498c7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_142.md",
+    "blob_sha": "58f959f58c97d8a69f24a788ef95a7165e03b50a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

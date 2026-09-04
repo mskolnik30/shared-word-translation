@@ -1,0 +1,133 @@
+{
+  "book": "Psalms",
+  "chapter": 126,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 126:1 (Hebrew; before kjv marker) + Psalms 126:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 126,
+            "verse": 1,
+            "source_ref": "Psalms 126:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "c03cb07c754ba37a5e6c0fdee3838c00fe736441d9f9b10920551a4f636433e0"
+          },
+          {
+            "chapter": 126,
+            "verse": 1,
+            "source_ref": "Psalms 126:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d29841e68c1836bae61d734fac15d303376e2082d3062f6907813efe13725eff"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "d7f93d8a5851fb58fc41c5c1c3ffe2d13e5f9ebcfb6e49bfbb62c751cdde836f"
+      },
+      "2": {
+        "source_ref": "Psalms 126:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 126,
+            "verse": 2,
+            "source_ref": "Psalms 126:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3f4016d84467445c22c6379dd23a871ec0a0ab96ab75bd8d87b7119c8c9de847"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f4016d84467445c22c6379dd23a871ec0a0ab96ab75bd8d87b7119c8c9de847"
+      },
+      "3": {
+        "source_ref": "Psalms 126:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 126,
+            "verse": 3,
+            "source_ref": "Psalms 126:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "59eeddd322273a3e8685c596f5b504030d0c7790830ee2286b1eb597b8eadc44"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59eeddd322273a3e8685c596f5b504030d0c7790830ee2286b1eb597b8eadc44"
+      },
+      "4": {
+        "source_ref": "Psalms 126:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 126,
+            "verse": 4,
+            "source_ref": "Psalms 126:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "037c9408ef6842703d36632ef3ae15c29a760adbe8f37836bc41bf9518fb295c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "037c9408ef6842703d36632ef3ae15c29a760adbe8f37836bc41bf9518fb295c"
+      },
+      "5": {
+        "source_ref": "Psalms 126:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 126,
+            "verse": 5,
+            "source_ref": "Psalms 126:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9bc4c231d79be076742c3eaef7eda5bd363f4e49bd562bfb24bd9b447652996"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9bc4c231d79be076742c3eaef7eda5bd363f4e49bd562bfb24bd9b447652996"
+      },
+      "6": {
+        "source_ref": "Psalms 126:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 126,
+            "verse": 6,
+            "source_ref": "Psalms 126:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e3b4178fa341effbe8c572dc47133b213e4c2faf527a19de0133e79b5d58d7b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3b4178fa341effbe8c572dc47133b213e4c2faf527a19de0133e79b5d58d7b6"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_126.md",
+    "blob_sha": "689544d1a2c3791fcfcef60f41efd5e7440df6da"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

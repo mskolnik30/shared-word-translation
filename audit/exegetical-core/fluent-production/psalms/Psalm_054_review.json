@@ -1,0 +1,155 @@
+{
+  "book": "Psalms",
+  "chapter": 54,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 54:1 (Hebrew; whole) + Psalms 54:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 54,
+            "verse": 1,
+            "source_ref": "Psalms 54:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "801b31800d691147f6031a7a66744676659fc1a306fba3df7b408c07f1ebfaba"
+          },
+          {
+            "chapter": 54,
+            "verse": 3,
+            "source_ref": "Psalms 54:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "310932692414bcef66895a3de4d897b995194941ccb10a14130d9a6992cc5677"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "40454d541c428910b0e6f8da2f040f06ccbf5d7bb6dde5f249fdf1e18ff162bf"
+      },
+      "2": {
+        "source_ref": "Psalms 54:2 (Hebrew; whole) + Psalms 54:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 54,
+            "verse": 2,
+            "source_ref": "Psalms 54:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "166c3e9fb6f2342d50265eab23c0f1c599068f0602b8971e54994423d18c1bd5"
+          },
+          {
+            "chapter": 54,
+            "verse": 4,
+            "source_ref": "Psalms 54:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b38b5af6816ef09771d0d3e7e76e14eef03f0d4964d8af899147ac33926374c0"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "8e2e171cac21d1f35fbe48e2e010a3564865c08e34314fe8fa066a0283203c7a"
+      },
+      "3": {
+        "source_ref": "Psalms 54:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 54,
+            "verse": 5,
+            "source_ref": "Psalms 54:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f74ce7b1c615c64cb9bea3af5a16cf1f54498fc4e844902ebaf5d42122e1062f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f74ce7b1c615c64cb9bea3af5a16cf1f54498fc4e844902ebaf5d42122e1062f"
+      },
+      "4": {
+        "source_ref": "Psalms 54:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 54,
+            "verse": 6,
+            "source_ref": "Psalms 54:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2f3a25705a4aff4bf9d565de37abc4a37d338b3dbf335ecf2d646a641d382956"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2f3a25705a4aff4bf9d565de37abc4a37d338b3dbf335ecf2d646a641d382956"
+      },
+      "5": {
+        "source_ref": "Psalms 54:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 54,
+            "verse": 7,
+            "source_ref": "Psalms 54:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "55305075382efa1a3b8efca8a36094f2d1d0f49ed2f584148d629b1a631a5b0e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "55305075382efa1a3b8efca8a36094f2d1d0f49ed2f584148d629b1a631a5b0e"
+      },
+      "6": {
+        "source_ref": "Psalms 54:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 54,
+            "verse": 8,
+            "source_ref": "Psalms 54:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "07e2fcb6d1e316d25160fa572ae3a9d07baafd00aa541c4ee15a7645a0253656"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "07e2fcb6d1e316d25160fa572ae3a9d07baafd00aa541c4ee15a7645a0253656"
+      },
+      "7": {
+        "source_ref": "Psalms 54:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 54,
+            "verse": 9,
+            "source_ref": "Psalms 54:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "96d9b4be2dc513837c14f941ca87ecbbb427d094cc006c0dca99a02ad6123190"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "96d9b4be2dc513837c14f941ca87ecbbb427d094cc006c0dca99a02ad6123190"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_054.md",
+    "blob_sha": "58f52132f9298ac8951ca16a32362e497857c888"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,306 @@
+{
+  "book": "Psalms",
+  "chapter": 115,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 115:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 1,
+            "source_ref": "Psalms 115:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "588e48c10384e389e334a266bfda55a01831de50484b6a3c1d68ffec481e18cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "588e48c10384e389e334a266bfda55a01831de50484b6a3c1d68ffec481e18cc"
+      },
+      "2": {
+        "source_ref": "Psalms 115:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 2,
+            "source_ref": "Psalms 115:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc737cbd93367b0f4dfbe492f022a8115729de52bdc1715d3577a8c4058e7980"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc737cbd93367b0f4dfbe492f022a8115729de52bdc1715d3577a8c4058e7980"
+      },
+      "3": {
+        "source_ref": "Psalms 115:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 3,
+            "source_ref": "Psalms 115:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d2399c1b344cd53abe547dacf4ed1b6b8c8e3c556ebf1e5e1a4a00b066471bbf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2399c1b344cd53abe547dacf4ed1b6b8c8e3c556ebf1e5e1a4a00b066471bbf"
+      },
+      "4": {
+        "source_ref": "Psalms 115:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 4,
+            "source_ref": "Psalms 115:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc6a76117deb8cdeed7806e37b22d582cd1baf0abb40c52e8be37e446fc6912b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc6a76117deb8cdeed7806e37b22d582cd1baf0abb40c52e8be37e446fc6912b"
+      },
+      "5": {
+        "source_ref": "Psalms 115:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 5,
+            "source_ref": "Psalms 115:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9638d94ce004f471f5da809fe52bea4adc97b2bc807d45081d36a233d07fa106"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9638d94ce004f471f5da809fe52bea4adc97b2bc807d45081d36a233d07fa106"
+      },
+      "6": {
+        "source_ref": "Psalms 115:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 6,
+            "source_ref": "Psalms 115:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4932558c9e3c2681d661067dbfd84cd7b18a7101f3f00999e71c71b7f532e87f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4932558c9e3c2681d661067dbfd84cd7b18a7101f3f00999e71c71b7f532e87f"
+      },
+      "7": {
+        "source_ref": "Psalms 115:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 7,
+            "source_ref": "Psalms 115:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7ffdd5e1a3af362f21f8b5740631f6a11b3d58ac337d99f448083e0198518b80"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ffdd5e1a3af362f21f8b5740631f6a11b3d58ac337d99f448083e0198518b80"
+      },
+      "8": {
+        "source_ref": "Psalms 115:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 8,
+            "source_ref": "Psalms 115:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec77a686a1edacaa8c4d1acda32e04616c81ff4e5016bf66f5e6610426c18acb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec77a686a1edacaa8c4d1acda32e04616c81ff4e5016bf66f5e6610426c18acb"
+      },
+      "9": {
+        "source_ref": "Psalms 115:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 9,
+            "source_ref": "Psalms 115:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82cab68a397bce8e3502fea277b514dc46a324cb6ec33733134056eab22aa56d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82cab68a397bce8e3502fea277b514dc46a324cb6ec33733134056eab22aa56d"
+      },
+      "10": {
+        "source_ref": "Psalms 115:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 10,
+            "source_ref": "Psalms 115:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "214bc944854e4f584c68024fdd9659afeddd620aea9903742f18fbc23eef5ea7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "214bc944854e4f584c68024fdd9659afeddd620aea9903742f18fbc23eef5ea7"
+      },
+      "11": {
+        "source_ref": "Psalms 115:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 11,
+            "source_ref": "Psalms 115:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d90d732db806936cb549eebcfcee91eab1abd72512bd77736e17fd6262a82f23"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d90d732db806936cb549eebcfcee91eab1abd72512bd77736e17fd6262a82f23"
+      },
+      "12": {
+        "source_ref": "Psalms 115:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 12,
+            "source_ref": "Psalms 115:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c788da0492942daa3559545a3d292c951ef09e0d8aafc6b9486453a739d3eaa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c788da0492942daa3559545a3d292c951ef09e0d8aafc6b9486453a739d3eaa"
+      },
+      "13": {
+        "source_ref": "Psalms 115:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 13,
+            "source_ref": "Psalms 115:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9e36546f02338bb09fcf8b1eeb776746d18100e2a32d4618dac8cf38ead1c18b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e36546f02338bb09fcf8b1eeb776746d18100e2a32d4618dac8cf38ead1c18b"
+      },
+      "14": {
+        "source_ref": "Psalms 115:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 14,
+            "source_ref": "Psalms 115:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b04866fde2a2f4b9d16a39e63bc38e6723332b54d3fc1e43f6dc3d841bad3f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b04866fde2a2f4b9d16a39e63bc38e6723332b54d3fc1e43f6dc3d841bad3f9"
+      },
+      "15": {
+        "source_ref": "Psalms 115:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 15,
+            "source_ref": "Psalms 115:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74df77f6ed9ebf24327570f09c3ca67d772679d29c1501ceceb56dc64e5d5fc5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74df77f6ed9ebf24327570f09c3ca67d772679d29c1501ceceb56dc64e5d5fc5"
+      },
+      "16": {
+        "source_ref": "Psalms 115:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 16,
+            "source_ref": "Psalms 115:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "025c26cd543cc1192e2c55b15e010c517625209456b8cdcac80a5f095cbd6fb6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "025c26cd543cc1192e2c55b15e010c517625209456b8cdcac80a5f095cbd6fb6"
+      },
+      "17": {
+        "source_ref": "Psalms 115:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 17,
+            "source_ref": "Psalms 115:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "59da8ce5dafce10337c7024b11e04a87952668dd31a9bc0afb4da8325e648154"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59da8ce5dafce10337c7024b11e04a87952668dd31a9bc0afb4da8325e648154"
+      },
+      "18": {
+        "source_ref": "Psalms 115:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 115,
+            "verse": 18,
+            "source_ref": "Psalms 115:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f7775a6fb3c127597325d3af08b406d7c2a97c012b50a49b9e8f09847ccb485b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f7775a6fb3c127597325d3af08b406d7c2a97c012b50a49b9e8f09847ccb485b"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_115.md",
+    "blob_sha": "111b73b2169fbe292ce34938a52c8e90252e741d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

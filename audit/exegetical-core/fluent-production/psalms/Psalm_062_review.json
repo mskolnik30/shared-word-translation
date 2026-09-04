@@ -1,0 +1,223 @@
+{
+  "book": "Psalms",
+  "chapter": 62,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 62:1 (Hebrew; whole) + Psalms 62:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 1,
+            "source_ref": "Psalms 62:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e8d2b8e4b55c182745c0c914438bee6338d4f9e19f922d2d73df8685d9211744"
+          },
+          {
+            "chapter": 62,
+            "verse": 2,
+            "source_ref": "Psalms 62:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4e0adb8fae2f79ea56868ecbe0865f89db9e0525f9f9d56aa15fc8d1953773ef"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "0ff3a13de9b261d44b1c5b83ff1106f49fceb248ba473b44af2dfdc53255d46f"
+      },
+      "2": {
+        "source_ref": "Psalms 62:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 3,
+            "source_ref": "Psalms 62:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "95c29c49e3d6764f26ea8a618cd21eee6dfb3e6f023163c296c34bc38a0f5ce4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "95c29c49e3d6764f26ea8a618cd21eee6dfb3e6f023163c296c34bc38a0f5ce4"
+      },
+      "3": {
+        "source_ref": "Psalms 62:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 4,
+            "source_ref": "Psalms 62:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "834124767f9cc06e4383c2f10687bfea05d39bb135764f3af4739164c8338d69"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "834124767f9cc06e4383c2f10687bfea05d39bb135764f3af4739164c8338d69"
+      },
+      "4": {
+        "source_ref": "Psalms 62:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 5,
+            "source_ref": "Psalms 62:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "817b69b898045df3d35f63d1be8d46f3ff49e7f655b0ae632c63dde9989fb034"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "817b69b898045df3d35f63d1be8d46f3ff49e7f655b0ae632c63dde9989fb034"
+      },
+      "5": {
+        "source_ref": "Psalms 62:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 6,
+            "source_ref": "Psalms 62:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "16d053e7490ad9ed1c80d6eac620a8bf3378a572af88bc71ed1fab78c6139c38"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "16d053e7490ad9ed1c80d6eac620a8bf3378a572af88bc71ed1fab78c6139c38"
+      },
+      "6": {
+        "source_ref": "Psalms 62:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 7,
+            "source_ref": "Psalms 62:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2b8e8f0971a0f37538b695ce359c8f85663aacc7a4f5870052626100e3e2a955"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2b8e8f0971a0f37538b695ce359c8f85663aacc7a4f5870052626100e3e2a955"
+      },
+      "7": {
+        "source_ref": "Psalms 62:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 8,
+            "source_ref": "Psalms 62:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9f3cecaa89e6f179c3d4ef20909ce8902c662cfeccded999a64c4ecf54095867"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9f3cecaa89e6f179c3d4ef20909ce8902c662cfeccded999a64c4ecf54095867"
+      },
+      "8": {
+        "source_ref": "Psalms 62:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 9,
+            "source_ref": "Psalms 62:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fbc71f13245f4b43353db6f31f7ce8c9179d7a8bcb4cd2c5ee2ff6860e12f529"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fbc71f13245f4b43353db6f31f7ce8c9179d7a8bcb4cd2c5ee2ff6860e12f529"
+      },
+      "9": {
+        "source_ref": "Psalms 62:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 10,
+            "source_ref": "Psalms 62:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ac16e9a1ace5a96954cbcc0c598d07306d4c7b29f668279bec4036c597af3281"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ac16e9a1ace5a96954cbcc0c598d07306d4c7b29f668279bec4036c597af3281"
+      },
+      "10": {
+        "source_ref": "Psalms 62:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 11,
+            "source_ref": "Psalms 62:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f2785f64af49f5024dcc071573ab9b490d688e9209425229bd41392430566ff9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f2785f64af49f5024dcc071573ab9b490d688e9209425229bd41392430566ff9"
+      },
+      "11": {
+        "source_ref": "Psalms 62:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 12,
+            "source_ref": "Psalms 62:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "16f5de6fb843b81daf5f7519cffbac74d0f921056e75fc688adebe1854a4299f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "16f5de6fb843b81daf5f7519cffbac74d0f921056e75fc688adebe1854a4299f"
+      },
+      "12": {
+        "source_ref": "Psalms 62:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 62,
+            "verse": 13,
+            "source_ref": "Psalms 62:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7bf39ade8c2a3ebfdecebf4911a49740d70a5f96468c5c384adeee8d29997bbd"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7bf39ade8c2a3ebfdecebf4911a49740d70a5f96468c5c384adeee8d29997bbd"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_062.md",
+    "blob_sha": "170ded2337c14df299ef34b4679d004f6ac15275"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

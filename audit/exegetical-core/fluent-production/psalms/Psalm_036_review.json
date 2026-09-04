@@ -1,0 +1,223 @@
+{
+  "book": "Psalms",
+  "chapter": 36,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 36:1 (Hebrew; whole) + Psalms 36:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 1,
+            "source_ref": "Psalms 36:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4a9d8f5965627386e21f61bcbe3b69200653edcec33d1e1eac4d6ac09566a18e"
+          },
+          {
+            "chapter": 36,
+            "verse": 2,
+            "source_ref": "Psalms 36:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e429240eb540303afb05b79312e1a8946c3e80f5b435ffcd5ddbc6b9b015fe05"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "bc7b2341e5ab5a11a45972fd75fa9e9c148942b23f2aed4413650d5f74a5a1fd"
+      },
+      "2": {
+        "source_ref": "Psalms 36:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 3,
+            "source_ref": "Psalms 36:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "88992597d18f072843dc859c00e411e8feea38f8e98c7bc50c1ed1b9cb6c7cd5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "88992597d18f072843dc859c00e411e8feea38f8e98c7bc50c1ed1b9cb6c7cd5"
+      },
+      "3": {
+        "source_ref": "Psalms 36:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 4,
+            "source_ref": "Psalms 36:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "32c940387f5fdccaec2de3cbd8e4c24e55f6331d81460489fa639ae9dbfb0a4d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "32c940387f5fdccaec2de3cbd8e4c24e55f6331d81460489fa639ae9dbfb0a4d"
+      },
+      "4": {
+        "source_ref": "Psalms 36:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 5,
+            "source_ref": "Psalms 36:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "92fe7f27ecd962164135ab01e1581e51332bbc68a42f15341b3c784bdb22d1f1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "92fe7f27ecd962164135ab01e1581e51332bbc68a42f15341b3c784bdb22d1f1"
+      },
+      "5": {
+        "source_ref": "Psalms 36:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 6,
+            "source_ref": "Psalms 36:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b1bc84532c50be6558c799b629953e536206fe2409ccb304b843a47de6970f74"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b1bc84532c50be6558c799b629953e536206fe2409ccb304b843a47de6970f74"
+      },
+      "6": {
+        "source_ref": "Psalms 36:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 7,
+            "source_ref": "Psalms 36:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c662b1f3dc87493f7286bd512e7aabf2ebd3804366e42053f63455e0d1856e3c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c662b1f3dc87493f7286bd512e7aabf2ebd3804366e42053f63455e0d1856e3c"
+      },
+      "7": {
+        "source_ref": "Psalms 36:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 8,
+            "source_ref": "Psalms 36:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "04539af3f9c92dff4f93f2d22aa6b4fecaffca81e9e7896bd66b025aa4f0d419"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "04539af3f9c92dff4f93f2d22aa6b4fecaffca81e9e7896bd66b025aa4f0d419"
+      },
+      "8": {
+        "source_ref": "Psalms 36:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 9,
+            "source_ref": "Psalms 36:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "560905e2d11a159ca907efc65c2d78b2243b80166f216bed7c9e46985869b5fe"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "560905e2d11a159ca907efc65c2d78b2243b80166f216bed7c9e46985869b5fe"
+      },
+      "9": {
+        "source_ref": "Psalms 36:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 10,
+            "source_ref": "Psalms 36:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "98ddfdc7e98eac823f544e6ac8cce1f6ab54da9ee77b44b4785a39dd5b49345c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "98ddfdc7e98eac823f544e6ac8cce1f6ab54da9ee77b44b4785a39dd5b49345c"
+      },
+      "10": {
+        "source_ref": "Psalms 36:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 11,
+            "source_ref": "Psalms 36:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "56b27ac79ffa5b5dc2e1ed860592028710c402ca4783ea22c33187c48186cea4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "56b27ac79ffa5b5dc2e1ed860592028710c402ca4783ea22c33187c48186cea4"
+      },
+      "11": {
+        "source_ref": "Psalms 36:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 12,
+            "source_ref": "Psalms 36:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9fcd47cd483d2125b827436d9795705cb240f2e4511392ba3faf85f21f69215b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9fcd47cd483d2125b827436d9795705cb240f2e4511392ba3faf85f21f69215b"
+      },
+      "12": {
+        "source_ref": "Psalms 36:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 13,
+            "source_ref": "Psalms 36:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0385e9890823f268b4f01d03438fd2d9bc9ae74c724f66d15235a87254e1bae6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0385e9890823f268b4f01d03438fd2d9bc9ae74c724f66d15235a87254e1bae6"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_036.md",
+    "blob_sha": "9d58115db1818033a54445c9e747e6349e46439b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

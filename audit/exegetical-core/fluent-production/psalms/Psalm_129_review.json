@@ -1,0 +1,163 @@
+{
+  "book": "Psalms",
+  "chapter": 129,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 129:1 (Hebrew; before kjv marker) + Psalms 129:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 129,
+            "verse": 1,
+            "source_ref": "Psalms 129:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "c03cb07c754ba37a5e6c0fdee3838c00fe736441d9f9b10920551a4f636433e0"
+          },
+          {
+            "chapter": 129,
+            "verse": 1,
+            "source_ref": "Psalms 129:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "897a5b98a55a997c473738064a1d0b74513d30d3a6bc6e3b89fe14a86ede5fc5"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "27bc91aca28517e046f02261bb91c03f111e37da2979224dc3f012c6f907a14d"
+      },
+      "2": {
+        "source_ref": "Psalms 129:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 129,
+            "verse": 2,
+            "source_ref": "Psalms 129:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "284927dd8b7dcb0adef6c7f53c432a981e070dfcf24c2969c8ee1ee3b04026a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "284927dd8b7dcb0adef6c7f53c432a981e070dfcf24c2969c8ee1ee3b04026a0"
+      },
+      "3": {
+        "source_ref": "Psalms 129:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 129,
+            "verse": 3,
+            "source_ref": "Psalms 129:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a9f54c95523a6664771da68b07e74c1652ebcf3c322d56967d6e1562fca55f59"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9f54c95523a6664771da68b07e74c1652ebcf3c322d56967d6e1562fca55f59"
+      },
+      "4": {
+        "source_ref": "Psalms 129:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 129,
+            "verse": 4,
+            "source_ref": "Psalms 129:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "08ba5f62698836a4a8a9f8cb7f5881d386ff00305722a63caab2072e0a05d165"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "08ba5f62698836a4a8a9f8cb7f5881d386ff00305722a63caab2072e0a05d165"
+      },
+      "5": {
+        "source_ref": "Psalms 129:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 129,
+            "verse": 5,
+            "source_ref": "Psalms 129:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b0b6a26bb82ccf749eff10620846b75d9a07c3743ec6022c3626c25d999c4ebc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0b6a26bb82ccf749eff10620846b75d9a07c3743ec6022c3626c25d999c4ebc"
+      },
+      "6": {
+        "source_ref": "Psalms 129:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 129,
+            "verse": 6,
+            "source_ref": "Psalms 129:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "95fbe8628b63a94e4fc3e9fa19367b6efc518fe2e5d8d3850959f433dd0d267a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95fbe8628b63a94e4fc3e9fa19367b6efc518fe2e5d8d3850959f433dd0d267a"
+      },
+      "7": {
+        "source_ref": "Psalms 129:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 129,
+            "verse": 7,
+            "source_ref": "Psalms 129:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "def3661157197381c2cb850c35e8d2b5844892d57e1628d871cfafa21f1e848f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "def3661157197381c2cb850c35e8d2b5844892d57e1628d871cfafa21f1e848f"
+      },
+      "8": {
+        "source_ref": "Psalms 129:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 129,
+            "verse": 8,
+            "source_ref": "Psalms 129:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1c2e4a5d8dce5c0d37701ccd07bb47fed6255b81e04e3b2a6fed8f0dd9bb92c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1c2e4a5d8dce5c0d37701ccd07bb47fed6255b81e04e3b2a6fed8f0dd9bb92c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_129.md",
+    "blob_sha": "6fc7204ad7b686692f6f4e4ea94b80a4f9c6292d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

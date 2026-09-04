@@ -1,0 +1,268 @@
+{
+  "book": "Psalms",
+  "chapter": 92,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 92:1 (Hebrew; whole) + Psalms 92:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 1,
+            "source_ref": "Psalms 92:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b0a3f8b5c89060b662164673eb53798a673edc06ccf6a39f424542ac8c68f471"
+          },
+          {
+            "chapter": 92,
+            "verse": 2,
+            "source_ref": "Psalms 92:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "03cd7ecbd4fe853beaa7f89a03e90548be87bafda320f5e571edf589f736ad5f"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "39713fe7fc4d593878f6241fd44a66d273c6f8a6b2cb707660a1a8ba59e4c945"
+      },
+      "2": {
+        "source_ref": "Psalms 92:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 3,
+            "source_ref": "Psalms 92:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a5760794efbda670cee2cbe6c9adfa899ba949a33ae4dfdaff8bf235421abc3d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a5760794efbda670cee2cbe6c9adfa899ba949a33ae4dfdaff8bf235421abc3d"
+      },
+      "3": {
+        "source_ref": "Psalms 92:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 4,
+            "source_ref": "Psalms 92:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3698dbbc7de4d4a16da80d710cc4b16072cf4bc297c29869e7bf54ce36181e40"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3698dbbc7de4d4a16da80d710cc4b16072cf4bc297c29869e7bf54ce36181e40"
+      },
+      "4": {
+        "source_ref": "Psalms 92:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 5,
+            "source_ref": "Psalms 92:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b10bbd78c47204f16415ef2b4de815530ae89f9f01c73b0c155d13d90bac0474"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b10bbd78c47204f16415ef2b4de815530ae89f9f01c73b0c155d13d90bac0474"
+      },
+      "5": {
+        "source_ref": "Psalms 92:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 6,
+            "source_ref": "Psalms 92:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c7eed914e9dccf5d661f07565e484ccc4dfe8280c41194112836a5e4f4843bd2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c7eed914e9dccf5d661f07565e484ccc4dfe8280c41194112836a5e4f4843bd2"
+      },
+      "6": {
+        "source_ref": "Psalms 92:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 7,
+            "source_ref": "Psalms 92:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a939202aabe7b010cca65cfc1299857675665f8ecb71f9ffc1d83627e4272c52"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a939202aabe7b010cca65cfc1299857675665f8ecb71f9ffc1d83627e4272c52"
+      },
+      "7": {
+        "source_ref": "Psalms 92:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 8,
+            "source_ref": "Psalms 92:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "084f996e89523ab0f28517d718c3ec5070a5e666236e2d5aafc20464b914933b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "084f996e89523ab0f28517d718c3ec5070a5e666236e2d5aafc20464b914933b"
+      },
+      "8": {
+        "source_ref": "Psalms 92:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 9,
+            "source_ref": "Psalms 92:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "df6c7bf1a8728cac3a72b3dac2c333d3c2cc85191c0c399cc7c13541d7a546e5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "df6c7bf1a8728cac3a72b3dac2c333d3c2cc85191c0c399cc7c13541d7a546e5"
+      },
+      "9": {
+        "source_ref": "Psalms 92:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 10,
+            "source_ref": "Psalms 92:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "87232b7ddc8e45c6fa5167e2f35cf46984988446800ff81afef4f9d816570a77"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "87232b7ddc8e45c6fa5167e2f35cf46984988446800ff81afef4f9d816570a77"
+      },
+      "10": {
+        "source_ref": "Psalms 92:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 11,
+            "source_ref": "Psalms 92:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b5145f5fb04c18f80fe24c0a87404aac18f60fc528c58e419466adf17c375496"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b5145f5fb04c18f80fe24c0a87404aac18f60fc528c58e419466adf17c375496"
+      },
+      "11": {
+        "source_ref": "Psalms 92:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 12,
+            "source_ref": "Psalms 92:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d0e262f780a3746afccf2fe960e7f5f863ea11ca673e8cfa6d2743ca2a724db1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d0e262f780a3746afccf2fe960e7f5f863ea11ca673e8cfa6d2743ca2a724db1"
+      },
+      "12": {
+        "source_ref": "Psalms 92:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 13,
+            "source_ref": "Psalms 92:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4bb56e840dfb09766e8f8f479988eef16dbe3944cd62969c5797d830d5be63a7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4bb56e840dfb09766e8f8f479988eef16dbe3944cd62969c5797d830d5be63a7"
+      },
+      "13": {
+        "source_ref": "Psalms 92:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 14,
+            "source_ref": "Psalms 92:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0763c7c33435efc9adc1bf0ccc93d67158f00a7ae0cd54ba21648ba85651d64b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0763c7c33435efc9adc1bf0ccc93d67158f00a7ae0cd54ba21648ba85651d64b"
+      },
+      "14": {
+        "source_ref": "Psalms 92:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 15,
+            "source_ref": "Psalms 92:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "59a86cb405cb2c121494d4d3bea80f9fd4c53fb7a28f7e277dae4537b5e141ce"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "59a86cb405cb2c121494d4d3bea80f9fd4c53fb7a28f7e277dae4537b5e141ce"
+      },
+      "15": {
+        "source_ref": "Psalms 92:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 92,
+            "verse": 16,
+            "source_ref": "Psalms 92:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "de3ea5224ac7d7cd33448d164319c1d66418184baf99fdf1731c70fb7eafa4ac"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "de3ea5224ac7d7cd33448d164319c1d66418184baf99fdf1731c70fb7eafa4ac"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_092.md",
+    "blob_sha": "683ced75029333cea407b5d5275a543fd21b54e0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

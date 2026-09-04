@@ -1,0 +1,163 @@
+{
+  "book": "Psalms",
+  "chapter": 124,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 124:1 (Hebrew; before kjv marker) + Psalms 124:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 124,
+            "verse": 1,
+            "source_ref": "Psalms 124:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "fed4cca87fa3a7f6ba58c6861ce6d2c3db9e894ad7a0782c66fab2a67d852362"
+          },
+          {
+            "chapter": 124,
+            "verse": 1,
+            "source_ref": "Psalms 124:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "36df761dac36686be4ba74fde308614559fedc7f456cb22186b6f0dc8fca7288"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "19a864fe666c561fac52c5baf05c505e1181994fca24644c4c7c097f41bfe515"
+      },
+      "2": {
+        "source_ref": "Psalms 124:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 124,
+            "verse": 2,
+            "source_ref": "Psalms 124:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f7bf15fb9bf3d54a74a3929704a6e9abb65fe7e1baaf42b547d37c6937a5ff14"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f7bf15fb9bf3d54a74a3929704a6e9abb65fe7e1baaf42b547d37c6937a5ff14"
+      },
+      "3": {
+        "source_ref": "Psalms 124:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 124,
+            "verse": 3,
+            "source_ref": "Psalms 124:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0147d34a1a533f5bb6c3ee724e84f46f4b5c80e099e661d050cf1664f3d53bc5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0147d34a1a533f5bb6c3ee724e84f46f4b5c80e099e661d050cf1664f3d53bc5"
+      },
+      "4": {
+        "source_ref": "Psalms 124:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 124,
+            "verse": 4,
+            "source_ref": "Psalms 124:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b793410b28a51f3e7475f7fa012706d500d7fc09fd26167689d0964312a9676"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b793410b28a51f3e7475f7fa012706d500d7fc09fd26167689d0964312a9676"
+      },
+      "5": {
+        "source_ref": "Psalms 124:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 124,
+            "verse": 5,
+            "source_ref": "Psalms 124:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "025908b39f6370b58d80c19258ceb4f13e3ec34a49426e3a88ae27c4344ccbb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "025908b39f6370b58d80c19258ceb4f13e3ec34a49426e3a88ae27c4344ccbb1"
+      },
+      "6": {
+        "source_ref": "Psalms 124:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 124,
+            "verse": 6,
+            "source_ref": "Psalms 124:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "444b8351b253a4f44278a2a1d26121ccb5cb599f131146eb758e08f89a6e4aad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "444b8351b253a4f44278a2a1d26121ccb5cb599f131146eb758e08f89a6e4aad"
+      },
+      "7": {
+        "source_ref": "Psalms 124:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 124,
+            "verse": 7,
+            "source_ref": "Psalms 124:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f48439357ac50d034bfaf89d1a2c9a7707319d304e4c23f2231ab202283f0b92"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f48439357ac50d034bfaf89d1a2c9a7707319d304e4c23f2231ab202283f0b92"
+      },
+      "8": {
+        "source_ref": "Psalms 124:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 124,
+            "verse": 8,
+            "source_ref": "Psalms 124:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27f51aee3d7c11e722bc6059afb3e94ca71f8999a7aba70750dc997903516c6f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27f51aee3d7c11e722bc6059afb3e94ca71f8999a7aba70750dc997903516c6f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_124.md",
+    "blob_sha": "a116344674834679f39b6952f867804c7c0a209d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

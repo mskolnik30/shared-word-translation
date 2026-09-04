@@ -1,0 +1,238 @@
+{
+  "book": "Psalms",
+  "chapter": 65,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 65:1 (Hebrew; whole) + Psalms 65:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 1,
+            "source_ref": "Psalms 65:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d376aaf2252502b4f016f6fe2df837b46ccbf52768b71a5e7b3bac6162927b02"
+          },
+          {
+            "chapter": 65,
+            "verse": 2,
+            "source_ref": "Psalms 65:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "583adcdcb7e75b41228cc8267d135eecb8503f8ae5e67b4f2819fde198b2ca34"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "fd009280b36b9a29636ba7ba769534500c1e16ec7173a0af4cf01f423446cf6b"
+      },
+      "2": {
+        "source_ref": "Psalms 65:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 3,
+            "source_ref": "Psalms 65:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8398ab6016cbca7a3aefda70745c35e729ec54f24ead9433168239a28e38d920"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8398ab6016cbca7a3aefda70745c35e729ec54f24ead9433168239a28e38d920"
+      },
+      "3": {
+        "source_ref": "Psalms 65:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 4,
+            "source_ref": "Psalms 65:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "52dc43dd94011cbc7515c27ecede27defe832c15592106b3e408f4d48e971ca2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "52dc43dd94011cbc7515c27ecede27defe832c15592106b3e408f4d48e971ca2"
+      },
+      "4": {
+        "source_ref": "Psalms 65:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 5,
+            "source_ref": "Psalms 65:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "67425935337fff6cf04e3f42fb8fbd731d2d86f1ade01eb5520105b93056c666"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "67425935337fff6cf04e3f42fb8fbd731d2d86f1ade01eb5520105b93056c666"
+      },
+      "5": {
+        "source_ref": "Psalms 65:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 6,
+            "source_ref": "Psalms 65:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a81e70e508e0100e9b48bf939333a506ea8e5f0e9851dbe7505b142d8c037568"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a81e70e508e0100e9b48bf939333a506ea8e5f0e9851dbe7505b142d8c037568"
+      },
+      "6": {
+        "source_ref": "Psalms 65:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 7,
+            "source_ref": "Psalms 65:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "71a82dfdf3b98be604635ee89eede962b1f4b93b70625fd41df42aaa0a214ebb"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "71a82dfdf3b98be604635ee89eede962b1f4b93b70625fd41df42aaa0a214ebb"
+      },
+      "7": {
+        "source_ref": "Psalms 65:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 8,
+            "source_ref": "Psalms 65:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "cd9ed67057c951430da7450fbfbb31c1e913577d00158d2b75e6c56a48e9c814"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "cd9ed67057c951430da7450fbfbb31c1e913577d00158d2b75e6c56a48e9c814"
+      },
+      "8": {
+        "source_ref": "Psalms 65:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 9,
+            "source_ref": "Psalms 65:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "55571eec6eacd8b5f127eda1b053efc18b47e5717f8fcdd5b05a8b6c12b6ec3d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "55571eec6eacd8b5f127eda1b053efc18b47e5717f8fcdd5b05a8b6c12b6ec3d"
+      },
+      "9": {
+        "source_ref": "Psalms 65:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 10,
+            "source_ref": "Psalms 65:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9566842ea11e27a197e080622de663f3570e9dfa81e0fa806c19e308018c15b9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9566842ea11e27a197e080622de663f3570e9dfa81e0fa806c19e308018c15b9"
+      },
+      "10": {
+        "source_ref": "Psalms 65:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 11,
+            "source_ref": "Psalms 65:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "72411f79020161cac7baeeb8093c66b0de71dd609348d7b1aa0b1313a4d7d7f3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "72411f79020161cac7baeeb8093c66b0de71dd609348d7b1aa0b1313a4d7d7f3"
+      },
+      "11": {
+        "source_ref": "Psalms 65:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 12,
+            "source_ref": "Psalms 65:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6fe74c39660c20fbe33ed07e3c52cdb9727844a06046aefa2f53c347444e806f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6fe74c39660c20fbe33ed07e3c52cdb9727844a06046aefa2f53c347444e806f"
+      },
+      "12": {
+        "source_ref": "Psalms 65:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 13,
+            "source_ref": "Psalms 65:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "02c630ba163024e2cb6752746f4e97734a1608c7b5dbeef656d18f8e72bef0b0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "02c630ba163024e2cb6752746f4e97734a1608c7b5dbeef656d18f8e72bef0b0"
+      },
+      "13": {
+        "source_ref": "Psalms 65:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 65,
+            "verse": 14,
+            "source_ref": "Psalms 65:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "96aef1a06a650dfb5e1e5c3b829f4305900a9d62b47e45794e72ad9189ec34ad"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "96aef1a06a650dfb5e1e5c3b829f4305900a9d62b47e45794e72ad9189ec34ad"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_065.md",
+    "blob_sha": "64a0ee8330f78d315009dbe4d2a53dc0de25cdba"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

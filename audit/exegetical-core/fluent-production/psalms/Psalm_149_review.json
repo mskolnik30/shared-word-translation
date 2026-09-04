@@ -1,0 +1,171 @@
+{
+  "book": "Psalms",
+  "chapter": 149,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 149:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 149,
+            "verse": 1,
+            "source_ref": "Psalms 149:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9b790130d6727b57bc9a96ef0fb2f1332adbf3140603868cd0132a15e273a79a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b790130d6727b57bc9a96ef0fb2f1332adbf3140603868cd0132a15e273a79a"
+      },
+      "2": {
+        "source_ref": "Psalms 149:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 149,
+            "verse": 2,
+            "source_ref": "Psalms 149:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "afed59753c7b2e0f5879e6b0b845e8ca81bb392abf0131dbd67ce245ce6df408"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "afed59753c7b2e0f5879e6b0b845e8ca81bb392abf0131dbd67ce245ce6df408"
+      },
+      "3": {
+        "source_ref": "Psalms 149:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 149,
+            "verse": 3,
+            "source_ref": "Psalms 149:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c7c8686fdbdbc413c1facccbd984d794248324b0cdae94e162902f779c7e0533"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7c8686fdbdbc413c1facccbd984d794248324b0cdae94e162902f779c7e0533"
+      },
+      "4": {
+        "source_ref": "Psalms 149:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 149,
+            "verse": 4,
+            "source_ref": "Psalms 149:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f007152743273e01e2e3f7b323e3433c4bfaa1b5f0ff53b931b014b9ac8b2f78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f007152743273e01e2e3f7b323e3433c4bfaa1b5f0ff53b931b014b9ac8b2f78"
+      },
+      "5": {
+        "source_ref": "Psalms 149:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 149,
+            "verse": 5,
+            "source_ref": "Psalms 149:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b5d1353c3ea6fc47d124a9baa770dfe37ef2e1f3089fc9cb29fd03ac90befab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b5d1353c3ea6fc47d124a9baa770dfe37ef2e1f3089fc9cb29fd03ac90befab"
+      },
+      "6": {
+        "source_ref": "Psalms 149:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 149,
+            "verse": 6,
+            "source_ref": "Psalms 149:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a50b772d29f4eedfc56cbdad8482eff0d256577b9f764de370a713ca9e7d7446"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a50b772d29f4eedfc56cbdad8482eff0d256577b9f764de370a713ca9e7d7446"
+      },
+      "7": {
+        "source_ref": "Psalms 149:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 149,
+            "verse": 7,
+            "source_ref": "Psalms 149:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1a866e08511a95d7fde1c65bee1d521f9849c28f6973e462a7bfdad2eb9f7f07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a866e08511a95d7fde1c65bee1d521f9849c28f6973e462a7bfdad2eb9f7f07"
+      },
+      "8": {
+        "source_ref": "Psalms 149:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 149,
+            "verse": 8,
+            "source_ref": "Psalms 149:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc9cdaf3d7fab317756b4a5b1baf75dd91225a84fd0247456262cbd60c1c362a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc9cdaf3d7fab317756b4a5b1baf75dd91225a84fd0247456262cbd60c1c362a"
+      },
+      "9": {
+        "source_ref": "Psalms 149:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 149,
+            "verse": 9,
+            "source_ref": "Psalms 149:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7fab84a43f1d8bfe2ba956efe53522bf4ac493200728018ed4955ef256e151b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7fab84a43f1d8bfe2ba956efe53522bf4ac493200728018ed4955ef256e151b7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_149.md",
+    "blob_sha": "7f396218ff4fe57be6c1d925711defdf6b0141d8"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

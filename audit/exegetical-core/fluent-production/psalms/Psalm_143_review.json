@@ -1,0 +1,223 @@
+{
+  "book": "Psalms",
+  "chapter": 143,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 143:1 (Hebrew; before kjv marker) + Psalms 143:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 1,
+            "source_ref": "Psalms 143:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "6d9bfd2ade4a79c39e86e85453cf2f44b4948bb03a8b450a93f974fbffdc5acc"
+          },
+          {
+            "chapter": 143,
+            "verse": 1,
+            "source_ref": "Psalms 143:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a6e49c2f42d27d6e14037aadb051d21196db7cbe8c559628f18ce59238d4f898"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "5f8c725dde4cb4bfdf97ed180c41f4ddfa410a9bf8c9787edad30205d4063449"
+      },
+      "2": {
+        "source_ref": "Psalms 143:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 2,
+            "source_ref": "Psalms 143:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb5f2d5dc6068ad88ab33f5cfa64ad27b4f0bb8faa007bdf7d7769df40d5eace"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb5f2d5dc6068ad88ab33f5cfa64ad27b4f0bb8faa007bdf7d7769df40d5eace"
+      },
+      "3": {
+        "source_ref": "Psalms 143:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 3,
+            "source_ref": "Psalms 143:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6ced77a3d24b05454b3c254f30c8e14ff6854a33cafed1bd08ae899cf86570de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ced77a3d24b05454b3c254f30c8e14ff6854a33cafed1bd08ae899cf86570de"
+      },
+      "4": {
+        "source_ref": "Psalms 143:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 4,
+            "source_ref": "Psalms 143:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36e070ebcec14dedbe25f135ed377d4d5c86d5c95a16701c8c4bf471a002d5fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36e070ebcec14dedbe25f135ed377d4d5c86d5c95a16701c8c4bf471a002d5fc"
+      },
+      "5": {
+        "source_ref": "Psalms 143:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 5,
+            "source_ref": "Psalms 143:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "29642de67d6d954c1b2f73da0b6bc5ab11a1d88de71436ed3339d6caebc40f7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "29642de67d6d954c1b2f73da0b6bc5ab11a1d88de71436ed3339d6caebc40f7e"
+      },
+      "6": {
+        "source_ref": "Psalms 143:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 6,
+            "source_ref": "Psalms 143:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f4ab51826024933f8b70d00d799f8068973e316ee2a1e0864803466bb3938d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f4ab51826024933f8b70d00d799f8068973e316ee2a1e0864803466bb3938d3"
+      },
+      "7": {
+        "source_ref": "Psalms 143:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 7,
+            "source_ref": "Psalms 143:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2147df6118231bd8b5fee04ecad74084b3348661af2fbef01b7430905d29a41a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2147df6118231bd8b5fee04ecad74084b3348661af2fbef01b7430905d29a41a"
+      },
+      "8": {
+        "source_ref": "Psalms 143:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 8,
+            "source_ref": "Psalms 143:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7d09d67b63ff897cdfd76e38676ff38adfb17fe8eb049dde58a92031e108618"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7d09d67b63ff897cdfd76e38676ff38adfb17fe8eb049dde58a92031e108618"
+      },
+      "9": {
+        "source_ref": "Psalms 143:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 9,
+            "source_ref": "Psalms 143:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3c993bb4fdc2bae6733e32b84e8f71909be3792076731e1937d5e350f5a0cde7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c993bb4fdc2bae6733e32b84e8f71909be3792076731e1937d5e350f5a0cde7"
+      },
+      "10": {
+        "source_ref": "Psalms 143:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 10,
+            "source_ref": "Psalms 143:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "33195d21f89bdcdb3daf9858139f55c26014eea368ee7aabe7229d69a50bd471"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "33195d21f89bdcdb3daf9858139f55c26014eea368ee7aabe7229d69a50bd471"
+      },
+      "11": {
+        "source_ref": "Psalms 143:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 11,
+            "source_ref": "Psalms 143:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "581445ee4ee89d9d8d6a6edcdabdd698b194cabc22c4cfc2d87b721e341fc14f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "581445ee4ee89d9d8d6a6edcdabdd698b194cabc22c4cfc2d87b721e341fc14f"
+      },
+      "12": {
+        "source_ref": "Psalms 143:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 143,
+            "verse": 12,
+            "source_ref": "Psalms 143:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e7530bbfa4a9f330ae5ec693def6279f4b4f21f937bb1b9b9e58bd10fd0eff52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e7530bbfa4a9f330ae5ec693def6279f4b4f21f937bb1b9b9e58bd10fd0eff52"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_143.md",
+    "blob_sha": "1729ea1aa1248b44f049d24b175bccef45b6786c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

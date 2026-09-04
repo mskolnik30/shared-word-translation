@@ -1,0 +1,163 @@
+{
+  "book": "Psalms",
+  "chapter": 101,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 101:1 (Hebrew; before kjv marker) + Psalms 101:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 101,
+            "verse": 1,
+            "source_ref": "Psalms 101:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "dbbeb0cdfea232ba0d8a866f8b161bf284b87ccb89180308dbb7c2dda7c2709b"
+          },
+          {
+            "chapter": 101,
+            "verse": 1,
+            "source_ref": "Psalms 101:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0f06808dcdfe5ceeb27cee73b3742a60412f2263cefa9cfe096a6c8e8a61adb6"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "982b371645aec3286dd087173b9abb2db1d5642349712a82c85cf6dd1f842563"
+      },
+      "2": {
+        "source_ref": "Psalms 101:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 101,
+            "verse": 2,
+            "source_ref": "Psalms 101:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "458bb7527a02cd0fb1266b0a09cd0748c277cccf23796de5e771fe8b8881f74d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "458bb7527a02cd0fb1266b0a09cd0748c277cccf23796de5e771fe8b8881f74d"
+      },
+      "3": {
+        "source_ref": "Psalms 101:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 101,
+            "verse": 3,
+            "source_ref": "Psalms 101:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "abb4a48a0fe4ac982546fbf8790271283da3532989df5171f70b9033459b5383"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "abb4a48a0fe4ac982546fbf8790271283da3532989df5171f70b9033459b5383"
+      },
+      "4": {
+        "source_ref": "Psalms 101:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 101,
+            "verse": 4,
+            "source_ref": "Psalms 101:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c4cbb30d688c98e3d8869530fe2c2e02283de55aaaf6199c5c38cd3afc77a8a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c4cbb30d688c98e3d8869530fe2c2e02283de55aaaf6199c5c38cd3afc77a8a3"
+      },
+      "5": {
+        "source_ref": "Psalms 101:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 101,
+            "verse": 5,
+            "source_ref": "Psalms 101:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3e22cb0db4b9f6252c38939bfbbba091971f32deb8f43e730c858810e7a4a4d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3e22cb0db4b9f6252c38939bfbbba091971f32deb8f43e730c858810e7a4a4d2"
+      },
+      "6": {
+        "source_ref": "Psalms 101:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 101,
+            "verse": 6,
+            "source_ref": "Psalms 101:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0792dd408007d9ec8727f3cd5bcbbbeda062d95061af506c70d8deb60a7316a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0792dd408007d9ec8727f3cd5bcbbbeda062d95061af506c70d8deb60a7316a7"
+      },
+      "7": {
+        "source_ref": "Psalms 101:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 101,
+            "verse": 7,
+            "source_ref": "Psalms 101:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7760dcc63e1b36a998214fa1961908b0f04a2dd0aeb8a5d21a26256abc32bb90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7760dcc63e1b36a998214fa1961908b0f04a2dd0aeb8a5d21a26256abc32bb90"
+      },
+      "8": {
+        "source_ref": "Psalms 101:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 101,
+            "verse": 8,
+            "source_ref": "Psalms 101:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1873186b493848a5fe22a25cfbf6a5ed200a4946a873a9ad678fe20fa77f87bc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1873186b493848a5fe22a25cfbf6a5ed200a4946a873a9ad678fe20fa77f87bc"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_101.md",
+    "blob_sha": "7a673f30d488e2f55a0875870d956d59e10f097b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

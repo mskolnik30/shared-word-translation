@@ -1,0 +1,298 @@
+{
+  "book": "Psalms",
+  "chapter": 86,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 86:1 (Hebrew; before kjv marker) + Psalms 86:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 1,
+            "source_ref": "Psalms 86:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "8a3f0a67bf7a35a1beed7256493355aabcd3776897a98004e58eafae62440fc8"
+          },
+          {
+            "chapter": 86,
+            "verse": 1,
+            "source_ref": "Psalms 86:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3487aabc076666ffb18594131e39bf1a78ab552dc1c93dce08894d354cdd07fa"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "e57dc4007c060491a537a471a2e741214ad10d77f8b88264eeca29e277dbc72b"
+      },
+      "2": {
+        "source_ref": "Psalms 86:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 2,
+            "source_ref": "Psalms 86:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3b5b28c23c2788e960cc80542f5088017681f01004bfc84616a4e473af4232b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3b5b28c23c2788e960cc80542f5088017681f01004bfc84616a4e473af4232b"
+      },
+      "3": {
+        "source_ref": "Psalms 86:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 3,
+            "source_ref": "Psalms 86:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cf0655f0f5b8791e7eb3adc86e5f47588ca92f268696095eece8fe5565abaae9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cf0655f0f5b8791e7eb3adc86e5f47588ca92f268696095eece8fe5565abaae9"
+      },
+      "4": {
+        "source_ref": "Psalms 86:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 4,
+            "source_ref": "Psalms 86:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "307a1fa291328e1235c19af3c7dabe756eea45e1ee77ec3b173986be95eb1f6b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "307a1fa291328e1235c19af3c7dabe756eea45e1ee77ec3b173986be95eb1f6b"
+      },
+      "5": {
+        "source_ref": "Psalms 86:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 5,
+            "source_ref": "Psalms 86:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8634f749c1ff9adb77b49f11f7e06fa102753b60879f568dbcd11a98c318e57f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8634f749c1ff9adb77b49f11f7e06fa102753b60879f568dbcd11a98c318e57f"
+      },
+      "6": {
+        "source_ref": "Psalms 86:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 6,
+            "source_ref": "Psalms 86:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e56c208dae2c895e3896c08287561deca261c548391c389c47e4fab46851b5c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e56c208dae2c895e3896c08287561deca261c548391c389c47e4fab46851b5c5"
+      },
+      "7": {
+        "source_ref": "Psalms 86:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 7,
+            "source_ref": "Psalms 86:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b1e365a286bf81e57e6dd2026a6ea78099e5daa89dd6b67e8f467f9101d21ae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b1e365a286bf81e57e6dd2026a6ea78099e5daa89dd6b67e8f467f9101d21ae"
+      },
+      "8": {
+        "source_ref": "Psalms 86:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 8,
+            "source_ref": "Psalms 86:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7bff357b034d29b23db281c2ff1ecc7f6dc4bf29ed68898c0147f22107a7e2e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7bff357b034d29b23db281c2ff1ecc7f6dc4bf29ed68898c0147f22107a7e2e7"
+      },
+      "9": {
+        "source_ref": "Psalms 86:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 9,
+            "source_ref": "Psalms 86:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77ce8782a96f5a3ba55d8ded10576cd06298c44146d0bd2e95236b999a2e5e66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77ce8782a96f5a3ba55d8ded10576cd06298c44146d0bd2e95236b999a2e5e66"
+      },
+      "10": {
+        "source_ref": "Psalms 86:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 10,
+            "source_ref": "Psalms 86:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c2e5af94b35922960b53b7cfbe05352c2de3c6ff74cb9b2058448581a3fdd7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c2e5af94b35922960b53b7cfbe05352c2de3c6ff74cb9b2058448581a3fdd7d"
+      },
+      "11": {
+        "source_ref": "Psalms 86:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 11,
+            "source_ref": "Psalms 86:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b921ae028b81a966da373dc26cf287a93818cc8aca8d00744d8c219dc703c59c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b921ae028b81a966da373dc26cf287a93818cc8aca8d00744d8c219dc703c59c"
+      },
+      "12": {
+        "source_ref": "Psalms 86:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 12,
+            "source_ref": "Psalms 86:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "350147452805c413f910dad211c924119b1ff7beb01473bd06e27ba6995ed9b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "350147452805c413f910dad211c924119b1ff7beb01473bd06e27ba6995ed9b4"
+      },
+      "13": {
+        "source_ref": "Psalms 86:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 13,
+            "source_ref": "Psalms 86:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f5c84f72a8840df0e17f1f5191609a2e8f84d702960b1f84801e04fbdc5a4359"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5c84f72a8840df0e17f1f5191609a2e8f84d702960b1f84801e04fbdc5a4359"
+      },
+      "14": {
+        "source_ref": "Psalms 86:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 14,
+            "source_ref": "Psalms 86:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "457d256cb3abb9f6929c0687b470892428b2dda61eeea632c9da0e2786a88f37"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "457d256cb3abb9f6929c0687b470892428b2dda61eeea632c9da0e2786a88f37"
+      },
+      "15": {
+        "source_ref": "Psalms 86:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 15,
+            "source_ref": "Psalms 86:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2cc77b190f5c21761b1161e11b5f1fd680ecad7483ae0bea57f9c27df1a43a54"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2cc77b190f5c21761b1161e11b5f1fd680ecad7483ae0bea57f9c27df1a43a54"
+      },
+      "16": {
+        "source_ref": "Psalms 86:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 16,
+            "source_ref": "Psalms 86:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d94d7c72a3afd3effed06c1f62a84d80be090b6c32ae3fb5af1a32104ef62a7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d94d7c72a3afd3effed06c1f62a84d80be090b6c32ae3fb5af1a32104ef62a7f"
+      },
+      "17": {
+        "source_ref": "Psalms 86:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 86,
+            "verse": 17,
+            "source_ref": "Psalms 86:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "676bcf20efcc4cbe90491e0e7e1d9882ef0526c654ba9f80024fc8bbe58396bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "676bcf20efcc4cbe90491e0e7e1d9882ef0526c654ba9f80024fc8bbe58396bb"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_086.md",
+    "blob_sha": "783c7a2b5fd138e24b69afe1e734e8b76989c266"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

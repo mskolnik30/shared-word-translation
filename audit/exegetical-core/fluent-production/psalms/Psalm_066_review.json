@@ -1,0 +1,343 @@
+{
+  "book": "Psalms",
+  "chapter": 66,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 66:1 (Hebrew; before kjv marker) + Psalms 66:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 1,
+            "source_ref": "Psalms 66:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "b50f73056779eb401f60a6c4b5fbe6b5d6e4e494a0ed5faabfe9fdc32b90adb8"
+          },
+          {
+            "chapter": 66,
+            "verse": 1,
+            "source_ref": "Psalms 66:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9870f0fabcfbf2165dd1d16adac79d012e367ec7fc005ec5a3bc41ec049fdc10"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "78f0ad1c4d87f09dc21b595de35caa5cbe60c6794fccd30f97fffdc07c97f7a2"
+      },
+      "2": {
+        "source_ref": "Psalms 66:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 2,
+            "source_ref": "Psalms 66:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ceb95206878db89e2ce2574bba70c6dd4291fec7d8c5917bf161203eb7f30978"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ceb95206878db89e2ce2574bba70c6dd4291fec7d8c5917bf161203eb7f30978"
+      },
+      "3": {
+        "source_ref": "Psalms 66:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 3,
+            "source_ref": "Psalms 66:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "091b84661ba4f4dcd0190f2ce4ecf70ffb4e5fbb363ae758f40c806a605bc49a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "091b84661ba4f4dcd0190f2ce4ecf70ffb4e5fbb363ae758f40c806a605bc49a"
+      },
+      "4": {
+        "source_ref": "Psalms 66:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 4,
+            "source_ref": "Psalms 66:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe41f5095b03433bce65a10b853eba6c11b7137872259b7fb9c3c39492de3cee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe41f5095b03433bce65a10b853eba6c11b7137872259b7fb9c3c39492de3cee"
+      },
+      "5": {
+        "source_ref": "Psalms 66:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 5,
+            "source_ref": "Psalms 66:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f418eb82ca40f51625339adf10b2cfa8c2836f2b586d773d6bd09ea9a912342a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f418eb82ca40f51625339adf10b2cfa8c2836f2b586d773d6bd09ea9a912342a"
+      },
+      "6": {
+        "source_ref": "Psalms 66:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 6,
+            "source_ref": "Psalms 66:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3ecc77ced4614e636d0d8d2740d109dd77b3a59d9cf01eecc228744148a25ecc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ecc77ced4614e636d0d8d2740d109dd77b3a59d9cf01eecc228744148a25ecc"
+      },
+      "7": {
+        "source_ref": "Psalms 66:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 7,
+            "source_ref": "Psalms 66:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3606967c50643464b016a5d2b0b593b940557d6d4183db3c3402b11f13dda024"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3606967c50643464b016a5d2b0b593b940557d6d4183db3c3402b11f13dda024"
+      },
+      "8": {
+        "source_ref": "Psalms 66:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 8,
+            "source_ref": "Psalms 66:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7dd51602f3cdcb747f22c8e1472553b220aeb94314d5fdfd984a443d69929d72"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7dd51602f3cdcb747f22c8e1472553b220aeb94314d5fdfd984a443d69929d72"
+      },
+      "9": {
+        "source_ref": "Psalms 66:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 9,
+            "source_ref": "Psalms 66:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e0f599fbfda910e3688c6683bc89fd9fc7795f408ad0c4dba500528dcbdbdc96"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e0f599fbfda910e3688c6683bc89fd9fc7795f408ad0c4dba500528dcbdbdc96"
+      },
+      "10": {
+        "source_ref": "Psalms 66:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 10,
+            "source_ref": "Psalms 66:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae36dff133e7b8835aebc74d9431bbe935be333ecea07c7e295ab78085e39121"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae36dff133e7b8835aebc74d9431bbe935be333ecea07c7e295ab78085e39121"
+      },
+      "11": {
+        "source_ref": "Psalms 66:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 11,
+            "source_ref": "Psalms 66:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b7c985896d3e894b1441967f0bb4248129bb4fb295bb2f4e14641549899e2a45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7c985896d3e894b1441967f0bb4248129bb4fb295bb2f4e14641549899e2a45"
+      },
+      "12": {
+        "source_ref": "Psalms 66:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 12,
+            "source_ref": "Psalms 66:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c33a81dc9d01b5d98d302aed6f381088a75c24438890974739a25a78416ed77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c33a81dc9d01b5d98d302aed6f381088a75c24438890974739a25a78416ed77"
+      },
+      "13": {
+        "source_ref": "Psalms 66:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 13,
+            "source_ref": "Psalms 66:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bac483b84175eda38213cae975a6eea20667d1cdf54b3ea3ab63abb51a3afab8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bac483b84175eda38213cae975a6eea20667d1cdf54b3ea3ab63abb51a3afab8"
+      },
+      "14": {
+        "source_ref": "Psalms 66:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 14,
+            "source_ref": "Psalms 66:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3c3400a598eea26a8e4b0e467408f0c18945dc36bfedcfa3b5fd318dcfc85c2e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c3400a598eea26a8e4b0e467408f0c18945dc36bfedcfa3b5fd318dcfc85c2e"
+      },
+      "15": {
+        "source_ref": "Psalms 66:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 15,
+            "source_ref": "Psalms 66:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d56dcc17030087f1d8c8a03e65b3c5339785eaf280f895bcf565253dc9cae63c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d56dcc17030087f1d8c8a03e65b3c5339785eaf280f895bcf565253dc9cae63c"
+      },
+      "16": {
+        "source_ref": "Psalms 66:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 16,
+            "source_ref": "Psalms 66:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f171d9b328866648d009d0868f31ee97e1eccc29414c3e10c4717693d9295eb4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f171d9b328866648d009d0868f31ee97e1eccc29414c3e10c4717693d9295eb4"
+      },
+      "17": {
+        "source_ref": "Psalms 66:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 17,
+            "source_ref": "Psalms 66:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e8a3388d51bc66e2b5f12dbe8367259aa9262122e0f0234a16fb66de30cd112e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8a3388d51bc66e2b5f12dbe8367259aa9262122e0f0234a16fb66de30cd112e"
+      },
+      "18": {
+        "source_ref": "Psalms 66:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 18,
+            "source_ref": "Psalms 66:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b43ba8c736cb6874b57d34a1dd23215d95599373a9c450bc7e815dbb933ec7d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b43ba8c736cb6874b57d34a1dd23215d95599373a9c450bc7e815dbb933ec7d1"
+      },
+      "19": {
+        "source_ref": "Psalms 66:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 19,
+            "source_ref": "Psalms 66:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b48eddd89d83204fb5d6c72ba24ec2af5a963e372557bd2b5130d9d497308ccf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b48eddd89d83204fb5d6c72ba24ec2af5a963e372557bd2b5130d9d497308ccf"
+      },
+      "20": {
+        "source_ref": "Psalms 66:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 66,
+            "verse": 20,
+            "source_ref": "Psalms 66:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b11dd5085efde8db42517f9c88bcaf6f916a17531872652542b4c529f8e2f850"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b11dd5085efde8db42517f9c88bcaf6f916a17531872652542b4c529f8e2f850"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_066.md",
+    "blob_sha": "78bad7cda14fe595d5a4c760910f87065e7cc6f2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

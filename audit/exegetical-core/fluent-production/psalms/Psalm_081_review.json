@@ -1,0 +1,283 @@
+{
+  "book": "Psalms",
+  "chapter": 81,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 81:1 (Hebrew; whole) + Psalms 81:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 1,
+            "source_ref": "Psalms 81:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "262f1db7e3bec9e5009eca50fa7f492643142658454ab332df93c4f96194bd22"
+          },
+          {
+            "chapter": 81,
+            "verse": 2,
+            "source_ref": "Psalms 81:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4d01f351caa428f43a948207ad1056f3aef5cc44df143e26eb797629c1544bbc"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "9187038aeadc48a172f4cd4575b16dee300aaa6d6a032ea00d786e63b97d92d5"
+      },
+      "2": {
+        "source_ref": "Psalms 81:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 3,
+            "source_ref": "Psalms 81:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7dd0332eb67aae0be2853406d655d626a100a0ffeebabd02a7d462460e870136"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7dd0332eb67aae0be2853406d655d626a100a0ffeebabd02a7d462460e870136"
+      },
+      "3": {
+        "source_ref": "Psalms 81:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 4,
+            "source_ref": "Psalms 81:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7922f3f7e7f55878e8c356d36c97a0312f9d57aff14c560f44a159a3946ffaee"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7922f3f7e7f55878e8c356d36c97a0312f9d57aff14c560f44a159a3946ffaee"
+      },
+      "4": {
+        "source_ref": "Psalms 81:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 5,
+            "source_ref": "Psalms 81:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d4dcdb0721de1bbe121e4be14a29ae0f5ee40e5161d86179871282bb71ab94b4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d4dcdb0721de1bbe121e4be14a29ae0f5ee40e5161d86179871282bb71ab94b4"
+      },
+      "5": {
+        "source_ref": "Psalms 81:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 6,
+            "source_ref": "Psalms 81:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f52f583b94f661871a07f1af44ceb8c0370c7f535537fcd10f5c1dcf86aef041"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f52f583b94f661871a07f1af44ceb8c0370c7f535537fcd10f5c1dcf86aef041"
+      },
+      "6": {
+        "source_ref": "Psalms 81:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 7,
+            "source_ref": "Psalms 81:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0384390f5afaed2d23f99574fe021180ad317681b64cdeb97133b1abde75965d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0384390f5afaed2d23f99574fe021180ad317681b64cdeb97133b1abde75965d"
+      },
+      "7": {
+        "source_ref": "Psalms 81:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 8,
+            "source_ref": "Psalms 81:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a22267ab30daa9e1203f99a76a7858878ef744ee8401c327b6a8e5c3c35d02ae"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a22267ab30daa9e1203f99a76a7858878ef744ee8401c327b6a8e5c3c35d02ae"
+      },
+      "8": {
+        "source_ref": "Psalms 81:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 9,
+            "source_ref": "Psalms 81:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "520a39aa8291c8ad2f34331bb70b8270d94f70aecf12dea2079bf9d07cdd5ff0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "520a39aa8291c8ad2f34331bb70b8270d94f70aecf12dea2079bf9d07cdd5ff0"
+      },
+      "9": {
+        "source_ref": "Psalms 81:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 10,
+            "source_ref": "Psalms 81:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "534262367915ae784df50af67ae6a2bf0b6ed4bfe385627ee2d170348851fb07"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "534262367915ae784df50af67ae6a2bf0b6ed4bfe385627ee2d170348851fb07"
+      },
+      "10": {
+        "source_ref": "Psalms 81:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 11,
+            "source_ref": "Psalms 81:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5bab1a24ed367b292b6b6b5ea04baa22c58bce5bf687eff6351205fbd4e254e6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5bab1a24ed367b292b6b6b5ea04baa22c58bce5bf687eff6351205fbd4e254e6"
+      },
+      "11": {
+        "source_ref": "Psalms 81:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 12,
+            "source_ref": "Psalms 81:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1757cff6c0bd52f4f0dec99b0291e295c7c9bbf6f4e380c25639cb2df6df1a98"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1757cff6c0bd52f4f0dec99b0291e295c7c9bbf6f4e380c25639cb2df6df1a98"
+      },
+      "12": {
+        "source_ref": "Psalms 81:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 13,
+            "source_ref": "Psalms 81:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "425f3743b5c89a0d389ade7dcac5f551b568f919562ff1496f92439c8b94315f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "425f3743b5c89a0d389ade7dcac5f551b568f919562ff1496f92439c8b94315f"
+      },
+      "13": {
+        "source_ref": "Psalms 81:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 14,
+            "source_ref": "Psalms 81:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "869cfeae6428c4cdf32a6902d9326f08787e8d6cc90e4ce5f8a05f8aba5529c2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "869cfeae6428c4cdf32a6902d9326f08787e8d6cc90e4ce5f8a05f8aba5529c2"
+      },
+      "14": {
+        "source_ref": "Psalms 81:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 15,
+            "source_ref": "Psalms 81:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0598337eb4c2585ba56b7552ef147d48c16f8218fb8aeec87215cbbd1f3fd521"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0598337eb4c2585ba56b7552ef147d48c16f8218fb8aeec87215cbbd1f3fd521"
+      },
+      "15": {
+        "source_ref": "Psalms 81:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 16,
+            "source_ref": "Psalms 81:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "aa11d67650eb66e7345f03b02122389bda50d0613cf13a89fd1906dea7087435"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "aa11d67650eb66e7345f03b02122389bda50d0613cf13a89fd1906dea7087435"
+      },
+      "16": {
+        "source_ref": "Psalms 81:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 81,
+            "verse": 17,
+            "source_ref": "Psalms 81:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "09e64378e0778decd057c40b4449ec71e151b0e9a5a5d8b5d40ecd3af2dda6ef"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "09e64378e0778decd057c40b4449ec71e151b0e9a5a5d8b5d40ecd3af2dda6ef"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_081.md",
+    "blob_sha": "84d42ba50cd0e7698b2e350d084c2f4fb555c215"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

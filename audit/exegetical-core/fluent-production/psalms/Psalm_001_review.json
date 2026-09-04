@@ -1,0 +1,132 @@
+{
+  "book": "Psalms",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-2:12",
+      "decision": "Read Psalms 1-2 as the collection's Torah-and-kingship doorway without erasing each poem's voice.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 1:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Psalms 1:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3486ea52ef4c61799bec47893871088f41be078e5223445c29f1884f4c921ad9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3486ea52ef4c61799bec47893871088f41be078e5223445c29f1884f4c921ad9"
+      },
+      "2": {
+        "source_ref": "Psalms 1:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Psalms 1:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9503cba671eb97bd7304de1ec80f4373a47bdeaf3e26f5edc198357799d52c56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9503cba671eb97bd7304de1ec80f4373a47bdeaf3e26f5edc198357799d52c56"
+      },
+      "3": {
+        "source_ref": "Psalms 1:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Psalms 1:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c17f6c5c0795cd7dbb1dc6134a0df134584c2e9021a4cea939a61dc37d875c0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c17f6c5c0795cd7dbb1dc6134a0df134584c2e9021a4cea939a61dc37d875c0d"
+      },
+      "4": {
+        "source_ref": "Psalms 1:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Psalms 1:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3fb2c90fd33cf1934d6fe38e4d294f8640fc74a008b576ca85e5f0ab739abf9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3fb2c90fd33cf1934d6fe38e4d294f8640fc74a008b576ca85e5f0ab739abf9"
+      },
+      "5": {
+        "source_ref": "Psalms 1:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Psalms 1:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c885d9c341803bd20c7f19e427f8bb1505e733bda41301670d970f4d1b6da4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c885d9c341803bd20c7f19e427f8bb1505e733bda41301670d970f4d1b6da4e"
+      },
+      "6": {
+        "source_ref": "Psalms 1:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Psalms 1:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2f53a481c8706dbc91389e60ec09c92715428cc53399040ca0d888c4a338c9df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f53a481c8706dbc91389e60ec09c92715428cc53399040ca0d888c4a338c9df"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_001.md",
+    "blob_sha": "508c2af2e9d583ec5f885dbdff5a27c700c65ac4"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

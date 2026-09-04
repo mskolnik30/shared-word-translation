@@ -1,0 +1,223 @@
+{
+  "book": "Psalms",
+  "chapter": 30,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 30:1 (Hebrew; whole) + Psalms 30:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 1,
+            "source_ref": "Psalms 30:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4d93d2e0bd0c568c3e70181f27ca0434b0a23a84c88082224eef718cf69c8a35"
+          },
+          {
+            "chapter": 30,
+            "verse": 2,
+            "source_ref": "Psalms 30:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "40b84787192a7cf8dd667a666ff41d54e308ba0d762decabd1e4f240fed3a42a"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "cf0047de60aa99cb80979ca58ea68c1ba4a12c2aa775cf01f91ff9c1608a9a5d"
+      },
+      "2": {
+        "source_ref": "Psalms 30:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 3,
+            "source_ref": "Psalms 30:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ab9d24ca371c0ae62dca60ffb34fdaef9dfee5552d4b3cf650d874cc4f39886a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ab9d24ca371c0ae62dca60ffb34fdaef9dfee5552d4b3cf650d874cc4f39886a"
+      },
+      "3": {
+        "source_ref": "Psalms 30:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 4,
+            "source_ref": "Psalms 30:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e76f4fee8d32cbd72f4971d7b09af99c2b8c9187f6b4effee930a873df90bf73"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e76f4fee8d32cbd72f4971d7b09af99c2b8c9187f6b4effee930a873df90bf73"
+      },
+      "4": {
+        "source_ref": "Psalms 30:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 5,
+            "source_ref": "Psalms 30:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9e451b9021764a2d7367396cecee6921448ec2df33acc37e5e7d9b0cfad28172"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9e451b9021764a2d7367396cecee6921448ec2df33acc37e5e7d9b0cfad28172"
+      },
+      "5": {
+        "source_ref": "Psalms 30:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 6,
+            "source_ref": "Psalms 30:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f553dd413d0a11aca60648f2856386f47f4426a1d62f0b50ac99208029e72921"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f553dd413d0a11aca60648f2856386f47f4426a1d62f0b50ac99208029e72921"
+      },
+      "6": {
+        "source_ref": "Psalms 30:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 7,
+            "source_ref": "Psalms 30:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b1c297764c7820e0d401f715329a171c4a5bf20c90821a1b4790f6d981a3eac4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b1c297764c7820e0d401f715329a171c4a5bf20c90821a1b4790f6d981a3eac4"
+      },
+      "7": {
+        "source_ref": "Psalms 30:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 8,
+            "source_ref": "Psalms 30:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3a6ff4188fe5524cf94a598cedd886d1ea8ca8b7813c6fa3a02c5d199dd6519f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3a6ff4188fe5524cf94a598cedd886d1ea8ca8b7813c6fa3a02c5d199dd6519f"
+      },
+      "8": {
+        "source_ref": "Psalms 30:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 9,
+            "source_ref": "Psalms 30:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "bad1c56d0023acfcaca56e6438709a506f7cf4ba34b2e09fe3eb492b680bcc4c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "bad1c56d0023acfcaca56e6438709a506f7cf4ba34b2e09fe3eb492b680bcc4c"
+      },
+      "9": {
+        "source_ref": "Psalms 30:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 10,
+            "source_ref": "Psalms 30:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f261c65283249838aec4d28cdc36d9d0fc8abdb3da32ee70de06dead805d85e6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f261c65283249838aec4d28cdc36d9d0fc8abdb3da32ee70de06dead805d85e6"
+      },
+      "10": {
+        "source_ref": "Psalms 30:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 11,
+            "source_ref": "Psalms 30:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "714442074b364658838f4a2e00a9d7d34edf3292efb1aa40b3074dfe12d5ae90"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "714442074b364658838f4a2e00a9d7d34edf3292efb1aa40b3074dfe12d5ae90"
+      },
+      "11": {
+        "source_ref": "Psalms 30:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 12,
+            "source_ref": "Psalms 30:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a934eff38577e499a94b7bcb50c346fcd35d7f51a1b6a7446a2ec4a05196bfdc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a934eff38577e499a94b7bcb50c346fcd35d7f51a1b6a7446a2ec4a05196bfdc"
+      },
+      "12": {
+        "source_ref": "Psalms 30:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 13,
+            "source_ref": "Psalms 30:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "33a568c8da71067072ea8fcb01e6741d63fb9f06bfe87f58755abe93cc449d23"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "33a568c8da71067072ea8fcb01e6741d63fb9f06bfe87f58755abe93cc449d23"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_030.md",
+    "blob_sha": "a56bc3a378e78795e17ed6274371429994883100"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

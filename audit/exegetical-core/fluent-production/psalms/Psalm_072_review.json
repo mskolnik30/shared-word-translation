@@ -1,0 +1,343 @@
+{
+  "book": "Psalms",
+  "chapter": 72,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 72:1 (Hebrew; before kjv marker) + Psalms 72:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 1,
+            "source_ref": "Psalms 72:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "6494a7eaceee5b4da67bc866e3b463b3a8ec0ebb661d86efaae3eb2beaa70260"
+          },
+          {
+            "chapter": 72,
+            "verse": 1,
+            "source_ref": "Psalms 72:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7ca4bbfa1cfb1b0c67ac38ee0f201f918b4da8355fc11e971fd4e6b1a66d0d83"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "15d8a2e7f3a363f10b45121fe4ed672710c9c377a3e4f36b9ad79109375f0a89"
+      },
+      "2": {
+        "source_ref": "Psalms 72:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 2,
+            "source_ref": "Psalms 72:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1d725b2e2eee220d9c3e39233337a0d3e33c4a01c8dc09feff592b482c78183"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1d725b2e2eee220d9c3e39233337a0d3e33c4a01c8dc09feff592b482c78183"
+      },
+      "3": {
+        "source_ref": "Psalms 72:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 3,
+            "source_ref": "Psalms 72:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b82c935320b9d62261c9a0df21e492675903ac1321c3c75dbdf8f620ded49e01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b82c935320b9d62261c9a0df21e492675903ac1321c3c75dbdf8f620ded49e01"
+      },
+      "4": {
+        "source_ref": "Psalms 72:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 4,
+            "source_ref": "Psalms 72:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ec8802ad1cab2d3e57115b5deee7fe7382c660c547d0e5043e137e58d8b3414"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ec8802ad1cab2d3e57115b5deee7fe7382c660c547d0e5043e137e58d8b3414"
+      },
+      "5": {
+        "source_ref": "Psalms 72:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 5,
+            "source_ref": "Psalms 72:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1071b4934be0a012c86f1eac9d72d92eb718f3f0c781c7c4d51ffcdca2b31aa3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1071b4934be0a012c86f1eac9d72d92eb718f3f0c781c7c4d51ffcdca2b31aa3"
+      },
+      "6": {
+        "source_ref": "Psalms 72:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 6,
+            "source_ref": "Psalms 72:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c35f72c12745e0ac3de808d9f42c5a399010dd2eab0929379c85e2942c7486a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c35f72c12745e0ac3de808d9f42c5a399010dd2eab0929379c85e2942c7486a"
+      },
+      "7": {
+        "source_ref": "Psalms 72:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 7,
+            "source_ref": "Psalms 72:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "001edf86e81abb8d80c4b87a7ce76543aa1a4c699e17f722854e09f6738763e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "001edf86e81abb8d80c4b87a7ce76543aa1a4c699e17f722854e09f6738763e8"
+      },
+      "8": {
+        "source_ref": "Psalms 72:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 8,
+            "source_ref": "Psalms 72:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "339e0c377465a2475456b53917d29473c3caa7998814b1217974740abd5bd31d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "339e0c377465a2475456b53917d29473c3caa7998814b1217974740abd5bd31d"
+      },
+      "9": {
+        "source_ref": "Psalms 72:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 9,
+            "source_ref": "Psalms 72:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "820c2cbcd23aaa6bc0bda0925ea62a09fe172dc71211150f9608f55e14cf3241"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "820c2cbcd23aaa6bc0bda0925ea62a09fe172dc71211150f9608f55e14cf3241"
+      },
+      "10": {
+        "source_ref": "Psalms 72:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 10,
+            "source_ref": "Psalms 72:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0e813efb44c50d4273d23af4925cf532525c61f924382a0057613257c81e129b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e813efb44c50d4273d23af4925cf532525c61f924382a0057613257c81e129b"
+      },
+      "11": {
+        "source_ref": "Psalms 72:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 11,
+            "source_ref": "Psalms 72:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f04325ebf8b3be0a6365f8a34f39f21cd81783c6a66a540721d15a0ab77a94c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f04325ebf8b3be0a6365f8a34f39f21cd81783c6a66a540721d15a0ab77a94c4"
+      },
+      "12": {
+        "source_ref": "Psalms 72:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 12,
+            "source_ref": "Psalms 72:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b215b30c9da6dfb9dd9fbf76203d4030ad68dbad2fae6335b9f9fa6d9fadd32a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b215b30c9da6dfb9dd9fbf76203d4030ad68dbad2fae6335b9f9fa6d9fadd32a"
+      },
+      "13": {
+        "source_ref": "Psalms 72:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 13,
+            "source_ref": "Psalms 72:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f26acffe271683c71d04a088f2b20b170b17c1b31fc264e8da1e622242e1881c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f26acffe271683c71d04a088f2b20b170b17c1b31fc264e8da1e622242e1881c"
+      },
+      "14": {
+        "source_ref": "Psalms 72:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 14,
+            "source_ref": "Psalms 72:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "436ad22bbd5fdbee1493c307b334902699c8a4348fbc11d8fd8e32b5c460ee2b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "436ad22bbd5fdbee1493c307b334902699c8a4348fbc11d8fd8e32b5c460ee2b"
+      },
+      "15": {
+        "source_ref": "Psalms 72:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 15,
+            "source_ref": "Psalms 72:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eca579bc9273ba5c906d78bc7ba5c23d0c37374ac0f5c12fdb03b60ec2459a17"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eca579bc9273ba5c906d78bc7ba5c23d0c37374ac0f5c12fdb03b60ec2459a17"
+      },
+      "16": {
+        "source_ref": "Psalms 72:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 16,
+            "source_ref": "Psalms 72:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d29aa3818dc7c5d0d2b4c72c94e6c4ca6f5bfd9715a694c458ced269bda2af58"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d29aa3818dc7c5d0d2b4c72c94e6c4ca6f5bfd9715a694c458ced269bda2af58"
+      },
+      "17": {
+        "source_ref": "Psalms 72:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 17,
+            "source_ref": "Psalms 72:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "97db77e9ac48d71b8527669f2e431ad275f65fdd5f2b0620550dfc70661041fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "97db77e9ac48d71b8527669f2e431ad275f65fdd5f2b0620550dfc70661041fe"
+      },
+      "18": {
+        "source_ref": "Psalms 72:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 18,
+            "source_ref": "Psalms 72:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "674998d0e99fba7a1af1643c6f14149ded578f6419f59e1850a66a7342272eca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "674998d0e99fba7a1af1643c6f14149ded578f6419f59e1850a66a7342272eca"
+      },
+      "19": {
+        "source_ref": "Psalms 72:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 19,
+            "source_ref": "Psalms 72:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5d42983fe119ba702fc0bccfa9a19d2e831a6a623c224c3ff404c26cbb7adaae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5d42983fe119ba702fc0bccfa9a19d2e831a6a623c224c3ff404c26cbb7adaae"
+      },
+      "20": {
+        "source_ref": "Psalms 72:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 72,
+            "verse": 20,
+            "source_ref": "Psalms 72:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a13adb36185d23a3c92c14cb6ed57d7c3e5bfef447baefdcf090d16c7c16cfd6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a13adb36185d23a3c92c14cb6ed57d7c3e5bfef447baefdcf090d16c7c16cfd6"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_072.md",
+    "blob_sha": "402a278ac31a8d9ad582aed3ffc1c2a719e7af5c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

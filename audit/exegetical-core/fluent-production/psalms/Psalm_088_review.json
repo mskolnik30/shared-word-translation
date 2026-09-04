@@ -1,0 +1,313 @@
+{
+  "book": "Psalms",
+  "chapter": 88,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 88:1 (Hebrew; whole) + Psalms 88:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 1,
+            "source_ref": "Psalms 88:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56d7a3e68a19ce1d63d32fb8f7b9933af9cb6a194863744627e8141b8916aec1"
+          },
+          {
+            "chapter": 88,
+            "verse": 2,
+            "source_ref": "Psalms 88:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8211bc8db1218d5bcf7ddb1d4fc751e52c20b225d7960200544a8dca1ded6f22"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "e4b4be3149bc77f24ec269ba4e7d9ccb054e82fef89ae452da4fc2f9b8c51cbc"
+      },
+      "2": {
+        "source_ref": "Psalms 88:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 3,
+            "source_ref": "Psalms 88:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4995e467c6d7bf5d7c1aa82674b9ac894784298ff41080fac8f73795c1902446"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4995e467c6d7bf5d7c1aa82674b9ac894784298ff41080fac8f73795c1902446"
+      },
+      "3": {
+        "source_ref": "Psalms 88:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 4,
+            "source_ref": "Psalms 88:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "901e76c7e2863aa5236bf9077524bf0799a22c9baec9d9466e824365fc701326"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "901e76c7e2863aa5236bf9077524bf0799a22c9baec9d9466e824365fc701326"
+      },
+      "4": {
+        "source_ref": "Psalms 88:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 5,
+            "source_ref": "Psalms 88:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "507546023f55279e70923ed636ca9bcdff8c915755695494e7afa38a66b4061f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "507546023f55279e70923ed636ca9bcdff8c915755695494e7afa38a66b4061f"
+      },
+      "5": {
+        "source_ref": "Psalms 88:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 6,
+            "source_ref": "Psalms 88:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b5fe9da7f32a8c500d54519427481fe4844fbf8285776cbd836e3a222eec31d4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b5fe9da7f32a8c500d54519427481fe4844fbf8285776cbd836e3a222eec31d4"
+      },
+      "6": {
+        "source_ref": "Psalms 88:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 7,
+            "source_ref": "Psalms 88:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2b2fbe6546eb3ff9f0d335d1ac316c49f7a996fd1d6d7ce166243129a36adbed"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2b2fbe6546eb3ff9f0d335d1ac316c49f7a996fd1d6d7ce166243129a36adbed"
+      },
+      "7": {
+        "source_ref": "Psalms 88:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 8,
+            "source_ref": "Psalms 88:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9062c7bae8f93436e092b7a06a4a38ec9065215adc5e122f0935f8790a9ea510"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9062c7bae8f93436e092b7a06a4a38ec9065215adc5e122f0935f8790a9ea510"
+      },
+      "8": {
+        "source_ref": "Psalms 88:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 9,
+            "source_ref": "Psalms 88:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e1836589ae47d7e8c8e5d6e4a48f29584ed722176837957a4805176d0b4f0ffa"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e1836589ae47d7e8c8e5d6e4a48f29584ed722176837957a4805176d0b4f0ffa"
+      },
+      "9": {
+        "source_ref": "Psalms 88:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 10,
+            "source_ref": "Psalms 88:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e494f9b6d72e825abb9b82501aa4e04c9fa0b5393cab573249e4877bcaa3e5fe"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e494f9b6d72e825abb9b82501aa4e04c9fa0b5393cab573249e4877bcaa3e5fe"
+      },
+      "10": {
+        "source_ref": "Psalms 88:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 11,
+            "source_ref": "Psalms 88:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b3f0fab73d453534bb48d3223bc9c46a87055194e0a6ace27ac7d727258170ce"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b3f0fab73d453534bb48d3223bc9c46a87055194e0a6ace27ac7d727258170ce"
+      },
+      "11": {
+        "source_ref": "Psalms 88:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 12,
+            "source_ref": "Psalms 88:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f55d115c12d032564492f27a1f1a95c7b5fdc1f0b546abcd5ecf149557c5ed06"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f55d115c12d032564492f27a1f1a95c7b5fdc1f0b546abcd5ecf149557c5ed06"
+      },
+      "12": {
+        "source_ref": "Psalms 88:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 13,
+            "source_ref": "Psalms 88:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8b71f033b244cff1a94a237054b514f302eaaea20861effd1728cf29f71294f5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8b71f033b244cff1a94a237054b514f302eaaea20861effd1728cf29f71294f5"
+      },
+      "13": {
+        "source_ref": "Psalms 88:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 14,
+            "source_ref": "Psalms 88:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3129530dcffa9073aa0a2decaf4c8f5534b80f9d3e4761e13c18c19a23466951"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3129530dcffa9073aa0a2decaf4c8f5534b80f9d3e4761e13c18c19a23466951"
+      },
+      "14": {
+        "source_ref": "Psalms 88:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 15,
+            "source_ref": "Psalms 88:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dfd5e7329f1ffb5943ceb92f9d3eb7bd4e67e778fc03630f3d4cd6dcde3d0d13"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dfd5e7329f1ffb5943ceb92f9d3eb7bd4e67e778fc03630f3d4cd6dcde3d0d13"
+      },
+      "15": {
+        "source_ref": "Psalms 88:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 16,
+            "source_ref": "Psalms 88:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6f867f6b3d753ac1bae9ae59c3a8a4ec28380de487c5bb217729faddcd749652"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6f867f6b3d753ac1bae9ae59c3a8a4ec28380de487c5bb217729faddcd749652"
+      },
+      "16": {
+        "source_ref": "Psalms 88:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 17,
+            "source_ref": "Psalms 88:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5aaee9094709a1fd27514923106f8f32d13f11c461bd9ef64bf0640d1b23b219"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5aaee9094709a1fd27514923106f8f32d13f11c461bd9ef64bf0640d1b23b219"
+      },
+      "17": {
+        "source_ref": "Psalms 88:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 18,
+            "source_ref": "Psalms 88:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dfe2f9b65afd23ce0fe7022aaec45e5ec5f11200cd4cbbb2f8b02bbb615b1e07"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dfe2f9b65afd23ce0fe7022aaec45e5ec5f11200cd4cbbb2f8b02bbb615b1e07"
+      },
+      "18": {
+        "source_ref": "Psalms 88:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 88,
+            "verse": 19,
+            "source_ref": "Psalms 88:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "43712f3cbce79dfb8561d0cdfb3d1f40b456455b13ab55589c513c3cc3dee531"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "43712f3cbce79dfb8561d0cdfb3d1f40b456455b13ab55589c513c3cc3dee531"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_088.md",
+    "blob_sha": "72b90aed7173d8613e2a6ee4073d522d6719ef5a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

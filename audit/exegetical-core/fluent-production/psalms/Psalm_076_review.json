@@ -1,0 +1,223 @@
+{
+  "book": "Psalms",
+  "chapter": 76,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 76:1 (Hebrew; whole) + Psalms 76:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 1,
+            "source_ref": "Psalms 76:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e2b4f59cf61531fca900166a718bdf533118a3a2e8538511375f4d61afc9f1ac"
+          },
+          {
+            "chapter": 76,
+            "verse": 2,
+            "source_ref": "Psalms 76:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "75c7306de4770c327053b664be5992387984055a3898bf332c6d1e4e0eb62b1e"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "076992fde5a3dee35333773dd8138ca43f2fbc3cc63d64bda3e35abe4c048c2f"
+      },
+      "2": {
+        "source_ref": "Psalms 76:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 3,
+            "source_ref": "Psalms 76:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "12f004e33c530806af61253313147ff6ca4ff1bde9fb1f619181d31910c5b0d6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "12f004e33c530806af61253313147ff6ca4ff1bde9fb1f619181d31910c5b0d6"
+      },
+      "3": {
+        "source_ref": "Psalms 76:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 4,
+            "source_ref": "Psalms 76:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "112f60ab1fd8532b379c23ec4cef4cb2e91383e4c63a0d61b4c5909729814fcb"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "112f60ab1fd8532b379c23ec4cef4cb2e91383e4c63a0d61b4c5909729814fcb"
+      },
+      "4": {
+        "source_ref": "Psalms 76:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 5,
+            "source_ref": "Psalms 76:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9d06c98b29ece62f60d20cdc18136eea4165bc7dfc00dcf3b2d2593827c910e0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9d06c98b29ece62f60d20cdc18136eea4165bc7dfc00dcf3b2d2593827c910e0"
+      },
+      "5": {
+        "source_ref": "Psalms 76:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 6,
+            "source_ref": "Psalms 76:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a9c3d84a2c38d2e9f1828548b670e43e7c1bae5cd433762f3f0bde4fc4c51284"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a9c3d84a2c38d2e9f1828548b670e43e7c1bae5cd433762f3f0bde4fc4c51284"
+      },
+      "6": {
+        "source_ref": "Psalms 76:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 7,
+            "source_ref": "Psalms 76:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "51a2879b64d1a1ca9b4cd1c90203f622fff7f28dbe26d392108eb398de6650c3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "51a2879b64d1a1ca9b4cd1c90203f622fff7f28dbe26d392108eb398de6650c3"
+      },
+      "7": {
+        "source_ref": "Psalms 76:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 8,
+            "source_ref": "Psalms 76:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "be578327c83d4664755402ee4d37da764194de98f94808931f7e5791646d22b2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "be578327c83d4664755402ee4d37da764194de98f94808931f7e5791646d22b2"
+      },
+      "8": {
+        "source_ref": "Psalms 76:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 9,
+            "source_ref": "Psalms 76:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2b83e2b3ff4aabe0a0d6d272e44faf8721a836a87b214d058121e2074d30d2dc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2b83e2b3ff4aabe0a0d6d272e44faf8721a836a87b214d058121e2074d30d2dc"
+      },
+      "9": {
+        "source_ref": "Psalms 76:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 10,
+            "source_ref": "Psalms 76:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4a3f75f4c195b2c542cd2d36535ae38fbe57e94d829731245245a69fed52c448"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4a3f75f4c195b2c542cd2d36535ae38fbe57e94d829731245245a69fed52c448"
+      },
+      "10": {
+        "source_ref": "Psalms 76:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 11,
+            "source_ref": "Psalms 76:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "22a31d6c27b6076bc07db20e12bce1808c04e23c1e14267f2ca20fec77095d15"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "22a31d6c27b6076bc07db20e12bce1808c04e23c1e14267f2ca20fec77095d15"
+      },
+      "11": {
+        "source_ref": "Psalms 76:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 12,
+            "source_ref": "Psalms 76:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e75c0d6125ccf89fd9ef4fe7530a8e76f6526dfded1f832b4d01d50c4ca4f263"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e75c0d6125ccf89fd9ef4fe7530a8e76f6526dfded1f832b4d01d50c4ca4f263"
+      },
+      "12": {
+        "source_ref": "Psalms 76:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 76,
+            "verse": 13,
+            "source_ref": "Psalms 76:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "76a2b94a48ecf0de24730bbde71159889f6521ceb883187545902588b3d34cb3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "76a2b94a48ecf0de24730bbde71159889f6521ceb883187545902588b3d34cb3"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_076.md",
+    "blob_sha": "68317f2a2f24f86b7fbd51d222402b2d51ca32d2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
