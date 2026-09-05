@@ -13,7 +13,10 @@ Every dossier must:
 7. place questions directly before the public reader, without facilitator-only language;
 8. reference shared people, places, maps, and images rather than duplicating them;
 9. label uncertain claims and visual reconstructions honestly; and
-10. pass both structural audit and human theological/editorial review before publication.
+10. use identity lists as explicitly non-exhaustive examples within a universal claim, never as boundaries around whose dignity or safety matters; and
+11. pass both structural audit and human theological/editorial review before publication.
+
+The project-wide standard for identity language is in [`companions/EDITORIAL_STYLE.md`](../EDITORIAL_STYLE.md). The companion-batch workflow runs `tools/audit_companion_inclusive_lists.py` to flag potentially closed identity lists for human review.
 
 ## Standard public sequence
 

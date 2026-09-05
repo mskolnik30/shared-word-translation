@@ -50,7 +50,7 @@ Modern interpretation has reclaimed the royal and representative setting of the 
 
 ## Power and Consequences
 
-The image of God denies every ideology that grades human beings by race, sex, disability, nationality, wealth, usefulness, or religious power. It also places human authority under judgment: a representative may not treat the represented world as personal property.
+The image of God denies every ideology that grades human beings. Race, ethnicity, sex, sexual orientation, gender identity or expression, disability, nationality, citizenship, wealth, social standing, usefulness, and religious power are among the many differences that have been used to rank human worth; none limits the dignity of bearing God's image. It also places human authority under judgment: a representative may not treat the represented world as personal property.
 
 Dominion has been used to justify extraction, animal suffering, seizure of land, and disregard for climate. A responsible reading does not pretend those effects disappear when the term is translated more gently. It asks what kind of rule faithfully images the Creator described in the whole chapter.
 
