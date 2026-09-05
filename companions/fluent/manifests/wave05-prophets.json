@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "resource": "fluent-companion",
+  "batch": "wave05-prophets",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "publication_status": "unpublished",
+  "template_version": "1.0",
+  "books": [
+    {"book": "Jeremiah", "introduction": "companions/fluent/books/jeremiah/introduction.md", "chapters": ["companions/fluent/chapters/jeremiah/20.md"]},
+    {"book": "Lamentations", "introduction": "companions/fluent/books/lamentations/introduction.md", "chapters": ["companions/fluent/chapters/lamentations/03.md"]},
+    {"book": "Ezekiel", "introduction": "companions/fluent/books/ezekiel/introduction.md", "chapters": ["companions/fluent/chapters/ezekiel/16.md"]},
+    {"book": "Daniel", "introduction": "companions/fluent/books/daniel/introduction.md", "chapters": ["companions/fluent/chapters/daniel/07.md"]},
+    {"book": "Hosea", "introduction": "companions/fluent/books/hosea/introduction.md", "chapters": ["companions/fluent/chapters/hosea/01.md"]},
+    {"book": "Joel", "introduction": "companions/fluent/books/joel/introduction.md", "chapters": ["companions/fluent/chapters/joel/02.md"]},
+    {"book": "Amos", "introduction": "companions/fluent/books/amos/introduction.md", "chapters": ["companions/fluent/chapters/amos/05.md"]},
+    {"book": "Micah", "introduction": "companions/fluent/books/micah/introduction.md", "chapters": ["companions/fluent/chapters/micah/06.md"]},
+    {"book": "Nahum", "introduction": "companions/fluent/books/nahum/introduction.md", "chapters": ["companions/fluent/chapters/nahum/03.md"]},
+    {"book": "Habakkuk", "introduction": "companions/fluent/books/habakkuk/introduction.md", "chapters": ["companions/fluent/chapters/habakkuk/02.md"]}
+  ],
+  "human_review": "companions/fluent/reviews/wave05-prophets-review.md"
+}

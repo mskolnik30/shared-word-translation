@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "project": "Fluent Companion",
+  "edition": "first-edition-candidate",
+  "completion_definition": "A source-locked book introduction and at least one substantive chapter companion for every book in the 66-book Protestant canon. Additional complete-book and cross-genre records remain part of the edition.",
+  "canonical_books": 66,
+  "minimum_representative_chapters": 66,
+  "publication_status": "blocked_pending_human_gates",
+  "batches": [
+    {"id": "philippians-pilot", "status": "DRAFTED_REVIEW_REQUIRED", "books": 1, "chapters": 4, "manifest": "companions/fluent/manifests/philippians-pilot.json"},
+    {"id": "wave01", "status": "DRAFTED_REVIEW_REQUIRED", "books": 4, "chapters": 18, "manifest": "companions/fluent/manifests/wave01.json"},
+    {"id": "wave02-short-books", "status": "DRAFTED_REVIEW_REQUIRED", "books": 5, "chapters": 5, "manifest": "companions/fluent/manifests/wave02-short-books.json"},
+    {"id": "cross-genre-calibration", "status": "CALIBRATION_REVIEW_REQUIRED", "books": 5, "chapters": 5, "manifest": "companions/fluent/manifests/calibration.json"},
+    {"id": "wave03-torah-history", "status": "DRAFTED_REVIEW_REQUIRED", "books": 10, "chapters": 10, "manifest": "companions/fluent/manifests/wave03-torah-history.json"},
+    {"id": "wave04-history-writings", "status": "DRAFTED_REVIEW_REQUIRED", "books": 10, "chapters": 10, "manifest": "companions/fluent/manifests/wave04-history-writings.json"},
+    {"id": "wave05-prophets", "status": "DRAFTED_REVIEW_REQUIRED", "books": 10, "chapters": 10, "manifest": "companions/fluent/manifests/wave05-prophets.json"},
+    {"id": "wave06-prophets-gospels", "status": "PLANNED", "books": 10, "chapters": 10, "manifest": "companions/fluent/manifests/wave06-prophets-gospels.json"},
+    {"id": "wave07-letters", "status": "PLANNED", "books": 11, "chapters": 11, "manifest": "companions/fluent/manifests/wave07-letters.json"}
+  ],
+  "human_gates": [
+    "structural",
+    "textual",
+    "exegetical",
+    "interpretive",
+    "formation_and_pastoral_safety",
+    "audience_and_accessibility",
+    "publication_verification"
+  ],
+  "machine_approval_prohibited": true
+}

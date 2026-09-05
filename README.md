@@ -64,3 +64,9 @@ Draft TSW Study Companion batches have a separate audit. Passing it confirms str
 python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json
 python tools/audit_companion_batch.py companions/tsw-study/manifests/batch02.json
 ```
+
+Unpublished Fluent Companion candidates use a separate audit for template structure, exact QA-passed source locks, manifest coverage, placeholder leakage, duplicated prose, and deterministic safety-language checks. A passing result does not replace human content, formation, accessibility, or publication review:
+
+```bash
+python3 tools/audit_fluent_companion.py
+```

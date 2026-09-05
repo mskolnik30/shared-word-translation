@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "resource": "fluent-companion",
+  "batch": "wave04-history-writings",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "publication_status": "unpublished",
+  "template_version": "1.0",
+  "books": [
+    {"book": "1 Chronicles", "introduction": "companions/fluent/books/1-chronicles/introduction.md", "chapters": ["companions/fluent/chapters/1-chronicles/21.md"]},
+    {"book": "2 Chronicles", "introduction": "companions/fluent/books/2-chronicles/introduction.md", "chapters": ["companions/fluent/chapters/2-chronicles/07.md"]},
+    {"book": "Ezra", "introduction": "companions/fluent/books/ezra/introduction.md", "chapters": ["companions/fluent/chapters/ezra/09.md"]},
+    {"book": "Nehemiah", "introduction": "companions/fluent/books/nehemiah/introduction.md", "chapters": ["companions/fluent/chapters/nehemiah/05.md"]},
+    {"book": "Esther", "introduction": "companions/fluent/books/esther/introduction.md", "chapters": ["companions/fluent/chapters/esther/09.md"]},
+    {"book": "Job", "introduction": "companions/fluent/books/job/introduction.md", "chapters": ["companions/fluent/chapters/job/01.md"]},
+    {"book": "Proverbs", "introduction": "companions/fluent/books/proverbs/introduction.md", "chapters": ["companions/fluent/chapters/proverbs/31.md"]},
+    {"book": "Ecclesiastes", "introduction": "companions/fluent/books/ecclesiastes/introduction.md", "chapters": ["companions/fluent/chapters/ecclesiastes/03.md"]},
+    {"book": "Song of Songs", "introduction": "companions/fluent/books/song-of-songs/introduction.md", "chapters": ["companions/fluent/chapters/song-of-songs/02.md"]},
+    {"book": "Isaiah", "introduction": "companions/fluent/books/isaiah/introduction.md", "chapters": ["companions/fluent/chapters/isaiah/07.md"]}
+  ],
+  "human_review": "companions/fluent/reviews/wave04-history-writings-review.md"
+}
