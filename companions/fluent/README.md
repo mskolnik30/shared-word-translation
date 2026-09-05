@@ -17,7 +17,7 @@ Each chapter follows the locked Template 1.0 rhythm:
 
 All material in this directory is an unpublished candidate until its individual and batch review gates are approved by a human editor. Machine audits may detect structural, binding, duplication, and safety-language problems; they cannot approve theology, formation, accessibility, or publication.
 
-The first-edition build currently contains complete-book candidates for Jonah, Ruth, James, 1 John, and Philippians; the one-chapter books Obadiah, Philemon, 2 John, 3 John, and Jude; five cross-genre calibration chapters; and representative chapters for 30 additional books across Torah, history, wisdom, and the prophets. Canonical coverage is 45 of 66 books, with Waves 06–07 still in production.
+The first-edition candidate text is complete: all 66 canonical books have a source-locked book introduction and at least one substantive chapter companion. The build contains 83 chapter companions, including complete-book candidates for Jonah, Ruth, James, 1 John, and Philippians; the one-chapter books Obadiah, Philemon, 2 John, 3 John, and Jude; five cross-genre calibration chapters; and representative chapters for the remaining books. Human review and publication approval have not been performed.
 
 ## Paths
 
@@ -29,4 +29,4 @@ The first-edition build currently contains complete-book candidates for Jonah, R
 
 Run `python3 tools/audit_fluent_companion.py` from the repository root before requesting editorial review.
 
-Run `python3 tools/audit_fluent_companion_coverage.py` to check the 66-book first-edition completion gate. It intentionally fails until every canonical book has both a book guide and at least one chapter companion.
+Run `python3 tools/audit_fluent_companion_coverage.py` to check the 66-book first-edition completion gate. Passing coverage confirms only that every canonical book has both a book guide and at least one chapter companion; it does not authorize publication.

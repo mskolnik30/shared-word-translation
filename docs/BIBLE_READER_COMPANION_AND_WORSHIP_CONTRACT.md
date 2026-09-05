@@ -49,5 +49,5 @@ Providers should expose stable IDs, public labels, translation affinity, cross-t
 
 - TSW Study Companion: first-edition text approved, 70 dossiers.
 - TSW Study unfinished visuals: 50 blocked and excluded.
-- Fluent Companion: maintained outside this repository; connect through the provider boundary.
+- Fluent Companion: first-edition candidate text is present under `companions/fluent`; human review and publication remain blocked.
 - Shared Biblical World: foundation registry only; publish individual records only after their evidence and rights gates pass.
