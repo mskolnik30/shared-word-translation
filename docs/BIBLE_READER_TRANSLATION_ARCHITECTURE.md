@@ -1,4 +1,4 @@
-# Church Commons Bible Reader: Translation Architecture v1
+# Church Commons Bible Reader: Translation and Companion Architecture v2
 
 ## Outcome
 
@@ -21,9 +21,11 @@ Until the two-translation reader passes staging and production QA, `tsw` remains
 
 ## Resolution and safety
 
-Every passage request resolves this tuple:
+Every passage surface resolves this state:
 
-`translation + testament + book slug + chapter + optional verse range`
+`passage + translation + reading help + presentation context`
+
+The passage contains testament, book slug, chapter, and optional verse range. Translation, reading help, and presentation are independent: changing one must not silently change the others.
 
 The resolver must:
 
@@ -44,6 +46,11 @@ The registry also declares the small number of source-driven public verse-label 
 Translation choice must be shareable. Use the stable query parameter:
 
 `?translation=fluent`
+
+Companion and presentation choices may also be shared:
+
+- `?companion=tsw-study`
+- `?context=worship`
 
 A switch must preserve the current book, chapter, and verse range. A copied URL must reopen the same passage and translation in a new browser.
 
@@ -77,7 +84,10 @@ Requirements:
 | --- | --- |
 | Main Bible Reader | Visible TSW/Fluent selector; preserve the complete reference when switching |
 | Interactive passage block | Visible selector unless the author intentionally locks the translation |
-| Worship, presenter, course, and resource creation tools | Creator selects the translation when inserting a passage |
+| Worship page | Compact translation choice and one closed “Explore passage” action |
+| Worship planning | Full translation, notes, vocabulary, and companion controls |
+| Worship display or projection | Scripture and a small translation label; no companion or study controls |
+| Course and resource creation tools | Creator may select or deliberately leave translation to the reader |
 | Fixed quotation in an article or lesson | Preserve the author's chosen wording; label the translation; link the reference to the reader |
 | Legacy `[tsw]` embed | Keep TSW fixed; no silent migration |
 
@@ -89,14 +99,23 @@ Translation switching and companion switching are separate controls. TSW and Flu
 
 Both companions may reference stable records from `resources/biblical-world/` for people, places, historical settings, maps, timelines, artifacts, and images. Shared records own factual identity, provenance, rights, and uncertainty labels. Companion pages may provide different interpretive framing without duplicating those underlying assets.
 
-TSW Study Companion dossiers remain unpublished while their manifest status is `DRAFTED_REVIEW_REQUIRED` or their review record says `BLOCKED_PENDING_HUMAN_REVIEW`.
+The first-edition TSW Study Companion text is approved: seven batches, seventy dossiers, all sixty-six books represented, plus four additional high-stakes dossiers. Its fifty unfinished visual requests remain blocked and must not be bundled or displayed until each passes its own accuracy, evidence, provenance, rights, caption, and alternative-text review.
+
+A companion has an affinity, not a lock. TSW Study may be opened beside Fluent, and Fluent Companion may be opened beside TSW. When wording-specific observations depend on the companion's home translation, the interface should name that fact briefly without preventing cross-use.
 
 ## Interface language
 
 The selector should identify both name and posture without ranking readers:
 
-- **TSW · Close Reading**
-- **Fluent · Natural Reading**
+- **TSW · Study & Discuss**
+- **Fluent · Read & Reflect**
+
+Reading-help labels:
+
+- **Just the text** — no companion
+- **Understand the Passage** — Fluent Companion
+- **Explore Interpretation** — TSW Study Companion
+- **People, Places & Context** — shared Biblical World resources
 
 An adjacent help link should lead to the translation comparison page. Avoid “literal vs. easy,” “scholarly vs. devotional,” or “advanced vs. beginner.”
 
@@ -141,6 +160,15 @@ The first release is ready when:
 - caches do not mix TSW and Fluent output for the same reference;
 - the translation comparison, TSW, and Fluent landing pages are published.
 
+For companion-aware releases, also require:
+
+- translation and companion choices can change independently;
+- ordinary reading and worship never open a companion automatically;
+- worship display contains no companion or study controls;
+- only approved companion text is exposed;
+- blocked visuals remain absent;
+- legacy TSW-only embeds remain unchanged.
+
 ## Rollout sequence
 
 1. Mirror the repository with `translations/registry.json` and both complete corpora.
@@ -153,3 +181,6 @@ The first release is ready when:
 8. Release the reader selector on the main Bible Reader.
 9. Extend translation selection to other interactive Church Commons passage surfaces.
 10. Review evidence before changing the default for new sessions.
+11. Add independent companion selection and publish approved TSW Study text.
+12. Connect Worship through the shared passage renderer with quiet, planning, and display contexts.
+13. Register Fluent Companion and approved shared Biblical World records through provider interfaces rather than copying them into a translation.
