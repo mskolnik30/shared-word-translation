@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch04",
+  "batch_number": 4,
+  "title": "TSW Study Companion Batch 4",
+  "status": "APPROVED_FOR_PUBLICATION",
+  "dossier_count": 10,
+  "content_notice_required": [
+    "tsw-study-2-kings-2-23-25",
+    "tsw-study-1-chronicles-21-1-17",
+    "tsw-study-2-chronicles-7-11-16",
+    "tsw-study-ezra-9-1-10-44",
+    "tsw-study-nehemiah-5-1-13",
+    "tsw-study-colossians-3-18-4-1",
+    "tsw-study-1-thessalonians-4-13-18",
+    "tsw-study-2-thessalonians-2-1-12",
+    "tsw-study-1-timothy-2-8-15",
+    "tsw-study-2-timothy-3-14-17"
+  ],
+  "required_sections": [
+    "First Look",
+    "Why This Matters",
+    "Look Closely",
+    "More Than One Reading",
+    "Across Christian History",
+    "Power and Consequences",
+    "Consider Together",
+    "Shared Biblical World",
+    "Continue Exploring",
+    "Sources and Further Study"
+  ],
+  "dossiers": [
+    {
+      "id": "tsw-study-2-kings-2-23-25",
+      "book": "2 Kings",
+      "passage": "2 Kings 2:23-25",
+      "file": "companions/tsw-study/dossiers/2-kings-2-23-25.md",
+      "tsw_source": "books/OT/2kings/2Kings_02.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The Hebrew *ne'arim qetannim* can describe youths, attendants, or socially subordinate young people; it does not settle whether they were small children. 'Go up, baldhead' may mock Elisha's appearance, Elijah's ascent, or his prophetic claim.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-1-chronicles-21-1-17",
+      "book": "1 Chronicles",
+      "passage": "1 Chronicles 21:1-17",
+      "file": "companions/tsw-study/dossiers/1-chronicles-21-1-17.md",
+      "tsw_source": "books/OT/1chronicles/1Chronicles_21.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "Chronicles says 'a satan' or 'Satan' stood against Israel, where 2 Samuel 24 attributes the incitement to the LORD's anger. The absence of an article permits debate about whether a personal proper name or an adversarial figure is intended.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-2-chronicles-7-11-16",
+      "book": "2 Chronicles",
+      "passage": "2 Chronicles 7:11-16",
+      "file": "companions/tsw-study/dossiers/2-chronicles-7-11-16.md",
+      "tsw_source": "books/OT/2chronicles/2Chronicles_07.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "'My people who are called by my name' refers first to covenant Israel, and 'their land' belongs to the promise and temple theology of Chronicles. Moving the verse directly to a modern nation changes its grammatical and historical subjects.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-ezra-9-1-10-44",
+      "book": "Ezra",
+      "passage": "Ezra 9:1-10:44",
+      "file": "companions/tsw-study/dossiers/ezra-9-1-10-44.md",
+      "tsw_source": "books/OT/ezra/Ezra_09.md",
+      "additional_tsw_sources": [
+        "books/OT/ezra/Ezra_10.md"
+      ],
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The key term is 'holy seed,' language not used elsewhere to command ethnic purity in marriage. The text frames the crisis through covenant unfaithfulness and selected prohibited peoples, yet its list and solution exceed a simple repetition of Deuteronomy.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-nehemiah-5-1-13",
+      "book": "Nehemiah",
+      "passage": "Nehemiah 5:1-13",
+      "file": "companions/tsw-study/dossiers/nehemiah-5-1-13.md",
+      "tsw_source": "books/OT/nehemiah/Nehemiah_05.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The Hebrew cry is communal and repeated, giving economic testimony narrative authority. The prohibited *mashsha* may include interest or an added charge; the remedy goes beyond ending future extraction to returning what was taken.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-colossians-3-18-4-1",
+      "book": "Colossians",
+      "passage": "Colossians 3:18-4:1",
+      "file": "companions/tsw-study/dossiers/colossians-3-18-4-1.md",
+      "tsw_source": "books/NT/colossians/Colossians_03.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The code tells husbands not to be harsh and fathers not to provoke children, but it gives enslaved people the longest instruction while leaving the institution of slavery intact. 'What is just and equal' challenges masters without dissolving ownership.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-1-thessalonians-4-13-18",
+      "book": "1 Thessalonians",
+      "passage": "1 Thessalonians 4:13-18",
+      "file": "companions/tsw-study/dossiers/1-thessalonians-4-13-18.md",
+      "tsw_source": "books/NT/1thessalonians/1Thessalonians_04.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The Greek *apantesis*, 'meeting,' can describe a delegation going out to welcome a dignitary and escort that person onward. The text does not explicitly say the gathered community permanently leaves earth.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-2-thessalonians-2-1-12",
+      "book": "2 Thessalonians",
+      "passage": "2 Thessalonians 2:1-12",
+      "file": "companions/tsw-study/dossiers/2-thessalonians-2-1-12.md",
+      "tsw_source": "books/NT/2thessalonians/2Thessalonians_02.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The 'one who restrains' shifts between neuter and masculine forms, and the author never identifies it. Proposals include Roman order, an angel, apostolic preaching, or God's own restraint; certainty is not available from the grammar.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-1-timothy-2-8-15",
+      "book": "1 Timothy",
+      "passage": "1 Timothy 2:8-15",
+      "file": "companions/tsw-study/dossiers/1-timothy-2-8-15.md",
+      "tsw_source": "books/NT/1timothy/1Timothy_02.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The rare verb *authentein* occurs nowhere else in the New Testament and can suggest exercising authority, assuming authority, or domineering. 'Quietness' is the same valued settled posture requested of the whole community earlier, not necessarily absolute silence.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-2-timothy-3-14-17",
+      "book": "2 Timothy",
+      "passage": "2 Timothy 3:14-17",
+      "file": "companions/tsw-study/dossiers/2-timothy-3-14-17.md",
+      "tsw_source": "books/NT/2timothy/2Timothy_03.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "*Theopneustos* means God-breathed or breathed out by God; the verse describes Scripture's character and usefulness but does not itself define a modern theory of inerrancy, canon boundaries, or interpretation.",
+        "reception, power, and harm"
+      ]
+    }
+  ],
+  "review_manifest": "audit/tsw-study/batch04_review.json"
+}

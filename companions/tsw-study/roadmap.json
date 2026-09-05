@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "project": "TSW Study Companion",
+  "completion_definition": "At least one substantial study dossier for every book in the 66-book Protestant canon, plus four additional dossiers for passages with exceptional interpretive stakes.",
+  "canonical_books": 66,
+  "target_dossiers": 70,
+  "batch_size": 10,
+  "batches": [
+    {
+      "batch": 1,
+      "id": "tsw-study-batch01",
+      "status": "APPROVED_FOR_PUBLICATION",
+      "dossiers": 10,
+      "manifest": "companions/tsw-study/manifests/batch01.json"
+    },
+    {
+      "batch": 2,
+      "id": "tsw-study-batch02",
+      "status": "APPROVED_FOR_PUBLICATION",
+      "dossiers": 10,
+      "manifest": "companions/tsw-study/manifests/batch02.json"
+    },
+    {
+      "batch": 3,
+      "id": "tsw-study-batch03",
+      "status": "APPROVED_FOR_PUBLICATION",
+      "dossiers": 10,
+      "manifest": "companions/tsw-study/manifests/batch03.json"
+    },
+    {
+      "batch": 4,
+      "id": "tsw-study-batch04",
+      "status": "APPROVED_FOR_PUBLICATION",
+      "dossiers": 10,
+      "manifest": "companions/tsw-study/manifests/batch04.json"
+    },
+    {
+      "batch": 5,
+      "id": "tsw-study-batch05",
+      "status": "APPROVED_FOR_PUBLICATION",
+      "dossiers": 10,
+      "manifest": "companions/tsw-study/manifests/batch05.json"
+    },
+    {
+      "batch": 6,
+      "id": "tsw-study-batch06",
+      "status": "APPROVED_FOR_PUBLICATION",
+      "dossiers": 10,
+      "manifest": "companions/tsw-study/manifests/batch06.json"
+    },
+    {
+      "batch": 7,
+      "id": "tsw-study-batch07",
+      "status": "APPROVED_FOR_PUBLICATION",
+      "dossiers": 10,
+      "manifest": "companions/tsw-study/manifests/batch07.json"
+    }
+  ],
+  "publication_policy": "All seven text batches passed the required human gates. Unfinished visuals remain separately blocked until their record-level reviews pass.",
+  "visual_policy": "Every unfinished visual remains individually blocked regardless of text approval.",
+  "completion_visual_ids": [
+    "visual-levitical-holiness-context",
+    "visual-sotah-ritual-sequence",
+    "visual-bethlehem-threshing-floor",
+    "visual-david-sends-takes",
+    "visual-carmel-kishon-region",
+    "visual-pericope-manuscripts",
+    "visual-acts-property-contrast",
+    "visual-reconciliation-agency",
+    "visual-galatians-status-pairs",
+    "visual-ephesians-household-syntax",
+    "visual-jericho-bethel-route",
+    "visual-census-plague-temple",
+    "visual-chronicles-land-covenant",
+    "visual-persian-judah-return",
+    "visual-nehemiah-debt-flow",
+    "visual-colossian-household-voices",
+    "visual-thessalonians-meeting",
+    "visual-lawless-one-interpretations",
+    "visual-authentein-interpretations",
+    "visual-scripture-purpose",
+    "visual-susa-persian-provinces",
+    "visual-job-reader-knowledge",
+    "visual-proverbs31-labor-network",
+    "visual-song-spring-imagery",
+    "visual-jeremiah-lament-movements",
+    "visual-crete-assemblies",
+    "visual-philemon-relationship",
+    "visual-hebrews-warning-encouragement",
+    "visual-1peter-slavery-context",
+    "visual-2peter-text-variants",
+    "visual-lamentations-acrostic",
+    "visual-ezekiel-metaphor-layers",
+    "visual-daniel7-symbol-key",
+    "visual-hosea-sign-names",
+    "visual-joel-social-pairs",
+    "visual-1john-love-claims",
+    "visual-2john-hospitality-decisions",
+    "visual-3john-authority-network",
+    "visual-jude-allusion-network",
+    "visual-romans-olive-tree",
+    "visual-amos-justice-waters",
+    "visual-edom-jerusalem-routes",
+    "visual-micah-threefold-requirement",
+    "visual-nineveh-fall-context",
+    "visual-habakkuk-vision-delay",
+    "visual-zephaniah-book-movement",
+    "visual-haggai-temple-timeline",
+    "visual-zechariah-mourning-groups",
+    "visual-malachi-216-translations",
+    "visual-1cor6-translation-history"
+  ],
+  "consolidated_text_approval": {
+    "date": "2026-09-05",
+    "batches": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "dossiers": 50,
+    "human_gates": 7,
+    "status": "approved"
+  }
+}

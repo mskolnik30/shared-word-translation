@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch05",
+  "batch_number": 5,
+  "title": "TSW Study Companion Batch 5",
+  "status": "APPROVED_FOR_PUBLICATION",
+  "dossier_count": 10,
+  "content_notice_required": [
+    "tsw-study-esther-9-1-16",
+    "tsw-study-job-1-6-2-10",
+    "tsw-study-proverbs-31-10-31",
+    "tsw-study-song-of-songs-2-8-17",
+    "tsw-study-jeremiah-20-7-18",
+    "tsw-study-titus-1-10-16",
+    "tsw-study-philemon-8-21",
+    "tsw-study-hebrews-6-4-12",
+    "tsw-study-1-peter-2-18-25",
+    "tsw-study-2-peter-3-8-13"
+  ],
+  "required_sections": [
+    "First Look",
+    "Why This Matters",
+    "Look Closely",
+    "More Than One Reading",
+    "Across Christian History",
+    "Power and Consequences",
+    "Consider Together",
+    "Shared Biblical World",
+    "Continue Exploring",
+    "Sources and Further Study"
+  ],
+  "dossiers": [
+    {
+      "id": "tsw-study-esther-9-1-16",
+      "book": "Esther",
+      "passage": "Esther 9:1-16",
+      "file": "companions/tsw-study/dossiers/esther-9-1-16.md",
+      "tsw_source": "books/OT/esther/Esther_09.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The narrative repeatedly says the Jews did not lay hands on plunder, distinguishing defense and vengeance from Haman's decree, which had authorized killing and spoil. Yet the reported death toll and extended violence remain morally disturbing.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-job-1-6-2-10",
+      "book": "Job",
+      "passage": "Job 1:6-2:10",
+      "file": "companions/tsw-study/dossiers/job-1-6-2-10.md",
+      "tsw_source": "books/OT/job/Job_01.md",
+      "additional_tsw_sources": [
+        "books/OT/job/Job_02.md"
+      ],
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "Here *has-satan* has the article and means the accuser or adversary, a role in the divine court rather than necessarily the fully developed later figure of Satan. The prose tale withholds causal knowledge from every human character.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-proverbs-31-10-31",
+      "book": "Proverbs",
+      "passage": "Proverbs 31:10-31",
+      "file": "companions/tsw-study/dossiers/proverbs-31-10-31.md",
+      "tsw_source": "books/OT/proverbs/Proverbs_31.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "*Hayil* can mean strength, wealth, competence, or valor and is not adequately captured by passive 'virtue.' The acrostic's completeness is poetic praise, not a daily checklist for every woman.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-song-of-songs-2-8-17",
+      "book": "Song of Songs",
+      "passage": "Song of Songs 2:8-17",
+      "file": "companions/tsw-study/dossiers/song-of-songs-2-8-17.md",
+      "tsw_source": "books/OT/songofsongs/SongOfSongs_02.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "Speaker changes are not marked in the Hebrew text and must be inferred. 'My beloved is mine and I am his' expresses reciprocity, while the final verse's mountains may be mountains of separation or a sensuous image.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-jeremiah-20-7-18",
+      "book": "Jeremiah",
+      "passage": "Jeremiah 20:7-18",
+      "file": "companions/tsw-study/dossiers/jeremiah-20-7-18.md",
+      "tsw_source": "books/OT/jeremiah/Jeremiah_20.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The opening verb can mean entice, persuade, or deceive; the paired verb says God was stronger and prevailed. Jeremiah's language is intentionally shocking and includes imagery elsewhere used for sexual overpowering, though the poem is not a literal report of sexual assault.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-titus-1-10-16",
+      "book": "Titus",
+      "passage": "Titus 1:10-16",
+      "file": "companions/tsw-study/dossiers/titus-1-10-16.md",
+      "tsw_source": "books/NT/titus/Titus_01.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The hexameter saying is traditionally associated with Epimenides. Calling the speaker 'one of their own prophets' makes the rhetoric an insider quotation, but the following 'this testimony is true' still generalizes dangerously.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-philemon-8-21",
+      "book": "Philemon",
+      "passage": "Philemon 8-21",
+      "file": "companions/tsw-study/dossiers/philemon-8-21.md",
+      "tsw_source": "books/NT/philemon/Philemon_01.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The letter never explicitly commands manumission and never labels Onesimus a runaway. 'More than a slave' can imply transformed relationship, freedom, or both; interpreters should not convert possibility into certainty.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-hebrews-6-4-12",
+      "book": "Hebrews",
+      "passage": "Hebrews 6:4-12",
+      "file": "companions/tsw-study/dossiers/hebrews-6-4-12.md",
+      "tsw_source": "books/NT/hebrews/Hebrews_06.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The participles describe profound communal experience. The phrase translated 'if they fall away' can be read as another participle, 'and having fallen away,' making the warning rhetorically stark rather than a hypothetical grammar exercise.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-1-peter-2-18-25",
+      "book": "1 Peter",
+      "passage": "1 Peter 2:18-25",
+      "file": "companions/tsw-study/dossiers/1-peter-2-18-25.md",
+      "tsw_source": "books/NT/1peter/1Peter_02.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The addressees are *oiketai*, household slaves or servants, not modern employees with equal contractual freedom. Translating the term only as 'servants' can hide ownership and bodily vulnerability.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-2-peter-3-8-13",
+      "book": "2 Peter",
+      "passage": "2 Peter 3:8-13",
+      "file": "companions/tsw-study/dossiers/2-peter-3-8-13.md",
+      "tsw_source": "books/NT/2peter/2Peter_03.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "A major textual variant in verse 10 says the earth and its works will be 'found' or 'exposed'; later witnesses support 'burned up.' The difference matters for whether the image suggests disclosure and transformation or total destruction.",
+        "reception, power, and harm"
+      ]
+    }
+  ],
+  "review_manifest": "audit/tsw-study/batch05_review.json"
+}

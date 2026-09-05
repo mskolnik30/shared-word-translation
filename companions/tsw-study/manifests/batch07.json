@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch07",
+  "batch_number": 7,
+  "title": "TSW Study Companion Batch 7",
+  "status": "APPROVED_FOR_PUBLICATION",
+  "dossier_count": 10,
+  "content_notice_required": [
+    "tsw-study-amos-5-21-24",
+    "tsw-study-obadiah-10-21",
+    "tsw-study-micah-6-6-8",
+    "tsw-study-nahum-3-1-7",
+    "tsw-study-habakkuk-2-1-4",
+    "tsw-study-zephaniah-1-14-18",
+    "tsw-study-haggai-2-6-9",
+    "tsw-study-zechariah-12-10-14",
+    "tsw-study-malachi-2-10-16",
+    "tsw-study-1-corinthians-6-9-11"
+  ],
+  "required_sections": [
+    "First Look",
+    "Why This Matters",
+    "Look Closely",
+    "More Than One Reading",
+    "Across Christian History",
+    "Power and Consequences",
+    "Consider Together",
+    "Shared Biblical World",
+    "Continue Exploring",
+    "Sources and Further Study"
+  ],
+  "dossiers": [
+    {
+      "id": "tsw-study-amos-5-21-24",
+      "book": "Amos",
+      "passage": "Amos 5:21-24",
+      "file": "companions/tsw-study/dossiers/amos-5-21-24.md",
+      "tsw_source": "books/OT/amos/Amos_05.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The first-person verbs are deliberately forceful: hate, reject, refuse to smell, refuse to look, refuse to hear. *Mishpat* and *tsedaqah* concern right public order and faithful relationship, not private kindness alone.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-obadiah-10-21",
+      "book": "Obadiah",
+      "passage": "Obadiah 10-21",
+      "file": "companions/tsw-study/dossiers/obadiah-10-21.md",
+      "tsw_source": "books/OT/obadiah/Obadiah_01.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The repeated 'do not' clauses create a moral anatomy of complicity: watching, rejoicing, boasting, entering, looting, cutting off escape, and handing over survivors. Brotherhood language intensifies Edom's betrayal.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-micah-6-6-8",
+      "book": "Micah",
+      "passage": "Micah 6:6-8",
+      "file": "companions/tsw-study/dossiers/micah-6-6-8.md",
+      "tsw_source": "books/OT/micah/Micah_06.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The final Hebrew phrase is often rendered 'walk humbly,' but its rare verb may suggest walking carefully or wisely. *Hesed* is steadfast relational loyalty, and doing *mishpat* demands action in public relationships.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-nahum-3-1-7",
+      "book": "Nahum",
+      "passage": "Nahum 3:1-7",
+      "file": "companions/tsw-study/dossiers/nahum-3-1-7.md",
+      "tsw_source": "books/OT/nahum/Nahum_03.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "Prophetic city-laments often feminize capitals, but here the metaphor joins prostitution accusation, lifted skirts, filth, and spectacle. The rhetoric celebrates imperial reversal through a gendered form of humiliation.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-habakkuk-2-1-4",
+      "book": "Habakkuk",
+      "passage": "Habakkuk 2:1-4",
+      "file": "companions/tsw-study/dossiers/habakkuk-2-1-4.md",
+      "tsw_source": "books/OT/habakkuk/Habakkuk_02.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "Hebrew *emunah* can mean faithfulness, steadiness, or trust. The attached pronoun may refer to the righteous person's fidelity or, in some textual traditions and readings, God's faithfulness.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-zephaniah-1-14-18",
+      "book": "Zephaniah",
+      "passage": "Zephaniah 1:14-18",
+      "file": "companions/tsw-study/dossiers/zephaniah-1-14-18.md",
+      "tsw_source": "books/OT/zephaniah/Zephaniah_01.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The poem accumulates sound and darkness vocabulary to create terror. 'Against the LORD they sinned' supplies its theological claim, while the totalizing language belongs to prophetic judgment rhetoric.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-haggai-2-6-9",
+      "book": "Haggai",
+      "passage": "Haggai 2:6-9",
+      "file": "companions/tsw-study/dossiers/haggai-2-6-9.md",
+      "tsw_source": "books/OT/haggai/Haggai_02.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The Hebrew phrase can mean the treasure or desirable things of all nations, not necessarily a singular messianic 'Desire of Nations.' Silver and gold are claimed as God's, relativizing both Persian and local ownership.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-zechariah-12-10-14",
+      "book": "Zechariah",
+      "passage": "Zechariah 12:10-14",
+      "file": "companions/tsw-study/dossiers/zechariah-12-10-14.md",
+      "tsw_source": "books/OT/zechariah/Zechariah_12.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The Hebrew can be rendered 'look to me whom they pierced' or understood with a shift from God to the pierced figure. Ancient versions and manuscripts reflect the difficulty, and the figure is not explicitly named.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-malachi-2-10-16",
+      "book": "Malachi",
+      "passage": "Malachi 2:10-16",
+      "file": "companions/tsw-study/dossiers/malachi-2-10-16.md",
+      "tsw_source": "books/OT/malachi/Malachi_02.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "Verse 16 is one of the Hebrew Bible's most difficult lines. 'I hate divorce, says the LORD' reflects one reconstruction; other translations make the husband who hates and divorces the grammatical subject and connect violence to his garment.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-1-corinthians-6-9-11",
+      "book": "1 Corinthians",
+      "passage": "1 Corinthians 6:9-11",
+      "file": "companions/tsw-study/dossiers/1-corinthians-6-9-11.md",
+      "tsw_source": "books/NT/1corinthians/1Corinthians_06.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The rare terms *malakoi* and *arsenokoitai* are disputed. *Malakos* literally means soft and carried gendered moral associations; *arsenokoit\u0113s* may echo Greek Leviticus but its exact social referent is not established by etymology alone.",
+        "reception, power, and harm"
+      ]
+    }
+  ],
+  "review_manifest": "audit/tsw-study/batch07_review.json"
+}

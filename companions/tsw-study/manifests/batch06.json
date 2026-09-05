@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch06",
+  "batch_number": 6,
+  "title": "TSW Study Companion Batch 6",
+  "status": "APPROVED_FOR_PUBLICATION",
+  "dossier_count": 10,
+  "content_notice_required": [
+    "tsw-study-lamentations-3-1-33",
+    "tsw-study-ezekiel-16-1-63",
+    "tsw-study-daniel-7-1-28",
+    "tsw-study-hosea-1-2-3-5",
+    "tsw-study-joel-2-28-32",
+    "tsw-study-1-john-4-7-21",
+    "tsw-study-2-john-7-11",
+    "tsw-study-3-john-5-12",
+    "tsw-study-jude-5-13",
+    "tsw-study-romans-9-1-11-36"
+  ],
+  "required_sections": [
+    "First Look",
+    "Why This Matters",
+    "Look Closely",
+    "More Than One Reading",
+    "Across Christian History",
+    "Power and Consequences",
+    "Consider Together",
+    "Shared Biblical World",
+    "Continue Exploring",
+    "Sources and Further Study"
+  ],
+  "dossiers": [
+    {
+      "id": "tsw-study-lamentations-3-1-33",
+      "book": "Lamentations",
+      "passage": "Lamentations 3:1-33",
+      "file": "companions/tsw-study/dossiers/lamentations-3-1-33.md",
+      "tsw_source": "books/OT/lamentations/Lamentations_03.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The Hebrew acrostic orders anguish without resolving it. 'Great is your faithfulness' stands inside, not outside, testimony that the speaker experiences God as attacker.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-ezekiel-16-1-63",
+      "book": "Ezekiel",
+      "passage": "Ezekiel 16:1-63",
+      "file": "companions/tsw-study/dossiers/ezekiel-16-1-63.md",
+      "tsw_source": "books/OT/ezekiel/Ezekiel_16.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The chapter's extended metaphor combines personified city, female body, marriage, prostitution, and imperial alliance. Metaphor does not neutralize the graphic humiliation; its rhetoric depends on gendered violence recognizable to hearers.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-daniel-7-1-28",
+      "book": "Daniel",
+      "passage": "Daniel 7:1-28",
+      "file": "companions/tsw-study/dossiers/daniel-7-1-28.md",
+      "tsw_source": "books/OT/daniel/Daniel_07.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "Aramaic *bar enash* means a human one or one like a human being in contrast to beastly empires. The vision moves between an individual symbolic figure and the corporate 'holy ones,' making both readings textually grounded.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-hosea-1-2-3-5",
+      "book": "Hosea",
+      "passage": "Hosea 1:2-3:5",
+      "file": "companions/tsw-study/dossiers/hosea-1-2-3-5.md",
+      "tsw_source": "books/OT/hosea/Hosea_01.md",
+      "additional_tsw_sources": [
+        "books/OT/hosea/Hosea_02.md",
+        "books/OT/hosea/Hosea_03.md"
+      ],
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The phrase describing Gomer can mean a woman of prostitution or promiscuity, but the narrative never supplies her perspective or proves later infidelity. In chapter 3, the identity of the woman and relation to chapter 1 remain debated.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-joel-2-28-32",
+      "book": "Joel",
+      "passage": "Joel 2:28-32",
+      "file": "companions/tsw-study/dossiers/joel-2-28-32.md",
+      "tsw_source": "books/OT/joel/Joel_02.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "'All flesh' is unfolded through paired social categories; it does not mean every distinction disappears but that age, gender, and slave status do not restrict prophetic gift. The cosmic signs link gift and crisis.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-1-john-4-7-21",
+      "book": "1 John",
+      "passage": "1 John 4:7-21",
+      "file": "companions/tsw-study/dossiers/1-john-4-7-21.md",
+      "tsw_source": "books/NT/1john/1John_04.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "'God is love' functions inside a christological and communal argument, not as a definition that every intense attachment is divine. The repeated perfecting language concerns love reaching its intended communal action.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-2-john-7-11",
+      "book": "2 John",
+      "passage": "2 John 7-11",
+      "file": "companions/tsw-study/dossiers/2-john-7-11.md",
+      "tsw_source": "books/NT/2john/2John_01.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "In house-based assemblies, receiving a traveling teacher could mean material support, lodging, and public sponsorship, not merely private politeness. The Greek greeting can carry endorsement in that setting.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-3-john-5-12",
+      "book": "3 John",
+      "passage": "3 John 5-12",
+      "file": "companions/tsw-study/dossiers/3-john-5-12.md",
+      "tsw_source": "books/NT/3john/3John_01.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The verb for Diotrephes's conduct depicts seeking preeminence. The letter's authority claims are relational and contested: letters, personal presence, testimony, hospitality, and expulsion all shape who is recognized.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-jude-5-13",
+      "book": "Jude",
+      "passage": "Jude 5-13",
+      "file": "companions/tsw-study/dossiers/jude-5-13.md",
+      "tsw_source": "books/NT/jude/Jude_01.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The letter assumes traditions found in 1 Enoch and the Assumption of Moses. 'Other flesh' in the Sodom sentence is read in light of angel-human boundary crossing by many scholars, complicating its use as a simple statement about same-sex relationships.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-romans-9-1-11-36",
+      "book": "Romans",
+      "passage": "Romans 9:1-11:36",
+      "file": "companions/tsw-study/dossiers/romans-9-1-11-36.md",
+      "tsw_source": "books/NT/romans/Romans_09.md",
+      "additional_tsw_sources": [
+        "books/NT/romans/Romans_10.md",
+        "books/NT/romans/Romans_11.md"
+      ],
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The chapters shift between singular examples and corporate peoples. 'All Israel will be saved' remains disputed, but the olive tree plainly warns Gentile believers that they do not support the Jewish root.",
+        "reception, power, and harm"
+      ]
+    }
+  ],
+  "review_manifest": "audit/tsw-study/batch06_review.json"
+}

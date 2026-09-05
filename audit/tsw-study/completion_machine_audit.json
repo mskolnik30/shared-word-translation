@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "project": "TSW Study Companion first-edition completion drafts",
+  "date": "2026-09-04",
+  "base_state": "Batch Two approved locally; PR 145 requires the approval update before merge",
+  "completion": {
+    "batches": 7,
+    "dossiers": 70,
+    "canonical_books_represented": 66,
+    "additional_high_stakes_dossiers": 4,
+    "new_draft_batches": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "new_draft_dossiers": 50,
+    "new_visual_requests_blocked": 50
+  },
+  "checks": [
+    {
+      "command": "python tools/audit_all_companion_batches.py",
+      "status": "passed",
+      "result": "7 of 7 manifests passed"
+    },
+    {
+      "command": "python tools/audit_tsw_study_coverage.py",
+      "status": "passed",
+      "result": "70 dossiers; 66 books; 4 additional dossiers; 50 completion visuals blocked"
+    },
+    {
+      "command": "python tools/audit_translation_family.py",
+      "status": "passed",
+      "result": "TSW and Fluent each retain 66 books and 1189 chapters"
+    },
+    {
+      "command": "python tools/tsw_format_apparatus.py",
+      "status": "passed",
+      "result": "1189 chapter files validated; 0 changed"
+    },
+    {
+      "command": "git diff --check",
+      "status": "passed",
+      "result": "no whitespace errors"
+    }
+  ],
+  "publication_state": "All seven text batches approved for publication",
+  "visual_state": "All fifty completion visual requests remain blocked and excluded from text approval",
+  "next_human_action": "None; consolidated human review completed 2026-09-05. Commit and run release checks.",
+  "consolidated_human_review": {
+    "date": "2026-09-05",
+    "status": "approved",
+    "batches": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "dossiers": 50,
+    "gates": [
+      "source-language",
+      "historical",
+      "reception",
+      "critical-voices",
+      "power-and-harm",
+      "public-language",
+      "visual-evidence-controls"
+    ],
+    "visual_exclusion": "Accuracy and rights of unfinished visuals were not approved."
+  }
+}
