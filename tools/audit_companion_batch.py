@@ -175,6 +175,14 @@ def audit(manifest_path: Path) -> list[str]:
             continue
         if not tsw_source.is_file():
             errors.append(f"{dossier_id}: missing TSW source {entry.get('tsw_source')}")
+        for additional_source_value in entry.get("additional_tsw_sources", []):
+            try:
+                additional_source = resolve_repo_path(additional_source_value)
+            except ValueError as exc:
+                errors.append(f"{dossier_id}: invalid additional TSW source: {exc}")
+                continue
+            if not additional_source.is_file():
+                errors.append(f"{dossier_id}: missing additional TSW source {additional_source_value}")
 
         text = dossier_path.read_text(encoding="utf-8")
         front = parse_front_matter(text)

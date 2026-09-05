@@ -43,3 +43,6 @@ Approval of a text dossier does not approve unfinished visuals. A dossier may be
 
 - **Batch One:** ten dossiers approved for text publication; unfinished visuals remain individually blocked.
 - **Batch Two:** ten dossiers approved for text publication through one consolidated review; unfinished visuals remain individually blocked.
+- **Batches Three–Seven:** fifty dossiers approved for text publication through one consolidated seven-gate review; every unfinished visual remains individually blocked.
+
+The machine-readable completion definition and batch ledger are in `roadmap.json`. Run both `python tools/audit_all_companion_batches.py` and `python tools/audit_tsw_study_coverage.py` before review or release.

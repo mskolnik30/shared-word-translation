@@ -1,72 +1,1473 @@
 {
   "schema_version": 1,
   "records": [
-    {"id":"person-abraham","type":"person","label":"Abraham","status":"shared-record-needed"},
-    {"id":"person-isaac","type":"person","label":"Isaac","status":"shared-record-needed"},
-    {"id":"person-moses","type":"person","label":"Moses","status":"shared-record-needed"},
-    {"id":"person-rahab","type":"person","label":"Rahab","status":"shared-record-needed"},
-    {"id":"person-isaiah","type":"person","label":"Isaiah","status":"shared-record-needed"},
-    {"id":"person-ahaz","type":"person","label":"Ahaz","status":"shared-record-needed"},
-    {"id":"person-jesus","type":"person","label":"Jesus","status":"shared-record-needed"},
-    {"id":"person-simon-peter","type":"person","label":"Simon Peter","status":"shared-record-needed"},
-    {"id":"person-paul","type":"person","label":"Paul","status":"shared-record-needed"},
-    {"id":"person-unnamed-woman-judges-19","type":"person","label":"The unnamed woman in Judges 19","status":"shared-record-needed"},
-    {"id":"person-saul","type":"person","label":"Saul","status":"shared-record-needed"},
-    {"id":"person-samuel","type":"person","label":"Samuel","status":"shared-record-needed"},
-    {"id":"person-jonah","type":"person","label":"Jonah","status":"shared-record-needed"},
-    {"id":"person-syrophoenician-woman","type":"person","label":"The Syrophoenician woman","status":"shared-record-needed"},
-    {"id":"person-martha","type":"person","label":"Martha","status":"shared-record-needed"},
-    {"id":"person-mary-luke-10","type":"person","label":"Mary in Luke 10","status":"shared-record-needed"},
-    {"id":"person-james","type":"person","label":"James","status":"shared-record-needed"},
-    {"id":"place-philippi","type":"place","label":"Philippi","status":"shared-record-needed"},
-    {"id":"place-moriah","type":"place","label":"The land of Moriah","status":"shared-record-needed"},
-    {"id":"place-horeb-sinai","type":"place","label":"Horeb / Sinai","status":"shared-record-needed"},
-    {"id":"place-jericho","type":"place","label":"Jericho / Tell es-Sultan","status":"shared-record-needed"},
-    {"id":"place-jerusalem","type":"place","label":"Jerusalem","status":"shared-record-needed"},
-    {"id":"place-caesarea-philippi","type":"place","label":"Caesarea Philippi","status":"shared-record-needed"},
-    {"id":"place-rome","type":"place","label":"Rome","status":"shared-record-needed"},
-    {"id":"place-corinth","type":"place","label":"Corinth","status":"shared-record-needed"},
-    {"id":"place-gibeah","type":"place","label":"Gibeah","status":"shared-record-needed"},
-    {"id":"place-nineveh","type":"place","label":"Nineveh","status":"shared-record-needed"},
-    {"id":"place-tyre-region","type":"place","label":"The region of Tyre","status":"shared-record-needed"},
-    {"id":"context-roman-status","type":"context","label":"Status and benefaction in the Roman world","status":"shared-record-needed"},
-    {"id":"context-ancient-royal-image","type":"context","label":"Royal image language in the ancient Near East","status":"shared-record-needed"},
-    {"id":"context-child-sacrifice","type":"context","label":"Child sacrifice and firstborn offerings","status":"shared-record-needed"},
-    {"id":"context-divine-name","type":"context","label":"The divine name in Jewish and Christian tradition","status":"shared-record-needed"},
-    {"id":"context-ancient-war-rhetoric","type":"context","label":"Ancient war rhetoric and the ban","status":"shared-record-needed"},
-    {"id":"context-crucifixion","type":"context","label":"Roman crucifixion","status":"shared-record-needed"},
-    {"id":"context-syro-ephraimite-crisis","type":"context","label":"The Syro-Ephraimite crisis","status":"shared-record-needed"},
-    {"id":"context-second-temple-atonement","type":"context","label":"Atonement and the sanctuary in Second Temple Judaism","status":"shared-record-needed"},
-    {"id":"context-corinthian-assembly","type":"context","label":"Speech and order in the Corinthian assembly","status":"shared-record-needed"},
-    {"id":"context-deuteronomic-sexual-laws","type":"context","label":"Sex, marriage, and status in Deuteronomic law","status":"shared-record-needed"},
-    {"id":"context-gendered-violence-judges","type":"context","label":"Gendered violence and social collapse in Judges","status":"shared-record-needed"},
-    {"id":"context-amalek-memory","type":"context","label":"Amalek, memory, and enemy construction","status":"shared-record-needed"},
-    {"id":"context-wisdom-time","type":"context","label":"Time, season, and human agency in wisdom literature","status":"shared-record-needed"},
-    {"id":"context-assyrian-nineveh","type":"context","label":"Nineveh and Neo-Assyrian imperial memory","status":"shared-record-needed"},
-    {"id":"context-jew-gentile-boundaries","type":"context","label":"Jew-Gentile boundaries in the early Jesus movement","status":"shared-record-needed"},
-    {"id":"context-women-discipleship","type":"context","label":"Women, hospitality, and discipleship in Luke-Acts","status":"shared-record-needed"},
-    {"id":"context-roman-suffering-reconciliation","type":"context","label":"Suffering, benefaction, and reconciliation in Roman assemblies","status":"shared-record-needed"},
-    {"id":"context-faith-and-works","type":"context","label":"Faith, works, poverty, and justification","status":"shared-record-needed"},
-    {"id":"context-millennium-reception","type":"context","label":"The millennium and its reception","status":"shared-record-needed"}
+    {
+      "id": "person-abraham",
+      "type": "person",
+      "label": "Abraham",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-isaac",
+      "type": "person",
+      "label": "Isaac",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-moses",
+      "type": "person",
+      "label": "Moses",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-rahab",
+      "type": "person",
+      "label": "Rahab",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-isaiah",
+      "type": "person",
+      "label": "Isaiah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-ahaz",
+      "type": "person",
+      "label": "Ahaz",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-jesus",
+      "type": "person",
+      "label": "Jesus",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-simon-peter",
+      "type": "person",
+      "label": "Simon Peter",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-paul",
+      "type": "person",
+      "label": "Paul",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-unnamed-woman-judges-19",
+      "type": "person",
+      "label": "The unnamed woman in Judges 19",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-saul",
+      "type": "person",
+      "label": "Saul",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-samuel",
+      "type": "person",
+      "label": "Samuel",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-jonah",
+      "type": "person",
+      "label": "Jonah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-syrophoenician-woman",
+      "type": "person",
+      "label": "The Syrophoenician woman",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-martha",
+      "type": "person",
+      "label": "Martha",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-mary-luke-10",
+      "type": "person",
+      "label": "Mary in Luke 10",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-james",
+      "type": "person",
+      "label": "James",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-philippi",
+      "type": "place",
+      "label": "Philippi",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-moriah",
+      "type": "place",
+      "label": "The land of Moriah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-horeb-sinai",
+      "type": "place",
+      "label": "Horeb / Sinai",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-jericho",
+      "type": "place",
+      "label": "Jericho / Tell es-Sultan",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-jerusalem",
+      "type": "place",
+      "label": "Jerusalem",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-caesarea-philippi",
+      "type": "place",
+      "label": "Caesarea Philippi",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-rome",
+      "type": "place",
+      "label": "Rome",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-corinth",
+      "type": "place",
+      "label": "Corinth",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-gibeah",
+      "type": "place",
+      "label": "Gibeah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-nineveh",
+      "type": "place",
+      "label": "Nineveh",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-tyre-region",
+      "type": "place",
+      "label": "The region of Tyre",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-roman-status",
+      "type": "context",
+      "label": "Status and benefaction in the Roman world",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-ancient-royal-image",
+      "type": "context",
+      "label": "Royal image language in the ancient Near East",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-child-sacrifice",
+      "type": "context",
+      "label": "Child sacrifice and firstborn offerings",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-divine-name",
+      "type": "context",
+      "label": "The divine name in Jewish and Christian tradition",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-ancient-war-rhetoric",
+      "type": "context",
+      "label": "Ancient war rhetoric and the ban",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-crucifixion",
+      "type": "context",
+      "label": "Roman crucifixion",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-syro-ephraimite-crisis",
+      "type": "context",
+      "label": "The Syro-Ephraimite crisis",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-second-temple-atonement",
+      "type": "context",
+      "label": "Atonement and the sanctuary in Second Temple Judaism",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-corinthian-assembly",
+      "type": "context",
+      "label": "Speech and order in the Corinthian assembly",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-deuteronomic-sexual-laws",
+      "type": "context",
+      "label": "Sex, marriage, and status in Deuteronomic law",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-gendered-violence-judges",
+      "type": "context",
+      "label": "Gendered violence and social collapse in Judges",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-amalek-memory",
+      "type": "context",
+      "label": "Amalek, memory, and enemy construction",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-wisdom-time",
+      "type": "context",
+      "label": "Time, season, and human agency in wisdom literature",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-assyrian-nineveh",
+      "type": "context",
+      "label": "Nineveh and Neo-Assyrian imperial memory",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-jew-gentile-boundaries",
+      "type": "context",
+      "label": "Jew-Gentile boundaries in the early Jesus movement",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-women-discipleship",
+      "type": "context",
+      "label": "Women, hospitality, and discipleship in Luke-Acts",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-roman-suffering-reconciliation",
+      "type": "context",
+      "label": "Suffering, benefaction, and reconciliation in Roman assemblies",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-faith-and-works",
+      "type": "context",
+      "label": "Faith, works, poverty, and justification",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-millennium-reception",
+      "type": "context",
+      "label": "The millennium and its reception",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-levitical-holiness-sexuality",
+      "type": "context",
+      "label": "Holiness, kinship, and sexuality in Leviticus",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-sotah-ordeal",
+      "type": "context",
+      "label": "The sotah ritual, jealousy, and priestly adjudication",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-ruth",
+      "type": "person",
+      "label": "Ruth",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-boaz",
+      "type": "person",
+      "label": "Boaz",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-bethlehem",
+      "type": "place",
+      "label": "Bethlehem",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-threshing-floor-kinship",
+      "type": "context",
+      "label": "Threshing floors, redemption, and migrant kinship",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-david",
+      "type": "person",
+      "label": "David",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-bathsheba",
+      "type": "person",
+      "label": "Bathsheba",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-uriah",
+      "type": "person",
+      "label": "Uriah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-royal-sexual-power",
+      "type": "context",
+      "label": "Royal households, sexual coercion, and military power",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-elijah",
+      "type": "person",
+      "label": "Elijah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-mount-carmel",
+      "type": "place",
+      "label": "Mount Carmel",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-baal-polemic",
+      "type": "context",
+      "label": "Baal worship, drought, and royal conflict",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-woman-john-8",
+      "type": "person",
+      "label": "The woman accused in John 8",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-pericope-adulterae",
+      "type": "context",
+      "label": "The manuscript history of the woman accused of adultery",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-peter",
+      "type": "person",
+      "label": "Peter",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-ananias-sapphira",
+      "type": "person",
+      "label": "Ananias and Sapphira",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-early-community-property",
+      "type": "context",
+      "label": "Property, patronage, and sharing in Acts",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-reconciliation-atonement",
+      "type": "context",
+      "label": "Reconciliation, ambassadors, and atonement language",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-galatia-baptism-status",
+      "type": "context",
+      "label": "Baptism, household status, and Gentile inclusion in Galatia",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-ephesian-household-code",
+      "type": "context",
+      "label": "Household codes, marriage, and mutual submission",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-elisha",
+      "type": "person",
+      "label": "Elisha",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-bethel",
+      "type": "place",
+      "label": "Bethel",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-prophetic-succession",
+      "type": "context",
+      "label": "Prophetic succession, honor, and contested sanctuaries",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-census-temple-site",
+      "type": "context",
+      "label": "Census, plague, and the temple site",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-solomon",
+      "type": "person",
+      "label": "Solomon",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-chronicles-land-temple",
+      "type": "context",
+      "label": "Land, temple, covenant, and national appropriation",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-ezra",
+      "type": "person",
+      "label": "Ezra",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-persian-return-identity",
+      "type": "context",
+      "label": "Return, intermarriage, and identity in Persian-period Judah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-nehemiah",
+      "type": "person",
+      "label": "Nehemiah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-persian-debt-tax",
+      "type": "context",
+      "label": "Debt, taxation, and bonded labor in Persian-period Judah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-colossian-household-slavery",
+      "type": "context",
+      "label": "Household codes, slavery, and Christian assembly",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-thessalonica",
+      "type": "place",
+      "label": "Thessalonica",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-imperial-arrival-resurrection",
+      "type": "context",
+      "label": "Royal arrival, resurrection, and early Christian grief",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-lawless-one-restraint",
+      "type": "context",
+      "label": "The lawless one, restraint, and apocalyptic expectation",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-eve",
+      "type": "person",
+      "label": "Eve",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-pastoral-letters-gender",
+      "type": "context",
+      "label": "Teaching, false doctrine, and gender in the Pastoral Epistles",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-timothy",
+      "type": "person",
+      "label": "Timothy",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-scripture-inspiration-canon",
+      "type": "context",
+      "label": "Scripture, inspiration, canon, and formation",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-esther",
+      "type": "person",
+      "label": "Esther",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-mordecai",
+      "type": "person",
+      "label": "Mordecai",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-susa",
+      "type": "place",
+      "label": "Susa",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-purim-diaspora-survival",
+      "type": "context",
+      "label": "Purim, diaspora survival, and imperial decrees",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-job",
+      "type": "person",
+      "label": "Job",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-divine-council-suffering",
+      "type": "context",
+      "label": "The divine council, the accuser, and wisdom's protest",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-woman-of-valor-labor",
+      "type": "context",
+      "label": "The woman of valor, household economy, and wisdom",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-song-desire-garden",
+      "type": "context",
+      "label": "Love poetry, gardens, and voiced desire in the Song",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-jeremiah",
+      "type": "person",
+      "label": "Jeremiah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-prophetic-lament-coercion",
+      "type": "context",
+      "label": "Prophetic vocation, public shame, and lament",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-titus",
+      "type": "person",
+      "label": "Titus",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-crete",
+      "type": "place",
+      "label": "Crete",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-crete-teaching-stereotype",
+      "type": "context",
+      "label": "Cretan communities, moral invective, and ethnic stereotype",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-philemon",
+      "type": "person",
+      "label": "Philemon",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-onesimus",
+      "type": "person",
+      "label": "Onesimus",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-roman-slavery-patronage",
+      "type": "context",
+      "label": "Roman slavery, debt, and patronage",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-hebrews-apostasy-perseverance",
+      "type": "context",
+      "label": "Apostasy, initiation, and perseverance in Hebrews",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-household-slavery-1peter",
+      "type": "context",
+      "label": "Household slavery, honor, and suffering in 1 Peter",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-cosmic-fire-new-creation",
+      "type": "context",
+      "label": "Cosmic fire, textual variants, and new creation",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-siege-lament-acrostic",
+      "type": "context",
+      "label": "Siege, acrostic lament, and communal trauma",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-ezekiel",
+      "type": "person",
+      "label": "Ezekiel",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-city-wife-violence",
+      "type": "context",
+      "label": "Personified cities, covenant marriage, and sexualized war rhetoric",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-daniel",
+      "type": "person",
+      "label": "Daniel",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-daniel-four-kingdoms",
+      "type": "context",
+      "label": "Four kingdoms, Antiochus IV, and apocalyptic resistance",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-hosea",
+      "type": "person",
+      "label": "Hosea",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-gomer",
+      "type": "person",
+      "label": "Gomer",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-jezreel",
+      "type": "place",
+      "label": "Jezreel",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-prophetic-marriage-metaphor",
+      "type": "context",
+      "label": "Prophetic marriage signs, Baal, and sexualized accusation",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-joel-spirit-all-flesh",
+      "type": "context",
+      "label": "Spirit, social difference, and restoration in Joel",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-johannine-love-fear",
+      "type": "context",
+      "label": "Love, assurance, and communal testing in 1 John",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-johannine-hospitality-boundaries",
+      "type": "context",
+      "label": "House churches, traveling teachers, and Johannine boundaries",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-gaius-3john",
+      "type": "person",
+      "label": "Gaius in 3 John",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-diotrophes",
+      "type": "person",
+      "label": "Diotrephes",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-house-church-authority",
+      "type": "context",
+      "label": "Hospitality, itinerant mission, and local church authority",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-michael-archangel",
+      "type": "person",
+      "label": "Michael the archangel",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-jude-enoch-sodom",
+      "type": "context",
+      "label": "Enochic traditions, Sodom, and boundary transgression",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-romans-israel-election",
+      "type": "context",
+      "label": "Israel, Gentile inclusion, election, and the olive tree",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-amos",
+      "type": "person",
+      "label": "Amos",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-amos-worship-economy",
+      "type": "context",
+      "label": "Worship, wealth, and justice in eighth-century Israel",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "place-edom",
+      "type": "place",
+      "label": "Edom",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-edom-jerusalem-fall",
+      "type": "context",
+      "label": "Edom, Jerusalem's fall, and survivor memory",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-micah",
+      "type": "person",
+      "label": "Micah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-micah-covenant-lawsuit",
+      "type": "context",
+      "label": "Covenant lawsuit, sacrifice, and public justice",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-city-shaming-nahum",
+      "type": "context",
+      "label": "Personified cities and sexualized humiliation in Nahum",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-habakkuk",
+      "type": "person",
+      "label": "Habakkuk",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-babylon-vision-faithfulness",
+      "type": "context",
+      "label": "Babylonian violence, delayed vision, and faithfulness",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-zephaniah",
+      "type": "person",
+      "label": "Zephaniah",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-day-of-lord-zephaniah",
+      "type": "context",
+      "label": "The day of the LORD, invasion, and prophetic terror",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "person-haggai",
+      "type": "person",
+      "label": "Haggai",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-second-temple-economy",
+      "type": "context",
+      "label": "Second Temple rebuilding, Persian rule, and sacred wealth",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-zechariah-pierced-mourning",
+      "type": "context",
+      "label": "The pierced figure, communal mourning, and textual reception",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-malachi-divorce-text",
+      "type": "context",
+      "label": "Divorce, covenant treachery, and the textual difficulty of Malachi 2:16",
+      "status": "shared-record-needed"
+    },
+    {
+      "id": "context-corinthian-vice-list-sexuality",
+      "type": "context",
+      "label": "Vice lists, gender status, and contested sexual terms in Corinth",
+      "status": "shared-record-needed"
+    }
   ],
   "visual_requests": [
-    {"id":"visual-philippi-regional","record":"place-philippi","class":"geographic map","views":["far","regional","close"],"claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-moriah-traditions","record":"place-moriah","class":"schematic map","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-horeb-sinai-traditions","record":"place-horeb-sinai","class":"schematic map","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-jericho-archaeology","record":"place-jericho","class":"archaeological photograph","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-syro-ephraimite-region","record":"context-syro-ephraimite-crisis","class":"geographic map","views":["far","regional","close"],"claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-caesarea-philippi","record":"place-caesarea-philippi","class":"archaeological photograph","claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-mercy-seat","record":"context-second-temple-atonement","class":"evidence-based reconstruction","claim_label":"probable","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-corinth-assembly","record":"context-corinthian-assembly","class":"interpretive orientation image","claim_label":"interpretive","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-deuteronomic-law-context","record":"context-deuteronomic-sexual-laws","class":"artifact","claim_label":"possible","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-gibeah-region","record":"place-gibeah","class":"schematic map","claim_label":"probable","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-amalek-memory-map","record":"context-amalek-memory","class":"schematic map","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-ecclesiastes-times","record":"context-wisdom-time","class":"symbolic art","claim_label":"interpretive","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-nineveh-region","record":"place-nineveh","class":"geographic map","views":["far","regional","close"],"claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-tyre-region","record":"place-tyre-region","class":"geographic map","views":["far","regional","close"],"claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-martha-household","record":"context-women-discipleship","class":"interpretive orientation image","claim_label":"interpretive","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-romans-love-flow","record":"context-roman-suffering-reconciliation","class":"schematic map","claim_label":"interpretive","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-james-faith-works","record":"context-faith-and-works","class":"schematic map","claim_label":"interpretive","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
-    {"id":"visual-millennium-views","record":"context-millennium-reception","class":"schematic map","claim_label":"interpretive","rights_status":"not-acquired","publication_status":"blocked","status":"needed"}
+    {
+      "id": "visual-philippi-regional",
+      "record": "place-philippi",
+      "class": "geographic map",
+      "views": [
+        "far",
+        "regional",
+        "close"
+      ],
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-moriah-traditions",
+      "record": "place-moriah",
+      "class": "schematic map",
+      "claim_label": "disputed",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-horeb-sinai-traditions",
+      "record": "place-horeb-sinai",
+      "class": "schematic map",
+      "claim_label": "disputed",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-jericho-archaeology",
+      "record": "place-jericho",
+      "class": "archaeological photograph",
+      "claim_label": "disputed",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-syro-ephraimite-region",
+      "record": "context-syro-ephraimite-crisis",
+      "class": "geographic map",
+      "views": [
+        "far",
+        "regional",
+        "close"
+      ],
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-caesarea-philippi",
+      "record": "place-caesarea-philippi",
+      "class": "archaeological photograph",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-mercy-seat",
+      "record": "context-second-temple-atonement",
+      "class": "evidence-based reconstruction",
+      "claim_label": "probable",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-corinth-assembly",
+      "record": "context-corinthian-assembly",
+      "class": "interpretive orientation image",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-deuteronomic-law-context",
+      "record": "context-deuteronomic-sexual-laws",
+      "class": "artifact",
+      "claim_label": "possible",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-gibeah-region",
+      "record": "place-gibeah",
+      "class": "schematic map",
+      "claim_label": "probable",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-amalek-memory-map",
+      "record": "context-amalek-memory",
+      "class": "schematic map",
+      "claim_label": "disputed",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-ecclesiastes-times",
+      "record": "context-wisdom-time",
+      "class": "symbolic art",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-nineveh-region",
+      "record": "place-nineveh",
+      "class": "geographic map",
+      "views": [
+        "far",
+        "regional",
+        "close"
+      ],
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-tyre-region",
+      "record": "place-tyre-region",
+      "class": "geographic map",
+      "views": [
+        "far",
+        "regional",
+        "close"
+      ],
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-martha-household",
+      "record": "context-women-discipleship",
+      "class": "interpretive orientation image",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-romans-love-flow",
+      "record": "context-roman-suffering-reconciliation",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-james-faith-works",
+      "record": "context-faith-and-works",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-millennium-views",
+      "record": "context-millennium-reception",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-levitical-holiness-context",
+      "record": "context-levitical-holiness-sexuality",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-sotah-ritual-sequence",
+      "record": "context-sotah-ordeal",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-bethlehem-threshing-floor",
+      "record": "context-threshing-floor-kinship",
+      "class": "interpretive orientation image",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-david-sends-takes",
+      "record": "context-royal-sexual-power",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-carmel-kishon-region",
+      "record": "place-mount-carmel",
+      "class": "geographic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-pericope-manuscripts",
+      "record": "context-pericope-adulterae",
+      "class": "schematic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-acts-property-contrast",
+      "record": "context-early-community-property",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-reconciliation-agency",
+      "record": "context-reconciliation-atonement",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-galatians-status-pairs",
+      "record": "context-galatia-baptism-status",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-ephesians-household-syntax",
+      "record": "context-ephesian-household-code",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-jericho-bethel-route",
+      "record": "place-bethel",
+      "class": "geographic map",
+      "claim_label": "probable",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-census-plague-temple",
+      "record": "context-census-temple-site",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-chronicles-land-covenant",
+      "record": "context-chronicles-land-temple",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-persian-judah-return",
+      "record": "context-persian-return-identity",
+      "class": "geographic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-nehemiah-debt-flow",
+      "record": "context-persian-debt-tax",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-colossian-household-voices",
+      "record": "context-colossian-household-slavery",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-thessalonians-meeting",
+      "record": "context-imperial-arrival-resurrection",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-lawless-one-interpretations",
+      "record": "context-lawless-one-restraint",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-authentein-interpretations",
+      "record": "context-pastoral-letters-gender",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-scripture-purpose",
+      "record": "context-scripture-inspiration-canon",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-susa-persian-provinces",
+      "record": "place-susa",
+      "class": "geographic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-job-reader-knowledge",
+      "record": "context-divine-council-suffering",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-proverbs31-labor-network",
+      "record": "context-woman-of-valor-labor",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-song-spring-imagery",
+      "record": "context-song-desire-garden",
+      "class": "symbolic art",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-jeremiah-lament-movements",
+      "record": "context-prophetic-lament-coercion",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-crete-assemblies",
+      "record": "place-crete",
+      "class": "geographic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-philemon-relationship",
+      "record": "context-roman-slavery-patronage",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-hebrews-warning-encouragement",
+      "record": "context-hebrews-apostasy-perseverance",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-1peter-slavery-context",
+      "record": "context-household-slavery-1peter",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-2peter-text-variants",
+      "record": "context-cosmic-fire-new-creation",
+      "class": "schematic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-lamentations-acrostic",
+      "record": "context-siege-lament-acrostic",
+      "class": "schematic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-ezekiel-metaphor-layers",
+      "record": "context-city-wife-violence",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-daniel7-symbol-key",
+      "record": "context-daniel-four-kingdoms",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-hosea-sign-names",
+      "record": "context-prophetic-marriage-metaphor",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-joel-social-pairs",
+      "record": "context-joel-spirit-all-flesh",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-1john-love-claims",
+      "record": "context-johannine-love-fear",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-2john-hospitality-decisions",
+      "record": "context-johannine-hospitality-boundaries",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-3john-authority-network",
+      "record": "context-house-church-authority",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-jude-allusion-network",
+      "record": "context-jude-enoch-sodom",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-romans-olive-tree",
+      "record": "context-romans-israel-election",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-amos-justice-waters",
+      "record": "context-amos-worship-economy",
+      "class": "symbolic art",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-edom-jerusalem-routes",
+      "record": "place-edom",
+      "class": "geographic map",
+      "claim_label": "probable",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-micah-threefold-requirement",
+      "record": "context-micah-covenant-lawsuit",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-nineveh-fall-context",
+      "record": "place-nineveh",
+      "class": "geographic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-habakkuk-vision-delay",
+      "record": "context-babylon-vision-faithfulness",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-zephaniah-book-movement",
+      "record": "context-day-of-lord-zephaniah",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-haggai-temple-timeline",
+      "record": "context-second-temple-economy",
+      "class": "schematic map",
+      "claim_label": "probable",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-zechariah-mourning-groups",
+      "record": "context-zechariah-pierced-mourning",
+      "class": "schematic map",
+      "claim_label": "interpretive",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-malachi-216-translations",
+      "record": "context-malachi-divorce-text",
+      "class": "schematic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    },
+    {
+      "id": "visual-1cor6-translation-history",
+      "record": "context-corinthian-vice-list-sexuality",
+      "class": "schematic map",
+      "claim_label": "established",
+      "rights_status": "not-acquired",
+      "publication_status": "blocked",
+      "status": "needed"
+    }
   ]
 }

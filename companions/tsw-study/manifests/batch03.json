@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch03",
+  "batch_number": 3,
+  "title": "TSW Study Companion Batch 3",
+  "status": "APPROVED_FOR_PUBLICATION",
+  "dossier_count": 10,
+  "content_notice_required": [
+    "tsw-study-leviticus-18-22-20-13",
+    "tsw-study-numbers-5-11-31",
+    "tsw-study-ruth-3-1-18",
+    "tsw-study-2-samuel-11-1-27",
+    "tsw-study-1-kings-18-20-40",
+    "tsw-study-john-7-53-8-11",
+    "tsw-study-acts-5-1-11",
+    "tsw-study-2-corinthians-5-16-21",
+    "tsw-study-galatians-3-23-29",
+    "tsw-study-ephesians-5-21-33"
+  ],
+  "required_sections": [
+    "First Look",
+    "Why This Matters",
+    "Look Closely",
+    "More Than One Reading",
+    "Across Christian History",
+    "Power and Consequences",
+    "Consider Together",
+    "Shared Biblical World",
+    "Continue Exploring",
+    "Sources and Further Study"
+  ],
+  "dossiers": [
+    {
+      "id": "tsw-study-leviticus-18-22-20-13",
+      "book": "Leviticus",
+      "passage": "Leviticus 18:22; 20:13",
+      "file": "companions/tsw-study/dossiers/leviticus-18-22-20-13.md",
+      "tsw_source": "books/OT/leviticus/Leviticus_18.md",
+      "additional_tsw_sources": [
+        "books/OT/leviticus/Leviticus_20.md"
+      ],
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The Hebrew describes a male lying with a male in 'the lyings of a woman' and calls the act *to'evah*. Neither phrase maps neatly onto a modern account of sexual orientation, identity, or a lifelong same-sex covenant.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-numbers-5-11-31",
+      "book": "Numbers",
+      "passage": "Numbers 5:11-31",
+      "file": "companions/tsw-study/dossiers/numbers-5-11-31.md",
+      "tsw_source": "books/OT/numbers/Numbers_05.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The difficult body terms in verses 21\u201322 have been rendered as thigh, womb, belly, miscarriage, or bodily collapse. The Hebrew is euphemistic and uncertain; claims that the ritual straightforwardly describes abortion exceed what the wording can prove.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-ruth-3-1-18",
+      "book": "Ruth",
+      "passage": "Ruth 3:1-18",
+      "file": "companions/tsw-study/dossiers/ruth-3-1-18.md",
+      "tsw_source": "books/OT/ruth/Ruth_03.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "Hebrew 'feet' can sometimes function euphemistically, and the scene is written with sexual risk and deliberate ambiguity. The narrative does not explicitly describe intercourse; neither prudish certainty nor erotic certainty does justice to its restraint.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-2-samuel-11-1-27",
+      "book": "2 Samuel",
+      "passage": "2 Samuel 11:1-27",
+      "file": "companions/tsw-study/dossiers/2-samuel-11-1-27.md",
+      "tsw_source": "books/OT/2samuel/2Samuel_11.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The repeated royal verbs\u2014David sends and takes\u2014drive the account. The narrator gives no courtship, no request from Bathsheba, and no indication that refusal was safe; modern claims of mutual seduction import details the text withholds.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-1-kings-18-20-40",
+      "book": "1 Kings",
+      "passage": "1 Kings 18:20-40",
+      "file": "companions/tsw-study/dossiers/1-kings-18-20-40.md",
+      "tsw_source": "books/OT/1kings/1Kings_18.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The chapter uses satire, repetition, and escalating spectacle to expose Baal's silence. The Hebrew question about 'limping between two branches' accuses Israel of divided allegiance rather than inviting detached comparison of religions.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-john-7-53-8-11",
+      "book": "John",
+      "passage": "John 7:53-8:11",
+      "file": "companions/tsw-study/dossiers/john-7-53-8-11.md",
+      "tsw_source": "books/NT/john/John_08.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The passage is absent from the earliest substantial Greek witnesses to John and appears in different locations in later manuscripts. Its vocabulary and style also differ from surrounding Johannine material; modern editions therefore bracket or footnote it.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-acts-5-1-11",
+      "book": "Acts",
+      "passage": "Acts 5:1-11",
+      "file": "companions/tsw-study/dossiers/acts-5-1-11.md",
+      "tsw_source": "books/NT/acts/Acts_05.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "Peter explicitly says the property remained theirs and its proceeds were at their disposal. The offense is not failure to surrender every possession but lying to God and presenting a partial gift as the whole.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-2-corinthians-5-16-21",
+      "book": "2 Corinthians",
+      "passage": "2 Corinthians 5:16-21",
+      "file": "companions/tsw-study/dossiers/2-corinthians-5-16-21.md",
+      "tsw_source": "books/NT/2corinthians/2Corinthians_05.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The compact phrase 'made him sin who knew no sin' can mean made a sin offering, identified Christ with the sphere and consequences of sin, or appointed him to bear sin. The Greek does not require the claim that Christ became morally sinful.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-galatians-3-23-29",
+      "book": "Galatians",
+      "passage": "Galatians 3:23-29",
+      "file": "companions/tsw-study/dossiers/galatians-3-23-29.md",
+      "tsw_source": "books/NT/galatians/Galatians_03.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The *paidagogos* was a household guardian, not a modern classroom teacher. 'There is no' concerns status in the baptized community; the text does not claim embodied differences or unequal conditions have magically disappeared.",
+        "reception, power, and harm"
+      ]
+    },
+    {
+      "id": "tsw-study-ephesians-5-21-33",
+      "book": "Ephesians",
+      "passage": "Ephesians 5:21-33",
+      "file": "companions/tsw-study/dossiers/ephesians-5-21-33.md",
+      "tsw_source": "books/NT/ephesians/Ephesians_05.md",
+      "review_focus": [
+        "language and textual evidence",
+        "historical and literary setting",
+        "The earliest recoverable Greek of verse 22 lacks an explicit verb and borrows 'submit' from verse 21. That syntax makes the boundary between mutual submission and the marriage instructions interpretively important.",
+        "reception, power, and harm"
+      ]
+    }
+  ],
+  "review_manifest": "audit/tsw-study/batch03_review.json"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch04",
+  "publication_state": "APPROVED_FOR_PUBLICATION",
+  "machine_audit": {
+    "command": "python tools/audit_companion_batch.py companions/tsw-study/manifests/batch04.json",
+    "status": "passed-final-2026-09-05"
+  },
+  "human_gates": [
+    {
+      "id": "source-language",
+      "label": "Source-language and textual evidence",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "historical",
+      "label": "Historical and archaeological claims",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "reception",
+      "label": "Jewish and ecumenical Christian reception",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "critical-voices",
+      "label": "Feminist, womanist, liberation, disability, postcolonial, and trauma-aware readings where relevant",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "power-and-harm",
+      "label": "Power, safeguarding, and history-of-harm review",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "public-language",
+      "label": "Public clarity, accessibility, and non-facilitator language",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "visual-evidence",
+      "label": "Visual provenance, rights, classification, and uncertainty labels",
+      "status": "approved",
+      "required": true
+    }
+  ],
+  "release_rule": "Do not publish a dossier until every required human gate is approved and the machine audit passes on the release commit.",
+  "approval_plan": "One consolidated human approval may approve all seven gates after the complete ten-dossier batch has been reviewed.",
+  "draft_preparation": {
+    "status": "complete-machine-valid-human-review-required",
+    "date": "2026-09-04",
+    "scope": [
+      "ten dossier texts",
+      "source ledgers",
+      "safeguarding language",
+      "shared-world references",
+      "blocked visual requests"
+    ]
+  },
+  "consolidated_approval": {
+    "status": "approved",
+    "date": "2026-09-05",
+    "scope": "All ten dossiers in this batch and all seven required human gates, as part of the consolidated approval covering Batches Three through Seven.",
+    "publication": "Approved for text publication.",
+    "visuals": "No unfinished visual is approved; every visual request remains individually blocked pending accuracy, evidence, provenance, rights, caption, and alternative-text review."
+  }
+}
