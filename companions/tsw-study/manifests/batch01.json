@@ -1,9 +1,18 @@
 {
   "schema_version": 1,
   "batch_id": "tsw-study-batch01",
+  "batch_number": 1,
   "title": "TSW Study Companion Batch One",
   "status": "APPROVED_FOR_PUBLICATION",
   "dossier_count": 10,
+  "content_notice_required": [
+    "tsw-study-1-corinthians-14-33b-36",
+    "tsw-study-genesis-22-1-19",
+    "tsw-study-joshua-6-15-27",
+    "tsw-study-philippians-2-5-11",
+    "tsw-study-psalm-22",
+    "tsw-study-romans-3-21-26"
+  ],
   "required_sections": [
     "First Look",
     "Why This Matters",

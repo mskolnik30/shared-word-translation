@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch02",
+  "batch_number": 2,
+  "title": "TSW Study Companion Batch Two",
+  "status": "APPROVED_FOR_PUBLICATION",
+  "dossier_count": 10,
+  "content_notice_required": [
+    "tsw-study-deuteronomy-22-28-29",
+    "tsw-study-judges-19-22-30",
+    "tsw-study-1-samuel-15-1-3-32-33",
+    "tsw-study-ecclesiastes-3-1-8",
+    "tsw-study-jonah-3-10-4-11",
+    "tsw-study-mark-7-24-30",
+    "tsw-study-luke-10-38-42",
+    "tsw-study-romans-5-1-11",
+    "tsw-study-james-2-14-26",
+    "tsw-study-revelation-20-1-10"
+  ],
+  "required_sections": [
+    "First Look",
+    "Why This Matters",
+    "Look Closely",
+    "More Than One Reading",
+    "Across Christian History",
+    "Power and Consequences",
+    "Consider Together",
+    "Shared Biblical World",
+    "Continue Exploring",
+    "Sources and Further Study"
+  ],
+  "dossiers": [
+    {
+      "id": "tsw-study-deuteronomy-22-28-29",
+      "passage": "Deuteronomy 22:28-29",
+      "file": "companions/tsw-study/dossiers/deuteronomy-22-28-29.md",
+      "tsw_source": "books/OT/deuteronomy/Deuteronomy_22.md",
+      "review_focus": ["Hebrew verbs", "ancient law", "sexual violence", "marriage and survivor safety"]
+    },
+    {
+      "id": "tsw-study-judges-19-22-30",
+      "passage": "Judges 19:22-30",
+      "file": "companions/tsw-study/dossiers/judges-19-22-30.md",
+      "tsw_source": "books/OT/judges/Judges_19.md",
+      "review_focus": ["Hebrew narrative", "gendered violence", "womanist and feminist reception", "trauma-aware reading"]
+    },
+    {
+      "id": "tsw-study-1-samuel-15-1-3-32-33",
+      "passage": "1 Samuel 15:1-3, 32-33",
+      "file": "companions/tsw-study/dossiers/1-samuel-15-1-3-32-33.md",
+      "tsw_source": "books/OT/1samuel/1Samuel_15.md",
+      "review_focus": ["Hebrew herem", "Amalek reception", "genocide", "religiously authorized violence"]
+    },
+    {
+      "id": "tsw-study-ecclesiastes-3-1-8",
+      "passage": "Ecclesiastes 3:1-8",
+      "file": "companions/tsw-study/dossiers/ecclesiastes-3-1-8.md",
+      "tsw_source": "books/OT/ecclesiastes/Ecclesiastes_03.md",
+      "review_focus": ["Hebrew poetry", "time and human agency", "grief", "war and moral discernment"]
+    },
+    {
+      "id": "tsw-study-jonah-3-10-4-11",
+      "passage": "Jonah 3:10-4:11",
+      "file": "companions/tsw-study/dossiers/jonah-3-10-4-11.md",
+      "tsw_source": "books/OT/jonah/Jonah_04.md",
+      "review_focus": ["Hebrew rhetoric", "Nineveh and empire", "Jewish reception", "postcolonial and ecological interpretation"]
+    },
+    {
+      "id": "tsw-study-mark-7-24-30",
+      "passage": "Mark 7:24-30",
+      "file": "companions/tsw-study/dossiers/mark-7-24-30.md",
+      "tsw_source": "books/NT/mark/Mark_07.md",
+      "review_focus": ["Greek dialogue", "Jew-Gentile boundaries", "Christology", "Dalit and feminist reception"]
+    },
+    {
+      "id": "tsw-study-luke-10-38-42",
+      "passage": "Luke 10:38-42",
+      "file": "companions/tsw-study/dossiers/luke-10-38-42.md",
+      "tsw_source": "books/NT/luke/Luke_10.md",
+      "review_focus": ["Greek diakonia", "women and discipleship", "domestic labor", "feminist reception"]
+    },
+    {
+      "id": "tsw-study-romans-5-1-11",
+      "passage": "Romans 5:1-11",
+      "file": "companions/tsw-study/dossiers/romans-5-1-11.md",
+      "tsw_source": "books/NT/romans/Romans_05.md",
+      "review_focus": ["Greek genitive", "textual variant", "suffering", "reconciliation and abuse"]
+    },
+    {
+      "id": "tsw-study-james-2-14-26",
+      "passage": "James 2:14-26",
+      "file": "companions/tsw-study/dossiers/james-2-14-26.md",
+      "tsw_source": "books/NT/james/James_02.md",
+      "review_focus": ["Greek faith and works", "Abraham and Rahab", "Catholic-Lutheran reception", "poverty and material care"]
+    },
+    {
+      "id": "tsw-study-revelation-20-1-10",
+      "passage": "Revelation 20:1-10",
+      "file": "companions/tsw-study/dossiers/revelation-20-1-10.md",
+      "tsw_source": "books/NT/revelation/Revelation_20.md",
+      "review_focus": ["apocalyptic symbolism", "millennial traditions", "empire", "political and predictive misuse"]
+    }
+  ],
+  "review_manifest": "audit/tsw-study/batch02_review.json"
+}
