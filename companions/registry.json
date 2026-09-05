@@ -5,7 +5,9 @@
     {
       "id": "fluent-companion",
       "name": "Fluent Companion",
+      "public_label": "Understand the Passage",
       "translation_affinity": "fluent",
+      "cross_translation_use": true,
       "purpose": "Orientation, sustained reading, formation, prayer, and biblical fluency.",
       "content_root": null,
       "status": "maintained-outside-this-repository"
@@ -13,7 +15,9 @@
     {
       "id": "tsw-study",
       "name": "TSW Study Companion",
+      "public_label": "Explore Interpretation",
       "translation_affinity": "tsw",
+      "cross_translation_use": true,
       "purpose": "Language, contested interpretation, reception history, power, harm, and shared discernment.",
       "content_root": "companions/tsw-study",
       "status": "first-edition-text-complete-approved"
@@ -21,7 +25,9 @@
     {
       "id": "shared-biblical-world",
       "name": "Shared Biblical World",
+      "public_label": "People, Places & Context",
       "translation_affinity": "neutral",
+      "cross_translation_use": true,
       "purpose": "Reusable people, places, contexts, maps, timelines, artifacts, and images for both companions.",
       "content_root": "resources/biblical-world",
       "status": "foundation"
