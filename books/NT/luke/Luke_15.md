@@ -54,11 +54,7 @@ v19: I am no longer worthy to be called your son; treat me like one of your hire
 </p>
 
 <p>
-v20: So he got up and went to his father.
-</p>
-
-<p>
-While he was still far off, his father saw him and was moved with compassion; he ran and embraced him and kissed him.
+v20: So he got up and went to his father. While he was still far off, his father saw him and was moved with compassion; he ran and embraced him and kissed him.
 v21: Then the son said to him, ‘Father, I have sinned against heaven and before you; I am no longer worthy to be called your son.’
 </p>
 
