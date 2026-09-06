@@ -14,7 +14,7 @@ shared_world: [context-ancient-royal-image]
 
 At the climax of Genesis 1, God creates *humankind* in the divine image and likeness, names humanity as male and female, blesses them, and commissions them to fill the earth and exercise dominion among other living creatures. The text gives humanity a distinctive vocation inside a creation already pronounced good.
 
-The poem moves between collective and singular language: humankind is created; “him” is created; “male and female” are created; “them” are blessed. The image is not restricted to a ruler, a sex, an ethnicity, a capacity, or a social class. It is a declaration about humanity.
+The poem moves between collective and singular language: humankind is created; “him” is created; “male and female” are created; “them” are blessed. The image belongs to all humanity; no identity, status, capacity, or difference limits the dignity of bearing God's image.
 
 ## Why This Matters
 
