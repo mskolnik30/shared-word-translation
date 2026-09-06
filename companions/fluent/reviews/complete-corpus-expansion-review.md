@@ -96,12 +96,68 @@ raw editorial markup to readers.
 This approval does not approve historical-context judgments, theological or
 formation judgments, accessibility, publication, merging, or deployment.
 
+## Round 2 evidence packet: context and uncertainty
+
+**Decision state:** READY_FOR_HUMAN_DECISION
+
+**Candidate content commit:**
+`a3826231ff111c2bb91eeede7348f690503945b0`
+
+Round 2 tests whether historical and cultural context is distinguished from
+what a passage directly states, whether interpretive reconstruction is
+identified as such, and whether disputed textual, chronological, authorship,
+and symbolic questions remain visibly unresolved.
+
+### Corpus-wide review
+
+- Searched all 66 book guides for categorical claims about setting, dating,
+  authorship, composition, ancient communities, and modern identification.
+- Checked every generated `What Needs Context` section against its bound Fluent
+  source. All 1,053 generated chapters with an importable context note now name
+  the translation note and verse explicitly; 41 generated chapters without an
+  importable note continue to rely on literary structure without inventing
+  historical background.
+- Added a permanent audit failure when generated context imports are not
+  attributed to a translation note and verse.
+- Re-ran the 1,189-chapter content and exact-coverage audits and the
+  translation-family and TSW regressions: all passed with 0 errors and 0
+  warnings.
+
+### Corrections made
+
+- Reframed imported note material across 1,053 generated chapters as attributed
+  translation-note observations rather than unmarked historical fact.
+- Qualified First Thessalonians' Corinth setting as the common reconstruction
+  produced by coordinating the letter with Acts; the letter itself does not
+  name Corinth.
+- Placed the Psalms guide's superscription caution beside Psalm 122's source
+  note so `Of David` is not silently collapsed into one modern theory of
+  authorship.
+
+### Close-reading sample
+
+| Passage | Question tested | Result |
+|---|---|---|
+| Isaiah 7; Isaiah 53 | Immediate prophetic horizon and later Christian rereading | First horizon remains primary; later echoes are identified as later readings. |
+| Ezra 9–10 | Covenant crisis, race, and the source of the divorce proposal | Ancient categories are not converted into race; divine command, Ezra's prayer, and Shecaniah's proposal remain distinct. |
+| Daniel 7; Revelation 13 | Empire symbolism and modern timetables | Empires and symbols are not assigned a speculative modern schedule. |
+| Ezekiel 16; Hosea 1 | Prophetic sexual and household metaphors | Rhetorical form and human cost are named without treating metaphor as literal ancestry or a modern prescription. |
+| Matthew 27; Mark 16; John 7–8 | Textual variants and received traditions | Variant evidence and bracketed/longer traditions remain visible without panic or silent harmonization. |
+| Acts 15; Romans 9 | Jewish–Gentile disputes | Internal first-century arguments are not generalized against Jewish people; textual and syntactic uncertainty remains visible. |
+| 1 Corinthians 11, 14; 1 Timothy 2 | Gender, worship, and disputed vocabulary | Competing interpretations and the limits of reconstruction are stated rather than resolved by assertion. |
+| Hebrews 7; 2 Peter 3 | Scriptural argument, chronology, and cosmic imagery | Selective analogy and textual variants are named; chronology is not converted into a date formula. |
+
+Round 2 approval would cover historical/cultural context, explicit uncertainty,
+and the distinction between text, source note, and interpretive reconstruction
+for this exact candidate. It would not approve later theological, formation,
+depth, clarity, accessibility, publication, merge, or deployment gates.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
 |---|---|---|---|---|
 | Structure, source fidelity, and reader cleanliness | Approved | Matthew J. Skolnik | 2026-09-06 | Expanded Round 1 approved against commit `4661e199`; exact source bindings, chapter paths, and repaired reader-facing imports accepted at gate level. |
-| Context and uncertainty | Pending |  |  | Preserve literary form, historical limits, textual uncertainty, and unresolved tension. |
+| Context and uncertainty | Pending—evidence ready |  |  | Round 2 candidate `a3826231`; corpus scan, attribution repair, and high-risk close-reading sample complete. |
 | Theological restraint | Pending |  |  | Confirm the Companion does not displace Scripture or force later synthesis into the chapter. |
 | Formation and safety | Pending |  |  | Review agency, non-coercion, trauma awareness, power, violence, gender, and vulnerable readers. |
 | Chapter-specific depth | Pending |  |  | Replace or deepen source-derived baseline prose where a chapter needs more than structural orientation. |
