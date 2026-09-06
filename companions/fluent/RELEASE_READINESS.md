@@ -12,8 +12,9 @@ This branch begins complete chapter-by-chapter production. It does not authorize
 - Complete-corpus audit: PASS on 2026-09-06 with 0 errors and 0 warnings.
 
 The earlier representative-coverage definition has been withdrawn. The full
-chapter corpus is now present and passes the automated coverage gate. This is
-an unpublished candidate, not a human-approved or live release.
+chapter corpus is now present and passes the automated coverage gate. Expanded
+human-review Rounds 1 and 2 are approved, but later human gates remain pending.
+This is an unpublished candidate, not an approved or live release.
 
 ## Completed in the production draft
 

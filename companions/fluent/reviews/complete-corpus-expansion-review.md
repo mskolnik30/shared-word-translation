@@ -1,6 +1,6 @@
 ---
 review_record: fluent-companion-complete-corpus-expansion
-review_status: ROUND_1_APPROVED
+review_status: ROUND_2_APPROVED
 publication_status: blocked
 scope: every Fluent chapter in the 66-book Protestant canon
 canonical_chapter_count: 1189
@@ -98,7 +98,7 @@ formation judgments, accessibility, publication, merging, or deployment.
 
 ## Round 2 evidence packet: context and uncertainty
 
-**Decision state:** READY_FOR_HUMAN_DECISION
+**Decision state:** APPROVED
 
 **Candidate content commit:**
 `a3826231ff111c2bb91eeede7348f690503945b0`
@@ -152,12 +152,26 @@ and the distinction between text, source note, and interpretive reconstruction
 for this exact candidate. It would not approve later theological, formation,
 depth, clarity, accessibility, publication, merge, or deployment gates.
 
+### Approval
+
+- Approver: Matthew J. Skolnik
+- Approval date: 2026-09-06
+- Reviewed content commit: `a3826231ff111c2bb91eeede7348f690503945b0`
+- Reviewed evidence-packet commit:
+  `efca72d007214a6a889de6a0a39b286b49e1f461`
+- Scope: Round 2 only—historical and cultural context, explicit uncertainty,
+  and the distinction between text, source note, and interpretive
+  reconstruction.
+
+This approval does not approve later theological, formation, depth, clarity,
+accessibility, publication, merging, or deployment gates.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
 |---|---|---|---|---|
 | Structure, source fidelity, and reader cleanliness | Approved | Matthew J. Skolnik | 2026-09-06 | Expanded Round 1 approved against commit `4661e199`; exact source bindings, chapter paths, and repaired reader-facing imports accepted at gate level. |
-| Context and uncertainty | Pending—evidence ready |  |  | Round 2 candidate `a3826231`; corpus scan, attribution repair, and high-risk close-reading sample complete. |
+| Context and uncertainty | Approved | Matthew J. Skolnik | 2026-09-06 | Round 2 approved for content commit `a3826231` and evidence-packet commit `efca72d0`. |
 | Theological restraint | Pending |  |  | Confirm the Companion does not displace Scripture or force later synthesis into the chapter. |
 | Formation and safety | Pending |  |  | Review agency, non-coercion, trauma awareness, power, violence, gender, and vulnerable readers. |
 | Chapter-specific depth | Pending |  |  | Replace or deepen source-derived baseline prose where a chapter needs more than structural orientation. |

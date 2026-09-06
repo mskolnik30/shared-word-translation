@@ -50,6 +50,13 @@ SAFETY_PATTERNS = [
     r"mental illness is (?:a |the )?demon",
     r"your faith was not strong enough",
 ]
+THEOLOGICAL_CLOSURE_PATTERNS = [
+    r"the only (?:possible|correct|faithful) (?:meaning|reading|interpretation)",
+    r"(?:definitively|simply) means",
+    r"must be interpreted only as",
+    r"this settles the (?:question|debate)",
+    r"(?:all|true) Christians must believe",
+]
 GENERATED_EDITORIAL_PATTERNS = [
     (r"from “([^”]+)” toward “\1”", "single-section movement repeats the same heading"),
     (r"within israel's", "Israel must retain its proper-name capitalization"),
@@ -236,6 +243,13 @@ def main() -> int:
             errors.append({"file": rel, "check": "structure", "message": "Missing brief summary heading"})
         if "### Follow the Story" not in text and "### Follow the Movement" not in text:
             errors.append({"file": rel, "check": "structure", "message": "Missing story/movement heading"})
+        read_section = text.split("## Read the Chapter", 1)[-1].split("## After You Read", 1)[0]
+        if "Fluent Translation" not in read_section and f"Fluent {title_book}" not in read_section:
+            errors.append({
+                "file": rel,
+                "check": "scripture-primary",
+                "message": "Read section must direct the reader to the Fluent Scripture text",
+            })
         chapter_path = text.split("### Chapter Path", 1)[-1].split("### Watch For", 1)[0]
         source_verses = [int(number) for number in re.findall(r"(?m)^v(\d{2,3}):", source.read_text(encoding="utf-8"))] if source.is_file() else []
         max_verse = max(source_verses, default=0)
@@ -275,10 +289,23 @@ def main() -> int:
         for pattern in SAFETY_PATTERNS:
             if re.search(pattern, text, flags=re.I):
                 errors.append({"file": rel, "check": "safety", "message": f"Matched {pattern}"})
+        for pattern in THEOLOGICAL_CLOSURE_PATTERNS:
+            if re.search(pattern, text, flags=re.I):
+                errors.append({
+                    "file": rel,
+                    "check": "theological-restraint",
+                    "message": f"Matched forced-resolution language: {pattern}",
+                })
         if meta.get("companion_status") == "GENERATED_REVIEW_REQUIRED":
             for pattern, message in GENERATED_EDITORIAL_PATTERNS:
                 if re.search(pattern, text):
                     errors.append({"file": rel, "check": "generated-editorial", "message": message})
+            if "Wider biblical connections should deepen attention to this passage rather than replace its own voice." not in text:
+                errors.append({
+                    "file": rel,
+                    "check": "theological-restraint",
+                    "message": "Generated scriptural threads must not replace the chapter's own voice",
+                })
 
         words = len(re.findall(r"\b[\w’'-]+\b", re.sub(r"^---\n.*?\n---\n", "", text, flags=re.S)))
         if not 500 <= words <= 1800:

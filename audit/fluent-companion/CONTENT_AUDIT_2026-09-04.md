@@ -34,6 +34,9 @@ blocked.**
 | Unpublished status | Pass |
 | Placeholder and raw source-markup leakage | Pass |
 | Explicit attribution of imported context notes | Pass |
+| Scripture-first reading hierarchy | Pass |
+| Generated cross-reference non-displacement rule | Pass |
+| Forced theological-resolution language | Pass |
 | Exact long-paragraph duplication | Pass |
 | Deterministic unsafe-phrase scan | Pass |
 | Exact complete-corpus coverage | Pass |
@@ -69,6 +72,11 @@ blocked.**
 - Qualified the reconstructed Corinth setting in the First Thessalonians guide
   and placed the Psalms guide's superscription caution beside Psalm 122's
   categorical source note.
+- Required every Companion's reading step to direct readers to the Fluent
+  Scripture text and required generated scriptural connections to deepen rather
+  than replace the chapter's own voice.
+- Added a permanent regression check for forced single-interpretation and
+  theological-closure language.
 
 ## Human gates still open
 
