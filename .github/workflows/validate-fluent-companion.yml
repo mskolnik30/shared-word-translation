@@ -21,4 +21,5 @@ jobs:
           python-version: "3.12"
       - name: Audit Fluent Companion candidates
         run: python3 tools/audit_fluent_companion.py
-
+      - name: Audit complete-corpus coverage
+        run: python3 tools/audit_fluent_companion_coverage.py

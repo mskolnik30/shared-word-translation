@@ -100,10 +100,13 @@ def main() -> int:
     paragraph_owners: dict[str, list[str]] = defaultdict(list)
 
     batch_manifests = []
+    record_manifests = []
     for manifest_path in sorted((CONTENT_ROOT / "manifests").glob("*.json")):
         candidate = json.loads(manifest_path.read_text(encoding="utf-8"))
         if "books" in candidate:
             batch_manifests.append(candidate)
+        if "records" in candidate:
+            record_manifests.append(candidate)
     calibration_manifest = json.loads((CONTENT_ROOT / "manifests" / "calibration.json").read_text(encoding="utf-8"))
     source_locks = json.loads((CONTENT_ROOT / "manifests" / "source-locks.json").read_text(encoding="utf-8"))["sources"]
     manifest_chapters = {
@@ -111,7 +114,11 @@ def main() -> int:
         for manifest in batch_manifests
         for book in manifest["books"]
         for chapter in book["chapters"]
-    } | set(calibration_manifest["records"])
+    } | {
+        chapter
+        for manifest in record_manifests
+        for chapter in manifest["records"]
+    }
     discovered_chapters = {path.relative_to(ROOT).as_posix() for path in chapter_files()}
     if manifest_chapters != discovered_chapters:
         missing = sorted(discovered_chapters - manifest_chapters)
@@ -197,7 +204,7 @@ def main() -> int:
         if "### Follow the Story" not in text and "### Follow the Movement" not in text:
             errors.append({"file": rel, "check": "structure", "message": "Missing story/movement heading"})
         chapter_path = text.split("### Chapter Path", 1)[-1].split("### Watch For", 1)[0]
-        source_verses = [int(number) for number in re.findall(r"(?m)^v(\d{2}):", source.read_text(encoding="utf-8"))] if source.is_file() else []
+        source_verses = [int(number) for number in re.findall(r"(?m)^v(\d{2,3}):", source.read_text(encoding="utf-8"))] if source.is_file() else []
         max_verse = max(source_verses, default=0)
         for cited_chapter, start, end in re.findall(r"(\d+):(\d+)(?:[–-](\d+))?", chapter_path):
             if int(cited_chapter) != int(meta.get("chapter", "0")):

@@ -1,6 +1,19 @@
 # Fluent Companion release readiness
 
-This branch prepares content for review. It does not authorize publication.
+This branch begins complete chapter-by-chapter production. It does not authorize publication.
+
+## Completion requirement
+
+- 66 source-locked book introductions.
+- One substantive, source-locked Companion for every Fluent chapter file.
+- Repository inventory: 1,189 chapters (929 Old Testament; 260 New Testament).
+- Current candidate coverage: 1,189 of 1,189 chapters.
+- Remaining chapter files to create: 0.
+- Complete-corpus audit: PASS on 2026-09-06 with 0 errors and 0 warnings.
+
+The earlier representative-coverage definition has been withdrawn. The full
+chapter corpus is now present and passes the automated coverage gate. This is
+an unpublished candidate, not a human-approved or live release.
 
 ## Completed in the production draft
 
@@ -25,11 +38,12 @@ This branch prepares content for review. It does not authorize publication.
 - [ ] A human publication approver records approval for the exact release commit.
 - [ ] Deployment is initiated only after that approval.
 
-## Tomorrow morning sequence
+## Human-review and release sequence
 
-1. Review the audit report and every warning.
-2. Sample at least one chapter per book plus all high-risk notes.
-3. Record human decisions in `reviews/wave01-review.md`.
+1. Review the complete-corpus audit report.
+2. Review every generated chapter, prioritizing all high-risk passages and
+   replacing baseline prose where chapter-specific depth is needed.
+3. Record human decisions in `reviews/complete-corpus-expansion-review.md`.
 4. Re-run the audit and build the reader from the approved commit.
 5. Perform mobile and desktop smoke tests.
 6. Approve and deploy the exact commit; verify the live URL.
