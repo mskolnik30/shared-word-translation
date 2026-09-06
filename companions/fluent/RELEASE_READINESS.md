@@ -13,7 +13,7 @@ This branch begins complete chapter-by-chapter production. It does not authorize
 
 The earlier representative-coverage definition has been withdrawn. The full
 chapter corpus is now present and passes the automated coverage gate. Expanded
-human-review Rounds 1 and 2 are approved, but later human gates remain pending.
+human-review Rounds 1–3 are approved, but later human gates remain pending.
 This is an unpublished candidate, not an approved or live release.
 
 ## Completed in the production draft
@@ -24,6 +24,8 @@ This is an unpublished candidate, not an approved or live release.
 - Complete book introductions and chapter companions for Obadiah, Philemon, 2 John, 3 John, and Jude.
 - Exact bindings to QA-passed Fluent chapter sources.
 - Structural, binding, placeholder, duplication, and safety-language audit tooling.
+- A required agency, trauma-awareness, and non-coercion safeguard in every
+  source-derived generated prayer-and-practice section.
 - Explicit unpublished and human-review-required metadata on every record.
 
 ## Required before a live push

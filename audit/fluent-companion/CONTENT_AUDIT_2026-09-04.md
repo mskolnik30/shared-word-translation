@@ -3,8 +3,8 @@
 ## Result
 
 **PASS. All 1,189 canonical Fluent chapters have exactly one source-bound
-Companion candidate. The audit reports 0 errors and 0 warnings. Expanded Round
-1 is human-approved; later human gates remain pending, and publication remains
+Companion candidate. The audit reports 0 errors and 0 warnings. Expanded Rounds
+1–3 are human-approved; later human gates remain pending, and publication remains
 blocked.**
 
 ## Audited scope
@@ -39,6 +39,7 @@ blocked.**
 | Forced theological-resolution language | Pass |
 | Exact long-paragraph duplication | Pass |
 | Deterministic unsafe-phrase scan | Pass |
+| Generated formation-safeguard requirement | Pass |
 | Exact complete-corpus coverage | Pass |
 | JSON syntax | Pass |
 | Python syntax | Pass |
@@ -77,13 +78,17 @@ blocked.**
   than replace the chapter's own voice.
 - Added a permanent regression check for forced single-interpretation and
   theological-closure language.
+- Added an agency, trauma-awareness, and non-coercion safeguard to all 1,094
+  generated prayer-and-practice sections and made its presence an audit
+  requirement.
+- Expanded the unsafe-phrase regression scan for coercive forgiveness or
+  reconciliation, remaining in danger, spiritualized rejection of care,
+  victim-blaming, imitative violence, and endorsement of slavery.
 
 ## Human gates still open
 
-- Context, uncertainty, and exegetical judgment (Round 2)
-- Historical and cultural context
-- Theological restraint and ambiguity
 - Formation, trauma awareness, and non-coercion
+- Chapter-specific depth
 - Plain-language reader testing
 - Accessibility and reader integration
 - Final publication approval on an exact release commit

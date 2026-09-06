@@ -49,7 +49,23 @@ SAFETY_PATTERNS = [
     r"suffering means God",
     r"mental illness is (?:a |the )?demon",
     r"your faith was not strong enough",
+    r"(?:must|should) (?:remain|stay) in (?:an )?(?:abusive|dangerous)",
+    r"(?:must|should) (?:forgive|reconcile) immediately",
+    r"(?:must|should) submit to (?:an )?abuser",
+    r"obey (?:an|your) abuser",
+    r"do not (?:seek|use) (?:medical|professional|qualified) (?:care|help|support)",
+    r"(?:therapy|medication|medical care) (?:shows|means|proves) (?:weak|a lack)",
+    r"(?:the|a) victim (?:caused|deserved|is to blame)",
+    r"(?:biblical|divine) violence (?:should|must) be (?:imitated|celebrated)",
+    r"slavery (?:was|is) (?:good|God's design|the biblical ideal)",
 ]
+
+GENERATED_FORMATION_SAFEGUARD = (
+    "Keep any response voluntary, proportionate, and attentive to the needs of people "
+    "with less power. If this chapter touches trauma or present danger, you may pause; "
+    "do not force disclosure, quick forgiveness, reconciliation, or continued exposure "
+    "to harm, and seek trustworthy support when needed."
+)
 THEOLOGICAL_CLOSURE_PATTERNS = [
     r"the only (?:possible|correct|faithful) (?:meaning|reading|interpretation)",
     r"(?:definitively|simply) means",
@@ -305,6 +321,13 @@ def main() -> int:
                     "file": rel,
                     "check": "theological-restraint",
                     "message": "Generated scriptural threads must not replace the chapter's own voice",
+                })
+            prayer_section = text.split("### Prayer and Practice", 1)[-1].split("## Go Deeper", 1)[0]
+            if GENERATED_FORMATION_SAFEGUARD not in prayer_section:
+                errors.append({
+                    "file": rel,
+                    "check": "formation-safety",
+                    "message": "Generated practice must preserve agency, trauma awareness, and non-coercion",
                 })
 
         words = len(re.findall(r"\b[\w’'-]+\b", re.sub(r"^---\n.*?\n---\n", "", text, flags=re.S)))

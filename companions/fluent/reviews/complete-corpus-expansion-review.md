@@ -1,6 +1,6 @@
 ---
 review_record: fluent-companion-complete-corpus-expansion
-review_status: ROUND_2_APPROVED
+review_status: ROUND_3_APPROVED
 publication_status: blocked
 scope: every Fluent chapter in the 66-book Protestant canon
 canonical_chapter_count: 1189
@@ -168,7 +168,7 @@ accessibility, publication, merging, or deployment gates.
 
 ## Round 3 evidence packet: theological restraint
 
-**Decision state:** READY_FOR_HUMAN_DECISION
+**Decision state:** APPROVED
 
 **Candidate review commit:**
 `654b42c61ffa6b205e88f3cecd026b6cd2156b53`
@@ -213,13 +213,27 @@ restraint, and preservation of disputed readings for this exact candidate. It
 would not approve formation and safety, chapter-specific depth, plain-language
 testing, accessibility, publication, merge, or deployment.
 
+### Approval
+
+- Approver: Matthew J. Skolnik
+- Approval date: 2026-09-06
+- Reviewed audit/rule commit:
+  `654b42c61ffa6b205e88f3cecd026b6cd2156b53`
+- Reviewed evidence-packet commit:
+  `96f38e7e33f6d04a2c97db16987d80f02195c5d9`
+- Scope: Round 3 only—Scripture-versus-Companion hierarchy, theological
+  restraint, and preservation of disputed readings.
+
+This approval does not approve formation and safety, chapter-specific depth,
+plain-language testing, accessibility, publication, merging, or deployment.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
 |---|---|---|---|---|
 | Structure, source fidelity, and reader cleanliness | Approved | Matthew J. Skolnik | 2026-09-06 | Expanded Round 1 approved against commit `4661e199`; exact source bindings, chapter paths, and repaired reader-facing imports accepted at gate level. |
 | Context and uncertainty | Approved | Matthew J. Skolnik | 2026-09-06 | Round 2 approved for content commit `a3826231` and evidence-packet commit `efca72d0`. |
-| Theological restraint | Pending—evidence ready |  |  | Round 3 candidate `654b42c6`; Scripture-first hierarchy, non-displacement, forced-resolution scan, and high-risk sampling complete. |
+| Theological restraint | Approved | Matthew J. Skolnik | 2026-09-06 | Round 3 approved for audit/rule commit `654b42c6` and evidence-packet commit `96f38e7e`. |
 | Formation and safety | Pending |  |  | Review agency, non-coercion, trauma awareness, power, violence, gender, and vulnerable readers. |
 | Chapter-specific depth | Pending |  |  | Replace or deepen source-derived baseline prose where a chapter needs more than structural orientation. |
 | Plain-language clarity | Pending |  |  | Test with curious teen and adult readers. |

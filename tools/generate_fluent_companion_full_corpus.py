@@ -21,6 +21,13 @@ FLUENT = ROOT / "translations" / "fluent"
 COMPANION = ROOT / "companions" / "fluent"
 MANIFEST_ROOT = COMPANION / "manifests"
 
+FORMATION_SAFEGUARD = (
+    "Keep any response voluntary, proportionate, and attentive to the needs of people "
+    "with less power. If this chapter touches trauma or present danger, you may pause; "
+    "do not force disclosure, quick forgiveness, reconciliation, or continued exposure "
+    "to harm, and seek trustworthy support when needed."
+)
+
 
 def frontmatter(text: str) -> dict[str, str]:
     if not text.startswith("---\n"):
@@ -417,7 +424,7 @@ For {shown} {chapter}: {genre_guidance(testament, book)} The goal is attentive u
 
 ### Prayer and Practice
 
-Choose one phrase or image from {shown} {chapter} and carry it through the day. Let the chapter question your first response before you settle on an application. Before turning it into advice for someone else, ask what it reveals about your own attention, responsibility, hope, or need for mercy.
+Choose one phrase or image from {shown} {chapter} and carry it through the day. Let the chapter question your first response before you settle on an application. Before turning it into advice for someone else, ask what it reveals about your own attention, responsibility, hope, or need for mercy. {FORMATION_SAFEGUARD}
 
 ## Go Deeper
 
