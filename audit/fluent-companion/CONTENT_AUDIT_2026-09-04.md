@@ -13,8 +13,8 @@ blocked.**
 - 66 canonical book introductions
 - 95 preserved hand-shaped chapter records
 - 1,094 source-derived generated chapter records requiring human editorial review
-- 877,373 chapter-companion words including front matter
-- 23,809 book-introduction words including front matter
+- 920,624 chapter-companion words including front matter
+- 23,819 book-introduction words including front matter
 - Canonical book representation: 66 of 66 books
 - Old Testament chapter coverage: 929 of 929 chapters
 - New Testament chapter coverage: 260 of 260 chapters

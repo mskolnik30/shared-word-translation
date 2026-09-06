@@ -227,6 +227,61 @@ testing, accessibility, publication, merge, or deployment.
 This approval does not approve formation and safety, chapter-specific depth,
 plain-language testing, accessibility, publication, merging, or deployment.
 
+## Round 4 evidence packet: formation and safety
+
+**Decision state:** READY_FOR_HUMAN_DECISION
+
+**Candidate review commit:**
+`1410a917907b2d763a5346f3d38b17925db200f7`
+
+Round 4 tests whether questions, prayers, and practices preserve reader agency;
+whether trauma, danger, unequal power, violence, gender, illness, slavery, and
+grief are handled without coercion; and whether the Companion refuses to make
+disclosure, reconciliation, continued exposure to harm, or promised healing a
+condition of faithfulness.
+
+### Corpus-wide review
+
+- Read all 95 hand-shaped `Prayer and Practice` sections and reviewed their
+  surrounding safety guidance. They retain passage-specific care, including
+  permission to pause, survivor-centered language, medical and professional
+  support, boundaries, consent, and non-coercive action where relevant.
+- The first generated-corpus pass exposed a systemic weakness: all 1,094
+  generated records asked for a personal response, but severe chapters could
+  reach that exercise without an explicit agency or trauma boundary.
+- Corrected all 1,094 generated `Prayer and Practice` sections. Every one now
+  requires a voluntary and proportionate response attentive to people with
+  less power, permits pausing when trauma or danger is involved, forbids forced
+  disclosure or quick forgiveness and reconciliation, rejects continued
+  exposure to harm, and permits trustworthy support.
+- Made the complete safeguard an exact audit requirement for every generated
+  record, so a later regeneration cannot silently remove it.
+- Expanded the prohibited-language audit for coercive forgiveness or
+  reconciliation, remaining in danger, submission to an abuser, spiritualized
+  rejection of medical or professional care, victim-blaming, imitative
+  violence, and endorsement of slavery. The corpus contains no matches.
+- Re-ran the Fluent content and exact-coverage audits plus the translation
+  family, apparatus, and all seven TSW batch regressions. All pass with 0
+  errors and 0 warnings; all 1,189 Fluent chapters remain covered.
+
+### Close-reading sample
+
+| Passage group | Formation or safety pressure tested | Result |
+|---|---|---|
+| Numbers 31; Deuteronomy 20–22; Joshua 6, 10–11 | War, captives, destruction, and modern imitation | Severe source language remains visible; the guides reject timeless authorization for conquest; practices preserve agency and the safety of people with less power. |
+| Judges 11, 19–21; 2 Samuel 11, 13 | Sacrificed women, sexual violence, institutional power, and victim-blaming | Harm is named without romanticizing it; survivors are not blamed or required to disclose, forgive quickly, reconcile, or remain accessible to offenders. |
+| Psalm 13, 88, 137; Job 3; 1 Kings 19 | Grief, rage, despair, and a request to die | Readers may leave prayer unresolved or pause; despair is not shamed or converted into a lesson, and support is permitted rather than spiritualized away. |
+| Mark 5; John 9; James 5; Philippians 4 | Healing, disability, distress, and prayer | Healing is not guaranteed, illness is not blamed on deficient faith, and prayer is allowed to accompany medical care and sustained support. |
+| Matthew 18; 2 Corinthians 2, 5; 1 John 1 | Discipline, confession, forgiveness, and reconciliation | Restoration is not made coercive; the formation rule protects privacy, boundaries, safety, and truthful accountability. |
+| 1 Corinthians 7, 11, 14; Ephesians 5; 1 Timothy 2; 1 Peter 3 | Marriage, gender, submission, authority, and worship | Disputed readings remain visible; mutuality never authorizes ownership or abuse, and people facing danger may seek safety and qualified help. |
+| Exodus 21; 1 Timothy 6; Titus 2; Philemon | Slavery, constrained labor, and unequal social power | Slavery is named rather than disguised or endorsed; questions and practices turn toward freedom, fair treatment, relinquished control, and the agency of constrained people. |
+| Ezekiel 16; Hosea 1–3; Nahum 3 | Sexualized prophetic imagery and gendered humiliation | The rhetoric's harm is named, its force is not sanitized, and readers are told not to imitate body-shaming, sexual humiliation, or gender contempt. |
+
+Round 4 approval would cover formation, trauma awareness, non-coercion, power,
+violence, gender, illness, slavery, and vulnerable readers for this exact
+candidate. It would not approve chapter-specific depth, plain-language reader
+testing, accessibility, publication, merge, or deployment.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
@@ -234,7 +289,7 @@ plain-language testing, accessibility, publication, merging, or deployment.
 | Structure, source fidelity, and reader cleanliness | Approved | Matthew J. Skolnik | 2026-09-06 | Expanded Round 1 approved against commit `4661e199`; exact source bindings, chapter paths, and repaired reader-facing imports accepted at gate level. |
 | Context and uncertainty | Approved | Matthew J. Skolnik | 2026-09-06 | Round 2 approved for content commit `a3826231` and evidence-packet commit `efca72d0`. |
 | Theological restraint | Approved | Matthew J. Skolnik | 2026-09-06 | Round 3 approved for audit/rule commit `654b42c6` and evidence-packet commit `96f38e7e`. |
-| Formation and safety | Pending |  |  | Review agency, non-coercion, trauma awareness, power, violence, gender, and vulnerable readers. |
+| Formation and safety | Pending—evidence ready |  |  | Round 4 candidate `1410a917`; all generated practices now have an enforced agency and trauma safeguard, unsafe-language scan and high-risk sampling complete. |
 | Chapter-specific depth | Pending |  |  | Replace or deepen source-derived baseline prose where a chapter needs more than structural orientation. |
 | Plain-language clarity | Pending |  |  | Test with curious teen and adult readers. |
 | Accessibility and reader integration | Pending |  |  | Verify labels, reading order, reflow, controls, and unavailable-state behavior. |
