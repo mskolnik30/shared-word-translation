@@ -166,13 +166,60 @@ depth, clarity, accessibility, publication, merge, or deployment gates.
 This approval does not approve later theological, formation, depth, clarity,
 accessibility, publication, merging, or deployment gates.
 
+## Round 3 evidence packet: theological restraint
+
+**Decision state:** READY_FOR_HUMAN_DECISION
+
+**Candidate review commit:**
+`654b42c61ffa6b205e88f3cecd026b6cd2156b53`
+
+Round 3 tests whether the Companion remains subordinate to Scripture, avoids
+turning one theological synthesis into a chapter's only possible meaning, and
+allows related passages to deepen rather than displace the passage being read.
+
+### Corpus-wide review
+
+- All 1,189 chapter records direct the reader to the Fluent Scripture text in
+  the `Read the Chapter` step.
+- All 1,094 generated records explicitly state that wider biblical connections
+  should deepen attention to the passage rather than replace its own voice.
+- A corpus-wide scan found no claims of an `only correct interpretation`, no
+  commands that all or all true Christians must adopt one disputed reading, and
+  no language claiming that the church replaced Israel.
+- The audit now fails if a chapter omits its Fluent reading direction, if a
+  generated record loses its non-displacement rule, or if defined
+  forced-resolution language enters the corpus.
+- The content, exact-coverage, translation-family, apparatus, and TSW regression
+  audits all pass with 0 errors and 0 warnings.
+
+### Close-reading sample
+
+| Passage group | Theological pressure tested | Result |
+|---|---|---|
+| Genesis 1; Psalm 13 | Creation doctrine and movement from lament to trust | Poetry and narrative retain their own form; summary does not turn them into a later system or demand premature emotional resolution. |
+| Isaiah 7, 53; Zechariah 12 | Christian rereading of Israel's prophetic texts | Immediate horizons remain visible; New Testament readings are traced without erasing unresolved first-horizon questions. |
+| Matthew 5; Mark 9, 16; John 7–8 | Law, fulfillment, kingdom timing, and textual traditions | The Gospel's own sequence and textual evidence govern before harmonization or doctrinal synthesis. |
+| Romans 8–11; Galatians 3 | Providence, election, Israel, and Gentile inclusion | Tensions remain within each letter's argument; suffering is not called good and Gentile inclusion is not framed as Israel's replacement. |
+| 1 Corinthians 11, 14; 1 Timothy 2 | Worship, authority, and gender | Wider canonical evidence remains in conversation with local instructions; disputed vocabulary and scope are not resolved by assertion. |
+| 1 Thessalonians 4; 2 Thessalonians 2 | Resurrection hope and Christ's coming | Pastoral purpose controls; imagery is not converted into an itinerary, identity chart, or countdown. |
+| Hebrews 7; 2 Peter 3; Revelation 13, 21 | Fulfillment, cosmic renewal, and apocalypse | Analogy, symbol, and textual uncertainty remain visible; hope is not converted into speculative chronology or contempt for creation. |
+
+No reader-facing content correction was required by Round 3. The reviewed
+corpus consistently places Scripture first and marks synthesis as a secondary
+act of reading. The audit additions preserve that boundary against regression.
+
+Round 3 approval would cover Scripture-versus-Companion hierarchy, theological
+restraint, and preservation of disputed readings for this exact candidate. It
+would not approve formation and safety, chapter-specific depth, plain-language
+testing, accessibility, publication, merge, or deployment.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
 |---|---|---|---|---|
 | Structure, source fidelity, and reader cleanliness | Approved | Matthew J. Skolnik | 2026-09-06 | Expanded Round 1 approved against commit `4661e199`; exact source bindings, chapter paths, and repaired reader-facing imports accepted at gate level. |
 | Context and uncertainty | Approved | Matthew J. Skolnik | 2026-09-06 | Round 2 approved for content commit `a3826231` and evidence-packet commit `efca72d0`. |
-| Theological restraint | Pending |  |  | Confirm the Companion does not displace Scripture or force later synthesis into the chapter. |
+| Theological restraint | Pending—evidence ready |  |  | Round 3 candidate `654b42c6`; Scripture-first hierarchy, non-displacement, forced-resolution scan, and high-risk sampling complete. |
 | Formation and safety | Pending |  |  | Review agency, non-coercion, trauma awareness, power, violence, gender, and vulnerable readers. |
 | Chapter-specific depth | Pending |  |  | Replace or deepen source-derived baseline prose where a chapter needs more than structural orientation. |
 | Plain-language clarity | Pending |  |  | Test with curious teen and adult readers. |
