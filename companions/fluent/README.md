@@ -17,7 +17,7 @@ Each chapter follows the locked Template 1.0 rhythm:
 
 All material in this directory is an unpublished candidate until its individual and batch review gates are approved by a human editor. Machine audits may detect structural, binding, duplication, and safety-language problems; they cannot approve theology, formation, accessibility, or publication.
 
-The complete chapter-by-chapter candidate contains a source-locked book introduction for all 66 canonical books and an unpublished Companion record for each of the repository's 1,189 Fluent chapters. The corpus includes 95 hand-shaped chapter records and 1,094 source-derived generated records. Expanded human-review Rounds 1–4 are approved. The consolidated Rounds 5–7 evidence packet covers chapter-specific depth, plain-language clarity, and the content-side reader/accessibility contract; human approval, release-build testing, and final publication approval remain pending.
+The complete chapter-by-chapter candidate contains a source-locked book introduction for all 66 canonical books and an unpublished Companion record for each of the repository's 1,189 Fluent chapters. The corpus includes 95 hand-shaped chapter records and 1,094 source-derived generated records. Human-review Rounds 1–7 are approved for the exact recorded commits. Release-build runtime/accessibility testing and final publication approval remain pending.
 
 ## Paths
 

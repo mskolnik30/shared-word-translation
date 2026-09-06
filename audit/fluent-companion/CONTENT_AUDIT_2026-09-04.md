@@ -4,9 +4,8 @@
 
 **PASS. All 1,189 canonical Fluent chapters have exactly one source-bound
 Companion candidate. The audit reports 0 errors and 0 warnings. Expanded Rounds
-1–4 are human-approved; consolidated Rounds 5–7 are prepared for a human
-decision, release-build testing remains pending, and publication remains
-blocked.**
+1–7 are human-approved, release-build testing remains pending, and publication
+remains blocked.**
 
 ## Audited scope
 
@@ -21,7 +20,8 @@ blocked.**
 - New Testament chapter coverage: 260 of 260 chapters
 - Complete-corpus chapter coverage: 1,189 of 1,189 chapters
 - Missing or duplicate chapter companions: 0
-- Candidate status: text complete; automated audit passed; human review pending
+- Candidate status: text complete; automated audit passed; Rounds 1–7 approved;
+  runtime release validation and publication approval pending
 
 ## Passing checks
 
@@ -105,7 +105,6 @@ blocked.**
 
 ## Human gates still open
 
-- Consolidated Rounds 5–7 human decision
 - Release-build keyboard, screen-reader, reflow, device, print, and visual tests
 - Final publication approval on an exact release commit
 

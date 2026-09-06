@@ -13,9 +13,8 @@ This branch begins complete chapter-by-chapter production. It does not authorize
 
 The earlier representative-coverage definition has been withdrawn. The full
 chapter corpus is now present and passes the automated coverage gate. Expanded
-human-review Rounds 1–4 are approved. The consolidated Rounds 5–7 evidence is
-prepared for one human decision, but that decision, release-build runtime
-testing, and the final publication gate remain pending.
+human-review Rounds 1–7 are approved. Release-build runtime testing and the
+final publication gate remain pending.
 This is an unpublished candidate, not an approved or live release.
 
 ## Completed in the production draft
@@ -49,10 +48,8 @@ This is an unpublished candidate, not an approved or live release.
 
 ## Human-review and release sequence
 
-1. Decide the consolidated Rounds 5–7 evidence in
-   `reviews/complete-corpus-expansion-review.md`.
-2. Re-run the audits and build the reader from the approved content commit.
-3. Perform keyboard, screen-reader, 200% zoom/reflow, phone, tablet, desktop,
+1. Re-run the audits and build the reader from the approved content commit.
+2. Perform keyboard, screen-reader, 200% zoom/reflow, phone, tablet, desktop,
    print, and representative-passage smoke tests on that release build.
-4. Record final publication approval for the exact release commit.
-5. Merge and deploy that commit; verify the live URL and rollback package.
+3. Record final publication approval for the exact release commit.
+4. Merge and deploy that commit; verify the live URL and rollback package.

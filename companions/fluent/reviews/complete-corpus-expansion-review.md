@@ -1,6 +1,6 @@
 ---
 review_record: fluent-companion-complete-corpus-expansion
-review_status: ROUND_4_APPROVED
+review_status: ROUNDS_1_7_APPROVED
 publication_status: blocked
 scope: every Fluent chapter in the 66-book Protestant canon
 canonical_chapter_count: 1189
@@ -298,7 +298,7 @@ testing, accessibility, publication, merging, or deployment.
 
 ## Consolidated Rounds 5–7 evidence packet
 
-**Decision state:** READY FOR ONE HUMAN DECISION
+**Decision state:** APPROVED
 
 **Candidate content and audit commit:**
 `651d0d72265df1dd93288280bd2543df9b039ca9`
@@ -384,6 +384,22 @@ It would leave four release actions separate and blocked: merge, construction
 of the exact reader release, runtime/device/accessibility testing, and final
 publication/deployment approval.
 
+### Approval
+
+- Approver: Matthew J. Skolnik
+- Approval date: 2026-09-06
+- Reviewed content and audit commit:
+  `651d0d72265df1dd93288280bd2543df9b039ca9`
+- Reviewed evidence-packet commit:
+  `95c82d079d80c82e85792bd0be1b7b2ce248df15`
+- Scope: Consolidated Rounds 5–7—first-edition chapter-specific depth,
+  corpus-side plain-language clarity and semantic structure, and the
+  checksum-bound reader-integration contract.
+
+This approval closes all seven editorial rounds. It does not approve merging,
+the external reader release build, runtime/device/assistive-technology
+verification, publication, or deployment.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
@@ -392,7 +408,8 @@ publication/deployment approval.
 | Context and uncertainty | Approved | Matthew J. Skolnik | 2026-09-06 | Round 2 approved for content commit `a3826231` and evidence-packet commit `efca72d0`. |
 | Theological restraint | Approved | Matthew J. Skolnik | 2026-09-06 | Round 3 approved for audit/rule commit `654b42c6` and evidence-packet commit `96f38e7e`. |
 | Formation and safety | Approved | Matthew J. Skolnik | 2026-09-06 | Round 4 approved for content/audit commit `1410a917` and evidence-packet commit `ce791000`. |
-| Chapter-specific depth | Ready for consolidated decision |  |  | Round 5 evidence accepts source-derived orientation as the first-edition baseline while preserving 95 richer hand-shaped records. |
-| Plain-language clarity | Ready for consolidated decision |  |  | Round 6 corpus checks pass; less-familiar-reader observations remain part of release validation and later improvement. |
-| Accessibility and reader integration | Content-side ready; runtime pending |  |  | Round 7 index and contract pass; the external reader build must still be tested with devices and assistive technology. |
+| Chapter-specific depth | Approved | Matthew J. Skolnik | 2026-09-06 | Round 5 accepts source-derived orientation as the first-edition baseline while preserving 95 richer hand-shaped records. |
+| Plain-language clarity | Approved | Matthew J. Skolnik | 2026-09-06 | Round 6 corpus-side clarity and semantic-structure checks approved; less-familiar-reader observations remain part of release validation and later improvement. |
+| Accessibility and reader integration | Content-side approved | Matthew J. Skolnik | 2026-09-06 | Round 7 index and integration contract approved; the external reader build still requires device and assistive-technology verification. |
+| Release-build runtime validation | Pending |  |  | Test keyboard, screen-reader state, 200% zoom/reflow, phone, tablet, desktop, dark mode, print, maps, and representative passages. |
 | Publication approval | Blocked |  |  | Requires all prior gates and approval of an exact release commit. |
