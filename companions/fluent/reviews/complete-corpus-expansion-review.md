@@ -296,6 +296,94 @@ testing, accessibility, publication, merge, or deployment.
 This approval does not approve chapter-specific depth, plain-language reader
 testing, accessibility, publication, merging, or deployment.
 
+## Consolidated Rounds 5–7 evidence packet
+
+**Decision state:** READY FOR ONE HUMAN DECISION
+
+**Candidate content and audit commit:**
+`651d0d72265df1dd93288280bd2543df9b039ca9`
+
+This packet combines the three remaining editorial rounds without collapsing
+their criteria. One approval may accept all three repository-side gates for
+this exact commit. It does not approve merging, publication, or deployment,
+and it cannot certify browser or assistive-technology behavior that exists
+only in the external Church Commons reader.
+
+### Round 5: chapter-specific depth
+
+- Rechecked all 1,094 generated records against their exact Fluent source
+  headings, verse ranges, notes, vocabulary, and neighboring-chapter position.
+- All 1,053 generated chapters with an importable source note retain an
+  explicitly attributed, verse-labeled context observation.
+- All 1,088 generated chapters with importable source vocabulary now retain a
+  verse-labeled vocabulary observation. The audit fails if one is omitted.
+- Repaired the 68 two-section chapters whose retelling prompt could repeat its
+  closing heading instead of describing a genuine movement.
+- Replaced exhaustive heading lists in 140 chapters with more than six named
+  sections by a readable beginning–middle–end orientation while preserving the
+  complete section sequence in `Chapter Path`.
+- Split older multi-item apparatus blocks into discrete observations and
+  removed raw footnote markers and duplicated chapter-and-verse prefixes.
+- The 95 hand-shaped records remain unchanged and preserve their intentionally
+  richer treatment of calibration, high-risk, and complete-book passages.
+
+The generated chapters remain concise source-derived orientation rather than
+technical commentary. Round 5 approval would accept that level of depth as the
+first-edition baseline; it would not claim that every generated chapter has
+received a bespoke line-by-line rewrite.
+
+### Round 6: plain-language clarity
+
+- All 1,189 records contain the same visible reading rhythm and exactly one
+  level-one chapter title.
+- No record contains a heading-level skip, raw HTML element, raw source
+  footnote marker, vague link label, or sentence longer than 100 words.
+- Reader-facing repository paths, editorial workflow labels, and raw apparatus
+  syntax remain excluded by the permanent audit.
+- Repeated two-section endpoints, oversized section enumerations, and
+  duplicated verse references were corrected in the generator and rebuilt in
+  every affected chapter.
+- The content audit reports 0 errors and 0 warnings across 1,189 records and 66
+  introductions.
+
+This is a corpus-wide editorial and mechanical clarity review. It does not
+invent participant evidence: comprehension observations from less-familiar
+readers should still be recorded during release validation and used for later
+improvements.
+
+### Round 7: accessibility and reader integration
+
+- Added `manifests/reader-index.json` with exactly 1,189 unique chapter
+  bindings and all 66 book guides.
+- Every indexed chapter is checked against its book, chapter, Fluent source,
+  Companion file, workflow status, and SHA-256 record digest.
+- The index uses the approved public label `Understand the Passage`, names
+  Fluent as the home translation, and retains an explicit `unpublished` hard
+  stop.
+- Added `docs/FLUENT_COMPANION_READER_INTEGRATION.md` to preserve Scripture as
+  the primary reading surface, keep the Companion closed by default, define an
+  accessible unavailable state, preserve reader location, and prevent raw
+  Markdown or editorial metadata from reaching the public UI.
+- The contract defines release-build checks for keyboard operation, focus,
+  screen-reader state, 200% zoom/reflow, phone/tablet/desktop layouts, dark
+  mode, print, map zoom, and representative passages.
+
+The repository-side accessibility structure and integration contract are
+ready for approval. Runtime accessibility is deliberately not marked as
+passed until the exact release build is exercised in the reader.
+
+### Consolidated decision boundary
+
+Approval of Rounds 5–7 would approve, for commit `651d0d72`:
+
+1. first-edition chapter-specific depth as a source-derived baseline;
+2. corpus-side plain-language and semantic-structure checks; and
+3. the checksum-bound reader integration contract.
+
+It would leave four release actions separate and blocked: merge, construction
+of the exact reader release, runtime/device/accessibility testing, and final
+publication/deployment approval.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
@@ -304,7 +392,7 @@ testing, accessibility, publication, merging, or deployment.
 | Context and uncertainty | Approved | Matthew J. Skolnik | 2026-09-06 | Round 2 approved for content commit `a3826231` and evidence-packet commit `efca72d0`. |
 | Theological restraint | Approved | Matthew J. Skolnik | 2026-09-06 | Round 3 approved for audit/rule commit `654b42c6` and evidence-packet commit `96f38e7e`. |
 | Formation and safety | Approved | Matthew J. Skolnik | 2026-09-06 | Round 4 approved for content/audit commit `1410a917` and evidence-packet commit `ce791000`. |
-| Chapter-specific depth | Pending |  |  | Replace or deepen source-derived baseline prose where a chapter needs more than structural orientation. |
-| Plain-language clarity | Pending |  |  | Test with curious teen and adult readers. |
-| Accessibility and reader integration | Pending |  |  | Verify labels, reading order, reflow, controls, and unavailable-state behavior. |
+| Chapter-specific depth | Ready for consolidated decision |  |  | Round 5 evidence accepts source-derived orientation as the first-edition baseline while preserving 95 richer hand-shaped records. |
+| Plain-language clarity | Ready for consolidated decision |  |  | Round 6 corpus checks pass; less-familiar-reader observations remain part of release validation and later improvement. |
+| Accessibility and reader integration | Content-side ready; runtime pending |  |  | Round 7 index and contract pass; the external reader build must still be tested with devices and assistive technology. |
 | Publication approval | Blocked |  |  | Requires all prior gates and approval of an exact release commit. |
