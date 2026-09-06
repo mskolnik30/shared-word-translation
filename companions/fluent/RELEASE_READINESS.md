@@ -13,8 +13,9 @@ This branch begins complete chapter-by-chapter production. It does not authorize
 
 The earlier representative-coverage definition has been withdrawn. The full
 chapter corpus is now present and passes the automated coverage gate. Expanded
-human-review Rounds 1–4 are approved, but the consolidated depth, clarity, and
-accessibility review and final publication gate remain pending.
+human-review Rounds 1–4 are approved. The consolidated Rounds 5–7 evidence is
+prepared for one human decision, but that decision, release-build runtime
+testing, and the final publication gate remain pending.
 This is an unpublished candidate, not an approved or live release.
 
 ## Completed in the production draft
@@ -27,6 +28,10 @@ This is an unpublished candidate, not an approved or live release.
 - Structural, binding, placeholder, duplication, and safety-language audit tooling.
 - A required agency, trauma-awareness, and non-coercion safeguard in every
   source-derived generated prayer-and-practice section.
+- A checksum-bound reader index for all 1,189 chapters and 66 book guides.
+- A reader-integration contract covering Scripture-first hierarchy, closed-by-
+  default Companion panels, semantic structure, unavailable-state behavior,
+  and release-build accessibility checks.
 - Explicit unpublished and human-review-required metadata on every record.
 
 ## Required before a live push
@@ -44,10 +49,10 @@ This is an unpublished candidate, not an approved or live release.
 
 ## Human-review and release sequence
 
-1. Review the complete-corpus audit report.
-2. Review every generated chapter, prioritizing all high-risk passages and
-   replacing baseline prose where chapter-specific depth is needed.
-3. Record human decisions in `reviews/complete-corpus-expansion-review.md`.
-4. Re-run the audit and build the reader from the approved commit.
-5. Perform mobile and desktop smoke tests.
-6. Approve and deploy the exact commit; verify the live URL.
+1. Decide the consolidated Rounds 5–7 evidence in
+   `reviews/complete-corpus-expansion-review.md`.
+2. Re-run the audits and build the reader from the approved content commit.
+3. Perform keyboard, screen-reader, 200% zoom/reflow, phone, tablet, desktop,
+   print, and representative-passage smoke tests on that release build.
+4. Record final publication approval for the exact release commit.
+5. Merge and deploy that commit; verify the live URL and rollback package.

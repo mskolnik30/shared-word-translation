@@ -87,6 +87,11 @@ GENERATED_EDITORIAL_PATTERNS = [
     (r"identifies\s*[:;]", "malformed vocabulary introduction"),
     (r"identifies (?:verse|verses) \d", "verse reference is duplicated in imported vocabulary prose"),
     (r"::", "raw vocabulary delimiter leaked into reader-facing prose"),
+    (r"\[\^[^\]]+\]", "raw source footnote marker leaked into reader-facing prose"),
+    (
+        r"How does .+ move from (.+?) through (.+?) to \2,",
+        "two-section retelling prompt repeats its closing heading",
+    ),
 ]
 
 
@@ -183,6 +188,94 @@ def main() -> int:
             "check": "manifest-scope",
             "message": f"Unlisted files={missing}; missing files={extra}",
         })
+
+    reader_index_path = CONTENT_ROOT / "manifests" / "reader-index.json"
+    if not reader_index_path.is_file():
+        errors.append({
+            "file": str(reader_index_path.relative_to(ROOT)),
+            "check": "reader-index",
+            "message": "Missing Fluent Companion reader index",
+        })
+        reader_index = {"chapters": [], "book_guides": []}
+    else:
+        reader_index = json.loads(reader_index_path.read_text(encoding="utf-8"))
+    indexed_chapters = reader_index.get("chapters", [])
+    indexed_files = {item.get("file") for item in indexed_chapters}
+    indexed_sources = [item.get("source") for item in indexed_chapters]
+    if indexed_files != discovered_chapters:
+        errors.append({
+            "file": "companions/fluent/manifests/reader-index.json",
+            "check": "reader-index",
+            "message": "Reader index chapter files do not exactly match the Companion corpus",
+        })
+    if len(indexed_sources) != len(set(indexed_sources)):
+        errors.append({
+            "file": "companions/fluent/manifests/reader-index.json",
+            "check": "reader-index",
+            "message": "Reader index contains duplicate source bindings",
+        })
+    if reader_index.get("chapter_count") != len(discovered_chapters):
+        errors.append({
+            "file": "companions/fluent/manifests/reader-index.json",
+            "check": "reader-index",
+            "message": "Reader index chapter_count is incorrect",
+        })
+    if reader_index.get("book_guide_count") != 66 or len(reader_index.get("book_guides", [])) != 66:
+        errors.append({
+            "file": "companions/fluent/manifests/reader-index.json",
+            "check": "reader-index",
+            "message": "Reader index must contain all 66 book guides",
+        })
+    if reader_index.get("display_label") != "Understand the Passage":
+        errors.append({
+            "file": "companions/fluent/manifests/reader-index.json",
+            "check": "reader-index",
+            "message": "Reader index must use the approved public label",
+        })
+    if reader_index.get("publication_status") != "unpublished":
+        errors.append({
+            "file": "companions/fluent/manifests/reader-index.json",
+            "check": "publication",
+            "message": "Reader index must remain unpublished until final approval",
+        })
+    for item in indexed_chapters:
+        indexed_rel = item.get("file", "")
+        indexed_path = ROOT / indexed_rel
+        if not indexed_path.is_file():
+            errors.append({
+                "file": "companions/fluent/manifests/reader-index.json",
+                "check": "reader-index",
+                "message": f"Indexed chapter file does not exist: {indexed_rel}",
+            })
+            continue
+        indexed_meta = frontmatter(indexed_path.read_text(encoding="utf-8"))
+        if indexed_meta.get("book") != str(item.get("book")) or indexed_meta.get("chapter") != str(item.get("chapter")):
+            errors.append({
+                "file": indexed_rel,
+                "check": "reader-index",
+                "message": "Indexed book or chapter differs from record metadata",
+            })
+        if indexed_meta.get("source") != item.get("source"):
+            errors.append({
+                "file": indexed_rel,
+                "check": "reader-index",
+                "message": "Indexed source differs from record metadata",
+            })
+        if item.get("record_sha256") != sha256(indexed_path):
+            errors.append({
+                "file": indexed_rel,
+                "check": "reader-index",
+                "message": "Indexed record hash is stale",
+            })
+    for item in reader_index.get("book_guides", []):
+        indexed_rel = item.get("file", "")
+        indexed_path = ROOT / indexed_rel
+        if not indexed_path.is_file() or item.get("record_sha256") != sha256(indexed_path):
+            errors.append({
+                "file": indexed_rel or "companions/fluent/manifests/reader-index.json",
+                "check": "reader-index",
+                "message": "Indexed book-guide file is missing or its hash is stale",
+            })
 
     introduction_records = []
     introduction_manifests = batch_manifests + [{"books": [
@@ -295,6 +388,14 @@ def main() -> int:
                     "check": "context-attribution",
                     "message": "Imported context must be attributed to its translation note and verse",
                 })
+            source_vocabulary = source_text.split("## Vocabulary", 1)[1] if "## Vocabulary" in source_text else ""
+            has_importable_vocabulary = re.search(r"(?m)^v[0-9–-]+:\s*\S", source_vocabulary) is not None
+            if has_importable_vocabulary and "One vocabulary entry at verse" not in text:
+                errors.append({
+                    "file": rel,
+                    "check": "generated-depth",
+                    "message": "Generated record omitted an available source vocabulary entry",
+                })
         for label in REQUIRED_QUESTION_LABELS:
             if f"**{label}:**" not in text and f"#### {label}" not in text:
                 errors.append({"file": rel, "check": "questions", "message": f"Missing {label} question"})
@@ -328,6 +429,37 @@ def main() -> int:
                     "file": rel,
                     "check": "formation-safety",
                     "message": "Generated practice must preserve agency, trauma awareness, and non-coercion",
+                })
+
+        body = re.sub(r"^---\n.*?\n---\n", "", text, flags=re.S)
+        heading_levels = [
+            len(match.group(1))
+            for match in re.finditer(r"(?m)^(#{1,6})\s+\S", body)
+        ]
+        if heading_levels.count(1) != 1:
+            errors.append({
+                "file": rel,
+                "check": "accessibility-structure",
+                "message": "Chapter record must contain exactly one level-one heading",
+            })
+        if any(current > previous + 1 for previous, current in zip(heading_levels, heading_levels[1:])):
+            errors.append({
+                "file": rel,
+                "check": "accessibility-structure",
+                "message": "Heading hierarchy skips a level",
+            })
+        if re.search(r"<[A-Za-z][^>]*>", body):
+            errors.append({
+                "file": rel,
+                "check": "accessibility-structure",
+                "message": "Raw HTML must not appear in Companion Markdown",
+            })
+        for label, _target in re.findall(r"\[([^\]]+)\]\(([^)]+)\)", body):
+            if label.strip().lower() in {"here", "click here", "read more", "learn more"}:
+                errors.append({
+                    "file": rel,
+                    "check": "accessible-link",
+                    "message": f"Link label is not descriptive: {label}",
                 })
 
         words = len(re.findall(r"\b[\w’'-]+\b", re.sub(r"^---\n.*?\n---\n", "", text, flags=re.S)))

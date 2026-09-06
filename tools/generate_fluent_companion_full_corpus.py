@@ -46,11 +46,14 @@ def sha256(path: Path) -> str:
 
 
 def clean_inline(value: str) -> str:
+    value = re.sub(r"\[\^[^\]]+\]:?\s*", " ", value)
     value = re.sub(r"<[^>]+>", " ", value)
     value = value.replace("*", "")
     value = value.replace("`", "")
     value = value.replace("TSW", "the translation")
+    value = re.sub(r"^\d+\.\s+", "", value)
     value = re.sub(r"^\d+\.\d+(?:[–-]\d+)?\s*[—:-]\s*", "", value)
+    value = re.sub(r"^\d+:\d+(?:[–-]\d+)?\s*[—:-]\s*", "", value)
     value = re.sub(
         r"\bv0*(\d+)[–-]0*(\d+)\b",
         lambda match: f"verses {int(match.group(1))}–{int(match.group(2))}",
@@ -75,9 +78,14 @@ def clean_inline(value: str) -> str:
 
 
 def strip_leading_verse_reference(value: str) -> str:
-    return re.sub(
+    value = re.sub(
         r"^(?:verse|verses) \d+(?:–\d+)?(?:\s*,\s*(?:verse|verses) \d+(?:–\d+)?)*"
         r"\s*[.,:—-]?\s*",
+        "",
+        value,
+    )
+    return re.sub(
+        r"^(?:\d+:)?\d+(?:[–-]\d+)?(?:\s*,\s*\d+(?:[–-]\d+)?)*\s*[.,:—-]?\s*",
         "",
         value,
     )
@@ -143,17 +151,29 @@ def source_notes(text: str) -> list[tuple[str, str]]:
         if not match:
             continue
         label = match.group(1)
-        body = clean_inline(match.group(2))
-        body = strip_leading_verse_reference(body)
-        body = re.sub(r'^(“[^”]+”|"[^"]+"):\s*', r"\1 — ", body)
-        body = re.sub(
-            r"^([a-z][^:]{1,60}):\s*(?=[A-Z])",
-            lambda item: f"“{item.group(1)}” — ",
-            body,
-        )
-        if body and body not in seen:
-            seen.add(body)
-            notes.append((label, body))
+        pieces = re.split(r"\n(?=(?:-\s+|\d+\.\s+)\*\*)", match.group(2))
+        for piece in pieces:
+            item_label = label
+            explicit = re.match(
+                r"\s*(?:-\s+|\d+\.\s+)?\*\*(?:(?:\d+:)?)(\d+(?:[–-]\d+)?)",
+                piece,
+            )
+            parenthetical = re.search(r"\(v(\d+(?:[–-]\d+)?)\)", piece[:120], flags=re.I)
+            if explicit:
+                item_label = explicit.group(1)
+            elif parenthetical:
+                item_label = parenthetical.group(1)
+            body = clean_inline(piece)
+            body = strip_leading_verse_reference(body)
+            body = re.sub(r'^(“[^”]+”|"[^"]+"):\s*', r"\1 — ", body)
+            body = re.sub(
+                r"^([a-z][^:]{1,60}):\s*(?=[A-Z])",
+                lambda item: f"“{item.group(1)}” — ",
+                body,
+            )
+            if body and body not in seen:
+                seen.add(body)
+                notes.append((item_label, body))
     return notes
 
 
@@ -322,6 +342,15 @@ def render_record(source: Path, output: Path, total: int) -> str:
             f"In {shown} {chapter}, attend to how “{first}” develops across the whole chapter. "
             "Notice its internal turns, and do not let one verse stand for the entire passage."
         )
+    elif len(titles) > 6:
+        organization = (
+            f"The chapter has {len(titles)} named sections. It moves from “{first}” through “{middle}” to “{last}.” "
+            "Read the complete sequence before separating individual lines for closer study."
+        )
+        watch = (
+            f"In {shown} {chapter}, watch how the movement from “{first}” toward “{last}” changes the chapter's emphasis. "
+            f"Use “{middle}” as a midpoint, and do not let one verse erase the sequence created by the whole chapter."
+        )
     else:
         organization = (
             f"The chapter is organized around {movement}. Read it as one movement before separating individual lines for closer study."
@@ -361,6 +390,59 @@ def render_record(source: Path, output: Path, total: int) -> str:
     if len(titles) > 4:
         brief_sections += f"; and the remaining movement leads to {last}"
 
+    if fallback_section:
+        tell_prompt = (
+            f"Retell the internal movement of {shown} {chapter}. Where does the passage turn, "
+            "intensify, or leave something unresolved?"
+        )
+        brief_text = (
+            f"{shown} {chapter} is presented as one continuous unit without internal headings. "
+            "Its changes in speaker, image, action, and tone provide the chapter’s architecture; "
+            "those turns should guide interpretation."
+        )
+        follow_text = (
+            f"Even without internal headings, the order of {shown} {chapter} matters. Trace its "
+            "shifts in speaker, image, action, and tone before deciding what any single line means."
+        )
+    elif one_section:
+        tell_prompt = (
+            f"Retell the internal movement of {shown} {chapter}. What changes, intensifies, or "
+            f"remains unresolved within “{first}”?"
+        )
+        brief_text = (
+            f"{shown} {chapter} presents one named section, “{first}.” Its internal details and "
+            "turns develop that theme rather than offering a collection of detached sayings."
+        )
+        follow_text = (
+            f"The translation gives {shown} {chapter} one major heading, “{first},” but the passage "
+            "still develops internally. Trace its repeated words, contrasts, speakers, and responses "
+            "before deciding what any single line means."
+        )
+    else:
+        tell_bridge = "to" if len(titles) == 2 else f"through {middle} to"
+        tell_prompt = (
+            f"How does {shown} {chapter} move from {first} {tell_bridge} {last}, and what changes—or "
+            "remains unresolved—along the way?"
+        )
+        brief_text = (
+            f"{shown} {chapter} moves through {brief_sections}. These headings provide the chapter’s "
+            "visible architecture. The details within them show how the chapter develops its claims "
+            f"rather than presenting a collection of detached sayings. The ending at “{last}” should "
+            f"therefore be heard in relation to the opening at “{first}.”"
+        )
+        if len(titles) > 6:
+            follow_text = (
+                f"The order of {shown} {chapter} matters. Its {len(titles)} named sections move from "
+                f"“{first}” through “{middle}” to “{last}.” Read that complete arc before using one "
+                "detail to characterize the chapter as a whole."
+            )
+        else:
+            follow_text = (
+                f"The order of {shown} {chapter} matters. Its movement through {movement} controls how "
+                "isolated details should be heard. A reading that begins with the conclusion but ignores "
+                "the earlier tension may make the chapter say more—or less—than its complete shape allows."
+            )
+
     return f"""---
 resource: fluent-companion
 record_type: chapter-companion
@@ -397,15 +479,15 @@ Read {shown} {chapter} in the Fluent Translation. Follow the section changes, re
 
 ### Tell It in Your Own Words
 
-{f'Retell the internal movement of {shown} {chapter}. Where does the passage turn, intensify, or leave something unresolved?' if fallback_section else (f'Retell the internal movement of {shown} {chapter}. What changes, intensifies, or remains unresolved within “{first}”?' if one_section else f'How does {shown} {chapter} move from {first} through {middle} to {last}, and what changes—or remains unresolved—along the way?')}
+{tell_prompt}
 
 ### The Chapter in Brief
 
-{f'{shown} {chapter} is presented as one continuous unit without internal headings. Its changes in speaker, image, action, and tone provide the chapter’s architecture; those turns should guide interpretation.' if fallback_section else (f'{shown} {chapter} presents one named section, “{first}.” Its internal details and turns develop that theme rather than offering a collection of detached sayings.' if one_section else f'{shown} {chapter} moves through {brief_sections}. These headings provide the chapter’s visible architecture. The details within them show how the chapter develops its claims rather than presenting a collection of detached sayings. The ending at “{last}” should therefore be heard in relation to the opening at “{first}.”')}
+{brief_text}
 
 ### Follow the Movement
 
-{f'Even without internal headings, the order of {shown} {chapter} matters. Trace its shifts in speaker, image, action, and tone before deciding what any single line means.' if fallback_section else (f'The translation gives {shown} {chapter} one major heading, “{first},” but the passage still develops internally. Trace its repeated words, contrasts, speakers, and responses before deciding what any single line means.' if one_section else f'The order of {shown} {chapter} matters. Its movement through {movement} controls how isolated details should be heard. A reading that begins with the conclusion but ignores the earlier tension may make the chapter say more—or less—than its complete shape allows.')}
+{follow_text}
 
 {' '.join(note_paragraphs)}{vocabulary_text}
 
@@ -538,11 +620,49 @@ def main() -> int:
     }
     expansion_path.write_text(json.dumps(expansion, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
+    reader_chapters = []
+    for path in sorted(all_records):
+        meta = frontmatter(path.read_text(encoding="utf-8"))
+        reader_chapters.append({
+            "book": meta["book"],
+            "chapter": int(meta["chapter"]),
+            "source": meta["source"],
+            "file": path.relative_to(ROOT).as_posix(),
+            "record_sha256": sha256(path),
+            "status": meta["companion_status"],
+        })
+    reader_guides = [
+        {
+            "book": book,
+            "file": path.relative_to(ROOT).as_posix(),
+            "record_sha256": sha256(path),
+            "status": frontmatter(path.read_text(encoding="utf-8"))["companion_status"],
+        }
+        for book, path in sorted(introductions.items())
+    ]
+    reader_index = {
+        "schema_version": 1,
+        "resource": "fluent-companion",
+        "display_label": "Understand the Passage",
+        "home_translation": "fluent",
+        "publication_status": "unpublished",
+        "chapter_count": len(reader_chapters),
+        "book_guide_count": len(reader_guides),
+        "chapters": reader_chapters,
+        "book_guides": reader_guides,
+    }
+    reader_index_path = MANIFEST_ROOT / "reader-index.json"
+    reader_index_path.write_text(
+        json.dumps(reader_index, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+
     print(f"Preserved existing chapter records: {preserved}")
     print(f"Refreshed generated chapter records: {refreshed}")
     print(f"Created chapter records: {created}")
     print(f"Canonical source locks: {len(locks['sources'])}")
     print(f"Expansion manifest records: {len(expansion_records)}")
+    print(f"Reader index records: {len(reader_chapters)}")
     return 0
 
 

@@ -4,7 +4,8 @@
 
 **PASS. All 1,189 canonical Fluent chapters have exactly one source-bound
 Companion candidate. The audit reports 0 errors and 0 warnings. Expanded Rounds
-1–4 are human-approved; later human gates remain pending, and publication remains
+1–4 are human-approved; consolidated Rounds 5–7 are prepared for a human
+decision, release-build testing remains pending, and publication remains
 blocked.**
 
 ## Audited scope
@@ -13,8 +14,8 @@ blocked.**
 - 66 canonical book introductions
 - 95 preserved hand-shaped chapter records
 - 1,094 source-derived generated chapter records requiring human editorial review
-- 920,624 chapter-companion words including front matter
-- 23,819 book-introduction words including front matter
+- 906,009 chapter-companion words including front matter
+- 23,102 book-introduction words including front matter
 - Canonical book representation: 66 of 66 books
 - Old Testament chapter coverage: 929 of 929 chapters
 - New Testament chapter coverage: 260 of 260 chapters
@@ -40,6 +41,12 @@ blocked.**
 | Exact long-paragraph duplication | Pass |
 | Deterministic unsafe-phrase scan | Pass |
 | Generated formation-safeguard requirement | Pass |
+| Available source-vocabulary inclusion in generated records | Pass |
+| Exactly one H1 and unskipped heading hierarchy | Pass |
+| Raw HTML, footnote-marker, and vague-link exclusion | Pass |
+| Reader-index chapter and guide coverage | Pass |
+| Reader-index source, metadata, and record-hash integrity | Pass |
+| Reader-index unpublished release lock | Pass |
 | Exact complete-corpus coverage | Pass |
 | JSON syntax | Pass |
 | Python syntax | Pass |
@@ -84,12 +91,22 @@ blocked.**
 - Expanded the unsafe-phrase regression scan for coercive forgiveness or
   reconciliation, remaining in danger, spiritualized rejection of care,
   victim-blaming, imitative violence, and endorsement of slavery.
+- Split older multi-item source notes into discrete reader-facing observations,
+  removed raw footnote and verse-prefix leakage, and required available source
+  vocabulary to remain visible in every generated record.
+- Repaired repeated endpoints in two-section retelling prompts and replaced
+  oversized section enumerations with a compact beginning–middle–end orientation
+  for chapters with more than six named sections.
+- Added semantic heading, raw-HTML, and descriptive-link accessibility checks.
+- Added a checksum-bound unpublished reader index containing exactly 1,189
+  unique chapter bindings and all 66 book guides.
+- Added the Fluent Companion reader-integration contract, including the
+  Scripture-first hierarchy and release-build accessibility test matrix.
 
 ## Human gates still open
 
-- Chapter-specific depth
-- Plain-language reader testing
-- Accessibility and reader integration
+- Consolidated Rounds 5–7 human decision
+- Release-build keyboard, screen-reader, reflow, device, print, and visual tests
 - Final publication approval on an exact release commit
 
 ## Command
