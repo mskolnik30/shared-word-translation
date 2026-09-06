@@ -3,8 +3,9 @@
 ## Result
 
 **PASS. All 1,189 canonical Fluent chapters have exactly one source-bound
-Companion candidate. The audit reports 0 errors and 0 warnings. Human approval
-has not been performed, and publication remains blocked.**
+Companion candidate. The audit reports 0 errors and 0 warnings. Expanded Round
+1 is human-approved; later human gates remain pending, and publication remains
+blocked.**
 
 ## Audited scope
 
@@ -32,6 +33,7 @@ has not been performed, and publication remains blocked.**
 | Chapter-path citation bounds | Pass |
 | Unpublished status | Pass |
 | Placeholder and raw source-markup leakage | Pass |
+| Explicit attribution of imported context notes | Pass |
 | Exact long-paragraph duplication | Pass |
 | Deterministic unsafe-phrase scan | Pass |
 | Exact complete-corpus coverage | Pass |
@@ -61,10 +63,16 @@ has not been performed, and publication remains blocked.**
 - Removed reader-facing repository paths and technical source-apparatus labels.
 - Added an exact generated Chapter Path versus bound-source structure check and
   permanent regression rules for the corrected editorial defects.
+- Explicitly attributed every imported generated-context observation to its
+  translation note and verse, preventing note interpretation from appearing as
+  unattributed historical fact.
+- Qualified the reconstructed Corinth setting in the First Thessalonians guide
+  and placed the Psalms guide's superscription caution beside Psalm 122's
+  categorical source note.
 
 ## Human gates still open
 
-- Source fidelity and exegetical judgment
+- Context, uncertainty, and exegetical judgment (Round 2)
 - Historical and cultural context
 - Theological restraint and ambiguity
 - Formation, trauma awareness, and non-coercion

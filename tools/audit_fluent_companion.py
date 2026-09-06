@@ -256,6 +256,15 @@ def main() -> int:
                     "check": "generated-source-shape",
                     "message": f"Chapter Path ranges {actual_ranges} differ from source structure {expected_ranges}",
                 })
+            source_notes = source_text.split("## Notes", 1)[1].split("## Vocabulary", 1)[0] if "## Notes" in source_text else ""
+            has_importable_note = re.search(r"(?m)^v[0-9–-]+:\s*\S", source_notes) is not None
+            context_section = text.split("### What Needs Context", 1)[-1].split("### Wrestle with This", 1)[0]
+            if has_importable_note and "The translation note at verse" not in context_section:
+                errors.append({
+                    "file": rel,
+                    "check": "context-attribution",
+                    "message": "Imported context must be attributed to its translation note and verse",
+                })
         for label in REQUIRED_QUESTION_LABELS:
             if f"**{label}:**" not in text and f"#### {label}" not in text:
                 errors.append({"file": rel, "check": "questions", "message": f"Missing {label} question"})
@@ -305,6 +314,13 @@ def main() -> int:
             "message": f"Locked sources have no companion record: {unbound_locks}",
         })
 
+    review_path = CONTENT_ROOT / "reviews" / "complete-corpus-expansion-review.md"
+    review_status = (
+        frontmatter(review_path.read_text(encoding="utf-8")).get("review_status", "NOT_PERFORMED")
+        if review_path.is_file()
+        else "NOT_PERFORMED"
+    )
+
     report = {
         "audit": "fluent-companion-content",
         "result": "PASS" if not errors else "FAIL",
@@ -316,7 +332,7 @@ def main() -> int:
         "warnings": warnings,
         "records": records,
         "introductions": introduction_records,
-        "human_approval": "NOT_PERFORMED",
+        "human_approval": review_status,
         "publication_status": "blocked",
     }
     print(json.dumps(report, indent=2, ensure_ascii=False))

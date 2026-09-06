@@ -1,6 +1,6 @@
 ---
 review_record: fluent-companion-complete-corpus-expansion
-review_status: PENDING_HUMAN_REVIEW
+review_status: ROUND_1_APPROVED
 publication_status: blocked
 scope: every Fluent chapter in the 66-book Protestant canon
 canonical_chapter_count: 1189
@@ -43,7 +43,7 @@ for the human gates below.
 
 ## Expanded Round 1 evidence packet
 
-**Decision state:** READY_FOR_HUMAN_DECISION
+**Decision state:** APPROVED
 
 **Content-corpus digest:**
 `56ab1cd5f555a0b3f632679a436487e8da7f4b0d05d41180c4b4d0b9e3a5b320`
@@ -83,11 +83,24 @@ uncertainty visible, distinguishes single-section and headingless chapters,
 uses `Psalm` for individual psalm titles, and exposes no repository paths or
 raw editorial markup to readers.
 
+### Approval
+
+- Approver: Matthew J. Skolnik
+- Approval date: 2026-09-06
+- Reviewed commit: `4661e199d8b31145e382d443d2c01d2cb52db74e`
+- Approved content-corpus digest:
+  `56ab1cd5f555a0b3f632679a436487e8da7f4b0d05d41180c4b4d0b9e3a5b320`
+- Scope: Expanded Round 1 only—structural integrity, source provenance,
+  chapter specificity, and reader-facing cleanliness.
+
+This approval does not approve historical-context judgments, theological or
+formation judgments, accessibility, publication, merging, or deployment.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
 |---|---|---|---|---|
-| Source fidelity | Pending |  |  | Compare generated descriptions and contextual excerpts with each bound Fluent source. |
+| Structure, source fidelity, and reader cleanliness | Approved | Matthew J. Skolnik | 2026-09-06 | Expanded Round 1 approved against commit `4661e199`; exact source bindings, chapter paths, and repaired reader-facing imports accepted at gate level. |
 | Context and uncertainty | Pending |  |  | Preserve literary form, historical limits, textual uncertainty, and unresolved tension. |
 | Theological restraint | Pending |  |  | Confirm the Companion does not displace Scripture or force later synthesis into the chapter. |
 | Formation and safety | Pending |  |  | Review agency, non-coercion, trauma awareness, power, violence, gender, and vulnerable readers. |

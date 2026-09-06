@@ -282,6 +282,19 @@ def render_record(source: Path, output: Path, total: int) -> str:
     last = titles[-1]
     middle = titles[len(titles) // 2]
     selected_notes = notes[:3]
+    primary_context_note = ""
+    if selected_notes:
+        label, body = selected_notes[0]
+        primary_context_note = (
+            f" The translation note at verse {display_verse_label(label)} observes: "
+            f"{sentence(body)}"
+        )
+        if book == "Psalms" and re.search(r"\b(author|authorship|written by|credited)\b", body, flags=re.I):
+            primary_context_note += (
+                " The Psalms book guide also cautions that the exact historical relationship "
+                "between a superscription and its poem can be uncertain; attribution, "
+                "association, and dedication should not be collapsed without explanation."
+            )
 
     one_section = len(titles) == 1
     fallback_section = one_section and first == "The Chapter's Complete Movement"
@@ -410,7 +423,7 @@ Choose one phrase or image from {shown} {chapter} and carry it through the day. 
 
 ### What Needs Context
 
-In {shown} {chapter}, the chapter’s own structure and translation notes guide this Companion’s outline.{(' ' + sentence(selected_notes[0][1])) if selected_notes else ''}
+In {shown} {chapter}, the chapter’s own structure and translation notes guide this Companion’s outline.{primary_context_note}
 
 ### Wrestle with This
 

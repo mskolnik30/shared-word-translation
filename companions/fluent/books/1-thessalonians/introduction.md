@@ -17,7 +17,7 @@ First Thessalonians is a warm letter to a young church formed amid opposition an
 ## At a Glance
 
 - **Kind of writing:** Pastoral letter with thanksgiving, autobiographical memory, exhortation, teaching, and prayer.
-- **Primary setting:** Paul writing from Corinth to believers in Macedonia.
+- **Primary setting:** Paul writing to believers in Macedonia, most commonly located in Corinth when the letter is coordinated with Acts.
 - **Central movement:** Affectionate partnership steadies a pressured community in holy love and resurrection hope.
 - **People to know:** Paul, Silvanus, Timothy, Thessalonian believers, grieving members, and local opponents.
 - **Time to read aloud:** About 25–30 minutes.
