@@ -4,7 +4,7 @@
 
 **PASS. All 1,189 canonical Fluent chapters have exactly one source-bound
 Companion candidate. The audit reports 0 errors and 0 warnings. Expanded Rounds
-1–3 are human-approved; later human gates remain pending, and publication remains
+1–4 are human-approved; later human gates remain pending, and publication remains
 blocked.**
 
 ## Audited scope
@@ -87,7 +87,6 @@ blocked.**
 
 ## Human gates still open
 
-- Formation, trauma awareness, and non-coercion
 - Chapter-specific depth
 - Plain-language reader testing
 - Accessibility and reader integration

@@ -13,7 +13,8 @@ This branch begins complete chapter-by-chapter production. It does not authorize
 
 The earlier representative-coverage definition has been withdrawn. The full
 chapter corpus is now present and passes the automated coverage gate. Expanded
-human-review Rounds 1–3 are approved, but later human gates remain pending.
+human-review Rounds 1–4 are approved, but the consolidated depth, clarity, and
+accessibility review and final publication gate remain pending.
 This is an unpublished candidate, not an approved or live release.
 
 ## Completed in the production draft

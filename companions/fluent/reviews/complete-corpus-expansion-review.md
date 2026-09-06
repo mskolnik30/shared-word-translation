@@ -1,6 +1,6 @@
 ---
 review_record: fluent-companion-complete-corpus-expansion
-review_status: ROUND_3_APPROVED
+review_status: ROUND_4_APPROVED
 publication_status: blocked
 scope: every Fluent chapter in the 66-book Protestant canon
 canonical_chapter_count: 1189
@@ -229,7 +229,7 @@ plain-language testing, accessibility, publication, merging, or deployment.
 
 ## Round 4 evidence packet: formation and safety
 
-**Decision state:** READY_FOR_HUMAN_DECISION
+**Decision state:** APPROVED
 
 **Candidate review commit:**
 `1410a917907b2d763a5346f3d38b17925db200f7`
@@ -282,6 +282,20 @@ violence, gender, illness, slavery, and vulnerable readers for this exact
 candidate. It would not approve chapter-specific depth, plain-language reader
 testing, accessibility, publication, merge, or deployment.
 
+### Approval
+
+- Approver: Matthew J. Skolnik
+- Approval date: 2026-09-06
+- Reviewed content and audit commit:
+  `1410a917907b2d763a5346f3d38b17925db200f7`
+- Reviewed evidence-packet commit:
+  `ce791000536e538579bc2151a54a04a83978803a`
+- Scope: Round 4 only—formation, trauma awareness, non-coercion, power,
+  violence, gender, illness, slavery, and vulnerable readers.
+
+This approval does not approve chapter-specific depth, plain-language reader
+testing, accessibility, publication, merging, or deployment.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
@@ -289,7 +303,7 @@ testing, accessibility, publication, merge, or deployment.
 | Structure, source fidelity, and reader cleanliness | Approved | Matthew J. Skolnik | 2026-09-06 | Expanded Round 1 approved against commit `4661e199`; exact source bindings, chapter paths, and repaired reader-facing imports accepted at gate level. |
 | Context and uncertainty | Approved | Matthew J. Skolnik | 2026-09-06 | Round 2 approved for content commit `a3826231` and evidence-packet commit `efca72d0`. |
 | Theological restraint | Approved | Matthew J. Skolnik | 2026-09-06 | Round 3 approved for audit/rule commit `654b42c6` and evidence-packet commit `96f38e7e`. |
-| Formation and safety | Pending—evidence ready |  |  | Round 4 candidate `1410a917`; all generated practices now have an enforced agency and trauma safeguard, unsafe-language scan and high-risk sampling complete. |
+| Formation and safety | Approved | Matthew J. Skolnik | 2026-09-06 | Round 4 approved for content/audit commit `1410a917` and evidence-packet commit `ce791000`. |
 | Chapter-specific depth | Pending |  |  | Replace or deepen source-derived baseline prose where a chapter needs more than structural orientation. |
 | Plain-language clarity | Pending |  |  | Test with curious teen and adult readers. |
 | Accessibility and reader integration | Pending |  |  | Verify labels, reading order, reflow, controls, and unavailable-state behavior. |
