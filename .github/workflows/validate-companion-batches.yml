@@ -23,3 +23,5 @@ jobs:
         run: python3 tools/audit_all_companion_batches.py
       - name: Audit complete canonical coverage
         run: python3 tools/audit_tsw_study_coverage.py
+      - name: Audit inclusive, non-exhaustive identity lists
+        run: python3 tools/audit_companion_inclusive_lists.py
