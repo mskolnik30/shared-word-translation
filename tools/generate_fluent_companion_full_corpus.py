@@ -40,9 +40,57 @@ def sha256(path: Path) -> str:
 
 def clean_inline(value: str) -> str:
     value = re.sub(r"<[^>]+>", " ", value)
+    value = value.replace("*", "")
+    value = value.replace("`", "")
     value = value.replace("TSW", "the translation")
+    value = re.sub(r"^\d+\.\d+(?:[–-]\d+)?\s*[—:-]\s*", "", value)
+    value = re.sub(
+        r"\bv0*(\d+)[–-]0*(\d+)\b",
+        lambda match: f"verses {int(match.group(1))}–{int(match.group(2))}",
+        value,
+    )
+    value = re.sub(
+        r"\bv0*(\d+)\b",
+        lambda match: f"verse {int(match.group(1))}",
+        value,
+    )
+    value = re.sub(
+        r"\bverse 0+(\d+)\b",
+        lambda match: f"verse {int(match.group(1))}",
+        value,
+    )
+    value = re.sub(r"^[-—]\s*", "", value)
+    value = re.sub(r"(?<=[.!?] )the translation\b", "The translation", value)
+    value = value.replace(",.”", ".”")
+    value = re.sub(r"(?<!\.)\.\.(?!\.)", ".", value)
     value = re.sub(r"\s+", " ", value).strip()
     return value
+
+
+def strip_leading_verse_reference(value: str) -> str:
+    return re.sub(
+        r"^(?:verse|verses) \d+(?:–\d+)?(?:\s*,\s*(?:verse|verses) \d+(?:–\d+)?)*"
+        r"\s*[.,:—-]?\s*",
+        "",
+        value,
+    )
+
+
+def display_book(book: str) -> str:
+    return "Psalm" if book == "Psalms" else book
+
+
+def display_verse_label(label: str) -> str:
+    return re.sub(r"\d+", lambda match: str(int(match.group(0))), label)
+
+
+def possessive(book: str) -> str:
+    return f"{book}’" if book.endswith("s") else f"{book}’s"
+
+
+def sentence(value: str) -> str:
+    value = value.strip()
+    return value if re.search(r"[.?!][”’\"]?$", value) else value + "."
 
 
 def source_sections(text: str) -> list[dict[str, object]]:
@@ -89,6 +137,13 @@ def source_notes(text: str) -> list[tuple[str, str]]:
             continue
         label = match.group(1)
         body = clean_inline(match.group(2))
+        body = strip_leading_verse_reference(body)
+        body = re.sub(r'^(“[^”]+”|"[^"]+"):\s*', r"\1 — ", body)
+        body = re.sub(
+            r"^([a-z][^:]{1,60}):\s*(?=[A-Z])",
+            lambda item: f"“{item.group(1)}” — ",
+            body,
+        )
         if body and body not in seen:
             seen.add(body)
             notes.append((label, body))
@@ -108,11 +163,20 @@ def source_vocabulary(text: str) -> list[tuple[str, str, str]]:
             index += 1
             continue
         label = match.group(1)
-        term = clean_inline(match.group(2))
+        raw_term = match.group(2)
         explanation = ""
-        if index + 1 < len(blocks) and not re.match(r"v[0-9–-]+:", blocks[index + 1]):
+        if "::" in raw_term:
+            raw_term, explanation = raw_term.split("::", 1)
+            explanation = clean_inline(explanation)
+        elif index + 1 < len(blocks) and not re.match(r"v[0-9–-]+:", blocks[index + 1]):
             explanation = clean_inline(blocks[index + 1])
             index += 1
+        term = clean_inline(raw_term).lstrip(":—- ")
+        term = strip_leading_verse_reference(term)
+        if not explanation and ": " in term:
+            term, explanation = term.split(": ", 1)
+            term = term.strip()
+            explanation = explanation.strip()
         entries.append((label, term, explanation))
         index += 1
     return entries
@@ -136,28 +200,36 @@ def chapter_path(sections: list[dict[str, object]], chapter: int) -> str:
         start = int(section["start"])
         end = int(section["end"])
         reference = f"{chapter}:{start}" if start == end else f"{chapter}:{start}–{end}"
-        lines.append(f"- **{reference}:** {section['title']}.")
+        title = str(section["title"])
+        if title == "The Chapter's Complete Movement":
+            lines.append(f"- **{reference}:** Read the chapter as a continuous unit and notice its internal turns.")
+        else:
+            lines.append(f"- **{reference}:** {sentence(title)}")
     return "\n".join(lines)
 
 
 def position_text(book: str, chapter: int, total: int) -> str:
+    shown = display_book(book)
+    if book == "Psalms":
+        return f"Psalm {chapter} stands within the Psalms’ 150-poem collection."
     if total == 1:
-        return f"This is the only chapter of {book}."
+        return f"This is the only chapter of {shown}."
     if chapter == 1:
-        return f"This opening chapter begins {book}'s {total}-chapter movement."
+        return f"This opening chapter begins {possessive(shown)} {total}-chapter movement."
     if chapter == total:
-        return f"This final chapter completes {book}'s {total}-chapter movement."
-    return f"This is chapter {chapter} of {book}'s {total}-chapter movement."
+        return f"This final chapter completes {possessive(shown)} {total}-chapter movement."
+    return f"This is chapter {chapter} of {possessive(shown)} {total}-chapter movement."
 
 
 def neighbor_text(book: str, chapter: int, total: int) -> str:
+    shown = display_book(book)
     if total == 1:
-        return f"Read the {book} book guide before returning to this chapter as a whole."
+        return f"Read the {shown} book guide before returning to this chapter as a whole."
     if chapter == 1:
-        return f"Read {book} {chapter + 1} afterward to see how the opening movement continues."
+        return f"Read {shown} {chapter + 1} afterward to see how the opening movement continues."
     if chapter == total:
-        return f"Read {book} {chapter - 1} again to see what the closing movement receives and resolves—or leaves unresolved."
-    return f"Read {book} {chapter - 1} and {book} {chapter + 1} to keep this chapter inside its immediate literary setting."
+        return f"Read {shown} {chapter - 1} again to see what the closing movement receives and resolves—or leaves unresolved."
+    return f"Read {shown} {chapter - 1} and {shown} {chapter + 1} to keep this chapter inside its immediate literary setting."
 
 
 def genre_guidance(testament: str, book: str) -> str:
@@ -195,6 +267,7 @@ def render_record(source: Path, output: Path, total: int) -> str:
     text = source.read_text(encoding="utf-8")
     meta = frontmatter(text)
     book = meta["book"]
+    shown = display_book(book)
     chapter = int(meta["chapter"])
     testament = meta["testament"]
     sections = source_sections(text)
@@ -210,27 +283,55 @@ def render_record(source: Path, output: Path, total: int) -> str:
     middle = titles[len(titles) // 2]
     selected_notes = notes[:3]
 
-    watch = (
-        f"In {book} {chapter}, watch how the movement from “{first}” toward “{last}” changes the chapter's emphasis. "
-        f"Do not let one verse erase the sequence created by the whole chapter."
-    )
+    one_section = len(titles) == 1
+    fallback_section = one_section and first == "The Chapter's Complete Movement"
+    if fallback_section:
+        organization = (
+            "The translation presents this chapter without internal section headings. "
+            "Read it as a continuous unit, noticing changes in speaker, image, action, and tone."
+        )
+        watch = (
+            f"In {shown} {chapter}, trace the chapter's internal turns even though the translation does not divide them with headings. "
+            "Do not let one memorable verse stand for the whole passage."
+        )
+    elif one_section:
+        organization = (
+            f"The chapter presents one named section, “{first}.” Read the whole section before separating individual lines for closer study."
+        )
+        watch = (
+            f"In {shown} {chapter}, attend to how “{first}” develops across the whole chapter. "
+            "Notice its internal turns, and do not let one verse stand for the entire passage."
+        )
+    else:
+        organization = (
+            f"The chapter is organized around {movement}. Read it as one movement before separating individual lines for closer study."
+        )
+        watch = (
+            f"In {shown} {chapter}, watch how the movement from “{first}” toward “{last}” changes the chapter's emphasis. "
+            f"Do not let one verse erase the sequence created by the whole chapter."
+        )
     if selected_notes:
-        watch += f" The source apparatus especially marks verse {selected_notes[0][0]} for careful attention."
+        watch += f" The translation notes especially mark verse {display_verse_label(selected_notes[0][0])} for careful attention."
 
     note_paragraphs = []
     for label, body in selected_notes[1:3]:
-        note_paragraphs.append(f"At verse {label}, the source notes preserve this detail: {body}")
+        note_paragraphs.append(f"The translation note at verse {display_verse_label(label)} observes: {sentence(body)}")
     if not note_paragraphs:
-        note_paragraphs.append(
-            f"The section sequence in {book} {chapter}—from {first} to {last}—supplies the primary context. Where the text remains compressed, the Companion should preserve that restraint rather than inventing a missing explanation."
-        )
+        if one_section:
+            note_paragraphs.append(
+                f"The internal development of {shown} {chapter} supplies the primary context. Where the text remains compressed, the Companion should preserve that restraint rather than inventing a missing explanation."
+            )
+        else:
+            note_paragraphs.append(
+                f"The section sequence in {shown} {chapter}—from {first} to {last}—supplies the primary context. Where the text remains compressed, the Companion should preserve that restraint rather than inventing a missing explanation."
+            )
 
     vocabulary_text = ""
     if vocabulary:
         label, term, explanation = vocabulary[0]
         vocabulary_text = (
-            f" One vocabulary entry at verse {label} identifies {term}."
-            + (f" {explanation}" if explanation else "")
+            f" One vocabulary entry at verse {display_verse_label(label)} identifies {sentence(term)}"
+            + (f" {sentence(explanation)}" if explanation else "")
         )
 
     source_rel = source.relative_to(ROOT).as_posix()
@@ -252,13 +353,13 @@ publication_status: unpublished
 template_version: 1.0
 ---
 
-# {book} {chapter}
+# {shown} {chapter}
 
 ## Before You Read
 
 ### Where You Are
 
-{position_text(book, chapter, total)} The chapter is organized around {movement}. Read it as one movement before separating individual lines for closer study.
+{position_text(book, chapter, total)} {organization}
 
 ### Chapter Path
 
@@ -270,25 +371,25 @@ template_version: 1.0
 
 ## Read the Chapter
 
-Read {book} {chapter} in the Fluent Translation. Follow the section changes, repeated words, contrasts, speakers, and responses before consulting the Companion.
+Read {shown} {chapter} in the Fluent Translation. Follow the section changes, repeated words, contrasts, speakers, and responses before consulting the Companion.
 
 ## After You Read
 
 ### Tell It in Your Own Words
 
-How does {book} {chapter} move from {first} through {middle} to {last}, and what changes—or remains unresolved—along the way?
+{f'Retell the internal movement of {shown} {chapter}. Where does the passage turn, intensify, or leave something unresolved?' if fallback_section else (f'Retell the internal movement of {shown} {chapter}. What changes, intensifies, or remains unresolved within “{first}”?' if one_section else f'How does {shown} {chapter} move from {first} through {middle} to {last}, and what changes—or remains unresolved—along the way?')}
 
 ### The Chapter in Brief
 
-{book} {chapter} moves through {brief_sections}. These headings provide the chapter's visible architecture. The details within them show how the chapter develops its claims rather than presenting a collection of detached sayings. The ending at “{last}” should therefore be heard in relation to the opening at “{first}.”
+{f'{shown} {chapter} is presented as one continuous unit without internal headings. Its changes in speaker, image, action, and tone provide the chapter’s architecture; those turns should guide interpretation.' if fallback_section else (f'{shown} {chapter} presents one named section, “{first}.” Its internal details and turns develop that theme rather than offering a collection of detached sayings.' if one_section else f'{shown} {chapter} moves through {brief_sections}. These headings provide the chapter’s visible architecture. The details within them show how the chapter develops its claims rather than presenting a collection of detached sayings. The ending at “{last}” should therefore be heard in relation to the opening at “{first}.”')}
 
 ### Follow the Movement
 
-The order of {book} {chapter} matters. Its movement through {movement} controls how isolated details should be heard. A reading that begins with the conclusion but ignores the earlier tension may make the chapter say more—or less—than its complete shape allows.
+{f'Even without internal headings, the order of {shown} {chapter} matters. Trace its shifts in speaker, image, action, and tone before deciding what any single line means.' if fallback_section else (f'The translation gives {shown} {chapter} one major heading, “{first},” but the passage still develops internally. Trace its repeated words, contrasts, speakers, and responses before deciding what any single line means.' if one_section else f'The order of {shown} {chapter} matters. Its movement through {movement} controls how isolated details should be heard. A reading that begins with the conclusion but ignores the earlier tension may make the chapter say more—or less—than its complete shape allows.')}
 
 {' '.join(note_paragraphs)}{vocabulary_text}
 
-For {book} {chapter}, {genre_guidance(testament, book).lower()} The goal is attentive understanding, not premature resolution. Where the source notes identify uncertainty, readers should keep that uncertainty visible.
+For {shown} {chapter}: {genre_guidance(testament, book)} The goal is attentive understanding, not premature resolution. Where the translation notes identify uncertainty, readers should keep that uncertainty visible.
 
 ### Threads Through Scripture
 
@@ -296,24 +397,24 @@ For {book} {chapter}, {genre_guidance(testament, book).lower()} The goal is atte
 
 ### Questions for Conversation
 
-- **Notice:** What words, images, people, or actions connect “{first}” with “{last}”?
-- **Understand:** Why does the chapter place “{middle}” where it does?
+- **Notice:** {f'What repetitions, contrasts, or changes give this single section its internal shape?' if one_section else f'What words, images, people, or actions connect “{first}” with “{last}”?' }
+- **Understand:** {f'Where do you notice a meaningful turn in the chapter, and what changes there?' if fallback_section else (f'How does the heading “{first}” help you follow the chapter without exhausting its meaning?' if one_section else f'Why does the chapter place “{middle}” where it does?') }
 - **Connect:** Where does this chapter challenge a familiar assumption without supplying an easy resolution?
 - **Respond:** What is one truthful, non-coercive response invited by the chapter's complete movement?
 
 ### Prayer and Practice
 
-Choose one phrase or image from {book} {chapter} and carry it through the day. Before turning it into advice for someone else, ask what it reveals about your own attention, responsibility, hope, or need for mercy.
+Choose one phrase or image from {shown} {chapter} and carry it through the day. Let the chapter question your first response before you settle on an application. Before turning it into advice for someone else, ask what it reveals about your own attention, responsibility, hope, or need for mercy.
 
 ## Go Deeper
 
 ### What Needs Context
 
-This record is bound to `{source_rel}` and remains an unpublished candidate. The source chapter's own headings and apparatus govern its outline.{(' ' + selected_notes[0][1]) if selected_notes else ''}
+In {shown} {chapter}, the chapter’s own structure and translation notes guide this Companion’s outline.{(' ' + sentence(selected_notes[0][1])) if selected_notes else ''}
 
 ### Wrestle with This
 
-What becomes harder—or more faithful—when {book} {chapter} is allowed to retain the tension between “{first}” and “{last}”?
+{f'What becomes harder—or more faithful—when {shown} {chapter} is read as a whole rather than reduced to one familiar line?' if one_section else f'What becomes harder—or more faithful—when {shown} {chapter} is allowed to retain the tension between “{first}” and “{last}”?' }
 
 ### Further Study
 

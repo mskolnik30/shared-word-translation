@@ -54,6 +54,13 @@ has not been performed, and publication remains blocked.**
 - Bound every chapter record to its exact Fluent source path and SHA-256 digest.
 - Expanded CI so both content and exact complete-corpus coverage audits run on every relevant change.
 - Corrected the Psalm 119 three-digit verse-range parser and removed repeated headingless-chapter fallback prose.
+- Reworked all 298 one-section or headingless generated chapters so prompts no
+  longer invent movement between identical headings.
+- Corrected capitalization, doubled punctuation, Psalm display titles, and
+  internal verse-label or Markdown leakage across generated reader prose.
+- Removed reader-facing repository paths and technical source-apparatus labels.
+- Added an exact generated Chapter Path versus bound-source structure check and
+  permanent regression rules for the corrected editorial defects.
 
 ## Human gates still open
 

@@ -50,6 +50,21 @@ SAFETY_PATTERNS = [
     r"mental illness is (?:a |the )?demon",
     r"your faith was not strong enough",
 ]
+GENERATED_EDITORIAL_PATTERNS = [
+    (r"from “([^”]+)” toward “\1”", "single-section movement repeats the same heading"),
+    (r"within israel's", "Israel must retain its proper-name capitalization"),
+    (r"this gospel's", "Gospel must retain its genre-name capitalization"),
+    (r"(?<!\.)\.\.(?!\.)", "doubled terminal punctuation"),
+    (r"This record is bound to `translations/", "reader-facing repository path leakage"),
+    (r"The source apparatus", "reader-facing implementation terminology"),
+    (r"\bv0[0-9]", "zero-padded internal verse label leaked into reader-facing prose"),
+    (r"\bverse 0[0-9]", "zero-padded verse label leaked into reader-facing prose"),
+    (r"observes:\s*[-—]", "source-list marker leaked into reader-facing prose"),
+    (r"observes:\s*(?:verse|verses) \d", "verse reference is duplicated in imported note prose"),
+    (r"identifies\s*[:;]", "malformed vocabulary introduction"),
+    (r"identifies (?:verse|verses) \d", "verse reference is duplicated in imported vocabulary prose"),
+    (r"::", "raw vocabulary delimiter leaked into reader-facing prose"),
+]
 
 
 def frontmatter(text: str) -> dict[str, str]:
@@ -91,6 +106,23 @@ def normalized_paragraphs(text: str) -> list[str]:
         if len(normalized.split()) >= 20:
             paragraphs.append(normalized)
     return paragraphs
+
+
+def generated_source_ranges(source_text: str, chapter: int) -> list[tuple[int, int, int]]:
+    body = source_text.split("## Notes", 1)[0]
+    headings = list(re.finditer(r"(?m)^## .+?\s*$", body))
+    ranges: list[tuple[int, int, int]] = []
+    for index, heading in enumerate(headings):
+        start = heading.end()
+        end = headings[index + 1].start() if index + 1 < len(headings) else len(body)
+        verses = [int(item) for item in re.findall(r"(?m)^v(\d{2,3}):", body[start:end])]
+        if verses:
+            ranges.append((chapter, min(verses), max(verses)))
+    if not ranges:
+        verses = [int(item) for item in re.findall(r"(?m)^v(\d{2,3}):", body)]
+        if verses:
+            ranges.append((chapter, min(verses), max(verses)))
+    return ranges
 
 
 def main() -> int:
@@ -193,7 +225,8 @@ def main() -> int:
             elif locked_hash != source_hash:
                 errors.append({"file": rel, "check": "source-lock", "message": "Source hash differs from approved candidate lock"})
 
-        expected_h1 = f"# {meta.get('book', '')} {meta.get('chapter', '')}"
+        title_book = "Psalm" if meta.get("book") == "Psalms" else meta.get("book", "")
+        expected_h1 = f"# {title_book} {meta.get('chapter', '')}"
         if expected_h1 not in text:
             errors.append({"file": rel, "check": "title", "message": f"Missing {expected_h1}"})
         for heading in REQUIRED_HEADINGS:
@@ -211,6 +244,18 @@ def main() -> int:
                 errors.append({"file": rel, "check": "chapter-path", "message": f"Unexpected chapter citation {cited_chapter}:{start}"})
             if max(int(start), int(end or start)) > max_verse:
                 errors.append({"file": rel, "check": "chapter-path", "message": f"Citation exceeds source verse count {max_verse}"})
+        if meta.get("companion_status") == "GENERATED_REVIEW_REQUIRED" and source.is_file():
+            actual_ranges = [
+                (int(cited_chapter), int(start), int(end or start))
+                for cited_chapter, start, end in re.findall(r"(\d+):(\d+)(?:[–-](\d+))?", chapter_path)
+            ]
+            expected_ranges = generated_source_ranges(source_text, int(meta.get("chapter", "0")))
+            if actual_ranges != expected_ranges:
+                errors.append({
+                    "file": rel,
+                    "check": "generated-source-shape",
+                    "message": f"Chapter Path ranges {actual_ranges} differ from source structure {expected_ranges}",
+                })
         for label in REQUIRED_QUESTION_LABELS:
             if f"**{label}:**" not in text and f"#### {label}" not in text:
                 errors.append({"file": rel, "check": "questions", "message": f"Missing {label} question"})
@@ -221,6 +266,10 @@ def main() -> int:
         for pattern in SAFETY_PATTERNS:
             if re.search(pattern, text, flags=re.I):
                 errors.append({"file": rel, "check": "safety", "message": f"Matched {pattern}"})
+        if meta.get("companion_status") == "GENERATED_REVIEW_REQUIRED":
+            for pattern, message in GENERATED_EDITORIAL_PATTERNS:
+                if re.search(pattern, text):
+                    errors.append({"file": rel, "check": "generated-editorial", "message": message})
 
         words = len(re.findall(r"\b[\w’'-]+\b", re.sub(r"^---\n.*?\n---\n", "", text, flags=re.S)))
         if not 500 <= words <= 1800:

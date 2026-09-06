@@ -41,6 +41,48 @@ This mechanical pass confirms completeness, structure, exact source bindings,
 citation bounds, and the audited safety-language rules. It does not substitute
 for the human gates below.
 
+## Expanded Round 1 evidence packet
+
+**Decision state:** READY_FOR_HUMAN_DECISION
+
+**Content-corpus digest:**
+`56ab1cd5f555a0b3f632679a436487e8da7f4b0d05d41180c4b4d0b9e3a5b320`
+
+Round 1 evaluates structural integrity, source provenance, chapter specificity,
+and reader-facing cleanliness. It does not decide the later historical,
+interpretive, formation, accessibility, or publication gates.
+
+The first pass failed and was not advanced for approval. It found:
+
+- 298 single-section chapters whose prompts repeated the same heading as both
+  the beginning and end of a supposed movement.
+- 416 generated records with improper lowercasing of `Israel`.
+- 85 generated Gospel records with improper lowercasing of `Gospel`.
+- 829 generated records with doubled vocabulary punctuation.
+- Reader-facing repository paths and technical `source apparatus` wording in
+  all 1,094 generated records.
+- Older apparatus markup leaking labels such as `v03`, bullets, repeated verse
+  references, and raw vocabulary delimiters into reader-facing prose.
+
+The generator and audit were then corrected, all 1,094 generated records were
+rebuilt, and the full audit returned 0 errors and 0 warnings. The audit now
+also verifies every generated Chapter Path against the section ranges in its
+bound Fluent source and rejects all recurrence of the defects above.
+
+Cross-genre close reading sampled:
+
+- Genesis 2; Leviticus 19; Numbers 25; Deuteronomy 7
+- 2 Kings 25; Job 3; Psalm 119; Ecclesiastes 10
+- Isaiah 53; Jeremiah 31
+- Matthew 5; Luke 10; Acts 15
+- 1 Corinthians 11; 1 Timothy 2
+- Revelation 13
+
+The corrected sample preserves the Fluent chapter structure, keeps source-note
+uncertainty visible, distinguishes single-section and headingless chapters,
+uses `Psalm` for individual psalm titles, and exposes no repository paths or
+raw editorial markup to readers.
+
 ## Human gates
 
 | Gate | Status | Reviewer | Date | Notes |
