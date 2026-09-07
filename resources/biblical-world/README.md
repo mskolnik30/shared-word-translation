@@ -33,3 +33,13 @@ A requested visual is not a published visual. Every visual remains blocked until
 - publication status marked `ready`.
 
 Generated or commissioned art must be labeled as interpretive, symbolic, schematic, or reconstructed rather than documentary. A companion dossier may be published without its requested visuals; it must not embed a placeholder or unverified image while those visual records remain blocked.
+
+## Scholarly visual gate
+
+Run `python3 tools/audit_biblical_world_visual_plan.py` from the repository root
+to verify the request structure and publication controls. A passing machine
+audit does not establish historical accuracy, geographic accuracy, rights, or
+visual quality. Those require the documented specialist and human review gates.
+
+The binding red-team controls are recorded in
+`audit/fluent-companion/VISUAL_SCHOLARLY_RED_TEAM_RECOVERY_2026-09-07.md`.

@@ -40,6 +40,9 @@ This is an unpublished candidate, not an approved or live release.
 - [ ] Formation reviewer checks questions, prayer, practices, and safety notes.
 - [ ] Accessibility reviewer checks labels, reading order, zoom behavior, and plain-language clarity in the reader.
 - [ ] Maps and other factual visuals retain source and uncertainty notes.
+- [ ] Every portrait is labeled as illustration rather than facial reconstruction, with authorship uncertainty preserved.
+- [ ] Historical specialists review maps, material culture, architecture, clothing, status markers, and reconstructed settings.
+- [ ] Human visual review rejects racial defaulting, unsupported idealization, pseudo-documentary scenes, and misleading author portraits.
 - [ ] Reader integration contains no raw Markdown, code tokens, or unresolved placeholders.
 - [ ] Mobile and desktop smoke tests pass for all new books and chapters.
 - [ ] Final content audit passes on the exact release commit.

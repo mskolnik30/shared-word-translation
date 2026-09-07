@@ -23,3 +23,5 @@ jobs:
         run: python3 tools/audit_fluent_companion.py
       - name: Audit complete-corpus coverage
         run: python3 tools/audit_fluent_companion_coverage.py
+      - name: Audit Biblical World visual plan
+        run: python3 tools/audit_biblical_world_visual_plan.py
