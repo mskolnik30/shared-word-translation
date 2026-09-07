@@ -17,6 +17,13 @@ human-review Rounds 1–7 are approved. Release-build runtime testing and the
 final publication gate remain pending.
 This is an unpublished candidate, not an approved or live release.
 
+The visual-production branch now also contains 65 deterministic SVG candidates
+(11 coordinate-grounded schematic maps and 54 diagrams) and 14 raster profile
+pilot candidates covering 17 of 76 profile-plan records. These are candidate
+review assets only. None is wired into the reader, rights-approved, visually
+approved, or publication-ready. Three requested photographic/reconstruction
+subjects and 59 profile-plan records remain to be sourced or generated.
+
 ## Completed in the production draft
 
 - Complete book introductions for Jonah, Ruth, James, and 1 John.

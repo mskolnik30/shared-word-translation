@@ -1,0 +1,1310 @@
+{
+  "schema_version": 1,
+  "candidate_set": "biblical-world-vectors-2026-09-07",
+  "asset_count": 65,
+  "publication_status": "blocked",
+  "entries": [
+    {
+      "visual_id": "visual-1cor6-translation-history",
+      "record_id": "context-corinthian-vice-list-sexuality",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-1cor6-translation-history.svg",
+      "sha256": "72d66caf0ce07c5e57c21cc6ad38c5834f5b2c3a8491740d9f73ad72970a20d0",
+      "primary_texts": [
+        "1 Corinthians 6:9–11"
+      ],
+      "sources": [],
+      "alt_text": "1 Corinthians 6:9: disputed Greek terms. Four-part interpretive diagram. malakoi has a broad history of meanings; arsenokoitai is rare and disputed; English labels have shifted across translation history; Modern identity terms are not automatic lexical equivalents. Caution: A lexical-history schematic; it does not erase moral debate or claim scholarly unanimity.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-1john-love-claims",
+      "record_id": "context-johannine-love-fear",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-1john-love-claims.svg",
+      "sha256": "a8d63e87fdd36cd025b2ae2411662ea0f8a03f451baf6d592e732a2fd34d178d",
+      "primary_texts": [
+        "1 John 4:7–21"
+      ],
+      "sources": [],
+      "alt_text": "Love, fear, and truthful claims. Four-part interpretive diagram. Love originates in God; God's love is made visible in Jesus; Perfected love drives out fear; Love of God is tested by love of sibling. Caution: The passage critiques false claims; it must not suppress truthful naming of harm.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-1peter-slavery-context",
+      "record_id": "context-household-slavery-1peter",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-1peter-slavery-context.svg",
+      "sha256": "81eb777dd40945cc639a8f86bb9bee40ce58a46433e48318600365129ed16a87",
+      "primary_texts": [
+        "1 Peter 2:11–3:7"
+      ],
+      "sources": [],
+      "alt_text": "1 Peter 2:18–25 in a slaveholding context. Four-part interpretive diagram. The letter addresses household subordinates; Enslaved people face unjust suffering; Christ's suffering is invoked; Modern readers must name slavery's violence. Caution: The passage does not authorize slavery or require anyone to remain in abuse.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-2john-hospitality-decisions",
+      "record_id": "context-johannine-hospitality-boundaries",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-2john-hospitality-decisions.svg",
+      "sha256": "bac87cbeb37104e4e2b9cb617a4cb915e906891c4ad467437c3bc03a61f66503",
+      "primary_texts": [
+        "2 John 7–11"
+      ],
+      "sources": [],
+      "alt_text": "2 John: hospitality and teaching boundaries. Four-part interpretive diagram. Deceivers deny Jesus Christ coming in flesh; The community is told to watch itself; Receiving a traveling teacher implies support; The instruction addresses a specific teaching conflict. Caution: The passage is not a universal command to shun every disagreement.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-2peter-text-variants",
+      "record_id": "context-cosmic-fire-new-creation",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-2peter-text-variants.svg",
+      "sha256": "90e6273bae0cfe641894ffbabb4fff6051d201a760baf68213f62ce96c786588",
+      "primary_texts": [
+        "2 Peter 3:8–13"
+      ],
+      "sources": [],
+      "alt_text": "2 Peter 3:10: major textual outcomes. Four-part interpretive diagram. The day arrives unexpectedly; Some witnesses yield 'will be found/exposed'; Others support destruction or burning language; The chapter moves toward new heavens and new earth. Caution: A simplified textual map; exact witness groupings require specialist verification.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-3john-authority-network",
+      "record_id": "context-house-church-authority",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-3john-authority-network.svg",
+      "sha256": "222e4a73809fbfe77e8a7873edce8d98b50c967b946c43a5dcdff8ee5ead5066",
+      "primary_texts": [
+        "3 John"
+      ],
+      "sources": [],
+      "alt_text": "3 John: hospitality and contested authority. Four-part interpretive diagram. The elder writes; Gaius supports traveling coworkers; Diotrephes rejects the elder and expels others; Demetrius receives commendation. Caution: The network shows competing authority claims, not a complete church organization chart.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-acts-property-contrast",
+      "record_id": "context-early-community-property",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-acts-property-contrast.svg",
+      "sha256": "c9f80b8340ddc9e5ec0325af54e2b90b8e9f4cd4b4cf7fb12cf7eff21613bec1",
+      "primary_texts": [
+        "Acts 4:32–5:11"
+      ],
+      "sources": [],
+      "alt_text": "Shared property and deceptive performance. Four-part interpretive diagram. Believers share to meet needs; Barnabas gives transparently; Ananias and Sapphira misrepresent a gift; Peter says the property remained under their authority. Caution: The contrast concerns deception and communal trust, not a mandate for coerced giving.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-amalek-memory-map",
+      "record_id": "context-amalek-memory",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "disputed",
+      "file": "resources/biblical-world/candidates/vectors/visual-amalek-memory-map.svg",
+      "sha256": "ee7cf1173b1cb7cfa79b2f70ade6c51b651297e3ddab16b0139048c3db4fc763",
+      "primary_texts": [
+        "Exodus 17:8–16",
+        "Deuteronomy 25:17–19",
+        "1 Samuel 15",
+        "Esther 3:1"
+      ],
+      "sources": [],
+      "alt_text": "Amalek in Israel's memory. Four-part interpretive diagram. Attack remembered in Exodus; Memory becomes a command in Deuteronomy; Royal violence in Samuel; Agagite language echoes in Esther. Caution: A literary-memory map, not a geographic claim or modern warrant for violence.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-amos-justice-waters",
+      "record_id": "context-amos-worship-economy",
+      "requested_class": "symbolic art",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-amos-justice-waters.svg",
+      "sha256": "6ff17815488bc5e6e03aff0098f2c18229d0c12623f5262737c3a8df83fdc692",
+      "primary_texts": [
+        "Amos 5:21–24"
+      ],
+      "sources": [],
+      "alt_text": "Justice like waters. Four-part interpretive diagram. Festivals and offerings are rejected; Songs are refused; Justice must roll like waters; Righteousness like an enduring stream. Caution: Symbolic art based on the poem; not a reconstruction of an ancient sanctuary.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-authentein-interpretations",
+      "record_id": "context-pastoral-letters-gender",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-authentein-interpretations.svg",
+      "sha256": "562d7f2abd49c315ba5b87c0f6710163564b065cc797f2e613812194d95ec1b7",
+      "primary_texts": [
+        "1 Timothy 2:8–15"
+      ],
+      "sources": [],
+      "alt_text": "1 Timothy 2:12 and a disputed verb. Four-part interpretive diagram. Learning in quietness; The rare verb authentein; A restriction paired with teaching; Debates over situation, scope, and duration. Caution: The diagram presents the interpretive questions and does not resolve them by assertion.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-bethlehem-threshing-floor",
+      "record_id": "context-threshing-floor-kinship",
+      "requested_class": "interpretive orientation image",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-bethlehem-threshing-floor.svg",
+      "sha256": "10ea4f6de988223849bf8f1779b7dd5ee226d9bed81960220e1260436415f582",
+      "primary_texts": [
+        "Ruth 3"
+      ],
+      "sources": [],
+      "alt_text": "Ruth 3: movement and risk. Four-part interpretive diagram. Naomi proposes a plan; Ruth approaches the threshing floor; Ruth and Boaz negotiate protection; Ruth returns with grain. Caution: Narrative schematic only. The floor, shelter, clothing, and sleeping arrangement are unknown.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-carmel-kishon-region",
+      "record_id": "place-mount-carmel",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-carmel-kishon-region.svg",
+      "sha256": "89e43b8e4ee3e9382ed89793cb5a486635147b38729b13fecd96d4e18412bcfd",
+      "primary_texts": [
+        "1 Kings 18:19–46"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/678321",
+        "https://whc.unesco.org/en/list/1108/"
+      ],
+      "alt_text": "Carmel, Kishon, and Jezreel. Schematic coordinate map showing Mount Carmel, regional; Kishon River, representative; Jezreel, probable; Megiddo, established. River and mountain markers are representative; Elijah's exact path is not recoverable.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-census-plague-temple",
+      "record_id": "context-census-temple-site",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-census-plague-temple.svg",
+      "sha256": "d96a16b959369c0c6c3f906c22317f7a0fe6ce811013c75b0e18295f454aa70d",
+      "primary_texts": [
+        "2 Samuel 24",
+        "1 Chronicles 21",
+        "2 Chronicles 3:1"
+      ],
+      "sources": [],
+      "alt_text": "Census, plague, altar, and temple memory. Four-part interpretive diagram. A census is ordered; A plague follows; An altar is built at a threshing floor; Chronicles connects the site with the temple. Caution: Samuel and Chronicles narrate agency differently; the diagram preserves both accounts.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-chronicles-land-covenant",
+      "record_id": "context-chronicles-land-temple",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-chronicles-land-covenant.svg",
+      "sha256": "9b2dc9ca85e8f2f749dc60bef9b413b6b6b601ed6ed64764f1e47a7f109d7250",
+      "primary_texts": [
+        "2 Chronicles 6–7",
+        "2 Chronicles 36:15–23"
+      ],
+      "sources": [],
+      "alt_text": "Temple prayer, land, exile, and return. Four-part interpretive diagram. Temple dedication and prayer; Warnings about covenant unfaithfulness; Destruction and exile; Return under Persian rule. Caution: A literary-theological movement, not a formula for blaming communities for disaster.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-colossian-household-voices",
+      "record_id": "context-colossian-household-slavery",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-colossian-household-voices.svg",
+      "sha256": "fd1a6ed64ed45df206bcf0df7f7e49f4c5ff0735a30ffeecbdf255872cf6f633",
+      "primary_texts": [
+        "Colossians 3:18–4:1"
+      ],
+      "sources": [],
+      "alt_text": "Household voices in Colossians. Four-part interpretive diagram. Wives and husbands; Children and fathers; Enslaved people; Masters addressed under a heavenly Master. Caution: Description of an ancient hierarchy is not endorsement of slavery or abuse.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-corinth-assembly",
+      "record_id": "context-corinthian-assembly",
+      "requested_class": "interpretive orientation image",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-corinth-assembly.svg",
+      "sha256": "32689dbbc97f6083a172d9f2d90d3a4b962e46427b2f6cb05deb202340222ea6",
+      "primary_texts": [
+        "1 Corinthians 11:17–34",
+        "1 Corinthians 12:4–27",
+        "1 Corinthians 14:26–40"
+      ],
+      "sources": [],
+      "alt_text": "The Corinthian assembly: voices and order. Four-part interpretive diagram. A gathered body with unequal status; Many gifts and speaking roles; Edification and intelligibility; Discernment and ordered participation. Caution: No room, table, seating plan, or individual appearance is reconstructed.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-crete-assemblies",
+      "record_id": "place-crete",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-crete-assemblies.svg",
+      "sha256": "f9ac1908fa6ebdcb26159d978c2fceae9752e4f815d8322535d5784aa91e2042",
+      "primary_texts": [
+        "Titus 1:5"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/589796",
+        "https://pleiades.stoa.org/places/589872"
+      ],
+      "alt_text": "Crete: representative urban centers. Schematic coordinate map showing Gortyna, established; Knossos, established; Crete, regional. Titus does not name the individual cities where elders were to be appointed.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-daniel7-symbol-key",
+      "record_id": "context-daniel-four-kingdoms",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-daniel7-symbol-key.svg",
+      "sha256": "afecdc60137ca1f95ba77af58778a50c6f37f241bc201ffa275b0033066d91fc",
+      "primary_texts": [
+        "Daniel 7"
+      ],
+      "sources": [],
+      "alt_text": "Daniel 7: symbols within the vision. Four-part interpretive diagram. Four beasts rise from the sea; A boastful horn opposes the holy ones; The Ancient One sits in judgment; One like a human being receives dominion. Caution: The chapter interprets beasts as kingdoms; later identifications remain debated.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-david-sends-takes",
+      "record_id": "context-royal-sexual-power",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-david-sends-takes.svg",
+      "sha256": "a3ef83a0246f48812919f46235a29017464846c1677b23f3ee4807ad8745fc24",
+      "primary_texts": [
+        "2 Samuel 11"
+      ],
+      "sources": [],
+      "alt_text": "Royal power: David sends and takes. Four-part interpretive diagram. David sends for information; David sends messengers and takes Bathsheba; David sends orders concerning Uriah; The prophet later exposes the abuse of power. Caution: The diagram centers royal agency and does not romanticize coercion.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-ecclesiastes-times",
+      "record_id": "context-wisdom-time",
+      "requested_class": "symbolic art",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-ecclesiastes-times.svg",
+      "sha256": "73747d634367974423267d4f5f7208a475f4a694e84650813f85b02857d5a47f",
+      "primary_texts": [
+        "Ecclesiastes 3:1–8"
+      ],
+      "sources": [],
+      "alt_text": "A time for every matter. Four-part interpretive diagram. Birth and death; Weeping and laughing; Silence and speech; War and peace. Caution: Symbolic arrangement of the poem's pairs; not a prediction or fixed life schedule.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-edom-jerusalem-routes",
+      "record_id": "place-edom",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "probable",
+      "file": "resources/biblical-world/candidates/vectors/visual-edom-jerusalem-routes.svg",
+      "sha256": "a5288bc91b5e72e2e99670b6a37375a6f355e9371bebb03ff3ffcca52e238ee8",
+      "primary_texts": [
+        "Obadiah 10–14"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/687928",
+        "https://whitelevy.fas.harvard.edu/publications/busayra-excavations-crystal-bennett-1971-1980"
+      ],
+      "alt_text": "Edom and Jerusalem. Schematic coordinate map showing Jerusalem, established; Bozrah / Busayra, probable; Petra / Sela traditions, representative. No invasion or refugee route is asserted; the map only shows regional relationship.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-ephesians-household-syntax",
+      "record_id": "context-ephesian-household-code",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-ephesians-household-syntax.svg",
+      "sha256": "affa0bbbb02a6c26dfb0795e9f13f132bc30eee486e58f3edca319d32313876c",
+      "primary_texts": [
+        "Ephesians 5:21–6:9"
+      ],
+      "sources": [],
+      "alt_text": "Ephesians 5:21–6:9: sequence and debated syntax. Four-part interpretive diagram. 5:21 calls for mutual submission; Wives and husbands; Children and fathers; Enslaved people and masters. Caution: Verse 5:21 immediately precedes the household speech; its grammatical relation and scope are debated.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-ezekiel-metaphor-layers",
+      "record_id": "context-city-wife-violence",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-ezekiel-metaphor-layers.svg",
+      "sha256": "5897fb38c53b8a3b8289b1e730a720e750c1192a72180d9e2b00585bdedea6ea",
+      "primary_texts": [
+        "Ezekiel 16",
+        "Ezekiel 23"
+      ],
+      "sources": [],
+      "alt_text": "Ezekiel's city-wife metaphors: layered reading. Four-part interpretive diagram. Cities are personified as women; Political alliances become sexual metaphor; Judgment is narrated through graphic violence; Readers must distinguish rhetoric from an ethical model. Caution: The imagery can retraumatize; it must never legitimate sexual or domestic violence.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-galatians-status-pairs",
+      "record_id": "context-galatia-baptism-status",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-galatians-status-pairs.svg",
+      "sha256": "b1123d5e0f2c7f4fa45747fbf147c97ea8cc9c7a0a5259dfce562c5887aa7ea6",
+      "primary_texts": [
+        "Galatians 3:26–29"
+      ],
+      "sources": [],
+      "alt_text": "Baptismal belonging across status pairs. Four-part interpretive diagram. Jew and Greek; Enslaved and free; Male and female; One in Christ; heirs according to promise. Caution: Unity does not erase embodied difference or excuse unequal treatment.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-gibeah-region",
+      "record_id": "place-gibeah",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "probable",
+      "file": "resources/biblical-world/candidates/vectors/visual-gibeah-region.svg",
+      "sha256": "370989c413d301ff55e004de0fa52341c9ffe795501a26213a906837fe896269",
+      "primary_texts": [
+        "Judges 19–20",
+        "1 Samuel 10:26",
+        "1 Samuel 15:34"
+      ],
+      "sources": [],
+      "alt_text": "Gibeah: probable, not certain. Four-part interpretive diagram. Biblical Gibeah belongs to Benjamin; Narratives connect it with Saul; Tell el-Ful is a common proposal; The identification is probable rather than certain. Caution: Site-identification schematic; not a precise ancient street map.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-habakkuk-vision-delay",
+      "record_id": "context-babylon-vision-faithfulness",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-habakkuk-vision-delay.svg",
+      "sha256": "106031cdbe06b018c39980b19832c32fbedf48c3a22ec1cdacfdbabbfca27b5e",
+      "primary_texts": [
+        "Habakkuk 2:1–5"
+      ],
+      "sources": [],
+      "alt_text": "Vision, delay, and faithfulness. Four-part interpretive diagram. The prophet watches for an answer; The vision is written plainly; Its appointed time may seem delayed; The righteous lives by faithfulness. Caution: Later Jewish and Christian uses are reception history, not replacements for Habakkuk's setting.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-haggai-temple-timeline",
+      "record_id": "context-second-temple-economy",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "probable",
+      "file": "resources/biblical-world/candidates/vectors/visual-haggai-temple-timeline.svg",
+      "sha256": "1f737d75c0715564886a1f6d99671da29d07504b2f7127436bf4419c8399b277",
+      "primary_texts": [
+        "Haggai 1:1",
+        "Haggai 1:15",
+        "Haggai 2:1",
+        "Haggai 2:10, 20"
+      ],
+      "sources": [],
+      "alt_text": "Haggai's dated messages. Four-part interpretive diagram. Year 2, month 6, day 1: rebuild; Month 6, day 24: work begins; Month 7, day 21: encouragement; Month 9, day 24: holiness and Zerubbabel oracles. Caution: Regnal dates are retained; modern calendar equivalents vary slightly by reconstruction.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-hebrews-warning-encouragement",
+      "record_id": "context-hebrews-apostasy-perseverance",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-hebrews-warning-encouragement.svg",
+      "sha256": "ee639442eccbd7bc1d3e978831e1b2ef4b732ca47416d7b86f2532475de9ba95",
+      "primary_texts": [
+        "Hebrews 6:4–12",
+        "Hebrews 10:19–39",
+        "Hebrews 12:1–17"
+      ],
+      "sources": [],
+      "alt_text": "Warning and encouragement in Hebrews. Four-part interpretive diagram. Severe warnings name real danger; Confidence rests in Jesus' priestly work; The community is urged to encourage one another; Endurance is communal, not solitary fear. Caution: Warning passages must not be weaponized to control traumatized or questioning readers.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-horeb-sinai-traditions",
+      "record_id": "place-horeb-sinai",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "disputed",
+      "file": "resources/biblical-world/candidates/vectors/visual-horeb-sinai-traditions.svg",
+      "sha256": "e339475533798bd9ea6fcdff1fc8942d47cc721c213fd66cb0d5b7e080ddc6d3",
+      "primary_texts": [
+        "Exodus 3:1",
+        "Exodus 19:1–20:21",
+        "Deuteronomy 1:2, 6"
+      ],
+      "sources": [],
+      "alt_text": "Horeb / Sinai: a disputed location. Four-part interpretive diagram. The texts use Horeb and Sinai; Travel notices provide broad relationships; Several modern identifications compete; No proposal is conclusive. Caution: No modern mountain is presented as established.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-hosea-sign-names",
+      "record_id": "context-prophetic-marriage-metaphor",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-hosea-sign-names.svg",
+      "sha256": "e14af748271ff13d3ad0ed431b5bd937e189b02e8bef0db76ebcfb1b0d48e654",
+      "primary_texts": [
+        "Hosea 1–2"
+      ],
+      "sources": [],
+      "alt_text": "Hosea's sign-names and reversal. Four-part interpretive diagram. Jezreel names remembered bloodshed; Lo-Ruhamah signals 'no compassion'; Lo-Ammi signals 'not my people'; The poetry later reverses rejection toward mercy and belonging. Caution: The children's symbolic use and the marriage metaphor require explicit harm-aware review.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-james-faith-works",
+      "record_id": "context-faith-and-works",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-james-faith-works.svg",
+      "sha256": "1e558a41c6f49fd807a7e9f447ba62a04696dedc8dd00b367ef8de9496a4a47c",
+      "primary_texts": [
+        "James 2:14–26"
+      ],
+      "sources": [],
+      "alt_text": "Faith shown in action. Four-part interpretive diagram. A claim to faith; A neighbor lacks food or clothing; Words without material care do not help; Living faith becomes visible in action. Caution: This diagram follows James's argument without reducing salvation to a scorecard.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-jeremiah-lament-movements",
+      "record_id": "context-prophetic-lament-coercion",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-jeremiah-lament-movements.svg",
+      "sha256": "2910ee1295e19a71e04dc3464077465bbf095af9faaffdc5deffecf56c4abebb",
+      "primary_texts": [
+        "Jeremiah 20:7–18"
+      ],
+      "sources": [],
+      "alt_text": "Jeremiah 20: praise, protest, and curse. Four-part interpretive diagram. The speaker protests overpowering vocation; A word like fire cannot be contained; Praise interrupts the lament; The poem ends by cursing the day of birth. Caution: The emotional movements are preserved without forcing a neat resolution.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-jericho-bethel-route",
+      "record_id": "place-bethel",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "probable",
+      "file": "resources/biblical-world/candidates/vectors/visual-jericho-bethel-route.svg",
+      "sha256": "c11fe0b816fc601a8cd372d712099a7fd75d750c63eed912610ced22f547628c",
+      "primary_texts": [
+        "Joshua 6–8"
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1687/",
+        "https://www.cambridge.org/core/books/new-cambridge-history-of-the-bible/archaeological-study-of-the-bible/3622CEDDB3F6F42D0005D3737A52E16A"
+      ],
+      "alt_text": "Jericho, Bethel, and Ai. Schematic coordinate map showing Jericho / Tell es-Sultan, established; Bethel (common identification), probable; Ai / et-Tell proposal, disputed. No route line is drawn because Bethel/Ai identifications and the campaign reconstruction are debated.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-job-reader-knowledge",
+      "record_id": "context-divine-council-suffering",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-job-reader-knowledge.svg",
+      "sha256": "55a59d771bf9de77063e6fcf1c4e9cca5bbdc9e93672e4a02ee8c3a64edf64dc",
+      "primary_texts": [
+        "Job 1–2",
+        "Job 38–42",
+        "Job 42:7"
+      ],
+      "sources": [],
+      "alt_text": "What Job knows—and what the reader knows. Four-part interpretive diagram. The reader sees the heavenly prologue; Job and the friends do not; Job refuses simple punishment logic; God says the friends did not speak rightly about God as Job did. Caution: Job's suffering is not presented as punishment for hidden wrongdoing.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-joel-social-pairs",
+      "record_id": "context-joel-spirit-all-flesh",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-joel-social-pairs.svg",
+      "sha256": "b38fdd49ef6c4b2fd8d9bb86c9de54e0577e79112557adbc7f4cdb3d67ad655c",
+      "primary_texts": [
+        "Joel 2:28–32"
+      ],
+      "sources": [],
+      "alt_text": "The Spirit poured on all flesh. Four-part interpretive diagram. Sons and daughters prophesy; Old and young receive dreams and visions; Male and female enslaved people receive the Spirit; Deliverance is announced amid cosmic signs. Caution: The social pairs emphasize breadth rather than a hierarchy of recipients.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-jude-allusion-network",
+      "record_id": "context-jude-enoch-sodom",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-jude-allusion-network.svg",
+      "sha256": "1608b83431d5c2666cb858e2e434867f3f9d78a31d94ecc257d623ef086fd8e9",
+      "primary_texts": [
+        "Jude 5–16",
+        "1 Enoch 1:9"
+      ],
+      "sources": [],
+      "alt_text": "Jude's scriptural and traditional allusions. Four-part interpretive diagram. Exodus, rebellious angels, and Sodom; Michael and Moses: a tradition later associated with the Assumption of Moses; Cain, Balaam, and Korah; Jude explicitly quotes wording from 1 Enoch. Caution: The Moses tradition and the quotation from 1 Enoch must not be conflated.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-lamentations-acrostic",
+      "record_id": "context-siege-lament-acrostic",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-lamentations-acrostic.svg",
+      "sha256": "4a1c43bd324340cc888d4a07528bbaf7dcc54b137dcec569b8e48becb12f3eb3",
+      "primary_texts": [
+        "Lamentations 1–5"
+      ],
+      "sources": [],
+      "alt_text": "Lamentations and alphabetic form. Four-part interpretive diagram. Chapters 1 and 2 use alphabetic acrostics; Chapter 3 triples the alphabetic pattern; Chapter 4 returns to an acrostic; Chapter 5 has twenty-two verses without a full acrostic. Caution: The form orders grief without resolving it.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-lawless-one-interpretations",
+      "record_id": "context-lawless-one-restraint",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-lawless-one-interpretations.svg",
+      "sha256": "36744c2104220d39aa20d7f3c26fde75d9dfa16ac85900226484a829f07048e7",
+      "primary_texts": [
+        "2 Thessalonians 2:1–12"
+      ],
+      "sources": [],
+      "alt_text": "The lawless one and the restraint. Four-part interpretive diagram. Rebellion and a lawless figure; A restraining presence or power; Deceptive signs; Defeat at the Lord's appearing. Caution: The letter's account is highly allusive; historical identifications remain disputed.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-levitical-holiness-context",
+      "record_id": "context-levitical-holiness-sexuality",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-levitical-holiness-context.svg",
+      "sha256": "aea4b1a6439d2a8e535c3a130f3dd018b37cf505581e9fcdb2051f7cbf2b147f",
+      "primary_texts": [
+        "Leviticus 18",
+        "Leviticus 20"
+      ],
+      "sources": [],
+      "alt_text": "Holiness, kinship, and disputed application. Four-part interpretive diagram. Israel's holiness code; Kinship, household, status, and land; Prohibitions in an ancient social world; Disputed modern ethical applications. Caution: Ancient categories are not mapped one-to-one onto modern identities.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-malachi-216-translations",
+      "record_id": "context-malachi-divorce-text",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-malachi-216-translations.svg",
+      "sha256": "3caab837e8fad831e84307c81e7074ddf52b26bd25ad260353015d0968ffa28f",
+      "primary_texts": [
+        "Malachi 2:13–16"
+      ],
+      "sources": [],
+      "alt_text": "Malachi 2:16: a difficult Hebrew sentence. Four-part interpretive diagram. One reading: 'he hates divorce'; Another: 'if he hates and divorces'; The verse also condemns covering a garment with violence; Translation depends on syntax, speaker, and textual judgment. Caution: No English rendering should be used to trap someone in violence or abuse.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-martha-household",
+      "record_id": "context-women-discipleship",
+      "requested_class": "interpretive orientation image",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-martha-household.svg",
+      "sha256": "e5f045738d1dd8356d5a346f469273ddf5755739fb3d446e6f3350bd48131110",
+      "primary_texts": [
+        "Luke 10:38–42"
+      ],
+      "sources": [],
+      "alt_text": "Martha, Mary, and Jesus: the narrated exchange. Four-part interpretive diagram. Martha welcomes Jesus; Mary listens at Jesus' feet; Martha voices her burden; Jesus answers Martha directly. Caution: Relational schematic only. The house, furniture, meal, and seating are not described.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-mercy-seat",
+      "record_id": "context-second-temple-atonement",
+      "requested_class": "evidence-based reconstruction",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "probable",
+      "file": "resources/biblical-world/candidates/vectors/visual-mercy-seat.svg",
+      "sha256": "0a84acf46cd4479e9985d7662410cbf2ce0993850059f496d87f49af40568846",
+      "primary_texts": [
+        "Exodus 25:10–22",
+        "Leviticus 16:11–17"
+      ],
+      "sources": [],
+      "alt_text": "Ark and cover: textual relationships. Four-part interpretive diagram. Ark described in Exodus; Cover and cherubim described above it; Cloud and atonement ritual in Leviticus 16; No surviving ark confirms appearance. Caution: Schematic only; dimensions and relationships follow the texts, while visual details remain unknown.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-micah-threefold-requirement",
+      "record_id": "context-micah-covenant-lawsuit",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-micah-threefold-requirement.svg",
+      "sha256": "db18f35a58d0511e76719547c25b4a2337b4c561908b28854073b5d48a569ce4",
+      "primary_texts": [
+        "Micah 6:1–8"
+      ],
+      "sources": [],
+      "alt_text": "What does the LORD require?. Four-part interpretive diagram. Do justice; Love covenant loyalty; Walk humbly with your God; The answer stands within a covenant lawsuit. Caution: The three phrases summarize 6:8 without erasing the chapter's legal and communal setting.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-millennium-views",
+      "record_id": "context-millennium-reception",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-millennium-views.svg",
+      "sha256": "beecccc0b5a8d3c3f5182305b57d3800902b42e1eeb455816bcea54de368effd",
+      "primary_texts": [
+        "Revelation 20:1–10"
+      ],
+      "sources": [],
+      "alt_text": "Revelation 20 and later millennial readings. Four-part interpretive diagram. The text's thousand-year scene; Premillennial readings; Amillennial readings; Postmillennial readings. Caution: The three labels describe later interpretive traditions; the diagram does not select one as certain.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-moriah-traditions",
+      "record_id": "place-moriah",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "disputed",
+      "file": "resources/biblical-world/candidates/vectors/visual-moriah-traditions.svg",
+      "sha256": "ec30680c2627de5589b7303886a862a3bb4060a830f178acd87bee1a4e8ed575",
+      "primary_texts": [
+        "Genesis 22:2",
+        "2 Chronicles 3:1"
+      ],
+      "sources": [],
+      "alt_text": "Moriah: text and later identification. Four-part interpretive diagram. Genesis names the land of Moriah; Chronicles names Mount Moriah as the temple site; The exact Genesis location remains disputed. Caution: This is an evidence-and-tradition diagram, not a claim that one modern point is certain.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-nehemiah-debt-flow",
+      "record_id": "context-persian-debt-tax",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-nehemiah-debt-flow.svg",
+      "sha256": "1639c456e7683005d979be6df729ebf18ed54d837b54cf852bc6fa3b1cab921f",
+      "primary_texts": [
+        "Nehemiah 5:1–13"
+      ],
+      "sources": [],
+      "alt_text": "Debt and loss in Nehemiah 5. Four-part interpretive diagram. Food shortage and taxation; Fields and houses mortgaged; Debt pushes children into servitude; Nehemiah demands restoration and an end to interest. Caution: The diagram makes economic coercion visible rather than spiritualizing the crisis.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-nineveh-fall-context",
+      "record_id": "place-nineveh",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-nineveh-fall-context.svg",
+      "sha256": "aa69488b135bea53ee5899ae0e8d42fdefe92a19ea780ad2c2e890a58724cdac",
+      "primary_texts": [
+        "Nahum 1–3"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/874621",
+        "https://pleiades.stoa.org/places/658427",
+        "https://pleiades.stoa.org/places/658465",
+        "https://pleiades.stoa.org/places/893951"
+      ],
+      "alt_text": "The collapse of Assyrian power. Schematic coordinate map showing Nineveh, established; Harran, established; Carchemish, established; Babylon, established. Orientation to major centers; military routes and imperial borders are not reconstructed.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-nineveh-region",
+      "record_id": "place-nineveh",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-nineveh-region.svg",
+      "sha256": "106bdb8d2608c834e48de9677866d140d055c0b739622dbb38732a3a8e2d76d6",
+      "primary_texts": [
+        "Jonah 1–4",
+        "Nahum 1–3"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/874621",
+        "https://pleiades.stoa.org/places/874609"
+      ],
+      "alt_text": "Nineveh and the Assyrian heartland. Schematic coordinate map showing Nineveh, established; Modern Mosul, modern reference. Ancient Nineveh is located across the Tigris from modern Mosul.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-pericope-manuscripts",
+      "record_id": "context-pericope-adulterae",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-pericope-manuscripts.svg",
+      "sha256": "b8846a7a1fb40b10ebffb460480edaa8ac8f55c7bcdd7e2d613cedf67c8424a4",
+      "primary_texts": [
+        "John 7:53–8:11"
+      ],
+      "sources": [],
+      "alt_text": "John 7:53–8:11 in the manuscript tradition. Four-part interpretive diagram. Absent from the earliest surviving Greek witnesses; Present in many later manuscripts; Placed at different locations in some witnesses; Printed with textual notes in modern editions. Caution: A simplified transmission diagram; manuscript dates and readings require textual-specialist review.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-persian-judah-return",
+      "record_id": "context-persian-return-identity",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-persian-judah-return.svg",
+      "sha256": "02b9067c6ce920c728ba685a8323285b5b2876f02b9bb3d777ec4661b16cf183",
+      "primary_texts": [
+        "Ezra 1–2",
+        "Ezra 7–8"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/687928",
+        "https://pleiades.stoa.org/places/893951",
+        "https://pleiades.stoa.org/places/912936"
+      ],
+      "alt_text": "Judah within the Persian imperial world. Schematic coordinate map showing Jerusalem, established; Babylon, established; Susa, established. The points establish scale; the returnees did not all follow one documented route.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-philemon-relationship",
+      "record_id": "context-roman-slavery-patronage",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-philemon-relationship.svg",
+      "sha256": "1264a55ec17c42fc8c6e860098c0372ad47207612586139c0432dd1ea44f070b",
+      "primary_texts": [
+        "Philemon 8–21"
+      ],
+      "sources": [],
+      "alt_text": "Philemon: appeal inside a slaveholding world. Four-part interpretive diagram. The letter's sender appeals rather than commands; Onesimus is called a beloved brother; Philemon holds social and legal power; The outcome is not narrated. Caution: The appeal unsettles status but does not explicitly abolish Roman slavery.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-philippi-regional",
+      "record_id": "place-philippi",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-philippi-regional.svg",
+      "sha256": "dbf1dfaad60b5a5e22df270666a36b246c326c3b706be9ee09924f220fa0fae1",
+      "primary_texts": [
+        "Acts 16:6–40",
+        "Philippians 1:1"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/501482",
+        "https://pleiades.stoa.org/places/501347"
+      ],
+      "alt_text": "Philippi in Macedonia. Schematic coordinate map showing Philippi, established; Neapolis (port), established; Amphipolis, established; Thessalonica, established. Coordinate orientation only; no unmentioned route is asserted.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-proverbs31-labor-network",
+      "record_id": "context-woman-of-valor-labor",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-proverbs31-labor-network.svg",
+      "sha256": "eaf22803b693903e0c6a6b93513be669b49da601b1abb66c9df224f9c0fc4f8c",
+      "primary_texts": [
+        "Proverbs 31:10–31"
+      ],
+      "sources": [],
+      "alt_text": "The woman of strength: a labor network. Four-part interpretive diagram. Textiles and household provision; Trade and purchase of a field; Care for poor and vulnerable people; Wisdom, teaching, and public honor. Caution: The poem praises skilled economic agency; it is not a checklist imposed on every woman.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-reconciliation-agency",
+      "record_id": "context-reconciliation-atonement",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-reconciliation-agency.svg",
+      "sha256": "098161016ac769845dd92ff7351a6425cfe219c826817c1efb48d14101338fbb",
+      "primary_texts": [
+        "2 Corinthians 5:14–21"
+      ],
+      "sources": [],
+      "alt_text": "God's reconciling initiative. Four-part interpretive diagram. God acts in Christ; Reconciliation is entrusted as a message; Messengers appeal as ambassadors; New creation frames the calling. Caution: The passage must not be used to compel contact with an abuser or erase safety and agency.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-romans-love-flow",
+      "record_id": "context-roman-suffering-reconciliation",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-romans-love-flow.svg",
+      "sha256": "34e1913226da4c2213ba4e496addb4405183f4453c70298d4357223c089d9597",
+      "primary_texts": [
+        "Romans 12:9–21"
+      ],
+      "sources": [],
+      "alt_text": "Love without pretense. Four-part interpretive diagram. Hold fast to the good; Honor, hospitality, and shared life; Bless persecutors; do not repay evil; Overcome evil with good. Caution: The passage includes 'if possible, so far as it depends on you'; it does not require unsafe reconciliation.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-romans-olive-tree",
+      "record_id": "context-romans-israel-election",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-romans-olive-tree.svg",
+      "sha256": "bcdcfcf795da86ec3468ba0322dc91247aede80cafad455273cb4cba1156d9b4",
+      "primary_texts": [
+        "Romans 11:11–32"
+      ],
+      "sources": [],
+      "alt_text": "The olive tree and the warning against boasting. Four-part interpretive diagram. A cultivated root supports the branches; Some branches are broken; Wild branches are grafted in; Gentile branches are warned not to boast. Caution: The metaphor does not justify contempt for Jewish people or replacement theology.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-scripture-purpose",
+      "record_id": "context-scripture-inspiration-canon",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-scripture-purpose.svg",
+      "sha256": "1d29ee1167996524207fceb8a953265b103f316156d5e52bff047f3db8b6598b",
+      "primary_texts": [
+        "2 Timothy 3:14–17"
+      ],
+      "sources": [],
+      "alt_text": "Sacred writings and their purpose. Four-part interpretive diagram. The letter recalls learned sacred writings; They make wise for salvation through faith; Scripture is described as God-breathed; Teaching, correction, and formation equip for good work. Caution: Claims are attributed to the letter rather than automatically to the historical Paul.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-song-spring-imagery",
+      "record_id": "context-song-desire-garden",
+      "requested_class": "symbolic art",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-song-spring-imagery.svg",
+      "sha256": "6b5c66a04da4fabf7b272e4e348964053c1ce50d9613d718a3679abd829a65fc",
+      "primary_texts": [
+        "Song of Songs 2:8–17"
+      ],
+      "sources": [],
+      "alt_text": "Spring imagery and mutual desire. Four-part interpretive diagram. Rain passes and flowers appear; Birdsong and fruit signal a season; The lovers call and answer; Garden and animal images intensify desire. Caution: Symbolic botanical arrangement; species identifications and the pictured landscape are not reconstructions.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-sotah-ritual-sequence",
+      "record_id": "context-sotah-ordeal",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-sotah-ritual-sequence.svg",
+      "sha256": "34e3130d4d3472d2f314bb75ed112504893c9e1228aa67e54c0d6d2be8ce1512",
+      "primary_texts": [
+        "Numbers 5:11–31"
+      ],
+      "sources": [],
+      "alt_text": "The jealousy ordeal in sequence. Four-part interpretive diagram. A husband brings an accusation; The priest administers the prescribed rite; An oath and bitter water are described; The text assigns consequences asymmetrically. Caution: Sequence only; no room, vessel, clothing, or bodily effect is reconstructed.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-susa-persian-provinces",
+      "record_id": "place-susa",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-susa-persian-provinces.svg",
+      "sha256": "fabbaa62f716772ccbac53a226609787109cd8354d22ce69ca0607d3c5e2f22d",
+      "primary_texts": [
+        "Esther 1:1–2",
+        "Esther 8:9"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/912936",
+        "https://pleiades.stoa.org/places/893951"
+      ],
+      "alt_text": "Susa and the world imagined by Esther. Schematic coordinate map showing Susa, established; Jerusalem, established; Babylon, established; Indus region, representative. Representative scale only. The book's 127 provinces are not reconstructed as precise borders.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-syro-ephraimite-region",
+      "record_id": "context-syro-ephraimite-crisis",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-syro-ephraimite-region.svg",
+      "sha256": "f2399e074f0fba1695fd9a06ab08fb2e0232bb256ad21153d24c573d5915199e",
+      "primary_texts": [
+        "2 Kings 15:29–16:20",
+        "Isaiah 7–8"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/687928",
+        "https://pleiades.stoa.org/places/678370",
+        "https://pleiades.stoa.org/places/678106"
+      ],
+      "alt_text": "The Syro-Ephraimite crisis. Schematic coordinate map showing Jerusalem, established; Samaria, established; Damascus, established. The map locates capitals; borders and campaign routes are not reconstructed.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-thessalonians-meeting",
+      "record_id": "context-imperial-arrival-resurrection",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-thessalonians-meeting.svg",
+      "sha256": "d335772f965599c51ba04fd54a1f85ae3ab38ed6296d00a4816d3d2fbd3b8237",
+      "primary_texts": [
+        "1 Thessalonians 4:13–18"
+      ],
+      "sources": [],
+      "alt_text": "The letter's account of resurrection and meeting. Four-part interpretive diagram. The Lord descends; The dead in Christ rise first; The living are caught up together; All meet the Lord; the community comforts one another. Caution: The sequence follows the letter's imagery; it is not a modern end-times timetable.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-tyre-region",
+      "record_id": "place-tyre-region",
+      "requested_class": "geographic map",
+      "candidate_format": "schematic-coordinate-map",
+      "claim_label": "established",
+      "file": "resources/biblical-world/candidates/vectors/visual-tyre-region.svg",
+      "sha256": "79ff4710bb951518fc10c824f20104b045bccc5003253746b6c547c896c2c054",
+      "primary_texts": [
+        "Mark 7:24–30"
+      ],
+      "sources": [
+        "https://pleiades.stoa.org/places/678437",
+        "https://pleiades.stoa.org/places/678393",
+        "https://pleiades.stoa.org/places/678324"
+      ],
+      "alt_text": "Tyre and the southern Phoenician coast. Schematic coordinate map showing Tyre, established; Sidon, established; Caesarea Philippi, established. Regional orientation; Mark names the region of Tyre but does not narrate a precise route.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-zechariah-mourning-groups",
+      "record_id": "context-zechariah-pierced-mourning",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-zechariah-mourning-groups.svg",
+      "sha256": "75ad45aa24a1f11e3187311c34f084dff375e7090fe4b1be6ccae2a46dfaf244",
+      "primary_texts": [
+        "Zechariah 12:10–14"
+      ],
+      "sources": [],
+      "alt_text": "Zechariah 12: households mourning. Four-part interpretive diagram. House of David; House of Nathan; House of Levi and Shimei; Every remaining family, each apart. Caution: The text lists household groups; later christological readings belong to reception history.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    },
+    {
+      "visual_id": "visual-zephaniah-book-movement",
+      "record_id": "context-day-of-lord-zephaniah",
+      "requested_class": "schematic map",
+      "candidate_format": "interpretive-diagram",
+      "claim_label": "interpretive",
+      "file": "resources/biblical-world/candidates/vectors/visual-zephaniah-book-movement.svg",
+      "sha256": "2f0b824985748173f10778f410463e4a9364ed674381f3e4e23069c32b0f0a15",
+      "primary_texts": [
+        "Zephaniah 1–3"
+      ],
+      "sources": [],
+      "alt_text": "Zephaniah: judgment, remnant, and restoration. Four-part interpretive diagram. Judgment begins with Judah and Jerusalem; The nations also face judgment; A humble remnant is envisioned; The book closes with gathering and rejoicing. Caution: The movement does not turn historical violence into a timetable for current events.",
+      "rights_basis": "Original deterministic SVG generated in this repository; source facts remain attributed separately.",
+      "rights_status": "owned-candidate",
+      "scholarly_review": "required",
+      "accessibility_review": "required",
+      "publication_status": "blocked"
+    }
+  ]
+}

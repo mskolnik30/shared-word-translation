@@ -43,3 +43,38 @@ visual quality. Those require the documented specialist and human review gates.
 
 The binding red-team controls are recorded in
 `audit/fluent-companion/VISUAL_SCHOLARLY_RED_TEAM_RECOVERY_2026-09-07.md`.
+
+## Vector candidates
+
+The deterministic SVG candidate set is stored under
+`candidates/vectors/`. Its manifest binds every file to the shared visual
+request, primary text, source URLs where geographic coordinates are used,
+alternative text, SHA-256 digest, rights basis, and open human gates.
+
+Run `python3 tools/audit_biblical_world_vector_candidates.py` to verify this
+candidate set. The files remain visibly labeled as schematic or unpublished
+and cannot be treated as publication-approved merely because the audit passes.
+
+The 76-image book-author/key-person profile program is defined in
+`profiles/plan.json`. It assigns different treatments to named figures,
+anonymous works, composite books, layered prophetic books, disputed
+attributions, and pseudonymous voices. Run
+`python3 tools/audit_biblical_profile_plan.py` before generating or integrating
+any profile image.
+
+Fourteen checksum-bound raster pilot candidates are stored under
+`profiles/candidates/`. They cover all ten named-person pilot records plus
+Genesis, Isaiah, Hebrews, and one shared four-Gospel authorship-awareness
+editorial (17 of the 76 plan records). Every file is labeled as interpretive,
+remains blocked, and still requires scholarly, visual, and rights review.
+Run `python3 tools/audit_biblical_profile_candidates.py` to verify the files,
+hashes, plan bindings, disclosures, and gates.
+
+Open `candidates/vectors/review-gallery.html` locally to review every vector
+candidate together with its primary texts, alternative text, sources, and
+publication status.
+
+Open `profiles/candidates/review-gallery.html` locally to review the raster
+pilot candidates, captions, alternative text, red-team notes, sources, exact
+generation prompts, and SHA-256 bindings. The gallery is a review surface, not
+a publication package.

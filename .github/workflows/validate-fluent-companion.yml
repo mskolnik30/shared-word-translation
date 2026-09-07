@@ -25,3 +25,9 @@ jobs:
         run: python3 tools/audit_fluent_companion_coverage.py
       - name: Audit Biblical World visual plan
         run: python3 tools/audit_biblical_world_visual_plan.py
+      - name: Audit Biblical World vector candidates
+        run: python3 tools/audit_biblical_world_vector_candidates.py
+      - name: Audit Biblical profile plan
+        run: python3 tools/audit_biblical_profile_plan.py
+      - name: Audit Biblical profile candidates
+        run: python3 tools/audit_biblical_profile_candidates.py
