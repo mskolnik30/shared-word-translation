@@ -1,0 +1,1397 @@
+{
+  "schema_version": 1,
+  "plan_id": "biblical-profile-program-2026-09-07",
+  "book_profile_count": 66,
+  "key_person_count": 10,
+  "total_count": 76,
+  "global_constraints": [
+    "No image is a facial reconstruction.",
+    "No modern northern European racial default.",
+    "No idealized beauty unless the biblical text describes beauty or striking appearance.",
+    "No halo, superhero physique, fantasy costume, modern makeup, or modern racial caricature.",
+    "Anonymous, composite, layered, pseudonymous, and disputed authorship must remain visible in the visual strategy.",
+    "The Shroud of Turin is not facial evidence for Jesus.",
+    "Publication remains blocked until scholarly, visual, rights, and accessibility review are complete."
+  ],
+  "entries": [
+    {
+      "id": "profile-book-genesis",
+      "kind": "book-authorial-identity",
+      "book": "Genesis",
+      "subject_label": "Voices behind Genesis",
+      "authorship_status": "composite-anonymous",
+      "evidence_note": "Pentateuchal traditions shaped over time; Moses is the traditional author, not a recoverable portrait of the final writer.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-exodus",
+      "kind": "book-authorial-identity",
+      "book": "Exodus",
+      "subject_label": "Voices behind Exodus",
+      "authorship_status": "composite-anonymous",
+      "evidence_note": "Pentateuchal traditions shaped over time; the book's Moses is a character and traditional authorial figure.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-leviticus",
+      "kind": "book-authorial-identity",
+      "book": "Leviticus",
+      "subject_label": "Voices behind Leviticus",
+      "authorship_status": "composite-anonymous",
+      "evidence_note": "Priestly and holiness traditions; final authorship is not represented by one face.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-numbers",
+      "kind": "book-authorial-identity",
+      "book": "Numbers",
+      "subject_label": "Voices behind Numbers",
+      "authorship_status": "composite-anonymous",
+      "evidence_note": "Composite Pentateuchal traditions; Moses is central in the narrative but final authorship is layered.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-deuteronomy",
+      "kind": "book-authorial-identity",
+      "book": "Deuteronomy",
+      "subject_label": "Voices behind Deuteronomy",
+      "authorship_status": "composite-anonymous",
+      "evidence_note": "Mosaic voice, Deuteronomic tradition, and later shaping must remain distinguishable.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-joshua",
+      "kind": "book-authorial-identity",
+      "book": "Joshua",
+      "subject_label": "Voices behind Joshua",
+      "authorship_status": "anonymous-edited",
+      "evidence_note": "Anonymous narrative associated with Deuteronomistic literary shaping.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-judges",
+      "kind": "book-authorial-identity",
+      "book": "Judges",
+      "subject_label": "Voices behind Judges",
+      "authorship_status": "anonymous-edited",
+      "evidence_note": "Anonymous collection and shaping of older traditions; no single author portrait.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-ruth",
+      "kind": "book-authorial-identity",
+      "book": "Ruth",
+      "subject_label": "Voices behind Ruth",
+      "authorship_status": "anonymous",
+      "evidence_note": "The narrator is anonymous; neither Ruth nor Samuel should be portrayed as the certain author.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-1-samuel",
+      "kind": "book-authorial-identity",
+      "book": "1 Samuel",
+      "subject_label": "Voices behind 1 Samuel",
+      "authorship_status": "anonymous-edited",
+      "evidence_note": "Anonymous historical narrative containing multiple traditions; Samuel is not author of the entire book.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-2-samuel",
+      "kind": "book-authorial-identity",
+      "book": "2 Samuel",
+      "subject_label": "Voices behind 2 Samuel",
+      "authorship_status": "anonymous-edited",
+      "evidence_note": "Anonymous historical narrative containing court and royal traditions.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-1-kings",
+      "kind": "book-authorial-identity",
+      "book": "1 Kings",
+      "subject_label": "Voices behind 1 Kings",
+      "authorship_status": "anonymous-edited",
+      "evidence_note": "Part of a larger Deuteronomistic historical work; no known individual author.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-2-kings",
+      "kind": "book-authorial-identity",
+      "book": "2 Kings",
+      "subject_label": "Voices behind 2 Kings",
+      "authorship_status": "anonymous-edited",
+      "evidence_note": "Part of a larger Deuteronomistic historical work; no known individual author.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-1-chronicles",
+      "kind": "book-authorial-identity",
+      "book": "1 Chronicles",
+      "subject_label": "Voices behind 1 Chronicles",
+      "authorship_status": "anonymous-edited",
+      "evidence_note": "Usually associated with an anonymous Chronicler or school using earlier sources.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-2-chronicles",
+      "kind": "book-authorial-identity",
+      "book": "2 Chronicles",
+      "subject_label": "Voices behind 2 Chronicles",
+      "authorship_status": "anonymous-edited",
+      "evidence_note": "Usually associated with an anonymous Chronicler or school using earlier sources.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-ezra",
+      "kind": "book-authorial-identity",
+      "book": "Ezra",
+      "subject_label": "Voices behind Ezra",
+      "authorship_status": "composite-anonymous",
+      "evidence_note": "Narrative, lists, Aramaic documents, and Ezra material are combined; final authorship is composite.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-nehemiah",
+      "kind": "book-authorial-identity",
+      "book": "Nehemiah",
+      "subject_label": "Voices behind Nehemiah",
+      "authorship_status": "composite-anonymous",
+      "evidence_note": "Nehemiah memoir material is embedded in a shaped work; Nehemiah is not simply the final author.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-esther",
+      "kind": "book-authorial-identity",
+      "book": "Esther",
+      "subject_label": "Voices behind Esther",
+      "authorship_status": "anonymous",
+      "evidence_note": "Anonymous Jewish diaspora narrative; Mordecai is not treated as certain author.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-job",
+      "kind": "book-authorial-identity",
+      "book": "Job",
+      "subject_label": "Voices behind Job",
+      "authorship_status": "composite-anonymous",
+      "evidence_note": "Anonymous wisdom work with prose frame and poetic dialogues; no recoverable author face.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-psalms",
+      "kind": "book-authorial-identity",
+      "book": "Psalms",
+      "subject_label": "Voices behind Psalms",
+      "authorship_status": "anthology",
+      "evidence_note": "A multi-period anthology naming David, Asaph, Korahites, Moses, Solomon, and others; many psalms remain anonymous.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-proverbs",
+      "kind": "book-authorial-identity",
+      "book": "Proverbs",
+      "subject_label": "Voices behind Proverbs",
+      "authorship_status": "anthology",
+      "evidence_note": "An anthology linked with Solomon, the wise, Hezekiah's scribes, Agur, and Lemuel.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-ecclesiastes",
+      "kind": "book-authorial-identity",
+      "book": "Ecclesiastes",
+      "subject_label": "Voices behind Ecclesiastes",
+      "authorship_status": "persona-anonymous",
+      "evidence_note": "Qoheleth is the book's speaking persona; equation with the historical Solomon is traditional, not certain.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-song-of-songs",
+      "kind": "book-authorial-identity",
+      "book": "Song of Songs",
+      "subject_label": "Voices behind Song of Songs",
+      "authorship_status": "anthology-or-anonymous",
+      "evidence_note": "The title links the work with Solomon, while composition and voice are debated.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-isaiah",
+      "kind": "book-authorial-identity",
+      "book": "Isaiah",
+      "subject_label": "Voices behind Isaiah",
+      "authorship_status": "layered-prophetic",
+      "evidence_note": "Isaiah ben Amoz anchors chapters 1–39; major scholarship distinguishes later exilic and postexilic voices and shaping.",
+      "visual_strategy": "authorship-aware-multi-voice-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145",
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-book-of-isaiah/formation-of-the-book-of-isaiah/D02324B83F2BF701A9035AB757B3C31F"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-jeremiah",
+      "kind": "book-authorial-identity",
+      "book": "Jeremiah",
+      "subject_label": "Voices behind Jeremiah",
+      "authorship_status": "layered-prophetic",
+      "evidence_note": "Jeremiah traditions, Baruch traditions, prose narratives, poetry, and editorial shaping form a complex book.",
+      "visual_strategy": "authorship-aware-multi-voice-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-lamentations",
+      "kind": "book-authorial-identity",
+      "book": "Lamentations",
+      "subject_label": "Voices behind Lamentations",
+      "authorship_status": "anonymous",
+      "evidence_note": "The poems are anonymous; attribution to Jeremiah is traditional and should not be visualized as certain.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-ezekiel",
+      "kind": "book-authorial-identity",
+      "book": "Ezekiel",
+      "subject_label": "Voices behind Ezekiel",
+      "authorship_status": "prophetic-tradition-edited",
+      "evidence_note": "The book is anchored in Ezekiel's prophetic persona and activity while showing literary development.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-daniel",
+      "kind": "book-authorial-identity",
+      "book": "Daniel",
+      "subject_label": "Voices behind Daniel",
+      "authorship_status": "composite-pseudonymous",
+      "evidence_note": "Court tales and visions reached final form in the Hellenistic period; the ancient Daniel persona is not a certain author portrait.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-hosea",
+      "kind": "book-authorial-identity",
+      "book": "Hosea",
+      "subject_label": "Voices behind Hosea",
+      "authorship_status": "prophetic-tradition-edited",
+      "evidence_note": "Sayings associated with Hosea are preserved and edited; a portrait remains interpretive.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-joel",
+      "kind": "book-authorial-identity",
+      "book": "Joel",
+      "subject_label": "Voices behind Joel",
+      "authorship_status": "unknown-prophet",
+      "evidence_note": "The book names Joel son of Pethuel, but biography and date remain uncertain.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-amos",
+      "kind": "book-authorial-identity",
+      "book": "Amos",
+      "subject_label": "Voices behind Amos",
+      "authorship_status": "prophetic-tradition-edited",
+      "evidence_note": "Traditions are associated with Amos of Tekoa and later shaping; appearance is unknown.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-obadiah",
+      "kind": "book-authorial-identity",
+      "book": "Obadiah",
+      "subject_label": "Voices behind Obadiah",
+      "authorship_status": "unknown-prophet",
+      "evidence_note": "The prophet's identity and date are uncertain; the name cannot support a facial reconstruction.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-jonah",
+      "kind": "book-authorial-identity",
+      "book": "Jonah",
+      "subject_label": "Voices behind Jonah",
+      "authorship_status": "anonymous-about-named-figure",
+      "evidence_note": "An anonymous narrative about Jonah son of Amittai, not an autobiography.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-micah",
+      "kind": "book-authorial-identity",
+      "book": "Micah",
+      "subject_label": "Voices behind Micah",
+      "authorship_status": "prophetic-tradition-edited",
+      "evidence_note": "Traditions are associated with Micah of Moresheth and later editorial shaping.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-nahum",
+      "kind": "book-authorial-identity",
+      "book": "Nahum",
+      "subject_label": "Voices behind Nahum",
+      "authorship_status": "unknown-prophet",
+      "evidence_note": "The book names Nahum the Elkoshite, but biography and Elkosh's location are uncertain.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-habakkuk",
+      "kind": "book-authorial-identity",
+      "book": "Habakkuk",
+      "subject_label": "Voices behind Habakkuk",
+      "authorship_status": "unknown-prophet",
+      "evidence_note": "The book names Habakkuk, but almost no recoverable biography supports portrait specificity.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-zephaniah",
+      "kind": "book-authorial-identity",
+      "book": "Zephaniah",
+      "subject_label": "Voices behind Zephaniah",
+      "authorship_status": "named-prophet",
+      "evidence_note": "The superscription names Zephaniah and a genealogy; appearance remains unknown.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-haggai",
+      "kind": "book-authorial-identity",
+      "book": "Haggai",
+      "subject_label": "Voices behind Haggai",
+      "authorship_status": "named-prophet",
+      "evidence_note": "Dated oracles name Haggai; portrait details remain interpretive.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-zechariah",
+      "kind": "book-authorial-identity",
+      "book": "Zechariah",
+      "subject_label": "Voices behind Zechariah",
+      "authorship_status": "layered-prophetic",
+      "evidence_note": "Chapters 1–8 are associated with Zechariah son of Berechiah; chapters 9–14 are widely treated as later material.",
+      "visual_strategy": "authorship-aware-multi-voice-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-malachi",
+      "kind": "book-authorial-identity",
+      "book": "Malachi",
+      "subject_label": "Voices behind Malachi",
+      "authorship_status": "name-or-title-uncertain",
+      "evidence_note": "Malachi may function as a name or as 'my messenger'; no certain biography or face exists.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-matthew",
+      "kind": "book-authorial-identity",
+      "book": "Matthew",
+      "subject_label": "Voices behind Matthew",
+      "authorship_status": "anonymous-traditional-attribution",
+      "evidence_note": "The Gospel does not name its author; attribution to Matthew is early tradition, not a facial identification.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-mark",
+      "kind": "book-authorial-identity",
+      "book": "Mark",
+      "subject_label": "Voices behind Mark",
+      "authorship_status": "anonymous-traditional-attribution",
+      "evidence_note": "The Gospel does not name its author; attribution to Mark is early tradition.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-luke",
+      "kind": "book-authorial-identity",
+      "book": "Luke",
+      "subject_label": "Voices behind Luke",
+      "authorship_status": "anonymous-traditional-attribution",
+      "evidence_note": "The Gospel and Acts share an anonymous author; attribution to Luke is traditional.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-john",
+      "kind": "book-authorial-identity",
+      "book": "John",
+      "subject_label": "Voices behind John",
+      "authorship_status": "anonymous-johannine",
+      "evidence_note": "The Gospel's beloved disciple, witnesses, narrator, and final author/editor should not be collapsed into one certain face.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-acts",
+      "kind": "book-authorial-identity",
+      "book": "Acts",
+      "subject_label": "Voices behind Acts",
+      "authorship_status": "anonymous-traditional-attribution",
+      "evidence_note": "Acts shares an anonymous author with Luke; attribution to Luke is traditional.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-romans",
+      "kind": "book-authorial-identity",
+      "book": "Romans",
+      "subject_label": "Voices behind Romans",
+      "authorship_status": "named-undisputed",
+      "evidence_note": "Paul is the letter's author; Tertius identifies himself as the person who wrote the physical letter in Romans 16:22.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-1-corinthians",
+      "kind": "book-authorial-identity",
+      "book": "1 Corinthians",
+      "subject_label": "Voices behind 1 Corinthians",
+      "authorship_status": "named-undisputed",
+      "evidence_note": "The letter names Paul and Sosthenes; Pauline authorship is widely accepted.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-2-corinthians",
+      "kind": "book-authorial-identity",
+      "book": "2 Corinthians",
+      "subject_label": "Voices behind 2 Corinthians",
+      "authorship_status": "named-undisputed-composite-letter-debate",
+      "evidence_note": "Pauline authorship is widely accepted; many scholars debate whether the canonical letter combines multiple letters.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-galatians",
+      "kind": "book-authorial-identity",
+      "book": "Galatians",
+      "subject_label": "Voices behind Galatians",
+      "authorship_status": "named-undisputed",
+      "evidence_note": "Pauline authorship is widely accepted.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-ephesians",
+      "kind": "book-authorial-identity",
+      "book": "Ephesians",
+      "subject_label": "Voices behind Ephesians",
+      "authorship_status": "disputed-pauline",
+      "evidence_note": "The letter presents itself as Pauline; modern scholarship is divided over direct Pauline authorship.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-philippians",
+      "kind": "book-authorial-identity",
+      "book": "Philippians",
+      "subject_label": "Voices behind Philippians",
+      "authorship_status": "named-undisputed-letter-composition-debate",
+      "evidence_note": "Pauline authorship is widely accepted; some scholars debate whether multiple letters were combined.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-colossians",
+      "kind": "book-authorial-identity",
+      "book": "Colossians",
+      "subject_label": "Voices behind Colossians",
+      "authorship_status": "disputed-pauline",
+      "evidence_note": "The letter presents itself as Pauline; modern scholarship is divided over direct Pauline authorship.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-1-thessalonians",
+      "kind": "book-authorial-identity",
+      "book": "1 Thessalonians",
+      "subject_label": "Voices behind 1 Thessalonians",
+      "authorship_status": "named-undisputed",
+      "evidence_note": "The letter names Paul, Silvanus, and Timothy; Pauline authorship is widely accepted.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-2-thessalonians",
+      "kind": "book-authorial-identity",
+      "book": "2 Thessalonians",
+      "subject_label": "Voices behind 2 Thessalonians",
+      "authorship_status": "disputed-pauline",
+      "evidence_note": "The letter presents itself as Pauline; modern scholarship is divided over direct Pauline authorship.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-1-timothy",
+      "kind": "book-authorial-identity",
+      "book": "1 Timothy",
+      "subject_label": "Voices behind 1 Timothy",
+      "authorship_status": "disputed-pauline",
+      "evidence_note": "The letter presents itself as Pauline; much modern scholarship treats the Pastoral Letters as later.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-2-timothy",
+      "kind": "book-authorial-identity",
+      "book": "2 Timothy",
+      "subject_label": "Voices behind 2 Timothy",
+      "authorship_status": "disputed-pauline",
+      "evidence_note": "The letter presents itself as Pauline; much modern scholarship treats the Pastoral Letters as later.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-titus",
+      "kind": "book-authorial-identity",
+      "book": "Titus",
+      "subject_label": "Voices behind Titus",
+      "authorship_status": "disputed-pauline",
+      "evidence_note": "The letter presents itself as Pauline; much modern scholarship treats the Pastoral Letters as later.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-philemon",
+      "kind": "book-authorial-identity",
+      "book": "Philemon",
+      "subject_label": "Voices behind Philemon",
+      "authorship_status": "named-undisputed",
+      "evidence_note": "Pauline authorship is widely accepted; Timothy is also named in the greeting.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-hebrews",
+      "kind": "book-authorial-identity",
+      "book": "Hebrews",
+      "subject_label": "Voices behind Hebrews",
+      "authorship_status": "anonymous",
+      "evidence_note": "The work does not name its author; attribution to Paul is a later tradition and should not control the image.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-james",
+      "kind": "book-authorial-identity",
+      "book": "James",
+      "subject_label": "Voices behind James",
+      "authorship_status": "attributed-identity-debated",
+      "evidence_note": "The writer names James, a servant of God and Jesus; which James and the composition history remain debated.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-1-peter",
+      "kind": "book-authorial-identity",
+      "book": "1 Peter",
+      "subject_label": "Voices behind 1 Peter",
+      "authorship_status": "attributed-authorship-debated",
+      "evidence_note": "The letter names Peter; direct Petrine authorship and the role of Silvanus remain debated.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-2-peter",
+      "kind": "book-authorial-identity",
+      "book": "2 Peter",
+      "subject_label": "Voices behind 2 Peter",
+      "authorship_status": "pseudonymous-majority-view",
+      "evidence_note": "The letter speaks as Peter; most critical scholarship regards it as written after Peter's lifetime.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-1-john",
+      "kind": "book-authorial-identity",
+      "book": "1 John",
+      "subject_label": "Voices behind 1 John",
+      "authorship_status": "anonymous-johannine",
+      "evidence_note": "The work is anonymous and belongs to Johannine tradition; it should not receive an apostle headshot as certainty.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-2-john",
+      "kind": "book-authorial-identity",
+      "book": "2 John",
+      "subject_label": "Voices behind 2 John",
+      "authorship_status": "elder-anonymous",
+      "evidence_note": "The sender identifies as 'the elder'; equation with a specific John is debated.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-3-john",
+      "kind": "book-authorial-identity",
+      "book": "3 John",
+      "subject_label": "Voices behind 3 John",
+      "authorship_status": "elder-anonymous",
+      "evidence_note": "The sender identifies as 'the elder'; equation with a specific John is debated.",
+      "visual_strategy": "anonymous-or-composite-scribal-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-jude",
+      "kind": "book-authorial-identity",
+      "book": "Jude",
+      "subject_label": "Voices behind Jude",
+      "authorship_status": "attributed-identity-debated",
+      "evidence_note": "The writer names Jude, brother of James; identity and composition remain debated.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-book-revelation",
+      "kind": "book-authorial-identity",
+      "book": "Revelation",
+      "subject_label": "Voices behind Revelation",
+      "authorship_status": "named-john-identity-debated",
+      "evidence_note": "The seer calls himself John and writes from Patmos; he is not automatically John the apostle or Gospel author.",
+      "visual_strategy": "attribution-and-debate-editorial",
+      "beauty_claim": "not-applicable",
+      "racial_accuracy": "Use historically plausible West Asian, North African, eastern Mediterranean, or relevant imperial-period appearance; never default to modern northern European whiteness.",
+      "portrait_limit": "Any face, clothing, room, landscape, and writing material are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-abraham",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "Abraham",
+      "primary_texts": "Genesis 11:26–25:11",
+      "authorship_status": "not-applicable",
+      "evidence_note": "West Asian pastoral household world; exact date, clothing, and face are unknown.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-sarah",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "Sarah",
+      "primary_texts": "Genesis 11:29–23:20",
+      "authorship_status": "not-applicable",
+      "evidence_note": "West Asian matriarch; Genesis 12:11 describes her as beautiful, but exact appearance is unknown.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "textually-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-moses",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "Moses",
+      "primary_texts": "Exodus–Deuteronomy",
+      "authorship_status": "not-applicable",
+      "evidence_note": "Ancient Egyptian and Levantine setting; Moses' exact date, face, and dress are unrecoverable.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-ruth",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "Ruth",
+      "primary_texts": "Ruth",
+      "authorship_status": "not-applicable",
+      "evidence_note": "Moabite woman in an Iron Age narrative world; ethnicity should be West Asian, not northern European.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-david",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "David",
+      "primary_texts": "1 Samuel 16–1 Kings 2",
+      "authorship_status": "not-applicable",
+      "evidence_note": "Ancient Judahite king; 1 Samuel 16:12 describes striking eyes and good appearance, without supporting a modern heroic ideal.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "textually-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-mary-of-nazareth",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "Mary of Nazareth",
+      "primary_texts": "Matthew 1–2; Luke 1–2; selected Gospel scenes",
+      "authorship_status": "not-applicable",
+      "evidence_note": "Jewish woman from Roman-period Galilee; no textual beauty claim or recoverable face.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-mary-magdalene",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "Mary Magdalene",
+      "primary_texts": "Luke 8:1–3; Gospel passion and resurrection narratives",
+      "authorship_status": "not-applicable",
+      "evidence_note": "Jewish woman associated with Magdala; no textual beauty claim or recoverable face.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-simon-peter",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "Simon Peter",
+      "primary_texts": "The Gospels; Acts; Galatians",
+      "authorship_status": "not-applicable",
+      "evidence_note": "Jewish Galilean fisherman and apostolic leader; no recoverable face or textual beauty claim.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-paul",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "Paul",
+      "primary_texts": "Acts; undisputed Pauline letters",
+      "authorship_status": "not-applicable",
+      "evidence_note": "Jewish man from Tarsus active across the Roman Mediterranean; later portrait traditions are not facial evidence.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    },
+    {
+      "id": "profile-person-jesus",
+      "kind": "named-biblical-person",
+      "book": null,
+      "subject_label": "Jesus of Nazareth",
+      "primary_texts": "The four Gospels",
+      "authorship_status": "not-applicable",
+      "evidence_note": "Jewish man from Roman-period Galilee; ordinary, weathered, non-European, and not idealized. Exact face and clothing are unknown; the Shroud of Turin is excluded as facial evidence.",
+      "visual_strategy": "interpretive-named-figure-portrait",
+      "beauty_claim": "not-described",
+      "racial_accuracy": "Use historically plausible West Asian, North African, or eastern Mediterranean appearance as appropriate; never default to modern northern European whiteness.",
+      "portrait_limit": "The face, skin tone within a plausible regional range, hair, clothing, and background are illustrative rather than reconstructed.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required"
+    }
+  ]
+}

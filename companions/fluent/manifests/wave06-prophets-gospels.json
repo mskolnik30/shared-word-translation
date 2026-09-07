@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "resource": "fluent-companion",
+  "batch": "wave06-prophets-gospels",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "publication_status": "unpublished",
+  "template_version": "1.0",
+  "books": [
+    {"book": "Zephaniah", "introduction": "companions/fluent/books/zephaniah/introduction.md", "chapters": ["companions/fluent/chapters/zephaniah/01.md"]},
+    {"book": "Haggai", "introduction": "companions/fluent/books/haggai/introduction.md", "chapters": ["companions/fluent/chapters/haggai/02.md"]},
+    {"book": "Zechariah", "introduction": "companions/fluent/books/zechariah/introduction.md", "chapters": ["companions/fluent/chapters/zechariah/12.md"]},
+    {"book": "Malachi", "introduction": "companions/fluent/books/malachi/introduction.md", "chapters": ["companions/fluent/chapters/malachi/02.md"]},
+    {"book": "Matthew", "introduction": "companions/fluent/books/matthew/introduction.md", "chapters": ["companions/fluent/chapters/matthew/16.md"]},
+    {"book": "Luke", "introduction": "companions/fluent/books/luke/introduction.md", "chapters": ["companions/fluent/chapters/luke/10.md"]},
+    {"book": "John", "introduction": "companions/fluent/books/john/introduction.md", "chapters": ["companions/fluent/chapters/john/07.md"]},
+    {"book": "Acts", "introduction": "companions/fluent/books/acts/introduction.md", "chapters": ["companions/fluent/chapters/acts/05.md"]},
+    {"book": "1 Corinthians", "introduction": "companions/fluent/books/1-corinthians/introduction.md", "chapters": ["companions/fluent/chapters/1-corinthians/14.md"]},
+    {"book": "2 Corinthians", "introduction": "companions/fluent/books/2-corinthians/introduction.md", "chapters": ["companions/fluent/chapters/2-corinthians/05.md"]}
+  ],
+  "human_review": "companions/fluent/reviews/wave06-prophets-gospels-review.md"
+}

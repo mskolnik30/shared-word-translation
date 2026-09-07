@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "resource": "fluent-companion",
+  "batch": "philippians-pilot",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "publication_status": "unpublished",
+  "template_version": "1.0",
+  "books": [
+    {
+      "book": "Philippians",
+      "introduction": "companions/fluent/books/philippians/introduction.md",
+      "chapters": [
+        "companions/fluent/chapters/philippians/01.md",
+        "companions/fluent/chapters/philippians/02.md",
+        "companions/fluent/chapters/philippians/03.md",
+        "companions/fluent/chapters/philippians/04.md"
+      ]
+    }
+  ],
+  "human_review": "companions/fluent/reviews/philippians-pilot-review.md"
+}

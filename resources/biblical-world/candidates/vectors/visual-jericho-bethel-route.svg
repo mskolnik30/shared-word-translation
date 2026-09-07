@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Jericho, Bethel, and Ai</title>
+  <desc id="desc">Jericho, Bethel, and Ai. Geographic orientation map with land, water, coastlines, rivers, and these places: Jericho / Tell es-Sultan, known location; Bethel (common identification), probable location; Ai / et-Tell proposal, location debated. No route is drawn because scholars still debate the locations of Bethel and Ai and the course of the campaign.</desc>
+  <rect width="1200" height="800" fill="#F7F2E8"/>
+  <style>text { font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }</style>
+  <rect x="40" y="36" width="1120" height="728" rx="30" fill="#FFFDFC"/>
+<text x="80" y="78" font-size="15" font-weight="800" fill="#A6533F" text-anchor="start"><tspan x="80" dy="0">GEOGRAPHIC ORIENTATION</tspan></text>
+<text x="80" y="124" font-size="35" font-weight="760" fill="#19354D" text-anchor="start"><tspan x="80" dy="0">Jericho, Bethel, and Ai</tspan></text>
+<text x="80" y="154" font-size="18" font-weight="400" fill="#5D6B72" text-anchor="start"><tspan x="80" dy="0">Bible passages  Joshua 6–8</tspan></text>
+<defs><clipPath id="physical-map-clip"><rect x="62" y="208" width="744" height="392" rx="18"/></clipPath></defs>
+<g id="physical-map-base" data-source="GSHHG" clip-path="url(#physical-map-clip)">
+<rect x="62" y="208" width="744" height="392" fill="#DDECEE"/>
+<path d="M 62.0 600.0 L 62.0 208.0 L 806.0 208.0 L 806.0 600.0 L 62.0 600.0 Z" fill="#E9DFC9" stroke="none"/>
+<path d="M 621.8 600.0 L 622.1 588.8 L 655.5 551.3 L 775.0 535.8 L 767.1 600.0 L 621.8 600.0 Z" fill="#DDECEE" stroke="none"/>
+<path d="M 708.9 296.2 L 709.8 306.0" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 726.6 208.0 L 733.0 223.8 L 703.4 261.9 L 708.9 296.7" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 709.8 306.0 L 735.0 334.9 L 734.4 368.9 L 710.9 388.8 L 739.5 436.9 L 729.5 482.9 L 750.2 539.6" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 621.8 600.0 L 622.1 588.8 L 655.5 551.3 L 775.0 535.8 L 767.1 600.0" fill="none" stroke="#19354D" stroke-width="2.2" stroke-linejoin="round"/>
+</g>
+<rect x="62" y="208" width="744" height="392" rx="18" fill="none" stroke="#19354D" stroke-width="2.5"/>
+<text x="82" y="243" font-size="18" font-weight="800" fill="#19354D" text-anchor="start"><tspan x="82" dy="0">N</tspan></text>
+<path d="M 88 255 L 88 290 M 80 265 L 88 255 L 96 265" stroke="#19354D" stroke-width="3.5" fill="none"/>
+<path d="M 84 576 L 215.2 576" stroke="#19354D" stroke-width="5"/>
+<path d="M 84 571 L 84 581 M 215.2 571 L 215.2 581" stroke="#19354D" stroke-width="2"/>
+<text x="149" y="566" font-size="14" font-weight="700" fill="#19354D" text-anchor="middle"><tspan x="149" dy="0">10 km</tspan></text>
+<circle cx="612.6" cy="432.4" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="612" y="438" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="612" dy="0">1</tspan></text>
+<circle cx="852" cy="237" r="14" fill="#A6533F"/>
+<text x="852" y="242" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">1</tspan></text>
+<text x="881" y="236" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Jericho / Tell es-Sultan</tspan></text>
+<text x="881" y="259" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">known location</tspan></text>
+<circle cx="337.3" cy="366.8" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="337" y="372" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="337" dy="0">2</tspan></text>
+<circle cx="852" cy="315" r="14" fill="#A6533F"/>
+<text x="852" y="320" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">2</tspan></text>
+<text x="881" y="314" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Bethel (common</tspan><tspan x="881" dy="23">identification)</tspan></text>
+<text x="881" y="360" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">probable location</tspan></text>
+<circle cx="385.6" cy="387.3" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="385" y="393" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="385" dy="0">3</tspan></text>
+<circle cx="852" cy="393" r="14" fill="#A6533F"/>
+<text x="852" y="398" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">3</tspan></text>
+<text x="881" y="392" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Ai / et-Tell proposal</tspan></text>
+<text x="881" y="415" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">location debated</tspan></text>
+<text x="80" y="632" font-size="14" font-weight="800" fill="#2B7773" text-anchor="start"><tspan x="80" dy="0">WHAT THIS MAP SHOWS</tspan></text>
+<text x="80" y="662" font-size="17" font-weight="400" fill="#26333B" text-anchor="start"><tspan x="80" dy="0">No route is drawn because scholars still debate the locations of Bethel and Ai and the course of the</tspan><tspan x="80" dy="22">campaign.</tspan></text>
+<text x="80" y="739" font-size="13" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="80" dy="0">Modern coastlines and rivers are shown for orientation; no unrecorded route or ancient border is claimed.</tspan></text>
+</svg>

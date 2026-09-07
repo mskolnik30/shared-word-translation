@@ -1,0 +1,33 @@
+name: Validate Fluent Companion
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Audit Fluent Companion candidates
+        run: python3 tools/audit_fluent_companion.py
+      - name: Audit complete-corpus coverage
+        run: python3 tools/audit_fluent_companion_coverage.py
+      - name: Audit Biblical World visual plan
+        run: python3 tools/audit_biblical_world_visual_plan.py
+      - name: Audit Biblical World vector candidates
+        run: python3 tools/audit_biblical_world_vector_candidates.py
+      - name: Audit Biblical profile plan
+        run: python3 tools/audit_biblical_profile_plan.py
+      - name: Audit Biblical profile candidates
+        run: python3 tools/audit_biblical_profile_candidates.py

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "resource": "fluent-companion",
+  "batch": "wave01",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "publication_status": "unpublished",
+  "template_version": "1.0",
+  "books": [
+    {"book": "Jonah", "introduction": "companions/fluent/books/jonah/introduction.md", "chapters": ["companions/fluent/chapters/jonah/01.md", "companions/fluent/chapters/jonah/02.md", "companions/fluent/chapters/jonah/03.md", "companions/fluent/chapters/jonah/04.md"]},
+    {"book": "Ruth", "introduction": "companions/fluent/books/ruth/introduction.md", "chapters": ["companions/fluent/chapters/ruth/01.md", "companions/fluent/chapters/ruth/02.md", "companions/fluent/chapters/ruth/03.md", "companions/fluent/chapters/ruth/04.md"]},
+    {"book": "James", "introduction": "companions/fluent/books/james/introduction.md", "chapters": ["companions/fluent/chapters/james/01.md", "companions/fluent/chapters/james/02.md", "companions/fluent/chapters/james/03.md", "companions/fluent/chapters/james/04.md", "companions/fluent/chapters/james/05.md"]},
+    {"book": "1 John", "introduction": "companions/fluent/books/1-john/introduction.md", "chapters": ["companions/fluent/chapters/1-john/01.md", "companions/fluent/chapters/1-john/02.md", "companions/fluent/chapters/1-john/03.md", "companions/fluent/chapters/1-john/04.md", "companions/fluent/chapters/1-john/05.md"]}
+  ],
+  "human_review": "companions/fluent/reviews/wave01-review.md"
+}
+

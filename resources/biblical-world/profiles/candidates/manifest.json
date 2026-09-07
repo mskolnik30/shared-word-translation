@@ -1,0 +1,446 @@
+{
+  "schema_version": 1,
+  "manifest_id": "biblical-profile-raster-candidates-2026-09-07",
+  "candidate_count": 14,
+  "covered_plan_entry_count": 17,
+  "scope": "High-risk pilot candidates for the larger 76-image profile plan",
+  "global_disclosure": "Every image is an AI-generated interpretive orientation candidate. None is a facial reconstruction, archaeological photograph, or evidence for an individual's exact appearance.",
+  "publication_status": "blocked",
+  "human_scholarly_review": "required",
+  "human_visual_review": "required",
+  "rights_review": "required",
+  "entries": [
+    {
+      "id": "profile-candidate-person-jesus-v1",
+      "file": "profile-person-jesus-v1.png",
+      "plan_entry_ids": [
+        "profile-person-jesus"
+      ],
+      "subject": "Jesus of Nazareth",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "first-century Roman Galilee",
+      "prompt": "Square 1:1 sober archaeological-museum interpretive portrait representing Jesus only as an ordinary first-century Jewish man from Roman Galilee; explicitly not a facial reconstruction, icon, Shroud-derived face, or idealized sacred image. Three-quarter side view rather than a direct heroic gaze. Clearly West Asian and non-white, sun-darkened medium-brown olive complexion, dark eyes, compact irregular face, noticeably asymmetrical broad nose, slightly uneven teeth barely visible behind relaxed lips, tired under-eyes, sun damage and small skin marks, short coarse tightly wavy dark hair cut unevenly, patchy practical beard. Lean working-person neck and shoulders in a plain rough undyed tunic. Expression attentive but unposed. Flat diffuse daylight and neutral rough plaster wall. Deliberately ordinary and historically plausible, not beautiful, handsome, sculpted, regal, serene, glowing, muscular, youthful-model-like, cinematic, European, long-haired, haloed, crowned, robed in white, or accompanied by text.",
+      "alt_text": "Interpretive portrait of an ordinary, weathered West Asian Jewish man in a rough undyed tunic, representing Jesus without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction. Jesus's exact appearance is unknown; the Shroud of Turin was not used as facial evidence.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "red_team_notes": [
+        "Deliberately rejects European, glamorous, heroic, haloed, and Shroud-derived conventions.",
+        "A plausible regional appearance is not proof of an individual face."
+      ],
+      "sha256": "c44a07760d828d96c9a017e73e917845893a23cf0e669297a3661dfda7ddfc03",
+      "bytes": 2582984,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-person-abraham-v1",
+      "file": "profile-person-abraham-v1.png",
+      "plan_entry_ids": [
+        "profile-person-abraham"
+      ],
+      "subject": "Abraham",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "Middle Bronze Age Levant and Upper Mesopotamian cultural horizon",
+      "prompt": "Square 1:1 sober museum-quality interpretive portrait, explicitly not a facial reconstruction. Abraham as an older pastoralist of the Middle Bronze Age Levant and Upper Mesopotamian cultural horizon. Clearly West Asian and non-white, sun-darkened brown olive skin, dark deep-set eyes, weathered lined ordinary face, graying tightly wavy hair and irregular beard, lean from long travel. Plain handwoven wool tunic and mantle in undyed earth colors, no keffiyeh, turban, crown, jewelry, weapons, camels, European features, glamour, heroic physique, halo, cinematic light, text, or claim of exact likeness. Simple tent-cloth and dry upland background kept soft and unobtrusive, diffuse daylight, restrained archaeological documentary realism.",
+      "alt_text": "Interpretive portrait of an older, weathered West Asian pastoralist in plain woven clothing, representing Abraham without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction. The setting and clothing are plausible visual cues, not recoverable biography.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "red_team_notes": [
+        "Avoids modern Arab costume shorthand and individual-likeness claims."
+      ],
+      "sha256": "4da4454591bfb44a9fa634625ed77d8b2c7866ad6ce1dcbec99c1fabc49dd5e2",
+      "bytes": 2612147,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-person-sarah-v1",
+      "file": "profile-person-sarah-v1.png",
+      "plan_entry_ids": [
+        "profile-person-sarah"
+      ],
+      "subject": "Sarah",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "Middle Bronze Age Levant",
+      "prompt": "Square 1:1 sober museum-quality interpretive portrait, explicitly not a facial reconstruction. Sarah as an older West Asian pastoralist woman of the Middle Bronze Age Levant, clearly non-white, warm medium-brown olive skin, dark eyes, textured graying dark hair partly covered by a plain woven mantle. Genesis describes her as beautiful, but portray mature dignity and presence rather than modern glamour: age lines, sun exposure, natural asymmetry, no cosmetics, no sexualization, no youth erasure. Historically plausible undyed wool or linen clothing, no crown, jewels, European features, halo, cinematic glow, text, or claim of exact likeness. Soft tent-cloth and earthen background, diffuse natural light, museum documentary realism.",
+      "alt_text": "Interpretive portrait of an older West Asian pastoralist woman with age lines and plain woven clothing, representing Sarah without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction. The image retains the text's beauty description without erasing age or adopting modern glamour conventions.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145",
+        "Genesis 12:11-14; 20:2"
+      ],
+      "red_team_notes": [
+        "Textual beauty claim retained; modern cosmetic idealization rejected."
+      ],
+      "sha256": "b0cf17b81f65d4c1afe2855fd6099421e7a017f45372d3feeebacc6ec26bf42f",
+      "bytes": 2474071,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-person-moses-v1",
+      "file": "profile-person-moses-v1.png",
+      "plan_entry_ids": [
+        "profile-person-moses"
+      ],
+      "subject": "Moses",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "Late Bronze Age eastern Nile Delta and Sinai cultural horizon",
+      "prompt": "Square 1:1 sober museum-quality interpretive portrait, explicitly not a facial reconstruction. Moses as an elderly Levantine man shaped by the eastern Nile Delta and Sinai world of the Late Bronze Age. Clearly non-white, brown olive skin, dark eyes, weathered deeply lined face, prominent but ordinary West Asian features, thinning gray-black tightly wavy hair, irregular gray beard, lean from travel. Plain practical undyed woven mantle and tunic, no horns, no royal headdress, no tablets, no staff, no halo, no European features, no glamour, no superhero physique, no cinematic prophet pose, no text. Neutral desert-stone background, soft flat daylight, archaeological-museum realism, natural asymmetry and age, dignified without beautification.",
+      "alt_text": "Interpretive portrait of an elderly, weathered, brown-skinned Levantine man in plain clothing, representing Moses without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction. It avoids later European iconographic conventions and does not claim a recoverable face.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "red_team_notes": [
+        "No horns, royal Egyptian costume, European features, or heroic physique."
+      ],
+      "sha256": "1f0a5d0745483b98df192f3c51fe600cbec33764253f048f5bff1e05f34895b9",
+      "bytes": 2628432,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-person-ruth-v1",
+      "file": "profile-person-ruth-v1.png",
+      "plan_entry_ids": [
+        "profile-person-ruth"
+      ],
+      "subject": "Ruth",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "early Iron Age southern Levant",
+      "prompt": "Square 1:1 sober museum-quality interpretive portrait, not a facial reconstruction and not a devotional icon. Ruth, a Moabite woman in the early Iron Age southern Levant, young adult but visibly accustomed to field labor and migration. Clearly West Asian / Levantine and non-white, medium-brown olive skin, dark eyes, dark coarse wavy hair mostly covered with a simple practical woven head cloth. Strong ordinary face with natural asymmetry, sun exposure, dust and fatigue; dignified but not glamorous, not cosmetically perfected, not sexualized. Plain handwoven undyed wool or linen clothing appropriate to a poor gleaner; no jewelry, crown, embroidery, modern makeup, European features, fantasy costume, halo, text, or props that imply certainty. Neutral earthen plaster background, diffuse natural daylight, restrained documentary realism, historically plausible textures, shoulders and head visible.",
+      "alt_text": "Interpretive portrait of a sun-exposed West Asian woman in plain work clothing, representing Ruth without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction. Moabite identity is not reduced to a modern racial category or costume stereotype.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145",
+        "Ruth 1-4"
+      ],
+      "red_team_notes": [
+        "Avoids romanticizing poverty, migration, or Ruth's vulnerability."
+      ],
+      "sha256": "f928692af42e91752895ebc81a7d19da32432f94148e912c65d72928e6fff717",
+      "bytes": 2530155,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-person-david-v1",
+      "file": "profile-person-david-v1.png",
+      "plan_entry_ids": [
+        "profile-person-david"
+      ],
+      "subject": "David",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "early Iron Age Judah",
+      "prompt": "Square 1:1 sober museum-quality interpretive portrait, explicitly not a facial reconstruction. David as a young adult highland Judean man in the early Iron Age, clearly West Asian and non-white, medium-brown olive skin, dark eyes, dark coarse curly hair, lightly bearded, compact athletic build from pastoral and military work but not muscular or superheroic. The biblical text describes him as attractive: show lively presence and healthy coloring without polished glamour, modern grooming, cosmetics, sexualization, or European features. Plain practical wool tunic and rough mantle; no crown, harp, armor, halo, glowing light, text, or royal fantasy costume. Neutral limestone-and-plaster background, diffuse daylight, restrained historical documentary realism.",
+      "alt_text": "Interpretive portrait of a young West Asian Judean man in plain woven clothing, representing David without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction. It acknowledges the text's attractiveness language without turning David into a modern action hero.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145",
+        "1 Samuel 16:12,18; 17:42"
+      ],
+      "red_team_notes": [
+        "Textual appearance language retained; royal, heroic, and cinematic conventions rejected."
+      ],
+      "sha256": "43c4d65df491938f9fcccc07f9abb3263c42996c2e9bbd3127c0058367b35376",
+      "bytes": 2652906,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-person-mary-nazareth-v1",
+      "file": "profile-person-mary-nazareth-v1.png",
+      "plan_entry_ids": [
+        "profile-person-mary-of-nazareth"
+      ],
+      "subject": "Mary of Nazareth",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "first-century Roman Galilee",
+      "prompt": "Square 1:1 sober museum-quality interpretive portrait, not a facial reconstruction and not a devotional icon. Mary of Nazareth as a Jewish woman from Roman-period Galilee, late adolescent or young adult, clearly West Asian and non-white, medium-brown olive complexion, dark eyes, dark textured hair mostly covered by a simple undyed woven veil. Ordinary rural face with natural asymmetry, sun-exposed skin, serious attentive expression; modest and dignified but not glamorous or cosmetically idealized. Plain low-status wool or linen dress and mantle; no blue-and-white Marian costume, crown, halo, jewelry, makeup, European features, luminous glow, text, or palace setting. Neutral lime-plaster domestic wall, soft natural daylight, restrained documentary realism.",
+      "alt_text": "Interpretive portrait of a young West Asian Jewish woman in plain woven clothing, representing Mary of Nazareth without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction or devotional icon. Later European and royal Marian conventions are excluded.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/",
+        "Luke 1-2"
+      ],
+      "red_team_notes": [
+        "No blue-and-white iconography, crown, halo, glamour, or racial whitening."
+      ],
+      "sha256": "1b48d75cda40ff247539a40f5915f38b83020b16ee3e651f4e2dae40b3d1d626",
+      "bytes": 2469699,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-person-mary-magdalene-v1",
+      "file": "profile-person-mary-magdalene-v1.png",
+      "plan_entry_ids": [
+        "profile-person-mary-magdalene"
+      ],
+      "subject": "Mary Magdalene",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "first-century Roman Galilee",
+      "prompt": "Square 1:1 sober museum-quality interpretive portrait, not a facial reconstruction and not devotional art. Mary Magdalene as a first-century Jewish woman from Galilee, adult, clearly West Asian and non-white, medium-brown olive skin, dark eyes, weathered ordinary face with natural asymmetry, dark textured hair practically covered with a plain woven mantle. Serious resilient expression. Plain low-status wool or linen clothing appropriate to Roman-period Galilee. Do not depict her as a prostitute, sensual penitent, wealthy court woman, European beauty, or cosmetically perfected figure. No red dress, exposed hair as a moral code, jewelry, perfume jar, halo, glow, text, or exact-likeness claim. Neutral stone-plaster background, soft flat daylight, restrained museum documentary realism.",
+      "alt_text": "Interpretive portrait of an adult West Asian Jewish woman in plain clothing, representing Mary Magdalene without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction. It rejects the nonbiblical prostitute stereotype and later sensualized conventions.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/",
+        "Luke 8:1-3; Mark 15:40-16:8; John 20:1-18"
+      ],
+      "red_team_notes": [
+        "No prostitute coding, perfume jar, sensualization, halo, or racial whitening."
+      ],
+      "sha256": "1ae33bfec4fdce741a9e3a6c47e36d1e6a7370a8c9d7af15e75185927efc7cf6",
+      "bytes": 2574497,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-person-peter-v1",
+      "file": "profile-person-peter-v1.png",
+      "plan_entry_ids": [
+        "profile-person-simon-peter"
+      ],
+      "subject": "Peter",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "first-century Roman Galilee",
+      "prompt": "Square 1:1 sober museum-quality interpretive portrait, explicitly not a facial reconstruction. Peter as a first-century Galilean Jewish fisherman, middle-aged, clearly West Asian and non-white, sun-darkened brown olive skin, dark eyes, weathered broad ordinary face, rough dark hair with early gray, uneven short beard, heavy hands and sturdy practical build from labor but not heroic. Plain coarse undyed tunic and mantle, salt-and-sun wear visible. No keys, papal clothing, halo, church backdrop, European features, glamor, superhero physique, cinematic lighting, text, or exact-likeness claim. Soft neutral shoreline-stone background, diffuse natural light, restrained historical documentary realism.",
+      "alt_text": "Interpretive portrait of a weathered West Asian Galilean fisherman in plain work clothing, representing Peter without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction. Later papal symbols and European portrait conventions are excluded.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/",
+        "Mark 1:16-20"
+      ],
+      "red_team_notes": [
+        "No papal keys, church regalia, halo, or heroic fisherman stereotype."
+      ],
+      "sha256": "fd9a38acaf079ae1f8e56f9ff08cd38dd4db91be7d7e19ddd92769f2fa221969",
+      "bytes": 2589707,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-person-paul-v1",
+      "file": "profile-person-paul-v1.png",
+      "plan_entry_ids": [
+        "profile-person-paul"
+      ],
+      "subject": "Paul",
+      "candidate_type": "interpretive named-figure portrait",
+      "period_region": "first-century eastern Mediterranean diaspora Judaism",
+      "prompt": "Square 1:1 sober museum-quality interpretive portrait, explicitly not a facial reconstruction. Paul the apostle as a first-century diaspora Jewish man of the eastern Mediterranean, middle-aged, clearly West Asian / Jewish and non-white, medium-brown olive skin, dark eyes, receding dark curly hair, compact weathered face, irregular nose, close uneven beard, lines from travel and hardship. Lean ordinary body, plain undyed tunic and travel-worn mantle. Intelligent, intense, tired expression without heroic glamour. No sword, book, halo, Roman senator styling, European features, muscular superhero build, cinematic rim light, modern grooming, text, or claim of exact likeness. Neutral workshop plaster background, soft flat daylight, restrained historical documentary realism.",
+      "alt_text": "Interpretive portrait of a middle-aged, weathered West Asian diaspora Jewish man in plain clothing, representing Paul without claiming an exact likeness.",
+      "caption": "Interpretive orientation image only—not a facial reconstruction. Traditional sword, halo, and European apostle conventions are excluded.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/",
+        "Acts 9-28; 2 Corinthians 11:23-29"
+      ],
+      "red_team_notes": [
+        "No sword, codex, senatorial dress, halo, European features, or heroic body."
+      ],
+      "sha256": "722b1d9341e07ced332783c14d0429bbeb2eeba793e422cb01d8946b413c9ad1",
+      "bytes": 2417126,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-book-genesis-v1",
+      "file": "profile-book-genesis-v1.png",
+      "plan_entry_ids": [
+        "profile-book-genesis"
+      ],
+      "subject": "Voices behind Genesis",
+      "candidate_type": "authorship-aware material editorial",
+      "period_region": "ancient Judean textual transmission; scene intentionally nonspecific",
+      "prompt": "Square 1:1 tight tabletop museum editorial image about Genesis as a transmitted and compiled work, not a historical scene and not a portrait of Moses. Several brown West Asian Judean hands from different edges of the frame carefully copy, compare, roll, and tie blank or indistinct leather/papyrus scroll material on a woven mat. Reed pens and small simple ceramic ink cups only. Faces absent. Background entirely neutral plaster and textile, no skyline, no architecture, no modern furniture, no readable writing or fake Hebrew, no bound book, no feather quill, no Egyptian motifs, no fantasy. Restrained archaeological material-study photography, flat soft light, muted earth colors. It should signal multiple traditions and preservation without claiming to depict the actual composition event.",
+      "alt_text": "Authorship-awareness editorial showing several brown hands handling blank scroll materials, signaling Genesis's transmission without identifying a single writer.",
+      "caption": "Authorship-awareness editorial—not a reconstruction of Genesis's composition. Moses is the traditional attribution; modern scholarship examines multiple traditions and stages of shaping.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145"
+      ],
+      "red_team_notes": [
+        "Hands-only composition avoids inventing a single recoverable author or a literal composition scene."
+      ],
+      "sha256": "a1fdd70d2fa5de676e6c0f0c594c8e46834b28d9f13e4345e2be933680fb99d7",
+      "bytes": 2502924,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-book-isaiah-v1",
+      "file": "profile-book-isaiah-v1.png",
+      "plan_entry_ids": [
+        "profile-book-isaiah"
+      ],
+      "subject": "Voices behind Isaiah",
+      "candidate_type": "authorship-aware multi-period material editorial",
+      "period_region": "eighth-century, exilic, and Persian-period Judean textual horizons",
+      "prompt": "Square 1:1 tight tabletop museum editorial image about the formation of Isaiah, not a historical scene and not portraits. Three narrow vertical panels, each showing only brown West Asian Judean hands, forearms, a reed pen, ink cup, and rolled writing material on a plain low work surface: an eighth-century BCE horizon, a sixth-century BCE exilic horizon, and a Persian-period horizon. Different wear and textile details imply time; one restrained continuous scroll-colored line visually links the panels. No faces, no people posing, no city, no buildings, no furniture reconstruction beyond simple boards and woven mats, no readable writing, no fake Hebrew, no labels, no bound books, no feather quills, no decorative fantasy. Archaeology-informed material-study aesthetic, neutral earthen background, flat museum lighting, restrained photographic realism. The composition must communicate a layered textual history while refusing to claim exactly three authors.",
+      "alt_text": "Three-panel authorship-awareness editorial showing Judean hands and scroll materials across three historical horizons, without claiming exactly three authors.",
+      "caption": "Authorship-awareness editorial—not portraits of three Isaiahs. Isaiah ben Amoz anchors the book's early prophetic setting; major scholarship distinguishes later exilic and postexilic voices and shaping.",
+      "sources": [
+        "https://oyc.yale.edu/religious-studies/rlst-145",
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-book-of-isaiah/formation-of-the-book-of-isaiah/D02324B83F2BF701A9035AB757B3C31F"
+      ],
+      "red_team_notes": [
+        "Three panels signify broad horizons, not a claim that exactly three individuals wrote the book."
+      ],
+      "sha256": "f2c74708b5424018ae63eddb8b40f8b784bd4a3a7a5d58a22f335e97a1594f3d",
+      "bytes": 2513696,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-books-gospels-v1",
+      "file": "profile-books-gospels-v1.png",
+      "plan_entry_ids": [
+        "profile-book-matthew",
+        "profile-book-mark",
+        "profile-book-luke",
+        "profile-book-john"
+      ],
+      "subject": "Anonymous literary witnesses behind the four canonical Gospels",
+      "candidate_type": "authorship-aware four-panel material editorial",
+      "period_region": "late first-century eastern Mediterranean manuscript cultures",
+      "prompt": "Square 1:1 museum editorial image about four canonical Gospel witnesses, not portraits and not a literal first-century photograph. A clean four-panel grid of close-up eastern Mediterranean hands working separately with papyrus sheets or rolls, reed pens, simple ink cups, and small oil lamps. Skin tones range through plausible non-white Jewish and eastern Mediterranean complexions. No faces, no buildings, no landscapes, no statues, no evangelist animals, no halos, no apostles posing, no readable writing or fake Greek, no labels, no codices, no feather quills. Each panel has a slightly distinct material rhythm but the same restrained neutral plaster and textile background. Professional archaeological material-study aesthetic, muted earth palette, flat museum lighting.",
+      "alt_text": "Four-panel authorship-awareness editorial showing eastern Mediterranean hands with papyrus and reed pens, without presenting the traditional Gospel names as recoverable portraits.",
+      "caption": "Authorship-awareness editorial—not portraits or a reconstruction. The canonical Gospels are traditionally named Matthew, Mark, Luke, and John; their texts themselves are formally anonymous and their origins require book-specific discussion.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "red_team_notes": [
+        "No author faces, evangelist symbols, apostolic posing, or literal depiction of the writing events."
+      ],
+      "sha256": "8e6a7e3270cf270d451136abe352729e0cd7bc6e7de2bc9f63f8f6676b6e5c74",
+      "bytes": 2566969,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    },
+    {
+      "id": "profile-candidate-book-hebrews-v1",
+      "file": "profile-book-hebrews-v1.png",
+      "plan_entry_ids": [
+        "profile-book-hebrews"
+      ],
+      "subject": "The unknown author of Hebrews",
+      "candidate_type": "anonymous-author material editorial",
+      "period_region": "first-century eastern Mediterranean Jewish and Christian literary world",
+      "prompt": "Square 1:1 museum-quality authorship-awareness editorial image for Hebrews, whose human author is unknown. Tight interior crop: an anonymous first-century eastern Mediterranean Jewish scribe or messenger seen only from behind, with brown hands near an unfinished blank or indistinct papyrus sheet, rolled scroll, reed pen, small ink cup, and simple oil lamp. Face completely invisible. Plain plaster wall fills the background; no window, skyline, famous building, landscape, Paul iconography, halo, bishop clothing, readable writing, fake Greek, modern bound book, feather quill, labels, or text. Restrained charcoal-and-earth palette, soft flat museum lighting, quiet historical documentary realism that emphasizes uncertainty rather than spectacle.",
+      "alt_text": "Authorship-awareness editorial showing an anonymous brown-skinned writer from behind at a plain table with papyrus and a lamp.",
+      "caption": "Authorship-awareness editorial—not a portrait or reconstruction. Hebrews does not name its human author, and the candidate intentionally leaves the face unseen.",
+      "sources": [
+        "https://www.cambridge.org/core/books/cambridge-companion-to-the-new-testament/"
+      ],
+      "red_team_notes": [
+        "The anonymous, face-hidden composition prevents a visual claim for Paul or another proposed author."
+      ],
+      "sha256": "1d7265c17ee0349f3d231878a6461c4962f788c29b5609f271bb80c1665bc39b",
+      "bytes": 2557955,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "generation_method": "OpenAI image generation; prompt recorded above",
+      "evidence_class": "interpretive orientation candidate; not archaeological evidence",
+      "publication_status": "blocked",
+      "human_scholarly_review": "required",
+      "human_visual_review": "required",
+      "rights_review": "required"
+    }
+  ]
+}
