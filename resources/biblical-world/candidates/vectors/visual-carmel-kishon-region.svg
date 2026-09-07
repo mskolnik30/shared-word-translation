@@ -1,46 +1,60 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
   <title id="title">Carmel, Kishon, and Jezreel</title>
-  <desc id="desc">Carmel, Kishon, and Jezreel. Schematic coordinate map showing Mount Carmel, regional; Kishon River, representative; Jezreel, probable; Megiddo, established. River and mountain markers are representative; Elijah&#x27;s exact path is not recoverable.</desc>
+  <desc id="desc">Carmel, Kishon, and Jezreel. Geographic orientation map with land, water, coastlines, rivers, and these places: Mount Carmel, approximate area; Kishon River, approximate area; Jezreel, probable location; Megiddo, known location. The mountain and river labels mark broad areas. Elijah&#x27;s exact path cannot be recovered.</desc>
   <rect width="1200" height="800" fill="#F7F2E8"/>
   <style>text { font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }</style>
-  <rect x="48" y="44" width="1104" height="712" rx="32" fill="#FFFDFC" stroke="#CAD5D2" stroke-width="3"/>
-<text x="96" y="112" font-size="38" font-weight="750" fill="#19354D" text-anchor="start"><tspan x="96" dy="0">Carmel, Kishon, and Jezreel</tspan></text>
-<text x="96" y="186" font-size="20" font-weight="400" fill="#5D6B72" text-anchor="start"><tspan x="96" dy="0">Primary texts: 1 Kings 18:19–46</tspan></text>
-<rect x="100" y="241" width="640" height="360" rx="18" fill="#DDECEE" stroke="#19354D" stroke-width="3"/>
-<line x1="228.0" y1="241" x2="228.0" y2="601" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="100" y1="313.0" x2="740" y2="313.0" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="356.0" y1="241" x2="356.0" y2="601" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="100" y1="385.0" x2="740" y2="385.0" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="484.0" y1="241" x2="484.0" y2="601" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="100" y1="457.0" x2="740" y2="457.0" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="612.0" y1="241" x2="612.0" y2="601" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="100" y1="529.0" x2="740" y2="529.0" stroke="#B8CCCF" stroke-width="1"/>
-<text x="118" y="275" font-size="22" font-weight="800" fill="#19354D" text-anchor="start"><tspan x="118" dy="0">N</tspan></text>
-<path d="M 124 289 L 124 337 M 114 301 L 124 289 L 134 301" stroke="#19354D" stroke-width="4" fill="none"/>
-<circle cx="324.0" cy="362.5" r="17" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
-<text x="323" y="369" font-size="18" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="323" dy="0">1</tspan></text>
-<circle cx="790" cy="276" r="15" fill="#A6533F"/>
-<text x="790" y="283" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="790" dy="0">1</tspan></text>
-<text x="820" y="276" font-size="20" font-weight="700" fill="#19354D" text-anchor="start"><tspan x="820" dy="0">Mount Carmel</tspan></text>
-<text x="820" y="300" font-size="15" font-weight="650" fill="#5D6B72" text-anchor="start"><tspan x="820" dy="0">[regional]</tspan></text>
-<circle cx="304.8" cy="331.0" r="17" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
-<text x="304" y="338" font-size="18" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="304" dy="0">2</tspan></text>
-<circle cx="790" cy="352" r="15" fill="#A6533F"/>
-<text x="790" y="359" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="790" dy="0">2</tspan></text>
-<text x="820" y="352" font-size="20" font-weight="700" fill="#19354D" text-anchor="start"><tspan x="820" dy="0">Kishon River</tspan></text>
-<text x="820" y="376" font-size="15" font-weight="650" fill="#5D6B72" text-anchor="start"><tspan x="820" dy="0">[representative]</tspan></text>
-<circle cx="498.1" cy="439.9" r="17" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
-<text x="498" y="446" font-size="18" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="498" dy="0">3</tspan></text>
-<circle cx="790" cy="428" r="15" fill="#A6533F"/>
-<text x="790" y="435" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="790" dy="0">3</tspan></text>
-<text x="820" y="428" font-size="20" font-weight="700" fill="#19354D" text-anchor="start"><tspan x="820" dy="0">Jezreel</tspan></text>
-<text x="820" y="452" font-size="15" font-weight="650" fill="#5D6B72" text-anchor="start"><tspan x="820" dy="0">[probable]</tspan></text>
-<circle cx="409.8" cy="427.8" r="17" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
-<text x="409" y="434" font-size="18" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="409" dy="0">4</tspan></text>
-<circle cx="790" cy="504" r="15" fill="#A6533F"/>
-<text x="790" y="511" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="790" dy="0">4</tspan></text>
-<text x="820" y="504" font-size="20" font-weight="700" fill="#19354D" text-anchor="start"><tspan x="820" dy="0">Megiddo</tspan></text>
-<text x="820" y="528" font-size="15" font-weight="650" fill="#5D6B72" text-anchor="start"><tspan x="820" dy="0">[established]</tspan></text>
-<text x="100" y="660" font-size="20" font-weight="400" fill="#26333B" text-anchor="start"><tspan x="100" dy="0">River and mountain markers are representative; Elijah&#x27;s exact path is not recoverable.</tspan></text>
-<text x="96" y="724" font-size="18" font-weight="700" fill="#5D6B72" text-anchor="start"><tspan x="96" dy="0">SCHEMATIC COORDINATE MAP • NO ANCIENT BORDERS OR UNATTESTED ROUTES</tspan></text>
+  <rect x="40" y="36" width="1120" height="728" rx="30" fill="#FFFDFC"/>
+<text x="80" y="78" font-size="15" font-weight="800" fill="#A6533F" text-anchor="start"><tspan x="80" dy="0">GEOGRAPHIC ORIENTATION</tspan></text>
+<text x="80" y="124" font-size="35" font-weight="760" fill="#19354D" text-anchor="start"><tspan x="80" dy="0">Carmel, Kishon, and Jezreel</tspan></text>
+<text x="80" y="154" font-size="18" font-weight="400" fill="#5D6B72" text-anchor="start"><tspan x="80" dy="0">Bible passages  1 Kings 18:19–46</tspan></text>
+<defs><clipPath id="physical-map-clip"><rect x="62" y="208" width="744" height="392" rx="18"/></clipPath></defs>
+<g id="physical-map-base" data-source="GSHHG" clip-path="url(#physical-map-clip)">
+<rect x="62" y="208" width="744" height="392" fill="#DDECEE"/>
+<path d="M 136.9 600.0 L 177.0 525.3 L 229.1 359.1 L 242.7 344.8 L 249.5 294.2 L 272.8 288.2 L 306.8 301.7 L 333.8 277.4 L 344.3 250.5 L 332.5 247.6 L 346.2 208.0 L 806.0 208.0 L 806.0 600.0 L 136.9 600.0 Z" fill="#E9DFC9" stroke="none"/>
+<path d="M 748.8 266.1 L 763.2 277.3 L 759.7 320.2 L 744.0 342.2 L 715.1 348.7 L 666.1 289.4 L 683.0 273.9 L 728.9 260.0 L 748.8 266.1 Z" fill="#DDECEE" stroke="none"/>
+<path d="M 704.5 378.5 L 715.1 425.4 L 698.7 430.4 L 696.5 444.3 L 714.9 457.2 L 696.5 505.0" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 709.1 584.2 L 706.2 600.0" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 696.5 505.0 L 709.1 584.2" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 749.8 208.0 L 740.3 258.5" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 712.0 347.1 L 700.0 359.9 L 704.5 378.5" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 806.0 347.4 L 793.2 350.9 L 786.8 361.4 L 768.0 362.2" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 609.3 235.2 L 591.9 249.8 L 563.6 251.0 L 568.3 265.0 L 588.6 279.6 L 604.3 271.7 L 634.3 271.2 L 669.2 285.6" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 787.4 600.0 L 784.1 598.1 L 775.2 600.0" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 768.0 362.2 L 740.9 365.6 L 719.8 380.9 L 704.5 379.1" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 136.9 600.0 L 177.0 525.3 L 229.1 359.1 L 242.7 344.8 L 249.5 294.2 L 272.8 288.2 L 306.8 301.7 L 333.8 277.4 L 344.3 250.5 L 332.5 247.6 L 346.2 208.0" fill="none" stroke="#19354D" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M 748.8 266.1 L 763.2 277.3 L 759.7 320.2 L 744.0 342.2 L 715.1 348.7 L 666.1 289.4 L 683.0 273.9 L 728.9 260.0 L 748.8 266.1" fill="none" stroke="#19354D" stroke-width="2.2" stroke-linejoin="round"/>
+</g>
+<rect x="62" y="208" width="744" height="392" rx="18" fill="none" stroke="#19354D" stroke-width="2.5"/>
+<text x="82" y="243" font-size="18" font-weight="800" fill="#19354D" text-anchor="start"><tspan x="82" dy="0">N</tspan></text>
+<path d="M 88 255 L 88 290 M 80 265 L 88 255 L 96 265" stroke="#19354D" stroke-width="3.5" fill="none"/>
+<path d="M 84 576 L 242.7 576" stroke="#19354D" stroke-width="5"/>
+<path d="M 84 571 L 84 581 M 242.7 571 L 242.7 581" stroke="#19354D" stroke-width="2"/>
+<text x="163" y="566" font-size="14" font-weight="700" fill="#19354D" text-anchor="middle"><tspan x="163" dy="0">20 km</tspan></text>
+<circle cx="322.4" cy="340.3" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="322" y="346" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="322" dy="0">1</tspan></text>
+<circle cx="852" cy="237" r="14" fill="#A6533F"/>
+<text x="852" y="242" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">1</tspan></text>
+<text x="881" y="236" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Mount Carmel</tspan></text>
+<text x="881" y="259" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">approximate area</tspan></text>
+<circle cx="300.1" cy="306.0" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="300" y="312" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="300" dy="0">2</tspan></text>
+<circle cx="852" cy="315" r="14" fill="#A6533F"/>
+<text x="852" y="320" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">2</tspan></text>
+<text x="881" y="314" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Kishon River</tspan></text>
+<text x="881" y="337" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">approximate area</tspan></text>
+<circle cx="524.8" cy="424.6" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="524" y="430" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="524" dy="0">3</tspan></text>
+<circle cx="852" cy="393" r="14" fill="#A6533F"/>
+<text x="852" y="398" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">3</tspan></text>
+<text x="881" y="392" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Jezreel</tspan></text>
+<text x="881" y="415" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">probable location</tspan></text>
+<circle cx="422.1" cy="411.4" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="422" y="417" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="422" dy="0">4</tspan></text>
+<circle cx="852" cy="471" r="14" fill="#A6533F"/>
+<text x="852" y="476" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">4</tspan></text>
+<text x="881" y="470" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Megiddo</tspan></text>
+<text x="881" y="493" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">known location</tspan></text>
+<text x="80" y="632" font-size="14" font-weight="800" fill="#2B7773" text-anchor="start"><tspan x="80" dy="0">WHAT THIS MAP SHOWS</tspan></text>
+<text x="80" y="662" font-size="17" font-weight="400" fill="#26333B" text-anchor="start"><tspan x="80" dy="0">The mountain and river labels mark broad areas. Elijah&#x27;s exact path cannot be recovered.</tspan></text>
+<text x="80" y="739" font-size="13" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="80" dy="0">Modern coastlines and rivers are shown for orientation; no unrecorded route or ancient border is claimed.</tspan></text>
 </svg>

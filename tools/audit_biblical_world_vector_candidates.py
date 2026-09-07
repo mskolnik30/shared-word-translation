@@ -15,6 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 REGISTRY = ROOT / "resources" / "biblical-world" / "registry.json"
 MANIFEST = ROOT / "resources" / "biblical-world" / "candidates" / "vectors" / "manifest.json"
+GALLERY = ROOT / "resources" / "biblical-world" / "candidates" / "vectors" / "review-gallery.html"
 RASTER_ONLY = {"visual-jericho-archaeology", "visual-caesarea-philippi", "visual-deuteronomic-law-context"}
 
 
@@ -39,6 +40,17 @@ def main() -> int:
     if manifest.get("publication_status") != "blocked":
         errors.append("candidate set must remain publication-blocked")
 
+    if not GALLERY.is_file():
+        errors.append("review gallery is missing")
+    else:
+        gallery_text = GALLERY.read_text(encoding="utf-8")
+        gallery_svgs = re.findall(r'<img\s+src="([^"]+\.svg)"', gallery_text)
+        expected_gallery_svgs = [Path(item.get("file", "")).name for item in entries]
+        if Counter(gallery_svgs) != Counter(expected_gallery_svgs):
+            errors.append("review gallery does not reference every manifest SVG exactly once")
+        if "publication is blocked" not in gallery_text.casefold():
+            errors.append("review gallery is missing its publication-blocked notice")
+
     hashes = []
     for entry in entries:
         visual_id = entry.get("visual_id", "<missing-id>")
@@ -62,8 +74,11 @@ def main() -> int:
         for source in entry.get("sources", []):
             if not re.match(r"^https://", source):
                 errors.append(f"{visual_id}: non-HTTPS source {source!r}")
-        if entry.get("candidate_format") == "schematic-coordinate-map" and not entry.get("sources"):
-            errors.append(f"{visual_id}: coordinate map has no external place source")
+        if entry.get("candidate_format") == "geographic-orientation-map":
+            if not entry.get("sources"):
+                errors.append(f"{visual_id}: geographic map has no external place source")
+            if not any("gshhg" in source.casefold() for source in entry.get("sources", [])):
+                errors.append(f"{visual_id}: geographic map is missing its physical-map source")
 
         rel = entry.get("file", "")
         path = ROOT / rel
@@ -84,8 +99,58 @@ def main() -> int:
         if root.get("role") != "img" or root.get("aria-labelledby") != "title desc":
             errors.append(f"{visual_id}: missing SVG accessibility semantics")
         text = " ".join("".join(root.itertext()).split())
-        if "UNPUBLISHED CANDIDATE" not in text and "SCHEMATIC COORDINATE MAP" not in text:
-            errors.append(f"{visual_id}: missing visible candidate/schematic disclosure")
+        element_ids = {element.get("id") for element in root.iter() if element.get("id")}
+        if entry.get("candidate_format") == "geographic-orientation-map":
+            if "GEOGRAPHIC ORIENTATION" not in text:
+                errors.append(f"{visual_id}: missing reader-facing map label")
+            if "physical-map-base" not in element_ids:
+                errors.append(f"{visual_id}: missing rendered land/water/river base layer")
+        elif entry.get("candidate_format") == "reader-explanation":
+            if "READING GUIDE" not in text or "KEEP IN VIEW" not in text:
+                errors.append(f"{visual_id}: missing reader-facing guide structure")
+        else:
+            errors.append(f"{visual_id}: unsupported candidate format {entry.get('candidate_format')!r}")
+
+        for jargon in (
+            "reception history",
+            "christological",
+            "lexical-history",
+            "regnal dates",
+            "schematic coordinate",
+            "unattested routes",
+            "primary texts",
+            "reading caution",
+            "coordinate orientation",
+            "representative scale",
+            "is asserted",
+            "grammatical relation and scope",
+            "textual map",
+            "some witnesses",
+            "heavenly prologue",
+            "agagite language",
+            "outcome is not narrated",
+            "household subordinates",
+            "christ's suffering is invoked",
+            "perfected love",
+            "love of sibling",
+            "economic agency",
+            "overpowering vocation",
+            "priestly work",
+            "endurance is communal",
+            "the rhetoric is not an ethical model",
+            "receives dominion",
+            "hierarchy of recipients",
+            "receiving a traveling teacher implies support",
+            "courtroom-style charge",
+            "translation history",
+            "word-history overview",
+            "new creation frames the calling",
+            "embodied difference",
+            "amid cosmic signs",
+            "persian imperial world",
+        ):
+            if jargon.casefold() in text.casefold() or jargon.casefold() in entry.get("alt_text", "").casefold():
+                errors.append(f"{visual_id}: unexplained specialist wording remains: {jargon}")
         for forbidden in ("low dining table", "Paul describes", "in Paul's account", "God rejects their speech about Job", "heavenly wager"):
             if forbidden.casefold() in text.casefold():
                 errors.append(f"{visual_id}: forbidden red-team wording: {forbidden}")
@@ -98,6 +163,7 @@ def main() -> int:
     print(f"Expected vector requests: {len(expected)}")
     print(f"Manifest entries: {len(entries)}")
     print(f"Unique files: {len(set(hashes))}")
+    print(f"Gallery references: {len(gallery_svgs) if GALLERY.is_file() else 0}")
     print(f"Errors: {len(errors)}")
     print(f"Warnings: {len(warnings)}")
     for item in errors:

@@ -1,40 +1,61 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
   <title id="title">Tyre and the southern Phoenician coast</title>
-  <desc id="desc">Tyre and the southern Phoenician coast. Schematic coordinate map showing Tyre, established; Sidon, established; Caesarea Philippi, established. Regional orientation; Mark names the region of Tyre but does not narrate a precise route.</desc>
+  <desc id="desc">Tyre and the southern Phoenician coast. Geographic orientation map with land, water, coastlines, rivers, and these places: Tyre, known location; Sidon, known location; Caesarea Philippi, known location. This map shows the coastal region named by Mark. The Gospel does not give Jesus&#x27; exact route.</desc>
   <rect width="1200" height="800" fill="#F7F2E8"/>
   <style>text { font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }</style>
-  <rect x="48" y="44" width="1104" height="712" rx="32" fill="#FFFDFC" stroke="#CAD5D2" stroke-width="3"/>
-<text x="96" y="112" font-size="38" font-weight="750" fill="#19354D" text-anchor="start"><tspan x="96" dy="0">Tyre and the southern Phoenician coast</tspan></text>
-<text x="96" y="186" font-size="20" font-weight="400" fill="#5D6B72" text-anchor="start"><tspan x="96" dy="0">Primary texts: Mark 7:24–30</tspan></text>
-<rect x="100" y="241" width="640" height="360" rx="18" fill="#DDECEE" stroke="#19354D" stroke-width="3"/>
-<line x1="228.0" y1="241" x2="228.0" y2="601" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="100" y1="313.0" x2="740" y2="313.0" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="356.0" y1="241" x2="356.0" y2="601" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="100" y1="385.0" x2="740" y2="385.0" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="484.0" y1="241" x2="484.0" y2="601" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="100" y1="457.0" x2="740" y2="457.0" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="612.0" y1="241" x2="612.0" y2="601" stroke="#B8CCCF" stroke-width="1"/>
-<line x1="100" y1="529.0" x2="740" y2="529.0" stroke="#B8CCCF" stroke-width="1"/>
-<text x="118" y="275" font-size="22" font-weight="800" fill="#19354D" text-anchor="start"><tspan x="118" dy="0">N</tspan></text>
-<path d="M 124 289 L 124 337 M 114 301 L 124 289 L 134 301" stroke="#19354D" stroke-width="4" fill="none"/>
-<circle cx="295.0" cy="395.8" r="17" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
-<text x="294" y="402" font-size="18" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="294" dy="0">1</tspan></text>
-<circle cx="790" cy="276" r="15" fill="#A6533F"/>
-<text x="790" y="283" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="790" dy="0">1</tspan></text>
-<text x="820" y="276" font-size="20" font-weight="700" fill="#19354D" text-anchor="start"><tspan x="820" dy="0">Tyre</tspan></text>
-<text x="820" y="300" font-size="15" font-weight="650" fill="#5D6B72" text-anchor="start"><tspan x="820" dy="0">[established]</tspan></text>
-<circle cx="380.1" cy="291.4" r="17" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
-<text x="380" y="298" font-size="18" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="380" dy="0">2</tspan></text>
-<circle cx="790" cy="352" r="15" fill="#A6533F"/>
-<text x="790" y="359" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="790" dy="0">2</tspan></text>
-<text x="820" y="352" font-size="20" font-weight="700" fill="#19354D" text-anchor="start"><tspan x="820" dy="0">Sidon</tspan></text>
-<text x="820" y="376" font-size="15" font-weight="650" fill="#5D6B72" text-anchor="start"><tspan x="820" dy="0">[established]</tspan></text>
-<circle cx="539.6" cy="403.7" r="17" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
-<text x="539" y="410" font-size="18" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="539" dy="0">3</tspan></text>
-<circle cx="790" cy="428" r="15" fill="#A6533F"/>
-<text x="790" y="435" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="790" dy="0">3</tspan></text>
-<text x="820" y="428" font-size="20" font-weight="700" fill="#19354D" text-anchor="start"><tspan x="820" dy="0">Caesarea Philippi</tspan></text>
-<text x="820" y="452" font-size="15" font-weight="650" fill="#5D6B72" text-anchor="start"><tspan x="820" dy="0">[established]</tspan></text>
-<text x="100" y="660" font-size="20" font-weight="400" fill="#26333B" text-anchor="start"><tspan x="100" dy="0">Regional orientation; Mark names the region of Tyre but does not narrate a precise route.</tspan></text>
-<text x="96" y="724" font-size="18" font-weight="700" fill="#5D6B72" text-anchor="start"><tspan x="96" dy="0">SCHEMATIC COORDINATE MAP • NO ANCIENT BORDERS OR UNATTESTED ROUTES</tspan></text>
+  <rect x="40" y="36" width="1120" height="728" rx="30" fill="#FFFDFC"/>
+<text x="80" y="78" font-size="15" font-weight="800" fill="#A6533F" text-anchor="start"><tspan x="80" dy="0">GEOGRAPHIC ORIENTATION</tspan></text>
+<text x="80" y="124" font-size="35" font-weight="760" fill="#19354D" text-anchor="start"><tspan x="80" dy="0">Tyre and the southern Phoenician coast</tspan></text>
+<text x="80" y="154" font-size="18" font-weight="400" fill="#5D6B72" text-anchor="start"><tspan x="80" dy="0">Bible passages  Mark 7:24–30</tspan></text>
+<defs><clipPath id="physical-map-clip"><rect x="62" y="208" width="744" height="392" rx="18"/></clipPath></defs>
+<g id="physical-map-base" data-source="GSHHG" clip-path="url(#physical-map-clip)">
+<rect x="62" y="208" width="744" height="392" fill="#DDECEE"/>
+<path d="M 136.3 600.0 L 143.8 591.8 L 149.0 551.3 L 166.9 546.6 L 193.1 557.3 L 213.8 537.9 L 221.9 516.4 L 212.9 514.1 L 236.3 443.6 L 284.4 414.5 L 297.8 391.9 L 286.3 373.7 L 299.2 372.0 L 315.9 351.8 L 339.7 302.4 L 381.3 277.0 L 404.1 228.6 L 414.6 224.7 L 413.7 212.3 L 425.3 208.0 L 806.0 208.0 L 806.0 600.0 L 136.3 600.0 Z" fill="#E9DFC9" stroke="none"/>
+<path d="M 533.0 528.9 L 544.2 537.8 L 541.5 572.1 L 529.4 589.8 L 507.1 595.0 L 469.4 547.5 L 482.5 535.1 L 517.8 524.0 L 533.0 528.9 Z" fill="#DDECEE" stroke="none"/>
+<path d="M 709.2 235.2 L 655.6 253.3 L 635.1 283.0 L 547.5 327.8 L 535.3 347.7 L 533.2 386.3" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 531.1 452.6 L 533.8 482.4" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 533.8 482.4 L 526.5 522.8" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 504.7 593.7 L 499.1 600.0" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 571.8 265.8 L 571.4 274.4 L 551.3 289.0 L 557.7 298.4 L 547.2 310.4 L 514.3 331.9 L 490.4 336.4 L 479.3 363.4 L 441.8 357.7 L 409.4 362.2 L 379.0 358.8 L 370.1 352.4 L 327.5 354.5 L 315.2 346.8" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 649.4 208.0 L 646.4 218.7 L 597.1 241.6 L 584.1 240.0 L 575.8 254.0" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 533.0 388.2 L 504.0 408.4" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 778.8 216.8 L 787.2 217.1 L 790.9 234.0 L 806.0 234.5" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 714.2 600.0 L 708.1 591.5 L 654.8 588.6 L 634.0 584.4 L 630.5 578.5 L 567.2 596.7 L 565.3 600.0" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 425.7 504.2 L 412.4 515.8 L 390.6 516.8 L 394.3 528.0 L 409.8 539.7 L 421.9 533.4 L 445.0 532.9 L 471.8 544.5" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 696.1 330.4 L 715.1 325.9 L 738.4 334.1 L 748.8 356.7" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 559.5 208.0 L 528.3 221.3 L 510.2 246.3" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 510.2 246.3 L 449.9 259.4 L 395.4 252.0" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 468.3 390.5 L 431.5 376.1 L 428.3 359.4" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 545.6 261.6 L 532.4 269.2 L 513.3 265.1 L 509.8 246.8" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 748.8 356.7 L 776.7 358.6 L 806.0 350.4" fill="none" stroke="#75AAB4" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 136.3 600.0 L 143.8 591.8 L 149.0 551.3 L 166.9 546.6 L 193.1 557.3 L 213.8 537.9 L 221.9 516.4 L 212.9 514.1 L 236.3 443.6 L 284.4 414.5 L 297.8 391.9 L 286.3 373.7 L 299.2 372.0 L 315.9 351.8 L 339.7 302.4 L 381.3 277.0 L 404.1 228.6 L 414.6 224.7 L 413.7 212.3 L 425.3 208.0" fill="none" stroke="#19354D" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M 533.0 528.9 L 544.2 537.8 L 541.5 572.1 L 529.4 589.8 L 507.1 595.0 L 469.4 547.5 L 482.5 535.1 L 517.8 524.0 L 533.0 528.9" fill="none" stroke="#19354D" stroke-width="2.2" stroke-linejoin="round"/>
+</g>
+<rect x="62" y="208" width="744" height="392" rx="18" fill="none" stroke="#19354D" stroke-width="2.5"/>
+<text x="82" y="243" font-size="18" font-weight="800" fill="#19354D" text-anchor="start"><tspan x="82" dy="0">N</tspan></text>
+<path d="M 88 255 L 88 290 M 80 265 L 88 255 L 96 265" stroke="#19354D" stroke-width="3.5" fill="none"/>
+<path d="M 84 576 L 206.9 576" stroke="#19354D" stroke-width="5"/>
+<path d="M 84 571 L 84 581 M 206.9 571 L 206.9 581" stroke="#19354D" stroke-width="2"/>
+<text x="145" y="566" font-size="14" font-weight="700" fill="#19354D" text-anchor="middle"><tspan x="145" dy="0">20 km</tspan></text>
+<circle cx="288.6" cy="376.6" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="288" y="382" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="288" dy="0">1</tspan></text>
+<circle cx="852" cy="237" r="14" fill="#A6533F"/>
+<text x="852" y="242" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">1</tspan></text>
+<text x="881" y="236" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Tyre</tspan></text>
+<text x="881" y="259" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">known location</tspan></text>
+<circle cx="387.6" cy="262.9" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="387" y="268" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="387" dy="0">2</tspan></text>
+<circle cx="852" cy="315" r="14" fill="#A6533F"/>
+<text x="852" y="320" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">2</tspan></text>
+<text x="881" y="314" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Sidon</tspan></text>
+<text x="881" y="337" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">known location</tspan></text>
+<circle cx="573.1" cy="385.2" r="15" fill="#A6533F" stroke="#FFFFFF" stroke-width="4"/>
+<text x="573" y="391" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="573" dy="0">3</tspan></text>
+<circle cx="852" cy="393" r="14" fill="#A6533F"/>
+<text x="852" y="398" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="852" dy="0">3</tspan></text>
+<text x="881" y="392" font-size="19" font-weight="720" fill="#19354D" text-anchor="start"><tspan x="881" dy="0">Caesarea Philippi</tspan></text>
+<text x="881" y="415" font-size="14" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="881" dy="0">known location</tspan></text>
+<text x="80" y="632" font-size="14" font-weight="800" fill="#2B7773" text-anchor="start"><tspan x="80" dy="0">WHAT THIS MAP SHOWS</tspan></text>
+<text x="80" y="662" font-size="17" font-weight="400" fill="#26333B" text-anchor="start"><tspan x="80" dy="0">This map shows the coastal region named by Mark. The Gospel does not give Jesus&#x27; exact route.</tspan></text>
+<text x="80" y="739" font-size="13" font-weight="600" fill="#5D6B72" text-anchor="start"><tspan x="80" dy="0">Modern coastlines and rivers are shown for orientation; no unrecorded route or ancient border is claimed.</tspan></text>
 </svg>

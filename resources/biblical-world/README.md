@@ -48,12 +48,24 @@ The binding red-team controls are recorded in
 
 The deterministic SVG candidate set is stored under
 `candidates/vectors/`. Its manifest binds every file to the shared visual
-request, primary text, source URLs where geographic coordinates are used,
+request, Bible passages, source URLs where geographic coordinates are used,
 alternative text, SHA-256 digest, rights basis, and open human gates.
 
+The geographic candidates use GSHHG physical coastline and river data through
+Basemap, with modern geography shown only for orientation. They do not infer
+ancient borders or undocumented travel routes. Location claims remain tied to
+the place-specific sources listed in the manifest. Reader-facing labels use
+plain language; technical review terminology belongs in the manifest and audit
+records rather than in the published visual.
+
+Regenerating the maps requires `basemap==2.0.0` (including its
+`basemap_data==2.0.0` dependency). The committed SVGs and their audits do not
+require Basemap at review or publication time.
+
 Run `python3 tools/audit_biblical_world_vector_candidates.py` to verify this
-candidate set. The files remain visibly labeled as schematic or unpublished
-and cannot be treated as publication-approved merely because the audit passes.
+candidate set. The manifest and review gallery keep every file explicitly
+publication-blocked; a passing audit does not constitute visual or scholarly
+approval.
 
 The 76-image book-author/key-person profile program is defined in
 `profiles/plan.json`. It assigns different treatments to named figures,
