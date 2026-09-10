@@ -4,111 +4,112 @@ testament: OT
 chapter: 17
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-12-25-biblical-fluency-2026-09-10
 ---
 
-## The Covenant of Circumcision
+## The Covenant and Abraham’s Name
+
 <p>
-v01: When Abram was ninety-nine years old, the LORD appeared to Abram and said to him, “I am God Almighty. Walk before me and be blameless,
-v02: and I will establish my covenant between me and you, and I will multiply you exceedingly.”
-v03: Then Abram fell on his face. And God spoke with him, saying,
-v04: “As for me, look, my covenant is with you, and you will be the father of a multitude of nations.
-v05: No longer will your name be called Abram, but your name will be Abraham, for I have made you the father of a multitude of nations.
-v06: I will make you exceedingly fruitful, and I will make nations of you, and kings will come from you.
-v07: I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you.
-v08: I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, for an everlasting possession; and I will be their God.”
+v01: When Abram was ninety-nine, the LORD appeared to him and said, “I am God Almighty. Walk before me and be blameless.
+v02: I will establish my covenant between me and you, and multiply you greatly.”
 </p>
 
 <p>
-v09: Then God said to Abraham, “As for you, you will keep my covenant, you and your offspring after you throughout their generations.
-v10: This is my covenant, which you will keep, between me and you and your offspring after you: every male among you will be circumcised.
-v11: You will be circumcised in the flesh of your foreskin, and it will be a sign of the covenant between me and you.
-v12: He who is eight days old among you will be circumcised, every male throughout your generations, whether born in your house or bought with money from any foreigner who is not of your offspring.
-v13: Both the one born in your house and the one bought with your money must surely be circumcised. So will my covenant be in your flesh as an everlasting covenant.
-v14: Any uncircumcised male who is not circumcised in the flesh of his foreskin will be cut off from his people; he has broken my covenant.”
+v03: Abram fell facedown, and God spoke to him:
+v04: “As for me, this is my covenant with you: you will become the father of many nations.
+v05: You will no longer be called Abram. Your name will be Abraham, because I have made you the father of many nations.
+</p>
+
+<p>
+v06: I will make you exceedingly fruitful. Nations will come from you, and kings will descend from you.
+v07: I will establish my covenant between me and you and your descendants after you, throughout their generations: an everlasting covenant, to be your God and the God of your descendants.
+v08: I will give you and your descendants the land where you live as a stranger—all of Canaan—as an everlasting possession. I will be their God.”
+</p>
+
+## The Covenant’s Sign
+
+<p>
+v09: God said to Abraham, “As for you, you and your descendants must keep my covenant throughout their generations.
+v10: This is my covenant that you must keep, between me and you and your descendants: every male among you must be circumcised.
+v11: You must be circumcised in the flesh of your foreskin. This will be the sign of the covenant between me and you.
+</p>
+
+<p>
+v12: Throughout your generations, every male among you must be circumcised at eight days old, including those born in the household and those bought from foreigners who are not your descendants.
+v13: Both those born in your household and those bought with your money must be circumcised. My covenant in your flesh will be an everlasting covenant.
+</p>
+
+<p>
+v14: Any uncircumcised male whose foreskin has not been circumcised must be cut off from his people. He has broken my covenant.”
 </p>
 
 ## Sarah and the Promised Son
+
 <p>
-v15: Then God said to Abraham, “As for Sarai your wife, you will not call her name Sarai, but Sarah will be her name.
-v16: I will bless her, and moreover I will give you a son by her. I will bless her, and she will become nations; kings of peoples will come from her.”
+v15: God said to Abraham, “As for your wife Sarai, you must no longer call her Sarai. Her name will be Sarah.
+v16: I will bless her and give you a son through her. I will bless her: nations will come from her, and kings of peoples will descend from her.”
 </p>
 
 <p>
-v17: Then Abraham fell on his face and laughed and said in his heart, “Will a child be born to a man who is one hundred years old? Will Sarah, who is ninety years old, bear a child?”
-v18: Abraham said to God, “Oh that Ishmael might live before you!”
-v19: Yet God said, “No, but Sarah your wife will bear you a son, and you will call his name Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him.
-v20: As for Ishmael, I have heard you. Look, I have blessed him and will make him fruitful and multiply him exceedingly. He will father twelve princes, and I will make him into a great nation.
-v21: But my covenant I will establish with Isaac, whom Sarah will bear to you at this time next year.”
-v22: When he had finished speaking with him, God went up from Abraham.
+v17: Abraham fell facedown and laughed. He said to himself, “Can a child be born to a man of a hundred? Can Sarah bear a child at ninety?”
 </p>
 
-## Abraham’s Obedience
 <p>
-v23: Then Abraham took Ishmael his son and all those born in his house and all those bought with his money, every male among the men of Abraham’s household, and he circumcised the flesh of their foreskin on that very day, as God had spoken to him.
-v24: Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin.
-v25: Ishmael his son was thirteen years old when he was circumcised in the flesh of his foreskin.
-v26: On that very day Abraham and Ishmael his son were circumcised.
-v27: And all the men of his household, those born in the house and those bought with money from a foreigner, were circumcised with him.
+v18: Abraham said to God, “If only Ishmael might live before you!”
+</p>
+
+<p>
+v19: God said, “Yes, your wife Sarah will bear you a son, and you must name him Isaac. I will establish my covenant with him, an everlasting covenant for his descendants after him.
+</p>
+
+<p>
+v20: As for Ishmael, I have heard you. I will bless him, make him fruitful, and multiply him greatly. He will become the father of twelve leaders, and I will make him a great nation.
+v21: But I will establish my covenant with Isaac, whom Sarah will bear to you at this appointed time next year.”
+</p>
+
+<p>
+v22: When God finished speaking with Abraham, God went up from him.
+</p>
+
+## The Household Is Circumcised
+
+<p>
+v23: That very day Abraham took his son Ishmael and every male in his household, whether born there or bought with his money, and circumcised their foreskins, as God had told him.
+</p>
+
+<p>
+v24: Abraham was ninety-nine when he was circumcised.
+v25: His son Ishmael was thirteen when he was circumcised.
+</p>
+
+<p>
+v26: Abraham and his son Ishmael were circumcised on that very day.
+v27: All the males in his household, both those born there and those bought from foreigners, were circumcised with him.
 </p>
 
 ## Notes
 
-v01: “God Almighty” translates El Shaddai. The title is introduced in connection with covenant promise and divine sufficiency.
+v01–08: God Almighty is the traditional rendering of El Shaddai; the title’s precise derivation is uncertain. Abraham’s new name is associated in the speech with being a father of many nations. The shared walking, fruitfulness, and covenant language connects earlier chapters.
 
-v01: Walking before God and being blameless describes covenant faithfulness rather than moral perfection.
+v10–14: The requirement specifically concerns males, including those born in the household and those purchased. “Cut off” is retained because the phrase does not state the punishment’s mechanism here.
 
-v04–08: The covenant promises expand beyond descendants and land to include nations, kings, and an enduring relationship with God.
+v15–21: Sarah receives her own name and blessing: nations and kings come from her. Abraham laughs in v17 before Sarah laughs in chapter 18. Isaac’s name is linked with laughter. The covenant promise through Isaac does not erase the blessing and twelve-leader promise for Ishmael.
 
-v05: Abram’s new name marks a transformed identity grounded in divine promise rather than present circumstances.
-
-v07: The covenant is described as everlasting, emphasizing God's continuing commitment across generations.
-
-v10–14: Circumcision becomes the physical sign of covenant belonging. The sign marks both descendants and members of Abraham’s household.
-
-v15–16: Sarah is drawn explicitly into the covenant promise. The future nation will come through her.
-
-v17: Abraham’s laughter expresses astonishment at the promise rather than immediate disbelief alone.
-
-v18–21: God distinguishes between blessing and covenant election. Ishmael is blessed, yet the covenant line will continue through Isaac.
-
-v19: Isaac’s name (“he laughs”) preserves Abraham’s response within the child’s identity.
-
-v23–27: Abraham responds with immediate obedience. The covenant sign is enacted on the very day it is commanded.
+v23–27: The ages and repeated “that very day” emphasize the timing and scope of the action. The repetition is kept as part of the chapter’s structure.
 
 ## Vocabulary
 
-v01: אֵל שַׁדַּי (ʾEl Šadday)
-“God Almighty.” A divine title associated with power, sufficiency, and covenant promise.
+v01: אֵל שַׁדַּי (El Shaddai)
+Traditionally God Almighty; exact derivation uncertain.
 
-v01: תָּמִים (tāmîm)
-“Blameless” or “whole.” Describes integrity and undivided devotion.
+v01: תָּמִים (tamim)
+Whole, sound, or blameless; a call to integrity here.
 
-v02: בְּרִית (bĕrît)
-“Covenant.” A binding relationship established and sustained by divine commitment.
+v07: בְּרִית (berit)
+Covenant; repeated throughout the chapter.
 
-v05: אַבְרָהָם (ʾAḇrāhām)
-“Abraham.” The name is associated with being “father of a multitude.”
-
-v06: פָּרָה (pārâ)
-“To be fruitful.” A recurring covenant word connected with multiplication and blessing.
-
-v10: מוּל (mûl)
-“To circumcise.” The act that serves as the covenant sign in Abraham’s family.
-
-v11: אוֹת (ʾôt)
-“Sign.” A visible mark that points to a covenant reality.
-
-v15: שָׂרָה (Śārâ)
-“Sarah.” Often understood as “princess” or “noble woman.”
-
-v19: יִצְחָק (Yiṣḥāq)
-“Isaac.” Meaning “he laughs” or “may he laugh.”
-
-v20: שְׁנֵים־עָשָׂר נְשִׂיאִם (šĕnêm-ʿāśār nĕśîʾîm)
-“Twelve princes.” Tribal leaders or rulers descended from Ishmael.
-
-v21: מוֹעֵד (môʿēḏ)
-“Appointed time.” A fixed time determined by God.
-
-v23: עֶצֶם הַיּוֹם הַזֶּה (ʿeṣem hayyôm hazzeh)
-“That very day.” An expression emphasizing immediacy and exactness.
+v19: יִצְחָק (Yitschaq)
+Isaac; linked with the verb laugh.

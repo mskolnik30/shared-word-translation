@@ -4,115 +4,93 @@ testament: OT
 chapter: 16
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-12-25-biblical-fluency-2026-09-10
 ---
 
-## Hagar and Ishmael
+## Sarai and Hagar
+
 <p>
-v01: Now Sarai, Abram’s wife, had borne him no children. She had an Egyptian servant whose name was Hagar.
-v02: Sarai said to Abram, “See now, the LORD has prevented me from bearing children. Go in to my servant; perhaps I will be built up through her.” And Abram listened to the voice of Sarai.
-v03: So Sarai, Abram’s wife, took Hagar the Egyptian, her servant, after Abram had dwelt ten years in the land of Canaan, and gave her to Abram her husband as a wife.
-v04: And he went in to Hagar, and she conceived. And when she saw that she had conceived, her mistress became insignificant in her eyes.
+v01: Abram's wife Sarai had borne him no children. She had an Egyptian slave woman named Hagar.
+v02: Sarai said to Abram, “The LORD has kept me from bearing children. Please have relations with my slave woman. Perhaps I can build a family through her.” Abram listened to Sarai.
 </p>
 
 <p>
-v05: Then Sarai said to Abram, “May the wrong done to me be upon you. I gave my servant into your embrace, and when she saw that she had conceived, I became insignificant in her eyes. May the LORD judge between me and you.”
-v06: Yet Abram said to Sarai, “See, your servant is in your hand. Do to her what is good in your eyes.” Then Sarai dealt harshly with her, and she fled from her.
-</p>
-
-## The Angel of the LORD and Hagar
-<p>
-v07: The angel of the LORD found her by a spring of water in the wilderness, the spring on the way to Shur.
-v08: And he said, “Hagar, servant of Sarai, where have you come from, and where are you going?” She said, “I am fleeing from my mistress Sarai.”
-v09: Then the angel of the LORD said to her, “Return to your mistress and submit yourself under her hand.”
+v03: After Abram had lived ten years in Canaan, his wife Sarai took Hagar, her Egyptian slave woman, and gave her to her husband Abram as a wife.
+v04: Abram had relations with Hagar, and she conceived. When she realized she was pregnant, she looked down on her mistress.
 </p>
 
 <p>
-v10: And the angel of the LORD said to her, “I will surely multiply your offspring so greatly that they cannot be counted for multitude.”
-v11: And the angel of the LORD said to her,
-“Look, you are pregnant
-and will bear a son,
-and you will call his name Ishmael,
+v05: Sarai said to Abram, “You are responsible for the wrong done to me! I put my slave woman in your arms, and now that she knows she is pregnant, she looks down on me. May the LORD judge between us!”
+</p>
+
+<p>
+v06: Abram answered, “Your slave woman is in your hands. Do with her as you see fit.” Sarai treated Hagar harshly, and Hagar fled from her.
+</p>
+
+## Hagar in the Wilderness
+
+<p>
+v07: The LORD's messenger found Hagar by a spring in the wilderness, the spring beside the road to Shur.
+</p>
+
+<p>
+v08: He said, “Hagar, Sarai's slave woman, where have you come from, and where are you going?” She answered, “I am fleeing from my mistress Sarai.”
+</p>
+
+<p>
+v09: The LORD's messenger told her, “Return to your mistress and submit to her authority.”
+</p>
+
+<p>
+v10: The LORD's messenger also said, “I will multiply your descendants until they are too many to count.”
+</p>
+
+<p>
+v11: Then the LORD's messenger said,
+“You are pregnant and will bear a son.
+Name him Ishmael,
 for the LORD has heard your affliction.
-v12: He will be like a wild donkey of a man,
-his hand against everyone
-and everyone’s hand against him,
-and he will dwell opposite all his kin.”
+v12: He will be a wild donkey of a man,
+his hand against everyone,
+and everyone's hand against him.
+He will live facing all his brothers.”
 </p>
 
-## Hagar Names the LORD
 <p>
-v13: So she called the name of the LORD who spoke to her, “You are El-roi,” for she said, “Have I really seen here the one who sees me?”
-v14: So the well was called Beer-lahai-roi. Look, it is between Kadesh and Bered.
+v13: Hagar named the LORD who spoke to her, “You are the God who sees me.” For she said, “Have I really seen here the one who sees me?”
+v14: That is why the well was called Beer-lahai-roi. It lies between Kadesh and Bered.
 </p>
 
-## The Birth of Ishmael
+## Ishmael’s Birth
+
 <p>
-v15: Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael.
-v16: Abram was eighty-six years old when Hagar bore Ishmael to Abram.
+v15: Hagar bore Abram a son, and Abram named the son Hagar had borne Ishmael.
+v16: Abram was eighty-six when Hagar bore him Ishmael.
 </p>
 
 ## Notes
 
-v01: Hagar is introduced primarily through her status as an Egyptian servant. The narrative highlights the social vulnerability that shapes the chapter.
+v01–06: Hagar is both Egyptian and enslaved. Sarai gives her as a wife while remaining her mistress. The account preserves these unequal relationships and does not supply Hagar’s consent. “Build a family” in v02 retains the Hebrew building image.
 
-v02: Sarai interprets her barrenness through the LORD’s action and seeks a solution through customary practices of the ancient world.
+v07–10: Malakh means messenger and is traditionally translated angel in this setting. The messenger speaks with divine first-person language. The root behind “submit” in v09 is also used for Sarai’s harsh treatment in v06. The difficult command remains part of this encounter; it is not rewritten as general advice to people suffering abuse.
 
-v02: Abram “listened to the voice of Sarai,” language that echoes earlier moments in Genesis and invites comparison.
+v11–12: Ishmael’s name is linked with God’s hearing. The wild donkey is a wilderness animal; the metaphor is not replaced with a modern insult. “Facing” can indicate location, opposition, or hostility. A related phrase returns in 25:18.
 
-v04: Conception changes the relationship between Hagar and Sarai. The conflict emerges from shifting status and perception.
-
-v05–06: No character is presented as entirely innocent. The narrative portrays a tangled situation marked by pain, blame, and power.
-
-v06: Sarai’s harsh treatment drives Hagar into the wilderness, a place that becomes the setting for divine encounter.
-
-v07: Hagar is the first person in Scripture to receive an appearance from the angel of the LORD.
-
-v08: The questions “Where have you come from?” and “Where are you going?” invite reflection rather than merely seeking information.
-
-v10: The promise concerning Hagar’s offspring parallels aspects of the promises given to Abram.
-
-v11: Ishmael’s name means “God hears,” connecting his identity to the LORD’s attention to Hagar’s suffering.
-
-v12: The description of Ishmael portrays independence, conflict, and survival rather than simple blessing or curse.
-
-v13: Hagar uniquely gives a name to God. The emphasis falls on divine sight and recognition.
-
-v15–16: Abram names the child according to the message given to Hagar, confirming the significance of her encounter.
+v13–14: The seeing language is difficult. El Roi can refer to God seeing Hagar or to Hagar seeing God; the following question is also disputed. Beer-lahai-roi combines well, living, and seeing language. The draft keeps the encounter open to further review. See the [NET translators’ notes on 16:13–14](https://www.biblegateway.com/passage/?search=Genesis+16&version=NET).
 
 ## Vocabulary
 
-v01: שִׁפְחָה (šipḥâ)
-“Servant” or “maidservant.” A female household servant of dependent social status.
+v01: שִׁפְחָה (shifchah)
+Female slave or servant; Hagar is under Sarai’s authority.
 
-v02: בָּנָה (bānâ)
-“To build.” In this context, “to be built up” refers to establishing a family through offspring.
+v06: עָנָה (anah)
+Afflict or mistreat; a related form appears in the command of v09.
 
-v04: קָלַל (qālal)
-“To become insignificant” or “be lightly regarded.” The verb describes diminished honor or esteem.
+v07: מַלְאָךְ (malakh)
+Messenger; often translated angel when sent by God.
 
-v06: עָנָה (ʿānâ)
-“To afflict,” “humble,” or “deal harshly with.” A term often associated with suffering imposed by another.
-
-v07: מַלְאַךְ יְהוָה (malʾaḵ YHWH)
-“Angel of the LORD.” A messenger who speaks and acts with divine authority.
-
-v10: רָבָה (rāḇâ)
-“To multiply.” A covenantal term associated with growth, descendants, and blessing.
-
-v11: יִשְׁמָעֵאל (Yišmāʿel)
-“Ishmael.” Meaning “God hears” or “May God hear.”
-
-v11: עֳנִי (ʿonî)
-“Affliction” or “misery.” A condition of suffering, oppression, or distress.
-
-v13: אֵל רֳאִי (ʾEl Roʾi)
-“God who sees me” or “God of seeing.” A name emphasizing divine attention and care.
-
-v14: בְּאֵר לַחַי רֹאִי (Beʾēr Laḥay Roʾi)
-“Well of the Living One who sees me.” The place name memorializes Hagar’s encounter with God.
-
-v15: בֵּן (bēn)
-“Son.” A central term in Genesis, often carrying implications of inheritance and promise.
-
-v16: יָלַד (yālaḏ)
-“To bear” or “give birth.” A recurring verb marking the continuation of family lines and covenant expectations.
+v11: יִשְׁמָעֵאל (Yishmael)
+Ishmael; a name linked with God hearing.

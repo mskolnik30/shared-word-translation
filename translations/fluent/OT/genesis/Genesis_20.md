@@ -4,107 +4,90 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-12-25-biblical-fluency-2026-09-10
 ---
 
-## Abraham and Abimelech
+## Abraham and Sarah in Gerar
+
 <p>
-v01: From there Abraham journeyed toward the region of the Negev and settled between Kadesh and Shur. And he sojourned in Gerar.
-v02: Abraham said of Sarah his wife, “She is my sister.” So Abimelech king of Gerar sent and took Sarah.
+v01: Abraham moved from there into the Negev and settled between Kadesh and Shur. He lived for a time in Gerar.
+v02: Abraham said of his wife Sarah, “She is my sister.” Abimelech king of Gerar sent for Sarah and took her.
 </p>
 
 <p>
-v03: Yet God came to Abimelech in a dream by night and said to him, “Look, you are a dead man because of the woman whom you have taken, for she is a married woman.”
-v04: Now Abimelech had not approached her. So he said, “Lord, will you kill an innocent nation?
-v05: Did he not himself say to me, ‘She is my sister’? And she herself said, ‘He is my brother.’ In the integrity of my heart and the innocence of my hands I have done this.”
-v06: Then God said to him in the dream, “Yes, I know that you have done this in the integrity of your heart, and it was I who kept you from sinning against me. Therefore I did not let you touch her.
-v07: Now then, return the man’s wife, for he is a prophet, and he will pray for you, and you will live. But if you do not return her, know that you will surely die, you and everyone who are yours.”
+v03: But God came to Abimelech in a dream that night and said, “You are a dead man because of the woman you have taken. She is married.”
+</p>
+
+<p>
+v04: Abimelech had not approached her. He said, “Lord, will you kill even a righteous nation?
+v05: Did he not tell me, ‘She is my sister’? And she herself said, ‘He is my brother.’ I did this with an honest heart and innocent hands.”
+</p>
+
+<p>
+v06: God answered him in the dream, “Yes, I know you did this with an honest heart. I also kept you from sinning against me; that is why I did not let you touch her.
+</p>
+
+<p>
+v07: Now return the man's wife. He is a prophet, and he will pray for you so that you may live. But if you do not return her, know that you will certainly die—you and everyone belonging to you.”
 </p>
 
 ## Abimelech Confronts Abraham
+
 <p>
-v08: So Abimelech rose early in the morning and called all his servants and told them all these things. And the men were greatly afraid.
-v09: Then Abimelech called Abraham and said to him, “What have you done to us? And how have I sinned against you, that you have brought upon me and upon my kingdom a great sin? You have done to me things that ought not to be done.”
-v10: Abimelech said to Abraham, “What did you see that led you to do this thing?”
+v08: Abimelech rose early, summoned all his servants, and told them everything. The men were very afraid.
 </p>
 
 <p>
-v11: Abraham said, “Because I thought, ‘Surely there is no fear of God in this place, and they will kill me because of my wife.’
-v12: Besides, she is indeed my sister, the daughter of my father though not the daughter of my mother, and she became my wife.
-v13: And when God caused me to wander from my father’s house, I said to her, ‘This is the kindness you will show me: at every place to which we come, say of me, “He is my brother.”’”
-</p>
-
-## Sarah Restored
-<p>
-v14: Then Abimelech took sheep and cattle and male servants and female servants and gave them to Abraham, and returned Sarah his wife to him.
-v15: Abimelech said, “Look, my land is before you. Dwell where it is good in your eyes.”
-v16: And to Sarah he said, “Look, I have given your brother a thousand pieces of silver. It is a vindication before everyone who are with you and before everyone. You are completely vindicated.”
+v09: Then Abimelech summoned Abraham. “What have you done to us?” he asked. “How have I wronged you, that you have brought such great sin on me and my kingdom? You have done things to me that should never be done.”
 </p>
 
 <p>
-v17: Then Abraham prayed to God, and God healed Abimelech, and also his wife and his female servants, so that they bore children.
-v18: For the LORD had completely closed every womb of the house of Abimelech because of Sarah, Abraham’s wife.
+v10: Abimelech asked Abraham, “What did you have in mind when you did this?”
+</p>
+
+<p>
+v11: Abraham answered, “I thought, ‘There is surely no fear of God in this place. They will kill me because of my wife.’
+v12: Besides, she really is my sister, my father's daughter but not my mother's, and she became my wife.
+v13: When God made me wander from my father's household, I said to her, ‘Show me this kindness: wherever we go, say that I am your brother.’”
+</p>
+
+<p>
+v14: Abimelech gave Abraham flocks, cattle, and male and female slaves, and returned his wife Sarah to him.
+</p>
+
+<p>
+v15: Abimelech said, “My land is before you. Settle wherever you see fit.”
+</p>
+
+<p>
+v16: To Sarah he said, “I have given your brother a thousand pieces of silver. This clears your name before everyone with you; you are vindicated before all.”
+</p>
+
+<p>
+v17: Abraham prayed to God, and God healed Abimelech, his wife, and his slave women, so that they could bear children.
+v18: For the LORD had closed every womb in Abimelech's household because of Sarah, Abraham's wife.
 </p>
 
 ## Notes
 
-v01–02: Abraham repeats a strategy previously used in Egypt. The narrative intentionally recalls earlier events while placing them in a new setting.
+v02–07: Abraham’s sister claim echoes chapter 12, but the account has its own details. Abimelech has not approached Sarah. Abraham is called a prophet and is to pray; the text does not remove the king’s accusation against him.
 
-v03: God intervenes before any violation occurs. The protection of Sarah is presented as divine action rather than human foresight.
+v11–13: The absence of fear of God is Abraham’s assumption. His explanation of Sarah’s kinship remains his speech. In v13 Elohim is accompanied by a plural verb; the draft retains the customary God reading without erasing the grammatical difficulty from review.
 
-v04–05: Abimelech appeals to innocence and integrity. The text portrays him as acting on the basis of the information he was given.
+v16: The silver is described through a difficult eye-covering idiom. “Clears your name” follows a vindication reading; the final clause can also be understood in terms of correction or rebuke. The number is a thousand, without specifying coined money. See the [NET translators’ note on 20:16](https://www.biblegateway.com/passage/?search=Genesis+20&version=NET).
 
-v06: God acknowledges Abimelech’s integrity while also asserting divine sovereignty over the situation.
-
-v07: Abraham is called a prophet for the first time in Scripture. His role includes intercession on behalf of others.
-
-v08–10: Abimelech’s rebuke exposes the danger created by Abraham’s deception.
-
-v11: Abraham’s explanation reveals fear and mistrust despite the promises he has received.
-
-v12: The statement concerning Sarah’s family relationship explains how Abraham’s claim contains an element of truth.
-
-v13: The arrangement between Abraham and Sarah appears to have been longstanding rather than improvised.
-
-v14–16: Abimelech restores Sarah publicly and provides compensation, emphasizing her innocence before all observers.
-
-v16: The language of vindication concerns public honor and the removal of suspicion.
-
-v17–18: The chapter closes with prayer, healing, and restored fertility, preparing for the birth narrative that follows.
+v17–18: The healing involves Abimelech, his wife, and his slave women. The text connects the household’s closed wombs with Sarah’s presence but does not provide a medical diagnosis or exact duration.
 
 ## Vocabulary
 
-v01: גּוּר (gûr)
-“To sojourn.” To reside as a foreigner or temporary inhabitant in a land.
+v05: תֹּם (tom)
+Integrity or innocence; here an honest heart.
 
-v03: חָלוֹם (ḥālôm)
-“Dream.” A common means of divine communication in Genesis.
+v07: נָבִיא (navi)
+Prophet; Abraham is identified this way in connection with prayer.
 
-v05: תֹּם (tōm)
-“Integrity.” Wholeness, sincerity, or innocence of heart.
-
-v06: חָשַׂךְ (ḥāśaḵ)
-“To withhold” or “restrain.” God prevents Abimelech from acting.
-
-v07: נָבִיא (nāḇîʾ)
-“Prophet.” One who speaks or acts under divine commission.
-
-v07: פָּלַל (pālal)
-“To pray” or “intercede.” Prayer offered on behalf of another.
-
-v11: יִרְאַת אֱלֹהִים (yirʾat ʾĕlōhîm)
-“Fear of God.” Reverence and recognition of divine authority.
-
-v13: חֶסֶד (ḥeseḏ)
-“Kindness” or “steadfast loyalty.” Faithful action within a relationship.
-
-v16: כְּסוּת עֵינַיִם (kĕsût ʿênayim)
-“Covering of the eyes.” A difficult expression associated with public vindication or restoration of honor.
-
-v17: רָפָא (rāp̄āʾ)
-“To heal.” Restoration from affliction or impairment.
-
-v18: עָצַר (ʿāṣar)
-“To shut up” or “close.” Used here of wombs being prevented from bearing children.
-
-v18: רֶחֶם (reḥem)
-“Womb.” The source of birth and a recurring image in narratives concerning fertility and promise.
+v13: חֶסֶד (chesed)
+Kindness or loyal care; used here within Abraham’s request.

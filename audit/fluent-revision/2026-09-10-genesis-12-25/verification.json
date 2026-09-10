@@ -1,0 +1,15 @@
+{
+  "status": "PASSED",
+  "checks": {
+    "source_identity_coverage_bindings_and_format": true,
+    "targeted_source_number_transcriptions": true,
+    "names_in_long_lists": true,
+    "repeated_together_phrase": true,
+    "abraham_and_sarah_laughter_retained": true,
+    "unspecified_laughter_21_9": true,
+    "rebekah_answer_retained": true,
+    "tsw_unchanged": true,
+    "earlier_and_later_genesis_chapters_unchanged": true
+  },
+  "scope": "Integrity and targeted transcription checks; not independent human editorial approval or reader testing."
+}

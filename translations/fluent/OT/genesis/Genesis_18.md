@@ -4,132 +4,147 @@ testament: OT
 chapter: 18
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-12-25-biblical-fluency-2026-09-10
 ---
 
-## The LORD Appears to Abraham
+## Visitors at Mamre
 
 <p>
-v01: And the LORD appeared to him by the oaks of Mamre, as he was sitting at the entrance of the tent in the heat of the day.
-
-v02: He lifted up his eyes and saw, and look, three men were standing before him. When he saw them, he ran from the entrance of the tent to meet them and bowed himself to the earth,
-
-v03: and said, “My lord, if I have found favor in your eyes, do not pass by your servant.
-
-v04: Let a little water be brought, and wash your feet, and rest yourselves under the tree,
-
-v05: and I will bring a morsel of bread, that you may refresh your hearts; after that you may pass on—since you have come to your servant.” So they said, “Do as you have said.”
-
-v06: Abraham hurried into the tent to Sarah and said, “Quick! Three seahs of fine flour—knead it and make cakes.”
-
-v07: Abraham ran to the herd and took a calf, tender and good, and gave it to a servant, who hurried to prepare it.
-
-v08: Then he took curds and milk and the calf that he had prepared, and set it before them. And he stood by them under the tree while they ate.
+v01: The LORD appeared to Abraham by the oaks of Mamre while he sat at his tent's entrance in the heat of the day.
+v02: He looked up and saw three men standing nearby. As soon as he saw them, he ran from the tent's entrance to meet them and bowed to the ground.
 </p>
 
-## Promise of a Son
-
 <p>
-v09: They said to him, “Where is Sarah your wife?” And he said, “There, in the tent.”
-
-v10: And he said, “I will surely return to you about this time next year, and look, Sarah your wife will have a son.” And Sarah was listening at the entrance of the tent behind him.
-
-v11: Now Abraham and Sarah were old, advanced in days; the way of women had ceased to be with Sarah.
-
-v12: So Sarah laughed within herself, saying, “After I am worn out, and my lord is old, will I have pleasure?”
-
-v13: The LORD said to Abraham, “Why did Sarah laugh and say, ‘Will I indeed bear a child, now that I am old?’
-
-v14: Is anything too wonderful for the LORD? At the appointed time I will return to you, about this time next year, and Sarah will have a son.”
-
-v15: Yet Sarah denied it, saying, “I did not laugh,” for she was afraid. He said, “No, but you did laugh.”
+v03: He said, “My Lord, if I have found favor with you, please do not pass your servant by.
+v04: Let some water be brought so you can wash your feet and rest under the tree.
+v05: Let me bring a little bread to restore your strength. Then you can go on your way, now that you have come to your servant.” They answered, “Do as you have said.”
 </p>
 
-## Abraham Intercedes for Sodom
+<p>
+v06: Abraham hurried into the tent to Sarah. “Quick,” he said, “knead three seahs of fine flour and make cakes.”
+</p>
 
 <p>
-v16: Then the men set out from there, and they looked down toward Sodom, and Abraham went with them to send them on their way.
+v07: Then Abraham ran to the herd, chose a tender, good calf, and gave it to a servant, who hurried to prepare it.
+</p>
 
-v17: The LORD said, “Will I hide from Abraham what I am about to do,
+<p>
+v08: He took curds, milk, and the calf that had been prepared and set the food before them. While they ate, he stood beside them under the tree.
+</p>
 
-v18: since Abraham will surely become a great and mighty nation, and all the nations of the earth will be blessed in him?
+## Sarah Hears the Promise
 
-v19: For I have known him, that he may command his children and his household after him to keep the way of the LORD, to do righteousness and justice, so that the LORD may bring upon Abraham what he has spoken concerning him.”
+<p>
+v09: They asked him, “Where is your wife Sarah?” “There, in the tent,” he answered.
+</p>
 
-v20: Then the LORD said, “Because the outcry against Sodom and Gomorrah is great and their sin is very heavy,
+<p>
+v10: Then one said, “I will certainly return to you at this time next year, and your wife Sarah will have a son.” Sarah was listening at the tent's entrance behind him.
+</p>
 
-v21: I will go down to see whether they have done altogether according to the outcry that has come to me. And if not, I will know.”
+<p>
+v11: Abraham and Sarah were old, advanced in years, and Sarah had stopped having menstrual periods.
+</p>
 
-v22: So the men turned from there and went toward Sodom, but Abraham still stood before the LORD.
+<p>
+v12: Sarah laughed to herself. “After I have worn out, am I to have pleasure?” she thought. “And my lord is old too.”
+</p>
 
-v23: Then Abraham drew near and said, “Will you indeed sweep away the righteous with the wicked?
+<p>
+v13: The LORD asked Abraham, “Why did Sarah laugh and say, ‘Will I really bear a child now that I am old?’
+v14: Is anything too extraordinary for the LORD? At the appointed time, this time next year, I will return to you, and Sarah will have a son.”
+</p>
 
-v24: Suppose there are fifty righteous within the city—will you then sweep away the place and not spare it for the fifty righteous who are in it?
+<p>
+v15: Sarah denied it: “I did not laugh.” She was afraid. But he said, “Yes, you did laugh.”
+</p>
 
-v25: Far be it from you to do such a thing, to put the righteous to death with the wicked, so that the righteous fare as the wicked! Far be it from you! Will not the Judge of all the earth do what is just?”
+## The Outcry from Sodom
 
-v26: And the LORD said, “If I find at Sodom fifty righteous in the city, I will spare the whole place for their sake.”
+<p>
+v16: The men got up to leave and looked toward Sodom. Abraham walked with them to see them on their way.
+</p>
 
-v27: Abraham answered and said, “Look, I have undertaken to speak to the Lord, I who am dust and ashes.
+<p>
+v17: The LORD said, “Should I hide from Abraham what I am about to do?
+v18: Abraham will surely become a great and powerful nation, and all the nations of the earth will be blessed through him.
+v19: I have known him so that he will direct his children and his household after him to keep the LORD's way by doing righteousness and justice. Then the LORD will bring about for Abraham what he has promised him.”
+</p>
 
-v28: Suppose five of the fifty righteous are lacking—will you destroy the whole city for lack of five?” And he said, “I will not destroy it if I find forty-five there.”
+<p>
+v20: The LORD said, “The outcry against Sodom and Gomorrah is great, and their sin is very grave.
+v21: I will go down and see whether they have acted as badly as the outcry reaching me says. If not, I will know.”
+</p>
 
-v29: Again he spoke to him and said, “Suppose forty are found there.” He answered, “For the sake of forty I will not do it.”
+<p>
+v22: The men turned away and went toward Sodom, but Abraham remained standing before the LORD.
+</p>
 
-v30: Then he said, “Oh let not the Lord be angry, and I will speak. Suppose thirty are found there.” He answered, “I will not do it, if I find thirty there.”
+## Abraham Pleads for the City
 
-v31: He said, “Look, I have undertaken to speak to the Lord. Suppose twenty are found there.” He answered, “For the sake of twenty I will not destroy it.”
+<p>
+v23: Abraham came closer and said, “Will you really sweep away the righteous with the wicked?
+</p>
 
-v32: Then he said, “Oh let not the Lord be angry, and I will speak again but this once. Suppose ten are found there.” He answered, “For the sake of ten I will not destroy it.”
+<p>
+v24: What if there are fifty righteous people in the city? Will you sweep it away and not spare the place for the sake of those fifty?
+v25: Far be it from you to do such a thing—to kill the righteous with the wicked, treating them alike. Far be it from you! Will the Judge of all the earth not do justice?”
+</p>
 
-v33: And the LORD went his way, when he had finished speaking to Abraham, and Abraham returned to his place.
+<p>
+v26: The LORD answered, “If I find fifty righteous people in Sodom, I will spare the whole place for their sake.”
+</p>
+
+<p>
+v27: Abraham replied, “I have dared to speak to my Lord, though I am dust and ashes.
+v28: What if the fifty righteous people are five short? Will you destroy the whole city because of five?” God answered, “I will not destroy it if I find forty-five there.”
+</p>
+
+<p>
+v29: Abraham spoke again: “What if forty are found there?” God answered, “For the sake of forty, I will not do it.”
+</p>
+
+<p>
+v30: “Please do not be angry, my Lord,” Abraham said, “but let me speak. What if thirty are found there?” God answered, “I will not do it if I find thirty there.”
+</p>
+
+<p>
+v31: Abraham said, “I have dared to speak to my Lord. What if twenty are found there?” God answered, “For the sake of twenty, I will not destroy it.”
+</p>
+
+<p>
+v32: “Please do not be angry, my Lord,” Abraham said, “but let me speak just once more. What if ten are found there?” God answered, “For the sake of ten, I will not destroy it.”
+</p>
+
+<p>
+v33: When the LORD finished speaking with Abraham, the LORD went away, and Abraham returned to his place.
 </p>
 
 ## Notes
 
-v01–02: The appearance of the LORD is narrated through human figures, holding together divine presence and embodied encounter.
+v01–10: The account moves among the LORD, three men, plural address, and a singular speaker. The translation preserves those shifts. “My Lord” in v03 follows the Hebrew pointing; a respectful address to a visitor is another reading.
 
-v10: “I will surely return” signals covenant fidelity; the promise is anchored in divine timing, not human capacity.
+v06–08: A seah is a dry measure. The three seahs are retained rather than converted into an exact modern quantity. Sarah and a servant share in preparing the substantial meal.
 
-v14: The rhetorical question frames the theology of the narrative: nothing is beyond the LORD’s power.
+v10–15: The time expression is read as this time next year. Sarah’s reference to pleasure is retained. The word behind “too extraordinary” can suggest something wonderful or beyond ordinary possibility. Her laughter follows Abraham’s in 17:17.
 
-v20–21: “Outcry” evokes legal language; the LORD investigates as a just judge, not acting arbitrarily.
+v19–25: “Known” can carry a relationship of choice and recognition. Righteousness and justice describe the LORD’s way and then become the terms of Abraham’s challenge. The outcry is not replaced with a supplied list of offenses.
 
-v23–32: Abraham’s intercession models covenant boldness—persistent, reverent negotiation grounded in divine justice.
-
-v25: “Judge of all the earth” universalizes the LORD’s authority beyond Israel.
+v22–33: The Hebrew text used here has Abraham standing before the LORD. Each number in the exchange is preserved, including the five-person difference between fifty and forty-five. The final request concerns ten, without an added further negotiation.
 
 ## Vocabulary
 
-v01: רָאָה (rāʾāh)
-“To see.” Used for perception, often marking significant encounter or divine appearance.
+v06: סְאָה (seah)
+An ancient dry measure.
 
-v03: חֵן (ḥēn)
-“Favor, grace.” Acceptance granted within a relational context.
+v12: צָחַק (tsachaq)
+Laugh; linked to Isaac’s name and repeated in chapters 17–21.
 
-v09: אָשָּׁה (ʾiššāh)
-“Woman, wife.” Context determines nuance between role and identity.
+v19: מִשְׁפָּט (mishpat)
+Justice or judgment; also used in the challenge of v25.
 
-v12: צָחַק (ṣāḥaq)
-“To laugh.” Can express joy, disbelief, or irony.
-“To laugh.” Can express joy, disbelief, or irony.
-
-v14: פָּלָא (pālāʾ)
-“To be wonderful, extraordinary.” Refers to acts beyond human capability.
-
-v19: דֶּרֶךְ (derek)
-“Way, path.” Often used for moral or covenantal conduct.
-
-v19: צְדָקָה (ṣĕdāqāh)
-“Righteousness.” Right relationship expressed in action.
-
-v19: מִשְׁפָּט (mišpāṭ)
-“Justice.” Legal and ethical order upheld in community.
-
-v20: זְעָקָה (zeʿāqāh)
-“Outcry.” A cry of distress that demands response.
-
-v25: שָׁפַט (šāphaṭ)
-“To judge.” To govern or render justice.
-
-v27: עָפָר (ʿāp̄ār)
-“Dust.” Symbol of human frailty and mortality.
+v20: זְעָקָה (zeaqah)
+Outcry; a cry that calls attention to distress or wrongdoing.

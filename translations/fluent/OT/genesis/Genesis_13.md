@@ -4,104 +4,78 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-12-25-biblical-fluency-2026-09-10
 ---
 
+## Returning to the Land
+
+<p>
+v01: Abram went up from Egypt to the Negev with his wife and everything he had. Lot went with him.
+v02: Abram was very wealthy in livestock, silver, and gold.
+</p>
+
+<p>
+v03: He traveled in stages from the Negev to Bethel, back to the place between Bethel and Ai where he had first pitched his tent,
+v04: where he had built the altar before. There Abram called on the LORD's name.
+</p>
+
 ## Abram and Lot Separate
+
 <p>
-v01: So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, into the Negev.
-v02: Now Abram was very rich in livestock, in silver, and in gold.
-v03: And he journeyed by stages from the Negev as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,
-v04: to the place of the altar that he had made there at first. And there Abram called upon the name of the LORD.
+v05: Lot, who traveled with Abram, also had flocks, herds, and tents.
+v06: The land could not support them living together. Their possessions were so great that they could no longer stay together.
+v07: Quarrels broke out between Abram's herders and Lot's herders. The Canaanites and Perizzites were also living in the land then.
 </p>
 
 <p>
-v05: Lot, who went with Abram, also had flocks and herds and tents,
-v06: so that the land could not support both of them dwelling together, for their possessions were so great that they could not dwell together.
-v07: And there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. At that time the Canaanites and the Perizzites were dwelling in the land.
+v08: Abram said to Lot, “Please, let there be no quarrel between us or between our herders. We are family.
+v09: The whole land is before you. Please separate from me. If you go left, I will go right; if you go right, I will go left.”
 </p>
 
 <p>
-v08: Then Abram said to Lot, “Let there be no strife between me and you, and between my herdsmen and your herdsmen, for we are kin.
-v09: Is not the whole land before you? Separate yourself from me. If you go to the left, then I will go to the right; or if you go to the right, then I will go to the left.”
+v10: Lot looked out over the whole Jordan plain. It was well watered all the way to Zoar, like the LORD's garden, like the land of Egypt. This was before the LORD destroyed Sodom and Gomorrah.
+v11: Lot chose the whole Jordan plain for himself and traveled east. So the two separated.
 </p>
 
 <p>
-v10: Lot lifted up his eyes and saw that the whole plain of the Jordan was well watered everywhere—before the LORD destroyed Sodom and Gomorrah—like the garden of the LORD, like the land of Egypt, in the direction of Zoar.
-v11: So Lot chose for himself all the plain of the Jordan, and Lot journeyed eastward. Thus they separated from one another.
-v12: Abram settled in the land of Canaan, while Lot settled among the cities of the plain and moved his tent as far as Sodom.
-v13: Now the people of Sodom were exceedingly wicked, sinners against the LORD.
+v12: Abram settled in Canaan, while Lot settled among the towns of the plain and pitched his tents as far as Sodom.
+v13: The people of Sodom were wicked and sinned greatly against the LORD.
 </p>
 
-## The LORD Renews the Promise
+## The Land and the Descendants
+
 <p>
-v14: The LORD said to Abram, after Lot had separated from him, “Lift up your eyes and look from the place where you are, northward and southward and eastward and westward,
-v15: for all the land that you see I will give to you and to your offspring forever.
-v16: I will make your offspring like the dust of the earth, so that if one could count the dust of the earth, then your offspring also could be counted.
-v17: Rise, walk through the length and the breadth of the land, for I will give it to you.”
+v14: After Lot had separated from Abram, the LORD said to Abram, “Look from where you are: north, south, east, and west.
+v15: All the land you see I will give to you and your descendants forever.
 </p>
 
 <p>
-v18: So Abram moved his tent and came and settled by the oaks of Mamre, which are at Hebron, and there he built an altar to the LORD.
+v16: I will make your descendants like the dust of the earth. Only if someone could count the earth's dust could your descendants be counted.
+v17: Get up and walk through the land, its length and its breadth, because I will give it to you.”
+</p>
+
+<p>
+v18: Abram moved his tents and settled by the oaks of Mamre at Hebron. There he built an altar to the LORD.
 </p>
 
 ## Notes
 
-v01–04: Abram returns to the place of earlier worship. The movement back to the altar signals continuity despite the events in Egypt.
+v03–07: The return to the earlier tent and altar reconnects this scene with 12:8. The repeated inability to live together prepares the separation. Other inhabitants of the land remain part of the account.
 
-v02: Abram’s wealth is stated plainly. Material prosperity is presented as a reality of the narrative without being identified as its central concern.
+v08–11: “Family” renders brothers in its broader kinship sense: Abram is Lot’s uncle. The eastward phrase in v11 can also be read as movement from the east. The Hebrew left/right terms in v09 are retained without imposing compass directions.
 
-v05–07: The conflict arises not from hostility between Abram and Lot but from the practical pressures created by abundance.
-
-v08–09: Abram yields the first choice to Lot. The promise of land allows Abram to act with generosity rather than anxiety.
-
-v10: The description of the Jordan plain evokes Eden. The note about Sodom’s future destruction introduces tension into Lot’s seemingly favorable choice.
-
-v11: Lot chooses according to what he sees. The narrative contrasts visible abundance with realities not yet apparent.
-
-v12–13: Lot’s movement toward Sodom is gradual. The text links geographical proximity with moral danger before any direct involvement is described.
-
-v14–17: After the separation, the LORD expands the promise. What Abram surrendered voluntarily is reaffirmed by divine gift.
-
-v16: The image of dust recalls humanity’s origin from the ground while emphasizing the countless nature of Abram’s future descendants.
-
-v17: Walking through the land functions as a symbolic act of receiving what God has promised.
-
-v18: The chapter closes with worship. Abram responds to promise not by possession but by building an altar.
+v14–18: The land promise follows Lot’s departure. The descendants-as-dust comparison concerns their number. “Forever” retains the enduring force of the promise without adding a modern political identification.
 
 ## Vocabulary
 
-v03: מַסָּע (massaʿ)
-“Journey” or “stage of travel.” Refers to movement from place to place in successive stages.
+v08: אָח (ach)
+Brother or relative; context determines the relationship.
 
-v04: קָרָא בְּשֵׁם יְהוָה (qārāʾ bĕšēm YHWH)
-“To call upon the name of the LORD.” A phrase associated with worship, invocation, and public devotion.
+v16: עָפָר (afar)
+Dust; here an image of descendants too numerous to count.
 
-v07: רִיב (rîḇ)
-“Strife,” “dispute,” or “contention.” Often describes conflict requiring resolution.
-
-v08: אַחִים (ʾaḥîm)
-“Brothers” or “kinsmen.” Abram appeals to family relationship as the basis for peace.
-
-v10: כִּכָּר (kikkār)
-“Plain” or “circle.” Refers to the fertile Jordan valley region.
-
-v10: גַּן־יְהוָה (gan-YHWH)
-“Garden of the LORD.” An expression recalling the abundance and beauty of Eden.
-
-v13: רָשָׁע (rāšāʿ)
-“Wicked.” Describes conduct opposed to God’s ways and purposes.
-
-v15: זֶרַע (zeraʿ)
-“Offspring” or “seed.” A key covenant term carrying both individual and collective significance.
-
-v16: עָפָר (ʿāp̄ār)
-“Dust.” A symbol of mortality, humility, and innumerable abundance.
-
-v17: קוּם (qûm)
-“Rise” or “get up.” Often marks the beginning of significant action.
-
-v18: אֵלוֹן (ʾēlôn)
-“Oak” or “great tree.” Frequently associated with notable locations and acts of worship.
-
-v18: מִזְבֵּחַ (mizbēaḥ)
-“Altar.” A place of sacrifice and encounter with God.
+v17: הִתְהַלֵּךְ (hithallekh)
+Walk about; here through the land.

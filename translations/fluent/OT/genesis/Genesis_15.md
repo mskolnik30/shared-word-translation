@@ -4,109 +4,92 @@ testament: OT
 chapter: 15
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-12-25-biblical-fluency-2026-09-10
 ---
 
-## The LORD’s Covenant with Abram
+## Descendants beyond Counting
+
 <p>
-v01: After these things the word of the LORD came to Abram in a vision, saying, “Do not fear, Abram. I am your shield; your reward will be very great.”
-v02: Yet Abram said, “Lord GOD, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?”
-v03: Abram said, “See, you have given me no offspring, and a member of my household will be my heir.”
+v01: After these events, the LORD's word came to Abram in a vision: “Do not be afraid, Abram. I am your shield. Your reward will be very great.”
 </p>
 
 <p>
-v04: Then look, the word of the LORD came to him: “This one will not be your heir; rather, one who comes from your own body will be your heir.”
-v05: And he brought him outside and said, “Look toward heaven and count the stars, if you can count them.” Then he said to him, “So will your offspring be.”
-v06: And he trusted in the LORD, and he counted it to him as righteousness.
+v02: Abram said, “Lord GOD, what can you give me? I remain childless, and the heir of my household is Eliezer of Damascus.”
+v03: Abram continued, “You have given me no descendants, so a member of my household will inherit from me.”
 </p>
 
 <p>
-v07: Then he said to him, “I am the LORD who brought you out from Ur of the Chaldeans to give you this land to possess.”
-v08: But he said, “Lord GOD, how will I know that I will possess it?”
-</p>
-
-## The Covenant Ceremony
-<p>
-v09: He said to him, “Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.”
-v10: And he brought him all these, cut them in two, and laid each half opposite the other; but the birds he did not cut in two.
-v11: And birds of prey came down upon the carcasses, but Abram drove them away.
+v04: Then the LORD's word came to him: “This man will not be your heir. Someone born from your own body will inherit from you.”
+v05: God brought him outside and said, “Look up at the sky and count the stars, if you can.” Then God said, “That is how your descendants will be.”
 </p>
 
 <p>
-v12: As the sun was going down, a deep sleep fell upon Abram. And look, dreadful and great darkness fell upon him.
-v13: Then the LORD said to Abram, “Know for certain that your offspring will be sojourners in a land that is not theirs, and they will be enslaved and oppressed four hundred years.
-v14: Yet I will judge the nation that they serve, and afterward they will come out with great possessions.
-v15: As for you, you will go to your ancestors in peace; you will be buried in a good old age.
-v16: And they will return here in the fourth generation, for the iniquity of the Amorites is not yet complete.”
+v06: Abram trusted the LORD, and the LORD counted it to him as righteousness.
+</p>
+
+## The Covenant and the Land
+
+<p>
+v07: God said to him, “I am the LORD, who brought you out of Ur of the Chaldeans to give you this land to possess.”
 </p>
 
 <p>
-v17: When the sun had gone down and it was dark, look, a smoking fire pot and a flaming torch passed between these pieces.
-v18: On that day the LORD made a covenant with Abram, saying, “To your offspring I give this land, from the river of Egypt to the great river, the River Euphrates,
-v19: the land of the Kenites, the Kenizzites, the Kadmonites,
-v20: the Hittites, the Perizzites, the Rephaim,
-v21: the Amorites, the Canaanites, the Girgashites, and the Jebusites.”
+v08: Abram asked, “Lord GOD, how can I know that I will possess it?”
+</p>
+
+<p>
+v09: God said, “Bring me a three-year-old heifer, a three-year-old female goat, a three-year-old ram, a turtledove, and a young pigeon.”
+v10: Abram brought all these, cut the animals in two, and placed each half opposite the other. He did not cut the birds in two.
+v11: Birds of prey swooped down on the carcasses, and Abram drove them away.
+</p>
+
+<p>
+v12: As the sun was going down, Abram fell into a deep sleep, and a great, dark terror fell over him.
+</p>
+
+<p>
+v13: God said to Abram, “Know this for certain: your descendants will live as strangers in a land that is not theirs. They will be enslaved and oppressed for four hundred years.
+v14: But I will judge the nation they serve, and afterward they will leave with great possessions.
+v15: You yourself will go to your ancestors in peace and be buried at a good old age.
+v16: In the fourth generation they will return here, because the Amorites' wrongdoing has not yet reached its full measure.”
+</p>
+
+<p>
+v17: When the sun had set and darkness had come, a smoking firepot and a flaming torch passed between the pieces.
+</p>
+
+<p>
+v18: That day the LORD made a covenant with Abram: “To your descendants I have given this land, from the river of Egypt to the great river, the Euphrates:
+v19: the land of the Kenites, Kenizzites, Kadmonites,
+v20: Hittites, Perizzites, Rephaim,
+v21: Amorites, Canaanites, Girgashites, and Jebusites.”
 </p>
 
 ## Notes
 
-v01: The promise begins with reassurance. God presents himself as Abram’s protection before speaking of reward.
+v01–04: Shield remains a protective image. The reward clause may also describe God as Abram’s reward. The wording about Eliezer’s household position is difficult; “heir” follows the inheritance concern of vv03–04.
 
-v02–03: Abram’s question arises from the tension between divine promise and present reality. The promised offspring has not yet appeared.
+v05–06: Trust and righteousness remain distinct terms. The Hebrew leaves the subject of “counted” and the recipient unnamed. The draft follows the reading that the LORD counts Abram’s trust as righteousness; the reversed assignment has also been proposed.
 
-v05: The stars become a visible sign of an otherwise invisible future.
+v09–12: The three mammals are described with a term conventionally read as three years old. The birds are not divided. Deep sleep and fearful darkness are retained without adding an explanation of Abram’s inner state.
 
-v06: Abram’s trust is counted as righteousness. The verse emphasizes reliance upon God rather than personal achievement.
+v13–16: Four hundred years and the fourth generation are both preserved. The first duration’s relation to residence, enslavement, and oppression is not resolved by a supplied chronology.
 
-v07–08: Abram responds to the promise of land with a request for assurance. His question is not condemned but answered.
-
-v09–10: The covenant ceremony reflects ancient practices associated with solemn agreements and binding commitments.
-
-v12: The deep sleep recalls earlier moments of divine action in Genesis. Abram becomes a recipient rather than an actor in what follows.
-
-v13–16: The promise includes both suffering and deliverance. Future blessing is not separated from a long period of affliction.
-
-v16: The delay is connected to the unfinished iniquity of the Amorites. Divine judgment is portrayed as patient rather than arbitrary.
-
-v17: Only the smoking fire pot and flaming torch pass between the pieces. The covenant is established through God's action.
-
-v18: The covenant promise now includes defined territorial boundaries in addition to descendants.
-
-v19–21: The list of peoples emphasizes that the promised land is already inhabited and that its future possession lies in God's purposes rather than Abram's power.
+v17–21: Making a covenant is literally cutting a covenant, beside the account of divided animals. The smoking firepot and torch pass between the pieces; Abram is not said to do so. The river of Egypt is not replaced by a more specific watercourse in the translation.
 
 ## Vocabulary
 
-v01: מָגֵן (māgēn)
-“Shield.” A symbol of protection, defense, and security.
+v01: מָגֵן (magen)
+Shield.
 
-v01: שָׂכָר (śākār)
-“Reward” or “wages.” Compensation, benefit, or recompense received.
+v06: הֶאֱמִין (heemin)
+Trust or believe; here directed toward the LORD.
 
-v03: יוֹרֵשׁ (yôrēš)
-“Heir.” One who receives inheritance or succession rights.
+v06: צְדָקָה (tsedaqah)
+Righteousness; rightness within a relationship or obligation, with context shaping the sense.
 
-v05: זֶרַע (zeraʿ)
-“Offspring” or “seed.” A key covenant term that can refer to a descendant or a multitude of descendants.
-
-v06: אָמַן (ʾāman)
-“To trust,” “believe,” or “rely upon.” The root conveys firmness and confidence.
-
-v06: צְדָקָה (ṣĕdāqâ)
-“Righteousness.” Right standing, faithfulness, or conformity to what is just.
-
-v12: תַּרְדֵּמָה (tardēmâ)
-“Deep sleep.” A divinely induced state associated with significant revelation.
-
-v13: גּוּר (gûr)
-“To sojourn.” To reside as a foreigner or temporary resident.
-
-v16: עָוֹן (ʿāwōn)
-“Iniquity.” Guilt, wrongdoing, or its resulting burden.
-
-v18: בְּרִית (bĕrît)
-“Covenant.” A binding relationship established through solemn commitment.
-
-v18: נָתַן (nāṯan)
-“To give.” The repeated covenant verb emphasizing divine initiative and gift.
-
-v18: נָהָר (nāhār)
-“River.” Used here of major geographical boundaries that define the promised land.
+v18: כָּרַת בְּרִית (karat berit)
+Make a covenant; literally cut a covenant.

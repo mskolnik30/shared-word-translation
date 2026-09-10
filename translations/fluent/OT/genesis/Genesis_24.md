@@ -4,240 +4,275 @@ testament: OT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-12-25-biblical-fluency-2026-09-10
 ---
 
-## A Wife for Isaac
+## An Oath and a Journey
 
 <p>
-v01: Now Abraham was old, advanced in days, and the LORD had blessed Abraham in everything.
-
-v02: Abraham said to his servant, the oldest of his household, who had charge of all that he had, “Place your hand under my thigh,
-
-v03: that I may make you swear by the LORD, the God of heaven and God of the earth, that you will not take a wife for my son from the daughters of the Canaanites, among whom I dwell,
-
-v04: but will go to my country and to my kindred, and take a wife for my son Isaac.”
+v01: Abraham was old, advanced in years, and the LORD had blessed him in everything.
 </p>
 
 <p>
-v05: The servant said to him, “Perhaps the woman may not be willing to follow me to this land. Must I then take your son back to the land from which you came?”
-
-v06: Abraham said to him, “See to it that you do not take my son back there.
-
-v07: The LORD, the God of heaven, who took me from my father’s house and from the land of my kindred, and who spoke to me and swore to me, ‘To your seed I will give this land,’ he will send his angel before you, and you will take a wife for my son from there.
-
-v08: But if the woman is not willing to follow you, then you will be free from this oath of mine; only do not take my son back there.”
-
-v09: So the servant placed his hand under the thigh of Abraham his master and swore to him concerning this matter.
+v02: He said to the senior servant of his household, who managed everything he owned, “Please put your hand under my thigh.
+v03: I will have you swear by the LORD, the God of heaven and earth, that you will not take a wife for my son from the daughters of the Canaanites among whom I live.
+v04: Go instead to my land and my relatives, and take a wife for my son Isaac.”
 </p>
 
 <p>
-v10: Then the servant took ten camels of his master’s camels and set out, taking all kinds of choice gifts from his master; and he arose and went to Aram-naharaim, to the city of Nahor.
-
-v11: And he made the camels kneel down outside the city by the well of water at the time of evening, the time when women go out to draw water.
+v05: The servant asked, “What if the woman is unwilling to follow me to this land? Should I take your son back to the land you came from?”
 </p>
 
 <p>
-v12: And he said, “O LORD, God of my master Abraham, cause it to happen before me today, and show steadfast love to my master Abraham.
-
-v13: Look, I am standing by the spring of water, and the daughters of the men of the city are coming out to draw water.
-
-v14: Let the young woman to whom I will say, ‘Please let down your jar that I may drink,’ and who will say, ‘Drink, and I will water your camels also’—let her be the one whom you have appointed for your servant Isaac. By this I will know that you have shown steadfast love to my master.”
+v06: Abraham answered, “Be sure you do not take my son back there.
+v07: The LORD, the God of heaven, took me from my father's household and my native land. He spoke to me and swore, ‘I will give this land to your descendants.’ He will send his messenger ahead of you, and you will take a wife for my son from there.
 </p>
 
 <p>
-v15: Before he had finished speaking, look, Rebekah, who was born to Bethuel the son of Milcah, the wife of Nahor, Abraham’s brother, came out with her jar on her shoulder.
-
-v16: The young woman was very attractive in appearance, a virgin whom no man had known. She went down to the spring and filled her jar and came up.
-
-v17: Then the servant ran to meet her and said, “Please give me a little water to drink from your jar.”
-
-v18: She said, “Drink, my lord.” And she quickly let down her jar upon her hand and gave him a drink.
-
-v19: When she had finished giving him a drink, she said, “I will draw water for your camels also, until they have finished drinking.”
-
-v20: So she quickly emptied her jar into the trough and ran again to the well to draw water, and she drew for all his camels.
+v08: If the woman is unwilling to follow you, you will be released from this oath to me. Only do not take my son back there.”
 </p>
 
 <p>
-v21: The man gazed at her in silence to learn whether the LORD had made his journey successful or not.
+v09: The servant put his hand under the thigh of his master Abraham and swore to him about this matter.
+</p>
 
-v22: When the camels had finished drinking, the man took a gold nose-ring weighing half a shekel, and two bracelets for her arms weighing ten shekels of gold,
+## At the Spring
 
-v23: and said, “Please tell me whose daughter you are. Is there room in your father’s house for us to spend the night?”
-
-v24: She said to him, “I am the daughter of Bethuel the son of Milcah, whom she bore to Nahor.”
-
-v25: She added, “We have plenty of straw and fodder, and room to spend the night.”
+<p>
+v10: The servant took ten of his master's camels and set out, taking all kinds of his master's fine goods. He traveled to Aram-naharaim, to the city of Nahor.
 </p>
 
 <p>
-v26: Then the man bowed his head and worshiped the LORD
-
-v27: and said, “Blessed be the LORD, the God of my master Abraham, who has not forsaken his steadfast love and his faithfulness toward my master. As for me, the LORD has led me in the way to the house of my master’s kindred.”
+v11: He made the camels kneel beside the well outside the city. It was evening, the time when the women came out to draw water.
 </p>
 
 <p>
-v28: Then the young woman ran and told her mother’s household about these things.
-
-v29: Rebekah had a brother whose name was Laban. Laban ran out toward the man, to the spring.
-
-v30: As soon as he saw the nose-ring and the bracelets on his sister’s arms, and heard the words of Rebekah his sister, “Thus the man spoke to me,” he went to the man. And look, he was standing by the camels at the spring.
-
-v31: He said, “Come in, O blessed of the LORD. Why do you stand outside? For I have prepared the house and a place for the camels.”
+v12: He said, “LORD, God of my master Abraham, please let my journey succeed today. Show kindness to my master Abraham.
+v13: Here I am beside the spring, and the daughters of the city's people are coming out to draw water.
+v14: Let the young woman I ask, ‘Please lower your jar so I can drink,’ answer, ‘Drink, and I will water your camels too.’ Let her be the one you have appointed for your servant Isaac. By this I will know you have shown kindness to my master.”
 </p>
 
 <p>
-v32: So the man came into the house and unharnessed the camels, and gave straw and fodder to the camels, and water to wash his feet and the feet of the men who were with him.
-
-v33: Then food was set before him to eat, but he said, “I will not eat until I have told my errand.” He said, “Speak on.”
+v15: Before he had finished speaking, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel, the son of Milcah and Nahor, Abraham's brother.
+v16: The young woman was very beautiful, a virgin who had never had relations with a man. She went down to the spring, filled her jar, and came back up.
 </p>
 
 <p>
-v34: So he said, “I am Abraham’s servant.
-
-v35: The LORD has greatly blessed my master, and he has become great. He has given him flocks and herds, silver and gold, male servants and female servants, camels and donkeys.
-
-v36: Sarah my master’s wife bore a son to my master when she was old, and to him he has given all that he has.
-
-v37: My master made me swear, saying, ‘You will not take a wife for my son from the daughters of the Canaanites, in whose land I dwell,
-
-v38: but you will go to my father’s house and to my clan and take a wife for my son.’
+v17: The servant ran to meet her. “Please let me sip a little water from your jar,” he said.
 </p>
 
 <p>
-v39: I said to my master, ‘Perhaps the woman will not follow me.’
-
-v40: But he said to me, ‘The LORD, before whom I have walked, will send his angel with you and prosper your way. You will take a wife for my son from my clan and from my father’s house.
-
-v41: Then you will be free from my oath, when you come to my clan. And if they will not give her to you, you will be free from my oath.’
+v18: “Drink, my lord,” she answered. She quickly lowered the jar to her hand and gave him a drink.
 </p>
 
 <p>
-v42: I came today to the spring and said, ‘O LORD, the God of my master Abraham, if now you are prospering the way that I go,
-
-v43: look, I am standing by the spring of water; let the young woman who comes out to draw water, to whom I will say, “Please give me a little water from your jar to drink,”
-
-v44: and who will say to me, “Drink, and I will draw for your camels also,” let her be the woman whom the LORD has appointed for my master’s son.’
+v19: When she had finished giving him a drink, she said, “I will draw water for your camels too, until they have had enough.”
 </p>
 
 <p>
-v45: Before I had finished speaking in my heart, look, Rebekah came out with her jar on her shoulder, and she went down to the spring and drew water. And I said to her, ‘Please let me drink.’
-
-v46: She quickly let down her jar from her shoulder and said, ‘Drink, and I will give your camels drink also.’ So I drank, and she gave the camels drink also.
-
-v47: Then I asked her, ‘Whose daughter are you?’ She said, ‘The daughter of Bethuel, Nahor’s son, whom Milcah bore to him.’ So I put the ring on her nose and the bracelets on her arms.
-
-v48: Then I bowed my head and worshiped the LORD and blessed the LORD, the God of my master Abraham, who had led me by the right way to take the daughter of my master’s kinsman for his son.
-
-v49: Now then, if you are going to show steadfast love and faithfulness to my master, tell me; and if not, tell me, that I may turn to the right hand or to the left.”
+v20: She quickly emptied her jar into the trough and ran back to the well to draw more. She drew water for all his camels.
 </p>
 
 <p>
-v50: Then Laban and Bethuel answered and said, “The matter has come from the LORD; we cannot speak to you bad or good.
-
-v51: Look, Rebekah is before you; take her and go, and let her be the wife of your master’s son, as the LORD has spoken.”
+v21: The man watched her silently, wondering whether the LORD had made his journey succeed.
 </p>
 
 <p>
-v52: When Abraham’s servant heard their words, he bowed himself to the earth before the LORD.
-
-v53: And the servant brought out jewelry of silver and gold, and garments, and gave them to Rebekah; he also gave to her brother and to her mother costly ornaments.
-
-v54: And he and the men who were with him ate and drank, and they spent the night there.
+v22: When the camels had finished drinking, the man took out a gold ring weighing half a shekel and two gold bracelets for her wrists weighing ten shekels.
 </p>
 
 <p>
-v55: When they arose in the morning, he said, “Send me away to my master.”
-
-v56: Her brother and her mother said, “Let the young woman remain with us a while, at least ten days; after that she may go.”
-
-v57: But he said to them, “Do not delay me, since the LORD has prospered my way. Send me away that I may go to my master.”
-
-v58: They said, “Let us call the young woman and ask her.”
-
-v59: And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”
+v23: “Please tell me whose daughter you are,” he said. “Is there room in your father's house for us to spend the night?”
 </p>
 
 <p>
-v60: And they blessed Rebekah and said to her,
-
-“Our sister, may you become thousands of ten thousands,
-
-and may your offspring possess the gate of people who hate them.”
+v24: She answered, “I am Bethuel's daughter. He is the son Milcah bore to Nahor.”
 </p>
 
 <p>
-v61: Then Rebekah and her young women arose and rode on the camels and followed the man. Thus the servant took Rebekah and went his way.
+v25: She added, “We have plenty of straw and fodder, and room for you to spend the night.”
 </p>
 
 <p>
-v62: Now Isaac had come from Beer-lahai-roi and was dwelling in the Negeb.
+v26: The man bowed his head and bowed down before the LORD.
+v27: He said, “Blessed be the LORD, the God of my master Abraham, who has not abandoned his kindness and faithfulness toward my master. The LORD has led me on the journey to the household of my master's relatives.”
+</p>
 
-v63: Isaac went out to meditate in the field toward evening, and he lifted up his eyes and saw, and look, camels were coming.
+## An Invitation to the House
 
-v64: Rebekah lifted up her eyes, and when she saw Isaac, she dismounted from the camel
-
-v65: and said to the servant, “Who is that man, walking in the field to meet us?” The servant said, “It is my master.” So she took her veil and covered herself.
+<p>
+v28: The young woman ran and told her mother's household what had happened.
 </p>
 
 <p>
-v66: And the servant told Isaac all the things that he had done.
+v29: Rebekah had a brother named Laban. Laban ran out to the man at the spring.
+v30: He had seen the ring and the bracelets on his sister's wrists and heard Rebekah tell what the man had said to her. When he reached the man, he found him standing beside the camels at the spring.
+</p>
 
-v67: Then Isaac brought her into the tent of Sarah his mother and took Rebekah, and she became his wife, and he loved her. So Isaac was comforted after his mother’s death.
+<p>
+v31: “Come in, you who are blessed by the LORD,” he said. “Why stand outside? I have prepared the house and a place for the camels.”
+</p>
+
+<p>
+v32: The man entered the house. The camels were unloaded and given straw and fodder, and water was brought for him and the men with him to wash their feet.
+</p>
+
+<p>
+v33: Food was set before him, but he said, “I will not eat until I have told you my business.” His host answered, “Speak.”
+</p>
+
+## The Servant Tells His Mission
+
+<p>
+v34: He said, “I am Abraham's servant.
+</p>
+
+<p>
+v35: The LORD has blessed my master greatly, and he has become wealthy. The LORD has given him flocks, cattle, silver, gold, male and female slaves, camels, and donkeys.
+v36: My master's wife Sarah bore him a son in her old age, and he has given that son everything he owns.
+</p>
+
+<p>
+v37: My master made me swear: ‘You must not take a wife for my son from the daughters of the Canaanites in whose land I live.
+v38: You must go to my father's household, to my clan, and take a wife for my son.’
+</p>
+
+<p>
+v39: I said to my master, ‘What if the woman will not follow me?’
+</p>
+
+<p>
+v40: He answered, ‘The LORD, before whom I have walked, will send his messenger with you and make your journey succeed. You will take a wife for my son from my clan, from my father's household.
+v41: When you reach my clan, you will be released from my oath if they refuse to give her to you. Then you will be free of the oath.’
+</p>
+
+<p>
+v42: Today I came to the spring and said, ‘LORD, God of my master Abraham, if you are willing, please make this journey of mine succeed.
+v43: Here I am beside the spring. When a young woman comes out to draw water, I will ask her, “Please give me a little water from your jar.”
+v44: If she answers, “Drink, and I will draw water for your camels too,” let her be the woman the LORD has appointed for my master's son.’
+</p>
+
+<p>
+v45: Before I had finished speaking in my heart, Rebekah came out with her jar on her shoulder. She went down to the spring and drew water, and I said, ‘Please give me a drink.’
+v46: She quickly lowered her jar and said, ‘Drink, and I will water your camels too.’ I drank, and she watered the camels as well.
+</p>
+
+<p>
+v47: I asked, ‘Whose daughter are you?’ She answered, ‘Bethuel's daughter; he is Nahor's son, whom Milcah bore.’ Then I put the ring on her nose and the bracelets on her wrists.
+</p>
+
+<p>
+v48: I bowed my head and bowed down before the LORD. I blessed the LORD, the God of my master Abraham, who led me on the right path to take a wife for his son from his brother's family.
+</p>
+
+<p>
+v49: Now tell me whether you will show kindness and faithfulness to my master. If not, tell me, so I can turn to the right or to the left.”
+</p>
+
+## The Family’s Answer
+
+<p>
+v50: Laban and Bethuel answered, “This matter comes from the LORD. We cannot say anything to you, bad or good.
+v51: Rebekah is here before you. Take her and go. Let her become your master's son's wife, as the LORD has said.”
+</p>
+
+<p>
+v52: When Abraham's servant heard their words, he bowed to the ground before the LORD.
+</p>
+
+<p>
+v53: The servant brought out silver and gold jewelry and clothing and gave them to Rebekah. He also gave costly gifts to her brother and mother.
+</p>
+
+## Rebekah Leaves
+
+<p>
+v54: He and the men with him ate and drank and spent the night. When they rose in the morning, he said, “Send me back to my master.”
+</p>
+
+<p>
+v55: Her brother and mother answered, “Let the young woman stay with us a few days, perhaps ten. Then she may go.”
+</p>
+
+<p>
+v56: But he said, “Do not delay me, since the LORD has made my journey succeed. Send me away so I can return to my master.”
+</p>
+
+<p>
+v57: They said, “Let us call the young woman and ask her herself.”
+</p>
+
+<p>
+v58: They called Rebekah and asked, “Will you go with this man?” She answered, “I will go.”
+</p>
+
+<p>
+v59: So they sent away their sister Rebekah and her nurse, along with Abraham's servant and his men.
+</p>
+
+<p>
+v60: They blessed Rebekah, saying,
+“Our sister, may you become
+thousands upon ten thousands!
+May your descendants possess
+the gate of those who hate them.”
+</p>
+
+<p>
+v61: Rebekah and her young women got up, mounted the camels, and followed the man. The servant took Rebekah with him and left.
+</p>
+
+## Isaac and Rebekah
+
+<p>
+v62: Isaac had come from Beer-lahai-roi and was living in the Negev.
+</p>
+
+<p>
+v63: Toward evening Isaac went out into the field to meditate. He looked up and saw camels approaching.
+</p>
+
+<p>
+v64: Rebekah looked up and saw Isaac. She got down from her camel
+v65: and asked the servant, “Who is that man walking across the field to meet us?” “He is my master,” the servant answered. She took her veil and covered herself.
+</p>
+
+<p>
+v66: The servant told Isaac everything he had done.
+</p>
+
+<p>
+v67: Isaac brought Rebekah into the tent of his mother Sarah. He took Rebekah as his wife and loved her. Isaac found comfort after his mother's death.
 </p>
 
 ## Notes
 
-v03–04: Marriage is framed as covenant continuity, not merely social arrangement.
+v02–09: The servant is not named in this chapter. His hand-under-thigh gesture belongs to the oath. Abraham makes the woman’s unwillingness a release condition; Isaac is not to be taken back.
 
-v12–14: The servant’s prayer seeks providential alignment, not arbitrary sign.
+v10–22: Aram-naharaim and the city of Nahor are retained; the latter may identify a place by name or association. The ring weighs half a shekel, and the two bracelets weigh ten shekels together. The ring is explicitly placed on the nose in v47.
 
-v21: Silent observation reflects discernment rather than immediate assumption.
+v27–49: Kindness and faithfulness connect the servant’s praise with his request to the family. His retelling differs in detail and sequence from the earlier narration; it is not replaced with an identical copy. In v43 almah means young woman, while v16 separately uses a virginity term.
 
-v27: “Steadfast love and faithfulness” (hesed and emet) define covenant reliability.
+v50–61: The family first gives permission, then asks Rebekah herself about leaving. Her answer is direct. The proposed delay in v55 is literally days or ten; “a few days, perhaps ten” is a provisional reading. Her nurse and female companions remain in the departure account.
 
-v50–51: Recognition of divine origin removes human negotiation.
-
-v58: Rebekah’s consent is explicit—she participates actively in the covenant unfolding.
-
-v63: Isaac’s “meditation” suggests reflective attentiveness, possibly prayer.
-
-v67: Love is named explicitly, rare in Genesis narratives, paired with comfort.
+v62–67: The opening movement from Beer-lahai-roi is compact. The rare verb in v63 is rendered meditate; walking is another translation, and prayer is a traditional interpretation. The uncertainty is also identified in the [NET translators’ note on 24:63](https://www.biblegateway.com/passage/?search=Genesis+24&version=NET). The chapter ends with love and comfort after Sarah’s death.
 
 ## Vocabulary
 
-v03: אֶרֶץ (ʾereṣ)
+v12: חֶסֶד (chesed)
+Kindness or loyal care; repeated in the prayer, praise, and request.
 
-“Land.” Territory with covenant significance.
+v27: אֱמֶת (emet)
+Truth, reliability, or faithfulness; paired here with kindness.
 
-v12: חֶסֶד (ḥesed)
-“Steadfast love.” Covenant loyalty expressed in action.
+v43: עַלְמָה (almah)
+Young woman; not the same term as betulah in v16.
 
-v12: אֱמֶת (ʾemet)
-“Faithfulness, truth.” Reliability and trustworthiness.
+v57: פֶּה (peh)
+Mouth; asking her mouth means asking her directly.
 
-v14: יָכַח (yākaḥ)
-“To appoint, determine.” To designate rightly.
-
-v21: שָׁתָה (šātāh)
-
-“To drink.” Used in hospitality context.
-
-v27: דֶּרֶךְ (derek)
-
-“Way.” Path, often implying guided direction.
-
-v40: הָלַךְ (hālak)
-“To walk.” Used metaphorically for lived faithfulness.
-
-v50: דָּבָר (dābār)
-
-“Word, matter.” Event or statement with authority.
-
-v58: הָלַךְ (hālak)
-
-“To go.” Movement with decisive commitment.
-
-v67: אָהַב (ʾāhav)
-
-“To love.” Relational attachment, often covenantal.
+v60: זֶרַע (zera)
+Offspring or descendants; Rebekah receives the descendants-and-gate blessing too.
