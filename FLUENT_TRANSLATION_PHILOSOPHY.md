@@ -85,3 +85,21 @@ Fluent therefore serves a larger formational vision. The future Fluent Companion
 Fluent is complete across all 66 books and remains provisional. It will be tested in reading, worship, teaching, and communal life. Corrections and careful revisions should be documented through releases rather than silently changing the canonical text.
 
 The goal is not effortless reading. The goal is language clear enough that readers can give their effort to Scripture itself.
+
+## Editorial standard for biblical fluency
+
+In the revision begun September 10, 2026, each passage is read against its pinned biblical-language source and assessed as a connected passage. TSW is a comparator, not a wording template. The practical questions are:
+
+1. Can a reader follow who is speaking, who is acting, and what each pronoun refers to?
+2. Can a listener follow the movement of the story or argument without repeatedly reconstructing a long sentence?
+3. Are cause, contrast, condition, and purpose audible, without adding connections the source does not establish?
+4. Do recurring terms and images help readers recognize the book's themes and connections with other biblical passages?
+5. Does accessible wording preserve poetry, the concrete ancient setting, difficult claims, and consequential ambiguities?
+6. Can readers learn important biblical language through a selective note or vocabulary entry rather than having every unfamiliar term removed?
+7. Does each change improve faithful reading, with a verse-specific reason that can be checked against the source?
+
+Sentences may cross verse boundaries; verse numbers locate the text and do not dictate where a thought ends. Headings describe the passage's movement without adding a sermon. Terms such as covenant, kingdom, righteousness, grace, and resurrection are not subject to automatic replacement. Neither are familiar short sayings or biblical quotations changed merely to make the translations look different.
+
+Overlap measurements identify passages needing attention. They do not establish fidelity, independent authorship, comprehension, or editorial approval. There is no required percentage of changed words. Complete chapter coverage is also distinct from completion of this editorial revision.
+
+For every revised batch, record the exact source, before-and-after chapter hashes, verse-level rationale, unresolved interpretive decisions, and effects on Companion references. Automated structural QA and human editorial approval must remain separate. A new wording revision does not inherit the previous wording's approval or Companion binding.

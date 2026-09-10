@@ -4,115 +4,89 @@ testament: NT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-james-biblical-fluency-2026-09-10
 ---
 
-## Do Not Show Partiality
+## Do Not Show Favoritism
 
 <p>
-v01: My brothers and sisters, as you hold faith in our glorious Lord Jesus Christ, do not show partiality.
-v02: Suppose a man wearing a gold ring and fine clothing comes into your gathering, and a poor man in dirty clothing also comes in.
-v03: If you pay special attention to the one wearing fine clothing and say, “You sit here in a good place,” but say to the poor man, “You stand over there,” or, “Sit here at my feet,”
-v04: have you not made distinctions among yourselves and become judges with evil thoughts?
+v01: My brothers and sisters, do not show favoritism as you put your faith in our glorious Lord Jesus Christ.
+v02: Imagine a man coming into your gathering with a gold ring and splendid clothes. A poor man in filthy clothes comes in too.
+v03: You give your attention to the one in splendid clothes and say, “Here, take this good seat.” But you tell the poor man, “Stand, or sit there below my footstool.”
+v04: When you do that, have you not divided yourselves and become judges whose judgments are evil?
 </p>
 
 <p>
-v05: Listen, my beloved brothers and sisters. Has God not chosen those who are poor in the world's eyes to be rich in faith and heirs of the kingdom he promised to those who love him?
-v06: But you have dishonored the poor. Is it not the rich who oppress you and drag you into court?
-v07: Are they not the ones who blaspheme the honorable name by which you were called?
+v05: Listen, my dear brothers and sisters. Did God not choose those the world regards as poor to be rich in faith and to inherit the kingdom promised to those who love God?
+v06: Yet you have humiliated the poor. Is it not the rich who use their power against you and drag you into court?
+v07: Are they not the ones who insult the honorable name spoken over you?
 </p>
 
 ## The Royal Law
 
 <p>
-v08: If you truly fulfill the royal law according to Scripture, “You shall love your neighbor as yourself,” you are doing well.
-v09: But if you show partiality, you are committing sin and are convicted by the law as transgressors.
-v10: Whoever keeps the whole law but stumbles at one point has become accountable for all of it.
-v11: For the one who said, “Do not commit adultery,” also said, “Do not murder.” If you do not commit adultery but do murder, you have become a transgressor of the law.
-v12: So speak and act as people who are going to be judged by the law of freedom.
-v13: For judgment will be without mercy to the one who has shown no mercy. Mercy triumphs over judgment.
+v08: If you carry out the royal law found in Scripture, “Love your neighbor as yourself,” you are doing well.
+v09: But if you show favoritism, you sin. The law finds you guilty of breaking it.
+v10: Whoever obeys the whole law but stumbles at just one point is accountable for breaking it all.
+v11: The one who said, “Do not commit adultery,” also said, “Do not murder.” Even if you do not commit adultery, you have broken the law if you murder.
+v12: Let your words and actions be those of people who will be judged by the law of freedom.
+v13: Anyone who has shown no mercy will face judgment without mercy. Mercy triumphs over judgment.
 </p>
 
-## Faith Without Works Is Dead
+## Faith and Deeds
 
 <p>
-v14: What good is it, my brothers and sisters, if someone says they have faith but do not have works? Can that kind of faith save them?
-v15: If a brother or sister has nothing to wear and lacks daily food,
-v16: and one of you says, “Go in peace; keep warm and eat well,” but you do not give them what the body needs, what good is that?
-v17: In the same way, faith by itself, if it does not have works, is dead.
-</p>
-
-<p>
-v18: But someone will say, “You have faith, and I have works.” Show me your faith apart from works, and I will show you my faith by my works.
-v19: You believe that God is one. You do well. Even the demons believe—and shudder.
-v20: Do you want to know, you foolish person, that faith apart from works is useless?
+v14: My brothers and sisters, what good is it if someone claims to have faith but has no deeds? Can that kind of faith save them?
+v15: Suppose a brother or sister has no clothes and not enough food for the day.
+v16: One of you says, “Go in peace! Stay warm and eat your fill.” If you do not give them what their body needs, what good have you done?
+v17: So faith on its own, without deeds, is dead.
 </p>
 
 <p>
-v21: Was not Abraham our father set right by works when he offered his son Isaac on the altar?
-v22: You see that faith was working together with his works, and through the works faith was brought to completion.
-v23: And the Scripture was fulfilled that says, “Abraham trusted God, and it was counted to him as righteousness,” and he was called a friend of God.
-v24: You see that a person is set right by works and not by faith alone.
-v25: In the same way, was not Rahab the prostitute also set right by works when she welcomed the messengers and sent them out by another way?
-v26: For just as the body without the spirit is dead, so faith without works is dead.
+v18: But someone will say, “You have faith; I have deeds.” Show me your faith without deeds, and I will show you my faith through what I do.
+v19: You believe that God is one? Good! Even the demons believe that, and they tremble.
+v20: You foolish person, do you want to see that faith without deeds is useless?
+</p>
+
+<p>
+v21: Was our father Abraham not set right by his deeds when he offered his son Isaac on the altar?
+v22: You can see that his faith worked together with his deeds. Through those deeds, his faith reached maturity.
+v23: This fulfilled the Scripture that says, “Abraham believed God, and it was counted to him as righteousness.” He was also called God's friend.
+v24: You see, then, that a person is set right by deeds, and not by faith alone.
+v25: Was it not the same with Rahab the prostitute? She too was set right by deeds when she welcomed the messengers and sent them away by a different route.
+v26: Just as a body is dead without the spirit, faith is dead without deeds.
 </p>
 
 ## Notes
 
-v01: The Greek construction is compact and difficult to reproduce naturally. The command joins allegiance to Jesus Christ with a prohibition against status-based favoritism.
+v01–03: The compact wording in v01 links faith in Jesus Christ with glory; Fluent retains “our glorious Lord Jesus Christ.” “Gathering” in v02 translates synagōgē, also the source of the English word “synagogue.” Verse 3 follows the pinned Greek's “stand, or sit there below my footstool”; other witnesses place “there” with “stand” and read “sit here.”
 
-v02: The word for the community's “gathering” is `synagōgē`. James can use Jewish communal language without requiring that the setting be identified as a later synagogue institution.
+v07–08: The honorable name is described as having been spoken over the readers. Verse 8 quotes Leviticus 19:18. “Royal law” preserves the text's royal language without deciding its full significance for the reader.
 
-v04: The verb `diakrinō`, also used in 1:6, appears here with the sense of making distinctions or divisions.
+v14–18: “Deeds” translates the word often rendered “works.” “That kind of faith” in v14 points back to the claim of faith without deeds. In v18, the extent of the imagined speaker's words is disputed; the quotation marks represent an editorial choice.
 
-v05–07: James does not romanticize poverty; he exposes a contradiction between God's regard for the poor and the community's status-conscious behavior.
+v20: The pinned SBLGNT text reads “useless” or “inactive.” Some witnesses read “dead,” the word used in vv17 and 26.
 
-v08–13: “Royal law” and “law of freedom” keep law, mercy, judgment, and neighbor-love in one moral field.
+v21–25: “Set right” translates dikaioō, which can be rendered “justify” or “vindicate”; whether it emphasizes being made right or being shown to be right is debated. James's claim about deeds and faith is retained without adjusting it to Paul's argument. The examples refer to Genesis 22 and Joshua 2; v23 quotes Genesis 15:6.
 
-v14: The question uses the article with “faith,” naturally referring to the kind of faith just described: claimed faith without works. “Can that kind of faith save?” avoids turning the question into an abstract denial of faith.
-
-v18: The punctuation and boundaries of the imagined objection are debated. The main text follows a common division while the argument itself remains clear: faith is made visible through action.
-
-v20: SBLGNT reads `argē`, “idle/useless,” rather than the variant “dead” at this point. James immediately returns to “dead” in v26.
-
-v21–24: Fluent uses the project term “set right” for `dikaioō`, consistent with the project's Romans vocabulary. James's argument, however, must be allowed to speak in its own context: works bring faith to completion and are inseparable from living faith.
-
-v23: “Abraham trusted God” preserves the verbal force of `episteusen`. The citation is the same Genesis text Paul also uses, but James develops it differently.
-
-v24: The wording is intentionally not harmonized into Romans. The translation preserves James's explicit claim that a person is set right by works and not by faith alone.
-
-v25: Rahab provides a second example from a very different social and moral location, widening the argument beyond Abraham.
+v26: “Spirit” can also be rendered “breath.” The bodily comparison is retained rather than expanded into a theory of human nature.
 
 ## Vocabulary
 
 v01: προσωπολημψία (prosōpolēmpsia)
-“Partiality” or favoritism based on outward status.
-
-v02: συναγωγή (synagōgē)
-“Gathering” or “assembly.”
-
-v08: νόμος βασιλικός (nomos basilikos)
-“Royal law.”
-
-v12: νόμος ἐλευθερίας (nomos eleutherias)
-“Law of freedom.”
-
-v13: ἔλεος (eleos)
-“Mercy.”
+Favoritism or partiality based on a person's outward standing.
 
 v14: πίστις (pistis)
-“Faith, trust, faithfulness.” In this passage James focuses on claimed faith and its embodied expression.
+Faith or trust. Here the argument concerns a claim of faith and its relation to action.
 
-v17: νεκρός (nekros)
-“Dead,” without life.
-
-v20: ἀργός (argos)
-“Idle, inactive, useless.”
-
-v22: συνεργέω (synergeō)
-“To work together with.”
+v14: ἔργον (ergon)
+Deed, work, or action. “Deeds” is the main recurring English term in this chapter.
 
 v22: τελειόω (teleioō)
-“To bring to completion.”
+Bring to completion or maturity; related to “mature” in 1:4.
 
 v24: δικαιόω (dikaioō)
-“To set right, justify, vindicate.” The contextual force is debated; Fluent preserves the project's “set right” terminology without resolving James into another Pauline context.
+Set right, justify, or vindicate. See the note on vv21–25.

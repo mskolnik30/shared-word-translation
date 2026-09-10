@@ -2,51 +2,63 @@
   "book": "James",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
   "publication_allowed": false,
-  "canonical_tsw_sha": "9d282328ebda9fa630e6eb19b874b31068efa15e",
+  "revision_id": "fluent-james-biblical-fluency-2026-09-10",
+  "supersedes": {
+    "commit": "984d86f25ff0c4e46b566e063fc0b86a8ed64eb7",
+    "path": "audit/exegetical-core/fluent-production/james/James_02_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Jas.txt"
+    "file": "data/sblgnt/text/Jas.txt",
+    "git_blob_sha": "283a675fdfab4ca4967ca5a72500a1aff2bd07c7",
+    "sha256": "1343ea4125c64585c738a2f8bf54a077947d0a6229b2642b39a1ad845f40e153",
+    "url": "https://github.com/Faithlife/SBLGNT/blob/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Jas.txt"
   },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 26,
+    "path": "translations/fluent/NT/james/James_02.md",
+    "before_sha256": "9fd4c11f361671988ea96b6bb2a19e58f9914f0a57e342b549c7f76b30201124",
+    "after_sha256": "34e7824141d1e0c8b5df6bd41b82b7d7960f7b3fc6cdb4c98a8de7b32382cad5",
+    "tsw_comparator_path": "books/NT/james/James_02.md",
+    "tsw_comparator_sha256": "a44fe9dc36ab08c4be92ca8581d9a955ab6790466406e0d770e2b7d413743ad2"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
   "key_decisions": [
     {
-      "location": "2:1",
-      "delta": "F2/F3",
-      "decision": "Naturalize compact faith/glory construction without weakening anti-partiality command."
-    },
-    {
-      "location": "2:14",
+      "location": "James 2:3",
       "delta": "F3",
-      "decision": "Can that kind of faith save? Article treated anaphorically."
+      "decision": "Follow the pinned SBLGNT location/order of stand or sit there; retain the degrading footstool image and note the variant behind the former wording.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "2:18",
+      "location": "James 2:18",
       "delta": "F3",
-      "decision": "Speaker/punctuation boundary disputed; common division retained."
+      "decision": "Keep the inherited quotation boundary while flagging disputed speaker boundaries; use a verb for the final erga without losing the repeated faith/deeds contrast.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "2:20",
-      "delta": "F3_TEXT",
-      "decision": "SBLGNT argē = useless/inactive; do not import variant dead."
-    },
-    {
-      "location": "2:21-25",
+      "location": "James 2:21",
       "delta": "F3",
-      "decision": "Use project term set right for dikaioō while refusing harmonization into Romans."
+      "decision": "Retain the consequential set right choice with explicit alternatives in the note; keep father, son, altar, and the by-deeds claim intact.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "2:22",
-      "delta": "F1",
-      "decision": "Faith works together with works and is brought to completion."
+      "location": "James 2:24",
+      "delta": "F3",
+      "decision": "Retain the explicit conclusion and existing dikaioo choice; do not replace it with only shown to already be righteous.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "2:24",
-      "delta": "F3_THEOLOGICAL_RESTRAINT",
-      "decision": "Preserve James's explicit works/not faith alone claim."
+      "location": "James 2:25",
+      "delta": "F3",
+      "decision": "Unfold the parallel example without hiding Rahab's description or adding a motive; retain the same set right/deeds wording.",
+      "disposition": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Canonical TSW apparatus used as comparator; duplicated Vocabulary, over-compressed notes, lexical inaccuracies, and translation-specific claims corrected for Fluent."
+  ]
 }

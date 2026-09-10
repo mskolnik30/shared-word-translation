@@ -4,136 +4,114 @@ testament: NT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-james-biblical-fluency-2026-09-10
 ---
 
 ## Greeting
 
 <p>
-v01: James, a servant of God and of the Lord Jesus Christ, to the twelve tribes in the dispersion: greetings.
+v01: James, a servant of God and of the Lord Jesus Christ, sends greetings to the twelve tribes scattered abroad.
 </p>
 
-## Trials, Endurance, and Wisdom
+## Trials and the Wisdom to Endure
 
 <p>
-v02: Consider it pure joy, my brothers and sisters, whenever you encounter various trials,
-v03: because you know that the testing of your faith produces endurance.
-v04: Let endurance finish its work, so that you may be complete and whole, lacking nothing.
+v02: My brothers and sisters, when you meet trials of every kind, count it all as joy.
+v03: You know that having your faith tested develops endurance.
+v04: Let endurance carry its work through to completion, so that you become mature and whole, with nothing lacking.
 </p>
 
 <p>
-v05: If any of you lacks wisdom, ask God, who gives generously to everyone without reproach, and it will be given to you.
-v06: But ask in faith, without being divided, because the one who doubts is like a wave of the sea, driven and tossed by the wind.
-v07: That person should not expect to receive anything from the Lord,
-v08: being double-minded and unstable in all their ways.
+v05: If any of you lacks wisdom, ask God for it. God gives generously to everyone without finding fault, and will give it to you.
+v06: But ask with faith, without wavering. Anyone who wavers is like a wave at sea, blown and tossed by the wind.
+v07: A person like that should not expect to receive anything from the Lord.
+v08: Their mind is divided, and they are unsteady in everything they do.
 </p>
 
-## The Lowly and the Rich
+## Low Standing and Wealth
 
 <p>
-v09: Let the lowly brother or sister boast in being lifted up,
-v10: and the rich in being brought low, because the rich will pass away like a flower in the grass.
-v11: The sun rises with its scorching heat and withers the grass; its flower falls and its beauty perishes. In the same way the rich will fade away in the midst of their pursuits.
+v09: Let a brother or sister of low standing boast in being raised up,
+v10: and let the rich boast in being brought down. The rich will pass away like a flower in the grass.
+v11: The sun rises with scorching heat and dries up the grass. Its flower falls, and its beauty is lost. That is how the rich will wither while going about their business.
 </p>
 
 ## Enduring the Test
 
 <p>
-v12: Blessed is the one who endures testing, because after standing the test, that person will receive the crown of life that the Lord has promised to those who love him.
+v12: The person who endures a trial is blessed. After passing the test, they will receive the crown of life promised to those who love God.
 </p>
 
 ## Desire, Sin, and Death
 
 <p>
-v13: No one who is being tempted should say, “I am being tempted by God,” because God is not tempted by evil, and he himself tempts no one.
-v14: Rather, each person is tempted when drawn away and enticed by their own desire.
-v15: Then desire, after it has conceived, gives birth to sin; and sin, when fully grown, gives birth to death.
+v13: When tempted, no one should say, “God is tempting me.” Evil cannot tempt God, and God tempts no one.
+v14: Each person is tempted by their own desire, which lures them away and draws them in.
+v15: Desire then conceives and gives birth to sin. When sin is fully grown, it gives birth to death.
 </p>
 
 <p>
-v16: Do not be deceived, my beloved brothers and sisters.
-v17: Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shifting shadow.
-v18: By his own will he gave us birth through the word of truth, so that we might be a kind of firstfruits of his creatures.
+v16: My dear brothers and sisters, do not be misled.
+v17: Every good gift and every perfect gift comes from above, from the Father of the heavenly lights. With him there is no change or shifting shadow.
+v18: God chose to give us birth through the word of truth, so that we would be a kind of firstfruits of all that God created.
 </p>
 
-## Quick to Hear
+## Listening, Speaking, and Anger
 
 <p>
-v19: Know this, my beloved brothers and sisters: everyone should be quick to hear, slow to speak, and slow to anger,
-v20: because human anger does not produce the righteousness of God.
-v21: Therefore, put away all filthiness and the abundance of wickedness, and receive with meekness the implanted word, which is able to save you.
+v19: Understand this, my dear brothers and sisters: everyone should be quick to listen, slow to speak, and slow to become angry.
+v20: Human anger does not bring about the righteousness of God.
+v21: So put away all filth and the evil that runs rampant. Humbly welcome the word planted within you, which has the power to save you.
 </p>
 
-## Doers of the Word
+## Put the Word into Practice
 
 <p>
-v22: Be doers of the word, and not hearers only, deceiving yourselves.
-v23: For if anyone is a hearer of the word and not a doer, that person is like someone looking at their natural face in a mirror;
-v24: they look at themselves, go away, and immediately forget what they were like.
-v25: But the one who looks intently into the perfect law, the law of freedom, and continues in it—not becoming a hearer who forgets, but a doer who acts—will be blessed in what they do.
+v22: Do what the word says. If you only listen to it, you are deceiving yourselves.
+v23: Anyone who listens to the word but does not do what it says is like someone studying their own face in a mirror.
+v24: They look at themselves, walk away, and at once forget what they look like.
+v25: But someone who looks closely into the perfect law, the law of freedom, and stays with it will be blessed in what they do. They do not listen and forget; they put it into practice.
 </p>
 
 ## Pure Religion
 
 <p>
-v26: If anyone thinks they are religious but does not bridle their tongue and instead deceives their own heart, that person's religion is empty.
-v27: Religion that is pure and undefiled before God the Father is this: to care for orphans and widows in their distress and to keep oneself unstained from the world.
+v26: Anyone who thinks they are religious but does not keep a bridle on their tongue is deceiving their own heart. Their religion is empty.
+v27: In the eyes of God our Father, pure and untainted religion means caring for orphans and widows in their trouble and keeping oneself unstained by the world.
 </p>
 
 ## Notes
 
-v01: “The dispersion” names Jewish communities scattered outside the land. James addresses them as a coherent people despite geographic distance.
+v01: “Scattered abroad” renders the diaspora, the dispersion of Jewish communities. “The twelve tribes” preserves James's way of addressing his readers. “Servant” renders a word also used for an enslaved person.
 
-v02–04: The same word-family connects testing, endurance, and completion. Joy is not attributed to pain itself but to what faithful endurance can produce.
+v04: “Mature,” “complete,” and “perfect” translate related Greek words in 1:4, 1:17, 1:25, 2:22, and 3:2. The shared idea is reaching completeness; the English varies with what is being described.
 
-v06: The participle from `diakrinō` can carry senses such as doubting, wavering, or being divided in judgment. “Without being divided” preserves the connection to the “double-minded” person of v08 while the familiar “without doubting” remains a valid rendering.
+v06–08: “Without wavering” can also be translated “without doubting” or “without being divided.” Verse 8 describes a divided mind; the same description returns in 4:8.
 
-v09–11: James reverses conventional status: the lowly boast in exaltation, while the rich are reminded of transience.
+v12–15: The Greek word-family can mean trial, testing, or temptation. Verse 12 concerns enduring a trial; verses 13–15 concern enticement to evil. The pinned Greek in v12 leaves the one who promised unstated; “God” identifies the understood referent.
 
-v12–15: The Greek `peirasmos/peirazō` word-family spans both external testing and temptation. The context shifts from enduring a test in v12 to the source of temptation in vv13–15.
+v17–18: The “heavenly lights” are the lights of the sky. “Firstfruits” names the first portion of a harvest. James keeps that image alongside God's giving birth; the translation does not replace either image with an explanation.
 
-v17: “Father of lights” evokes the heavenly lights while contrasting their variation with God's constancy.
+v20: “The righteousness of God” can be understood as God's righteousness or the righteousness God desires. The wording leaves that relationship open.
 
-v18: The birth imagery deliberately answers the birth sequence of desire → sin → death in v15 with God's giving birth through the word of truth.
-
-v19–20: Hearing, speech, and anger are ordered as a practical sequence. “Righteousness of God” is retained rather than expanded into a theological explanation.
-
-v21: The Greek says that the implanted word is able “to save your souls/lives.” Fluent uses “save you” to avoid forcing an anthropology that the phrase itself does not require.
-
-v22–25: Hearing and doing are kept lexically visible. The “law of freedom” deliberately holds law and liberty together rather than treating them as opposites.
-
-v27: The word translated “religion” refers to religious practice or devotion. James directs it toward care for vulnerable people and an unstained life.
+v21: “Save you” renders “save your souls/lives.” The Greek can refer to whole persons, not only to a separable part of a person.
 
 ## Vocabulary
 
 v02: πειρασμός (peirasmos)
-“Trial, testing, temptation.” The same word-family can name external pressure or enticement, depending on context.
+Trial, testing, or temptation, depending on context.
 
 v03: ὑπομονή (hypomonē)
-“Endurance.” Steadfast persistence under pressure.
+Endurance: remaining steadfast under pressure. This word returns with Job in 5:11.
 
 v04: τέλειος (teleios)
-“Complete, mature, brought to its intended end.” A major James theme.
+Mature, complete, perfect; brought to its intended end.
 
-v06: διακρίνω (diakrinō)
-“To doubt, waver, distinguish, or be divided in judgment.”
-
-v08: δίψυχος (dipsychos)
-“Double-minded,” literally “two-souled.” Divided in allegiance or purpose.
-
-v17: παραλλαγή (parallagē)
-“Variation” or “change.”
-
-v21: ἔμφυτος (emphytos)
-“Implanted” or “ingrafted.” Something placed within and able to grow.
-
-v22: ποιητής (poiētēs)
-“Doer” or “maker.” One who puts something into action.
+v18: ἀπαρχή (aparchē)
+Firstfruits: the first portion of a harvest.
 
 v25: νόμος ἐλευθερίας (nomos eleutherias)
-“Law of freedom.” A deliberate pairing of law and liberty.
-
-v27: θρησκεία (thrēskeia)
-“Religion” or “religious practice.”
-
-v27: ἄσπιλος (aspilos)
-“Unstained” or “unspotted.”
+Law of freedom. The phrase returns in 2:12.

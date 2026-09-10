@@ -1,8 +1,15 @@
 {
   "book": "James",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "READY_FOR_PR_AFTER_INSTALL",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
+  "publication_status": "BLOCKED_PENDING_EDITORIAL_REVIEW",
+  "publication_allowed": false,
+  "revision_id": "fluent-james-biblical-fluency-2026-09-10",
+  "supersedes": {
+    "commit": "984d86f25ff0c4e46b566e063fc0b86a8ed64eb7",
+    "path": "audit/exegetical-core/fluent-production/james/JAMES_FLUENT_BOOK_QA.json"
+  },
   "chapter_counts": {
     "1": 27,
     "2": 26,
@@ -16,7 +23,9 @@
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Jas.txt",
-    "git_blob_sha": "283a675fdfab4ca4967ca5a72500a1aff2bd07c7"
+    "git_blob_sha": "283a675fdfab4ca4967ca5a72500a1aff2bd07c7",
+    "sha256": "1343ea4125c64585c738a2f8bf54a077947d0a6229b2642b39a1ad845f40e153",
+    "url": "https://github.com/Faithlife/SBLGNT/blob/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Jas.txt"
   },
   "book_level_anchors": [
     {
@@ -33,7 +42,7 @@
     },
     {
       "id": "JAS.FAITH_WORKS",
-      "decision": "Allow James's faith/works argument to stand in its own context; do not harmonize it into Romans."
+      "decision": "Keep faith and deeds explicit throughout chapter 2; use works as a vocabulary bridge. Do not harmonize James into Romans."
     },
     {
       "id": "JAS.DIKAIOO",
@@ -62,61 +71,108 @@
   ],
   "f3_decisions": [
     {
-      "location": "1:6",
-      "decision": "without being divided; doubting/wavering noted",
-      "disposition": "APPROVE"
+      "location": "James 1:6",
+      "decision": "Choose wavering for diakrinomenos while noting doubting/divided alternatives and the link to 1:8; keep the image intact.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "2:14",
-      "decision": "Can that kind of faith save?",
-      "disposition": "APPROVE"
+      "location": "James 1:12",
+      "decision": "Retain crown and trial/testing language; God makes the implied referent explicit without claiming the pinned Greek contains an explicit Lord at this point.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "2:20",
-      "decision": "SBLGNT argē = useless/inactive",
-      "disposition": "APPROVE"
+      "location": "James 2:3",
+      "decision": "Follow the pinned SBLGNT location/order of stand or sit there; retain the degrading footstool image and note the variant behind the former wording.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "2:21-25",
-      "decision": "set right for dikaioō; no Romans harmonization",
-      "disposition": "APPROVE"
+      "location": "James 2:18",
+      "decision": "Keep the inherited quotation boundary while flagging disputed speaker boundaries; use a verb for the final erga without losing the repeated faith/deeds contrast.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "3:6",
-      "decision": "course of life for trochos tēs geneseōs",
-      "disposition": "APPROVE"
+      "location": "James 2:21",
+      "decision": "Retain the consequential set right choice with explicit alternatives in the note; keep father, son, altar, and the by-deeds claim intact.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "3:17",
-      "decision": "impartial for adiakritos; alternatives noted",
-      "disposition": "APPROVE"
+      "location": "James 2:24",
+      "decision": "Retain the explicit conclusion and existing dikaioo choice; do not replace it with only shown to already be righteous.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "4:5",
-      "decision": "God-subject reading in main text; spirit-subject alternative preserved",
-      "disposition": "APPROVE_WITH_OPEN_ALTERNATIVE"
+      "location": "James 2:25",
+      "decision": "Unfold the parallel example without hiding Rahab's description or adding a motive; retain the same set right/deeds wording.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "5:11",
-      "decision": "Lord's purpose in the end; outcome range noted",
-      "disposition": "APPROVE"
+      "location": "James 3:6",
+      "decision": "Break the dense syntax into sentences without losing any of the images; retain Gehenna and document the difficult course-of-life expression.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "5:15",
-      "decision": "retain save + raise in healing context",
-      "disposition": "APPROVE"
+      "location": "James 3:17",
+      "decision": "Make eupeithes intelligible as open to persuasion; retain good fruit and the disputed impartial choice with its alternatives noted.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "5:20",
-      "decision": "save a life from death to avoid forced pronoun referent",
-      "disposition": "APPROVE"
+      "location": "James 3:18",
+      "decision": "Use active English while retaining the unusual sowing-a-harvest image; note the alternative dative reading for peacemakers instead of by peacemakers.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "James 4:2",
+      "decision": "Follow the sequence of the pinned Greek without adding so between wanting and murder; note the punctuation question and retain murder without softening it.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "James 4:5",
+      "decision": "Retain the existing God-subject reading in clearer English; keep the major spirit-subject alternative and uncertain citation identification in the note.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "James 5:3",
+      "decision": "Retain the existing fire attachment while noting the pinned edition's alternative punctuation; preserve flesh, corrosion, hoarding, and last days.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "James 5:5",
+      "decision": "Retain hearts and slaughter rather than replacing them with an explanation; use on for en instead of silently importing a future-oriented for.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "James 5:6",
+      "decision": "Preserve the singular figure and inherited declarative reading; note that the pinned edition punctuates the final clause as a question.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "James 5:11",
+      "decision": "Render telos as outcome while noting purpose/end alternatives; keep endurance, Job, blessing, and the compassionate Lord.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "James 5:15",
+      "decision": "Keep save and raise distinct and retain the conditional presence of sins; avoid turning illness into proof of sin or promising a medical mechanism.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "James 5:16",
+      "decision": "Preserve mutual confession/prayer and the healing purpose; leave the participle's agency open and record the energized/effective alternatives.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "James 5:20",
+      "decision": "Preserve turning, way, life/death, and covering; retain the open life referent and note the Greek possessive rather than silently erasing its ambiguity.",
+      "disposition": "REVIEW_PENDING"
     }
   ],
+  "verse_ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
   "tsw_reconciliation_flags": [
     "James 1–5 contain duplicated Vocabulary blocks that should be normalized later.",
     "James 2 uses justify while project Romans vocabulary uses set right; shared lexical policy should be reconciled explicitly.",
     "James 3:4 contains typo 'eventhough'.",
     "James 4:5 current TSW chooses one difficult reading without exposing the major syntactic alternative.",
     "James 5:3 Vocabulary gloss 'decay through use' is too narrow for katioō/corrosion."
-  ]
+  ],
+  "companion_impact": "All five Fluent James chapter hashes changed. Prior companion bindings and editorial approvals do not automatically apply. Rebind and review companion quotations/wording in its own branch before publication; source-language provenance remains the same."
 }

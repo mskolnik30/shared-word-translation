@@ -2,51 +2,45 @@
   "book": "James",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
   "publication_allowed": false,
-  "canonical_tsw_sha": "5d0ca0910c43c71e4872c9d3e68645448eb4fdae",
+  "revision_id": "fluent-james-biblical-fluency-2026-09-10",
+  "supersedes": {
+    "commit": "984d86f25ff0c4e46b566e063fc0b86a8ed64eb7",
+    "path": "audit/exegetical-core/fluent-production/james/James_01_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Jas.txt"
+    "file": "data/sblgnt/text/Jas.txt",
+    "git_blob_sha": "283a675fdfab4ca4967ca5a72500a1aff2bd07c7",
+    "sha256": "1343ea4125c64585c738a2f8bf54a077947d0a6229b2642b39a1ad845f40e153",
+    "url": "https://github.com/Faithlife/SBLGNT/blob/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Jas.txt"
   },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 27,
+    "path": "translations/fluent/NT/james/James_01.md",
+    "before_sha256": "9df3301de36b74098ac979a5e1f4ae3f2984830162091fc33fedfd9c7e96102f",
+    "after_sha256": "2646285e6c7ec59fb0d1f3b2f098934868d447e79949d824611763133fd56093",
+    "tsw_comparator_path": "books/NT/james/James_01.md",
+    "tsw_comparator_sha256": "dc993a27d035a2492df63026be33769c1c6ac28e0873602e6d4c11db0987152b"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
   "key_decisions": [
     {
-      "location": "1:2-4",
-      "delta": "F2",
-      "decision": "Preserve peirasmos/testing → endurance → teleios/completion chain."
-    },
-    {
-      "location": "1:6-8",
+      "location": "James 1:6",
       "delta": "F3",
-      "decision": "Render diakrinomenos as being divided while preserving doubting/wavering range."
+      "decision": "Choose wavering for diakrinomenos while noting doubting/divided alternatives and the link to 1:8; keep the image intact.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "1:12-15",
-      "delta": "F2/F3",
-      "decision": "Preserve peirasmos word-family across testing and temptation without flattening contexts."
-    },
-    {
-      "location": "1:18",
-      "delta": "F2",
-      "decision": "Preserve birth imagery that answers desire→sin→death sequence."
-    },
-    {
-      "location": "1:20",
-      "delta": "F3_THEOLOGICAL_RESTRAINT",
-      "decision": "Keep righteousness of God without explanatory paraphrase."
-    },
-    {
-      "location": "1:21",
-      "delta": "F2",
-      "decision": "Render save your souls/lives as save you; note anthropology left open."
-    },
-    {
-      "location": "1:25",
-      "delta": "F1/F2",
-      "decision": "Preserve law of freedom and doer/hearer network."
+      "location": "James 1:12",
+      "delta": "F3",
+      "decision": "Retain crown and trial/testing language; God makes the implied referent explicit without claiming the pinned Greek contains an explicit Lord at this point.",
+      "disposition": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Canonical TSW apparatus used as comparator; duplicated Vocabulary, over-compressed notes, lexical inaccuracies, and translation-specific claims corrected for Fluent."
+  ]
 }

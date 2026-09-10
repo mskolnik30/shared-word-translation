@@ -4,100 +4,68 @@ testament: NT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-james-biblical-fluency-2026-09-10
 ---
 
-## The Tongue
+## The Power of the Tongue
 
 <p>
-v01: Not many of you should become teachers, my brothers and sisters, because you know that we who teach will be judged more strictly.
-v02: We all stumble in many ways. If anyone does not stumble in what they say, that person is complete, able to bridle the whole body as well.
-v03: When we put bits into horses' mouths so that they obey us, we guide their whole bodies.
-v04: Or consider ships: though they are so large and driven by strong winds, they are guided by a very small rudder wherever the pilot wants to go.
-v05: In the same way, the tongue is a small part of the body, yet it boasts of great things. See how small a fire can set such a great forest ablaze.
-v06: The tongue is also a fire, a world of unrighteousness among our members. It stains the whole body, sets the course of life on fire, and is itself set on fire by Gehenna.
+v01: My brothers and sisters, not many of you should become teachers. You know that those of us who teach will face a stricter judgment.
+v02: All of us stumble in many ways. Anyone who never stumbles in speech is fully mature and can bridle their whole body too.
+v03: We put bits in horses' mouths to make them obey us, and so we can turn their whole bodies.
+v04: Think of ships too. They are large and driven by fierce winds, yet a tiny rudder turns them wherever the person steering wants to go.
+v05: The tongue is like that: a small part of the body that makes great boasts. Look how a little fire sets a whole forest ablaze!
+v06: The tongue is a fire too. Among the parts of our body, it is a world of wrongdoing. It stains the whole body and sets the entire course of life ablaze, while Gehenna itself sets it on fire.
 </p>
 
 <p>
-v07: Every kind of animal and bird, reptile and sea creature, can be tamed and has been tamed by humankind,
-v08: but no human being can tame the tongue. It is a restless evil, full of deadly poison.
-v09: With it we bless our Lord and Father, and with it we curse people who are made in the likeness of God.
-v10: Blessing and cursing come from the same mouth. My brothers and sisters, this should not be.
-v11: Does a spring pour out both fresh and bitter water from the same opening?
-v12: Can a fig tree, my brothers and sisters, produce olives, or a grapevine produce figs? Neither can salt water produce fresh water.
+v07: Human beings tame, and have tamed, every kind of wild animal, bird, reptile, and sea creature.
+v08: Yet no human being can tame the tongue. It is an unruly evil, filled with deadly poison.
+v09: We use our tongues to bless the Lord and Father, and to curse people made in God's likeness.
+v10: Out of one mouth come both blessing and cursing. My brothers and sisters, it should not be this way.
+v11: Can fresh water and bitter water flow from the same opening in a spring?
+v12: My brothers and sisters, can a fig tree bear olives, or a vine bear figs? Neither can salt water yield fresh water.
 </p>
 
 ## Wisdom from Above
 
 <p>
-v13: Who among you is wise and understanding? Let that person show by good conduct their works done in the gentleness of wisdom.
-v14: But if you have bitter jealousy and selfish ambition in your hearts, do not boast and lie against the truth.
-v15: This is not the wisdom that comes down from above. It is earthly, unspiritual, demonic.
-v16: For wherever jealousy and selfish ambition exist, there is disorder and every kind of evil practice.
-v17: But the wisdom from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, impartial and sincere.
-v18: And a harvest of righteousness is sown in peace by those who make peace.
+v13: Who among you is wise and understanding? Show it through a good life and deeds done with the gentleness that wisdom brings.
+v14: But if your hearts hold bitter jealousy and selfish ambition, do not boast and deny the truth.
+v15: Wisdom like that does not come from above. It is earthly, unspiritual, and demonic.
+v16: Where jealousy and selfish ambition take hold, disorder and every kind of evil follow.
+v17: Wisdom from above is pure first of all. It is also peace-loving, considerate, open to persuasion, full of mercy and good fruit, impartial, and free of hypocrisy.
+v18: Those who make peace sow a harvest of righteousness in peace.
 </p>
 
 ## Notes
 
-v01: Greater responsibility accompanies teaching. James includes himself among those who will receive stricter judgment.
+v02–06: “Mature” repeats the word used in 1:4. The bridle recalls 1:26. James moves from bit to rudder to fire while keeping the tongue as a bodily image for speech.
 
-v02: `teleios` returns from chapter 1. Completeness is now illustrated through disciplined speech.
+v06: “The entire course of life” renders a difficult phrase, literally “the wheel of existence/birth.” Gehenna is a place-name used in Jewish judgment imagery; it is retained rather than silently replaced with a fully developed account of the afterlife.
 
-v03–05: Bit, rudder, and fire all develop the same disproportion: something small can direct or destroy something much larger.
+v09: The language of people made in God's likeness recalls Genesis 1:26–27. Both the blessing of God and the cursing of those people remain explicit.
 
-v06: “The course of life” translates a difficult expression, literally something like “the wheel/cycle of existence.” The image emphasizes the tongue's capacity to ignite the whole course of embodied life.
+v15–17: “Unspiritual” renders psychikos, whose range includes natural or belonging to ordinary human life. “Impartial” in v17 can also be understood as unwavering or without division. “Open to persuasion” describes willingness to listen and be persuaded.
 
-v06: “Gehenna” preserves the specific judgment image rather than replacing it with a generalized concept.
-
-v07–08: Human beings can tame the animal world yet cannot fully master their own speech.
-
-v09: James places blessing God beside cursing people made in God's likeness. The contradiction is theological, not merely social.
-
-v13: Wisdom is demonstrated in conduct. The phrase “gentleness of wisdom” resists separating character from discernment.
-
-v15: “Unspiritual” translates `psychikos`, which can mean natural, merely animate, or unspiritual depending on context.
-
-v17: The adjective translated “impartial” (`adiakritos`) is uncommon and can also carry senses such as unwavering or without uncertainty. The main text follows the contextual connection with partiality elsewhere in James while the alternative remains open.
-
-v18: Righteousness is portrayed agriculturally as a harvest sown in peace by peacemakers.
+v18: The Greek can be read as a harvest sown “by those who make peace” or “for those who make peace.” Fluent follows the first reading. The unusual image of sowing a harvest of righteousness is kept.
 
 ## Vocabulary
 
-v02: τέλειος (teleios)
-“Complete” or “mature.” Connected with James 1:4.
-
-v05: γλῶσσα (glōssa)
-“Tongue,” used as a metonym for speech.
-
 v06: γέεννα (Gehenna)
-“Gehenna,” a place-name used as an image of judgment.
+A place-name used as an image of judgment.
 
-v08: ἀκατάστατος (akatastatos)
-“Restless, unstable, unsettled.”
-
-v09: ὁμοίωσις (homoiōsis)
-“Likeness.”
-
-v13: σοφία (sophia)
-“Wisdom.”
-
-v14: ζῆλος (zēlos)
-“Jealousy, zeal.”
-
-v14: ἐριθεία (eritheia)
-“Selfish ambition.”
-
-v15: ψυχικός (psychikos)
-“Natural, unspiritual, belonging merely to ordinary life.”
-
-v16: ἀκαταστασία (akatastasia)
-“Disorder, instability.”
+v13: πραΰτης (prautēs)
+Gentleness or humility; the same noun appears in 1:21.
 
 v17: εὐπειθής (eupeithēs)
-“Willing to yield, open to persuasion.”
+Open to persuasion, willing to listen.
 
 v17: ἀδιάκριτος (adiakritos)
-“Impartial, unwavering, without division.” The precise nuance is debated.
+Impartial or unwavering; the precise sense is debated.
 
-v18: καρπός (karpos)
-“Fruit” or “harvest.”
+v18: δικαιοσύνη (dikaiosynē)
+Righteousness or justice. Also used in 1:20 and 2:23.

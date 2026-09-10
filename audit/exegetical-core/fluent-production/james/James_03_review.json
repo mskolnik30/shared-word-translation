@@ -2,41 +2,51 @@
   "book": "James",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
   "publication_allowed": false,
-  "canonical_tsw_sha": "75e33d3d6dd169ddcbeac5cf9aca5c059491ebbb",
+  "revision_id": "fluent-james-biblical-fluency-2026-09-10",
+  "supersedes": {
+    "commit": "984d86f25ff0c4e46b566e063fc0b86a8ed64eb7",
+    "path": "audit/exegetical-core/fluent-production/james/James_03_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Jas.txt"
+    "file": "data/sblgnt/text/Jas.txt",
+    "git_blob_sha": "283a675fdfab4ca4967ca5a72500a1aff2bd07c7",
+    "sha256": "1343ea4125c64585c738a2f8bf54a077947d0a6229b2642b39a1ad845f40e153",
+    "url": "https://github.com/Faithlife/SBLGNT/blob/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Jas.txt"
   },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 18,
+    "path": "translations/fluent/NT/james/James_03.md",
+    "before_sha256": "8c1baaf2a4114f06d761d1b45b6b978848fae15b36c87643878a0d61b0d7191b",
+    "after_sha256": "541c83c653474852b3c2f6dfc5bc208c96a10c7f47f50b5de35d3515adcbfeea",
+    "tsw_comparator_path": "books/NT/james/James_03.md",
+    "tsw_comparator_sha256": "d7ccadb098852152b5fde2b86ec69a3ff90ca5b1b9d843ecc817ec8aad20c045"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
   "key_decisions": [
     {
-      "location": "3:2",
-      "delta": "F1/F2",
-      "decision": "teleios connects disciplined speech to book-wide completion theme."
-    },
-    {
-      "location": "3:6",
+      "location": "James 3:6",
       "delta": "F3",
-      "decision": "course of life retained for difficult trochos tēs geneseōs expression."
+      "decision": "Break the dense syntax into sentences without losing any of the images; retain Gehenna and document the difficult course-of-life expression.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "3:15",
-      "delta": "F2",
-      "decision": "psychikos → unspiritual; natural/merely animate range noted."
-    },
-    {
-      "location": "3:17",
+      "location": "James 3:17",
       "delta": "F3",
-      "decision": "adiakritos → impartial; unwavering/undivided alternatives noted."
+      "decision": "Make eupeithes intelligible as open to persuasion; retain good fruit and the disputed impartial choice with its alternatives noted.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "location": "3:18",
-      "delta": "F1",
-      "decision": "Preserve agricultural harvest/righteousness/peace imagery."
+      "location": "James 3:18",
+      "delta": "F3",
+      "decision": "Use active English while retaining the unusual sowing-a-harvest image; note the alternative dative reading for peacemakers instead of by peacemakers.",
+      "disposition": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Canonical TSW apparatus used as comparator; duplicated Vocabulary, over-compressed notes, lexical inaccuracies, and translation-specific claims corrected for Fluent."
+  ]
 }

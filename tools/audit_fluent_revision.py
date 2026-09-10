@@ -1,0 +1,103 @@
+#!/usr/bin/env python3
+"""Verify a source-bound Fluent revision ledger; does not approve translation choices."""
+import argparse
+from collections import Counter
+import hashlib
+import json
+from pathlib import Path
+import re
+import subprocess
+
+from audit_translation_overlap import verse_texts
+
+
+def sha(data):
+    return hashlib.sha256(data).hexdigest()
+
+
+def audit(root, ledger, source_bytes):
+    errors = []
+
+    def check(condition, message):
+        if not condition:
+            errors.append(message)
+
+    source = ledger['source']
+    check(sha(source_bytes) == source['sha256'], 'source SHA-256 mismatch')
+    blob = hashlib.sha1(b'blob ' + str(len(source_bytes)).encode() + b'\0' + source_bytes).hexdigest()
+    check(blob == source['git_blob_sha'], 'source Git blob mismatch')
+    source_verses = {}
+    for line in source_bytes.decode().splitlines():
+        match = re.match(r'([^\t]+)\t(.*)', line)
+        if match:
+            check(match[1] not in source_verses, f'duplicate source reference: {match[1]}')
+            source_verses[match[1]] = match[2]
+    references = [v['source_reference'] for v in ledger['verses']]
+    check(len(references) == len(set(references)), 'duplicate ledger reference')
+    check(set(references) == set(source_verses), 'ledger/source coverage differs')
+    check(ledger['publication_allowed'] is False, 'draft publication must remain blocked')
+    check(ledger['status'] == 'REVIEW_PENDING', 'draft editorial status changed')
+    chapters = {}
+    for chapter in ledger['chapters']:
+        current = (root / chapter['path']).read_bytes()
+        check(sha(current) == chapter['after_sha256'], f"current hash mismatch: {chapter['path']}")
+        before = subprocess.check_output(['git', 'show', f"{ledger['base_commit']}:{chapter['path']}"], cwd=root)
+        check(sha(before) == chapter['before_sha256'], f"base hash mismatch: {chapter['path']}")
+        comparator = (root / chapter['tsw_comparator_path']).read_bytes()
+        check(sha(comparator) == chapter['tsw_comparator_sha256'], f"TSW hash mismatch: {chapter['path']}")
+        text = current.decode()
+        check('editorial_status: REVIEW_PENDING\n' in text and 'publication_allowed: false\n' in text,
+              f"missing draft metadata: {chapter['path']}")
+        body = text.split('## Notes')[0]
+        opened = False
+        for line in body.splitlines():
+            if line == '<p>':
+                check(not opened, f"nested paragraph: {chapter['path']}")
+                opened = True
+            elif line == '</p>':
+                check(opened, f"unmatched paragraph close: {chapter['path']}")
+                opened = False
+            elif re.match(r'^v\d+:', line):
+                check(opened, f"verse outside paragraph: {chapter['path']}")
+        check(not opened, f"unclosed paragraph: {chapter['path']}")
+        check(text.count('## Notes\n') == 1 and text.count('## Vocabulary\n') == 1,
+              f"apparatus heading count: {chapter['path']}")
+        after, old, tsw = map(verse_texts, (text, before.decode(), comparator.decode()))
+        expected = [f'{v:02}' for v in range(1, chapter['verse_count'] + 1)]
+        check(list(after) == expected, f"verse sequence mismatch: {chapter['path']}")
+        check(list(old) == list(after) == list(tsw), f"verse alignment mismatch: {chapter['path']}")
+        chapters[chapter['chapter']] = (after, old, tsw)
+    seen = Counter()
+    for verse in ledger['verses']:
+        chapter, label = map(int, verse['source_reference'].split()[-1].split(':'))
+        after, old, tsw = chapters[chapter]
+        key = f'{label:02}'
+        seen[chapter] += 1
+        check(after[key] == verse['after'] and old[key] == verse['before'] and tsw[key] == verse['tsw_comparator'],
+              f"ledger text mismatch: {verse['reference']}")
+        check(verse['delta'] in ('F0', 'F1', 'F2', 'F3') and bool(verse['rationale'].strip()),
+              f"missing/invalid decision: {verse['reference']}")
+        check(verse['editorial_status'] == 'REVIEW_PENDING', f"unexpected approval: {verse['reference']}")
+        raw = source_verses.get(verse['source_reference'], '')
+        check(sha(raw.encode()) == verse['source_verse_sha256'], f"source verse hash mismatch: {verse['reference']}")
+    check(dict(seen) == {c['chapter']: c['verse_count'] for c in ledger['chapters']}, 'chapter/ledger counts differ')
+    return errors
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('ledger', type=Path)
+    parser.add_argument('--source-text', type=Path, required=True)
+    parser.add_argument('--repo-root', type=Path, default=Path(__file__).resolve().parents[1])
+    args = parser.parse_args()
+    ledger = json.loads(args.ledger.read_text())
+    errors = audit(args.repo_root, ledger, args.source_text.read_bytes())
+    print(json.dumps({'status': 'FAILED' if errors else 'PASSED',
+                      'chapters': len(ledger['chapters']), 'verses': len(ledger['verses']),
+                      'scope': 'source identity, byte bindings, coverage, format, ledger consistency; no human approval',
+                      'errors': errors}, indent=2))
+    return int(bool(errors))
+
+
+if __name__ == '__main__':
+    raise SystemExit(main())

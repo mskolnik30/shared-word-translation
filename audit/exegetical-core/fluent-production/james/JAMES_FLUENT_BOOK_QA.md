@@ -1,35 +1,26 @@
-# James — Fluent Book-Level QA
+# James — Fluent revision review
 
-**Status: QA_PASSED / ready for a development PR after installation.**
+Revision: `fluent-james-biblical-fluency-2026-09-10`.
 
-James contains 108 canonical verses:
-- James 1 — 27
-- James 2 — 26
-- James 3 — 18
-- James 4 — 17
-- James 5 — 20
+All five chapters and 108 verses have been revised against the existing pinned SBLGNT source. The Greek source blob remains `283a675fdfab4ca4967ca5a72500a1aff2bd07c7`; this revision does not change source edition.
 
-## Book-level anchors
+Human editorial status: **REVIEW_PENDING**. Publication is blocked for this revision. Chapter front matter `QA_PASSED` is scoped explicitly to structural checks; it is not human approval of the new wording. Prior review dispositions are historical and do not approve these revisions.
 
-- Preserve the **trial / testing / temptation** `peirasmos` network.
-- Preserve **complete / mature / completion** language for the `teleios` family.
-- Preserve **hearer / doer** and **faith / works** as visible rhetorical networks.
-- Let James's **faith and works** argument stand on its own terms rather than harmonizing it into Romans.
-- Use the project term **set right** for `dikaioō`, while preserving justify/vindicate nuances in apparatus.
-- Preserve the contrast between **wisdom from above** and earthly wisdom.
-- Preserve the book's sustained concern with **speech / tongue / teaching**.
-- Preserve **rich / poor / partiality** status reversals.
-- Preserve **endurance / patience** from chapter 1 through chapter 5.
-- Preserve **prayer / confession / healing / restoration** without mechanistic expansion.
+The current [verse ledger](../../../fluent-revision/2026-09-10/james-verse-review.json) records each verse's prior Fluent text, proposed text, TSW comparator, source reference, editorial delta classification, and rationale. The [revision report](../../../fluent-revision/2026-09-10/README.md) describes results and remaining work.
 
-## Major F3 decisions
+## Reading priorities
 
-- 1:6 — “without being divided,” with doubting/wavering range noted.
-- 2:14 — “Can that kind of faith save?”
-- 2:20 — SBLGNT `argē`: “useless/inactive,” not the variant “dead.”
-- 2:21–25 — `dikaioō` → **set right**, with no doctrinal harmonization into Romans.
-- 3:6 — **course of life** for the difficult `trochos tēs geneseōs`.
-- 3:17 — **impartial** for `adiakritos`, while alternatives remain noted.
-- 4:5 — God-subject reading retained in main text; major spirit-subject alternative explicitly preserved.
-- 5:15 — retain **save** and **raise** as distinct verbs in a healing context.
-- 5:20 — “save a life from death” avoids forcing an ambiguous pronoun referent.
+- Keep the trial/testing/temptation and endurance movement intact.
+- Make mature/completion language recognizable across chapters 1–3.
+- Connect listening and doing with the sustained faith-and-deeds argument.
+- Let James's claim about being set right by deeds stand without harmonizing it into Romans.
+- Preserve bridle, tongue, fire, spring, fruit, and harvest imagery.
+- Keep the poor, withheld wages, violence, and communal responsibility explicit.
+- Clarify who prays, who is sick, and what the elders do in chapter 5.
+- Keep consequential ambiguities in the text or selective apparatus.
+
+## Decisions needing editorial attention
+
+See the JSON book review and verse ledger for all F3 entries, including 1:6, 1:12, 2:3, 2:18, 2:21–25, 3:6, 3:17–18, 4:2, 4:5, and 5:3, 5:5–6, 5:11, 5:15–16, 5:20. New notes distinguish source wording, editorial punctuation, alternate constructions, and retained translation choices.
+
+All five translation chapter hashes changed. Any Companion bound to the previous bytes needs rebinding, quotation checks, and editorial review before publication. This branch does not fabricate new approvals or modify the separate Companion work in progress.

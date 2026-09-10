@@ -4,102 +4,72 @@ testament: NT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-james-biblical-fluency-2026-09-10
 ---
 
 ## Desires at War
 
 <p>
-v01: Where do the conflicts and fights among you come from? Do they not come from your desires that are at war within you?
-v02: You desire and do not have, so you murder. You covet and cannot obtain, so you fight and wage war. You do not have because you do not ask.
-v03: You ask and do not receive because you ask with wrong motives, so that you can spend it on your desires.
-v04: You adulterous people! Do you not know that friendship with the world is hostility toward God? Whoever chooses to be a friend of the world makes themselves an enemy of God.
-v05: Or do you think Scripture speaks for no reason when it says, “He yearns jealously for the spirit he has caused to dwell in us”?
-v06: But he gives greater grace. Therefore Scripture says, “God opposes the proud but gives grace to the humble.”
+v01: What causes the wars and quarrels among you? Is it not the pleasures you crave, waging war within your bodies?
+v02: You want what you do not have. You murder and covet, but cannot get what you want. You quarrel and wage war. You do not have because you do not ask.
+v03: You ask but do not receive, because you ask with wrong motives: you want to spend what you receive on your pleasures.
+v04: You adulterous people! Do you not know that friendship with the world means hostility toward God? Anyone who wants to be the world's friend becomes God's enemy.
+v05: Or do you think Scripture speaks empty words when it says, “God longs jealously for the spirit he made to live in us”?
+v06: But God gives greater grace. That is why Scripture says, “God opposes the proud but gives grace to the humble.”
 </p>
 
 <p>
-v07: Therefore submit yourselves to God. Resist the devil, and he will flee from you.
-v08: Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.
-v09: Be miserable, mourn, and weep. Let your laughter be turned to mourning and your joy to gloom.
-v10: Humble yourselves before the Lord, and he will exalt you.
+v07: So submit yourselves to God. Stand against the devil, and he will run from you.
+v08: Come close to God, and God will come close to you. Wash your hands, you sinners; purify your hearts, you whose minds are divided.
+v09: Grieve, mourn, and weep. Turn your laughter into mourning and your joy into sorrow.
+v10: Humble yourselves in the Lord's presence, and the Lord will lift you up.
 </p>
 
 ## Do Not Judge One Another
 
 <p>
-v11: Do not speak against one another, brothers and sisters. The one who speaks against a brother or sister or judges them speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but its judge.
-v12: There is one lawgiver and judge, the one who is able to save and destroy. But who are you to judge your neighbor?
+v11: Brothers and sisters, do not speak against one another. If you speak against or judge a brother or sister, you speak against the law and judge it. When you judge the law, you sit as its judge instead of doing what it says.
+v12: There is only one lawgiver and judge, who can save and destroy. Who are you to judge your neighbor?
 </p>
 
-## Boasting About Tomorrow
+## Plans for Tomorrow
 
 <p>
-v13: Come now, you who say, “Today or tomorrow we will go to such-and-such a city, spend a year there, conduct business, and make a profit.”
-v14: Yet you do not know what tomorrow will bring. What is your life? You are a mist that appears for a little while and then disappears.
-v15: Instead you should say, “If the Lord wills, we will live and do this or that.”
-v16: As it is, you boast in your arrogance. All such boasting is evil.
-v17: So whoever knows the right thing to do and does not do it, for that person it is sin.
+v13: Now listen, you who say, “Today or tomorrow we will go to a certain city, spend a year there trading, and make a profit.”
+v14: You do not even know what your life will be like tomorrow. You are a mist, visible for a moment and then gone.
+v15: Instead, say, “If the Lord wishes, we will live and do this or that.”
+v16: But you take pride in your arrogant claims. All boasting of that kind is evil.
+v17: So if you know the good you should do and leave it undone, you sin.
 </p>
 
 ## Notes
 
-v01–03: James traces communal conflict into disordered desire. Asking God is not treated as a technique; motives remain morally relevant.
+v01–03: The word rendered “pleasures” differs from the word for “desire” in 1:14. Verse 2 is difficult to punctuate. Fluent retains the sequence “You want … You murder and covet … You quarrel” without adding a causal “so” before “murder.”
 
-v04: The feminine plural “adulteresses” uses covenant-infidelity imagery. Fluent uses the idiomatic “adulterous people” while preserving the relational metaphor.
+v04: The Greek directly addresses “adulteresses,” using the marital image of unfaithfulness to God. “Adulterous people” carries that accusation to the whole group without erasing the metaphor.
 
-v05: This is one of the most difficult sentences in James. The source of the alleged scriptural citation is uncertain, and the Greek can be construed in more than one way. The main text takes God as the one who jealously yearns for the spirit he caused to dwell in us. Another viable reading is, “The spirit he caused to dwell in us yearns with envy.” The ambiguity should not be hidden.
+v05: The exact scriptural source is uncertain, and the grammar permits different readings. Fluent takes God as the one who longs for the spirit placed in us. Another reading is “The spirit he made to live in us longs with envy.” Neither the subject nor the sense of the longing should be treated as beyond dispute.
 
-v06: “He gives greater grace” answers the jealousy/pride problem not with human self-sufficiency but with divine grace.
+v06–08: Verse 6 quotes Proverbs 3:34 in its Greek form. The “divided” minds in v08 recall 1:8. Hands and hearts remain concrete images rather than being replaced with an abstract instruction.
 
-v07–10: Submit, resist, draw near, cleanse, purify, mourn, and humble form a dense sequence of imperatives describing reorientation toward God.
-
-v08: `dipsychos`, “double-minded,” returns from 1:8 and gives the letter another internal lexical link.
-
-v11–12: James connects speaking against another person with judging the law itself, then reserves final judgment to the one lawgiver and judge.
-
-v13–16: The problem is not planning as such but planning that speaks as though life and future were under human control.
-
-v14: “Mist” preserves the brief vapor image rather than replacing it with an abstract statement about mortality.
-
-v17: James closes the section by making omitted good action morally significant.
+v14–15: Verse 14's compressed wording connects uncertainty about tomorrow with the nature of life. Verse 15 makes both continued life and planned action dependent on the Lord's will.
 
 ## Vocabulary
 
 v01: ἡδονή (hēdonē)
-“Desire, pleasure.” Here desires are pictured as waging war within the person/community.
-
-v04: φιλία (philia)
-“Friendship.”
-
-v04: ἔχθρα (echthra)
-“Hostility, enmity.”
-
-v05: ἐπιποθέω (epipotheō)
-“To long for, yearn for.”
-
-v05: φθόνος (phthonos)
-“Envy, jealousy.” The syntax of the verse is disputed.
+Pleasure or enjoyment; here pictured as waging war within the readers.
 
 v06: χάρις (charis)
-“Grace.”
-
-v06: ταπεινός (tapeinos)
-“Lowly, humble.”
-
-v07: ὑποτάσσω (hypotassō)
-“To submit, place oneself under.”
+Grace, favor, or gift.
 
 v08: δίψυχος (dipsychos)
-“Double-minded, divided in allegiance.”
-
-v11: καταλαλέω (katalaleō)
-“To speak against, slander.”
+Divided in mind, literally “two-souled”; also used in 1:8.
 
 v14: ἀτμίς (atmis)
-“Mist, vapor.”
+Mist or vapor.
 
 v16: ἀλαζονεία (alazoneia)
-“Arrogant boasting, pretension.”
-
-v17: ἁμαρτία (hamartia)
-“Sin.”
+Arrogant pretension or boasting.
