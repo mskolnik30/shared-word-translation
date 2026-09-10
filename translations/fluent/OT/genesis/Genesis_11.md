@@ -4,150 +4,130 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-1-11-biblical-fluency-2026-09-10
 ---
 
-## The Tower of Babel
+## The City and the Tower
+
 <p>
-v01: Now the entire earth had one language and the same words.
-v02: And as people journeyed from the east, they found a plain in the land of Shinar and settled there.
-v03: And they said to one another, “Come, let us make bricks and burn them thoroughly.” And they had brick for stone, and bitumen for mortar.
-v04: Then they said, “Come, let us build for ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be scattered over the face of the entire earth.”
+v01: The whole earth had one language and the same words.
+v02: As people traveled from the east, they found a plain in the land of Shinar and settled there.
 </p>
 
 <p>
-v05: Then the LORD came down to see the city and the tower that the children of humankind had built.
-v06: And the LORD said, “Look, they are one people, and they all have one language, and this is only the beginning of what they will do. Nothing that they plan to do will now be withheld from them.
-v07: Come, let us go down and confuse their language there, so that they may not understand one another’s speech.”
-v08: So the LORD scattered them from there over the face of all the earth, and they ceased building the city.
-v09: So its name was called Babel, because there the LORD confused the language of all the earth. And from there the LORD scattered them over the face of all the earth.
-</p>
-
-## The Generations of Shem
-<p>
-v10: These are the generations of Shem. When Shem was one hundred years old, he fathered Arpachshad two years after the flood.
-v11: Shem lived after he fathered Arpachshad five hundred years, and he fathered sons and daughters.
+v03: They said to one another, “Come on, let us make bricks and burn them hard.” They used brick in place of stone, and bitumen in place of mortar.
+v04: Then they said, “Come on, let us build ourselves a city and a tower with its top in the heavens. Let us make a name for ourselves so that we will not be scattered over the whole earth.”
 </p>
 
 <p>
-v12: When Arpachshad had lived thirty-five years, he fathered Shelah.
-v13: Arpachshad lived after he fathered Shelah four hundred three years, and he fathered sons and daughters.
+v05: The LORD came down to see the city and the tower the humans had built.
+v06: The LORD said, “Look, they are one people, all with one language, and this is only the beginning of what they will do. Now nothing they plan will be beyond their reach.
 </p>
 
 <p>
-v14: When Shelah had lived thirty years, he fathered Eber.
-v15: Shelah lived after he fathered Eber four hundred three years, and he fathered sons and daughters.
+v07: Come on, let us go down and confuse their language there, so that they cannot understand one another.”
 </p>
 
 <p>
-v16: When Eber had lived thirty-four years, he fathered Peleg.
-v17: Eber lived after he fathered Peleg four hundred thirty years, and he fathered sons and daughters.
+v08: So the LORD scattered them from there across the whole earth, and they stopped building the city.
+v09: That is why it was called Babel: there the LORD confused the language of the whole earth, and from there the LORD scattered them across the whole earth.
+</p>
+
+## Shem’s Family Line
+
+<p>
+v10: This is the account of Shem's family. Shem was 100 years old when he became the father of Arpachshad, two years after the flood.
+v11: After Arpachshad's birth, Shem lived another 500 years and had other sons and daughters.
 </p>
 
 <p>
-v18: When Peleg had lived thirty years, he fathered Reu.
-v19: Peleg lived after he fathered Reu two hundred nine years, and he fathered sons and daughters.
+v12: Arpachshad was 35 years old when he became the father of Shelah.
+v13: After Shelah's birth, Arpachshad lived another 403 years and had other sons and daughters.
 </p>
 
 <p>
-v20: When Reu had lived thirty-two years, he fathered Serug.
-v21: Reu lived after he fathered Serug two hundred seven years, and he fathered sons and daughters.
+v14: Shelah was 30 years old when he became the father of Eber.
+v15: After Eber's birth, Shelah lived another 403 years and had other sons and daughters.
 </p>
 
 <p>
-v22: When Serug had lived thirty years, he fathered Nahor.
-v23: Serug lived after he fathered Nahor two hundred years, and he fathered sons and daughters.
+v16: Eber was 34 years old when he became the father of Peleg.
+v17: After Peleg's birth, Eber lived another 430 years and had other sons and daughters.
 </p>
 
 <p>
-v24: When Nahor had lived twenty-nine years, he fathered Terah.
-v25: Nahor lived after he fathered Terah one hundred nineteen years, and he fathered sons and daughters.
+v18: Peleg was 30 years old when he became the father of Reu.
+v19: After Reu's birth, Peleg lived another 209 years and had other sons and daughters.
 </p>
 
 <p>
-v26: When Terah had lived seventy years, he fathered Abram, Nahor, and Haran.
-</p>
-
-## The Family of Terah
-<p>
-v27: These are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot.
-v28: Haran died in the presence of his father Terah in the land of his birth, in Ur of the Chaldeans.
-v29: Abram and Nahor took wives for themselves. The name of Abram’s wife was Sarai, and the name of Nahor’s wife was Milcah, the daughter of Haran, the father of Milcah and Iscah.
-v30: Now Sarai was barren; she had no child.
+v20: Reu was 32 years old when he became the father of Serug.
+v21: After Serug's birth, Reu lived another 207 years and had other sons and daughters.
 </p>
 
 <p>
-v31: Terah took Abram his son, and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram’s wife, and they went out together from Ur of the Chaldeans to go into the land of Canaan. But when they came to Haran, they settled there.
-v32: The days of Terah were two hundred five years, and Terah died in Haran.
+v22: Serug was 30 years old when he became the father of Nahor.
+v23: After Nahor's birth, Serug lived another 200 years and had other sons and daughters.
+</p>
+
+<p>
+v24: Nahor was 29 years old when he became the father of Terah.
+v25: After Terah's birth, Nahor lived another 119 years and had other sons and daughters.
+</p>
+
+<p>
+v26: After Terah reached 70 years of age, he became the father of Abram, Nahor, and Haran.
+</p>
+
+## Terah’s Family
+
+<p>
+v27: This is the account of Terah's family. Terah became the father of Abram, Nahor, and Haran, and Haran became the father of Lot.
+</p>
+
+<p>
+v28: Haran died while his father Terah was still alive, in Ur of the Chaldeans, the land of his birth.
+</p>
+
+<p>
+v29: Abram and Nahor married. Abram's wife was named Sarai, and Nahor's wife was Milcah, the daughter of Haran, who was the father of both Milcah and Iscah.
+</p>
+
+<p>
+v30: Sarai could not bear children; she had no child.
+</p>
+
+<p>
+v31: Terah took his son Abram, his grandson Lot, who was Haran's son, and his daughter-in-law Sarai, Abram's wife. Together they left Ur of the Chaldeans for Canaan. When they reached Haran, they settled there.
+</p>
+
+<p>
+v32: Terah lived 205 years. He died in Haran.
 </p>
 
 ## Notes
 
-v01: Human unity is described through shared language and speech. The narrative presents this unity as a significant source of collective power.
+v01–03: “One language” is literally one lip. “From the east” can also be rendered eastward. Shinar and the ancient materials—fired brick and bitumen—are retained rather than replaced with modern building methods.
 
-v03–04: The project centers on human achievement, security, and reputation. The repeated “for ourselves” highlights self-directed ambition.
+v04–09: The shared calls “Come on, let us …” appear in both human and divine speech. The tower's top is in the heavens, yet the LORD comes down to see it. Babel echoes balal, “confuse,” in the Hebrew telling; this is a narrative soundplay, not a claim to establish the historical origin of the city's name.
 
-v04: The desire to avoid being scattered stands in tension with God’s purpose that humanity fill the earth.
+v10–26: The family line keeps the ages of the pinned Hebrew text, including Eber's 430 years after Peleg's birth. The age followed by three sons in v26 does not establish simultaneous births or necessarily their birth order.
 
-v05: The LORD “comes down” to see the tower. The irony is deliberate: a tower reaching heaven still requires divine descent to be examined.
-
-v06–07: The problem is not human creativity itself but humanity united in a project detached from divine purposes.
-
-v08–09: Scattering and linguistic diversity become the means through which God restrains human self-exaltation.
-
-v09: The name Babel is linked to the confusion of language. The narrative employs a wordplay between Babel and the verb “to confuse.”
-
-v10–26: The genealogy narrows the focus from the nations of the earth to the family line through which the Abraham narrative will unfold.
-
-v27–32: The account of Terah’s family bridges primeval history and the story of Abram.
-
-v30: Sarai’s barrenness is introduced before God’s promises, establishing a central tension in the chapters that follow.
-
-v31: The movement toward Canaan begins with Terah, though the journey pauses in Haran.
-
-v32: The chapter ends with death and incompletion, creating anticipation for the call of Abram.
-
-v09: The narrative employs a wordplay between Babel and the verb “to confuse.”
+v27–32: Lot is Haran's son and Terah's grandson. Milcah and Iscah are both named as Haran's daughters. The departure wording in v31 is compressed; the English makes the traveling group readable while preserving each named relationship. Sarai's inability to bear children is reported without assigning fault.
 
 ## Vocabulary
 
-v01: שָׂפָה (śāpâ)
-“Language,” “lip,” or “speech.” A term emphasizing shared communication.
+v01: שָׂפָה (safah)
+Lip or language; a different word from the language term in chapter 10.
 
-v04: שֵׁם (šēm)
-“Name.” Often signifies reputation, identity, or lasting significance.
+v03: חֵמָר (chemar)
+Bitumen, used here as binding material.
 
-v04: פּוּץ (pûṣ)
-“To scatter.” A key verb in the Babel narrative, describing dispersal across the earth.
+v09: בָּלַל (balal)
+Mix or confuse; echoed by Babel in the narrative.
 
-v05: יָרַד (yāraḏ)
-“To go down.” The verb underscores the contrast between divine perspective and human ambition.
-
-v07: בָּלַל (bālal)
-“To confuse” or “mix.” The verb that provides the wordplay behind Babel.
-
-v09: בָּבֶל (Bāḇel)
-“Babel.” The city associated with confusion and scattering in the biblical narrative.
-
-v10: תּוֹלְדוֹת (tôlĕdôt)
-“Generations” or “account.” A recurring structural marker in Genesis.
-
-v29: אָב (ʾāḇ)
-“Father.” A foundational genealogical term emphasizing lineage and inheritance.
-
-v30: עֲקָרָה (ʿăqārâ)
-“Barren.” Describes inability to bear children and often introduces themes of divine intervention.
-
-v31: כְּנַעַן (Kĕnaʿan)
-“Canaan.” The land that becomes central to God’s promises to Abram and his descendants.
-
-v31: יָצָא (yāṣāʾ)
-“To go out.” Frequently associated with journeys, departures, and divine calling.
-
-v32: מוּת (mûṯ)
-“To die.” The recurring reminder of mortality that continues throughout the genealogies.
-
-v01: שָׂפָה (śāpâ)
-“Language,” “lip,” or “speech.” A term with a sense of shared communication.
-
-v04: שֵׁם (šēm)
-“Name.” Often can denote reputation, identity, or lasting significance.
+v10: תּוֹלְדוֹת (toledot)
+Family account or generations; the recurring Genesis organizing formula.

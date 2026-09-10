@@ -1,0 +1,14 @@
+{
+  "status": "PASSED",
+  "checks": {
+    "genesis_source_coverage_format_and_bindings": true,
+    "missing_verse_rejected": true,
+    "scope_mismatch_rejected": true,
+    "wrong_source_rejected": true,
+    "wrong_verse_binding_rejected": true,
+    "written_and_read_forms_bound": true,
+    "genesis_5_age_transcription": true,
+    "genesis_11_eber_430": true
+  },
+  "scope": "Automated integrity and targeted transcription checks only; editorial review remains pending."
+}

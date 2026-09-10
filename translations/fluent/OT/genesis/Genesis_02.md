@@ -4,178 +4,106 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-1-11-biblical-fluency-2026-09-10
 ---
 
 ## The Seventh Day
 
 <p>
-v01: Thus the heavens and the earth were finished, and all their host.
-v02: And on the seventh day God finished the work that God had done, and rested on the seventh day from all the work that God had done.
-v03: So God blessed the seventh day and made it holy, because on it God rested from all the work of creating that God had done.
+v01: So the heavens and the earth were completed, with everything in them.
+v02: On the seventh day God completed the work and rested from all the work God had done.
+v03: God blessed the seventh day and made it holy, because on that day God rested from all the work of creation.
 </p>
 
 ## The Garden and the Human
 
 <p>
-v04: These are the generations of the heavens and the earth when they were created.
+v04: This is the account of the heavens and the earth when they were created. When the LORD God made earth and heaven,
+v05: no shrub of the field had yet appeared on the earth, and no plant of the field had sprouted. The LORD God had not sent rain on the earth, and there was no human to work the ground.
+v06: But a flow of water rose from the earth and watered the whole surface of the ground.
 </p>
 
 <p>
-On the day that the LORD God made the earth and the heavens,
-v05: when no plant of the field was yet in the earth and no herb of the field had yet sprung up—for the LORD God had not caused it to rain upon the earth, and there was no human to till the ground,
-v06: but a stream would rise from the earth and water the whole face of the ground—
-v07: then the LORD God formed the human from the dust of the ground, and breathed into its nostrils the breath of life; and the human became a living being.
+v07: The LORD God shaped the human from dust taken from the ground and breathed the breath of life into the human's nostrils. The human became a living being.
+v08: The LORD God planted a garden in Eden, in the east, and placed there the human God had formed.
+v09: The LORD God made all kinds of trees grow from the ground, beautiful to look at and good for food. In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.
 </p>
 
 <p>
-v08: And the LORD God planted a garden in Eden, in the east; and there God put the human whom God had formed.
-v09: Out of the ground the LORD God made to grow every tree that is pleasant to the sight and good for food, with the tree of life in the middle of the garden, and the tree of the knowledge of good and evil.
+v10: A river flowed out of Eden to water the garden. Beyond it, the river divided into four branches.
+v11: The first river was named Pishon. It wound through all the land of Havilah, where there was gold.
+v12: The gold of that land was good. Bdellium and onyx were found there too.
+v13: The second river was named Gihon. It wound through all the land of Cush.
+v14: The third river was the Tigris, flowing east of Assyria. The fourth was the Euphrates.
+</p>
+
+## Work and a Boundary
+
+<p>
+v15: The LORD God took the human and settled him in the garden of Eden to work it and care for it.
 </p>
 
 <p>
-v10: A river flows out of Eden to water the garden, and from there it divides and becomes four branches.
-v11: The name of the first is the Pishon; it flows around the whole land of Havilah, where there is gold;
-v12: and the gold of that land is good; bdellium and onyx stone are there.
-v13: The name of the second river is the Gihon; it flows around the whole land of Cush.
-v14: The name of the third river is the Tigris, which flows east of Assyria. And the fourth river is the Euphrates.
+v16: The LORD God commanded the human, “You may eat freely from every tree in the garden,
+v17: but you must not eat from the tree of the knowledge of good and evil. When you eat from it, you will certainly die.”
 </p>
 
-## Vocation and Boundary
+## A Corresponding Helper
 
 <p>
-v15: The LORD God took the human and put the human in the garden of Eden to till it and to keep it.
-v16: And the LORD God commanded the human, “You may freely eat of every tree of the garden;
-v17: but of the tree of the knowledge of good and evil you will not eat, for in the day that you eat of it you will surely die.”
-</p>
-
-## Companionship
-
-<p>
-v18: Then the LORD God said, “It is not good that the human should be alone; I will make for the human a helper as a counterpart.”
-v19: So out of the ground the LORD God formed every animal of the field and every bird of the air, and brought them to the human to see what the human would call them; and whatever the human called each living creature, that was its name.
-v20: The human gave names to all cattle, and to the birds of the air, and to every animal of the field; but for the human no helper as a counterpart was found.
+v18: The LORD God said, “It is not good for the human to be alone. I will make him a helper who corresponds to him.”
+v19: The LORD God formed every wild animal and every bird in the sky from the ground and brought them to the human to see what he would call them. Whatever he called each living creature became its name.
+v20: The human named all the livestock, the birds in the sky, and every wild animal. But no helper corresponding to him was found for the human.
 </p>
 
 <p>
-v21: So the LORD God caused a deep sleep to fall upon the human, and the human slept; then God took one of its sides and closed up the place with flesh.
-v22: And the side that the LORD God had taken from the human God built into a woman, and brought her to the human.
-v23: Then the human said,
+v21: The LORD God put the human into a deep sleep. While he slept, God took one of his sides and closed the flesh over the place.
+v22: The LORD God built the side taken from the human into a woman and brought her to him.
 </p>
 
-“This at last is bone of my bones
-and flesh of my flesh;
-this one will be called Woman,
-for out of Human this one was taken.”
+<p>
+v23: The human said,
+“At last! Bone from my bones,
+and flesh from my flesh.
+She will be called Woman,
+because she was taken from Man.”
+</p>
 
 <p>
-v24: So a human leaves father and mother and clings to a woman, and they become one flesh.
-v25: And the two of them were naked, the human and the woman, and they were not ashamed.
+v24: That is why a man leaves his father and mother, holds fast to his wife, and they become one flesh.
+v25: The human and his wife were both naked, and neither felt ashamed.
 </p>
 
 ## Notes
 
-v01: Creation is named complete without evaluation or hierarchy.
+v02–04: The pinned Hebrew says God completed the work on the seventh day. “Rested” also means ceased. Verse 4 begins an account formula repeated throughout Genesis. Its second sentence introduces the garden narrative with “earth and heaven,” reversing the order of the opening phrase.
 
-v02: God’s rest signifies completion, not fatigue; rest belongs to creation’s order.
+v04–07: “The LORD” represents the divine name YHWH. Adam, “human,” sounds like adamah, “ground.” The link is retained through the repeated human/ground language. The human becomes a living being; the text does not say that a separate soul is placed inside a body.
 
-v03: Time is made holy before place or people.
+v06: The rare word ed is uncertain. “A flow of water” leaves open renderings such as stream or mist.
 
-v04: v04: A new telling begins without harmonizing with Genesis 1. This chapter consistently uses the divine name ‘the LORD God’ (YHWH Elohim), marking a shift in address and tone.
+v10–14: The river names are retained without assigning speculative modern locations to Pishon and Gihon. Tigris and Euphrates render Hiddekel and Perath. Bdellium and onyx are traditional identifications of the materials in v12; their precise identification is uncertain.
 
-v05: Absence is emphasized. Human work is framed as participation, not control.
+v17–18: “When you eat” is literally “in the day of your eating”; “certainly die” preserves the emphatic construction. “A helper who corresponds to him” renders ezer kenegdo. The expression names help and correspondence; it does not itself call the helper inferior.
 
-v06: Provision precedes labor.
-
-v07: The human is both fragile (dust) and dignified (breath).
-
-v08: The human is placed in the garden as recipient before caretaker.
-
-v09: Desire and sustenance are named together; the trees stand without moral explanation.
-
-v10–14: Abundance flows outward; the garden resists possession.
-
-v15: Work is cultivation and care, not domination.
-
-v16: Freedom is stated before boundary.
-
-v17: Consequence is named without mechanism; tension is preserved.
-
-v18: The first “not good” names isolation. ‘Ezer kenegdo (“helper as a counterpart”) denotes strength and correspondence, not subordination. The noun ‘ezer is used predominantly of God as help in the Hebrew scriptures (e.g., Exod 18:4; Deut 33; Psalms 20, 33, 70, 121), identifying powerful rescue and sustaining aid. Within this usage, the woman is introduced as an equal partner of strength—a sign of elevation from the beginning, not subjugation.
-
-v19: Naming animals does not resolve aloneness.
-
-v20: Authority does not produce companionship.
-
-v21: The deep sleep is God-initiated and unexplained.
-
-v22: God “builds” the woman from the human’s side; intention and care are emphasized.
-
-v23: Recognition and delight are voiced poetically; shared substance precedes difference.
-
-v24: A theological reflection on mutual attachment, not a command.
-
-v25: Nakedness without shame depicts trust and peace, not naivety.
+v21–24: “Side” renders tsela, which may mean a side or a rib here. Verse 23 plays on ish, “man,” and ishah, “woman.” These differ from adam, “human.” Verse 24 explicitly uses man and his wife; “one flesh” is retained as an image rather than explained away.
 
 ## Vocabulary
 
-v02: שָׁבַת (shāvat) — rest; cease; bring to completion
+v02: שָׁבַת (shavat)
+Cease or rest; related to the word Sabbath.
 
-v03: קָדַשׁ (qādash) — make holy; set apart
+v04: תּוֹלְדוֹת (toledot)
+Generations, descendants, or an account of a family and its unfolding history.
 
-v04: תּוֹלְדוֹת (tôledôt) — generations; account; unfolding history
+v07: אֲדָמָה (adamah)
+Ground or soil; linked in sound to adam, human.
 
-v05: אָדָם (’ādām) — human; humankind
+v18: עֵזֶר כְּנֶגְדּוֹ (ezer kenegdo)
+A helper corresponding to him.
 
-v05: אֲדָמָה (’ădāmāh) — ground; soil
-
-v07: יָצַר (yāṣar) — form; shape intentionally
-
-v07: נְשָׁמָה (neshāmāh) — breath; breath of life
-
-v07: נֶפֶשׁ חַיָּה (nephesh ḥayyāh) — living being
-
-v08: גַּן (gan) — garden; enclosed place
-
-v08: עֵדֶן (‘ēden) — delight; pleasure
-
-v09: חַיִּים (ḥayyīm) — life
-
-v09: דַּעַת (da‘at) — knowledge; discernment
-
-v15: עָבַד (‘āvad) — till; serve; work
-
-v15: שָׁמַר (shāmar) — keep; guard; watch over
-
-v16–17: צָוָה (ṣāvāh) — command; charge
-
-v17: מוֹת תָּמוּת (môt tāmût) — surely die; dying you shall die
-
-v18: לֹא־טוֹב (lō-ṭôv) — not good
-
-v18: עֵזֶר (‘ezer) — helper; strong help; rescuer
-
-v18: כְּנֶגְדּוֹ (kenegdô) — corresponding to; facing; alongside
-
-v19: קָרָא (qārā’) — call; name
-
-v21: צֵלָע (ṣēlā‘) — side; flank
-
-v22: בָּנָה (bānāh) — build; fashion with care
-
-v24: דָּבַק (dāvaq) — cling to; hold fast
-
-v25: עָרוֹם (‘ārôm) — naked; exposed
-
-v25: בּוֹשׁ (bôsh) — be ashamed
-
-v02: שָׁבַת (shāvat)
-“Rest; cease; bring to completion.”
-
-v03: קָדַשׁ (qādash)
-“Make holy; set apart.”
-
-v04: תּוֹלְדוֹת (tôledôt)
-“Generations; account; unfolding history.”
-
-v05: אָדָם (’ādām)
-“Human; humankind.”
+v21: צֵלָע (tsela)
+Side or rib; the precise sense here is debated.

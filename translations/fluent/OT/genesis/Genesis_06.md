@@ -4,114 +4,106 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-1-11-biblical-fluency-2026-09-10
 ---
 
 ## Humanity’s Corruption
+
 <p>
-v01: When humankind began to multiply on the face of the ground, and daughters were born to them,
-v02: the sons of God saw that the daughters of humankind were beautiful, and they took wives for themselves from any whom they chose.
-v03: Then the LORD said, “My spirit will not contend with humankind forever, for they are flesh; their days will be one hundred twenty years.”
-v04: The Nephilim were on the earth in those days—and also afterward—when the sons of God went in to the daughters of humankind and they bore children to them. These were the mighty ones who were of old, men of renown.
+v01: As humans began to multiply across the ground, daughters were born to them.
+v02: The sons of God saw that the human daughters were beautiful, and they took as wives any they chose.
 </p>
 
 <p>
-v05: The LORD saw that the evil of humankind was great on the earth, and that every inclination of the thoughts of their heart was only evil continually.
-v06: And the LORD regretted that he had made humankind on the earth, and it grieved him to his heart.
-v07: So the LORD said, “I will blot out from the face of the ground the humankind whom I have created—humanity and animals and creeping things and birds of the heavens—for I regret that I have made them.”
-v08: Yet Noah found favor in the eyes of the LORD.
-</p>
-
-## The Generations of Noah
-<p>
-v09: These are the generations of Noah. Noah was a righteous man, blameless among his generation. Noah walked with God.
-v10: Noah fathered three sons: Shem, Ham, and Japheth.
+v03: The LORD said, “My spirit will not remain in humans forever, for they are flesh. Their days will be 120 years.”
 </p>
 
 <p>
-v11: Now the earth was corrupt in the sight of God, and the earth was filled with violence.
-v12: God saw the earth, and look, it was corrupt, for all flesh had corrupted its way upon the earth.
-v13: Then God said to Noah, “The end of all flesh has come before me, for the earth is filled with violence because of them. Therefore look, I am about to destroy them with the earth.
+v04: The Nephilim were on the earth in those days, and afterward too, when the sons of God had relations with human daughters, who bore them children. These were the mighty ones of long ago, men of renown.
+</p>
+
+<p>
+v05: The LORD saw how great human evil had become on the earth. Every inclination of the thoughts of the human heart was only evil, all the time.
+v06: The LORD regretted making humans on the earth and was deeply grieved at heart.
+v07: The LORD said, “I will wipe the humans I created from the ground—humans along with livestock, crawling creatures, and birds in the sky. I regret having made them.”
+</p>
+
+<p>
+v08: But Noah found favor in the LORD's eyes.
+</p>
+
+## Noah and the Corrupt Earth
+
+<p>
+v09: This is the account of Noah's family. Noah was righteous and blameless among the people of his time. Noah walked with God.
+v10: Noah became the father of three sons: Shem, Ham, and Japheth.
+</p>
+
+<p>
+v11: The earth was corrupt in God's sight, filled with violence.
+v12: God looked at the earth: it was corrupt, because all flesh had corrupted its way on the earth.
+</p>
+
+<p>
+v13: God said to Noah, “The end of all flesh has come before me, because the earth is filled with violence through them. I am about to destroy them along with the earth.
 </p>
 
 ## Instructions for the Ark
+
 <p>
-v14: Make for yourself an ark of gopher wood. You will make rooms in the ark, and you will cover it inside and outside with pitch.
-v15: This is how you will make it: the length of the ark will be three hundred cubits, its width fifty cubits, and its height thirty cubits.
-v16: You will make a roof for the ark, and finish it to a cubit from above, and set the door of the ark in its side. You will make it with lower, second, and third decks.
+v14: Make yourself an ark of gopher wood. Build compartments in it, and coat it inside and out with pitch.
+v15: Build it 300 cubits long, 50 cubits wide, and 30 cubits high.
+v16: Make a roof for the ark, finishing it to within a cubit of the top. Put an entrance in its side, and build lower, middle, and upper decks.
 </p>
 
 <p>
-v17: For look, I am bringing the floodwaters upon the earth to destroy all flesh in which is the breath of life under the heavens. Everything that is on the earth will perish.
-v18: Yet I will establish my covenant with you, and you will enter the ark—you and your sons and your wife and your sons’ wives with you.
-v19: And from every living thing of all flesh, you will bring two of every kind into the ark to keep them alive with you; they will be male and female.
-v20: Of the birds according to their kinds, and of the animals according to their kinds, and of every creeping thing of the ground according to its kind, two of every kind will come to you to keep them alive.
-v21: And you will take with you every kind of food that is eaten and gather it to yourself, and it will be food for you and for them.”
-v22: Noah did this; according to all that God commanded him, so he did.
+v17: I am bringing floodwaters over the earth to destroy all flesh under the heavens that has the breath of life in it. Everything on the earth will die.
+</p>
+
+<p>
+v18: But I will establish my covenant with you. Enter the ark with your sons, your wife, and your sons' wives.
+v19: Bring two of every kind of living creature into the ark to keep them alive with you, a male and a female.
+v20: Two of every kind of bird, livestock, and creature that crawls on the ground will come to you to be kept alive.
+</p>
+
+<p>
+v21: Gather and store every kind of food that can be eaten. It will be food for you and for them.”
+</p>
+
+<p>
+v22: Noah did all of this. He did everything God commanded him.
 </p>
 
 ## Notes
 
-v01–04: The identity of the “sons of God” and the Nephilim is left unexplained. The text preserves the mystery rather than defining these figures.
+v01–04: The passage does not identify the “sons of God” or explain the Nephilim. “Beautiful” follows the source's description of the daughters. The wording “any they chose” retains the taking and choice without adding an account of the women's consent.
 
-v03: The statement concerning one hundred twenty years has been interpreted in multiple ways. The verse itself does not specify whether it refers to lifespan, judgment, or a period before the flood.
+v03: The verb rendered “remain” is uncertain and has also been understood as contend or judge. The 120 years may refer to a limit on human life or a period before the coming judgment; the translation does not decide that question.
 
-v05: Human corruption is described comprehensively. Evil reaches not only actions but the inclinations and thoughts of the heart.
+v05–13: Divine regret and grief remain explicit. The Hebrew root for corruption is also used for destruction, linking the earth's condition with the announced action. “All flesh” is retained rather than automatically reduced to one group of humans.
 
-v06: The LORD’s regret and grief are presented without qualification. The text speaks of God relationally and personally.
+v14–16: An ark is a large vessel or container; the word here does not describe a sailing ship. Gopher wood is unidentified. A cubit is an ancient length based on the forearm, and its precise size varied. The three stated dimensions are preserved in cubits.
 
-v07: Judgment extends beyond humanity to the wider created order that has been drawn into human corruption.
+v16: The word rendered “roof” can also be understood as an opening for light. The following cubit measurement is difficult. This rendering is an editorial choice and should not be treated as an exact reconstruction blueprint.
 
-v08: Noah appears as an exception within a world marked by violence. Favor precedes the detailed description of his character.
-
-v09: Noah is called righteous and blameless, yet these qualities are expressed in relational terms: he walked with God.
-
-v11–13: Violence becomes the defining characteristic of the earth. Corruption is both moral and communal.
-
-v14–16: The detailed instructions emphasize preparation, obedience, and preservation amid coming judgment.
-
-v17: The flood is described as an act of divine judgment against all flesh, reversing the ordered world of creation.
-
-v18: This is the first occurrence of “covenant” in Scripture. The relationship between God and Noah becomes the means through which preservation occurs.
-
-v22: Noah’s obedience is stated simply and completely. The narrative emphasizes faithful action rather than explanation.
+v18–22: “Covenant” is retained as a recurring biblical term. The instruction names Noah's whole family and the preservation of other living creatures, along with food for both.
 
 ## Vocabulary
 
-v02: בְּנֵי הָאֱלֹהִים (bĕnê hāʾĕlōhîm)
-“Sons of God.” A phrase whose precise referent remains debated and intentionally unresolved in the text.
+v04: נְפִלִים (Nephilim)
+A designation left untranslated because its identification is disputed.
 
-v03: רוּחַ (rûaḥ)
-“Spirit,” “breath,” or “wind.” The word carries a range of meanings and often signifies life-giving divine activity.
+v11: חָמָס (chamas)
+Violence or violent wrongdoing.
 
-v04: נְפִלִים (nĕphîlîm)
-“Nephilim.” A rare term preserved as a name rather than translated due to its uncertainty.
+v14: תֵּבָה (tevah)
+Ark or large container; distinct from the word for the covenant chest.
 
-v05: יֵצֶר (yēṣer)
-“Inclination” or “formation.” Refers to the shaping of thought and intention within the heart.
+v15: אַמָּה (ammah)
+Cubit, an ancient unit of length.
 
-v06: נָחַם (nāḥam)
-“To regret,” “be sorry,” or “be moved with sorrow.” The term expresses profound emotional response.
-
-v08: חֵן (ḥēn)
-“Favor” or “grace.” Indicates acceptance or goodwill bestowed by another.
-
-v09: צַדִּיק (ṣaddîq)
-“Righteous.” One whose life aligns with covenantal faithfulness and justice.
-
-v11: חָמָס (ḥāmās)
-“Violence.” A broad term encompassing wrongdoing, injustice, and destructive force.
-
-v14: תֵּבָה (tēḇâ)
-“Ark.” Used only for Noah’s ark and later for the basket that preserves Moses.
-
-v17: מַבּוּל (mabbûl)
-“Flood.” A specialized term used for the great deluge narrative.
-
-v18: בְּרִית (bĕrît)
-“Covenant.” A binding relationship established and sustained by divine commitment.
-
-v22: צִוָּה (ṣiwwâ)
-“To command.” The verb highlights Noah’s response to divine instruction.
-
-v09: צַדִּיק (ṣaddîq)
-“Righteous; just.” One characterized by right conduct or right standing.
+v18: בְּרִית (berit)
+Covenant, a binding relationship or commitment.

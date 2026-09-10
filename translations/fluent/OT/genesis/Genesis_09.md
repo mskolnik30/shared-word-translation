@@ -4,134 +4,127 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-1-11-biblical-fluency-2026-09-10
 ---
 
-## God’s Covenant with Noah
+## Life after the Flood
+
 <p>
-v01: Then God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth.
-v02: The fear of you and the dread of you will be upon every animal of the earth and upon every bird of the heavens, upon everything that creeps on the ground and upon all the fish of the sea. Into your hand they are given.
-v03: Every moving thing that lives will be food for you. As I gave you the green plants, I give you everything.
-v04: But flesh with its life, that is, its blood, you will not eat.
-v05: And for your lifeblood I will surely require an accounting. From every animal I will require it, and from humankind. From each person’s fellow human being I will require an accounting for human life.
+v01: God blessed Noah and his sons: “Be fruitful, multiply, and fill the earth.
+v02: Every wild animal, every bird in the sky, everything that moves on the ground, and all the fish in the sea will fear and dread you. They are given into your hands.
+v03: Every moving creature that lives will be food for you. Just as I gave you green plants, I now give you everything.
+</p>
+
+<p>
+v04: But you must not eat flesh with its life—its blood—still in it.
+v05: For your lifeblood I will demand an accounting. I will demand it from every animal and from every human; from each person's fellow human I will demand an accounting for human life.
 </p>
 
 <p>
 v06: Whoever sheds human blood,
-by a human will that one’s blood be shed,
-for in the image of God
-he made humankind.
-v07: And you, be fruitful and multiply; abound upon the earth and multiply in it.”
+by a human shall that person's blood be shed,
+for God made humanity
+in God's image.
 </p>
 
 <p>
-v08: Then God said to Noah and to his sons with him,
-v09: “As for me, look, I establish my covenant with you and with your offspring after you,
-v10: and with every living creature that is with you—the birds, the livestock, and every animal of the earth with you, all that came out of the ark, every animal of the earth.
-v11: I establish my covenant with you: never again will all flesh be cut off by the waters of a flood, and never again will there be a flood to destroy the earth.”
+v07: As for you, be fruitful and multiply. Teem across the earth and multiply on it.”
+</p>
+
+## God’s Covenant with All Flesh
+
+<p>
+v08: God spoke to Noah and his sons who were with him:
+v09: “I am establishing my covenant with you and with your descendants after you,
+v10: and with every living creature with you: birds, livestock, and every wild animal, all that came out of the ark—every living animal on earth.
+v11: I establish my covenant with you: never again will all flesh be cut off by floodwaters. Never again will a flood destroy the earth.”
 </p>
 
 ## The Sign of the Covenant
+
 <p>
-v12: God said, “This is the sign of the covenant that I make between me and you and every living creature that is with you, for all generations:
-v13: I have set my bow in the clouds, and it will be a sign of the covenant between me and the earth.
-v14: When I bring clouds over the earth and the bow is seen in the clouds,
-v15: I will remember my covenant that is between me and you and every living creature of all flesh. And the waters will never again become a flood to destroy all flesh.
-v16: When the bow is in the clouds, I will see it and remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.”
-v17: God said to Noah, “This is the sign of the covenant that I have established between me and all flesh that is upon the earth.”
+v12: God said, “This is the sign of the covenant I am giving between me and you and every living creature with you, for all generations to come:
+v13: I have set my bow in the clouds. It will be the sign of the covenant between me and the earth.
+</p>
+
+<p>
+v14: When I bring clouds over the earth and the bow appears in them,
+v15: I will remember my covenant with you and every living creature of all flesh. The waters will never again become a flood that destroys all flesh.
+</p>
+
+<p>
+v16: When the bow is in the clouds, I will look at it and remember the everlasting covenant between God and every living creature of all flesh on the earth.”
+</p>
+
+<p>
+v17: God told Noah, “This is the sign of the covenant I have established between me and all flesh on the earth.”
 </p>
 
 ## Noah and His Sons
+
 <p>
-v18: The sons of Noah who came out of the ark were Shem, Ham, and Japheth. Ham was the father of Canaan.
-v19: These three were the sons of Noah, and from these the entire earth was populated.
+v18: Noah's sons who came out of the ark were Shem, Ham, and Japheth. Ham was Canaan's father.
+v19: These were Noah's three sons, and from them people spread across the whole earth.
 </p>
 
 <p>
-v20: Noah began to be a man of the soil, and he planted a vineyard.
-v21: He drank from the wine and became drunk, and he uncovered himself inside his tent.
-v22: Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside.
-v23: Then Shem and Japheth took a garment, laid it upon both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned away, and they did not see their father’s nakedness.
-v24: When Noah awoke from his wine and knew what his youngest son had done to him,
-v25: he said,
-“Cursed be Canaan;
-a servant of servants
-will he be to his brothers.”
+v20: Noah began to work the ground and planted a vineyard.
+v21: He drank some of its wine, became drunk, and lay uncovered inside his tent.
 </p>
 
 <p>
-v26: And he said,
-“Blessed be the LORD, the God of Shem;
-and let Canaan be his servant.
-v27: May God enlarge Japheth,
-and let him dwell in the tents of Shem;
-and let Canaan be his servant.”
+v22: Ham, Canaan's father, saw his father's nakedness and told his two brothers outside.
+v23: Shem and Japheth took a garment, laid it across their shoulders, and walked backward to cover their father's nakedness. Their faces were turned away, so they did not see him naked.
 </p>
 
 <p>
-v28: Noah lived after the flood three hundred fifty years.
-v29: Thus all the days of Noah were nine hundred fifty years, and he died.
+v24: When Noah awoke from his wine, he learned what his younger son had done to him.
+</p>
+
+<p>
+v25: He said,
+“Cursed be Canaan!
+He will be the lowest of slaves
+to his brothers.”
+</p>
+
+<p>
+v26: He also said,
+“Blessed be the LORD, the God of Shem!
+Let Canaan be their slave.
+v27: May God give Japheth room to spread,
+and may he live in Shem's tents.
+Let Canaan be their slave.”
+</p>
+
+<p>
+v28: Noah lived another 350 years after the flood.
+v29: Noah lived 950 years in all. Then he died.
 </p>
 
 ## Notes
 
-v01–07: The blessing given to Noah echoes the creation mandate of Genesis 1. Humanity receives a renewed commission within a changed world.
+v01–07: The blessing echoes 1:28 while the food permission expands. Blood is named as life. Verse 6 is a compact saying; “by a human” follows a common construction of the Hebrew. No court procedure or modern legal system has been added to the wording.
 
-v03: Permission to eat animals marks a development from the earlier provision of plants as food.
+v09–17: The covenant explicitly includes descendants and nonhuman creatures. “Bow” is the ordinary Hebrew word for a bow, including a weapon; its appearance in the clouds is a rainbow. The translation preserves the word without requiring a single interpretation of that resonance.
 
-v04–06: Blood is treated as the bearer of life. Human life remains sacred because humanity bears the image of God.
+v20–24: Verse 20 may also be read as Noah, a man of the ground, beginning to plant a vineyard. The passage reports seeing nakedness and later says something was done to Noah; it does not describe a specific additional act. “Younger son” can also be understood as youngest son.
 
-v06: The poetic form highlights the gravity of bloodshed and the enduring significance of the divine image.
-
-v08–11: The covenant extends beyond Noah and his descendants to all living creatures. The scope is cosmic rather than merely human.
-
-v13: The bow functions as a sign of divine commitment. The text emphasizes God’s promise rather than human obligation.
-
-v15–16: The language of remembrance is covenantal. God’s remembering signifies faithful action and enduring commitment.
-
-v18–19: The narrative narrows from the whole earth to Noah’s family, preparing for future genealogies and nations.
-
-v20–21: Noah, a righteous man preserved through the flood, is portrayed with striking realism. The text neither idealizes nor excuses him.
-
-v22–24: The exact nature of Ham’s offense has been interpreted in different ways. The narrative itself remains restrained, emphasizing dishonor and contrast with the actions of Shem and Japheth.
-
-v25–27: The curse falls upon Canaan rather than Ham. The passage anticipates later relationships among peoples descended from Noah’s sons.
-
-v28–29: Noah’s death closes the flood narrative and returns the genealogy to the recurring pattern of mortality.
+v25–27: Noah curses Canaan, not Ham. The curse does not name a skin color or authorize a racial classification. “Lowest of slaves” renders the emphatic “slave of slaves.” The plural “their” is retained in vv26–27. In v27 the subject of “may he live” may be God or Japheth; the translation leaves the pronoun open.
 
 ## Vocabulary
 
-v01: בָּרַךְ (bāraḵ)
-“To bless.” The granting of life, fruitfulness, and divine favor.
+v04: נֶפֶשׁ (nephesh)
+Life, living being, or person; here connected with blood.
 
-v02: מוֹרָא (môrāʾ)
-“Fear” or “dread.” A term describing the awe and apprehension animals will have toward humanity.
+v09: בְּרִית (berit)
+Covenant; repeated throughout the promise.
 
-v04: דָּם (dām)
-“Blood.” The visible expression of life and therefore treated with special significance.
+v13: קֶשֶׁת (qeshet)
+Bow; in the cloud setting, a rainbow.
 
-v05: דָּרַשׁ (dāraš)
-“To require” or “seek an accounting.” Used here in the sense of answering for a life taken.
-
-v06: צֶלֶם (ṣelem)
-“Image.” Humanity’s unique status as bearing the image of God grounds the protection of human life.
-
-v09: בְּרִית (bĕrît)
-“Covenant.” A binding relationship established by divine commitment.
-
-v13: קֶשֶׁת (qešet)
-“Bow.” The ordinary word for a bow used in warfare, here serving as a covenant sign in the clouds.
-
-v15: זָכַר (zāḵar)
-“To remember.” Covenant language indicating faithful attention and action.
-
-v20: אִישׁ הָאֲדָמָה (ʾîš hāʾădāmâ)
-“Man of the soil.” A description linking Noah’s work to the cultivated ground.
-
-v22: עֶרְוָה (ʿerwâ)
-“Nakedness.” A term often associated with vulnerability, shame, and exposure.
-
-v25: אָרוּר (ʾārûr)
-“Cursed.” The opposite of blessing, expressing judgment and diminished status.
-
-v27: פָּתָה (pātâ)
-“Enlarge; Make spacious.” A wordplay appears between the name Japheth and the blessing pronounced over him.
+v25: עֶבֶד (eved)
+Slave or servant; the repeated construction intensifies subjection here.

@@ -27,11 +27,28 @@ def audit(root, ledger, source_bytes):
     blob = hashlib.sha1(b'blob ' + str(len(source_bytes)).encode() + b'\0' + source_bytes).hexdigest()
     check(blob == source['git_blob_sha'], 'source Git blob mismatch')
     source_verses = {}
-    for line in source_bytes.decode().splitlines():
-        match = re.match(r'([^\t]+)\t(.*)', line)
-        if match:
-            check(match[1] not in source_verses, f'duplicate source reference: {match[1]}')
-            source_verses[match[1]] = match[2]
+    if source.get('format', 'tab_separated') == 'osis_xml':
+        import xml.etree.ElementTree as ET
+        tree = ET.fromstring(source_bytes)
+        records = re.findall(r'<verse\b[^>]*>.*?</verse>', source_bytes.decode(), re.S)
+        check(len(records) == len(tree.findall('.//{*}verse')), 'XML record extraction differs')
+        check(len(records) == source['book_verse_count'], 'source book count differs')
+        scope = source['scope_chapters']
+        check(scope == sorted(set(scope)) and bool(scope), 'invalid source chapter scope')
+        check(scope == [c['chapter'] for c in ledger['chapters']], 'chapter/source scope differs')
+        for record in records:
+            element = ET.fromstring(record)
+            book, chapter, verse = element.attrib['osisID'].split('.')
+            if book == source['osis_book_id'] and int(chapter) in scope:
+                reference = f'{book} {chapter}:{verse}'
+                check(reference not in source_verses, f'duplicate source reference: {reference}')
+                source_verses[reference] = record
+    else:
+        for line in source_bytes.decode().splitlines():
+            match = re.match(r'([^\t]+)\t(.*)', line)
+            if match:
+                check(match[1] not in source_verses, f'duplicate source reference: {match[1]}')
+                source_verses[match[1]] = match[2]
     references = [v['source_reference'] for v in ledger['verses']]
     check(len(references) == len(set(references)), 'duplicate ledger reference')
     check(set(references) == set(source_verses), 'ledger/source coverage differs')

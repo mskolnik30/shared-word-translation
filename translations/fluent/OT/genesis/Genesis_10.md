@@ -4,127 +4,133 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-1-11-biblical-fluency-2026-09-10
 ---
 
-## The Nations Descended from Noah
+## The Nations from Noah’s Sons
+
 <p>
-v01: These are the generations of the sons of Noah: Shem, Ham, and Japheth. Sons were born to them after the flood.
+v01: This is the account of the families of Noah's sons—Shem, Ham, and Japheth. Sons were born to them after the flood.
 </p>
 
-## The Descendants of Japheth
-<p>
-v02: The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
-v03: The sons of Gomer: Ashkenaz, Riphath, and Togarmah.
-v04: The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.
-v05: From these the coastland peoples spread into their lands, each according to its language, by their clans, in their nations.
-</p>
+## Japheth’s Descendants
 
-## The Descendants of Ham
 <p>
-v06: The sons of Ham: Cush, Egypt, Put, and Canaan.
-v07: The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.
+v02: Japheth's sons were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+v03: Gomer's sons were Ashkenaz, Riphath, and Togarmah.
+v04: Javan's sons were Elishah, Tarshish, Kittim, and Dodanim.
 </p>
 
 <p>
-v08: Cush fathered Nimrod. He was the first mighty one on the earth.
-v09: He was a mighty hunter before the LORD. Therefore it is said, “Like Nimrod, a mighty hunter before the LORD.”
-v10: The beginning of his kingdom was Babel, Erech, Akkad, and Calneh, in the land of Shinar.
-v11: From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah,
-v12: and Resen between Nineveh and Calah; that is the great city.
+v05: From these came the coastland peoples, spreading into their lands, each with its own language, organized by clans and nations.
+</p>
+
+## Ham’s Descendants
+
+<p>
+v06: Ham's sons were Cush, Mizraim, Put, and Canaan.
 </p>
 
 <p>
-v13: Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim,
-v14: Pathrusim, Casluhim (from whom came the Philistines), and Caphtorim.
+v07: Cush's sons were Seba, Havilah, Sabtah, Raamah, and Sabteca. Raamah's sons were Sheba and Dedan.
 </p>
 
 <p>
-v15: Canaan fathered Sidon his firstborn, and Heth,
-v16: and the Jebusites, the Amorites, the Girgashites,
-v17: the Hivites, the Arkites, the Sinites,
-v18: the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites spread abroad.
-v19: And the territory of the Canaanites extended from Sidon toward Gerar as far as Gaza, and toward Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.
-v20: These are the sons of Ham, by their clans, their languages, their lands, and their nations.
-</p>
-
-## The Descendants of Shem
-<p>
-v21: To Shem also, the father of all the children of Eber, the elder brother of Japheth, sons were born.
-v22: The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.
-v23: The sons of Aram: Uz, Hul, Gether, and Mash.
-v24: Arpachshad fathered Shelah, and Shelah fathered Eber.
+v08: Cush became the father of Nimrod, who began to be a mighty figure on the earth.
+v09: He was a mighty hunter before the LORD. That is why people say, “Like Nimrod, a mighty hunter before the LORD.”
 </p>
 
 <p>
-v25: To Eber were born two sons. The name of the one was Peleg, for in his days the earth was divided; and his brother’s name was Joktan.
-v26: Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,
+v10: His kingdom began with Babel, Erech, Akkad, and Calneh in the land of Shinar.
+v11: From that land he went into Assyria and built Nineveh, Rehoboth-ir, and Calah,
+v12: and Resen between Nineveh and Calah. That is the great city.
+</p>
+
+<p>
+v13: Mizraim became the ancestor of the Ludim, Anamim, Lehabim, and Naphtuhim,
+v14: Pathrusim, Casluhim—from whom the Philistines came—and Caphtorim.
+</p>
+
+<p>
+v15: Canaan became the father of Sidon, his firstborn, and of Heth,
+v16: and the ancestor of the Jebusites, Amorites, Girgashites,
+v17: Hivites, Arkites, Sinites,
+v18: Arvadites, Zemarites, and Hamathites. Later, the Canaanite clans spread out.
+</p>
+
+<p>
+v19: Canaanite territory extended from Sidon toward Gerar as far as Gaza, and toward Sodom, Gomorrah, Admah, and Zeboiim as far as Lasha.
+</p>
+
+<p>
+v20: These were Ham's descendants, organized by clans and languages, in their lands and nations.
+</p>
+
+## Shem’s Descendants
+
+<p>
+v21: Shem also had children. He was the ancestor of all Eber's descendants and the older brother of Japheth.
+</p>
+
+<p>
+v22: Shem's sons were Elam, Asshur, Arpachshad, Lud, and Aram.
+v23: Aram's sons were Uz, Hul, Gether, and Mash.
+</p>
+
+<p>
+v24: Arpachshad became the father of Shelah, and Shelah became the father of Eber.
+</p>
+
+<p>
+v25: Eber had two sons. One was named Peleg, because in his days the earth was divided. His brother was named Joktan.
+</p>
+
+<p>
+v26: Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,
 v27: Hadoram, Uzal, Diklah,
 v28: Obal, Abimael, Sheba,
-v29: Ophir, Havilah, and Jobab. All these were the sons of Joktan.
-v30: Their territory extended from Mesha toward Sephar, the hill country of the east.
-v31: These are the sons of Shem, by their clans, their languages, their lands, and their nations.
+v29: Ophir, Havilah, and Jobab. All these were Joktan's sons.
 </p>
 
-## The Table of Nations
 <p>
-v32: These are the clans of the sons of Noah, according to their generations, in their nations. And from these the nations spread abroad upon the earth after the flood.
+v30: Their settlements stretched from Mesha toward Sephar, the hill country of the east.
+</p>
+
+<p>
+v31: These were Shem's descendants, organized by clans and languages, in their lands and nations.
+</p>
+
+## The Nations Spread
+
+<p>
+v32: These were the clans of Noah's sons, arranged by their lines of descent and their nations. From these, the nations spread across the earth after the flood.
 </p>
 
 ## Notes
 
-v01: The chapter begins with the generations of Noah’s sons, shifting attention from a single family to the origins of the nations.
+v01–07: This genealogy presents peoples and territories through family lines. It is not a map of modern countries or a classification of modern races. Mizraim is the Hebrew name associated with Egypt; it is retained as an ancestral name here. Dodanim in v04 follows the pinned Hebrew.
 
-v02–05: Japheth’s descendants are associated with peoples spread across distant lands and coastlands.
+v08–12: Nimrod is called mighty and a hunter “before the LORD”; the preposition is not replaced with an explicit judgment of approval or rebellion. Verse 11 may instead be read “Asshur went out from that land.” The referent of “the great city” in v12 is not certain.
 
-v05: Languages are mentioned before the account of Babel in the next chapter. The genealogy arranges peoples by their later historical realities.
+v13–19: The Philistine parenthesis is retained in its place after Casluhim. Boundary names are preserved without assigning uncertain modern coordinates.
 
-v08–12: Nimrod receives unusual attention within the genealogy. His identity is linked with power, cities, and kingship.
+v21–25: Verse 21 can identify either Shem or Japheth as the older brother; this draft retains Shem as older. “Peleg” echoes the verb for dividing, but the verse does not explain what kind of division occurred.
 
-v09: “Before the LORD” may indicate prominence in the LORD’s sight, whether for honor or notoriety. The expression remains open-ended.
-
-v10: Babel appears here before its role in the narrative of Genesis 11.
-
-v13–14: The genealogy traces connections among peoples known throughout later biblical history, including the Philistines.
-
-v15–19: The descendants of Canaan are described both by lineage and by territory.
-
-v21: Eber receives special notice because his line will eventually lead to Abraham.
-
-v25: The meaning of the earth being “divided” in Peleg’s days is not explained. The text leaves the nature of the division unstated.
-
-v32: The chapter emphasizes both common ancestry and the diversity of nations spread across the earth.
+v26–32: Repeated references to clans, languages, lands, and nations organize the list. Their repetition helps readers follow its structure and is not removed merely for stylistic variety.
 
 ## Vocabulary
 
-v01: תּוֹלְדוֹת (tôlĕdôt)
-“Generations” or “account.” A structural marker introducing a new section of Genesis.
+v05: לָשׁוֹן (lashon)
+Tongue or language.
 
-v05: אִיִּים (ʾiyyîm)
-“Coastland peoples” or “islands.” A term often referring to distant maritime regions.
+v05: מִשְׁפָּחָה (mishpachah)
+Family or clan.
 
-v08: גִּבּוֹר (gibbôr)
-“Mighty one” or “warrior.” Describes strength, prominence, or exceptional power.
+v05: גּוֹי (goy)
+Nation or people; not automatically a modern nation-state.
 
-v09: צַיִד (ṣayiḏ)
-“Hunting” or “game.” Associated here with Nimrod’s reputation as a hunter.
-
-v10: מַמְלָכָה (mamlākâ)
-“Kingdom.” Organized rule extending beyond a single settlement.
-
-v19: גְּבוּל (gĕḇûl)
-“Boundary” or “territory.” Marks the geographical extent of a people.
-
-v21: עֵבֶר (ʿĒḇer)
-“Eber.” Ancestor whose name is traditionally associated with the Hebrews.
-
-v25: פֶּלֶג (Peleg)
-“Division.” The name is connected with the verb meaning “to divide” or “split.”
-
-v31: לָשׁוֹן (lāšôn)
-“Language” or “tongue.” A marker of distinction among peoples and nations.
-
-v32: גּוֹי (gôy)
-“Nation.” A people group defined by common identity, land, or ancestry.
-
-v18: פּוּץ (pûṣ)
-“To scatter” or “spread abroad.” The verb describes the dispersal of peoples across the earth.
+v25: פָּלַג (palag)
+Divide; echoed in the name Peleg.

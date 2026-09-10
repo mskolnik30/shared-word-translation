@@ -4,130 +4,117 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-1-11-biblical-fluency-2026-09-10
 ---
 
 ## Cain and Abel
+
 <p>
-v01: Now the man knew Eve his wife, and she conceived and bore Cain, and said, “I have acquired a man with the LORD.”
-v02: And again she bore his brother Abel. Now Abel was a keeper of sheep, and Cain was a worker of the ground.
+v01: The human had sexual relations with his wife Eve. She conceived and gave birth to Cain, saying, “With the LORD's help I have brought forth a man.”
+v02: She gave birth again, to his brother Abel. Abel became a shepherd, while Cain worked the ground.
 </p>
 
 <p>
-v03: And in the course of time Cain brought from the fruit of the ground an offering to the LORD.
-v04: Abel also brought from the firstborn of his flock and from their fat portions. And the LORD looked with favor upon Abel and his offering,
-v05: but upon Cain and his offering he did not look with favor. So Cain became very angry, and his face fell.
+v03: After some time, Cain brought an offering to the LORD from the produce of the ground.
+v04: Abel also brought an offering, from the firstborn of his flock and their fat portions. The LORD looked with favor on Abel and his offering,
+v05: but not on Cain and his offering. Cain became very angry, and his face fell.
 </p>
 
 <p>
-v06: The LORD said to Cain, “Why are you angry, and why has your face fallen?
-v07: If you do well, will there not be lifting up? But if you do not do well, sin is crouching at the door. Its desire is for you, but you must rule over it.”
+v06: The LORD asked Cain, “Why are you so angry? Why has your face fallen?
+v07: If you do what is good, will you not be lifted up? But if you do not do what is good, sin crouches at the door. Its desire is for you, but you must rule over it.”
 </p>
 
-## Cain Murders Abel
+## Cain Kills Abel
+
 <p>
-v08: Cain spoke to Abel his brother. And when they were in the field, Cain rose up against Abel his brother and killed him.
-v09: Then the LORD said to Cain, “Where is Abel your brother?” And he said, “I do not know. Am I my brother’s keeper?”
-v10: And he said, “What have you done? The voice of your brother’s blood is crying out to me from the ground.
-v11: And now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand.
-v12: When you work the ground, it will no longer give its strength to you. A fugitive and a wanderer you will be on the earth.”
+v08: Cain spoke to his brother Abel. While they were out in the field, Cain attacked his brother and killed him.
 </p>
 
 <p>
-v13: Cain said to the LORD, “My punishment is greater than I can bear.
-v14: See, you have driven me today from the face of the ground, and from your face I will be hidden. I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”
-v15: Then the LORD said to him, “Not so. Whoever kills Cain, vengeance will be taken on him sevenfold.” And the LORD set a sign for Cain, so that no one who found him would strike him down.
-v16: Then Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden.
+v09: The LORD asked Cain, “Where is your brother Abel?” “I do not know,” he answered. “Am I supposed to guard my brother?”
+</p>
+
+<p>
+v10: The LORD said, “What have you done? Listen! Your brother's blood cries out to me from the ground.
+v11: Now you are cursed from the ground, which opened its mouth to receive your brother's blood from your hand.
+v12: When you work the ground, it will no longer yield its strength to you. You will wander restlessly over the earth.”
+</p>
+
+<p>
+v13: Cain said to the LORD, “My punishment is more than I can bear.
+v14: Today you have driven me from the ground, and I will be hidden from your presence. I will wander restlessly over the earth, and anyone who finds me may kill me.”
+</p>
+
+<p>
+v15: The LORD answered, “Then anyone who kills Cain will suffer vengeance seven times over.” The LORD gave Cain a sign, so that no one who found him would strike him down.
+v16: Cain left the LORD's presence and settled in the land of Nod, east of Eden.
 </p>
 
 ## Cain’s Descendants
+
 <p>
-v17: Cain knew his wife, and she conceived and bore Enoch. He was building a city, and he called the name of the city after the name of his son Enoch.
-v18: To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.
+v17: Cain had sexual relations with his wife, and she conceived and gave birth to Enoch. Cain was building a city, and he named it Enoch after his son.
 </p>
 
 <p>
-v19: Lamech took two wives for himself. The name of the one was Adah, and the name of the other Zillah.
-v20: Adah bore Jabal; he was the father of people who dwell in tents and have livestock.
-v21: His brother’s name was Jubal; he was the father of everyone who play the lyre and pipe.
-v22: Zillah also bore Tubal-cain, forger of every cutting instrument of bronze and iron. And the sister of Tubal-cain was Naamah.
+v18: Enoch became the father of Irad; Irad became the father of Mehujael; Mehujael became the father of Methushael; and Methushael became the father of Lamech.
 </p>
 
 <p>
-v23: Lamech said to his wives:
-“Adah and Zillah, hear my voice;
-wives of Lamech, listen to my speech:
+v19: Lamech married two women, one named Adah and the other Zillah.
+v20: Adah gave birth to Jabal, the ancestor of those who live in tents and raise livestock.
+v21: His brother's name was Jubal, the ancestor of all who play the lyre and pipe.
+v22: Zillah also gave birth to Tubal-cain, a forger of all kinds of bronze and iron tools. Tubal-cain's sister was Naamah.
+</p>
+
+<p>
+v23: Lamech said to his wives,
+“Adah and Zillah, hear my voice!
+Wives of Lamech, listen to my words!
 I have killed a man for wounding me,
 a young man for striking me.
-v24: If Cain is avenged sevenfold,
-then Lamech seventy-sevenfold.”
+v24: If Cain is avenged seven times over,
+then Lamech seventy-seven times.”
 </p>
 
 ## Seth and Enosh
+
 <p>
-v25: Adam knew his wife again, and she bore a son and called his name Seth, for she said, “God has appointed for me another offspring in place of Abel, because Cain killed him.”
-v26: To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the LORD.
+v25: Adam had sexual relations with his wife again. She gave birth to a son and named him Seth, saying, “God has appointed another offspring for me in place of Abel, since Cain killed him.”
+v26: Seth also had a son, whom he named Enosh. At that time people began calling on the name of the LORD.
 </p>
 
 ## Notes
 
-v01: Eve’s statement links birth, acquisition, and the LORD’s help. The wording is compact and difficult, and the translation preserves its density rather than resolving it fully.
+v01: “Had sexual relations” renders the Hebrew idiom “knew.” Cain's name is linked with Eve's verb qaniti, “I have acquired/produced.” Her phrase involving the LORD is compact and disputed; this draft retains the reading “with the LORD's help.”
 
-v02: The brothers are distinguished by vocation before conflict appears. The contrast between shepherd and worker of the ground anticipates the chapter’s concern with offering, soil, and blood.
+v04–07: The text reports favor toward Abel and his offering without explicitly stating why Cain's offering was not regarded. “Lifted up” in v07 may refer to acceptance or the lifting of the fallen face. Sin is pictured as crouching. “You must rule” may also be read “you can/will rule.” Desire and rule echo 3:16.
 
-v03–05: The text does not explicitly explain why Abel’s offering is favored and Cain’s is not. The ambiguity is retained.
+v08: The pinned Hebrew says Cain spoke to Abel but does not give the words he spoke. No invitation to the field has been supplied in the main text.
 
-v06–07: The LORD addresses Cain before the murder, naming anger as a moment of moral danger rather than inevitability.
+v11–15: “Cursed from the ground” can suggest separation from the ground or a curse operating through it. The word rendered “punishment” in v13 can also mean guilt; the statement may be heard as more than a protest about consequences. The sign given to Cain is not described and is not identified with race or skin color.
 
-v07: Sin is pictured as a predator crouching at the door. The language echoes the language of desire and rule from Genesis 3.
+v16–22: Nod is linked in sound with wandering. The genealogy names ancestry in occupations as well as family lines. The metalworking phrase in v22 is difficult; it is rendered broadly as forging bronze and iron tools, without specifying weapons.
 
-v08: The brief narration gives no motive beyond what has already been shown. The violence is stark and sudden.
-
-v09: Cain’s question reverses his vocation. The one who worked the ground refuses responsibility for his brother.
-
-v10–12: Abel’s blood cries from the ground, and the ground itself becomes witness against Cain. The curse intensifies the broken relationship between humanity and the soil.
-
-v13–16: Judgment is accompanied by protection. Cain is exiled from the ground and from the LORD’s presence, yet his life is marked off from vengeance.
-
-v17–22: Cain’s line develops city-building, livestock, music, and metalwork. The chapter refuses a simple account of culture as either pure progress or pure corruption.
-
-v23–24: Lamech turns protection into boast. The measured vengeance associated with Cain becomes exaggerated violence in Lamech’s mouth.
-
-v25–26: Seth’s birth does not erase Abel’s death, but it opens a new line. The chapter ends with worship rather than violence.
+v23–26: Lamech's poem is rendered as a completed-action boast; its verbal force has also been read conditionally. It escalates sevenfold vengeance to seventy-sevenfold. Seth's name is linked to “appointed.” The concluding statement uses the traditional “people began calling” reading.
 
 ## Vocabulary
 
-v01: קָנָה (qānâ)
-“To acquire” or “get.” Eve’s naming of Cain plays on this verb, joining birth with reception from the LORD.
+v01: יָדַע (yada)
+Know; in this context an idiom for sexual relations.
 
-v02: הֶבֶל (hevel)
-“Abel,” related to “breath” or “vapor.” The name carries a fragile, transient resonance.
+v07: חַטָּאת (chatta't)
+Sin; here personified as crouching at a door.
 
-v04: מִנְחָה (minḥâ)
-“Offering” or “gift.” The word can describe a tribute or presentation brought before one greater.
+v09: שָׁמַר (shamar)
+Guard or keep; the same root used for keeping the garden in 2:15.
 
-v05: שָׁעָה (shāʿâ)
-“To look with regard.” The verb concerns favorable attention, not merely seeing.
+v13: עָוֹן (avon)
+Wrongdoing, guilt, or its punishment.
 
-v07: חַטָּאת (ḥaṭṭāʾt)
-“Sin.” Here sin is personified as something crouching and desiring mastery.
-
-v07: רָבַץ (rāvaṣ)
-“To crouch” or “lie down.” The verb gives sin an animal-like posture of readiness.
-
-v10: דָּם (dām)
-“Blood.” In this verse the plural form intensifies the image of bloodshed crying from the ground.
-
-v12: נָע וָנָד (nāʿ wā-nād)
-“Fugitive and wanderer.” The paired terms describe unsettled existence without secure place.
-
-v15: אוֹת (ʾôt)
-“Sign” or “mark.” The sign given to Cain functions as protection, not merely identification.
-
-v16: נוֹד (Nōd)
-“Nod.” The name is related to wandering, reinforcing Cain’s exile east of Eden.
-
-v25: שֵׁת (Šēt)
-“Seth.” The name is connected with the verb “to appoint” or “set,” reflecting Eve’s explanation.
-
-v26: קָרָא בְּשֵׁם יְהוָה (qārāʾ bĕ-shēm YHWH)
-“To call upon the name of the LORD.” The phrase marks public invocation, worship, or appeal to the LORD.
+v15: אוֹת (ot)
+Sign; also used of the covenant sign in chapter 9.
