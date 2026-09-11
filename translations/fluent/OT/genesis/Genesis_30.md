@@ -7,6 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
+consistency_revision: fluent-genesis-consistency-2026-09-11
 revision: fluent-genesis-29-31-biblical-fluency-2026-09-11
 ---
 
@@ -109,9 +110,6 @@ v30: You had little before I came, but it has multiplied abundantly. The LORD ha
 
 <p>
 v31: “What should I give you?” Laban asked. Jacob answered, “You do not need to give me anything. If you agree to this, I will continue tending and guarding your flock:
-</p>
-
-<p>
 v32: let me go through your whole flock today. Remove every speckled or spotted animal, every dark-colored sheep, and every spotted or speckled goat. Those animals will be my wages.
 v33: Later, my honesty will answer for me when you inspect my wages. If you find with me any goat that is not speckled or spotted, or any sheep that is not dark-colored, it will be considered stolen.”
 </p>

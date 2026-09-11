@@ -7,6 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
+consistency_revision: fluent-genesis-consistency-2026-09-11
 revision: fluent-genesis-37-41-biblical-fluency-2026-09-11
 ---
 
@@ -96,4 +97,4 @@ v20: בֵּית הַסֹּהַר (bet hassohar)
 Prison, literally a house of confinement.
 
 v21: חֶסֶד (ḥesed)
-Steadfast or covenant love; loyal kindness.
+Steadfast love or loyal kindness. The word does not by itself assert a formal covenant.

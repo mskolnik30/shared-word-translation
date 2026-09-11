@@ -37,9 +37,16 @@
     "verse_count": 43,
     "path": "translations/fluent/OT/genesis/Genesis_30.md",
     "before_sha256": "113a567fcfcb1a44af61615a843cbbd3260e9037469d5cc7c9f0ab2e0c1fe2a2",
-    "after_sha256": "ce257d84cf0649e2b4d30e2061d497560a1c9a399ef70b96bf8e92720130429d",
+    "after_sha256": "c0c394bb33f13a146a18c245de38c51f96af3583535254928b80af7f36dbd5e1",
     "tsw_comparator_path": "books/OT/genesis/Genesis_30.md",
-    "tsw_comparator_sha256": "5ffad66334346c2375e6f9b7996404c430094c8b4fe06ec3e65cfdb8aaf3c552"
+    "tsw_comparator_sha256": "5ffad66334346c2375e6f9b7996404c430094c8b4fe06ec3e65cfdb8aaf3c552",
+    "binding_history": [
+      {
+        "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+        "after_sha256": "ce257d84cf0649e2b4d30e2061d497560a1c9a399ef70b96bf8e92720130429d",
+        "superseded_by": "fluent-genesis-consistency-2026-09-11"
+      }
+    ]
   },
   "verse_ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
   "public_versification": null,
@@ -152,5 +159,15 @@
       "decision": "Follow the difficult herd-management description while retaining separation, visual orientation, and distinct ownership.",
       "disposition": "REVIEW_PENDING"
     }
-  ]
+  ],
+  "consistency_review": {
+    "id": "fluent-genesis-consistency-2026-09-11",
+    "prior_record": {
+      "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+      "path": "audit/exegetical-core/fluent-production/genesis/Genesis_30_review.json"
+    },
+    "rationale": "Keep the wages proposal in 30:31–32 within one paragraph; no verse wording changed.",
+    "status": "REVIEW_PENDING",
+    "publication_allowed": false
+  }
 }

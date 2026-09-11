@@ -727,5 +727,23 @@
     "versification_note": "Public and Hebrew verse numbering align throughout Genesis 46–50.",
     "note": "Chapters 46–50 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
   },
-  "chapter_reviews_complete_scope": "Draft source-based pass and structural checks only; not independent editorial approval."
+  "chapter_reviews_complete_scope": "Draft source-based pass and structural checks only; not independent editorial approval.",
+  "consistency_reviews": [
+    {
+      "id": "fluent-genesis-consistency-2026-09-11",
+      "report": "audit/fluent-revision/2026-09-11-genesis-consistency/review.json",
+      "chapters_changed": [
+        30,
+        36,
+        39,
+        40
+      ],
+      "status": "SELF_CHECK_COMPLETED",
+      "editorial_status": "REVIEW_PENDING",
+      "prior_record": {
+        "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+        "path": "audit/exegetical-core/fluent-production/genesis/APPROVE_QA.json"
+      }
+    }
+  ]
 }

@@ -7,6 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
+consistency_revision: fluent-genesis-consistency-2026-09-11
 revision: fluent-genesis-37-41-biblical-fluency-2026-09-11
 ---
 
@@ -17,11 +18,6 @@ v01: Some time later, the king of Egypt’s cupbearer and baker offended their m
 v02: Pharaoh became angry with his two officials, the chief cupbearer and the chief baker,
 v03: and placed them in custody in the house of the captain of the guard, in the same prison where Joseph was confined.
 v04: The captain of the guard assigned Joseph to attend them. After they had been in custody for some time,
-</p>
-
-## Two Dreams
-
-<p>
 v05: the cupbearer and baker of the king of Egypt, who were confined in the prison, both had dreams on the same night. Each man’s dream had its own meaning.
 v06: When Joseph came to them in the morning, he saw that they were troubled.
 v07: He asked Pharaoh’s officials, who were in custody with him in his master’s house, “Why do you look so distressed today?”
@@ -39,7 +35,7 @@ v11: Pharaoh’s cup was in my hand, so I took the grapes, squeezed them into hi
 <p>
 v12: Joseph said, “This is what it means: the three branches are three days.
 v13: Within three days Pharaoh will lift up your head and restore you to your position. You will put Pharaoh’s cup in his hand as you used to do when you were his cupbearer.
-v14: But when things go well for you, please remember me. Show me covenant kindness by mentioning me to Pharaoh and getting me out of this place.
+v14: But when things go well for you, please remember me. Show me kindness by mentioning me to Pharaoh and getting me out of this place.
 v15: I was forcibly taken from the land of the Hebrews, and even here I have done nothing that deserved being put in this pit.”
 </p>
 
@@ -92,7 +88,7 @@ v13: נָשָׂא אֶת־רֹאשׁ (nasa et-rosh)
 To lift up the head; here a phrase with contrasting outcomes.
 
 v14: חֶסֶד (ḥesed)
-Loyal or covenant kindness.
+Kindness or loyal care. Joseph asks the cupbearer to act for him; no covenant is stated here.
 
 v15: בּוֹר (bor)
 Pit, cistern, dungeon, or prison.

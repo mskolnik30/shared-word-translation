@@ -36,9 +36,16 @@
     "verse_count": 23,
     "path": "translations/fluent/OT/genesis/Genesis_40.md",
     "before_sha256": "08bd84ed55f91b2e9d200e69f40738e13028c1ce1886a8ccaf2ed00e4575316f",
-    "after_sha256": "21b47bc8eb76802b36d0e58adbc39cf9d4768620c9241ed94e92b8ff28b15995",
+    "after_sha256": "15c143553a5aad37e1ea3139580629d87518af271060448855048f3f457fd016",
     "tsw_comparator_path": "books/OT/genesis/Genesis_40.md",
-    "tsw_comparator_sha256": "351392bc02ce2095b806fbfeb6b9b4a687b9b670d5e37fbca6faccb0c2a8131c"
+    "tsw_comparator_sha256": "351392bc02ce2095b806fbfeb6b9b4a687b9b670d5e37fbca6faccb0c2a8131c",
+    "binding_history": [
+      {
+        "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+        "after_sha256": "21b47bc8eb76802b36d0e58adbc39cf9d4768620c9241ed94e92b8ff28b15995",
+        "superseded_by": "fluent-genesis-consistency-2026-09-11"
+      }
+    ]
   },
   "verse_ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
   "public_versification": {
@@ -81,5 +88,15 @@
       "decision": "Keeps the shared phrase for the royal reckoning before their divergent outcomes.",
       "disposition": "REVIEW_PENDING"
     }
-  ]
+  ],
+  "consistency_review": {
+    "id": "fluent-genesis-consistency-2026-09-11",
+    "prior_record": {
+      "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+      "path": "audit/exegetical-core/fluent-production/genesis/Genesis_40_review.json"
+    },
+    "rationale": "Remove the heading/paragraph break inside the sentence spanning 40:4–5. At 40:14 render ḥesed as kindness without adding an unstated covenant; correct the matching vocabulary gloss.",
+    "status": "REVIEW_PENDING",
+    "publication_allowed": false
+  }
 }

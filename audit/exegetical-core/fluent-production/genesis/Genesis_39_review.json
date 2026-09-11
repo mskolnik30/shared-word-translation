@@ -36,9 +36,16 @@
     "verse_count": 23,
     "path": "translations/fluent/OT/genesis/Genesis_39.md",
     "before_sha256": "2d609d839fb311e94a61807430e66c4344e7eb1fd7127ad00efe7d397b1b122d",
-    "after_sha256": "d32065cb00b010f9cb89207a7472a20e649d944050a28afccb965d16051dc458",
+    "after_sha256": "c3e6924553ab43f888ee089ca7150aa528b5f7f5f897fcabdc413dcca26833e9",
     "tsw_comparator_path": "books/OT/genesis/Genesis_39.md",
-    "tsw_comparator_sha256": "91f75c2698656d8f08a2d3616e40d7f55ad0ea4e5b24025637764d13162cf3d0"
+    "tsw_comparator_sha256": "91f75c2698656d8f08a2d3616e40d7f55ad0ea4e5b24025637764d13162cf3d0",
+    "binding_history": [
+      {
+        "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+        "after_sha256": "d32065cb00b010f9cb89207a7472a20e649d944050a28afccb965d16051dc458",
+        "superseded_by": "fluent-genesis-consistency-2026-09-11"
+      }
+    ]
   },
   "verse_ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
   "public_versification": {
@@ -99,5 +106,15 @@
       "decision": "Identifies Joseph’s master while leaving the object of his anger unstated, as in the source.",
       "disposition": "REVIEW_PENDING"
     }
-  ]
+  ],
+  "consistency_review": {
+    "id": "fluent-genesis-consistency-2026-09-11",
+    "prior_record": {
+      "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+      "path": "audit/exegetical-core/fluent-production/genesis/Genesis_39_review.json"
+    },
+    "rationale": "Remove an unwarranted automatic covenant sense from the vocabulary gloss for ḥesed; the verse’s steadfast love remains unchanged.",
+    "status": "REVIEW_PENDING",
+    "publication_allowed": false
+  }
 }

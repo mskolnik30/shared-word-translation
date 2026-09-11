@@ -44,9 +44,16 @@
       "verse_count": 43,
       "path": "translations/fluent/OT/genesis/Genesis_30.md",
       "before_sha256": "113a567fcfcb1a44af61615a843cbbd3260e9037469d5cc7c9f0ab2e0c1fe2a2",
-      "after_sha256": "ce257d84cf0649e2b4d30e2061d497560a1c9a399ef70b96bf8e92720130429d",
+      "after_sha256": "c0c394bb33f13a146a18c245de38c51f96af3583535254928b80af7f36dbd5e1",
       "tsw_comparator_path": "books/OT/genesis/Genesis_30.md",
-      "tsw_comparator_sha256": "5ffad66334346c2375e6f9b7996404c430094c8b4fe06ec3e65cfdb8aaf3c552"
+      "tsw_comparator_sha256": "5ffad66334346c2375e6f9b7996404c430094c8b4fe06ec3e65cfdb8aaf3c552",
+      "binding_history": [
+        {
+          "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+          "after_sha256": "ce257d84cf0649e2b4d30e2061d497560a1c9a399ef70b96bf8e92720130429d",
+          "superseded_by": "fluent-genesis-consistency-2026-09-11"
+        }
+      ]
     },
     {
       "chapter": 31,
@@ -1814,5 +1821,18 @@
       "F3": 47,
       "F0": 3
     }
-  }
+  },
+  "consistency_reviews": [
+    {
+      "id": "fluent-genesis-consistency-2026-09-11",
+      "prior_ledger": {
+        "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+        "path": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json"
+      },
+      "chapters": [
+        30
+      ],
+      "report": "audit/fluent-revision/2026-09-11-genesis-consistency/review.json"
+    }
+  ]
 }

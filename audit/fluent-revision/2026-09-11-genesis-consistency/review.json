@@ -1,0 +1,70 @@
+{
+  "id": "fluent-genesis-consistency-2026-09-11",
+  "base_commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+  "scope": "Whole-book structural and selected thematic consistency pass; not a new verse-by-verse translation or independent scholarly review.",
+  "status": "SELF_CHECK_COMPLETED",
+  "editorial_status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "chapter_changes": [
+    {
+      "chapter": 30,
+      "path": "translations/fluent/OT/genesis/Genesis_30.md",
+      "before_sha256": "ce257d84cf0649e2b4d30e2061d497560a1c9a399ef70b96bf8e92720130429d",
+      "after_sha256": "c0c394bb33f13a146a18c245de38c51f96af3583535254928b80af7f36dbd5e1",
+      "rationale": "Keep the wages proposal in 30:31–32 within one paragraph; no verse wording changed."
+    },
+    {
+      "chapter": 36,
+      "path": "translations/fluent/OT/genesis/Genesis_36.md",
+      "before_sha256": "c732954da6bc39372bb20cbe47a17a7f4b8582a3f2877610eb8228aafa26ca8a",
+      "after_sha256": "38679d787041aa45fbc34bd15d93c03650126b0f00291fe71d9417c165e2a02e",
+      "rationale": "Join the chiefs list across 36:42–43; remove an audit implementation detail from the public written/read note. No verse wording changed."
+    },
+    {
+      "chapter": 39,
+      "path": "translations/fluent/OT/genesis/Genesis_39.md",
+      "before_sha256": "d32065cb00b010f9cb89207a7472a20e649d944050a28afccb965d16051dc458",
+      "after_sha256": "c3e6924553ab43f888ee089ca7150aa528b5f7f5f897fcabdc413dcca26833e9",
+      "rationale": "Remove an unwarranted automatic covenant sense from the vocabulary gloss for ḥesed; the verse’s steadfast love remains unchanged."
+    },
+    {
+      "chapter": 40,
+      "path": "translations/fluent/OT/genesis/Genesis_40.md",
+      "before_sha256": "21b47bc8eb76802b36d0e58adbc39cf9d4768620c9241ed94e92b8ff28b15995",
+      "after_sha256": "15c143553a5aad37e1ea3139580629d87518af271060448855048f3f457fd016",
+      "rationale": "Remove the heading/paragraph break inside the sentence spanning 40:4–5. At 40:14 render ḥesed as kindness without adding an unstated covenant; correct the matching vocabulary gloss."
+    }
+  ],
+  "verse_changes": [
+    {
+      "reference": "Genesis 40:14",
+      "source_reference": "Gen 40:14",
+      "source_verse_sha256": "d9ca90c186d7b584d8e89b6eab10b954b235530a2a828835b47cd91a092363ad",
+      "before": "But when things go well for you, please remember me. Show me covenant kindness by mentioning me to Pharaoh and getting me out of this place.",
+      "after": "But when things go well for you, please remember me. Show me kindness by mentioning me to Pharaoh and getting me out of this place.",
+      "comparator": "Only remember me when it is well with you, and please show kindness to me and mention me to Pharaoh, and bring me out of this house.",
+      "delta": "F3",
+      "rationale": "Remove the heading/paragraph break inside the sentence spanning 40:4–5. At 40:14 render ḥesed as kindness without adding an unstated covenant; correct the matching vocabulary gloss.",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "affected_ledgers": [
+    "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json"
+  ],
+  "concordance": "concordance.json",
+  "reviewed_domains": {
+    "paragraph_flow": "All 50 chapters screened; list and sentence interruptions in 30, 36, 40 corrected. Separate introductions to quoted speeches in 23:10–11 and 34:20–21 retained.",
+    "key_terms": "All 58 source verses containing covenant, ḥesed, Shaddai, Sheol, and toledot compared through a source-lemma concordance. Contextual renderings retained; 40:14 corrected.",
+    "names": "Main-text spelling inventory for Beersheba, Paddan-aram, Rebekah, Abimelech, Machpelah, Potiphar/Potiphera, and Ephrath checked. Paddan in 48:7 follows its source form. Different wife names and kinship lists in 26/28/36/46 were not harmonized.",
+    "chronology": "Targeted life-stage review: Abram 75 at departure, Abraham 100 at Isaac’s birth, Isaac 60 at twins’ birth, Joseph 17 then 30, seven plenty years and two elapsed famine years, Jacob 130 at arrival plus 17 years = 147. No chronology compressed or new dates inserted. Detailed genealogy arithmetic and flood periods remain documented in the earlier source-based batch.",
+    "textual_ambiguities": "Preserved source/public numbering distinction in 31–32, written/read records, and prior notes on genealogical variants and chapter 49.",
+    "apparatus": "Focused semantic and reader-facing check corrected covenant glosses in 39/40 and removed audit machinery wording in 36. This is not a claim that every note received a new scholarly review."
+  },
+  "remaining_work": [
+    "Independent Hebrew scholarly review and reader testing across Genesis and James.",
+    "Companion quotation and binding reconciliation before installation.",
+    "Continue source-based drafting with Exodus."
+  ]
+}

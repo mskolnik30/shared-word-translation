@@ -7,6 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
+consistency_revision: fluent-genesis-consistency-2026-09-11
 revision: fluent-genesis-32-36-biblical-fluency-2026-09-11
 ---
 
@@ -166,9 +167,6 @@ v39: When Baal-hanan son of Achbor died, Hadar became king in his place. His cit
 v40: These were the names of Esau’s chiefs, listed by their clans, places, and names: Chief Timna, Chief Alvah, Chief Jetheth,
 v41: Chief Oholibamah, Chief Elah, Chief Pinon,
 v42: Chief Kenaz, Chief Teman, Chief Mibzar,
-</p>
-
-<p>
 v43: Chief Magdiel and Chief Iram. These were Edom’s chiefs, listed by their settlements in the land they possessed. This is Esau, the father of Edom.
 </p>
 
@@ -178,7 +176,7 @@ v01, 09: ‘Family record’ translates toledot, the recurring Genesis heading f
 
 v02–03: The names and family relationships of Esau’s wives differ from those given in 26:34 and 28:9. The chapter’s own record is preserved rather than silently harmonized with the earlier lists.
 
-v05, 14: The written consonants for Jeush differ from the traditional reading followed by the vowel pointing. The main text follows the recorded reading, and the ledger hashes the complete source records.
+v05, 14: The written consonants for Jeush differ from the traditional reading followed by the vowel pointing. The main text follows the recorded reading.
 
 v06–08: The text does not name Esau’s destination in verse 6; verse 8 identifies his settlement as the hill country of Seir. The separation because of abundant livestock echoes Abraham and Lot in chapter 13.
 

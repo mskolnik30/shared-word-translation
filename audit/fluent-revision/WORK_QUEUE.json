@@ -50,10 +50,6 @@
   ],
   "next_work": [
     {
-      "scope": "Genesis 1–50",
-      "action": "Whole-book consistency review of key words, names, chronology, source ambiguities, paragraph flow, and apparatus. Rebind affected ledgers after any corrections."
-    },
-    {
       "scope": "Exodus 1–18",
       "action": "Begin the next connected narrative, using the verified pinned source already recorded by the repository."
     }
@@ -67,5 +63,12 @@
     "Preserve all existing work and reconcile newer checkpoint history before starting."
   ],
   "upload_status": "User-authorized GitHub upload was blocked: terminal lacks authentication, GitHub write returned 403 Resource not accessible by integration. Read access succeeds. Do not keep retrying or bypass permissions.",
-  "publication_status": "No public deployment performed. Revised chapters remain editorial drafts."
+  "publication_status": "No public deployment performed. Revised chapters remain editorial drafts.",
+  "completed_consistency_passes": [
+    {
+      "scope": "Genesis 1–50",
+      "report": "audit/fluent-revision/2026-09-11-genesis-consistency/review.json",
+      "qualification": "Whole-book structural and selected thematic self-check; independent editorial review pending."
+    }
+  ]
 }

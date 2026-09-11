@@ -52,18 +52,32 @@
       "verse_count": 23,
       "path": "translations/fluent/OT/genesis/Genesis_39.md",
       "before_sha256": "2d609d839fb311e94a61807430e66c4344e7eb1fd7127ad00efe7d397b1b122d",
-      "after_sha256": "d32065cb00b010f9cb89207a7472a20e649d944050a28afccb965d16051dc458",
+      "after_sha256": "c3e6924553ab43f888ee089ca7150aa528b5f7f5f897fcabdc413dcca26833e9",
       "tsw_comparator_path": "books/OT/genesis/Genesis_39.md",
-      "tsw_comparator_sha256": "91f75c2698656d8f08a2d3616e40d7f55ad0ea4e5b24025637764d13162cf3d0"
+      "tsw_comparator_sha256": "91f75c2698656d8f08a2d3616e40d7f55ad0ea4e5b24025637764d13162cf3d0",
+      "binding_history": [
+        {
+          "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+          "after_sha256": "d32065cb00b010f9cb89207a7472a20e649d944050a28afccb965d16051dc458",
+          "superseded_by": "fluent-genesis-consistency-2026-09-11"
+        }
+      ]
     },
     {
       "chapter": 40,
       "verse_count": 23,
       "path": "translations/fluent/OT/genesis/Genesis_40.md",
       "before_sha256": "08bd84ed55f91b2e9d200e69f40738e13028c1ce1886a8ccaf2ed00e4575316f",
-      "after_sha256": "21b47bc8eb76802b36d0e58adbc39cf9d4768620c9241ed94e92b8ff28b15995",
+      "after_sha256": "15c143553a5aad37e1ea3139580629d87518af271060448855048f3f457fd016",
       "tsw_comparator_path": "books/OT/genesis/Genesis_40.md",
-      "tsw_comparator_sha256": "351392bc02ce2095b806fbfeb6b9b4a687b9b670d5e37fbca6faccb0c2a8131c"
+      "tsw_comparator_sha256": "351392bc02ce2095b806fbfeb6b9b4a687b9b670d5e37fbca6faccb0c2a8131c",
+      "binding_history": [
+        {
+          "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+          "after_sha256": "21b47bc8eb76802b36d0e58adbc39cf9d4768620c9241ed94e92b8ff28b15995",
+          "superseded_by": "fluent-genesis-consistency-2026-09-11"
+        }
+      ]
     },
     {
       "chapter": 41,
@@ -1404,16 +1418,24 @@
     },
     {
       "reference": "Genesis 40:14",
-      "delta": "F2",
-      "rationale": "Retains remembrance, hesed, appeal, and desired release in natural speech.",
+      "delta": "F3",
+      "rationale": "Consistency correction: ḥesed requests kindness here; adding covenant overstates the relation between Joseph and the cupbearer. The request to remember, mention him to Pharaoh, and secure release is retained.",
       "source_reference": "Gen 40:14",
       "source_verse_sha256": "d9ca90c186d7b584d8e89b6eab10b954b235530a2a828835b47cd91a092363ad",
       "before": "Only remember me when it is well with you, and please show kindness to me and mention me to Pharaoh, and bring me out of this house.",
-      "after": "But when things go well for you, please remember me. Show me covenant kindness by mentioning me to Pharaoh and getting me out of this place.",
+      "after": "But when things go well for you, please remember me. Show me kindness by mentioning me to Pharaoh and getting me out of this place.",
       "tsw_comparator": "Only remember me when it is well with you, and please show kindness to me and mention me to Pharaoh, and bring me out of this house.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.45283,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.461538,
+      "editorial_status": "REVIEW_PENDING",
+      "revision_history": [
+        {
+          "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+          "after": "But when things go well for you, please remember me. Show me covenant kindness by mentioning me to Pharaoh and getting me out of this place.",
+          "delta": "F2",
+          "rationale": "Retains remembrance, hesed, appeal, and desired release in natural speech."
+        }
+      ]
     },
     {
       "reference": "Genesis 40:15",
@@ -2310,5 +2332,19 @@
       "F2": 83,
       "F0": 1
     }
-  }
+  },
+  "consistency_reviews": [
+    {
+      "id": "fluent-genesis-consistency-2026-09-11",
+      "prior_ledger": {
+        "commit": "59a5254d21cfdcd6525aa4277c777e312f32bf39",
+        "path": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json"
+      },
+      "chapters": [
+        39,
+        40
+      ],
+      "report": "audit/fluent-revision/2026-09-11-genesis-consistency/review.json"
+    }
+  ]
 }
