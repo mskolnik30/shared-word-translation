@@ -71,11 +71,16 @@
       "scope": "Exodus 12–18",
       "verses": 210,
       "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json"
+    },
+    {
+      "scope": "Exodus 19–20",
+      "verses": 51,
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Exodus 19–24",
+      "scope": "Exodus 21–24",
       "action": "Continue from the pinned Hebrew through Sinai, covenant instructions, and ratification. Preserve legal distinctions, named agents, ancient social conditions and real harm; keep the Ten Words readable without doctrinal expansion. Complete chapters with exact source bindings and qualified structural QA."
     }
   ],

@@ -4,120 +4,94 @@ testament: OT
 chapter: 19
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-19-20-biblical-fluency-2026-09-11
 ---
 
-## Israel Comes to Sinai
+## Israel camps at Sinai
 
 <p>
-v01: In the third month after the children of Israel had gone out from the land of Egypt, on that very day they came to the wilderness of Sinai.
-
-v02: They journeyed from Rephidim, came to the wilderness of Sinai, and camped in the wilderness. Israel camped there before the mountain.
+v01: In the third month after the Israelites left Egypt, on that very day, they came to the wilderness of Sinai.
+v02: They had traveled from Rephidim and come to the wilderness of Sinai, where they camped. Israel camped there in front of the mountain.
 </p>
 
-## A Kingdom of Priests and a Holy Nation
+## A treasured possession
 
 <p>
-v03: Moses went up to God, and the LORD called to him from the mountain, saying, “Thus you will say to the house of Jacob and tell the children of Israel:
-
-v04: ‘You yourselves have seen what I did to Egypt, and how I carried you on eagles’ wings and brought you to myself.
-
-v05: Now therefore, if you truly listen to my voice and keep my covenant, you will be my treasured possession from among all peoples, for all the earth is mine.
-
-v06: You will be to me a kingdom of priests and a holy nation.’ These are the words that you will speak to the children of Israel.”
+v03: Moses went up to God, and the LORD called to him from the mountain: “This is what you are to say to the house of Jacob and tell the Israelites:
+v04: ‘You yourselves saw what I did to Egypt, how I carried you on eagles’ wings and brought you to myself.
+v05: Now, if you truly listen to my voice and keep my covenant, you will be my treasured possession among all peoples, for the whole earth belongs to me.
+v06: You will be for me a kingdom of priests and a holy nation.’ These are the words you are to speak to the Israelites.”
 </p>
 
-## The People Prepare to Meet God
-
 <p>
-v07: Moses came and called the elders of the people and set before them all these words that the LORD had commanded him.
-
-v08: All the people answered together and said, “All that the LORD has spoken we will do.” And Moses brought the words of the people back to the LORD.
-
-v09: The LORD said to Moses, “Look, I am coming to you in a thick cloud so that the people may hear when I speak with you and may also trust you forever.” Then Moses told the words of the people to the LORD.
-
-v10: The LORD said to Moses, “Go to the people and consecrate them today and tomorrow. Let them wash their garments
-
-v11: and be ready for the third day, for on the third day the LORD will come down in the sight of all the people upon Mount Sinai.
-
-v12: You will set boundaries for the people all around, saying, ‘Be careful not to go up the mountain or touch its edge. Whoever touches the mountain will surely be put to death.
-
-v13: No hand will touch that person, but the person will surely be stoned or shot through; whether animal or human, it will not live.’ When the ram’s horn gives a long blast, they may come up toward the mountain.”
-
-v14: Moses went down from the mountain to the people and consecrated the people, and they washed their garments.
-
-v15: He said to the people, “Be ready for the third day. Do not approach a woman.”
+v07: Moses came and summoned the people’s elders. He set before them all these words the LORD had commanded him to speak.
+v08: All the people answered together, “We will do everything the LORD has said.” Moses brought their answer back to the LORD.
 </p>
 
-## The LORD Descends on Sinai
-
 <p>
-v16: On the third day, when morning came, there were thunder and lightning, a heavy cloud upon the mountain, and a very strong sound of a ram’s horn. All the people who were in the camp trembled.
-
-v17: Moses brought the people out from the camp to meet God, and they stood at the foot of the mountain.
-
-v18: Mount Sinai was completely covered in smoke because the LORD had come down upon it in fire. Its smoke went up like the smoke of a kiln, and the whole mountain trembled greatly.
-
-v19: As the sound of the ram’s horn grew stronger and stronger, Moses spoke, and God answered him with a voice.
-
-v20: The LORD came down upon Mount Sinai, to the top of the mountain. The LORD called Moses to the top of the mountain, and Moses went up.
+v09: The LORD said to Moses, “I am coming to you in a dense cloud, so the people can hear when I speak with you and will also trust you always.” Moses told the LORD what the people had said.
 </p>
 
-## Do Not Break Through to the LORD
+## Preparing to meet God
 
 <p>
-v21: The LORD said to Moses, “Go down, warn the people, lest they break through to the LORD to see and many of them fall.
+v10: The LORD told Moses, “Go to the people and consecrate them today and tomorrow. Have them wash their clothes.
+v11: They must be ready for the third day, because on the third day the LORD will come down on Mount Sinai in the sight of all the people.
+v12: Set a boundary for the people all around, and tell them, ‘Be careful not to go up the mountain or touch its edge. Anyone who touches the mountain must be put to death.
+v13: No hand is to touch that person; they must be stoned or shot. Whether animal or human, they must not live.’ When the ram’s horn gives a long blast, they may go up the mountain.”
+</p>
 
-v22: Even the priests who come near to the LORD must consecrate themselves, lest the LORD break out against them.”
+<p>
+v14: Moses went down from the mountain to the people and consecrated them, and they washed their clothes.
+v15: He told the people, “Be ready for the third day. Do not have sexual relations with a woman.”
+</p>
 
-v23: Moses said to the LORD, “The people cannot come up Mount Sinai, for you yourself warned us, saying, ‘Set boundaries around the mountain and consecrate it.’”
+## The LORD descends on Sinai
 
-v24: The LORD said to him, “Go, get down, and come up, you and Aaron with you. But do not let the priests and the people break through to come up to the LORD, lest he break out against them.”
+<p>
+v16: On the morning of the third day, there were thunder and lightning, a heavy cloud over the mountain, and a very loud blast of a horn. Everyone in the camp trembled.
+v17: Moses led the people out of the camp to meet God. They stood at the foot of the mountain.
+v18: All Mount Sinai was wrapped in smoke because the LORD had come down on it in fire. Smoke rose from it like smoke from a kiln, and the whole mountain shook violently.
+v19: The horn’s sound grew louder and louder. Moses kept speaking, and God kept answering him with a voice.
+</p>
 
+<p>
+v20: The LORD came down to the top of Mount Sinai and called Moses to the mountaintop. Moses went up.
+v21: The LORD said to Moses, “Go down and warn the people not to break through to gaze at the LORD, or many of them will fall dead.
+v22: Even the priests who approach the LORD must consecrate themselves, so the LORD does not break out against them.”
+</p>
+
+<p>
+v23: Moses said to the LORD, “The people cannot come up Mount Sinai. You yourself warned us, ‘Set a boundary around the mountain and consecrate it.’”
+v24: The LORD told him, “Go down! Then come up again, you and Aaron with you. But the priests and the people must not break through to come up to the LORD, or he will break out against them.”
 v25: So Moses went down to the people and spoke to them.
 </p>
 
 ## Notes
 
-v01: “on that very day” is chronologically compressed. The chapter locates the Sinai arrival in the third month after the exodus without supplying a modern calendar date.
+v1: The Hebrew specifies the third month and says ‘on this day,’ without giving a numbered day of the month.
 
-v04: Eagles’ wings portray protective and powerful divine transport. Israel’s destination is ultimately not merely a land but “to myself.”
+v5–6: The promise joins covenant obedience, Israel’s place among the peoples, and God’s ownership of the whole earth. ‘Kingdom of priests’ preserves the compact Hebrew expression rather than specifying a later political or religious structure.
 
-v05: “treasured possession” does not imply that other nations lie outside the LORD’s ownership; the verse immediately says, “all the earth is mine.”
+v12–13: The warning forbids touching the transgressor and calls for stoning or shooting from a distance. Its death sanction includes animals. The permission associated with the long horn blast is retained alongside the restrictions.
 
-v06: “kingdom of priests” joins royal and priestly language to describe Israel’s corporate vocation before the nations.
+v15: The Hebrew says not to ‘approach a woman,’ a sexual expression addressed here from a male perspective. It does not say that women are excluded from the people’s encounter with God.
 
-v09: The public hearing of the LORD’s speech establishes Moses’ trustworthiness as mediator.
-
-v12–13: The boundaries express the danger of unmediated approach to divine holiness. The severe penalties belong to the enacted holiness of the Sinai event.
-
-v15: Temporary sexual abstinence is part of ritual preparation for the encounter. The verse does not define sexual relations themselves as morally impure.
-
-v18–20: Smoke, fire, trembling mountain, thunder, lightning, and horn together present the divine descent as overwhelming the ordinary categories of nature and worship.
-
-v22: Priests are mentioned before the later Aaronic priestly installation. The text does not explain the precise identity or status of these priests at this stage.
+v19: The word rendered ‘voice’ can also mean ‘sound’ or ‘thunder’; it is used for thunder in verse 16.
 
 ## Vocabulary
 
-v05: סְגֻלָּה (segullah)
-“Treasure” or “treasured possession.” A valued possession specially claimed by a ruler.
+v5: Covenant — berit
+A binding relationship with commitments. Here the people are called to keep God’s covenant.
 
-v05: בְּרִית (berit)
-“Covenant.” The binding relationship Israel is called to keep.
+v5: Treasured possession — segullah
+Something specially valued and claimed as one’s own.
 
-v06: מַמְלֶכֶת כֹּהֲנִים (mamlekhet kohanim)
-“Kingdom of priests.” Israel’s corporate vocation.
+v6: Holy — qadosh
+Set apart as belonging to God.
 
-v06: גּוֹי קָדוֹשׁ (goy qadosh)
-“Holy nation.” A people set apart to the LORD.
-
-v10: קָדַשׁ (qadash)
-“To consecrate.” To prepare or set apart for sacred encounter.
-
-v12: גְּבוּל (gevul)
-“Boundary.” A limit placed around the mountain.
-
-v16: שׁוֹפָר (shofar)
-“Ram’s horn.” Its growing sound accompanies the divine descent.
-
-v22: פָּרַץ (parats)
-“To break out” or “burst through.” Used both of people crossing the boundary and of divine judgment breaking out against them.
+v16: Horn — shofar
+An animal horn sounded as an instrument or signal.

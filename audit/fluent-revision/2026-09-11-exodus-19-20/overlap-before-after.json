@@ -1,0 +1,530 @@
+{
+  "scope": "Exodus 19–20 only; 51 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical means nonidentical similarity >= 0.90. Triage only, not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 27,
+      "near_identical_verses": 18,
+      "mean_similarity": 0.961786,
+      "verses": [
+        {
+          "reference": "Exodus 19:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:3",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Exodus 19:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:5",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Exodus 19:6",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 19:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:12",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Exodus 19:13",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 19:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 19:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 20:1",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 20:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 20:3",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 20:4",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Exodus 20:5",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 20:6",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 20:7",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Exodus 20:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 20:9",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 20:10",
+          "identical": false,
+          "similarity": 0.97619
+        },
+        {
+          "reference": "Exodus 20:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 20:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 20:13",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 20:14",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 20:15",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 20:16",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Exodus 20:17",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Exodus 20:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 20:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 20:20",
+          "identical": false,
+          "similarity": 0.983607
+        },
+        {
+          "reference": "Exodus 20:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 20:22",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Exodus 20:23",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Exodus 20:24",
+          "identical": false,
+          "similarity": 0.957447
+        },
+        {
+          "reference": "Exodus 20:25",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Exodus 20:26",
+          "identical": false,
+          "similarity": 0.95
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 1,
+      "near_identical_verses": 4,
+      "mean_similarity": 0.748939,
+      "verses": [
+        {
+          "reference": "Exodus 19:1",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 19:2",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Exodus 19:3",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 19:4",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Exodus 19:5",
+          "identical": false,
+          "similarity": 0.807018
+        },
+        {
+          "reference": "Exodus 19:6",
+          "identical": false,
+          "similarity": 0.76
+        },
+        {
+          "reference": "Exodus 19:7",
+          "identical": false,
+          "similarity": 0.744186
+        },
+        {
+          "reference": "Exodus 19:8",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 19:9",
+          "identical": false,
+          "similarity": 0.756098
+        },
+        {
+          "reference": "Exodus 19:10",
+          "identical": false,
+          "similarity": 0.820513
+        },
+        {
+          "reference": "Exodus 19:11",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 19:12",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Exodus 19:13",
+          "identical": false,
+          "similarity": 0.756757
+        },
+        {
+          "reference": "Exodus 19:14",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Exodus 19:15",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Exodus 19:16",
+          "identical": false,
+          "similarity": 0.716418
+        },
+        {
+          "reference": "Exodus 19:17",
+          "identical": false,
+          "similarity": 0.871795
+        },
+        {
+          "reference": "Exodus 19:18",
+          "identical": false,
+          "similarity": 0.707692
+        },
+        {
+          "reference": "Exodus 19:19",
+          "identical": false,
+          "similarity": 0.578947
+        },
+        {
+          "reference": "Exodus 19:20",
+          "identical": false,
+          "similarity": 0.652174
+        },
+        {
+          "reference": "Exodus 19:21",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Exodus 19:22",
+          "identical": false,
+          "similarity": 0.789474
+        },
+        {
+          "reference": "Exodus 19:23",
+          "identical": false,
+          "similarity": 0.901961
+        },
+        {
+          "reference": "Exodus 19:24",
+          "identical": false,
+          "similarity": 0.805195
+        },
+        {
+          "reference": "Exodus 19:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 20:1",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Exodus 20:2",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 20:3",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 20:4",
+          "identical": false,
+          "similarity": 0.779661
+        },
+        {
+          "reference": "Exodus 20:5",
+          "identical": false,
+          "similarity": 0.805195
+        },
+        {
+          "reference": "Exodus 20:6",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 20:7",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 20:8",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 20:9",
+          "identical": false,
+          "similarity": 0.631579
+        },
+        {
+          "reference": "Exodus 20:10",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 20:11",
+          "identical": false,
+          "similarity": 0.891892
+        },
+        {
+          "reference": "Exodus 20:12",
+          "identical": false,
+          "similarity": 0.844444
+        },
+        {
+          "reference": "Exodus 20:13",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 20:14",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 20:15",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 20:16",
+          "identical": false,
+          "similarity": 0.588235
+        },
+        {
+          "reference": "Exodus 20:17",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Exodus 20:18",
+          "identical": false,
+          "similarity": 0.576271
+        },
+        {
+          "reference": "Exodus 20:19",
+          "identical": false,
+          "similarity": 0.782609
+        },
+        {
+          "reference": "Exodus 20:20",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 20:21",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Exodus 20:22",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Exodus 20:23",
+          "identical": false,
+          "similarity": 0.578947
+        },
+        {
+          "reference": "Exodus 20:24",
+          "identical": false,
+          "similarity": 0.758621
+        },
+        {
+          "reference": "Exodus 20:25",
+          "identical": false,
+          "similarity": 0.581818
+        },
+        {
+          "reference": "Exodus 20:26",
+          "identical": false,
+          "similarity": 0.684211
+        }
+      ]
+    }
+  }
+}
