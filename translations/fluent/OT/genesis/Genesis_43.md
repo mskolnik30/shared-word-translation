@@ -4,141 +4,135 @@ testament: OT
 chapter: 43
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-42-45-biblical-fluency-2026-09-11
 ---
 
-## Jacob Sends Benjamin to Egypt
+## Judah Gives His Word
+
 <p>
-v01: Now the famine was severe in the land.
-v02: And when they had finished eating the grain that they had brought from Egypt, their father said to them, “Go again, buy us a little food.”
+v01: The famine was severe in the land.
+v02: When they had eaten all the grain they had brought from Egypt, their father said, “Go back and buy us a little food.”
 </p>
 
 <p>
-v03: Yet Judah said to him, “The man solemnly warned us, saying, ‘You will not see my face unless your brother is with you.’
-v04: If you will send our brother with us, we will go down and buy food for you.
-v05: But if you will not send him, we will not go down, for the man said to us, ‘You will not see my face unless your brother is with you.’”
+v03: Judah answered, “The man warned us plainly: ‘You will not see my face unless your brother is with you.’
+v04: If you send our brother with us, we will go down and buy food for you.
+v05: But if you will not send him, we will not go. The man told us, ‘You will not see my face unless your brother is with you.’”
 </p>
 
 <p>
-v06: Israel said, “Why did you treat me so badly as to tell the man that you had another brother?”
-v07: They said, “The man questioned us carefully about ourselves and our family, saying, ‘Is your father still alive? Do you have another brother?’ We answered according to these words. How could we know that he would say, ‘Bring your brother down’?”
+v06: Israel said, “Why did you bring this trouble on me by telling the man you had another brother?”
+v07: They answered, “The man questioned us closely about ourselves and our family: ‘Is your father still alive? Do you have another brother?’ We answered his questions. How could we have known he would tell us to bring our brother down?”
 </p>
 
 <p>
-v08: Then Judah said to Israel his father, “Send the boy with me, and we will arise and go, that we may live and not die, both we and you and also our little ones.
-v09: I myself will be surety for him. From my hand you may require him. If I do not bring him back to you and set him before you, then let me bear the blame before you forever.
-v10: For if we had not delayed, surely by now we could have returned twice.”
+v08: Judah said to his father Israel, “Send the young man with me, and let us be on our way, so we can live and not die—we, you, and our little ones.
+v09: I myself will guarantee his safety. You can hold me responsible for him. If I do not bring him back and stand him before you, I will bear the blame before you all my life.
+v10: If we had not delayed, we could have been back twice by now.”
+</p>
+
+## Israel Sends Benjamin
+
+<p>
+v11: Then their father Israel said, “If it must be so, do this. Put some of the land’s finest produce in your bags and take the man a gift: a little balm and honey, gum and resin, pistachios and almonds.
+v12: Take twice as much silver with you, and return the silver that was put back at the mouths of your sacks. Perhaps it was a mistake.
+v13: Take your brother too, and go back to the man.
+v14: May God Almighty grant you compassion before the man, so he releases your other brother and Benjamin to you. As for me, if I am bereaved, I am bereaved.”
 </p>
 
 <p>
-v11: Then Israel their father said to them, “If it must be so, then do this: take some of the best products of the land in your bags and carry down to the man a gift—a little balm and a little honey, gum, myrrh, pistachio nuts, and almonds.
-v12: Take double the silver with you. Carry back with you the silver that was returned in the mouth of your sacks. Perhaps it was an oversight.
-v13: Take your brother also, and arise, return to the man.
-v14: May God Almighty grant you mercy before the man, so that he may release to you your other brother and Benjamin. And as for me, if I am bereaved of my children, I am bereaved.”
+v15: The men took the gift, twice the silver, and Benjamin. They set out for Egypt and presented themselves before Joseph.
 </p>
 
-## The Brothers Return to Egypt
+## An Invitation and a Fear
+
 <p>
-v15: So the men took this gift, and they took double the silver with them, and Benjamin. They arose and went down to Egypt and stood before Joseph.
-v16: When Joseph saw Benjamin with them, he said to the steward of his house, “Bring the men into the house, slaughter an animal, and prepare it, for the men are to eat with me at noon.”
-v17: The man did as Joseph said and brought the men into Joseph’s house.
+v16: When Joseph saw Benjamin with them, he told his household steward, “Bring these men into the house. Slaughter an animal and prepare it, for they will eat with me at noon.”
+v17: The steward did as Joseph said and brought the men to Joseph’s house.
 </p>
 
 <p>
-v18: And the men were afraid because they were brought into Joseph’s house. They said, “It is because of the silver that was returned in our sacks the first time that we are brought in, so that he may seek an occasion against us and fall upon us and take us as slaves along with our donkeys.”
-v19: So they came near to the steward of Joseph’s house and spoke with him at the entrance of the house,
-v20: saying, “Please, my lord, we indeed came down the first time to buy food.
-v21: And when we came to the lodging place and opened our sacks, look, each man’s silver was in the mouth of his sack, our silver in full weight. So we have brought it back with us.
-v22: We have also brought down with us additional silver to buy food. We do not know who put our silver in our sacks.”
+v18: The men were afraid because they were being brought to Joseph’s house. “It is because of the silver returned to our sacks the first time,” they said. “He means to find a charge against us, fall upon us, and take us as slaves, along with our donkeys.”
 </p>
 
 <p>
-v23: He said, “Peace to you. Do not be afraid. Your God and the God of your father has put treasure in your sacks for you. I received your silver.” Then he brought Simeon out to them.
-v24: And the man brought the men into Joseph’s house and gave them water, and they washed their feet. And he gave their donkeys fodder.
-v25: So they prepared the gift for Joseph’s coming at noon, for they heard that they would eat bread there.
-</p>
-
-## Joseph Receives His Brothers
-<p>
-v26: When Joseph came home, they brought into the house to him the gift that they had with them and bowed down to him to the ground.
-v27: And he asked them about their welfare and said, “Is your father well, the old man of whom you spoke? Is he still alive?”
-v28: They said, “Your servant our father is well. He is still alive.” And they bowed their heads and paid homage.
+v19: At the entrance to Joseph’s house, they approached his steward and spoke to him.
+v20: “Please, my lord,” they said, “we came down the first time to buy food.
+v21: When we reached our lodging place and opened our sacks, each man’s silver was there at the mouth of his sack—the full weight of it. We have brought it back with us.
+v22: We have brought more silver to buy food. We do not know who put our silver in our sacks.”
 </p>
 
 <p>
-v29: Then he lifted up his eyes and saw Benjamin his brother, his mother’s son, and said, “Is this your youngest brother, of whom you spoke to me?” And he said, “God be gracious to you, my son.”
-v30: Then Joseph hurried out, for his compassion grew warm for his brother, and he sought a place to weep. And he entered his chamber and wept there.
-v31: Then he washed his face and came out. And controlling himself, he said, “Serve the meal.”
+v23: “Peace to you. Do not be afraid,” he said. “Your God, the God of your father, gave you treasure in your sacks. I received your silver.” Then he brought Simeon out to them.
+v24: The steward brought the men into Joseph’s house and gave them water, and they washed their feet. He also supplied feed for their donkeys.
 </p>
 
 <p>
-v32: They served him by himself, and them by themselves, and the Egyptians who ate with him by themselves, because the Egyptians could not eat bread with the Hebrews, for that was an abomination to the Egyptians.
-v33: And they sat before him, the firstborn according to his birthright and the youngest according to his youth. And the men looked at one another in amazement.
-v34: Portions were taken to them from before him, but Benjamin’s portion was five times greater than any of theirs. And they drank and were merry with him.
+v25: They arranged their gift for Joseph’s arrival at noon, because they had heard they would eat there.
+</p>
+
+## A Meal with Joseph
+
+<p>
+v26: When Joseph came home, they brought their gift into the house and bowed to the ground before him.
+v27: He asked how they were doing, then said, “Is your elderly father well, the one you told me about? Is he still alive?”
+v28: “Your servant our father is well,” they answered. “He is still alive.” They bowed low and prostrated themselves.
+</p>
+
+<p>
+v29: Joseph looked up and saw Benjamin, his brother, his own mother’s son. “Is this your youngest brother, the one you told me about?” he asked. Then he said, “May God be gracious to you, my son.”
+v30: Overcome with compassion for his brother, Joseph hurried away to find a place to weep. He went into a private room and wept there.
+</p>
+
+<p>
+v31: He washed his face and came out. Regaining his composure, he said, “Serve the food.”
+v32: Joseph was served separately, his brothers separately, and the Egyptians who ate with him separately. Egyptians would not eat with Hebrews, because they considered it an abomination.
+</p>
+
+<p>
+v33: The brothers were seated before him in order of age, from the firstborn to the youngest. They looked at one another in amazement.
+v34: Portions were sent to them from Joseph’s table, but Benjamin’s portion was five times as large as anyone else’s. They drank with Joseph and became drunk.
 </p>
 
 ## Notes
 
-v01–05: The continuing famine forces Jacob to confront the condition Joseph had set for future grain purchases.
+v03–05: To see someone’s face can mean to be admitted to that person’s presence. The repeated expression becomes important in Judah’s appeal in chapter 44.
 
-v08–09: Judah emerges as the spokesman and guarantor for Benjamin, marking a significant development in his character.
+v07: The brothers report questions about their family that are not included in the earlier narrated exchange. The translation preserves the difference between the scenes.
 
-v14: Jacob entrusts the outcome to God Almighty, combining faith with resignation.
+v09: Judah takes responsibility himself, unlike Reuben’s offer of his sons’ lives in 42:37. Judah will repeat this pledge in 44:32.
 
-v16–17: Joseph's invitation to his house creates anxiety for the brothers because they assume judgment is coming.
+v11: Balm, gum, and resin repeat the cargo carried toward Egypt in 37:25. The availability of these goods does not imply an adequate supply of grain.
 
-v18–22: The brothers' concern over the silver reveals a growing sensitivity to guilt and accountability.
+v12: Twice as much silver may mean the returned payment plus a new payment, or a doubled new payment as well as the returned silver. The Hebrew does not spell out the arithmetic.
 
-v23: The steward unexpectedly attributes their safety to God's provision.
+v14, 30: The same Hebrew word underlies Israel’s prayer for compassion and Joseph’s intense compassion for Benjamin.
 
-v26: The brothers bow before Joseph again, continuing the fulfillment of his earlier dreams.
+v29: Benjamin is Joseph’s full brother, Rachel’s other son. “My son” is Joseph’s affectionate address to him.
 
-v27–30: Joseph's questions reveal his continuing concern for his father and Benjamin.
+v32: The narrative describes an Egyptian taboo on eating with Hebrews. It does not explain its historical basis or the separate service for Joseph.
 
-v30: Joseph's emotional response shows that reconciliation remains his deeper desire despite the ongoing tests.
-
-v32: The meal reflects the cultural separation that existed between Egyptians and Hebrews.
-
-v33: The brothers are seated according to birth order, something that appears impossible from their perspective and leaves them astonished.
-
-v34: Benjamin receives special favor, creating a situation similar to Joseph's earlier favored status. The brothers' response will become important in what follows.
+v34: The final verb can mean to become drunk. The translation retains its force rather than reducing the meal’s ending to general happiness.
 
 ## Vocabulary
 
-v09: עָרַב (ʿāraḇ)
-“To pledge” or “stand surety.” To assume responsibility for another's welfare.
+v09: עָרַב (ʿarav)
+To give a guarantee or stand as surety for someone.
 
-v11: מִנְחָה (minḥâ)
-“Gift” or “tribute.” A present offered to gain favor or show respect.
+v11: מִנְחָה (minḥah)
+Gift or offering; here a gift brought to a ruler.
 
-v14: אֵל שַׁדַּי (ʾEl Šadday)
-“God Almighty.” A covenant title emphasizing divine power and sufficiency.
+v14: אֵל שַׁדַּי (El Shaddai)
+God Almighty, the traditional rendering; the title’s precise derivation is uncertain.
 
-v14: אֵל שַׁדַּי (ʾEl Šadday)
-“God Almighty.” Traditional rendering of the divine title; the precise etymology of Shaddai is uncertain.
+v14, 30: רַחֲמִים (raḥamim)
+Compassion or tender concern.
 
-v18: עֶבֶד (ʿeḇeḏ)
-“Slave” or “servant.” A dependent person under another's authority.
+v23: שָׁלוֹם (shalom)
+Peace or well-being; here a reassurance against fear.
 
-v23: שָׁלוֹם (šālôm)
-“Peace.” Well-being, safety, and freedom from fear.
-
-v26: שָׁחָה (šāḥâ)
-“To bow down.” An act of submission, respect, or homage.
-
-v29: חָנַן (ḥānan)
-“To be gracious.” To show favor, kindness, or mercy.
-
-v30: רַחֲמִים (raḥămîm)
-“Compassion.” Deep emotional concern and tender affection.
-
-v32: תּוֹעֵבָה (tôʿēḇâ)
-“Abomination.” Something regarded as detestable or unacceptable.
-
-v33: בְּכֹרָה (bĕḵōrâ)
-“Birthright.” The status and privileges associated with being firstborn.
-
-v34: מַשְׂאֵת (maśśēʾṯ)
-“Portion.” A serving or allotment given at a meal.
-
-v34: שָׁתָה (šāṯâ)
-“To drink.” Here associated with feasting and celebration.
+v34: שָׁכַר (shakhar)
+To become drunk or intoxicated.

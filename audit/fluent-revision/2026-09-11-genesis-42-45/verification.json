@@ -1,0 +1,217 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T10:41:02.590571+00:00",
+  "base_commit": "0e79100131d031eae2486981c986e2402f00eb0b",
+  "scope": "Genesis 42–45; 134 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 50,
+    "verses": 1495
+  },
+  "source_record_count": 1533,
+  "genesis_source_references_unique_through_45": 1387,
+  "focused_assertions": {
+    "42:3": [
+      "ten"
+    ],
+    "42:13": [
+      "twelve",
+      "no longer with us"
+    ],
+    "42:17": [
+      "three days"
+    ],
+    "42:21": [
+      "anguish",
+      "pleaded",
+      "would not listen"
+    ],
+    "42:24": [
+      "Simeon",
+      "bound him",
+      "wept"
+    ],
+    "42:37": [
+      "two sons to death"
+    ],
+    "42:38": [
+      "Sheol",
+      "gray head"
+    ],
+    "43:11": [
+      "balm",
+      "honey",
+      "gum",
+      "resin",
+      "pistachios",
+      "almonds"
+    ],
+    "43:12": [
+      "twice",
+      "return"
+    ],
+    "43:14": [
+      "compassion",
+      "bereaved"
+    ],
+    "43:23": [
+      "Peace",
+      "Simeon"
+    ],
+    "43:30": [
+      "compassion",
+      "wept"
+    ],
+    "43:32": [
+      "separately",
+      "abomination"
+    ],
+    "43:34": [
+      "five times",
+      "became drunk"
+    ],
+    "44:2": [
+      "Put my cup",
+      "youngest"
+    ],
+    "44:5": [
+      "divination"
+    ],
+    "44:9": [
+      "die",
+      "slaves"
+    ],
+    "44:10": [
+      "my slave",
+      "free of blame"
+    ],
+    "44:15": [
+      "divination"
+    ],
+    "44:20": [
+      "full brother is dead"
+    ],
+    "44:22": [
+      "his father will die"
+    ],
+    "44:30": [
+      "father’s life is bound"
+    ],
+    "44:33": [
+      "my lord’s slave",
+      "in the young man’s place"
+    ],
+    "45:4": [
+      "whom you sold"
+    ],
+    "45:5": [
+      "God sent me",
+      "preserve life"
+    ],
+    "45:6": [
+      "two years",
+      "five more",
+      "plowing",
+      "harvest"
+    ],
+    "45:7": [
+      "remnant",
+      "deliverance"
+    ],
+    "45:8": [
+      "father to Pharaoh"
+    ],
+    "45:10": [
+      "Goshen",
+      "grandchildren",
+      "flocks",
+      "herds"
+    ],
+    "45:22": [
+      "three hundred",
+      "five changes"
+    ],
+    "45:23": [
+      "ten male donkeys",
+      "ten female donkeys",
+      "grain, bread"
+    ],
+    "45:28": [
+      "Israel",
+      "before I die"
+    ]
+  },
+  "written_read_record_43_28_hashed_in_full": true,
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_later_Genesis_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read every Hebrew verse before drafting, then read TSW comparators and reread the assembled English. Local corrections clarified kinship, preserved completed footwashing, and avoided equating Joseph’s rank with Pharaoh’s. This is not independent editorial review.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
