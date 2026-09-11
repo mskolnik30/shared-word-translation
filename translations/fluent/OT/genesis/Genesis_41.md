@@ -4,176 +4,183 @@ testament: OT
 chapter: 41
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-37-41-biblical-fluency-2026-09-11
 ---
 
 ## Pharaoh’s Dreams
+
 <p>
-v01: After two full years, Pharaoh dreamed that he was standing by the Nile.
-v02: And look, seven cows, attractive and fat, came up out of the Nile and grazed among the reeds.
-v03: And look, seven other cows came up after them out of the Nile, ugly and thin, and stood beside the other cows on the bank of the Nile.
-v04: And the ugly and thin cows ate up the seven attractive and fat cows. Then Pharaoh awoke.
+v01: Two full years passed. Then Pharaoh dreamed that he was standing beside the Nile.
+v02: Suddenly seven healthy, well-fed cows came up from the Nile and grazed among the reeds.
+v03: Then seven other cows came up from the Nile behind them. They were ugly and gaunt, and they stood beside the first cows on the riverbank.
+v04: The ugly, gaunt cows ate the seven healthy, well-fed cows. Then Pharaoh woke up.
 </p>
 
 <p>
-v05: And he fell asleep and dreamed a second time. And look, seven ears of grain, plump and good, were growing on one stalk.
-v06: And look, seven ears, thin and scorched by the east wind, sprang up after them.
-v07: And the thin ears swallowed up the seven plump and full ears. Then Pharaoh awoke, and look, it was a dream.
+v05: He fell asleep and dreamed a second time. Seven full, healthy heads of grain were growing on one stalk.
+v06: Then seven thin heads of grain, scorched by the east wind, sprouted behind them.
+v07: The thin heads swallowed the seven full, healthy heads. Pharaoh woke up and realized it was a dream.
 </p>
 
 <p>
-v08: In the morning his spirit was troubled, and he sent and called for all the magicians of Egypt and all its wise men. Pharaoh told them his dreams, but there was no one who could interpret them to Pharaoh.
+v08: In the morning Pharaoh’s spirit was disturbed. He summoned all Egypt’s magicians and wise men and told them his dreams, but no one could interpret them for him.
 </p>
 
-## Joseph Summoned from Prison
+## The Cupbearer Remembers Joseph
+
 <p>
-v09: Then the chief cupbearer spoke to Pharaoh, saying, “I remember my offenses today.
-v10: Pharaoh was angry with his servants and put me in custody in the house of the captain of the guard, both me and the chief baker.
-v11: We dreamed a dream on the same night, he and I, each dream with its own meaning.
-v12: A young Hebrew was there with us, a servant of the captain of the guard. We told him, and he interpreted our dreams to us, giving each man an interpretation according to his dream.
-v13: And just as he interpreted to us, so it happened. I was restored to my office, and the baker was hanged.”
+v09: Then the chief cupbearer said to Pharaoh, “Today I am reminded of my offenses.
+v10: Pharaoh was angry with his servants and placed the chief baker and me in custody in the house of the captain of the guard.
+v11: He and I each had a dream on the same night, and each dream had its own meaning.
+v12: A young Hebrew man was there with us, a slave belonging to the captain of the guard. We told him our dreams, and he interpreted each one according to its meaning.
+v13: Everything happened exactly as he interpreted: Pharaoh restored me to my position and hanged the baker.”
+</p>
+
+## Joseph Before Pharaoh
+
+<p>
+v14: Pharaoh sent for Joseph, and they hurried him out of the pit. Joseph shaved, changed his clothes, and came before Pharaoh.
+v15: Pharaoh said to Joseph, “I had a dream, but no one can interpret it. I have heard that when you hear a dream, you can interpret it.”
+v16: Joseph answered Pharaoh, “The answer is not in me. God will give Pharaoh an answer of peace.”
+</p>
+
+## Pharaoh Retells His Dreams
+
+<p>
+v17: Pharaoh said to Joseph, “In my dream I was standing on the bank of the Nile.
+v18: Suddenly seven well-fed, fine-looking cows came up from the Nile and grazed among the reeds.
+v19: Then seven other cows came up behind them—weak, terribly ugly, and gaunt. I had never seen such ugly cows anywhere in Egypt.
+v20: The gaunt, ugly cows ate the first seven well-fed cows.
+v21: But even after swallowing them, no one could tell they had done so. They looked as ugly as before. Then I woke up.
 </p>
 
 <p>
-v14: Then Pharaoh sent and called Joseph, and they quickly brought him out of the pit. And when he had shaved himself and changed his garments, he came before Pharaoh.
-v15: Pharaoh said to Joseph, “I have dreamed a dream, and there is no one who can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.”
-v16: Joseph answered Pharaoh, “It is not in me. God will give Pharaoh a favorable answer.”
+v22: In my next dream I saw seven full, healthy heads of grain growing on one stalk.
+v23: Then seven withered, thin heads, scorched by the east wind, sprouted behind them.
+v24: The thin heads swallowed the seven healthy heads. I told the magicians, but none of them could explain it to me.”
 </p>
 
 ## Joseph Interprets the Dreams
-<p>
-v17: Then Pharaoh said to Joseph, “In my dream, look, I was standing on the bank of the Nile.
-v18: And look, seven cows, fat and attractive, came up out of the Nile and grazed among the reeds.
-v19: And look, seven other cows came up after them, poor and very ugly and thin, such as I had never seen in all the land of Egypt for ugliness.
-v20: And the thin and ugly cows ate up the first seven fat cows,
-v21: but when they had eaten them, no one would have known that they had eaten them, for they were still as ugly as before. Then I awoke.
-</p>
 
 <p>
-v22: I also saw in my dream seven ears growing on one stalk, full and good.
-v23: And look, seven ears, withered, thin, and scorched by the east wind, sprang up after them.
-v24: And the thin ears swallowed up the seven good ears. And I told it to the magicians, but there was no one who could explain it to me.”
-</p>
-
-<p>
-v25: Then Joseph said to Pharaoh, “The dreams of Pharaoh are one. God has revealed to Pharaoh what he is about to do.
-v26: The seven good cows are seven years, and the seven good ears are seven years. The dreams are one.
-v27: The seven thin and ugly cows that came up after them are seven years, and the seven empty ears scorched by the east wind are seven years of famine.
-v28: It is as I told Pharaoh. God has shown Pharaoh what he is about to do.
-v29: Look, seven years of great abundance are coming throughout all the land of Egypt.
-v30: But after them seven years of famine will arise, and all the abundance will be forgotten in the land of Egypt. The famine will consume the land.
-v31: The abundance will not be known in the land because of the famine that follows, for it will be very severe.
-v32: And the doubling of Pharaoh’s dream means that the matter is established by God, and God will soon bring it about.
+v25: Joseph said to Pharaoh, “Pharaoh’s two dreams are one. God has told Pharaoh what he is about to do.
+v26: The seven healthy cows are seven years, and the seven healthy heads of grain are seven years. It is one dream.
+v27: The seven gaunt, ugly cows that came up behind them are seven years, and the seven empty heads scorched by the east wind will be seven years of famine.
+v28: It is just as I told Pharaoh: God has shown Pharaoh what he is about to do.
+v29: Seven years of great abundance are about to come throughout Egypt.
+v30: After them, seven years of famine will arise. All Egypt’s abundance will be forgotten, and the famine will consume the land.
+v31: No trace of the former abundance will remain in the land because the famine that follows will be so severe.
+v32: The dream was repeated to Pharaoh because God has firmly established the matter, and God will soon bring it about.
 </p>
 
 ## Joseph’s Counsel
-<p>
-v33: Now therefore let Pharaoh select a discerning and wise man and set him over the land of Egypt.
-v34: Let Pharaoh proceed to appoint overseers over the land and take one-fifth of the produce of the land of Egypt during the seven years of abundance.
-v35: Let them gather all the food of these coming good years and store up grain under Pharaoh’s authority for food in the cities, and let them keep it.
-v36: That food will be a reserve for the land against the seven years of famine that will occur in the land of Egypt, so that the land may not perish through the famine.”
-</p>
-
-## Joseph Exalted by Pharaoh
-<p>
-v37: The proposal seemed good to Pharaoh and to all his servants.
-v38: Pharaoh said to his servants, “Can we find a man like this, in whom is the Spirit of God?”
-v39: Then Pharaoh said to Joseph, “Since God has made all this known to you, there is none so discerning and wise as you.
-v40: You will be over my house, and all my people will order themselves according to your command. Only with respect to the throne will I be greater than you.”
-v41: Pharaoh said to Joseph, “See, I have set you over all the land of Egypt.”
-</p>
 
 <p>
-v42: Then Pharaoh took his signet ring from his hand and put it on Joseph’s hand and clothed him in garments of fine linen and put a gold chain around his neck.
-v43: And he had him ride in his second chariot. And they cried out before him, “Bow the knee!” Thus he set him over all the land of Egypt.
-v44: Moreover Pharaoh said to Joseph, “I am Pharaoh, and without your permission no one will lift hand or foot in all the land of Egypt.”
-v45: Pharaoh called Joseph’s name Zaphenath-paneah. And he gave him Asenath, the daughter of Potiphera priest of On, as a wife. So Joseph went out over the land of Egypt.
+v33: So now Pharaoh should look for a discerning and wise man and put him in charge of Egypt.
+v34: Pharaoh should appoint overseers throughout the land and collect one-fifth of Egypt’s produce during the seven years of abundance.
+v35: They should gather food during the good years ahead and store grain under Pharaoh’s authority as food in the cities, keeping it secure.
+v36: The food will be a reserve for Egypt during the seven years of famine, so the land will not be destroyed by the famine.”
+</p>
+
+## Joseph Exalted
+
+<p>
+v37: The proposal seemed good to Pharaoh and all his servants.
+v38: Pharaoh said to his servants, “Could we find anyone like this man, in whom is the spirit of God?”
+v39: Then Pharaoh said to Joseph, “Since God has revealed all this to you, no one is as discerning and wise as you.
+v40: You will be over my household, and all my people will obey your command. Only with regard to the throne will I be greater than you.”
+v41: Pharaoh said to Joseph, “See, I have placed you over all the land of Egypt.”
 </p>
 
 <p>
-v46: Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph went out from Pharaoh’s presence and traveled through all the land of Egypt.
-v47: During the seven years of abundance the earth produced plentifully.
-v48: And he gathered all the food of those seven years that occurred in the land of Egypt and stored up food in the cities. In each city he stored up food from the fields surrounding it.
-v49: Joseph stored up grain like the sand of the sea, exceedingly much, until he ceased measuring it, for it could not be measured.
+v42: Pharaoh removed his signet ring from his hand and put it on Joseph’s hand. He dressed Joseph in fine linen and placed a gold chain around his neck.
+v43: He had Joseph ride in his second chariot while people called out before him, “Make way!” In this way Pharaoh placed him over all Egypt.
+v44: Pharaoh said to Joseph, “I am Pharaoh, but without your authorization no one will lift a hand or foot anywhere in Egypt.”
+v45: Pharaoh gave Joseph the name Zaphenath-paneah and gave him Asenath, daughter of Potiphera the priest of On, as his wife. Then Joseph went out through the land of Egypt.
 </p>
 
-## The Birth of Manasseh and Ephraim
+## Seven Years of Abundance
+
 <p>
-v50: Before the years of famine came, two sons were born to Joseph, whom Asenath the daughter of Potiphera priest of On bore to him.
-v51: Joseph called the name of the firstborn Manasseh, “For God has made me forget all my hardship and all my father’s house.”
-v52: And the name of the second he called Ephraim, “For God has made me fruitful in the land of my affliction.”
+v46: Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. He left Pharaoh’s presence and traveled throughout Egypt.
+v47: During the seven years of abundance, the land produced crops by the handfuls.
+v48: Joseph gathered all the food produced in Egypt during those seven years and stored it in the cities. In each city he stored the food grown in its surrounding fields.
+v49: Joseph stored up grain in enormous quantities, like the sand of the sea, until he stopped measuring it because it was beyond measure.
+</p>
+
+## Manasseh and Ephraim
+
+<p>
+v50: Before the famine years began, two sons were born to Joseph by Asenath, daughter of Potiphera the priest of On.
+v51: Joseph named the firstborn Manasseh, saying, “God has made me forget all my hardship and my whole father’s household.”
+v52: He named the second son Ephraim, saying, “God has made me fruitful in the land of my suffering.”
 </p>
 
 ## The Famine Begins
+
 <p>
-v53: Then the seven years of abundance that had occurred in the land of Egypt came to an end,
-v54: and the seven years of famine began to come, just as Joseph had said. There was famine in all lands, but in all the land of Egypt there was bread.
-v55: When all the land of Egypt was famished, the people cried to Pharaoh for bread. Pharaoh said to all the Egyptians, “Go to Joseph. What he says to you, do.”
-v56: So when the famine had spread over all the face of the earth, Joseph opened all the storehouses and sold grain to the Egyptians, for the famine was severe in the land of Egypt.
-v57: And all the earth came to Egypt to Joseph to buy grain, because the famine was severe over all the earth.
+v53: The seven years of abundance in Egypt came to an end,
+v54: and the seven years of famine began, just as Joseph had said. Famine struck every land, but throughout Egypt there was food.
+v55: When all Egypt began to feel the famine, the people cried to Pharaoh for food. Pharaoh told all the Egyptians, “Go to Joseph and do whatever he tells you.”
+v56: The famine covered the whole face of the land. Joseph opened all the storehouses and sold grain to the Egyptians as the famine grew severe in Egypt.
+v57: People from every land came to Egypt to buy grain from Joseph because the famine was severe throughout the world.
 </p>
 
 ## Notes
 
-v01–08: Pharaoh's dreams create a crisis that none of Egypt's experts can solve.
+v1: Two full years pass after the cupbearer forgets Joseph.
 
-v08: Human wisdom reaches its limit, preparing the way for God's revelation through Joseph.
+v8: “Magicians” refers to members of Egypt’s learned and ritual elite, not merely stage performers.
 
-v14: Joseph's sudden transition from prison to Pharaoh's court marks a dramatic reversal of circumstances.
+v9: The cupbearer’s plural “offenses” can recall both the offense that led to his imprisonment and his failure to remember Joseph.
 
-v16: Joseph refuses personal credit and attributes interpretation entirely to God.
+v14: Joseph is brought from “the pit,” the same word used for his earlier cistern and his prison. The Hebrew does not specify whether he shaved his beard, his head, or both.
 
-v25–32: The repeated dream confirms both the certainty and urgency of God's revelation.
+v16: The Hebrew says that God will answer Pharaoh with shalom—peace, well-being, or wholeness. The answer includes both abundance and severe famine, so “answer of peace” preserves the striking expression.
 
-v29–31: The coming famine will be so severe that the years of abundance will seem forgotten.
+v32: The twofold dream conveys one message: God has established the matter and will act soon.
 
-v33–36: Joseph not only interprets the dream but provides a practical plan for responding to it.
+v34: The rare verb can mean organize the land or take a fifth from it. Joseph’s storehouse plan and the explicit fraction support the collection sense here.
 
-v38–40: Pharaoh recognizes divine wisdom in Joseph and elevates him to extraordinary authority.
+v38: Pharaoh’s words can be translated “the spirit of God” or, in his Egyptian setting, “a spirit of the gods.” The Hebrew wording does not settle how fully Pharaoh understands Joseph’s God.
 
-v42–45: Joseph receives symbols of royal authority, public honor, and integration into Egyptian society.
+v40: The expression literally refers to the people responding to Joseph’s mouth. Its precise force is uncertain; it conveys obedience to his command.
 
-v46: Joseph is thirty years old when his public ministry of administration begins.
+v43: The shouted word, abrekh, is uncertain. Proposals include “Bow the knee,” “Attention,” and an Egyptian command to make way. The translation uses the public function of the cry.
 
-v51–52: The names of Joseph's sons reflect both healing from past suffering and fruitfulness amid affliction.
+v45: The meaning of the Egyptian name Zaphenath-paneah is uncertain. On is the city later known in Greek as Heliopolis.
 
-v53–57: The fulfillment of the dreams confirms the reliability of God's revelation.
+v47: “By the handfuls” preserves an unusual Hebrew expression for the land’s abundant yield.
 
-v57: The famine prepares the way for Joseph's family to come to Egypt, advancing the larger narrative of Genesis.
+v51–52: Manasseh is associated with making forget; Ephraim with being fruitful. Joseph names both relief from hardship and continuing life in a land of suffering.
+
+v56–57: Joseph sells the stored grain. “All the land” and “every land” are sweeping expressions for the famine’s reach.
 
 ## Vocabulary
 
-v01: יְאֹר (yĕʾōr)
-“Nile.” The great river of Egypt and source of its agricultural life.
+v1: יְאֹר (yeʾor)
+The Nile, Egypt’s defining river.
 
-v08: חַרְטֹם (ḥarṭōm)
-“Magician” or “court scholar.” A member of Egypt's learned class.
+v8: חַרְטֻם (ḥartum)
+An Egyptian ritual expert or learned court official.
 
-v08: רוּחַ (rûaḥ)
-“Spirit.” Here referring to Pharaoh's troubled inner condition.
+v16: שָׁלוֹם (shalom)
+Peace, well-being, wholeness, or welfare.
 
-v15: פָּתַר (pāṯar)
-“To interpret.” To explain the meaning of a dream.
+v30: רָעָב (raʿav)
+Famine or severe hunger.
 
-v25: גָּלָה (gālāh)
-“To reveal.” To make known what was previously hidden.
+v34: חִמֵּשׁ (ḥimmesh)
+To take a fifth or organize by fives; the context points to a one-fifth collection.
 
-v30: רָעָב (rāʿāḇ)
-“Famine.” Severe shortage of food affecting a region or nation.
+v42: טַבַּעַת (tabbaʿat)
+A signet ring used to authorize official acts.
 
-v34: חֹמֶשׁ (ḥōmeš)
-“One-fifth.” Twenty percent, the portion Joseph recommends storing.
+v51: מְנַשֶּׁה (Menasheh)
+Manasseh; associated with making forget.
 
-v38: רוּחַ אֱלֹהִים (rûaḥ ʾĕlōhîm)
-“Spirit of God.” Divine wisdom and empowerment recognized by Pharaoh.
-
-v42: טַבַּעַת (ṭabbaʿaṯ)
-“Signet ring.” A symbol of delegated authority and official power.
-
-v51: מְנַשֶּׁה (Mĕnaššeh)
-“Manasseh.” Related to “causing to forget.”
-
-v52: אֶפְרַיִם (ʾEphrayim)
-“Ephraim.” Related to fruitfulness and multiplication.
-
-v57: שֶׁבֶר (šeḇer)
-“Grain” or “food supply.” Often used in contexts of purchasing provisions during famine.
+v52: אֶפְרַיִם (Efrayim)
+Ephraim; associated with fruitfulness.

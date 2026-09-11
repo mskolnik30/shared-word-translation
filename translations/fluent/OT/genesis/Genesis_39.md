@@ -4,119 +4,96 @@ testament: OT
 chapter: 39
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-37-41-biblical-fluency-2026-09-11
 ---
 
-## Joseph in Potiphar’s House
-<p>
-v01: Now Joseph had been brought down to Egypt, and Potiphar, an officer of Pharaoh, the captain of the guard, an Egyptian, bought him from the Ishmaelites who had brought him down there.
-v02: And the LORD was with Joseph, and he became a successful man. And he was in the house of his Egyptian master.
-v03: His master saw that the LORD was with him and that the LORD caused all that he did to prosper in his hand.
-v04: So Joseph found favor in his sight and served him. And he made him overseer of his house and put all that he had under his authority.
-v05: From the time that he made him overseer in his house and over all that he had, the LORD blessed the Egyptian’s house because of Joseph. The blessing of the LORD was upon all that he had, in house and field.
-v06: So he left all that he had in Joseph’s care, and because of him he concerned himself with nothing except the food that he ate.
-Now Joseph was handsome in form and handsome in appearance.
-</p>
-
-## Joseph and Potiphar’s Wife
-<p>
-v07: After these things, his master’s wife cast her eyes upon Joseph and said, “Lie with me.”
-v08: But he refused and said to his master’s wife, “See, because of me my master concerns himself with nothing in the house, and he has placed all that he has under my authority.
-v09: He is not greater in this house than I am, nor has he withheld anything from me except you, because you are his wife. How then could I do this great evil and sin against God?”
-</p>
+## Joseph Enslaved in Potiphar’s House
 
 <p>
-v10: And though she spoke to Joseph day after day, he did not listen to her, to lie beside her or to be with her.
-v11: But one such day he went into the house to do his work, and none of the men of the house was there in the house.
-v12: Then she seized him by his garment, saying, “Lie with me!” But he left his garment in her hand and fled and went outside.
+v01: Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh’s officials and captain of the guard, bought him from the Ishmaelites who had taken him there.
+v02: The LORD was with Joseph, and Joseph prospered while living in the house of his Egyptian master.
+v03: His master saw that the LORD was with Joseph and that the LORD made everything he did succeed in his hands.
+v04: Joseph found favor with Potiphar and attended him. Potiphar put Joseph in charge of his household and entrusted everything he owned to his care.
+v05: From the time Potiphar put Joseph in charge of his household and all he owned, the LORD blessed the Egyptian’s household because of Joseph. The LORD’s blessing rested on everything he had, both in the house and in the field.
+v06: Potiphar left everything he owned in Joseph’s care. With Joseph there, he paid attention to nothing except the food he ate. Joseph was well-built and handsome.
+</p>
+
+## Joseph and His Master’s Wife
+
+<p>
+v07: After some time, his master’s wife fixed her eyes on Joseph and said, “Sleep with me.”
+v08: But Joseph refused. He told his master’s wife, “Look, with me here, my master pays no attention to anything in this house. He has entrusted everything he owns to me.
+v09: No one in this household has more authority than I do. He has withheld nothing from me except you, because you are his wife. How could I do such a great evil and sin against God?”
 </p>
 
 <p>
-v13: And when she saw that he had left his garment in her hand and had fled outside,
-v14: she called to the men of her household and said to them, “See, he has brought among us a Hebrew man to mock us. He came in to me to lie with me, and I cried out with a loud voice.
-v15: And when he heard that I lifted up my voice and cried out, he left his garment beside me and fled and went outside.”
-v16: So she kept his garment beside her until his master came home.
+v10: Although she spoke to Joseph day after day, he would not listen to her—not to sleep with her and not even to be with her.
+v11: One day Joseph went into the house to do his work, and none of the household men was inside.
+v12: She grabbed him by his garment and said, “Sleep with me!” But he left the garment in her hand, ran away, and went outside.
+</p>
+
+## A False Accusation
+
+<p>
+v13: When she saw that he had left his garment in her hand and had run outside,
+v14: she called the men of her household and said, “Look! My husband brought us this Hebrew man to make sport of us. He came to me to sleep with me, but I screamed loudly.
+v15: When he heard me raise my voice and scream, he left his garment beside me and ran outside.”
+v16: She kept Joseph’s garment beside her until his master came home.
 </p>
 
 <p>
-v17: Then she spoke to him according to these words, saying, “The Hebrew servant whom you brought among us came in to me to mock me.
-v18: But as soon as I lifted up my voice and cried out, he left his garment beside me and fled outside.”
+v17: Then she gave him the same account: “That Hebrew slave you brought us came to me to make sport of me.
+v18: But when I raised my voice and screamed, he left his garment beside me and ran outside.”
+v19: When Joseph’s master heard his wife say, “This is what your slave did to me,” his anger burned.
 </p>
 
-## Joseph in Prison
+## Joseph Imprisoned
+
 <p>
-v19: When his master heard the words that his wife spoke to him, saying, “This is what your servant did to me,” his anger burned.
-v20: Joseph’s master took him and put him into the prison, the place where the king’s prisoners were confined. And he remained there in the prison.
+v20: Joseph’s master took him and put him in the prison where the king’s prisoners were confined. Joseph remained there in prison.
 </p>
 
 <p>
-v21: But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison.
-v22: And the keeper of the prison put under Joseph’s authority all the prisoners who were in the prison. Whatever was done there, he was the one who did it.
-v23: The keeper of the prison paid no attention to anything that was under Joseph’s authority, because the LORD was with him. And whatever he did, the LORD made it prosper.
+v21: But the LORD was with Joseph, showed him steadfast love, and gave him favor with the prison warden.
+v22: The warden put all the prisoners in Joseph’s care, and Joseph was responsible for everything done there.
+v23: The warden did not have to supervise anything under Joseph’s care, because the LORD was with Joseph, and the LORD made everything he did succeed.
 </p>
 
 ## Notes
 
-v01: Joseph's descent into Egypt begins a major new section of Genesis and prepares for Israel's later presence there.
+v1–6: Joseph is prosperous because the LORD is with him, yet he remains an enslaved person under an Egyptian master. His success does not erase his lack of freedom.
 
-v02: The repeated statement that “the LORD was with Joseph” forms the central theme of the chapter.
+v6: The exception involving Potiphar’s food may be literal or euphemistic. The translation does not decide the question.
 
-v03–05: Joseph's success is attributed not to circumstance but to the LORD's blessing.
+v7–12: Joseph’s master’s wife repeatedly pressures him and finally grabs his clothing. Joseph refuses and escapes; the encounter is not portrayed as mutual.
 
-v05: God's blessing extends beyond Joseph himself to the household of his Egyptian master.
-v06b: Joseph's physical appearance recalls earlier descriptions of Rachel, his mother.
+v14, 17: In her accusations she uses Joseph’s Hebrew identity and enslaved status against him and shifts blame toward her husband, who brought him into the household.
 
-v07–09: Joseph refuses temptation on both ethical and theological grounds. His concern is loyalty to his master and faithfulness to God.
+v19: The Hebrew says Potiphar’s anger burned but does not specify whether his anger was directed at Joseph, his wife, or the situation.
 
-v09: Joseph defines the act as both a betrayal of trust and a sin against God.
+v20: The prison reserved for royal prisoners remains connected to the house of the captain of the guard in the next chapter.
 
-v10: Resistance is portrayed as continual rather than momentary.
-
-v12: Joseph chooses flight rather than compromise, even at personal cost.
-
-v13–18: Potiphar's wife uses Joseph's garment as false evidence, reversing the truth of the situation.
-
-v14: Joseph is identified as a “Hebrew,” highlighting his outsider status in Egypt.
-
-v19–20: Doing what is right does not spare Joseph from suffering or false accusation.
-
-v21: The language of steadfast love signals God's covenant faithfulness even in prison.
-
-v22–23: The pattern of Potiphar's house repeats itself in prison: Joseph receives responsibility because the LORD prospers his work.
+v21: Covenant love renders hesed, loyal kindness expressed in committed relationship.
 
 ## Vocabulary
 
-v02: צָלַח (ṣālaḥ)
-“To prosper” or “succeed.” Success brought about through divine favor.
+v1: סָרִיס (saris)
+A court official; in some contexts, a eunuch.
 
-v04: חֵן (ḥēn)
-“Favor” or “grace.” Acceptance and goodwill shown by another.
+v2: צָלַח (tsalaḥ)
+To succeed or prosper.
 
-v04: פָּקִיד (pāqîḏ)
-“Overseer.” One entrusted with responsibility and authority.
+v4: חֵן (ḥen)
+Favor or acceptance.
 
-v06: יָפֶה־תֹאַר (yĕp̄eh-tōʾar)
-“Beautiful in form.” Physical attractiveness of appearance or build.
+v12: בֶּגֶד (beged)
+Garment; here seized and later used as false evidence.
 
-v07: נָשָׂא עֵינַיִם (nāśāʾ ʿênayim)
-“To lift up the eyes.” Often indicates focused attention or desire.
+v20: בֵּית הַסֹּהַר (bet hassohar)
+Prison, literally a house of confinement.
 
-v09: חָטָא (ḥāṭāʾ)
-“To sin.” To act contrary to God's will or moral order.
-
-v12: בֶּגֶד (begeḏ)
-“Garment.” Clothing that becomes key evidence in the narrative.
-
-v14: עִבְרִי (ʿiḇrî)
-“Hebrew.” An ethnic designation applied to Joseph.
-
-v20: בֵּית הַסֹּהַר (bêt hassōhar)
-“Prison” or “house of confinement.” The place where royal prisoners were held.
-
-v21: חֶסֶד (ḥeseḏ)
-“Steadfast love.” Loyal, covenantal kindness and faithfulness.
-
-v22: שַׂר בֵּית הַסֹּהַר (śar bêt hassōhar)
-“Keeper of the prison.” The official responsible for the prison.
-
-v23: יְהוָה עִמּוֹ (YHWH ʿimmô)
-“The LORD was with him.” The recurring theological refrain of the chapter.
+v21: חֶסֶד (ḥesed)
+Steadfast or covenant love; loyal kindness.

@@ -4,112 +4,98 @@ testament: OT
 chapter: 40
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-37-41-biblical-fluency-2026-09-11
 ---
 
-## Joseph Interprets Two Dreams
-<p>
-v01: After these things, the cupbearer of the king of Egypt and his baker offended their lord, the king of Egypt.
-v02: Pharaoh was angry with his two officers, the chief cupbearer and the chief baker.
-v03: So he put them in custody in the house of the captain of the guard, in the prison where Joseph was confined.
-v04: And the captain of the guard appointed Joseph to attend them, and he served them. And they remained in custody for some time.
-</p>
+## Two Royal Officials Imprisoned
 
 <p>
-v05: Then the cupbearer and the baker of the king of Egypt, who were confined in the prison, each dreamed a dream on the same night, each with its own meaning.
+v01: Some time later, the king of Egypt’s cupbearer and baker offended their master, the king of Egypt.
+v02: Pharaoh became angry with his two officials, the chief cupbearer and the chief baker,
+v03: and placed them in custody in the house of the captain of the guard, in the same prison where Joseph was confined.
+v04: The captain of the guard assigned Joseph to attend them. After they had been in custody for some time,
+</p>
+
+## Two Dreams
+
+<p>
+v05: the cupbearer and baker of the king of Egypt, who were confined in the prison, both had dreams on the same night. Each man’s dream had its own meaning.
 v06: When Joseph came to them in the morning, he saw that they were troubled.
-v07: So he asked Pharaoh’s officers who were with him in custody in his master’s house, “Why are your faces downcast today?”
-v08: They said to him, “We have dreamed dreams, and there is no one to interpret them.” Then Joseph said to them, “Do not interpretations belong to God? Please tell them to me.”
+v07: He asked Pharaoh’s officials, who were in custody with him in his master’s house, “Why do you look so distressed today?”
+v08: “We both had dreams,” they answered, “but there is no one here to interpret them.” Joseph said, “Don’t interpretations belong to God? Please tell me your dreams.”
 </p>
 
 ## The Cupbearer’s Dream
+
 <p>
-v09: So the chief cupbearer told his dream to Joseph and said to him, “In my dream, look, there was a vine before me,
-v10: and on the vine were three branches. As soon as it budded, its blossoms came out, and its clusters ripened into grapes.
-v11: Pharaoh’s cup was in my hand, and I took the grapes and pressed them into Pharaoh’s cup and placed the cup into Pharaoh’s hand.”
+v09: The chief cupbearer told Joseph his dream: “In my dream, there was a vine in front of me.
+v10: The vine had three branches. As it budded, its blossoms opened and its clusters ripened into grapes.
+v11: Pharaoh’s cup was in my hand, so I took the grapes, squeezed them into his cup, and placed the cup in Pharaoh’s hand.”
 </p>
 
 <p>
-v12: Then Joseph said to him, “This is its interpretation: the three branches are three days.
-v13: Within three days Pharaoh will lift up your head and restore you to your office, and you will place Pharaoh’s cup into his hand as formerly, when you were his cupbearer.
-v14: Only remember me when it is well with you, and please show kindness to me and mention me to Pharaoh, and bring me out of this house.
-v15: For indeed I was stolen away from the land of the Hebrews, and here also I have done nothing that they should put me into the pit.”
+v12: Joseph said, “This is what it means: the three branches are three days.
+v13: Within three days Pharaoh will lift up your head and restore you to your position. You will put Pharaoh’s cup in his hand as you used to do when you were his cupbearer.
+v14: But when things go well for you, please remember me. Show me covenant kindness by mentioning me to Pharaoh and getting me out of this place.
+v15: I was forcibly taken from the land of the Hebrews, and even here I have done nothing that deserved being put in this pit.”
 </p>
 
 ## The Baker’s Dream
+
 <p>
-v16: When the chief baker saw that the interpretation was favorable, he said to Joseph, “I also had a dream. Look, there were three baskets of white bread on my head,
-v17: and in the uppermost basket there were all kinds of baked food for Pharaoh, but the birds were eating them out of the basket on my head.”
+v16: When the chief baker saw that Joseph had given a favorable interpretation, he said, “I too had a dream. There were three baskets of bread on my head.
+v17: In the top basket were all kinds of baked food for Pharaoh, but birds were eating it from the basket on my head.”
 </p>
 
 <p>
-v18: Then Joseph answered and said, “This is its interpretation: the three baskets are three days.
-v19: Within three days Pharaoh will lift up your head from you and hang you upon a tree, and the birds will eat your flesh from you.”
+v18: Joseph answered, “This is what it means: the three baskets are three days.
+v19: Within three days Pharaoh will lift up your head from you, hang you on a tree, and birds will eat the flesh from your body.”
 </p>
 
 ## Pharaoh’s Birthday
+
 <p>
-v20: On the third day, which was Pharaoh’s birthday, he made a feast for all his servants. And he lifted up the head of the chief cupbearer and the head of the chief baker among his servants.
-v21: He restored the chief cupbearer to his position, and he placed the cup into Pharaoh’s hand.
-v22: But he hanged the chief baker, just as Joseph had interpreted to them.
-v23: Yet the chief cupbearer did not remember Joseph, but forgot him.
+v20: On the third day, Pharaoh’s birthday, he held a feast for all his servants. In their presence he lifted up the heads of both the chief cupbearer and the chief baker:
+v21: he restored the chief cupbearer to his position, and the cupbearer once again placed the cup in Pharaoh’s hand,
+v22: but he hanged the chief baker, just as Joseph had interpreted for them.
+v23: Yet the chief cupbearer did not remember Joseph. He forgot him.
 </p>
 
 ## Notes
 
-v01–04: Joseph's prison responsibilities continue to increase despite his unjust circumstances.
+v5: The narrative signals in advance that each dream carries its own interpretation.
 
-v05: The paired dreams prepare for Joseph's future role as interpreter of Pharaoh's dreams.
+v8: Joseph claims no independent power to interpret. He says interpretations belong to God, then invites the officials to speak.
 
-v08: Joseph immediately attributes the ability to interpret dreams to God rather than to himself.
+v13, 19–20: “Lift up your head” is deliberately used for both officials: restoration for the cupbearer and removal and execution for the baker.
 
-v12–13: The restoration of the cupbearer demonstrates that God reveals accurate knowledge of future events.
+v15: Joseph calls both his abduction and imprisonment unjust. “Pit” links the prison to the cistern into which his brothers threw him.
 
-v14–15: Joseph openly declares his innocence and asks for remembrance, showing both faith and human longing for deliverance.
+v16: The Hebrew description of the baskets is uncertain. The context indicates that the top basket contains baked food.
 
-v16–19: Joseph delivers the unfavorable interpretation as faithfully as the favorable one.
+v19: The baker is killed and his body is hung or exposed on a tree; the birds consuming his flesh is part of the announced judgment.
 
-v20–22: The fulfillment of both interpretations confirms Joseph's credibility as an interpreter of dreams.
-
-v20: “Lift up your head” becomes a striking phrase because it carries opposite outcomes for the two officials.
-
-v23: The chapter ends with disappointment. Joseph remains forgotten by the very person who could have helped him.
-
-v23: Human forgetfulness delays Joseph's release, but the larger narrative continues to move according to God's timing.
+v23: The cupbearer’s failure is stated twice: he did not remember Joseph; he forgot him.
 
 ## Vocabulary
 
-v01: מַשְׁקֶה (mašqeh)
-“Cupbearer.” An official responsible for serving the king's drink.
+v1: מַשְׁקֶה (mashqeh)
+Cupbearer, the official who serves a ruler’s drink.
 
-v02: סָרִיס (sārîs)
-“Officer” or “court official.” A high-ranking servant in a royal household.
+v8: פִּתְרוֹן (pitron)
+Interpretation, especially of a dream.
 
-v05: חֲלוֹם (ḥălôm)
-“Dream.” A significant means of divine revelation in Genesis.
+v13: נָשָׂא אֶת־רֹאשׁ (nasa et-rosh)
+To lift up the head; here a phrase with contrasting outcomes.
 
-v08: פִּתְרוֹן (piṯrôn)
-“Interpretation.” The explanation or meaning of a dream.
+v14: חֶסֶד (ḥesed)
+Loyal or covenant kindness.
 
-v08: אֱלֹהִים (ʾĕlōhîm)
-“God.” Joseph insists that true interpretation belongs to God alone.
+v15: בּוֹר (bor)
+Pit, cistern, dungeon, or prison.
 
-v13: נָשָׂא אֶת־רֹאשׁ (nāśāʾ ʾeṯ-rōʾš)
-“To lift up the head.” An expression that can indicate restoration, reckoning, or judgment.
-
-v14: חֶסֶד (ḥeseḏ)
-“Kindness” or “steadfast loyalty.” Faithful and merciful action toward another.
-
-v15: בּוֹר (bôr)
-“Pit” or “dungeon.” A term used for a cistern, prison, or place of confinement.
-
-v19: תָּלָה (tālāh)
-“To hang.” To suspend a body publicly as a form of judgment.
-
-v20: מִשְׁתֶּה (mišteh)
-“Feast” or “banquet.” A celebratory meal held for an occasion.
-
-v21: שׁוּב (šûḇ)
-“To restore” or “return.” To bring someone back to a former position.
-
-v23: שָׁכַח (šāḵaḥ)
-“To forget.” The failure to remember or act upon an obligation.
+v23: שָׁכַח (shakhaḥ)
+To forget.
