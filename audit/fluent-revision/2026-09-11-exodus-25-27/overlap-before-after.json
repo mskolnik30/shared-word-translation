@@ -1,0 +1,1000 @@
+{
+  "scope": "Exodus 25–27 only; 98 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical means nonidentical similarity >= 0.90. Triage only, not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 11,
+      "near_identical_verses": 79,
+      "mean_similarity": 0.942112,
+      "verses": [
+        {
+          "reference": "Exodus 25:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 25:2",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Exodus 25:3",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 25:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 25:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 25:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 25:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 25:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 25:9",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Exodus 25:10",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Exodus 25:11",
+          "identical": false,
+          "similarity": 0.869565
+        },
+        {
+          "reference": "Exodus 25:12",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Exodus 25:13",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Exodus 25:14",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 25:15",
+          "identical": false,
+          "similarity": 0.882353
+        },
+        {
+          "reference": "Exodus 25:16",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 25:17",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Exodus 25:18",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Exodus 25:19",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Exodus 25:20",
+          "identical": false,
+          "similarity": 0.90625
+        },
+        {
+          "reference": "Exodus 25:21",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Exodus 25:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 25:23",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Exodus 25:24",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Exodus 25:25",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Exodus 25:26",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 25:27",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Exodus 25:28",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Exodus 25:29",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 25:30",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Exodus 25:31",
+          "identical": false,
+          "similarity": 0.90625
+        },
+        {
+          "reference": "Exodus 25:32",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Exodus 25:33",
+          "identical": false,
+          "similarity": 0.975
+        },
+        {
+          "reference": "Exodus 25:34",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Exodus 25:35",
+          "identical": false,
+          "similarity": 0.977778
+        },
+        {
+          "reference": "Exodus 25:36",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 25:37",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 25:38",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Exodus 25:39",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Exodus 25:40",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 26:1",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 26:2",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 26:3",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Exodus 26:4",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Exodus 26:5",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Exodus 26:6",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 26:7",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Exodus 26:8",
+          "identical": false,
+          "similarity": 0.92
+        },
+        {
+          "reference": "Exodus 26:9",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Exodus 26:10",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Exodus 26:11",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 26:12",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 26:13",
+          "identical": false,
+          "similarity": 0.973684
+        },
+        {
+          "reference": "Exodus 26:14",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Exodus 26:15",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 26:16",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 26:17",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Exodus 26:18",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Exodus 26:19",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Exodus 26:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 26:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 26:22",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Exodus 26:23",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Exodus 26:24",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 26:25",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 26:26",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Exodus 26:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 26:28",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 26:29",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 26:30",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Exodus 26:31",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Exodus 26:32",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 26:33",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Exodus 26:34",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Exodus 26:35",
+          "identical": false,
+          "similarity": 0.935484
+        },
+        {
+          "reference": "Exodus 26:36",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Exodus 26:37",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 27:1",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Exodus 27:2",
+          "identical": false,
+          "similarity": 0.884615
+        },
+        {
+          "reference": "Exodus 27:3",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 27:4",
+          "identical": false,
+          "similarity": 0.92
+        },
+        {
+          "reference": "Exodus 27:5",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 27:6",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Exodus 27:7",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Exodus 27:8",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Exodus 27:9",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 27:10",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Exodus 27:11",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Exodus 27:12",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 27:13",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 27:14",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Exodus 27:15",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Exodus 27:16",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Exodus 27:17",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 27:18",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Exodus 27:19",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Exodus 27:20",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Exodus 27:21",
+          "identical": false,
+          "similarity": 0.95122
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 8,
+      "mean_similarity": 0.663451,
+      "verses": [
+        {
+          "reference": "Exodus 25:1",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 25:2",
+          "identical": false,
+          "similarity": 0.363636
+        },
+        {
+          "reference": "Exodus 25:3",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Exodus 25:4",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 25:5",
+          "identical": false,
+          "similarity": 0.555556
+        },
+        {
+          "reference": "Exodus 25:6",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Exodus 25:7",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Exodus 25:8",
+          "identical": false,
+          "similarity": 0.592593
+        },
+        {
+          "reference": "Exodus 25:9",
+          "identical": false,
+          "similarity": 0.315789
+        },
+        {
+          "reference": "Exodus 25:10",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Exodus 25:11",
+          "identical": false,
+          "similarity": 0.717949
+        },
+        {
+          "reference": "Exodus 25:12",
+          "identical": false,
+          "similarity": 0.784314
+        },
+        {
+          "reference": "Exodus 25:13",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 25:14",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 25:15",
+          "identical": false,
+          "similarity": 0.482759
+        },
+        {
+          "reference": "Exodus 25:16",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Exodus 25:17",
+          "identical": false,
+          "similarity": 0.878049
+        },
+        {
+          "reference": "Exodus 25:18",
+          "identical": false,
+          "similarity": 0.647059
+        },
+        {
+          "reference": "Exodus 25:19",
+          "identical": false,
+          "similarity": 0.807692
+        },
+        {
+          "reference": "Exodus 25:20",
+          "identical": false,
+          "similarity": 0.533333
+        },
+        {
+          "reference": "Exodus 25:21",
+          "identical": false,
+          "similarity": 0.772727
+        },
+        {
+          "reference": "Exodus 25:22",
+          "identical": false,
+          "similarity": 0.756757
+        },
+        {
+          "reference": "Exodus 25:23",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 25:24",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Exodus 25:25",
+          "identical": false,
+          "similarity": 0.787879
+        },
+        {
+          "reference": "Exodus 25:26",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Exodus 25:27",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Exodus 25:28",
+          "identical": false,
+          "similarity": 0.684211
+        },
+        {
+          "reference": "Exodus 25:29",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 25:30",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Exodus 25:31",
+          "identical": false,
+          "similarity": 0.690909
+        },
+        {
+          "reference": "Exodus 25:32",
+          "identical": false,
+          "similarity": 0.651163
+        },
+        {
+          "reference": "Exodus 25:33",
+          "identical": false,
+          "similarity": 0.560976
+        },
+        {
+          "reference": "Exodus 25:34",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Exodus 25:35",
+          "identical": false,
+          "similarity": 0.594595
+        },
+        {
+          "reference": "Exodus 25:36",
+          "identical": false,
+          "similarity": 0.590909
+        },
+        {
+          "reference": "Exodus 25:37",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 25:38",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Exodus 25:39",
+          "identical": false,
+          "similarity": 0.518519
+        },
+        {
+          "reference": "Exodus 25:40",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 26:1",
+          "identical": false,
+          "similarity": 0.62963
+        },
+        {
+          "reference": "Exodus 26:2",
+          "identical": false,
+          "similarity": 0.638298
+        },
+        {
+          "reference": "Exodus 26:3",
+          "identical": false,
+          "similarity": 0.413793
+        },
+        {
+          "reference": "Exodus 26:4",
+          "identical": false,
+          "similarity": 0.677966
+        },
+        {
+          "reference": "Exodus 26:5",
+          "identical": false,
+          "similarity": 0.784314
+        },
+        {
+          "reference": "Exodus 26:6",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Exodus 26:7",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Exodus 26:8",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Exodus 26:9",
+          "identical": false,
+          "similarity": 0.711111
+        },
+        {
+          "reference": "Exodus 26:10",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Exodus 26:11",
+          "identical": false,
+          "similarity": 0.780488
+        },
+        {
+          "reference": "Exodus 26:12",
+          "identical": false,
+          "similarity": 0.651163
+        },
+        {
+          "reference": "Exodus 26:13",
+          "identical": false,
+          "similarity": 0.584615
+        },
+        {
+          "reference": "Exodus 26:14",
+          "identical": false,
+          "similarity": 0.65
+        },
+        {
+          "reference": "Exodus 26:15",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 26:16",
+          "identical": false,
+          "similarity": 0.457143
+        },
+        {
+          "reference": "Exodus 26:17",
+          "identical": false,
+          "similarity": 0.564103
+        },
+        {
+          "reference": "Exodus 26:18",
+          "identical": false,
+          "similarity": 0.583333
+        },
+        {
+          "reference": "Exodus 26:19",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Exodus 26:20",
+          "identical": false,
+          "similarity": 0.521739
+        },
+        {
+          "reference": "Exodus 26:21",
+          "identical": false,
+          "similarity": 0.903226
+        },
+        {
+          "reference": "Exodus 26:22",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Exodus 26:23",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 26:24",
+          "identical": false,
+          "similarity": 0.305085
+        },
+        {
+          "reference": "Exodus 26:25",
+          "identical": false,
+          "similarity": 0.809524
+        },
+        {
+          "reference": "Exodus 26:26",
+          "identical": false,
+          "similarity": 0.8125
+        },
+        {
+          "reference": "Exodus 26:27",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Exodus 26:28",
+          "identical": false,
+          "similarity": 0.774194
+        },
+        {
+          "reference": "Exodus 26:29",
+          "identical": false,
+          "similarity": 0.638298
+        },
+        {
+          "reference": "Exodus 26:30",
+          "identical": false,
+          "similarity": 0.645161
+        },
+        {
+          "reference": "Exodus 26:31",
+          "identical": false,
+          "similarity": 0.653061
+        },
+        {
+          "reference": "Exodus 26:32",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Exodus 26:33",
+          "identical": false,
+          "similarity": 0.730159
+        },
+        {
+          "reference": "Exodus 26:34",
+          "identical": false,
+          "similarity": 0.83871
+        },
+        {
+          "reference": "Exodus 26:35",
+          "identical": false,
+          "similarity": 0.793103
+        },
+        {
+          "reference": "Exodus 26:36",
+          "identical": false,
+          "similarity": 0.652174
+        },
+        {
+          "reference": "Exodus 26:37",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Exodus 27:1",
+          "identical": false,
+          "similarity": 0.723404
+        },
+        {
+          "reference": "Exodus 27:2",
+          "identical": false,
+          "similarity": 0.651163
+        },
+        {
+          "reference": "Exodus 27:3",
+          "identical": false,
+          "similarity": 0.682927
+        },
+        {
+          "reference": "Exodus 27:4",
+          "identical": false,
+          "similarity": 0.511628
+        },
+        {
+          "reference": "Exodus 27:5",
+          "identical": false,
+          "similarity": 0.470588
+        },
+        {
+          "reference": "Exodus 27:6",
+          "identical": false,
+          "similarity": 0.827586
+        },
+        {
+          "reference": "Exodus 27:7",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Exodus 27:8",
+          "identical": false,
+          "similarity": 0.439024
+        },
+        {
+          "reference": "Exodus 27:9",
+          "identical": false,
+          "similarity": 0.377358
+        },
+        {
+          "reference": "Exodus 27:10",
+          "identical": false,
+          "similarity": 0.594595
+        },
+        {
+          "reference": "Exodus 27:11",
+          "identical": false,
+          "similarity": 0.654545
+        },
+        {
+          "reference": "Exodus 27:12",
+          "identical": false,
+          "similarity": 0.536585
+        },
+        {
+          "reference": "Exodus 27:13",
+          "identical": false,
+          "similarity": 0.37037
+        },
+        {
+          "reference": "Exodus 27:14",
+          "identical": false,
+          "similarity": 0.685714
+        },
+        {
+          "reference": "Exodus 27:15",
+          "identical": false,
+          "similarity": 0.580645
+        },
+        {
+          "reference": "Exodus 27:16",
+          "identical": false,
+          "similarity": 0.65625
+        },
+        {
+          "reference": "Exodus 27:17",
+          "identical": false,
+          "similarity": 0.432432
+        },
+        {
+          "reference": "Exodus 27:18",
+          "identical": false,
+          "similarity": 0.45614
+        },
+        {
+          "reference": "Exodus 27:19",
+          "identical": false,
+          "similarity": 0.577778
+        },
+        {
+          "reference": "Exodus 27:20",
+          "identical": false,
+          "similarity": 0.590909
+        },
+        {
+          "reference": "Exodus 27:21",
+          "identical": false,
+          "similarity": 0.575
+        }
+      ]
+    }
+  }
+}

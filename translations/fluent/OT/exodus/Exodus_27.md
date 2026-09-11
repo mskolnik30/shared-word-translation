@@ -4,100 +4,80 @@ testament: OT
 chapter: 27
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-25-27-biblical-fluency-2026-09-11
 ---
 
-## The Altar of Burnt Offering
+## The bronze altar
 
 <p>
-v01: “You will make the altar of acacia wood, five cubits long and five cubits wide. The altar will be square, and its height will be three cubits.
-
-v02: You will make horns for it on its four corners; its horns will be of one piece with it, and you will overlay it with bronze.
-
-v03: You will make its pots for removing ashes, its shovels, basins, forks, and firepans. You will make all its utensils of bronze.
-
-v04: You will make for it a grate, a network of bronze, and on the network you will make four bronze rings at its four corners.
-
-v05: You will put it beneath the ledge of the altar below, so that the network reaches halfway up the altar.
-
-v06: You will make poles for the altar, poles of acacia wood, and overlay them with bronze.
-
-v07: Its poles will be put through the rings, and the poles will be on the two sides of the altar when it is carried.
-
-v08: You will make it hollow, with boards. As it was shown to you on the mountain, so they will make it.
+v01: “Make the altar of acacia wood, five cubits long and five cubits wide, forming a square, and three cubits high.
+v02: Make horns at its four corners, of one piece with the altar, and overlay it with bronze.
+v03: Make pots to remove its ashes, along with shovels, basins, forks, and firepans. Make all its utensils of bronze.
+v04: Make a bronze grating in the form of a net, with four bronze rings at its four corners.
+v05: Put the grating beneath the altar’s ledge, so the net reaches the altar’s midpoint.
 </p>
 
-## The Court of the Dwelling
-
 <p>
-v09: “You will make the court of the dwelling. On the south side there will be hangings for the court of fine twisted linen, one hundred cubits long on one side.
-
-v10: Its twenty pillars and their twenty bases will be bronze; the hooks of the pillars and their bands will be silver.
-
-v11: Likewise on the north side there will be hangings one hundred cubits long, with twenty pillars and twenty bronze bases, with silver hooks and bands for the pillars.
-
-v12: For the width of the court on the west side there will be hangings fifty cubits long, with ten pillars and ten bases.
-
-v13: The width of the court on the east side will be fifty cubits.
-
-v14: The hangings for one side of the entrance will be fifteen cubits, with three pillars and three bases.
-
-v15: For the other side there will be hangings fifteen cubits, with three pillars and three bases.
-
-v16: For the gate of the court there will be a screen twenty cubits long, of blue, purple, and scarlet yarn and fine twisted linen, the work of an embroiderer, with four pillars and four bases.
-
-v17: All the pillars around the court will be banded with silver. Their hooks will be silver, and their bases bronze.
-
-v18: The length of the court will be one hundred cubits, the width fifty throughout, and the height five cubits, with hangings of fine twisted linen and bases of bronze.
-
-v19: All the utensils of the dwelling used in all its service, and all its pegs and all the pegs of the court, will be bronze.
+v06: Make poles for the altar from acacia wood and overlay them with bronze.
+v07: Insert the poles into the rings so they lie along the altar’s two sides when it is carried.
+v08: Make the altar hollow, out of boards. It is to be made just as you were shown on the mountain.
 </p>
 
-## Oil for the Light
+## The courtyard
 
 <p>
-v20: “You will command the children of Israel to bring you pure beaten olive oil for the light, to make a lamp go up continually.
+v09: Make a courtyard for the tabernacle. Along its south side, put hangings of finely twisted linen, a hundred cubits long for that side,
+v10: with twenty pillars and twenty bronze bases. The pillars’ hooks and bands are to be silver.
+v11: Likewise, along the north side put hangings a hundred cubits long, with twenty pillars and twenty bronze bases. The pillars’ hooks and bands are to be silver.
+</p>
 
-v21: In the tent of meeting, outside the veil that is before the testimony, Aaron and his sons will tend it from evening until morning before the LORD. It will be a perpetual statute throughout their generations from the children of Israel.
+<p>
+v12: Across the west end of the courtyard, put hangings fifty cubits wide, with ten pillars and ten bases.
+v13: The courtyard’s east end, facing the sunrise, is also to be fifty cubits wide.
+</p>
+
+<p>
+v14: Put fifteen cubits of hangings on one side of the entrance, with three pillars and three bases,
+v15: and fifteen cubits of hangings on the other side, with three pillars and three bases.
+v16: For the courtyard entrance, make a screen twenty cubits wide, of blue, purple, and scarlet yarn and finely twisted linen, worked in embroidery, with four pillars and four bases.
+</p>
+
+<p>
+v17: All the pillars around the courtyard are to have silver bands and silver hooks, with bronze bases.
+v18: The courtyard is to be a hundred cubits long and fifty cubits wide at both ends, with hangings of finely twisted linen five cubits high and bronze bases.
+v19: All the tabernacle’s equipment for its service, all its tent pegs, and all the courtyard’s pegs are to be bronze.
+</p>
+
+## Oil for the lamp
+
+<p>
+v20: Command the Israelites to bring you pure oil from beaten olives for the light, to keep a lamp burning regularly.
+v21: In the tent of meeting, outside the curtain in front of the testimony, Aaron and his sons are to tend it before the LORD from evening until morning. This is a lasting ordinance for the Israelites throughout their generations.”
 </p>
 
 ## Notes
 
-v01–08: The bronze altar stands outside the tent and is the primary altar for burnt offerings. Its portability is built into the design through rings and poles.
+v4–5: The grating is described as a bronze net beneath the altar’s ledge, reaching its midpoint. The wording leaves details of its exact shape and attachment uncertain.
 
-v02: Altar “horns” are projecting corners associated with the altar’s sacred and ritual identity.
+v10–11: “Bronze” is taken here to describe the bases. The compact wording can also be read as applying to the pillars; it does not separately specify their material.
 
-v08: The altar, like the dwelling and furnishings, is made according to what Moses was shown on the mountain.
+v18: The Hebrew width expression is “fifty by fifty.” Here it is understood as fifty cubits at each end, alongside the stated length of a hundred cubits.
 
-v09–18: The court creates a bounded sacred precinct around the dwelling while remaining more accessible than the tent’s interior rooms.
-
-v16: The entrance screen uses the same sacred colors seen in the dwelling, marking transition from ordinary space into the sanctuary court.
-
-v20: “beaten olive oil” refers to high-quality oil produced from crushed olives, suitable for a clear-burning sanctuary light.
-
-v21: The lamp burns through the night under priestly care. “Tent of meeting” emphasizes the sanctuary as a place of encounter between the LORD and Israel.
+v20–21: The word tamid can describe continual or regularly recurring action. “Regularly” is used here with the following duty from evening to morning; the translation does not decide an unstated daytime schedule. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+27&version=NET).
 
 ## Vocabulary
 
-v01: מִזְבֵּחַ (mizbeach)
-“Altar.” The place of sacrifice.
+v2: Horns — qarnot
+Horn-shaped projections at the altar’s corners.
 
-v02: קֶרֶן (qeren)
-“Horn.” A projecting altar corner.
+v3: Firepan — maḥtah
+A vessel for handling hot coals or related material.
 
-v04: מִכְבָּר (mikhbar)
-“Grate” or “network.” The bronze latticework of the altar.
+v20: Beaten olive oil — shemen zayit katit
+Oil obtained from olives broken or beaten before the oil is collected.
 
-v09: חָצֵר (chatser)
-“Court.” The enclosed open area surrounding the dwelling.
-
-v16: שַׁעַר (sha'ar)
-“Gate.” The entrance into the sanctuary court.
-
-v19: יָתֵד (yated)
-“Peg.” A stake securing the tent or court structure.
-
-v20: שֶׁמֶן זַיִת זָךְ (shemen zayit zakh)
-“Pure olive oil.” Refined oil for the sanctuary lamp.
-
-v21: אֹהֶל מוֹעֵד (ohel moed)
-“Tent of meeting.” The sanctuary as the place of divine-human encounter.
+v21: Tent of meeting — ohel moʿed
+The tent associated with meeting with God; compare the promise in 25:22.

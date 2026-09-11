@@ -1,0 +1,583 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T12:51:17.738708+00:00",
+  "base_commit": "0e762160f4b24f6dbb1deb2b4c1657019652d3ae",
+  "scope": "Exodus 25–27; 98 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 82,
+    "verses": 2402
+  },
+  "source_record_count": 1213,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "25:2": [
+      "heart",
+      "contribution"
+    ],
+    "25:3": [
+      "gold, silver, and bronze"
+    ],
+    "25:4": [
+      "blue, purple, and scarlet",
+      "fine linen",
+      "goat hair"
+    ],
+    "25:5": [
+      "rams’ skins dyed red",
+      "taḥash",
+      "acacia"
+    ],
+    "25:6": [
+      "light",
+      "anointing oil",
+      "incense"
+    ],
+    "25:7": [
+      "onyx",
+      "ephod",
+      "breastpiece"
+    ],
+    "25:8": [
+      "dwell among them"
+    ],
+    "25:9": [
+      "pattern"
+    ],
+    "25:10": [
+      "two and a half cubits long",
+      "a cubit and a half wide",
+      "a cubit and a half high"
+    ],
+    "25:11": [
+      "pure gold",
+      "inside and out"
+    ],
+    "25:12": [
+      "four gold rings",
+      "four feet",
+      "two rings",
+      "two on the other"
+    ],
+    "25:15": [
+      "must remain",
+      "do not remove"
+    ],
+    "25:16": [
+      "testimony"
+    ],
+    "25:17": [
+      "atonement cover",
+      "two and a half cubits long",
+      "a cubit and a half wide"
+    ],
+    "25:18": [
+      "two gold cherubim",
+      "hammering"
+    ],
+    "25:19": [
+      "one piece",
+      "two ends"
+    ],
+    "25:20": [
+      "wings upward",
+      "face one another",
+      "toward the cover"
+    ],
+    "25:21": [
+      "on top",
+      "inside"
+    ],
+    "25:22": [
+      "meet with you",
+      "above",
+      "between the two",
+      "I will speak",
+      "Israelites"
+    ],
+    "25:23": [
+      "two cubits long",
+      "one cubit wide",
+      "a cubit and a half high"
+    ],
+    "25:25": [
+      "handbreadth"
+    ],
+    "25:26": [
+      "four gold rings",
+      "four corners",
+      "four legs"
+    ],
+    "25:29": [
+      "dishes",
+      "ladles",
+      "pitchers",
+      "bowls",
+      "pure gold"
+    ],
+    "25:30": [
+      "bread of the Presence",
+      "before me always"
+    ],
+    "25:31": [
+      "base, shaft, cups, buds, and flowers",
+      "one piece"
+    ],
+    "25:32": [
+      "Six branches",
+      "three from one side",
+      "three from the other"
+    ],
+    "25:33": [
+      "three cups",
+      "all six branches"
+    ],
+    "25:34": [
+      "four cups",
+      "almond blossoms"
+    ],
+    "25:35": [
+      "first pair",
+      "next pair",
+      "last pair",
+      "six branches"
+    ],
+    "25:36": [
+      "single piece",
+      "pure gold"
+    ],
+    "25:37": [
+      "seven lamps",
+      "in front"
+    ],
+    "25:38": [
+      "tongs",
+      "firepans"
+    ],
+    "25:39": [
+      "one talent",
+      "all these utensils"
+    ],
+    "25:40": [
+      "pattern",
+      "mountain"
+    ],
+    "26:1": [
+      "ten curtains",
+      "cherubim"
+    ],
+    "26:2": [
+      "twenty-eight cubits long",
+      "four cubits wide",
+      "same dimensions"
+    ],
+    "26:3": [
+      "five curtains",
+      "other five"
+    ],
+    "26:5": [
+      "fifty loops",
+      "face one another"
+    ],
+    "26:6": [
+      "fifty gold clasps",
+      "one whole"
+    ],
+    "26:7": [
+      "goat hair",
+      "eleven"
+    ],
+    "26:8": [
+      "thirty cubits long",
+      "four cubits wide",
+      "All eleven"
+    ],
+    "26:9": [
+      "five curtains",
+      "six into another",
+      "sixth curtain double",
+      "front"
+    ],
+    "26:10": [
+      "fifty loops"
+    ],
+    "26:11": [
+      "fifty bronze clasps",
+      "one whole"
+    ],
+    "26:12": [
+      "half-curtain",
+      "back"
+    ],
+    "26:13": [
+      "cubit on each side"
+    ],
+    "26:14": [
+      "rams’ skins dyed red",
+      "taḥash skins on top"
+    ],
+    "26:15": [
+      "upright",
+      "acacia"
+    ],
+    "26:16": [
+      "ten cubits long",
+      "a cubit and a half wide"
+    ],
+    "26:17": [
+      "two tenons"
+    ],
+    "26:18": [
+      "twenty",
+      "south"
+    ],
+    "26:19": [
+      "forty silver bases",
+      "twenty frames"
+    ],
+    "26:20": [
+      "north",
+      "twenty frames"
+    ],
+    "26:21": [
+      "forty silver bases"
+    ],
+    "26:22": [
+      "west",
+      "six frames"
+    ],
+    "26:23": [
+      "two more frames",
+      "corners"
+    ],
+    "26:24": [
+      "bottom",
+      "top",
+      "one ring",
+      "both corner frames"
+    ],
+    "26:25": [
+      "eight frames",
+      "sixteen silver bases"
+    ],
+    "26:26": [
+      "acacia wood",
+      "five"
+    ],
+    "26:27": [
+      "five",
+      "other side",
+      "rear",
+      "west"
+    ],
+    "26:28": [
+      "middle",
+      "end to end"
+    ],
+    "26:29": [
+      "frames with gold",
+      "gold rings",
+      "crossbars with gold"
+    ],
+    "26:30": [
+      "design",
+      "mountain"
+    ],
+    "26:31": [
+      "blue, purple, and scarlet",
+      "linen",
+      "cherubim"
+    ],
+    "26:32": [
+      "four acacia pillars",
+      "gold hooks",
+      "four silver bases"
+    ],
+    "26:33": [
+      "beneath the clasps",
+      "behind the curtain",
+      "Holy Place",
+      "Most Holy Place"
+    ],
+    "26:34": [
+      "atonement cover",
+      "Most Holy Place"
+    ],
+    "26:35": [
+      "table outside",
+      "lampstand opposite",
+      "south",
+      "table on the north"
+    ],
+    "26:36": [
+      "screen",
+      "entrance",
+      "embroidery"
+    ],
+    "26:37": [
+      "five acacia pillars",
+      "gold",
+      "five bronze bases"
+    ],
+    "27:1": [
+      "five cubits long",
+      "five cubits wide",
+      "square",
+      "three cubits high"
+    ],
+    "27:2": [
+      "four corners",
+      "one piece",
+      "bronze"
+    ],
+    "27:3": [
+      "pots",
+      "shovels",
+      "basins",
+      "forks",
+      "firepans",
+      "bronze"
+    ],
+    "27:4": [
+      "net",
+      "four bronze rings",
+      "four corners"
+    ],
+    "27:5": [
+      "beneath",
+      "midpoint"
+    ],
+    "27:6": [
+      "acacia",
+      "bronze"
+    ],
+    "27:7": [
+      "two sides"
+    ],
+    "27:8": [
+      "hollow",
+      "boards",
+      "mountain"
+    ],
+    "27:9": [
+      "south",
+      "hundred cubits"
+    ],
+    "27:10": [
+      "twenty pillars",
+      "twenty bronze bases",
+      "silver"
+    ],
+    "27:11": [
+      "north",
+      "hundred cubits",
+      "twenty pillars",
+      "twenty bronze bases",
+      "silver"
+    ],
+    "27:12": [
+      "west",
+      "fifty cubits",
+      "ten pillars",
+      "ten bases"
+    ],
+    "27:13": [
+      "east",
+      "sunrise",
+      "fifty cubits"
+    ],
+    "27:14": [
+      "fifteen cubits",
+      "three pillars",
+      "three bases"
+    ],
+    "27:15": [
+      "fifteen cubits",
+      "three pillars",
+      "three bases"
+    ],
+    "27:16": [
+      "twenty cubits",
+      "four pillars",
+      "four bases",
+      "embroidery"
+    ],
+    "27:17": [
+      "silver bands",
+      "silver hooks",
+      "bronze bases"
+    ],
+    "27:18": [
+      "hundred cubits long",
+      "fifty cubits wide",
+      "five cubits high"
+    ],
+    "27:19": [
+      "tent pegs",
+      "courtyard’s pegs",
+      "bronze"
+    ],
+    "27:20": [
+      "pure oil",
+      "beaten olives",
+      "regularly"
+    ],
+    "27:21": [
+      "tent of meeting",
+      "outside the curtain",
+      "Aaron and his sons",
+      "evening until morning",
+      "generations"
+    ]
+  },
+  "source_annotations_hashed_in_full": [
+    "26:6",
+    "27:11",
+    "27:15"
+  ],
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read every one of the 98 pinned Hebrew records including annotations, drafted from Hebrew, consulted supplemental NET notes, read every TSW comparator, and reread the assembled English. A table-vessel clause was clarified and an over-specific direction of altar-grating extension was removed. Focused checks preserve materials, dimensions, repeated counts, inner/outer curtain distinctions, sanctuary spatial relationships, uncertain technical words, and named lamp attendants. This is an authoring self-check, not independent scholarly review.",
+  "exodus_source_references_unique_through_27": 761,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
