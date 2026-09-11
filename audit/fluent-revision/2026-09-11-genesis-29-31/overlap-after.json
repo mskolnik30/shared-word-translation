@@ -1,0 +1,531 @@
+{
+  "schema_version": 1,
+  "base_commit": "a98130860ba7aa7e534a7e0343cab637c2c75fa1",
+  "scope": "working tree; chapter and verse labels aligned; Scripture only",
+  "method": "NFKC/casefold; ignore punctuation and markup; preserve words and continuation lines. Near-identical means nonidentical token SequenceMatcher ratio >= 0.90. Unmatched verse labels are excluded, not silently aligned.",
+  "interpretation": "Editorial triage only. Short sayings, quotations, names, and technical terms can legitimately overlap. No minimum difference quota; this does not prove source fidelity or independent translation.",
+  "totals": {
+    "ALL": {
+      "matched_verses": 31083,
+      "identical_words": 19613,
+      "near_identical": 5229,
+      "identical_percent": 63.1,
+      "mean_word_similarity": 0.937388
+    },
+    "1corinthians": {
+      "matched_verses": 437,
+      "identical_words": 306,
+      "near_identical": 109,
+      "identical_percent": 70.02,
+      "mean_word_similarity": 0.977599
+    },
+    "1john": {
+      "matched_verses": 105,
+      "identical_words": 37,
+      "near_identical": 39,
+      "identical_percent": 35.24,
+      "mean_word_similarity": 0.927033
+    },
+    "1peter": {
+      "matched_verses": 105,
+      "identical_words": 87,
+      "near_identical": 17,
+      "identical_percent": 82.86,
+      "mean_word_similarity": 0.990606
+    },
+    "1thessalonians": {
+      "matched_verses": 89,
+      "identical_words": 11,
+      "near_identical": 17,
+      "identical_percent": 12.36,
+      "mean_word_similarity": 0.825693
+    },
+    "1timothy": {
+      "matched_verses": 113,
+      "identical_words": 9,
+      "near_identical": 21,
+      "identical_percent": 7.96,
+      "mean_word_similarity": 0.792343
+    },
+    "2corinthians": {
+      "matched_verses": 257,
+      "identical_words": 213,
+      "near_identical": 43,
+      "identical_percent": 82.88,
+      "mean_word_similarity": 0.991416
+    },
+    "2john": {
+      "matched_verses": 13,
+      "identical_words": 1,
+      "near_identical": 2,
+      "identical_percent": 7.69,
+      "mean_word_similarity": 0.810088
+    },
+    "2peter": {
+      "matched_verses": 61,
+      "identical_words": 51,
+      "near_identical": 10,
+      "identical_percent": 83.61,
+      "mean_word_similarity": 0.99241
+    },
+    "2thessalonians": {
+      "matched_verses": 47,
+      "identical_words": 4,
+      "near_identical": 9,
+      "identical_percent": 8.51,
+      "mean_word_similarity": 0.823681
+    },
+    "2timothy": {
+      "matched_verses": 83,
+      "identical_words": 7,
+      "near_identical": 12,
+      "identical_percent": 8.43,
+      "mean_word_similarity": 0.803582
+    },
+    "3john": {
+      "matched_verses": 15,
+      "identical_words": 11,
+      "near_identical": 4,
+      "identical_percent": 73.33,
+      "mean_word_similarity": 0.986011
+    },
+    "acts": {
+      "matched_verses": 1003,
+      "identical_words": 12,
+      "near_identical": 84,
+      "identical_percent": 1.2,
+      "mean_word_similarity": 0.719514
+    },
+    "colossians": {
+      "matched_verses": 95,
+      "identical_words": 14,
+      "near_identical": 18,
+      "identical_percent": 14.74,
+      "mean_word_similarity": 0.820286
+    },
+    "ephesians": {
+      "matched_verses": 155,
+      "identical_words": 15,
+      "near_identical": 28,
+      "identical_percent": 9.68,
+      "mean_word_similarity": 0.817186
+    },
+    "galatians": {
+      "matched_verses": 149,
+      "identical_words": 9,
+      "near_identical": 30,
+      "identical_percent": 6.04,
+      "mean_word_similarity": 0.819554
+    },
+    "hebrews": {
+      "matched_verses": 303,
+      "identical_words": 225,
+      "near_identical": 71,
+      "identical_percent": 74.26,
+      "mean_word_similarity": 0.983958
+    },
+    "james": {
+      "matched_verses": 108,
+      "identical_words": 0,
+      "near_identical": 0,
+      "identical_percent": 0.0,
+      "mean_word_similarity": 0.558526
+    },
+    "john": {
+      "matched_verses": 878,
+      "identical_words": 59,
+      "near_identical": 167,
+      "identical_percent": 6.72,
+      "mean_word_similarity": 0.809222
+    },
+    "jude": {
+      "matched_verses": 25,
+      "identical_words": 21,
+      "near_identical": 3,
+      "identical_percent": 84.0,
+      "mean_word_similarity": 0.986207
+    },
+    "luke": {
+      "matched_verses": 1149,
+      "identical_words": 64,
+      "near_identical": 192,
+      "identical_percent": 5.57,
+      "mean_word_similarity": 0.788307
+    },
+    "mark": {
+      "matched_verses": 673,
+      "identical_words": 24,
+      "near_identical": 116,
+      "identical_percent": 3.57,
+      "mean_word_similarity": 0.785884
+    },
+    "matthew": {
+      "matched_verses": 1068,
+      "identical_words": 47,
+      "near_identical": 223,
+      "identical_percent": 4.4,
+      "mean_word_similarity": 0.803135
+    },
+    "philemon": {
+      "matched_verses": 25,
+      "identical_words": 4,
+      "near_identical": 3,
+      "identical_percent": 16.0,
+      "mean_word_similarity": 0.82029
+    },
+    "philippians": {
+      "matched_verses": 104,
+      "identical_words": 18,
+      "near_identical": 31,
+      "identical_percent": 17.31,
+      "mean_word_similarity": 0.850091
+    },
+    "revelation": {
+      "matched_verses": 404,
+      "identical_words": 322,
+      "near_identical": 69,
+      "identical_percent": 79.7,
+      "mean_word_similarity": 0.988215
+    },
+    "romans": {
+      "matched_verses": 429,
+      "identical_words": 33,
+      "near_identical": 67,
+      "identical_percent": 7.69,
+      "mean_word_similarity": 0.801862
+    },
+    "titus": {
+      "matched_verses": 46,
+      "identical_words": 1,
+      "near_identical": 3,
+      "identical_percent": 2.17,
+      "mean_word_similarity": 0.735357
+    },
+    "1chronicles": {
+      "matched_verses": 942,
+      "identical_words": 923,
+      "near_identical": 19,
+      "identical_percent": 97.98,
+      "mean_word_similarity": 0.999115
+    },
+    "1kings": {
+      "matched_verses": 816,
+      "identical_words": 771,
+      "near_identical": 45,
+      "identical_percent": 94.49,
+      "mean_word_similarity": 0.997548
+    },
+    "1samuel": {
+      "matched_verses": 810,
+      "identical_words": 680,
+      "near_identical": 128,
+      "identical_percent": 83.95,
+      "mean_word_similarity": 0.993603
+    },
+    "2chronicles": {
+      "matched_verses": 822,
+      "identical_words": 748,
+      "near_identical": 71,
+      "identical_percent": 91.0,
+      "mean_word_similarity": 0.996091
+    },
+    "2kings": {
+      "matched_verses": 719,
+      "identical_words": 628,
+      "near_identical": 88,
+      "identical_percent": 87.34,
+      "mean_word_similarity": 0.994739
+    },
+    "2samuel": {
+      "matched_verses": 695,
+      "identical_words": 617,
+      "near_identical": 74,
+      "identical_percent": 88.78,
+      "mean_word_similarity": 0.995174
+    },
+    "amos": {
+      "matched_verses": 146,
+      "identical_words": 120,
+      "near_identical": 26,
+      "identical_percent": 82.19,
+      "mean_word_similarity": 0.991923
+    },
+    "daniel": {
+      "matched_verses": 357,
+      "identical_words": 298,
+      "near_identical": 56,
+      "identical_percent": 83.47,
+      "mean_word_similarity": 0.992398
+    },
+    "deuteronomy": {
+      "matched_verses": 959,
+      "identical_words": 581,
+      "near_identical": 345,
+      "identical_percent": 60.58,
+      "mean_word_similarity": 0.977708
+    },
+    "ecclesiastes": {
+      "matched_verses": 222,
+      "identical_words": 208,
+      "near_identical": 14,
+      "identical_percent": 93.69,
+      "mean_word_similarity": 0.997554
+    },
+    "esther": {
+      "matched_verses": 167,
+      "identical_words": 146,
+      "near_identical": 21,
+      "identical_percent": 87.43,
+      "mean_word_similarity": 0.995473
+    },
+    "exodus": {
+      "matched_verses": 1213,
+      "identical_words": 748,
+      "near_identical": 419,
+      "identical_percent": 61.67,
+      "mean_word_similarity": 0.976032
+    },
+    "ezekiel": {
+      "matched_verses": 1273,
+      "identical_words": 862,
+      "near_identical": 387,
+      "identical_percent": 67.71,
+      "mean_word_similarity": 0.983407
+    },
+    "ezra": {
+      "matched_verses": 280,
+      "identical_words": 264,
+      "near_identical": 16,
+      "identical_percent": 94.29,
+      "mean_word_similarity": 0.997849
+    },
+    "genesis": {
+      "matched_verses": 1533,
+      "identical_words": 482,
+      "near_identical": 165,
+      "identical_percent": 31.44,
+      "mean_word_similarity": 0.789908
+    },
+    "habakkuk": {
+      "matched_verses": 56,
+      "identical_words": 46,
+      "near_identical": 9,
+      "identical_percent": 82.14,
+      "mean_word_similarity": 0.99004
+    },
+    "haggai": {
+      "matched_verses": 38,
+      "identical_words": 35,
+      "near_identical": 3,
+      "identical_percent": 92.11,
+      "mean_word_similarity": 0.997506
+    },
+    "hosea": {
+      "matched_verses": 197,
+      "identical_words": 172,
+      "near_identical": 22,
+      "identical_percent": 87.31,
+      "mean_word_similarity": 0.992857
+    },
+    "isaiah": {
+      "matched_verses": 1292,
+      "identical_words": 1066,
+      "near_identical": 205,
+      "identical_percent": 82.51,
+      "mean_word_similarity": 0.990757
+    },
+    "jeremiah": {
+      "matched_verses": 1364,
+      "identical_words": 1171,
+      "near_identical": 187,
+      "identical_percent": 85.85,
+      "mean_word_similarity": 0.994148
+    },
+    "job": {
+      "matched_verses": 1070,
+      "identical_words": 1016,
+      "near_identical": 51,
+      "identical_percent": 94.95,
+      "mean_word_similarity": 0.996773
+    },
+    "joel": {
+      "matched_verses": 73,
+      "identical_words": 70,
+      "near_identical": 3,
+      "identical_percent": 95.89,
+      "mean_word_similarity": 0.997417
+    },
+    "jonah": {
+      "matched_verses": 48,
+      "identical_words": 1,
+      "near_identical": 13,
+      "identical_percent": 2.08,
+      "mean_word_similarity": 0.829639
+    },
+    "joshua": {
+      "matched_verses": 658,
+      "identical_words": 582,
+      "near_identical": 72,
+      "identical_percent": 88.45,
+      "mean_word_similarity": 0.994456
+    },
+    "judges": {
+      "matched_verses": 618,
+      "identical_words": 551,
+      "near_identical": 67,
+      "identical_percent": 89.16,
+      "mean_word_similarity": 0.99569
+    },
+    "lamentations": {
+      "matched_verses": 154,
+      "identical_words": 144,
+      "near_identical": 9,
+      "identical_percent": 93.51,
+      "mean_word_similarity": 0.996261
+    },
+    "leviticus": {
+      "matched_verses": 859,
+      "identical_words": 280,
+      "near_identical": 544,
+      "identical_percent": 32.6,
+      "mean_word_similarity": 0.961367
+    },
+    "malachi": {
+      "matched_verses": 55,
+      "identical_words": 39,
+      "near_identical": 15,
+      "identical_percent": 70.91,
+      "mean_word_similarity": 0.985179
+    },
+    "micah": {
+      "matched_verses": 105,
+      "identical_words": 54,
+      "near_identical": 39,
+      "identical_percent": 51.43,
+      "mean_word_similarity": 0.966494
+    },
+    "nahum": {
+      "matched_verses": 47,
+      "identical_words": 45,
+      "near_identical": 2,
+      "identical_percent": 95.74,
+      "mean_word_similarity": 0.998368
+    },
+    "nehemiah": {
+      "matched_verses": 405,
+      "identical_words": 390,
+      "near_identical": 15,
+      "identical_percent": 96.3,
+      "mean_word_similarity": 0.998409
+    },
+    "numbers": {
+      "matched_verses": 1288,
+      "identical_words": 911,
+      "near_identical": 347,
+      "identical_percent": 70.73,
+      "mean_word_similarity": 0.983066
+    },
+    "obadiah": {
+      "matched_verses": 21,
+      "identical_words": 21,
+      "near_identical": 0,
+      "identical_percent": 100.0,
+      "mean_word_similarity": 1.0
+    },
+    "proverbs": {
+      "matched_verses": 915,
+      "identical_words": 878,
+      "near_identical": 30,
+      "identical_percent": 95.96,
+      "mean_word_similarity": 0.996859
+    },
+    "psalms": {
+      "matched_verses": 2461,
+      "identical_words": 2142,
+      "near_identical": 261,
+      "identical_percent": 87.04,
+      "mean_word_similarity": 0.990294
+    },
+    "ruth": {
+      "matched_verses": 85,
+      "identical_words": 5,
+      "near_identical": 10,
+      "identical_percent": 5.88,
+      "mean_word_similarity": 0.805651
+    },
+    "songofsongs": {
+      "matched_verses": 117,
+      "identical_words": 107,
+      "near_identical": 7,
+      "identical_percent": 91.45,
+      "mean_word_similarity": 0.992701
+    },
+    "zechariah": {
+      "matched_verses": 211,
+      "identical_words": 165,
+      "near_identical": 44,
+      "identical_percent": 78.2,
+      "mean_word_similarity": 0.990188
+    },
+    "zephaniah": {
+      "matched_verses": 53,
+      "identical_words": 41,
+      "near_identical": 12,
+      "identical_percent": 77.36,
+      "mean_word_similarity": 0.991532
+    }
+  },
+  "unmatched": [
+    {
+      "chapter": "NT/romans/16",
+      "verse": "24",
+      "present_in": [
+        "fluent"
+      ]
+    },
+    {
+      "chapter": "NT/romans/16",
+      "verse": "25",
+      "present_in": [
+        "tsw"
+      ]
+    },
+    {
+      "chapter": "NT/romans/16",
+      "verse": "26",
+      "present_in": [
+        "tsw"
+      ]
+    },
+    {
+      "chapter": "NT/romans/16",
+      "verse": "27",
+      "present_in": [
+        "tsw"
+      ]
+    },
+    {
+      "chapter": "OT/nehemiah/7",
+      "verse": "68",
+      "present_in": [
+        "tsw"
+      ]
+    }
+  ],
+  "structural_problems": [],
+  "overlap_location_count": 24842,
+  "locations_note": "Per-verse comparisons are recorded in genesis-verse-review.json; overlap is editorial triage, not a quality gate.",
+  "affected_scope": {
+    "chapters": [
+      29,
+      30,
+      31
+    ],
+    "verses": 133,
+    "identical_words": 1,
+    "near_identical": 6,
+    "mean_word_similarity": 0.657585,
+    "bound_by": "genesis-verse-review.json chapter hashes",
+    "not_a_quality_gate": true
+  }
+}

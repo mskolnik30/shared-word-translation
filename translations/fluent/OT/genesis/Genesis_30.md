@@ -4,139 +4,195 @@ testament: OT
 chapter: 30
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-29-31-biblical-fluency-2026-09-11
 ---
 
-## The Children of Jacob
+## Bilhah’s Sons
+
 <p>
-v01: When Rachel saw that she bore Jacob no children, Rachel envied her sister. And she said to Jacob, “Give me children, or I will die.”
-v02: Jacob’s anger burned against Rachel, and he said, “Am I in the place of God, who has withheld from you the fruit of the womb?”
-v03: Then she said, “See, here is my servant Bilhah. Go in to her, so that she may bear upon my knees and that through her I too may have children.”
-v04: So she gave him Bilhah her servant as a wife, and Jacob went in to her.
+v01: Rachel saw that she had borne Jacob no children, and she envied her sister. She told Jacob, “Give me children, or I will die!”
+</p>
+
+<p>
+v02: Jacob became furious with Rachel. “Am I in God’s place?” he said. “God has withheld the fruit of the womb from you.”
+</p>
+
+<p>
+v03: Rachel said, “Here is my slave woman Bilhah. Sleep with her so she can give birth on my knees, and I too may build a family through her.”
+v04: Rachel gave Bilhah, her slave woman, to Jacob as a wife, and he slept with her.
+</p>
+
+<p>
 v05: Bilhah conceived and bore Jacob a son.
-v06: Then Rachel said, “God has judged me and has also heard my voice and given me a son.” Therefore she called his name Dan.
-v07: Rachel’s servant Bilhah conceived again and bore Jacob a second son.
-v08: Then Rachel said, “With mighty wrestlings I have wrestled with my sister and have prevailed.” So she called his name Naphtali.
+v06: Rachel said, “God has judged in my favor. He has heard my voice and given me a son.” So she named him Dan.
 </p>
 
 <p>
-v09: When Leah saw that she had ceased bearing children, she took her servant Zilpah and gave her to Jacob as a wife.
-v10: Zilpah, Leah’s servant, bore Jacob a son.
-v11: Then Leah said, “Good fortune has come!” So she called his name Gad.
-v12: Zilpah, Leah’s servant, bore Jacob a second son.
-v13: Then Leah said, “Happy am I! For women will call me happy.” So she called his name Asher.
+v07: Bilhah, Rachel’s slave woman, conceived again and bore Jacob a second son.
+v08: Rachel said, “I have struggled mightily with my sister, and I have prevailed.” So she named him Naphtali.
+</p>
+
+## Zilpah’s Sons
+
+<p>
+v09: When Leah saw that she had stopped giving birth, she gave her slave woman Zilpah to Jacob as a wife.
 </p>
 
 <p>
-v14: In the days of wheat harvest Reuben went and found mandrakes in the field and brought them to Leah his mother. Then Rachel said to Leah, “Please give me some of your son’s mandrakes.”
-v15: But she said to her, “Is it a small matter that you have taken my husband? Would you also take my son’s mandrakes?” Rachel said, “Then he may lie with you tonight in exchange for your son’s mandrakes.”
-v16: When Jacob came from the field in the evening, Leah went out to meet him and said, “You must come in to me, for I have surely hired you with my son’s mandrakes.” So he lay with her that night.
+v10: Zilpah, Leah’s slave woman, bore Jacob a son.
+v11: Leah said, “Good fortune has come!” So she named him Gad.
 </p>
 
 <p>
-v17: God listened to Leah, and she conceived and bore Jacob a fifth son.
-v18: Then Leah said, “God has given me my wages because I gave my servant to my husband.” So she called his name Issachar.
+v12: Zilpah, Leah’s slave woman, bore Jacob a second son.
+v13: Leah said, “How happy I am! Women will call me happy.” So she named him Asher.
+</p>
+
+## Mandrakes and Further Children
+
+<p>
+v14: During the wheat harvest, Reuben went out and found mandrakes in the field. He brought them to his mother Leah. Rachel said to Leah, “Please give me some of your son’s mandrakes.”
+</p>
+
+<p>
+v15: Leah answered, “Was taking my husband such a small thing? Will you take my son’s mandrakes too?” Rachel said, “Then Jacob may sleep with you tonight in exchange for your son’s mandrakes.”
+</p>
+
+<p>
+v16: When Jacob came in from the fields that evening, Leah went to meet him. “You must sleep with me,” she said. “I have paid for you with my son’s mandrakes.” So Jacob slept with her that night.
+</p>
+
+<p>
+v17: God listened to Leah. She conceived and bore Jacob a fifth son.
+v18: Leah said, “God has given me my wages because I gave my slave woman to my husband.” So she named him Issachar.
+</p>
+
+<p>
 v19: Leah conceived again and bore Jacob a sixth son.
-v20: Then Leah said, “God has endowed me with a good gift. Now my husband will honor me, because I have borne him six sons.” So she called his name Zebulun.
-v21: Afterward she bore a daughter and called her name Dinah.
+v20: Leah said, “God has given me a good gift. Now my husband will honor me, because I have borne him six sons.” So she named him Zebulun.
 </p>
 
 <p>
-v22: Then God remembered Rachel, and God listened to her and opened her womb.
-v23: And she conceived and bore a son and said, “God has taken away my reproach.”
-v24: So she called his name Joseph, saying, “May the LORD add to me another son.”
+v21: Afterward Leah gave birth to a daughter and named her Dinah.
 </p>
 
-## Jacob Prospers
+## Joseph Is Born
+
 <p>
-v25: As soon as Rachel had borne Joseph, Jacob said to Laban, “Send me away, that I may go to my own place and to my own country.
-v26: Give me my wives and my children, for whom I have served you, that I may go, for you know the service that I have rendered to you.”
-v27: Yet Laban said to him, “If I have found favor in your sight, stay. I have learned by divination that the LORD has blessed me because of you.”
-v28: And he said, “Name your wages, and I will give them.”
+v22: Then God remembered Rachel. God listened to her and opened her womb.
 </p>
 
 <p>
-v29: Jacob said to him, “You yourself know how I have served you and how your livestock have prospered with me.
-v30: For you had little before I came, and it has increased abundantly, and the LORD has blessed you wherever I turned. But now, when will I also provide for my own household?”
-v31: He said, “What will I give you?” Jacob said, “You will not give me anything. If you will do this thing for me, I will again pasture and keep your flock:
-v32: let me pass through all your flock today, removing from it every speckled and spotted sheep and every black lamb, and the spotted and speckled among the goats. These will be my wages.
-v33: So my honesty will answer for me later, when you come to examine my wages. Every one that is not speckled and spotted among the goats or black among the lambs, if found with me, will be considered stolen.”
-v34: Laban said, “Good. Let it be according to your word.”
+v23: She conceived and gave birth to a son. She said, “God has taken away my disgrace.”
+v24: She named him Joseph, saying, “May the LORD add another son for me.”
+</p>
+
+## Jacob Negotiates His Wages
+
+<p>
+v25: After Rachel gave birth to Joseph, Jacob said to Laban, “Send me away so I can return to my own place and country.
+v26: Give me my wives and children, for whom I have worked for you, and let me go. You know how much work I have done for you.”
 </p>
 
 <p>
-v35: But that day he removed the striped and spotted male goats and all the speckled and spotted female goats, every one that had white on it, and every black lamb, and put them in the care of his sons.
-v36: And he set a distance of three days’ journey between himself and Jacob, and Jacob pastured the rest of Laban’s flock.
+v27: Laban said, “If I have found favor with you, please stay. I have learned by divination that the LORD has blessed me because of you.”
+v28: Then Laban said, “Name the wages I owe you, and I will pay them.”
 </p>
 
 <p>
-v37: Then Jacob took fresh rods of poplar and almond and plane trees and peeled white streaks in them, exposing the white of the rods.
-v38: And he set the rods that he had peeled in front of the flocks in the watering troughs where the flocks came to drink. Since they bred when they came to drink,
-v39: the flocks bred in front of the rods and produced striped, speckled, and spotted young.
-v40: Jacob separated the lambs and set the faces of the flock toward the striped and all the black in the flock of Laban. And he put his own droves apart and did not put them with Laban’s flock.
+v29: Jacob answered, “You know how I have worked for you and how your livestock have fared under my care.
+v30: You had little before I came, but it has multiplied abundantly. The LORD has blessed you wherever I went. Now when will I provide for my own household too?”
 </p>
 
 <p>
-v41: Whenever the stronger of the flock were breeding, Jacob would lay the rods before the eyes of the flock in the troughs, that they might breed among the rods.
-v42: But for the weaker of the flock he would not lay them there. So the weaker became Laban’s, and the stronger Jacob’s.
-v43: Thus the man increased greatly and had large flocks and female servants and male servants and camels and donkeys.
+v31: “What should I give you?” Laban asked. Jacob answered, “You do not need to give me anything. If you agree to this, I will continue tending and guarding your flock:
+</p>
+
+<p>
+v32: let me go through your whole flock today. Remove every speckled or spotted animal, every dark-colored sheep, and every spotted or speckled goat. Those animals will be my wages.
+v33: Later, my honesty will answer for me when you inspect my wages. If you find with me any goat that is not speckled or spotted, or any sheep that is not dark-colored, it will be considered stolen.”
+</p>
+
+<p>
+v34: Laban said, “Agreed. Let it be as you have said.”
+</p>
+
+## The Marked Flocks
+
+<p>
+v35: But that very day Laban removed the streaked and spotted male goats, all the speckled and spotted female goats—every animal with white on it—and every dark-colored sheep. He put them in the care of his sons.
+v36: Laban placed a three-day journey between himself and Jacob, while Jacob tended the rest of Laban’s flock.
+</p>
+
+<p>
+v37: Jacob took fresh branches from poplar, almond, and plane trees and peeled white strips in them, exposing the white wood.
+</p>
+
+<p>
+v38: He set the peeled branches in the watering troughs, in front of the animals when they came to drink. The flock would mate when they came to drink,
+v39: and as they mated in front of the branches, they gave birth to streaked, speckled, and spotted young.
+</p>
+
+<p>
+v40: Jacob separated the young animals and faced the flock toward the streaked and dark-colored animals in Laban’s flock. He kept his own herds apart and did not mix them with Laban’s flock.
+</p>
+
+<p>
+v41: Whenever the stronger animals were mating, Jacob put the branches in the troughs before their eyes so they would mate in front of the branches.
+v42: But he did not put them out when the weaker animals mated. So the weaker animals became Laban’s, and the stronger ones Jacob’s.
+</p>
+
+<p>
+v43: In this way Jacob became extremely prosperous. He owned large flocks, slave women and men, camels, and donkeys.
 </p>
 
 ## Notes
 
-v01–08: Rachel and Leah's rivalry shapes the narrative of the tribes' origins. The births are interpreted through the sisters' competing hopes and frustrations.
+v01–13: The chapter preserves Rachel and Leah’s anguish, rivalry, and claims about the births. Bilhah and Zilpah bear four sons while enslaved; the text does not record their consent to the arrangements.
 
-v02: Jacob recognizes that fertility ultimately belongs to God, though his answer offers little comfort.
+v03: ‘Give birth on my knees’ may describe a symbolic act by which Rachel claims Bilhah’s child. ‘Build a family’ translates a wordplay also heard when Sarai speaks about Hagar in 16:2.
 
-v06–24: The names of the children often reflect wordplays, prayers, struggles, or interpretations of events surrounding their births.
+v06–24: The naming speeches connect Dan with judging, Naphtali with struggle, Gad with fortune, Asher with happiness, Issachar with wages, Zebulun with gift or honor, and Joseph with taking away and adding. These are the women’s interpretations in the story.
 
-v14–16: The mandrake episode highlights the desperation and complexity surrounding fertility within the household.
+v11: The written Hebrew can mean ‘with fortune’; the traditional reading says ‘fortune has come.’ The latter is followed here.
 
-v17: Leah's conception is attributed to God's attention rather than human arrangements.
+v14–18: Mandrakes were associated with sexuality and fertility, but the narrative does not say they caused a pregnancy. God’s listening to Leah follows the exchange.
 
-v22: The phrase “God remembered Rachel” signals divine action rather than prior forgetfulness.
+v20: The verb associated with Zebulun is uncertain and can suggest honor, dwelling, or exaltation. ‘Honor me’ is followed here.
 
-v24: Joseph's name looks both backward and forward—God has taken away reproach and may yet add another son.
+v27: Laban says he learned by divination that the LORD blessed him because of Jacob. The narrative reports his practice without endorsing it.
 
-v27–30: Laban openly acknowledges that his prosperity has come through the LORD's blessing upon Jacob.
+v32–36: Jacob proposes easily recognized coat-color categories as his wages. Laban removes the currently marked animals and separates them by a three-day journey, leaving Jacob with the rest of the flock.
 
-v31–43: The account focuses on Jacob's management of the flocks, yet the broader narrative attributes his success to divine blessing.
+v37–42: The text describes Jacob’s branches and selective breeding practice without explaining it scientifically. In the next chapter Jacob attributes the marked offspring and his protection to God.
 
-v43: The chapter closes with Jacob's increasing wealth, preparing for the growing tension between Jacob and Laban.
+v40: The wording about facing the flock toward marked animals is difficult. The translation retains the visual arrangement and separation of Jacob’s herds without supplying a complete breeding theory.
 
 ## Vocabulary
 
-v01: קָנָא (qānāʾ)
-“To envy” or “be jealous.” A strong desire stirred by another's advantage.
+v02: פְּרִי־בֶטֶן (peri-veten)
+Fruit of the womb: a concrete expression for children or offspring.
 
-v02: פְּרִי־בָטֶן (pĕrî-bāṭen)
-“Fruit of the womb.” A common expression for children or offspring.
+v03: אָמָה (amah)
+Female slave or enslaved woman; Rachel uses this term for Bilhah.
 
-v06: דָּן (Dān)
-“Dan.” Connected with the verb meaning “to judge.”
+v08: נַפְתּוּלִים (naftulim)
+Struggles or wrestlings; associated with the name Naphtali.
 
-v08: נַפְתָּלִי (Naphtālî)
-“Naphtali.” Associated with wrestling, struggle, or contest.
+v14: דּוּדָאִים (dudaʾim)
+Mandrakes, plants associated in the ancient world with love or fertility.
 
-v11: גָּד (Gāḏ)
-“Gad.” Related to fortune or good luck.
+v18: שָׂכָר (sakhar)
+Wages, compensation, or reward; associated with Issachar’s name.
 
-v13: אָשֵׁר (ʾĀšēr)
-“Asher.” Associated with happiness, blessedness, or good fortune.
+v22: זָכַר (zakhar)
+Remember: not recovery from forgetfulness, but turning attentive action toward someone.
 
-v18: יִשָּׂשכָר (Yiśśāśkār)
-“Issachar.” Linked with wages, reward, or compensation.
+v27: נָחַשׁ (nachash)
+Practice divination or seek an omen.
 
-v20: זְבוּלוּן (Zĕḇûlûn)
-“Zebulun.” Associated with honor, dwelling, or exaltation.
-
-v22: זָכַר (zāḵar)
-“To remember.” Covenant language indicating attentive action.
-
-v24: יוֹסֵף (Yôsēp̄)
-“Joseph.” Meaning “may he add” or “he adds.”
-
-v27: נָחַשׁ (nāḥaš)
-“To practice divination” or “seek omens.” Laban claims to have learned through such means that the LORD blessed him because of Jacob.
-
-v43: פָּרַץ (pāraṣ)
-“To increase greatly” or “break forth.” A term describing rapid expansion and prosperity.
+v33: צְדָקָה (tsedaqah)
+Righteousness or right conduct; here Jacob’s claim that his honesty can be tested.

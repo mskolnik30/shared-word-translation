@@ -34,13 +34,15 @@ def audit(root, ledger, source_bytes):
         check(len(records) == len(tree.findall('.//{*}verse')), 'XML record extraction differs')
         check(len(records) == source['book_verse_count'], 'source book count differs')
         scope = source['scope_chapters']
+        extra_references = set(source.get('extra_source_references', []))
         check(scope == sorted(set(scope)) and bool(scope), 'invalid source chapter scope')
         check(scope == [c['chapter'] for c in ledger['chapters']], 'chapter/source scope differs')
         for record in records:
             element = ET.fromstring(record)
             book, chapter, verse = element.attrib['osisID'].split('.')
-            if book == source['osis_book_id'] and int(chapter) in scope:
-                reference = f'{book} {chapter}:{verse}'
+            source_reference = f'{book} {chapter}:{verse}'
+            if book == source['osis_book_id'] and (int(chapter) in scope or source_reference in extra_references):
+                reference = source_reference
                 check(reference not in source_verses, f'duplicate source reference: {reference}')
                 source_verses[reference] = record
     else:
@@ -86,7 +88,11 @@ def audit(root, ledger, source_bytes):
         chapters[chapter['chapter']] = (after, old, tsw)
     seen = Counter()
     for verse in ledger['verses']:
-        chapter, label = map(int, verse['source_reference'].split()[-1].split(':'))
+        public_match = re.search(r'(\d+):(\d+)$', verse['reference'])
+        check(bool(public_match), f"invalid public reference: {verse['reference']}")
+        if not public_match:
+            continue
+        chapter, label = map(int, public_match.groups())
         after, old, tsw = chapters[chapter]
         key = f'{label:02}'
         seen[chapter] += 1

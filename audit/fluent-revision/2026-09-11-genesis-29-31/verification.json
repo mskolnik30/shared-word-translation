@@ -1,0 +1,64 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T04:06:46.240894+00:00",
+  "base_commit": "a98130860ba7aa7e534a7e0343cab637c2c75fa1",
+  "scope": "Genesis 29–31; 133 verses. All prior revision ledgers also rechecked.",
+  "structural_checks": {
+    "all_five_source_bound_revision_ledgers": "PASSED",
+    "coverage_deltas_and_english_hebrew_versification": "PASSED",
+    "names_numbers_relationships_repetitions_and_hard_readings": "PASSED_TARGETED_ASSERTIONS",
+    "format_quotes_paragraphs_and_draft_qualification": "PASSED",
+    "TSW_prior_batches_later_Genesis_and_Companion_unchanged": "PASSED_DIFF_SCOPE",
+    "historical_batches_and_only_affected_old_bindings_preserved": "PASSED"
+  },
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": {
+    "returncode": 0,
+    "output": ""
+  },
+  "editorial_self_check": "Authoring model reread every Hebrew verse and the assembled English, checked names, numbers, social harm, repeated words, source ambiguities, and the English/Hebrew chapter boundary. Not an independent reviewer.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
