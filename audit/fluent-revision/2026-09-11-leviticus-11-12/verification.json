@@ -1,0 +1,450 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T16:32:44.092816+00:00",
+  "base_commit": "bc57156b1df19cd189e0196340afc6ba2c1f81a6",
+  "scope": "Leviticus 11–12; 55 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 107,
+    "verses": 3161
+  },
+  "source_record_count": 859,
+  "public_source_mapping": "Leviticus 11–12 aligns directly; all 55 records are unique and complete, including written/read forms at 11:21 and large-letter annotation at 11:42. Prior Genesis and Exodus public/source differences remain bound unchanged.",
+  "source_annotations_hashed_in_full": [
+    "11:21",
+    "11:42"
+  ],
+  "focused_assertions": {
+    "11:1": [
+      "Moses and Aaron"
+    ],
+    "11:3": [
+      "completely split in two and chews the cud"
+    ],
+    "11:4": [
+      "camel",
+      "chews the cud",
+      "does not have divided hooves"
+    ],
+    "11:5": [
+      "rock hyrax",
+      "chews the cud"
+    ],
+    "11:6": [
+      "hare",
+      "chews the cud"
+    ],
+    "11:7": [
+      "pig",
+      "completely split in two",
+      "does not chew the cud"
+    ],
+    "11:8": [
+      "eat their meat",
+      "touch their carcasses"
+    ],
+    "11:9": [
+      "fins and scales",
+      "seas or the streams"
+    ],
+    "11:10": [
+      "does not have both fins and scales",
+      "detestable"
+    ],
+    "11:12": [
+      "does not have both fins and scales"
+    ],
+    "11:13": [
+      "eagle",
+      "bearded vulture",
+      "black vulture"
+    ],
+    "11:14": [
+      "kite",
+      "every kind of falcon"
+    ],
+    "11:15": [
+      "every kind of raven"
+    ],
+    "11:16": [
+      "ostrich",
+      "nighthawk",
+      "gull",
+      "every kind of hawk"
+    ],
+    "11:17": [
+      "little owl",
+      "cormorant",
+      "great owl"
+    ],
+    "11:18": [
+      "barn owl",
+      "pelican",
+      "carrion vulture"
+    ],
+    "11:19": [
+      "stork",
+      "every kind of heron",
+      "hoopoe",
+      "bat"
+    ],
+    "11:20": [
+      "on all fours"
+    ],
+    "11:21": [
+      "may eat",
+      "jointed legs above their feet",
+      "leaping"
+    ],
+    "11:22": [
+      "locust",
+      "bald locust",
+      "cricket",
+      "grasshopper"
+    ],
+    "11:23": [
+      "other",
+      "four legs"
+    ],
+    "11:25": [
+      "any part",
+      "wash their clothes",
+      "until evening"
+    ],
+    "11:26": [
+      "not fully split and",
+      "does not chew"
+    ],
+    "11:27": [
+      "paws",
+      "carcasses",
+      "until evening"
+    ],
+    "11:29": [
+      "weasel",
+      "mouse",
+      "every kind of large lizard"
+    ],
+    "11:30": [
+      "gecko",
+      "monitor lizard",
+      "common lizard",
+      "skink",
+      "chameleon"
+    ],
+    "11:31": [
+      "when they are dead"
+    ],
+    "11:32": [
+      "wooden utensil",
+      "clothing",
+      "leather",
+      "sackcloth",
+      "put in water",
+      "until evening",
+      "then it will be clean"
+    ],
+    "11:33": [
+      "earthenware",
+      "everything inside",
+      "break the vessel"
+    ],
+    "11:34": [
+      "food in it",
+      "contact with water",
+      "drink in such a vessel"
+    ],
+    "11:35": [
+      "any part",
+      "oven or cooking stove",
+      "broken down"
+    ],
+    "11:36": [
+      "spring or cistern",
+      "remains clean",
+      "touches the carcass"
+    ],
+    "11:37": [
+      "seed intended for sowing",
+      "remains clean"
+    ],
+    "11:38": [
+      "water has been put on the seed",
+      "unclean"
+    ],
+    "11:39": [
+      "permitted to eat dies",
+      "until evening"
+    ],
+    "11:40": [
+      "eats",
+      "carries",
+      "wash their clothes"
+    ],
+    "11:42": [
+      "belly",
+      "all fours",
+      "many legs"
+    ],
+    "11:43": [
+      "detestable",
+      "unclean"
+    ],
+    "11:44": [
+      "Consecrate yourselves",
+      "be holy, because I am holy",
+      "swarming creature"
+    ],
+    "11:45": [
+      "brought you up",
+      "land of Egypt",
+      "to be your God",
+      "Be holy, because I am holy"
+    ],
+    "11:47": [
+      "unclean from the clean",
+      "may be eaten",
+      "must not be eaten"
+    ],
+    "12:2": [
+      "woman",
+      "boy",
+      "seven days",
+      "menstrual period"
+    ],
+    "12:3": [
+      "eighth day",
+      "foreskin",
+      "circumcised"
+    ],
+    "12:4": [
+      "thirty-three days",
+      "bleeding",
+      "not touch anything holy",
+      "enter the sanctuary"
+    ],
+    "12:5": [
+      "girl",
+      "two weeks",
+      "sixty-six days"
+    ],
+    "12:6": [
+      "son or daughter",
+      "year-old lamb",
+      "burnt offering",
+      "young pigeon or turtledove",
+      "sin offering",
+      "priest"
+    ],
+    "12:7": [
+      "atonement",
+      "clean from her flow of blood"
+    ],
+    "12:8": [
+      "cannot afford",
+      "two turtledoves or two young pigeons",
+      "one for a burnt offering",
+      "one for a sin offering",
+      "she will be clean"
+    ]
+  },
+  "TSW_prior_revisions_Companion_and_unaffected_approvals_preserved": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 55 selected pinned Hebrew records including annotations at 11:21 and 11:42. Selected NET lexical notes informed provisional animal identifications before chapter-11 drafting; further grammatical notes and chapter-12 notes were consulted afterward. All TSW comparators were read after drafting. The complete assembled text was reread, checking animal-list coverage, both food criteria, carcass actions, material/water exceptions, repeated holiness language, childbirth periods, circumcision, offering alternatives and clean rather than forgiven conclusions. This is an authoring self-check, not independent scholarly review.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

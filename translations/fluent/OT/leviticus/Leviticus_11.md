@@ -4,131 +4,142 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-11-12-biblical-fluency-2026-09-11
 ---
 
-## Animals That May Be Eaten
+## Land Animals That May Be Eaten
 
 <p>
-v01: The LORD spoke to Moses and Aaron, saying to them,
-v02: “Speak to the Israelites, saying: These are the living creatures you may eat among all the animals on the earth.
-v03: Any animal that has a divided hoof, completely split, and chews the cud—you may eat.
+v01: The LORD spoke to Moses and Aaron:
+v02: “Tell the Israelites: These are the land animals you may eat.
+v03: You may eat any animal that has hooves completely split in two and chews the cud.
 </p>
 
 <p>
-v04: But among those that chew the cud or have a divided hoof, you will not eat these: the camel, because it chews the cud but does not have a divided hoof; it is unclean to you.
-v05: The rock badger, because it chews the cud but does not have a divided hoof; it is unclean to you.
-v06: The hare, because it chews the cud but does not have a divided hoof; it is unclean to you.
-v07: The pig, because it has a divided hoof, completely split, but does not chew the cud; it is unclean to you.
-v08: You will not eat their flesh or touch their carcasses. They are unclean to you.
+v04: But these animals that chew the cud or have divided hooves must not be eaten. The camel chews the cud but does not have divided hooves; it is unclean to you.
+v05: The rock hyrax chews the cud but does not have divided hooves; it is unclean to you.
+v06: The hare chews the cud but does not have divided hooves; it is unclean to you.
+v07: The pig has hooves completely split in two but does not chew the cud; it is unclean to you.
+v08: Do not eat their meat or touch their carcasses. They are unclean to you.
 </p>
 
-## Creatures in the Waters
+## Creatures in the Water
 
 <p>
-v09: These you may eat from everything in the waters: whatever has fins and scales in the waters, whether in seas or rivers, you may eat.
-v10: But whatever does not have fins and scales in the seas and rivers, among all that swarm in the waters and every living creature in the waters, will be detestable to you.
-v11: They will be detestable to you; you will not eat their flesh, and you will detest their carcasses.
-v12: Whatever in the waters has no fins and scales will be detestable to you.
+v09: Of the creatures living in water, you may eat any that have fins and scales, whether in the seas or the streams.
+v10: But anything in the seas or streams that does not have both fins and scales—whether among the swarming creatures or any other living creature in the water—is detestable to you.
+v11: You must regard them as detestable. Do not eat their meat, and regard their carcasses as detestable.
+v12: Anything in the water that does not have both fins and scales is detestable to you.
 </p>
 
-## Birds Not to Be Eaten
+## Flying Creatures Not to Be Eaten
 
 <p>
-v13: These you will detest among the birds; they will not be eaten, for they are detestable: the eagle, the bearded vulture, the black vulture,
-v14: the kite and every kind of falcon,
+v13: Among flying creatures, regard these as detestable; they must not be eaten: the eagle, the bearded vulture, the black vulture,
+v14: the kite, every kind of falcon,
 v15: every kind of raven,
-v16: the ostrich, the night hawk, the sea gull, and every kind of hawk,
+v16: the ostrich, the nighthawk, the gull, every kind of hawk,
 v17: the little owl, the cormorant, the great owl,
-v18: the white owl, the desert owl, the carrion vulture,
+v18: the barn owl, the pelican, the carrion vulture,
 v19: the stork, every kind of heron, the hoopoe, and the bat.
 </p>
 
 ## Winged Swarming Creatures
 
 <p>
-v20: Every winged swarming creature that walks on four legs will be detestable to you.
-v21: Yet among all winged swarming creatures that walk on four legs, you may eat those that have jointed legs above their feet for leaping on the ground.
-v22: Of these you may eat every kind of locust, every kind of bald locust, every kind of cricket, and every kind of grasshopper.
-v23: But every other winged swarming creature that has four legs will be detestable to you.
+v20: Every winged swarming creature that goes on all fours is detestable to you.
+v21: Yet among the winged swarming creatures that go on all fours, you may eat those with jointed legs above their feet for leaping on the ground.
+v22: You may eat these: every kind of locust, bald locust, cricket, and grasshopper.
+v23: But every other winged swarming creature with four legs is detestable to you.
 </p>
 
 ## Uncleanness from Carcasses
 
 <p>
-v24: By these you will become unclean: whoever touches their carcass will be unclean until evening,
-v25: and whoever carries any part of their carcass will wash their clothes and be unclean until evening.
-v26: Every animal that has a divided hoof but is not completely split, or does not chew the cud, is unclean to you. Whoever touches one will be unclean.
-v27: Whatever walks on paws among all animals that walk on four legs is unclean to you. Whoever touches their carcass will be unclean until evening.
-v28: Whoever carries their carcass will wash their clothes and be unclean until evening. They are unclean to you.
+v24: These creatures make you unclean: anyone who touches their carcasses will be unclean until evening,
+v25: and anyone who carries any part of their carcasses must wash their clothes and remain unclean until evening.
+</p>
+
+<p>
+v26: Any hoofed animal whose hooves are not fully split and that does not chew the cud is unclean to you. Anyone who touches them becomes unclean.
+v27: Among animals that go on all fours, all that walk on paws are unclean to you. Anyone who touches their carcasses will be unclean until evening.
+v28: Anyone who carries their carcasses must wash their clothes and remain unclean until evening. They are unclean to you.
 </p>
 
 ## Swarming Creatures on the Ground
 
 <p>
-v29: These are unclean to you among the swarming creatures that swarm on the ground: the weasel, the mouse, every kind of great lizard,
-v30: the gecko, the monitor lizard, the wall lizard, the skink, and the chameleon.
-v31: These are unclean to you among all the swarming creatures. Whoever touches them when they are dead will be unclean until evening.
+v29: Among the creatures that swarm on the ground, these are unclean to you: the weasel, the mouse, every kind of large lizard,
+v30: the gecko, the monitor lizard, the common lizard, the skink, and the chameleon.
+v31: These are unclean to you among the swarming creatures. Anyone who touches them when they are dead will be unclean until evening.
 </p>
 
 <p>
-v32: Anything on which one of them falls when dead will become unclean, whether an article of wood, clothing, skin, sackcloth, or any article used for work. It will be put into water and remain unclean until evening; then it will be clean.
-v33: If any of them falls into an earthen vessel, everything in it will become unclean, and you will break the vessel.
-v34: Any food that may be eaten, if water from such a vessel comes upon it, will become unclean; and any drink that may be drunk from such a vessel will become unclean.
-v35: Anything on which part of their carcass falls will become unclean. An oven or cooking stove will be broken down. They are unclean and will remain unclean to you.
-v36: Even so, a spring or cistern collecting water will remain clean, though whoever touches the carcass in it will become unclean.
-v37: If part of their carcass falls on seed intended for sowing, the seed remains clean.
-v38: But if water has been put on the seed and part of their carcass falls on it, it is unclean to you.
+v32: Anything one of them falls on when dead becomes unclean—a wooden utensil, clothing, leather, or sackcloth, any article used for work. It must be put in water and remain unclean until evening; then it will be clean.
+v33: If one of them falls into an earthenware vessel, everything inside becomes unclean, and you must break the vessel.
+v34: Any food in it that has come into contact with water becomes unclean, and any drink in such a vessel becomes unclean.
+v35: Anything on which any part of their carcass falls becomes unclean. An oven or cooking stove must be broken down. They are unclean and must be regarded as unclean by you.
 </p>
 
-## Animals That Die Naturally
-
 <p>
-v39: If any animal that you may eat dies, whoever touches its carcass will be unclean until evening.
-v40: Whoever eats from its carcass will wash their clothes and be unclean until evening; whoever carries its carcass will wash their clothes and be unclean until evening.
+v36: A spring or cistern that holds water, however, remains clean. But anyone who touches the carcass becomes unclean.
+v37: If any part of their carcass falls on seed intended for sowing, the seed remains clean.
+v38: But if water has been put on the seed and any part of their carcass falls on it, it is unclean to you.
 </p>
 
-## Be Holy, for I Am Holy
+## When an Edible Animal Dies
 
 <p>
-v41: Every swarming creature that swarms on the ground is detestable; it will not be eaten.
-v42: Whatever moves on its belly, whatever walks on four legs, or whatever has many feet, among all swarming creatures that swarm on the ground, you will not eat, for they are detestable.
-v43: You will not make yourselves detestable with any swarming creature, and you will not make yourselves unclean by them and so become defiled by them.
-v44: For I am the LORD your God. Make yourselves holy and be holy, for I am holy. You will not make yourselves unclean by any swarming creature that moves on the ground.
-v45: For I am the LORD who brought you up from the land of Egypt to be your God. Therefore you will be holy, for I am holy.
+v39: If an animal you are permitted to eat dies, anyone who touches its carcass will be unclean until evening.
+v40: Anyone who eats some of its carcass must wash their clothes and remain unclean until evening. Anyone who carries its carcass must also wash their clothes and remain unclean until evening.
 </p>
 
-## Distinguishing Clean and Unclean
+## Be Holy, Because I Am Holy
 
 <p>
-v46: This is the law concerning animals, birds, every living creature that moves in the waters, and every creature that swarms on the ground,
-v47: to distinguish between the unclean and the clean, and between the living creature that may be eaten and the living creature that may not be eaten.
+v41: Every swarming creature that swarms on the ground is detestable; it must not be eaten.
+v42: Do not eat any creature that swarms on the ground and moves on its belly, goes on all fours, or has many legs. They are detestable.
+v43: Do not make yourselves detestable through any swarming creature. Do not make yourselves unclean through them and so become unclean.
+v44: For I am the LORD your God. Consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean through any swarming creature that crawls on the ground.
+v45: For I am the LORD who brought you up from the land of Egypt to be your God. Be holy, because I am holy.
+</p>
+
+## Learning to Distinguish
+
+<p>
+v46: These are the instructions concerning land animals, flying creatures, every living creature that moves in the water, and every creature that swarms on the ground,
+v47: so that you can distinguish the unclean from the clean, and the animals that may be eaten from those that must not be eaten.”
 </p>
 
 ## Notes
 
-v03: The land-animal criteria combine two features: a fully divided hoof and chewing the cud. The categories are ritual, not a statement about moral worth or biological taxonomy.
+v03–07: Both divided hooves and chewing the cud are required. The descriptions of the hyrax and hare are retained as given; the passage is not recast in modern zoological terms.
 
-v13–19: Several bird names are uncertain because some Hebrew species terms cannot be identified securely. TSW follows conventional English identifications while retaining the list structure.
+v13–19: Several identifications are uncertain. “Eagle” may designate a griffon vulture, and “ostrich” may designate an owl. Other raptor and owl names also remain provisional. “Flying creatures” preserves the category that includes the bat.
 
-v24–40: Contact with carcasses produces temporary ritual uncleanness. The text distinguishes such uncleanness from deliberate moral wrongdoing.
+v20–22: The description “on all fours” is retained. Verse 21 follows the traditional read form, “has,” rather than the written “not.” The four insect names are provisional identifications of distinct Hebrew terms.
 
-v44–45: Holiness is grounded in the identity of the LORD and in Israel’s deliverance from Egypt, not simply in dietary classification itself.
+v26: The Hebrew joins the hoof and cud descriptions with “and”; some translations use “or,” applying the two requirements of verse 3 separately. The surrounding instructions concern carcasses.
 
-v47: The chapter’s stated purpose is discernment—learning to distinguish clean from unclean and permitted food from forbidden food.
+v29–30: The small-animal names are also uncertain: “weasel” may be a rat, and the lizard names do not securely identify modern species. Each Hebrew entry is retained separately.
+
+v34: The contaminated-vessel setting continues from verse 33. The text does not say that contact with any water makes all food unclean. Another reading concerns water from the contaminated vessel reaching food.
+
+v39–40: Even an animal permitted as food can cause uncleanness through its carcass. Touching, carrying, and eating are treated separately.
 
 ## Vocabulary
 
-v02: חַיָּה (chayyah)
-“Living creature” or “animal.” A broad term for animal life.
-
 v10: שֶׁקֶץ (sheqets)
-“Detestable thing.” A ritual category of what is to be rejected.
+“Detestable thing.” What the instructions require Israel to reject; this term is kept distinct from “unclean.”
 
-v24: טָמֵא (tame)
-“Unclean.” A ritual state restricting contact with holy things.
+v24: טָמֵא (ṭameʾ)
+“Unclean.” Here a ritual condition, often lasting until evening after carcass contact.
 
 v44: קָדוֹשׁ (qadosh)
-“Holy.” Set apart as belonging to God.
+“Holy.” The repeated command is grounded in the LORD’s own holiness.
 
 v47: בָּדַל (badal)
-“To distinguish” or “separate.” To recognize and maintain a prescribed difference.
+“Distinguish” or “separate.” Recognizing and maintaining the differences the instruction names.

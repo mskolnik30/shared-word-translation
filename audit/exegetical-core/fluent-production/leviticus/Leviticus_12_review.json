@@ -2,155 +2,87 @@
   "book": "Leviticus",
   "chapter": 12,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
+  "publication_allowed": false,
+  "revision_id": "fluent-leviticus-11-12-biblical-fluency-2026-09-11",
+  "supersedes": {
+    "commit": "bc57156b1df19cd189e0196340afc6ba2c1f81a6",
+    "path": "audit/exegetical-core/fluent-production/leviticus/Leviticus_12_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Lev",
+    "book_verse_count": 859,
+    "scope_chapters": [
+      11,
+      12
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Lev.xml",
-    "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Lev.xml",
     "git_blob_sha": "6025e0713ccfc79de0c90cb92ed0e8c0062d2614",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Leviticus 12:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 1,
-            "source_ref": "Leviticus 12:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
-      },
-      "2": {
-        "source_ref": "Leviticus 12:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 2,
-            "source_ref": "Leviticus 12:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a750ec02b9b5e22affb1355a81725c6220fdad2dece393bc4c52c3f4b4ab240f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a750ec02b9b5e22affb1355a81725c6220fdad2dece393bc4c52c3f4b4ab240f"
-      },
-      "3": {
-        "source_ref": "Leviticus 12:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 3,
-            "source_ref": "Leviticus 12:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "ddd2ba09d1401c7305cb8dac86d26712f59e34d53b4bca7511971242c4efe4d1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ddd2ba09d1401c7305cb8dac86d26712f59e34d53b4bca7511971242c4efe4d1"
-      },
-      "4": {
-        "source_ref": "Leviticus 12:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 4,
-            "source_ref": "Leviticus 12:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "1950aed58b0aed42747b76e0cd752451aa86af9093bd95319a4637ea35f4910d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1950aed58b0aed42747b76e0cd752451aa86af9093bd95319a4637ea35f4910d"
-      },
-      "5": {
-        "source_ref": "Leviticus 12:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 5,
-            "source_ref": "Leviticus 12:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "79e2e470eb86d06af193bab2255f2c5a0b6e4b8f18fc51d53a8eb186c9e54014"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "79e2e470eb86d06af193bab2255f2c5a0b6e4b8f18fc51d53a8eb186c9e54014"
-      },
-      "6": {
-        "source_ref": "Leviticus 12:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 6,
-            "source_ref": "Leviticus 12:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "ed1c1539b6b24323451a4ed7e24bcbfd9ddc373405ff89a29fbed3be922bbe67"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ed1c1539b6b24323451a4ed7e24bcbfd9ddc373405ff89a29fbed3be922bbe67"
-      },
-      "7": {
-        "source_ref": "Leviticus 12:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 7,
-            "source_ref": "Leviticus 12:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "728d268345923124d1606dfa24f37df8b8a9b605064328ad164630437ef9556d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "728d268345923124d1606dfa24f37df8b8a9b605064328ad164630437ef9556d"
-      },
-      "8": {
-        "source_ref": "Leviticus 12:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 8,
-            "source_ref": "Leviticus 12:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "297ecbedf2b05a2f21f308affbafab29ecdd74cfc304eb6bdcc32358d6545161"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "297ecbedf2b05a2f21f308affbafab29ecdd74cfc304eb6bdcc32358d6545161"
-      }
+    "sha256": "75a4a96e7b64f2145bede15ae37ac8a0b301f110d5d6b2daf9d8048adebbd2e6",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Lev.xml",
+    "verse_hash_method": "SHA-256 of the exact original XML verse substring, including written/read notes, not a normalized substitute.",
+    "public_versification_note": "Public and Hebrew numbering align throughout Leviticus 11–12. Full original XML records include the written/read note at 11:21 and large-letter annotation at 11:42."
+  },
+  "chapter_binding": {
+    "chapter": 12,
+    "verse_count": 8,
+    "path": "translations/fluent/OT/leviticus/Leviticus_12.md",
+    "before_sha256": "c787ffb66b32d7f0b8d38b6e47ebe1169c8ffd93d135b973e96644bfeab43ef1",
+    "after_sha256": "cc6e5005ae23908cd5b9f5c9d592d2931868efdc52c70d3756ef70b6237f2245",
+    "tsw_comparator_path": "books/OT/leviticus/Leviticus_12.md",
+    "tsw_comparator_sha256": "6cc95398762c9c4b7c6b3c739981290d8d99f0b44fd7615843ce0d71f928711d"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+  "public_versification": {
+    "1–8": "Lev 12:1–8"
+  },
+  "key_decisions": [
+    {
+      "location": "Leviticus 12:2",
+      "delta": "F3",
+      "decision": "Retains conception, male birth, exactly seven days and menstrual-impurity comparison without alleging moral wrongdoing.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Leviticus 12:3",
+      "delta": "F3",
+      "decision": "Keeps exact eighth day and concrete bodily circumcision requirement rather than reducing it to generic dedication.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Leviticus 12:4",
+      "delta": "F3",
+      "decision": "Preserves thirty-three days, blood connection and both holy-object/sanctuary restrictions; notes difficult bloods-of-purification phrase.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Leviticus 12:5",
+      "delta": "F3",
+      "decision": "Keeps female birth’s distinct two-week and sixty-six-day durations without supplying an explanation absent from source.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Leviticus 12:6",
+      "delta": "F3",
+      "decision": "Retains son/daughter coverage, one-year lamb, alternate bird species, differing offering categories and priest/location.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Leviticus 12:7",
+      "delta": "F3",
+      "decision": "Keeps presentation, atonement and cleanness without adding forgiveness of a sin not named; preserves both birth categories in summary.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Leviticus 12:8",
+      "delta": "F3",
+      "decision": "Keeps economic accommodation, exactly two birds and separate offering roles; lamb follows prescribed animal in verse 6 and clean conclusion remains distinct from forgiven.",
+      "disposition": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/leviticus/Leviticus_12.md",
-    "blob_sha": "cf786b03bfe15a456f96e2cf0be517d9cda0e7e3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

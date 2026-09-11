@@ -4,46 +4,52 @@ testament: OT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-11-12-biblical-fluency-2026-09-11
 ---
 
 ## Purification after Childbirth
 
 <p>
-v01: The LORD spoke to Moses, saying,
-v02: “Speak to the Israelites, saying: If a woman conceives and gives birth to a male child, she will be unclean seven days; as in the days of the uncleanness of her menstrual period, she will be unclean.
-v03: On the eighth day the flesh of his foreskin will be circumcised.
-v04: She will remain thirty-three days in the blood of purification. She will not touch any holy thing or enter the sanctuary until the days of her purification are completed.
-v05: If she gives birth to a female child, she will be unclean two weeks, as during her menstrual period, and she will remain sixty-six days in the blood of purification.
+v01: The LORD spoke to Moses:
+v02: “Tell the Israelites: When a woman conceives and gives birth to a boy, she will be unclean for seven days, as she is during her menstrual period.
+v03: On the eighth day, his foreskin must be circumcised.
+v04: She must then spend thirty-three days in purification from her bleeding. She must not touch anything holy or enter the sanctuary until her days of purification are complete.
+</p>
+
+<p>
+v05: If she gives birth to a girl, she will be unclean for two weeks, as during her menstrual period. Then she must spend sixty-six days in purification from her bleeding.
 </p>
 
 ## The Offering after Purification
 
 <p>
-v06: When the days of her purification are completed, whether for a son or for a daughter, she will bring to the priest at the entrance of the Tent of Meeting a year-old lamb for a burnt offering and a young pigeon or turtledove for a sin offering.
-v07: The priest will present them before the LORD and make atonement for her, and she will be clean from the flow of her blood. This is the law for the woman who gives birth to a male or a female child.
-v08: If she cannot afford a sheep, she will take two turtledoves or two young pigeons, one for a burnt offering and the other for a sin offering. The priest will make atonement for her, and she will be clean.”
+v06: When her days of purification for a son or daughter are complete, she must bring the priest a year-old lamb for a burnt offering and a young pigeon or turtledove for a sin offering, at the entrance of the tent of meeting.
+v07: The priest will present the offering before the LORD and make atonement for her, and she will be clean from her flow of blood. This is the instruction for a woman who gives birth to a boy or a girl.
+v08: If she cannot afford a lamb, she must take two turtledoves or two young pigeons, one for a burnt offering and one for a sin offering. The priest will make atonement for her, and she will be clean.”
 </p>
 
 ## Notes
 
-v02: The chapter addresses ritual uncleanness associated with childbirth; it does not describe childbirth or the mother as morally sinful.
+v02: The instruction describes ritual uncleanness after childbirth. It does not call giving birth a sin.
 
-v03: Circumcision on the eighth day is stated within the purification instructions without further explanation.
+v04–05: The Hebrew phrase is “bloods of purification” or “bloods of purity.” This later period is distinguished from the initial period of uncleanness; restrictions on holy things and sanctuary entry continue.
 
-v05: The longer period after the birth of a daughter is preserved without supplying a rationale that the text itself does not give.
+v05: The stated periods total forty days after a son’s birth and eighty after a daughter’s. The text gives no reason for the difference. The offerings in verses 6–8 apply to either.
 
-v08: The reduced offering makes the purification rite accessible to a household unable to afford a lamb.
+v07: “Flow of blood” is literally “source of her blood,” possibly referring to its bodily source. The result announced here is cleanness, not forgiveness. “Sin offering” is also rendered “purification offering”; see 4:3.
+
+v08: The less costly option is two birds, one for each offering. “Lamb” follows the animal prescribed in verse 6; the Hebrew here uses the broader word for a sheep or goat.
 
 ## Vocabulary
 
-v02: טָמֵא (tame)
-“Unclean.” A ritual state requiring a period of separation and purification.
-
-v04: טָהֳרָה (tohorah)
-“Purification.” The process or state of becoming ritually clean.
-
 v03: מוּל (mul)
-“To circumcise.” To remove the foreskin as the covenantal sign.
+“Circumcise.” The bodily rite required here on the eighth day; compare Genesis 17:12.
 
-v08: דַּל (dal)
-“Poor” or “of limited means.” One unable to afford the larger offering.
+v04: טָהֳרָה (ṭohorah)
+“Purification” or “purity.” The word can describe the process or condition of ritual cleanness.
+
+v07: כִּפֶּר (kipper)
+“Make atonement.” Here the priest’s action is followed by the declaration that the woman will be clean.
