@@ -4,75 +4,87 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-8-10-biblical-fluency-2026-09-11
 ---
 
 ## The Eighth Day
 
 <p>
-v01: On the eighth day Moses called Aaron and his sons and the elders of Israel.
-v02: He said to Aaron, “Take for yourself a bull calf for a sin offering and a ram for a burnt offering, both without defect, and present them before the LORD.
-v03: Speak to the Israelites, saying: Take a male goat for a sin offering, and a calf and a lamb, each a year old and without defect, for a burnt offering,
-v04: and an ox and a ram for sacrifices of well-being to sacrifice before the LORD, and a grain offering mixed with oil, for today the LORD will appear to you.”
+v01: On the eighth day, Moses called Aaron, his sons, and the elders of Israel.
+v02: He told Aaron, “Take a bull calf for your sin offering and a ram for your burnt offering, both without defect, and present them before the LORD.
+v03: Tell the Israelites, ‘Take a male goat for a sin offering, and a calf and a lamb, both a year old and without defect, for a burnt offering,
+v04: an ox and a ram for peace offerings to sacrifice before the LORD, and a grain offering mixed with oil, for today the LORD will appear to you.’”
 </p>
 
 <p>
-v05: They brought what Moses commanded before the Tent of Meeting. The whole congregation drew near and stood before the LORD.
-v06: Moses said, “This is what the LORD has commanded you to do, so that the glory of the LORD may appear to you.”
-v07: Then Moses said to Aaron, “Draw near to the altar and prepare your sin offering and your burnt offering, making atonement for yourself and for the people. Then prepare the people’s offering and make atonement for them, as the LORD commanded.”
+v05: They brought what Moses had commanded to the front of the tent of meeting. The whole community came forward and stood before the LORD.
+v06: Moses said, “Do what the LORD has commanded, and the LORD’s glory will appear to you.”
 </p>
 
-## Aaron Offers for Himself
-
 <p>
-v08: Aaron drew near to the altar and slaughtered the calf of the sin offering that was for himself.
-v09: Aaron’s sons brought the blood to him. He dipped his finger in the blood, put it on the horns of the altar, and poured the blood at the base of the altar.
-v10: He turned the fat, the kidneys, and the appendage of the liver from the sin offering into smoke on the altar, as the LORD commanded Moses.
-v11: The flesh and skin he burned with fire outside the camp.
-v12: Then he slaughtered the burnt offering. Aaron’s sons handed the blood to him, and he dashed it against all sides of the altar.
-v13: They handed him the burnt offering piece by piece, together with the head, and he turned them into smoke on the altar.
-v14: He washed the entrails and legs and turned them into smoke with the burnt offering on the altar.
+v07: Then Moses told Aaron, “Approach the altar and present your sin offering and burnt offering, making atonement for yourself and the people. Then present the people’s offering and make atonement for them, as the LORD commanded.”
 </p>
 
-## Aaron Offers for the People
+## Aaron’s Offerings
 
 <p>
-v15: Then Aaron presented the people’s offering. He took the goat of the sin offering for the people, slaughtered it, and offered it for sin like the first.
-v16: He presented the burnt offering and prepared it according to the ordinance.
-v17: He presented the grain offering, filled his hand from it, and turned it into smoke on the altar, in addition to the morning burnt offering.
-v18: Then he slaughtered the ox and the ram, the sacrifice of well-being for the people. Aaron’s sons handed the blood to him, and he dashed it against all sides of the altar.
-v19: They also handed him the fat of the ox and ram—the fat tail, the fat covering the entrails, the kidneys, and the appendage of the liver.
-v20: They placed the fat portions on the breasts, and he turned the fat into smoke on the altar.
-v21: Aaron elevated the breasts and the right thigh as an elevation offering before the LORD, as Moses commanded.
+v08: Aaron approached the altar and slaughtered the calf for his own sin offering.
+v09: Aaron’s sons brought him the blood. He dipped his finger in it, put some on the altar’s horns, and poured the rest at the altar’s base.
+v10: He burned the sin offering’s fat, kidneys, and lobe of the liver on the altar as smoke, just as the LORD had commanded Moses.
+v11: He burned the flesh and skin with fire outside the camp.
 </p>
 
-## The Glory of the LORD Appears
+<p>
+v12: Then he slaughtered the burnt offering. Aaron’s sons handed him the blood, and he splashed it against all sides of the altar.
+v13: They handed him the burnt offering piece by piece, together with the head, and he burned them on the altar as smoke.
+v14: He washed the entrails and legs and burned them on top of the burnt offering on the altar as smoke.
+</p>
+
+## The People’s Offerings
 
 <p>
-v22: Aaron lifted his hands toward the people and blessed them. Then he came down after preparing the sin offering, the burnt offering, and the sacrifices of well-being.
-v23: Moses and Aaron entered the Tent of Meeting. When they came out, they blessed the people, and the glory of the LORD appeared to all the people.
-v24: Fire came out from before the LORD and consumed the burnt offering and the fat portions on the altar. When all the people saw it, they shouted and fell on their faces.
+v15: Next he brought forward the people’s offering. He took their goat for the sin offering, slaughtered it, and presented it as a sin offering just as he had the first one.
+v16: He brought forward the burnt offering and prepared it according to the prescribed rule.
+v17: He brought forward the grain offering, took a handful of it, and burned it on the altar as smoke, in addition to the morning burnt offering.
+</p>
+
+<p>
+v18: He slaughtered the ox and ram as the people’s peace offerings. Aaron’s sons handed him the blood, and he splashed it against all sides of the altar.
+v19: As for the fat portions from the ox and ram—the fat tail, the fat covering the entrails, the kidneys, and the lobe of the liver—
+v20: they placed the fat portions on the breasts, and Aaron burned the fat portions on the altar as smoke.
+v21: Aaron waved the breasts and right thigh as a wave offering before the LORD, as Moses had commanded.
+</p>
+
+## Blessing, Glory, and Fire
+
+<p>
+v22: Aaron lifted his hands toward the people and blessed them. Then he came down after presenting the sin offering, the burnt offering, and the peace offerings.
+v23: Moses and Aaron went into the tent of meeting. When they came out, they blessed the people, and the LORD’s glory appeared to all the people.
+v24: Fire came out from before the LORD and consumed the burnt offering and fat on the altar. All the people saw it, shouted, and fell facedown.
 </p>
 
 ## Notes
 
-v01: The “eighth day” follows the seven days of ordination in chapter 8 and marks the beginning of Aaron’s active priestly service.
+v01: The eighth day follows the seven days of ordination in 8:33–35.
 
-v04: The promised appearance of the LORD gives the ritual instructions a clear goal: divine presence among the people.
+v07: The Hebrew includes the people in both atonement clauses. The ancient Greek version instead has “your household” in the first clause; the draft follows the pinned Hebrew.
 
-v07: Aaron first makes atonement for himself before acting on behalf of the people, preserving the distinction between priest and God.
+v15: The verb used for presenting the goat as a sin offering is related to “purify” in 8:15. The comparison with the earlier offering does not settle every detail of the later dispute about its meat in 10:16–20.
 
-v23–24: The appearance of glory culminates in fire from before the LORD, confirming the altar service while also anticipating the danger of unauthorized fire in chapter 10.
+v22: “Hands” follows the traditional read form. The written form has “his hand.”
+
+v24: The fire’s coming out and consuming is described with the same verbs in 10:2. The people’s shout is not further explained in this verse.
 
 ## Vocabulary
 
-v04: כָּבוֹד (kavod)
-“Glory.” The weight and manifest presence of the LORD.
+v06: כְּבוֹד יְהוָה (kevod YHWH)
+“The LORD’s glory.” The divine glory whose appearance is promised here and narrated in verse 23.
 
-v07: קָרַב (qarav)
-“To draw near.” A recurring verb of approach in priestly service.
+v16: מִשְׁפָּט (mishpaṭ)
+“Prescribed rule.” The established procedure for the offering.
 
-v16: מִשְׁפָּט (mishpat)
-“Ordinance” or “prescribed manner.” The established ritual procedure.
-
-v24: רָנַן (ranan)
-“To shout” or “cry aloud.” The people’s response to the divine fire.
+v24: וַיָּרֹנּוּ (wayyaronnu)
+“They shouted.” A vocal response, followed by falling facedown.

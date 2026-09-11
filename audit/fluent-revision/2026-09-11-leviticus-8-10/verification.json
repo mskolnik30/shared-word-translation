@@ -1,0 +1,473 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T15:44:10.078512+00:00",
+  "base_commit": "89b69d19dab98aeb4ff3383bd1f2765bccd0841a",
+  "scope": "Leviticus 8–10; 80 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 105,
+    "verses": 3106
+  },
+  "source_record_count": 859,
+  "public_source_mapping": "Leviticus 8–10 aligns directly; all 80 records are unique and complete, including the written/read forms at 9:22. Prior Genesis and Exodus public/source differences remain bound unchanged.",
+  "source_annotations_hashed_in_full": [
+    "9:22"
+  ],
+  "focused_assertions": {
+    "8:2": [
+      "Aaron and his sons",
+      "garments",
+      "anointing oil",
+      "bull",
+      "two rams",
+      "unleavened bread"
+    ],
+    "8:7": [
+      "tunic",
+      "sash",
+      "robe",
+      "ephod",
+      "woven waistband"
+    ],
+    "8:8": [
+      "breastpiece",
+      "Urim and Thummim"
+    ],
+    "8:9": [
+      "turban",
+      "gold plate",
+      "holy crown"
+    ],
+    "8:11": [
+      "seven times",
+      "basin and its stand"
+    ],
+    "8:12": [
+      "poured",
+      "Aaron’s head"
+    ],
+    "8:15": [
+      "finger",
+      "horns",
+      "purifying",
+      "base",
+      "atonement"
+    ],
+    "8:16": [
+      "all the fat",
+      "lobe of the liver",
+      "both kidneys"
+    ],
+    "8:17": [
+      "skin, flesh, and dung",
+      "outside the camp"
+    ],
+    "8:22": [
+      "second ram",
+      "ordination"
+    ],
+    "8:23": [
+      "right earlobe",
+      "right thumb",
+      "big toe of his right foot"
+    ],
+    "8:24": [
+      "right earlobes",
+      "right thumbs",
+      "big toes of their right feet",
+      "splashed"
+    ],
+    "8:26": [
+      "one unleavened cake",
+      "one cake made with oil",
+      "one wafer",
+      "right thigh"
+    ],
+    "8:27": [
+      "Aaron’s hands",
+      "sons’ hands",
+      "were waved"
+    ],
+    "8:28": [
+      "from their hands",
+      "on top of the burnt offering"
+    ],
+    "8:29": [
+      "breast",
+      "Moses’ share"
+    ],
+    "8:30": [
+      "anointing oil",
+      "blood from the altar",
+      "Aaron and his garments",
+      "sons and their garments"
+    ],
+    "8:31": [
+      "Boil",
+      "entrance",
+      "Eat it there",
+      "as I commanded"
+    ],
+    "8:32": [
+      "meat and bread"
+    ],
+    "8:33": [
+      "seven days",
+      "ordination"
+    ],
+    "8:35": [
+      "day and night",
+      "seven days",
+      "do not die",
+      "I was commanded"
+    ],
+    "9:1": [
+      "eighth day",
+      "Aaron",
+      "sons",
+      "elders"
+    ],
+    "9:2": [
+      "bull calf",
+      "ram",
+      "both without defect"
+    ],
+    "9:3": [
+      "male goat",
+      "calf and a lamb",
+      "both a year old"
+    ],
+    "9:4": [
+      "ox and a ram",
+      "grain offering mixed with oil",
+      "today"
+    ],
+    "9:7": [
+      "yourself and the people",
+      "people’s offering",
+      "atonement for them"
+    ],
+    "9:9": [
+      "sons brought",
+      "finger",
+      "horns",
+      "base"
+    ],
+    "9:12": [
+      "sons handed",
+      "splashed",
+      "all sides"
+    ],
+    "9:15": [
+      "people’s offering",
+      "goat",
+      "first one"
+    ],
+    "9:17": [
+      "handful",
+      "in addition to the morning"
+    ],
+    "9:20": [
+      "they placed",
+      "Aaron burned"
+    ],
+    "9:21": [
+      "breasts and right thigh",
+      "as Moses had commanded"
+    ],
+    "9:22": [
+      "hands",
+      "blessed",
+      "sin offering",
+      "burnt offering",
+      "peace offerings"
+    ],
+    "9:23": [
+      "Moses and Aaron",
+      "came out",
+      "all the people"
+    ],
+    "9:24": [
+      "consumed",
+      "shouted",
+      "fell facedown"
+    ],
+    "10:1": [
+      "Nadab and Abihu",
+      "each",
+      "firepan",
+      "incense",
+      "not commanded"
+    ],
+    "10:2": [
+      "consumed them",
+      "they died"
+    ],
+    "10:3": [
+      "show myself holy",
+      "honored",
+      "Aaron was silent"
+    ],
+    "10:4": [
+      "Mishael and Elzaphan",
+      "Aaron’s uncle Uzziel",
+      "relatives"
+    ],
+    "10:5": [
+      "in their tunics"
+    ],
+    "10:6": [
+      "Eleazar and Ithamar",
+      "hair hang loose",
+      "tear your clothes",
+      "wrath",
+      "whole community",
+      "may mourn"
+    ],
+    "10:8": [
+      "LORD spoke to Aaron"
+    ],
+    "10:9": [
+      "wine or other intoxicating drink",
+      "when you enter",
+      "do not die"
+    ],
+    "10:10": [
+      "holy and the common",
+      "unclean and the clean"
+    ],
+    "10:11": [
+      "teach",
+      "all the statutes",
+      "through Moses"
+    ],
+    "10:12": [
+      "surviving sons",
+      "without leaven",
+      "beside the altar",
+      "most holy"
+    ],
+    "10:14": [
+      "clean place",
+      "sons and daughters"
+    ],
+    "10:15": [
+      "lasting share",
+      "you and your sons"
+    ],
+    "10:16": [
+      "searched carefully",
+      "burned",
+      "angry",
+      "surviving sons"
+    ],
+    "10:17": [
+      "bear the community’s guilt",
+      "atonement"
+    ],
+    "10:18": [
+      "not brought inside",
+      "should certainly have eaten"
+    ],
+    "10:19": [
+      "Today they",
+      "happened to me",
+      "would that have pleased"
+    ],
+    "10:20": [
+      "Moses heard",
+      "satisfied"
+    ]
+  },
+  "TSW_prior_revisions_Companion_and_unaffected_approvals_preserved": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 80 selected pinned Hebrew records including the written/read note at 9:22, drafted independently, then read all TSW comparators and selected NET translator notes. It reread the complete assembled chapters and checked garments, ritual actors, right-side body applications, animal quantities, seven/eighth-day sequence, repeated commands, divine fire, death and mourning, holy/clean categories, daughters’ portions and Aaron’s response. This is an authoring self-check, not independent scholarly review.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

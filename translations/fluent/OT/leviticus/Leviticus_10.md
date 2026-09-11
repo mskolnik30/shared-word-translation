@@ -4,83 +4,95 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-8-10-biblical-fluency-2026-09-11
 ---
 
-## Nadab and Abihu
+## The Deaths of Nadab and Abihu
 
 <p>
-v01: Nadab and Abihu, sons of Aaron, each took his firepan, put fire in it, placed incense on it, and brought unauthorized fire before the LORD, which the LORD had not commanded them.
+v01: Aaron’s sons Nadab and Abihu each took his firepan, put fire in it, and laid incense on it. They presented unauthorized fire before the LORD, which he had not commanded them to offer.
 v02: Fire came out from before the LORD and consumed them, and they died before the LORD.
-v03: Then Moses said to Aaron, “This is what the LORD spoke, saying:
-
-‘Among people who come near me, I will show myself holy,
-and before all the people I will be glorified.’”
-
-Aaron was silent.
+v03: Moses said to Aaron, “This is what the LORD said:
+‘Among those near me I will show myself holy;
+before all the people I will be honored.’”
+And Aaron was silent.
 </p>
 
 ## Mourning and Priestly Duty
 
 <p>
-v04: Moses called Mishael and Elzaphan, sons of Uzziel, Aaron’s uncle, and said to them, “Come near and carry your relatives away from the front of the sanctuary to a place outside the camp.”
-v05: So they came near and carried them in their tunics outside the camp, as Moses had said.
-v06: Then Moses said to Aaron and to his sons Eleazar and Ithamar, “Do not let the hair of your heads go loose and do not tear your garments, so that you do not die and wrath does not come upon the whole congregation. But your relatives, the whole house of Israel, may mourn the burning that the LORD has kindled.
-v07: You will not go outside the entrance of the Tent of Meeting, or you will die, for the LORD’s anointing oil is upon you.” And they did according to the word of Moses.
+v04: Moses called Mishael and Elzaphan, the sons of Aaron’s uncle Uzziel. He told them, “Come forward and carry your relatives away from the front of the sanctuary to a place outside the camp.”
+v05: They came forward and carried them outside the camp in their tunics, as Moses had said.
 </p>
 
-## Distinguish the Holy from the Common
-
 <p>
-v08: The LORD spoke to Aaron, saying,
-v09: “You and your sons with you will drink no wine or strong drink when you enter the Tent of Meeting, so that you do not die. This is a perpetual statute throughout your generations,
-v10: so that you may distinguish between the holy and the common, and between the unclean and the clean,
-v11: and so that you may teach the Israelites all the statutes that the LORD has spoken to them through Moses.”
+v06: Moses told Aaron and his sons Eleazar and Ithamar, “Do not let your hair hang loose or tear your clothes, so that you do not die and wrath does not fall on the whole community. But your relatives, the whole house of Israel, may mourn the burning the LORD has brought about.
+v07: Do not leave the entrance of the tent of meeting, or you may die, because the LORD’s anointing oil is on you.” They did as Moses said.
 </p>
 
-## The Priests’ Portions
+## Distinguishing and Teaching
 
 <p>
-v12: Moses spoke to Aaron and to Eleazar and Ithamar, his remaining sons: “Take the grain offering that remains from the offerings by fire to the LORD and eat it unleavened beside the altar, for it is most holy.
-v13: You will eat it in a holy place, because it is your portion and your sons’ portion from the offerings by fire to the LORD, for so I have been commanded.
-v14: But the breast of the elevation offering and the thigh of the contribution you may eat in a clean place, you and your sons and daughters with you, for they are given as your portion and your children’s portion from the Israelites’ sacrifices of well-being.
-v15: They will bring the thigh of the contribution and the breast of the elevation offering together with the fat portions offered by fire, to elevate them as an elevation offering before the LORD. They will belong to you and your children with you as a perpetual portion, as the LORD commanded.”
+v08: The LORD spoke to Aaron:
+v09: “You and your sons with you must not drink wine or other intoxicating drink when you enter the tent of meeting, so that you do not die. This is a lasting statute throughout your generations.
+v10: You must distinguish between the holy and the common, and between the unclean and the clean,
+v11: and teach the Israelites all the statutes the LORD has given them through Moses.”
 </p>
 
-## Moses and Aaron Concerning the Sin Offering
+## The Priestly Portions
 
 <p>
-v16: Moses carefully searched for the goat of the sin offering, and look—it had been burned. He became angry with Eleazar and Ithamar, Aaron’s remaining sons, saying,
-v17: “Why did you not eat the sin offering in the holy place? It is most holy, and the LORD gave it to you to bear the guilt of the congregation, to make atonement for them before the LORD.
-v18: Look, its blood was not brought inside the sanctuary. You certainly should have eaten it in the sanctuary, as I commanded.”
-v19: Aaron said to Moses, “Look, today they presented their sin offering and their burnt offering before the LORD, and such things as these have happened to me. If I had eaten the sin offering today, would it have been good in the eyes of the LORD?”
-v20: When Moses heard this, it was good in his eyes.
+v12: Moses told Aaron and his surviving sons Eleazar and Ithamar, “Take the grain offering left from the LORD’s offerings by fire, and eat it without leaven beside the altar, because it is most holy.
+v13: Eat it in a holy place, for it is your share and your sons’ share of the LORD’s offerings by fire. This is what I was commanded.
+</p>
+
+<p>
+v14: But you may eat the breast of the wave offering and the contributed thigh in a clean place, you and your sons and daughters with you. They have been given as your share and your sons’ share from the Israelites’ peace offerings.
+v15: The contributed thigh and the breast of the wave offering are to be brought with the fat portions offered by fire, to be waved before the LORD. They will be a lasting share for you and your sons with you, as the LORD commanded.”
+</p>
+
+## Aaron Answers Moses
+
+<p>
+v16: Moses searched carefully for the goat of the sin offering—and found that it had been burned. He was angry with Aaron’s surviving sons Eleazar and Ithamar and said,
+v17: “Why did you not eat the sin offering in the holy place? It is most holy, and the LORD gave it to you to bear the community’s guilt and make atonement for them before the LORD.
+v18: Its blood was not brought inside the sanctuary. You should certainly have eaten it in a holy place, as I commanded!”
+</p>
+
+<p>
+v19: Aaron answered Moses, “Today they presented their sin offering and burnt offering before the LORD, yet these things have happened to me. If I had eaten a sin offering today, would that have pleased the LORD?”
+v20: When Moses heard this, he was satisfied.
 </p>
 
 ## Notes
 
-v01: “unauthorized fire” — The Hebrew literally says “strange fire,” defined immediately as fire the LORD had not commanded. The text does not specify the exact procedural violation beyond that.
+v01: “Unauthorized fire” is literally “foreign” or “strange fire.” The verse says it was not commanded but does not identify the precise procedural violation. The later rule about drink does not state that Nadab and Abihu were drunk.
 
-v03: Aaron’s silence is left uninterpreted. The narrative does not tell the reader whether it reflects grief, submission, shock, or another response.
+v03: “I will show myself holy” can also mean “I will be treated as holy.” Aaron’s silence is reported without an explanation of his thoughts.
 
-v09–11: The prohibition of alcohol is directly tied to priestly discernment and teaching, not stated here as a general prohibition for all Israelites.
+v06: The first mourning restriction may concern loosened hair or removal of the head covering. The wider Israelite community is allowed to mourn.
 
-v10: “holy/common” and “unclean/clean” are distinct pairs. Ritual categories are not simply synonyms for moral good and evil.
+v09–11: These instructions address priests entering the tent and their duties of distinguishing and teaching. Holy/common and unclean/clean are separate pairs.
 
-v19–20: Aaron’s argument is accepted by Moses, showing that ritual instruction is applied within the reality of catastrophic grief rather than mechanically detached from circumstance.
+v14: Daughters are explicitly included for these portions in a clean place. The grain offering in verses 12–13 requires a holy place and is assigned to Aaron and his sons.
+
+v17: “Bear the community’s guilt” is retained. Whether eating the offering performs this role or provides the priests’ share for their service is not spelled out.
+
+v19–20: Aaron speaks of what has happened to him without explicitly naming a rule. The referent of “they” is left open. His question about pleasing the LORD is followed by the same Hebrew idiom describing Moses’ acceptance.
 
 ## Vocabulary
 
-v01: אֵשׁ זָרָה (esh zarah)
-“Unauthorized fire,” literally “strange fire.” Fire not commanded for the act performed.
+v01: מַחְתָּה (maḥtah)
+“Firepan.” A vessel used here to hold fire and incense.
 
 v03: דָּמַם (damam)
-“To be silent.” Aaron’s wordless response after the deaths of his sons.
+“Be silent.” The verb used for Aaron’s response.
 
-v10: חֹל (chol)
-“Common.” What is not set apart as holy.
+v10: קֹדֶשׁ (qodesh); חֹל (ḥol)
+“Holy”; “common.” What is set apart as holy and what is not.
 
-v10: טָמֵא (tame)
-“Unclean.” A ritual state restricting access to holy things.
-
-v10: טָהוֹר (tahor)
-“Clean.” A ritual state permitting ordinary or sacred participation as prescribed.
+v10: טָמֵא (ṭameʾ); טָהוֹר (ṭahor)
+“Unclean”; “clean.” Ritual conditions affecting what may be handled, eaten, or approached.

@@ -1,0 +1,820 @@
+{
+  "scope": "Leviticus 8–10; 80 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 71,
+      "near_identical_verses": 9,
+      "mean_similarity": 0.995351,
+      "verses": [
+        {
+          "reference": "Leviticus 8:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:31",
+          "identical": false,
+          "similarity": 0.976744
+        },
+        {
+          "reference": "Leviticus 8:32",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Leviticus 8:33",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 8:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 8:35",
+          "identical": false,
+          "similarity": 0.970588
+        },
+        {
+          "reference": "Leviticus 8:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 9:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:3",
+          "identical": false,
+          "similarity": 0.957746
+        },
+        {
+          "reference": "Leviticus 10:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:7",
+          "identical": false,
+          "similarity": 0.969697
+        },
+        {
+          "reference": "Leviticus 10:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:9",
+          "identical": false,
+          "similarity": 0.970588
+        },
+        {
+          "reference": "Leviticus 10:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:13",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Leviticus 10:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:15",
+          "identical": false,
+          "similarity": 0.960784
+        },
+        {
+          "reference": "Leviticus 10:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:20",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 1,
+      "near_identical_verses": 8,
+      "mean_similarity": 0.772292,
+      "verses": [
+        {
+          "reference": "Leviticus 8:1",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 8:2",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Leviticus 8:3",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 8:4",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Leviticus 8:5",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Leviticus 8:6",
+          "identical": false,
+          "similarity": 0.88
+        },
+        {
+          "reference": "Leviticus 8:7",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 8:8",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 8:9",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Leviticus 8:10",
+          "identical": false,
+          "similarity": 0.903226
+        },
+        {
+          "reference": "Leviticus 8:11",
+          "identical": false,
+          "similarity": 0.830189
+        },
+        {
+          "reference": "Leviticus 8:12",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 8:13",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Leviticus 8:14",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Leviticus 8:15",
+          "identical": false,
+          "similarity": 0.588235
+        },
+        {
+          "reference": "Leviticus 8:16",
+          "identical": false,
+          "similarity": 0.678571
+        },
+        {
+          "reference": "Leviticus 8:17",
+          "identical": false,
+          "similarity": 0.863636
+        },
+        {
+          "reference": "Leviticus 8:18",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Leviticus 8:19",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Leviticus 8:20",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Leviticus 8:21",
+          "identical": false,
+          "similarity": 0.825
+        },
+        {
+          "reference": "Leviticus 8:22",
+          "identical": false,
+          "similarity": 0.863636
+        },
+        {
+          "reference": "Leviticus 8:23",
+          "identical": false,
+          "similarity": 0.741935
+        },
+        {
+          "reference": "Leviticus 8:24",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 8:25",
+          "identical": false,
+          "similarity": 0.872727
+        },
+        {
+          "reference": "Leviticus 8:26",
+          "identical": false,
+          "similarity": 0.953846
+        },
+        {
+          "reference": "Leviticus 8:27",
+          "identical": false,
+          "similarity": 0.652174
+        },
+        {
+          "reference": "Leviticus 8:28",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Leviticus 8:29",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Leviticus 8:30",
+          "identical": false,
+          "similarity": 0.738095
+        },
+        {
+          "reference": "Leviticus 8:31",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Leviticus 8:32",
+          "identical": false,
+          "similarity": 0.222222
+        },
+        {
+          "reference": "Leviticus 8:33",
+          "identical": false,
+          "similarity": 0.655172
+        },
+        {
+          "reference": "Leviticus 8:34",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 8:35",
+          "identical": false,
+          "similarity": 0.818182
+        },
+        {
+          "reference": "Leviticus 8:36",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Leviticus 9:1",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 9:2",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Leviticus 9:3",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Leviticus 9:4",
+          "identical": false,
+          "similarity": 0.881356
+        },
+        {
+          "reference": "Leviticus 9:5",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 9:6",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Leviticus 9:7",
+          "identical": false,
+          "similarity": 0.831169
+        },
+        {
+          "reference": "Leviticus 9:8",
+          "identical": false,
+          "similarity": 0.580645
+        },
+        {
+          "reference": "Leviticus 9:9",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Leviticus 9:10",
+          "identical": false,
+          "similarity": 0.64
+        },
+        {
+          "reference": "Leviticus 9:11",
+          "identical": false,
+          "similarity": 0.818182
+        },
+        {
+          "reference": "Leviticus 9:12",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Leviticus 9:13",
+          "identical": false,
+          "similarity": 0.863636
+        },
+        {
+          "reference": "Leviticus 9:14",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Leviticus 9:15",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Leviticus 9:16",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Leviticus 9:17",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 9:18",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Leviticus 9:19",
+          "identical": false,
+          "similarity": 0.792453
+        },
+        {
+          "reference": "Leviticus 9:20",
+          "identical": false,
+          "similarity": 0.756757
+        },
+        {
+          "reference": "Leviticus 9:21",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Leviticus 9:22",
+          "identical": false,
+          "similarity": 0.851852
+        },
+        {
+          "reference": "Leviticus 9:23",
+          "identical": false,
+          "similarity": 0.867925
+        },
+        {
+          "reference": "Leviticus 9:24",
+          "identical": false,
+          "similarity": 0.862069
+        },
+        {
+          "reference": "Leviticus 10:1",
+          "identical": false,
+          "similarity": 0.738462
+        },
+        {
+          "reference": "Leviticus 10:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 10:3",
+          "identical": false,
+          "similarity": 0.865672
+        },
+        {
+          "reference": "Leviticus 10:4",
+          "identical": false,
+          "similarity": 0.848485
+        },
+        {
+          "reference": "Leviticus 10:5",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 10:6",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Leviticus 10:7",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 10:8",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 10:9",
+          "identical": false,
+          "similarity": 0.869565
+        },
+        {
+          "reference": "Leviticus 10:10",
+          "identical": false,
+          "similarity": 0.882353
+        },
+        {
+          "reference": "Leviticus 10:11",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Leviticus 10:12",
+          "identical": false,
+          "similarity": 0.694444
+        },
+        {
+          "reference": "Leviticus 10:13",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Leviticus 10:14",
+          "identical": false,
+          "similarity": 0.681818
+        },
+        {
+          "reference": "Leviticus 10:15",
+          "identical": false,
+          "similarity": 0.610526
+        },
+        {
+          "reference": "Leviticus 10:16",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Leviticus 10:17",
+          "identical": false,
+          "similarity": 0.918919
+        },
+        {
+          "reference": "Leviticus 10:18",
+          "identical": false,
+          "similarity": 0.809524
+        },
+        {
+          "reference": "Leviticus 10:19",
+          "identical": false,
+          "similarity": 0.731707
+        },
+        {
+          "reference": "Leviticus 10:20",
+          "identical": false,
+          "similarity": 0.588235
+        }
+      ]
+    }
+  }
+}
