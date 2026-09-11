@@ -1,0 +1,535 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T17:02:28.162673+00:00",
+  "base_commit": "8980e86d3e2e0a31a3eea88057e9492975c999a8",
+  "scope": "Leviticus 16–17; 50 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 149,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-16-17/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 112,
+    "verses": 3360
+  },
+  "source_record_count": 859,
+  "public_source_mapping": "Leviticus 16–17 aligns directly; all 50 records are unique and complete, including written hand and read hands forms at 16:21. Prior Genesis and Exodus public/source differences remain bound unchanged.",
+  "source_annotations_hashed_in_full": [
+    "16:21"
+  ],
+  "focused_assertions": {
+    "16:1": [
+      "Aaron's two sons",
+      "died",
+      "drew near"
+    ],
+    "16:2": [
+      "your brother Aaron",
+      "whenever he wishes",
+      "behind the curtain",
+      "atonement cover",
+      "ark",
+      "will die",
+      "cloud"
+    ],
+    "16:3": [
+      "young bull",
+      "sin offering",
+      "ram",
+      "burnt offering"
+    ],
+    "16:4": [
+      "linen tunic",
+      "linen undergarments",
+      "linen sash",
+      "linen turban",
+      "bathe",
+      "before putting"
+    ],
+    "16:5": [
+      "two male goats",
+      "sin offering",
+      "one ram",
+      "burnt offering"
+    ],
+    "16:6": [
+      "himself",
+      "household"
+    ],
+    "16:7": [
+      "two goats",
+      "before the LORD",
+      "entrance"
+    ],
+    "16:8": [
+      "lots",
+      "for the LORD",
+      "for Azazel"
+    ],
+    "16:9": [
+      "for the LORD",
+      "sin offering"
+    ],
+    "16:10": [
+      "alive before the LORD",
+      "atonement over it",
+      "send it away",
+      "wilderness"
+    ],
+    "16:11": [
+      "own sin offering",
+      "himself and his household",
+      "slaughter"
+    ],
+    "16:12": [
+      "censer full",
+      "burning coals",
+      "two handfuls",
+      "finely ground",
+      "behind the curtain"
+    ],
+    "16:13": [
+      "cloud",
+      "above the testimony",
+      "will not die"
+    ],
+    "16:14": [
+      "finger",
+      "east side",
+      "seven times in front"
+    ],
+    "16:15": [
+      "people's sin offering",
+      "behind the curtain",
+      "bull's blood",
+      "on the atonement cover",
+      "in front"
+    ],
+    "16:16": [
+      "inner sanctuary",
+      "Israelites' impurities and rebellions",
+      "all their sins",
+      "tent of meeting",
+      "midst of their impurities"
+    ],
+    "16:17": [
+      "No one else",
+      "from the time",
+      "until he comes out",
+      "himself",
+      "household",
+      "whole assembly"
+    ],
+    "16:18": [
+      "go out",
+      "altar",
+      "bull's blood",
+      "goat's blood",
+      "horns all around"
+    ],
+    "16:19": [
+      "finger seven times",
+      "cleansing",
+      "making it holy"
+    ],
+    "16:20": [
+      "finished",
+      "inner sanctuary",
+      "tent of meeting",
+      "altar",
+      "live goat"
+    ],
+    "16:21": [
+      "both hands",
+      "live goat",
+      "all the Israelites' wrongdoing",
+      "all their rebellions",
+      "all their sins",
+      "goat's head",
+      "man appointed"
+    ],
+    "16:22": [
+      "carry all their wrongdoing",
+      "remote land",
+      "release"
+    ],
+    "16:23": [
+      "take off",
+      "linen garments",
+      "leave them there"
+    ],
+    "16:24": [
+      "bathe",
+      "holy place",
+      "put on his clothes",
+      "his burnt offering",
+      "people's burnt offering",
+      "himself and for the people"
+    ],
+    "16:25": [
+      "fat",
+      "sin offering",
+      "altar"
+    ],
+    "16:26": [
+      "Azazel",
+      "wash his clothes",
+      "bathe his body",
+      "After that",
+      "enter the camp"
+    ],
+    "16:27": [
+      "bull and goat",
+      "outside the camp",
+      "hides, flesh, and dung",
+      "burned in the fire"
+    ],
+    "16:28": [
+      "wash their clothes",
+      "bathe their body",
+      "After that",
+      "enter the camp"
+    ],
+    "16:29": [
+      "tenth day of the seventh month",
+      "deny yourselves",
+      "do no work",
+      "native-born",
+      "foreigners living among you"
+    ],
+    "16:30": [
+      "atonement will be made",
+      "clean from all your sins before the LORD"
+    ],
+    "16:31": [
+      "sabbath of complete rest",
+      "deny yourselves",
+      "lasting statute"
+    ],
+    "16:32": [
+      "anointed and ordained",
+      "father's place",
+      "linen garments",
+      "holy garments"
+    ],
+    "16:33": [
+      "inner sanctuary",
+      "tent of meeting",
+      "altar",
+      "priests",
+      "all the assembled people"
+    ],
+    "16:34": [
+      "lasting statute",
+      "once a year",
+      "all their sins",
+      "Aaron did",
+      "commanded Moses"
+    ],
+    "17:1": [
+      "Moses"
+    ],
+    "17:2": [
+      "Aaron, his sons, and all the Israelites"
+    ],
+    "17:3": [
+      "house of Israel",
+      "ox",
+      "sheep",
+      "goat",
+      "inside or outside the camp"
+    ],
+    "17:4": [
+      "entrance",
+      "offering",
+      "tabernacle",
+      "guilty of bloodshed",
+      "shed blood",
+      "cut off from their people"
+    ],
+    "17:5": [
+      "open country",
+      "priest",
+      "peace offerings"
+    ],
+    "17:6": [
+      "splash",
+      "blood",
+      "fat",
+      "pleasing aroma"
+    ],
+    "17:7": [
+      "no longer",
+      "goat demons",
+      "prostituting themselves",
+      "generations"
+    ],
+    "17:8": [
+      "house of Israel",
+      "foreigner living among them",
+      "burnt offering or a sacrifice"
+    ],
+    "17:9": [
+      "entrance",
+      "cut off"
+    ],
+    "17:10": [
+      "foreigner living among them",
+      "any blood",
+      "I will set my face",
+      "cut them off"
+    ],
+    "17:11": [
+      "life of the flesh",
+      "in the blood",
+      "I myself have given",
+      "altar",
+      "your lives",
+      "through the life it carries"
+    ],
+    "17:12": [
+      "None of you",
+      "no foreigner living among you"
+    ],
+    "17:13": [
+      "Israelite",
+      "foreigner living among them",
+      "hunts",
+      "wild animal or bird",
+      "may be eaten",
+      "pour out its blood",
+      "cover it with earth"
+    ],
+    "17:14": [
+      "life of every creature",
+      "blood",
+      "carries its life",
+      "cut off"
+    ],
+    "17:15": [
+      "native-born or a foreigner",
+      "died on its own",
+      "torn by wild animals",
+      "wash their clothes",
+      "bathe in water",
+      "unclean until evening",
+      "then they will be clean"
+    ],
+    "17:16": [
+      "do not wash",
+      "and do not bathe",
+      "bear their guilt"
+    ]
+  },
+  "TSW_prior_revisions_Companion_and_unaffected_approvals_preserved": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 50 pinned Hebrew records including written/read forms at 16:21 before drafting, then selected NET lexical and grammatical notes. All TSW comparators were read after drafting. The assembled text was reread. Focused checks cover sanctuary spaces, all four linen garments, animal counts and beneficiaries, lots and four occurrences of Azazel, incense and blood applications, both hands and complete confession, live release, cleansing of attendants, exact annual date and native/foreigner scope, priestly succession, broad slaughter wording, bloodguilt, goat-demon metaphor, repeated blood/life language, edible hunted game and carrion consequences. This is an authoring self-check, not independent scholarly review.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

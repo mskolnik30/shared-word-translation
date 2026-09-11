@@ -4,100 +4,133 @@ testament: OT
 chapter: 16
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-16-17-biblical-fluency-2026-09-11
 ---
 
-## Entering the Most Holy Place
+## Approaching the inner sanctuary
 
 <p>
-v01: The LORD spoke to Moses after the death of Aaron’s two sons, when they drew near before the LORD and died.
-v02: The LORD said to Moses, “Tell Aaron your brother that he must not enter at any time into the Holy Place inside the curtain, before the atonement cover that is upon the ark, or he will die, for I will appear in the cloud over the atonement cover.
-v03: Aaron will enter the Holy Place in this way: with a young bull for a sin offering and a ram for a burnt offering.
-v04: He will put on the holy linen tunic, with linen undergarments next to his body, bind himself with the linen sash, and wrap the linen turban around his head. These are holy garments. He will bathe his body in water and then put them on.
-v05: From the congregation of the Israelites he will take two male goats for a sin offering and one ram for a burnt offering.
-</p>
-
-## The Two Goats
-
-<p>
-v06: Aaron will present the bull of the sin offering that is for himself and make atonement for himself and for his household.
-v07: Then he will take the two goats and set them before the LORD at the entrance of the Tent of Meeting.
-v08: Aaron will cast lots over the two goats, one lot for the LORD and one lot for Azazel.
-v09: Aaron will bring forward the goat on which the lot for the LORD fell and prepare it as a sin offering.
-v10: But the goat on which the lot for Azazel fell will be presented alive before the LORD to make atonement over it, so that it may be sent away into the wilderness for Azazel.
-</p>
-
-## Atonement for Aaron and the Sanctuary
-
-<p>
-v11: Aaron will bring forward the bull of the sin offering that is for himself, make atonement for himself and his household, and slaughter the bull of the sin offering that is for himself.
-v12: He will take a firepan full of burning coals from the altar before the LORD and two handfuls of finely ground fragrant incense and bring them inside the curtain.
-v13: He will put the incense on the fire before the LORD, so that the cloud of incense covers the atonement cover that is over the testimony, and he will not die.
-v14: He will take some of the bull’s blood and sprinkle it with his finger on the east side of the atonement cover. Before the atonement cover he will sprinkle some of the blood with his finger seven times.
+v01: The LORD spoke to Moses after Aaron's two sons died when they drew near before the LORD.
+v02: The LORD said to Moses, “Tell your brother Aaron that he must not enter the inner sanctuary whenever he wishes, going behind the curtain before the atonement cover on the ark. Otherwise he will die, because I appear in the cloud above the atonement cover.
 </p>
 
 <p>
-v15: Then he will slaughter the goat of the sin offering that is for the people and bring its blood inside the curtain. He will do with its blood as he did with the bull’s blood, sprinkling it on the atonement cover and before the atonement cover.
-v16: Thus he will make atonement for the Holy Place because of the uncleannesses of the Israelites and because of their transgressions, all their sins. He will do the same for the Tent of Meeting, which dwells with them among their uncleannesses.
-v17: No one will be in the Tent of Meeting from the time he enters to make atonement in the Holy Place until he comes out and has made atonement for himself, for his household, and for the whole assembly of Israel.
-v18: Then he will go out to the altar that is before the LORD and make atonement for it. He will take some of the bull’s blood and some of the goat’s blood and put it on the horns of the altar on all sides.
-v19: He will sprinkle some of the blood on it with his finger seven times and cleanse it and make it holy from the uncleannesses of the Israelites.
+v03: This is how Aaron must enter the inner sanctuary: with a young bull for a sin offering and a ram for a burnt offering.
+v04: He must wear a holy linen tunic and linen undergarments next to his body, tie on a linen sash, and wrap a linen turban around his head. These are holy garments. He must bathe his body in water before putting them on.
+v05: From the Israelite community he must take two male goats for a sin offering and one ram for a burnt offering.
 </p>
 
-## The Goat Sent Away
+## The bull and the two goats
 
 <p>
-v20: When Aaron has finished making atonement for the Holy Place, the Tent of Meeting, and the altar, he will bring forward the live goat.
-v21: Aaron will lay both his hands on the head of the live goat and confess over it all the iniquities of the Israelites and all their transgressions, all their sins. He will place them on the head of the goat and send it away into the wilderness by the hand of a person appointed for the task.
-v22: The goat will carry upon itself all their iniquities to a remote land, and the person will release the goat in the wilderness.
+v06: Aaron must present the bull for his own sin offering and make atonement for himself and his household.
 </p>
 
-## Completing the Offerings
-
 <p>
-v23: Aaron will enter the Tent of Meeting, take off the linen garments he put on when he entered the Holy Place, and leave them there.
-v24: He will bathe his body in water in a holy place and put on his garments. Then he will come out and prepare his burnt offering and the people’s burnt offering, making atonement for himself and for the people.
-v25: He will turn the fat of the sin offering into smoke on the altar.
-v26: The one who releases the goat for Azazel will wash his clothes and bathe his body in water, and afterward may come into the camp.
-v27: The bull of the sin offering and the goat of the sin offering, whose blood was brought into the Holy Place to make atonement, will be carried outside the camp, and their skins, flesh, and dung will be burned with fire.
-v28: The one who burns them will wash his clothes and bathe his body in water, and afterward may come into the camp.
+v07: He must take the two goats and stand them before the LORD at the entrance to the tent of meeting.
+v08: Aaron must cast lots for the two goats, one lot for the LORD and one for Azazel.
+v09: He must bring forward the goat chosen by the lot for the LORD and offer it as a sin offering.
+v10: But the goat chosen by the lot for Azazel must be kept alive before the LORD, to make atonement over it and send it away to Azazel in the wilderness.
 </p>
 
-## The Day of Atonement
+## Blood and incense in the sanctuary
 
 <p>
-v29: This will be a perpetual statute for you: in the seventh month, on the tenth day of the month, you will humble yourselves and do no work, whether the native-born or the resident alien who lives among you.
-v30: For on this day atonement will be made for you, to cleanse you; from all your sins you will be clean before the LORD.
-v31: It will be a Sabbath of complete rest for you, and you will humble yourselves. It is a perpetual statute.
-v32: The priest who is anointed and whose hand is filled to serve as priest in his father’s place will make atonement. He will put on the linen garments, the holy garments,
-v33: and make atonement for the holy sanctuary, the Tent of Meeting, and the altar; he will make atonement for the priests and for all the people of the assembly.
-v34: This will be a perpetual statute for you, to make atonement for the Israelites because of all their sins once each year.” And it was done as the LORD commanded Moses.
+v11: Aaron must present the bull for his own sin offering and make atonement for himself and his household. He must slaughter the bull for his own sin offering.
+v12: He must take a censer full of burning coals from the altar before the LORD and two handfuls of finely ground fragrant incense, and bring them behind the curtain.
+v13: There before the LORD, he must put the incense on the coals so that its cloud covers the atonement cover above the testimony. Then he will not die.
+v14: He must take some of the bull's blood and sprinkle it with his finger on the east side of the atonement cover. Then he must sprinkle some of the blood with his finger seven times in front of the cover.
+</p>
+
+<p>
+v15: He must slaughter the goat for the people's sin offering and bring its blood behind the curtain. He must do with its blood what he did with the bull's blood, sprinkling it on the atonement cover and in front of it.
+v16: In this way he must make atonement for the inner sanctuary because of the Israelites' impurities and rebellions, all their sins. He must do the same for the tent of meeting, which stands among them in the midst of their impurities.
+v17: No one else may be in the tent of meeting from the time Aaron enters to make atonement in the inner sanctuary until he comes out. He must make atonement for himself, his household, and the whole assembly of Israel.
+</p>
+
+<p>
+v18: Then he must go out to the altar before the LORD and make atonement for it. He must take some of the bull's blood and the goat's blood and put it on the horns all around the altar.
+v19: He must sprinkle some of the blood on it with his finger seven times, cleansing it from the Israelites' impurities and making it holy.
+</p>
+
+## Sending away the live goat
+
+<p>
+v20: When he has finished making atonement for the inner sanctuary, the tent of meeting, and the altar, he must bring forward the live goat.
+v21: Aaron must lay both hands on the live goat's head and confess over it all the Israelites' wrongdoing and all their rebellions, all their sins. He must place them on the goat's head and send it into the wilderness with a man appointed for the task.
+v22: The goat will carry all their wrongdoing on itself to a remote land. The man must release the goat in the wilderness.
+</p>
+
+## Completing the rites
+
+<p>
+v23: Aaron must then enter the tent of meeting, take off the linen garments he wore when he entered the inner sanctuary, and leave them there.
+v24: He must bathe his body in water in a holy place and put on his clothes. Then he must come out and offer his burnt offering and the people's burnt offering, making atonement for himself and for the people.
+v25: He must burn the fat of the sin offering on the altar.
+</p>
+
+<p>
+v26: The man who releases the goat for Azazel must wash his clothes and bathe his body in water. After that he may enter the camp.
+</p>
+
+<p>
+v27: The bull and goat of the sin offerings, whose blood was brought into the inner sanctuary for atonement, must be taken outside the camp. Their hides, flesh, and dung must be burned in the fire.
+v28: The person who burns them must wash their clothes and bathe their body in water. After that they may enter the camp.
+</p>
+
+## A lasting annual observance
+
+<p>
+v29: This is a lasting statute for you. On the tenth day of the seventh month, you must deny yourselves and do no work. This applies to both the native-born and foreigners living among you.
+v30: For on this day atonement will be made for you to cleanse you. You will be clean from all your sins before the LORD.
+v31: It is a sabbath of complete rest for you, and you must deny yourselves. This is a lasting statute.
+</p>
+
+<p>
+v32: The priest anointed and ordained to serve in his father's place must make atonement. He must put on the linen garments, the holy garments,
+v33: and make atonement for the inner sanctuary. He must make atonement for the tent of meeting and the altar, and for the priests and all the assembled people.
+v34: This is a lasting statute for you: atonement must be made for the Israelites once a year for all their sins.” Aaron did as the LORD had commanded Moses.
 </p>
 
 ## Notes
 
-v02: “atonement cover” — The Hebrew *kapporet* names the cover of the ark and is related to the language of atonement. TSW avoids the traditional “mercy seat,” which adds interpretive content not explicit in the noun itself.
+v2: “Inner sanctuary” identifies the holy space behind the curtain, where the ark stood. The restriction governs entry; the following instructions describe the permitted approach.
 
-v08: “Azazel” — The Hebrew term is difficult and may refer to a wilderness figure, a place, or another concept. TSW retains the name rather than resolving it as “scapegoat.”
+v8–10: Azazel is uncertain: proposals include a wilderness being, a remote place, or the removal of the goat. The Hebrew term is retained. Verses 21–22 describe the live goat carrying wrongdoing away.
 
-v16: Atonement is made not only for people but for sacred space, because the sanctuary dwells among a people marked by uncleanness and sin.
+v10: “Make atonement over it” preserves the Hebrew wording. It can also be understood as making atonement for the goat or using it to make atonement.
 
-v21–22: The live goat carries the confessed iniquities away from the community. The action is described concretely without a separate explanation of its symbolism.
+v14: “On the east side” can also be read “eastward.” The seven sprinklings in front of the cover are distinguished from the preceding application.
 
-v29: “humble yourselves” — The Hebrew literally speaks of afflicting one’s *nefesh*. In this context it became associated with fasting and self-denial, but the broader wording is retained.
+v18: The altar is not named more specifically here. Compare the annual atonement on the incense altar in Exodus 30:10.
+
+v21–22: “Appointed” can also mean “ready.” The man takes the goat to a remote region and releases it; no further action is described here.
+
+v29–31: “Deny yourselves” renders language of humbling or afflicting oneself, expressed in practices such as fasting. The tenth day of the seventh month is specified, together with complete rest.
+
+v30: “From all your sins” can also be attached to the earlier clause: “to cleanse you from all your sins.”
+
+v34: The Hebrew ends “and he did.” Aaron is understood as the actor; another rendering is “it was done.” No date for that performance is supplied.
 
 ## Vocabulary
 
-v02: כַּפֹּרֶת (kapporet)
-“Atonement cover.” The cover over the ark within the Most Holy Place.
+v2: כַּפֹּרֶת (kapporet)
+Atonement cover, traditionally “mercy seat”: the gold cover of the ark described in Exodus 25:17–22.
 
-v08: עֲזָאזֵל (Azazel)
-“Azazel.” An uncertain term associated with the goat sent into the wilderness.
+v12: מַחְתָּה (mahtah)
+Censer or firepan, here used to carry burning coals.
 
-v16: פֶּשַׁע (pesha)
-“Transgression.” Rebellious or boundary-breaking wrongdoing.
+v13: עֵדוּת (edut)
+Testimony: the covenant tablets placed inside the ark.
 
-v21: וִדָּה (viddah)
-“To confess.” To speak or acknowledge wrongdoing openly.
+v16, 21: פֶּשַׁע / חַטָּאת (pesha / hattat)
+Rebellion / sin. The chapter names wrongdoing as well as ritual impurity.
 
-v29: עִנָּה (innah)
-“To humble” or “afflict.” Here describing the required self-denial of the Day of Atonement.
+v21–22: עָוֹן (avon)
+Wrongdoing or guilt, pictured here as a burden placed on the goat and carried away.
+
+v29: גֵּר (ger)
+A foreigner residing among the people. The observance includes both this resident and the native-born.

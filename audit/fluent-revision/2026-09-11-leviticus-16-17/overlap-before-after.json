@@ -1,0 +1,520 @@
+{
+  "scope": "Leviticus 16–17; 50 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 6,
+      "near_identical_verses": 42,
+      "mean_similarity": 0.954929,
+      "verses": [
+        {
+          "reference": "Leviticus 16:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 16:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 16:3",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 16:4",
+          "identical": false,
+          "similarity": 0.955556
+        },
+        {
+          "reference": "Leviticus 16:5",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 16:6",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 16:7",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 16:8",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 16:9",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 16:10",
+          "identical": false,
+          "similarity": 0.970588
+        },
+        {
+          "reference": "Leviticus 16:11",
+          "identical": false,
+          "similarity": 0.969697
+        },
+        {
+          "reference": "Leviticus 16:12",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 16:13",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Leviticus 16:14",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Leviticus 16:15",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 16:16",
+          "identical": false,
+          "similarity": 0.894118
+        },
+        {
+          "reference": "Leviticus 16:17",
+          "identical": false,
+          "similarity": 0.97561
+        },
+        {
+          "reference": "Leviticus 16:18",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 16:19",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Leviticus 16:20",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 16:21",
+          "identical": false,
+          "similarity": 0.964912
+        },
+        {
+          "reference": "Leviticus 16:22",
+          "identical": false,
+          "similarity": 0.913043
+        },
+        {
+          "reference": "Leviticus 16:23",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Leviticus 16:24",
+          "identical": false,
+          "similarity": 0.948718
+        },
+        {
+          "reference": "Leviticus 16:25",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 16:26",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Leviticus 16:27",
+          "identical": false,
+          "similarity": 0.95122
+        },
+        {
+          "reference": "Leviticus 16:28",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 16:29",
+          "identical": false,
+          "similarity": 0.948718
+        },
+        {
+          "reference": "Leviticus 16:30",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Leviticus 16:31",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Leviticus 16:32",
+          "identical": false,
+          "similarity": 0.935484
+        },
+        {
+          "reference": "Leviticus 16:33",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 16:34",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Leviticus 17:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 17:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 17:3",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 17:4",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 17:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 17:6",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Leviticus 17:7",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 17:8",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Leviticus 17:9",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Leviticus 17:10",
+          "identical": false,
+          "similarity": 0.975
+        },
+        {
+          "reference": "Leviticus 17:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 17:12",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Leviticus 17:13",
+          "identical": false,
+          "similarity": 0.942857
+        },
+        {
+          "reference": "Leviticus 17:14",
+          "identical": false,
+          "similarity": 0.955556
+        },
+        {
+          "reference": "Leviticus 17:15",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Leviticus 17:16",
+          "identical": false,
+          "similarity": 0.944444
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 1,
+      "mean_similarity": 0.730909,
+      "verses": [
+        {
+          "reference": "Leviticus 16:1",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Leviticus 16:2",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Leviticus 16:3",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Leviticus 16:4",
+          "identical": false,
+          "similarity": 0.712644
+        },
+        {
+          "reference": "Leviticus 16:5",
+          "identical": false,
+          "similarity": 0.818182
+        },
+        {
+          "reference": "Leviticus 16:6",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Leviticus 16:7",
+          "identical": false,
+          "similarity": 0.829268
+        },
+        {
+          "reference": "Leviticus 16:8",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Leviticus 16:9",
+          "identical": false,
+          "similarity": 0.731707
+        },
+        {
+          "reference": "Leviticus 16:10",
+          "identical": false,
+          "similarity": 0.65625
+        },
+        {
+          "reference": "Leviticus 16:11",
+          "identical": false,
+          "similarity": 0.557377
+        },
+        {
+          "reference": "Leviticus 16:12",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Leviticus 16:13",
+          "identical": false,
+          "similarity": 0.644068
+        },
+        {
+          "reference": "Leviticus 16:14",
+          "identical": false,
+          "similarity": 0.820513
+        },
+        {
+          "reference": "Leviticus 16:15",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Leviticus 16:16",
+          "identical": false,
+          "similarity": 0.682353
+        },
+        {
+          "reference": "Leviticus 16:17",
+          "identical": false,
+          "similarity": 0.790123
+        },
+        {
+          "reference": "Leviticus 16:18",
+          "identical": false,
+          "similarity": 0.829268
+        },
+        {
+          "reference": "Leviticus 16:19",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 16:20",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Leviticus 16:21",
+          "identical": false,
+          "similarity": 0.718447
+        },
+        {
+          "reference": "Leviticus 16:22",
+          "identical": false,
+          "similarity": 0.711111
+        },
+        {
+          "reference": "Leviticus 16:23",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 16:24",
+          "identical": false,
+          "similarity": 0.897436
+        },
+        {
+          "reference": "Leviticus 16:25",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Leviticus 16:26",
+          "identical": false,
+          "similarity": 0.76
+        },
+        {
+          "reference": "Leviticus 16:27",
+          "identical": false,
+          "similarity": 0.657895
+        },
+        {
+          "reference": "Leviticus 16:28",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Leviticus 16:29",
+          "identical": false,
+          "similarity": 0.621622
+        },
+        {
+          "reference": "Leviticus 16:30",
+          "identical": false,
+          "similarity": 0.791667
+        },
+        {
+          "reference": "Leviticus 16:31",
+          "identical": false,
+          "similarity": 0.717949
+        },
+        {
+          "reference": "Leviticus 16:32",
+          "identical": false,
+          "similarity": 0.763636
+        },
+        {
+          "reference": "Leviticus 16:33",
+          "identical": false,
+          "similarity": 0.701754
+        },
+        {
+          "reference": "Leviticus 16:34",
+          "identical": false,
+          "similarity": 0.566667
+        },
+        {
+          "reference": "Leviticus 17:1",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 17:2",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Leviticus 17:3",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Leviticus 17:4",
+          "identical": false,
+          "similarity": 0.681319
+        },
+        {
+          "reference": "Leviticus 17:5",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 17:6",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Leviticus 17:7",
+          "identical": false,
+          "similarity": 0.653846
+        },
+        {
+          "reference": "Leviticus 17:8",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Leviticus 17:9",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Leviticus 17:10",
+          "identical": false,
+          "similarity": 0.72973
+        },
+        {
+          "reference": "Leviticus 17:11",
+          "identical": false,
+          "similarity": 0.826667
+        },
+        {
+          "reference": "Leviticus 17:12",
+          "identical": false,
+          "similarity": 0.595745
+        },
+        {
+          "reference": "Leviticus 17:13",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Leviticus 17:14",
+          "identical": false,
+          "similarity": 0.711111
+        },
+        {
+          "reference": "Leviticus 17:15",
+          "identical": false,
+          "similarity": 0.717949
+        },
+        {
+          "reference": "Leviticus 17:16",
+          "identical": false,
+          "similarity": 0.540541
+        }
+      ]
+    }
+  }
+}
