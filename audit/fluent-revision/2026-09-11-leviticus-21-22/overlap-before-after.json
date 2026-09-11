@@ -1,0 +1,590 @@
+{
+  "scope": "Leviticus 21–22; 57 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 20,
+      "near_identical_verses": 36,
+      "mean_similarity": 0.962745,
+      "verses": [
+        {
+          "reference": "Leviticus 21:1",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Leviticus 21:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 21:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 21:4",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 21:5",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 21:6",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Leviticus 21:7",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 21:8",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Leviticus 21:9",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 21:10",
+          "identical": false,
+          "similarity": 0.973684
+        },
+        {
+          "reference": "Leviticus 21:11",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Leviticus 21:12",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 21:13",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Leviticus 21:14",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 21:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 21:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 21:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 21:18",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Leviticus 21:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 21:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 21:21",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 21:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 21:23",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Leviticus 21:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:3",
+          "identical": false,
+          "similarity": 0.97619
+        },
+        {
+          "reference": "Leviticus 22:4",
+          "identical": false,
+          "similarity": 0.976744
+        },
+        {
+          "reference": "Leviticus 22:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:6",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 22:7",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 22:8",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 22:9",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Leviticus 22:10",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 22:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:12",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 22:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:14",
+          "identical": false,
+          "similarity": 0.913043
+        },
+        {
+          "reference": "Leviticus 22:15",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 22:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:19",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 22:20",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 22:21",
+          "identical": false,
+          "similarity": 0.95122
+        },
+        {
+          "reference": "Leviticus 22:22",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 22:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:24",
+          "identical": false,
+          "similarity": 0.92
+        },
+        {
+          "reference": "Leviticus 22:25",
+          "identical": false,
+          "similarity": 0.972222
+        },
+        {
+          "reference": "Leviticus 22:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 22:27",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Leviticus 22:28",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 22:29",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 22:30",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Leviticus 22:31",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Leviticus 22:32",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 22:33",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 1,
+      "mean_similarity": 0.660581,
+      "verses": [
+        {
+          "reference": "Leviticus 21:1",
+          "identical": false,
+          "similarity": 0.77193
+        },
+        {
+          "reference": "Leviticus 21:2",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Leviticus 21:3",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 21:4",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Leviticus 21:5",
+          "identical": false,
+          "similarity": 0.681818
+        },
+        {
+          "reference": "Leviticus 21:6",
+          "identical": false,
+          "similarity": 0.69697
+        },
+        {
+          "reference": "Leviticus 21:7",
+          "identical": false,
+          "similarity": 0.724138
+        },
+        {
+          "reference": "Leviticus 21:8",
+          "identical": false,
+          "similarity": 0.711864
+        },
+        {
+          "reference": "Leviticus 21:9",
+          "identical": false,
+          "similarity": 0.789474
+        },
+        {
+          "reference": "Leviticus 21:10",
+          "identical": false,
+          "similarity": 0.578947
+        },
+        {
+          "reference": "Leviticus 21:11",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Leviticus 21:12",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Leviticus 21:13",
+          "identical": false,
+          "similarity": 0.25
+        },
+        {
+          "reference": "Leviticus 21:14",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 21:15",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Leviticus 21:16",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 21:17",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Leviticus 21:18",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Leviticus 21:19",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Leviticus 21:20",
+          "identical": false,
+          "similarity": 0.318182
+        },
+        {
+          "reference": "Leviticus 21:21",
+          "identical": false,
+          "similarity": 0.682927
+        },
+        {
+          "reference": "Leviticus 21:22",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Leviticus 21:23",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Leviticus 21:24",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Leviticus 22:1",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 22:2",
+          "identical": false,
+          "similarity": 0.78125
+        },
+        {
+          "reference": "Leviticus 22:3",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 22:4",
+          "identical": false,
+          "similarity": 0.475
+        },
+        {
+          "reference": "Leviticus 22:5",
+          "identical": false,
+          "similarity": 0.454545
+        },
+        {
+          "reference": "Leviticus 22:6",
+          "identical": false,
+          "similarity": 0.595745
+        },
+        {
+          "reference": "Leviticus 22:7",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Leviticus 22:8",
+          "identical": false,
+          "similarity": 0.76
+        },
+        {
+          "reference": "Leviticus 22:9",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Leviticus 22:10",
+          "identical": false,
+          "similarity": 0.478261
+        },
+        {
+          "reference": "Leviticus 22:11",
+          "identical": false,
+          "similarity": 0.679245
+        },
+        {
+          "reference": "Leviticus 22:12",
+          "identical": false,
+          "similarity": 0.564103
+        },
+        {
+          "reference": "Leviticus 22:13",
+          "identical": false,
+          "similarity": 0.722222
+        },
+        {
+          "reference": "Leviticus 22:14",
+          "identical": false,
+          "similarity": 0.333333
+        },
+        {
+          "reference": "Leviticus 22:15",
+          "identical": false,
+          "similarity": 0.827586
+        },
+        {
+          "reference": "Leviticus 22:16",
+          "identical": false,
+          "similarity": 0.708333
+        },
+        {
+          "reference": "Leviticus 22:17",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 22:18",
+          "identical": false,
+          "similarity": 0.463158
+        },
+        {
+          "reference": "Leviticus 22:19",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Leviticus 22:20",
+          "identical": false,
+          "similarity": 0.647059
+        },
+        {
+          "reference": "Leviticus 22:21",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Leviticus 22:22",
+          "identical": false,
+          "similarity": 0.651163
+        },
+        {
+          "reference": "Leviticus 22:23",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Leviticus 22:24",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Leviticus 22:25",
+          "identical": false,
+          "similarity": 0.529412
+        },
+        {
+          "reference": "Leviticus 22:26",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 22:27",
+          "identical": false,
+          "similarity": 0.716418
+        },
+        {
+          "reference": "Leviticus 22:28",
+          "identical": false,
+          "similarity": 0.722222
+        },
+        {
+          "reference": "Leviticus 22:29",
+          "identical": false,
+          "similarity": 0.536585
+        },
+        {
+          "reference": "Leviticus 22:30",
+          "identical": false,
+          "similarity": 0.648649
+        },
+        {
+          "reference": "Leviticus 22:31",
+          "identical": false,
+          "similarity": 0.782609
+        },
+        {
+          "reference": "Leviticus 22:32",
+          "identical": false,
+          "similarity": 0.808511
+        },
+        {
+          "reference": "Leviticus 22:33",
+          "identical": false,
+          "similarity": 0.903226
+        }
+      ]
+    }
+  }
+}

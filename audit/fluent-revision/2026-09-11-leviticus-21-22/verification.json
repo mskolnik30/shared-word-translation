@@ -1,0 +1,551 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T17:42:11.845419+00:00",
+  "base_commit": "13ca74b86a42a8948f1c3841bf42f6b70def443d",
+  "scope": "Leviticus 21–22; 57 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 149,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-16-17/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-18-20/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 94,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-21-22/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 117,
+    "verses": 3511
+  },
+  "source_record_count": 859,
+  "public_source_mapping": "Leviticus 21–22 aligns directly; all 57 records are unique and complete, including the original written/read forms at 21:5. Prior Genesis and Exodus public/source differences remain bound unchanged.",
+  "source_annotations_hashed_in_full": [
+    "21:5"
+  ],
+  "focused_assertions": {
+    "21:1": [
+      "Aaron's sons",
+      "A priest",
+      "dead person"
+    ],
+    "21:2": [
+      "mother",
+      "father",
+      "son",
+      "daughter",
+      "brother"
+    ],
+    "21:3": [
+      "virgin sister",
+      "close to him",
+      "has not married",
+      "may make himself unclean"
+    ],
+    "21:4": [
+      "husband",
+      "profane himself"
+    ],
+    "21:5": [
+      "bald patches",
+      "edges of their beards",
+      "gashes"
+    ],
+    "21:6": [
+      "holy to their God",
+      "profane",
+      "offerings by fire",
+      "food of their God",
+      "They must be holy"
+    ],
+    "21:7": [
+      "prostitute",
+      "defiled",
+      "divorced by her husband",
+      "A priest is holy"
+    ],
+    "21:8": [
+      "Treat the priest as holy",
+      "food of your God",
+      "makes you holy"
+    ],
+    "21:9": [
+      "priest's daughter",
+      "prostitution",
+      "profane",
+      "father",
+      "burned with fire"
+    ],
+    "21:10": [
+      "high priest",
+      "above his fellow priests",
+      "oil poured on his head",
+      "ordained",
+      "hair hang loose",
+      "tear his garments"
+    ],
+    "21:11": [
+      "any dead body",
+      "even for his father or mother"
+    ],
+    "21:12": [
+      "not leave the sanctuary",
+      "profane the sanctuary",
+      "consecration",
+      "God's anointing oil"
+    ],
+    "21:13": [
+      "marries",
+      "virgin"
+    ],
+    "21:14": [
+      "widow",
+      "divorced woman",
+      "defiled woman",
+      "prostitute",
+      "virgin from his own people"
+    ],
+    "21:15": [
+      "offspring",
+      "makes him holy"
+    ],
+    "21:17": [
+      "generations",
+      "no man",
+      "descendants",
+      "physical blemish",
+      "food of his God"
+    ],
+    "21:18": [
+      "blind",
+      "difficulty walking",
+      "disfigured face",
+      "overlong limb"
+    ],
+    "21:19": [
+      "broken foot or hand"
+    ],
+    "21:20": [
+      "curved back",
+      "stunted growth",
+      "eye blemish",
+      "itching sores",
+      "skin eruption",
+      "crushed testicle"
+    ],
+    "21:21": [
+      "Aaron the priest",
+      "offerings by fire",
+      "He has a blemish",
+      "food of his God"
+    ],
+    "21:22": [
+      "may eat",
+      "most holy offerings",
+      "holy offerings"
+    ],
+    "21:23": [
+      "curtain",
+      "altar",
+      "holy places",
+      "makes them holy"
+    ],
+    "21:24": [
+      "Aaron, his sons, and all the Israelites"
+    ],
+    "22:2": [
+      "Aaron and his sons",
+      "keep away",
+      "offerings the Israelites consecrate to me",
+      "holy name"
+    ],
+    "22:3": [
+      "generations",
+      "descendants",
+      "while he is unclean",
+      "cut off from my presence"
+    ],
+    "22:4": [
+      "defiling skin disease",
+      "discharge",
+      "until he is clean",
+      "contact with the dead",
+      "emission of semen"
+    ],
+    "22:5": [
+      "swarming creature",
+      "person",
+      "whatever that person"
+    ],
+    "22:6": [
+      "until evening",
+      "unless he bathes his body in water"
+    ],
+    "22:7": [
+      "sun sets",
+      "will be clean",
+      "Then he may eat",
+      "his food"
+    ],
+    "22:8": [
+      "died on its own",
+      "torn by wild animals"
+    ],
+    "22:9": [
+      "priests",
+      "bear sin and die",
+      "holy food",
+      "makes them holy"
+    ],
+    "22:10": [
+      "outside the priestly household",
+      "lodger",
+      "hired worker"
+    ],
+    "22:11": [
+      "buys as a slave",
+      "his own money",
+      "born in his household",
+      "may also eat"
+    ],
+    "22:12": [
+      "priest's daughter",
+      "marries a man outside the priestly household",
+      "contributions"
+    ],
+    "22:13": [
+      "widowed or divorced",
+      "no offspring",
+      "returns to her father's house",
+      "as in her youth",
+      "may eat",
+      "outside the priestly household"
+    ],
+    "22:14": [
+      "by mistake",
+      "repay",
+      "priest",
+      "one-fifth"
+    ],
+    "22:15": [
+      "priests",
+      "Israelites contribute",
+      "LORD"
+    ],
+    "22:16": [
+      "cause the people",
+      "guilt and its penalty",
+      "when they eat their holy offerings",
+      "makes them holy"
+    ],
+    "22:18": [
+      "Aaron, his sons, and all the Israelites",
+      "house of Israel",
+      "foreigner residing in Israel",
+      "burnt offering",
+      "vow",
+      "freewill"
+    ],
+    "22:19": [
+      "male without blemish",
+      "cattle, sheep, or goats",
+      "accepted on your behalf"
+    ],
+    "22:20": [
+      "blemish",
+      "not be accepted"
+    ],
+    "22:21": [
+      "peace sacrifice",
+      "herd or flock",
+      "vow",
+      "freewill",
+      "without blemish",
+      "no blemish at all"
+    ],
+    "22:22": [
+      "blind",
+      "broken bone",
+      "mutilated part",
+      "growth",
+      "itching sores",
+      "skin eruption",
+      "altar",
+      "offering by fire"
+    ],
+    "22:23": [
+      "cattle, sheep, or goats",
+      "overlong or stunted limb",
+      "freewill",
+      "not be accepted in fulfillment of a vow"
+    ],
+    "22:24": [
+      "testicles",
+      "bruised, crushed, torn away, or cut off",
+      "not do this in your land"
+    ],
+    "22:25": [
+      "any such animals",
+      "foreigner",
+      "food of your God",
+      "damaged",
+      "blemish",
+      "not be accepted"
+    ],
+    "22:27": [
+      "calf, lamb, or kid",
+      "mother",
+      "seven days",
+      "eighth day onward",
+      "may be accepted"
+    ],
+    "22:28": [
+      "cattle, sheep, or goats",
+      "animal and its young",
+      "same day"
+    ],
+    "22:29": [
+      "thanksgiving",
+      "accepted on your behalf"
+    ],
+    "22:30": [
+      "same day",
+      "not leave any of it until morning"
+    ],
+    "22:31": [
+      "Keep my commandments",
+      "carry them out"
+    ],
+    "22:32": [
+      "holy name",
+      "held holy among the Israelites",
+      "makes you holy"
+    ],
+    "22:33": [
+      "brought you out of Egypt",
+      "to be your God",
+      "I am the LORD"
+    ]
+  },
+  "TSW_prior_revisions_Companion_and_unaffected_approvals_preserved": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 57 pinned Hebrew verses and the written/read annotation at 21:5 before drafting. Selected NET lexical and grammatical notes were consulted after Hebrew reading and before drafting. All 57 TSW comparators were read after the independent draft. The assembled English was reread against the source reading; the bodily-condition list and two sanctuary prohibitions were clarified. Focused checks cover ordinary/high-priest differences, all named relatives, marriage categories and fire penalty, food-of-God and holiness repetition, all listed bodily conditions with lexical uncertainty, retained eating entitlement, curtain/altar access, uncleanness and sunset, purchase and household status, daughters and return conditions, one-fifth restitution, ambiguous priestly responsibility, resident/outsider distinctions, animal sex and conditions, vow/freewill exception, four genital injuries, foreign sourcing, seven/eight-day and same-day limits, and the final exodus identity. This is an authoring self-check, not independent scholarly review.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
