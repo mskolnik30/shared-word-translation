@@ -4,173 +4,127 @@ testament: OT
 chapter: 28
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-28-31-biblical-fluency-2026-09-11
 ---
 
-## Garments for Aaron and His Sons
+## Garments for the priests
 
 <p>
-v01: “And you, bring near to yourself Aaron your brother and his sons with him from among the children of Israel, to serve as priests to me: Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons.
-
-v02: You will make holy garments for Aaron your brother, for glory and for beauty.
-
-v03: You will speak to all the wise of heart, whom I have filled with a spirit of skill, that they make Aaron’s garments to consecrate him, so that he may serve as priest to me.
-
-v04: These are the garments that they will make: a breastpiece, an ephod, a robe, a woven tunic, a turban, and a sash. They will make holy garments for Aaron your brother and for his sons, so that he may serve as priest to me.
-
-v05: They will take the gold, the blue, the purple, the scarlet yarn, and the fine linen.
+v01: “Bring your brother Aaron and his sons near to you from among the Israelites, so they may serve me as priests: Aaron and his sons Nadab, Abihu, Eleazar, and Ithamar.
+v02: Make holy garments for your brother Aaron, for honor and beauty.
+v03: Speak to all the skilled workers whom I have filled with a spirit of wisdom. Have them make Aaron’s garments to consecrate him for service to me as a priest.
+v04: These are the garments they are to make: a breastpiece, an ephod, a robe, a patterned tunic, a turban, and a sash. They are to make holy garments for your brother Aaron and his sons, so they may serve me as priests.
+v05: They are to use gold, blue, purple, and scarlet yarn, and fine linen.
 </p>
 
-## The Ephod
+## The ephod
 
 <p>
-v06: “They will make the ephod of gold, blue, purple, and scarlet yarn, and fine twisted linen, the work of a skilled designer.
+v06: Have them make the ephod with a skilled design, using gold, blue, purple, and scarlet yarn, and finely twisted linen.
+v07: It is to have two shoulder pieces joined at its two ends to hold it together.
+v08: Its woven waistband must be of one piece with it and made the same way: gold, blue, purple, and scarlet yarn, and finely twisted linen.
+</p>
 
-v07: It will have two shoulder pieces joined to its two edges, so that it is joined together.
+<p>
+v09: Take two onyx stones and engrave on them the names of Israel’s sons,
+v10: six names on one stone and the six remaining names on the other, in their birth order.
+v11: Engrave the two stones with the names of Israel’s sons as a stoneworker engraves a seal. Set them in gold settings.
+v12: Place the two stones on the ephod’s shoulder pieces as memorial stones for Israel’s sons. Aaron will carry their names on his two shoulders before the LORD as a memorial.
+</p>
 
-v08: The skillfully woven band that is on it, with which it is fastened, will be of one piece and like its workmanship: of gold, blue, purple, and scarlet yarn, and fine twisted linen.
-
-v09: You will take two onyx stones and engrave on them the names of the children of Israel,
-
-v10: six of their names on one stone and the names of the remaining six on the other stone, according to their birth.
-
-v11: As the work of a stone engraver, like the engraving of a signet, you will engrave the two stones with the names of the children of Israel. You will set them in settings of gold.
-
-v12: You will put the two stones on the shoulder pieces of the ephod as stones of remembrance for the children of Israel. Aaron will bear their names before the LORD on his two shoulders for remembrance.
-
-v13: You will make settings of gold
-
+<p>
+v13: Make gold settings,
 v14: and two chains of pure gold, twisted like cords, and attach the corded chains to the settings.
 </p>
 
-## The Breastpiece of Judgment
+## The breastpiece
 
 <p>
-v15: “You will make a breastpiece of judgment, the work of a skilled designer. Like the workmanship of the ephod you will make it: of gold, blue, purple, and scarlet yarn, and fine twisted linen.
-
-v16: It will be square and folded double, a span long and a span wide.
-
-v17: You will set in it settings of stones, four rows of stones. A row of carnelian, topaz, and emerald will be the first row;
-
-v18: the second row: turquoise, sapphire, and diamond;
-
-v19: the third row: jacinth, agate, and amethyst;
-
-v20: the fourth row: beryl, onyx, and jasper. They will be enclosed in gold settings.
-
-v21: The stones will be according to the names of the children of Israel, twelve according to their names. Like the engravings of a signet, each will be according to its name, for the twelve tribes.
+v15: Make a breastpiece for judgment with a skilled design, made like the ephod: gold, blue, purple, and scarlet yarn, and finely twisted linen.
+v16: It must be square when folded double, a span long and a span wide.
+v17: Set four rows of stones in it. The first row is to be carnelian, topaz, and emerald;
+v18: the second row, turquoise, sapphire, and moonstone;
+v19: the third row, jacinth, agate, and amethyst;
+v20: and the fourth row, beryl, onyx, and jasper. Mount them in gold settings.
+v21: There must be twelve stones bearing the names of Israel’s sons. Engrave each with one name, like a seal, for the twelve tribes.
 </p>
 
-## The Breastpiece Fastened to the Ephod
-
 <p>
-v22: “You will make for the breastpiece twisted chains like cords, of pure gold.
-
-v23: You will make for the breastpiece two rings of gold and put the two rings on the two ends of the breastpiece.
-
-v24: You will put the two cords of gold into the two rings at the ends of the breastpiece.
-
-v25: You will put the two ends of the two cords on the two settings and attach them to the shoulder pieces of the ephod at its front.
-
-v26: You will make two rings of gold and put them on the two ends of the breastpiece, on its inner edge next to the ephod.
-
-v27: You will make two more rings of gold and put them on the two shoulder pieces of the ephod, low on its front, near its joining, above the woven band of the ephod.
-
-v28: They will bind the breastpiece by its rings to the rings of the ephod with a cord of blue yarn, so that it rests on the woven band of the ephod and the breastpiece does not come loose from the ephod.
-
-v29: So Aaron will bear the names of the children of Israel in the breastpiece of judgment over his heart when he enters the Holy Place, as a continual remembrance before the LORD.
-
-v30: You will put the Urim and the Thummim into the breastpiece of judgment, and they will be over Aaron’s heart when he enters before the LORD. Aaron will bear the judgment of the children of Israel over his heart before the LORD continually.
+v22: Make chains of pure gold for the breastpiece, twisted like cords.
+v23: Make two gold rings for the breastpiece and attach them to its two ends.
+v24: Attach the two gold cords to the two rings at the ends of the breastpiece.
+v25: Attach the other ends of the two cords to the two settings, fastening them to the shoulder pieces on the front of the ephod.
+v26: Make two more gold rings and put them at the two ends of the breastpiece, on its inner edge facing the ephod.
+v27: Make two gold rings and attach them low on the front of the ephod’s two shoulder pieces, near the seam and above its waistband.
+v28: Tie the breastpiece’s rings to the ephod’s rings with a blue cord, so the breastpiece sits above the waistband and does not come loose from the ephod.
 </p>
 
-## The Robe of the Ephod
-
 <p>
-v31: “You will make the robe of the ephod entirely of blue.
-
-v32: There will be an opening for his head in its middle. Around its opening will be a woven binding, like the opening of a coat of armor, so that it does not tear.
-
-v33: On its hem you will make pomegranates of blue, purple, and scarlet yarn around its hem, with bells of gold between them all around:
-
-v34: a gold bell and a pomegranate, a gold bell and a pomegranate, around the hem of the robe.
-
-v35: It will be on Aaron when he ministers, and its sound will be heard when he enters the Holy Place before the LORD and when he comes out, so that he does not die.
+v29: Whenever Aaron enters the sanctuary, he will carry the names of Israel’s sons over his heart on the breastpiece for judgment, as a continual memorial before the LORD.
+v30: Place the Urim and Thummim in the breastpiece for judgment, so they will be over Aaron’s heart when he enters before the LORD. Aaron will continually carry Israel’s judgment over his heart before the LORD.
 </p>
 
-## The Holy Crown and the Tunic
+## The robe
 
 <p>
-v36: “You will make a plate of pure gold and engrave on it, like the engraving of a signet:
-
-‘Holy to the LORD.’
-
-v37: You will put it on a cord of blue yarn, and it will be on the turban; it will be on the front of the turban.
-
-v38: It will be on Aaron’s forehead, and Aaron will bear the guilt connected with the holy things that the children of Israel consecrate, all their holy gifts. It will be on his forehead continually, so that they may be accepted before the LORD.
-
-v39: You will weave the tunic of fine linen, make a turban of fine linen, and make a sash, the work of an embroiderer.
+v31: Make the robe worn with the ephod entirely of blue fabric.
+v32: It is to have an opening for the head in the middle, with a woven edge all around it, like the opening of a coat of armor, so it will not tear.
+v33: Around its hem, make pomegranates of blue, purple, and scarlet yarn, with gold bells between them all the way around.
+v34: A gold bell and a pomegranate, a gold bell and a pomegranate, all around the robe’s hem.
+v35: Aaron must wear it while serving. Its sound must be heard when he enters the sanctuary before the LORD and when he leaves, so he will not die.
 </p>
 
-## Garments for Aaron’s Sons
+## The gold plate
 
 <p>
-v40: “For Aaron’s sons you will make tunics, and you will make sashes for them, and you will make head coverings for them, for glory and for beauty.
+v36: Make a plate of pure gold and engrave on it, like a seal: ‘Holy to the LORD.’
+v37: Fasten it with a blue cord on the front of the turban.
+v38: It is to rest on Aaron’s forehead. Aaron will bear the guilt associated with the holy gifts the Israelites consecrate, whatever their holy gifts may be. It must remain on his forehead continually, so they may be accepted before the LORD.
+v39: Weave the tunic in a pattern of fine linen, make a fine linen turban, and make a sash worked in embroidery.
+</p>
 
-v41: You will put these on Aaron your brother and on his sons with him. You will anoint them, fill their hands, and consecrate them, so that they may serve as priests to me.
+## Garments for Aaron’s sons
 
-v42: You will make linen undergarments for them to cover naked flesh; they will reach from the waist to the thighs.
+<p>
+v40: For Aaron’s sons, make tunics, sashes, and head coverings, for honor and beauty.
+v41: Dress your brother Aaron and his sons in these garments. Anoint them, ordain them, and consecrate them to serve me as priests.
+</p>
 
-v43: They will be on Aaron and on his sons when they enter the tent of meeting or when they approach the altar to minister in the Holy Place, so that they do not bear guilt and die. It will be a perpetual statute for him and for his offspring after him.
+<p>
+v42: Make linen undergarments for them to cover their naked flesh, reaching from the waist to the thighs.
+v43: Aaron and his sons must wear them when entering the tent of meeting or approaching the altar to serve in the sanctuary, so they do not incur guilt and die. This is a lasting ordinance for Aaron and his descendants after him.”
 </p>
 
 ## Notes
 
-v02: The priestly garments are made “for glory and for beauty.” Their visual richness is part of the sanctuary’s theology of holiness rather than personal luxury alone.
+v4, 39: The word rendered “patterned” describes a kind of textile work whose precise technique is uncertain.
 
-v03: “wise of heart” describes skilled artisans whose craftsmanship is understood as a gift of divine wisdom.
+v17–20: The twelve stones have traditional English names here. Ancient gemstone terms do not map securely onto modern mineral names, so these identifications remain provisional. Compare the differing identifications in the [NET notes](https://www.biblegateway.com/passage/?search=Exodus+28&version=NET) and [NRSVUE text](https://www.biblegateway.com/passage/?search=Exodus+28&version=NRSVUE).
 
-v06: The ephod is a priestly garment of uncertain exact shape. TSW retains the traditional term rather than reconstructing a modern equivalent.
+v30: The Urim and Thummim are associated with seeking divine decisions. Their form and the procedure for using them are not described here. “Judgment” retains the connection with the breastpiece’s name in verse 15; it need not mean condemnation.
 
-v09–12: Aaron carries Israel’s names on his shoulders as “stones of remembrance,” embodying the priest’s representative role before the LORD.
+v32: The rare comparison rendered “coat of armor” concerns the reinforced opening. The exact garment or construction being compared is uncertain. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+28&version=NET).
 
-v15: “breastpiece of judgment” links the priestly garment with discernment and decision, especially through the Urim and Thummim in verse 30.
+v38: Aaron bears guilt associated with the people’s holy gifts. The verse does not specify every kind of fault involved or explain the mechanism by which the plate makes the gifts acceptable.
 
-v17–20: Identification of several ancient gemstones is uncertain. TSW uses conventional English names while recognizing that exact mineral equivalence cannot always be established.
-
-v30: The Urim and Thummim were priestly means of discerning divine judgment. The text does not describe their physical form or exact method of use.
-
-v35: The robe’s bells make Aaron’s movement audible within sacred space. The warning “so that he does not die” underscores the danger and seriousness of priestly approach.
-
-v36: “Holy to the LORD” is engraved on the gold plate worn on Aaron’s forehead, making consecration visible at the point of priestly representation.
-
-v38: Aaron “bears the guilt” associated with Israel’s holy gifts. The verse portrays the high priest as carrying responsibility so that offerings may be accepted.
-
-v41: “fill their hands” is the Hebrew idiom for ordaining or installing priests into service.
+v41: “Ordain” renders the Hebrew expression “fill their hands.” In 29:24, offerings are placed on Aaron’s and his sons’ palms during their ordination.
 
 ## Vocabulary
 
-v02: כָּבוֹד (kavod)
-“Glory” or “honor.” The priestly garments embody sacred dignity.
+v6: Ephod — efod
+A priestly garment described here through its materials, shoulder pieces, and attached waistband.
 
-v03: חַכְמֵי־לֵב (khakhmei-lev)
-“Wise of heart.” Skilled people endowed for artistic work.
+v12: Memorial — zikkaron
+Something that brings a person or event to remembrance; here the sons of Israel are represented by their names before the LORD.
 
-v06: אֵפוֹד (ephod)
-“Ephod.” A distinctive priestly garment.
+v15: Breastpiece for judgment — ḥoshen mishpat
+The chest piece bearing twelve named stones and holding the Urim and Thummim.
 
-v12: זִכָּרוֹן (zikkaron)
-“Remembrance.” The tribal names are borne before the LORD.
+v16: Span — zeret
+A length based on the distance between the outstretched thumb and little finger.
 
-v15: חֹשֶׁן מִשְׁפָּט (choshen mishpat)
-“Breastpiece of judgment.” The priestly breastpiece associated with divine decision.
-
-v30: אוּרִים וְתֻמִּים (Urim ve-Thummim)
-“Urim and Thummim.” Priestly instruments for discerning judgment.
-
-v36: צִיץ (tsits)
-“Plate” or “frontlet.” The gold piece engraved “Holy to the LORD.”
-
-v41: מִלֵּא יָד (mille yad)
-“To fill the hand.” An idiom for ordaining or installing someone into priestly office.
-
-v42: מִכְנָסַיִם (mikhnasayim)
-“Undergarments.” Linen garments covering the lower body.
+v36: Holy — qodesh
+Set apart for God; the inscription marks the priest’s sacred service.

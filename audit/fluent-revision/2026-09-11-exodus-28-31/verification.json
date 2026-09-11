@@ -1,0 +1,438 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T13:49:26.283002+00:00",
+  "base_commit": "c36696ef18c62bd6a332852f2f4a84c860e304e9",
+  "scope": "Exodus 28–31; 145 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 86,
+    "verses": 2547
+  },
+  "source_record_count": 1213,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "28:1": [
+      "Aaron",
+      "Nadab, Abihu, Eleazar, and Ithamar"
+    ],
+    "28:2": [
+      "honor and beauty"
+    ],
+    "28:40": [
+      "honor and beauty"
+    ],
+    "28:10": [
+      "six names",
+      "six remaining names",
+      "birth order"
+    ],
+    "28:12": [
+      "their names",
+      "two shoulders",
+      "memorial"
+    ],
+    "28:16": [
+      "square",
+      "folded double",
+      "a span long",
+      "a span wide"
+    ],
+    "28:17": [
+      "carnelian, topaz, and emerald"
+    ],
+    "28:18": [
+      "turquoise, sapphire, and moonstone"
+    ],
+    "28:19": [
+      "jacinth, agate, and amethyst"
+    ],
+    "28:20": [
+      "beryl, onyx, and jasper"
+    ],
+    "28:21": [
+      "twelve stones",
+      "twelve tribes"
+    ],
+    "28:28": [
+      "breastpiece’s rings",
+      "ephod’s rings",
+      "blue cord",
+      "above the waistband",
+      "does not come loose"
+    ],
+    "28:29": [
+      "names",
+      "heart",
+      "memorial"
+    ],
+    "28:30": [
+      "Urim and Thummim",
+      "Israel’s judgment"
+    ],
+    "28:35": [
+      "sound",
+      "enters",
+      "leaves",
+      "so he will not die"
+    ],
+    "28:36": [
+      "pure gold",
+      "Holy to the LORD"
+    ],
+    "28:38": [
+      "forehead",
+      "bear the guilt",
+      "accepted"
+    ],
+    "28:42": [
+      "linen",
+      "waist",
+      "thighs"
+    ],
+    "28:43": [
+      "guilt and die"
+    ],
+    "29:1": [
+      "one young bull",
+      "two rams without blemish"
+    ],
+    "29:2": [
+      "unleavened bread",
+      "cakes mixed with oil",
+      "wafers brushed with oil",
+      "wheat flour"
+    ],
+    "29:12": [
+      "finger",
+      "horns",
+      "remaining blood",
+      "base"
+    ],
+    "29:14": [
+      "meat, hide, and dung",
+      "outside the camp",
+      "sin offering"
+    ],
+    "29:20": [
+      "right earlobes",
+      "right thumbs",
+      "right big toes",
+      "Splash"
+    ],
+    "29:21": [
+      "sprinkle",
+      "Aaron and his garments",
+      "his sons and their garments"
+    ],
+    "29:22": [
+      "fat tail",
+      "both kidneys",
+      "right thigh"
+    ],
+    "29:24": [
+      "palms",
+      "wave offering"
+    ],
+    "29:26": [
+      "your portion"
+    ],
+    "29:30": [
+      "son who succeeds",
+      "seven days"
+    ],
+    "29:34": [
+      "morning",
+      "burn"
+    ],
+    "29:36": [
+      "Each day",
+      "bull",
+      "Purify the altar",
+      "atonement"
+    ],
+    "29:37": [
+      "seven days",
+      "whatever touches it will become holy"
+    ],
+    "29:38": [
+      "two lambs a year old each day"
+    ],
+    "29:40": [
+      "tenth of an ephah",
+      "quarter of a hin of beaten oil",
+      "quarter of a hin of wine"
+    ],
+    "29:42": [
+      "meet with you all",
+      "speak with you, Moses"
+    ],
+    "29:46": [
+      "brought them out of Egypt",
+      "dwell among them"
+    ],
+    "30:2": [
+      "a cubit long",
+      "a cubit wide",
+      "two cubits high"
+    ],
+    "30:4": [
+      "two gold rings",
+      "two opposite sides"
+    ],
+    "30:9": [
+      "unauthorized incense",
+      "burnt offering",
+      "grain offering",
+      "drink offering"
+    ],
+    "30:12": [
+      "each man",
+      "ransom for his life",
+      "plague"
+    ],
+    "30:13": [
+      "twenty gerahs"
+    ],
+    "30:14": [
+      "twenty years old or older"
+    ],
+    "30:15": [
+      "rich must not give more",
+      "poor must not give less"
+    ],
+    "30:18": [
+      "bronze basin",
+      "bronze stand",
+      "between the tent of meeting and the altar"
+    ],
+    "30:20": [
+      "so they do not die"
+    ],
+    "30:21": [
+      "hands and feet",
+      "so they do not die"
+    ],
+    "30:23": [
+      "five hundred shekels",
+      "two hundred fifty",
+      "cinnamon",
+      "fragrant cane"
+    ],
+    "30:24": [
+      "five hundred of cassia",
+      "sanctuary shekel",
+      "a hin of olive oil"
+    ],
+    "30:32": [
+      "human flesh",
+      "same proportions"
+    ],
+    "30:34": [
+      "stacte, onycha, and galbanum",
+      "frankincense",
+      "equal quantities"
+    ],
+    "30:35": [
+      "seasoned with salt"
+    ],
+    "30:38": [
+      "enjoy its fragrance",
+      "cut off"
+    ],
+    "31:2": [
+      "Bezalel",
+      "Uri",
+      "Hur",
+      "Judah"
+    ],
+    "31:3": [
+      "Spirit of God",
+      "wisdom, understanding, knowledge"
+    ],
+    "31:6": [
+      "Oholiab son of Ahisamach",
+      "Dan",
+      "every skilled worker"
+    ],
+    "31:14": [
+      "put to death",
+      "cut off"
+    ],
+    "31:15": [
+      "six days",
+      "seventh day",
+      "put to death"
+    ],
+    "31:16": [
+      "lasting covenant"
+    ],
+    "31:17": [
+      "six days",
+      "seventh day",
+      "stopped and caught his breath"
+    ],
+    "31:18": [
+      "Mount Sinai",
+      "two tablets",
+      "stone tablets",
+      "finger of God"
+    ]
+  },
+  "source_annotations_hashed_in_full": [
+    "28:28",
+    "30:12"
+  ],
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 145 pinned Hebrew records including annotations, drafted each chapter from Hebrew, consulted supplemental NET notes and NRSVUE gemstone comparisons, read every TSW comparator, and reread the assembled English. The self-check corrected a note that overstated a spelling variant as a singular/plural difference and clarified the list of ram portions. Focused checks preserve named priests and craftspeople, gemstone ordering with provisional identifications, measurements, blood actions, offering quantities, equal census payments, death and exclusion sanctions, and divine bodily imagery. This is an authoring self-check, not independent scholarly review.",
+  "exodus_source_references_unique_through_31": 906,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
