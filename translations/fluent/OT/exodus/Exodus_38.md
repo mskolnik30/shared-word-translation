@@ -4,123 +4,112 @@ testament: OT
 chapter: 38
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-35-40-biblical-fluency-2026-09-11
 ---
 
-## The Altar of Burnt Offering
+## The bronze altar
 
 <p>
-v01: He made the altar of burnt offering of acacia wood, five cubits long and five cubits wide. It was square and three cubits high.
-
-v02: He made horns on its four corners; its horns were of one piece with it, and he overlaid it with bronze.
-
-v03: He made all the utensils of the altar: the pots, shovels, basins, forks, and firepans. He made all its utensils of bronze.
-
-v04: He made for the altar a grate, a network of bronze, beneath its ledge below, reaching halfway up.
-
-v05: He cast four rings at the four corners of the bronze network as holders for the poles.
-
-v06: He made the poles of acacia wood and overlaid them with bronze.
-
-v07: He put the poles through the rings on the sides of the altar to carry it. He made it hollow, with boards.
+v01: He made the altar of burnt offering from acacia wood, five cubits long and five cubits wide, forming a square, and three cubits high.
+v02: He made horns at its four corners, of one piece with the altar, and overlaid it with bronze.
+v03: He made all the altar’s utensils—pots, shovels, basins, forks, and firepans. He made all its utensils from bronze.
+v04: He made a bronze grating like a net for the altar, beneath its ledge, reaching to its midpoint.
 </p>
 
-## The Bronze Basin
-
 <p>
-v08: He made the bronze basin and its bronze stand from the mirrors of the women who served at the entrance of the tent of meeting.
+v05: He cast four rings at the four corners of the bronze grating to hold the poles.
+v06: He made poles from acacia wood and overlaid them with bronze.
+v07: He put the poles through the rings on the altar’s sides to carry it. He made the altar hollow, from boards.
 </p>
 
-## The Court
+## The basin
 
 <p>
-v09: He made the court. On the south side, the hangings of the court were of fine twisted linen, one hundred cubits long.
-
-v10: Their twenty pillars and twenty bases were bronze; the hooks of the pillars and their bands were silver.
-
-v11: On the north side the hangings were one hundred cubits, with twenty pillars and twenty bronze bases; the hooks of the pillars and their bands were silver.
-
-v12: On the west side the hangings were fifty cubits, with ten pillars and ten bases; the hooks of the pillars and their bands were silver.
-
-v13: The east side was fifty cubits.
-
-v14: The hangings for one side of the entrance were fifteen cubits, with three pillars and three bases.
-
-v15: For the other side—on this side and that side of the gate of the court—the hangings were fifteen cubits, with three pillars and three bases.
-
-v16: All the hangings around the court were of fine twisted linen.
-
-v17: The bases for the pillars were bronze, the hooks of the pillars and their bands were silver, and the overlay of their tops was silver. All the pillars of the court were banded with silver.
-
-v18: The screen for the gate of the court was the work of an embroiderer, of blue, purple, and scarlet yarn and fine twisted linen. It was twenty cubits long and five cubits high in its width, corresponding to the hangings of the court.
-
-v19: Their four pillars and four bases were bronze; their hooks were silver, and the overlay of their tops and their bands were silver.
-
-v20: All the pegs of the dwelling and around the court were bronze.
+v08: He made the bronze basin and its bronze stand from the mirrors of the women who served at the entrance to the tent of meeting.
 </p>
 
-## The Account of the Dwelling
+## The courtyard
 
 <p>
-v21: These are the accounts of the dwelling, the dwelling of the testimony, which were counted at Moses’ command, the service of the Levites under the hand of Ithamar son of Aaron the priest.
-
-v22: Bezalel son of Uri, son of Hur, from the tribe of Judah, made all that the LORD commanded Moses.
-
-v23: With him was Oholiab son of Ahisamach, from the tribe of Dan, an engraver, skilled designer, and embroiderer in blue, purple, and scarlet yarn and fine linen.
+v09: He made the courtyard. On the south side, its hangings were a hundred cubits long, made of finely twisted linen,
+v10: with twenty pillars and twenty bronze bases. The pillars’ hooks and bands were silver.
 </p>
 
-## Gold, Silver, and Bronze Used in the Sanctuary
+<p>
+v11: On the north side, the hangings were a hundred cubits long, with twenty pillars and twenty bronze bases. The pillars’ hooks and bands were silver.
+v12: On the west side, the hangings were fifty cubits long, with ten pillars and ten bases. The pillars’ hooks and bands were silver.
+</p>
 
 <p>
-v24: All the gold used for the work, in all the work of the sanctuary—the gold from the wave offering—was twenty-nine talents and seven hundred thirty shekels, according to the sanctuary shekel.
+v13: The east side, toward the sunrise, was fifty cubits wide.
+v14: There were fifteen cubits of hangings on one side of the entrance, with three pillars and three bases.
+v15: On the other side of the courtyard entrance there were also fifteen cubits of hangings, with three pillars and three bases. The hangings flanked the entrance on both sides.
+</p>
 
-v25: The silver from those counted of the congregation was one hundred talents and one thousand seven hundred seventy-five shekels, according to the sanctuary shekel:
+<p>
+v16: All the hangings around the courtyard were made of finely twisted linen.
+v17: The pillars’ bases were bronze, and their hooks and bands were silver. Their tops were overlaid with silver, and all the courtyard pillars had silver bands.
+</p>
 
-v26: a beka a head, that is, half a shekel according to the sanctuary shekel, for everyone who passed over to those counted, from twenty years old and upward, for six hundred three thousand five hundred fifty men.
+<p>
+v18: The screen at the courtyard entrance was embroidered in blue, purple, and scarlet yarn and finely twisted linen. It was twenty cubits long and five cubits high, matching the courtyard hangings.
+v19: It had four pillars and four bronze bases, with silver hooks. The pillars’ tops and bands were covered with silver.
+v20: All the tent pegs for the tabernacle and the surrounding courtyard were bronze.
+</p>
 
-v27: The one hundred talents of silver were for casting the bases of the sanctuary and the bases of the veil: one hundred bases from one hundred talents, a talent for a base.
+## The account of materials
 
-v28: From the one thousand seven hundred seventy-five shekels he made hooks for the pillars, overlaid their tops, and made bands for them.
+<p>
+v21: This is the account of the tabernacle, the tabernacle of the testimony, recorded at Moses’ command. The Levites carried out the work under Ithamar son of Aaron the priest.
+v22: Bezalel son of Uri, son of Hur, from the tribe of Judah, made everything the LORD had commanded Moses.
+v23: With him was Oholiab son of Ahisamach, from the tribe of Dan, an engraver, designer, and embroiderer in blue, purple, and scarlet yarn and fine linen.
+</p>
 
-v29: The bronze from the wave offering was seventy talents and two thousand four hundred shekels.
+<p>
+v24: All the gold used in the work, in all the sanctuary’s work, came to twenty-nine talents and seven hundred thirty shekels by the sanctuary standard—the gold presented as an offering.
+</p>
 
-v30: With it he made the bases for the entrance of the tent of meeting, the bronze altar and its bronze network, all the utensils of the altar,
+<p>
+v25: The silver from those counted in the community came to a hundred talents and one thousand seven hundred seventy-five shekels by the sanctuary standard:
+v26: a beka per person, half a shekel by the sanctuary standard, from everyone counted who was twenty years old or older—six hundred three thousand five hundred fifty in all.
+</p>
 
-v31: the bases around the court, the bases of the gate of the court, all the pegs of the dwelling, and all the pegs around the court.
+<p>
+v27: The hundred talents of silver were used to cast the sanctuary’s bases and the curtain’s bases: a hundred bases from a hundred talents, one talent per base.
+v28: From the one thousand seven hundred seventy-five shekels, he made hooks for the pillars, overlaid their tops, and fitted them with bands.
+</p>
+
+<p>
+v29: The bronze presented as an offering came to seventy talents and two thousand four hundred shekels.
+v30: With it he made the bases for the entrance to the tent of meeting, the bronze altar and its bronze grating, and all the altar’s utensils,
+v31: the bases around the courtyard and at its entrance, and all the tent pegs for the tabernacle and the surrounding courtyard.
 </p>
 
 ## Notes
 
-v08: The basin is made from bronze mirrors contributed by women who “served” or “assembled” at the tent entrance. The exact nature of their service is not explained here.
+v4: The grating’s relation to the ledge and midpoint is retained, while its exact construction remains uncertain; compare 27:4–5.
 
-v21: The sanctuary materials are formally accounted for. Sacred generosity is accompanied by administrative transparency.
+v8: The basin and stand are made from metal mirrors. The Hebrew describes women gathered for service at the tent’s entrance; their duties are not specified. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+38&version=NET).
 
-v21: Ithamar, Aaron’s son, oversees the Levitical accounting work connected with the dwelling.
+v10–11, 19: “Bronze” is read as describing the bases; the compact wording can also be taken to include the pillars. The silver fittings are specified separately.
 
-v24–29: The quantities are given in ancient weight units and emphasize the enormous material investment in the sanctuary.
+v21: The Hebrew links the account, Moses’ command, Levite service, and Ithamar’s oversight in one compact sentence. The account is understood here as work carried out by the Levites under Ithamar.
 
-v26: The census number matches the total in Exodus 12:37 and later census traditions. The half-shekel contribution links the accounting back to the ransom law of Exodus 30.
-
-v27: The silver bases embody the census contribution materially in the foundation of sacred space.
+v24–29: The silver figures imply three thousand shekels to a talent: 603,550 half-shekels equal 100 talents plus 1,775 shekels. This checks the account’s arithmetic without deciding the exact modern weight or independently confirming the census. The payment recalls 30:12–16. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+38&version=NET).
 
 ## Vocabulary
 
-v08: מַרְאֹת (mar'ot)
-“Mirrors.” Polished bronze objects used as the material for the basin.
+v2: Horns — qarnot
+Projections at the altar’s corners.
 
-v08: צָבָא (tsava)
-“To serve” or “assemble for service.” Used of the women at the tent entrance.
+v21: Testimony — ʿedut
+The divine witness associated with the tablets placed in the ark.
 
-v21: פְקוּדֵי (pequdei)
-“Accounts” or “inventory.” Things counted and recorded.
+v26: Beka — beqaʿ
+Half a shekel, as the verse itself explains.
 
-v24: תְּנוּפָה (tenufah)
-“Wave offering.” Material presented to the LORD.
-
-v26: בֶּקַע (beqa)
-“Beka.” A half-shekel weight.
-
-v27: אֶדֶן (eden)
-“Base” or “socket.” Structural foundation piece.
-
-v29: נְחֹשֶׁת (nechoshet)
-“Bronze.” The metal used extensively in the outer court.
+v26: Shekel — sheqel
+An ancient weight unit; the sanctuary standard is specified throughout this account.

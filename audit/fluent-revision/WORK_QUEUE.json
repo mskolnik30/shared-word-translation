@@ -96,12 +96,17 @@
       "scope": "Exodus 32–34",
       "verses": 93,
       "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json"
+    },
+    {
+      "scope": "Exodus 35–40",
+      "verses": 214,
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Exodus 35–40",
-      "action": "Complete the tabernacle construction and installation narrative from pinned Hebrew. Preserve deliberate command/fulfillment repetitions, contributors and craftspeople, quantities and objects, clothing details, and divine presence. Then perform a whole-book Exodus consistency self-check with source-ledger rebinding for any earlier text corrections. Independent editorial review remains pending."
+      "scope": "Exodus 1–40 consistency review",
+      "action": "Review the complete revised book for recurring terminology, names, quantities, literary movement and command/fulfillment relationships. Keep structural QA separate from editorial review. Rebind affected verse ledgers if chapter text changes, preserving exact historical provenance. After this pass, begin Leviticus 1–7 from its verified pinned Hebrew source."
     }
   ],
   "standards": [

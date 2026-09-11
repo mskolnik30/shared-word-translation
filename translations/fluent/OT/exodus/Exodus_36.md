@@ -4,147 +4,132 @@ testament: OT
 chapter: 36
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-35-40-biblical-fluency-2026-09-11
 ---
 
-## The Artisans Begin the Work
+## More than enough
 
 <p>
-v01: Bezalel, Oholiab, and every wise-hearted person in whom the LORD had put wisdom and understanding to know how to do all the work of the service of the sanctuary will work according to all that the LORD has commanded.
-
-v02: Moses called Bezalel, Oholiab, and every wise-hearted person in whose heart the LORD had put wisdom, everyone whose heart lifted him to come near to the work to do it.
-
-v03: They received from before Moses all the offering that the children of Israel had brought for the work of the service of the sanctuary, to do it. And the people continued bringing him freewill offerings morning by morning.
+v01: “Bezalel, Oholiab, and every skilled worker to whom the LORD has given wisdom and understanding are to carry out all the work of the sanctuary’s service, knowing how to do it just as the LORD has commanded.”
 </p>
 
-## The People Bring More Than Enough
-
 <p>
-v04: Then all the wise people doing all the work of the sanctuary came, each from the work he was doing,
-
-v05: and they said to Moses, “The people are bringing more than enough for the service of the work that the LORD commanded to be done.”
-
-v06: So Moses commanded, and they caused a proclamation to pass throughout the camp, saying, “Let no man or woman do any more work for the offering of the sanctuary.” So the people were restrained from bringing.
-
-v07: For the material they had was enough for all the work to do it, and more than enough.
+v02: Moses called Bezalel, Oholiab, and every skilled worker in whose heart the LORD had placed wisdom—everyone whose heart moved them to come forward and do the work.
+v03: They received from Moses all the contributions the Israelites had brought for carrying out the sanctuary’s work. Yet the people kept bringing him freewill offerings morning after morning.
 </p>
 
-## The Curtains of the Dwelling
-
 <p>
-v08: Every wise-hearted person among those doing the work made the dwelling with ten curtains of fine twisted linen and blue, purple, and scarlet yarn. With cherubim, the work of a skilled designer, he made them.
-
-v09: The length of each curtain was twenty-eight cubits and the width of each curtain four cubits. All the curtains had the same measure.
-
-v10: He joined five curtains to one another, and the other five curtains he joined to one another.
-
-v11: He made loops of blue yarn on the edge of the outer curtain in the first set, and likewise on the edge of the outer curtain in the second set.
-
-v12: He made fifty loops on the first curtain and fifty loops on the edge of the curtain in the second set, the loops opposite one another.
-
-v13: He made fifty clasps of gold and joined the curtains to one another with the clasps, so that the dwelling became one.
+v04: Then all the skilled workers doing the sanctuary’s work came, each leaving the work they were doing,
+v05: and told Moses, “The people are bringing more than is needed to carry out the work the LORD commanded.”
 </p>
 
-## The Tent over the Dwelling
-
 <p>
-v14: He made curtains of goats’ hair for a tent over the dwelling; eleven curtains he made.
-
-v15: The length of each curtain was thirty cubits and the width of each curtain four cubits. The eleven curtains had the same measure.
-
-v16: He joined five curtains by themselves and six curtains by themselves.
-
-v17: He made fifty loops on the edge of the outer curtain in the first set and fifty loops on the edge of the curtain in the second set.
-
-v18: He made fifty clasps of bronze to join the tent together so that it became one.
-
-v19: He made a covering for the tent of ram skins dyed red and a covering of fine leather above it.
+v06: So Moses ordered a proclamation throughout the camp: “No man or woman is to make anything more as a contribution for the sanctuary.” In this way the people were stopped from bringing more.
+v07: What they had was enough to do all the work, with some left over.
 </p>
 
-## The Frames and Crossbars
+## The inner curtains
 
 <p>
-v20: He made upright frames of acacia wood for the dwelling.
-
-v21: Ten cubits was the length of a frame and a cubit and a half the width of each frame.
-
-v22: Each frame had two tenons joined to one another. Thus he made all the frames of the dwelling.
-
-v23: He made the frames for the dwelling: twenty frames for the south side,
-
-v24: and he made forty silver bases under the twenty frames, two bases under one frame for its two tenons and two bases under the next frame for its two tenons.
-
-v25: For the second side of the dwelling, the north side, he made twenty frames,
-
-v26: with their forty silver bases, two bases under one frame and two bases under the next frame.
-
-v27: For the rear of the dwelling westward he made six frames.
-
-v28: He made two frames for the corners of the dwelling at the rear.
-
-v29: They were doubled below and together complete at the top to the first ring. Thus he made both of them for the two corners.
-
-v30: There were eight frames with their silver bases, sixteen bases, two bases under each frame.
+v08: All the skilled workers made the tabernacle with ten curtains of finely twisted linen and blue, purple, and scarlet yarn. The craftsman worked cherubim into their design.
+v09: Each curtain was twenty-eight cubits long and four cubits wide. All the curtains had the same dimensions.
+v10: He joined five curtains to one another, and joined the other five to one another.
 </p>
 
-## The Crossbars, Veil, and Entrance Screen
+<p>
+v11: He made blue loops along the edge of the end curtain in the first set, and did the same along the end curtain in the second set.
+v12: He made fifty loops on one curtain and fifty loops along the edge of the curtain in the second set, with the loops facing one another.
+v13: He made fifty gold clasps and joined the curtains to one another with them, so the tabernacle formed one whole.
+</p>
+
+## The tent and its coverings
 
 <p>
-v31: He made crossbars of acacia wood: five for the frames of one side of the dwelling,
+v14: He made eleven goat-hair curtains for a tent over the tabernacle.
+v15: Each curtain was thirty cubits long and four cubits wide. All eleven curtains had the same dimensions.
+v16: He joined five curtains into one set and six into another.
+</p>
 
-v32: five crossbars for the frames of the other side of the dwelling, and five crossbars for the frames at the rear of the dwelling westward.
+<p>
+v17: He made fifty loops along the edge of the end curtain in one set and fifty loops along the edge of the curtain in the second set.
+v18: He made fifty bronze clasps to join the tent together as one whole.
+</p>
 
-v33: He made the middle crossbar to pass through the midst of the frames from end to end.
+<p>
+v19: He made a covering for the tent from rams’ skins dyed red, with a covering of taḥash skins above it.
+</p>
 
-v34: He overlaid the frames with gold, made their rings of gold as holders for the crossbars, and overlaid the crossbars with gold.
+## The frames
 
-v35: He made the veil of blue, purple, and scarlet yarn and fine twisted linen. With cherubim, the work of a skilled designer, he made it.
+<p>
+v20: He made upright frames of acacia wood for the tabernacle.
+v21: Each frame was ten cubits long and a cubit and a half wide.
+v22: Each frame had two tenons fitted alongside one another. He made all the tabernacle’s frames this way.
+</p>
 
-v36: He made for it four pillars of acacia wood and overlaid them with gold. Their hooks were gold, and he cast for them four silver bases.
+<p>
+v23: He made twenty frames for the tabernacle’s south side.
+v24: He made forty silver bases beneath the twenty frames: two bases beneath one frame for its two tenons, and two beneath the next for its two tenons.
+v25: For the tabernacle’s other side, the north, he made twenty frames,
+v26: with forty silver bases: two bases beneath one frame and two beneath the next.
+</p>
 
-v37: He made a screen for the entrance of the tent of blue, purple, and scarlet yarn and fine twisted linen, the work of an embroiderer,
+<p>
+v27: For the back of the tabernacle, toward the west, he made six frames.
+v28: He made two more frames for the corners at the back of the tabernacle.
+v29: They were paired at the bottom and joined together at the top, at one ring. He made both corner frames this way.
+</p>
 
-v38: with its five pillars and their hooks. He overlaid their tops and bands with gold, but their five bases were bronze.
+<p>
+v30: There were eight frames with sixteen silver bases, two bases beneath each frame.
+</p>
+
+## The crossbars
+
+<p>
+v31: He made crossbars of acacia wood: five for the frames on one side of the tabernacle,
+v32: five for the frames on the other side, and five for the frames at the back, toward the west.
+v33: He made the middle crossbar run through the frames from end to end.
+v34: He overlaid the frames with gold and made gold rings to hold the crossbars. He also overlaid the crossbars with gold.
+</p>
+
+## The curtain and entrance screen
+
+<p>
+v35: He made the dividing curtain of blue, purple, and scarlet yarn and finely twisted linen, with cherubim worked into the design.
+v36: He made four acacia pillars for it and overlaid them with gold. Their hooks were gold, and he cast four silver bases for them.
+</p>
+
+<p>
+v37: He made a screen for the tent’s entrance, embroidered in blue, purple, and scarlet yarn and finely twisted linen,
+v38: with five pillars and their hooks. He overlaid the pillars’ tops and bands with gold; their five bases were bronze.
 </p>
 
 ## Notes
 
-v01–03: The movement from command to construction is explicit: the same divine wisdom that commissioned the artisans now becomes actual work.
+v1: This sentence continues Moses’ instructions from the end of chapter 35. The work itself is narrated afterward.
 
-v03: Contributions continue “morning by morning,” suggesting sustained enthusiasm rather than a single collection.
+v8: The Hebrew moves from plural workers to an unnamed singular maker. “The craftsman” makes that shift readable without assigning a name the verse does not give.
 
-v05–07: The unusual problem is abundance. Moses must command the people to stop giving because the materials exceed the need.
+v8–19: The inner curtains and goat-hair tent remain distinct: ten curtains in two groups of five, joined with gold clasps; eleven in groups of five and six, joined with bronze clasps. Compare 26:1–14.
 
-v08–38: Much of the chapter closely repeats the design instructions of Exodus 26, but the verbal shift matters: what was commanded is now made. TSW preserves the repetition rather than abbreviating it.
+v20–22, 29: The uprights may be solid boards or open frames. “Tenons” renders projecting “hands” used in the joins. The compact corner description leaves the exact construction uncertain; compare the note at 26:15–24.
 
-v19: As in chapter 26, the identity of the outer leather material is uncertain. “Fine leather” keeps the material broad.
-
-v29: The corner construction remains technically difficult to reconstruct; TSW follows the received wording without inventing missing structural details.
+v36–38: The inner curtain has four pillars with silver bases; the entrance screen has five with bronze bases. Verse 38 specifically mentions gold on the tops and bands.
 
 ## Vocabulary
 
-v01: עָשָׂה (asah)
-“To make” or “do.” The dominant action as instruction becomes construction.
+v13: Clasp — qeres
+A fastener joining the facing loops of the curtain sets.
 
-v03: נְדָבָה (nedavah)
-“Freewill offering.” Material given voluntarily for the sanctuary.
+v19: Taḥash
+The uncertain skin or leather material named in 25:5.
 
-v05: דַּי (day)
-“Enough” or “sufficiency.” The people provide beyond what is required.
+v21: Cubit — ammah
+An ancient forearm-based measure; precise standards varied.
 
-v06: כָּלָא (kala)
-“To restrain” or “hold back.” The people are stopped from bringing more.
-
-v08: מִשְׁכָּן (mishkan)
-“Dwelling.” The sanctuary structure.
-
-v13: קֶרֶס (qeres)
-“Clasp.” A fitting joining curtain sets.
-
-v20: קֶרֶשׁ (qeresh)
-“Frame.” Upright structural element.
-
-v31: בְּרִיחַ (beriach)
-“Crossbar.” Horizontal bar connecting the frames.
-
-v35: פָּרֹכֶת (parokhet)
-“Veil.” The inner curtain marking the Most Holy Place.
+v35: Dividing curtain — parokhet
+The curtain separating the sanctuary’s inner and outer sacred spaces.

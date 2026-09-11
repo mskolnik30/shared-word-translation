@@ -1,0 +1,300 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T15:05:57.897118+00:00",
+  "base_commit": "93c7c67682f88a08ef36bd3c016ec5b3c3aec34f",
+  "scope": "Exodus 35–40; 214 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 95,
+    "verses": 2854
+  },
+  "source_record_count": 1213,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "35:2": [
+      "put to death"
+    ],
+    "35:25": [
+      "woman",
+      "her own hands"
+    ],
+    "35:26": [
+      "women",
+      "skill",
+      "goat hair"
+    ],
+    "35:30": [
+      "Bezalel",
+      "Uri",
+      "Hur",
+      "Judah"
+    ],
+    "35:34": [
+      "teach",
+      "Oholiab",
+      "Ahisamach",
+      "Dan"
+    ],
+    "36:6": [
+      "No man or woman"
+    ],
+    "36:8": [
+      "ten curtains",
+      "The craftsman"
+    ],
+    "37:1": [
+      "two and a half",
+      "a cubit and a half"
+    ],
+    "37:25": [
+      "a cubit long",
+      "a cubit wide",
+      "two cubits high"
+    ],
+    "38:8": [
+      "mirrors",
+      "women",
+      "served"
+    ],
+    "38:24": [
+      "twenty-nine talents",
+      "seven hundred thirty"
+    ],
+    "38:25": [
+      "a hundred talents",
+      "one thousand seven hundred seventy-five"
+    ],
+    "38:26": [
+      "beka",
+      "half a shekel",
+      "twenty years",
+      "six hundred three thousand five hundred fifty"
+    ],
+    "38:27": [
+      "a hundred bases",
+      "one talent per base"
+    ],
+    "38:28": [
+      "one thousand seven hundred seventy-five"
+    ],
+    "38:29": [
+      "seventy talents",
+      "two thousand four hundred"
+    ],
+    "39:30": [
+      "Holy to the LORD"
+    ],
+    "39:43": [
+      "Moses blessed them"
+    ],
+    "40:17": [
+      "first day",
+      "first month",
+      "second year"
+    ],
+    "40:22": [
+      "north",
+      "outside the dividing curtain"
+    ],
+    "40:24": [
+      "opposite the table",
+      "south"
+    ],
+    "40:31": [
+      "Moses, Aaron, and Aaron’s sons",
+      "would wash",
+      "hands and feet"
+    ],
+    "40:33": [
+      "Moses finished the work"
+    ],
+    "40:35": [
+      "Moses could not enter"
+    ],
+    "40:37": [
+      "would not set out until"
+    ],
+    "40:38": [
+      "by day",
+      "in it by night",
+      "whole house of Israel"
+    ]
+  },
+  "source_annotations_hashed_in_full": [
+    "35:7",
+    "35:11",
+    "36:2",
+    "37:8",
+    "39:4",
+    "39:33"
+  ],
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 214 pinned Hebrew records including annotations, drafted independently, then read all TSW comparators and consulted supplemental NET notes for chapters 35, 38, 39 and 40. It reread the assembled English and checked command/fulfillment terminology, measurements, materials, inventories, names and gemstone rows against chapters 25–31. Focused risks include women’s skilled labor, unnamed singular/plural artisan shifts, uncertain skins and textile terms, metal totals, exact repetitions, Moses among habitual washing users, and Moses unable to enter the glory-filled tabernacle. This is an authoring self-check, not independent scholarly review.",
+  "exodus_source_references_unique_through_40": 1213,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

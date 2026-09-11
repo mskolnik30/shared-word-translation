@@ -1,0 +1,2160 @@
+{
+  "scope": "Exodus 35–40 only; 214 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical means nonidentical similarity >= 0.90. Triage only, not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 196,
+      "near_identical_verses": 17,
+      "mean_similarity": 0.994585,
+      "verses": [
+        {
+          "reference": "Exodus 35:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:2",
+          "identical": false,
+          "similarity": 0.914286
+        },
+        {
+          "reference": "Exodus 35:3",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 35:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:5",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Exodus 35:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:1",
+          "identical": false,
+          "similarity": 0.975
+        },
+        {
+          "reference": "Exodus 36:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:37",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 36:38",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:37",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:38",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:39",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:40",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:41",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:42",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:43",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:2",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Exodus 40:3",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Exodus 40:4",
+          "identical": false,
+          "similarity": 0.913043
+        },
+        {
+          "reference": "Exodus 40:5",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Exodus 40:6",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Exodus 40:7",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Exodus 40:8",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Exodus 40:9",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Exodus 40:10",
+          "identical": false,
+          "similarity": 0.913043
+        },
+        {
+          "reference": "Exodus 40:11",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 40:12",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 40:13",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 40:14",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 40:15",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 40:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:37",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 40:38",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 5,
+      "near_identical_verses": 19,
+      "mean_similarity": 0.721524,
+      "verses": [
+        {
+          "reference": "Exodus 35:1",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Exodus 35:2",
+          "identical": false,
+          "similarity": 0.617647
+        },
+        {
+          "reference": "Exodus 35:3",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Exodus 35:4",
+          "identical": false,
+          "similarity": 0.411765
+        },
+        {
+          "reference": "Exodus 35:5",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Exodus 35:6",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 35:7",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 35:8",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Exodus 35:9",
+          "identical": false,
+          "similarity": 0.692308
+        },
+        {
+          "reference": "Exodus 35:10",
+          "identical": false,
+          "similarity": 0.733333
+        },
+        {
+          "reference": "Exodus 35:11",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 35:12",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Exodus 35:13",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Exodus 35:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 35:15",
+          "identical": false,
+          "similarity": 0.809524
+        },
+        {
+          "reference": "Exodus 35:16",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Exodus 35:17",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Exodus 35:18",
+          "identical": false,
+          "similarity": 0.48
+        },
+        {
+          "reference": "Exodus 35:19",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 35:20",
+          "identical": false,
+          "similarity": 0.272727
+        },
+        {
+          "reference": "Exodus 35:21",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Exodus 35:22",
+          "identical": false,
+          "similarity": 0.539683
+        },
+        {
+          "reference": "Exodus 35:23",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Exodus 35:24",
+          "identical": false,
+          "similarity": 0.592593
+        },
+        {
+          "reference": "Exodus 35:25",
+          "identical": false,
+          "similarity": 0.869565
+        },
+        {
+          "reference": "Exodus 35:26",
+          "identical": false,
+          "similarity": 0.642857
+        },
+        {
+          "reference": "Exodus 35:27",
+          "identical": false,
+          "similarity": 0.848485
+        },
+        {
+          "reference": "Exodus 35:28",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Exodus 35:29",
+          "identical": false,
+          "similarity": 0.722222
+        },
+        {
+          "reference": "Exodus 35:30",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Exodus 35:31",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Exodus 35:32",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Exodus 35:33",
+          "identical": false,
+          "similarity": 0.484848
+        },
+        {
+          "reference": "Exodus 35:34",
+          "identical": false,
+          "similarity": 0.711111
+        },
+        {
+          "reference": "Exodus 35:35",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 36:1",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 36:2",
+          "identical": false,
+          "similarity": 0.677966
+        },
+        {
+          "reference": "Exodus 36:3",
+          "identical": false,
+          "similarity": 0.606061
+        },
+        {
+          "reference": "Exodus 36:4",
+          "identical": false,
+          "similarity": 0.594595
+        },
+        {
+          "reference": "Exodus 36:5",
+          "identical": false,
+          "similarity": 0.590909
+        },
+        {
+          "reference": "Exodus 36:6",
+          "identical": false,
+          "similarity": 0.57971
+        },
+        {
+          "reference": "Exodus 36:7",
+          "identical": false,
+          "similarity": 0.4375
+        },
+        {
+          "reference": "Exodus 36:8",
+          "identical": false,
+          "similarity": 0.507937
+        },
+        {
+          "reference": "Exodus 36:9",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Exodus 36:10",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 36:11",
+          "identical": false,
+          "similarity": 0.701754
+        },
+        {
+          "reference": "Exodus 36:12",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Exodus 36:13",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Exodus 36:14",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 36:15",
+          "identical": false,
+          "similarity": 0.65
+        },
+        {
+          "reference": "Exodus 36:16",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Exodus 36:17",
+          "identical": false,
+          "similarity": 0.836364
+        },
+        {
+          "reference": "Exodus 36:18",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Exodus 36:19",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 36:20",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 36:21",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 36:22",
+          "identical": false,
+          "similarity": 0.685714
+        },
+        {
+          "reference": "Exodus 36:23",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Exodus 36:24",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Exodus 36:25",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Exodus 36:26",
+          "identical": false,
+          "similarity": 0.774194
+        },
+        {
+          "reference": "Exodus 36:27",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 36:28",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 36:29",
+          "identical": false,
+          "similarity": 0.478261
+        },
+        {
+          "reference": "Exodus 36:30",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Exodus 36:31",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 36:32",
+          "identical": false,
+          "similarity": 0.681818
+        },
+        {
+          "reference": "Exodus 36:33",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 36:34",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Exodus 36:35",
+          "identical": false,
+          "similarity": 0.652174
+        },
+        {
+          "reference": "Exodus 36:36",
+          "identical": false,
+          "similarity": 0.76
+        },
+        {
+          "reference": "Exodus 36:37",
+          "identical": false,
+          "similarity": 0.681818
+        },
+        {
+          "reference": "Exodus 36:38",
+          "identical": false,
+          "similarity": 0.878049
+        },
+        {
+          "reference": "Exodus 37:1",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Exodus 37:2",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Exodus 37:3",
+          "identical": false,
+          "similarity": 0.837209
+        },
+        {
+          "reference": "Exodus 37:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:5",
+          "identical": false,
+          "similarity": 0.8125
+        },
+        {
+          "reference": "Exodus 37:6",
+          "identical": false,
+          "similarity": 0.926829
+        },
+        {
+          "reference": "Exodus 37:7",
+          "identical": false,
+          "similarity": 0.685714
+        },
+        {
+          "reference": "Exodus 37:8",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 37:9",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 37:10",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 37:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 37:12",
+          "identical": false,
+          "similarity": 0.787879
+        },
+        {
+          "reference": "Exodus 37:13",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 37:14",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Exodus 37:15",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Exodus 37:16",
+          "identical": false,
+          "similarity": 0.454545
+        },
+        {
+          "reference": "Exodus 37:17",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 37:18",
+          "identical": false,
+          "similarity": 0.731707
+        },
+        {
+          "reference": "Exodus 37:19",
+          "identical": false,
+          "similarity": 0.592593
+        },
+        {
+          "reference": "Exodus 37:20",
+          "identical": false,
+          "similarity": 0.83871
+        },
+        {
+          "reference": "Exodus 37:21",
+          "identical": false,
+          "similarity": 0.583333
+        },
+        {
+          "reference": "Exodus 37:22",
+          "identical": false,
+          "similarity": 0.634146
+        },
+        {
+          "reference": "Exodus 37:23",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 37:24",
+          "identical": false,
+          "similarity": 0.814815
+        },
+        {
+          "reference": "Exodus 37:25",
+          "identical": false,
+          "similarity": 0.754098
+        },
+        {
+          "reference": "Exodus 37:26",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Exodus 37:27",
+          "identical": false,
+          "similarity": 0.638298
+        },
+        {
+          "reference": "Exodus 37:28",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Exodus 37:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 38:1",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 38:2",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Exodus 38:3",
+          "identical": false,
+          "similarity": 0.829268
+        },
+        {
+          "reference": "Exodus 38:4",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 38:5",
+          "identical": false,
+          "similarity": 0.787879
+        },
+        {
+          "reference": "Exodus 38:6",
+          "identical": false,
+          "similarity": 0.869565
+        },
+        {
+          "reference": "Exodus 38:7",
+          "identical": false,
+          "similarity": 0.790698
+        },
+        {
+          "reference": "Exodus 38:8",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Exodus 38:9",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 38:10",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Exodus 38:11",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Exodus 38:12",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 38:13",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 38:14",
+          "identical": false,
+          "similarity": 0.685714
+        },
+        {
+          "reference": "Exodus 38:15",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 38:16",
+          "identical": false,
+          "similarity": 0.782609
+        },
+        {
+          "reference": "Exodus 38:17",
+          "identical": false,
+          "similarity": 0.459016
+        },
+        {
+          "reference": "Exodus 38:18",
+          "identical": false,
+          "similarity": 0.621622
+        },
+        {
+          "reference": "Exodus 38:19",
+          "identical": false,
+          "similarity": 0.55814
+        },
+        {
+          "reference": "Exodus 38:20",
+          "identical": false,
+          "similarity": 0.64
+        },
+        {
+          "reference": "Exodus 38:21",
+          "identical": false,
+          "similarity": 0.612903
+        },
+        {
+          "reference": "Exodus 38:22",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Exodus 38:23",
+          "identical": false,
+          "similarity": 0.981132
+        },
+        {
+          "reference": "Exodus 38:24",
+          "identical": false,
+          "similarity": 0.606061
+        },
+        {
+          "reference": "Exodus 38:25",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Exodus 38:26",
+          "identical": false,
+          "similarity": 0.537313
+        },
+        {
+          "reference": "Exodus 38:27",
+          "identical": false,
+          "similarity": 0.610169
+        },
+        {
+          "reference": "Exodus 38:28",
+          "identical": false,
+          "similarity": 0.869565
+        },
+        {
+          "reference": "Exodus 38:29",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Exodus 38:30",
+          "identical": false,
+          "similarity": 0.830189
+        },
+        {
+          "reference": "Exodus 38:31",
+          "identical": false,
+          "similarity": 0.382979
+        },
+        {
+          "reference": "Exodus 39:1",
+          "identical": false,
+          "similarity": 0.77193
+        },
+        {
+          "reference": "Exodus 39:2",
+          "identical": false,
+          "similarity": 0.866667
+        },
+        {
+          "reference": "Exodus 39:3",
+          "identical": false,
+          "similarity": 0.83871
+        },
+        {
+          "reference": "Exodus 39:4",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Exodus 39:5",
+          "identical": false,
+          "similarity": 0.724638
+        },
+        {
+          "reference": "Exodus 39:6",
+          "identical": false,
+          "similarity": 0.619048
+        },
+        {
+          "reference": "Exodus 39:7",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Exodus 39:8",
+          "identical": false,
+          "similarity": 0.734694
+        },
+        {
+          "reference": "Exodus 39:9",
+          "identical": false,
+          "similarity": 0.648649
+        },
+        {
+          "reference": "Exodus 39:10",
+          "identical": false,
+          "similarity": 0.628571
+        },
+        {
+          "reference": "Exodus 39:11",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Exodus 39:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 39:13",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Exodus 39:14",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 39:15",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 39:16",
+          "identical": false,
+          "similarity": 0.772727
+        },
+        {
+          "reference": "Exodus 39:17",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Exodus 39:18",
+          "identical": false,
+          "similarity": 0.705882
+        },
+        {
+          "reference": "Exodus 39:19",
+          "identical": false,
+          "similarity": 0.808511
+        },
+        {
+          "reference": "Exodus 39:20",
+          "identical": false,
+          "similarity": 0.45614
+        },
+        {
+          "reference": "Exodus 39:21",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 39:22",
+          "identical": false,
+          "similarity": 0.518519
+        },
+        {
+          "reference": "Exodus 39:23",
+          "identical": false,
+          "similarity": 0.654545
+        },
+        {
+          "reference": "Exodus 39:24",
+          "identical": false,
+          "similarity": 0.484848
+        },
+        {
+          "reference": "Exodus 39:25",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Exodus 39:26",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Exodus 39:27",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 39:28",
+          "identical": false,
+          "similarity": 0.684211
+        },
+        {
+          "reference": "Exodus 39:29",
+          "identical": false,
+          "similarity": 0.755556
+        },
+        {
+          "reference": "Exodus 39:30",
+          "identical": false,
+          "similarity": 0.734694
+        },
+        {
+          "reference": "Exodus 39:31",
+          "identical": false,
+          "similarity": 0.651163
+        },
+        {
+          "reference": "Exodus 39:32",
+          "identical": false,
+          "similarity": 0.566667
+        },
+        {
+          "reference": "Exodus 39:33",
+          "identical": false,
+          "similarity": 0.864865
+        },
+        {
+          "reference": "Exodus 39:34",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 39:35",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 39:36",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 39:37",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Exodus 39:38",
+          "identical": false,
+          "similarity": 0.882353
+        },
+        {
+          "reference": "Exodus 39:39",
+          "identical": false,
+          "similarity": 0.810811
+        },
+        {
+          "reference": "Exodus 39:40",
+          "identical": false,
+          "similarity": 0.686567
+        },
+        {
+          "reference": "Exodus 39:41",
+          "identical": false,
+          "similarity": 0.26087
+        },
+        {
+          "reference": "Exodus 39:42",
+          "identical": false,
+          "similarity": 0.387097
+        },
+        {
+          "reference": "Exodus 39:43",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Exodus 40:1",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 40:2",
+          "identical": false,
+          "similarity": 0.882353
+        },
+        {
+          "reference": "Exodus 40:3",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Exodus 40:4",
+          "identical": false,
+          "similarity": 0.829268
+        },
+        {
+          "reference": "Exodus 40:5",
+          "identical": false,
+          "similarity": 0.565217
+        },
+        {
+          "reference": "Exodus 40:6",
+          "identical": false,
+          "similarity": 0.611111
+        },
+        {
+          "reference": "Exodus 40:7",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Exodus 40:8",
+          "identical": false,
+          "similarity": 0.645161
+        },
+        {
+          "reference": "Exodus 40:9",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 40:10",
+          "identical": false,
+          "similarity": 0.731707
+        },
+        {
+          "reference": "Exodus 40:11",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 40:12",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 40:13",
+          "identical": false,
+          "similarity": 0.631579
+        },
+        {
+          "reference": "Exodus 40:14",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Exodus 40:15",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Exodus 40:16",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Exodus 40:17",
+          "identical": false,
+          "similarity": 0.486486
+        },
+        {
+          "reference": "Exodus 40:18",
+          "identical": false,
+          "similarity": 0.619048
+        },
+        {
+          "reference": "Exodus 40:19",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 40:20",
+          "identical": false,
+          "similarity": 0.708333
+        },
+        {
+          "reference": "Exodus 40:21",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Exodus 40:22",
+          "identical": false,
+          "similarity": 0.820513
+        },
+        {
+          "reference": "Exodus 40:23",
+          "identical": false,
+          "similarity": 0.83871
+        },
+        {
+          "reference": "Exodus 40:24",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Exodus 40:25",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Exodus 40:26",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Exodus 40:27",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 40:28",
+          "identical": false,
+          "similarity": 0.421053
+        },
+        {
+          "reference": "Exodus 40:29",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Exodus 40:30",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Exodus 40:31",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Exodus 40:32",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Exodus 40:33",
+          "identical": false,
+          "similarity": 0.76
+        },
+        {
+          "reference": "Exodus 40:34",
+          "identical": false,
+          "similarity": 0.8125
+        },
+        {
+          "reference": "Exodus 40:35",
+          "identical": false,
+          "similarity": 0.723404
+        },
+        {
+          "reference": "Exodus 40:36",
+          "identical": false,
+          "similarity": 0.611111
+        },
+        {
+          "reference": "Exodus 40:37",
+          "identical": false,
+          "similarity": 0.631579
+        },
+        {
+          "reference": "Exodus 40:38",
+          "identical": false,
+          "similarity": 0.83871
+        }
+      ]
+    }
+  }
+}

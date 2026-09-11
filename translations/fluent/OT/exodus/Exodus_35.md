@@ -4,141 +4,102 @@ testament: OT
 chapter: 35
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-35-40-biblical-fluency-2026-09-11
 ---
 
-## Sabbath before the Work
+## The Sabbath
 
 <p>
-v01: Moses gathered all the congregation of the children of Israel and said to them, “These are the things that the LORD has commanded you to do:
-
-v02: Six days work will be done, but on the seventh day you will have a holy day, a Sabbath of complete rest to the LORD. Whoever does work on it will be put to death.
-
-v03: You will not kindle a fire in any of your dwellings on the Sabbath day.”
+v01: Moses gathered the whole Israelite community and told them, “These are the things the LORD has commanded you to do.
+v02: Work may be done for six days, but the seventh must be holy to you, a Sabbath of complete rest to the LORD. Anyone who works on it must be put to death.
+v03: Do not kindle a fire in any of your dwellings on the Sabbath day.”
 </p>
 
-## Bring an Offering to the LORD
+## Contributions and work for the sanctuary
 
 <p>
-v04: Moses spoke to all the congregation of the children of Israel, saying, “This is the thing that the LORD commanded, saying:
-
-v05: Take from among yourselves an offering for the LORD. Everyone whose heart is willing will bring it as the LORD’s offering: gold, silver, and bronze;
-
-v06: blue, purple, and scarlet yarn; fine linen and goats’ hair;
-
-v07: ram skins dyed red, fine leather, and acacia wood;
-
-v08: oil for the light, spices for the anointing oil and for the fragrant incense;
-
-v09: onyx stones and stones for setting in the ephod and in the breastpiece.
+v04: Moses told the whole Israelite community, “This is what the LORD has commanded:
+v05: Take up a contribution to the LORD from among yourselves. Everyone with a willing heart is to bring the LORD’s contribution: gold, silver, and bronze;
+v06: blue, purple, and scarlet yarn, fine linen, and goat hair;
+v07: rams’ skins dyed red, taḥash skins, and acacia wood;
+v08: oil for the light, spices for the anointing oil and the fragrant incense;
+v09: and onyx stones and stones to be set in the ephod and breastpiece.
 </p>
 
-## Let the Wise of Heart Come and Make
-
 <p>
-v10: “Let every wise-hearted person among you come and make all that the LORD has commanded:
-
-v11: the dwelling, its tent and covering, its clasps, frames, crossbars, pillars, and bases;
-
-v12: the ark and its poles, the cover, and the screening veil;
-
-v13: the table and its poles, all its utensils, and the bread of the Presence;
-
+v10: Let every skilled worker among you come and make everything the LORD has commanded:
+v11: the tabernacle, its tent and covering, its clasps, frames, crossbars, pillars, and bases;
+v12: the ark and its poles, the atonement cover, and the curtain that screens it;
+v13: the table, its poles and all its utensils, and the bread of the Presence;
 v14: the lampstand for the light, its utensils and lamps, and the oil for the light;
-
-v15: the altar of incense and its poles, the anointing oil and fragrant incense, and the entrance screen for the entrance of the dwelling;
-
-v16: the altar of burnt offering with its bronze grate, its poles, and all its utensils; the basin and its stand;
-
-v17: the hangings of the court, its pillars and bases, and the screen for the gate of the court;
-
-v18: the pegs of the dwelling and the pegs of the court and their cords;
-
-v19: the woven garments for ministering in the Holy Place, the holy garments for Aaron the priest, and the garments of his sons for priestly service.”
+v15: the incense altar and its poles, the anointing oil and fragrant incense, and the entrance screen for the tabernacle;
+v16: the altar of burnt offering with its bronze grating, poles, and all its utensils, and the basin with its stand;
+v17: the courtyard hangings, its pillars and bases, and the screen at the courtyard entrance;
+v18: the tabernacle’s tent pegs, the courtyard’s tent pegs, and their ropes;
+v19: and the garments for service in the sanctuary, the holy garments for Aaron the priest, and his sons’ garments for serving as priests.”
 </p>
 
-## The People Bring Their Offerings
+## The people bring their gifts
 
 <p>
-v20: Then all the congregation of the children of Israel went out from before Moses.
-
-v21: Everyone whose heart lifted him and everyone whose spirit moved him came and brought the LORD’s offering for the work of the tent of meeting, for all its service, and for the holy garments.
-
-v22: They came, men along with women, everyone willing of heart, bringing brooches, earrings, rings, and ornaments, all kinds of gold objects; everyone who waved a wave offering of gold to the LORD.
-
-v23: Everyone with whom was found blue, purple, or scarlet yarn, fine linen, goats’ hair, ram skins dyed red, or fine leather brought them.
-
-v24: Everyone who lifted up a contribution of silver or bronze brought the LORD’s offering, and everyone with whom was found acacia wood for any work of the service brought it.
-
-v25: Every wise-hearted woman spun with her hands and brought what she had spun: the blue, purple, and scarlet yarn and the fine linen.
-
-v26: All the women whose hearts lifted them in wisdom spun the goats’ hair.
-
-v27: The leaders brought the onyx stones and the stones for setting in the ephod and breastpiece,
-
-v28: and the spices and oil for the light, for the anointing oil, and for the fragrant incense.
-
-v29: Every man and woman among the children of Israel whose heart moved them to bring something for all the work that the LORD had commanded by the hand of Moses brought it as a freewill offering to the LORD.
+v20: Then the whole Israelite community left Moses’ presence.
+v21: Everyone whose heart moved them and whose spirit made them willing came with a contribution to the LORD for the work on the tent of meeting, for all its service, and for the holy garments.
 </p>
 
-## Bezalel and Oholiab
+<p>
+v22: Men came along with women, all with willing hearts. They brought brooches, earrings, rings, and pendants—every kind of gold ornament. All who presented a gold offering to the LORD came.
+v23: Everyone who had blue, purple, and scarlet yarn, fine linen, goat hair, rams’ skins dyed red, or taḥash skins brought them.
+v24: Everyone contributing silver or bronze brought it as the LORD’s contribution. Everyone who had acacia wood for any part of the work brought it.
+</p>
 
 <p>
-v30: Moses said to the children of Israel, “See, the LORD has called by name Bezalel son of Uri, son of Hur, from the tribe of Judah.
+v25: Every skilled woman spun with her own hands and brought what she had spun: blue, purple, and scarlet yarn, and fine linen.
+v26: All the women whose hearts moved them to use their skill spun the goat hair.
+</p>
 
-v31: He has filled him with the Spirit of God, with wisdom, understanding, knowledge, and every kind of craftsmanship,
+<p>
+v27: The leaders brought the onyx stones and the stones to be set in the ephod and breastpiece,
+v28: as well as the spices and oil for the light, the anointing oil, and the fragrant incense.
+</p>
 
-v32: to devise skilled designs, to work in gold, silver, and bronze,
+<p>
+v29: Every man and woman whose heart made them willing to bring something for all the work the LORD had commanded through Moses did so. The Israelites brought a freewill offering to the LORD.
+</p>
 
-v33: in cutting stones for setting, in carving wood, and in doing every kind of skilled work.
+## Wisdom for the work
 
-v34: He has also put in his heart the ability to teach, both he and Oholiab son of Ahisamach, from the tribe of Dan.
-
-v35: He has filled them with wisdom of heart to do every kind of work: engraving, skilled design, embroidery in blue, purple, and scarlet yarn and fine linen, and weaving—workers of every kind and designers of skillful work.
+<p>
+v30: Moses told the Israelites, “Look, the LORD has called Bezalel by name, the son of Uri, the son of Hur, from the tribe of Judah.
+v31: He has filled him with the Spirit of God, with wisdom, understanding, knowledge, and skill in every kind of craft,
+v32: to devise designs and work in gold, silver, and bronze,
+v33: to cut stones for settings, to carve wood, and to carry out every kind of skilled design.
+v34: He has given Bezalel the ability to teach, and Oholiab son of Ahisamach, from the tribe of Dan, has received this too.
+v35: God has filled them with skill to do every kind of work: engraving, designing, embroidering in blue, purple, and scarlet yarn and fine linen, and weaving. They can carry out every kind of craft and devise designs.”
 </p>
 
 ## Notes
 
-v01–03: Sabbath instruction precedes sanctuary construction, making clear that sacred work does not cancel sacred rest.
+v7, 23: Taḥash is an uncertain skin or leather term, also used in 25:5. “Dyed red” describes the treatment of the rams’ skins; the exact preparation is not specified.
 
-v05, v21–29: The offering is repeatedly described through willing hearts and moved spirits. The sanctuary is built from commanded materials freely contributed.
+v21–26: Heart and spirit express willingness, while “wise of heart” describes skill. The chapter explicitly names women as contributors and skilled spinners. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+35&version=NET).
 
-v10: “wise-hearted” craftsmanship is again treated as a form of wisdom, not as secondary to verbal or administrative gifts.
+v22: The names of the ornaments are conventional; the precise shapes of the objects are uncertain. “Presented an offering” is the expression elsewhere rendered “wave offering.”
 
-v22: Men and women participate together in giving personal ornaments and gold objects.
-
-v25–26: Women are explicitly named as skilled producers of sanctuary textiles, including both spun colored yarn and goats’ hair.
-
-v27: Leaders contribute precious stones and spices rather than being portrayed as controlling the whole collection.
-
-v30–35: The chapter repeats the divine calling of Bezalel and Oholiab from chapter 31, now before the gathered community as construction begins.
-
-v34: The ability to teach is itself said to be placed in the artisans’ hearts, making transmission of craft skill part of the divine gift.
+v34: The ability to teach is given to both Bezalel and Oholiab, alongside their ability to make the sanctuary’s objects.
 
 ## Vocabulary
 
-v02: שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)
-“Sabbath of complete rest.” Intensified language for cessation.
+v5: Contribution — terumah
+A gift set apart and brought for a specified purpose; here it supplies the sanctuary’s work.
 
-v05: נְדִיב לֵב (nediv lev)
-“Willing of heart.” Generous inner willingness to give.
+v10: Skilled — ḥakham lev
+Literally “wise of heart”; wisdom expressed in practical judgment and craft.
 
-v10: חֲכַם־לֵב (chakham-lev)
-“Wise-hearted.” Skilled and discerning in craft.
+v19: Garments for service — bigdei serad
+A rare garment expression also used in 31:10; its precise textile sense is uncertain.
 
-v21: נָשָׂא לִבּוֹ (nasa libbo)
-“His heart lifted him.” An idiom for inward motivation.
-
-v21: נָדְבָה רוּחוֹ (nadva rucho)
-“His spirit moved him.” Voluntary inner prompting.
-
-v22: תְּנוּפַת זָהָב (tenufat zahav)
-“Wave offering of gold.” Gold presented as a sacred contribution.
-
-v25: טָוָה (tavah)
-“To spin.” The textile craft performed by the women.
-
-v34: יָרָה (yarah)
-“To teach.” Bezalel and Oholiab receive ability to instruct others.
-
-v35: חָרָשׁ (charash)
-“Craftsperson” or “engraver.” One skilled in material workmanship.
+v29: Freewill offering — nedavah
+A voluntarily given gift, echoing the chapter’s repeated willingness language.
