@@ -4,170 +4,212 @@ testament: OT
 chapter: 27
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-26-28-biblical-fluency-2026-09-11
 ---
 
-## Isaac Blesses Jacob
+## Isaac’s Request
+
 <p>
-v01: When Isaac was old and his eyes were dim so that he could not see, he called Esau his older son and said to him, “My son.” And he answered, “Here I am.”
-v02: He said, “See now, I am old. I do not know the day of my death.
-v03: Now then, take your weapons, your quiver and your bow, and go out into the field and hunt game for me.
-v04: Prepare for me the delicious food that I love and bring it to me, so that I may eat, that my soul may bless you before I die.”
+v01: Isaac had grown old, and his eyes were too dim to see. He called his older son Esau. “My son!” he said. “Here I am,” Esau answered.
 </p>
 
 <p>
-v05: Now Rebekah was listening when Isaac spoke to Esau his son. So when Esau went to the field to hunt game and bring it,
-v06: Rebekah said to Jacob her son, “See, I heard your father speak to Esau your brother, saying,
-v07: ‘Bring me game and prepare delicious food for me, that I may eat and bless you before the LORD before my death.’
-v08: Now therefore, my son, listen to my voice as I command you.
-v09: Go now to the flock and bring me two choice young goats, so that I may prepare from them delicious food for your father, such as he loves.
-v10: Then you will bring it to your father to eat, so that he may bless you before his death.”
+v02: Isaac said, “I am old now, and I do not know when I will die.
+v03: Take your hunting gear—your quiver and bow—and go out into the country. Hunt some game for me.
+v04: Make me a meal I enjoy and bring it to me to eat, so that I may give you my heartfelt blessing before I die.”
+</p>
+
+## Rebekah’s Instructions
+
+<p>
+v05: Rebekah was listening as Isaac spoke to his son Esau. When Esau went out into the country to hunt game and bring it back,
+v06: she said to her son Jacob, “I heard your father tell your brother Esau,
+v07: ‘Bring me game and make me a meal I enjoy. I will eat it and bless you in the LORD’s presence before I die.’
 </p>
 
 <p>
-v11: Yet Jacob said to Rebekah his mother, “See, Esau my brother is a hairy man, and I am a smooth man.
-v12: Perhaps my father will feel me, and I will seem to him to be mocking him and bring a curse upon myself and not a blessing.”
-v13: His mother said to him, “Let your curse be upon me, my son. Only obey my voice, and go, bring them to me.”
+v08: Now, my son, listen to me and do what I tell you.
+v09: Go to the flock and get me two good young goats. I will make them into a meal your father enjoys.
+v10: Take it to your father to eat, so that he will bless you before he dies.”
 </p>
 
 <p>
-v14: So he went and took them and brought them to his mother, and his mother prepared delicious food such as his father loved.
-v15: Then Rebekah took the best garments of Esau her older son, which were with her in the house, and put them on Jacob her younger son.
-v16: And the skins of the young goats she put on his hands and on the smooth part of his neck.
-v17: Then she gave the delicious food and the bread that she had prepared into the hand of Jacob her son.
+v11: Jacob said to his mother Rebekah, “But my brother Esau is hairy, and my skin is smooth.
+v12: What if my father feels me? He will think I am making a fool of him. I will bring a curse on myself instead of a blessing.”
 </p>
 
 <p>
-v18: So he went in to his father and said, “My father.” And he said, “Here I am. Who are you, my son?”
-v19: Jacob said to his father, “I am Esau your firstborn. I have done as you told me. Rise now, sit and eat of my game, so that your soul may bless me.”
-v20: Yet Isaac said to his son, “How is it that you have found it so quickly, my son?” He answered, “Because the LORD your God granted me success.”
-v21: Then Isaac said to Jacob, “Come near, that I may feel you, my son, to know whether you are really my son Esau or not.”
+v13: His mother answered, “Let the curse fall on me, my son. Just listen to me. Go and get them.”
 </p>
 
 <p>
-v22: So Jacob went near to Isaac his father, who felt him and said, “The voice is Jacob’s voice, but the hands are the hands of Esau.”
-v23: And he did not recognize him, because his hands were hairy like his brother Esau’s hands. So he blessed him.
-v24: He said, “Are you really my son Esau?” He answered, “I am.”
-v25: Then he said, “Bring it near to me, that I may eat of my son’s game and bless you.” So he brought it near to him, and he ate. And he brought him wine, and he drank.
+v14: Jacob went and got the goats and brought them to his mother. She made a meal his father enjoyed.
 </p>
 
 <p>
-v26: Then his father Isaac said to him, “Come near and kiss me, my son.”
-v27: So he came near and kissed him. And he smelled the smell of his garments and blessed him and said,
-“See, the smell of my son
-is as the smell of a field
-that the LORD has blessed.
-v28: May God give you
-of the dew of heaven
-and of the richness of the earth,
-and abundance of grain and wine.
-v29: Let peoples serve you,
-and nations bow down to you.
-Be lord over your brothers,
-and may your mother’s sons bow down to you.
-Cursed be everyone who curses you,
-and blessed be everyone who blesses you.”
+v15: Rebekah took the fine clothes of her older son Esau, which she kept in the house, and dressed her younger son Jacob in them.
+v16: She covered his hands and the smooth part of his neck with the young goats’ skins.
+v17: Then she handed her son Jacob the meal and the bread she had made.
 </p>
 
-## Esau’s Bitter Cry
+## Jacob before His Father
+
 <p>
-v30: As soon as Isaac had finished blessing Jacob, when Jacob had scarcely gone out from the presence of Isaac his father, Esau his brother came in from his hunting.
-v31: He also prepared delicious food and brought it to his father. And he said to his father, “Let my father arise and eat of his son’s game, so that your soul may bless me.”
-v32: Isaac his father said to him, “Who are you?” He answered, “I am your son, your firstborn, Esau.”
-v33: Then Isaac trembled with exceedingly great trembling and said, “Who then was it that hunted game and brought it to me? I ate it all before you came, and I blessed him—and indeed he will be blessed.”
+v18: Jacob went to his father and said, “My father!” “Here I am,” Isaac answered. “Who are you, my son?”
 </p>
 
 <p>
-v34: When Esau heard the words of his father, he cried out with an exceedingly great and bitter cry and said to his father, “Bless me, even me also, my father!”
-v35: But he said, “Your brother came deceitfully, and he has taken away your blessing.”
-v36: Esau said, “Is he not rightly named Jacob? For he has supplanted me these two times. He took away my birthright, and now he has taken away my blessing.” Then he said, “Have you not reserved a blessing for me?”
+v19: “I am Esau, your firstborn,” Jacob told his father. “I have done what you asked. Please sit up and eat some of my game, so that you may give me your heartfelt blessing.”
 </p>
 
 <p>
-v37: Isaac answered and said to Esau, “Look, I have made him lord over you, and all his brothers I have given to him as servants, and with grain and wine I have sustained him. What then can I do for you, my son?”
-v38: Esau said to his father, “Have you but one blessing, my father? Bless me, even me also, my father.” And Esau lifted up his voice and wept.
+v20: Isaac asked his son, “How did you find it so quickly, my son?” Jacob answered, “The LORD your God brought it into my path.”
 </p>
 
 <p>
-v39: Then Isaac his father answered and said to him,
-“Look, away from the richness of the earth will your dwelling be,
-and away from the dew of heaven above.
-v40: By your sword you will live,
-and you will serve your brother.
+v21: Isaac said to Jacob, “Come closer, my son, and let me feel you. Are you really my son Esau or not?”
+</p>
+
+<p>
+v22: Jacob went close to his father Isaac, who felt him and said, “The voice is Jacob’s voice, but the hands are Esau’s hands.”
+v23: He did not recognize Jacob, because his hands were hairy like his brother Esau’s. So Isaac blessed him.
+</p>
+
+<p>
+v24: “Are you really my son Esau?” Isaac asked. “I am,” Jacob answered.
+</p>
+
+<p>
+v25: Isaac said, “Bring it here so I can eat my son’s game and give you my heartfelt blessing.” Jacob brought it, and Isaac ate. Then Jacob brought him wine, and he drank.
+</p>
+
+<p>
+v26: Then his father Isaac said, “Come closer and kiss me, my son.”
+</p>
+
+<p>
+v27: Jacob came close and kissed him. Isaac smelled his clothes and blessed him:
+“Ah, my son’s scent
+is like the scent of a field
+the LORD has blessed.
+v28: May God give you dew from the heavens,
+the richness of the earth,
+and abundant grain and new wine.
+v29: May peoples serve you
+and nations bow before you.
+Be lord over your brothers;
+may your mother’s sons bow before you.
+Cursed be those who curse you,
+and blessed be those who bless you.”
+</p>
+
+## Esau Returns
+
+<p>
+v30: Isaac finished blessing Jacob. Jacob had barely left his father Isaac when his brother Esau came back from hunting.
+</p>
+
+<p>
+v31: Esau too made a meal his father enjoyed and brought it to him. “Please sit up, my father, and eat some of your son’s game,” he said, “so that you may give me your heartfelt blessing.”
+</p>
+
+<p>
+v32: His father Isaac asked, “Who are you?” “I am your son,” he answered, “your firstborn, Esau.”
+</p>
+
+<p>
+v33: Isaac began trembling violently. “Who was it, then, who hunted game and brought it to me?” he asked. “I ate some of everything before you arrived, and I blessed him. And blessed he will remain!”
+</p>
+
+<p>
+v34: When Esau heard his father’s words, he let out a loud, bitter cry. “Bless me too, my father!” he pleaded.
+</p>
+
+<p>
+v35: Isaac said, “Your brother came with deceit and took your blessing.”
+</p>
+
+<p>
+v36: Esau said, “Wasn’t he rightly named Jacob? Twice now he has pushed me aside. He took my birthright, and now he has taken my blessing!” Then he asked, “Haven’t you kept a blessing for me?”
+</p>
+
+<p>
+v37: Isaac answered Esau, “I have made him lord over you and given him all his brothers as servants. I have provided him with grain and new wine. What can I do for you now, my son?”
+</p>
+
+<p>
+v38: “Do you have only one blessing, my father?” Esau asked. “Bless me too, my father!” And Esau wept aloud.
+</p>
+
+<p>
+v39: His father Isaac answered:
+“Your home will be away from the richness of the earth,
+away from the dew of the heavens above.
+v40: You will live by your sword
+and serve your brother.
 But when you grow restless,
-you will break his yoke from your neck.”
+you will tear his yoke from your neck.”
 </p>
 
-## Jacob Flees from Esau
+## A Threat and a Departure
+
 <p>
-v41: Now Esau hated Jacob because of the blessing with which his father had blessed him. And Esau said in his heart, “The days of mourning for my father are approaching; then I will kill my brother Jacob.”
-v42: But the words of Esau her older son were told to Rebekah. So she sent and called Jacob her younger son and said to him, “See, your brother Esau comforts himself concerning you by planning to kill you.
-v43: Now therefore, my son, obey my voice. Rise and flee to Laban my brother in Haran,
-v44: and stay with him a while, until your brother’s fury turns away,
-v45: until your brother’s anger turns away from you and he forgets what you have done to him. Then I will send and bring you back from there. Why should I be bereaved of both of you in one day?”
+v41: Esau bore a grudge against Jacob because of the blessing his father had given him. He said to himself, “The days of mourning for my father are near. Then I will kill my brother Jacob.”
 </p>
 
 <p>
-v46: Then Rebekah said to Isaac, “I am weary of my life because of the Hittite women. If Jacob takes a wife from the Hittite women like these, from the women of the land, what good will my life be to me?”
+v42: Rebekah was told what her older son Esau had said. She sent for her younger son Jacob and told him, “Your brother Esau is comforting himself with the thought of killing you.
+</p>
+
+<p>
+v43: Now, my son, listen to me. Leave at once and flee to my brother Laban in Haran.
+v44: Stay with him a few days, until your brother’s fury dies down,
+v45: until his anger toward you subsides and he forgets what you have done to him. Then I will send for you and bring you back. Why should I lose both of you in one day?”
+</p>
+
+<p>
+v46: Rebekah said to Isaac, “I am sick of my life because of these Hittite women. If Jacob marries a Hittite woman like these women of the land, what would I have to live for?”
 </p>
 
 ## Notes
 
-v01–04: Isaac seeks to bestow the blessing privately upon Esau despite earlier divine words concerning the older and younger sons.
+v03: ‘Quiver’ is the usual understanding of a rare word for an item of hunting equipment. The source records both a written form and a traditional reading for ‘game’; the traditional reading is followed here.
 
-v05–17: Rebekah's actions are driven by her understanding of the promise, yet the narrative does not explicitly approve the deception.
+v04: ‘My heartfelt blessing’ renders ‘that my nefesh may bless you.’ Nefesh can refer to the living self, not only ‘soul.’ The expression recurs in verses 19, 25, and 31.
 
-v20: Jacob invokes the LORD in support of a lie, intensifying the seriousness of the deception.
+v07: Rebekah’s report includes ‘in the LORD’s presence,’ which did not appear in Isaac’s words in verses 3–4. The report and the earlier speech are not made identical.
 
-v22–27: Isaac's uncertainty is repeated throughout the encounter. Hearing, touch, smell, and taste all play roles in the mistaken identification.
+v12: The word rendered ‘making a fool of him’ can mean mocking or deceiving. Jacob describes how his father might perceive him if he discovers the disguise.
 
-v28–29: The blessing includes fertility, prosperity, authority, and protection. It echoes themes from God's promises to Abraham.
+v23–27: The statement that Isaac blessed Jacob occurs before the blessing’s words are given. The intervening questions and actions remain in the Hebrew sequence.
 
-v30–33: Isaac recognizes that the blessing cannot simply be revoked. The spoken blessing carries enduring force.
+v36: Esau plays on Jacob’s name and a related verb for supplanting or pushing someone aside. Birthright and blessing are different words and remain distinct; compare 25:29–34.
 
-v34–38: Esau's grief is portrayed vividly and sympathetically. The narrative does not reduce him to a mere antagonist.
+v39: The Hebrew preposition can indicate separation or source. ‘Away from the richness’ is one reading; ‘from the richness’ or ‘amid the richness’ is also possible, giving Esau’s words a different relationship to Jacob’s blessing in verse 28.
 
-v36: Esau connects the loss of the blessing with the earlier transfer of the birthright, though the circumstances of the two events differ.
+v40: The verb translated ‘grow restless’ is difficult; ‘break loose’ is another possible sense. The yoke remains an image of subjection to the brother.
 
-v39–40: Esau receives a future marked by struggle, dependence, and eventual resistance.
-
-v41–45: The deception secures the blessing but fractures the family. Promise and conflict remain intertwined.
-
-v46: Rebekah frames Jacob's departure in terms of marriage, providing a reason Isaac can readily support.
+v45: Rebekah fears losing both sons. The verse does not explain how she expects the loss of the second son to happen.
 
 ## Vocabulary
 
-v04: בָּרַךְ (bāraḵ)
-“To bless.” To confer favor, prosperity, or covenantal benefit.
+v04: נֶפֶשׁ (nefesh)
+Life, living being, or self; here used in a personal expression of blessing.
 
-v12: קְלָלָה (qĕlālāh)
-“Curse.” The opposite of blessing, invoking harm or judgment.
+v12: קְלָלָה (qelalah)
+Curse, set against blessing in Jacob’s fear of being discovered.
 
-v22: קוֹל (qôl)
-“Voice.” A recurring motif in the chapter as Isaac struggles to discern identity.
+v22: קוֹל (qol)
+Voice or sound. Isaac hears one son’s voice but feels what seem to be the other son’s hands.
 
-v28: טַל (ṭal)
-“Dew.” A symbol of agricultural blessing and divine provision.
+v28: תִּירוֹשׁ (tirosh)
+New wine, named alongside grain as produce of the land.
 
-v29: עָבַד (ʿāḇaḏ)
-“To serve.” Often used in contexts of labor, submission, or political allegiance.
+v36: בְּכֹרָה / בְּרָכָה (bekhorah / berakhah)
+Birthright / blessing. Similar-sounding but distinct terms in Esau’s complaint.
 
-v33: חָרַד (ḥāraḏ)
-“To tremble.” Expresses profound fear, shock, or emotional disturbance.
-
-v34: מַר (mar)
-“Bitter.” Describes deep sorrow or anguish.
-
-v36: עָקַב (ʿāqaḇ)
-“To supplant,” “overreach,” or “take by the heel.” A wordplay associated with Jacob's name.
-
-v41: שָׂטַם (śāṭam)
-“To hate” or “hold a grudge.” Sustained hostility rather than momentary anger.
-
-v44: חֵמָה (ḥēmâ)
-“Fury” or “wrath.” Intense, burning anger.
-
-v45: שָׁכַח (šāḵaḥ)
-“To forget.” Here referring to the hoped-for fading of resentment.
-
-v46: קוּץ (qûṣ)
-“To be weary” or “loathe.” A strong expression of distress or dissatisfaction.
+v40: עֹל (ʿol)
+Yoke: equipment placed on an animal’s neck; here an image of imposed service.

@@ -1,0 +1,56 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T01:08:46.476574+00:00",
+  "base_commit": "2ca08434264c7360960b700e6eb6c3395d054e33",
+  "scope": "Genesis 26–28; 103 verses. All prior revision ledgers also rechecked.",
+  "structural_checks": {
+    "all_four_source_bound_revision_ledgers": "PASSED",
+    "names_numbers_relationships_and_key_repetitions": "PASSED_TARGETED_ASSERTIONS",
+    "paragraphs_quotes_and_draft_qualification": "PASSED",
+    "blessing_poetry_kept_as_continuation_lines_inside_paragraphs": "PASSED",
+    "TSW_prior_batches_later_Genesis_and_Companion_unchanged": "PASSED_DIFF_SCOPE",
+    "historical_batches_and_only_affected_old_bindings_preserved": "PASSED"
+  },
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": {
+    "returncode": 0,
+    "output": ""
+  },
+  "editorial_self_check": "Authoring model reread the Hebrew and assembled English, checked names/numbers and flagged interpretive alternatives. Not an independent reviewer.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
