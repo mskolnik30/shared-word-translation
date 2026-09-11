@@ -1,0 +1,54 @@
+{
+  "scope": "Leviticus 1–27",
+  "status": "AUTHORING_SELF_CHECK_COMPLETED",
+  "structural_result": "PASSED",
+  "source_records": 859,
+  "unique_selected_comparison_verses": 109,
+  "translation_changes_in_this_consistency_pass": [],
+  "findings": [
+    {
+      "domain": "Covenant",
+      "finding": "The selected-lemma concordance preserves covenant throughout salt in 2:13, bread in 24:8, and the repeated covenant sequence in chapter 26. Jacob, Isaac and Abraham remain in their stated order.",
+      "disposition": "RETAIN"
+    },
+    {
+      "domain": "Sabbath",
+      "finding": "Weekly, annual atonement, land-year and Jubilee sequences preserve Sabbath language. Chapter 26 links the land’s eventual rest to chapter 25. Deny-yourselves terminology remains connected across chapters 16 and 23.",
+      "disposition": "RETAIN"
+    },
+    {
+      "domain": "Holiness and uncleanness",
+      "finding": "The paired distinctions holy/common and clean/unclean remain explicit in 10:10. Holy-food access, priestly physical blemish and ritual uncleanness are not collapsed into one rule. The priest barred from altar approach still eats both holy and most-holy food in 21:22.",
+      "disposition": "RETAIN"
+    },
+    {
+      "domain": "Offerings",
+      "finding": "Thanksgiving’s same-day eating and vow/freewill’s additional day remain distinct. The leavened presentation in 23:17 is preserved alongside the leaven restriction in 2:11. Loaf quantities, animal sexes, freewill exceptions and nonselective animal tithing retain their stated scopes.",
+      "disposition": "RETAIN"
+    },
+    {
+      "domain": "Redemption and Jubilee",
+      "finding": "Covenant land ownership, walled-city exception, Levitical rights, family versus purchased field outcomes, added fifth in chapter 27, and irrevocable ban remain separate. No universal release rule has been substituted for the text’s differing provisions.",
+      "disposition": "RETAIN"
+    },
+    {
+      "domain": "Slavery and exodus",
+      "finding": "Purchased foreign slaves and their inheritance remain explicit. The use of slaves for Israel belonging to God in 25:42/55 connects with release from Egyptian slavery in 26:13 without erasing the distinction in 25:44–46.",
+      "disposition": "RETAIN"
+    },
+    {
+      "domain": "Consequential ambiguity",
+      "finding": "The records keep unresolved source questions visible, including 25:33, 26:40–41, 27:8, 27:20 and 27:27–29. Independent reviewers should revisit these choices in connected passages.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "domain": "Capitalization",
+      "finding": "Earlier chapters use lowercase sabbath/sabbaths where later chapters use Sabbath/Sabbaths. No meaning difference is intended. A final house-style pass should normalize capitalization and rebind affected ledgers.",
+      "disposition": "STYLE_REVIEW_PENDING"
+    }
+  ],
+  "limits": "Complete structure and exact source coverage were checked. Selected concordances and comparisons are not a fresh exhaustive scholarly rereading of all 859 verses. Earlier draft records and source reading remain historical authoring evidence. Independent scholarly review and reader testing have not occurred.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "verification": "audit/fluent-revision/2026-09-11-leviticus-consistency/verification.json"
+}

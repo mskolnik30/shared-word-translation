@@ -1,0 +1,865 @@
+{
+  "scope": "Whole-book selected source-lemma concordance; authoring self-check only",
+  "lemmas": {
+    "1285": "covenant",
+    "7676": "Sabbath",
+    "1350": "redeem",
+    "3104": "Jubilee",
+    "2764": "devoted/ban"
+  },
+  "rows": [
+    {
+      "reference": "Leviticus 2:13",
+      "source_reference": "Lev 2:13",
+      "source_verse_sha256": "ce4e9c52413d28093496234725a3e1f366311b49a82c200ed691f6224679d82e",
+      "matches": [
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִ֣ית",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "Season every grain offering with salt. Do not leave the salt of your God’s covenant out of your grain offering. Bring salt with every offering you present."
+    },
+    {
+      "reference": "Leviticus 16:31",
+      "source_reference": "Lev 16:31",
+      "source_verse_sha256": "80339dd9b8aa4bd3c24dddc8a2e12b94cd58723122d5204e87b2249cf4190de7",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבַּ֨ת",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "It is a sabbath of complete rest for you, and you must deny yourselves. This is a lasting statute."
+    },
+    {
+      "reference": "Leviticus 19:3",
+      "source_reference": "Lev 19:3",
+      "source_verse_sha256": "3fe149287d8df94a136f49a7caa6da58d818427d3942adcda4a6527fb2d050f5",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבְּתֹתַ֖/י",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "Each of you must revere your mother and your father, and keep my sabbaths. I am the LORD your God."
+    },
+    {
+      "reference": "Leviticus 19:30",
+      "source_reference": "Lev 19:30",
+      "source_verse_sha256": "bf93a7033c6d766ff602323c53127f2e8954042e2bba3920241d64b1be7a7c32",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבְּתֹתַ֣/י",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "Keep my sabbaths and revere my sanctuary. I am the LORD."
+    },
+    {
+      "reference": "Leviticus 23:3",
+      "source_reference": "Lev 23:3",
+      "source_verse_sha256": "14cf5e5543373a0278870f80686aa046f4ddd44572235eed307d92bfb78351ae",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבַּ֤ת",
+          "domain": "Sabbath"
+        },
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבָּ֥ת",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "You may work for six days. The seventh day is a Sabbath of complete rest, a sacred assembly. Do no work at all. It is a Sabbath to the LORD wherever you live."
+    },
+    {
+      "reference": "Leviticus 23:11",
+      "source_reference": "Lev 23:11",
+      "source_verse_sha256": "45170adad1323a253d141ee31dcdbe5c3bf352f6fdd302432e7e0de4298896bb",
+      "matches": [
+        {
+          "lemma": "d/7676",
+          "hebrew": "הַ/שַּׁבָּ֔ת",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "The priest is to wave the sheaf before the LORD so it will be accepted on your behalf. He is to wave it on the day after the Sabbath."
+    },
+    {
+      "reference": "Leviticus 23:15",
+      "source_reference": "Lev 23:15",
+      "source_verse_sha256": "ee26865023bc41b18678ac54f1c6633655cf35347933823287390754c96b02e6",
+      "matches": [
+        {
+          "lemma": "d/7676",
+          "hebrew": "הַ/שַּׁבָּ֔ת",
+          "domain": "Sabbath"
+        },
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבָּת֖וֹת",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "Starting with the day after the Sabbath, the day you bring the sheaf as a wave offering, count seven Sabbaths. The count must cover seven full weeks."
+    },
+    {
+      "reference": "Leviticus 23:16",
+      "source_reference": "Lev 23:16",
+      "source_verse_sha256": "4a67f0ef3045978145807e12f1e7438524d95278c1c5ca7610117a5883406b7b",
+      "matches": [
+        {
+          "lemma": "d/7676",
+          "hebrew": "הַ/שַּׁבָּת֙",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "Count fifty days, up to the day after the seventh Sabbath. Then bring the LORD an offering of new grain."
+    },
+    {
+      "reference": "Leviticus 23:32",
+      "source_reference": "Lev 23:32",
+      "source_verse_sha256": "067d9bcb50cc34f47a62982b3488b329a22eca6be3e4b65e2d65d278ae5988b8",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבַּ֨ת",
+          "domain": "Sabbath"
+        },
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבַּתְּ/כֶֽם",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "It is a Sabbath of complete rest for you, and you must deny yourselves. Observe your Sabbath from the evening of the ninth day of the month until the next evening.”"
+    },
+    {
+      "reference": "Leviticus 23:38",
+      "source_reference": "Lev 23:38",
+      "source_verse_sha256": "62fc7213596e53cd78fe4486b921721a12db7ab787e44cddcba616ac006171ec",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבְּתֹ֣ת",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "These are in addition to the LORD’s Sabbaths, in addition to your gifts, in addition to all your vow offerings, and in addition to all your freewill offerings that you give the LORD."
+    },
+    {
+      "reference": "Leviticus 24:8",
+      "source_reference": "Lev 24:8",
+      "source_verse_sha256": "ba1c532e68a02a9a5fe9cf967f444ff76421ce3ac5855b00665488279ea6feaf",
+      "matches": [
+        {
+          "lemma": "d/7676",
+          "hebrew": "הַ/שַּׁבָּ֜ת",
+          "domain": "Sabbath"
+        },
+        {
+          "lemma": "d/7676",
+          "hebrew": "הַ/שַּׁבָּ֗ת",
+          "domain": "Sabbath"
+        },
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִ֥ית",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "Sabbath after Sabbath, Aaron is to arrange the bread before the LORD regularly. It comes from the Israelites as an everlasting covenant."
+    },
+    {
+      "reference": "Leviticus 25:2",
+      "source_reference": "Lev 25:2",
+      "source_verse_sha256": "bbf64308c0e0e23cd15a34eaad074e2a735a2ee28b3b19416a036177e00c6119",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבָּ֖ת",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "“Tell the Israelites: When you enter the land I am giving you, the land is to keep a Sabbath to the LORD."
+    },
+    {
+      "reference": "Leviticus 25:4",
+      "source_reference": "Lev 25:4",
+      "source_verse_sha256": "216c70e373d1fc3ec6f71b8048bf56b3d7b542569d888c2348625cc72fb2fc57",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבַּ֤ת",
+          "domain": "Sabbath"
+        },
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבָּ֖ת",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "But in the seventh year, the land is to have a Sabbath of complete rest, a Sabbath to the LORD. Do not sow your field or prune your vineyard."
+    },
+    {
+      "reference": "Leviticus 25:6",
+      "source_reference": "Lev 25:6",
+      "source_verse_sha256": "a32e80010962753e89f8bd0b58f6e4780645e55ef3e4f4cad05b404da3416d71",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבַּ֨ת",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "Whatever the land grows during its Sabbath will be food for you, your male and female slaves, your hired worker and the residents staying with you."
+    },
+    {
+      "reference": "Leviticus 25:8",
+      "source_reference": "Lev 25:8",
+      "source_verse_sha256": "a0f9e7b0283419a64e4f5c469b65b8bc375dadc2661994b94dddc4a981fb8837",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבְּתֹ֣ת",
+          "domain": "Sabbath"
+        },
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבְּתֹ֣ת",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "Count seven Sabbaths of years—seven times seven years—so the seven Sabbaths of years come to forty-nine years."
+    },
+    {
+      "reference": "Leviticus 25:10",
+      "source_reference": "Lev 25:10",
+      "source_verse_sha256": "9874b7154cfa8beef6498fd39e7ea2a35e45d4312a5f251346d817537f318009",
+      "matches": [
+        {
+          "lemma": "3104",
+          "hebrew": "יוֹבֵ֥ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "Set the fiftieth year apart as holy and proclaim freedom throughout the land to everyone living in it. It will be a Jubilee for you. Each of you is to return to your family holding, and each of you to your family."
+    },
+    {
+      "reference": "Leviticus 25:11",
+      "source_reference": "Lev 25:11",
+      "source_verse_sha256": "7a60901ca4581137e3e5ee215e2b16ac5d27af827855acb2e842e776bc3797dd",
+      "matches": [
+        {
+          "lemma": "3104",
+          "hebrew": "יוֹבֵ֣ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "The fiftieth year will be a Jubilee for you. Do not sow, reap what grows on its own or gather grapes from the untended vines."
+    },
+    {
+      "reference": "Leviticus 25:12",
+      "source_reference": "Lev 25:12",
+      "source_verse_sha256": "7711e80126eec31fdddc9aa978b5d09e30069848fd4cc29b9bfc583f32a45938",
+      "matches": [
+        {
+          "lemma": "3104",
+          "hebrew": "יוֹבֵ֣ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "It is a Jubilee, holy to you. Eat what the fields produce."
+    },
+    {
+      "reference": "Leviticus 25:13",
+      "source_reference": "Lev 25:13",
+      "source_verse_sha256": "0b5e4b3177c45c8bfb21c4491d7f264459f121c62eb8ec9867a9bc66e56885d8",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יּוֹבֵ֖ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "In this Jubilee year, each of you is to return to your family holding."
+    },
+    {
+      "reference": "Leviticus 25:15",
+      "source_reference": "Lev 25:15",
+      "source_verse_sha256": "7896e4ffd64df02e9f920f076ba45a70e089944bb0b758e5f2b1c4e70948259c",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יּוֹבֵ֔ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "When you buy from your neighbor, base the price on the years since the Jubilee. He is to sell to you according to the number of harvest years left."
+    },
+    {
+      "reference": "Leviticus 25:25",
+      "source_reference": "Lev 25:25",
+      "source_verse_sha256": "c8e18b8c72bd2ff4192c348a8f69d96ea04641874d74ad44ba9789f8922211b0",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "גֹֽאֲל/וֹ֙",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "c/1350 a",
+          "hebrew": "וְ/גָאַ֕ל",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "If your brother becomes poor and sells part of his family holding, his nearest redeemer is to come and redeem what his brother sold."
+    },
+    {
+      "reference": "Leviticus 25:26",
+      "source_reference": "Lev 25:26",
+      "source_verse_sha256": "8a5acf1c3fbf042f5ad3b8809dbb6c2d9efdf34617237beb1f8ff125c43e7f38",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "גֹּאֵ֑ל",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "If he has no redeemer but later gains enough to redeem it himself,"
+    },
+    {
+      "reference": "Leviticus 25:28",
+      "source_reference": "Lev 25:28",
+      "source_verse_sha256": "335e188bd5dba416106044d5755069eca9ec0d400d4f269ffdab6e8651f2b8b0",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יּוֹבֵ֑ל",
+          "domain": "Jubilee"
+        },
+        {
+          "lemma": "b/3104",
+          "hebrew": "בַּ/יֹּבֵ֔ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "If he cannot afford the refund, what he sold will remain with the buyer until the Jubilee year. At the Jubilee it will be released, and he may return to his family holding."
+    },
+    {
+      "reference": "Leviticus 25:30",
+      "source_reference": "Lev 25:30",
+      "source_verse_sha256": "869462247c090f725d4223b2b23f8667a74f6846bd0047190e1f4bc7312e44ad",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגָּאֵ֗ל",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "b/3104",
+          "hebrew": "בַּ/יֹּבֵֽל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "If it is not redeemed before the full year ends, the house in that walled city becomes the buyer’s permanent property for his generations. It will not be released at the Jubilee."
+    },
+    {
+      "reference": "Leviticus 25:31",
+      "source_reference": "Lev 25:31",
+      "source_verse_sha256": "c08958ac3b80b5e3093c0ded3914bbc45d0e2a65e15058f924a467d88a1370fa",
+      "matches": [
+        {
+          "lemma": "c/b/3104",
+          "hebrew": "וּ/בַ/יֹּבֵ֖ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "Houses in villages with no surrounding wall are to be treated like open fields. They may be redeemed, and they will be released at the Jubilee."
+    },
+    {
+      "reference": "Leviticus 25:33",
+      "source_reference": "Lev 25:33",
+      "source_verse_sha256": "0772a045153c4adf54ddecf0ef9a862765861c408503ae38ce17d8bd0ff93547",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגְאַל֙",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "b/3104",
+          "hebrew": "בַּ/יֹּבֵ֑ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "If someone redeems a house from the Levites, the house sold in the city they hold is to be released at the Jubilee. The houses in the Levites’ cities are their holding among the Israelites."
+    },
+    {
+      "reference": "Leviticus 25:40",
+      "source_reference": "Lev 25:40",
+      "source_verse_sha256": "39135ca2c2da3e8d75e4850afbec1ec94819148cf8af16d5fbed87add0f11d6c",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יֹּבֵ֖ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "Let him stay with you as a hired worker or resident. He is to work for you until the Jubilee year."
+    },
+    {
+      "reference": "Leviticus 25:48",
+      "source_reference": "Lev 25:48",
+      "source_verse_sha256": "06e9b76e4152ec4c43f5a1b0fd5af1dff22f04c1c39e172a58df4f9d4a8ab109",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגְאָלֶֽ/נּוּ",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "he retains the right to be redeemed after the sale. One of his brothers may redeem him."
+    },
+    {
+      "reference": "Leviticus 25:49",
+      "source_reference": "Lev 25:49",
+      "source_verse_sha256": "1a5cdaad42de75540cbb580b0e8d9b8f374b94dafd777adc2cf20ea970c6969f",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגְאָלֶ֔/נּוּ",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגְאָלֶ֑/נּוּ",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "c/1350 a",
+          "hebrew": "וְ/נִגְאָֽל",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "His uncle, his uncle’s son or another close relative from his family may redeem him. Or, if he gains the means, he may redeem himself."
+    },
+    {
+      "reference": "Leviticus 25:50",
+      "source_reference": "Lev 25:50",
+      "source_verse_sha256": "b1e67a2c7b0eb5933e69b8aa98c080e954c6a450cfda0cdb428b5999abe38c97",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יֹּבֵ֑ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "He and his buyer are to count the years from the year he was sold until the Jubilee year. His sale price is to be apportioned by the years, with his time valued like that of a hired worker."
+    },
+    {
+      "reference": "Leviticus 25:52",
+      "source_reference": "Lev 25:52",
+      "source_verse_sha256": "e0fc0ce50ab8111a3e350d843ce307ce5eb5607d624da682e238ae99b2e15577",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יֹּבֵ֖ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "If only a few years remain until the Jubilee, he is to count them with his buyer and pay for his redemption in proportion to those years."
+    },
+    {
+      "reference": "Leviticus 25:54",
+      "source_reference": "Lev 25:54",
+      "source_verse_sha256": "06f8b2273770c31e3687376961d567598813e726781a468c07242775542f3da8",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגָּאֵ֖ל",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יֹּבֵ֔ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "If he is not redeemed in any of these ways, he and his children are to be released in the Jubilee year."
+    },
+    {
+      "reference": "Leviticus 26:2",
+      "source_reference": "Lev 26:2",
+      "source_verse_sha256": "db114d92fa246d5a16f25bc9d466c9f643eacbf3cfcd1d1ff800ff4485ad736b",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבְּתֹתַ֣/י",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "Keep my Sabbaths and hold my sanctuary in reverence. I am the LORD."
+    },
+    {
+      "reference": "Leviticus 26:9",
+      "source_reference": "Lev 26:9",
+      "source_verse_sha256": "c76e03f9374f6f487d8ed3431f3b0a75d220f8ed7019f0d21aa3a23f290872ec",
+      "matches": [
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִיתִ֖/י",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "I will turn toward you, make you fruitful and increase your numbers. I will uphold my covenant with you."
+    },
+    {
+      "reference": "Leviticus 26:15",
+      "source_reference": "Lev 26:15",
+      "source_verse_sha256": "40cd85be5f51484b22ddecabab9ecdc716e21416435cfd8401772df274cbceb1",
+      "matches": [
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִיתִֽ/י",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "if you reject my statutes and abhor my ordinances, refusing to do all my commandments and breaking my covenant,"
+    },
+    {
+      "reference": "Leviticus 26:25",
+      "source_reference": "Lev 26:25",
+      "source_verse_sha256": "416421e26493b42b18e54d7e7813f43412d5379879c956a8d5eb9cb597904195",
+      "matches": [
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִ֔ית",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "I will bring a sword against you to avenge the covenant. When you gather in your cities, I will send pestilence among you, and you will be handed over to an enemy."
+    },
+    {
+      "reference": "Leviticus 26:34",
+      "source_reference": "Lev 26:34",
+      "source_verse_sha256": "710b85009d77356932fa41359be07f23fc49410a588d76294915d34fc8b5c866",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבְּתֹתֶ֗י/הָ",
+          "domain": "Sabbath"
+        },
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבְּתֹתֶֽי/הָ",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "Then the land will enjoy its Sabbaths throughout the time it lies desolate, while you are in your enemies’ land. Then the land will rest and enjoy its Sabbaths."
+    },
+    {
+      "reference": "Leviticus 26:35",
+      "source_reference": "Lev 26:35",
+      "source_verse_sha256": "f2db7db6f2f2304e6d7e565a5d38cb83154a871b65fe73fbe2c21f61b45c09b0",
+      "matches": [
+        {
+          "lemma": "b/7676",
+          "hebrew": "בְּ/שַׁבְּתֹתֵי/כֶ֖ם",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "All the time it lies desolate, it will have the rest it did not have on your Sabbaths when you lived on it."
+    },
+    {
+      "reference": "Leviticus 26:42",
+      "source_reference": "Lev 26:42",
+      "source_verse_sha256": "7214a6abe31619e03b47365b8c2222820ab322e32e8b2ef5f3a2fa559120e86d",
+      "matches": [
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִיתִ֣/י",
+          "domain": "covenant"
+        },
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִיתִ֨/י",
+          "domain": "covenant"
+        },
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִיתִ֧/י",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "I will remember my covenant with Jacob, and also my covenant with Isaac; I will remember my covenant with Abraham. And I will remember the land."
+    },
+    {
+      "reference": "Leviticus 26:43",
+      "source_reference": "Lev 26:43",
+      "source_verse_sha256": "452f47d3fb5e50691ea822430e12436a95168584e7bcbeec8679b485b29e40d7",
+      "matches": [
+        {
+          "lemma": "7676",
+          "hebrew": "שַׁבְּתֹתֶ֗י/הָ",
+          "domain": "Sabbath"
+        }
+      ],
+      "fluent": "The land will be abandoned by them and enjoy its Sabbaths while it lies desolate without them. They will bear the penalty for their guilt, precisely because they rejected my ordinances and abhorred my statutes."
+    },
+    {
+      "reference": "Leviticus 26:44",
+      "source_reference": "Lev 26:44",
+      "source_verse_sha256": "c76149536accab57b656eec6254caf343977da1b395e9d9635827b500ed75256",
+      "matches": [
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִיתִ֖/י",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "Yet even then, when they are in their enemies’ land, I will not reject or abhor them so completely that I destroy them and break my covenant with them. I am the LORD their God."
+    },
+    {
+      "reference": "Leviticus 26:45",
+      "source_reference": "Lev 26:45",
+      "source_verse_sha256": "7bed439a72504ad76611a067583c92ca1b70091e677d4698e015922b57275453",
+      "matches": [
+        {
+          "lemma": "1285",
+          "hebrew": "בְּרִ֣ית",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "For their sake I will remember the covenant with their ancestors, whom I brought out of Egypt in the sight of the nations to be their God. I am the LORD.”"
+    },
+    {
+      "reference": "Leviticus 27:13",
+      "source_reference": "Lev 27:13",
+      "source_verse_sha256": "3d826abe4c96dc95d9bd5b43e7c73e04e8dc64ec5beea8857afa98d85243112e",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "גָּאֹ֖ל",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגְאָלֶ֑/נָּה",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "If the person who made the vow redeems the animal, he must add one-fifth to its assessed value."
+    },
+    {
+      "reference": "Leviticus 27:15",
+      "source_reference": "Lev 27:15",
+      "source_verse_sha256": "06396f72aecc3bad146eb5b5619cd2cd6680d4e9d791d316583a91d5ee4d0ff3",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגְאַ֖ל",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "If the person who consecrated the house redeems it, he must add one-fifth of its assessed value in silver. Then the house will belong to him again."
+    },
+    {
+      "reference": "Leviticus 27:17",
+      "source_reference": "Lev 27:17",
+      "source_verse_sha256": "d4b79965d5e909099faa32d3ce85643f7fd3785e776e9b79c3501e12b123141d",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יֹּבֵ֖ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "If he consecrates his field in the Jubilee year, the full assessed value will stand."
+    },
+    {
+      "reference": "Leviticus 27:18",
+      "source_reference": "Lev 27:18",
+      "source_verse_sha256": "88ad846deda5871d7024fa60b75bd7df06cddfa0788bdd817a278cc02386dd4f",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יֹּבֵל֮",
+          "domain": "Jubilee"
+        },
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יֹּבֵ֑ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "If he consecrates it after the Jubilee, the priest is to calculate the amount according to the years left until the next Jubilee year and reduce the assessed value accordingly."
+    },
+    {
+      "reference": "Leviticus 27:19",
+      "source_reference": "Lev 27:19",
+      "source_verse_sha256": "0c7577ca1656128a574811889816db6d63251704586057118ef7d92caeee1863",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "גָּאֹ֤ל",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגְאַל֙",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "If the person who consecrated the field redeems it, he must add one-fifth of its assessed value in silver. Then the field will belong to him again."
+    },
+    {
+      "reference": "Leviticus 27:20",
+      "source_reference": "Lev 27:20",
+      "source_verse_sha256": "8b2f2cea489a3cb0692fb135b7a1c69d4e23aaec4ca3ca70e2c64465b62c2603",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגְאַל֙",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגָּאֵ֖ל",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "If he does not redeem the field and it is sold to someone else, it can no longer be redeemed."
+    },
+    {
+      "reference": "Leviticus 27:21",
+      "source_reference": "Lev 27:21",
+      "source_verse_sha256": "bc2a19254c009e3430e233e5fcccb99ce329f2e74c6adbf824d6c3692136b559",
+      "matches": [
+        {
+          "lemma": "b/3104",
+          "hebrew": "בַ/יֹּבֵ֗ל",
+          "domain": "Jubilee"
+        },
+        {
+          "lemma": "d/2764 a",
+          "hebrew": "הַ/חֵ֑רֶם",
+          "domain": "devoted/ban"
+        }
+      ],
+      "fluent": "When the field is released at the Jubilee, it will be holy to the LORD, like a field devoted beyond recall. It will become the priest’s holding."
+    },
+    {
+      "reference": "Leviticus 27:23",
+      "source_reference": "Lev 27:23",
+      "source_verse_sha256": "f5bfb3bc49a90879b53dc4c5b08920713e099bd53dec45963b0ace9d7a0e554c",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יֹּבֵ֑ל",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "the priest is to calculate its assessed value for the years until the Jubilee. The man is to pay that amount that very day as something holy to the LORD."
+    },
+    {
+      "reference": "Leviticus 27:24",
+      "source_reference": "Lev 27:24",
+      "source_verse_sha256": "a69fae17122f2882523bc4cefb2db02defbe67d34b8f3f084ac851af59f41b88",
+      "matches": [
+        {
+          "lemma": "d/3104",
+          "hebrew": "הַ/יּוֹבֵל֙",
+          "domain": "Jubilee"
+        }
+      ],
+      "fluent": "In the Jubilee year, the field returns to the person he bought it from, the one whose family holding the land is."
+    },
+    {
+      "reference": "Leviticus 27:27",
+      "source_reference": "Lev 27:27",
+      "source_verse_sha256": "2420af0dce87c09614f775aed8eb3656fb021b4abb0e20d6bcbcc2de5ea4b5f1",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגָּאֵ֖ל",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "If it is an unclean animal, its owner may ransom it at the assessed value plus one-fifth. If it is not redeemed, it is to be sold at the assessed value."
+    },
+    {
+      "reference": "Leviticus 27:28",
+      "source_reference": "Lev 27:28",
+      "source_verse_sha256": "7d6e92bcd6bd37524e506288e973597d4dd2cb9feecfbc73f9a1840914d90475",
+      "matches": [
+        {
+          "lemma": "2764 a",
+          "hebrew": "חֵ֡רֶם",
+          "domain": "devoted/ban"
+        },
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגָּאֵ֑ל",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "2764 a",
+          "hebrew": "חֵ֕רֶם",
+          "domain": "devoted/ban"
+        }
+      ],
+      "fluent": "But anything someone devotes beyond recall to the LORD from what belongs to him—whether a person, an animal or part of his family’s field—must neither be sold nor redeemed. Everything devoted beyond recall is most holy to the LORD."
+    },
+    {
+      "reference": "Leviticus 27:29",
+      "source_reference": "Lev 27:29",
+      "source_verse_sha256": "3a96b2db564a5660f3f27943289dfd04a62fab2583e1b7d0f9452636fa405e0f",
+      "matches": [
+        {
+          "lemma": "2764 a",
+          "hebrew": "חֵ֗רֶם",
+          "domain": "devoted/ban"
+        }
+      ],
+      "fluent": "No person placed under such a ban may be ransomed. That person must be put to death."
+    },
+    {
+      "reference": "Leviticus 27:31",
+      "source_reference": "Lev 27:31",
+      "source_verse_sha256": "e23037d65609180c5515a2b4272d0f7bced4e84fcdd0d6f608f49ad0c72294f9",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "גָּאֹ֥ל",
+          "domain": "redeem"
+        },
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגְאַ֛ל",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "If someone redeems any of his tithe, he must add one-fifth to its value."
+    },
+    {
+      "reference": "Leviticus 27:33",
+      "source_reference": "Lev 27:33",
+      "source_verse_sha256": "9ebcda8ccb9b22988d258b06fafde17c3ce668520e2560f0829ea277e38458cd",
+      "matches": [
+        {
+          "lemma": "1350 a",
+          "hebrew": "יִגָּאֵֽל",
+          "domain": "redeem"
+        }
+      ],
+      "fluent": "Do not pick out good animals from bad or make a substitution. If an animal is exchanged, both it and its substitute become holy and may not be redeemed.”"
+    }
+  ]
+}

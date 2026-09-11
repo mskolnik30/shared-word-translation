@@ -4,121 +4,136 @@ testament: OT
 chapter: 27
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-26-27-biblical-fluency-2026-09-11
 ---
 
-## Valuations for Vowed Persons
+## Vows involving a person’s value
 
 <p>
-v01: The LORD spoke to Moses, saying,
-v02: “Speak to the Israelites and say to them: When someone makes a special vow to the LORD involving the valuation of a person,
-v03: the valuation for a male from twenty years old up to sixty years old will be fifty shekels of silver, according to the sanctuary shekel.
-v04: If the person is female, the valuation will be thirty shekels.
-v05: If the person is from five years old up to twenty years old, the valuation for a male will be twenty shekels and for a female ten shekels.
-v06: If the person is from one month old up to five years old, the valuation for a male will be five shekels of silver and for a female three shekels of silver.
-v07: If the person is sixty years old or older, the valuation for a male will be fifteen shekels and for a female ten shekels.
-v08: But if someone is too poor to pay the valuation, that person will be presented before the priest, and the priest will assign a valuation according to what the one who made the vow can afford.
-</p>
-
-## Animals Dedicated to the LORD
-
-<p>
-v09: If the vow concerns an animal that may be presented as an offering to the LORD, anything given from such animals to the LORD will be holy.
-v10: It will not be altered or exchanged, good for bad or bad for good. If one animal is exchanged for another, both the original animal and its substitute will be holy.
-v11: If it is any unclean animal that may not be presented as an offering to the LORD, the animal will be set before the priest.
-v12: The priest will assign its value, whether good or bad. Whatever valuation the priest assigns, so it will be.
-v13: If the owner wishes to redeem it, one-fifth will be added to its valuation.
-</p>
-
-## Houses Dedicated to the LORD
-
-<p>
-v14: If someone dedicates a house as holy to the LORD, the priest will assign its value, whether good or bad. Whatever valuation the priest assigns, so it will stand.
-v15: If the one who dedicated the house wishes to redeem it, that person will add one-fifth to the valuation price, and the house will again belong to that person.
-</p>
-
-## Fields Dedicated to the LORD
-
-<p>
-v16: If someone dedicates to the LORD part of a field from ancestral possession, the valuation will be according to the amount of seed required for it: a homer of barley seed will be valued at fifty shekels of silver.
-v17: If the field is dedicated beginning in the Year of Jubilee, the full valuation will stand.
-v18: But if the field is dedicated after the Jubilee, the priest will calculate the price according to the years remaining until the Year of Jubilee, and the valuation will be reduced accordingly.
-v19: If the one who dedicated the field wishes to redeem it, that person will add one-fifth to the valuation price, and it will remain theirs.
-v20: But if that person does not redeem the field, or if the field has been sold to another person, it may no longer be redeemed.
-v21: When the field is released in the Jubilee, it will be holy to the LORD like a field devoted to the LORD; it will become the priest’s possession.
+v01: The LORD said to Moses,
+v02: “Tell the Israelites: When someone makes a special vow to the LORD involving the assessed value of a person, use these amounts.
+v03: For a male from twenty to sixty years old, the assessed value is fifty shekels of silver, using the sanctuary shekel.
+v04: For a female, the assessed value is thirty shekels.
 </p>
 
 <p>
-v22: If someone dedicates to the LORD a field that was purchased and is not part of ancestral possession,
-v23: the priest will calculate for that person the amount of the valuation up to the Year of Jubilee, and the person will give the valuation on that day as something holy to the LORD.
-v24: In the Year of Jubilee the field will return to the person from whom it was bought, the one whose ancestral possession of the land it was.
-v25: Every valuation will be according to the sanctuary shekel: twenty gerahs will make one shekel.
-</p>
-
-## Firstborn and Devoted Things
-
-<p>
-v26: But no one may dedicate the firstborn of an animal, because as firstborn it already belongs to the LORD. Whether ox or sheep, it belongs to the LORD.
-v27: If it is an unclean animal, the owner may redeem it according to the valuation and will add one-fifth to it. If it is not redeemed, it will be sold according to the valuation.
+v05: From five to twenty years old, assess a male at twenty shekels and a female at ten shekels.
+v06: From one month to five years old, assess a male at five shekels of silver and a female at three shekels of silver.
+v07: From sixty years old and upward, assess a male at fifteen shekels and a female at ten shekels.
 </p>
 
 <p>
-v28: But nothing that someone devotes irrevocably to the LORD from anything they possess—whether a human being, an animal, or an ancestral field—may be sold or redeemed. Everything devoted irrevocably is most holy to the LORD.
-v29: No human being devoted to destruction may be ransomed; that person will surely be put to death.
+v08: If the person making the vow is too poor to pay the assessed value, have the person being valued stand before the priest. The priest is to set the amount according to what the one who made the vow can afford.
+</p>
+
+## Animals given by vow
+
+<p>
+v09: If the vow concerns an animal of a kind that may be offered to the LORD, any such animal given to the LORD becomes holy.
+v10: Do not replace it or exchange it, good for bad or bad for good. If one animal is exchanged for another, both the original and its substitute become holy.
+</p>
+
+<p>
+v11: If it is an unclean animal that may not be offered to the LORD, bring the animal before the priest.
+v12: The priest is to assess its value, whether good or bad. Whatever value the priest sets will stand.
+v13: If the person who made the vow redeems the animal, he must add one-fifth to its assessed value.
+</p>
+
+## A consecrated house
+
+<p>
+v14: If someone consecrates his house as holy to the LORD, the priest is to assess it, whether good or bad. Whatever value the priest sets will stand.
+v15: If the person who consecrated the house redeems it, he must add one-fifth of its assessed value in silver. Then the house will belong to him again.
+</p>
+
+## A consecrated field
+
+<p>
+v16: If someone consecrates part of his family’s field to the LORD, assess it according to the seed needed to sow it: fifty shekels of silver for land sown with a homer of barley seed.
+v17: If he consecrates his field in the Jubilee year, the full assessed value will stand.
+v18: If he consecrates it after the Jubilee, the priest is to calculate the amount according to the years left until the next Jubilee year and reduce the assessed value accordingly.
+</p>
+
+<p>
+v19: If the person who consecrated the field redeems it, he must add one-fifth of its assessed value in silver. Then the field will belong to him again.
+v20: If he does not redeem the field and it is sold to someone else, it can no longer be redeemed.
+v21: When the field is released at the Jubilee, it will be holy to the LORD, like a field devoted beyond recall. It will become the priest’s holding.
+</p>
+
+<p>
+v22: If someone consecrates to the LORD a field he bought, one that is not part of his family holding,
+v23: the priest is to calculate its assessed value for the years until the Jubilee. The man is to pay that amount that very day as something holy to the LORD.
+v24: In the Jubilee year, the field returns to the person he bought it from, the one whose family holding the land is.
+</p>
+
+<p>
+v25: Every assessment must use the sanctuary shekel. A shekel is twenty gerahs.
+</p>
+
+## Firstborn animals
+
+<p>
+v26: No one may consecrate a firstborn animal that already belongs to the LORD as a firstborn. Whether from cattle, sheep or goats, it belongs to the LORD.
+v27: If it is an unclean animal, its owner may ransom it at the assessed value plus one-fifth. If it is not redeemed, it is to be sold at the assessed value.
+</p>
+
+## What is devoted beyond recall
+
+<p>
+v28: But anything someone devotes beyond recall to the LORD from what belongs to him—whether a person, an animal or part of his family’s field—must neither be sold nor redeemed. Everything devoted beyond recall is most holy to the LORD.
+v29: No person placed under such a ban may be ransomed. That person must be put to death.
 </p>
 
 ## Tithes
 
 <p>
-v30: Every tithe of the land, whether from the seed of the land or from the fruit of the trees, belongs to the LORD; it is holy to the LORD.
-v31: If someone wishes to redeem any of the tithe, one-fifth will be added to it.
-v32: Every tithe of herd or flock—every tenth animal that passes under the staff—will be holy to the LORD.
-v33: The owner will not examine whether it is good or bad and will not exchange it. If it is exchanged, both it and its substitute will be holy; it may not be redeemed.”
+v30: Every tithe from the land, whether from its grain or the fruit of its trees, belongs to the LORD. It is holy to the LORD.
+v31: If someone redeems any of his tithe, he must add one-fifth to its value.
+v32: For the tithe of cattle, sheep and goats, every tenth animal that passes under the rod is holy to the LORD.
+v33: Do not pick out good animals from bad or make a substitution. If an animal is exchanged, both it and its substitute become holy and may not be redeemed.”
 </p>
 
 <p>
-v34: These are the commandments that the LORD commanded Moses for the Israelites on Mount Sinai.
+v34: These are the commandments the LORD gave Moses for the Israelites on Mount Sinai.
 </p>
 
 ## Notes
 
-v02–08: The valuations assign fixed monetary amounts according to age and sex within the vow system. The text does not state that these valuations measure the intrinsic worth or dignity of the persons involved.
+v02–08: The opening expression links a special vow with an assessed value for a person. The exact vow procedure is not explained. The listed amounts vary by age and sex; the translation retains them without making them statements about a person’s dignity or supplying a theory for the differences.
 
-v08: Poverty is explicitly taken into account. The priest adjusts the valuation according to the actual means of the person who made the vow.
+v08: The Hebrew pronouns can refer to the person being valued or the person who made the vow; these may be the same person. The closing clause explicitly bases the priest’s assessment on the vow-maker’s means.
 
-v09–13: Once an acceptable sacrificial animal is given to the LORD, exchanging it does not undo its holiness; both animals become holy. An unclean animal can instead be valued and redeemed.
+v16–24: A family holding and a purchased field have different outcomes. An unredeemed consecrated family field can become the priest’s holding; a purchased field returns to the family whose holding it originally was. The Jubilee connection continues chapter 25.
 
-v16–24: The value of dedicated land is tied to both its agricultural capacity and the years remaining until Jubilee, preserving the larger principle that ancestral land is not permanently alienated.
+v20: The Hebrew says “if he does not redeem” and “if he sells.” The seller may be understood as the original holder or the sanctuary’s representative; the relation between the two conditions is also compressed. The passive “it is sold” leaves the seller unnamed.
 
-v25: The sanctuary shekel provides the standard measure. TSW retains the ancient units rather than replacing them with modern monetary equivalents.
+v23: The Hebrew says payment is made “that day.” The draft understands this as the day of assessment; it does not add “Jubilee” to the payment date.
 
-v26: A firstborn animal cannot be newly dedicated because the firstborn already belongs to the LORD by prior claim.
+v27: The unclean animal may continue the firstborn subject of verse 26 or return to the more general valuation of unclean animals. The text is retained without forcing it into the separate firstborn-donkey rule of Exodus 13:13.
 
-v28–29: חֵרֶם (cherem) names an irrevocable category of devotion to the LORD that can include destruction. Verse 29 is severe and the chapter does not explain the circumstances by which a human being enters this category. TSW retains the legal statement without expanding or harmonizing it.
+v28–29: Herem is an irrevocable dedication or ban, distinct from the redeemable vows earlier in the chapter. Verse 29 explicitly requires death for a human under the ban. It does not identify the authority or circumstances that imposed it; the translation supplies neither an unrestricted permission to kill nor an unstated limitation to warfare.
 
-v30–33: The tithe is described as already belonging to the LORD. Selection of every tenth herd animal is not to be manipulated by assessing its quality.
+v32–33: The tenth animal passing under the rod is taken without selection by quality. This differs from choosing an unblemished animal for a sacrifice; substituting another animal makes both holy.
 
 ## Vocabulary
 
-v02: עֵרֶךְ (erekh)
-“Valuation.” An assigned monetary value used in the regulations for vows and dedicated property.
+v02: neder / erekh (נֶדֶר / עֵרֶךְ)
+Vow / assessed value. A vow is a binding promise; an assessment sets the amount relevant to fulfilling or redeeming it in these rules.
 
-v02: נֶדֶר (neder)
-“Vow.” A solemn voluntary commitment made to the LORD.
+v03, 25: shekel / gerah (שֶׁקֶל / גֵּרָה)
+Units of weight. The sanctuary standard here is twenty gerahs to one shekel; silver is weighed rather than converted to modern currency.
 
-v03: שֶׁקֶל הַקֹּדֶשׁ (sheqel haqqodesh)
-“Sanctuary shekel.” The standard weight used for sacred valuations.
+v13: gaal (גָּאַל)
+Redeem: recover something through the payment required here. Unlike chapter 25’s family redemption, these provisions repeatedly add one-fifth to an assessment.
 
-v13: גָּאַל (ga'al)
-“To redeem.” To recover something dedicated by paying the prescribed valuation and addition.
+v16: homer (חֹמֶר)
+A dry measure used here for barley seed. It is a different measure from the omer mentioned elsewhere.
 
-v16: חֹמֶר (chomer)
-“Homer.” A large ancient dry measure used here to calculate the amount of barley seed required for a field.
+v28: herem (חֵרֶם)
+What is devoted beyond recall or placed under a ban. Context determines its outcome: priestly possession for the field in verse 21, and death for the person in verse 29.
 
-v25: גֵּרָה (gerah)
-“Gerah.” A small unit of weight; twenty gerahs equal one sanctuary shekel in this regulation.
-
-v28: חֵרֶם (cherem)
-“Devoted thing” or “thing placed under irrevocable ban.” Something transferred beyond ordinary sale or redemption to the LORD.
-
-v30: מַעֲשֵׂר (ma'aser)
-“Tithe.” A tenth portion designated as belonging to the LORD.
+v30: maaser (מַעֲשֵׂר)
+Tithe: a tenth. The chapter applies it to land produce and to every tenth animal counted under the rod.

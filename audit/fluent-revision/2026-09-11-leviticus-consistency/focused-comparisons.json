@@ -1,0 +1,708 @@
+{
+  "scope": "Selected cross-chapter comparisons, not all-book independent fidelity review",
+  "groups": {
+    "holy/common and clean/unclean": [
+      "10:10",
+      "11:44",
+      "11:45",
+      "11:46",
+      "11:47",
+      "20:25",
+      "20:26",
+      "21:22",
+      "21:23",
+      "22:10",
+      "22:11",
+      "22:12",
+      "22:13",
+      "22:32",
+      "24:9"
+    ],
+    "offering distinctions": [
+      "2:11",
+      "2:13",
+      "7:15",
+      "7:16",
+      "19:6",
+      "22:19",
+      "22:21",
+      "22:23",
+      "22:29",
+      "22:30",
+      "23:17",
+      "23:18",
+      "23:19",
+      "23:20",
+      "24:5",
+      "27:32",
+      "27:33"
+    ],
+    "Sabbath and exodus links": [
+      "16:29",
+      "16:30",
+      "16:31",
+      "19:30",
+      "23:22",
+      "23:27",
+      "23:28",
+      "23:29",
+      "23:30",
+      "23:32",
+      "25:2",
+      "25:4",
+      "25:6",
+      "25:7",
+      "25:42",
+      "25:44",
+      "25:45",
+      "25:46",
+      "25:55",
+      "26:2",
+      "26:13",
+      "26:34",
+      "26:35",
+      "26:41",
+      "26:42"
+    ],
+    "land and redemption distinctions": [
+      "25:23",
+      "25:25",
+      "25:29",
+      "25:30",
+      "25:31",
+      "25:32",
+      "25:33",
+      "25:34",
+      "25:41",
+      "25:54",
+      "27:16",
+      "27:20",
+      "27:21",
+      "27:22",
+      "27:23",
+      "27:24",
+      "27:26",
+      "27:27",
+      "27:28",
+      "27:29"
+    ]
+  },
+  "rows": [
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 10:10",
+      "source_reference": "Lev 10:10",
+      "source_verse_sha256": "1117da6986d1883d702123474b3b59af5a7ca5f4402c98dd69c7db21b5507ce2",
+      "hebrew_reading_aid": "וּֽ/לֲ/הַבְדִּ֔יל בֵּ֥ין הַ/קֹּ֖דֶשׁ וּ/בֵ֣ין הַ/חֹ֑ל וּ/בֵ֥ין הַ/טָּמֵ֖א וּ/בֵ֥ין הַ/טָּהֽוֹר",
+      "fluent": "You must distinguish between the holy and the common, and between the unclean and the clean,"
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 11:44",
+      "source_reference": "Lev 11:44",
+      "source_verse_sha256": "f947c1bc3f7df7895ce8c05a9c221db7ec4a780854f790ddbc6184069d541917",
+      "hebrew_reading_aid": "כִּ֣י אֲנִ֣י יְהוָה֮ אֱלֹֽהֵי/כֶם֒ וְ/הִתְקַדִּשְׁתֶּם֙ וִ/הְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָ֑נִי וְ/לֹ֤א תְטַמְּאוּ֙ אֶת נַפְשֹׁ֣תֵי/כֶ֔ם בְּ/כָל הַ/שֶּׁ֖רֶץ הָ/רֹמֵ֥שׂ עַל הָ/אָֽרֶץ",
+      "fluent": "For I am the LORD your God. Consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean through any swarming creature that crawls on the ground."
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 11:45",
+      "source_reference": "Lev 11:45",
+      "source_verse_sha256": "277fab7c60f84a97a5f9fc69c21821f02250f4af534f1f2675ba5c5e30975db6",
+      "hebrew_reading_aid": "כִּ֣י אֲנִ֣י יְהוָ֗ה הַֽ/מַּעֲלֶ֤ה אֶתְ/כֶם֙ מֵ/אֶ֣רֶץ מִצְרַ֔יִם לִ/הְיֹ֥ת לָ/כֶ֖ם לֵ/אלֹהִ֑ים וִ/הְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָֽנִי",
+      "fluent": "For I am the LORD who brought you up from the land of Egypt to be your God. Be holy, because I am holy."
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 11:46",
+      "source_reference": "Lev 11:46",
+      "source_verse_sha256": "ab6de7d17831e32ac1e432dfb25c388978b852dda3411c2ff447fe157b38352e",
+      "hebrew_reading_aid": "זֹ֣את תּוֹרַ֤ת הַ/בְּהֵמָה֙ וְ/הָ/ע֔וֹף וְ/כֹל֙ נֶ֣פֶשׁ הַֽ/חַיָּ֔ה הָ/רֹמֶ֖שֶׂת בַּ/מָּ֑יִם וּ/לְ/כָל נֶ֖פֶשׁ הַ/שֹּׁרֶ֥צֶת עַל הָ/אָֽרֶץ",
+      "fluent": "These are the instructions concerning land animals, flying creatures, every living creature that moves in the water, and every creature that swarms on the ground,"
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 11:47",
+      "source_reference": "Lev 11:47",
+      "source_verse_sha256": "c704b38393b3241bde93e820c900f4767a8ee0464a579900c8706c8f44198984",
+      "hebrew_reading_aid": "לְ/הַבְדִּ֕יל בֵּ֥ין הַ/טָּמֵ֖א וּ/בֵ֣ין הַ/טָּהֹ֑ר וּ/בֵ֤ין הַֽ/חַיָּה֙ הַֽ/נֶּאֱכֶ֔לֶת וּ/בֵין֙ הַֽ/חַיָּ֔ה אֲשֶׁ֖ר לֹ֥א תֵאָכֵֽל",
+      "fluent": "so that you can distinguish the unclean from the clean, and the animals that may be eaten from those that must not be eaten.”"
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 20:25",
+      "source_reference": "Lev 20:25",
+      "source_verse_sha256": "8e9aef54dc061374d40fc871957552e3b9e6a7960871e1820e969bccea1c5e07",
+      "hebrew_reading_aid": "וְ/הִבְדַּלְתֶּ֞ם בֵּֽין הַ/בְּהֵמָ֤ה הַ/טְּהֹרָה֙ לַ/טְּמֵאָ֔ה וּ/בֵין הָ/ע֥וֹף הַ/טָּמֵ֖א לַ/טָּהֹ֑ר וְ/לֹֽא תְשַׁקְּצ֨וּ אֶת נַפְשֹֽׁתֵי/כֶ֜ם בַּ/בְּהֵמָ֣ה וּ/בָ/ע֗וֹף וּ/בְ/כֹל֙ אֲשֶׁ֣ר תִּרְמֹ֣שׂ הָֽ/אֲדָמָ֔ה אֲשֶׁר הִבְדַּ֥לְתִּי לָ/כֶ֖ם לְ/טַמֵּֽא",
+      "fluent": "You must distinguish clean animals from unclean ones, and unclean birds from clean ones. Do not make yourselves detestable through animals, birds, or anything that moves along the ground, which I have set apart for you as unclean."
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 20:26",
+      "source_reference": "Lev 20:26",
+      "source_verse_sha256": "e1a474e4d14793442b7c3b4e7aa1aeb77a863942a1917b68da920f733554b037",
+      "hebrew_reading_aid": "וִ/הְיִ֤יתֶם לִ/י֙ קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אֲנִ֣י יְהוָ֑ה וָ/אַבְדִּ֥ל אֶתְ/כֶ֛ם מִן הָֽ/עַמִּ֖ים לִ/הְי֥וֹת לִֽ/י",
+      "fluent": "Be holy to me, because I, the LORD, am holy. I have set you apart from the peoples to be mine."
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 21:22",
+      "source_reference": "Lev 21:22",
+      "source_verse_sha256": "e12298357335898e0cda1f937268af4bb4e33a061fb5f5a8e3601f019d713300",
+      "hebrew_reading_aid": "לֶ֣חֶם אֱלֹהָ֔י/ו מִ/קָּדְשֵׁ֖י הַ/קֳּדָשִׁ֑ים וּ/מִן הַ/קֳּדָשִׁ֖ים יֹאכֵֽל",
+      "fluent": "He may eat the food of his God, both the most holy offerings and the holy offerings."
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 21:23",
+      "source_reference": "Lev 21:23",
+      "source_verse_sha256": "cc2b9971c811430b24c4fbb2d85fc454e48e2a36aa11272a92f4c61c21206562",
+      "hebrew_reading_aid": "אַ֣ךְ אֶל הַ/פָּרֹ֜כֶת לֹ֣א יָבֹ֗א וְ/אֶל הַ/מִּזְבֵּ֛חַ לֹ֥א יִגַּ֖שׁ כִּֽי מ֣וּם בּ֑/וֹ וְ/לֹ֤א יְחַלֵּל֙ אֶת מִקְדָּשַׁ֔/י כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדְּשָֽׁ/ם",
+      "fluent": "But he must not go to the curtain or approach the altar, because he has a blemish. He must not profane my holy places, for I am the LORD who makes them holy.’”"
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 22:10",
+      "source_reference": "Lev 22:10",
+      "source_verse_sha256": "d89725c8e1db20d3539ce6473b80399fc2b358e610f7df176e26882308a06523",
+      "hebrew_reading_aid": "וְ/כָל זָ֖ר לֹא יֹ֣אכַל קֹ֑דֶשׁ תּוֹשַׁ֥ב כֹּהֵ֛ן וְ/שָׂכִ֖יר לֹא יֹ֥אכַל קֹֽדֶשׁ",
+      "fluent": "No one outside the priestly household may eat holy food. Neither a lodger staying with a priest nor a hired worker may eat it."
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 22:11",
+      "source_reference": "Lev 22:11",
+      "source_verse_sha256": "c00501110537a8953e84266fe3ac0184685798b918b4949bd3556538ce36ed9a",
+      "hebrew_reading_aid": "וְ/כֹהֵ֗ן כִּֽי יִקְנֶ֥ה נֶ֨פֶשׁ֙ קִנְיַ֣ן כַּסְפּ֔/וֹ ה֖וּא יֹ֣אכַל בּ֑/וֹ וִ/ילִ֣יד בֵּית֔/וֹ הֵ֖ם יֹאכְל֥וּ בְ/לַחְמֽ/וֹ",
+      "fluent": "But a person the priest buys as a slave with his own money may eat it. Those born in his household may also eat his food."
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 22:12",
+      "source_reference": "Lev 22:12",
+      "source_verse_sha256": "0eb25a9c4b5f0db7b5ef250621e1bcb9b14fd2bea1bf648867234fb976af707e",
+      "hebrew_reading_aid": "וּ/בַת כֹּהֵ֔ן כִּ֥י תִהְיֶ֖ה לְ/אִ֣ישׁ זָ֑ר הִ֕וא בִּ/תְרוּמַ֥ת הַ/קֳּדָשִׁ֖ים לֹ֥א תֹאכֵֽל",
+      "fluent": "If a priest's daughter marries a man outside the priestly household, she may not eat the contributions from the holy offerings."
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 22:13",
+      "source_reference": "Lev 22:13",
+      "source_verse_sha256": "b4b779902840661a84ed829205f9d7d452fa1b5e8776f1ac33b6aa967a3addf4",
+      "hebrew_reading_aid": "וּ/בַת כֹּהֵן֩ כִּ֨י תִהְיֶ֜ה אַלְמָנָ֣ה וּ/גְרוּשָׁ֗ה וְ/זֶרַע֮ אֵ֣ין לָ/הּ֒ וְ/שָׁבָ֞ה אֶל בֵּ֤ית אָבִ֨י/הָ֙ כִּ/נְעוּרֶ֔י/הָ מִ/לֶּ֥חֶם אָבִ֖י/הָ תֹּאכֵ֑ל וְ/כָל זָ֖ר לֹא יֹ֥אכַל בּֽ/וֹ",
+      "fluent": "But if she is widowed or divorced, has no offspring, and returns to her father's house as in her youth, she may eat her father's food. No one outside the priestly household may eat it."
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 22:32",
+      "source_reference": "Lev 22:32",
+      "source_verse_sha256": "105a90e500ba37b086026b25cd9d817bd5e08d279b4c414cbe129317380bf1dc",
+      "hebrew_reading_aid": "וְ/לֹ֤א תְחַלְּלוּ֙ אֶת שֵׁ֣ם קָדְשִׁ֔/י וְ/נִ֨קְדַּשְׁתִּ֔י בְּ/ת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל אֲנִ֥י יְהוָ֖ה מְקַדִּשְׁ/כֶֽם",
+      "fluent": "Do not profane my holy name. I am to be held holy among the Israelites. I am the LORD who makes you holy,"
+    },
+    {
+      "domain": "holy/common and clean/unclean",
+      "reference": "Leviticus 24:9",
+      "source_reference": "Lev 24:9",
+      "source_verse_sha256": "1666477dd4d7afdaa3e2766ba2d096d345a6858a00ec553f32a0300f8c2aeb1d",
+      "hebrew_reading_aid": "וְ/הָֽיְתָה֙ לְ/אַהֲרֹ֣ן וּ/לְ/בָנָ֔י/ו וַ/אֲכָלֻ֖/הוּ בְּ/מָק֣וֹם קָדֹ֑שׁ כִּ֡י קֹדֶשׁ֩ קָֽדָשִׁ֨ים ה֥וּא ל֛/וֹ מֵ/אִשֵּׁ֥י יְהוָ֖ה חָק עוֹלָֽם",
+      "fluent": "The bread belongs to Aaron and his sons. They are to eat it in a holy place, for it is most holy, his lasting share of the LORD’s offerings by fire.”"
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 2:11",
+      "source_reference": "Lev 2:11",
+      "source_verse_sha256": "d2265ad09e0980d239ead22628c16dee5a50549da618cf5e3b824709597c4356",
+      "hebrew_reading_aid": "כָּל הַ/מִּנְחָ֗ה אֲשֶׁ֤ר תַּקְרִ֨יבוּ֙ לַ/יהוָ֔ה לֹ֥א תֵעָשֶׂ֖ה חָמֵ֑ץ כִּ֤י כָל שְׂאֹר֙ וְ/כָל דְּבַ֔שׁ לֹֽא תַקְטִ֧ירוּ מִמֶּ֛/נּוּ אִשֶּׁ֖ה לַֽ/יהוָֽה",
+      "fluent": "No grain offering you bring to the LORD may be made with leaven. You must not burn any leaven or honey as an offering by fire to the LORD."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 2:13",
+      "source_reference": "Lev 2:13",
+      "source_verse_sha256": "ce4e9c52413d28093496234725a3e1f366311b49a82c200ed691f6224679d82e",
+      "hebrew_reading_aid": "וְ/כָל קָרְבַּ֣ן מִנְחָתְ/ךָ֮ בַּ/מֶּ֣לַח תִּמְלָח֒ וְ/לֹ֣א תַשְׁבִּ֗ית מֶ֚לַח בְּרִ֣ית אֱלֹהֶ֔י/ךָ מֵ/עַ֖ל מִנְחָתֶ֑/ךָ עַ֥ל כָּל קָרְבָּנְ/ךָ֖ תַּקְרִ֥יב מֶֽלַח",
+      "fluent": "Season every grain offering with salt. Do not leave the salt of your God’s covenant out of your grain offering. Bring salt with every offering you present."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 7:15",
+      "source_reference": "Lev 7:15",
+      "source_verse_sha256": "3e9f4462abc40bc85901bba9b0c61baf4713700a6295e01763148d5455d2085e",
+      "hebrew_reading_aid": "וּ/בְשַׂ֗ר זֶ֚בַח תּוֹדַ֣ת שְׁלָמָ֔י/ו בְּ/י֥וֹם קָרְבָּנ֖/וֹ יֵאָכֵ֑ל לֹֽא יַנִּ֥יחַ מִמֶּ֖/נּוּ עַד בֹּֽקֶר",
+      "fluent": "The meat of the thanksgiving peace offering must be eaten on the day it is offered. None of it may be left until morning."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 7:16",
+      "source_reference": "Lev 7:16",
+      "source_verse_sha256": "8ec653ebf5bb32f43439848a43980daf8e84e0980d3083be408c1a1a7f116bcb",
+      "hebrew_reading_aid": "וְ/אִם נֶ֣דֶר א֣וֹ נְדָבָ֗ה זֶ֚בַח קָרְבָּנ֔/וֹ בְּ/י֛וֹם הַקְרִיב֥/וֹ אֶת זִבְח֖/וֹ יֵאָכֵ֑ל וּ/מִֽ/מָּחֳרָ֔ת וְ/הַ/נּוֹתָ֥ר מִמֶּ֖/נּוּ יֵאָכֵֽל",
+      "fluent": "If the sacrifice is a vow offering or a freewill offering, it is to be eaten on the day it is offered, and whatever remains may also be eaten the next day."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 19:6",
+      "source_reference": "Lev 19:6",
+      "source_verse_sha256": "2862d413eefac1cf89fa8d2f379a1ec692f26612a34e5e11b8d8742eef5f8cd2",
+      "hebrew_reading_aid": "בְּ/י֧וֹם זִבְחֲ/כֶ֛ם יֵאָכֵ֖ל וּ/מִֽ/מָּחֳרָ֑ת וְ/הַ/נּוֹתָר֙ עַד י֣וֹם הַ/שְּׁלִישִׁ֔י בָּ/אֵ֖שׁ יִשָּׂרֵֽף",
+      "fluent": "Eat it on the day you offer it or the next day. Anything left by the third day must be burned with fire."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 22:19",
+      "source_reference": "Lev 22:19",
+      "source_verse_sha256": "ca14e60e32334314d3ae4c5483955f8448eaf6017650e5df06385ee2ac642acb",
+      "hebrew_reading_aid": "לִֽ/רְצֹנְ/כֶ֑ם תָּמִ֣ים זָכָ֔ר בַּ/בָּקָ֕ר בַּ/כְּשָׂבִ֖ים וּ/בָֽ/עִזִּֽים",
+      "fluent": "it must be a male without blemish from the cattle, sheep, or goats to be accepted on your behalf."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 22:21",
+      "source_reference": "Lev 22:21",
+      "source_verse_sha256": "27a1f8e542c52163613919dbdd698acdd5385090827dac7f35ee7bd107aac441",
+      "hebrew_reading_aid": "וְ/אִ֗ישׁ כִּֽי יַקְרִ֤יב זֶֽבַח שְׁלָמִים֙ לַ/יהוָ֔ה לְ/פַלֵּא נֶ֨דֶר֙ א֣וֹ לִ/נְדָבָ֔ה בַּ/בָּקָ֖ר א֣וֹ בַ/צֹּ֑אן תָּמִ֤ים יִֽהְיֶה֙ לְ/רָצ֔וֹן כָּל מ֖וּם לֹ֥א יִהְיֶה בּֽ/וֹ",
+      "fluent": "When someone offers a peace sacrifice to the LORD from the herd or flock, in fulfillment of a vow or as a freewill offering, it must be without blemish to be accepted. It must have no blemish at all."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 22:23",
+      "source_reference": "Lev 22:23",
+      "source_verse_sha256": "a0223c9d84ede60da082cf28cb721d1a316ea4a3c60c1c2b7ce5e3dff9d43268",
+      "hebrew_reading_aid": "וְ/שׁ֥וֹר וָ/שֶׂ֖ה שָׂר֣וּעַ וְ/קָל֑וּט נְדָבָה֙ תַּעֲשֶׂ֣ה אֹת֔/וֹ וּ/לְ/נֵ֖דֶר לֹ֥א יֵרָצֶֽה",
+      "fluent": "You may offer an animal from the cattle, sheep, or goats with an overlong or stunted limb as a freewill offering, but it will not be accepted in fulfillment of a vow."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 22:29",
+      "source_reference": "Lev 22:29",
+      "source_verse_sha256": "e1513260d1aa28f088a1f7d13c329ca41b66e093d9fb1fbe5cbbbea4af0c9aeb",
+      "hebrew_reading_aid": "וְ/כִֽי תִזְבְּח֥וּ זֶֽבַח תּוֹדָ֖ה לַ/יהוָ֑ה לִֽ/רְצֹנְ/כֶ֖ם תִּזְבָּֽחוּ",
+      "fluent": "When you offer a thanksgiving sacrifice to the LORD, offer it in a way that will be accepted on your behalf."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 22:30",
+      "source_reference": "Lev 22:30",
+      "source_verse_sha256": "26290b7322cf21ab4cc977af36e5f330d80c0a832f0f82ea2581e2f374f22b54",
+      "hebrew_reading_aid": "בַּ/יּ֤וֹם הַ/הוּא֙ יֵאָכֵ֔ל לֹֽא תוֹתִ֥ירוּ מִמֶּ֖/נּוּ עַד בֹּ֑קֶר אֲנִ֖י יְהוָֽה",
+      "fluent": "Eat it that same day. Do not leave any of it until morning. I am the LORD."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 23:17",
+      "source_reference": "Lev 23:17",
+      "source_verse_sha256": "a112c020b393c3973f4a2369abbac9fe0fdd11f79434f8aa4cdd0bdae4d985c2",
+      "hebrew_reading_aid": "מִ/מּוֹשְׁבֹ֨תֵי/כֶ֜ם תָּבִ֣יאּוּ לֶ֣חֶם תְּנוּפָ֗ה שְׁ֚תַּיִם שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּהְיֶ֔ינָה חָמֵ֖ץ תֵּאָפֶ֑ינָה בִּכּוּרִ֖ים לַֽ/יהוָֽה",
+      "fluent": "Bring two loaves from where you live as a wave offering. Make them with two-tenths of an ephah of fine flour and bake them with leaven, as firstfruits for the LORD."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 23:18",
+      "source_reference": "Lev 23:18",
+      "source_verse_sha256": "c2863187ee0769c09ebab84370148b2d5456976fa3a98584f81351ff62809814",
+      "hebrew_reading_aid": "וְ/הִקְרַבְתֶּ֣ם עַל הַ/לֶּ֗חֶם שִׁבְעַ֨ת כְּבָשִׂ֤ים תְּמִימִם֙ בְּנֵ֣י שָׁנָ֔ה וּ/פַ֧ר בֶּן בָּקָ֛ר אֶחָ֖ד וְ/אֵילִ֣ם שְׁנָ֑יִם יִהְי֤וּ עֹלָה֙ לַֽ/יהוָ֔ה וּ/מִנְחָתָ/ם֙ וְ/נִסְכֵּי/הֶ֔ם אִשֵּׁ֥ה רֵֽיחַ נִיחֹ֖חַ לַ/יהוָֽה",
+      "fluent": "With the bread, bring seven year-old male lambs without blemish, one young bull and two rams. They are to be a burnt offering to the LORD, with their grain offering and drink offerings—an offering by fire, a pleasing aroma to the LORD."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 23:19",
+      "source_reference": "Lev 23:19",
+      "source_verse_sha256": "311377df493d875cc8543e2354c3d691703e0a55a9f94dcf50247ecffe60948d",
+      "hebrew_reading_aid": "וַ/עֲשִׂיתֶ֛ם שְׂעִיר עִזִּ֥ים אֶחָ֖ד לְ/חַטָּ֑את וּ/שְׁנֵ֧י כְבָשִׂ֛ים בְּנֵ֥י שָׁנָ֖ה לְ/זֶ֥בַח שְׁלָמִֽים",
+      "fluent": "Offer one male goat as a sin offering and two year-old male lambs as a peace sacrifice."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 23:20",
+      "source_reference": "Lev 23:20",
+      "source_verse_sha256": "b4fe5f6ee3377cce59c012d42864888042ce3284be99019642f4c9a5d5e9b1af",
+      "hebrew_reading_aid": "וְ/הֵנִ֣יף הַ/כֹּהֵ֣ן אֹתָ֡/ם עַל֩ לֶ֨חֶם הַ/בִּכּוּרִ֤ים תְּנוּפָה֙ לִ/פְנֵ֣י יְהוָ֔ה עַל שְׁנֵ֖י כְּבָשִׂ֑ים קֹ֛דֶשׁ יִהְי֥וּ לַ/יהוָ֖ה לַ/כֹּהֵֽן",
+      "fluent": "The priest is to wave them before the LORD with the firstfruits bread, together with the two lambs, as a wave offering. They are holy to the LORD and belong to the priest."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 24:5",
+      "source_reference": "Lev 24:5",
+      "source_verse_sha256": "d95b367ac2d6b155a25d49b6f25034e921e0b887583703a326d397ece7af3c70",
+      "hebrew_reading_aid": "וְ/לָקַחְתָּ֣ סֹ֔לֶת וְ/אָפִיתָ֣ אֹתָ֔/הּ שְׁתֵּ֥ים עֶשְׂרֵ֖ה חַלּ֑וֹת שְׁנֵי֙ עֶשְׂרֹנִ֔ים יִהְיֶ֖ה הַֽ/חַלָּ֥ה הָ/אֶחָֽת",
+      "fluent": "Take fine flour and bake twelve loaves, using two-tenths of an ephah for each loaf."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 27:32",
+      "source_reference": "Lev 27:32",
+      "source_verse_sha256": "83a53f48f0c64ca5336105b98dbbb57669871d137d6eea87c9d827200388f479",
+      "hebrew_reading_aid": "וְ/כָל מַעְשַׂ֤ר בָּקָר֙ וָ/צֹ֔אן כֹּ֥ל אֲשֶׁר יַעֲבֹ֖ר תַּ֣חַת הַ/שָּׁ֑בֶט הָֽ/עֲשִׂירִ֕י יִֽהְיֶה קֹּ֖דֶשׁ לַֽ/יהוָֽה",
+      "fluent": "For the tithe of cattle, sheep and goats, every tenth animal that passes under the rod is holy to the LORD."
+    },
+    {
+      "domain": "offering distinctions",
+      "reference": "Leviticus 27:33",
+      "source_reference": "Lev 27:33",
+      "source_verse_sha256": "9ebcda8ccb9b22988d258b06fafde17c3ce668520e2560f0829ea277e38458cd",
+      "hebrew_reading_aid": "לֹ֧א יְבַקֵּ֛ר בֵּֽין ט֥וֹב לָ/רַ֖ע וְ/לֹ֣א יְמִירֶ֑/נּוּ וְ/אִם הָמֵ֣ר יְמִירֶ֔/נּוּ וְ/הָֽיָה ה֧וּא וּ/תְמוּרָת֛/וֹ יִֽהְיֶה קֹ֖דֶשׁ לֹ֥א יִגָּאֵֽל",
+      "fluent": "Do not pick out good animals from bad or make a substitution. If an animal is exchanged, both it and its substitute become holy and may not be redeemed.”"
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 16:29",
+      "source_reference": "Lev 16:29",
+      "source_verse_sha256": "d017b4ce7b422146bd5e720177def1e21b5645d4eba0183b0deba4729beaa03e",
+      "hebrew_reading_aid": "וְ/הָיְתָ֥ה לָ/כֶ֖ם לְ/חֻקַּ֣ת עוֹלָ֑ם בַּ/חֹ֣דֶשׁ הַ֠/שְּׁבִיעִי בֶּֽ/עָשׂ֨וֹר לַ/חֹ֜דֶשׁ תְּעַנּ֣וּ אֶת נַפְשֹֽׁתֵי/כֶ֗ם וְ/כָל מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ הָֽ/אֶזְרָ֔ח וְ/הַ/גֵּ֖ר הַ/גָּ֥ר בְּ/תוֹכְ/כֶֽם",
+      "fluent": "This is a lasting statute for you. On the tenth day of the seventh month, you must deny yourselves and do no work. This applies to both the native-born and foreigners living among you."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 16:30",
+      "source_reference": "Lev 16:30",
+      "source_verse_sha256": "55db392ced0c90b7aaa6068fe35794ddd1be652d5a6da3eef47395012ed24899",
+      "hebrew_reading_aid": "כִּֽי בַ/יּ֥וֹם הַ/זֶּ֛ה יְכַפֵּ֥ר עֲלֵי/כֶ֖ם לְ/טַהֵ֣ר אֶתְ/כֶ֑ם מִ/כֹּל֙ חַטֹּ֣אתֵי/כֶ֔ם לִ/פְנֵ֥י יְהוָ֖ה תִּטְהָֽרוּ",
+      "fluent": "For on this day atonement will be made for you to cleanse you. You will be clean from all your sins before the LORD."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 16:31",
+      "source_reference": "Lev 16:31",
+      "source_verse_sha256": "80339dd9b8aa4bd3c24dddc8a2e12b94cd58723122d5204e87b2249cf4190de7",
+      "hebrew_reading_aid": "שַׁבַּ֨ת שַׁבָּת֥וֹן הִיא֙ לָ/כֶ֔ם וְ/עִנִּיתֶ֖ם אֶת נַפְשֹׁתֵי/כֶ֑ם חֻקַּ֖ת עוֹלָֽם",
+      "fluent": "It is a sabbath of complete rest for you, and you must deny yourselves. This is a lasting statute."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 19:30",
+      "source_reference": "Lev 19:30",
+      "source_verse_sha256": "bf93a7033c6d766ff602323c53127f2e8954042e2bba3920241d64b1be7a7c32",
+      "hebrew_reading_aid": "אֶת שַׁבְּתֹתַ֣/י תִּשְׁמֹ֔רוּ וּ/מִקְדָּשִׁ֖/י תִּירָ֑אוּ אֲנִ֖י יְהוָֽה",
+      "fluent": "Keep my sabbaths and revere my sanctuary. I am the LORD."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 23:22",
+      "source_reference": "Lev 23:22",
+      "source_verse_sha256": "a951cf836a3267707f9ce87adb2ebb3f7438abf599808fd1a6ad02435c280385",
+      "hebrew_reading_aid": "וּֽ/בְ/קֻצְרְ/כֶ֞ם אֶת קְצִ֣יר אַרְצְ/כֶ֗ם לֹֽא תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְ/ךָ֙ בְּ/קֻצְרֶ֔/ךָ וְ/לֶ֥קֶט קְצִירְ/ךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽ/עָנִ֤י וְ/לַ/גֵּר֙ תַּעֲזֹ֣ב אֹתָ֔/ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵי/כֶֽם",
+      "fluent": "When you harvest your land, do not reap right to the edges of your field or gather what the harvesters leave behind. Leave it for the poor and the foreigner living among you. I am the LORD your God.”"
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 23:27",
+      "source_reference": "Lev 23:27",
+      "source_verse_sha256": "e0c5e011be2d19f021e4f1b3b592e6b4d481f4cf2c8c16bb61be78818fad72f1",
+      "hebrew_reading_aid": "אַ֡ךְ בֶּ/עָשׂ֣וֹר לַ/חֹדֶשׁ֩ הַ/שְּׁבִיעִ֨י הַ/זֶּ֜ה י֧וֹם הַ/כִּפֻּרִ֣ים ה֗וּא מִֽקְרָא קֹ֨דֶשׁ֙ יִהְיֶ֣ה לָ/כֶ֔ם וְ/עִנִּיתֶ֖ם אֶת נַפְשֹׁתֵי/כֶ֑ם וְ/הִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַ/יהוָֽה",
+      "fluent": "“The tenth day of this seventh month is the Day of Atonement. Hold a sacred assembly, deny yourselves and bring an offering by fire to the LORD."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 23:28",
+      "source_reference": "Lev 23:28",
+      "source_verse_sha256": "cccfb4945b9f53068541bbd74f60cc44cf1f975269fd2f6bca1ac606acce4cb9",
+      "hebrew_reading_aid": "וְ/כָל מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּ/עֶ֖צֶם הַ/יּ֣וֹם הַ/זֶּ֑ה כִּ֣י י֤וֹם כִּפֻּרִים֙ ה֔וּא לְ/כַפֵּ֣ר עֲלֵי/כֶ֔ם לִ/פְנֵ֖י יְהוָ֥ה אֱלֹהֵי/כֶֽם",
+      "fluent": "Do no work at all on that very day. It is a day of atonement, when atonement is made for you before the LORD your God."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 23:29",
+      "source_reference": "Lev 23:29",
+      "source_verse_sha256": "1f9b5afb00b72aa431ecd4c941a510ca5aec61ed0e01c9cc8ae14e3e3409b6b7",
+      "hebrew_reading_aid": "כִּ֤י כָל הַ/נֶּ֨פֶשׁ֙ אֲשֶׁ֣ר לֹֽא תְעֻנֶּ֔ה בְּ/עֶ֖צֶם הַ/יּ֣וֹם הַ/זֶּ֑ה וְ/נִכְרְתָ֖ה מֵֽ/עַמֶּֽי/הָ",
+      "fluent": "Anyone who does not deny themselves on that very day will be cut off from their people."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 23:30",
+      "source_reference": "Lev 23:30",
+      "source_verse_sha256": "0b99bdc1fb571924a704ad928f0b4ad7ae1b7ff62af1175771e77479a3168268",
+      "hebrew_reading_aid": "וְ/כָל הַ/נֶּ֗פֶשׁ אֲשֶׁ֤ר תַּעֲשֶׂה֙ כָּל מְלָאכָ֔ה בְּ/עֶ֖צֶם הַ/יּ֣וֹם הַ/זֶּ֑ה וְ/הַֽאֲבַדְתִּ֛י אֶת הַ/נֶּ֥פֶשׁ הַ/הִ֖וא מִ/קֶּ֥רֶב עַמָּֽ/הּ",
+      "fluent": "And anyone who does any work on that very day—I will destroy that person from among their people."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 23:32",
+      "source_reference": "Lev 23:32",
+      "source_verse_sha256": "067d9bcb50cc34f47a62982b3488b329a22eca6be3e4b65e2d65d278ae5988b8",
+      "hebrew_reading_aid": "שַׁבַּ֨ת שַׁבָּת֥וֹן הוּא֙ לָ/כֶ֔ם וְ/עִנִּיתֶ֖ם אֶת נַפְשֹׁתֵי/כֶ֑ם בְּ/תִשְׁעָ֤ה לַ/חֹ֨דֶשׁ֙ בָּ/עֶ֔רֶב מֵ/עֶ֣רֶב עַד עֶ֔רֶב תִּשְׁבְּת֖וּ שַׁבַּתְּ/כֶֽם",
+      "fluent": "It is a Sabbath of complete rest for you, and you must deny yourselves. Observe your Sabbath from the evening of the ninth day of the month until the next evening.”"
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 25:2",
+      "source_reference": "Lev 25:2",
+      "source_verse_sha256": "bbf64308c0e0e23cd15a34eaad074e2a735a2ee28b3b19416a036177e00c6119",
+      "hebrew_reading_aid": "דַּבֵּ֞ר אֶל בְּנֵ֤י יִשְׂרָאֵל֙ וְ/אָמַרְתָּ֣ אֲלֵ/הֶ֔ם כִּ֤י תָבֹ֨אוּ֙ אֶל הָ/אָ֔רֶץ אֲשֶׁ֥ר אֲנִ֖י נֹתֵ֣ן לָ/כֶ֑ם וְ/שָׁבְתָ֣ה הָ/אָ֔רֶץ שַׁבָּ֖ת לַ/יהוָֽה",
+      "fluent": "“Tell the Israelites: When you enter the land I am giving you, the land is to keep a Sabbath to the LORD."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 25:4",
+      "source_reference": "Lev 25:4",
+      "source_verse_sha256": "216c70e373d1fc3ec6f71b8048bf56b3d7b542569d888c2348625cc72fb2fc57",
+      "hebrew_reading_aid": "וּ/בַ/שָּׁנָ֣ה הַ/שְּׁבִיעִ֗ת שַׁבַּ֤ת שַׁבָּתוֹן֙ יִהְיֶ֣ה לָ/אָ֔רֶץ שַׁבָּ֖ת לַ/יהוָ֑ה שָֽׂדְ/ךָ֙ לֹ֣א תִזְרָ֔ע וְ/כַרְמְ/ךָ֖ לֹ֥א תִזְמֹֽר",
+      "fluent": "But in the seventh year, the land is to have a Sabbath of complete rest, a Sabbath to the LORD. Do not sow your field or prune your vineyard."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 25:6",
+      "source_reference": "Lev 25:6",
+      "source_verse_sha256": "a32e80010962753e89f8bd0b58f6e4780645e55ef3e4f4cad05b404da3416d71",
+      "hebrew_reading_aid": "וְ֠/הָיְתָה שַׁבַּ֨ת הָ/אָ֤רֶץ לָ/כֶם֙ לְ/אָכְלָ֔ה לְ/ךָ֖ וּ/לְ/עַבְדְּ/ךָ֣ וְ/לַ/אֲמָתֶ֑/ךָ וְ/לִ/שְׂכִֽירְ/ךָ֙ וּ/לְ/תוֹשָׁ֣בְ/ךָ֔ הַ/גָּרִ֖ים עִמָּֽ/ךְ",
+      "fluent": "Whatever the land grows during its Sabbath will be food for you, your male and female slaves, your hired worker and the residents staying with you."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 25:7",
+      "source_reference": "Lev 25:7",
+      "source_verse_sha256": "0cda905ac97a09f0b51663135acc3fce3cc5e993fa8bf3b9241298955ea47505",
+      "hebrew_reading_aid": "וְ/לִ֨/בְהֶמְתְּ/ךָ֔ וְ/לַֽ/חַיָּ֖ה אֲשֶׁ֣ר בְּ/אַרְצֶ֑/ךָ תִּהְיֶ֥ה כָל תְּבוּאָתָ֖/הּ לֶ/אֱכֹֽל",
+      "fluent": "All its produce will also be food for your livestock and the wild animals in your land."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 25:42",
+      "source_reference": "Lev 25:42",
+      "source_verse_sha256": "96e180832fb44275fb65f60bbcdbf74ba9bd3d187b60b955c9340f45eedb36e0",
+      "hebrew_reading_aid": "כִּֽי עֲבָדַ֣/י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֹתָ֖/ם מֵ/אֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת עָֽבֶד",
+      "fluent": "For they are my slaves, whom I brought out of Egypt. They must not be sold as slaves are sold."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 25:44",
+      "source_reference": "Lev 25:44",
+      "source_verse_sha256": "d7c1fd01be45a43784df92b548a26f88c86c94eac137341039bd1197b1bdde94",
+      "hebrew_reading_aid": "וְ/עַבְדְּ/ךָ֥ וַ/אֲמָתְ/ךָ֖ אֲשֶׁ֣ר יִהְיוּ לָ֑/ךְ מֵ/אֵ֣ת הַ/גּוֹיִ֗ם אֲשֶׁר֙ סְבִיבֹ֣תֵי/כֶ֔ם מֵ/הֶ֥ם תִּקְנ֖וּ עֶ֥בֶד וְ/אָמָֽה",
+      "fluent": "Your male and female slaves may come from the nations around you. From them you may buy male and female slaves."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 25:45",
+      "source_reference": "Lev 25:45",
+      "source_verse_sha256": "ca668f7138c0510c5281f23339f53e5aa11a7942ca7c754177d92d101fd16bc3",
+      "hebrew_reading_aid": "וְ֠/גַם מִ/בְּנֵ֨י הַ/תּוֹשָׁבִ֜ים הַ/גָּרִ֤ים עִמָּ/כֶם֙ מֵ/הֶ֣ם תִּקְנ֔וּ וּ/מִ/מִּשְׁפַּחְתָּ/ם֙ אֲשֶׁ֣ר עִמָּ/כֶ֔ם אֲשֶׁ֥ר הוֹלִ֖ידוּ בְּ/אַרְצְ/כֶ֑ם וְ/הָי֥וּ לָ/כֶ֖ם לַֽ/אֲחֻזָּֽה",
+      "fluent": "You may also buy people from among the children of residents staying with you and from their families born in your land. They may become your property."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 25:46",
+      "source_reference": "Lev 25:46",
+      "source_verse_sha256": "e9d3bb976194c5a9adce84a071bf1df10f52c240b061ce7e3fb5a594e6f4dcbd",
+      "hebrew_reading_aid": "וְ/הִתְנַחֲלְתֶּ֨ם אֹתָ֜/ם לִ/בְנֵי/כֶ֤ם אַחֲרֵי/כֶם֙ לָ/רֶ֣שֶׁת אֲחֻזָּ֔ה לְ/עֹלָ֖ם בָּ/הֶ֣ם תַּעֲבֹ֑דוּ וּ/בְ/אַ֨חֵי/כֶ֤ם בְּנֵֽי יִשְׂרָאֵל֙ אִ֣ישׁ בְּ/אָחִ֔י/ו לֹא תִרְדֶּ֥ה ב֖/וֹ בְּ/פָֽרֶךְ",
+      "fluent": "You may pass them on to your sons as inherited property, and you may keep them as slaves permanently. But as for your brothers, the Israelites, none of you is to rule over a brother harshly."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 25:55",
+      "source_reference": "Lev 25:55",
+      "source_verse_sha256": "62cabdb35b64f319c6636d122fe1b6a4d63b6ab8663906640695eca83707f19c",
+      "hebrew_reading_aid": "כִּֽי לִ֤/י בְנֵֽי יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣/י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אוֹתָ֖/ם מֵ/אֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהוָ֥ה אֱלֹהֵי/כֶֽם",
+      "fluent": "For the Israelites are slaves belonging to me. They are my slaves, whom I brought out of Egypt. I am the LORD your God.”"
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 26:2",
+      "source_reference": "Lev 26:2",
+      "source_verse_sha256": "db114d92fa246d5a16f25bc9d466c9f643eacbf3cfcd1d1ff800ff4485ad736b",
+      "hebrew_reading_aid": "אֶת שַׁבְּתֹתַ֣/י תִּשְׁמֹ֔רוּ וּ/מִקְדָּשִׁ֖/י תִּירָ֑אוּ אֲנִ֖י יְהוָֽה",
+      "fluent": "Keep my Sabbaths and hold my sanctuary in reverence. I am the LORD."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 26:13",
+      "source_reference": "Lev 26:13",
+      "source_verse_sha256": "3fd3362cc0328055e0ca64c097d9d11f2cc408fd23571f48a80909b165033473",
+      "hebrew_reading_aid": "אֲנִ֞י יְהוָ֣ה אֱלֹֽהֵי/כֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְ/כֶם֙ מֵ/אֶ֣רֶץ מִצְרַ֔יִם מִֽ/הְיֹ֥ת לָ/הֶ֖ם עֲבָדִ֑ים וָ/אֶשְׁבֹּר֙ מֹטֹ֣ת עֻלְּ/כֶ֔ם וָ/אוֹלֵ֥ךְ אֶתְ/כֶ֖ם קֽוֹמְמִיּֽוּת",
+      "fluent": "I am the LORD your God, who brought you out of Egypt so you would no longer be their slaves. I broke the bars of your yoke and made you walk upright."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 26:34",
+      "source_reference": "Lev 26:34",
+      "source_verse_sha256": "710b85009d77356932fa41359be07f23fc49410a588d76294915d34fc8b5c866",
+      "hebrew_reading_aid": "אָז֩ תִּרְצֶ֨ה הָ/אָ֜רֶץ אֶת שַׁבְּתֹתֶ֗י/הָ כֹּ֚ל יְמֵ֣י הֳשַׁמָּ֔/ה וְ/אַתֶּ֖ם בְּ/אֶ֣רֶץ אֹיְבֵי/כֶ֑ם אָ֚ז תִּשְׁבַּ֣ת הָ/אָ֔רֶץ וְ/הִרְצָ֖ת אֶת שַׁבְּתֹתֶֽי/הָ",
+      "fluent": "Then the land will enjoy its Sabbaths throughout the time it lies desolate, while you are in your enemies’ land. Then the land will rest and enjoy its Sabbaths."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 26:35",
+      "source_reference": "Lev 26:35",
+      "source_verse_sha256": "f2db7db6f2f2304e6d7e565a5d38cb83154a871b65fe73fbe2c21f61b45c09b0",
+      "hebrew_reading_aid": "כָּל יְמֵ֥י הָשַּׁמָּ֖/ה תִּשְׁבֹּ֑ת אֵ֣ת אֲשֶׁ֧ר לֹֽא שָׁבְתָ֛ה בְּ/שַׁבְּתֹתֵי/כֶ֖ם בְּ/שִׁבְתְּ/כֶ֥ם עָלֶֽי/הָ",
+      "fluent": "All the time it lies desolate, it will have the rest it did not have on your Sabbaths when you lived on it."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 26:41",
+      "source_reference": "Lev 26:41",
+      "source_verse_sha256": "8250a973ae5a39e19157f902d81da15ba50e0f5dd412b242ef51f6ad366838f5",
+      "hebrew_reading_aid": "אַף אֲנִ֗י אֵלֵ֤ךְ עִמָּ/ם֙ בְּ/קֶ֔רִי וְ/הֵבֵאתִ֣י אֹתָ֔/ם בְּ/אֶ֖רֶץ אֹיְבֵי/הֶ֑ם אוֹ אָ֣ז יִכָּנַ֗ע לְבָבָ/ם֙ הֶֽ/עָרֵ֔ל וְ/אָ֖ז יִרְצ֥וּ אֶת עֲוֺנָֽ/ם",
+      "fluent": "I too will walk in hostility toward them and bring them into their enemies’ land. Then perhaps their uncircumcised heart will be humbled, and they will bear the penalty for their guilt."
+    },
+    {
+      "domain": "Sabbath and exodus links",
+      "reference": "Leviticus 26:42",
+      "source_reference": "Lev 26:42",
+      "source_verse_sha256": "7214a6abe31619e03b47365b8c2222820ab322e32e8b2ef5f3a2fa559120e86d",
+      "hebrew_reading_aid": "וְ/זָכַרְתִּ֖י אֶת בְּרִיתִ֣/י יַעֲק֑וֹב וְ/אַף֩ אֶת בְּרִיתִ֨/י יִצְחָ֜ק וְ/אַ֨ף אֶת בְּרִיתִ֧/י אַבְרָהָ֛ם אֶזְכֹּ֖ר וְ/הָ/אָ֥רֶץ אֶזְכֹּֽר",
+      "fluent": "I will remember my covenant with Jacob, and also my covenant with Isaac; I will remember my covenant with Abraham. And I will remember the land."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:23",
+      "source_reference": "Lev 25:23",
+      "source_verse_sha256": "aa5adfe42a80ac4818f6baeaa29e2913946b2ca77fd3444dadcf8a375369b732",
+      "hebrew_reading_aid": "וְ/הָ/אָ֗רֶץ לֹ֤א תִמָּכֵר֙ לִ/צְמִתֻ֔ת כִּי לִ֖/י הָ/אָ֑רֶץ כִּֽי גֵרִ֧ים וְ/תוֹשָׁבִ֛ים אַתֶּ֖ם עִמָּדִֽ/י",
+      "fluent": "The land must not be sold permanently, because the land is mine. You are foreigners and residents living with me."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:25",
+      "source_reference": "Lev 25:25",
+      "source_verse_sha256": "c8e18b8c72bd2ff4192c348a8f69d96ea04641874d74ad44ba9789f8922211b0",
+      "hebrew_reading_aid": "כִּֽי יָמ֣וּךְ אָחִ֔י/ךָ וּ/מָכַ֖ר מֵ/אֲחֻזָּת֑/וֹ וּ/בָ֤א גֹֽאֲל/וֹ֙ הַ/קָּרֹ֣ב אֵלָ֔י/ו וְ/גָאַ֕ל אֵ֖ת מִמְכַּ֥ר אָחִֽי/ו",
+      "fluent": "If your brother becomes poor and sells part of his family holding, his nearest redeemer is to come and redeem what his brother sold."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:29",
+      "source_reference": "Lev 25:29",
+      "source_verse_sha256": "53201917a9f67614534ae4aa01ab023bf828a0506002a1461b871d65debc82aa",
+      "hebrew_reading_aid": "וְ/אִ֗ישׁ כִּֽי יִמְכֹּ֤ר בֵּית מוֹשַׁב֙ עִ֣יר חוֹמָ֔ה וְ/הָיְתָה֙ גְּאֻלָּת֔/וֹ עַד תֹּ֖ם שְׁנַ֣ת מִמְכָּר֑/וֹ יָמִ֖ים תִּהְיֶ֥ה גְאֻלָּתֽ/וֹ",
+      "fluent": "If a man sells a house in a walled city, he may redeem it until a full year has passed since the sale. His right to redeem it lasts that year."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:30",
+      "source_reference": "Lev 25:30",
+      "source_verse_sha256": "869462247c090f725d4223b2b23f8667a74f6846bd0047190e1f4bc7312e44ad",
+      "hebrew_reading_aid": "וְ/אִ֣ם לֹֽא יִגָּאֵ֗ל עַד מְלֹ֣את ל/וֹ֮ שָׁנָ֣ה תְמִימָה֒ וְ֠/קָם הַ/בַּ֨יִת אֲשֶׁר בָּ/עִ֜יר אֲשֶׁר לא חֹמָ֗ה לַ/צְּמִיתֻ֛ת לַ/קֹּנֶ֥ה אֹת֖/וֹ לְ/דֹרֹתָ֑י/ו לֹ֥א יֵצֵ֖א בַּ/יֹּבֵֽל",
+      "fluent": "If it is not redeemed before the full year ends, the house in that walled city becomes the buyer’s permanent property for his generations. It will not be released at the Jubilee."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:31",
+      "source_reference": "Lev 25:31",
+      "source_verse_sha256": "c08958ac3b80b5e3093c0ded3914bbc45d0e2a65e15058f924a467d88a1370fa",
+      "hebrew_reading_aid": "וּ/בָתֵּ֣י הַ/חֲצֵרִ֗ים אֲשֶׁ֨ר אֵין לָ/הֶ֤ם חֹמָה֙ סָבִ֔יב עַל שְׂדֵ֥ה הָ/אָ֖רֶץ יֵחָשֵׁ֑ב גְּאֻלָּה֙ תִּהְיֶה לּ֔/וֹ וּ/בַ/יֹּבֵ֖ל יֵצֵֽא",
+      "fluent": "Houses in villages with no surrounding wall are to be treated like open fields. They may be redeemed, and they will be released at the Jubilee."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:32",
+      "source_reference": "Lev 25:32",
+      "source_verse_sha256": "d003a0facfc846be1c18babafe04207de3d14a9b182a70e668a1953edee96611",
+      "hebrew_reading_aid": "וְ/עָרֵי֙ הַ/לְוִיִּ֔ם בָּתֵּ֖י עָרֵ֣י אֲחֻזָּתָ֑/ם גְּאֻלַּ֥ת עוֹלָ֖ם תִּהְיֶ֥ה לַ/לְוִיִּֽם",
+      "fluent": "As for the Levites’ cities, the Levites always have the right to redeem houses in the cities they hold."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:33",
+      "source_reference": "Lev 25:33",
+      "source_verse_sha256": "0772a045153c4adf54ddecf0ef9a862765861c408503ae38ce17d8bd0ff93547",
+      "hebrew_reading_aid": "וַ/אֲשֶׁ֤ר יִגְאַל֙ מִן הַ/לְוִיִּ֔ם וְ/יָצָ֧א מִמְכַּר בַּ֛יִת וְ/עִ֥יר אֲחֻזָּת֖/וֹ בַּ/יֹּבֵ֑ל כִּ֣י בָתֵּ֞י עָרֵ֣י הַ/לְוִיִּ֗ם הִ֚וא אֲחֻזָּתָ֔/ם בְּ/ת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל",
+      "fluent": "If someone redeems a house from the Levites, the house sold in the city they hold is to be released at the Jubilee. The houses in the Levites’ cities are their holding among the Israelites."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:34",
+      "source_reference": "Lev 25:34",
+      "source_verse_sha256": "2541317e3a96be69ecf3dc16d4e44e93ffb124d71593befd02d82061c45ef0bb",
+      "hebrew_reading_aid": "וּֽ/שְׂדֵ֛ה מִגְרַ֥שׁ עָרֵי/הֶ֖ם לֹ֣א יִמָּכֵ֑ר כִּֽי אֲחֻזַּ֥ת עוֹלָ֛ם ה֖וּא לָ/הֶֽם",
+      "fluent": "The pastureland around their cities must not be sold, because it is their permanent holding."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:41",
+      "source_reference": "Lev 25:41",
+      "source_verse_sha256": "6fb78432bae757b362c745215333181d6ace88a3dcebf59b686ca52d226d34a1",
+      "hebrew_reading_aid": "וְ/יָצָא֙ מֵֽ/עִמָּ֔/ךְ ה֖וּא וּ/בָנָ֣י/ו עִמּ֑/וֹ וְ/שָׁב֙ אֶל מִשְׁפַּחְתּ֔/וֹ וְ/אֶל אֲחֻזַּ֥ת אֲבֹתָ֖י/ו יָשֽׁוּב",
+      "fluent": "Then he and his children are to leave you. He is to return to his family and to his ancestors’ holding."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 25:54",
+      "source_reference": "Lev 25:54",
+      "source_verse_sha256": "06f8b2273770c31e3687376961d567598813e726781a468c07242775542f3da8",
+      "hebrew_reading_aid": "וְ/אִם לֹ֥א יִגָּאֵ֖ל בְּ/אֵ֑לֶּה וְ/יָצָא֙ בִּ/שְׁנַ֣ת הַ/יֹּבֵ֔ל ה֖וּא וּ/בָנָ֥י/ו עִמּֽ/וֹ",
+      "fluent": "If he is not redeemed in any of these ways, he and his children are to be released in the Jubilee year."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:16",
+      "source_reference": "Lev 27:16",
+      "source_verse_sha256": "4bdecab0574c90b6d5f880e9a641f58878d94b390c66b47faf79c40052f9415c",
+      "hebrew_reading_aid": "וְ/אִ֣ם מִ/שְּׂדֵ֣ה אֲחֻזָּת֗/וֹ יַקְדִּ֥ישׁ אִישׁ֙ לַֽ/יהוָ֔ה וְ/הָיָ֥ה עֶרְכְּ/ךָ֖ לְ/פִ֣י זַרְע֑/וֹ זֶ֚רַע חֹ֣מֶר שְׂעֹרִ֔ים בַּ/חֲמִשִּׁ֖ים שֶׁ֥קֶל כָּֽסֶף",
+      "fluent": "If someone consecrates part of his family’s field to the LORD, assess it according to the seed needed to sow it: fifty shekels of silver for land sown with a homer of barley seed."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:20",
+      "source_reference": "Lev 27:20",
+      "source_verse_sha256": "8b2f2cea489a3cb0692fb135b7a1c69d4e23aaec4ca3ca70e2c64465b62c2603",
+      "hebrew_reading_aid": "וְ/אִם לֹ֤א יִגְאַל֙ אֶת הַ/שָּׂדֶ֔ה וְ/אִם מָכַ֥ר אֶת הַ/שָּׂדֶ֖ה לְ/אִ֣ישׁ אַחֵ֑ר לֹ֥א יִגָּאֵ֖ל עֽוֹד",
+      "fluent": "If he does not redeem the field and it is sold to someone else, it can no longer be redeemed."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:21",
+      "source_reference": "Lev 27:21",
+      "source_verse_sha256": "bc2a19254c009e3430e233e5fcccb99ce329f2e74c6adbf824d6c3692136b559",
+      "hebrew_reading_aid": "וְ/הָיָ֨ה הַ/שָּׂדֶ֜ה בְּ/צֵאת֣/וֹ בַ/יֹּבֵ֗ל קֹ֛דֶשׁ לַֽ/יהוָ֖ה כִּ/שְׂדֵ֣ה הַ/חֵ֑רֶם לַ/כֹּהֵ֖ן תִּהְיֶ֥ה אֲחֻזָּתֽ/וֹ",
+      "fluent": "When the field is released at the Jubilee, it will be holy to the LORD, like a field devoted beyond recall. It will become the priest’s holding."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:22",
+      "source_reference": "Lev 27:22",
+      "source_verse_sha256": "b896cef04d512cc7d15f011cc4b17dc9f24ad9a732396609dbf2c71defdd30dd",
+      "hebrew_reading_aid": "וְ/אִם֙ אֶת שְׂדֵ֣ה מִקְנָת֔/וֹ אֲשֶׁ֕ר לֹ֖א מִ/שְּׂדֵ֣ה אֲחֻזָּת֑/וֹ יַקְדִּ֖ישׁ לַֽ/יהוָֽה",
+      "fluent": "If someone consecrates to the LORD a field he bought, one that is not part of his family holding,"
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:23",
+      "source_reference": "Lev 27:23",
+      "source_verse_sha256": "f5bfb3bc49a90879b53dc4c5b08920713e099bd53dec45963b0ace9d7a0e554c",
+      "hebrew_reading_aid": "וְ/חִשַּׁב ל֣/וֹ הַ/כֹּהֵ֗ן אֵ֚ת מִכְסַ֣ת הָֽ/עֶרְכְּ/ךָ֔ עַ֖ד שְׁנַ֣ת הַ/יֹּבֵ֑ל וְ/נָתַ֤ן אֶת הָ/עֶרְכְּ/ךָ֙ בַּ/יּ֣וֹם הַ/ה֔וּא קֹ֖דֶשׁ לַ/יהוָֽה",
+      "fluent": "the priest is to calculate its assessed value for the years until the Jubilee. The man is to pay that amount that very day as something holy to the LORD."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:24",
+      "source_reference": "Lev 27:24",
+      "source_verse_sha256": "a69fae17122f2882523bc4cefb2db02defbe67d34b8f3f084ac851af59f41b88",
+      "hebrew_reading_aid": "בִּ/שְׁנַ֤ת הַ/יּוֹבֵל֙ יָשׁ֣וּב הַ/שָּׂדֶ֔ה לַ/אֲשֶׁ֥ר קָנָ֖/הוּ מֵ/אִתּ֑/וֹ לַ/אֲשֶׁר ל֖/וֹ אֲחֻזַּ֥ת הָ/אָֽרֶץ",
+      "fluent": "In the Jubilee year, the field returns to the person he bought it from, the one whose family holding the land is."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:26",
+      "source_reference": "Lev 27:26",
+      "source_verse_sha256": "488e87b2380d37049777a703ca5784e7623b52210600a9adf1fdd3df5fde9eb6",
+      "hebrew_reading_aid": "אַךְ בְּכ֞וֹר אֲשֶׁר יְבֻכַּ֤ר לַֽ/יהוָה֙ בִּ/בְהֵמָ֔ה לֹֽא יַקְדִּ֥ישׁ אִ֖ישׁ אֹת֑/וֹ אִם שׁ֣וֹר אִם שֶׂ֔ה לַֽ/יהוָ֖ה הֽוּא",
+      "fluent": "No one may consecrate a firstborn animal that already belongs to the LORD as a firstborn. Whether from cattle, sheep or goats, it belongs to the LORD."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:27",
+      "source_reference": "Lev 27:27",
+      "source_verse_sha256": "2420af0dce87c09614f775aed8eb3656fb021b4abb0e20d6bcbcc2de5ea4b5f1",
+      "hebrew_reading_aid": "וְ/אִ֨ם בַּ/בְּהֵמָ֤ה הַ/טְּמֵאָה֙ וּ/פָדָ֣ה בְ/עֶרְכֶּ֔/ךָ וְ/יָסַ֥ף חֲמִשִׁת֖/וֹ עָלָ֑י/ו וְ/אִם לֹ֥א יִגָּאֵ֖ל וְ/נִמְכַּ֥ר בְּ/עֶרְכֶּֽ/ךָ",
+      "fluent": "If it is an unclean animal, its owner may ransom it at the assessed value plus one-fifth. If it is not redeemed, it is to be sold at the assessed value."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:28",
+      "source_reference": "Lev 27:28",
+      "source_verse_sha256": "7d6e92bcd6bd37524e506288e973597d4dd2cb9feecfbc73f9a1840914d90475",
+      "hebrew_reading_aid": "אַךְ כָּל חֵ֡רֶם אֲשֶׁ֣ר יַחֲרִם֩ אִ֨ישׁ לַֽ/יהוָ֜ה מִ/כָּל אֲשֶׁר ל֗/וֹ מֵ/אָדָ֤ם וּ/בְהֵמָה֙ וּ/מִ/שְּׂדֵ֣ה אֲחֻזָּת֔/וֹ לֹ֥א יִמָּכֵ֖ר וְ/לֹ֣א יִגָּאֵ֑ל כָּל חֵ֕רֶם קֹֽדֶשׁ קָֽדָשִׁ֥ים ה֖וּא לַ/יהוָֽה",
+      "fluent": "But anything someone devotes beyond recall to the LORD from what belongs to him—whether a person, an animal or part of his family’s field—must neither be sold nor redeemed. Everything devoted beyond recall is most holy to the LORD."
+    },
+    {
+      "domain": "land and redemption distinctions",
+      "reference": "Leviticus 27:29",
+      "source_reference": "Lev 27:29",
+      "source_verse_sha256": "3a96b2db564a5660f3f27943289dfd04a62fab2583e1b7d0f9452636fa405e0f",
+      "hebrew_reading_aid": "כָּל חֵ֗רֶם אֲשֶׁ֧ר יָחֳרַ֛ם מִן הָ/אָדָ֖ם לֹ֣א יִפָּדֶ֑ה מ֖וֹת יוּמָֽת",
+      "fluent": "No person placed under such a ban may be ransomed. That person must be put to death."
+    }
+  ]
+}

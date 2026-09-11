@@ -146,12 +146,17 @@
       "scope": "Leviticus 23–25",
       "verses": 122,
       "ledger": "audit/fluent-revision/2026-09-11-leviticus-23-25/leviticus-verse-review.json"
+    },
+    {
+      "scope": "Leviticus 26–27",
+      "verses": 80,
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-26-27/leviticus-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Leviticus 26–27",
-      "action": "Complete covenant promises and warnings, and vowed persons and property, from verified pinned Hebrew. Preserve repeated conditions and sanctions, valuations, ages, sexes, measures, redemption rules and consequential ambiguities; then perform whole-book structural and selected thematic self-checks. Independent editorial review remains pending."
+      "scope": "Numbers 1–4",
+      "action": "Resolve latest checkpoint, verify the repository-pinned original Hebrew source for Numbers, read every selected verse and draft connected complete chapters. Preserve census counts, age and sex scope, tribal order, camp arrangement, Levite duties and consequential ambiguities. Record exact source bindings, verse-specific rationale and structural checks; independent review remains pending."
     }
   ],
   "standards": [
@@ -174,6 +179,11 @@
       "scope": "Exodus 1–40",
       "report": "audit/fluent-revision/2026-09-11-exodus-consistency/review.json",
       "qualification": "Whole-book structural scan and selected thematic self-check: 142 distinct source/English comparisons; independent editorial review pending."
+    },
+    {
+      "scope": "Leviticus 1–27",
+      "report": "audit/fluent-revision/2026-09-11-leviticus-consistency/review.json",
+      "qualification": "Whole-book structural scan and selected thematic authoring self-check: 109 distinct source-bound comparison verses; independent scholarly review and reader testing pending; Sabbath capitalization queued for final house style."
     }
   ]
 }

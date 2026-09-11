@@ -1,0 +1,156 @@
+{
+  "status": "PASSED",
+  "scope": "Leviticus 1–27: complete structural scan and selected thematic authoring self-check",
+  "source_records": 859,
+  "structural_chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "sha256": "e0cd4d5096e3b73e7aa2b7e7573e56adec182a22c723867897d64095f098ecb7"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 16,
+      "sha256": "1a6ed0497339283bdefdac8f52a77529dcb81a659404d7128afd5cf96bcc66f9"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 17,
+      "sha256": "e4ef11902f8dab08d6e6d670b21e852c31c66899359eac81119ae393722f6269"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 35,
+      "sha256": "e90e672ac30294063bb7166b54ebc7b6776e68c072c127d9e473a714ecf2ed17"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 19,
+      "sha256": "a839b32ac30bbe7cbc05eefcc94088b07ba6fcbc36884be8c79ccfdd8f7c2d9f"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 30,
+      "sha256": "eae5d4fff0e946d7554bdd300f4b9ae28412ef74d26a7b0451a6551d52595c4c"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 38,
+      "sha256": "2e51e77084455438c6f6e000b7c42b230c5c74f2eb9dce1bcfc3e3f4ebe6c1a9"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 36,
+      "sha256": "cadcdd2038f2869c89de10f1a1ebd7fa646e78e5423ae4bbb6d7abddf7d89e80"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 24,
+      "sha256": "8521222bbc6516d0d9a5f9816ccf149bb3c89cd7150b2bc542978be1816b2574"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 20,
+      "sha256": "14fa141d1a2a2c1d1773f65010fb0d237bcbd4cab0aed03253954c4ae623205c"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 47,
+      "sha256": "cae262d77d8cefcbd457927bed03127ae3adde03c5e16d691c0bfa99fee3d753"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 8,
+      "sha256": "cc6e5005ae23908cd5b9f5c9d592d2931868efdc52c70d3756ef70b6237f2245"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 59,
+      "sha256": "dab409eedc2ff9a126b96672ca77889bece967a24792e58fdc42f59ce74e30ed"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 57,
+      "sha256": "30e4fc12bd51d2f8fba5ede3bd4643b333311dad46e445c4c71fff9513ece970"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 33,
+      "sha256": "2bb49e6066a0847d81c1c7dd792a076561b114119121e1f64b0d7734029356f1"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 34,
+      "sha256": "292102fc59b590c0f854807056afd90313793ea23060a90fc31642ee6b70eeda"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 16,
+      "sha256": "899a64cdb3b74c5f2f40e33ae50859678e97f22ca84a82e2fb9877a7871c9be1"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 30,
+      "sha256": "a7861b1ff122e2eeb339e5cf1f53ceb02838d6020b81e048c3b774d38a4629c0"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 37,
+      "sha256": "722d5a257542ab3accdac2668c91e858632e164995f708bb2326d6d2d654da57"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 27,
+      "sha256": "2bb7b614d54b76f6a71e40630292e48f391b5e044ad9012bec4a931f5006b8cd"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 24,
+      "sha256": "389ed6ac7dd85d4267a8d74429b344620db3db6a59ba59d3643465b80626e2c8"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 33,
+      "sha256": "bf0f38fdf6583a290723bde9863ac4791b49fbd6f157628a2d72262bcc01f0d0"
+    },
+    {
+      "chapter": 23,
+      "verse_count": 44,
+      "sha256": "f107c74a51a683818cb76fc6d7351de5ed1557bd369a1d8f505ed8cc1780ea01"
+    },
+    {
+      "chapter": 24,
+      "verse_count": 23,
+      "sha256": "30424163a05669315f7fef25b8bd009e6b44692f8b51aa75d74907d7766dc8c5"
+    },
+    {
+      "chapter": 25,
+      "verse_count": 55,
+      "sha256": "dae2ba58eb13faf1b87e1e910616487b121f20102c035c0c525f43c5e421ff62"
+    },
+    {
+      "chapter": 26,
+      "verse_count": 46,
+      "sha256": "669730ba0419f38ab7d3f88419c137adc5a764b4320e6d4367dc6dfabd97bb3e"
+    },
+    {
+      "chapter": 27,
+      "verse_count": 34,
+      "sha256": "64382477a645c9584d6f3496a279c14b6cb77ba397765e86ad1b46c77aa0bfd9"
+    }
+  ],
+  "concordance_verses": 56,
+  "focused_comparison_rows": 77,
+  "unique_selected_verses": 109,
+  "all_source_records_bound_once": true,
+  "public_chapter_6_shift_verified": true,
+  "prior_chapter_texts_and_bindings_unchanged": true,
+  "current_draft_audit_evidence": "audit/fluent-revision/2026-09-11-leviticus-26-27/verification.json",
+  "current_draft_evidence_sha256": "0314f59b36fa814fbbf18cb8ab58c8c6bff883837842d2a3632ebd997d8ede45",
+  "style_review_pending": [
+    "Sabbath/sabbath capitalization varies between earlier and later batches; this scan verifies retained terminology without normalizing typography."
+  ],
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}
