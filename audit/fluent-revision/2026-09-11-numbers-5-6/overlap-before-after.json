@@ -1,0 +1,600 @@
+{
+  "scope": "Numbers 5–6; 58 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 22,
+      "near_identical_verses": 34,
+      "mean_similarity": 0.965836,
+      "verses": [
+        {
+          "reference": "Numbers 5:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:3",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Numbers 5:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:7",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Numbers 5:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:9",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Numbers 5:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:15",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Numbers 5:16",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Numbers 5:17",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Numbers 5:18",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Numbers 5:19",
+          "identical": false,
+          "similarity": 0.976744
+        },
+        {
+          "reference": "Numbers 5:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:21",
+          "identical": false,
+          "similarity": 0.976744
+        },
+        {
+          "reference": "Numbers 5:22",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Numbers 5:23",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Numbers 5:24",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Numbers 5:25",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Numbers 5:26",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Numbers 5:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:28",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Numbers 5:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 5:30",
+          "identical": false,
+          "similarity": 0.945946
+        },
+        {
+          "reference": "Numbers 5:31",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Numbers 6:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 6:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 6:3",
+          "identical": false,
+          "similarity": 0.903226
+        },
+        {
+          "reference": "Numbers 6:4",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Numbers 6:5",
+          "identical": false,
+          "similarity": 0.953488
+        },
+        {
+          "reference": "Numbers 6:6",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Numbers 6:7",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Numbers 6:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 6:9",
+          "identical": false,
+          "similarity": 0.935484
+        },
+        {
+          "reference": "Numbers 6:10",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Numbers 6:11",
+          "identical": false,
+          "similarity": 0.948718
+        },
+        {
+          "reference": "Numbers 6:12",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Numbers 6:13",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Numbers 6:14",
+          "identical": false,
+          "similarity": 0.97619
+        },
+        {
+          "reference": "Numbers 6:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 6:16",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Numbers 6:17",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Numbers 6:18",
+          "identical": false,
+          "similarity": 0.97561
+        },
+        {
+          "reference": "Numbers 6:19",
+          "identical": false,
+          "similarity": 0.973684
+        },
+        {
+          "reference": "Numbers 6:20",
+          "identical": false,
+          "similarity": 0.972973
+        },
+        {
+          "reference": "Numbers 6:21",
+          "identical": false,
+          "similarity": 0.978723
+        },
+        {
+          "reference": "Numbers 6:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 6:23",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Numbers 6:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 6:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 6:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 6:27",
+          "identical": false,
+          "similarity": 0.928571
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 3,
+      "mean_similarity": 0.696863,
+      "verses": [
+        {
+          "reference": "Numbers 5:1",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 5:2",
+          "identical": false,
+          "similarity": 0.877193
+        },
+        {
+          "reference": "Numbers 5:3",
+          "identical": false,
+          "similarity": 0.730769
+        },
+        {
+          "reference": "Numbers 5:4",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 5:5",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 5:6",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 5:7",
+          "identical": false,
+          "similarity": 0.807692
+        },
+        {
+          "reference": "Numbers 5:8",
+          "identical": false,
+          "similarity": 0.649351
+        },
+        {
+          "reference": "Numbers 5:9",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 5:10",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 5:11",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 5:12",
+          "identical": false,
+          "similarity": 0.606061
+        },
+        {
+          "reference": "Numbers 5:13",
+          "identical": false,
+          "similarity": 0.369231
+        },
+        {
+          "reference": "Numbers 5:14",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 5:15",
+          "identical": false,
+          "similarity": 0.685185
+        },
+        {
+          "reference": "Numbers 5:16",
+          "identical": false,
+          "similarity": 0.814815
+        },
+        {
+          "reference": "Numbers 5:17",
+          "identical": false,
+          "similarity": 0.653846
+        },
+        {
+          "reference": "Numbers 5:18",
+          "identical": false,
+          "similarity": 0.698795
+        },
+        {
+          "reference": "Numbers 5:19",
+          "identical": false,
+          "similarity": 0.674419
+        },
+        {
+          "reference": "Numbers 5:20",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Numbers 5:21",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Numbers 5:22",
+          "identical": false,
+          "similarity": 0.740741
+        },
+        {
+          "reference": "Numbers 5:23",
+          "identical": false,
+          "similarity": 0.914286
+        },
+        {
+          "reference": "Numbers 5:24",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 5:25",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Numbers 5:26",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 5:27",
+          "identical": false,
+          "similarity": 0.694737
+        },
+        {
+          "reference": "Numbers 5:28",
+          "identical": false,
+          "similarity": 0.829268
+        },
+        {
+          "reference": "Numbers 5:29",
+          "identical": false,
+          "similarity": 0.722222
+        },
+        {
+          "reference": "Numbers 5:30",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Numbers 5:31",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Numbers 6:1",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 6:2",
+          "identical": false,
+          "similarity": 0.653846
+        },
+        {
+          "reference": "Numbers 6:3",
+          "identical": false,
+          "similarity": 0.461538
+        },
+        {
+          "reference": "Numbers 6:4",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 6:5",
+          "identical": false,
+          "similarity": 0.731707
+        },
+        {
+          "reference": "Numbers 6:6",
+          "identical": false,
+          "similarity": 0.484848
+        },
+        {
+          "reference": "Numbers 6:7",
+          "identical": false,
+          "similarity": 0.48
+        },
+        {
+          "reference": "Numbers 6:8",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Numbers 6:9",
+          "identical": false,
+          "similarity": 0.634921
+        },
+        {
+          "reference": "Numbers 6:10",
+          "identical": false,
+          "similarity": 0.938776
+        },
+        {
+          "reference": "Numbers 6:11",
+          "identical": false,
+          "similarity": 0.632911
+        },
+        {
+          "reference": "Numbers 6:12",
+          "identical": false,
+          "similarity": 0.542857
+        },
+        {
+          "reference": "Numbers 6:13",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Numbers 6:14",
+          "identical": false,
+          "similarity": 0.682927
+        },
+        {
+          "reference": "Numbers 6:15",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Numbers 6:16",
+          "identical": false,
+          "similarity": 0.685714
+        },
+        {
+          "reference": "Numbers 6:17",
+          "identical": false,
+          "similarity": 0.646154
+        },
+        {
+          "reference": "Numbers 6:18",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 6:19",
+          "identical": false,
+          "similarity": 0.583333
+        },
+        {
+          "reference": "Numbers 6:20",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Numbers 6:21",
+          "identical": false,
+          "similarity": 0.547619
+        },
+        {
+          "reference": "Numbers 6:22",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 6:23",
+          "identical": false,
+          "similarity": 0.628571
+        },
+        {
+          "reference": "Numbers 6:24",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Numbers 6:25",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Numbers 6:26",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 6:27",
+          "identical": false,
+          "similarity": 0.758621
+        }
+      ]
+    }
+  }
+}
