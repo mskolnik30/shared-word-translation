@@ -4,123 +4,164 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-1-2-biblical-fluency-2026-09-11
 ---
 
-## The Census of Israel
+## The Census at Sinai
 
 <p>
-v01: The LORD spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they came out from the land of Egypt, saying,
-v02: “Take a census of the whole congregation of the Israelites, by their clans and by their ancestral houses, according to the number of names, every male, one by one,
-v03: from twenty years old and upward, everyone in Israel able to go out to war. You and Aaron will count them by their divisions.
-v04: With you will be one man from each tribe, each person head of his ancestral house.
+v01: On the first day of the second month, in the second year after Israel left Egypt, the LORD spoke to Moses in the tent of meeting in the wilderness of Sinai. He said,
+v02: “Take a census of the whole Israelite community by clan and ancestral household. List every male by name, one by one,
+v03: from twenty years old and upward—all in Israel who can serve in the army. You and Aaron are to register them by their military divisions.
+v04: One man from each tribe is to help you, each a head of his ancestral household.
 </p>
 
-<p>
-v05: These are the names of the men who will stand with you: from Reuben, Elizur son of Shedeur;
-v06: from Simeon, Shelumiel son of Zurishaddai;
-v07: from Judah, Nahshon son of Amminadab;
-v08: from Issachar, Nethanel son of Zuar;
-v09: from Zebulun, Eliab son of Helon;
-v10: from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;
-v11: from Benjamin, Abidan son of Gideoni;
-v12: from Dan, Ahiezer son of Ammishaddai;
-v13: from Asher, Pagiel son of Ochran;
-v14: from Gad, Eliasaph son of Deuel;
-v15: from Naphtali, Ahira son of Enan.”
-v16: These were the ones called from the congregation, leaders of their ancestral tribes, heads of the thousands of Israel.
-</p>
+## The Men Who Will Help
 
 <p>
-v17: Moses and Aaron took these men who had been designated by name,
-v18: and they assembled the whole congregation on the first day of the second month. They registered themselves by their clans and ancestral houses, according to the number of names, from twenty years old and upward, one by one,
-v19: as the LORD commanded Moses. So he counted them in the wilderness of Sinai.
+v05: These are the men who will stand with you: for Reuben, Elizur son of Shedeur;
+v06: for Simeon, Shelumiel son of Zurishaddai;
+v07: for Judah, Nahshon son of Amminadab;
+v08: for Issachar, Nethanel son of Zuar;
+v09: for Zebulun, Eliab son of Helon;
+v10: for Joseph’s descendants: for Ephraim, Elishama son of Ammihud; for Manasseh, Gamaliel son of Pedahzur;
+v11: for Benjamin, Abidan son of Gideoni;
+v12: for Dan, Ahiezer son of Ammishaddai;
+v13: for Asher, Pagiel son of Ochran;
+v14: for Gad, Eliasaph son of Deuel;
+v15: for Naphtali, Ahira son of Enan.”
+v16: These were the men called from the community, leaders of their ancestral tribes. They were heads of Israel’s thousands.
+</p>
+
+## The Community Is Registered
+
+<p>
+v17: Moses and Aaron took these men, who had been named individually,
+v18: and gathered the whole community on the first day of the second month. The people declared their ancestry by clan and ancestral household, listing everyone twenty years old and upward by name, one by one.
+v19: Moses registered them in the wilderness of Sinai, just as the LORD had commanded him.
 </p>
 
 ## The Tribal Counts
 
 <p>
-v20: The descendants of Reuben, Israel’s firstborn, their generations by their clans and ancestral houses, according to the number of names, every male from twenty years old and upward, everyone able to go out to war—
-v21: those counted from the tribe of Reuben were forty-six thousand five hundred.
-v22: From the descendants of Simeon, their generations by their clans and ancestral houses, those counted according to the number of names, every male from twenty years old and upward, everyone able to go out to war—
-v23: those counted from the tribe of Simeon were fifty-nine thousand three hundred.
-v24: From the descendants of Gad, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v25: those counted from the tribe of Gad were forty-five thousand six hundred fifty.
+v20: Reuben was Israel’s firstborn. His descendants were registered by lineage, clan and ancestral household, with every male twenty years old and upward who could serve in the army listed by name, one by one.
+v21: The tribe of Reuben had 46,500 men registered.
 </p>
 
 <p>
-v26: From the descendants of Judah, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v27: those counted from the tribe of Judah were seventy-four thousand six hundred.
-v28: From the descendants of Issachar, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v29: those counted from the tribe of Issachar were fifty-four thousand four hundred.
-v30: From the descendants of Zebulun, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v31: those counted from the tribe of Zebulun were fifty-seven thousand four hundred.
+v22: Simeon’s descendants were registered by lineage, clan and ancestral household, with every male twenty years old and upward who could serve in the army listed by name, one by one.
+v23: The tribe of Simeon had 59,300 men registered.
 </p>
 
 <p>
-v32: From the descendants of Joseph, the descendants of Ephraim, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v33: those counted from the tribe of Ephraim were forty thousand five hundred.
-v34: From the descendants of Manasseh, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v35: those counted from the tribe of Manasseh were thirty-two thousand two hundred.
-v36: From the descendants of Benjamin, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v37: those counted from the tribe of Benjamin were thirty-five thousand four hundred.
+v24: Gad’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v25: The tribe of Gad had 45,650 men registered.
 </p>
 
 <p>
-v38: From the descendants of Dan, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v39: those counted from the tribe of Dan were sixty-two thousand seven hundred.
-v40: From the descendants of Asher, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v41: those counted from the tribe of Asher were forty-one thousand five hundred.
-v42: From the descendants of Naphtali, their generations by their clans and ancestral houses, according to the number of names, from twenty years old and upward, everyone able to go out to war—
-v43: those counted from the tribe of Naphtali were fifty-three thousand four hundred.
+v26: Judah’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v27: The tribe of Judah had 74,600 men registered.
 </p>
 
 <p>
-v44: These are people who were counted, whom Moses and Aaron counted with the twelve leaders of Israel, each representing an ancestral house.
-v45: So all those counted from the Israelites by their ancestral houses, from twenty years old and upward, everyone able to go out to war in Israel—
-v46: all those counted were six hundred three thousand five hundred fifty.
-</p>
-
-## The Levites Set Apart
-
-<p>
-v47: But the Levites were not counted among them by their ancestral tribe.
-v48: The LORD spoke to Moses, saying,
-v49: “Only the tribe of Levi you will not count, nor will you take their census among the Israelites.
-v50: Instead, appoint the Levites over the tabernacle of the testimony, over all its furnishings, and over everything that belongs to it. They will carry the tabernacle and all its furnishings; they will serve it and camp around the tabernacle.
-v51: When the tabernacle is to set out, the Levites will take it down; and when the tabernacle is to be pitched, the Levites will set it up. Any outsider who approaches will be put to death.
+v28: Issachar’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v29: The tribe of Issachar had 54,400 men registered.
 </p>
 
 <p>
-v52: The Israelites will camp, each by their own camp and each by their own standard, according to their divisions.
-v53: But the Levites will camp around the tabernacle of the testimony, so that wrath will not come upon the congregation of the Israelites. The Levites will keep charge of the tabernacle of the testimony.”
-v54: The Israelites did so; according to all that the LORD commanded Moses, so they did.
+v30: Zebulun’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v31: The tribe of Zebulun had 57,400 men registered.
+</p>
+
+<p>
+v32: Among Joseph’s descendants, Ephraim’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v33: The tribe of Ephraim had 40,500 men registered.
+</p>
+
+<p>
+v34: Manasseh’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v35: The tribe of Manasseh had 32,200 men registered.
+</p>
+
+<p>
+v36: Benjamin’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v37: The tribe of Benjamin had 35,400 men registered.
+</p>
+
+<p>
+v38: Dan’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v39: The tribe of Dan had 62,700 men registered.
+</p>
+
+<p>
+v40: Asher’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v41: The tribe of Asher had 41,500 men registered.
+</p>
+
+<p>
+v42: Naphtali’s descendants were registered by lineage, clan and ancestral household, listing by name all those twenty years old and upward who could serve in the army.
+v43: The tribe of Naphtali had 53,400 men registered.
+</p>
+
+## The Total
+
+<p>
+v44: These were the men registered by Moses, Aaron and Israel’s twelve leaders, each representing his ancestral household.
+v45: All the Israelites twenty years old and upward who could serve in the army were registered by ancestral household.
+v46: The total number registered was 603,550.
+</p>
+
+## The Levites and the Tabernacle
+
+<p>
+v47: The Levites, however, were not registered with them by their ancestral tribe.
+</p>
+
+<p>
+v48: The LORD said to Moses,
+v49: “Do not register the tribe of Levi or include them in the census of the Israelites.
+v50: Instead, put the Levites in charge of the tabernacle of the testimony, all its furnishings and everything belonging to it. They are to carry the tabernacle and all its furnishings, care for it and camp around it.
+v51: When the tabernacle moves, the Levites are to take it down. When it comes to rest in camp, the Levites are to erect it. Any unauthorized person who comes near must be put to death.
+</p>
+
+<p>
+v52: The Israelites are to camp by their military divisions, each in his own camp and under his own standard.
+v53: But the Levites are to camp around the tabernacle of the testimony so that wrath does not fall on the Israelite community. The Levites are to keep charge of the tabernacle of the testimony.”
+</p>
+
+<p>
+v54: The Israelites did everything the LORD had commanded Moses. That is what they did.
 </p>
 
 ## Notes
 
-v01: “second year” — The census is dated one month after the tabernacle was erected, placing the ordering of the camp within Israel’s continuing life at Sinai.
+v01: This date is one month after the tabernacle was erected (Exodus 40:17). The story continues with Israel still at Sinai.
 
-v02: “ancestral houses” — The Hebrew expression literally refers to “fathers’ houses,” a kinship structure larger than the immediate household and smaller than the tribe.
+v02: An ancestral household, literally a “father’s house,” is an extended family unit within a clan. The census records these family connections as well as individual names.
 
-v03: The census counts males of military age rather than the total population. The Levites are later excluded because they are assigned a different service.
+v14: The Hebrew names Eliasaph’s father Deuel here and Reuel at 2:14. Both forms are retained where they occur.
 
-v50: “tabernacle of the testimony” — The tabernacle is named in relation to the testimony kept within it, emphasizing the covenantal center of the camp.
+v16: “Called” follows the Hebrew reading tradition recorded alongside the written form. “Thousands” can name organized groups; their precise size is not established by that title alone.
 
-v51: “outsider” — The Hebrew *zar* refers here to someone unauthorized to approach the sacred service, not necessarily a person of foreign ethnicity.
+v46: This is the total of the military census described in verse 3, not a count of the entire population. The Hebrew term eleph can mean “thousand” or an organized group. Its interpretation in these large census figures is debated; the numerical reading and stated totals are retained.
+
+v50: The “testimony” is associated with the covenant tablets kept in the ark (Exodus 25:16, 21). The phrase links the sanctuary to what is kept within it.
+
+v51: “Unauthorized person” renders zar, someone outside the group authorized for this service. It does not mean that every foreigner, simply by ethnicity, is in view. The prescribed penalty is death.
 
 ## Vocabulary
 
 v02: מִשְׁפָּחָה (mishpachah)
-“Clan.” A kinship group within a tribe.
-
-v02: בֵּית־אָב (beit-av)
-“Ancestral house.” Literally “house of a father,” a unit of extended family organization.
+Clan: a group of related families within a tribe.
 
 v03: צָבָא (tsava)
-“Army,” “host,” or “service.” Here those able to go out for military service.
+Army or organized service. Here it concerns military service; Numbers also uses it for sanctuary duties.
 
 v50: מִשְׁכָּן (mishkan)
-“Tabernacle” or “dwelling.” The portable sanctuary in which the LORD dwells among Israel.
+Tabernacle or dwelling: the portable sanctuary described in Exodus.
 
 v53: מִשְׁמֶרֶת (mishmeret)
-“Charge,” “guard,” or “responsibility.” A duty entrusted for careful keeping.
+Charge or responsibility to keep. Here the Levites guard and care for the sanctuary.

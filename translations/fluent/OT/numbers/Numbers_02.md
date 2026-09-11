@@ -4,97 +4,101 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-1-2-biblical-fluency-2026-09-11
 ---
 
-## The Camps Around the Tent of Meeting
+## The Camps Around the Tent
 
 <p>
-v01: The LORD spoke to Moses and Aaron, saying,
-v02: “The Israelites will camp, each by their own standard, with the banners of their ancestral houses. They will camp around the Tent of Meeting at a distance.
+v01: The LORD said to Moses and Aaron,
+v02: “The Israelites are to camp under their standards, with the identifying signs of their ancestral households. They are to camp around the tent of meeting, facing it from a distance.
 </p>
 
-## The Camp of Judah
+## East: The Camp of Judah
 
 <p>
-v03: Those camping on the east side, toward the sunrise, will be under the standard of the camp of Judah by their divisions. The leader of the Judahites will be Nahshon son of Amminadab,
-v04: and his division, those counted, seventy-four thousand six hundred.
-v05: Those camping next to him will be the tribe of Issachar. The leader of the Issacharites will be Nethanel son of Zuar,
-v06: and his division, those counted, fifty-four thousand four hundred.
-v07: Then the tribe of Zebulun. The leader of the Zebulunites will be Eliab son of Helon,
-v08: and his division, those counted, fifty-seven thousand four hundred.
-v09: All those counted of the camp of Judah were one hundred eighty-six thousand four hundred by their divisions. They will set out first.
+v03: On the east, toward sunrise, the camp of Judah is to gather under its standard, arranged by military divisions. Judah’s leader is Nahshon son of Amminadab.
+v04: His force numbers 74,600 registered men.
+v05: The tribe of Issachar is to camp beside Judah. Its leader is Nethanel son of Zuar.
+v06: His force numbers 54,400 registered men.
+v07: The tribe of Zebulun is also to camp there. Its leader is Eliab son of Helon.
+v08: His force numbers 57,400 registered men.
+v09: The camp of Judah totals 186,400 registered men in its military divisions. They are to set out first.
 </p>
 
-## The Camp of Reuben
+## South: The Camp of Reuben
 
 <p>
-v10: On the south side will be the standard of the camp of Reuben by their divisions. The leader of the Reubenites will be Elizur son of Shedeur,
-v11: and his division, those counted, forty-six thousand five hundred.
-v12: Those camping next to him will be the tribe of Simeon. The leader of the Simeonites will be Shelumiel son of Zurishaddai,
-v13: and his division, those counted, fifty-nine thousand three hundred.
-v14: Then the tribe of Gad. The leader of the Gadites will be Eliasaph son of Reuel,
-v15: and his division, those counted, forty-five thousand six hundred fifty.
-v16: All those counted of the camp of Reuben were one hundred fifty-one thousand four hundred fifty by their divisions. They will set out second.
+v10: On the south, the camp of Reuben is to gather under its standard, arranged by military divisions. Reuben’s leader is Elizur son of Shedeur.
+v11: His force numbers 46,500 registered men.
+v12: The tribe of Simeon is to camp beside Reuben. Its leader is Shelumiel son of Zurishaddai.
+v13: His force numbers 59,300 registered men.
+v14: The tribe of Gad is also to camp there. Its leader is Eliasaph son of Reuel.
+v15: His force numbers 45,650 registered men.
+v16: The camp of Reuben totals 151,450 registered men in its military divisions. They are to set out second.
 </p>
 
-## The Tent of Meeting in the Center
+## The Tent in the Middle
 
 <p>
-v17: Then the Tent of Meeting will set out, with the camp of the Levites among the camps. As they camp, so they will set out, each in position by their standards.
+v17: Then the tent of meeting is to set out, with the Levites’ camp in the middle of the camps. They are to march as they camp, each in his assigned place under their standards.
 </p>
 
-## The Camp of Ephraim
+## West: The Camp of Ephraim
 
 <p>
-v18: On the west side will be the standard of the camp of Ephraim by their divisions. The leader of the Ephraimites will be Elishama son of Ammihud,
-v19: and his division, those counted, forty thousand five hundred.
-v20: Next to him will be the tribe of Manasseh. The leader of the Manassites will be Gamaliel son of Pedahzur,
-v21: and his division, those counted, thirty-two thousand two hundred.
-v22: Then the tribe of Benjamin. The leader of the Benjaminites will be Abidan son of Gideoni,
-v23: and his division, those counted, thirty-five thousand four hundred.
-v24: All those counted of the camp of Ephraim were one hundred eight thousand one hundred by their divisions. They will set out third.
+v18: On the west, the camp of Ephraim is to gather under its standard, arranged by military divisions. Ephraim’s leader is Elishama son of Ammihud.
+v19: His force numbers 40,500 registered men.
+v20: The tribe of Manasseh is to camp beside Ephraim. Its leader is Gamaliel son of Pedahzur.
+v21: His force numbers 32,200 registered men.
+v22: The tribe of Benjamin is also to camp there. Its leader is Abidan son of Gideoni.
+v23: His force numbers 35,400 registered men.
+v24: The camp of Ephraim totals 108,100 registered men in its military divisions. They are to set out third.
 </p>
 
-## The Camp of Dan
+## North: The Camp of Dan
 
 <p>
-v25: On the north side will be the standard of the camp of Dan by their divisions. The leader of the Danites will be Ahiezer son of Ammishaddai,
-v26: and his division, those counted, sixty-two thousand seven hundred.
-v27: Those camping next to him will be the tribe of Asher. The leader of the Asherites will be Pagiel son of Ochran,
-v28: and his division, those counted, forty-one thousand five hundred.
-v29: Then the tribe of Naphtali. The leader of the Naphtalites will be Ahira son of Enan,
-v30: and his division, those counted, fifty-three thousand four hundred.
-v31: All those counted of the camp of Dan were one hundred fifty-seven thousand six hundred. They will set out last by their standards.
+v25: On the north, the camp of Dan is to gather under its standard, arranged by military divisions. Dan’s leader is Ahiezer son of Ammishaddai.
+v26: His force numbers 62,700 registered men.
+v27: The tribe of Asher is to camp beside Dan. Its leader is Pagiel son of Ochran.
+v28: His force numbers 41,500 registered men.
+v29: The tribe of Naphtali is also to camp there. Its leader is Ahira son of Enan.
+v30: His force numbers 53,400 registered men.
+v31: The camp of Dan totals 157,600 registered men. They are to set out last, under their standards.”
 </p>
 
-## Israel Encamps as Commanded
+## Israel Camps and Sets Out
 
 <p>
-v32: These are those counted from the Israelites by their ancestral houses. All those counted in the camps by their divisions were six hundred three thousand five hundred fifty.
-v33: But the Levites were not counted among the Israelites, as the LORD commanded Moses.
-v34: Thus the Israelites did. According to all that the LORD commanded Moses, so they camped by their standards, and so they set out, each by clan and ancestral house.
+v32: These were the Israelites registered by ancestral household. All those registered in the camps by their military divisions totaled 603,550.
+v33: The Levites were not registered among the other Israelites, just as the LORD had commanded Moses.
+v34: The Israelites did everything the LORD had commanded Moses. They camped under their standards and set out in the same order, each with his clan and ancestral household.
 </p>
 
 ## Notes
 
-v02: The camp is organized around the Tent of Meeting. Israel’s military and tribal arrangement therefore has the divine dwelling, rather than a king or army commander, at its center.
+v02: The Hebrew mentions both standards and identifying signs. It gives no description of their pictures or colors, and no measured distance from the tent.
 
-v03: “toward the sunrise” — The east is named through the movement of the sun, preserving the Hebrew spatial expression.
+v09: “The camp of Judah” includes Judah, Issachar and Zebulun. The camp totals in verses 9, 16, 24 and 31 each combine three tribal counts from chapter 1.
 
-v17: The Levites and sanctuary move at the center of the marching order just as they occupy the center of the encamped community.
+v14: Reuel is the name in the pinned Hebrew here; 1:14 has Deuel. Some textual witnesses read Deuel here as well. The draft preserves the difference in its source.
 
-v34: The repeated formula “according to all that the LORD commanded” presents the ordered camp as an act of obedience rather than merely administration.
+v17: The sanctuary and Levites occupy the middle of the arrangement. This verse connects the order of the camps with the order of departure; further transport duties are described in chapters 3–4.
 
 ## Vocabulary
 
 v02: דֶּגֶל (degel)
-“Standard.” A tribal marker around which a camp or military division assembled.
+Standard: a marker associated with an organized camp.
 
 v02: אֹת (ot)
-“Sign” or “banner.” Here a marker associated with an ancestral house.
+Sign: here an identifying marker associated with an ancestral household.
 
 v03: מַחֲנֶה (machaneh)
-“Camp.” An organized encampment, often with military associations.
+Camp: an organized encampment. In this chapter a named camp includes more than one tribe.
 
-v17: מוֹעֵד (moed)
-“Meeting” or “appointed time.” In “Tent of Meeting,” the place appointed for encounter with God.
+v09: נָסַע (nasa)
+Set out: move on from a camp. The repeated verb helps readers follow the marching order.
