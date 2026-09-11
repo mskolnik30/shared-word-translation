@@ -1,0 +1,464 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T13:58:43.985313+00:00",
+  "base_commit": "e7fb160695a2c6d05689ea86fe548f49c5a40c9e",
+  "scope": "Exodus 32–34; 93 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 89,
+    "verses": 2640
+  },
+  "source_record_count": 1213,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "32:1": [
+      "gods to go ahead",
+      "this Moses",
+      "we do not know"
+    ],
+    "32:2": [
+      "wives, sons, and daughters"
+    ],
+    "32:4": [
+      "engraving tool",
+      "cast-metal calf",
+      "These are your gods"
+    ],
+    "32:5": [
+      "festival to the LORD"
+    ],
+    "32:6": [
+      "burnt offerings",
+      "peace offerings",
+      "eat and drink",
+      "revel"
+    ],
+    "32:7": [
+      "Your people, whom you brought up"
+    ],
+    "32:8": [
+      "bowed down",
+      "sacrificed",
+      "These are your gods"
+    ],
+    "32:10": [
+      "leave me alone",
+      "consume them",
+      "make you into a great nation"
+    ],
+    "32:11": [
+      "your people, whom you brought out",
+      "strong hand"
+    ],
+    "32:12": [
+      "kill them in the mountains",
+      "Relent"
+    ],
+    "32:13": [
+      "Abraham, Isaac, and Israel",
+      "by your own self",
+      "offspring",
+      "stars",
+      "inherit it forever"
+    ],
+    "32:14": [
+      "LORD relented",
+      "his people"
+    ],
+    "32:15": [
+      "two tablets",
+      "in his hand",
+      "both sides, front and back"
+    ],
+    "32:16": [
+      "God’s work",
+      "God’s writing"
+    ],
+    "32:18": [
+      "sound of victory",
+      "sound of defeat",
+      "sound of singing"
+    ],
+    "32:19": [
+      "his anger burned",
+      "from his hands",
+      "shattered"
+    ],
+    "32:20": [
+      "burned",
+      "ground it to powder",
+      "scattered",
+      "made the Israelites drink"
+    ],
+    "32:24": [
+      "I threw it into the fire",
+      "out came this calf"
+    ],
+    "32:25": [
+      "out of control",
+      "Aaron had let them loose"
+    ],
+    "32:27": [
+      "LORD, the God of Israel, says",
+      "sword",
+      "kill his brother, his friend, and his neighbor"
+    ],
+    "32:28": [
+      "about three thousand men",
+      "fell that day"
+    ],
+    "32:29": [
+      "Consecrate yourselves",
+      "son and his brother",
+      "blessing"
+    ],
+    "32:30": [
+      "Perhaps",
+      "atonement"
+    ],
+    "32:32": [
+      "if you will forgive their sin— But if not",
+      "erase me",
+      "book"
+    ],
+    "32:35": [
+      "plague",
+      "they had made the calf",
+      "Aaron made"
+    ],
+    "33:1": [
+      "Abraham, Isaac, and Jacob"
+    ],
+    "33:2": [
+      "Canaanites, Amorites, Hittites, Perizzites, Hivites, and Jebusites"
+    ],
+    "33:3": [
+      "milk and honey",
+      "will not go up among you",
+      "consume you"
+    ],
+    "33:5": [
+      "even a moment",
+      "consume you",
+      "take off your ornaments"
+    ],
+    "33:6": [
+      "Horeb"
+    ],
+    "33:7": [
+      "used to",
+      "far away from the camp",
+      "Anyone seeking"
+    ],
+    "33:11": [
+      "face to face",
+      "friend",
+      "young assistant Joshua son of Nun"
+    ],
+    "33:14": [
+      "My presence will go",
+      "give you rest"
+    ],
+    "33:15": [
+      "do not bring us up"
+    ],
+    "33:18": [
+      "show me your glory"
+    ],
+    "33:19": [
+      "all my goodness",
+      "I will be gracious to whom I will be gracious",
+      "I will show compassion to whom I will show compassion"
+    ],
+    "33:20": [
+      "cannot see my face",
+      "no human can see me and live"
+    ],
+    "33:22": [
+      "cleft",
+      "hand",
+      "until I have passed"
+    ],
+    "33:23": [
+      "take away my hand",
+      "see my back",
+      "my face must not be seen"
+    ],
+    "34:1": [
+      "Cut two stone tablets",
+      "I will write",
+      "which you shattered"
+    ],
+    "34:3": [
+      "No one",
+      "flocks and herds"
+    ],
+    "34:6": [
+      "The LORD, the LORD",
+      "compassionate and gracious",
+      "slow to anger",
+      "faithful love and faithfulness"
+    ],
+    "34:7": [
+      "thousands",
+      "guilt, rebellion, and sin",
+      "not clearing the guilty",
+      "fathers’ guilt",
+      "children and grandchildren",
+      "third and fourth"
+    ],
+    "34:9": [
+      "Though",
+      "forgive our guilt and sin",
+      "your inheritance"
+    ],
+    "34:11": [
+      "Amorites, Canaanites, Hittites, Perizzites, Hivites, and Jebusites"
+    ],
+    "34:13": [
+      "Tear down",
+      "shatter",
+      "cut down",
+      "Asherah poles"
+    ],
+    "34:14": [
+      "whose name is Jealous",
+      "jealous God"
+    ],
+    "34:16": [
+      "daughters as wives for your sons",
+      "prostitute themselves"
+    ],
+    "34:18": [
+      "seven days",
+      "Abib"
+    ],
+    "34:19": [
+      "opens the womb",
+      "firstborn male"
+    ],
+    "34:20": [
+      "sheep or goat",
+      "break its neck",
+      "every firstborn son"
+    ],
+    "34:21": [
+      "six days",
+      "seventh",
+      "plowing and harvest"
+    ],
+    "34:22": [
+      "Weeks",
+      "wheat harvest",
+      "Ingathering"
+    ],
+    "34:23": [
+      "Three times a year",
+      "all your males",
+      "Lord GOD"
+    ],
+    "34:24": [
+      "dispossess nations",
+      "enlarge your territory",
+      "covet your land",
+      "three times a year"
+    ],
+    "34:26": [
+      "firstfruits",
+      "Do not boil a young goat in its mother’s milk"
+    ],
+    "34:28": [
+      "forty days and forty nights",
+      "no bread",
+      "no water",
+      "he wrote",
+      "Ten Words"
+    ],
+    "34:29": [
+      "two tablets",
+      "did not know",
+      "skin of his face shone"
+    ],
+    "34:33": [
+      "finished speaking",
+      "put a veil"
+    ],
+    "34:34": [
+      "take off the veil",
+      "tell the Israelites"
+    ],
+    "34:35": [
+      "would see Moses’ face",
+      "put the veil back",
+      "speak with the LORD again"
+    ]
+  },
+  "source_annotations_hashed_in_full": [
+    "32:17",
+    "32:19",
+    "33:10",
+    "33:16",
+    "34:6"
+  ],
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 93 pinned Hebrew records including annotations, drafted independently, then consulted supplemental NET notes and read all TSW comparators. It reread the assembled English, preserved lineated speech and proclamation within verse paragraphs, and checked repeated language against Exodus 13, 20, 23 and 28–31. Review clarified conversation referents and aligned Lord GOD and intergenerational-guilt language with prior chapters while preserving differences. Focused checks cover plural gods with a single calf, Aaron’s account versus narration, kinship killing, approximate death count, unfinished plea, relenting, presence/face images, writing-subject ambiguity, and veil sequence. This is an authoring self-check, not independent scholarly review.",
+  "exodus_source_references_unique_through_34": 999,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

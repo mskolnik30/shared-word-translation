@@ -4,163 +4,154 @@ testament: OT
 chapter: 34
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-32-34-biblical-fluency-2026-09-11
 ---
 
-## Two New Tablets
+## New stone tablets
 
 <p>
-v01: The LORD said to Moses, “Cut for yourself two tablets of stone like the first ones, and I will write upon the tablets the words that were on the first tablets, which you shattered.
-
-v02: Be ready by morning and come up in the morning to Mount Sinai. Present yourself to me there on the top of the mountain.
-
-v03: No one will come up with you, and no one will be seen anywhere on the mountain. Even the flocks and herds will not graze opposite that mountain.”
-
-v04: So Moses cut two tablets of stone like the first ones. He rose early in the morning and went up Mount Sinai, as the LORD had commanded him, and took in his hand the two tablets of stone.
+v01: The LORD told Moses, “Cut two stone tablets like the first ones. I will write on them the words that were on the first tablets, which you shattered.
+v02: Be ready by morning. In the morning, come up Mount Sinai and stand before me there on the summit.
+v03: No one is to come up with you, and no one is to be seen anywhere on the mountain. Even the flocks and herds must not graze in front of it.”
 </p>
 
-## The LORD Proclaims His Name
+<p>
+v04: Moses cut two stone tablets like the first ones. He rose early and went up Mount Sinai, as the LORD had commanded him, carrying the two stone tablets in his hand.
+</p>
+
+## The name proclaimed
 
 <p>
-v05: The LORD descended in the cloud and stood with him there and proclaimed the name of the LORD.
-
-v06: The LORD passed before him and proclaimed:
-
+v05: The LORD came down in the cloud and stood with him there. He proclaimed the name of the LORD.
+v06: The LORD passed in front of him and proclaimed,
 “The LORD, the LORD,
 a God compassionate and gracious,
 slow to anger,
-abundant in steadfast love and faithfulness,
-
-v07: keeping steadfast love for thousands,
-forgiving guilt, transgression, and sin,
-yet by no means clearing the guilty,
-attending to the guilt of fathers
-upon children and children’s children,
-to the third and fourth generation.”
+abounding in faithful love and faithfulness,
+v07: keeping faithful love for thousands,
+forgiving guilt, rebellion, and sin,
+yet certainly not clearing the guilty,
+bringing the fathers’ guilt upon their children and grandchildren,
+to the third and fourth generations.”
 </p>
 
-## Moses Pleads for the People
+## Moses’ request
 
 <p>
-v08: Moses hurried and bowed his head toward the ground and worshiped.
-
-v09: He said, “If now I have found favor in your eyes, my Lord, please let my Lord go in our midst, though this is a stiff-necked people. Forgive our guilt and our sin, and take us as your inheritance.”
+v08: Moses quickly bowed low to the ground and worshiped.
+v09: He said, “My Lord, if I have found favor in your eyes, please go among us. Though this is a stiff-necked people, forgive our guilt and sin, and take us as your inheritance.”
 </p>
 
-## The Covenant Renewed
+## The covenant renewed
 
 <p>
-v10: He said, “Look, I am making a covenant. Before all your people I will do wonders that have not been created in all the earth or among any nation. All the people among whom you are will see the work of the LORD, for it is an awe-inspiring thing that I am doing with you.
-
-v11: Keep what I command you today. Look, I am driving out before you the Amorite, Canaanite, Hittite, Perizzite, Hivite, and Jebusite.
-
-v12: Be careful not to make a covenant with the inhabitants of the land into which you are going, lest it become a snare in your midst.
-
-v13: Rather, you will tear down their altars, shatter their pillars, and cut down their Asherah poles.
-
-v14: For you will not bow down to another god, for the LORD, whose name is Jealous, is a jealous God.
-
-v15: Do not make a covenant with the inhabitants of the land, lest when they prostitute themselves after their gods and sacrifice to their gods, someone invite you and you eat from his sacrifice,
-
-v16: and you take some of their daughters for your sons, and their daughters prostitute themselves after their gods and cause your sons to prostitute themselves after their gods.
-
-v17: You will not make for yourself cast gods.
+v10: He answered, “Look, I am making a covenant. Before all your people I will do wonders unlike anything brought into being anywhere on earth or among any nation. All the people among whom you live will see the LORD’s work, for what I am doing with you is awe-inspiring.
+v11: Keep what I command you today. I am driving out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites, and Jebusites.
 </p>
 
-## Festivals and the Firstborn
-
 <p>
-v18: “You will keep the Festival of Unleavened Bread. Seven days you will eat unleavened bread, as I commanded you, at the appointed time in the month of Abib, for in the month of Abib you came out from Egypt.
-
-v19: Everything that first opens the womb is mine, including every male firstborn among your livestock, whether cattle or sheep.
-
-v20: The firstborn donkey you will redeem with a lamb, but if you do not redeem it, you will break its neck. Every firstborn of your sons you will redeem. No one will appear before me empty-handed.
-
-v21: Six days you will work, but on the seventh day you will cease. Even in plowing time and harvest you will cease.
-
-v22: You will keep the Festival of Weeks, the firstfruits of the wheat harvest, and the Festival of Ingathering at the turning of the year.
-
-v23: Three times in the year all your males will appear before the Lord GOD, the God of Israel.
-
-v24: For I will drive out nations before you and enlarge your territory, and no one will desire your land when you go up to appear before the LORD your God three times in the year.
-
-v25: You will not offer the blood of my sacrifice with anything leavened, and the sacrifice of the Passover festival will not remain until morning.
-
-v26: The best of the firstfruits of your ground you will bring to the house of the LORD your God.
-
-You will not boil a young goat in its mother’s milk.”
+v12: Be careful not to make a covenant with the inhabitants of the land you are entering, or it will become a snare among you.
+v13: Tear down their altars, shatter their sacred pillars, and cut down their Asherah poles.
+v14: You must not bow down to another god, because the LORD, whose name is Jealous, is a jealous God.
 </p>
 
-## The Words of the Covenant
-
 <p>
-v27: The LORD said to Moses, “Write these words, for according to these words I have made a covenant with you and with Israel.”
-
-v28: He was there with the LORD forty days and forty nights. He ate no bread and drank no water. And he wrote on the tablets the words of the covenant, the Ten Words.
+v15: Do not make a covenant with the land’s inhabitants. When they prostitute themselves to their gods and sacrifice to them, someone may invite you, and you may eat from his sacrifice.
+v16: You may take their daughters as wives for your sons, and when their daughters prostitute themselves to their gods, they will lead your sons to prostitute themselves to those gods too.
+v17: Do not make cast-metal gods for yourselves.
 </p>
 
-## The Skin of Moses’ Face Shines
+## Festivals and firstborn
 
 <p>
-v29: When Moses came down from Mount Sinai with the two tablets of the testimony in Moses’ hand as he came down from the mountain, Moses did not know that the skin of his face was shining because he had spoken with him.
+v18: Keep the Festival of Unleavened Bread. For seven days eat unleavened bread, as I commanded you, at the appointed time in the month of Abib, because it was in Abib that you came out of Egypt.
+</p>
 
-v30: Aaron and all the children of Israel saw Moses, and look, the skin of his face was shining, and they were afraid to come near him.
+<p>
+v19: Every firstborn that opens the womb belongs to me, including every firstborn male among your cattle and flocks.
+v20: Redeem a firstborn donkey with a sheep or goat. If you do not redeem it, break its neck. Redeem every firstborn son. No one is to appear before me empty-handed.
+</p>
 
-v31: Moses called to them, and Aaron and all the leaders of the congregation returned to him, and Moses spoke with them.
+<p>
+v21: Work for six days, but stop on the seventh. Even during plowing and harvest, you must stop.
+v22: Keep the Festival of Weeks with the firstfruits of the wheat harvest, and the Festival of Ingathering at the turn of the year.
+</p>
 
-v32: Afterward all the children of Israel came near, and he commanded them all that the LORD had spoken with him on Mount Sinai.
+<p>
+v23: Three times a year all your males must appear before the Lord GOD, the God of Israel.
+v24: For I will dispossess nations before you and enlarge your territory. No one will covet your land when you go up three times a year to appear before the LORD your God.
+</p>
 
+<p>
+v25: Do not offer the blood of my sacrifice with leavened bread, and do not leave the Passover festival sacrifice until morning.
+v26: Bring the first of your land’s firstfruits to the house of the LORD your God. Do not boil a young goat in its mother’s milk.”
+</p>
+
+## The words of the covenant
+
+<p>
+v27: The LORD told Moses, “Write down these words, for on the basis of these words I have made a covenant with you and with Israel.”
+v28: Moses was there with the LORD for forty days and forty nights. He ate no bread and drank no water. And he wrote on the tablets the words of the covenant, the Ten Words.
+</p>
+
+## Moses’ shining face
+
+<p>
+v29: When Moses came down Mount Sinai with the two tablets of the testimony in his hand, he did not know that the skin of his face shone because he had spoken with the LORD.
+v30: Aaron and all the Israelites saw Moses, and the skin of his face was shining. They were afraid to come near him.
+</p>
+
+<p>
+v31: But Moses called to them. Aaron and all the community’s leaders came back to him, and Moses spoke with them.
+v32: Afterward all the Israelites came near, and he gave them every command the LORD had spoken to him on Mount Sinai.
 v33: When Moses finished speaking with them, he put a veil over his face.
+</p>
 
-v34: But whenever Moses went in before the LORD to speak with him, he removed the veil until he came out. Then he came out and spoke to the children of Israel what he had been commanded.
-
-v35: The children of Israel saw the face of Moses, that the skin of Moses’ face was shining. Then Moses put the veil back over his face until he went in to speak with him.
+<p>
+v34: Whenever Moses went in before the LORD to speak with him, he would take off the veil until he came out. Then he would come out and tell the Israelites what he had been commanded.
+v35: The Israelites would see Moses’ face, its skin shining. Then Moses would put the veil back over his face until he went in to speak with the LORD again.
 </p>
 
 ## Notes
 
-v01: The second tablets restore the covenant testimony after Moses shattered the first set in response to the golden calf.
+v5: “He proclaimed” most naturally continues with the LORD as speaker, in keeping with 33:19 and 34:6. Some understand Moses to be calling on the LORD’s name here. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+34&version=NET).
 
-v05–07: The LORD’s self-proclamation holds compassion and accountability together. Steadfast love, faithfulness, and forgiveness are not separated from judgment.
+v7: As in 20:6, the Hebrew says “thousands” without naming what is counted. The following generations suggest a generational contrast. Unlike 20:5, this verse has no explicit phrase limiting the judgment to “those who hate me.”
 
-v07: The language of guilt reaching later generations describes the extended consequences of covenant wrongdoing. It should not be reduced to a mechanical doctrine that innocent descendants are personally guilty for ancestors’ sins.
+v9: “Though” can also be read “for”: the people’s stubbornness can be heard as an obstacle to the request or as a reason for needing God’s presence and forgiveness.
 
-v09: Moses asks the LORD to go in Israel’s midst precisely while acknowledging Israel’s stubbornness. Presence is requested as grace, not as reward for an ideal people.
+v15–16: “Prostitute themselves” is a sexual image for allegiance to other gods. These verses describe sacrificial meals and marriages; they do not specify a practice of ritual prostitution.
 
-v14: “Jealous” is given as a divine name. In covenant context the term concerns exclusive relational claim, not petty insecurity.
+v19–20: The Hebrew livestock clause is compressed and grammatically difficult. Its male-firstborn sense is retained alongside the explicit requirement to redeem firstborn sons in verse 20. Compare 13:12–13.
 
-v15–16: Marital and cultic language overlap because intermarriage is presented here specifically as a pathway into worship of other gods.
+v23: “Lord GOD” represents the title “Lord” followed by the divine name YHWH, as in 23:17. The text explicitly requires male attendance.
 
-v28: “Ten Words” translates Hebrew *aseret ha-devarim*, traditionally called the Ten Commandments.
+v28: “He wrote” does not name its subject. Moses is the preceding subject, while the LORD promised in verse 1 to write on the tablets. The pronoun remains; no explanation of how the two statements relate is added. “Ten Words” is the literal expression traditionally called the Ten Commandments.
 
-v29: The verb describing Moses’ face is related to the Hebrew word for “horn” and literally suggests emitting rays. Ancient interpretation sometimes represented Moses with horns; the context clearly describes radiance.
-
-v33–35: The veil regulates the people’s exposure to the radiance associated with Moses’ encounter with the LORD; it is removed when Moses enters to speak with God.
+v29, 33–35: Verse 29 connects Moses’ shining skin with his conversation with the LORD; its pronouns can also be read as God speaking with Moses. Moses covers his face after speaking to the people, and removes the veil when entering before the LORD. The text does not say here that the radiance faded.
 
 ## Vocabulary
 
-v06: רַחוּם (rachum)
-“Compassionate.” Deeply merciful in disposition.
+v6: Faithful love — ḥesed
+Enduring kindness and loyalty within a relationship; the same expression appears in 20:6.
 
-v06: חַנּוּן (channun)
-“Gracious.” Freely giving favor.
+v6: Faithfulness — ʾemet
+Reliability or truth, paired here with faithful love.
 
-v06: אֶרֶךְ אַפַּיִם (erekh appayim)
-“Slow to anger,” literally “long of nostrils.”
+v13: Asherah poles — asherim
+Cult objects associated with the goddess Asherah; their precise form is not specified here.
 
-v06: חֶסֶד וֶאֱמֶת (ḥesed ve-emet)
-“Steadfast love and faithfulness.” Enduring covenant loyalty and reliability.
+v18: Abib — aviv
+The month named for ripening grain, associated here with departure from Egypt.
 
-v14: קַנָּא (qanna)
-“Jealous.” Zealous for exclusive covenant allegiance.
+v20: Redeem — padah
+To release or reclaim through a substitute or payment; here a flock animal substitutes for a donkey.
 
-v22: חַג שָׁבֻעוֹת (chag shavuot)
-“Festival of Weeks.” The wheat-harvest festival.
+v22: Firstfruits — bikkurim
+The first yield of a harvest, brought as an offering.
 
-v28: עֲשֶׂרֶת הַדְּבָרִים (aseret ha-devarim)
-“Ten Words.” The covenantal sayings written on the tablets.
-
-v29: קָרַן (qaran)
-“To shine” or “send out rays.” Used of Moses’ face.
-
-v33: מַסְוֶה (masveh)
-“Veil.” The covering Moses places over his face.
+v29: Shone — qaran
+A verb related to the word for a horn, used here for radiance projecting from Moses’ face.

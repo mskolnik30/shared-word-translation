@@ -91,12 +91,17 @@
       "scope": "Exodus 28–31",
       "verses": 145,
       "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json"
+    },
+    {
+      "scope": "Exodus 32–34",
+      "verses": 93,
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Exodus 32–34",
-      "action": "Continue from the pinned Hebrew through the golden calf, Moses’ intercession, and covenant renewal. Preserve named agents, real harm, divine and human speech, consequential ambiguity, and recurring covenant language. Complete chapters with exact source bindings and qualified structural QA; independent editorial review remains pending."
+      "scope": "Exodus 35–40",
+      "action": "Complete the tabernacle construction and installation narrative from pinned Hebrew. Preserve deliberate command/fulfillment repetitions, contributors and craftspeople, quantities and objects, clothing details, and divine presence. Then perform a whole-book Exodus consistency self-check with source-ledger rebinding for any earlier text corrections. Independent editorial review remains pending."
     }
   ],
   "standards": [
