@@ -4,133 +4,150 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-3-4-biblical-fluency-2026-09-11
 ---
 
-## Aaron’s Sons and the Levites
+## Aaron’s Sons
 
 <p>
-v01: These are the generations of Aaron and Moses at the time when the LORD spoke with Moses on Mount Sinai.
-v02: These are the names of Aaron’s sons: Nadab the firstborn, then Abihu, Eleazar, and Ithamar.
-v03: These are the names of Aaron’s sons, the anointed priests, whom he ordained to serve as priests.
-v04: Nadab and Abihu died before the LORD when they offered unauthorized fire before the LORD in the wilderness of Sinai, and they had no children. Eleazar and Ithamar served as priests in the presence of Aaron their father.
+v01: This is the family record of Aaron and Moses at the time the LORD spoke with Moses on Mount Sinai.
+v02: Aaron’s sons were named Nadab, the firstborn, Abihu, Eleazar and Ithamar.
+v03: These were Aaron’s sons, the anointed priests who were ordained to serve as priests.
+v04: But Nadab and Abihu died before the LORD when they presented unauthorized fire before him in the wilderness of Sinai. They had no sons. Eleazar and Ithamar served as priests in the presence of their father Aaron.
 </p>
 
-## The Levites Given for Service
+## The Levites Are Given for Service
 
 <p>
-v05: The LORD spoke to Moses, saying,
-v06: “Bring the tribe of Levi near and set them before Aaron the priest so that they may serve him.
-v07: They will keep his charge and the charge of the whole congregation before the Tent of Meeting, performing the service of the tabernacle.
-v08: They will keep all the furnishings of the Tent of Meeting and the charge of the Israelites by performing the service of the tabernacle.
-v09: You will give the Levites to Aaron and his sons; they are wholly given to him from among the Israelites.
-v10: You will appoint Aaron and his sons, and they will keep their priesthood. Any outsider who approaches will be put to death.”
+v05: The LORD said to Moses,
+v06: “Bring the tribe of Levi near and have them stand before Aaron the priest to serve him.
+v07: They are to carry out the duties owed to him and to the whole community before the tent of meeting, doing the work of the tabernacle.
+v08: They are to care for all the furnishings of the tent of meeting and fulfill the Israelites’ responsibilities by doing the work of the tabernacle.
+v09: Give the Levites to Aaron and his sons. They are given entirely to him from among the Israelites.
+v10: Appoint Aaron and his sons to keep charge of their priesthood. Any unauthorized person who comes near must be put to death.”
 </p>
 
 <p>
-v11: The LORD spoke to Moses, saying,
-v12: “Look, I have taken the Levites from among the Israelites in place of every firstborn who opens the womb among the Israelites. The Levites will be mine,
-v13: for every firstborn is mine. On the day I struck every firstborn in the land of Egypt, I consecrated to myself every firstborn in Israel, both human and animal. They will be mine. I am the LORD.”
+v11: The LORD said to Moses,
+v12: “Look, I myself have taken the Levites from among the Israelites in place of every firstborn who opens the womb among them. The Levites will belong to me,
+v13: because every firstborn is mine. On the day I struck down every firstborn in the land of Egypt, I made every firstborn in Israel holy for myself, human and animal alike. They will belong to me. I am the LORD.”
 </p>
 
 ## The Families of Levi
 
 <p>
-v14: The LORD spoke to Moses in the wilderness of Sinai, saying,
-v15: “Count the Levites by their ancestral houses and clans. Every male from one month old and upward you will count.”
-v16: So Moses counted them according to the word of the LORD, as he was commanded.
-v17: These were the sons of Levi by name: Gershon, Kohath, and Merari.
-v18: These are the names of the sons of Gershon by their clans: Libni and Shimei.
-v19: The sons of Kohath by their clans: Amram, Izhar, Hebron, and Uzziel.
-v20: The sons of Merari by their clans: Mahli and Mushi. These were the clans of Levi by their ancestral houses.
+v14: In the wilderness of Sinai, the LORD said to Moses,
+v15: “Register Levi’s descendants by ancestral household and clan. Count every male one month old and upward.”
+v16: Moses registered them at the LORD’s direction, just as he had been commanded.
+</p>
+
+<p>
+v17: Levi’s sons were named Gershon, Kohath and Merari.
+v18: Gershon’s sons, whose names identify their clans, were Libni and Shimei.
+v19: Kohath’s sons, by their clans, were Amram, Izhar, Hebron and Uzziel.
+v20: Merari’s sons, by their clans, were Mahli and Mushi. These were the Levite clans, grouped by ancestral household.
 </p>
 
 ## The Gershonites
 
 <p>
-v21: From Gershon came the clan of the Libnites and the clan of the Shimeites; these were the clans of the Gershonites.
-v22: Those counted among them, by the number of all males from one month old and upward, were seven thousand five hundred.
-v23: The clans of the Gershonites were to camp behind the tabernacle on the west.
-v24: The leader of the ancestral house of the Gershonites was Eliasaph son of Lael.
-v25: The charge of the Gershonites in the Tent of Meeting was the tabernacle, the tent with its covering, the screen for the entrance of the Tent of Meeting,
-v26: the hangings of the court, the screen for the entrance of the court around the tabernacle and altar, and its cords—all the service connected with them.
+v21: Gershon’s descendants formed the Libnite and Shimeite clans. These were the Gershonite clans.
+v22: Their registered males, counting everyone one month old and upward, numbered 7,500.
+v23: The Gershonite clans were to camp behind the tabernacle, on the west.
+v24: Eliasaph son of Lael was the leader of the Gershonites’ ancestral household.
+</p>
+
+<p>
+v25: In the tent of meeting, the Gershonites were responsible for the tabernacle and tent, its covering, the entrance screen of the tent of meeting,
+v26: and the courtyard hangings, the entrance screen of the courtyard around the tabernacle and altar, its ropes and all the work connected with these things.
 </p>
 
 ## The Kohathites
 
 <p>
-v27: From Kohath came the clan of the Amramites, the clan of the Izharites, the clan of the Hebronites, and the clan of the Uzzielites; these were the clans of the Kohathites.
-v28: By the number of all males from one month old and upward, there were eight thousand six hundred, keeping charge of the sanctuary.
-v29: The clans of the Kohathites were to camp on the south side of the tabernacle.
-v30: The leader of the ancestral house of the Kohathite clans was Elizaphan son of Uzziel.
-v31: Their charge was the ark, the table, the lampstand, the altars, the vessels of the sanctuary with which the priests minister, the screen, and all the service connected with them.
-v32: Eleazar son of Aaron the priest was chief over the leaders of the Levites and had oversight of those keeping charge of the sanctuary.
+v27: Kohath’s descendants formed the Amramite, Izharite, Hebronite and Uzzielite clans. These were the Kohathite clans.
+v28: Counting every male one month old and upward, they numbered 8,600. They were responsible for the care of the sanctuary.
+v29: The clans descended from Kohath were to camp on the south side of the tabernacle.
+v30: Elizaphan son of Uzziel was the leader of the ancestral household of the Kohathite clans.
+</p>
+
+<p>
+v31: They were responsible for the ark, the table, the lampstand, the altars, the sacred utensils used in service, the screen and all the work connected with these things.
+v32: Eleazar son of Aaron the priest was chief over the Levite leaders. He oversaw those responsible for the care of the sanctuary.
 </p>
 
 ## The Merarites
 
 <p>
-v33: From Merari came the clan of the Mahlites and the clan of the Mushites; these were the clans of Merari.
-v34: Those counted among them, by the number of all males from one month old and upward, were six thousand two hundred.
-v35: The leader of the ancestral house of the clans of Merari was Zuriel son of Abihail. They were to camp on the north side of the tabernacle.
-v36: The appointed charge of the Merarites was the frames of the tabernacle, its bars, pillars, bases, all its equipment, and all the service connected with them,
-v37: together with the pillars around the court, their bases, pegs, and cords.
-</p>
-
-## Moses, Aaron, and the Priests
-
-<p>
-v38: Those camping in front of the tabernacle on the east, before the Tent of Meeting toward the sunrise, were Moses and Aaron and Aaron’s sons, keeping charge of the sanctuary on behalf of the Israelites. Any outsider who approached was to be put to death.
-v39: All the Levites whom Moses and Aaron counted at the command of the LORD, by their clans, every male from one month old and upward, were twenty-two thousand.
-</p>
-
-## The Levites in Place of the Firstborn
-
-<p>
-v40: The LORD said to Moses, “Count every firstborn male of the Israelites from one month old and upward, and record the number of their names.
-v41: You will take the Levites for me—I am the LORD—in place of every firstborn among the Israelites, and the livestock of the Levites in place of every firstborn among the livestock of the Israelites.”
-v42: So Moses counted every firstborn among the Israelites, as the LORD commanded him.
-v43: All the firstborn males, by the number of names from one month old and upward, were twenty-two thousand two hundred seventy-three.
+v33: Merari’s descendants formed the Mahlite and Mushite clans. These were the Merarite clans.
+v34: Their registered males, counting everyone one month old and upward, numbered 6,200.
+v35: Zuriel son of Abihail was the leader of the ancestral household of the Merarite clans. They were to camp on the north side of the tabernacle.
 </p>
 
 <p>
-v44: The LORD spoke to Moses, saying,
-v45: “Take the Levites in place of every firstborn among the Israelites, and the livestock of the Levites in place of their livestock. The Levites will be mine. I am the LORD.
-v46: For the redemption of the two hundred seventy-three firstborn Israelites who exceed the number of the Levites,
-v47: you will take five shekels for each person, according to the sanctuary shekel; the shekel is twenty gerahs.
-v48: Give the money, the redemption price for people who exceed their number, to Aaron and his sons.”
+v36: The Merarites were assigned responsibility for the tabernacle’s frames, crossbars, pillars, bases and all its equipment, with all the work connected with these things,
+v37: as well as the pillars around the courtyard, their bases, pegs and ropes.
+</p>
+
+## Those Who Camp on the East
+
+<p>
+v38: Moses, Aaron and Aaron’s sons were to camp in front of the tabernacle, on the east, before the tent of meeting toward sunrise. They were to keep charge of the sanctuary on behalf of the Israelites. Any unauthorized person who came near was to be put to death.
+v39: The Levites registered by Moses and Aaron at the LORD’s direction, by their clans—all males one month old and upward—totaled 22,000.
+</p>
+
+## The Firstborn and Their Redemption
+
+<p>
+v40: The LORD said to Moses, “Register every firstborn male among the Israelites one month old and upward, and list their names.
+v41: Take the Levites for me—I am the LORD—in place of all the firstborn among the Israelites, and take the Levites’ livestock in place of all the firstborn of the Israelites’ livestock.”
+v42: Moses registered all the firstborn among the Israelites, just as the LORD had commanded him.
+v43: The firstborn males registered by name, one month old and upward, totaled 22,273.
 </p>
 
 <p>
-v49: So Moses took the redemption money from people who exceeded the number redeemed by the Levites.
-v50: From the firstborn of the Israelites he took the money, one thousand three hundred sixty-five shekels, according to the sanctuary shekel.
-v51: Moses gave the redemption money to Aaron and his sons according to the word of the LORD, as the LORD commanded Moses.
+v44: The LORD said to Moses,
+v45: “Take the Levites in place of all the firstborn among the Israelites, and the Levites’ livestock in place of their livestock. The Levites will belong to me. I am the LORD.
+v46: To redeem the 273 Israelite firstborn who exceed the number of the Levites,
+v47: collect five shekels for each person, using the sanctuary shekel, which is twenty gerahs.
+v48: Give this silver to Aaron and his sons as the redemption payment for those who exceed the number of the Levites.”
+</p>
+
+<p>
+v49: Moses collected the redemption silver from those beyond the number redeemed by the Levites.
+v50: He collected 1,365 shekels of silver from the Israelite firstborn, measured by the sanctuary shekel.
+v51: Moses gave the redemption silver to Aaron and his sons at the LORD’s direction, just as the LORD had commanded Moses.
 </p>
 
 ## Notes
 
-v01: Moses is named in the heading of the generations, but the genealogy that follows is Aaron’s. The text leaves that asymmetry intact.
+v01: “Family record” translates toledot, the recurring family-history heading in Genesis. Moses is named here, although the sons listed next are Aaron’s.
 
-v04: “unauthorized fire” — The Hebrew *esh zarah* is literally “strange fire,” meaning fire not authorized for the priestly act.
+v03: “Ordained” is literally “filled their hand,” an expression for installation as priests; compare Leviticus 8.
 
-v12: The Levites substitute for Israel’s firstborn, connecting their sanctuary service with the LORD’s claim upon the firstborn after the exodus from Egypt.
+v04: “In the presence of” can also mean “during the lifetime of.” The deaths of Nadab and Abihu are recounted in Leviticus 10.
 
-v39: The total of twenty-two thousand does not simply equal the sum of the clan totals as preserved in the Masoretic Text. The tension is retained rather than silently harmonized.
+v10: “Unauthorized” concerns access to priestly service; it is not an ethnic label. Compare the Levites’ separate assignment in verses 6–9.
 
-v47: “sanctuary shekel” — A fixed sacred standard of weight; the verse itself defines one shekel as twenty gerahs.
+v15: This census includes males from one month old. Chapter 4 counts those aged thirty to fifty for sanctuary work.
+
+v39: The three clan figures are 7,500, 8,600 and 6,200, which add to 22,300. The Hebrew nevertheless gives 22,000 here. Both the component figures and stated total are retained. The source also marks “and Aaron” with special scribal dots; those words are retained.
+
+v46–50: The stated total of 22,000 Levites leaves 273 of the 22,273 firstborn without a Levite substitute. At five shekels each, their redemption payment is 1,365 shekels. A shekel is a weight of silver here.
 
 ## Vocabulary
 
-v03: מָשַׁח (mashach)
-“To anoint.” To set apart for a sacred office by applying oil.
+v03: מָשַׁח (mashaḥ)
+Anoint: apply oil to set someone apart for a role; here, priestly service.
 
-v07: עָבַד (avad)
-“To serve” or “work.” Used here for Levitical service at the sanctuary.
+v07: מִשְׁמֶרֶת (mishmeret)
+Charge or entrusted responsibility. Repeated throughout these chapters for the care of the sanctuary.
 
 v12: בְּכוֹר (bekhor)
-“Firstborn.” The first issue of the womb, belonging in a special way to the LORD.
+Firstborn. The image of opening the womb connects the Levites’ substitution with Exodus 13.
 
 v46: פָּדָה (padah)
-“To redeem” or “ransom.” To release by means of a substitute or payment.
-
-v47: גֵּרָה (gerah)
-“Gerah.” A small unit of weight; twenty gerahs make one sanctuary shekel.
+Redeem: secure release by a substitute or payment. Here the Levites substitute for the firstborn and silver covers the excess.

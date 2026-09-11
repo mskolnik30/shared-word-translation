@@ -1,0 +1,1020 @@
+{
+  "scope": "Numbers 3–4; 100 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 66,
+      "near_identical_verses": 33,
+      "mean_similarity": 0.984293,
+      "verses": [
+        {
+          "reference": "Numbers 3:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:7",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Numbers 3:8",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Numbers 3:9",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Numbers 3:10",
+          "identical": false,
+          "similarity": 0.863636
+        },
+        {
+          "reference": "Numbers 3:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:12",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Numbers 3:13",
+          "identical": false,
+          "similarity": 0.972973
+        },
+        {
+          "reference": "Numbers 3:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:15",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Numbers 3:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:37",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:38",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:39",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:40",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:41",
+          "identical": false,
+          "similarity": 0.972222
+        },
+        {
+          "reference": "Numbers 3:42",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:43",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:44",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:45",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Numbers 3:46",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:47",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Numbers 3:48",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Numbers 3:49",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Numbers 3:50",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 3:51",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:5",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Numbers 4:6",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Numbers 4:7",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Numbers 4:8",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Numbers 4:9",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Numbers 4:10",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Numbers 4:11",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Numbers 4:12",
+          "identical": false,
+          "similarity": 0.969697
+        },
+        {
+          "reference": "Numbers 4:13",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Numbers 4:14",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Numbers 4:15",
+          "identical": false,
+          "similarity": 0.945455
+        },
+        {
+          "reference": "Numbers 4:16",
+          "identical": false,
+          "similarity": 0.97561
+        },
+        {
+          "reference": "Numbers 4:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:19",
+          "identical": false,
+          "similarity": 0.972222
+        },
+        {
+          "reference": "Numbers 4:20",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Numbers 4:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:23",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Numbers 4:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:25",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Numbers 4:26",
+          "identical": false,
+          "similarity": 0.974359
+        },
+        {
+          "reference": "Numbers 4:27",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Numbers 4:28",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Numbers 4:29",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Numbers 4:30",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Numbers 4:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:32",
+          "identical": false,
+          "similarity": 0.970588
+        },
+        {
+          "reference": "Numbers 4:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:37",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:38",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:39",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:40",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:41",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:42",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:43",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:44",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:45",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:46",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:47",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:48",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 4:49",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 3,
+      "mean_similarity": 0.622789,
+      "verses": [
+        {
+          "reference": "Numbers 3:1",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 3:2",
+          "identical": false,
+          "similarity": 0.692308
+        },
+        {
+          "reference": "Numbers 3:3",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Numbers 3:4",
+          "identical": false,
+          "similarity": 0.853333
+        },
+        {
+          "reference": "Numbers 3:5",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 3:6",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Numbers 3:7",
+          "identical": false,
+          "similarity": 0.530612
+        },
+        {
+          "reference": "Numbers 3:8",
+          "identical": false,
+          "similarity": 0.693878
+        },
+        {
+          "reference": "Numbers 3:9",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Numbers 3:10",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Numbers 3:11",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 3:12",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 3:13",
+          "identical": false,
+          "similarity": 0.753247
+        },
+        {
+          "reference": "Numbers 3:14",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 3:15",
+          "identical": false,
+          "similarity": 0.555556
+        },
+        {
+          "reference": "Numbers 3:16",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 3:17",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Numbers 3:18",
+          "identical": false,
+          "similarity": 0.461538
+        },
+        {
+          "reference": "Numbers 3:19",
+          "identical": false,
+          "similarity": 0.782609
+        },
+        {
+          "reference": "Numbers 3:20",
+          "identical": false,
+          "similarity": 0.684211
+        },
+        {
+          "reference": "Numbers 3:21",
+          "identical": false,
+          "similarity": 0.352941
+        },
+        {
+          "reference": "Numbers 3:22",
+          "identical": false,
+          "similarity": 0.352941
+        },
+        {
+          "reference": "Numbers 3:23",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Numbers 3:24",
+          "identical": false,
+          "similarity": 0.307692
+        },
+        {
+          "reference": "Numbers 3:25",
+          "identical": false,
+          "similarity": 0.653846
+        },
+        {
+          "reference": "Numbers 3:26",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Numbers 3:27",
+          "identical": false,
+          "similarity": 0.26087
+        },
+        {
+          "reference": "Numbers 3:28",
+          "identical": false,
+          "similarity": 0.409091
+        },
+        {
+          "reference": "Numbers 3:29",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 3:30",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Numbers 3:31",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 3:32",
+          "identical": false,
+          "similarity": 0.652174
+        },
+        {
+          "reference": "Numbers 3:33",
+          "identical": false,
+          "similarity": 0.363636
+        },
+        {
+          "reference": "Numbers 3:34",
+          "identical": false,
+          "similarity": 0.352941
+        },
+        {
+          "reference": "Numbers 3:35",
+          "identical": false,
+          "similarity": 0.716981
+        },
+        {
+          "reference": "Numbers 3:36",
+          "identical": false,
+          "similarity": 0.52
+        },
+        {
+          "reference": "Numbers 3:37",
+          "identical": false,
+          "similarity": 0.64
+        },
+        {
+          "reference": "Numbers 3:38",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Numbers 3:39",
+          "identical": false,
+          "similarity": 0.566038
+        },
+        {
+          "reference": "Numbers 3:40",
+          "identical": false,
+          "similarity": 0.782609
+        },
+        {
+          "reference": "Numbers 3:41",
+          "identical": false,
+          "similarity": 0.753623
+        },
+        {
+          "reference": "Numbers 3:42",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Numbers 3:43",
+          "identical": false,
+          "similarity": 0.486486
+        },
+        {
+          "reference": "Numbers 3:44",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 3:45",
+          "identical": false,
+          "similarity": 0.774194
+        },
+        {
+          "reference": "Numbers 3:46",
+          "identical": false,
+          "similarity": 0.580645
+        },
+        {
+          "reference": "Numbers 3:47",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Numbers 3:48",
+          "identical": false,
+          "similarity": 0.315789
+        },
+        {
+          "reference": "Numbers 3:49",
+          "identical": false,
+          "similarity": 0.733333
+        },
+        {
+          "reference": "Numbers 3:50",
+          "identical": false,
+          "similarity": 0.315789
+        },
+        {
+          "reference": "Numbers 3:51",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Numbers 4:1",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 4:2",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 4:3",
+          "identical": false,
+          "similarity": 0.809524
+        },
+        {
+          "reference": "Numbers 4:4",
+          "identical": false,
+          "similarity": 0.758621
+        },
+        {
+          "reference": "Numbers 4:5",
+          "identical": false,
+          "similarity": 0.827586
+        },
+        {
+          "reference": "Numbers 4:6",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 4:7",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 4:8",
+          "identical": false,
+          "similarity": 0.619048
+        },
+        {
+          "reference": "Numbers 4:9",
+          "identical": false,
+          "similarity": 0.603774
+        },
+        {
+          "reference": "Numbers 4:10",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 4:11",
+          "identical": false,
+          "similarity": 0.488889
+        },
+        {
+          "reference": "Numbers 4:12",
+          "identical": false,
+          "similarity": 0.65625
+        },
+        {
+          "reference": "Numbers 4:13",
+          "identical": false,
+          "similarity": 0.903226
+        },
+        {
+          "reference": "Numbers 4:14",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Numbers 4:15",
+          "identical": false,
+          "similarity": 0.71028
+        },
+        {
+          "reference": "Numbers 4:16",
+          "identical": false,
+          "similarity": 0.675325
+        },
+        {
+          "reference": "Numbers 4:17",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 4:18",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Numbers 4:19",
+          "identical": false,
+          "similarity": 0.805556
+        },
+        {
+          "reference": "Numbers 4:20",
+          "identical": false,
+          "similarity": 0.926829
+        },
+        {
+          "reference": "Numbers 4:21",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 4:22",
+          "identical": false,
+          "similarity": 0.538462
+        },
+        {
+          "reference": "Numbers 4:23",
+          "identical": false,
+          "similarity": 0.627451
+        },
+        {
+          "reference": "Numbers 4:24",
+          "identical": false,
+          "similarity": 0.466667
+        },
+        {
+          "reference": "Numbers 4:25",
+          "identical": false,
+          "similarity": 0.69697
+        },
+        {
+          "reference": "Numbers 4:26",
+          "identical": false,
+          "similarity": 0.556962
+        },
+        {
+          "reference": "Numbers 4:27",
+          "identical": false,
+          "similarity": 0.53125
+        },
+        {
+          "reference": "Numbers 4:28",
+          "identical": false,
+          "similarity": 0.821429
+        },
+        {
+          "reference": "Numbers 4:29",
+          "identical": false,
+          "similarity": 0.272727
+        },
+        {
+          "reference": "Numbers 4:30",
+          "identical": false,
+          "similarity": 0.76
+        },
+        {
+          "reference": "Numbers 4:31",
+          "identical": false,
+          "similarity": 0.653846
+        },
+        {
+          "reference": "Numbers 4:32",
+          "identical": false,
+          "similarity": 0.612903
+        },
+        {
+          "reference": "Numbers 4:33",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Numbers 4:34",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Numbers 4:35",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Numbers 4:36",
+          "identical": false,
+          "similarity": 0.222222
+        },
+        {
+          "reference": "Numbers 4:37",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Numbers 4:38",
+          "identical": false,
+          "similarity": 0.363636
+        },
+        {
+          "reference": "Numbers 4:39",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Numbers 4:40",
+          "identical": false,
+          "similarity": 0.333333
+        },
+        {
+          "reference": "Numbers 4:41",
+          "identical": false,
+          "similarity": 0.603774
+        },
+        {
+          "reference": "Numbers 4:42",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 4:43",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Numbers 4:44",
+          "identical": false,
+          "similarity": 0.235294
+        },
+        {
+          "reference": "Numbers 4:45",
+          "identical": false,
+          "similarity": 0.604651
+        },
+        {
+          "reference": "Numbers 4:46",
+          "identical": false,
+          "similarity": 0.4375
+        },
+        {
+          "reference": "Numbers 4:47",
+          "identical": false,
+          "similarity": 0.716981
+        },
+        {
+          "reference": "Numbers 4:48",
+          "identical": false,
+          "similarity": 0.0
+        },
+        {
+          "reference": "Numbers 4:49",
+          "identical": false,
+          "similarity": 0.431373
+        }
+      ]
+    }
+  }
+}
