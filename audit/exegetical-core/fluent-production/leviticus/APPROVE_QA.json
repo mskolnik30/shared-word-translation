@@ -2,10 +2,10 @@
   "book": "Leviticus",
   "translation": "FLUENT",
   "status": "REVIEW_PENDING",
-  "chapter_reviews_complete": 12,
+  "chapter_reviews_complete": 15,
   "curated_f3_decisions_acknowledged": 7,
   "required_disposition": "EDITORIAL_REVIEW_REQUIRED",
-  "publication_note": "Chapters 1–12 are revised drafts. Chapters 13–27 retain their historical records. Prior approvals do not carry forward. No publication action is authorized.",
+  "publication_note": "Chapters 1–15 are revised drafts. Chapters 16–27 retain their historical records. Prior approvals do not carry forward. No publication action is authorized.",
   "publication_allowed": false,
   "editorial_review_pending_chapters": [
     1,
@@ -19,7 +19,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13,
+    14,
+    15
   ],
   "revision_batches": [
     {
@@ -204,20 +207,67 @@
       ],
       "versification_note": "Public and Hebrew numbering align throughout Leviticus 11–12. Full original XML records include the written/read note at 11:21 and large-letter annotation at 11:42.",
       "note": "Chapters 11–12 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
+    },
+    {
+      "id": "fluent-leviticus-13-15-biblical-fluency-2026-09-11",
+      "chapters": [
+        13,
+        14,
+        15
+      ],
+      "verse_count": 149,
+      "verse_ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
+      "editorial_status": "REVIEW_PENDING",
+      "prior_record": {
+        "commit": "77d88c1de8474692b597753a6720ee9af23b9ca9",
+        "path": "audit/exegetical-core/fluent-production/leviticus/APPROVE_QA.json"
+      },
+      "previous_batch_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "not_yet_revised_chapters": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "versification_note": "Public and Hebrew numbering align throughout Leviticus 13–15. The full original XML record at 14:48 includes a vowel annotation; no numbering shift occurs in this batch.",
+      "note": "Chapters 13–15 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
     }
   ],
   "current_revision": {
-    "id": "fluent-leviticus-11-12-biblical-fluency-2026-09-11",
+    "id": "fluent-leviticus-13-15-biblical-fluency-2026-09-11",
     "chapters": [
-      11,
-      12
+      13,
+      14,
+      15
     ],
-    "verse_count": 55,
-    "verse_ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+    "verse_count": 149,
+    "verse_ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
     "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
     "editorial_status": "REVIEW_PENDING",
     "prior_record": {
-      "commit": "bc57156b1df19cd189e0196340afc6ba2c1f81a6",
+      "commit": "77d88c1de8474692b597753a6720ee9af23b9ca9",
       "path": "audit/exegetical-core/fluent-production/leviticus/APPROVE_QA.json"
     },
     "previous_batch_chapters": [
@@ -230,12 +280,11 @@
       7,
       8,
       9,
-      10
+      10,
+      11,
+      12
     ],
     "not_yet_revised_chapters": [
-      13,
-      14,
-      15,
       16,
       17,
       18,
@@ -249,8 +298,8 @@
       26,
       27
     ],
-    "versification_note": "Public and Hebrew numbering align throughout Leviticus 11–12. Full original XML records include the written/read note at 11:21 and large-letter annotation at 11:42.",
-    "note": "Chapters 11–12 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
+    "versification_note": "Public and Hebrew numbering align throughout Leviticus 13–15. The full original XML record at 14:48 includes a vowel annotation; no numbering shift occurs in this batch.",
+    "note": "Chapters 13–15 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
   },
   "chapter_reviews_complete_scope": "Draft source-based pass and structural checks only; not independent editorial approval.",
   "chapter_reviews_pending": [
@@ -265,6 +314,9 @@
     9,
     10,
     11,
-    12
+    12,
+    13,
+    14,
+    15
   ]
 }

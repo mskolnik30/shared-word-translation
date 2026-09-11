@@ -4,135 +4,200 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-13-15-biblical-fluency-2026-09-11
 ---
 
-## Skin Disease: Swelling, Scab, or Bright Spot
+## Examining skin conditions
 
 <p>
-v01: The LORD spoke to Moses and Aaron, saying,
-v02: “When a person has on the skin of the body a swelling, a scab, or a bright spot, and it becomes a diseased condition on the skin, that person will be brought to Aaron the priest or to one of his sons, the priests.
-v03: The priest will examine the diseased area on the skin. If the hair in the diseased area has turned white and the appearance of the diseased area is deeper than the skin, it is a serious skin disease. The priest will examine the person and pronounce that person unclean.
-v04: But if the bright spot is white on the skin and does not appear deeper than the skin, and the hair has not turned white, the priest will isolate the affected person for seven days.
-v05: The priest will examine the person on the seventh day. If in his eyes the diseased area has stayed the same and has not spread on the skin, the priest will isolate the person for seven more days.
-v06: The priest will examine the person again on the seventh day. If the diseased area has faded and has not spread on the skin, the priest will pronounce the person clean; it is a scab. The person will wash their clothes and be clean.
-v07: But if the scab spreads on the skin after the person has shown themselves to the priest for cleansing, that person will appear again before the priest.
-v08: The priest will examine the person, and if the scab has spread on the skin, the priest will pronounce the person unclean. It is a serious skin disease.
+v01: The LORD spoke to Moses and Aaron:
+v02: “When someone develops a swelling, a scab, or a bright spot on their skin that becomes a sign of defiling skin disease, they must be brought to Aaron the priest or to one of his sons who serves as a priest.
+v03: The priest must examine the affected area. If the hair there has turned white and the area looks deeper than the surrounding skin, it is defiling skin disease. After examining it, the priest must declare the person unclean.
 </p>
 
-## Chronic Skin Disease
+## A bright spot
 
 <p>
-v09: When a serious skin disease is on a person, that person will be brought to the priest.
-v10: The priest will examine the person. If there is a white swelling in the skin that has turned the hair white, and there is raw flesh in the swelling,
-v11: it is a chronic skin disease in the skin of the body. The priest will pronounce the person unclean; he will not isolate the person, for that person is already unclean.
-v12: If the disease breaks out widely on the skin and covers all the skin of the affected person from head to foot, as far as the priest can see,
-v13: then the priest will examine the person. If the disease has covered the whole body, the priest will pronounce the affected person clean; it has all turned white, and the person is clean.
-v14: But whenever raw flesh appears, the person will be unclean.
-v15: The priest will examine the raw flesh and pronounce the person unclean. The raw flesh is unclean; it is a serious skin disease.
-v16: But if the raw flesh changes again and turns white, the person will come to the priest.
-v17: The priest will examine the person. If the diseased area has turned white, the priest will pronounce the affected person clean; that person is clean.
-</p>
-
-## Disease in a Healed Boil
-
-<p>
-v18: When the skin of the body has a boil and it heals,
-v19: and in the place of the boil there is a white swelling or a reddish-white bright spot, it will be shown to the priest.
-v20: The priest will examine it. If it appears deeper than the skin and its hair has turned white, the priest will pronounce the person unclean. It is a serious skin disease that has broken out in the boil.
-v21: But if the priest examines it and there is no white hair in it, it is not deeper than the skin, and it has faded, the priest will isolate the person for seven days.
-v22: If it spreads on the skin, the priest will pronounce the person unclean. It is a diseased condition.
-v23: But if the bright spot stays in its place and does not spread, it is the scar of the boil, and the priest will pronounce the person clean.
-</p>
-
-## Disease in a Burn
-
-<p>
-v24: Or when the skin of the body has a burn from fire and the raw flesh of the burn becomes a reddish-white or white bright spot,
-v25: the priest will examine it. If the hair in the bright spot has turned white and it appears deeper than the skin, it is a serious skin disease that has broken out in the burn. The priest will pronounce the person unclean; it is a serious skin disease.
-v26: But if the priest examines it and there is no white hair in the bright spot, it is not deeper than the skin, and it has faded, the priest will isolate the person for seven days.
-v27: The priest will examine the person on the seventh day. If it has spread on the skin, the priest will pronounce the person unclean; it is a serious skin disease.
-v28: But if the bright spot stays in its place, has not spread on the skin, and has faded, it is the swelling from the burn. The priest will pronounce the person clean, for it is the scar of the burn.
-</p>
-
-## Disease on the Head or Beard
-
-<p>
-v29: When a man or woman has a diseased area on the head or beard,
-v30: the priest will examine the diseased area. If it appears deeper than the skin and there is thin yellow hair in it, the priest will pronounce the person unclean. It is an itch, a serious disease of the head or beard.
-v31: But if the priest examines the diseased itch and it does not appear deeper than the skin and there is no black hair in it, the priest will isolate the affected person for seven days.
-v32: On the seventh day the priest will examine the diseased area. If the itch has not spread, there is no yellow hair in it, and the itch does not appear deeper than the skin,
-v33: the person will shave, but not shave the itch. The priest will isolate the person with the itch for seven more days.
-v34: On the seventh day the priest will examine the itch. If the itch has not spread on the skin and does not appear deeper than the skin, the priest will pronounce the person clean. The person will wash their clothes and be clean.
-v35: But if the itch spreads on the skin after the person is pronounced clean,
-v36: the priest will examine the person. If the itch has spread on the skin, the priest need not look for yellow hair; the person is unclean.
-v37: But if in the priest’s eyes the itch has stayed the same and black hair has grown in it, the itch is healed. The person is clean, and the priest will pronounce the person clean.
-</p>
-
-## Harmless White Spots and Baldness
-
-<p>
-v38: When a man or woman has bright spots on the skin of the body, white bright spots,
-v39: the priest will examine them. If the bright spots on the skin are dull white, it is a harmless eruption that has broken out on the skin; the person is clean.
-v40: If a man loses the hair of his head, he is bald; he is clean.
-v41: If he loses the hair from the front of his head, he has a bald forehead; he is clean.
-v42: But if there is a reddish-white diseased area on the bald head or bald forehead, it is a serious skin disease breaking out on the bald head or forehead.
-v43: The priest will examine him. If the swelling of the diseased area is reddish-white on his bald head or forehead, resembling a serious skin disease on the body,
-v44: he has a serious skin disease; he is unclean. The priest will pronounce him unclean; the disease is on his head.
-</p>
-
-## The Person Pronounced Unclean
-
-<p>
-v45: The person with the serious skin disease will wear torn clothes, let the hair of the head hang loose, cover the upper lip, and cry, ‘Unclean! Unclean!’
-v46: All the days the diseased condition remains, the person will be unclean. That person is unclean and will live alone; the dwelling will be outside the camp.
-</p>
-
-## Diseased Conditions in Garments
-
-<p>
-v47: When a diseased condition appears in a garment, whether a wool garment or a linen garment,
-v48: in warp or woof of linen or wool, or in leather or anything made of leather,
-v49: if the affected area in the garment, leather, warp, woof, or any article of leather is greenish or reddish, it is a diseased condition and will be shown to the priest.
-v50: The priest will examine the affected area and isolate the article for seven days.
-v51: On the seventh day he will examine the affected area. If it has spread in the garment, warp, woof, or leather, whatever the leather is used for, it is a destructive diseased condition; it is unclean.
-v52: He will burn the garment, whether warp or woof, wool or linen, or any leather article in which the disease appears, for it is destructive. It will be burned with fire.
+v04: If the bright spot on the skin is white but does not look deeper than the skin, and the hair has not turned white, the priest must confine the person for seven days.
+v05: On the seventh day the priest must examine it. If he sees that the affected area is unchanged and has not spread across the skin, he must confine the person for another seven days.
+v06: At the end of that second seven-day period, the priest must examine it again. If the affected area has faded and has not spread across the skin, he must declare the person clean. It is a scab. The person must wash their clothes, and they will be clean.
 </p>
 
 <p>
-v53: But if the priest examines it and the affected area has not spread in the garment, warp, woof, or any leather article,
-v54: the priest will command that the affected article be washed, and he will isolate it for seven more days.
-v55: After it has been washed, the priest will examine the affected area. If the appearance has not changed, even though it has not spread, it is unclean. You will burn it with fire; it is a corroded spot, whether on the inside or outside.
-v56: But if the priest examines it and the affected area has faded after being washed, he will tear it out of the garment, leather, warp, or woof.
-v57: If it appears again in the garment, warp, woof, or any leather article, it is spreading. You will burn with fire whatever has the affected area.
-v58: But the garment, warp, woof, or any leather article that you wash, if the affected area disappears from it, will be washed a second time and will be clean.
-v59: This is the law for a diseased condition in a wool or linen garment, in warp or woof, or in any leather article, for pronouncing it clean or unclean.
+v07: But if the scab spreads across the skin after the person has appeared before the priest to be declared clean, they must appear before him again.
+v08: The priest must examine it. If the scab has spread across the skin, he must declare the person unclean. It is defiling skin disease.
+</p>
+
+## Swelling and raw flesh
+
+<p>
+v09: When someone has an area of defiling skin disease, they must be brought to the priest.
+v10: The priest must examine it. If there is a white swelling on the skin, the hair in it has turned white, and raw flesh is exposed within the swelling,
+v11: it is a longstanding case of defiling skin disease. The priest must declare the person unclean. He must not confine them for observation, since they are already unclean.
+</p>
+
+<p>
+v12: But if the skin disease breaks out across the skin and covers the affected person from head to foot, everywhere the priest can see,
+v13: the priest must examine it. If the disease covers the person's whole body, he must declare the affected person clean. Their skin has turned completely white; they are clean.
+</p>
+
+<p>
+v14: But whenever raw flesh appears, the person becomes unclean.
+v15: The priest must examine the raw flesh and declare the person unclean. The raw flesh is unclean; it is defiling skin disease.
+</p>
+
+<p>
+v16: If the raw flesh changes and turns white again, the person must come to the priest.
+v17: The priest must examine it. If the affected area has turned white, he must declare the person clean. They are clean.
+</p>
+
+## A healed boil
+
+<p>
+v18: When a boil on someone's skin has healed,
+v19: but a white swelling or a reddish-white bright spot appears where the boil was, the person must appear before the priest.
+v20: The priest must examine it. If it looks lower than the surrounding skin and its hair has turned white, he must declare the person unclean. Defiling skin disease has broken out in the boil.
+</p>
+
+<p>
+v21: But if the priest finds no white hair in it, it is not lower than the skin, and it has faded, he must confine the person for seven days.
+v22: If it spreads across the skin, the priest must declare the person unclean. It is a diseased patch.
+</p>
+
+<p>
+v23: But if the bright spot stays where it is and does not spread, it is the scar of the boil. The priest must declare the person clean.
+</p>
+
+## A burn
+
+<p>
+v24: When someone's skin is burned by fire and the raw area of the burn becomes a reddish-white or white bright spot,
+v25: the priest must examine it. If the hair in the bright spot has turned white and the spot looks deeper than the skin, defiling skin disease has broken out in the burn. The priest must declare the person unclean. It is a case of defiling skin disease.
+</p>
+
+<p>
+v26: But if the priest finds no white hair in the bright spot, it is not lower than the skin, and it has faded, he must confine the person for seven days.
+v27: On the seventh day the priest must examine it. If it has spread across the skin, he must declare the person unclean. It is defiling skin disease.
+</p>
+
+<p>
+v28: But if the bright spot stays where it is, has not spread across the skin, and has faded, it is swelling from the burn. The priest must declare the person clean, because it is the scar of the burn.
+</p>
+
+## The scalp and beard
+
+<p>
+v29: When a man or a woman has an affected area on the scalp or in the beard,
+v30: the priest must examine it. If it looks deeper than the skin and has thin yellow hair in it, he must declare the person unclean. It is a scaly condition, defiling skin disease of the scalp or beard.
+</p>
+
+<p>
+v31: But if the priest examines the scaly area and it does not look deeper than the skin, and there is no black hair in it, he must confine the person for seven days.
+v32: On the seventh day the priest must examine the affected area. If the scaly condition has not spread, there is no yellow hair in it, and it does not look deeper than the skin,
+v33: the person must shave, but leave the scaly area unshaved. The priest must confine the person for another seven days.
+v34: On the seventh day the priest must examine the scaly area. If it has not spread across the skin and does not look deeper than the skin, he must declare the person clean. They must wash their clothes, and they will be clean.
+</p>
+
+<p>
+v35: But if the scaly condition spreads across the skin after the person has been declared clean,
+v36: the priest must examine it. If it has spread across the skin, he need not look for yellow hair. The person is unclean.
+</p>
+
+<p>
+v37: But if he sees that the scaly condition is unchanged and black hair has grown in it, the scaly condition has healed. The person is clean, and the priest must declare them clean.
+</p>
+
+## Pale spots and baldness
+
+<p>
+v38: When a man or a woman develops bright spots on the skin, white bright spots,
+v39: the priest must examine them. If the spots on the skin are a dull white, a pale rash has broken out on the skin. The person is clean.
+</p>
+
+<p>
+v40: When a man loses the hair on the back of his head, he is bald there; he is clean.
+v41: If he loses the hair at the front of his head, he is bald there; he is clean.
+</p>
+
+<p>
+v42: But if a reddish-white affected patch appears on either bald area, defiling skin disease is breaking out there, on the back or front of his head.
+v43: The priest must examine him. If the swelling in the affected area on the back or front of his head is reddish-white, like defiling skin disease elsewhere on the body,
+v44: the man has defiling skin disease. He is unclean. The priest must certainly declare him unclean. The affected area is on his head.
+</p>
+
+## Living outside the camp
+
+<p>
+v45: The person with defiling skin disease must wear torn clothes and leave their hair loose. They must cover their upper lip and call out, ‘Unclean! Unclean!’
+v46: They remain unclean as long as they have the condition. They are unclean and must live alone, with their dwelling outside the camp.
+</p>
+
+## Clothing and leather
+
+<p>
+v47: When a defiling growth appears in clothing, whether wool or linen,
+v48: or in the warp or weft of linen or wool, or in leather or anything made from leather,
+v49: and the affected patch in the clothing, leather, warp, weft, or leather article is greenish or reddish, it is a defiling growth. It must be shown to the priest.
+</p>
+
+<p>
+v50: The priest must examine the affected patch and set the item apart for seven days.
+v51: On the seventh day he must examine it. If the affected patch has spread in the clothing, warp, weft, or leather, whatever the leather was made into, it is a destructive defiling growth. The item is unclean.
+v52: He must burn the clothing, the warp or weft of wool or linen, or any leather article with the affected patch. It is a destructive defiling growth and must be burned in the fire.
+</p>
+
+<p>
+v53: But if the priest examines it and the affected patch has not spread in the clothing, warp, weft, or leather article,
+v54: he must order the affected item to be washed and set it apart for another seven days.
+v55: After it has been washed, the priest must examine it. If the affected patch has not changed in appearance, the item is unclean even if the patch has not spread. You must burn it in the fire. It is a corroding growth, whether on the back or front of the material.
+</p>
+
+<p>
+v56: But if the priest finds that the affected patch has faded after washing, he must tear that part out of the clothing, leather, warp, or weft.
+</p>
+
+<p>
+v57: If it appears again in the clothing, warp, weft, or leather article, it is breaking out again. You must burn the affected item in the fire.
+</p>
+
+<p>
+v58: If you wash the clothing, warp, weft, or leather article and the affected patch disappears, the item must be washed a second time. Then it will be clean.”
+</p>
+
+<p>
+v59: These are the instructions for a defiling growth in wool or linen clothing, in warp or weft, or in any leather article, for declaring it clean or unclean.
 </p>
 
 ## Notes
 
-v02: The traditional term “leprosy” is too narrow for the Hebrew *tsara'at*, which covers a range of skin conditions and, later in the chapter, conditions affecting materials. TSW uses descriptive language rather than identifying it with modern Hansen’s disease.
+v2: The Hebrew term traditionally rendered “leprosy” covers a ritual category that also includes affected cloth and houses (13:47–59; 14:33–53). “Defiling skin disease” and “defiling growth” distinguish the settings. They do not identify a single modern disease or organism.
 
-v03: The priest’s role is diagnostic and ritual: the priest examines and pronounces clean or unclean rather than providing medical treatment.
+v2–3: Several symptom terms are uncertain. “Swelling” may mean a discoloration; “scab” may mean an eruption. The priest assesses how the area looks, including whether it appears deeper or lower than the surrounding skin.
 
-v12–17: The counterintuitive ruling that fully whitened skin can be pronounced clean shows that the ritual criteria cannot be reduced to modern medical severity.
+v11–13: Verse 11 rules out the temporary confinement used while a verdict is pending. The outside-camp requirement appears in verses 45–46. The clean verdict for complete whitening in verse 13 is retained without supplying a medical explanation.
 
-v45–46: The isolation prescribed has communal and ritual consequences. The text does not describe the condition as a punishment for a particular personal sin.
+v31: The Hebrew says “black hair” here, in contrast with “yellow hair” in verses 30, 32, and 36. Black hair growing back is a sign of healing in verse 37.
 
-v47–59: The same Hebrew category is extended to garments, suggesting a broader concept of visible destructive affliction rather than a single human disease.
+v45: “Cover their upper lip” renders a reference to the mustache area. Torn clothes and loose hair also appear in the mourning instructions of 10:6.
+
+v55: “Corroding growth” is uncertain. The terms rendered “back or front” are used for bald areas of the head in verses 40–43; here they may mean the inner and outer surfaces of a garment.
 
 ## Vocabulary
 
-v02: צָרַעַת (tsara'at)
-“Serious diseased condition.” A ritual category affecting skin, garments, and houses.
+v2: צָרַעַת (tsaraat)
+The category rendered “defiling skin disease” or “defiling growth.” Its scope includes people, fabrics, and houses.
 
-v03: נֶגַע (nega)
-“Affliction,” “mark,” or “diseased area.” The visible condition examined by the priest.
-
-v04: סָגַר (sagar)
-“To isolate” or “shut up.” To place under temporary restriction for examination.
+v3, 6: טָמֵא / טָהֵר (tame / taher)
+Unclean / clean. Here the priest declares a ritual status; the words do not by themselves mean morally guilty / innocent.
 
 v30: נֶתֶק (neteq)
-“Itch” or “scaly condition.” A specific condition of the head or beard.
+A condition affecting skin under hair, rendered “scaly condition.” Its precise identification is uncertain.
 
-v51: מַמְאֶרֶת (mam'eret)
-“Destructive.” A severe, persistent condition requiring the article to be burned.
+v48: שְׁתִי / עֵרֶב (sheti / erev)
+Warp / weft: the lengthwise threads and the threads crossing them in weaving.
+
+v59: תּוֹרָה (torah)
+Instruction or law. The concluding formula gathers the cases and their clean or unclean outcomes.

@@ -4,129 +4,160 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-13-15-biblical-fluency-2026-09-11
 ---
 
-## Cleansing after a Serious Skin Disease
+## Cleansing after skin disease
 
 <p>
-v01: The LORD spoke to Moses, saying,
-v02: “This will be the law for a person with a serious skin disease on the day of cleansing. The person will be brought to the priest,
-v03: and the priest will go outside the camp. The priest will examine the person. If the diseased condition has been healed,
-v04: the priest will command that two living clean birds, cedar wood, scarlet yarn, and hyssop be taken for the one who is to be cleansed.
-v05: The priest will command that one bird be slaughtered in an earthen vessel over fresh water.
-v06: As for the living bird, he will take it together with the cedar wood, scarlet yarn, and hyssop and dip them and the living bird in the blood of the bird slaughtered over the fresh water.
-v07: He will sprinkle the one being cleansed seven times, pronounce that person clean, and let the living bird go free into the open field.
+v01: The LORD spoke to Moses:
+v02: “These are the instructions for someone with defiling skin disease on the day of their cleansing. The person must be brought to the priest.
+v03: The priest must go outside the camp and examine the person. If the defiling skin disease has healed,
+v04: he must order two live, clean birds, cedar wood, scarlet yarn, and hyssop to be brought for the person being cleansed.
+v05: The priest must order one bird to be slaughtered over fresh water in an earthenware vessel.
+v06: He must take the live bird, the cedar wood, the scarlet yarn, and the hyssop, and dip them, including the live bird, in the blood of the bird slaughtered over the fresh water.
+v07: He must sprinkle the person being cleansed from the skin disease seven times and declare them clean. Then he must release the live bird into the open country.
 </p>
 
 <p>
-v08: The one being cleansed will wash their clothes, shave off all their hair, and bathe in water; then the person will be clean. Afterward that person may enter the camp but will live outside the tent for seven days.
-v09: On the seventh day the person will shave all the hair of the head, beard, and eyebrows—indeed, all the hair. The person will wash their clothes and bathe the body in water and will be clean.
+v08: The person being cleansed must wash their clothes, shave off all their hair, and bathe in water. Then they will be clean. After that they may enter the camp, but they must stay outside their tent for seven days.
+v09: On the seventh day they must shave off all their hair: the hair on their head, their beard, and their eyebrows. They must shave it all off, wash their clothes, and bathe their body in water. Then they will be clean.
 </p>
 
-## Offerings on the Eighth Day
+## Offerings on the eighth day
 
 <p>
-v10: On the eighth day the person will take two male lambs without defect, one ewe lamb a year old without defect, three-tenths of an ephah of fine flour mixed with oil as a grain offering, and one log of oil.
-v11: The priest who performs the cleansing will set the person being cleansed and these things before the LORD at the entrance of the Tent of Meeting.
-v12: The priest will take one male lamb and present it as a guilt offering together with the log of oil, and elevate them as an elevation offering before the LORD.
-v13: He will slaughter the male lamb in the place where the sin offering and burnt offering are slaughtered, in the holy place, for like the sin offering, the guilt offering belongs to the priest. It is most holy.
-</p>
-
-<p>
-v14: The priest will take some of the blood of the guilt offering and put it on the lobe of the right ear of the one being cleansed, on the thumb of the right hand, and on the big toe of the right foot.
-v15: The priest will take some of the log of oil and pour it into the palm of his own left hand.
-v16: The priest will dip his right finger in the oil in his left palm and sprinkle some of the oil with his finger seven times before the LORD.
-v17: The priest will put some of the remaining oil in his hand on the lobe of the right ear of the one being cleansed, on the thumb of the right hand, and on the big toe of the right foot, over the blood of the guilt offering.
-v18: The rest of the oil in the priest’s hand he will put on the head of the one being cleansed. The priest will make atonement for that person before the LORD.
-v19: The priest will prepare the sin offering and make atonement for the one being cleansed from uncleanness. Afterward he will slaughter the burnt offering.
-v20: The priest will offer the burnt offering and grain offering on the altar. The priest will make atonement for the person, and that person will be clean.
-</p>
-
-## Provision for One Who Is Poor
-
-<p>
-v21: But if the person is poor and cannot afford so much, then the person will take one male lamb as a guilt offering to be elevated, to make atonement, one-tenth of an ephah of fine flour mixed with oil as a grain offering, and a log of oil,
-v22: and two turtledoves or two young pigeons, according to what the person can afford, one for a sin offering and the other for a burnt offering.
-v23: On the eighth day the person will bring them for cleansing to the priest at the entrance of the Tent of Meeting before the LORD.
-v24: The priest will take the lamb of the guilt offering and the log of oil and elevate them as an elevation offering before the LORD.
-v25: He will slaughter the lamb of the guilt offering, and the priest will take some of its blood and put it on the lobe of the right ear of the one being cleansed, on the thumb of the right hand, and on the big toe of the right foot.
-v26: The priest will pour some of the oil into the palm of his own left hand,
-v27: and with his right finger sprinkle some of the oil in his left hand seven times before the LORD.
-v28: The priest will put some of the oil in his hand on the lobe of the right ear of the one being cleansed, on the thumb of the right hand, and on the big toe of the right foot, in the place where the blood of the guilt offering was put.
-v29: The rest of the oil in the priest’s hand he will put on the head of the one being cleansed, to make atonement before the LORD.
-v30: The person will offer one of the turtledoves or young pigeons, according to what can be afforded,
-v31: one as a sin offering and the other as a burnt offering, together with the grain offering. The priest will make atonement before the LORD for the one being cleansed.
-v32: This is the law for one who has a serious skin disease and cannot afford the full offering for cleansing.”
-</p>
-
-## Diseased Conditions in Houses
-
-<p>
-v33: The LORD spoke to Moses and Aaron, saying,
-v34: “When you come into the land of Canaan, which I give you as a possession, and I put a diseased condition in a house in the land of your possession,
-v35: the owner of the house will come and tell the priest, ‘Something like a diseased condition has appeared to me in the house.’
-v36: The priest will command that the house be emptied before he enters to examine the condition, so that everything in the house does not become unclean. Afterward the priest will go in to examine the house.
-v37: He will examine the affected area. If the affected area in the walls of the house consists of greenish or reddish depressions that appear deeper than the surface of the wall,
-v38: the priest will go out of the house to its entrance and close the house for seven days.
-v39: The priest will return on the seventh day and examine it. If the affected area has spread in the walls of the house,
-v40: the priest will command that the stones in which the condition appears be removed and thrown into an unclean place outside the city.
-v41: He will have the inside of the house scraped all around, and they will pour the plaster they scrape off into an unclean place outside the city.
-v42: They will take other stones and put them in place of those stones, take other plaster, and replaster the house.
+v10: On the eighth day the person must bring two male lambs without defect, one year-old female lamb without defect, three-tenths of an ephah of fine flour mixed with oil for a grain offering, and one log of oil.
+v11: The priest conducting the cleansing must present the man being cleansed, together with these offerings, before the LORD at the entrance to the tent of meeting.
+v12: The priest must take one of the male lambs and present it as a guilt offering, together with the log of oil. He must wave them as a wave offering before the LORD.
+v13: He must slaughter the lamb in the holy place where the sin offering and burnt offering are slaughtered. Like the sin offering, the guilt offering belongs to the priest; it is most holy.
 </p>
 
 <p>
-v43: If the diseased condition returns and breaks out in the house after the stones have been removed, the house scraped, and it replastered,
-v44: the priest will come and examine it. If the condition has spread in the house, it is a destructive diseased condition in the house; it is unclean.
-v45: The house will be torn down—its stones, timber, and all its plaster—and carried outside the city to an unclean place.
-v46: Whoever enters the house during all the days it is closed will be unclean until evening.
-v47: Whoever lies down in the house will wash their clothes, and whoever eats in the house will wash their clothes.
+v14: The priest must take some blood from the guilt offering and put it on the right earlobe, the right thumb, and the right big toe of the person being cleansed.
+v15: He must take some of the oil from the log and pour it into his left palm.
+v16: The priest must dip his right finger into the oil in his left palm and sprinkle some of it with his finger seven times before the LORD.
+v17: From the oil remaining in his palm, he must put some on the person's right earlobe, right thumb, and right big toe, over the blood of the guilt offering.
+v18: He must put the rest of the oil in his palm on the head of the person being cleansed. The priest must make atonement for that person before the LORD.
 </p>
 
-## Cleansing a House
-
 <p>
-v48: But if the priest comes and examines it and the condition has not spread in the house after the house was replastered, the priest will pronounce the house clean, because the condition is healed.
-v49: To cleanse the house, he will take two birds, cedar wood, scarlet yarn, and hyssop.
-v50: He will slaughter one bird in an earthen vessel over fresh water.
-v51: He will take the cedar wood, hyssop, scarlet yarn, and living bird, dip them in the blood of the slaughtered bird and in the fresh water, and sprinkle the house seven times.
-v52: He will cleanse the house with the bird’s blood, the fresh water, the living bird, the cedar wood, the hyssop, and the scarlet yarn.
-v53: Then he will let the living bird go free outside the city into the open field. Thus he will make atonement for the house, and it will be clean.
+v19: The priest must offer the sin offering and make atonement for the person being cleansed from impurity. After that the burnt offering must be slaughtered.
+v20: He must offer the burnt offering and grain offering on the altar. The priest must make atonement for the person, and they will be clean.
 </p>
 
-## Summary of the Law
+## When the full offerings are unaffordable
 
 <p>
-v54: This is the law for every serious skin disease and itch,
-v55: for a diseased condition in a garment or a house,
-v56: for a swelling, scab, or bright spot,
-v57: to teach when something is unclean and when it is clean. This is the law concerning serious diseased conditions.
+v21: But if the person is poor and cannot afford these offerings, they must bring one male lamb as a guilt offering, to be waved as a wave offering to make atonement for them, one-tenth of an ephah of fine flour mixed with oil for a grain offering, and a log of oil.
+v22: They must also bring two turtledoves or two young pigeons, whichever they can afford, one for a sin offering and the other for a burnt offering.
+v23: On the eighth day of their cleansing, they must bring these offerings to the priest at the entrance to the tent of meeting, before the LORD.
+</p>
+
+<p>
+v24: The priest must take the lamb for the guilt offering and the log of oil, and wave them as a wave offering before the LORD.
+v25: He must slaughter the lamb for the guilt offering. The priest must take some of its blood and put it on the right earlobe, right thumb, and right big toe of the person being cleansed.
+v26: The priest must pour some of the oil into his left palm.
+v27: With his right finger he must sprinkle some of the oil from his left palm seven times before the LORD.
+v28: The priest must put some of the oil from his palm on the person's right earlobe, right thumb, and right big toe, where the blood of the guilt offering was put.
+v29: He must put the rest of the oil in his palm on the head of the person being cleansed, to make atonement for them before the LORD.
+</p>
+
+<p>
+v30: The priest must offer the turtledoves or young pigeons the person can afford—
+v31: whatever they can afford— one as a sin offering and the other as a burnt offering, together with the grain offering. The priest must make atonement before the LORD for the person being cleansed.
+v32: These are the instructions for someone with defiling skin disease who cannot afford the full offerings for their cleansing.”
+</p>
+
+## A growth in a house
+
+<p>
+v33: The LORD spoke to Moses and Aaron:
+v34: “When you enter the land of Canaan, which I am giving you to possess, and I put a defiling growth in a house in the land you possess,
+v35: the owner of the house must come and tell the priest, ‘Something that looks like a defiling growth has appeared in my house.’
+</p>
+
+<p>
+v36: Before the priest enters to examine the affected area, he must order the house emptied, so that none of its contents become unclean. After that he must go in to inspect the house.
+v37: He must examine the affected area. If it forms greenish or reddish depressions in the walls that look lower than the wall's surface,
+v38: the priest must leave the house, go to its entrance, and shut it up for seven days.
+</p>
+
+<p>
+v39: On the seventh day the priest must return and examine it. If the affected area has spread along the walls,
+v40: he must order the affected stones removed and thrown into an unclean place outside the city.
+v41: He must have the inside walls scraped all around. The plaster scraped off must be dumped in an unclean place outside the city.
+v42: Other stones must be put in place of the removed stones, and fresh plaster must be used to plaster the house.
+</p>
+
+<p>
+v43: If the growth returns and breaks out in the house after the stones have been removed and the house scraped and replastered,
+v44: the priest must come and examine it. If it has spread in the house, it is a destructive defiling growth. The house is unclean.
+v45: He must have the house torn down, with its stones, timbers, and all its plaster carried to an unclean place outside the city.
+</p>
+
+<p>
+v46: Anyone who enters the house while it is shut up becomes unclean until evening.
+v47: Anyone who lies down in the house must wash their clothes. Anyone who eats in the house must wash their clothes.
+</p>
+
+<p>
+v48: But if the priest comes and finds that the growth has not spread in the house after replastering, he must declare the house clean, because the affected area has healed.
+</p>
+
+## Purifying a house
+
+<p>
+v49: To purify the house, he must take two birds, cedar wood, scarlet yarn, and hyssop.
+v50: He must slaughter one bird over fresh water in an earthenware vessel.
+v51: He must take the cedar wood, hyssop, scarlet yarn, and live bird, dip them in the slaughtered bird's blood and the fresh water, and sprinkle the house seven times.
+v52: He must purify the house with the bird's blood, the fresh water, the live bird, the cedar wood, the hyssop, and the scarlet yarn.
+v53: He must release the live bird outside the city into the open country. In this way he must make atonement for the house, and it will be clean.
+</p>
+
+## The purpose of these instructions
+
+<p>
+v54: These are the instructions for every case of defiling skin disease and scaly conditions,
+v55: for defiling growths in clothing and houses,
+v56: and for swellings, scabs, and bright spots,
+v57: to teach when something is unclean and when it is clean. These are the instructions for defiling disease and growths.”
 </p>
 
 ## Notes
 
-v02: The priest goes outside the camp to examine the healed person, so restoration begins before the person has returned to ordinary community life.
+v2–3: Being brought to the priest does not mean entering the camp. Verse 3 places the examination outside it. Healing precedes the cleansing rite.
 
-v05: “fresh water” — The Hebrew literally says “living water,” meaning flowing or fresh water rather than stagnant water.
+v4–5: “Scarlet yarn” denotes dyed material; its precise form is not specified. “Fresh water” is literally “living water,” water from a flowing source. Here it is held in an earthenware vessel.
 
-v14–18: The application of blood and oil to ear, hand, and foot closely echoes the ordination of priests in chapter 8, though the text does not state that the cleansed person becomes priestly.
+v8–10: Restoration proceeds in stages: return to the camp, seven days outside the tent, another washing and shaving, and eighth-day offerings.
 
-v34: The LORD is said to “put” the diseased condition in a house. The text presents the condition within divine sovereignty without explaining why a particular house is affected.
+v10: The Hebrew gives “three-tenths,” with ephah understood as the flour measure. A log is a small liquid measure. The ancient units are retained rather than given an exact modern conversion.
 
-v45: A persistently affected house is dismantled entirely, showing that ritual contamination can attach to built space as well as persons and garments.
+v13, 19: The Hebrew does not name the person slaughtering in these clauses. Verse 13 most naturally continues with the priest; verse 19 can refer to the priest or the offerer, so its agent is left unspecified.
+
+v30–31: The Hebrew repeats the phrase about what the person can afford. Read the two verses together; the repeated affordability phrase is retained; verse 22 specifies two birds.
+
+v34–37: The LORD speaks of putting the growth in the house, without giving a reason here. The owner reports only what looks like a growth. “Depressions” in verse 37 is uncertain; “streaks” is another rendering.
+
+v53: Atonement is made for the house. The passage does not describe the house as morally guilty; the stated result is that it becomes clean.
 
 ## Vocabulary
 
-v04: אֵזוֹב (ezov)
-“Hyssop.” A plant used in ritual sprinkling and cleansing.
+v4: אֵזֹב (ezov)
+Hyssop, a plant used in sprinkling rites; its exact botanical identity is uncertain.
 
-v05: מַיִם חַיִּים (mayim chayyim)
-“Living water,” here “fresh water.” Flowing or fresh water used in cleansing.
+v12: תְּנוּפָה (tenufah)
+Wave offering: a ritual presentation before the LORD. The text does not describe the precise movement.
 
-v10: לֹג (log)
-“Log.” A small liquid measure used here for oil.
+v12, 19: אָשָׁם / חַטָּאת (asham / hattat)
+Guilt offering / sin offering. These names continue from earlier chapters; here they occur in cleansing from impurity, without a named personal offense.
 
-v34: אֲחֻזָּה (achuzzah)
-“Possession.” Land or property held as an inherited holding.
+v18, 53: כִּפֶּר (kipper)
+Make atonement. This chapter uses the term for a person and for a house.
 
-v57: הוֹרָה (horah)
-“To teach” or “instruct.” The priestly task of identifying clean and unclean.
+v57: טָמֵא / טָהוֹר (tame / tahor)
+Unclean / clean. Learning to distinguish these states is the stated purpose of the instructions.

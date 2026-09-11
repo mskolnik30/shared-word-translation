@@ -1,0 +1,756 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T16:53:46.035668+00:00",
+  "base_commit": "77d88c1de8474692b597753a6720ee9af23b9ca9",
+  "scope": "Leviticus 13–15; 149 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 149,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 110,
+    "verses": 3310
+  },
+  "source_record_count": 859,
+  "public_source_mapping": "Leviticus 13–15 aligns directly; all 149 records are unique and complete, including the vowel annotation at 14:48. Prior Genesis and Exodus public/source differences remain bound unchanged.",
+  "source_annotations_hashed_in_full": [
+    "14:48"
+  ],
+  "focused_assertions": {
+    "13:1": [
+      "Moses and Aaron"
+    ],
+    "13:2": [
+      "someone",
+      "swelling",
+      "scab",
+      "bright spot",
+      "Aaron",
+      "sons"
+    ],
+    "13:3": [
+      "hair",
+      "white",
+      "and",
+      "deeper",
+      "declare the person unclean"
+    ],
+    "13:4": [
+      "does not look deeper",
+      "hair has not turned white",
+      "seven days"
+    ],
+    "13:5": [
+      "unchanged",
+      "has not spread",
+      "another seven days"
+    ],
+    "13:6": [
+      "second seven-day",
+      "faded",
+      "has not spread",
+      "declare the person clean",
+      "wash their clothes"
+    ],
+    "13:10": [
+      "white swelling",
+      "hair",
+      "raw flesh"
+    ],
+    "13:11": [
+      "longstanding",
+      "must not confine",
+      "already unclean"
+    ],
+    "13:12": [
+      "head to foot",
+      "priest can see"
+    ],
+    "13:13": [
+      "whole body",
+      "completely white",
+      "they are clean"
+    ],
+    "13:15": [
+      "raw flesh is unclean"
+    ],
+    "13:18": [
+      "boil",
+      "healed"
+    ],
+    "13:19": [
+      "white swelling",
+      "reddish-white"
+    ],
+    "13:20": [
+      "lower",
+      "hair has turned white"
+    ],
+    "13:21": [
+      "no white hair",
+      "not lower",
+      "faded",
+      "seven days"
+    ],
+    "13:23": [
+      "does not spread",
+      "scar",
+      "clean"
+    ],
+    "13:24": [
+      "fire",
+      "reddish-white or white"
+    ],
+    "13:25": [
+      "deeper",
+      "burn"
+    ],
+    "13:28": [
+      "not spread",
+      "faded",
+      "swelling",
+      "scar"
+    ],
+    "13:29": [
+      "man or a woman",
+      "scalp",
+      "beard"
+    ],
+    "13:30": [
+      "thin yellow hair"
+    ],
+    "13:31": [
+      "no black hair",
+      "seven days"
+    ],
+    "13:32": [
+      "no yellow hair",
+      "not look deeper"
+    ],
+    "13:33": [
+      "leave the scaly area unshaved",
+      "another seven days"
+    ],
+    "13:34": [
+      "not spread",
+      "not look deeper",
+      "wash their clothes"
+    ],
+    "13:36": [
+      "need not look for yellow hair"
+    ],
+    "13:37": [
+      "black hair has grown",
+      "healed",
+      "clean"
+    ],
+    "13:39": [
+      "dull white",
+      "pale rash",
+      "clean"
+    ],
+    "13:40": [
+      "back of his head",
+      "clean"
+    ],
+    "13:41": [
+      "front of his head",
+      "clean"
+    ],
+    "13:44": [
+      "certainly declare",
+      "head"
+    ],
+    "13:45": [
+      "torn clothes",
+      "hair loose",
+      "upper lip",
+      "Unclean! Unclean!"
+    ],
+    "13:46": [
+      "as long as",
+      "live alone",
+      "outside the camp"
+    ],
+    "13:48": [
+      "warp",
+      "weft",
+      "linen",
+      "wool",
+      "leather"
+    ],
+    "13:49": [
+      "greenish or reddish"
+    ],
+    "13:51": [
+      "seventh day",
+      "destructive"
+    ],
+    "13:52": [
+      "burn",
+      "wool or linen",
+      "leather"
+    ],
+    "13:54": [
+      "washed",
+      "another seven days"
+    ],
+    "13:55": [
+      "not changed",
+      "even if",
+      "not spread",
+      "burn",
+      "back or front"
+    ],
+    "13:56": [
+      "faded",
+      "tear that part out"
+    ],
+    "13:57": [
+      "again",
+      "burn"
+    ],
+    "13:58": [
+      "disappears",
+      "second time",
+      "clean"
+    ],
+    "14:3": [
+      "outside the camp",
+      "healed"
+    ],
+    "14:4": [
+      "two live, clean birds",
+      "cedar wood",
+      "scarlet yarn",
+      "hyssop"
+    ],
+    "14:5": [
+      "order",
+      "slaughtered",
+      "fresh water",
+      "earthenware"
+    ],
+    "14:6": [
+      "including the live bird"
+    ],
+    "14:7": [
+      "seven times",
+      "release",
+      "live bird"
+    ],
+    "14:8": [
+      "all their hair",
+      "enter the camp",
+      "outside their tent",
+      "seven days"
+    ],
+    "14:9": [
+      "seventh day",
+      "beard",
+      "eyebrows"
+    ],
+    "14:10": [
+      "eighth day",
+      "two male lambs without defect",
+      "one year-old female lamb without defect",
+      "three-tenths",
+      "ephah",
+      "one log"
+    ],
+    "14:11": [
+      "man being cleansed"
+    ],
+    "14:12": [
+      "guilt offering",
+      "log",
+      "wave offering"
+    ],
+    "14:13": [
+      "belongs to the priest",
+      "most holy"
+    ],
+    "14:14": [
+      "right earlobe",
+      "right thumb",
+      "right big toe"
+    ],
+    "14:15": [
+      "left palm"
+    ],
+    "14:16": [
+      "right finger",
+      "left palm",
+      "seven times"
+    ],
+    "14:17": [
+      "right earlobe",
+      "right thumb",
+      "right big toe",
+      "over the blood"
+    ],
+    "14:18": [
+      "rest of the oil",
+      "head",
+      "atonement"
+    ],
+    "14:19": [
+      "impurity",
+      "burnt offering must be slaughtered"
+    ],
+    "14:21": [
+      "poor",
+      "one male lamb",
+      "one-tenth",
+      "ephah",
+      "log"
+    ],
+    "14:22": [
+      "two turtledoves or two young pigeons",
+      "sin offering",
+      "burnt offering"
+    ],
+    "14:23": [
+      "eighth day"
+    ],
+    "14:24": [
+      "wave offering",
+      "log"
+    ],
+    "14:25": [
+      "right earlobe",
+      "right thumb",
+      "right big toe"
+    ],
+    "14:26": [
+      "left palm"
+    ],
+    "14:27": [
+      "right finger",
+      "left palm",
+      "seven times"
+    ],
+    "14:28": [
+      "right earlobe",
+      "right thumb",
+      "right big toe",
+      "where the blood"
+    ],
+    "14:29": [
+      "rest of the oil",
+      "head"
+    ],
+    "14:30": [
+      "can afford"
+    ],
+    "14:31": [
+      "can afford",
+      "one as a sin offering",
+      "other as a burnt offering",
+      "grain offering"
+    ],
+    "14:33": [
+      "Moses and Aaron"
+    ],
+    "14:34": [
+      "Canaan",
+      "I put",
+      "possess"
+    ],
+    "14:35": [
+      "looks like"
+    ],
+    "14:36": [
+      "Before",
+      "emptied",
+      "none of its contents"
+    ],
+    "14:37": [
+      "greenish or reddish",
+      "lower"
+    ],
+    "14:38": [
+      "leave the house",
+      "entrance",
+      "seven days"
+    ],
+    "14:40": [
+      "stones",
+      "unclean place outside the city"
+    ],
+    "14:41": [
+      "all around",
+      "unclean place outside the city"
+    ],
+    "14:42": [
+      "Other stones",
+      "fresh plaster"
+    ],
+    "14:43": [
+      "removed",
+      "scraped",
+      "replastered"
+    ],
+    "14:45": [
+      "torn down",
+      "stones",
+      "timbers",
+      "all its plaster",
+      "unclean place outside the city"
+    ],
+    "14:46": [
+      "enters",
+      "until evening"
+    ],
+    "14:47": [
+      "lies down",
+      "eats"
+    ],
+    "14:48": [
+      "not spread",
+      "healed"
+    ],
+    "14:51": [
+      "cedar wood",
+      "hyssop",
+      "scarlet yarn",
+      "live bird",
+      "blood",
+      "fresh water",
+      "seven times"
+    ],
+    "14:52": [
+      "blood",
+      "fresh water",
+      "live bird",
+      "cedar wood",
+      "hyssop",
+      "scarlet yarn"
+    ],
+    "14:53": [
+      "release",
+      "outside the city",
+      "atonement for the house"
+    ],
+    "14:57": [
+      "to teach",
+      "unclean",
+      "clean"
+    ],
+    "15:2": [
+      "any man",
+      "genitals"
+    ],
+    "15:3": [
+      "flow",
+      "blocked"
+    ],
+    "15:4": [
+      "bed",
+      "lies",
+      "sits"
+    ],
+    "15:8": [
+      "spits",
+      "that person"
+    ],
+    "15:9": [
+      "Anything",
+      "rides on"
+    ],
+    "15:10": [
+      "touches",
+      "carries"
+    ],
+    "15:11": [
+      "his hands",
+      "person he touches"
+    ],
+    "15:12": [
+      "earthenware",
+      "broken",
+      "wooden",
+      "rinsed"
+    ],
+    "15:13": [
+      "free of his discharge",
+      "seven days",
+      "fresh water"
+    ],
+    "15:14": [
+      "eighth day",
+      "two turtledoves or two young pigeons"
+    ],
+    "15:15": [
+      "sin offering",
+      "burnt offering",
+      "discharge"
+    ],
+    "15:16": [
+      "semen",
+      "whole body",
+      "until evening"
+    ],
+    "15:17": [
+      "clothing or leather",
+      "washed",
+      "until evening"
+    ],
+    "15:18": [
+      "intercourse",
+      "emits semen",
+      "both must bathe",
+      "both remain unclean"
+    ],
+    "15:19": [
+      "seven days",
+      "touches her",
+      "until evening"
+    ],
+    "15:23": [
+      "something is on her bed",
+      "touches it"
+    ],
+    "15:24": [
+      "intercourse",
+      "seven days",
+      "Every bed"
+    ],
+    "15:25": [
+      "many days outside",
+      "continues beyond"
+    ],
+    "15:26": [
+      "bed",
+      "sits",
+      "discharge lasts"
+    ],
+    "15:28": [
+      "free of her discharge",
+      "seven days"
+    ],
+    "15:29": [
+      "eighth day",
+      "two turtledoves or two young pigeons"
+    ],
+    "15:30": [
+      "sin offering",
+      "burnt offering",
+      "discharge"
+    ],
+    "15:31": [
+      "Israelites",
+      "die",
+      "defiling my tabernacle",
+      "among them"
+    ],
+    "15:33": [
+      "male or female",
+      "intercourse"
+    ]
+  },
+  "TSW_prior_revisions_Companion_and_unaffected_approvals_preserved": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 149 pinned Hebrew records, including the vowel annotation at 14:48. Selected NET lexical and grammatical notes were consulted after reading each Hebrew chapter, before and during drafting. All TSW comparators were read after drafting. The complete assembled text was reread. Focused checks cover observation criteria and black/yellow hair; staged confinement and cleansing; garment washing, removal and burning; male/female lamb counts and poverty provisions; blood/oil side, order and counts; house emptying, disposal and divine agency; discharge versus semen and menstruation; touch versus carrying; seven/eight-day intervals; text and pronoun ambiguities. This is an authoring self-check, not independent scholarly review.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
