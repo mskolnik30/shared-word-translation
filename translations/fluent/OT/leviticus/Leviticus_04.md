@@ -4,99 +4,119 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-4-7-biblical-fluency-2026-09-11
 ---
 
-## Unintentional Sin
+## Sin Offerings
 
 <p>
-v01: The LORD spoke to Moses, saying,
-v02: “Speak to the Israelites, saying: If someone sins unintentionally in any of the LORD’s commandments concerning things that are not to be done, and does any one of them—
-v03: if the anointed priest sins so that guilt comes upon the people, then for the sin committed he will bring to the LORD a young bull without defect as a sin offering.
+v01: The LORD spoke to Moses:
+v02: “Tell the Israelites: When someone sins unintentionally by doing any of the things the LORD’s commandments forbid, these instructions apply.
 </p>
 
-## The Sin of the Anointed Priest
+## The Anointed Priest
 
 <p>
-v04: He will bring the bull to the entrance of the Tent of Meeting before the LORD, lay his hand on the bull’s head, and slaughter the bull before the LORD.
-v05: The anointed priest will take some of the bull’s blood and bring it into the Tent of Meeting.
-v06: The priest will dip his finger in the blood and sprinkle some of the blood seven times before the LORD, in front of the curtain of the sanctuary.
-v07: The priest will put some of the blood on the horns of the altar of fragrant incense before the LORD in the Tent of Meeting, and pour all the rest of the bull’s blood at the base of the altar of burnt offering at the entrance of the Tent of Meeting.
+v03: If the anointed priest sins and brings guilt on the people, he must bring a young bull without defect to the LORD as a sin offering for the sin he has committed.
+v04: He is to bring the bull to the entrance of the tent of meeting before the LORD, lay his hand on its head, and slaughter it before the LORD.
 </p>
 
 <p>
-v08: He will remove all the fat from the bull of the sin offering: the fat covering the entrails and all the fat around the entrails,
-v09: the two kidneys with the fat on them near the loins, and the appendage of the liver, removed with the kidneys,
-v10: just as these are removed from the ox of the sacrifice of well-being. The priest will turn them into smoke on the altar of burnt offering.
-v11: But the bull’s skin, all its flesh, its head, legs, entrails, and dung—
-v12: all the rest of the bull—he will carry outside the camp to a clean place where the ashes are poured out, and burn it on wood with fire. It will be burned where the ashes are poured out.
-</p>
-
-## The Sin of the Congregation
-
-<p>
-v13: If the whole congregation of Israel sins unintentionally and the matter is hidden from the eyes of the assembly, and they do any of the things that the LORD commanded not to be done and become guilty,
-v14: when the sin they committed becomes known, the assembly will bring a young bull as a sin offering and bring it before the Tent of Meeting.
-v15: The elders of the congregation will lay their hands on the bull’s head before the LORD, and the bull will be slaughtered before the LORD.
-v16: The anointed priest will bring some of the bull’s blood into the Tent of Meeting.
-v17: The priest will dip his finger in the blood and sprinkle it seven times before the LORD, in front of the curtain.
-v18: He will put some of the blood on the horns of the altar that is before the LORD in the Tent of Meeting, and pour all the rest of the blood at the base of the altar of burnt offering at the entrance of the Tent of Meeting.
+v05: The anointed priest must take some of the bull’s blood into the tent of meeting.
+v06: He is to dip his finger in the blood and sprinkle some of it seven times before the LORD, in front of the sanctuary curtain.
+v07: He is to put some blood on the horns of the altar of fragrant incense before the LORD inside the tent of meeting. He must pour all the rest of the bull’s blood at the base of the altar of burnt offering at the tent’s entrance.
 </p>
 
 <p>
-v19: He will remove all its fat and turn it into smoke on the altar.
-v20: He will do with this bull just as he did with the bull of the sin offering; so he will do with it. The priest will make atonement for them, and they will be forgiven.
-v21: He will carry the bull outside the camp and burn it as he burned the first bull. It is the sin offering for the assembly.
-</p>
-
-## The Sin of a Leader
-
-<p>
-v22: When a leader sins and unintentionally does any one of the things that the LORD his God has commanded not to be done, and becomes guilty,
-v23: when the sin he committed is revealed to him, he will bring as his offering a male goat without defect.
-v24: He will lay his hand on the goat’s head and slaughter it in the place where the burnt offering is slaughtered before the LORD. It is a sin offering.
-v25: The priest will take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and pour the rest of its blood at the base of the altar.
-v26: He will turn all its fat into smoke on the altar like the fat of the sacrifice of well-being. The priest will make atonement for the leader concerning his sin, and he will be forgiven.
-</p>
-
-## The Sin of an Individual
-
-<p>
-v27: If any one of the people of the land sins unintentionally by doing any of the things the LORD has commanded not to be done and becomes guilty,
-v28: when the sin committed is revealed, that person will bring as an offering a female goat without defect for the sin committed.
-v29: The person will lay a hand on the head of the sin offering and slaughter the sin offering in the place of the burnt offering.
-v30: The priest will take some of its blood with his finger and put it on the horns of the altar of burnt offering, and pour all the rest of its blood at the base of the altar.
-v31: The priest will remove all its fat, just as the fat is removed from the sacrifice of well-being, and turn it into smoke on the altar as a pleasing aroma to the LORD. The priest will make atonement for the person, and that person will be forgiven.
+v08: He must remove all the fat from the sin-offering bull: the fat covering the entrails and all the fat on the entrails,
+v09: both kidneys and the fat on them near the loins, and the lobe of the liver, which he is to remove along with the kidneys.
+v10: He is to remove these just as they are removed from an ox offered as a peace offering. The priest must burn them on the altar of burnt offering as smoke.
 </p>
 
 <p>
-v32: If the person brings a lamb as the offering for a sin offering, it will be a female without defect.
-v33: The person will lay a hand on the head of the sin offering and slaughter it as a sin offering in the place where the burnt offering is slaughtered.
-v34: The priest will take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and pour all the rest of its blood at the base of the altar.
-v35: The priest will remove all its fat, just as the fat of the lamb is removed from the sacrifice of well-being, and turn it into smoke on the altar upon the offerings by fire to the LORD. The priest will make atonement for the person concerning the sin committed, and that person will be forgiven.
+v11: But the bull’s skin and all its flesh, its head and legs, its entrails and dung—
+v12: he must take the whole bull outside the camp to a clean place where the ashes are poured out, and burn it on a wood fire. It must be burned where the ashes are poured out.
+</p>
+
+## The Whole Community
+
+<p>
+v13: If the whole Israelite community goes astray without the assembly realizing it, doing something the LORD’s commandments forbid and so becoming guilty,
+v14: then, when the sin they committed becomes known, the assembly must bring a young bull as a sin offering and present it in front of the tent of meeting.
+v15: The community’s elders are to lay their hands on the bull’s head before the LORD, and the bull is to be slaughtered before the LORD.
+</p>
+
+<p>
+v16: The anointed priest is to take some of the bull’s blood into the tent of meeting.
+v17: He must dip his finger in the blood and sprinkle it seven times before the LORD, in front of the curtain.
+v18: He is to put some blood on the horns of the altar before the LORD inside the tent of meeting. He must pour all the rest of the blood at the base of the altar of burnt offering at the tent’s entrance.
+</p>
+
+<p>
+v19: He must remove all the bull’s fat and burn it on the altar as smoke.
+v20: He is to do with this bull just as he did with the bull for the sin offering; he must do the same with it. The priest will make atonement for the people, and they will be forgiven.
+v21: He must take the bull outside the camp and burn it as he burned the first bull. It is the assembly’s sin offering.
+</p>
+
+## A Leader
+
+<p>
+v22: When a leader sins unintentionally by doing something the commandments of the LORD his God forbid, he becomes guilty.
+v23: When the sin he committed is made known to him, he must bring a male goat without defect as his offering.
+</p>
+
+<p>
+v24: He is to lay his hand on the goat’s head and slaughter it before the LORD where the burnt offering is slaughtered. It is a sin offering.
+v25: The priest is to take some of the sin offering’s blood on his finger and put it on the horns of the altar of burnt offering. He must pour its remaining blood at the altar’s base.
+v26: He must burn all its fat on the altar as smoke, like the fat of a peace offering. The priest will make atonement for the leader’s sin, and he will be forgiven.
+</p>
+
+## An Ordinary Person
+
+<p>
+v27: If one of the ordinary people sins unintentionally by doing something the LORD’s commandments forbid and so becomes guilty,
+v28: then, when the sin becomes known to them, they must bring a female goat without defect as an offering for the sin they committed.
+</p>
+
+<p>
+v29: They are to lay a hand on the sin offering’s head and slaughter it where the burnt offering is slaughtered.
+v30: The priest must take some of its blood on his finger and put it on the horns of the altar of burnt offering. He is to pour all the remaining blood at the altar’s base.
+v31: The person bringing the offering is to remove all its fat as the fat is removed from a peace offering. The priest must burn it on the altar as a pleasing aroma to the LORD. He will make atonement for that person, and they will be forgiven.
+</p>
+
+<p>
+v32: If the person brings a sheep as a sin offering, it must be a female without defect.
+v33: They are to lay a hand on its head and slaughter it as a sin offering where the burnt offering is slaughtered.
+v34: The priest must take some of the sin offering’s blood on his finger and put it on the horns of the altar of burnt offering. He is to pour all the remaining blood at the altar’s base.
+v35: The person bringing the sheep must remove all its fat as the fat is removed from a sheep offered as a peace offering. The priest is to burn these parts on the altar, on top of the LORD’s offerings by fire. He will make atonement for the sin that person committed, and they will be forgiven.”
 </p>
 
 ## Notes
 
-v02: “unintentionally” — The Hebrew *bishgagah* refers to wrongdoing not characterized here as defiant or deliberate rebellion.
+v02: “Unintentionally” describes going astray without intending the offense. The passage still treats the act as sin requiring a response.
 
-v03: The anointed priest’s sin is described as bringing guilt upon the people, reflecting the representative responsibility of priestly office.
+v03: The anointed priest’s sin brings guilt on the people. “Sin offering” can also be rendered “purification offering”; the blood rites concern the sanctuary as well as the person bringing the offering.
 
-v07: The blood of the priest’s and congregation’s offerings is brought into the Tent of Meeting, unlike the offerings for a leader or ordinary individual.
+v07: The altar inside the tent is the incense altar; the altar at the entrance is the altar of burnt offering. Their horns and bases receive different blood applications.
 
-v20: “shall be forgiven” — Forgiveness follows the prescribed act of atonement and is stated repeatedly throughout the chapter.
+v09: “Lobe of the liver” is a provisional rendering of a difficult anatomical term; “appendage” or a covering near the liver is also proposed. See 3:4.
 
-v27: “people of the land” — Here the phrase refers broadly to ordinary members of the Israelite community rather than a distinct foreign population.
+v15: The Hebrew moves from the elders’ plural action to an unnamed singular slaughterer. The translation leaves that person unidentified.
+
+v23–28: The awareness clauses begin with a word usually meaning “or.” They may distinguish guilt already acknowledged from an offense brought to someone’s attention; this draft reads them as the transition to the prescribed offering.
+
+v31–35: The draft understands the unnamed fat-remover here as the offerer; the priest is then named as the one who burns it. The pronoun could also continue to refer to the priest.
 
 ## Vocabulary
 
-v02: שְׁגָגָה (shegagah)
-“Unintentional error.” A wrong committed without deliberate defiance.
+v03: חַטָּאת (ḥaṭṭaʾt)
+“Sin” or “sin offering,” according to context. The offering is also called a purification offering.
 
-v03: חַטָּאת (chatta't)
-“Sin offering.” The same Hebrew word can mean “sin” and the offering associated with it.
+v03: הַכֹּהֵן הַמָּשִׁיחַ (hakkohen hammashiaḥ)
+“The anointed priest.” The priest set apart by anointing.
 
-v03: מָשִׁיחַ (mashiach)
-“Anointed.” One upon whom oil has been applied for consecrated office.
-
-v20: סָלַח (salach)
-“To forgive.” Used here of divine forgiveness following atonement.
+v20: כִּפֶּר (kipper)
+“Make atonement.” The ritual action addressing sin or impurity; the following clause announces forgiveness.

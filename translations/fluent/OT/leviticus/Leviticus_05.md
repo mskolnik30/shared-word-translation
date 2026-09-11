@@ -4,75 +4,76 @@ testament: OT
 chapter: 5
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-4-7-biblical-fluency-2026-09-11
 ---
 
-## Cases Requiring Confession
+## Cases Requiring a Sin Offering
 
 <p>
-v01: If someone sins by hearing a public call to testify and, though a witness who has seen or knows the matter, does not speak, that person will bear guilt.
-v02: Or if someone touches any unclean thing—the carcass of an unclean wild animal, the carcass of unclean livestock, or the carcass of an unclean swarming creature—and the matter is hidden from that person, that person is unclean and becomes guilty.
-v03: Or if someone touches human uncleanness—whatever uncleanness by which a person becomes unclean—and the matter is hidden, when it becomes known that person becomes guilty.
-v04: Or if someone swears rashly with the lips to do evil or to do good—whatever a person may utter rashly in an oath—and the matter is hidden, when it becomes known that person becomes guilty in one of these matters.
-v05: When someone becomes guilty in any one of these, that person will confess the sin committed.
-</p>
-
-## Offerings According to Means
-
-<p>
-v06: The person will bring to the LORD as a guilt offering for the sin committed a female from the flock, a lamb or a goat, as a sin offering. The priest will make atonement for the person concerning the sin.
-v07: If the person cannot afford a sheep, then as the guilt offering for the sin committed that person will bring to the LORD two turtledoves or two young pigeons, one for a sin offering and one for a burnt offering.
-v08: The person will bring them to the priest, who will first present the one for the sin offering. The priest will pinch off its head at the neck without severing it completely.
-v09: The priest will sprinkle some of the blood of the sin offering against the side of the altar, and the rest of the blood will be drained at the base of the altar. It is a sin offering.
-v10: The priest will offer the second as a burnt offering according to the ordinance. The priest will make atonement for the person concerning the sin committed, and that person will be forgiven.
+v01: “If someone hears a public call to testify under oath and is a witness—having seen or learned what happened—but does not speak up, they sin and must bear their guilt.
+v02: Or if someone touches anything unclean—the carcass of an unclean wild animal, livestock, or swarming creature—even without realizing it, they become unclean and guilty.
+v03: Or if someone touches human uncleanness, whatever kind makes a person unclean, without realizing it, then comes to know of it, they are guilty.
+v04: Or if someone rashly swears to do harm or good—whatever a person might rashly promise under oath—without realizing it, then comes to know of it, they are guilty in one of these matters.
 </p>
 
 <p>
-v11: If the person cannot afford two turtledoves or two young pigeons, then as an offering for the sin committed that person will bring one-tenth of an ephah of fine flour as a sin offering. No oil will be put on it and no frankincense placed on it, for it is a sin offering.
-v12: The person will bring it to the priest, and the priest will take from it a handful as its memorial portion and turn it into smoke on the altar, upon the offerings by fire to the LORD. It is a sin offering.
-v13: The priest will make atonement for the person concerning the sin committed in any of these matters, and that person will be forgiven. The remainder will belong to the priest, as with the grain offering.”
+v05: When someone is guilty in any of these matters, they must confess the sin they committed.
+v06: As reparation for the sin, they must bring the LORD a female from the flock, a sheep or goat, as a sin offering. The priest will make atonement for their sin.
 </p>
 
-## Misuse of Holy Things
+## When an Animal Is Too Costly
 
 <p>
-v14: The LORD spoke to Moses, saying,
-v15: “If someone acts unfaithfully and sins unintentionally in regard to the LORD’s holy things, that person will bring to the LORD as a guilt offering a ram without defect from the flock, valued in silver shekels according to the sanctuary shekel, as a guilt offering.
-v16: The person will make restitution for the holy thing in which wrong was done, add one-fifth to it, and give it to the priest. The priest will make atonement with the ram of the guilt offering, and that person will be forgiven.
+v07: If they cannot afford a sheep or goat, they must bring the LORD two turtledoves or two young pigeons as reparation for their sin: one for a sin offering and one for a burnt offering.
+v08: They are to bring the birds to the priest, who must first present the one for the sin offering. He is to wring its head at the back of the neck without severing it.
+v09: He must sprinkle some of its blood against the side of the altar and drain the rest at the altar’s base. It is a sin offering.
+v10: He is to prepare the second bird as a burnt offering according to the rule. The priest will make atonement for the sin the person committed, and they will be forgiven.
 </p>
 
-## Guilt Without Knowledge
+<p>
+v11: If they cannot afford two turtledoves or two young pigeons, they must bring a tenth of an ephah of fine flour as a sin offering for their sin. They must not put oil or frankincense on it, because it is a sin offering.
+v12: They are to bring it to the priest. He must take a handful as its memorial portion and burn it on the altar, on top of the LORD’s offerings by fire. It is a sin offering.
+v13: The priest will make atonement for the sin the person committed in any of these matters, and they will be forgiven. The remainder will belong to the priest, as with a grain offering.”
+</p>
+
+## Guilt Offerings
 
 <p>
-v17: If someone sins by doing any of the things that the LORD has commanded not to be done, though the person did not know it, that person is guilty and will bear guilt.
-v18: The person will bring to the priest a ram without defect from the flock, according to the valuation, as a guilt offering. The priest will make atonement for the person concerning the unintentional wrong committed without knowing it, and that person will be forgiven.
-v19: It is a guilt offering; that person has certainly become guilty before the LORD.
+v14: The LORD spoke to Moses:
+v15: “When someone acts unfaithfully and sins unintentionally in regard to the LORD’s holy things, they must bring the LORD a ram without defect from the flock as a guilt offering, valued according to your assessment in silver shekels by the sanctuary standard.
+v16: They must make restitution for the loss involving the holy things, add a fifth of its value, and give it to the priest. The priest will make atonement for them with the ram of the guilt offering, and they will be forgiven.
+</p>
+
+<p>
+v17: If someone sins by doing anything the LORD’s commandments forbid, even without knowing it, they are guilty and must bear their guilt.
+v18: They must bring the priest a ram without defect from the flock, at your assessed value, as a guilt offering. The priest will make atonement for the error they committed unintentionally and without knowing it, and they will be forgiven.
+v19: It is a guilt offering; they have indeed incurred guilt before the LORD.”
 </p>
 
 ## Notes
 
-v01: The opening case treats withheld testimony as a moral act rather than mere silence. Knowledge can create responsibility to speak.
+v01: The public summons places a witness under an oath carrying a curse. “Bear their guilt” includes responsibility for its consequences, not simply a feeling of guilt.
 
-v05: Confession is explicitly named as part of the response to guilt before the sacrificial offering is presented.
+v02–03: “Unclean” names a ritual condition. These verses concern contact that went unrecognized; they do not make every occurrence of ritual uncleanness a deliberate moral offense.
 
-v07–13: The graduated offerings allow participation according to economic capacity, extending from livestock to birds to flour.
+v06–07: The Hebrew word rendered “reparation” here is also used for guilt and for the distinct guilt offering in verse 15. Here the required sacrifice is explicitly a sin offering.
 
-v15: “acts unfaithfully” — The Hebrew *maal* carries the sense of breach of trust, especially in relation to what belongs to God.
+v11: Unlike the grain offerings of chapter 2, this flour sin offering has neither oil nor frankincense. The different label and preparation are retained.
 
-v17: Lack of awareness does not erase responsibility in this ritual framework, though the prescribed response differs from deliberate defiance.
+v15: The draft takes the silver valuation to describe the ram’s required value. Another reading permits its monetary equivalent. No fixed number of shekels is given.
+
+v17–18: The person’s lack of knowledge is explicit. The text may concern an offense later discovered or an offense still only suspected; the draft does not add a discovery scene.
 
 ## Vocabulary
 
-v01: אָלָה (alah)
-“Public adjuration” or “oath of testimony.” A solemn call requiring a witness to speak.
+v06: אָשָׁם (ʾasham)
+“Guilt,” “reparation,” or “guilt offering.” Context determines whether the word names liability, what is owed, or a particular sacrifice.
 
-v05: יָדָה (yadah)
-“To confess” or “acknowledge.” To name openly what has been done.
+v11: אֵיפָה (ʾephah)
+“Ephah.” An ancient dry-volume measure. Here the required amount is one tenth.
 
-v06: אָשָׁם (asham)
-“Guilt offering” or “reparation offering.” An offering connected with guilt and restitution.
-
-v15: מָעַל (maal)
-“To act unfaithfully.” To breach trust, especially toward holy things.
-
-v16: חֲמִישִׁית (chamishit)
-“One-fifth.” The additional amount required with restitution.
+v15: מַעַל (maʿal)
+“Unfaithfulness” or “breach of trust.” Used here for wrongdoing involving the LORD’s holy things and in 6:2 for deception involving a neighbor.

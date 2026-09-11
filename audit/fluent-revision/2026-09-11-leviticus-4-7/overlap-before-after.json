@@ -1,0 +1,1240 @@
+{
+  "scope": "Leviticus 4–7; 122 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 24,
+      "near_identical_verses": 92,
+      "mean_similarity": 0.956276,
+      "verses": [
+        {
+          "reference": "Leviticus 4:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 4:2",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 4:3",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Leviticus 4:4",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Leviticus 4:5",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 4:6",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Leviticus 4:7",
+          "identical": false,
+          "similarity": 0.980392
+        },
+        {
+          "reference": "Leviticus 4:8",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Leviticus 4:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 4:10",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Leviticus 4:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 4:12",
+          "identical": false,
+          "similarity": 0.948718
+        },
+        {
+          "reference": "Leviticus 4:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 4:14",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Leviticus 4:15",
+          "identical": false,
+          "similarity": 0.92
+        },
+        {
+          "reference": "Leviticus 4:16",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 4:17",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 4:18",
+          "identical": false,
+          "similarity": 0.979167
+        },
+        {
+          "reference": "Leviticus 4:19",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 4:20",
+          "identical": false,
+          "similarity": 0.885714
+        },
+        {
+          "reference": "Leviticus 4:21",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Leviticus 4:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 4:23",
+          "identical": false,
+          "similarity": 0.878049
+        },
+        {
+          "reference": "Leviticus 4:24",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 4:25",
+          "identical": false,
+          "similarity": 0.975
+        },
+        {
+          "reference": "Leviticus 4:26",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Leviticus 4:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 4:28",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Leviticus 4:29",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Leviticus 4:30",
+          "identical": false,
+          "similarity": 0.972973
+        },
+        {
+          "reference": "Leviticus 4:31",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 4:32",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 4:33",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 4:34",
+          "identical": false,
+          "similarity": 0.97561
+        },
+        {
+          "reference": "Leviticus 4:35",
+          "identical": false,
+          "similarity": 0.946429
+        },
+        {
+          "reference": "Leviticus 5:1",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Leviticus 5:2",
+          "identical": false,
+          "similarity": 0.97619
+        },
+        {
+          "reference": "Leviticus 5:3",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Leviticus 5:4",
+          "identical": false,
+          "similarity": 0.97619
+        },
+        {
+          "reference": "Leviticus 5:5",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 5:6",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 5:7",
+          "identical": false,
+          "similarity": 0.975
+        },
+        {
+          "reference": "Leviticus 5:8",
+          "identical": false,
+          "similarity": 0.90625
+        },
+        {
+          "reference": "Leviticus 5:9",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Leviticus 5:10",
+          "identical": false,
+          "similarity": 0.90625
+        },
+        {
+          "reference": "Leviticus 5:11",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Leviticus 5:12",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 5:13",
+          "identical": false,
+          "similarity": 0.914286
+        },
+        {
+          "reference": "Leviticus 5:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 5:15",
+          "identical": false,
+          "similarity": 0.955556
+        },
+        {
+          "reference": "Leviticus 5:16",
+          "identical": false,
+          "similarity": 0.930233
+        },
+        {
+          "reference": "Leviticus 5:17",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Leviticus 5:18",
+          "identical": false,
+          "similarity": 0.931818
+        },
+        {
+          "reference": "Leviticus 5:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 6:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 6:2",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Leviticus 6:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 6:4",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Leviticus 6:5",
+          "identical": false,
+          "similarity": 0.970588
+        },
+        {
+          "reference": "Leviticus 6:6",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 6:7",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Leviticus 6:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 6:9",
+          "identical": false,
+          "similarity": 0.95122
+        },
+        {
+          "reference": "Leviticus 6:10",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Leviticus 6:11",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 6:12",
+          "identical": false,
+          "similarity": 0.930233
+        },
+        {
+          "reference": "Leviticus 6:13",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Leviticus 6:14",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 6:15",
+          "identical": false,
+          "similarity": 0.979167
+        },
+        {
+          "reference": "Leviticus 6:16",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Leviticus 6:17",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Leviticus 6:18",
+          "identical": false,
+          "similarity": 0.935484
+        },
+        {
+          "reference": "Leviticus 6:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 6:20",
+          "identical": false,
+          "similarity": 0.977273
+        },
+        {
+          "reference": "Leviticus 6:21",
+          "identical": false,
+          "similarity": 0.914286
+        },
+        {
+          "reference": "Leviticus 6:22",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 6:23",
+          "identical": false,
+          "similarity": 0.866667
+        },
+        {
+          "reference": "Leviticus 6:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 6:25",
+          "identical": false,
+          "similarity": 0.972973
+        },
+        {
+          "reference": "Leviticus 6:26",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 6:27",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Leviticus 6:28",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Leviticus 6:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 6:30",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Leviticus 7:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 7:2",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Leviticus 7:3",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 7:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 7:5",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 7:6",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 7:7",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 7:8",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 7:9",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Leviticus 7:10",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 7:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 7:12",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Leviticus 7:13",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 7:14",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 7:15",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Leviticus 7:16",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Leviticus 7:17",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 7:18",
+          "identical": false,
+          "similarity": 0.979592
+        },
+        {
+          "reference": "Leviticus 7:19",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 7:20",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Leviticus 7:21",
+          "identical": false,
+          "similarity": 0.945946
+        },
+        {
+          "reference": "Leviticus 7:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 7:23",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 7:24",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Leviticus 7:25",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Leviticus 7:26",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 7:27",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 7:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 7:29",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Leviticus 7:30",
+          "identical": false,
+          "similarity": 0.945946
+        },
+        {
+          "reference": "Leviticus 7:31",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Leviticus 7:32",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 7:33",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Leviticus 7:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 7:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 7:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 7:37",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 7:38",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 1,
+      "near_identical_verses": 10,
+      "mean_similarity": 0.681191,
+      "verses": [
+        {
+          "reference": "Leviticus 4:1",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 4:2",
+          "identical": false,
+          "similarity": 0.367347
+        },
+        {
+          "reference": "Leviticus 4:3",
+          "identical": false,
+          "similarity": 0.59375
+        },
+        {
+          "reference": "Leviticus 4:4",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Leviticus 4:5",
+          "identical": false,
+          "similarity": 0.848485
+        },
+        {
+          "reference": "Leviticus 4:6",
+          "identical": false,
+          "similarity": 0.754717
+        },
+        {
+          "reference": "Leviticus 4:7",
+          "identical": false,
+          "similarity": 0.804124
+        },
+        {
+          "reference": "Leviticus 4:8",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Leviticus 4:9",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Leviticus 4:10",
+          "identical": false,
+          "similarity": 0.517241
+        },
+        {
+          "reference": "Leviticus 4:11",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Leviticus 4:12",
+          "identical": false,
+          "similarity": 0.773333
+        },
+        {
+          "reference": "Leviticus 4:13",
+          "identical": false,
+          "similarity": 0.271186
+        },
+        {
+          "reference": "Leviticus 4:14",
+          "identical": false,
+          "similarity": 0.836364
+        },
+        {
+          "reference": "Leviticus 4:15",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 4:16",
+          "identical": false,
+          "similarity": 0.83871
+        },
+        {
+          "reference": "Leviticus 4:17",
+          "identical": false,
+          "similarity": 0.883721
+        },
+        {
+          "reference": "Leviticus 4:18",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 4:19",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Leviticus 4:20",
+          "identical": false,
+          "similarity": 0.767123
+        },
+        {
+          "reference": "Leviticus 4:21",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Leviticus 4:22",
+          "identical": false,
+          "similarity": 0.533333
+        },
+        {
+          "reference": "Leviticus 4:23",
+          "identical": false,
+          "similarity": 0.809524
+        },
+        {
+          "reference": "Leviticus 4:24",
+          "identical": false,
+          "similarity": 0.821429
+        },
+        {
+          "reference": "Leviticus 4:25",
+          "identical": false,
+          "similarity": 0.710526
+        },
+        {
+          "reference": "Leviticus 4:26",
+          "identical": false,
+          "similarity": 0.647059
+        },
+        {
+          "reference": "Leviticus 4:27",
+          "identical": false,
+          "similarity": 0.553191
+        },
+        {
+          "reference": "Leviticus 4:28",
+          "identical": false,
+          "similarity": 0.595745
+        },
+        {
+          "reference": "Leviticus 4:29",
+          "identical": false,
+          "similarity": 0.488889
+        },
+        {
+          "reference": "Leviticus 4:30",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Leviticus 4:31",
+          "identical": false,
+          "similarity": 0.631579
+        },
+        {
+          "reference": "Leviticus 4:32",
+          "identical": false,
+          "similarity": 0.810811
+        },
+        {
+          "reference": "Leviticus 4:33",
+          "identical": false,
+          "similarity": 0.705882
+        },
+        {
+          "reference": "Leviticus 4:34",
+          "identical": false,
+          "similarity": 0.717949
+        },
+        {
+          "reference": "Leviticus 4:35",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Leviticus 5:1",
+          "identical": false,
+          "similarity": 0.52459
+        },
+        {
+          "reference": "Leviticus 5:2",
+          "identical": false,
+          "similarity": 0.529412
+        },
+        {
+          "reference": "Leviticus 5:3",
+          "identical": false,
+          "similarity": 0.431373
+        },
+        {
+          "reference": "Leviticus 5:4",
+          "identical": false,
+          "similarity": 0.493506
+        },
+        {
+          "reference": "Leviticus 5:5",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Leviticus 5:6",
+          "identical": false,
+          "similarity": 0.619718
+        },
+        {
+          "reference": "Leviticus 5:7",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 5:8",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Leviticus 5:9",
+          "identical": false,
+          "similarity": 0.65625
+        },
+        {
+          "reference": "Leviticus 5:10",
+          "identical": false,
+          "similarity": 0.634921
+        },
+        {
+          "reference": "Leviticus 5:11",
+          "identical": false,
+          "similarity": 0.597938
+        },
+        {
+          "reference": "Leviticus 5:12",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 5:13",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Leviticus 5:14",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 5:15",
+          "identical": false,
+          "similarity": 0.597701
+        },
+        {
+          "reference": "Leviticus 5:16",
+          "identical": false,
+          "similarity": 0.635294
+        },
+        {
+          "reference": "Leviticus 5:17",
+          "identical": false,
+          "similarity": 0.363636
+        },
+        {
+          "reference": "Leviticus 5:18",
+          "identical": false,
+          "similarity": 0.642857
+        },
+        {
+          "reference": "Leviticus 5:19",
+          "identical": false,
+          "similarity": 0.592593
+        },
+        {
+          "reference": "Leviticus 6:1",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 6:2",
+          "identical": false,
+          "similarity": 0.644068
+        },
+        {
+          "reference": "Leviticus 6:3",
+          "identical": false,
+          "similarity": 0.682927
+        },
+        {
+          "reference": "Leviticus 6:4",
+          "identical": false,
+          "similarity": 0.354839
+        },
+        {
+          "reference": "Leviticus 6:5",
+          "identical": false,
+          "similarity": 0.516129
+        },
+        {
+          "reference": "Leviticus 6:6",
+          "identical": false,
+          "similarity": 0.576923
+        },
+        {
+          "reference": "Leviticus 6:7",
+          "identical": false,
+          "similarity": 0.52
+        },
+        {
+          "reference": "Leviticus 6:8",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 6:9",
+          "identical": false,
+          "similarity": 0.684932
+        },
+        {
+          "reference": "Leviticus 6:10",
+          "identical": false,
+          "similarity": 0.773333
+        },
+        {
+          "reference": "Leviticus 6:11",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 6:12",
+          "identical": false,
+          "similarity": 0.674699
+        },
+        {
+          "reference": "Leviticus 6:13",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Leviticus 6:14",
+          "identical": false,
+          "similarity": 0.837209
+        },
+        {
+          "reference": "Leviticus 6:15",
+          "identical": false,
+          "similarity": 0.481928
+        },
+        {
+          "reference": "Leviticus 6:16",
+          "identical": false,
+          "similarity": 0.819672
+        },
+        {
+          "reference": "Leviticus 6:17",
+          "identical": false,
+          "similarity": 0.84375
+        },
+        {
+          "reference": "Leviticus 6:18",
+          "identical": false,
+          "similarity": 0.596491
+        },
+        {
+          "reference": "Leviticus 6:19",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 6:20",
+          "identical": false,
+          "similarity": 0.860465
+        },
+        {
+          "reference": "Leviticus 6:21",
+          "identical": false,
+          "similarity": 0.645161
+        },
+        {
+          "reference": "Leviticus 6:22",
+          "identical": false,
+          "similarity": 0.385965
+        },
+        {
+          "reference": "Leviticus 6:23",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Leviticus 6:24",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 6:25",
+          "identical": false,
+          "similarity": 0.626866
+        },
+        {
+          "reference": "Leviticus 6:26",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 6:27",
+          "identical": false,
+          "similarity": 0.703704
+        },
+        {
+          "reference": "Leviticus 6:28",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Leviticus 6:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 6:30",
+          "identical": false,
+          "similarity": 0.688525
+        },
+        {
+          "reference": "Leviticus 7:1",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Leviticus 7:2",
+          "identical": false,
+          "similarity": 0.603774
+        },
+        {
+          "reference": "Leviticus 7:3",
+          "identical": false,
+          "similarity": 0.733333
+        },
+        {
+          "reference": "Leviticus 7:4",
+          "identical": false,
+          "similarity": 0.73913
+        },
+        {
+          "reference": "Leviticus 7:5",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 7:6",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 7:7",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Leviticus 7:8",
+          "identical": false,
+          "similarity": 0.444444
+        },
+        {
+          "reference": "Leviticus 7:9",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Leviticus 7:10",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 7:11",
+          "identical": false,
+          "similarity": 0.466667
+        },
+        {
+          "reference": "Leviticus 7:12",
+          "identical": false,
+          "similarity": 0.771429
+        },
+        {
+          "reference": "Leviticus 7:13",
+          "identical": false,
+          "similarity": 0.263158
+        },
+        {
+          "reference": "Leviticus 7:14",
+          "identical": false,
+          "similarity": 0.526316
+        },
+        {
+          "reference": "Leviticus 7:15",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Leviticus 7:16",
+          "identical": false,
+          "similarity": 0.8125
+        },
+        {
+          "reference": "Leviticus 7:17",
+          "identical": false,
+          "similarity": 0.588235
+        },
+        {
+          "reference": "Leviticus 7:18",
+          "identical": false,
+          "similarity": 0.511111
+        },
+        {
+          "reference": "Leviticus 7:19",
+          "identical": false,
+          "similarity": 0.807692
+        },
+        {
+          "reference": "Leviticus 7:20",
+          "identical": false,
+          "similarity": 0.326531
+        },
+        {
+          "reference": "Leviticus 7:21",
+          "identical": false,
+          "similarity": 0.619718
+        },
+        {
+          "reference": "Leviticus 7:22",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 7:23",
+          "identical": false,
+          "similarity": 0.580645
+        },
+        {
+          "reference": "Leviticus 7:24",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 7:25",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Leviticus 7:26",
+          "identical": false,
+          "similarity": 0.466667
+        },
+        {
+          "reference": "Leviticus 7:27",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Leviticus 7:28",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 7:29",
+          "identical": false,
+          "similarity": 0.416667
+        },
+        {
+          "reference": "Leviticus 7:30",
+          "identical": false,
+          "similarity": 0.57971
+        },
+        {
+          "reference": "Leviticus 7:31",
+          "identical": false,
+          "similarity": 0.731707
+        },
+        {
+          "reference": "Leviticus 7:32",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Leviticus 7:33",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 7:34",
+          "identical": false,
+          "similarity": 0.691358
+        },
+        {
+          "reference": "Leviticus 7:35",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Leviticus 7:36",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 7:37",
+          "identical": false,
+          "similarity": 0.68
+        },
+        {
+          "reference": "Leviticus 7:38",
+          "identical": false,
+          "similarity": 0.792453
+        }
+      ]
+    }
+  }
+}
