@@ -1,0 +1,354 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T11:40:18.015989+00:00",
+  "base_commit": "261f9177666af1d8abf9c3f5723327a0f8057d60",
+  "scope": "Exodus 9–11; 74 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 66,
+    "verses": 1925
+  },
+  "source_record_count": 1213,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "9:3": [
+      "LORD’s hand",
+      "in the fields",
+      "horses, donkeys, camels, cattle, sheep, and goats"
+    ],
+    "9:4": [
+      "Not one animal"
+    ],
+    "9:5": [
+      "Tomorrow"
+    ],
+    "9:6": [
+      "All Egypt’s livestock died",
+      "not one animal"
+    ],
+    "9:8": [
+      "soot from a kiln",
+      "Moses is to throw"
+    ],
+    "9:9": [
+      "people and animals"
+    ],
+    "9:11": [
+      "could not stand",
+      "all the Egyptians"
+    ],
+    "9:12": [
+      "LORD hardened"
+    ],
+    "9:14": [
+      "your very heart",
+      "your servants",
+      "your people"
+    ],
+    "9:15": [
+      "could have",
+      "wiping you"
+    ],
+    "9:16": [
+      "kept you standing",
+      "my power",
+      "my name"
+    ],
+    "9:17": [
+      "set yourself above"
+    ],
+    "9:18": [
+      "About this time tomorrow"
+    ],
+    "9:19": [
+      "shelter",
+      "Every person or animal",
+      "die"
+    ],
+    "9:20": [
+      "feared",
+      "slaves and livestock"
+    ],
+    "9:21": [
+      "did not take",
+      "slaves and livestock"
+    ],
+    "9:23": [
+      "thunder and hail",
+      "fire"
+    ],
+    "9:25": [
+      "people and animals",
+      "every plant",
+      "every tree"
+    ],
+    "9:26": [
+      "Goshen"
+    ],
+    "9:27": [
+      "This time I have sinned",
+      "righteous"
+    ],
+    "9:28": [
+      "God’s thunder"
+    ],
+    "9:29": [
+      "spread out my hands",
+      "earth belongs to the LORD"
+    ],
+    "9:30": [
+      "not yet fear"
+    ],
+    "9:31": [
+      "flax and barley",
+      "barley was in the ear",
+      "flax was in bud"
+    ],
+    "9:32": [
+      "wheat and spelt",
+      "not struck down",
+      "ripen later"
+    ],
+    "9:34": [
+      "he sinned again",
+      "He and his servants hardened their hearts"
+    ],
+    "9:35": [
+      "heart remained hard"
+    ],
+    "10:1": [
+      "I have hardened",
+      "his servants’ hearts"
+    ],
+    "10:2": [
+      "son and your grandson",
+      "mockery",
+      "you all"
+    ],
+    "10:5": [
+      "hail left"
+    ],
+    "10:6": [
+      "fathers nor their fathers"
+    ],
+    "10:7": [
+      "snare",
+      "Let the men go"
+    ],
+    "10:9": [
+      "young and old",
+      "sons and daughters",
+      "flocks and herds"
+    ],
+    "10:10": [
+      "little ones",
+      "evil lies ahead"
+    ],
+    "10:11": [
+      "You men",
+      "driven out"
+    ],
+    "10:13": [
+      "east wind",
+      "all that day and all night",
+      "Morning"
+    ],
+    "10:15": [
+      "Nothing green remained"
+    ],
+    "10:17": [
+      "forgive my sin",
+      "just this once",
+      "only this death"
+    ],
+    "10:19": [
+      "west wind",
+      "Sea of Reeds",
+      "Not one locust"
+    ],
+    "10:20": [
+      "LORD hardened"
+    ],
+    "10:21": [
+      "darkness that can be felt"
+    ],
+    "10:22": [
+      "three days"
+    ],
+    "10:23": [
+      "three days",
+      "all the Israelites had light"
+    ],
+    "10:24": [
+      "flocks and herds must stay",
+      "little ones may go"
+    ],
+    "10:25": [
+      "You yourself",
+      "burnt offerings"
+    ],
+    "10:26": [
+      "Not a hoof",
+      "will not know",
+      "until we get there"
+    ],
+    "10:27": [
+      "LORD hardened",
+      "Pharaoh was unwilling"
+    ],
+    "10:28": [
+      "see my face",
+      "you will die"
+    ],
+    "10:29": [
+      "not see your face again"
+    ],
+    "11:1": [
+      "one more plague",
+      "drive you out completely"
+    ],
+    "11:2": [
+      "silver and gold",
+      "each man",
+      "each woman"
+    ],
+    "11:4": [
+      "About midnight"
+    ],
+    "11:5": [
+      "Every firstborn",
+      "slave woman",
+      "mill",
+      "animals"
+    ],
+    "11:6": [
+      "great cry"
+    ],
+    "11:7": [
+      "dog",
+      "person or an animal",
+      "you all"
+    ],
+    "11:8": [
+      "bow before me",
+      "Moses left Pharaoh in fierce anger"
+    ],
+    "11:10": [
+      "LORD hardened"
+    ]
+  },
+  "source_annotations_10_1_and_11_8_hashed_in_full": true,
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read every Hebrew verse, drafted from that source with supplemental grammatical notes, read all TSW comparators, and reread the assembled English. Final corrections restored the height image in 9:17 and the fathers/fathers repetition in 10:6. Focused checks cover animal and crop scope, wind directions, intervals, explicit hardening agents, restricted household departure, firstborn harm, and the transition at 11:1–8. This is not independent editorial review.",
+  "exodus_source_references_unique_through_11": 284,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

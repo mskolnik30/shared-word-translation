@@ -4,140 +4,126 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-9-11-biblical-fluency-2026-09-11
 ---
 
-# Exodus 10
+## A story for the next generation
 
 <p>
-v01: Then the LORD said to Moses, “Go to Pharaoh, for I have made his heart heavy, and the hearts of his servants, so that I may set these signs of mine among them,
+v01: The LORD said to Moses, “Go to Pharaoh. I have hardened his heart and his servants’ hearts so that I may perform these signs among them,
+v02: and so that you may tell your son and your grandson how I made a mockery of Egypt and what signs I performed among them. Then you all will know that I am the LORD.”
+</p>
+
+## The locust warning
+
+<p>
+v03: Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of the Hebrews, says: ‘How long will you refuse to humble yourself before me? Let my people go so they may serve me.
+v04: If you refuse to let my people go, tomorrow I will bring locusts into your territory.
+v05: They will cover the face of the land so no one can see the ground. They will eat whatever the hail left for you, and every tree growing in your fields.
+v06: They will fill your houses, all your servants’ houses, and every Egyptian house—something neither your fathers nor their fathers have seen in all their days on the earth.’” Then Moses turned and left Pharaoh.
 </p>
 
 <p>
-v02: and so that you may recount in the hearing of your child and of your child’s child how I dealt harshly with Egypt, and my signs that I set among them, and you may know that I am the LORD.”
+v07: Pharaoh’s servants said to him, “How long will this man be a snare to us? Let the men go to serve the LORD their God. Do you still not realize that Egypt is ruined?”
 </p>
 
 <p>
-v03: So Moses and Aaron came to Pharaoh and said to him, “Thus says the LORD, the God of the Hebrews: How long will you refuse to humble yourself before me? Send my people away, that they may serve me.
+v08: Moses and Aaron were brought back to Pharaoh. “Go and serve the LORD your God,” he said. “But exactly who is going?”
 </p>
 
 <p>
-v04: For if you refuse to send my people away, look, tomorrow I will bring locusts into your territory.
+v09: Moses answered, “We will go with our young and old, our sons and daughters, our flocks and herds. We have a festival to keep for the LORD.”
 </p>
 
 <p>
-v05: They will cover the face of the land, so that no one will be able to see the land. They will eat the remainder of what escaped—the part left for you from the hail—and they will eat every tree that grows for you from the field.
+v10: Pharaoh said, “May the LORD be with you—if I ever let you and your little ones go! Watch out: evil lies ahead of you.
+v11: No! You men may go and serve the LORD, since that is what you are asking for.” Moses and Aaron were driven out of Pharaoh’s presence.
+</p>
+
+## Locusts consume what the hail left
+
+<p>
+v12: The LORD said to Moses, “Stretch out your hand over Egypt for the locusts to come up and eat every plant in the land, everything the hail has left.”
 </p>
 
 <p>
-v06: They will fill your houses, the houses of all your servants, and the houses of all Egypt—something your ancestors and your ancestors’ ancestors have never seen from the day they came to be upon the earth until this day.” Then he turned and went out from Pharaoh’s presence.
+v13: Moses stretched his staff over Egypt, and the LORD drove an east wind across the land all that day and all night. Morning came, and the east wind had carried in the locusts.
+v14: The locusts spread over all Egypt and settled throughout its territory in a vast swarm. There had never been locusts like them before, and there would never be again.
+v15: They covered the face of the whole land until it was dark. They ate every plant and all the fruit on the trees that the hail had left. Nothing green remained on any tree or plant in the fields throughout Egypt.
 </p>
 
 <p>
-v07: Pharaoh’s servants said to him, “How long will this man be a snare to us? Send the men away, that they may serve the LORD their God. Do you not yet know that Egypt is ruined?”
+v16: Pharaoh hurriedly summoned Moses and Aaron. “I have sinned against the LORD your God and against you,” he said.
+v17: “Please forgive my sin just this once. Plead with the LORD your God to take only this death away from me.”
 </p>
 
 <p>
-v08: So Moses and Aaron were brought back to Pharaoh, and he said to them, “Go, serve the LORD your God. But who exactly are the ones going?”
+v18: Moses left Pharaoh and pleaded with the LORD.
+v19: The LORD changed the wind to a very strong west wind. It lifted the locusts and swept them into the Sea of Reeds. Not one locust remained anywhere in Egypt.
 </p>
 
 <p>
-v09: Moses said, “We will go with our young and our old; we will go with our sons and our daughters, with our flocks and our herds, for we have a festival of the LORD.”
+v20: But the LORD hardened Pharaoh’s heart, and he did not let the Israelites go.
+</p>
+
+## Darkness over Egypt
+
+<p>
+v21: The LORD said to Moses, “Stretch out your hand toward the sky so darkness comes over Egypt—darkness that can be felt.”
 </p>
 
 <p>
-v10: He said to them, “May LORD be with you in that way, if I send you and your little ones! See: disaster is before you.
+v22: Moses stretched his hand toward the sky, and deep darkness covered all Egypt for three days.
+v23: No one could see anyone else or rise from where they were for three days. But all the Israelites had light where they lived.
 </p>
 
 <p>
-v11: Not so! Go now, you men, and serve the LORD, for that is what you are seeking.” And he drove them from Pharaoh’s presence.
+v24: Pharaoh summoned Moses. “Go and serve the LORD,” he said. “Only your flocks and herds must stay behind. Even your little ones may go with you.”
 </p>
 
 <p>
-v12: Then the LORD said to Moses, “Stretch out your hand over the land of Egypt for the locusts, that they may come up over the land of Egypt and eat every plant of the land, all that the hail left.”
+v25: Moses answered, “You yourself must provide us with sacrifices and burnt offerings to present to the LORD our God.
+v26: Our livestock must go with us too. Not a hoof will be left behind. We must take from them what we need to serve the LORD our God, and we will not know how we are to serve the LORD until we get there.”
 </p>
 
 <p>
-v13: So Moses stretched out his staff over the land of Egypt, and the LORD drove an east wind over the land all that day and all that night. When morning came, the east wind had carried in the locusts.
+v27: But the LORD hardened Pharaoh’s heart, and Pharaoh was unwilling to let them go.
 </p>
 
 <p>
-v14: The locusts came up over all the land of Egypt and settled throughout all the territory of Egypt. They were very severe; never before had there been locusts like them, nor would there ever be again.
+v28: Pharaoh said to Moses, “Get away from me! Be warned: do not see my face again. The day you see my face, you will die.”
 </p>
 
 <p>
-v15: They covered the face of the whole land, and the land grew dark. They ate every plant of the land and all the fruit of the trees that the hail had left. Nothing green remained on any tree or among the plants of the field in all the land of Egypt.
-</p>
-
-<p>
-v16: Then Pharaoh hurried to call Moses and Aaron and said, “I have sinned against the LORD your God and against you.
-</p>
-
-<p>
-v17: Now, please, bear my sin just this once, and plead with the LORD your God, that he may remove from me only this death.”
-</p>
-
-<p>
-v18: So he went out from Pharaoh’s presence and pleaded with the LORD.
-</p>
-
-<p>
-v19: The LORD turned a very strong west wind, and it carried away the locusts and drove them into the Sea of Reeds. Not one locust remained in all the territory of Egypt.
-</p>
-
-<p>
-v20: But the LORD strengthened Pharaoh’s heart, and he did not send the Israelites away.
-</p>
-
-<p>
-v21: Then the LORD said to Moses, “Stretch out your hand toward the heavens, that there may be darkness over the land of Egypt—a darkness that can be felt.”
-</p>
-
-<p>
-v22: So Moses stretched out his hand toward the heavens, and there was thick darkness throughout all the land of Egypt for three days.
-</p>
-
-<p>
-v23: No one saw another, and no one rose from where they were for three days; but all the Israelites had light in their dwellings.
-</p>
-
-<p>
-v24: Then Pharaoh called Moses and said, “Go, serve the LORD. Only your flocks and your herds must remain behind. Your little ones may also go with you.”
-</p>
-
-<p>
-v25: Yet Moses said, “You yourself must also put sacrifices and burnt offerings into our hands, and we will offer them to the LORD our God.
-</p>
-
-<p>
-v26: Our livestock too must go with us; not a hoof will remain behind. For from it we must take to serve the LORD our God, and we do not know with what we must serve the LORD until we arrive there.”
-</p>
-
-<p>
-v27: But the LORD strengthened Pharaoh’s heart, and he was unwilling to send them away.
-</p>
-
-<p>
-v28: Pharaoh said to him, “Go away from me! Watch yourself—do not ever again see my face, for on the day you see my face, you will die.”
-</p>
-
-<p>
-v29: Moses said, “You have spoken rightly. I will never again see your face.”
+v29: Moses answered, “As you say. I will not see your face again.”
 </p>
 
 ## Notes
 
-v21: The final Hebrew phrase is difficult and vivid, literally, “and darkness may be felt.”
+v1–2: God’s stated purposes include both the signs and their retelling. The Hebrew addresses one storyteller, names his son and grandson, then shifts to ‘you’ in the plural for knowing the LORD.
+
+v2: ‘Made a mockery of’ can also mean ‘dealt harshly with.’ The verb retains a force stronger than simply ‘did things in Egypt.’
+
+v5, 15: Literally, ‘the eye of the land’: its visible surface. The locusts consume what the hail had left, connecting the two accounts.
+
+v10–11, 24: Pharaoh’s wish that the LORD be with them is sarcastic in context. ‘Evil lies ahead of you’ may threaten harm or accuse them of evil intentions. His restrictions change from men alone to allowing the little ones while holding back the livestock.
+
+v19: Sea of Reeds renders Yam Suph, traditionally called the Red Sea. The name alone does not settle the route or identify the later crossing site.
+
+v21–23: The text describes darkness that can be felt and repeats the three-day period. It does not identify a storm or other physical mechanism.
+
+v25–26: Moses demands provision for sacrifices and insists that all their livestock go too. ‘Not a hoof’ preserves the concrete image of leaving no animal behind.
 
 ## Vocabulary
 
-v01: לֵב (lev)
-“heart.” In this chapter the heart is the center of Pharaoh’s resolve and perception. Yahweh makes Pharaoh’s heart “heavy” and later “strengthens” it, language that heightens the tension between divine action and Pharaoh’s refusal.
+v7: Snare — moqesh
+A trap; here the court’s image for a source of danger and ruin.
 
-v02: אוֹת (ʾot)
-“sign.” Yahweh’s signs in Egypt reveal who Yahweh is. Their purpose includes memory Israel is to tell of them from one generation to the next.
+v10, 24: Little ones — taph
+The younger and dependent members of the household, contrasted here with the men allowed to leave.
 
-v02: עָלַל (ʿalal)
-“To deal harshly with” or “make sport of.” The verb describes the LORD’s forceful dealing with Egypt.
-
-v03: עָבַד (ʿavad)
-“serve.” The word can describe labor or worship. Israel is commanded to leave Pharaoh’s service in order to serve Yahweh, making liberation and worship inseparable in the passage.
+v25: Burnt offering — ʿolah
+An offering burned on the altar, distinctively named alongside other sacrifices.

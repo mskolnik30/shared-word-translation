@@ -226,7 +226,7 @@
         "blob_sha": "4862661f77332460fd90229ad6751957cb1ee30f"
       }
     },
-    "status": "HISTORICAL_FOR_REVISED_CHAPTERS_1_TO_8"
+    "status": "HISTORICAL_FOR_REVISED_CHAPTERS_1_TO_11"
   },
   "publication_allowed": false,
   "editorial_review_pending_chapters": [
@@ -237,7 +237,10 @@
     5,
     6,
     7,
-    8
+    8,
+    9,
+    10,
+    11
   ],
   "revision_batches": [
     {
@@ -415,20 +418,80 @@
       ],
       "versification_note": "Public 7:1–25 = Hebrew 7:1–25; public 8:1–4 = Hebrew 7:26–29; public 8:5–32 = Hebrew 8:1–28.",
       "note": "Chapters 7–8 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
+    },
+    {
+      "id": "fluent-exodus-9-11-biblical-fluency-2026-09-11",
+      "chapters": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 74,
+      "verse_ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
+      "editorial_status": "REVIEW_PENDING",
+      "prior_record": {
+        "commit": "261f9177666af1d8abf9c3f5723327a0f8057d60",
+        "path": "audit/exegetical-core/fluent-production/exodus/EXODUS_FLUENT_BOOK_QA.json"
+      },
+      "previous_batch_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "not_yet_revised_chapters": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "versification_note": "Public and Hebrew verse numbering align throughout Exodus 9–11.",
+      "note": "Chapters 9–11 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
     }
   ],
   "current_revision": {
-    "id": "fluent-exodus-7-8-biblical-fluency-2026-09-11",
+    "id": "fluent-exodus-9-11-biblical-fluency-2026-09-11",
     "chapters": [
-      7,
-      8
+      9,
+      10,
+      11
     ],
-    "verse_count": 57,
-    "verse_ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+    "verse_count": 74,
+    "verse_ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
     "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
     "editorial_status": "REVIEW_PENDING",
     "prior_record": {
-      "commit": "edf306f499fd56e328c803b41a418606b8a7a0b3",
+      "commit": "261f9177666af1d8abf9c3f5723327a0f8057d60",
       "path": "audit/exegetical-core/fluent-production/exodus/EXODUS_FLUENT_BOOK_QA.json"
     },
     "previous_batch_chapters": [
@@ -437,12 +500,11 @@
       3,
       4,
       5,
-      6
+      6,
+      7,
+      8
     ],
     "not_yet_revised_chapters": [
-      9,
-      10,
-      11,
       12,
       13,
       14,
@@ -473,7 +535,7 @@
       39,
       40
     ],
-    "versification_note": "Public 7:1–25 = Hebrew 7:1–25; public 8:1–4 = Hebrew 7:26–29; public 8:5–32 = Hebrew 8:1–28.",
-    "note": "Chapters 7–8 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
+    "versification_note": "Public and Hebrew verse numbering align throughout Exodus 9–11.",
+    "note": "Chapters 9–11 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
   }
 }

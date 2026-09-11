@@ -4,136 +4,127 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-9-11-biblical-fluency-2026-09-11
 ---
 
+## A plague on the livestock
+
 <p>
-v01: Then the LORD said to Moses, “Go to Pharaoh and speak to him: ‘Thus says the LORD, the God of the Hebrews: Let my people go, that they may serve me.
-
-v02: For if you refuse to let them go and still hold them,
-
-v03: look: the hand of the LORD will be against your livestock in the field—against the horses, the donkeys, the camels, the herds, and the flocks—a very severe plague.
-
-v04: But the LORD will make a distinction between Israel’s livestock and Egypt’s livestock; not one thing belonging to the Israelites will die.’”
+v01: The LORD said to Moses, “Go to Pharaoh and tell him, ‘This is what the LORD, the God of the Hebrews, says: “Let my people go so they may serve me.
+v02: If you refuse to let them go and keep holding them,
+v03: the LORD’s hand will fall on your livestock in the fields—horses, donkeys, camels, cattle, sheep, and goats—with a very severe plague.
+v04: But the LORD will distinguish between Israel’s livestock and Egypt’s. Not one animal belonging to the Israelites will die.”’”
 </p>
 
 <p>
-v05: And the LORD set an appointed time, saying, “Tomorrow the LORD will do this thing in the land.”
-
-v06: The next day the LORD did this thing: all the livestock of Egypt died, but not one of the livestock of the Israelites died.
-
-v07: Pharaoh sent, and look: not even one of Israel’s livestock had died. But Pharaoh’s heart was hardened, and he did not let the people go.
+v05: The LORD set a time: “Tomorrow the LORD will do this in the land.”
 </p>
 
 <p>
-v08: Then the LORD said to Moses and Aaron, “Take for yourselves handfuls of soot from a furnace, and let Moses throw it toward the heavens in Pharaoh’s sight.
+v06: The next day the LORD did it. All Egypt’s livestock died, but not one animal belonging to the Israelites died.
+v07: Pharaoh sent people to find out, and indeed, not a single animal belonging to Israel had died. Yet Pharaoh’s heart was unyielding, and he did not let the people go.
+</p>
 
-v09: It will become fine dust over all the land of Egypt, and it will become festering boils on people and animals throughout all the land of Egypt.”
+## Boils on people and animals
+
+<p>
+v08: The LORD said to Moses and Aaron, “Fill your hands with soot from a kiln. Moses is to throw it toward the sky before Pharaoh’s eyes.
+v09: It will become fine dust over all Egypt and cause boils to break out in blisters on people and animals throughout the land.”
 </p>
 
 <p>
-v10: So they took soot from the furnace and stood before Pharaoh. Moses threw it toward the heavens, and it became festering boils on people and animals.
-
-v11: The magicians could not stand before Moses because of the boils, for the boils were on the magicians and on all the Egyptians.
-
-v12: But the LORD strengthened Pharaoh’s heart, and he did not listen to them, just as the LORD had spoken to Moses.
+v10: They took soot from the kiln and stood before Pharaoh. Moses threw it toward the sky, and boils broke out in blisters on people and animals.
+v11: The magicians could not stand before Moses because of the boils. They had broken out on the magicians and all the Egyptians.
 </p>
 
 <p>
-v13: Then the LORD said to Moses, “Rise early in the morning, stand before Pharaoh, and say to him, ‘Thus says the LORD, the God of the Hebrews: Let my people go, that they may serve me.
+v12: But the LORD hardened Pharaoh’s heart, and he did not listen to Moses and Aaron, just as the LORD had told Moses.
+</p>
 
-v14: For this time I am sending all my plagues against your heart, against your servants, and against your people, so that you may know that there is none like me in all the earth.
+## A warning of hail
 
-v15: For by now I could have stretched out my hand and struck you and your people with plague, and you would have been cut off from the earth.
-
-v16: Yet for this reason I have made you stand: to show you my power, and so that my name may be proclaimed in all the earth.
-
-v17: Do you still exalt yourself over my people, refusing to let them go?
-
-v18: Look: about this time tomorrow I will rain down very heavy hail, such as has never been in Egypt from the day it was founded until now.
-
-v19: Now send word; bring your livestock and all that you have in the field under shelter. Every person and animal found in the field and not gathered into the house—when the hail comes down on them—will die.’”
+<p>
+v13: The LORD said to Moses, “Rise early in the morning and stand before Pharaoh. Tell him, ‘This is what the LORD, the God of the Hebrews, says: “Let my people go so they may serve me.
+v14: This time I will send all my plagues against your very heart, and against your servants and your people, so you may know that there is no one like me in all the earth.
+v15: By now I could have stretched out my hand and struck you and your people with plague, wiping you from the earth.
+v16: But I have kept you standing for this purpose: to show you my power and have my name proclaimed throughout the earth.
+v17: You still set yourself above my people and refuse to let them go.
+v18: About this time tomorrow I will rain down hail so severe that Egypt has never seen its like, from the day it was founded until now.
 </p>
 
 <p>
-v20: Whoever among Pharaoh’s servants feared the word of the LORD brought their servants and livestock into the houses.
-
-v21: But whoever did not set their heart on the word of the LORD left their servants and livestock in the field.
+v19: Now send word to bring your livestock and everything you have in the fields into shelter. Every person or animal left outside and not brought indoors will be struck by hail and die.”’”
 </p>
 
 <p>
-v22: Then the LORD said to Moses, “Stretch out your hand toward the heavens, that there may be hail throughout all the land of Egypt—upon people, animals, and every plant of the field in the land of Egypt.”
+v20: Those among Pharaoh’s servants who feared the LORD’s word hurried their slaves and livestock indoors.
+v21: Those who did not take the LORD’s word to heart left their slaves and livestock in the fields.
+</p>
+
+## Hail and fire strike Egypt
+
+<p>
+v22: The LORD said to Moses, “Stretch out your hand toward the sky so hail falls throughout Egypt—on people, animals, and every plant in the fields.”
 </p>
 
 <p>
-v23: Moses stretched out his staff toward the heavens, and the LORD gave thunder and hail, and fire ran down to the earth. The LORD rained hail upon the land of Egypt.
-
-v24: There was hail, and fire flashing among the hail, very severe—such as had never been in all the land of Egypt since it became a nation.
-
-v25: The hail struck throughout all the land of Egypt everything that was in the field, from people to animals. The hail struck every plant of the field and shattered every tree of the field.
-
-v26: Only in the land of Goshen, where the Israelites were, was there no hail.
+v23: Moses stretched his staff toward the sky. The LORD sent thunder and hail, and fire flashed down to the earth. The LORD rained hail on Egypt.
+v24: Hail fell, with fire flashing through it. The storm was so severe that nothing like it had happened in Egypt since it became a nation.
+v25: Throughout Egypt the hail struck everything in the fields, both people and animals. It battered every plant in the fields and shattered every tree.
 </p>
 
 <p>
-v27: Then Pharaoh sent and called for Moses and Aaron. He said to them, “I have sinned this time. The LORD is righteous; I and my people are wicked.
-
-v28: Plead with the LORD, for there has been enough of God’s thunder and hail. I will let you go, and you will not remain any longer.”
-
-v29: Moses said to him, “When I have gone out of the city, I will spread out my hands to the LORD. The thunder will cease, and the hail will be no more, so that you may know that the earth belongs to the LORD.
-
-v30: But as for you and your servants, I know that you still will not fear the LORD God.”
+v26: Only Goshen, where the Israelites were, had no hail.
 </p>
 
 <p>
-v31: Now the flax and the barley were struck, for the barley was in ear and the flax was in bloom.
-
-v32: But the wheat and the spelt were not struck, for they were late crops.
+v27: Pharaoh sent for Moses and Aaron. “This time I have sinned,” he told them. “The LORD is righteous; my people and I are in the wrong.
+v28: Plead with the LORD. We have had enough of God’s thunder and hail! I will let you go; you will not have to stay any longer.”
 </p>
 
 <p>
-v33: Then Moses went out from Pharaoh, out of the city, and spread out his hands to the LORD. The thunder and the hail ceased, and rain did not pour down upon the earth.
+v29: Moses said, “As soon as I leave the city, I will spread out my hands to the LORD. The thunder will stop, and there will be no more hail, so you may know that the earth belongs to the LORD.
+v30: But I know that you and your servants do not yet fear the LORD God.”
+</p>
 
-v34: But when Pharaoh saw that the rain, the hail, and the thunder had ceased, he continued to sin, and he made his heart heavy—he and his servants.
+<p>
+v31: The flax and barley had been struck down: the barley was in the ear, and the flax was in bud.
+v32: But the wheat and spelt were not struck down because they ripen later.
+</p>
 
-v35: Pharaoh’s heart was strengthened, and he did not let the Israelites go, just as the LORD had spoken through Moses.
+<p>
+v33: Moses left Pharaoh and went out of the city. He spread out his hands to the LORD, and the thunder and hail stopped. Rain no longer poured onto the earth.
+</p>
+
+<p>
+v34: When Pharaoh saw that the rain, hail, and thunder had stopped, he sinned again. He and his servants hardened their hearts.
+v35: Pharaoh’s heart remained hard, and he did not let the Israelites go, just as the LORD had said through Moses.
 </p>
 
 ## Notes
 
-v04–07: **9:4, 6–7:** The narrative emphasizes a distinction between Egypt’s livestock and Israel’s livestock. Pharaoh verifies the report, yet his investigation does not lead him to release the people.
+v3, 6, 19: The warning in verse 3 specifies livestock in the fields. Verse 6 says ‘all’ Egypt’s livestock died, while later verses again mention livestock. The wording of each verse is retained; the text does not describe how later animals were obtained.
 
-v12: **9:12:** “The LORD strengthened Pharaoh’s heart” uses language distinct from Pharaoh’s own hardening of his heart in verses 7 and 34. The chapter preserves both divine action and Pharaoh’s continuing refusal without explaining away their tension.
+v12, 34–35: Verse 12 names the LORD as hardening Pharaoh’s heart. Verse 34 includes Pharaoh and his servants in hardening; verse 35 describes Pharaoh’s hardened state. These different formulations remain distinct.
 
-v14: **9:14:** “Against your heart” is more forceful than a reference merely to Pharaoh’s body or possessions. In biblical Hebrew, the heart is the center of will, understanding, and resolve.
+v14–16: The warning speaks of plagues against Pharaoh’s ‘heart.’ ‘Kept you standing’ may mean spared or allowed to remain, or established in place; the translation keeps the bodily image.
 
-v15–16: **9:15–16:** The speech holds together judgment and restraint: Pharaoh could have been cut off, yet he is allowed to remain so that the LORD’s power may be shown and the LORD’s name proclaimed.
+v20–21, 30: Some of Pharaoh’s servants act out of fear of the LORD’s word, while others do not. Moses’ later statement to Pharaoh and his servants is retained without erasing this earlier distinction.
 
-v20–21: **9:20–21:** Some of Pharaoh’s servants fear the LORD’s word and act to protect their households and livestock. The text marks a real response within Egypt, even while Pharaoh remains resistant.
+v23–24, 28: The storm is described with ‘fire,’ commonly understood as lightning. ‘God’s thunder’ in verse 28 can also be understood as exceptionally mighty thunder.
 
-v23–24: **9:23–24:** “Thunder” is literally “voices” or “sounds.” The repeated language gives the storm an auditory as well as visible force: hail falls while fire moves within it.
-
-v27–30: **9:27–30:** Pharaoh’s confession names the LORD as righteous and himself and his people as wicked. Moses nevertheless knows that fear of the LORD has not yet taken root in Pharaoh and his servants.
-
-v31–32: **9:31–32:** The brief crop report explains why the hail destroyed some crops but not others. Barley and flax had already matured enough to be damaged, while wheat and spelt ripened later.
+v31–32: The crop notice explains why flax and barley were struck while wheat and the grain traditionally called spelt survived. The exact identification of that latter ancient grain is uncertain.
 
 ## Vocabulary
 
-v04: **9:4 — פָּלָה (*pālāh*):** “Make a distinction.” The LORD’s distinction between Israel’s livestock and Egypt’s livestock makes the plague a sign of discernment, not indiscriminate disaster.
+v3: Plague — dever
+A destructive outbreak of disease; here it strikes livestock.
 
-v12: חָזַק (ḥāzaq)
-“Strengthen.” Applied to Pharaoh’s heart, the word describes the reinforcing of his settled resistance.
+v20–21: Servants and slaves — ʿavadim
+The same Hebrew word can describe royal officials or people under another’s control. Here Pharaoh’s servants make decisions affecting their own slaves.
 
-v14: מַגֵּפָה (maggēpâ)
-“Plague” or “blow.” Here the plural, “my plagues,” gathers the judgments into a direct confrontation with Pharaoh’s heart.
-
-v16: **9:16 — כֹּחַ (*kōaḥ*):** “Power.” The LORD’s power is displayed in the preservation of Pharaoh as well as in the judgment brought upon Egypt.
-
-v17: **9:17 — סָלַל (*sālal*):** “Exalt oneself” or “raise oneself up.” Pharaoh’s refusal is portrayed as self-exaltation over the people whom the LORD claims as “my people.”
-
-v24: **9:24 — מִתְלַקַּחַת (*mitlaqqaḥat*):** “Flashing” or “seizing itself.” The word depicts fire moving or flashing within the hail, intensifying the storm’s terrifying imagery.
-
-v27: צַדִּיק (ṣaddîq)
-“Righteous.” Pharaoh acknowledges that the LORD is in the right, in contrast to himself and his people as “wicked.”
-
-v04: פָּלָה (pālāh)
-“Make a distinction.” The LORD’s distinction between Israel’s livestock and Egypt’s livestock makes the plague a sign of discernment, not indiscriminate disaster.
+v27: Righteous — tsaddiq
+In the right. Pharaoh contrasts the LORD’s rightness with his own and his people’s wrongdoing.

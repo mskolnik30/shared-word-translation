@@ -2,185 +2,100 @@
   "book": "Exodus",
   "chapter": 11,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
+  "publication_allowed": false,
+  "revision_id": "fluent-exodus-9-11-biblical-fluency-2026-09-11",
+  "supersedes": {
+    "commit": "261f9177666af1d8abf9c3f5723327a0f8057d60",
+    "path": "audit/exegetical-core/fluent-production/exodus/Exodus_11_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Exod",
+    "book_verse_count": 1213,
+    "scope_chapters": [
+      9,
+      10,
+      11
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Exod.xml",
-    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Exod.xml",
     "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Exodus 11:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 1,
-            "source_ref": "Exodus 11:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "879ee7ac7017ad0ac164c4407d76bebdeecbfd28e4c3d5e5f3691e753245d7f6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "879ee7ac7017ad0ac164c4407d76bebdeecbfd28e4c3d5e5f3691e753245d7f6"
-      },
-      "2": {
-        "source_ref": "Exodus 11:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 2,
-            "source_ref": "Exodus 11:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "4bb9210d7d0a4b3c3e222f3677c93406f181820ba1c950cacd759b01d047c573"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4bb9210d7d0a4b3c3e222f3677c93406f181820ba1c950cacd759b01d047c573"
-      },
-      "3": {
-        "source_ref": "Exodus 11:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 3,
-            "source_ref": "Exodus 11:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "9325c53623a180c9cd7c798aec527ffda443eaadb33fa7daedd8e864c14534bd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9325c53623a180c9cd7c798aec527ffda443eaadb33fa7daedd8e864c14534bd"
-      },
-      "4": {
-        "source_ref": "Exodus 11:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 4,
-            "source_ref": "Exodus 11:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e71975283586f9b722be6bc73af4be9eeb525cb893a4f0d2d456db03c0b16f6c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e71975283586f9b722be6bc73af4be9eeb525cb893a4f0d2d456db03c0b16f6c"
-      },
-      "5": {
-        "source_ref": "Exodus 11:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 5,
-            "source_ref": "Exodus 11:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "359ec245953827cba7b79259dae5b71ed2729658d3e05a98a2f6ae0c1ed304aa"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "359ec245953827cba7b79259dae5b71ed2729658d3e05a98a2f6ae0c1ed304aa"
-      },
-      "6": {
-        "source_ref": "Exodus 11:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 6,
-            "source_ref": "Exodus 11:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "2249620195ad717c0c2ca1af20cc8e48b1b320ebbabfcfcedc01a77c1df3398e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2249620195ad717c0c2ca1af20cc8e48b1b320ebbabfcfcedc01a77c1df3398e"
-      },
-      "7": {
-        "source_ref": "Exodus 11:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 7,
-            "source_ref": "Exodus 11:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a585800c1d7a3a4447a4add099622e3fcecd2aa258f7f4c5b7951bb1eeeebea7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a585800c1d7a3a4447a4add099622e3fcecd2aa258f7f4c5b7951bb1eeeebea7"
-      },
-      "8": {
-        "source_ref": "Exodus 11:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 8,
-            "source_ref": "Exodus 11:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "ce36765292030930562e2d8f41eb65abd4c6e608c552e23fdd3ff4370a3711ff"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ce36765292030930562e2d8f41eb65abd4c6e608c552e23fdd3ff4370a3711ff"
-      },
-      "9": {
-        "source_ref": "Exodus 11:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 9,
-            "source_ref": "Exodus 11:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "be24936da9408f0083c41ad3131dcc685a782c55fa08f9503d179fd99f100cc4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "be24936da9408f0083c41ad3131dcc685a782c55fa08f9503d179fd99f100cc4"
-      },
-      "10": {
-        "source_ref": "Exodus 11:10 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 11,
-            "verse": 10,
-            "source_ref": "Exodus 11:10 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "5f981a11d0bf0a2e996cc0a3949ecbde73901aa4c2e912c186d1e4e4aea84e6e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5f981a11d0bf0a2e996cc0a3949ecbde73901aa4c2e912c186d1e4e4aea84e6e"
-      }
+    "sha256": "5e53e6841562f2c7af6756984a643b05628b29c39dc690d914dce6c70c6c38cb",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Exod.xml",
+    "verse_hash_method": "SHA-256 of the exact original XML verse substring, including written/read notes, not a normalized substitute.",
+    "public_versification_note": "Public and Hebrew verse numbering align throughout Exodus 9–11."
+  },
+  "chapter_binding": {
+    "chapter": 11,
+    "verse_count": 10,
+    "path": "translations/fluent/OT/exodus/Exodus_11.md",
+    "before_sha256": "92f8d2b58623305b586e881d357d553e4b966f25fe682f3a9ee1c26400d25c27",
+    "after_sha256": "7f29cdf02a4e297807111dcb0b2e76ffc26703c4c5e484797a2cce6cce70b01f",
+    "tsw_comparator_path": "books/OT/exodus/Exodus_11.md",
+    "tsw_comparator_sha256": "0d14c594c67a090a925022244b6a9d04561726feb87759eb485b406efd7a4919"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+  "public_versification": {
+    "1–10": "Exod 11:1–10"
+  },
+  "key_decisions": [
+    {
+      "location": "Exodus 11:1",
+      "delta": "F3",
+      "decision": "Treats the divine notice as background to the final exchange, with the temporal choice noted; preserves one more and emphatic complete expulsion.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Exodus 11:2",
+      "delta": "F3",
+      "decision": "Retains the matched male and female relationships and ask rather than borrow, without adding clothing not named in this verse.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Exodus 11:3",
+      "delta": "F3",
+      "decision": "Keeps the LORD’s favor-giving and Moses’ public stature as distinct observations, leaving the last people referent open in a note.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Exodus 11:4",
+      "delta": "F3",
+      "decision": "Retains the approximate midnight and the LORD’s first-person movement within Moses’ reported message.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Exodus 11:5",
+      "delta": "F3",
+      "decision": "Preserves the full social range, the specifically enslaved woman and her labor, all firstborn animals, and death without euphemism.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Exodus 11:6",
+      "delta": "F3",
+      "decision": "Keeps the collective grief and its past-and-future uniqueness without presenting the deaths as an occasion for triumph.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Exodus 11:7",
+      "delta": "F3",
+      "decision": "Retains the dog image, both people and animals, and the plural knowing audience, closing the divine quotation before Moses speaks about himself.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Exodus 11:8",
+      "delta": "F3",
+      "decision": "Keeps Moses as the first-person speaker, the servants’ bowing, the departure demand, and Moses’ explicit anger rather than assigning it to Pharaoh.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Exodus 11:10",
+      "delta": "F3",
+      "decision": "Preserves the summary’s two performers, all wonders, divine hardening, and continuing refusal as the transition to the Passover account.",
+      "disposition": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/exodus/Exodus_11.md",
-    "blob_sha": "c5194fc5ada7a7c3da16addd6805492296057720"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

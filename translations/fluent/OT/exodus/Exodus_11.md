@@ -4,82 +4,64 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-9-11-biblical-fluency-2026-09-11
 ---
 
-<p>
-v01: 1
-Then the LORD said to Moses, “One more blow I will bring upon Pharaoh and upon Egypt. Afterward he will send you away from here. When he sends you away completely, he will drive you out from here.
+## One more plague
 
-v02: 2
-Speak, please, in the hearing of the people: let each man ask his neighbor, and each woman her neighbor, for articles of silver and articles of gold.”
+<p>
+v01: Now the LORD had said to Moses, “I will bring one more plague on Pharaoh and Egypt. After that he will let you go from here. When he does, he will drive you out completely.
+v02: Tell the people to ask for silver and gold articles—each man from his neighbor, and each woman from hers.”
 </p>
 
 <p>
-v03: 3
-And the LORD gave the people favor in the eyes of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the eyes of Pharaoh’s servants and in the eyes of the people.
+v03: The LORD gave the people favor in the Egyptians’ eyes. Moses himself was held in very high regard in Egypt, by Pharaoh’s servants and by the people.
+</p>
+
+## The warning about the firstborn
+
+<p>
+v04: Moses said, “This is what the LORD says: ‘About midnight I will go out through Egypt.
+v05: Every firstborn in Egypt will die, from the firstborn of Pharaoh, who sits on his throne, to the firstborn of the slave woman working at the mill, and every firstborn among the animals.
+v06: A great cry will rise throughout Egypt, unlike anything heard before or ever to be heard again.
+v07: Among the Israelites, though, not even a dog will growl at a person or an animal. Then you all will know that the LORD distinguishes between Egypt and Israel.’
 </p>
 
 <p>
-v04: 4
-Moses said, “Thus says the LORD: About midnight I will go out into the midst of Egypt,
-
-v05: 5
-and every firstborn in the land of Egypt will die, from the firstborn of Pharaoh sitting on his throne to the firstborn of the slave woman behind the millstones, and every firstborn of livestock.
-
-v06: 6
-There will be a great cry throughout all the land of Egypt, such as has never been and such as will never again be.
-
-v07: 7
-But against all the children of Israel, not even a dog will sharpen its tongue, against human or animal, so that you may know that the LORD makes a distinction between Egypt and Israel.
-
-v08: 8
-Then all these servants of yours will come down to me and bow down to me, saying, ‘Go out—you and all the people at your feet!’ After that I will go out.” And he went out from Pharaoh in burning anger.
+v08: All these servants of yours will come down to me and bow before me, saying, ‘Leave—you and all the people who follow you!’ After that, I will leave.” Then Moses left Pharaoh in fierce anger.
 </p>
 
-<p>
-v09: 9
-Then the LORD said to Moses, “Pharaoh will not listen to you, so that my signs may be multiplied in the land of Egypt.”
+## Pharaoh still refuses
 
-v10: 10
-Moses and Aaron performed all these signs before Pharaoh. But the LORD strengthened Pharaoh’s heart, and he did not send the children of Israel out of his land.
+<p>
+v09: The LORD said to Moses, “Pharaoh will not listen to you, so that my wonders may multiply in Egypt.”
+v10: Moses and Aaron performed all these wonders before Pharaoh. But the LORD hardened Pharaoh’s heart, and he did not let the Israelites leave his land.
 </p>
 
 ## Notes
 
-v01: **11:1 — “one more blow”:** The word translated “blow” can refer to an affliction or a striking. It gathers the coming death of the firstborn into the sequence of judgments already brought upon Pharaoh and Egypt.
+v1–3: ‘Had said’ treats this notice as background before the final speech to Pharaoh. Hebrew also permits the ordinary narrative ‘said.’ Moses’ departure is reported in verse 8.
 
-v02: **11:2 — “ask”:** The Hebrew verb ordinarily means “ask” or “request,” not necessarily “borrow.” The text presents the Israelites receiving silver and gold articles from their Egyptian neighbors as they prepare to leave.
+v2: As in 3:22, the verb means ‘ask,’ not necessarily ‘borrow.’ Both men and women are named here.
 
-v05: **11:5 — “the slave woman behind the millstones”:** The movement from Pharaoh on the throne to an enslaved woman at the grinding stones reaches across Egypt’s social order. The judgment described is not limited to the royal household.
+v3: The final phrase ‘the people’ does not explicitly identify Egyptians or Israelites; its wording is left open.
 
-v07: **11:7 — “not even a dog will sharpen its tongue”:** This vivid expression depicts complete quiet and absence of threat among Israel, in contrast to the great cry throughout Egypt.
+v5–6: The warning reaches from the royal household to an enslaved woman at a mill and includes animals. The great cry belongs to the account’s stated human cost.
 
-v08: **11:8 — “the people at your feet”:** The phrase may refer to those who follow Moses or are under his leadership. Its bodily image portrays the whole people gathered to depart with him.
+v7: Literally, a dog will not ‘sharpen its tongue’ against them. ‘Growl’ keeps the animal image while expressing the idiom.
 
-v10: **11:10 — “strengthened Pharaoh’s heart”:** The chapter closes by naming the LORD as the one who strengthened Pharaoh’s heart, while also recounting Pharaoh’s refusal to send Israel away. The narrative holds divine purpose and Pharaoh’s resistance together without explaining away either.
-
-v08: “the people at your feet”: The phrase may refer to those who follow Moses or are under his leadership.
+v8: The speech moves from the LORD’s first-person warning to Moses speaking of his own departure. The anger at the end is Moses’.
 
 ## Vocabulary
 
-v01: **11:1 — נֶגַע (*negaʿ*):** “Blow” or “affliction.” Here it names the final judgment that will compel Pharaoh not merely to release Israel but to drive them away.
+v1: Plague — negaʿ
+A blow or affliction, here the final one announced against Pharaoh and Egypt.
 
-v03: **11:3 — חֵן (*ḥēn*):** “Favor.” The LORD gives Israel favor in Egyptian eyes, reversing the expected relation between an enslaved people and the land that has oppressed them.
+v5: Firstborn — bekhor
+The first offspring, carrying particular family significance; the threat also names firstborn animals.
 
-v05: **11:5 — בְּכוֹר (*bekhôr*):** “Firstborn.” Repeated through the verse, the term marks the scope of the coming death across human households and livestock.
-
-v07: **11:7 — יַפְלֶה (*yapleh*):** “Makes a distinction” or “sets apart.” The verb emphasizes the LORD’s decisive differentiation between Egypt and Israel in this judgment.
-
-v09: **11:9 — מוֹפֵת (*môpēt*):** “Sign” or “wonder.” These acts are not merely displays of power; they make known the LORD’s purpose within Egypt.
-
-v01: נֶגַע (negaʿ)
-“Blow” or “affliction.” Here it names the final judgment that will compel Pharaoh not merely to release Israel but to drive them away.
-
-v03: חֵן (ḥēn)
-“Favor.” The LORD gives Israel favor in Egyptian eyes, reversing the expected relation between an enslaved people and the land that has oppressed them.
-
-v05: בְּכוֹר (bekhôr)
-“Firstborn.” Repeated through the verse, the term marks the scope of the coming death across human households and livestock.
-
-v07: יַפְלֶה (yapleh)
-“Makes a distinction” or “sets apart.” The verb marks the LORD’s decisive differentiation between Egypt and Israel in this judgment.
+v5: Mill — reḥayim
+Grinding stones used to turn grain into flour; the woman is identified by this labor.

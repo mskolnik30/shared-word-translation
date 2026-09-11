@@ -1,0 +1,760 @@
+{
+  "scope": "Exodus 9–11 only; 74 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical means nonidentical similarity >= 0.90. Triage only, not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 71,
+      "near_identical_verses": 3,
+      "mean_similarity": 0.997909,
+      "verses": [
+        {
+          "reference": "Exodus 9:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:24",
+          "identical": false,
+          "similarity": 0.912281
+        },
+        {
+          "reference": "Exodus 9:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 9:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:25",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Exodus 10:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 10:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 11:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 11:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 11:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 11:4",
+          "identical": false,
+          "similarity": 0.972973
+        },
+        {
+          "reference": "Exodus 11:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 11:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 11:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 11:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 11:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 11:10",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 0,
+      "mean_similarity": 0.672306,
+      "verses": [
+        {
+          "reference": "Exodus 9:1",
+          "identical": false,
+          "similarity": 0.806452
+        },
+        {
+          "reference": "Exodus 9:2",
+          "identical": false,
+          "similarity": 0.782609
+        },
+        {
+          "reference": "Exodus 9:3",
+          "identical": false,
+          "similarity": 0.566038
+        },
+        {
+          "reference": "Exodus 9:4",
+          "identical": false,
+          "similarity": 0.829268
+        },
+        {
+          "reference": "Exodus 9:5",
+          "identical": false,
+          "similarity": 0.8125
+        },
+        {
+          "reference": "Exodus 9:6",
+          "identical": false,
+          "similarity": 0.681818
+        },
+        {
+          "reference": "Exodus 9:7",
+          "identical": false,
+          "similarity": 0.618182
+        },
+        {
+          "reference": "Exodus 9:8",
+          "identical": false,
+          "similarity": 0.592593
+        },
+        {
+          "reference": "Exodus 9:9",
+          "identical": false,
+          "similarity": 0.68
+        },
+        {
+          "reference": "Exodus 9:10",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Exodus 9:11",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 9:12",
+          "identical": false,
+          "similarity": 0.790698
+        },
+        {
+          "reference": "Exodus 9:13",
+          "identical": false,
+          "similarity": 0.805556
+        },
+        {
+          "reference": "Exodus 9:14",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Exodus 9:15",
+          "identical": false,
+          "similarity": 0.84
+        },
+        {
+          "reference": "Exodus 9:16",
+          "identical": false,
+          "similarity": 0.583333
+        },
+        {
+          "reference": "Exodus 9:17",
+          "identical": false,
+          "similarity": 0.692308
+        },
+        {
+          "reference": "Exodus 9:18",
+          "identical": false,
+          "similarity": 0.716981
+        },
+        {
+          "reference": "Exodus 9:19",
+          "identical": false,
+          "similarity": 0.527778
+        },
+        {
+          "reference": "Exodus 9:20",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Exodus 9:21",
+          "identical": false,
+          "similarity": 0.512821
+        },
+        {
+          "reference": "Exodus 9:22",
+          "identical": false,
+          "similarity": 0.65625
+        },
+        {
+          "reference": "Exodus 9:23",
+          "identical": false,
+          "similarity": 0.77193
+        },
+        {
+          "reference": "Exodus 9:24",
+          "identical": false,
+          "similarity": 0.472727
+        },
+        {
+          "reference": "Exodus 9:25",
+          "identical": false,
+          "similarity": 0.517241
+        },
+        {
+          "reference": "Exodus 9:26",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Exodus 9:27",
+          "identical": false,
+          "similarity": 0.592593
+        },
+        {
+          "reference": "Exodus 9:28",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Exodus 9:29",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Exodus 9:30",
+          "identical": false,
+          "similarity": 0.606061
+        },
+        {
+          "reference": "Exodus 9:31",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 9:32",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 9:33",
+          "identical": false,
+          "similarity": 0.634921
+        },
+        {
+          "reference": "Exodus 9:34",
+          "identical": false,
+          "similarity": 0.612245
+        },
+        {
+          "reference": "Exodus 9:35",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Exodus 10:1",
+          "identical": false,
+          "similarity": 0.779661
+        },
+        {
+          "reference": "Exodus 10:2",
+          "identical": false,
+          "similarity": 0.613333
+        },
+        {
+          "reference": "Exodus 10:3",
+          "identical": false,
+          "similarity": 0.779221
+        },
+        {
+          "reference": "Exodus 10:4",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Exodus 10:5",
+          "identical": false,
+          "similarity": 0.582278
+        },
+        {
+          "reference": "Exodus 10:6",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Exodus 10:7",
+          "identical": false,
+          "similarity": 0.828571
+        },
+        {
+          "reference": "Exodus 10:8",
+          "identical": false,
+          "similarity": 0.693878
+        },
+        {
+          "reference": "Exodus 10:9",
+          "identical": false,
+          "similarity": 0.754098
+        },
+        {
+          "reference": "Exodus 10:10",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Exodus 10:11",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Exodus 10:12",
+          "identical": false,
+          "similarity": 0.724638
+        },
+        {
+          "reference": "Exodus 10:13",
+          "identical": false,
+          "similarity": 0.861111
+        },
+        {
+          "reference": "Exodus 10:14",
+          "identical": false,
+          "similarity": 0.523077
+        },
+        {
+          "reference": "Exodus 10:15",
+          "identical": false,
+          "similarity": 0.73913
+        },
+        {
+          "reference": "Exodus 10:16",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 10:17",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 10:18",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 10:19",
+          "identical": false,
+          "similarity": 0.741935
+        },
+        {
+          "reference": "Exodus 10:20",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Exodus 10:21",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Exodus 10:22",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 10:23",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Exodus 10:24",
+          "identical": false,
+          "similarity": 0.754717
+        },
+        {
+          "reference": "Exodus 10:25",
+          "identical": false,
+          "similarity": 0.590909
+        },
+        {
+          "reference": "Exodus 10:26",
+          "identical": false,
+          "similarity": 0.729412
+        },
+        {
+          "reference": "Exodus 10:27",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Exodus 10:28",
+          "identical": false,
+          "similarity": 0.754717
+        },
+        {
+          "reference": "Exodus 10:29",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Exodus 11:1",
+          "identical": false,
+          "similarity": 0.621622
+        },
+        {
+          "reference": "Exodus 11:2",
+          "identical": false,
+          "similarity": 0.375
+        },
+        {
+          "reference": "Exodus 11:3",
+          "identical": false,
+          "similarity": 0.454545
+        },
+        {
+          "reference": "Exodus 11:4",
+          "identical": false,
+          "similarity": 0.628571
+        },
+        {
+          "reference": "Exodus 11:5",
+          "identical": false,
+          "similarity": 0.735294
+        },
+        {
+          "reference": "Exodus 11:6",
+          "identical": false,
+          "similarity": 0.238095
+        },
+        {
+          "reference": "Exodus 11:7",
+          "identical": false,
+          "similarity": 0.53125
+        },
+        {
+          "reference": "Exodus 11:8",
+          "identical": false,
+          "similarity": 0.658228
+        },
+        {
+          "reference": "Exodus 11:9",
+          "identical": false,
+          "similarity": 0.772727
+        },
+        {
+          "reference": "Exodus 11:10",
+          "identical": false,
+          "similarity": 0.740741
+        }
+      ]
+    }
+  }
+}
