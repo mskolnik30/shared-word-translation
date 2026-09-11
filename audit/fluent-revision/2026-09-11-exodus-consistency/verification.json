@@ -1,0 +1,617 @@
+{
+  "status": "PASSED",
+  "base_commit": "4ba664785f37da521607ff831ce9b3affd8376ce",
+  "scope": "Exodus 1–40 structure plus source-bound selected thematic comparison",
+  "structural_chapters": [
+    {
+      "chapter": 1,
+      "verses": 22,
+      "sha256": "c94ddb39d94b3728ebd49e3534577337f7718b463b2060097ae4987a3f45a608",
+      "headings": [
+        "Israel’s family grows in Egypt",
+        "A new king enslaves the Israelites",
+        "The midwives keep the boys alive"
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": 25,
+      "sha256": "6666e495d996973e9717a973e767717674823b509277b354e7374606a7afb24a",
+      "headings": [
+        "A child rescued from the Nile",
+        "Moses flees to Midian",
+        "God hears Israel’s cry"
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": 22,
+      "sha256": "ca418679d043dc812f54b1c5a924ecb58b7e1e66182fd6e59b8f43ec0a150949",
+      "headings": [
+        "God calls from the burning bush",
+        "God has seen the people’s suffering",
+        "The name and the promise",
+        "A message for Israel and Pharaoh"
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": 31,
+      "sha256": "fd2a993962eb73436e5892d66ba725ae076f967ca8a851e1b81cb0d8a6870b00",
+      "headings": [
+        "Signs for Moses",
+        "Moses objects to speaking",
+        "Moses sets out for Egypt",
+        "An encounter on the way",
+        "Moses and Aaron meet the elders"
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": 23,
+      "sha256": "3b34d18118ffd8b93dec010b0050bce7217dcc2553a926d1725be465e402445f",
+      "headings": [
+        "Pharaoh refuses to let Israel go",
+        "Bricks without straw",
+        "The foremen appeal to Pharaoh",
+        "Moses brings his complaint to the LORD"
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": 30,
+      "sha256": "fdaabafc300c37f1679030f4e086ab1c412c39ebd2319de49d83c7c522f5b909",
+      "headings": [
+        "The LORD answers Moses",
+        "The covenant promise renewed",
+        "The charge to Moses and Aaron",
+        "The families of Moses and Aaron",
+        "The command repeated"
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": 25,
+      "sha256": "da1aec374cad056cf496cfe28fcaf81e2d5c95ac6fe85feefd6f63ae5148dc27",
+      "headings": [
+        "Moses and Aaron sent to Pharaoh",
+        "Aaron’s staff before Pharaoh",
+        "The Nile turns to blood"
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": 32,
+      "sha256": "96922cb20b9b3b4f1205c6f35cc3f5c99d452a67effb8db3473d9932516a800d",
+      "headings": [
+        "Frogs fill the land",
+        "Gnats from the dust",
+        "Swarms in Egypt"
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": 35,
+      "sha256": "5647c2949994c2b6856ada269c030cedebe0f4595b6ee07302c17b82138ff12e",
+      "headings": [
+        "A plague on the livestock",
+        "Boils on people and animals",
+        "A warning of hail",
+        "Hail and fire strike Egypt"
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": 29,
+      "sha256": "4d3ffe909aff1cf7250de566da703a1c3b3d0b9b9cb2a2e75e79d3c6d0c276e5",
+      "headings": [
+        "A story for the next generation",
+        "The locust warning",
+        "Locusts consume what the hail left",
+        "Darkness over Egypt"
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": 10,
+      "sha256": "7f29cdf02a4e297807111dcb0b2e76ffc26703c4c5e484797a2cce6cce70b01f",
+      "headings": [
+        "One more plague",
+        "The warning about the firstborn",
+        "Pharaoh still refuses"
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": 51,
+      "sha256": "54797d01b7cd5bbdf9d885de5bbb4e99846bd07414903b0471d755e478dfa135",
+      "headings": [
+        "The Passover meal",
+        "Unleavened bread and remembrance",
+        "Instructions for Israel’s households",
+        "Death and departure",
+        "Who may share the Passover"
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": 22,
+      "sha256": "bc809e037fd1075cba457345ca91e2dfdaf7688f4ee730348eca09e37de6312d",
+      "headings": [
+        "The firstborn belong to the LORD",
+        "Remember and tell your children",
+        "Redeeming the firstborn",
+        "Cloud and fire along the road"
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": 31,
+      "sha256": "1f51b11ccafdd2ceff8a6a6b41e7be0ea95ad95bb951b4a14987843f173f0d7e",
+      "headings": [
+        "Camp beside the sea",
+        "Pharaoh pursues Israel",
+        "A path through the sea",
+        "The waters return"
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": 27,
+      "sha256": "5d98c0cccd925556be1495e245754142b86fd18aaab4e6ee47fbc5808e22417a",
+      "headings": [
+        "The song at the sea",
+        "Miriam’s response",
+        "Bitter water at Marah"
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": 36,
+      "sha256": "a2df902e0ae965fe1534ee37c05b7935048ef0c99124a1935593c5fa671ef3b8",
+      "headings": [
+        "Hunger in the wilderness",
+        "Bread from heaven",
+        "Gathering each day’s portion",
+        "Rest on the seventh day",
+        "Manna kept for later generations"
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": 16,
+      "sha256": "04581775014067ca1c53ba87acdb98b47589dd5fe02fa96ffcd829f91e3f6ec4",
+      "headings": [
+        "Water at Rephidim",
+        "The battle with Amalek"
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": 27,
+      "sha256": "d9d0ab269a63d45a3e1e9455326d7cde21954fd682a30886d7a6d3419ad46dd6",
+      "headings": [
+        "Jethro comes to Moses",
+        "Sharing the work of judgment"
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": 25,
+      "sha256": "702886e27711ee98075c0e8b0970839df44556ad36d33a7eaab507ed3330f69c",
+      "headings": [
+        "Israel camps at Sinai",
+        "A treasured possession",
+        "Preparing to meet God",
+        "The LORD descends on Sinai"
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": 26,
+      "sha256": "a2f1cad5a75538ee842f9a79b5396bf0ae88f9192f77efeaec5f55ccce41dab0",
+      "headings": [
+        "God speaks to Israel",
+        "The people ask Moses to speak",
+        "Instructions for an altar"
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": 36,
+      "sha256": "0abdcb05b88300266043a637ac78c90807981cf6029a28153a041355c1941182",
+      "headings": [
+        "Slaves and release",
+        "A daughter sold into slavery",
+        "Killing and other capital offenses",
+        "Injuries and compensation",
+        "Injuries caused by an ox",
+        "Loss of livestock"
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": 31,
+      "sha256": "0c1b07a9e897055084eda61e0bbf07fb95e6d3f192d0bee8ddcec35b73ee8dda",
+      "headings": [
+        "Theft and damage",
+        "Property entrusted or borrowed",
+        "Marriage and other obligations",
+        "Foreigners and vulnerable households",
+        "What belongs to the LORD"
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": 33,
+      "sha256": "7dda4e4ba804c57f9f30df70cc0f845aa4b6fde21a142ad8efe5c9664fecd7f2",
+      "headings": [
+        "Justice without partiality",
+        "Rest for land and workers",
+        "Three annual festivals",
+        "The angel and the journey ahead"
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": 18,
+      "sha256": "b673719f7716dd17fc19b9a623e266b2dc666cd04a3b9da807b9a209b5aeee83",
+      "headings": [
+        "Who may approach",
+        "The covenant is confirmed",
+        "The leaders see God",
+        "Moses enters the cloud"
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": 40,
+      "sha256": "c208718e29002d7ce23820991c8894953cad1b126e266aafa6bf0396aac84ab8",
+      "headings": [
+        "Contributions for the sanctuary",
+        "The ark and its cover",
+        "The table",
+        "The lampstand"
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": 37,
+      "sha256": "19301a16e8f6cfe17a3b6f60b9a4573f7710a6243abd88e54ff5e95a4ab98d15",
+      "headings": [
+        "The inner curtains",
+        "The tent and outer coverings",
+        "The supporting frames",
+        "The crossbars",
+        "The dividing curtain",
+        "The entrance screen"
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": 21,
+      "sha256": "98cf7c24bcbbc348cf40e31e53d74fdc73d31257d79739c89f455d8662d55856",
+      "headings": [
+        "The bronze altar",
+        "The courtyard",
+        "Oil for the lamp"
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": 43,
+      "sha256": "226bdd341c366ac8bbdc1f0be5354bbc5523ae21548e320f8cc8de0866fef799",
+      "headings": [
+        "Garments for the priests",
+        "The ephod",
+        "The breastpiece",
+        "The robe",
+        "The gold plate",
+        "Garments for Aaron’s sons"
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": 46,
+      "sha256": "1becebedd6b65f7a00c154560bbe4743f00228492a297ca2930d11dc91e41094",
+      "headings": [
+        "Preparing for ordination",
+        "Washing and clothing the priests",
+        "The bull for the sin offering",
+        "The first ram",
+        "The ram of ordination",
+        "The garments passed on",
+        "The ordination meal",
+        "Seven days of ordination",
+        "The daily offerings",
+        "God dwelling among Israel"
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": 38,
+      "sha256": "82e8eb569dff576d9265579f3f9e2a3381ce525cfe582abd3c373e5f568a3871",
+      "headings": [
+        "The incense altar",
+        "The census contribution",
+        "The bronze basin",
+        "The anointing oil",
+        "The incense"
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": 18,
+      "sha256": "4d1023d3b0f013f0eaa0a7f6e1d09b876ded34ee082ee1a9390e75f1c7fed2d0",
+      "headings": [
+        "The appointed craftspeople",
+        "The Sabbath sign",
+        "The tablets of testimony"
+      ]
+    },
+    {
+      "chapter": 32,
+      "verses": 35,
+      "sha256": "69a0b52a563476b74e6822279a8e6aa220224ddc4de0a2670f0498069b3b1b1f",
+      "headings": [
+        "The golden calf",
+        "The LORD sends Moses down",
+        "Moses pleads for the people",
+        "The tablets shattered",
+        "Aaron’s account",
+        "The Levites and the killing",
+        "Moses returns to the LORD"
+      ]
+    },
+    {
+      "chapter": 33,
+      "verses": 23,
+      "sha256": "969eaa7871b353d134f123925773b589ed60005deba1f4d9ff8557fb03dc99dd",
+      "headings": [
+        "The command to leave",
+        "The tent outside the camp",
+        "The promise of God’s presence",
+        "Moses asks to see God’s glory"
+      ]
+    },
+    {
+      "chapter": 34,
+      "verses": 35,
+      "sha256": "9db10fcabb68f327b161fbf8b13a1e429d3eb5a204b6504aa1d13fb826d20ab3",
+      "headings": [
+        "New stone tablets",
+        "The name proclaimed",
+        "Moses’ request",
+        "The covenant renewed",
+        "Festivals and firstborn",
+        "The words of the covenant",
+        "Moses’ shining face"
+      ]
+    },
+    {
+      "chapter": 35,
+      "verses": 35,
+      "sha256": "6dd18f6ca78a796bcc1e6dabbd114c7b124f73034feb71589484a47ec0187219",
+      "headings": [
+        "The Sabbath",
+        "Contributions and work for the sanctuary",
+        "The people bring their gifts",
+        "Wisdom for the work"
+      ]
+    },
+    {
+      "chapter": 36,
+      "verses": 38,
+      "sha256": "f7f470982ce2be78fd8abe1ab0ee70a7b85708fca9878615e52aa1ae821d6d51",
+      "headings": [
+        "More than enough",
+        "The inner curtains",
+        "The tent and its coverings",
+        "The frames",
+        "The crossbars",
+        "The curtain and entrance screen"
+      ]
+    },
+    {
+      "chapter": 37,
+      "verses": 29,
+      "sha256": "c8245f5332287bdc7b125093a455984ef62cd6192bf217f575e89f3ff51dbec7",
+      "headings": [
+        "The ark and its cover",
+        "The table",
+        "The lampstand",
+        "The incense altar and aromatics"
+      ]
+    },
+    {
+      "chapter": 38,
+      "verses": 31,
+      "sha256": "41dc550c01fdc3f898a329da46834a1a63fb3f7b5af66436fc009ca81f336b9d",
+      "headings": [
+        "The bronze altar",
+        "The basin",
+        "The courtyard",
+        "The account of materials"
+      ]
+    },
+    {
+      "chapter": 39,
+      "verses": 43,
+      "sha256": "d1d8808863335f2545d08bb0c44ddaa927b713fd4d204c43baa0a836141a087f",
+      "headings": [
+        "The priestly garments",
+        "The ephod",
+        "The breastpiece",
+        "The robe",
+        "Tunics and other garments",
+        "The holy diadem",
+        "The completed work brought to Moses"
+      ]
+    },
+    {
+      "chapter": 40,
+      "verses": 38,
+      "sha256": "4773650b7c1defbeb987a0e130c50034b2f505f3f7151a8eb6e5a2441ce42e52",
+      "headings": [
+        "Setting up the sanctuary",
+        "Consecrating the sanctuary and priests",
+        "Moses sets everything in place",
+        "The cloud and the glory"
+      ]
+    }
+  ],
+  "source_records": 1213,
+  "concordance_verses": 62,
+  "focused_verses": 81,
+  "unique_comparison_verses": 142,
+  "command_fulfillment_dimension_pairs": [
+    [
+      "25:10",
+      "37:1",
+      [
+        "two and a half",
+        "a cubit and a half"
+      ]
+    ],
+    [
+      "25:17",
+      "37:6",
+      [
+        "two and a half",
+        "a cubit and a half"
+      ]
+    ],
+    [
+      "25:23",
+      "37:10",
+      [
+        "two cubits long",
+        "a cubit and a half high"
+      ]
+    ],
+    [
+      "25:39",
+      "37:24",
+      [
+        "talent",
+        "gold"
+      ]
+    ],
+    [
+      "26:2",
+      "36:9",
+      [
+        "twenty-eight",
+        "four cubits"
+      ]
+    ],
+    [
+      "26:8",
+      "36:15",
+      [
+        "thirty",
+        "four cubits"
+      ]
+    ],
+    [
+      "26:16",
+      "36:21",
+      [
+        "ten cubits",
+        "a cubit and a half"
+      ]
+    ],
+    [
+      "27:1",
+      "38:1",
+      [
+        "five cubits",
+        "three cubits"
+      ]
+    ],
+    [
+      "30:2",
+      "37:25",
+      [
+        "a cubit long",
+        "a cubit wide",
+        "two cubits high"
+      ]
+    ]
+  ],
+  "source_annotations_preserved": {
+    "Exod 8:11": [
+      "<note>KJV:Exod.8.15</note>"
+    ],
+    "Exod 8:15": [
+      "<note>KJV:Exod.8.19</note>"
+    ],
+    "Exod 8:28": [
+      "<note>KJV:Exod.8.32</note>"
+    ],
+    "Exod 10:1": [
+      "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>"
+    ],
+    "Exod 16:7": [
+      "<note type=\"variant\"><catchWord>תלונו</catchWord><rdg type=\"x-qere\"><w lemma=\"3885 b\" n=\"0.0\" morph=\"HVhi2mp\" id=\"02yoM\">תַלִּ֖ינוּ</w></rdg></note>"
+    ],
+    "Exod 20:6": [
+      "<note type=\"alternative\"><catchWord>וְ/עֹ֥שֶׂה</catchWord><rdg type=\"x-accent\">וְ/עֹ֤שֶׂה</rdg></note>",
+      "<note type=\"alternative\"><catchWord>חֶ֖סֶד</catchWord><rdg type=\"x-accent\">חֶ֨סֶד֙</rdg></note>",
+      "<note type=\"alternative\"><catchWord>לַ/אֲלָפִ֑ים</catchWord><rdg type=\"x-accent\">לַ/אֲלָפִ֔ים</rdg></note>"
+    ],
+    "Exod 20:8": [
+      "<note type=\"alternative\"><catchWord>זָכ֛וֹר</catchWord><rdg type=\"x-accent\">זָכוֹר֩</rdg></note>",
+      "<note type=\"alternative\"><catchWord>י֥וֹם</catchWord><rdg type=\"x-accent\">י֨וֹם</rdg></note>",
+      "<note type=\"alternative\"><catchWord>הַ/שַּׁבָּ֖ת</catchWord><rdg type=\"x-accent\">הַ/שַּׁבָּ֨ת</rdg></note>",
+      "<note type=\"alternative\"><catchWord>לְ/קַדְּשֽׁ/וֹ</catchWord><rdg type=\"x-accent\">לְ/קַדְּשׁ֗/וֹ</rdg></note>",
+      "<note n=\"1\">BHS has been faithful to the Leningrad Codex where there might be a question of the validity of the form and we keep the same form as BHS. </note>"
+    ],
+    "Exod 34:6": [
+      "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>"
+    ],
+    "Exod 7:26": [
+      "<note>KJV:Exod.8.1</note>"
+    ],
+    "Exod 8:16": [
+      "<note>KJV:Exod.8.20</note>"
+    ],
+    "Exod 20:5": [
+      "<note type=\"alternative\"><catchWord>תִשְׁתַּחֲוֶ֥ה</catchWord><rdg type=\"x-accent\">תִשְׁתַּחֲוֶ֣ה</rdg></note>",
+      "<note n=\"1\">BHS has been faithful to the Leningrad Codex where there might be a question of the validity of the form and we keep the same form as BHS. </note>",
+      "<note type=\"alternative\"><catchWord>לָ/הֶ֖ם</catchWord><rdg type=\"x-accent\">לָ/הֶם֮</rdg></note>",
+      "<note type=\"alternative\"><catchWord>תָעָבְדֵ֑/ם</catchWord><rdg type=\"x-accent\">תָעָבְדֵ/ם֒</rdg></note>",
+      "<note type=\"alternative\"><catchWord>לְ/שֹׂנְאָֽ/י</catchWord><rdg type=\"x-accent\">לְ/שֹׂנְאָ֑/י</rdg></note>"
+    ],
+    "Exod 20:9": [
+      "<note type=\"alternative\"><catchWord>שֵׁ֤שֶׁת</catchWord><rdg type=\"x-accent\">שֵׁ֣שֶׁת</rdg></note>",
+      "<note type=\"alternative\"><catchWord>יָמִים֙</catchWord><rdg type=\"x-accent\">יָמִ֣ים</rdg></note>",
+      "<note type=\"alternative\"><catchWord>תַּֽעֲבֹ֔ד</catchWord><rdg type=\"x-accent\">תַּֽעֲבֹד֮</rdg></note>",
+      "<note type=\"alternative\"><catchWord>וְ/עָשִׂ֖יתָ</catchWord><rdg type=\"x-accent\">וְ/עָשִׂ֣יתָ</rdg></note>",
+      "<note type=\"alternative\"><catchWord>מְלַאכְתֶּֽ/ךָ</catchWord><rdg type=\"x-accent\">מְלַאכְתֶּ/ךָ֒</rdg></note>",
+      "<note n=\"1\">BHS has been faithful to the Leningrad Codex where there might be a question of the validity of the form and we keep the same form as BHS. </note>"
+    ],
+    "Exod 21:8": [
+      "<note type=\"variant\"><catchWord>לא</catchWord><rdg type=\"x-qere\"><w lemma=\"l\" morph=\"HR/Sp3ms\" id=\"023Mv\">ל֥/וֹ</w></rdg></note>"
+    ],
+    "Exod 22:20": [
+      "<note>KJV:Exod.22.21</note>"
+    ],
+    "Exod 22:21": [
+      "<note>KJV:Exod.22.22</note>"
+    ],
+    "Exod 22:22": [
+      "<note>KJV:Exod.22.23</note>"
+    ],
+    "Exod 22:23": [
+      "<note>KJV:Exod.22.24</note>"
+    ]
+  },
+  "prior_full_audit_evidence": "audit/fluent-revision/2026-09-11-exodus-35-40/verification.json",
+  "prior_evidence_sha256": "5ca6d3219f4acbb720c6f9acae1c1d1eb58423ee87f4a8dba71456886a16520e",
+  "prior_twenty_ledger_audits_and_family_audit_still_applicable": true,
+  "all_chapter_and_ledger_bytes_unchanged": true,
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

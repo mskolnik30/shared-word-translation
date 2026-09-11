@@ -105,8 +105,8 @@
   ],
   "next_work": [
     {
-      "scope": "Exodus 1–40 consistency review",
-      "action": "Review the complete revised book for recurring terminology, names, quantities, literary movement and command/fulfillment relationships. Keep structural QA separate from editorial review. Rebind affected verse ledgers if chapter text changes, preserving exact historical provenance. After this pass, begin Leviticus 1–7 from its verified pinned Hebrew source."
+      "scope": "Leviticus 1–7",
+      "action": "Inspect repository source attribution, retrieve and verify exact pinned Hebrew book bytes and verse count, then draft from each source verse in connected complete-chapter batches. Preserve ritual terms, agents, quantities, real harm and source ambiguities with selective Notes/Vocabulary. Record exact before/after/comparator/source bindings and F0–F3 rationale; validate and checkpoint without routine approval pauses."
     }
   ],
   "standards": [
@@ -124,6 +124,11 @@
       "scope": "Genesis 1–50",
       "report": "audit/fluent-revision/2026-09-11-genesis-consistency/review.json",
       "qualification": "Whole-book structural and selected thematic self-check; independent editorial review pending."
+    },
+    {
+      "scope": "Exodus 1–40",
+      "report": "audit/fluent-revision/2026-09-11-exodus-consistency/review.json",
+      "qualification": "Whole-book structural scan and selected thematic self-check: 142 distinct source/English comparisons; independent editorial review pending."
     }
   ]
 }

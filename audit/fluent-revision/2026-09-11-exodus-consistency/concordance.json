@@ -1,0 +1,1117 @@
+{
+  "scope": "All occurrences of eight selected lemmas, including contextual senses outside the named theme; not a whole-book retranslation.",
+  "lemmas": {
+    "1285": "covenant",
+    "2617": "faithful love",
+    "3519": "glory",
+    "2142": "remember",
+    "7931": "dwell/settle",
+    "2388": "strong/strengthen",
+    "3513": "heavy/honor/glorify",
+    "7185": "hard"
+  },
+  "rows": [
+    {
+      "reference": "Exodus 2:24",
+      "source_reference": "Exod 2:24",
+      "source_verse_sha256": "ccf957479e81bc9528e66844982873767a5c8c07856fc9d37814ad7de61d00a1",
+      "hebrew": "וַ/יִּשְׁמַ֥ע אֱלֹהִ֖ים אֶת ־ נַאֲקָתָ֑/ם וַ/יִּזְכֹּ֤ר אֱלֹהִים֙ אֶת ־ בְּרִית֔/וֹ אֶת ־ אַבְרָהָ֖ם אֶת ־ יִצְחָ֥ק וְ/אֶֽת ־ יַעֲקֹֽב ׃",
+      "matches": [
+        {
+          "hebrew": "וַ/יִּזְכֹּ֤ר",
+          "lemma": "c/2142",
+          "morph": "HC/Vqw3ms",
+          "domains": [
+            "remember"
+          ]
+        },
+        {
+          "hebrew": "בְּרִית֔/וֹ",
+          "lemma": "1285",
+          "morph": "HNcfsc/Sp3ms",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "God heard their groaning. God remembered his covenant with Abraham, Isaac, and Jacob."
+    },
+    {
+      "reference": "Exodus 4:4",
+      "source_reference": "Exod 4:4",
+      "source_verse_sha256": "3277c4bfd33fe68d776b9bfa01a6e0740e81f5df5f62e85f58a9cdb581102344",
+      "hebrew": "וַ/יֹּ֤אמֶר יְהוָה֙ אֶל ־ מֹשֶׁ֔ה שְׁלַח֙ יָֽדְ/ךָ֔ וֶ/אֱחֹ֖ז בִּ/זְנָב֑/וֹ וַ/יִּשְׁלַ֤ח יָד/וֹ֙ וַ/יַּ֣חֲזֶק בּ֔/וֹ וַ/יְהִ֥י לְ/מַטֶּ֖ה בְּ/כַפּֽ/וֹ ׃",
+      "matches": [
+        {
+          "hebrew": "וַ/יַּ֣חֲזֶק",
+          "lemma": "c/2388",
+          "morph": "HC/Vhw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "The LORD told Moses, “Reach out your hand and take it by the tail.” Moses reached out and grasped it, and it became a staff in his hand."
+    },
+    {
+      "reference": "Exodus 4:21",
+      "source_reference": "Exod 4:21",
+      "source_verse_sha256": "f95a3aafc55e571b08587dc33a4f0f39f7b9de22dfbb299242955c7ac9fb1eb2",
+      "hebrew": "וַ/יֹּ֣אמֶר יְהוָה֮ אֶל ־ מֹשֶׁה֒ בְּ/לֶכְתְּ/ךָ֙ לָ/שׁ֣וּב מִצְרַ֔יְמָ/ה רְאֵ֗ה כָּל ־ הַ/מֹּֽפְתִים֙ אֲשֶׁר ־ שַׂ֣מְתִּי בְ/יָדֶ֔/ךָ וַ/עֲשִׂיתָ֖/ם לִ/פְנֵ֣י פַרְעֹ֑ה וַ/אֲנִי֙ אֲחַזֵּ֣ק אֶת ־ לִבּ֔/וֹ וְ/לֹ֥א יְשַׁלַּ֖ח אֶת ־ הָ/עָֽם ׃",
+      "matches": [
+        {
+          "hebrew": "אֲחַזֵּ֣ק",
+          "lemma": "2388",
+          "morph": "HVpi1cs",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "The LORD told Moses, “When you return to Egypt, be sure to perform before Pharaoh all the wonders I have put in your hand. But I will harden his heart, and he will not let the people go."
+    },
+    {
+      "reference": "Exodus 5:9",
+      "source_reference": "Exod 5:9",
+      "source_verse_sha256": "32120c523de9dbae17fd8d1837d7a067fe4959a59f37e094a7d1d2424426a7eb",
+      "hebrew": "תִּכְבַּ֧ד הָ/עֲבֹדָ֛ה עַל ־ הָ/אֲנָשִׁ֖ים וְ/יַעֲשׂוּ ־ בָ֑/הּ וְ/אַל ־ יִשְׁע֖וּ בְּ/דִבְרֵי ־ שָֽׁקֶר ׃",
+      "matches": [
+        {
+          "hebrew": "תִּכְבַּ֧ד",
+          "lemma": "3513",
+          "morph": "HVqi3fs",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "Make the work weigh more heavily on the men. Keep them at it so they pay no attention to lying words.”"
+    },
+    {
+      "reference": "Exodus 6:4",
+      "source_reference": "Exod 6:4",
+      "source_verse_sha256": "637f0b3ba177808d12ebc99d54d4e48c3e77d0a0904336e2d854d4c918eaef89",
+      "hebrew": "וְ/גַ֨ם הֲקִמֹ֤תִי אֶת ־ בְּרִיתִ/י֙ אִתָּ֔/ם לָ/תֵ֥ת לָ/הֶ֖ם אֶת ־ אֶ֣רֶץ כְּנָ֑עַן אֵ֛ת אֶ֥רֶץ מְגֻרֵי/הֶ֖ם אֲשֶׁר ־ גָּ֥רוּ בָֽ/הּ ׃",
+      "matches": [
+        {
+          "hebrew": "בְּרִיתִ/י֙",
+          "lemma": "1285",
+          "morph": "HNcfsc/Sp1cs",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "I also established my covenant with them to give them Canaan, the land where they lived as foreigners."
+    },
+    {
+      "reference": "Exodus 6:5",
+      "source_reference": "Exod 6:5",
+      "source_verse_sha256": "eb53cf305e12bbe4acce611a4ffdca393c415daaa9c106ae0a4232a29b7d6e63",
+      "hebrew": "וְ/גַ֣ם ׀ אֲנִ֣י שָׁמַ֗עְתִּי אֶֽת ־ נַאֲקַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר מִצְרַ֖יִם מַעֲבִדִ֣ים אֹתָ֑/ם וָ/אֶזְכֹּ֖ר אֶת ־ בְּרִיתִֽ/י ׃",
+      "matches": [
+        {
+          "hebrew": "וָ/אֶזְכֹּ֖ר",
+          "lemma": "c/2142",
+          "morph": "HC/Vqw1cs",
+          "domains": [
+            "remember"
+          ]
+        },
+        {
+          "hebrew": "בְּרִיתִֽ/י",
+          "lemma": "1285",
+          "morph": "HNcfsc/Sp1cs",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "I myself have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant."
+    },
+    {
+      "reference": "Exodus 7:3",
+      "source_reference": "Exod 7:3",
+      "source_verse_sha256": "25694a8e7ea451282823823d919f6c18e1be00f324427eddf470b2e78da24e10",
+      "hebrew": "וַ/אֲנִ֥י אַקְשֶׁ֖ה אֶת ־ לֵ֣ב פַּרְעֹ֑ה וְ/הִרְבֵּיתִ֧י אֶת ־ אֹתֹתַ֛/י וְ/אֶת ־ מוֹפְתַ֖/י בְּ/אֶ֥רֶץ מִצְרָֽיִם ׃",
+      "matches": [
+        {
+          "hebrew": "אַקְשֶׁ֖ה",
+          "lemma": "7185",
+          "morph": "HVhi1cs",
+          "domains": [
+            "hard"
+          ]
+        }
+      ],
+      "fluent": "But I will harden Pharaoh’s heart, and I will multiply my signs and wonders in Egypt."
+    },
+    {
+      "reference": "Exodus 7:13",
+      "source_reference": "Exod 7:13",
+      "source_verse_sha256": "64990d64c15c2a330fa6a0919e67d7a10a70a1cc6f223da8905bca6d82ce3219",
+      "hebrew": "וַ/יֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְ/לֹ֥א שָׁמַ֖ע אֲלֵ/הֶ֑ם כַּ/אֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה ׃ פ",
+      "matches": [
+        {
+          "hebrew": "וַ/יֶּחֱזַק֙",
+          "lemma": "c/2388",
+          "morph": "HC/Vqw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "Yet Pharaoh’s heart grew hard, and he did not listen to them, just as the LORD had said."
+    },
+    {
+      "reference": "Exodus 7:22",
+      "source_reference": "Exod 7:22",
+      "source_verse_sha256": "d1aac30b37317811e437ff60028320baa672a68c0855ad4e696bc5122b5c3c77",
+      "hebrew": "וַ/יַּֽעֲשׂוּ ־ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּ/לָטֵי/הֶ֑ם וַ/יֶּחֱזַ֤ק לֵב ־ פַּרְעֹה֙ וְ/לֹא ־ שָׁמַ֣ע אֲלֵ/הֶ֔ם כַּ/אֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה ׃",
+      "matches": [
+        {
+          "hebrew": "וַ/יֶּחֱזַ֤ק",
+          "lemma": "c/2388",
+          "morph": "HC/Vqw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "The Egyptian magicians did the same through their secret arts. Pharaoh’s heart remained hard, and he did not listen to Moses and Aaron, just as the LORD had said."
+    },
+    {
+      "reference": "Exodus 8:15",
+      "source_reference": "Exod 8:11",
+      "source_verse_sha256": "33ed59da908be03b99d7a837440668e6904982bc81469f80b638dc112e1cf7dd",
+      "hebrew": "וַ/יַּ֣רְא פַּרְעֹ֗ה כִּ֤י הָֽיְתָה֙ הָֽ/רְוָחָ֔ה וְ/הַכְבֵּד֙ אֶת ־ לִבּ֔/וֹ וְ/לֹ֥א שָׁמַ֖ע אֲלֵ/הֶ֑ם כַּ/אֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה ׃ ס",
+      "matches": [
+        {
+          "hebrew": "וְ/הַכְבֵּד֙",
+          "lemma": "c/3513",
+          "morph": "HC/Vha",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "But when Pharaoh saw that there was relief, he hardened his heart and did not listen to them, just as the LORD had said."
+    },
+    {
+      "reference": "Exodus 8:19",
+      "source_reference": "Exod 8:15",
+      "source_verse_sha256": "20c64ac843fdb2af772fc8723a757678404d1adc3e265ad8161adb89923f518f",
+      "hebrew": "וַ/יֹּאמְר֤וּ הַֽ/חַרְטֻמִּים֙ אֶל ־ פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַ/יֶּחֱזַ֤ק לֵב ־ פַּרְעֹה֙ וְ/לֹֽא ־ שָׁמַ֣ע אֲלֵ/הֶ֔ם כַּ/אֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה ׃ ס",
+      "matches": [
+        {
+          "hebrew": "וַ/יֶּחֱזַ֤ק",
+          "lemma": "c/2388",
+          "morph": "HC/Vqw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "The magicians told Pharaoh, “This is the finger of God!” Yet Pharaoh’s heart remained hard, and he did not listen to them, just as the LORD had said."
+    },
+    {
+      "reference": "Exodus 8:32",
+      "source_reference": "Exod 8:28",
+      "source_verse_sha256": "afc9d1089fb402c51ae46b0422b8265724c936eda39e1783d11baa126da72442",
+      "hebrew": "וַ/יַּכְבֵּ֤ד פַּרְעֹה֙ אֶת ־ לִבּ֔/וֹ גַּ֖ם בַּ/פַּ֣עַם הַ/זֹּ֑את וְ/לֹ֥א שִׁלַּ֖ח אֶת ־ הָ/עָֽם ׃ פ",
+      "matches": [
+        {
+          "hebrew": "וַ/יַּכְבֵּ֤ד",
+          "lemma": "c/3513",
+          "morph": "HC/Vhw3ms",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "But this time too, Pharaoh hardened his heart and did not let the people go."
+    },
+    {
+      "reference": "Exodus 9:2",
+      "source_reference": "Exod 9:2",
+      "source_verse_sha256": "b013b94c7ba92bc80dc98d3a7731d6a0d65aeb42b5658b32f156d6a5bf691ef2",
+      "hebrew": "כִּ֛י אִם ־ מָאֵ֥ן אַתָּ֖ה לְ/שַׁלֵּ֑חַ וְ/עוֹדְ/ךָ֖ מַחֲזִ֥יק בָּֽ/ם ׃",
+      "matches": [
+        {
+          "hebrew": "מַחֲזִ֥יק",
+          "lemma": "2388",
+          "morph": "HVhrmsa",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "If you refuse to let them go and keep holding them,"
+    },
+    {
+      "reference": "Exodus 9:7",
+      "source_reference": "Exod 9:7",
+      "source_verse_sha256": "b5c059ddc549900305c3db2d9c866cee49462df4065cfce6e63eecdf6f9200db",
+      "hebrew": "וַ/יִּשְׁלַ֣ח פַּרְעֹ֔ה וְ/הִנֵּ֗ה לֹא ־ מֵ֛ת מִ/מִּקְנֵ֥ה יִשְׂרָאֵ֖ל עַד ־ אֶחָ֑ד וַ/יִּכְבַּד֙ לֵ֣ב פַּרְעֹ֔ה וְ/לֹ֥א שִׁלַּ֖ח אֶת ־ הָ/עָֽם ׃ פ",
+      "matches": [
+        {
+          "hebrew": "וַ/יִּכְבַּד֙",
+          "lemma": "c/3513",
+          "morph": "HC/Vqw3ms",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "Pharaoh sent people to find out, and indeed, not a single animal belonging to Israel had died. Yet Pharaoh’s heart was unyielding, and he did not let the people go."
+    },
+    {
+      "reference": "Exodus 9:12",
+      "source_reference": "Exod 9:12",
+      "source_verse_sha256": "0c9a74daf77a61c81b4cdd76808485834e370054d3c2d46f85e674160c02626c",
+      "hebrew": "וַ/יְחַזֵּ֤ק יְהוָה֙ אֶת ־ לֵ֣ב פַּרְעֹ֔ה וְ/לֹ֥א שָׁמַ֖ע אֲלֵ/הֶ֑ם כַּ/אֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה אֶל ־ מֹשֶֽׁה ׃ ס",
+      "matches": [
+        {
+          "hebrew": "וַ/יְחַזֵּ֤ק",
+          "lemma": "c/2388",
+          "morph": "HC/Vpw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "But the LORD hardened Pharaoh’s heart, and he did not listen to Moses and Aaron, just as the LORD had told Moses."
+    },
+    {
+      "reference": "Exodus 9:34",
+      "source_reference": "Exod 9:34",
+      "source_verse_sha256": "38ac62a3579a32cb9de79952d9ec61de276f947a8c376871624481418814b133",
+      "hebrew": "וַ/יַּ֣רְא פַּרְעֹ֗ה כִּֽי ־ חָדַ֨ל הַ/מָּטָ֧ר וְ/הַ/בָּרָ֛ד וְ/הַ/קֹּלֹ֖ת וַ/יֹּ֣סֶף לַ/חֲטֹ֑א וַ/יַּכְבֵּ֥ד לִבּ֖/וֹ ה֥וּא וַ/עֲבָדָֽי/ו ׃",
+      "matches": [
+        {
+          "hebrew": "וַ/יַּכְבֵּ֥ד",
+          "lemma": "c/3513",
+          "morph": "HC/Vhw3ms",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "When Pharaoh saw that the rain, hail, and thunder had stopped, he sinned again. He and his servants hardened their hearts."
+    },
+    {
+      "reference": "Exodus 9:35",
+      "source_reference": "Exod 9:35",
+      "source_verse_sha256": "f36f8813fc16f7589ea244b89e97f0a421d59c3c46a48155e99223589305abcb",
+      "hebrew": "וַֽ/יֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְ/לֹ֥א שִׁלַּ֖ח אֶת ־ בְּנֵ֣י יִשְׂרָאֵ֑ל כַּ/אֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה בְּ/יַד ־ מֹשֶֽׁה ׃ פ",
+      "matches": [
+        {
+          "hebrew": "וַֽ/יֶּחֱזַק֙",
+          "lemma": "c/2388",
+          "morph": "HC/Vqw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "Pharaoh’s heart remained hard, and he did not let the Israelites go, just as the LORD had said through Moses."
+    },
+    {
+      "reference": "Exodus 10:1",
+      "source_reference": "Exod 10:1",
+      "source_verse_sha256": "c3d7e2ece7c64a01549bd3f353fee06f512c032d2d095d6fe4a3602463f97da4",
+      "hebrew": "וַ/יֹּ֤אמֶר יְהוָה֙ אֶל ־ מֹשֶׁ֔ה בֹּ֖א אֶל ־ פַּרְעֹ֑ה כִּֽי ־ אֲנִ֞י הִכְבַּ֤דְתִּי אֶת ־ לִבּ/וֹ֙ וְ/אֶת ־ לֵ֣ב עֲבָדָ֔י/ו לְמַ֗עַן שִׁתִ֛/י אֹתֹתַ֥/י אֵ֖לֶּה בְּ/קִרְבּֽ/וֹ ׃",
+      "matches": [
+        {
+          "hebrew": "הִכְבַּ֤דְתִּי",
+          "lemma": "3513",
+          "morph": "HVhp1cs",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "The LORD said to Moses, “Go to Pharaoh. I have hardened his heart and his servants’ hearts so that I may perform these signs among them,"
+    },
+    {
+      "reference": "Exodus 10:20",
+      "source_reference": "Exod 10:20",
+      "source_verse_sha256": "bd7ead32a94a9b1c9493d614ccf444945b0bda83400a2891c02b6bcf42538c96",
+      "hebrew": "וַ/יְחַזֵּ֥ק יְהוָ֖ה אֶת ־ לֵ֣ב פַּרְעֹ֑ה וְ/לֹ֥א שִׁלַּ֖ח אֶת ־ בְּנֵ֥י יִשְׂרָאֵֽל ׃ פ",
+      "matches": [
+        {
+          "hebrew": "וַ/יְחַזֵּ֥ק",
+          "lemma": "c/2388",
+          "morph": "HC/Vpw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "But the LORD hardened Pharaoh’s heart, and he did not let the Israelites go."
+    },
+    {
+      "reference": "Exodus 10:27",
+      "source_reference": "Exod 10:27",
+      "source_verse_sha256": "b31e830fb5de670ff2e809f692a8c55781fcc2fd30100f9178235fc14713276e",
+      "hebrew": "וַ/יְחַזֵּ֥ק יְהוָ֖ה אֶת ־ לֵ֣ב פַּרְעֹ֑ה וְ/לֹ֥א אָבָ֖ה לְ/שַׁלְּחָֽ/ם ׃",
+      "matches": [
+        {
+          "hebrew": "וַ/יְחַזֵּ֥ק",
+          "lemma": "c/2388",
+          "morph": "HC/Vpw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "But the LORD hardened Pharaoh’s heart, and Pharaoh was unwilling to let them go."
+    },
+    {
+      "reference": "Exodus 11:10",
+      "source_reference": "Exod 11:10",
+      "source_verse_sha256": "4c699693f4364476d4412b9bda59ef8791a96479c3e9663e50027f94c84e7e92",
+      "hebrew": "וּ/מֹשֶׁ֣ה וְ/אַהֲרֹ֗ן עָשׂ֛וּ אֶת ־ כָּל ־ הַ/מֹּפְתִ֥ים הָ/אֵ֖לֶּה לִ/פְנֵ֣י פַרְעֹ֑ה וַ/יְחַזֵּ֤ק יְהוָה֙ אֶת ־ לֵ֣ב פַּרְעֹ֔ה וְ/לֹֽא ־ שִׁלַּ֥ח אֶת ־ בְּנֵֽי ־ יִשְׂרָאֵ֖ל מֵ/אַרְצֽ/וֹ ׃ פ",
+      "matches": [
+        {
+          "hebrew": "וַ/יְחַזֵּ֤ק",
+          "lemma": "c/2388",
+          "morph": "HC/Vpw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "Moses and Aaron performed all these wonders before Pharaoh. But the LORD hardened Pharaoh’s heart, and he did not let the Israelites leave his land."
+    },
+    {
+      "reference": "Exodus 12:33",
+      "source_reference": "Exod 12:33",
+      "source_verse_sha256": "9352b87f6d9f5ad728d1249cdb3a9bea167a23bdf5c2616789dab0691ef5abc4",
+      "hebrew": "וַ/תֶּחֱזַ֤ק מִצְרַ֨יִם֙ עַל ־ הָ/עָ֔ם לְ/מַהֵ֖ר לְ/שַׁלְּחָ֣/ם מִן ־ הָ/אָ֑רֶץ כִּ֥י אָמְר֖וּ כֻּלָּ֥/נוּ מֵתִֽים ׃",
+      "matches": [
+        {
+          "hebrew": "וַ/תֶּחֱזַ֤ק",
+          "lemma": "c/2388",
+          "morph": "HC/Vqw3fs",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "The Egyptians pressed the people to leave the land quickly. “We’ll all be dead!” they said."
+    },
+    {
+      "reference": "Exodus 13:3",
+      "source_reference": "Exod 13:3",
+      "source_verse_sha256": "da0abf7eb06d3ab1318fd2ba511a40e2dc5a49ea0028d7d39dccef548216e5e2",
+      "hebrew": "וַ/יֹּ֨אמֶר מֹשֶׁ֜ה אֶל ־ הָ/עָ֗ם זָכ֞וֹר אֶת ־ הַ/יּ֤וֹם הַ/זֶּה֙ אֲשֶׁ֨ר יְצָאתֶ֤ם מִ/מִּצְרַ֨יִם֙ מִ/בֵּ֣ית עֲבָדִ֔ים כִּ֚י בְּ/חֹ֣זֶק יָ֔ד הוֹצִ֧יא יְהֹוָ֛ה אֶתְ/כֶ֖ם מִ/זֶּ֑ה וְ/לֹ֥א יֵאָכֵ֖ל חָמֵֽץ ׃",
+      "matches": [
+        {
+          "hebrew": "זָכ֞וֹר",
+          "lemma": "2142",
+          "morph": "HVqa",
+          "domains": [
+            "remember"
+          ]
+        }
+      ],
+      "fluent": "Moses said to the people, “Remember this day, when you left Egypt, the house of slavery. The LORD brought you out of here with a strong hand. Nothing leavened is to be eaten."
+    },
+    {
+      "reference": "Exodus 13:15",
+      "source_reference": "Exod 13:15",
+      "source_verse_sha256": "e2a7568619a34c206c5d70d343e3ba960428c26398def2138ec2ca865dfd88ca",
+      "hebrew": "וַ/יְהִ֗י כִּֽי ־ הִקְשָׁ֣ה פַרְעֹה֮ לְ/שַׁלְּחֵ/נוּ֒ וַ/יַּהֲרֹ֨ג יְהֹוָ֤ה כָּל ־ בְּכוֹר֙ בְּ/אֶ֣רֶץ מִצְרַ֔יִם מִ/בְּכֹ֥ר אָדָ֖ם וְ/עַד ־ בְּכ֣וֹר בְּהֵמָ֑ה עַל ־ כֵּן֩ אֲנִ֨י זֹבֵ֜חַ לַֽ/יהוָ֗ה כָּל ־ פֶּ֤טֶר רֶ֨חֶם֙ הַ/זְּכָרִ֔ים וְ/כָל ־ בְּכ֥וֹר בָּנַ֖/י אֶפְדֶּֽה ׃",
+      "matches": [
+        {
+          "hebrew": "הִקְשָׁ֣ה",
+          "lemma": "7185",
+          "morph": "HVhp3ms",
+          "domains": [
+            "hard"
+          ]
+        }
+      ],
+      "fluent": "When Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in Egypt, human and animal alike. That is why I sacrifice to the LORD every male that first opens the womb, but redeem every firstborn among my sons.’"
+    },
+    {
+      "reference": "Exodus 14:4",
+      "source_reference": "Exod 14:4",
+      "source_verse_sha256": "35b24141415c0107d9e0aaf4fdbb7aab14158fd25f272decd8c95631a51e33c2",
+      "hebrew": "וְ/חִזַּקְתִּ֣י אֶת ־ לֵב ־ פַּרְעֹה֮ וְ/רָדַ֣ף אַחֲרֵי/הֶם֒ וְ/אִכָּבְדָ֤ה בְּ/פַרְעֹה֙ וּ/בְ/כָל ־ חֵיל֔/וֹ וְ/יָדְע֥וּ מִצְרַ֖יִם כִּֽי ־ אֲנִ֣י יְהוָ֑ה וַ/יַּֽעֲשׂוּ ־ כֵֽן ׃",
+      "matches": [
+        {
+          "hebrew": "וְ/חִזַּקְתִּ֣י",
+          "lemma": "c/2388",
+          "morph": "HC/Vpq1cs",
+          "domains": [
+            "strong/strengthen"
+          ]
+        },
+        {
+          "hebrew": "וְ/אִכָּבְדָ֤ה",
+          "lemma": "c/3513",
+          "morph": "HC/VNh1cs",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "I will harden Pharaoh’s heart, and he will pursue them. I will gain glory through Pharaoh and all his army, and the Egyptians will know that I am the LORD.” So the Israelites did as he said."
+    },
+    {
+      "reference": "Exodus 14:8",
+      "source_reference": "Exod 14:8",
+      "source_verse_sha256": "c387b36c7e10857dfeb2f4b44e5febe612c142c5d2ce584ff0f91df1161a6063",
+      "hebrew": "וַ/יְחַזֵּ֣ק יְהֹוָ֗ה אֶת ־ לֵ֤ב פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם וַ/יִּרְדֹּ֕ף אַחֲרֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל וּ/בְנֵ֣י יִשְׂרָאֵ֔ל יֹצְאִ֖ים בְּ/יָ֥ד רָמָֽה ׃",
+      "matches": [
+        {
+          "hebrew": "וַ/יְחַזֵּ֣ק",
+          "lemma": "c/2388",
+          "morph": "HC/Vpw3ms",
+          "domains": [
+            "strong/strengthen"
+          ]
+        }
+      ],
+      "fluent": "The LORD hardened the heart of Pharaoh king of Egypt, and he pursued the Israelites as they went out with a raised hand."
+    },
+    {
+      "reference": "Exodus 14:17",
+      "source_reference": "Exod 14:17",
+      "source_verse_sha256": "d851e54bd055e746c475e13493367a5ed5b2846129a8ac57186c2a2bdf5fb3f6",
+      "hebrew": "וַ/אֲנִ֗י הִנְ/נִ֤י מְחַזֵּק֙ אֶת ־ לֵ֣ב מִצְרַ֔יִם וְ/יָבֹ֖אוּ אַחֲרֵי/הֶ֑ם וְ/אִכָּבְדָ֤ה בְּ/פַרְעֹה֙ וּ/בְ/כָל ־ חֵיל֔/וֹ בְּ/רִכְבּ֖/וֹ וּ/בְ/פָרָשָֽׁי/ו ׃",
+      "matches": [
+        {
+          "hebrew": "מְחַזֵּק֙",
+          "lemma": "2388",
+          "morph": "HVprmsa",
+          "domains": [
+            "strong/strengthen"
+          ]
+        },
+        {
+          "hebrew": "וְ/אִכָּבְדָ֤ה",
+          "lemma": "c/3513",
+          "morph": "HC/VNh1cs",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "I am going to harden the Egyptians’ hearts, and they will go in after them. I will gain glory through Pharaoh and all his army, his chariots and his horsemen."
+    },
+    {
+      "reference": "Exodus 14:18",
+      "source_reference": "Exod 14:18",
+      "source_verse_sha256": "482029e2c79a0bf118045bdf0eb4d03a32b1e945aecd5062572c2fa659bc7769",
+      "hebrew": "וְ/יָדְע֥וּ מִצְרַ֖יִם כִּי ־ אֲנִ֣י יְהוָ֑ה בְּ/הִכָּבְדִ֣/י בְּ/פַרְעֹ֔ה בְּ/רִכְבּ֖/וֹ וּ/בְ/פָרָשָֽׁי/ו ׃",
+      "matches": [
+        {
+          "hebrew": "בְּ/הִכָּבְדִ֣/י",
+          "lemma": "b/3513",
+          "morph": "HR/VNc/Sp1cs",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "The Egyptians will know that I am the LORD when I gain glory through Pharaoh, his chariots and his horsemen.”"
+    },
+    {
+      "reference": "Exodus 15:13",
+      "source_reference": "Exod 15:13",
+      "source_verse_sha256": "b4f9e55b7daeb188749ff14a36c23c1abc2cbb5f4fd4544909ae694bdd9ea961",
+      "hebrew": "נָחִ֥יתָ בְ/חַסְדְּ/ךָ֖ עַם ־ ז֣וּ גָּאָ֑לְתָּ נֵהַ֥לְתָּ בְ/עָזְּ/ךָ֖ אֶל ־ נְוֵ֥ה קָדְשֶֽׁ/ךָ ׃",
+      "matches": [
+        {
+          "hebrew": "בְ/חַסְדְּ/ךָ֖",
+          "lemma": "b/2617 a",
+          "morph": "HR/Ncmsc/Sp2ms",
+          "domains": [
+            "faithful love"
+          ]
+        }
+      ],
+      "fluent": "In your faithful love you led the people you redeemed; in your strength you guided them to your holy dwelling."
+    },
+    {
+      "reference": "Exodus 16:7",
+      "source_reference": "Exod 16:7",
+      "source_verse_sha256": "b280042a98d34fcfbd837ffb8b96cbe32a2107f59fe5c0222e81557899a28979",
+      "hebrew": "וּ/בֹ֗קֶר וּ/רְאִיתֶם֙ אֶת ־ כְּב֣וֹד יְהוָ֔ה בְּ/שָׁמְע֥/וֹ אֶת ־ תְּלֻנֹּתֵי/כֶ֖ם עַל ־ יְהוָ֑ה וְ/נַ֣חְנוּ מָ֔ה כִּ֥י תלונו עָלֵֽי/נוּ ׃",
+      "matches": [
+        {
+          "hebrew": "כְּב֣וֹד",
+          "lemma": "3519",
+          "morph": "HNcbsc",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "In the morning you will see the LORD’s glory, because he has heard your grumbling against him. Who are we, that you grumble against us?”"
+    },
+    {
+      "reference": "Exodus 16:10",
+      "source_reference": "Exod 16:10",
+      "source_verse_sha256": "927fc608452b4633b0d01534dd8715c518d5ce459f9489a69788ab1ae34d0a04",
+      "hebrew": "וַ/יְהִ֗י כְּ/דַבֵּ֤ר אַהֲרֹן֙ אֶל ־ כָּל ־ עֲדַ֣ת בְּנֵֽי ־ יִשְׂרָאֵ֔ל וַ/יִּפְנ֖וּ אֶל ־ הַ/מִּדְבָּ֑ר וְ/הִנֵּה֙ כְּב֣וֹד יְהוָ֔ה נִרְאָ֖ה בֶּ/עָנָֽן ׃ פ",
+      "matches": [
+        {
+          "hebrew": "כְּב֣וֹד",
+          "lemma": "3519",
+          "morph": "HNcbsc",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "As Aaron spoke to the whole community of Israelites, they turned toward the wilderness, and there was the LORD’s glory, appearing in the cloud."
+    },
+    {
+      "reference": "Exodus 19:5",
+      "source_reference": "Exod 19:5",
+      "source_verse_sha256": "b4287b46f3007cdad82dbef266805fb0ef859f02a1dcc54a3963c9b2791e466a",
+      "hebrew": "וְ/עַתָּ֗ה אִם ־ שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּ/קֹלִ֔/י וּ/שְׁמַרְתֶּ֖ם אֶת ־ בְּרִיתִ֑/י וִ/הְיִ֨יתֶם לִ֤/י סְגֻלָּה֙ מִ/כָּל ־ הָ֣/עַמִּ֔ים כִּי ־ לִ֖/י כָּל ־ הָ/אָֽרֶץ ׃",
+      "matches": [
+        {
+          "hebrew": "בְּרִיתִ֑/י",
+          "lemma": "1285",
+          "morph": "HNcfsc/Sp1cs",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "Now, if you truly listen to my voice and keep my covenant, you will be my treasured possession among all peoples, for the whole earth belongs to me."
+    },
+    {
+      "reference": "Exodus 20:6",
+      "source_reference": "Exod 20:6",
+      "source_verse_sha256": "83b0d058dcbda9dce1e904d585c0c5ea9510ec617e7650c6a72647e59c4a5eda",
+      "hebrew": "וְ/עֹ֥שֶׂה חֶ֖סֶד לַ/אֲלָפִ֑ים לְ/אֹהֲבַ֖/י וּ/לְ/שֹׁמְרֵ֥י מִצְוֺתָֽ/י ׃ ס",
+      "matches": [
+        {
+          "hebrew": "חֶ֖סֶד",
+          "lemma": "2617 a",
+          "morph": "HNcmsa",
+          "domains": [
+            "faithful love"
+          ]
+        }
+      ],
+      "fluent": "but showing faithful love to thousands, to those who love me and keep my commandments."
+    },
+    {
+      "reference": "Exodus 20:8",
+      "source_reference": "Exod 20:8",
+      "source_verse_sha256": "d568f1d2443f3371c36c7da251ca75374b55dc65bb9c61eb62466c72c4577e80",
+      "hebrew": "זָכ֛וֹר אֶת ־ י֥וֹם הַ/שַּׁבָּ֖ת לְ/קַדְּשֽׁ/וֹ ׃",
+      "matches": [
+        {
+          "hebrew": "זָכ֛וֹר",
+          "lemma": "2142",
+          "morph": "HVqa",
+          "domains": [
+            "remember"
+          ]
+        }
+      ],
+      "fluent": "Remember the Sabbath day and keep it holy."
+    },
+    {
+      "reference": "Exodus 20:12",
+      "source_reference": "Exod 20:12",
+      "source_verse_sha256": "44da08453a4f3fdb1e70406e8f724eac9379c409fb36f2314f1b3dc826079b01",
+      "hebrew": "כַּבֵּ֥ד אֶת ־ אָבִ֖י/ךָ וְ/אֶת ־ אִמֶּ֑/ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּ/ן יָמֶ֔י/ךָ עַ֚ל הָ/אֲדָמָ֔ה אֲשֶׁר ־ יְהוָ֥ה אֱלֹהֶ֖י/ךָ נֹתֵ֥ן לָֽ/ךְ ׃ ס",
+      "matches": [
+        {
+          "hebrew": "כַּבֵּ֥ד",
+          "lemma": "3513",
+          "morph": "HVpa",
+          "domains": [
+            "heavy/honor/glorify"
+          ]
+        }
+      ],
+      "fluent": "Honor your father and your mother, so your days may be long on the ground the LORD your God is giving you."
+    },
+    {
+      "reference": "Exodus 20:24",
+      "source_reference": "Exod 20:24",
+      "source_verse_sha256": "bb1544bf4aa0e7e828798c89cbddf96c85023742332184294a0294fc1dc6297b",
+      "hebrew": "מִזְבַּ֣ח אֲדָמָה֮ תַּעֲשֶׂה ־ לִּ/י֒ וְ/זָבַחְתָּ֣ עָלָ֗י/ו אֶת ־ עֹלֹתֶ֨י/ךָ֙ וְ/אֶת ־ שְׁלָמֶ֔י/ךָ אֶת ־ צֹֽאנְ/ךָ֖ וְ/אֶת ־ בְּקָרֶ֑/ךָ בְּ/כָל ־ הַ/מָּקוֹם֙ אֲשֶׁ֣ר אַזְכִּ֣יר אֶת ־ שְׁמִ֔/י אָב֥וֹא אֵלֶ֖י/ךָ וּ/בֵרַכְתִּֽי/ךָ ׃",
+      "matches": [
+        {
+          "hebrew": "אַזְכִּ֣יר",
+          "lemma": "2142",
+          "morph": "HVhi1cs",
+          "domains": [
+            "remember"
+          ]
+        }
+      ],
+      "fluent": "Make an altar of earth for me, and sacrifice on it your burnt offerings and peace offerings, your sheep and goats and your cattle. Wherever I cause my name to be remembered, I will come to you and bless you."
+    },
+    {
+      "reference": "Exodus 23:13",
+      "source_reference": "Exod 23:13",
+      "source_verse_sha256": "ef06a57ed188e3a9942cc0757e54eb9f8604814ee28edf72a5f14f62ef8edca8",
+      "hebrew": "וּ/בְ/כֹ֛ל אֲשֶׁר ־ אָמַ֥רְתִּי אֲלֵי/כֶ֖ם תִּשָּׁמֵ֑רוּ וְ/שֵׁ֨ם אֱלֹהִ֤ים אֲחֵרִים֙ לֹ֣א תַזְכִּ֔ירוּ לֹ֥א יִשָּׁמַ֖ע עַל ־ פִּֽי/ךָ ׃",
+      "matches": [
+        {
+          "hebrew": "תַזְכִּ֔ירוּ",
+          "lemma": "2142",
+          "morph": "HVhi2mp",
+          "domains": [
+            "remember"
+          ]
+        }
+      ],
+      "fluent": "Take care to keep everything I have told you. Do not invoke the names of other gods; do not let them be heard on your lips."
+    },
+    {
+      "reference": "Exodus 23:32",
+      "source_reference": "Exod 23:32",
+      "source_verse_sha256": "5d79e256ec3a04e7830f9aa06087dfca62fdc318927ce1b2585f1869828fd26f",
+      "hebrew": "לֹֽא ־ תִכְרֹ֥ת לָ/הֶ֛ם וְ/לֵ/אלֹֽהֵי/הֶ֖ם בְּרִֽית ׃",
+      "matches": [
+        {
+          "hebrew": "בְּרִֽית",
+          "lemma": "1285",
+          "morph": "HNcfsa",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "Do not make a covenant with them or with their gods."
+    },
+    {
+      "reference": "Exodus 24:7",
+      "source_reference": "Exod 24:7",
+      "source_verse_sha256": "35c5efe56ca9b03092b9110c56945a4b5e4837c52cddb7be4bb3a572e1c4f619",
+      "hebrew": "וַ/יִּקַּח֙ סֵ֣פֶר הַ/בְּרִ֔ית וַ/יִּקְרָ֖א בְּ/אָזְנֵ֣י הָ/עָ֑ם וַ/יֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר ־ דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֥ה וְ/נִשְׁמָֽע ׃",
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֔ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "He took the covenant document and read it aloud to the people. They said, “We will do everything the LORD has said, and we will obey.”"
+    },
+    {
+      "reference": "Exodus 24:8",
+      "source_reference": "Exod 24:8",
+      "source_verse_sha256": "783d0b5722475536f3494f33e1e7fab11596fdfc26edcc58cdd1f30102f0cc09",
+      "hebrew": "וַ/יִּקַּ֤ח מֹשֶׁה֙ אֶת ־ הַ/דָּ֔ם וַ/יִּזְרֹ֖ק עַל ־ הָ/עָ֑ם וַ/יֹּ֗אמֶר הִנֵּ֤ה דַֽם ־ הַ/בְּרִית֙ אֲשֶׁ֨ר כָּרַ֤ת יְהוָה֙ עִמָּ/כֶ֔ם עַ֥ל כָּל ־ הַ/דְּבָרִ֖ים הָ/אֵֽלֶּה ׃",
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִית֙",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "Moses took the blood and splashed it on the people. “Here is the blood of the covenant the LORD has made with you on the basis of all these words,” he said."
+    },
+    {
+      "reference": "Exodus 24:16",
+      "source_reference": "Exod 24:16",
+      "source_verse_sha256": "a780f16ff13ef03d1b9a1ad32bcb3ee00ecabee2b6b10aacc616263380bdef65",
+      "hebrew": "וַ/יִּשְׁכֹּ֤ן כְּבוֹד ־ יְהוָה֙ עַל ־ הַ֣ר סִינַ֔י וַ/יְכַסֵּ֥/הוּ הֶ/עָנָ֖ן שֵׁ֣שֶׁת יָמִ֑ים וַ/יִּקְרָ֧א אֶל ־ מֹשֶׁ֛ה בַּ/יּ֥וֹם הַ/שְּׁבִיעִ֖י מִ/תּ֥וֹךְ הֶ/עָנָֽן ׃",
+      "matches": [
+        {
+          "hebrew": "וַ/יִּשְׁכֹּ֤ן",
+          "lemma": "c/7931",
+          "morph": "HC/Vqw3ms",
+          "domains": [
+            "dwell/settle"
+          ]
+        },
+        {
+          "hebrew": "כְּבוֹד",
+          "lemma": "3519",
+          "morph": "HNcbsc",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "The glory of the LORD settled on Mount Sinai, and the cloud covered it for six days. On the seventh day he called to Moses from within the cloud."
+    },
+    {
+      "reference": "Exodus 24:17",
+      "source_reference": "Exod 24:17",
+      "source_verse_sha256": "fe266440b4c7f338bd27e3fb015f1508e2a4f216466fa30b8672f2ce5eba2f7b",
+      "hebrew": "וּ/מַרְאֵה֙ כְּב֣וֹד יְהוָ֔ה כְּ/אֵ֥שׁ אֹכֶ֖לֶת בְּ/רֹ֣אשׁ הָ/הָ֑ר לְ/עֵינֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל ׃",
+      "matches": [
+        {
+          "hebrew": "כְּב֣וֹד",
+          "lemma": "3519",
+          "morph": "HNcbsc",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "To the Israelites, the glory of the LORD looked like a consuming fire on the mountain’s summit."
+    },
+    {
+      "reference": "Exodus 25:8",
+      "source_reference": "Exod 25:8",
+      "source_verse_sha256": "19b01ab3c52530ec3a7fa8bbf8ae5fcf8993cee91fa98ca025c830fe7c1f9634",
+      "hebrew": "וְ/עָ֥שׂוּ לִ֖/י מִקְדָּ֑שׁ וְ/שָׁכַנְתִּ֖י בְּ/תוֹכָֽ/ם ׃",
+      "matches": [
+        {
+          "hebrew": "וְ/שָׁכַנְתִּ֖י",
+          "lemma": "c/7931",
+          "morph": "HC/Vqq1cs",
+          "domains": [
+            "dwell/settle"
+          ]
+        }
+      ],
+      "fluent": "Have them make a sanctuary for me, so I may dwell among them."
+    },
+    {
+      "reference": "Exodus 28:2",
+      "source_reference": "Exod 28:2",
+      "source_verse_sha256": "ef050bf9a252e064c8a3029b479c87c58884296910c7d9dc74910c0d2d385404",
+      "hebrew": "וְ/עָשִׂ֥יתָ בִגְדֵי ־ קֹ֖דֶשׁ לְ/אַהֲרֹ֣ן אָחִ֑י/ךָ לְ/כָב֖וֹד וּ/לְ/תִפְאָֽרֶת ׃",
+      "matches": [
+        {
+          "hebrew": "לְ/כָב֖וֹד",
+          "lemma": "l/3519",
+          "morph": "HR/Ncbsa",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "Make holy garments for your brother Aaron, for honor and beauty."
+    },
+    {
+      "reference": "Exodus 28:40",
+      "source_reference": "Exod 28:40",
+      "source_verse_sha256": "8e4ca49f654b51c4be9987a4ad7f8ad349e1af5a541afc1823c5371f5b7268ad",
+      "hebrew": "וְ/לִ/בְנֵ֤י אַהֲרֹן֙ תַּעֲשֶׂ֣ה כֻתֳּנֹ֔ת וְ/עָשִׂ֥יתָ לָ/הֶ֖ם אַבְנֵטִ֑ים וּ/מִגְבָּעוֹת֙ תַּעֲשֶׂ֣ה לָ/הֶ֔ם לְ/כָב֖וֹד וּ/לְ/תִפְאָֽרֶת ׃",
+      "matches": [
+        {
+          "hebrew": "לְ/כָב֖וֹד",
+          "lemma": "l/3519",
+          "morph": "HR/Ncbsa",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "For Aaron’s sons, make tunics, sashes, and head coverings, for honor and beauty."
+    },
+    {
+      "reference": "Exodus 29:43",
+      "source_reference": "Exod 29:43",
+      "source_verse_sha256": "9004996b5900722fba33165f71ab9983bf6bee8300d26eaa213fe4ba1a8a1a00",
+      "hebrew": "וְ/נֹעַדְתִּ֥י שָׁ֖מָּ/ה לִ/בְנֵ֣י יִשְׂרָאֵ֑ל וְ/נִקְדַּ֖שׁ בִּ/כְבֹדִֽ/י ׃",
+      "matches": [
+        {
+          "hebrew": "בִּ/כְבֹדִֽ/י",
+          "lemma": "b/3519",
+          "morph": "HR/Ncbsc/Sp1cs",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "I will meet with the Israelites there, and the place will be consecrated by my glory."
+    },
+    {
+      "reference": "Exodus 29:45",
+      "source_reference": "Exod 29:45",
+      "source_verse_sha256": "53d5318e34d189730882c987cdf0c6e904ebe51df31f2353983d782c09e70609",
+      "hebrew": "וְ/שָׁ֣כַנְתִּ֔י בְּ/ת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל וְ/הָיִ֥יתִי לָ/הֶ֖ם לֵ/אלֹהִֽים ׃",
+      "matches": [
+        {
+          "hebrew": "וְ/שָׁ֣כַנְתִּ֔י",
+          "lemma": "c/7931",
+          "morph": "HC/Vqq1cs",
+          "domains": [
+            "dwell/settle"
+          ]
+        }
+      ],
+      "fluent": "I will dwell among the Israelites and be their God."
+    },
+    {
+      "reference": "Exodus 29:46",
+      "source_reference": "Exod 29:46",
+      "source_verse_sha256": "817c6e0382a2674ccd2242f6bcbf92f97a0d86c59d17d1c8f5556d339aecdffa",
+      "hebrew": "וְ/יָדְע֗וּ כִּ֣י אֲנִ֤י יְהוָה֙ אֱלֹ֣הֵי/הֶ֔ם אֲשֶׁ֨ר הוֹצֵ֧אתִי אֹתָ֛/ם מֵ/אֶ֥רֶץ מִצְרַ֖יִם לְ/שָׁכְנִ֣/י בְ/תוֹכָ֑/ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵי/הֶֽם ׃ פ",
+      "matches": [
+        {
+          "hebrew": "לְ/שָׁכְנִ֣/י",
+          "lemma": "l/7931",
+          "morph": "HR/Vqc/Sp1cs",
+          "domains": [
+            "dwell/settle"
+          ]
+        }
+      ],
+      "fluent": "They will know that I am the LORD their God, who brought them out of Egypt to dwell among them. I am the LORD their God.”"
+    },
+    {
+      "reference": "Exodus 31:16",
+      "source_reference": "Exod 31:16",
+      "source_verse_sha256": "ec1034d30c715a3136a1fc5b5b7fdf27b25427d401ae66e7a78f6c76c3ff7cbc",
+      "hebrew": "וְ/שָׁמְר֥וּ בְנֵֽי ־ יִשְׂרָאֵ֖ל אֶת ־ הַ/שַּׁבָּ֑ת לַ/עֲשׂ֧וֹת אֶת ־ הַ/שַּׁבָּ֛ת לְ/דֹרֹתָ֖/ם בְּרִ֥ית עוֹלָֽם ׃",
+      "matches": [
+        {
+          "hebrew": "בְּרִ֥ית",
+          "lemma": "1285",
+          "morph": "HNcfsc",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "The Israelites are to keep the Sabbath, observing it throughout their generations as a lasting covenant."
+    },
+    {
+      "reference": "Exodus 32:13",
+      "source_reference": "Exod 32:13",
+      "source_verse_sha256": "34de9426355b6e3c69feb8ef3b8cf1aa28d0ab84fe4fbc43e061809b0bbd423c",
+      "hebrew": "זְכֹ֡ר לְ/אַבְרָהָם֩ לְ/יִצְחָ֨ק וּ/לְ/יִשְׂרָאֵ֜ל עֲבָדֶ֗י/ךָ אֲשֶׁ֨ר נִשְׁבַּ֣עְתָּ לָ/הֶם֮ בָּ/ךְ֒ וַ/תְּדַבֵּ֣ר אֲלֵ/הֶ֔ם אַרְבֶּה֙ אֶֽת ־ זַרְעֲ/כֶ֔ם כְּ/כוֹכְבֵ֖י הַ/שָּׁמָ֑יִם וְ/כָל ־ הָ/אָ֨רֶץ הַ/זֹּ֜את אֲשֶׁ֣ר אָמַ֗רְתִּי אֶתֵּן֙ לְ/זַרְעֲ/כֶ֔ם וְ/נָחֲל֖וּ לְ/עֹלָֽם ׃",
+      "matches": [
+        {
+          "hebrew": "זְכֹ֡ר",
+          "lemma": "2142",
+          "morph": "HVqv2ms",
+          "domains": [
+            "remember"
+          ]
+        }
+      ],
+      "fluent": "Remember your servants Abraham, Isaac, and Israel. You swore to them by your own self and said, ‘I will make your offspring as numerous as the stars in the sky. All this land I promised I will give to your offspring, and they will inherit it forever.’”"
+    },
+    {
+      "reference": "Exodus 33:18",
+      "source_reference": "Exod 33:18",
+      "source_verse_sha256": "61e1f8a844329d1d85df5e92236a1f21a2fa4029780c6d229e9263456d4a6e47",
+      "hebrew": "וַ/יֹּאמַ֑ר הַרְאֵ֥/נִי נָ֖א אֶת ־ כְּבֹדֶֽ/ךָ ׃",
+      "matches": [
+        {
+          "hebrew": "כְּבֹדֶֽ/ךָ",
+          "lemma": "3519",
+          "morph": "HNcbsc/Sp2ms",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "Moses said, “Please show me your glory.”"
+    },
+    {
+      "reference": "Exodus 33:22",
+      "source_reference": "Exod 33:22",
+      "source_verse_sha256": "6d9df299999a66c7644c274944b380a52daef6ceecd5d9d0e19947fcdacb5228",
+      "hebrew": "וְ/הָיָה֙ בַּ/עֲבֹ֣ר כְּבֹדִ֔/י וְ/שַׂמְתִּ֖י/ךָ בְּ/נִקְרַ֣ת הַ/צּ֑וּר וְ/שַׂכֹּתִ֥י כַפִּ֛/י עָלֶ֖י/ךָ עַד ־ עָבְרִֽ/י ׃",
+      "matches": [
+        {
+          "hebrew": "כְּבֹדִ֔/י",
+          "lemma": "3519",
+          "morph": "HNcbsc/Sp1cs",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "When my glory passes by, I will put you in a cleft in the rock and cover you with my hand until I have passed."
+    },
+    {
+      "reference": "Exodus 34:6",
+      "source_reference": "Exod 34:6",
+      "source_verse_sha256": "8a15e3651f6ffc7db637d20046d7e53b052dd4cb47287aa809eced36dee9be52",
+      "hebrew": "וַ/יַּעֲבֹ֨ר יְהוָ֥ה ׀ עַל ־ פָּנָי/ו֮ וַ/יִּקְרָא֒ יְהוָ֣ה ׀ יְהוָ֔ה אֵ֥ל רַח֖וּם וְ/חַנּ֑וּן אֶ֥רֶךְ אַפַּ֖יִם וְ/רַב ־ חֶ֥סֶד וֶ/אֱמֶֽת ׀",
+      "matches": [
+        {
+          "hebrew": "חֶ֥סֶד",
+          "lemma": "2617 a",
+          "morph": "HNcmsa",
+          "domains": [
+            "faithful love"
+          ]
+        }
+      ],
+      "fluent": "The LORD passed in front of him and proclaimed, “The LORD, the LORD, a God compassionate and gracious, slow to anger, abounding in faithful love and faithfulness,"
+    },
+    {
+      "reference": "Exodus 34:7",
+      "source_reference": "Exod 34:7",
+      "source_verse_sha256": "8ca2d73359dd216985c3482e3cd7c964dc1f5f34eccadbe5512a692f423ad31c",
+      "hebrew": "נֹצֵ֥ר חֶ֨סֶד֙ לָ/אֲלָפִ֔ים נֹשֵׂ֥א עָוֺ֛ן וָ/פֶ֖שַׁע וְ/חַטָּאָ֑ה וְ/נַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד ׀ עֲוֺ֣ן אָב֗וֹת עַל ־ בָּנִים֙ וְ/עַל ־ בְּנֵ֣י בָנִ֔ים עַל ־ שִׁלֵּשִׁ֖ים וְ/עַל ־ רִבֵּעִֽים ׃",
+      "matches": [
+        {
+          "hebrew": "חֶ֨סֶד֙",
+          "lemma": "2617 a",
+          "morph": "HNcmsa",
+          "domains": [
+            "faithful love"
+          ]
+        }
+      ],
+      "fluent": "keeping faithful love for thousands, forgiving guilt, rebellion, and sin, yet certainly not clearing the guilty, bringing the fathers’ guilt upon their children and grandchildren, to the third and fourth generations.”"
+    },
+    {
+      "reference": "Exodus 34:10",
+      "source_reference": "Exod 34:10",
+      "source_verse_sha256": "84225980cad15b0be1335a969f8be18f37efb14828b95f984a8b6b184735630d",
+      "hebrew": "וַ/יֹּ֗אמֶר הִנֵּ֣ה אָנֹכִי֮ כֹּרֵ֣ת בְּרִית֒ נֶ֤גֶד כָּֽל ־ עַמְּ/ךָ֙ אֶעֱשֶׂ֣ה נִפְלָאֹ֔ת אֲשֶׁ֛ר לֹֽא ־ נִבְרְא֥וּ בְ/כָל ־ הָ/אָ֖רֶץ וּ/בְ/כָל ־ הַ/גּוֹיִ֑ם וְ/רָאָ֣ה כָל ־ הָ֠/עָם אֲשֶׁר ־ אַתָּ֨ה בְ/קִרְבּ֜/וֹ אֶת ־ מַעֲשֵׂ֤ה יְהוָה֙ כִּֽי ־ נוֹרָ֣א ה֔וּא אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֥ה עִמָּֽ/ךְ ׃",
+      "matches": [
+        {
+          "hebrew": "בְּרִית֒",
+          "lemma": "1285",
+          "morph": "HNcfsa",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "He answered, “Look, I am making a covenant. Before all your people I will do wonders unlike anything brought into being anywhere on earth or among any nation. All the people among whom you live will see the LORD’s work, for what I am doing with you is awe-inspiring."
+    },
+    {
+      "reference": "Exodus 34:12",
+      "source_reference": "Exod 34:12",
+      "source_verse_sha256": "cbe1e7c1a09ff5e9ce6b4fcd2a1fb50ba96b357e1d51b432e162c72743224738",
+      "hebrew": "הִשָּׁ֣מֶר לְ/ךָ֗ פֶּן ־ תִּכְרֹ֤ת בְּרִית֙ לְ/יוֹשֵׁ֣ב הָ/אָ֔רֶץ אֲשֶׁ֥ר אַתָּ֖ה בָּ֣א עָלֶ֑י/הָ פֶּן ־ יִהְיֶ֥ה לְ/מוֹקֵ֖שׁ בְּ/קִרְבֶּֽ/ךָ ׃",
+      "matches": [
+        {
+          "hebrew": "בְּרִית֙",
+          "lemma": "1285",
+          "morph": "HNcfsa",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "Be careful not to make a covenant with the inhabitants of the land you are entering, or it will become a snare among you."
+    },
+    {
+      "reference": "Exodus 34:15",
+      "source_reference": "Exod 34:15",
+      "source_verse_sha256": "299f029e6dba6317643dfadf6948b250de244a17b6c3852f9fe404c63f2fe3e4",
+      "hebrew": "פֶּן ־ תִּכְרֹ֥ת בְּרִ֖ית לְ/יוֹשֵׁ֣ב הָ/אָ֑רֶץ וְ/זָנ֣וּ ׀ אַחֲרֵ֣י אֱלֹֽהֵי/הֶ֗ם וְ/זָבְחוּ֙ לֵ/אלֹ֣הֵי/הֶ֔ם וְ/קָרָ֣א לְ/ךָ֔ וְ/אָכַלְתָּ֖ מִ/זִּבְחֽ/וֹ ׃",
+      "matches": [
+        {
+          "hebrew": "בְּרִ֖ית",
+          "lemma": "1285",
+          "morph": "HNcfsa",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "Do not make a covenant with the land’s inhabitants. When they prostitute themselves to their gods and sacrifice to them, someone may invite you, and you may eat from his sacrifice."
+    },
+    {
+      "reference": "Exodus 34:19",
+      "source_reference": "Exod 34:19",
+      "source_verse_sha256": "f3eefcf0d054a5c932156c83242e9a03f27bebefd67cc7b8845d8cb7a9d72d80",
+      "hebrew": "כָּל ־ פֶּ֥טֶר רֶ֖חֶם לִ֑/י וְ/כָֽל ־ מִקְנְ/ךָ֙ תִּזָּכָ֔ר פֶּ֖טֶר שׁ֥וֹר וָ/שֶֽׂה ׃",
+      "matches": [
+        {
+          "hebrew": "תִּזָּכָ֔ר",
+          "lemma": "2142",
+          "morph": "HVNi3fs",
+          "domains": [
+            "remember"
+          ]
+        }
+      ],
+      "fluent": "Every firstborn that opens the womb belongs to me, including every firstborn male among your cattle and flocks."
+    },
+    {
+      "reference": "Exodus 34:27",
+      "source_reference": "Exod 34:27",
+      "source_verse_sha256": "1cee4198c6648763ede9345d844794b490ae1be3a63b6df6fe09fa0e034e645d",
+      "hebrew": "וַ/יֹּ֤אמֶר יְהוָה֙ אֶל ־ מֹשֶׁ֔ה כְּתָב ־ לְ/ךָ֖ אֶת ־ הַ/דְּבָרִ֣ים הָ/אֵ֑לֶּה כִּ֞י עַל ־ פִּ֣י ׀ הַ/דְּבָרִ֣ים הָ/אֵ֗לֶּה כָּרַ֧תִּי אִתְּ/ךָ֛ בְּרִ֖ית וְ/אֶת ־ יִשְׂרָאֵֽל ׃",
+      "matches": [
+        {
+          "hebrew": "בְּרִ֖ית",
+          "lemma": "1285",
+          "morph": "HNcfsa",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "The LORD told Moses, “Write down these words, for on the basis of these words I have made a covenant with you and with Israel.”"
+    },
+    {
+      "reference": "Exodus 34:28",
+      "source_reference": "Exod 34:28",
+      "source_verse_sha256": "b431ea4dcb0492de09cc97aaa4f918aa3ead70a4124fd68383908b6b30b87bf0",
+      "hebrew": "וַֽ/יְהִי ־ שָׁ֣ם עִם ־ יְהוָ֗ה אַרְבָּעִ֥ים יוֹם֙ וְ/אַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔ל וּ/מַ֖יִם לֹ֣א שָׁתָ֑ה וַ/יִּכְתֹּ֣ב עַל ־ הַ/לֻּחֹ֗ת אֵ֚ת דִּבְרֵ֣י הַ/בְּרִ֔ית עֲשֶׂ֖רֶת הַ/דְּבָרִֽים ׃",
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֔ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domains": [
+            "covenant"
+          ]
+        }
+      ],
+      "fluent": "Moses was there with the LORD for forty days and forty nights. He ate no bread and drank no water. And he wrote on the tablets the words of the covenant, the Ten Words."
+    },
+    {
+      "reference": "Exodus 40:34",
+      "source_reference": "Exod 40:34",
+      "source_verse_sha256": "ab26a60013d7232febccfb4078f50bb471b58921b3d783816cafeb4d2d9924dd",
+      "hebrew": "וַ/יְכַ֥ס הֶ/עָנָ֖ן אֶת ־ אֹ֣הֶל מוֹעֵ֑ד וּ/כְב֣וֹד יְהוָ֔ה מָלֵ֖א אֶת ־ הַ/מִּשְׁכָּֽן ׃",
+      "matches": [
+        {
+          "hebrew": "וּ/כְב֣וֹד",
+          "lemma": "c/3519",
+          "morph": "HC/Ncbsc",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "Then the cloud covered the tent of meeting, and the LORD’s glory filled the tabernacle."
+    },
+    {
+      "reference": "Exodus 40:35",
+      "source_reference": "Exod 40:35",
+      "source_verse_sha256": "20d6d61bf2365dd18e4422b27a9b060f0ad62b0ce2756d1c4b7f3cb25a647977",
+      "hebrew": "וְ/לֹא ־ יָכֹ֣ל מֹשֶׁ֗ה לָ/בוֹא֙ אֶל ־ אֹ֣הֶל מוֹעֵ֔ד כִּֽי ־ שָׁכַ֥ן עָלָ֖י/ו הֶ/עָנָ֑ן וּ/כְב֣וֹד יְהוָ֔ה מָלֵ֖א אֶת ־ הַ/מִּשְׁכָּֽן ׃",
+      "matches": [
+        {
+          "hebrew": "שָׁכַ֥ן",
+          "lemma": "7931",
+          "morph": "HVqp3ms",
+          "domains": [
+            "dwell/settle"
+          ]
+        },
+        {
+          "hebrew": "וּ/כְב֣וֹד",
+          "lemma": "c/3519",
+          "morph": "HC/Ncbsc",
+          "domains": [
+            "glory"
+          ]
+        }
+      ],
+      "fluent": "Moses could not enter the tent of meeting because the cloud had settled on it and the LORD’s glory filled the tabernacle."
+    }
+  ]
+}

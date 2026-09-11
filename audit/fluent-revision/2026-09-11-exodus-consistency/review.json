@@ -1,0 +1,31 @@
+{
+  "id": "fluent-exodus-consistency-2026-09-11",
+  "base_commit": "4ba664785f37da521607ff831ce9b3affd8376ce",
+  "scope": "Whole-book structural scan and selected source-based thematic consistency self-check; not a fresh verse-by-verse scholarly review.",
+  "status": "SELF_CHECK_COMPLETED",
+  "editorial_status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "chapter_changes": [],
+  "verse_changes": [],
+  "affected_ledgers": [],
+  "concordance": "concordance.json",
+  "focused_comparisons": "focused-comparisons.json",
+  "verification": "verification.json",
+  "reviewed_domains": {
+    "paragraph_flow": "All 40 chapters screened for complete sequential verse labels, paragraph containment including poetry, quotation balance, and sentence/list interruptions at paragraph boundaries. No interrupted sentences or lists were found. All main-text headings were read in sequence to check the movement from oppression and departure through wilderness, covenant, sanctuary instructions, breach and renewal, and completed sanctuary.",
+    "key_terms": "Read 62 source-bound verse comparisons containing all occurrences of eight selected source lemma IDs: covenant, faithful love, glory, remember, dwell/settle, strong/strengthen, heavy/honor/glorify, and hard. These are lemma families, not mandatory one-word English equivalents. The four faithful-love passages and all covenant occurrences retain recognizable terms. Honor in priestly garments and the unusual male-denoting form in 34:19 retain their contextual senses. This selected concordance is not an exhaustive semantic study of every related noun and adjective.",
+    "heart_and_agency": "The concordance preserves God as agent where named, Pharaoh and his servants where named, and the heart’s condition where no cause is named. Hardening is not reduced to a single agent or a theological explanation. Strong/heavy/hard source imagery remains explained in earlier notes; contextual English such as grasping, pressing, and honor remains appropriate outside the hardening episodes.",
+    "slavery_service_and_harm": "Read all source occurrences of the serve/enslave verb in the second comparison set. Serve links the demand to Pharaoh with divine service; ruthless enslavement remains explicit. Selected rereading of 21:7–11,20–21,26–27 preserves the sold daughter, marital obligations, male/female slaves, bodily injury, death and property claim without making them ordinary employment. Foreigners, widows and fatherless children remain visible in 22:21–24 and 23:9; no contemporary legal or political argument was added.",
+    "names": "Selected source-based comparison checked Reuel/Jethro, Jether/Jethro in 4:18 with its existing explanatory note, Levi/Kohath/Amram and Jochebed, and Bezalel/Uri/Hur/Judah, Oholiab/Ahisamach/Dan, and Ithamar/Aaron across chapters 31,35,38. Reuel was not silently harmonized to Jethro. Distinct family relationships were retained. This is not a new exhaustive review of every proper noun.",
+    "quantities_and_chronology": "Selected checks preserve Levi 137, Kohath 133, Amram 137, Moses 80 and Aaron 83, approximately 600000 departing men, 430 years in Egypt, the second-month fifteenth day, third-month arrival, forty days/nights on Sinai, forty years of manna as a forward-looking summary, and the second-year first-month first-day installation. No new chronological harmonization or modern conversion was imposed. The 603550-person half-shekel accounting and metal totals were checked in the preceding batch.",
+    "command_and_fulfillment": "Compared nine dimension/material pairs for ark, cover, table, lampstand gold, two curtain types, frames and both altars against Hebrew. Courtyard measurements, artisan identities and the census contribution also match their command context. The preceding 214-verse batch separately checked gemstone rows, inventories and repeated completion phrases. Detail absent from a fulfillment passage was not imported to force a match.",
+    "presence_and_glory": "Glory in the wilderness, settling on Sinai, dwelling among Israel, Moses’ request, and the final filling remain connected in ordinary biblical vocabulary. Moses’ inability to enter in 40:35 is preserved alongside earlier access accounts. The text does not resolve these narrative tensions with an added doctrinal explanation.",
+    "limits": "The 62-verse concordance and 81-verse focused set overlap once, yielding 142 distinct reread source/English comparisons. Their source annotations were inspected and exact hashes checked. This pass did not reread every note or retranslate all 1213 verses. It found no further wording changes necessary within the selected checks."
+  },
+  "preservation": "No translation chapter, comparator, verse ledger, approval record or Companion file changed during this self-check. No ledger rebinding is needed. Earlier full structural/source-binding and family audit evidence remains applicable because all chapter and ledger bytes are unchanged.",
+  "remaining_work": [
+    "Independent Hebrew scholarly review and reader testing across Exodus, Genesis and James.",
+    "Companion quotation and binding reconciliation before installation.",
+    "Leviticus 1–7 from the repository’s verified pinned Hebrew source, in connected complete-chapter batches."
+  ]
+}
