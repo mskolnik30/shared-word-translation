@@ -1,0 +1,295 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T11:32:13.030559+00:00",
+  "base_commit": "edf306f499fd56e328c803b41a418606b8a7a0b3",
+  "scope": "Exodus 7–8; 57 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 63,
+    "verses": 1851
+  },
+  "source_record_count": 1213,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "7:1": [
+      "like God to Pharaoh",
+      "your prophet"
+    ],
+    "7:3": [
+      "I will harden Pharaoh’s heart",
+      "signs and wonders"
+    ],
+    "7:4": [
+      "my hand",
+      "my companies",
+      "my people",
+      "judgment"
+    ],
+    "7:7": [
+      "eighty years",
+      "eighty-three"
+    ],
+    "7:9": [
+      "your staff",
+      "serpent"
+    ],
+    "7:10": [
+      "Aaron threw his staff"
+    ],
+    "7:12": [
+      "Aaron’s staff swallowed their staffs"
+    ],
+    "7:13": [
+      "heart grew hard"
+    ],
+    "7:14": [
+      "heart is unyielding"
+    ],
+    "7:15": [
+      "morning",
+      "snake"
+    ],
+    "7:16": [
+      "Let my people go",
+      "serve me",
+      "not listened"
+    ],
+    "7:17": [
+      "staff in my hand",
+      "blood"
+    ],
+    "7:18": [
+      "fish",
+      "die",
+      "stink",
+      "struggle"
+    ],
+    "7:19": [
+      "rivers, canals, ponds",
+      "wood and stone"
+    ],
+    "7:20": [
+      "He raised",
+      "before the eyes",
+      "All the water"
+    ],
+    "7:21": [
+      "could not drink"
+    ],
+    "7:22": [
+      "heart remained hard"
+    ],
+    "7:23": [
+      "take even this to heart"
+    ],
+    "7:24": [
+      "dug"
+    ],
+    "7:25": [
+      "Seven full days",
+      "LORD struck"
+    ],
+    "8:3": [
+      "teem",
+      "bedroom",
+      "bed",
+      "ovens",
+      "kneading bowls"
+    ],
+    "8:4": [
+      "onto you",
+      "your people",
+      "all your servants"
+    ],
+    "8:5": [
+      "Aaron",
+      "staff"
+    ],
+    "8:6": [
+      "Aaron stretched"
+    ],
+    "8:7": [
+      "magicians",
+      "brought frogs"
+    ],
+    "8:9": [
+      "only in the Nile"
+    ],
+    "8:10": [
+      "Tomorrow",
+      "Pharaoh answered"
+    ],
+    "8:11": [
+      "only in the Nile"
+    ],
+    "8:13": [
+      "houses, courtyards, and fields"
+    ],
+    "8:14": [
+      "heaps upon heaps",
+      "stank"
+    ],
+    "8:15": [
+      "he hardened his heart"
+    ],
+    "8:16": [
+      "dust of the ground",
+      "gnats"
+    ],
+    "8:17": [
+      "people and animals",
+      "all the dust"
+    ],
+    "8:18": [
+      "could not",
+      "people and animals"
+    ],
+    "8:19": [
+      "finger of God",
+      "heart remained hard"
+    ],
+    "8:22": [
+      "Goshen",
+      "No swarms",
+      "midst of the land"
+    ],
+    "8:23": [
+      "redeeming",
+      "set them apart",
+      "tomorrow"
+    ],
+    "8:24": [
+      "land was being ruined"
+    ],
+    "8:25": [
+      "here in the land"
+    ],
+    "8:26": [
+      "abomination",
+      "stone us"
+    ],
+    "8:27": [
+      "three days"
+    ],
+    "8:28": [
+      "not go far at all",
+      "Plead for me"
+    ],
+    "8:29": [
+      "Pharaoh must not deceive us again"
+    ],
+    "8:31": [
+      "Not one remained"
+    ],
+    "8:32": [
+      "Pharaoh hardened his heart"
+    ]
+  },
+  "source_annotation_7_10_and_versification_notes_hashed_in_full": true,
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read every Hebrew verse, drafted from that source with supplemental grammatical notes, read all TSW comparators, and reread the assembled English. Focused checks cover explicit and unstated hardening agents, staff ownership and unnamed performer, creatures, water and animal harm, timing, the redemption noun, and public/source numbering. This is not independent editorial review.",
+  "public_hebrew_versification": "All 57 source records mapped exactly once; public 8:1–4 = Hebrew 7:26–29 and public 8:5–32 = Hebrew 8:1–28. The XML KJV reference notes independently corroborate each chapter 8 mapping.",
+  "exodus_source_references_unique_through_8": 210,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

@@ -4,110 +4,95 @@ testament: OT
 chapter: 7
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-7-8-biblical-fluency-2026-09-11
 ---
 
+## Moses and Aaron sent to Pharaoh
+
 <p>
-v01: The LORD said to Moses, “See, I have made you God to Pharaoh, and Aaron your brother will be your prophet.
+v01: The LORD said to Moses, “Look, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.
+v02: You must speak everything I command you. Your brother Aaron must speak to Pharaoh so that he will let the Israelites leave his land.
+v03: But I will harden Pharaoh’s heart, and I will multiply my signs and wonders in Egypt.
+v04: Pharaoh will not listen to you. Then I will lay my hand on Egypt and bring my companies—my people, the Israelites—out of Egypt with great acts of judgment.
+v05: The Egyptians will know that I am the LORD when I stretch out my hand over Egypt and bring the Israelites out from among them.”
 </p>
 
 <p>
-v02: You are to speak all that I command you, and Aaron your brother is to speak to Pharaoh, so that he will send the Israelites out of his land.
+v06: Moses and Aaron did so. They did just what the LORD had commanded them.
+v07: Moses was eighty years old and Aaron eighty-three when they spoke to Pharaoh.
 </p>
 
-<p>
-v03: Yet I will harden Pharaoh’s heart, and I will multiply my signs and my wonders in the land of Egypt.
-</p>
-
-<p>
-v04: Pharaoh will not listen to you. Then I will lay my hand on Egypt and bring out my companies, my people, the Israelites, from the land of Egypt by great acts of judgment.
-</p>
-
-<p>
-v05: The Egyptians will know that I am the LORD when I stretch out my hand against Egypt and bring the Israelites out from among them.”
-</p>
-
-<p>
-v06: Moses and Aaron did as the LORD commanded them; so they did.
-</p>
-
-<p>
-v07: Moses was eighty years old and Aaron eighty-three years old when they spoke to Pharaoh.
-</p>
+## Aaron’s staff before Pharaoh
 
 <p>
 v08: The LORD said to Moses and Aaron,
+v09: “When Pharaoh says to you, ‘Show a wonder to prove yourselves,’ tell Aaron, ‘Take your staff and throw it down in front of Pharaoh.’ It will become a serpent.”
 </p>
 
 <p>
-v09: “When Pharaoh speaks to you, saying, ‘Perform a wonder for yourselves,’ then you are to say to Aaron, ‘Take your staff and throw it down before Pharaoh. Let it become a great serpent.’”
+v10: Moses and Aaron went to Pharaoh and did just as the LORD had commanded. Aaron threw his staff down before Pharaoh and his servants, and it became a serpent.
 </p>
 
 <p>
-v10: Moses and Aaron went in to Pharaoh, and they did as the LORD commanded. Aaron threw down his staff before Pharaoh and before his servants, and it became a great serpent.
+v11: Pharaoh also summoned the wise men and sorcerers. These Egyptian magicians did the same thing through their secret arts.
+v12: Each man threw down his staff, and the staffs became serpents. But Aaron’s staff swallowed their staffs.
 </p>
 
 <p>
-v11: Then Pharaoh also called for the wise men and the sorcerers, and they too—the magicians of Egypt—did the same by their secret arts.
+v13: Yet Pharaoh’s heart grew hard, and he did not listen to them, just as the LORD had said.
+</p>
+
+## The Nile turns to blood
+
+<p>
+v14: The LORD said to Moses, “Pharaoh’s heart is unyielding. He refuses to let the people go.
+v15: Go to Pharaoh in the morning as he goes out to the water. Stand at the bank of the Nile to meet him, and take in your hand the staff that turned into a snake.
+v16: Tell him, ‘The LORD, the God of the Hebrews, sent me to you with this message: “Let my people go so they may serve me in the wilderness.” But until now you have not listened.
+v17: This is what the LORD says: “By this you will know that I am the LORD. I am about to strike the Nile’s water with the staff in my hand, and it will turn to blood.
+v18: The fish in the Nile will die, the river will stink, and the Egyptians will struggle to drink its water.”’”
 </p>
 
 <p>
-v12: Each threw down his staff, and they became great serpents. But Aaron’s staff swallowed up their staffs.
+v19: The LORD told Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over Egypt’s waters—its rivers, canals, ponds, and every gathering of water—so they become blood.’ There will be blood throughout Egypt, even in containers of wood and stone.”
 </p>
 
 <p>
-v13: Yet Pharaoh’s heart became firm, and he did not listen to them, as the LORD had spoken.
+v20: Moses and Aaron did just as the LORD commanded. He raised the staff and struck the Nile’s water before the eyes of Pharaoh and his servants. All the water in the Nile turned to blood.
+v21: The fish in the Nile died, and the river stank. The Egyptians could not drink its water. There was blood throughout Egypt.
 </p>
 
 <p>
-v14: Then the LORD said to Moses, “Pharaoh’s heart is heavy; he refuses to send the people away.
+v22: The Egyptian magicians did the same through their secret arts. Pharaoh’s heart remained hard, and he did not listen to Moses and Aaron, just as the LORD had said.
+v23: Pharaoh turned and went into his house. He did not take even this to heart.
 </p>
 
 <p>
-v15: Go to Pharaoh in the morning. Look, he is going out to the water. Stand to meet him on the bank of the Nile, and take in your hand the staff that was changed into a snake.
-</p>
-
-<p>
-v16: Say to him, ‘The LORD, the God of the Hebrews, sent me to you, saying, “Send my people away, that they may serve me in the wilderness.” But look, until now you have not listened.
-</p>
-
-<p>
-v17: Thus says the LORD: By this you will know that I am the LORD. Look, with the staff that is in my hand I am striking the water in the Nile, and it will be changed into blood.
-</p>
-
-<p>
-v18: The fish in the Nile will die, the Nile will stink, and the Egyptians will be unable to drink water from the Nile.’”
-</p>
-
-<p>
-v19: The LORD said to Moses, “Say to Aaron, ‘Take your staff and stretch out your hand over the waters of Egypt—over their rivers, their canals, their pools, and every collection of their waters—and they will become blood. There will be blood throughout all the land of Egypt, even in the wood and in the stone.’”
-</p>
-
-<p>
-v20: Moses and Aaron did so, as the LORD commanded. He raised the staff and struck the water in the Nile before the eyes of Pharaoh and before the eyes of his servants, and all the water in the Nile was changed into blood.
-</p>
-
-<p>
-v21: The fish in the Nile died, and the Nile stank. The Egyptians could not drink water from the Nile, and there was blood throughout all the land of Egypt.
-</p>
-
-<p>
-v22: But the magicians of Egypt did the same by their secret arts. Pharaoh’s heart became firm, and he did not listen to them, as the LORD had spoken.
-</p>
-
-<p>
-v23: Pharaoh turned and went into his house, and he did not set his heart even on this.
-</p>
-
-<p>
-v24: All the Egyptians dug around the Nile for water to drink, because they could not drink from the water of the Nile.
-</p>
-
-<p>
-v25: Seven days were completed after the LORD struck the Nile.
+v24: All the Egyptians dug around the Nile for drinking water because they could not drink from the river.
+v25: Seven full days passed after the LORD struck the Nile.
 </p>
 
 ## Notes
 
-v25: The Hebrew chapter division continues the announcement of the frogs as 7:26–29; common English versification places that material at 8:1–4.
+v1: Literally, ‘I have made you God to Pharaoh.’ The relation to Aaron as prophet recalls 4:16; ‘like’ makes the comparison clear.
+
+v3, 13–14, 22: The Hebrew uses words associated with being hard, strong, and heavy for Pharaoh’s heart. Verse 3 names God as the agent; verses 13 and 22 describe the heart’s condition without naming a cause. Verse 14 literally calls the heart ‘heavy.’
+
+v9–12, 15: ‘Serpent’ represents tannin, a broader creature word than the nachash, ‘snake,’ in verse 15 and 4:3. The passage does not fix a species.
+
+v19: ‘Containers’ supplies an understood object: the Hebrew ends simply ‘in wood and in stone.’
+
+v20: The Hebrew says ‘he’ without naming the person raising the staff. The preceding command points to Aaron, though Moses has also been understood as the subject.
 
 ## Vocabulary
+
+v1: Prophet — naviʾ
+A person who speaks a message on behalf of another; here Aaron speaks for Moses.
+
+v3: Signs and wonders
+Two recurring descriptions of the extraordinary acts announced and performed in Egypt.
+
+v11, 22: Secret arts
+The text reports the magicians’ practices without explaining how they work.
