@@ -66,12 +66,17 @@
       "scope": "Exodus 9–11",
       "verses": 74,
       "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json"
+    },
+    {
+      "scope": "Exodus 12–18",
+      "verses": 210,
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Exodus 12–18",
-      "action": "Continue from verified pinned Hebrew through Passover, departure, sea crossing, song, and wilderness provision. Preserve calendar dates, household participants, firstborn deaths, sea imagery, and poetic form. Use Sea of Reeds for Yam Suph with the traditional Red Sea name noted, as at 10:19. Complete connected chapters with verse ledgers and checks."
+      "scope": "Exodus 19–24",
+      "action": "Continue from the pinned Hebrew through Sinai, covenant instructions, and ratification. Preserve legal distinctions, named agents, ancient social conditions and real harm; keep the Ten Words readable without doctrinal expansion. Complete chapters with exact source bindings and qualified structural QA."
     }
   ],
   "standards": [

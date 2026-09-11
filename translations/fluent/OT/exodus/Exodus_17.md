@@ -4,97 +4,76 @@ testament: OT
 chapter: 17
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-12-18-biblical-fluency-2026-09-11
 ---
 
-## Water from the Rock
+## Water at Rephidim
 
 <p>
-v01: All the congregation of the Israelites journeyed by stages from the wilderness of Sin, as the LORD commanded, and camped at Rephidim; but there was no water for the people to drink.
-v02: So the people quarreled with Moses and said, “Give us water to drink.” Moses said to them, “Why do you quarrel with me? Why do you test the LORD?”
-v03: But the people thirsted there for water; and the people complained against Moses and said, “Why did you bring us up out of Egypt, to kill us and our children and our livestock with thirst?”
+v01: The whole community of Israelites moved on from the wilderness of Sin, traveling stage by stage at the LORD’s command. They camped at Rephidim, but there was no water for the people to drink.
+v02: The people quarreled with Moses. “Give us water to drink!” they demanded. Moses said, “Why are you quarreling with me? Why are you testing the LORD?”
+v03: The people were thirsty there and grumbled against Moses. “Why did you bring us up from Egypt,” they said, “to kill me, my children, and my livestock with thirst?”
 </p>
 
 <p>
-v04: So Moses cried out to the LORD, “What will I do with this people? They are almost ready to stone me.”
-v05: The LORD said to Moses, “Go on ahead of the people, and take with you some of the elders of Israel; take in your hand the staff with which you struck the Nile, and go.
-v06: See, I will be standing there before you on the rock at Horeb. Strike the rock, and water will come out of it, so that the people may drink.” Moses did so, in the sight of the elders of Israel.
+v04: Moses cried out to the LORD, “What am I to do with these people? A little more, and they will stone me!”
+</p>
+
+<p>
+v05: The LORD said to Moses, “Go ahead of the people and take some of Israel’s elders with you. Take in your hand the staff with which you struck the Nile, and go.
+v06: I will stand there before you on the rock at Horeb. Strike the rock, and water will come out for the people to drink.” Moses did this in the sight of Israel’s elders.
+</p>
+
+<p>
 v07: He called the place Massah and Meribah, because the Israelites quarreled and tested the LORD, saying, “Is the LORD among us or not?”
 </p>
 
-## Amalek Attacks Israel
+## The battle with Amalek
 
 <p>
-v08: Then Amalek came and fought with Israel at Rephidim.
-v09: Moses said to Joshua, “Choose some men for us, and go out, fight with Amalek; tomorrow I will stand on the top of the hill with the staff of God in my hand.”
-v10: So Joshua did as Moses told him, and fought with Amalek, while Moses, Aaron, and Hur went up to the top of the hill.
+v08: Then Amalek came and fought Israel at Rephidim.
+v09: Moses told Joshua, “Choose men for us and go out to fight Amalek. Tomorrow I will stand on top of the hill with God’s staff in my hand.”
 </p>
 
 <p>
-v11: Whenever Moses held up his hand, Israel prevailed; and whenever he lowered his hand, Amalek prevailed.
-v12: Yet Moses’ hands grew weary; so they took a stone and put it under him, and he sat on it. Aaron and Hur held up his hands, one on one side, and the other on the other side; so his hands were steady until the sun set.
+v10: Joshua did as Moses told him and fought Amalek, while Moses, Aaron, and Hur went up to the top of the hill.
+v11: Whenever Moses raised his hand, Israel had the upper hand. Whenever he lowered it, Amalek had the upper hand.
+</p>
+
+<p>
+v12: But Moses’ hands grew heavy. Aaron and Hur took a stone and put it under him, and he sat on it. They supported his hands, one on each side, so his hands stayed steady until sunset.
 v13: Joshua defeated Amalek and his people with the edge of the sword.
 </p>
 
 <p>
-v14: Then the LORD said to Moses, “Write this as a remembrance in a book and recite it in the hearing of Joshua: I will utterly blot out the remembrance of Amalek from under heaven.”
-v15: Moses built an altar and named it, The LORD Is My Banner.
-v16: He said, “A hand upon the throne of the LORD! The LORD will have war with Amalek from generation to generation.”
+v14: The LORD said to Moses, “Write this in a scroll as a memorial, and make sure Joshua hears it: I will completely blot out the memory of Amalek from under heaven.”
+v15: Moses built an altar and named it “The LORD Is My Banner.”
+v16: He said, “A hand upon Yah’s throne! The LORD is at war with Amalek from generation to generation.”
 </p>
 
 ## Notes
 
-v01: “Journeyed by stages” underscores ordered movement under the LORD’s command; the crisis arises not from disobedience but within obedience.
+v3: The Hebrew complaint shifts from ‘us’ to ‘me, my children, and my livestock.’ The personal voice within the collective complaint is retained.
 
-v02: “Quarreled” (rib) signals a legal dispute; the people place Moses—and by extension the LORD—on trial.
+v5: The staff is described here as the one with which Moses struck the Nile. Exodus 7:19–20 also gives Aaron a role in that action. The different attributions remain visible.
 
-v03: The complaint escalates to an accusation of lethal intent, echoing earlier wilderness murmuring and intensifying the charge against God.
+v11–12: The account describes Moses’ raised hand and the support of Aaron and Hur. It does not explicitly say that Moses was praying.
 
-v05–06: The staff that struck the Nile now strikes the rock; an instrument of judgment becomes an instrument of provision, without explanation or justification.
-
-v06: “I will be standing there before you” places the LORD at the site of the blow; divine presence is implicated in the act that brings water.
-
-v07: Massah (“testing”) and Meribah (“quarreling”) memorialize the question, not the miracle: “Is the LORD among us or not?”
-
-v09: Joshua’s first appearance frames leadership as delegated and embodied, while Moses’ role becomes intercessory and symbolic.
-
-v11: The raised and lowered hand links the outcome of battle to sustained dependence rather than military strength alone.
-
-v12: Aaron and Hur’s support portrays leadership as communal; perseverance requires shared burden-bearing.
-
-v14: The command to write establishes memory as an act of obedience; the future is shaped by what is remembered aloud.
-
-v16: The closing saying is terse and ambiguous; the gesture toward the LORD’s throne and the declaration of ongoing conflict resist full clarification.
+v16: The first clause is difficult: whose hand, and whether it is on, toward, or against the throne, remain uncertain. ‘Throne’ follows the Hebrew text; a proposed change to ‘banner’ would connect more directly with the altar’s name, but is not adopted.
 
 ## Vocabulary
 
-v02: רִיב (rîb) — to contend, dispute, bring a legal case; often carries forensic or covenantal overtones rather than mere argument.
+v7: Massah and Meribah — massah, merivah
+The names recall ‘testing’ and ‘quarreling,’ respectively.
 
-v03: לָן / תְּלוּנָה (lûn / telûnāh) — to grumble, complain; sustained murmuring that questions leadership and divine intent.
+v14: Memorial — zikkaron
+Something that preserves remembrance, here a written record.
 
-v06: עָמַד (ʿāmad) — to stand, take one’s place; here signals deliberate, visible presence rather than distant oversight.
+v15: The LORD Is My Banner — YHWH nissi
+The altar’s name uses the image of a standard around which people rally.
 
-v07: מַסָּה (Massah) — “testing”; probing God’s presence or reliability, not neutral inquiry but skeptical demand.
-
-v07: מְרִיבָה (Meribah) — “quarreling, contention”; communal conflict that hardens into a named memory.
-
-v09: מַטֶּה (matteh) — staff, rod; symbol of authority and action, associated with both judgment and deliverance.
-
-v11: יָד (yād) — hand; denotes power, agency, or control, extending beyond the physical gesture.
-
-v12: כָּבֵד (kābēd) — to be heavy; used of Moses’ hands, suggesting weariness that carries moral and symbolic weight.
-
-v14: זִכָּרוֹן (zikkārôn) — remembrance, memorial; not passive memory but an active, formative act.
-
-v15: נֵס (nēs) — banner, standard; a rallying sign that marks identity and allegiance rather than mere victory.
-
-v02: רִיב (rîb)
-“To contend, dispute, bring a legal case.” Often carries forensic or covenantal overtones rather than mere argument.
-
-v03: לָן / תְּלוּנָה (lûn / telûnāh)
-“To grumble, complain; sustained murmuring that questions leadership and divine intent.”
-
-v06: עָמַד (ʿāmad)
-“To stand, take one’s place.” Here signals deliberate, visible presence rather than distant oversight.
-
-v07: מַסָּה (Massah)
-“testing”; probing God’s presence or reliability, not neutral inquiry but skeptical demand.
+v16: Yah — Yah
+A shortened form of the divine name, also used in the song at 15:2.

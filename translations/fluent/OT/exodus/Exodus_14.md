@@ -4,164 +4,103 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-12-18-biblical-fluency-2026-09-11
 ---
 
-## The Crossing of the Sea
-
-## Pharaoh Pursues Israel
+## Camp beside the sea
 
 <p>
-v01: Then the LORD spoke to Moses, saying,
+v01: The LORD spoke to Moses.
+v02: “Tell the Israelites to turn back and camp in front of Pi-hahiroth, between Migdol and the sea, opposite Baal-zephon. Camp across from it, beside the sea.
+v03: Pharaoh will think, ‘The Israelites are wandering in confusion. The wilderness has closed them in.’
+v04: I will harden Pharaoh’s heart, and he will pursue them. I will gain glory through Pharaoh and all his army, and the Egyptians will know that I am the LORD.” So the Israelites did as he said.
+</p>
 
-v02: “Speak to the sons of Israel, that they turn back and camp before Pi-Hahiroth, between Migdol and the sea, before Baal-Zephon. Opposite it you will camp by the sea.
+## Pharaoh pursues Israel
 
-v03: Pharaoh will say concerning the sons of Israel, ‘They are confused in the land; the wilderness has shut them in.’
-
-v04: I will strengthen Pharaoh’s heart, and he will pursue them, and I will be honored through Pharaoh and through all his army. Then Egypt will know that I am the LORD.” And they did so.
+<p>
+v05: When Egypt’s king was told that the people had fled, Pharaoh and his officials changed their minds about them. “What have we done?” they said. “We’ve let Israel go and lost their service!”
+v06: He had his chariot harnessed and took his troops with him.
+v07: He took six hundred chosen chariots, along with all the other chariots of Egypt, with officers over them all.
+v08: The LORD hardened the heart of Pharaoh king of Egypt, and he pursued the Israelites as they went out with a raised hand.
+v09: The Egyptians pursued them—all Pharaoh’s chariot horses, horsemen, and army—and caught up with them where they were camped beside the sea, near Pi-hahiroth, opposite Baal-zephon.
 </p>
 
 <p>
-v05: When it was told to the king of Egypt that the people had fled, the heart of Pharaoh and his servants was turned toward the people, and they said, “What is this we have done, that we have sent Israel away from serving us?”
-
-v06: So he harnessed his chariot and took his people with him.
-
-v07: He took six hundred chosen chariots and all the chariots of Egypt, with officers over all of them.
-
-v08: The LORD strengthened the heart of Pharaoh king of Egypt, and he pursued the sons of Israel while the sons of Israel were going out with a high hand.
-
-v09: The Egyptians pursued them—all Pharaoh’s horses and chariots, his horsemen, and his army—and overtook them camping by the sea, beside Pi-Hahiroth, before Baal-Zephon.
-</p>
-
-## Israel Cries Out at the Sea
-
-<p>
-v10: When Pharaoh drew near, the sons of Israel lifted their eyes, and look, Egypt was marching after them. They were very afraid, and the sons of Israel cried out to the LORD.
-
-v11: They said to Moses, “Is it because there are no graves in Egypt that you have taken us away to die in the wilderness? What is this you have done to us by bringing us out from Egypt?
-
-v12: Is this not the word that we spoke to you in Egypt, saying, ‘Leave us alone, and let us serve the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness.”
-
-v13: Moses said to the people, “Do not fear. Stand firm and see the salvation of the LORD that he will work for you today. For the Egyptians whom you see today, you will never see again.
-
-v14: The LORD will fight for you, and you will be silent.”
-</p>
-
-## The LORD Commands Israel Forward
-
-<p>
-v15: The LORD said to Moses, “Why do you cry out to me? Speak to the sons of Israel, that they go forward.
-
-v16: And you, lift up your staff and stretch out your hand over the sea and divide it, so that the sons of Israel may go into the midst of the sea on dry ground.
-
-v17: I, look, I will strengthen the heart of the Egyptians, and they will go in after them. I will be honored through Pharaoh and through all his army, through his chariots and through his horsemen.
-
-v18: Egypt will know that I am the LORD when I am honored through Pharaoh, through his chariots, and through his horsemen.”
+v10: As Pharaoh drew near, the Israelites looked up and saw the Egyptians marching after them. They were terrified and cried out to the LORD.
+v11: They said to Moses, “Were there no graves in Egypt? Is that why you brought us out here to die in the wilderness? What have you done to us by bringing us out of Egypt?
+v12: Didn’t we tell you in Egypt, ‘Leave us alone! Let us serve the Egyptians’? It would be better to serve the Egyptians than to die in the wilderness!”
 </p>
 
 <p>
-v19: Then the angel of God, who was going before the camp of Israel, moved and went behind them, and the pillar of cloud moved from before them and stood behind them,
+v13: Moses told the people, “Do not be afraid. Stand firm and see the rescue the LORD will bring you today. The Egyptians you see today—you will never see them again.
+v14: The LORD will fight for you. You are to be still.”
+</p>
 
-v20: coming between the camp of Egypt and the camp of Israel. And there was the cloud and the darkness, yet it gave light by night, so that the one did not come near the other all night.
+## A path through the sea
+
+<p>
+v15: The LORD said to Moses, “Why are you crying out to me? Tell the Israelites to move on.
+v16: Lift your staff, stretch your hand over the sea, and split it, so that the Israelites can go into the sea on dry ground.
+v17: I am going to harden the Egyptians’ hearts, and they will go in after them. I will gain glory through Pharaoh and all his army, his chariots and his horsemen.
+v18: The Egyptians will know that I am the LORD when I gain glory through Pharaoh, his chariots and his horsemen.”
 </p>
 
 <p>
-v21: Then Moses stretched out his hand over the sea, and the LORD drove the sea back by a strong east wind all night and made the sea dry ground, and the waters were divided.
-
-v22: And the sons of Israel went into the midst of the sea on dry ground, the waters being a wall to them on their right hand and on their left.
+v19: The angel of God, who had been going ahead of Israel’s camp, moved behind them. The pillar of cloud also moved from in front of them and stood behind them.
+v20: It came between the Egyptian camp and Israel’s camp. There were cloud and darkness, yet it lit up the night. Neither camp came near the other all night.
 </p>
 
 <p>
-v23: The Egyptians pursued and went in after them into the midst of the sea—all Pharaoh’s horses, his chariots, and his horsemen.
-
-v24: And in the morning watch the LORD looked down on the Egyptian forces from the pillar of fire and of cloud and threw the Egyptian forces into confusion,
-
-v25: clogging their chariot wheels so that they drove heavily. And the Egyptians said, “Let us flee from before Israel, for the LORD fights for them against Egypt.”
+v21: Moses stretched his hand over the sea. All night the LORD drove the sea back with a strong east wind, turning it into dry ground. The waters split apart.
+v22: The Israelites went into the sea on dry ground, with the waters forming a wall on their right and on their left.
 </p>
 
 <p>
-v26: Then the LORD said to Moses, “Stretch out your hand over the sea, that the waters may come back upon the Egyptians, upon their chariots, and upon their horsemen.”
+v23: The Egyptians pursued them into the sea—all Pharaoh’s horses, chariots and horsemen.
+v24: During the morning watch, the LORD looked down at the Egyptian camp from the pillar of fire and cloud and threw it into confusion.
+v25: He took off their chariot wheels, so they drove with difficulty. The Egyptians said, “Let’s flee from Israel! The LORD is fighting for them against Egypt!”
+</p>
 
-v27: So Moses stretched out his hand over the sea, and the sea returned to its normal course when the morning appeared. And as the Egyptians fled into it, the LORD threw the Egyptians into the midst of the sea.
+## The waters return
 
-v28: The waters returned and covered the chariots and the horsemen; of all the host of Pharaoh that had followed them into the sea, not one of them remained.
+<p>
+v26: The LORD said to Moses, “Stretch your hand over the sea so the waters return over the Egyptians, their chariots and their horsemen.”
+v27: Moses stretched his hand over the sea, and as morning approached, the sea returned to its full strength. The Egyptians fled toward it, and the LORD shook them into the sea.
+v28: The waters returned and covered the chariots and horsemen—all Pharaoh’s army that had followed the Israelites into the sea. Not one of them remained.
 </p>
 
 <p>
-v29: But the sons of Israel walked on dry ground through the sea, the waters being a wall to them on their right hand and on their left.
-
-v30: Thus the LORD saved Israel that day from the hand of the Egyptians, and Israel saw the Egyptians dead on the seashore.
-
-v31: Israel saw the great power that the LORD used against the Egyptians, so the people feared the LORD, and they trusted in the LORD and in Moses his servant.
+v29: But the Israelites had walked through the sea on dry ground, with the waters forming a wall on their right and on their left.
+v30: That day the LORD rescued Israel from Egypt’s hand. Israel saw the Egyptians dead on the seashore.
+v31: Israel saw the mighty hand the LORD had used against Egypt. The people feared the LORD and trusted him and his servant Moses.
 </p>
 
 ## Notes
 
-v19–20: The divine presence shifts position—from leading to guarding—indicating tactical protection. Light and darkness function simultaneously, dividing the two camps.
+v4, 8, 17: These verses explicitly make the LORD the one who hardens the heart. Verse 5 also describes Pharaoh and his officials changing their minds. Both kinds of agency remain in the account.
 
-v21: The “east wind” (ruach) evokes both natural force and divine agency; creation imagery is implicit in the dividing of waters.
+v8: ‘With a raised hand’ pictures a bold, openly confident departure. The hand image recurs as Egypt’s power and the LORD’s rescuing power in verses 30–31.
 
-v22: “Wall” language heightens the miraculous structure of the passage—order imposed on chaos.
+v20: The Hebrew places cloud and darkness beside the lighting of the night. Some understand darkness for one camp and light for the other; that distribution is not explicit in the wording.
 
-v23–25: Egyptian pursuit mirrors Israel’s path, but the same space yields opposite outcomes. Divine “looking down” signals intervention.
+v25: ‘Took off’ follows the Hebrew text used here. Other textual witnesses support a reading connected with binding, often translated ‘jammed’ or ‘clogged.’
 
-v25: Recognition comes too late—Egypt names the theological reality: “the LORD fights.”
-
-v26–28: Reversal is total. The sea that opened now closes; the means of deliverance becomes the means of judgment.
-
-v29: Repetition reinforces contrast—Israel passes safely where Egypt perishes.
-
-v30–31: The sequence is theological: deliverance → perception → fear → trust. Faith emerges from witnessed action.
+v27–28: The account says the Egyptians fled toward the returning sea and that no one remained from the pursuing force. It does not separately narrate Pharaoh’s personal fate.
 
 ## Vocabulary
 
-v19: מַלְאָךְ (malʾāḵ)
-“Messenger/angel.” One who represents divine presence or action.
+v13: Rescue — yeshu‘ah
+Deliverance from danger; often translated ‘salvation.’ Here the danger is the pursuing army.
 
-v19: עַמּוּד (ʿammûḏ)
-“Pillar.” Vertical manifestation of guiding presence.
+v19: Angel — mal’akh
+A messenger. Here the messenger is God’s and moves behind Israel’s camp.
 
-v20: חֹשֶׁךְ (ḥōšeḵ)
+v24: Morning watch — ashmoret habboqer
+The final watch of the night, leading into morning.
 
-“Darkness.” Obscurity, often associated with judgment.
-
-v21: רוּחַ (rûaḥ)
-“Wind/spirit.” Breath or force, natural and divine.
-
-v21: בָּקַע (bāqaʿ)
-
-“To split/divide.” To break open, often violently.
-
-v22: חוֹמָה (ḥômāh)
-
-“Wall.” Protective or structural barrier.
-
-v24: שָׁקַף (šāqap̄)
-
-“To look down.” Overseeing from above, often in judgment.
-
-v24: הָמַם (hāmam)
-
-“To throw into confusion.” To disrupt or panic.
-
-v25: כָּבֵד (kāḇēḏ)
-
-“To be heavy.” To weigh down or hinder movement.
-
-v26: שׁוּב (šûḇ)
-
-“To return.” To go back, restore, or reverse.
-
-v27: נָעַר (nāʿar)
-
-“To shake off.” To cast away forcefully.
-
-v30: יָשַׁע (yāšaʿ)
-
-“To save/deliver.” To bring into safety or freedom.
-
-v31: יָרֵא (yārēʾ)
-
-“To fear.” Reverent awe in response to power.
-
-v31: אָמַן (ʾāman)
-“To trust/believe.” To rely firmly or be faithful.
+v31: Trust — he’emin
+Regard as reliable and place confidence in someone.

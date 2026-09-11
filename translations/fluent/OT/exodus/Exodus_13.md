@@ -4,108 +4,88 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-12-18-biblical-fluency-2026-09-11
 ---
 
-## Consecrate Every Firstborn
+## The firstborn belong to the LORD
 
 <p>
-v01: The LORD spoke to Moses, saying,
-
-v02: “Consecrate to me every firstborn, whatever first opens the womb among the children of Israel, both human and animal. It belongs to me.”
+v01: The LORD spoke to Moses.
+v02: “Consecrate every firstborn to me. Whatever opens the womb among the Israelites, whether human or animal, belongs to me.”
 </p>
 
-## Remember This Day
+## Remember and tell your children
 
 <p>
-v03: Moses said to the people, “Remember this day on which you came out from Egypt, from the house of slavery, for by strength of hand the LORD brought you out from there. Nothing leavened will be eaten.
-
-v04: Today you are going out, in the month of Abib.
-
-v05: And when the LORD brings you into the land of the Canaanite, the Hittite, the Amorite, the Hivite, and the Jebusite, which he swore to your ancestors to give you, a land flowing with milk and honey, you will keep this service in this month.
-
-v06: Seven days you will eat unleavened bread, and on the seventh day there will be a festival to the LORD.
-
-v07: Unleavened bread will be eaten for seven days, and nothing leavened will be seen with you, nor will leaven be seen with you within all your territory.
-
-v08: You will tell your child on that day, saying, ‘It is because of what the LORD did for me when I came out from Egypt.’
-
-v09: It will be for you as a sign on your hand and as a memorial between your eyes, so that the instruction of the LORD may be in your mouth, for with a strong hand the LORD brought you out from Egypt.
-
-v10: You will keep this statute at its appointed time from year to year.
+v03: Moses said to the people, “Remember this day, when you left Egypt, the house of slavery. The LORD brought you out of here with a strong hand. Nothing leavened is to be eaten.
+v04: Today, in the month of Abib, you are leaving.
+v05: When the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites—the land flowing with milk and honey that he swore to your ancestors to give you—keep this observance in this month.
+v06: Eat unleavened bread for seven days, and on the seventh day hold a festival to the LORD.
+v07: Unleavened bread is to be eaten for those seven days. No leavened food or leaven is to be seen anywhere in your territory.
 </p>
 
-## The Firstborn Belong to the LORD
-
 <p>
-v11: “And when the LORD brings you into the land of the Canaanite, as he swore to you and to your ancestors, and gives it to you,
-
-v12: you will set apart to the LORD everything that first opens the womb. Every firstborn male from your livestock belongs to the LORD.
-
-v13: Every firstborn donkey you will redeem with a lamb, but if you do not redeem it, you will break its neck. Every firstborn among your sons you will redeem.
-
-v14: And when your child asks you in time to come, saying, ‘What is this?’ you will say, ‘By strength of hand the LORD brought us out from Egypt, from the house of slavery.
-
-v15: When Pharaoh hardened himself against sending us out, the LORD killed every firstborn in the land of Egypt, from the firstborn of humans to the firstborn of animals. Therefore I sacrifice to the LORD every male that first opens the womb, but every firstborn of my sons I redeem.’
-
-v16: It will be as a sign on your hand and as bands between your eyes, for by strength of hand the LORD brought us out from Egypt.”
+v08: On that day tell your son, ‘I do this because of what the LORD did for me when I came out of Egypt.’
+v09: It will be a sign on your hand and a reminder between your eyes, so that the LORD’s instruction may be in your mouth. For the LORD brought you out of Egypt with a strong hand.
+v10: Keep this ordinance at its appointed time, year after year.
 </p>
 
-## God Leads the People by the Wilderness
+## Redeeming the firstborn
 
 <p>
-v17: When Pharaoh sent the people out, God did not lead them by the way of the land of the Philistines, though it was near, for God said, “Lest the people change their minds when they see war and return to Egypt.”
+v11: When the LORD brings you into the Canaanites’ land and gives it to you, as he swore to you and your ancestors,
+v12: you must set apart for the LORD whatever first opens the womb. Every firstborn male among the animals you own belongs to the LORD.
+v13: Redeem every firstborn donkey with an animal from the flock. If you do not redeem it, break its neck. You must redeem every firstborn son of yours.
+</p>
 
-v18: So God led the people around by the way of the wilderness toward the Sea of Reeds. The children of Israel went up armed from the land of Egypt.
+<p>
+v14: When your son asks you in days to come, ‘What does this mean?’ tell him, ‘The LORD brought us out of Egypt, the house of slavery, with a strong hand.
+v15: When Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in Egypt, human and animal alike. That is why I sacrifice to the LORD every male that first opens the womb, but redeem every firstborn among my sons.’
+v16: It will be a sign on your hand and a band between your eyes, for the LORD brought us out of Egypt with a strong hand.”
+</p>
 
-v19: Moses took the bones of Joseph with him, for Joseph had made the children of Israel swear solemnly, saying, “God will surely attend to you, and you will carry my bones up from here with you.”
+## Cloud and fire along the road
 
-v20: They journeyed from Succoth and camped at Etham, at the edge of the wilderness.
+<p>
+v17: When Pharaoh let the people go, God did not lead them by the road through the Philistines’ land, though it was near. God said, “If the people face war, they may change their minds and return to Egypt.”
+v18: Instead, God led the people around by the wilderness road toward the Sea of Reeds. The Israelites went up from Egypt equipped for battle.
+</p>
 
-v21: The LORD went before them by day in a pillar of cloud to lead them on the way, and by night in a pillar of fire to give them light, so that they could travel by day and by night.
+<p>
+v19: Moses took Joseph’s bones with him, because Joseph had made the Israelites swear an oath: “God will surely come to your aid. Then you must carry my bones up from here with you.”
+v20: They traveled from Succoth and camped at Etham, on the edge of the wilderness.
+</p>
 
-v22: The pillar of cloud by day and the pillar of fire by night did not depart from before the people.
+<p>
+v21: The LORD went ahead of them in a pillar of cloud by day to guide them along the road, and in a pillar of fire by night to give them light. So they could travel by day and by night.
+v22: The pillar of cloud by day and the pillar of fire by night never left their place ahead of the people.
 </p>
 
 ## Notes
 
-v02: “first opens the womb” is the Hebrew idiom for the firstborn offspring. Consecration links Israel’s future family life to the deliverance remembered in the Passover.
+v8, 14: The instruction addresses a son and gives the family a first-person answer: ‘for me’ and ‘brought us out.’ Remembrance includes learning to tell the account as the family’s own story.
 
-v03: “house of slavery” is a recurring covenantal name for Egypt and frames the exodus as liberation from forced service.
+v9, 16: The hand, the space between the eyes, and the mouth remain in the translation. The rare word rendered ‘band’ in verse 16 has an uncertain derivation. The wording does not settle here how these signs are to be embodied.
 
-v08: The parent speaks in the first person—“what the LORD did for me”—so that each generation receives the exodus as its own communal memory.
+v13: The donkey is redeemed with a sheep or goat; otherwise its neck is broken. Firstborn sons must be redeemed. The text distinguishes their treatment from animal sacrifice.
 
-v09, v16: The sign on hand and between the eyes expresses embodied remembrance and instruction. The text itself does not specify in this chapter the later physical form of these signs.
+v18: Sea of Reeds is Hebrew Yam Suph, traditionally called the Red Sea. The name alone does not establish a crossing site. ‘Equipped for battle’ renders a rare expression also understood as ‘in battle formation.’
 
-v13: A donkey, being unsuitable for sacrifice, is redeemed with a lamb. The law distinguishes redemption from sacrifice while preserving the LORD’s claim upon the firstborn.
-
-v17: God’s route is intentionally indirect. The nearer road is rejected because the newly freed people are not yet prepared for immediate war.
-
-v18: “Sea of Reeds” translates Hebrew *yam suf*. The traditional “Red Sea” remains familiar, but the Hebrew expression itself refers to reeds.
-
-v19: Carrying Joseph’s bones fulfills the oath from Genesis and makes the exodus an act of continuity with the ancestral promises.
+v19: Joseph’s oath recalls Genesis 50:24–25. The wording about God coming to their aid also connects with God’s attention to Israel in Exodus 3:16 and 4:31.
 
 ## Vocabulary
 
-v02: קַדֵּשׁ (qaddesh)
-“Consecrate.” To set apart as belonging to the LORD.
+v2: Consecrate — qaddesh
+Set apart as belonging to God.
 
-v02: פֶּטֶר רֶחֶם (peter rechem)
-“What first opens the womb.” An idiom for firstborn offspring.
+v4: Abib — aviv
+The month named for ripening ears of grain.
 
-v03: בֵּית עֲבָדִים (bet avadim)
-“House of slavery.” Egypt remembered as the place of forced service.
+v13: Redeem — padah
+Secure release through a substitute or payment. Here the text specifies an animal substitute for a donkey.
 
-v04: אָבִיב (Aviv)
-“Abib.” The spring month in which Israel left Egypt.
-
-v09: אוֹת (ot)
-“Sign.” A visible or embodied marker of remembrance.
-
-v13: פָּדָה (padah)
-“To redeem.” To secure release by substitution or payment.
-
-v18: יַם־סוּף (yam suf)
-“Sea of Reeds.” The body of water toward which Israel travels.
-
-v21: עַמּוּד (ammud)
-“Pillar” or “column.” The visible cloud and fire leading Israel.
+v9: Instruction — torah
+Teaching or direction to be learned and spoken, including binding commands.

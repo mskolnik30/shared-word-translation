@@ -4,193 +4,136 @@ testament: OT
 chapter: 15
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-12-18-biblical-fluency-2026-09-11
 ---
 
-## The Song of Moses and Israel
+## The song at the sea
 
 <p>
-v01: Then Moses and the children of Israel sang this song to the LORD and said:
-
-“I will sing to the LORD,
-for he has risen in triumph;
-horse and rider
-he has thrown into the sea.
-
-v02: The LORD is my strength and my song,
-and he has become my salvation.
-This is my God,
-and I will praise him;
-the God of my father,
-and I will exalt him.
-
+v01: Then Moses and the Israelites sang this song to the LORD:
+“I will sing to the LORD, for he has risen high in triumph;
+horse and rider he hurled into the sea.
+v02: Yah is my strength and my song;
+he has become my salvation.
+This is my God, and I will praise him;
+my father’s God, and I will lift him high.
 v03: The LORD is a warrior;
 the LORD is his name.
+</p>
 
-v04: Pharaoh’s chariots and his army
-he cast into the sea;
-his chosen officers
-were sunk in the Sea of Reeds.
+<p>
+v04: Pharaoh’s chariots and army he cast into the sea;
+his chosen officers sank in the Sea of Reeds.
+v05: The depths covered them;
+they sank into the deep like a stone.
+</p>
 
-v05: The deeps covered them;
-they went down into the depths
-like a stone.
-
-v06: Your right hand, O LORD,
-is majestic in power;
-your right hand, O LORD,
-shatters the enemy.
-
-v07: In the greatness of your majesty
-you overthrow people who rise against you.
+<p>
+v06: Your right hand, LORD, is majestic in power;
+your right hand, LORD, shatters the enemy.
+v07: In your great majesty you overthrow those who rise against you.
 You send out your burning anger;
 it consumes them like stubble.
+v08: At the breath of your nostrils, waters piled up.
+Flowing streams stood like a heap;
+the depths congealed in the heart of the sea.
+</p>
 
-v08: At the breath of your nostrils
-the waters piled up;
-the floods stood upright like a wall;
-the deeps congealed
-in the heart of the sea.
+<p>
+v09: The enemy said, ‘I will pursue! I will overtake!
+I will divide the plunder; my desire will be filled with them.
+I will draw my sword; my hand will dispossess them.’
+v10: You blew with your wind; the sea covered them.
+They sank like lead in the mighty waters.
+</p>
 
-v09: The enemy said,
-‘I will pursue;
-I will overtake;
-I will divide spoil.
-My appetite will be filled with them.
-I will draw my sword;
-my hand will dispossess them.’
-
-v10: You blew with your breath;
-the sea covered them.
-They sank like lead
-in mighty waters.
-
-v11: Who is like you among the gods, O LORD?
-Who is like you,
-majestic in holiness,
-awe-inspiring in praises,
-doing wonders?
-
+<p>
+v11: Who is like you among the gods, LORD?
+Who is like you, majestic in holiness,
+awesome in praises, doing wonders?
 v12: You stretched out your right hand;
 the earth swallowed them.
-
-v13: In your steadfast love
-you have led the people whom you redeemed.
-In your strength
-you have guided them
-to your holy dwelling.
+v13: In your faithful love you led the people you redeemed;
+in your strength you guided them to your holy dwelling.
 </p>
 
-## The Peoples Hear and Tremble
-
 <p>
-v14: Peoples hear;
-they tremble.
-Anguish seizes
-the inhabitants of Philistia.
-
-v15: Then the chiefs of Edom are dismayed;
-the leaders of Moab—
-trembling seizes them.
-All the inhabitants of Canaan
-melt away.
-
+v14: The peoples heard and trembled;
+anguish gripped those who live in Philistia.
+v15: Then Edom’s chiefs were dismayed;
+Moab’s leaders were seized with trembling.
+All who live in Canaan melted away.
 v16: Terror and dread fall upon them.
-By the greatness of your arm
-they become still as stone
-until your people pass by, O LORD,
-until the people whom you acquired
-pass by.
-
-v17: You will bring them in
-and plant them
-on the mountain of your inheritance,
-the place, O LORD,
-that you made for your dwelling,
-the sanctuary, O Lord,
-that your hands established.
-
-v18: The LORD will reign
-forever and ever.”
+At the greatness of your arm, they are still as stone,
+until your people pass through, LORD,
+until the people you acquired pass through.
 </p>
 
-## Miriam Leads the Women
-
 <p>
-v19: For Pharaoh’s horses went into the sea with his chariots and riders, and the LORD brought the waters of the sea back over them, but the children of Israel walked on dry ground among the sea.
-
-v20: Then Miriam the prophet, sister of Aaron, took a tambourine in her hand, and all the women went out after her with tambourines and dancing.
-
-v21: Miriam answered them:
-
-“Sing to the LORD,
-for he has risen in triumph;
-horse and rider
-he has thrown into the sea.”
+v17: You will bring them in and plant them on the mountain of your inheritance—
+the place you made for your dwelling, LORD,
+the sanctuary your hands established, Lord.
+v18: The LORD will reign forever and ever.”
 </p>
 
-## Bitter Water at Marah
+<p>
+v19: When Pharaoh’s horses, chariots and horsemen went into the sea, the LORD brought the sea’s waters back over them. But the Israelites walked on dry ground through the sea.
+</p>
+
+## Miriam’s response
 
 <p>
-v22: Then Moses made Israel set out from the Sea of Reeds, and they went out into the wilderness of Shur. They went three days in the wilderness and found no water.
+v20: Then Miriam the prophetess, Aaron’s sister, took a hand drum, and all the women went out after her with hand drums and dancing.
+v21: Miriam sang in response to them:
+“Sing to the LORD, for he has risen high in triumph;
+horse and rider he hurled into the sea.”
+</p>
 
-v23: They came to Marah, but they could not drink the waters of Marah because they were bitter. Therefore its name was called Marah.
+## Bitter water at Marah
 
-v24: The people murmured against Moses, saying, “What will we drink?”
+<p>
+v22: Moses led Israel away from the Sea of Reeds into the wilderness of Shur. They traveled for three days in the wilderness and found no water.
+v23: When they reached Marah, they could not drink its water because it was bitter. That is why the place was called Marah.
+</p>
 
-v25: He cried out to the LORD, and the LORD showed him a piece of wood. He threw it into the waters, and the waters became sweet.
+<p>
+v24: The people grumbled against Moses. “What are we to drink?” they asked.
+v25: Moses cried out to the LORD, and the LORD showed him a piece of wood. He threw it into the water, and the water became sweet. There the LORD gave the people a statute and a ruling, and there he tested them.
+v26: He said, “If you listen carefully to the voice of the LORD your God, do what is right in his eyes, pay attention to his commandments, and keep all his statutes, I will put none of the diseases on you that I put on Egypt. For I am the LORD who heals you.”
+</p>
 
-There he made for them a statute and an ordinance, and there he tested them.
-
-v26: He said, “If you will truly listen to the voice of the LORD your God, do what is right in his eyes, give ear to his commandments, and keep all his statutes, I will put none of the diseases upon you that I put upon Egypt, for I am the LORD who heals you.”
-
-v27: Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they camped there by the waters.
+<p>
+v27: They came to Elim, where there were twelve springs of water and seventy palm trees, and camped there beside the water.
 </p>
 
 ## Notes
 
-v01: The opening verb can mean rise up, become exalted, or triumph. The song celebrates the LORD’s overwhelming victory rather than merely height.
+v1–18: The song retells the crossing through images of a warrior, breath, hands, sinking stone and lead, swallowing earth, and a planted people. Its shifts between past, present, and future are retained rather than forced into a single narrative tense.
 
-v03: “The LORD is a warrior” is direct martial imagery arising from the deliverance at the sea. The poem does not separate divine kingship from divine warfare.
+v2: Yah is a shortened form of the divine name. ‘My song’ is a traditional reading of a difficult expression; ‘my might’ is another possibility. The rare verb rendered ‘praise’ may carry the sense of adorning with praise.
 
-v08: “breath of your nostrils” uses embodied poetic language for the wind by which the waters are driven back.
+v11–12: ‘Among the gods’ and ‘the earth swallowed them’ retain the poem’s own comparisons and images. They are not replaced with explanations drawn from later doctrinal debates.
 
-v11: “among the gods” preserves the ancient poetic comparison. The verse’s force is the incomparable holiness and power of the LORD.
+v20–21: Miriam is named as a female prophet and Aaron’s sister. Her refrain repeats verse 1, changing ‘I will sing’ to the command ‘Sing.’ The hand drum need not have had the jingles of a modern tambourine.
 
-v13: “steadfast love” translates *hesed*, joining the exodus to covenant loyalty rather than describing deliverance only as force.
-
-v17: The song looks ahead from the sea toward the LORD’s chosen dwelling. The exact historical horizon—land, sanctuary, Zion, or temple—is poetically compressed.
-
-v20: Miriam is explicitly called “the prophet.” Her leadership in song and dance belongs to Israel’s public response to deliverance.
-
-v25: The identity of the wood is not given, and the text does not explain a natural mechanism for the water’s transformation.
-
-v26: “the LORD who heals you” joins obedience, covenant order, and divine healing after the bitter-water episode.
+v23–25: Marah echoes the Hebrew word for ‘bitter.’ The wood is not identified, and the verse gives no account of how it made the water sweet.
 
 ## Vocabulary
 
-v01: גָּאָה (ga'ah)
-“To rise in triumph” or “be exalted.” The LORD’s victory is celebrated in song.
+v2: Salvation — yeshu‘ah
+Rescue or deliverance; the same noun used for the rescue promised in 14:13.
 
-v02: יְשׁוּעָה (yeshuah)
-“Salvation” or “deliverance.”
+v13: Faithful love — ḥesed
+Steadfast kindness and loyalty expressed in action.
 
-v03: אִישׁ מִלְחָמָה (ish milchamah)
-“Warrior,” literally “man of war.” A poetic title for the LORD.
+v13: Redeemed — ga’al
+Reclaimed or freed. Here it describes the people brought out of Egypt.
 
-v08: רוּחַ (ruach)
-“Breath,” “wind,” or “spirit.” Here the divine breath moving the waters.
+v17: Sanctuary — miqdash
+A place set apart as holy.
 
-v11: קֹדֶשׁ (qodesh)
-“Holiness.” The sphere of what belongs uniquely to God.
-
-v13: חֶסֶד (ḥesed)
-“Steadfast love.” Loyal covenant love.
-
-v20: נְבִיאָה (nevi'ah)
-“Prophet.” The title given to Miriam.
-
-v23: מָרָה (marah)
-“Bitter.” The word behind the place-name Marah.
-
-v26: רָפָא (rapha)
-“To heal.” The LORD identifies himself as Israel’s healer.
+v25: Test — nissah
+Put to the test. The theme continues in the provision of manna and the dispute over water.
