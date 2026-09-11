@@ -2,470 +2,115 @@
   "book": "Genesis",
   "chapter": 35,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
+  "publication_allowed": false,
+  "revision_id": "fluent-genesis-32-36-biblical-fluency-2026-09-11",
+  "supersedes": {
+    "commit": "cded401c07ce8368005dbede51230c6dd0933d15",
+    "path": "audit/exegetical-core/fluent-production/genesis/Genesis_35_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Gen",
+    "book_verse_count": 1533,
+    "scope_chapters": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Gen.xml",
-    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Gen.xml",
     "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Genesis 35:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 1,
-            "source_ref": "Genesis 35:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "7999b93cd30750fb3b4318d4ce5538370ec01186ce2d371f588ef45160620ef6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7999b93cd30750fb3b4318d4ce5538370ec01186ce2d371f588ef45160620ef6"
-      },
-      "2": {
-        "source_ref": "Genesis 35:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 2,
-            "source_ref": "Genesis 35:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "6f066b76d061a26c62b3cbc04370ab26c542f7820be9f0840bcb3e2335f091af"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6f066b76d061a26c62b3cbc04370ab26c542f7820be9f0840bcb3e2335f091af"
-      },
-      "3": {
-        "source_ref": "Genesis 35:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 3,
-            "source_ref": "Genesis 35:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "bc10d24f0f59ab98db580acd189aaede1569b971201adbb86aecade2f73f17bf"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bc10d24f0f59ab98db580acd189aaede1569b971201adbb86aecade2f73f17bf"
-      },
-      "4": {
-        "source_ref": "Genesis 35:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 4,
-            "source_ref": "Genesis 35:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "aee6a7f5a74a3d944e1098b2222eac334d640d1dce9c770422d98f7a880675a9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "aee6a7f5a74a3d944e1098b2222eac334d640d1dce9c770422d98f7a880675a9"
-      },
-      "5": {
-        "source_ref": "Genesis 35:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 5,
-            "source_ref": "Genesis 35:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "6b0995a6027c9dad29d066f9bbc05a659e9fdfe108d78192cf5620d6d9203901"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6b0995a6027c9dad29d066f9bbc05a659e9fdfe108d78192cf5620d6d9203901"
-      },
-      "6": {
-        "source_ref": "Genesis 35:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 6,
-            "source_ref": "Genesis 35:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "81c4f8655293e47f270c865588152fb4ad6d3c9392fffc29638fb02ad9bec925"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "81c4f8655293e47f270c865588152fb4ad6d3c9392fffc29638fb02ad9bec925"
-      },
-      "7": {
-        "source_ref": "Genesis 35:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 7,
-            "source_ref": "Genesis 35:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "9b92f186657440e164043d6a020c36415fc5a3da9532fec4647ac808d40d56e1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9b92f186657440e164043d6a020c36415fc5a3da9532fec4647ac808d40d56e1"
-      },
-      "8": {
-        "source_ref": "Genesis 35:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 8,
-            "source_ref": "Genesis 35:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a1e10bc5e710c63a60f0ef2e16e845a930382ead554ee922669c833d325e1d32"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a1e10bc5e710c63a60f0ef2e16e845a930382ead554ee922669c833d325e1d32"
-      },
-      "9": {
-        "source_ref": "Genesis 35:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 9,
-            "source_ref": "Genesis 35:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "6f5c3210a8078ac66512c9fc0a19ffc0a04f79f4dbaa8e4f093d7f765eba9e42"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6f5c3210a8078ac66512c9fc0a19ffc0a04f79f4dbaa8e4f093d7f765eba9e42"
-      },
-      "10": {
-        "source_ref": "Genesis 35:10 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 10,
-            "source_ref": "Genesis 35:10 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "785eb84d06c18043c1813cd7f13cd87ae7e8b062085a6c84cfc25be1f4d6fba2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "785eb84d06c18043c1813cd7f13cd87ae7e8b062085a6c84cfc25be1f4d6fba2"
-      },
-      "11": {
-        "source_ref": "Genesis 35:11 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 11,
-            "source_ref": "Genesis 35:11 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e28bcab9586159a00660431a49de9295da704f2ef8692674258c1392d7a33720"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e28bcab9586159a00660431a49de9295da704f2ef8692674258c1392d7a33720"
-      },
-      "12": {
-        "source_ref": "Genesis 35:12 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 12,
-            "source_ref": "Genesis 35:12 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a174ec0776192b8c4369adfae1b9559590260f7884e4a144c3000b3def72aac1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a174ec0776192b8c4369adfae1b9559590260f7884e4a144c3000b3def72aac1"
-      },
-      "13": {
-        "source_ref": "Genesis 35:13 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 13,
-            "source_ref": "Genesis 35:13 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "aa0dac755e244eca79f9c615f73e55ae37a0b7ee082405340cf919e4581d301d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "aa0dac755e244eca79f9c615f73e55ae37a0b7ee082405340cf919e4581d301d"
-      },
-      "14": {
-        "source_ref": "Genesis 35:14 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 14,
-            "source_ref": "Genesis 35:14 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "46ae0d239b4055cf34bc583921b2d1aa87928afe24de5646a5a605e443181e76"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "46ae0d239b4055cf34bc583921b2d1aa87928afe24de5646a5a605e443181e76"
-      },
-      "15": {
-        "source_ref": "Genesis 35:15 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 15,
-            "source_ref": "Genesis 35:15 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "1ed786fb819822ca7a736c9c7fe22bc801b1623d72c979a892c0cbd282e2c893"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1ed786fb819822ca7a736c9c7fe22bc801b1623d72c979a892c0cbd282e2c893"
-      },
-      "16": {
-        "source_ref": "Genesis 35:16 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 16,
-            "source_ref": "Genesis 35:16 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "019733a94ce9a163e4c932e77d8afdfb74beb7e244c388076d015e5b350e0d85"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "019733a94ce9a163e4c932e77d8afdfb74beb7e244c388076d015e5b350e0d85"
-      },
-      "17": {
-        "source_ref": "Genesis 35:17 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 17,
-            "source_ref": "Genesis 35:17 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "88f6f646ad208bc8293eb14923319fb3941770a98f206c33ae6e0848d5dd1b88"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "88f6f646ad208bc8293eb14923319fb3941770a98f206c33ae6e0848d5dd1b88"
-      },
-      "18": {
-        "source_ref": "Genesis 35:18 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 18,
-            "source_ref": "Genesis 35:18 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "c34a643d336bd9b8f82ddb933bab2e575728957e26bbde7765829913d8da0d85"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c34a643d336bd9b8f82ddb933bab2e575728957e26bbde7765829913d8da0d85"
-      },
-      "19": {
-        "source_ref": "Genesis 35:19 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 19,
-            "source_ref": "Genesis 35:19 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "2dc235500781dcb5cfae7f37adc2199effae11e42e2ba800f4d661f36a5f0578"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2dc235500781dcb5cfae7f37adc2199effae11e42e2ba800f4d661f36a5f0578"
-      },
-      "20": {
-        "source_ref": "Genesis 35:20 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 20,
-            "source_ref": "Genesis 35:20 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "d9b04a8edbf97946e58a3027f3244a1ac5fdc0149f1e15793aeab1142c38d7f9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d9b04a8edbf97946e58a3027f3244a1ac5fdc0149f1e15793aeab1142c38d7f9"
-      },
-      "21": {
-        "source_ref": "Genesis 35:21 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 21,
-            "source_ref": "Genesis 35:21 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e61ebba396a69fa05fbf3b58cf328f71b0af261f7a5fbd2c0bfb2c535177f52a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e61ebba396a69fa05fbf3b58cf328f71b0af261f7a5fbd2c0bfb2c535177f52a"
-      },
-      "22": {
-        "source_ref": "Genesis 35:22 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 22,
-            "source_ref": "Genesis 35:22 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "5c9bc9e1c512439c05daf6f9cb27ebcdeeeeef6a67d84ee9dda3fc9d57ed4d4d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5c9bc9e1c512439c05daf6f9cb27ebcdeeeeef6a67d84ee9dda3fc9d57ed4d4d"
-      },
-      "23": {
-        "source_ref": "Genesis 35:23 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 23,
-            "source_ref": "Genesis 35:23 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "8d95dcb4cd162e8d4f3572b20999ccb1e68456baf155e16b1c57bd46596cc520"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8d95dcb4cd162e8d4f3572b20999ccb1e68456baf155e16b1c57bd46596cc520"
-      },
-      "24": {
-        "source_ref": "Genesis 35:24 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 24,
-            "source_ref": "Genesis 35:24 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "76584980627b66ad6166729f11b4fa3506cd3565e2a497fe1afab5b0b1ea5166"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "76584980627b66ad6166729f11b4fa3506cd3565e2a497fe1afab5b0b1ea5166"
-      },
-      "25": {
-        "source_ref": "Genesis 35:25 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 25,
-            "source_ref": "Genesis 35:25 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "4c3df7dd180b8ae020e88e0e6eb0529e17e54f2e3a055739a8880d27bae33479"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4c3df7dd180b8ae020e88e0e6eb0529e17e54f2e3a055739a8880d27bae33479"
-      },
-      "26": {
-        "source_ref": "Genesis 35:26 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 26,
-            "source_ref": "Genesis 35:26 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "44def2211173cc8d9bbbcdddb92413e557f62ccf1bef8b82d1534da45aff3963"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "44def2211173cc8d9bbbcdddb92413e557f62ccf1bef8b82d1534da45aff3963"
-      },
-      "27": {
-        "source_ref": "Genesis 35:27 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 27,
-            "source_ref": "Genesis 35:27 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "be7c82ec03c849ad4173ad817195c1c84ae901e4dc04d5504857bc7edf59e61a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "be7c82ec03c849ad4173ad817195c1c84ae901e4dc04d5504857bc7edf59e61a"
-      },
-      "28": {
-        "source_ref": "Genesis 35:28 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 28,
-            "source_ref": "Genesis 35:28 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "c476a9d1eeb22fcefaf45b8913b44c5a81281cbb827e2d2c9f0d3a33d2e266ac"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c476a9d1eeb22fcefaf45b8913b44c5a81281cbb827e2d2c9f0d3a33d2e266ac"
-      },
-      "29": {
-        "source_ref": "Genesis 35:29 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 35,
-            "verse": 29,
-            "source_ref": "Genesis 35:29 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "ff6688a81338a0f23ce8784021dafb47e0c75345276f1c4bb6a43bc8db1c4fa9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ff6688a81338a0f23ce8784021dafb47e0c75345276f1c4bb6a43bc8db1c4fa9"
-      }
+    "sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Gen.xml",
+    "verse_hash_method": "SHA-256 of the exact UTF-8 <verse ...>...</verse> substring, including markup, whitespace, written forms, and any reading notes. No XML reserialization or Hebrew normalization.",
+    "public_versification_note": "English Genesis 32:1–32 is bound to Hebrew Gen 32:2–33. Hebrew Gen 32:1 is already bound to English Genesis 31:55 in the preceding ledger. Numbering realigns at Genesis 33.",
+    "excluded_source_references": [
+      "Gen 32:1"
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 35,
+    "verse_count": 29,
+    "path": "translations/fluent/OT/genesis/Genesis_35.md",
+    "before_sha256": "d54a532d39f4320defb3262ecf29d0d83f2490fe0a89a7a3d6eeb2bb32a2ed1e",
+    "after_sha256": "a5573afda62a8c1d2ce7d56f49b84cc73789a26e3caf612537896cf614785a12",
+    "tsw_comparator_path": "books/OT/genesis/Genesis_35.md",
+    "tsw_comparator_sha256": "bfbdaeb655393e4fba1dad41a93ca17702bfec5000957bf5f8aa3a6292c5bb19"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+  "public_versification": null,
+  "key_decisions": [
+    {
+      "location": "Genesis 35:4",
+      "delta": "F3",
+      "decision": "Preserve both surrendered object groups and the burial location while choosing terebinth for the specific ancient tree and avoiding the claim that all earrings are inherently idolatrous.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:5",
+      "delta": "F3",
+      "decision": "Retain divine terror and its protective result in direct connection with the sons’ danger after Shechem.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:7",
+      "delta": "F3",
+      "decision": "Retain the altar name and plural-form source construction while choosing the singular God already identified in the narrative.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:8",
+      "delta": "F3",
+      "decision": "Preserve the otherwise unexpected named woman, burial place, and memorial name while explaining its mourning association in a note.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:10",
+      "delta": "F3",
+      "decision": "Preserve the reaffirmed renaming after chapter 32 and the text’s continued use of both names without forcing a permanent narrative switch.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:11",
+      "delta": "F3",
+      "decision": "Retain the divine title, creation/covenant command, singular and plural peoples, kings, and embodied descent.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:16",
+      "delta": "F3",
+      "decision": "Follow the uncertain distance expression without false precision and retain Rachel’s escalating labor crisis.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:18",
+      "delta": "F3",
+      "decision": "Render the departing-life idiom naturally while retaining Rachel’s death, her naming act, and Jacob’s contrasting name.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:22",
+      "delta": "F3",
+      "decision": "Restore the source’s final clause, absent from the earlier Fluent wording, while keeping Reuben’s act, Bilhah’s status, Israel’s hearing, and the transition to the list.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:25",
+      "delta": "F3",
+      "decision": "Preserve the named sons and relationship to Rachel while making Bilhah’s enslaved status explicit.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Genesis 35:26",
+      "delta": "F3",
+      "decision": "Preserve names, maternal grouping, and the source’s summary claim while making Zilpah’s status explicit and leaving the apparent tension with Benjamin’s preceding Canaan birth unresolved.",
+      "disposition": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/genesis/Genesis_35.md",
-    "blob_sha": "740c6fb5e1e14a73f7b37aa82e4e8d672ec5f4e3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

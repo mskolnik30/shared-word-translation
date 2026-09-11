@@ -4,129 +4,152 @@ testament: OT
 chapter: 34
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-32-36-biblical-fluency-2026-09-11
 ---
 
-## Dinah and Shechem
+## Shechem Violates Dinah
+
 <p>
-v01: Now Dinah, the daughter of Leah, whom she had borne to Jacob, went out to see the daughters of the land.
-v02: Shechem the son of Hamor the Hivite, the prince of the land, saw her. He took her and lay with her and humiliated her.
-v03: Yet his soul clung to Dinah the daughter of Jacob, and he loved the young woman and spoke tenderly to her.
-v04: So Shechem said to Hamor his father, “Get me this young woman as a wife.”
+v01: Dinah, the daughter Leah had borne to Jacob, went out to visit the women of the land.
 </p>
 
 <p>
-v05: Now Jacob heard that he had defiled Dinah his daughter. But his sons were with his livestock in the field, so Jacob remained silent until they came.
-v06: Hamor the father of Shechem went out to Jacob to speak with him.
-v07: The sons of Jacob came in from the field when they heard of it, and the men were grieved and very angry, because he had done an outrageous thing in Israel by lying with Jacob’s daughter, a thing that ought not to be done.
-</p>
-
-## Hamor’s Proposal
-<p>
-v08: Yet Hamor spoke with them, saying, “The soul of my son Shechem longs for your daughter. Please give her to him as a wife.
-v09: Intermarry with us. Give your daughters to us, and take our daughters for yourselves.
-v10: You will dwell with us, and the land will be before you. Dwell and trade in it, and acquire property in it.”
+v02: Shechem son of Hamor the Hivite, a ruler of the land, saw her, seized her, raped her, and humiliated her.
 </p>
 
 <p>
-v11: Shechem also said to her father and to her brothers, “Let me find favor in your eyes, and whatever you say to me I will give.
-v12: Ask of me ever so much bride-price and gift, and I will give whatever you say to me. Only give me the young woman as a wife.”
-</p>
-
-## The Sons of Jacob Deceive the Hivites
-<p>
-v13: But the sons of Jacob answered Shechem and Hamor his father deceitfully, because he had defiled Dinah their sister.
-v14: They said to them, “We cannot do this thing, to give our sister to one who is uncircumcised, for that would be a disgrace to us.
-v15: Only on this condition will we agree with you: if you become as we are by every male among you being circumcised.
-v16: Then we will give our daughters to you, and we will take your daughters for ourselves, and we will dwell with you and become one people.
-v17: But if you will not listen to us and be circumcised, then we will take our daughter and go.”
+v03: Afterward Shechem became deeply attached to Dinah, Jacob’s daughter. He loved the young woman and spoke tenderly to her.
 </p>
 
 <p>
-v18: Their words seemed good to Hamor and Hamor’s son Shechem.
-v19: And the young man did not delay to do the thing, because he delighted in Jacob’s daughter. Now he was the most honored of all his father’s house.
-v20: So Hamor and his son Shechem came to the gate of their city and spoke to the men of their city, saying,
-v21: “These men are at peace with us. Let them dwell in the land and trade in it, for look, the land is large enough for them. Let us take their daughters as wives, and let us give them our daughters.
-v22: Only on this condition will the men agree to dwell with us and become one people: that every male among us be circumcised as they are circumcised.
-v23: Will not their livestock, their property, and all their animals be ours? Only let us agree with them, and they will dwell with us.”
+v04: Shechem told his father Hamor, “Get this girl for me as my wife.”
 </p>
 
 <p>
-v24: And everyone who went out of the gate of his city listened to Hamor and to his son Shechem, and every male was circumcised, everyone who went out of the gate of his city.
+v05: Jacob heard that Shechem had defiled his daughter Dinah. Because Jacob’s sons were with his livestock in the fields, he remained silent until they returned.
 </p>
 
-## Simeon and Levi Take Revenge
+## Hamor and Shechem Negotiate
+
 <p>
-v25: On the third day, when they were in pain, two of the sons of Jacob, Simeon and Levi, Dinah’s brothers, each took his sword and came against the city while it felt secure and killed every male.
-v26: They killed Hamor and his son Shechem with the sword and took Dinah out of Shechem’s house and went away.
-v27: The sons of Jacob came upon the slain and plundered the city, because their sister had been defiled.
-v28: They took their flocks and their herds and their donkeys and whatever was in the city and in the field.
-v29: All their wealth, all their little ones, and their wives they took captive and plundered, everything that was in the houses.
+v06: Meanwhile Hamor, Shechem’s father, went out to speak with Jacob.
 </p>
 
-## Jacob’s Distress
 <p>
-v30: Then Jacob said to Simeon and Levi, “You have brought trouble upon me by making me odious among the inhabitants of the land, among the Canaanites and the Perizzites. My numbers are few, and if they gather themselves against me and strike me, I will be destroyed, both I and my household.”
-v31: But they said, “Should he treat our sister like a prostitute?”
+v07: When Jacob’s sons heard what had happened, they returned from the fields. They were deeply grieved and furious because Shechem had committed an outrage in Israel by sleeping with Jacob’s daughter—something that must not be done.
+</p>
+
+<p>
+v08: Hamor said to them, “My son Shechem’s whole being longs for your daughter. Please give her to him as his wife.
+v09: Intermarry with us: give your daughters to us, and take our daughters for yourselves.
+v10: Live among us. The land is open before you; settle here, trade throughout it, and acquire property in it.”
+</p>
+
+<p>
+v11: Shechem said to Dinah’s father and brothers, “If you will receive me favorably, I will give you whatever you ask.
+v12: Set the bride-price and gift as high as you wish, and I will pay whatever you require. Just give me the young woman as my wife.”
+</p>
+
+## A Deceptive Condition
+
+<p>
+v13: Because Shechem had defiled their sister Dinah, Jacob’s sons answered Shechem and his father Hamor deceitfully.
+</p>
+
+<p>
+v14: They said, “We cannot do this. We cannot give our sister to an uncircumcised man, because that would bring disgrace on us.
+v15: We will agree with you only on this condition: every male among you must be circumcised as we are.
+v16: Then we will give our daughters to you and take your daughters for ourselves. We will live among you and become one people.
+v17: But if you refuse to be circumcised, we will take our sister and leave.”
+</p>
+
+<p>
+v18: Hamor and his son Shechem approved of their terms.
+</p>
+
+<p>
+v19: The young man did not delay, because he delighted in Jacob’s daughter. He was the most honored man in his father’s entire household.
+</p>
+
+## The Men of Shechem Agree
+
+<p>
+v20: Hamor and his son Shechem went to their city gate and addressed the men of the city:
+</p>
+
+<p>
+v21: “These men are peaceful toward us. Let them settle in the land and trade in it; there is plenty of room for them. We can take their daughters as wives and give them our daughters.
+v22: But the men will agree to live with us and become one people only if every male among us is circumcised as they are.
+v23: Won’t their livestock, property, and every animal they own become ours? Let us agree to their terms, and they will settle among us.”
+</p>
+
+<p>
+v24: Everyone who gathered at the city gate listened to Hamor and Shechem. Every male who gathered at the city gate was circumcised.
+</p>
+
+## Violence and Plunder
+
+<p>
+v25: On the third day, while the men were still in pain, Dinah’s brothers Simeon and Levi, two of Jacob’s sons, each took his sword. They entered the unsuspecting city and killed every male.
+</p>
+
+<p>
+v26: They killed Hamor and his son Shechem with their swords, took Dinah from Shechem’s house, and left.
+</p>
+
+<p>
+v27: Jacob’s sons came upon the dead and plundered the city because their sister had been defiled.
+v28: They took the people’s flocks, herds, and donkeys—everything in the city and in the fields.
+v29: They carried off all the wealth, took the women and children captive, and plundered everything in the houses.
+</p>
+
+## Jacob and His Sons Respond
+
+<p>
+v30: Jacob said to Simeon and Levi, “You have brought disaster on me and made the Canaanites and Perizzites who live in this land detest me. My household is small. If they unite against me and attack, I and my whole household will be destroyed.”
+</p>
+
+<p>
+v31: But they answered, “Should anyone treat our sister like a prostitute?”
 </p>
 
 ## Notes
 
-v01–02: Dinah's encounter with Shechem initiates a narrative marked by violence, dishonor, and competing claims of justice.
+v01–05: Dinah goes to visit the women of the land. Nothing in the passage makes her responsible for Shechem’s violence. The same name identifies both the man Shechem and, in this context, his city.
 
-v02: The text describes Shechem's actions as both sexual violation and humiliation. The gravity of the offense shapes the entire chapter.
+v02: The final verb can mean afflict, humiliate, or violate. In this sexual sequence it describes violence against Dinah; ‘raped’ states the harm plainly.
 
-v03–04: Shechem's affection for Dinah does not erase or lessen the wrongdoing already committed.
+v03–12: Shechem later expresses attachment, love, and tenderness, but these do not reverse or excuse verse 2. Dinah never speaks in the chapter, and every marriage negotiation occurs between men.
 
-v07: The phrase “an outrageous thing in Israel” anticipates language later used for acts that violate communal and covenantal order.
+v05, 13, 27: The language of defilement identifies Shechem’s act. It does not assign sexual guilt to Dinah. In verses 13 and 27, the narrator records her brothers’ rationale without endorsing everything they do.
 
-v08–12: Hamor and Shechem seek reconciliation through marriage and economic integration.
+v07: ‘An outrage in Israel’ is the narrator’s strong condemnation, even though Israel’s descendants are still one family in the story.
 
-v13: The sons of Jacob respond deceitfully. The narrative does not present their actions as morally uncomplicated.
+v12: The bride-price is a payment associated with marriage arrangements; the additional gift is separately named. Shechem offers both to Dinah’s father and brothers.
 
-v14–17: Circumcision, the sign of covenant, is employed as part of a strategy of revenge.
+v13–17: Jacob’s sons propose circumcision deceitfully. The covenant sign is used here as part of a trap; the narrative does not identify their deception with the sign’s meaning.
 
-v21–23: Hamor's speech reveals economic motivations alongside the desire for alliance.
+v21–23: Hamor and Shechem describe Jacob’s family as peaceful and offer land and intermarriage, then appeal to the city’s men with the prospect of acquiring the family’s wealth.
 
-v25–29: Simeon and Levi's retaliation extends far beyond Shechem himself and engulfs the entire city.
+v25–29: Simeon and Levi kill every male, not only Shechem. Verse 27 then names Jacob’s sons without specifying whether Simeon and Levi are included again. The sons plunder property and take women and children captive. Dinah’s violation is not allowed to hide the wider violence inflicted on the city.
 
-v30: Jacob's first response concerns the danger now facing his household among the peoples of the land.
+v30: The Hebrew says the brothers have made Jacob ‘stink’ among the inhabitants. ‘Detest me’ communicates the social disgrace and danger in natural English.
 
-v31: The chapter ends without resolution. The question raised by Simeon and Levi remains unanswered, leaving justice, vengeance, and covenant identity in tension.
+v31: The brothers’ final question is left unanswered. The chapter neither erases Dinah’s violation nor supplies a narrator’s defense of the massacre and captivity.
 
 ## Vocabulary
 
-v02: עָנָה (ʿānâ)
-“To afflict,” “humiliate,” or “violate.” A term often associated with abuse and degradation.
+v02: עָנָה (anah)
+Afflict, humiliate, or violate; in this sexual context it describes violence against Dinah.
 
-v03: דָּבַק (dāḇaq)
-“To cling” or “hold fast.” Describes strong attachment or devotion.
+v07: נְבָלָה (nevalah)
+A disgraceful outrage or senseless act that violates the community’s moral order.
 
-v07: נְבָלָה (nĕḇālâ)
-“Outrageous thing,” “folly,” or “disgrace.” Conduct viewed as morally intolerable.
+v12: מֹהַר (mohar)
+Bride-price, a marriage-related payment made to a woman’s family.
 
-v10: אָחַז (ʾāḥaz)
-“To acquire” or “gain possession.” Used here regarding settlement and property.
-
-v12: מֹהַר (mōhar)
-“Bride-price.” Payment associated with marriage arrangements.
-
-v13: מִרְמָה (mirmâ)
-“Deceit” or “treachery.” Deliberate deception for personal advantage.
-
-v14: חֶרְפָּה (ḥerpâ)
-“Disgrace” or “reproach.” A condition of shame or dishonor.
-
-v22: עַם אֶחָד (ʿam ʾeḥād)
-“One people.” An expression of social and communal unity.
-
-v25: חֶרֶב (ḥereḇ)
-“Sword.” A common symbol of violence, warfare, and judgment.
-
-v29: שָׁבָה (šāḇâ)
-“To take captive.” To seize persons as prisoners or spoil.
-
-v30: עָכַר (ʿāḵar)
-“To trouble” or “bring calamity.” To create danger, distress, or disruption.
-
-v31: זוֹנָה (zônâ)
-“Prostitute.” The term appears in the brothers' rhetorical question concerning honor and treatment.
+v15: מוּל (mul)
+Circumcise; here the covenant sign is demanded as the brothers’ deceptive condition.

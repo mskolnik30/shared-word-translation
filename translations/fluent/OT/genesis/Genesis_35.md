@@ -4,149 +4,170 @@ testament: OT
 chapter: 35
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-32-36-biblical-fluency-2026-09-11
 ---
 
 ## Jacob Returns to Bethel
+
 <p>
-v01: God said to Jacob, “Arise, go up to Bethel and dwell there. Make there an altar to the God who appeared to you when you fled from your brother Esau.”
-v02: Then Jacob said to his household and to everyone who were with him, “Put away the foreign gods that are among you and purify yourselves and change your garments.
-v03: Then let us arise and go up to Bethel, so that I may make there an altar to the God who answered me in the day of my distress and has been with me wherever I have gone.”
-v04: So they gave to Jacob all the foreign gods that were in their hands and the rings that were in their ears, and Jacob hid them under the oak that was near Shechem.
+v01: God said to Jacob, “Get up, go to Bethel, and live there. Build an altar there to the God who appeared to you when you fled from your brother Esau.”
 </p>
 
 <p>
-v05: And they journeyed, and a terror from God fell upon the cities that were around them, so that they did not pursue the sons of Jacob.
-v06: Thus Jacob came to Luz (that is, Bethel), which is in the land of Canaan, he and all the people who were with him.
-v07: And he built there an altar and called the place El-bethel, because there God had revealed himself to him when he fled from his brother.
+v02: Jacob told his household and everyone with him, “Remove the foreign gods among you. Purify yourselves and change your clothes.
+v03: Then let us go up to Bethel. There I will build an altar to the God who answered me in my time of distress and stayed with me wherever I went.”
+</p>
+
+<p>
+v04: They gave Jacob all the foreign gods in their possession and the rings in their ears. Jacob buried them under the terebinth tree near Shechem.
+</p>
+
+<p>
+v05: As they traveled, terror from God fell on the surrounding cities, so no one pursued Jacob’s sons.
+</p>
+
+<p>
+v06: Jacob and everyone with him came to Luz, also called Bethel, in the land of Canaan.
+</p>
+
+<p>
+v07: Jacob built an altar there and named the place El-bethel, because God had revealed himself to Jacob there when he fled from his brother.
 </p>
 
 ## Deborah Dies
+
 <p>
-v08: Deborah, Rebekah’s nurse, died, and she was buried below Bethel under the oak. So its name was called Allon-bacuth.
+v08: Deborah, Rebekah’s nurse, died and was buried below Bethel under an oak. The tree was named Allon-bacuth.
 </p>
 
-## God Renews the Covenant
+## God Reaffirms Jacob’s Name and Promise
+
 <p>
-v09: God appeared to Jacob again when he came from Paddan-aram and blessed him.
-v10: God said to him,
-“Your name is Jacob;
-no longer will your name be called Jacob,
-but Israel will be your name.”
-So he called his name Israel.
+v09: God appeared to Jacob again after he returned from Paddan-aram, and God blessed him.
 </p>
 
 <p>
-v11: God said to him,
-“I am God Almighty.
-Be fruitful and multiply.
-A nation and a company of nations will come from you,
-and kings will come forth from your body.
-v12: The land that I gave to Abraham and Isaac
-I will give to you,
-and I will give the land to your offspring after you.”
-v13: Then God went up from him in the place where he had spoken with him.
+v10: God said to him, “Your name is Jacob, but you will no longer be called Jacob. Your name will be Israel.” So God named him Israel.
 </p>
 
 <p>
-v14: Jacob set up a pillar in the place where he had spoken with him, a pillar of stone. He poured out a drink offering upon it and poured oil on it.
-v15: So Jacob called the name of the place where God had spoken with him Bethel.
+v11: God continued, “I am God Almighty. Be fruitful and multiply. A nation and a community of nations will come from you, and kings will come from your body.
+v12: I will give you the land I gave to Abraham and Isaac, and I will give this land to your offspring after you.”
 </p>
 
-## The Birth of Benjamin and the Death of Rachel
 <p>
-v16: Then they journeyed from Bethel. When there was still some distance to go before reaching Ephrath, Rachel went into labor, and her labor was difficult.
-v17: And when her labor was at its hardest, the midwife said to her, “Do not fear, for you have another son.”
-v18: And as her soul was departing, for she was dying, she called his name Ben-oni; but his father called him Benjamin.
-v19: So Rachel died and was buried on the way to Ephrath (that is, Bethlehem).
-v20: Jacob set up a pillar over her tomb. It is the pillar of Rachel’s tomb to this day.
+v13: Then God went up from Jacob at the place where he had spoken with him.
 </p>
 
-## Reuben’s Sin
 <p>
-v21: Then Israel journeyed on and pitched his tent beyond the tower of Eder.
-v22: And while Israel was dwelling in that land, Reuben went and lay with Bilhah his father’s concubine, and Israel heard of it.
+v14: Jacob set up a stone pillar at the place where God had spoken with him. He poured a drink offering and oil over it.
 </p>
 
-## The Sons of Jacob
 <p>
-Now the sons of Jacob were twelve.
-v23: The sons of Leah: Reuben, Jacob’s firstborn, Simeon, Levi, Judah, Issachar, and Zebulun.
-v24: The sons of Rachel: Joseph and Benjamin.
-v25: The sons of Bilhah, Rachel’s servant: Dan and Naphtali.
-v26: The sons of Zilpah, Leah’s servant: Gad and Asher. These are the sons of Jacob who were born to him in Paddan-aram.
+v15: Jacob named the place where God had spoken with him Bethel.
 </p>
 
-## The Death of Isaac
+## Rachel Dies Giving Birth
+
 <p>
-v27: Jacob came to Isaac his father at Mamre, at Kiriath-arba (that is, Hebron), where Abraham and Isaac had sojourned.
-v28: Now the days of Isaac were one hundred eighty years.
-v29: Isaac breathed his last and died and was gathered to his people, old and full of days. And Esau and Jacob his sons buried him.
+v16: They left Bethel. While they were still some distance from Ephrath, Rachel went into labor, and the birth became difficult.
+</p>
+
+<p>
+v17: During the hardest part of her labor, the midwife told her, “Do not be afraid—you have another son.”
+</p>
+
+<p>
+v18: As Rachel’s life slipped away, because she was dying, she named her son Ben-oni. But his father named him Benjamin.
+</p>
+
+<p>
+v19: Rachel died and was buried on the way to Ephrath, also called Bethlehem.
+</p>
+
+<p>
+v20: Jacob set up a pillar over her grave. It remains the pillar of Rachel’s grave to this day.
+</p>
+
+## Reuben and Bilhah
+
+<p>
+v21: Israel traveled on and pitched his tent beyond the Tower of Eder.
+</p>
+
+<p>
+v22: While Israel lived in that land, Reuben slept with Bilhah, his father’s concubine, and Israel heard about it. Jacob had twelve sons.
+</p>
+
+## Jacob’s Twelve Sons
+
+<p>
+v23: Leah’s sons were Reuben, Jacob’s firstborn, Simeon, Levi, Judah, Issachar, and Zebulun.
+</p>
+
+<p>
+v24: Rachel’s sons were Joseph and Benjamin.
+</p>
+
+<p>
+v25: The sons of Bilhah, Rachel’s enslaved woman, were Dan and Naphtali.
+</p>
+
+<p>
+v26: The sons of Zilpah, Leah’s enslaved woman, were Gad and Asher. These are the sons born to Jacob in Paddan-aram.
+</p>
+
+## Isaac’s Death
+
+<p>
+v27: Jacob came to his father Isaac at Mamre near Kiriath-arba, also called Hebron, where Abraham and Isaac had lived as resident foreigners.
+</p>
+
+<p>
+v28: Isaac lived one hundred eighty years.
+</p>
+
+<p>
+v29: Then Isaac breathed his last and died. Old and full of days, he was gathered to his people. His sons Esau and Jacob buried him.
 </p>
 
 ## Notes
 
-v01–04: The return to Bethel involves both physical movement and spiritual renewal. Foreign gods are removed before worship.
+v02–04: Jacob’s household gives up foreign gods and earrings before going to Bethel. The text does not say that every earring is inherently idolatrous; these rings belong to the objects surrendered in this scene.
 
-v03: Jacob describes God as the one who answered him in distress and remained with him throughout his journeys.
+v05: Terror from God prevents the surrounding cities from pursuing Jacob’s sons after the violence at Shechem.
 
-v05: The protection of Jacob's family is attributed directly to divine intervention.
+v07: El-bethel means ‘God of Bethel.’ The Hebrew uses plural grammatical forms with the word for God here, but the surrounding narrative identifies the one God who appeared to Jacob.
 
-v07: Bethel becomes a place of remembrance, linking Jacob's present worship with God's earlier appearance.
+v08: Deborah, Rebekah’s nurse, has not appeared by name earlier in Genesis. Allon-bacuth means ‘oak of weeping.’ The text does not report Rebekah’s death.
 
-v08: Deborah's death is recorded briefly, yet the naming of the oak suggests deep mourning.
+v10: God reaffirms the name Israel given in 32:28. The narrative continues to use both Jacob and Israel afterward.
 
-v09–12: God renews the covenant promises given to Abraham and Isaac, now confirming them to Israel.
+v11–12: The promise gathers earlier Genesis language: God Almighty, fruitfulness, multiplication, a community of nations, kings, land, and offspring.
 
-v10: The renaming of Jacob as Israel is reaffirmed, emphasizing his transformed identity.
+v16: The distance expression before Ephrath is uncertain and gives no precise modern measurement.
 
-v11: The promise expands from a single nation to a company of nations and future kings.
+v18: Ben-oni is commonly associated with ‘son of my sorrow’ or ‘son of my strength.’ Benjamin can mean ‘son of the right hand’ or ‘son of the south.’ Rachel’s act of naming remains distinct from the father’s replacement name.
 
-v14–15: Jacob responds with worship, memorializing the place where God spoke with him.
+v22: The text reports that Reuben sleeps with Bilhah but does not record Bilhah’s voice, consent, or response. ‘Jacob had twelve sons’ is part of the Hebrew verse and introduces the list that follows.
 
-v16–20: Benjamin's birth is intertwined with Rachel's death. Joy and sorrow arrive together.
+v25–26: Bilhah and Zilpah are again called enslaved women. Verse 26 summarizes these as sons born in Paddan-aram even though the immediately preceding account places Benjamin’s birth on the way to Ephrath; the translation does not harmonize the tension.
 
-v18: Rachel's name for her son reflects her suffering, while Jacob's name points toward future hope and strength.
-
-v22: Reuben’s act violates his father’s household and authority. The narrative records that Israel heard of it but gives no immediate response.
-
-v23–26: The completed list of twelve sons gathers Jacob’s household into the ancestral framework of the tribes of Israel.
-
-v27–29: Isaac's death closes another generation of the patriarchal story. Esau and Jacob are united in honoring their father.
+v29: ‘Breathed his last,’ ‘died,’ ‘was gathered to his people,’ and ‘old and full of days’ are all retained from the traditional death formula. Esau and Jacob bury their father together.
 
 ## Vocabulary
 
-v01: בֵּית־אֵל (Bêt-ʾEl)
-“Bethel.” Meaning “House of God,” the site of Jacob's earlier vision and vow.
+v01: בֵּית־אֵל (Bethel)
+House of God; the place of Jacob’s earlier dream, vow, altar, and renewed encounter.
 
-v02: טָהֵר (ṭāhēr)
-“To purify.” To become clean or prepared for sacred encounter.
+v08: אַלּוֹן בָּכוּת (Allon-bacuth)
+Oak of weeping, the memorial name associated with Deborah’s burial.
 
-v04: אֱלֹהֵי נֵכָר (ʾĕlōhê nēkār)
-“Foreign gods.” Deities associated with peoples outside the covenant family.
+v11: אֵל שַׁדַּי (El Shaddai)
+God Almighty, the divine title used in the renewed ancestral promise.
 
-v05: חִתַּת אֱלֹהִים (ḥittat ʾĕlōhîm)
-“Terror from God.” A divinely sent fear that restrains opposition.
-
-v08: אַלּוֹן בָּכוּת (ʾAllôn Bākûṯ)
-“Oak of Weeping.” The name commemorates mourning for Deborah.
-
-v11: אֵל שַׁדַּי (ʾEl Šadday)
-“God Almighty.” A divine title associated with covenant power and blessing.
-
-v14: מַצֵּבָה (maṣṣēḇâ)
-“Pillar.” A standing stone erected as a memorial or witness.
-
-v16: אֶפְרָת (ʾEphrāṯ)
-“Ephrath.” An older name associated with the region of Bethlehem.
-
-v18: בֶּן־אוֹנִי (Ben-ʾÔnî)
-“Son of my sorrow.” The name Rachel gives in her final moments.
-
-v18: בִּנְיָמִין (Binyāmîn)
-“Benjamin.” Commonly understood as “son of the right hand.”
-
-v29: אָסַף אֶל־עַמָּיו (ʾāsaph ʾel-ʿammāyw)
-“Gathered to his people.” A traditional expression for death and reunion with one's ancestors.
-
-v29: שָׂבֵעַ יָמִים (śāḇēaʿ yāmîm)
-“Full of days.” A description of a long and complete life.
+v18: בֶּן־אוֹנִי / בִּנְיָמִין (Ben-oni / Benjamin)
+The two names given to Rachel’s last son: one by his dying mother and one by his father.

@@ -35,13 +35,17 @@ def audit(root, ledger, source_bytes):
         check(len(records) == source['book_verse_count'], 'source book count differs')
         scope = source['scope_chapters']
         extra_references = set(source.get('extra_source_references', []))
+        excluded_references = set(source.get('excluded_source_references', []))
         check(scope == sorted(set(scope)) and bool(scope), 'invalid source chapter scope')
         check(scope == [c['chapter'] for c in ledger['chapters']], 'chapter/source scope differs')
         for record in records:
             element = ET.fromstring(record)
             book, chapter, verse = element.attrib['osisID'].split('.')
             source_reference = f'{book} {chapter}:{verse}'
-            if book == source['osis_book_id'] and (int(chapter) in scope or source_reference in extra_references):
+            if book == source['osis_book_id'] and (
+                (int(chapter) in scope and source_reference not in excluded_references)
+                or source_reference in extra_references
+            ):
                 reference = source_reference
                 check(reference not in source_verses, f'duplicate source reference: {reference}')
                 source_verses[reference] = record

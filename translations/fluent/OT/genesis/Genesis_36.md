@@ -4,133 +4,211 @@ testament: OT
 chapter: 36
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-32-36-biblical-fluency-2026-09-11
 ---
 
-## The Descendants of Esau
+## Esau’s Family and Move to Seir
+
 <p>
-v01: These are the generations of Esau (that is, Edom).
-v02: Esau took his wives from the daughters of Canaan: Adah the daughter of Elon the Hittite, Oholibamah the daughter of Anah, daughter of Zibeon the Hivite,
-v03: and Basemath, Ishmael’s daughter, the sister of Nebaioth.
-v04: Adah bore Eliphaz to Esau, Basemath bore Reuel,
-v05: and Oholibamah bore Jeush, Jalam, and Korah. These are the sons of Esau who were born to him in the land of Canaan.
+v01: This is the family record of Esau, who is Edom.
 </p>
 
 <p>
-v06: Then Esau took his wives, his sons, his daughters, and all the members of his household, his livestock, all his animals, and all the property that he had acquired in the land of Canaan, and went into another land away from his brother Jacob.
-v07: For their possessions were too great for them to dwell together, and the land of their sojournings could not support them because of their livestock.
+v02: Esau married women from Canaan: Adah daughter of Elon the Hittite, and Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite.
+v03: He also married Basemath, daughter of Ishmael and sister of Nebaioth.
+</p>
+
+<p>
+v04: Adah bore Esau a son named Eliphaz, and Basemath bore a son named Reuel.
+v05: Oholibamah bore Jeush, Jalam, and Korah. These were Esau’s sons who were born in the land of Canaan.
+</p>
+
+<p>
+v06: Esau took his wives, sons, daughters, and every member of his household, together with his livestock, animals, and all the property he had acquired in Canaan. He moved to a land away from his brother Jacob.
+v07: Their possessions had become too great for them to live together. The land where they lived as resident foreigners could not support both households because of all their livestock.
+</p>
+
+<p>
 v08: So Esau settled in the hill country of Seir. Esau is Edom.
 </p>
 
-## The Chiefs of Edom
+## Esau’s Descendants in Seir
+
 <p>
-v09: These are the generations of Esau, the father of the Edomites, in the hill country of Seir.
-v10: These are the names of Esau’s sons: Eliphaz the son of Adah, Esau’s wife; Reuel the son of Basemath, Esau’s wife.
+v09: This is the family record of Esau, ancestor of the Edomites, in the hill country of Seir.
+</p>
+
+<p>
+v10: These were the names of Esau’s sons: Eliphaz, son of Esau’s wife Adah, and Reuel, son of Esau’s wife Basemath.
+</p>
+
+<p>
 v11: The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
-v12: Timna was a concubine of Eliphaz, Esau’s son, and she bore Amalek to Eliphaz. These are the sons of Adah, Esau’s wife.
-v13: These are the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. These are the sons of Basemath, Esau’s wife.
-v14: These are the sons of Oholibamah, the daughter of Anah, daughter of Zibeon, Esau’s wife. She bore to Esau Jeush, Jalam, and Korah.
 </p>
 
 <p>
-v15: These are the chiefs of the sons of Esau. The sons of Eliphaz, the firstborn of Esau: Chief Teman, Chief Omar, Chief Zepho, Chief Kenaz,
-v16: Chief Korah, Chief Gatam, and Chief Amalek. These are the chiefs descended from Eliphaz in the land of Edom. These are the sons of Adah.
-v17: These are the sons of Reuel, Esau’s son: Chief Nahath, Chief Zerah, Chief Shammah, and Chief Mizzah. These are the chiefs descended from Reuel in the land of Edom. These are the sons of Basemath, Esau’s wife.
-v18: These are the sons of Oholibamah, Esau’s wife: Chief Jeush, Chief Jalam, and Chief Korah. These are the chiefs descended from Oholibamah the daughter of Anah, Esau’s wife.
-v19: These are the sons of Esau, and these are their chiefs. He is Edom.
+v12: Timna was the concubine of Esau’s son Eliphaz, and she bore him Amalek. These were the descendants of Esau’s wife Adah.
 </p>
 
-## The Descendants of Seir
 <p>
-v20: These are the sons of Seir the Horite, the inhabitants of the land: Lotan, Shobal, Zibeon, Anah,
-v21: Dishon, Ezer, and Dishan. These are the chiefs of the Horites, the sons of Seir in the land of Edom.
+v13: Reuel’s sons were Nahath, Zerah, Shammah, and Mizzah. These were the descendants of Esau’s wife Basemath.
+</p>
+
+<p>
+v14: Esau’s wife Oholibamah, daughter of Anah and granddaughter of Zibeon, bore Jeush, Jalam, and Korah to Esau.
+</p>
+
+## The Chiefs Descended from Esau
+
+<p>
+v15: These were the chiefs among Esau’s descendants. From Esau’s firstborn Eliphaz came Chief Teman, Chief Omar, Chief Zepho, and Chief Kenaz,
+v16: Chief Korah, Chief Gatam, and Chief Amalek. These were the chiefs descended from Eliphaz in the land of Edom, through Adah’s line.
+</p>
+
+<p>
+v17: From Esau’s son Reuel came Chief Nahath, Chief Zerah, Chief Shammah, and Chief Mizzah. These were Reuel’s chiefs in the land of Edom, through Esau’s wife Basemath.
+</p>
+
+<p>
+v18: From Esau’s wife Oholibamah came Chief Jeush, Chief Jalam, and Chief Korah. These were the chiefs descended from Oholibamah daughter of Anah.
+</p>
+
+<p>
+v19: These were Esau’s sons and their chiefs. This is Edom.
+</p>
+
+## The Horite Families of Seir
+
+<p>
+v20: These were the sons of Seir the Horite, inhabitants of the land: Lotan, Shobal, Zibeon, Anah,
+v21: Dishon, Ezer, and Dishan. These were the Horite chiefs descended from Seir in the land of Edom.
+</p>
+
+<p>
 v22: The sons of Lotan were Hori and Hemam; and Lotan’s sister was Timna.
-v23: These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.
-v24: These are the sons of Zibeon: Aiah and Anah. This is the Anah who found the hot springs in the wilderness while he was pasturing the donkeys of Zibeon his father.
-v25: These are the children of Anah: Dishon and Oholibamah the daughter of Anah.
+</p>
+
+<p>
+v23: Shobal’s sons were Alvan, Manahath, Ebal, Shepho, and Onam.
+</p>
+
+<p>
+v24: Zibeon’s sons were Aiah and Anah. This was the Anah who found the hot springs in the wilderness while tending his father Zibeon’s donkeys.
+</p>
+
+<p>
+v25: Anah’s children were Dishon and his daughter Oholibamah.
+</p>
+
+<p>
 v26: These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.
+</p>
+
+<p>
 v27: These are the sons of Ezer: Bilhan, Zaavan, and Akan.
+</p>
+
+<p>
 v28: These are the sons of Dishan: Uz and Aran.
-v29: These are the chiefs of the Horites: Chief Lotan, Chief Shobal, Chief Zibeon, Chief Anah,
-v30: Chief Dishon, Chief Ezer, and Chief Dishan. These are the chiefs of the Horites according to their chiefs in the land of Seir.
+</p>
+
+## The Horite Chiefs
+
+<p>
+v29: These were the Horite chiefs: Chief Lotan, Chief Shobal, Chief Zibeon, Chief Anah,
+v30: Chief Dishon, Chief Ezer, and Chief Dishan. These were the Horite chiefs, clan by clan, in the land of Seir.
 </p>
 
 ## The Kings of Edom
+
 <p>
-v31: These are the kings who reigned in the land of Edom before any king reigned over the Israelites.
-v32: Bela the son of Beor reigned in Edom, and the name of his city was Dinhabah.
-v33: Bela died, and Jobab the son of Zerah of Bozrah reigned in his place.
-v34: Jobab died, and Husham of the land of the Temanites reigned in his place.
-v35: Husham died, and Hadad the son of Bedad, who defeated Midian in the country of Moab, reigned in his place. The name of his city was Avith.
-v36: Hadad died, and Samlah of Masrekah reigned in his place.
-v37: Samlah died, and Shaul of Rehoboth on the River reigned in his place.
-v38: Shaul died, and Baal-hanan the son of Achbor reigned in his place.
-v39: Baal-hanan the son of Achbor died, and Hadar reigned in his place. The name of his city was Pau, and his wife’s name was Mehetabel, the daughter of Matred, daughter of Mezahab.
+v31: These were the kings who ruled in the land of Edom before any king ruled over the Israelites.
+</p>
+
+<p>
+v32: Bela son of Beor became king of Edom, and his city was named Dinhabah.
+</p>
+
+<p>
+v33: When Bela died, Jobab son of Zerah from Bozrah became king in his place.
+</p>
+
+<p>
+v34: When Jobab died, Husham from the land of the Temanites became king in his place.
+</p>
+
+<p>
+v35: When Husham died, Hadad son of Bedad became king in his place. Hadad had defeated Midian in the territory of Moab, and his city was named Avith.
+</p>
+
+<p>
+v36: When Hadad died, Samlah from Masrekah became king in his place.
+</p>
+
+<p>
+v37: When Samlah died, Shaul from Rehoboth-on-the-River became king in his place.
+</p>
+
+<p>
+v38: When Shaul died, Baal-hanan son of Achbor became king in his place.
+</p>
+
+<p>
+v39: When Baal-hanan son of Achbor died, Hadar became king in his place. His city was named Pau. His wife was Mehetabel, daughter of Matred and granddaughter of Mezahab.
 </p>
 
 ## The Chiefs of Edom
+
 <p>
-v40: These are the names of the chiefs of Esau, according to their clans and their dwelling places, by their names: Chief Timna, Chief Alvah, Chief Jetheth,
+v40: These were the names of Esau’s chiefs, listed by their clans, places, and names: Chief Timna, Chief Alvah, Chief Jetheth,
 v41: Chief Oholibamah, Chief Elah, Chief Pinon,
 v42: Chief Kenaz, Chief Teman, Chief Mibzar,
-v43: Chief Magdiel, and Chief Iram. These are the chiefs of Edom according to their settlements in the land they possessed. This is Esau, the father of Edom.
+</p>
+
+<p>
+v43: Chief Magdiel and Chief Iram. These were Edom’s chiefs, listed by their settlements in the land they possessed. This is Esau, the father of Edom.
 </p>
 
 ## Notes
 
-v01: The chapter identifies Esau with Edom, establishing the connection between the man and the nation descended from him.
+v01, 09: ‘Family record’ translates toledot, the recurring Genesis heading for an account of descendants and what proceeds from a family line.
 
-v06–08: Esau's separation from Jacob parallels the earlier separation of Abraham and Lot. The two brothers become heads of distinct peoples.
+v02–03: The names and family relationships of Esau’s wives differ from those given in 26:34 and 28:9. The chapter’s own record is preserved rather than silently harmonized with the earlier lists.
 
-v09–19: The genealogy emphasizes the growth and organization of Esau's descendants into clans and tribal leaders.
+v05, 14: The written consonants for Jeush differ from the traditional reading followed by the vowel pointing. The main text follows the recorded reading, and the ledger hashes the complete source records.
 
-v12: Amalek is introduced here. The Amalekites later become significant opponents of Israel.
+v06–08: The text does not name Esau’s destination in verse 6; verse 8 identifies his settlement as the hill country of Seir. The separation because of abundant livestock echoes Abraham and Lot in chapter 13.
 
-v20–30: The Horites were earlier inhabitants of Seir and became incorporated into Edomite history.
+v15–19: Chief translates alluf, a title for a clan or tribal leader. Korah appears among Oholibamah’s sons in verse 14 and among the chiefs descended from Eliphaz in verse 16; the lists are not harmonized.
 
-v24: The brief note concerning Anah preserves a historical detail otherwise lost to the narrative.
+v20–30: The genealogy records the Horites as inhabitants of Seir before listing their families and chiefs. Similar names such as Dishon and Dishan remain distinct.
 
-v31: Edom possessed kings before Israel did, highlighting the early political development of Esau's descendants.
+v24: The rare word yemim is uncertain. ‘Hot springs’ is followed here; proposed alternatives include water sources or mules. The discovery’s precise nature cannot be recovered with confidence.
 
-v31–39: Unlike Israel's later dynasties, the succession of Edomite kings does not appear to follow a single hereditary line.
+v31: The narrator locates Edom’s kings before a king ruled over the Israelites. The translation preserves the statement without supplying a date or theory of composition.
 
-v40–43: The chapter closes by emphasizing the territorial and political establishment of Edom.
+v32–39: The kings succeed one another, but the list does not describe a hereditary father-to-son dynasty. Their cities and regions are retained where named.
 
-v43: Before returning to Jacob's story, Genesis records Esau's descendants in detail, showing that God's promises of multiplication extended beyond the covenant line.
+v39: The pinned Hebrew reads Hadar; Hadad appears in some related textual traditions. Mehetabel’s mother and maternal grandfather are named, an unusual preservation of a woman’s lineage in the king list.
+
+v40–43: The final chiefs are organized by clans, named places, and settlements. The chapter closes by identifying Esau as the father of Edom.
 
 ## Vocabulary
 
-v01: תּוֹלְדוֹת (tôlĕdôt)
-“Generations” or “account.” A structural heading introducing a family record.
+v01: תּוֹלְדוֹת (toledot)
+Family record, generations, or account of what proceeds from a family line.
 
-v01: אֱדוֹם (ʾĔḏôm)
-“Edom.” Meaning “red,” associated with Esau and his descendants.
+v01: אֱדוֹם (Edom)
+Edom, the name associated with Esau and the people descended from him.
 
-v08: שֵׂעִיר (Śeʿîr)
-“Seir.” The mountainous region where Esau's descendants settled.
+v15: אַלּוּף (alluf)
+Chief or clan leader; the title structures the family and territorial lists.
 
-v15: אַלּוּף (ʾallûp̄)
-“Chief” or “clan leader.” A title for tribal rulers within Edom.
+v20: חֹרִי (Hori)
+Horite, the people identified here as inhabitants of the land of Seir.
 
-v20: חֹרִי (ḥōrî)
-“Horite.” The people inhabiting Seir before Edomite dominance.
-
-v24: יֵמִם (yēmim)
-“Hot springs” (traditional interpretation). A rare term occurring only here.
-
-v31: מֶלֶךְ (meleḵ)
-“King.” A ruler exercising authority over a people or territory.
-
-v33: בָּצְרָה (Boṣrâ)
-“Bozrah.” An important Edomite city appearing elsewhere in Scripture.
-
-v35: מִדְיָן (Miḏyān)
-“Midian.” A neighboring people frequently mentioned in biblical history.
-
-v40: מִשְׁפָּחָה (mišpāḥâ)
-“Clan” or “family group.” A subdivision within a tribe or nation.
-
-v43: אֲחֻזָּה (ʾăḥuzzâ)
-“Possession” or “holding.” Land held as an inherited property.
-
-v43: אָב (ʾāḇ)
-“Father.” Here indicating ancestor and founder of a people.
+v24: יֵמִם (yemim)
+A rare and uncertain term, rendered ‘hot springs’ here.

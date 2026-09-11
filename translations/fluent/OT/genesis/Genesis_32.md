@@ -4,133 +4,150 @@ testament: OT
 chapter: 32
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-32-36-biblical-fluency-2026-09-11
 ---
 
+## God’s Angels Meet Jacob
+
+<p>
+v01: Jacob continued on his way, and God’s angels met him.
+v02: When Jacob saw them, he said, “This is God’s camp!” So he named that place Mahanaim.
+</p>
+
 ## Jacob Prepares to Meet Esau
+
 <p>
-v01: Jacob went on his way, and the angels of God met him.
-v02: When Jacob saw them, he said, “This is God’s camp.” So he called that place Mahanaim.
+v03: Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the territory of Edom.
+v04: He commanded them, “Tell my lord Esau, ‘This is what your servant Jacob says: I have lived as a resident foreigner with Laban and remained there until now.
+v05: I now have cattle, donkeys, flocks, enslaved men, and enslaved women. I am sending this message to my lord in the hope that you will receive me favorably.’”
 </p>
 
 <p>
-v03: Jacob sent messengers before him to his brother Esau in the land of Seir, the country of Edom,
-v04: instructing them, “Thus you will say to my lord Esau: ‘Thus says your servant Jacob: I have sojourned with Laban and stayed until now;
-v05: and I have oxen, donkeys, flocks, male servants, and female servants. I send to tell my lord, so that I may find favor in your sight.’”
+v06: The messengers returned to Jacob and reported, “We went to your brother Esau. He is already coming to meet you, and four hundred men are with him.”
+v07: Jacob became very afraid and distressed. He divided the people with him, along with the flocks, herds, and camels, into two camps.
+v08: He thought, “If Esau attacks one camp, the other camp may escape.”
 </p>
 
+## Jacob Prays for Rescue
+
 <p>
-v06: The messengers returned to Jacob, saying, “We came to your brother Esau, and he is coming to meet you, and four hundred men are with him.”
-v07: Then Jacob was greatly afraid and distressed; and he divided the people who were with him, and the flocks and herds and camels, into two camps,
-v08: thinking, “If Esau comes to the one camp and strikes it, then the camp that is left will escape.”
+v09: Then Jacob prayed, “God of my grandfather Abraham and my father Isaac, LORD, you told me, ‘Return to your land and your family, and I will be good to you.’
+v10: I am unworthy of all the faithful love and faithfulness you have shown your servant. I crossed this Jordan with only my staff, but now my household has become two camps.
+v11: Please save me from my brother Esau. I am afraid he will come and strike me down, mothers along with their children.
+v12: You yourself said, ‘I will surely be good to you and make your offspring like the sand of the sea, too numerous to count.’”
 </p>
 
-## Jacob's Prayer
-<p>
-v09: Jacob said, “O God of my father Abraham and God of my father Isaac, O LORD who said to me, ‘Return to your country and to your kindred, and I will do you good,’
-v10: I am not worthy of all the steadfast love and all the faithfulness that you have shown to your servant; for with only my staff I crossed this Jordan, and now I have become two camps.
-v11: Deliver me, I pray, from the hand of my brother, from the hand of Esau, for I fear him, that he may come and strike me, the mothers with the children.
-v12: Yet you said, ‘I will surely do you good, and make your offspring as the sand of the sea, which cannot be numbered for multitude.’”
-</p>
+## A Gift Sent Ahead
 
-## Jacob Sends Gifts to Esau
 <p>
-v13: So he spent that night there. And from what he had with him he took a gift for his brother Esau:
+v13: Jacob spent that night there. From the possessions at hand, he selected a gift for his brother Esau:
 v14: two hundred female goats and twenty male goats, two hundred ewes and twenty rams,
-v15: thirty milking camels and their calves, forty cows and ten bulls, twenty female donkeys and ten male donkeys.
-v16: These he handed over to his servants, every drove by itself, and said to his servants, “Pass on ahead of me, and put a space between drove and drove.”
+v15: thirty nursing camels with their young, forty cows and ten bulls, twenty female donkeys and ten male donkeys.
 </p>
 
 <p>
-v17: He instructed the foremost, “When Esau my brother meets you and asks you, ‘To whom do you belong? Where are you going? And whose are these ahead of you?’
-v18: then you will say, ‘They belong to your servant Jacob; they are a gift sent to my lord Esau, and moreover he is behind us.’”
+v16: He entrusted each herd separately to his enslaved men and told them, “Go ahead of me, and leave some space between each herd.”
 </p>
 
 <p>
-v19: He likewise instructed the second and the third, and everyone who followed the droves, “You will say the same thing to Esau when you meet him,
-v20: and you will say, ‘Moreover your servant Jacob is behind us.’” For he thought, “I may appease him with the gift that goes ahead of me, and afterward I will see his face; perhaps he will accept me.”
-v21: So the gift passed on ahead of him, and he himself spent that night in the camp.
-</p>
-
-## Jacob Wrestls at the Jabbok
-<p>
-v22: That same night he rose and took his two wives, his two female servants, and his eleven children, and crossed the ford of the Jabbok.
-v23: He took them and sent them across the stream, and likewise sent across what was his.
+v17: He instructed the one in front, “When my brother Esau meets you, he may ask, ‘Whose servant are you? Where are you going? Whose animals are these ahead of you?’
+v18: Then answer, ‘They belong to your servant Jacob. This is a gift sent to my lord Esau, and Jacob himself is coming behind us.’”
 </p>
 
 <p>
-v24: Jacob was left alone; and a man wrestled with him until the breaking of the day.
-v25: When he saw that he did not prevail against him, he touched the hollow of his thigh; and Jacob’s thigh was put out of joint as he wrestled with him.
+v19: Jacob gave the same command to the second and third servants and to everyone following the herds: “Say these same words to Esau when you meet him.
+v20: Be sure to say, ‘Your servant Jacob is coming behind us.’” Jacob thought, “I will appease Esau with the gift going ahead of me. Afterward I will see his face; perhaps he will welcome me.”
 </p>
 
 <p>
-v26: Then he said, “Let me go, for the day is breaking.” But he said, “I will not let you go, unless you bless me.”
-v27: And he said to him, “What is your name?” And he said, “Jacob.”
+v21: So the gift went ahead of Jacob, while he spent that night in the camp.
+</p>
+
+## Jacob Wrestles at the Jabbok
+
+<p>
+v22: During the night Jacob got up, took his two wives, his two enslaved women, and his eleven children, and crossed the ford of the Jabbok.
+v23: He took them across the stream, then sent all his possessions across.
 </p>
 
 <p>
-v28: Then he said, “Your name will no longer be called Jacob, but Israel, for you have striven with God and with humans, and have prevailed.”
-v29: Then Jacob asked him, “Please tell me your name.” But he said, “Why is it that you ask my name?” And there he blessed him.
-v30: So Jacob called the name of the place Peniel, saying, “For I have seen God face to face, and yet my life is preserved.”
+v24: Jacob was left alone, and a man wrestled with him until dawn.
+v25: When the man saw that he could not overcome Jacob, he touched Jacob’s hip socket, dislocating it as they wrestled.
 </p>
 
 <p>
-v31: The sun rose upon him as he passed Penuel, limping because of his thigh.
-v32: So to this day the Israelites do not eat the sinew of the thigh that is on the hollow of the thigh, because he touched the hollow of Jacob’s thigh at the sinew.
+v26: The man said, “Let me go, because dawn is breaking.” Jacob answered, “I will not let you go unless you bless me.”
+</p>
+
+<p>
+v27: The man asked him, “What is your name?” “Jacob,” he answered.
+</p>
+
+<p>
+v28: The man said, “Your name will no longer be Jacob, but Israel, because you have struggled with God and with people and have prevailed.”
+</p>
+
+<p>
+v29: Jacob replied, “Please tell me your name.” But the man said, “Why do you ask my name?” Then he blessed Jacob there.
+</p>
+
+<p>
+v30: Jacob named the place Peniel, saying, “I have seen God face to face, yet my life has been spared.”
+</p>
+
+<p>
+v31: The sun rose over Jacob as he passed Penuel, and he was limping because of his hip.
+</p>
+
+<p>
+v32: That is why, to this day, the Israelites do not eat the sinew attached to the hip socket: the man touched Jacob’s hip socket at that sinew.
 </p>
 
 ## Notes
 
-v01–02: “God’s camp” names the encounter without explaining it. The doubling (angels / camp / Mahanaim, “two camps”) anticipates Jacob’s own divided camp and frames the chapter in mirrored realities.
+v01–03: The same Hebrew word can mean angel or messenger. God’s messengers meet Jacob in verses 1–2; Jacob sends human messengers to Esau in verse 3.
 
-v03–05: Jacob’s message is carefully structured: self-lowering (“your servant”) and status reporting (wealth) function together. The speech seeks favor without naming past conflict.
+v01–32: English Genesis 32:1–32 corresponds to Hebrew Genesis 32:2–33 in the pinned source. Hebrew Genesis 32:1 appears as English 31:55. Every public verse here is bound to its exact Hebrew record.
 
-v06–08: “Four hundred men” is reported without interpretation. Jacob supplies the meaning (threat), and his division into “two camps” echoes Mahanaim while revealing fear-driven strategy.
+v02: Mahanaim is related to the Hebrew word for two camps. The name anticipates Jacob’s division of his household in verse 7.
 
-v09–12: The prayer holds tension between promise and fear. Jacob appeals to God’s prior word while confessing unworthiness, grounding petition in both memory and vulnerability.
+v04–05: Jacob calls himself Esau’s servant and Esau his lord. ‘Resident foreigner’ retains his sojourner status with Laban; the servants he lists among his property are enslaved people.
 
-v13–21: The gift sequence is deliberately staged. Repetition of “your servant” and “my lord” intensifies the asymmetry. “I may appease him… see his face” links gift, face, and acceptance without certainty.
+v09: Hebrew calls Abraham Jacob’s father, using a broad ancestral term. The translation identifies Abraham as his grandfather while retaining the traditional ancestral prayer.
 
-v22–23: Crossing at night marks a threshold. What is sent across contrasts with what remains: Jacob is left alone, setting the conditions for the encounter.
+v10: ‘Faithful love and faithfulness’ translates a pair that can also be rendered steadfast love and truth. Jacob contrasts crossing the Jordan with one staff against returning as two camps.
 
-v24: “A man wrestled with him” is left undefined. The text does not resolve whether the opponent is human, divine, or angelic, preserving ambiguity central to the episode.
+v11: ‘Mothers along with their children’ preserves a concrete Hebrew expression for indiscriminate destruction.
 
-v25: The touch that dislocates the thigh is both minimal and decisive. The injury reframes the struggle: power is shown not by domination but by wounding that endures.
+v20: The Hebrew repeats ‘face’ four times: Jacob seeks to appease Esau’s face with a gift sent before his own face, then see Esau’s face, hoping Esau will lift his face. The translation keeps the central face language without forcing the full wordplay into English.
 
-v26: “Let me go, for the day is breaking” introduces urgency without explanation. Jacob’s refusal ties release to blessing, binding the encounter to transformation rather than escape.
+v24–30: The opponent is introduced only as ‘a man.’ The narrative does not give his name. He renames and blesses Jacob, and Jacob later says he has seen God face to face.
 
-v27–28: The naming exchange shifts identity. “Jacob” (the one who grasps) is replaced with “Israel” (one who strives). The reason given—striving with God and humans—does not resolve how both are true.
+v25, 31–32: The exact anatomical expression refers to the socket or hollow of the upper thigh or hip. The lasting injury, limp, and later Israelite food practice are retained without claiming modern anatomical precision.
 
-v29: The refusal to give a name mirrors earlier divine reticence. Blessing is granted without full disclosure, maintaining asymmetry between Jacob’s knowledge and the one who blesses.
+v28: Israel is associated here with struggling with God. The name can carry related senses such as God struggles, God strives, or God rules; the narrative’s own explanation governs the main text.
 
-v30: “Face to face” and “my life is preserved” stand together in tension. Seeing God does not result in death here, yet the statement acknowledges the risk inherent in the encounter.
-
-v31–32: The limp becomes a lasting sign. The narrative moves from personal wound to communal practice, linking memory, body, and identity across generations.
+v30–31: Peniel and Penuel are variant forms of the same place name, associated with the Hebrew word for face.
 
 ## Vocabulary
 
-v02: מַחֲנַיִם (maḥanayim)
-“Two camps.” The dual form signals doubling—divine and human camps, and Jacob’s own divided strategy.
+v01: מַלְאָךְ (malakh)
+Messenger or angel; context distinguishes God’s messengers from Jacob’s human messengers.
 
-v06: אַרְבַּע מֵאוֹת אִישׁ (arba me’ot ish)
-“Four hundred men.” A number associated with force; the text leaves its intent ambiguous, heightening tension.
+v02: מַחֲנַיִם (Mahanaim)
+Two camps, or a pair of camps; the form is associated with Jacob’s encounter and later division of his camp.
 
-v11: חֶסֶד (ḥesed)
-“Steadfast love.” Covenantal loyalty expressed in action, not sentiment.
+v10: חֶסֶד וֶאֱמֶת (hesed ve-emet)
+Faithful love and faithfulness, a paired expression of loyal care and reliability.
 
-v11: אֱמֶת (’emet)
-“Faithfulness” or “truth.” Reliability over time; paired with ḥesed to name God’s consistent character.
+v28: יִשְׂרָאֵל (Yisraʾel)
+Israel; associated in this verse with Jacob’s struggle with God and people.
 
-v20: כָּפַר (kaphar)
-“Often ‘appease’ or ‘cover.’” Carries the sense of covering offense; here applied to relational repair, not ritual.
-
-v24: אָבַק (’avaq)
-“To wrestle.” Possibly related to “dust,” evoking close, ground-level struggle.
-
-v28: יִשְׂרָאֵל (Yisra’el)
-“Israel.” Interpreted as “one who strives with God” or “God strives.” The ambiguity remains active within the name.
-
-v30: פְּנִיאֵל / פְּנוּאֵל (Peni’el / Penu’el)
-“Face of God.” The place name encodes Jacob’s claim of encounter and survival.
+v30: פְּנִיאֵל (Peniel)
+Face of God; the place where Jacob says he saw God face to face.
 
 v32: גִּיד הַנָּשֶׁה (gid hanasheh)
-“Sinew of the thigh.” A specific anatomical term tied to communal dietary practice, preserving the memory of Jacob’s wound.
+The sinew associated with the hip socket; its exact modern anatomical identification is uncertain.

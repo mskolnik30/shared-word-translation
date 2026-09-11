@@ -4,101 +4,121 @@ testament: OT
 chapter: 33
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-32-36-biblical-fluency-2026-09-11
 ---
 
-## Jacob Meets Esau
+## Jacob and Esau Meet
+
 <p>
-v01: Then Jacob lifted up his eyes and looked, and look, Esau was coming, and with him four hundred men. So he divided the children among Leah and Rachel and the two female servants.
-v02: He put the female servants and their children first, then Leah and her children, and Rachel and Joseph last of all.
-v03: And he himself went on before them, bowing himself to the ground seven times until he came near to his brother.
+v01: Jacob looked up and saw Esau approaching with four hundred men. He divided the children among Leah, Rachel, and the two enslaved women.
+v02: He placed the enslaved women and their children in front, Leah and her children behind them, and Rachel and Joseph last.
 </p>
 
 <p>
-v04: Yet Esau ran to meet him and embraced him and fell upon his neck and kissed him, and they wept.
-v05: Then Esau lifted up his eyes and saw the women and children and said, “Who are these with you?” Jacob said, “The children whom God has graciously given your servant.”
-v06: Then the female servants came near, they and their children, and bowed down.
-v07: Leah likewise and her children came near and bowed down. And afterward Joseph and Rachel came near, and they bowed down.
+v03: Jacob himself went ahead of them, bowing to the ground seven times as he approached his brother.
 </p>
 
 <p>
-v08: Esau said, “What do you mean by all this company that I met?” Jacob answered, “To find favor in the sight of my lord.”
-v09: Yet Esau said, “I have enough, my brother. Keep what belongs to you.”
-v10: Jacob said, “No, please. If now I have found favor in your sight, then accept my gift from my hand. For to see your face is like seeing the face of God, since you have received me favorably.
-v11: Please accept my blessing that has been brought to you, because God has dealt graciously with me and because I have enough.” Thus he urged him, and he accepted.
+v04: But Esau ran to meet Jacob, embraced him, fell on his neck, and kissed him. Then they both wept.
 </p>
 
 <p>
-v12: Then Esau said, “Let us journey on our way, and I will go before you.”
-v13: Yet Jacob said to him, “My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for even one day, all the flocks will die.
-v14: Let my lord pass on before his servant, and I will lead on slowly, according to the pace of the livestock that are before me and according to the pace of the children, until I come to my lord in Seir.”
-v15: So Esau said, “Let me leave with you some of the people who are with me.” But he said, “Why should that be? Let me only find favor in the sight of my lord.”
-v16: So Esau returned that day on his way to Seir.
-</p>
-
-## Jacob Settles in Canaan
-<p>
-v17: Yet Jacob journeyed to Succoth, and built himself a house and made shelters for his livestock. Therefore the name of the place is called Succoth.
+v05: Esau looked up and saw the women and children. “Who are these people with you?” he asked. Jacob answered, “The children God has graciously given your servant.”
 </p>
 
 <p>
-v18: Then Jacob came safely to the city of Shechem, which is in the land of Canaan, when he came from Paddan-aram, and he camped before the city.
-v19: And from the sons of Hamor, Shechem’s father, he bought for one hundred pieces of money the portion of the field where he had pitched his tent.
-v20: There he erected an altar and called it El-Elohe-Israel.
+v06: The enslaved women approached with their children, and together they bowed down.
+</p>
+
+<p>
+v07: Leah and her children also approached and bowed down. After them Joseph and Rachel approached and bowed down.
+</p>
+
+<p>
+v08: Esau asked, “What was the purpose of that entire camp I met?” Jacob answered, “To gain my lord’s favor.”
+</p>
+
+<p>
+v09: But Esau said, “I already have plenty, my brother. Keep what is yours.”
+</p>
+
+<p>
+v10: Jacob replied, “No, please. If I have found favor with you, accept this gift from me. Seeing your face is like seeing the face of God, because you have received me favorably.
+v11: Please accept the blessing I brought you, because God has been gracious to me and I have everything.” Jacob kept urging him until Esau accepted it.
+</p>
+
+## The Brothers Separate
+
+<p>
+v12: Then Esau said, “Let us set out together. I will travel alongside you.”
+</p>
+
+<p>
+v13: Jacob answered, “My lord knows that the children are frail and that I am responsible for nursing flocks and herds. If they are driven hard for even one day, all the animals will die.
+v14: Please let my lord go on ahead of his servant. I will move at a gentle pace, according to the livestock and children before me, until I reach my lord in Seir.”
+</p>
+
+<p>
+v15: Esau said, “Then let me leave some of my people with you.” Jacob answered, “There is no need. Just let me remain in my lord’s favor.”
+</p>
+
+<p>
+v16: That same day Esau started back toward Seir.
+</p>
+
+## Jacob Settles Near Shechem
+
+<p>
+v17: Jacob traveled to Succoth, built a house for himself, and made shelters for his livestock. That is why the place was named Succoth.
+</p>
+
+<p>
+v18: After returning from Paddan-aram, Jacob arrived safely at the city of Shechem in the land of Canaan and camped near the city.
+</p>
+
+<p>
+v19: He bought the field where he had pitched his tent from the sons of Hamor, Shechem’s father, for one hundred qesitahs.
+</p>
+
+<p>
+v20: There Jacob set up an altar and named it El-Elohe-Israel.
 </p>
 
 ## Notes
 
-v01–03: Jacob approaches Esau with humility and caution. The repeated bowing reflects both respect and fear after years of separation.
+v01–02: The family groups are placed in a clear order: the enslaved women and their children first, Leah’s family next, and Rachel with Joseph last. The narrator does not state Jacob’s motive for the arrangement.
 
-v04: Esau's response overturns expectations. The anticipated confrontation becomes reconciliation.
+v04: The Hebrew word translated ‘kissed’ has unusual scribal dots above it. Ancient interpreters disagreed about their significance; the received consonantal wording still says Esau kissed Jacob.
 
-v05: Jacob attributes his family to God's grace rather than to his own success.
+v10: Jacob’s comparison of Esau’s face with the face of God echoes his face-to-face encounter at Peniel. The comparison remains Jacob’s speech.
 
-v08–11: The exchange concerning the gift highlights restored relationship. What began as an attempt to appease Esau becomes a symbol of reconciliation.
+v11: Jacob calls the animals a ‘blessing,’ the same word central to the conflict in chapter 27. The text does not explicitly say that he is returning the stolen blessing.
 
-v10: Jacob's comparison of Esau's face to the face of God recalls his encounter at Peniel. Divine encounter and human reconciliation are placed side by side.
+v09, 11: Esau says he has ‘plenty’; Jacob says he has ‘everything.’ The wording preserves the contrast without making either claim a financial inventory.
 
-v09–11: Both brothers repeatedly say that they have enough. The language contrasts sharply with their earlier struggle over blessing and inheritance.
+v12: Esau’s offer can mean that he will travel in front of Jacob or alongside him. ‘Alongside’ is followed here.
 
-v12–16: Jacob declines Esau's offer of accompaniment. The brothers are reconciled, but they do not resume life together.
+v14–17: Jacob says he will come to Esau in Seir, but the narrative next reports that he goes to Succoth. It does not say when or whether the stated visit to Seir occurs.
 
-v17: Succoth receives its name from the shelters Jacob builds for his livestock.
+v18: The word translated ‘safely’ can describe arrival in peace or wholeness. It could instead be read as the place name Salem.
 
-v18–20: Jacob finally returns to the land of Canaan and acquires property there. The altar marks worship and renewed settlement in the promised land.
+v19: A qesitah is an ancient unit of value also mentioned in Joshua 24:32 and Job 42:11. Its precise weight or value is unknown.
 
-v20: The altar's name, “God, the God of Israel,” reflects Jacob's new identity after receiving the name Israel.
+v20: El-Elohe-Israel means ‘God, the God of Israel.’ The altar name follows Jacob’s new name from chapter 32.
 
 ## Vocabulary
 
-v03: שָׁחָה (šāḥâ)
-“To bow down.” An act of honor, submission, or respect.
+v11: בְּרָכָה (berakhah)
+Blessing; here Jacob’s term for the substantial gift Esau finally accepts.
 
-v04: חָבַק (ḥāḇaq)
-“To embrace.” A gesture of affection, welcome, or reconciliation.
+v17: סֻכּוֹת (Succoth)
+Shelters or booths; the place is named for the shelters Jacob makes for his livestock.
 
-v05: חָנַן (ḥānan)
-“To be gracious.” To show favor or kindness freely.
+v19: קְשִׂיטָה (qesitah)
+An ancient unit of value whose precise weight or worth is unknown.
 
-v08: מַחֲנֶה (maḥăneh)
-“Company,” “camp,” or “encampment.” A group traveling together.
-
-v09: רַב (raḇ)
-“Much,” “many,” or “enough.” Esau's declaration reflects contentment with what he possesses.
-
-v10: פָּנִים (pānîm)
-“Face” or “presence.” Often associated with encounter, relationship, and divine presence.
-
-v11: בְּרָכָה (bĕrāḵâ)
-“Blessing” or “gift.” The word can refer both to spoken blessing and to a gift presented in goodwill.
-
-v17: סֻכּוֹת (Sukkôṯ)
-“Shelters” or “booths.” Temporary structures for protection and shade.
-
-v19: קְשִׂיטָה (qĕśîṭâ)
-“A piece of money.” An ancient unit of value whose exact form is uncertain.
-
-v20: מִזְבֵּחַ (mizbēaḥ)
-“Altar.” A place of sacrifice, worship, and remembrance.
-
-v20: אֵל אֱלֹהֵי יִשְׂרָאֵל (ʾEl ʾĔlōhê Yiśrāʾēl)
-“God, the God of Israel.” The name given to the altar, affirming God's relationship with Jacob/Israel.
+v20: אֵל אֱלֹהֵי יִשְׂרָאֵל (El-Elohe-Israel)
+God, the God of Israel; the name Jacob gives the altar near Shechem.
