@@ -1,0 +1,1200 @@
+{
+  "scope": "Exodus 21–24 only; 118 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical means nonidentical similarity >= 0.90. Triage only, not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 34,
+      "near_identical_verses": 76,
+      "mean_similarity": 0.953527,
+      "verses": [
+        {
+          "reference": "Exodus 21:1",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 21:2",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 21:3",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Exodus 21:4",
+          "identical": false,
+          "similarity": 0.935484
+        },
+        {
+          "reference": "Exodus 21:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 21:6",
+          "identical": false,
+          "similarity": 0.885714
+        },
+        {
+          "reference": "Exodus 21:7",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 21:8",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 21:9",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Exodus 21:10",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Exodus 21:11",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Exodus 21:12",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Exodus 21:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 21:14",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 21:15",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 21:16",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 21:17",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 21:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 21:19",
+          "identical": false,
+          "similarity": 0.914286
+        },
+        {
+          "reference": "Exodus 21:20",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Exodus 21:21",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 21:22",
+          "identical": false,
+          "similarity": 0.953488
+        },
+        {
+          "reference": "Exodus 21:23",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Exodus 21:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 21:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 21:26",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Exodus 21:27",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Exodus 21:28",
+          "identical": false,
+          "similarity": 0.921053
+        },
+        {
+          "reference": "Exodus 21:29",
+          "identical": false,
+          "similarity": 0.953488
+        },
+        {
+          "reference": "Exodus 21:30",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 21:31",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Exodus 21:32",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Exodus 21:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 21:34",
+          "identical": false,
+          "similarity": 0.863636
+        },
+        {
+          "reference": "Exodus 21:35",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 21:36",
+          "identical": false,
+          "similarity": 0.945946
+        },
+        {
+          "reference": "Exodus 22:1",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Exodus 22:2",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Exodus 22:3",
+          "identical": false,
+          "similarity": 0.90625
+        },
+        {
+          "reference": "Exodus 22:4",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 22:5",
+          "identical": false,
+          "similarity": 0.97619
+        },
+        {
+          "reference": "Exodus 22:6",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Exodus 22:7",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Exodus 22:8",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Exodus 22:9",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 22:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 22:11",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 22:12",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 22:13",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 22:14",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Exodus 22:15",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 22:16",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Exodus 22:17",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 22:18",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 22:19",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 22:20",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 22:21",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 22:22",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 22:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 22:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 22:25",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Exodus 22:26",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 22:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 22:28",
+          "identical": false,
+          "similarity": 0.866667
+        },
+        {
+          "reference": "Exodus 22:29",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Exodus 22:30",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Exodus 22:31",
+          "identical": false,
+          "similarity": 0.884615
+        },
+        {
+          "reference": "Exodus 23:1",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 23:2",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 23:3",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Exodus 23:4",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Exodus 23:5",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Exodus 23:6",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Exodus 23:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:8",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Exodus 23:9",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Exodus 23:10",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 23:11",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Exodus 23:12",
+          "identical": false,
+          "similarity": 0.945946
+        },
+        {
+          "reference": "Exodus 23:13",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Exodus 23:14",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Exodus 23:15",
+          "identical": false,
+          "similarity": 0.931818
+        },
+        {
+          "reference": "Exodus 23:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:17",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Exodus 23:18",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Exodus 23:19",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 23:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:24",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Exodus 23:25",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Exodus 23:26",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Exodus 23:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 23:31",
+          "identical": false,
+          "similarity": 0.977273
+        },
+        {
+          "reference": "Exodus 23:32",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 23:33",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Exodus 24:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:2",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Exodus 24:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:4",
+          "identical": false,
+          "similarity": 0.985915
+        },
+        {
+          "reference": "Exodus 24:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:6",
+          "identical": false,
+          "similarity": 0.976744
+        },
+        {
+          "reference": "Exodus 24:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:8",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Exodus 24:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 24:18",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 2,
+      "near_identical_verses": 2,
+      "mean_similarity": 0.663702,
+      "verses": [
+        {
+          "reference": "Exodus 21:1",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 21:2",
+          "identical": false,
+          "similarity": 0.608696
+        },
+        {
+          "reference": "Exodus 21:3",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 21:4",
+          "identical": false,
+          "similarity": 0.813559
+        },
+        {
+          "reference": "Exodus 21:5",
+          "identical": false,
+          "similarity": 0.829268
+        },
+        {
+          "reference": "Exodus 21:6",
+          "identical": false,
+          "similarity": 0.753623
+        },
+        {
+          "reference": "Exodus 21:7",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Exodus 21:8",
+          "identical": false,
+          "similarity": 0.712329
+        },
+        {
+          "reference": "Exodus 21:9",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Exodus 21:10",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 21:11",
+          "identical": false,
+          "similarity": 0.631579
+        },
+        {
+          "reference": "Exodus 21:12",
+          "identical": false,
+          "similarity": 0.518519
+        },
+        {
+          "reference": "Exodus 21:13",
+          "identical": false,
+          "similarity": 0.62963
+        },
+        {
+          "reference": "Exodus 21:14",
+          "identical": false,
+          "similarity": 0.425532
+        },
+        {
+          "reference": "Exodus 21:15",
+          "identical": false,
+          "similarity": 0.64
+        },
+        {
+          "reference": "Exodus 21:16",
+          "identical": false,
+          "similarity": 0.304348
+        },
+        {
+          "reference": "Exodus 21:17",
+          "identical": false,
+          "similarity": 0.64
+        },
+        {
+          "reference": "Exodus 21:18",
+          "identical": false,
+          "similarity": 0.784314
+        },
+        {
+          "reference": "Exodus 21:19",
+          "identical": false,
+          "similarity": 0.521739
+        },
+        {
+          "reference": "Exodus 21:20",
+          "identical": false,
+          "similarity": 0.734694
+        },
+        {
+          "reference": "Exodus 21:21",
+          "identical": false,
+          "similarity": 0.585366
+        },
+        {
+          "reference": "Exodus 21:22",
+          "identical": false,
+          "similarity": 0.526316
+        },
+        {
+          "reference": "Exodus 21:23",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Exodus 21:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 21:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 21:26",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Exodus 21:27",
+          "identical": false,
+          "similarity": 0.734694
+        },
+        {
+          "reference": "Exodus 21:28",
+          "identical": false,
+          "similarity": 0.575758
+        },
+        {
+          "reference": "Exodus 21:29",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 21:30",
+          "identical": false,
+          "similarity": 0.4
+        },
+        {
+          "reference": "Exodus 21:31",
+          "identical": false,
+          "similarity": 0.322581
+        },
+        {
+          "reference": "Exodus 21:32",
+          "identical": false,
+          "similarity": 0.641509
+        },
+        {
+          "reference": "Exodus 21:33",
+          "identical": false,
+          "similarity": 0.680851
+        },
+        {
+          "reference": "Exodus 21:34",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 21:35",
+          "identical": false,
+          "similarity": 0.655172
+        },
+        {
+          "reference": "Exodus 21:36",
+          "identical": false,
+          "similarity": 0.575758
+        },
+        {
+          "reference": "Exodus 22:1",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Exodus 22:2",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Exodus 22:3",
+          "identical": false,
+          "similarity": 0.645161
+        },
+        {
+          "reference": "Exodus 22:4",
+          "identical": false,
+          "similarity": 0.731707
+        },
+        {
+          "reference": "Exodus 22:5",
+          "identical": false,
+          "similarity": 0.575342
+        },
+        {
+          "reference": "Exodus 22:6",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 22:7",
+          "identical": false,
+          "similarity": 0.436364
+        },
+        {
+          "reference": "Exodus 22:8",
+          "identical": false,
+          "similarity": 0.641509
+        },
+        {
+          "reference": "Exodus 22:9",
+          "identical": false,
+          "similarity": 0.449438
+        },
+        {
+          "reference": "Exodus 22:10",
+          "identical": false,
+          "similarity": 0.596491
+        },
+        {
+          "reference": "Exodus 22:11",
+          "identical": false,
+          "similarity": 0.463768
+        },
+        {
+          "reference": "Exodus 22:12",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Exodus 22:13",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Exodus 22:14",
+          "identical": false,
+          "similarity": 0.692308
+        },
+        {
+          "reference": "Exodus 22:15",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Exodus 22:16",
+          "identical": false,
+          "similarity": 0.872727
+        },
+        {
+          "reference": "Exodus 22:17",
+          "identical": false,
+          "similarity": 0.711111
+        },
+        {
+          "reference": "Exodus 22:18",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 22:19",
+          "identical": false,
+          "similarity": 0.583333
+        },
+        {
+          "reference": "Exodus 22:20",
+          "identical": false,
+          "similarity": 0.733333
+        },
+        {
+          "reference": "Exodus 22:21",
+          "identical": false,
+          "similarity": 0.444444
+        },
+        {
+          "reference": "Exodus 22:22",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 22:23",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Exodus 22:24",
+          "identical": false,
+          "similarity": 0.930233
+        },
+        {
+          "reference": "Exodus 22:25",
+          "identical": false,
+          "similarity": 0.509091
+        },
+        {
+          "reference": "Exodus 22:26",
+          "identical": false,
+          "similarity": 0.742857
+        },
+        {
+          "reference": "Exodus 22:27",
+          "identical": false,
+          "similarity": 0.451613
+        },
+        {
+          "reference": "Exodus 22:28",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Exodus 22:29",
+          "identical": false,
+          "similarity": 0.64
+        },
+        {
+          "reference": "Exodus 22:30",
+          "identical": false,
+          "similarity": 0.407407
+        },
+        {
+          "reference": "Exodus 22:31",
+          "identical": false,
+          "similarity": 0.627451
+        },
+        {
+          "reference": "Exodus 23:1",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Exodus 23:2",
+          "identical": false,
+          "similarity": 0.416667
+        },
+        {
+          "reference": "Exodus 23:3",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Exodus 23:4",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 23:5",
+          "identical": false,
+          "similarity": 0.555556
+        },
+        {
+          "reference": "Exodus 23:6",
+          "identical": false,
+          "similarity": 0.32
+        },
+        {
+          "reference": "Exodus 23:7",
+          "identical": false,
+          "similarity": 0.755556
+        },
+        {
+          "reference": "Exodus 23:8",
+          "identical": false,
+          "similarity": 0.731707
+        },
+        {
+          "reference": "Exodus 23:9",
+          "identical": false,
+          "similarity": 0.392157
+        },
+        {
+          "reference": "Exodus 23:10",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Exodus 23:11",
+          "identical": false,
+          "similarity": 0.650602
+        },
+        {
+          "reference": "Exodus 23:12",
+          "identical": false,
+          "similarity": 0.685714
+        },
+        {
+          "reference": "Exodus 23:13",
+          "identical": false,
+          "similarity": 0.45283
+        },
+        {
+          "reference": "Exodus 23:14",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Exodus 23:15",
+          "identical": false,
+          "similarity": 0.758621
+        },
+        {
+          "reference": "Exodus 23:16",
+          "identical": false,
+          "similarity": 0.810127
+        },
+        {
+          "reference": "Exodus 23:17",
+          "identical": false,
+          "similarity": 0.785714
+        },
+        {
+          "reference": "Exodus 23:18",
+          "identical": false,
+          "similarity": 0.723404
+        },
+        {
+          "reference": "Exodus 23:19",
+          "identical": false,
+          "similarity": 0.690909
+        },
+        {
+          "reference": "Exodus 23:20",
+          "identical": false,
+          "similarity": 0.816327
+        },
+        {
+          "reference": "Exodus 23:21",
+          "identical": false,
+          "similarity": 0.792453
+        },
+        {
+          "reference": "Exodus 23:22",
+          "identical": false,
+          "similarity": 0.62963
+        },
+        {
+          "reference": "Exodus 23:23",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 23:24",
+          "identical": false,
+          "similarity": 0.641509
+        },
+        {
+          "reference": "Exodus 23:25",
+          "identical": false,
+          "similarity": 0.818182
+        },
+        {
+          "reference": "Exodus 23:26",
+          "identical": false,
+          "similarity": 0.594595
+        },
+        {
+          "reference": "Exodus 23:27",
+          "identical": false,
+          "similarity": 0.758621
+        },
+        {
+          "reference": "Exodus 23:28",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Exodus 23:29",
+          "identical": false,
+          "similarity": 0.816327
+        },
+        {
+          "reference": "Exodus 23:30",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Exodus 23:31",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Exodus 23:32",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Exodus 23:33",
+          "identical": false,
+          "similarity": 0.807018
+        },
+        {
+          "reference": "Exodus 24:1",
+          "identical": false,
+          "similarity": 0.872727
+        },
+        {
+          "reference": "Exodus 24:2",
+          "identical": false,
+          "similarity": 0.711111
+        },
+        {
+          "reference": "Exodus 24:3",
+          "identical": false,
+          "similarity": 0.606061
+        },
+        {
+          "reference": "Exodus 24:4",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Exodus 24:5",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 24:6",
+          "identical": false,
+          "similarity": 0.540541
+        },
+        {
+          "reference": "Exodus 24:7",
+          "identical": false,
+          "similarity": 0.576271
+        },
+        {
+          "reference": "Exodus 24:8",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Exodus 24:9",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 24:10",
+          "identical": false,
+          "similarity": 0.680851
+        },
+        {
+          "reference": "Exodus 24:11",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Exodus 24:12",
+          "identical": false,
+          "similarity": 0.788732
+        },
+        {
+          "reference": "Exodus 24:13",
+          "identical": false,
+          "similarity": 0.774194
+        },
+        {
+          "reference": "Exodus 24:14",
+          "identical": false,
+          "similarity": 0.779661
+        },
+        {
+          "reference": "Exodus 24:15",
+          "identical": false,
+          "similarity": 0.782609
+        },
+        {
+          "reference": "Exodus 24:16",
+          "identical": false,
+          "similarity": 0.866667
+        },
+        {
+          "reference": "Exodus 24:17",
+          "identical": false,
+          "similarity": 0.533333
+        },
+        {
+          "reference": "Exodus 24:18",
+          "identical": false,
+          "similarity": 0.790698
+        }
+      ]
+    }
+  }
+}

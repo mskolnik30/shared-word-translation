@@ -4,165 +4,119 @@ testament: OT
 chapter: 23
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-21-24-biblical-fluency-2026-09-11
 ---
 
-## Justice Must Not Be Distorted
+## Justice without partiality
 
 <p>
-v01: “You will not carry a false report. Do not put your hand with the wicked to become a malicious witness.
-
-v02: You will not follow the many to do evil, and you will not testify in a dispute by turning aside after the many to distort justice.
-
-v03: Nor will you show favoritism to a poor person in his dispute.
+v01: “Do not spread a false report. Do not join hands with a wicked person to be a malicious witness.
+v02: Do not follow a crowd into wrongdoing. When you testify in a dispute, do not side with the crowd to bend justice.
+v03: Do not favor a poor person in a dispute.
 </p>
 
-## Care for an Enemy’s Animal
-
 <p>
-v04: “If you meet your enemy’s ox or donkey wandering away, you will surely return it to him.
-
-v05: If you see the donkey of one who hates you lying under its load, you will refrain from abandoning him. You will surely release it with him.
+v04: If you come across your enemy’s ox or donkey wandering away, be sure to take it back to him.
+v05: If you see the donkey of someone who hates you lying under its load, do not leave him without help. Be sure to help him with it.
 </p>
 
-## Do Not Deny Justice
-
 <p>
-v06: “You will not distort the justice due to your poor in his dispute.
-
-v07: Keep far from a false matter. Do not kill the innocent or the righteous, for I will not declare the wicked innocent.
-
-v08: You will not take a bribe, for a bribe blinds people who see and twists the words of the righteous.
-
-v09: You will not oppress a resident alien. You yourselves know the life of the resident alien, for you were resident aliens in the land of Egypt.
+v06: Do not deny a poor person among you justice in a dispute.
+v07: Keep far from a false charge. Do not kill the innocent or those in the right, because I will not acquit the wicked.
+v08: Do not accept a bribe. A bribe blinds those who can see and twists the words of those in the right.
 </p>
 
-## The Sabbath Year and Sabbath Day
-
 <p>
-v10: “Six years you will sow your land and gather its produce.
-
-v11: But in the seventh you will let it rest and leave it alone, so that the poor of your people may eat, and what they leave the animals of the field may eat. You will do likewise with your vineyard and your olive grove.
-
-v12: Six days you will do your work, but on the seventh day you will cease, so that your ox and donkey may rest, and the son of your female servant and the resident alien may be refreshed.
-
-v13: Be careful concerning all that I have said to you. You will not mention the name of other gods; it will not be heard from your mouth.
+v09: Do not oppress a foreigner living among you. You yourselves know what it is like to be a foreigner, because you were foreigners in Egypt.
 </p>
 
-## Three Pilgrimage Festivals
+## Rest for land and workers
 
 <p>
-v14: “Three times in the year you will hold a festival for me.
-
-v15: You will keep the Festival of Unleavened Bread. Seven days you will eat unleavened bread, as I commanded you, at the appointed time in the month of Abib, for in it you came out from Egypt. No one will appear before me empty-handed.
-
-v16: And the Festival of Harvest, of the firstfruits of your work, what you sow in the field; and the Festival of Ingathering at the going out of the year, when you gather the fruit of your work from the field.
-
-v17: Three times in the year all your males will appear before the Lord GOD.
-
-v18: You will not offer the blood of my sacrifice with anything leavened, and the fat of my festival sacrifice will not remain until morning.
-
-v19: The best of the firstfruits of your ground you will bring into the house of the LORD your God.
-
-You will not boil a young goat in its mother’s milk.
+v10: For six years sow your land and gather its produce.
+v11: But in the seventh year let it rest and leave it alone, so the poor among your people can eat from it. The wild animals can eat what they leave. Do the same with your vineyard and olive grove.
 </p>
 
-## My Messenger Will Go before You
-
 <p>
-v20: “Look, I am sending a messenger before you to guard you on the way and to bring you to the place that I have prepared.
-
-v21: Be careful before him and listen to his voice. Do not rebel against him, for he will not pardon your transgression, for my name is within him.
-
-v22: But if you truly listen to his voice and do all that I speak, then I will be an enemy to your enemies and an adversary to your adversaries.
-
-v23: For my messenger will go before you and bring you to the Amorites, Hittites, Perizzites, Canaanites, Hivites, and Jebusites, and I will cut them off.
+v12: For six days do your work, but stop on the seventh day, so your ox and donkey can rest, and the son of your female slave and the foreigner can catch their breath.
+v13: Take care to keep everything I have told you. Do not invoke the names of other gods; do not let them be heard on your lips.
 </p>
 
-## Do Not Serve Their Gods
+## Three annual festivals
 
 <p>
-v24: “You will not bow down to their gods or serve them or do according to their deeds, but you will utterly tear them down and completely shatter their pillars.
-
-v25: You will serve the LORD your God, and he will bless your bread and your water, and I will remove sickness from your midst.
-
-v26: None will miscarry or be barren in your land. I will fulfill the number of your days.
+v14: Three times a year you are to hold a festival for me.
+v15: Keep the Festival of Unleavened Bread. Eat unleavened bread for seven days, as I commanded you, at the appointed time in the month of Abib, because that was when you came out of Egypt. No one is to appear before me empty-handed.
+v16: Keep the Festival of Harvest with the firstfruits of your work, of what you sow in the field. Also keep the Festival of Ingathering at the year’s end, when you gather the fruit of your work from the field.
+v17: Three times a year all your males are to appear before the Lord GOD.
 </p>
 
-## I Will Send Terror before You
+<p>
+v18: Do not offer the blood of my sacrifice with anything leavened. Do not leave the fat of my festival offering overnight until morning.
+v19: Bring the first of your land’s firstfruits to the house of the LORD your God. Do not boil a young goat in its mother’s milk.
+</p>
+
+## The angel and the journey ahead
 
 <p>
-v27: “I will send my terror before you and throw into confusion all the people among whom you come, and I will make all your enemies turn their backs to you.
+v20: Look, I am sending an angel ahead of you to guard you on the way and bring you to the place I have prepared.
+v21: Be attentive to him and obey his voice. Do not rebel against him, because he will not pardon your rebellion, for my name is within him.
+v22: If you truly obey his voice and do everything I say, I will be an enemy to your enemies and oppose those who oppose you.
+v23: My angel will go ahead of you and bring you to the Amorites, Hittites, Perizzites, Canaanites, Hivites, and Jebusites, and I will wipe them out.
+</p>
 
-v28: I will send the hornet before you, and it will drive out the Hivite, the Canaanite, and the Hittite from before you.
+<p>
+v24: Do not bow down to their gods, serve them, or imitate their practices. You must tear them down completely and smash their sacred pillars.
+v25: Serve the LORD your God, and he will bless your bread and water. I will remove sickness from among you.
+v26: No one in your land will miscarry or be barren. I will give you the full number of your days.
+</p>
 
-v29: I will not drive them out from before you in one year, lest the land become desolate and the wild animals multiply against you.
+<p>
+v27: I will send my terror ahead of you and throw all the peoples you encounter into confusion. I will make all your enemies turn their backs to you.
+v28: I will send the hornet ahead of you, and it will drive out the Hivites, Canaanites, and Hittites before you.
+</p>
 
-v30: Little by little I will drive them out from before you, until you become fruitful and possess the land.
+<p>
+v29: I will not drive them out before you in a single year, or the land would become desolate and wild animals would multiply against you.
+v30: Little by little I will drive them out before you, until you have grown in number and can take possession of the land.
+v31: I will set your borders from the Sea of Reeds to the sea of the Philistines, and from the wilderness to the River. I will give the land’s inhabitants into your hands, and you will drive them out before you.
+</p>
 
-v31: I will set your border from the Sea of Reeds to the Sea of the Philistines, and from the wilderness to the River, for I will give the inhabitants of the land into your hand, and you will drive them out from before you.
-
-v32: You will make no covenant with them or with their gods.
-
-v33: They will not live in your land, lest they cause you to sin against me, for if you serve their gods, it will surely become a snare to you.”
+<p>
+v32: Do not make a covenant with them or with their gods.
+v33: They must not live in your land, or they will lead you to sin against me. If you serve their gods, it will become a snare for you.”
 </p>
 
 ## Notes
 
-v01–03: Justice must resist both malicious accusation and social pressure. The poor are not to be oppressed, but neither may poverty itself become grounds for partial judgment.
+v5: The repeated Hebrew verb usually means “leave” or “forsake,” but its use here is difficult. The command is understood as helping with the animal and its burden; some render the action more specifically as unloading it. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+23&version=NET).
 
-v04–05: Covenant justice reaches even into relationships of hostility. An enemy’s lost or burdened animal must still receive practical help.
+v12: The Hebrew names “the son of your female slave,” rather than all workers in general. “Catch their breath” expresses the refreshment associated with rest.
 
-v09: Israel’s own experience as resident aliens is again made the basis for empathy: “you know the life” of the alien.
+v17: “Lord GOD” represents the title “Lord” followed by the divine name YHWH. The attendance requirement explicitly names males.
 
-v11: The seventh-year release of the land has ecological and social dimensions. The land rests, the poor eat, and wild animals receive what remains.
+v19: The prohibition specifies a young goat and its own mother’s milk. It gives no explanation here.
 
-v12: Sabbath rest explicitly includes working animals, servants, and resident aliens, extending rest beyond the household head.
+v20–21, 28: The angel is not named. “My name is within him” retains the source’s expression of divine authority. “The hornet” may describe insects or function as an image for what drives the peoples out; the translation preserves the image. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+23&version=NET).
 
-v14–17: The three pilgrimage festivals connect Israel’s worship to liberation, harvest, and ingathering.
-
-v19: “boil a young goat in its mother’s milk” is repeated elsewhere in the Torah. The immediate ritual or symbolic rationale is not explained in the text, so TSW preserves the prohibition without adding one.
-
-v20–21: The messenger carries unusual divine authority because the LORD’s “name is within him.” The text does not fully define the messenger’s identity.
-
-v28: “hornet” may refer to a literal stinging insect or function figuratively for terror and disruption. TSW retains the concrete image.
-
-v29–30: Conquest is explicitly gradual rather than instantaneous, with ecological consequences given as the reason.
-
-v31: “the River” refers to the Euphrates in this geographical formula.
-
-v32–33: The warning is theological as well as political: covenants with the peoples are dangerous because they lead toward service of their gods.
+v31: “Sea of Reeds” is the Hebrew name also used in 13:18 and 15:4. The sea of the Philistines is the Mediterranean. “The River” is commonly understood as the Euphrates. The text preserves these ancient geographic designations.
 
 ## Vocabulary
 
-v01: שָׁוְא (shav)
-“Falsehood” or “emptiness.” Used of a false report.
+v9: Foreigner living among you — ger
+A person residing outside their own people or homeland; the same word describes Israel’s earlier life in Egypt.
 
-v02: רַבִּים (rabbim)
-“The many” or “the majority.” Social pressure must not determine justice.
+v15: Abib — aviv
+The month name associated with ripening grain and Israel’s departure from Egypt.
 
-v06: אֶבְיוֹן (evyon)
-“Poor” or “needy.” One whose justice must not be distorted.
+v16: Firstfruits — bikkurim
+The first portion of a crop’s yield.
 
-v08: שֹׁחַד (shochad)
-“Bribe.” A gift that corrupts judgment.
+v24: Sacred pillars — matstsevot
+Standing stones used in worship.
 
-v09: נֶפֶשׁ הַגֵּר (nefesh ha-ger)
-“Life of the resident alien.” The lived experience Israel knows from Egypt.
-
-v11: שָׁמַט (shamat)
-“To release” or “let rest.” Used of leaving the land uncultivated.
-
-v14: חָגַג (chagag)
-“To keep a festival.” To celebrate a sacred feast.
-
-v20: מַלְאָךְ (malakh)
-“Messenger” or “angel.” One sent ahead under divine authority.
-
-v24: מַצֵּבָה (matsevah)
-“Pillar.” A standing cultic stone.
-
-v28: צִרְעָה (tsir'ah)
-“Hornet.” The agent sent ahead to drive out peoples.
-
-v33: מוֹקֵשׁ (moqesh)
-“Snare.” A trap, here the danger of serving other gods.
+v32: Covenant — berit
+A binding relationship or agreement; compare the covenant with the LORD in chapter 24.

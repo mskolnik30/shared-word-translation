@@ -4,100 +4,85 @@ testament: OT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-21-24-biblical-fluency-2026-09-11
 ---
 
-## The Covenant Confirmed
+## Who may approach
 
 <p>
-v01: Then the LORD said to Moses, “Come up to the LORD—you and Aaron, Nadab, and Abihu, and seventy of the elders of Israel—and bow down at a distance.
-v02: Moses alone will come near to the LORD, but the others will not come near, and the people will not come up with him.”
+v01: The LORD said to Moses, “Come up to the LORD—you, Aaron, Nadab, Abihu, and seventy of Israel’s elders—and bow down at a distance.
+v02: Moses alone is to approach the LORD. The others must not approach, and the people must not come up with him.”
+</p>
+
+## The covenant is confirmed
+
+<p>
+v03: Moses went and told the people all the LORD’s words and all the rulings. The whole people answered with one voice, “We will do everything the LORD has said.”
 </p>
 
 <p>
-v03: Moses came and told the people all the words of the LORD and all the ordinances. And all the people answered with one voice and said, “All the words that the LORD has spoken we will do.”
-v04: Moses wrote down all the words of the LORD. He rose early in the morning and built an altar at the foot of the mountain, and twelve pillars, according to the twelve tribes of Israel.
-v05: And he sent young men of the people of Israel, who offered burnt offerings and sacrificed offerings of well-being to the LORD, oxen.
+v04: Moses wrote down all the LORD’s words. Early the next morning he built an altar at the foot of the mountain and set up twelve pillars for the twelve tribes of Israel.
+v05: He sent young Israelite men, who offered burnt offerings and sacrificed bulls as peace offerings to the LORD.
 </p>
 
 <p>
-v06: Moses took half of the blood and put it in basins, and half of the blood he threw against the altar.
-v07: Then he took the book of the covenant and read it in the hearing of the people. And they said, “All that the LORD has spoken we will do, and we will hear.”
-v08: Moses took the blood and threw it on the people and said, “See—the blood of the covenant that the LORD has cut with you in keeping with all these words.”
-</p>
-
-## On the Mountain with God
-
-<p>
-v09: Then Moses and Aaron, Nadab, and Abihu, and seventy of the elders of Israel went up,
-v10: and they saw the God of Israel. Under his feet there was something like a pavement of sapphire stone, like the very heavens for clearness.
-v11: And he did not stretch out his hand against the chief men of the people of Israel; they saw God, and they ate and drank.
+v06: Moses put half the blood into basins and splashed the other half against the altar.
+v07: He took the covenant document and read it aloud to the people. They said, “We will do everything the LORD has said, and we will obey.”
 </p>
 
 <p>
-v12: The LORD said to Moses, “Come up to me on the mountain and remain there, and I will give you the tablets of stone, with the instruction and the commandment that I have written for their teaching.”
-v13: So Moses rose with Joshua his assistant, and Moses went up into the mountain of God.
-v14: And he said to the elders, “Wait here for us until we return to you. See, Aaron and Hur are with you; whoever has a dispute may go to them.”
+v08: Moses took the blood and splashed it on the people. “Here is the blood of the covenant the LORD has made with you on the basis of all these words,” he said.
+</p>
+
+## The leaders see God
+
+<p>
+v09: Moses went up with Aaron, Nadab, Abihu, and seventy of Israel’s elders.
+v10: They saw the God of Israel. Beneath his feet was something like a pavement of sapphire, as clear as the sky itself.
+v11: He did not lay his hand on these leaders of Israel. They beheld God, and they ate and drank.
+</p>
+
+## Moses enters the cloud
+
+<p>
+v12: The LORD said to Moses, “Come up to me on the mountain and stay there. I will give you the stone tablets, with the instruction and commandment I have written to teach the people.”
+v13: Moses set out with Joshua his attendant, and Moses went up the mountain of God.
 </p>
 
 <p>
-v15: Then Moses went up on the mountain, and the cloud covered the mountain.
-v16: The glory of the LORD settled on Mount Sinai, and the cloud covered it six days; on the seventh day he called to Moses out of the midst of the cloud.
+v14: He had told the elders, “Wait here for us until we return to you. Aaron and Hur are here with you; anyone with a dispute should go to them.”
 </p>
 
 <p>
-v17: Now the appearance of the glory of the LORD was like a consuming fire on the top of the mountain in the sight of the sons of Israel.
-
-v18: Moses entered the midst of the cloud and went up on the mountain. And Moses was on the mountain forty days and forty nights.
+v15: Moses went up the mountain, and the cloud covered it.
+v16: The glory of the LORD settled on Mount Sinai, and the cloud covered it for six days. On the seventh day he called to Moses from within the cloud.
+v17: To the Israelites, the glory of the LORD looked like a consuming fire on the mountain’s summit.
+v18: Moses entered the cloud and went up the mountain. He stayed on the mountain forty days and forty nights.
 </p>
 
 ## Notes
 
-v01: “Come up to the LORD” — The LORD speaks, yet Moses is told to come up “to the LORD.” The third-person reference preserves narrative distance and emphasizes divine transcendence rather than resolving it.
+v5–8: The text names young Israelite men as the offering agents. Moses divides the blood between the altar and the people, with the reading of the covenant document between those actions.
 
-v07: “we will do, and we will hear” — The order is striking. Obedience precedes full comprehension. The sequence is preserved rather than adjusted for modern expectation.
+v7: The Hebrew response is “we will do and we will hear.” Hearing here includes heeding what has been spoken, so the second verb is rendered “obey.”
 
-v08: “the blood of the covenant that the LORD has cut” — The Hebrew idiom is literally “cut a covenant.” The imagery of cutting is retained conceptually, echoing ancient covenant-making practices.
+v10–11: The account says both that the leaders saw God and that he did not lay his hand on them. The translation leaves these statements together without adding an explanation of the vision. “Sapphire” represents the ancient blue-stone term sappir; modern mineral identification is uncertain.
 
-v10: “they saw the God of Israel” — The text states this directly without qualification, even as other passages insist that God cannot be seen. The tension is preserved.
-
-v11: “he did not stretch out his hand” — A common idiom for judgment or destruction. Its negation underscores the unexpected survival of those who “saw God.”
-
-v12: “the instruction and the commandment” — “Instruction” renders *torah*, which carries the sense of teaching or guidance, not merely legislation.
-
-v16: “the glory of the LORD” — The term signals visible divine presence. The text describes appearance without defining essence, preserving mystery.
-
-v18: “Forty days and forty nights” is a recurring biblical period associated with preparation, testing, and divine encounter. The narrative does not explain its significance here.
+v12: The instruction and commandment are understood here as the writing on the tablets. The final phrase states the purpose of teaching the people. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+24&version=NET).
 
 ## Vocabulary
 
-v01: שָׁחָה (*shachah*) — to bow down, to prostrate oneself; bodily posture of worship or submission.
+v5: Burnt offerings — ʿolot
+Offerings burned on the altar; the name evokes their going up.
 
-v05: שְׁלָמִים (*shelamim*) — offerings of well-being; traditionally “peace offerings,” conveying wholeness and restored relationship.
+v5: Peace offerings — shelamim
+Also called well-being or fellowship offerings; the same category appears in 20:24.
 
-v07: סֵפֶר הַבְּרִית (*sefer ha-berit*) — book of the covenant; written covenantal document publicly read.
+v7: Covenant document — sefer habberit
+The written record read aloud before the people affirm their obedience.
 
-v08: בְּרִית (*berit*) — covenant; binding relational commitment, often formalized through ritual action.
-
-v08: כָּרַת (*karat*) — to cut; idiomatically “to cut a covenant,” reflecting ancient covenant-making practice.
-
-v10: לָבֵנָה (*lavenah*) — brick, pavement; here describing the sapphire-like surface beneath God’s feet.
-
-v16: כָּבוֹד (*kavod*) — glory; weight, honor, manifest presence.
-
-v17: אֵשׁ אֹכֶלֶת (*esh okhelet*) — consuming fire; image of divine holiness and intensity.
-Now the appearance of the glory of the LORD was like a consuming fire on the top of the mountain in the sight of the people of Israel.
-
-v18: אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה (*arba'im yom ve'arba'im laylah*) — forty days and forty nights; recurring period of testing and encounter.
-Moses entered the midst of the cloud and went up on the mountain. And Moses was on the mountain forty days and forty nights.
-
-v05: שְׁלָמִים (shelamim)
-“Offerings of well-being.” Traditionally “peace offerings,” conveying wholeness and restored relationship.
-
-v07: סֵפֶר הַבְּרִית (sefer ha-berit)
-“Book of the covenant; written covenantal document publicly read.”
-
-v08: בְּרִית (berit)
-“Covenant; binding relational commitment, often formalized through ritual action.”
-
-v08: כָּרַת (karat)
-“To cut; idiomatically “to cut a covenant,” reflecting ancient covenant-making practice.”
+v16: Glory — kavod
+God’s manifest majesty or splendor, described here with cloud and fire.

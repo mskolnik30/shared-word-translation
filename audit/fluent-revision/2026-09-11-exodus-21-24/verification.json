@@ -1,0 +1,531 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T12:43:24.922069+00:00",
+  "base_commit": "ca1e05676715f295505039047dbd80f97755d0d4",
+  "scope": "Exodus 21–24; 118 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 79,
+    "verses": 2304
+  },
+  "source_record_count": 1213,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "21:2": [
+      "six years",
+      "seventh year",
+      "without payment"
+    ],
+    "21:4": [
+      "wife and her children belong",
+      "leave alone"
+    ],
+    "21:6": [
+      "before God",
+      "doorpost",
+      "awl",
+      "permanently"
+    ],
+    "21:8": [
+      "for himself",
+      "redeemed",
+      "foreign people",
+      "betrayed"
+    ],
+    "21:10": [
+      "food",
+      "clothing",
+      "marital rights"
+    ],
+    "21:13": [
+      "did not lie in wait",
+      "God let it happen"
+    ],
+    "21:14": [
+      "attacks",
+      "kill",
+      "deceit",
+      "altar",
+      "death"
+    ],
+    "21:16": [
+      "kidnaps",
+      "sold",
+      "possession"
+    ],
+    "21:20": [
+      "male or female slave",
+      "rod",
+      "avenged"
+    ],
+    "21:21": [
+      "day or two",
+      "no vengeance",
+      "his money"
+    ],
+    "21:22": [
+      "pregnant woman",
+      "her children come out",
+      "no harm",
+      "husband",
+      "judges"
+    ],
+    "21:23": [
+      "harm occurs",
+      "life for life"
+    ],
+    "21:24": [
+      "eye for eye",
+      "tooth for tooth",
+      "hand for hand",
+      "foot for foot"
+    ],
+    "21:25": [
+      "burn for burn",
+      "wound for wound",
+      "bruise for bruise"
+    ],
+    "21:26": [
+      "male or female slave",
+      "eye",
+      "go free"
+    ],
+    "21:27": [
+      "tooth",
+      "go free"
+    ],
+    "21:29": [
+      "known to gore",
+      "warned",
+      "failed",
+      "man or woman",
+      "owner must also"
+    ],
+    "21:30": [
+      "If a ransom",
+      "redeem his life"
+    ],
+    "21:32": [
+      "thirty shekels",
+      "master",
+      "stoned"
+    ],
+    "21:35": [
+      "living ox",
+      "divide its price",
+      "divide the dead"
+    ],
+    "21:36": [
+      "ox for ox",
+      "dead animal becomes his"
+    ],
+    "22:1": [
+      "five cattle",
+      "four sheep or goats"
+    ],
+    "22:3": [
+      "sun has risen",
+      "bloodguilt",
+      "sold"
+    ],
+    "22:4": [
+      "alive",
+      "double"
+    ],
+    "22:5": [
+      "best of their own"
+    ],
+    "22:9": [
+      "before God",
+      "double"
+    ],
+    "22:11": [
+      "oath before the LORD",
+      "owner must accept",
+      "need not"
+    ],
+    "22:12": [
+      "stolen",
+      "make restitution"
+    ],
+    "22:14": [
+      "owner is absent",
+      "full restitution"
+    ],
+    "22:15": [
+      "owner is present",
+      "no restitution",
+      "hired"
+    ],
+    "22:16": [
+      "virgin",
+      "not pledged",
+      "bride-price"
+    ],
+    "22:17": [
+      "father",
+      "refuses",
+      "still pay"
+    ],
+    "22:18": [
+      "sorceress",
+      "live"
+    ],
+    "22:20": [
+      "devoted to destruction"
+    ],
+    "22:24": [
+      "I will kill",
+      "wives",
+      "widows",
+      "fatherless"
+    ],
+    "22:25": [
+      "poor",
+      "Do not charge them interest"
+    ],
+    "22:26": [
+      "before the sun sets"
+    ],
+    "22:27": [
+      "skin",
+      "sleep",
+      "I will hear"
+    ],
+    "22:29": [
+      "firstborn of your sons"
+    ],
+    "22:30": [
+      "seven days",
+      "eighth day"
+    ],
+    "22:31": [
+      "holy",
+      "torn apart",
+      "dogs"
+    ],
+    "23:3": [
+      "Do not favor a poor person"
+    ],
+    "23:5": [
+      "hates you",
+      "help"
+    ],
+    "23:6": [
+      "Do not deny a poor person"
+    ],
+    "23:11": [
+      "seventh year",
+      "poor",
+      "wild animals",
+      "vineyard",
+      "olive grove"
+    ],
+    "23:12": [
+      "six days",
+      "seventh day",
+      "ox and donkey",
+      "son of your female slave",
+      "foreigner"
+    ],
+    "23:15": [
+      "seven days",
+      "Abib",
+      "Egypt",
+      "empty-handed"
+    ],
+    "23:16": [
+      "Harvest",
+      "Ingathering",
+      "year’s end"
+    ],
+    "23:17": [
+      "Three times",
+      "all your males",
+      "Lord GOD"
+    ],
+    "23:18": [
+      "blood",
+      "leavened",
+      "fat",
+      "morning"
+    ],
+    "23:19": [
+      "young goat",
+      "mother’s milk"
+    ],
+    "23:21": [
+      "not pardon",
+      "my name is within him"
+    ],
+    "23:23": [
+      "Amorites, Hittites, Perizzites, Canaanites, Hivites, and Jebusites",
+      "wipe them out"
+    ],
+    "23:25": [
+      "he will bless",
+      "I will remove"
+    ],
+    "23:28": [
+      "hornet",
+      "Hivites, Canaanites, and Hittites"
+    ],
+    "23:29": [
+      "single year",
+      "desolate",
+      "wild animals"
+    ],
+    "23:30": [
+      "Little by little"
+    ],
+    "23:31": [
+      "Sea of Reeds",
+      "sea of the Philistines",
+      "wilderness",
+      "River",
+      "drive them out"
+    ],
+    "24:1": [
+      "Aaron, Nadab, Abihu",
+      "seventy",
+      "distance"
+    ],
+    "24:2": [
+      "Moses alone",
+      "others must not",
+      "people must not"
+    ],
+    "24:3": [
+      "all the rulings",
+      "one voice"
+    ],
+    "24:4": [
+      "twelve pillars",
+      "twelve tribes"
+    ],
+    "24:5": [
+      "young Israelite men",
+      "bulls",
+      "burnt offerings",
+      "peace offerings"
+    ],
+    "24:6": [
+      "half",
+      "basins",
+      "altar"
+    ],
+    "24:7": [
+      "covenant document",
+      "read it aloud",
+      "we will obey"
+    ],
+    "24:8": [
+      "splashed it on the people",
+      "blood of the covenant"
+    ],
+    "24:9": [
+      "Aaron, Nadab, Abihu",
+      "seventy"
+    ],
+    "24:10": [
+      "saw the God of Israel",
+      "his feet",
+      "something like"
+    ],
+    "24:11": [
+      "did not lay his hand",
+      "beheld God",
+      "ate and drank"
+    ],
+    "24:12": [
+      "stone tablets",
+      "I have written",
+      "teach the people"
+    ],
+    "24:13": [
+      "Joshua"
+    ],
+    "24:14": [
+      "Aaron and Hur",
+      "dispute"
+    ],
+    "24:16": [
+      "six days",
+      "seventh day"
+    ],
+    "24:18": [
+      "forty days and forty nights"
+    ]
+  },
+  "source_annotations_hashed_in_full": [
+    "21:8",
+    "22:1",
+    "22:2",
+    "22:3",
+    "22:4",
+    "22:5",
+    "22:6",
+    "22:7",
+    "22:8",
+    "22:9",
+    "22:10",
+    "22:11",
+    "22:12",
+    "22:13",
+    "22:14",
+    "22:15",
+    "22:16",
+    "22:17",
+    "22:18",
+    "22:19",
+    "22:20",
+    "22:21",
+    "22:22",
+    "22:23",
+    "22:24",
+    "22:25",
+    "22:26",
+    "22:27",
+    "22:28",
+    "22:29",
+    "22:30",
+    "22:31"
+  ],
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 118 pinned Hebrew records including annotations, composed the English from Hebrew, consulted NET lexical/grammatical notes (21–22 before drafting, 23–24 after drafting), read every TSW comparator after drafting, and reread the assembled English. Focused checks address legal conditions and exceptions, enslaved people and real harm, birth/harm ambiguity, monetary and calendar numbers, named peoples, divine agency, covenant blood, direct seeing of God, and the public/Hebrew numbering shift. Peace-offering terminology was aligned to 20:24. This is an authoring self-check, not independent scholarly review.",
+  "exodus_source_references_unique_through_24": 663,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

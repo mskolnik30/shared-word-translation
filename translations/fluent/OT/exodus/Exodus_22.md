@@ -4,154 +4,124 @@ testament: OT
 chapter: 22
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-21-24-biblical-fluency-2026-09-11
 ---
 
-## Restitution for Theft
+## Theft and damage
 
 <p>
-v01: “If a man steals an ox or a sheep and slaughters it or sells it, he will make restitution of five oxen for the ox and four sheep for the sheep.
-
-v02: If a thief is found breaking in and is struck so that he dies, there will be no bloodguilt for him.
-
-v03: But if the sun has risen upon him, there will be bloodguilt for him. The thief will surely make restitution. If he has nothing, then he will be sold for his theft.
-
-v04: If the stolen animal is found alive in his hand, whether ox, donkey, or sheep, he will make double restitution.
+v01: “If someone steals an ox or an animal from a flock and slaughters or sells it, they must repay five cattle for the ox and four sheep or goats for the flock animal.
 </p>
 
-## Damage to Fields and Property
-
 <p>
-v05: “If a man causes a field or vineyard to be grazed over and lets his livestock loose so that it grazes in another’s field, he will make restitution from the best of his own field and the best of his own vineyard.
-
-v06: If fire breaks out and catches in thorns so that stacked grain, standing grain, or a field is consumed, the one who started the fire will surely make restitution.
+v02: If a thief is caught breaking in and is struck and dies, there is no bloodguilt for the one who struck him.
+v03: But if the sun has risen on him, there is bloodguilt. A thief must make full restitution. If he has nothing, he is to be sold for what he stole.
 </p>
 
-## Property Entrusted to Another
-
 <p>
-v07: “If a man gives his neighbor silver or goods to keep and it is stolen from the man’s house, if the thief is found, he will make double restitution.
-
-v08: If the thief is not found, then the owner of the house will be brought before God to determine whether he has stretched out his hand against his neighbor’s property.
-
-v09: For every matter of transgression concerning an ox, donkey, sheep, garment, or any lost thing about which one says, ‘This is it,’ the case of both parties will come before God. The one whom God declares guilty will make double restitution to his neighbor.
-
-v10: If a man gives his neighbor a donkey, ox, sheep, or any animal to keep and it dies, is injured, or is driven away when no one sees,
-
-v11: an oath before the LORD will be between them to determine whether he stretched out his hand against his neighbor’s property. Its owner will accept this, and the other will not make restitution.
-
-v12: But if it was truly stolen from him, he will make restitution to its owner.
-
-v13: If it was torn apart, he will bring it as evidence. He will not make restitution for what was torn.
+v04: If the stolen animal is found alive in his possession, whether an ox, donkey, sheep, or goat, he must repay double.
 </p>
 
-## Borrowed Animals
-
 <p>
-v14: “If a man borrows an animal from his neighbor and it is injured or dies while its owner is not with it, he will surely make restitution.
-
-v15: If its owner is with it, he will not make restitution. If it was hired, the loss is covered by its hire.
+v05: If someone grazes a field or vineyard and lets their livestock loose to graze in another person’s field, they must make restitution from the best of their own field and vineyard.
+v06: If a fire spreads into thorns and consumes stacked grain, standing grain, or a field, the one who started the fire must make full restitution.
 </p>
 
-## Seduction and Other Covenant Laws
+## Property entrusted or borrowed
 
 <p>
-v16: “If a man seduces a virgin who is not betrothed and lies with her, he will surely pay the bride-price for her to become his wife.
-
-v17: If her father absolutely refuses to give her to him, he will weigh out silver according to the bride-price for virgins.
-
-v18: You will not allow a sorceress to live.
-
-v19: Whoever lies with an animal will surely be put to death.
-
-v20: Whoever sacrifices to a god other than the LORD alone will be devoted to destruction.
+v07: If someone entrusts money or goods to a neighbor for safekeeping and they are stolen from the neighbor’s house, the thief must repay double if found.
+v08: If the thief is not found, the householder must come before God to determine whether he has laid hands on his neighbor’s property.
+v09: In every dispute over wrongdoing—whether it concerns an ox, a donkey, a sheep or goat, a garment, or any lost thing claimed as ‘This is it!’—both parties’ case must come before God. Whoever is found guilty before God must repay the neighbor double.
 </p>
 
-## Do Not Oppress the Vulnerable
-
 <p>
-v21: “You will not wrong a resident alien or oppress him, for you were resident aliens in the land of Egypt.
-
-v22: You will not afflict any widow or orphan.
-
-v23: If you do afflict them and they cry out to me, I will surely hear their cry.
-
-v24: My anger will burn, and I will kill you with the sword, and your wives will become widows and your children orphans.
+v10: If someone entrusts a donkey, ox, sheep, goat, or any other animal to a neighbor for safekeeping, and it dies, is injured, or is carried off with no witness,
+v11: an oath before the LORD is to settle the matter between them, declaring that the keeper has not laid hands on the neighbor’s property. The owner must accept it, and the keeper need not make restitution.
+v12: But if the animal was stolen from the keeper, the keeper must make restitution to its owner.
+v13: If it was torn apart, the keeper must bring it as evidence. No restitution is required for the torn animal.
 </p>
 
-## Lending to the Poor
-
 <p>
-v25: “If you lend silver to my people, to the poor among you, you will not be to him like a creditor. You will not impose interest upon him.
-
-v26: If you take your neighbor’s garment as a pledge, you will return it to him before the sun goes down,
-
-v27: for that is his only covering; it is his garment for his body. In what will he sleep? And when he cries to me, I will hear, for I am gracious.
+v14: If someone borrows an animal from a neighbor and it is injured or dies while its owner is absent, the borrower must make full restitution.
+v15: If its owner is present, no restitution is required. If it was hired, the loss is covered by the hire price.
 </p>
 
-## Honor God and Give the Firstborn
+## Marriage and other obligations
 
 <p>
-v28: “You will not revile God, and you will not curse a leader among your people.
+v16: If a man seduces a virgin who is not pledged in marriage and lies with her, he must pay the bride-price for her to become his wife.
+v17: If her father firmly refuses to give her to him, he must still pay an amount equal to the bride-price for virgins.
+</p>
 
-v29: You will not delay to offer from the fullness of your harvest and from the flow of your presses. The firstborn of your sons you will give to me.
+<p>
+v18: Do not allow a sorceress to live.
+v19: Anyone who has sexual relations with an animal must be put to death.
+v20: Anyone who sacrifices to gods other than the LORD alone must be devoted to destruction.
+</p>
 
-v30: You will do likewise with your oxen and sheep. Seven days it will be with its mother; on the eighth day you will give it to me.
+## Foreigners and vulnerable households
 
-v31: You will be holy people to me. Therefore you will not eat flesh torn by animals in the field; you will throw it to the dogs.
+<p>
+v21: Do not wrong or oppress a foreigner living among you, because you were foreigners in Egypt.
+v22: Do not mistreat any widow or fatherless child.
+v23: If you do mistreat them and they cry out to me, I will surely hear their cry.
+v24: My anger will burn, and I will kill you with the sword. Your wives will become widows and your children fatherless.
+</p>
+
+<p>
+v25: If you lend money to one of my people who is poor among you, do not act as a creditor toward them. Do not charge them interest.
+v26: If you take your neighbor’s cloak as a pledge, return it before the sun sets,
+v27: because it is their only covering, their cloak next to their skin. What else will they sleep in? When they cry out to me, I will hear, because I am gracious.
+</p>
+
+<p>
+v28: Do not curse God, and do not curse a leader among your people.
+</p>
+
+## What belongs to the LORD
+
+<p>
+v29: Do not delay giving from your full harvest and the flow of your presses. Give me the firstborn of your sons.
+v30: Do the same with your cattle, sheep, and goats. Let the firstborn stay with its mother for seven days; give it to me on the eighth day.
+</p>
+
+<p>
+v31: You are to be holy people for me. Do not eat meat from an animal torn apart in the field; throw it to the dogs.”
 </p>
 
 ## Notes
 
-v01: In the Masoretic Text this law is Exodus 21:37. Standard English numbering places it at Exodus 22:1. TSW follows public English numbering for website and shortcode compatibility.
+v1: This is 21:37 in the Hebrew numbering. Verses 2–31 here correspond to Hebrew 22:1–30.
 
-v01: This verse is numbered 21:37 in the Masoretic chapter division.
+v2–3: “Breaking in” refers to a break-in or tunneling entry. The law distinguishes this case from one in which the sun has risen; the translation retains that stated distinction.
 
-v02–03: The law distinguishes a nighttime break-in from one occurring in daylight. Darkness makes the intruder’s intent and danger harder to assess; daylight creates greater bloodguilt for killing.
+v8–9, 28: The word elohim can be read here as God or as judges. In verse 9 the verb for finding guilty is plural, strengthening the judicial reading. “Before God” allows for a proceeding conducted by human judges. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+22&version=NET).
 
-v08–09: “before God” can also be understood as “before the judges,” since judicial decision is exercised under divine authority. TSW retains the theological wording.
+v15: The final clause is terse: “if hired, it came with its hire.” The translation understands the hire payment to cover the loss; the Hebrew does not spell out the arrangement. [Translator discussion](https://www.biblegateway.com/passage/?search=Exodus+22&version=NET).
 
-v16–17: The law places economic and marital obligation upon the man who seduces an unbetrothed virgin, while the father retains authority to refuse the marriage. The woman’s own voice is not recorded in the case law.
+v16–17: The text specifies seduction and a woman not pledged in marriage. It states her father’s power to refuse the marriage but does not record the woman’s response.
 
-v18–20: These short capital laws reflect Israel’s ancient covenantal order and its rejection of sorcery, bestiality, and sacrifice to other gods.
+v25–27: The loan rule concerns a poor person among God’s people. The prohibition says interest, not merely excessive interest. The cloak remains essential bedding even when held as security.
 
-v21: Israel’s own memory of alien status in Egypt becomes the ethical ground for refusing oppression of the resident alien.
-
-v22–24: The LORD identifies directly with the cry of widows and orphans. Their vulnerability is not peripheral to covenant justice.
-
-v25: The prohibition concerns interest charged to the poor within the covenant community, where lending is an act of support rather than commercial profit.
-
-v26–27: A pledged garment cannot be retained overnight if it is the borrower’s necessary covering. Economic right is limited by bodily need.
-
-v28: Hebrew *elohim* can mean God or, in some legal contexts, judges. TSW renders “God” because the parallel command concerns reverence within covenant order.
+v29: The Hebrew speaks of “your fullness and your tears.” These unusual expressions are understood here as the harvest and liquid produce. The command concerning sons does not repeat the redemption instructions given in 13:13.
 
 ## Vocabulary
 
-v01: שָׁלַם (shalam)
-“To make restitution.” To compensate for theft or damage.
+v1: Restitution — shillem
+Repayment for a loss; the amount varies with the circumstances specified.
 
-v02: מַחְתֶּרֶת (machteret)
-“Breaking in.” Burglary by digging or forcing entry.
+v2: Bloodguilt — damim
+Responsibility for bloodshed.
 
-v08: אֱלֹהִים (elohim)
-“God,” and in some judicial contexts possibly “judges.”
+v16: Bride-price — mohar
+A marriage payment; it is not a modern dowry brought by the bride.
 
-v11: שְׁבוּעַת יְהוָה (shevuat YHWH)
-“Oath before the LORD.” A solemn oath used to settle disputed responsibility.
+v20: Devoted to destruction — yoḥoram
+Placed under a ban that requires destruction; here it concerns a person.
 
-v16: מֹהַר (mohar)
-“Bride-price.” A payment associated with marriage arrangements.
-
-v21: גֵּר (ger)
-“Resident alien.” A foreigner living within the community.
-
-v25: נֶשֶׁךְ (neshekh)
-“Interest.” Literally something that bites; profit charged on a loan.
-
-v26: חֲבֹל (chavol)
-“To take as a pledge.” To hold property as security for a debt.
-
-v27: חַנּוּן (channun)
-“Gracious.” The LORD’s reason for hearing the poor person’s cry.
-
-v31: קֹדֶשׁ (qodesh)
-“Holy.” Set apart as belonging to the LORD.
+v26: Pledge — ḥavol
+Property held as security for an obligation.
