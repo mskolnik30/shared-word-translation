@@ -1,0 +1,1480 @@
+{
+  "scope": "Genesis 46–50 only; 146 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical means nonidentical similarity >= 0.90. Triage only, not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 105,
+      "near_identical_verses": 36,
+      "mean_similarity": 0.98528,
+      "verses": [
+        {
+          "reference": "Genesis 46:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:2",
+          "identical": false,
+          "similarity": 0.974359
+        },
+        {
+          "reference": "Genesis 46:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:4",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Genesis 46:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 46:34",
+          "identical": false,
+          "similarity": 0.975
+        },
+        {
+          "reference": "Genesis 47:1",
+          "identical": false,
+          "similarity": 0.973684
+        },
+        {
+          "reference": "Genesis 47:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:9",
+          "identical": false,
+          "similarity": 0.990654
+        },
+        {
+          "reference": "Genesis 47:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:12",
+          "identical": false,
+          "similarity": 0.97561
+        },
+        {
+          "reference": "Genesis 47:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:14",
+          "identical": false,
+          "similarity": 0.985915
+        },
+        {
+          "reference": "Genesis 47:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:16",
+          "identical": false,
+          "similarity": 0.976744
+        },
+        {
+          "reference": "Genesis 47:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:23",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Genesis 47:24",
+          "identical": false,
+          "similarity": 0.948718
+        },
+        {
+          "reference": "Genesis 47:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:28",
+          "identical": false,
+          "similarity": 0.980392
+        },
+        {
+          "reference": "Genesis 47:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 47:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:1",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Genesis 48:2",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Genesis 48:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:4",
+          "identical": false,
+          "similarity": 0.972973
+        },
+        {
+          "reference": "Genesis 48:5",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Genesis 48:6",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Genesis 48:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:11",
+          "identical": false,
+          "similarity": 0.930233
+        },
+        {
+          "reference": "Genesis 48:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:13",
+          "identical": false,
+          "similarity": 0.982456
+        },
+        {
+          "reference": "Genesis 48:14",
+          "identical": false,
+          "similarity": 0.972973
+        },
+        {
+          "reference": "Genesis 48:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:16",
+          "identical": false,
+          "similarity": 0.936709
+        },
+        {
+          "reference": "Genesis 48:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:18",
+          "identical": false,
+          "similarity": 0.977778
+        },
+        {
+          "reference": "Genesis 48:19",
+          "identical": false,
+          "similarity": 0.870588
+        },
+        {
+          "reference": "Genesis 48:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 48:21",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Genesis 48:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:1",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Genesis 49:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:4",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Genesis 49:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:8",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Genesis 49:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:10",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Genesis 49:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:13",
+          "identical": false,
+          "similarity": 0.869565
+        },
+        {
+          "reference": "Genesis 49:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:16",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Genesis 49:17",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Genesis 49:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:19",
+          "identical": false,
+          "similarity": 0.818182
+        },
+        {
+          "reference": "Genesis 49:20",
+          "identical": false,
+          "similarity": 0.818182
+        },
+        {
+          "reference": "Genesis 49:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 49:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:2",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Genesis 50:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:5",
+          "identical": false,
+          "similarity": 0.977778
+        },
+        {
+          "reference": "Genesis 50:6",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Genesis 50:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:14",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Genesis 50:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:18",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Genesis 50:19",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Genesis 50:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Genesis 50:23",
+          "identical": false,
+          "similarity": 0.977778
+        },
+        {
+          "reference": "Genesis 50:24",
+          "identical": false,
+          "similarity": 0.986667
+        },
+        {
+          "reference": "Genesis 50:25",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Genesis 50:26",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 6,
+      "mean_similarity": 0.684169,
+      "verses": [
+        {
+          "reference": "Genesis 46:1",
+          "identical": false,
+          "similarity": 0.755556
+        },
+        {
+          "reference": "Genesis 46:2",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Genesis 46:3",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Genesis 46:4",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Genesis 46:5",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Genesis 46:6",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Genesis 46:7",
+          "identical": false,
+          "similarity": 0.55
+        },
+        {
+          "reference": "Genesis 46:8",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Genesis 46:9",
+          "identical": false,
+          "similarity": 0.705882
+        },
+        {
+          "reference": "Genesis 46:10",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Genesis 46:11",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Genesis 46:12",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Genesis 46:13",
+          "identical": false,
+          "similarity": 0.588235
+        },
+        {
+          "reference": "Genesis 46:14",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Genesis 46:15",
+          "identical": false,
+          "similarity": 0.679245
+        },
+        {
+          "reference": "Genesis 46:16",
+          "identical": false,
+          "similarity": 0.782609
+        },
+        {
+          "reference": "Genesis 46:17",
+          "identical": false,
+          "similarity": 0.578947
+        },
+        {
+          "reference": "Genesis 46:18",
+          "identical": false,
+          "similarity": 0.52381
+        },
+        {
+          "reference": "Genesis 46:19",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Genesis 46:20",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Genesis 46:21",
+          "identical": false,
+          "similarity": 0.827586
+        },
+        {
+          "reference": "Genesis 46:22",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Genesis 46:23",
+          "identical": false,
+          "similarity": 0.444444
+        },
+        {
+          "reference": "Genesis 46:24",
+          "identical": false,
+          "similarity": 0.705882
+        },
+        {
+          "reference": "Genesis 46:25",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Genesis 46:26",
+          "identical": false,
+          "similarity": 0.28
+        },
+        {
+          "reference": "Genesis 46:27",
+          "identical": false,
+          "similarity": 0.347826
+        },
+        {
+          "reference": "Genesis 46:28",
+          "identical": false,
+          "similarity": 0.536585
+        },
+        {
+          "reference": "Genesis 46:29",
+          "identical": false,
+          "similarity": 0.535211
+        },
+        {
+          "reference": "Genesis 46:30",
+          "identical": false,
+          "similarity": 0.878049
+        },
+        {
+          "reference": "Genesis 46:31",
+          "identical": false,
+          "similarity": 0.716418
+        },
+        {
+          "reference": "Genesis 46:32",
+          "identical": false,
+          "similarity": 0.711111
+        },
+        {
+          "reference": "Genesis 46:33",
+          "identical": false,
+          "similarity": 0.521739
+        },
+        {
+          "reference": "Genesis 46:34",
+          "identical": false,
+          "similarity": 0.493151
+        },
+        {
+          "reference": "Genesis 47:1",
+          "identical": false,
+          "similarity": 0.484848
+        },
+        {
+          "reference": "Genesis 47:2",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Genesis 47:3",
+          "identical": false,
+          "similarity": 0.439024
+        },
+        {
+          "reference": "Genesis 47:4",
+          "identical": false,
+          "similarity": 0.683544
+        },
+        {
+          "reference": "Genesis 47:5",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Genesis 47:6",
+          "identical": false,
+          "similarity": 0.86747
+        },
+        {
+          "reference": "Genesis 47:7",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Genesis 47:8",
+          "identical": false,
+          "similarity": 0.363636
+        },
+        {
+          "reference": "Genesis 47:9",
+          "identical": false,
+          "similarity": 0.430108
+        },
+        {
+          "reference": "Genesis 47:10",
+          "identical": false,
+          "similarity": 0.444444
+        },
+        {
+          "reference": "Genesis 47:11",
+          "identical": false,
+          "similarity": 0.688525
+        },
+        {
+          "reference": "Genesis 47:12",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Genesis 47:13",
+          "identical": false,
+          "similarity": 0.679245
+        },
+        {
+          "reference": "Genesis 47:14",
+          "identical": false,
+          "similarity": 0.526316
+        },
+        {
+          "reference": "Genesis 47:15",
+          "identical": false,
+          "similarity": 0.771429
+        },
+        {
+          "reference": "Genesis 47:16",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Genesis 47:17",
+          "identical": false,
+          "similarity": 0.739726
+        },
+        {
+          "reference": "Genesis 47:18",
+          "identical": false,
+          "similarity": 0.702128
+        },
+        {
+          "reference": "Genesis 47:19",
+          "identical": false,
+          "similarity": 0.816327
+        },
+        {
+          "reference": "Genesis 47:20",
+          "identical": false,
+          "similarity": 0.821429
+        },
+        {
+          "reference": "Genesis 47:21",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Genesis 47:22",
+          "identical": false,
+          "similarity": 0.645161
+        },
+        {
+          "reference": "Genesis 47:23",
+          "identical": false,
+          "similarity": 0.784314
+        },
+        {
+          "reference": "Genesis 47:24",
+          "identical": false,
+          "similarity": 0.617647
+        },
+        {
+          "reference": "Genesis 47:25",
+          "identical": false,
+          "similarity": 0.511628
+        },
+        {
+          "reference": "Genesis 47:26",
+          "identical": false,
+          "similarity": 0.59375
+        },
+        {
+          "reference": "Genesis 47:27",
+          "identical": false,
+          "similarity": 0.577778
+        },
+        {
+          "reference": "Genesis 47:28",
+          "identical": false,
+          "similarity": 0.55814
+        },
+        {
+          "reference": "Genesis 47:29",
+          "identical": false,
+          "similarity": 0.58427
+        },
+        {
+          "reference": "Genesis 47:30",
+          "identical": false,
+          "similarity": 0.763636
+        },
+        {
+          "reference": "Genesis 47:31",
+          "identical": false,
+          "similarity": 0.585366
+        },
+        {
+          "reference": "Genesis 48:1",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Genesis 48:2",
+          "identical": false,
+          "similarity": 0.930233
+        },
+        {
+          "reference": "Genesis 48:3",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Genesis 48:4",
+          "identical": false,
+          "similarity": 0.742857
+        },
+        {
+          "reference": "Genesis 48:5",
+          "identical": false,
+          "similarity": 0.741935
+        },
+        {
+          "reference": "Genesis 48:6",
+          "identical": false,
+          "similarity": 0.488889
+        },
+        {
+          "reference": "Genesis 48:7",
+          "identical": false,
+          "similarity": 0.674699
+        },
+        {
+          "reference": "Genesis 48:8",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Genesis 48:9",
+          "identical": false,
+          "similarity": 0.62963
+        },
+        {
+          "reference": "Genesis 48:10",
+          "identical": false,
+          "similarity": 0.62963
+        },
+        {
+          "reference": "Genesis 48:11",
+          "identical": false,
+          "similarity": 0.818182
+        },
+        {
+          "reference": "Genesis 48:12",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Genesis 48:13",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Genesis 48:14",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Genesis 48:15",
+          "identical": false,
+          "similarity": 0.912281
+        },
+        {
+          "reference": "Genesis 48:16",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Genesis 48:17",
+          "identical": false,
+          "similarity": 0.80597
+        },
+        {
+          "reference": "Genesis 48:18",
+          "identical": false,
+          "similarity": 0.682927
+        },
+        {
+          "reference": "Genesis 48:19",
+          "identical": false,
+          "similarity": 0.752941
+        },
+        {
+          "reference": "Genesis 48:20",
+          "identical": false,
+          "similarity": 0.677966
+        },
+        {
+          "reference": "Genesis 48:21",
+          "identical": false,
+          "similarity": 0.872727
+        },
+        {
+          "reference": "Genesis 48:22",
+          "identical": false,
+          "similarity": 0.68
+        },
+        {
+          "reference": "Genesis 49:1",
+          "identical": false,
+          "similarity": 0.765957
+        },
+        {
+          "reference": "Genesis 49:2",
+          "identical": false,
+          "similarity": 0.869565
+        },
+        {
+          "reference": "Genesis 49:3",
+          "identical": false,
+          "similarity": 0.65
+        },
+        {
+          "reference": "Genesis 49:4",
+          "identical": false,
+          "similarity": 0.692308
+        },
+        {
+          "reference": "Genesis 49:5",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Genesis 49:6",
+          "identical": false,
+          "similarity": 0.642857
+        },
+        {
+          "reference": "Genesis 49:7",
+          "identical": false,
+          "similarity": 0.708333
+        },
+        {
+          "reference": "Genesis 49:8",
+          "identical": false,
+          "similarity": 0.73913
+        },
+        {
+          "reference": "Genesis 49:9",
+          "identical": false,
+          "similarity": 0.677966
+        },
+        {
+          "reference": "Genesis 49:10",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Genesis 49:11",
+          "identical": false,
+          "similarity": 0.701754
+        },
+        {
+          "reference": "Genesis 49:12",
+          "identical": false,
+          "similarity": 0.608696
+        },
+        {
+          "reference": "Genesis 49:13",
+          "identical": false,
+          "similarity": 0.564103
+        },
+        {
+          "reference": "Genesis 49:14",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Genesis 49:15",
+          "identical": false,
+          "similarity": 0.576923
+        },
+        {
+          "reference": "Genesis 49:16",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Genesis 49:17",
+          "identical": false,
+          "similarity": 0.73913
+        },
+        {
+          "reference": "Genesis 49:18",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Genesis 49:19",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Genesis 49:20",
+          "identical": false,
+          "similarity": 0.583333
+        },
+        {
+          "reference": "Genesis 49:21",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Genesis 49:22",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Genesis 49:23",
+          "identical": false,
+          "similarity": 0.869565
+        },
+        {
+          "reference": "Genesis 49:24",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Genesis 49:25",
+          "identical": false,
+          "similarity": 0.782609
+        },
+        {
+          "reference": "Genesis 49:26",
+          "identical": false,
+          "similarity": 0.533333
+        },
+        {
+          "reference": "Genesis 49:27",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Genesis 49:28",
+          "identical": false,
+          "similarity": 0.679245
+        },
+        {
+          "reference": "Genesis 49:29",
+          "identical": false,
+          "similarity": 0.8125
+        },
+        {
+          "reference": "Genesis 49:30",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Genesis 49:31",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Genesis 49:32",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Genesis 49:33",
+          "identical": false,
+          "similarity": 0.893617
+        },
+        {
+          "reference": "Genesis 50:1",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Genesis 50:2",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Genesis 50:3",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Genesis 50:4",
+          "identical": false,
+          "similarity": 0.516129
+        },
+        {
+          "reference": "Genesis 50:5",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Genesis 50:6",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Genesis 50:7",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Genesis 50:8",
+          "identical": false,
+          "similarity": 0.641509
+        },
+        {
+          "reference": "Genesis 50:9",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Genesis 50:10",
+          "identical": false,
+          "similarity": 0.612903
+        },
+        {
+          "reference": "Genesis 50:11",
+          "identical": false,
+          "similarity": 0.520548
+        },
+        {
+          "reference": "Genesis 50:12",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Genesis 50:13",
+          "identical": false,
+          "similarity": 0.630137
+        },
+        {
+          "reference": "Genesis 50:14",
+          "identical": false,
+          "similarity": 0.723404
+        },
+        {
+          "reference": "Genesis 50:15",
+          "identical": false,
+          "similarity": 0.566667
+        },
+        {
+          "reference": "Genesis 50:16",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Genesis 50:17",
+          "identical": false,
+          "similarity": 0.621622
+        },
+        {
+          "reference": "Genesis 50:18",
+          "identical": false,
+          "similarity": 0.83871
+        },
+        {
+          "reference": "Genesis 50:19",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Genesis 50:20",
+          "identical": false,
+          "similarity": 0.52
+        },
+        {
+          "reference": "Genesis 50:21",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Genesis 50:22",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Genesis 50:23",
+          "identical": false,
+          "similarity": 0.604651
+        },
+        {
+          "reference": "Genesis 50:24",
+          "identical": false,
+          "similarity": 0.821918
+        },
+        {
+          "reference": "Genesis 50:25",
+          "identical": false,
+          "similarity": 0.553191
+        },
+        {
+          "reference": "Genesis 50:26",
+          "identical": false,
+          "similarity": 0.666667
+        }
+      ]
+    }
+  }
+}

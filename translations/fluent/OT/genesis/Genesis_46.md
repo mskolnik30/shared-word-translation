@@ -4,135 +4,107 @@ testament: OT
 chapter: 46
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-46-50-biblical-fluency-2026-09-11
 ---
 
-## Israel Goes to Egypt
+## God’s promise on the road to Egypt
+
 <p>
-v01: So Israel set out with all that he had and came to Beersheba, and he offered sacrifices to the God of his father Isaac.
-v02: God spoke to Israel in visions of the night and said, “Jacob, Jacob.” And he said, “Here I am.”
-v03: Then he said, “I am God, the God of your father. Do not be afraid to go down to Egypt, for there I will make you into a great nation.
-v04: I myself will go down with you to Egypt, and I myself will also bring you up again, and Joseph's hand will close your eyes.”
+v01: Israel set out with everything he had. When he reached Beersheba, he offered sacrifices to the God of his father Isaac.
+v02: God spoke to Israel in visions during the night. “Jacob! Jacob!” he called. “Here I am,” Jacob answered.
+v03: “I am God, the God of your father,” he said. “Do not be afraid to go down to Egypt. I will make you a great nation there.
+v04: I myself will go down with you to Egypt, and I myself will surely bring you back up. Joseph’s hand will close your eyes.”
 </p>
 
 <p>
-v05: Then Jacob arose from Beersheba. And the sons of Israel carried Jacob their father, their little ones, and their wives in the wagons that Pharaoh had sent to carry him.
-v06: They also took their livestock and their possessions, which they had acquired in the land of Canaan, and came into Egypt, Jacob and all his offspring with him,
-v07: his sons and his sons’ sons with him, his daughters and his sons’ daughters. All his offspring he brought with him into Egypt.
+v05: Then Jacob left Beersheba. Israel’s sons carried their father Jacob, their little ones, and their wives in the wagons Pharaoh had sent to carry him.
+v06: They took their livestock and the possessions they had acquired in Canaan and went to Egypt—Jacob and all his descendants with him.
+v07: He brought his sons and grandsons, his daughters and granddaughters—all his descendants—with him to Egypt.
 </p>
 
-## The Descendants of Israel
+## Jacob’s family
+
 <p>
-v08: These are the names of the sons of Israel who came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.
-v09: The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.
-v10: The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman.
-v11: The sons of Levi: Gershon, Kohath, and Merari.
-v12: The sons of Judah: Er, Onan, Shelah, Perez, and Zerah. But Er and Onan died in the land of Canaan. And the sons of Perez were Hezron and Hamul.
-v13: The sons of Issachar: Tola, Puvah, Jashub, and Shimron.
-v14: The sons of Zebulun: Sered, Elon, and Jahleel.
-v15: These are the sons of Leah, whom she bore to Jacob in Paddan-aram, together with his daughter Dinah. All his sons and daughters numbered thirty-three.
+v08: These are the names of the Israelites who went to Egypt, Jacob and his sons. Reuben was Jacob’s firstborn.
 </p>
 
 <p>
-v16: The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
-v17: The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and Serah their sister. And the sons of Beriah: Heber and Malchiel.
-v18: These are the sons of Zilpah, whom Laban gave to Leah his daughter. These she bore to Jacob, sixteen persons.
+v09: Reuben’s sons were Hanoch, Pallu, Hezron, and Carmi.
+v10: Simeon’s sons were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, whose mother was a Canaanite.
+v11: Levi’s sons were Gershon, Kohath, and Merari.
+v12: Judah’s sons were Er, Onan, Shelah, Perez, and Zerah. Er and Onan died in Canaan. Perez’s sons were Hezron and Hamul.
+v13: Issachar’s sons were Tola, Puvah, Job, and Shimron.
+v14: Zebulun’s sons were Sered, Elon, and Jahleel.
+v15: These were Leah’s descendants. She bore her children to Jacob in Paddan-aram, including his daughter Dinah. His sons and daughters numbered thirty-three in all.
 </p>
 
 <p>
-v19: The sons of Rachel, Jacob’s wife: Joseph and Benjamin.
-v20: To Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath the daughter of Potiphera priest of On bore to him.
-v21: The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
-v22: These are the sons of Rachel, who were born to Jacob, fourteen persons in all.
+v16: Gad’s sons were Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
+v17: Asher’s sons were Imnah, Ishvah, Ishvi, and Beriah; their sister was Serah. Beriah’s sons were Heber and Malchiel.
+v18: These were the descendants of Zilpah, whom Laban had given to his daughter Leah. Through her, sixteen people were born to Jacob.
 </p>
 
 <p>
-v23: The son of Dan: Hushim.
-v24: The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.
-v25: These are the sons of Bilhah, whom Laban gave to Rachel his daughter. These she bore to Jacob, seven persons in all.
+v19: The sons of Jacob’s wife Rachel were Joseph and Benjamin.
+v20: In Egypt, Joseph became the father of Manasseh and Ephraim. Their mother was Asenath, daughter of Potiphera, priest of On.
+v21: Benjamin’s sons were Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
+v22: These were Rachel’s descendants born to Jacob—fourteen people in all.
 </p>
 
 <p>
-v26: All the persons belonging to Jacob who came into Egypt, who were his own descendants, not counting the wives of Jacob’s sons, were sixty-six persons in all.
-v27: And the sons of Joseph who were born to him in Egypt were two. All the persons of the house of Jacob who came into Egypt were seventy.
-</p>
-
-## Joseph Meets Jacob
-<p>
-v28: He had sent Judah ahead of him to Joseph to show the way before him into Goshen. And they came into the land of Goshen.
-v29: Then Joseph prepared his chariot and went up to meet Israel his father in Goshen. He presented himself to him and fell upon his neck and wept upon his neck a long time.
+v23: Dan’s son was Hushim.
+v24: Naphtali’s sons were Jahzeel, Guni, Jezer, and Shillem.
+v25: These were the descendants of Bilhah, whom Laban had given to his daughter Rachel. Through her, seven people were born to Jacob.
 </p>
 
 <p>
-v30: Israel said to Joseph, “Now let me die, since I have seen your face and know that you are still alive.”
-v31: Joseph said to his brothers and to his father’s household, “I will go up and tell Pharaoh and will say to him, ‘My brothers and my father’s household, who were in the land of Canaan, have come to me.
-v32: The men are shepherds, for they have been keepers of livestock, and they have brought their flocks and their herds and all that they have.’
-v33: And when Pharaoh calls you and says, ‘What is your occupation?’
-v34: you will say, ‘Your servants have been keepers of livestock from our youth even until now, both we and our fathers,’ so that you may dwell in the land of Goshen, for every shepherd is an abomination to the Egyptians.”
+v26: All those who went with Jacob to Egypt and came from his own body numbered sixty-six, not counting his sons’ wives.
+v27: Joseph had two sons born to him in Egypt. Altogether, Jacob’s household that went to Egypt numbered seventy.
+</p>
+
+## Jacob and Joseph meet again
+
+<p>
+v28: Jacob sent Judah ahead to Joseph to arrange the way to Goshen. When they reached Goshen,
+v29: Joseph had his chariot made ready and went up to meet his father Israel there. As soon as he appeared before him, he threw his arms around his father’s neck and wept against him for a long time.
+</p>
+
+<p>
+v30: Israel said to Joseph, “Now I can die, since I have seen your face and know you are still alive.”
+</p>
+
+<p>
+v31: Then Joseph told his brothers and his father’s household, “I will go up and tell Pharaoh, ‘My brothers and my father’s household have come to me from Canaan.
+v32: The men are shepherds; they have always raised livestock. They have brought their flocks and herds and everything they own.’
+</p>
+
+<p>
+v33: When Pharaoh calls you in and asks, ‘What work do you do?’
+v34: say, ‘Your servants have raised livestock from our youth until now, just as our ancestors did.’ Then you will be able to settle in Goshen, because Egyptians regard every shepherd as an abomination.”
 </p>
 
 ## Notes
 
-v01: Jacob pauses at Beersheba, a place closely associated with Abraham and Isaac, before leaving the promised land.
+v4: Joseph’s hand closing Jacob’s eyes anticipates his death. The promise to bring Jacob back up also reaches beyond this reunion; the text does not spell out all its implications here.
 
-v02–04: God's reassurance addresses the fear that moving to Egypt might conflict with the covenant promises.
+v13: The Hebrew here names Job. Other family records have Jashub (Numbers 26:24; 1 Chronicles 7:1). The names have not been harmonized.
 
-v03: Egypt will become the place where Israel grows into a great nation.
+v15, 26–27: The totals use different groupings. The sixty-six excludes Joseph and his two sons, already in Egypt; seventy includes them and Jacob. Leah’s thirty-three can be counted by including Jacob, though the heading names descendants. Er and Onan are listed but had died. The ancient Greek text gives seventy-five in verse 27.
 
-v04: The promise that God will go with Jacob anticipates God's continuing presence during Israel's time in Egypt.
+v28: The Hebrew says Judah was sent ahead ‘to direct’ toward Goshen. Arranging the way is the sense followed here; the exact task is not specified.
 
-v04: Joseph closing Jacob's eyes refers to being present at his father's death.
-
-v05–07: The migration includes the entire covenant family and marks a major transition in biblical history.
-
-v08–27: The genealogy emphasizes that the family entering Egypt is already becoming a people.
-v15, v18, v22, v25: The descendants are grouped according to the four mothers of the tribes of Israel.
-
-v27: The number seventy symbolizes fullness and completeness while also providing a historical census.
-
-v28: Judah again appears in a leadership role, guiding the family toward Joseph.
-
-v29: The long-awaited reunion between Joseph and Jacob is marked by deep emotion.
-
-v30: Jacob's words express contentment after years of grief and uncertainty.
-
-v31–34: Joseph wisely prepares his family for their audience with Pharaoh.
-
-v34: Goshen provides a suitable region for shepherding while maintaining some separation from Egyptian society.
+v34: The description of shepherds as an abomination expresses the Egyptians’ attitude within the story. Compare the separation at the meal in 43:32.
 
 ## Vocabulary
 
-v01: זֶבַח (zeḇaḥ)
-“Sacrifice.” An offering presented to God in worship.
+v6–7: Descendants — zeraʿ
+Literally ‘seed’: a recurring word for offspring and the continuing family in Genesis.
 
-v02: מַרְאָה (marʾâ)
-“Vision.” A divine revelation received through sight or appearance.
+v26–27: People — nephesh
+Often translated ‘soul’ or ‘life,’ nephesh here counts whole persons.
 
-v03: גּוֹי גָּדוֹל (gôy gāḏôl)
-“Great nation.” A key element of the covenant promises.
-
-v04: אָנֹכִי אֵרֵד עִמְּךָ (ʾānōḵî ʾērēḏ ʿimmĕḵā)
-“I myself will go down with you.” A strong statement of divine presence.
-
-v08: תּוֹלְדוֹת (tôlĕdôt)
-“Generations” or “descendants.” A genealogical record.
-
-v26: יֹצְאֵי יְרֵכוֹ (yōṣʾê yĕrēḵô)
-“Those who came from his loins.” An idiom for direct descendants.
-
-v28: גֹּשֶׁן (Gōšen)
-“Goshen.” The region of Egypt where Israel settled.
-
-v29: בָּכָה (bāḵâ)
-“To weep.” An expression of intense emotion, grief, or joy.
-
-v30: פָּנִים (pānîm)
-“Face.” Often associated with personal presence and encounter.
-
-v32: רֹעֵה צֹאן (rōʿêh ṣōʾn)
-“Shepherd.” One who tends flocks and livestock.
-
-v34: תּוֹעֵבָה (tôʿēḇâ)
-“Abomination.” Something regarded as detestable or socially unacceptable.
-
-v34: מִקְנֶה (miqneh)
-“Livestock.” Animals kept as property and a source of wealth.
+v34: Abomination — toʿevah
+Something regarded as deeply offensive or unacceptable. The context identifies whose judgment is being expressed.

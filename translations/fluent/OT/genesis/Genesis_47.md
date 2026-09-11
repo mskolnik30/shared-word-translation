@@ -4,136 +4,111 @@ testament: OT
 chapter: 47
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-46-50-biblical-fluency-2026-09-11
 ---
 
-## Jacob’s Family Settles in Goshen
+## Jacob’s household before Pharaoh
+
 <p>
-v01: Then Joseph went in and told Pharaoh, “My father and my brothers, with their flocks and their herds and all that they possess, have come from the land of Canaan. Look, they are in the land of Goshen.”
-v02: And from among his brothers he took five men and presented them to Pharaoh.
+v01: Joseph went to Pharaoh and told him, “My father and brothers have come from Canaan with their flocks, herds, and everything they own. They are now in Goshen.”
+v02: He chose five of his brothers and presented them to Pharaoh.
+v03: Pharaoh asked the brothers, “What work do you do?” They answered, “Your servants are shepherds, as our ancestors were.”
+v04: They also said to Pharaoh, “We have come to live here as foreigners. There is no pasture for your servants’ flocks because the famine in Canaan is so severe. Please let your servants settle in Goshen.”
 </p>
 
 <p>
-v03: Pharaoh said to his brothers, “What is your occupation?” They said to Pharaoh, “Your servants are shepherds, both we and our fathers.”
-v04: They said to Pharaoh, “We have come to sojourn in the land, for there is no pasture for your servants’ flocks, because the famine is severe in the land of Canaan. And now, please let your servants dwell in the land of Goshen.”
-v05: Then Pharaoh said to Joseph, “Your father and your brothers have come to you.
-v06: The land of Egypt is before you. Settle your father and your brothers in the best of the land. Let them dwell in the land of Goshen. And if you know any capable men among them, put them in charge of my livestock.”
-</p>
-
-## Jacob Blesses Pharaoh
-<p>
-v07: Then Joseph brought in Jacob his father and set him before Pharaoh, and Jacob blessed Pharaoh.
-v08: Pharaoh said to Jacob, “How many are the days of the years of your life?”
-v09: Jacob said to Pharaoh, “The days of the years of my sojourning are one hundred thirty years. Few and difficult have been the days of the years of my life, and they have not attained to the days of the years of the lives of my fathers in the days of their sojourning.”
-v10: Then Jacob blessed Pharaoh and went out from before Pharaoh.
+v05: Pharaoh said to Joseph, “Your father and brothers have come to you.
+v06: The land of Egypt is open to you. Settle your father and brothers in the best part of the land. Let them live in Goshen. If you know any capable men among them, put them in charge of my livestock.”
 </p>
 
 <p>
-v11: So Joseph settled his father and his brothers and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
-v12: Joseph provided his father, his brothers, and all his father’s household with food, according to the number of their dependents.
-</p>
-
-## Joseph Administers During the Famine
-<p>
-v13: Now there was no food in all the land, for the famine was very severe, so that the land of Egypt and the land of Canaan languished because of the famine.
-v14: Joseph gathered all the silver that was found in the land of Egypt and in the land of Canaan in exchange for the grain that they bought. And Joseph brought the silver into Pharaoh’s house.
-v15: When the silver was exhausted in the land of Egypt and in the land of Canaan, all the Egyptians came to Joseph and said, “Give us food. Why should we die before your eyes? For our silver is gone.”
+v07: Then Joseph brought his father Jacob in and presented him to Pharaoh. Jacob blessed Pharaoh.
+v08: Pharaoh asked Jacob, “How old are you?”
+v09: Jacob answered Pharaoh, “I have lived as a wanderer for a hundred and thirty years. The years of my life have been few and hard. They have not reached the number of years my ancestors lived in their wanderings.”
+v10: Jacob blessed Pharaoh again and left his presence.
 </p>
 
 <p>
-v16: Joseph said, “Give your livestock, and I will give you food in exchange for your livestock if your silver is gone.”
-v17: So they brought their livestock to Joseph, and Joseph gave them food in exchange for the horses, the flocks, the herds, and the donkeys. He supplied them with food in exchange for all their livestock that year.
+v11: Joseph settled his father and brothers in Egypt and gave them a landholding in the best part of the country, the region of Rameses, as Pharaoh had ordered.
+v12: Joseph supplied his father, his brothers, and all his father’s household with food, according to the number of their little ones.
+</p>
+
+## Food, land, and slavery under Pharaoh
+
+<p>
+v13: There was no food anywhere in the land, for the famine was very severe. Egypt and Canaan wasted away because of it.
+v14: Joseph collected all the silver in Egypt and Canaan as people bought grain, and he brought the silver into Pharaoh’s palace.
 </p>
 
 <p>
-v18: When that year was ended, they came to him the following year and said to him, “We will not hide from my lord that our silver is gone, and the herds of livestock belong to my lord. There is nothing left before my lord except our bodies and our land.
-v19: Why should we die before your eyes, both we and our land? Buy us and our land for food, and we with our land will be servants to Pharaoh. Give us seed that we may live and not die, and that the land may not be desolate.”
+v15: When the silver in Egypt and Canaan was gone, all the Egyptians came to Joseph. “Give us food!” they said. “Why should we die before your eyes? Our silver is gone.”
+v16: Joseph answered, “Bring your livestock. If your silver is gone, I will give you food in exchange for your animals.”
+v17: So they brought their livestock to Joseph, and he gave them food in exchange for horses, sheep and goats, cattle, and donkeys. That year he kept them supplied with food in exchange for all their livestock.
 </p>
 
 <p>
-v20: So Joseph bought all the land of Egypt for Pharaoh, for every Egyptian sold his field because the famine was severe upon them. Thus the land became Pharaoh’s.
-v21: As for the people, he moved them into the cities from one end of the border of Egypt to the other.
-v22: Only the land of the priests he did not buy, for the priests had an allotment from Pharaoh and lived on the allotment that Pharaoh gave them. Therefore they did not sell their land.
+v18: When that year ended, they came to him the following year and said, “We cannot hide it from you, my lord. Our silver is gone, and our livestock belongs to you. We have nothing left to offer you except our bodies and our land.
+v19: Why should we perish before your eyes, both we and our land? Buy us and our land in exchange for food. We and our land will belong to Pharaoh as slaves. Give us seed so that we may live and not die, and so that the land will not become desolate.”
 </p>
 
 <p>
-v23: Then Joseph said to the people, “Look, I have this day bought you and your land for Pharaoh. Here is seed for you, and you will sow the land.
-v24: At the harvests you will give a fifth to Pharaoh, and four parts will be your own, for seed for the field and for your food and for those of your households and as food for your little ones.”
-v25: They said, “You have saved our lives. Let us find favor in the sight of my lord, and we will be Pharaoh’s servants.”
-v26: So Joseph made it a statute concerning the land of Egypt, and it remains to this day, that Pharaoh should have the fifth. Only the land of the priests alone did not become Pharaoh’s.
-</p>
-
-## Jacob’s Final Request
-<p>
-v27: Thus Israel settled in the land of Egypt, in the land of Goshen. And they gained possessions in it and were fruitful and multiplied greatly.
-v28: Jacob lived in the land of Egypt seventeen years. So the days of Jacob, the years of his life, were one hundred forty-seven years.
+v20: So Joseph bought all the land of Egypt for Pharaoh. Every Egyptian sold his field because the famine had such a grip on them. The land became Pharaoh’s.
+v21: As for the people, he moved them into cities, from one end of Egypt to the other.
+v22: He did not buy the priests’ land. The priests received an allowance from Pharaoh and lived on what he gave them, so they did not sell their land.
 </p>
 
 <p>
-v29: When the time drew near that Israel must die, he called his son Joseph and said to him, “If now I have found favor in your sight, put your hand under my thigh and deal with me in steadfast love and faithfulness. Do not bury me in Egypt.
-v30: But let me lie with my fathers. Carry me out of Egypt and bury me in their burial place.” He answered, “I will do as you have said.”
-v31: And he said, “Swear to me.” So he swore to him. Then Israel bowed himself upon the head of the bed.
+v23: Joseph told the people, “Today I have bought you and your land for Pharaoh. Here is seed for you; sow the land.
+v24: At harvest, give a fifth to Pharaoh. The other four shares will be yours for seed for the fields and food for yourselves, your households, and your little ones.”
+</p>
+
+<p>
+v25: “You have kept us alive,” they said. “May we find favor with you, my lord. We will be Pharaoh’s slaves.”
+</p>
+
+<p>
+v26: Joseph made it a law concerning Egypt’s land that a fifth belonged to Pharaoh, and it remains in force to this day. Only the priests’ land did not become Pharaoh’s.
+</p>
+
+## Jacob’s final years in Egypt
+
+<p>
+v27: Israel settled in Egypt, in the region of Goshen. They acquired holdings there, were fruitful, and increased greatly in number.
+v28: Jacob lived in Egypt for seventeen years. His whole life lasted a hundred and forty-seven years.
+</p>
+
+<p>
+v29: As Israel’s death drew near, he called for his son Joseph. “If I have found favor with you,” he said, “put your hand under my thigh and promise to treat me with faithful kindness. Please do not bury me in Egypt.
+v30: When I lie down with my ancestors, carry me out of Egypt and bury me in their burial place.” Joseph answered, “I will do as you say.”
+v31: “Swear it to me,” Jacob said. Joseph swore to him, and Israel bowed down at the head of his bed.
 </p>
 
 ## Notes
 
-v01–06: Pharaoh grants Jacob’s family favorable settlement in Goshen, providing security during the famine.
+v7, 10: The verb ‘bless’ can accompany a greeting or farewell. Keeping it here also lets readers hear the repeated blessing language of Genesis.
 
-v07–10: Jacob blesses Pharaoh both upon entering and departing. The greater covenant bearer blesses the ruler of Egypt.
+v9: Jacob describes his life as sojourning: living away from an established homeland. ‘Few and hard’ is his own assessment of his years.
 
-v09: Jacob describes his life as one of sojourning, echoing the experience of Abraham and Isaac.
+v12: The Hebrew measures provision ‘according to the little ones.’ This can describe the needs of the dependent household; the reference to children remains visible here.
 
-v11–12: Joseph uses his position to preserve and provide for his family.
+v18: ‘The following year’ follows the year of exchanging livestock for food. The verse does not call it the famine’s second year.
 
-v13–26: The famine reshapes Egypt’s economy and land ownership through Joseph’s administration.
+v21: The Hebrew text used here says Joseph moved the people into cities. The Samaritan Pentateuch and ancient Greek instead describe making them slaves. Verses 19, 23, and 25 explicitly connect the people themselves with Pharaoh’s ownership.
 
-v20: The transfer of land to Pharaoh centralizes royal authority in an unprecedented way.
+v29: Placing a hand under the thigh accompanies the oath, as in 24:2–9. The bodily gesture is retained rather than replaced with a modern oath custom.
 
-v24: The twenty-percent tax becomes a permanent arrangement within Egypt.
-
-v25: The Egyptians view Joseph’s policies as life-saving rather than oppressive because they preserve the population through the famine.
-
-v27: While Egypt struggles under famine, Israel continues to be fruitful and multiply, echoing earlier covenant promises.
-
-v28: Jacob spends seventeen years in Egypt, the same number of years Joseph had lived with him before being sold.
-
-v29–31: Jacob’s concern is not merely burial but identification with the covenant land promised by God.
-
-v29: The oath ceremony recalls similar arrangements made by Abraham regarding covenant obligations.
+v31: The Hebrew vowels read ‘bed.’ The same consonants can be read ‘staff,’ as in the ancient Greek translation and Hebrews 11:21. The object of Israel’s bow is not named here.
 
 ## Vocabulary
 
-v04: גּוּר (gûr)
-“To sojourn.” To reside temporarily as a foreigner in a land.
+v4, 9: Live as a foreigner — gur; sojourning — megurim
+Related words for residing outside one’s established homeland. They connect the brothers’ request with Jacob’s account of his life.
 
-v06: מֵיטַב הָאָרֶץ (mêṭaḇ hāʾāreṣ)
-“The best of the land.” The choicest and most productive region.
+v19, 25: Slave — ʿeved
+This word can also mean servant or official. Here the buying of people gives it the force of slavery; in verse 3 it is a deferential way of addressing Pharaoh.
 
-v07: בָּרַךְ (bāraḵ)
-“To bless.” To invoke divine favor and well-being upon another.
-
-v09: מָגוּר (māḡûr)
-“Sojourning.” Temporary residence without permanent possession.
-
-v14: כֶּסֶף (keseph)
-“Silver.” The primary medium of exchange in the ancient economy.
-
-v19: זֶרַע (zeraʿ)
-“Seed.” Both agricultural seed and a broader symbol of future life.
-
-v20: קָנָה (qānâ)
-“To buy” or “acquire.” To obtain ownership through purchase.
-
-v26: חֹמֶשׁ (ḥōmeš)
-“One-fifth.” Twenty percent, the portion reserved for Pharaoh.
-
-v26: חֹק (ḥōq)
-“Statute” or “decree.” A fixed legal arrangement.
-
-v27: פָּרָה (pārâ)
-“To be fruitful.” To increase and flourish.
-
-v29: חֶסֶד וֶאֱמֶת (ḥeseḏ weʾĕmeṯ)
-“Steadfast love and faithfulness.” Covenant language expressing loyal commitment.
-
-v30: קֶבֶר (qeḇer)
-“Grave” or “burial place.” A family burial site associated with inheritance and identity.
+v29: Faithful kindness — ḥesed weʾemet
+Kindness joined with faithfulness: loyalty that carries out the commitment being requested.

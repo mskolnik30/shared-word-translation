@@ -4,133 +4,103 @@ testament: OT
 chapter: 48
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-46-50-biblical-fluency-2026-09-11
 ---
 
-## Jacob Blesses Ephraim and Manasseh
+## Jacob claims Joseph’s sons
+
 <p>
-v01: After these things, Joseph was told, “Look, your father is ill.” So he took with him his two sons, Manasseh and Ephraim.
-v02: And when Jacob was told, “Look, your son Joseph has come to you,” Israel gathered his strength and sat up in bed.
+v01: Some time later Joseph was told, “Your father is ill.” He took his two sons, Manasseh and Ephraim, with him.
+v02: When Jacob was told, “Your son Joseph has come to see you,” Israel gathered his strength and sat up in bed.
+v03: Jacob said to Joseph, “God Almighty appeared to me at Luz in Canaan and blessed me.
+v04: He told me, ‘I will make you fruitful and increase your numbers. I will make you a community of peoples and give this land to your descendants after you as an everlasting possession.’
 </p>
 
 <p>
-v03: Then Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan and blessed me,
-v04: and said to me, ‘Look, I will make you fruitful and multiply you, and I will make of you a company of peoples and will give this land to your offspring after you as an everlasting possession.’
-v05: And now your two sons, who were born to you in the land of Egypt before I came to you in Egypt, are mine. Ephraim and Manasseh will be mine, as Reuben and Simeon are.
-v06: But the children born to you after them will be yours. They will be called by the name of their brothers in their inheritance.
-v07: As for me, when I came from Paddan, Rachel died to my sorrow in the land of Canaan on the journey, when there was still some distance to go to Ephrath. And I buried her there on the way to Ephrath (that is, Bethlehem).”
-</p>
-
-## Joseph Presents His Sons
-<p>
-v08: When Israel saw Joseph’s sons, he said, “Who are these?”
-v09: Joseph said to his father, “They are my sons, whom God has given me here.” And he said, “Bring them to me, please, that I may bless them.”
-v10: Now the eyes of Israel were dim with age, so that he could not see. So Joseph brought them near to him, and he kissed them and embraced them.
-v11: Israel said to Joseph, “I never expected to see your face, and look, God has let me see your offspring also.”
+v05: So your two sons, born to you in Egypt before I came here, are mine. Ephraim and Manasseh will be mine just as Reuben and Simeon are.
+v06: Any children born to you after them will be yours. In their inheritance, they will be counted under their brothers’ names.
 </p>
 
 <p>
-v12: Then Joseph removed them from his knees, and he bowed himself with his face to the earth.
-v13: Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought them near him.
-v14: Yet Israel stretched out his right hand and laid it upon the head of Ephraim, though he was the younger, and his left hand upon the head of Manasseh, crossing his hands, though Manasseh was the firstborn.
+v07: As for me, when I was returning from Paddan, Rachel died, to my sorrow, on the road in Canaan, while we were still some distance from Ephrath. I buried her there beside the road to Ephrath—that is, Bethlehem.”
 </p>
 
-## The Blessing
+## The younger son receives the right hand
+
 <p>
-v15: And he blessed Joseph and said,
-“The God before whom my fathers Abraham and Isaac walked,
-the God who has shepherded me all my life long to this day,
-v16: the angel who has redeemed me from all evil,
-bless the boys.
-And in them let my name be carried on,
-and the name of my fathers Abraham and Isaac.
-And let them multiply greatly
-among the earth.”
+v08: Israel saw Joseph’s sons and asked, “Who are these?”
+v09: “They are my sons, whom God has given me here,” Joseph told his father. “Bring them to me,” his father said, “so I can bless them.”
+v10: Israel’s eyes had grown dim with age, and he could not see. Joseph brought the sons close to him, and Israel kissed and embraced them.
 </p>
 
 <p>
-v17: When Joseph saw that his father laid his right hand on the head of Ephraim, it displeased him. So he took hold of his father’s hand to move it from Ephraim’s head to Manasseh’s head.
-v18: Joseph said to his father, “Not so, my father, for this one is the firstborn. Put your right hand on his head.”
-v19: But his father refused and said, “I know, my son, I know. He also will become a people, and he also will be great. Even so, his younger brother will be greater than he, and his offspring will become a multitude of nations.”
+v11: Israel said to Joseph, “I never expected to see your face again, and now God has even let me see your children.”
+v12: Joseph moved them away from Israel’s knees and bowed with his face to the ground.
 </p>
 
 <p>
-v20: So he blessed them that day, saying,
-“By you Israel will pronounce blessing, saying,
-‘May God make you like Ephraim and like Manasseh.’”
-Thus he put Ephraim before Manasseh.
+v13: Then Joseph took both sons and brought them close to Israel, with Ephraim in his right hand, toward Israel’s left, and Manasseh in his left hand, toward Israel’s right.
+v14: But Israel stretched out his right hand and placed it on the head of Ephraim, the younger son. He placed his left hand on Manasseh’s head, crossing his hands even though Manasseh was the firstborn.
 </p>
 
-## Jacob’s Final Words to Joseph
 <p>
-v21: Then Israel said to Joseph, “Look, I am about to die, but God will be with you and will bring you again to the land of your fathers.
-v22: Moreover, I have given to you one mountain slope more than to your brothers, which I took from the hand of the Amorite with my sword and with my bow.”
+v15: He blessed Joseph and said,
+“May the God before whom my ancestors Abraham and Isaac walked,
+the God who has shepherded me all my life to this day,
+v16: the angel who has redeemed me from every harm, bless these young men.
+May my name live on in them,
+and the names of my ancestors Abraham and Isaac.
+May they increase greatly in the midst of the earth.”
+</p>
+
+<p>
+v17: When Joseph saw that his father had placed his right hand on Ephraim’s head, he was displeased. He took hold of his father’s hand to move it from Ephraim’s head to Manasseh’s.
+v18: “Not that way, Father,” Joseph said. “This one is the firstborn. Put your right hand on his head.”
+</p>
+
+<p>
+v19: But his father refused. “I know, my son, I know,” he said. “He too will become a people, and he too will be great. Yet his younger brother will be greater than he is, and his descendants will become a multitude of nations.”
+</p>
+
+<p>
+v20: He blessed them that day, saying,
+“Israel will use your names in blessings:
+‘May God make you like Ephraim and Manasseh.’”
+In this way he put Ephraim ahead of Manasseh.
+</p>
+
+## The promise of return
+
+<p>
+v21: Then Israel said to Joseph, “I am about to die, but God will be with you all and bring you back to the land of your ancestors.
+v22: I give you one portion more than your brothers, which I took from the Amorites with my sword and bow.”
 </p>
 
 ## Notes
 
-v03–04: Jacob recalls the covenant promises given at Bethel before addressing Joseph’s sons.
+v3: God Almighty translates El Shaddai, the title used in the earlier promises (17:1; 35:11). The precise origin and meaning of Shaddai are uncertain.
 
-v05–06: Ephraim and Manasseh are adopted as Jacob’s own sons, effectively granting Joseph a double portion among the tribes.
+v5–6: Jacob places Ephraim and Manasseh alongside his own sons for inheritance. Joseph’s later children are to be counted within those two family lines.
 
-v07: The remembrance of Rachel connects Joseph’s sons with their grandmother and the covenant family story.
+v12, 14: The knees and the placement of hands make the blessing bodily and visible. The verb rendered ‘crossing’ can suggest skillful or deliberate handling: Jacob’s choice is not corrected when Joseph objects.
 
-v10: Jacob’s failing eyesight recalls Isaac’s blindness, though this scene reaches a different outcome.
+v15–16: The blessing places ‘God’ and ‘the angel’ in parallel descriptions. It does not explain their relationship here. The translation retains that compressed form.
 
-v13–14: Joseph carefully arranges the sons according to birth order, but Jacob intentionally crosses his hands.
-
-v15–16: The blessing summarizes Jacob’s life in terms of God’s guidance, provision, and redemption.
-
-v15: God is described as a shepherd, one of Scripture’s earliest uses of this imagery.
-
-v16: The “angel” is closely associated with God’s saving presence throughout Jacob’s life.
-
-v17–19: Joseph assumes the crossed hands are a mistake, but Jacob insists that the younger son will surpass the older.
-
-v19: Once again in Genesis, the younger receives preeminence over the firstborn.
-
-v20: Ephraim’s name is placed before Manasseh’s in Israel’s future blessing formula.
-
-v21–22: Jacob ends with confidence that God will bring his descendants back to the promised land.
-
-v22: Joseph receives an additional inheritance portion through his two sons.
+v22: ‘Portion’ translates shekhem, also the name Shechem and a word for a shoulder or ridge. Jacob’s claim to have taken it with sword and bow is left as spoken; its relationship to the events of chapters 33–34 is not explained.
 
 ## Vocabulary
 
-v03: אֵל שַׁדַּי (ʾEl Šadday)
-“God Almighty.” A covenant title emphasizing divine power and faithfulness.
+v4: Everlasting possession — ʾaḥuzzat ʿolam
+An enduring holding. The land promise is handed on while the family is living in Egypt.
 
-v04: אֲחֻזַּת עוֹלָם (ʾăḥuzzat ʿôlām)
-“Everlasting possession.” A permanent inheritance granted by covenant promise.
+v15: Shepherd — raʿah
+To tend a flock; here Jacob uses that work as an image for God’s lifelong care.
 
-v05: לִי הֵם (lî hēm)
-“They are mine.” Adoption language establishing Ephraim and Manasseh as tribal heirs.
+v16: Redeem — gaʾal
+To reclaim or rescue. A related noun names a family member who acts to recover someone’s freedom or property.
 
-v10: נָשַׁק (nāšaq)
-“To kiss.” A gesture of affection, blessing, or family recognition.
-
-v14: בְּכוֹר (bĕḵôr)
-“Firstborn.” The eldest son with customary inheritance privileges.
-
-v15: רָעָה (rāʿâ)
-“To shepherd.” To guide, care for, and provide for a flock.
-
-v16: גָּאַל (gāʾal)
-“To redeem.” To rescue, reclaim, or deliver from trouble.
-
-v16: מַלְאָךְ (malʾāḵ)
-“Angel” or “messenger.” A representative of God's presence and action.
-
-v19: גּוֹי (gôy)
-“Nation” or “people.” A political or ethnic community.
-
-v19: מְלֹא־הַגּוֹיִם (mĕlōʾ-haggôyim)
-“Multitude of nations.” A phrase expressing extraordinary expansion and influence.
-
-v20: בְּרָכָה (bĕrāḵâ)
-“Blessing.” A spoken invocation of divine favor and future prosperity.
-
-v21: שׁוּב (šûḇ)
-“To return.” A covenant theme of restoration to the promised land.
-
-v03: אֵל שַׁדַּי (ʾEl Šadday)
-“God Almighty.” Traditional rendering of the divine title; the precise etymology of Shaddai is uncertain.
+v16: Angel — malʾakh
+A messenger. Context determines whether the messenger is human or heavenly.

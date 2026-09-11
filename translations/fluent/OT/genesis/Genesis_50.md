@@ -4,162 +4,106 @@ testament: OT
 chapter: 50
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-genesis-46-50-biblical-fluency-2026-09-11
 ---
 
-## The Burial of Jacob
+## Jacob is mourned and buried
 
 <p>
-v01: Then Joseph fell on his father’s face and wept over him and kissed him.
-
-v02: Joseph commanded his servants the physicians to embalm his father. So the physicians embalmed Israel.
-
-v03: Forty days were required for it, for that is how many are required for embalming. And the Egyptians wept for him seventy days.
+v01: Joseph fell over his father’s face, wept over him, and kissed him.
+v02: Joseph ordered the physicians in his service to embalm his father, and the physicians embalmed Israel.
+v03: They took forty days, the full time required for embalming. The Egyptians mourned him for seventy days.
 </p>
 
 <p>
-v04: And when the days of weeping for him were past, Joseph spoke to the household of Pharaoh, saying, “If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,
-
-v05: ‘My father made me swear, saying, “I am about to die; in my tomb that I hewed out for myself in the land of Canaan, there you will bury me.” Now therefore let me please go up and bury my father. Then I will return.’”
-
-v06: Pharaoh answered, “Go up and bury your father, as he made you swear.”
+v04: When the days of mourning were over, Joseph said to Pharaoh’s household, “If I have found favor with you, please speak to Pharaoh for me. Tell him,
+v05: ‘My father made me swear an oath. He said, “I am about to die. Bury me in the tomb I dug for myself in Canaan.” Now please let me go up and bury my father. Then I will return.’”
 </p>
 
 <p>
-v07: So Joseph went up to bury his father. With him went up all the servants of Pharaoh, the elders of his household, and all the elders of the land of Egypt,
-
-v08: as well as all the household of Joseph, his brothers, and his father’s household. Only their little ones and their flocks and their herds were left in the land of Goshen.
-
-v09: And there went up with him both chariots and horsemen. It was a very great company.
+v06: Pharaoh answered, “Go up and bury your father, as he made you swear to do.”
 </p>
 
 <p>
-v10: When they came to the threshing floor of Atad, which is beyond the Jordan, they lamented there with a very great and grievous lamentation, and he made a mourning for his father seven days.
-
-v11: When the inhabitants of the land, the Canaanites, saw the mourning on the threshing floor of Atad, they said, “This is a grievous mourning by the Egyptians.” Therefore the place was named Abel-mizraim; it is beyond the Jordan.
+v07: So Joseph went up to bury his father. All Pharaoh’s officials went with him—the elders of his household and all the elders of Egypt—
+v08: along with all Joseph’s household, his brothers, and his father’s household. They left only their little ones, flocks, and herds in Goshen.
+v09: Chariots and horsemen also went up with him. It was an immense company.
 </p>
 
 <p>
-v12: Thus his sons did for him as he had commanded them,
-
-v13: for his sons carried him to the land of Canaan and buried him in the cave of the field at Machpelah, to the east of Mamre, which Abraham bought with the field from Ephron the Hittite to possess as a burial place.
-
-v14: After he had buried his father, Joseph returned to Egypt with his brothers and everyone who had gone up with him to bury his father.
-</p>
-
-## God Meant It for Good
-
-<p>
-v15: When Joseph’s brothers saw that their father was dead, they said, “It may be that Joseph will hate us and pay us back for all the evil that we did to him.”
-
-v16: So they sent a message to Joseph, saying, “Your father gave this command before he died:
-
-v17: ‘Say to Joseph, “Please forgive the transgression of your brothers and their sin, because they did evil to you.”’ And now, please forgive the transgression of the servants of the God of your father.” Joseph wept when they spoke to him.
+v10: When they reached the threshing floor of Atad, beyond the Jordan, they mourned there with loud and bitter lamentation. Joseph observed seven days of mourning for his father.
+v11: The Canaanites who lived there saw the mourning at the threshing floor of Atad and said, “How deeply the Egyptians are mourning!” That is why the place beyond the Jordan was named Abel-mizraim.
 </p>
 
 <p>
-v18: His brothers also came and fell down before him and said, “Look, we are your servants.”
-
-v19: Yet Joseph said to them, “Do not fear, for am I in the place of God?
-
-v20: As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today.
-
-v21: So do not fear; I will provide for you and your little ones.” Thus he comforted them and spoke to their hearts.
-</p>
-
-## The Death of Joseph
-
-<p>
-v22: So Joseph remained in Egypt, he and his father’s house. Joseph lived 110 years.
-
-v23: Joseph saw Ephraim’s children of the third generation. The children also of Machir the son of Manasseh were counted as Joseph’s own.
+v12: Jacob’s sons did for him just as he had instructed them.
+v13: They carried him to Canaan and buried him in the cave in the field of Machpelah, facing Mamre—the field Abraham had bought from Ephron the Hittite as a burial property.
 </p>
 
 <p>
-v24: Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob.”
+v14: After burying his father, Joseph returned to Egypt with his brothers and everyone who had gone up with him for the burial.
+</p>
 
-v25: Then Joseph made the sons of Israel swear, saying, “God will surely visit you, and you will carry up my bones from here.”
+## Joseph reassures his brothers
 
-v26: So Joseph died, being 110 years old. They embalmed him, and he was put in a coffin in Egypt.
+<p>
+v15: Now that their father was dead, Joseph’s brothers said, “What if Joseph bears a grudge against us and pays us back for all the harm we did him?”
+</p>
+
+<p>
+v16: So they sent word to Joseph: “Before your father died, he gave this instruction:
+v17: ‘Tell Joseph, “Please forgive your brothers’ offense and sin, for they did you harm.”’ Now please forgive the offense of the servants of your father’s God.” Joseph wept when their message reached him.
+</p>
+
+<p>
+v18: His brothers also came, fell down before him, and said, “Here we are, your slaves.”
+</p>
+
+<p>
+v19: But Joseph told them, “Do not be afraid. Am I in God’s place?
+v20: You intended harm against me; God intended it for good, to bring about what is happening today: keeping many people alive.
+v21: So do not be afraid. I myself will provide for you and your little ones.” He comforted them and spoke to their hearts.
+</p>
+
+## Joseph’s final promise and death
+
+<p>
+v22: Joseph remained in Egypt with his father’s household. He lived a hundred and ten years.
+v23: Joseph saw Ephraim’s descendants to the third generation. The children of Machir, Manasseh’s son, were also born on Joseph’s knees.
+</p>
+
+<p>
+v24: Joseph said to his brothers, “I am about to die. But God will surely come to your aid and bring you up from this land to the land he swore to Abraham, Isaac, and Jacob.”
+v25: Then Joseph made the Israelites swear an oath: “God will surely come to your aid. When he does, carry my bones up from here.”
+v26: Joseph died at a hundred and ten years old. They embalmed him and placed him in a coffin in Egypt.
 </p>
 
 ## Notes
 
-v01–03: Egyptian burial practices frame the narrative, situating Israel within a foreign cultural context.
+v3, 10: The text gives forty days for embalming, seventy days of Egyptian mourning, and seven days at Atad. It does not explicitly state how the first two periods overlap.
 
-v04–06: Joseph operates through mediated authority, respecting Egyptian court protocol.
+v5: Joseph reports his father speaking of a tomb he ‘dug’ for himself. This is kept alongside the earlier account of the purchased family burial cave.
 
-v07–09: The funeral procession is royal in scale, reflecting Joseph’s status.
+v10–11: ‘Beyond the Jordan’ is retained without assigning the uncertain site a modern location. Abel-mizraim sounds like the Hebrew phrase for ‘mourning of Egypt.’
 
-v10–11: Mourning is publicly visible and culturally interpreted, even by outsiders.
+v16–17: The brothers report an instruction from their father that was not narrated earlier. The narrator does not say whether they invented it.
 
-v13: The burial in Machpelah reinforces continuity with Abrahamic promise and land claim.
+v20: The same verb, ‘intended,’ describes the brothers’ harmful purpose and God’s good purpose. Joseph still calls what they did harm.
 
-v15–17: The brothers’ fear persists despite reconciliation, revealing unresolved guilt.
+v23: ‘Born on Joseph’s knees’ may express acknowledgment or reception into the family. The verse does not describe the exact practice.
 
-v19: Joseph refuses divine prerogative—judgment belongs to God alone.
-
-v20: Human intention and divine purpose are held together without collapsing one into the other.
-
-v21: Provision replaces retribution; reconciliation is enacted materially.
-
-v24–25: “God will surely visit you” anticipates Exodus, linking Genesis to future deliverance.
-
-v26: The coffin in Egypt marks an unresolved ending—promise awaits fulfillment.
+v24–25: ‘Surely come to your aid’ renders the emphatic repetition of a verb often translated ‘visit.’ Here it means God attending to the people and acting for them.
 
 ## Vocabulary
 
-v02: חָנַט (ḥānaṭ)
+v17: Forgive — nasaʾ
+Literally ‘lift’ or ‘carry’; with an offense as its object it can mean forgiving or taking away guilt.
 
-“To embalm.” Preservation of the body after death.
+v20: Intend — ḥashav
+To think, plan, or reckon. Repeating the verb keeps the two purposes in view.
 
-v03: בָּכָה (bāḵāh)
-
-“To weep.” Expression of mourning.
-
-v05: שָׁבַע (šāḇaʿ)
-
-“To swear.” Bind by oath.
-
-v07: זָקֵן (zāqēn)
-
-“Elder.” One of status and authority.
-
-v10: סָפַד (sāphaḏ)
-
-“To lament.” Formal mourning expression.
-
-v11: אֵבֶל (ʾēḇel)
-
-“Mourning.” Period or act of grief.
-
-v15: שָׂטַם (śāṭam)
-
-“To bear a grudge, hate.” Sustained hostility.
-
-v17: נָשָׂא (nāśāʾ)
-
-“To forgive, carry away.” Removal of guilt or offense.
-
-v19: תַּחַת (taḥaṯ)
-
-“In place of.” Substitution or role replacement.
-
-v20: חָשַׁב (ḥāšaḇ)
-
-“To intend, plan.” Deliberate mental framing.
-
-v21: נָחַם (nāḥam)
-
-“To comfort.” Provide relief from distress.
-
-v24: פָּקַד (pāqaḏ)
-
-“To visit, attend.” Divine intervention with purpose.
-
-v25: עֶצֶם (ʿeṣem)
-
-“Bone.” Physical remains, identity marker.
-
-v26: אֲרוֹן (ʾărôn)
-
-“Coffin.” Container for the dead body.
+v24–25: Come to someone’s aid — paqad
+To attend to or visit someone. Its force depends on context; here the promised action is bringing the family to the sworn land.

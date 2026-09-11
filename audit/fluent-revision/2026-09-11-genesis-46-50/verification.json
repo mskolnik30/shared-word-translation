@@ -1,0 +1,379 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T11:02:55.449069+00:00",
+  "base_commit": "0f32a7b7b721827cc4ea781c3a230c8904824ade",
+  "scope": "Genesis 46–50; 146 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 55,
+    "verses": 1641
+  },
+  "source_record_count": 1533,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "46:4": [
+      "I myself",
+      "close your eyes"
+    ],
+    "46:9": [
+      "Hanoch, Pallu, Hezron, and Carmi"
+    ],
+    "46:10": [
+      "Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul",
+      "mother was a Canaanite"
+    ],
+    "46:11": [
+      "Gershon, Kohath, and Merari"
+    ],
+    "46:12": [
+      "Er, Onan, Shelah, Perez, and Zerah",
+      "Er and Onan died",
+      "Hezron and Hamul"
+    ],
+    "46:13": [
+      "Tola, Puvah, Job, and Shimron"
+    ],
+    "46:14": [
+      "Sered, Elon, and Jahleel"
+    ],
+    "46:15": [
+      "Dinah",
+      "thirty-three"
+    ],
+    "46:16": [
+      "Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli"
+    ],
+    "46:17": [
+      "Imnah, Ishvah, Ishvi, and Beriah",
+      "sister was Serah",
+      "Heber and Malchiel"
+    ],
+    "46:18": [
+      "Zilpah",
+      "sixteen"
+    ],
+    "46:20": [
+      "Manasseh and Ephraim",
+      "Asenath",
+      "Potiphera",
+      "On"
+    ],
+    "46:21": [
+      "Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard"
+    ],
+    "46:22": [
+      "fourteen"
+    ],
+    "46:23": [
+      "Hushim"
+    ],
+    "46:24": [
+      "Jahzeel, Guni, Jezer, and Shillem"
+    ],
+    "46:25": [
+      "Bilhah",
+      "seven"
+    ],
+    "46:26": [
+      "sixty-six",
+      "not counting his sons’ wives"
+    ],
+    "46:27": [
+      "two sons",
+      "seventy"
+    ],
+    "46:34": [
+      "abomination"
+    ],
+    "47:2": [
+      "five"
+    ],
+    "47:4": [
+      "foreigners",
+      "no pasture"
+    ],
+    "47:9": [
+      "hundred and thirty",
+      "few and hard"
+    ],
+    "47:12": [
+      "little ones"
+    ],
+    "47:17": [
+      "horses, sheep and goats, cattle, and donkeys"
+    ],
+    "47:19": [
+      "Buy us and our land",
+      "slaves",
+      "live and not die"
+    ],
+    "47:21": [
+      "moved them into cities"
+    ],
+    "47:22": [
+      "did not buy",
+      "priests"
+    ],
+    "47:23": [
+      "bought you and your land"
+    ],
+    "47:24": [
+      "fifth",
+      "four shares"
+    ],
+    "47:25": [
+      "kept us alive",
+      "Pharaoh’s slaves"
+    ],
+    "47:28": [
+      "seventeen",
+      "hundred and forty-seven"
+    ],
+    "47:29": [
+      "under my thigh",
+      "faithful kindness"
+    ],
+    "47:31": [
+      "swore",
+      "head of his bed"
+    ],
+    "48:5": [
+      "Ephraim and Manasseh",
+      "Reuben and Simeon"
+    ],
+    "48:10": [
+      "Israel kissed"
+    ],
+    "48:13": [
+      "Ephraim in his right hand, toward Israel’s left",
+      "Manasseh in his left hand, toward Israel’s right"
+    ],
+    "48:14": [
+      "right hand",
+      "head of Ephraim",
+      "left hand on Manasseh’s head",
+      "crossing"
+    ],
+    "48:15": [
+      "blessed Joseph",
+      "shepherded"
+    ],
+    "48:16": [
+      "angel",
+      "redeemed"
+    ],
+    "48:19": [
+      "I know, my son, I know",
+      "younger brother",
+      "multitude of nations"
+    ],
+    "48:21": [
+      "you all"
+    ],
+    "48:22": [
+      "one portion more",
+      "sword and bow"
+    ],
+    "49:4": [
+      "he went up to my couch"
+    ],
+    "49:6": [
+      "killed men",
+      "hamstrung oxen"
+    ],
+    "49:7": [
+      "Cursed be their anger"
+    ],
+    "49:10": [
+      "Shiloh",
+      "between his feet",
+      "obedience of peoples"
+    ],
+    "49:11": [
+      "young donkey",
+      "blood of grapes"
+    ],
+    "49:12": [
+      "dark with wine",
+      "white with milk"
+    ],
+    "49:13": [
+      "Sidon"
+    ],
+    "49:14": [
+      "strong-boned donkey",
+      "saddlebags"
+    ],
+    "49:15": [
+      "forced laborer"
+    ],
+    "49:18": [
+      "salvation, LORD"
+    ],
+    "49:19": [
+      "raided by raiders"
+    ],
+    "49:21": [
+      "beautiful words"
+    ],
+    "49:22": [
+      "fruitful branch",
+      "spring",
+      "wall"
+    ],
+    "49:24": [
+      "Stone of Israel"
+    ],
+    "49:25": [
+      "breasts and womb"
+    ],
+    "49:26": [
+      "forebears",
+      "everlasting hills",
+      "set apart"
+    ],
+    "49:28": [
+      "twelve tribes"
+    ],
+    "49:30": [
+      "facing Mamre"
+    ],
+    "49:31": [
+      "Abraham",
+      "Sarah",
+      "Isaac",
+      "Rebekah",
+      "Leah"
+    ],
+    "49:33": [
+      "feet",
+      "gathered to his people"
+    ],
+    "50:3": [
+      "forty days",
+      "seventy days"
+    ],
+    "50:5": [
+      "dug for myself",
+      "I will return"
+    ],
+    "50:10": [
+      "beyond the Jordan",
+      "seven days"
+    ],
+    "50:11": [
+      "Abel-mizraim"
+    ],
+    "50:13": [
+      "facing Mamre"
+    ],
+    "50:17": [
+      "offense and sin",
+      "Joseph wept"
+    ],
+    "50:18": [
+      "your slaves"
+    ],
+    "50:20": [
+      "You intended harm",
+      "God intended it for good",
+      "keeping many people alive"
+    ],
+    "50:23": [
+      "third generation",
+      "Machir",
+      "Joseph’s knees"
+    ],
+    "50:24": [
+      "Abraham, Isaac, and Jacob"
+    ],
+    "50:25": [
+      "carry my bones up"
+    ],
+    "50:26": [
+      "hundred and ten",
+      "coffin in Egypt"
+    ]
+  },
+  "written_read_records_49_10_and_49_11_hashed_in_full": true,
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read every Hebrew verse before drafting, then read TSW comparators and reread the assembled English. Local corrections identified Israel as the one embracing the sons, preserved the young donkey, and aligned facing Mamre with the chapter 23 purchase account. This is not independent editorial review.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
