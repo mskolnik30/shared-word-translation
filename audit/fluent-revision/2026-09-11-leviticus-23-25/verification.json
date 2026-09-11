@@ -1,0 +1,795 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T17:58:32.039003+00:00",
+  "base_commit": "a320dd05347e33f14e9512ac9064f4dc3dee6e4e",
+  "scope": "Leviticus 23–25; 122 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 149,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-16-17/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-18-20/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 94,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-21-22/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-23-25/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 120,
+    "verses": 3633
+  },
+  "source_record_count": 859,
+  "public_source_mapping": "Leviticus 23–25 aligns directly; all 122 records are unique and complete, including all five annotations in four verses and the original written/read forms at 25:30. Prior Genesis and Exodus public/source differences remain bound unchanged.",
+  "source_annotations_hashed_in_full": [
+    "23:13",
+    "25:20",
+    "25:30",
+    "25:46"
+  ],
+  "focused_assertions": {
+    "23:2": [
+      "appointed times",
+      "sacred assemblies",
+      "my appointed times"
+    ],
+    "23:3": [
+      "six days",
+      "seventh day",
+      "complete rest",
+      "no work at all",
+      "wherever you live"
+    ],
+    "23:5": [
+      "first month",
+      "fourteenth",
+      "twilight",
+      "Passover"
+    ],
+    "23:6": [
+      "fifteenth",
+      "Unleavened Bread",
+      "seven days"
+    ],
+    "23:7": [
+      "first day",
+      "ordinary work"
+    ],
+    "23:8": [
+      "seven days",
+      "offerings by fire",
+      "seventh day",
+      "ordinary work"
+    ],
+    "23:10": [
+      "land I am giving you",
+      "sheaf",
+      "first of your harvest"
+    ],
+    "23:11": [
+      "wave",
+      "accepted on your behalf",
+      "day after the Sabbath"
+    ],
+    "23:12": [
+      "year-old male lamb",
+      "without blemish",
+      "burnt offering"
+    ],
+    "23:13": [
+      "two-tenths of an ephah",
+      "fine flour mixed with oil",
+      "pleasing aroma",
+      "quarter of a hin of wine"
+    ],
+    "23:14": [
+      "bread, roasted grain or fresh grain",
+      "until that very day",
+      "your God’s offering"
+    ],
+    "23:15": [
+      "day after the Sabbath",
+      "seven Sabbaths",
+      "seven full weeks"
+    ],
+    "23:16": [
+      "fifty days",
+      "day after the seventh Sabbath",
+      "new grain"
+    ],
+    "23:17": [
+      "two loaves",
+      "two-tenths of an ephah",
+      "with leaven",
+      "firstfruits"
+    ],
+    "23:18": [
+      "seven year-old male lambs without blemish",
+      "one young bull",
+      "two rams",
+      "grain offering and drink offerings"
+    ],
+    "23:19": [
+      "one male goat",
+      "sin offering",
+      "two year-old male lambs",
+      "peace sacrifice"
+    ],
+    "23:20": [
+      "wave them",
+      "firstfruits bread",
+      "two lambs",
+      "belong to the priest"
+    ],
+    "23:21": [
+      "that very day",
+      "ordinary work",
+      "your generations"
+    ],
+    "23:22": [
+      "edges of your field",
+      "harvesters leave behind",
+      "poor",
+      "foreigner living among you"
+    ],
+    "23:24": [
+      "first day of the seventh month",
+      "rest",
+      "remembrance",
+      "blasts of sound"
+    ],
+    "23:25": [
+      "ordinary work",
+      "offering by fire"
+    ],
+    "23:27": [
+      "tenth day",
+      "seventh month",
+      "Day of Atonement",
+      "deny yourselves"
+    ],
+    "23:28": [
+      "no work at all",
+      "atonement is made for you"
+    ],
+    "23:29": [
+      "does not deny themselves",
+      "cut off from their people"
+    ],
+    "23:30": [
+      "any work",
+      "I will destroy",
+      "from among their people"
+    ],
+    "23:32": [
+      "complete rest",
+      "deny yourselves",
+      "evening of the ninth",
+      "until the next evening"
+    ],
+    "23:34": [
+      "fifteenth day",
+      "seventh month",
+      "Booths",
+      "seven days"
+    ],
+    "23:36": [
+      "seven days",
+      "eighth day",
+      "solemn gathering",
+      "ordinary work"
+    ],
+    "23:37": [
+      "burnt offerings, grain offerings, sacrifices and drink offerings",
+      "each on its proper day"
+    ],
+    "23:38": [
+      "Sabbaths",
+      "gifts",
+      "vow offerings",
+      "freewill offerings"
+    ],
+    "23:39": [
+      "fifteenth day",
+      "seventh month",
+      "land’s produce",
+      "first day",
+      "eighth"
+    ],
+    "23:40": [
+      "fruit",
+      "palm fronds",
+      "leafy trees",
+      "willows",
+      "Rejoice",
+      "seven days"
+    ],
+    "23:42": [
+      "booths for seven days",
+      "native-born in Israel"
+    ],
+    "23:43": [
+      "your generations will know",
+      "live in booths",
+      "brought them out of Egypt"
+    ],
+    "24:2": [
+      "pure oil from beaten olives",
+      "regularly"
+    ],
+    "24:3": [
+      "Aaron",
+      "evening until morning",
+      "outside the curtain of the testimony",
+      "tent of meeting"
+    ],
+    "24:4": [
+      "pure lampstand",
+      "regularly"
+    ],
+    "24:5": [
+      "twelve loaves",
+      "two-tenths of an ephah for each loaf"
+    ],
+    "24:6": [
+      "two arrangements",
+      "six in each",
+      "pure table"
+    ],
+    "24:7": [
+      "pure frankincense",
+      "each arrangement",
+      "bread’s memorial portion"
+    ],
+    "24:8": [
+      "Sabbath after Sabbath",
+      "from the Israelites",
+      "everlasting covenant"
+    ],
+    "24:9": [
+      "Aaron and his sons",
+      "eat it in a holy place",
+      "most holy",
+      "lasting share"
+    ],
+    "24:10": [
+      "mother was an Israelite",
+      "father was an Egyptian",
+      "Israelite man",
+      "fighting"
+    ],
+    "24:11": [
+      "Name",
+      "cursed",
+      "Shelomith",
+      "Dibri",
+      "Dan"
+    ],
+    "24:12": [
+      "custody",
+      "LORD’s own word",
+      "decision clear"
+    ],
+    "24:14": [
+      "outside the camp",
+      "Everyone who heard",
+      "hands on his head",
+      "whole assembly",
+      "stone"
+    ],
+    "24:15": [
+      "his God",
+      "guilt of his sin"
+    ],
+    "24:16": [
+      "put to death",
+      "whole assembly",
+      "stone",
+      "Foreigner and native-born"
+    ],
+    "24:17": [
+      "strikes a human being dead",
+      "put to death"
+    ],
+    "24:18": [
+      "animal dead",
+      "replace it",
+      "life for life"
+    ],
+    "24:19": [
+      "bodily injury",
+      "must be done to him"
+    ],
+    "24:20": [
+      "Fracture for fracture, eye for eye, tooth for tooth",
+      "inflicted on him"
+    ],
+    "24:21": [
+      "animal dead",
+      "replace it",
+      "human being dead",
+      "put to death"
+    ],
+    "24:22": [
+      "one rule",
+      "foreigner and native-born"
+    ],
+    "24:23": [
+      "outside the camp",
+      "stoned him",
+      "LORD had commanded Moses"
+    ],
+    "25:1": [
+      "Mount Sinai"
+    ],
+    "25:2": [
+      "land I am giving you",
+      "land is to keep a Sabbath"
+    ],
+    "25:4": [
+      "seventh year",
+      "land",
+      "complete rest",
+      "not sow",
+      "prune"
+    ],
+    "25:5": [
+      "grows on its own",
+      "untended vines",
+      "year of rest"
+    ],
+    "25:6": [
+      "male and female slaves",
+      "hired worker",
+      "residents"
+    ],
+    "25:7": [
+      "livestock",
+      "wild animals",
+      "All its produce"
+    ],
+    "25:8": [
+      "seven times seven",
+      "forty-nine years"
+    ],
+    "25:9": [
+      "tenth day of the seventh month",
+      "horn",
+      "Day of Atonement",
+      "throughout your land"
+    ],
+    "25:10": [
+      "fiftieth year",
+      "everyone living in it",
+      "family holding",
+      "to your family"
+    ],
+    "25:11": [
+      "fiftieth year",
+      "not sow",
+      "grows on its own",
+      "untended vines"
+    ],
+    "25:12": [
+      "holy",
+      "Eat what the fields produce"
+    ],
+    "25:15": [
+      "years since the Jubilee",
+      "harvest years left"
+    ],
+    "25:16": [
+      "More years",
+      "higher price",
+      "fewer years",
+      "lower price",
+      "number of harvests"
+    ],
+    "25:20": [
+      "What will we eat in the seventh year",
+      "do not sow or gather"
+    ],
+    "25:21": [
+      "sixth year",
+      "three years"
+    ],
+    "25:22": [
+      "eighth year",
+      "old crop",
+      "ninth year",
+      "crop comes in"
+    ],
+    "25:23": [
+      "not be sold permanently",
+      "land is mine",
+      "foreigners and residents living with me"
+    ],
+    "25:25": [
+      "brother becomes poor",
+      "part of his family holding",
+      "nearest redeemer"
+    ],
+    "25:26": [
+      "no redeemer",
+      "enough to redeem it himself"
+    ],
+    "25:27": [
+      "years since the sale",
+      "refund the balance",
+      "return to his family holding"
+    ],
+    "25:28": [
+      "cannot afford the refund",
+      "remain with the buyer",
+      "Jubilee",
+      "released"
+    ],
+    "25:29": [
+      "walled city",
+      "full year",
+      "right to redeem"
+    ],
+    "25:30": [
+      "not redeemed",
+      "full year",
+      "walled city",
+      "permanent property",
+      "his generations",
+      "not be released"
+    ],
+    "25:31": [
+      "no surrounding wall",
+      "open fields",
+      "redeemed",
+      "released"
+    ],
+    "25:32": [
+      "Levites",
+      "always have the right to redeem"
+    ],
+    "25:33": [
+      "redeems a house from the Levites",
+      "released at the Jubilee",
+      "holding among the Israelites"
+    ],
+    "25:34": [
+      "pastureland",
+      "must not be sold",
+      "permanent holding"
+    ],
+    "25:35": [
+      "brother becomes poor",
+      "support him",
+      "foreigner or resident",
+      "live with you"
+    ],
+    "25:36": [
+      "no interest or increase",
+      "Fear your God",
+      "brother live with you"
+    ],
+    "25:37": [
+      "money at interest",
+      "food for a profit"
+    ],
+    "25:38": [
+      "Egypt",
+      "land of Canaan",
+      "to be your God"
+    ],
+    "25:39": [
+      "is sold to you",
+      "not make him do a slave’s labor"
+    ],
+    "25:40": [
+      "hired worker or resident",
+      "until the Jubilee year"
+    ],
+    "25:41": [
+      "he and his children",
+      "return to his family",
+      "ancestors’ holding"
+    ],
+    "25:42": [
+      "my slaves",
+      "Egypt",
+      "not be sold as slaves"
+    ],
+    "25:44": [
+      "male and female slaves",
+      "nations around you",
+      "buy"
+    ],
+    "25:45": [
+      "buy people",
+      "children of residents",
+      "families born in your land",
+      "your property"
+    ],
+    "25:46": [
+      "your sons",
+      "inherited property",
+      "slaves permanently",
+      "brothers, the Israelites",
+      "harshly"
+    ],
+    "25:47": [
+      "foreigner or resident",
+      "wealthy",
+      "brother becomes poor",
+      "sold",
+      "member of the foreigner’s family"
+    ],
+    "25:48": [
+      "right to be redeemed",
+      "One of his brothers"
+    ],
+    "25:49": [
+      "uncle",
+      "uncle’s son",
+      "close relative",
+      "redeem himself"
+    ],
+    "25:50": [
+      "his buyer",
+      "year he was sold",
+      "Jubilee year",
+      "sale price",
+      "hired worker"
+    ],
+    "25:51": [
+      "many years remain",
+      "purchase price",
+      "in proportion"
+    ],
+    "25:52": [
+      "few years remain",
+      "Jubilee",
+      "with his buyer",
+      "in proportion"
+    ],
+    "25:53": [
+      "hired year by year",
+      "harshly before your eyes"
+    ],
+    "25:54": [
+      "not redeemed",
+      "he and his children",
+      "released in the Jubilee year"
+    ],
+    "25:55": [
+      "slaves belonging to me",
+      "my slaves",
+      "Egypt",
+      "I am the LORD your God"
+    ]
+  },
+  "TSW_prior_revisions_Companion_and_unaffected_approvals_preserved": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read all 122 pinned Hebrew verses and all five annotations before drafting. Selected NET translators’ notes were consulted after Hebrew reading and before drafting. All 122 TSW comparators were read after the independent draft. The English was checked against the source reading, with male lambs made explicit, speaker punctuation repaired, the impoverished brother’s support clarified, and resident children retained. Focused checks cover calendar dates, work distinctions, all offerings and quantities, leaven, Sabbath counting, unspecified signal instrument, cutoff versus divine destruction, booth materials and native-born scope, sanctuary location and bread quantities, named family and tribe, actual execution and injury formulas, Jubilee count and differing release conditions, land ownership, redemption arithmetic, walled-city read form, difficult Levitical redemption syntax, resident status ambiguity, slavery and inheritance, kinship roles, and repeated exodus identity. These are authoring self-checks, not independent scholarly review or reader testing.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

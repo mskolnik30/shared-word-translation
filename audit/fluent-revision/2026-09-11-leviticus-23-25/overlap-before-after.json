@@ -1,0 +1,1240 @@
+{
+  "scope": "Leviticus 23–25; 122 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 33,
+      "near_identical_verses": 78,
+      "mean_similarity": 0.953495,
+      "verses": [
+        {
+          "reference": "Leviticus 23:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:2",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 23:3",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Leviticus 23:4",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 23:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:6",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 23:7",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Leviticus 23:8",
+          "identical": false,
+          "similarity": 0.892857
+        },
+        {
+          "reference": "Leviticus 23:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:10",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Leviticus 23:11",
+          "identical": false,
+          "similarity": 0.92
+        },
+        {
+          "reference": "Leviticus 23:12",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Leviticus 23:13",
+          "identical": false,
+          "similarity": 0.948718
+        },
+        {
+          "reference": "Leviticus 23:14",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Leviticus 23:15",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 23:16",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 23:17",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Leviticus 23:18",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 23:19",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 23:20",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 23:21",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 23:22",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 23:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:24",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Leviticus 23:25",
+          "identical": false,
+          "similarity": 0.882353
+        },
+        {
+          "reference": "Leviticus 23:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:27",
+          "identical": false,
+          "similarity": 0.942857
+        },
+        {
+          "reference": "Leviticus 23:28",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Leviticus 23:29",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 23:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:31",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 23:32",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 23:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:35",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Leviticus 23:36",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 23:37",
+          "identical": false,
+          "similarity": 0.970588
+        },
+        {
+          "reference": "Leviticus 23:38",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:39",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 23:40",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Leviticus 23:41",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 23:42",
+          "identical": false,
+          "similarity": 0.866667
+        },
+        {
+          "reference": "Leviticus 23:43",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 23:44",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 24:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 24:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 24:3",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Leviticus 24:4",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 24:5",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 24:6",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 24:7",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 24:8",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 24:9",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Leviticus 24:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 24:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 24:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 24:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 24:14",
+          "identical": false,
+          "similarity": 0.884615
+        },
+        {
+          "reference": "Leviticus 24:15",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 24:16",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 24:17",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Leviticus 24:18",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 24:19",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Leviticus 24:20",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Leviticus 24:21",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 24:22",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 24:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:2",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Leviticus 25:3",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Leviticus 25:4",
+          "identical": false,
+          "similarity": 0.935484
+        },
+        {
+          "reference": "Leviticus 25:5",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 25:6",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 25:7",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 25:8",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Leviticus 25:9",
+          "identical": false,
+          "similarity": 0.942857
+        },
+        {
+          "reference": "Leviticus 25:10",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Leviticus 25:11",
+          "identical": false,
+          "similarity": 0.892857
+        },
+        {
+          "reference": "Leviticus 25:12",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Leviticus 25:13",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 25:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:15",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Leviticus 25:16",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Leviticus 25:17",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Leviticus 25:18",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 25:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:23",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 25:24",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 25:25",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 25:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:27",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Leviticus 25:28",
+          "identical": false,
+          "similarity": 0.926829
+        },
+        {
+          "reference": "Leviticus 25:29",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 25:30",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 25:31",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 25:32",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 25:33",
+          "identical": false,
+          "similarity": 0.975
+        },
+        {
+          "reference": "Leviticus 25:34",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 25:35",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Leviticus 25:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:37",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 25:38",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:39",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 25:40",
+          "identical": false,
+          "similarity": 0.913043
+        },
+        {
+          "reference": "Leviticus 25:41",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Leviticus 25:42",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 25:43",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Leviticus 25:44",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:45",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:46",
+          "identical": false,
+          "similarity": 0.972222
+        },
+        {
+          "reference": "Leviticus 25:47",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:48",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:49",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 25:50",
+          "identical": false,
+          "similarity": 0.926829
+        },
+        {
+          "reference": "Leviticus 25:51",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Leviticus 25:52",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Leviticus 25:53",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Leviticus 25:54",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 25:55",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 5,
+      "mean_similarity": 0.628654,
+      "verses": [
+        {
+          "reference": "Leviticus 23:1",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 23:2",
+          "identical": false,
+          "similarity": 0.652174
+        },
+        {
+          "reference": "Leviticus 23:3",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Leviticus 23:4",
+          "identical": false,
+          "similarity": 0.685714
+        },
+        {
+          "reference": "Leviticus 23:5",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 23:6",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Leviticus 23:7",
+          "identical": false,
+          "similarity": 0.4
+        },
+        {
+          "reference": "Leviticus 23:8",
+          "identical": false,
+          "similarity": 0.603774
+        },
+        {
+          "reference": "Leviticus 23:9",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 23:10",
+          "identical": false,
+          "similarity": 0.580645
+        },
+        {
+          "reference": "Leviticus 23:11",
+          "identical": false,
+          "similarity": 0.518519
+        },
+        {
+          "reference": "Leviticus 23:12",
+          "identical": false,
+          "similarity": 0.608696
+        },
+        {
+          "reference": "Leviticus 23:13",
+          "identical": false,
+          "similarity": 0.860759
+        },
+        {
+          "reference": "Leviticus 23:14",
+          "identical": false,
+          "similarity": 0.5625
+        },
+        {
+          "reference": "Leviticus 23:15",
+          "identical": false,
+          "similarity": 0.52
+        },
+        {
+          "reference": "Leviticus 23:16",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 23:17",
+          "identical": false,
+          "similarity": 0.53125
+        },
+        {
+          "reference": "Leviticus 23:18",
+          "identical": false,
+          "similarity": 0.866667
+        },
+        {
+          "reference": "Leviticus 23:19",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 23:20",
+          "identical": false,
+          "similarity": 0.537313
+        },
+        {
+          "reference": "Leviticus 23:21",
+          "identical": false,
+          "similarity": 0.4
+        },
+        {
+          "reference": "Leviticus 23:22",
+          "identical": false,
+          "similarity": 0.528736
+        },
+        {
+          "reference": "Leviticus 23:23",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 23:24",
+          "identical": false,
+          "similarity": 0.448276
+        },
+        {
+          "reference": "Leviticus 23:25",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Leviticus 23:26",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 23:27",
+          "identical": false,
+          "similarity": 0.774194
+        },
+        {
+          "reference": "Leviticus 23:28",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Leviticus 23:29",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Leviticus 23:30",
+          "identical": false,
+          "similarity": 0.918919
+        },
+        {
+          "reference": "Leviticus 23:31",
+          "identical": false,
+          "similarity": 0.424242
+        },
+        {
+          "reference": "Leviticus 23:32",
+          "identical": false,
+          "similarity": 0.5625
+        },
+        {
+          "reference": "Leviticus 23:33",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 23:34",
+          "identical": false,
+          "similarity": 0.723404
+        },
+        {
+          "reference": "Leviticus 23:35",
+          "identical": false,
+          "similarity": 0.4
+        },
+        {
+          "reference": "Leviticus 23:36",
+          "identical": false,
+          "similarity": 0.725
+        },
+        {
+          "reference": "Leviticus 23:37",
+          "identical": false,
+          "similarity": 0.735294
+        },
+        {
+          "reference": "Leviticus 23:38",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 23:39",
+          "identical": false,
+          "similarity": 0.631579
+        },
+        {
+          "reference": "Leviticus 23:40",
+          "identical": false,
+          "similarity": 0.774194
+        },
+        {
+          "reference": "Leviticus 23:41",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 23:42",
+          "identical": false,
+          "similarity": 0.645161
+        },
+        {
+          "reference": "Leviticus 23:43",
+          "identical": false,
+          "similarity": 0.892857
+        },
+        {
+          "reference": "Leviticus 23:44",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Leviticus 24:1",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 24:2",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Leviticus 24:3",
+          "identical": false,
+          "similarity": 0.483871
+        },
+        {
+          "reference": "Leviticus 24:4",
+          "identical": false,
+          "similarity": 0.740741
+        },
+        {
+          "reference": "Leviticus 24:5",
+          "identical": false,
+          "similarity": 0.578947
+        },
+        {
+          "reference": "Leviticus 24:6",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 24:7",
+          "identical": false,
+          "similarity": 0.595745
+        },
+        {
+          "reference": "Leviticus 24:8",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Leviticus 24:9",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Leviticus 24:10",
+          "identical": false,
+          "similarity": 0.576271
+        },
+        {
+          "reference": "Leviticus 24:11",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Leviticus 24:12",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Leviticus 24:13",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 24:14",
+          "identical": false,
+          "similarity": 0.703704
+        },
+        {
+          "reference": "Leviticus 24:15",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Leviticus 24:16",
+          "identical": false,
+          "similarity": 0.542857
+        },
+        {
+          "reference": "Leviticus 24:17",
+          "identical": false,
+          "similarity": 0.583333
+        },
+        {
+          "reference": "Leviticus 24:18",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Leviticus 24:19",
+          "identical": false,
+          "similarity": 0.512821
+        },
+        {
+          "reference": "Leviticus 24:20",
+          "identical": false,
+          "similarity": 0.577778
+        },
+        {
+          "reference": "Leviticus 24:21",
+          "identical": false,
+          "similarity": 0.682927
+        },
+        {
+          "reference": "Leviticus 24:22",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 24:23",
+          "identical": false,
+          "similarity": 0.821429
+        },
+        {
+          "reference": "Leviticus 25:1",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Leviticus 25:2",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Leviticus 25:3",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 25:4",
+          "identical": false,
+          "similarity": 0.766667
+        },
+        {
+          "reference": "Leviticus 25:5",
+          "identical": false,
+          "similarity": 0.433333
+        },
+        {
+          "reference": "Leviticus 25:6",
+          "identical": false,
+          "similarity": 0.618182
+        },
+        {
+          "reference": "Leviticus 25:7",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Leviticus 25:8",
+          "identical": false,
+          "similarity": 0.826087
+        },
+        {
+          "reference": "Leviticus 25:9",
+          "identical": false,
+          "similarity": 0.644068
+        },
+        {
+          "reference": "Leviticus 25:10",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Leviticus 25:11",
+          "identical": false,
+          "similarity": 0.679245
+        },
+        {
+          "reference": "Leviticus 25:12",
+          "identical": false,
+          "similarity": 0.580645
+        },
+        {
+          "reference": "Leviticus 25:13",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 25:14",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 25:15",
+          "identical": false,
+          "similarity": 0.206897
+        },
+        {
+          "reference": "Leviticus 25:16",
+          "identical": false,
+          "similarity": 0.4
+        },
+        {
+          "reference": "Leviticus 25:17",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Leviticus 25:18",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Leviticus 25:19",
+          "identical": false,
+          "similarity": 0.647059
+        },
+        {
+          "reference": "Leviticus 25:20",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Leviticus 25:21",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 25:22",
+          "identical": false,
+          "similarity": 0.590164
+        },
+        {
+          "reference": "Leviticus 25:23",
+          "identical": false,
+          "similarity": 0.780488
+        },
+        {
+          "reference": "Leviticus 25:24",
+          "identical": false,
+          "similarity": 0.357143
+        },
+        {
+          "reference": "Leviticus 25:25",
+          "identical": false,
+          "similarity": 0.553191
+        },
+        {
+          "reference": "Leviticus 25:26",
+          "identical": false,
+          "similarity": 0.642857
+        },
+        {
+          "reference": "Leviticus 25:27",
+          "identical": false,
+          "similarity": 0.32
+        },
+        {
+          "reference": "Leviticus 25:28",
+          "identical": false,
+          "similarity": 0.405405
+        },
+        {
+          "reference": "Leviticus 25:29",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Leviticus 25:30",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Leviticus 25:31",
+          "identical": false,
+          "similarity": 0.607143
+        },
+        {
+          "reference": "Leviticus 25:32",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Leviticus 25:33",
+          "identical": false,
+          "similarity": 0.586667
+        },
+        {
+          "reference": "Leviticus 25:34",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Leviticus 25:35",
+          "identical": false,
+          "similarity": 0.482759
+        },
+        {
+          "reference": "Leviticus 25:36",
+          "identical": false,
+          "similarity": 0.526316
+        },
+        {
+          "reference": "Leviticus 25:37",
+          "identical": false,
+          "similarity": 0.516129
+        },
+        {
+          "reference": "Leviticus 25:38",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 25:39",
+          "identical": false,
+          "similarity": 0.511628
+        },
+        {
+          "reference": "Leviticus 25:40",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Leviticus 25:41",
+          "identical": false,
+          "similarity": 0.434783
+        },
+        {
+          "reference": "Leviticus 25:42",
+          "identical": false,
+          "similarity": 0.837209
+        },
+        {
+          "reference": "Leviticus 25:43",
+          "identical": false,
+          "similarity": 0.521739
+        },
+        {
+          "reference": "Leviticus 25:44",
+          "identical": false,
+          "similarity": 0.465116
+        },
+        {
+          "reference": "Leviticus 25:45",
+          "identical": false,
+          "similarity": 0.655738
+        },
+        {
+          "reference": "Leviticus 25:46",
+          "identical": false,
+          "similarity": 0.472222
+        },
+        {
+          "reference": "Leviticus 25:47",
+          "identical": false,
+          "similarity": 0.514286
+        },
+        {
+          "reference": "Leviticus 25:48",
+          "identical": false,
+          "similarity": 0.411765
+        },
+        {
+          "reference": "Leviticus 25:49",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Leviticus 25:50",
+          "identical": false,
+          "similarity": 0.425
+        },
+        {
+          "reference": "Leviticus 25:51",
+          "identical": false,
+          "similarity": 0.372093
+        },
+        {
+          "reference": "Leviticus 25:52",
+          "identical": false,
+          "similarity": 0.392857
+        },
+        {
+          "reference": "Leviticus 25:53",
+          "identical": false,
+          "similarity": 0.431373
+        },
+        {
+          "reference": "Leviticus 25:54",
+          "identical": false,
+          "similarity": 0.434783
+        },
+        {
+          "reference": "Leviticus 25:55",
+          "identical": false,
+          "similarity": 0.84
+        }
+      ]
+    }
+  }
+}
