@@ -4,85 +4,98 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-7-8-biblical-fluency-2026-09-11
 ---
 
-## The Lamps Before the Lampstand
+## The seven lamps
 
 <p>
-v01: The LORD spoke to Moses, saying,
-v02: “Speak to Aaron and say to him: When you set up the lamps, the seven lamps will give light toward the front of the lampstand.”
-v03: Aaron did so. He set up its lamps toward the front of the lampstand, as the LORD commanded Moses.
-v04: This was the workmanship of the lampstand: hammered work of gold, from its base to its blossoms it was hammered work. According to the pattern that the LORD showed Moses, so he made the lampstand.
-</p>
-
-## The Levites Cleansed for Service
-
-<p>
-v05: The LORD spoke to Moses, saying,
-v06: “Take the Levites from among the Israelites and cleanse them.
-v07: Thus you will do to them for their cleansing: sprinkle purifying water on them, and let them pass a razor over their whole body, wash their clothes, and cleanse themselves.
-v08: Then they will take a young bull with its grain offering of fine flour mixed with oil, and you will take a second young bull for a sin offering.
-v09: You will bring the Levites before the Tent of Meeting and assemble the whole congregation of the Israelites.
-v10: When you bring the Levites before the LORD, the Israelites will lay their hands on the Levites,
-v11: and Aaron will elevate the Levites before the LORD as an elevation offering from the Israelites, so that they may perform the service of the LORD.
+v01: The LORD gave Moses this instruction:
+v02: “Tell Aaron, ‘When you light the lamps, the seven lamps are to shine toward the area in front of the lampstand.’”
 </p>
 
 <p>
-v12: The Levites will lay their hands on the heads of the bulls. Offer one as a sin offering and the other as a burnt offering to the LORD, to make atonement for the Levites.
-v13: You will have the Levites stand before Aaron and his sons and elevate them as an elevation offering to the LORD.
-v14: Thus you will separate the Levites from among the Israelites, and the Levites will be mine.
-v15: After that the Levites may enter to serve the Tent of Meeting, when you have cleansed them and elevated them as an elevation offering.
+v03: Aaron did this. He lit the lamps so they shone toward the front of the lampstand, just as the LORD had commanded Moses.
+v04: The lampstand was made of hammered gold, hammered from its base to its flowers. It was made according to the pattern the LORD had shown Moses.
 </p>
 
-## The Levites Given in Place of the Firstborn
+## The Levites are purified for service
 
 <p>
-v16: For they are wholly given to me from among the Israelites. In place of every one who opens the womb, every firstborn among the Israelites, I have taken them for myself.
-v17: For every firstborn among the Israelites is mine, both human and animal. On the day I struck every firstborn in the land of Egypt, I consecrated them for myself.
-v18: I have taken the Levites in place of every firstborn among the Israelites.
-v19: I have given the Levites as a gift to Aaron and his sons from among the Israelites, to perform the service of the Israelites at the Tent of Meeting and to make atonement for the Israelites, so that no plague may strike the Israelites when they approach the sanctuary.”
+v05: The LORD gave Moses this instruction:
+v06: “Take the Levites from among the Israelites and purify them.
+v07: This is how you are to purify them: sprinkle them with purification water. They are to shave their whole bodies, wash their clothes and purify themselves.
 </p>
 
 <p>
-v20: Moses, Aaron, and the whole congregation of the Israelites did this to the Levites. According to all that the LORD commanded Moses concerning the Levites, so the Israelites did to them.
-v21: The Levites purified themselves from sin and washed their clothes; Aaron elevated them as an elevation offering before the LORD, and Aaron made atonement for them to cleanse them.
-v22: Afterward the Levites entered to perform their service at the Tent of Meeting before Aaron and his sons. As the LORD commanded Moses concerning the Levites, so they did to them.
+v08: They are to take a young bull, with its grain offering of fine flour mixed with oil. You are to take a second young bull for a sin offering.
+v09: Bring the Levites to the front of the tent of meeting and gather the whole Israelite community.
 </p>
 
-## The Years of Levitical Service
+<p>
+v10: Bring the Levites before the LORD. The Israelites are to lay their hands on the Levites.
+v11: Aaron is to present the Levites before the LORD as a wave offering from the Israelites, so they can carry out the LORD’s work.
+v12: The Levites are to lay their hands on the bulls’ heads. Offer one bull to the LORD as a sin offering and the other as a burnt offering, to make atonement for the Levites.
+</p>
 
 <p>
-v23: The LORD spoke to Moses, saying,
-v24: “This concerns the Levites: from twenty-five years old and upward they will enter to participate in the service at the Tent of Meeting.
-v25: At fifty years old they will withdraw from the work of the service and will serve no longer.
-v26: They may assist their brothers at the Tent of Meeting in keeping charge, but they will perform no service. Thus you will do concerning the Levites and their responsibilities.”
+v13: Have the Levites stand before Aaron and his sons, and present them as a wave offering to the LORD.
+v14: In this way you are to separate the Levites from the rest of the Israelites. The Levites will belong to me.
+</p>
+
+<p>
+v15: After this, the Levites may enter to serve at the tent of meeting. You must purify them and present them as a wave offering.
+v16: For they are given wholly to me from among the Israelites. I have taken them for myself in place of every firstborn son of Israel, everyone who first opens the womb.
+</p>
+
+<p>
+v17: Every firstborn among the Israelites belongs to me, human and animal alike. When I struck down every firstborn in Egypt, I set them apart as holy for myself.
+v18: I have taken the Levites in place of all the firstborn among the Israelites.
+v19: From among the Israelites I have given the Levites to Aaron and his sons as a gift. They are to do the Israelites’ work at the tent of meeting and make atonement for the Israelites, so no plague strikes the Israelites when the Israelites approach the sanctuary.”
+</p>
+
+<p>
+v20: Moses, Aaron and the whole Israelite community did this with the Levites. The Israelites did everything the LORD had commanded Moses concerning them.
+v21: The Levites purified themselves and washed their clothes. Aaron presented them as a wave offering before the LORD, and Aaron made atonement for them to purify them.
+v22: Afterward the Levites entered the tent of meeting to carry out their work under Aaron and his sons. Everything was done for the Levites just as the LORD had commanded Moses.
+</p>
+
+## The Levites’ years of service
+
+<p>
+v23: The LORD gave Moses this instruction:
+v24: “This is the rule for the Levites: from the age of twenty-five, a man is to join the company serving at the tent of meeting.
+v25: At fifty he must withdraw from that company’s work and no longer perform it.
+v26: He may assist his fellow Levites at the tent of meeting in keeping its charge, but he must not perform the work. This is how you are to arrange the Levites’ duties.”
 </p>
 
 ## Notes
 
-v02: The seven lamps are oriented toward the front of the lampstand, emphasizing the lampstand as a unified source of light rather than seven independent lamps.
+v2: The verb rendered “light” can also describe setting up the lamps. In either case, the instruction specifies the direction of their light.
 
-v07: Cleansing includes water, shaving, and washing clothing. These acts concern ritual preparation for service, not moral inferiority of the Levites.
+v4: The Hebrew does not name the maker in its final clause. The passive “it was made” leaves the craftsman unspecified.
 
-v10–11: The Israelites lay hands upon the Levites, and the Levites themselves are presented as an “elevation offering,” symbolically given by Israel to the LORD for sanctuary service.
+v7: The Hebrew expression for the water uses the same word as “sin offering” or “purification offering.” Its ingredients are not given here.
 
-v19: Levitical service protects the congregation by maintaining the boundaries around the sanctuary.
+v11–15: “Wave offering” is the term used for gifts presented before the LORD. Here the Levites themselves are presented. The text does not explain the physical action or say that Aaron literally lifted each man.
 
-v24: Numbers 4 counts active bearers from thirty to fifty, while this verse begins Levitical participation at twenty-five. The text does not explain the relationship between the two ages; later stages of apprenticeship or differing duties are possible but should not be imposed on the main text.
+v19: The Levites’ service is said to make atonement for the Israelites and protect them from a plague associated with approaching the sanctuary. The passage distinguishes this role from Aaron’s priestly work.
+
+v24–26: The starting age is twenty-five here, but thirty in chapter 4. A period of preparation or different kinds of service may account for the difference, but neither explanation is stated explicitly. After fifty, assistance and keeping charge continue, while the designated work ends; the exact division is not explained.
 
 ## Vocabulary
 
-v02: מְנוֹרָה (menorah)
-“Lampstand.” The seven-lamped golden stand of the sanctuary.
+v6: Purify — ṭaher
+Make ritually clean for the service described here. Ritual uncleanness is not necessarily personal wrongdoing.
 
-v07: חַטָּאת (chatta't)
-“Purification” or “sin.” The root can refer to removal of impurity as well as sin offering contexts.
+v11: Wave offering — tenufah
+A gift presented before the LORD; here the term is applied to the Levites.
 
-v11: תְּנוּפָה (tenufah)
-“Elevation offering” or “wave offering.” Something presented before the LORD in a ritual gesture.
+v16: Firstborn
+The one who first opens the womb. The Levites are taken in place of Israel’s firstborn sons; see Numbers 3:11–13.
 
-v14: בָּדַל (badal)
-“To separate.” To distinguish for a particular sacred purpose.
-
-v26: שָׁמַר מִשְׁמֶרֶת (shamar mishmeret)
-“To keep charge.” To assist in guarding entrusted sanctuary responsibilities.
+v26: Keep the charge — shamar mishmeret
+Attend to an entrusted responsibility. Here that continuing duty is distinguished from the work that ends at fifty.

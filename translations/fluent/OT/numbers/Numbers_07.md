@@ -4,205 +4,187 @@ testament: OT
 chapter: 7
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-7-8-biblical-fluency-2026-09-11
 ---
 
-## Offerings for the Tabernacle
+## Carts for the Levites
 
 <p>
-v01: On the day Moses finished setting up the tabernacle, he anointed it and consecrated it with all its furnishings, and the altar with all its utensils; he anointed them and consecrated them.
-v02: Then the leaders of Israel, the heads of their ancestral houses, made offerings. They were the leaders of the tribes, the ones who had overseen the counting.
-v03: They brought their offering before the LORD: six covered wagons and twelve oxen—one wagon from every two leaders and one ox from each. They presented them before the tabernacle.
-v04: The LORD spoke to Moses, saying,
-v05: “Accept these from them, so that they may be used for the service of the Tent of Meeting. Give them to the Levites, to each according to their service.”
+v01: When Moses finished setting up the tabernacle, he anointed it and made it holy, along with all its furnishings. He also anointed the altar and all its utensils and made them holy.
+v02: Then Israel’s leaders brought their offerings. These were the heads of their ancestral households, the tribal leaders who supervised the census.
+v03: Their offering before the LORD was six covered carts and twelve oxen: one cart for every two leaders and one ox from each leader. They brought them to the front of the tabernacle.
 </p>
 
 <p>
-v06: So Moses took the wagons and oxen and gave them to the Levites.
-v07: He gave two wagons and four oxen to the Gershonites according to their service.
-v08: He gave four wagons and eight oxen to the Merarites according to their service, under the direction of Ithamar son of Aaron the priest.
-v09: But to the Kohathites he gave none, because their service concerned the holy things, which they carried on their shoulders.
+v04: The LORD said to Moses,
+v05: “Accept these from them for the work of the tent of meeting. Give them to the Levites, assigning to each man what his work requires.”
 </p>
 
-## The Dedication of the Altar
-
 <p>
-v10: The leaders brought offerings for the dedication of the altar on the day it was anointed; the leaders brought their offering before the altar.
-v11: The LORD said to Moses, “One leader each day will bring an offering for the dedication of the altar.”
+v06: Moses accepted the carts and oxen and distributed them to the Levites.
+v07: He assigned two carts and four oxen to the Gershonites for the work they had to do.
+v08: He assigned four carts and eight oxen to the Merarites for the work they had to do, under Ithamar, the son of Aaron the priest.
+v09: But he gave none to the Kohathites. They were responsible for the holy things and had to carry them on their shoulders.
 </p>
 
-## The First Day: Judah
+## Gifts for the altar’s dedication
 
 <p>
-v12: The one who brought his offering on the first day was Nahshon son of Amminadab, from the tribe of Judah.
-v13: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v14: one gold pan weighing ten shekels, full of incense;
-v15: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v16: one male goat for a sin offering;
-v17: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nahshon son of Amminadab.
+v10: The leaders brought offerings for the altar’s dedication when it was anointed. They brought their offerings before the altar.
+v11: The LORD told Moses, “One leader each day—one leader each day—is to bring his offering for the altar’s dedication.”
 </p>
 
-## The Second Day: Issachar
-
 <p>
-v18: On the second day Nethanel son of Zuar, leader of Issachar, brought his offering.
-v19: He brought as his offering one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v20: one gold pan weighing ten shekels, full of incense;
-v21: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v22: one male goat for a sin offering;
-v23: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nethanel son of Zuar.
+v12: On the first day, Nahshon son of Amminadab brought his offering for the tribe of Judah.
+v13: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v14: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v15: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v16: for the sin offering, one male goat;
+v17: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Nahshon son of Amminadab.
 </p>
 
-## The Third Day: Zebulun
-
 <p>
-v24: On the third day came the leader of the Zebulunites, Eliab son of Helon.
-v25: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v26: one gold pan weighing ten shekels, full of incense;
-v27: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v28: one male goat for a sin offering;
-v29: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliab son of Helon.
+v18: On the second day, Nethanel son of Zuar, the leader of Issachar, brought his offering.
+v19: He brought one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v20: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v21: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v22: for the sin offering, one male goat;
+v23: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Nethanel son of Zuar.
 </p>
 
-## The Fourth Day: Reuben
-
 <p>
-v30: On the fourth day came the leader of the Reubenites, Elizur son of Shedeur.
-v31: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v32: one gold pan weighing ten shekels, full of incense;
-v33: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v34: one male goat for a sin offering;
-v35: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elizur son of Shedeur.
+v24: On the third day, Eliab son of Helon, the leader of Zebulun, brought his offering.
+v25: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v26: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v27: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v28: for the sin offering, one male goat;
+v29: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Eliab son of Helon.
 </p>
 
-## The Fifth Day: Simeon
-
 <p>
-v36: On the fifth day came the leader of the Simeonites, Shelumiel son of Zurishaddai.
-v37: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v38: one gold pan weighing ten shekels, full of incense;
-v39: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v40: one male goat for a sin offering;
-v41: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Shelumiel son of Zurishaddai.
+v30: On the fourth day, Elizur son of Shedeur, the leader of Reuben, brought his offering.
+v31: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v32: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v33: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v34: for the sin offering, one male goat;
+v35: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Elizur son of Shedeur.
 </p>
 
-## The Sixth Day: Gad
-
 <p>
-v42: On the sixth day came the leader of the Gadites, Eliasaph son of Deuel.
-v43: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v44: one gold pan weighing ten shekels, full of incense;
-v45: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v46: one male goat for a sin offering;
-v47: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliasaph son of Deuel.
+v36: On the fifth day, Shelumiel son of Zurishaddai, the leader of Simeon, brought his offering.
+v37: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v38: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v39: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v40: for the sin offering, one male goat;
+v41: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Shelumiel son of Zurishaddai.
 </p>
 
-## The Seventh Day: Ephraim
-
 <p>
-v48: On the seventh day came the leader of the Ephraimites, Elishama son of Ammihud.
-v49: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v50: one gold pan weighing ten shekels, full of incense;
-v51: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v52: one male goat for a sin offering;
-v53: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elishama son of Ammihud.
+v42: On the sixth day, Eliasaph son of Deuel, the leader of Gad, brought his offering.
+v43: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v44: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v45: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v46: for the sin offering, one male goat;
+v47: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Eliasaph son of Deuel.
 </p>
 
-## The Eighth Day: Manasseh
-
 <p>
-v54: On the eighth day came the leader of the Manassites, Gamaliel son of Pedahzur.
-v55: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v56: one gold pan weighing ten shekels, full of incense;
-v57: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v58: one male goat for a sin offering;
-v59: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Gamaliel son of Pedahzur.
+v48: On the seventh day, Elishama son of Ammihud, the leader of Ephraim, brought his offering.
+v49: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v50: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v51: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v52: for the sin offering, one male goat;
+v53: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Elishama son of Ammihud.
 </p>
 
-## The Ninth Day: Benjamin
-
 <p>
-v60: On the ninth day came the leader of the Benjaminites, Abidan son of Gideoni.
-v61: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v62: one gold pan weighing ten shekels, full of incense;
-v63: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v64: one male goat for a sin offering;
-v65: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Abidan son of Gideoni.
+v54: On the eighth day, Gamaliel son of Pedahzur, the leader of Manasseh, brought his offering.
+v55: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v56: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v57: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v58: for the sin offering, one male goat;
+v59: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Gamaliel son of Pedahzur.
 </p>
 
-## The Tenth Day: Dan
-
 <p>
-v66: On the tenth day came the leader of the Danites, Ahiezer son of Ammishaddai.
-v67: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v68: one gold pan weighing ten shekels, full of incense;
-v69: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v70: one male goat for a sin offering;
-v71: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahiezer son of Ammishaddai.
+v60: On the ninth day, Abidan son of Gideoni, the leader of Benjamin, brought his offering.
+v61: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v62: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v63: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v64: for the sin offering, one male goat;
+v65: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Abidan son of Gideoni.
 </p>
 
-## The Eleventh Day: Asher
-
 <p>
-v72: On the eleventh day came the leader of the Asherites, Pagiel son of Ochran.
-v73: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v74: one gold pan weighing ten shekels, full of incense;
-v75: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v76: one male goat for a sin offering;
-v77: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Pagiel son of Ochran.
+v66: On the tenth day, Ahiezer son of Ammishaddai, the leader of Dan, brought his offering.
+v67: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v68: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v69: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v70: for the sin offering, one male goat;
+v71: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Ahiezer son of Ammishaddai.
 </p>
 
-## The Twelfth Day: Naphtali
-
 <p>
-v78: On the twelfth day came the leader of the Naphtalites, Ahira son of Enan.
-v79: His offering was one silver plate weighing one hundred thirty shekels, one silver basin weighing seventy shekels according to the sanctuary shekel, both full of fine flour mixed with oil for a grain offering;
-v80: one gold pan weighing ten shekels, full of incense;
-v81: one young bull, one ram, and one male lamb a year old for a burnt offering;
-v82: one male goat for a sin offering;
-v83: and for a sacrifice of well-being, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahira son of Enan.
+v72: On the eleventh day, Pagiel son of Ochran, the leader of Asher, brought his offering.
+v73: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v74: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v75: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v76: for the sin offering, one male goat;
+v77: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Pagiel son of Ochran.
 </p>
 
-## The Totals of the Dedication Offerings
-
 <p>
-v84: This was the dedication offering for the altar from the leaders of Israel when it was anointed: twelve silver plates, twelve silver basins, and twelve gold pans.
-v85: Each silver plate weighed one hundred thirty shekels, and each basin seventy. All the silver of the vessels was two thousand four hundred shekels according to the sanctuary shekel.
-v86: The twelve gold pans full of incense weighed ten shekels each according to the sanctuary shekel; all the gold of the pans was one hundred twenty shekels.
-v87: All the cattle for the burnt offering were twelve bulls, twelve rams, and twelve male lambs a year old, with their grain offerings; and twelve male goats for a sin offering.
-v88: All the cattle for the sacrifice of well-being were twenty-four bulls, sixty rams, sixty male goats, and sixty male lambs a year old. This was the dedication offering for the altar after it was anointed.
+v78: On the twelfth day, Ahira son of Enan, the leader of Naphtali, brought his offering.
+v79: His gift included one silver dish weighing 130 shekels and one silver basin weighing 70 shekels, measured by the sanctuary shekel. Both were filled with fine flour mixed with oil for a grain offering.
+v80: He also brought one gold ladle weighing 10 shekels, filled with incense.
+v81: For the burnt offering he brought one young bull, one ram and one year-old male lamb;
+v82: for the sin offering, one male goat;
+v83: and for the peace-offering sacrifice, two bulls, five rams, five male goats and five male lambs a year old. This was the offering of Ahira son of Enan.
 </p>
 
-## The Voice from Above the Ark
+## The gifts counted together
 
 <p>
-v89: When Moses entered the Tent of Meeting to speak with the LORD, he heard the voice speaking to him from above the cover that was on the ark of the testimony, from between the two cherubim. And the LORD spoke to him.
+v84: These were the gifts from Israel’s leaders for the altar’s dedication when it was anointed: twelve silver dishes, twelve silver basins and twelve gold ladles.
+v85: Each silver dish weighed 130 shekels, and each basin weighed 70. Together the silver vessels weighed 2,400 shekels by the sanctuary standard.
+v86: The twelve gold ladles filled with incense weighed 10 shekels each by the sanctuary standard. Together the ladles’ gold weighed 120 shekels.
+v87: For the burnt offering there were twelve bulls, twelve rams and twelve male lambs a year old, with their grain offering. There were also twelve male goats for the sin offering.
+v88: For the peace-offering sacrifice there were twenty-four bulls, sixty rams, sixty male goats and sixty male lambs a year old. These were the gifts for the altar’s dedication after it was anointed.
+</p>
+
+## The voice in the tent
+
+<p>
+v89: When Moses entered the tent of meeting to speak with the LORD, he heard the voice speaking to him from above the atonement cover on the ark of the testimony, between the two cherubim. The LORD spoke to him there.
 </p>
 
 ## Notes
 
-v03: The leaders’ wagons and oxen are distributed according to the actual burdens of the Levitical clans, while the Kohathites receive none because the most holy objects are carried on the shoulder.
+v1: The account returns to the setting up and anointing of the tabernacle described in Exodus 40 and Leviticus 8. The chapter need not be read as the next event after Numbers 6.
 
-v10–83: The text repeats each tribal offering in full rather than abbreviating the later days. TSW preserves that repetition because the equal presentation of each tribe is part of the literary form.
+v3: “Covered carts” translates an uncertain description of the carts; their exact construction is not specified.
 
-v13: “sanctuary shekel” — The weights of precious metal are measured according to the sanctuary standard.
+v12–83: Each tribe’s gifts are recounted in full, with the same quantities and categories. The repetition also preserves each leader’s name and place in the twelve-day sequence.
 
-v84–88: The summary gathers the twelve identical offerings into a single total, reinforcing both tribal equality and the completeness of the dedication.
+v14: The gold utensil is called a kaf, a word also used for a hand or a spoonlike vessel. “Ladle” follows the wording in Exodus 25:29; its precise shape is uncertain. The weight unit, shekels, is supplied from the surrounding list.
 
-v89: The chapter moves from public offerings to the voice heard by Moses above the ark, returning the material dedication to its purpose: encounter with the LORD.
+v42: The Hebrew names Eliasaph’s father Deuel here and in 1:14, but Reuel in 2:14. Both forms are retained where they occur.
+
+v89: The Hebrew first says “to speak with him”; the LORD is understood from the setting. The final “he spoke to him” is also ambiguous: it can describe the LORD speaking to Moses, as rendered here, or Moses speaking to the LORD.
 
 ## Vocabulary
 
-v03: עֲגָלָה (agalah)
-“Wagon.” A wheeled vehicle used here for transporting sanctuary materials.
+v10: Dedication — ḥanukkah
+The inauguration of the altar for its sacred use, accompanied here by offerings.
 
-v10: חֲנֻכָּה (chanukkah)
-“Dedication.” The initiation of the altar for sacred use.
+v13: Sanctuary shekel
+The weight standard used for these gifts. A shekel here is a unit of weight, not a coin.
 
-v17: שֶׁלֶם (shelem)
-“Well-being offering.” A sacrifice associated with peace, wholeness, and shared fellowship.
+v16: Sin offering — ḥaṭṭat
+The offering also called a purification offering; see Leviticus 4–5.
 
-v89: כַּפֹּרֶת (kapporet)
-“Cover” or “atonement cover.” The cover over the ark from above which the divine voice is heard.
-
-v89: כְּרוּב (keruv)
-“Cherub.” A heavenly throne guardian represented above the ark.
+v89: Atonement cover — kapporet
+The gold cover above the ark, traditionally called the mercy seat; see Exodus 25:17–22.

@@ -1,0 +1,1170 @@
+{
+  "scope": "Numbers 7–8; 115 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 101,
+      "near_identical_verses": 12,
+      "mean_similarity": 0.993203,
+      "verses": [
+        {
+          "reference": "Numbers 7:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:11",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Numbers 7:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:37",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:38",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:39",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:40",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:41",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:42",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:43",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:44",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:45",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:46",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:47",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:48",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:49",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:50",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:51",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:52",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:53",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:54",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:55",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:56",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:57",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:58",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:59",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:60",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:61",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:62",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:63",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:64",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:65",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:66",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:67",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:68",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:69",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:70",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:71",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:72",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:73",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:74",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:75",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:76",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:77",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:78",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:79",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:80",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:81",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:82",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:83",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:84",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:85",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:86",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:87",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:88",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 7:89",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:2",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Numbers 8:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:7",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Numbers 8:8",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Numbers 8:9",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Numbers 8:10",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Numbers 8:11",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Numbers 8:12",
+          "identical": false,
+          "similarity": 0.970588
+        },
+        {
+          "reference": "Numbers 8:13",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Numbers 8:14",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Numbers 8:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:19",
+          "identical": false,
+          "similarity": 0.989899
+        },
+        {
+          "reference": "Numbers 8:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 8:24",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Numbers 8:25",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Numbers 8:26",
+          "identical": false,
+          "similarity": 0.931034
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 3,
+      "mean_similarity": 0.611449,
+      "verses": [
+        {
+          "reference": "Numbers 7:1",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Numbers 7:2",
+          "identical": false,
+          "similarity": 0.458333
+        },
+        {
+          "reference": "Numbers 7:3",
+          "identical": false,
+          "similarity": 0.730159
+        },
+        {
+          "reference": "Numbers 7:4",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 7:5",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 7:6",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Numbers 7:7",
+          "identical": false,
+          "similarity": 0.580645
+        },
+        {
+          "reference": "Numbers 7:8",
+          "identical": false,
+          "similarity": 0.612245
+        },
+        {
+          "reference": "Numbers 7:9",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:10",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Numbers 7:11",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Numbers 7:12",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 7:13",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:14",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:15",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:16",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:17",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:18",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Numbers 7:19",
+          "identical": false,
+          "similarity": 0.695652
+        },
+        {
+          "reference": "Numbers 7:20",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:21",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:22",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:23",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:24",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:25",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:26",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:27",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:28",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:29",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:30",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:31",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:32",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:33",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:34",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:35",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:36",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:37",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:38",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:39",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:40",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:41",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:42",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:43",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:44",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:45",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:46",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:47",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:48",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:49",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:50",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:51",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:52",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:53",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:54",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:55",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:56",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:57",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:58",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:59",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:60",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:61",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:62",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:63",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:64",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:65",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:66",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:67",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:68",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:69",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:70",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:71",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:72",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:73",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:74",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:75",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:76",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:77",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:78",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 7:79",
+          "identical": false,
+          "similarity": 0.676471
+        },
+        {
+          "reference": "Numbers 7:80",
+          "identical": false,
+          "similarity": 0.47619
+        },
+        {
+          "reference": "Numbers 7:81",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Numbers 7:82",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 7:83",
+          "identical": false,
+          "similarity": 0.847458
+        },
+        {
+          "reference": "Numbers 7:84",
+          "identical": false,
+          "similarity": 0.576923
+        },
+        {
+          "reference": "Numbers 7:85",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Numbers 7:86",
+          "identical": false,
+          "similarity": 0.489796
+        },
+        {
+          "reference": "Numbers 7:87",
+          "identical": false,
+          "similarity": 0.806452
+        },
+        {
+          "reference": "Numbers 7:88",
+          "identical": false,
+          "similarity": 0.732394
+        },
+        {
+          "reference": "Numbers 7:89",
+          "identical": false,
+          "similarity": 0.926829
+        },
+        {
+          "reference": "Numbers 8:1",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Numbers 8:2",
+          "identical": false,
+          "similarity": 0.608696
+        },
+        {
+          "reference": "Numbers 8:3",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Numbers 8:4",
+          "identical": false,
+          "similarity": 0.590164
+        },
+        {
+          "reference": "Numbers 8:5",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Numbers 8:6",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Numbers 8:7",
+          "identical": false,
+          "similarity": 0.428571
+        },
+        {
+          "reference": "Numbers 8:8",
+          "identical": false,
+          "similarity": 0.862069
+        },
+        {
+          "reference": "Numbers 8:9",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Numbers 8:10",
+          "identical": false,
+          "similarity": 0.848485
+        },
+        {
+          "reference": "Numbers 8:11",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Numbers 8:12",
+          "identical": false,
+          "similarity": 0.794118
+        },
+        {
+          "reference": "Numbers 8:13",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 8:14",
+          "identical": false,
+          "similarity": 0.486486
+        },
+        {
+          "reference": "Numbers 8:15",
+          "identical": false,
+          "similarity": 0.708333
+        },
+        {
+          "reference": "Numbers 8:16",
+          "identical": false,
+          "similarity": 0.516129
+        },
+        {
+          "reference": "Numbers 8:17",
+          "identical": false,
+          "similarity": 0.631579
+        },
+        {
+          "reference": "Numbers 8:18",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Numbers 8:19",
+          "identical": false,
+          "similarity": 0.659794
+        },
+        {
+          "reference": "Numbers 8:20",
+          "identical": false,
+          "similarity": 0.518519
+        },
+        {
+          "reference": "Numbers 8:21",
+          "identical": false,
+          "similarity": 0.821429
+        },
+        {
+          "reference": "Numbers 8:22",
+          "identical": false,
+          "similarity": 0.548387
+        },
+        {
+          "reference": "Numbers 8:23",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Numbers 8:24",
+          "identical": false,
+          "similarity": 0.52
+        },
+        {
+          "reference": "Numbers 8:25",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Numbers 8:26",
+          "identical": false,
+          "similarity": 0.491803
+        }
+      ]
+    }
+  }
+}
