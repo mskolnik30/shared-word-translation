@@ -4,60 +4,81 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-1-3-biblical-fluency-2026-09-11
 ---
 
-## The Sacrifice of Well-Being from the Herd
+## A peace offering from the herd
 
 <p>
-v01: If a person’s offering is a sacrifice of well-being, and it is offered from the herd, whether male or female, the person will present before the LORD an animal without defect.
-v02: The person will lay a hand on the head of the offering and slaughter it at the entrance of the Tent of Meeting. Aaron’s sons, the priests, will dash the blood against all sides of the altar.
-v03: From the sacrifice of well-being the person will bring as an offering by fire to the LORD the fat that covers the entrails and all the fat that is around the entrails,
-v04: the two kidneys with the fat on them near the loins, and the appendage of the liver, which will be removed with the kidneys.
-v05: Aaron’s sons will turn these into smoke on the altar, on top of the burnt offering that is on the wood over the fire. It is an offering by fire, a pleasing aroma to the LORD.
+v01: “If someone brings a peace offering from the herd, the animal presented before the LORD may be male or female, but it must be without defect.
+v02: The person bringing it is to lay a hand on its head and slaughter it at the entrance to the tent of meeting. Aaron’s sons, the priests, are to splash the blood against all sides of the altar.
 </p>
 
-## From the Flock
-
 <p>
-v06: If the offering to the LORD as a sacrifice of well-being is from the flock, whether male or female, the person will present an animal without defect.
-v07: If a lamb is brought as the offering, it will be presented before the LORD.
-v08: The person will lay a hand on the head of the offering and slaughter it before the Tent of Meeting, and Aaron’s sons will dash its blood against all sides of the altar.
-v09: From the sacrifice of well-being the person will bring as an offering by fire to the LORD its fat: the entire fat tail, removed close to the backbone, the fat that covers the entrails, and all the fat around the entrails,
-v10: the two kidneys with the fat on them near the loins, and the appendage of the liver, removed with the kidneys.
-v11: The priest will turn these into smoke on the altar as food, an offering by fire to the LORD.
+v03: From this peace offering, the person bringing it is to present these parts to the LORD as an offering by fire: the fat covering the entrails and all the fat on the entrails,
+v04: both kidneys and the fat on them near the loins, and the lobe of the liver, which they are to remove along with the kidneys.
+v05: Aaron’s sons are to burn these on the altar, on top of the burnt offering that rests on the wood over the fire—an offering by fire with a pleasing aroma to the LORD.
 </p>
 
-## From the Goats
+## A peace offering from the flock
 
 <p>
-v12: If the offering is a goat, the person will present it before the LORD.
-v13: The person will lay a hand on its head and slaughter it before the Tent of Meeting, and the sons of Aaron will dash its blood against all sides of the altar.
-v14: From it the person will bring as an offering by fire to the LORD the fat that covers the entrails and all the fat around the entrails,
-v15: the two kidneys with the fat on them near the loins, and the appendage of the liver, removed with the kidneys.
-v16: The priest will turn them into smoke on the altar as food, an offering by fire for a pleasing aroma. All the fat belongs to the LORD.
-v17: This will be a perpetual statute throughout your generations, in all your dwellings: you will eat neither fat nor blood.”
+v06: If the peace offering brought to the LORD comes from the flock, the animal may be male or female, but it must be without defect.
+</p>
+
+<p>
+v07: If the offering is a sheep, the person bringing it must present it before the LORD.
+v08: They are to lay a hand on its head and slaughter it in front of the tent of meeting. Aaron’s sons are to splash its blood against all sides of the altar.
+</p>
+
+<p>
+v09: From this peace offering, the person bringing it is to present its fat as an offering by fire to the LORD: the entire fat tail, cut off close to the backbone, the fat covering the entrails, and all the fat on the entrails,
+v10: both kidneys and the fat on them near the loins, and the lobe of the liver, which they are to remove along with the kidneys.
+v11: The priest is to burn these on the altar as food, an offering by fire to the LORD.
+</p>
+
+## A goat as a peace offering
+
+<p>
+v12: If the offering is a goat, the person bringing it must present it before the LORD.
+v13: They are to lay a hand on its head and slaughter it in front of the tent of meeting. Aaron’s sons are to splash its blood against all sides of the altar.
+</p>
+
+<p>
+v14: From the goat, the person bringing it is to present these parts as their offering by fire to the LORD: the fat covering the entrails and all the fat on the entrails,
+v15: both kidneys and the fat on them near the loins, and the lobe of the liver, which they are to remove along with the kidneys.
+v16: The priest is to burn these on the altar as food, an offering by fire with a pleasing aroma. All the fat belongs to the LORD.
+</p>
+
+## Fat and blood
+
+<p>
+v17: This is a lasting statute throughout your generations, wherever you live: you must not eat any fat or any blood.”
 </p>
 
 ## Notes
 
-v01: “sacrifice of well-being” — The Hebrew *shelamim* is related to *shalom* and can carry senses of well-being, wholeness, or peace. TSW uses “well-being” to preserve that wider range.
+v1,6: These offerings may be male or female; the herd and flock burnt offerings in chapter 1 require males. The animal categories and their requirements remain distinct.
 
-v03–04: The portions assigned to the altar are described with anatomical precision, emphasizing that the offering follows a prescribed ritual order.
+v4,10,15: The expression rendered “lobe of the liver” is also understood as an appendage or fatty covering associated with the liver. The exact anatomy is uncertain, as in Exodus 29:13,22. See the [NET translator notes](https://www.biblegateway.com/passage/?search=Leviticus+3&version=NET).
 
-v11: “food” — Sacrificial language can speak of altar portions as God’s “food” without implying literal divine need.
+v9: The whole fat tail is included for sheep. It is not added to the cattle or goat instructions.
 
-v17: The prohibition of eating blood becomes especially important in Leviticus 17, where blood is explicitly associated with life.
+v17: The fat prohibition follows the portions reserved for the altar. Its fuller scope is addressed in 7:22–25; the broad wording here is retained.
 
 ## Vocabulary
 
-v01: שְׁלָמִים (shelamim)
-“Well-being offerings.” Sacrifices associated with wholeness, peace, and shared celebration.
+v1: šĕlāmîm — peace offerings
+Also called offerings of well-being or fellowship. The term names a sacrificial category, not simply an offering made to end a conflict.
 
-v03: חֵלֶב (chelev)
-“Fat.” Especially the select fat portions reserved for the altar.
+v3: ḥēleb — fat
+Here the specified fat portions associated with the entrails, kidneys, and—in sheep—the tail.
 
-v11: לֶחֶם (lechem)
-“Bread” or “food.” Used here for the altar portion of the sacrifice.
+v11,16: leḥem — food
+Often translated bread elsewhere; here it describes the altar offering as food. The concrete image is retained.
 
-v17: דָּם (dam)
-“Blood.” Life-bearing blood, prohibited as food.
+v17: ḥuqqat ʿôlām — lasting statute
+A continuing requirement for Israel’s generations, wherever they live.

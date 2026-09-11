@@ -4,67 +4,77 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-1-3-biblical-fluency-2026-09-11
 ---
 
-## The Grain Offering
+## Fine flour, oil, and frankincense
 
 <p>
-v01: When anyone brings a grain offering to the LORD, the offering will be fine flour. The person will pour oil on it and place frankincense on it,
-v02: and bring it to Aaron’s sons, the priests. The priest will take from it a handful of the fine flour and oil, together with all its frankincense, and turn its memorial portion into smoke on the altar, an offering by fire, a pleasing aroma to the LORD.
-v03: What remains of the grain offering belongs to Aaron and his sons. It is most holy from the offerings by fire to the LORD.
+v01: “When someone brings a grain offering to the LORD, the offering must be fine flour. They are to pour oil on it and add frankincense.
+v02: They are to bring it to Aaron’s sons, the priests. The priest is to take a handful of its flour and oil, along with all its frankincense, and burn this memorial portion on the altar—an offering by fire with a pleasing aroma to the LORD.
+v03: The rest of the grain offering belongs to Aaron and his sons. It is a most holy part of the LORD’s offerings by fire.
 </p>
 
-## Baked Grain Offerings
+## Prepared grain offerings
 
 <p>
-v04: When you bring a grain offering baked in an oven, it will be unleavened cakes of fine flour mixed with oil, or unleavened wafers spread with oil.
-v05: If your offering is a grain offering prepared on a griddle, it will be fine flour mixed with oil and unleavened.
-v06: Break it into pieces and pour oil on it. It is a grain offering.
-v07: If your offering is a grain offering prepared in a pan, it will be made of fine flour with oil.
+v04: If you bring a grain offering baked in an oven, it must be fine flour made into unleavened cakes mixed with oil or unleavened wafers spread with oil.
+v05: If your grain offering is prepared on a griddle, it must be fine flour mixed with oil and made without leaven.
+v06: Break it into pieces and pour oil over it. It is a grain offering.
 </p>
 
 <p>
-v08: You will bring to the LORD the grain offering made from these things. It will be presented to the priest, who will bring it to the altar.
-v09: The priest will lift from the grain offering its memorial portion and turn it into smoke on the altar, an offering by fire, a pleasing aroma to the LORD.
-v10: What remains of the grain offering belongs to Aaron and his sons. It is most holy from the offerings by fire to the LORD.
+v07: If your grain offering is prepared in a pan, it must be made from fine flour with oil.
 </p>
 
-## Yeast, Honey, and Salt
-
 <p>
-v11: No grain offering that you bring to the LORD will be made with yeast, for you will not turn any yeast or any honey into smoke as an offering by fire to the LORD.
-v12: You may bring them to the LORD as an offering of first produce, but they will not go up on the altar as a pleasing aroma.
-v13: You will season every grain offering with salt. You will not let the salt of the covenant of your God be missing from your grain offering. With every offering you will bring salt.
+v08: Bring the grain offering made in any of these ways to the LORD. Present it to the priest, who is to bring it to the altar.
+v09: The priest is to take the memorial portion from the grain offering and burn it on the altar—an offering by fire with a pleasing aroma to the LORD.
+v10: The rest of the grain offering belongs to Aaron and his sons. It is a most holy part of the LORD’s offerings by fire.
 </p>
 
-## First Produce
+## Leaven, honey, and salt
 
 <p>
-v14: If you bring a grain offering of first produce to the LORD, you will bring fresh heads of grain roasted in fire, crushed grain from the fresh crop, as the grain offering of your first produce.
-v15: You will put oil on it and place frankincense on it. It is a grain offering.
-v16: The priest will turn into smoke as its memorial portion some of the crushed grain and oil, together with all its frankincense. It is an offering by fire to the LORD.
+v11: No grain offering you bring to the LORD may be made with leaven. You must not burn any leaven or honey as an offering by fire to the LORD.
+v12: You may bring them to the LORD as an offering of first produce, but they must not go up on the altar as a pleasing aroma.
+v13: Season every grain offering with salt. Do not leave the salt of your God’s covenant out of your grain offering. Bring salt with every offering you present.
+</p>
+
+## An offering of firstfruits
+
+<p>
+v14: If you bring a grain offering of firstfruits to the LORD, bring fresh ears of grain roasted in the fire, crushed kernels of new grain, as your firstfruits offering.
+v15: Put oil on it and add frankincense. It is a grain offering.
+v16: The priest is to burn its memorial portion—some of its crushed grain and oil, along with all its frankincense—as an offering by fire to the LORD.”
 </p>
 
 ## Notes
 
-v01: “grain offering” — The Hebrew *minchah* can mean a gift or tribute more broadly; in Leviticus it becomes a technical term for this non-animal offering.
+v2: The Hebrew does not name the person taking the handful. This draft understands the priest, as in verse 9; the person bringing the offering is another grammatical possibility. See the [NET translator notes](https://www.biblegateway.com/passage/?search=Leviticus+2&version=NET).
 
-v02: “memorial portion” — Only part of the grain offering is burned; the remainder supports the priests. The Hebrew term links the burned portion with remembrance before God without explaining the mechanism.
+v8: The Hebrew shifts from “you” to “he.” The English keeps the transfer from the person bringing the offering to the priest clear.
 
-v11: Yeast and honey are excluded from what is turned into smoke on the altar, though v12 permits them in first-produce offerings.
+v11–12: The restriction concerns altar burning. The following verse allows leaven and honey to be presented as first produce; the two actions should not be confused.
 
-v13: “salt of the covenant” — Salt is associated with enduring covenantal obligation. The phrase is retained without reducing it to a single symbolic explanation.
+v14: The grain descriptions may describe a single preparation or different forms of early grain. The draft keeps the descriptions together without adding a precise recipe.
 
 ## Vocabulary
 
-v01: מִנְחָה (minchah)
-“Grain offering” or “gift.” An offering of grain, oil, and sometimes frankincense.
+v1: minḥāh — grain offering
+Elsewhere the word can mean a gift or tribute. Here it names offerings of flour or grain, distinct from the animal offerings.
 
-v02: אַזְכָּרָה (azkarah)
-“Memorial portion.” The portion turned into smoke on the altar.
+v1: lĕbōnāh — frankincense
+An aromatic resin, specified here rather than incense in general.
 
-v11: חָמֵץ (chamets)
-“Yeast” or “leavened substance.” Fermented dough excluded from altar fire offerings here.
+v2: ʾazkārāh — memorial portion
+The portion burned on the altar; the remainder belongs to Aaron and his sons.
 
-v13: מֶלַח (melach)
-“Salt.” Required with every grain offering and linked here with covenant.
+v4–5: maṣṣāh — unleavened
+Made without leaven, material that causes dough to rise.
+
+v13: bĕrît — covenant
+The salt is called the salt of God’s covenant. Its precise symbolic force is not explained here.
