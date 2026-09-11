@@ -51,11 +51,16 @@
       "scope": "Exodus 1–4",
       "verses": 100,
       "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json"
+    },
+    {
+      "scope": "Exodus 5–6",
+      "verses": 53,
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Exodus 5–18",
+      "scope": "Exodus 7–18",
       "action": "Continue from verified pinned Hebrew; follow confrontation, repeated demands and hardening agents, plagues, Passover, departure, sea crossing, and wilderness provision. Complete connected chapters with verse ledgers and checks."
     }
   ],

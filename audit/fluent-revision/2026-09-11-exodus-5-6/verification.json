@@ -1,0 +1,260 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T11:25:41.197534+00:00",
+  "base_commit": "084335a96cd6586583cadefbaeb016d9806ec1f8",
+  "scope": "Exodus 5–6; 53 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 61,
+    "verses": 1794
+  },
+  "source_record_count": 1213,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "5:1": [
+      "festival",
+      "Let my people go"
+    ],
+    "5:2": [
+      "listen to his voice",
+      "I do not know the LORD"
+    ],
+    "5:3": [
+      "three days",
+      "strike us",
+      "plague or sword"
+    ],
+    "5:6": [
+      "taskmasters and foremen"
+    ],
+    "5:8": [
+      "Do not reduce",
+      "lazy"
+    ],
+    "5:9": [
+      "men",
+      "lying words"
+    ],
+    "5:12": [
+      "stubble"
+    ],
+    "5:14": [
+      "Israelite foremen",
+      "were beaten",
+      "yesterday",
+      "today"
+    ],
+    "5:16": [
+      "your own people"
+    ],
+    "5:17": [
+      "Lazy",
+      "lazy"
+    ],
+    "5:21": [
+      "stink in the eyes",
+      "sword",
+      "kill us"
+    ],
+    "5:22": [
+      "you brought harm"
+    ],
+    "5:23": [
+      "he has brought harm",
+      "not rescued your people at all"
+    ],
+    "6:1": [
+      "strong hand",
+      "let them go",
+      "drive them out"
+    ],
+    "6:3": [
+      "God Almighty",
+      "I was not known to them"
+    ],
+    "6:4": [
+      "covenant",
+      "foreigners"
+    ],
+    "6:5": [
+      "I myself",
+      "enslaving",
+      "remembered my covenant"
+    ],
+    "6:6": [
+      "I will bring",
+      "I will rescue",
+      "I will redeem",
+      "outstretched arm",
+      "judgment"
+    ],
+    "6:7": [
+      "my people",
+      "your God"
+    ],
+    "6:8": [
+      "raised my hand in an oath",
+      "possession"
+    ],
+    "6:9": [
+      "because",
+      "spirits were crushed",
+      "labor was harsh"
+    ],
+    "6:12": [
+      "lips are uncircumcised"
+    ],
+    "6:14": [
+      "Hanoch, Pallu, Hezron, and Carmi"
+    ],
+    "6:15": [
+      "Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul",
+      "mother was a Canaanite"
+    ],
+    "6:16": [
+      "Gershon, Kohath, and Merari",
+      "hundred and thirty-seven"
+    ],
+    "6:17": [
+      "Libni and Shimei"
+    ],
+    "6:18": [
+      "Amram, Izhar, Hebron, and Uzziel",
+      "hundred and thirty-three"
+    ],
+    "6:19": [
+      "Mahli and Mushi"
+    ],
+    "6:20": [
+      "aunt Jochebed",
+      "Aaron and Moses",
+      "hundred and thirty-seven"
+    ],
+    "6:21": [
+      "Korah, Nepheg, and Zichri"
+    ],
+    "6:22": [
+      "Mishael, Elzaphan, and Sithri"
+    ],
+    "6:23": [
+      "Elisheba",
+      "daughter of Amminadab",
+      "sister of Nahshon",
+      "Nadab, Abihu, Eleazar, and Ithamar"
+    ],
+    "6:24": [
+      "Assir, Elkanah, and Abiasaph"
+    ],
+    "6:25": [
+      "one of Putiel’s daughters",
+      "Phinehas"
+    ],
+    "6:26": [
+      "Aaron and Moses",
+      "companies"
+    ],
+    "6:27": [
+      "Moses and Aaron"
+    ],
+    "6:30": [
+      "lips are uncircumcised"
+    ]
+  },
+  "source_annotation_6_6_hashed_in_full": true,
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read every Hebrew verse, drafted from that source with supplemental grammatical notes, read all TSW comparators, and reread the assembled English. The cause of the people’s not listening at 6:9 was made explicit. Names, ages, labor authorities, repeated accusations, kinship, and consequential ambiguities received focused checks. This is not independent editorial review.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

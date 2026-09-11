@@ -1,0 +1,550 @@
+{
+  "scope": "Exodus 5–6 only; 53 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical means nonidentical similarity >= 0.90. Triage only, not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 44,
+      "near_identical_verses": 9,
+      "mean_similarity": 0.993257,
+      "verses": [
+        {
+          "reference": "Exodus 5:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:2",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Exodus 5:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:5",
+          "identical": false,
+          "similarity": 0.97561
+        },
+        {
+          "reference": "Exodus 5:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:7",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Exodus 5:8",
+          "identical": false,
+          "similarity": 0.948718
+        },
+        {
+          "reference": "Exodus 5:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:18",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Exodus 5:19",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Exodus 5:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 5:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:6",
+          "identical": false,
+          "similarity": 0.97619
+        },
+        {
+          "reference": "Exodus 6:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:12",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Exodus 6:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Exodus 6:30",
+          "identical": false,
+          "similarity": 0.947368
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 0,
+      "near_identical_verses": 7,
+      "mean_similarity": 0.702401,
+      "verses": [
+        {
+          "reference": "Exodus 5:1",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Exodus 5:2",
+          "identical": false,
+          "similarity": 0.95082
+        },
+        {
+          "reference": "Exodus 5:3",
+          "identical": false,
+          "similarity": 0.820513
+        },
+        {
+          "reference": "Exodus 5:4",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 5:5",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 5:6",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Exodus 5:7",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 5:8",
+          "identical": false,
+          "similarity": 0.591549
+        },
+        {
+          "reference": "Exodus 5:9",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Exodus 5:10",
+          "identical": false,
+          "similarity": 0.565217
+        },
+        {
+          "reference": "Exodus 5:11",
+          "identical": false,
+          "similarity": 0.512821
+        },
+        {
+          "reference": "Exodus 5:12",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Exodus 5:13",
+          "identical": false,
+          "similarity": 0.526316
+        },
+        {
+          "reference": "Exodus 5:14",
+          "identical": false,
+          "similarity": 0.590164
+        },
+        {
+          "reference": "Exodus 5:15",
+          "identical": false,
+          "similarity": 0.611111
+        },
+        {
+          "reference": "Exodus 5:16",
+          "identical": false,
+          "similarity": 0.431373
+        },
+        {
+          "reference": "Exodus 5:17",
+          "identical": false,
+          "similarity": 0.820513
+        },
+        {
+          "reference": "Exodus 5:18",
+          "identical": false,
+          "similarity": 0.486486
+        },
+        {
+          "reference": "Exodus 5:19",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Exodus 5:20",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Exodus 5:21",
+          "identical": false,
+          "similarity": 0.717949
+        },
+        {
+          "reference": "Exodus 5:22",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Exodus 5:23",
+          "identical": false,
+          "similarity": 0.851852
+        },
+        {
+          "reference": "Exodus 6:1",
+          "identical": false,
+          "similarity": 0.853333
+        },
+        {
+          "reference": "Exodus 6:2",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Exodus 6:3",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Exodus 6:4",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Exodus 6:5",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Exodus 6:6",
+          "identical": false,
+          "similarity": 0.835443
+        },
+        {
+          "reference": "Exodus 6:7",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Exodus 6:8",
+          "identical": false,
+          "similarity": 0.925373
+        },
+        {
+          "reference": "Exodus 6:9",
+          "identical": false,
+          "similarity": 0.553191
+        },
+        {
+          "reference": "Exodus 6:10",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Exodus 6:11",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Exodus 6:12",
+          "identical": false,
+          "similarity": 0.653061
+        },
+        {
+          "reference": "Exodus 6:13",
+          "identical": false,
+          "similarity": 0.881356
+        },
+        {
+          "reference": "Exodus 6:14",
+          "identical": false,
+          "similarity": 0.901961
+        },
+        {
+          "reference": "Exodus 6:15",
+          "identical": false,
+          "similarity": 0.681818
+        },
+        {
+          "reference": "Exodus 6:16",
+          "identical": false,
+          "similarity": 0.627451
+        },
+        {
+          "reference": "Exodus 6:17",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Exodus 6:18",
+          "identical": false,
+          "similarity": 0.555556
+        },
+        {
+          "reference": "Exodus 6:19",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Exodus 6:20",
+          "identical": false,
+          "similarity": 0.521739
+        },
+        {
+          "reference": "Exodus 6:21",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 6:22",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Exodus 6:23",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Exodus 6:24",
+          "identical": false,
+          "similarity": 0.592593
+        },
+        {
+          "reference": "Exodus 6:25",
+          "identical": false,
+          "similarity": 0.542373
+        },
+        {
+          "reference": "Exodus 6:26",
+          "identical": false,
+          "similarity": 0.772727
+        },
+        {
+          "reference": "Exodus 6:27",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Exodus 6:28",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Exodus 6:29",
+          "identical": false,
+          "similarity": 0.564103
+        },
+        {
+          "reference": "Exodus 6:30",
+          "identical": false,
+          "similarity": 0.647059
+        }
+      ]
+    }
+  }
+}

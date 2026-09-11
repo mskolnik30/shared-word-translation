@@ -4,144 +4,132 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-5-6-biblical-fluency-2026-09-11
 ---
 
-# Exodus 6
+## The LORD answers Moses
 
 <p>
-v01: Then the LORD said to Moses, “Now you will see what I will do to Pharaoh. For by a strong hand he will send them away, and by a strong hand he will drive them out of his land.”
+v01: The LORD said to Moses, “Now you will see what I will do to Pharaoh. Under a strong hand he will let them go; under a strong hand he will drive them out of his land.”
+</p>
+
+## The covenant promise renewed
+
+<p>
+v02: God spoke to Moses. “I am the LORD,” he said.
+v03: “I appeared to Abraham, Isaac, and Jacob as God Almighty, but by my name, the LORD, I was not known to them.
+v04: I also established my covenant with them to give them Canaan, the land where they lived as foreigners.
+v05: I myself have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant.
 </p>
 
 <p>
-v02: God spoke to Moses and said to him, “I am the LORD.
+v06: So tell the Israelites, ‘I am the LORD. I will bring you out from under Egypt’s burdens. I will rescue you from their slavery. I will redeem you with an outstretched arm and great acts of judgment.
+v07: I will take you as my people, and I will be your God. Then you will know that I am the LORD your God, who brings you out from under Egypt’s burdens.
+v08: I will bring you into the land I raised my hand in an oath to give to Abraham, Isaac, and Jacob. I will give it to you as a possession. I am the LORD.’”
 </p>
 
 <p>
-v03: I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by my name the LORD I was not known to them.
+v09: Moses told the Israelites all this, but they did not listen to him because their spirits were crushed and their labor was harsh.
+</p>
+
+## The charge to Moses and Aaron
+
+<p>
+v10: Then the LORD said to Moses,
+v11: “Go and speak to Pharaoh, king of Egypt, so that he will let the Israelites leave his land.”
 </p>
 
 <p>
-v04: I also established my covenant with them, to give them the land of Canaan, the land where they lived as resident aliens.
+v12: But Moses answered the LORD, “The Israelites have not listened to me. How will Pharaoh listen, when my lips are uncircumcised?”
 </p>
 
 <p>
-v05: Moreover, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant.
+v13: The LORD spoke to Moses and Aaron and gave them a charge concerning the Israelites and Pharaoh, king of Egypt: they were to bring the Israelites out of Egypt.
+</p>
+
+## The families of Moses and Aaron
+
+<p>
+v14: These are the heads of their ancestral households. The sons of Reuben, Israel’s firstborn, were Hanoch, Pallu, Hezron, and Carmi. These were the clans of Reuben.
 </p>
 
 <p>
-v06: So say to the Israelites: I am the LORD. I will bring you out from under the burdens of Egypt, and I will deliver you from their slavery. I will redeem you with an outstretched arm and with great acts of judgment.
+v15: Simeon’s sons were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, whose mother was a Canaanite. These were the clans of Simeon.
 </p>
 
 <p>
-v07: I will take you for my people, and I will be your God. Then you will know that I am the LORD your God, who brings you out from under the burdens of Egypt.
+v16: These are the names of Levi’s sons, listed by their generations: Gershon, Kohath, and Merari. Levi lived a hundred and thirty-seven years.
+v17: Gershon’s sons were Libni and Shimei, by their clans.
+v18: Kohath’s sons were Amram, Izhar, Hebron, and Uzziel. Kohath lived a hundred and thirty-three years.
+v19: Merari’s sons were Mahli and Mushi. These were Levi’s clans, listed by their generations.
 </p>
 
 <p>
-v08: I will bring you into the land that I raised my hand to give to Abraham, Isaac, and Jacob; and I will give it to you as a possession. I am the LORD.”
+v20: Amram married his aunt Jochebed. She bore him Aaron and Moses. Amram lived a hundred and thirty-seven years.
 </p>
 
 <p>
-v09: Moses spoke this way to the Israelites, but they did not listen to Moses because their spirit was broken and because of harsh slavery.
+v21: Izhar’s sons were Korah, Nepheg, and Zichri.
 </p>
 
 <p>
-v10: Then the LORD spoke to Moses, saying,
+v22: Uzziel’s sons were Mishael, Elzaphan, and Sithri.
 </p>
 
 <p>
-v11: “Go, speak to Pharaoh king of Egypt, so that he will send the Israelites out of his land.”
+v23: Aaron married Elisheba, the daughter of Amminadab and sister of Nahshon. She bore him Nadab, Abihu, Eleazar, and Ithamar.
 </p>
 
 <p>
-v12: Yet Moses spoke before the LORD, saying, “Look, the Israelites have not listened to me; how then will Pharaoh listen to me, since I am uncircumcised of lips?”
+v24: Korah’s sons were Assir, Elkanah, and Abiasaph. These were the Korahite clans.
 </p>
 
 <p>
-v13: The LORD spoke to Moses and Aaron and gave them a command concerning the Israelites and Pharaoh king of Egypt: to bring the Israelites out of the land of Egypt.
+v25: Eleazar, Aaron’s son, married one of Putiel’s daughters. She bore him Phinehas. These were the heads of the Levite ancestral households, by their clans.
 </p>
 
 <p>
-v14: These are the heads of their ancestral houses. The sons of Reuben, Israel’s firstborn: Hanoch, Pallu, Hezron, and Carmi. These are the clans of Reuben.
+v26: These were the Aaron and Moses to whom the LORD said, “Bring the Israelites out of Egypt in their companies.”
+v27: They were the ones who spoke to Pharaoh, king of Egypt, to bring the Israelites out of Egypt—this Moses and Aaron.
+</p>
+
+## The command repeated
+
+<p>
+v28: When the LORD spoke to Moses in Egypt,
+v29: he told him, “I am the LORD. Tell Pharaoh, king of Egypt, everything I tell you.”
 </p>
 
 <p>
-v15: The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman. These are the clans of Simeon.
-</p>
-
-<p>
-v16: These are the names of the sons of Levi according to their generations: Gershon, Kohath, and Merari. The years of Levi’s life were one hundred thirty-seven years.
-</p>
-
-<p>
-v17: The sons of Gershon: Libni and Shimei, according to their clans.
-</p>
-
-<p>
-v18: The sons of Kohath: Amram, Izhar, Hebron, and Uzziel. The years of Kohath’s life were one hundred thirty-three years.
-</p>
-
-<p>
-v19: The sons of Merari: Mahli and Mushi. These are the clans of the Levites according to their generations.
-</p>
-
-<p>
-v20: Amram took Jochebed, his aunt, as his wife, and she bore Aaron and Moses to him. The years of Amram’s life were one hundred thirty-seven years.
-</p>
-
-<p>
-v21: The sons of Izhar: Korah, Nepheg, and Zichri.
-</p>
-
-<p>
-v22: The sons of Uzziel: Mishael, Elzaphan, and Sithri.
-</p>
-
-<p>
-v23: Aaron took Elisheba, daughter of Amminadab and sister of Nahshon, as his wife; and she bore Nadab, Abihu, Eleazar, and Ithamar to him.
-</p>
-
-<p>
-v24: The sons of Korah: Assir, Elkanah, and Abiasaph. These are the clans of the Korahites.
-</p>
-
-<p>
-v25: Eleazar son of Aaron took one of the daughters of Putiel as his wife, and she bore Phinehas to him. These are the heads of the ancestral houses of the Levites according to their clans.
-</p>
-
-<p>
-v26: This is the Aaron and Moses to whom the LORD said, “Bring the Israelites out from the land of Egypt according to their companies.”
-</p>
-
-<p>
-v27: They are the ones who spoke to Pharaoh king of Egypt, to bring the Israelites out of Egypt. This is Moses and Aaron.
-</p>
-
-<p>
-v28: Now on the day the LORD spoke to Moses in the land of Egypt,
-</p>
-
-<p>
-v29: The LORD spoke to Moses, saying, “I am the LORD. Speak to Pharaoh king of Egypt everything that I am speaking to you.”
-</p>
-
-<p>
-v30: Yet Moses said before the LORD, “Look, I am uncircumcised of lips; how then will Pharaoh listen to me?”
+v30: But Moses answered the LORD, “My lips are uncircumcised. How will Pharaoh listen to me?”
 </p>
 
 ## Notes
 
-v09: “Their spirit was broken” renders a phrase literally involving “shortness of spirit.” Israel’s inability to listen is attributed not to indifference but to the crushing effects of harsh slavery.
+v1: ‘A strong hand’ appears twice without a possessive. The context points to God’s force compelling release; the phrase can also describe Pharaoh’s forceful expulsion. The repeated image is retained.
+
+v3: The Hebrew states that God was not known to the ancestors by the name YHWH, represented here by LORD. Genesis nevertheless uses this name in their stories and speech (for example, Genesis 15:2). The translation preserves the statement without inserting ‘fully’ or turning it into a question.
+
+v8: Raising the hand is an oath gesture. The bodily image remains in the promise.
+
+v9: Literally, ‘shortness of spirit’ or ‘shortness of breath.’ The wording can convey discouragement or constricted breathing under oppression. Harsh labor is also explicitly named.
+
+v12, 30: ‘Uncircumcised lips’ is Moses’ image for speech he considers unfit for the task. It recalls his earlier objection about his mouth and tongue (4:10).
+
+v20: The Hebrew identifies Jochebed as Amram’s aunt. The relationship is retained even though later laws prohibit such a marriage (Leviticus 18:12).
+
+v26–30: The genealogy identifies the speakers and returns to the interrupted exchange. Its repeated names and command are part of that transition.
 
 ## Vocabulary
 
-v04: בְּרִית (berit)
-“covenant.” Yahweh’s commitment to give the land is presented as an enduring bond with Abraham, Isaac, and Jacob, now remembered in Israel’s oppression.
+v3: God Almighty — El Shaddai
+The traditional rendering of a divine title whose precise derivation is uncertain; also used in Genesis 17:1 and 35:11.
 
-v06: גָּאַל (ga'al)
-“redeem.” The verb evokes the action of a family protector who acts to recover or defend a relative. Yahweh claims Israel from slavery as their deliverer.
+v6: Redeem — gaʾal
+To reclaim or free. Here God promises release from enslavement through his own action.
 
-v07: עַם ('am)
-“people.” Yahweh’s promise, “I will take you for my people,” describes belonging and covenant identity, not merely release from forced labor.
-
-v09: קֹצֶר רוּחַ (qotser ruach)
-“shortness of spirit.” The phrase describes the inward constriction and exhaustion produced by Israel’s oppression.
+v26: Companies — tsevaʾot
+Organized groups or hosts; the term carries military associations.
