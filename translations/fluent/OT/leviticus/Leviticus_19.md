@@ -4,160 +4,151 @@ testament: OT
 chapter: 19
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-18-20-biblical-fluency-2026-09-11
 ---
 
-## Holiness in Life Together
+## Be holy
 
 <p>
-v01: And the LORD spoke to Moses, saying,
-
-v02: “Speak to all the congregation of the sons of Israel and say to them: You will be holy, for I the LORD your God am holy.
+v01: The LORD said to Moses,
+v02: “Speak to the whole Israelite community. Tell them: ‘Be holy, because I, the LORD your God, am holy.
+v03: Each of you must revere your mother and your father, and keep my sabbaths. I am the LORD your God.
+v04: Do not turn to idols or make gods of cast metal for yourselves. I am the LORD your God.
 </p>
 
-## Holiness in Daily Life
+## Eating a peace offering
 
 <p>
-v03: Each of you will fear his mother and his father, and you will keep my Sabbaths. I am the LORD your God.
-
-v04: Do not turn to idols, and do not make for yourselves gods of cast metal. I am the LORD your God.
-
-v05: When you sacrifice an offering of well-being to the LORD, sacrifice it so that you may be accepted.
-
-v06: It will be eaten on the day you sacrifice it or on the next day, but what remains until the third day will be burned with fire.
-
-v07: If it is eaten at all on the third day, it is an abomination; it will not be accepted.
-
-v08: The one who eats it will bear his guilt, because he has profaned what is holy to the LORD, and that person will be cut off from his people.
+v05: When you offer a peace sacrifice to the LORD, offer it in a way that will be accepted on your behalf.
+v06: Eat it on the day you offer it or the next day. Anything left by the third day must be burned with fire.
+v07: If any of it is eaten on the third day, it is a defiled thing and will not be accepted.
+v08: Whoever eats it must bear their guilt for profaning what is holy to the LORD. That person will be cut off from their people.
 </p>
 
+## Harvests, justice, and neighbors
+
 <p>
-v09: When you reap the harvest of your land, you will not reap to the very edge of your field, nor will you gather the gleanings of your harvest.
-
-v10: You will not strip your vineyard bare, nor gather the fallen grapes of your vineyard. You will leave them for the poor and for the resident alien. I am the LORD your God.
-
-v11: You will not steal, and you will not deal falsely, and you will not lie to one another.
-
-v12: You will not swear falsely by my name, and so profane the name of your God. I am the LORD.
-
-v13: You will not oppress your neighbor or rob him. The wages of a hired worker will not remain with you through the night until morning.
-
-v14: You will not curse one who is deaf or put a stumbling block before one who is blind, but you will fear your God. I am the LORD.
+v09: When you harvest your land, do not reap right to the edges of your field or gather what the harvesters leave behind.
+v10: Do not strip your vineyard bare or pick up its fallen grapes. Leave them for the poor and the foreigner living among you. I am the LORD your God.
 </p>
 
 <p>
-v15: You will not do injustice in judgment. You will not lift up the face of the poor or honor the face of the great, but in righteousness you will judge your neighbor.
-
-v16: You will not go about as a slanderer among your people, and you will not stand against the blood of your neighbor. I am the LORD.
+v11: Do not steal. Do not cheat or lie to one another.
+v12: Do not swear falsely by my name and so profane the name of your God. I am the LORD.
 </p>
 
 <p>
-v17: You will not hate your brother in your heart; you will surely reprove your neighbor, and you will not bear sin because of him.
-
-v18: You will not take vengeance or keep anger against the sons of your people, but you will love your neighbor as yourself. I am the LORD.
-</p>
-
-## Further Statutes of Holiness
-
-<p>
-v19: You will keep my statutes. You will not breed two kinds of your livestock together; you will not sow your field with two kinds of seed; and a garment made of two kinds of material will not come upon you.
-
-v20: If a man lies sexually with a woman who is a slave designated for another man, but she has not been redeemed or given her freedom, there will be an inquiry. They will not be put to death, because she was not free.
-
-v21: He will bring his guilt offering to the LORD, to the entrance of the tent of meeting, a ram for a guilt offering.
-
-v22: The priest will make atonement for him with the ram of the guilt offering before the LORD for his sin that he committed, and he will be forgiven for his sin that he committed.
+v13: Do not exploit your neighbor or rob them. Do not hold a hired worker's wages overnight until morning.
+v14: Do not curse a deaf person or put something in a blind person's path to make them stumble. Fear your God. I am the LORD.
 </p>
 
 <p>
-v23: When you come into the land and plant any tree for food, you will regard its fruit as uncircumcised. Three years it will be uncircumcised to you; it will not be eaten.
+v15: Do not judge unjustly. Do not favor the poor or defer to the powerful. Judge your neighbor with justice.
+v16: Do not go about slandering your people. Do not stand by while your neighbor's blood is shed. I am the LORD.
+</p>
 
-v24: In the fourth year all its fruit will be holy, an offering of praise to the LORD.
+<p>
+v17: Do not hate a fellow Israelite in your heart. Speak frankly to your neighbor in rebuke, and do not bear sin because of them.
+v18: Do not take revenge or hold a grudge against your own people. Love your neighbor as yourself. I am the LORD.
+</p>
 
+## Keeping kinds distinct
+
+<p>
+v19: Keep my statutes. Do not breed different kinds of livestock together, sow your field with mixed kinds of seed, or wear a garment woven from mixed materials.
+</p>
+
+## An enslaved woman
+
+<p>
+v20: If a man has intercourse with an enslaved woman who has been promised to another man but has neither been redeemed nor granted freedom, an inquiry is required. They must not be put to death, because she has not been freed.
+v21: The man must bring a ram as his guilt offering to the LORD, at the entrance to the tent of meeting.
+v22: With the ram of the guilt offering, the priest will make atonement for him before the LORD for the sin he committed. He will be forgiven for the sin he committed.
+</p>
+
+## Fruit trees
+
+<p>
+v23: When you enter the land and plant a tree for food, treat its fruit as uncircumcised. For three years it is uncircumcised to you; it must not be eaten.
+v24: In the fourth year, all its fruit is holy, an offering of praise to the LORD.
 v25: In the fifth year you may eat its fruit, so that its yield may increase for you. I am the LORD your God.
+</p>
 
-v26: You will not eat anything with the blood. You will not practice divination or interpret omens.
+## Further instructions for holy living
 
-v27: You will not round off the hair at the sides of your head or destroy the edges of your beard.
-
-v28: You will not make cuts in your flesh for the dead or put tattoo marks upon yourselves. I am the LORD.
+<p>
+v26: Do not eat with the blood. Do not practice divination or read omens.
+v27: Do not cut the hair at the sides of your head into a circle or destroy the edges of your beard.
+v28: Do not cut your flesh for the dead or put tattoo marks on yourselves. I am the LORD.
 </p>
 
 <p>
-v29: Do not profane your daughter by making her a prostitute, lest the land fall into prostitution and the land become full of depravity.
-
-v30: You will keep my Sabbaths and revere my sanctuary. I am the LORD.
-
-v31: Do not turn to mediums or spiritists; do not seek them out and so become unclean by them. I am the LORD your God.
-
-v32: You will rise before gray hair and honor the face of an old person, and you will fear your God. I am the LORD.
+v29: Do not profane your daughter by making her a prostitute, so that the land does not turn to prostitution and become filled with depravity.
 </p>
 
 <p>
-v33: When a resident alien lives with you in your land, you will not mistreat him.
+v30: Keep my sabbaths and revere my sanctuary. I am the LORD.
+v31: Do not turn to mediums or spiritists. Do not seek them out and become unclean through them. I am the LORD your God.
+</p>
 
-v34: The resident alien who lives with you will be to you as the native among you, and you will love him as yourself, for you were resident aliens in the land of Egypt. I am the LORD your God.
+<p>
+v32: Rise in the presence of gray hair, honor the elderly, and fear your God. I am the LORD.
+</p>
 
-v35: You will do no injustice in judgment, in measures of length, weight, or quantity.
+## Foreigners and honest measures
 
-v36: You will have honest balances, honest weights, an honest ephah, and an honest hin. I am the LORD your God, who brought you out from the land of Egypt.
+<p>
+v33: When a foreigner lives with you in your land, do not mistreat them.
+v34: Treat the foreigner living among you as one of your native-born. Love them as yourself, for you were foreigners in Egypt. I am the LORD your God.
+</p>
 
-v37: You will keep all my statutes and all my judgments and do them. I am the LORD.
+<p>
+v35: Do not act unjustly when measuring length, weight, or volume.
+v36: Use honest scales, honest weights, an honest ephah, and an honest hin. I am the LORD your God, who brought you out of Egypt.
+</p>
+
+<p>
+v37: Keep all my statutes and all my ordinances, and carry them out. I am the LORD.’”
 </p>
 
 ## Notes
 
-v01–02: Holiness is derivative—Israel reflects the character of the LORD. The command is communal (“all the congregation”).
+v7–8: “Defiled thing” renders the same term as 7:18. The rejection concerns the offering's status, not merely whether the meat has spoiled.
 
-v15: Justice resists both partiality toward the poor and deference to the powerful. Righteousness is even-handed.
+v16: The second prohibition is literally “do not stand on your neighbor's blood.” It may concern standing by when a life is endangered or acting against that person's life.
 
-v16: Speech is regulated alongside action—slander and passive complicity in harm are both prohibited.
+v17: The final clause can warn against sharing a neighbor's guilt through silence, or against incurring sin in the way one rebukes. Its compressed wording is retained.
 
-v17: Interior disposition matters; hatred is addressed before it manifests outwardly. Reproof is framed as responsibility.
+v19: The garment's mixed materials are not named here. Deuteronomy 22:11 specifies wool and linen together.
 
-v18: The prohibition of vengeance culminates in positive command—love defines covenantal ethics. “As yourself” establishes measure and scope.
+v20: The word rendered “inquiry” is uncertain; alternatives include punishment or compensation. The woman's enslavement determines the stated difference in penalty. Her consent is not stated, and verses 21–22 explicitly assign the offering and sin to the man.
+
+v23: “Uncircumcised” is the Hebrew image for fruit that is not yet available to eat. The three-year restriction is explicit.
+
+v25: The final phrase may also mean adding the fruit to the harvest available to the growers.
+
+v26: “With the blood” is literally “over/on the blood.” The wording may concern eating blood or a meal associated with a blood rite.
+
+v28: The first prohibition names mourning for the dead. The second names an inscribed or incised mark; its exact technique is uncertain.
+
+v31: The Hebrew terms can refer to spirits or to people who consult them. “Mediums and spiritists” names the practitioners here; compare 20:6, 27.
 
 ## Vocabulary
 
-v02: קָדַשׁ (qāḏaš)
+v2: קָדוֹשׁ (qadosh)
+Holy. The command to the whole community is grounded in the LORD's own holiness.
 
-“To be holy.” To be set apart for divine purpose.
+v9: לֶקֶט (leqet)
+Gleanings: produce left behind during harvesting.
 
-v15: מִשְׁפָּט (mišpāṭ)
-“Judgment/justice.” Legal decision, ordered equity.
+v18, 34: אָהַב (ahav)
+Love. The same command to love as oneself names the neighbor in verse 18 and the resident foreigner in verse 34.
 
-v15: צֶדֶק (ṣeḏeq)
-“Righteousness.” Right order in relationships.
+v20: שִׁפְחָה (shifhah)
+An enslaved woman; her lack of freedom is repeated in the law.
 
-v15: נָשָׂא פָנִים (nāśāʾ pānîm)
-“To lift the face.” To show partiality.
-
-v16: רָכִיל (rāḵîl)
-“Slanderer.” One who circulates harmful speech.
-
-v16: דָּם (dām)
-
-“Blood.” Life, often in the sense of guilt or harm.
-
-v17: שָׂנֵא (śānēʾ)
-
-“To hate.” Deep-seated rejection.
-
-v17: יָכַח (yāḵaḥ)
-
-“To reprove.” To correct or confront.
-
-v18: נָקַם (nāqam)
-
-“To take vengeance.” To repay harm.
-
-v18: נָטַר (nāṭar)
-
-“To keep/hold.” To maintain anger.
-
-v18: אָהַב (ʾāhaḇ)
-
-“To love.” Covenantal loyalty expressed in action.
-
-v18: רֵעַ (rēaʿ)
-
-“Neighbor.” Fellow member of the community.
+v36: אֵיפָה / הִין (ephah / hin)
+Measures for dry goods and liquids respectively. The command requires honest measures, alongside honest scales and weights.

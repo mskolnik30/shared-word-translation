@@ -4,83 +4,130 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-leviticus-18-20-biblical-fluency-2026-09-11
 ---
 
-## Molech and Forbidden Practices
+## Molech and consulting spirits
 
 <p>
-v01: The LORD spoke to Moses, saying,
-v02: “You will say to the Israelites: Any one of the Israelites or of the resident aliens living in Israel who gives any of his offspring to Molech will surely be put to death. The people of the land will stone that person with stones.
-v03: I myself will set my face against that person and cut him off from among his people, because he has given some of his offspring to Molech, making my sanctuary unclean and profaning my holy name.
-v04: If the people of the land hide their eyes from that person when he gives his offspring to Molech and do not put him to death,
-v05: then I will set my face against that person and his family and cut him off, together with everyone who prostitute themselves after him by prostituting themselves after Molech, from among their people.
-v06: The person who turns to mediums and spiritists, prostituting themselves after them, I will set my face against that person and cut that person off from among the people.
-</p>
-
-## Be Holy
-
-<p>
-v07: Make yourselves holy and be holy, for I am the LORD your God.
-v08: Keep my statutes and do them. I am the LORD who makes you holy.
-v09: Anyone who curses father or mother will surely be put to death. That person has cursed father or mother; their blood is upon them.
-</p>
-
-## Penalties for Forbidden Sexual Relations
-
-<p>
-v10: If a man commits adultery with another man’s wife, if he commits adultery with his neighbor’s wife, both the adulterer and the adulteress will surely be put to death.
-v11: If a man lies with his father’s wife, he has uncovered his father’s nakedness. Both of them will surely be put to death; their blood is upon them.
-v12: If a man lies with his daughter-in-law, both of them will surely be put to death. They have committed a perversion; their blood is upon them.
-v13: If a man lies with a male as one lies with a woman, both of them have done a detestable thing. They will surely be put to death; their blood is upon them.
-v14: If a man takes a woman and her mother, it is depravity. He and they will be burned with fire, so that there may be no depravity among you.
-v15: If a man has sexual relations with an animal, he will surely be put to death, and you will kill the animal.
-v16: If a woman approaches any animal to mate with it, you will kill the woman and the animal. They will surely be put to death; their blood is upon them.
+v01: The LORD said to Moses,
+v02: “Tell the Israelites: ‘Any Israelite or foreigner living in Israel who gives any of their offspring to Molech must be put to death. The people of the land must stone that person.
+v03: I myself will set my face against that person and cut them off from among their people, because they gave their offspring to Molech, defiling my sanctuary and profaning my holy name.
 </p>
 
 <p>
-v17: If a man takes his sister, his father’s daughter or his mother’s daughter, and he sees her nakedness and she sees his nakedness, it is a disgrace. They will be cut off in the sight of their people. He has uncovered his sister’s nakedness; he will bear his guilt.
-v18: If a man lies with a woman during her menstrual period and uncovers her nakedness, he has exposed her source and she has uncovered the source of her blood. Both of them will be cut off from among their people.
-v19: You will not uncover the nakedness of your mother’s sister or your father’s sister, for one who does so has exposed a close relative. They will bear their guilt.
-v20: If a man lies with his uncle’s wife, he has uncovered his uncle’s nakedness. They will bear their sin; they will die childless.
-v21: If a man takes his brother’s wife, it is impurity. He has uncovered his brother’s nakedness; they will be childless.
+v04: If the people of the land close their eyes to that person giving offspring to Molech and fail to put that person to death,
+v05: I myself will set my face against that person and their family. I will cut off from among their people both that person and all who follow them in prostituting themselves to Molech.
 </p>
 
-## You Will Be Set Apart
+<p>
+v06: If anyone turns to mediums and spiritists, prostituting themselves by following them, I will set my face against that person and cut them off from their people.
+</p>
+
+## Holiness and penalties
 
 <p>
-v22: You will keep all my statutes and all my ordinances and do them, so that the land into which I am bringing you to dwell does not vomit you out.
-v23: You will not walk in the statutes of the nation that I am driving out before you, because they did all these things, and I abhorred them.
-v24: Yet I have said to you, ‘You will possess their land, and I will give it to you to possess, a land flowing with milk and honey.’ I am the LORD your God, who has separated you from the peoples.
-v25: So you will distinguish between the clean animal and the unclean, and between the unclean bird and the clean. You will not make yourselves detestable by animal or bird or anything that swarms on the ground, which I have separated from you as unclean.
-v26: You will be holy to me, for I the LORD am holy, and I have separated you from the peoples so that you may be mine.
-v27: A man or woman who is a medium or spiritist will surely be put to death. They will be stoned with stones; their blood is upon them.”
+v07: Consecrate yourselves and be holy, because I am the LORD your God.
+v08: Keep my statutes and carry them out. I am the LORD, who makes you holy.
+</p>
+
+<p>
+v09: Anyone who curses their father or mother must be put to death. They have cursed their father or mother; their blood is on themselves.
+</p>
+
+<p>
+v10: If a man commits adultery with another man's wife, committing adultery with his neighbor's wife, both the adulterer and the adulteress must be put to death.
+v11: If a man lies with his father's wife, he has uncovered his father's nakedness. Both of them must be put to death; their blood is on themselves.
+v12: If a man lies with his daughter-in-law, both of them must be put to death. They have committed a perversion; their blood is on themselves.
+v13: If a man lies with a male as with a woman, both have committed an abomination. They must be put to death; their blood is on themselves.
+</p>
+
+<p>
+v14: If a man takes both a woman and her mother, this is depravity. He and the women must be burned with fire, so that there is no depravity among you.
+</p>
+
+<p>
+v15: If a man has intercourse with an animal, he must be put to death, and you must kill the animal.
+v16: If a woman approaches an animal for it to mate with her, you must kill both the woman and the animal. They must be put to death; their blood is on themselves.
+</p>
+
+## Further kinship prohibitions
+
+<p>
+v17: If a man takes his sister, his father's daughter or his mother's daughter, and sees her nakedness while she sees his, this is a disgrace. They will be cut off before the eyes of their people. He has uncovered his sister's nakedness and must bear his guilt.
+</p>
+
+<p>
+v18: If a man lies with a woman during her period and uncovers her nakedness, he has laid bare her fountain, and she has uncovered the fountain of her blood. Both will be cut off from among their people.
+</p>
+
+<p>
+v19: Do not have sexual relations with your mother's sister or your father's sister. A man who does so has laid bare his own close relative; they must bear their guilt.
+</p>
+
+<p>
+v20: If a man lies with his uncle's wife, he has uncovered his uncle's nakedness. They must bear their sin; they will die childless.
+v21: If a man takes his brother's wife, this is uncleanness. He has uncovered his brother's nakedness; they will be childless.
+</p>
+
+## Set apart to belong to the LORD
+
+<p>
+v22: Keep all my statutes and all my ordinances, and carry them out, so that the land where I am bringing you to live does not vomit you out.
+v23: Do not live by the customs of the nation I am driving out before you. They did all these things, and I loathed them.
+</p>
+
+<p>
+v24: I have told you: You will take possession of their land. I myself will give it to you as your possession, a land flowing with milk and honey. I am the LORD your God, who set you apart from the peoples.
+</p>
+
+<p>
+v25: You must distinguish clean animals from unclean ones, and unclean birds from clean ones. Do not make yourselves detestable through animals, birds, or anything that moves along the ground, which I have set apart for you as unclean.
+v26: Be holy to me, because I, the LORD, am holy. I have set you apart from the peoples to be mine.
+</p>
+
+## Mediums and spiritists
+
+<p>
+v27: A man or woman who has a spirit of the dead or a familiar spirit must be put to death. They must be stoned; their blood is on themselves.’”
 </p>
 
 ## Notes
 
-v02–05: The prohibition concerning Molech is addressed to Israelites and resident aliens alike, and communal refusal to act is itself treated as culpable.
+v2–6: Stoning by the people and the LORD's cutting off are stated separately. In verse 5, the family is included under divine opposition; the following clause names the offender and followers for cutting off.
 
-v06: Turning to mediums is described with the same prostitution metaphor used for idolatrous worship elsewhere in Leviticus.
+v5–6: Prostitution is the metaphor for pursuing Molech or consulting spirits. Compare 17:7.
 
-v09–21: The chapter moves from prohibitions stated in chapter 18 to specified penalties. TSW preserves the legal severity without attempting to harmonize these penalties with later legal or theological systems.
+v9–16, 27: “Their blood is on themselves” assigns responsibility for the death to those named in the law. The formula is retained rather than replaced by a general statement about punishment.
 
-v24–26: Israel’s separation from the nations is paired with the command to distinguish clean from unclean and culminates in belonging to the LORD.
+v10: The pinned Hebrew repeats the adultery clause. The repetition is preserved here.
 
-v27: The chapter ends where v06 began, with the prohibition of mediums and spiritists, forming a frame around the holiness and penalty material.
+v14, 17, 21: “Takes” can refer to marriage or a sexual union. The wording does not specify every circumstance. Verse 14 names both women in the fire penalty; it does not describe the procedure further.
+
+v17: The word rendered “disgrace” has a different sense here from the familiar word for steadfast love written with the same consonants.
+
+v18: The woman's menstrual flow is pictured as a fountain. Both the man's and the woman's actions are named.
+
+v20–21: Verse 20 says “die childless”; verse 21 says “be childless.” The wording does not explain how these outcomes occur.
+
+v27: The Hebrew describes a man or woman with a spirit “in them.” It can also be rendered with the practitioner terms “medium” or “spiritist,” as in 19:31. This differs from seeking them out in 20:6.
 
 ## Vocabulary
 
-v03: חִלֵּל (chillel)
-“To profane.” To treat what is holy as common or defiled.
+v7–8, 26: קָדַשׁ (qadash)
+Be holy, consecrate, make holy. The people are told to consecrate themselves; the LORD is also named as the one making them holy.
 
-v06: אוֹב (ov)
-“Medium.” A person or associated spirit consulted for communication with the dead.
+v9–16, 27: דָּם (dam)
+Blood. In the repeated penalty formula, it carries responsibility for the shedding of life.
 
-v12: תֶּבֶל (tevel)
-“Perversion.” A prohibited mixing or disordering of relations.
+v18: מָקוֹר (maqor)
+Fountain or source; here, the source of menstrual blood.
 
-v14: זִמָּה (zimmah)
-“Depravity.” Deliberate, serious wrongdoing.
+v21: נִדָּה (niddah)
+Uncleanness. The term also appears in descriptions of menstruation; here it characterizes the prohibited union.
 
-v24: בָּדַל (badal)
-“To separate” or “distinguish.” Used both of Israel among the peoples and clean from unclean.
+v24–26: בָּדַל (badal)
+Separate, set apart, distinguish. The same root links Israel's separation from other peoples with distinguishing clean and unclean creatures.

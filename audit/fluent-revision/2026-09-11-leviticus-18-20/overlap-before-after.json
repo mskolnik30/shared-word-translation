@@ -1,0 +1,960 @@
+{
+  "scope": "Leviticus 18–20; 94 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 18,
+      "near_identical_verses": 73,
+      "mean_similarity": 0.948617,
+      "verses": [
+        {
+          "reference": "Leviticus 18:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 18:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 18:3",
+          "identical": false,
+          "similarity": 0.925
+        },
+        {
+          "reference": "Leviticus 18:4",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 18:5",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Leviticus 18:6",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 18:7",
+          "identical": false,
+          "similarity": 0.92
+        },
+        {
+          "reference": "Leviticus 18:8",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 18:9",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 18:10",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 18:11",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Leviticus 18:12",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Leviticus 18:13",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 18:14",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Leviticus 18:15",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 18:16",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 18:17",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 18:18",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 18:19",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 18:20",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 18:21",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 18:22",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Leviticus 18:23",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Leviticus 18:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 18:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 18:26",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 18:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 18:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 18:29",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Leviticus 18:30",
+          "identical": false,
+          "similarity": 0.969697
+        },
+        {
+          "reference": "Leviticus 19:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 19:2",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Leviticus 19:3",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 19:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 19:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 19:6",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Leviticus 19:7",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Leviticus 19:8",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Leviticus 19:9",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 19:10",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Leviticus 19:11",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Leviticus 19:12",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 19:13",
+          "identical": false,
+          "similarity": 0.92
+        },
+        {
+          "reference": "Leviticus 19:14",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 19:15",
+          "identical": false,
+          "similarity": 0.90625
+        },
+        {
+          "reference": "Leviticus 19:16",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 19:17",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Leviticus 19:18",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 19:19",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Leviticus 19:20",
+          "identical": false,
+          "similarity": 0.953488
+        },
+        {
+          "reference": "Leviticus 19:21",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Leviticus 19:22",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 19:23",
+          "identical": false,
+          "similarity": 0.90625
+        },
+        {
+          "reference": "Leviticus 19:24",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 19:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 19:26",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Leviticus 19:27",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 19:28",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Leviticus 19:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 19:30",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 19:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 19:32",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Leviticus 19:33",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 19:34",
+          "identical": false,
+          "similarity": 0.948718
+        },
+        {
+          "reference": "Leviticus 19:35",
+          "identical": false,
+          "similarity": 0.928571
+        },
+        {
+          "reference": "Leviticus 19:36",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 19:37",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Leviticus 20:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 20:2",
+          "identical": false,
+          "similarity": 0.931818
+        },
+        {
+          "reference": "Leviticus 20:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 20:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 20:5",
+          "identical": false,
+          "similarity": 0.969697
+        },
+        {
+          "reference": "Leviticus 20:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 20:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 20:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 20:9",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Leviticus 20:10",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 20:11",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Leviticus 20:12",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Leviticus 20:13",
+          "identical": false,
+          "similarity": 0.969697
+        },
+        {
+          "reference": "Leviticus 20:14",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Leviticus 20:15",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 20:16",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Leviticus 20:17",
+          "identical": false,
+          "similarity": 0.959184
+        },
+        {
+          "reference": "Leviticus 20:18",
+          "identical": false,
+          "similarity": 0.975
+        },
+        {
+          "reference": "Leviticus 20:19",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Leviticus 20:20",
+          "identical": false,
+          "similarity": 0.913043
+        },
+        {
+          "reference": "Leviticus 20:21",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 20:22",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Leviticus 20:23",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Leviticus 20:24",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Leviticus 20:25",
+          "identical": false,
+          "similarity": 0.931818
+        },
+        {
+          "reference": "Leviticus 20:26",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Leviticus 20:27",
+          "identical": false,
+          "similarity": 0.925926
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 1,
+      "near_identical_verses": 5,
+      "mean_similarity": 0.679133,
+      "verses": [
+        {
+          "reference": "Leviticus 18:1",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 18:2",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Leviticus 18:3",
+          "identical": false,
+          "similarity": 0.545455
+        },
+        {
+          "reference": "Leviticus 18:4",
+          "identical": false,
+          "similarity": 0.742857
+        },
+        {
+          "reference": "Leviticus 18:5",
+          "identical": false,
+          "similarity": 0.717949
+        },
+        {
+          "reference": "Leviticus 18:6",
+          "identical": false,
+          "similarity": 0.580645
+        },
+        {
+          "reference": "Leviticus 18:7",
+          "identical": false,
+          "similarity": 0.510638
+        },
+        {
+          "reference": "Leviticus 18:8",
+          "identical": false,
+          "similarity": 0.533333
+        },
+        {
+          "reference": "Leviticus 18:9",
+          "identical": false,
+          "similarity": 0.52
+        },
+        {
+          "reference": "Leviticus 18:10",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Leviticus 18:11",
+          "identical": false,
+          "similarity": 0.55
+        },
+        {
+          "reference": "Leviticus 18:12",
+          "identical": false,
+          "similarity": 0.645161
+        },
+        {
+          "reference": "Leviticus 18:13",
+          "identical": false,
+          "similarity": 0.606061
+        },
+        {
+          "reference": "Leviticus 18:14",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Leviticus 18:15",
+          "identical": false,
+          "similarity": 0.577778
+        },
+        {
+          "reference": "Leviticus 18:16",
+          "identical": false,
+          "similarity": 0.533333
+        },
+        {
+          "reference": "Leviticus 18:17",
+          "identical": false,
+          "similarity": 0.588235
+        },
+        {
+          "reference": "Leviticus 18:18",
+          "identical": false,
+          "similarity": 0.333333
+        },
+        {
+          "reference": "Leviticus 18:19",
+          "identical": false,
+          "similarity": 0.375
+        },
+        {
+          "reference": "Leviticus 18:20",
+          "identical": false,
+          "similarity": 0.642857
+        },
+        {
+          "reference": "Leviticus 18:21",
+          "identical": false,
+          "similarity": 0.830189
+        },
+        {
+          "reference": "Leviticus 18:22",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Leviticus 18:23",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Leviticus 18:24",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Leviticus 18:25",
+          "identical": false,
+          "similarity": 0.722222
+        },
+        {
+          "reference": "Leviticus 18:26",
+          "identical": false,
+          "similarity": 0.581818
+        },
+        {
+          "reference": "Leviticus 18:27",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Leviticus 18:28",
+          "identical": false,
+          "similarity": 0.604651
+        },
+        {
+          "reference": "Leviticus 18:29",
+          "identical": false,
+          "similarity": 0.702703
+        },
+        {
+          "reference": "Leviticus 18:30",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Leviticus 19:1",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 19:2",
+          "identical": false,
+          "similarity": 0.590909
+        },
+        {
+          "reference": "Leviticus 19:3",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Leviticus 19:4",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 19:5",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Leviticus 19:6",
+          "identical": false,
+          "similarity": 0.68
+        },
+        {
+          "reference": "Leviticus 19:7",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Leviticus 19:8",
+          "identical": false,
+          "similarity": 0.641509
+        },
+        {
+          "reference": "Leviticus 19:9",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Leviticus 19:10",
+          "identical": false,
+          "similarity": 0.645161
+        },
+        {
+          "reference": "Leviticus 19:11",
+          "identical": false,
+          "similarity": 0.482759
+        },
+        {
+          "reference": "Leviticus 19:12",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Leviticus 19:13",
+          "identical": false,
+          "similarity": 0.418605
+        },
+        {
+          "reference": "Leviticus 19:14",
+          "identical": false,
+          "similarity": 0.528302
+        },
+        {
+          "reference": "Leviticus 19:15",
+          "identical": false,
+          "similarity": 0.352941
+        },
+        {
+          "reference": "Leviticus 19:16",
+          "identical": false,
+          "similarity": 0.510638
+        },
+        {
+          "reference": "Leviticus 19:17",
+          "identical": false,
+          "similarity": 0.541667
+        },
+        {
+          "reference": "Leviticus 19:18",
+          "identical": false,
+          "similarity": 0.638298
+        },
+        {
+          "reference": "Leviticus 19:19",
+          "identical": false,
+          "similarity": 0.537313
+        },
+        {
+          "reference": "Leviticus 19:20",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Leviticus 19:21",
+          "identical": false,
+          "similarity": 0.590909
+        },
+        {
+          "reference": "Leviticus 19:22",
+          "identical": false,
+          "similarity": 0.646154
+        },
+        {
+          "reference": "Leviticus 19:23",
+          "identical": false,
+          "similarity": 0.754098
+        },
+        {
+          "reference": "Leviticus 19:24",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Leviticus 19:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Leviticus 19:26",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Leviticus 19:27",
+          "identical": false,
+          "similarity": 0.780488
+        },
+        {
+          "reference": "Leviticus 19:28",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Leviticus 19:29",
+          "identical": false,
+          "similarity": 0.680851
+        },
+        {
+          "reference": "Leviticus 19:30",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Leviticus 19:31",
+          "identical": false,
+          "similarity": 0.93617
+        },
+        {
+          "reference": "Leviticus 19:32",
+          "identical": false,
+          "similarity": 0.619048
+        },
+        {
+          "reference": "Leviticus 19:33",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Leviticus 19:34",
+          "identical": false,
+          "similarity": 0.507463
+        },
+        {
+          "reference": "Leviticus 19:35",
+          "identical": false,
+          "similarity": 0.333333
+        },
+        {
+          "reference": "Leviticus 19:36",
+          "identical": false,
+          "similarity": 0.830189
+        },
+        {
+          "reference": "Leviticus 19:37",
+          "identical": false,
+          "similarity": 0.787879
+        },
+        {
+          "reference": "Leviticus 20:1",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Leviticus 20:2",
+          "identical": false,
+          "similarity": 0.684211
+        },
+        {
+          "reference": "Leviticus 20:3",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Leviticus 20:4",
+          "identical": false,
+          "similarity": 0.68
+        },
+        {
+          "reference": "Leviticus 20:5",
+          "identical": false,
+          "similarity": 0.484848
+        },
+        {
+          "reference": "Leviticus 20:6",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Leviticus 20:7",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Leviticus 20:8",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Leviticus 20:9",
+          "identical": false,
+          "similarity": 0.708333
+        },
+        {
+          "reference": "Leviticus 20:10",
+          "identical": false,
+          "similarity": 0.872727
+        },
+        {
+          "reference": "Leviticus 20:11",
+          "identical": false,
+          "similarity": 0.872727
+        },
+        {
+          "reference": "Leviticus 20:12",
+          "identical": false,
+          "similarity": 0.872727
+        },
+        {
+          "reference": "Leviticus 20:13",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Leviticus 20:14",
+          "identical": false,
+          "similarity": 0.813559
+        },
+        {
+          "reference": "Leviticus 20:15",
+          "identical": false,
+          "similarity": 0.809524
+        },
+        {
+          "reference": "Leviticus 20:16",
+          "identical": false,
+          "similarity": 0.741935
+        },
+        {
+          "reference": "Leviticus 20:17",
+          "identical": false,
+          "similarity": 0.833333
+        },
+        {
+          "reference": "Leviticus 20:18",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Leviticus 20:19",
+          "identical": false,
+          "similarity": 0.610169
+        },
+        {
+          "reference": "Leviticus 20:20",
+          "identical": false,
+          "similarity": 0.913043
+        },
+        {
+          "reference": "Leviticus 20:21",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Leviticus 20:22",
+          "identical": false,
+          "similarity": 0.827586
+        },
+        {
+          "reference": "Leviticus 20:23",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Leviticus 20:24",
+          "identical": false,
+          "similarity": 0.740741
+        },
+        {
+          "reference": "Leviticus 20:25",
+          "identical": false,
+          "similarity": 0.536585
+        },
+        {
+          "reference": "Leviticus 20:26",
+          "identical": false,
+          "similarity": 0.723404
+        },
+        {
+          "reference": "Leviticus 20:27",
+          "identical": false,
+          "similarity": 0.607143
+        }
+      ]
+    }
+  }
+}
