@@ -4,77 +4,88 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-9-10-biblical-fluency-2026-09-11
 ---
 
-## Passover in the Wilderness
+## Passover in the wilderness
 
 <p>
-v01: The LORD spoke to Moses in the wilderness of Sinai, in the first month of the second year after they came out from the land of Egypt, saying,
-v02: “Let the Israelites keep the Passover at its appointed time.
-v03: On the fourteenth day of this month, at twilight, you will keep it at its appointed time. According to all its statutes and all its ordinances you will keep it.”
-v04: So Moses told the Israelites to keep the Passover.
-v05: They kept the Passover in the first month, on the fourteenth day of the month at twilight, in the wilderness of Sinai. According to all that the LORD commanded Moses, so the Israelites did.
-</p>
-
-## Passover for Those Who Were Unclean
-
-<p>
-v06: But there were some men who were unclean through contact with a dead person, so that they could not keep the Passover on that day. They came before Moses and Aaron that day,
-v07: and those men said to him, “We are unclean through contact with a dead person. Why should we be kept from presenting the LORD’s offering at its appointed time among the Israelites?”
-v08: Moses said to them, “Wait, and I will hear what the LORD commands concerning you.”
+v01: In the first month of the second year after the Israelites left Egypt, the LORD spoke to Moses in the wilderness of Sinai:
+v02: “The Israelites are to keep the Passover at its appointed time.
+v03: Keep it at twilight on the fourteenth day of this month, its appointed time. Follow all its statutes and all its regulations.”
 </p>
 
 <p>
-v09: The LORD spoke to Moses, saying,
-v10: “Speak to the Israelites, saying: If someone among you or your descendants is unclean because of a dead person, or is on a distant journey, that person may still keep the Passover to the LORD.
-v11: They will keep it in the second month, on the fourteenth day at twilight. They will eat it with unleavened bread and bitter herbs.
-v12: They will leave none of it until morning and break none of its bones. According to every statute of the Passover they will keep it.
-v13: But anyone who is clean and is not on a journey yet fails to keep the Passover—that person will be cut off from the people, because the LORD’s offering was not presented at its appointed time. That person will bear their sin.
-v14: If a resident alien lives among you and keeps the Passover to the LORD, according to the statute of the Passover and according to its ordinance, so will that person do. You will have one statute for both the resident alien and the native of the land.”
+v04: Moses instructed the Israelites to keep the Passover.
+v05: They kept the Passover in the wilderness of Sinai, at twilight on the fourteenth day of the first month. The Israelites did everything the LORD had commanded Moses.
 </p>
 
-## The Cloud Over the Tabernacle
+## Those unable to keep the Passover
 
 <p>
-v15: On the day the tabernacle was set up, the cloud covered the tabernacle, the Tent of the Testimony; and from evening until morning it was over the tabernacle like the appearance of fire.
-v16: So it was continually: the cloud covered it by day, and the appearance of fire by night.
-v17: Whenever the cloud lifted from over the tent, afterward the Israelites set out; and in the place where the cloud settled, there the Israelites camped.
-v18: At the command of the LORD the Israelites set out, and at the command of the LORD they camped. As long as the cloud rested over the tabernacle, they remained in camp.
+v06: But some men were unclean because of a dead person and could not keep the Passover that day. That same day they came before Moses and Aaron.
+v07: They said to Moses, “We are unclean because of a dead person. Why should we be kept from bringing the LORD’s offering at its appointed time with the rest of Israel?”
+v08: Moses answered, “Wait here while I hear what the LORD commands concerning you.”
 </p>
 
 <p>
-v19: Even when the cloud remained over the tabernacle many days, the Israelites kept the charge of the LORD and did not set out.
-v20: Sometimes the cloud remained over the tabernacle only a few days; at the command of the LORD they camped, and at the command of the LORD they set out.
-v21: Sometimes the cloud remained from evening until morning, and when the cloud lifted in the morning they set out. Whether by day or by night, whenever the cloud lifted, they set out.
-v22: Whether two days, a month, or a longer time, as long as the cloud remained over the tabernacle, resting upon it, the Israelites remained in camp and did not set out; but when it lifted, they set out.
-v23: At the command of the LORD they camped, and at the command of the LORD they set out. They kept the charge of the LORD according to the command of the LORD through Moses.
+v09: The LORD gave Moses this instruction:
+v10: “Tell the Israelites: ‘Anyone among you or your descendants who is unclean because of a dead person, or away on a distant journey, may still keep the Passover for the LORD.
+v11: They are to keep it at twilight on the fourteenth day of the second month, eating it with unleavened bread and bitter herbs.
+v12: They must leave none of it until morning and must not break any of its bones. They are to follow every statute for the Passover.
+</p>
+
+<p>
+v13: But anyone who is clean and not away on a journey, yet fails to keep the Passover, will be cut off from their people. They did not bring the LORD’s offering at its appointed time; they must bear their sin.
+v14: If a resident foreigner lives among you and keeps the Passover for the LORD, that person must follow its statutes and regulations. You are to have one rule for the resident foreigner and the native-born alike.’”
+</p>
+
+## Following the cloud
+
+<p>
+v15: On the day the tabernacle was set up, the cloud covered it—the tent of the testimony. From evening until morning, something like fire appeared over the tabernacle.
+v16: It was always this way: the cloud covered the tabernacle, and at night it had the appearance of fire.
+</p>
+
+<p>
+v17: Whenever the cloud rose from above the tent, the Israelites would then set out. Wherever the cloud settled, the Israelites would make camp.
+v18: At the LORD’s command the Israelites set out, and at the LORD’s command they made camp. As long as the cloud rested over the tabernacle, they stayed in camp.
+v19: Even when the cloud stayed over the tabernacle for many days, the Israelites kept the LORD’s charge and did not set out.
+</p>
+
+<p>
+v20: Sometimes the cloud stayed over the tabernacle for only a few days. At the LORD’s command they stayed in camp, and at the LORD’s command they set out.
+v21: Sometimes the cloud stayed only from evening to morning. If it rose in the morning, they set out. By day or by night, whenever it rose, they set out.
+v22: Whether the cloud stayed over the tabernacle for two days, a month or a year, the Israelites remained in camp and did not set out. When it rose, they set out.
+v23: At the LORD’s command they made camp, and at the LORD’s command they set out. They kept the LORD’s charge, following the LORD’s command given through Moses.
 </p>
 
 ## Notes
 
-v06–08: The men’s impurity is not treated as rebellion. Their question opens a space for further instruction, and Moses waits for a word from the LORD rather than improvising an answer.
+v1: This first-month setting precedes the second-month census in Numbers 1:1. The book does not place every account in chronological sequence.
 
-v10–12: The second-month Passover allows participation after unavoidable impurity or travel without making the appointed feast optional.
+v3: “At twilight” renders the Hebrew “between the evenings,” as in Exodus 12:6. The expression’s precise time span is disputed.
 
-v13: “cut off” — The Hebrew phrase marks serious exclusion or judgment, but the text does not specify the precise social or divine mechanism in every occurrence.
+v6–12: Uncleanness from a dead person prevents these men from participating at the usual time. It is not described as wrongdoing. The answer provides a second-month observance while retaining the Passover’s requirements.
 
-v14: The resident alien who participates in Passover follows the same ritual statute as the native-born Israelite.
+v13: “Cut off” names a severe loss of place among one’s people. The verse does not specify whether this is imposed by the community or by God, or exactly how it occurs.
 
-v18–23: The repeated phrases “at the command of the LORD” and “when the cloud lifted” make Israel’s movement dependent upon divine presence rather than a fixed human schedule.
+v14: The resident foreigner and the native-born follow the same Passover rule. Exodus 12:48–49 gives further conditions for a resident foreigner’s participation.
+
+v21: The final day-and-night phrase is read here as allowing departure at either time. It can also describe a cloud that stays for a day and a night before rising.
+
+v22: The word rendered “a year” is literally “days,” used here as an extended period after two days and a month. “A longer time” is another possible rendering.
 
 ## Vocabulary
 
-v02: פֶּסַח (pesach)
-“Passover.” The covenant festival remembering the LORD’s deliverance from Egypt.
+v2: Passover — pesaḥ
+The observance recalling Israel’s deliverance from Egypt; the term can also name the sacrifice eaten at the meal.
 
-v03: מוֹעֵד (moed)
-“Appointed time.” A designated sacred time or meeting.
+v14: Resident foreigner — ger
+Someone living among a people outside their own ancestral community.
 
-v06: טָמֵא (tame)
-“Unclean.” A ritual state restricting participation in sacred activity.
-
-v14: גֵּר (ger)
-“Resident alien.” A non-native person living within Israel’s community.
-
-v18: פִּי יְהוָה (pi YHWH)
-“Command of the LORD.” Literally “mouth of the LORD,” with a sense of movement in response to divine speech.
+v19: Keep the charge — shamar mishmeret
+Attend to an entrusted duty. The phrase used for Levite responsibilities also describes the Israelites waiting for the LORD’s command.
