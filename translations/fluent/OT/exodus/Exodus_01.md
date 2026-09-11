@@ -4,142 +4,93 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-exodus-1-4-biblical-fluency-2026-09-11
 ---
 
-## Israel Multiplies in Egypt
+## Israel’s family grows in Egypt
 
 <p>
-v01: These are the names of the sons of Israel who came into Egypt with Jacob, each with his household:
-
-v02: Reuben, Simeon, Levi, and Judah,
-
-v03: Issachar, Zebulun, and Benjamin,
-
+v01: These are the names of Israel’s sons who came to Egypt with Jacob, each with his household:
+v02: Reuben, Simeon, Levi, and Judah;
+v03: Issachar, Zebulun, and Benjamin;
 v04: Dan and Naphtali, Gad and Asher.
-
-v05: All the descendants of Jacob were seventy persons; Joseph was already in Egypt.
 </p>
 
 <p>
-v06: Then Joseph died, and all his brothers, and all that generation.
-
-v07: But the sons of Israel were fruitful and increased greatly; they multiplied and grew exceedingly strong, so that the land was filled with them.
+v05: Jacob’s own descendants numbered seventy in all. Joseph was already in Egypt.
+v06: Joseph died, and so did all his brothers and that entire generation.
+v07: But the Israelites were fruitful and teemed with life. They multiplied and grew very strong, until the land was filled with them.
 </p>
 
-## A New King Oppresses Israel
+## A new king enslaves the Israelites
 
 <p>
-v08: Now there arose a new king over Egypt, who did not know Joseph.
-
-v09: And he said to his people, “Look, the people of the sons of Israel are too many and too strong for us.
-
-v10: Come, let us deal shrewdly with them, lest they multiply, and, if war breaks out, they join our enemies and fight against us and escape from the land.”
-</p>
-
-<p>
-v11: So they set taskmasters over them to afflict them with heavy burdens. They built for Pharaoh store cities, Pithom and Raamses.
-
-v12: But the more they were afflicted, the more they multiplied and the more they spread abroad. And the Egyptians were in dread of the sons of Israel.
-
-v13: So they ruthlessly made the sons of Israel serve,
-
-v14: and made their lives bitter with hard service, in mortar and brick, and in all kinds of work in the field. In all their service they made them serve with harshness.
-</p>
-
-## The Hebrew Midwives
-
-<p>
-v15: Then the king of Egypt said to the Hebrew midwives, one of whom was named Shiphrah and the other Puah,
-
-v16: “When you serve as midwife to the Hebrew women and see them on the birthstool, if it is a son, you will put him to death, but if it is a daughter, she will live.”
+v08: Then a new king rose to power over Egypt, one who did not know Joseph.
+v09: He told his people, “Look at the Israelites! They are more numerous and stronger than we are.
+v10: Come, let us deal shrewdly with them so they do not multiply. If war breaks out, they might join our enemies, fight against us, and leave the country.”
 </p>
 
 <p>
-v17: But the midwives feared God and did not do as the king of Egypt commanded them, but let the male children live.
-
-v18: So the king of Egypt called the midwives and said to them, “Why have you done this, and let the male children live?”
-
-v19: The midwives said to Pharaoh, “Because the Hebrew women are not like the Egyptian women, for they are vigorous and give birth before the midwife comes to them.”
+v11: So the Egyptians put forced-labor overseers over the Israelites to oppress them with heavy burdens. They built the storage cities of Pithom and Rameses for Pharaoh.
+v12: But the more they were oppressed, the more they multiplied and spread. The Egyptians came to dread the Israelites.
 </p>
 
 <p>
-v20: So God dealt well with the midwives. And the people multiplied and grew very strong.
-
-v21: And because the midwives feared God, he made them households.
+v13: The Egyptians worked the Israelites ruthlessly as slaves.
+v14: They made their lives bitter with hard labor in mortar and brick and every kind of work in the fields. In all their labor, the Egyptians treated them ruthlessly.
 </p>
 
-## Pharaoh’s Decree
+## The midwives keep the boys alive
 
 <p>
-v22: Then Pharaoh commanded all his people, “Every son that is born to the Hebrews you will cast into the Nile, but you will let every daughter live.”
+v15: The king of Egypt spoke to the Hebrew midwives, one named Shiphrah and the other Puah.
+v16: “When you help Hebrew women give birth,” he said, “look at the birthstool. If the baby is a boy, kill him. If it is a girl, let her live.”
+</p>
+
+<p>
+v17: But the midwives feared God. They did not do what the king of Egypt had told them; they kept the boys alive.
+</p>
+
+<p>
+v18: The king of Egypt summoned the midwives. “Why have you done this?” he asked. “Why have you kept the boys alive?”
+v19: The midwives answered Pharaoh, “Hebrew women are not like Egyptian women. They are vigorous and give birth before the midwife reaches them.”
+</p>
+
+<p>
+v20: God treated the midwives well, and the people multiplied and grew very strong.
+v21: Because the midwives feared God, he gave them households of their own.
+</p>
+
+<p>
+v22: Then Pharaoh commanded all his people, “Throw every newborn boy into the Nile, but keep every girl alive.”
 </p>
 
 ## Notes
 
-v01–05: The opening recalls Genesis, anchoring continuity of identity and promise.
+v5: The Hebrew gives seventy, as in Genesis 46:27. The ancient Greek gives seventy-five. Exodus speaks here of Jacob’s descendants; the earlier household count should not silently replace its wording.
 
-v07: Multiplication fulfills earlier blessing language, now set within tension.
+v7: Fruitful, teeming, multiplying, and filling echo the language of creation in Genesis 1. The piling up of verbs emphasizes the people’s growth.
 
-v08: “Did not know Joseph” signals political discontinuity and selective memory.
+v9–10: The claim about Israel’s numbers and strength belongs to the king’s speech. His fear includes losing the people from the land.
 
-v09–10: Fear drives policy; perceived threat leads to systemic control.
+v15: The phrase can mean Hebrew midwives or midwives serving Hebrew women. The translation follows the former without claiming the alternative is impossible.
 
-v11–14: Oppression intensifies from labor exploitation to dehumanizing conditions.
+v16: The Hebrew literally refers to ‘the two stones,’ commonly understood as a birthstool or birthing supports.
 
-v12: Growth under affliction introduces a paradox—pressure amplifies increase.
+v19: The midwives’ explanation is reported as their answer to Pharaoh. It is not a medical description of Hebrew and Egyptian women.
 
-v15–16: State violence targets generational continuity through male offspring.
-
-v17: The midwives’ fear of God overrides royal authority, establishing a moral hierarchy.
-
-v19: Their response blends truth and strategy, resisting power through speech.
-
-v20–21: Divine favor aligns with those who resist injustice.
-
-v22: Violence expands from targeted command to public decree, involving the whole society.
+v22: Unlike the earlier order to the midwives, this command addresses all Pharaoh’s people. The Hebrew wording here does not repeat ‘Hebrew’ before ‘boy.’
 
 ## Vocabulary
 
-v07: פָּרָה (pārāh)
-“To be fruitful.” Growth under blessing.
+v11–14: Oppress — ʿanah
+To afflict or humble; here forced labor imposes suffering on a people.
 
-v07: רָבָה (rāḇāh)
-“To multiply.” Increase in number or extent.
+v13–14: Ruthlessly — bepharekh
+A repeated description of the harsh way the Egyptians impose labor.
 
-v08: מֶלֶךְ (meleḵ)
-“King.” Political authority.
-
-v10: חָכַם (ḥāḵam)
-“To deal shrewdly.” Strategic, often manipulative thinking.
-“To deal shrewdly.” Strategic, often manipulative thinking.
-
-v11: סַבָּל (sabbāl)
-“Taskmaster.” Overseer of forced labor.
-
-v12: קוּץ (qûṣ)
-“To dread, feel loathing.” Deep discomfort or fear.
-
-v13: פָּרַךְ (pāraḵ)
-“To make serve ruthlessly.” Harsh domination.
-
-v14: עֲבֹדָה (ʿăḇōḏāh)
-“Service, labor.” Work under obligation.
-
-v15: יָלַד (yālaḏ)
-“To give birth.” Bring forth life.
-
-v17: יָרֵא (yārēʾ)
-“To fear.” Reverence guiding action.
-
-v17: “To live.” Preserve life.
-
-v19: חָיָה (ḥāyāh)
-
-v20: יָטַב (yāṭaḇ)
-“To deal well.” Act beneficially.
-
-v21: בַּיִת (bayiṯ)
-“Household.” Established family line.
-
-v22: שָׁלַךְ (šālaḵ)
-“To throw, cast.” Forceful disposal.
+v17, 21: Fear God — yareʾ ʾet haʾelohim
+Reverent fear of God shapes the midwives’ response to the king’s order.

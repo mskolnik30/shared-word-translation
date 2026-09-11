@@ -1,0 +1,340 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-11T11:19:55.568308+00:00",
+  "base_commit": "1fdb00287932df8c2ce39dd799c977a07db9b59d",
+  "scope": "Exodus 1–4; 100 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 59,
+    "verses": 1741
+  },
+  "source_record_count": 1213,
+  "genesis_source_references_unique_through_50": 1533,
+  "focused_assertions": {
+    "1:2": [
+      "Reuben, Simeon, Levi, and Judah"
+    ],
+    "1:3": [
+      "Issachar, Zebulun, and Benjamin"
+    ],
+    "1:4": [
+      "Dan and Naphtali, Gad and Asher"
+    ],
+    "1:5": [
+      "seventy"
+    ],
+    "1:7": [
+      "fruitful",
+      "teemed",
+      "multiplied",
+      "filled"
+    ],
+    "1:11": [
+      "Pithom and Rameses",
+      "forced-labor"
+    ],
+    "1:13": [
+      "ruthlessly",
+      "slaves"
+    ],
+    "1:14": [
+      "ruthlessly",
+      "mortar and brick",
+      "fields"
+    ],
+    "1:15": [
+      "Shiphrah",
+      "Puah"
+    ],
+    "1:16": [
+      "boy, kill him",
+      "girl, let her live"
+    ],
+    "1:17": [
+      "feared God",
+      "kept the boys alive"
+    ],
+    "1:21": [
+      "households"
+    ],
+    "1:22": [
+      "all his people",
+      "every newborn boy",
+      "every girl"
+    ],
+    "2:1": [
+      "Levi"
+    ],
+    "2:2": [
+      "three months"
+    ],
+    "2:3": [
+      "papyrus",
+      "bitumen and pitch",
+      "among the reeds"
+    ],
+    "2:5": [
+      "slave woman"
+    ],
+    "2:10": [
+      "Moses",
+      "her son",
+      "drew him out"
+    ],
+    "2:12": [
+      "struck the Egyptian dead",
+      "hid him"
+    ],
+    "2:16": [
+      "seven daughters"
+    ],
+    "2:18": [
+      "Reuel"
+    ],
+    "2:21": [
+      "Zipporah"
+    ],
+    "2:22": [
+      "Gershom",
+      "foreigner in a foreign land"
+    ],
+    "2:23": [
+      "slavery"
+    ],
+    "2:24": [
+      "God heard",
+      "God remembered",
+      "covenant",
+      "Abraham, Isaac, and Jacob"
+    ],
+    "2:25": [
+      "God saw the Israelites. God knew."
+    ],
+    "3:1": [
+      "Jethro",
+      "Horeb"
+    ],
+    "3:2": [
+      "angel of the LORD",
+      "not being consumed"
+    ],
+    "3:4": [
+      "Moses! Moses!"
+    ],
+    "3:5": [
+      "God said",
+      "holy ground"
+    ],
+    "3:6": [
+      "your father",
+      "God of Abraham",
+      "God of Isaac",
+      "God of Jacob"
+    ],
+    "3:7": [
+      "indeed seen",
+      "heard",
+      "know their pain"
+    ],
+    "3:8": [
+      "come down",
+      "bring them up",
+      "milk and honey"
+    ],
+    "3:12": [
+      "I will be with you",
+      "you all will serve God"
+    ],
+    "3:14": [
+      "I AM WHO I AM"
+    ],
+    "3:15": [
+      "forever",
+      "generation to generation"
+    ],
+    "3:16": [
+      "surely attended to you"
+    ],
+    "3:18": [
+      "three days’ journey",
+      "sacrifice"
+    ],
+    "3:19": [
+      "strong hand"
+    ],
+    "3:20": [
+      "stretch out my hand"
+    ],
+    "3:22": [
+      "Each woman",
+      "ask",
+      "silver and gold",
+      "sons and daughters",
+      "plunder"
+    ],
+    "4:6": [
+      "white as snow"
+    ],
+    "4:8": [
+      "voice of the first sign",
+      "voice of the second"
+    ],
+    "4:9": [
+      "Nile",
+      "dry ground",
+      "blood"
+    ],
+    "4:10": [
+      "mouth and tongue"
+    ],
+    "4:11": [
+      "unable to speak or deaf, sighted or blind"
+    ],
+    "4:14": [
+      "anger burned",
+      "brother Aaron the Levite"
+    ],
+    "4:15": [
+      "your mouth and his",
+      "teach you both"
+    ],
+    "4:16": [
+      "your mouth",
+      "as God to him"
+    ],
+    "4:19": [
+      "All the men"
+    ],
+    "4:20": [
+      "wife and sons",
+      "donkey",
+      "staff of God"
+    ],
+    "4:21": [
+      "I will harden his heart"
+    ],
+    "4:22": [
+      "Israel is my son, my firstborn"
+    ],
+    "4:23": [
+      "I will kill your son, your firstborn"
+    ],
+    "4:24": [
+      "LORD met him and sought to kill him"
+    ],
+    "4:25": [
+      "flint",
+      "son’s foreskin",
+      "his feet",
+      "bridegroom of blood"
+    ],
+    "4:26": [
+      "he let him alone",
+      "circumcision"
+    ],
+    "4:27": [
+      "mountain of God",
+      "kissed him"
+    ],
+    "4:30": [
+      "Aaron spoke",
+      "he performed"
+    ],
+    "4:31": [
+      "believed",
+      "heard",
+      "attended",
+      "seen their suffering",
+      "bowed down"
+    ]
+  },
+  "written_read_record_4_2_hashed_in_full": true,
+  "prior_batches_and_unaffected_approvals_preserved": true,
+  "TSW_prior_revisions_and_Companion_unchanged": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "The authoring model read every Hebrew verse before drafting, read every TSW comparator afterward, and reread the assembled English. Focused corrections clarified the speaker in 3:5 and corrected the 4:31 textual note from saw to the Greek rejoiced. Selected numerical, name, repetition, agency, and ambiguity checks are recorded above. This is not independent editorial review.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
