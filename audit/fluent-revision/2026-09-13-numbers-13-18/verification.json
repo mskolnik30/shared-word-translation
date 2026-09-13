@@ -1,0 +1,820 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-13T10:29:21.643376+00:00",
+  "base_commit": "310bdad4b60bd136696665ee94d93362ffd51135",
+  "scope": "Numbers 13–18; 214 verses",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 149,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-16-17/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-18-20/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 94,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-21-22/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-23-25/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-26-27/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-1-2/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 88,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-3-4/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-5-6/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 58,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-7-8/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 115,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-9-10/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 59,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-11-12/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-13-18/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 140,
+    "verses": 4398
+  },
+  "source_record_count": 1289,
+  "public_source_mapping": "Public 13–15, 16:1–35 and 18 align directly; public 16:36–50 maps to Hebrew 17:1–15; public 17:1–13 maps to Hebrew 17:16–28. All 214 records are unique and complete, with 34 annotations across 33 records retained. Earlier books and their public/source differences remain bound unchanged.",
+  "source_annotations_hashed_in_full": [
+    "14:36",
+    "16:11",
+    "16:21",
+    "16:27",
+    "16:36",
+    "16:37",
+    "16:38",
+    "16:39",
+    "16:40",
+    "16:41",
+    "16:42",
+    "16:43",
+    "16:44",
+    "16:45",
+    "16:46",
+    "16:47",
+    "16:48",
+    "16:49",
+    "16:50",
+    "17:1",
+    "17:2",
+    "17:3",
+    "17:4",
+    "17:5",
+    "17:6",
+    "17:7",
+    "17:8",
+    "17:9",
+    "17:10",
+    "17:11",
+    "17:12",
+    "17:13",
+    "18:8"
+  ],
+  "focused_assertions": {
+    "13:2": [
+      "one man",
+      "ancestral tribe",
+      "leader"
+    ],
+    "13:11": [
+      "Joseph",
+      "Manasseh",
+      "Gaddi",
+      "Susi"
+    ],
+    "13:16": [
+      "Hoshea",
+      "Nun",
+      "Joshua"
+    ],
+    "13:21": [
+      "Zin",
+      "Rehob",
+      "Lebo-hamath"
+    ],
+    "13:22": [
+      "Ahiman",
+      "Sheshai",
+      "Talmai",
+      "seven years",
+      "Zoan"
+    ],
+    "13:23": [
+      "single cluster",
+      "Two men",
+      "pole",
+      "pomegranates",
+      "figs"
+    ],
+    "13:25": [
+      "forty days"
+    ],
+    "13:26": [
+      "Kadesh",
+      "Paran"
+    ],
+    "13:29": [
+      "Amalekites",
+      "Hittites",
+      "Jebusites",
+      "Amorites",
+      "Canaanites",
+      "Jordan"
+    ],
+    "13:33": [
+      "Nephilim",
+      "grasshoppers",
+      "own eyes"
+    ],
+    "14:2": [
+      "If only"
+    ],
+    "14:3": [
+      "wives",
+      "little ones",
+      "plunder",
+      "sword"
+    ],
+    "14:7": [
+      "very, very good"
+    ],
+    "14:9": [
+      "bread",
+      "shade",
+      "Do not fear"
+    ],
+    "14:12": [
+      "plague",
+      "disinherit",
+      "greater",
+      "stronger"
+    ],
+    "14:14": [
+      "eye to eye",
+      "cloud",
+      "day",
+      "fire",
+      "night"
+    ],
+    "14:16": [
+      "slaughtered"
+    ],
+    "14:18": [
+      "faithful love",
+      "guilt and rebellion",
+      "not clearing",
+      "fathers’ guilt",
+      "third",
+      "fourth"
+    ],
+    "14:20": [
+      "forgiven"
+    ],
+    "14:22": [
+      "ten times"
+    ],
+    "14:24": [
+      "Caleb",
+      "different spirit",
+      "descendants"
+    ],
+    "14:25": [
+      "tomorrow",
+      "Sea of Reeds"
+    ],
+    "14:29": [
+      "corpses",
+      "counted",
+      "twenty"
+    ],
+    "14:30": [
+      "raised my hand",
+      "Caleb",
+      "Jephunneh",
+      "Joshua",
+      "Nun"
+    ],
+    "14:31": [
+      "little ones",
+      "plunder",
+      "know"
+    ],
+    "14:33": [
+      "shepherds",
+      "forty years",
+      "prostitution"
+    ],
+    "14:34": [
+      "forty days",
+      "forty years",
+      "opposition"
+    ],
+    "14:37": [
+      "plague"
+    ],
+    "14:38": [
+      "Joshua",
+      "Caleb",
+      "alive"
+    ],
+    "14:44": [
+      "Neither Moses",
+      "ark",
+      "left the camp"
+    ],
+    "14:45": [
+      "Hormah"
+    ],
+    "15:4": [
+      "one-tenth",
+      "ephah",
+      "one-quarter",
+      "hin",
+      "oil"
+    ],
+    "15:5": [
+      "lamb",
+      "one-quarter",
+      "wine"
+    ],
+    "15:6": [
+      "ram",
+      "two-tenths",
+      "one-third",
+      "oil"
+    ],
+    "15:7": [
+      "one-third",
+      "wine"
+    ],
+    "15:9": [
+      "bull",
+      "three-tenths",
+      "half",
+      "oil"
+    ],
+    "15:10": [
+      "half",
+      "wine"
+    ],
+    "15:15": [
+      "one rule",
+      "foreigner",
+      "alike"
+    ],
+    "15:20": [
+      "cake",
+      "first",
+      "dough",
+      "threshing floor"
+    ],
+    "15:24": [
+      "one young bull",
+      "burnt offering",
+      "one male goat",
+      "sin offering"
+    ],
+    "15:26": [
+      "foreigner",
+      "forgiven"
+    ],
+    "15:27": [
+      "year-old female goat"
+    ],
+    "15:30": [
+      "raised hand",
+      "cut off"
+    ],
+    "15:31": [
+      "guilt remains"
+    ],
+    "15:32": [
+      "man",
+      "wood",
+      "Sabbath"
+    ],
+    "15:35": [
+      "put to death",
+      "whole community",
+      "outside"
+    ],
+    "15:36": [
+      "stoned him to death"
+    ],
+    "15:38": [
+      "tassels",
+      "corners",
+      "blue cord"
+    ],
+    "15:39": [
+      "scouting",
+      "heart",
+      "eyes",
+      "prostituting"
+    ],
+    "16:1": [
+      "Korah",
+      "Izhar",
+      "Kohath",
+      "Levi",
+      "Dathan",
+      "Abiram",
+      "Eliab",
+      "On",
+      "Peleth",
+      "Reuben"
+    ],
+    "16:2": [
+      "two hundred and fifty",
+      "men of standing"
+    ],
+    "16:3": [
+      "every one",
+      "holy",
+      "gone too far"
+    ],
+    "16:7": [
+      "tomorrow",
+      "gone too far"
+    ],
+    "16:10": [
+      "priesthood"
+    ],
+    "16:12": [
+      "We will not come up"
+    ],
+    "16:13": [
+      "milk and honey",
+      "kill us"
+    ],
+    "16:14": [
+      "milk and honey",
+      "gouge",
+      "eyes",
+      "We will not come up"
+    ],
+    "16:15": [
+      "one donkey",
+      "harmed"
+    ],
+    "16:17": [
+      "two hundred and fifty",
+      "Aaron",
+      "too"
+    ],
+    "16:22": [
+      "spirits of all flesh",
+      "one man",
+      "whole community"
+    ],
+    "16:27": [
+      "wives",
+      "sons",
+      "little ones"
+    ],
+    "16:30": [
+      "creates",
+      "mouth",
+      "alive",
+      "Sheol"
+    ],
+    "16:32": [
+      "households",
+      "Korah",
+      "possessions"
+    ],
+    "16:35": [
+      "LORD",
+      "two hundred and fifty"
+    ],
+    "16:37": [
+      "Eleazar",
+      "coals",
+      "censers are holy"
+    ],
+    "16:39": [
+      "bronze",
+      "altar"
+    ],
+    "16:40": [
+      "unauthorized",
+      "Aaron’s descendants"
+    ],
+    "16:41": [
+      "You have killed"
+    ],
+    "16:46": [
+      "fire from the altar",
+      "atonement",
+      "plague"
+    ],
+    "16:48": [
+      "between the dead and the living"
+    ],
+    "16:49": [
+      "Fourteen thousand seven hundred",
+      "besides"
+    ],
+    "16:50": [
+      "plague had stopped"
+    ],
+    "17:2": [
+      "twelve staffs",
+      "name"
+    ],
+    "17:3": [
+      "Aaron",
+      "Levi"
+    ],
+    "17:6": [
+      "twelve",
+      "among"
+    ],
+    "17:8": [
+      "buds",
+      "blossoms",
+      "almonds"
+    ],
+    "17:10": [
+      "back",
+      "testimony",
+      "not die"
+    ],
+    "17:12": [
+      "All of us are lost"
+    ],
+    "17:13": [
+      "Must we all die"
+    ],
+    "18:1": [
+      "ancestral house",
+      "sanctuary",
+      "sons",
+      "priesthood"
+    ],
+    "18:3": [
+      "furnishings",
+      "altar",
+      "both they and you"
+    ],
+    "18:6": [
+      "gift to you",
+      "given to the LORD"
+    ],
+    "18:7": [
+      "inside the curtain",
+      "gift of service",
+      "put to death"
+    ],
+    "18:9": [
+      "grain offerings",
+      "sin offerings",
+      "guilt offerings"
+    ],
+    "18:10": [
+      "Every male",
+      "most holy"
+    ],
+    "18:11": [
+      "sons",
+      "daughters",
+      "clean"
+    ],
+    "18:12": [
+      "oil",
+      "new wine",
+      "grain"
+    ],
+    "18:14": [
+      "irrevocably"
+    ],
+    "18:15": [
+      "redeem the firstborn humans",
+      "unclean animals"
+    ],
+    "18:16": [
+      "one month",
+      "five shekels",
+      "twenty gerahs"
+    ],
+    "18:17": [
+      "do not redeem",
+      "cattle",
+      "sheep",
+      "goats",
+      "blood",
+      "fat"
+    ],
+    "18:18": [
+      "breast",
+      "right thigh"
+    ],
+    "18:19": [
+      "sons",
+      "daughters",
+      "covenant of salt"
+    ],
+    "18:20": [
+      "no inheritance",
+      "I am your share"
+    ],
+    "18:26": [
+      "tithe of the tithe"
+    ],
+    "18:28": [
+      "Aaron the priest"
+    ],
+    "18:29": [
+      "finest"
+    ],
+    "18:31": [
+      "households",
+      "anywhere",
+      "payment"
+    ],
+    "18:32": [
+      "guilt",
+      "finest",
+      "profane",
+      "not die"
+    ]
+  },
+  "TSW_prior_revisions_Companion_and_unaffected_approvals_preserved": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions",
+  "git_diff_check": "",
+  "editorial_self_check": "All 214 selected pinned Hebrew verses were read before drafting. Supplemental NET grammatical and lexical notes were consulted on selected difficulties; all TSW comparators were read after drafting. Source-focused checks covered twelve scout names and fathers, competing claims, oath and forgiveness, ten tests and forty-day/year correspondence, exact offering quantities, equal resident-foreigner instructions, defiance and Sabbath execution, tassels and scouting wordplay, Korah’s opening syntax, household harm, 250 and 14,700 deaths, shifted source numbering, twelve staffs and almond progression, access boundaries, sons/daughters and clean status, firstborn redemption, five shekels/twenty gerahs, salt covenant and tithe of the tithe. Sacrificial terms were aligned with earlier revised chapters, without changing those chapters. This is an authoring self-check, not independent scholarly review or reader testing.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}
