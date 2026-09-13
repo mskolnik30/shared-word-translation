@@ -216,16 +216,21 @@
       "scope": "Deuteronomy 13–18",
       "verses": 134,
       "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-13-18/deuteronomy-verse-review.json"
+    },
+    {
+      "scope": "Deuteronomy 19–26",
+      "verses": 179,
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-19-26/deuteronomy-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Deuteronomy 19–26",
-      "action": "Continue the source-based draft in complete chapters after 13–18, preserving exact source bindings and distinct instruction forms."
-    },
-    {
       "scope": "Deuteronomy 27–34",
       "action": "Continue the source-based draft in complete chapters after 19–26, preserving exact source bindings and distinct instruction forms."
+    },
+    {
+      "scope": "Deuteronomy whole-book consistency review",
+      "action": "After completing chapters 27–34, review names, legal distinctions, repeated covenant language and public/source mapping across the book; rebind any changed earlier text and preserve historical provenance."
     }
   ],
   "standards": [

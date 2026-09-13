@@ -4,147 +4,97 @@ testament: OT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-19-26-biblical-fluency-2026-09-13
 ---
 
-## Divorce and Remarriage
+## A Former Husband May Not Take Her Back
 
 <p>
-v01: “If a man takes a woman and marries her, and it happens that she does not find favor in his eyes because he finds in her some indecent matter, and he writes her a certificate of divorce, puts it in her hand, and sends her from his house,
-
-v02: and she goes out from his house and becomes the wife of another man,
-
-v03: and the latter husband hates her and writes her a certificate of divorce, puts it in her hand, and sends her from his house, or if the latter husband who took her as wife dies,
-
-v04: then her first husband, who sent her away, may not take her again to be his wife after she has been defiled, for that is detestable before the LORD. You will not bring sin upon the land that the LORD your God is giving you as an inheritance.
+v01: “Suppose a man marries a woman, but she no longer finds favor in his eyes because he finds something indecent in her. He writes her a certificate of divorce, puts it in her hand, and sends her out of his house.
+v02: After leaving his house, she goes and becomes another man's wife.
+v03: If the second husband turns against her, writes her a certificate of divorce, puts it in her hand, and sends her out of his house—or if that second husband dies—
+v04: her first husband, who sent her away, may not take her as his wife again after she has been defiled. That is detestable before the LORD. Do not bring sin upon the land the LORD your God is giving you as an inheritance.
 </p>
 
-## A Newly Married Man
+## Marriage, Livelihood, and Life
 
 <p>
-v05: “When a man takes a new wife, he will not go out with the army or have any public duty imposed upon him. He will be free at home one year and bring joy to the wife whom he has taken.
+v05: When a man has newly married, he must not go out with the army or be assigned other duties. He is to be free at home for one year, bringing joy to the wife he has married.
+v06: Do not take a pair of millstones, or even the upper stone, as a pledge. That would be taking someone's life as a pledge.
+v07: If a man is caught kidnapping one of his fellow Israelites, treating that person as a slave and selling them, that kidnapper must die. You must purge the evil from among you.
 </p>
 
-## Protect the Means of Life
+## Following the Priests’ Instruction
 
 <p>
-v06: “No one will take a handmill or an upper millstone as a pledge, for that would be taking a life as a pledge.
+v08: In a case of a defiling skin disease, take great care to do everything the Levitical priests instruct you. Carefully follow what I commanded them.
+v09: Remember what the LORD your God did to Miriam on the road after you came out of Egypt.
 </p>
 
-## Kidnapping Is a Capital Offense
+## Pledges and Wages
 
 <p>
-v07: “If a man is found kidnapping one of his brothers from the children of Israel, treating him as merchandise or selling him, then that kidnapper will die. So you will remove the evil from your midst.
+v10: When you make any loan to your neighbor, do not enter the house to take the pledge.
+v11: Stand outside. The person receiving your loan must bring the pledge out to you.
+v12: If that person is poor, do not go to sleep keeping the pledge.
+v13: Be sure to return it at sunset, so that your neighbor can sleep in the cloak and bless you. This will count as righteousness for you before the LORD your God.
 </p>
 
-## Be Careful concerning Skin Disease
-
 <p>
-v08: “Be careful concerning an outbreak of skin disease, to guard diligently and do according to all that the Levitical priests instruct you. As I commanded them, so you will be careful to do.
-
-v09: Remember what the LORD your God did to Miriam on the way when you came out from Egypt.
+v14: Do not exploit a poor and needy hired worker, whether a fellow Israelite or a resident foreigner living in your land, in your towns.
+v15: Pay the wages that same day, before sunset. The worker is poor and depends on them. Otherwise the worker may cry to the LORD against you, and you will be guilty of sin.
 </p>
 
-## Do Not Invade a Debtor’s House
+## Responsibility and Justice
 
 <p>
-v10: “When you lend your neighbor any kind of loan, you will not enter his house to take his pledge.
-
-v11: You will stand outside, and the man to whom you lend will bring the pledge outside to you.
-
-v12: And if he is a poor man, you will not sleep with his pledge.
-
-v13: You will surely return the pledge to him when the sun goes down, so that he may sleep in his garment and bless you. It will be righteousness for you before the LORD your God.
+v16: Parents must not be put to death for their children, nor children for their parents. Each must be put to death only for their own sin.
 </p>
 
-## Pay Workers on Time
-
 <p>
-v14: “You will not oppress a hired worker who is poor and needy, whether one of your brothers or one of the resident aliens who is in your land within your gates.
-
-v15: On his day you will give him his wages before the sun goes down, for he is poor and sets his life upon it, lest he cry against you to the LORD and it become sin in you.
+v17: Do not deny justice to the resident foreigner or the fatherless, and do not take a widow's garment as a pledge.
+v18: Remember that you were a slave in Egypt, and the LORD your God redeemed you from there. That is why I command you to do this.
 </p>
 
-## Each Person Bears Personal Guilt
+## Leave Food for Others
 
 <p>
-v16: “Fathers will not be put to death for sons, and sons will not be put to death for fathers. Each person will be put to death for his own sin.
-</p>
-
-## Justice for the Resident Alien, Orphan, and Widow
-
-<p>
-v17: “You will not distort the justice of the resident alien or the orphan, and you will not take a widow’s garment as a pledge.
-
-v18: You will remember that you were a servant in Egypt and the LORD your God redeemed you from there. Therefore I command you to do this thing.
-</p>
-
-## Leave Gleanings for the Vulnerable
-
-<p>
-v19: “When you reap your harvest in your field and forget a sheaf in the field, you will not return to take it. It will be for the resident alien, the orphan, and the widow, so that the LORD your God may bless you in all the work of your hands.
-
-v20: When you beat your olive tree, you will not go over the branches again. What remains will be for the resident alien, the orphan, and the widow.
-
-v21: When you harvest your vineyard, you will not glean it again afterward. What remains will be for the resident alien, the orphan, and the widow.
-
-v22: You will remember that you were a servant in the land of Egypt. Therefore I command you to do this thing.
+v19: When you harvest your field and forget a sheaf, do not go back for it. Leave it for the resident foreigner, the fatherless, and the widow, so that the LORD your God may bless all the work of your hands.
+v20: When you beat your olive trees, do not go over the branches again. Leave what remains for the resident foreigner, the fatherless, and the widow.
+v21: When you gather your grapes, do not glean the vineyard afterward. Leave what remains for the resident foreigner, the fatherless, and the widow.
+v22: Remember that you were a slave in Egypt. That is why I command you to do this.”
 </p>
 
 ## Notes
 
-v01–04: The passage regulates a specific remarriage scenario rather than giving a complete theology of divorce. The prohibition falls on the first husband taking the woman back after an intervening marriage.
+v1–4: The sequence describes a first marriage and divorce, a second marriage, and its ending by divorce or death. The prohibition is the return to the first husband after that sequence. “Something indecent” is not defined more precisely in this passage.
 
-v01: “some indecent matter” is deliberately unspecific and became the subject of later legal debate. TSW preserves its open wording.
+v4: “After she has been defiled” preserves the text’s assessment in this particular sequence. The translation does not broaden it into a statement about all divorced people.
 
-v04: “defiled” describes the legal status created by the intervening marriage in this case, not a general condemnation of the divorced woman’s moral character.
+v6: The millstones are used to prepare food. The Hebrew calls taking them as security taking a “life” as security.
 
-v05: The newly married husband is freed from military and public duties for one year so the new household can be established.
+v8–9: The term tsaraat names a ritual category of skin affliction, not a precise diagnosis of modern leprosy. The reminder about Miriam points back to Numbers 12.
 
-v06: Millstones are essential to daily food preparation. Taking them as collateral threatens the borrower’s means of life.
+v16: “Parents” renders the collective “fathers” in this rule about family liability; “children” renders “sons.” The command rejects execution for another family member’s offense.
 
-v07: Kidnapping, enslaving, or selling a fellow Israelite is treated as a capital crime.
-
-v08: The Hebrew term traditionally rendered “leprosy” refers to a range of skin conditions and does not map neatly onto modern Hansen’s disease. TSW uses “skin disease.”
-
-v10–13: The lender must remain outside the debtor’s house, limiting humiliating or coercive seizure of collateral.
-
-v15: The worker “sets his life” upon the daily wage because survival depends upon immediate payment.
-
-v16: This legal principle prohibits executing family members for another person’s crime. Other texts address intergenerational consequences in different theological contexts; TSW preserves this court rule distinctly.
-
-v19–22: Agricultural inefficiency becomes mandated generosity. Forgotten sheaves and remaining olives and grapes create food access for the vulnerable.
+v19–22: The resident foreigner, fatherless, and widow are named separately in each harvest rule. Their repeated inclusion and the repeated memory of slavery are retained.
 
 ## Vocabulary
 
-v01: סֵפֶר כְּרִיתֻת (sefer keritut)
-“Certificate of divorce.” A written document formalizing separation.
+v1: Certificate of divorce
+A written document of dismissal placed in the wife’s hand.
 
-v01: עֶרְוַת דָּבָר (ervat davar)
-“Indecent matter.” A deliberately broad legal phrase.
+v6: Pledge
+An item held as security for a loan.
 
-v06: רֵחַיִם (rechayim)
-“Handmill.” Equipment for grinding grain.
+v13: Righteousness
+Conduct recognized as right before God.
 
-v07: גָּנַב נֶפֶשׁ (ganav nefesh)
-“To kidnap a person.” Literally to steal a life/person.
+v19: Sheaf
+A bundle of cut grain stalks.
 
-v08: צָרַעַת (tsara'at)
-“Skin disease.” A ritual-medical category broader than modern leprosy.
-
-v10: עֲבוֹט (avot)
-“To take a pledge.” To receive collateral for a loan.
-
-v14: עָשַׁק (ashaq)
-“To oppress” or “defraud.” Especially withholding what is due.
-
-v15: שָׂכָר (sakhar)
-“Wages.” Payment owed to hired labor.
-
-v17: הַטָּה מִשְׁפָּט (hattah mishpat)
-“To distort justice.” To bend legal judgment unfairly.
-
-v19: עֹמֶר (omer)
-“Sheaf.” A bundle of harvested grain.
-
-v21: עָלַל (alal)
-“To glean.” To gather remaining fruit after the main harvest.
+v21: Glean
+Gather what remains after the main harvest.

@@ -4,158 +4,116 @@ testament: OT
 chapter: 22
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-19-26-biblical-fluency-2026-09-13
 ---
 
-## Do Not Ignore Your Neighbor’s Loss
+## Do Not Look the Other Way
 
 <p>
-v01: “You will not see your brother’s ox or sheep wandering away and hide yourself from them. You will surely return them to your brother.
-
-v02: And if your brother is not near you or you do not know him, then you will gather it into your house, and it will remain with you until your brother seeks it. Then you will return it to him.
-
-v03: Thus you will do with his donkey, with his garment, and with every lost thing of your brother that is lost from him and you find. You may not hide yourself.
-
-v04: You will not see your brother’s donkey or ox fallen on the road and hide yourself from them. You will surely raise it with him.
+v01: “If you see your fellow Israelite's ox or sheep straying, do not look the other way. Be sure to bring it back to its owner.
+v02: If the owner does not live nearby or you do not know who it is, take the animal home and keep it until the owner comes looking for it. Then give it back.
+v03: Do the same for a donkey, a cloak, or anything else your fellow Israelite loses and you find. You must not look the other way.
+v04: If you see your fellow Israelite's donkey or ox fallen on the road, do not look the other way. Help the owner get it back on its feet.
 </p>
 
-## Distinctions in Clothing and Creation
+## Clothing, Animals, and Household Care
 
 <p>
-v05: “A woman will not wear the gear of a man, and a man will not put on the garment of a woman, for everyone who does these things is detestable to the LORD your God.
+v05: A woman must not wear a man's gear, and a man must not put on a woman's garment. Everyone who does these things is detestable to the LORD your God.
 </p>
 
-## A Bird’s Nest
-
 <p>
-v06: “If a bird’s nest happens to be before you on the way, in any tree or on the ground, with young ones or eggs, and the mother is sitting upon the young or upon the eggs, you will not take the mother together with the young.
-
-v07: You will surely send the mother away, but the young you may take for yourself, so that it may go well with you and you may prolong your days.
+v06: If you come across a bird's nest along the way, in a tree or on the ground, with chicks or eggs and the mother sitting over them, do not take the mother with the young.
+v07: Be sure to let the mother go. You may take the young for yourself, so that it may go well with you and you may live long.
 </p>
 
-## Build a Parapet
-
 <p>
-v08: “When you build a new house, you will make a parapet for your roof, so that you do not place bloodguilt on your house if someone falls from it.
+v08: When you build a new house, make a parapet around the roof. Then you will not bring bloodguilt on your house if someone falls from it.
 </p>
 
-## Do Not Mix What Must Be Kept Distinct
+## Fields and Garments
 
 <p>
-v09: “You will not sow your vineyard with two kinds of seed, lest the whole yield become forfeited—the seed that you sow and the produce of the vineyard.
-
-v10: You will not plow with an ox and a donkey together.
-
-v11: You will not wear cloth of wool and linen woven together.
-
-v12: You will make tassels for yourself on the four corners of the covering with which you cover yourself.
+v09: Do not sow your vineyard with two kinds of seed, or the whole yield will be forfeited—the crop you sow and the produce of the vineyard.
+v10: Do not plow with an ox and a donkey yoked together.
+v11: Do not wear mixed fabric made of wool and linen together.
+v12: Make tassels for the four corners of the cloak you wrap around yourself.
 </p>
 
-## Accusation against a New Wife
+## An Accusation against a Wife
 
 <p>
-v13: “If a man takes a wife and goes in to her, then hates her,
-
-v14: and charges her with shameful deeds and brings an evil name upon her, saying, ‘I took this woman, but when I approached her I did not find evidence of virginity in her,’
-
-v15: then the father of the young woman and her mother will take and bring out the evidence of the young woman’s virginity to the elders of the city at the gate.
-
-v16: The young woman’s father will say to the elders, ‘I gave my daughter to this man as wife, but he hates her.
-
-v17: And look, he has charged her with shameful deeds, saying, “I did not find evidence of virginity in your daughter.” But this is the evidence of my daughter’s virginity.’ Then they will spread the cloth before the elders of the city.
-
-v18: The elders of that city will take the man and discipline him.
-
-v19: They will fine him one hundred shekels of silver and give them to the father of the young woman, because he brought an evil name upon a virgin of Israel. She will remain his wife; he may not send her away all his days.
+v13: Suppose a man marries a woman, has sex with her, and then turns against her,
+v14: bringing accusations against her and giving her a bad name. He says, ‘I married this woman, but when I approached her I found no evidence of her virginity.’
+v15: Then the young woman's father and mother must bring the evidence of her virginity to the elders of the town at the gate.
+v16: Her father must tell the elders, ‘I gave my daughter to this man as his wife, but he has turned against her.
+v17: Now he has made accusations, saying, “I found no evidence of your daughter's virginity.” But here is the evidence of my daughter's virginity.’ Then they must spread the cloth before the elders of the town.
+v18: The elders of that town must take the man and punish him.
+v19: They must fine him a hundred shekels of silver and give it to the young woman's father, because he has given a virgin of Israel a bad name. She is to remain his wife, and he may never divorce her as long as he lives.
 </p>
 
-## If the Accusation Is True
-
 <p>
-v20: “But if this matter is true and evidence of virginity was not found for the young woman,
-
-v21: then they will bring the young woman out to the entrance of her father’s house, and the men of her city will stone her with stones so that she dies, because she committed a disgraceful thing in Israel by prostituting herself in her father’s house. So you will remove the evil from your midst.
+v20: But if the accusation is true and no evidence of the young woman's virginity is found,
+v21: they must bring her to the entrance of her father's house, and the men of her town must stone her to death. She has committed an outrage in Israel by acting as a prostitute in her father's house. You must purge the evil from among you.
 </p>
 
-## Laws concerning Sexual Relations
+## Sexual Offenses
 
 <p>
-v22: “If a man is found lying with a woman married to a husband, then both of them will die, the man who lay with the woman and the woman. So you will remove the evil from Israel.
-
-v23: If there is a young virgin betrothed to a man, and another man finds her in the city and lies with her,
-
-v24: then you will bring both of them out to the gate of that city and stone them with stones so that they die—the young woman because she did not cry out in the city, and the man because he humbled his neighbor’s wife. So you will remove the evil from your midst.
-
-v25: But if the man finds the betrothed young woman in the field and the man seizes her and lies with her, then only the man who lay with her will die.
-
-v26: You will do nothing to the young woman. There is no sin deserving death in the young woman, for this matter is like when a man rises against his neighbor and murders him.
-
-v27: For he found her in the field. The betrothed young woman cried out, but there was no one to save her.
+v22: If a man is found having sex with another man's wife, both must die—the man who had sex with her and the woman. You must purge the evil from Israel.
 </p>
 
-## An Unbetrothed Virgin
+<p>
+v23: If a young woman who is a virgin is betrothed to a man, and another man meets her in a town and has sex with her,
+v24: bring both of them to the gate of that town and stone them to death: the young woman because she did not cry out in the town, and the man because he violated his neighbor's wife. You must purge the evil from among you.
+</p>
 
 <p>
-v28: “If a man finds a young virgin who is not betrothed, seizes her, and lies with her, and they are found,
+v25: But if the man finds the betrothed young woman in the open country, overpowers her, and rapes her, only the man who raped her must die.
+v26: Do nothing to the young woman. She has committed no offense deserving death. This case is like a man attacking his neighbor and murdering him.
+v27: He found her in the open country; the betrothed young woman cried out, but there was no one to rescue her.
+</p>
 
-v29: then the man who lay with her will give the young woman’s father fifty shekels of silver, and she will become his wife because he humbled her. He may not send her away all his days.
+<p>
+v28: If a man finds a young woman who is a virgin and is not betrothed, seizes her and has sex with her, and they are discovered,
+v29: the man who had sex with her must give her father fifty shekels of silver. She is to become his wife because he has violated her, and he may never divorce her as long as he lives.
+</p>
 
-v30: A man will not take his father’s wife and will not uncover his father’s skirt.
+## A Father’s Wife
+
+<p>
+v30: A man must not take his father's wife or uncover his father's garment.”
 </p>
 
 ## Notes
 
-v01–04: Neighbor-love is expressed through responsibility for lost animals, property, and burdened livestock. “Do not hide yourself” means do not evade responsibility.
+v5: The first phrase uses keli, a broad word for an article, equipment, or gear; the second specifically names a woman’s garment. The verse does not identify a particular ritual or explain a further social setting.
 
-v05: The exact social situations covered by the clothing prohibition are not specified. The Hebrew speaks broadly of male gear and female garment and should not be expanded beyond what the verse states.
+v9: “Forfeited” renders “become holy” or “be set apart”: the produce would cease to be available for ordinary use. Both the sown crop and the vineyard’s produce are included.
 
-v06–07: The nest law limits human taking by preserving the mother bird, joining ordinary food gathering with restraint toward animal life.
+v15–21: The law calls for evidence of virginity and the display of a cloth. It does not explicitly describe stains on the cloth or explain how the evidence is assessed. The translation retains the law’s claims and penalties without expanding its evidentiary assumptions.
 
-v08: Flat roofs were common living spaces. A parapet is a preventive safety measure, and failure to build one can create bloodguilt.
+v23–27: The town case assigns significance to the absence of a cry; the open-country case describes force, a cry, and no rescuer. The translation reports those distinctions. It does not insert “consented” into the town case.
 
-v09–11: These mixture laws preserve symbolic distinctions in agriculture, labor, and clothing. The text does not explain one single rationale for all three.
+v28–29: “Seizes” translates tapas, a different verb from “overpowers” in verse 25. The precise force has been debated, but the wording does not say “seduces.” The text prescribes payment to the father, marriage, and a permanent divorce ban; no additional consent condition is supplied.
 
-v13–19: The law protects a wife from a husband’s defamatory accusation by requiring evidence and imposing a substantial fine and permanent marital obligation on the false accuser.
+v30: “Uncover his father’s garment” preserves the Hebrew image of the garment’s edge or wing, used here for intrusion into the father’s marital relationship. This public verse is Hebrew 23:1.
 
-v15–17: The nature of the “evidence of virginity” is debated and likely reflects ancient marriage customs. TSW retains the legal phrase rather than supplying a medical explanation.
-
-v20–21: The penalty is severe and belongs to ancient Israel’s covenantal legal order. TSW preserves the law without treating it as a modern civil prescription.
-
-v23–27: The law distinguishes consensual adultery from sexual assault by considering location and the practical possibility of rescue. The woman assaulted in the field is explicitly declared innocent of a capital offense.
-
-v28: The Hebrew verb *taphas* means seize or grasp. Whether the case describes forcible rape or illicit intercourse under coercive circumstances has been debated. TSW renders the concrete verb “seizes” rather than softening it.
-
-v29: Requiring marriage does not erase the violence or coercion embedded in the ancient setting. The law prevents the man from discarding the woman after sexually compromising her, but the woman’s own choice is not recorded in this formulation.
-
-v30: “uncover his father’s skirt” is an idiom for sexual relations with the father’s wife.
+v15–29: Several written forms of “young woman” lack the final letter supplied in the read form. They refer to the same female participant; the full source variants are retained in the verse hashes, not rendered twice.
 
 ## Vocabulary
 
-v01: נָדַח (nadach)
-“To wander away.” Used of a lost animal.
+v8: Parapet
+A low protective wall along the edge of a roof.
 
-v03: אָבַד (avad)
-“To be lost.” Property missing from its owner.
+v12: Tassels
+Twisted cords attached to the garment’s corners; compare Numbers 15:38–40.
 
-v08: מַעֲקֶה (ma'aqeh)
-“Parapet.” A protective barrier around a roof.
+v19: Shekel
+A unit of weight, here used to measure silver.
 
-v09: כִּלְאַיִם (kilayim)
-“Mixed kinds.” Two kinds sown together.
-
-v11: שַׁעַטְנֵז (sha'atnez)
-“Mixed wool and linen.” A technical textile term.
-
-v12: גְּדִלִים (gedilim)
-“Tassels.” Fringes on the corners of a garment.
-
-v14: שֵׁם רָע (shem ra)
-“Evil name.” A damaging public accusation.
-
-v21: נְבָלָה (nevalah)
-“Disgraceful thing.” A grave covenantal violation.
-
-v25: חָזַק (chazaq)
-“To seize by force.” Used of overpowering the betrothed woman.
-
-v30: כָּנָף (kanaph)
-“Skirt,” “wing,” or “edge.” Here part of a sexual idiom.
+v23: Betrothed
+Pledged in a binding marriage arrangement; the woman is called the other man’s wife in verse 24.

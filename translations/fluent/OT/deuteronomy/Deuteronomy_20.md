@@ -4,116 +4,80 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-19-26-biblical-fluency-2026-09-13
 ---
 
-## Do Not Fear When You Go to Battle
+## Before Battle
 
 <p>
-v01: “When you go out to battle against your enemies and see horses, chariots, and a people more numerous than you, you will not fear them, for the LORD your God is with you, who brought you up from the land of Egypt.
-
-v02: And when you draw near to battle, the priest will approach and speak to the people.
-
-v03: He will say to them, ‘Hear, Israel! You are drawing near today to battle against your enemies. Do not let your heart grow weak. Do not fear, panic, or tremble before them.
-
-v04: For the LORD your God is the one who goes with you to fight for you against your enemies, to save you.’
+v01: “When you go to war against your enemies and see horses, chariots, and a force larger than yours, do not be afraid of them. The LORD your God, who brought you up from Egypt, is with you.
+v02: As you approach the battle, the priest is to step forward and address the people.
+v03: He is to say, ‘Listen, Israel! Today you are approaching battle against your enemies. Do not lose heart. Do not be afraid, panic, or tremble before them.
+v04: The LORD your God goes with you to fight for you against your enemies and save you.’
 </p>
 
-## Who May Return Home
+## Those Who May Return Home
 
 <p>
-v05: “Then the officers will speak to the people, saying, ‘Who is the man who built a new house and has not dedicated it? Let him go and return to his house, lest he die in the battle and another man dedicate it.
-
-v06: And who is the man who planted a vineyard and has not begun to enjoy its fruit? Let him go and return to his house, lest he die in the battle and another man enjoy it.
-
-v07: And who is the man who has betrothed a woman and has not taken her? Let him go and return to his house, lest he die in the battle and another man take her.’
-
-v08: The officers will speak further to the people and say, ‘Who is the man who is afraid and fainthearted? Let him go and return to his house, so that the heart of his brothers does not melt like his heart.’
-
-v09: And when the officers have finished speaking to the people, they will appoint commanders of armies at the head of the people.
+v05: Then the officers are to tell the people, ‘Has anyone built a new house but not dedicated it? Let him go home, so that he does not die in battle and someone else dedicate it.
+v06: Has anyone planted a vineyard but not begun to use its fruit? Let him go home, so that he does not die in battle and someone else begin to use it.
+v07: Has anyone become betrothed to a woman but not married her? Let him go home, so that he does not die in battle and another man marry her.’
 </p>
 
-## Offer Peace to Distant Cities
-
 <p>
-v10: “When you draw near to a city to fight against it, you will call out peace to it.
-
-v11: And if it answers you with peace and opens to you, then all the people found in it will become forced labor for you and will serve you.
-
-v12: But if it does not make peace with you but makes war against you, then you will besiege it.
-
-v13: When the LORD your God gives it into your hand, you will strike every male in it with the edge of the sword.
-
-v14: But the women, little children, livestock, and everything in the city, all its spoil, you may take as plunder for yourself. You will eat the spoil of your enemies that the LORD your God gives you.
-
-v15: Thus you will do to all the cities that are very far from you, which are not from the cities of these nations.
+v08: The officers are also to say, ‘Is anyone afraid and fainthearted? Let him go home, so that he does not make his fellow soldiers' hearts melt like his own.’
+v09: When the officers finish speaking to the people, commanders are to be appointed to lead them.
 </p>
 
-## The Cities of the Canaanite Nations
+## Terms for Distant Towns
 
 <p>
-v16: “But from the cities of these peoples that the LORD your God is giving you as an inheritance, you will not let anything that breathes live.
-
-v17: Rather, you will surely devote them to destruction—the Hittite, Amorite, Canaanite, Perizzite, Hivite, and Jebusite—as the LORD your God commanded you,
-
-v18: so that they do not teach you to do according to all their detestable practices that they have done for their gods and you sin against the LORD your God.
+v10: When you approach a town to fight against it, first offer it terms of peace.
+v11: If it accepts peace and opens its gates to you, all the people found there are to perform forced labor and serve you.
 </p>
 
-## Do Not Destroy Fruit Trees in a Siege
+<p>
+v12: If it refuses peace and makes war against you, lay siege to it.
+v13: When the LORD your God hands it over to you, strike down all its males with the sword.
+v14: But take the women, children, livestock, and everything else in the town as plunder for yourselves. You may live on the plunder of the enemies the LORD your God has given you.
+v15: This is how you are to treat all the towns far away from you, those that do not belong to these nations here.
+</p>
+
+## The Towns of the Inheritance
 
 <p>
-v19: “When you besiege a city many days, fighting against it to capture it, you will not destroy its trees by swinging an axe against them, for you may eat from them. You will not cut them down. For is the tree of the field a human being, that it should come before you in the siege?
+v16: But in the towns of these peoples that the LORD your God is giving you as an inheritance, leave alive nothing that breathes.
+v17: Devote them completely to destruction—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—as the LORD your God commanded you.
+v18: Then they will not teach you to do all the detestable things they do for their gods, causing you to sin against the LORD your God.
+</p>
 
-v20: Only a tree that you know is not a tree for food you may destroy and cut down, and you may build siegeworks against the city that makes war with you until it falls.
+## Trees during a Siege
+
+<p>
+v19: When you besiege a town for a long time, fighting to capture it, do not destroy its trees with the axe. You may eat their fruit; do not cut them down. Is a tree in the field a human being, that it should come under siege from you?
+v20: Only trees you know do not produce food may be destroyed and cut down. Use them to build siegeworks against the town making war on you, until it falls.”
 </p>
 
 ## Notes
 
-v01–04: Israel’s military confidence is grounded in the exodus and the presence of the LORD, not in parity of horses, chariots, or numbers.
+v6: The verb hillel here concerns making vineyard fruit available for ordinary use. It is not simply the act of planting.
 
-v05–07: House, vineyard, and marriage represent unfinished ordinary life. The law permits men to return rather than lose these beginnings in battle.
+v10–15: The peace terms require forced labor. If the town resists and falls, all its males are to be killed, while women and children are taken as plunder. These consequences are retained explicitly.
 
-v08: Fear is treated as socially contagious; the fainthearted soldier may return so that panic does not spread through the army.
+v16–18: The different rule for the named peoples commands that nothing breathing be left alive. The translation does not narrow this to soldiers.
 
-v10–15: The command to offer peace applies to distant cities outside the Canaanite conquest zone. Submission results in forced labor rather than destruction.
-
-v11: “forced labor” reflects an ancient imperial labor arrangement. The text regulates warfare in its historical setting and should not be used to justify modern enslavement.
-
-v16–18: The *herem* command concerning Canaanite cities is one of Deuteronomy’s most severe texts. TSW preserves the conquest language without universalizing it into later religious or ethnic violence.
-
-v18: The rationale given is cultic: Israel must not learn the nations’ worship practices.
-
-v19: The Hebrew question about the tree is syntactically difficult. TSW follows the sense that fruit trees are not combatants and therefore should not be destroyed as if they were part of the besieged population.
-
-v20: Non-fruit trees may be used for siegeworks, distinguishing military necessity from indiscriminate ecological destruction.
+v19: The final Hebrew clause is difficult. It is read here as a question contrasting a tree with a human enemy. Another reading connects the tree with the food on which human life depends.
 
 ## Vocabulary
 
-v01: סוּס (sus)
-“Horse.” A symbol of military power.
+v7: Betrothed
+Pledged to marry; distinguished here from taking the woman as wife.
 
-v03: רָכַךְ לֵב (rakhakh lev)
-“To let the heart grow weak.” To lose courage.
+v11: Forced labor
+Work imposed on a subject population.
 
-v04: יָשַׁע (yasha)
-“To save” or “deliver.” The LORD fights to save Israel.
-
-v05: חָנַךְ (chanakh)
-“To dedicate.” To begin the use of a new house.
-
-v06: חִלֵּל (chillel)
-“To begin to enjoy fruit.” A technical term for first use of vineyard produce.
-
-v10: שָׁלוֹם (shalom)
-“Peace.” The offer made before attacking a distant city.
-
-v11: מַס (mas)
-“Forced labor” or “tribute.”
-
-v17: חָרַם (charam)
-“To devote to destruction.” To place under irrevocable ban.
-
-v19: עֵץ מַאֲכָל (ets ma'akhal)
-“Tree for food.” A fruit-producing tree protected during siege.
-
-v20: מָצוֹר (matsor)
-“Siegework” or “siege.” Military encirclement of a fortified city.
+v20: Siegeworks
+Structures used to surround or attack a defended town.

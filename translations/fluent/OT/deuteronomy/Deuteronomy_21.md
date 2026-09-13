@@ -4,119 +4,86 @@ testament: OT
 chapter: 21
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-19-26-biblical-fluency-2026-09-13
 ---
 
-## Atonement for an Unsolved Murder
+## A Killing with No Known Killer
 
 <p>
-v01: “If someone is found slain on the ground that the LORD your God is giving you to possess, fallen in the field, and it is not known who struck him,
-
-v02: then your elders and judges will go out and measure the distance from the slain person to the cities around him.
-
-v03: The city nearest to the slain person will be identified, and the elders of that city will take a heifer from the herd that has not been worked and has not pulled in a yoke.
-
-v04: The elders of that city will bring the heifer down to a perennial valley that has not been plowed or sown, and there in the valley they will break the heifer’s neck.
-
-v05: Then the priests, the sons of Levi, will approach, for the LORD your God has chosen them to minister to him and to bless in the name of the LORD, and by their mouth every dispute and every assault will be decided.
-
-v06: All the elders of that city nearest to the slain person will wash their hands over the heifer whose neck was broken in the valley.
-
-v07: They will answer and say, ‘Our hands did not shed this blood, and our eyes did not see it.
-
-v08: Make atonement for your people Israel, whom you redeemed, O LORD, and do not place innocent blood among your people Israel.’ Then the bloodguilt will be atoned for them.
-
-v09: So you will remove innocent blood from your midst when you do what is right in the eyes of the LORD.
+v01: “If someone who has been killed is found lying in a field in the land the LORD your God is giving you to possess, and no one knows who killed them,
+v02: your elders and judges must go out and measure the distance from the body to the surrounding towns.
+v03: The elders of the town nearest the body must take a heifer that has never been worked or pulled a yoke.
+v04: They must bring the heifer down to a valley with a flowing stream, where the ground has not been worked or sown, and break its neck there in the valley.
 </p>
 
-## A Woman Captured in War
-
 <p>
-v10: “When you go out to war against your enemies and the LORD your God gives them into your hand and you take them captive,
-
-v11: and you see among the captives a woman beautiful in form, and you desire her and would take her for yourself as wife,
-
-v12: then you will bring her into your house. She will shave her head and trim her nails.
-
-v13: She will remove the garment of her captivity from upon her and remain in your house and weep for her father and mother a full month. After that you may go in to her and be her husband, and she will be your wife.
-
-v14: But if you no longer delight in her, you will send her free according to her desire. You will not sell her for silver or treat her as merchandise, because you have humbled her.
+v05: The priests, the sons of Levi, are to come forward. The LORD your God has chosen them to serve him and bless in the LORD's name, and every dispute and case of injury is to be decided by their word.
+v06: All the elders of the town nearest the body must wash their hands over the heifer whose neck was broken in the valley.
+v07: They must declare, ‘Our hands did not shed this blood, and our eyes did not see it happen.
+v08: Make atonement for your people Israel, whom you redeemed, LORD. Do not lay the guilt of innocent blood on your people Israel.’ Then atonement will be made for their bloodguilt.
+v09: In this way you will purge the guilt of innocent blood from among you by doing what is right in the LORD's eyes.
 </p>
 
-## The Right of the Firstborn
+## A Woman Taken Captive
 
 <p>
-v15: “If a man has two wives, one loved and the other hated, and both the loved and the hated bear sons to him, and the firstborn son belongs to the hated wife,
-
-v16: then on the day he causes his sons to inherit what he has, he may not treat the son of the loved wife as firstborn before the son of the hated wife, who is the firstborn.
-
-v17: Rather, he will recognize the firstborn, the son of the hated wife, by giving him a double portion of all that is found with him, for he is the first of his strength. The right of the firstborn belongs to him.
+v10: When you go to war against your enemies, the LORD your God hands them over to you, and you take captives,
+v11: if you see a beautiful woman among the captives, desire her, and would take her as your wife,
+v12: bring her into your house. She is to shave her head and trim her nails.
+v13: She must remove the clothes she wore as a captive and stay in your house, mourning her father and mother for a full month. After that you may have sex with her and become her husband, and she will be your wife.
+v14: If you no longer want her, let her go free. You must not sell her for silver or treat her as a slave, because you have humiliated her.
 </p>
 
-## A Stubborn and Rebellious Son
+## The Firstborn’s Inheritance
 
 <p>
-v18: “If a man has a stubborn and rebellious son who does not listen to the voice of his father or the voice of his mother, and though they discipline him he will not listen to them,
-
-v19: then his father and his mother will seize him and bring him out to the elders of his city and to the gate of his place.
-
-v20: They will say to the elders of his city, ‘This son of ours is stubborn and rebellious; he does not listen to our voice; he is a glutton and a drunkard.’
-
-v21: Then all the men of his city will stone him with stones so that he dies. So you will remove the evil from your midst, and all Israel will hear and fear.
+v15: Suppose a man has two wives, one loved and the other unloved. Both bear him sons, but his firstborn son belongs to the unloved wife.
+v16: When he gives his sons their inheritance, he must not give the loved wife's son the rights of the firstborn ahead of the unloved wife's son, who is the firstborn.
+v17: He must recognize the unloved wife's son as his firstborn and give him a double share of everything he has. That son is the first fruit of his strength; the right of the firstborn belongs to him.
 </p>
 
-## A Body Hanged on a Tree
+## A Rebellious Son
 
 <p>
-v22: “And if a man has committed a sin deserving death and he is put to death and you hang him on a tree,
+v18: If a man has a stubborn and rebellious son who will not listen to his father or mother, even after they discipline him,
+v19: his father and mother must seize him and bring him to the elders at the gate of his town.
+v20: They must tell the elders of his town, ‘This son of ours is stubborn and rebellious. He will not listen to us. He is a glutton and a drunkard.’
+v21: Then all the men of his town must stone him to death. You must purge the evil from among you. All Israel will hear and be afraid.
+</p>
 
-v23: his corpse will not remain all night on the tree, but you will surely bury him that day, for one hanged is a curse of God. You will not defile your ground that the LORD your God is giving you as an inheritance.
+## Burial after Execution
+
+<p>
+v22: If a man is guilty of an offense punishable by death, is put to death, and you hang him on a tree,
+v23: do not leave his body on the tree overnight. Bury him that same day, for a person hung on a tree is under God's curse. Do not defile the ground the LORD your God is giving you as an inheritance.”
 </p>
 
 ## Notes
 
-v01–09: Unsolved bloodshed still creates communal responsibility. The ritual does not identify a murderer but addresses innocent blood in the land.
+v4: “A valley with a flowing stream” renders nahal ethan. The phrase can also be understood as a rugged or enduring valley. The ground must be unworked and unsown.
 
-v04: The heifer’s neck is broken rather than sacrificed on an altar. The ritual occurs in an uncultivated valley, distinguishing it from ordinary sanctuary sacrifice.
+v5: The word rendered “injury” can also denote an affliction or skin lesion; the priests’ decisions can include ritual matters.
 
-v05: Priests appear as authoritative witnesses to legal and ritual resolution even though local elders carry out the rite.
+v7: The written and read forms differ in the verb “shed.” The read form agrees with plural “our hands”; both are preserved in the source record, with one rendering in the translation.
 
-v10–14: The captive woman is protected from immediate sexual appropriation by a required period of mourning and by marriage status. The law remains embedded in an ancient war-captive system and does not erase the coercion inherent in captivity.
+v12–14: “Trim her nails” selects one sense of the literal “do her nails”; letting them grow is another proposed reading. The woman is a captive. The law gives her a month to mourn and forbids selling or enslaving her if rejected; it does not state her consent to the marriage. “Humiliated” can carry sexual force here.
 
-v14: If the husband rejects her, she must be released freely and cannot be sold. The text explicitly forbids turning her into merchandise after he has humbled her.
+v15: “Unloved” renders “hated” in a contrast between the two wives’ treatment. The firstborn’s rights do not depend on which wife the father favors.
 
-v15: “loved” and “hated” describe relative marital preference, not necessarily absolute hatred. The law protects inheritance rights from favoritism.
+v18–21: The law describes persistent rebellion after parental discipline and quotes the parents’ charges. It supplies no age. The execution by the town’s men remains explicit.
 
-v17: The firstborn receives a double portion as the “first of his strength.”
-
-v18–21: The law concerning the rebellious son is extremely severe and belongs to ancient Israel’s covenantal legal order. The parents cannot privately execute him; the case must go to city elders and the community.
-
-v23: The corpse must be removed the same day so that execution does not continue as prolonged public defilement of the land.
+v23: “Under God’s curse” is one reading of “a curse of God.” Another is “an affront to God.” Execution precedes hanging in verse 22; burial is required that same day.
 
 ## Vocabulary
 
-v01: חָלָל (chalal)
-“Slain person.” One found killed in the field.
+v3: Heifer
+A young female bovine.
 
-v04: נַחַל אֵיתָן (nachal eitan)
-“Perennial valley” or “strong stream valley.” A difficult geographic term.
+v8: Atonement
+Dealing with guilt so it no longer rests on the people; here sought from God for an unsolved killing.
 
-v08: כִּפֶּר (kipper)
-“To make atonement.” To address bloodguilt before God.
-
-v10: שָׁבָה (shavah)
-“To take captive.” To carry away prisoners from war.
-
-v14: עָמַר (amar)
-“To treat as merchandise.” To exploit or enslave commercially.
-
-v17: פִּי שְׁנַיִם (pi shenayim)
-“Double portion,” literally “mouth of two.”
-
-v18: סוֹרֵר וּמוֹרֶה (sorer u-moreh)
-“Stubborn and rebellious.” Persistent refusal of parental authority.
-
-v20: זוֹלֵל (zolel)
-“Glutton.” One characterized by excessive consumption.
-
-v23: קִלְלַת אֱלֹהִים (qillat Elohim)
-“Curse of God.” The status associated with the hanged body.
+v17: Double share
+Twice the inheritance portion allotted to another son.
