@@ -1,0 +1,1630 @@
+{
+  "scope": "Deuteronomy 7–12; 161 public verses / 161 source records",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 106,
+      "near_identical_verses": 50,
+      "mean_similarity": 0.981138,
+      "verses": [
+        {
+          "reference": "Deuteronomy 7:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:2",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Deuteronomy 7:3",
+          "identical": false,
+          "similarity": 0.88
+        },
+        {
+          "reference": "Deuteronomy 7:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:5",
+          "identical": false,
+          "similarity": 0.961538
+        },
+        {
+          "reference": "Deuteronomy 7:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:9",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Deuteronomy 7:10",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Deuteronomy 7:11",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Deuteronomy 7:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:15",
+          "identical": false,
+          "similarity": 0.970588
+        },
+        {
+          "reference": "Deuteronomy 7:16",
+          "identical": false,
+          "similarity": 0.914286
+        },
+        {
+          "reference": "Deuteronomy 7:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:18",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Deuteronomy 7:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:20",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Deuteronomy 7:21",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Deuteronomy 7:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 7:24",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Deuteronomy 7:25",
+          "identical": false,
+          "similarity": 0.955556
+        },
+        {
+          "reference": "Deuteronomy 7:26",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Deuteronomy 8:1",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Deuteronomy 8:2",
+          "identical": false,
+          "similarity": 0.977778
+        },
+        {
+          "reference": "Deuteronomy 8:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:6",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Deuteronomy 8:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:10",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Deuteronomy 8:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 8:18",
+          "identical": false,
+          "similarity": 0.972222
+        },
+        {
+          "reference": "Deuteronomy 8:19",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Deuteronomy 8:20",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Deuteronomy 9:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:3",
+          "identical": false,
+          "similarity": 0.977273
+        },
+        {
+          "reference": "Deuteronomy 9:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:2",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Deuteronomy 10:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:9",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Deuteronomy 10:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:19",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Deuteronomy 10:20",
+          "identical": false,
+          "similarity": 0.826087
+        },
+        {
+          "reference": "Deuteronomy 10:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 10:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:1",
+          "identical": false,
+          "similarity": 0.952381
+        },
+        {
+          "reference": "Deuteronomy 11:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:3",
+          "identical": false,
+          "similarity": 0.883721
+        },
+        {
+          "reference": "Deuteronomy 11:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:6",
+          "identical": false,
+          "similarity": 0.935065
+        },
+        {
+          "reference": "Deuteronomy 11:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:8",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Deuteronomy 11:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:18",
+          "identical": false,
+          "similarity": 0.935484
+        },
+        {
+          "reference": "Deuteronomy 11:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:24",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Deuteronomy 11:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:29",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Deuteronomy 11:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:31",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Deuteronomy 11:32",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Deuteronomy 12:1",
+          "identical": false,
+          "similarity": 0.973684
+        },
+        {
+          "reference": "Deuteronomy 12:2",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Deuteronomy 12:3",
+          "identical": false,
+          "similarity": 0.966667
+        },
+        {
+          "reference": "Deuteronomy 12:4",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Deuteronomy 12:5",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Deuteronomy 12:6",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Deuteronomy 12:7",
+          "identical": false,
+          "similarity": 0.939394
+        },
+        {
+          "reference": "Deuteronomy 12:8",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Deuteronomy 12:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:11",
+          "identical": false,
+          "similarity": 0.978723
+        },
+        {
+          "reference": "Deuteronomy 12:12",
+          "identical": false,
+          "similarity": 0.972222
+        },
+        {
+          "reference": "Deuteronomy 12:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:14",
+          "identical": false,
+          "similarity": 0.935484
+        },
+        {
+          "reference": "Deuteronomy 12:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:16",
+          "identical": false,
+          "similarity": 0.882353
+        },
+        {
+          "reference": "Deuteronomy 12:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:18",
+          "identical": false,
+          "similarity": 0.963636
+        },
+        {
+          "reference": "Deuteronomy 12:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:23",
+          "identical": false,
+          "similarity": 0.958333
+        },
+        {
+          "reference": "Deuteronomy 12:24",
+          "identical": false,
+          "similarity": 0.866667
+        },
+        {
+          "reference": "Deuteronomy 12:25",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Deuteronomy 12:26",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Deuteronomy 12:27",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Deuteronomy 12:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 12:31",
+          "identical": false,
+          "similarity": 0.972973
+        },
+        {
+          "reference": "Deuteronomy 12:32",
+          "identical": false,
+          "similarity": 0.909091
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 2,
+      "near_identical_verses": 11,
+      "mean_similarity": 0.730777,
+      "verses": [
+        {
+          "reference": "Deuteronomy 7:1",
+          "identical": false,
+          "similarity": 0.871795
+        },
+        {
+          "reference": "Deuteronomy 7:2",
+          "identical": false,
+          "similarity": 0.78125
+        },
+        {
+          "reference": "Deuteronomy 7:3",
+          "identical": false,
+          "similarity": 0.530612
+        },
+        {
+          "reference": "Deuteronomy 7:4",
+          "identical": false,
+          "similarity": 0.77193
+        },
+        {
+          "reference": "Deuteronomy 7:5",
+          "identical": false,
+          "similarity": 0.730769
+        },
+        {
+          "reference": "Deuteronomy 7:6",
+          "identical": false,
+          "similarity": 0.542857
+        },
+        {
+          "reference": "Deuteronomy 7:7",
+          "identical": false,
+          "similarity": 0.535714
+        },
+        {
+          "reference": "Deuteronomy 7:8",
+          "identical": false,
+          "similarity": 0.853659
+        },
+        {
+          "reference": "Deuteronomy 7:9",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Deuteronomy 7:10",
+          "identical": false,
+          "similarity": 0.607143
+        },
+        {
+          "reference": "Deuteronomy 7:11",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Deuteronomy 7:12",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Deuteronomy 7:13",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Deuteronomy 7:14",
+          "identical": false,
+          "similarity": 0.44898
+        },
+        {
+          "reference": "Deuteronomy 7:15",
+          "identical": false,
+          "similarity": 0.656716
+        },
+        {
+          "reference": "Deuteronomy 7:16",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Deuteronomy 7:17",
+          "identical": false,
+          "similarity": 0.871795
+        },
+        {
+          "reference": "Deuteronomy 7:18",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Deuteronomy 7:19",
+          "identical": false,
+          "similarity": 0.810127
+        },
+        {
+          "reference": "Deuteronomy 7:20",
+          "identical": false,
+          "similarity": 0.780488
+        },
+        {
+          "reference": "Deuteronomy 7:21",
+          "identical": false,
+          "similarity": 0.631579
+        },
+        {
+          "reference": "Deuteronomy 7:22",
+          "identical": false,
+          "similarity": 0.644068
+        },
+        {
+          "reference": "Deuteronomy 7:23",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Deuteronomy 7:24",
+          "identical": false,
+          "similarity": 0.633333
+        },
+        {
+          "reference": "Deuteronomy 7:25",
+          "identical": false,
+          "similarity": 0.658537
+        },
+        {
+          "reference": "Deuteronomy 7:26",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Deuteronomy 8:1",
+          "identical": false,
+          "similarity": 0.698413
+        },
+        {
+          "reference": "Deuteronomy 8:2",
+          "identical": false,
+          "similarity": 0.756098
+        },
+        {
+          "reference": "Deuteronomy 8:3",
+          "identical": false,
+          "similarity": 0.5625
+        },
+        {
+          "reference": "Deuteronomy 8:4",
+          "identical": false,
+          "similarity": 0.914286
+        },
+        {
+          "reference": "Deuteronomy 8:5",
+          "identical": false,
+          "similarity": 0.594595
+        },
+        {
+          "reference": "Deuteronomy 8:6",
+          "identical": false,
+          "similarity": 0.848485
+        },
+        {
+          "reference": "Deuteronomy 8:7",
+          "identical": false,
+          "similarity": 0.821429
+        },
+        {
+          "reference": "Deuteronomy 8:8",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Deuteronomy 8:9",
+          "identical": false,
+          "similarity": 0.711864
+        },
+        {
+          "reference": "Deuteronomy 8:10",
+          "identical": false,
+          "similarity": 0.651163
+        },
+        {
+          "reference": "Deuteronomy 8:11",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Deuteronomy 8:12",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Deuteronomy 8:13",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Deuteronomy 8:14",
+          "identical": false,
+          "similarity": 0.754717
+        },
+        {
+          "reference": "Deuteronomy 8:15",
+          "identical": false,
+          "similarity": 0.698413
+        },
+        {
+          "reference": "Deuteronomy 8:16",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Deuteronomy 8:17",
+          "identical": false,
+          "similarity": 0.731707
+        },
+        {
+          "reference": "Deuteronomy 8:18",
+          "identical": false,
+          "similarity": 0.647059
+        },
+        {
+          "reference": "Deuteronomy 8:19",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Deuteronomy 8:20",
+          "identical": false,
+          "similarity": 0.90566
+        },
+        {
+          "reference": "Deuteronomy 9:1",
+          "identical": false,
+          "similarity": 0.679245
+        },
+        {
+          "reference": "Deuteronomy 9:2",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Deuteronomy 9:3",
+          "identical": false,
+          "similarity": 0.746988
+        },
+        {
+          "reference": "Deuteronomy 9:4",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Deuteronomy 9:5",
+          "identical": false,
+          "similarity": 0.568627
+        },
+        {
+          "reference": "Deuteronomy 9:6",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Deuteronomy 9:7",
+          "identical": false,
+          "similarity": 0.828571
+        },
+        {
+          "reference": "Deuteronomy 9:8",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Deuteronomy 9:9",
+          "identical": false,
+          "similarity": 0.925
+        },
+        {
+          "reference": "Deuteronomy 9:10",
+          "identical": false,
+          "similarity": 0.839506
+        },
+        {
+          "reference": "Deuteronomy 9:11",
+          "identical": false,
+          "similarity": 0.933333
+        },
+        {
+          "reference": "Deuteronomy 9:12",
+          "identical": false,
+          "similarity": 0.809524
+        },
+        {
+          "reference": "Deuteronomy 9:13",
+          "identical": false,
+          "similarity": 0.685714
+        },
+        {
+          "reference": "Deuteronomy 9:14",
+          "identical": false,
+          "similarity": 0.84375
+        },
+        {
+          "reference": "Deuteronomy 9:15",
+          "identical": false,
+          "similarity": 0.784314
+        },
+        {
+          "reference": "Deuteronomy 9:16",
+          "identical": false,
+          "similarity": 0.8125
+        },
+        {
+          "reference": "Deuteronomy 9:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 9:18",
+          "identical": false,
+          "similarity": 0.764045
+        },
+        {
+          "reference": "Deuteronomy 9:19",
+          "identical": false,
+          "similarity": 0.877193
+        },
+        {
+          "reference": "Deuteronomy 9:20",
+          "identical": false,
+          "similarity": 0.7
+        },
+        {
+          "reference": "Deuteronomy 9:21",
+          "identical": false,
+          "similarity": 0.759494
+        },
+        {
+          "reference": "Deuteronomy 9:22",
+          "identical": false,
+          "similarity": 0.909091
+        },
+        {
+          "reference": "Deuteronomy 9:23",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Deuteronomy 9:24",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Deuteronomy 9:25",
+          "identical": false,
+          "similarity": 0.77551
+        },
+        {
+          "reference": "Deuteronomy 9:26",
+          "identical": false,
+          "similarity": 0.870968
+        },
+        {
+          "reference": "Deuteronomy 9:27",
+          "identical": false,
+          "similarity": 0.65
+        },
+        {
+          "reference": "Deuteronomy 9:28",
+          "identical": false,
+          "similarity": 0.619048
+        },
+        {
+          "reference": "Deuteronomy 9:29",
+          "identical": false,
+          "similarity": 0.974359
+        },
+        {
+          "reference": "Deuteronomy 10:1",
+          "identical": false,
+          "similarity": 0.677419
+        },
+        {
+          "reference": "Deuteronomy 10:2",
+          "identical": false,
+          "similarity": 0.893617
+        },
+        {
+          "reference": "Deuteronomy 10:3",
+          "identical": false,
+          "similarity": 0.881356
+        },
+        {
+          "reference": "Deuteronomy 10:4",
+          "identical": false,
+          "similarity": 0.675325
+        },
+        {
+          "reference": "Deuteronomy 10:5",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Deuteronomy 10:6",
+          "identical": false,
+          "similarity": 0.807692
+        },
+        {
+          "reference": "Deuteronomy 10:7",
+          "identical": false,
+          "similarity": 0.848485
+        },
+        {
+          "reference": "Deuteronomy 10:8",
+          "identical": false,
+          "similarity": 0.871795
+        },
+        {
+          "reference": "Deuteronomy 10:9",
+          "identical": false,
+          "similarity": 0.808511
+        },
+        {
+          "reference": "Deuteronomy 10:10",
+          "identical": false,
+          "similarity": 0.741935
+        },
+        {
+          "reference": "Deuteronomy 10:11",
+          "identical": false,
+          "similarity": 0.677419
+        },
+        {
+          "reference": "Deuteronomy 10:12",
+          "identical": false,
+          "similarity": 0.843373
+        },
+        {
+          "reference": "Deuteronomy 10:13",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Deuteronomy 10:14",
+          "identical": false,
+          "similarity": 0.511628
+        },
+        {
+          "reference": "Deuteronomy 10:15",
+          "identical": false,
+          "similarity": 0.596491
+        },
+        {
+          "reference": "Deuteronomy 10:16",
+          "identical": false,
+          "similarity": 0.4
+        },
+        {
+          "reference": "Deuteronomy 10:17",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Deuteronomy 10:18",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Deuteronomy 10:19",
+          "identical": false,
+          "similarity": 0.580645
+        },
+        {
+          "reference": "Deuteronomy 10:20",
+          "identical": false,
+          "similarity": 0.578947
+        },
+        {
+          "reference": "Deuteronomy 10:21",
+          "identical": false,
+          "similarity": 0.913043
+        },
+        {
+          "reference": "Deuteronomy 10:22",
+          "identical": false,
+          "similarity": 0.784314
+        },
+        {
+          "reference": "Deuteronomy 11:1",
+          "identical": false,
+          "similarity": 0.540541
+        },
+        {
+          "reference": "Deuteronomy 11:2",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Deuteronomy 11:3",
+          "identical": false,
+          "similarity": 0.711111
+        },
+        {
+          "reference": "Deuteronomy 11:4",
+          "identical": false,
+          "similarity": 0.753247
+        },
+        {
+          "reference": "Deuteronomy 11:5",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Deuteronomy 11:6",
+          "identical": false,
+          "similarity": 0.925
+        },
+        {
+          "reference": "Deuteronomy 11:7",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Deuteronomy 11:8",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Deuteronomy 11:9",
+          "identical": false,
+          "similarity": 0.774194
+        },
+        {
+          "reference": "Deuteronomy 11:10",
+          "identical": false,
+          "similarity": 0.830769
+        },
+        {
+          "reference": "Deuteronomy 11:11",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Deuteronomy 11:12",
+          "identical": false,
+          "similarity": 0.741935
+        },
+        {
+          "reference": "Deuteronomy 11:13",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Deuteronomy 11:14",
+          "identical": false,
+          "similarity": 0.862069
+        },
+        {
+          "reference": "Deuteronomy 11:15",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Deuteronomy 11:16",
+          "identical": false,
+          "similarity": 0.619048
+        },
+        {
+          "reference": "Deuteronomy 11:17",
+          "identical": false,
+          "similarity": 0.735632
+        },
+        {
+          "reference": "Deuteronomy 11:18",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Deuteronomy 11:19",
+          "identical": false,
+          "similarity": 0.736842
+        },
+        {
+          "reference": "Deuteronomy 11:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Deuteronomy 11:21",
+          "identical": false,
+          "similarity": 0.626866
+        },
+        {
+          "reference": "Deuteronomy 11:22",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Deuteronomy 11:23",
+          "identical": false,
+          "similarity": 0.780488
+        },
+        {
+          "reference": "Deuteronomy 11:24",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Deuteronomy 11:25",
+          "identical": false,
+          "similarity": 0.758621
+        },
+        {
+          "reference": "Deuteronomy 11:26",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Deuteronomy 11:27",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Deuteronomy 11:28",
+          "identical": false,
+          "similarity": 0.84507
+        },
+        {
+          "reference": "Deuteronomy 11:29",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Deuteronomy 11:30",
+          "identical": false,
+          "similarity": 0.852459
+        },
+        {
+          "reference": "Deuteronomy 11:31",
+          "identical": false,
+          "similarity": 0.945455
+        },
+        {
+          "reference": "Deuteronomy 11:32",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Deuteronomy 12:1",
+          "identical": false,
+          "similarity": 0.821918
+        },
+        {
+          "reference": "Deuteronomy 12:2",
+          "identical": false,
+          "similarity": 0.872727
+        },
+        {
+          "reference": "Deuteronomy 12:3",
+          "identical": false,
+          "similarity": 0.689655
+        },
+        {
+          "reference": "Deuteronomy 12:4",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Deuteronomy 12:5",
+          "identical": false,
+          "similarity": 0.740741
+        },
+        {
+          "reference": "Deuteronomy 12:6",
+          "identical": false,
+          "similarity": 0.528302
+        },
+        {
+          "reference": "Deuteronomy 12:7",
+          "identical": false,
+          "similarity": 0.634921
+        },
+        {
+          "reference": "Deuteronomy 12:8",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Deuteronomy 12:9",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Deuteronomy 12:10",
+          "identical": false,
+          "similarity": 0.794521
+        },
+        {
+          "reference": "Deuteronomy 12:11",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Deuteronomy 12:12",
+          "identical": false,
+          "similarity": 0.818182
+        },
+        {
+          "reference": "Deuteronomy 12:13",
+          "identical": false,
+          "similarity": 0.444444
+        },
+        {
+          "reference": "Deuteronomy 12:14",
+          "identical": false,
+          "similarity": 0.641509
+        },
+        {
+          "reference": "Deuteronomy 12:15",
+          "identical": false,
+          "similarity": 0.644444
+        },
+        {
+          "reference": "Deuteronomy 12:16",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Deuteronomy 12:17",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Deuteronomy 12:18",
+          "identical": false,
+          "similarity": 0.659794
+        },
+        {
+          "reference": "Deuteronomy 12:19",
+          "identical": false,
+          "similarity": 0.285714
+        },
+        {
+          "reference": "Deuteronomy 12:20",
+          "identical": false,
+          "similarity": 0.608696
+        },
+        {
+          "reference": "Deuteronomy 12:21",
+          "identical": false,
+          "similarity": 0.729167
+        },
+        {
+          "reference": "Deuteronomy 12:22",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Deuteronomy 12:23",
+          "identical": false,
+          "similarity": 0.723404
+        },
+        {
+          "reference": "Deuteronomy 12:24",
+          "identical": false,
+          "similarity": 0.692308
+        },
+        {
+          "reference": "Deuteronomy 12:25",
+          "identical": false,
+          "similarity": 0.766667
+        },
+        {
+          "reference": "Deuteronomy 12:26",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Deuteronomy 12:27",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Deuteronomy 12:28",
+          "identical": false,
+          "similarity": 0.86747
+        },
+        {
+          "reference": "Deuteronomy 12:29",
+          "identical": false,
+          "similarity": 0.884615
+        },
+        {
+          "reference": "Deuteronomy 12:30",
+          "identical": false,
+          "similarity": 0.628571
+        },
+        {
+          "reference": "Deuteronomy 12:31",
+          "identical": false,
+          "similarity": 0.694444
+        },
+        {
+          "reference": "Deuteronomy 12:32",
+          "identical": false,
+          "similarity": 0.634146
+        }
+      ]
+    }
+  }
+}

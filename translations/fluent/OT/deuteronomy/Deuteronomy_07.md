@@ -4,130 +4,120 @@ testament: OT
 chapter: 7
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-7-12-biblical-fluency-2026-09-13
 ---
 
-## A People Holy to the LORD
+## The nations and their worship
 
 <p>
-v01: “When the LORD your God brings you into the land that you are entering to possess and clears away many nations before you—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations greater and mightier than you—
-
-v02: and when the LORD your God gives them before you and you strike them, you will devote them completely to destruction. You will make no covenant with them and show them no favor.
-
-v03: You will not intermarry with them. You will not give your daughter to his son, and you will not take his daughter for your son,
-
-v04: for he will turn your son away from following me to serve other gods. Then the anger of the LORD will burn against you and destroy you quickly.
-
-v05: But thus you will do to them: tear down their altars, shatter their pillars, cut down their Asherah poles, and burn their carved images with fire.
-
-v06: For you are a people holy to the LORD your God. The LORD your God has chosen you to be for him a treasured people from all the peoples who are on the face of the ground.
+v01: “When the LORD your God brings you into the land you are entering to possess and drives out many nations before you—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations more numerous and stronger than you—
+v02: and the LORD your God hands them over to you and you defeat them, you must devote them completely to destruction. Make no covenant with them and show them no mercy.
 </p>
 
-## The LORD Set His Love upon You
-
 <p>
-v07: “It was not because you were more numerous than all the peoples that the LORD desired you and chose you, for you were the fewest of all the peoples.
-
-v08: Rather, because the LORD loved you and kept the oath that he swore to your ancestors, the LORD brought you out with a strong hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.
-
-v09: Know therefore that the LORD your God—he is God, the faithful God, keeping covenant and steadfast love with people who love him and keep his commandments to a thousand generations,
-
-v10: but repaying people who hate him to their face, to destroy them. He will not delay with one who hates him; to his face he will repay him.
-
-v11: So you will keep the commandment, the statutes, and the judgments that I command you today, to do them.
+v03: Do not intermarry with them. Do not give your daughter to one of their sons or take one of their daughters for your son.
+v04: For they will turn your son away from following the LORD to serve other gods. Then the LORD's anger will burn against you, and he will quickly destroy you.
 </p>
 
-## Blessing for Covenant Faithfulness
-
 <p>
-v12: “And it will be, because you listen to these judgments and keep and do them, that the LORD your God will keep with you the covenant and steadfast love that he swore to your ancestors.
-
-v13: He will love you, bless you, and multiply you. He will bless the fruit of your womb and the fruit of your ground, your grain, new wine, and oil, the offspring of your cattle and the increase of your flock, upon the land that he swore to your ancestors to give you.
-
-v14: You will be blessed above all peoples. There will not be a barren male or female among you or among your livestock.
-
-v15: The LORD will remove from you every sickness, and none of the evil diseases of Egypt that you knew will he place upon you, but he will put them upon everyone who hate you.
-
-v16: You will consume all the peoples whom the LORD your God gives to you. Your eye will not pity them, and you will not serve their gods, for that would be a snare to you.
+v05: This is what you must do to them: tear down their altars, smash their standing stones, cut down their Asherah poles, and burn their carved images.
 </p>
 
-## Do Not Fear the Nations
+## Chosen in love
 
 <p>
-v17: “If you say in your heart, ‘These nations are more numerous than I am; how can I dispossess them?’
-
-v18: you will not fear them. You will surely remember what the LORD your God did to Pharaoh and to all Egypt:
-
-v19: the great trials that your eyes saw, the signs, the wonders, the strong hand, and the outstretched arm by which the LORD your God brought you out. So the LORD your God will do to all the peoples whom you fear.
-
-v20: Moreover, the LORD your God will send the hornet among them until people who remain and hide from you perish.
-
-v21: You will not be terrified before them, for the LORD your God is in your midst, a great and fearsome God.
-
-v22: The LORD your God will clear away these nations before you little by little. You will not be able to finish them quickly, lest the wild animals multiply against you.
-
-v23: But the LORD your God will give them before you and throw them into great confusion until they are destroyed.
-
-v24: He will give their kings into your hand, and you will cause their name to perish from under the heavens. No one will stand before you until you have destroyed them.
+v06: For you are a people holy to the LORD your God. Out of all the peoples on the face of the earth, the LORD your God chose you to be his treasured people.
 </p>
 
-## Do Not Bring a Detestable Thing into Your House
+<p>
+v07: The LORD did not set his affection on you and choose you because you were more numerous than other peoples. You were the fewest of all peoples.
+v08: It was because the LORD loved you and kept the oath he swore to your fathers that he brought you out with a strong hand. He redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.
+</p>
 
 <p>
-v25: “You will burn the carved images of their gods with fire. You will not desire the silver or gold that is on them or take it for yourself, lest you be snared by it, for it is a detestable thing to the LORD your God.
+v09: Know, then, that the LORD your God is God, the faithful God. He keeps covenant and faithful love for a thousand generations with those who love him and keep his commands.
+v10: But he repays those who hate him to their face, destroying them. He does not delay with anyone who hates him; he repays that person to their face.
+</p>
 
-v26: You will not bring a detestable thing into your house and become devoted to destruction like it. You will utterly detest it and utterly abhor it, for it is devoted to destruction.
+<p>
+v11: So keep the commandment, statutes, and rulings I give you today, and put them into practice.
+</p>
+
+## Blessing and obedience
+
+<p>
+v12: If you listen to these rulings, keep them, and put them into practice, the LORD your God will keep with you the covenant and faithful love he swore to your fathers.
+v13: He will love you, bless you, and make you numerous. He will bless the fruit of your womb and the fruit of your ground—your grain, new wine, and oil, the calves of your herds and the young of your flocks—in the land he swore to your fathers to give you.
+</p>
+
+<p>
+v14: You will be blessed beyond all peoples. No man or woman among you will be unable to have children, and none of your livestock will be barren.
+v15: The LORD will remove every sickness from you. He will not put on you any of the terrible diseases of Egypt that you knew, but will put them on all who hate you.
+</p>
+
+<p>
+v16: You must devour all the peoples the LORD your God hands over to you. Do not look on them with pity, and do not serve their gods, for that would be a snare to you.
+</p>
+
+## Remember instead of fearing
+
+<p>
+v17: You may say in your heart, ‘These nations are more numerous than I am. How can I drive them out?’
+v18: Do not be afraid of them. Remember well what the LORD your God did to Pharaoh and all Egypt.
+v19: You saw the great trials, the signs and wonders, the strong hand and outstretched arm with which the LORD your God brought you out. The LORD your God will do the same to all the peoples you fear.
+</p>
+
+<p>
+v20: The LORD your God will also send hornets among them, until even those who remain and hide from you have perished.
+v21: Do not dread them, because the LORD your God is among you, a great and fearsome God.
+</p>
+
+<p>
+v22: The LORD your God will drive these nations out before you little by little. You cannot finish them off quickly, or wild animals would become too numerous for you.
+v23: The LORD your God will hand them over to you and throw them into utter panic until they are destroyed.
+</p>
+
+<p>
+v24: He will hand their kings over to you, and you will wipe out their names from under heaven. No one will stand against you until you have destroyed them.
+</p>
+
+## Do not take the images' gold
+
+<p>
+v25: Burn the carved images of their gods. Do not covet the silver or gold on them and take it for yourself, or it will become a snare to you. It is detestable to the LORD your God.
+v26: Do not bring a detestable thing into your house, or you too will be devoted to destruction like it. Utterly detest it and abhor it, because it is devoted to destruction.”
 </p>
 
 ## Notes
 
-v01: The seven-nation list is a traditional way of describing the peoples of Canaan and functions as a complete symbolic catalogue of the land’s inhabitants.
+v2, 16, 26: The ban language requires destruction and explicitly forbids mercy. Verse 16 pictures the conquest as devouring; verse 26 warns that someone who takes a banned object becomes subject to the same destruction. These statements are retained without softening their force.
 
-v02, v16, v24: The *herem* commands are among Deuteronomy’s most severe texts. TSW preserves the conquest language without extending it into a general mandate for later religious or ethnic violence.
+v3–4: The stated reason for the marriage prohibition is turning to other gods. In verse 4 Hebrew has “following me,” a divine first-person reference within Moses' address. The draft names the LORD to keep the referent clear.
 
-v03–04: The intermarriage prohibition is explicitly grounded in the danger of being turned toward other gods, not in a theory of biological racial purity.
+v9: The written and read forms differ in the spelling of “his commands.” They represent one word, not two repeated commands. The read form is followed, and the whole source record is preserved.
 
-v06: Israel’s election is described as holiness and treasured status, but verse 07 immediately denies that it rests on numerical greatness.
+v10: “To their face” stresses direct repayment; it is also understood as repayment during the offender's lifetime.
 
-v07–08: Divine love and the oath to the ancestors, rather than Israel’s size or merit, ground the exodus and election.
+v20: The word rendered “hornets” is uncertain; alternatives include panic or a destructive affliction. The concrete traditional rendering is retained; compare Exodus 23:28.
 
-v09–10: Covenant steadfast love and direct judgment are placed side by side as aspects of divine faithfulness.
-
-v12–15: Blessing is narrated in agricultural, familial, and bodily terms. Deuteronomy connects covenant fidelity with the concrete life of the land.
-
-v20: The “hornet” may be literal or figurative for terror and disruption. TSW retains the image.
-
-v22: As in Exodus 23, conquest is gradual for ecological reasons: a suddenly emptied land would allow wild animals to multiply.
-
-v25–26: Israel must not turn destroyed cult objects into private wealth. The material value of idols does not cancel their covenant danger.
+v22: The gradual removal is explicitly connected with the danger of wild animals multiplying. The quick destruction language in 9:3 is also retained in its own setting.
 
 ## Vocabulary
 
-v02: חָרַם (charam)
-“To devote to destruction.” To place under irrevocable ban.
+v2: Devoted to destruction
+The ban, Hebrew herem. Here the term concerns the defeated peoples and later the images and their valuables.
 
-v06: עַם קָדוֹשׁ (am qadosh)
-“Holy people.” A people set apart to the LORD.
+v5: Standing stones and Asherah poles
+Distinct objects associated here with the peoples' worship. The Asherah objects were wooden cultic installations; their precise forms are not specified.
 
-v06: סְגֻלָּה (segullah)
-“Treasured possession.” A specially valued people.
+v6: Treasured people
+A people belonging to the LORD as a valued possession; compare Exodus 19:5.
 
-v07: חָשַׁק (chashaq)
-“To set affection upon” or “desire.” The LORD’s elective love.
+v8: Redeem
+To release or recover from bondage or another claim. Here the LORD frees Israel from Pharaoh's hand.
 
-v08: פָּדָה (padah)
-“To redeem.” To rescue from bondage.
-
-v09: נֶאֱמָן (ne'eman)
-“Faithful.” Reliable in covenant commitment.
-
-v16: מוֹקֵשׁ (moqesh)
-“Snare.” A trap, here other gods.
-
-v20: צִרְעָה (tsir'ah)
-“Hornet.” An agent of fear and displacement.
-
-v25: תּוֹעֵבָה (toevah)
-“Detestable thing.” Something abhorrent within covenant worship.
-
-v26: שָׁקַץ (shaqats)
-“To detest.” Strong rejection of what is under the ban.
+v9: Faithful love
+Hebrew hesed, committed love or kindness, joined here with keeping covenant.

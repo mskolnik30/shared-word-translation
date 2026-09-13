@@ -4,145 +4,126 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-7-12-biblical-fluency-2026-09-13
 ---
 
-## Love the LORD and Keep His Charge
+## You have seen the LORD's deeds
 
 <p>
-v01: “You will love the LORD your God and keep his charge, his statutes, his judgments, and his commandments all the days.
-
-v02: Know today—for I am not speaking with your children who have not known and have not seen—the discipline of the LORD your God: his greatness, his strong hand, and his outstretched arm;
-
-v03: his signs and his deeds that he did among Egypt to Pharaoh king of Egypt and to all his land;
-
-v04: and what he did to the army of Egypt, to their horses and chariots, how he made the waters of the Sea of Reeds flow over them when they pursued you, and the LORD destroyed them to this day;
-
-v05: and what he did for you in the wilderness until you came to this place;
-
-v06: and what he did to Dathan and Abiram sons of Eliab son of Reuben, how the earth opened its mouth and swallowed them, their households, their tents, and every living thing that followed them, among all Israel.
-
-v07: For your own eyes have seen all the great work of the LORD that he did.
+v01: “Love the LORD your God and always keep what he requires—his statutes, rulings, and commands.
 </p>
 
-## Keep the Commandment and Possess the Land
-
 <p>
-v08: “So you will keep all the commandment that I command you today, so that you may be strong and go in and possess the land that you are crossing over to possess,
-
-v09: and so that you may prolong your days upon the land that the LORD swore to your ancestors to give to them and to their offspring, a land flowing with milk and honey.
+v02: Take this to heart today. I am speaking to you, not to your children, who did not know or see the discipline of the LORD your God, his greatness, his strong hand and outstretched arm.
+v03: They did not see his signs and the deeds he did in Egypt to Pharaoh king of Egypt and his whole land,
+v04: or what he did to Egypt's army, its horses and chariots—how he swept the waters of the Sea of Reeds over them as they pursued you. The LORD destroyed them, and that destruction stands to this day.
 </p>
 
-## A Land that Depends on Rain from Heaven
-
 <p>
-v10: “For the land that you are entering to possess is not like the land of Egypt from which you came out, where you sowed your seed and watered it with your foot like a vegetable garden.
-
-v11: But the land that you are crossing over to possess is a land of hills and valleys. From the rain of the heavens it drinks water,
-
-v12: a land that the LORD your God seeks after. The eyes of the LORD your God are continually upon it, from the beginning of the year to the end of the year.
+v05: They did not see what he did for you in the wilderness until you reached this place,
+v06: or what he did to Dathan and Abiram, sons of Eliab, a descendant of Reuben: the earth opened its mouth and swallowed them, their households, their tents, and every living thing that followed them, in the midst of all Israel.
 </p>
 
-## If You Listen Diligently
-
 <p>
-v13: “And it will be, if you diligently listen to my commandments that I command you today, to love the LORD your God and serve him with all your heart and with all your life,
-
-v14: then I will give the rain of your land in its season, the early rain and the later rain, so that you may gather your grain, new wine, and oil.
-
-v15: I will give grass in your field for your livestock, and you will eat and be satisfied.
-
-v16: Guard yourselves, lest your heart be deceived and you turn aside and serve other gods and bow down to them.
-
-v17: Then the anger of the LORD will burn against you, and he will shut up the heavens so that there is no rain and the ground does not give its produce, and you will quickly perish from the good land that the LORD is giving you.
+v07: Your own eyes saw all the great deeds the LORD did.
 </p>
 
-## Put These Words on Your Heart
+## A land watered by heaven
 
 <p>
-v18: “You will put these words of mine on your heart and on your life. Bind them as a sign on your hand, and they will be as frontlets between your eyes.
+v08: So keep this whole commandment that I give you today, so that you may be strong and enter and possess the land you are crossing over to possess,
+v09: and so that you may live long on the land the LORD swore to your fathers to give them and their descendants, a land flowing with milk and honey.
+</p>
 
-v19: Teach them to your children, speaking of them when you sit in your house, when you walk on the way, when you lie down, and when you rise.
+<p>
+v10: The land you are entering to possess is not like Egypt, which you left. There you sowed your seed and watered it with your foot, like a vegetable garden.
+v11: But the land you are crossing over to possess is a land of hills and valleys that drinks water from the rain of heaven.
+v12: It is a land the LORD your God cares for. The eyes of the LORD your God are always on it, from the beginning of the year to its end.
+</p>
 
+## Rain and allegiance
+
+<p>
+v13: ‘If you listen carefully to my commands that I give you today, loving the LORD your God and serving him with all your heart and all your soul,
+v14: I will give rain for your land in its season, the autumn rain and the spring rain, so that you may gather your grain, new wine, and oil.
+v15: I will provide grass in your fields for your livestock, and you will eat your fill.’
+</p>
+
+<p>
+v16: Watch yourselves, so that your hearts are not enticed and you turn away to serve other gods and bow down to them.
+v17: Then the LORD's anger would burn against you. He would shut up the heavens so there would be no rain and the ground would give no harvest, and you would quickly perish from the good land the LORD is giving you.
+</p>
+
+## Teach these words
+
+<p>
+v18: Place these words of mine on your heart and soul. Bind them as a sign on your hand, and let them be bands between your eyes.
+</p>
+
+<p>
+v19: Teach them to your children. Speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.
 v20: Write them on the doorposts of your house and on your gates,
-
-v21: so that your days and the days of your children may be multiplied upon the land that the LORD swore to your ancestors to give them, as the days of the heavens above the earth.
+v21: so that your days and your children's days in the land the LORD swore to your fathers to give them may be many, as long as the heavens are over the earth.
 </p>
 
-## No One Will Stand before You
+## The promise and the choice
 
 <p>
-v22: “For if you diligently keep all this commandment that I command you to do, to love the LORD your God, to walk in all his ways, and to cling to him,
-
-v23: then the LORD will dispossess all these nations from before you, and you will possess nations greater and mightier than you.
-
-v24: Every place on which the sole of your foot treads will be yours. From the wilderness and Lebanon, from the River, the Euphrates River, as far as the western sea, will be your territory.
-
-v25: No one will stand before you. The LORD your God will put the dread and fear of you upon all the land on which you tread, as he spoke to you.
+v22: If you are careful to practice this whole commandment that I give you—loving the LORD your God, walking in all his ways, and clinging to him—
+v23: the LORD will drive out all these nations before you, and you will dispossess nations greater and stronger than you.
 </p>
 
-## Blessing and Curse
+<p>
+v24: Every place the sole of your foot treads will be yours. Your boundary will run from the wilderness to Lebanon, and from the river, the Euphrates, to the western sea.
+v25: No one will stand against you. The LORD your God will put fear and dread of you over all the land you tread, as he promised you.
+</p>
 
 <p>
-v26: “See, I am setting before you today a blessing and a curse:
+v26: See, today I am setting before you a blessing and a curse.
+v27: The blessing is yours if you listen to the commands of the LORD your God that I give you today.
+v28: The curse is yours if you do not listen to the commands of the LORD your God, but turn from the way I command you today to follow other gods you have not known.
+</p>
 
-v27: the blessing, if you listen to the commandments of the LORD your God that I command you today;
+<p>
+v29: When the LORD your God brings you into the land you are entering to possess, pronounce the blessing on Mount Gerizim and the curse on Mount Ebal.
+v30: Are they not beyond the Jordan, west of the road toward the sunset, in the land of the Canaanites who live in the Arabah, opposite Gilgal, beside the oaks of Moreh?
+</p>
 
-v28: and the curse, if you do not listen to the commandments of the LORD your God but turn aside from the way that I command you today to go after other gods whom you have not known.
-
-v29: And when the LORD your God brings you into the land that you are entering to possess, you will place the blessing on Mount Gerizim and the curse on Mount Ebal.
-
-v30: Are they not beyond the Jordan, toward the setting of the sun, in the land of the Canaanites who live in the Arabah, opposite Gilgal, beside the oaks of Moreh?
-
-v31: For you are crossing the Jordan to enter and possess the land that the LORD your God is giving you. You will possess it and live in it.
-
-v32: So you will be careful to do all the statutes and judgments that I set before you today.
+<p>
+v31: For you are crossing the Jordan to enter and possess the land the LORD your God is giving you. You will possess it and live in it.
+v32: Be careful to practice all the statutes and rulings I am setting before you today.”
 </p>
 
 ## Notes
 
-v02–07: Moses appeals to the eyewitness generation. Covenant obedience is grounded in remembered acts of judgment and deliverance, not abstract principle alone.
+v2–7: The Hebrew opening is elliptical. The draft supplies the contrast between Moses' present audience and their children, then carries it through the remembered events. Verse 7 returns emphatically to the audience's own eyes.
 
-v06: Deuteronomy names Dathan and Abiram but not Korah in this retelling of the rebellion. TSW preserves the book’s selective memory.
+v6: The final expression can include the living things or possessions belonging to Dathan and Abiram, literally what was at their feet. The draft retains living things and their following or dependent relationship. Korah is not named in this verse.
 
-v10: “watered it with your foot” is uncertain. It may refer to foot-operated irrigation or to channeling water through cultivated fields. The contrast is with Canaan’s dependence on rain.
+v10: “With your foot” describes Egyptian irrigation, but the exact mechanism is not specified. Foot-work in directing water or operating irrigation has been proposed. The draft does not replace the foot with a hand or name an unmentioned device.
 
-v12: The LORD “seeks after” or “cares for” the land, with divine eyes continually upon it. Agricultural life is portrayed as dependent on divine attention.
+v13–15: The Hebrew shifts from Moses' address into the first-person divine promise, “I will give.” Quotation marks distinguish that promise; its wording also refers to the LORD in the third person.
 
-v13–17: The language closely parallels a text later used in Jewish daily prayer. Love, service, rain, food, and the danger of idolatry are integrated.
+v18–21: The commands repeat the hand, eyes, doorposts, gates, and daily teaching settings of 6:6–9. The closing comparison describes days as lasting like the heavens over the earth.
 
-v18: “on your heart and on your life” is the Hebrew *levav* and *nefesh*, making the teaching interior and embodied.
-
-v24: “the River” is explicitly identified as the Euphrates. The territorial formula describes the broad horizon of Israel’s promised inheritance.
-
-v26–29: Blessing and curse are not abstract concepts but covenant paths embodied geographically on Gerizim and Ebal.
-
-v30: The precise ancient locations of Gilgal and the “oaks of Moreh” in relation to the mountains have been debated. TSW preserves the received geographic wording.
+v29–30: Gerizim receives the blessing and Ebal the curse in the pinned Hebrew. The following location sentence is compressed; the relation of the sunset road to the other landmarks is uncertain. All named markers are retained.
 
 ## Vocabulary
 
-v01: מִשְׁמֶרֶת (mishmeret)
-“Charge” or “obligation.” What has been entrusted to be kept.
+v4: Sea of Reeds
+The Hebrew name traditionally translated “Red Sea.”
 
-v02: מוּסָר (musar)
-“Discipline” or “instruction.” The LORD’s formative acts.
+v14: Autumn and spring rains
+The early and late rains that support the agricultural year.
 
-v10: שָׁקָה (shaqah)
-“To water.” Used of Egypt’s irrigation.
+v18: Bands between your eyes
+Traditionally “frontlets.” The rare Hebrew term names an object whose precise form is uncertain; compare 6:8.
 
-v14: יוֹרֶה (yoreh)
-“Early rain.” Autumn rain beginning the agricultural season.
+v24: Western sea
+The Mediterranean, west of the land in the passage's orientation.
 
-v14: מַלְקוֹשׁ (malqosh)
-“Later rain.” Spring rain completing crop growth.
-
-v18: טוֹטָפֹת (totafot)
-“Frontlets.” Signs between the eyes.
-
-v22: דָּבַק (davaq)
-“To cling.” Covenant attachment.
-
-v26: בְּרָכָה (berakhah)
-“Blessing.” The life-giving covenant outcome of listening.
-
-v28: קְלָלָה (qelalah)
-“Curse.” The covenant consequence of turning aside.
+v26: Blessing and curse
+The alternatives set before the people, developed more fully in Deuteronomy 27–28.
