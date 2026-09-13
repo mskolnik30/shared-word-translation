@@ -2,215 +2,69 @@
   "book": "Deuteronomy",
   "chapter": 34,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
+  "publication_allowed": false,
+  "revision_id": "fluent-deuteronomy-27-34-biblical-fluency-2026-09-13",
+  "supersedes": {
+    "commit": "0e819eb7bc1e0d5cf636e4237c2fa30e654c1b18",
+    "path": "audit/exegetical-core/fluent-production/deuteronomy/Deuteronomy_34_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Deut",
+    "book_verse_count": 959,
+    "scope_chapters": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Deut.xml",
-    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Deut.xml",
     "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Deuteronomy 34:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 1,
-            "source_ref": "Deuteronomy 34:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "22fb9706cd681e2118bbd26a05471a0b885014572408f7a9129700020917b295"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "22fb9706cd681e2118bbd26a05471a0b885014572408f7a9129700020917b295"
-      },
-      "2": {
-        "source_ref": "Deuteronomy 34:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 2,
-            "source_ref": "Deuteronomy 34:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "9f27d21ec599d7b3949b0cf9c17bdb0ebe25ee333b41d63e74b802b3379b150d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9f27d21ec599d7b3949b0cf9c17bdb0ebe25ee333b41d63e74b802b3379b150d"
-      },
-      "3": {
-        "source_ref": "Deuteronomy 34:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 3,
-            "source_ref": "Deuteronomy 34:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e6542177e2c462da1a3488fc0a64124916dae78a3b77bf1b76f9cc9a2c8db6c7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e6542177e2c462da1a3488fc0a64124916dae78a3b77bf1b76f9cc9a2c8db6c7"
-      },
-      "4": {
-        "source_ref": "Deuteronomy 34:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 4,
-            "source_ref": "Deuteronomy 34:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "515d6504711d5100c84316eb7405911beb2a03c056a2df64c1c06ab4614979dd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "515d6504711d5100c84316eb7405911beb2a03c056a2df64c1c06ab4614979dd"
-      },
-      "5": {
-        "source_ref": "Deuteronomy 34:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 5,
-            "source_ref": "Deuteronomy 34:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e0965387f4be5af1dfa8cf1a54a84f9f78bd40fae503326c61be36317622dc30"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e0965387f4be5af1dfa8cf1a54a84f9f78bd40fae503326c61be36317622dc30"
-      },
-      "6": {
-        "source_ref": "Deuteronomy 34:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 6,
-            "source_ref": "Deuteronomy 34:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "fd854b98d55f2ed0bc55a0af73efc7161424abb43359c89eeb2012706fd9a020"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fd854b98d55f2ed0bc55a0af73efc7161424abb43359c89eeb2012706fd9a020"
-      },
-      "7": {
-        "source_ref": "Deuteronomy 34:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 7,
-            "source_ref": "Deuteronomy 34:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "9c47df87fc7c3e90649b8726a4a148796f950425eed3890475cde5844232392a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9c47df87fc7c3e90649b8726a4a148796f950425eed3890475cde5844232392a"
-      },
-      "8": {
-        "source_ref": "Deuteronomy 34:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 8,
-            "source_ref": "Deuteronomy 34:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "3f977095d6782b2ae34f58385513aa421cdef6159a3f6a1d62a255d8fac9e5ff"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3f977095d6782b2ae34f58385513aa421cdef6159a3f6a1d62a255d8fac9e5ff"
-      },
-      "9": {
-        "source_ref": "Deuteronomy 34:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 9,
-            "source_ref": "Deuteronomy 34:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "40cc81e1caa9418c199dd71efd5ea1f484caa1eecd4e79cb6ac5cf0d3e22b779"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "40cc81e1caa9418c199dd71efd5ea1f484caa1eecd4e79cb6ac5cf0d3e22b779"
-      },
-      "10": {
-        "source_ref": "Deuteronomy 34:10 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 10,
-            "source_ref": "Deuteronomy 34:10 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "cc2d3188c84ef23f5b8c03f60a7c2cbdaf2cdb1d4ea6af322a62b29143ac4a8e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cc2d3188c84ef23f5b8c03f60a7c2cbdaf2cdb1d4ea6af322a62b29143ac4a8e"
-      },
-      "11": {
-        "source_ref": "Deuteronomy 34:11 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 11,
-            "source_ref": "Deuteronomy 34:11 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a534a1f9ba7a86f3266b0419968bb578bbe80fbb73e109f0cddaabbafb25e8d4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a534a1f9ba7a86f3266b0419968bb578bbe80fbb73e109f0cddaabbafb25e8d4"
-      },
-      "12": {
-        "source_ref": "Deuteronomy 34:12 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 34,
-            "verse": 12,
-            "source_ref": "Deuteronomy 34:12 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "7935555916b35176a43b6d6d9c76b5da30445a376a0ac453939f34adb28d30a2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7935555916b35176a43b6d6d9c76b5da30445a376a0ac453939f34adb28d30a2"
-      }
+    "sha256": "aad16a6a2dcbdc6ee36d7d051e80a63bfeb69ecaae19f775ec5b6aa67fe22355",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Deut.xml",
+    "verse_hash_method": "SHA-256 of the exact original XML verse substring, including written/read notes, not a normalized substitute.",
+    "public_versification_note": "Public Deuteronomy 29:1 binds Hebrew 28:69; public 29:2–29 binds Hebrew 29:1–28. All other public verses in chapters 27–34 align directly. All 266 original XML records, including written/read and numbering notes, are hashed in full."
+  },
+  "chapter_binding": {
+    "chapter": 34,
+    "verse_count": 12,
+    "path": "translations/fluent/OT/deuteronomy/Deuteronomy_34.md",
+    "before_sha256": "b93f92ca5f4cd2941d8a7016bf3282262e4a3f5226aac0798f6a1a0f7aad55cf",
+    "after_sha256": "48bd323f807ef0cc38d56b26d5f9511b5671def1379ff42a9b3cf0d8781bfd83",
+    "tsw_comparator_path": "books/OT/deuteronomy/Deuteronomy_34.md",
+    "tsw_comparator_sha256": "d86c8ad179975a0a7fd544b1be358859b02871c47587d77c7f3742be1bca0bc9"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+  "public_versification": {
+    "1–12": "Deut 34:1–12"
+  },
+  "key_decisions": [
+    {
+      "location": "Deuteronomy 34:6",
+      "delta": "F3",
+      "decision": "Preserves the unnamed burial agent in the Hebrew, explaining the likely divine referent in a note rather than silently fixing it.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 34:7",
+      "delta": "F3",
+      "decision": "Keeps the exact age and undiminished sight and vigor, avoiding a contradiction imported into 31:2.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 34:10",
+      "delta": "F3",
+      "decision": "Preserves the direction of knowing from the LORD toward Moses and continues the comparison into the final verses.",
+      "disposition": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/deuteronomy/Deuteronomy_34.md",
-    "blob_sha": "a42e5a4a57d07ce8b400e905e1e5405f36499515"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

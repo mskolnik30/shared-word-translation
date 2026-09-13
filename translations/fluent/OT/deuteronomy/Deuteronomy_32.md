@@ -4,441 +4,283 @@ testament: OT
 chapter: 32
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-27-34-biblical-fluency-2026-09-13
 ---
 
-## Give Ear, O Heavens
+## The song of Moses
 
 <p>
-v01: Give ear, O heavens, and I will speak;
-let the earth hear
-the words of my mouth.
-
-v02: May my teaching drop like rain,
-my word distill like dew,
-like showers upon young grass
-and like abundant rain upon plants.
-
-v03: For I will proclaim
-the name of the LORD.
-Give greatness
-to our God!
+v01: Listen, heavens, and I will speak.
+Let the earth hear the words of my mouth.
+v02: May my teaching fall like rain,
+my speech settle like dew,
+like showers on tender grass,
+like rain on growing plants.
+v03: For I will proclaim the LORD’s name.
+Give greatness to our God!
 </p>
 
-## The Rock, His Work Is Perfect
-
 <p>
-v04: The Rock—his work is perfect,
+v04: The Rock—his work is complete,
 for all his ways are justice.
-A God of faithfulness
-and without injustice,
+A faithful God, with no injustice,
 righteous and upright is he.
-
 v05: They have acted corruptly toward him;
-they are not his children—their blemish.
-They are a twisted
-and crooked generation.
-
+not his children—the blemish is theirs!
+A crooked and twisted generation.
 v06: Is this how you repay the LORD,
 foolish and unwise people?
-Is he not your father who acquired you?
-He made you
-and established you.
+Is he not your father who created you,
+who made you and established you?
 </p>
 
-## Remember the Days of Old
+## Remember the Rock who cared for you
 
 <p>
 v07: Remember the days of old;
-consider the years
-of generation after generation.
-Ask your father, and he will tell you;
-your elders,
-and they will say to you.
-
-v08: When the Most High
-gave the nations their inheritance,
-when he divided the children of humanity,
-he set the boundaries of the peoples
-according to the number
-of the sons of God.
-
-v09: For the LORD’s portion
-is his people;
-Jacob is the measured share
-of his inheritance.
+consider the years of generation after generation.
+Ask your father, and he will tell you,
+your elders, and they will speak to you.
+v08: When the Most High gave nations their inheritance,
+when he divided the children of Adam,
+he set the boundaries of peoples
+according to the number of the children of Israel.
+v09: For the LORD’s portion is his people,
+Jacob his allotted inheritance.
 </p>
-
-## He Found Him in a Wilderness Land
 
 <p>
 v10: He found him in a wilderness land,
-in a waste,
-a howling emptiness.
-He surrounded him;
-he cared for him;
-he guarded him
-as the pupil of his eye.
-
-v11: Like an eagle that stirs up its nest,
-that hovers over its young,
-he spread his wings,
-took him,
-and carried him
-upon his pinions.
-
-v12: The LORD alone guided him,
-and no foreign god
-was with him.
+in an empty, howling waste.
+He surrounded him, cared for him,
+and guarded him like the pupil of his eye.
+v11: Like an eagle stirring its nest,
+hovering over its young,
+he spread his wings and took him up;
+he carried him on his pinions.
+v12: The LORD alone guided him;
+no foreign god was with him.
 </p>
 
-## Israel Ate and Was Satisfied
-
 <p>
-v13: He made him ride
-upon the heights of the land,
-and he ate the produce of the field.
-He made him suck honey from the rock
-and oil
-from the flinty rock,
-
-v14: curds from cattle
-and milk from the flock,
-with fat of lambs,
-rams of Bashan,
-and goats,
-with the finest wheat;
-and from the blood of grapes
-you drank wine.
+v13: He made him ride the heights of the earth
+and eat the produce of the fields.
+He let him suck honey from rock
+and oil from flinty stone.
+v14: Curds from cattle and milk from flocks,
+with fat lambs,
+rams from Bashan and goats,
+with the richest kernels of wheat—
+and you drank wine, the blood of grapes.
 </p>
 
-## Jeshurun Grew Fat and Kicked
+## Jeshurun abandons his maker
 
 <p>
-v15: Yet Jeshurun grew fat and kicked.
-You grew fat, thick, and sleek.
-Then he abandoned the God who made him
-and treated with contempt
-the Rock of his salvation.
+v15: Jeshurun grew fat and kicked—
+you grew fat, thick, and gorged!
+He abandoned the God who made him
+and treated the Rock of his salvation with contempt.
+</p>
 
+<p>
 v16: They made him jealous with foreign gods;
-with detestable things
-they provoked him to anger.
-
-v17: They sacrificed to demons,
-not God,
+with detestable things they provoked him to anger.
+v17: They sacrificed to demons, not God,
 to gods they had not known,
-new ones that came recently,
-whom your ancestors
-did not dread.
-
-v18: You neglected the Rock
-who fathered you,
-and forgot the God
-who gave you birth.
+new ones that had lately come,
+whom your ancestors did not dread.
+v18: You neglected the Rock who fathered you
+and forgot the God who gave you birth.
 </p>
 
-## I Will Hide My Face from Them
-
 <p>
-v19: The LORD saw
-and rejected them
-because of the provocation
-of his sons and daughters.
-
-v20: He said:
-
-“I will hide my face from them;
-I will see what their end will be.
-For they are a generation of reversals,
-children in whom
-there is no faithfulness.
-
-v21: They made me jealous
-with what is not God;
-they provoked me
-with their empty things.
-So I will make them jealous
-with people who are not a people;
-with a foolish nation
-I will provoke them.
-
-v22: For a fire is kindled
-in my anger
-and burns as far as deepest Sheol.
-It devours the earth
-and its produce
-and sets ablaze
-the foundations of the mountains.
+v19: The LORD saw and rejected them,
+provoked by his sons and daughters.
 </p>
 
-## I Will Heap Disasters upon Them
+## The LORD speaks judgment
 
 <p>
-v23: I will heap disasters upon them;
-I will spend my arrows
-against them.
+v20: He said, “I will hide my face from them
+and see what their end will be.
+For they are a perverse generation,
+children with no faithfulness in them.
+</p>
 
-v24: Wasted by hunger,
-consumed by fever
-and bitter plague,
-I will send against them
-the teeth of beasts,
-with the venom
-of creatures crawling in dust.
+<p>
+v21: They made me jealous with what is no god;
+they angered me with their empty things.
+So I will make them jealous with what is no people;
+with a foolish nation I will anger them.
+v22: A fire has been kindled in my anger;
+it burns to the depths of Sheol.
+It consumes the earth and its produce
+and sets the mountains’ foundations ablaze.
+</p>
 
+<p>
+v23: I will heap calamities upon them
+and spend all my arrows on them.
+v24: Wasted by hunger, consumed by burning plague
+and bitter pestilence,
+they will face the teeth of beasts I send,
+and the venom of creatures that crawl in the dust.
 v25: Outside, the sword will bereave;
-inside, terror—
-young man and young woman alike,
-nursing child
-and gray-haired man.
+inside their rooms, terror—
+for young man and virgin alike,
+for nursing infant and gray-haired man.
 </p>
 
-## I Feared the Taunt of the Enemy
-
 <p>
-v26: I said,
-‘I will scatter them;
-I will make their memory
-cease from humanity,’
-
-v27: if I had not feared
-the provocation of the enemy,
-lest their adversaries misunderstand
-and say,
-‘Our hand is exalted;
-the LORD did not do
-all this.’
+v26: I said, ‘I would scatter them,
+wipe out their memory from humankind,’
+v27: but I feared the enemy’s provocation,
+lest their foes misunderstand
+and say, ‘Our own hand is triumphant;
+the LORD did none of this.’”
 </p>
 
-## They Are a Nation without Counsel
+## Consider their end
 
 <p>
-v28: For they are a nation
-without counsel,
-and there is no understanding
-in them.
+v28: For they are a nation empty of counsel,
+with no understanding among them.
+v29: If only they were wise, they would understand this;
+they would discern their end.
+</p>
 
-v29: If only they were wise,
-they would understand this;
-they would discern
-their latter end.
-
-v30: How could one chase a thousand,
+<p>
+v30: How could one pursue a thousand,
 and two put ten thousand to flight,
 unless their Rock had sold them
-and the LORD
-had handed them over?
-
+and the LORD had handed them over?
 v31: For their rock is not like our Rock,
-even our enemies
-being judges.
+even our enemies being judges.
 </p>
 
-## Their Vine Is from Sodom
-
 <p>
-v32: For their vine is from the vine of Sodom
+v32: Their vine comes from Sodom’s vine
 and from the fields of Gomorrah.
-Their grapes are grapes of poison;
-their clusters are bitter.
-
-v33: Their wine is the venom of serpents
-and the cruel poison
-of cobras.
+Their grapes are poisonous grapes,
+their clusters bitter.
+v33: Their wine is the venom of serpents,
+the cruel poison of cobras.
 </p>
 
-## Vengeance Belongs to Me
+## Vengeance and compassion
 
 <p>
-v34: Is this not stored up with me,
-sealed in my treasuries?
-
-v35: Vengeance belongs to me,
-and repayment,
+v34: “Is this not stored up with me,
+sealed in my storehouses?
+v35: Vengeance and repayment are mine,
 for the time when their foot slips.
-For the day of their disaster is near,
-and what is prepared for them
-hurries toward them.
-
-v36: For the LORD will judge his people
-and have compassion on his servants
-when he sees that strength is gone
-and there is none left,
-slave or free.
+Their day of disaster is near;
+what awaits them comes quickly.”
 </p>
 
-## Where Are Their Gods?
+<p>
+v36: For the LORD will vindicate his people
+and have compassion on his servants,
+when he sees their power is gone
+and no one remains, confined or free.
+</p>
 
 <p>
-v37: Then he will say:
-
-“Where are their gods,
-the rock in which
-they took refuge,
-
-v38: who ate the fat of their sacrifices
+v37: He will say, “Where are their gods,
+the rock in which they took refuge,
+v38: the gods who ate the fat of their sacrifices
 and drank the wine of their drink offerings?
-Let them rise and help you!
-Let them be
-a shelter over you!
+Let them rise up and help you;
+let them be a shelter over you!
 </p>
 
-## See Now That I Am He
+<p>
+v39: See now: I, I am he;
+there is no god beside me.
+I put to death and bring to life;
+I wound and I heal.
+No one can rescue from my hand.
+</p>
 
 <p>
-v39: See now that I, I am he,
-and there is no god beside me.
-I put to death,
-and I make alive.
-I wound,
-and I heal,
-and there is no one
-who rescues from my hand.
-
-v40: For I lift my hand to the heavens
-and say,
-‘As I live forever,
-
-v41: when I sharpen
-my flashing sword
-and my hand takes hold
-of judgment,
-I will return vengeance
-upon my adversaries
-and repay
-people who hate me.
-
+v40: I lift my hand to the heavens
+and declare, ‘As I live forever,
+v41: when I sharpen my flashing sword
+and my hand takes hold of judgment,
+I will repay my enemies with vengeance
+and repay those who hate me.
 v42: I will make my arrows drunk with blood,
-and my sword will devour flesh—
-with the blood of the slain and captives,
-from the long-haired heads
-of the enemy.’
+and my sword will eat flesh—
+blood of the slain and the captives,
+from the long-haired heads of the enemy.’”
 </p>
 
-## Rejoice, O Nations, with His People
-
 <p>
-v43: Rejoice, O nations, with his people,
-for he will avenge
-the blood of his servants.
-He will return vengeance
-upon his adversaries
-and make atonement
-for his land and his people.
+v43: Rejoice, nations, with his people!
+For he will avenge the blood of his servants,
+take vengeance on his enemies,
+and make atonement for his land and his people.
 </p>
 
-## Set Your Heart on All These Words
+## This word is your life
 
 <p>
-v44: Moses came and spoke all the words of this song in the hearing of the people, he and Joshua son of Nun.
+v44: Moses came and spoke all the words of this song in the people’s hearing, he and Hoshea son of Nun.
+</p>
 
+<p>
 v45: When Moses had finished speaking all these words to all Israel,
-
-v46: he said to them, “Set your heart on all the words that I testify against you today, which you will command your children to be careful to do, all the words of this instruction.
-
-v47: For it is not an empty word for you, but it is your life, and by this word you will prolong your days upon the ground that you are crossing the Jordan to possess.”
+v46: he said to them, “Take to heart all the words I am solemnly declaring to you today. Command your children to faithfully carry out all the words of this instruction.
+v47: This is no empty word for you—it is your life. Through this word you will live long on the ground you are crossing the Jordan to possess.”
 </p>
 
-## Moses Will See the Land but Not Enter It
+## Moses is told to climb the mountain
 
 <p>
-v48: The LORD spoke to Moses on that very day, saying,
-
-v49: “Go up this mountain of Abarim, Mount Nebo, which is in the land of Moab opposite Jericho, and see the land of Canaan that I am giving to the children of Israel as a possession.
-
-v50: You will die on the mountain that you ascend and be gathered to your people, just as Aaron your brother died on Mount Hor and was gathered to his people,
-
-v51: because you acted unfaithfully against me among the children of Israel at the waters of Meribath-Kadesh, in the wilderness of Zin, because you did not treat me as holy among the children of Israel.
-
-v52: For from a distance you will see the land, but you will not enter there, into the land that I am giving to the children of Israel.”
+v48: That same day the LORD spoke to Moses:
+v49: “Go up into this Abarim range, to Mount Nebo in the land of Moab opposite Jericho, and see the land of Canaan that I am giving the Israelites as their possession.
+v50: Die on the mountain you climb and be gathered to your people, just as your brother Aaron died on Mount Hor and was gathered to his people.
+v51: For both of you broke faith with me among the Israelites at the waters of Meribath-kadesh in the wilderness of Zin. You did not uphold me as holy among the Israelites.
+v52: You will see the land from a distance, but you will not enter the land I am giving the Israelites.”
 </p>
 
 ## Notes
 
-v01–03: The song summons heavens and earth as witnesses, continuing Deuteronomy’s covenant courtroom imagery.
+v5–6: Verse 5 is compressed and difficult: corruption, not being his children, and their blemish stand together. In verse 6 the verb rendered “created” can also mean “acquired.”
 
-v04: “The Rock” becomes a recurring divine title in the song, emphasizing stability, justice, and faithfulness.
+v8: “Children of Israel” follows the pinned Hebrew. A Qumran witness reads “sons of God,” and the Greek tradition reads “angels of God.” Those readings change the picture of how the nations are allotted.
 
-v05: The Hebrew line is difficult. TSW retains the contrast between God’s perfect work and a generation whose corruption marks them as distorted children.
+v14: “The richest kernels of wheat” renders an image involving the fat of wheat’s “kidneys.” “Blood of grapes” is the poem’s image for wine.
 
-v08: The Masoretic Text reads “sons of Israel,” while important Dead Sea Scroll and Greek witnesses read “sons of God” or “angels of God.” TSW follows the older reading “sons of God” because it better explains the parallel with the nations and the LORD’s own portion in verse 9; the significant Masoretic reading is noted here.
+v15, 18: Jeshurun names Israel. The poem shifts between speaking about Israel and speaking directly to Israel. Verse 18 combines fathering with giving birth in its portrayal of God.
 
-v10: “pupil of his eye” is literally “little man of his eye,” the reflected image seen in the center of the eye.
+v26–36: The rare verb rendered “scatter” in verse 26 is uncertain. The identity of “they” in the following lines is also debated. The translation keeps these pronouns rather than inserting “Israel” or “the enemies.” Quotation boundaries mark an editorial reading of the changes in voice.
 
-v11: The eagle imagery portrays both disturbance of the nest and protective carrying, joining discipline and care.
+v36, 42: “Confined or free” is a difficult expression for the people remaining. “Long-haired heads” in verse 42 is also uncertain; some understand the phrase as enemy leaders.
 
-v15: “Jeshurun” is a poetic name for Israel, probably related to “upright one,” used ironically here as Israel grows fat and rebels.
+v43: The opening is compact: “Rejoice, nations, his people.” This draft supplies “with” to express the relationship. The final line retains both the land and the people as recipients of atonement.
 
-v17: “demons” translates *shedim*, rare beings explicitly distinguished from God and connected with illicit sacrifice.
+v44: Hoshea is Joshua’s earlier name; see Numbers 13:16. The pinned text uses Hoshea here.
 
-v18: Divine care includes both fathering and giving birth, using male and female parental imagery for God within the same verse.
-
-v20: “generation of reversals” translates a difficult phrase often rendered “perverse generation.” The emphasis is on instability and twisted faithlessness.
-
-v20: “Generation of reversals” translates a difficult Hebrew phrase often rendered “perverse generation.”
-
-v21: The judgment is reciprocal: Israel provokes God with “not-gods,” and God provokes Israel through “not-a-people.”
-
-v27: The LORD restrains total destruction because enemies might misread Israel’s defeat as proof of their own independent power.
-
-v30: Israel’s military collapse is interpreted as divine handing-over rather than enemy superiority alone.
-
-v35: The Hebrew text of this line is textually complex. “Vengeance belongs to me, and repayment” is well supported and preserves the central claim that retribution belongs to God.
-
-v36: “slave or free” translates an idiom whose literal sense is “restrained or released.” It signifies that no strength or person remains.
-
-v36: “slave or free” translates an idiom whose literal sense is “restrained or released,” describing the absence of remaining strength or people.
-
-v39: Death and life, wounding and healing, are held together under the singular sovereignty of the LORD.
-
-v42: The final phrase concerning the enemy’s “long-haired heads” is difficult and has several proposed translations. TSW preserves a concrete martial image without claiming certainty.
-
-v43: The line has significant textual variation. Dead Sea Scroll and Greek forms are longer than the Masoretic Text. TSW follows a form that includes the nations rejoicing with God’s people and the final atonement of land and people, while noting that manuscripts differ in detail.
-
-v47: Torah is explicitly called Israel’s “life,” refusing any separation between instruction and flourishing.
-
-v51: Unlike some earlier Deuteronomic retellings, the closing charge directly names Moses’ own unfaithfulness at Meribah as the reason he will not enter the land.
+v50–51: The command to die preserves the Hebrew imperative. “Both of you” in verse 51 addresses Moses and Aaron together.
 
 ## Vocabulary
 
-v02: לֶקַח (leqach)
-“Teaching.” Instruction that falls like rain.
+v4: Rock
+A recurring title for God in this song, an image of firmness and protection.
 
-v04: הַצּוּר (ha-Tsur)
-“The Rock.” A divine title emphasizing stability and justice.
+v11: Pinions
+A bird’s outer wing feathers, or its wings.
 
-v04: אֱמוּנָה (emunah)
-“Faithfulness.” Reliable integrity.
+v15: Jeshurun
+A poetic name for Israel related to “upright.”
 
-v04: הַצּוּר (ha-Tsur)
-“The Rock.” A metaphor of stability and reliability.
+v22: Sheol
+The realm of the dead, pictured here in the depths below.
 
-v04: אֱמוּנָה (emunah)
-“The Rock.” A metaphor of stability and reliability.
-
-v08: עֶלְיוֹן (Elyon)
-“Most High.” A title for God in relation to the nations.
-
-v10: אִישׁוֹן עֵינוֹ (ishon eino)
-“Pupil of his eye.” Literally the little person of the eye.
-
-v15: יְשֻׁרוּן (Yeshurun)
-“Jeshurun.” A poetic name for Israel.
-
-v17: שֵׁדִים (shedim)
-“Demons.” Non-divine beings associated with illicit sacrifice.
-
-v20: תַּהְפֻּכֹת (tahpukhot)
-“Reversals” or “perversity.” Twisted instability.
-
-v35: נָקָם (naqam)
-“Vengeance.” Retribution belonging to God.
-
-v39: חָיָה (chayah)
-“To make alive.” Divine power to give life.
-
-v43: כִּפֶּר (kipper)
-“To make atonement.” The closing restoration of land and people.
-
-v47: חַיִּים (chayyim)
-“Life.” The instruction is not empty but life-giving.
+v43: Atonement
+The removal or dealing with of guilt and defilement; this line names the land as well as the people.

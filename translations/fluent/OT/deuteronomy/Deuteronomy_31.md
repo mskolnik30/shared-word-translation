@@ -4,161 +4,111 @@ testament: OT
 chapter: 31
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-27-34-biblical-fluency-2026-09-13
 ---
 
-## Joshua Will Cross before the People
+## Joshua will lead the people
 
 <p>
 v01: Moses went and spoke these words to all Israel.
-
-v02: He said to them, “I am one hundred twenty years old today. I am no longer able to go out and come in, and the LORD has said to me, ‘You will not cross this Jordan.’
-
-v03: The LORD your God himself is crossing before you. He will destroy these nations from before you, and you will possess them. Joshua himself is crossing before you, as the LORD has spoken.
-
-v04: The LORD will do to them as he did to Sihon and Og, the kings of the Amorites, and to their land, whom he destroyed.
-
-v05: The LORD will give them before you, and you will do to them according to all the commandment that I commanded you.
-
-v06: Be strong and courageous. Do not fear or be terrified before them, for the LORD your God is the one going with you. He will not fail you or abandon you.”
+v02: He said to them, “I am a hundred and twenty years old today. I can no longer go out and come in, and the LORD has told me, ‘You will not cross this Jordan.’
 </p>
 
-## Moses Commissions Joshua
-
 <p>
-v07: Moses called Joshua and said to him before the eyes of all Israel, “Be strong and courageous, for you will go with this people into the land that the LORD swore to their ancestors to give them, and you will cause them to inherit it.
-
-v08: The LORD himself is the one going before you. He will be with you; he will not fail you or abandon you. Do not fear and do not be dismayed.”
+v03: The LORD your God himself will cross ahead of you. He will destroy these nations before you, and you will dispossess them. Joshua will cross ahead of you too, as the LORD has said.
+v04: The LORD will do to them what he did to Sihon and Og, the Amorite kings, and to their land, which he destroyed.
+v05: The LORD will hand them over to you, and you must deal with them according to the whole commandment I have given you.
+v06: Be strong and courageous. Do not fear them or be terrified of them, for the LORD your God is the one who goes with you. He will not fail you or abandon you.”
 </p>
 
-## Read This Instruction Every Seven Years
-
 <p>
-v09: Moses wrote this instruction and gave it to the priests, the sons of Levi, who carry the ark of the covenant of the LORD, and to all the elders of Israel.
-
-v10: Moses commanded them, saying, “At the end of every seven years, at the appointed time of the year of release, at the Festival of Booths,
-
-v11: when all Israel comes to appear before the LORD your God at the place that he will choose, you will read this instruction before all Israel in their hearing.
-
-v12: Gather the people—the men, women, little children, and the resident alien who is within your gates—so that they may hear, learn, and fear the LORD your God and be careful to do all the words of this instruction.
-
-v13: Their children who have not known will hear and learn to fear the LORD your God all the days that you live upon the ground that you are crossing the Jordan to possess.”
+v07: Then Moses called Joshua and said to him in the sight of all Israel, “Be strong and courageous, for you will go with this people into the land the LORD swore to their ancestors to give them, and you will cause them to inherit it.
+v08: The LORD is the one who goes ahead of you. He will be with you; he will not fail you or abandon you. Do not be afraid or dismayed.”
 </p>
 
-## The LORD Appears at the Tent
+## Read the instruction to everyone
 
 <p>
-v14: The LORD said to Moses, “Look, your days are drawing near to die. Call Joshua and present yourselves at the tent of meeting, and I will command him.” So Moses and Joshua went and presented themselves at the tent of meeting.
-
-v15: The LORD appeared at the tent in a pillar of cloud, and the pillar of cloud stood over the entrance of the tent.
+v09: Moses wrote down this instruction and gave it to the priests, the sons of Levi who carried the ark of the LORD’s covenant, and to all Israel’s elders.
+v10: Moses commanded them, “At the end of every seven years, at the appointed time in the year of release, during the Festival of Booths,
+v11: when all Israel comes to appear before the LORD your God at the place he chooses, read this instruction aloud before all Israel, so they can hear it.
 </p>
 
-## Israel Will Turn to Other Gods
-
 <p>
-v16: The LORD said to Moses, “Look, you are about to lie down with your ancestors. Then this people will rise and prostitute themselves after the foreign gods of the land into whose midst they are entering. They will abandon me and break my covenant that I made with them.
-
-v17: My anger will burn against them on that day, and I will abandon them and hide my face from them. They will become food for destruction, and many evils and distresses will find them. On that day they will say, ‘Is it not because our God is not in our midst that these evils have found us?’
-
-v18: Yet I will surely hide my face on that day because of all the evil that they have done, for they turned to other gods.
+v12: Assemble the people—men, women, children, and the resident foreigner in your towns—so they may hear, learn to fear the LORD your God, and faithfully carry out all the words of this instruction.
+v13: Their children, who do not yet know it, must hear and learn to fear the LORD your God for as long as you live on the ground you are crossing the Jordan to possess.”
 </p>
 
-## Write This Song
+## A song to bear witness
 
 <p>
-v19: “And now write for yourselves this song and teach it to the children of Israel. Put it in their mouths, so that this song may be for me as a witness against the children of Israel.
-
-v20: For when I bring them into the ground that I swore to their ancestors, flowing with milk and honey, and they eat and are satisfied and grow fat, they will turn to other gods and serve them and despise me and break my covenant.
-
-v21: Then, when many evils and distresses find them, this song will answer before them as a witness, for it will not be forgotten from the mouth of their offspring. For I know the inclination that they are forming today, before I bring them into the land that I swore to give them.”
-
-v22: So Moses wrote this song on that day and taught it to the children of Israel.
+v14: The LORD said to Moses, “Your time to die is near. Call Joshua and present yourselves at the tent of meeting, so that I may commission him.” Moses and Joshua went and presented themselves at the tent of meeting.
+v15: The LORD appeared at the tent in a pillar of cloud, and the pillar of cloud stood at the entrance to the tent.
 </p>
 
-## Joshua Is Commissioned
-
 <p>
-v23: The LORD commanded Joshua son of Nun and said, “Be strong and courageous, for you will bring the children of Israel into the land that I swore to them, and I will be with you.”
+v16: The LORD said to Moses, “You are about to lie down with your ancestors. This people will rise up and prostitute themselves to the foreign gods of the land they are entering. They will abandon me and break the covenant I made with them.
+v17: Then my anger will burn against them. I will abandon them and hide my face from them, and they will be devoured. Many calamities and troubles will find them. That day they will say, ‘Haven’t these calamities found me because my God is not here with me?’
+v18: I will certainly hide my face that day because of all the evil they have done in turning to other gods.
 </p>
 
-## Put the Book beside the Ark
-
 <p>
-v24: When Moses had finished writing the words of this instruction in a book until they were complete,
-
-v25: Moses commanded the Levites who carried the ark of the covenant of the LORD, saying,
-
-v26: “Take this book of instruction and put it beside the ark of the covenant of the LORD your God, and it will be there as a witness against you.
-
-v27: For I know your rebellion and your stiff neck. Look, while I am still alive with you today, you have been rebellious against the LORD; how much more after my death!
-
-v28: Gather to me all the elders of your tribes and your officers, and I will speak these words in their hearing and call the heavens and the earth as witnesses against them.
-
-v29: For I know that after my death you will surely act corruptly and turn aside from the way that I commanded you. Evil will meet you in the latter days because you will do what is evil in the eyes of the LORD, provoking him to anger through the work of your hands.”
+v19: Now write down this song, both of you. Moses, teach it to the Israelites and put it in their mouths, so that this song may be my witness against the Israelites.
+v20: When I bring them into the land flowing with milk and honey that I swore to their ancestors, they will eat their fill and grow fat. Then they will turn to other gods and serve them, spurn me, and break my covenant.
+v21: When many calamities and troubles find them, this song will answer as a witness against them, because it will not be forgotten from the mouths of their descendants. I know what they are inclined to do even now, before I bring them into the land I swore to give them.”
 </p>
 
-## Moses Speaks the Song
+<p>
+v22: Moses wrote down this song that day and taught it to the Israelites.
+</p>
 
 <p>
-v30: Then Moses spoke in the hearing of all the assembly of Israel the words of this song until they were completed:
+v23: The LORD commissioned Joshua son of Nun: “Be strong and courageous, for you will bring the Israelites into the land I swore to give them, and I will be with you.”
+</p>
+
+## The scroll beside the ark
+
+<p>
+v24: When Moses had finished writing all the words of this instruction in a scroll,
+v25: he commanded the Levites who carried the ark of the LORD’s covenant:
+v26: “Take this scroll of instruction and place it beside the ark of the covenant of the LORD your God. It is to remain there as a witness against you.
+</p>
+
+<p>
+v27: I know your rebellion and your stiff neck. Even now, while I am still alive among you, you have rebelled against the LORD. How much more after my death!
+</p>
+
+<p>
+v28: Gather to me all the elders of your tribes and your officers. I will speak these words in their hearing and call the heavens and the earth as witnesses against them.
+v29: I know that after my death you will act utterly corruptly and turn away from the path I commanded you. In days to come calamity will meet you, because you will do what is evil in the LORD’s sight, provoking him with the work of your hands.”
+</p>
+
+<p>
+v30: Then Moses spoke all the words of this song, from beginning to end, in the hearing of the whole assembly of Israel.
 </p>
 
 ## Notes
 
-v02: Moses’ age is given as 120. “Go out and come in” is an idiom for active leadership, not necessarily a claim of physical incapacity alone.
+v1–2: The pinned text says Moses “went.” “Go out and come in” can describe carrying out leadership duties; 34:7 still describes his sight and vigor as undiminished.
 
-v03: The LORD and Joshua are both said to cross before the people. Joshua’s leadership remains subordinate to divine presence and action.
+v7, 23: Moses says Joshua will “go with” the people in verse 7. The divine commission says he will “bring” them into the land in verse 23.
 
-v06, v08, v23: “Be strong and courageous” is repeated to people and leader, while the reason is consistently the LORD’s accompanying presence.
+v12–13: The assembly includes men, women, children, and resident foreigners. Hearing the instruction is part of learning it across generations.
 
-v09: Moses is explicitly said to write “this instruction,” giving written Torah a public role alongside oral teaching.
+v19: “Write” addresses more than one person, Moses and Joshua; “teach” addresses one. Their names make this change of address clear in English.
 
-v10–13: Every seven years the instruction is to be read to the entire assembly, explicitly including women, children, and resident aliens.
-
-v16: Israel’s future idolatry is described again through sexual metaphor—“prostitute themselves”—for covenant betrayal.
-
-v17–18: The hiding of the divine face portrays experienced absence under judgment, even though the LORD remains the one interpreting what has happened.
-
-v19: The Song of Moses is designed as memorized testimony. Putting it “in their mouths” ensures that future generations carry the witness themselves.
-
-v20: Satisfaction and abundance again create danger: prosperity can produce forgetfulness and covenant betrayal.
-
-v21: “inclination” refers to the inward formation or imagination of the heart.
-
-v26: The book is placed beside, not necessarily inside, the ark. It functions as a covenant witness alongside the tablets.
-
-v30: The verse serves as the introduction to the song in chapter 32 and is preserved as its own public verse.
+v26: The scroll is placed beside the ark, not inside it. Both the scroll and the song serve as witnesses in this chapter.
 
 ## Vocabulary
 
-v02: צֵאת וָבוֹא (tset va-vo)
-“Go out and come in.” An idiom for active leadership.
+v10: Year of release
+The seventh-year release described in chapter 15.
 
-v06: חָזַק וֶאֱמָץ (chazaq ve-emats)
-“Be strong and courageous.”
+v10: Festival of Booths
+The annual festival described in 16:13–15, named for temporary shelters.
 
-v09: כָּתַב (katav)
-“To write.” Moses commits the instruction to written form.
-
-v10: שְׁמִטָּה (shemittah)
-“Release.” The seventh-year cycle.
-
-v12: הַקְהֵל (haqhel)
-“Gather.” The command to assemble the whole people.
-
-v16: זָנָה (zanah)
-“To prostitute oneself.” A metaphor for idolatrous covenant betrayal.
-
-v18: סָתַר פָּנִים (satar panim)
-“To hide the face.” An image of divine withdrawal in judgment.
-
-v19: שִׁירָה (shirah)
-“Song.” The poetic witness taught to Israel.
-
-v21: יֵצֶר (yetser)
-“Inclination” or “formation.” The heart’s developing inner purpose.
-
-v26: סֵפֶר הַתּוֹרָה (sefer ha-torah)
-“Book of instruction.” The written covenant teaching.
-
-v27: קְשֵׁה־עֹרֶף (qesheh-oref)
-“Stiff-necked.” Stubbornly resistant.
+v16: Lie down with your ancestors
+An expression for dying, presenting death in relation to earlier generations.
