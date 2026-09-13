@@ -8,6 +8,7 @@ qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
 revision: fluent-numbers-19-24-biblical-fluency-2026-09-13
+consistency_revision: fluent-numbers-consistency-2026-09-13
 ---
 
 ## The red cow and the purification water
@@ -50,7 +51,7 @@ v16: Anyone in the open country who touches someone killed by a sword, another d
 
 <p>
 v17: For an unclean person, take some ashes from the burned purification offering and add fresh water to them in a container.
-v18: A clean man must take hyssop, dip it in the water, and sprinkle the tent, all its containers and the people who were there. He must also sprinkle anyone who touched a human bone, someone killed, another dead body or a grave.
+v18: A clean man must take hyssop, dip it in the water, and sprinkle the tent, all the articles in it and the people who were there. He must also sprinkle anyone who touched a human bone, someone killed, another dead body or a grave.
 v19: The clean person must sprinkle the unclean person on the third and seventh days, purifying them on the seventh day. The person being purified must wash their clothes and bathe in water; at evening they will be clean.
 </p>
 

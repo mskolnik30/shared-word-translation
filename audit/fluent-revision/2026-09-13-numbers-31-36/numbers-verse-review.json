@@ -71,7 +71,7 @@
       "verse_count": 34,
       "path": "translations/fluent/OT/numbers/Numbers_35.md",
       "before_sha256": "10ab4e51c14d9bb7dddb966b2b5a51a91adaa00850dfa5d149dbadf0b57d295a",
-      "after_sha256": "18ef6a81e7c11e6c50674bd66b2e375526a7c5c2d576c4642dd2e8a2a6530e6a",
+      "after_sha256": "2350021ad583df6efea4cbd1f611a1bf3201320ef029d7902dd776e459d4e403",
       "tsw_comparator_path": "books/OT/numbers/Numbers_35.md",
       "tsw_comparator_sha256": "d5168d458d021939139f410583407e96f0cf676c93a78341495e1d49567bd696"
     },
@@ -2819,15 +2819,23 @@
     {
       "reference": "Numbers 35:30",
       "delta": "F3",
-      "rationale": "Preserves plural witnesses and the explicit prohibition on capital conviction by one witness, without adding a stated number absent here.",
+      "rationale": "Preserves plural witnesses and the explicit prohibition on capital conviction by one witness, without adding a stated number absent here. Consistency self-check: Moves the killing into the subject clause so the testimony phrase attaches clearly to the death sentence, preserving the intentional-homicide context, plural witnesses and prohibition on a single witness.",
       "source_reference": "Num 35:30",
       "source_verse_sha256": "a154429ed586d8a5c18863fc6a55e08e06837bdd7b51fa70cc43f8bc51a2a14d",
       "before": "“Whoever kills a person, the murderer will be put to death on the testimony of witnesses, but one witness will not testify against a person so that the person dies.",
-      "after": "A murderer is to be put to death for killing a person on the testimony of witnesses. But a single witness cannot testify against someone to have that person put to death.",
+      "after": "A person who commits murder is to be put to death on the testimony of witnesses. But a single witness cannot testify against someone to have that person put to death.",
       "tsw_comparator": "“Whoever kills a person, the murderer shall be put to death on the testimony of witnesses, but one witness shall not testify against a person so that the person dies.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.548387,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.557377,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_revisions": [
+        {
+          "id": "fluent-numbers-consistency-2026-09-13",
+          "prior_commit": "8d8159775ff46f862be51e6a91a4a0f33e7d743c",
+          "change_delta": "F2",
+          "rationale": "Moves the killing into the subject clause so the testimony phrase attaches clearly to the death sentence, preserving the intentional-homicide context, plural witnesses and prohibition on a single witness."
+        }
+      ]
     },
     {
       "reference": "Numbers 35:31",
@@ -3076,5 +3084,16 @@
       "F0": 6,
       "F1": 30
     }
-  }
+  },
+  "consistency_revisions": [
+    {
+      "id": "fluent-numbers-consistency-2026-09-13",
+      "prior_commit": "8d8159775ff46f862be51e6a91a4a0f33e7d743c",
+      "prior_ledger_sha256": "5c025f6628272657f92c5d04e5845026cbf053dd7bf55a3a8fb7d42d29910975",
+      "changed_references": [
+        "Numbers 35:30"
+      ],
+      "report": "audit/fluent-revision/2026-09-13-numbers-consistency/review.json"
+    }
+  ]
 }

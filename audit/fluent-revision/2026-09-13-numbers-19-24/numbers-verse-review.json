@@ -35,7 +35,7 @@
       "verse_count": 22,
       "path": "translations/fluent/OT/numbers/Numbers_19.md",
       "before_sha256": "8541a3700214d99430a500aae13f97ed308855e4894ccfed4d0a5c458df64cc8",
-      "after_sha256": "3df3f258202073a91e1e4a408dd92614788b6a21619cc39a75b54d2036114e3e",
+      "after_sha256": "1c42ca8ae8f3ab2be3b97fddb32a3eeddeae73828c81994431a8df94fd215a73",
       "tsw_comparator_path": "books/OT/numbers/Numbers_19.md",
       "tsw_comparator_sha256": "7fddfe119b3bdb8a0dcacbc17fb279cf55eed1a46ebb699c5be3893fdd1a2fee"
     },
@@ -310,15 +310,23 @@
     {
       "reference": "Numbers 19:18",
       "delta": "F2",
-      "rationale": "Keeps clean male agent and complete set of objects and people sprinkled.",
+      "rationale": "Keeps clean male agent and complete set of objects and people sprinkled. Consistency self-check: The Hebrew kol-hakkelim covers all articles or implements, not only containers. The narrower container sense belongs to the open vessels in 19:15; 31:20 likewise names several kinds of articles.",
       "source_reference": "Num 19:18",
       "source_verse_sha256": "13359ecc03f574dc916148a0e0b4407fa52fdcc73fd4c687a63333d167745bdf",
       "before": "A clean person will take hyssop, dip it in the water, and sprinkle it on the tent, all the vessels, the people who were there, and the one who touched the bone, the slain person, the dead body, or the grave.",
-      "after": "A clean man must take hyssop, dip it in the water, and sprinkle the tent, all its containers and the people who were there. He must also sprinkle anyone who touched a human bone, someone killed, another dead body or a grave.",
+      "after": "A clean man must take hyssop, dip it in the water, and sprinkle the tent, all the articles in it and the people who were there. He must also sprinkle anyone who touched a human bone, someone killed, another dead body or a grave.",
       "tsw_comparator": "A clean person shall take hyssop, dip it in the water, and sprinkle it on the tent, all the vessels, the people who were there, and the one who touched the bone, the slain person, the dead body, or the grave.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.626506,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.635294,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_revisions": [
+        {
+          "id": "fluent-numbers-consistency-2026-09-13",
+          "prior_commit": "8d8159775ff46f862be51e6a91a4a0f33e7d743c",
+          "change_delta": "F1",
+          "rationale": "The Hebrew kol-hakkelim covers all articles or implements, not only containers. The narrower container sense belongs to the open vessels in 19:15; 31:20 likewise names several kinds of articles."
+        }
+      ]
     },
     {
       "reference": "Numbers 19:19",
@@ -2492,5 +2500,16 @@
       "F3": 63,
       "F0": 2
     }
-  }
+  },
+  "consistency_revisions": [
+    {
+      "id": "fluent-numbers-consistency-2026-09-13",
+      "prior_commit": "8d8159775ff46f862be51e6a91a4a0f33e7d743c",
+      "prior_ledger_sha256": "1c7c5eef0118d34543318f85354635b3754aa83b29af711b1a2a5ac9b36e21e8",
+      "changed_references": [
+        "Numbers 19:18"
+      ],
+      "report": "audit/fluent-revision/2026-09-13-numbers-consistency/review.json"
+    }
+  ]
 }

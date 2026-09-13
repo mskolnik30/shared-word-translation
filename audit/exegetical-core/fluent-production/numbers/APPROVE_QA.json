@@ -687,5 +687,18 @@
     34,
     35,
     36
+  ],
+  "consistency_passes": [
+    {
+      "id": "fluent-numbers-consistency-2026-09-13",
+      "scope": "Numbers 1–36",
+      "report": "audit/fluent-revision/2026-09-13-numbers-consistency/review.json",
+      "changed_chapters": [
+        19,
+        35
+      ],
+      "independent_editorial_review": "REVIEW_PENDING",
+      "publication_allowed": false
+    }
   ]
 }

@@ -32356,5 +32356,18 @@
     "versification_note": "Public Numbers 31–36 align directly with all 228 corresponding Hebrew records. Each original XML record is hashed in full. Earlier Numbers numbering differences and the two-record binding at public 26:1 remain preserved in earlier ledgers.",
     "note": "Chapters 31–36 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
   },
-  "summary_scope": "Historical mechanical triage for prior text; revision_batches contain authoritative source-bound ledgers for chapters 1–36."
+  "summary_scope": "Historical mechanical triage for prior text; revision_batches contain authoritative source-bound ledgers for chapters 1–36.",
+  "consistency_passes": [
+    {
+      "id": "fluent-numbers-consistency-2026-09-13",
+      "scope": "Numbers 1–36",
+      "report": "audit/fluent-revision/2026-09-13-numbers-consistency/review.json",
+      "changed_chapters": [
+        19,
+        35
+      ],
+      "independent_editorial_review": "REVIEW_PENDING",
+      "publication_allowed": false
+    }
+  ]
 }

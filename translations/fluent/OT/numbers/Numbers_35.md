@@ -8,6 +8,7 @@ qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
 revision: fluent-numbers-31-36-biblical-fluency-2026-09-13
+consistency_revision: fluent-numbers-consistency-2026-09-13
 ---
 
 ## Towns for the Levites
@@ -98,7 +99,7 @@ v29: These rules will remain binding on you through your generations, wherever y
 ## Witnesses, ransom and bloodguilt
 
 <p>
-v30: A murderer is to be put to death for killing a person on the testimony of witnesses. But a single witness cannot testify against someone to have that person put to death.
+v30: A person who commits murder is to be put to death on the testimony of witnesses. But a single witness cannot testify against someone to have that person put to death.
 </p>
 
 <p>

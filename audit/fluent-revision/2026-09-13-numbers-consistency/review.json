@@ -1,0 +1,127 @@
+{
+  "id": "fluent-numbers-consistency-2026-09-13",
+  "base_commit": "8d8159775ff46f862be51e6a91a4a0f33e7d743c",
+  "scope": "Numbers 1–36: complete structural scan and 153 selected source/English comparisons",
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Num",
+    "book_verse_count": 1289,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "sha256": "5be7f0c196a84eacc39c0ef751c5cdba82218d41cf9ed4e6107ae5ac715ffccf",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Num.xml",
+    "verse_hash_method": "SHA-256 of the exact original XML verse substring, including written/read notes, not a normalized substitute.",
+    "public_versification_note": "Complete Numbers coverage: 1288 public verses bound to 1289 original source records. All offsets and the multi-record public 26:1 binding are preserved in the ten draft ledgers and enumerated in verification.json."
+  },
+  "changes": [
+    {
+      "reference": "Numbers 19:18",
+      "delta": "F1",
+      "before": "A clean man must take hyssop, dip it in the water, and sprinkle the tent, all its containers and the people who were there. He must also sprinkle anyone who touched a human bone, someone killed, another dead body or a grave.",
+      "after": "A clean man must take hyssop, dip it in the water, and sprinkle the tent, all the articles in it and the people who were there. He must also sprinkle anyone who touched a human bone, someone killed, another dead body or a grave.",
+      "rationale": "The Hebrew kol-hakkelim covers all articles or implements, not only containers. The narrower container sense belongs to the open vessels in 19:15; 31:20 likewise names several kinds of articles.",
+      "source_reference": "Num 19:18",
+      "source_verse_sha256": "13359ecc03f574dc916148a0e0b4407fa52fdcc73fd4c687a63333d167745bdf",
+      "tsw_comparator": "A clean person shall take hyssop, dip it in the water, and sprinkle it on the tent, all the vessels, the people who were there, and the one who touched the bone, the slain person, the dead body, or the grave.",
+      "prior_commit": "8d8159775ff46f862be51e6a91a4a0f33e7d743c",
+      "verse_ledger": "audit/fluent-revision/2026-09-13-numbers-19-24/numbers-verse-review.json",
+      "chapter_path": "translations/fluent/OT/numbers/Numbers_19.md",
+      "before_chapter_sha256": "3df3f258202073a91e1e4a408dd92614788b6a21619cc39a75b54d2036114e3e",
+      "after_chapter_sha256": "1c42ca8ae8f3ab2be3b97fddb32a3eeddeae73828c81994431a8df94fd215a73",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Numbers 35:30",
+      "delta": "F2",
+      "before": "A murderer is to be put to death for killing a person on the testimony of witnesses. But a single witness cannot testify against someone to have that person put to death.",
+      "after": "A person who commits murder is to be put to death on the testimony of witnesses. But a single witness cannot testify against someone to have that person put to death.",
+      "rationale": "Moves the killing into the subject clause so the testimony phrase attaches clearly to the death sentence, preserving the intentional-homicide context, plural witnesses and prohibition on a single witness.",
+      "source_reference": "Num 35:30",
+      "source_verse_sha256": "a154429ed586d8a5c18863fc6a55e08e06837bdd7b51fa70cc43f8bc51a2a14d",
+      "tsw_comparator": "“Whoever kills a person, the murderer shall be put to death on the testimony of witnesses, but one witness shall not testify against a person so that the person dies.",
+      "prior_commit": "8d8159775ff46f862be51e6a91a4a0f33e7d743c",
+      "verse_ledger": "audit/fluent-revision/2026-09-13-numbers-31-36/numbers-verse-review.json",
+      "chapter_path": "translations/fluent/OT/numbers/Numbers_35.md",
+      "before_chapter_sha256": "18ef6a81e7c11e6c50674bd66b2e375526a7c5c2d576c4642dd2e8a2a6530e6a",
+      "after_chapter_sha256": "2350021ad583df6efea4cbd1f611a1bf3201320ef029d7902dd776e459d4e403",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "selected_comparison_count": 153,
+  "findings": [
+    {
+      "topic": "Census and service",
+      "result": "Preserved army enrollment from twenty, Levite registration from one month, the chapter 4 service ages thirty to fifty, and the chapter 8 entry age twenty-five with assistance after fifty. These are not harmonized into one threshold. The first census is 603550 and the second 601730; Levites remain separate. The 273 excess firstborn at five shekels total 1365."
+    },
+    {
+      "topic": "Leadership and spirit",
+      "result": "Preserved shared burden in chapter 11, Moses’ distinctive mouth-to-mouth speech in chapter 12, Hoshea’s naming as Joshua, the repeated title God of the spirits of all flesh, and the one-hand command/two-hand fulfillment in chapter 27. The possible spirit/Spirit reading and the priestly decision’s pronoun remain noted."
+    },
+    {
+      "topic": "Impurity and bloodguilt",
+      "result": "Preserved corpse impurity without calling contact itself murder; the deferred Passover provision; purification on stated days; water in addition to fire; communal refuge judgment, bloodguilt, high-priest death and both no-ransom rules. Corrected the scope of articles in 19:18 and clarified sentence attachment in 35:30."
+    },
+    {
+      "topic": "Foreigners and kinship",
+      "result": "Preserved the one-rule formulas applying to resident foreigners and native-born people, while distinguishing unauthorized sanctuary access from ethnic foreignness. Family redeemer in 5:8 and avenger of blood in 35 describe different functions of the same kinship term; the later vocabulary explains the relationship."
+    },
+    {
+      "topic": "Inheritance",
+      "result": "Preserved both proportional shares and allotment by lot, the daughter-to-brothers-to-paternal-uncles-to-nearest-clan-relative succession, the daughters’ affirmed claim and later marriage limits, and the explicit fallback Canaan holding in 32:30. The daughters’ different name order in chapter 36 remains intact."
+    },
+    {
+      "topic": "Recurring images and sacrificial language",
+      "result": "Preserved the face/peace blessing, rising and returning ark speeches, faithful love and forgiveness, Phinehas’ covenant of peace, distinct wine and fermented drink terms, and the self-humbling link between chapters 29 and 30. Repeated words connect the book without forcing identical renderings in unrelated senses."
+    }
+  ],
+  "style_items_for_final_family_review": [
+    "Earlier census lists use digits while later lists spell quantities out; exact values are preserved. Set one reader-facing number style during final formatting, without changing quantities.",
+    "Ancestral household and ancestral house both occur. Both reflect the kinship grouping; consider one glossary headword while allowing idiomatic variation."
+  ],
+  "limitations": "All 1288 public verses and 1289 source bindings receive structural checks; only the 153 explicitly listed source/English pairs were reread for this thematic self-check. This is not a fresh editorial rereading of every Hebrew verse, independent scholarly review or reader testing. Historical prior-batch verification reports remain snapshots; use this report’s verification for current rebound files.",
+  "companion_impact": "Recheck any quotations and text bindings for Numbers 19 and 35 before later installation. The separate Companion branch is unchanged.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

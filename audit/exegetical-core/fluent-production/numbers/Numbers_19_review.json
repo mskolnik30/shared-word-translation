@@ -37,7 +37,7 @@
     "verse_count": 22,
     "path": "translations/fluent/OT/numbers/Numbers_19.md",
     "before_sha256": "8541a3700214d99430a500aae13f97ed308855e4894ccfed4d0a5c458df64cc8",
-    "after_sha256": "3df3f258202073a91e1e4a408dd92614788b6a21619cc39a75b54d2036114e3e",
+    "after_sha256": "1c42ca8ae8f3ab2be3b97fddb32a3eeddeae73828c81994431a8df94fd215a73",
     "tsw_comparator_path": "books/OT/numbers/Numbers_19.md",
     "tsw_comparator_sha256": "7fddfe119b3bdb8a0dcacbc17fb279cf55eed1a46ebb699c5be3893fdd1a2fee"
   },
@@ -106,5 +106,11 @@
       "decision": "Preserves distinct sprinkler-washing and toucher-evening clauses without adding an unstated evening penalty to the sprinkler.",
       "disposition": "REVIEW_PENDING"
     }
-  ]
+  ],
+  "consistency_revision": {
+    "id": "fluent-numbers-consistency-2026-09-13",
+    "prior_commit": "8d8159775ff46f862be51e6a91a4a0f33e7d743c",
+    "report": "audit/fluent-revision/2026-09-13-numbers-consistency/review.json",
+    "editorial_status": "REVIEW_PENDING"
+  }
 }
