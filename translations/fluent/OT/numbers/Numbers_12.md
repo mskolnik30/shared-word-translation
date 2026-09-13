@@ -4,78 +4,92 @@ testament: OT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-11-12-biblical-fluency-2026-09-13
 ---
 
-## Miriam and Aaron Speak Against Moses
+## Miriam and Aaron challenge Moses
 
 <p>
-v01: Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman.
-v02: They said, “Has the LORD spoken only through Moses? Has the LORD not also spoken through us?” And the LORD heard it.
-v03: Now the man Moses was very humble, more than anyone else on the face of the ground.
-</p>
-
-## The LORD Speaks at the Tent
-
-<p>
-v04: Suddenly the LORD said to Moses, Aaron, and Miriam, “Come out, all three of you, to the Tent of Meeting.” So the three of them came out.
-v05: Then the LORD came down in a pillar of cloud and stood at the entrance of the tent and called Aaron and Miriam, and the two of them came forward.
-v06: And the LORD said:
-“Hear my words:
-When there is a prophet among you,
-I, the LORD, make myself known in a vision;
-I speak with that one in a dream.
-
-v07: Not so with my servant Moses;
-he is faithful in all my house.
-
-v08: Mouth to mouth I speak with him,
-plainly, and not in riddles,
-and he beholds the form of the LORD.
-Why then were you not afraid
-to speak against my servant Moses?”
-</p>
-
-## Miriam Is Struck and Restored
-
-<p>
-v09: The anger of the LORD burned against them, and the LORD departed.
-v10: When the cloud moved away from over the tent, look—Miriam was diseased, white as snow. Aaron turned toward Miriam, and look—she was diseased.
-v11: Then Aaron said to Moses, “Please, my lord, do not lay upon us the sin in which we acted foolishly and sinned.
-v12: Please do not let her be like one dead, whose flesh is half consumed when coming out of the mother’s womb.”
+v01: Miriam and Aaron spoke against Moses because of the Cushite woman he had married. He had indeed married a Cushite woman.
+v02: They said, “Has the LORD spoken only through Moses? Hasn’t he spoken through us too?” And the LORD heard.
 </p>
 
 <p>
-v13: So Moses cried to the LORD, saying, “O God, please heal her—please!”
-v14: But the LORD said to Moses, “If her father had merely spit in her face, would she not bear shame for seven days? Let her be shut outside the camp seven days, and afterward she may be brought back.”
-v15: So Miriam was shut outside the camp for seven days, and the people did not set out until Miriam was brought back.
-v16: Afterward the people set out from Hazeroth and camped in the wilderness of Paran.
+v03: Now Moses was very humble, more than anyone else on the face of the earth.
+</p>
+
+## The LORD answers
+
+<p>
+v04: Suddenly the LORD said to Moses, Aaron and Miriam, “All three of you, come out to the tent of meeting.” So all three went out.
+v05: The LORD came down in a pillar of cloud and stood at the tent’s entrance. He called Aaron and Miriam, and the two of them came forward.
+</p>
+
+<p>
+v06: He said, “Listen to my words:
+If there is a prophet among you,
+I, the LORD, make myself known to them in a vision;
+I speak to them in a dream.
+v07: That is not how it is with my servant Moses.
+He is trusted throughout my house.
+v08: With him I speak mouth to mouth,
+plainly, not in riddles.
+He beholds the form of the LORD.
+Why, then, were you not afraid to speak against my servant Moses?”
+</p>
+
+<p>
+v09: The LORD’s anger burned against them, and he left.
+</p>
+
+## Miriam is stricken
+
+<p>
+v10: When the cloud withdrew from above the tent, there was Miriam, her skin diseased, white as snow. Aaron turned toward her and saw that she had a defiling skin condition.
+</p>
+
+<p>
+v11: Aaron said to Moses, “Please, my lord, do not hold this sin against us. We have acted foolishly; we have sinned.
+v12: Please do not let her be like a stillborn child whose flesh is half eaten away as it comes from its mother’s womb.”
+</p>
+
+<p>
+v13: Moses cried out to the LORD, “God, please—heal her, please!”
+</p>
+
+<p>
+v14: The LORD said to Moses, “If her father had spat in her face, wouldn’t she bear the shame for seven days? Let her be shut outside the camp for seven days. After that she may be brought back.”
+</p>
+
+<p>
+v15: Miriam was shut outside the camp for seven days. The people did not set out until she was brought back.
+v16: Afterward the people left Hazeroth and camped in the wilderness of Paran.
 </p>
 
 ## Notes
 
-v01: “Cushite woman” — Cush normally refers to a region south of Egypt, but the woman is not otherwise identified. The text does not explain whether this reference concerns Zipporah or another wife.
+v1: The woman is called Cushite twice and is not named. Cush usually refers to the region south of Egypt; the verse does not say whether she is Zipporah or another woman. Both Miriam and Aaron speak against Moses. The initial Hebrew verb is feminine singular, agreeing with Miriam, who is named first; verse 2 uses a plural verb.
 
-v02: Miriam and Aaron’s complaint begins with Moses’ marriage but quickly becomes a claim about prophetic authority. The LORD’s response addresses the second issue directly.
+v3: “Humble” can also convey meekness or lowliness. An interpretation emphasizing affliction has been proposed. The written and read spellings are both preserved in the source record; this translation follows the adjective reading.
 
-v03: “humble” — The Hebrew can mean humble, afflicted, or meek. The statement sharply contrasts Moses’ posture with the challenge made against him.
+v6–8: The speech contrasts visions and dreams with Moses’ direct access. “Trusted” in verse 7 can also be rendered “faithful.” “Mouth to mouth” and seeing the LORD’s “form” remain as written; they are not replaced with wording from other accounts. “Plainly” in verse 8 interprets a word connected with appearance or seeing.
 
-v06–08: The passage does not deny genuine prophecy through visions and dreams. It distinguishes Moses by the directness and faithfulness of his relationship within the LORD’s house.
+v10–15: The skin condition is traditionally called leprosy, but the Hebrew term covers conditions that cannot be identified confidently with a single modern disease. Both siblings are rebuked, while Miriam alone is described as stricken and excluded. The text does not explain that difference.
 
-v10: The traditional rendering “leprous” can misleadingly suggest modern Hansen’s disease. The Hebrew term covers a range of serious skin conditions, so TSW uses “diseased.”
+v12: Aaron’s comparison invokes a child born dead with flesh partly consumed. Its bodily severity is retained rather than reduced to a general description of illness.
+
+v14–15: The seven-day exclusion is followed by Miriam’s return. The people wait for her; the passage does not separately narrate the moment of her healing.
 
 ## Vocabulary
 
-v01: כּוּשִׁית (Kushit)
-“Cushite woman.” A woman associated with Cush.
+v6: Prophet — navi
+A person through whom God speaks; the term is not limited to predicting future events.
 
-v03: עָנָו (anav)
-“Humble,” “meek,” or “afflicted.” Lowliness without self-exaltation.
+v7: House — bayit
+God’s household is the image here, expressing the sphere in which Moses is trusted.
 
-v06: מַרְאָה (mar'ah)
-“Vision” or “appearance.” A mode of prophetic revelation.
-
-v07: נֶאֱמָן (ne'eman)
-“Faithful” or “trustworthy.” Reliable within an entrusted house.
-
-v08: תְּמוּנָה (temunah)
-“Form” or “likeness.” The visible form Moses is said to behold without further explanation.
+v10: Defiling skin condition — tsaraat
+The category of skin conditions discussed in Leviticus 13–14. Here its snowlike appearance and the resulting exclusion are explicit.

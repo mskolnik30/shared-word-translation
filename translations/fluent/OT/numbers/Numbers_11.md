@@ -4,188 +4,134 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-11-12-biblical-fluency-2026-09-13
 ---
 
-## The People Complain
+## Fire at Taberah
 
 <p>
-v01: And the people became as people who complain of evil in the hearing of the LORD. And the LORD heard, and his anger burned, and the fire of the LORD burned among them and consumed some at the edge of the camp.
-
-v02: Then the people cried out to Moses, and Moses prayed to the LORD, and the fire subsided.
-
-v03: So the name of that place was called Taberah, because the fire of the LORD burned among them.
+v01: The people began complaining, and it sounded evil in the LORD’s ears. When the LORD heard, his anger blazed. The LORD’s fire burned among them and consumed the outskirts of the camp.
+v02: The people cried out to Moses. Moses prayed to the LORD, and the fire died down.
+v03: Moses named the place Taberah, because the LORD’s fire had burned among them.
 </p>
 
-## Craving Meat
+## The people long for meat
 
 <p>
-v04: Now the mixed multitude among them had a strong craving. And the people of Israel also wept again and said, “Who will give us meat to eat?
-
-v05: We remember the fish that we ate in Egypt for nothing, the cucumbers, the melons, the leeks, the onions, and the garlic.
-
-v06: But now our soul is dried up; there is nothing at all but this manna before our eyes.”
-
-v07: Now the manna was like coriander seed, and its appearance like the appearance of bdellium.
-
-v08: The people went about and gathered it, and ground it in mills or beat it in mortars, and boiled it in pots and made cakes of it. And its taste was like the taste of cakes baked with oil.
-
-v09: And when the dew fell upon the camp in the night, the manna fell with it.
+v04: The rabble among them was overcome with craving. The Israelites, too, began weeping again. “Who will give us meat to eat?” they said.
+v05: “We remember the fish we ate in Egypt for nothing—and the cucumbers, melons, leeks, onions and garlic!
+v06: Now we are dried up. There is nothing at all! All we ever see is this manna.”
 </p>
 
-## Moses’ Complaint
-
 <p>
-v10: Moses heard the people weeping throughout their families, each at the entrance of his tent. And the anger of the LORD burned greatly, and Moses was displeased.
-
-v11: Moses said to the LORD, “Why have you dealt ill with your servant? And why have I not found favor in your sight, that you lay the burden of all this people on me?
-
-v12: Did I conceive all this people? Did I give them birth, that you should say to me, ‘Carry them in your bosom, as a nurse carries a nursing child,’ to the land that you swore to give to their fathers?
-
-v13: Where am I to get meat to give to all this people? For they weep before me and say, ‘Give us meat, that we may eat.’
-
-v14: I am not able to carry all this people alone; the burden is too heavy for me.
-
-v15: If you will deal thus with me, kill me at once, if I have found favor in your sight, that I may not see my misery.”
+v07: The manna resembled coriander seed and looked like bdellium.
+v08: The people went around gathering it. They ground it in handmills or pounded it in mortars, cooked it in pots and made cakes from it. It tasted like rich oil.
+v09: When dew fell on the camp at night, the manna fell on it.
 </p>
 
-## Seventy Elders Appointed
+## Moses cannot carry the burden alone
 
 <p>
-v16: Then the LORD said to Moses, “Gather for me seventy men of the elders of Israel, whom you know to be elders of the people and officers over them, and bring them to the tent of meeting, and let them take their stand there with you.
-
-v17: I will come down and speak with you there. And I will take some of the Spirit that is on you and put it on them, and they will bear the burden of the people with you, so that you may not bear it yourself alone.
-
-v18: And say to the people, ‘Consecrate yourselves for tomorrow, and you will eat meat, for you have wept in the hearing of the LORD, saying, “Who will give us meat to eat? For it was better for us in Egypt.” Therefore the LORD will give you meat, and you will eat.
-
-v19: You will not eat one day, or two days, or five days, or ten days, or twenty days,
-
-v20: but a whole month, until it comes out at your nostrils and becomes loathsome to you, because you have rejected the LORD who is among you and have wept before him, saying, “Why did we come out of Egypt?”’”
-
-v21: Yet Moses said, “The people among whom I am are six hundred thousand on foot, and you have said, ‘I will give them meat, that they may eat a whole month!’
-
-v22: Will flocks and herds be slaughtered for them, and be enough for them? Or will all the fish of the sea be gathered together for them, and be enough for them?”
-
-v23: And the LORD said to Moses, “Is the LORD’s hand shortened? Now you will see whether my word will come true for you or not.”
+v10: Moses heard the people weeping, family by family, each at the entrance of their tent. The LORD’s anger burned fiercely, and Moses was distressed.
 </p>
 
-## The Spirit Rests on the Elders
-
 <p>
-v24: So Moses went out and told the people the words of the LORD. And he gathered seventy men of the elders of the people and placed them around the tent.
-
-v25: Then the LORD came down in the cloud and spoke to him, and took some of the Spirit that was on him and put it on the seventy elders. And when the Spirit rested on them, they prophesied, but they did not continue.
-
-v26: Now two men remained in the camp, one named Eldad and the other named Medad, and the Spirit rested on them. They were among those registered, but they had not gone out to the tent, and so they prophesied in the camp.
-
-v27: And a young man ran and told Moses, “Eldad and Medad are prophesying in the camp.”
-
-v28: Joshua the son of Nun, the assistant of Moses from his youth, said, “My lord Moses, restrain them.”
-
-v29: Yet Moses said to him, “Are you jealous for my sake? Would that all the LORD’s people were prophets, that the LORD would put his Spirit on them!”
-
-v30: Moses and the elders of Israel returned to the camp.
+v11: Moses said to the LORD, “Why have you treated your servant so badly? Why have I found no favor with you, that you lay the burden of all these people on me?
+v12: Did I conceive all these people? Did I give birth to them? Why do you tell me, ‘Carry them against your chest, as a foster father carries a nursing child,’ to the land you swore to their ancestors?
+v13: Where am I to get meat for all these people? They keep weeping to me, ‘Give us meat to eat!’
+v14: I cannot carry all these people by myself. The burden is too heavy for me.
+v15: If this is how you are going to treat me, please kill me now. If I have found favor with you, do not let me see my own misery.”
 </p>
 
-## Quail and Judgment
+<p>
+v16: The LORD told Moses, “Gather seventy men from Israel’s elders for me, men you know as elders and officers of the people. Bring them to the tent of meeting and have them stand there with you.
+v17: I will come down and speak with you there. I will take some of the spirit that is on you and place it on them. They will carry the people’s burden with you, so you will not carry it alone.
+</p>
 
 <p>
-v31: Then a wind from the LORD sprang up, and it brought quail from the sea and let them fall beside the camp, about a day’s journey on this side and a day’s journey on the other side, all around the camp, and about two cubits above the ground.
+v18: Tell the people, ‘Consecrate yourselves for tomorrow, when you will eat meat. You have wept in the LORD’s hearing: “Who will give us meat to eat? We had it good in Egypt!” So the LORD will give you meat, and you will eat it.
+v19: You will eat it not for one day, or two days, or five days, or ten days, or twenty days,
+v20: but for a whole month, until it comes out of your nostrils and becomes loathsome to you. You have rejected the LORD who is among you and wept before him, asking, “Why did we ever leave Egypt?”’”
+</p>
 
-v32: And the people rose all that day and all that night and all the next day, and gathered the quail. The one who gathered least gathered ten homers. And they spread them out for themselves all around the camp.
+<p>
+v21: Moses said, “There are six hundred thousand on foot among the people I am with, yet you say, ‘I will give them meat to eat for a whole month.’
+v22: If flocks and herds were slaughtered for them, would that be enough? If all the fish in the sea were gathered for them, would that be enough?”
+</p>
 
-v33: While the meat was yet between their teeth, before it was consumed, the anger of the LORD burned against the people, and the LORD struck the people with a very great plague.
+<p>
+v23: The LORD answered Moses, “Is the LORD’s hand too short? Now you will see whether my word comes true for you or not.”
+</p>
 
-v34: So the name of that place was called Kibroth-hattaavah, because there they buried the people who had the craving.
+## The spirit rests on the elders
 
-v35: From Kibroth-hattaavah the people journeyed to Hazeroth, and they remained at Hazeroth.
+<p>
+v24: Moses went out and told the people what the LORD had said. He gathered seventy men from the people’s elders and stationed them around the tent.
+v25: The LORD came down in the cloud and spoke to Moses. He took some of the spirit that was on Moses and placed it on the seventy elders. When the spirit rested on them, they prophesied, but they did not do so again.
+</p>
+
+<p>
+v26: Two men had stayed in the camp: Eldad and Medad. The spirit rested on them too. They were among those registered, but they had not gone out to the tent. They prophesied in the camp.
+v27: A young man ran to tell Moses, “Eldad and Medad are prophesying in the camp!”
+</p>
+
+<p>
+v28: Joshua son of Nun, who had served Moses since his youth, spoke up: “My lord Moses, stop them!”
+v29: Moses replied, “Are you jealous on my behalf? If only all the LORD’s people were prophets! If only the LORD would put his spirit on them!”
+</p>
+
+<p>
+v30: Then Moses returned to the camp with Israel’s elders.
+</p>
+
+## Quail and graves
+
+<p>
+v31: A wind came from the LORD and swept quail in from the sea. It spread them around the camp, about a day’s journey in each direction, about two cubits above the ground.
+v32: The people spent all that day, all night and all the next day gathering quail. Even the one who gathered least collected ten homers. They spread the birds out all around the camp.
+</p>
+
+<p>
+v33: The meat was still between their teeth, before it was chewed, when the LORD’s anger burned against the people. The LORD struck them with a terrible plague.
+v34: The place was named Kibroth-hattaavah, because there they buried the people who had craved the meat.
+v35: From Kibroth-hattaavah the people traveled to Hazeroth, where they stayed.
 </p>
 
 ## Notes
 
-v01: Complaint is described as “evil” in the hearing of the LORD. The issue is not merely dissatisfaction but its character before God.
+v1: The opening can describe complaints that sound evil to the LORD, as here, or complaints about hardship in his hearing. The account does not state the particular complaint at Taberah.
 
-v01–03: Fire functions both as judgment and as boundary, consuming “the edge of the camp.”
+v3: Taberah echoes the Hebrew word for burning.
 
-v04: The “mixed multitude” introduces internal complexity. Desire spreads beyond origin.
+v4: “Rabble” preserves the narrator’s disparaging term for a group among the people. The verse does not identify their ethnicity.
 
-v05–06: Memory of Egypt is reshaped by hunger. Former oppression is recalled as abundance.
+v8: The expression describing the manna’s taste is difficult. “Rich oil” retains its oil comparison; other renderings include fresh oil or cakes made with oil. Exodus 16:31 gives a different comparison, which is not substituted here.
 
-v06: “Our soul is dried up” preserves the embodied sense of depletion.
+v12: Moses uses both conceiving and giving birth, followed by a masculine term for a caregiver carrying a nursing child. The mixed imagery is retained.
 
-v07–09: The detailed description of manna stands in contrast to its rejection. Provision is neither hidden nor insufficient.
+v25–26: The pinned Hebrew says the elders did not prophesy again; some ancient interpretations understand the same consonants as saying they did not cease. Eldad and Medad are described as registered, but their relation to the count of seventy is not made explicit.
 
-v10: Weeping is communal yet fragmented—“each at the entrance of his tent.”
+v28: “Since his youth” can also be understood as describing Joshua as one of Moses’ chosen men. The wording is uncertain.
 
-v11–15: Moses’ complaint mirrors the people’s, but it is directed toward God. Leadership is expressed as burden rather than privilege.
+v31: The two cubits can describe the quail’s height above the ground or the depth of birds deposited on it. The text does not settle the physical arrangement.
 
-v12: Parental imagery (conceiving, bearing, nursing) is used and resisted. Moses rejects total responsibility for the people.
+v33: “Before it was chewed” renders a verb meaning cut off. It can also be understood as before the meat was consumed or the supply exhausted.
 
-v16–17: The burden is redistributed, not removed. The Spirit is shared without diminishing its source.
-
-v18–20: The promised meat becomes judgment. Desire is granted beyond satisfaction, turning to revulsion.
-
-v21–23: Moses questions provision in material terms. The LORD responds by reframing the question around divine capacity.
-
-v23: “Is the LORD’s hand shortened?” challenges perception rather than supply.
-
-v25: The elders prophesy as a sign of the Spirit’s resting, not as a permanent role.
-
-v26–29: Eldad and Medad receive the Spirit outside expected structures. Moses resists restriction, expressing an expansive vision.
-
-v29: The wish that “all the LORD’s people were prophets” anticipates wider participation without redefining present order.
-
-v31–33: Provision and judgment coincide. The same gift (quail) becomes the occasion of plague.
-
-v34: Naming (“graves of craving”) interprets the event through its cause.
-
-v35: Movement continues. The narrative does not resolve tension before proceeding.
+v34: Kibroth-hattaavah means “graves of craving,” linking the place with the people buried there.
 
 ## Vocabulary
 
-v01: רָעַע (raʿaʿ)
-“To be evil.” Used here to characterize the complaint itself.
+v7: Bdellium — bedolaḥ
+An ancient material also named in Genesis 2:12, often identified as an aromatic resin. Its exact identity is uncertain.
 
-v01: אֵשׁ (ʾesh)
-“Fire.” Often a sign of divine presence in judgment.
+v17,31: Spirit; wind — ruaḥ
+The same Hebrew word describes the spirit placed on the elders and the wind bringing quail.
 
-v04: תַּאֲוָה (taʾavah)
-“Craving” or “desire.” A strong, consuming longing.
+v23: The LORD’s hand
+An image of the LORD’s power and ability to act. The question asks whether that reach is limited.
 
-v06: נֶפֶשׁ (nephesh)
-“Soul” or “life.” Refers to the whole living self.
-
-v07: מָן (man)
-“Manna.” The term is left untranslated as a proper name.
-
-v10: חָרָה (ḥarah)
-“To burn.” Used of anger, especially divine anger.
-
-v11: עָבַד (ʿavad)
-“To serve.” Moses identifies himself as servant in relation to God.
-
-v12: אָמַן (ʾaman)
-“To carry” or “to support.” Related to nurturing or sustaining.
-
-v17: רוּחַ (ruaḥ)
-“Spirit.” Denotes divine empowerment and presence.
-
-v18: קָדַשׁ (qadash)
-“To consecrate.” To set apart for a specific purpose.
-
-v23: יָד (yad)
-“Hand.” A common metaphor for power or capacity.
-
-v25: נָבָא (navaʾ)
-“To prophesy.” Speaking under divine influence.
-
-v31: שְׂלָו (selav)
-“Quail.” The provision brought by the wind.
-
-v33: נָכָה (nakah)
-“To strike.” Often used for divine judgment.
-
-v34: קִבְרוֹת הַתַּאֲוָה (Kivrot ha-taʾavah)
-“Graves of craving.” A place name interpreting the event.
-
-v35: חָצֵרוֹת (Hazerot)
-“Hazeroth.” A location marking the next stage of the journey.
+v32: Homer
+A large dry measure equal to ten ephahs, distinct from the much smaller omer. The passage gives ten homers as the least anyone gathered.
