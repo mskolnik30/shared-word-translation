@@ -4,175 +4,152 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-1-6-biblical-fluency-2026-09-13
 ---
 
-## These Are the Words Moses Spoke
+## Moses begins his address
 
 <p>
-v01: These are the words that Moses spoke to all Israel beyond the Jordan, in the wilderness, in the Arabah opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Di-Zahab.
-
-v02: It is eleven days from Horeb by the way of Mount Seir to Kadesh-Barnea.
-
-v03: In the fortieth year, in the eleventh month, on the first day of the month, Moses spoke to the children of Israel according to all that the LORD had commanded him concerning them.
-
-v04: This was after he had struck Sihon king of the Amorites, who lived in Heshbon, and Og king of Bashan, who lived in Ashtaroth at Edrei.
-
-v05: Beyond the Jordan in the land of Moab, Moses began to explain this instruction, saying:
+v01: These are the words Moses spoke to all Israel beyond the Jordan, in the wilderness of the Arabah opposite Suph, between Paran, Tophel, Laban, Hazeroth, and Dizahab.
+v02: It is an eleven-day journey from Horeb to Kadesh-barnea by the Mount Seir route.
 </p>
 
-## The LORD Commanded Israel to Leave Horeb
-
 <p>
-v06: “The LORD our God spoke to us at Horeb, saying, ‘You have stayed long enough at this mountain.
-
-v07: Turn and set out. Go to the hill country of the Amorites and to all their neighbors in the Arabah, the hill country, the foothills, the Negev, and the seacoast, the land of the Canaanites and Lebanon, as far as the great river, the Euphrates River.
-
-v08: See, I have set the land before you. Go in and possess the land that the LORD swore to your ancestors, to Abraham, Isaac, and Jacob, to give to them and to their offspring after them.’
+v03: In the fortieth year, on the first day of the eleventh month, Moses told the Israelites everything the LORD had commanded him to tell them.
+v04: This was after he had defeated Sihon, the Amorite king who lived in Heshbon, and Og, the king of Bashan who lived in Ashtaroth, whom he defeated at Edrei.
 </p>
 
-## Moses Appoints Leaders
-
 <p>
-v09: “At that time I said to you, ‘I am not able to carry you by myself.
-
-v10: The LORD your God has multiplied you, and look, today you are as numerous as the stars of the heavens.
-
-v11: May the LORD, the God of your ancestors, add to you a thousand times as many as you are and bless you, as he has spoken concerning you.
-
-v12: How can I carry by myself your burden, your load, and your disputes?
-
-v13: Choose for yourselves wise, understanding, and experienced men from your tribes, and I will appoint them as your heads.’
-
-v14: You answered me and said, ‘The thing you have spoken is good for us to do.’
-
-v15: So I took the heads of your tribes, wise and experienced men, and appointed them as heads over you: leaders of thousands, leaders of hundreds, leaders of fifties, leaders of tens, and officers for your tribes.
-
-v16: I commanded your judges at that time, saying, ‘Hear the cases between your brothers and judge righteously between a man and his brother or the resident alien who is with him.
-
-v17: You will not show partiality in judgment. You will hear the small and the great alike. You will not fear the face of any man, for the judgment belongs to God. The case that is too difficult for you, bring to me, and I will hear it.’
-
-v18: I commanded you at that time all the things that you were to do.
+v05: There in Moab, beyond the Jordan, Moses began to explain this instruction. He said,
+v06: “The LORD our God said to us at Horeb, ‘You have stayed at this mountain long enough.
+v07: Turn and set out. Go to the hill country of the Amorites and all its neighboring regions—the Arabah, the hill country, the lowlands, the Negev, and the coast—the land of the Canaanites and Lebanon, as far as the great river, the Euphrates.
+v08: See, I have placed the land before you. Go in and take possession of the land the LORD swore to give your fathers, Abraham, Isaac, and Jacob, and their descendants after them.’
 </p>
 
-## The Spies Are Sent from Kadesh-Barnea
+## Leaders to share the burden
 
 <p>
-v19: “Then we set out from Horeb and went through all that great and fearsome wilderness that you saw, by the way of the hill country of the Amorites, as the LORD our God had commanded us, and we came to Kadesh-Barnea.
-
-v20: I said to you, ‘You have come to the hill country of the Amorites, which the LORD our God is giving us.
-
-v21: See, the LORD your God has set the land before you. Go up, possess it, as the LORD, the God of your ancestors, has spoken to you. Do not fear or be dismayed.’
-
-v22: Then all of you came near to me and said, ‘Let us send men before us, so that they may explore the land for us and bring back word concerning the way by which we should go up and the cities into which we will come.’
-
-v23: The matter was good in my eyes, so I took twelve men from among you, one man for each tribe.
-
-v24: They turned and went up into the hill country, came to the Valley of Eshcol, and explored it.
-
-v25: They took some of the fruit of the land in their hands and brought it down to us. They brought us back word and said, ‘The land that the LORD our God is giving us is good.’
+v09: At that time I told you, ‘I cannot carry you by myself.
+v10: The LORD your God has made you numerous. Today you are as numerous as the stars in the sky.
+v11: May the LORD, the God of your fathers, make you a thousand times as numerous and bless you as he promised you!
 </p>
 
-## Israel Refuses to Go Up
-
 <p>
-v26: “Yet you would not go up, but rebelled against the mouth of the LORD your God.
-
-v27: You murmured in your tents and said, ‘Because the LORD hates us, he brought us out from the land of Egypt to give us into the hand of the Amorites to destroy us.
-
-v28: Where are we going up? Our brothers have made our hearts melt, saying, “The people are greater and taller than we are; the cities are great and fortified to the heavens. Moreover, we saw the children of the Anakim there.”’
-
-v29: Then I said to you, ‘Do not be terrified and do not fear them.
-
-v30: The LORD your God, who goes before you, he himself will fight for you, just as he did for you in Egypt before your eyes,
-
-v31: and in the wilderness, where you saw how the LORD your God carried you, as a man carries his son, in all the way that you went until you came to this place.
-
-v32: Yet in this matter you did not trust the LORD your God,
-
-v33: who went before you on the way to seek out a place for you to camp, in fire by night to show you the way you should go, and in the cloud by day.
+v12: But how can I carry your troubles, your burdens, and your disputes alone?
+v13: Choose wise, discerning, respected men from your tribes, and I will appoint them as your leaders.’
+v14: You answered me, ‘What you propose is good.’
 </p>
 
-## The LORD Swears against the Generation
-
 <p>
-v34: “The LORD heard the sound of your words and became angry and swore, saying,
-
-v35: ‘Not one of these men of this evil generation will see the good land that I swore to give to your ancestors,
-
-v36: except Caleb son of Jephunneh. He will see it, and to him and to his sons I will give the land on which he has walked, because he fully followed the LORD.’
-
-v37: The LORD was angry with me also because of you, saying, ‘You also will not enter there.
-
-v38: Joshua son of Nun, who stands before you, he will enter there. Strengthen him, for he will cause Israel to inherit it.
-
-v39: And your little children, whom you said would become plunder, and your children who today do not know good or evil, they will enter there. To them I will give it, and they will possess it.
-
-v40: But as for you, turn and set out for the wilderness by the way of the Sea of Reeds.’
+v15: So I took your tribal leaders, wise and respected men, and appointed them over you: commanders of thousands, hundreds, fifties, and tens, and officers for your tribes.
 </p>
 
-## Israel Tries to Go Up without the LORD
+<p>
+v16: At that time I instructed your judges, ‘Hear the disputes between your brothers. Judge fairly between a man and his brother or the resident foreigner living with him.
+v17: Show no favoritism in judgment. Hear the small and the great alike. Do not be afraid of anyone, because judgment belongs to God. Bring me any case too difficult for you, and I will hear it.’
+v18: At that time I instructed you about everything you were to do.
+</p>
+
+## At the edge of the land
 
 <p>
-v41: “Then you answered and said to me, ‘We have sinned against the LORD. We ourselves will go up and fight, according to all that the LORD our God commanded us.’ So each man strapped on his weapons of war, and you thought it easy to go up into the hill country.
+v19: Then we left Horeb and traveled through that whole vast, terrifying wilderness you saw, on the way to the Amorite hill country, as the LORD our God commanded us. We reached Kadesh-barnea.
+</p>
 
-v42: But the LORD said to me, ‘Say to them: Do not go up and do not fight, for I am not in your midst, lest you be struck down before your enemies.’
+<p>
+v20: I told you, ‘You have reached the Amorite hill country, which the LORD our God is giving us.
+v21: See, the LORD your God has placed the land before you. Go up and take possession, as the LORD, the God of your fathers, told you. Do not be afraid or lose heart.’
+</p>
 
-v43: So I spoke to you, but you did not listen. You rebelled against the mouth of the LORD and acted presumptuously and went up into the hill country.
+<p>
+v22: Then all of you came to me and said, ‘Let us send men ahead of us to explore the land and report back on the route we should take and the towns we will reach.’
+v23: The proposal seemed good to me, so I chose twelve men from among you, one from each tribe.
+v24: They went up into the hill country, reached the Valley of Eshcol, and explored it.
+v25: They took some of the land's fruit and brought it down to us. They reported, ‘The land the LORD our God is giving us is good.’
+</p>
 
-v44: Then the Amorites who lived in that hill country came out against you and chased you as bees do. They struck you down in Seir as far as Hormah.
+<p>
+v26: But you refused to go up. You rebelled against the command of the LORD your God.
+v27: You grumbled in your tents and said, ‘The LORD hates us! That is why he brought us out of Egypt—to hand us over to the Amorites and destroy us.
+v28: Where can we go? Our brothers have made our hearts melt by saying, “The people are bigger and taller than we are. Their towns are large, fortified up to the heavens. We even saw Anakim there.”’
+</p>
 
-v45: You returned and wept before the LORD, but the LORD did not listen to your voice or give ear to you.
+<p>
+v29: Then I told you, ‘Do not dread them. Do not be afraid of them.
+v30: The LORD your God goes ahead of you. He will fight for you, just as you saw him do for you in Egypt,
+v31: and in the wilderness. There you saw how the LORD your God carried you, as a man carries his son, all the way you traveled until you reached this place.’
+</p>
 
-v46: So you remained at Kadesh many days, according to the days that you remained there.
+<p>
+v32: Yet even with all this, you did not trust the LORD your God,
+v33: who went ahead of you on the road to find a place for you to camp. He showed you the way to go, with fire by night and a cloud by day.
+</p>
+
+## The generation that would not enter
+
+<p>
+v34: When the LORD heard what you said, he became angry and swore,
+v35: ‘Not one of these men, this evil generation, will see the good land I swore to give your fathers,
+v36: except Caleb son of Jephunneh. He will see it. I will give him and his sons the land he walked on, because he followed the LORD wholeheartedly.’
+</p>
+
+<p>
+v37: The LORD was angry with me too because of you. He said, ‘You will not enter it either.
+v38: Joshua son of Nun, who serves you, will enter it. Strengthen him, because he will lead Israel into its inheritance.
+</p>
+
+<p>
+v39: Your little ones, whom you said would become plunder, and your children, who today do not know good from evil—they will enter it. I will give it to them, and they will take possession of it.
+v40: As for you, turn back and set out into the wilderness by the Sea of Reeds route.’
+</p>
+
+## An advance against the command
+
+<p>
+v41: Then you answered me, ‘We have sinned against the LORD. We will go up and fight, just as the LORD our God commanded us.’ Each of you strapped on his weapons, thinking it would be easy to go up into the hill country.
+</p>
+
+<p>
+v42: But the LORD told me, ‘Tell them not to go up or fight, because I will not be among them. Otherwise they will be defeated by their enemies.’
+v43: I told you, but you would not listen. You rebelled against the LORD's command and arrogantly went up into the hill country.
+</p>
+
+<p>
+v44: The Amorites who lived in that hill country came out against you. They chased you like bees and crushed you in Seir, as far as Hormah.
+</p>
+
+<p>
+v45: You came back and wept before the LORD, but the LORD would not listen to your voice or give you a hearing.
+v46: So you stayed at Kadesh for many days—all those days you spent there.”
 </p>
 
 ## Notes
 
-v01: Deuteronomy opens with geographic markers east of the Jordan. Several place names are difficult to identify with certainty.
+v1–5: The opening places Moses east of the Jordan in Moab. The eleven-day route in verse 2 stands beside the fortieth-year date in verse 3. The place names are retained without assigning uncertain modern locations.
 
-v05: “explain this instruction” presents the book as Moses’ authoritative exposition of the instruction already received.
+v4: The compressed Hebrew can connect Edrei with Og's defeat or with the description of his location. The draft locates the defeat at Edrei, as in 3:1, while retaining Ashtaroth as his residence.
 
-v09–18: Moses retells the appointment of judges, emphasizing the impossibility of one leader carrying Israel’s full burden alone.
+v22–25: Moses attributes the proposal to send scouts to the people and says it pleased him. This retelling is preserved on its own terms; compare Numbers 13–14.
 
-v17: “the judgment belongs to God” places judicial authority under divine accountability and directly forbids favoritism based on social status.
+v27–31: The people's accusation that the LORD hates them contrasts with Moses' picture of God carrying them as a man carries his son. The image also recalls Moses' inability to carry the people alone in verse 9.
 
-v22: Moses’ retelling emphasizes that the proposal to send spies came from the people, while Numbers 13 presents the mission through divine command. TSW preserves each book’s own narrative emphasis.
+v37–39: Moses says that the LORD was angry with him because of the people. The draft retains his statement; compare Numbers 20:12. The children's not knowing good from evil is stated without defining an age threshold.
 
-v26: “rebelled against the mouth of the LORD” is a concrete Hebrew idiom for resisting spoken divine command.
-
-v27: Israel interprets deliverance through the lens of fear and concludes that the LORD hates them, directly reversing the exodus story.
-
-v31: The LORD carrying Israel “as a man carries his son” introduces parental imagery into Moses’ description of wilderness care.
-
-v37: Moses says the LORD was angry with him “because of you,” while Numbers 20 narrates Moses’ own failure at Meribah. Deuteronomy emphasizes the communal context without eliminating Moses’ accountability elsewhere.
-
-v41–44: The people’s confession does not turn a forbidden action into obedience. Going up after the LORD has said not to go is another act of presumption.
+v41: The verb rendered “thinking it would be easy” can also be understood as making ready or venturing to go up. The following verses explicitly call the advance presumptuous and disobedient.
 
 ## Vocabulary
 
-v05: בֵּאֵר (be'er)
-“To explain” or “make clear.” Moses begins to expound the instruction.
+v5: Instruction
+Hebrew torah: teaching or direction, here the instruction Moses is explaining to Israel.
 
-v12: מַשָּׂא (massa)
-“Burden.” The weight of carrying the people’s affairs.
+v16: Resident foreigner
+Someone living among Israel without ordinary ancestral membership. Such a person is explicitly included in the requirement of fair judgment.
 
-v16: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right decision in disputes.
+v28: Anakim
+A people associated here with exceptional height and the scouts' fear.
 
-v17: נָכַר פָּנִים (nakhar panim)
-“To recognize faces.” An idiom for partiality.
-
-v22: חָפַר (chafar)
-“To explore” or “search out.” Used of examining the land.
-
-v26: מָרָה (marah)
-“To rebel.” To resist authoritative command.
-
-v32: אָמַן (aman)
-“To trust” or “believe.” Israel fails to trust the LORD.
-
-v36: מָלֵא אַחֲרֵי (male acharei)
-“To fully follow.” Caleb’s wholehearted allegiance.
-
-v43: זִיד (zid)
-“To act presumptuously.” To act arrogantly against command.
+v40: Sea of Reeds
+The Hebrew name traditionally rendered “Red Sea.” The route name is retained without specifying a modern itinerary.

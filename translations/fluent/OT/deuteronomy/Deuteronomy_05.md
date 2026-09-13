@@ -4,136 +4,147 @@ testament: OT
 chapter: 5
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-1-6-biblical-fluency-2026-09-13
 ---
 
-## Hear, Israel, the Statutes and Judgments
+## The covenant at Horeb
 
 <p>
-v01: Moses called all Israel and said to them, “Hear, Israel, the statutes and judgments that I speak in your hearing today. Learn them and be careful to do them.
+v01: Moses summoned all Israel and said to them, “Hear, Israel, the statutes and rulings I am speaking in your hearing today. Learn them and be careful to put them into practice.
+</p>
 
+<p>
 v02: The LORD our God made a covenant with us at Horeb.
-
-v03: Not with our ancestors alone did the LORD make this covenant, but with us, all of us who are alive here today.
-
-v04: Face to face the LORD spoke with you on the mountain from the midst of the fire—
-
-v05: I was standing between the LORD and you at that time to declare to you the word of the LORD, for you were afraid because of the fire and did not go up the mountain—saying:
+v03: The LORD did not make this covenant with our fathers, but with us—all of us who are here alive today.
 </p>
 
 ## The Ten Words
 
 <p>
-v06: “I am the LORD your God, who brought you out from the land of Egypt, from the house of slavery.
-
-v07: You will have no other gods before me.
-
-v08: You will not make for yourself a carved image, any form of what is in the heavens above, on the earth beneath, or in the waters under the earth.
-
-v09: You will not bow down to them or serve them, for I, the LORD your God, am a jealous God, attending to the guilt of fathers upon children to the third and fourth generation of people who hate me,
-
-v10: but showing steadfast love to thousands of people who love me and keep my commandments.
-
-v11: You will not carry the name of the LORD your God for emptiness, for the LORD will not hold innocent anyone who carries his name for emptiness.
-
-v12: Keep the Sabbath day to consecrate it, as the LORD your God commanded you.
-
-v13: Six days you will labor and do all your work,
-
-v14: but the seventh day is a Sabbath to the LORD your God. You will not do any work—you, your son, your daughter, your male servant, your female servant, your ox, your donkey, any of your livestock, or the resident alien who is within your gates—so that your male servant and female servant may rest as you do.
-
-v15: You will remember that you were a servant in the land of Egypt, and the LORD your God brought you out from there with a strong hand and an outstretched arm. Therefore the LORD your God commanded you to keep the Sabbath day.
-
-v16: Honor your father and your mother, as the LORD your God commanded you, so that your days may be long and so that it may go well with you upon the land that the LORD your God is giving you.
-
-v17: You will not murder.
-
-v18: You will not commit adultery.
-
-v19: You will not steal.
-
-v20: You will not answer against your neighbor as a false witness.
-
-v21: You will not desire your neighbor’s wife. You will not crave your neighbor’s house, his field, his male servant, his female servant, his ox, his donkey, or anything that belongs to your neighbor.
+v04: The LORD spoke with you face to face on the mountain, from the fire.
+v05: At that time I stood between the LORD and you to declare the LORD's word to you, because you were afraid of the fire and did not go up the mountain. He said,
+v06: ‘I am the LORD your God, who brought you out of Egypt, out of the house of slavery.
+v07: You must have no other gods before me.
 </p>
 
-## The People Fear the Voice from the Fire
-
 <p>
-v22: “These words the LORD spoke to all your assembly on the mountain from the midst of the fire, cloud, and thick darkness, with a great voice, and he added no more. He wrote them on two tablets of stone and gave them to me.
-
-v23: When you heard the voice from the midst of the darkness while the mountain burned with fire, you came near to me, all the heads of your tribes and your elders.
-
-v24: You said, ‘Look, the LORD our God has shown us his glory and greatness, and we have heard his voice from the midst of the fire. This day we have seen that God speaks with humanity and a person lives.
-
-v25: And now why should we die? For this great fire will consume us. If we continue to hear the voice of the LORD our God any longer, we will die.
-
-v26: For who is there of all flesh who has heard the voice of the living God speaking from the midst of the fire as we have and lived?
-
-v27: You go near and hear all that the LORD our God says. Then you speak to us all that the LORD our God speaks to you, and we will hear and do it.’
+v08: You must not make yourself a carved image or any likeness of what is in heaven above, on earth below, or in the waters below the earth.
+v09: You must not bow down to them or serve them. For I, the LORD your God, am a jealous God, calling children to account for their fathers' guilt to the third and fourth generation of those who hate me,
+v10: but showing faithful love to thousands of those who love me and keep my commands.
 </p>
 
-## The LORD Approves Their Request for a Mediator
+<p>
+v11: You must not use the name of the LORD your God for falsehood, because the LORD will not hold anyone guiltless who uses his name for falsehood.
+</p>
 
 <p>
-v28: “The LORD heard the sound of your words when you spoke to me, and the LORD said to me, ‘I have heard the sound of the words of this people that they spoke to you. All that they have spoken is good.
+v12: Observe the Sabbath day and keep it holy, as the LORD your God commanded you.
+v13: For six days you are to labor and do all your work,
+v14: but the seventh day is a Sabbath to the LORD your God. You must not do any work—you, your son or daughter, your male or female slave, your ox or donkey or any of your livestock, or the resident foreigner within your gates—so that your male and female slaves may rest as you do.
+v15: Remember that you were a slave in Egypt and that the LORD your God brought you out with a strong hand and an outstretched arm. That is why the LORD your God commanded you to observe the Sabbath day.
+</p>
 
-v29: If only they had such a heart in them to fear me and keep all my commandments all the days, so that it might go well with them and with their children forever!
+<p>
+v16: Honor your father and your mother, as the LORD your God commanded you, so that you may live long and it may go well with you in the land the LORD your God is giving you.
+</p>
 
-v30: Go, say to them, “Return to your tents.”
+<p>
+v17: You must not murder.
+</p>
 
-v31: But you, stand here with me, and I will speak to you all the commandment, the statutes, and the judgments that you will teach them, so that they may do them in the land that I am giving them to possess.’
+<p>
+v18: You must not commit adultery.
+</p>
 
-v32: So you will be careful to do just as the LORD your God commanded you. You will not turn aside to the right or to the left.
+<p>
+v19: You must not steal.
+</p>
 
-v33: In all the way that the LORD your God commanded you, you will walk, so that you may live, and it may go well with you, and you may prolong your days in the land that you will possess.
+<p>
+v20: You must not testify falsely against your neighbor.
+</p>
+
+<p>
+v21: You must not covet your neighbor's wife. You must not desire your neighbor's house or field, male or female slave, ox or donkey, or anything that belongs to your neighbor.’
+</p>
+
+## The people ask Moses to mediate
+
+<p>
+v22: The LORD spoke these words to your whole assembly on the mountain, from the fire, cloud, and thick gloom, with a mighty voice. He added no more. He wrote them on two stone tablets and gave them to me.
+</p>
+
+<p>
+v23: When you heard the voice from the darkness while the mountain blazed with fire, all your tribal leaders and elders came to me.
+v24: You said, ‘The LORD our God has shown us his glory and greatness, and we have heard his voice from the fire. Today we have seen that God can speak with a human being and that person can live.
+</p>
+
+<p>
+v25: But now, why should we die? This great fire will consume us. If we keep hearing the voice of the LORD our God, we will die.
+v26: For who of all flesh has heard the voice of the living God speaking from the fire, as we have, and lived?
+</p>
+
+<p>
+v27: You go near and hear everything the LORD our God says. Then tell us everything the LORD our God tells you, and we will listen and do it.’
+</p>
+
+## The LORD's response
+
+<p>
+v28: The LORD heard what you said when you spoke to me. He told me, ‘I have heard what this people said to you. Everything they have said is right.
+</p>
+
+<p>
+v29: If only they had such a heart as this—to fear me and keep all my commands always—so that it might go well with them and their children forever!
+</p>
+
+<p>
+v30: Go and tell them to return to their tents.
+</p>
+
+<p>
+v31: But you stay here with me. I will tell you the whole commandment, the statutes and rulings you are to teach them, so that they may practice them in the land I am giving them to possess.’
+</p>
+
+<p>
+v32: So be careful to do what the LORD your God has commanded you. Do not turn aside to the right or to the left.
+v33: Walk in the whole way the LORD your God has commanded you, so that you may live, it may go well with you, and you may remain long in the land you will possess.”
 </p>
 
 ## Notes
 
-v02–03: Moses addresses the Horeb covenant as belonging directly to the present generation, even though many were children or not yet born at the original event. Covenant memory makes the past present to the community.
+v3: The Hebrew says “not with our fathers, but with us.” The draft does not add “only.” The address identifies the living community with the covenant at Horeb; “fathers” can refer to earlier ancestors, with its precise scope understood differently.
 
-v04–05: “Face to face” describes direct covenant encounter, while verse 5 simultaneously emphasizes Moses’ mediating role. The expressions are allowed to stand together.
+v4–5: “Face to face” stands beside Moses' mediation and the earlier statement that the people saw no form. The translation retains all three descriptions.
 
-v11: “carry the name … for emptiness” includes false oath, misuse, and empty invocation. TSW keeps the concrete verb “carry.”
+v7: “Before me” is also understood as “besides me” or “in my presence.” In context it demands exclusive allegiance, not simply first place among gods.
 
-v14–15: Deuteronomy grounds Sabbath in the exodus from slavery, whereas Exodus 20 also grounds it in creation. The two versions emphasize complementary theological memories.
+v9–10: The consequence for fathers' guilt extends to later generations of those who hate God, contrasted with faithful love to thousands. “Generations” is explicit in the first clause's sense but not supplied after “thousands.” In verse 10 the written Hebrew has “his commands”; the read form has “my commands,” followed here.
 
-v17: The Hebrew verb specifically concerns wrongful killing or murder, not every taking of life.
+v11: The Hebrew speaks of carrying or taking the divine name for emptiness, worthlessness, or falsehood. False oaths are included, but the wording is broader than a single kind of improper speech.
 
-v21: Deuteronomy places the neighbor’s wife before house and field and uses a second desire verb, slightly differing from Exodus 20. TSW preserves the order and lexical distinction.
+v12–15: This account says “Observe” the Sabbath and grounds the command in Israel's enslavement and liberation. It explicitly gives male and female slaves rest like their masters. Exodus 20:8–11 says “Remember” and gives a creation rationale; the draft preserves each account's wording.
 
-v22: “he added no more” marks the Ten Words as the direct public speech to the whole assembly before Moses receives further instruction as mediator.
+v21: The wife precedes the house here, the field is explicitly included, and two different verbs of desire are used. The order and list are not conformed to Exodus 20:17.
 
-v29: The LORD’s wish—“if only they had such a heart”—makes obedience an inward disposition, not merely external conformity.
+v22: “He added no more” marks the completion of these words to the assembly. The account then turns to Moses as the mediator of further instruction.
 
 ## Vocabulary
 
-v01: לָמַד (lamad)
-“To learn.” Israel must learn the statutes in order to do them.
+v6: House of slavery
+Egypt described as the place where Israel was enslaved.
 
-v02: בְּרִית (berit)
-“Covenant.” The binding relationship made at Horeb.
+v10: Faithful love
+Hebrew hesed: committed love or kindness, here contrasted with consequences for rejecting God.
 
-v06: בֵּית עֲבָדִים (bet avadim)
-“House of slavery.” Egypt remembered as bondage.
+v12: Sabbath
+The seventh day set apart for cessation from work and rest.
 
-v09: קַנָּא (qanna)
-“Jealous.” Zealous for exclusive covenant loyalty.
+v17: Murder
+The prohibition concerns wrongful killing of a human being; it does not use a general verb for every kind of killing.
 
-v11: שָׁוְא (shav)
-“Emptiness,” “falsehood,” or “vanity.” The forbidden misuse of the divine name.
-
-v12: שָׁמוֹר (shamor)
-“Keep” or “guard.” Deuteronomy’s opening Sabbath verb.
-
-v17: רָצַח (ratsach)
-“To murder.” Wrongful killing.
-
-v21: חָמַד (chamad)
-“To desire” or “covet.”
-
-v21: אָוָה (avah)
-“To crave” or “desire.” A second desire verb in the command.
-
-v26: אֱלֹהִים חַיִּים (Elohim chayyim)
-“Living God.” God whose voice the people hear and survive.
+v33: Walk in the way
+An image of conduct as following a path, reinforced by the warning against turning right or left.

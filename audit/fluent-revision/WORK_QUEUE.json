@@ -201,16 +201,21 @@
       "scope": "Numbers 31–36",
       "verses": 228,
       "ledger": "audit/fluent-revision/2026-09-13-numbers-31-36/numbers-verse-review.json"
+    },
+    {
+      "scope": "Deuteronomy 1–6",
+      "verses": 219,
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-1-6/deuteronomy-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Deuteronomy 1–6",
-      "action": "Next connected draft batch: 219 public verses. Resolve and verify the repository’s pinned Deuteronomy source attribution and exact XML bytes before reading and drafting every verse. Preserve Moses’ retrospective speech, speakers, geography, legal conditions, covenant and recurring love/heart language. Continue in larger complete-chapter batches without routine approval pauses."
-    },
-    {
       "scope": "Deuteronomy 7–12",
       "action": "Continue the connected source-based draft after 1–6; inspect exact source/public mapping before starting."
+    },
+    {
+      "scope": "Deuteronomy 13–18",
+      "action": "Continue the source-based draft in complete chapters after 7–12, preserving exact source bindings and distinct instruction forms."
     }
   ],
   "standards": [

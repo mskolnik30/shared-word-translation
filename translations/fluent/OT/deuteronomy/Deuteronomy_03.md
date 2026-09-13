@@ -4,132 +4,124 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-1-6-biblical-fluency-2026-09-13
 ---
 
-## Israel Defeats Og of Bashan
+## Og and the towns of Bashan
 
 <p>
-v01: “Then we turned and went up by the way of Bashan, and Og king of Bashan came out against us, he and all his people, for battle at Edrei.
-
-v02: The LORD said to me, ‘Do not fear him, for I have given him, all his people, and his land into your hand. You will do to him as you did to Sihon king of the Amorites, who lived in Heshbon.’
-
-v03: So the LORD our God also gave into our hand Og king of Bashan and all his people, and we struck him until no survivor remained to him.
-
-v04: We captured all his cities at that time. There was not a town that we did not take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan.
-
-v05: All these were cities fortified with high walls, gates, and bars, besides very many unwalled villages.
-
-v06: We devoted them to destruction, as we had done to Sihon king of Heshbon, devoting every city—men, women, and little children.
-
-v07: But all the livestock and the spoil of the cities we took as plunder for ourselves.
+v01: “Then we turned and went up the road to Bashan. Og king of Bashan and all his people came out to meet us in battle at Edrei.
+v02: The LORD said to me, ‘Do not be afraid of him. I have handed him over to you, with all his people and his land. Do to him what you did to Sihon, the Amorite king who lived in Heshbon.’
 </p>
 
-## The Land East of the Jordan
-
 <p>
-v08: “So at that time we took the land from the hand of the two kings of the Amorites who were beyond the Jordan, from the Wadi Arnon as far as Mount Hermon—
-
-v09: the Sidonians call Hermon Sirion, and the Amorites call it Senir—
-
-v10: all the cities of the tableland, all Gilead, and all Bashan as far as Salecah and Edrei, cities of the kingdom of Og in Bashan.
-
-v11: For only Og king of Bashan remained from the remnant of the Rephaim. Look, his bed was a bed of iron. Is it not in Rabbah of the children of Ammon? Nine cubits was its length and four cubits its width, by the ordinary cubit.
+v03: So the LORD our God handed Og king of Bashan and all his people over to us too. We struck them down until no survivor remained.
 </p>
 
-## The Eastern Tribes Receive Their Land
-
 <p>
-v12: “This land we possessed at that time. From Aroer, which is on the edge of the Wadi Arnon, and half the hill country of Gilead with its cities, I gave to the Reubenites and the Gadites.
-
-v13: The rest of Gilead and all Bashan, the kingdom of Og, I gave to the half-tribe of Manasseh—all the region of Argob. All Bashan was called the land of Rephaim.
-
-v14: Jair son of Manasseh took all the region of Argob as far as the border of the Geshurites and Maacathites and called them, that is Bashan, after his own name, Havvoth-Jair, to this day.
-
-v15: To Machir I gave Gilead.
-
-v16: To the Reubenites and the Gadites I gave from Gilead as far as the Wadi Arnon, the middle of the wadi as a border, and as far as the Wadi Jabbok, the border of the children of Ammon,
-
-v17: and the Arabah, with the Jordan as a border, from Chinnereth as far as the Sea of the Arabah, the Salt Sea, under the slopes of Pisgah toward the sunrise.
+v04: At that time we captured all his towns. There was not one we failed to take: sixty towns, the whole region of Argob, Og's kingdom in Bashan.
+v05: All these towns were fortified with high walls, gates, and bars, besides a great many unwalled towns.
 </p>
 
-## The Eastern Tribes Must Fight with Their Brothers
-
 <p>
-v18: “I commanded you at that time, saying, ‘The LORD your God has given you this land to possess. All your warriors will cross over armed before your brothers, the children of Israel.
-
-v19: Only your wives, your little children, and your livestock—I know that you have much livestock—will remain in your cities that I have given you,
-
-v20: until the LORD gives rest to your brothers as to you, and they also possess the land that the LORD your God is giving them beyond the Jordan. Then each of you may return to the possession that I have given you.’
+v06: We devoted them to destruction, as we had done to Sihon king of Heshbon, devoting every town to destruction—men, women, and little children.
+v07: But we took all the livestock and the spoil of the towns as plunder for ourselves.
 </p>
 
-## Moses Encourages Joshua
+## The land east of the Jordan
 
 <p>
-v21: “I commanded Joshua at that time, saying, ‘Your eyes have seen all that the LORD your God has done to these two kings. So the LORD will do to all the kingdoms into which you are crossing.
-
-v22: You will not fear them, for the LORD your God is the one fighting for you.’
+v08: At that time we took the land of the two Amorite kings beyond the Jordan, from the Wadi Arnon to Mount Hermon.
+v09: The Sidonians call Hermon Sirion, while the Amorites call it Senir.
+v10: We took all the towns of the plateau, all Gilead, and all Bashan as far as Salecah and Edrei, towns in Og's kingdom of Bashan.
 </p>
 
-## Moses Pleads to Enter the Land
+<p>
+v11: Only Og king of Bashan remained of the remnant of the Rephaim. His bed was made of iron—is it not in Rabbah of the Ammonites? It was nine cubits long and four cubits wide, measured by the ordinary human cubit.
+</p>
 
 <p>
-v23: “I pleaded with the LORD at that time, saying,
+v12: When we took possession of this land, I gave the Reubenites and Gadites the territory from Aroer by the Wadi Arnon, along with half the hill country of Gilead and its towns.
+v13: I gave the rest of Gilead and all Bashan, Og's kingdom, to the half-tribe of Manasseh. The whole region of Argob, all that part of Bashan, is called the land of Rephaim.
+</p>
 
-v24: ‘Lord GOD, you have begun to show your servant your greatness and your strong hand, for what god is there in the heavens or on the earth who can do according to your works and according to your mighty acts?
+<p>
+v14: Jair, a descendant of Manasseh, took the whole region of Argob as far as the border of the Geshurites and Maacathites. He named Bashan's settlements after himself, Havvoth-jair, as they are called to this day.
+</p>
 
-v25: Please let me cross over and see the good land beyond the Jordan, this good hill country and Lebanon.’
+<p>
+v15: I gave Gilead to Machir.
+</p>
 
-v26: But the LORD was furious with me because of you and would not listen to me. The LORD said to me, ‘Enough for you! Do not speak to me again about this matter.
+<p>
+v16: To the Reubenites and Gadites I gave the territory from Gilead to the Wadi Arnon, with the middle of the wadi as its boundary, and as far as the Wadi Jabbok, the Ammonite boundary.
+v17: It also included the Arabah, with the Jordan as its boundary, from Chinnereth to the Sea of the Arabah, the Salt Sea, below the slopes of Pisgah on the east.
+</p>
 
-v27: Go up to the top of Pisgah and lift your eyes westward, northward, southward, and eastward, and see with your eyes, for you will not cross this Jordan.
+## The eastern tribes' obligation
 
-v28: But command Joshua, strengthen him and make him courageous, for he will cross over before this people and he will cause them to inherit the land that you will see.’
+<p>
+v18: At that time I commanded you, ‘The LORD your God has given you this land to possess. All your fighting men must cross over armed ahead of your brothers, the Israelites.
+</p>
 
-v29: So we remained in the valley opposite Beth-Peor.
+<p>
+v19: Only your wives, little ones, and livestock—I know you have much livestock—may stay in the towns I have given you.
+v20: Stay until the LORD gives your brothers rest as he has given you, and they too possess the land the LORD your God is giving them beyond the Jordan. Then each of you may return to the possession I have given you.’
+</p>
+
+<p>
+v21: At that time I commanded Joshua, ‘Your own eyes have seen everything the LORD your God did to these two kings. The LORD will do the same to all the kingdoms you are about to enter.’
+v22: Do not be afraid of them, for the LORD your God is the one who fights for you.
+</p>
+
+## Moses asks to cross
+
+<p>
+v23: At that time I pleaded with the LORD,
+v24: ‘Lord GOD, you have begun to show your servant your greatness and your strong hand. What god in heaven or on earth can do deeds and mighty acts like yours?
+v25: Please let me cross over and see the good land beyond the Jordan, that good hill country and Lebanon.’
+</p>
+
+<p>
+v26: But the LORD was furious with me because of you and would not listen to me. He said, ‘Enough! Do not speak to me about this again.
+</p>
+
+<p>
+v27: Go up to the top of Pisgah. Look west, north, south, and east, and see it with your own eyes, because you will not cross this Jordan.
+v28: Commission Joshua. Strengthen him and give him courage, because he will cross over ahead of this people and lead them into possession of the land you will see.’
+v29: So we stayed in the valley opposite Beth-peor.”
 </p>
 
 ## Notes
 
-v01–07: The defeat of Og parallels the defeat of Sihon and is again attributed to the LORD’s giving of the king and land into Israel’s hand.
+v4–7: The sixty fortified towns are distinguished from many unwalled settlements. As in chapter 2, the destruction explicitly includes men, women, and little children, while livestock and goods become plunder.
 
-v06: The comprehensive *herem* language is preserved directly. As elsewhere, the ancient conquest account should not be generalized into a modern mandate for religious violence.
+v11: The Hebrew object is usually understood as a bed or couch; some understand a funerary couch or sarcophagus. The stated nine-by-four-cubit dimensions belong to the object, not a measurement of Og's body.
 
-v09: Hermon’s multiple names preserve the region’s multilingual geography.
+v14–15: A family name can stand for descendants collectively. Compare the accounts of Jair and Machir in Numbers 32:39–41.
 
-v11: The Hebrew term rendered “bed” can mean a bedstead or perhaps a sarcophagus. “Iron” may describe the material or a dark stone associated with iron-like color; TSW follows the traditional reading.
+v18–20: The eastern tribes already have land, but their fighting men must help their brothers receive possession and rest before returning. Compare Numbers 32.
 
-v14: “Havvoth-Jair” means “villages of Jair.” The naming links conquest and settlement with personal and clan memory.
+v21–22: The address to Joshua uses singular forms; verse 22 shifts to plural forms, extending the encouragement to the people.
 
-v18–20: Reuben, Gad, and half-Manasseh receive land before the western conquest but remain obligated to fight alongside the other tribes.
-
-v22: Moses’ encouragement of Joshua centers on the LORD’s active fighting rather than Joshua’s personal military strength.
-
-v23–27: Moses’ unanswered plea is one of Deuteronomy’s recurring reminders that even Moses does not stand above divine judgment.
-
-v26: “because of you” again emphasizes the communal context of Moses’ exclusion, while other Torah traditions also name Moses’ own failure.
+v26–28: Moses repeats that the LORD was angry with him because of the people. He may see the land, but Joshua will lead the people into it. The translation keeps this account distinct from the explanations in Numbers 20 and 27.
 
 ## Vocabulary
 
-v04: חֶבֶל (chevel)
-“Region” or “territorial district.” Used of Argob.
+v9: Sirion and Senir
+Names for Hermon used by the Sidonians and Amorites respectively.
 
-v05: בָּצוּר (batsur)
-“Fortified.” Protected by walls and defenses.
+v11: Cubit
+An ancient length unit associated with the forearm. The source specifies an ordinary human cubit; no precise modern conversion is imposed.
 
-v11: עֶרֶשׂ (eres)
-“Bed” or “bedstead.” The unusually large object associated with Og.
+v14: Havvoth-jair
+“Villages of Jair,” a settlement name associated with Jair's capture of the region.
 
-v13: חֲצִי שֵׁבֶט (chatsi shevet)
-“Half-tribe.” Half of Manasseh receives territory east of the Jordan.
+v20: Rest
+Here, settled security in the land, shared by the eastern tribes and their brothers.
 
-v20: נוּחַ (nuach)
-“To give rest.” Settled security in the land.
-
-v22: לָחַם (lacham)
-“To fight.” The LORD fights for Israel.
-
-v23: חָנַן (chanan)
-“To plead for favor.” Moses asks the LORD for permission to cross.
-
-v28: חָזַק (chazaq)
-“To strengthen.” Joshua must be strengthened for leadership.
+v24: Lord GOD
+This typography represents the title Adonai followed by the divine name YHWH, elsewhere printed LORD.

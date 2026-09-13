@@ -4,154 +4,136 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-1-6-biblical-fluency-2026-09-13
 ---
 
-## Israel Turns toward the Wilderness
+## Passing the land of Esau
 
 <p>
-v01: “Then we turned and set out for the wilderness by the way of the Sea of Reeds, as the LORD had spoken to me, and we went around Mount Seir many days.
-
-v02: Then the LORD spoke to me, saying,
-
-v03: ‘You have gone around this mountain long enough. Turn northward.
+v01: “Then we turned and set out into the wilderness by the Sea of Reeds route, as the LORD had told me. For many days we traveled around Mount Seir.
 </p>
 
-## Do Not Fight Edom
-
 <p>
-v04: Command the people, saying, “You are about to pass through the territory of your brothers, the children of Esau who live in Seir. They will be afraid of you, so be very careful.
-
-v05: Do not contend with them, for I will not give you any of their land, not even enough for the sole of a foot to tread, because I have given Mount Seir to Esau as a possession.
-
-v06: You will buy food from them with silver so that you may eat, and you will also purchase water from them with silver so that you may drink.
-
-v07: For the LORD your God has blessed you in all the work of your hands. He knows your walking through this great wilderness. These forty years the LORD your God has been with you; you have lacked nothing.”’
+v02: Then the LORD said to me,
+v03: ‘You have traveled around this mountain long enough. Turn north.
+v04: Give the people this command: You are about to pass through the territory of your brothers, the descendants of Esau, who live in Seir. They will be afraid of you, so be very careful.
+v05: Do not provoke them to conflict. I will not give you any of their land, not even enough for the sole of a foot, because I have given Mount Seir to Esau as his possession.
 </p>
 
-## Israel Passes by Moab
-
 <p>
-v08: “So we passed by our brothers, the children of Esau who live in Seir, away from the way of the Arabah, from Elath and Ezion-Geber.
-
-Then we turned and passed by the way of the wilderness of Moab.
-
-v09: The LORD said to me, ‘Do not harass Moab and do not contend with them in battle, for I will not give you any of their land as a possession, because I have given Ar to the children of Lot as a possession.’
-
-v10: The Emim formerly lived there, a people great and numerous and tall as the Anakim.
-
-v11: They also were regarded as Rephaim, like the Anakim, but the Moabites call them Emim.
-
-v12: The Horites also formerly lived in Seir, but the children of Esau dispossessed them and destroyed them from before them and lived in their place, just as Israel did to the land of his possession that the LORD gave to them.
+v06: Pay them silver for the food you eat, and pay them silver for the water you drink.
+v07: For the LORD your God has blessed all the work of your hands. He has watched over your journey through this vast wilderness. These forty years the LORD your God has been with you, and you have lacked nothing.’
 </p>
 
-## The Wilderness Generation Passes Away
+## Moab and the wilderness generation
 
 <p>
-v13: “‘Now rise and cross the Wadi Zered.’ So we crossed the Wadi Zered.
-
-v14: The time that we traveled from Kadesh-Barnea until we crossed the Wadi Zered was thirty-eight years, until all the generation of the men of war had come to an end from the midst of the camp, as the LORD had sworn to them.
-
-v15: Indeed, the hand of the LORD was against them to destroy them from the midst of the camp until they came to an end.
+v08: So we passed by our brothers, the descendants of Esau who live in Seir, leaving the Arabah route from Elath and Ezion-geber. We turned and took the route through the wilderness of Moab.
+v09: The LORD said to me, ‘Do not harass Moab or provoke them to war. I will not give you any of their land as a possession, because I have given Ar to the descendants of Lot as their possession.’
 </p>
 
-## Do Not Fight Ammon
+<p>
+v10: The Emim lived there before—a people great and numerous, as tall as the Anakim.
+v11: Like the Anakim, they too were counted as Rephaim, but the Moabites called them Emim.
+v12: The Horites once lived in Seir, but Esau's descendants drove them out, destroyed them, and settled in their place, just as Israel did in the land of its possession that the LORD gave them.
+</p>
 
 <p>
-v16: “When all the men of war had finished dying from among the people,
+v13: ‘Now get up and cross the Wadi Zered.’ So we crossed the Wadi Zered.
+</p>
 
-v17: The LORD spoke to me, saying,
+<p>
+v14: Thirty-eight years passed between our departure from Kadesh-barnea and our crossing of the Wadi Zered. By then that entire generation of fighting men had died out from the camp, as the LORD had sworn to them.
+v15: The LORD's hand was against them too, to wipe them out from the camp until they were gone.
+</p>
 
+## Ammon and its earlier inhabitants
+
+<p>
+v16: When all the fighting men among the people had died,
+v17: the LORD said to me,
 v18: ‘Today you are crossing the border of Moab at Ar.
-
-v19: When you approach opposite the children of Ammon, do not harass them or contend with them, for I will not give you any of the land of the children of Ammon as a possession, because I have given it to the children of Lot as a possession.’
-
-v20: It also is regarded as a land of Rephaim. Rephaim formerly lived in it, but the Ammonites call them Zamzummim,
-
-v21: a people great and numerous and tall as the Anakim. But the LORD destroyed them before the Ammonites, and they dispossessed them and lived in their place,
-
-v22: just as he did for the children of Esau who live in Seir, when he destroyed the Horites before them, and they dispossessed them and lived in their place to this day.
-
-v23: And the Avvim who lived in villages as far as Gaza—the Caphtorim who came out from Caphtor destroyed them and lived in their place.
+v19: When you approach the Ammonites, do not harass them or provoke them to conflict. I will not give you any Ammonite land as a possession, because I have given it to the descendants of Lot as their possession.’
 </p>
 
-## Rise and Take Possession of Sihon’s Land
-
 <p>
-v24: “‘Rise, set out, and cross the Wadi Arnon. See, I have given into your hand Sihon the Amorite, king of Heshbon, and his land. Begin to possess it, and contend with him in battle.
-
-v25: This day I will begin to put the dread and fear of you upon the peoples under all the heavens, who will hear the report of you and tremble and writhe because of you.’
+v20: That too is considered a land of Rephaim. Rephaim lived there before, and the Ammonites called them Zamzummim.
+v21: They were a people great and numerous, as tall as the Anakim. But the LORD destroyed them before the Ammonites, who drove them out and settled in their place.
 </p>
 
-## Sihon Refuses Passage
-
 <p>
-v26: “Then I sent messengers from the wilderness of Kedemoth to Sihon king of Heshbon with words of peace, saying,
-
-v27: ‘Let me pass through your land. I will go only by the road; I will not turn aside to the right or to the left.
-
-v28: You will sell me food for silver so that I may eat, and give me water for silver so that I may drink. Only let me pass through on foot,
-
-v29: just as the children of Esau who live in Seir and the Moabites who live in Ar did for me, until I cross the Jordan into the land that the LORD our God is giving us.’
-
-v30: Yet Sihon king of Heshbon was not willing to let us pass through him, for the LORD your God hardened his spirit and made his heart stubborn, in order to give him into your hand, as he is this day.
+v22: He did the same for Esau's descendants who live in Seir, destroying the Horites before them. They drove them out and settled in their place, where they live to this day.
 </p>
 
-## Israel Defeats Sihon
+<p>
+v23: As for the Avvim who lived in villages as far as Gaza, the Caphtorim who came from Caphtor destroyed them and settled in their place.
+</p>
+
+## The approach to Sihon
 
 <p>
-v31: “The LORD said to me, ‘See, I have begun to give Sihon and his land before you. Begin to possess, so that you may possess his land.’
+v24: ‘Get up, set out, and cross the Wadi Arnon. See, I have handed over to you Sihon the Amorite, king of Heshbon, and his land. Begin taking possession, and engage him in battle.
+v25: Today I will begin to put dread and fear of you on the peoples everywhere under heaven. When they hear reports of you, they will tremble and writhe in anguish because of you.’
+</p>
 
-v32: Then Sihon came out against us, he and all his people, for battle at Jahaz.
+<p>
+v26: From the wilderness of Kedemoth I sent messengers to Sihon king of Heshbon with words of peace.
+v27: ‘Let me pass through your land. I will stay on the road and turn neither right nor left.
+v28: Sell me food for silver so I can eat, and give me water for silver so I can drink. Only let me pass through on foot,
+v29: as Esau's descendants who live in Seir and the Moabites who live in Ar did for me, until I cross the Jordan into the land the LORD our God is giving us.’
+</p>
 
-v33: The LORD our God gave him before us, and we struck him, his sons, and all his people.
+## Sihon refuses passage
 
-v34: We captured all his cities at that time and devoted every city to destruction—men, women, and little children. We left no survivor.
+<p>
+v30: But Sihon king of Heshbon would not let us pass through his territory. The LORD your God had hardened his spirit and made his heart unyielding, to hand him over to you, as he has now done.
+</p>
 
-v35: Only the livestock we took as plunder for ourselves, along with the spoil of the cities that we captured.
+<p>
+v31: The LORD said to me, ‘See, I have begun handing Sihon and his land over to you. Begin taking possession, so that his land becomes yours.’
+</p>
 
-v36: From Aroer, which is on the edge of the Wadi Arnon, and the city that is in the valley, as far as Gilead, there was no city too high for us. The LORD our God gave all before us.
+<p>
+v32: Then Sihon and all his people came out to meet us in battle at Jahaz.
+v33: The LORD our God handed him over to us, and we struck him down, along with his sons and all his people.
+</p>
 
-v37: Only to the land of the children of Ammon you did not draw near: all the side of the Wadi Jabbok, the cities of the hill country, and wherever the LORD our God had commanded us not to go.
+<p>
+v34: At that time we captured all his towns and devoted every town to destruction—men, women, and little children. We left no survivor.
+v35: We took only the livestock as plunder for ourselves, along with the spoil from the towns we captured.
+</p>
+
+<p>
+v36: From Aroer on the edge of the Wadi Arnon, including the town in the wadi, as far as Gilead, no town was too strong for us. The LORD our God handed them all over to us.
+v37: But you did not approach Ammonite land—the whole bank of the Wadi Jabbok and the towns of the hill country—anywhere the LORD our God had forbidden you to go.”
 </p>
 
 ## Notes
 
-v14–15: The thirty-eight years mark the passing of the wilderness generation condemned after Kadesh-Barnea.
+v5, 9, 19: The passage explicitly describes land given by God to Esau and to Lot's descendants. Israel is forbidden to take these territories.
 
-v21–22: The LORD is described as giving victory to Ammon and Edom over earlier inhabitants, again locating Israel within a broader theology of nations and land.
+v10–12, 20–23: These historical asides name earlier inhabitants and the peoples who replaced them. Verse 12 compares the process with Israel's possession of land; the translation preserves the retrospective wording.
 
-v23: Caphtor is associated with the origins of the Philistines and other Aegean-related peoples.
+v14: The thirty-eight years run from the departure from Kadesh-barnea to the crossing of the Wadi Zered. This is a specific interval within the forty-year wilderness period.
 
-v25: The fear of Israel is said to spread before the battle with Sihon, preparing the way for conquest.
+v26–30: The words of peace and refusal of passage remain beside the preceding command to fight. Verse 29 compares what Esau's descendants and the Moabites did; whether the comparison includes passage or chiefly the purchase of supplies is not explicit. Compare Numbers 20:14–21.
 
-v26: Moses first sends “words of peace,” showing that battle with Sihon follows refused passage rather than unannounced attack.
+v30: The account attributes Sihon's refusal to his own unwillingness and to the LORD's hardening of his spirit and heart, with the stated purpose of handing him over.
 
-v30: Sihon’s hardened spirit and stubborn heart echo Pharaoh. Divine hardening and human refusal remain together in the narrative.
+v33: The Hebrew written form has “his son”; the traditional read form has “his sons.” The draft follows the read form. Both are preserved in the source record.
 
-v34: The *herem* language is severe and comprehensive, including noncombatants. TSW preserves the ancient conquest account without turning it into a general authorization of religious violence.
+v34–35: Devotion to destruction here explicitly includes killing men, women, and little children. Livestock and town spoil are taken as plunder. The phrase is not used as a euphemism for expulsion.
 
 ## Vocabulary
 
-v05: יָרַשׁ (yarash)
-“To possess” or “dispossess.” A central verb of land inheritance and conquest.
+v11: Rephaim
+A traditional designation for earlier inhabitants, associated here with peoples of exceptional size. Local names such as Emim and Zamzummim are preserved.
 
-v09: צוּר (tsur)
-“To harass” or “press.” Israel is forbidden to provoke Moab.
+v13: Wadi
+A watercourse or ravine, often carrying water seasonally.
 
-v10: אֵימִים (Emim)
-“Emim.” A people remembered as great and tall.
-
-v11: רְפָאִים (Rephaim)
-“Rephaim.” A people remembered for formidable stature.
-
-v14: תָּמַם (tamam)
-“To come to an end.” Used of the passing wilderness generation.
-
-v25: רֶטֶט (retet)
-“Trembling.” Fear that falls upon surrounding peoples.
-
-v30: קָשָׁה (qashah)
-“To harden.” The LORD makes Sihon’s heart stubborn.
-
-v34: חָרַם (charam)
-“To devote to destruction.” To place under irrevocable ban.
+v34: Devoted to destruction
+Language of the ban, Hebrew herem. Its concrete consequences must be read from the passage; here the human inhabitants are killed.
