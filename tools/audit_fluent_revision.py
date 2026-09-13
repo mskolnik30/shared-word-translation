@@ -55,7 +55,35 @@ def audit(root, ledger, source_bytes):
             if match:
                 check(match[1] not in source_verses, f'duplicate source reference: {match[1]}')
                 source_verses[match[1]] = match[2]
-    references = [v['source_reference'] for v in ledger['verses']]
+    # A public verse can contain several complete source records (e.g. Num 26:1).
+    # Keep each original record and hash separately; never hash normalized joins.
+    references = []
+    for verse in ledger['verses']:
+        if 'source_segments' in verse:
+            segments = verse['source_segments']
+            valid = (isinstance(segments, list) and len(segments) >= 2
+                     and all(isinstance(s, dict)
+                             and isinstance(s.get('source_reference'), str)
+                             and isinstance(s.get('source_verse_sha256'), str)
+                             for s in segments))
+            check(valid, f"invalid source segments: {verse['reference']}")
+            if not valid:
+                continue
+            check(any(s['source_reference'] == verse['source_reference']
+                      and s['source_verse_sha256'] == verse['source_verse_sha256']
+                      for s in segments), f"primary source missing from segments: {verse['reference']}")
+            positions = {ref: i for i, ref in enumerate(source_verses)}
+            indices = [positions.get(s['source_reference'], -1) for s in segments]
+            check(all(i >= 0 for i in indices) and indices == sorted(indices),
+                  f"source segment order differs: {verse['reference']}")
+            for segment in segments:
+                ref = segment['source_reference']
+                references.append(ref)
+                check(ref in source_verses, f"unknown source segment: {ref}")
+                check(sha(source_verses.get(ref, '').encode()) == segment['source_verse_sha256'],
+                      f"source segment hash mismatch: {verse['reference']} / {ref}")
+        else:
+            references.append(verse['source_reference'])
     check(len(references) == len(set(references)), 'duplicate ledger reference')
     check(set(references) == set(source_verses), 'ledger/source coverage differs')
     check(ledger['publication_allowed'] is False, 'draft publication must remain blocked')

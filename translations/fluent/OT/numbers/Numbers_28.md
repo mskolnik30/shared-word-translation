@@ -4,92 +4,120 @@ testament: OT
 chapter: 28
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-25-30-biblical-fluency-2026-09-13
 ---
 
-## The Daily Offering
+## The daily offering
 
 <p>
-v01: The LORD spoke to Moses, saying,
-v02: “Command the Israelites and say to them: Take care to present my offering, my food for my offerings by fire, my pleasing aroma, at its appointed time.
-v03: Say to them: This is the offering by fire that you will present to the LORD: two male lambs a year old without defect each day as a regular burnt offering.
-v04: Offer one lamb in the morning, and offer the other lamb at twilight,
-v05: with one-tenth of an ephah of fine flour as a grain offering mixed with one-fourth of a hin of beaten oil.
-v06: It is a regular burnt offering established at Mount Sinai as a pleasing aroma, an offering by fire to the LORD.
-v07: Its drink offering will be one-fourth of a hin for each lamb. In the holy place pour out a drink offering of strong drink to the LORD.
-v08: Offer the second lamb at twilight. Like the morning grain offering and its drink offering, you will offer it, an offering by fire, a pleasing aroma to the LORD.
+v01: The LORD gave Moses these instructions:
+v02: “Command the Israelites: ‘Take care to bring my offering at its appointed time—my food, presented by fire as a pleasing aroma to me.’
 </p>
 
-## The Sabbath Offering
+<p>
+v03: Tell them: ‘This is the offering by fire you must bring to the LORD: two year-old male lambs without defect each day, as a regular burnt offering.
+v04: Offer one lamb in the morning and the other at twilight.
+v05: With it bring a grain offering of one-tenth of an ephah of fine flour mixed with one-quarter of a hin of oil from beaten olives.
+</p>
 
 <p>
-v09: “On the Sabbath day, offer two male lambs a year old without defect, with two-tenths of an ephah of fine flour mixed with oil as a grain offering, and its drink offering.
+v06: This is the regular burnt offering established at Mount Sinai, an offering by fire, a pleasing aroma to the LORD.
+</p>
+
+<p>
+v07: Its drink offering is one-quarter of a hin for each lamb. Pour out a drink offering of fermented drink to the LORD in the holy place.
+v08: Offer the second lamb at twilight with the same grain and drink offerings as in the morning—an offering by fire, a pleasing aroma to the LORD.
+</p>
+
+## Sabbath and monthly offerings
+
+<p>
+v09: On the Sabbath, offer two year-old male lambs without defect, with a grain offering of two-tenths of an ephah of fine flour mixed with oil, and its drink offering.
 v10: This is the burnt offering for every Sabbath, in addition to the regular burnt offering and its drink offering.
 </p>
 
-## The New Moon Offering
-
 <p>
-v11: “At the beginnings of your months you will present a burnt offering to the LORD: two young bulls, one ram, and seven male lambs a year old without defect;
-v12: three-tenths of an ephah of fine flour mixed with oil as a grain offering for each bull; two-tenths of fine flour mixed with oil as a grain offering for the one ram;
-v13: and one-tenth of fine flour mixed with oil as a grain offering for each lamb, a burnt offering, a pleasing aroma, an offering by fire to the LORD.
-v14: Their drink offerings will be half a hin of wine for each bull, one-third of a hin for the ram, and one-fourth of a hin for each lamb. This is the burnt offering of each month throughout the months of the year.
-v15: Also one male goat will be offered to the LORD as a sin offering, in addition to the regular burnt offering and its drink offering.
-</p>
-
-## Passover and the Festival of Unleavened Bread
-
-<p>
-v16: “In the first month, on the fourteenth day of the month, is the LORD’s Passover.
-v17: On the fifteenth day of this month there will be a festival. Unleavened bread will be eaten for seven days.
-v18: On the first day there will be a holy convocation; you will do no regular work.
-v19: You will present an offering by fire as a burnt offering to the LORD: two young bulls, one ram, and seven male lambs a year old; they will be without defect.
-v20: Their grain offering will be fine flour mixed with oil: three-tenths for each bull, two-tenths for the ram,
-v21: and one-tenth for each of the seven lambs;
-v22: also one male goat as a sin offering to make atonement for you.
+v11: At the beginning of each month, bring the LORD a burnt offering of two young bulls, one ram and seven year-old male lambs, all without defect.
+v12: For each bull bring a grain offering of three-tenths of an ephah of fine flour mixed with oil, and for the ram two-tenths of an ephah of fine flour mixed with oil.
+v13: For each lamb bring one-tenth of an ephah of fine flour mixed with oil as a grain offering. This is a burnt offering, a pleasing aroma, an offering by fire to the LORD.
 </p>
 
 <p>
-v23: You will offer these in addition to the morning burnt offering, which is the regular burnt offering.
-v24: In this way you will offer daily for seven days the food of an offering by fire, a pleasing aroma to the LORD. It will be offered in addition to the regular burnt offering and its drink offering.
-v25: On the seventh day you will have a holy convocation; you will do no regular work.
+v14: The drink offerings of wine are half a hin for each bull, one-third of a hin for the ram and one-quarter of a hin for each lamb. This is the monthly burnt offering for every month of the year.
 </p>
 
-## The Festival of Weeks
+<p>
+v15: Also offer one male goat as a sin offering to the LORD, in addition to the regular burnt offering and its drink offering.
+</p>
+
+## Passover and unleavened bread
 
 <p>
-v26: “On the day of the firstfruits, when you present a new grain offering to the LORD at your Festival of Weeks, you will have a holy convocation; you will do no regular work.
-v27: You will present a burnt offering as a pleasing aroma to the LORD: two young bulls, one ram, and seven male lambs a year old.
-v28: Their grain offering will be fine flour mixed with oil: three-tenths for each bull, two-tenths for the one ram,
-v29: and one-tenth for each of the seven lambs;
-v30: also one male goat to make atonement for you.
-v31: You will offer them in addition to the regular burnt offering and its grain offering. They will be without defect, with their drink offerings.
+v16: On the fourteenth day of the first month, observe the LORD’s Passover.
+v17: The festival begins on the fifteenth day of that month. For seven days unleavened bread is to be eaten.
+v18: On the first day, hold a holy assembly. Do no ordinary work.
+</p>
+
+<p>
+v19: Bring an offering by fire, a burnt offering to the LORD: two young bulls, one ram and seven year-old male lambs, all without defect.
+v20: Their grain offering is fine flour mixed with oil: three-tenths of an ephah for each bull and two-tenths for the ram.
+v21: Bring one-tenth of an ephah for each of the seven lambs.
+v22: Bring one male goat as a sin offering to make atonement for you.
+</p>
+
+<p>
+v23: Bring these offerings in addition to the morning burnt offering that belongs to the regular burnt offering.
+v24: Do this each day for seven days: food presented by fire, a pleasing aroma to the LORD. These offerings are in addition to the regular burnt offering and its drink offering.
+</p>
+
+<p>
+v25: On the seventh day, hold a holy assembly. Do no ordinary work.
+</p>
+
+## The day of firstfruits
+
+<p>
+v26: On the day of firstfruits, when you bring the LORD a grain offering from the new harvest at your Festival of Weeks, hold a holy assembly. Do no ordinary work.
+</p>
+
+<p>
+v27: Bring a burnt offering as a pleasing aroma to the LORD: two young bulls, one ram and seven year-old male lambs.
+v28: Their grain offering is fine flour mixed with oil: three-tenths of an ephah for each bull and two-tenths for the ram.
+v29: Bring one-tenth of an ephah for each of the seven lambs,
+v30: and one male goat to make atonement for you.
+v31: Bring these, with their drink offerings, in addition to the regular burnt offering and its grain offering. The animals must be without defect.’”
 </p>
 
 ## Notes
 
-v02: “my food” is sacrificial language for offerings presented to the LORD; it does not imply divine need for nourishment.
+v2–8: The language of food and pleasing aroma is retained as the text’s sacrificial imagery. The morning and twilight offerings establish a daily rhythm that the later festival offerings supplement.
 
-v03–08: The daily offering creates a morning-and-evening rhythm that continues beneath the additional Sabbath, monthly, and festival offerings.
+v4, 8: “Twilight” renders the Hebrew “between the evenings,” an expression whose exact time boundaries have been understood differently.
 
-v11: New moons mark the beginning of months within Israel’s ritual calendar.
+v7, 14: Verse 7 names fermented drink; verse 14 explicitly names wine. The draft keeps that difference without suggesting modern distilled liquor.
 
-v16–25: Passover and Unleavened Bread are joined but remain distinguishable: Passover is on the fourteenth day, while the seven-day festival begins on the fifteenth.
+v9–15: The Sabbath offering adds two lambs to the daily offering. The monthly offering adds two bulls, one ram, seven lambs and a sin-offering goat. Flour and drink measures vary with the kind of animal.
 
-v26: “firstfruits” and “Festival of Weeks” connect agricultural harvest with sacred assembly and offering.
+v16–25: Passover falls on the fourteenth day of the first month; the seven-day unleavened-bread festival begins on the fifteenth. First and seventh days have holy assemblies and an ordinary-work restriction.
+
+v26–31: The firstfruits offering belongs to the Festival of Weeks. This list is preserved on its own terms rather than altered to match Leviticus 23’s related festival instructions.
 
 ## Vocabulary
 
-v02: קָרְבָּן (qorban)
-“Offering.” Something brought near and presented to God.
+v3: Regular burnt offering
+The recurring daily offering. Additional Sabbath and festival offerings do not replace it.
 
-v03: תָּמִיד (tamid)
-“Regular” or “continual.” Repeated according to a fixed ongoing rhythm.
+v5: Ephah and hin
+An ephah measures dry goods and a hin measures liquids. The ancient units preserve the stated ratios without falsely precise modern conversions.
 
-v07: שֵׁכָר (shekhar)
-“Strong drink.” An intoxicating drink used here as a poured offering.
+v7: Drink offering
+Liquid poured out to the LORD as part of the offering.
 
-v11: חֹדֶשׁ (chodesh)
-“Month” or “new moon.” The monthly cycle beginning with the new moon.
+v15: Sin offering
+Also called a purification offering. It remains distinct from the burnt offering and its grain and drink accompaniments.
 
-v26: בִּכּוּרִים (bikkurim)
-“Firstfruits.” The first produce of harvest presented to the LORD.
+v17: Unleavened bread
+Bread made without leaven; its seven-day use recalls the departure from Egypt.

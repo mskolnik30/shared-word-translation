@@ -2,275 +2,115 @@
   "book": "Numbers",
   "chapter": 30,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
+  "publication_allowed": false,
+  "revision_id": "fluent-numbers-25-30-biblical-fluency-2026-09-13",
+  "supersedes": {
+    "commit": "139400ef537e1121695f777f836cd16cc2afffa8",
+    "path": "audit/exegetical-core/fluent-production/numbers/Numbers_30_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Num",
+    "book_verse_count": 1289,
+    "scope_chapters": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Num.xml",
-    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Num.xml",
     "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Numbers 30:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 2,
-            "source_ref": "Numbers 30:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "92aa6681e951ee50632e0db235a0a89fc4ae6bc5fb42aa4f3d9db6892fb9d01b"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "92aa6681e951ee50632e0db235a0a89fc4ae6bc5fb42aa4f3d9db6892fb9d01b"
-      },
-      "2": {
-        "source_ref": "Numbers 30:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 3,
-            "source_ref": "Numbers 30:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "87d869fcac41ee5589111b1537b5162fc7b3270b6dd17296a9b1e7d747fec872"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "87d869fcac41ee5589111b1537b5162fc7b3270b6dd17296a9b1e7d747fec872"
-      },
-      "3": {
-        "source_ref": "Numbers 30:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 4,
-            "source_ref": "Numbers 30:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "885b46270ab412062e2b312e740d215d31bf31a0d94c9b152f5048dfc2418629"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "885b46270ab412062e2b312e740d215d31bf31a0d94c9b152f5048dfc2418629"
-      },
-      "4": {
-        "source_ref": "Numbers 30:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 5,
-            "source_ref": "Numbers 30:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "e9b0d415778081a23e3c20a752d355786314e964da005bb2622f123987518c1e"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "e9b0d415778081a23e3c20a752d355786314e964da005bb2622f123987518c1e"
-      },
-      "5": {
-        "source_ref": "Numbers 30:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 6,
-            "source_ref": "Numbers 30:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "06793e41433671d449075680ab5b1ed8f8ede5a7ef86f3982caa61d5a5bc6701"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "06793e41433671d449075680ab5b1ed8f8ede5a7ef86f3982caa61d5a5bc6701"
-      },
-      "6": {
-        "source_ref": "Numbers 30:7 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 7,
-            "source_ref": "Numbers 30:7 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "3d8d3f25f1daee43550fa291e65779775db14602589f181f5f768d0014b6a17d"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "3d8d3f25f1daee43550fa291e65779775db14602589f181f5f768d0014b6a17d"
-      },
-      "7": {
-        "source_ref": "Numbers 30:8 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 8,
-            "source_ref": "Numbers 30:8 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "c36fad5ecb722acf22685a16f659cf9a274c91953d567edff1883fe499fe32dd"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "c36fad5ecb722acf22685a16f659cf9a274c91953d567edff1883fe499fe32dd"
-      },
-      "8": {
-        "source_ref": "Numbers 30:9 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 9,
-            "source_ref": "Numbers 30:9 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "972d4281357cd0c3ee26736ccd6f2b7d0298001fdd7d241fd81385c17e9e4ae9"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "972d4281357cd0c3ee26736ccd6f2b7d0298001fdd7d241fd81385c17e9e4ae9"
-      },
-      "9": {
-        "source_ref": "Numbers 30:10 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 10,
-            "source_ref": "Numbers 30:10 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "33d460b5923b5af5ca23a90d60eb3557f71336975df9b573559fc779a965c517"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "33d460b5923b5af5ca23a90d60eb3557f71336975df9b573559fc779a965c517"
-      },
-      "10": {
-        "source_ref": "Numbers 30:11 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 11,
-            "source_ref": "Numbers 30:11 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "65ba326ab7acb6842e2cf37b2e689ada3458991c84645dca68b217a3b714e245"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "65ba326ab7acb6842e2cf37b2e689ada3458991c84645dca68b217a3b714e245"
-      },
-      "11": {
-        "source_ref": "Numbers 30:12 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 12,
-            "source_ref": "Numbers 30:12 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "85f0273042466a360e1d62fba5039fa3db6007e5c312899d939cfce9def6e456"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "85f0273042466a360e1d62fba5039fa3db6007e5c312899d939cfce9def6e456"
-      },
-      "12": {
-        "source_ref": "Numbers 30:13 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 13,
-            "source_ref": "Numbers 30:13 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "61c1177eb83e86f7ff8c49e3839a539eb652017ae3e375e0d75c194a79be16ef"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "61c1177eb83e86f7ff8c49e3839a539eb652017ae3e375e0d75c194a79be16ef"
-      },
-      "13": {
-        "source_ref": "Numbers 30:14 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 14,
-            "source_ref": "Numbers 30:14 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "6b13ffcf3f649a0ad54451543a0ad16cf7c03208f25ad420c0da6c4d24dda075"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "6b13ffcf3f649a0ad54451543a0ad16cf7c03208f25ad420c0da6c4d24dda075"
-      },
-      "14": {
-        "source_ref": "Numbers 30:15 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 15,
-            "source_ref": "Numbers 30:15 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "6446b35b1b9132111a415a83f9361a12e35d31b0cfe0641279bd32ab0e7e9ef6"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "6446b35b1b9132111a415a83f9361a12e35d31b0cfe0641279bd32ab0e7e9ef6"
-      },
-      "15": {
-        "source_ref": "Numbers 30:16 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 16,
-            "source_ref": "Numbers 30:16 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "754dbdb978f17e0d76cd95ffae493ea45738a1386fcfb5490f8874a0874cd996"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "754dbdb978f17e0d76cd95ffae493ea45738a1386fcfb5490f8874a0874cd996"
-      },
-      "16": {
-        "source_ref": "Numbers 30:17 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 30,
-            "verse": 17,
-            "source_ref": "Numbers 30:17 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "66b9c090a0d10b342f6e690e81cfd86bf4c806d5f368f5a2a8468b2e29d6bb64"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "66b9c090a0d10b342f6e690e81cfd86bf4c806d5f368f5a2a8468b2e29d6bb64"
-      }
+    "sha256": "5be7f0c196a84eacc39c0ef751c5cdba82218d41cf9ed4e6107ae5ac715ffccf",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Num.xml",
+    "verse_hash_method": "SHA-256 of the exact original XML verse substring, including written/read notes, not a normalized substitute.",
+    "public_versification_note": "Public 25:1–18, 26:2–65, 27–28 and 29:1–39 align directly. Public 26:1 combines Hebrew 25:19 and 26:1, each bound separately in source_segments. Public 29:40 maps to Hebrew 30:1; public 30:1–16 maps to Hebrew 30:2–17. All 194 original records are hashed exactly for 193 public verses."
+  },
+  "chapter_binding": {
+    "chapter": 30,
+    "verse_count": 16,
+    "path": "translations/fluent/OT/numbers/Numbers_30.md",
+    "before_sha256": "a4c826a5809a96187450f99d53ae19bedbf6b896e4e6b6edc7ec299ca96b11b3",
+    "after_sha256": "601e17659e958a0b9d96b6bf9e5f6f8840fa7139f46883fbe24faa963145f0cc",
+    "tsw_comparator_path": "books/OT/numbers/Numbers_30.md",
+    "tsw_comparator_sha256": "8e9472b37a7153574030868f9cfc04390ce2bf23f39d7ddda3e8fc6e94c9d8bd"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-13-numbers-25-30/numbers-verse-review.json",
+  "public_versification": {
+    "1–16": "Num 30:2–17"
+  },
+  "key_decisions": [
+    {
+      "location": "Numbers 30:2",
+      "delta": "F3",
+      "decision": "Keeps male referent because the chapter distinguishes men and women; retains vow, oath and full spoken obligation.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:3",
+      "delta": "F3",
+      "decision": "Preserves youth and residence as conditions rather than applying the rule to every unmarried adult woman.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:5",
+      "delta": "F3",
+      "decision": "Retains same-day limit and divine forgiveness rather than removing the theological term; a note explains release from the obligation in context.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:6",
+      "delta": "F3",
+      "decision": "Chooses marriage with an existing obligation, noting the alternative already-married reading; preserves rash speech as a separate category.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:8",
+      "delta": "F3",
+      "decision": "Preserves the husband’s same-day veto, both speech categories and divine forgiveness without presenting the arrangement as gender-symmetrical.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:9",
+      "delta": "F3",
+      "decision": "Retains the distinct binding force of these women’s vows rather than extending a male relative’s veto to them.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:10",
+      "delta": "F3",
+      "decision": "Treats this as the case of vows made within marriage, with the alternative retrospective connection to verse 9 noted.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:12",
+      "delta": "F3",
+      "decision": "Keeps emphatic cancellation, same-day timing, full spoken scope and repeated cancellation/forgiveness clauses.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:13",
+      "delta": "F3",
+      "decision": "Retains self-affliction qualification and husband’s unequal authority without restricting the obligation only to fasting.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:15",
+      "delta": "F3",
+      "decision": "Retains after-hearing timing and transfer of guilt, with later-than-initial-silence context explained in a note rather than changing the condition silently.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Numbers 30:16",
+      "delta": "F3",
+      "decision": "Preserves relational and residence scope in the narrator’s conclusion; binds Hebrew 30:17.",
+      "disposition": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/numbers/Numbers_30.md",
-    "blob_sha": "b6fcde7559fe5fc216402989a4b5b95ca32e401f"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

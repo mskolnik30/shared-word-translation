@@ -4,76 +4,77 @@ testament: OT
 chapter: 25
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-25-30-biblical-fluency-2026-09-13
 ---
 
-## Israel Joins Baal of Peor
+## Israel joins Baal of Peor
 
 <p>
-v01: Israel stayed at Shittim, and the people began to prostitute themselves with the daughters of Moab.
-v02: They invited the people to the sacrifices of their gods, and the people ate and bowed down to their gods.
-v03: Israel joined itself to Baal of Peor, and the anger of the LORD burned against Israel.
-v04: The LORD said to Moses, “Take all the leaders of the people and hang them before the LORD in the sun, so that the burning anger of the LORD may turn away from Israel.”
-v05: So Moses said to the judges of Israel, “Each of you kill your men who have joined themselves to Baal of Peor.”
+v01: While Israel was staying at Shittim, the people began to prostitute themselves with the women of Moab.
+v02: The women invited the people to the sacrifices of their gods. The people ate and bowed down to those gods.
+v03: Israel yoked itself to Baal of Peor, and the LORD’s anger burned against Israel.
 </p>
 
-## Phinehas Stops the Plague
-
 <p>
-v06: And look—one of the Israelites came and brought a Midianite woman to his brothers before the eyes of Moses and the whole congregation of the Israelites while they were weeping at the entrance of the Tent of Meeting.
-v07: When Phinehas son of Eleazar, son of Aaron the priest, saw it, he rose from the midst of the congregation and took a spear in his hand.
-v08: He went after the Israelite man into the inner chamber and pierced both of them, the Israelite man and the woman through her body. Then the plague against the Israelites was stopped.
-v09: People who died by the plague were twenty-four thousand.
+v04: The LORD told Moses, “Seize all the leaders of the people and hang them up before the LORD in broad daylight, so that the LORD’s fierce anger may turn away from Israel.”
 </p>
 
-## A Covenant of Peace with Phinehas
-
 <p>
-v10: The LORD spoke to Moses, saying,
-v11: “Phinehas son of Eleazar, son of Aaron the priest, has turned my wrath away from the Israelites by being zealous with my zeal among them, so that I did not consume the Israelites in my zeal.
-v12: So say: Look, I am giving him my covenant of peace.
-v13: It will be for him and for his offspring after him a covenant of perpetual priesthood, because he was zealous for his God and made atonement for the Israelites.”
+v05: Moses told Israel’s judges, “Each of you must kill the men under your authority who have yoked themselves to Baal of Peor.”
 </p>
 
-## The Man and Woman Identified
-
 <p>
-v14: The name of the Israelite man who was struck down with the Midianite woman was Zimri son of Salu, a leader of an ancestral house among the Simeonites.
-v15: The name of the Midianite woman who was struck down was Cozbi daughter of Zur, who was head of a people, an ancestral house in Midian.
+v06: Just then an Israelite man came and brought a Midianite woman to his own people, in full view of Moses and the whole Israelite community. They were weeping at the entrance of the tent of meeting.
+v07: Phinehas son of Eleazar, son of Aaron the priest, saw this. He rose from among the community and took a spear in his hand.
+v08: He followed the Israelite man into the tent and drove the spear through both of them—the Israelite man and the woman, through her abdomen. Then the plague among the Israelites stopped.
 </p>
 
-## Hostility Toward Midian
+<p>
+v09: Twenty-four thousand people died in the plague.
+</p>
+
+## Phinehas and the covenant of peace
 
 <p>
-v16: The LORD spoke to Moses, saying,
+v10: The LORD said to Moses:
+v11: “Phinehas son of Eleazar, son of Aaron the priest, has turned my fury away from the Israelites. He acted among them with my own zeal, so I did not consume the Israelites in my zeal.
+v12: So announce: ‘I am giving him my covenant of peace.
+v13: It will be a covenant of lasting priesthood for him and his descendants after him, because he was zealous for his God and made atonement for the Israelites.’”
+</p>
+
+<p>
+v14: The Israelite man killed with the Midianite woman was Zimri son of Salu, the leader of an ancestral house among the Simeonites.
+v15: The Midianite woman who was killed was Cozbi daughter of Zur. Her father was a leader of the clans in Midian, the head of an ancestral house.
+</p>
+
+<p>
+v16: The LORD said to Moses:
 v17: “Treat the Midianites as enemies and strike them,
-v18: for they have treated you as enemies with their schemes by which they deceived you in the matter of Peor and in the matter of Cozbi, their sister, daughter of a leader of Midian, who was struck down on the day of the plague because of Peor.”
+v18: because they treated you as enemies with the schemes they used against you in the affair of Peor and the affair of Cozbi, their kinswoman, the daughter of a Midianite leader. She was killed on the day of the plague over Peor.”
 </p>
 
 ## Notes
 
-v01–03: Sexual relations, sacrificial meals, and worship are interwoven in the episode. The language of prostitution also resonates with covenantal unfaithfulness.
+v1–3: The language of prostitution links sexual conduct and unfaithfulness. The passage describes eating sacrifices and bowing to other gods, but does not specify payment for sex or explain a fertility rite. The women in the opening scene are Moabite; the woman in verse 6 is Midianite.
 
-v04: The command concerning the leaders is severe and its precise relationship to the executions ordered in v05 is compressed. TSW preserves both instructions without harmonizing them.
+v4–5: The punishment in verse 4 is public and severe. Its verb has been understood as hanging or impalement, including exposure of executed bodies. “Them” most naturally refers to the leaders just named, though some understand the offenders more generally. Verse 5 separately directs the judges to kill the men who joined Baal of Peor.
 
-v08: The Hebrew location and anatomy are both unusually terse. The violence is narrated directly rather than expanded with details the text does not supply.
+v8: The rare words for the tent or chamber and the woman’s abdomen sound alike. The exact kind of tent is uncertain. The verse describes the stabbing of both people but does not explicitly describe their position or say that intercourse was in progress.
 
-v11: Phinehas’ action is interpreted within the narrative as zeal corresponding to the LORD’s zeal. The translation reports that interpretation without making the episode a general authorization of religious violence.
+v11–13: The repeated word for zeal can also mean jealousy. The account attributes the turning away of anger and the covenant of peace to the LORD; the translation keeps those claims alongside the killing, without adding a doctrinal explanation of it.
 
-v12: “covenant of peace” stands in deliberate tension with the violent act that immediately precedes it, a tension the text itself does not resolve.
+v15: Zur’s status is described with compressed language about peoples and an ancestral house. Cozbi’s own name and lineage remain part of the account.
 
 ## Vocabulary
 
-v03: צָמַד (tsamad)
-“To join” or “bind oneself.” Israel attaches itself to Baal of Peor.
+v3: Baal of Peor
+The Baal associated with Peor. “Yoked itself” pictures Israel’s attachment to this deity.
 
-v03: בַּעַל פְּעוֹר (Baal Peor)
-“Baal of Peor.” A local manifestation or cultic title of Baal.
+v12: Covenant of peace
+An enduring pledged relationship, here joined to the priesthood in the following verse.
 
-v11: קָנָא (qana)
-“To be zealous” or “jealous.” Intense covenantal passion.
-
-v12: בְּרִית שָׁלוֹם (berit shalom)
-“Covenant of peace.” The covenant promised to Phinehas.
-
-v18: נֵכֶל (nekhel)
-“Scheme” or “deception.” Deliberate strategy used against Israel.
+v13: Atonement
+Language for addressing a breach between God and the people. The term is retained here even though this scene does not describe an animal offering.

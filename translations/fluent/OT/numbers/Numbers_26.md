@@ -4,176 +4,192 @@ testament: OT
 chapter: 26
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-25-30-biblical-fluency-2026-09-13
 ---
 
-## The Second Census
+## A new census
 
 <p>
-v01: After the plague, the LORD spoke to Moses and to Eleazar son of Aaron the priest, saying,
-v02: “Take a census of the whole congregation of the Israelites, from twenty years old and upward, by their ancestral houses, everyone able to go out to war in Israel.”
-v03: Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,
-v04: “Count them from twenty years old and upward, as the LORD commanded Moses.” These were the Israelites who came out from the land of Egypt.
-</p>
-
-## Reuben
-
-<p>
-v05: Reuben, the firstborn of Israel. The descendants of Reuben: from Hanoch, the clan of the Hanochites; from Pallu, the clan of the Palluites;
-v06: from Hezron, the clan of the Hezronites; from Carmi, the clan of the Carmites.
-v07: These were the clans of the Reubenites, and those counted among them were forty-three thousand seven hundred thirty.
-v08: The son of Pallu was Eliab.
-v09: The sons of Eliab were Nemuel, Dathan, and Abiram. These were the Dathan and Abiram called from the congregation who contended against Moses and Aaron in the company of Korah when they contended against the LORD,
-v10: and the earth opened its mouth and swallowed them together with Korah when that company died, when the fire consumed the two hundred fifty men, and they became a sign.
-v11: But the sons of Korah did not die.
-</p>
-
-## Simeon
-
-<p>
-v12: The descendants of Simeon by their clans: from Nemuel, the clan of the Nemuelites; from Jamin, the clan of the Jaminites; from Jachin, the clan of the Jachinites;
-v13: from Zerah, the clan of the Zerahites; from Shaul, the clan of the Shaulites.
-v14: These were the clans of the Simeonites: twenty-two thousand two hundred.
-</p>
-
-## Gad
-
-<p>
-v15: The descendants of Gad by their clans: from Zephon, the clan of the Zephonites; from Haggi, the clan of the Haggites; from Shuni, the clan of the Shunites;
-v16: from Ozni, the clan of the Oznites; from Eri, the clan of the Erites;
-v17: from Arod, the clan of the Arodites; from Areli, the clan of the Arelites.
-v18: These were the clans of the descendants of Gad according to those counted among them: forty thousand five hundred.
-</p>
-
-## Judah
-
-<p>
-v19: The sons of Judah were Er and Onan; Er and Onan died in the land of Canaan.
-v20: The descendants of Judah by their clans were: from Shelah, the clan of the Shelanites; from Perez, the clan of the Perezites; from Zerah, the clan of the Zerahites.
-v21: The descendants of Perez were: from Hezron, the clan of the Hezronites; from Hamul, the clan of the Hamulites.
-v22: These were the clans of Judah according to those counted among them: seventy-six thousand five hundred.
-</p>
-
-## Issachar
-
-<p>
-v23: The descendants of Issachar by their clans: from Tola, the clan of the Tolaites; from Puvah, the clan of the Punites;
-v24: from Jashub, the clan of the Jashubites; from Shimron, the clan of the Shimronites.
-v25: These were the clans of Issachar according to those counted among them: sixty-four thousand three hundred.
-</p>
-
-## Zebulun
-
-<p>
-v26: The descendants of Zebulun by their clans: from Sered, the clan of the Seredites; from Elon, the clan of the Elonites; from Jahleel, the clan of the Jahleelites.
-v27: These were the clans of the Zebulunites according to those counted among them: sixty thousand five hundred.
-</p>
-
-## Joseph: Manasseh and Ephraim
-
-<p>
-v28: The descendants of Joseph by their clans were Manasseh and Ephraim.
-v29: The descendants of Manasseh: from Machir, the clan of the Machirites; Machir became the father of Gilead; from Gilead, the clan of the Gileadites.
-v30: These were the descendants of Gilead: from Iezer, the clan of the Iezerites; from Helek, the clan of the Helekites;
-v31: from Asriel, the clan of the Asrielites; from Shechem, the clan of the Shechemites;
-v32: from Shemida, the clan of the Shemidaites; from Hepher, the clan of the Hepherites.
-v33: Now Zelophehad son of Hepher had no sons, but daughters. The names of Zelophehad’s daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
-v34: These were the clans of Manasseh, and those counted among them were fifty-two thousand seven hundred.
+v01: After the plague, the LORD said to Moses and Eleazar son of Aaron the priest:
+v02: “Take a census of the whole Israelite community by ancestral house: everyone twenty years old and up who is able to serve in Israel’s army.”
 </p>
 
 <p>
-v35: These were the descendants of Ephraim by their clans: from Shuthelah, the clan of the Shuthelahites; from Becher, the clan of the Becherites; from Tahan, the clan of the Tahanites.
-v36: These were the descendants of Shuthelah: from Eran, the clan of the Eranites.
-v37: These were the clans of the Ephraimites according to those counted among them: thirty-two thousand five hundred. These were the descendants of Joseph by their clans.
+v03: Moses and Eleazar the priest addressed the people on the plains of Moab, by the Jordan across from Jericho.
+v04: The count was to include those twenty years old and up, as the LORD had commanded Moses and the Israelites who came out of Egypt.
 </p>
 
-## Benjamin
+## The tribes and their clans
 
 <p>
-v38: The descendants of Benjamin by their clans: from Bela, the clan of the Belaites; from Ashbel, the clan of the Ashbelites; from Ahiram, the clan of the Ahiramites;
-v39: from Shephupham, the clan of the Shuphamites; from Hupham, the clan of the Huphamites.
-v40: The sons of Bela were Ard and Naaman: from Ard, the clan of the Ardites; from Naaman, the clan of the Naamites.
-v41: These were the descendants of Benjamin by their clans, and those counted among them were forty-five thousand six hundred.
+v05: Reuben was Israel’s firstborn. His descendants formed these clans: from Hanoch, the Hanochite clan; from Pallu, the Palluite clan;
+v06: from Hezron, the Hezronite clan; and from Carmi, the Carmite clan.
+v07: These were the Reubenite clans. Their census total was forty-three thousand seven hundred and thirty.
 </p>
 
-## Dan
-
 <p>
-v42: These were the descendants of Dan by their clans: from Shuham, the clan of the Shuhamites. These were the clans of Dan by their clans.
-v43: All the clans of the Shuhamites, according to those counted among them, were sixty-four thousand four hundred.
+v08: Pallu’s son was Eliab.
+v09: Eliab’s sons were Nemuel, Dathan and Abiram. These were the same Dathan and Abiram who were chosen representatives of the community. They opposed Moses and Aaron with Korah’s company when that company opposed the LORD.
+v10: The earth opened its mouth and swallowed them and Korah when that company died. Fire consumed two hundred and fifty men, and they became a warning sign.
 </p>
 
-## Asher
-
 <p>
-v44: The descendants of Asher by their clans: from Imnah, the clan of the Imnites; from Ishvi, the clan of the Ishvites; from Beriah, the clan of the Beriites.
-v45: From the descendants of Beriah: from Heber, the clan of the Heberites; from Malchiel, the clan of the Malchielites.
-v46: The name of Asher’s daughter was Serah.
-v47: These were the clans of the descendants of Asher according to those counted among them: fifty-three thousand four hundred.
+v11: But Korah’s sons did not die.
 </p>
 
-## Naphtali
-
 <p>
-v48: The descendants of Naphtali by their clans: from Jahzeel, the clan of the Jahzeelites; from Guni, the clan of the Gunites;
-v49: from Jezer, the clan of the Jezerites; from Shillem, the clan of the Shillemites.
-v50: These were the clans of Naphtali by their clans, and those counted among them were forty-five thousand four hundred.
+v12: Simeon’s descendants formed these clans: from Nemuel, the Nemuelite clan; from Jamin, the Jaminite clan; from Jachin, the Jachinite clan;
+v13: from Zerah, the Zerahite clan; and from Shaul, the Shaulite clan.
+v14: These were the Simeonite clans, totaling twenty-two thousand two hundred.
 </p>
 
-## The Land to Be Divided
-
 <p>
-v51: These were those counted among the Israelites: six hundred one thousand seven hundred thirty.
-v52: The LORD spoke to Moses, saying,
-v53: “To these the land will be divided as an inheritance according to the number of names.
-v54: To the larger group you will give a larger inheritance, and to the smaller group you will give a smaller inheritance; each will be given an inheritance according to those counted among them.
-v55: Even so, the land will be divided by lot. They will inherit according to the names of their ancestral tribes.
-v56: According to the lot their inheritance will be divided between the larger and the smaller.”
+v15: Gad’s descendants formed these clans: from Zephon, the Zephonite clan; from Haggi, the Haggite clan; from Shuni, the Shunite clan;
+v16: from Ozni, the Oznite clan; from Eri, the Erite clan;
+v17: from Arod, the Arodite clan; and from Areli, the Arelite clan.
+v18: These were the clans of Gad’s descendants. Their census total was forty thousand five hundred.
 </p>
 
-## The Levites Counted
-
 <p>
-v57: These were those counted among the Levites by their clans: from Gershon, the clan of the Gershonites; from Kohath, the clan of the Kohathites; from Merari, the clan of the Merarites.
-v58: These were the clans of Levi: the clan of the Libnites, the clan of the Hebronites, the clan of the Mahlites, the clan of the Mushites, and the clan of the Korahites. Kohath became the father of Amram.
-v59: The name of Amram’s wife was Jochebed daughter of Levi, who was born to Levi in Egypt. She bore to Amram Aaron and Moses and Miriam their sister.
-v60: To Aaron were born Nadab, Abihu, Eleazar, and Ithamar.
-v61: Nadab and Abihu died when they presented unauthorized fire before the LORD.
-v62: Those counted among the Levites were twenty-three thousand, every male from one month old and upward. They were not counted among the Israelites because no inheritance was given to them among the Israelites.
+v19: Judah’s sons Er and Onan died in the land of Canaan.
+v20: Judah’s descendants formed these clans: from Shelah, the Shelanite clan; from Perez, the Perezite clan; and from Zerah, the Zerahite clan.
+v21: Perez’s descendants formed two clans: from Hezron, the Hezronite clan; and from Hamul, the Hamulite clan.
+v22: These were Judah’s clans. Their census total was seventy-six thousand five hundred.
 </p>
 
-## A New Generation
+<p>
+v23: Issachar’s descendants formed these clans: from Tola, the Tolaite clan; from Puvah, the Punite clan;
+v24: from Jashub, the Jashubite clan; and from Shimron, the Shimronite clan.
+v25: These were Issachar’s clans. Their census total was sixty-four thousand three hundred.
+</p>
 
 <p>
-v63: These were those counted by Moses and Eleazar the priest, who counted the Israelites in the plains of Moab by the Jordan at Jericho.
-v64: But among these there was not one of those counted by Moses and Aaron the priest when they counted the Israelites in the wilderness of Sinai.
-v65: For the LORD had said concerning them, “They will surely die in the wilderness.” Not one of them remained except Caleb son of Jephunneh and Joshua son of Nun.
+v26: Zebulun’s descendants formed these clans: from Sered, the Seredite clan; from Elon, the Elonite clan; and from Jahleel, the Jahleelite clan.
+v27: These were the Zebulunite clans. Their census total was sixty thousand five hundred.
+</p>
+
+<p>
+v28: Joseph’s descendants were grouped in the clans of Manasseh and Ephraim.
+v29: Manasseh’s descendants included the Machirite clan, from Machir. Machir fathered Gilead, and from Gilead came the Gileadite clan.
+</p>
+
+<p>
+v30: Gilead’s descendants formed these clans: from Iezer, the Iezerite clan; from Helek, the Helekite clan;
+v31: from Asriel, the Asrielite clan; from Shechem, the Shechemite clan;
+v32: from Shemida, the Shemidaite clan; and from Hepher, the Hepherite clan.
+</p>
+
+<p>
+v33: Zelophehad son of Hepher had no sons, only daughters. Their names were Mahlah, Noah, Hoglah, Milcah and Tirzah.
+v34: These were Manasseh’s clans. Their census total was fifty-two thousand seven hundred.
+</p>
+
+<p>
+v35: Ephraim’s descendants formed these clans: from Shuthelah, the Shuthelahite clan; from Becher, the Becherite clan; and from Tahan, the Tahanite clan.
+v36: From Shuthelah’s descendant Eran came the Eranite clan.
+v37: These were the clans of Ephraim’s descendants. Their census total was thirty-two thousand five hundred. These were Joseph’s descendants by their clans.
+</p>
+
+<p>
+v38: Benjamin’s descendants formed these clans: from Bela, the Belaite clan; from Ashbel, the Ashbelite clan; from Ahiram, the Ahiramite clan;
+v39: from Shephupham, the Shuphamite clan; and from Hupham, the Huphamite clan.
+v40: Bela’s sons were Ard and Naaman. From Ard came the Ardite clan; from Naaman, the Naamite clan.
+v41: These were Benjamin’s descendants by their clans. Their census total was forty-five thousand six hundred.
+</p>
+
+<p>
+v42: Dan’s descendants formed the Shuhamite clan, from Shuham. These were Dan’s clans, listed by their families.
+v43: The census total for all the Shuhamite clans was sixty-four thousand four hundred.
+</p>
+
+<p>
+v44: Asher’s descendants formed these clans: from Imnah, the Imnite clan; from Ishvi, the Ishvite clan; and from Beriah, the Beriite clan.
+v45: Beriah’s descendants formed two clans: from Heber, the Heberite clan; and from Malchiel, the Malchielite clan.
+v46: Asher’s daughter was named Serah.
+v47: These were the clans of Asher’s descendants. Their census total was fifty-three thousand four hundred.
+</p>
+
+<p>
+v48: Naphtali’s descendants formed these clans: from Jahzeel, the Jahzeelite clan; from Guni, the Gunite clan;
+v49: from Jezer, the Jezerite clan; and from Shillem, the Shillemite clan.
+v50: These were Naphtali’s clans, listed by their families. Their census total was forty-five thousand four hundred.
+</p>
+
+<p>
+v51: The total number of Israelites counted was six hundred and one thousand seven hundred and thirty.
+</p>
+
+## The land as an inheritance
+
+<p>
+v52: The LORD said to Moses:
+v53: “The land is to be divided among these people as an inheritance, according to the number of names counted.
+v54: Give a larger inheritance to a larger group and a smaller inheritance to a smaller group. Each group is to receive its inheritance according to its census total.
+</p>
+
+<p>
+v55: But the land must be divided by lot. They are to receive their inheritance according to the names of their ancestral tribes.
+v56: The lot will decide how the inheritance is divided between the larger and smaller groups.”
+</p>
+
+## The Levites
+
+<p>
+v57: The Levites were counted by these clans: from Gershon, the Gershonite clan; from Kohath, the Kohathite clan; and from Merari, the Merarite clan.
+</p>
+
+<p>
+v58: These were Levi’s clans: the Libnite, Hebronite, Mahlite, Mushite and Korahite clans. Kohath fathered Amram.
+</p>
+
+<p>
+v59: Amram’s wife was Jochebed, a daughter of Levi, born to Levi in Egypt. She bore Aaron, Moses and their sister Miriam to Amram.
+v60: Aaron’s sons were Nadab, Abihu, Eleazar and Ithamar.
+v61: Nadab and Abihu died when they brought unauthorized fire before the LORD.
+</p>
+
+<p>
+v62: The Levite census totaled twenty-three thousand males, counting everyone one month old and up. They were not counted with the other Israelites, because they received no inheritance among them.
+</p>
+
+## A different generation
+
+<p>
+v63: These were the people counted by Moses and Eleazar the priest when they took the Israelite census on the plains of Moab, by the Jordan across from Jericho.
+v64: Among them was no one from the earlier census taken by Moses and Aaron the priest in the wilderness of Sinai.
+v65: The LORD had said that they would certainly die in the wilderness. Not one of them remained except Caleb son of Jephunneh and Joshua son of Nun.
 </p>
 
 ## Notes
 
-v02: Like the first census, this count includes those of military age. Its narrative purpose is different: it identifies the generation that will receive the land.
+v1: This public verse combines two Hebrew records: the final line of Hebrew chapter 25, “After the plague,” and Hebrew 26:1. Both records, including their source annotations, are preserved separately in the revision ledger.
 
-v10–11: Korah’s rebellion becomes a “sign,” yet the explicit notice that Korah’s sons did not die prevents the judgment from being read as total erasure of his line.
+v4: The Hebrew begins with an abbreviated age requirement. The draft supplies the census action and reads Moses and the Israelites as recipients of the command. Another division makes “the Israelites who came out of Egypt” an introduction to the following tribal list.
 
-v33: Zelophehad’s daughters are named within the census before their inheritance case is heard in chapter 27, integrating them into the land-allotment narrative.
+v9–11: The census pauses to recall Dathan, Abiram and Korah. It explicitly says Korah was swallowed and that his sons did not die. The draft preserves both statements rather than broadening the deaths to every descendant.
 
-v53–56: Population determines the relative size of tribal inheritance, while the lot determines location. Deliberate allocation and divinely received lot are held together.
+v33, 46: The record names Zelophehad’s five daughters and Asher’s daughter Serah alongside the male census lines. Zelophehad’s daughters present their inheritance case in chapter 27.
 
-v64–65: The census confirms the fulfillment of the wilderness judgment: only Caleb and Joshua remain from the earlier counted generation.
+v53–56: The land is assigned both in proportion to numbers and by lot. The passage does not explain every step by which those requirements are combined.
+
+v62–65: The main census concerns people eligible for military service from twenty years old. The separate Levite count concerns males from one month old. The closing contrast is with the earlier census membership, not a claim that no other person from the earlier community survived.
 
 ## Vocabulary
 
-v02: פָּקַד (paqad)
-“To count,” “appoint,” or “attend to.” Here used for the census.
+v2: Ancestral house
+A kinship grouping, literally a father’s house. It is part of the census’s organization by family and tribe.
 
-v53: נַחֲלָה (nachalah)
-“Inheritance.” A lasting allotted possession within the land.
+v5: Clan
+A named family group. The repeated ancestor-and-clan pairs preserve the structure of the genealogical record.
 
-v55: גּוֹרָל (goral)
-“Lot.” An object or procedure used to determine an allotment.
+v51: Six hundred and one thousand seven hundred and thirty
+The twelve tribal figures total 601,730; the separate 23,000 Levites are not added into that figure.
 
-v61: אֵשׁ זָרָה (esh zarah)
-“Unauthorized fire.” Literally “strange fire,” offered outside the commanded priestly order.
+v55: Lot
+A means of assigning a share through a drawn or cast token; the passage does not specify its physical form.
 
-v65: יָתַר (yatar)
-“To remain.” The survival of Caleb and Joshua is set against the disappearance of the wilderness generation.
+v61: Unauthorized fire
+Fire offered outside the authorized instruction; compare Leviticus 10:1–2. The description does not name an ordinary ethnic foreignness.

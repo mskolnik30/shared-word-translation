@@ -191,12 +191,21 @@
       "scope": "Numbers 19–24",
       "verses": 182,
       "ledger": "audit/fluent-revision/2026-09-13-numbers-19-24/numbers-verse-review.json"
+    },
+    {
+      "scope": "Numbers 25–30",
+      "verses": 193,
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-25-30/numbers-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Numbers 25–30",
-      "action": "Continue the larger connected batches: preserve Peor and its violence, census names and totals, inheritance, succession, offerings and vows. Read every pinned Hebrew record and map public numbering explicitly: public 26:1 combines Hebrew 25:19 and 26:1; chapter 30 has shifted numbering. Finish complete chapters and retain independent-review-pending status."
+      "scope": "Numbers 31–36",
+      "action": "Complete the Numbers draft in a larger connected batch, preserving warfare and captives, exact divisions and quantities, Transjordan settlement, journey stages, land boundaries, refuge and inheritance. Read and bind every pinned Hebrew verse; retain ambiguities and independent-review-pending status."
+    },
+    {
+      "scope": "Numbers whole-book consistency review",
+      "action": "After drafting 31–36, check the whole book structurally and perform focused source-based thematic comparisons, including all public/source numbering differences. Rebind affected earlier ledgers for any textual changes and distinguish authoring self-check from independent review."
     }
   ],
   "standards": [

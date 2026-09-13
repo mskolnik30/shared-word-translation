@@ -4,80 +4,93 @@ testament: OT
 chapter: 30
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-25-30-biblical-fluency-2026-09-13
 ---
 
-## Vows Must Be Kept
+## A man’s vow
 
 <p>
-v01: Moses spoke to the heads of the tribes of the Israelites, saying, “This is the thing that the LORD has commanded:
-v02: If a man makes a vow to the LORD or swears an oath to bind himself by a pledge, he will not break his word. According to all that comes out of his mouth, he will do.
+v01: Moses spoke to the heads of Israel’s tribes: “This is what the LORD has commanded:
+v02: When a man makes a vow to the LORD or swears an oath that binds him to an obligation, he must not break his word. He must do everything he has spoken.
 </p>
 
-## A Daughter’s Vow in Her Father’s House
+## A young woman in her father’s house
 
 <p>
-v03: “If a woman makes a vow to the LORD and binds herself by a pledge while she is young in her father’s house,
-v04: and her father hears her vow and the pledge by which she has bound herself, and her father is silent toward her, then all her vows will stand, and every pledge by which she has bound herself will stand.
-v05: But if her father forbids her on the day he hears, none of her vows or pledges by which she has bound herself will stand. The LORD will forgive her because her father forbade her.
-</p>
-
-## A Married Woman’s Earlier Vow
-
-<p>
-v06: “If she marries while her vows are upon her, or a rash utterance of her lips by which she has bound herself,
-v07: and her husband hears of it and is silent toward her on the day he hears, then her vows will stand, and the pledges by which she has bound herself will stand.
-v08: But if her husband forbids her on the day he hears, he nullifies the vow that was upon her and the rash utterance of her lips by which she bound herself, and the LORD will forgive her.
-</p>
-
-## A Widow or Divorced Woman
-
-<p>
-v09: “But the vow of a widow or a divorced woman—everything by which she has bound herself—will stand against her.
-</p>
-
-## A Vow Made Within Marriage
-
-<p>
-v10: “If she made a vow in her husband’s house or bound herself by a pledge with an oath,
-v11: and her husband heard it and was silent toward her and did not forbid her, then all her vows will stand, and every pledge by which she bound herself will stand.
-v12: But if her husband clearly nullifies them on the day he hears, then whatever came from her lips concerning her vows or concerning the pledge of herself will not stand. Her husband has nullified them, and the LORD will forgive her.
+v03: When a young woman living in her father’s house makes a vow to the LORD or binds herself to an obligation,
+v04: and her father hears her vow or the obligation she has taken on but says nothing to her, all her vows stand, and every obligation she has taken on stands.
 </p>
 
 <p>
-v13: Every vow and every binding oath to humble herself, her husband may confirm or her husband may nullify.
-v14: But if her husband remains silent toward her from day to day, then he confirms all her vows or all her pledges that are upon her. He confirms them because he remained silent toward her on the day he heard them.
-v15: But if he nullifies them after he has heard them, then he will bear her guilt.”
+v05: But if her father forbids her on the day he hears about it, none of her vows or obligations will stand. The LORD will forgive her, because her father has forbidden her.
+</p>
+
+## Marriage and an existing vow
+
+<p>
+v06: If she marries while her vows are still binding, or while she is bound by something she said rashly,
+v07: and her husband hears about it but says nothing to her on the day he hears, her vows stand, and the obligations she has taken on stand.
 </p>
 
 <p>
-v16: These are the statutes that the LORD commanded Moses concerning a man and his wife, and concerning a father and his daughter while she is young in her father’s house.
+v08: But if her husband forbids her on the day he hears about it, he cancels the vow binding her and the rash words by which she bound herself. The LORD will forgive her.
+</p>
+
+## Widows and divorced women
+
+<p>
+v09: Every vow made by a widow or a divorced woman, every obligation she takes on, remains binding on her.
+</p>
+
+## Vows made in a husband’s house
+
+<p>
+v10: If a woman makes a vow in her husband’s house or binds herself to an obligation by an oath,
+v11: and her husband hears but says nothing to her and does not forbid her, all her vows stand, and every obligation she has taken on stands.
+</p>
+
+<p>
+v12: But if her husband firmly cancels them on the day he hears, nothing she has spoken as a vow or binding obligation will stand. Her husband has canceled them, and the LORD will forgive her.
+</p>
+
+<p>
+v13: Her husband may confirm or cancel any vow or sworn obligation by which she undertakes to humble herself.
+</p>
+
+<p>
+v14: But if her husband says nothing to her from day to day, he confirms all her vows and every obligation binding her. He confirms them because he said nothing to her on the day he heard.
+v15: If he cancels them after he has heard, he must bear her guilt.”
+</p>
+
+<p>
+v16: These are the rules the LORD commanded Moses concerning a husband and wife, and a father and his young daughter while she lives in her father’s house.
 </p>
 
 ## Notes
 
-v02: Spoken commitments are treated as morally binding. The emphasis falls on integrity between what is spoken before the LORD and what is actually done.
+v1–16: These public verses correspond to Hebrew 30:2–17. Each complete Hebrew record, including its numbering annotation, remains bound in the ledger.
 
-v03–15: The chapter reflects the legal structures of the ancient household, in which a father or husband could bear responsibility for vows affecting the household. The text also explicitly recognizes vows of widowed and divorced women as independently binding.
+v2–5: The chapter distinguishes a man’s obligation from that of a young woman in her father’s household. The father’s silence confirms her obligation; his objection is tied to the day he hears. The translation preserves those unequal roles and their stated limits.
 
-v05: A vow nullified by legitimate household authority does not become the woman’s moral failure; the text says the LORD will forgive her.
+v5, 8, 12: “Forgive” is the ordinary Hebrew forgiveness verb. Here it addresses the woman’s release from a vow that her father or husband has canceled; the draft retains both the legal context and the divine action.
 
-v13: “to humble herself” likely includes vows involving fasting or self-denial, but the phrase is broader than one specific practice.
+v6–12: Verse 6 can describe a woman marrying while a vow is still binding, as here, or a married woman with an obligation. Verses 10–12 can introduce vows made within marriage or look back to vows made while a widow or divorced woman still lived with her husband. The clauses themselves are retained.
 
-v15: Delayed nullification shifts guilt to the husband, because his initial silence had already confirmed the vow.
+v13–15: Self-humbling can include abstention or fasting but is not limited to one practice here. Silence on the day of hearing establishes the vow; later cancellation makes the husband bear her guilt. The text does not give a father or husband an unlimited veto at any time.
 
 ## Vocabulary
 
-v02: נֶדֶר (neder)
-“Vow.” A solemn promise made to the LORD.
+v2: Vow and oath
+A vow is a solemn pledged commitment; an oath binds the speaker’s word. The passage emphasizes doing what has been spoken.
 
-v02: שְׁבוּעָה (shevuah)
-“Oath.” A sworn commitment that binds the speaker.
+v4: Stand
+A recurring image for an obligation remaining in force.
 
-v02: אָסַר (asar)
-“To bind.” Used figuratively for placing oneself under an obligation.
+v8: Cancel
+To annul or make an obligation no longer binding. It is distinct from confirming the vow by silence.
 
-v02: חָלַל (chalal)
-“To profane” or “break.” To make one’s word common by failing to fulfill it.
-
-v13: עָנָה נֶפֶשׁ (anah nefesh)
-“To humble oneself.” A phrase for self-denial or affliction undertaken by vow.
+v15: Bear guilt
+To carry responsibility for the breach. Here that responsibility is placed on the husband who cancels the established obligation.

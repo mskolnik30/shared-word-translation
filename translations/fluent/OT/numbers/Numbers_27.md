@@ -4,86 +4,85 @@ testament: OT
 chapter: 27
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-25-30-biblical-fluency-2026-09-13
 ---
 
-## The Daughters of Zelophehad
+## Zelophehad’s daughters ask for land
 
 <p>
-v01: Then the daughters of Zelophehad came forward. Zelophehad was son of Hepher, son of Gilead, son of Machir, son of Manasseh, from the clans of Manasseh son of Joseph. These were the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
-v02: They stood before Moses, before Eleazar the priest, before the leaders and the whole congregation at the entrance of the Tent of Meeting, saying,
-v03: “Our father died in the wilderness. He was not among the company of people who gathered themselves against the LORD in Korah’s company, but he died for his own sin, and he had no sons.
-v04: Why should our father’s name be taken away from among his clan because he had no son? Give us a possession among our father’s brothers.”
-v05: So Moses brought their case before the LORD.
-</p>
-
-## The Law of Inheritance
-
-<p>
-v06: The LORD spoke to Moses, saying,
-v07: “The daughters of Zelophehad speak rightly. You will surely give them a possession of inheritance among their father’s brothers and cause their father’s inheritance to pass to them.
-v08: Speak to the Israelites, saying: If a man dies and has no son, you will cause his inheritance to pass to his daughter.
-v09: If he has no daughter, then you will give his inheritance to his brothers.
-v10: If he has no brothers, then you will give his inheritance to his father’s brothers.
-v11: If his father has no brothers, then you will give his inheritance to the nearest relative in his clan, and that person will possess it. This will be for the Israelites a statute of justice, as the LORD commanded Moses.”
-</p>
-
-## Moses Sees the Land
-
-<p>
-v12: The LORD said to Moses, “Go up this mountain of Abarim and see the land that I have given to the Israelites.
-v13: When you have seen it, you also will be gathered to your people, as Aaron your brother was gathered,
-v14: because you rebelled against my command in the wilderness of Zin, when the congregation quarreled, failing to treat me as holy through the water before their eyes.” These were the waters of Meribah of Kadesh in the wilderness of Zin.
-</p>
-
-## Joshua Commissioned
-
-<p>
-v15: Moses spoke to the LORD, saying,
-v16: “Let the LORD, the God of the spirits of all flesh, appoint a man over the congregation,
-v17: who will go out before them and come in before them, who will lead them out and bring them in, so that the congregation of the LORD may not be like sheep that have no shepherd.”
+v01: The daughters of Zelophehad came forward. He was the son of Hepher, son of Gilead, son of Machir, son of Manasseh, from the clans of Manasseh son of Joseph. His daughters were Mahlah, Noah, Hoglah, Milcah and Tirzah.
+v02: They stood at the entrance of the tent of meeting before Moses, Eleazar the priest, the leaders and the whole community. They said,
+v03: “Our father died in the wilderness. He was not part of Korah’s company, which gathered against the LORD. He died for his own sin, and he had no sons.
+v04: Why should our father’s name disappear from his clan because he had no son? Give us a landholding among our father’s brothers.”
 </p>
 
 <p>
-v18: The LORD said to Moses, “Take Joshua son of Nun, a man in whom is the Spirit, and lay your hand on him.
-v19: Have him stand before Eleazar the priest and before the whole congregation, and commission him in their sight.
-v20: Give him some of your authority, so that the whole congregation of the Israelites may listen to him.
-v21: He will stand before Eleazar the priest, who will inquire for him by the judgment of the Urim before the LORD. At his word they will go out and at his word they will come in, he and all the Israelites with him, the whole congregation.”
+v05: Moses brought their case before the LORD.
 </p>
 
 <p>
-v22: Moses did as the LORD commanded him. He took Joshua and had him stand before Eleazar the priest and before the whole congregation.
-v23: He laid his hands on him and commissioned him, as the LORD had spoken through Moses.
+v06: The LORD answered Moses:
+v07: “Zelophehad’s daughters are right. You must give them a landholding as an inheritance among their father’s brothers. Transfer their father’s inheritance to them.
+</p>
+
+<p>
+v08: Tell the Israelites: ‘If a man dies without a son, transfer his inheritance to his daughter.
+v09: If he has no daughter, give his inheritance to his brothers.
+v10: If he has no brothers, give his inheritance to his father’s brothers.
+v11: If his father has no brothers, give the inheritance to his nearest relative in his clan, who will take possession of it.’ This is to be a binding rule for Israel, as the LORD commanded Moses.”
+</p>
+
+## Moses asks for a successor
+
+<p>
+v12: The LORD said to Moses, “Climb this mountain in the Abarim range and look at the land I have given the Israelites.
+v13: After you have seen it, you too will be gathered to your people, as your brother Aaron was.
+v14: When the community quarreled in the wilderness of Zin, you both rebelled against my command to show my holiness through the water before their eyes.” These were the waters of Meribah at Kadesh, in the wilderness of Zin.
+</p>
+
+<p>
+v15: Moses said to the LORD:
+v16: “May the LORD, the God of the spirits of all flesh, appoint a man over the community,
+v17: one who will go out before them and come in before them, who will lead them out and bring them in, so that the LORD’s community will not be like sheep without a shepherd.”
+</p>
+
+<p>
+v18: The LORD told Moses, “Take Joshua son of Nun, a man with spirit in him, and lay your hand on him.
+v19: Have him stand before Eleazar the priest and the whole community, and commission him in their sight.
+v20: Give him some of your authority, so that the whole Israelite community will obey him.
+v21: He is to stand before Eleazar the priest, who will seek a decision for him before the LORD by means of the Urim. At his word they will go out, and at his word they will come in—Joshua, all the Israelites with him, the whole community.”
+</p>
+
+<p>
+v22: Moses did as the LORD commanded. He took Joshua and had him stand before Eleazar the priest and the whole community.
+v23: He laid his hands on Joshua and commissioned him, as the LORD had directed through Moses.
 </p>
 
 ## Notes
 
-v04: The daughters’ request is simultaneously about land and name. Without inheritance, their father’s line would disappear from its place within the clan.
+v3–7: The daughters distinguish their father’s own sin from participation in Korah’s revolt; they do not name his sin. The LORD explicitly affirms their claim and directs that their father’s inheritance pass to them.
 
-v05: Moses does not decide the unprecedented case from personal authority; he brings it before the LORD.
+v8–11: The rule sets out an ordered succession: son, daughter, brothers, paternal uncles, nearest clan relative. It should not be flattened into either an exclusion of daughters or a statement that all relatives inherit equally.
 
-v07: The LORD’s response begins by affirming the women’s speech as right, and their case becomes the basis for a broader inheritance statute.
+v13–14: “Gathered to your people” is an expression for death. The plural “you” in verse 14 includes Moses and Aaron, recalling the water dispute in Numbers 20.
 
-v16: Moses uses the title “God of the spirits of all flesh,” previously used in intercession in Numbers 16:22, now in a request for a successor appropriate to the whole congregation.
+v18–21: The Hebrew describes Joshua as a man with spirit in him, without explicitly adding “holy” or “of God.” It can point to divine endowment or to the spirit needed for leadership. The word rendered “authority” also carries senses of honor or splendor. “At his word” may refer to the priest’s delivered decision or to the divine command behind it.
 
-v18: “in whom is the Spirit” may refer to divine Spirit or spirit/capacity given by God. The capitalization in English reflects the commissioning context while the Hebrew itself does not mark capitalization.
-
-v18: Hebrew *ruach* can mean “spirit,” “breath,” or “wind.” In this commissioning context it may refer to divine Spirit or to spirit/capacity given by God.
-
-v20: Joshua receives “some” of Moses’ authority, preserving both continuity and distinction between the two leaders.
+v18, 23: The command says “your hand”; the account of its fulfillment says “his hands.” Both forms are preserved.
 
 ## Vocabulary
 
-v04: אֲחֻזָּה (achuzzah)
-“Possession.” Land held as an enduring property right.
+v4, 7: Landholding and inheritance
+The daughters ask for a concrete place within the family’s land, preserving their father’s name among his clan.
 
-v07: נַחֲלָה (nachalah)
-“Inheritance.” The family allotment passed through generations.
+v16: God of the spirits of all flesh
+The same title appears in Numbers 16:22. The draft keeps its broad life-and-spirit language.
 
-v11: מִשְׁפַּט (mishpat)
-“Justice,” “judgment,” or “ordinance.” Here a binding rule governing inheritance.
+v17: Sheep without a shepherd
+An image of a community without leadership and care. The repeated going out and coming in also fits a leader’s public and military responsibilities.
 
-v18: רוּחַ (ruach)
-“Spirit,” “wind,” or “breath.” Here describing what is in Joshua as he is chosen.
-
-v20: הוֹד (hod)
-“Authority,” “majesty,” or “splendor.” A share of Moses’ public authority placed upon Joshua.
+v21: Urim
+A priestly means of seeking a divine decision; compare Exodus 28:30. Its exact appearance and procedure are not described here.

@@ -4,128 +4,132 @@ testament: OT
 chapter: 29
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-25-30-biblical-fluency-2026-09-13
 ---
 
-## The Day of Trumpet Blasts
+## Blasts on the first day
 
 <p>
-v01: “In the seventh month, on the first day of the month, you will have a holy convocation; you will do no regular work. It will be for you a day of trumpet blasts.
-v02: You will present a burnt offering as a pleasing aroma to the LORD: one young bull, one ram, and seven male lambs a year old without defect.
-v03: Their grain offering will be fine flour mixed with oil: three-tenths of an ephah for the bull, two-tenths for the ram,
-v04: and one-tenth for each of the seven lambs;
-v05: also one male goat as a sin offering to make atonement for you,
-v06: besides the new moon burnt offering and its grain offering, and the regular burnt offering and its grain offering, with their drink offerings according to their ordinance, as a pleasing aroma, an offering by fire to the LORD.
+v01: “On the first day of the seventh month, hold a holy assembly. Do no ordinary work. It is to be a day of sounding blasts for you.
+v02: Bring a burnt offering as a pleasing aroma to the LORD: one young bull, one ram and seven year-old male lambs, all without defect.
+v03: Their grain offering is fine flour mixed with oil: three-tenths of an ephah for the bull and two-tenths for the ram.
+v04: Bring one-tenth of an ephah for each of the seven lambs,
+v05: and one male goat as a sin offering to make atonement for you.
 </p>
 
-## The Day of Atonement
-
 <p>
-v07: “On the tenth day of this seventh month you will have a holy convocation, and you will humble yourselves; you will do no work.
-v08: You will present a burnt offering to the LORD, a pleasing aroma: one young bull, one ram, and seven male lambs a year old; they will be without defect.
-v09: Their grain offering will be fine flour mixed with oil: three-tenths for the bull, two-tenths for the one ram,
-v10: and one-tenth for each of the seven lambs;
-v11: also one male goat as a sin offering, besides the sin offering of atonement and the regular burnt offering and its grain offering, with their drink offerings.
+v06: These are in addition to the monthly burnt offering and its grain offering, and the regular burnt offering and its grain offering, with their prescribed drink offerings—a pleasing aroma, an offering by fire to the LORD.
 </p>
 
-## The Festival of Booths: First Day
+## The tenth day
 
 <p>
-v12: “On the fifteenth day of the seventh month you will have a holy convocation; you will do no regular work, and you will celebrate a festival to the LORD seven days.
-v13: You will present a burnt offering, an offering by fire, a pleasing aroma to the LORD: thirteen young bulls, two rams, and fourteen male lambs a year old; they will be without defect.
-v14: Their grain offering will be fine flour mixed with oil: three-tenths for each of the thirteen bulls, two-tenths for each of the two rams,
-v15: and one-tenth for each of the fourteen lambs;
-v16: also one male goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering.
+v07: On the tenth day of this seventh month, hold a holy assembly. Humble yourselves, and do no work at all.
+v08: Bring the LORD a burnt offering as a pleasing aroma: one young bull, one ram and seven year-old male lambs, all without defect.
+v09: Their grain offering is fine flour mixed with oil: three-tenths of an ephah for the bull and two-tenths for the ram.
+v10: Bring one-tenth of an ephah for each of the seven lambs.
 </p>
 
-## Second Day
-
 <p>
-v17: “On the second day: twelve young bulls, two rams, and fourteen male lambs a year old without defect,
-v18: with their grain offering and their drink offerings for the bulls, rams, and lambs according to their number, according to the ordinance;
-v19: also one male goat as a sin offering, besides the regular burnt offering, its grain offering, and their drink offerings.
+v11: Also bring one male goat as a sin offering, in addition to the sin offering of atonement and the regular burnt offering, with its grain offering and their drink offerings.
 </p>
 
-## Third Day
+## The seven-day festival
 
 <p>
-v20: “On the third day: eleven bulls, two rams, and fourteen male lambs a year old without defect,
-v21: with their grain offering and their drink offerings for the bulls, rams, and lambs according to their number, according to the ordinance;
-v22: also one male goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering.
+v12: On the fifteenth day of the seventh month, hold a holy assembly. Do no ordinary work. Celebrate a festival to the LORD for seven days.
+v13: Bring a burnt offering, an offering by fire, a pleasing aroma to the LORD: thirteen young bulls, two rams and fourteen year-old male lambs, all without defect.
+v14: Their grain offering is fine flour mixed with oil: three-tenths of an ephah for each of the thirteen bulls and two-tenths for each of the two rams.
+v15: Bring one-tenth of an ephah for each of the fourteen lambs.
 </p>
 
-## Fourth Day
-
 <p>
-v23: “On the fourth day: ten bulls, two rams, and fourteen male lambs a year old without defect,
-v24: with their grain offering and their drink offerings for the bulls, rams, and lambs according to their number, according to the ordinance;
-v25: also one male goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering.
+v16: Also bring one male goat as a sin offering, in addition to the regular burnt offering with its grain and drink offerings.
 </p>
 
-## Fifth Day
-
 <p>
-v26: “On the fifth day: nine bulls, two rams, and fourteen male lambs a year old without defect,
-v27: with their grain offering and their drink offerings for the bulls, rams, and lambs according to their number, according to the ordinance;
-v28: also one male goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering.
+v17: On the second day, bring twelve young bulls, two rams and fourteen year-old male lambs, all without defect.
+v18: Bring the grain and drink offerings for the bulls, rams and lambs in the prescribed amounts for their number.
+v19: Also bring one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and their drink offerings.
 </p>
 
-## Sixth Day
-
 <p>
-v29: “On the sixth day: eight bulls, two rams, and fourteen male lambs a year old without defect,
-v30: with their grain offering and their drink offerings for the bulls, rams, and lambs according to their number, according to the ordinance;
-v31: also one male goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offerings.
+v20: On the third day, bring eleven bulls, two rams and fourteen year-old male lambs, all without defect.
+v21: Bring the grain and drink offerings for the bulls, rams and lambs in the prescribed amounts for their number.
+v22: Also bring one male goat as a sin offering, in addition to the regular burnt offering with its grain and drink offerings.
 </p>
 
-## Seventh Day
-
 <p>
-v32: “On the seventh day: seven bulls, two rams, and fourteen male lambs a year old without defect,
-v33: with their grain offering and their drink offerings for the bulls, rams, and lambs according to their number, according to their ordinance;
-v34: also one male goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering.
+v23: On the fourth day, bring ten bulls, two rams and fourteen year-old male lambs, all without defect.
+v24: Bring the grain and drink offerings for the bulls, rams and lambs in the prescribed amounts for their number.
+v25: Also bring one male goat as a sin offering, in addition to the regular burnt offering with its grain and drink offerings.
 </p>
 
-## The Eighth Day
-
 <p>
-v35: “On the eighth day you will have a solemn assembly; you will do no regular work.
-v36: You will present a burnt offering, an offering by fire, a pleasing aroma to the LORD: one bull, one ram, and seven male lambs a year old without defect,
-v37: with their grain offering and their drink offerings for the bull, the ram, and the lambs according to their number, according to the ordinance;
-v38: also one male goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering.
+v26: On the fifth day, bring nine bulls, two rams and fourteen year-old male lambs, all without defect.
+v27: Bring the grain and drink offerings for the bulls, rams and lambs in the prescribed amounts for their number.
+v28: Also bring one male goat as a sin offering, in addition to the regular burnt offering with its grain and drink offerings.
 </p>
 
-## These Offerings Are in Addition to Vows and Freewill Offerings
+<p>
+v29: On the sixth day, bring eight bulls, two rams and fourteen year-old male lambs, all without defect.
+v30: Bring the grain and drink offerings for the bulls, rams and lambs in the prescribed amounts for their number.
+v31: Also bring one male goat as a sin offering, in addition to the regular burnt offering with its grain and drink offerings.
+</p>
 
 <p>
-v39: “These you will offer to the LORD at your appointed festivals, besides your vow offerings and freewill offerings, whether your burnt offerings, grain offerings, drink offerings, or sacrifices of well-being.”
-v40: Moses spoke to the Israelites according to all that the LORD commanded Moses.
+v32: On the seventh day, bring seven bulls, two rams and fourteen year-old male lambs, all without defect.
+v33: Bring the grain and drink offerings for the bulls, rams and lambs in the prescribed amounts for their number.
+v34: Also bring one male goat as a sin offering, in addition to the regular burnt offering with its grain and drink offerings.
+</p>
+
+## The eighth-day gathering
+
+<p>
+v35: On the eighth day, hold a solemn gathering. Do no ordinary work.
+v36: Bring a burnt offering, an offering by fire, a pleasing aroma to the LORD: one bull, one ram and seven year-old male lambs, all without defect.
+v37: Bring the grain and drink offerings for the bull, ram and lambs in the prescribed amounts for their number.
+v38: Also bring one male goat as a sin offering, in addition to the regular burnt offering with its grain and drink offerings.
+</p>
+
+<p>
+v39: Bring these to the LORD at your appointed festivals, in addition to your vowed and freewill offerings—your burnt offerings, grain offerings, drink offerings and peace offerings.”
+</p>
+
+<p>
+v40: Moses told the Israelites everything the LORD had commanded him.
 </p>
 
 ## Notes
 
-v01: The seventh month begins with a sacred assembly marked by trumpet blasts, not ordinary labor.
+v1: The word for blasts can describe a loud signal or shout. The verse does not itself name the instrument; the trumpet instructions in Numbers 10 provide related context.
 
-v07: “humble yourselves” is the same language commonly rendered “afflict yourselves” for the Day of Atonement; it describes intentional self-denial before God.
+v6: The first day of the seventh month carries both the monthly and daily offerings as well as its own festival offering. The additional clauses matter to the total.
 
-v12–34: The number of bulls decreases by one each day of the seven-day festival, from thirteen to seven, while the two rams and fourteen lambs remain constant.
+v7, 11: The tenth day’s self-humbling or self-affliction is traditionally associated with fasting, but the wording is broader. It prohibits all work, while the other festival days here prohibit ordinary work. Its additional goat is distinguished from the atonement sin offering.
 
-v35: The eighth day is a distinct solemn assembly after the seven-day festival sequence.
+v12–34: This is the festival elsewhere called Booths. The bulls decrease from thirteen to seven over seven days, totaling seventy. Each day also has two rams, fourteen lambs and one sin-offering goat, besides the daily offerings. The full repeated sequence is retained.
 
-v39: The prescribed communal offerings do not cancel voluntary or vow offerings; ordered worship and free offering coexist.
+v35–38: The eighth-day gathering has one bull, one ram and seven lambs, with a sin-offering goat. It is a distinct closing day, not another step in the declining seven-day bull count.
+
+v40: This public verse is Hebrew 30:1. The next public chapter begins with Hebrew 30:2.
 
 ## Vocabulary
 
-v01: תְּרוּעָה (teruah)
-“Trumpet blast,” “alarm,” or “shout.” The defining sound of the first day of the seventh month.
+v7: Humble yourselves
+Literally afflict your persons or selves. The expression also appears in the vow instruction at public Numbers 30:13.
 
-v07: עָנָה נֶפֶשׁ (anah nefesh)
-“To humble oneself.” Literally to afflict or humble one’s life/self.
+v12: Appointed festival
+A designated time for gathering and offerings. Compare the calendar in Leviticus 23.
 
-v12: חַג (chag)
-“Festival.” A sacred pilgrimage or celebration.
+v35: Solemn gathering
+Hebrew ʿaṣeret, a gathering or observance marking this separate closing day.
 
-v35: עֲצֶרֶת (atseret)
-“Solemn assembly.” A concluding sacred gathering marked by cessation from regular work.
+v39: Vowed and freewill offerings
+Gifts arising from a pledged commitment or a voluntary act, distinguished here from the scheduled offerings.
 
-v39: נְדָבָה (nedavah)
-“Freewill offering.” An offering given voluntarily rather than by fixed obligation.
+v39: Peace offerings
+Also called well-being offerings; the established term connects this list with Leviticus 3 and 7.
