@@ -4,106 +4,146 @@ testament: OT
 chapter: 35
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-31-36-biblical-fluency-2026-09-13
 ---
 
-## Cities for the Levites
+## Towns for the Levites
 
 <p>
-v01: The LORD spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,
-v02: “Command the Israelites to give to the Levites from the inheritance of their possession cities to live in, and give the Levites pasturelands around the cities.
-v03: The cities will be for them to live in, and their pasturelands will be for their livestock, their possessions, and all their animals.
-v04: The pasturelands of the cities that you give the Levites will extend from the city wall outward one thousand cubits all around.
-v05: Outside the city you will measure two thousand cubits on the east side, two thousand on the south side, two thousand on the west side, and two thousand on the north side, with the city in the middle. This will be for them as pasturelands for the cities.
+v01: On the plains of Moab, by the Jordan across from Jericho, the LORD spoke to Moses.
+v02: “Command the Israelites to give the Levites towns to live in out of the land they hold as an inheritance. They must also give the Levites pastureland around those towns.
+v03: The towns will be theirs to live in, and the pastureland will be for their animals, their possessions and all their livestock.
 </p>
 
 <p>
-v06: The cities that you give the Levites will include six cities of refuge, which you will provide so that a manslayer may flee there; in addition to these you will give forty-two cities.
-v07: All the cities that you give the Levites will be forty-eight cities, together with their pasturelands.
-v08: As for the cities you give from the possession of the Israelites, from the larger tribe you will take more, and from the smaller tribe you will take fewer. Each tribe will give some of its cities to the Levites in proportion to the inheritance it receives.”
-</p>
-
-## Cities of Refuge
-
-<p>
-v09: The LORD spoke to Moses, saying,
-v10: “Speak to the Israelites and say to them: When you cross the Jordan into the land of Canaan,
-v11: you will designate cities for yourselves to be cities of refuge, so that a manslayer who kills a person unintentionally may flee there.
-v12: The cities will be for you as refuge from the avenger, so that the manslayer may not die until standing before the congregation for judgment.
-v13: The cities that you give will be six cities of refuge for you.
-v14: You will give three cities beyond the Jordan and three cities in the land of Canaan; they will be cities of refuge.
-v15: These six cities will be for refuge for the Israelites, the resident alien, and the sojourner among them, so that anyone who kills a person unintentionally may flee there.
-</p>
-
-## Murder and Manslaughter Distinguished
-
-<p>
-v16: “But if someone strikes another with an iron object so that the person dies, that one is a murderer; the murderer will surely be put to death.
-v17: If someone strikes another with a stone in the hand capable of causing death, and the person dies, that one is a murderer; the murderer will surely be put to death.
-v18: Or if someone strikes another with a wooden object in the hand capable of causing death, and the person dies, that one is a murderer; the murderer will surely be put to death.
-v19: The avenger of blood will put the murderer to death; when meeting the murderer, the avenger may put that person to death.
+v04: The pastureland you give the Levites must extend a thousand cubits outward from the town wall, all around.
+v05: Outside the town, measure two thousand cubits on the east side, two thousand on the south, two thousand on the west and two thousand on the north, with the town in the middle. This will be their towns’ pastureland.
 </p>
 
 <p>
-v20: If someone pushes another from hatred or throws something at another while lying in wait, so that the person dies,
-v21: or in hostility strikes another with the hand so that the person dies, the one who struck will surely be put to death; that one is a murderer. The avenger of blood may put the murderer to death when meeting that person.
+v06: Among the towns you give the Levites, six are to be refuge towns, where a person who has killed someone can flee. In addition, give them forty-two towns.
+v07: Altogether you must give the Levites forty-eight towns, with their pastureland.
 </p>
 
 <p>
-v22: But if someone suddenly pushes another without hostility, or throws any object without lying in wait,
-v23: or without seeing the person drops any stone capable of causing death, and the person dies, though the killer was not an enemy and did not seek the person’s harm,
-v24: then the congregation will judge between the killer and the avenger of blood according to these ordinances.
-v25: The congregation will rescue the manslayer from the hand of the avenger of blood and return the manslayer to the city of refuge to which that person fled. The manslayer will live there until the death of the high priest who was anointed with the holy oil.
+v08: The towns you give from the Israelites’ holdings must be proportionate: take more from a larger group and fewer from a smaller one. Each must give towns to the Levites in proportion to the inheritance it receives.”
 </p>
 
-## Remaining Within the City of Refuge
+## Six towns of refuge
 
 <p>
-v26: But if the manslayer at any time goes beyond the boundary of the city of refuge to which the person fled,
-v27: and the avenger of blood finds the person outside the boundary of the city of refuge and kills the manslayer, the avenger of blood will not be guilty of bloodshed,
-v28: because the manslayer should have remained in the city of refuge until the death of the high priest. After the death of the high priest, the manslayer may return to the land of the possession.
-v29: These things will be for you a statute of justice throughout your generations in all your dwelling places.
-</p>
-
-## Blood Must Not Pollute the Land
-
-<p>
-v30: “Whoever kills a person, the murderer will be put to death on the testimony of witnesses, but one witness will not testify against a person so that the person dies.
-v31: You will accept no ransom for the life of a murderer who is guilty of death; that person will surely be put to death.
-v32: You will accept no ransom for one who has fled to a city of refuge to allow that person to return and live in the land before the death of the priest.
+v09: The LORD spoke to Moses.
 </p>
 
 <p>
-v33: You will not pollute the land in which you live, for blood pollutes the land, and no atonement can be made for the land for the blood shed upon it except by the blood of the one who shed it.
-v34: You will not defile the land in which you live, in whose midst I dwell, for I, the LORD, dwell among the Israelites.”
+v10: “Tell the Israelites: When you cross the Jordan into the land of Canaan,
+v11: designate towns as places of refuge for yourselves, where someone who has killed a person unintentionally can flee.
+v12: They will be places of refuge from the avenger, so that the killer does not die before standing trial before the community.
+</p>
+
+<p>
+v13: The towns you set aside will be six refuge towns.
+v14: Set aside three towns on this side of the Jordan and three in the land of Canaan. They will be refuge towns.
+</p>
+
+<p>
+v15: These six towns will be a refuge for the Israelites and for the foreigner and settler among them, so that anyone who kills a person unintentionally may flee there.
+</p>
+
+## Murder and unintentional killing
+
+<p>
+v16: But if someone strikes a person with an iron object and the person dies, the killer is a murderer. The murderer must be put to death.
+v17: If someone strikes a person with a stone held in the hand, one capable of killing, and the person dies, the killer is a murderer. The murderer must be put to death.
+v18: Or if someone strikes a person with a wooden object held in the hand, one capable of killing, and the person dies, the killer is a murderer. The murderer must be put to death.
+</p>
+
+<p>
+v19: The avenger of blood himself is to put the murderer to death. When he encounters the murderer, he is to kill him.
+</p>
+
+<p>
+v20: If someone pushes a person out of hatred, or deliberately throws something at a person and the person dies,
+v21: or strikes a person with a hand out of hostility and the person dies, the one who struck the blow must be put to death. He is a murderer; the avenger of blood is to kill the murderer when he encounters him.
+</p>
+
+<p>
+v22: But if someone suddenly pushes a person without hostility, or throws any object at a person without intending harm,
+v23: or drops a stone capable of killing on someone without seeing them, and the person dies, though the killer was not an enemy and did not seek their harm,
+v24: then the community must judge between the one who struck the blow and the avenger of blood according to these rules.
+</p>
+
+<p>
+v25: The community must rescue the killer from the avenger of blood and return the killer to the refuge town where they fled. The killer must stay there until the death of the high priest who was anointed with the holy oil.
+</p>
+
+## Remaining within the refuge
+
+<p>
+v26: But if the killer goes outside the boundary of the refuge town where they fled,
+v27: and the avenger of blood finds the killer outside that boundary and kills them, the avenger bears no bloodguilt.
+</p>
+
+<p>
+v28: The killer must stay in the refuge town until the high priest dies. After the high priest’s death, the killer may return to the land they hold.
+</p>
+
+<p>
+v29: These rules will remain binding on you through your generations, wherever you live.
+</p>
+
+## Witnesses, ransom and bloodguilt
+
+<p>
+v30: A murderer is to be put to death for killing a person on the testimony of witnesses. But a single witness cannot testify against someone to have that person put to death.
+</p>
+
+<p>
+v31: Do not accept a ransom for the life of a murderer who deserves to die. The murderer must be put to death.
+</p>
+
+<p>
+v32: And do not accept a ransom for someone who has fled to a refuge town, allowing them to return and live on their land before the priest dies.
+</p>
+
+<p>
+v33: Do not pollute the land where you are, for blood pollutes the land. No atonement can be made for the land for blood shed on it except by the blood of the one who shed it.
+v34: Do not defile the land where you live, where I dwell, for I, the LORD, dwell among the Israelites.”
 </p>
 
 ## Notes
 
-v04–05: The measurements describe pastureland extending beyond the city, though the relationship between the one-thousand-cubit statement and the two-thousand-cubit measurements has been understood in different ways. TSW preserves both measurements.
+v3: The final Hebrew expression can refer to living creatures or to livelihood. The draft reads it with the animals and possessions just mentioned.
 
-v11: The refuge is for unintentional killing, not for shielding a murderer from judgment.
+v4–5: Verse 4 measures a thousand cubits outward from the wall. Verse 5 gives two thousand cubits on each of four sides, with the town in the middle. The relationship between these measurements is not fully clear; both are retained without inserting a proposed layout.
 
-v12: The accused manslayer is protected until communal judgment, limiting immediate private vengeance.
+v11–25: Refuge protects a killer pending judgment and provides residence for someone found to have killed unintentionally. The chapter distinguishes the circumstances of the killing and requires the community to judge between the killer and the avenger of blood.
 
-v19: “avenger of blood” is a kinship role responsible for responding to bloodshed. The cities of refuge place that role within judicial boundaries.
+v19–23: The intentional cases name hatred, hostility and deliberate action. “Deliberately” in verse 20 has the image of lying in wait behind it. The contrasting cases retain the absence of hostility, intent to harm and awareness of the other person.
 
-v25: The manslayer’s return is tied to the death of the high priest without an explanation of why that death changes the legal status. TSW retains the connection without supplying a theory.
+v25–28, 32: Release from refuge residence is tied to the high priest’s death, not to a stated number of years. Leaving early exposes the killer to the avenger without bloodguilt; a payment cannot buy early release.
 
-v33–34: Bloodshed is not only a crime against a person; it pollutes the land where the LORD dwells among Israel.
+v30–34: One witness is insufficient for a death sentence. The two no-ransom rules distinguish a convicted murderer from someone required to remain in refuge. The passage then connects shed blood, atonement and the LORD’s presence in the land.
 
 ## Vocabulary
 
-v02: מִגְרָשׁ (migrash)
-“Pastureland.” Open land surrounding a Levitical city for animals and possessions.
+v4: Cubit
+An ancient length unit associated with the forearm. The original unit preserves the stated measurements without falsely precise modern conversions.
 
-v11: עִיר מִקְלָט (ir miqlat)
-“City of refuge.” A designated place of protection for an unintentional manslayer.
+v11: Refuge
+A place of protection with defined boundaries and conditions, not a cancellation of the community’s judgment.
 
-v12: גֹּאֵל הַדָּם (goel haddam)
-“Avenger of blood.” A kinship representative responsible for blood justice.
+v15: Foreigner and settler
+Two terms for people living among Israel without ordinary ancestral membership. Both are explicitly included in the refuge provision.
 
-v24: שָׁפַט (shafat)
-“To judge.” To decide the case between manslayer and avenger.
+v19: Avenger of blood
+The family representative who seeks redress for a killing. The Hebrew goʾel is related to the language of a kinsman’s redemption or recovery of family rights.
 
-v33: חָנֵף (chanef)
-“To pollute” or “profane.” Here the land is polluted by bloodshed.
+v27: Bloodguilt
+Responsibility for wrongful bloodshed. It differs from the ritual impurity caused by contact with the dead.
+
+v31: Ransom
+A payment offered in place of the stated consequence. The chapter forbids it in both cases that follow.

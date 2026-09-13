@@ -4,117 +4,153 @@ testament: OT
 chapter: 32
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-31-36-biblical-fluency-2026-09-13
 ---
 
-## Reuben and Gad Ask for Land East of the Jordan
+## A request for land east of the Jordan
 
 <p>
-v01: The descendants of Reuben and the descendants of Gad had very large herds of livestock. They saw the land of Jazer and the land of Gilead, and look—the place was a place for livestock.
-v02: So the descendants of Gad and the descendants of Reuben came and spoke to Moses, Eleazar the priest, and the leaders of the congregation, saying,
-v03: “Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon—
-v04: the land that the LORD struck before the congregation of Israel—is a land for livestock, and your servants have livestock.”
-v05: They said, “If we have found favor in your eyes, let this land be given to your servants as a possession. Do not make us cross the Jordan.”
-</p>
-
-## Moses Warns Them Against Repeating the Rebellion
-
-<p>
-v06: Moses said to the descendants of Gad and the descendants of Reuben, “Will your brothers go to war while you sit here?
-v07: Why do you discourage the hearts of the Israelites from crossing into the land that the LORD has given them?
-v08: This is what your fathers did when I sent them from Kadesh-barnea to see the land.
-v09: They went up to the Wadi Eshcol and saw the land, but they discouraged the hearts of the Israelites so that they did not enter the land the LORD had given them.
+v01: The Reubenites and Gadites had very large herds. They saw that the lands of Jazer and Gilead were good country for livestock.
+v02: So the Gadites and Reubenites came to Moses, Eleazar the priest and the community’s leaders and said,
+v03: “Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo and Beon—
+v04: the land the LORD struck down before the community of Israel—is livestock country, and your servants have livestock.”
 </p>
 
 <p>
-v10: The anger of the LORD burned on that day, and the LORD swore, saying,
-v11: ‘Surely none of the men who came up from Egypt, from twenty years old and upward, will see the land that I swore to Abraham, Isaac, and Jacob, because they did not follow me fully,
-v12: except Caleb son of Jephunneh the Kenizzite and Joshua son of Nun, because they followed the LORD fully.’
-v13: The anger of the LORD burned against Israel, and the LORD made them wander in the wilderness forty years, until all the generation that had done evil in the eyes of the LORD came to an end.
-v14: And look, you have risen in your fathers’ place, a brood of sinful men, to add still more to the burning anger of the LORD against Israel.
-v15: For if you turn away from following the LORD, the LORD will again leave them in the wilderness, and you will destroy all this people.”
+v05: They added, “If we have found favor with you, let this land be given to your servants as our holding. Do not make us cross the Jordan.”
 </p>
 
-## They Promise to Cross Armed
+## Moses challenges the tribes
 
 <p>
-v16: Then they came near to him and said, “We will build sheepfolds here for our livestock and cities for our little ones,
-v17: but we ourselves will arm ourselves quickly before the Israelites until we have brought them to their place. Our little ones will live in the fortified cities because of the inhabitants of the land.
-v18: We will not return to our houses until every Israelite has received an inheritance.
-v19: For we will not inherit with them beyond the Jordan and farther on, because our inheritance has come to us on this eastern side of the Jordan.”
+v06: Moses asked the Gadites and Reubenites, “Are your brothers to go to war while you stay here?
+v07: Why would you discourage the Israelites from crossing into the land the LORD has given them?
 </p>
 
 <p>
-v20: Moses said to them, “If you do this—if you arm yourselves before the LORD for war,
-v21: and every armed man among you crosses the Jordan before the LORD until the LORD has driven the enemies out from before him,
-v22: and the land is subdued before the LORD—then afterward you may return and be free of obligation before the LORD and before Israel, and this land will be your possession before the LORD.
-v23: But if you do not do so, look—you have sinned against the LORD, and know that your sin will find you.
-v24: Build cities for your little ones and folds for your flocks, and do what has gone out from your mouth.”
+v08: That is what your fathers did when I sent them from Kadesh-barnea to look over the land.
+v09: They went up as far as the Valley of Eshcol and saw the land. Then they discouraged the Israelites from entering the land the LORD had given them.
 </p>
 
 <p>
-v25: The descendants of Gad and the descendants of Reuben said to Moses, “Your servants will do as my lord commands.
-v26: Our little ones, our wives, our livestock, and all our animals will remain there in the cities of Gilead,
-v27: but your servants will cross over, every one armed for war, before the LORD to battle, as my lord says.”
-</p>
-
-## The Agreement Is Established
-
-<p>
-v28: So Moses gave command concerning them to Eleazar the priest, Joshua son of Nun, and the heads of the ancestral houses of the tribes of the Israelites.
-v29: Moses said to them, “If the descendants of Gad and the descendants of Reuben cross the Jordan with you, everyone armed for battle before the LORD, and the land is subdued before you, then give them the land of Gilead as a possession.
-v30: But if they do not cross over with you armed, they will receive a possession among you in the land of Canaan.”
-v31: The descendants of Gad and the descendants of Reuben answered, saying, “As the LORD has spoken to your servants, so we will do.
-v32: We ourselves will cross over armed before the LORD into the land of Canaan, but the possession of our inheritance will remain with us beyond the Jordan.”
-</p>
-
-## The Eastern Territory Assigned
-
-<p>
-v33: Moses gave to them—to the descendants of Gad, the descendants of Reuben, and the half-tribe of Manasseh son of Joseph—the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan: the land with its cities and territories, the cities throughout the surrounding land.
-v34: The descendants of Gad built Dibon, Ataroth, and Aroer,
-v35: Atroth-shophan, Jazer, and Jogbehah,
-v36: Beth-nimrah and Beth-haran, fortified cities, and folds for sheep.
+v10: The LORD’s anger burned that day, and he swore,
+v11: ‘None of the men who came up from Egypt, from twenty years old and upward, will see the land I swore to give Abraham, Isaac and Jacob, because they have not followed me wholeheartedly—
+v12: except Caleb son of Jephunneh the Kenizzite and Joshua son of Nun, for they have followed the LORD wholeheartedly.’
 </p>
 
 <p>
-v37: The descendants of Reuben built Heshbon, Elealeh, and Kiriathaim,
-v38: Nebo and Baal-meon—their names being changed—and Sibmah. They gave names to the cities they built.
-v39: The descendants of Machir son of Manasseh went to Gilead, captured it, and dispossessed the Amorites who were in it.
-v40: Moses gave Gilead to Machir son of Manasseh, and he lived in it.
-v41: Jair son of Manasseh went and captured their villages and called them Havvoth-jair.
-v42: Nobah went and captured Kenath and its villages and called it Nobah after his own name.
+v13: The LORD’s anger burned against Israel, and he made them wander in the wilderness for forty years, until the entire generation that had done evil in his eyes was gone.
+</p>
+
+<p>
+v14: And now you have risen up in your fathers’ place, a brood of sinful men, adding still more to the LORD’s burning anger against Israel!
+v15: If you turn away from following him, he will leave them in the wilderness again, and you will destroy this whole people.”
+</p>
+
+## A pledge to cross and fight
+
+<p>
+v16: They came closer to him and said, “Let us build pens here for our livestock and towns for our little children.
+v17: But we will arm ourselves and move quickly ahead of the Israelites until we have brought them to their place. Meanwhile our little children will live in fortified towns because of the people of the land.
+</p>
+
+<p>
+v18: We will not return to our homes until every Israelite has received an inheritance.
+v19: We will not take an inheritance with them across the Jordan to the west, because our inheritance has come to us on the east side of the Jordan.”
+</p>
+
+<p>
+v20: Moses answered them, “If you do this—if you arm yourselves before the LORD for war,
+v21: and every armed man among you crosses the Jordan before the LORD until he has driven his enemies out before him,
+v22: and the land has been subdued before the LORD—then you may return, free of your obligation to the LORD and to Israel. This land will be your holding before the LORD.
+</p>
+
+<p>
+v23: But if you do not do this, you will have sinned against the LORD. Be sure that your sin will find you out.
+</p>
+
+<p>
+v24: Build towns for your little children and pens for your flocks, and do what you have said you would do.”
+</p>
+
+<p>
+v25: The Gadites and Reubenites said to Moses, “Your servants will do as my lord commands.
+v26: Our little children, our wives, our herds and all our livestock will stay here in the towns of Gilead.
+v27: But your servants, every man armed for battle, will cross over before the LORD to fight, just as my lord says.”
+</p>
+
+## The agreement and the eastern towns
+
+<p>
+v28: Moses gave instructions about them to Eleazar the priest, Joshua son of Nun and the heads of the ancestral houses of Israel’s tribes.
+</p>
+
+<p>
+v29: He told them, “If the Gadites and Reubenites cross the Jordan with you, every man armed for battle before the LORD, and the land is subdued before you, give them Gilead as their holding.
+v30: But if they do not cross over armed with you, they must receive a holding among you in Canaan.”
+</p>
+
+<p>
+v31: The Gadites and Reubenites answered, “What the LORD has told your servants, we will do.
+v32: We will cross over armed before the LORD into Canaan, while our inherited holding remains on this side of the Jordan.”
+</p>
+
+<p>
+v33: Moses gave the Gadites, the Reubenites and half the tribe of Manasseh son of Joseph the kingdoms of Sihon king of the Amorites and Og king of Bashan: the land with its towns and their surrounding territory.
+</p>
+
+<p>
+v34: The Gadites rebuilt Dibon, Ataroth and Aroer,
+v35: Atroth-shophan, Jazer and Jogbehah,
+v36: Beth-nimrah and Beth-haran as fortified towns, and they built pens for the flocks.
+</p>
+
+<p>
+v37: The Reubenites rebuilt Heshbon, Elealeh and Kiriathaim,
+v38: Nebo and Baal-meon, whose names were changed, and Sibmah. They gave names to the towns they rebuilt.
+</p>
+
+<p>
+v39: The descendants of Machir son of Manasseh went to Gilead and captured it, driving out the Amorites who lived there.
+v40: Moses gave Gilead to Machir son of Manasseh, and Machir’s family settled there.
+</p>
+
+<p>
+v41: Jair, a descendant of Manasseh, went and captured their villages, and called them Havvoth-jair.
+</p>
+
+<p>
+v42: Nobah went and captured Kenath and its surrounding villages. He named it Nobah after himself.
 </p>
 
 ## Notes
 
-v05: The request “Do not make us cross the Jordan” initially sounds to Moses like a refusal of the promised land, explaining the severity of his response.
+v6–15: Moses compares the request with the scouts’ discouraging report in Numbers 13–14. His warning addresses the effect on the other Israelites, whom he calls the tribes’ brothers.
 
-v07: “discourage the hearts” — Literally to hinder or turn away the heart, echoing the effect of the spies’ report in Numbers 13–14.
+v20–24: The repeated “before the LORD” gives the military pledge a divine as well as communal setting. “Free of your obligation” renders language of being clear or guiltless after fulfilling the pledge. “Your sin will find you out” retains the image of sin pursuing the wrongdoer.
 
-v20–22: Moses repeatedly says the tribes will cross “before the LORD,” framing the military obligation as covenant responsibility rather than merely assistance to other tribes.
+v29–30: The agreement has an explicit alternative: if the tribes do not cross armed, they are to receive a holding among the others in Canaan. Verse 30 does not say that they will receive no land at all.
 
-v23: “your sin will find you” personifies wrongdoing as something that eventually overtakes the person who attempts to leave it behind.
+v33, 39–41: Half the tribe of Manasseh enters the land grant in verse 33. The later references to Machir use the ancestor’s name for his descendants collectively; verse 39 shifts from plural descendants to a singular verb. “Son” in such family accounts can also mean a descendant.
 
-v33: The half-tribe of Manasseh appears in the final territorial grant although the initial request is made by Reuben and Gad.
-
-v38: The note that names were changed is retained without reconstructing all earlier cultic associations or identifying which new names replaced them.
+v38: The passage says that the names of Nebo and Baal-meon were changed but does not supply the new names.
 
 ## Vocabulary
 
-v01: מִקְנֶה (miqneh)
-“Livestock” or “property in animals.” Herd wealth central to the tribes’ request.
+v4–5: Holding
+Land possessed by a person or group. It remains connected with “inheritance” throughout the settlement instructions.
 
-v05: אֲחֻזָּה (achuzzah)
-“Possession.” Land held as an enduring territorial holding.
+v9: Valley of Eshcol
+The valley visited by the scouts; compare Numbers 13:23–24.
 
-v07: נוּא (nu)
-“To discourage” or “hinder.” To turn someone away from a course of action.
+v12: Kenizzite
+Caleb’s clan designation, retained alongside his father’s name.
 
-v12: מָלֵא אַחֲרֵי (male acharei)
-“To follow fully.” Wholehearted adherence to the LORD.
+v24: Do what you have said
+The instruction links the tribes’ spoken commitment with action, continuing the concern with binding words in chapter 30.
 
-v22: כָּבַשׁ (kavash)
-“To subdue.” To bring land or opposition under control.
-
-v23: מָצָא (matsa)
-“To find.” In the warning, sin itself is pictured as finding the sinner.
+v41: Havvoth-jair
+“Villages of Jair,” a name tied here to Jair’s capture of the settlements.

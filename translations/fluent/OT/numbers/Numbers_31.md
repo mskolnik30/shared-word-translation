@@ -4,140 +4,173 @@ testament: OT
 chapter: 31
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-31-36-biblical-fluency-2026-09-13
 ---
 
-## War Against Midian
+## War against Midian
 
 <p>
-v01: The LORD spoke to Moses, saying,
-v02: “Take vengeance for the Israelites against the Midianites. Afterward you will be gathered to your people.”
-v03: Moses spoke to the people, saying, “Arm men from among you for war, so that they may go against Midian to execute the LORD’s vengeance on Midian.
-v04: You will send one thousand from each tribe, from all the tribes of Israel, to the war.”
-v05: So from the thousands of Israel there were supplied one thousand from each tribe, twelve thousand armed for war.
+v01: The LORD spoke to Moses.
+v02: “Take vengeance on the Midianites for the Israelites. Afterward you will be gathered to your people.”
 </p>
 
 <p>
-v06: Moses sent them to the war, one thousand from each tribe, along with Phinehas son of Eleazar the priest, with the holy vessels and the trumpets for the signal in his hand.
-v07: They fought against Midian, as the LORD commanded Moses, and killed every male.
-v08: They killed the kings of Midian along with the rest of those slain: Evi, Rekem, Zur, Hur, and Reba, the five kings of Midian. They also killed Balaam son of Beor with the sword.
-v09: The Israelites took captive the women of Midian and their little ones, and they took as plunder all their cattle, flocks, and goods.
-v10: They burned with fire all the cities where they lived and all their encampments.
+v03: Moses told the people, “Arm some of your men for war. They are to attack Midian and carry out the LORD’s vengeance against it.
+v04: Send a thousand from each tribe—a thousand from every tribe of Israel—to the war.”
 </p>
 
 <p>
-v11: They took all the spoil and all the plunder, both people and animals,
-v12: and brought the captives, plunder, and spoil to Moses, Eleazar the priest, and the congregation of the Israelites, to the camp in the plains of Moab by the Jordan at Jericho.
-</p>
-
-## Moses Addresses the Returning Army
-
-<p>
-v13: Moses, Eleazar the priest, and all the leaders of the congregation went out to meet them outside the camp.
-v14: Moses became angry with the officers of the army, the commanders of thousands and commanders of hundreds who had come from the service of war.
-v15: Moses said to them, “Have you kept all the women alive?
-v16: Look, these were the ones who, at Balaam’s counsel, caused the Israelites to act unfaithfully against the LORD in the matter of Peor, so that the plague came upon the congregation of the LORD.
-v17: Now therefore kill every male among the little ones, and kill every woman who has known a man by lying with him.
-v18: But all the young girls who have not known a man by lying with him, keep alive for yourselves.
-</p>
-
-## Purification After Battle
-
-<p>
-v19: Camp outside the camp seven days. Whoever has killed a person and whoever has touched a slain person will purify yourselves on the third day and on the seventh day, you and your captives.
-v20: Purify every garment, every article of leather, everything made of goat hair, and every article of wood.”
+v05: So a thousand men from each tribe were supplied from Israel’s thousands: twelve thousand armed for war.
+v06: Moses sent them to war, a thousand from each tribe, along with Phinehas son of Eleazar the priest. Phinehas carried the holy articles and the trumpets for sounding the signal.
+v07: They made war on Midian as the LORD had commanded Moses, and they killed every male.
+v08: Among those they killed were the five kings of Midian: Evi, Rekem, Zur, Hur and Reba. They also killed Balaam son of Beor with the sword.
 </p>
 
 <p>
-v21: Eleazar the priest said to the men of the army who had gone to battle, “This is the statute of the instruction that the LORD commanded Moses:
-v22: Only the gold, silver, bronze, iron, tin, and lead—
-v23: everything that can withstand fire—you will pass through fire, and it will be clean. Even so, it will also be purified with the water of purification. Whatever cannot withstand fire you will pass through water.
-v24: You will wash your clothes on the seventh day and be clean; afterward you may enter the camp.”
+v09: The Israelites captured the women and little children of Midian. They took all their cattle, flocks and wealth as plunder.
+v10: They burned all the towns where the Midianites lived and all their encampments.
+v11: They took all the plunder and all the captives, both people and animals.
+v12: They brought the captives, the captured goods and the plunder to Moses, Eleazar the priest and the Israelite community, at the camp on the plains of Moab by the Jordan across from Jericho.
 </p>
 
-## The Plunder Divided
+## Moses meets the returning army
 
 <p>
-v25: The LORD spoke to Moses, saying,
-v26: “Take a count of the plunder that was captured, both people and animals, you and Eleazar the priest and the heads of the ancestral houses of the congregation.
-v27: Divide the plunder into two parts, between those skilled in war who went out to battle and the whole congregation.
-v28: Levy a tribute for the LORD from the warriors who went out to battle: one out of every five hundred, from the people, cattle, donkeys, and flocks.
+v13: Moses, Eleazar the priest and all the community’s leaders went outside the camp to meet them.
+</p>
+
+<p>
+v14: Moses was angry with the army’s officers, the commanders of thousands and of hundreds who had returned from the campaign.
+v15: “Have you kept all the females alive?” he asked them.
+v16: “These are the ones who, at Balaam’s advice, led the Israelites to betray the LORD in the affair at Peor, so that a plague struck the LORD’s community.
+v17: Now kill every boy among the little children, and kill every woman who has slept with a man.
+v18: But keep alive for yourselves all the girls who have not slept with a man.
+</p>
+
+<p>
+v19: Stay outside the camp for seven days. All of you who have killed someone or touched a slain person must purify yourselves on the third and seventh days—you and your captives alike.
+v20: Purify every garment, every leather article, everything made of goats’ hair and every wooden article.”
+</p>
+
+<p>
+v21: Then Eleazar the priest told the soldiers who had gone to war, “This is the rule of the law that the LORD commanded Moses.
+v22: Gold, silver, bronze, iron, tin and lead—
+v23: anything that can withstand fire must pass through fire and be purified. It must also be purified with the water for removing impurity. Whatever cannot withstand fire must pass through water.
+</p>
+
+<p>
+v24: Wash your clothes on the seventh day, and you will be clean. After that you may enter the camp.”
+</p>
+
+## Dividing the captives and plunder
+
+<p>
+v25: The LORD spoke to Moses.
+</p>
+
+<p>
+v26: “You, Eleazar the priest and the heads of the community’s ancestral houses are to count the captives, both people and animals.
+v27: Divide the captured people and animals equally between the warriors who went to battle and the rest of the community.
+</p>
+
+<p>
+v28: From the soldiers who went to battle, set aside a tribute to the LORD: one out of every five hundred people, cattle, donkeys, sheep and goats.
 v29: Take it from their half and give it to Eleazar the priest as the LORD’s contribution.
-v30: From the Israelites’ half you will take one out of every fifty, from the people, cattle, donkeys, flocks, and every kind of livestock, and give them to the Levites who keep charge of the LORD’s tabernacle.”
-v31: Moses and Eleazar the priest did as the LORD commanded Moses.
 </p>
 
-## The Count of the Plunder
+<p>
+v30: From the Israelites’ half, take one out of every fifty people and animals—cattle, donkeys, sheep, goats and all the livestock. Give them to the Levites who carry out the duties of the LORD’s tabernacle.”
+</p>
 
 <p>
-v32: The plunder remaining from the spoil that the people of the army had taken was six hundred seventy-five thousand sheep,
+v31: Moses and Eleazar the priest did as the LORD had commanded Moses.
+</p>
+
+<p>
+v32: The captured property remaining from the soldiers’ plunder included six hundred and seventy-five thousand sheep and goats,
 v33: seventy-two thousand cattle,
 v34: sixty-one thousand donkeys,
-v35: and thirty-two thousand persons in all, women who had not known a man by lying with him.
+v35: and thirty-two thousand people, all females who had not slept with a man.
 </p>
 
 <p>
-v36: The half that was the portion of people who went out to war was three hundred thirty-seven thousand five hundred sheep,
-v37: and the LORD’s tribute from the sheep was six hundred seventy-five.
-v38: The cattle were thirty-six thousand, of which the LORD’s tribute was seventy-two.
-v39: The donkeys were thirty thousand five hundred, of which the LORD’s tribute was sixty-one.
-v40: The persons were sixteen thousand, of which the LORD’s tribute was thirty-two persons.
-v41: Moses gave the tribute, the LORD’s contribution, to Eleazar the priest, as the LORD commanded Moses.
+v36: The half-share for those who went to war was three hundred and thirty-seven thousand five hundred sheep and goats.
+v37: The LORD’s tribute from the sheep and goats was six hundred and seventy-five.
+v38: There were thirty-six thousand cattle, of which the LORD’s tribute was seventy-two.
+v39: There were thirty thousand five hundred donkeys, of which the LORD’s tribute was sixty-one.
+v40: There were sixteen thousand people, of whom the LORD’s tribute was thirty-two people.
 </p>
 
 <p>
-v42: From the Israelites’ half, which Moses had separated from the men who fought—
-v43: the congregation’s half was three hundred thirty-seven thousand five hundred sheep,
+v41: Moses gave this tribute, the LORD’s contribution, to Eleazar the priest, as the LORD had commanded Moses.
+</p>
+
+<p>
+v42: The Israelites’ half, which Moses had separated from the soldiers’ share,
+v43: was the community’s share: three hundred and thirty-seven thousand five hundred sheep and goats,
 v44: thirty-six thousand cattle,
 v45: thirty thousand five hundred donkeys,
-v46: and sixteen thousand persons—
-v47: from the Israelites’ half Moses took one out of every fifty, from both people and animals, and gave them to the Levites who kept charge of the LORD’s tabernacle, as the LORD commanded Moses.
-</p>
-
-## The Officers Bring an Offering
-
-<p>
-v48: Then the officers who were over the thousands of the army, the commanders of thousands and commanders of hundreds, came near to Moses.
-v49: They said to Moses, “Your servants have taken a count of the men of war who were under our command, and not one man of us is missing.
-v50: So we have brought the LORD’s offering, what each man found: articles of gold, armlets, bracelets, signet rings, earrings, and necklaces, to make atonement for our lives before the LORD.”
+v46: and sixteen thousand people.
 </p>
 
 <p>
-v51: Moses and Eleazar the priest took the gold from them, all the crafted articles.
-v52: All the gold of the contribution that they contributed to the LORD, from the commanders of thousands and the commanders of hundreds, was sixteen thousand seven hundred fifty shekels.
-v53: The men of war had each taken plunder for themselves.
-v54: Moses and Eleazar the priest took the gold from the commanders of thousands and hundreds and brought it into the Tent of Meeting as a remembrance for the Israelites before the LORD.
+v47: From the Israelites’ half, Moses took one out of every fifty people and animals. He gave them to the Levites who carried out the duties of the LORD’s tabernacle, as the LORD had commanded Moses.
+</p>
+
+## The officers’ gold offering
+
+<p>
+v48: The officers over the army’s thousands—the commanders of thousands and of hundreds—approached Moses.
+</p>
+
+<p>
+v49: They told him, “Your servants have counted the soldiers under our command, and not one of us is missing.
+v50: So we have brought an offering to the LORD: whatever gold articles each man found—anklets, bracelets, signet rings, earrings and necklaces—to make atonement for our lives before the LORD.”
+</p>
+
+<p>
+v51: Moses and Eleazar the priest received their gold, all of it crafted into articles.
+v52: All the gold that the commanders of thousands and of hundreds contributed to the LORD weighed sixteen thousand seven hundred and fifty shekels.
+</p>
+
+<p>
+v53: The soldiers had each taken plunder for themselves.
+</p>
+
+<p>
+v54: Moses and Eleazar the priest received the gold from the commanders of thousands and of hundreds and brought it into the tent of meeting, as a memorial for the Israelites before the LORD.
 </p>
 
 ## Notes
 
-v02: The campaign is explicitly framed as vengeance for the events at Peor before Moses’ death. The narrative’s own explanation should not be generalized beyond this commanded setting.
+v2–3: The command speaks of vengeance for Israel; Moses’ address calls it the LORD’s vengeance. Both formulations are retained.
 
-v16: The chapter attributes the Peor strategy to Balaam, supplying information not narrated explicitly in Numbers 22–24.
+v6–8: The holy articles carried by Phinehas are not identified. “Every male” describes the campaign here; verse 17 later commands the killing of captive boys. The draft preserves both statements without changing “male” to “soldier” or claiming the death of every Midianite everywhere.
 
-v17–18: The commands concerning captives are among the most severe texts in Numbers. TSW renders them directly and does not soften the categories or supply a moral explanation absent from the text.
+v15–18: Moses orders the killing of the boys and of women who have slept with a man, while the girls who have not are kept alive “for yourselves.” The surviving girls remain captives and are counted in the distribution. The account does not specify their subsequent individual circumstances.
 
-v19–24: Victory does not eliminate corpse impurity. Warriors, captives, clothing, and objects all pass through purification before reentering ordinary camp life.
+v19–24: Both the soldiers and their captives must undergo purification. Objects that pass through fire also require the water for removing impurity; compare Numbers 19. Fire does not replace that requirement.
 
-v27–30: The plunder is divided between combatants and congregation, and each share contributes a different proportion to priestly or Levitical service.
+v28–47: The soldiers and the community each receive half. The soldiers’ tribute is one in five hundred, given to Eleazar; the community’s is one in fifty, given to the Levites. People are explicitly included in both levies.
 
-v49: The officers’ offering responds to the report that not one Israelite warrior is missing, turning survival into a memorial before the LORD.
+v50: The five Hebrew ornament names are not all securely identified. Anklets can also be understood as armlets, and the final item as beads or another kind of ornament. The officers describe the gift as making atonement for their lives; the translation does not replace that claim with a general expression of gratitude.
 
 ## Vocabulary
 
-v02: נָקַם (naqam)
-“To avenge” or “take vengeance.” Judicial retaliation assigned here by the LORD.
+v2: Gathered to your people
+An expression for death, also used of Aaron and the patriarchs.
 
-v11: שָׁלָל (shalal)
-“Plunder” or “spoil.” Goods taken in war.
+v19: Purify
+To remove ritual impurity, here following killing or contact with the dead. This is distinct from the later question of murder and bloodguilt in chapter 35.
 
-v21: חֻקַּת הַתּוֹרָה (chuqqat hattorah)
-“Statute of the instruction.” A fixed ritual rule within the Torah.
+v28: Tribute
+A portion taken from the captured people and animals and assigned to the LORD.
 
-v23: מֵי נִדָּה (mei niddah)
-“Water of purification.” The water prepared from the red-heifer ashes in Numbers 19.
+v52: Shekel
+A unit of weight. The stated gold total is 16,750 shekels; the text does not describe minted coins.
 
-v28: מֶכֶס (mekhes)
-“Tribute” or “levy.” A required share taken from the battle portion for the LORD.
-
-v54: זִכָּרוֹן (zikkaron)
-“Remembrance” or “memorial.” Something placed before the LORD as enduring covenantal memory.
+v54: Memorial
+Something placed before the LORD to serve as a remembrance of the Israelites.
