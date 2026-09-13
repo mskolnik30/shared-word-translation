@@ -397,5 +397,18 @@
     32,
     33,
     34
+  ],
+  "consistency_passes": [
+    {
+      "id": "fluent-deuteronomy-consistency-2026-09-13",
+      "report": "audit/fluent-revision/2026-09-13-deuteronomy-consistency/review.json",
+      "qualification": "Structural scan of all 34 chapters and 250 selected source/English comparisons; five verse refinements in chapters 27, 32 and 34. Independent editorial review remains pending.",
+      "changed_chapters": [
+        27,
+        32,
+        34
+      ],
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2"
+    }
   ]
 }

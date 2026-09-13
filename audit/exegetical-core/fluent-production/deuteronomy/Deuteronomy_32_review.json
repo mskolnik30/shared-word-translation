@@ -39,7 +39,7 @@
     "verse_count": 52,
     "path": "translations/fluent/OT/deuteronomy/Deuteronomy_32.md",
     "before_sha256": "6f03d8f50f4a55f666ba13e92173b5531b735f211996aa7ff2f95fa9d2622276",
-    "after_sha256": "3b8b4b72a4a218f9fc6c25543eeab36562ff4341568e4890971a617d1955fd05",
+    "after_sha256": "1c58c35535da0c5c6bfda9c85c3b85ba33b0c98b54e297438d6796a06004982c",
     "tsw_comparator_path": "books/OT/deuteronomy/Deuteronomy_32.md",
     "tsw_comparator_sha256": "31a64775231954c30c9d0f06ecbb01e01137b55c53f82c615b1ad791056c1f30"
   },
@@ -167,6 +167,26 @@
       "delta": "F3",
       "decision": "Preserves the imperative force and repeated gathering-to-people idiom, including Aaron and Hor.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "consistency_revisions": [
+    {
+      "id": "fluent-deuteronomy-consistency-2026-09-13",
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+      "prior_chapter_binding": {
+        "chapter": 32,
+        "verse_count": 52,
+        "path": "translations/fluent/OT/deuteronomy/Deuteronomy_32.md",
+        "before_sha256": "6f03d8f50f4a55f666ba13e92173b5531b735f211996aa7ff2f95fa9d2622276",
+        "after_sha256": "3b8b4b72a4a218f9fc6c25543eeab36562ff4341568e4890971a617d1955fd05",
+        "tsw_comparator_path": "books/OT/deuteronomy/Deuteronomy_32.md",
+        "tsw_comparator_sha256": "31a64775231954c30c9d0f06ecbb01e01137b55c53f82c615b1ad791056c1f30"
+      },
+      "report": "audit/fluent-revision/2026-09-13-deuteronomy-consistency/review.json",
+      "changed_verses": [
+        "Deuteronomy 32:13"
+      ],
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

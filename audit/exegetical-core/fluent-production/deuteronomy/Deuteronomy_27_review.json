@@ -39,7 +39,7 @@
     "verse_count": 26,
     "path": "translations/fluent/OT/deuteronomy/Deuteronomy_27.md",
     "before_sha256": "0b69fc5474edde333e7e787c4a2049218ef1150bbaafa8d18071ac5d8a776068",
-    "after_sha256": "1a1ecd9a5b002087bed6aae38f58d83e85f8f7195e4482b43a71bd10346b5e6e",
+    "after_sha256": "f5565076710b5a1267c4630347e95598be780ee77400b6ff060da1c655f2d623",
     "tsw_comparator_path": "books/OT/deuteronomy/Deuteronomy_27.md",
     "tsw_comparator_sha256": "854c960cb90cd23e7758f20c79f2cf9413bb66b5ed0c963b8a95d420bc5ff375"
   },
@@ -65,6 +65,26 @@
       "delta": "F3",
       "decision": "Retains the lethal force of striking down in context without adding a specific weapon.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "consistency_revisions": [
+    {
+      "id": "fluent-deuteronomy-consistency-2026-09-13",
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+      "prior_chapter_binding": {
+        "chapter": 27,
+        "verse_count": 26,
+        "path": "translations/fluent/OT/deuteronomy/Deuteronomy_27.md",
+        "before_sha256": "0b69fc5474edde333e7e787c4a2049218ef1150bbaafa8d18071ac5d8a776068",
+        "after_sha256": "1a1ecd9a5b002087bed6aae38f58d83e85f8f7195e4482b43a71bd10346b5e6e",
+        "tsw_comparator_path": "books/OT/deuteronomy/Deuteronomy_27.md",
+        "tsw_comparator_sha256": "854c960cb90cd23e7758f20c79f2cf9413bb66b5ed0c963b8a95d420bc5ff375"
+      },
+      "report": "audit/fluent-revision/2026-09-13-deuteronomy-consistency/review.json",
+      "changed_verses": [
+        "Deuteronomy 27:20"
+      ],
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

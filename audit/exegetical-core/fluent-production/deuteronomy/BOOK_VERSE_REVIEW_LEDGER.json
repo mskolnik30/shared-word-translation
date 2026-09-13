@@ -24336,5 +24336,18 @@
     "versification_note": "Public Deuteronomy 29:1 binds Hebrew 28:69; public 29:2–29 binds Hebrew 29:1–28. All other public verses in chapters 27–34 align directly. All 266 original XML records, including written/read and numbering notes, are hashed in full.",
     "note": "Chapters 27–34 receive a source-based draft. Prior batches and pending status are preserved. No previous wording approval transfers."
   },
-  "summary_scope": "Historical mechanical triage for prior text; revision_batches contain authoritative source-bound ledgers for chapters 1–34."
+  "summary_scope": "Historical mechanical triage for prior text; revision_batches contain authoritative source-bound ledgers for chapters 1–34.",
+  "consistency_passes": [
+    {
+      "id": "fluent-deuteronomy-consistency-2026-09-13",
+      "report": "audit/fluent-revision/2026-09-13-deuteronomy-consistency/review.json",
+      "qualification": "Structural scan of all 34 chapters and 250 selected source/English comparisons; five verse refinements in chapters 27, 32 and 34. Independent editorial review remains pending.",
+      "changed_chapters": [
+        27,
+        32,
+        34
+      ],
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2"
+    }
+  ]
 }

@@ -7,7 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision: fluent-deuteronomy-27-34-biblical-fluency-2026-09-13
+revision: fluent-deuteronomy-consistency-2026-09-13
 ---
 
 ## The song of Moses
@@ -66,9 +66,9 @@ no foreign god was with him.
 </p>
 
 <p>
-v13: He made him ride the heights of the earth
-and eat the produce of the fields.
-He let him suck honey from rock
+v13: The LORD made Jacob ride the heights of the earth,
+and Jacob ate the produce of the fields.
+The LORD let him suck honey from rock
 and oil from flinty stone.
 v14: Curds from cattle and milk from flocks,
 with fat lambs,

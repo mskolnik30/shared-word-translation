@@ -7,7 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision: fluent-deuteronomy-27-34-biblical-fluency-2026-09-13
+revision: fluent-deuteronomy-consistency-2026-09-13
 ---
 
 ## Moses sees the land
@@ -41,9 +41,9 @@ v09: Joshua son of Nun was filled with the spirit of wisdom, because Moses had l
 </p>
 
 <p>
-v10: Never again has a prophet like Moses arisen in Israel, whom the LORD knew face to face,
-v11: with all the signs and wonders the LORD sent him to perform in the land of Egypt against Pharaoh, all his servants, and all his land,
-v12: and with all the mighty hand and all the great terror Moses displayed before the eyes of all Israel.
+v10: Since then, no prophet has arisen in Israel like Moses, whom the LORD knew face to face.
+v11: No prophet has matched him in all the signs and wonders the LORD sent him to perform in the land of Egypt against Pharaoh, all his servants, and all his land,
+v12: or in the mighty hand and all the great terror Moses displayed before the eyes of all Israel.
 </p>
 
 ## Notes
@@ -52,7 +52,7 @@ v5–6: “At the LORD’s command” is literally “at the LORD’s mouth.” 
 
 v7: Moses’ undiminished sight and vigor should be read alongside his statement about no longer going out and coming in at 31:2.
 
-v10–12: The closing comparison runs through all three verses. It says the LORD knew Moses face to face, then recalls the signs, power, and terror displayed through him.
+v10–12: The closing comparison spans these three verses. It first says the LORD knew Moses face to face, then recalls the signs, mighty hand, and terror displayed through him.
 
 ## Vocabulary
 

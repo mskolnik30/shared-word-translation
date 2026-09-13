@@ -1,0 +1,183 @@
+{
+  "id": "fluent-deuteronomy-consistency-2026-09-13",
+  "base_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+  "scope": "Deuteronomy 1–34: complete structural scan, all main-text headings read, 250 selected source/English comparisons",
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Deut",
+    "book_verse_count": 959,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "sha256": "aad16a6a2dcbdc6ee36d7d051e80a63bfeb69ecaae19f775ec5b6aa67fe22355",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Deut.xml",
+    "verse_hash_method": "SHA-256 of the exact original XML verse substring, including written/read notes, not a normalized substitute.",
+    "public_versification_note": "Complete Deuteronomy: all 959 source records bound once. Public 12:32 / chapter 13, public 22:30 / chapter 23, and public chapter 29 offsets are enumerated in verification.json."
+  },
+  "changes": [
+    {
+      "reference": "Deuteronomy 27:20",
+      "delta": "F1",
+      "before": "‘Cursed is anyone who has sex with his father’s wife, for he has uncovered his father’s covering.’ All the people are to say, ‘Amen!’",
+      "after": "‘Cursed is anyone who has sex with his father’s wife, for he has uncovered his father’s garment.’ All the people are to say, ‘Amen!’",
+      "rationale": "Uses garment for the same uncovering-the-father’s-kanaph expression already retained in public 22:30. This makes the recurring sexual-marital image recognizable without removing it or changing the prohibited relationship.",
+      "source_reference": "Deut 27:20",
+      "source_verse_sha256": "9fc328067b09721da2ac6783594cff45c30c78d48e21fbee1c8fac03731a3b95",
+      "tsw_comparator": "‘Cursed is the one who lies with his father’s wife, because he has uncovered his father’s skirt.’ And all the people shall say, ‘Amen.’",
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+      "verse_ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+      "chapter_path": "translations/fluent/OT/deuteronomy/Deuteronomy_27.md",
+      "before_chapter_sha256": "1a1ecd9a5b002087bed6aae38f58d83e85f8f7195e4482b43a71bd10346b5e6e",
+      "after_chapter_sha256": "f5565076710b5a1267c4630347e95598be780ee77400b6ff060da1c655f2d623",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Deuteronomy 32:13",
+      "delta": "F2",
+      "before": "He made him ride the heights of the earth and eat the produce of the fields. He let him suck honey from rock and oil from flinty stone.",
+      "after": "The LORD made Jacob ride the heights of the earth, and Jacob ate the produce of the fields. The LORD let him suck honey from rock and oil from flinty stone.",
+      "rationale": "Separates the Hebrew causative made-him-ride from the following finite he-ate clause. Naming the LORD and Jacob, already identified in 32:9–12, makes the two agents audible while preserving the rock/honey/oil images and poetic lineation.",
+      "source_reference": "Deut 32:13",
+      "source_verse_sha256": "73dc3d792caa374ee67c69be7f525a10879b7e949b954862c748118d7ae94d55",
+      "tsw_comparator": "He made him ride upon the heights of the land, and he ate the produce of the field. He made him suck honey from the rock and oil from the flinty rock,",
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+      "verse_ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+      "chapter_path": "translations/fluent/OT/deuteronomy/Deuteronomy_32.md",
+      "before_chapter_sha256": "3b8b4b72a4a218f9fc6c25543eeab36562ff4341568e4890971a617d1955fd05",
+      "after_chapter_sha256": "1c58c35535da0c5c6bfda9c85c3b85ba33b0c98b54e297438d6796a06004982c",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Deuteronomy 34:10",
+      "delta": "F2",
+      "before": "Never again has a prophet like Moses arisen in Israel, whom the LORD knew face to face,",
+      "after": "Since then, no prophet has arisen in Israel like Moses, whom the LORD knew face to face.",
+      "rationale": "Keeps the narrator’s retrospective since and the LORD as the one who knew Moses. Ends a complete sentence before restating the comparison, so the relative clause cannot seem to modify Israel.",
+      "source_reference": "Deut 34:10",
+      "source_verse_sha256": "db68f160c94a80d0e341c032c1e439f8852752a45fb6594f2cfc6c81598007f4",
+      "tsw_comparator": "And there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face,",
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+      "verse_ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+      "chapter_path": "translations/fluent/OT/deuteronomy/Deuteronomy_34.md",
+      "before_chapter_sha256": "48bd323f807ef0cc38d56b26d5f9511b5671def1379ff42a9b3cf0d8781bfd83",
+      "after_chapter_sha256": "8696c0d95ea591019609867f54d80af876444f9a9e729cba7271027c39bdddef",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Deuteronomy 34:11",
+      "delta": "F2",
+      "before": "with all the signs and wonders the LORD sent him to perform in the land of Egypt against Pharaoh, all his servants, and all his land,",
+      "after": "No prophet has matched him in all the signs and wonders the LORD sent him to perform in the land of Egypt against Pharaoh, all his servants, and all his land,",
+      "rationale": "Restates the implicit comparison with a prophet like Moses as an English main clause. Preserves every recipient and the LORD’s commissioning, continuing the final comparison into verse 12.",
+      "source_reference": "Deut 34:11",
+      "source_verse_sha256": "45cc0e5781b0f458b72b9910d6577875db4b1f70fa0192fd0f1445cbcd1f73fb",
+      "tsw_comparator": "none like him for all the signs and the wonders that the LORD sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land,",
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+      "verse_ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+      "chapter_path": "translations/fluent/OT/deuteronomy/Deuteronomy_34.md",
+      "before_chapter_sha256": "48bd323f807ef0cc38d56b26d5f9511b5671def1379ff42a9b3cf0d8781bfd83",
+      "after_chapter_sha256": "8696c0d95ea591019609867f54d80af876444f9a9e729cba7271027c39bdddef",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Deuteronomy 34:12",
+      "delta": "F2",
+      "before": "and with all the mighty hand and all the great terror Moses displayed before the eyes of all Israel.",
+      "after": "or in the mighty hand and all the great terror Moses displayed before the eyes of all Israel.",
+      "rationale": "Completes the comparison begun in verse 11 and removes the awkward all-the-mighty-hand construction. The hand image, great terror, named Moses, and all-Israel witnesses remain intact.",
+      "source_reference": "Deut 34:12",
+      "source_verse_sha256": "126799c6351279cd5686a4a66d44d3e0b4c7078bb06d692dfe79870bc1f2be6c",
+      "tsw_comparator": "and for all the mighty hand and all the great fear that Moses did in the sight of all Israel.",
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+      "verse_ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+      "chapter_path": "translations/fluent/OT/deuteronomy/Deuteronomy_34.md",
+      "before_chapter_sha256": "48bd323f807ef0cc38d56b26d5f9511b5671def1379ff42a9b3cf0d8781bfd83",
+      "after_chapter_sha256": "8696c0d95ea591019609867f54d80af876444f9a9e729cba7271027c39bdddef",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "concordance_rows": 94,
+  "focused_comparison_rows": 160,
+  "unique_selected_comparisons": 250,
+  "findings": [
+    {
+      "topic": "Covenant and instruction",
+      "result": "All occurrences of the seven listed lemma families were compared in context. Covenant and instruction remain recognizable. Remembering and forgetting connect witnessed events, later generations, material abundance, and practice. References to God remembering the covenant and Israel remembering slavery retain their different agents. Love of the resident foreigner remains explicit."
+    },
+    {
+      "topic": "Hearing, teaching, heart and life",
+      "result": "Compared the daily teaching and binding/writing commands in chapters 6 and 11, the king’s scroll, the public reading, and the near word in chapter 30. Hearing is linked to practice. Human heart-circumcision in 10:16 and divine heart-circumcision in 30:6 retain different agents. Holding fast and clinging both preserve the attachment image; the same root also describes plunder and disease clinging in other contexts."
+    },
+    {
+      "topic": "Legal distinctions and harm",
+      "result": "Debt release remains distinct from six-year service and seventh-year freedom for Hebrew slaves. The no-poor promise remains conditional alongside the statement that poor people will remain. The two-or-three-witness threshold is retained. Unintentional killing and prior hatred/ambush remain distinct. Distant-town forced labor and warfare differ from the destruction of inheritance towns. Captive women, sexual violence, innocent victims, death penalties, protection for escaped slaves, and individual liability remain explicit without added consent or a modern legal argument."
+    },
+    {
+      "topic": "Resident foreigners and communal provision",
+      "result": "Resident foreigners and other foreigners are distinguished where the source distinguishes them. Festival and third-year-tithe lists preserve the Levite, resident foreigner, fatherless and widow. The recurring gleaning recipients remain present in grain, olive and grape instructions. These are contextual distinctions, not an imposed single English equivalent for every Hebrew social term."
+    },
+    {
+      "topic": "Names, numbers and chronology",
+      "result": "Checked the eleven-day route, fortieth-year eleventh-month date, thirty-eight-year wilderness interval, Og’s nine-by-four-cubit iron bed, Manasseh’s half-tribe, the seven-year reading/release cycle, the six-year service period, and forty-blow limit. The two mountain tribal lists, Ephraim/Manasseh tens-of-thousands/thousands, Moses’ age 120 and thirty mourning days remain intact. Hoshea is retained in 32:44 with its name note. Moserah in 10:6 and the later Hor account are not silently harmonized."
+    },
+    {
+      "topic": "Covenant reversal and poetry",
+      "result": "Blessing and curse retain the fruit, coming/going, overtaking and head/tail images. First-person divine shifts remain in 28:20 and 29:5–6. The unsettling repeated divine rejoicing in 28:63 remains. The pinned children-of-Israel reading and the fiery-law read form retain their notes. The Rock’s fathering and giving birth remain distinct images. The selected difficult pronouns, burial agent and omitted Simeon are not resolved by invented details."
+    },
+    {
+      "topic": "Five refinements",
+      "result": "27:20 now uses garment consistently with 22:30. 32:13 distinguishes the LORD’s causative action from Jacob’s eating and names the agents for readers. 34:10–12 uses two clear sentences to carry the closing comparison while preserving the LORD’s knowing Moses, all recipients of the signs, the mighty hand and great terror."
+    },
+    {
+      "topic": "Structure and source mapping",
+      "result": "All 34 chapters retain complete sequential labels, paragraph containment including poetry, balanced double quotation marks, selective Notes/Vocabulary, and structural-only QA. All 959 original source records bind exactly once; 74 public labels differ from Hebrew references. Earlier ledger bases and before-text records remain unchanged."
+    }
+  ],
+  "style_items_for_final_family_review": [
+    "Headings use sentence case in some batches and title case in others; normalize typography at final house-style review.",
+    "Fathers/ancestors, rulings/judgments and cling/hold fast vary by batch and context. The selected comparisons found the meanings and images retained; this pass does not mechanically impose one equivalent."
+  ],
+  "limitations": "The structural scan covers all 959 public verses. The authoring rereading covers only the 250 explicitly listed Hebrew/English verse comparisons, not a new verse-by-verse retranslation of all 959 verses or a rereading of every note. Four rows overlap between the 94-row concordance and 160-row focused set. This is not independent scholarly review or reader testing. Earlier verification and overlap reports remain historical snapshots; use this pass’s verification for current rebound bytes.",
+  "companion_impact": "Recheck quotations and bindings for Deuteronomy 27, 32 and 34 before installation. The separate Companion branch is unchanged.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

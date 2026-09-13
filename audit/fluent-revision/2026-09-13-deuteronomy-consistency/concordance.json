@@ -1,0 +1,1670 @@
+{
+  "lemmas": {
+    "1285": "covenant",
+    "2142": "remember",
+    "7911": "forget",
+    "157": "love",
+    "1692": "hold fast",
+    "4135": "circumcise",
+    "8451": "instruction"
+  },
+  "scope": "Every occurrence of seven selected lemma families; contextual English need not use a single equivalent.",
+  "rows": [
+    {
+      "reference": "Deuteronomy 1:5",
+      "source_reference": "Deut 1:5",
+      "source_verse_sha256": "d7df7f7429cfe63927e1a030c78b2e80f0778907a9a6e882dee88061d3df5884",
+      "hebrew": "בְּ/עֵ֥בֶר הַ/יַּרְדֵּ֖ן בְּ/אֶ֣רֶץ מוֹאָ֑ב הוֹאִ֣יל מֹשֶׁ֔ה בֵּאֵ֛ר אֶת ־ הַ/תּוֹרָ֥ה הַ/זֹּ֖את לֵ/אמֹֽר ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֥ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "There in Moab, beyond the Jordan, Moses began to explain this instruction. He said,"
+    },
+    {
+      "reference": "Deuteronomy 4:8",
+      "source_reference": "Deut 4:8",
+      "source_verse_sha256": "296636f1effcba35bfc23a6c15a84abd59f5d42635d4b6ccfc51c49f8388726d",
+      "hebrew": "וּ/מִי֙ גּ֣וֹי גָּד֔וֹל אֲשֶׁר ־ ל֛/וֹ חֻקִּ֥ים וּ/מִשְׁפָּטִ֖ים צַדִּיקִ֑ם כְּ/כֹל֙ הַ/תּוֹרָ֣ה הַ/זֹּ֔את אֲשֶׁ֧ר אָנֹכִ֛י נֹתֵ֥ן לִ/פְנֵי/כֶ֖ם הַ/יּֽוֹם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֣ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "And what great nation has statutes and rulings as righteous as this whole instruction I am setting before you today?"
+    },
+    {
+      "reference": "Deuteronomy 4:9",
+      "source_reference": "Deut 4:9",
+      "source_verse_sha256": "46fb7c79c765f668845acc3f41a4cf1a9ddf09c9b9c109a4f6489813f4e87c67",
+      "hebrew": "רַ֡ק הִשָּׁ֣מֶר לְ/ךָ֩ וּ/שְׁמֹ֨ר נַפְשְׁ/ךָ֜ מְאֹ֗ד פֶּן ־ תִּשְׁכַּ֨ח אֶת ־ הַ/דְּבָרִ֜ים אֲשֶׁר ־ רָא֣וּ עֵינֶ֗י/ךָ וּ/פֶן ־ יָס֨וּרוּ֙ מִ/לְּבָ֣בְ/ךָ֔ כֹּ֖ל יְמֵ֣י חַיֶּ֑י/ךָ וְ/הוֹדַעְתָּ֥/ם לְ/בָנֶ֖י/ךָ וְ/לִ/בְנֵ֥י בָנֶֽי/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "תִּשְׁכַּ֨ח",
+          "lemma": "7911",
+          "morph": "HVqi2ms",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "Only be careful. Watch yourself closely, so that you do not forget what your eyes have seen or let it leave your heart all the days of your life. Make it known to your children and grandchildren."
+    },
+    {
+      "reference": "Deuteronomy 4:13",
+      "source_reference": "Deut 4:13",
+      "source_verse_sha256": "11091b4052fec9456a53111e2935272ba69e9f2e7f7cb24d817687354dc88cfc",
+      "hebrew": "וַ/יַּגֵּ֨ד לָ/כֶ֜ם אֶת ־ בְּרִית֗/וֹ אֲשֶׁ֨ר צִוָּ֤ה אֶתְ/כֶם֙ לַ/עֲשׂ֔וֹת עֲשֶׂ֖רֶת הַ/דְּבָרִ֑ים וַֽ/יִּכְתְּבֵ֔/ם עַל ־ שְׁנֵ֖י לֻח֥וֹת אֲבָנִֽים ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "בְּרִית֗/וֹ",
+          "lemma": "1285",
+          "morph": "HNcfsc/Sp3ms",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "He declared his covenant to you, commanding you to keep the Ten Words, and he wrote them on two stone tablets."
+    },
+    {
+      "reference": "Deuteronomy 4:23",
+      "source_reference": "Deut 4:23",
+      "source_verse_sha256": "db86a90091894d2add391b5d65292078973ec268934219b44774d19d1043437a",
+      "hebrew": "הִשָּׁמְר֣וּ לָ/כֶ֗ם פֶּֽן ־ תִּשְׁכְּחוּ֙ אֶת ־ בְּרִ֤ית יְהוָה֙ אֱלֹ֣הֵי/כֶ֔ם אֲשֶׁ֥ר כָּרַ֖ת עִמָּ/כֶ֑ם וַ/עֲשִׂיתֶ֨ם לָ/כֶ֥ם פֶּ֨סֶל֙ תְּמ֣וּנַת כֹּ֔ל אֲשֶׁ֥ר צִוְּ/ךָ֖ יְהוָ֥ה אֱלֹהֶֽי/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "תִּשְׁכְּחוּ֙",
+          "lemma": "7911",
+          "morph": "HVqi2mp",
+          "domain": "forget"
+        },
+        {
+          "hebrew": "בְּרִ֤ית",
+          "lemma": "1285",
+          "morph": "HNcfsc",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "Watch yourselves, so that you do not forget the covenant the LORD your God made with you and make yourselves a carved image in any form the LORD your God has forbidden."
+    },
+    {
+      "reference": "Deuteronomy 4:31",
+      "source_reference": "Deut 4:31",
+      "source_verse_sha256": "4d0576aa96c8cdebddc760c389ff605a101881df21a4968f2c744ae037c066e9",
+      "hebrew": "כִּ֣י אֵ֤ל רַחוּם֙ יְהוָ֣ה אֱלֹהֶ֔י/ךָ לֹ֥א יַרְפְּ/ךָ֖ וְ/לֹ֣א יַשְׁחִיתֶ֑/ךָ וְ/לֹ֤א יִשְׁכַּח֙ אֶת ־ בְּרִ֣ית אֲבֹתֶ֔י/ךָ אֲשֶׁ֥ר נִשְׁבַּ֖ע לָ/הֶֽם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "יִשְׁכַּח֙",
+          "lemma": "7911",
+          "morph": "HVqi3ms",
+          "domain": "forget"
+        },
+        {
+          "hebrew": "בְּרִ֣ית",
+          "lemma": "1285",
+          "morph": "HNcfsc",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "For the LORD your God is a merciful God. He will not abandon you or destroy you or forget the covenant he swore to your fathers."
+    },
+    {
+      "reference": "Deuteronomy 4:37",
+      "source_reference": "Deut 4:37",
+      "source_verse_sha256": "cf00ca264bfd065d871180373b548b179a4f132e9c1ff3c22ec849c8de3ebf5d",
+      "hebrew": "וְ/תַ֗חַת כִּ֤י אָהַב֙ אֶת ־ אֲבֹתֶ֔י/ךָ וַ/יִּבְחַ֥ר בְּ/זַרְע֖/וֹ אַחֲרָ֑י/ו וַ/יּוֹצִֽאֲ/ךָ֧ בְּ/פָנָ֛י/ו בְּ/כֹח֥/וֹ הַ/גָּדֹ֖ל מִ/מִּצְרָֽיִם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "אָהַב֙",
+          "lemma": "157",
+          "morph": "HVqp3ms",
+          "domain": "love"
+        }
+      ],
+      "fluent": "Because he loved your fathers and chose their descendants after them, he brought you out of Egypt by his presence and his great power,"
+    },
+    {
+      "reference": "Deuteronomy 4:44",
+      "source_reference": "Deut 4:44",
+      "source_verse_sha256": "770cc30fb1166d29faf537eab2839112dd5674dd0ac1793afb77bae7fa23a135",
+      "hebrew": "וְ/זֹ֖את הַ/תּוֹרָ֑ה אֲשֶׁר ־ שָׂ֣ם מֹשֶׁ֔ה לִ/פְנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֑ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "This is the instruction Moses set before the Israelites."
+    },
+    {
+      "reference": "Deuteronomy 5:2",
+      "source_reference": "Deut 5:2",
+      "source_verse_sha256": "f1db7c3a59922598ea49e2a8c7a78681aaa02bf8102ee5b090cc4db0d7bf3ccb",
+      "hebrew": "יְהוָ֣ה אֱלֹהֵ֗י/נוּ כָּרַ֥ת עִמָּ֛/נוּ בְּרִ֖ית בְּ/חֹרֵֽב ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "בְּרִ֖ית",
+          "lemma": "1285",
+          "morph": "HNcfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "The LORD our God made a covenant with us at Horeb."
+    },
+    {
+      "reference": "Deuteronomy 5:3",
+      "source_reference": "Deut 5:3",
+      "source_verse_sha256": "56667f5ab4c01c9f8e12fc96ee985d506452fa100e989f52719d74a5f0f943a2",
+      "hebrew": "לֹ֣א אֶת ־ אֲבֹתֵ֔י/נוּ כָּרַ֥ת יְהוָ֖ה אֶת ־ הַ/בְּרִ֣ית הַ/זֹּ֑את כִּ֣י אִתָּ֗/נוּ אֲנַ֨חְנוּ אֵ֥לֶּה פֹ֛ה הַ/יּ֖וֹם כֻּלָּ֥/נוּ חַיִּֽים ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֣ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "The LORD did not make this covenant with our fathers, but with us—all of us who are here alive today."
+    },
+    {
+      "reference": "Deuteronomy 5:10",
+      "source_reference": "Deut 5:10",
+      "source_verse_sha256": "648634bb1d0cff183038377f3a9cabc553b0ce9f93597e5b1d357f5df331d11f",
+      "hebrew": "וְ/עֹ֥שֶׂה חֶ֖סֶד לַֽ/אֲלָפִ֑ים לְ/אֹהֲבַ֖/י וּ/לְ/שֹׁמְרֵ֥י מצות/ו ׃ ס",
+      "annotations": [
+        "<note type=\"alternative\"><catchWord>וְ/עֹ֥שֶׂה</catchWord><rdg type=\"x-accent\">וְ/עֹ֤שֶׂה</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>חֶ֖סֶד</catchWord><rdg type=\"x-accent\">חֶ֨סֶד֙</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>לַֽ/אֲלָפִ֑ים</catchWord><rdg type=\"x-accent\">לַֽ/אֲלָפִ֔ים</rdg></note>\n          ",
+        "<note type=\"variant\"><catchWord>מצות/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"4687\" n=\"0\" morph=\"HNcfpc/Sp1cs\" id=\"05rMa\">מִצְוֺתָֽ/י</w></rdg></note>"
+      ],
+      "matches": [
+        {
+          "hebrew": "לְ/אֹהֲבַ֖/י",
+          "lemma": "l/157",
+          "morph": "HR/Vqrmpc/Sp1cs",
+          "domain": "love"
+        }
+      ],
+      "fluent": "but showing faithful love to thousands of those who love me and keep my commands."
+    },
+    {
+      "reference": "Deuteronomy 5:15",
+      "source_reference": "Deut 5:15",
+      "source_verse_sha256": "8689c9f9e3a04b45caa0f9bad1a0d854d42d289d4f4a795261eb073ae6292bf2",
+      "hebrew": "וְ/זָכַרְתָּ֗ כִּ֣י ־ עֶ֤בֶד הָיִ֨יתָ֙ ׀ בְּ/אֶ֣רֶץ מִצְרַ֔יִם וַ/יֹּצִ֨אֲ/ךָ֜ יְהוָ֤ה אֱלֹהֶ֨י/ךָ֙ מִ/שָּׁ֔ם בְּ/יָ֥ד חֲזָקָ֖ה וּ/בִ/זְרֹ֣עַ נְטוּיָ֑ה עַל ־ כֵּ֗ן צִוְּ/ךָ֙ יְהוָ֣ה אֱלֹהֶ֔י/ךָ לַ/עֲשׂ֖וֹת אֶת ־ י֥וֹם הַ/שַׁבָּֽת ׃ ס",
+      "annotations": [
+        "<note type=\"alternative\"><catchWord>וְ/זָכַרְתָּ֗</catchWord><rdg type=\"x-accent\">וְ/זָכַרְתָּ֞</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>עֶ֤בֶד</catchWord><rdg type=\"x-accent\">עֶ֥בֶד</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>הָיִ֨יתָ֙</catchWord><rdg type=\"x-accent\">הָיִ֣יתָ׀</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>מִצְרַ֔יִם</catchWord><rdg type=\"x-accent\">מִצְרַ֗יִם</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>וַ/יֹּצִ֨אֲ/ךָ֜</catchWord><rdg type=\"x-accent\">וַ/יֹּצִאֲ/ךָ֩</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>יְהוָ֤ה</catchWord><rdg type=\"x-accent\">יְהוָ֨ה</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>אֱלֹהֶ֨י/ךָ֙</catchWord><rdg type=\"x-accent\">אֱלֹהֶ֤י/ךָ</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>מִ/שָּׁ֔ם</catchWord><rdg type=\"x-accent\">מִ/שָּׁם֙</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>בְּ/יָ֥ד</catchWord><rdg type=\"x-accent\">בְּ/יָ֤ד</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>חֲזָקָ֖ה</catchWord><rdg type=\"x-accent\">חֲזָקָה֙</rdg></note>\n          ",
+        "<note type=\"alternative\"><catchWord>נְטוּיָ֑ה</catchWord><rdg type=\"x-accent\">נְטוּיָ֔ה</rdg></note>\n          ",
+        "<note n=\"Q\">Marks a place where we agree with BHQ against BHS in reading L. </note>\n          ",
+        "<note n=\"n\">Marks an anomalous form. </note>\n          ",
+        "<note n=\"p\">We read punctuation in L differently from BHS. </note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "וְ/זָכַרְתָּ֗",
+          "lemma": "c/2142",
+          "morph": "HC/Vqq2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember that you were a slave in Egypt and that the LORD your God brought you out with a strong hand and an outstretched arm. That is why the LORD your God commanded you to observe the Sabbath day."
+    },
+    {
+      "reference": "Deuteronomy 6:5",
+      "source_reference": "Deut 6:5",
+      "source_verse_sha256": "722b4a62df5a86847269a61cc685e0d6e1852a68e89d9ab695152ae91d2b2d9d",
+      "hebrew": "וְ/אָ֣הַבְתָּ֔ אֵ֖ת יְהוָ֣ה אֱלֹהֶ֑י/ךָ בְּ/כָל ־ לְבָבְ/ךָ֥ וּ/בְ/כָל ־ נַפְשְׁ/ךָ֖ וּ/בְ/כָל ־ מְאֹדֶֽ/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/אָ֣הַבְתָּ֔",
+          "lemma": "c/157",
+          "morph": "HC/Vqq2ms",
+          "domain": "love"
+        }
+      ],
+      "fluent": "Love the LORD your God with all your heart, all your soul, and all your strength."
+    },
+    {
+      "reference": "Deuteronomy 6:12",
+      "source_reference": "Deut 6:12",
+      "source_verse_sha256": "577b4c2f523092bc8b5088811e20536df7adac53ccc5dd9cbca882dd241fef74",
+      "hebrew": "הִשָּׁ֣מֶר לְ/ךָ֔ פֶּן ־ תִּשְׁכַּ֖ח אֶת ־ יְהוָ֑ה אֲשֶׁ֧ר הוֹצִֽיאֲ/ךָ֛ מֵ/אֶ֥רֶץ מִצְרַ֖יִם מִ/בֵּ֥ית עֲבָדִֽים ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "תִּשְׁכַּ֖ח",
+          "lemma": "7911",
+          "morph": "HVqi2ms",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "be careful not to forget the LORD, who brought you out of Egypt, out of the house of slavery."
+    },
+    {
+      "reference": "Deuteronomy 7:2",
+      "source_reference": "Deut 7:2",
+      "source_verse_sha256": "93598da6bbf05e8dcde12f13cbfd142f3126667eb1621334daf34abd7647d522",
+      "hebrew": "וּ/נְתָנָ֞/ם יְהוָ֧ה אֱלֹהֶ֛י/ךָ לְ/פָנֶ֖י/ךָ וְ/הִכִּיתָ֑/ם הַחֲרֵ֤ם תַּחֲרִים֙ אֹתָ֔/ם לֹא ־ תִכְרֹ֥ת לָ/הֶ֛ם בְּרִ֖ית וְ/לֹ֥א תְחָנֵּֽ/ם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "בְּרִ֖ית",
+          "lemma": "1285",
+          "morph": "HNcfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "and the LORD your God hands them over to you and you defeat them, you must devote them completely to destruction. Make no covenant with them and show them no mercy."
+    },
+    {
+      "reference": "Deuteronomy 7:9",
+      "source_reference": "Deut 7:9",
+      "source_verse_sha256": "97cf72529c37bbb4905d1b959b973d19eeff24b7552562fea6e49ca9b317f62b",
+      "hebrew": "וְ/יָ֣דַעְתָּ֔ כִּֽי ־ יְהוָ֥ה אֱלֹהֶ֖י/ךָ ה֣וּא הָֽ/אֱלֹהִ֑ים הָ/אֵל֙ הַֽ/נֶּאֱמָ֔ן שֹׁמֵ֧ר הַ/בְּרִ֣ית וְ/הַ/חֶ֗סֶד לְ/אֹהֲבָ֛י/ו וּ/לְ/שֹׁמְרֵ֥י מצות/ו לְ/אֶ֥לֶף דּֽוֹר ׃",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>מצות/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"4687\" n=\"0.0\" morph=\"HNcfpc/Sp3ms\" id=\"05JW8\">מִצְוֺתָ֖י/ו</w></rdg></note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֣ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        },
+        {
+          "hebrew": "לְ/אֹהֲבָ֛י/ו",
+          "lemma": "l/157",
+          "morph": "HR/Vqrmpc/Sp3ms",
+          "domain": "love"
+        }
+      ],
+      "fluent": "Know, then, that the LORD your God is God, the faithful God. He keeps covenant and faithful love for a thousand generations with those who love him and keep his commands."
+    },
+    {
+      "reference": "Deuteronomy 7:12",
+      "source_reference": "Deut 7:12",
+      "source_verse_sha256": "1628c186d331c84f73bc124f84fa06f6526cb30ca82ab3c10f9fe92b2c5aa185",
+      "hebrew": "וְ/הָיָ֣ה ׀ עֵ֣קֶב תִּשְׁמְע֗וּ/ן אֵ֤ת הַ/מִּשְׁפָּטִים֙ הָ/אֵ֔לֶּה וּ/שְׁמַרְתֶּ֥ם וַ/עֲשִׂיתֶ֖ם אֹתָ֑/ם וְ/שָׁמַר֩ יְהוָ֨ה אֱלֹהֶ֜י/ךָ לְ/ךָ֗ אֶֽת ־ הַ/בְּרִית֙ וְ/אֶת ־ הַ/חֶ֔סֶד אֲשֶׁ֥ר נִשְׁבַּ֖ע לַ/אֲבֹתֶֽי/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִית֙",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "If you listen to these rulings, keep them, and put them into practice, the LORD your God will keep with you the covenant and faithful love he swore to your fathers."
+    },
+    {
+      "reference": "Deuteronomy 7:13",
+      "source_reference": "Deut 7:13",
+      "source_verse_sha256": "35a692c8a72e6ca70d63a3166609c6dffbb854c0361559c44a6a81f90cbc170c",
+      "hebrew": "וַ/אֲהֵ֣בְ/ךָ֔ וּ/בֵרַכְ/ךָ֖ וְ/הִרְבֶּ֑/ךָ וּ/בֵרַ֣ךְ פְּרִֽי ־ בִטְנְ/ךָ֣ וּ/פְרִֽי ־ אַ֠דְמָתֶ/ךָ דְּגָ֨נְ/ךָ֜ וְ/תִֽירֹשְׁ/ךָ֣ וְ/יִצְהָרֶ֗/ךָ שְׁגַר ־ אֲלָפֶ֨י/ךָ֙ וְ/עַשְׁתְּרֹ֣ת צֹאנֶ֔/ךָ עַ֚ל הָֽ/אֲדָמָ֔ה אֲשֶׁר ־ נִשְׁבַּ֥ע לַ/אֲבֹתֶ֖י/ךָ לָ֥/תֶת לָֽ/ךְ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וַ/אֲהֵ֣בְ/ךָ֔",
+          "lemma": "c/157",
+          "morph": "HC/Vqq3ms/Sp2ms",
+          "domain": "love"
+        }
+      ],
+      "fluent": "He will love you, bless you, and make you numerous. He will bless the fruit of your womb and the fruit of your ground—your grain, new wine, and oil, the calves of your herds and the young of your flocks—in the land he swore to your fathers to give you."
+    },
+    {
+      "reference": "Deuteronomy 7:18",
+      "source_reference": "Deut 7:18",
+      "source_verse_sha256": "c614c0491d572914ea1e6d332421f48a090f5c336456ed427781bf3731d5084b",
+      "hebrew": "לֹ֥א תִירָ֖א מֵ/הֶ֑ם זָכֹ֣ר תִּזְכֹּ֗ר אֵ֤ת אֲשֶׁר ־ עָשָׂה֙ יְהוָ֣ה אֱלֹהֶ֔י/ךָ לְ/פַרְעֹ֖ה וּ/לְ/כָל ־ מִצְרָֽיִם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "זָכֹ֣ר",
+          "lemma": "2142",
+          "morph": "HVqa",
+          "domain": "remember"
+        },
+        {
+          "hebrew": "תִּזְכֹּ֗ר",
+          "lemma": "2142",
+          "morph": "HVqi2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Do not be afraid of them. Remember well what the LORD your God did to Pharaoh and all Egypt."
+    },
+    {
+      "reference": "Deuteronomy 8:2",
+      "source_reference": "Deut 8:2",
+      "source_verse_sha256": "cf4f3bce02b0716c5d3011cd46304d039fd08be61db35ee852b225cd7b91dfe3",
+      "hebrew": "וְ/זָכַרְתָּ֣ אֶת ־ כָּל ־ הַ/דֶּ֗רֶךְ אֲשֶׁ֨ר הֹלִֽיכֲ/ךָ֜ יְהוָ֧ה אֱלֹהֶ֛י/ךָ זֶ֛ה אַרְבָּעִ֥ים שָׁנָ֖ה בַּ/מִּדְבָּ֑ר לְמַ֨עַן עַנֹּֽתְ/ךָ֜ לְ/נַסֹּֽתְ/ךָ֗ לָ/דַ֜עַת אֶת ־ אֲשֶׁ֧ר בִּֽ/לְבָבְ/ךָ֛ הֲ/תִשְׁמֹ֥ר מצות/ו אִם ־ לֹֽא ׃",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>מצות/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"4687\" n=\"0.0\" morph=\"HNcfpc/Sp3ms\" id=\"05Hxg\">מִצְוֺתָ֖י/ו</w></rdg></note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "וְ/זָכַרְתָּ֣",
+          "lemma": "c/2142",
+          "morph": "HC/Vqq2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember the whole way the LORD your God led you through the wilderness these forty years, to humble you and test you, to know what was in your heart—whether you would keep his commands or not."
+    },
+    {
+      "reference": "Deuteronomy 8:11",
+      "source_reference": "Deut 8:11",
+      "source_verse_sha256": "970a275ea7d8227854fb792fa14a507a7743dad7413561bf5eac40701851c84d",
+      "hebrew": "הִשָּׁ֣מֶר לְ/ךָ֔ פֶּן ־ תִּשְׁכַּ֖ח אֶת ־ יְהוָ֣ה אֱלֹהֶ֑י/ךָ לְ/בִלְתִּ֨י שְׁמֹ֤ר מִצְוֺתָי/ו֙ וּ/מִשְׁפָּטָ֣י/ו וְ/חֻקֹּתָ֔י/ו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּ/ךָ֖ הַ/יּֽוֹם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "תִּשְׁכַּ֖ח",
+          "lemma": "7911",
+          "morph": "HVqi2ms",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "Be careful not to forget the LORD your God by failing to keep his commands, rulings, and statutes that I give you today."
+    },
+    {
+      "reference": "Deuteronomy 8:14",
+      "source_reference": "Deut 8:14",
+      "source_verse_sha256": "d52f78bdb551570995b73077427c15bb4bdb4630542f4ed42e35716e6f01d0c8",
+      "hebrew": "וְ/רָ֖ם לְבָבֶ֑/ךָ וְ/שָֽׁכַחְתָּ֙ אֶת ־ יְהוָ֣ה אֱלֹהֶ֔י/ךָ הַ/מּוֹצִיאֲ/ךָ֛ מֵ/אֶ֥רֶץ מִצְרַ֖יִם מִ/בֵּ֥ית עֲבָדִֽים ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/שָֽׁכַחְתָּ֙",
+          "lemma": "c/7911",
+          "morph": "HC/Vqq2ms",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "do not let your heart grow proud and forget the LORD your God, who brought you out of Egypt, out of the house of slavery."
+    },
+    {
+      "reference": "Deuteronomy 8:18",
+      "source_reference": "Deut 8:18",
+      "source_verse_sha256": "8a478800b44d1e42b4b56bd741db6e3e6267696fbe0ded4b97d0c1fc1968f788",
+      "hebrew": "וְ/זָֽכַרְתָּ֙ אֶת ־ יְהוָ֣ה אֱלֹהֶ֔י/ךָ כִּ֣י ה֗וּא הַ/נֹּתֵ֥ן לְ/ךָ֛ כֹּ֖חַ לַ/עֲשׂ֣וֹת חָ֑יִל לְמַ֨עַן הָקִ֧ים אֶת ־ בְּרִית֛/וֹ אֲשֶׁר ־ נִשְׁבַּ֥ע לַ/אֲבֹתֶ֖י/ךָ כַּ/יּ֥וֹם הַ/זֶּֽה ׃ פ",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/זָֽכַרְתָּ֙",
+          "lemma": "c/2142",
+          "morph": "HC/Vqq2ms",
+          "domain": "remember"
+        },
+        {
+          "hebrew": "בְּרִית֛/וֹ",
+          "lemma": "1285",
+          "morph": "HNcfsc/Sp3ms",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "Remember the LORD your God, because he is the one who gives you the power to gain wealth, fulfilling his covenant that he swore to your fathers, as he is doing today."
+    },
+    {
+      "reference": "Deuteronomy 8:19",
+      "source_reference": "Deut 8:19",
+      "source_verse_sha256": "867cd246c2d88140c75e1eea6ceed935ab7bac94daef9e9cc388a5f6f8537f49",
+      "hebrew": "וְ/הָיָ֗ה אִם ־ שָׁכֹ֤חַ תִּשְׁכַּח֙ אֶת ־ יְהוָ֣ה אֱלֹהֶ֔י/ךָ וְ/הָֽלַכְתָּ֗ אַחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַ/עֲבַדְתָּ֖/ם וְ/הִשְׁתַּחֲוִ֣יתָ לָ/הֶ֑ם הַעִדֹ֤תִי בָ/כֶם֙ הַ/יּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵדֽוּ/ן ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "שָׁכֹ֤חַ",
+          "lemma": "7911",
+          "morph": "HVqa",
+          "domain": "forget"
+        },
+        {
+          "hebrew": "תִּשְׁכַּח֙",
+          "lemma": "7911",
+          "morph": "HVqi2ms",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "If you forget the LORD your God and follow other gods, serving them and bowing down to them, I testify against you today that you will surely perish."
+    },
+    {
+      "reference": "Deuteronomy 9:7",
+      "source_reference": "Deut 9:7",
+      "source_verse_sha256": "69b3a2c35619e1d329c3b2c1e1f050e9787805cf67f0aeba9cdde5de41795075",
+      "hebrew": "זְכֹר֙ אַל ־ תִּשְׁכַּ֔ח אֵ֧ת אֲשֶׁר ־ הִקְצַ֛פְתָּ אֶת ־ יְהוָ֥ה אֱלֹהֶ֖י/ךָ בַּ/מִּדְבָּ֑ר לְ/מִן ־ הַ/יּ֞וֹם אֲשֶׁר ־ יָצָ֣אתָ ׀ מֵ/אֶ֣רֶץ מִצְרַ֗יִם עַד ־ בֹּֽאֲ/כֶם֙ עַד ־ הַ/מָּק֣וֹם הַ/זֶּ֔ה מַמְרִ֥ים הֱיִיתֶ֖ם עִם ־ יְהוָֽה ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "זְכֹר֙",
+          "lemma": "2142",
+          "morph": "HVqv2ms",
+          "domain": "remember"
+        },
+        {
+          "hebrew": "תִּשְׁכַּ֔ח",
+          "lemma": "7911",
+          "morph": "HVqj2ms",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "Remember—do not forget—how you provoked the LORD your God in the wilderness. From the day you left Egypt until you reached this place, you have been rebellious toward the LORD."
+    },
+    {
+      "reference": "Deuteronomy 9:9",
+      "source_reference": "Deut 9:9",
+      "source_verse_sha256": "10ad322ea4c64758308efe346f3ab7db856ffbc734fb65b25465035be5225a0e",
+      "hebrew": "בַּ/עֲלֹתִ֣/י הָ/הָ֗רָ/ה לָ/קַ֜חַת לוּחֹ֤ת הָֽ/אֲבָנִים֙ לוּחֹ֣ת הַ/בְּרִ֔ית אֲשֶׁר ־ כָּרַ֥ת יְהוָ֖ה עִמָּ/כֶ֑ם וָ/אֵשֵׁ֣ב בָּ/הָ֗ר אַרְבָּעִ֥ים יוֹם֙ וְ/אַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔לְתִּי וּ/מַ֖יִם לֹ֥א שָׁתִֽיתִי ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֔ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "When I went up the mountain to receive the stone tablets, the tablets of the covenant the LORD made with you, I stayed on the mountain forty days and forty nights. I ate no bread and drank no water."
+    },
+    {
+      "reference": "Deuteronomy 9:11",
+      "source_reference": "Deut 9:11",
+      "source_verse_sha256": "8fab5de5bd66692af6400edfd8a89651525128d73bdb46f89ad789eb176a15a0",
+      "hebrew": "וַ/יְהִ֗י מִ/קֵּץ֙ אַרְבָּעִ֣ים י֔וֹם וְ/אַרְבָּעִ֖ים לָ֑יְלָה נָתַ֨ן יְהוָ֜ה אֵלַ֗/י אֶת ־ שְׁנֵ֛י לֻחֹ֥ת הָ/אֲבָנִ֖ים לֻח֥וֹת הַ/בְּרִֽית ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִֽית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "At the end of forty days and forty nights, the LORD gave me the two stone tablets, the tablets of the covenant."
+    },
+    {
+      "reference": "Deuteronomy 9:15",
+      "source_reference": "Deut 9:15",
+      "source_verse_sha256": "b374e34e9355948f6c355d8fd61abc2023fd9b44845e9ff8e8bae281854c6fbf",
+      "hebrew": "וָ/אֵ֗פֶן וָֽ/אֵרֵד֙ מִן ־ הָ/הָ֔ר וְ/הָ/הָ֖ר בֹּעֵ֣ר בָּ/אֵ֑שׁ וּ/שְׁנֵי֙ לֻחֹ֣ת הַ/בְּרִ֔ית עַ֖ל שְׁתֵּ֥י יָדָֽ/י ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֔ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "I turned and came down the mountain while it was blazing with fire, with the two tablets of the covenant in my two hands."
+    },
+    {
+      "reference": "Deuteronomy 9:27",
+      "source_reference": "Deut 9:27",
+      "source_verse_sha256": "e10f0600aec69cd698799bba7b4729737316ff154571470ec7fae6518ae24c69",
+      "hebrew": "זְכֹר֙ לַ/עֲבָדֶ֔י/ךָ לְ/אַבְרָהָ֥ם לְ/יִצְחָ֖ק וּֽ/לְ/יַעֲקֹ֑ב אַל ־ תֵּ֗פֶן אֶל ־ קְשִׁי֙ הָ/עָ֣ם הַ/זֶּ֔ה וְ/אֶל ־ רִשְׁע֖/וֹ וְ/אֶל ־ חַטָּאתֽ/וֹ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "זְכֹר֙",
+          "lemma": "2142",
+          "morph": "HVqv2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember your servants Abraham, Isaac, and Jacob. Do not look at this people's stubbornness, wickedness, or sin."
+    },
+    {
+      "reference": "Deuteronomy 10:8",
+      "source_reference": "Deut 10:8",
+      "source_verse_sha256": "5b85b32d7335cfb7b6ee9b5df3e8db74ab77f345f558db26f2fd57e92ea63af9",
+      "hebrew": "בָּ/עֵ֣ת הַ/הִ֗וא הִבְדִּ֤יל יְהוָה֙ אֶת ־ שֵׁ֣בֶט הַ/לֵּוִ֔י לָ/שֵׂ֖את אֶת ־ אֲר֣וֹן בְּרִית ־ יְהוָ֑ה לַ/עֲמֹד֩ לִ/פְנֵ֨י יְהוָ֤ה לְ/שָֽׁרְת/וֹ֙ וּ/לְ/בָרֵ֣ךְ בִּ/שְׁמ֔/וֹ עַ֖ד הַ/יּ֥וֹם הַ/זֶּֽה ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "בְּרִית",
+          "lemma": "1285",
+          "morph": "HNcfsc",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "At that time the LORD set apart the tribe of Levi to carry the ark of the LORD's covenant, to stand before the LORD to serve him, and to bless in his name, as they do to this day."
+    },
+    {
+      "reference": "Deuteronomy 10:12",
+      "source_reference": "Deut 10:12",
+      "source_verse_sha256": "7911c6b80957c488b9d135acbad0675f17a10d234651c658cea46a08a8317b76",
+      "hebrew": "וְ/עַתָּה֙ יִשְׂרָאֵ֔ל מָ֚ה יְהוָ֣ה אֱלֹהֶ֔י/ךָ שֹׁאֵ֖ל מֵ/עִמָּ֑/ךְ כִּ֣י אִם ־ לְ֠/יִרְאָה אֶת ־ יְהוָ֨ה אֱלֹהֶ֜י/ךָ לָ/לֶ֤כֶת בְּ/כָל ־ דְּרָכָי/ו֙ וּ/לְ/אַהֲבָ֣ה אֹת֔/וֹ וְ/לַֽ/עֲבֹד֙ אֶת ־ יְהוָ֣ה אֱלֹהֶ֔י/ךָ בְּ/כָל ־ לְבָבְ/ךָ֖ וּ/בְ/כָל ־ נַפְשֶֽׁ/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וּ/לְ/אַהֲבָ֣ה",
+          "lemma": "c/l/157",
+          "morph": "HC/R/Vqc",
+          "domain": "love"
+        }
+      ],
+      "fluent": "Now, Israel, what does the LORD your God ask of you? Only this: fear the LORD your God, walk in all his ways, love him, and serve the LORD your God with all your heart and all your soul,"
+    },
+    {
+      "reference": "Deuteronomy 10:15",
+      "source_reference": "Deut 10:15",
+      "source_verse_sha256": "04f6bd2c185da2f94cea696d94e3da2314342e0eb4097a2aafe4a45b47ece0c2",
+      "hebrew": "רַ֧ק בַּ/אֲבֹתֶ֛י/ךָ חָשַׁ֥ק יְהוָ֖ה לְ/אַהֲבָ֣ה אוֹתָ֑/ם וַ/יִּבְחַ֞ר בְּ/זַרְעָ֣/ם אַחֲרֵי/הֶ֗ם בָּ/כֶ֛ם מִ/כָּל ־ הָ/עַמִּ֖ים כַּ/יּ֥וֹם הַ/זֶּה ׃",
+      "annotations": [
+        "<note n=\"U\">We agree with both BHS 1997 and BHQ on an unexpected reading. </note>\n        "
+      ],
+      "matches": [
+        {
+          "hebrew": "לְ/אַהֲבָ֣ה",
+          "lemma": "l/157",
+          "morph": "HR/Vqc",
+          "domain": "love"
+        }
+      ],
+      "fluent": "Yet the LORD set his affection on your fathers and loved them. He chose their descendants after them—you—out of all peoples, as he has done today."
+    },
+    {
+      "reference": "Deuteronomy 10:16",
+      "source_reference": "Deut 10:16",
+      "source_verse_sha256": "3bc28f4d045246e568bab128fb85d7fff3cd45eba557c4f7d98f88ac39adc264",
+      "hebrew": "וּ/מַלְתֶּ֕ם אֵ֖ת עָרְלַ֣ת לְבַבְ/כֶ֑ם וְ/עָ֨רְפְּ/כֶ֔ם לֹ֥א תַקְשׁ֖וּ עֽוֹד ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וּ/מַלְתֶּ֕ם",
+          "lemma": "c/4135 a",
+          "morph": "HC/Vqq2mp",
+          "domain": "circumcise"
+        }
+      ],
+      "fluent": "Circumcise your hearts, then, and no longer stiffen your necks."
+    },
+    {
+      "reference": "Deuteronomy 10:18",
+      "source_reference": "Deut 10:18",
+      "source_verse_sha256": "367524ede38df6192ca788eac15811913d2f605062d2860e1fe46a351424c287",
+      "hebrew": "עֹשֶׂ֛ה מִשְׁפַּ֥ט יָת֖וֹם וְ/אַלְמָנָ֑ה וְ/אֹהֵ֣ב גֵּ֔ר לָ֥/תֶת ל֖/וֹ לֶ֥חֶם וְ/שִׂמְלָֽה ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/אֹהֵ֣ב",
+          "lemma": "c/157",
+          "morph": "HC/Vqrmsa",
+          "domain": "love"
+        }
+      ],
+      "fluent": "He upholds justice for the fatherless and the widow, and loves the resident foreigner, giving that person food and clothing."
+    },
+    {
+      "reference": "Deuteronomy 10:19",
+      "source_reference": "Deut 10:19",
+      "source_verse_sha256": "d5cacc074e6d87f15e41492e4da90a39bb44fbffff424c8928924be8726c8582",
+      "hebrew": "וַ/אֲהַבְתֶּ֖ם אֶת ־ הַ/גֵּ֑ר כִּֽי ־ גֵרִ֥ים הֱיִיתֶ֖ם בְּ/אֶ֥רֶץ מִצְרָֽיִם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וַ/אֲהַבְתֶּ֖ם",
+          "lemma": "c/157",
+          "morph": "HC/Vqq2mp",
+          "domain": "love"
+        }
+      ],
+      "fluent": "You too must love the resident foreigner, because you were resident foreigners in Egypt."
+    },
+    {
+      "reference": "Deuteronomy 10:20",
+      "source_reference": "Deut 10:20",
+      "source_verse_sha256": "6cdc459386640b8d239a1a1ea507af92807439491f16b103166b3f6395dc1882",
+      "hebrew": "אֶת ־ יְהוָ֧ה אֱלֹהֶ֛י/ךָ תִּירָ֖א אֹת֣/וֹ תַעֲבֹ֑ד וּ/ב֣/וֹ תִדְבָּ֔ק וּ/בִ/שְׁמ֖/וֹ תִּשָּׁבֵֽעַ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "תִדְבָּ֔ק",
+          "lemma": "1692",
+          "morph": "HVqi2ms",
+          "domain": "hold fast"
+        }
+      ],
+      "fluent": "Fear the LORD your God, serve him, cling to him, and swear by his name."
+    },
+    {
+      "reference": "Deuteronomy 11:1",
+      "source_reference": "Deut 11:1",
+      "source_verse_sha256": "c0a8b36061b0d999a57de851232ba0d36143663c6a5c4942c4e59b3726f42d4d",
+      "hebrew": "וְ/אָ֣הַבְתָּ֔ אֵ֖ת יְהוָ֣ה אֱלֹהֶ֑י/ךָ וְ/שָׁמַרְתָּ֣ מִשְׁמַרְתּ֗/וֹ וְ/חֻקֹּתָ֧י/ו וּ/מִשְׁפָּטָ֛י/ו וּ/מִצְוֺתָ֖י/ו כָּל ־ הַ/יָּמִֽים ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/אָ֣הַבְתָּ֔",
+          "lemma": "c/157",
+          "morph": "HC/Vqq2ms",
+          "domain": "love"
+        }
+      ],
+      "fluent": "“Love the LORD your God and always keep what he requires—his statutes, rulings, and commands."
+    },
+    {
+      "reference": "Deuteronomy 11:13",
+      "source_reference": "Deut 11:13",
+      "source_verse_sha256": "79368a187b7246b59ab3637aa8f4c6e54bc5abdce4611d04d27b1876c35d1c92",
+      "hebrew": "וְ/הָיָ֗ה אִם ־ שָׁמֹ֤עַ תִּשְׁמְעוּ֙ אֶל ־ מִצְוֺתַ֔/י אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְ/כֶ֖ם הַ/יּ֑וֹם לְ/אַהֲבָ֞ה אֶת ־ יְהוָ֤ה אֱלֹֽהֵי/כֶם֙ וּ/לְ/עָבְד֔/וֹ בְּ/כָל ־ לְבַבְ/כֶ֖ם וּ/בְ/כָל ־ נַפְשְׁ/כֶֽם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "לְ/אַהֲבָ֞ה",
+          "lemma": "l/157",
+          "morph": "HR/Vqc",
+          "domain": "love"
+        }
+      ],
+      "fluent": "‘If you listen carefully to my commands that I give you today, loving the LORD your God and serving him with all your heart and all your soul,"
+    },
+    {
+      "reference": "Deuteronomy 11:22",
+      "source_reference": "Deut 11:22",
+      "source_verse_sha256": "d6329ccb76b39a55d283955c2c6ff9a097d661ed1a81c8805e499b2b7291e9d5",
+      "hebrew": "כִּי֩ אִם ־ שָׁמֹ֨ר תִּשְׁמְר֜וּ/ן אֶת ־ כָּל ־ הַ/מִּצְוָ֣ה הַ/זֹּ֗את אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְ/כֶ֖ם לַ/עֲשֹׂתָ֑/הּ לְ/אַהֲבָ֞ה אֶת ־ יְהוָ֧ה אֱלֹהֵי/כֶ֛ם לָ/לֶ֥כֶת בְּ/כָל ־ דְּרָכָ֖י/ו וּ/לְ/דָבְקָה ־ בֽ/וֹ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "לְ/אַהֲבָ֞ה",
+          "lemma": "l/157",
+          "morph": "HR/Vqc",
+          "domain": "love"
+        },
+        {
+          "hebrew": "וּ/לְ/דָבְקָה",
+          "lemma": "c/l/1692",
+          "morph": "HC/R/Vqc",
+          "domain": "hold fast"
+        }
+      ],
+      "fluent": "If you are careful to practice this whole commandment that I give you—loving the LORD your God, walking in all his ways, and clinging to him—"
+    },
+    {
+      "reference": "Deuteronomy 13:3",
+      "source_reference": "Deut 13:4",
+      "source_verse_sha256": "8e1b751eb56bec8059448f1044ea55bb487fff6607ca7e120877b17dadbc3509",
+      "hebrew": "לֹ֣א תִשְׁמַ֗ע אֶל ־ דִּבְרֵי֙ הַ/נָּבִ֣יא הַ/ה֔וּא א֛וֹ אֶל ־ חוֹלֵ֥ם הַ/חֲל֖וֹם הַ/ה֑וּא כִּ֣י מְנַסֶּ֞ה יְהוָ֤ה אֱלֹֽהֵי/כֶם֙ אֶתְ/כֶ֔ם לָ/דַ֗עַת הֲ/יִשְׁ/כֶ֤ם אֹֽהֲבִים֙ אֶת ־ יְהוָ֣ה אֱלֹהֵי/כֶ֔ם בְּ/כָל ־ לְבַבְ/כֶ֖ם וּ/בְ/כָל ־ נַפְשְׁ/כֶֽם ׃",
+      "annotations": [
+        "<note>KJV:Deut.13.3</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "אֹֽהֲבִים֙",
+          "lemma": "157",
+          "morph": "HVqrmpa",
+          "domain": "love"
+        }
+      ],
+      "fluent": "do not listen to that prophet or dreamer. The LORD your God is testing you to know whether you love the LORD your God with all your heart and all your soul."
+    },
+    {
+      "reference": "Deuteronomy 13:4",
+      "source_reference": "Deut 13:5",
+      "source_verse_sha256": "c036154c2b0396207d82ceafff3979bd769fe20ff706daf0d019e56eedcf8667",
+      "hebrew": "אַחֲרֵ֨י יְהוָ֧ה אֱלֹהֵי/כֶ֛ם תֵּלֵ֖כוּ וְ/אֹת֣/וֹ תִירָ֑אוּ וְ/אֶת ־ מִצְוֺתָ֤י/ו תִּשְׁמֹ֨רוּ֙ וּ/בְ/קֹל֣/וֹ תִשְׁמָ֔עוּ וְ/אֹת֥/וֹ תַעֲבֹ֖דוּ וּ/ב֥/וֹ תִדְבָּקֽוּ/ן ׃",
+      "annotations": [
+        "<note>KJV:Deut.13.4</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "תִדְבָּקֽוּ/ן",
+          "lemma": "1692",
+          "morph": "HVqi2mp/Sn",
+          "domain": "hold fast"
+        }
+      ],
+      "fluent": "Follow the LORD your God and fear him. Keep his commands, listen to his voice, serve him, and hold fast to him."
+    },
+    {
+      "reference": "Deuteronomy 13:17",
+      "source_reference": "Deut 13:18",
+      "source_verse_sha256": "67a50cb4baa0fd240263b41e23e2c680eda920d38d8f5ceee0e3d31099b38cfe",
+      "hebrew": "וְ/לֹֽא ־ יִדְבַּ֧ק בְּ/יָדְ/ךָ֛ מְא֖וּמָה מִן ־ הַ/חֵ֑רֶם לְמַעַן֩ יָשׁ֨וּב יְהוָ֜ה מֵ/חֲר֣וֹן אַפּ֗/וֹ וְ/נָֽתַן ־ לְ/ךָ֤ רַחֲמִים֙ וְ/רִֽחַמְ/ךָ֣ וְ/הִרְבֶּ֔/ךָ כַּ/אֲשֶׁ֥ר נִשְׁבַּ֖ע לַ/אֲבֹתֶֽי/ךָ ׃",
+      "annotations": [
+        "<note>KJV:Deut.13.17</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "יִדְבַּ֧ק",
+          "lemma": "1692",
+          "morph": "HVqi3ms",
+          "domain": "hold fast"
+        }
+      ],
+      "fluent": "Let nothing devoted to destruction cling to your hand. Then the LORD will turn from his fierce anger, show you mercy and compassion, and increase your numbers as he swore to your ancestors,"
+    },
+    {
+      "reference": "Deuteronomy 15:15",
+      "source_reference": "Deut 15:15",
+      "source_verse_sha256": "95bb0c77a5182fe60095c54f017cab23be31f0e34b3d40223542e93e18253660",
+      "hebrew": "וְ/זָכַרְתָּ֗ כִּ֣י עֶ֤בֶד הָיִ֨יתָ֙ בְּ/אֶ֣רֶץ מִצְרַ֔יִם וַֽ/יִּפְדְּ/ךָ֖ יְהוָ֣ה אֱלֹהֶ֑י/ךָ עַל ־ כֵּ֞ן אָנֹכִ֧י מְצַוְּ/ךָ֛ אֶת ־ הַ/דָּבָ֥ר הַ/זֶּ֖ה הַ/יּֽוֹם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/זָכַרְתָּ֗",
+          "lemma": "c/2142",
+          "morph": "HC/Vqq2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember that you were a slave in Egypt and the LORD your God redeemed you. That is why I give you this command today."
+    },
+    {
+      "reference": "Deuteronomy 15:16",
+      "source_reference": "Deut 15:16",
+      "source_verse_sha256": "4313b9aa20ce2ce0dfa25a2da9f9049431eb27313a14d283b216e64edcd63534",
+      "hebrew": "וְ/הָיָה֙ כִּֽי ־ יֹאמַ֣ר אֵלֶ֔י/ךָ לֹ֥א אֵצֵ֖א מֵ/עִמָּ֑/ךְ כִּ֤י אֲהֵֽבְ/ךָ֙ וְ/אֶת ־ בֵּיתֶ֔/ךָ כִּי ־ ט֥וֹב ל֖/וֹ עִמָּֽ/ךְ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "אֲהֵֽבְ/ךָ֙",
+          "lemma": "157",
+          "morph": "HVqp3ms/Sp2ms",
+          "domain": "love"
+        }
+      ],
+      "fluent": "But suppose he says to you, ‘I will not leave you,’ because he loves you and your household and is well off with you."
+    },
+    {
+      "reference": "Deuteronomy 16:3",
+      "source_reference": "Deut 16:3",
+      "source_verse_sha256": "63bde27124931568e71600d793dcd852e9727f9c0117586b6e2b089ae468b2b5",
+      "hebrew": "לֹא ־ תֹאכַ֤ל עָלָי/ו֙ חָמֵ֔ץ שִׁבְעַ֥ת יָמִ֛ים תֹּֽאכַל ־ עָלָ֥י/ו מַצּ֖וֹת לֶ֣חֶם עֹ֑נִי כִּ֣י בְ/חִפָּז֗וֹן יָצָ֨אתָ֙ מֵ/אֶ֣רֶץ מִצְרַ֔יִם לְמַ֣עַן תִּזְכֹּר֔ אֶת ־ י֤וֹם צֵֽאתְ/ךָ֙ מֵ/אֶ֣רֶץ מִצְרַ֔יִם כֹּ֖ל יְמֵ֥י חַיֶּֽי/ךָ ׃",
+      "annotations": [
+        "<note n=\"Q\">Marks a place where we agree with BHQ against BHS in reading L. </note>\n          ",
+        "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>\n          ",
+        "<note n=\"n\">Marks an anomalous form. </note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "תִּזְכֹּר֔",
+          "lemma": "2142",
+          "morph": "HVqi2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Do not eat leavened bread with it. For seven days eat unleavened bread, the bread of affliction, because you left Egypt in haste. Do this so that you remember the day you came out of Egypt all the days of your life."
+    },
+    {
+      "reference": "Deuteronomy 16:12",
+      "source_reference": "Deut 16:12",
+      "source_verse_sha256": "7de0b8b3f9f0125f8f843f8ed196933fc6a89650b07c22560f296082aa019ff6",
+      "hebrew": "וְ/זָ֣כַרְתָּ֔ כִּי ־ עֶ֥בֶד הָיִ֖יתָ בְּ/מִצְרָ֑יִם וְ/שָׁמַרְתָּ֣ וְ/עָשִׂ֔יתָ אֶת ־ הַֽ/חֻקִּ֖ים הָ/אֵֽלֶּה ׃ פ",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/זָ֣כַרְתָּ֔",
+          "lemma": "c/2142",
+          "morph": "HC/Vqq2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember that you were a slave in Egypt, and take care to carry out these statutes."
+    },
+    {
+      "reference": "Deuteronomy 17:2",
+      "source_reference": "Deut 17:2",
+      "source_verse_sha256": "f357eb93ef4530e2a9b1a5208ddc9180dc07aa0dc697926f8d98d2ae7cb0a428",
+      "hebrew": "כִּֽי ־ יִמָּצֵ֤א בְ/קִרְבְּ/ךָ֙ בְּ/אַחַ֣ד שְׁעָרֶ֔י/ךָ אֲשֶׁר ־ יְהוָ֥ה אֱלֹהֶ֖י/ךָ נֹתֵ֣ן לָ֑/ךְ אִ֣ישׁ אוֹ ־ אִשָּׁ֗ה אֲשֶׁ֨ר יַעֲשֶׂ֧ה אֶת ־ הָ/רַ֛ע בְּ/עֵינֵ֥י יְהוָֽה ־ אֱלֹהֶ֖י/ךָ לַ/עֲבֹ֥ר בְּרִיתֽ/וֹ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "בְּרִיתֽ/וֹ",
+          "lemma": "1285",
+          "morph": "HNcfsc/Sp3ms",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "Suppose a man or woman is found among you, in one of the towns the LORD your God gives you, doing evil in the eyes of the LORD your God by breaking his covenant,"
+    },
+    {
+      "reference": "Deuteronomy 17:11",
+      "source_reference": "Deut 17:11",
+      "source_verse_sha256": "4921924ad02100b70ec88990d6f0e71eececfae496b6bb0ed4e64e993aec0353",
+      "hebrew": "עַל ־ פִּ֨י הַ/תּוֹרָ֜ה אֲשֶׁ֣ר יוֹר֗וּ/ךָ וְ/עַל ־ הַ/מִּשְׁפָּ֛ט אֲשֶׁר ־ יֹאמְר֥וּ לְ/ךָ֖ תַּעֲשֶׂ֑ה לֹ֣א תָס֗וּר מִן ־ הַ/דָּבָ֛ר אֲשֶׁר ־ יַגִּ֥ידֽוּ לְ/ךָ֖ יָמִ֥ין וּ/שְׂמֹֽאל ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֜ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "Follow the instruction they give and the judgment they pronounce. Do not turn aside from their decision, either to the right or to the left."
+    },
+    {
+      "reference": "Deuteronomy 17:18",
+      "source_reference": "Deut 17:18",
+      "source_verse_sha256": "e546d93e80254218f1317f48ca6448f5091ec43a08279bbba8658f9335b2f74f",
+      "hebrew": "וְ/הָיָ֣ה כְ/שִׁבְתּ֔/וֹ עַ֖ל כִּסֵּ֣א מַמְלַכְתּ֑/וֹ וְ/כָ֨תַב ל֜/וֹ אֶת ־ מִשְׁנֵ֨ה הַ/תּוֹרָ֤ה הַ/זֹּאת֙ עַל ־ סֵ֔פֶר מִ/לִּ/פְנֵ֥י הַ/כֹּהֲנִ֖ים הַ/לְוִיִּֽם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֤ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "When he takes his royal throne, he must write for himself on a scroll a copy of this instruction, from the one kept by the Levitical priests."
+    },
+    {
+      "reference": "Deuteronomy 17:19",
+      "source_reference": "Deut 17:19",
+      "source_verse_sha256": "53866c21fe10ed4559f47491f6e0d3a5d02cc554a7514ffd03f0e69885cee345",
+      "hebrew": "וְ/הָיְתָ֣ה עִמּ֔/וֹ וְ/קָ֥רָא ב֖/וֹ כָּל ־ יְמֵ֣י חַיָּ֑י/ו לְמַ֣עַן יִלְמַ֗ד לְ/יִרְאָה֙ אֶת ־ יְהוָ֣ה אֱלֹהָ֔י/ו לִ֠/שְׁמֹר אֶֽת ־ כָּל ־ דִּבְרֵ֞י הַ/תּוֹרָ֥ה הַ/זֹּ֛את וְ/אֶת ־ הַ/חֻקִּ֥ים הָ/אֵ֖לֶּה לַ/עֲשֹׂתָֽ/ם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֥ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "It must stay with him, and he must read it all the days of his life, so that he learns to fear the LORD his God and takes care to practice all the words of this instruction and these statutes."
+    },
+    {
+      "reference": "Deuteronomy 19:9",
+      "source_reference": "Deut 19:9",
+      "source_verse_sha256": "df25777ac378ca9b3f3ddbf1e391e0645fc9566368b738809448b7a9c9204bf8",
+      "hebrew": "כִּֽי ־ תִשְׁמֹר֩ אֶת ־ כָּל ־ הַ/מִּצְוָ֨ה הַ/זֹּ֜את לַ/עֲשֹׂתָ֗/הּ אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּ/ךָ֮ הַ/יּוֹם֒ לְ/אַהֲבָ֞ה אֶת ־ יְהוָ֧ה אֱלֹהֶ֛י/ךָ וְ/לָ/לֶ֥כֶת בִּ/דְרָכָ֖י/ו כָּל ־ הַ/יָּמִ֑ים וְ/יָסַפְתָּ֨ לְ/ךָ֥ עוֹד֙ שָׁלֹ֣שׁ עָרִ֔ים עַ֖ל הַ/שָּׁלֹ֥שׁ הָ/אֵֽלֶּה ׃",
+      "annotations": [
+        "<note n=\"C\">We read one or more accents in L differently from BHQ. </note>\n          ",
+        "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "לְ/אַהֲבָ֞ה",
+          "lemma": "l/157",
+          "morph": "HR/Vqc",
+          "domain": "love"
+        }
+      ],
+      "fluent": "as you carefully carry out every command I give you today, loving the LORD your God and walking in his ways always, then add three more towns to these three."
+    },
+    {
+      "reference": "Deuteronomy 21:15",
+      "source_reference": "Deut 21:15",
+      "source_verse_sha256": "71c37c1cc8c22106f47a08b3e6e294e3cb0f72dc6034ca48a5f9fea5fdbe6d36",
+      "hebrew": "כִּֽי ־ תִהְיֶ֨יןָ לְ/אִ֜ישׁ שְׁתֵּ֣י נָשִׁ֗ים הָ/אַחַ֤ת אֲהוּבָה֙ וְ/הָ/אַחַ֣ת שְׂנוּאָ֔ה וְ/יָֽלְדוּ ־ ל֣/וֹ בָנִ֔ים הָ/אֲהוּבָ֖ה וְ/הַ/שְּׂנוּאָ֑ה וְ/הָיָ֛ה הַ/בֵּ֥ן הַ/בְּכ֖וֹר לַ/שְּׂנִיאָֽה ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "אֲהוּבָה֙",
+          "lemma": "157",
+          "morph": "HVqsfsa",
+          "domain": "love"
+        },
+        {
+          "hebrew": "הָ/אֲהוּבָ֖ה",
+          "lemma": "d/157",
+          "morph": "HTd/Vqsfsa",
+          "domain": "love"
+        }
+      ],
+      "fluent": "Suppose a man has two wives, one loved and the other unloved. Both bear him sons, but his firstborn son belongs to the unloved wife."
+    },
+    {
+      "reference": "Deuteronomy 21:16",
+      "source_reference": "Deut 21:16",
+      "source_verse_sha256": "a08e1b06283d51f7c2dac6edbce0ce3c012943e5d2064afed0cf2a32eb16d92c",
+      "hebrew": "וְ/הָיָ֗ה בְּ/יוֹם֙ הַנְחִיל֣/וֹ אֶת ־ בָּנָ֔י/ו אֵ֥ת אֲשֶׁר ־ יִהְיֶ֖ה ל֑/וֹ לֹ֣א יוּכַ֗ל לְ/בַכֵּר֙ אֶת ־ בֶּן ־ הָ֣/אֲהוּבָ֔ה עַל ־ פְּנֵ֥י בֶן ־ הַ/שְּׂנוּאָ֖ה הַ/בְּכֹֽר ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הָ֣/אֲהוּבָ֔ה",
+          "lemma": "d/157",
+          "morph": "HTd/Vqsfsa",
+          "domain": "love"
+        }
+      ],
+      "fluent": "When he gives his sons their inheritance, he must not give the loved wife's son the rights of the firstborn ahead of the unloved wife's son, who is the firstborn."
+    },
+    {
+      "reference": "Deuteronomy 23:5",
+      "source_reference": "Deut 23:6",
+      "source_verse_sha256": "73ac0c3081a67cc064205e363d0a68ebfa91e94b8c69c92c701e9cc440217b20",
+      "hebrew": "וְ/לֹֽא ־ אָבָ֞ה יְהוָ֤ה אֱלֹהֶ֨י/ךָ֙ לִ/שְׁמֹ֣עַ אֶל ־ בִּלְעָ֔ם וַ/יַּהֲפֹךְ֩ יְהוָ֨ה אֱלֹהֶ֧י/ךָ לְּ/ךָ֛ אֶת ־ הַ/קְּלָלָ֖ה לִ/בְרָכָ֑ה כִּ֥י אֲהֵֽבְ/ךָ֖ יְהוָ֥ה אֱלֹהֶֽי/ךָ ׃",
+      "annotations": [
+        "<note>KJV:Deut.23.5</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "אֲהֵֽבְ/ךָ֖",
+          "lemma": "157",
+          "morph": "HVqp3ms/Sp2ms",
+          "domain": "love"
+        }
+      ],
+      "fluent": "But the LORD your God refused to listen to Balaam. The LORD your God turned the curse into a blessing for you, because the LORD your God loved you."
+    },
+    {
+      "reference": "Deuteronomy 24:9",
+      "source_reference": "Deut 24:9",
+      "source_verse_sha256": "fa9914ff6ac498fa0edea327fcdf9d52111799132b76ad6750e89a0b2522f91a",
+      "hebrew": "זָכ֕וֹר אֵ֧ת אֲשֶׁר ־ עָשָׂ֛ה יְהוָ֥ה אֱלֹהֶ֖י/ךָ לְ/מִרְיָ֑ם בַּ/דֶּ֖רֶךְ בְּ/צֵאתְ/כֶ֥ם מִ/מִּצְרָֽיִם ׃ ס",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "זָכ֕וֹר",
+          "lemma": "2142",
+          "morph": "HVqa",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember what the LORD your God did to Miriam on the road after you came out of Egypt."
+    },
+    {
+      "reference": "Deuteronomy 24:18",
+      "source_reference": "Deut 24:18",
+      "source_verse_sha256": "cfe88cee85722df688bc61b094d5bde9714d7b9920cef4657ff8548144b8bc2e",
+      "hebrew": "וְ/זָכַרְתָּ֗ כִּ֣י עֶ֤בֶד הָיִ֨יתָ֙ בְּ/מִצְרַ֔יִם וַֽ/יִּפְדְּ/ךָ֛ יְהוָ֥ה אֱלֹהֶ֖י/ךָ מִ/שָּׁ֑ם עַל ־ כֵּ֞ן אָנֹכִ֤י מְצַוְּ/ךָ֙ לַ/עֲשׂ֔וֹת אֶת ־ הַ/דָּבָ֖ר הַ/זֶּֽה ׃ ס",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/זָכַרְתָּ֗",
+          "lemma": "c/2142",
+          "morph": "HC/Vqq2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember that you were a slave in Egypt, and the LORD your God redeemed you from there. That is why I command you to do this."
+    },
+    {
+      "reference": "Deuteronomy 24:19",
+      "source_reference": "Deut 24:19",
+      "source_verse_sha256": "5337b1841269fa5b90b98c79f956e6d55e4b70b81ae36d2a57c7332bc246b482",
+      "hebrew": "כִּ֣י תִקְצֹר֩ קְצִֽירְ/ךָ֨ בְ/שָׂדֶ֜/ךָ וְ/שָֽׁכַחְתָּ֧ עֹ֣מֶר בַּ/שָּׂדֶ֗ה לֹ֤א תָשׁוּב֙ לְ/קַחְתּ֔/וֹ לַ/גֵּ֛ר לַ/יָּת֥וֹם וְ/לָ/אַלְמָנָ֖ה יִהְיֶ֑ה לְמַ֤עַן יְבָרֶכְ/ךָ֙ יְהוָ֣ה אֱלֹהֶ֔י/ךָ בְּ/כֹ֖ל מַעֲשֵׂ֥ה יָדֶֽי/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/שָֽׁכַחְתָּ֧",
+          "lemma": "c/7911",
+          "morph": "HC/Vqq2ms",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "When you harvest your field and forget a sheaf, do not go back for it. Leave it for the resident foreigner, the fatherless, and the widow, so that the LORD your God may bless all the work of your hands."
+    },
+    {
+      "reference": "Deuteronomy 24:22",
+      "source_reference": "Deut 24:22",
+      "source_verse_sha256": "3f6a93703bbcfe239a1190473d655ce20ada622feea5f7dfe88468ddde4d447a",
+      "hebrew": "וְ/זָ֣כַרְתָּ֔ כִּי ־ עֶ֥בֶד הָיִ֖יתָ בְּ/אֶ֣רֶץ מִצְרָ֑יִם עַל ־ כֵּ֞ן אָנֹכִ֤י מְצַוְּ/ךָ֙ לַ/עֲשׂ֔וֹת אֶת ־ הַ/דָּבָ֖ר הַ/זֶּֽה ׃ ס",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/זָ֣כַרְתָּ֔",
+          "lemma": "c/2142",
+          "morph": "HC/Vqq2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember that you were a slave in Egypt. That is why I command you to do this.”"
+    },
+    {
+      "reference": "Deuteronomy 25:17",
+      "source_reference": "Deut 25:17",
+      "source_verse_sha256": "a99a6d45de1a7f4dee5ed3831139dd5a247b9f75208616f163e6dadfb6b2c90b",
+      "hebrew": "זָכ֕וֹר אֵ֛ת אֲשֶׁר ־ עָשָׂ֥ה לְ/ךָ֖ עֲמָלֵ֑ק בַּ/דֶּ֖רֶךְ בְּ/צֵאתְ/כֶ֥ם מִ/מִּצְרָֽיִם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "זָכ֕וֹר",
+          "lemma": "2142",
+          "morph": "HVqa",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember what Amalek did to you on the road when you came out of Egypt."
+    },
+    {
+      "reference": "Deuteronomy 25:19",
+      "source_reference": "Deut 25:19",
+      "source_verse_sha256": "7604336c80b0127ad74d64eb6519771c98e722663ae106c28cff287433ecaa01",
+      "hebrew": "וְ/הָיָ֡ה בְּ/הָנִ֣יחַ יְהוָ֣ה אֱלֹהֶ֣י/ךָ ׀ לְ֠/ךָ מִ/כָּל ־ אֹ֨יְבֶ֜י/ךָ מִ/סָּבִ֗יב בָּ/אָ֨רֶץ֙ אֲשֶׁ֣ר יְהוָֽה ־ אֱ֠לֹהֶי/ךָ נֹתֵ֨ן לְ/ךָ֤ נַחֲלָה֙ לְ/רִשְׁתָּ֔/הּ תִּמְחֶה֙ אֶת ־ זֵ֣כֶר עֲמָלֵ֔ק מִ/תַּ֖חַת הַ/שָּׁמָ֑יִם לֹ֖א תִּשְׁכָּֽח ׃ פ",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "תִּשְׁכָּֽח",
+          "lemma": "7911",
+          "morph": "HVqi2ms",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "When the LORD your God gives you rest from all your enemies around you, in the land he is giving you to possess as an inheritance, wipe out the memory of Amalek from under heaven. Do not forget.”"
+    },
+    {
+      "reference": "Deuteronomy 26:13",
+      "source_reference": "Deut 26:13",
+      "source_verse_sha256": "e4ef667b9763fb8076626dc3fe39322971c3923235a8768abaafc2daecac5996",
+      "hebrew": "וְ/אָמַרְתָּ֡ לִ/פְנֵי֩ יְהוָ֨ה אֱלֹהֶ֜י/ךָ בִּעַ֧רְתִּי הַ/קֹּ֣דֶשׁ מִן ־ הַ/בַּ֗יִת וְ/גַ֨ם נְתַתִּ֤י/ו לַ/לֵּוִי֙ וְ/לַ/גֵּר֙ לַ/יָּת֣וֹם וְ/לָ/אַלְמָנָ֔ה כְּ/כָל ־ מִצְוָתְ/ךָ֖ אֲשֶׁ֣ר צִוִּיתָ֑/נִי לֹֽא ־ עָבַ֥רְתִּי מִ/מִּצְוֺתֶ֖י/ךָ וְ/לֹ֥א שָׁכָֽחְתִּי ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "שָׁכָֽחְתִּי",
+          "lemma": "7911",
+          "morph": "HVqp1cs",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "Then say before the LORD your God, ‘I have removed the sacred portion from my house and given it to the Levite, the resident foreigner, the fatherless, and the widow, just as you commanded me. I have not transgressed your commands or forgotten them."
+    },
+    {
+      "reference": "Deuteronomy 27:3",
+      "source_reference": "Deut 27:3",
+      "source_verse_sha256": "52488d6e1ef5e4088f1d6c60019468a8eba1428f1055b99165697381958787b1",
+      "hebrew": "וְ/כָתַבְתָּ֣ עֲלֵי/הֶ֗ן אֶֽת ־ כָּל ־ דִּבְרֵ֛י הַ/תּוֹרָ֥ה הַ/זֹּ֖את בְּ/עָבְרֶ֑/ךָ לְמַ֡עַן אֲשֶׁר֩ תָּבֹ֨א אֶל ־ הָ/אָ֜רֶץ אֲֽשֶׁר ־ יְהוָ֥ה אֱלֹהֶ֣י/ךָ ׀ נֹתֵ֣ן לְ/ךָ֗ אֶ֣רֶץ זָבַ֤ת חָלָב֙ וּ/דְבַ֔שׁ כַּ/אֲשֶׁ֥ר דִּבֶּ֛ר יְהוָ֥ה אֱלֹהֵֽי ־ אֲבֹתֶ֖י/ךָ לָֽ/ךְ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֥ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "Write all the words of this instruction on them when you cross over, so that you may enter the land the LORD your God is giving you—a land flowing with milk and honey, as the LORD, the God of your ancestors, promised you."
+    },
+    {
+      "reference": "Deuteronomy 27:8",
+      "source_reference": "Deut 27:8",
+      "source_verse_sha256": "fe5f6b64964142b0ed54fc3c1f0d9405c6a6b6ebe421664b0475837fde21e9eb",
+      "hebrew": "וְ/כָתַבְתָּ֣ עַל ־ הָ/אֲבָנִ֗ים אֶֽת ־ כָּל ־ דִּבְרֵ֛י הַ/תּוֹרָ֥ה הַ/זֹּ֖את בַּאֵ֥ר הֵיטֵֽב ׃ ס",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֥ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "Write all the words of this instruction on the stones, very clearly.”"
+    },
+    {
+      "reference": "Deuteronomy 27:26",
+      "source_reference": "Deut 27:26",
+      "source_verse_sha256": "0f89c7f238fa67d3607add26700ded579bc9778b7c5bbc7041d11d3b4450f6e7",
+      "hebrew": "אָר֗וּר אֲשֶׁ֧ר לֹא ־ יָקִ֛ים אֶת ־ דִּבְרֵ֥י הַ/תּוֹרָֽה ־ הַ/זֹּ֖את לַ/עֲשׂ֣וֹת אוֹתָ֑/ם וְ/אָמַ֥ר כָּל ־ הָ/עָ֖ם אָמֵֽן ׃ פ",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָֽה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "‘Cursed is anyone who does not uphold the words of this instruction by carrying them out.’ All the people are to say, ‘Amen!’”"
+    },
+    {
+      "reference": "Deuteronomy 28:21",
+      "source_reference": "Deut 28:21",
+      "source_verse_sha256": "93299a4d06149ab6c5992ffea2cfdef1d6b17a1d99bbf89ac1779ddd4056a7d8",
+      "hebrew": "יַדְבֵּ֧ק יְהוָ֛ה בְּ/ךָ֖ אֶת ־ הַ/דָּ֑בֶר עַ֚ד כַּלֹּת֣/וֹ אֹֽתְ/ךָ֔ מֵ/עַל֙ הָֽ/אֲדָמָ֔ה אֲשֶׁר ־ אַתָּ֥ה בָא ־ שָׁ֖מָּ/ה לְ/רִשְׁתָּֽ/הּ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "יַדְבֵּ֧ק",
+          "lemma": "1692",
+          "morph": "HVhi3ms",
+          "domain": "hold fast"
+        }
+      ],
+      "fluent": "The LORD will make pestilence cling to you until he has consumed you from the land you are entering to possess."
+    },
+    {
+      "reference": "Deuteronomy 28:58",
+      "source_reference": "Deut 28:58",
+      "source_verse_sha256": "622b58036967bd2c20c66aba45df66fffd9cf8a05ef0bc1a2c896a3feec5e7a3",
+      "hebrew": "אִם ־ לֹ֨א תִשְׁמֹ֜ר לַ/עֲשׂ֗וֹת אֶת ־ כָּל ־ דִּבְרֵי֙ הַ/תּוֹרָ֣ה הַ/זֹּ֔את הַ/כְּתוּבִ֖ים בַּ/סֵּ֣פֶר הַ/זֶּ֑ה לְ֠/יִרְאָה אֶת ־ הַ/שֵּׁ֞ם הַ/נִּכְבָּ֤ד וְ/הַ/נּוֹרָא֙ הַ/זֶּ֔ה אֵ֖ת יְהוָ֥ה אֱלֹהֶֽי/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֣ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "If you do not faithfully carry out all the words of this instruction written in this scroll, revering this glorious and fearsome name—the LORD your God—"
+    },
+    {
+      "reference": "Deuteronomy 28:60",
+      "source_reference": "Deut 28:60",
+      "source_verse_sha256": "c4efacfd8f3d4974dd22ea616365faf389665bd3161b74e362c22f6c4a9f6481",
+      "hebrew": "וְ/הֵשִׁ֣יב בְּ/ךָ֗ אֵ֚ת כָּל ־ מַדְוֵ֣ה מִצְרַ֔יִם אֲשֶׁ֥ר יָגֹ֖רְתָּ מִ/פְּנֵי/הֶ֑ם וְ/דָבְק֖וּ בָּֽ/ךְ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/דָבְק֖וּ",
+          "lemma": "c/1692",
+          "morph": "HC/Vqq3cp",
+          "domain": "hold fast"
+        }
+      ],
+      "fluent": "He will bring back upon you all the diseases of Egypt that you dreaded, and they will cling to you."
+    },
+    {
+      "reference": "Deuteronomy 28:61",
+      "source_reference": "Deut 28:61",
+      "source_verse_sha256": "510b494f356bf69cb309122b64477813ec5102fe015ff6a8ef49c936b557af3c",
+      "hebrew": "גַּ֤ם כָּל ־ חֳלִי֙ וְ/כָל ־ מַכָּ֔ה אֲשֶׁר֙ לֹ֣א כָת֔וּב בְּ/סֵ֖פֶר הַ/תּוֹרָ֣ה הַ/זֹּ֑את יַעְלֵ֤/ם יְהוָה֙ עָלֶ֔י/ךָ עַ֖ד הִשָּׁמְדָֽ/ךְ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֣ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "The LORD will also bring upon you every disease and plague not written in this scroll of instruction, until you are destroyed."
+    },
+    {
+      "reference": "Deuteronomy 29:1",
+      "source_reference": "Deut 28:69",
+      "source_verse_sha256": "dad30e3b258a7bbdb6ce740695415f4d0094427ef3068793a8b452014338a638",
+      "hebrew": "אֵלֶּה֩ דִבְרֵ֨י הַ/בְּרִ֜ית אֲֽשֶׁר ־ צִוָּ֧ה יְהוָ֣ה אֶת ־ מֹשֶׁ֗ה לִ/כְרֹ֛ת אֶת ־ בְּנֵ֥י יִשְׂרָאֵ֖ל בְּ/אֶ֣רֶץ מוֹאָ֑ב מִ/לְּ/בַ֣ד הַ/בְּרִ֔ית אֲשֶׁר ־ כָּרַ֥ת אִתָּ֖/ם בְּ/חֹרֵֽב ׃ פ",
+      "annotations": [
+        "<note>KJV:Deut.29.1</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֜ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        },
+        {
+          "hebrew": "הַ/בְּרִ֔ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "These are the words of the covenant the LORD commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant he made with them at Horeb."
+    },
+    {
+      "reference": "Deuteronomy 29:9",
+      "source_reference": "Deut 29:8",
+      "source_verse_sha256": "0ae92f4b19a604742ef3b5890414c8743ec37919588964fc32c6013c8ff1468c",
+      "hebrew": "וּ/שְׁמַרְתֶּ֗ם אֶת ־ דִּבְרֵי֙ הַ/בְּרִ֣ית הַ/זֹּ֔את וַ/עֲשִׂיתֶ֖ם אֹתָ֑/ם לְמַ֣עַן תַּשְׂכִּ֔ילוּ אֵ֖ת כָּל ־ אֲשֶׁ֥ר תַּעֲשֽׂוּ/ן ׃ פ",
+      "annotations": [
+        "<note>KJV:Deut.29.9</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֣ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "So keep the words of this covenant and carry them out, so that you may succeed in everything you do."
+    },
+    {
+      "reference": "Deuteronomy 29:12",
+      "source_reference": "Deut 29:11",
+      "source_verse_sha256": "f6d2988d675cdd3e838c81b089d33a441f8345eece9b0a4b00e1c8415e2b11b7",
+      "hebrew": "לְ/עָבְרְ/ךָ֗ בִּ/בְרִ֛ית יְהוָ֥ה אֱלֹהֶ֖י/ךָ וּ/בְ/אָלָת֑/וֹ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔י/ךָ כֹּרֵ֥ת עִמְּ/ךָ֖ הַ/יּֽוֹם ׃",
+      "annotations": [
+        "<note>KJV:Deut.29.12</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "בִּ/בְרִ֛ית",
+          "lemma": "b/1285",
+          "morph": "HR/Ncfsc",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "You are here to enter the covenant of the LORD your God, with its binding oath and curse, which the LORD your God is making with you today,"
+    },
+    {
+      "reference": "Deuteronomy 29:14",
+      "source_reference": "Deut 29:13",
+      "source_verse_sha256": "bc1153b6de3f8fdc71eaf25a7b0fe747196e78f7640713c3d4b7e12a9d69035e",
+      "hebrew": "וְ/לֹ֥א אִתְּ/כֶ֖ם לְ/בַדְּ/כֶ֑ם אָנֹכִ֗י כֹּרֵת֙ אֶת ־ הַ/בְּרִ֣ית הַ/זֹּ֔את וְ/אֶת ־ הָ/אָלָ֖ה הַ/זֹּֽאת ׃",
+      "annotations": [
+        "<note>KJV:Deut.29.14</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֣ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "I am making this covenant, with its oath and curse, not with you alone,"
+    },
+    {
+      "reference": "Deuteronomy 29:21",
+      "source_reference": "Deut 29:20",
+      "source_verse_sha256": "5cd09cefac2adeb88842381b96dbfc14e57dd2750395f53c8fa58c044ca1d992",
+      "hebrew": "וְ/הִבְדִּיל֤/וֹ יְהוָה֙ לְ/רָעָ֔ה מִ/כֹּ֖ל שִׁבְטֵ֣י יִשְׂרָאֵ֑ל כְּ/כֹל֙ אָל֣וֹת הַ/בְּרִ֔ית הַ/כְּתוּבָ֕ה בְּ/סֵ֥פֶר הַ/תּוֹרָ֖ה הַ/זֶּֽה ׃",
+      "annotations": [
+        "<note>KJV:Deut.29.21</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "הַ/בְּרִ֔ית",
+          "lemma": "d/1285",
+          "morph": "HTd/Ncfsa",
+          "domain": "covenant"
+        },
+        {
+          "hebrew": "הַ/תּוֹרָ֖ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "The LORD will single him out from all the tribes of Israel for calamity, in keeping with all the covenant curses written in this scroll of instruction."
+    },
+    {
+      "reference": "Deuteronomy 29:25",
+      "source_reference": "Deut 29:24",
+      "source_verse_sha256": "d717ee30a5e216a6a02a06595ac806eb43a2631cde39c3c06c5988553e2ab97f",
+      "hebrew": "וְ/אָ֣מְר֔וּ עַ֚ל אֲשֶׁ֣ר עָֽזְב֔וּ אֶת ־ בְּרִ֥ית יְהוָ֖ה אֱלֹהֵ֣י אֲבֹתָ֑/ם אֲשֶׁר֙ כָּרַ֣ת עִמָּ֔/ם בְּ/הוֹצִיא֥/וֹ אֹתָ֖/ם מֵ/אֶ֥רֶץ מִצְרָֽיִם ׃",
+      "annotations": [
+        "<note>KJV:Deut.29.25</note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "בְּרִ֥ית",
+          "lemma": "1285",
+          "morph": "HNcfsc",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "People will answer, ‘Because they abandoned the covenant of the LORD, the God of their ancestors, which he made with them when he brought them out of Egypt."
+    },
+    {
+      "reference": "Deuteronomy 29:29",
+      "source_reference": "Deut 29:28",
+      "source_verse_sha256": "ea29a3c68ca40ba092be86f5c7784acb8f0afd2ffc7694abf7d5367459ba6972",
+      "hebrew": "הַ֨/נִּסְתָּרֹ֔ת לַ/יהוָ֖ה אֱלֹהֵ֑י/נוּ וְ/הַ/נִּגְלֹ֞ת לָ֤ׄ/נׄוּׄ וּׄ/לְׄ/בָׄנֵׄ֨יׄ/נׄוּׄ֙ עַד ־ עוֹלָ֔ם לַ/עֲשׂ֕וֹת אֶת ־ כָּל ־ דִּבְרֵ֖י הַ/תּוֹרָ֥ה הַ/זֹּֽאת ׃ ס",
+      "annotations": [
+        "<note>KJV:Deut.29.29</note>\n          ",
+        "<note n=\"4\">Puncta extraordinaria -- a \\u05c4 is used to mark such marks in the text when they are above the line and a \\u05c5 when they are below the line. </note>\n          ",
+        "<note n=\"4\">Puncta extraordinaria -- a \\u05c4 is used to mark such marks in the text when they are above the line and a \\u05c5 when they are below the line. </note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֥ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "The hidden things belong to the LORD our God, but the revealed things belong to us and our children forever, so that we may carry out all the words of this instruction.”"
+    },
+    {
+      "reference": "Deuteronomy 30:6",
+      "source_reference": "Deut 30:6",
+      "source_verse_sha256": "3cfa2e75f0f2d99d8b0e638857ba05c80ca7b0c0b32b39ed6f1961198c96609c",
+      "hebrew": "וּ/מָ֨ל יְהוָ֧ה אֱלֹהֶ֛י/ךָ אֶת ־ לְבָבְ/ךָ֖ וְ/אֶת ־ לְבַ֣ב זַרְעֶ֑/ךָ לְ/אַהֲבָ֞ה אֶת ־ יְהוָ֧ה אֱלֹהֶ֛י/ךָ בְּ/כָל ־ לְבָבְ/ךָ֥ וּ/בְ/כָל ־ נַפְשְׁ/ךָ֖ לְמַ֥עַן חַיֶּֽי/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וּ/מָ֨ל",
+          "lemma": "c/4135 a",
+          "morph": "HC/Vqq3ms",
+          "domain": "circumcise"
+        },
+        {
+          "hebrew": "לְ/אַהֲבָ֞ה",
+          "lemma": "l/157",
+          "morph": "HR/Vqc",
+          "domain": "love"
+        }
+      ],
+      "fluent": "The LORD your God will circumcise your heart and the heart of your descendants, so that you may love the LORD your God with all your heart and all your soul, and live."
+    },
+    {
+      "reference": "Deuteronomy 30:10",
+      "source_reference": "Deut 30:10",
+      "source_verse_sha256": "baaff1e2fbdcf7107c128bd08c0cc467eca8127605007c2ba1ad1087d6380be2",
+      "hebrew": "כִּ֣י תִשְׁמַ֗ע בְּ/קוֹל֙ יְהוָ֣ה אֱלֹהֶ֔י/ךָ לִ/שְׁמֹ֤ר מִצְוֺתָי/ו֙ וְ/חֻקֹּתָ֔י/ו הַ/כְּתוּבָ֕ה בְּ/סֵ֥פֶר הַ/תּוֹרָ֖ה הַ/זֶּ֑ה כִּ֤י תָשׁוּב֙ אֶל ־ יְהוָ֣ה אֱלֹהֶ֔י/ךָ בְּ/כָל ־ לְבָבְ/ךָ֖ וּ/בְ/כָל ־ נַפְשֶֽׁ/ךָ ׃ פ",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֖ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "if you listen to the LORD your God, keeping his commandments and statutes written in this scroll of instruction, and return to the LORD your God with all your heart and all your soul."
+    },
+    {
+      "reference": "Deuteronomy 30:16",
+      "source_reference": "Deut 30:16",
+      "source_verse_sha256": "cff9fe7c03ae5c83fea3afa6542c531e3dc54976b9f625f9eb0592b38c347c3b",
+      "hebrew": "אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּ/ךָ֮ הַ/יּוֹם֒ לְ/אַהֲבָ֞ה אֶת ־ יְהוָ֤ה אֱלֹהֶ֨י/ךָ֙ לָ/לֶ֣כֶת בִּ/דְרָכָ֔י/ו וְ/לִ/שְׁמֹ֛ר מִצְוֺתָ֥י/ו וְ/חֻקֹּתָ֖י/ו וּ/מִשְׁפָּטָ֑י/ו וְ/חָיִ֣יתָ וְ/רָבִ֔יתָ וּ/בֵֽרַכְ/ךָ֙ יְהוָ֣ה אֱלֹהֶ֔י/ךָ בָּ/אָ֕רֶץ אֲשֶׁר ־ אַתָּ֥ה בָא ־ שָׁ֖מָּ/ה לְ/רִשְׁתָּֽ/הּ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "לְ/אַהֲבָ֞ה",
+          "lemma": "l/157",
+          "morph": "HR/Vqc",
+          "domain": "love"
+        }
+      ],
+      "fluent": "I command you today to love the LORD your God, to walk in his ways, and to keep his commandments, statutes, and judgments. Then you will live and increase, and the LORD your God will bless you in the land you are entering to possess."
+    },
+    {
+      "reference": "Deuteronomy 30:20",
+      "source_reference": "Deut 30:20",
+      "source_verse_sha256": "f52acc5ea038362a088f75b0979ec70479d2b22a03be133ce0743ab47bb6fbe3",
+      "hebrew": "לְ/אַֽהֲבָה֙ אֶת ־ יְהוָ֣ה אֱלֹהֶ֔י/ךָ לִ/שְׁמֹ֥עַ בְּ/קֹל֖/וֹ וּ/לְ/דָבְקָה ־ ב֑/וֹ כִּ֣י ה֤וּא חַיֶּ֨י/ךָ֙ וְ/אֹ֣רֶךְ יָמֶ֔י/ךָ לָ/שֶׁ֣בֶת עַל ־ הָ/אֲדָמָ֗ה אֲשֶׁר֩ נִשְׁבַּ֨ע יְהוָ֧ה לַ/אֲבֹתֶ֛י/ךָ לְ/אַבְרָהָ֛ם לְ/יִצְחָ֥ק וּֽ/לְ/יַעֲקֹ֖ב לָ/תֵ֥ת לָ/הֶֽם ׃ פ",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "לְ/אַֽהֲבָה֙",
+          "lemma": "l/157",
+          "morph": "HR/Vqc",
+          "domain": "love"
+        },
+        {
+          "hebrew": "וּ/לְ/דָבְקָה",
+          "lemma": "c/l/1692",
+          "morph": "HC/R/Vqc",
+          "domain": "hold fast"
+        }
+      ],
+      "fluent": "loving the LORD your God, listening to him, and holding fast to him. For he is your life and the length of your days, so that you may live on the ground the LORD swore to give your ancestors Abraham, Isaac, and Jacob.”"
+    },
+    {
+      "reference": "Deuteronomy 31:9",
+      "source_reference": "Deut 31:9",
+      "source_verse_sha256": "faaf066f6d62f6c78fc9afd689cae908053751b61bd3c2e4f32057f2c435e969",
+      "hebrew": "וַ/יִּכְתֹּ֣ב מֹשֶׁה֮ אֶת ־ הַ/תּוֹרָ֣ה הַ/זֹּאת֒ וַֽ/יִּתְּנָ֗/הּ אֶל ־ הַ/כֹּהֲנִים֙ בְּנֵ֣י לֵוִ֔י הַ/נֹּ֣שְׂאִ֔ים אֶת ־ אֲר֖וֹן בְּרִ֣ית יְהוָ֑ה וְ/אֶל ־ כָּל ־ זִקְנֵ֖י יִשְׂרָאֵֽל ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֣ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        },
+        {
+          "hebrew": "בְּרִ֣ית",
+          "lemma": "1285",
+          "morph": "HNcfsc",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "Moses wrote down this instruction and gave it to the priests, the sons of Levi who carried the ark of the LORD’s covenant, and to all Israel’s elders."
+    },
+    {
+      "reference": "Deuteronomy 31:11",
+      "source_reference": "Deut 31:11",
+      "source_verse_sha256": "444394dc589943073d8167a729b47b3374c36339dd370cad90f407905d304396",
+      "hebrew": "בְּ/ב֣וֹא כָל ־ יִשְׂרָאֵ֗ל לֵ/רָאוֹת֙ אֶת ־ פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔י/ךָ בַּ/מָּק֖וֹם אֲשֶׁ֣ר יִבְחָ֑ר תִּקְרָ֞א אֶת ־ הַ/תּוֹרָ֥ה הַ/זֹּ֛את נֶ֥גֶד כָּל ־ יִשְׂרָאֵ֖ל בְּ/אָזְנֵי/הֶֽם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֥ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "when all Israel comes to appear before the LORD your God at the place he chooses, read this instruction aloud before all Israel, so they can hear it."
+    },
+    {
+      "reference": "Deuteronomy 31:12",
+      "source_reference": "Deut 31:12",
+      "source_verse_sha256": "bcd47ac1116a78db3b6042cb93f95166dedc757afc2947fec7b9f785fd0be027",
+      "hebrew": "הַקְהֵ֣ל אֶת ־ הָ/עָ֗ם הָֽ/אֲנָשִׁ֤ים וְ/הַ/נָּשִׁים֙ וְ/הַ/טַּ֔ף וְ/גֵרְ/ךָ֖ אֲשֶׁ֣ר בִּ/שְׁעָרֶ֑י/ךָ לְמַ֨עַן יִשְׁמְע֜וּ וּ/לְמַ֣עַן יִלְמְד֗וּ וְ/יָֽרְאוּ֙ אֶת ־ יְהוָ֣ה אֱלֹֽהֵי/כֶ֔ם וְ/שָֽׁמְר֣וּ לַ/עֲשׂ֔וֹת אֶת ־ כָּל ־ דִּבְרֵ֖י הַ/תּוֹרָ֥ה הַ/זֹּֽאת ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֥ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "Assemble the people—men, women, children, and the resident foreigner in your towns—so they may hear, learn to fear the LORD your God, and faithfully carry out all the words of this instruction."
+    },
+    {
+      "reference": "Deuteronomy 31:16",
+      "source_reference": "Deut 31:16",
+      "source_verse_sha256": "e805fd585d75c71afb97f44ba19d4f70d498d716e6679260615d6a68a94e17ca",
+      "hebrew": "וַ/יֹּ֤אמֶר יְהוָה֙ אֶל ־ מֹשֶׁ֔ה הִנְּ/ךָ֥ שֹׁכֵ֖ב עִם ־ אֲבֹתֶ֑י/ךָ וְ/קָם֩ הָ/עָ֨ם הַ/זֶּ֜ה וְ/זָנָ֣ה ׀ אַחֲרֵ֣י ׀ אֱלֹהֵ֣י נֵֽכַר ־ הָ/אָ֗רֶץ אֲשֶׁ֨ר ה֤וּא בָא ־ שָׁ֨מָּ/ה֙ בְּ/קִרְבּ֔/וֹ וַ/עֲזָבַ֕/נִי וְ/הֵפֵר֙ אֶת ־ בְּרִיתִ֔/י אֲשֶׁ֥ר כָּרַ֖תִּי אִתּֽ/וֹ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "בְּרִיתִ֔/י",
+          "lemma": "1285",
+          "morph": "HNcfsc/Sp1cs",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "The LORD said to Moses, “You are about to lie down with your ancestors. This people will rise up and prostitute themselves to the foreign gods of the land they are entering. They will abandon me and break the covenant I made with them."
+    },
+    {
+      "reference": "Deuteronomy 31:20",
+      "source_reference": "Deut 31:20",
+      "source_verse_sha256": "f9b404277f46dc68a54b16d1325688294d10a00c45311eed20fa0d04c2a1148b",
+      "hebrew": "כִּֽי ־ אֲבִיאֶ֜/נּוּ אֶֽל ־ הָ/אֲדָמָ֣ה ׀ אֲשֶׁר ־ נִשְׁבַּ֣עְתִּי לַ/אֲבֹתָ֗י/ו זָבַ֤ת חָלָב֙ וּ/דְבַ֔שׁ וְ/אָכַ֥ל וְ/שָׂבַ֖ע וְ/דָשֵׁ֑ן וּ/פָנָ֞ה אֶל ־ אֱלֹהִ֤ים אֲחֵרִים֙ וַ/עֲבָד֔וּ/ם וְ/נִ֣אֲצ֔וּ/נִי וְ/הֵפֵ֖ר אֶת ־ בְּרִיתִֽ/י ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "בְּרִיתִֽ/י",
+          "lemma": "1285",
+          "morph": "HNcfsc/Sp1cs",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "When I bring them into the land flowing with milk and honey that I swore to their ancestors, they will eat their fill and grow fat. Then they will turn to other gods and serve them, spurn me, and break my covenant."
+    },
+    {
+      "reference": "Deuteronomy 31:21",
+      "source_reference": "Deut 31:21",
+      "source_verse_sha256": "1c43cfcfc81e5017543acc35c60ba06bf19d26dd1dffa633ff7cf24ffc7d2af2",
+      "hebrew": "וְ֠/הָיָה כִּֽי ־ תִמְצֶ֨אןָ אֹת֜/וֹ רָע֣וֹת רַבּוֹת֮ וְ/צָרוֹת֒ וְ֠/עָנְתָה הַ/שִּׁירָ֨ה הַ/זֹּ֤את לְ/פָנָי/ו֙ לְ/עֵ֔ד כִּ֛י לֹ֥א תִשָּׁכַ֖ח מִ/פִּ֣י זַרְע֑/וֹ כִּ֧י יָדַ֣עְתִּי אֶת ־ יִצְר֗/וֹ אֲשֶׁ֨ר ה֤וּא עֹשֶׂה֙ הַ/יּ֔וֹם בְּ/טֶ֣רֶם אֲבִיאֶ֔/נּוּ אֶל ־ הָ/אָ֖רֶץ אֲשֶׁ֥ר נִשְׁבָּֽעְתִּי ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "תִשָּׁכַ֖ח",
+          "lemma": "7911",
+          "morph": "HVNi3fs",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "When many calamities and troubles find them, this song will answer as a witness against them, because it will not be forgotten from the mouths of their descendants. I know what they are inclined to do even now, before I bring them into the land I swore to give them.”"
+    },
+    {
+      "reference": "Deuteronomy 31:24",
+      "source_reference": "Deut 31:24",
+      "source_verse_sha256": "963ffd97dbbf8215f83a05038742a04a2b0066530c60e4f8e4b6d3de710b01c6",
+      "hebrew": "וַ/יְהִ֣י ׀ כְּ/כַלּ֣וֹת מֹשֶׁ֗ה לִ/כְתֹּ֛ב אֶת ־ דִּבְרֵ֥י הַ/תּוֹרָֽה ־ הַ/זֹּ֖את עַל ־ סֵ֑פֶר עַ֖ד תֻּמָּֽ/ם ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָֽה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "When Moses had finished writing all the words of this instruction in a scroll,"
+    },
+    {
+      "reference": "Deuteronomy 31:25",
+      "source_reference": "Deut 31:25",
+      "source_verse_sha256": "f648c8580f2497e9f50484ffd280019d73da6a253d68b6c9f0415dde51dbe456",
+      "hebrew": "וַ/יְצַ֤ו מֹשֶׁה֙ אֶת ־ הַ/לְוִיִּ֔ם נֹ֥שְׂאֵ֛י אֲר֥וֹן בְּרִית ־ יְהוָ֖ה לֵ/אמֹֽר ׃",
+      "annotations": [
+        "<note n=\"C\">We read one or more accents in L differently from BHQ. </note>\n          ",
+        "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "בְּרִית",
+          "lemma": "1285",
+          "morph": "HNcfsc",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "he commanded the Levites who carried the ark of the LORD’s covenant:"
+    },
+    {
+      "reference": "Deuteronomy 31:26",
+      "source_reference": "Deut 31:26",
+      "source_verse_sha256": "4798115b389edada1c2a59c647f7bfaaacce95b3f89439d39fcd66edc4a53937",
+      "hebrew": "לָקֹ֗חַ אֵ֣ת סֵ֤פֶר הַ/תּוֹרָה֙ הַ/זֶּ֔ה וְ/שַׂמְתֶּ֣ם אֹת֔/וֹ מִ/צַּ֛ד אֲר֥וֹן בְּרִית ־ יְהוָ֖ה אֱלֹהֵי/כֶ֑ם וְ/הָֽיָה ־ שָׁ֥ם בְּ/ךָ֖ לְ/עֵֽד ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָה֙",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        },
+        {
+          "hebrew": "בְּרִית",
+          "lemma": "1285",
+          "morph": "HNcfsc",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "“Take this scroll of instruction and place it beside the ark of the covenant of the LORD your God. It is to remain there as a witness against you."
+    },
+    {
+      "reference": "Deuteronomy 32:7",
+      "source_reference": "Deut 32:7",
+      "source_verse_sha256": "9a707c90e6c84cf745dd698eb29118c8e979a7d20a62964fbeeae9f081231d8b",
+      "hebrew": "זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם בִּ֖ינוּ שְׁנ֣וֹת דּוֹר ־ וָ/ד֑וֹר שְׁאַ֤ל אָבִ֨י/ךָ֙ וְ/יַגֵּ֔דְ/ךָ זְקֵנֶ֖י/ךָ וְ/יֹ֥אמְרוּ לָֽ/ךְ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "זְכֹר֙",
+          "lemma": "2142",
+          "morph": "HVqv2ms",
+          "domain": "remember"
+        }
+      ],
+      "fluent": "Remember the days of old; consider the years of generation after generation. Ask your father, and he will tell you, your elders, and they will speak to you."
+    },
+    {
+      "reference": "Deuteronomy 32:18",
+      "source_reference": "Deut 32:18",
+      "source_verse_sha256": "140eae1e6faa7b654ce720b7e2a570a2549ff3519efbb56bdb7ee791cdd1de1c",
+      "hebrew": "צ֥וּר יְלָדְ/ךָ֖ תֶּ֑שִׁי וַ/תִּשְׁכַּ֖ח אֵ֥ל מְחֹלְלֶֽ/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וַ/תִּשְׁכַּ֖ח",
+          "lemma": "c/7911",
+          "morph": "HC/Vqw2ms",
+          "domain": "forget"
+        }
+      ],
+      "fluent": "You neglected the Rock who fathered you and forgot the God who gave you birth."
+    },
+    {
+      "reference": "Deuteronomy 32:46",
+      "source_reference": "Deut 32:46",
+      "source_verse_sha256": "fe3655d6262a348246ce57755856d52ef48102d274fe2ed5787928565823406f",
+      "hebrew": "וַ/יֹּ֤אמֶר אֲלֵ/הֶם֙ שִׂ֣ימוּ לְבַבְ/כֶ֔ם לְ/כָל ־ הַ/דְּבָרִ֔ים אֲשֶׁ֧ר אָנֹכִ֛י מֵעִ֥יד בָּ/כֶ֖ם הַ/יּ֑וֹם אֲשֶׁ֤ר תְּצַוֻּ/ם֙ אֶת ־ בְּנֵי/כֶ֔ם לִ/שְׁמֹ֣ר לַ/עֲשׂ֔וֹת אֶת ־ כָּל ־ דִּבְרֵ֖י הַ/תּוֹרָ֥ה הַ/זֹּֽאת ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "הַ/תּוֹרָ֥ה",
+          "lemma": "d/8451",
+          "morph": "HTd/Ncfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "he said to them, “Take to heart all the words I am solemnly declaring to you today. Command your children to faithfully carry out all the words of this instruction."
+    },
+    {
+      "reference": "Deuteronomy 33:4",
+      "source_reference": "Deut 33:4",
+      "source_verse_sha256": "7473cc07d8e2b033f4fdd882be432da88f4a12ebcfa852ccfc6f8936f427f7c4",
+      "hebrew": "תּוֹרָ֥ה צִוָּה ־ לָ֖/נוּ מֹשֶׁ֑ה מוֹרָשָׁ֖ה קְהִלַּ֥ת יַעֲקֹֽב ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "תּוֹרָ֥ה",
+          "lemma": "8451",
+          "morph": "HNcfsa",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "Moses commanded us instruction, an inheritance for the assembly of Jacob."
+    },
+    {
+      "reference": "Deuteronomy 33:9",
+      "source_reference": "Deut 33:9",
+      "source_verse_sha256": "3ce9b6b58fbaae1aa56fb792b267eaf4ce6e82dffb37d59f32c34bdadf3ef0ea",
+      "hebrew": "הָ/אֹמֵ֞ר לְ/אָבִ֤י/ו וּ/לְ/אִמּ/וֹ֙ לֹ֣א רְאִיתִ֔י/ו וְ/אֶת ־ אֶחָי/ו֙ לֹ֣א הִכִּ֔יר וְ/אֶת ־ בנ/ו לֹ֣א יָדָ֑ע כִּ֤י שָֽׁמְרוּ֙ אִמְרָתֶ֔/ךָ וּ/בְרִֽיתְ/ךָ֖ יִנְצֹֽרוּ ׃",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>בנ/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"1121 a\" n=\"1.0\" morph=\"HNcmpc/Sp3ms\" id=\"05HDg\">בָּנָ֖י/ו</w></rdg></note>\n          "
+      ],
+      "matches": [
+        {
+          "hebrew": "וּ/בְרִֽיתְ/ךָ֖",
+          "lemma": "c/1285",
+          "morph": "HC/Ncfsc/Sp2ms",
+          "domain": "covenant"
+        }
+      ],
+      "fluent": "He said of his father and mother, ‘I do not regard them.’ He did not acknowledge his brothers or recognize his own sons. For they kept your word and guarded your covenant."
+    },
+    {
+      "reference": "Deuteronomy 33:10",
+      "source_reference": "Deut 33:10",
+      "source_verse_sha256": "035bbc6ee34c42f2bb39112f1919e8d15bcb1a4f7985af16ed639544c45b70ab",
+      "hebrew": "יוֹר֤וּ מִשְׁפָּטֶ֨י/ךָ֙ לְ/יַעֲקֹ֔ב וְ/תוֹרָתְ/ךָ֖ לְ/יִשְׂרָאֵ֑ל יָשִׂ֤ימוּ קְטוֹרָה֙ בְּ/אַפֶּ֔/ךָ וְ/כָלִ֖יל עַֽל ־ מִזְבְּחֶֽ/ךָ ׃",
+      "annotations": [],
+      "matches": [
+        {
+          "hebrew": "וְ/תוֹרָתְ/ךָ֖",
+          "lemma": "c/8451",
+          "morph": "HC/Ncfsc/Sp2ms",
+          "domain": "instruction"
+        }
+      ],
+      "fluent": "They will teach your judgments to Jacob and your instruction to Israel. They will place incense before your nostrils and whole offerings on your altar."
+    }
+  ]
+}

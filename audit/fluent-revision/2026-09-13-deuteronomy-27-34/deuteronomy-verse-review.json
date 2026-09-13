@@ -37,7 +37,7 @@
       "verse_count": 26,
       "path": "translations/fluent/OT/deuteronomy/Deuteronomy_27.md",
       "before_sha256": "0b69fc5474edde333e7e787c4a2049218ef1150bbaafa8d18071ac5d8a776068",
-      "after_sha256": "1a1ecd9a5b002087bed6aae38f58d83e85f8f7195e4482b43a71bd10346b5e6e",
+      "after_sha256": "f5565076710b5a1267c4630347e95598be780ee77400b6ff060da1c655f2d623",
       "tsw_comparator_path": "books/OT/deuteronomy/Deuteronomy_27.md",
       "tsw_comparator_sha256": "854c960cb90cd23e7758f20c79f2cf9413bb66b5ed0c963b8a95d420bc5ff375"
     },
@@ -82,7 +82,7 @@
       "verse_count": 52,
       "path": "translations/fluent/OT/deuteronomy/Deuteronomy_32.md",
       "before_sha256": "6f03d8f50f4a55f666ba13e92173b5531b735f211996aa7ff2f95fa9d2622276",
-      "after_sha256": "3b8b4b72a4a218f9fc6c25543eeab36562ff4341568e4890971a617d1955fd05",
+      "after_sha256": "1c58c35535da0c5c6bfda9c85c3b85ba33b0c98b54e297438d6796a06004982c",
       "tsw_comparator_path": "books/OT/deuteronomy/Deuteronomy_32.md",
       "tsw_comparator_sha256": "31a64775231954c30c9d0f06ecbb01e01137b55c53f82c615b1ad791056c1f30"
     },
@@ -100,7 +100,7 @@
       "verse_count": 12,
       "path": "translations/fluent/OT/deuteronomy/Deuteronomy_34.md",
       "before_sha256": "b93f92ca5f4cd2941d8a7016bf3282262e4a3f5226aac0798f6a1a0f7aad55cf",
-      "after_sha256": "48bd323f807ef0cc38d56b26d5f9511b5671def1379ff42a9b3cf0d8781bfd83",
+      "after_sha256": "8696c0d95ea591019609867f54d80af876444f9a9e729cba7271027c39bdddef",
       "tsw_comparator_path": "books/OT/deuteronomy/Deuteronomy_34.md",
       "tsw_comparator_sha256": "d86c8ad179975a0a7fd544b1be358859b02871c47587d77c7f3742be1bca0bc9"
     }
@@ -356,15 +356,26 @@
     {
       "reference": "Deuteronomy 27:20",
       "delta": "F3",
-      "rationale": "States the sexual act plainly while retaining the covering image for explanation in a note.",
+      "rationale": "States the sexual act plainly while retaining the covering image for explanation in a note. Consistency refinement: Uses garment for the same uncovering-the-father’s-kanaph expression already retained in public 22:30. This makes the recurring sexual-marital image recognizable without removing it or changing the prohibited relationship.",
       "source_reference": "Deut 27:20",
       "source_verse_sha256": "9fc328067b09721da2ac6783594cff45c30c78d48e21fbee1c8fac03731a3b95",
       "before": "‘Cursed is the one who lies with his father’s wife, because he has uncovered his father’s skirt.’ And all the people will say, ‘Amen.’",
-      "after": "‘Cursed is anyone who has sex with his father’s wife, for he has uncovered his father’s covering.’ All the people are to say, ‘Amen!’",
+      "after": "‘Cursed is anyone who has sex with his father’s wife, for he has uncovered his father’s garment.’ All the people are to say, ‘Amen!’",
       "tsw_comparator": "‘Cursed is the one who lies with his father’s wife, because he has uncovered his father’s skirt.’ And all the people shall say, ‘Amen.’",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.708333,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-deuteronomy-consistency-2026-09-13",
+          "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+          "prior_after": "‘Cursed is anyone who has sex with his father’s wife, for he has uncovered his father’s covering.’ All the people are to say, ‘Amen!’",
+          "prior_delta": "F3",
+          "prior_rationale": "States the sexual act plainly while retaining the covering image for explanation in a note.",
+          "refinement_delta": "F1",
+          "rationale": "Uses garment for the same uncovering-the-father’s-kanaph expression already retained in public 22:30. This makes the recurring sexual-marital image recognizable without removing it or changing the prohibited relationship."
+        }
+      ]
     },
     {
       "reference": "Deuteronomy 27:21",
@@ -2514,15 +2525,26 @@
     {
       "reference": "Deuteronomy 32:13",
       "delta": "F3",
-      "rationale": "Follows the recorded read form for heights and preserves the striking suckling-from-rock images.",
+      "rationale": "Follows the recorded read form for heights and preserves the striking suckling-from-rock images. Consistency refinement: Separates the Hebrew causative made-him-ride from the following finite he-ate clause. Naming the LORD and Jacob, already identified in 32:9–12, makes the two agents audible while preserving the rock/honey/oil images and poetic lineation.",
       "source_reference": "Deut 32:13",
       "source_verse_sha256": "73dc3d792caa374ee67c69be7f525a10879b7e949b954862c748118d7ae94d55",
       "before": "He made him ride upon the heights of the land, and he ate the produce of the field. He made him suck honey from the rock and oil from the flinty rock,",
-      "after": "He made him ride the heights of the earth and eat the produce of the fields. He let him suck honey from rock and oil from flinty stone.",
+      "after": "The LORD made Jacob ride the heights of the earth, and Jacob ate the produce of the fields. The LORD let him suck honey from rock and oil from flinty stone.",
       "tsw_comparator": "He made him ride upon the heights of the land, and he ate the produce of the field. He made him suck honey from the rock and oil from the flinty rock,",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.766667,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-deuteronomy-consistency-2026-09-13",
+          "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+          "prior_after": "He made him ride the heights of the earth and eat the produce of the fields. He let him suck honey from rock and oil from flinty stone.",
+          "prior_delta": "F3",
+          "prior_rationale": "Follows the recorded read form for heights and preserves the striking suckling-from-rock images.",
+          "refinement_delta": "F2",
+          "rationale": "Separates the Hebrew causative made-him-ride from the following finite he-ate clause. Naming the LORD and Jacob, already identified in 32:9–12, makes the two agents audible while preserving the rock/honey/oil images and poetic lineation."
+        }
+      ]
     },
     {
       "reference": "Deuteronomy 32:14",
@@ -3528,41 +3550,74 @@
     {
       "reference": "Deuteronomy 34:10",
       "delta": "F3",
-      "rationale": "Preserves the direction of knowing from the LORD toward Moses and continues the comparison into the final verses.",
+      "rationale": "Preserves the direction of knowing from the LORD toward Moses and continues the comparison into the final verses. Consistency refinement: Keeps the narrator’s retrospective since and the LORD as the one who knew Moses. Ends a complete sentence before restating the comparison, so the relative clause cannot seem to modify Israel.",
       "source_reference": "Deut 34:10",
       "source_verse_sha256": "db68f160c94a80d0e341c032c1e439f8852752a45fb6594f2cfc6c81598007f4",
       "before": "And there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face,",
-      "after": "Never again has a prophet like Moses arisen in Israel, whom the LORD knew face to face,",
+      "after": "Since then, no prophet has arisen in Israel like Moses, whom the LORD knew face to face.",
       "tsw_comparator": "And there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face,",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.666667,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-deuteronomy-consistency-2026-09-13",
+          "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+          "prior_after": "Never again has a prophet like Moses arisen in Israel, whom the LORD knew face to face,",
+          "prior_delta": "F3",
+          "prior_rationale": "Preserves the direction of knowing from the LORD toward Moses and continues the comparison into the final verses.",
+          "refinement_delta": "F2",
+          "rationale": "Keeps the narrator’s retrospective since and the LORD as the one who knew Moses. Ends a complete sentence before restating the comparison, so the relative clause cannot seem to modify Israel."
+        }
+      ]
     },
     {
       "reference": "Deuteronomy 34:11",
       "delta": "F2",
-      "rationale": "Retains the comprehensive Egyptian recipients and Moses’ commissioned signs within the closing comparison.",
+      "rationale": "Retains the comprehensive Egyptian recipients and Moses’ commissioned signs within the closing comparison. Consistency refinement: Restates the implicit comparison with a prophet like Moses as an English main clause. Preserves every recipient and the LORD’s commissioning, continuing the final comparison into verse 12.",
       "source_reference": "Deut 34:11",
       "source_verse_sha256": "45cc0e5781b0f458b72b9910d6577875db4b1f70fa0192fd0f1445cbcd1f73fb",
       "before": "none like him for all the signs and the wonders that the LORD sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land,",
-      "after": "with all the signs and wonders the LORD sent him to perform in the land of Egypt against Pharaoh, all his servants, and all his land,",
+      "after": "No prophet has matched him in all the signs and wonders the LORD sent him to perform in the land of Egypt against Pharaoh, all his servants, and all his land,",
       "tsw_comparator": "none like him for all the signs and the wonders that the LORD sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land,",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.766667,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.738462,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-deuteronomy-consistency-2026-09-13",
+          "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+          "prior_after": "with all the signs and wonders the LORD sent him to perform in the land of Egypt against Pharaoh, all his servants, and all his land,",
+          "prior_delta": "F2",
+          "prior_rationale": "Retains the comprehensive Egyptian recipients and Moses’ commissioned signs within the closing comparison.",
+          "refinement_delta": "F2",
+          "rationale": "Restates the implicit comparison with a prophet like Moses as an English main clause. Preserves every recipient and the LORD’s commissioning, continuing the final comparison into verse 12."
+        }
+      ]
     },
     {
       "reference": "Deuteronomy 34:12",
       "delta": "F2",
-      "rationale": "Keeps mighty hand and great terror as the book’s final images and all Israel as their witnesses.",
+      "rationale": "Keeps mighty hand and great terror as the book’s final images and all Israel as their witnesses. Consistency refinement: Completes the comparison begun in verse 11 and removes the awkward all-the-mighty-hand construction. The hand image, great terror, named Moses, and all-Israel witnesses remain intact.",
       "source_reference": "Deut 34:12",
       "source_verse_sha256": "126799c6351279cd5686a4a66d44d3e0b4c7078bb06d692dfe79870bc1f2be6c",
       "before": "and for all the mighty hand and all the great fear that Moses did in the sight of all Israel.",
-      "after": "and with all the mighty hand and all the great terror Moses displayed before the eyes of all Israel.",
+      "after": "or in the mighty hand and all the great terror Moses displayed before the eyes of all Israel.",
       "tsw_comparator": "and for all the mighty hand and all the great fear that Moses did in the sight of all Israel.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.717949,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.631579,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-deuteronomy-consistency-2026-09-13",
+          "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+          "prior_after": "and with all the mighty hand and all the great terror Moses displayed before the eyes of all Israel.",
+          "prior_delta": "F2",
+          "prior_rationale": "Keeps mighty hand and great terror as the book’s final images and all Israel as their witnesses.",
+          "refinement_delta": "F2",
+          "rationale": "Completes the comparison begun in verse 11 and removes the awkward all-the-mighty-hand construction. The hand image, great terror, named Moses, and all-Israel witnesses remain intact."
+        }
+      ]
     }
   ],
   "comparative_references": [
@@ -3594,5 +3649,19 @@
       "F3": 72,
       "F0": 7
     }
-  }
+  },
+  "consistency_revisions": [
+    {
+      "id": "fluent-deuteronomy-consistency-2026-09-13",
+      "prior_commit": "6b5a732173ce09788c58c715ae039e01eba7fea2",
+      "report": "audit/fluent-revision/2026-09-13-deuteronomy-consistency/review.json",
+      "changed_references": [
+        "Deuteronomy 27:20",
+        "Deuteronomy 32:13",
+        "Deuteronomy 34:10",
+        "Deuteronomy 34:11",
+        "Deuteronomy 34:12"
+      ]
+    }
+  ]
 }

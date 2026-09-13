@@ -7,7 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision: fluent-deuteronomy-27-34-biblical-fluency-2026-09-13
+revision: fluent-deuteronomy-consistency-2026-09-13
 ---
 
 ## Stones bearing the instruction
@@ -48,7 +48,7 @@ v19: ‘Cursed is anyone who denies justice to a resident foreigner, a fatherles
 </p>
 
 <p>
-v20: ‘Cursed is anyone who has sex with his father’s wife, for he has uncovered his father’s covering.’ All the people are to say, ‘Amen!’
+v20: ‘Cursed is anyone who has sex with his father’s wife, for he has uncovered his father’s garment.’ All the people are to say, ‘Amen!’
 v21: ‘Cursed is anyone who has sex with any animal.’ All the people are to say, ‘Amen!’
 v22: ‘Cursed is anyone who has sex with his sister, whether his father’s daughter or his mother’s daughter.’ All the people are to say, ‘Amen!’
 v23: ‘Cursed is anyone who has sex with his mother-in-law.’ All the people are to say, ‘Amen!’
@@ -66,7 +66,7 @@ v4: The pinned Hebrew names Mount Ebal. The altar, inscription, and spoken respo
 
 v15–26: Each curse receives its own “Amen.” The repetition presents the people as answering every declaration, including wrongs committed in secret.
 
-v20: “His father’s covering” uses the Hebrew word for a wing or garment edge. Here the sexual act violates the father’s marriage; compare 22:30.
+v20: “His father’s garment” uses the Hebrew word for a wing or garment edge. Here the sexual act violates the father’s marriage; compare 22:30.
 
 ## Vocabulary
 
