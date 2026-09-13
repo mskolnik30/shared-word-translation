@@ -1,0 +1,1840 @@
+{
+  "scope": "Numbers 19–24; 182 verses",
+  "method": "Case-folded word tokens and SequenceMatcher; near-identical is nonidentical >=0.90. Triage only; not fidelity or originality evidence.",
+  "stages": {
+    "before": {
+      "identical_verses": 132,
+      "near_identical_verses": 46,
+      "mean_similarity": 0.983796,
+      "verses": [
+        {
+          "reference": "Numbers 19:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 19:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 19:3",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Numbers 19:4",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Numbers 19:5",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Numbers 19:6",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Numbers 19:7",
+          "identical": false,
+          "similarity": 0.925926
+        },
+        {
+          "reference": "Numbers 19:8",
+          "identical": false,
+          "similarity": 0.913043
+        },
+        {
+          "reference": "Numbers 19:9",
+          "identical": false,
+          "similarity": 0.953488
+        },
+        {
+          "reference": "Numbers 19:10",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Numbers 19:11",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Numbers 19:12",
+          "identical": false,
+          "similarity": 0.931818
+        },
+        {
+          "reference": "Numbers 19:13",
+          "identical": false,
+          "similarity": 0.980392
+        },
+        {
+          "reference": "Numbers 19:14",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Numbers 19:15",
+          "identical": false,
+          "similarity": 0.923077
+        },
+        {
+          "reference": "Numbers 19:16",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Numbers 19:17",
+          "identical": false,
+          "similarity": 0.962963
+        },
+        {
+          "reference": "Numbers 19:18",
+          "identical": false,
+          "similarity": 0.97561
+        },
+        {
+          "reference": "Numbers 19:19",
+          "identical": false,
+          "similarity": 0.925
+        },
+        {
+          "reference": "Numbers 19:20",
+          "identical": false,
+          "similarity": 0.977778
+        },
+        {
+          "reference": "Numbers 19:21",
+          "identical": false,
+          "similarity": 0.90625
+        },
+        {
+          "reference": "Numbers 19:22",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Numbers 20:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:8",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Numbers 20:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:10",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Numbers 20:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:12",
+          "identical": false,
+          "similarity": 0.975
+        },
+        {
+          "reference": "Numbers 20:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:18",
+          "identical": false,
+          "similarity": 0.904762
+        },
+        {
+          "reference": "Numbers 20:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:20",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Numbers 20:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:24",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Numbers 20:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:26",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Numbers 20:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:8",
+          "identical": false,
+          "similarity": 0.941176
+        },
+        {
+          "reference": "Numbers 21:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:14",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Numbers 21:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:23",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Numbers 21:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:27",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Numbers 21:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 21:34",
+          "identical": false,
+          "similarity": 0.97619
+        },
+        {
+          "reference": "Numbers 21:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:9",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:12",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Numbers 22:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:18",
+          "identical": false,
+          "similarity": 0.974359
+        },
+        {
+          "reference": "Numbers 22:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:20",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Numbers 22:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:22",
+          "identical": false,
+          "similarity": 0.971429
+        },
+        {
+          "reference": "Numbers 22:23",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:26",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:31",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:32",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:33",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:34",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:35",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:36",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:37",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:38",
+          "identical": false,
+          "similarity": 0.96875
+        },
+        {
+          "reference": "Numbers 22:39",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:40",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:41",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:5",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Numbers 23:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:7",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:8",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:9",
+          "identical": false,
+          "similarity": 0.964286
+        },
+        {
+          "reference": "Numbers 23:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:16",
+          "identical": false,
+          "similarity": 0.95
+        },
+        {
+          "reference": "Numbers 23:17",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:19",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:22",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:23",
+          "identical": false,
+          "similarity": 0.96
+        },
+        {
+          "reference": "Numbers 23:24",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:25",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:26",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Numbers 23:27",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:29",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 23:30",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:1",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:2",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:3",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:5",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:6",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:7",
+          "identical": false,
+          "similarity": 0.92
+        },
+        {
+          "reference": "Numbers 24:8",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Numbers 24:9",
+          "identical": false,
+          "similarity": 0.931034
+        },
+        {
+          "reference": "Numbers 24:10",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:11",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:12",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:13",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:14",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:15",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:16",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:17",
+          "identical": false,
+          "similarity": 0.973684
+        },
+        {
+          "reference": "Numbers 24:18",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:19",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Numbers 24:20",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:21",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 24:22",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 24:23",
+          "identical": false,
+          "similarity": 0.9375
+        },
+        {
+          "reference": "Numbers 24:24",
+          "identical": false,
+          "similarity": 0.954545
+        },
+        {
+          "reference": "Numbers 24:25",
+          "identical": true,
+          "similarity": 1.0
+        }
+      ]
+    },
+    "after": {
+      "identical_verses": 3,
+      "near_identical_verses": 17,
+      "mean_similarity": 0.735682,
+      "verses": [
+        {
+          "reference": "Numbers 19:1",
+          "identical": false,
+          "similarity": 0.625
+        },
+        {
+          "reference": "Numbers 19:2",
+          "identical": false,
+          "similarity": 0.542857
+        },
+        {
+          "reference": "Numbers 19:3",
+          "identical": false,
+          "similarity": 0.615385
+        },
+        {
+          "reference": "Numbers 19:4",
+          "identical": false,
+          "similarity": 0.716981
+        },
+        {
+          "reference": "Numbers 19:5",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 19:6",
+          "identical": false,
+          "similarity": 0.702703
+        },
+        {
+          "reference": "Numbers 19:7",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Numbers 19:8",
+          "identical": false,
+          "similarity": 0.680851
+        },
+        {
+          "reference": "Numbers 19:9",
+          "identical": false,
+          "similarity": 0.592593
+        },
+        {
+          "reference": "Numbers 19:10",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Numbers 19:11",
+          "identical": false,
+          "similarity": 0.4
+        },
+        {
+          "reference": "Numbers 19:12",
+          "identical": false,
+          "similarity": 0.650602
+        },
+        {
+          "reference": "Numbers 19:13",
+          "identical": false,
+          "similarity": 0.715789
+        },
+        {
+          "reference": "Numbers 19:14",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Numbers 19:15",
+          "identical": false,
+          "similarity": 0.56
+        },
+        {
+          "reference": "Numbers 19:16",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Numbers 19:17",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 19:18",
+          "identical": false,
+          "similarity": 0.626506
+        },
+        {
+          "reference": "Numbers 19:19",
+          "identical": false,
+          "similarity": 0.74359
+        },
+        {
+          "reference": "Numbers 19:20",
+          "identical": false,
+          "similarity": 0.675
+        },
+        {
+          "reference": "Numbers 19:21",
+          "identical": false,
+          "similarity": 0.571429
+        },
+        {
+          "reference": "Numbers 19:22",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Numbers 20:1",
+          "identical": false,
+          "similarity": 0.555556
+        },
+        {
+          "reference": "Numbers 20:2",
+          "identical": false,
+          "similarity": 0.896552
+        },
+        {
+          "reference": "Numbers 20:3",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 20:4",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 20:5",
+          "identical": false,
+          "similarity": 0.644068
+        },
+        {
+          "reference": "Numbers 20:6",
+          "identical": false,
+          "similarity": 0.655172
+        },
+        {
+          "reference": "Numbers 20:7",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Numbers 20:8",
+          "identical": false,
+          "similarity": 0.813953
+        },
+        {
+          "reference": "Numbers 20:9",
+          "identical": false,
+          "similarity": 0.814815
+        },
+        {
+          "reference": "Numbers 20:10",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 20:11",
+          "identical": false,
+          "similarity": 0.869565
+        },
+        {
+          "reference": "Numbers 20:12",
+          "identical": false,
+          "similarity": 0.675676
+        },
+        {
+          "reference": "Numbers 20:13",
+          "identical": false,
+          "similarity": 0.85
+        },
+        {
+          "reference": "Numbers 20:14",
+          "identical": false,
+          "similarity": 0.734694
+        },
+        {
+          "reference": "Numbers 20:15",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Numbers 20:16",
+          "identical": false,
+          "similarity": 0.716418
+        },
+        {
+          "reference": "Numbers 20:17",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 20:18",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Numbers 20:19",
+          "identical": false,
+          "similarity": 0.636364
+        },
+        {
+          "reference": "Numbers 20:20",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 20:21",
+          "identical": false,
+          "similarity": 0.551724
+        },
+        {
+          "reference": "Numbers 20:22",
+          "identical": false,
+          "similarity": 0.769231
+        },
+        {
+          "reference": "Numbers 20:23",
+          "identical": false,
+          "similarity": 0.470588
+        },
+        {
+          "reference": "Numbers 20:24",
+          "identical": false,
+          "similarity": 0.870968
+        },
+        {
+          "reference": "Numbers 20:25",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Numbers 20:26",
+          "identical": false,
+          "similarity": 0.65
+        },
+        {
+          "reference": "Numbers 20:27",
+          "identical": false,
+          "similarity": 0.944444
+        },
+        {
+          "reference": "Numbers 20:28",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Numbers 20:29",
+          "identical": false,
+          "similarity": 0.871795
+        },
+        {
+          "reference": "Numbers 21:1",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Numbers 21:2",
+          "identical": false,
+          "similarity": 0.68
+        },
+        {
+          "reference": "Numbers 21:3",
+          "identical": false,
+          "similarity": 0.678571
+        },
+        {
+          "reference": "Numbers 21:4",
+          "identical": false,
+          "similarity": 0.610169
+        },
+        {
+          "reference": "Numbers 21:5",
+          "identical": false,
+          "similarity": 0.694444
+        },
+        {
+          "reference": "Numbers 21:6",
+          "identical": false,
+          "similarity": 0.702703
+        },
+        {
+          "reference": "Numbers 21:7",
+          "identical": false,
+          "similarity": 0.756757
+        },
+        {
+          "reference": "Numbers 21:8",
+          "identical": false,
+          "similarity": 0.576271
+        },
+        {
+          "reference": "Numbers 21:9",
+          "identical": false,
+          "similarity": 0.603774
+        },
+        {
+          "reference": "Numbers 21:10",
+          "identical": false,
+          "similarity": 0.555556
+        },
+        {
+          "reference": "Numbers 21:11",
+          "identical": false,
+          "similarity": 0.594595
+        },
+        {
+          "reference": "Numbers 21:12",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 21:13",
+          "identical": false,
+          "similarity": 0.655738
+        },
+        {
+          "reference": "Numbers 21:14",
+          "identical": false,
+          "similarity": 0.790698
+        },
+        {
+          "reference": "Numbers 21:15",
+          "identical": false,
+          "similarity": 0.578947
+        },
+        {
+          "reference": "Numbers 21:16",
+          "identical": false,
+          "similarity": 0.816327
+        },
+        {
+          "reference": "Numbers 21:17",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Numbers 21:18",
+          "identical": false,
+          "similarity": 0.588235
+        },
+        {
+          "reference": "Numbers 21:19",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Numbers 21:20",
+          "identical": false,
+          "similarity": 0.526316
+        },
+        {
+          "reference": "Numbers 21:21",
+          "identical": false,
+          "similarity": 0.947368
+        },
+        {
+          "reference": "Numbers 21:22",
+          "identical": false,
+          "similarity": 0.705882
+        },
+        {
+          "reference": "Numbers 21:23",
+          "identical": false,
+          "similarity": 0.644068
+        },
+        {
+          "reference": "Numbers 21:24",
+          "identical": false,
+          "similarity": 0.6875
+        },
+        {
+          "reference": "Numbers 21:25",
+          "identical": false,
+          "similarity": 0.55
+        },
+        {
+          "reference": "Numbers 21:26",
+          "identical": false,
+          "similarity": 0.825397
+        },
+        {
+          "reference": "Numbers 21:27",
+          "identical": false,
+          "similarity": 0.555556
+        },
+        {
+          "reference": "Numbers 21:28",
+          "identical": false,
+          "similarity": 0.791667
+        },
+        {
+          "reference": "Numbers 21:29",
+          "identical": false,
+          "similarity": 0.792453
+        },
+        {
+          "reference": "Numbers 21:30",
+          "identical": false,
+          "similarity": 0.976744
+        },
+        {
+          "reference": "Numbers 21:31",
+          "identical": false,
+          "similarity": 0.4
+        },
+        {
+          "reference": "Numbers 21:32",
+          "identical": false,
+          "similarity": 0.702703
+        },
+        {
+          "reference": "Numbers 21:33",
+          "identical": false,
+          "similarity": 0.716981
+        },
+        {
+          "reference": "Numbers 21:34",
+          "identical": false,
+          "similarity": 0.9
+        },
+        {
+          "reference": "Numbers 21:35",
+          "identical": false,
+          "similarity": 0.604651
+        },
+        {
+          "reference": "Numbers 22:1",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Numbers 22:2",
+          "identical": false,
+          "similarity": 0.88
+        },
+        {
+          "reference": "Numbers 22:3",
+          "identical": false,
+          "similarity": 0.55
+        },
+        {
+          "reference": "Numbers 22:4",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Numbers 22:5",
+          "identical": false,
+          "similarity": 0.786517
+        },
+        {
+          "reference": "Numbers 22:6",
+          "identical": false,
+          "similarity": 0.772727
+        },
+        {
+          "reference": "Numbers 22:7",
+          "identical": false,
+          "similarity": 0.692308
+        },
+        {
+          "reference": "Numbers 22:8",
+          "identical": false,
+          "similarity": 0.654545
+        },
+        {
+          "reference": "Numbers 22:9",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Numbers 22:10",
+          "identical": false,
+          "similarity": 0.733333
+        },
+        {
+          "reference": "Numbers 22:11",
+          "identical": false,
+          "similarity": 0.634921
+        },
+        {
+          "reference": "Numbers 22:12",
+          "identical": false,
+          "similarity": 0.789474
+        },
+        {
+          "reference": "Numbers 22:13",
+          "identical": false,
+          "similarity": 0.745098
+        },
+        {
+          "reference": "Numbers 22:14",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 22:15",
+          "identical": false,
+          "similarity": 0.72
+        },
+        {
+          "reference": "Numbers 22:16",
+          "identical": false,
+          "similarity": 0.826087
+        },
+        {
+          "reference": "Numbers 22:17",
+          "identical": false,
+          "similarity": 0.681818
+        },
+        {
+          "reference": "Numbers 22:18",
+          "identical": false,
+          "similarity": 0.805556
+        },
+        {
+          "reference": "Numbers 22:19",
+          "identical": false,
+          "similarity": 0.684211
+        },
+        {
+          "reference": "Numbers 22:20",
+          "identical": false,
+          "similarity": 0.59375
+        },
+        {
+          "reference": "Numbers 22:21",
+          "identical": false,
+          "similarity": 0.709677
+        },
+        {
+          "reference": "Numbers 22:22",
+          "identical": false,
+          "similarity": 0.608696
+        },
+        {
+          "reference": "Numbers 22:23",
+          "identical": false,
+          "similarity": 0.775
+        },
+        {
+          "reference": "Numbers 22:24",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 22:25",
+          "identical": false,
+          "similarity": 0.857143
+        },
+        {
+          "reference": "Numbers 22:26",
+          "identical": false,
+          "similarity": 0.679245
+        },
+        {
+          "reference": "Numbers 22:27",
+          "identical": false,
+          "similarity": 0.791667
+        },
+        {
+          "reference": "Numbers 22:28",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:29",
+          "identical": false,
+          "similarity": 0.807692
+        },
+        {
+          "reference": "Numbers 22:30",
+          "identical": false,
+          "similarity": 0.646154
+        },
+        {
+          "reference": "Numbers 22:31",
+          "identical": false,
+          "similarity": 0.83871
+        },
+        {
+          "reference": "Numbers 22:32",
+          "identical": false,
+          "similarity": 0.903226
+        },
+        {
+          "reference": "Numbers 22:33",
+          "identical": false,
+          "similarity": 0.8125
+        },
+        {
+          "reference": "Numbers 22:34",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Numbers 22:35",
+          "identical": false,
+          "similarity": 0.814815
+        },
+        {
+          "reference": "Numbers 22:36",
+          "identical": false,
+          "similarity": 0.745763
+        },
+        {
+          "reference": "Numbers 22:37",
+          "identical": false,
+          "similarity": 0.846154
+        },
+        {
+          "reference": "Numbers 22:38",
+          "identical": false,
+          "similarity": 0.62069
+        },
+        {
+          "reference": "Numbers 22:39",
+          "identical": true,
+          "similarity": 1.0
+        },
+        {
+          "reference": "Numbers 22:40",
+          "identical": false,
+          "similarity": 0.848485
+        },
+        {
+          "reference": "Numbers 22:41",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 23:1",
+          "identical": false,
+          "similarity": 0.918919
+        },
+        {
+          "reference": "Numbers 23:2",
+          "identical": false,
+          "similarity": 0.888889
+        },
+        {
+          "reference": "Numbers 23:3",
+          "identical": false,
+          "similarity": 0.794118
+        },
+        {
+          "reference": "Numbers 23:4",
+          "identical": false,
+          "similarity": 0.875
+        },
+        {
+          "reference": "Numbers 23:5",
+          "identical": false,
+          "similarity": 0.882353
+        },
+        {
+          "reference": "Numbers 23:6",
+          "identical": false,
+          "similarity": 0.555556
+        },
+        {
+          "reference": "Numbers 23:7",
+          "identical": false,
+          "similarity": 0.827586
+        },
+        {
+          "reference": "Numbers 23:8",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Numbers 23:9",
+          "identical": false,
+          "similarity": 0.740741
+        },
+        {
+          "reference": "Numbers 23:10",
+          "identical": false,
+          "similarity": 0.965517
+        },
+        {
+          "reference": "Numbers 23:11",
+          "identical": false,
+          "similarity": 0.980392
+        },
+        {
+          "reference": "Numbers 23:12",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Numbers 23:13",
+          "identical": false,
+          "similarity": 0.84507
+        },
+        {
+          "reference": "Numbers 23:14",
+          "identical": false,
+          "similarity": 0.836364
+        },
+        {
+          "reference": "Numbers 23:15",
+          "identical": false,
+          "similarity": 0.764706
+        },
+        {
+          "reference": "Numbers 23:16",
+          "identical": false,
+          "similarity": 0.894737
+        },
+        {
+          "reference": "Numbers 23:17",
+          "identical": false,
+          "similarity": 0.5
+        },
+        {
+          "reference": "Numbers 23:18",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Numbers 23:19",
+          "identical": false,
+          "similarity": 0.363636
+        },
+        {
+          "reference": "Numbers 23:20",
+          "identical": false,
+          "similarity": 0.866667
+        },
+        {
+          "reference": "Numbers 23:21",
+          "identical": false,
+          "similarity": 0.627451
+        },
+        {
+          "reference": "Numbers 23:22",
+          "identical": false,
+          "similarity": 0.733333
+        },
+        {
+          "reference": "Numbers 23:23",
+          "identical": false,
+          "similarity": 0.791667
+        },
+        {
+          "reference": "Numbers 23:24",
+          "identical": false,
+          "similarity": 0.881356
+        },
+        {
+          "reference": "Numbers 23:25",
+          "identical": false,
+          "similarity": 0.727273
+        },
+        {
+          "reference": "Numbers 23:26",
+          "identical": false,
+          "similarity": 0.564103
+        },
+        {
+          "reference": "Numbers 23:27",
+          "identical": false,
+          "similarity": 0.596491
+        },
+        {
+          "reference": "Numbers 23:28",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Numbers 23:29",
+          "identical": false,
+          "similarity": 0.918919
+        },
+        {
+          "reference": "Numbers 23:30",
+          "identical": false,
+          "similarity": 0.967742
+        },
+        {
+          "reference": "Numbers 24:1",
+          "identical": false,
+          "similarity": 0.548387
+        },
+        {
+          "reference": "Numbers 24:2",
+          "identical": false,
+          "similarity": 0.777778
+        },
+        {
+          "reference": "Numbers 24:3",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Numbers 24:4",
+          "identical": false,
+          "similarity": 0.829268
+        },
+        {
+          "reference": "Numbers 24:5",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 24:6",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Numbers 24:7",
+          "identical": false,
+          "similarity": 0.470588
+        },
+        {
+          "reference": "Numbers 24:8",
+          "identical": false,
+          "similarity": 0.557377
+        },
+        {
+          "reference": "Numbers 24:9",
+          "identical": false,
+          "similarity": 0.77193
+        },
+        {
+          "reference": "Numbers 24:10",
+          "identical": false,
+          "similarity": 0.761905
+        },
+        {
+          "reference": "Numbers 24:11",
+          "identical": false,
+          "similarity": 0.651163
+        },
+        {
+          "reference": "Numbers 24:12",
+          "identical": false,
+          "similarity": 0.6
+        },
+        {
+          "reference": "Numbers 24:13",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 24:14",
+          "identical": false,
+          "similarity": 0.823529
+        },
+        {
+          "reference": "Numbers 24:15",
+          "identical": false,
+          "similarity": 0.956522
+        },
+        {
+          "reference": "Numbers 24:16",
+          "identical": false,
+          "similarity": 0.842105
+        },
+        {
+          "reference": "Numbers 24:17",
+          "identical": false,
+          "similarity": 0.631579
+        },
+        {
+          "reference": "Numbers 24:18",
+          "identical": false,
+          "similarity": 0.666667
+        },
+        {
+          "reference": "Numbers 24:19",
+          "identical": false,
+          "similarity": 0.916667
+        },
+        {
+          "reference": "Numbers 24:20",
+          "identical": false,
+          "similarity": 0.714286
+        },
+        {
+          "reference": "Numbers 24:21",
+          "identical": false,
+          "similarity": 0.8
+        },
+        {
+          "reference": "Numbers 24:22",
+          "identical": false,
+          "similarity": 0.75
+        },
+        {
+          "reference": "Numbers 24:23",
+          "identical": false,
+          "similarity": 0.774194
+        },
+        {
+          "reference": "Numbers 24:24",
+          "identical": false,
+          "similarity": 0.697674
+        },
+        {
+          "reference": "Numbers 24:25",
+          "identical": false,
+          "similarity": 0.727273
+        }
+      ]
+    }
+  }
+}

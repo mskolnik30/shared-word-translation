@@ -4,113 +4,163 @@ testament: OT
 chapter: 22
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-19-24-biblical-fluency-2026-09-13
 ---
 
-## Balak Sends for Balaam
+## Balak sends for Balaam
 
 <p>
-v01: The Israelites set out and camped in the plains of Moab beyond the Jordan from Jericho.
-v02: Balak son of Zippor saw all that Israel had done to the Amorites.
-v03: Moab was greatly afraid of the people because they were so numerous, and Moab was sick with dread because of the Israelites.
-v04: So Moab said to the elders of Midian, “Now this multitude will lick up everything around us, as an ox licks up the grass of the field.” Now Balak son of Zippor was king of Moab at that time.
+v01: The Israelites set out and camped on the plains of Moab, across the Jordan from Jericho.
+v02: Balak son of Zippor saw everything Israel had done to the Amorites.
+v03: Moab was terrified of the people because there were so many of them. The Moabites dreaded the Israelites.
 </p>
 
 <p>
-v05: He sent messengers to Balaam son of Beor at Pethor, which is by the River, in the land of his people, to call him, saying, “Look, a people has come out of Egypt. Look, they cover the face of the land, and they are settling opposite me.
-v06: Now please come and curse this people for me, because they are stronger than I am. Perhaps I may be able to strike them and drive them out of the land, for I know that whoever you bless is blessed, and whoever you curse is cursed.”
-v07: So the elders of Moab and the elders of Midian went with the fees for divination in their hands. They came to Balaam and spoke Balak’s words to him.
-v08: He said to them, “Spend the night here, and I will bring back to you whatever word the LORD speaks to me.” So the leaders of Moab stayed with Balaam.
+v04: Moab said to the elders of Midian, “Now this assembly will lick up everything around us, as an ox licks up the grass in a field.” Balak son of Zippor was king of Moab at that time.
+v05: He sent messengers to summon Balaam son of Beor at Pethor, by the River, in the land of his people. His message was: “A people has come out of Egypt. They cover the face of the earth and have settled opposite me.
+v06: Please come and curse this people for me. They are stronger than I am. Perhaps we can strike them and I can drive them out of the land. I know that those you bless are blessed, and those you curse are cursed.”
 </p>
 
 <p>
-v09: God came to Balaam and said, “Who are these men with you?”
-v10: Balaam said to God, “Balak son of Zippor, king of Moab, has sent to me, saying,
-v11: ‘Look, the people who came out of Egypt cover the face of the land. Now come, curse them for me. Perhaps I may be able to fight against them and drive them out.’”
-v12: God said to Balaam, “You will not go with them. You will not curse the people, for they are blessed.”
-v13: Balaam rose in the morning and said to Balak’s leaders, “Go to your land, for the LORD has refused to let me go with you.”
-v14: So the leaders of Moab rose, went to Balak, and said, “Balaam refused to come with us.”
-</p>
-
-## Balak Sends More Honored Leaders
-
-<p>
-v15: Once again Balak sent leaders, more numerous and more honored than the first.
-v16: They came to Balaam and said to him, “Thus says Balak son of Zippor: ‘Please let nothing keep you from coming to me,
-v17: for I will honor you very greatly, and whatever you say to me I will do. Please come and curse this people for me.’”
-v18: Yet Balaam answered and said to Balak’s servants, “Even if Balak were to give me his house full of silver and gold, I could not cross the command of the LORD my God to do anything small or great.
-v19: Now please stay here tonight also, so that I may know what more the LORD will speak to me.”
+v07: The elders of Moab and Midian set out with payment for divination in their hands. They came to Balaam and delivered Balak’s message.
 </p>
 
 <p>
-v20: God came to Balaam at night and said to him, “If the men have come to call you, rise and go with them; but only the word that I speak to you will you do.”
-v21: So Balaam rose in the morning, saddled his donkey, and went with the leaders of Moab.
-</p>
-
-## Balaam’s Donkey Sees the Angel
-
-<p>
-v22: Yet God’s anger burned because he went, and the angel of the LORD took a stand in the road as his adversary. Balaam was riding on his donkey, and his two servants were with him.
-v23: The donkey saw the angel of the LORD standing in the road with a drawn sword in his hand. The donkey turned aside from the road and went into the field, and Balaam struck the donkey to turn her back onto the road.
-v24: Then the angel of the LORD stood in a narrow path between the vineyards, with a wall on this side and a wall on that side.
-v25: When the donkey saw the angel of the LORD, she pressed against the wall and pressed Balaam’s foot against the wall, and he struck her again.
+v08: “Spend the night here,” Balaam told them, “and I will bring back whatever answer the LORD gives me.” So the Moabite officials stayed with Balaam.
 </p>
 
 <p>
-v26: Then the angel of the LORD went farther and stood in a narrow place where there was no way to turn either to the right or to the left.
-v27: When the donkey saw the angel of the LORD, she lay down under Balaam. Balaam’s anger burned, and he struck the donkey with his staff.
-v28: Then the LORD opened the donkey’s mouth, and she said to Balaam, “What have I done to you that you have struck me these three times?”
-v29: Balaam said to the donkey, “Because you have made a fool of me! If only there were a sword in my hand, I would kill you now.”
-v30: The donkey said to Balaam, “Am I not your donkey, on which you have ridden all your life until this day? Have I ever been accustomed to do this to you?” And he said, “No.”
+v09: God came to Balaam and asked, “Who are these men with you?”
+v10: Balaam answered God, “Balak son of Zippor, king of Moab, sent me this message:
+v11: ‘A people has come out of Egypt and covers the face of the earth. Come now and curse them for me. Perhaps I can fight them and drive them away.’”
 </p>
 
-## Balaam Sees the Angel
-
 <p>
-v31: Then the LORD uncovered Balaam’s eyes, and he saw the angel of the LORD standing in the road with his drawn sword in his hand. He bowed low and fell on his face.
-v32: The angel of the LORD said to him, “Why have you struck your donkey these three times? Look, I have come out as an adversary, because your way is reckless before me.
-v33: The donkey saw me and turned aside before me these three times. If she had not turned aside from me, surely by now I would have killed you and let her live.”
-v34: Balaam said to the angel of the LORD, “I have sinned, for I did not know that you were standing in the road against me. Now then, if it is evil in your eyes, I will turn back.”
-v35: But the angel of the LORD said to Balaam, “Go with the men, but speak only the word that I speak to you.” So Balaam went with Balak’s leaders.
+v12: God said to Balaam, “Do not go with them. Do not curse the people, because they are blessed.”
 </p>
 
-## Balaam Meets Balak
+<p>
+v13: In the morning Balaam got up and told Balak’s officials, “Go back to your own land. The LORD has refused to let me go with you.”
+</p>
 
 <p>
-v36: When Balak heard that Balaam had come, he went out to meet him at a city of Moab on the border formed by the Arnon, at the edge of the territory.
-v37: Balak said to Balaam, “Did I not urgently send to call you? Why did you not come to me? Am I really not able to honor you?”
-v38: Balaam said to Balak, “Look, I have come to you now. But am I able to speak anything at all? The word that God puts in my mouth, that I will speak.”
+v14: The Moabite officials left, went back to Balak and said, “Balaam refuses to come with us.”
+</p>
+
+## A second delegation
+
+<p>
+v15: Balak sent officials again, more numerous and more distinguished than the first.
+v16: They came to Balaam and said, “This is what Balak son of Zippor says: ‘Please let nothing keep you from coming to me.
+v17: I will give you great honor and do whatever you tell me. Please come and curse this people for me.’”
+</p>
+
+<p>
+v18: Balaam answered Balak’s servants, “Even if Balak gave me his house full of silver and gold, I could not go beyond the command of the LORD my God in anything, small or great.
+v19: But please stay here tonight too, so I can find out what more the LORD will say to me.”
+</p>
+
+<p>
+v20: God came to Balaam that night and said, “If these men have come to summon you, get up and go with them. But do only what I tell you.”
+</p>
+
+<p>
+v21: Balaam got up in the morning, saddled his donkey and went with the Moabite officials.
+</p>
+
+## The donkey sees the angel
+
+<p>
+v22: But God was angry because Balaam was going. The angel of the LORD stood in the road as an adversary against him. Balaam was riding his donkey, with his two young servants alongside him.
+v23: The donkey saw the angel of the LORD standing in the road with his sword drawn in his hand. She turned off the road into a field. Balaam struck her to turn her back onto the road.
+</p>
+
+<p>
+v24: Then the angel of the LORD stood in a narrow path between vineyards, with a wall on each side.
+v25: When the donkey saw the angel of the LORD, she pressed against the wall, crushing Balaam’s foot against it. He struck her again.
+</p>
+
+<p>
+v26: The angel of the LORD moved ahead again and stood in a tight spot where there was no room to turn right or left.
+v27: When the donkey saw the angel of the LORD, she lay down under Balaam. Balaam grew angry and struck her with his staff.
+</p>
+
+<p>
+v28: Then the LORD opened the donkey’s mouth, and she said to Balaam, “What have I done to you, that you have struck me these three times?”
+</p>
+
+<p>
+v29: Balaam answered the donkey, “You have made a fool of me! If I had a sword in my hand, I would kill you right now.”
+</p>
+
+<p>
+v30: The donkey said to Balaam, “Am I not your donkey, the one you have ridden all along until today? Have I ever treated you this way before?” “No,” he said.
+</p>
+
+<p>
+v31: Then the LORD uncovered Balaam’s eyes. He saw the angel of the LORD standing in the road, his sword drawn in his hand. Balaam bowed low and fell facedown.
+</p>
+
+<p>
+v32: The angel of the LORD said to him, “Why have you struck your donkey these three times? I came out as an adversary because your course is reckless before me.
+v33: The donkey saw me and turned away from me these three times. If she had not turned away from me, I would certainly have killed you by now and let her live.”
+</p>
+
+<p>
+v34: Balaam said to the angel of the LORD, “I have sinned. I did not know that you were standing in the road to meet me. If my going displeases you, I will turn back.”
+</p>
+
+<p>
+v35: The angel of the LORD told Balaam, “Go with the men. But speak only the word I give you.” So Balaam went with Balak’s officials.
+</p>
+
+## Balaam meets Balak
+
+<p>
+v36: When Balak heard that Balaam was coming, he went out to meet him at the town of Moab on the Arnon border, at the edge of his territory.
+v37: Balak said to Balaam, “Did I not send urgently for you? Why did you not come to me? Am I really unable to honor you?”
+</p>
+
+<p>
+v38: Balaam answered Balak, “I have come to you now. But can I say just anything? I can speak only the word God puts in my mouth.”
+</p>
+
+<p>
 v39: Balaam went with Balak, and they came to Kiriath-huzoth.
-v40: Balak sacrificed cattle and sheep and sent portions to Balaam and to the leaders who were with him.
-v41: In the morning Balak took Balaam and brought him up to Bamoth-baal, and from there he saw the edge of the people.
+v40: Balak sacrificed cattle and sheep and sent portions to Balaam and the officials with him.
+</p>
+
+<p>
+v41: The next morning Balak took Balaam up to Bamoth-baal. From there he could see the edge of the people’s camp.
 </p>
 
 ## Notes
 
-v05: “the River” conventionally refers to the Euphrates. Pethor is associated with the region of upper Mesopotamia.
+v5: The River usually designates the Euphrates. “The land of his people” leaves the pronoun’s reference uncertain; the wording has also been taken as a place name, Amaw.
 
-v12: God’s first word is unambiguous: Israel is blessed and is not to be cursed.
+v7: The term for divination may refer here to its payment, as translated, or to materials used for it.
 
-v20–22: God permits Balaam to go under a strict condition, yet anger burns when he goes. The narrative preserves this tension rather than explaining Balaam’s inward motive.
+v12–14: God prohibits the curse because Israel is blessed. Balaam reports only the refusal of permission to travel; the officials then report Balaam’s refusal. Those changes in the retelling remain visible.
 
-v22: “adversary” — The Hebrew *satan* describes the angel’s role as an opponent in the road, not a proper name here.
+v20–22: Permission to go is followed by anger because Balaam goes. The account does not explicitly supply a motive that resolves this tension. The draft preserves both statements.
 
-v28: The LORD opens the donkey’s mouth without explanation. The narrative’s irony is that the animal perceives the divine messenger before the professional seer does.
+v32–33: The rare verb rendered “reckless” can also suggest a perverse or headlong course. The next verse’s conditional clause is textually difficult: the Hebrew word usually means “perhaps,” and the expected negative is not explicit. “If she had not turned away” follows the contrast between Balaam’s threatened death and the donkey’s survival.
 
-v32: “reckless” — The Hebrew word is rare and difficult; it conveys a way that is perverse, rash, or contrary before the angel.
+v41; 23:13: Both scenes describe a partial view. The draft keeps those statements rather than assuming the first location gave a view of the whole camp.
 
 ## Vocabulary
 
-v06: אָרַר (arar)
-“To curse.” To invoke harm or judgment upon another.
+v6: Curse and bless
+Balak seeks a spoken curse to overcome a people already described as blessed. The contrast drives the following oracles.
 
-v07: קֶסֶם (qesem)
-“Divination.” Practices used to seek hidden knowledge or supernatural guidance.
+v22: Adversary
+Hebrew śāṭān names an opposing role here, performed by the angel of the LORD; it is not used as a personal name.
 
-v22: שָׂטָן (satan)
-“Adversary.” One who stands against or opposes another.
+v28, 31: Opened mouth; uncovered eyes
+The LORD enables the donkey to speak and then enables Balaam to see. The repeated bodily language connects their contrasting perceptions.
 
-v28: פָּתַח פֶּה (patach peh)
-“To open the mouth.” Here the LORD enables the donkey to speak.
-
-v31: גָּלָה עֵינַיִם (galah einayim)
-“To uncover the eyes.” To enable perception of what was already present but unseen.
+v41: Bamoth-baal
+A place name associated with heights and Baal. The name is retained without supplying an unmentioned ritual at this first viewpoint.

@@ -4,96 +4,113 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-19-24-biblical-fluency-2026-09-13
 ---
 
-## Miriam Dies at Kadesh
+## Miriam dies at Kadesh
 
 <p>
-v01: The Israelites, the whole congregation, came into the wilderness of Zin in the first month, and the people stayed at Kadesh. Miriam died there and was buried there.
+v01: In the first month, the Israelites—the whole community—came to the wilderness of Zin and stayed at Kadesh. Miriam died there and was buried there.
 </p>
 
-## Water from the Rock
+## Water from the rock
 
 <p>
-v02: Now there was no water for the congregation, and they gathered against Moses and Aaron.
-v03: The people quarreled with Moses and said, “If only we had perished when our brothers perished before the LORD!
-v04: Why have you brought the LORD’s assembly into this wilderness, for us and our livestock to die here?
-v05: Why have you brought us up from Egypt to bring us to this evil place? It is no place for seed, figs, vines, or pomegranates, and there is no water to drink.”
-</p>
-
-<p>
-v06: Moses and Aaron went from the presence of the assembly to the entrance of the Tent of Meeting and fell on their faces. Then the glory of the LORD appeared to them.
-v07: The LORD spoke to Moses, saying,
-v08: “Take the staff and assemble the congregation, you and Aaron your brother. Speak to the rock before their eyes, and it will give its water. You will bring water out of the rock for them and give drink to the congregation and their livestock.”
-v09: So Moses took the staff from before the LORD, as the LORD commanded him.
+v02: There was no water for the community, and they gathered against Moses and Aaron.
+v03: The people argued with Moses. “If only we had died when our own people died before the LORD!” they said.
+v04: “Why have you brought the LORD’s assembly into this wilderness for us and our livestock to die here?
+v05: Why did you bring us up from Egypt to this terrible place? There is nowhere to grow grain, figs, vines or pomegranates—and no water to drink!”
 </p>
 
 <p>
-v10: Moses and Aaron gathered the assembly before the rock, and he said to them, “Hear now, you rebels! Will we bring water for you out of this rock?”
-v11: Then Moses raised his hand and struck the rock twice with his staff. Water came out abundantly, and the congregation and their livestock drank.
-v12: But the LORD said to Moses and Aaron, “Because you did not trust me, to treat me as holy in the eyes of the Israelites, therefore you will not bring this assembly into the land that I have given them.”
-v13: These are the waters of Meribah, where the Israelites quarreled with the LORD and the LORD showed holiness among them.
-</p>
-
-## Edom Refuses Passage
-
-<p>
-v14: Moses sent messengers from Kadesh to the king of Edom: “Thus says your brother Israel: You know all the hardship that has found us,
-v15: how our ancestors went down to Egypt, and we lived in Egypt many years, and the Egyptians treated us and our ancestors badly.
-v16: But when we cried to the LORD, the LORD heard our voice, sent a messenger, and brought us out from Egypt. And look, we are at Kadesh, a city at the edge of your territory.
+v06: Moses and Aaron left the assembly and went to the entrance of the tent of meeting. They fell facedown, and the LORD’s glory appeared to them.
+v07: The LORD gave Moses this instruction:
+v08: “Take the staff and gather the community, you and your brother Aaron. Speak to the rock before their eyes, and it will give its water. Bring water out of the rock for them, and give the community and their livestock a drink.”
 </p>
 
 <p>
-v17: Please let us pass through your land. We will not pass through field or vineyard, nor drink water from a well. We will go by the King’s Highway; we will not turn to the right or to the left until we have passed through your territory.”
-v18: Yet Edom said to him, “You will not pass through me, or I will come out against you with the sword.”
-v19: The Israelites said to him, “We will go up by the highway, and if we or our livestock drink your water, we will pay its price. Only let us pass through on foot—nothing more.”
-v20: But he said, “You will not pass through.” And Edom came out against them with a large force and a strong hand.
-v21: Thus Edom refused to allow Israel to pass through his territory, and Israel turned away from him.
-</p>
-
-## Aaron Dies on Mount Hor
-
-<p>
-v22: The Israelites, the whole congregation, set out from Kadesh and came to Mount Hor.
-v23: The LORD spoke to Moses and Aaron at Mount Hor, on the border of the land of Edom, saying,
-v24: “Aaron will be gathered to his people, for he will not enter the land that I have given to the Israelites, because you rebelled against my command at the waters of Meribah.
-v25: Take Aaron and Eleazar his son and bring them up Mount Hor.
-v26: Strip Aaron of his garments and put them on Eleazar his son. Aaron will be gathered and will die there.”
+v09: Moses took the staff from before the LORD, as he had commanded him.
+v10: Moses and Aaron gathered the assembly in front of the rock. Moses said, “Listen, you rebels! Must we bring water out of this rock for you?”
+v11: Moses raised his hand and struck the rock twice with his staff. Water poured out, and the community and their livestock drank.
 </p>
 
 <p>
-v27: Moses did as the LORD commanded. They went up Mount Hor before the eyes of the whole congregation.
-v28: Moses stripped Aaron of his garments and put them on Eleazar his son. Aaron died there on the top of the mountain. Then Moses and Eleazar came down from the mountain.
-v29: When the whole congregation saw that Aaron had died, all the house of Israel wept for Aaron thirty days.
+v12: The LORD told Moses and Aaron, “You did not trust me enough to show my holiness before the Israelites’ eyes. So you will not bring this assembly into the land I have given them.”
+</p>
+
+<p>
+v13: These are the waters of Meribah, where the Israelites argued with the LORD and he showed his holiness among them.
+</p>
+
+## Edom refuses passage
+
+<p>
+v14: Moses sent messengers from Kadesh to the king of Edom: “This is what your brother Israel says: You know all the hardship we have faced.
+</p>
+
+<p>
+v15: Our ancestors went down to Egypt, and we lived there a long time. The Egyptians mistreated us and our ancestors.
+v16: We cried out to the LORD. He heard our voice, sent an angel and brought us out of Egypt. Now we are at Kadesh, a town on the edge of your territory.
+v17: Please let us pass through your land. We will not cross fields or vineyards or drink water from wells. We will stay on the King’s Highway, turning neither right nor left until we have passed through your territory.”
+</p>
+
+<p>
+v18: Edom answered, “You must not pass through my land, or I will come out against you with the sword.”
+</p>
+
+<p>
+v19: The Israelites replied, “We will stay on the main road. If we or our livestock drink your water, we will pay for it. We ask only to pass through on foot.”
+</p>
+
+<p>
+v20: “No passage!” Edom said, and came out against them with a large force and a strong hand.
+</p>
+
+<p>
+v21: Edom refused to let Israel cross its territory, so Israel turned away.
+</p>
+
+## Aaron dies on Mount Hor
+
+<p>
+v22: The Israelites—the whole community—left Kadesh and came to Mount Hor.
+v23: At Mount Hor, on the border of Edom, the LORD spoke to Moses and Aaron:
+v24: “Aaron will be gathered to his people. He will not enter the land I have given the Israelites, because you both rebelled against my command at the waters of Meribah.
+v25: Take Aaron and his son Eleazar up Mount Hor.
+v26: Remove Aaron’s garments and put them on his son Eleazar. Aaron will be gathered to his people and die there.”
+</p>
+
+<p>
+v27: Moses did as the LORD commanded. They went up Mount Hor before the eyes of the whole community.
+v28: Moses removed Aaron’s garments and put them on his son Eleazar. Aaron died there on the mountaintop, and Moses and Eleazar came down the mountain.
+</p>
+
+<p>
+v29: When the whole community saw that Aaron had died, all the house of Israel wept for him for thirty days.
 </p>
 
 ## Notes
 
-v01: Miriam’s death is reported with striking brevity at Kadesh, where the generation of the wilderness is approaching its end.
+v1: The month is given, but this verse does not name the year. The draft does not supply one.
 
-v08–12: The LORD commands Moses to speak to the rock. Moses instead strikes it twice. The LORD names the central failure as not trusting and not treating the LORD as holy before Israel.
+v8–12: The instruction is to speak to the rock. Moses strikes it twice. The LORD’s explanation addresses both Moses and Aaron and names failure to trust him and display his holiness; the draft does not reduce the passage to an unstated motive.
 
-v10: “Shall we bring water” places Moses and Aaron rhetorically in the foreground of an act whose power belongs to the LORD.
+v13: Meribah means dispute or quarrel. “Among them” can refer to the Israelites; the Hebrew can also be understood as “through them,” referring to the waters.
 
-v13: “Meribah” is related to the Hebrew verb “to quarrel.” The place name becomes a memorial of both Israel’s contention and the LORD’s holiness.
+v16: The messenger or angel is not identified more precisely here. The message recalls the cry from Egypt and the LORD’s response.
 
-v14: Calling Edom “your brother” invokes the ancestral relationship of Jacob/Israel and Esau/Edom.
-
-v28: Aaron’s garments pass to Eleazar before Aaron dies, visibly transferring the high-priestly office rather than leaving a gap in priestly leadership.
+v24–28: “Gathered to his people” is an expression for death and reunion with one’s people. Aaron’s garments pass to Eleazar before Aaron dies, marking the transfer of priestly responsibility.
 
 ## Vocabulary
 
-v03: רִיב (riv)
-“To quarrel” or “contend.” The root behind the name Meribah.
+v8: Staff
+The verse says to take the staff but does not explicitly identify which earlier staff is meant.
 
-v12: אָמַן (aman)
-“To trust,” “believe,” or “be firm.” The LORD names lack of trust as Moses and Aaron’s failure.
+v17: King’s Highway
+A main route through the territory. The request promises to remain on it without using fields or wells.
 
-v12: קָדַשׁ (qadash)
-“To treat as holy” or “sanctify.” To acknowledge the LORD’s holiness publicly.
-
-v17: דֶּרֶךְ הַמֶּלֶךְ (derekh hammelekh)
-“King’s Highway.” A major route through Transjordan.
-
-v24: אָסַף אֶל־עַמָּיו (asaf el-ammav)
-“To be gathered to one’s people.” A traditional expression for death and joining one’s ancestors.
+v20: Strong hand
+An image of force, here describing Edom’s armed refusal.

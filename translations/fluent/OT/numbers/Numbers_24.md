@@ -4,147 +4,132 @@ testament: OT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-19-24-biblical-fluency-2026-09-13
 ---
 
-## Balaam’s Third Oracle
+## The third oracle
 
 <p>
-v01: When Balaam saw that it was good in the eyes of the LORD to bless Israel, he did not go, as at other times, to seek enchantments, but turned his face toward the wilderness.
-v02: Balaam lifted his eyes and saw Israel camping tribe by tribe. Then the Spirit of God came upon him,
-v03: and he took up his oracle and said:
+v01: Balaam saw that blessing Israel pleased the LORD. This time he did not go looking for omens as he had before, but turned his face toward the wilderness.
+v02: Balaam looked up and saw Israel camped tribe by tribe. The spirit of God came upon him,
+v03: and he took up his oracle:
 “The declaration of Balaam son of Beor,
 the declaration of the man whose eye is opened,
-
-v04: the declaration of one who hears the words of God,
-who sees the vision of the Almighty,
-falling down, yet with eyes uncovered:
-
-v05: How good are your tents, O Jacob,
-your dwellings, O Israel!
-
-v06: Like valleys they stretch out,
+v04: who hears the words of God,
+who sees a vision of the Almighty,
+falling down, with eyes uncovered:
+v05: How lovely are your tents, Jacob,
+your dwellings, Israel!
+v06: Like valleys stretching out,
 like gardens beside a river,
-like aloes the LORD has planted,
-like cedars beside the waters.
+like aloes planted by the LORD,
+like cedars beside water.
+v07: Water will flow from his buckets;
+his seed will have abundant water.
+His king will rise higher than Agag,
+and his kingdom will be lifted up.
+v08: God brings him out of Egypt;
+he has the strength of a wild ox.
+He devours the nations that oppose him,
+crushes their bones
+and pierces them with his arrows.
+v09: He crouches and lies down like a lion,
+like a lioness—who would rouse him?
+Blessed are those who bless you,
+and cursed are those who curse you!”
+</p>
+
+## Balak’s anger
+
+<p>
+v10: Balak burned with anger at Balaam and struck his hands together. He said to Balaam, “I summoned you to curse my enemies, and here you have blessed them these three times!
+v11: Now get away! Go home! I said I would give you great honor, but the LORD has kept you from that honor.”
 </p>
 
 <p>
-v07: Water flows from their buckets,
-and their seed is in abundant waters.
-Their king will be higher than Agag,
-and their kingdom will be exalted.
-
-v08: God brings them out of Egypt;
-they have strength like the horns of a wild ox.
-They will devour nations, their adversaries,
-and crush their bones,
-and shatter them with arrows.
-
-v09: They crouch, they lie down like a lion,
-and like a lioness—who will rouse them?
-Blessed are people who bless you,
-and cursed are people who curse you.”
+v12: Balaam answered Balak, “Did I not tell the messengers you sent me,
+v13: ‘Even if Balak gave me his house full of silver and gold, I could not go beyond the LORD’s command to do good or bad on my own. Whatever the LORD says, I will say’?
+v14: Now I am going back to my people. Come, let me tell you what this people will do to your people in days to come.”
 </p>
 
-## Balak Dismisses Balaam
+## A star from Jacob
 
 <p>
-v10: Then Balak’s anger burned against Balaam, and he struck his hands together. Balak said to Balaam, “I called you to curse my enemies, and look—you have blessed them these three times!
-v11: Now flee to your place. I said I would honor you greatly, but look—the LORD has kept you from honor.”
-v12: Balaam said to Balak, “Did I not also speak to your messengers whom you sent to me, saying,
-v13: ‘Even if Balak gives me his house full of silver and gold, I cannot cross the command of the LORD to do good or evil from my own heart. What the LORD speaks, that I will speak’?
-v14: And now, look, I am going to my people. Come, I will advise you what this people will do to your people in days to come.”
-</p>
-
-## Balaam’s Fourth Oracle
-
-<p>
-v15: Then he took up his oracle and said:
+v15: Then he took up his oracle:
 “The declaration of Balaam son of Beor,
 the declaration of the man whose eye is opened,
-
-v16: the declaration of one who hears the words of God,
-and knows the knowledge of the Most High,
-who sees the vision of the Almighty,
-falling down, yet with eyes uncovered:
-
+v16: who hears the words of God,
+who knows the knowledge of the Most High,
+who sees a vision of the Almighty,
+falling down, with eyes uncovered:
 v17: I see him, but not now;
-I look him, but not near.
-A star comes out from Jacob,
-and a scepter rises from Israel.
-It crushes the temples of Moab
-and breaks down all the sons of Seth.
-
-v18: Edom becomes a possession,
-Seir becomes a possession of its enemies,
+I look at him, but not near.
+A star will come out of Jacob,
+a scepter will rise from Israel.
+He will crush Moab’s temples
+and devastate all the descendants of Sheth.
+v18: Edom will become a possession;
+his enemy Seir will become a possession,
 while Israel acts with strength.
-
 v19: One from Jacob will rule
 and destroy the survivors from the city.”
 </p>
 
-## Oracles Concerning the Nations
+## Oracles about neighboring peoples
 
 <p>
-v20: Then Balaam saw Amalek, took up his oracle, and said:
-“First among the nations was Amalek,
-but its end is destruction.”
+v20: Then he saw Amalek and took up his oracle:
+“Amalek was first among the nations,
+but its end will be destruction.”
 </p>
 
 <p>
-v21: Then he saw the Kenites, took up his oracle, and said:
-“Enduring is your dwelling place,
-and your nest is set in the rock;
-
-v22: even so Kain will be consumed.
-How long until Asshur carries you captive?”
+v21: Then he saw the Kenites and took up his oracle:
+“Your dwelling is secure;
+your nest is set in the rock.
+v22: Yet Kain will be consumed.
+How long until Asshur takes you captive?”
 </p>
 
 <p>
-v23: Then he took up his oracle and said:
-“Alas! Who will live
-when God does this?
-
-v24: Ships will come from the coast of Kittim;
-they will afflict Asshur
-and afflict Eber,
-and they too will come to destruction.”
+v23: Then he took up his oracle:
+“Alas! Who can live when God brings this about?
+v24: Ships will come from the coast of Kittim.
+They will oppress Asshur and oppress Eber;
+he too will end in destruction.”
 </p>
 
 <p>
-v25: Then Balaam rose and went and returned to his place, and Balak also went his way.
+v25: Then Balaam got up, left and returned to his own place. Balak also went on his way.
 </p>
 
 ## Notes
 
-v01: Balaam stops seeking omens once the repeated divine blessing has become clear. The Spirit’s coming in v02 shifts the oracle away from divinatory procedure.
+v3–4, 15–16: The unusual eye expression is read here as “opened,” though “closed” is also proposed. “Falling down” does not explicitly name a trance. The repeated eye language recalls Balaam’s encounter on the road.
 
-v03: “whose eye is opened” — The Hebrew form is rare and has been read in more than one way, including “closed” or “opened.” The following “eyes uncovered” supports a theme of granted perception.
+v6–7: Aloes are aromatic trees in this image; the plant’s precise identity is uncertain. The seed-and-water language evokes both fertility and descendants. Agag is the name in the pinned Hebrew; this verse does not identify a particular later king.
 
-v07: The Masoretic Text reads “Agag,” a royal name associated elsewhere with Amalek. Some ancient witnesses differ. TSW retains the Masoretic reading.
+v8: The arrow clause is difficult. This draft understands it as piercing the enemy with arrows, supplying that connection from the surrounding battle imagery. The line has also been read in terms of shattering arrows or striking parts of the body.
 
-v17: “star” and “scepter” are royal images. The oracle does not name the ruler or specify the historical horizon of fulfillment.
+v17–19: The star and scepter picture a coming ruler without naming him. Moab’s “temples” renders a word for corners or sides, which can also suggest borders. Sheth is retained as an uncertain name; proposals include Seth and a description of tumultuous people. The city in verse 19 is not named.
 
-v17: “sons of Seth” is an unusual expression and may refer broadly to humanity or to a particular people. The main text retains the Hebrew designation.
+v21–22: Kain echoes the name of the Kenites. Asshur is often identified with Assyria, but that identification is not certain here. The question’s wording and the timing of captivity are difficult.
 
-v24: “Kittim” is a geographical term associated first with Cyprus and later more broadly with western maritime powers. The oracle leaves the historical referent open.
+v24: Kittim names a western coastal or island people, associated with Cyprus. Asshur and Eber are retained as names. The final “he” has no certain referent; the draft does not assign it to a modern nation or fix a historical sequence.
 
 ## Vocabulary
 
-v01: נְחָשִׁים (nechashim)
-“Enchantments” or “omens.” Divinatory practices Balaam no longer seeks.
+v4, 16: Almighty
+Traditional rendering of the divine title Shaddai; the title’s derivation is uncertain.
 
-v02: רוּחַ אֱלֹהִים (ruach Elohim)
-“Spirit of God.” The divine Spirit coming upon Balaam for the oracle.
+v7, 17: King and scepter
+Royal images connect the blessings to future rule. A scepter is a ruler’s staff.
 
-v04: שַׁדַּי (Shaddai)
-“Almighty.” A traditional divine title whose precise etymology remains uncertain.
+v9: Blessed are those who bless you
+This paired blessing and curse recalls Genesis 12:3 and 27:29, helping readers recognize recurring promise language.
 
-v17: כּוֹכָב (kokhav)
-“Star.” Here a royal image arising from Jacob.
-
-v17: שֵׁבֶט (shevet)
-“Scepter,” “staff,” or “tribe.” Here a symbol of rule.
-
-v24: כִּתִּים (Kittim)
-“Kittim.” A maritime geographical designation retained without narrowing it to one later empire.
+v14: Days to come
+A forward-looking expression. By itself it does not specify a date or one particular account of the end of history.

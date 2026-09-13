@@ -4,133 +4,147 @@ testament: OT
 chapter: 23
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-numbers-19-24-biblical-fluency-2026-09-13
 ---
 
-## Balaam’s First Oracle
+## The first oracle
 
 <p>
-v01: Balaam said to Balak, “Build seven altars for me here, and prepare seven bulls and seven rams for me here.”
-v02: Balak did as Balaam had spoken, and Balak and Balaam offered a bull and a ram on each altar.
-v03: Then Balaam said to Balak, “Stand beside your burnt offering, and I will go. Perhaps the LORD will meet me. Whatever the LORD shows me I will tell you.” And he went to a bare height.
-v04: God met Balaam, and Balaam said to God, “I have arranged the seven altars and offered a bull and a ram on each altar.”
-v05: The LORD put a word in Balaam’s mouth and said, “Return to Balak, and thus you will speak.”
-v06: So he returned to him, and look—Balak was standing beside his burnt offering, he and all the leaders of Moab.
+v01: Balaam said to Balak, “Build seven altars for me here, and prepare seven bulls and seven rams.”
+v02: Balak did as Balaam said. Balak and Balaam offered a bull and a ram on each altar.
 </p>
 
 <p>
-v07: Then Balaam took up his oracle and said:
-“From Aram Balak brought me,
-the king of Moab from the mountains of the east:
-‘Come, curse Jacob for me;
-come, denounce Israel.’
+v03: Balaam told Balak, “Stay beside your burnt offering while I go. Perhaps the LORD will meet me. Whatever he shows me, I will tell you.” Then he went to a bare height.
+</p>
 
-v08: How can I curse
-whom God has not cursed?
-How can I denounce
-whom the LORD has not denounced?
+<p>
+v04: God met Balaam, and Balaam said to him, “I have prepared the seven altars and offered a bull and a ram on each one.”
+v05: The LORD put a word in Balaam’s mouth and said, “Return to Balak and speak this.”
+</p>
 
-v09: For from the top of the rocks I see them,
-and from the hills I look them.
-Look, a people dwelling alone,
+<p>
+v06: Balaam returned and found Balak standing beside his burnt offering, with all the Moabite officials.
+</p>
+
+<p>
+v07: Then Balaam took up his oracle:
+“Balak brought me from Aram,
+the king of Moab from the eastern mountains:
+‘Come, curse Jacob for me!
+Come, denounce Israel!’
+v08: How can I curse someone God has not cursed?
+How can I denounce someone the LORD has not denounced?
+v09: From the rocky peaks I see them;
+from the hills I look at them.
+Here is a people dwelling alone,
 not counting itself among the nations.
-
 v10: Who can count the dust of Jacob
-or number even a fourth of Israel?
+or number even a quarter of Israel?
 Let me die the death of the upright,
 and let my end be like theirs!”
 </p>
 
 <p>
-v11: Balak said to Balaam, “What have you done to me? I brought you to curse my enemies, and look—you have done nothing but bless them!”
-v12: Balaam answered and said, “Must I not be careful to speak what the LORD puts in my mouth?”
-</p>
-
-## Balaam’s Second Oracle
-
-<p>
-v13: Balak said to him, “Please come with me to another place from which you may see them. You will see only the edge of them and will not see all of them. Curse them for me from there.”
-v14: So he took him to the field of Zophim, to the top of Pisgah, and built seven altars and offered a bull and a ram on each altar.
-v15: Balaam said to Balak, “Stand here beside your burnt offering while I meet the LORD over there.”
-v16: The LORD met Balaam, put a word in his mouth, and said, “Return to Balak, and thus you will speak.”
-v17: He came to him, and look—he was standing beside his burnt offering, and the leaders of Moab with him. Balak said to him, “What has the LORD spoken?”
+v11: Balak said to Balaam, “What have you done to me? I brought you to curse my enemies, and you have done nothing but bless them!”
 </p>
 
 <p>
-v18: Then Balaam took up his oracle and said:
-“Rise, Balak, and hear;
-give ear to me, son of Zippor.
+v12: Balaam answered, “Must I not take care to speak what the LORD puts in my mouth?”
+</p>
 
-v19: God is not a man, that God should lie,
-or a human being, that God should change his mind.
-Has God spoken and not done it?
-Or spoken and not brought it to pass?
+## The second oracle
 
-v20: Look, I received a command to bless;
-God has blessed,
-and I cannot reverse it.
+<p>
+v13: Balak said to him, “Please come with me to another place where you can see them. You will see only part of them, not all of them. Curse them for me from there.”
+v14: He took Balaam to the field of Zophim, on the summit of Pisgah. He built seven altars and offered a bull and a ram on each altar.
+</p>
 
-v21: God has not beheld trouble in Jacob,
-nor seen misery in Israel.
-The LORD their God is with them,
-and the shout of a king is among them.
+<p>
+v15: Balaam said to Balak, “Stay here beside your burnt offering while I seek a meeting over there.”
+</p>
 
+<p>
+v16: The LORD met Balaam, put a word in his mouth and said, “Return to Balak and speak this.”
+</p>
+
+<p>
+v17: Balaam came back and found Balak standing beside his burnt offering, with the Moabite officials. Balak asked him, “What did the LORD say?”
+</p>
+
+<p>
+v18: Then Balaam took up his oracle:
+“Rise, Balak, and listen!
+Give me your attention, son of Zippor!
+v19: God is not a man who lies,
+not a human being who changes his mind.
+Does he say something and fail to do it?
+Does he speak and fail to fulfill it?
+v20: I have received a command to bless.
+He has blessed, and I cannot reverse it.
+v21: He sees no misfortune in Jacob,
+no misery in Israel.
+The LORD their God is with them;
+a king’s shout is among them.
 v22: God brings them out of Egypt;
-they have strength like the horns of a wild ox.
-</p>
-
-<p>
-v23: Surely there is no enchantment against Jacob,
-and no divination against Israel.
+he has the strength of a wild ox.
+v23: No enchantment works against Jacob,
+no divination against Israel.
 Now it will be said of Jacob and Israel,
-‘What has God done!’
-
-v24: Look, a people rises like a lioness
+‘Look what God has done!’
+v24: Look! A people rises like a lioness
 and lifts itself like a lion.
-It does not lie down until it eats prey
-and drinks the blood of the slain.”
+It will not lie down until it has eaten prey
+and drunk the blood of the slain.”
 </p>
 
 <p>
-v25: Then Balak said to Balaam, “Do not curse them at all, and do not bless them at all!”
-v26: Yet Balaam answered and said to Balak, “Did I not speak to you, saying, ‘All that the LORD speaks, that I must do’?”
+v25: Balak said to Balaam, “Then neither curse them at all nor bless them at all!”
 </p>
 
-## Balak Tries a Third Place
+<p>
+v26: Balaam answered Balak, “Did I not tell you that I must do everything the LORD says?”
+</p>
+
+## Balak tries another place
 
 <p>
-v27: Balak said to Balaam, “Please come; I will take you to another place. Perhaps it will be right in the eyes of God for you to curse them for me from there.”
-v28: So Balak took Balaam to the top of Peor, which overlooks the wasteland.
-v29: Balaam said to Balak, “Build seven altars for me here and prepare seven bulls and seven rams for me here.”
-v30: Balak did as Balaam had said and offered a bull and a ram on each altar.
+v27: Balak said to Balaam, “Come, let me take you somewhere else. Perhaps God will be pleased to let you curse them for me from there.”
+v28: Balak took Balaam to the summit of Peor, overlooking the wasteland.
+</p>
+
+<p>
+v29: Balaam said to Balak, “Build seven altars for me here, and prepare seven bulls and seven rams.”
+v30: Balak did as Balaam said and offered a bull and a ram on each altar.
 </p>
 
 ## Notes
 
-v03: “bare height” — The Hebrew expression is uncertain and may describe an exposed or high place. TSW preserves the spatial sense without making it a technical cultic term.
+v3: “A bare height” renders a rare expression that can also suggest going alone or apart.
 
-v07: “oracle” — The Hebrew *mashal* can mean proverb, saying, or poetic oracle. Here it introduces Balaam’s elevated poetic speech.
+v9–10: The poem pictures Israel as distinct and too numerous to count. “A quarter” follows one understanding of an unusual word; the line’s exact image is uncertain. Balaam’s wish for an end like the upright remains his own speech.
 
-v09: “dwelling alone” expresses Israel’s distinctive identity in the oracle; it need not imply geographical isolation from all other peoples.
+v19–20: The statement about God’s reliability answers the attempt to reverse the blessing. The translation preserves its claim without adding a general explanation of every biblical passage about God relenting.
 
-v19: The comparison denies human unreliability to God. The language is specifically about truthfulness and fulfillment of spoken promise.
+v21: The words rendered “misfortune” and “misery” can also refer to wrongdoing and trouble. The line can accordingly be read as a statement about guilt rather than adversity.
 
-v21: The Hebrew can refer to trouble/iniquity and misery/toil. TSW retains the language of calamity rather than resolving the line into a claim of sinlessness.
+v22: The strength image may concern the wild ox’s horns or its powerful rise. The pronoun can be heard as referring to Israel or to God; the draft leaves that reference open.
 
-v23: Balaam’s own profession of divination is relativized by the oracle: no technique can overturn what God has done for Israel.
+v23: The preposition rendered “against” may also mean “in” or “among,” yielding a statement about divination within Israel. “Of Jacob and Israel” can likewise be read as “to Jacob and Israel.”
 
 ## Vocabulary
 
-v07: מָשָׁל (mashal)
-“Oracle,” “proverb,” or “poetic saying.” Balaam’s formal inspired speech.
+v7: Oracle
+A formal poetic utterance, here introduced with the Hebrew māšāl, which can also name a proverb or comparison.
 
-v08: זָעַם (zaam)
-“To denounce” or “express indignation.” Strong spoken opposition.
+v10: Dust of Jacob
+An image of innumerable descendants, recalling Genesis 13:16 and 28:14.
 
-v09: בָּדָד (badad)
-“Alone” or “apart.” Distinct in identity or dwelling.
+v22: Wild ox
+Hebrew reʾēm, a powerful wild bovine; the word does not name a mythical unicorn.
 
-v22: רְאֵם (re'em)
-“Wild ox.” A powerful wild bovine used as an image of strength.
-
-v23: נַחַשׁ (nachash)
-“Enchantment” or “divination by omens.” A practice unable to overturn God’s blessing.
+v24: Lioness and lion
+Both animals are named in the poem’s image of a people rising to consume prey. The blood of the slain remains explicit.
