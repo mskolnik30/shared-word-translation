@@ -2,305 +2,112 @@
   "book": "Deuteronomy",
   "chapter": 13,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED_STRUCTURAL_AND_BINDINGS",
+  "publication_allowed": false,
+  "revision_id": "fluent-deuteronomy-13-18-biblical-fluency-2026-09-13",
+  "supersedes": {
+    "commit": "4b36f1b8b5908970c19ff8440212ac221051b5f2",
+    "path": "audit/exegetical-core/fluent-production/deuteronomy/Deuteronomy_13_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Deut",
+    "book_verse_count": 959,
+    "scope_chapters": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "excluded_source_references": [
+      "Deut 13:1"
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Deut.xml",
-    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Deut.xml",
     "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Deuteronomy 13:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 2,
-            "source_ref": "Deuteronomy 13:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "1ad1e53c5b4d5c8506d9578b31e77fbc3e2923497d6b2a013a47af661a62a2fd"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "1ad1e53c5b4d5c8506d9578b31e77fbc3e2923497d6b2a013a47af661a62a2fd"
-      },
-      "2": {
-        "source_ref": "Deuteronomy 13:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 3,
-            "source_ref": "Deuteronomy 13:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "23427505885bca737aaebde8f34b435dcd045ec21b56ae98dd4f407890c33bc8"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "23427505885bca737aaebde8f34b435dcd045ec21b56ae98dd4f407890c33bc8"
-      },
-      "3": {
-        "source_ref": "Deuteronomy 13:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 4,
-            "source_ref": "Deuteronomy 13:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "6a881d9aaf562aefdf0aba10baa5b06323f21ed35aa7306fc1188cee9d969a80"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "6a881d9aaf562aefdf0aba10baa5b06323f21ed35aa7306fc1188cee9d969a80"
-      },
-      "4": {
-        "source_ref": "Deuteronomy 13:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 5,
-            "source_ref": "Deuteronomy 13:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "5cb3958a1921fa74cc31d13033b266cce42aa2bf0ee8fe7c64225b226f9b29d2"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "5cb3958a1921fa74cc31d13033b266cce42aa2bf0ee8fe7c64225b226f9b29d2"
-      },
-      "5": {
-        "source_ref": "Deuteronomy 13:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 6,
-            "source_ref": "Deuteronomy 13:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "d0cee596cd113a43813ae4bd9e2e010a0816c5218694ffc30b586807fa908471"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "d0cee596cd113a43813ae4bd9e2e010a0816c5218694ffc30b586807fa908471"
-      },
-      "6": {
-        "source_ref": "Deuteronomy 13:7 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 7,
-            "source_ref": "Deuteronomy 13:7 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "2745e3931d8cd50fc7ed8e53dd43a873a6dbbb4421fdbd7edb0eefc09dd57a57"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "2745e3931d8cd50fc7ed8e53dd43a873a6dbbb4421fdbd7edb0eefc09dd57a57"
-      },
-      "7": {
-        "source_ref": "Deuteronomy 13:8 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 8,
-            "source_ref": "Deuteronomy 13:8 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "b12a4ac7347d4df41e5449c2ef09bde0dd1a9cbc37961001a5bdb33a07fbbe49"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "b12a4ac7347d4df41e5449c2ef09bde0dd1a9cbc37961001a5bdb33a07fbbe49"
-      },
-      "8": {
-        "source_ref": "Deuteronomy 13:9 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 9,
-            "source_ref": "Deuteronomy 13:9 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "30ab997cb8bda8e25111b0f0a59d842b64071c4e63f2b3da692c8c588e47ec04"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "30ab997cb8bda8e25111b0f0a59d842b64071c4e63f2b3da692c8c588e47ec04"
-      },
-      "9": {
-        "source_ref": "Deuteronomy 13:10 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 10,
-            "source_ref": "Deuteronomy 13:10 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "c841754b1d1168ca129d9f7c740af43d58eb9a3ab97fa929f5197497dd913e2f"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "c841754b1d1168ca129d9f7c740af43d58eb9a3ab97fa929f5197497dd913e2f"
-      },
-      "10": {
-        "source_ref": "Deuteronomy 13:11 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 11,
-            "source_ref": "Deuteronomy 13:11 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "98771f39bc871fb88ce16884b643b24ee1af58a9027b1c9c0e21820f0bdc5650"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "98771f39bc871fb88ce16884b643b24ee1af58a9027b1c9c0e21820f0bdc5650"
-      },
-      "11": {
-        "source_ref": "Deuteronomy 13:12 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 12,
-            "source_ref": "Deuteronomy 13:12 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "9217614fe397c9217f4de8933916f1e43513cfcaaa250090497fc8f7b4e987ff"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "9217614fe397c9217f4de8933916f1e43513cfcaaa250090497fc8f7b4e987ff"
-      },
-      "12": {
-        "source_ref": "Deuteronomy 13:13 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 13,
-            "source_ref": "Deuteronomy 13:13 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "b32dd20a5e28af70edc79e744981d3f3e58a7ba78a596df70216d62a09b46774"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "b32dd20a5e28af70edc79e744981d3f3e58a7ba78a596df70216d62a09b46774"
-      },
-      "13": {
-        "source_ref": "Deuteronomy 13:14 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 14,
-            "source_ref": "Deuteronomy 13:14 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "49f0a39e55bf508aeb8ec1dd93e3167b5bb796d76fdbddd8c562c93df0cbb784"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "49f0a39e55bf508aeb8ec1dd93e3167b5bb796d76fdbddd8c562c93df0cbb784"
-      },
-      "14": {
-        "source_ref": "Deuteronomy 13:15 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 15,
-            "source_ref": "Deuteronomy 13:15 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "11010b6d20a30112202f7c8a0f364fb16b5c9f168ecc8e8152fba55015e9b252"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "11010b6d20a30112202f7c8a0f364fb16b5c9f168ecc8e8152fba55015e9b252"
-      },
-      "15": {
-        "source_ref": "Deuteronomy 13:16 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 16,
-            "source_ref": "Deuteronomy 13:16 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "ecfe5edd4ac2d025da34bdfaa158ed0be418c100e24bd55259a6a01de2401623"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "ecfe5edd4ac2d025da34bdfaa158ed0be418c100e24bd55259a6a01de2401623"
-      },
-      "16": {
-        "source_ref": "Deuteronomy 13:17 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 17,
-            "source_ref": "Deuteronomy 13:17 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "1e0a25711934c8912fc094dc7db9311b871673114a71370212fc168af443523c"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "1e0a25711934c8912fc094dc7db9311b871673114a71370212fc168af443523c"
-      },
-      "17": {
-        "source_ref": "Deuteronomy 13:18 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 18,
-            "source_ref": "Deuteronomy 13:18 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "6709499a1a28d59bb847ec5decf1d18982c8f712b755359904ac973acbc61af6"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "6709499a1a28d59bb847ec5decf1d18982c8f712b755359904ac973acbc61af6"
-      },
-      "18": {
-        "source_ref": "Deuteronomy 13:19 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 19,
-            "source_ref": "Deuteronomy 13:19 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "006f2a24d3629e800f5bcfa78787337554d17edf2a8ed7442ec94f1249415a17"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "006f2a24d3629e800f5bcfa78787337554d17edf2a8ed7442ec94f1249415a17"
-      }
+    "sha256": "aad16a6a2dcbdc6ee36d7d051e80a63bfeb69ecaae19f775ec5b6aa67fe22355",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Deut.xml",
+    "verse_hash_method": "SHA-256 of the exact original XML verse substring, including written/read notes, not a normalized substitute.",
+    "public_versification_note": "Public Deuteronomy 13:1–18 binds Hebrew 13:2–19; chapters 14–18 align directly. Hebrew 13:1 is excluded because the preceding batch binds it to public 12:32. All 134 original XML records, including their written/read and numbering notes, are hashed in full."
+  },
+  "chapter_binding": {
+    "chapter": 13,
+    "verse_count": 18,
+    "path": "translations/fluent/OT/deuteronomy/Deuteronomy_13.md",
+    "before_sha256": "9a7b1dccbf6decf53782e89c02e3e125dfa04992b54eeced9b01cf0962923ce6",
+    "after_sha256": "760dae30ffb05b83a7ee4a4368cd14eda13b8b515bc1ec2f5ad9e63fcad985e4",
+    "tsw_comparator_path": "books/OT/deuteronomy/Deuteronomy_13.md",
+    "tsw_comparator_sha256": "a4c30d9edb7b4d7d96981a9f963b6123637f71d12f3686bb5f70aa5f67ca1d1b"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-13-deuteronomy-13-18/deuteronomy-verse-review.json",
+  "public_versification": {
+    "1–18": "Deut 13:2–19"
+  },
+  "key_decisions": [
+    {
+      "location": "Deuteronomy 13:2",
+      "delta": "F3",
+      "decision": "Keeps the sign's actual fulfillment; the problem is the invitation to other gods, not a failed prediction.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 13:3",
+      "delta": "F3",
+      "decision": "Retains God's testing to know and the full heart-and-soul formula without explaining away the stated purpose.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 13:5",
+      "delta": "F3",
+      "decision": "States execution and its grounds explicitly; preserves redemption, walking imagery, and the recurring purge formula.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 13:6",
+      "delta": "F3",
+      "decision": "Retains the specifically maternal brother, wife of the bosom, and friend like one's own life rather than flattening the list to relatives.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 13:9",
+      "delta": "F3",
+      "decision": "Keeps the addressee's first participation in killing, followed by the community; does not soften the law to exclusion.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 13:10",
+      "delta": "F3",
+      "decision": "Names the lethal method and repeats the slavery-deliverance ground rather than replacing it with a cross-reference.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 13:13",
+      "delta": "F3",
+      "decision": "Renders sons of belial as wicked men, not a reference to a named supernatural being; preserves their origin within Israel.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 13:15",
+      "delta": "F3",
+      "decision": "Retains collective killing, livestock, and repeated sword language; that town follows the feminine reading without duplicating the written/read pronoun.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 13:16",
+      "delta": "F3",
+      "decision": "Keeps the central square, complete burning to God, perpetual ruin, and rebuilding prohibition; whole offering renders kalil without substituting the usual burnt-offering noun.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "Deuteronomy 13:17",
+      "delta": "F3",
+      "decision": "Preserves the clinging-to-hand image, distinct mercy terms, and population increase under the ancestral oath.",
+      "disposition": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/deuteronomy/Deuteronomy_13.md",
-    "blob_sha": "0084cb1a87c869d6644829063c744d13d6733415"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -4,129 +4,94 @@ testament: OT
 chapter: 16
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-13-18-biblical-fluency-2026-09-13
 ---
 
-## Keep the Passover
+## Passover and Unleavened Bread
 
 <p>
-v01: “Keep the month of Abib and make the Passover to the LORD your God, for in the month of Abib the LORD your God brought you out from Egypt by night.
+v01: “Observe the month of Abib and keep the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night.
+v02: Sacrifice the Passover to the LORD your God from your flocks and herds, at the place the LORD chooses for his name to dwell.
+v03: Do not eat leavened bread with it. For seven days eat unleavened bread, the bread of affliction, because you left Egypt in haste. Do this so that you remember the day you came out of Egypt all the days of your life.
+v04: No leaven is to be seen anywhere in your territory for seven days. None of the meat you sacrifice on the evening of the first day may remain until morning.
+</p>
 
-v02: You will sacrifice the Passover to the LORD your God from flock and herd in the place that the LORD will choose to make his name dwell there.
+<p>
+v05: You may not sacrifice the Passover in just any town the LORD your God gives you.
+v06: Sacrifice it only at the place the LORD your God chooses for his name to dwell, in the evening at sunset, at the time you came out of Egypt.
+v07: Cook it and eat it at the place the LORD your God chooses. In the morning you may turn back and go to your tents.
+</p>
 
-v03: You will not eat leavened bread with it. Seven days you will eat unleavened bread with it, the bread of affliction, for in haste you came out from the land of Egypt, so that you may remember the day of your coming out from the land of Egypt all the days of your life.
-
-v04: No leaven will be seen with you in all your territory for seven days, and none of the flesh that you sacrifice in the evening on the first day will remain overnight until morning.
-
-v05: You may not sacrifice the Passover within any of your gates that the LORD your God is giving you.
-
-v06: Rather, at the place that the LORD your God will choose to make his name dwell there, you will sacrifice the Passover in the evening at sunset, at the appointed time of your coming out from Egypt.
-
-v07: You will cook it and eat it at the place that the LORD your God will choose, and in the morning you will turn and go to your tents.
-
-v08: Six days you will eat unleavened bread, and on the seventh day there will be a solemn assembly to the LORD your God. You will do no work.
+<p>
+v08: For six days eat unleavened bread. On the seventh day hold a solemn assembly to the LORD your God; do no work.
 </p>
 
 ## The Festival of Weeks
 
 <p>
-v09: “You will count seven weeks for yourself. From the time the sickle first begins to cut the standing grain, you will begin to count seven weeks.
-
-v10: Then you will make the Festival of Weeks to the LORD your God with the measure of a freewill offering from your hand, which you will give according to how the LORD your God blesses you.
-
-v11: You will rejoice before the LORD your God—you, your son, your daughter, your male servant, your female servant, the Levite who is within your gates, and the resident alien, the orphan, and the widow who are in your midst—at the place that the LORD your God will choose to make his name dwell there.
-
-v12: You will remember that you were a servant in Egypt, and you will keep and do these statutes.
+v09: Count seven weeks. Begin counting when the sickle first cuts the standing grain.
+v10: Then keep the Festival of Weeks to the LORD your God with a freewill offering from your hand, in proportion to the blessing the LORD your God has given you.
+v11: Rejoice before the LORD your God at the place he chooses for his name to dwell—you, your son and daughter, your male and female slave, the Levite in your towns, and the resident foreigner, the fatherless, and the widow among you.
+v12: Remember that you were a slave in Egypt, and take care to carry out these statutes.
 </p>
 
 ## The Festival of Booths
 
 <p>
-v13: “You will make the Festival of Booths for yourself seven days, when you gather in from your threshing floor and your winepress.
-
-v14: You will rejoice in your festival—you, your son, your daughter, your male servant, your female servant, the Levite, the resident alien, the orphan, and the widow who are within your gates.
-
-v15: Seven days you will celebrate to the LORD your God at the place that the LORD will choose, for the LORD your God will bless you in all your produce and in all the work of your hands, and you will be altogether joyful.
+v13: Keep the Festival of Booths for seven days, when you gather in the produce from your threshing floor and winepress.
+v14: Rejoice at your festival—you, your son and daughter, your male and female slave, the Levite, the resident foreigner, the fatherless, and the widow in your towns.
+v15: For seven days celebrate to the LORD your God at the place the LORD chooses. The LORD your God will bless all your produce and all the work of your hands, and you are to be wholly joyful.
 </p>
 
-## Three Times a Year
-
 <p>
-v16: “Three times in the year every male among you will appear before the LORD your God at the place that he will choose: at the Festival of Unleavened Bread, at the Festival of Weeks, and at the Festival of Booths. No one will appear before the LORD empty-handed.
-
-v17: Each will give according to the gift of his hand, according to the blessing of the LORD your God that he has given you.
+v16: Three times a year all your males must appear before the LORD your God at the place he chooses: at the Festival of Unleavened Bread, the Festival of Weeks, and the Festival of Booths. No one is to appear before the LORD empty-handed.
+v17: Each is to bring a gift in keeping with the blessing the LORD your God has given you.
 </p>
 
-## Appoint Judges and Officers
+## Judges and Justice
 
 <p>
-v18: “You will appoint judges and officers for yourself within all your gates that the LORD your God is giving you according to your tribes, and they will judge the people with righteous judgment.
-
-v19: You will not distort justice. You will not show partiality, and you will not take a bribe, for a bribe blinds the eyes of the wise and twists the words of the righteous.
-
-v20: Justice, justice you will pursue, so that you may live and possess the land that the LORD your God is giving you.
+v18: Appoint judges and officers for your tribes in every town the LORD your God gives you. They must judge the people with justice.
+v19: Do not twist justice, show favoritism, or accept a bribe. A bribe blinds the eyes of the wise and twists the words of the righteous.
+v20: Justice, justice you must pursue, so that you may live and possess the land the LORD your God is giving you.
 </p>
 
-## No Asherah beside the LORD’s Altar
+## Worship without Sacred Trees or Stones
 
 <p>
-v21: “You will not plant for yourself an Asherah of any kind of tree beside the altar of the LORD your God that you make for yourself.
-
-v22: And you will not set up for yourself a pillar, which the LORD your God hates.
+v21: Do not plant any tree as an Asherah beside the altar you make for the LORD your God.
+v22: Do not set up a standing stone; the LORD your God hates it.”
 </p>
 
 ## Notes
 
-v01: Deuteronomy’s Passover instructions centralize sacrifice at the chosen place while retaining the exodus memory of Abib and night departure.
+v1: Abib is the spring month associated with ripening grain; the calendar here connects it with departure from Egypt.
 
-v02: “flock and herd” broadens the sacrificial description beyond the lamb or goat emphasized in Exodus 12, likely including festival sacrifices associated with Passover.
+v2: “Flocks and herds” is retained as written. This festival instruction is not narrowed to the sheep-or-goat specification for the Passover animal in Exodus 12.
 
-v03: Unleavened bread is called “bread of affliction,” linking the festival both to hurried departure and remembered hardship.
+v7: The verb bashal can mean “boil” and is also used more broadly for cooking. “Cook” preserves that range here rather than silently replacing the verb with “roast.”
 
-v08: The seventh-day solemn assembly completes the festival period, though the preceding verse places Passover itself at the chosen sanctuary.
+v8: Verses 3–4 specify seven days without leaven. This verse describes six days followed by the seventh day’s solemn assembly; it is not rendered as permission to eat leaven on that day.
 
-v09: The Festival of Weeks is counted from the beginning of grain harvest rather than by a fixed calendar date in this chapter.
+v11–16: The feast lists include sons and daughters, male and female slaves, and people needing community provision. Verse 16 specifically requires all males to appear at the three annual festivals.
 
-v11, v14: Festival joy is explicitly inclusive of servants, Levites, resident aliens, orphans, and widows.
+v20: The Hebrew repeats “justice.” The repetition is kept because it gives the command its force.
 
-v12: Memory of slavery again becomes an ethical and liturgical obligation.
-
-v18–20: The chapter moves from worship festivals to judicial institutions, linking covenant life in sanctuary and city gate.
-
-v20: “Justice, justice” is emphatic repetition. The community’s continued life in the land is tied to pursuing justice.
-
-v21–22: The prohibition prevents the LORD’s altar from being combined with cultic symbols associated with other worship.
+v21: An Asherah is a cult object associated with the goddess Asherah, often a wooden pole or tree. Here the command uses the language of planting a tree beside the LORD’s altar.
 
 ## Vocabulary
 
-v01: פֶּסַח (pesach)
-“Passover.” The festival remembering deliverance from Egypt.
+v3: Unleavened bread
+Bread made without leaven; here it recalls affliction and the haste of leaving Egypt.
 
-v03: לֶחֶם עֹנִי (lechem oni)
-“Bread of affliction.” Unleavened bread tied to exodus hardship.
+v10: Festival of Weeks
+The harvest festival counted seven weeks from the first cutting of grain.
 
-v08: עֲצֶרֶת (atseret)
-“Solemn assembly.” A sacred concluding gathering.
+v13: Booths
+Temporary shelters; the festival bearing this name occurs at the ingathering.
 
-v10: חַג שָׁבֻעוֹת (chag shavuot)
-“Festival of Weeks.” The grain-harvest pilgrimage festival.
-
-v13: חַג הַסֻּכּוֹת (chag ha-sukkot)
-“Festival of Booths.” The autumn ingathering festival.
-
-v18: שֹׁפֵט (shofet)
-“Judge.” One appointed to administer justice.
-
-v19: שֹׁחַד (shochad)
-“Bribe.” A payment that corrupts judgment.
-
-v20: צֶדֶק (tsedeq)
-“Justice” or “righteousness.” Repeated for emphasis.
-
-v20: צֶדֶק (tsedeq)
-“Justice” or “righteousness.” The word is repeated in the command, “Justice, justice you shall pursue.”
-
-v21: אֲשֵׁרָה (Asherah)
-“Asherah.” A cultic tree or pole associated with rival worship.
-
-v22: מַצֵּבָה (matsevah)
-“Pillar.” A standing cultic stone.
+v18: Justice
+Right judgment, which the following verses contrast with favoritism and bribery.

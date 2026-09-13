@@ -211,16 +211,21 @@
       "scope": "Deuteronomy 7–12",
       "verses": 161,
       "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-7-12/deuteronomy-verse-review.json"
+    },
+    {
+      "scope": "Deuteronomy 13–18",
+      "verses": 134,
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-13-18/deuteronomy-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Deuteronomy 13–18",
-      "action": "Continue the source-based draft in complete chapters. Public 12:32 already binds Hebrew 13:1; public 13 begins at Hebrew 13:2. Verify all further mapping before reading and drafting, avoiding duplicated or omitted records. Preserve previous batches and independent-review-pending status."
-    },
-    {
       "scope": "Deuteronomy 19–26",
       "action": "Continue the source-based draft in complete chapters after 13–18, preserving exact source bindings and distinct instruction forms."
+    },
+    {
+      "scope": "Deuteronomy 27–34",
+      "action": "Continue the source-based draft in complete chapters after 19–26, preserving exact source bindings and distinct instruction forms."
     }
   ],
   "standards": [

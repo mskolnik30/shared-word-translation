@@ -4,144 +4,104 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-13-18-biblical-fluency-2026-09-13
 ---
 
-## You Are Children of the LORD Your God
+## A People Belonging to the LORD
 
 <p>
-v01: “You are children of the LORD your God. You will not cut yourselves or make baldness between your eyes for the dead.
-
-v02: For you are a people holy to the LORD your God, and the LORD has chosen you to be for him a treasured people from all the peoples who are on the face of the ground.
+v01: “You are children of the LORD your God. Do not cut yourselves or shave a bald patch above your eyes in mourning for the dead.
+v02: For you are a people holy to the LORD your God. Out of all the peoples on the face of the ground, the LORD chose you to be his treasured people.
 </p>
 
-## Animals You May Eat
+## Animals for Food
 
 <p>
-v03: “You will not eat any detestable thing.
-
-v04: These are the animals that you may eat: the ox, the sheep, and the goat;
-
-v05: the deer, the gazelle, the roe deer, the wild goat, the ibex, the antelope, and the mountain sheep.
-
-v06: Every animal that divides the hoof, having the hoof split in two, and chews the cud among the animals, you may eat.
-
-v07: But these you will not eat from those that chew the cud or divide the split hoof: the camel, the hare, and the rock badger, for they chew the cud but do not divide the hoof; they are unclean for you.
-
-v08: And the pig, because it divides the hoof but does not chew the cud, is unclean for you. You will not eat their flesh or touch their carcasses.
+v03: Do not eat anything detestable.
+v04: These are the animals you may eat: cattle, sheep, goats,
+v05: deer, gazelle, fallow deer, wild goat, antelope, wild ox, and mountain sheep.
+v06: You may eat any animal that has a hoof divided into two parts and also chews the cud.
+v07: But among animals that chew the cud or have divided hooves, do not eat the camel, the hare, or the hyrax. They chew the cud but do not have divided hooves, so they are unclean for you.
+v08: The pig is also unclean for you: it has divided hooves but does not chew the cud. Do not eat their meat or touch their carcasses.
 </p>
 
-## Creatures from the Water
-
 <p>
-v09: “These you may eat from all that are in the waters: whatever has fins and scales you may eat.
-
-v10: But whatever does not have fins and scales you will not eat; it is unclean for you.
+v09: Of all the creatures in the water, you may eat those with fins and scales.
+v10: Do not eat any that do not have both fins and scales; they are unclean for you.
 </p>
 
-## Birds You May and May Not Eat
+## Flying Creatures
 
 <p>
-v11: “Every clean bird you may eat.
-
-v12: But these are the ones you will not eat: the eagle, the vulture, and the black vulture;
-
-v13: the red kite, the falcon, and the kite according to its kind;
-
-v14: every raven according to its kind;
-
-v15: the ostrich, the owl, the gull, and the hawk according to its kind;
-
-v16: the little owl, the great owl, and the white owl;
-
-v17: the pelican, the carrion vulture, and the cormorant;
-
-v18: the stork and the heron according to its kind, the hoopoe, and the bat.
-
-v19: Every winged swarming thing is unclean for you; they will not be eaten.
-
-v20: Every clean flying creature you may eat.
+v11: You may eat any clean bird.
+v12: But these you must not eat: the eagle, the bearded vulture, the black vulture,
+v13: the kite, the falcon, every kind of dayyah,
+v14: every kind of raven,
+v15: the ostrich, the nighthawk, the gull, every kind of hawk,
+v16: the little owl, the great owl, the barn owl,
+v17: the pelican, the carrion vulture, the cormorant,
+v18: the stork, every kind of heron, the hoopoe, and the bat.
 </p>
 
-## A People Holy to the LORD
-
 <p>
-v21: “You will not eat anything that dies by itself. You may give it to the resident alien who is within your gates so that he may eat it, or you may sell it to a foreigner, for you are a people holy to the LORD your God.
-
-You will not boil a young goat in its mother’s milk.
+v19: All winged swarming creatures are unclean for you. They must not be eaten.
+v20: You may eat any clean flying creature.
 </p>
 
-## Tithe the Produce of Your Seed
-
 <p>
-v22: “You will surely tithe all the produce of your seed that comes out from the field year by year.
-
-v23: You will eat before the LORD your God, in the place that he will choose to make his name dwell there, the tithe of your grain, new wine, and oil, and the firstborn of your herd and flock, so that you may learn to fear the LORD your God all the days.
-
-v24: But if the way is too long for you, so that you are not able to carry it because the place that the LORD your God will choose to put his name there is too far from you, when the LORD your God blesses you,
-
-v25: then you will turn it into silver, bind the silver in your hand, and go to the place that the LORD your God will choose.
-
-v26: You may spend the silver for whatever your life desires: cattle, sheep, wine, strong drink, or whatever your life asks of you. You will eat there before the LORD your God, and you will rejoice, you and your household.
-
-v27: And the Levite who is within your gates you will not abandon, for he has no portion or inheritance with you.
+v21: Do not eat an animal found dead. You may give it to the resident foreigner in your town to eat, or sell it to a foreigner. For you are a people holy to the LORD your God. Do not boil a young goat in its mother's milk.
 </p>
 
-## The Tithe of the Third Year
+## A Tithe Shared before the LORD
 
 <p>
-v28: “At the end of every three years you will bring out all the tithe of your produce in that year and deposit it within your gates.
+v22: Set aside a tenth of all the produce from the seed you sow, all that your field yields year after year.
+v23: Eat the tithe of your grain, new wine, and oil, along with the firstborn of your herds and flocks, before the LORD your God at the place he chooses for his name to dwell. In this way you will learn to fear the LORD your God always.
+</p>
 
-v29: Then the Levite, because he has no portion or inheritance with you, and the resident alien, the orphan, and the widow who are within your gates will come and eat and be satisfied, so that the LORD your God may bless you in all the work of your hand that you do.
+<p>
+v24: But if the journey is too long for you to carry it, because the place the LORD your God chooses for his name is far away and the LORD your God has blessed you,
+v25: turn it into silver, tie up the silver in your hand, and travel to the place the LORD your God chooses.
+v26: Spend the silver on whatever you desire—cattle, sheep and goats, wine, strong drink, or anything else you wish. Eat there before the LORD your God and rejoice, you and your household.
+v27: Do not neglect the Levite in your town, who has no share or inheritance with you.
+</p>
+
+## Food Stored for Those in Need
+
+<p>
+v28: At the end of every three years, bring out the whole tithe of that year's produce and store it in your towns.
+v29: Then the Levite, who has no share or inheritance with you, and the resident foreigner, the fatherless, and the widow in your towns can come and eat their fill. Then the LORD your God will bless you in all the work of your hands.”
 </p>
 
 ## Notes
 
-v01: Israel’s identity as “children of the LORD” grounds the prohibition of mourning practices associated with cutting and ritual baldness.
+v1: The cutting and shaved patch are specified as mourning practices for the dead. “Above your eyes” renders the Hebrew location “between your eyes.”
 
-v02: Holiness and election are repeated from Deuteronomy 7:6, framing dietary practice as identity rather than merely nutrition.
+v5: The seven wild-animal names are all retained, but their exact modern species are uncertain. “Antelope,” “wild ox,” and “mountain sheep,” in particular, are approximate identifications.
 
-v05: Identification of several wild animals is uncertain. TSW uses conventional English names without claiming exact zoological certainty.
+v7: The translation preserves the text’s description of the hare and hyrax as chewing the cud. This is an ancient classification, not a claim that its categories match modern zoology.
 
-v07: Ancient classification describes the hare and rock badger as chewing the cud according to observable jaw movement. The text uses Israel’s traditional animal categories rather than modern biological taxonomy.
+v12–18: Several bird identifications are uncertain. The Hebrew list includes the bat among flying creatures. Verse 13 has three terms, raah, ayyah, and dayyah; the last is left in Hebrew rather than omitted. It likely names a bird of prey. The list resembles Leviticus 11 but has its own wording and order.
 
-v12–18: Several bird names are rare and difficult to identify precisely. TSW follows common English equivalents while preserving the list structure.
+v21: The “resident foreigner” (ger) lives within the community; the following “foreigner” is nokhri. The verse gives different permissions for these two categories. It does not make the dietary requirement universal.
 
-v21: The distinction between Israelite, resident alien, and foreigner reflects differing covenantal food obligations in the land. The resident alien here may receive carrion even though other Torah texts apply some food rules differently; TSW preserves Deuteronomy’s wording.
+v26: “Strong drink” is shekhar, an intoxicating fermented drink, often understood as beer. The term does not specifically mean modern distilled liquor.
 
-v21: The prohibition on boiling a young goat in its mother’s milk is repeated from Exodus. The text itself does not provide a reason.
-
-v22–27: The tithe is consumed as a celebratory meal before the LORD. If distance makes transport impractical, produce may be converted into silver and reconverted into food and drink at the chosen place.
-
-v28–29: The third-year tithe is local and explicitly supports Levites, resident aliens, orphans, and widows.
+v28–29: The third-year tithe is stored locally for the named recipients to eat. This instruction stands alongside the annual tithe meal at the chosen place in verses 22–27.
 
 ## Vocabulary
 
-v01: בָּנִים (banim)
-“Children” or “sons.” Israel’s filial identity before the LORD.
+v2: Holy
+Set apart as belonging to the LORD.
 
-v02: סְגֻלָּה (segullah)
-“Treasured people.” A specially valued possession.
+v7: Unclean
+A ritual classification; here it identifies animals excluded from Israel’s food.
 
-v03: תּוֹעֵבָה (toevah)
-“Detestable thing.” Something prohibited within covenant holiness.
+v22: Tithe
+A tenth part.
 
-v06: מַפְרֶסֶת פַּרְסָה (mafereset parsah)
-“Dividing the hoof.” A dietary classification.
-
-v07: גֵּרָה (gerah)
-“Cud.” Regurgitated food chewed again.
-
-v21: נְבֵלָה (nevelah)
-“Carcass” or animal that died by itself.
-
-v22: עָשַׂר (asar)
-“To tithe.” To give or set apart a tenth.
-
-v23: מַעֲשֵׂר (ma'aser)
-“Tithe.” The tenth portion of produce.
-
-v26: שֵׁכָר (shekhar)
-“Strong drink.” Fermented drink distinct from wine.
-
-v29: שָׂבַע (sava)
-“To be satisfied.” The vulnerable are to eat fully.
+v23: Fear the LORD
+Regard the LORD with awe and live in obedience to him.

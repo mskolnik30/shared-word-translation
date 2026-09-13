@@ -4,119 +4,90 @@ testament: OT
 chapter: 18
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-13-18-biblical-fluency-2026-09-13
 ---
 
-## The Portion of the Priests and Levites
+## Provision for Priests and Levites
 
 <p>
-v01: “The Levitical priests, all the tribe of Levi, will have no portion or inheritance with Israel. They will eat the offerings by fire to the LORD and his inheritance.
-
-v02: They will have no inheritance among their brothers. The LORD is their inheritance, as he spoke to them.
-
-v03: And this will be the priest’s due from the people, from people who sacrifice an ox or sheep: they will give the priest the shoulder, the two cheeks, and the stomach.
-
-v04: The first of your grain, your new wine, and your oil, and the first fleece of your sheep, you will give him.
-
-v05: For the LORD your God has chosen him and his sons from all your tribes to stand and minister in the name of the LORD all the days.
+v01: “The Levitical priests, the whole tribe of Levi, are to have no share or inheritance with Israel. They are to eat from the LORD's offerings by fire and the portion allotted to him.
+v02: Levi is to have no inheritance among his brothers. The LORD is his inheritance, as he promised him.
 </p>
 
-## The Levite Who Comes to the Chosen Place
-
 <p>
-v06: “And if a Levite comes from one of your gates, from anywhere in Israel where he sojourns, and comes with all the desire of his life to the place that the LORD will choose,
-
-v07: then he may minister in the name of the LORD his God like all his brothers the Levites who stand there before the LORD.
-
-v08: They will eat equal portions, besides what he receives from the sale of his ancestral property.
+v03: This is the priests' due from the people who slaughter an ox or an animal from the flock: they must give the priest the foreleg, the two cheeks, and the stomach.
+v04: Give him the first of your grain, new wine, and oil, and the first wool you shear from your flock.
+v05: For the LORD your God has chosen him and his sons from all your tribes to stand and serve in the LORD's name for all time.
 </p>
 
-## Do Not Learn the Detestable Practices of the Nations
+<p>
+v06: If a Levite leaves any of your towns in Israel where he has been living and comes, with all his heart's desire, to the place the LORD chooses,
+v07: he may serve in the name of the LORD his God like all his fellow Levites who stand there before the LORD.
+v08: He is to receive an equal share to eat, apart from the proceeds of his ancestral property.
+</p>
+
+## Practices Israel Must Not Learn
 
 <p>
-v09: “When you enter the land that the LORD your God is giving you, you will not learn to do according to the detestable practices of those nations.
+v09: When you enter the land the LORD your God is giving you, do not learn to practice the detestable things those nations do.
+v10: Let no one among you make a son or daughter pass through fire, practice divination, tell fortunes, read omens, or practice sorcery,
+v11: cast spells, consult a medium or a spiritist, or seek guidance from the dead.
+v12: Everyone who does these things is detestable to the LORD. Because of these detestable practices, the LORD your God is driving those nations out before you.
+</p>
 
-v10: There will not be found among you anyone who makes his son or daughter pass through the fire, one who practices divination, an omen-reader, a fortune-teller, a sorcerer,
-
-v11: one who casts spells, one who consults a medium or a spiritist, or one who inquires of the dead.
-
-v12: For everyone who does these things is detestable to the LORD, and because of these detestable things the LORD your God is dispossessing them before you.
-
-v13: You will be blameless with the LORD your God.
-
-v14: For these nations whom you are dispossessing listen to fortune-tellers and diviners, but as for you, the LORD your God has not permitted you to do so.
+<p>
+v13: Be wholehearted toward the LORD your God.
+v14: The nations you are dispossessing listen to fortune-tellers and diviners. But the LORD your God has not permitted you to do that.
 </p>
 
 ## A Prophet Like Moses
 
 <p>
-v15: “The LORD your God will raise up for you a prophet like me from your midst, from your brothers. To him you will listen,
-
-v16: according to all that you asked from the LORD your God at Horeb on the day of the assembly, saying, ‘Let me not continue to hear the voice of the LORD my God or see this great fire any more, lest I die.’
-
-v17: Then the LORD said to me, ‘What they have spoken is good.
-
-v18: I will raise up for them a prophet like you from among their brothers. I will put my words in his mouth, and he will speak to them all that I command him.
-
-v19: And it will be that whoever does not listen to my words that he speaks in my name, I myself will require it from him.
-
-v20: But the prophet who acts presumptuously and speaks a word in my name that I did not command him to speak, or who speaks in the name of other gods, that prophet will die.’
+v15: The LORD your God will raise up for you a prophet like me from among you, from your fellow Israelites. You must listen to him.
+v16: This is what you asked of the LORD your God at Horeb on the day of the assembly, when you said, ‘Let me not hear the voice of the LORD my God again or see this great fire anymore, or I will die.’
 </p>
 
-## How to Recognize a False Word
+<p>
+v17: The LORD said to me, ‘What they have said is good.
+v18: I will raise up for them a prophet like you from among their fellow Israelites. I will put my words in his mouth, and he will tell them everything I command him.
+v19: I myself will hold accountable anyone who does not listen to my words that he speaks in my name.
+v20: But a prophet who presumes to speak in my name a word I have not commanded him to speak, or who speaks in the name of other gods, must die.’
+</p>
 
 <p>
-v21: “And if you say in your heart, ‘How will we know the word that the LORD has not spoken?’
-
-v22: when a prophet speaks in the name of the LORD and the thing does not happen or come to pass, that is a word the LORD has not spoken. The prophet has spoken it presumptuously. You will not fear him.
+v21: You may ask yourselves, ‘How can we recognize a word the LORD has not spoken?’
+v22: If a prophet speaks in the LORD's name and the word does not come true or happen, the LORD has not spoken that word. The prophet has spoken presumptuously. Do not be afraid of him.”
 </p>
 
 ## Notes
 
-v01–02: Levi’s lack of territorial inheritance is again interpreted as priestly vocation rather than deprivation: the LORD himself is their inheritance.
+v1–2: Levi receives no tribal land share alongside the other tribes. The allotted portions of offerings provide food, while the LORD is called Levi’s inheritance. “Offerings by fire” does not mean the priests eat portions already consumed in the fire.
 
-v03: The priestly portions listed here differ in detail from other Torah texts. TSW preserves Deuteronomy’s own allocation rather than harmonizing it.
+v3: The foreleg, two cheeks, and stomach are the portions named here. They are not replaced with the different priestly portions listed in Leviticus.
 
-v06–08: A Levite from a local town may come freely to the chosen sanctuary and serve on equal terms with other Levites there.
+v8: The closing Hebrew phrase is difficult: roughly, “apart from his sales according to the fathers.” “Proceeds of his ancestral property” is one reading; ancestral dues or other family resources have also been proposed. The equal food share is clear, the precise outside resource less so.
 
-v08: The final clause is difficult and may refer to inherited property or family assets. TSW follows the common sense of ancestral property while noting the uncertainty.
+v10: “Make a son or daughter pass through fire” is commonly understood as child sacrifice; compare the explicit burning of children in 12:31. The source’s expression is retained without hiding the likely lethal practice.
 
-v10–11: Deuteronomy gathers a broad range of divinatory and necromantic practices under the category of detestable worship.
+v10–11: The Hebrew names several overlapping forms of divination, sorcery, and consultation with spirits or the dead. Their exact boundaries are uncertain; the translation keeps the individual terms rather than collapsing the list.
 
-v13: “blameless” means whole or undivided in covenant loyalty, not morally flawless in an abstract sense.
+v13: Tamim can be translated “blameless” or “whole.” “Wholehearted” emphasizes undivided allegiance in this setting.
 
-v15–18: The promised prophet arises from Israel and continues Moses’ mediating role by speaking words placed in his mouth by the LORD.
-
-v19: The LORD personally holds accountable the one who refuses the true prophetic word.
-
-v20: The death penalty for false prophecy belongs to ancient Israel’s covenantal polity and should not be generalized into modern punishment for religious claims.
-
-v22: Fulfillment is one test of prophecy, but Deuteronomy 13 makes clear that even fulfilled signs cannot validate a message leading to other gods.
+v15–22: The promise speaks of a prophet like Moses and is followed by rules for discerning prophetic speech. The translation preserves the singular wording without inserting a later interpretation into the text. A failed prediction disqualifies the claim in verse 22; 13:1–3 also warns that a fulfilled sign does not justify serving other gods.
 
 ## Vocabulary
 
-v01: נַחֲלָה (nachalah)
-“Inheritance.” Territorial or covenantal portion.
+v3: Priests’ due
+The portion owed to the priests under this instruction.
 
-v03: מִשְׁפַּט הַכֹּהֲנִים (mishpat ha-kohanim)
-“Priests’ due.” The share legally assigned to priests.
+v10: Divination
+Seeking hidden knowledge or guidance through signs or ritual techniques.
 
-v09: תּוֹעֵבָה (toevah)
-“Detestable practice.” Worship incompatible with covenant holiness.
+v11: Medium
+Someone consulted to communicate with spirits or the dead.
 
-v10: קֶסֶם (qesem)
-“Divination.” Seeking hidden knowledge through forbidden means.
-
-v11: אוֹב (ov)
-“Medium” or spirit-medium. One who claims contact with the dead.
-
-v13: תָּמִים (tamim)
-“Blameless,” “whole,” or “complete.” Undivided covenant loyalty.
-
-v15: נָבִיא (navi)
-“Prophet.” One raised up to speak the LORD’s word.
-
-v20: זִיד (zid)
-“To act presumptuously.” To claim divine authority without command.
-
-v22: יָרֵא (yare)
-“To fear.” Israel need not fear a prophet whose word is false.
+v15: Prophet
+A person who speaks a message received from God; this passage also addresses false claims to that role.

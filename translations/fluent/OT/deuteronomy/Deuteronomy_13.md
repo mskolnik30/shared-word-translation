@@ -4,104 +4,73 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-13-18-biblical-fluency-2026-09-13
 ---
 
-## If a Prophet Entices You to Other Gods
+## A Sign That Leads Away
 
 <p>
-v01: “If a prophet or a dreamer of dreams arises in your midst and gives you a sign or wonder,
-
-v02: and the sign or wonder that he spoke to you happens, saying, ‘Let us go after other gods whom you have not known and let us serve them,’
-
-v03: you will not listen to the words of that prophet or that dreamer of dreams, for the LORD your God is testing you to know whether you love the LORD your God with all your heart and with all your life.
-
-v04: After the LORD your God you will walk, him you will fear, his commandments you will keep, his voice you will listen to, him you will serve, and to him you will cling.
-
-v05: But that prophet or that dreamer of dreams will be put to death, because he spoke rebellion against the LORD your God, who brought you out from the land of Egypt and redeemed you from the house of slavery, to turn you aside from the way in which the LORD your God commanded you to walk. So you will remove the evil from your midst.
+v01: “If a prophet or someone who dreams dreams appears among you and gives you a sign or a wonder,
+v02: and the sign or wonder comes true, but that person says, ‘Let us follow other gods’—gods you have not known—‘and serve them,’
+v03: do not listen to that prophet or dreamer. The LORD your God is testing you to know whether you love the LORD your God with all your heart and all your soul.
+v04: Follow the LORD your God and fear him. Keep his commands, listen to his voice, serve him, and hold fast to him.
+v05: That prophet or dreamer must be put to death for urging rebellion against the LORD your God, who brought you out of Egypt and redeemed you from the house of slavery. That person tried to turn you from the way the LORD your God commanded you to walk. You must purge the evil from among you.
 </p>
 
-## If Someone Close to You Entices You
+## Enticement from Someone Close
 
 <p>
-v06: “If your brother, the son of your mother, or your son, your daughter, the wife of your embrace, or your companion who is as your own life secretly entices you, saying, ‘Let us go and serve other gods,’ whom you and your ancestors have not known,
-
-v07: from the gods of the peoples who are around you, near you or far from you, from one end of the earth to the other,
-
-v08: you will not consent to him or listen to him. Your eye will not pity him; you will not spare him or conceal him.
-
-v09: Rather, you will surely put him to death. Your hand will be first against him to put him to death, and afterward the hand of all the people.
-
-v10: You will stone him with stones so that he dies, because he sought to turn you away from the LORD your God, who brought you out from the land of Egypt, from the house of slavery.
-
-v11: Then all Israel will hear and fear and will not again do such an evil thing in your midst.
+v06: Suppose your brother, your own mother's son, or your son or daughter, or the wife you embrace, or a friend as dear as your own life secretly entices you, saying, ‘Let us go and serve other gods’—gods neither you nor your ancestors have known,
+v07: gods of the peoples around you, near or far, from one end of the earth to the other.
 </p>
 
-## If a City Has Turned to Other Gods
+<p>
+v08: Do not agree or listen. Do not let your eye pity that person; do not spare or shield them.
+v09: You must put that person to death. Your hand must be the first raised to kill them, followed by the hands of all the people.
+v10: Stone that person to death for trying to turn you from the LORD your God, who brought you out of Egypt, out of the house of slavery.
+v11: Then all Israel will hear and be afraid, and no one among you will do such an evil thing again.
+</p>
+
+## A Town Led Astray
 
 <p>
-v12: “If you hear in one of your cities that the LORD your God is giving you to live in,
+v12: Suppose you hear a report about one of the towns the LORD your God is giving you to live in,
+v13: that wicked men have gone out from among you and led the town's inhabitants astray, saying, ‘Let us go and serve other gods’—gods you have not known.
+</p>
 
-v13: ‘Worthless men have gone out from your midst and led the inhabitants of their city astray, saying, “Let us go and serve other gods whom you have not known,”’
+<p>
+v14: You must inquire, investigate, and question thoroughly. If the report is true and it is established that this detestable thing has been done among you,
+v15: you must strike down that town's inhabitants with the sword. Devote the town and everything in it to destruction, including its livestock, by the sword.
+</p>
 
-v14: then you will inquire, search, and investigate carefully. And look, if the thing is true and established that this detestable thing has been done in your midst,
-
-v15: you will surely strike the inhabitants of that city with the edge of the sword. Devote it and all that is in it to destruction, including its livestock, with the edge of the sword.
-
-v16: You will gather all its spoil into the middle of its open square and burn the city and all its spoil with fire as a whole offering to the LORD your God. It will be a ruin forever; it will not be rebuilt.
-
-v17: Nothing from what is devoted to destruction will cling to your hand, so that the LORD may turn from his burning anger and give you compassion and have compassion on you and multiply you, as he swore to your ancestors,
-
-v18: when you listen to the voice of the LORD your God, keeping all his commandments that I command you today and doing what is right in the eyes of the LORD your God.
+<p>
+v16: Gather all its plunder into the middle of its square. Burn the town and all its plunder as a whole offering to the LORD your God. It must remain a mound of ruins forever, never to be rebuilt.
+v17: Let nothing devoted to destruction cling to your hand. Then the LORD will turn from his fierce anger, show you mercy and compassion, and increase your numbers as he swore to your ancestors,
+v18: as you listen to the LORD your God, keeping all his commands that I give you today and doing what is right in his eyes.”
 </p>
 
 ## Notes
 
-v01–05: Even a fulfilled sign does not validate a prophet who directs Israel toward other gods. Covenant loyalty is the decisive test of prophetic legitimacy.
+v1–18: These verse numbers follow the public chapter division. In the pinned Hebrew text they are 13:2–19; its 13:1 appears here as 12:32.
 
-v03: The LORD is said to “test” Israel through the false claimant, exposing whether love of God governs the community more deeply than miraculous experience.
+v1–3: A sign may come true and still accompany a call to serve other gods. Compare 18:21–22, where a prediction that fails is a reason to reject the speaker.
 
-v05: The death penalty belongs to ancient Israel’s covenantal legal order. TSW preserves the law without generalizing it into a modern mandate for punishing religious disagreement.
+v6: “The wife you embrace” renders “the wife of your bosom”; the friend is literally “like your own life.” The law deliberately names the closest relationships.
 
-v06: The sequence moves through the closest possible relationships—sibling, child, spouse, intimate companion—to insist that covenant allegiance cannot be overridden by private loyalty.
+v15–17: “Devoted to destruction” translates the ban, herem. Here it entails killing the inhabitants and livestock, burning the town and its plunder, and keeping none of it. The Hebrew written/read forms in verse 15 differ in the gender of the pronoun referring to the town; the reading is feminine.
 
-v09: The accuser’s hand being first reflects the gravity of testimony in capital cases and anticipates the legal requirement for witnesses elsewhere in Deuteronomy.
-
-v13: “worthless men” is a Hebrew idiom describing destructive or lawless people, not a claim that human beings lack inherent worth.
-
-v14: The required inquiry, search, and careful investigation places evidentiary restraint before communal punishment.
-
-v15–16: The *herem* command against an apostate city is extremely severe. It belongs to Deuteronomy’s particular covenantal polity and is not transferable as a general principle of religious violence.
-
-v17: Israel is forbidden to profit from the condemned city. Nothing placed under the ban may become private spoil.
+v16: “As a whole offering” renders kalil, “entirely” or “a whole offering.” The wording presents the complete burning as an offering to the LORD; it is not the usual noun for a burnt offering.
 
 ## Vocabulary
 
-v01: נָבִיא (navi)
-“Prophet.” One who claims to speak a divine word.
+v5: Redeem
+To secure release; here, the LORD freed Israel from slavery.
 
-v01: חֹלֵם חֲלוֹם (cholem chalom)
-“Dreamer of dreams.” One who claims revelation through dreams.
+v5: Purge
+Remove from the community. In these laws the command accompanies a death penalty.
 
-v03: נָסָה (nasah)
-“To test.” To expose covenant loyalty.
-
-v04: דָּבַק (davaq)
-“To cling.” Persistent attachment to the LORD.
-
-v05: סָרָה (sarah)
-“Rebellion.” Speech that turns people away from the LORD.
-
-v06: סוּת (sut)
-“To entice” or “incite.” Secret persuasion toward other gods.
-
-v13: בְּנֵי בְלִיַּעַל (bene beliyya'al)
-“Worthless men.” A Hebrew idiom for destructive lawlessness.
-
-v14: חָקַר (chaqar)
-“To investigate.” Careful examination before judgment.
-
-v15: חָרַם (charam)
-“To devote to destruction.” To place under irrevocable ban.
-
-v17: רַחֲמִים (rachamim)
-“Compassion.” Mercy promised after obedient removal of what is under the ban.
+v15: Devoted to destruction
+Placed under a ban that removes people and goods from ordinary use; this passage spells out the destruction it requires.

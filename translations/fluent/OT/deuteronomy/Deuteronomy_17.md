@@ -4,116 +4,87 @@ testament: OT
 chapter: 17
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-13-18-biblical-fluency-2026-09-13
 ---
 
-## Sacrifices without Defect
+## Offerings without Defects
 
 <p>
-v01: “You will not sacrifice to the LORD your God an ox or sheep that has a defect, any serious flaw, for that is a detestable thing to the LORD your God.
+v01: “Do not sacrifice to the LORD your God an ox or an animal from your flock with a blemish or any defect. That is detestable to the LORD your God.
 </p>
 
-## If Someone Serves Other Gods
+## Investigating Covenant Violations
 
 <p>
-v02: “If there is found in your midst, within one of your gates that the LORD your God is giving you, a man or woman who does what is evil in the eyes of the LORD your God by transgressing his covenant,
-
-v03: and goes and serves other gods and bows down to them, or to the sun, moon, or any of the host of the heavens, which I have not commanded,
-
-v04: and it is told to you and you hear of it, then you will inquire carefully. And look, if the thing is true and established that this detestable thing has been done in Israel,
-
-v05: then you will bring out that man or that woman who has done this evil thing to your gates—the man or the woman—and stone them with stones so that they die.
-
-v06: On the mouth of two witnesses or three witnesses the one who is to die will be put to death. The person will not be put to death on the mouth of one witness.
-
-v07: The hand of the witnesses will be first against the person to put him to death, and afterward the hand of all the people. So you will remove the evil from your midst.
+v02: Suppose a man or woman is found among you, in one of the towns the LORD your God gives you, doing evil in the eyes of the LORD your God by breaking his covenant,
+v03: going to serve other gods and bowing down to them—to the sun, the moon, or any of the host of heaven—which I have not commanded.
+v04: When this is reported and you hear of it, investigate thoroughly. If it is true and established that this detestable thing has been done in Israel,
+v05: bring the man or woman who has done this evil to your town gates. Stone that man or woman to death.
 </p>
 
-## Difficult Cases Go to the Chosen Place
-
 <p>
-v08: “If a matter is too difficult for you in judgment, between blood and blood, between legal claim and legal claim, or between injury and injury, matters of dispute within your gates, then you will arise and go up to the place that the LORD your God will choose.
-
-v09: You will come to the Levitical priests and to the judge who is in those days and inquire, and they will declare to you the word of judgment.
-
-v10: You will act according to the word that they declare to you from that place that the LORD will choose, and you will be careful to do according to all that they instruct you.
-
-v11: According to the instruction that they teach you and according to the judgment that they speak to you, you will act. You will not turn aside from the word they declare to you, to the right or to the left.
-
-v12: The man who acts presumptuously and does not listen to the priest who stands to minister there before the LORD your God or to the judge—that man will die. So you will remove the evil from Israel.
-
-v13: All the people will hear and fear and will not act presumptuously again.
+v06: A person may be put to death only on the testimony of two or three witnesses. No one may be put to death on the testimony of just one witness.
+v07: The witnesses' hands must be the first raised to put the person to death, followed by the hands of all the people. You must purge the evil from among you.
 </p>
 
-## Instructions for a King
+## Cases Too Difficult to Decide
 
 <p>
-v14: “When you enter the land that the LORD your God is giving you and possess it and live in it, and you say, ‘I will set a king over me like all the nations that are around me,’
+v08: If a case in your towns is too difficult for you to decide—whether it concerns bloodshed, legal claims, or injuries—go up to the place the LORD your God chooses.
+v09: Go to the Levitical priests and to the judge serving at that time. Ask them, and they will tell you the judgment.
+</p>
 
-v15: you will surely set over you a king whom the LORD your God chooses. From among your brothers you will set a king over you. You may not put over you a foreign man who is not your brother.
+<p>
+v10: Act according to the decision they give you from that place the LORD chooses. Take care to do everything they instruct you to do.
+v11: Follow the instruction they give and the judgment they pronounce. Do not turn aside from their decision, either to the right or to the left.
+</p>
 
-v16: Only he will not multiply horses for himself or cause the people to return to Egypt in order to multiply horses, for the LORD has said to you, ‘You will never again return by this way.’
+<p>
+v12: Anyone who acts presumptuously by refusing to listen to the priest who stands there to serve the LORD your God, or to the judge, must die. You must purge the evil from Israel.
+v13: Then all the people will hear and be afraid, and they will no longer act presumptuously.
+</p>
 
-v17: He will not multiply wives for himself, lest his heart turn aside, and he will not greatly multiply silver and gold for himself.
+## Limits on a King
 
-v18: And when he sits on the throne of his kingdom, he will write for himself a copy of this instruction in a book, from before the Levitical priests.
+<p>
+v14: When you enter the land the LORD your God is giving you, possess it, and settle there, you may say, ‘Let us set a king over us, like all the nations around us.’
+v15: You must set over you a king whom the LORD your God chooses. Appoint one of your own people as king; you may not put a foreigner over you, someone who is not your fellow Israelite.
+</p>
 
-v19: It will be with him, and he will read in it all the days of his life, so that he may learn to fear the LORD his God, keeping all the words of this instruction and these statutes, to do them,
+<p>
+v16: He must not accumulate horses for himself or send the people back to Egypt to obtain more horses. The LORD has told you, ‘You must never go back that way again.’
+v17: He must not take many wives, lest his heart turn away. Nor may he accumulate great amounts of silver and gold for himself.
+</p>
 
-v20: so that his heart is not lifted up above his brothers and so that he does not turn aside from the commandment to the right or to the left, so that he may prolong days over his kingdom, he and his sons, among Israel.
+<p>
+v18: When he takes his royal throne, he must write for himself on a scroll a copy of this instruction, from the one kept by the Levitical priests.
+v19: It must stay with him, and he must read it all the days of his life, so that he learns to fear the LORD his God and takes care to practice all the words of this instruction and these statutes.
+v20: Then his heart will not rise above his fellow Israelites, and he will not turn from the command to the right or to the left. In this way he and his sons may reign long in Israel.”
 </p>
 
 ## Notes
 
-v01: Sacrificial wholeness expresses the honor due to the LORD. A defective offering is called a detestable thing because it withholds proper devotion.
+v3: “Which I have not commanded” preserves the first person in Moses’ speech. The divine command is voiced through Moses without an explicit new speaker introduction.
 
-v02–07: Capital punishment for idolatry belongs to ancient Israel’s covenantal legal structure. TSW preserves the law while not extending its civil penalty to modern religious difference.
+v6–7: The law requires two or three witnesses and requires those witnesses to participate first in the execution. Both the evidentiary restriction and the killing are stated directly.
 
-v04: Careful investigation precedes judgment, echoing Deuteronomy 13 and emphasizing evidentiary restraint.
+v8: The Hebrew pairs “blood with blood,” “judgment with judgment,” and “injury with injury,” describing distinctions too difficult for the local court. The last term, nega, can also mean an affliction or skin lesion; ritual questions may be included.
 
-v06: Two or three witnesses are required in a capital case; one witness cannot establish a death sentence.
-
-v08: The categories “blood and blood,” “claim and claim,” and “injury and injury” are legal idioms for difficult distinctions within homicide, civil disputes, and bodily injury.
-
-v09–12: Priestly and judicial authorities at the chosen place function as a higher court for cases local judges cannot resolve.
-
-v14: Deuteronomy anticipates monarchy without presenting the desire to be “like all the nations” as the foundation of faithful kingship.
-
-v16: The king’s power is restricted militarily and economically. Horses symbolize military buildup and dangerous dependence on Egypt.
-
-v17: Multiplication of wives and wealth is prohibited because royal accumulation threatens covenant loyalty and equality.
-
-v18: The king is placed under written instruction. He does not create Torah; he copies, reads, learns, and obeys it.
-
-v20: The king remains a “brother” among Israelites. Torah is intended to prevent royal self-exaltation.
+v18: “A copy of this instruction” translates mishneh hattorah hazzot. “From the one kept by the Levitical priests” renders the phrase “from before the Levitical priests”; their custody or supervision supplies the authorized basis for the king’s copy.
 
 ## Vocabulary
 
-v01: מוּם (mum)
-“Defect” or “blemish.” A disqualifying flaw in a sacrificial animal.
+v3: Host of heaven
+The heavenly array, including the celestial bodies named here.
 
-v02: עָבַר בְּרִית (avar berit)
-“To transgress a covenant.” To violate covenant obligations.
+v9: Levitical priests
+Priests belonging to the tribe of Levi.
 
-v04: דָּרַשׁ (darash)
-“To inquire” or “investigate.” Careful legal examination.
+v12: Presumptuously
+With deliberate defiance, claiming the right to disregard the judgment.
 
-v06: עֵד (ed)
-“Witness.” One whose testimony establishes a matter.
-
-v08: פָּלָא (pala)
-“To be too difficult.” A case beyond local judicial capacity.
-
-v11: תּוֹרָה (torah)
-“Instruction.” The authoritative teaching given through priestly judgment.
-
-v12: זִיד (zid)
-“To act presumptuously.” Defiant refusal of legitimate judgment.
-
-v15: מֶלֶךְ (melekh)
-“King.” A ruler whose power is restricted under covenant instruction.
-
-v18: מִשְׁנֵה הַתּוֹרָה (mishneh ha-torah)
-“Copy of the instruction.” A written copy for the king.
-
-v20: רוּם לֵב (rum lev)
-“To lift up the heart.” Royal self-exaltation over fellow Israelites.
+v18: Instruction
+Torah: teaching or direction, including the commands governing the king.

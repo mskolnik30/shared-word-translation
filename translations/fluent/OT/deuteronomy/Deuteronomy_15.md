@@ -4,124 +4,92 @@ testament: OT
 chapter: 15
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-deuteronomy-13-18-biblical-fluency-2026-09-13
 ---
 
 ## The Year of Release
 
 <p>
-v01: “At the end of every seven years you will make a release.
-
-v02: And this is the manner of the release: every creditor will release what he has lent to his neighbor. He will not press his neighbor or his brother, because the LORD’s release has been proclaimed.
-
-v03: You may press a foreigner, but whatever of yours is with your brother your hand will release.
+v01: “At the end of every seven years, grant a release of debts.
+v02: This is how the release works: every creditor must release the claim on what they have lent their neighbor. They must not press their neighbor, their fellow Israelite, for payment, because the LORD's release has been proclaimed.
+v03: You may demand payment from a foreigner, but you must release your claim on whatever your fellow Israelite owes you.
 </p>
 
-## There Should Be No Poor among You
-
 <p>
-v04: “Indeed, there should be no poor among you, for the LORD will surely bless you in the land that the LORD your God is giving you as an inheritance to possess,
-
-v05: if only you diligently listen to the voice of the LORD your God, being careful to do all this commandment that I command you today.
-
-v06: For the LORD your God will bless you as he spoke to you. You will lend to many nations, but you will not borrow. You will rule over many nations, but they will not rule over you.
+v04: Yet there should be no poor among you, for the LORD will surely bless you in the land the LORD your God is giving you to possess as an inheritance,
+v05: if only you listen carefully to the LORD your God and take care to carry out every command I give you today.
+v06: The LORD your God will bless you as he promised. You will lend to many nations but borrow from none. You will rule over many nations, and they will not rule over you.
 </p>
 
-## Open Your Hand to the Poor
+## Open Your Hand
 
 <p>
-v07: “If there is among you a poor person, one of your brothers, within one of your gates in your land that the LORD your God is giving you, you will not harden your heart or close your hand against your poor brother.
-
-v08: Rather, you will surely open your hand to him and surely lend him enough for his need, whatever he lacks.
-
-v09: Guard yourself, lest there be a worthless thought in your heart, saying, ‘The seventh year, the year of release, is near,’ and your eye be evil against your poor brother and you give him nothing. Then he may cry against you to the LORD, and it will be sin in you.
-
-v10: You will surely give to him, and your heart will not be grieved when you give to him, for because of this thing the LORD your God will bless you in all your work and in all to which you put your hand.
-
-v11: For the poor will never cease from the midst of the land. Therefore I command you, saying, ‘You will surely open your hand to your brother, to your needy and to your poor in your land.’
+v07: If anyone among your fellow Israelites is poor in any town in the land the LORD your God is giving you, do not harden your heart or close your hand against your poor neighbor.
+v08: Open your hand wide. Lend enough to meet the need.
 </p>
 
-## Release Hebrew Servants in the Seventh Year
-
 <p>
-v12: “If your brother, a Hebrew man or Hebrew woman, is sold to you and serves you six years, then in the seventh year you will send that person free from you.
-
-v13: And when you send that person free from you, you will not send him away empty-handed.
-
-v14: You will surely furnish him from your flock, your threshing floor, and your winepress. From that with which the LORD your God has blessed you, you will give to him.
-
-v15: You will remember that you were a servant in the land of Egypt and the LORD your God redeemed you. Therefore I command you this thing today.
-
-v16: But if he says to you, ‘I will not go out from you,’ because he loves you and your household, because it is good for him with you,
-
-v17: then you will take an awl and put it through his ear into the door, and he will be your servant permanently. You will do likewise to your female servant.
-
-v18: It will not be difficult in your eyes when you send him free from you, for six years he has served you for twice the wages of a hired worker. And the LORD your God will bless you in all that you do.
+v09: Watch out for this wicked thought in your heart: ‘The seventh year, the year of release, is near.’ Do not look grudgingly at your poor neighbor and give nothing. Your neighbor may cry to the LORD against you, and you will be guilty of sin.
+v10: Give generously, without a grudging heart. Because of this, the LORD your God will bless you in all your work and everything you undertake.
+v11: There will always be poor people in the land. That is why I command you to open your hand wide to your fellow Israelite, to the poor and needy in your land.
 </p>
 
-## Consecrate the Firstborn Males
+## Setting Hebrew Slaves Free
 
 <p>
-v19: “Every firstborn male born in your herd or flock you will consecrate to the LORD your God. You will not work with the firstborn of your ox or shear the firstborn of your flock.
+v12: If one of your people, a Hebrew man or woman, is sold to you and serves you for six years, you must set that person free in the seventh year.
+v13: When you set them free, do not send them away empty-handed.
+v14: Supply them generously from your flock, your threshing floor, and your winepress. Give to them from the blessing the LORD your God has given you.
+v15: Remember that you were a slave in Egypt and the LORD your God redeemed you. That is why I give you this command today.
+</p>
 
-v20: Before the LORD your God you and your household will eat it year by year in the place that the LORD will choose.
+<p>
+v16: But suppose he says to you, ‘I will not leave you,’ because he loves you and your household and is well off with you.
+v17: Then take an awl and drive it through his ear into the door. He will be your slave permanently. Do the same for your female slave.
+</p>
 
-v21: But if there is a defect in it—lameness, blindness, or any serious defect—you will not sacrifice it to the LORD your God.
+<p>
+v18: Do not resent setting your slave free. Those six years of service have been worth twice the wages of a hired worker. The LORD your God will bless you in everything you do.
+</p>
 
-v22: Within your gates you may eat it; the unclean and the clean alike may eat it, as the gazelle and the deer.
+## Firstborn Animals
 
-v23: Only you will not eat its blood; you will pour it out upon the ground like water.
+<p>
+v19: Consecrate to the LORD your God every firstborn male from your herds and flocks. Do not put a firstborn ox to work or shear a firstborn animal from your flock.
+v20: Year after year, you and your household are to eat them before the LORD your God at the place the LORD chooses.
+</p>
+
+<p>
+v21: But if an animal has a defect—lameness, blindness, or any serious blemish—do not sacrifice it to the LORD your God.
+v22: You may eat it in your towns, the unclean and the clean together, just as you eat gazelle or deer.
+v23: Only do not eat its blood. Pour it out on the ground like water.”
 </p>
 
 ## Notes
 
-v01–03: The seventh-year “release” concerns debts within the covenant community. The precise extent—temporary suspension or cancellation—has been debated, but the text emphasizes freedom from creditor pressure.
+v1–3: “Release” is shemittah, a letting go of a claim. Readers differ over whether this law cancels the debt permanently or suspends collection for the seventh year. The translation retains the explicit prohibition on pressing a fellow Israelite for payment.
 
-v04, v11: The chapter holds an ideal and a social reality together: “there should be no poor” under covenant blessing, yet “the poor will never cease.” The command therefore makes generosity permanent.
+v4–11: The assurance that there should be no poor is attached to the obedience condition in verse 5. Verse 11 also states that poor people will remain in the land. Both statements are preserved.
 
-v07: Hard heart and closed hand are paired. Economic refusal is treated as a spiritual condition.
+v12–17: The text describes people sold into slavery, both men and women. Freedom after six years and generous provisions are commanded. Verses 16–17 describe a slave who declines release and the bodily mark of permanent service.
 
-v09: The approaching release year must not become an excuse to stop lending to the poor. The law protects access to credit precisely when repayment seems uncertain.
+v17: “Do the same for your female slave” may extend the permanent-service procedure to her or refer more broadly to the release provisions. The short Hebrew clause leaves its scope unstated.
 
-v10: Giving is commanded without inward resentment, joining action and heart.
-
-v12: Both Hebrew men and women are explicitly included in release from debt-servitude.
-
-v14–15: The released servant receives material provision from the master’s own blessed resources. Exodus memory transforms release into generous restoration rather than bare emancipation.
-
-v17: The ear-piercing rite resembles Exodus 21 but explicitly applies also to the female servant here.
-
-v18: “twice the wages” may mean the servant’s six-year labor had economic value equivalent to twice that of a hired worker over comparable time. The exact calculation is not specified.
-
-v19–23: Firstborn livestock are consecrated, but defective animals are treated as ordinary meat rather than sacrificed.
+v18: Literally, “double the wages of a hired worker he has served you six years.” The comparison concerns the value of the service; its precise economic reckoning is not explained.
 
 ## Vocabulary
 
-v01: שְׁמִטָּה (shemittah)
-“Release.” The seventh-year remission of claims.
+v1: Release
+Relinquishing a claim; the term organizes the debt instruction here.
 
-v02: נָגַשׂ (nagas)
-“To press” or “exact.” Creditor pressure forbidden in the release year.
+v14: Threshing floor
+The place where harvested grain is separated from stalks and husks.
 
-v04: אֶבְיוֹן (evyon)
-“Poor” or “needy.”
+v17: Awl
+A pointed tool used to pierce a hole.
 
-v07: אָמַץ לֵב (amats lev)
-“To harden the heart.” To become inwardly resistant to generosity.
-
-v08: פָּתֹחַ תִּפְתַּח (patoach tiftach)
-“You shall surely open.” Emphatic command concerning the hand.
-
-v09: בְּלִיַּעַל (beliyya'al)
-“Worthless” or destructive. Used of the selfish thought refusing aid.
-
-v14: עָנַק (anaq)
-“To furnish generously.” To provide from flock, grain, and wine.
-
-v15: פָּדָה (padah)
-“To redeem.” Israel’s liberation from Egypt grounds servant release.
-
-v17: מַרְצֵעַ (martsea)
-“Awl.” The tool used in the ear-piercing rite.
-
-v19: קָדַשׁ (qadash)
-“To consecrate.” To set apart the firstborn for the LORD.
+v19: Consecrate
+Set apart for the LORD.
