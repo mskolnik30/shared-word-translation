@@ -1,0 +1,733 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-14T12:27:20.880777+00:00",
+  "base_commit": "7116136c16308f2e58843ca64b33c5b6b8dfa177",
+  "scope": "Joshua 18–24 source binding, structure, selected risk assertions and cumulative ledger preservation",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 149,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-16-17/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-18-20/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 94,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-21-22/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-23-25/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-26-27/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-1-2/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 88,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-3-4/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-5-6/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 58,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-7-8/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 115,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-9-10/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 59,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-11-12/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-13-18/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-19-24/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 182,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-25-30/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 193,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-31-36/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 228,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-1-6/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 219,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-7-12/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 161,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-13-18/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-19-26/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 179,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 266,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-1-8/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 186,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-9-17/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 9,
+      "verses": 256,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-18-24/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 216,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 216,
+    "verses": 6618
+  },
+  "structural_chapters": [
+    {
+      "chapter": 18,
+      "verses": 28,
+      "sha256": "897ec42cad8e95cd1ce2e7cc9ec55b8b78abe7650ef5e196699da82ed3f45b17",
+      "headings": [
+        "The assembly at Shiloh",
+        "Seven shares still to be assigned",
+        "Benjamin’s boundaries",
+        "Benjamin’s towns"
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": 51,
+      "sha256": "ec45f44045da31398d544690ac6007136019de6459b77c59676372d62c9f2b39",
+      "headings": [
+        "Simeon’s inheritance",
+        "Zebulun’s inheritance",
+        "Issachar’s inheritance",
+        "Asher’s inheritance",
+        "Naphtali’s inheritance",
+        "Dan’s inheritance",
+        "Joshua’s inheritance"
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": 9,
+      "sha256": "065f0152fe281c55a36df134ce0a551fc6670ce6a68935c34e1ecb5e5cf3c2a0",
+      "headings": [
+        "Cities of refuge",
+        "The six appointed cities"
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": 45,
+      "sha256": "50b34c2ad93a3ec5d2d1757b5050af508cbb27ef101c9c3c2a29a7d366fd2a37",
+      "headings": [
+        "The Levites request towns",
+        "The lots for Levi’s clans",
+        "Towns for Aaron’s descendants",
+        "Towns for the remaining Kohathites",
+        "Towns for the Gershonites",
+        "Towns for the Merarites",
+        "Forty-eight towns",
+        "The promised land and rest"
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": 34,
+      "sha256": "bee70ec81b996adccaea5c36aa4f26dcad4e934f5ddae8aa93ac46987c653b44",
+      "headings": [
+        "The eastern tribes return home",
+        "An altar beside the Jordan",
+        "A delegation challenges the builders",
+        "The eastern tribes explain",
+        "The dispute is resolved"
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": 16,
+      "sha256": "0602360859479902e8c5096640dc7236c0b4eb174b75398d4aeb423c854b1b74",
+      "headings": [
+        "Joshua’s farewell charge",
+        "Hold fast to the instruction",
+        "A warning about turning away",
+        "Not one word has failed"
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": 33,
+      "sha256": "569cd1c0d744a94c8082688c4ee68bf829c70d2d67f5efde4767dd309a2e5629",
+      "headings": [
+        "The assembly at Shechem",
+        "The LORD recounts the journey",
+        "Choose whom you will serve",
+        "Joshua challenges the pledge",
+        "Covenant and a witness stone",
+        "Joshua, Joseph, and Eleazar"
+      ]
+    }
+  ],
+  "first_source_reading_verses": 216,
+  "focused_source_reread_verses": 56,
+  "focused_assertions": {
+    "18:2": [
+      "seven"
+    ],
+    "18:4": [
+      "three men"
+    ],
+    "18:7": [
+      "priestly service",
+      "half"
+    ],
+    "18:15": [
+      "west"
+    ],
+    "18:18": [
+      "Arabah"
+    ],
+    "18:24": [
+      "Chephar-ammonah",
+      "twelve"
+    ],
+    "18:28": [
+      "Gibeath, and Kiriath",
+      "fourteen"
+    ],
+    "19:2": [
+      "Beer-sheba, Sheba"
+    ],
+    "19:6": [
+      "thirteen"
+    ],
+    "19:15": [
+      "twelve"
+    ],
+    "19:22": [
+      "Shahazimah",
+      "sixteen"
+    ],
+    "19:34": [
+      "Judah at the Jordan"
+    ],
+    "19:38": [
+      "nineteen"
+    ],
+    "19:47": [
+      "slipped from their grasp",
+      "put it to the sword"
+    ],
+    "20:3": [
+      "accidentally",
+      "without intending"
+    ],
+    "20:5": [
+      "not previously hated the victim"
+    ],
+    "20:6": [
+      "until standing",
+      "and until the death"
+    ],
+    "20:9": [
+      "resident foreigners",
+      "before standing"
+    ],
+    "21:12": [
+      "fields and villages",
+      "Caleb"
+    ],
+    "21:25": [
+      "Gath-rimmon",
+      "two towns"
+    ],
+    "21:36": [
+      "Bezer",
+      "Jahaz"
+    ],
+    "21:37": [
+      "Kedemoth",
+      "Mephaath",
+      "four towns"
+    ],
+    "21:41": [
+      "forty-eight"
+    ],
+    "21:43": [
+      "all the land"
+    ],
+    "21:45": [
+      "Not one word failed",
+      "It all came to pass"
+    ],
+    "22:14": [
+      "Ten leaders",
+      "each"
+    ],
+    "22:19": [
+      "If",
+      "unclean",
+      "among us"
+    ],
+    "22:20": [
+      "Achan son of Zerah",
+      "did not die alone"
+    ],
+    "22:22": [
+      "The Mighty One, God, the LORD! The Mighty One, God, the LORD!",
+      "do not save us today"
+    ],
+    "22:23": [
+      "burnt offerings",
+      "grain offerings",
+      "peace-offering sacrifices"
+    ],
+    "22:25": [
+      "no share in the LORD"
+    ],
+    "22:27": [
+      "witness",
+      "generations",
+      "no share in the LORD"
+    ],
+    "22:31": [
+      "from the LORD’s hand"
+    ],
+    "22:34": [
+      "Witness"
+    ],
+    "23:4": [
+      "remaining nations",
+      "all the nations I cut off"
+    ],
+    "23:7": [
+      "have oaths sworn"
+    ],
+    "23:10": [
+      "One",
+      "thousand"
+    ],
+    "23:13": [
+      "trap",
+      "snare",
+      "whips",
+      "sides",
+      "thorns",
+      "eyes"
+    ],
+    "23:14": [
+      "going the way of all the earth",
+      "not one word has failed"
+    ],
+    "23:15": [
+      "all the harm",
+      "destroys you"
+    ],
+    "24:7": [
+      "he put darkness",
+      "what I did"
+    ],
+    "24:9": [
+      "Balak",
+      "fought against Israel"
+    ],
+    "24:11": [
+      "Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites"
+    ],
+    "24:12": [
+      "hornet",
+      "two Amorite kings",
+      "not your sword or your bow"
+    ],
+    "24:19": [
+      "cannot serve",
+      "will not forgive"
+    ],
+    "24:23": [
+      "foreign gods among you"
+    ],
+    "24:26": [
+      "God’s instruction",
+      "terebinth",
+      "in the LORD’s sanctuary"
+    ],
+    "24:27": [
+      "against us",
+      "has heard",
+      "against you"
+    ],
+    "24:29": [
+      "one hundred ten"
+    ],
+    "24:32": [
+      "one hundred qesitahs",
+      "sons of Hamor"
+    ],
+    "24:33": [
+      "given to his son Phinehas"
+    ]
+  },
+  "name_and_tally_checks": [
+    {
+      "references": [
+        "Joshua 21:13",
+        "Joshua 21:14",
+        "Joshua 21:15",
+        "Joshua 21:16",
+        "Joshua 21:17",
+        "Joshua 21:18"
+      ],
+      "town_and_pasture_pairs": 13
+    },
+    {
+      "references": [
+        "Joshua 21:21",
+        "Joshua 21:22",
+        "Joshua 21:23",
+        "Joshua 21:24",
+        "Joshua 21:25"
+      ],
+      "town_and_pasture_pairs": 10
+    },
+    {
+      "references": [
+        "Joshua 21:27",
+        "Joshua 21:28",
+        "Joshua 21:29",
+        "Joshua 21:30",
+        "Joshua 21:31",
+        "Joshua 21:32"
+      ],
+      "town_and_pasture_pairs": 13
+    },
+    {
+      "references": [
+        "Joshua 21:34",
+        "Joshua 21:35",
+        "Joshua 21:36",
+        "Joshua 21:37",
+        "Joshua 21:38",
+        "Joshua 21:39"
+      ],
+      "town_and_pasture_pairs": 12
+    }
+  ],
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "historical_provenance_and_unrelated_work_preserved": true,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

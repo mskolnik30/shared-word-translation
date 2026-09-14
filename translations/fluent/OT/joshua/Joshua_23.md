@@ -4,86 +4,68 @@ testament: OT
 chapter: 23
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-18-24-biblical-fluency-2026-09-14
 ---
 
-## Joshua’s Final Charge to Israel’s Leaders
+## Joshua’s farewell charge
 
 <p>
-v01: Many days after the LORD had given rest to Israel from all their enemies around them, and Joshua was old and advanced in days,
-
-v02: Joshua called all Israel, their elders, heads, judges, and officers, and said to them, “I am old, advanced in days.
-
-v03: You have seen all that the LORD your God has done to all these nations before you, for the LORD your God is the one who fought for you.
-
-v04: See, I have allotted to you as an inheritance for your tribes these nations that remain, along with all the nations that I have cut off, from the Jordan to the Great Sea toward the setting of the sun.
-
-v05: The LORD your God himself will push them out from before you and drive them out from before you, and you will possess their land, as the LORD your God spoke to you.
+v01: A long time had passed since the LORD gave Israel rest from all their surrounding enemies. Joshua was old, advanced in years.
+v02: He summoned all Israel—its elders, heads, judges, and officials—and told them, “I am old, advanced in years.
+v03: You have seen everything the LORD your God has done to all these nations before you. It is the LORD your God who has fought for you.
+v04: Look, I have allotted these remaining nations to your tribes as an inheritance, together with all the nations I cut off, from the Jordan to the Great Sea toward the sunset.
+v05: The LORD your God himself will push them back and drive them out before you. You will take possession of their land, as the LORD your God promised you.
 </p>
 
-## Be Very Strong to Keep the Instruction
+## Hold fast to the instruction
 
 <p>
-v06: So be very strong to keep and do all that is written in the book of the instruction of Moses, not turning aside from it to the right or to the left,
-
-v07: so that you do not mix with these nations that remain among you or make mention of the names of their gods, cause anyone to swear by them, serve them, or bow down to them.
-
-v08: But you will cling to the LORD your God, as you have done to this day.
-
-v09: For the LORD has driven out from before you great and strong nations, and as for you, no one has stood before you to this day.
-
-v10: One man from you has pursued a thousand, for the LORD your God is the one who fights for you, as he spoke to you.
-
-v11: So be very careful for your own lives to love the LORD your God.
+v06: Be very strong in keeping and carrying out everything written in the scroll of Moses’ instruction. Do not turn from it to the right or the left.
+v07: Do not join these nations that remain among you. Do not invoke the names of their gods, have oaths sworn by them, serve them, or bow down to them.
+v08: Cling to the LORD your God, as you have done to this day.
 </p>
 
-## Do Not Turn Back
-
 <p>
-v12: For if you turn back and cling to the remnant of these nations, these that remain with you, and intermarry with them, and go in to them and they to you,
-
-v13: know for certain that the LORD your God will no longer drive out these nations from before you. They will become a snare and a trap for you, a whip on your sides and thorns in your eyes, until you perish from this good land that the LORD your God has given you.
+v09: The LORD has driven out great and powerful nations before you. As for you, no one has stood against you to this day.
+v10: One of your men puts a thousand to flight, because the LORD your God fights for you, as he promised.
+v11: Take great care, for your own lives, to love the LORD your God.
 </p>
 
-## Not One Good Word Has Failed
+## A warning about turning away
 
 <p>
-v14: Look, today I am going the way of all the earth. You know with all your heart and with all your life that not one word has failed from all the good words that the LORD your God spoke concerning you. All have come to pass for you; not one word of them has failed.
+v12: But if you turn back and cling to the rest of these nations still among you, intermarry with them, and associate with them as they do with you,
+v13: know for certain that the LORD your God will no longer drive these nations out before you. They will become a trap and a snare for you, whips against your sides and thorns in your eyes, until you perish from this good ground the LORD your God has given you.
+</p>
 
-v15: And just as every good word that the LORD your God spoke to you has come upon you, so the LORD will bring upon you every harmful word until he destroys you from this good land that the LORD your God has given you,
+## Not one word has failed
 
-v16: if you transgress the covenant of the LORD your God that he commanded you, and go and serve other gods and bow down to them. Then the anger of the LORD will burn against you, and you will quickly perish from the good land that he has given you.”
+<p>
+v14: Today I am going the way of all the earth. You know with all your heart and all your being that not one word has failed of all the good the LORD your God promised you. It has all come to pass for you; not one word has failed.
+v15: Just as all the good the LORD your God promised has come upon you, so the LORD will bring all the harm upon you, until he destroys you from this good ground he has given you.
+v16: If you violate the covenant the LORD your God commanded you to keep, and go and serve other gods and bow down to them, the LORD’s anger will burn against you. You will quickly perish from the good land he has given you.”
 </p>
 
 ## Notes
 
-v01: Joshua’s final charge is set after “rest” has been given, but nations still remain. Rest and unfinished possession coexist.
+v04–05: Joshua speaks of nations still remaining and their future expulsion even after the fulfillment summary in 21:43–45. Both perspectives are retained.
 
-v06: The command to be strong returns to the language of Joshua’s original commission, but now strength is directed toward keeping the instruction rather than military courage.
+v07: The Hebrew includes causing an oath to be sworn. “Have oaths sworn by them” keeps that force, alongside invoking names, serving, and bowing down.
 
-v07–08: The central danger is religious assimilation. Israel is called not merely to avoid other gods but positively to “cling” to the LORD.
+v12–13: The warning includes intermarriage and association, followed by concrete images of traps, whips and thorns. The translation leaves these in the speech’s ancient setting.
 
-v10: Military success is attributed to the LORD’s active fighting for Israel rather than numerical strength.
-
-v14–15: Joshua interprets both promised good and warned judgment through the reliability of the LORD’s word. Covenant warning is grounded in the same faithfulness as covenant promise.
-
-v16: The chapter closes with the possibility of losing the good land that has been given, showing that possession is covenantal rather than merely geographic.
+v14–16: “Going the way of all the earth” refers to approaching death. The repeated assurance that no good word failed leads into the corresponding warning of harm.
 
 ## Vocabulary
 
-v04: נָחַל (nachal)
-“To allot as inheritance.” Joshua assigns remaining territories to the tribes.
+v06: תּוֹרָה (torah)
+Instruction. The written teaching associated with Moses recalls the opening charge in Joshua 1:7–8.
 
-v06: תּוֹרַת מֹשֶׁה (torat Moshe)
-“Instruction of Moses.” The written teaching that Israel is commanded to keep.
+v08,12: דָּבַק (davaq)
+Cling. The same verb is used for attachment to the LORD and, in the warning, to the remaining nations.
 
-v08: דָּבַק (davaq)
-“To cling” or “hold fast.” A term of close covenantal attachment.
-
-v10: לָחַם (lacham)
-“To fight.” The LORD is named as the one fighting for Israel.
-
-v13: מוֹקֵשׁ (moqesh)
-“Snare.” A trap used as an image of destructive entanglement.
-
-v16: עָבַר בְּרִית (avar berit)
-“To transgress a covenant.” To cross beyond the obligations of the covenant.
+v16: בְּרִית (berith)
+Covenant. The warning treats service of other gods as violation of the binding relationship.

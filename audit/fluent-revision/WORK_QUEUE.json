@@ -236,16 +236,21 @@
       "scope": "Joshua 9–17",
       "verses": 256,
       "ledger": "audit/fluent-revision/2026-09-14-joshua-9-17/joshua-verse-review.json"
+    },
+    {
+      "scope": "Joshua 18–24",
+      "verses": 216,
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-18-24/joshua-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Joshua 18–24",
-      "action": "Continue a larger connected batch: remaining tribal allotments, refuge and Levitical towns, eastern tribes and altar, farewell and covenant. Read all 216 source verses; preserve every place, number, relationship, speech and consequential ambiguity."
+      "scope": "Joshua whole-book consistency review",
+      "action": "Complete source-based authoring consistency review across all 24 chapters. Check names, totals, boundary ambiguities, recurring inheritance, rest, instruction, serve, witness and conquest/remaining-peoples language; rebind any changed earlier text and keep independent review pending."
     },
     {
-      "scope": "Joshua whole-book consistency review",
-      "action": "Source-based authoring self-check of recurring language, names, totals, boundary descriptions, conquest and remaining peoples, covenant and instruction. Rebind changed earlier chapters and keep independent review pending."
+      "scope": "Judges 1–5",
+      "action": "Verify the repository-pinned Hebrew attribution before beginning the next book. Draft complete connected chapters from that source, preserving prose and poetry, gender, violence, ambiguity and meaningful repetition."
     }
   ],
   "standards": [

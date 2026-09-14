@@ -1,0 +1,115 @@
+{
+  "scope": "Joshua 18–24",
+  "revision_id": "fluent-joshua-18-24-biblical-fluency-2026-09-14",
+  "base_commit": "7116136c16308f2e58843ca64b33c5b6b8dfa177",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Josh",
+    "book_verse_count": 658,
+    "scope_chapters": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "sha256": "d32a65fc6dc7207625c05ddcd133a0833a0c48e3d2343ba6fff4e01be9d5beaf",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Josh.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including all written/read and other notes, not normalized reconstructions.",
+    "public_versification_note": "Public Joshua 18–24 and Hebrew source references align one to one. All 216 original source records are bound exactly once."
+  },
+  "authoring_review": {
+    "all_source_verses_read": 216,
+    "all_tsw_comparator_verses_read_after_drafting": 216,
+    "focused_second_source_comparisons": 56,
+    "review_type": "Translation authoring and focused self-check; no independent reviewer or reader testing."
+  },
+  "completed_work": [
+    "Source-first connected draft of seven complete chapters: 216 verses, each with before/after wording, TSW comparator, exact original Hebrew record hash and individual rationale.",
+    "Selective Notes and Vocabulary support recognizable terms, source imagery, speakers and consequential ambiguity.",
+    "All 48 cumulative source-binding ledger audits passed, totaling 6,618 verses across 216 chapters. Structure, translation-family, focused assertions and diff checks passed.",
+    "All 658 verses of Joshua now have a revised draft; whole-book authoring consistency review remains next."
+  ],
+  "key_decisions": [
+    "18 retains seven divisions, three male surveyors per tribe, priestly service as Levi’s inheritance, and the distinction between allotted land and possession.",
+    "18:15 keeps the difficult westward direction; 18:18 keeps Arabah without supplying Beth-arabah. 18:24 follows reading-tradition Chephar-ammonah; 18:28 separates Gibeath and Kiriath with an alternative noted.",
+    "19 retains Beer-sheba and Sheba beside the stated thirteen towns, five closing Zebulun names beside twelve, and sixteen Naphtali names beside nineteen. It neither drops names nor invents missing entries.",
+    "19:22 uses reading-tradition Shahazimah rather than written-form Shahazumah. 19:34 preserves Judah at the Jordan. 19:47 interprets loss of territory, notes an alternative, and preserves the conquest and killing at Leshem.",
+    "20 distinguishes accidental killing from prior hatred, protects resident foreigners as well as Israelites, and keeps both until-judgment and until-high-priest-death conditions.",
+    "21 preserves all forty-eight town-and-pasture grants, including 36–37 present in the pinned source, the repeated Gath-rimmon, and the distinction between Caleb’s fields/villages and Levitical pasturelands.",
+    "21:43–45 retains all-land, rest and total-fulfillment claims beside chapter 23’s remaining nations and future expulsion.",
+    "22 preserves the altar dispute’s reported geography, threatened war, offer to share western land, accusations and conditional denials, and repeated concern about children losing a share in the LORD.",
+    "22:20 keeps Achan son of Zerah and that he did not die alone. 22:22 repeats three divine names twice and leaves the singular appeal’s addressee open. 22:31 keeps rescue from the LORD’s hand; 22:34 identifies Witness as a supplied name.",
+    "23 preserves the causative oath expression, one-to-thousand image, intermarriage, traps/whips/thorns and repeated not-one-word-failed formula, with divine harm and threatened loss explicit.",
+    "24 preserves the shifts between ancestors/you and LORD/he/I, Balak’s fighting, all seven peoples, the hornet and two kings, and the household pledge without harmonizing the retelling.",
+    "24:19–23 retains cannot serve, will not forgive and foreign gods among the present people. 24:26–27 keeps the sanctuary setting and the stone that hears, including the us-to-you witness shift.",
+    "24 retains Joshua’s age of 110, all three burial notices, Joseph’s bones, one hundred qesitahs consistent with Genesis 33:19, and the hill given to Eleazar’s son."
+  ],
+  "remaining_review_questions": [
+    "Independent Hebrew review remains required, especially the boundary syntax and naming at 18:15,18,28; 19:2,8,13,15,27,29,33–34,38,47.",
+    "The two temporal conditions in 20:6, textual history of 21:36–37, geographic report in 22:10–11, singular appeal in 22:22 and implied altar name at 22:34 need independent review.",
+    "Whole-book Joshua consistency review must address inheritance/share, serve, cling, witness, instruction, divine war/fulfillment and remaining peoples without harmonizing distinct statements.",
+    "Reader comprehension and sustained listening have not been tested. Overlap metrics cannot certify independent authorship, fidelity or biblical fluency."
+  ],
+  "overlap": {
+    "before": {
+      "identical": 193,
+      "near_identical_nonidentical": 21
+    },
+    "after": {
+      "identical": 23,
+      "near_identical_nonidentical": 14
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse overlap is triage only, not fidelity, originality, comprehension or independent approval.",
+  "companion_impact": {
+    "changed_chapters": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "cumulative_joshua_revised_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "action": "Reconcile Fluent quotations and source bindings during later authorized Companion installation.",
+    "separate_companion_branch_changed": false
+  },
+  "github_write_status": "Previously authorized writes blocked by authentication/integration access; no rejected write retried.",
+  "next_scope": "Joshua whole-book consistency review"
+}

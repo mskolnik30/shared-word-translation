@@ -4,62 +4,46 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-18-24-biblical-fluency-2026-09-14
 ---
 
-## Cities of Refuge
+## Cities of refuge
 
 <p>
-v01: Then the LORD spoke to Joshua, saying,
-
-v02: “Speak to the children of Israel, saying, ‘Appoint for yourselves the cities of refuge of which I spoke to you by the hand of Moses,
-
-v03: so that the manslayer who strikes a person unintentionally, without prior intent, may flee there. They will be for you a refuge from the avenger of blood.
-
-v04: The one who flees to one of these cities will stand at the entrance of the city gate and speak his case in the hearing of the elders of that city. They will receive him into the city to themselves and give him a place, and he will live with them.
-
-v05: If the avenger of blood pursues him, they will not give the manslayer into his hand, because he struck his neighbor without knowledge and did not hate him previously.
-
-v06: He will live in that city until he stands before the congregation for judgment, until the death of the high priest who is in those days. Then the manslayer may return and go to his own city and to his own house, to the city from which he fled.’”
+v01: The LORD spoke to Joshua:
+v02: “Tell the Israelites to designate the cities of refuge I spoke to you about through Moses,
+v03: so that someone who kills a person accidentally, without intending to, can flee there. These cities will be your refuge from the avenger of blood.
+v04: The person is to flee to one of these cities, stand at its gate entrance, and explain the case to the city’s elders. They must welcome the person into the city, provide a place, and let them live among them.
+v05: If the avenger of blood pursues them, the elders must not hand the killer over, because the killing was unintentional and the killer had not previously hated the victim.
+v06: The person must remain in that city until standing before the assembly for judgment, and until the death of the high priest serving at that time. Then the killer may return to their own town and home, to the town they fled from.”
 </p>
 
-## The Six Cities
+## The six appointed cities
 
 <p>
-v07: So they set apart Kedesh in Galilee, in the hill country of Naphtali; Shechem in the hill country of Ephraim; and Kiriath-Arba—that is, Hebron—in the hill country of Judah.
-
-v08: Beyond the Jordan east of Jericho they appointed Bezer in the wilderness on the tableland from the tribe of Reuben, Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh.
-
-v09: These were the appointed cities for all the children of Israel and for the resident alien living among them, so that anyone who struck a person unintentionally might flee there and not die by the hand of the avenger of blood before standing before the congregation.
+v07: They set apart Kedesh in Galilee, in the hill country of Naphtali; Shechem in the hill country of Ephraim; and Kiriath-arba, that is, Hebron, in the hill country of Judah.
+v08: East of the Jordan at Jericho they designated Bezer in the wilderness, on the plateau, from Reuben’s tribe; Ramoth in Gilead from Gad’s tribe; and Golan in Bashan from Manasseh’s tribe.
+v09: These were the cities appointed for all Israelites and for resident foreigners living among them. Anyone who killed a person accidentally could flee there and would not die by the avenger of blood’s hand before standing before the assembly.
 </p>
 
 ## Notes
 
-v03: The cities distinguish accidental killing from intentional murder. Refuge interrupts immediate blood vengeance long enough for communal judgment.
+v03–05: The person described has killed unintentionally and had no prior hatred of the victim. “Killer” does not itself decide whether the person is guilty of intentional murder.
 
-v04: The city gate is the setting for legal hearing. Protection is not automatic concealment but begins with presenting the case before elders.
+v06: Both limits are retained: a hearing before the assembly and the death of the serving high priest. Compare the fuller instructions in Numbers 35:12,24–28.
 
-v05: “did not hate him previously” identifies prior hostility as relevant to discerning intent.
-
-v06: The manslayer remains in the refuge city until judgment and, if protected, until the death of the high priest. The text links legal protection with a temporal boundary not fully explained here.
-
-v09: Access is explicitly extended to both Israelite and resident alien, showing that the refuge system protects people across status distinctions within the land.
+v09: Resident foreigners are explicitly included alongside Israelites. The protection named here is protection from the avenger before the assembly hears the case.
 
 ## Vocabulary
 
-v02: עִיר מִקְלָט (ir miqlat)
-“City of refuge.” A designated place of legal protection.
+v02: מִקְלָט (miqlat)
+Refuge. A place of protection for the person who flees.
 
-v03: רֹצֵחַ (rotseach)
-“Manslayer.” One who causes another person’s death.
-
-v03: בִּשְׁגָגָה (bishgagah)
-“Unintentionally” or “by mistake.” Action without deliberate intent.
-
-v03: גֹּאֵל הַדָּם (goel ha-dam)
-“Avenger of blood.” The family representative responsible for pursuing bloodguilt.
-
-v04: שַׁעַר (sha'ar)
-“Gate.” The city entrance where elders heard legal matters.
+v03: גֹּאֵל הַדָּם (goel haddam)
+Avenger of blood. A relative acting in response to a family member’s death; the passage restricts handing the accused over.
 
 v09: גֵּר (ger)
-“Resident alien.” A non-native person living within the community.
+Resident foreigner. Someone living among Israel without belonging to the people by ancestry.

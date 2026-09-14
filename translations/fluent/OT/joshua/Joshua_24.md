@@ -4,181 +4,122 @@ testament: OT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-18-24-biblical-fluency-2026-09-14
 ---
 
-## Covenant Renewal at Shechem
+## The assembly at Shechem
 
 <p>
-v01: Joshua gathered all the tribes of Israel to Shechem and summoned the elders of Israel, its heads, its judges, and its officers, and they presented themselves before God.
+v01: Joshua gathered all Israel’s tribes at Shechem. He summoned Israel’s elders, heads, judges, and officials, and they presented themselves before God.
+</p>
 
-v02: Joshua said to all the people, “Thus says the LORD, the God of Israel: Long ago your fathers lived beyond the River—Terah, the father of Abraham and of Nahor—and they served other gods.
+## The LORD recounts the journey
 
-v03: Then I took your father Abraham from beyond the River and led him through all the land of Canaan and made his offspring many. I gave him Isaac.
+<p>
+v02: Joshua told all the people, “This is what the LORD, the God of Israel, says: ‘Long ago your ancestors lived beyond the River, including Terah, the father of Abraham and Nahor. They served other gods.
+v03: I took your ancestor Abraham from beyond the River and led him through all the land of Canaan. I multiplied his offspring and gave him Isaac.
+v04: To Isaac I gave Jacob and Esau. I gave Esau the hill country of Seir to possess, while Jacob and his sons went down to Egypt.
+v05: I sent Moses and Aaron, and I struck Egypt with what I did in its midst. After that I brought you out.
+v06: I brought your ancestors out of Egypt, and you came to the sea. The Egyptians pursued your ancestors with chariots and horsemen to the Sea of Reeds.
+v07: They cried out to the LORD, and he put darkness between you and the Egyptians. He brought the sea over them and covered them. Your own eyes saw what I did to Egypt. Then you lived in the wilderness for a long time.
 </p>
 
 <p>
-v04: “And to Isaac I gave Jacob and Esau. To Esau I gave Mount Seir to possess, but Jacob and his sons went down to Egypt.
+v08: I brought you to the land of the Amorites east of the Jordan. They fought against you, but I gave them into your hand. You took possession of their land, and I destroyed them before you.
+v09: Then Balak son of Zippor, king of Moab, rose up and fought against Israel. He sent for Balaam son of Beor to curse you.
+v10: But I would not listen to Balaam. He blessed you instead, and I rescued you from his hand.
+v11: You crossed the Jordan and came to Jericho. The people of Jericho fought against you, along with the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites. I gave them into your hand.
+v12: I sent the hornet ahead of you, and it drove them out before you—the two Amorite kings. It was not your sword or your bow.
+v13: I gave you land you had not labored over and towns you had not built, and you settled in them. You eat from vineyards and olive trees you did not plant.’”
+</p>
 
-v05: Then I sent Moses and Aaron, and I struck Egypt according to what I did in its midst, and afterward I brought you out.
+## Choose whom you will serve
 
-v06: I brought your fathers out from Egypt, and you came to the sea. The Egyptians pursued your fathers with chariots and horsemen to the Sea of Reeds.
-
-v07: They cried out to the LORD, and he put darkness between you and the Egyptians and brought the sea upon them and covered them. Your eyes saw what I did in Egypt. Then you lived in the wilderness many days.
+<p>
+v14: “Now fear the LORD and serve him with integrity and faithfulness. Put away the gods your ancestors served beyond the River and in Egypt, and serve the LORD.
+v15: If serving the LORD seems wrong to you, choose today whom you will serve: the gods your ancestors served beyond the River, or the gods of the Amorites whose land you now live in. As for me and my household, we will serve the LORD.”
 </p>
 
 <p>
-v08: I brought you into the land of the Amorites who lived beyond the Jordan. They fought with you, and I gave them into your hand, and you possessed their land, and I destroyed them from before you.
+v16: The people answered, “Far be it from us to abandon the LORD and serve other gods!
+v17: The LORD our God is the one who brought us and our ancestors up from Egypt, from the house of slavery. He performed those great signs before our eyes and protected us along the whole way we traveled and among all the peoples we passed through.
+v18: The LORD drove out all the peoples before us, including the Amorites who lived in the land. We too will serve the LORD, because he is our God.”
+</p>
 
-v09: Then Balak son of Zippor, king of Moab, arose and fought against Israel. He sent and called Balaam son of Beor to curse you.
+## Joshua challenges the pledge
 
-v10: Yet I was not willing to listen to Balaam, so he surely blessed you, and I rescued you from his hand.
-
-v11: Then you crossed the Jordan and came to Jericho. The lords of Jericho fought against you, and also the Amorite, the Perizzite, the Canaanite, the Hittite, the Girgashite, the Hivite, and the Jebusite, and I gave them into your hand.
-
-v12: I sent the hornet before you, and it drove them out from before you—the two kings of the Amorites—not by your sword and not by your bow.
-
-v13: I gave you a land for which you did not labor and cities that you did not build, and you live in them. You eat from vineyards and olive groves that you did not plant.”
+<p>
+v19: Joshua told the people, “You cannot serve the LORD, because he is a holy God, a jealous God. He will not forgive your rebellion and your sins.
+v20: If you abandon the LORD and serve foreign gods, he will turn and bring harm on you and put an end to you, after doing good to you.”
 </p>
 
 <p>
-v14: “Now therefore fear the LORD and serve him in integrity and in faithfulness. Put away the gods that your fathers served beyond the River and in Egypt, and serve the LORD.
-
-v15: And if it is evil in your eyes to serve the LORD, choose this day whom you will serve—whether the gods your fathers served beyond the River, or the gods of the Amorites in whose land you dwell. But as for me and my house, we will serve the LORD.”
+v21: “No!” the people told Joshua. “We will serve the LORD.”
+v22: Joshua said, “You are witnesses against yourselves that you have chosen the LORD, to serve him.” “We are witnesses,” they replied.
 </p>
 
 <p>
-v16: Then the people answered, “Far be it from us that we should forsake the LORD to serve other gods,
+v23: “Then put away the foreign gods among you,” he said, “and turn your hearts toward the LORD, the God of Israel.”
+v24: The people told Joshua, “We will serve the LORD our God and obey his voice.”
+</p>
 
-v17: for it is the LORD our God who brought us and our fathers up from the land of Egypt, out of the house of slavery, and who did those great signs in our sight and preserved us in all the way that we went and among all the peoples through whom we passed.
+## Covenant and a witness stone
 
-v18: And the LORD drove out before us all the peoples, the Amorites who lived in the land. Therefore we also will serve the LORD, for he is our God.”
+<p>
+v25: That day Joshua made a covenant for the people and established a statute and an ordinance for them at Shechem.
+v26: Joshua wrote these words in the scroll of God’s instruction. He took a large stone and set it up there beneath the terebinth in the LORD’s sanctuary.
+v27: He told all the people, “Look, this stone will be a witness against us. It has heard all the words the LORD spoke to us. It will be a witness against you, so that you do not deny your God.”
 </p>
 
 <p>
-v19: Yet Joshua said to the people, “You are not able to serve the LORD, for he is a holy God. He is a jealous God; he will not forgive your transgression or your sins.
+v28: Joshua sent the people away, each to their inheritance.
+</p>
 
-v20: If you forsake the LORD and serve foreign gods, then he will turn and do you harm and consume you, after having done you good.”
+## Joshua, Joseph, and Eleazar
+
+<p>
+v29: After these events, Joshua son of Nun, the LORD’s servant, died at the age of one hundred ten.
+v30: They buried him within his inheritance at Timnath-serah, in Ephraim’s hill country, north of Mount Gaash.
 </p>
 
 <p>
-v21: And the people said to Joshua, “No, but we will serve the LORD.”
-
-v22: Then Joshua said to the people, “You are witnesses against yourselves that you have chosen the LORD, to serve him.” And they said, “We are witnesses.”
-
-v23: He said, “Then put away the foreign gods that are among you and incline your heart to the LORD, the God of Israel.”
-
-v24: And the people said to Joshua, “The LORD our God we will serve, and his voice we will obey.”
+v31: Israel served the LORD throughout Joshua’s lifetime and throughout the lifetimes of the elders who outlived him and knew all the LORD had done for Israel.
 </p>
 
 <p>
-v25: So Joshua made a covenant with the people that day and set for them a statute and an ordinance at Shechem.
-</p>
-
-## Joshua’s Final Witness and Death
-
-<p>
-v26: Joshua wrote these words in the book of the instruction of God. Then he took a great stone and set it up there under the terebinth that was by the sanctuary of the LORD.
-
-v27: Joshua said to all the people, “Look, this stone will be a witness against us, for it has heard all the words of the LORD that he spoke with us. It will be a witness against you, lest you deny your God.”
-
-v28: Then Joshua sent the people away, each to his inheritance.
-</p>
-
-<p>
-v29: And it happened after these things that Joshua son of Nun, servant of the LORD, died, being one hundred ten years old.
-
-v30: They buried him in the territory of his inheritance at Timnath-Serah, which is in the hill country of Ephraim, north of Mount Gaash.
-
-v31: Israel served the LORD all the days of Joshua and all the days of the elders who outlived Joshua and who knew all the work of the LORD that he had done for Israel.
-</p>
-
-<p>
-v32: The bones of Joseph, which the sons of Israel had brought up from Egypt, they buried at Shechem in the portion of the field that Jacob had bought from the sons of Hamor, father of Shechem, for one hundred qesitah. It became an inheritance for the sons of Joseph.
-
-v33: Eleazar son of Aaron died, and they buried him at Gibeah of Phinehas his son, which had been given to him in the hill country of Ephraim.
+v32: The Israelites buried Joseph’s bones, which they had brought up from Egypt, at Shechem, in the plot Jacob had bought from the sons of Hamor, Shechem’s father, for one hundred qesitahs. It became an inheritance for Joseph’s descendants.
+v33: Eleazar son of Aaron also died. They buried him at Gibeath-phinehas, the hill given to his son Phinehas in Ephraim’s hill country.
 </p>
 
 ## Notes
 
-v01–03: The gathering at Shechem frames a formal covenant setting. History is rehearsed from divine perspective—“I took… I led… I gave.”
+v02–07: “The River” means the Euphrates. The speech moves between ancestors and you, and in verse 7 between the LORD/he and I. These changes are retained.
 
-v14–15: The call is exclusive and immediate—“choose this day.” Service is framed as a decisive allegiance.
+v08: “I brought” follows the Hebrew reading tradition. The written form can be read “I came”; the difference is included in the source record.
 
-v15: Household declaration (“me and my house”) models leadership as representative commitment.
+v11: The Hebrew expression for the people of Jericho can also refer to its lords or leading citizens. The account says they fought, without retelling how the city fell.
 
-v16–18: The people respond with historical memory—deliverance grounds their pledge.
+v12: The hornet is retained as the source’s image. The text does not explain whether it is literal or figurative. The two Amorite kings remain in this position in the retelling.
 
-v19–20: Joshua destabilizes easy commitment. Divine holiness and jealousy expose the seriousness of the choice.
+v19–23: Joshua’s “You cannot serve” and “He will not forgive” are retained within his warning and the people’s renewed pledge. Verse 23 addresses foreign gods among the people, not only in their ancestral past.
 
-v21–22: The people insist, and their words bind them—self-witness becomes covenantal accountability.
+v26–27: The stone is said to have heard the LORD’s words. This personification and the movement from witness against us to witness against you remain.
 
-v23–24: Internal and external alignment is required—removal of foreign gods and inclination of heart.
-
-v25: Covenant is formalized with legal language—statute and ordinance mark enduring obligation.
+v32–33: A qesitah is an ancient unit of value whose precise amount is uncertain; see Genesis 33:19. Gibeath-phinehas means Hill of Phinehas. The hill or place had been given to Eleazar’s son.
 
 ## Vocabulary
 
-v01: קָהָל (qāhāl)
+v14: אֱמֶת (emeth)
+Faithfulness or reliability. Paired with integrity in the call to serve.
 
-“Assembly.” Gathered community for covenant action.
+v15: עָבַד (avad)
+Serve. Repeated throughout the competing choices and pledges in this chapter.
 
-v01: זָקֵן (zāqēn)
+v19: קַנּוֹא (qanno)
+Jealous. Here it characterizes God in a warning about serving foreign gods.
 
-“Elder.” Recognized leader within the people.
-
-v02: עָבַד (ʿāḇaḏ)
-
-“To serve.” To give allegiance or worship.
-
-v03: לָקַח (lāqaḥ)
-
-“To take.” To choose or bring.
-
-v03: רָבָה (rāḇāh)
-
-“To multiply.” To increase greatly.
-
-v14: יָרֵא (yārēʾ)
-
-“To fear.” Reverent awe and loyalty.
-
-v14: תָּמִים (tāmîm)
-
-“Integrity.” Wholeness, completeness.
-
-v14: אֱמֶת (ʾĕmeṯ)
-“Faithfulness/truth.” Reliability and firmness.
-
-v15: בָּחַר (bāḥar)
-
-“To choose.” To select decisively.
-
-v18: גָּרַשׁ (gāraš)
-
-“To drive out.” To expel from the land.
-
-v19: קָדוֹשׁ (qādôš)
-“Holy.” Set apart, distinct.
-
-v19: קַנָּא (qannāʾ)
-
-“Jealous.” Zealous for exclusive loyalty.
-
-v22: עֵד (ʿēḏ)
-“Witness.” One who testifies or confirms.
-
-v23: נָטָה (nāṭāh)
-
-“To incline.” To turn or direct.
-
-v25: בְּרִית (berît)
-
-“Covenant.” Binding agreement.
-
-v25: חֹק (ḥōq)
-
-“Statute.” Prescribed boundary or rule.
-
-v25: מִשְׁפָּט (mišpāṭ)
-
-“Ordinance.” Legal judgment or regulation.
+v27: עֵדָה (edah)
+Witness or testimony here. The stone’s role continues the book’s language of material reminders.
