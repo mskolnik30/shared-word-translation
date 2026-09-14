@@ -4,202 +4,234 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-1-16-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 14
-
-## Jonathan Goes toward the Philistine Garrison
+## Jonathan crosses to the outpost
 
 <p>
-v01: One day Jonathan son of Saul said to the young man carrying his armor, “Come, let us cross over to the Philistine garrison that is on the other side.” But he did not tell his father.
-
-v02: Saul was staying at the edge of Gibeah under the pomegranate tree that is in Migron, and the people who were with him were about six hundred men.
-
-v03: Ahijah son of Ahitub, brother of Ichabod, son of Phinehas, son of Eli, priest of the LORD at Shiloh, was wearing an ephod. The people did not know that Jonathan had gone.
-
-v04: Between the passes by which Jonathan sought to cross over to the Philistine garrison, there was a rocky crag on one side and a rocky crag on the other side. The name of one was Bozez, and the name of the other Seneh.
-
-v05: One crag rose on the north opposite Michmash, and the other on the south opposite Geba.
+v01: One day Jonathan son of Saul said to the young man carrying his armor, “Come, let us cross over to the Philistine outpost on the other side.” He did not tell his father.
+v02: Saul was staying on the outskirts of Gibeah, under the pomegranate tree at Migron. About six hundred men were with him.
+v03: Ahijah was there wearing an ephod. He was the son of Ahitub, Ichabod’s brother, son of Phinehas, son of Eli, the LORD’s priest at Shiloh. The troops did not know Jonathan had gone.
 </p>
 
-## Perhaps the LORD Will Act for Us
-
 <p>
-v06: Jonathan said to the young man carrying his armor, “Come, let us cross over to the garrison of these uncircumcised. Perhaps the LORD will act for us, for nothing restrains the LORD from saving by many or by few.”
-
-v07: His armor-bearer said to him, “Do all that is in your heart. Turn where you wish. Look, I am with you according to your heart.”
-
-v08: Jonathan said, “Look, we will cross over to the men and reveal ourselves to them.
-
-v09: If they say to us, ‘Wait until we come to you,’ then we will stand in our place and not go up to them.
-
-v10: But if they say, ‘Come up to us,’ then we will go up, for the LORD has given them into our hand. This will be the sign for us.”
+v04: On either side of the pass Jonathan intended to cross to reach the Philistine outpost, a tooth of rock rose up. One was named Bozez and the other Seneh.
+v05: One tooth rose on the north, facing Michmash; the other stood on the south, facing Geba.
 </p>
 
-## Jonathan and His Armor-Bearer Attack
-
 <p>
-v11: The two of them revealed themselves to the Philistine garrison. The Philistines said, “Look, Hebrews are coming out from the holes where they hid themselves.”
-
-v12: The men of the garrison answered Jonathan and his armor-bearer and said, “Come up to us, and we will make something known to you.” Jonathan said to his armor-bearer, “Come up after me, for the LORD has given them into the hand of Israel.”
-
-v13: Jonathan climbed up on his hands and his feet, and his armor-bearer after him. They fell before Jonathan, and his armor-bearer put them to death after him.
-
-v14: That first slaughter that Jonathan and his armor-bearer struck was about twenty men within about half a furrow in an acre of field.
+v06: Jonathan said to his armor-bearer, “Come, let us cross over to the outpost of these uncircumcised men. Perhaps the LORD will act for us. Nothing prevents the LORD from saving, whether by many or by few.”
 </p>
 
-## Panic Spreads through the Philistine Camp
-
 <p>
-v15: Then there was trembling in the camp, in the field, and among all the people. The garrison and the raiders also trembled. The earth quaked, and it became a trembling from God.
-
-v16: Saul’s watchmen in Gibeah of Benjamin looked, and look, the multitude was melting away and going here and there.
-
-v17: Saul said to the people who were with him, “Please count and see who has gone from us.” They counted, and look, Jonathan and his armor-bearer were not there.
-
-v18: Saul said to Ahijah, “Bring near the ark of God.” For the ark of God was at that time with the children of Israel.
-
-v19: And it happened while Saul was speaking to the priest that the tumult in the camp of the Philistines kept increasing. So Saul said to the priest, “Withdraw your hand.”
+v07: His armor-bearer answered, “Do all that is in your heart. Go ahead. I am with you, heart and all.”
 </p>
 
-## Israel Joins the Battle
-
 <p>
-v20: Saul and all the people who were with him were called together and came to the battle. And look, every Philistine’s sword was against his companion, a very great confusion.
-
-v21: Now the Hebrews who had been with the Philistines formerly, who had gone up with them into the camp all around, even they turned to be with Israel who were with Saul and Jonathan.
-
-v22: Also all the men of Israel who had hidden themselves in the hill country of Ephraim heard that the Philistines were fleeing, and they too pursued them closely in the battle.
-
-v23: So the LORD saved Israel that day, and the battle passed beyond Beth-Aven.
+v08: Jonathan said, “We will cross over to the men and let them see us.
+v09: If they say, ‘Stay there until we reach you,’ we will stay where we are and not go up to them.
+v10: But if they say, ‘Come up to us,’ we will go up, because the LORD has given them into our hand. That will be our sign.”
 </p>
 
-## Saul Binds the People with an Oath
-
 <p>
-v24: Now the men of Israel were hard pressed that day, for Saul had put the people under an oath, saying, “Cursed is the man who eats food before evening and before I am avenged on my enemies.” So none of the people tasted food.
-
-v25: All the people of the land came into the forest, and there was honey upon the ground.
-
-v26: When the people came into the forest, look, honey was dripping, but no one put his hand to his mouth, for the people feared the oath.
-
-v27: Yet Jonathan had not heard when his father put the people under oath. He stretched out the end of the staff that was in his hand, dipped it in the honeycomb, and returned his hand to his mouth, and his eyes became bright.
-
-v28: Then one man from the people answered and said, “Your father strictly put the people under oath, saying, ‘Cursed is the man who eats food today.’” And the people were faint.
-
-v29: Jonathan said, “My father has troubled the land. See, please, how my eyes have become bright because I tasted a little of this honey.
-
-v30: How much more if the people had freely eaten today from the spoil of their enemies that they found! For now the slaughter among the Philistines has not been great.”
+v11: The two of them showed themselves to the Philistine outpost. The Philistines said, “Look! Hebrews are coming out of the holes where they have been hiding.”
 </p>
 
-## The People Eat with the Blood
-
 <p>
-v31: They struck the Philistines that day from Michmash to Aijalon, and the people became very faint.
-
-v32: The people rushed upon the spoil, took sheep, cattle, and calves, slaughtered them on the ground, and the people ate them with the blood.
-
-v33: They told Saul, saying, “Look, the people are sinning against the LORD by eating with the blood.” He said, “You have acted unfaithfully. Roll a great stone to me today.”
-
-v34: Saul said, “Scatter yourselves among the people and say to them, ‘Bring near to me each his ox and each his sheep, slaughter them here and eat. Do not sin against the LORD by eating with the blood.’” So all the people brought near each his ox in his hand that night and slaughtered them there.
-
-v35: Saul built an altar to the LORD; it was the first altar he built to the LORD.
+v12: The men of the outpost called to Jonathan and his armor-bearer, “Come up here. We will teach you something!” Jonathan told his armor-bearer, “Come up after me. The LORD has given them into Israel’s hand.”
 </p>
 
-## The Lot Falls on Jonathan
-
 <p>
-v36: Saul said, “Let us go down after the Philistines by night and plunder them until the morning light, and let us not leave a man among them.” They said, “Do whatever is good in your eyes.” But the priest said, “Let us draw near here to God.”
-
-v37: Saul inquired of God, “Will I go down after the Philistines? Will you give them into the hand of Israel?” But he did not answer him that day.
-
-v38: Saul said, “Come near here, all the chiefs of the people, and know and see how this sin happened today.
-
-v39: For as the LORD lives, who saves Israel, even if it is in Jonathan my son, he will surely die.” But there was no one among all the people who answered him.
-
-v40: He said to all Israel, “You will be on one side, and I and Jonathan my son will be on the other side.” The people said to Saul, “Do what is good in your eyes.”
-
-v41: Saul said to the LORD, the God of Israel, “Give a perfect lot.” And Jonathan and Saul were taken, but the people went free.
-
-v42: Saul said, “Cast between me and Jonathan my son.” And Jonathan was taken.
-
-v43: Then Saul said to Jonathan, “Tell me what you have done.” Jonathan told him and said, “I merely tasted a little honey with the end of the staff that was in my hand. Look, I will die.”
-
-v44: Saul said, “Thus may God do and more also, for you will surely die, Jonathan.”
+v13: Jonathan climbed up on his hands and feet, his armor-bearer behind him. The Philistines fell before Jonathan, and his armor-bearer followed, killing them.
 </p>
 
-## The People Rescue Jonathan
-
 <p>
-v45: But the people said to Saul, “Will Jonathan die, who has worked this great salvation in Israel? Far be it! As the LORD lives, not one hair of his head will fall to the ground, for with God he has worked this day.” So the people ransomed Jonathan, and he did not die.
-
-v46: Then Saul went up from pursuing the Philistines, and the Philistines went to their own place.
+v14: In that first attack, Jonathan and his armor-bearer struck down about twenty men within roughly half a furrow of a field a pair of oxen could plow.
 </p>
 
-## Saul’s Wars and Household
+## Panic and deliverance
 
 <p>
-v47: When Saul had taken the kingship over Israel, he fought against all his enemies around: against Moab, the children of Ammon, Edom, the kings of Zobah, and the Philistines. Wherever he turned, he inflicted punishment.
+v15: Terror spread through the camp, the field, and all the troops. The outpost and the raiders trembled too. The earth shook. It was a terror from God.
+</p>
 
-v48: He acted valiantly and struck Amalek and rescued Israel from the hand of people who plundered them.
+<p>
+v16: Saul’s lookouts at Gibeah of Benjamin saw the enemy mass melting away, surging here and there.
+</p>
 
-v49: The sons of Saul were Jonathan, Ishvi, and Malchi-Shua. The names of his two daughters were these: the name of the firstborn Merab and the name of the younger Michal.
+<p>
+v17: Saul told the men with him, “Take a count and see who has left us.” They counted and found Jonathan and his armor-bearer missing.
+</p>
 
-v50: The name of Saul’s wife was Ahinoam daughter of Ahimaaz. The name of the commander of his army was Abner son of Ner, Saul’s uncle.
+<p>
+v18: Saul told Ahijah, “Bring the ark of God here.” The ark of God was with the Israelites that day.
+</p>
 
-v51: Kish was Saul’s father, and Ner father of Abner was son of Abiel.
+<p>
+v19: While Saul was speaking to the priest, the uproar in the Philistine camp kept growing. Saul said to the priest, “Withdraw your hand.”
+</p>
 
-v52: The war against the Philistines was severe all the days of Saul. Whenever Saul saw any mighty man or any valiant man, he gathered him to himself.
+<p>
+v20: Saul and all the men with him rallied and went into battle. There they found the Philistines turning their swords on one another in overwhelming confusion.
+</p>
+
+<p>
+v21: The Hebrews who had previously been with the Philistines and had gone up with them into the camp now joined the Israelites with Saul and Jonathan.
+</p>
+
+<p>
+v22: All the Israelites hiding in the hill country of Ephraim heard that the Philistines were fleeing. They too joined the pursuit in battle.
+</p>
+
+<p>
+v23: That day the LORD saved Israel, and the battle moved beyond Beth-aven.
+</p>
+
+## Saul’s oath and Jonathan’s honey
+
+<p>
+v24: The men of Israel were hard pressed that day because Saul had put them under an oath: “Cursed is anyone who eats before evening, before I have taken vengeance on my enemies.” So none of the troops tasted food.
+</p>
+
+<p>
+v25: All the people entered the forest, where honey lay on the ground.
+</p>
+
+<p>
+v26: As they entered, they saw honey flowing, but no one put a hand to his mouth. They feared the oath.
+</p>
+
+<p>
+v27: Jonathan had not heard his father put the troops under oath. He reached out the end of his staff, dipped it into the honeycomb, and brought his hand to his mouth. His eyes brightened.
+</p>
+
+<p>
+v28: One of the men told him, “Your father solemnly bound the troops with an oath: ‘Cursed is anyone who eats today.’” The troops were exhausted.
+</p>
+
+<p>
+v29: Jonathan said, “My father has brought trouble on the land. Look how my eyes have brightened after tasting a little of this honey.
+v30: How much better if the troops had eaten freely today from the enemy plunder they found! Would the slaughter among the Philistines not have been greater?”
+</p>
+
+<p>
+v31: That day they struck the Philistines from Michmash to Aijalon. The troops were utterly exhausted.
+</p>
+
+## Blood and an unanswered inquiry
+
+<p>
+v32: They pounced on the plunder, took sheep, cattle, and calves, and slaughtered them on the ground. They ate the meat with the blood.
+</p>
+
+<p>
+v33: Saul was told, “The troops are sinning against the LORD by eating with the blood.” He said, “You have acted faithlessly. Roll a large stone over to me now.”
+</p>
+
+<p>
+v34: Then he said, “Spread out among the troops and tell them: ‘Each of you bring me your ox or sheep. Slaughter it here and eat. Do not sin against the LORD by eating with the blood.’” That night everyone brought his ox and slaughtered it there.
+</p>
+
+<p>
+v35: Saul built an altar to the LORD. This was the first altar he built to the LORD.
+</p>
+
+<p>
+v36: Saul said, “Let us go down after the Philistines tonight and plunder them until morning light. Let us leave none of them alive.” The men answered, “Do whatever seems good to you.” But the priest said, “Let us approach God here.”
+</p>
+
+<p>
+v37: Saul inquired of God, “Shall I go down after the Philistines? Will you give them into Israel’s hand?” But God did not answer him that day.
+</p>
+
+## Jonathan is spared
+
+<p>
+v38: Saul said, “Come here, all you leaders of the troops. Find out what sin has been committed today.
+</p>
+
+<p>
+v39: As the LORD lives, who saves Israel, even if the guilt lies with my son Jonathan, he must die.” Not one of the troops answered him.
+</p>
+
+<p>
+v40: He told all Israel, “You stand on one side; my son Jonathan and I will stand on the other.” The people replied, “Do whatever seems good to you.”
+</p>
+
+<p>
+v41: Saul said to the LORD, the God of Israel, “Give a true answer.” Jonathan and Saul were selected, and the people were cleared.
+</p>
+
+<p>
+v42: Saul said, “Cast the lot between me and my son Jonathan.” Jonathan was selected.
+</p>
+
+<p>
+v43: Saul asked Jonathan, “Tell me what you have done.” Jonathan told him, “I only tasted a little honey with the end of the staff in my hand. Here I am, to die.”
+</p>
+
+<p>
+v44: Saul said, “May God do this, and more besides! You will certainly die, Jonathan.”
+</p>
+
+<p>
+v45: But the people said to Saul, “Must Jonathan die, the one who brought this great deliverance to Israel? Far be it! As the LORD lives, not a hair of his head will fall to the ground, for he has worked with God today.” So the people redeemed Jonathan, and he did not die.
+</p>
+
+<p>
+v46: Saul broke off the pursuit of the Philistines, and they returned to their own place.
+</p>
+
+## Saul’s wars and family
+
+<p>
+v47: Saul secured the kingship over Israel and fought all his enemies on every side: Moab, the Ammonites, Edom, the kings of Zobah, and the Philistines. Wherever he turned, he inflicted punishment.
+</p>
+
+<p>
+v48: He acted valiantly, struck Amalek, and rescued Israel from those who plundered it.
+</p>
+
+<p>
+v49: Saul’s sons were Jonathan, Ishvi, and Malchi-shua. His two daughters were Merab, the older, and Michal, the younger.
+</p>
+
+<p>
+v50: Saul’s wife was Ahinoam daughter of Ahimaaz. His army commander was Abner, son of Saul’s uncle Ner.
+</p>
+
+<p>
+v51: Kish, Saul’s father, and Ner, Abner’s father, were sons of Abiel.
+</p>
+
+<p>
+v52: Fierce war with the Philistines continued throughout Saul’s days. Whenever he saw a strong man or a capable warrior, he took him into his service.
 </p>
 
 ## Notes
 
-v06: Jonathan’s confidence is not in numbers but in the LORD’s freedom to save “by many or by few.”
+v14: The area is described in terms of a furrow and a pair of oxen. Its exact size is uncertain; no modern acreage is imposed.
 
-v15: “A trembling from God” can mean an extraordinarily great panic or a panic directly caused by God; the narrative supports both senses.
+v15: “Terror from God” can also function as an expression for an immense terror. The earth’s shaking is stated separately.
 
-v18: The Masoretic Text reads “ark of God,” while the Greek tradition reads “ephod,” which fits priestly inquiry and verse 19. TSW follows the Masoretic Text and records the significant variant.
+v18: The pinned Hebrew says “ark of God.” This is retained even though an ephod appears in verse 3 and the priestly inquiry in verse 19 makes the wording difficult.
 
-v24: Saul’s oath is directed toward “my enemies,” making the king’s personal vengeance the measure imposed upon the exhausted army.
+v41: The short Hebrew request is literally “Give tamim,” meaning complete, sound, or true. The exact form of the inquiry is uncertain; the next verse explicitly describes casting between two people.
 
-v27: Jonathan violates the oath unknowingly and immediately gains strength, exposing the oath’s harmful effect.
+v43–45: Jonathan’s “Here I am, to die” can also be heard as an incredulous question. The people redeem him; no payment or substitute is specified.
 
-v32–35: Saul’s restriction contributes to desperate eating with blood, yet he correctly intervenes to stop a Torah violation.
+v47: The final verb normally concerns declaring guilt or doing wrong. “Inflicted punishment” preserves that sense in this military summary; the exact force remains uncertain.
 
-v41: The Masoretic Text is unusually short. The Greek preserves a longer prayer asking for Urim/Thummim discernment between Saul, Jonathan, and the people. TSW follows the Masoretic verse while noting the textual lacuna.
-
-v45: The people “ransom” Jonathan from Saul’s vow, judging that the man through whom God brought salvation must not die.
-
-v47: The Hebrew verb describing Saul’s action wherever he turned is difficult. It can mean defeat, punish, or act wickedly. TSW uses “inflicted punishment” in the military context.
+v50–51: The compressed genealogy is understood to make Ner Saul’s uncle and Abner Saul’s cousin. The wording can also attach “Saul’s uncle” directly to Abner.
 
 ## Vocabulary
 
-v06: יָשַׁע (yasha)
-“To save.”
+v04–05: Tooth of rock
+The Hebrew’s image for the sharp crags flanking the pass.
 
-v07: לֵב (lev)
-“Heart.” The armor-bearer aligns himself with Jonathan’s resolve.
-
-v15: חֲרָדָה (charadah)
-“Trembling” or terror.
-
-v19: הָמֹון (hamon)
-“Tumult” or noisy multitude.
-
-v24: אָלָה (alah)
-“Oath” or curse.
-
-v27: יָאֹר עֵינַיִם (ya'or einayim)
-“Eyes became bright.” An idiom of renewed strength.
-
-v33: מָעַל (ma'al)
-“To act unfaithfully.”
-
-v41: תָּמִים (tamim)
-“Perfect” or complete. Used in the request for a decisive lot.
-
-v45: פָּדָה (padah)
-“To ransom” or redeem.
-
-v52: אִישׁ חַיִל (ish chayil)
-“Valiant man.”
+v45: Redeem — padah
+Here to secure Jonathan’s release from the threatened death.

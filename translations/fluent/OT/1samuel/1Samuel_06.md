@@ -4,112 +4,91 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-1-16-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 6
-
-## The Philistines Ask How to Return the Ark
+## The Philistines return the ark
 
 <p>
-v01: The ark of the LORD was in the territory of the Philistines seven months.
-
-v02: The Philistines called the priests and the diviners, saying, “What will we do with the ark of the LORD? Make known to us how we should send it to its place.”
-
-v03: They said, “If you send away the ark of the God of Israel, do not send it away empty, but surely return to him a guilt offering. Then you will be healed, and it will become known to you why his hand has not turned away from you.”
-
-v04: They said, “What guilt offering will we return to him?” They said, “According to the number of the rulers of the Philistines: five gold tumors and five gold mice, for one plague was upon all of you and upon your rulers.
-
-v05: So make images of your tumors and images of your mice that devastate the land, and give glory to the God of Israel. Perhaps he will lighten his hand from upon you, your gods, and your land.
-
-v06: Why should you harden your heart as Egypt and Pharaoh hardened their heart? Was it not after he dealt severely with them that they sent them away, and they went?
-
-v07: And now, take and prepare a new cart and two milk cows upon which no yoke has come. Yoke the cows to the cart, but take their calves home away from them.
-
-v08: Take the ark of the LORD and put it on the cart. Put the gold objects that you return to him as a guilt offering in a box beside it, and send it away, and let it go.
-
-v09: Then watch: if it goes up by the way of its own territory to Beth-Shemesh, he has done to us this great evil. But if not, then we will know that it was not his hand that struck us; it happened to us by chance.”
+v01: The LORD’s ark remained in Philistine territory for seven months.
+v02: The Philistines summoned the priests and diviners. “What shall we do with the LORD’s ark?” they asked. “Tell us what to send with it when we return it to its place.”
+v03: They answered, “If you send back the ark of Israel’s God, do not send it empty. You must return a reparation offering to him. Then you will be healed and learn why his hand has not turned away from you.”
 </p>
 
-## The Cows Carry the Ark to Beth-Shemesh
-
 <p>
-v10: The men did so. They took two milk cows and yoked them to the cart and shut up their calves at home.
-
-v11: They put the ark of the LORD on the cart, with the box and the gold mice and the images of their tumors.
-
-v12: The cows went straight on the way toward Beth-Shemesh. They went on one highway, lowing as they went, and did not turn aside to the right or to the left. The rulers of the Philistines went after them as far as the border of Beth-Shemesh.
+v04: “What reparation offering should we return?” they asked. “Five gold tumors and five gold mice,” came the answer, “one for each Philistine ruler. The same plague has struck all of you and your rulers.
+v05: Make images of your tumors and of the mice ruining your land. Give honor to Israel’s God. Perhaps he will lighten his hand on you, your gods, and your land.
 </p>
 
-## Beth-Shemesh Rejoices over the Ark
-
 <p>
-v13: Now the people of Beth-Shemesh were reaping the wheat harvest in the valley. They lifted their eyes and saw the ark, and they rejoiced to see it.
-
-v14: The cart came into the field of Joshua the Beth-Shemite and stood there. A great stone was there. They split the wood of the cart and offered the cows as a burnt offering to the LORD.
-
-v15: The Levites took down the ark of the LORD and the box that was with it, in which were the gold objects, and put them upon the great stone. The men of Beth-Shemesh offered burnt offerings and sacrificed sacrifices that day to the LORD.
-
-v16: When the five rulers of the Philistines saw it, they returned to Ekron that day.
+v06: Why make your hearts heavy, as Egypt and Pharaoh made theirs? After he dealt harshly with them, did they not let the people go, and did the people not leave?
+v07: Now prepare a new cart and take two nursing cows that have never worn a yoke. Harness them to the cart, but take their calves away from them and keep them at home.
 </p>
 
-## The Philistine Guilt Offering
-
 <p>
-v17: These are the gold tumors that the Philistines returned as a guilt offering to the LORD: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, and one for Ekron.
-
-v18: And the gold mice were according to the number of all the cities of the Philistines belonging to the five rulers, from fortified city to unwalled village, as far as the great stone upon which they set down the ark of the LORD, which is in the field of Joshua the Beth-Shemite to this day.
+v08: Put the LORD’s ark on the cart. Place the gold objects you are returning as a reparation offering in a box beside it. Then send it on its way.
 </p>
 
-## The LORD Strikes Beth-Shemesh
+<p>
+v09: Watch it. If it goes up toward its own territory, to Beth-shemesh, then he is the one who has brought this great disaster on us. If not, we will know his hand did not strike us; it happened to us by chance.”
+</p>
+
+## The cows take the road
 
 <p>
-v19: But he struck some of the men of Beth-Shemesh because they looked into the ark of the LORD. He struck among the people seventy men, and the people mourned because the LORD had struck the people with a great slaughter.
+v10: The men did this. They took two nursing cows, harnessed them to the cart, and shut their calves inside.
+v11: They put the LORD’s ark on the cart, along with the box containing the gold mice and the images of their tumors.
+v12: The cows went straight along the road to Beth-shemesh. They stayed on one highway, lowing as they went, turning neither right nor left. The Philistine rulers followed them to the border of Beth-shemesh.
+</p>
 
-v20: The men of Beth-Shemesh said, “Who can stand before the LORD, this holy God? And to whom will he go up from us?”
+<p>
+v13: The people of Beth-shemesh were harvesting wheat in the valley. When they looked up and saw the ark, they rejoiced at the sight.
+</p>
 
-v21: They sent messengers to the inhabitants of Kiriath-Jearim, saying, “The Philistines have returned the ark of the LORD. Come down and bring it up to yourselves.”
+<p>
+v14: The cart came into the field of Joshua of Beth-shemesh and stopped beside a large stone. They split up the cart’s wood and offered the cows as a burnt offering to the LORD.
+</p>
+
+<p>
+v15: The Levites took down the LORD’s ark and the box of gold objects beside it and set them on the large stone. That day the men of Beth-shemesh offered burnt offerings and sacrifices to the LORD.
+</p>
+
+<p>
+v16: The five Philistine rulers watched, then returned to Ekron that same day.
+</p>
+
+<p>
+v17: These were the gold tumors the Philistines returned to the LORD as a reparation offering: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, and one for Ekron.
+v18: The gold mice corresponded to all the Philistine towns under the five rulers, from fortified cities to unwalled villages. The great stone where they set the LORD’s ark remains to this day in the field of Joshua of Beth-shemesh.
+</p>
+
+## Who can stand before the LORD?
+
+<p>
+v19: The LORD struck the men of Beth-shemesh because they looked into his ark. He struck down fifty thousand and seventy men. The people mourned because the LORD had dealt them such a heavy blow.
+</p>
+
+<p>
+v20: The men of Beth-shemesh asked, “Who can stand before the LORD, this holy God? To whom will he go up, away from us?”
+</p>
+
+<p>
+v21: They sent messengers to the people of Kiriath-jearim: “The Philistines have returned the LORD’s ark. Come down and take it up to your town.”
 </p>
 
 ## Notes
 
-v03: The Philistine priests interpret the crisis through the category of a guilt offering, acknowledging offense without entering Israel’s covenant system.
+v18: The pinned Hebrew has “great Abel,” a difficult expression. “Great stone” follows the object described in verses 14–15; this is a contextual textual correction.
 
-v05: Gold images of the affliction function as symbolic acknowledgment of the plague and an attempt to honor Israel’s God.
-
-v06: The Philistines explicitly interpret their experience through the exodus story and Pharaoh’s hardened heart.
-
-v07–09: The test is designed to work against the cows’ natural impulse to return to their calves. Their direct journey therefore serves as evidence of divine direction.
-
-v12: The cows low as they go, preserving the sense that they are moving against maternal instinct.
-
-v18: The final phrase is textually difficult. The Masoretic Text reads “great Abel/stone”; some versions reflect “great stone.” TSW follows the contextual stone reading.
-
-v19: The Masoretic Text’s number is textually difficult. Many manuscripts and ancient witnesses support seventy men; some readings suggest “seventy men, fifty thousand men.” TSW uses seventy and notes the textual problem.
-
-v20: The chapter’s central question is not whether the ark can be recovered but who can stand before the holy God associated with it.
+v19: The Hebrew gives the numbers in the unusual order “seventy men, fifty thousand men.” They are retained as a combined total, fifty thousand and seventy, rather than silently omitting fifty thousand. The number and its transmission require further textual review. “Looked into” may also be “looked at.”
 
 ## Vocabulary
 
-v02: קֹסֵם (qosem)
-“Diviner.” A practitioner consulted by the Philistines.
+v03: Reparation offering — asham
+An offering acknowledging guilt and making amends. Here the Philistine advisers prescribe gold objects.
 
-v03: אָשָׁם (asham)
-“Guilt offering.”
-
-v05: כָּבוֹד (kavod)
-“Glory” or honor. The Philistines are told to give glory to God.
-
-v06: כָּבֵד לֵב (kaved lev)
-“To harden the heart.”
-
-v09: מִקְרֶה (miqreh)
-“Chance” or occurrence.
-
-v12: יָשַׁר (yashar)
-“To go straight.”
-
-v20: קָדוֹשׁ (qadosh)
-“Holy.”
-
-v21: קִרְיַת יְעָרִים (Qiryat-Ye'arim)
-“Kiriath-Jearim.” The next resting place of the ark.
+v06: Heavy hearts
+The Hebrew uses the same root as “heavy hand” and “honor” nearby. Here it means stubborn refusal to respond.

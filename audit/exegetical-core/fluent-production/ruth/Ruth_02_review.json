@@ -2,47 +2,72 @@
   "book": "Ruth",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "canonical_tsw_sha": "1b449177872f8fafb26975d421bc69793dcb5cc8",
-  "source": "OSHB/WLC Ruth 2, revision 6a5db28",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "publication_allowed": false,
+  "revision_id": "fluent-ruth-1-4-biblical-fluency-2026-09-14",
+  "supersedes": {
+    "commit": "ef956502c0b537887d9fb14f6e4ec742853c71ae",
+    "path": "audit/exegetical-core/fluent-production/ruth/Ruth_02_review.json"
+  },
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ruth",
+    "book_verse_count": 85,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ruth.xml",
+    "git_blob_sha": "e4aea25dfc593685e7e8f7ec995b96789f5c7060",
+    "sha256": "1ac0d20a0284842ce99a91fc42d0ed438d5c7fdca8e85d4b235e84fc0d9aa021",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ruth.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "public_versification_note": "Ruth 1–4: all 85 public verses bind one-to-one to the matching original Hebrew records. Later chapters are outside this batch."
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 23,
+    "path": "translations/fluent/OT/ruth/Ruth_02.md",
+    "before_sha256": "868f2b56d4d672d4d421bf00612810f1a73ed1e1dd7cd822e103add68952a2e2",
+    "after_sha256": "bcb88f5ab2ebbb918433522fba2b602641b63e8c4cdb03287b214d3e331c43bb",
+    "tsw_comparator_path": "books/OT/ruth/Ruth_02.md",
+    "tsw_comparator_sha256": "2ac906313e50167b9e494f987486ce41f073621355f864964e18a8f24d186626"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-14-ruth-1-4/ruth-verse-review.json",
+  "public_versification": {
+    "1–23": "Ruth 2:1–23"
+  },
   "key_decisions": [
     {
-      "verse": 1,
-      "delta": "F2",
-      "decision": "gibbôr ḥayil → man of standing"
+      "location": "Ruth 2:7",
+      "delta": "F3",
+      "decision": "Uses plausible rest/shelter reading of difficult final clause, flagged in note.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "verse": 3,
-      "delta": "F2",
-      "decision": "As it happened; do not insert providence into verse"
+      "location": "Ruth 2:9",
+      "delta": "F3",
+      "decision": "Keeps gender distinctions and explicit prohibition on touching without softening risk.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "verse": 12,
-      "delta": "F0/F1",
-      "decision": "preserve wings/refuge imagery"
+      "location": "Ruth 2:20",
+      "delta": "F3",
+      "decision": "Main text attaches relative clause to LORD; note preserves possible Boaz referent and family redemption.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "verse": 15,
-      "delta": "F2",
-      "decision": "do not shame her"
-    },
-    {
-      "verse": 20,
-      "delta": "F0",
-      "decision": "retain steadfast love / redeemers"
-    },
-    {
-      "verse": 21,
-      "delta": "F0/F1",
-      "decision": "retain young men in Ruth's quotation; Naomi answers young women"
+      "location": "Ruth 2:22",
+      "delta": "F3",
+      "decision": "Retains Naomi’s women and the threat conveyed by paga in context.",
+      "disposition": "REVIEW_PENDING"
     }
   ],
-  "apparatus": "Canonical TSW Notes/Vocabulary from main carried forward unchanged pending later shared-apparatus Core migration.",
-  "publication_allowed": false,
-  "book_qa": {
-    "version": "1.0",
-    "reviewer": "OpenAI-assisted editorial review under Fluent v2.0 rules",
-    "f3_disposition": "resolved in RUTH_FLUENT_BOOK_QA.json",
-    "book_level_consistency": "passed"
-  }
+  "qa_scope": "structural"
 }

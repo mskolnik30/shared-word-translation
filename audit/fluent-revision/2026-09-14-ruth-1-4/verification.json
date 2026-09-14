@@ -1,0 +1,37 @@
+{
+  "status": "PASSED",
+  "scope": "Ruth 1–4",
+  "combined_verification": "../2026-09-14-1samuel-1-16/verification.json",
+  "structural_chapters": [
+    {
+      "path": "translations/fluent/OT/ruth/Ruth_01.md",
+      "verses": 22,
+      "sha256": "a14ae00a134aaee23c9da8dbf81f7339af998e3d0c603b1441ea695b85b56cea",
+      "paragraphs": 13,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/ruth/Ruth_02.md",
+      "verses": 23,
+      "sha256": "bcb88f5ab2ebbb918433522fba2b602641b63e8c4cdb03287b214d3e331c43bb",
+      "paragraphs": 17,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/ruth/Ruth_03.md",
+      "verses": 18,
+      "sha256": "1441022f6cd9a943762dcec52fcb2ce93bacebe7e4623c99e20900429b173358",
+      "paragraphs": 12,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/ruth/Ruth_04.md",
+      "verses": 22,
+      "sha256": "6b333947827a437050688b98316f266c4286ace274ddfbe86b1d6bc142a87d53",
+      "paragraphs": 14,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    }
+  ],
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

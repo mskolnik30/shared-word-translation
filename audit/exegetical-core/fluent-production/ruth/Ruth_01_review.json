@@ -2,85 +2,78 @@
   "book": "Ruth",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
   "publication_allowed": false,
-  "source_basis": [
-    "Masoretic Hebrew text of Ruth 1 independently verified from Sefaria/Mechon-Mamre",
-    "Exact OSHB/WLC source lock approved by Matthew J. Skolnik on 2026-09-04: openscriptures/morphhb commit 6a5db284c715c18b239422e57bb89684e6a19f00, wlc/Ruth.xml, Git blob e4aea25dfc593685e7e8f7ec995b96789f5c7060"
-  ],
-  "important_decisions": [
+  "revision_id": "fluent-ruth-1-4-biblical-fluency-2026-09-14",
+  "supersedes": {
+    "commit": "ef956502c0b537887d9fb14f6e4ec742853c71ae",
+    "path": "audit/exegetical-core/fluent-production/ruth/Ruth_01_review.json"
+  },
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ruth",
+    "book_verse_count": 85,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ruth.xml",
+    "git_blob_sha": "e4aea25dfc593685e7e8f7ec995b96789f5c7060",
+    "sha256": "1ac0d20a0284842ce99a91fc42d0ed438d5c7fdca8e85d4b235e84fc0d9aa021",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ruth.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "public_versification_note": "Ruth 1–4: all 85 public verses bind one-to-one to the matching original Hebrew records. Later chapters are outside this batch."
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 22,
+    "path": "translations/fluent/OT/ruth/Ruth_01.md",
+    "before_sha256": "7cd8f690e64fe8272e2b662689942ddca5a58d97b506bac1e0b8523768421f66",
+    "after_sha256": "a14ae00a134aaee23c9da8dbf81f7339af998e3d0c603b1441ea695b85b56cea",
+    "tsw_comparator_path": "books/OT/ruth/Ruth_01.md",
+    "tsw_comparator_sha256": "c20639fdb4b8061cb0059cefb6c78ceec58fdacac14b0488d8dfd6f77bf45b69"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-14-ruth-1-4/ruth-verse-review.json",
+  "public_versification": {
+    "1–22": "Ruth 1:1–22"
+  },
+  "key_decisions": [
     {
-      "verse": 6,
-      "classification": "F2_REVIEW",
-      "rendering": "the LORD had attended to his people by giving them food",
-      "note": "Hebrew paqad has a range including attend to/visit/take notice of; review against TSW lexical policy."
+      "location": "Ruth 1:13",
+      "delta": "F3",
+      "decision": "Chooses comparative mikkem while noting alternative for-your-sake; preserves Naomi’s accusation.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "verse": 8,
-      "classification": "PROPOSED_BOOK_LEXEME_ANCHOR",
-      "rendering": "steadfast love",
-      "lemma": "חֶסֶד",
-      "note": "Key thematic term in Ruth; preserve across 1:8, 2:20, 3:10 unless context requires otherwise."
+      "location": "Ruth 1:15",
+      "delta": "F3",
+      "decision": "Retains plural gods and sister-in-law relationship.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "verse": 9,
-      "classification": "F2_REVIEW",
-      "rendering": "rest in the home of a husband",
-      "lemma": "מְנוּחָה",
-      "note": "Rest can carry security/home implications; main text preserves the image rather than replacing it with explanation."
+      "location": "Ruth 1:17",
+      "delta": "F3",
+      "decision": "Renders oath idiom without inventing its unstated curse; notes force of death clause.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "verse": 13,
-      "classification": "F1_F2_REVIEW",
-      "rendering": "the hand of the LORD has gone out against me",
-      "note": "Preserve Naomi's own interpretation and the concrete biblical image."
+      "location": "Ruth 1:20",
+      "delta": "F3",
+      "decision": "Retains names for wordplay note and Naomi’s attribution of bitterness.",
+      "disposition": "REVIEW_PENDING"
     },
     {
-      "verse": 14,
-      "classification": "PROPOSED_BOOK_LEXEME_ANCHOR",
-      "rendering": "Ruth clung to her",
-      "lemma": "דבק",
-      "note": "The verb is thematically significant; do not soften to merely stayed."
-    },
-    {
-      "verse": 15,
-      "classification": "F3_REVIEW",
-      "rendering": "her gods",
-      "note": "Hebrew אלהיה can be read numerically plural or, contextually, as a singular divine reference. Review against current TSW."
-    },
-    {
-      "verses": [
-        16,
-        17
-      ],
-      "classification": "F2_REVIEW",
-      "rendering": "Where you go, I will go ...",
-      "note": "Retain covenantal/oath force without turning Ruth's speech into explanatory prose."
-    },
-    {
-      "verse": 20,
-      "classification": "PROPOSED_DIVINE_NAME_POLICY",
-      "rendering": "Shaddai",
-      "note": "Traditional 'Almighty' is interpretive and the etymology is uncertain. Review whether Fluent should teach the divine name directly."
-    },
-    {
-      "verse": 21,
-      "classification": "F2_REVIEW",
-      "rendering": "the LORD has testified against me",
-      "note": "Preserves Naomi's legal metaphor and her perspective rather than converting it to narrator theology."
-    },
-    {
-      "verse": 22,
-      "classification": "PROPOSED_LITERARY_ANCHOR",
-      "rendering": "Naomi returned ... Ruth ... who returned",
-      "note": "Preserve repeated shuv/return language even though English style might prefer variation."
+      "location": "Ruth 1:21",
+      "delta": "F3",
+      "decision": "Preserves full/empty and forensic anah bi without turning her lament into narrator judgment.",
+      "disposition": "REVIEW_PENDING"
     }
   ],
-  "apparatus_policy": "No public Notes/Vocabulary inserted yet because canonical shared TSW apparatus for Ruth 1 was not recovered. Proposed apparatus remains in this review ledger until Core reconciliation.",
-  "book_qa": {
-    "version": "1.0",
-    "reviewer": "OpenAI-assisted editorial review under Fluent v2.0 rules",
-    "f3_disposition": "resolved in RUTH_FLUENT_BOOK_QA.json",
-    "book_level_consistency": "passed"
-  }
+  "qa_scope": "structural"
 }

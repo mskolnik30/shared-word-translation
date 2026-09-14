@@ -4,120 +4,98 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-ruth-1-4-biblical-fluency-2026-09-14
 ---
 
-## Boaz Redeems Ruth
+## Redemption at the town gate
+
 <p>
-v01: Boaz went up to the town gate and sat down there. Just then, the redeemer Boaz had spoken about came by. Boaz said, “Come over here, so-and-so, and sit down.” So the man came over and sat down.
-v02: Boaz gathered ten of the town elders and said, “Sit down here.” So they sat down.
-v03: Then Boaz said to the redeemer, “Naomi, who has returned from the country of Moab, is selling the parcel of land that belonged to our relative Elimelech.
-v04: I thought I should inform you and say, ‘Buy it in the presence of those sitting here and in the presence of the elders of my people.’ If you will redeem it, redeem it. But if you will not, tell me so I will know, because no one has the right to redeem it before you, and I come after you.” The man said, “I will redeem it.”
+v01: Boaz went up to the town gate and sat down. Just then the redeemer he had spoken of passed by. “Come over and sit here, so-and-so,” Boaz called. The man came over and sat down.
+v02: Boaz gathered ten of the town’s elders. “Sit here,” he said, and they sat down.
 </p>
 
 <p>
-v05: Then Boaz said, “On the day you buy the field from Naomi, you also acquire Ruth the Moabite, the widow of the dead man, in order to preserve the dead man’s name with his inheritance.”
-v06: The redeemer said, “I cannot redeem it for myself, because I might damage my own inheritance. Take my right of redemption for yourself, because I cannot redeem it.”
-</p>
-
-## The Redemption Confirmed
-<p>
-v07: In former times in Israel, this was the custom concerning redemption and exchange: to confirm a matter, one man removed his sandal and gave it to the other. This was how an agreement was formally confirmed in Israel.
-v08: So the redeemer said to Boaz, “Buy it for yourself,” and he removed his sandal.
-v09: Then Boaz said to the elders and all the people, “You are witnesses today that I have acquired from Naomi everything that belonged to Elimelech and everything that belonged to Chilion and Mahlon.
-v10: I have also acquired Ruth the Moabite, Mahlon’s widow, as my wife, in order to preserve the dead man’s name with his inheritance, so that his name will not be cut off from among his relatives or from the gate of his hometown. You are witnesses today.”
+v03: He told the redeemer, “Naomi, who has returned from Moab, is selling the piece of land that belonged to our relative Elimelech.
 </p>
 
 <p>
-v11: All the people at the gate and the elders said, “We are witnesses. May the LORD make the woman who is coming into your house like Rachel and Leah, who together built the house of Israel. May you prosper in Ephrathah and make a name for yourself in Bethlehem.
-v12: And may your house become like the house of Perez, whom Tamar bore to Judah, through the offspring the LORD gives you by this young woman.”
-</p>
-
-## The Birth of Obed
-<p>
-v13: So Boaz took Ruth, and she became his wife. He slept with her, and the LORD enabled her to conceive, and she gave birth to a son.
-v14: Then the women said to Naomi, “Blessed be the LORD, who has not left you today without a redeemer. May his name become renowned in Israel.
-v15: He will restore your life and sustain you in your old age, because your daughter-in-law who loves you has given birth to him—she who is better to you than seven sons.”
+v04: I thought I should bring it to your attention: buy it here before those seated with us and the elders of my people. If you will redeem it, do so. If it is not to be redeemed, tell me so I will know. You have the first right to redeem it, and I come after you.” “I will redeem it,” the man said.
 </p>
 
 <p>
-v16: Naomi took the child, held him close, and cared for him.
-v17: The neighborhood women gave him a name, saying, “A son has been born to Naomi.” They named him Obed. He became the father of Jesse, the father of David.
+v05: Then Boaz said, “On the day you acquire the field from Naomi, you also acquire Ruth the Moabite, the dead man’s widow, to preserve the dead man’s name on his inheritance.”
 </p>
 
-## The Line of David
 <p>
-v18: Now these are the generations of Perez: Perez fathered Hezron,
+v06: The redeemer replied, “I cannot redeem it for myself without jeopardizing my own inheritance. Take over my right of redemption. I cannot redeem it.”
+</p>
+
+<p>
+v07: In earlier times in Israel, this was the practice for confirming a redemption or an exchange: a man took off his sandal and gave it to the other party. This served as proof of the transaction in Israel.
+</p>
+
+<p>
+v08: So the redeemer said to Boaz, “Acquire it for yourself,” and took off his sandal.
+</p>
+
+<p>
+v09: Boaz said to the elders and all the people, “Today you are witnesses that I have acquired from Naomi everything that belonged to Elimelech, Chilion, and Mahlon.
+v10: I have also acquired Ruth the Moabite, Mahlon’s widow, as my wife, to preserve the dead man’s name on his inheritance. His name must not disappear from among his relatives or from the gate of his hometown. Today you are witnesses.”
+</p>
+
+<p>
+v11: All the people at the gate and the elders replied, “We are witnesses. May the LORD make the woman entering your home like Rachel and Leah, who together built the house of Israel. May you prosper in Ephrathah and make a name in Bethlehem.
+v12: Through the offspring the LORD gives you by this young woman, may your house be like the house of Perez, whom Tamar bore to Judah.”
+</p>
+
+## A son and a restored life
+
+<p>
+v13: Boaz took Ruth as his wife and slept with her. The LORD enabled her to conceive, and she bore a son.
+</p>
+
+<p>
+v14: The women said to Naomi, “Blessed be the LORD, who has not left you without a redeemer today! May his name be renowned in Israel.
+v15: He will restore your life and sustain you in old age. Your daughter-in-law, who loves you, has borne him—she who is better to you than seven sons.”
+</p>
+
+<p>
+v16: Naomi took the child into her lap and became his caregiver.
+</p>
+
+<p>
+v17: The neighboring women gave him a name, saying, “A son has been born to Naomi!” They named him Obed. He became the father of Jesse, the father of David.
+</p>
+
+## From Perez to David
+
+<p>
+v18: These are the generations of Perez: Perez fathered Hezron,
 v19: Hezron fathered Ram, Ram fathered Amminadab,
-v20: Amminadab fathered Nahshon, Nahshon fathered Salmon,
+v20: Amminadab fathered Nahshon, Nahshon fathered Salmah,
 v21: Salmon fathered Boaz, Boaz fathered Obed,
 v22: Obed fathered Jesse, and Jesse fathered David.
 </p>
 
 ## Notes
 
-v01–06: Boaz conducts the redemption publicly and according to established legal custom.
+v01: “So-and-so” represents an unnamed person. The narrator withholds the closer redeemer’s name.
 
-v05: Redemption involves both the land and the preservation of the deceased family's name through marriage.
+v03: “Is selling” can also be read “has sold.” The precise stage of the land transaction is not clear.
 
-v06: The nearer redeemer declines because fulfilling the obligation could affect his own inheritance.
+v05: The traditional reading says “you acquire”; the written form says “I acquire.” The surrounding wording is also difficult, literally including “and from Ruth.” This rendering follows the traditional reading and the connection between land and marriage made in verse 10.
 
-v07–08: The sandal exchange serves as a formal legal confirmation of the transaction.
+v14–16: The women’s words associate the newborn with Naomi’s restoration. Naomi becomes his caregiver; the text does not specify a formal adoption or say that she breastfeeds him.
 
-v09–10: Boaz publicly declares his intentions before witnesses, emphasizing transparency and covenant responsibility.
-
-v11–12: The blessing connects Ruth to the matriarchs Rachel and Leah and to the story of Tamar, another woman through whom God preserved a family line.
-
-v13: Ruth's conception is explicitly attributed to the LORD's blessing.
-
-v14–15: The women identify the child as God's answer to Naomi's emptiness and loss.
-
-v15: Ruth is praised as better than seven sons, an extraordinary statement in the cultural setting of the book.
-
-v16–17: Naomi, who began the story in bitterness and bereavement, ends it holding a grandson and surrounded by blessing.
-
-v17: Obed becomes the grandfather of David, revealing the larger significance of the story.
-
-v18–22: The genealogy places Ruth and Boaz within the line that leads to Israel's royal house.
-
-v22: The book concludes by directing attention toward David, whose future kingdom will shape Israel's history.
+v20–21: The Hebrew has Salmah in verse 20 and Salmon in verse 21 for the same place in the genealogy. Both forms are retained.
 
 ## Vocabulary
 
-v01: שַׁעַר (šaʿar)
-“Gate.” The public place where legal and civic matters were conducted.
+v07: Redemption — ge’ullah
+The right or action of a family redeemer; related forms recur throughout the negotiation.
 
-v03: גָּאַל (gāʾal)
-“To redeem.” To reclaim property, protect family interests, or restore what has been lost.
-
-v04: גְּאֻלָּה (gĕʾullâ)
-“Redemption.” The legal right and responsibility of a family redeemer.
-
-v06: נַחֲלָה (naḥălâ)
-“Inheritance.” Property or family possession passed through generations.
-
-v07: נַעַל (naʿal)
-“Sandal.” Removed as a symbolic act confirming a legal transaction.
-
-v09: עֵד (ʿēḏ)
-“Witness.” One who testifies to the validity of an agreement.
-
-v10: שֵׁם (šēm)
-“Name.” More than an identifier; it signifies family continuity, memory, and legacy.
-
-v11: בָּנָה (bānâ)
-“To build.” Used figuratively of establishing a household or family line.
-
-v13: הָרָה (hārâ)
-“To conceive.” To become pregnant.
-
-v15: שׁוּב נֶפֶשׁ (šûḇ nepeš)
-“To restore life.” To revive, refresh, or renew vitality.
-
-v17: עוֹבֵד (ʿÔḇēḏ)
-“Obed.” Meaning “servant” or “one who serves.”
-
-v18: תּוֹלְדוֹת (tôlĕdôt)
-“Generations.” A genealogical record linking people across time.
-
-v22: דָּוִד (Dāwiḏ)
-“David.” The future king whose lineage concludes the book and gives it enduring significance.
+v10: Name and inheritance
+The stated purpose is to preserve the dead man’s name in connection with his inherited property.

@@ -4,106 +4,88 @@ testament: OT
 chapter: 7
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-1-16-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 7
-
-## The Ark Remains at Kiriath-Jearim
+## The ark at Kiriath-jearim
 
 <p>
-v01: The men of Kiriath-Jearim came and brought up the ark of the LORD. They brought it into the house of Abinadab on the hill and consecrated Eleazar his son to keep the ark of the LORD.
-
-v02: And it happened from the day the ark remained at Kiriath-Jearim that the days became many—twenty years—and all the house of Israel lamented after the LORD.
+v01: The men of Kiriath-jearim came and took the LORD’s ark up to Abinadab’s house on the hill. They consecrated his son Eleazar to guard it.
+v02: A long time passed after the ark settled at Kiriath-jearim—twenty years. All the house of Israel lamented and longed for the LORD.
 </p>
 
-## Samuel Calls Israel to Return
+## Israel returns to the LORD
 
 <p>
-v03: Samuel spoke to all the house of Israel, saying, “If you are returning to the LORD with all your heart, remove the foreign gods and the Ashtaroth from your midst. Direct your heart to the LORD and serve him alone, and he will rescue you from the hand of the Philistines.”
-
-v04: So the children of Israel removed the Baals and the Ashtaroth and served the LORD alone.
+v03: Samuel told all the house of Israel, “If you are returning to the LORD with all your heart, remove the foreign gods and the Ashtoreths from among you. Set your hearts on the LORD and serve him alone. Then he will rescue you from the Philistines’ hand.”
 </p>
 
-## Israel Gathers at Mizpah
-
 <p>
-v05: Samuel said, “Gather all Israel to Mizpah, and I will pray to the LORD for you.”
-
-v06: They gathered at Mizpah, drew water and poured it out before the LORD, and fasted on that day. They said there, “We have sinned against the LORD.” And Samuel judged the children of Israel at Mizpah.
+v04: The Israelites removed the Baals and the Ashtoreths and served the LORD alone.
 </p>
 
-## The LORD Thunders against the Philistines
-
 <p>
-v07: When the Philistines heard that the children of Israel had gathered at Mizpah, the rulers of the Philistines went up against Israel. When the children of Israel heard, they were afraid before the Philistines.
-
-v08: The children of Israel said to Samuel, “Do not be silent from crying out for us to the LORD our God, that he may save us from the hand of the Philistines.”
-
-v09: Samuel took one nursing lamb and offered it whole as a burnt offering to the LORD. Samuel cried out to the LORD for Israel, and the LORD answered him.
-
-v10: As Samuel was offering the burnt offering, the Philistines drew near for battle against Israel. But the LORD thundered with a great voice on that day against the Philistines and threw them into confusion, and they were struck before Israel.
-
-v11: The men of Israel went out from Mizpah and pursued the Philistines and struck them as far as below Beth-Car.
+v05: Samuel said, “Gather all Israel at Mizpah, and I will pray to the LORD for you.”
 </p>
 
-## Ebenezer
-
 <p>
-v12: Then Samuel took a stone and set it between Mizpah and Shen and called its name Ebenezer. He said, “Thus far the LORD has helped us.”
-
-v13: So the Philistines were subdued and did not again enter the territory of Israel. The hand of the LORD was against the Philistines all the days of Samuel.
-
-v14: The cities that the Philistines had taken from Israel were restored to Israel, from Ekron as far as Gath, and Israel rescued their territory from the hand of the Philistines. And there was peace between Israel and the Amorites.
+v06: They gathered at Mizpah, drew water, and poured it out before the LORD. They fasted that day and said, “We have sinned against the LORD.” Samuel judged the Israelites at Mizpah.
 </p>
 
-## Samuel Judges Israel
+## Deliverance at Mizpah
 
 <p>
-v15: Samuel judged Israel all the days of his life.
+v07: When the Philistines heard that the Israelites had gathered at Mizpah, their rulers advanced against Israel. The Israelites heard and were afraid of them.
+</p>
 
-v16: He went year by year in circuit to Bethel, Gilgal, and Mizpah, and he judged Israel at all these places.
+<p>
+v08: They said to Samuel, “Do not stop crying out to the LORD our God for us, so he may save us from the Philistines’ hand.”
+</p>
 
-v17: Then he returned to Ramah, for his house was there, and there he judged Israel. And he built there an altar to the LORD.
+<p>
+v09: Samuel took a nursing lamb and offered it whole as a burnt offering to the LORD. He cried out to the LORD for Israel, and the LORD answered him.
+</p>
+
+<p>
+v10: While Samuel was offering the burnt offering, the Philistines drew near to fight Israel. That day the LORD thundered loudly against them, threw them into confusion, and they were defeated before Israel.
+</p>
+
+<p>
+v11: The men of Israel came out from Mizpah and pursued the Philistines, striking them down as far as below Beth-car.
+</p>
+
+<p>
+v12: Samuel took a stone and set it between Mizpah and Shen. He named it Ebenezer, saying, “Thus far the LORD has helped us.”
+</p>
+
+<p>
+v13: The Philistines were subdued and stopped entering Israel’s territory. The LORD’s hand was against them throughout Samuel’s days.
+</p>
+
+<p>
+v14: The towns the Philistines had taken from Israel were restored, from Ekron to Gath. Israel also rescued their surrounding territory from the Philistines’ hand. There was peace between Israel and the Amorites.
+</p>
+
+## Samuel’s circuit
+
+<p>
+v15: Samuel judged Israel throughout his life.
+v16: Each year he traveled a circuit through Bethel, Gilgal, and Mizpah, judging Israel in all these places.
+v17: He always returned to Ramah, where his home was. He judged Israel there too, and there he built an altar to the LORD.
 </p>
 
 ## Notes
 
-v02: “Lamented after the LORD” describes prolonged yearning or mourning that opens into repentance.
+v02: The difficult verb describes lamenting or yearning after the LORD. The twenty years mark the time leading into this account, not necessarily the ark’s entire stay.
 
-v03: Returning to the LORD is defined through both removal of rival gods and inward direction of the heart.
+v06: The passage describes pouring out water but does not explain the ritual’s meaning.
 
-v06: The pouring out of water is not explained elsewhere as a standard rite. In context it accompanies fasting and confession.
-
-v09: Samuel’s intercession and sacrifice precede deliverance, emphasizing dependence upon the LORD.
-
-v10: The LORD’s thunder reverses the military situation without Israel first gaining strategic superiority.
-
-v12: “Ebenezer” means “stone of help.” The same place-name appeared earlier at Israel’s defeat, but Samuel now gives a theological memorial to divine help.
-
-v14: The statement about peace with the Amorites likely refers to local Canaanite populations living alongside Israel.
+v12: “Thus far” can point to help up to this time or to this place.
 
 ## Vocabulary
 
-v02: נָהָה (nahah)
-“To lament” or yearn after.
-
-v03: כּוּן לֵב (kun lev)
-“To direct the heart.”
-
-v06: צוּם (tsum)
-“To fast.”
-
-v09: עֹלָה (olah)
-“Burnt offering.”
-
-v10: רָעַם (ra'am)
-“To thunder.”
-
-v12: אֶבֶן הָעֵזֶר (Even ha-Ezer)
-“Stone of help.”
-
-v13: כָּנַע (kana)
-“To subdue.”
-
-v16: סָבַב (savav)
-“To go around.” Samuel’s judicial circuit.
+v12: Ebenezer — even ha‘ezer
+“Stone of help.” Samuel’s explanation makes the name a memorial of help received.

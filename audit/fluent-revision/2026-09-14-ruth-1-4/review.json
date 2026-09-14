@@ -1,0 +1,161 @@
+{
+  "scope": "Ruth 1–4",
+  "base_commit": "ef956502c0b537887d9fb14f6e4ec742853c71ae",
+  "draft_chapters": 4,
+  "draft_verses": 85,
+  "first_source_reading": "Every pinned Hebrew verse and its written/read notes read before drafting. Exact XML records, Git blob and full-file SHA256 verified.",
+  "authoring_method": "Independently composed from Hebrew; all TSW verses read afterward as comparators. No synonym engine or overlap/change quota. Clear shared wording retained.",
+  "source_reread_verses": 22,
+  "focus_evidence": "focused-comparisons.json",
+  "apparatus": "Selective Notes and Vocabulary describe Hebrew terms and consequential ambiguity, without sermons or political/doctrinal arguments.",
+  "verse_summary": {
+    "verses_reviewed": 85,
+    "verses_with_changed_text": 80,
+    "delta_counts": {
+      "F2": 58,
+      "F0": 5,
+      "F3": 22
+    }
+  },
+  "overlap": {
+    "before": {
+      "identical": 5,
+      "near_identical_nonidentical": 10
+    },
+    "after": {
+      "identical": 3,
+      "near_identical_nonidentical": 5
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse similarity is triage, not proof of fidelity, originality or reader comprehension.",
+  "verification": "../2026-09-14-1samuel-1-16/verification.json",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "companion_impacts": "All Ruth 1–4 quotations and bindings must be reconciled at later installation. No Companion branch changes or public deployment.",
+  "chapter_decisions": [
+    {
+      "chapter": 1,
+      "verse_count": 22,
+      "notes": [
+        [
+          "13",
+          "“Greater than yours” may also mean “bitter for me because of you.” Naomi speaks from her own grief."
+        ],
+        [
+          "17",
+          "The oath leaves its threatened punishment unnamed. The final clause can also be understood as “if even death separates you and me.”"
+        ],
+        [
+          "20–21",
+          "Naomi suggests pleasantness; Mara means bitter. “The Almighty” renders Shaddai, a divine title whose origin is uncertain. “Testified against me” can also be understood as “afflicted me.”"
+        ]
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "notes": [
+        [
+          "07",
+          "The Hebrew’s last clause is difficult. It appears to mention a short rest in a house or field shelter; the duration and setting are not certain."
+        ],
+        [
+          "09",
+          "“Not to touch you” forbids interference or harm; the surrounding conversation makes Ruth’s safety a concrete concern."
+        ],
+        [
+          "20",
+          "The Hebrew can refer either to the LORD’s steadfast love or to Boaz’s. The living and the dead remain joined in Naomi’s blessing."
+        ],
+        [
+          "21–22",
+          "Ruth reports “young men,” while Naomi says “young women.” These differences follow the Hebrew."
+        ]
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "notes": [
+        [
+          "04–09",
+          "The text describes uncovering Boaz’s feet and lying down. The nighttime setting and garment request carry intimate and marital implications, but the narrative does not explicitly describe intercourse."
+        ],
+        [
+          "09",
+          "“Wing of your garment” renders kanaph, which can mean a wing or the edge of clothing. Compare the refuge under the LORD’s wings in 2:12."
+        ],
+        [
+          "15",
+          "The Hebrew does not name the unit for the six measures. Its final verb is masculine: “he went,” referring to Boaz."
+        ],
+        [
+          "16",
+          "Literally, “Who are you, my daughter?” In context Naomi is asking about the outcome or Ruth’s changed situation; the words echo Boaz’s question in 3:9."
+        ]
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "notes": [
+        [
+          "01",
+          "“So-and-so” represents an unnamed person. The narrator withholds the closer redeemer’s name."
+        ],
+        [
+          "03",
+          "“Is selling” can also be read “has sold.” The precise stage of the land transaction is not clear."
+        ],
+        [
+          "05",
+          "The traditional reading says “you acquire”; the written form says “I acquire.” The surrounding wording is also difficult, literally including “and from Ruth.” This rendering follows the traditional reading and the connection between land and marriage made in verse 10."
+        ],
+        [
+          "14–16",
+          "The women’s words associate the newborn with Naomi’s restoration. Naomi becomes his caregiver; the text does not specify a formal adoption or say that she breastfeeds him."
+        ],
+        [
+          "20–21",
+          "The Hebrew has Salmah in verse 20 and Salmon in verse 21 for the same place in the genealogy. Both forms are retained."
+        ]
+      ]
+    }
+  ],
+  "whole_book_authoring_consistency_pass": {
+    "english_verses_read": 85,
+    "all_notes_and_vocabulary_read": true,
+    "selected_hebrew_records_reread": 22,
+    "qualification": "Complete-book English reading and selected Hebrew authoring self-check, not a second complete Hebrew reading or independent review.",
+    "networks": [
+      {
+        "theme": "Return",
+        "decision": "Follow returns between Moab and Judah and Naomi’s repeated directions without erasing Ruth’s attachment."
+      },
+      {
+        "theme": "Rest",
+        "decision": "Connect Naomi’s wishes in 1:9 and 3:1 with Boaz not resting in 3:18."
+      },
+      {
+        "theme": "Steadfast love",
+        "decision": "Preserve relational continuity in 1:8, 2:20 and 3:10; note the uncertain antecedent in 2:20."
+      },
+      {
+        "theme": "Wings",
+        "decision": "Keep the garment wing in 3:9 recognizable beside refuge under the LORD’s wings in 2:12."
+      },
+      {
+        "theme": "Redemption and family name",
+        "decision": "Retain redeemer, land and name vocabulary; notes qualify legal relations rather than identify every custom with levirate marriage."
+      },
+      {
+        "theme": "Full and empty; worth and standing",
+        "decision": "Keep Naomi’s empty return beside the barley gift, and connect Boaz’s and Ruth’s worth through selective vocabulary."
+      }
+    ],
+    "genealogy": "Preserve exact names, relationships, ten-person succession, Salmah in 4:20 and Salmon in 4:21 with a note."
+  }
+}

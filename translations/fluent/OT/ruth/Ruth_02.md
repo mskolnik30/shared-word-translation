@@ -4,119 +4,112 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-ruth-1-4-biblical-fluency-2026-09-14
 ---
 
-## Ruth Gleans in the Field of Boaz
+## Ruth in Boaz’s field
+
 <p>
-v01: Naomi had a relative on her husband’s side, a man of standing from the clan of Elimelech. His name was Boaz.
-v02: Ruth the Moabite said to Naomi, “Let me go to the fields and glean among the heads of grain behind someone in whose eyes I may find favor.” Naomi said to her, “Go, my daughter.”
-v03: So Ruth went out and gleaned in the field behind the reapers. As it happened, she came to the part of the field belonging to Boaz, who was from the clan of Elimelech.
+v01: Naomi had a relative on her husband’s side, a man of standing from Elimelech’s family. His name was Boaz.
+v02: Ruth the Moabite said to Naomi, “Let me go into the fields and glean ears of grain behind someone who will look kindly on me.” Naomi replied, “Go, my daughter.”
+v03: She went out and gleaned in a field behind the harvesters. As it happened, she came to the part of the field belonging to Boaz, who was from Elimelech’s family.
 </p>
 
 <p>
-v04: Just then Boaz came from Bethlehem. He said to the reapers, “The LORD be with you.” They answered him, “The LORD bless you.”
-v05: Boaz asked the servant in charge of the reapers, “Whose young woman is this?”
-v06: The servant in charge of the reapers answered, “She is the young Moabite woman who returned with Naomi from the country of Moab.
-v07: She said, ‘Please let me glean and gather among the sheaves behind the reapers.’ She came early this morning and has continued until now, with only a short rest.”
-</p>
-
-## Boaz Shows Kindness to Ruth
-<p>
-v08: Then Boaz said to Ruth, “Listen, my daughter. Do not go glean in another field, and do not leave this one. Stay close to my young women.
-v09: Keep your eyes on the field they are reaping, and follow after them. I have commanded the young men not to touch you. When you are thirsty, go to the water jars and drink what the young men have drawn.”
-v10: Ruth fell on her face, bowing to the ground, and said to him, “Why have I found favor in your eyes, that you would take notice of me when I am a foreigner?”
+v04: Just then Boaz arrived from Bethlehem. “The LORD be with you,” he said to the harvesters. “The LORD bless you,” they answered.
 </p>
 
 <p>
-v11: Boaz answered her, “Everything you have done for your mother-in-law since your husband’s death has been fully told to me—how you left your father and mother and your homeland and came to a people you did not know before.
-v12: May the LORD repay you for what you have done, and may you receive a full reward from the LORD, the God of Israel, under whose wings you have come to seek refuge.”
-v13: Ruth said, “May I continue to find favor in your eyes, my lord, because you have comforted me and spoken kindly to your servant, though I am not even one of your servants.”
-</p>
-
-## Ruth Eats with the Reapers
-<p>
-v14: At mealtime Boaz said to her, “Come here, eat some of the bread, and dip your piece in the vinegar.” So she sat beside the reapers, and he handed her roasted grain. She ate until she was satisfied and had some left over.
-v15: When she got up to glean, Boaz instructed his young men, “Let her glean even among the sheaves, and do not shame her.
-v16: In fact, pull out some stalks from the bundles for her and leave them for her to glean. Do not rebuke her.”
+v05: Boaz asked the servant supervising the harvesters, “Whose young woman is this?”
 </p>
 
 <p>
-v17: Ruth gleaned in the field until evening. Then she beat out what she had gleaned, and it came to about an ephah of barley.
-v18: She carried it into the town, and her mother-in-law saw what she had gleaned. Ruth also brought out the food she had left after eating her fill and gave it to her.
-</p>
-
-## Naomi Learns About Boaz
-<p>
-v19: Her mother-in-law asked her, “Where did you glean today? Where did you work? Blessed be the one who took notice of you.” So Ruth told her mother-in-law whom she had worked with. She said, “The name of the man I worked with today is Boaz.”
-v20: Naomi said to her daughter-in-law, “May he be blessed by the LORD, whose steadfast love has not forsaken the living or the dead.” Naomi also said to her, “The man is a close relative of ours, one of our redeemers.”
+v06: The supervisor answered, “She is the young Moabite woman who returned with Naomi from Moab.
+v07: She asked, ‘Please let me glean and gather among the sheaves behind the harvesters.’ She came this morning and has stayed until now, with only a short rest in the shelter.”
 </p>
 
 <p>
-v21: Ruth the Moabite said, “He also told me, ‘Stay close to my young men until they have finished all my harvest.’”
-v22: Naomi said to Ruth her daughter-in-law, “It is good, my daughter, that you go out with his young women, so that you are not harmed in another field.”
-v23: So Ruth stayed close to the young women of Boaz, gleaning until the end of the barley harvest and the wheat harvest. And she continued living with her mother-in-law.
+v08: Boaz said to Ruth, “Listen, my daughter. Do not go glean in another field or leave this one. Stay close to my young women.
+v09: Watch the field they are harvesting and follow the women. I have ordered the young men not to touch you. When you are thirsty, go to the jars and drink what the young men have drawn.”
+</p>
+
+<p>
+v10: She fell facedown, bowing to the ground. “Why have I found favor with you?” she asked. “Why take notice of me, a foreigner?”
+</p>
+
+<p>
+v11: Boaz answered, “I have heard all about what you have done for your mother-in-law since your husband died. You left your father and mother and the land of your birth to come to a people you had never known.
+v12: May the LORD repay what you have done. May you receive a full reward from the LORD, the God of Israel, under whose wings you have come for refuge.”
+</p>
+
+<p>
+v13: She said, “May I continue to find favor with you, my lord. You have comforted me and spoken to the heart of your servant, though I do not even rank with one of your female servants.”
+</p>
+
+## Food and a full harvest
+
+<p>
+v14: At mealtime Boaz told her, “Come here. Have some bread and dip your piece in the sour wine.” She sat beside the harvesters, and he offered her roasted grain. She ate her fill and had some left over.
+</p>
+
+<p>
+v15: When she got up to glean, Boaz ordered his young men, “Let her glean even among the sheaves. Do not humiliate her.
+v16: Pull some stalks out of the bundles for her and leave them for her to glean. Do not rebuke her.”
+</p>
+
+<p>
+v17: Ruth gleaned in the field until evening. Then she beat out the grain she had gathered—about an ephah of barley.
+</p>
+
+## One of our redeemers
+
+<p>
+v18: She carried it into town, and her mother-in-law saw what she had gleaned. Ruth also took out what she had saved after eating her fill and gave it to her.
+</p>
+
+<p>
+v19: Her mother-in-law asked, “Where did you glean today? Where did you work? A blessing on the man who took notice of you!” Ruth told her who she had worked with. “The man I worked with today is named Boaz.”
+</p>
+
+<p>
+v20: Naomi said to her daughter-in-law, “May he be blessed by the LORD, who has not abandoned his steadfast love for the living and the dead.” Then she added, “The man is related to us. He is one of our redeemers.”
+</p>
+
+<p>
+v21: Ruth the Moabite continued, “He also told me, ‘Stay close to my young men until they have finished my entire harvest.’”
+</p>
+
+<p>
+v22: Naomi said to Ruth, her daughter-in-law, “It is good, my daughter, for you to go out with his young women. In another field someone might assault you.”
+</p>
+
+<p>
+v23: So Ruth stayed close to Boaz’s young women, gleaning until the barley and wheat harvests were over. She continued living with her mother-in-law.
 </p>
 
 ## Notes
 
-v01: Boaz is introduced as both a relative of Elimelech and a worthy man, preparing for his later role in the story.
+v07: The Hebrew’s last clause is difficult. It appears to mention a short rest in a house or field shelter; the duration and setting are not certain.
 
-v03: Ruth “happens” to arrive at Boaz's field. The narrator presents the event as chance from Ruth's perspective without explicitly naming divine action.
+v09: “Not to touch you” forbids interference or harm; the surrounding conversation makes Ruth’s safety a concrete concern.
 
-v04: Boaz's greeting reveals a household shaped by covenant faith and mutual blessing.
+v20: The Hebrew can refer either to the LORD’s steadfast love or to Boaz’s. The living and the dead remain joined in Naomi’s blessing.
 
-v08–09: Boaz provides Ruth protection, provision, and dignity beyond what the law required.
-
-v10: Ruth remains conscious of her status as a foreigner and outsider.
-
-v11–12: Boaz commends Ruth's covenant loyalty toward Naomi and her trust in the God of Israel.
-
-v12: The image of refuge under God's wings becomes a central theological theme in the book.
-
-v14: Ruth receives a place at the meal alongside the workers, an act of remarkable generosity.
-
-v15–16: Boaz intentionally increases Ruth's provision by instructing the workers to leave grain for her.
-
-v17: An ephah was a substantial amount of grain, far more than a typical day's gleaning.
-
-v20: Naomi recognizes Boaz as a potential redeemer and begins to see God's kindness at work again.
-
-v23: The chapter ends with Ruth continuing faithfully in her work while God's larger plan unfolds.
+v21–22: Ruth reports “young men,” while Naomi says “young women.” These differences follow the Hebrew.
 
 ## Vocabulary
 
-v01: גִּבּוֹר חַיִל (gibbôr ḥayil)
-“Worthy man” or “man of standing.” A person of character, influence, and capability.
+v02: Glean — laqaṭ
+Gather grain left behind by harvesters.
 
-v02: לָקַט (lāqaṭ)
-“To glean.” To gather leftover grain after the harvesters.
+v12: Wings — kenaphayim
+The image of refuge returns in Ruth’s request concerning Boaz’s garment in 3:9.
 
-v02: חֵן (ḥēn)
-“Favor” or “grace.” Acceptance, kindness, or goodwill shown by another.
+v17: Ephah
+An ancient dry measure; the text gives an approximate amount.
 
-v07: עֹמֶר (ʿōmer)
-“Sheaf.” A gathered bundle of harvested grain.
-
-v10: נָכְרִיָּה (nokriyyâ)
-“Foreigner.” One belonging to another people or nation.
-
-v12: שָׂכָר (śāḵār)
-“Reward.” Compensation or repayment for faithful action.
-
-v12: חָסָה (ḥāsâ)
-“To seek refuge.” To take shelter under the protection of another.
-
-v14: קָלִי (qālî)
-“Roasted grain.” Grain prepared as food by roasting.
-
-v17: אֵיפָה (ʾêphâ)
-“Ephah.” A dry measure of substantial volume used for grain.
-
-v20: חֶסֶד (ḥeseḏ)
-“Steadfast love.” Loyal, covenantal kindness and faithfulness.
-
-v20: גֹּאֵל (gōʾēl)
-“Redeemer.” A near relative with responsibilities of protection, restoration, and family preservation.
-
-v23: קָצִיר (qāṣîr)
-“Harvest.” The gathering of mature grain crops.
+v20: Redeemer — go’el
+A relative able to act to recover family property or protect family interests. The exact arrangement unfolds in chapter 4.

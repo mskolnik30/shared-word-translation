@@ -4,105 +4,98 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-1-16-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 8
-
-## Samuel’s Sons Judge Unjustly
+## A demand for a king
 
 <p>
-v01: And it happened when Samuel became old that he appointed his sons as judges over Israel.
-
-v02: The name of his firstborn son was Joel, and the name of his second Abijah. They were judges in Beersheba.
-
-v03: But his sons did not walk in his ways. They turned aside after gain, took bribes, and distorted justice.
+v01: When Samuel grew old, he appointed his sons as judges over Israel.
+v02: His firstborn was named Joel and his second son Abijah. They judged at Beersheba.
 </p>
 
-## Israel Asks for a King
-
 <p>
-v04: Then all the elders of Israel gathered and came to Samuel at Ramah.
-
-v05: They said to him, “Look, you are old, and your sons do not walk in your ways. And now appoint for us a king to judge us like all the nations.”
-
-v06: But the thing was evil in Samuel’s eyes when they said, “Give us a king to judge us.” So Samuel prayed to the LORD.
-
-v07: The LORD said to Samuel, “Listen to the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them.
-
-v08: According to all the deeds they have done from the day I brought them up from Egypt to this day—abandoning me and serving other gods—so they are also doing to you.
-
-v09: And now listen to their voice. Only solemnly warn them and declare to them the judgment of the king who will reign over them.”
+v03: But his sons did not follow his ways. They chased dishonest gain, accepted bribes, and twisted justice.
 </p>
 
-## The Judgment of the King
+<p>
+v04: All Israel’s elders gathered and came to Samuel at Ramah.
+</p>
 
 <p>
-v10: Samuel spoke all the words of the LORD to the people who were asking from him a king.
+v05: They said, “You have grown old, and your sons do not follow your ways. Now appoint a king to judge us, like all the nations have.”
+</p>
 
-v11: He said, “This will be the judgment of the king who will reign over you: he will take your sons and appoint them for himself in his chariots and among his horsemen, and they will run before his chariots.
+<p>
+v06: Their demand, “Give us a king to judge us,” displeased Samuel. He prayed to the LORD.
+</p>
 
-v12: He will appoint them for himself commanders of thousands and commanders of fifties, and some to plow his ground and reap his harvest, and some to make his weapons of war and the equipment of his chariots.
+<p>
+v07: The LORD told Samuel, “Listen to the people in everything they say to you. They have rejected me as their king; it is not you they have rejected.
+v08: From the day I brought them out of Egypt until today, they have abandoned me and served other gods. Now they are treating you in the same way.
+</p>
 
-v13: He will take your daughters as perfumers, cooks, and bakers.
+<p>
+v09: So listen to them. But solemnly warn them and tell them how the king who rules them will treat them.”
+</p>
 
+## What the king will take
+
+<p>
+v10: Samuel told all the LORD’s words to the people asking him for a king.
+</p>
+
+<p>
+v11: He said, “This is how the king who rules you will act: he will take your sons for his chariots and cavalry, and they will run ahead of his chariot.
+v12: He will appoint commanders of thousands and commanders of fifties. He will make others plow his fields, reap his harvest, and manufacture his weapons and chariot equipment.
+</p>
+
+<p>
+v13: He will take your daughters to make perfumes, cook, and bake.
+</p>
+
+<p>
 v14: He will take the best of your fields, vineyards, and olive groves and give them to his servants.
-
-v15: He will take a tenth of your seed and vineyards and give it to his court officials and servants.
-
-v16: He will take your male servants and female servants, your best young men, and your donkeys and use them for his work.
-
-v17: He will take a tenth of your flocks, and you yourselves will become his servants.
-
-v18: You will cry out on that day because of your king whom you chose for yourselves, but the LORD will not answer you on that day.”
+v15: He will take a tenth of your grain and vineyards’ yield and give it to his court officials and servants.
 </p>
 
-## The People Refuse to Listen
+<p>
+v16: He will take your male and female slaves, your best young men, and your donkeys and put them to work for him.
+v17: He will take a tenth of your flocks, and you yourselves will become his slaves.
+</p>
 
 <p>
-v19: But the people refused to listen to the voice of Samuel. They said, “No! But there will be a king over us,
+v18: Then you will cry out because of the king you have chosen for yourselves, but the LORD will not answer you that day.”
+</p>
 
-v20: so that we also may be like all the nations, and our king may judge us and go out before us and fight our battles.”
+## The people insist
 
-v21: Samuel heard all the words of the people and spoke them in the ears of the LORD.
+<p>
+v19: The people refused to listen to Samuel. “No,” they said. “We will have a king over us.
+</p>
 
-v22: The LORD said to Samuel, “Listen to their voice and make a king for them.” Samuel said to the men of Israel, “Go, each man to his city.”
+<p>
+v20: Then we too will be like all the nations. Our king will judge us, go out ahead of us, and fight our battles.”
+</p>
+
+<p>
+v21: Samuel listened to everything the people said and repeated it in the LORD’s hearing.
+</p>
+
+<p>
+v22: The LORD told him, “Listen to them and appoint a king for them.” Then Samuel said to the men of Israel, “Go back, each of you, to your town.”
 </p>
 
 ## Notes
 
-v03: Samuel’s sons repeat the pattern of failed hereditary leadership seen earlier in Eli’s house, especially through greed and corrupted judgment.
+v09–11: “How the king will treat them” renders mishpat, which can mean judgment, right, or established practice. Here it introduces a warning, not an endorsement of each royal action.
 
-v05: Israel’s request combines a legitimate concern about leadership succession with the desire to be “like all the nations.”
-
-v07: The LORD interprets the request fundamentally as rejection of divine kingship, not merely rejection of Samuel.
-
-v09: “Judgment of the king” can mean the king’s customary practice or the way royal power will operate, not a divine endorsement of every act listed.
-
-v11–17: The repeated verb “take” defines Samuel’s warning. Kingship will concentrate people, land, labor, produce, and wealth around the royal house.
-
-v18: The warning culminates in loss of freedom: the people who ask for a king will themselves become royal servants.
-
-v20: The people want the king not only to judge but to lead military action, transferring visible security toward monarchy.
+v16: The pinned Hebrew says “your best young men.” A different reading has “your best cattle.”
 
 ## Vocabulary
 
-v03: בֶּצַע (betsa)
-“Gain” or unjust profit.
-
-v03: שֹׁחַד (shochad)
-“Bribe.”
-
-v03: הִטָּה מִשְׁפָּט (hittah mishpat)
-“To distort justice.”
-
-v07: מָאַס (ma'as)
-“To reject.”
-
-v09: מִשְׁפַּט הַמֶּלֶךְ (mishpat ha-melekh)
-“Judgment/custom of the king.”
-
-v11: לָקַח (laqach)
-“To take.” The repeated royal action.
-
-v20: לָחַם (lacham)
-“To fight.”
+v11–17: Take — laqaḥ
+The repeated verb accumulates: sons, daughters, land, produce, labor, and finally the people themselves.

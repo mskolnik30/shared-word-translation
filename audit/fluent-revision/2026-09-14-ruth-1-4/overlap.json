@@ -1,0 +1,611 @@
+{
+  "scope": "Ruth 1–4",
+  "qualification": "Normalized whole-verse overlap is triage only, not fidelity, originality, comprehension or independent approval. No wording quota.",
+  "summary": {
+    "before": {
+      "identical": 5,
+      "near_identical_nonidentical": 10
+    },
+    "after": {
+      "identical": 3,
+      "near_identical_nonidentical": 5
+    }
+  },
+  "verses": [
+    {
+      "reference": "Ruth 1:1",
+      "before_identical": false,
+      "before_similarity": 0.8,
+      "after_identical": false,
+      "after_similarity": 0.7222222222222222
+    },
+    {
+      "reference": "Ruth 1:2",
+      "before_identical": false,
+      "before_similarity": 0.7368421052631579,
+      "after_identical": false,
+      "after_similarity": 0.7428571428571429
+    },
+    {
+      "reference": "Ruth 1:3",
+      "before_identical": false,
+      "before_similarity": 0.6896551724137931,
+      "after_identical": false,
+      "after_similarity": 0.37037037037037035
+    },
+    {
+      "reference": "Ruth 1:4",
+      "before_identical": false,
+      "before_similarity": 0.6511627906976745,
+      "after_identical": false,
+      "after_similarity": 0.5909090909090909
+    },
+    {
+      "reference": "Ruth 1:5",
+      "before_identical": false,
+      "before_similarity": 0.9230769230769231,
+      "after_identical": false,
+      "after_similarity": 0.8205128205128205
+    },
+    {
+      "reference": "Ruth 1:6",
+      "before_identical": false,
+      "before_similarity": 0.6666666666666666,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Ruth 1:7",
+      "before_identical": false,
+      "before_similarity": 0.7540983606557377,
+      "after_identical": false,
+      "after_similarity": 0.6206896551724138
+    },
+    {
+      "reference": "Ruth 1:8",
+      "before_identical": false,
+      "before_similarity": 0.72,
+      "after_identical": false,
+      "after_similarity": 0.7777777777777778
+    },
+    {
+      "reference": "Ruth 1:9",
+      "before_identical": false,
+      "before_similarity": 0.8148148148148148,
+      "after_identical": false,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "Ruth 1:10",
+      "before_identical": false,
+      "before_similarity": 0.9629629629629629,
+      "after_identical": false,
+      "after_similarity": 0.9629629629629629
+    },
+    {
+      "reference": "Ruth 1:11",
+      "before_identical": false,
+      "before_similarity": 0.7692307692307693,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Ruth 1:12",
+      "before_identical": false,
+      "before_similarity": 0.7605633802816901,
+      "after_identical": false,
+      "after_similarity": 0.5671641791044776
+    },
+    {
+      "reference": "Ruth 1:13",
+      "before_identical": false,
+      "before_similarity": 0.6233766233766234,
+      "after_identical": false,
+      "after_similarity": 0.5352112676056338
+    },
+    {
+      "reference": "Ruth 1:14",
+      "before_identical": false,
+      "before_similarity": 0.95,
+      "after_identical": false,
+      "after_similarity": 0.5789473684210527
+    },
+    {
+      "reference": "Ruth 1:15",
+      "before_identical": false,
+      "before_similarity": 0.7659574468085106,
+      "after_identical": false,
+      "after_similarity": 0.6829268292682927
+    },
+    {
+      "reference": "Ruth 1:16",
+      "before_identical": false,
+      "before_similarity": 0.8780487804878049,
+      "after_identical": false,
+      "after_similarity": 0.7764705882352941
+    },
+    {
+      "reference": "Ruth 1:17",
+      "before_identical": false,
+      "before_similarity": 0.7457627118644068,
+      "after_identical": false,
+      "after_similarity": 0.8666666666666667
+    },
+    {
+      "reference": "Ruth 1:18",
+      "before_identical": false,
+      "before_similarity": 0.7096774193548387,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Ruth 1:19",
+      "before_identical": false,
+      "before_similarity": 0.90625,
+      "after_identical": false,
+      "after_similarity": 0.5357142857142857
+    },
+    {
+      "reference": "Ruth 1:20",
+      "before_identical": false,
+      "before_similarity": 0.9523809523809523,
+      "after_identical": false,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Ruth 1:21",
+      "before_identical": false,
+      "before_similarity": 0.967741935483871,
+      "after_identical": false,
+      "after_similarity": 0.9032258064516129
+    },
+    {
+      "reference": "Ruth 1:22",
+      "before_identical": false,
+      "before_similarity": 0.8709677419354839,
+      "after_identical": false,
+      "after_similarity": 0.5614035087719298
+    },
+    {
+      "reference": "Ruth 2:1",
+      "before_identical": false,
+      "before_similarity": 0.7317073170731707,
+      "after_identical": false,
+      "after_similarity": 0.5641025641025641
+    },
+    {
+      "reference": "Ruth 2:2",
+      "before_identical": false,
+      "before_similarity": 0.8055555555555556,
+      "after_identical": false,
+      "after_similarity": 0.5373134328358209
+    },
+    {
+      "reference": "Ruth 2:3",
+      "before_identical": false,
+      "before_similarity": 0.7164179104477612,
+      "after_identical": false,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Ruth 2:4",
+      "before_identical": false,
+      "before_similarity": 0.875,
+      "after_identical": false,
+      "after_similarity": 0.5106382978723404
+    },
+    {
+      "reference": "Ruth 2:5",
+      "before_identical": false,
+      "before_similarity": 0.5806451612903226,
+      "after_identical": false,
+      "after_similarity": 0.4827586206896552
+    },
+    {
+      "reference": "Ruth 2:6",
+      "before_identical": false,
+      "before_similarity": 0.8333333333333334,
+      "after_identical": false,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Ruth 2:7",
+      "before_identical": false,
+      "before_similarity": 0.7796610169491526,
+      "after_identical": false,
+      "after_similarity": 0.6557377049180327
+    },
+    {
+      "reference": "Ruth 2:8",
+      "before_identical": false,
+      "before_similarity": 0.8727272727272727,
+      "after_identical": false,
+      "after_similarity": 0.9230769230769231
+    },
+    {
+      "reference": "Ruth 2:9",
+      "before_identical": false,
+      "before_similarity": 0.8433734939759037,
+      "after_identical": false,
+      "after_similarity": 0.7088607594936709
+    },
+    {
+      "reference": "Ruth 2:10",
+      "before_identical": false,
+      "before_similarity": 0.8955223880597015,
+      "after_identical": false,
+      "after_similarity": 0.631578947368421
+    },
+    {
+      "reference": "Ruth 2:11",
+      "before_identical": false,
+      "before_similarity": 0.8351648351648352,
+      "after_identical": false,
+      "after_similarity": 0.5777777777777777
+    },
+    {
+      "reference": "Ruth 2:12",
+      "before_identical": false,
+      "before_similarity": 0.8923076923076924,
+      "after_identical": false,
+      "after_similarity": 0.7868852459016393
+    },
+    {
+      "reference": "Ruth 2:13",
+      "before_identical": false,
+      "before_similarity": 0.8181818181818182,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Ruth 2:14",
+      "before_identical": false,
+      "before_similarity": 0.8505747126436781,
+      "after_identical": false,
+      "after_similarity": 0.7073170731707317
+    },
+    {
+      "reference": "Ruth 2:15",
+      "before_identical": false,
+      "before_similarity": 0.8695652173913043,
+      "after_identical": false,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ruth 2:16",
+      "before_identical": false,
+      "before_similarity": 0.8181818181818182,
+      "after_identical": false,
+      "after_similarity": 0.7619047619047619
+    },
+    {
+      "reference": "Ruth 2:17",
+      "before_identical": false,
+      "before_similarity": 0.875,
+      "after_identical": false,
+      "after_similarity": 0.7555555555555555
+    },
+    {
+      "reference": "Ruth 2:18",
+      "before_identical": false,
+      "before_similarity": 0.6086956521739131,
+      "after_identical": false,
+      "after_similarity": 0.5373134328358209
+    },
+    {
+      "reference": "Ruth 2:19",
+      "before_identical": false,
+      "before_similarity": 0.8118811881188119,
+      "after_identical": false,
+      "after_similarity": 0.6451612903225806
+    },
+    {
+      "reference": "Ruth 2:20",
+      "before_identical": false,
+      "before_similarity": 0.9882352941176471,
+      "after_identical": false,
+      "after_similarity": 0.6352941176470588
+    },
+    {
+      "reference": "Ruth 2:21",
+      "before_identical": false,
+      "before_similarity": 0.8636363636363636,
+      "after_identical": false,
+      "after_similarity": 0.7727272727272727
+    },
+    {
+      "reference": "Ruth 2:22",
+      "before_identical": false,
+      "before_similarity": 0.8135593220338984,
+      "after_identical": false,
+      "after_similarity": 0.8275862068965517
+    },
+    {
+      "reference": "Ruth 2:23",
+      "before_identical": false,
+      "before_similarity": 0.9,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Ruth 3:1",
+      "before_identical": false,
+      "before_similarity": 0.88,
+      "after_identical": false,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Ruth 3:2",
+      "before_identical": false,
+      "before_similarity": 0.8,
+      "after_identical": false,
+      "after_similarity": 0.6521739130434783
+    },
+    {
+      "reference": "Ruth 3:3",
+      "before_identical": false,
+      "before_similarity": 0.7619047619047619,
+      "after_identical": false,
+      "after_similarity": 0.6229508196721312
+    },
+    {
+      "reference": "Ruth 3:4",
+      "before_identical": false,
+      "before_similarity": 0.8518518518518519,
+      "after_identical": false,
+      "after_similarity": 0.7407407407407407
+    },
+    {
+      "reference": "Ruth 3:5",
+      "before_identical": false,
+      "before_similarity": 0.7272727272727273,
+      "after_identical": false,
+      "after_similarity": 0.2857142857142857
+    },
+    {
+      "reference": "Ruth 3:6",
+      "before_identical": false,
+      "before_similarity": 0.7692307692307693,
+      "after_identical": false,
+      "after_similarity": 0.7567567567567568
+    },
+    {
+      "reference": "Ruth 3:7",
+      "before_identical": false,
+      "before_similarity": 0.6470588235294118,
+      "after_identical": false,
+      "after_similarity": 0.7164179104477612
+    },
+    {
+      "reference": "Ruth 3:8",
+      "before_identical": false,
+      "before_similarity": 0.8571428571428571,
+      "after_identical": false,
+      "after_similarity": 0.5789473684210527
+    },
+    {
+      "reference": "Ruth 3:9",
+      "before_identical": false,
+      "before_similarity": 0.84,
+      "after_identical": false,
+      "after_similarity": 0.76
+    },
+    {
+      "reference": "Ruth 3:10",
+      "before_identical": false,
+      "before_similarity": 0.7352941176470589,
+      "after_identical": false,
+      "after_similarity": 0.676923076923077
+    },
+    {
+      "reference": "Ruth 3:11",
+      "before_identical": false,
+      "before_similarity": 0.5660377358490566,
+      "after_identical": false,
+      "after_similarity": 0.5714285714285714
+    },
+    {
+      "reference": "Ruth 3:12",
+      "before_identical": false,
+      "before_similarity": 0.8823529411764706,
+      "after_identical": false,
+      "after_similarity": 0.7027027027027027
+    },
+    {
+      "reference": "Ruth 3:13",
+      "before_identical": false,
+      "before_similarity": 0.935064935064935,
+      "after_identical": false,
+      "after_similarity": 0.8533333333333334
+    },
+    {
+      "reference": "Ruth 3:14",
+      "before_identical": false,
+      "before_similarity": 0.8,
+      "after_identical": false,
+      "after_similarity": 0.6451612903225806
+    },
+    {
+      "reference": "Ruth 3:15",
+      "before_identical": false,
+      "before_similarity": 0.8611111111111112,
+      "after_identical": false,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ruth 3:16",
+      "before_identical": false,
+      "before_similarity": 0.7636363636363637,
+      "after_identical": false,
+      "after_similarity": 0.7636363636363637
+    },
+    {
+      "reference": "Ruth 3:17",
+      "before_identical": false,
+      "before_similarity": 0.6415094339622641,
+      "after_identical": false,
+      "after_similarity": 0.5882352941176471
+    },
+    {
+      "reference": "Ruth 3:18",
+      "before_identical": false,
+      "before_similarity": 0.7755102040816326,
+      "after_identical": false,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Ruth 4:1",
+      "before_identical": false,
+      "before_similarity": 0.5569620253164557,
+      "after_identical": false,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Ruth 4:2",
+      "before_identical": false,
+      "before_similarity": 0.7222222222222222,
+      "after_identical": false,
+      "after_similarity": 0.5142857142857142
+    },
+    {
+      "reference": "Ruth 4:3",
+      "before_identical": false,
+      "before_similarity": 0.8888888888888888,
+      "after_identical": false,
+      "after_similarity": 0.7755102040816326
+    },
+    {
+      "reference": "Ruth 4:4",
+      "before_identical": false,
+      "before_similarity": 0.8115942028985508,
+      "after_identical": false,
+      "after_similarity": 0.556390977443609
+    },
+    {
+      "reference": "Ruth 4:5",
+      "before_identical": false,
+      "before_similarity": 0.7945205479452054,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Ruth 4:6",
+      "before_identical": false,
+      "before_similarity": 0.8571428571428571,
+      "after_identical": false,
+      "after_similarity": 0.7692307692307693
+    },
+    {
+      "reference": "Ruth 4:7",
+      "before_identical": false,
+      "before_similarity": 0.6933333333333334,
+      "after_identical": false,
+      "after_similarity": 0.4266666666666667
+    },
+    {
+      "reference": "Ruth 4:8",
+      "before_identical": false,
+      "before_similarity": 0.9333333333333333,
+      "after_identical": false,
+      "after_similarity": 0.7333333333333333
+    },
+    {
+      "reference": "Ruth 4:9",
+      "before_identical": false,
+      "before_similarity": 0.8285714285714286,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ruth 4:10",
+      "before_identical": false,
+      "before_similarity": 0.6,
+      "after_identical": false,
+      "after_similarity": 0.5531914893617021
+    },
+    {
+      "reference": "Ruth 4:11",
+      "before_identical": false,
+      "before_similarity": 0.8979591836734694,
+      "after_identical": false,
+      "after_similarity": 0.8172043010752689
+    },
+    {
+      "reference": "Ruth 4:12",
+      "before_identical": false,
+      "before_similarity": 0.8363636363636363,
+      "after_identical": false,
+      "after_similarity": 0.5185185185185185
+    },
+    {
+      "reference": "Ruth 4:13",
+      "before_identical": false,
+      "before_similarity": 0.7169811320754716,
+      "after_identical": false,
+      "after_similarity": 0.6382978723404256
+    },
+    {
+      "reference": "Ruth 4:14",
+      "before_identical": false,
+      "before_similarity": 0.8888888888888888,
+      "after_identical": false,
+      "after_similarity": 0.9056603773584906
+    },
+    {
+      "reference": "Ruth 4:15",
+      "before_identical": false,
+      "before_similarity": 0.6086956521739131,
+      "after_identical": false,
+      "after_similarity": 0.6153846153846154
+    },
+    {
+      "reference": "Ruth 4:16",
+      "before_identical": false,
+      "before_similarity": 0.46153846153846156,
+      "after_identical": false,
+      "after_similarity": 0.6923076923076923
+    },
+    {
+      "reference": "Ruth 4:17",
+      "before_identical": false,
+      "before_similarity": 0.7936507936507936,
+      "after_identical": false,
+      "after_similarity": 0.7936507936507936
+    },
+    {
+      "reference": "Ruth 4:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9473684210526315
+    },
+    {
+      "reference": "Ruth 4:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ruth 4:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8333333333333334
+    },
+    {
+      "reference": "Ruth 4:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ruth 4:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    }
+  ]
+}

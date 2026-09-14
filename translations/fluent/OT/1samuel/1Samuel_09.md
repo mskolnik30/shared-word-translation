@@ -4,130 +4,126 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-1-16-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 9
-
-## Saul Searches for Lost Donkeys
+## The missing donkeys
 
 <p>
-v01: There was a man from Benjamin whose name was Kish son of Abiel, son of Zeror, son of Becorath, son of Aphiah, a Benjaminite, a mighty man of wealth.
-
-v02: He had a son whose name was Saul, a choice and handsome young man. There was no man among the children of Israel more handsome than he; from his shoulders upward he was taller than any of the people.
-
-v03: The donkeys of Kish, Saul’s father, were lost. Kish said to Saul his son, “Please take with you one of the young men, arise, go, and seek the donkeys.”
-
-v04: He passed through the hill country of Ephraim and passed through the land of Shalishah, but they did not find them. They passed through the land of Shaalim, but they were not there. He passed through the land of Benjamin, but they did not find them.
+v01: There was a Benjaminite named Kish, son of Abiel, son of Zeror, son of Becorath, son of Aphiah, a descendant of a Benjaminite. He was a man of standing.
+v02: He had a son named Saul, a fine, handsome young man. No Israelite was more handsome, and he stood a head taller than anyone else.
 </p>
 
-## Saul Decides to Seek the Seer
-
 <p>
-v05: They came to the land of Zuph, and Saul said to his young man who was with him, “Come, let us return, lest my father stop concerning himself with the donkeys and become anxious about us.”
-
-v06: He said to him, “Look, please, there is a man of God in this city, and the man is honored. All that he says surely happens. Now let us go there; perhaps he will tell us our way on which we should go.”
-
-v07: Saul said to his young man, “But look, if we go, what will we bring the man? For the bread is gone from our bags, and there is no gift to bring to the man of God. What is with us?”
-
-v08: The young man again answered Saul and said, “Look, a quarter of a shekel of silver is found in my hand. I will give it to the man of God, and he will tell us our way.”
-
-v09: Formerly in Israel, thus a man said when he went to inquire of God: “Come, let us go to the seer,” for the prophet of today was formerly called a seer.
-
-v10: Saul said to his young man, “Your word is good. Come, let us go.” So they went to the city where the man of God was.
+v03: The female donkeys belonging to Saul’s father Kish went missing. Kish told his son Saul, “Take one of the servants with you and go look for the donkeys.”
+v04: They passed through the hill country of Ephraim and the land of Shalishah but did not find them. They went through the land of Shaalim—nothing. They passed through Benjamin’s land and still did not find them.
 </p>
 
-## Young Women Direct Saul to Samuel
-
 <p>
-v11: As they were going up the ascent to the city, they found young women going out to draw water and said to them, “Is the seer here?”
-
-v12: They answered them and said, “He is. Look, he is before you. Hurry now, for today he has come to the city because the people have a sacrifice today at the high place.
-
-v13: As you enter the city, you will find him before he goes up to the high place to eat, for the people will not eat until he comes, because he blesses the sacrifice. Afterward those invited will eat. And now go up, for about this time you will find him.”
-
-v14: So they went up to the city. As they were entering the midst of the city, look, Samuel was coming out toward them to go up to the high place.
+v05: When they reached the land of Zuph, Saul said to the servant with him, “Come, let us return. Otherwise my father will stop worrying about the donkeys and start worrying about us.”
 </p>
 
-## The LORD Reveals Saul to Samuel
-
 <p>
-v15: Now the LORD had uncovered Samuel’s ear one day before Saul came, saying,
-
-v16: “About this time tomorrow I will send to you a man from the land of Benjamin, and you will anoint him as ruler over my people Israel. He will save my people from the hand of the Philistines, for I have seen my people, because their cry has come to me.”
-
-v17: When Samuel saw Saul, the LORD answered him, “Look, the man of whom I spoke to you. This one will restrain my people.”
+v06: The servant replied, “There is a man of God in this town, a respected man. Everything he says comes true. Let us go there now. Perhaps he can tell us which way to take.”
 </p>
 
-## Samuel Welcomes Saul
-
 <p>
-v18: Saul drew near to Samuel in the middle of the gate and said, “Please tell me, where is the house of the seer?”
-
-v19: Samuel answered Saul and said, “I am the seer. Go up before me to the high place, and you will eat with me today. In the morning I will send you away, and all that is in your heart I will tell you.
-
-v20: And concerning your donkeys that were lost three days ago, do not set your heart on them, for they have been found. And for whom is all that is desirable in Israel? Is it not for you and for all your father’s house?”
-
-v21: Saul answered and said, “Am I not a Benjaminite, from the smallest of the tribes of Israel, and my clan the least of all the clans of the tribe of Benjamin? Why then have you spoken to me according to this word?”
+v07: Saul said, “If we go, what can we bring him? The bread in our bags is gone, and we have no gift for the man of God. What do we have?”
 </p>
 
-## Saul Is Given the Place of Honor
+<p>
+v08: The servant answered again, “I have a quarter-shekel of silver. I will give it to the man of God, and he can tell us our way.”
+</p>
 
 <p>
-v22: Samuel took Saul and his young man and brought them into the hall and gave them a place at the head of those invited. They were about thirty men.
+v09: In earlier times in Israel, someone going to inquire of God would say, “Come, let us go to the seer.” A person now called a prophet was then called a seer.
+</p>
 
-v23: Samuel said to the cook, “Give the portion that I gave you, of which I said to you, ‘Set it beside you.’”
+<p>
+v10: Saul said to his servant, “Good idea. Come, let us go.” They went toward the town where the man of God was.
+</p>
 
-v24: The cook lifted up the thigh and what was upon it and set it before Saul. Samuel said, “Look, what was reserved is set before you. Eat, for it has been kept for you until the appointed time, for I said, ‘I have invited the people.’” So Saul ate with Samuel that day.
+## The way to the seer
 
-v25: They came down from the high place to the city, and he spoke with Saul on the roof.
+<p>
+v11: As they climbed the slope to the town, they met young women going out to draw water. They asked, “Is the seer here?”
+</p>
 
-v26: They arose early, and it happened at the breaking of dawn that Samuel called to Saul on the roof, saying, “Rise, and I will send you away.” Saul arose, and the two of them, he and Samuel, went outside.
+<p>
+v12: “He is,” they answered. “Just ahead of you. Hurry! He came to town today because the people have a sacrifice at the high place today.
+v13: As soon as you enter town, you will find him, before he goes up to the high place to eat. The people will not eat until he comes, because he blesses the sacrifice; afterward the guests eat. Go up now. You will find him right away.”
+</p>
 
-v27: As they were going down to the edge of the city, Samuel said to Saul, “Say to the young man that he should pass on before us”—and he passed on—“but you stand here now, so that I may make you hear the word of God.”
+<p>
+v14: They went up into town. As they entered, Samuel was coming toward them on his way to the high place.
+</p>
+
+## The LORD’s disclosure
+
+<p>
+v15: The day before Saul arrived, the LORD had disclosed this to Samuel:
+v16: “About this time tomorrow I will send you a man from Benjamin’s land. Anoint him as leader over my people Israel. He will save my people from the Philistines’ hand, for I have seen my people; their cry has reached me.”
+</p>
+
+<p>
+v17: When Samuel saw Saul, the LORD told him, “Here is the man I spoke to you about. He will govern my people.”
+</p>
+
+<p>
+v18: Saul approached Samuel inside the gate. “Please tell me where the seer’s house is,” he said.
+</p>
+
+<p>
+v19: Samuel answered, “I am the seer. Go ahead of me to the high place. You will both eat with me today. In the morning I will send you on your way and tell you everything that is in your heart.
+v20: Do not set your heart on the donkeys you lost three days ago. They have been found. And to whom does everything desirable in Israel belong? Is it not to you and all your father’s house?”
+</p>
+
+<p>
+v21: Saul answered, “Am I not a Benjaminite, from one of Israel’s smallest tribes? And is my clan not the least of all Benjamin’s clans? Why say such a thing to me?”
+</p>
+
+## A place at the table
+
+<p>
+v22: Samuel took Saul and his servant into the hall and gave them a place at the head of the guests, about thirty men.
+</p>
+
+<p>
+v23: Samuel told the cook, “Bring the portion I gave you, the one I told you to keep aside.”
+</p>
+
+<p>
+v24: The cook lifted the leg with what was attached to it and set it before Saul. Samuel said, “Here is what was kept aside. Set it before you and eat. It has been saved for you for this occasion, when I said, ‘I have invited the people.’” So Saul ate with Samuel that day.
+</p>
+
+<p>
+v25: They came down from the high place into town, and Samuel spoke with Saul on the roof.
+</p>
+
+<p>
+v26: They rose early. At daybreak Samuel called to Saul on the roof, “Get up, and I will send you off.” Saul got up, and the two of them, he and Samuel, went outside.
+</p>
+
+<p>
+v27: As they were going down toward the edge of town, Samuel told Saul, “Tell the servant to go ahead of us.” The servant went on. “But you stay here a moment, so I can let you hear God’s word.”
 </p>
 
 ## Notes
 
-v01: Kish is called a “mighty man of wealth,” which may describe social standing, wealth, or ability rather than military fame alone.
+v20: The Hebrew may mean “everything desirable in Israel” belonging to Saul, or “all Israel’s desire” directed toward him and his family.
 
-v02: Saul’s height and appearance introduce the kind of visible qualities Israel might associate with kingship.
-
-v06–10: The search for ordinary lost property becomes the providential path toward royal anointing.
-
-v09: The narrator explains an older use of the title “seer,” indicating awareness of changes in prophetic terminology.
-
-v15: “Uncovered Samuel’s ear” is a Hebrew idiom for privately revealing information.
-
-v16: The LORD describes Saul’s royal role first as saving Israel from Philistine oppression, showing compassion toward the same people whose demand for monarchy was criticized in chapter 8.
-
-v17: “Restrain my people” can mean govern, hold back, or exercise rule. The verb is less common than ordinary royal terminology.
-
-v20: “All that is desirable in Israel” is ambiguous and may refer to Israel’s desire turning toward Saul, or to Israel’s desirable possessions. TSW retains the broad wording.
-
-v21: Saul’s humility draws on Benjamin’s recent history as a small tribe and his clan’s modest place within it.
+v24: The description of what accompanies the leg, and the wording about its reservation, are difficult. Samuel is understood to resume speaking after the cook sets it down.
 
 ## Vocabulary
 
-v01: גִּבּוֹר חַיִל (gibbor chayil)
-“Mighty man of wealth/ability.”
+v08: Shekel
+A measure of silver by weight, not a minted coin here.
 
-v06: אִישׁ אֱלֹהִים (ish Elohim)
-“Man of God.”
+v09: Seer and prophet
+The narrator explains the older and newer terms; the translation retains both.
 
-v09: רֹאֶה (ro'eh)
-“Seer.”
-
-v15: גָּלָה אֹזֶן (galah ozen)
-“To uncover the ear.” To reveal privately.
-
-v16: מָשַׁח (mashach)
-“To anoint.”
-
-v16: נָגִיד (nagid)
-“Ruler” or leader.
-
-v17: עָצַר (atsar)
-“To restrain” or govern.
-
-v24: מוֹעֵד (moed)
-“Appointed time.”
+v12: High place — bamah
+An elevated worship site. Its mention here is not itself a narrator’s judgment on the sacrifice.

@@ -256,16 +256,30 @@
       "scope": "Judges 13–21",
       "verses": 243,
       "ledger": "audit/fluent-revision/2026-09-14-judges-13-21/judges-verse-review.json"
+    },
+    {
+      "scope": "Ruth 1–4",
+      "verses": 85,
+      "ledger": "audit/fluent-revision/2026-09-14-ruth-1-4/ruth-verse-review.json"
+    },
+    {
+      "scope": "1 Samuel 1–16",
+      "verses": 406,
+      "ledger": "audit/fluent-revision/2026-09-14-1samuel-1-16/1samuel-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Ruth 1–4",
-      "action": "Translate the complete connected book from its verified pinned Hebrew, then compare TSW and perform whole-book authoring consistency review; preserve independent-review qualification."
+      "scope": "1 Samuel 17–31",
+      "action": "Continue from every verse of verified pinned Hebrew; read source versification notes carefully and bind exact original records."
     },
     {
-      "scope": "1 Samuel 1–12",
-      "action": "Proceed in a large connected complete-chapter batch from the repository’s verified pinned Hebrew source."
+      "scope": "Whole-book 1 Samuel consistency review",
+      "action": "Read the complete revised book, review recurring words and selected Hebrew difficulties; rebind any changed earlier chapters."
+    },
+    {
+      "scope": "2 Samuel 1–20",
+      "action": "Next large connected draft batch from verified repository source pin; preserve independent-review qualification."
     }
   ],
   "standards": [
@@ -310,10 +324,15 @@
       "qualification": "Whole-book structural scan, all 658 English verses read and 200 selected source/English comparisons; three verse refinements in three chapters, affected ledger rebound; independent scholarly review and reader testing pending."
     },
     {
-      "scope": "Judges 1–24",
+      "scope": "Judges 1–21",
       "report": "audit/fluent-revision/2026-09-14-judges-consistency/review.json",
       "qualification": "Whole-book structural scan, all 618 English verses read and 265 selected source/English comparisons; five verse refinements in three chapters, affected ledger rebound; independent scholarly review and reader testing pending."
+    },
+    {
+      "scope": "Ruth 1–4",
+      "report": "audit/fluent-revision/2026-09-14-ruth-1-4/review.json",
+      "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt explicitly requested larger batches on 2026-09-13. Aim for connected scopes of roughly 150–250 verses where feasible, preserving every-source-verse reading, verse-specific rationale and complete-chapter checks."
+  "batch_preference": "Matt explicitly requested 20-chapter batches on 2026-09-14. Complete as many connected whole chapters as careful source reading and verse-specific documentation permit; no overlap quota or routine approval pause."
 }

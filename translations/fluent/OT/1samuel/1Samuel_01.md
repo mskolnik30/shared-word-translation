@@ -4,108 +4,115 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-1-16-biblical-fluency-2026-09-14
 ---
 
+## Hannah’s grief
+
 <p>
-v01: There was a certain man from Ramathaim-zophim, from the hill country of Ephraim, whose name was Elkanah, son of Jeroham, son of Elihu, son of Tohu, son of Zuph, an Ephraimite.
+v01: There was a man from Ramathaim-zophim in the hill country of Ephraim. His name was Elkanah, son of Jeroham, son of Elihu, son of Tohu, son of Zuph, an Ephraimite.
+v02: He had two wives, Hannah and Peninnah. Peninnah had children, but Hannah had none.
+v03: Year after year this man went up from his town to worship and sacrifice to the LORD of Armies at Shiloh. Eli’s two sons, Hophni and Phinehas, served there as priests of the LORD.
 </p>
 
 <p>
-v02: He had two wives; the name of the one was Hannah, and the name of the other, Peninnah. Peninnah had children, but Hannah had no children.
+v04: Whenever Elkanah offered a sacrifice, he gave portions to his wife Peninnah and to all her sons and daughters.
+v05: But he gave Hannah a double portion, because he loved her, though the LORD had closed her womb.
+v06: Her rival kept provoking her, trying to upset her because the LORD had closed her womb.
+v07: This went on year after year. Whenever Hannah went up to the LORD’s house, her rival provoked her until she wept and would not eat.
 </p>
 
 <p>
-v03: This man went up from his city year by year to worship and to sacrifice to the LORD of Hosts in Shiloh. Eli's two sons, Hophni and Phinehas, were priests of the LORD there.
+v08: Her husband Elkanah said to her, “Hannah, why are you crying? Why will you not eat? Why is your heart so sad? Am I not better to you than ten sons?”
+</p>
+
+## Hannah prays
+
+<p>
+v09: After the eating and drinking at Shiloh, Hannah got up. Eli the priest was sitting on his chair beside the doorpost of the LORD’s sanctuary.
+v10: Bitterly distressed, she prayed to the LORD and wept and wept.
 </p>
 
 <p>
-v04: On the day when Elkanah sacrificed, he would give portions to Peninnah his wife and to all her sons and daughters.
-v05: But to Hannah he would give a double portion, because he loved Hannah, although the LORD had closed her womb.
+v11: She made a vow: “LORD of Armies, if you will truly look on your servant’s suffering and remember me, if you will not forget your servant but give her a son, I will give him to the LORD for his whole life. No razor will touch his head.”
 </p>
 
 <p>
-v06: Her rival used to provoke her grievously to irritate her, because the LORD had closed her womb.
-v07: So it went on year after year, and as often as she went up to the house of the LORD, she was provoked; therefore, she wept and did not eat.
+v12: As she went on praying before the LORD, Eli watched her mouth.
+v13: Hannah was speaking in her heart. Her lips moved, but no sound could be heard, so Eli thought she was drunk.
 </p>
 
 <p>
-v08: Elkanah her husband said to her, "Hannah, why do you weep? Why do you not eat? Why is your heart sad? Am I not more to you than ten sons?"
+v14: He said to her, “How long will you keep getting drunk? Put away your wine!”
 </p>
 
 <p>
-v09: After they had eaten and drunk in Shiloh, Hannah rose. Now Eli the priest was sitting on the chair by the doorpost of the temple of the LORD.
-v10: She was deeply distressed and prayed to the LORD and wept bitterly.
-v11: She vowed a vow and said, "LORD of Hosts, if you will indeed look on the affliction of your maidservant and remember me and not forget your maidservant, but will give to your maidservant a son, then I will give him to the LORD all the days of his life, and no razor will touch his head."
+v15: “No, my lord,” Hannah answered. “I am a woman in deep distress. I have drunk neither wine nor strong drink. I have been pouring out my soul before the LORD.
+v16: Do not take your servant for a worthless woman. I have been speaking all this time out of my great anguish and grief.”
 </p>
 
 <p>
-v12: As she continued praying before the LORD, Eli observed her mouth.
-v13: Hannah was speaking in her heart; only her lips moved, and her voice was not heard. Therefore Eli thought she was drunk.
-v14: Eli said to her, "How long will you go on being drunk? Put your wine away from you."
+v17: Eli replied, “Go in peace. May the God of Israel grant the request you have made of him.”
 </p>
 
 <p>
-v15: Yet Hannah answered, "No, my lord, I am a woman troubled in spirit. I have neither drunk wine nor strong drink, but I have been pouring out my soul before the LORD.
-v16: Do not regard your maidservant as a worthless woman, for all along I have been speaking out of my great anxiety and vexation."
+v18: She said, “May your servant find favor with you.” Then the woman went on her way and ate. Her face was no longer downcast.
+</p>
+
+## Samuel is born
+
+<p>
+v19: They rose early the next morning, worshiped before the LORD, and returned home to Ramah. Elkanah slept with his wife Hannah, and the LORD remembered her.
+v20: In due time Hannah conceived and bore a son. She named him Samuel, saying, “I asked the LORD for him.”
 </p>
 
 <p>
-v17: Then Eli answered, "Go in peace, and the God of Israel grant your petition that you have made to him."
-v18: And she said, "Let your maidservant find favor in your eyes." Then the woman went her way and ate, and her face was no longer sad.
+v21: When Elkanah and his whole household went up to offer the annual sacrifice to the LORD and fulfill his vow,
+v22: Hannah did not go. She had told her husband, “Once the boy is weaned, I will bring him to appear before the LORD, and he will stay there for good.”
 </p>
 
 <p>
-v19: They rose early in the morning and worshiped before the LORD; then they went back to their house at Ramah. And Elkanah knew Hannah his wife, and the LORD remembered her.
+v23: Her husband Elkanah said, “Do what seems right to you. Stay until you have weaned him. Only may the LORD establish his word.” So the woman stayed and nursed her son until she weaned him.
+</p>
+
+## Given over to the LORD
+
+<p>
+v24: When she had weaned him, she took him up with her, along with three bulls, one ephah of flour, and a skin of wine. She brought him to the LORD’s house at Shiloh while he was still very young.
 </p>
 
 <p>
-v20: In due time, Hannah conceived and bore a son. She called his name Samuel, for she said, "I have asked for him from the LORD."
+v25: They slaughtered the bull and brought the boy to Eli.
 </p>
 
 <p>
-v21: The man Elkanah and all his house went up to offer to the LORD the annual sacrifice and to fulfill his vow,
-v22: but Hannah did not go up, for she said to her husband, "As soon as the child is weaned, I will bring him, so that he may appear in the presence of the LORD and dwell there forever."
-</p>
-
-<p>
-v23: Elkanah her husband said to her, "Do what seems best to you; wait until you have weaned him; only, may LORD establish his word." So the woman remained and nursed her son until she weaned him.
-</p>
-
-<p>
-v24: When she had weaned him, she took him up with her, along with a three-year-old bull, an ephah of flour, and a skin of wine, and she brought him to the house of the LORD at Shiloh. And the child was young.
-v25: They slaughtered the bull, and they brought the child to Eli.
-v26: And she said, "O my lord, as you live, my lord, I am the woman who was standing here in your presence, praying to the LORD.
-</p>
-
-<p>
-v27: For this child I prayed, and the LORD has granted me my petition that I made to him.
-v28: So I have lent him to the LORD. As long as he lives, he is lent to the LORD." And he worshiped the LORD there.
+v26: She said, “Please, my lord—as surely as you live, I am the woman who stood here beside you praying to the LORD.
+v27: I prayed for this boy, and the LORD granted the request I made of him.
+v28: Now I give him over to the LORD. For as long as he lives, he is given over to the LORD.” And he worshiped the LORD there.
 </p>
 
 ## Notes
 
-v01: **v01**: **Ramathaim-zophim**: An indication of the region from which Elkanah originates, adding to the geographical context of the narrative.
+v05: “A double portion” is a customary understanding of the difficult Hebrew expression “one portion, appayim.” Its exact force is uncertain.
 
-v02: **v02**: **two wives**: References to polygamy in ancient Israel, illustrating the domestic tensions explored in the narrative.
+v09: The Hebrew places Hannah’s rising after the eating and drinking at Shiloh. It need not mean that she herself ate, after verse 7 says she would not.
 
-v04–05: **v04-05**: **portions** and **double portion**: Reflects the cultural practices concerning family and religious rituals, enriching understanding of familial privilege and favor.
+v23: The pinned Hebrew says “his word,” without specifying a previously quoted divine promise.
 
-v11: **v11**: **vow**: Hanna's commitment, highlighting the gravity of her prayer and her profound relationship with Yahweh.
+v24–25: The Hebrew has “three bulls,” followed by “the bull” in verse 25. A different textual reading gives “a three-year-old bull.” The draft retains the pinned Hebrew.
 
-v20: **v20**: **Samuel**: The name holds significance hinting to Hannah's interpretation of her prayer being heard by Yahweh.
-
-v28: “Lent” continues the chapter’s wordplay on the Hebrew root for asking or requesting: the child asked from the LORD is now given over to the LORD for his lifetime.
+v28: The final Hebrew verb is singular, “he worshiped.” The man or boy meant is not expressly named.
 
 ## Vocabulary
 
-v03: **: **צְבָאֹות (tsə·vā·’ōwṯ)
-- "hosts": A title for God emphasizing His sovereignty and command over the heavenly armies, underscoring His might.
+v03: LORD of Armies — YHWH tseva’ot
+A divine title also traditionally rendered “LORD of Hosts.”
 
-v11: נֶדֶר (ne·der)
-“vow": A solemn promise or pledge, often made to God in context of prayer or worship.
+v20–28: Ask and give over — sha’al
+Related forms connect Hannah’s request, Samuel’s naming, and his lifelong dedication. The naming explanation is wordplay, not a full etymology.
 
-v20: שָׁאַל (sha·al)
-“asked": Both a play on Samuel's name and a depiction of Hannah's active petitioning before Yahweh.
-
-v03: צְבָאֹות (tsə·vā·’ōwṯ)
-“hosts": A title for God with a sense of His sovereignty and command over the heavenly armies, marking His might.
+v24: Ephah
+An ancient dry measure, used here for flour.

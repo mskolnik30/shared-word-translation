@@ -4,111 +4,101 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-1-16-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 4
-
-## Israel Brings the Ark into Battle
+## The ark goes into battle
 
 <p>
-v01: Samuel’s word came to all Israel.
-
-Israel went out to meet the Philistines for battle and camped beside Ebenezer, while the Philistines camped at Aphek.
-
-v02: The Philistines drew up in battle formation against Israel. The battle spread, and Israel was struck before the Philistines. They struck down about four thousand men on the battlefield.
-
-v03: When the people came to the camp, the elders of Israel said, “Why has the LORD struck us today before the Philistines? Let us take to ourselves from Shiloh the ark of the covenant of the LORD, so that it may come into our midst and save us from the hand of our enemies.”
-
-v04: So the people sent to Shiloh and carried from there the ark of the covenant of the LORD of Hosts, who sits above the cherubim. The two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.
-
-v05: And it happened when the ark of the covenant of the LORD came into the camp that all Israel shouted with a great shout, and the earth resounded.
+v01: Samuel’s word reached all Israel. Israel went out to fight the Philistines, camping at Ebenezer while the Philistines camped at Aphek.
+v02: The Philistines drew up against Israel, and battle spread. Israel was defeated, and about four thousand men were killed on the battlefield.
 </p>
 
-## The Philistines Fear the Ark
-
 <p>
-v06: The Philistines heard the sound of the shout and said, “What is the sound of this great shout in the camp of the Hebrews?” Then they learned that the ark of the LORD had come into the camp.
-
-v07: The Philistines were afraid, for they said, “God has come into the camp.” And they said, “Woe to us! For nothing like this has happened before.
-
-v08: Woe to us! Who will rescue us from the hand of these mighty gods? These are the gods who struck Egypt with every kind of plague in the wilderness.
-
-v09: Strengthen yourselves and be men, Philistines, lest you become servants to the Hebrews as they have been servants to you. Be men and fight!”
+v03: When the troops returned to camp, Israel’s elders asked, “Why has the LORD defeated us before the Philistines today? Let us bring the ark of the LORD’s covenant here from Shiloh. Then it can come among us and save us from our enemies’ grasp.”
 </p>
 
-## The Ark Is Captured
-
 <p>
-v10: So the Philistines fought, and Israel was struck, and each man fled to his tent. The slaughter was very great, and thirty thousand foot soldiers from Israel fell.
-
-v11: The ark of God was captured, and the two sons of Eli, Hophni and Phinehas, died.
+v04: They sent to Shiloh and brought back the ark of the covenant of the LORD of Armies, who sits enthroned above the cherubim. Eli’s two sons, Hophni and Phinehas, were there with the ark of God’s covenant.
 </p>
 
-## Eli Hears the News
-
 <p>
-v12: A man of Benjamin ran from the battle line and came to Shiloh that same day, with his clothes torn and dirt upon his head.
-
-v13: When he came, look, Eli was sitting on his seat beside the road, watching, for his heart trembled for the ark of God. The man came into the city and told it, and all the city cried out.
-
-v14: Eli heard the sound of the outcry and said, “What is the sound of this uproar?” Then the man hurried and came and told Eli.
-
-v15: Now Eli was ninety-eight years old, and his eyes were fixed so that he could not see.
-
-v16: The man said to Eli, “I am the one who came from the battle line, and I fled from the battle line today.” He said, “What happened, my son?”
-
-v17: The one bringing the news answered and said, “Israel fled before the Philistines, and there has also been a great slaughter among the people. Your two sons also, Hophni and Phinehas, are dead, and the ark of God has been captured.”
-
-v18: And it happened when he mentioned the ark of God that Eli fell backward from the seat beside the gate, his neck broke, and he died, for the man was old and heavy. He had judged Israel forty years.
+v05: As the ark of the LORD’s covenant entered the camp, all Israel gave a mighty shout. The earth shook with the sound.
 </p>
 
-## Ichabod Is Born
+<p>
+v06: The Philistines heard the shouting. “What is that mighty shout in the Hebrews’ camp?” they asked. Then they learned that the LORD’s ark had arrived.
+</p>
 
 <p>
-v19: His daughter-in-law, the wife of Phinehas, was pregnant and near to giving birth. When she heard the report that the ark of God had been captured and that her father-in-law and husband were dead, she bowed down and gave birth, for her labor pains came upon her.
+v07: They were afraid. “A god has come into the camp,” they said. “Disaster for us! Nothing like this has happened before.
+v08: Disaster for us! Who can rescue us from these mighty gods? These are the gods who struck Egypt with every kind of plague in the wilderness.
+v09: Take courage and be men, Philistines, or you will serve the Hebrews as they have served you. Be men and fight!”
+</p>
 
-v20: As she was dying, the women standing beside her said, “Do not fear, for you have borne a son.” But she did not answer or set her heart upon it.
+<p>
+v10: The Philistines fought, and Israel was defeated. Every man fled to his tent. The slaughter was immense: thirty thousand Israelite foot soldiers fell.
+</p>
 
-v21: She called the boy Ichabod, saying, “Glory has gone into exile from Israel,” because the ark of God had been captured and because of her father-in-law and her husband.
+<p>
+v11: The ark of God was captured, and Eli’s two sons, Hophni and Phinehas, died.
+</p>
 
+## The news reaches Shiloh
+
+<p>
+v12: A Benjaminite ran from the battle and reached Shiloh that same day, his clothes torn and dirt on his head.
+v13: When he arrived, Eli was sitting on his chair beside the road, waiting anxiously; his heart trembled for the ark of God. The man entered the town with the news, and the whole town cried out.
+</p>
+
+<p>
+v14: Eli heard the cries. “What is that uproar?” he asked. The man hurried over to tell him.
+</p>
+
+<p>
+v15: Eli was ninety-eight years old. His eyes were fixed, and he could not see.
+</p>
+
+<p>
+v16: The man told Eli, “I have come from the battle. I escaped from it today.” “What happened, my son?” Eli asked.
+</p>
+
+<p>
+v17: The messenger answered, “Israel has fled before the Philistines. The troops suffered a terrible slaughter. Your two sons, Hophni and Phinehas, are dead, and the ark of God has been captured.”
+</p>
+
+<p>
+v18: At the mention of the ark of God, Eli fell backward from his chair beside the gate. His neck broke, and he died, for he was old and heavy. He had judged Israel for forty years.
+</p>
+
+## Glory in exile
+
+<p>
+v19: His daughter-in-law, Phinehas’s wife, was pregnant and near her time. When she heard that the ark of God had been captured and that her father-in-law and husband were dead, she crouched down and gave birth, overcome by labor pains.
+</p>
+
+<p>
+v20: As she was dying, the women attending her said, “Do not be afraid. You have borne a son.” But she did not answer or pay attention.
+</p>
+
+<p>
+v21: She named the boy Ichabod, saying, “Glory has gone into exile from Israel”—because the ark of God had been captured and because of her father-in-law and husband.
 v22: She said, “Glory has gone into exile from Israel, for the ark of God has been captured.”
 </p>
 
 ## Notes
 
-v03: Israel treats the ark as though its physical presence can guarantee victory. The narrative does not present their decision as an act of obedient trust.
+v07–08: The Philistines’ speech moves from a singular expression for deity to explicitly plural “gods.” Their recollection of Egypt and the wilderness is retained as their speech.
 
-v04: The title “LORD of Hosts, who sits above the cherubim” intensifies the contrast between God’s sovereignty and Israel’s attempt to use the ark.
-
-v08: The Philistines speak of Israel’s God in plural language according to their own religious categories. TSW preserves their perspective rather than correcting their grammar.
-
-v10–11: The scale of defeat and capture of the ark overturn Israel’s confidence that sacred objects can control divine power.
-
-v18: Eli’s death occurs specifically when he hears that the ark has been captured, not merely at the news of his sons.
-
-v21: “Ichabod” is traditionally associated with “no glory” or “where is the glory?” The mother interprets the name through the departure of glory.
-
-v21–22: The Hebrew verb translated “gone into exile” can also mean “departed.” TSW retains the exile sense because the ark itself has been carried away.
+v21–22: Ichabod evokes the absence of glory. “Gone into exile” carries the force of the verb galah and is repeated in the woman’s final words.
 
 ## Vocabulary
 
-v03: אָרוֹן הַבְּרִית (aron ha-berit)
-“Ark of the covenant.”
+v04: Cherubim
+Sacred throne-associated figures; the title links the ark with the LORD’s enthronement.
 
-v04: יֹשֵׁב הַכְּרֻבִים (yoshev ha-keruvim)
-“One who sits above the cherubim.”
-
-v05: רוּעַ (rua)
-“To shout.” Israel raises a battle shout.
-
-v10: נֶגֶף (negef)
-“Slaughter” or striking defeat.
-
-v12: עָפָר (afar)
-“Dirt” or dust. A sign of mourning.
-
-v21: אִי־כָבוֹד (Ikhavod)
-“Ichabod.” A name associated with lost glory.
-
-v21: גָּלָה (galah)
-“To go into exile” or depart.
+v09: Be men
+The source uses a gendered military call to courage, retained within the Philistines’ speech.

@@ -1,0 +1,377 @@
+{
+  "scope": "1 Samuel 1–16",
+  "base_commit": "ef956502c0b537887d9fb14f6e4ec742853c71ae",
+  "draft_chapters": 16,
+  "draft_verses": 406,
+  "first_source_reading": "Every pinned Hebrew verse and its written/read notes read before drafting. Exact XML records, Git blob and full-file SHA256 verified.",
+  "authoring_method": "Independently composed from Hebrew; all TSW verses read afterward as comparators. No synonym engine or overlap/change quota. Clear shared wording retained.",
+  "source_reread_verses": 131,
+  "focus_evidence": "focused-comparisons.json",
+  "apparatus": "Selective Notes and Vocabulary describe Hebrew terms and consequential ambiguity, without sermons or political/doctrinal arguments.",
+  "verse_summary": {
+    "verses_reviewed": 406,
+    "verses_with_changed_text": 403,
+    "delta_counts": {
+      "F2": 310,
+      "F3": 93,
+      "F0": 3
+    }
+  },
+  "overlap": {
+    "before": {
+      "identical": 338,
+      "near_identical_nonidentical": 66
+    },
+    "after": {
+      "identical": 3,
+      "near_identical_nonidentical": 14
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse similarity is triage, not proof of fidelity, originality or reader comprehension.",
+  "verification": "../2026-09-14-1samuel-1-16/verification.json",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "companion_impacts": "All 1 Samuel 1–16 quotations and bindings must be reconciled at later installation. No Companion branch changes or public deployment.",
+  "chapter_decisions": [
+    {
+      "chapter": 1,
+      "verse_count": 28,
+      "notes": [
+        [
+          "05",
+          "“A double portion” is a customary understanding of the difficult Hebrew expression “one portion, appayim.” Its exact force is uncertain."
+        ],
+        [
+          "09",
+          "The Hebrew places Hannah’s rising after the eating and drinking at Shiloh. It need not mean that she herself ate, after verse 7 says she would not."
+        ],
+        [
+          "23",
+          "The pinned Hebrew says “his word,” without specifying a previously quoted divine promise."
+        ],
+        [
+          "24–25",
+          "The Hebrew has “three bulls,” followed by “the bull” in verse 25. A different textual reading gives “a three-year-old bull.” The draft retains the pinned Hebrew."
+        ],
+        [
+          "28",
+          "The final Hebrew verb is singular, “he worshiped.” The man or boy meant is not expressly named."
+        ]
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse_count": 36,
+      "notes": [
+        [
+          "03",
+          "“By him” follows the traditional reading. The written form has “not,” producing a different and difficult clause about the weighing of deeds."
+        ],
+        [
+          "20",
+          "The Hebrew repeats the asking/giving-over language of chapter 1. The wording and the subject of the final verb are difficult."
+        ],
+        [
+          "24–25",
+          "Verse 24 may instead accuse the sons of causing the LORD’s people to transgress. “God can intervene” in verse 25 may also refer to divine judgment or a judge’s mediation."
+        ],
+        [
+          "31–33",
+          "“Arm” represents strength and family power. Verse 32 can also be understood as seeing a rival in the dwelling. Verse 33 literally says the household’s increase will “die as men”; “in the prime of life” is a contextual reading."
+        ]
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse_count": 21,
+      "notes": [
+        [
+          "13",
+          "The pinned Hebrew reads “bringing a curse on themselves.” Another textual understanding is “blaspheming God.” The wording is not silently changed here."
+        ],
+        [
+          "19",
+          "To let words “fall to the ground” is to let them fail or go unfulfilled."
+        ]
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "notes": [
+        [
+          "07–08",
+          "The Philistines’ speech moves from a singular expression for deity to explicitly plural “gods.” Their recollection of Egypt and the wilderness is retained as their speech."
+        ],
+        [
+          "21–22",
+          "Ichabod evokes the absence of glory. “Gone into exile” carries the force of the verb galah and is repeated in the woman’s final words."
+        ]
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse_count": 12,
+      "notes": [
+        [
+          "04",
+          "“Only his trunk remained” gives the sense of the difficult phrase “only Dagon remained.”"
+        ],
+        [
+          "06–12",
+          "The written and traditional reading forms use different terms for the swellings or tumors. Neither identifies a modern disease with certainty."
+        ],
+        [
+          "10–11",
+          "Ekron’s people speak in the singular, “me and my people,” as a communal voice."
+        ]
+      ]
+    },
+    {
+      "chapter": 6,
+      "verse_count": 21,
+      "notes": [
+        [
+          "18",
+          "The pinned Hebrew has “great Abel,” a difficult expression. “Great stone” follows the object described in verses 14–15; this is a contextual textual correction."
+        ],
+        [
+          "19",
+          "The Hebrew gives the numbers in the unusual order “seventy men, fifty thousand men.” They are retained as a combined total, fifty thousand and seventy, rather than silently omitting fifty thousand. The number and its transmission require further textual review. “Looked into” may also be “looked at.”"
+        ]
+      ]
+    },
+    {
+      "chapter": 7,
+      "verse_count": 17,
+      "notes": [
+        [
+          "02",
+          "The difficult verb describes lamenting or yearning after the LORD. The twenty years mark the time leading into this account, not necessarily the ark’s entire stay."
+        ],
+        [
+          "06",
+          "The passage describes pouring out water but does not explain the ritual’s meaning."
+        ],
+        [
+          "12",
+          "“Thus far” can point to help up to this time or to this place."
+        ]
+      ]
+    },
+    {
+      "chapter": 8,
+      "verse_count": 22,
+      "notes": [
+        [
+          "09–11",
+          "“How the king will treat them” renders mishpat, which can mean judgment, right, or established practice. Here it introduces a warning, not an endorsement of each royal action."
+        ],
+        [
+          "16",
+          "The pinned Hebrew says “your best young men.” A different reading has “your best cattle.”"
+        ]
+      ]
+    },
+    {
+      "chapter": 9,
+      "verse_count": 27,
+      "notes": [
+        [
+          "20",
+          "The Hebrew may mean “everything desirable in Israel” belonging to Saul, or “all Israel’s desire” directed toward him and his family."
+        ],
+        [
+          "24",
+          "The description of what accompanies the leg, and the wording about its reservation, are difficult. Samuel is understood to resume speaking after the cook sets it down."
+        ]
+      ]
+    },
+    {
+      "chapter": 10,
+      "verse_count": 27,
+      "notes": [
+        [
+          "05",
+          "Gibeath-elohim means “hill of God.” The expression rendered “garrisons” can refer to Philistine posts or officials."
+        ],
+        [
+          "12",
+          "“Who is their father?” is left as a question. It may challenge the assumption that prophetic activity depends on family background."
+        ],
+        [
+          "25",
+          "The provisions of kingship are recorded but not quoted here. They should not simply be equated with every action warned of in chapter 8."
+        ]
+      ]
+    },
+    {
+      "chapter": 11,
+      "verse_count": 15,
+      "notes": [
+        [
+          "02",
+          "Nahash’s demand names physical mutilation and the disgrace he intends to impose on all Israel."
+        ],
+        [
+          "07",
+          "The dismembered cattle and threat belong to Saul’s summons. The narrative also attributes the people’s terror to the LORD."
+        ]
+      ]
+    },
+    {
+      "chapter": 12,
+      "verse_count": 25,
+      "notes": [
+        [
+          "11",
+          "Bedan is the name in the pinned Hebrew. The list is not silently changed to match a familiar list of judges. Samuel also refers to himself by name."
+        ],
+        [
+          "14",
+          "The Hebrew’s conditional sentence is compressed. This rendering takes following the LORD as the outcome of the stated obedience; it does not add an unexpressed promise of prosperity."
+        ],
+        [
+          "15",
+          "Literally, “against you and against your ancestors.” “As it was” makes the comparison intelligible. The draft does not replace “ancestors” with “king.”"
+        ]
+      ]
+    },
+    {
+      "chapter": 13,
+      "verse_count": 23,
+      "notes": [
+        [
+          "01",
+          "The transmitted Hebrew literally gives Saul’s age as “one year” and says he reigned “two years.” The regnal formula appears damaged. Ellipses mark information that cannot be recovered securely; no age or complete reign length is supplied."
+        ],
+        [
+          "03",
+          "“Garrison” may mean a Philistine official or post. The report in verse 4 credits Saul with the attack Jonathan carried out."
+        ],
+        [
+          "05",
+          "Thirty thousand chariots is the pinned Hebrew number, retained despite its difficulty beside six thousand horsemen."
+        ],
+        [
+          "06",
+          "The identities of some hiding places are uncertain, especially the word rendered “cellars.”"
+        ],
+        [
+          "20–21",
+          "The tool names and price wording are difficult. A pim is an ancient weight; the translation retains it rather than assigning a modern price. “Three-pronged forks” is one understanding of the phrase that includes “three” and “fork.”"
+        ]
+      ]
+    },
+    {
+      "chapter": 14,
+      "verse_count": 52,
+      "notes": [
+        [
+          "14",
+          "The area is described in terms of a furrow and a pair of oxen. Its exact size is uncertain; no modern acreage is imposed."
+        ],
+        [
+          "15",
+          "“Terror from God” can also function as an expression for an immense terror. The earth’s shaking is stated separately."
+        ],
+        [
+          "18",
+          "The pinned Hebrew says “ark of God.” This is retained even though an ephod appears in verse 3 and the priestly inquiry in verse 19 makes the wording difficult."
+        ],
+        [
+          "41",
+          "The short Hebrew request is literally “Give tamim,” meaning complete, sound, or true. The exact form of the inquiry is uncertain; the next verse explicitly describes casting between two people."
+        ],
+        [
+          "43–45",
+          "Jonathan’s “Here I am, to die” can also be heard as an incredulous question. The people redeem him; no payment or substitute is specified."
+        ],
+        [
+          "47",
+          "The final verb normally concerns declaring guilt or doing wrong. “Inflicted punishment” preserves that sense in this military summary; the exact force remains uncertain."
+        ],
+        [
+          "50–51",
+          "The compressed genealogy is understood to make Ner Saul’s uncle and Abner Saul’s cousin. The wording can also attach “Saul’s uncle” directly to Abner."
+        ]
+      ]
+    },
+    {
+      "chapter": 15,
+      "verse_count": 35,
+      "notes": [
+        [
+          "03",
+          "The command expressly includes women, children, nursing infants, and animals. “Devote to destruction” does not reduce those deaths to a metaphor."
+        ],
+        [
+          "09",
+          "The word rendered “fattened animals” is uncertain; it may denote a valued class of animals, sometimes understood as second-born animals."
+        ],
+        [
+          "11,29,35",
+          "The same Hebrew root, naḥam, underlies “regret” and “change his mind.” The chapter speaks both of the LORD’s regret over Saul and of the firmness of the announced rejection. Both statements remain in the text."
+        ],
+        [
+          "32",
+          "Agag’s manner of approach is uncertain: “confidently” or “delicately,” but also understood as “trembling.”"
+        ]
+      ]
+    },
+    {
+      "chapter": 16,
+      "verse_count": 23,
+      "notes": [
+        [
+          "07",
+          "The Hebrew contrasts seeing “to the eyes” with seeing “to the heart.” The draft supplies the implied divine comparison without turning “heart” into outward attractiveness."
+        ],
+        [
+          "11",
+          "“We will not sit down” takes the verb in the setting of the sacrificial meal; “we will not turn aside” is also possible."
+        ],
+        [
+          "12",
+          "“Ruddy” describes a reddish appearance; the text does not specify red hair."
+        ],
+        [
+          "14–23",
+          "“Harmful spirit” renders ruaḥ ra‘ah. The narrative attributes it to the LORD and describes torment and relief; it does not provide a modern medical diagnosis."
+        ],
+        [
+          "18",
+          "The servant calls David a warrior here. This description is retained without harmonizing it with later portrayals of his youth or inexperience."
+        ]
+      ]
+    }
+  ],
+  "focused_refinements": [
+    {
+      "verse": "1 Samuel 2:9",
+      "decision": "Removed added alone so the claim about human strength is not softened; retained causal for."
+    },
+    {
+      "verse": "1 Samuel 2:33",
+      "decision": "Rendered household increase as descendants, retaining the difficult death-as-men reading in a note."
+    },
+    {
+      "verse": "1 Samuel 6:19",
+      "decision": "Retained both numerical elements in the pinned Hebrew; note gives the unusual source order and flags the difficulty."
+    },
+    {
+      "verse": "1 Samuel 15:32",
+      "decision": "Made Agag’s speech explicit and removed an obsolete thought/speech note; retained ambiguity of his manner of approach."
+    }
+  ],
+  "networks": [
+    "Hearing, listening and the LORD’s voice across Samuel’s calling, the king request and Saul’s disobedience.",
+    "The repeated taking in the warning about kingship, with servants/slaves and specific sexes preserved.",
+    "Hannah’s raised horn, the king and anointed, poverty and reversal; poem stays inside verse paragraphs.",
+    "The ark, glory and heavy hand across capture, illness and return; numerical/textual difficulties remain visible.",
+    "Regret in 15:11 and 15:35 beside change of mind in 15:29, without harmonizing the speakers."
+  ]
+}

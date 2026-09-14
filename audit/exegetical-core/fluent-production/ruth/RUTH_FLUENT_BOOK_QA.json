@@ -2,8 +2,8 @@
   "book": "Ruth",
   "translation": "FLUENT",
   "qa_version": "1.0",
-  "status": "QA_PASSED",
-  "publication_status": "READY_FOR_PR",
+  "status": "REVIEW_PENDING",
+  "publication_status": "EDITORIAL_REVIEW_REQUIRED",
   "companion_publication_allowed": false,
   "verse_count": 85,
   "expected_chapters": {
@@ -203,5 +203,57 @@
       "21": "F0",
       "22": "F0"
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "revision_batches": [
+    {
+      "id": "fluent-ruth-1-4-biblical-fluency-2026-09-14",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 85,
+      "verse_ledger": "audit/fluent-revision/2026-09-14-ruth-1-4/ruth-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "prior_record": {
+        "commit": "ef956502c0b537887d9fb14f6e4ec742853c71ae",
+        "path": "audit/exegetical-core/fluent-production/ruth/RUTH_FLUENT_BOOK_QA.json"
+      },
+      "previous_batch_chapters": [],
+      "not_yet_revised_chapters": [],
+      "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–4; independent approval does not transfer. Companion quotes and bindings require later reconciliation.",
+      "qa_scope": "structural"
+    }
+  ],
+  "current_revision": {
+    "id": "fluent-ruth-1-4-biblical-fluency-2026-09-14",
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verse_count": 85,
+    "verse_ledger": "audit/fluent-revision/2026-09-14-ruth-1-4/ruth-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "prior_record": {
+      "commit": "ef956502c0b537887d9fb14f6e4ec742853c71ae",
+      "path": "audit/exegetical-core/fluent-production/ruth/RUTH_FLUENT_BOOK_QA.json"
+    },
+    "previous_batch_chapters": [],
+    "not_yet_revised_chapters": [],
+    "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–4; independent approval does not transfer. Companion quotes and bindings require later reconciliation.",
+    "qa_scope": "structural"
+  },
+  "historical_approval_scope": "Existing source-lock decisions remain provenance for the unchanged source. Earlier wording decisions apply to the text at ef956502c0b537887d9fb14f6e4ec742853c71ae, not to this revision."
 }

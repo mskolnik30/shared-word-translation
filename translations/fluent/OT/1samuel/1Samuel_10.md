@@ -4,135 +4,126 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-1-16-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 10
-
-## Samuel Anoints Saul
+## Saul is anointed
 
 <p>
-v01: Samuel took the flask of oil, poured it upon Saul’s head, kissed him, and said, “Has not the LORD anointed you as ruler over his inheritance?”
+v01: Samuel took the flask of oil, poured it on Saul’s head, and kissed him. He said, “The LORD has anointed you as leader over his inheritance.
+v02: When you leave me today, you will meet two men near Rachel’s tomb, at Zelzah in Benjamin’s territory. They will tell you, ‘The donkeys you went to find have been found. Your father has stopped thinking about them and is worried about you. He is asking, “What shall I do about my son?”’
 </p>
 
-## Samuel Gives Saul Three Signs
-
 <p>
-v02: “When you go from me today, you will find two men near Rachel’s tomb in the territory of Benjamin at Zelzah, and they will say to you, ‘The donkeys that you went to seek have been found. And look, your father has left the matter of the donkeys and is anxious about you, saying, “What will I do concerning my son?”’
-
-v03: Then you will pass on from there and come to the oak of Tabor. There three men going up to God at Bethel will meet you: one carrying three young goats, one carrying three loaves of bread, and one carrying a skin of wine.
-
-v04: They will ask about your well-being and give you two loaves of bread, which you will take from their hand.
-
-v05: After that you will come to the hill of God, where the Philistine garrison is. And it will happen when you come there to the city that you will meet a band of prophets coming down from the high place, with harp, tambourine, pipe, and lyre before them, and they will be prophesying.
-
-v06: Then the Spirit of the LORD will rush upon you, and you will prophesy with them and be turned into another man.
-
-v07: And it will be when these signs come to you, do for yourself what your hand finds, for God is with you.
-
-v08: Then go down before me to Gilgal. Look, I will come down to you to offer burnt offerings and sacrifice offerings of well-being. Seven days you will wait until I come to you and reveal to you what you will do.”
+v03: Go on from there to the oak of Tabor. Three men going up to God at Bethel will meet you: one carrying three young goats, another three loaves of bread, and another a skin of wine.
+v04: They will greet you and give you two loaves. Accept them.
 </p>
 
-## Saul Prophesies
-
 <p>
-v09: And it happened when he turned his shoulder to go from Samuel that God changed his heart into another, and all these signs came that day.
-
-v10: They came there to Gibeah, and look, a band of prophets came to meet him. Then the Spirit of God rushed upon him, and he prophesied in their midst.
-
-v11: And it happened when everyone who had known him before saw that, look, he prophesied with prophets, the people said each to his companion, “What is this that has happened to the son of Kish? Is Saul also among the prophets?”
-
-v12: A man from there answered and said, “And who is their father?” Therefore it became a proverb, “Is Saul also among the prophets?”
-
-v13: When he finished prophesying, he came to the high place.
+v05: After that you will reach Gibeath-elohim, where the Philistine garrisons are. As you enter the town, you will meet a band of prophets coming down from the high place, prophesying, with harp, tambourine, flute, and lyre going before them.
+v06: The LORD’s Spirit will rush upon you. You will prophesy with them and become a different man.
 </p>
 
-## Saul Does Not Tell His Uncle about the Kingship
-
 <p>
-v14: Saul’s uncle said to him and to his young man, “Where did you go?” He said, “To seek the donkeys. When we saw that they were not found, we went to Samuel.”
-
-v15: Saul’s uncle said, “Please tell me what Samuel said to you.”
-
-v16: Saul said to his uncle, “He told us plainly that the donkeys had been found.” But the matter of the kingship, of which Samuel had spoken, he did not tell him.
+v07: When these signs happen to you, do whatever your hand finds to do, for God is with you.
 </p>
 
-## Samuel Presents Israel before the LORD
-
 <p>
-v17: Samuel called the people together to the LORD at Mizpah.
-
-v18: He said to the children of Israel, “Thus says the LORD, the God of Israel: I brought Israel up from Egypt, and I rescued you from the hand of Egypt and from the hand of all the kingdoms that oppressed you.
-
-v19: But today you have rejected your God, who himself saves you from all your evils and your distresses, and you have said to him, ‘No, but set a king over us.’ And now present yourselves before the LORD by your tribes and by your clans.”
+v08: Go down ahead of me to Gilgal. I will come down to you to offer burnt offerings and sacrifices of well-being. Wait seven days, until I come and tell you what to do.”
 </p>
 
-## Saul Is Chosen by Lot
+## The signs take place
 
 <p>
-v20: Samuel brought all the tribes of Israel near, and the tribe of Benjamin was taken.
-
-v21: He brought the tribe of Benjamin near by its clans, and the clan of the Matrites was taken, and Saul son of Kish was taken. But when they sought him, he could not be found.
-
-v22: So they inquired again of the LORD, “Has the man come here yet?” The LORD said, “Look, he has hidden himself among the baggage.”
-
-v23: They ran and took him from there. He stood among the people, and he was taller than all the people from his shoulders upward.
-
-v24: Samuel said to all the people, “Do you see the one whom the LORD has chosen? For there is none like him among all the people.” And all the people shouted and said, “Long live the king!”
+v09: As Saul turned to leave Samuel, God changed his heart, and all these signs happened that day.
 </p>
 
-## Samuel Writes the Judgment of the Kingship
+<p>
+v10: When they reached Gibeah, a band of prophets met him. God’s Spirit rushed upon him, and he prophesied among them.
+</p>
 
 <p>
-v25: Samuel spoke to the people the judgment of the kingship and wrote it in a book and placed it before the LORD. Then Samuel sent all the people away, each man to his house.
+v11: Everyone who had known him before saw him prophesying with the prophets. They asked one another, “What has happened to Kish’s son? Is Saul among the prophets too?”
+</p>
 
-v26: Saul also went to his house at Gibeah, and with him went the valiant men whose hearts God had touched.
+<p>
+v12: A man from there answered, “And who is their father?” So it became a saying: “Is Saul among the prophets too?”
+</p>
 
-v27: But worthless men said, “How can this one save us?” They despised him and did not bring him a gift. But he was as one who kept silent.
+<p>
+v13: When Saul finished prophesying, he went to the high place.
+</p>
+
+<p>
+v14: Saul’s uncle asked him and his servant, “Where did you go?” Saul answered, “To look for the donkeys. When we saw they were nowhere to be found, we went to Samuel.”
+</p>
+
+<p>
+v15: His uncle said, “Please tell me what Samuel said to you.”
+</p>
+
+<p>
+v16: Saul told him, “He assured us that the donkeys had been found.” But he did not tell his uncle what Samuel had said about the kingship.
+</p>
+
+## Saul is chosen before Israel
+
+<p>
+v17: Samuel summoned the people to the LORD at Mizpah.
+</p>
+
+<p>
+v18: He told the Israelites, “This is what the LORD, the God of Israel, says: ‘I brought Israel up from Egypt. I rescued you from Egypt’s hand and from the hand of every kingdom that oppressed you.’
+v19: But today you have rejected your God, who saves you from all your disasters and distress. You have said to him, ‘Appoint a king over us.’ Now take your places before the LORD by tribes and clans.”
+</p>
+
+<p>
+v20: Samuel brought all Israel’s tribes forward, and Benjamin’s tribe was chosen.
+</p>
+
+<p>
+v21: He brought Benjamin’s tribe forward by clans, and the Matrite clan was chosen. Then Saul son of Kish was chosen. They looked for him but could not find him.
+</p>
+
+<p>
+v22: They inquired of the LORD again, “Has the man come here yet?” The LORD answered, “He is hiding among the baggage.”
+</p>
+
+<p>
+v23: They ran and brought him from there. As he stood among the people, he was a head taller than all of them.
+</p>
+
+<p>
+v24: Samuel said to all the people, “Do you see the one the LORD has chosen? There is no one like him among all the people.” They all shouted, “Long live the king!”
+</p>
+
+<p>
+v25: Samuel explained the provisions of kingship to the people, wrote them in a scroll, and placed it before the LORD. Then he sent everyone home.
+</p>
+
+<p>
+v26: Saul also went home to Gibeah. A band of capable men whose hearts God had touched went with him.
+</p>
+
+<p>
+v27: But some worthless men said, “How can this fellow save us?” They despised him and brought him no gift. Saul kept silent.
 </p>
 
 ## Notes
 
-v01: Saul is anointed privately as “ruler” over the LORD’s inheritance before the public selection at Mizpah.
+v05: Gibeath-elohim means “hill of God.” The expression rendered “garrisons” can refer to Philistine posts or officials.
 
-v06, v09: The Spirit’s coming and the changed heart equip Saul for his new role, though later chapters show that empowerment does not remove the need for obedience.
+v12: “Who is their father?” is left as a question. It may challenge the assumption that prophetic activity depends on family background.
 
-v08: The seven-day instruction at Gilgal becomes important in chapter 13.
-
-v11–12: “Is Saul also among the prophets?” begins as astonishment at unexpected prophetic behavior and later reappears in a darker setting in chapter 19.
-
-v19: Samuel repeats the theological critique of monarchy even at the ceremony that publicly selects the king.
-
-v22: Saul’s hiding among the baggage contrasts his imposing appearance with reluctance or fear.
-
-v25: “Judgment of the kingship” likely refers to the proper terms or obligations of kingship, not merely the abuses warned about in chapter 8.
-
-v27: The final phrase is difficult and can mean Saul kept silent, was as one deaf, or ignored the insult. TSW preserves the restraint sense.
+v25: The provisions of kingship are recorded but not quoted here. They should not simply be equated with every action warned of in chapter 8.
 
 ## Vocabulary
 
-v01: פַּךְ שֶׁמֶן (pakh shemen)
-“Flask of oil.”
+v01: Anoint — mashaḥ
+Pour or apply oil to mark someone for an office; compare David’s anointing in 16:13.
 
-v01: נַחֲלָה (nachalah)
-“Inheritance.” Israel belongs to the LORD.
-
-v06: צָלַח רוּחַ (tsalach ruach)
-“The Spirit rushes upon.”
-
-v09: הָפַךְ לֵב (hafakh lev)
-“To change the heart.”
-
-v12: מָשָׁל (mashal)
-“Proverb.”
-
-v19: מָאַס (ma'as)
-“To reject.”
-
-v20: לָכַד (lakhad)
-“To be taken.” Used in selection by lot.
-
-v25: מִשְׁפַּט הַמְּלוּכָה (mishpat ha-melukhah)
-“Judgment/order of the kingship.”
-
-v27: בְּלִיַּעַל (beliyya'al)
-“Worthless” or lawless.
+v01: Inheritance — naḥalah
+Here the LORD’s own people are described as his inheritance.

@@ -1,0 +1,748 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-14T14:24:34.242015+00:00",
+  "base_commit": "ef956502c0b537887d9fb14f6e4ec742853c71ae",
+  "scope": "Ruth 1–4 and 1 Samuel 1–16",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 149,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-16-17/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-18-20/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 94,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-21-22/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-23-25/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-26-27/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-1-2/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 88,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-3-4/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-5-6/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 58,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-7-8/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 115,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-9-10/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 59,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-11-12/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-13-18/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-19-24/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 182,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-25-30/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 193,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-31-36/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 228,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-1-6/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 219,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-7-12/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 161,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-13-18/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-19-26/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 179,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 266,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-1-8/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 186,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-9-17/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 9,
+      "verses": 256,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-18-24/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 216,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-judges-1-5/judges-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-judges-6-12/judges-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 230,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-judges-13-21/judges-verse-review.json",
+      "status": "PASSED",
+      "chapters": 9,
+      "verses": 243,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-ruth-1-4/ruth-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 85,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1samuel-1-16/1samuel-verse-review.json",
+      "status": "PASSED",
+      "chapters": 16,
+      "verses": 406,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 257,
+    "verses": 7727
+  },
+  "structural_chapters": [
+    {
+      "path": "translations/fluent/OT/ruth/Ruth_01.md",
+      "verses": 22,
+      "sha256": "a14ae00a134aaee23c9da8dbf81f7339af998e3d0c603b1441ea695b85b56cea",
+      "paragraphs": 13,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/ruth/Ruth_02.md",
+      "verses": 23,
+      "sha256": "bcb88f5ab2ebbb918433522fba2b602641b63e8c4cdb03287b214d3e331c43bb",
+      "paragraphs": 17,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/ruth/Ruth_03.md",
+      "verses": 18,
+      "sha256": "1441022f6cd9a943762dcec52fcb2ce93bacebe7e4623c99e20900429b173358",
+      "paragraphs": 12,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/ruth/Ruth_04.md",
+      "verses": 22,
+      "sha256": "6b333947827a437050688b98316f266c4286ace274ddfbe86b1d6bc142a87d53",
+      "paragraphs": 14,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_01.md",
+      "verses": 28,
+      "sha256": "d9d03498fa12530ab2bb2c627b814f184f839ecd11f4246d300a93a3e4deafef",
+      "paragraphs": 16,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_02.md",
+      "verses": 36,
+      "sha256": "5637d2308a87327b072f2ee7251bfd5926efb9e7789eed8800ce1c1d8e37d829",
+      "paragraphs": 12,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_03.md",
+      "verses": 21,
+      "sha256": "e182dfb0c98635d2c5d7ce2cb1dd2d2dc5e938cd66526e7d76dd009d8bf1cbef",
+      "paragraphs": 14,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_04.md",
+      "verses": 22,
+      "sha256": "dabcbc4ea64a9fd79668f24f1717f9cd0bf21a69ba21e238865b83b6bd993dec",
+      "paragraphs": 17,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_05.md",
+      "verses": 12,
+      "sha256": "f0cbda652b0876d44acc4c4f42256afb260adf3ed4a98649405254934ecf6365",
+      "paragraphs": 11,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_06.md",
+      "verses": 21,
+      "sha256": "997b8b86979a2fa74106c9d4d9e472e44777b4540233308d2edf8b9e61329aea",
+      "paragraphs": 14,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_07.md",
+      "verses": 17,
+      "sha256": "baffbd1e5e7ca7c5749a471e0a30dc06fb5e0c50dff896206fc830df36c1a39d",
+      "paragraphs": 14,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_08.md",
+      "verses": 22,
+      "sha256": "3947cea5e8c28566266cbc757405873df17ffd4782a3b314cc8740c55594fc24",
+      "paragraphs": 17,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_09.md",
+      "verses": 27,
+      "sha256": "909f56a344d2d171f7863568f236a907c1be67d7865cef66e74ca9d08537a050",
+      "paragraphs": 22,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_10.md",
+      "verses": 27,
+      "sha256": "0d8db1187eeef50e780da05a53aca2474993c0dca3ac044256f4cfec8e83399c",
+      "paragraphs": 23,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_11.md",
+      "verses": 15,
+      "sha256": "3ce8a315fa80ad06ef65c2bb8c18b359ff896335ce5ab7d000b9dccd1cbce8e3",
+      "paragraphs": 15,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_12.md",
+      "verses": 25,
+      "sha256": "c23889cbafb85b08aa724dd2f8ce2e4109e0074ce66cdaab2495a09eaa3687b3",
+      "paragraphs": 21,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_13.md",
+      "verses": 23,
+      "sha256": "99dbae23f15152b0ab565ec898ce2fec03201d2fd8975b6767ae02ad257d8d4a",
+      "paragraphs": 20,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_14.md",
+      "verses": 52,
+      "sha256": "c51a122add98ecaedf6af109cbee2f682598eed0cb9d62857ff6d8312593c07e",
+      "paragraphs": 46,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_15.md",
+      "verses": 35,
+      "sha256": "bca1e11e8ddf36d863c42ceceff8f504996b29ad2e821fa8d7d4bd2cb3aa2468",
+      "paragraphs": 31,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/1samuel/1Samuel_16.md",
+      "verses": 23,
+      "sha256": "3cae618661a7513ebde6d2e234ff21da5cdbe9c3c19ae7faf853f344951c442d",
+      "paragraphs": 22,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    }
+  ],
+  "first_source_reading_verses": 491,
+  "focused_source_reread_verses": {
+    "ruth": 22,
+    "1samuel": 131
+  },
+  "focused_assertions": {
+    "Ruth 1:14": [
+      "Orpah",
+      "Ruth",
+      "held tightly"
+    ],
+    "Ruth 1:16": [
+      "your people",
+      "your God"
+    ],
+    "Ruth 2:12": [
+      "wings"
+    ],
+    "Ruth 3:9": [
+      "wing",
+      "redeemer"
+    ],
+    "Ruth 3:15": [
+      "six",
+      "he went"
+    ],
+    "Ruth 4:20": [
+      "Salmah"
+    ],
+    "Ruth 4:21": [
+      "Salmon"
+    ],
+    "1 Samuel 1:24": [
+      "three bulls"
+    ],
+    "1 Samuel 2:3": [
+      "by him",
+      "deeds"
+    ],
+    "1 Samuel 2:6": [
+      "kills",
+      "Sheol",
+      "raises"
+    ],
+    "1 Samuel 2:9": [
+      "For no one prevails by strength."
+    ],
+    "1 Samuel 2:21": [
+      "three sons",
+      "two daughters"
+    ],
+    "1 Samuel 2:22": [
+      "slept with",
+      "women"
+    ],
+    "1 Samuel 3:13": [
+      "themselves"
+    ],
+    "1 Samuel 4:10": [
+      "thirty thousand"
+    ],
+    "1 Samuel 4:15": [
+      "ninety-eight"
+    ],
+    "1 Samuel 6:19": [
+      "fifty thousand and seventy"
+    ],
+    "1 Samuel 7:2": [
+      "twenty years"
+    ],
+    "1 Samuel 8:11": [
+      "take"
+    ],
+    "1 Samuel 8:13": [
+      "take"
+    ],
+    "1 Samuel 8:14": [
+      "take"
+    ],
+    "1 Samuel 8:15": [
+      "tenth"
+    ],
+    "1 Samuel 8:17": [
+      "slaves"
+    ],
+    "1 Samuel 9:8": [
+      "quarter-shekel"
+    ],
+    "1 Samuel 10:3": [
+      "three young goats",
+      "three loaves",
+      "skin of wine"
+    ],
+    "1 Samuel 10:8": [
+      "seven days"
+    ],
+    "1 Samuel 11:2": [
+      "right eyes"
+    ],
+    "1 Samuel 11:8": [
+      "three hundred thousand",
+      "thirty thousand"
+    ],
+    "1 Samuel 12:11": [
+      "Bedan",
+      "Samuel"
+    ],
+    "1 Samuel 13:1": [
+      "…",
+      "two years"
+    ],
+    "1 Samuel 13:5": [
+      "thirty thousand chariots",
+      "six thousand"
+    ],
+    "1 Samuel 13:21": [
+      "pim"
+    ],
+    "1 Samuel 14:18": [
+      "ark"
+    ],
+    "1 Samuel 14:41": [
+      "true answer"
+    ],
+    "1 Samuel 14:49": [
+      "Ishvi",
+      "Merab",
+      "Michal"
+    ],
+    "1 Samuel 14:50": [
+      "Abner",
+      "uncle Ner"
+    ],
+    "1 Samuel 15:3": [
+      "men and women",
+      "nursing infants",
+      "camels and donkeys"
+    ],
+    "1 Samuel 15:11": [
+      "regret"
+    ],
+    "1 Samuel 15:24": [
+      "their voice"
+    ],
+    "1 Samuel 15:29": [
+      "change his mind"
+    ],
+    "1 Samuel 15:33": [
+      "cut Agag in pieces"
+    ],
+    "1 Samuel 15:35": [
+      "regretted"
+    ],
+    "1 Samuel 16:7": [
+      "heart"
+    ],
+    "1 Samuel 16:14": [
+      "harmful spirit from the LORD"
+    ],
+    "1 Samuel 16:23": [
+      "lyre",
+      "breathe freely"
+    ]
+  },
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "historical_provenance_and_unrelated_work_preserved": true,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

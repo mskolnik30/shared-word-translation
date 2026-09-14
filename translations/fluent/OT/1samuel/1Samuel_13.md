@@ -4,119 +4,114 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-1-16-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 13
-
-## Saul Faces the Philistine Threat
+## Saul and the Philistines
 
 <p>
-v01: Saul was ... years old when he became king, and he reigned ... and two years over Israel.
-
-v02: Saul chose for himself three thousand men from Israel. Two thousand were with Saul at Michmash and in the hill country of Bethel, and one thousand were with Jonathan at Gibeah of Benjamin. The rest of the people he sent away, each man to his tent.
-
-v03: Jonathan struck the Philistine garrison that was at Geba, and the Philistines heard of it. Saul blew the ram’s horn throughout the land, saying, “Let the Hebrews hear!”
-
-v04: All Israel heard it said, “Saul has struck the garrison of the Philistines, and Israel has also become odious to the Philistines.” So the people were called together after Saul at Gilgal.
+v01: Saul was … years old when he became king, and he reigned over Israel for … and two years.
+v02: Saul chose three thousand men from Israel. Two thousand stayed with him at Michmash and in the hill country of Bethel, and a thousand were with Jonathan at Gibeah of Benjamin. He sent the rest home to their tents.
 </p>
 
-## The Philistines Gather against Israel
-
 <p>
-v05: The Philistines gathered to fight with Israel: thirty thousand chariots, six thousand horsemen, and people as numerous as the sand that is on the seashore. They went up and camped at Michmash, east of Beth-Aven.
-
-v06: When the men of Israel saw that they were in distress, for the people were hard pressed, the people hid themselves in caves, holes, rocks, tombs, and cisterns.
-
-v07: Some Hebrews crossed the Jordan to the land of Gad and Gilead. But Saul was still at Gilgal, and all the people following him were trembling.
+v03: Jonathan struck the Philistine garrison at Geba, and the Philistines heard about it. Saul sounded the ram’s horn throughout the land: “Let the Hebrews hear!”
 </p>
 
-## Saul Offers the Burnt Offering
-
 <p>
-v08: He waited seven days, according to the appointed time Samuel had set, but Samuel did not come to Gilgal, and the people were scattering from him.
-
-v09: Saul said, “Bring near to me the burnt offering and the offerings of well-being.” And he offered the burnt offering.
-
-v10: And it happened as he finished offering the burnt offering that, look, Samuel came. Saul went out to meet him and bless him.
-
-v11: Samuel said, “What have you done?” Saul said, “Because I saw that the people were scattering from me, and you did not come within the appointed days, and the Philistines were gathering at Michmash,
-
-v12: I said, ‘Now the Philistines will come down against me at Gilgal, and I have not sought the favor of the LORD.’ So I forced myself and offered the burnt offering.”
+v04: All Israel heard the report: “Saul has struck the Philistine garrison, and Israel has become a stench to the Philistines.” The people were summoned to join Saul at Gilgal.
 </p>
 
-## Samuel Announces the Loss of Saul’s Dynasty
-
 <p>
-v13: Samuel said to Saul, “You have acted foolishly. You have not kept the commandment of the LORD your God that he commanded you. For now the LORD would have established your kingdom over Israel forever.
-
-v14: But now your kingdom will not continue. The LORD has sought for himself a man according to his heart, and the LORD has appointed him as ruler over his people, because you did not keep what the LORD commanded you.”
-
-v15: Samuel arose and went up from Gilgal to Gibeah of Benjamin. Saul counted the people who were found with him, about six hundred men.
+v05: The Philistines gathered to fight Israel with thirty thousand chariots, six thousand horsemen, and troops as numerous as the sand on the seashore. They came up and camped at Michmash, east of Beth-aven.
 </p>
 
-## Israel Has No Smiths
+<p>
+v06: The Israelites saw that they were in desperate trouble, with their troops hard pressed. They hid in caves, thickets, rocks, cellars, and cisterns.
+</p>
 
 <p>
-v16: Saul and Jonathan his son and the people found with them were staying at Geba of Benjamin, while the Philistines camped at Michmash.
+v07: Some Hebrews crossed the Jordan into Gad and Gilead. Saul remained at Gilgal, with all his followers trembling.
+</p>
 
-v17: Raiders came out from the camp of the Philistines in three companies. One company turned toward the way of Ophrah, toward the land of Shual;
+## Saul does not wait
 
-v18: another company turned toward the way of Beth-Horon; and another company turned toward the way of the border overlooking the Valley of Zeboim toward the wilderness.
+<p>
+v08: He waited seven days, until the time Samuel had set. But Samuel did not come to Gilgal, and the troops were scattering away from Saul.
+</p>
 
-v19: Now no blacksmith was found throughout all the land of Israel, for the Philistines said, “Lest the Hebrews make sword or spear.”
+<p>
+v09: Saul said, “Bring me the burnt offering and the sacrifices of well-being.” Then he offered the burnt offering.
+</p>
 
-v20: So all Israel went down to the Philistines, each to sharpen his plowshare, mattock, axe, and sickle.
+<p>
+v10: Just as he finished offering it, Samuel arrived. Saul went out to meet him and greet him with a blessing.
+</p>
 
-v21: The charge was a pim for the plowshares and mattocks and one-third of a shekel for sharpening the axes and setting the goads.
+<p>
+v11: Samuel asked, “What have you done?” Saul replied, “I saw the troops scattering away from me, you had not come at the appointed time, and the Philistines were gathering at Michmash.
+v12: I thought, ‘Now the Philistines will come down against me at Gilgal, and I have not sought the LORD’s favor.’ So I forced myself to offer the burnt offering.”
+</p>
 
-v22: So it happened on the day of battle that neither sword nor spear was found in the hand of any of the people who were with Saul and Jonathan, but they were found with Saul and Jonathan his son.
+<p>
+v13: Samuel told Saul, “You have acted foolishly. You have not kept the command the LORD your God gave you. The LORD would have established your kingdom over Israel forever.
+</p>
 
-v23: And a garrison of the Philistines went out to the pass of Michmash.
+<p>
+v14: But now your kingdom will not endure. The LORD has sought a man after his own heart and appointed him leader over his people, because you did not keep the LORD’s command.”
+</p>
+
+<p>
+v15: Samuel got up and went from Gilgal to Gibeah of Benjamin. Saul counted the men still with him: about six hundred.
+</p>
+
+## Outposts and weapons
+
+<p>
+v16: Saul, his son Jonathan, and the men with them were staying at Geba of Benjamin. The Philistines camped at Michmash.
+</p>
+
+<p>
+v17: Three raiding companies came out of the Philistine camp. One headed toward Ophrah in the land of Shual.
+v18: Another headed toward Beth-horon, and the third toward the border overlooking the Valley of Zeboim, toward the wilderness.
+</p>
+
+<p>
+v19: No smith could be found anywhere in Israel, for the Philistines had said, “The Hebrews must not make swords or spears.”
+</p>
+
+<p>
+v20: So all Israel had to go down to the Philistines to sharpen their plowshares, mattocks, axes, and hoes.
+</p>
+
+<p>
+v21: The sharpening charge was a pim for plowshares and mattocks, for three-pronged forks and axes, and for setting the goads.
+</p>
+
+<p>
+v22: On the day of battle, none of the troops with Saul and Jonathan had a sword or spear. Only Saul and his son Jonathan had them.
+</p>
+
+<p>
+v23: A Philistine outpost moved out to the pass at Michmash.
 </p>
 
 ## Notes
 
-v01: The Masoretic Text is defective in this verse: the number for Saul’s age is missing, and the length of his reign is incomplete. Ancient witnesses differ. TSW preserves the textual break rather than supplying a conjectural age or reign.
+v01: The transmitted Hebrew literally gives Saul’s age as “one year” and says he reigned “two years.” The regnal formula appears damaged. Ellipses mark information that cannot be recovered securely; no age or complete reign length is supplied.
 
-v03: Jonathan’s attack initiates open conflict, but Saul’s announcement frames the action under royal leadership.
+v03: “Garrison” may mean a Philistine official or post. The report in verse 4 credits Saul with the attack Jonathan carried out.
 
-v05: The Masoretic Text reads “thirty thousand chariots,” an exceptionally large number. Some ancient witnesses and many interpreters propose “three thousand,” but TSW follows the received text and notes the issue.
+v05: Thirty thousand chariots is the pinned Hebrew number, retained despite its difficulty beside six thousand horsemen.
 
-v08: Samuel’s seven-day instruction recalls 1 Samuel 10:8.
+v06: The identities of some hiding places are uncertain, especially the word rendered “cellars.”
 
-v12: Saul describes his action as something he “forced” himself to do, but Samuel interprets it as disobedience rather than necessity.
-
-v14: “A man according to his heart” describes the one God seeks for the royal vocation; it does not imply moral perfection.
-
-v19–22: Philistine control of metalworking creates military dependence and explains why Israel enters battle with almost no swords or spears.
-
-v21: “Pim” is an ancient weight/payment term confirmed by archaeological finds; the exact pricing syntax remains difficult.
+v20–21: The tool names and price wording are difficult. A pim is an ancient weight; the translation retains it rather than assigning a modern price. “Three-pronged forks” is one understanding of the phrase that includes “three” and “fork.”
 
 ## Vocabulary
 
-v01: מָלַךְ (malakh)
-“To reign.”
-
-v04: בָּאַשׁ (ba'ash)
-“To become odious,” literally “stink.”
-
-v06: צָרַר (tsarar)
-“To be hard pressed” or distressed.
-
-v09: עֹלָה (olah)
-“Burnt offering.”
-
-v12: חָלָה פְנֵי (chalah pene)
-“To seek favor,” literally “entreat the face.”
-
-v13: סָכַל (sakhal)
-“To act foolishly.”
-
-v14: נָגִיד (nagid)
-“Ruler” or leader.
-
-v19: חָרָשׁ (charash)
-“Blacksmith” or craftsman.
-
-v21: פִּים (pim)
-“Pim.” An ancient weight or payment unit.
+v14: After his own heart
+Someone corresponding to the LORD’s purpose or desire. The expression does not by itself assert a faultless character.
