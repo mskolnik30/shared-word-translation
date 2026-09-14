@@ -1,0 +1,88 @@
+{
+  "scope": "Judges 13–21",
+  "revision_id": "fluent-judges-13-21-biblical-fluency-2026-09-14",
+  "base_commit": "59b751f3aa3f763d7c2af6c3662f1e9cbe8b83dd",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Judg",
+    "book_verse_count": 618,
+    "scope_chapters": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "sha256": "1429da54e4c60bf805adea3ce2b96a57140d9d44a77bfb47050bae2ac954e1a3",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Judg.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including all written/read and other notes, not normalized reconstructions.",
+    "public_versification_note": "Public Judges 13–21 and Hebrew source references align one to one. All 243 original source records are bound exactly once."
+  },
+  "authoring_review": {
+    "all_source_verses_read": 243,
+    "all_tsw_comparator_verses_read_after_drafting": 243,
+    "focused_second_source_comparisons": 125,
+    "review_type": "Translation authoring and focused self-check; no independent reviewer or reader testing."
+  },
+  "completed_work": [
+    "Nine complete chapters, all 243 verses with individual rationale, F0–F3 choice, exact original source binding and before/after/comparator text.",
+    "Selective Notes and Vocabulary explain recurring images, ancient terms and consequential ambiguities. Riddles, replies, the jawbone poem and victory acclamation remain within their verse paragraphs.",
+    "Cumulative audit results are recorded in verification.json. Structural and source-binding success does not establish scholarly fidelity or reader comprehension."
+  ],
+  "key_decisions": [
+    "13 preserves the distinct accounts of the woman and narrator, begin to rescue and until death, and the questions about the boy’s rule and work. The LORD is supplied as the wonder-worker in 19, with the alternative subject noted. The wife’s reasoning answers Manoah’s fear in her own voice.",
+    "14 retains right in my/Samson’s eyes, uncircumcised, Spirit and violent lion simile, parental concealment, and both clothing categories. The LORD is chosen as seeking an occasion with the Samson alternative noted. Seventh day follows the pin despite fourth-day alternatives and the three/seven-day tension. The riddle, answer and heifer retort keep their literary form. Thirty men are explicitly killed for clothing.",
+    "15 retains reciprocal revenge claims, 300 foxes with jackals alternative, olive orchards with the crop construction explained, the burning of the wife and father to death, hip and thigh, 3,000 Judahites, both ropes and the flax simile. Jawbone/heap wordplay is preserved with a brief note. The water comes from the hollow at Lehi; spirit, revival and spring naming remain.",
+    "16 retains the prostitute encounter, exact gate components, eleven hundred silver units per ruler, repeated bonds and ambushes, and the unfinished Hebrew loom condition without importing its Greek expansion. Full-heart disclosure, shaving agency, affliction, eye gouging and prison labor remain. The roughly 3,000 rooftop spectators are distinct from those inside. One of my two eyes is retained in the prayer, with one act of revenge for both eyes noted. The death wish and comparison of killings remain unembellished.",
+    "17 retains dedication to the LORD beside image-making, 1,100 versus 200 shekels, the uncertain carved/cast image construction, ephod and teraphim, and the installed/filled-hand idiom. The Judah-clan/Levite tension stays visible. Father/priest and son relationships are not flattened. Micah’s confidence remains his assertion.",
+    "18 retains the unallotted-inheritance claim with Joshua comparison noted, the ambiguous oracle before the LORD, the difficult Laish power/security clause and anyone/Aram alternative. All object lists remain distinct, including the missing cast image in 20. The quiet, secure people are killed and their town burned. Displayed Manasseh follows the pinned suspended nun, with Moses explained; no motive for the scribal feature is asserted. Exile and Shiloh notices remain side by side.",
+    "19 follows pinned unfaithfulness and house of the LORD, noting anger and my house alternatives. The woman’s role in bringing him inside follows the read tradition. The host’s offer of both women, the husband’s handing over his concubine, rape and abuse remain explicit. Master, hands on the threshold, no answer and twelve-piece dismemberment are retained without deciding the exact time of death.",
+    "20 preserves the difference between the Levite’s report and chapter 19. All troop, provisioning, casualty and survivor numbers remain, including 25,100 versus 25,000. Geba is not silently harmonized with Gibeah. The first two divine replies are distinct from the third’s promised victory tomorrow. Phinehas’s full lineage, ark/pronoun alternative, retrospective battle account, uncertain roads/terrain/rest expression, plural towns and gleaning image are recorded. Destruction of towns and livestock remains explicit.",
+    "21 distinguishes the two human oaths, the killing order against Jabesh-gilead’s women and children, the 400 captive young virgins, and the later abduction from Shiloh. All geographic bearings are kept. The LORD’s breach attribution remains in the narrator. The elders’ compressed plea in 22 is translated coherently with uncertainty and the supplied otherwise condition explained. The closing refrain exactly repeats 17:6."
+  ],
+  "remaining_review_questions": [
+    "Independent Hebrew review is pending, especially 13:5,12,18–19; 14:4,11,15–18; 15:4–5,8,16,19; 16:2,7,13–14,19,28; 17:3–4,7,10; 18:1,6–7,18,30; 19:2–3,8,18,25–30; 20:10,28,31,33,36–43,48; 21:17,22.",
+    "Read the complete Judges draft for recurring terms, names, chronology, repeated speeches and the closing refrain. Rebind earlier ledgers if wording changes. This batch does not claim that whole-book review is complete.",
+    "Reader comprehension, listening tests and independent scholarly review remain pending. Retained ancient images and compressed clauses need that further assessment."
+  ],
+  "overlap": {
+    "before": {
+      "identical": 217,
+      "near_identical_nonidentical": 26
+    },
+    "after": {
+      "identical": 2,
+      "near_identical_nonidentical": 5
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse overlap is triage only, not fidelity, originality, comprehension or independent approval.",
+  "high_overlap_triage": "All seven normalized similarities at least 0.90 inspected: 13:25; 14:4,6–7; 15:17; 16:22; 17:11. Two are normalized identical to TSW; one verse retains exact prior Fluent wording. Clear source wording and repetitions remain without an overlap quota.",
+  "companion_impact": {
+    "changed_chapters": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "action": "Reconcile Fluent quotations and bindings during later authorized installation; preserve previously recorded impacts.",
+    "separate_companion_branch_changed": false
+  },
+  "github_write_status": "Existing authentication/integration access blocker remains; no rejected write retried.",
+  "next_scope": "Judges whole-book consistency review"
+}

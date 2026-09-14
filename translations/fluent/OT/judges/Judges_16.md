@@ -4,145 +4,114 @@ testament: OT
 chapter: 16
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-13-21-biblical-fluency-2026-09-14
 ---
 
 ## Samson at Gaza
 
 <p>
-v01: Samson went to Gaza, saw a prostitute there, and went in to her.
-
-v02: The Gazites were told, “Samson has come here.” They surrounded the place and lay in wait for him all night at the city gate. They kept quiet all night, saying, “At the light of morning we will kill him.”
-
-v03: Yet Samson lay until midnight. At midnight he rose, took hold of the doors of the city gate and the two posts, pulled them up together with the bar, put them on his shoulders, and carried them to the top of the hill that faces Hebron.
+v01: Samson went to Gaza. There he saw a prostitute and slept with her.
+v02: The people of Gaza were told, “Samson is here.” They surrounded the place and waited for him all night at the town gate. They kept quiet through the night, saying, “At first light we will kill him.”
+v03: Samson lay there until midnight. At midnight he got up, seized the town gate’s doors and its two posts, and pulled them out with the bar. He put them on his shoulders and carried them up to the top of the hill facing Hebron.
 </p>
 
-## Samson Loves Delilah
+## Delilah and the secret of his strength
 
 <p>
-v04: After this he loved a woman in the Valley of Sorek whose name was Delilah.
-
-v05: The rulers of the Philistines went up to her and said, “Entice him and see where his great strength lies and how we may overpower him, so that we may bind him and humble him. Each of us will give you eleven hundred pieces of silver.”
-
-v06: Delilah said to Samson, “Please tell me where your great strength lies and with what you may be bound to humble you.”
-
-v07: Samson said to her, “If they bind me with seven fresh bowstrings that have not been dried, then I will become weak and be like any other man.”
-
-v08: Then the rulers of the Philistines brought up to her seven fresh bowstrings that had not been dried, and she bound him with them.
-
-v09: Now men were lying in wait with her in an inner room. She said to him, “The Philistines are upon you, Samson!” But he snapped the bowstrings as a thread of flax snaps when it touches fire. So the source of his strength was not known.
+v04: After this he loved a woman in the Valley of Sorek named Delilah.
+v05: The Philistine rulers came to her and said, “Persuade him to tell you what makes his strength so great and how we can overpower him, bind him, and afflict him. Each of us will give you eleven hundred shekels of silver.”
+v06: Delilah asked Samson, “Please tell me what makes your strength so great and how you could be bound and afflicted.”
 </p>
 
-## Delilah Presses Samson
-
 <p>
-v10: Delilah said to Samson, “Look, you have mocked me and told me lies. Now please tell me how you may be bound.”
-
-v11: He said to her, “If they bind me securely with new ropes that have never been used for work, then I will become weak and be like any other man.”
-
-v12: So Delilah took new ropes and bound him with them and said to him, “The Philistines are upon you, Samson!” The men in ambush were in the inner room. But he snapped the ropes from his arms like thread.
-
-v13: Delilah said to Samson, “Until now you have mocked me and told me lies. Tell me how you may be bound.” He said to her, “If you weave the seven locks of my head with the web.”
-
-v14: She fastened it with the pin and said to him, “The Philistines are upon you, Samson!” He awoke from his sleep and pulled away the pin of the loom and the web.
+v07: Samson answered, “If they bind me with seven fresh bowstrings that have not dried, I will become weak, like any other man.”
+v08: The Philistine rulers brought her seven fresh bowstrings that had not dried, and she bound him with them.
+v09: Men were waiting in ambush in her inner room. She called, “The Philistines are upon you, Samson!” But he snapped the bowstrings like a strand of flax at the touch of fire. The secret of his strength remained unknown.
 </p>
 
-## Samson Tells Her All His Heart
-
 <p>
-v15: She said to him, “How can you say, ‘I love you,’ when your heart is not with me? These three times you have mocked me and have not told me where your great strength lies.”
-
-v16: When she pressed him with her words day after day and urged him, his soul became impatient to the point of death.
-
-v17: So he told her all his heart and said to her, “A razor has never come upon my head, for I have been a Nazirite to God from my mother’s womb. If I am shaved, then my strength will leave me, and I will become weak and be like any other person.”
-
-v18: When Delilah saw that he had told her all his heart, she sent and called the rulers of the Philistines, saying, “Come up this time, for he has told me all his heart.” Then the rulers of the Philistines came up to her and brought the silver in their hands.
-
-v19: She made him sleep upon her knees, called a man, and had him shave off the seven locks of his head. Then she began to humble him, and his strength left him.
-
-v20: She said, “The Philistines are upon you, Samson!” He awoke from his sleep and said, “I will go out as at other times and shake myself free.” But he did not know that the LORD had departed from him.
+v10: Delilah told Samson, “You have made a fool of me and told me lies. Now please tell me how you can be bound.”
+v11: He answered, “If they bind me tightly with new ropes that have never been used, I will become weak, like any other man.”
+v12: Delilah took new ropes and bound him. “The Philistines are upon you, Samson!” she called. Men were waiting in the inner room, but he snapped the ropes off his arms like thread.
 </p>
 
-## The Philistines Blind Samson
-
 <p>
-v21: The Philistines seized him and gouged out his eyes. They brought him down to Gaza and bound him with bronze chains, and he ground grain in the prison house.
-
-v22: But the hair of his head began to grow again after it had been shaved.
+v13: Delilah told Samson, “You have kept making a fool of me and telling me lies. Tell me how you can be bound.” He replied, “If you weave the seven locks of my hair into the web of a loom—”
+v14: She fastened it with the pin and called, “The Philistines are upon you, Samson!” He woke from sleep and pulled out the loom pin and the woven web.
 </p>
 
-## The Philistines Celebrate Dagon
+## Samson tells her all his heart
 
 <p>
-v23: The rulers of the Philistines gathered to offer a great sacrifice to Dagon their god and to rejoice. They said:
-
-“Our god has given Samson our enemy
-into our hand.”
-
-v24: When the people saw him, they praised their god, for they said:
-
-“Our god has given our enemy into our hand,
-the destroyer of our land,
-who multiplied our slain.”
-
-v25: When their hearts were merry, they said, “Call Samson, that he may entertain us.” They called Samson from the prison house, and he entertained them. They made him stand between the pillars.
-
-v26: Samson said to the young man who held him by the hand, “Let me feel the pillars upon which the house rests, that I may lean against them.”
-
-v27: Now the house was full of men and women. All the rulers of the Philistines were there, and on the roof were about three thousand men and women who watched while Samson entertained them.
+v15: She said, “How can you say, ‘I love you,’ when your heart is not with me? You have made a fool of me three times and have not told me what makes your strength so great.”
+v16: Day after day she pressed him with her words and urged him until he was sick to death of it.
+v17: He told her all that was in his heart: “No razor has touched my head, for I have been a Nazirite of God from my mother’s womb. If I am shaved, my strength will leave me, and I will become weak, like everyone else.”
 </p>
 
-## Samson Dies with the Philistines
+<p>
+v18: Delilah saw that he had told her all his heart. She sent for the Philistine rulers: “Come up this time. He has told me all his heart.” They came to her with the silver in their hands.
+v19: She lulled him to sleep on her knees, called a man, and had the seven locks of his hair shaved off. Then she began to afflict him, and his strength left him.
+</p>
 
 <p>
-v28: Then Samson called to the LORD and said, “Lord GOD, please remember me. Please strengthen me only this once, O God, that I may be avenged on the Philistines with one vengeance for my two eyes.”
+v20: She called, “The Philistines are upon you, Samson!” He woke from sleep and thought, “I will go out as before and shake myself free.” But he did not know that the LORD had left him.
+v21: The Philistines seized him, gouged out his eyes, and took him down to Gaza. They bound him in bronze shackles, and he ground grain in the prison.
+</p>
 
-v29: Samson grasped the two middle pillars upon which the house rested and leaned his weight against them, his right hand on one and his left hand on the other.
+<p>
+v22: But the hair on his head began to grow again after it had been shaved.
+</p>
 
-v30: Samson said, “Let my life die with the Philistines.” Then he bowed with all his strength, and the house fell upon the rulers and upon all the people who were in it. So the dead whom he killed at his death were more than those whom he had killed during his life.
+## Samson’s final act
 
-v31: Then his brothers and all his father’s household came down, carried him away, brought him up, and buried him between Zorah and Eshtaol in the tomb of Manoah his father. He had judged Israel twenty years.
+<p>
+v23: The Philistine rulers gathered to offer a great sacrifice to their god Dagon and celebrate. They said, “Our god has given our enemy Samson into our hand.”
+v24: When the people saw him, they praised their god, saying,
+“Our god has given into our hand
+our enemy, who devastated our land
+and multiplied our dead.”
+</p>
+
+<p>
+v25: When they were in high spirits, they said, “Call Samson out to entertain us.” They brought him from the prison, and he performed before them. They stood him between the pillars.
+v26: Samson told the boy holding his hand, “Let me feel the pillars that support the building so I can lean against them.”
+v27: The building was full of men and women, and all the Philistine rulers were there. On the roof were about three thousand men and women watching Samson perform.
+</p>
+
+<p>
+v28: Samson called to the LORD: “Lord GOD, please remember me. Please strengthen me just this once, O God, so I can take revenge on the Philistines for one of my two eyes.”
+v29: Samson grasped the two middle pillars that supported the building and braced himself against them, one with his right hand and one with his left.
+v30: “Let me die with the Philistines!” Samson said. He pushed with all his strength, and the building fell on the rulers and everyone inside. He killed more people in his death than he had during his life.
+</p>
+
+<p>
+v31: His brothers and his father’s whole household came down and carried him away. They brought him up and buried him between Zorah and Eshtaol, in the tomb of his father Manoah. He had judged Israel for twenty years.
 </p>
 
 ## Notes
 
-v01–03: Samson again combines sexual risk with extraordinary strength. Carrying Gaza’s gate away publicly humiliates a fortified Philistine city.
+v02–03: The opening report supplies a verb absent from the compressed Hebrew. The hill faces Hebron; the text gives no travel distance.
 
-v05: The promised payment is enormous, showing both the rulers’ fear of Samson and the economic incentive placed before Delilah.
+v04–05: Delilah’s people and occupation are not identified here. Each ruler offers eleven hundred units of silver; shekels supplies the customary weight unit.
 
-v13–14: Samson’s hair enters the deception before he finally reveals the truth, showing him moving progressively closer to disclosing the sign of his consecration.
+v07–09: Bowstrings may refer to fresh cords of animal sinew. The recurring cry is literally the Philistines are upon you.
 
-v16: “his soul became impatient to the point of death” — The same idiom of a shortened or unbearable *nefesh* used elsewhere conveys extreme inward pressure.
+v13–14: The Hebrew condition breaks off after the loom’s web. A longer Greek form supplies the threatened weakness and a fuller account of weaving the hair. The draft keeps the short Hebrew and marks its unfinished condition.
 
-v17: Samson identifies his uncut hair with his Nazirite consecration, not as magic in itself. His strength finally leaves when the consecration is violated and the LORD departs.
+v17–20: All his heart repeats the image of full disclosure. Verse 19 grammatically attributes shaving to Delilah, after she calls a man; had the hair shaved represents her responsibility. Afflict continues the purpose stated in verses 5–6.
 
-v20: The tragic line “he did not know that the LORD had departed from him” marks the collapse of Samson’s confidence that previous experience can simply be repeated.
-
-v28: Samson’s final prayer seeks divine strength but also explicitly seeks personal vengeance for his eyes. Deliverance and retaliation remain intertwined.
-
-v30: Samson’s greatest destruction occurs in his own death. He “begins” Israel’s deliverance from the Philistines, as announced in chapter 13, but does not complete it.
+v28: For one of my two eyes follows one reading of the compressed phrase. Another is a single act of revenge for both eyes. The request remains Samson’s own.
 
 ## Vocabulary
 
-v04: אָהַב (ahav)
-“To love.” Used explicitly for Samson’s relationship with Delilah.
+v17: Nazirite
+A person set apart to God; Samson recalls the consecration announced in chapter 13.
 
-v05: פָּתָה (patah)
-“To entice” or “persuade.” The Philistine rulers commission Delilah to discover Samson’s weakness.
+v21: bronze shackles
+Metal restraints. His captivity includes forced grinding work.
 
-v16: קָצַר נֶפֶשׁ (qatsar nefesh)
-“To become impatient in soul” or “unable to bear.” Describes Samson’s exhaustion under Delilah’s pressure.
-
-v17: נָזִיר (nazir)
-“Nazirite” or “consecrated one.” Samson identifies his life-long consecration as the context for his uncut hair.
-
-v20: סוּר (sur)
-“To depart” or “turn aside.” The LORD departs from Samson.
-
-v21: נָקַר (naqar)
-“To gouge out.” Used of the Philistines blinding Samson.
-
-v23: דָּגוֹן (Dagon)
-“Dagon.” A major Philistine deity.
-
-v28: זָכַר (zakhar)
-“To remember.” Samson asks God to remember him in his final prayer.
+v23: Dagon
+The god to whom the Philistine rulers attribute Samson’s capture.

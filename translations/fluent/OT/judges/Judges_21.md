@@ -4,118 +4,106 @@ testament: OT
 chapter: 21
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-13-21-biblical-fluency-2026-09-14
 ---
 
-## Israel Grieves for Benjamin
+## The oath and the missing tribe
 
 <p>
-v01: Now the men of Israel had sworn at Mizpah, saying, “None of us will give his daughter to Benjamin as wife.”
-
-v02: The people came to Bethel and sat there before God until evening. They lifted up their voices and wept greatly.
-
-v03: They said, “Why, O LORD, God of Israel, has this happened in Israel, that today one tribe should be missing from Israel?”
-
-v04: The next day the people rose early and built an altar there and offered burnt offerings and offerings of well-being.
+v01: At Mizpah Israel’s men had sworn, “None of us will give his daughter to a Benjaminite as a wife.”
+v02: The people came to Bethel and sat there before God until evening. They raised their voices and wept bitterly.
+v03: “LORD, God of Israel,” they said, “why has this happened in Israel, that one tribe should be missing from Israel today?”
+v04: Early the next morning the people built an altar there and offered burnt offerings and well-being offerings.
 </p>
 
-## Jabesh-Gilead Is Destroyed
-
 <p>
-v05: The children of Israel said, “Who among all the tribes of Israel did not come up in the assembly to the LORD?” For they had made a great oath concerning anyone who did not come up to the LORD at Mizpah, saying, “He will surely be put to death.”
-
-v06: The children of Israel had compassion on Benjamin their brother and said, “One tribe has been cut off from Israel today.
-
-v07: What will we do for wives for people who remain, since we have sworn by the LORD that we will not give them any of our daughters as wives?”
-
-v08: They said, “What one from the tribes of Israel did not come up to the LORD at Mizpah?” And look, no one had come to the camp from Jabesh-Gilead to the assembly.
-
-v09: For when the people were counted, look, none of the inhabitants of Jabesh-Gilead was there.
-
-v10: So the congregation sent twelve thousand of the men of valor there and commanded them, saying, “Go and strike the inhabitants of Jabesh-Gilead with the edge of the sword, including the women and little children.
-
-v11: This is the thing you will do: devote to destruction every male and every woman who has known the lying of a male.”
-
-v12: They found among the inhabitants of Jabesh-Gilead four hundred young virgins who had not known a man by lying with a male, and they brought them to the camp at Shiloh, which is in the land of Canaan.
+v05: The Israelites asked, “Who from all Israel’s tribes failed to come up to the assembly before the LORD?” For they had sworn a solemn oath that anyone who failed to come before the LORD at Mizpah must be put to death.
 </p>
 
-## Peace with Benjamin
-
 <p>
-v13: Then the whole congregation sent and spoke to the children of Benjamin who were at the rock of Rimmon and proclaimed peace to them.
-
-v14: Benjamin returned at that time, and they gave them the women whom they had kept alive from the women of Jabesh-Gilead. But there were not enough for them.
-
-v15: The people had compassion on Benjamin because the LORD had made a breach in the tribes of Israel.
+v06: The Israelites grieved for their brother Benjamin. “Today one tribe has been cut off from Israel,” they said.
+v07: “What can we do to provide wives for the survivors? We have sworn by the LORD not to give them our daughters as wives.”
 </p>
 
-## The Women of Shiloh
+## Jabesh-gilead is attacked
 
 <p>
-v16: Then the elders of the congregation said, “What will we do for wives for people who remain, since the women have been destroyed from Benjamin?”
-
-v17: They said, “There must be an inheritance for the survivors of Benjamin, so that a tribe may not be blotted out from Israel.
-
-v18: Yet we cannot give them wives from our daughters, for the children of Israel had sworn, saying, ‘Cursed is the one who gives a wife to Benjamin.’”
-
-v19: So they said, “Look, there is the yearly festival of the LORD at Shiloh, which is north of Bethel, east of the highway that goes up from Bethel to Shechem, and south of Lebonah.”
-
-v20: They commanded the children of Benjamin, saying, “Go and lie in wait in the vineyards.
-
-v21: Watch, and look, if the daughters of Shiloh come out to dance in the dances, then come out from the vineyards, seize for yourselves each man his wife from the daughters of Shiloh, and go to the land of Benjamin.
-
-v22: When their fathers or brothers come to complain to us, we will say to them, ‘Show us favor concerning them, because we did not take a wife for each man in battle, and you did not give them to them, or you would now be guilty.’”
-
-v23: The children of Benjamin did so and took wives according to their number from the women who danced, whom they carried away. Then they went and returned to their inheritance, rebuilt the cities, and lived in them.
+v08: They asked, “Which group from Israel’s tribes did not come before the LORD at Mizpah?” It turned out that no one from Jabesh-gilead had come to the camp for the assembly.
+v09: When the people were counted, no one from Jabesh-gilead was there.
 </p>
 
-## Everyone Did What Was Right in Their Own Eyes
+<p>
+v10: The congregation sent twelve thousand warriors there and commanded them, “Go and strike the people of Jabesh-gilead with the sword, including the women and children.
+v11: This is what you must do: devote to destruction every male and every woman who has slept with a man.”
+</p>
 
 <p>
-v24: The children of Israel departed from there at that time, each to his tribe and clan. They went out from there, each to his inheritance.
+v12: Among the people of Jabesh-gilead they found four hundred young virgins who had not slept with a man. They brought them to the camp at Shiloh in the land of Canaan.
+</p>
 
-v25: In those days there was no king in Israel. Everyone did what was right in their own eyes.
+<p>
+v13: The whole congregation sent word to the Benjaminites at the rock of Rimmon and proclaimed peace to them.
+v14: Benjamin returned at that time, and the Israelites gave them the women they had kept alive from Jabesh-gilead. But there were not enough for them.
+</p>
+
+## The elders seek more wives
+
+<p>
+v15: The people grieved for Benjamin because the LORD had made a breach in Israel’s tribes.
+</p>
+
+<p>
+v16: The elders of the congregation said, “What can we do to provide wives for the men still without them? The women of Benjamin have been destroyed.”
+v17: They said, “There must be an inheritance for Benjamin’s survivors, so that a tribe is not wiped out of Israel.
+v18: But we cannot give them wives from our daughters.” For the Israelites had sworn, “Cursed is anyone who gives a wife to Benjamin.”
+</p>
+
+## The women of Shiloh
+
+<p>
+v19: Then they said, “There is a yearly festival of the LORD at Shiloh, north of Bethel, east of the road from Bethel to Shechem, and south of Lebonah.”
+</p>
+
+<p>
+v20: They instructed the Benjaminites, “Go and hide in the vineyards.
+v21: Watch for the daughters of Shiloh to come out dancing. Then come out of the vineyards, each of you seize a wife from Shiloh’s daughters, and go to the land of Benjamin.
+v22: If their fathers or brothers come to dispute with us, we will tell them, ‘Be gracious to us and let them keep the women. We did not take a wife for each man in the war. You did not give the women to them; otherwise you would now be guilty.’”
+</p>
+
+<p>
+v23: The Benjaminites did this. They carried off enough of the dancing women to be their wives. Then they went back to their inheritance, rebuilt the towns, and settled in them.
+</p>
+
+<p>
+v24: At that time the Israelites left, each for his own tribe and clan. Each went from there to his own inheritance.
+</p>
+
+<p>
+v25: In those days Israel had no king. Everyone did what was right in their own eyes.
 </p>
 
 ## Notes
 
-v01: Israel’s oath creates the crisis that drives the chapter. A vow made in anger becomes a constraint that the people attempt to solve without reconsidering the violence of the vow itself.
+v01–05: Two oaths govern the assembly’s decisions: not giving daughters to Benjamin and killing those absent from Mizpah. The narrator reports these as Israel’s oaths, not divine commands.
 
-v03: Israel laments the possible loss of Benjamin after having nearly destroyed the tribe. Grief follows the consequences of their own collective action.
+v10–14: The force kills the designated inhabitants and takes four hundred young women. Their being kept alive and given to the survivors does not imply consent.
 
-v05, v10–12: A second oath becomes the justification for destroying Jabesh-Gilead. The attempt to repair one act of violence generates another.
+v15–18: The narrator attributes the breach to the LORD. The elders seek to preserve a tribe and its inheritance while treating their oath as an obstacle to giving wives.
 
-v11: The sexual wording is deliberately explicit in the Hebrew because virginity becomes the criterion by which women are spared and reassigned.
+v19–22: The festival is not named. The elders arrange an ambush and abduction. Verse 22 is syntactically difficult; this rendering understands their plea as seeking leniency because the women’s families did not give them and so, in the elders’ reasoning, did not break the oath. The final words can be read literally as you did not give them, now you are guilty; otherwise expresses the inferred condition rather than a separate Hebrew word.
 
-v13: “proclaimed peace” — Israel makes peace with the surviving Benjaminites while simultaneously securing wives for them through violence against another community.
-
-v19–23: The plan concerning the women of Shiloh avoids technically “giving” daughters to Benjamin by permitting their seizure. The legal maneuver does not resolve the moral violence of the act.
-
-v22: The elders’ reasoning focuses on avoiding liability under the oath. The women’s consent is absent from the narrative.
-
-v25: The final refrain closes the book without resolving its disorder. “Right in their own eyes” summarizes a world in which tribal loyalty, vows, worship, sexuality, and violence have become detached from coherent covenant faithfulness.
+v23–25: Carried off translates a verb of violent seizure. The settlement and return home are followed by the same right-in-their-own-eyes refrain as 17:6.
 
 ## Vocabulary
 
-v01: שָׁבַע (shava)
-“To swear.” To bind oneself by an oath.
+v11: devote to destruction
+Language of placing under the ban, here explicitly applied to killing. The congregation gives this instruction.
 
-v03: פָּקַד (paqad)
-“To be missing,” “attend,” or “number.” Here describing the feared absence of one tribe.
+v15: breach
+A break or gap, here in the body of Israel’s tribes.
 
-v06: נָחַם (nacham)
-“To have compassion,” “relent,” or “be moved.” Israel is moved over Benjamin’s near destruction.
-
-v11: חָרַם (charam)
-“To devote to destruction.” Used for the command against Jabesh-Gilead.
-
-v13: קָרָא שָׁלוֹם (qara shalom)
-“To proclaim peace.” To announce restoration of peaceful relations.
-
-v15: פֶּרֶץ (perets)
-“Breach.” A rupture or gap, here within Israel’s tribal body.
-
-v21: חָטַף (chataf)
-“To seize” or “snatch away.” Used of taking the women of Shiloh.
-
-v25: יָשָׁר בְּעֵינָיו (yashar be'enav)
-“Right in their own eyes.” Judges’ concluding diagnosis of self-directed judgment.
+v17: inheritance
+The land and continuing place of a family or tribe within Israel.

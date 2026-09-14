@@ -4,121 +4,92 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-13-21-biblical-fluency-2026-09-14
 ---
 
-## Israel Is Given into Philistine Hands
+## The promise of Samson’s birth
 
 <p>
-v01: The children of Israel again did evil in the eyes of the LORD, and the LORD gave them into the hand of the Philistines forty years.
+v01: Again the Israelites did what was evil in the LORD’s eyes, and he gave them into the Philistines’ hand for forty years.
+v02: There was a man from Zorah, of the clan of Dan, named Manoah. His wife was barren and had borne no children.
 </p>
 
-## A Messenger Appears to Manoah’s Wife
-
 <p>
-v02: There was a certain man from Zorah, from the clan of the Danites, whose name was Manoah. His wife was barren and had not given birth.
-
-v03: The messenger of the LORD appeared to the woman and said to her, “Look, you are barren and have not given birth, but you will conceive and give birth to a son.
-
-v04: So now please be careful: do not drink wine or strong drink, and do not eat anything unclean.
-
-v05: For look, you will conceive and give birth to a son. No razor will come upon his head, for the boy will be a Nazirite to God from the womb. He will begin to save Israel from the hand of the Philistines.”
+v03: The angel of the LORD appeared to the woman and said, “You are barren and have borne no children, but you will conceive and bear a son.
+v04: Now be careful: drink no wine or strong drink, and eat nothing unclean.
+v05: You will conceive and bear a son. No razor is to touch his head, for the boy will be a Nazirite of God from the womb. He will begin to rescue Israel from the Philistines’ hand.”
 </p>
 
-## The Woman Tells Manoah
-
 <p>
-v06: The woman came and told her husband, saying, “A man of God came to me, and his appearance was like the appearance of the messenger of God, very awe-inspiring. I did not ask him where he was from, and he did not tell me his name.
-
-v07: But he said to me, ‘Look, you will conceive and give birth to a son. So now do not drink wine or strong drink and do not eat anything unclean, for the boy will be a Nazirite to God from the womb until the day of his death.’”
+v06: The woman went and told her husband, “A man of God came to me. He looked like an angel of God, very awe-inspiring. I did not ask where he came from, and he did not tell me his name.
+v07: He told me, ‘You will conceive and bear a son. Drink no wine or strong drink, and eat nothing unclean, for the boy will be a Nazirite of God from the womb until the day he dies.’”
 </p>
 
-## Manoah Prays for Instruction
+## Manoah meets the visitor
 
 <p>
-v08: Then Manoah prayed to the LORD and said, “Please, Lord, let the man of God whom you sent come again to us and teach us what we should do for the boy who will be born.”
-
-v09: God listened to the voice of Manoah, and the messenger of God came again to the woman while she was sitting in the field. Manoah her husband was not with her.
-
-v10: The woman hurried and ran and told her husband, saying to him, “Look, the man who came to me the other day has appeared to me.”
-
-v11: Manoah rose and followed his wife. He came to the man and said to him, “Are you the man who spoke to this woman?” He said, “I am.”
-
-v12: Manoah said, “Now when your words come to pass, what will be the rule for the boy and his work?”
-
-v13: The messenger of the LORD said to Manoah, “The woman must be careful concerning everything I said to her.
-
-v14: She will not eat anything that comes from the vine, nor drink wine or strong drink, nor eat anything unclean. Everything I commanded her, she will keep.”
+v08: Manoah pleaded with the LORD: “Please, Lord, let the man of God you sent come to us again and teach us what to do for the boy who will be born.”
+v09: God listened to Manoah. The angel of God came to the woman again while she was sitting in the field; her husband Manoah was not with her.
+v10: She hurried and ran to tell her husband, “The man who came to me the other day has appeared to me!”
+v11: Manoah got up and followed his wife. When he reached the man, he asked, “Are you the man who spoke to this woman?” “I am,” he answered.
 </p>
 
-## Manoah Offers a Young Goat
-
 <p>
-v15: Manoah said to the messenger of the LORD, “Please let us detain you, and we will prepare a young goat for you.”
-
-v16: The messenger of the LORD said to Manoah, “Though you detain me, I will not eat your food. But if you prepare a burnt offering, offer it to the LORD.” For Manoah did not know that he was the messenger of the LORD.
-
-v17: Manoah said to the messenger of the LORD, “What is your name, so that when your words come to pass we may honor you?”
-
-v18: The messenger of the LORD said to him, “Why do you ask my name, seeing that it is wonderful?”
+v12: Manoah said, “When your words come true, how should the boy live, and what is he to do?”
+v13: The angel of the LORD answered Manoah, “The woman must be careful about everything I told her.
+v14: She must eat nothing that comes from the grapevine, drink no wine or strong drink, and eat nothing unclean. She must observe everything I commanded her.”
 </p>
 
-## The Messenger Ascends in the Flame
-
 <p>
-v19: So Manoah took the young goat with the grain offering and offered it upon the rock to the LORD, to the one who works wonders. Manoah and his wife were watching.
-
-v20: When the flame went up toward heaven from the altar, the messenger of the LORD ascended in the flame of the altar. Manoah and his wife were watching, and they fell on their faces to the ground.
-
-v21: The messenger of the LORD appeared no more to Manoah and his wife. Then Manoah knew that he was the messenger of the LORD.
-
-v22: Manoah said to his wife, “We will surely die, for we have seen God.”
-
-v23: But his wife said to him, “If the LORD had desired to put us to death, he would not have accepted a burnt offering and grain offering from our hand, or shown us all these things, or now announced such things to us.”
+v15: Manoah said to the angel of the LORD, “Please stay while we prepare a young goat for you.”
+v16: The angel of the LORD replied, “Even if you keep me here, I will not eat your food. But if you prepare a burnt offering, offer it to the LORD.” Manoah did not know that he was the angel of the LORD.
 </p>
 
-## Samson Is Born
+<p>
+v17: Manoah asked the angel of the LORD, “What is your name? When your word comes true, we want to honor you.”
+v18: The angel of the LORD answered, “Why do you ask my name? It is beyond understanding.”
+</p>
+
+## The wonder at the altar
 
 <p>
-v24: The woman gave birth to a son and called his name Samson. The boy grew, and the LORD blessed him.
+v19: Manoah took the young goat and the grain offering and offered them on the rock to the LORD. The LORD did something wondrous while Manoah and his wife watched.
+v20: As the flame rose from the altar toward heaven, the angel of the LORD went up in the altar’s flame. Manoah and his wife saw it and fell facedown to the ground.
+</p>
 
-v25: And the Spirit of the LORD began to stir him in Mahaneh-Dan, between Zorah and Eshtaol.
+<p>
+v21: The angel of the LORD did not appear to Manoah and his wife again. Then Manoah knew that he was the angel of the LORD.
+v22: “We will surely die,” Manoah told his wife, “because we have seen God!”
+v23: But his wife answered, “If the LORD wanted to kill us, he would not have accepted a burnt offering and grain offering from our hands, shown us all this, or told us these things now.”
+</p>
+
+## Samson is born
+
+<p>
+v24: The woman bore a son and named him Samson. The boy grew, and the LORD blessed him.
+v25: The Spirit of the LORD began to stir him at Mahaneh-dan, between Zorah and Eshtaol.
 </p>
 
 ## Notes
 
-v03: The announcement is made first to Manoah’s wife, who remains unnamed throughout the chapter but repeatedly displays clearer perception than her husband.
+v03–07: Verse 5 can also be read as announcing an existing pregnancy. The woman’s report in verse 7 includes until the day he dies; the earlier speech says that the boy will begin Israel’s rescue. The two speeches are not made identical.
 
-v05: Samson’s calling is stated before conception: he will be a Nazirite “from the womb” and will “begin” to save Israel. The wording anticipates an incomplete deliverance.
+v12–14: Manoah asks about the boy’s rule of life and work. The angel’s reply repeats instructions for the woman.
 
-v07: The woman reports the Nazirite status as lasting “until the day of his death,” a phrase not included in the messenger’s first speech but consistent with the narrative’s trajectory.
+v18–19: Beyond understanding renders a word connected with wonder. Verse 19 uses the same root. Its compressed wording may describe the LORD as the one who works wonders or narrate a wonder, with the angel as the acting figure.
 
-v12: Manoah asks about the boy’s “rule” and “work,” but the messenger redirects attention to the instructions already given to the woman.
-
-v18: “wonderful” — The Hebrew can mean wonderful, incomprehensible, or beyond ordinary understanding. The name is not supplied.
-
-v22–23: Manoah fears death after recognizing the encounter with God, while his wife reasons from the LORD’s acceptance of their offering and revelation that death cannot be the intended outcome.
-
-v25: The Spirit “began to stir” Samson. The verb suggests disturbance, movement, or prompting, introducing the tension-filled career that follows.
+v22–23: Manoah concludes that seeing God means death; his wife answers by reasoning from the offering and the promise.
 
 ## Vocabulary
 
-v02: עֲקָרָה (aqarah)
-“Barren.” Unable to conceive or bear children.
+v05: Nazirite
+A person set apart to God. Compare Numbers 6; Samson’s consecration begins in the womb, and the instructions here have their own form.
 
-v05: נָזִיר (nazir)
-“Nazirite” or “consecrated one.” A person set apart to God under special restrictions.
+v16: burnt offering
+An offering burned on an altar; the visitor distinguishes this from a meal offered to a guest.
 
-v05: מוֹרָה (morah)
-“Razor.” No razor is to come upon Samson’s head.
-
-v08: מִשְׁפַּט (mishpat)
-“Rule,” “procedure,” or “proper ordering.” Manoah asks how the child is to be raised and live.
-
-v18: פִּלְאִי (pili)
-“Wonderful” or “incomprehensible.” Beyond ordinary understanding.
-
-v19: פֶּלֶא (pele)
-“Wonder.” Used in connection with the LORD’s wondrous action.
-
-v25: פָּעַם (pa'am)
-“To stir,” “move,” or “disturb.” The Spirit begins to stir Samson.
+v25: Mahaneh-dan
+The name means Camp of Dan.

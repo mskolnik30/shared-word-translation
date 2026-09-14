@@ -4,113 +4,100 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-13-21-biblical-fluency-2026-09-14
 ---
 
-## Samson Sees a Woman in Timnah
+## Samson chooses a wife
 
 <p>
-v01: Samson went down to Timnah, and at Timnah he saw a woman from the daughters of the Philistines.
-
-v02: He went up and told his father and mother, saying, “I have seen a woman in Timnah from the daughters of the Philistines. Now therefore get her for me as wife.”
-
-v03: His father and mother said to him, “Is there no woman among the daughters of your relatives or among all my people, that you must go to take a wife from the uncircumcised Philistines?” Samson said to his father, “Get her for me, for she is right in my eyes.”
-
-v04: His father and mother did not know that this was from the LORD, for he was seeking an occasion against the Philistines. At that time the Philistines were ruling over Israel.
+v01: Samson went down to Timnah and saw a woman there, one of the daughters of the Philistines.
+v02: He went up and told his father and mother, “I saw a woman in Timnah, one of the Philistine women. Now get her for me as my wife.”
 </p>
 
-## Samson Kills a Lion
+<p>
+v03: His father and mother asked, “Is there no woman among your relatives or all my people, that you must go and take a wife from the uncircumcised Philistines?” Samson told his father, “Get her for me. She is right in my eyes.”
+v04: His father and mother did not know that this was from the LORD, who was seeking an occasion against the Philistines. At that time the Philistines ruled over Israel.
+</p>
 
 <p>
-v05: Then Samson went down with his father and mother to Timnah. When they came to the vineyards of Timnah, look, a young lion came roaring toward him.
-
-v06: The Spirit of the LORD rushed upon him, and he tore the lion apart as one tears apart a young goat, though he had nothing in his hand. But he did not tell his father or mother what he had done.
-
+v05: Samson went down to Timnah with his father and mother. As they reached Timnah’s vineyards, a young lion came roaring toward him.
+v06: The Spirit of the LORD rushed upon him, and he tore the lion apart as one tears a young goat. He had nothing in his hand. But he did not tell his father or mother what he had done.
 v07: He went down and spoke with the woman, and she was right in Samson’s eyes.
-
-v08: After some days he returned to take her, and he turned aside to see the carcass of the lion. Look, there was a swarm of bees in the body of the lion, and honey.
-
-v09: He scraped some into his hands and went on, eating as he went. He came to his father and mother and gave some to them, and they ate. But he did not tell them that he had scraped the honey from the body of the lion.
 </p>
 
-## Samson’s Riddle
+## Honey in the lion’s carcass
 
 <p>
-v10: His father went down to the woman, and Samson held a feast there, for so the young men used to do.
-
-v11: When they saw him, they brought thirty companions to be with him.
-
-v12: Samson said to them, “Let me tell you a riddle. If you can surely explain it to me within the seven days of the feast and find it out, then I will give you thirty linen garments and thirty changes of clothing.
-
-v13: But if you cannot explain it to me, then you will give me thirty linen garments and thirty changes of clothing.” They said to him, “Tell your riddle, and let us hear it.”
-
-v14: He said to them:
-
-“Out of the eater came something to eat,
-and out of the strong came something sweet.”
-
-For three days they could not explain the riddle.
+v08: Some time later he returned to marry her. He turned aside to look at the lion’s remains, and there was a swarm of bees in its carcass, with honey.
+v09: He scooped the honey into his hands and ate as he walked. When he reached his father and mother, he gave them some, and they ate. He did not tell them he had taken the honey from the lion’s carcass.
 </p>
 
-## The Philistines Pressure Samson’s Wife
+## The wedding riddle
 
 <p>
-v15: On the seventh day they said to Samson’s wife, “Entice your husband to explain the riddle to us, lest we burn you and your father’s house with fire. Have you invited us here to impoverish us?”
+v10: His father went down to the woman, and Samson held a feast there, as young men customarily did.
+v11: When the people there saw him, they brought thirty companions to be with him.
+</p>
 
-v16: Samson’s wife wept before him and said, “You only hate me; you do not love me. You have told a riddle to the children of my people but have not explained it to me.” He said to her, “Look, I have not explained it to my father or mother; should I explain it to you?”
+<p>
+v12: Samson told them, “Let me give you a riddle. If you solve it and tell me the answer within the seven days of the feast, I will give you thirty linen garments and thirty changes of clothes.
+v13: But if you cannot tell me the answer, you must give me thirty linen garments and thirty changes of clothes.” They said, “Tell us your riddle. Let us hear it.”
+</p>
 
-v17: She wept before him the seven days while their feast lasted. On the seventh day he explained it to her because she pressed him hard. Then she explained the riddle to the children of her people.
+<p>
+v14: He said,
+“Out of the eater came food;
+out of the strong came sweetness.”
+For three days they could not solve the riddle.
+</p>
 
-v18: The men of the city said to him on the seventh day before the sun went down:
+<p>
+v15: On the seventh day they told Samson’s wife, “Persuade your husband to tell us the answer, or we will burn you and your father’s household. Did you invite us here to make us poor?”
+</p>
 
+<p>
+v16: Samson’s wife wept before him. “You only hate me; you do not love me,” she said. “You gave my people a riddle, but you have not told me the answer.” He replied, “I have not even told my father or mother. Should I tell you?”
+v17: She wept before him throughout the seven days of their feast. On the seventh day he told her because she pressed him so hard, and she told her people the answer.
+</p>
+
+<p>
+v18: Before sunset on the seventh day, the men of the town said to him,
 “What is sweeter than honey?
-And what is stronger than a lion?”
-
-He said to them:
-
+What is stronger than a lion?”
+He answered,
 “If you had not plowed with my heifer,
-you would not have found out my riddle.”
+you would not have solved my riddle.”
 </p>
 
-## Samson Strikes Thirty Men
+## The wager’s cost
 
 <p>
-v19: Then the Spirit of the LORD rushed upon him, and he went down to Ashkelon and struck thirty men of the city, took their plunder, and gave the changes of clothing to people who had explained the riddle. His anger burned, and he went up to his father’s house.
-
-v20: Samson’s wife was given to his companion, who had been his best man.
+v19: The Spirit of the LORD rushed upon him. He went down to Ashkelon, killed thirty men there, stripped them, and gave their clothes to those who had solved the riddle. Burning with anger, he went up to his father’s house.
+v20: Samson’s wife was given to the companion who had attended him.
 </p>
 
 ## Notes
 
-v03: “right in my eyes” — The phrase is especially important in Judges, where what is “right in one’s own eyes” increasingly marks unrestrained desire rather than covenantal discernment.
+v03–04: Right in my eyes recurs in verse 7 and anticipates the closing refrain in 17:6 and 21:25. In verse 4, he who seeks an occasion is understood here as the LORD; Samson is another possible referent.
 
-v04: The narrator states that the marriage conflict would become an occasion against the Philistines while also making clear that Samson’s parents did not perceive this. Divine purpose operates through morally complicated human motives.
+v11: The Hebrew says that they saw him. Some ancient Greek witnesses instead refer to their fear of him.
 
-v06: The Spirit’s empowerment is connected with extraordinary physical strength. Samson’s secrecy about the event contributes to the riddle that follows.
+v15–17: The Hebrew has seventh day in verse 15; some ancient versions have fourth. The draft retains seventh alongside the three days in verse 14 and the seven days in verse 17.
 
-v08–09: Samson takes honey from a carcass despite his Nazirite consecration, which was associated with avoiding corpse impurity. The narrative does not pause to comment on the violation.
+v18: The heifer image is Samson’s description of his wife’s involvement. It is retained as his speech, not as the narrator’s evaluation.
 
-v15: The threat against Samson’s wife and her household anticipates the violence that later overtakes them. Philistine pressure frames her betrayal.
-
-v18: “plowed with my heifer” — Samson’s crude metaphor accuses the men of using his wife to obtain what they could not discover themselves.
-
-v19: Spirit-empowered action and Samson’s personal anger appear in the same verse. Judges repeatedly refuses to make Samson morally uncomplicated merely because the Spirit empowers him.
+v19–20: The Spirit’s action, Samson’s killing and anger, and his wife’s transfer are reported together without an added explanation of divine approval.
 
 ## Vocabulary
 
-v03: יָשַׁר בְּעֵינַי (yashar be'enai)
-“Right in my eyes.” An idiom for what appears desirable or correct to oneself.
+v03: uncircumcised
+A bodily and covenantal distinction used here in the parents’ description of the Philistines.
 
-v06: צָלַח (tsalach)
-“To rush upon” or “empower.” Used of the Spirit of the LORD coming powerfully upon Samson.
+v12: linen garments
+A distinct clothing item in the wager, alongside changes of clothes.
 
-v12: חִידָה (chidah)
-“Riddle.” An enigmatic saying requiring interpretation.
-
-v14: מָתוֹק (matoq)
-“Sweet.” Used in the riddle of honey.
-
-v15: פָּתָה (patah)
-“To entice” or “persuade.” The Philistines order Samson’s wife to pressure him.
-
-v19: חָרָה אַף (charah af)
-“Anger burned.” A common Hebrew idiom for intense anger.
+v14: riddle
+A saying whose concealed answer drives the feast’s conflict.

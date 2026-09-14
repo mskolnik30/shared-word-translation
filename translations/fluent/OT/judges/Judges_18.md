@@ -4,125 +4,121 @@ testament: OT
 chapter: 18
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-13-21-biblical-fluency-2026-09-14
 ---
 
-## Dan Seeks an Inheritance
+## Dan searches for land
 
 <p>
-v01: In those days there was no king in Israel. In those days the tribe of the Danites was seeking an inheritance in which to live, for until that day an inheritance had not fallen to them among the tribes of Israel.
-
-v02: The children of Dan sent five men from all their clan, men of valor from Zorah and Eshtaol, to spy out the land and explore it. They said to them, “Go, explore the land.” They came to the hill country of Ephraim, to Micah’s house, and lodged there.
-
-v03: When they were near Micah’s house, they recognized the voice of the young Levite. They turned aside there and said to him, “Who brought you here? What are you doing in this place? What do you have here?”
-
-v04: He said to them, “Thus and so Micah has done for me. He has hired me, and I have become his priest.”
-
-v05: They said to him, “Please inquire of God, that we may know whether the journey on which we are going will succeed.”
-
-v06: The priest said to them, “Go in peace. Before the LORD is the journey on which you are going.”
+v01: In those days Israel had no king. The tribe of Dan was looking for an inheritance to settle in, because up to that day no inheritance had fallen to them among Israel’s tribes.
+v02: The Danites sent five capable men from their clan, from Zorah and Eshtaol, to spy out and explore the land. “Go and explore the land,” they told them. The men reached Micah’s house in the hill country of Ephraim and spent the night there.
 </p>
 
-## The Spies Find Laish
-
 <p>
-v07: The five men departed and came to Laish. They saw the people who were in it living securely, according to the custom of the Sidonians, quiet and unsuspecting. There was no one in the land possessing authority who might humiliate them in anything. They were far from the Sidonians and had no dealings with anyone.
-
-v08: The spies came back to their brothers at Zorah and Eshtaol. Their brothers said to them, “What do you say?”
-
-v09: They said, “Rise, and let us go up against them, for we have seen the land, and look, it is very good. Will you remain still? Do not be slow to go, to enter and possess the land.
-
-v10: When you go, you will come to an unsuspecting people, and the land is broad. For God has given it into your hand, a place where there is no lack of anything that is on the earth.”
+v03: While they were near Micah’s house, they recognized the young Levite’s voice. They turned in and asked him, “Who brought you here? What are you doing in this place? What do you have here?”
+v04: He told them what Micah had done for him. “He hired me, and I became his priest,” he said.
 </p>
 
-## Dan Takes Micah’s Cultic Objects
-
 <p>
-v11: Six hundred men from the clan of the Danites, armed with weapons of war, set out from Zorah and Eshtaol.
-
-v12: They went up and camped at Kiriath-Jearim in Judah. Therefore that place is called Mahaneh-Dan to this day; look, it is west of Kiriath-Jearim.
-
-v13: From there they passed on to the hill country of Ephraim and came to Micah’s house.
-
-v14: Then the five men who had gone to spy out the land of Laish spoke to their brothers and said, “Do you know that in these houses there are an ephod, household gods, a carved image, and a cast image? Now therefore consider what you should do.”
-
-v15: They turned aside there and came to the house of the young Levite, the house of Micah, and asked him about his well-being.
-
-v16: The six hundred men of the children of Dan, armed with their weapons of war, stood at the entrance of the gate.
-
-v17: The five men who had gone to spy out the land went up and entered there. They took the carved image, the ephod, the household gods, and the cast image, while the priest stood at the entrance of the gate with the six hundred men armed with weapons of war.
-
-v18: When these men entered Micah’s house and took the carved image, the ephod, the household gods, and the cast image, the priest said to them, “What are you doing?”
-
-v19: They said to him, “Be quiet. Put your hand over your mouth and come with us, and be to us a father and a priest. Is it better for you to be priest to the house of one man, or to be priest to a tribe and clan in Israel?”
-
-v20: The priest’s heart was glad. He took the ephod, the household gods, and the carved image and went among the people.
+v05: They said, “Please ask God whether the journey we are making will succeed.”
+v06: The priest answered, “Go in peace. The way you are going is before the LORD.”
 </p>
 
-## Micah Pursues Dan
-
 <p>
-v21: They turned and departed, putting the little children, livestock, and possessions in front of them.
-
-v22: When they had gone some distance from Micah’s house, the men who were in the houses near Micah’s house were called together and overtook the children of Dan.
-
-v23: They cried out to the children of Dan, and they turned their faces and said to Micah, “What is the matter with you, that you have gathered these men?”
-
-v24: He said, “You have taken my gods that I made, and the priest, and gone away. What do I have left? How then can you say to me, ‘What is the matter with you?’”
-
-v25: The children of Dan said to him, “Do not let your voice be heard among us, lest bitter men fall upon you and you lose your life and the lives of your household.”
-
-v26: Then the children of Dan went their way. When Micah saw that they were stronger than he, he turned and went back to his house.
+v07: The five men went on to Laish. They saw its people living securely, quiet and confident like the Sidonians. There was no one in the land with power to oppress them. They were far from the Sidonians and had no dealings with anyone.
 </p>
 
-## Dan Captures Laish
+<p>
+v08: When they returned to their kinsmen at Zorah and Eshtaol, their kinsmen asked, “What do you report?”
+v09: They answered, “Come on, let us go up against them! We have seen the land, and it is very good. Why sit still? Do not delay going in to possess it.
+v10: When you arrive, you will find a secure people and a spacious land. God has given it into your hand—a place lacking nothing the earth provides.”
+</p>
+
+## The armed migration
 
 <p>
-v27: They took what Micah had made and the priest who had belonged to him, and came to Laish, to a people quiet and unsuspecting. They struck them with the edge of the sword and burned the city with fire.
+v11: Six hundred armed men from the clan of Dan set out from Zorah and Eshtaol.
+v12: They went up and camped at Kiriath-jearim in Judah. That is why the place west of Kiriath-jearim is called Mahaneh-dan to this day.
+v13: From there they crossed into the hill country of Ephraim and reached Micah’s house.
+</p>
 
-v28: There was no one to deliver them, because it was far from Sidon and they had no dealings with anyone. It was in the valley that belongs to Beth-Rehob. Then the Danites rebuilt the city and lived in it.
+## Micah’s shrine is taken
 
-v29: They called the name of the city Dan, after the name of Dan their ancestor who was born to Israel. But the name of the city was formerly Laish.
+<p>
+v14: The five men who had explored the land of Laish told their kinsmen, “Do you know that these houses contain an ephod, teraphim, a carved image, and a cast image? Now consider what you should do.”
+</p>
 
-v30: The children of Dan set up the carved image for themselves. Jonathan son of Gershom, son of Moses, he and his sons were priests to the tribe of the Danites until the day of the captivity of the land.
+<p>
+v15: They turned in there, went to the young Levite’s quarters at Micah’s house, and greeted him.
+v16: The six hundred Danite men, armed for battle, stood at the entrance to the gate.
+</p>
 
-v31: So they set up for themselves Micah’s carved image that he had made, all the days that the house of God was at Shiloh.
+<p>
+v17: The five scouts went in and took the carved image, the ephod, the teraphim, and the cast image. The priest was standing at the gate entrance with the six hundred armed men.
+v18: As these men entered Micah’s house and took the carved image, the ephod, the teraphim, and the cast image, the priest asked, “What are you doing?”
+</p>
+
+<p>
+v19: They told him, “Be quiet. Put your hand over your mouth and come with us. Be a father and priest to us. Is it better to be priest to one man’s household, or to a tribe and clan in Israel?”
+v20: The priest was pleased. He took the ephod, the teraphim, and the carved image and joined the people.
+v21: They turned and left, putting the children, livestock, and valuables ahead of them.
+</p>
+
+## Micah’s protest
+
+<p>
+v22: They had gone some distance from Micah’s house when the men in the neighboring houses were called together and overtook the Danites.
+v23: They shouted after the Danites, who turned around and asked Micah, “What is wrong with you, that you have called these men together?”
+</p>
+
+<p>
+v24: He answered, “You have taken the gods I made and my priest and gone away. What do I have left? How can you ask me, ‘What is wrong with you?’”
+v25: The Danites told him, “Do not let us hear your voice again. Some bitter-tempered men may attack you, and you will lose your life and the lives of your household.”
+</p>
+
+<p>
+v26: The Danites continued on their way. Micah saw that they were stronger than he was, so he turned back and went home.
+</p>
+
+## Laish becomes Dan
+
+<p>
+v27: They took what Micah had made, along with his priest, and came against Laish, a people quiet and secure. They struck them down with the sword and burned the town.
+v28: No one came to rescue them, because Laish was far from Sidon and had no dealings with anyone. It lay in the valley belonging to Beth-rehob. The Danites rebuilt the town and settled there.
+</p>
+
+<p>
+v29: They named the town Dan after their ancestor Dan, who was born to Israel. Before that, its name had been Laish.
+v30: The Danites set up the carved image for themselves. Jonathan son of Gershom, son of Manasseh, and his sons served as priests to the tribe of Dan until the land went into exile.
+v31: They kept Micah’s carved image, which he had made, set up for themselves throughout the time the house of God was at Shiloh.
 </p>
 
 ## Notes
 
-v01: Dan’s search for land reflects the tribe’s failure to secure its earlier allotment. The migration becomes an alternative to confronting the powers that had restricted Dan in Judges 1.
+v01: The statement about Dan’s inheritance is retained alongside the allotted territory listed in Joshua 19.
 
-v05–06: The Danites seek divine guidance through a priest serving in an unauthorized household sanctuary. The priest’s confident blessing is not accompanied by narrative confirmation that the cult itself is legitimate.
+v03–07: Recognized his voice does not specify whether the scouts knew the Levite or recognized an accent. The priest’s before the LORD does not explicitly say that God approves the journey.
 
-v07: Laish is selected precisely because its people are isolated and unsuspecting. Dan’s “inheritance” is obtained through attack on a peaceful community rather than through the earlier mandate concerning Canaanite strongholds.
+v07: The clause about power and oppression is difficult. It has also been understood as a statement about lacking nothing or lacking a ruler. The final anyone follows Hebrew adam; some witnesses read Aram.
 
-v19–20: The Levite readily exchanges loyalty to one household for higher status with an entire tribe. Religious office is treated as advancement.
+v17–20: The taking of the objects is repeated. Verse 18 lacks an expected and between carved image and ephod; the surrounding lists guide the rendering. Verse 20 names only three objects.
 
-v24: Micah’s cry, “You have taken my gods that I made,” captures the irony of a deity that can be manufactured and then stolen.
+v24–28: Micah’s gods I made is preserved in his protest. Laish’s quiet security and lack of rescuers remain visible beside its destruction.
 
-v30: The Masoretic Text traditionally writes the name “Manasseh” with a suspended letter, while an older reading reflected by the consonants is “Moses.” TSW follows “Moses,” a significant textual detail connecting the priestly line with Moses’ family.
+v30: The written name is Manasseh, but its n is suspended above the line in the Hebrew tradition. Without that letter the name is Moses, a reading widely adopted because Gershom is Moses’ son. The draft displays Manasseh and records the consequential alternative.
 
-v31: The chapter ends by contrasting Dan’s private image with the house of God at Shiloh, reinforcing the disorder of competing worship centers.
+v30–31: The exile of the land and the time of God’s house at Shiloh are separate closing notices. Their dates are not supplied here.
 
 ## Vocabulary
 
-v01: נַחֲלָה (nachalah)
-“Inheritance” or “allotted possession.” The tribal land Dan seeks.
+v06: before the LORD
+An expression of divine attention or presence; the priest’s answer leaves its precise force open.
 
-v02: רָגַל (ragal)
-“To spy out” or “explore.” To investigate land before action.
+v12: Mahaneh-dan
+Camp of Dan, here west of Kiriath-jearim.
 
-v05: שָׁאַל (sha'al)
-“To inquire.” Used here of seeking divine guidance.
-
-v07: בֹּטֵחַ (boteach)
-“Secure” or “trusting.” Describes the unsuspecting people of Laish.
-
-v19: אָב וְכֹהֵן (av ve-kohen)
-“Father and priest.” A title combining religious honor and priestly service.
-
-v24: אֱלֹהַי אֲשֶׁר עָשִׂיתִי (elohai asher asiti)
-“My gods that I made.” An ironic expression exposing the manufactured nature of Micah’s cult.
-
-v30: פֶּסֶל (pesel)
-“Carved image.” The image Dan establishes as a tribal cult object.
+v30: exile
+Removal from one’s land. The text does not name the event or foreign power here.

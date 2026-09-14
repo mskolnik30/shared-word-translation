@@ -150,7 +150,7 @@
         "blob_sha": "434ad4c8d001b8cc28bf47ca7c4afe2cff57cbab"
       }
     },
-    "status": "HISTORICAL_FOR_REVISED_CHAPTERS_1_TO_12"
+    "status": "HISTORICAL_FOR_REVISED_CHAPTERS_1_TO_21"
   },
   "publication_allowed": false,
   "editorial_review_pending_chapters": [
@@ -165,7 +165,16 @@
     9,
     10,
     11,
-    12
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
   ],
   "revision_batches": [
     {
@@ -244,35 +253,49 @@
         21
       ],
       "note": "Source-based draft and authoring self-check only. Earlier approvals and bindings are historical for changed chapters; no independent approval transfers. Companion bindings for chapters 6–12 require later reconciliation."
+    },
+    {
+      "id": "fluent-judges-13-21-biblical-fluency-2026-09-14",
+      "chapters": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 243,
+      "verse_ledger": "audit/fluent-revision/2026-09-14-judges-13-21/judges-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "prior_record": {
+        "commit": "59b751f3aa3f763d7c2af6c3662f1e9cbe8b83dd",
+        "path": "audit/exegetical-core/fluent-production/judges/JUDGES_FLUENT_BOOK_QA.json"
+      },
+      "previous_batch_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "not_yet_revised_chapters": [],
+      "note": "Source-based draft and authoring self-check only. Earlier approvals and bindings are historical for changed chapters; no independent approval transfers. Companion bindings for chapters 13–21 require later reconciliation."
     }
   ],
   "current_revision": {
-    "id": "fluent-judges-6-12-biblical-fluency-2026-09-14",
+    "id": "fluent-judges-13-21-biblical-fluency-2026-09-14",
     "chapters": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "verse_count": 230,
-    "verse_ledger": "audit/fluent-revision/2026-09-14-judges-6-12/judges-verse-review.json",
-    "automated_qa": "PASSED",
-    "editorial_status": "REVIEW_PENDING",
-    "prior_record": {
-      "commit": "641fa1935c2f970e3c842694a01d85356b31f342",
-      "path": "audit/exegetical-core/fluent-production/judges/JUDGES_FLUENT_BOOK_QA.json"
-    },
-    "previous_batch_chapters": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "not_yet_revised_chapters": [
       13,
       14,
       15,
@@ -283,6 +306,29 @@
       20,
       21
     ],
-    "note": "Source-based draft and authoring self-check only. Earlier approvals and bindings are historical for changed chapters; no independent approval transfers. Companion bindings for chapters 6–12 require later reconciliation."
+    "verse_count": 243,
+    "verse_ledger": "audit/fluent-revision/2026-09-14-judges-13-21/judges-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "prior_record": {
+      "commit": "59b751f3aa3f763d7c2af6c3662f1e9cbe8b83dd",
+      "path": "audit/exegetical-core/fluent-production/judges/JUDGES_FLUENT_BOOK_QA.json"
+    },
+    "previous_batch_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "not_yet_revised_chapters": [],
+    "note": "Source-based draft and authoring self-check only. Earlier approvals and bindings are historical for changed chapters; no independent approval transfers. Companion bindings for chapters 13–21 require later reconciliation."
   }
 }
