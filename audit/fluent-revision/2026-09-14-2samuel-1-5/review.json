@@ -1,0 +1,233 @@
+{
+  "scope": "2 Samuel 1–5",
+  "base_commit": "f35c4160019aa32e5b0c0f4af167df1759cde7d0",
+  "draft_chapters": 5,
+  "draft_verses": 135,
+  "first_source_reading": "Every pinned Hebrew verse and its written/read notes read before independent composition. Original XML records, Git blob and full-file SHA256 verified.",
+  "authoring_method": "Source-led drafting, followed by reading all 539 TSW verses across the combined batch as comparators. No synonym engine or minimum-change quota. Clear shared wording retained where appropriate.",
+  "focused_source_reread": {
+    "public_verses": 54,
+    "source_records": 54
+  },
+  "focus_evidence": "focused-comparisons.json",
+  "apparatus": "Selective Notes and Vocabulary expose consequential source ambiguity and recurring biblical words. They do not certify reader comprehension.",
+  "verse_summary": {
+    "verses_reviewed": 135,
+    "verses_with_changed_text": 130,
+    "delta_counts": {
+      "F2": 91,
+      "F3": 39,
+      "F0": 5
+    }
+  },
+  "overlap": {
+    "before": {
+      "identical": 122,
+      "near_identical_nonidentical": 12
+    },
+    "after": {
+      "identical": 8,
+      "near_identical_nonidentical": 6
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse overlap is triage only, not proof of fidelity, originality or comprehension.",
+  "verification": "../2026-09-14-1samuel-17-31/verification.json",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "whole_book_1samuel_consistency_pass": "PENDING: current work is focused batch authoring review, not the complete-book English and apparatus pass. The work queue retains that pass.",
+  "cross_chapter_focus": [
+    "Anointed, hand, and bloodguilt: David’s refusal to strike Saul, Abigail’s intervention, and David’s responses to reported killings remain connected without excusing his own violence.",
+    "Love, covenant, and house: Jonathan’s commitment, David’s lament, Michal’s marriages and the competing royal households remain distinct and intelligible.",
+    "Saul has struck down his thousands: identical repeated song wording in 18:7, 21:11 and 29:5 keeps its changing political uses recognizable.",
+    "How the mighty have fallen: repeated lament in 2 Samuel 1 remains poetry inside the verse paragraphs, including David’s comparison of Jonathan’s love with the love of women.",
+    "Hearing and responding: the LORD’s answers to David, silence toward Saul, and the woman’s repeated appeal to Saul to listen retain their respective speakers.",
+    "Competing accounts: 1 Samuel 31 and the Amalekite’s report in 2 Samuel 1 remain unharmonized; accusations and claims of divine endorsement stay with the speakers who make them.",
+    "In peace: Abner’s peaceful departure is repeated three times immediately before his killing; Joab’s responsibility and David’s public response are preserved."
+  ],
+  "companion_impacts": "Reconcile all changed quotations and bindings for 2 Samuel 1–5 at later installation; no Companion branch changes or public deployment.",
+  "focused_refinements": [
+    {
+      "verse": "1 Samuel 22:19",
+      "decision": "Restored the repeated sword phrase enclosing the victims."
+    },
+    {
+      "verse": "1 Samuel 22:22",
+      "decision": "Made responsibility for the deaths explicit so the clause cannot be mistaken for ongoing guardianship."
+    },
+    {
+      "verse": "1 Samuel 27:8",
+      "decision": "Changed the independently drafted Girzites to Gizrites after rereading the qere; note distinguishes written and read forms."
+    },
+    {
+      "verse": "1 Samuel 29:3",
+      "decision": "Removed the added self-correction rather from Achish’s imprecise days-or-years statement."
+    },
+    {
+      "verse": "2 Samuel 2:31",
+      "decision": "Made the casualties’ deaths explicit rather than relying on struck down."
+    },
+    {
+      "verse": "2 Samuel 3–4",
+      "decision": "Aligned Ish-bosheth spelling with chapter 2."
+    }
+  ],
+  "chapter_decisions": [
+    {
+      "chapter": 1,
+      "verse_count": 27,
+      "notes": [
+        [
+          "06–10",
+          "The Amalekite says he killed Saul. In 1 Samuel 31 Saul falls on his sword and is already dead when his armor-bearer sees him. The two accounts are retained without an added verdict about how they fit."
+        ],
+        [
+          "09",
+          "The word rendered “agony” is rare and its precise sense is uncertain."
+        ],
+        [
+          "18",
+          "“The Bow” is understood as the lament’s title. The wording has also been understood as instruction in archery. The Book of Jashar means the Book of the Upright."
+        ],
+        [
+          "19",
+          "The word rendered “splendor” can also mean a gazelle. The lament’s address and imagery allow more than one resonance."
+        ],
+        [
+          "21",
+          "“Fields yielding offerings” is difficult, literally fields of contributions or offerings. The reference to oil can be understood with the shield, as here, or with Saul."
+        ],
+        [
+          "23",
+          "The poem says Saul and Jonathan were not separated in death; it does not remove the conflicts narrated during their lives."
+        ],
+        [
+          "26",
+          "David calls Jonathan’s love more wonderful than the love of women. The comparison is retained in full without assigning a modern identity category."
+        ]
+      ]
+    },
+    {
+      "chapter": 2,
+      "verse_count": 32,
+      "notes": [
+        [
+          "10–11",
+          "Ish-bosheth’s two years and David’s seven years and six months in Hebron are retained as stated, without an added chronology."
+        ],
+        [
+          "09",
+          "The identity of the Ashurites named in the pinned Hebrew is uncertain."
+        ],
+        [
+          "14–16",
+          "Abner proposes that the young men engage in a contest; the narrative immediately describes their killing one another. Helkath-hazzurim is associated with flints or blades, though its exact meaning is uncertain."
+        ],
+        [
+          "23",
+          "The Hebrew specifies the butt or rear end of the spear, which passes through Asahel. This is not silently changed to its point."
+        ],
+        [
+          "27",
+          "Joab’s reply is difficult. It can refer to Abner’s present appeal stopping the pursuit, as here, or blame Abner’s earlier challenge for a pursuit that otherwise would have stopped earlier."
+        ],
+        [
+          "29",
+          "Bithron is taken as a region; the difficult expression has also been understood in relation to the passage of the morning."
+        ]
+      ]
+    },
+    {
+      "chapter": 3,
+      "verse_count": 39,
+      "notes": [
+        [
+          "07–08",
+          "The allegation about Rizpah is Ish-bosheth’s. Abner’s angry reply does not explicitly state whether it is true. His “dog’s head” insult and its connection with Judah are difficult."
+        ],
+        [
+          "12",
+          "The phrase understood as “on his behalf” can also concern the messengers’ point of departure. “Whose land is it?” remains an open rhetorical question."
+        ],
+        [
+          "14–16",
+          "David calls Michal his wife, while the narrator calls Paltiel her husband. Both descriptions and Paltiel’s grief are retained; Michal’s response is not reported."
+        ],
+        [
+          "27",
+          "The rare expression translated “privately” may suggest quietness or a deceptive approach."
+        ],
+        [
+          "29",
+          "The Hebrew term rendered “spindle” is also used for a spinning implement. Here some understand a staff or support; the precise force in the curse is uncertain. The illnesses named are not a modern diagnosis."
+        ],
+        [
+          "30",
+          "The narrator names both Joab and Abishai as responsible without spelling out Abishai’s role in the scene."
+        ],
+        [
+          "39",
+          "David describes himself as weak or soft and the sons of Zeruiah as hard. These are his own descriptions of the limits of his power."
+        ]
+      ]
+    },
+    {
+      "chapter": 4,
+      "verse_count": 12,
+      "notes": [
+        [
+          "04",
+          "The notice about Mephibosheth interrupts the account to identify a surviving son of Jonathan. His disability follows a childhood fall."
+        ],
+        [
+          "06–07",
+          "The pinned Hebrew mentions entering as wheat-takers, then repeats the entry and killing. The draft takes the wheat-taking as a pretext and keeps the repetition."
+        ],
+        [
+          "10",
+          "David’s “reward” is bitter irony about the execution of the earlier messenger."
+        ],
+        [
+          "12",
+          "The execution, cutting off of hands and feet, and public hanging are all retained as actions ordered by David and performed by his men."
+        ]
+      ]
+    },
+    {
+      "chapter": 5,
+      "verse_count": 25,
+      "notes": [
+        [
+          "04–05",
+          "The stated forty-year reign and the separate periods of seven years six months and thirty-three years are retained without adjusting their totals."
+        ],
+        [
+          "06",
+          "The taunt’s Hebrew can also be understood as saying David cannot enter unless he removes the blind and the lame."
+        ],
+        [
+          "08",
+          "This sentence is difficult. “Water shaft” is an uncertain identification, and its relation to the attack is compressed. The read form describes the lame and blind as hated by David. The concluding “house” is not explicitly called the temple. No reward clause is imported from another account. The disability language and exclusionary saying remain visible."
+        ],
+        [
+          "09",
+          "The Millo is a named feature of the city’s defenses or built-up structure; its precise form is not supplied here."
+        ],
+        [
+          "21",
+          "The Hebrew says the images were carried away. It does not say here that they were burned."
+        ],
+        [
+          "23–24",
+          "The trees are often identified as balsam trees, but the botanical identification is uncertain. The sound is described as marching in their tops."
+        ],
+        [
+          "25",
+          "The pinned Hebrew names Geba, retained here rather than replaced with Gibeon."
+        ]
+      ]
+    }
+  ]
+}

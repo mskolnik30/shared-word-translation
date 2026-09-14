@@ -1,0 +1,720 @@
+{
+  "qualification": "Selected authoring reread after the complete first Hebrew reading and source-led drafting; not independent editorial review.",
+  "rows": [
+    {
+      "reference": "2 Samuel 1:6",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:6",
+          "source_verse_sha256": "ef676044136bb6625e236c9a076b9d66e55e2fbcd982937d18603f6f301afa40",
+          "hebrew": "וַ/יֹּ֜אמֶר הַ/נַּ֣עַר הַ/מַּגִּ֣יד ל֗/וֹ נִקְרֹ֤א נִקְרֵ֨יתִי֙ בְּ/הַ֣ר הַ/גִּלְבֹּ֔עַ וְ/הִנֵּ֥ה שָׁא֖וּל נִשְׁעָ֣ן עַל חֲנִית֑/וֹ וְ/הִנֵּ֥ה הָ/רֶ֛כֶב וּ/בַעֲלֵ֥י הַ/פָּרָשִׁ֖ים הִדְבִּקֻֽ/הוּ",
+          "annotations": []
+        }
+      ],
+      "after": "The young man answered, “I happened to be on Mount Gilboa. Saul was leaning on his spear, and the chariots and horsemen were closing in on him.",
+      "rationale": "Retains the messenger’s claimed chance arrival and spear, distinct from the earlier sword account."
+    },
+    {
+      "reference": "2 Samuel 1:9",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:9",
+          "source_verse_sha256": "5349b8f5a45343ba6be62ac83831b138c216b7e603596e11a31bfc9d0a2eccf3",
+          "hebrew": "וַ/יֹּ֣אמֶר אֵלַ֗/י עֲמָד נָ֤א עָלַ/י֙ וּ/מֹ֣תְתֵ֔/נִי כִּ֥י אֲחָזַ֖/נִי הַ/שָּׁבָ֑ץ כִּֽי כָל ע֥וֹד נַפְשִׁ֖/י בִּֽ/י",
+          "annotations": []
+        }
+      ],
+      "after": "Then he said, ‘Stand over me and kill me. Agony has gripped me, yet my life is still in me.’",
+      "rationale": "Uses agony for the rare term and preserves reported request and continued life; uncertainty noted."
+    },
+    {
+      "reference": "2 Samuel 1:10",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:10",
+          "source_verse_sha256": "85a75f9ea42988b89bcd7aad9c3a056bb8ef70a401d5b6ff7c8b590313fd0b7d",
+          "hebrew": "וָ/אֶעֱמֹ֤ד עָלָי/ו֙ וַ/אֲמֹ֣תְתֵ֔/הוּ כִּ֣י יָדַ֔עְתִּי כִּ֛י לֹ֥א יִֽחְיֶ֖ה אַחֲרֵ֣י נִפְל֑/וֹ וָ/אֶקַּ֞ח הַ/נֵּ֣זֶר אֲשֶׁ֣ר עַל רֹאשׁ֗/וֹ וְ/אֶצְעָדָה֙ אֲשֶׁ֣ר עַל זְרֹע֔/וֹ וָ/אֲבִיאֵ֥/ם אֶל אֲדֹנִ֖/י הֵֽנָּה",
+          "annotations": []
+        }
+      ],
+      "after": "So I stood over him and killed him, knowing he would not survive his fall. I took the crown from his head and the armlet from his arm and brought them here to my lord.”",
+      "rationale": "Preserves killing claim and royal objects without validating or harmonizing the account."
+    },
+    {
+      "reference": "2 Samuel 1:13",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:13",
+          "source_verse_sha256": "7731c733c02d5689c3cbc826aea89b51dc47290e455353556d5b17f96a5ce74b",
+          "hebrew": "וַ/יֹּ֣אמֶר דָּוִ֗ד אֶל הַ/נַּ֨עַר֙ הַ/מַּגִּ֣יד ל֔/וֹ אֵ֥י מִ/זֶּ֖ה אָ֑תָּה וַ/יֹּ֕אמֶר בֶּן אִ֛ישׁ גֵּ֥ר עֲמָלֵקִ֖י אָנֹֽכִי",
+          "annotations": []
+        }
+      ],
+      "after": "David asked the young messenger, “Where are you from?” He answered, “I am the son of an Amalekite resident foreigner.”",
+      "rationale": "Preserves the fuller social identification in the repeated question."
+    },
+    {
+      "reference": "2 Samuel 1:18",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:18",
+          "source_verse_sha256": "6c7b7279a16c244cd96d96e0bfafc17302d0367c9f53a2990ca11e4a0a0b6dff",
+          "hebrew": "וַ/יֹּ֕אמֶר לְ/לַמֵּ֥ד בְּנֵֽי יְהוּדָ֖ה קָ֑שֶׁת הִנֵּ֥ה כְתוּבָ֖ה עַל סֵ֥פֶר הַ/יָּשָֽׁר",
+          "annotations": []
+        }
+      ],
+      "after": "and ordered that the people of Judah be taught “The Bow.” It is written in the Book of Jashar:",
+      "rationale": "Treats bow as title contextually, with archery alternative noted; retains named source book."
+    },
+    {
+      "reference": "2 Samuel 1:19",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:19",
+          "source_verse_sha256": "121f8473e0b6952f9e14345df05049d886077281e918d42a4327e8ffca1512f2",
+          "hebrew": "הַ/צְּבִי֙ יִשְׂרָאֵ֔ל עַל בָּמוֹתֶ֖י/ךָ חָלָ֑ל אֵ֖יךְ נָפְל֥וּ גִבּוֹרִֽים",
+          "annotations": []
+        }
+      ],
+      "after": "“Your splendor, Israel, lies slain on your heights. How the mighty have fallen!",
+      "rationale": "Keeps ambiguous splendor/gazelle term as splendor and establishes repeated refrain."
+    },
+    {
+      "reference": "2 Samuel 1:21",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:21",
+          "source_verse_sha256": "a20c837c3cb95c4bc051ba139b6c6dde48aa71f4a8afd56cb10b73e553487182",
+          "hebrew": "הָרֵ֣י בַ/גִּלְבֹּ֗עַ אַל טַ֧ל וְ/אַל מָטָ֛ר עֲלֵי/כֶ֖ם וּ/שְׂדֵ֣י תְרוּמֹ֑ת כִּ֣י שָׁ֤ם נִגְעַל֙ מָגֵ֣ן גִּבּוֹרִ֔ים מָגֵ֣ן שָׁא֔וּל בְּלִ֖י מָשִׁ֥יחַ בַּ/שָּֽׁמֶן",
+          "annotations": []
+        }
+      ],
+      "after": "Mountains of Gilboa, let no dew or rain fall on you, let there be no fields yielding offerings! There the warriors’ shield was defiled, Saul’s shield, no longer anointed with oil.",
+      "rationale": "Retains difficult offering-fields phrase and shield anointing rather than silently moving the oil to Saul."
+    },
+    {
+      "reference": "2 Samuel 1:22",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:22",
+          "source_verse_sha256": "99b344f26d4af94f616061fa6a1ae8fa459bbef6b8b1f98eb374098a63cd7a43",
+          "hebrew": "מִ/דַּ֣ם חֲלָלִ֗ים מֵ/חֵ֨לֶב֙ גִּבּוֹרִ֔ים קֶ֚שֶׁת יְה֣וֹנָתָ֔ן לֹ֥א נָשׂ֖וֹג אָח֑וֹר וְ/חֶ֣רֶב שָׁא֔וּל לֹ֥א תָשׁ֖וּב רֵיקָֽם",
+          "annotations": []
+        }
+      ],
+      "after": "From the blood of the slain, from the fat of warriors, Jonathan’s bow did not turn back; Saul’s sword did not return empty.",
+      "rationale": "Preserves blood/fat imagery and both weapon movements."
+    },
+    {
+      "reference": "2 Samuel 1:23",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:23",
+          "source_verse_sha256": "fb5e76ab90ef59b4afbec6c6caf96b62e15edf0ba2906910981b3aa29badfa64",
+          "hebrew": "שָׁא֣וּל וִ/יהוֹנָתָ֗ן הַ/נֶּאֱהָבִ֤ים וְ/הַ/נְּעִימִם֙ בְּ/חַיֵּי/הֶ֔ם וּ/בְ/מוֹתָ֖/ם לֹ֣א נִפְרָ֑דוּ מִ/נְּשָׁרִ֣ים קַ֔לּוּ מֵ/אֲרָי֖וֹת גָּבֵֽרוּ",
+          "annotations": []
+        }
+      ],
+      "after": "Saul and Jonathan, loved and dear in life, were not parted in death. They were swifter than eagles, stronger than lions.",
+      "rationale": "Keeps the lament’s praise as poetry without reconciling their recorded conflicts."
+    },
+    {
+      "reference": "2 Samuel 1:25",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:25",
+          "source_verse_sha256": "2f570417d1d9241505ef1d59c2822e0178991638918f1d713a0e3cd1c48ccad3",
+          "hebrew": "אֵ֚יךְ נָפְל֣וּ גִבֹּרִ֔ים בְּ/ת֖וֹךְ הַ/מִּלְחָמָ֑ה יְה֣וֹנָתָ֔ן עַל בָּמוֹתֶ֖י/ךָ חָלָֽל",
+          "annotations": []
+        }
+      ],
+      "after": "How the mighty have fallen in the midst of battle! Jonathan lies slain on your heights.",
+      "rationale": "Repeats the refrain and retains the shifting second-person address."
+    },
+    {
+      "reference": "2 Samuel 1:26",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:26",
+          "source_verse_sha256": "2f6070dc11bb616c26d64911920794d54de188e82a3a77c40ca39d0fc0866342",
+          "hebrew": "צַר לִ֣/י עָלֶ֗י/ךָ אָחִ/י֙ יְה֣וֹנָתָ֔ן נָעַ֥מְתָּ לִּ֖/י מְאֹ֑ד נִפְלְאַ֤תָה אַהֲבָֽתְ/ךָ֙ לִ֔/י מֵ/אַהֲבַ֖ת נָשִֽׁים",
+          "annotations": []
+        }
+      ],
+      "after": "I grieve for you, my brother Jonathan. You were deeply dear to me. Your love for me was wondrous, beyond the love of women.",
+      "rationale": "Preserves unqualified love and its comparison without assigning a modern category or diminishing intimacy."
+    },
+    {
+      "reference": "2 Samuel 1:27",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 1:27",
+          "source_verse_sha256": "96453348bbbdb8ee9bd8e64669a8ac5224bf5952272a69fb2bdb714f11427a3d",
+          "hebrew": "אֵ֚יךְ נָפְל֣וּ גִבּוֹרִ֔ים וַ/יֹּאבְד֖וּ כְּלֵ֥י מִלְחָמָֽה",
+          "annotations": []
+        }
+      ],
+      "after": "How the mighty have fallen, and the weapons of war have perished!”",
+      "rationale": "Keeps the third refrain and concluding weapons image."
+    },
+    {
+      "reference": "2 Samuel 2:9",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:9",
+          "source_verse_sha256": "452df3ebd484105b01775d001f2eaf66130b30db216ac5b63fb46c6f7e4d6eb7",
+          "hebrew": "וַ/יַּמְלִכֵ֨/הוּ֙ אֶל הַ/גִּלְעָ֔ד וְ/אֶל הָ/אֲשׁוּרִ֖י וְ/אֶֽל יִזְרְעֶ֑אל וְ/עַל אֶפְרַ֨יִם֙ וְ/עַל בִּנְיָמִ֔ן וְ/עַל יִשְׂרָאֵ֖ל כֻּלֹּֽ/ה",
+          "annotations": []
+        }
+      ],
+      "after": "He made him king over Gilead, the Ashurites, Jezreel, Ephraim, Benjamin, and all Israel.",
+      "rationale": "Retains pinned Ashurites and complete territory list; identity uncertainty noted."
+    },
+    {
+      "reference": "2 Samuel 2:10",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:10",
+          "source_verse_sha256": "19f7b4ae5605269b9b914d9b083f8de2455a5ea1792bade3a3d69a47feb3432f",
+          "hebrew": "בֶּן אַרְבָּעִ֨ים שָׁנָ֜ה אִֽישׁ בֹּ֣שֶׁת בֶּן שָׁא֗וּל בְּ/מָלְכ/וֹ֙ עַל יִשְׂרָאֵ֔ל וּ/שְׁתַּ֥יִם שָׁנִ֖ים מָלָ֑ךְ אַ֚ךְ בֵּ֣ית יְהוּדָ֔ה הָי֖וּ אַחֲרֵ֥י דָוִֽד",
+          "annotations": []
+        }
+      ],
+      "after": "Ish-bosheth son of Saul was forty years old when he became king over Israel, and he reigned two years. Only the house of Judah followed David.",
+      "rationale": "Keeps age, duration and exception without harmonizing the next duration."
+    },
+    {
+      "reference": "2 Samuel 2:11",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:11",
+          "source_verse_sha256": "3491aca0b14a91482b09c094fba9e887955b548ea6b1c553f2d0b8de6160bf4b",
+          "hebrew": "וַֽ/יְהִי֙ מִסְפַּ֣ר הַ/יָּמִ֔ים אֲשֶׁר֩ הָיָ֨ה דָוִ֥ד מֶ֛לֶךְ בְּ/חֶבְר֖וֹן עַל בֵּ֣ית יְהוּדָ֑ה שֶׁ֥בַע שָׁנִ֖ים וְ/שִׁשָּׁ֥ה חֳדָשִֽׁים",
+          "annotations": []
+        }
+      ],
+      "after": "David was king over the house of Judah in Hebron for seven years and six months.",
+      "rationale": "Preserves the different reign length exactly."
+    },
+    {
+      "reference": "2 Samuel 2:14",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:14",
+          "source_verse_sha256": "b657f425ec94dbb9299697aba1511e4756a98fb2e3d18d544b894ef72ba67505",
+          "hebrew": "וַ/יֹּ֤אמֶר אַבְנֵר֙ אֶל יוֹאָ֔ב יָק֤וּמוּ נָא֙ הַ/נְּעָרִ֔ים וִֽ/ישַׂחֲק֖וּ לְ/פָנֵ֑י/נוּ וַ/יֹּ֥אמֶר יוֹאָ֖ב יָקֻֽמוּ",
+          "annotations": []
+        }
+      ],
+      "after": "Abner said to Joab, “Let the young men rise and put on a contest before us.” Joab answered, “Let them rise.”",
+      "rationale": "Keeps play/contest language whose deadly result follows, with note rather than sanitization."
+    },
+    {
+      "reference": "2 Samuel 2:16",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:16",
+          "source_verse_sha256": "265d89c44dd1d2fe073d3e805033b8643fda199cdb39b6841cbf5a7a3cb40314",
+          "hebrew": "וַֽ/יַּחֲזִ֜קוּ אִ֣ישׁ בְּ/רֹ֣אשׁ רֵעֵ֗/הוּ וְ/חַרְבּ/וֹ֙ בְּ/צַ֣ד רֵעֵ֔/הוּ וַֽ/יִּפְּל֖וּ יַחְדָּ֑ו וַ/יִּקְרָא֙ לַ/מָּק֣וֹם הַ/ה֔וּא חֶלְקַ֥ת הַצֻּרִ֖ים אֲשֶׁ֥ר בְּ/גִבְעֽוֹן",
+          "annotations": []
+        }
+      ],
+      "after": "Each grabbed his opponent’s head and drove his sword into his opponent’s side. They fell together. The place at Gibeon was called Helkath-hazzurim.",
+      "rationale": "Keeps simultaneous mutual killing and uncertain place name."
+    },
+    {
+      "reference": "2 Samuel 2:23",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:23",
+          "source_verse_sha256": "9c522e05caf48c0256fc2b70a309c0082ac0025dbce42d80c7ec9f7bc3dffa1f",
+          "hebrew": "וַ/יְמָאֵ֣ן לָ/ס֗וּר וַ/יַּכֵּ֣/הוּ אַבְנֵר֩ בְּ/אַחֲרֵ֨י הַ/חֲנִ֜ית אֶל הַ/חֹ֗מֶשׁ וַ/תֵּצֵ֤א הַֽ/חֲנִית֙ מֵ/אַחֲרָ֔י/ו וַ/יִּפָּל שָׁ֖ם וַ/יָּ֣מָת תחת/ו וַ/יְהִ֡י כָּל הַ/בָּ֣א אֶֽל הַ/מָּקוֹם֩ אֲשֶׁר נָ֨פַל שָׁ֧ם עֲשָׂהאֵ֛ל וַ/יָּמֹ֖ת וַֽ/יַּעֲמֹֽדוּ",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>תחת/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"8478\" n=\"1\" morph=\"HR/Sp3ms\" id=\"10LY2\">תַּחְתָּ֑י/ו</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "Asahel refused to turn away. Abner struck him in the belly with the butt of his spear, and the spear came out through his back. He fell and died there. Everyone who came to the place where Asahel had fallen stood still.",
+      "rationale": "Retains unusual weapon end, bodily wound and halted onlookers."
+    },
+    {
+      "reference": "2 Samuel 2:27",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:27",
+          "source_verse_sha256": "c9bd070328c7785b4a1ee5f9dc9f1c8685814ae1bd3c28abd5b188cafcf81190",
+          "hebrew": "וַ/יֹּ֣אמֶר יוֹאָ֔ב חַ֚י הָֽ/אֱלֹהִ֔ים כִּ֥י לוּלֵ֖א דִּבַּ֑רְתָּ כִּ֣י אָ֤ז מֵֽ/הַ/בֹּ֨קֶר֙ נַעֲלָ֣ה הָ/עָ֔ם אִ֖ישׁ מֵ/אַחֲרֵ֥י אָחִֽי/ו",
+          "annotations": []
+        }
+      ],
+      "after": "Joab answered, “As God lives, if you had not spoken, the men would have kept pursuing their brothers until morning.”",
+      "rationale": "Uses until-morning reading of the counterfactual; alternate reference to earlier challenge noted."
+    },
+    {
+      "reference": "2 Samuel 2:29",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:29",
+          "source_verse_sha256": "04c79b9fde3e4ecc181752fce63708fc19ce5a3410ebb422426fac87e0307548",
+          "hebrew": "וְ/אַבְנֵ֣ר וַֽ/אֲנָשָׁ֗י/ו הָֽלְכוּ֙ בָּֽ/עֲרָבָ֔ה כֹּ֖ל הַ/לַּ֣יְלָה הַ/ה֑וּא וַ/יַּעַבְר֣וּ אֶת הַ/יַּרְדֵּ֗ן וַ/יֵּֽלְכוּ֙ כָּל הַ/בִּתְר֔וֹן וַ/יָּבֹ֖אוּ מַחֲנָֽיִם",
+          "annotations": []
+        }
+      ],
+      "after": "Abner and his men walked through the Arabah all that night. They crossed the Jordan, passed through all Bithron, and reached Mahanaim.",
+      "rationale": "Keeps pinned Bithron rather than replacing it with morning; geography uncertainty noted."
+    },
+    {
+      "reference": "2 Samuel 2:30",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:30",
+          "source_verse_sha256": "817233fe6bcae244769ce60b6b9d8fe33847dabfb0f8f4f755b92701608061db",
+          "hebrew": "וְ/יוֹאָ֗ב שָׁ֚ב מֵ/אַחֲרֵ֣י אַבְנֵ֔ר וַ/יִּקְבֹּ֖ץ אֶת כָּל הָ/עָ֑ם וַ/יִּפָּ֨קְד֜וּ מֵ/עַבְדֵ֥י דָוִ֛ד תִּשְׁעָֽה עָשָׂ֥ר אִ֖ישׁ וַ/עֲשָׂה אֵֽל",
+          "annotations": []
+        }
+      ],
+      "after": "Joab returned from pursuing Abner and gathered all his men. Nineteen of David’s servants were missing, besides Asahel.",
+      "rationale": "Preserves nineteen plus Asahel, not nineteen including him."
+    },
+    {
+      "reference": "2 Samuel 2:31",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 2:31",
+          "source_verse_sha256": "711fdc61992d4a7baf0b45e429898b5535918cbab1dd2957e06ebc6131c97422",
+          "hebrew": "וְ/עַבְדֵ֣י דָוִ֗ד הִכּוּ֙ מִ/בִּנְיָמִ֔ן וּ/בְ/אַנְשֵׁ֖י אַבְנֵ֑ר שְׁלֹשׁ מֵא֧וֹת וְ/שִׁשִּׁ֛ים אִ֖ישׁ מֵֽתוּ",
+          "annotations": []
+        }
+      ],
+      "after": "David’s servants had killed three hundred sixty men from Benjamin and Abner’s forces.",
+      "rationale": "Retains opposing death total exactly."
+    },
+    {
+      "reference": "2 Samuel 3:3",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:3",
+          "source_verse_sha256": "8a4e483e1d2573582e5639f0801337550155f105c8fa712764cf6963b09383f9",
+          "hebrew": "וּ/מִשְׁנֵ֣/הוּ כִלְאָ֔ב ל/אביגל אֵ֖שֶׁת נָבָ֣ל הַֽ/כַּרְמְלִ֑י וְ/הַ/שְּׁלִשִׁי֙ אַבְשָׁל֣וֹם בֶּֽן מַעֲכָ֔ה בַּת תַּלְמַ֖י מֶ֥לֶךְ גְּשֽׁוּר",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ל/אביגל</catchWord><rdg type=\"x-qere\"><w lemma=\"l/26\" n=\"1.1\" morph=\"HR/Np\" id=\"109fJ\">לַ/אֲֽבִיגַ֕יִל</w></rdg></note>\n          ",
+            "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>\n          "
+          ]
+        }
+      ],
+      "after": "His second was Chileab, whose mother was Abigail, Nabal’s widow from Carmel. The third was Absalom, the son of Maacah, daughter of Talmai king of Geshur.",
+      "rationale": "Preserves Chileab rather than substituting the name in another genealogy; clarifies the two maternal relationships and royal ancestry."
+    },
+    {
+      "reference": "2 Samuel 3:7",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:7",
+          "source_verse_sha256": "590a7c783f3bcdd7c8528e7df7227a213825bfb53b6deb21ad228b758e3b3af0",
+          "hebrew": "וּ/לְ/שָׁא֣וּל פִּלֶ֔גֶשׁ וּ/שְׁמָ֖/הּ רִצְפָּ֣ה בַת אַיָּ֑ה וַ/יֹּ֨אמֶר֙ אֶל אַבְנֵ֔ר מַדּ֥וּעַ בָּ֖אתָה אֶל פִּילֶ֥גֶשׁ אָבִֽ/י",
+          "annotations": []
+        }
+      ],
+      "after": "Saul had had a concubine named Rizpah, the daughter of Aiah. Ish-bosheth said to Abner, “Why have you slept with my father’s concubine?”",
+      "rationale": "Supplies Ish-bosheth from verse 8 for the unnamed speaker; renders the sexual idiom directly while leaving the allegation in his speech."
+    },
+    {
+      "reference": "2 Samuel 3:8",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:8",
+          "source_verse_sha256": "daa62f20cbd4915a1a0ff63938a62e2f38e50cfa2ae0ccdcbe3650463d2a0f40",
+          "hebrew": "וַ/יִּחַר֩ לְ/אַבְנֵ֨ר מְאֹ֜ד עַל דִּבְרֵ֣י אִֽישׁ בֹּ֗שֶׁת וַ/יֹּ֨אמֶר֙ הֲ/רֹ֨אשׁ כֶּ֥לֶב אָנֹ֘כִי֮ אֲשֶׁ֣ר לִֽ/יהוּדָה֒ הַ/יּ֨וֹם אֶֽעֱשֶׂה חֶ֜סֶד עִם בֵּ֣ית שָׁא֣וּל אָבִ֗י/ךָ אֶל אֶחָי/ו֙ וְ/אֶל מֵ֣רֵעֵ֔/הוּ וְ/לֹ֥א הִמְצִיתִ֖/ךָ בְּ/יַד דָּוִ֑ד וַ/תִּפְקֹ֥ד עָלַ֛/י עֲוֺ֥ן הָ/אִשָּׁ֖ה הַ/יּֽוֹם",
+          "annotations": []
+        }
+      ],
+      "after": "Abner was furious at Ish-bosheth’s words. “Am I a dog’s head that belongs to Judah?” he said. “To this day I have shown steadfast love to the house of your father Saul, to his brothers, and to his friends. I have not handed you over to David. Yet today you charge me with wrongdoing over this woman!",
+      "rationale": "Retains the difficult Judah phrase and dog-head insult; treats steadfast love as Abner’s claim and does not invent either a confession or a denial."
+    },
+    {
+      "reference": "2 Samuel 3:12",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:12",
+          "source_verse_sha256": "b9a042e1e4fb9587e0e69b8d812d3bd4df926209d8bbf72ea5c65fe7bdc8d7c6",
+          "hebrew": "וַ/יִּשְׁלַח֩ אַבְנֵ֨ר מַלְאָכִ֧ים אֶל דָּוִ֛ד תחת/ו לֵ/אמֹ֖ר לְ/מִי אָ֑רֶץ לֵ/אמֹ֗ר כָּרְתָ֤/ה בְרִֽיתְ/ךָ֙ אִתִּ֔/י וְ/הִנֵּה֙ יָדִ֣/י עִמָּ֔/ךְ לְ/הָסֵ֥ב אֵלֶ֖י/ךָ אֶת כָּל יִשְׂרָאֵֽל",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>תחת/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"8478\" morph=\"HR/Sp3ms\" id=\"10t1W\">תַּחְתָּ֥י/ו</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "Abner sent messengers to David on his behalf, saying, “Whose land is it? Make your covenant with me. My hand will be with you to bring all Israel over to you.”",
+      "rationale": "Takes the difficult location or representation expression as on his behalf; retains the open rhetorical question and hand image rather than supplying its answer."
+    },
+    {
+      "reference": "2 Samuel 3:14",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:14",
+          "source_verse_sha256": "5ed69fd6670b1c875dfecd1d703630ce95e9eec2c3b7c3339b5ac369da63c5c8",
+          "hebrew": "וַ/יִּשְׁלַ֤ח דָּוִד֙ מַלְאָכִ֔ים אֶל אִֽישׁ בֹּ֥שֶׁת בֶּן שָׁא֖וּל לֵ/אמֹ֑ר תְּנָ֤/ה אֶת אִשְׁתִּ/י֙ אֶת מִיכַ֔ל אֲשֶׁר֙ אֵרַ֣שְׂתִּי לִ֔/י בְּ/מֵאָ֖ה עָרְל֥וֹת פְּלִשְׁתִּֽים",
+          "annotations": []
+        }
+      ],
+      "after": "David also sent messengers to Ish-bosheth son of Saul: “Give me my wife Michal, whom I betrothed to myself for a hundred Philistine foreskins.”",
+      "rationale": "Keeps David’s marital claim and the bodily bride-price; retains a hundred here despite the two hundred delivered in 1 Samuel 18."
+    },
+    {
+      "reference": "2 Samuel 3:15",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:15",
+          "source_verse_sha256": "d12b07e544c0abac711410bebb80e3de86f0f9e0757ea9d438bfc49755960a3a",
+          "hebrew": "וַ/יִּשְׁלַח֙ אִ֣ישׁ בֹּ֔שֶׁת וַ/יִּקָּחֶ֖/הָ מֵ֣/עִֽם אִ֑ישׁ מֵ/עִ֖ם פַּלְטִיאֵ֥ל בֶּן לוש",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>לוש</catchWord><rdg type=\"x-qere\"><w lemma=\"3919 b\" n=\"0\" morph=\"HNp\" id=\"108zu\">לָֽיִשׁ</w></rdg></note>"
+          ]
+        }
+      ],
+      "after": "So Ish-bosheth had her taken from her husband, Paltiel son of Laish.",
+      "rationale": "Retains the narrator’s designation husband and the forcible transfer, following the read form Laish."
+    },
+    {
+      "reference": "2 Samuel 3:16",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:16",
+          "source_verse_sha256": "78ec1e3002e3ca36a9b375e243e63d4b067f3527262bf97dc68ff68886eef198",
+          "hebrew": "וַ/יֵּ֨לֶךְ אִתָּ֜/הּ אִישָׁ֗/הּ הָל֧וֹךְ וּ/בָכֹ֛ה אַחֲרֶ֖י/הָ עַד בַּֽחֻרִ֑ים וַ/יֹּ֨אמֶר אֵלָ֥י/ו אַבְנֵ֛ר לֵ֥ךְ שׁ֖וּב וַ/יָּשֹֽׁב",
+          "annotations": []
+        }
+      ],
+      "after": "Her husband followed her, weeping as he walked, all the way to Bahurim. Then Abner told him, “Go back!” And he went back.",
+      "rationale": "Preserves the husband’s sustained grief and Abner’s abrupt order; does not supply Michal’s unreported response."
+    },
+    {
+      "reference": "2 Samuel 3:18",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:18",
+          "source_verse_sha256": "b2e3f52c954cc644aff52191859f5c9951083c1fe483c22c0096f4971be0bd66",
+          "hebrew": "וְ/עַתָּ֖ה עֲשׂ֑וּ כִּ֣י יְהוָ֗ה אָמַ֤ר אֶל דָּוִד֙ לֵ/אמֹ֔ר בְּ/יַ֣ד דָּוִ֣ד עַבְדִּ֗/י הוֹשִׁ֜יעַ אֶת עַמִּ֤/י יִשְׂרָאֵל֙ מִ/יַּ֣ד פְּלִשְׁתִּ֔ים וּ/מִ/יַּ֖ד כָּל אֹיְבֵי/הֶֽם",
+          "annotations": []
+        }
+      ],
+      "after": "Now act on it! For the LORD said of David, ‘By the hand of my servant David I will save my people Israel from the hand of the Philistines and from all their enemies.’”",
+      "rationale": "Keeps the paired hands and my servant and my people language; the divine promise remains within Abner’s appeal."
+    },
+    {
+      "reference": "2 Samuel 3:27",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:27",
+          "source_verse_sha256": "332d9c74c1f742876a9187c98d4c6fe45cb03c26dc228a11222647cda6a40bb7",
+          "hebrew": "וַ/יָּ֤שָׁב אַבְנֵר֙ חֶבְר֔וֹן וַ/יַּטֵּ֤/הוּ יוֹאָב֙ אֶל תּ֣וֹךְ הַ/שַּׁ֔עַר לְ/דַבֵּ֥ר אִתּ֖/וֹ בַּ/שֶּׁ֑לִי וַ/יַּכֵּ֤/הוּ שָׁם֙ הַ/חֹ֔מֶשׁ וַ/יָּ֕מָת בְּ/דַ֖ם עֲשָׂה אֵ֥ל אָחִֽי/ו",
+          "annotations": []
+        }
+      ],
+      "after": "When Abner returned to Hebron, Joab took him aside inside the gate, as if to speak privately with him. There he stabbed him in the belly, and Abner died—for the blood of Joab’s brother Asahel.",
+      "rationale": "Makes the deceptive approach readable while noting the uncertain privately or quietly expression; preserves the belly wound and blood vengeance motive."
+    },
+    {
+      "reference": "2 Samuel 3:29",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:29",
+          "source_verse_sha256": "e451d83bc1cc0686abd3f1f91fa6ff21e03cc812989454c28165eeda41264048",
+          "hebrew": "יָחֻ֨לוּ֙ עַל רֹ֣אשׁ יוֹאָ֔ב וְ/אֶ֖ל כָּל בֵּ֣ית אָבִ֑י/ו וְֽ/אַל יִכָּרֵ֣ת מִ/בֵּ֣ית יוֹאָ֡ב זָ֠ב וּ/מְצֹרָ֞ע וּ/מַחֲזִ֥יק בַּ/פֶּ֛לֶךְ וְ/נֹפֵ֥ל בַּ/חֶ֖רֶב וַ/חֲסַר לָֽחֶם",
+          "annotations": []
+        }
+      ],
+      "after": "May it fall on Joab’s head and on his father’s whole house! May Joab’s house never be without someone with a discharge or a defiling skin disease, someone who holds a spindle, someone who falls by the sword, or someone who lacks bread.”",
+      "rationale": "Retains all five elements of the curse, including the difficult spindle image; does not replace it silently with a crutch or moralize illness."
+    },
+    {
+      "reference": "2 Samuel 3:30",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:30",
+          "source_verse_sha256": "bfd25ab648dc97895738da6243927662630dc3c56cf226a0357cdf48dff3a885",
+          "hebrew": "וְ/יוֹאָב֙ וַ/אֲבִישַׁ֣י אָחִ֔י/ו הָרְג֖וּ לְ/אַבְנֵ֑ר עַל֩ אֲשֶׁ֨ר הֵמִ֜ית אֶת עֲשָׂהאֵ֧ל אֲחִי/הֶ֛ם בְּ/גִבְע֖וֹן בַּ/מִּלְחָמָֽה",
+          "annotations": []
+        }
+      ],
+      "after": "Joab and his brother Abishai killed Abner because he had put their brother Asahel to death in the battle at Gibeon.",
+      "rationale": "Retains the narrator’s attribution to both brothers without inventing Abishai’s precise part in the murder."
+    },
+    {
+      "reference": "2 Samuel 3:33",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:33",
+          "source_verse_sha256": "bac31f565bcaec624d8d9c9e957911b75a745c44388003a1b0952388d59252c4",
+          "hebrew": "וַ/יְקֹנֵ֥ן הַ/מֶּ֛לֶךְ אֶל אַבְנֵ֖ר וַ/יֹּאמַ֑ר הַ/כְּ/מ֥וֹת נָבָ֖ל יָמ֥וּת אַבְנֵֽר",
+          "annotations": []
+        }
+      ],
+      "after": "The king sang this lament for Abner: “Should Abner die as a fool dies?",
+      "rationale": "Marks the change to lament within the verse paragraph and retains the question about the manner of death."
+    },
+    {
+      "reference": "2 Samuel 3:34",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:34",
+          "source_verse_sha256": "4b0dec6426fa4e10d453b929e48414ddf51d6cae0d18c6e0b4f5161b25f9d67e",
+          "hebrew": "יָדֶ֣/ךָ לֹֽא אֲסֻר֗וֹת וְ/רַגְלֶ֨י/ךָ֙ לֹא לִ/נְחֻשְׁתַּ֣יִם הֻגָּ֔שׁוּ כִּ/נְפ֛וֹל לִ/פְנֵ֥י בְנֵֽי עַוְלָ֖ה נָפָ֑לְתָּ וַ/יֹּסִ֥פוּ כָל הָ/עָ֖ם לִ/בְכּ֥וֹת עָלָֽי/ו",
+          "annotations": []
+        }
+      ],
+      "after": "Your hands were not bound, and your feet were not put in bronze shackles. You fell as one falls before violent men.” And all the people wept for him again.",
+      "rationale": "Preserves the paired limbs, bronze restraints, and comparison with falling before wrongdoers; separates the concluding narration from the poem by a line break."
+    },
+    {
+      "reference": "2 Samuel 3:39",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 3:39",
+          "source_verse_sha256": "905f18dbd79b980a8b9dc0017ea11d8debf98e73b6b929c7eb37236e1001c9d9",
+          "hebrew": "וְ/אָנֹכִ֨י הַ/יּ֥וֹם רַךְ֙ וּ/מָשׁ֣וּחַ מֶ֔לֶךְ וְ/הָ/אֲנָשִׁ֥ים הָ/אֵ֛לֶּה בְּנֵ֥י צְרוּיָ֖ה קָשִׁ֣ים מִמֶּ֑/נִּי יְשַׁלֵּ֧ם יְהוָ֛ה לְ/עֹשֵׂ֥ה הָ/רָעָ֖ה כְּ/רָעָתֽ/וֹ",
+          "annotations": []
+        }
+      ],
+      "after": "Today I am weak, though anointed king. These men, the sons of Zeruiah, are too hard for me. May the LORD repay the evildoer for his evil.”",
+      "rationale": "Preserves the contrast of soft or weak David with hard sons of Zeruiah and leaves the request for divine repayment as David’s speech."
+    },
+    {
+      "reference": "2 Samuel 4:4",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 4:4",
+          "source_verse_sha256": "41c02e391af30c654b288dd28af05308fca0698fbe8f0cb28e45195b29987d7e",
+          "hebrew": "וְ/לִ/יהֽוֹנָתָן֙ בֶּן שָׁא֔וּל בֵּ֖ן נְכֵ֣ה רַגְלָ֑יִם בֶּן חָמֵ֣שׁ שָׁנִ֣ים הָיָ֡ה בְּ/בֹ֣א שְׁמֻעַת֩ שָׁא֨וּל וִ/יהֽוֹנָתָ֜ן מִֽ/יִּזְרְעֶ֗אל וַ/תִּשָּׂאֵ֤/הוּ אֹֽמַנְתּ/וֹ֙ וַ/תָּנֹ֔ס וַ/יְהִ֞י בְּ/חָפְזָ֥/הּ לָ/נ֛וּס וַ/יִּפֹּ֥ל וַ/יִּפָּסֵ֖חַ וּ/שְׁמ֥/וֹ מְפִיבֹֽשֶׁת",
+          "annotations": []
+        }
+      ],
+      "after": "Jonathan son of Saul had a son whose feet were disabled. He was five years old when news of Saul and Jonathan came from Jezreel. His nurse picked him up and fled, but in her hurry to escape he fell and became lame. His name was Mephibosheth.",
+      "rationale": "Keeps the interruption about the surviving son, his age, and the accident without blaming the nurse or replacing physical disability with a metaphor."
+    },
+    {
+      "reference": "2 Samuel 4:6",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 4:6",
+          "source_verse_sha256": "a9e56183d3445959c85442b597c6b82ea92c118f8fe35447b3dccf43ab80beeb",
+          "hebrew": "וְ֠/הֵנָּה בָּ֜אוּ עַד תּ֤וֹךְ הַ/בַּ֨יִת֙ לֹקְחֵ֣י חִטִּ֔ים וַ/יַּכֻּ֖/הוּ אֶל הַ/חֹ֑מֶשׁ וְ/רֵכָ֛ב וּ/בַעֲנָ֥ה אָחִ֖י/ו נִמְלָֽטוּ",
+          "annotations": []
+        }
+      ],
+      "after": "They entered the inner part of the house as though to get wheat and stabbed him in the belly. Then Rechab and his brother Baanah escaped.",
+      "rationale": "Follows the pinned Hebrew wheat-taking account; as though marks the inferred pretext rather than importing a different doorway scene."
+    },
+    {
+      "reference": "2 Samuel 4:7",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 4:7",
+          "source_verse_sha256": "12b1bded00b9d79646d7f402b588c06cab35dd68d8cd51a153323bbf1fc1c5ef",
+          "hebrew": "וַ/יָּבֹ֣אוּ הַ/בַּ֗יִת וְ/הֽוּא שֹׁכֵ֤ב עַל מִטָּת/וֹ֙ בַּ/חֲדַ֣ר מִשְׁכָּב֔/וֹ וַ/יַּכֻּ֨/הוּ֙ וַ/יְמִתֻ֔/הוּ וַ/יָּסִ֖ירוּ אֶת רֹאשׁ֑/וֹ וַ/יִּקְחוּ֙ אֶת רֹאשׁ֔/וֹ וַ/יֵּֽלְכ֛וּ דֶּ֥רֶךְ הָ/עֲרָבָ֖ה כָּל הַ/לָּֽיְלָה",
+          "annotations": []
+        }
+      ],
+      "after": "They had entered the house while he was lying on his bed in his bedroom. They struck him, killed him, and cut off his head. Taking his head, they traveled through the Arabah all night.",
+      "rationale": "Keeps the repeated account of entering and killing, all three violent actions, and the head carried through the night."
+    },
+    {
+      "reference": "2 Samuel 4:8",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 4:8",
+          "source_verse_sha256": "2fe4c5b7c51835f930afe250558ad926bd32b3be8e0edeee7653151e8e6387af",
+          "hebrew": "וַ֠/יָּבִאוּ אֶת רֹ֨אשׁ אִֽישׁ בֹּ֥שֶׁת אֶל דָּוִד֮ חֶבְרוֹן֒ וַ/יֹּֽאמְרוּ֙ אֶל הַ/מֶּ֔לֶךְ הִנֵּֽה רֹ֣אשׁ אִֽישׁ בֹּ֗שֶׁת בֶּן שָׁאוּל֙ אֹֽיִבְ/ךָ֔ אֲשֶׁ֥ר בִּקֵּ֖שׁ אֶת נַפְשֶׁ֑/ךָ וַ/יִּתֵּ֣ן יְ֠הוָה לַֽ/אדֹנִ֨/י הַ/מֶּ֤לֶךְ נְקָמוֹת֙ הַ/יּ֣וֹם הַ/זֶּ֔ה מִ/שָּׁא֖וּל וּ/מִ/זַּרְעֽ/וֹ",
+          "annotations": []
+        }
+      ],
+      "after": "They brought Ish-bosheth’s head to David at Hebron and said to the king, “Here is the head of Ish-bosheth son of Saul, your enemy who sought your life. Today the LORD has given my lord the king vengeance on Saul and his offspring.”",
+      "rationale": "Retains the murderers’ claim of divine vengeance as their interpretation, not narrator endorsement, and preserves offspring."
+    },
+    {
+      "reference": "2 Samuel 4:10",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 4:10",
+          "source_verse_sha256": "d5aaccb552d529a00a9703a57568f59fa4515d187826833f3157ea997584660e",
+          "hebrew": "כִּ֣י הַ/מַּגִּיד֩ לִ֨/י לֵ/אמֹ֜ר הִנֵּה מֵ֣ת שָׁא֗וּל וְ/הֽוּא הָיָ֤ה כִ/מְבַשֵּׂר֙ בְּ/עֵינָ֔י/ו וָ/אֹחֲזָ֣/ה ב֔/וֹ וָ/אֶהְרְגֵ֖/הוּ בְּ/צִֽקְלָ֑ג אֲשֶׁ֥ר לְ/תִתִּ/י ל֖/וֹ בְּשֹׂרָֽה",
+          "annotations": []
+        }
+      ],
+      "after": "when someone told me, ‘Saul is dead,’ thinking he brought good news, I seized him and killed him at Ziklag. That was my reward for his news!",
+      "rationale": "Makes the ironic reward clause intelligible while preserving David’s own compressed account of the earlier execution."
+    },
+    {
+      "reference": "2 Samuel 4:11",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 4:11",
+          "source_verse_sha256": "3ef8bb8885d83e807ac4c45d0e934f582484883bbfaec98a95aa129cfb3eea13",
+          "hebrew": "אַ֞ף כִּֽי אֲנָשִׁ֣ים רְשָׁעִ֗ים הָרְג֧וּ אֶת אִישׁ צַדִּ֛יק בְּ/בֵית֖/וֹ עַל מִשְׁכָּב֑/וֹ וְ/עַתָּ֗ה הֲ/ל֨וֹא אֲבַקֵּ֤שׁ אֶת דָּמ/וֹ֙ מִ/יֶּדְ/כֶ֔ם וּ/בִעַרְתִּ֥י אֶתְ/כֶ֖ם מִן הָ/אָֽרֶץ",
+          "annotations": []
+        }
+      ],
+      "after": "How much more, then, when wicked men have killed an innocent man in his own house, on his bed! Should I not demand his blood from your hands and remove you from the earth?”",
+      "rationale": "Keeps David’s moral contrast, the victim’s location, and the demand for blood from the killers’ hands."
+    },
+    {
+      "reference": "2 Samuel 4:12",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 4:12",
+          "source_verse_sha256": "541989112f03726cb03bbc11e3704a2583cb65b9a328890fae9162804dbd229f",
+          "hebrew": "וַ/יְצַו֩ דָּוִ֨ד אֶת הַ/נְּעָרִ֜ים וַ/יַּהַרְג֗וּ/ם וַֽ/יְקַצְּצ֤וּ אֶת יְדֵי/הֶם֙ וְ/אֶת רַגְלֵי/הֶ֔ם וַ/יִּתְל֥וּ עַל הַ/בְּרֵכָ֖ה בְּ/חֶבְר֑וֹן וְ/אֵ֨ת רֹ֤אשׁ אִֽישׁ בֹּ֨שֶׁת֙ לָקָ֔חוּ וַ/יִּקְבְּר֥וּ בְ/קֶֽבֶר אַבְנֵ֖ר בְּ/חֶבְרֽוֹן",
+          "annotations": []
+        }
+      ],
+      "after": "David gave orders to his young men, and they killed the brothers. They cut off their hands and feet and hung them beside the pool in Hebron. But they took Ish-bosheth’s head and buried it in Abner’s tomb at Hebron.",
+      "rationale": "Preserves the execution, mutilation, public display, and contrasting burial without sanitizing David’s punishment."
+    },
+    {
+      "reference": "2 Samuel 5:4",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:4",
+          "source_verse_sha256": "121dbde6dff9de98e7590aee02a6c116227fdce9b5816b71fed1fd110aa4c9ab",
+          "hebrew": "בֶּן שְׁלֹשִׁ֥ים שָׁנָ֛ה דָּוִ֖ד בְּ/מָלְכ֑/וֹ אַרְבָּעִ֥ים שָׁנָ֖ה מָלָֽךְ",
+          "annotations": []
+        }
+      ],
+      "after": "David was thirty years old when he became king, and he reigned forty years.",
+      "rationale": "Preserves the stated age and overall reign without correcting the rounded total using the following verse."
+    },
+    {
+      "reference": "2 Samuel 5:5",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:5",
+          "source_verse_sha256": "9b9e27d0207ef3d362caf5a67acc5059a2ac0e38112f6af184ec9c43e31b20d6",
+          "hebrew": "בְּ/חֶבְרוֹן֙ מָלַ֣ךְ עַל יְהוּדָ֔ה שֶׁ֥בַע שָׁנִ֖ים וְ/שִׁשָּׁ֣ה חֳדָשִׁ֑ים וּ/בִ/ירוּשָׁלִַ֣ם מָלַ֗ךְ שְׁלֹשִׁ֤ים וְ/שָׁלֹשׁ֙ שָׁנָ֔ה עַ֥ל כָּל יִשְׂרָאֵ֖ל וִ/יהוּדָֽה",
+          "annotations": []
+        }
+      ],
+      "after": "He reigned over Judah in Hebron for seven years and six months. In Jerusalem he reigned over all Israel and Judah for thirty-three years.",
+      "rationale": "Keeps both durations and their respective political and geographical scopes."
+    },
+    {
+      "reference": "2 Samuel 5:6",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:6",
+          "source_verse_sha256": "3d29b3bad8364be8aacfdbd64d0d9814383c8fa4316f1fe5d1423a8ad1e78a40",
+          "hebrew": "וַ/יֵּ֨לֶךְ הַ/מֶּ֤לֶךְ וַֽ/אֲנָשָׁי/ו֙ יְר֣וּשָׁלִַ֔ם אֶל הַ/יְבֻסִ֖י יוֹשֵׁ֣ב הָ/אָ֑רֶץ וַ/יֹּ֨אמֶר לְ/דָוִ֤ד לֵ/אמֹר֙ לֹא תָב֣וֹא הֵ֔נָּה כִּ֣י אִם הֱסִֽירְ/ךָ֗ הַ/עִוְרִ֤ים וְ/הַ/פִּסְחִים֙ לֵ/אמֹ֔ר לֹֽא יָב֥וֹא דָוִ֖ד הֵֽנָּה",
+          "annotations": []
+        }
+      ],
+      "after": "The king and his men went to Jerusalem against the Jebusites who lived in the land. They told David, “You will not get in here! Even the blind and the lame will turn you back.” They thought, “David will never get in here.”",
+      "rationale": "Takes the difficult exclusion clause as the defenders’ taunt; preserves its disability language as their speech and flags the alternative unless you remove reading."
+    },
+    {
+      "reference": "2 Samuel 5:8",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:8",
+          "source_verse_sha256": "4c4b63c6bdb0cae8a797fbcbbe4f8ef97014348cafea411b98f3d6572adf3d70",
+          "hebrew": "וַ/יֹּ֨אמֶר דָּוִ֜ד בַּ/יּ֣וֹם הַ/ה֗וּא כָּל מַכֵּ֤ה יְבֻסִי֙ וְ/יִגַּ֣ע בַּ/צִּנּ֔וֹר וְ/אֶת הַ/פִּסְחִים֙ וְ/אֶת הַ֣/עִוְרִ֔ים שנאו נֶ֣פֶשׁ דָּוִ֑ד עַל כֵּן֙ יֹֽאמְר֔וּ עִוֵּ֣ר וּ/פִסֵּ֔חַ לֹ֥א יָב֖וֹא אֶל הַ/בָּֽיִת",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>שנאו</catchWord><rdg type=\"x-qere\"><w lemma=\"8130\" n=\"1.0\" morph=\"HVqsmpc\" id=\"10cvb\">שְׂנֻאֵ֖י</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "That day David said, “Whoever strikes the Jebusites must reach the water shaft—and the lame and the blind, those David hates.” That is why people say, “The blind and the lame must not enter the house.”",
+      "rationale": "Retains the difficult water-shaft clause, the read form hated by David, and the exclusionary saying; does not complete the sentence with a reward borrowed from another account or identify the house as the temple."
+    },
+    {
+      "reference": "2 Samuel 5:14",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:14",
+          "source_verse_sha256": "7e74def2b36f21c812a1ebef79aa884c8c6962d000c3448bbc0d5f55c2c8c33b",
+          "hebrew": "וְ/אֵ֗לֶּה שְׁמ֛וֹת הַ/יִּלֹּדִ֥ים ל֖/וֹ בִּ/ירוּשָׁלִָ֑ם שַׁמּ֣וּעַ וְ/שׁוֹבָ֔ב וְ/נָתָ֖ן וּ/שְׁלֹמֹֽה",
+          "annotations": []
+        }
+      ],
+      "after": "These are the names of those born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,",
+      "rationale": "Keeps the list’s introduction and its first four names, continuing the sentence across verse labels."
+    },
+    {
+      "reference": "2 Samuel 5:15",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:15",
+          "source_verse_sha256": "8dbc9628b03224089605363c6a62b714078f609b0f8ba32219d02801c04bebc1",
+          "hebrew": "וְ/יִבְחָ֥ר וֶ/אֱלִישׁ֖וּעַ וְ/נֶ֥פֶג וְ/יָפִֽיעַ",
+          "annotations": []
+        }
+      ],
+      "after": "Ibhar, Elishua, Nepheg, Japhia,",
+      "rationale": "Preserves all four names and their order without substituting names from parallel genealogies."
+    },
+    {
+      "reference": "2 Samuel 5:16",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:16",
+          "source_verse_sha256": "50bc9bafa8dfb5bf3106c591a665c36b15b998fa500e5abfed9a1772a3103324",
+          "hebrew": "וֶ/אֱלִישָׁמָ֥ע וְ/אֶלְיָדָ֖ע וֶ/אֱלִיפָֽלֶט",
+          "annotations": []
+        }
+      ],
+      "after": "Elishama, Eliada, and Eliphelet.",
+      "rationale": "Completes the eleven-name list with the pinned forms and order."
+    },
+    {
+      "reference": "2 Samuel 5:21",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:21",
+          "source_verse_sha256": "f2e4e1b53cfe8a2312c8110974264ca8e41e95eff75742b85a09623f0c452e9e",
+          "hebrew": "וַ/יַּעַזְבוּ שָׁ֖ם אֶת עֲצַבֵּי/הֶ֑ם וַ/יִּשָּׂאֵ֥/ם דָּוִ֖ד וַ/אֲנָשָֽׁי/ו",
+          "annotations": []
+        }
+      ],
+      "after": "The Philistines abandoned their idols there, and David and his men carried them away.",
+      "rationale": "Retains carried away; does not import burning from a parallel account."
+    },
+    {
+      "reference": "2 Samuel 5:23",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:23",
+          "source_verse_sha256": "317f00cd7279a04d952d59f2d80254b6c20a18b809729e1af8c6b2a18bec15d4",
+          "hebrew": "וַ/יִּשְׁאַ֤ל דָּוִד֙ בַּֽ/יהוָ֔ה וַ/יֹּ֖אמֶר לֹ֣א תַעֲלֶ֑ה הָסֵב֙ אֶל אַ֣חֲרֵי/הֶ֔ם וּ/בָ֥אתָ לָ/הֶ֖ם מִ/מּ֥וּל בְּכָאִֽים",
+          "annotations": []
+        }
+      ],
+      "after": "David asked the LORD, and he answered, “Do not go straight up. Circle around behind them and approach them opposite the balsam trees.",
+      "rationale": "Makes the changed approach clear while treating balsam as an uncertain tree identification rather than a botanical certainty."
+    },
+    {
+      "reference": "2 Samuel 5:24",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:24",
+          "source_verse_sha256": "666aa5add476a2735c8758aea6b3a9f1d6944789f521bb890fb323b53a275990",
+          "hebrew": "וִ֠/יהִי ב/שמע/ך אֶת ק֧וֹל צְעָדָ֛ה בְּ/רָאשֵׁ֥י הַ/בְּכָאִ֖ים אָ֣ז תֶּחֱרָ֑ץ כִּ֣י אָ֗ז יָצָ֤א יְהוָה֙ לְ/פָנֶ֔י/ךָ לְ/הַכּ֖וֹת בְּ/מַחֲנֵ֥ה פְלִשְׁתִּֽים",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ב/שמע/ך</catchWord><rdg type=\"x-qere\"><w lemma=\"k/8085\" n=\"1.0.0.0\" morph=\"HR/Vqc/Sp2ms\" id=\"10ayp\">כְּֽ/שָׁמְעֲ/ךָ֞</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "When you hear the sound of marching in the treetops, act decisively. Then the LORD will have gone out ahead of you to strike the Philistine camp.”",
+      "rationale": "Follows the read when and retains the audible marching above and divine advance, without reducing the sound to ordinary wind."
+    },
+    {
+      "reference": "2 Samuel 5:25",
+      "source_segments": [
+        {
+          "source_reference": "2Sam 5:25",
+          "source_verse_sha256": "a8fe6bfeb0133a86ca31a5079f5e0f4a17d619716770cb2b955a19ecf1c164fe",
+          "hebrew": "וַ/יַּ֤עַשׂ דָּוִד֙ כֵּ֔ן כַּ/אֲשֶׁ֥ר צִוָּ֖/הוּ יְהוָ֑ה וַ/יַּךְ֙ אֶת פְּלִשְׁתִּ֔ים מִ/גֶּ֖בַע עַד בֹּאֲ/ךָ֥ גָֽזֶר",
+          "annotations": []
+        }
+      ],
+      "after": "David did as the LORD commanded him and struck down the Philistines from Geba all the way to Gezer.",
+      "rationale": "Retains pinned Geba rather than substituting Gibeon from a parallel account."
+    }
+  ]
+}

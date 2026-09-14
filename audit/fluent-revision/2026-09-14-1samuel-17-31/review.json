@@ -1,0 +1,476 @@
+{
+  "scope": "1 Samuel 17–31",
+  "base_commit": "f35c4160019aa32e5b0c0f4af167df1759cde7d0",
+  "draft_chapters": 15,
+  "draft_verses": 404,
+  "first_source_reading": "Every pinned Hebrew verse and its written/read notes read before independent composition. Original XML records, Git blob and full-file SHA256 verified.",
+  "authoring_method": "Source-led drafting, followed by reading all 539 TSW verses across the combined batch as comparators. No synonym engine or minimum-change quota. Clear shared wording retained where appropriate.",
+  "focused_source_reread": {
+    "public_verses": 130,
+    "source_records": 131
+  },
+  "focus_evidence": "focused-comparisons.json",
+  "apparatus": "Selective Notes and Vocabulary expose consequential source ambiguity and recurring biblical words. They do not certify reader comprehension.",
+  "verse_summary": {
+    "verses_reviewed": 404,
+    "verses_with_changed_text": 404,
+    "delta_counts": {
+      "F2": 312,
+      "F3": 92
+    }
+  },
+  "overlap": {
+    "before": {
+      "identical": 342,
+      "near_identical_nonidentical": 62
+    },
+    "after": {
+      "identical": 1,
+      "near_identical_nonidentical": 5
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse overlap is triage only, not proof of fidelity, originality or comprehension.",
+  "verification": "../2026-09-14-1samuel-17-31/verification.json",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "whole_book_1samuel_consistency_pass": "PENDING: current work is focused batch authoring review, not the complete-book English and apparatus pass. The work queue retains that pass.",
+  "cross_chapter_focus": [
+    "Anointed, hand, and bloodguilt: David’s refusal to strike Saul, Abigail’s intervention, and David’s responses to reported killings remain connected without excusing his own violence.",
+    "Love, covenant, and house: Jonathan’s commitment, David’s lament, Michal’s marriages and the competing royal households remain distinct and intelligible.",
+    "Saul has struck down his thousands: identical repeated song wording in 18:7, 21:11 and 29:5 keeps its changing political uses recognizable.",
+    "How the mighty have fallen: repeated lament in 2 Samuel 1 remains poetry inside the verse paragraphs, including David’s comparison of Jonathan’s love with the love of women.",
+    "Hearing and responding: the LORD’s answers to David, silence toward Saul, and the woman’s repeated appeal to Saul to listen retain their respective speakers.",
+    "Competing accounts: 1 Samuel 31 and the Amalekite’s report in 2 Samuel 1 remain unharmonized; accusations and claims of divine endorsement stay with the speakers who make them.",
+    "In peace: Abner’s peaceful departure is repeated three times immediately before his killing; Joab’s responsibility and David’s public response are preserved."
+  ],
+  "companion_impacts": "Reconcile all changed quotations and bindings for 1 Samuel 17–31 at later installation; no Companion branch changes or public deployment.",
+  "focused_refinements": [
+    {
+      "verse": "1 Samuel 22:19",
+      "decision": "Restored the repeated sword phrase enclosing the victims."
+    },
+    {
+      "verse": "1 Samuel 22:22",
+      "decision": "Made responsibility for the deaths explicit so the clause cannot be mistaken for ongoing guardianship."
+    },
+    {
+      "verse": "1 Samuel 27:8",
+      "decision": "Changed the independently drafted Girzites to Gizrites after rereading the qere; note distinguishes written and read forms."
+    },
+    {
+      "verse": "1 Samuel 29:3",
+      "decision": "Removed the added self-correction rather from Achish’s imprecise days-or-years statement."
+    },
+    {
+      "verse": "2 Samuel 2:31",
+      "decision": "Made the casualties’ deaths explicit rather than relying on struck down."
+    },
+    {
+      "verse": "2 Samuel 3–4",
+      "decision": "Aligned Ish-bosheth spelling with chapter 2."
+    }
+  ],
+  "chapter_decisions": [
+    {
+      "chapter": 17,
+      "verse_count": 58,
+      "notes": [
+        [
+          "04",
+          "The pinned Hebrew gives six cubits and a span. The ancient measures are retained rather than converted to an exact modern height."
+        ],
+        [
+          "12",
+          "The last description of Jesse is difficult, literally an old man “coming among men.” It is understood here as emphasizing his age."
+        ],
+        [
+          "18",
+          "“A token” renders a word associated with a pledge or security; the precise object Jesse wants is not explained."
+        ],
+        [
+          "19",
+          "This verse can be read as continuing Jesse’s speech, as here, or as a return to the narrator. Hebrew does not mark the end of the quotation."
+        ],
+        [
+          "25",
+          "The promised freedom for the victor’s father’s household may concern taxation or other royal obligations; the Hebrew does not specify."
+        ],
+        [
+          "29",
+          "David’s last question can also be understood as “Is there not a reason?” The Hebrew word can mean a word, matter, or reason."
+        ],
+        [
+          "50–51",
+          "Verse 50 says David killed Goliath with the sling and stone; verse 51 again speaks of killing him, now with the sword. Both statements remain."
+        ],
+        [
+          "54–58",
+          "The reference to Jerusalem and the questions about David’s father remain where the narrative places them. The questions are not rewritten to settle their relationship to David’s earlier service to Saul."
+        ]
+      ]
+    },
+    {
+      "chapter": 18,
+      "verse_count": 30,
+      "notes": [
+        [
+          "06",
+          "The last musical instrument named in Hebrew is uncertain; “other instruments” leaves its identity open."
+        ],
+        [
+          "10",
+          "“Prophesied” uses the same Hebrew verb found in prophetic scenes elsewhere in Samuel. The harmful spirit and violent setting do not justify silently substituting a modern medical diagnosis."
+        ],
+        [
+          "18",
+          "The middle expression in David’s question is difficult. It is taken here as his family or kin; it can also be understood in relation to his life or standing."
+        ],
+        [
+          "21",
+          "The phrase rendered “a second chance” is literally “with two” or “by the second”; it appears to refer to the second daughter or offer."
+        ],
+        [
+          "25–27",
+          "Saul demands one hundred foreskins; David brings two hundred. The bodily nature of the demand and the different numbers are retained."
+        ]
+      ]
+    },
+    {
+      "chapter": 19,
+      "verse_count": 24,
+      "notes": [
+        [
+          "09",
+          "The narrator attributes the harmful spirit to the LORD. This difficult attribution is retained."
+        ],
+        [
+          "13, 16",
+          "Teraphim are household images. The Hebrew form is plural, but this scene can refer to one image. The goat-hair object at its head is not identified precisely."
+        ],
+        [
+          "17",
+          "Michal reports a threat by David. The preceding narration does not say that he made it."
+        ],
+        [
+          "24",
+          "The Hebrew says Saul stripped off his clothes and lay naked. The wording is not reduced to removing royal insignia."
+        ]
+      ]
+    },
+    {
+      "chapter": 20,
+      "verse_count": 42,
+      "notes": [
+        [
+          "10",
+          "David’s question is compressed in Hebrew and includes “or” before the possibility of a harsh answer. The draft unfolds the concern about receiving Jonathan’s report."
+        ],
+        [
+          "14–16",
+          "The sequence of negatives in Jonathan’s request is difficult. The draft takes it as a plea for steadfast love during his life and toward his house afterward. Verse 16 retains “David’s enemies” rather than replacing it with “David.”"
+        ],
+        [
+          "19",
+          "The occasion associated with the hiding place is not entirely clear; the Hebrew can refer to the day of work or of the affair."
+        ],
+        [
+          "25",
+          "The pinned Hebrew says Jonathan stood up. The draft does not change this to sitting opposite Saul."
+        ],
+        [
+          "30",
+          "Saul’s insult targets Jonathan and his mother with sexual shaming. Its force is preserved as Saul’s abusive speech."
+        ],
+        [
+          "34",
+          "“His father had shamed him” may refer to David or Jonathan. The pronoun is left open."
+        ],
+        [
+          "41",
+          "The pinned Hebrew locates David on the south side. The greater weeping is attributed to David."
+        ],
+        [
+          "42",
+          "This public verse includes both Hebrew 20:42 and 21:1, including David’s departure and Jonathan’s return."
+        ]
+      ]
+    },
+    {
+      "chapter": 21,
+      "verse_count": 15,
+      "notes": [
+        [
+          "05",
+          "The Hebrew speaks of the young men’s “vessels,” which can refer to their bodies or equipment. The relation of the ordinary journey to their present holiness is difficult."
+        ],
+        [
+          "07",
+          "Why Doeg was detained before the LORD is not explained."
+        ],
+        [
+          "11",
+          "Achish’s servants call David king of the land; the title is their characterization at this point in the story."
+        ],
+        [
+          "13–15",
+          "David feigns madness. Achish’s language describes his reaction and is not a modern diagnosis."
+        ],
+        [
+          "01–15",
+          "The public verse numbers in this chapter correspond to Hebrew 21:2–16."
+        ]
+      ]
+    },
+    {
+      "chapter": 22,
+      "verse_count": 23,
+      "notes": [
+        [
+          "09",
+          "Doeg’s position “over” or “beside” Saul’s servants can describe a role of oversight or where he stood. The draft leaves him standing with them."
+        ],
+        [
+          "14",
+          "The phrase rendered “obedient to your commands” is difficult and has also been understood as a title concerning the royal guard."
+        ],
+        [
+          "15",
+          "Ahimelech’s question about beginning to inquire for David denies a new conspiratorial act; it need not deny every earlier inquiry."
+        ],
+        [
+          "18–19",
+          "The eighty-five priests and the killing of Nob’s women, children, nursing infants, and animals are retained explicitly."
+        ],
+        [
+          "22",
+          "David acknowledges responsibility for the lives of Abiathar’s family. The draft does not turn his words into a claim that he personally carried out the killing."
+        ]
+      ]
+    },
+    {
+      "chapter": 23,
+      "verse_count": 29,
+      "notes": [
+        [
+          "07, 14",
+          "Saul claims God has delivered David into his hand; the narrator later says God did not give David into Saul’s hand. The different speakers matter."
+        ],
+        [
+          "11–12",
+          "David asks whether the town will surrender him and whether Saul will come. The answers arrive separately, with the second question answered first."
+        ],
+        [
+          "17",
+          "Jonathan’s expectation that he will be second to David remains Jonathan’s statement, not an added promise by the narrator."
+        ],
+        [
+          "28",
+          "Sela-hammahlekoth is associated with division or separation, fitting the armies’ parting here."
+        ],
+        [
+          "29",
+          "This public verse is the complete Hebrew record 24:1; the following public chapter begins at Hebrew 24:2."
+        ]
+      ]
+    },
+    {
+      "chapter": 24,
+      "verse_count": 22,
+      "notes": [
+        [
+          "03",
+          "The Hebrew idiom is “cover his feet,” a discreet expression for relieving himself."
+        ],
+        [
+          "04",
+          "The alleged promise that this is the day to act against Saul is spoken by David’s men."
+        ],
+        [
+          "10",
+          "The Hebrew moves through an indefinite speaker and an unexpressed subject for sparing. “I was urged … I spared” follows the surrounding scene without identifying an otherwise unnamed speaker."
+        ],
+        [
+          "01–22",
+          "These public verses correspond to Hebrew 24:2–23."
+        ]
+      ]
+    },
+    {
+      "chapter": 25,
+      "verse_count": 44,
+      "notes": [
+        [
+          "01",
+          "The pinned Hebrew names the wilderness of Paran."
+        ],
+        [
+          "03",
+          "“Calebite” follows the Hebrew reading note, which connects Nabal with Caleb."
+        ],
+        [
+          "06",
+          "The opening greeting is difficult; “Long life” is one understanding. The three wishes for peace remain."
+        ],
+        [
+          "22",
+          "The oath names “David’s enemies” in the pinned Hebrew, an awkward form in this self-curse. It is retained rather than silently changed to David."
+        ],
+        [
+          "22, 34",
+          "“One who urinates against a wall” is a coarse Hebrew expression referring to males. Its bodily force is retained."
+        ],
+        [
+          "28",
+          "The last clause can also be read as a statement that no evil has been found in David. The draft understands it as a wish, within Abigail’s appeal."
+        ],
+        [
+          "29",
+          "The bundle of the living and the sling’s pocket are ancient images of secure keeping and forceful expulsion."
+        ],
+        [
+          "37",
+          "The images of a dead heart and becoming stone describe Nabal’s collapse without establishing a specific medical diagnosis."
+        ]
+      ]
+    },
+    {
+      "chapter": 26,
+      "verse_count": 25,
+      "notes": [
+        [
+          "04",
+          "The final Hebrew word is understood here as certainty that Saul had arrived, rather than a place name."
+        ],
+        [
+          "06",
+          "Ahimelech the Hittite is a different man from the priest killed in chapter 22."
+        ],
+        [
+          "19",
+          "David’s appeal leaves open both divine incitement and human responsibility. It retains the offering’s scent and the complaint that exclusion from the LORD’s inheritance amounts to being told to serve other gods."
+        ]
+      ]
+    },
+    {
+      "chapter": 27,
+      "verse_count": 12,
+      "notes": [
+        [
+          "08",
+          "“Gizrites” follows the Hebrew reading note; the written form is Girzites."
+        ],
+        [
+          "09–11",
+          "The narrative says David killed men and women to prevent reports of his actions reaching Gath. This concealment is not softened into a battle-only description."
+        ],
+        [
+          "10",
+          "The question about the day’s raid is difficult in its written form; the draft understands it as Achish asking where David raided."
+        ],
+        [
+          "12",
+          "Achish believes David has become a stench to Israel. The narration has just shown why Achish’s information is unreliable."
+        ]
+      ]
+    },
+    {
+      "chapter": 28,
+      "verse_count": 25,
+      "notes": [
+        [
+          "02",
+          "David’s answer does not specify what he will do in the coming battle. Achish takes it as grounds to appoint him a bodyguard."
+        ],
+        [
+          "12–15",
+          "The narrator calls the figure Samuel. The draft does not replace that identification with a theory of fraud or another spirit."
+        ],
+        [
+          "13",
+          "The Hebrew has elohim with a plural participle. It can be understood as divine beings, though the following description concerns one figure. “A divine being” follows that immediate context."
+        ],
+        [
+          "17",
+          "“Acted for himself” retains the pinned Hebrew “for him/himself,” a difficult pronoun in this sentence."
+        ],
+        [
+          "19",
+          "“With me” is left as spoken, without adding an explanation of the condition or location of the dead."
+        ]
+      ]
+    },
+    {
+      "chapter": 29,
+      "verse_count": 11,
+      "notes": [
+        [
+          "03",
+          "Achish’s phrase “these days or these years” is imprecise. It is not used to revise the duration given in 27:7."
+        ],
+        [
+          "06",
+          "Achish swears by the LORD in the Hebrew. The divine name is retained in his speech."
+        ],
+        [
+          "08",
+          "David’s reference to fighting the enemies of “my lord the king” remains in his protest; the draft does not explain away the scene’s ambiguity."
+        ],
+        [
+          "10",
+          "“Your master’s servants” is retained without replacing the unnamed master with an interpretive identification."
+        ]
+      ]
+    },
+    {
+      "chapter": 30,
+      "verse_count": 31,
+      "notes": [
+        [
+          "02",
+          "Unlike David’s raids in chapter 27, these captors have not killed the people they took."
+        ],
+        [
+          "13–15",
+          "The Egyptian identifies himself as an Amalekite’s slave. His demand not to be killed or returned to his master is retained."
+        ],
+        [
+          "17",
+          "The Hebrew term translated “twilight” can refer to dawn or evening twilight. The interval continues to the following evening."
+        ],
+        [
+          "20",
+          "The relation of these flocks to the livestock already mentioned is compressed; the draft retains the separate movement and the declaration “David’s plunder” without assigning an unexpressed prior owner."
+        ],
+        [
+          "27–30",
+          "The pinned place names Bethel, Racal, and Bor-ashan are retained rather than replaced with alternative identifications."
+        ]
+      ]
+    },
+    {
+      "chapter": 31,
+      "verse_count": 13,
+      "notes": [
+        [
+          "03",
+          "The Hebrew description of Saul can express being wounded or being deeply distressed by the archers. “Badly stricken” leaves that difficulty visible."
+        ],
+        [
+          "05",
+          "The narrator says Saul is dead when the armor-bearer sees him. The account given by the Amalekite in 2 Samuel 1 is preserved separately."
+        ],
+        [
+          "06",
+          "“All his men” remains the narrator’s collective statement; the draft does not add an explanation limiting it."
+        ],
+        [
+          "12–13",
+          "The people of Jabesh burn the bodies, then bury the bones. Both actions are retained. Their earlier rescue by Saul is narrated in chapter 11."
+        ]
+      ]
+    }
+  ]
+}

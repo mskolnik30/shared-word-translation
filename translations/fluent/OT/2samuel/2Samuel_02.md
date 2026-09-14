@@ -4,152 +4,117 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-2samuel-1-5-biblical-fluency-2026-09-14
 ---
 
-## David Is Anointed King over Judah
+## David becomes king of Judah
 
 <p>
-v01: After this David inquired of the LORD, saying, “Will I go up to one of the cities of Judah?” The LORD said to him, “Go up.” David said, “Where will I go up?” He said, “To Hebron.”
-
-v02: So David went up there, and his two wives also, Ahinoam the Jezreelite and Abigail, the wife of Nabal the Carmelite.
-
-v03: David also brought up the men who were with him, each with his household, and they lived in the cities of Hebron.
-
-v04: Then the men of Judah came, and there they anointed David king over the house of Judah.
-
-They told David, saying, “The men of Jabesh-Gilead were the ones who buried Saul.”
-
-v05: So David sent messengers to the men of Jabesh-Gilead and said to them, “Blessed are you by the LORD because you showed this steadfast love to your lord Saul and buried him.
-
-v06: And now may the LORD show steadfast love and faithfulness to you. I also will do good to you because you have done this thing.
-
-v07: And now let your hands be strong and be courageous, for Saul your lord is dead, and the house of Judah has anointed me king over them.”
+v01: After this David inquired of the LORD, “Should I go up to one of Judah’s towns?” The LORD said, “Go up.” David asked, “Where?” “To Hebron,” came the answer.
+v02: David went up there with his two wives, Ahinoam of Jezreel and Abigail, the wife of Nabal of Carmel.
+v03: He also brought his men, each with his household, and they settled in the towns around Hebron.
 </p>
 
-## Ish-Bosheth Is Made King over Israel
+<p>
+v04: The men of Judah came and anointed David king over the house of Judah. David was told that the men of Jabesh-gilead had buried Saul.
+</p>
 
 <p>
-v08: Yet Abner son of Ner, commander of Saul’s army, took Ish-Bosheth son of Saul and brought him across to Mahanaim.
+v05: He sent messengers to the men of Jabesh-gilead: “May the LORD bless you for showing this steadfast love to your lord Saul by burying him.
+v06: May the LORD now show you steadfast love and faithfulness. I too will do you good because you have done this.
+v07: Let your hands be strong, and be brave. Your lord Saul is dead, and the house of Judah has anointed me king over them.”
+</p>
 
+## Ish-bosheth rules Israel
+
+<p>
+v08: But Abner son of Ner, Saul’s army commander, took Saul’s son Ish-bosheth across to Mahanaim.
 v09: He made him king over Gilead, the Ashurites, Jezreel, Ephraim, Benjamin, and all Israel.
-
-v10: Ish-Bosheth son of Saul was forty years old when he became king over Israel, and he reigned two years. Only the house of Judah followed David.
-
-v11: The number of days that David was king in Hebron over the house of Judah was seven years and six months.
 </p>
 
-## The Servants of David and Saul Meet at Gibeon
-
 <p>
-v12: Abner son of Ner and the servants of Ish-Bosheth son of Saul went out from Mahanaim to Gibeon.
-
-v13: Joab son of Zeruiah and the servants of David went out and met them by the pool of Gibeon. They sat down, these on one side of the pool and those on the other side of the pool.
-
-v14: Abner said to Joab, “Please let the young men arise and play before us.” Joab said, “Let them arise.”
-
-v15: So they arose and crossed over by number: twelve for Benjamin and Ish-Bosheth son of Saul, and twelve from the servants of David.
-
-v16: Each seized his opponent by the head and thrust his sword into his opponent’s side, so they fell down together. Therefore that place was called Helkath-Hazzurim, which is at Gibeon.
+v10: Ish-bosheth son of Saul was forty years old when he became king over Israel, and he reigned two years. Only the house of Judah followed David.
+v11: David was king over the house of Judah in Hebron for seven years and six months.
 </p>
 
-## A Fierce Battle Follows
+## The clash at Gibeon
 
 <p>
-v17: The battle was very fierce that day, and Abner and the men of Israel were struck before the servants of David.
-
-v18: The three sons of Zeruiah were there: Joab, Abishai, and Asahel. Asahel was swift on his feet like one of the gazelles that are in the field.
-
-v19: Asahel pursued Abner and did not turn to the right or to the left from following Abner.
-
-v20: Abner turned behind him and said, “Is that you, Asahel?” He said, “It is I.”
-
-v21: Abner said to him, “Turn aside to your right or to your left, seize one of the young men, and take his spoil for yourself.” But Asahel was not willing to turn aside from following him.
-
-v22: Abner again said to Asahel, “Turn aside from following me. Why should I strike you to the ground? How then could I lift my face to Joab your brother?”
-
-v23: But he refused to turn aside. So Abner struck him in the belly with the butt end of the spear, and the spear came out behind him. He fell there and died on the spot. And everyone who came to the place where Asahel fell and died stood still.
+v12: Abner son of Ner and the servants of Ish-bosheth son of Saul went out from Mahanaim to Gibeon.
+v13: Joab son of Zeruiah and David’s servants also went out. They met at the pool of Gibeon and sat on opposite sides of the pool.
 </p>
 
-## Abner Calls for an End to the Pursuit
-
 <p>
-v24: Yet Joab and Abishai pursued Abner. The sun was going down when they came to the hill of Ammah, which is before Giah, on the way to the wilderness of Gibeon.
-
-v25: The children of Benjamin gathered themselves together behind Abner and became one group, and they stood on the top of a hill.
-
-v26: Then Abner called to Joab and said, “Will the sword devour forever? Do you not know that it will be bitter in the end? How long before you tell the people to turn back from pursuing their brothers?”
-
-v27: Joab said, “As God lives, if you had not spoken, then surely only by morning would the people have gone up, each from pursuing his brother.”
-
-v28: So Joab blew the ram’s horn, and all the people stopped. They pursued Israel no more, and they fought no more.
+v14: Abner said to Joab, “Let the young men rise and put on a contest before us.” Joab answered, “Let them rise.”
+v15: They rose and crossed over in equal numbers: twelve for Benjamin and Ish-bosheth son of Saul, and twelve from David’s servants.
 </p>
 
-## The Two Forces Return Home
+<p>
+v16: Each grabbed his opponent’s head and drove his sword into his opponent’s side. They fell together. The place at Gibeon was called Helkath-hazzurim.
+v17: The battle that day was very fierce. Abner and Israel’s men were defeated by David’s servants.
+</p>
+
+## Asahel pursues Abner
 
 <p>
-v29: Abner and his men walked through the Arabah all that night. They crossed the Jordan, walked through all the Bithron, and came to Mahanaim.
+v18: Zeruiah’s three sons were there: Joab, Abishai, and Asahel. Asahel was as swift-footed as a gazelle in the open country.
+v19: Asahel pursued Abner, turning neither right nor left as he followed him.
+</p>
 
-v30: Joab returned from pursuing Abner and gathered all the people. From the servants of David, nineteen men were missing, besides Asahel.
+<p>
+v20: Abner looked behind him and asked, “Is that you, Asahel?” “It is,” he answered.
+v21: Abner said, “Turn to your right or left. Seize one of the young men and take his gear.” But Asahel would not turn away from him.
+</p>
 
-v31: But the servants of David had struck down from Benjamin and the men of Abner three hundred sixty men who died.
+<p>
+v22: Abner warned him again, “Turn away! Why should I strike you to the ground? How could I face your brother Joab?”
+v23: Asahel refused to turn away. Abner struck him in the belly with the butt of his spear, and the spear came out through his back. He fell and died there. Everyone who came to the place where Asahel had fallen stood still.
+</p>
 
-v32: They lifted up Asahel and buried him in his father’s tomb, which was in Bethlehem. Joab and his men walked all night, and the day dawned upon them at Hebron.
+## The pursuit ends
+
+<p>
+v24: Joab and Abishai pursued Abner. As the sun set, they reached the hill of Ammah opposite Giah, on the road to the wilderness of Gibeon.
+v25: The Benjaminites rallied behind Abner, formed a single group, and took their stand on a hilltop.
+</p>
+
+<p>
+v26: Abner called to Joab, “Must the sword devour forever? Do you not know this will end in bitterness? How long before you tell the men to stop pursuing their brothers?”
+v27: Joab answered, “As God lives, if you had not spoken, the men would have kept pursuing their brothers until morning.”
+</p>
+
+<p>
+v28: Joab sounded the ram’s horn. All the troops halted, stopped pursuing Israel, and ceased fighting.
+v29: Abner and his men walked through the Arabah all that night. They crossed the Jordan, passed through all Bithron, and reached Mahanaim.
+</p>
+
+<p>
+v30: Joab returned from pursuing Abner and gathered all his men. Nineteen of David’s servants were missing, besides Asahel.
+v31: David’s servants had killed three hundred sixty men from Benjamin and Abner’s forces.
+v32: They carried Asahel away and buried him in his father’s tomb at Bethlehem. Joab and his men walked all night and reached Hebron at dawn.
 </p>
 
 ## Notes
 
-v01: David begins his kingship by inquiring of the LORD rather than immediately moving to seize political opportunity.
+v10–11: Ish-bosheth’s two years and David’s seven years and six months in Hebron are retained as stated, without an added chronology.
 
-v04: David is first anointed king over Judah only. The kingdom remains divided between David’s house and Saul’s surviving dynasty.
+v09: The identity of the Ashurites named in the pinned Hebrew is uncertain.
 
-v05–07: David honors Jabesh-Gilead for burying Saul and seeks their support without denouncing their loyalty to Saul.
+v14–16: Abner proposes that the young men engage in a contest; the narrative immediately describes their killing one another. Helkath-hazzurim is associated with flints or blades, though its exact meaning is uncertain.
 
-v08: The name “Ish-Bosheth” means “man of shame.” 1 Chronicles preserves the form Eshbaal, “man of Baal.” The Samuel form likely reflects later substitution of “shame” for the divine element Baal.
+v23: The Hebrew specifies the butt or rear end of the spear, which passes through Asahel. This is not silently changed to its point.
 
-v09: “Ashurites” is textually uncertain and may refer to the Asherites or another regional group. TSW follows the Masoretic form.
+v27: Joab’s reply is difficult. It can refer to Abner’s present appeal stopping the pursuit, as here, or blame Abner’s earlier challenge for a pursuit that otherwise would have stopped earlier.
 
-v14: “play” is grimly ironic. What begins as a contest between selected young men becomes mutual killing and then full civil battle.
-
-v16: “Helkath-Hazzurim” is a difficult place-name, traditionally associated with the “field of sharp edges” or “field of swords.”
-
-v21–23: Abner repeatedly tries to avoid killing Asahel because he recognizes the likely blood feud with Joab. Asahel’s refusal turns pursuit into personal tragedy.
-
-v23: The spear’s “butt end” may have been sharpened or fitted with a point. The Hebrew emphasizes that it passes through Asahel.
-
-v26: Abner’s question “Shall the sword devour forever?” names the self-consuming character of Israelite civil war.
-
-v27: Joab’s response is difficult and may mean the pursuit would have ceased earlier if Abner had spoken sooner. TSW preserves the basic cessation sense.
-
-v29: “Bithron” may be a geographic region or route east of the Jordan; its exact location is uncertain.
+v29: Bithron is taken as a region; the difficult expression has also been understood in relation to the passage of the morning.
 
 ## Vocabulary
 
-v01: שָׁאַל בַּיהוָה (sha'al ba-YHWH)
-“To inquire of the LORD.” Seeking divine direction.
+v05–06: Steadfast love and faithfulness
+David describes the burial of Saul in relational language and asks the LORD to respond in kind.
 
-v04: מָשַׁח (mashach)
-“To anoint.” To install David as king.
-
-v05: חֶסֶד (ḥesed)
-“Steadfast love.” David’s description of Jabesh-Gilead’s loyalty to Saul.
-
-v08: שַׂר צָבָא (sar tsava)
-“Commander of the army.” Abner’s military office.
-
-v14: שָׂחַק (sachaq)
-“To play” or “perform.” Used ominously for the deadly contest.
-
-v16: חֶרֶב (cherev)
-“Sword.” The weapon of the paired combatants.
-
-v18: צְבִי (tsevi)
-“Gazelle.” The image for Asahel’s speed.
-
-v23: חֹמֶשׁ (chomesh)
-“Belly” or “abdomen.” The place where Asahel is struck.
-
-v26: אָכַל (akhal)
-“To eat” or “devour.” The sword is personified as consuming.
-
-v28: שׁוֹפָר (shofar)
-“Ram’s horn.” Joab’s signal ending the pursuit.
+v30–31: Nineteen men and Asahel; three hundred sixty
+The casualties of the two forces remain distinct.

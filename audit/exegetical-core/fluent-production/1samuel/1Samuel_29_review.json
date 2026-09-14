@@ -2,200 +2,115 @@
   "book": "1 Samuel",
   "chapter": 29,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "publication_allowed": false,
+  "revision_id": "fluent-1samuel-17-31-biblical-fluency-2026-09-14",
+  "supersedes": {
+    "commit": "f35c4160019aa32e5b0c0f4af167df1759cde7d0",
+    "path": "audit/exegetical-core/fluent-production/1samuel/1Samuel_29_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "1Sam",
+    "book_verse_count": 811,
+    "scope_chapters": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/1Sam.xml",
-    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/1Sam.xml",
     "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Samuel 29:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 1,
-            "source_ref": "1 Samuel 29:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "c00ced6353834041c126f2eab5a5d0f21db221a6b4dd0de651d233d4640523b8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c00ced6353834041c126f2eab5a5d0f21db221a6b4dd0de651d233d4640523b8"
-      },
-      "2": {
-        "source_ref": "1 Samuel 29:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 2,
-            "source_ref": "1 Samuel 29:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "9f2efad1bb876ead19681e3a2d6b624bf7ffd37fea18e0b78288cf8b951ab0c5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9f2efad1bb876ead19681e3a2d6b624bf7ffd37fea18e0b78288cf8b951ab0c5"
-      },
-      "3": {
-        "source_ref": "1 Samuel 29:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 3,
-            "source_ref": "1 Samuel 29:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "8d0888e30684fb905ce08cf160b337f686d7687fcd002fd03f8c91bec7d25cbb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8d0888e30684fb905ce08cf160b337f686d7687fcd002fd03f8c91bec7d25cbb"
-      },
-      "4": {
-        "source_ref": "1 Samuel 29:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 4,
-            "source_ref": "1 Samuel 29:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "64ba2eb2c5703b16a3cce673b7e80f03ba520c444fd5e63cb602a60115304642"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "64ba2eb2c5703b16a3cce673b7e80f03ba520c444fd5e63cb602a60115304642"
-      },
-      "5": {
-        "source_ref": "1 Samuel 29:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 5,
-            "source_ref": "1 Samuel 29:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "7ab16884d90eb20a5a23d5ae862b9e02bb59a5a9ff8d0eb82b4edd2625470934"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7ab16884d90eb20a5a23d5ae862b9e02bb59a5a9ff8d0eb82b4edd2625470934"
-      },
-      "6": {
-        "source_ref": "1 Samuel 29:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 6,
-            "source_ref": "1 Samuel 29:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a33ed91918d44b742ec302d5e759354937985185eed105982491216edc25c2ec"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a33ed91918d44b742ec302d5e759354937985185eed105982491216edc25c2ec"
-      },
-      "7": {
-        "source_ref": "1 Samuel 29:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 7,
-            "source_ref": "1 Samuel 29:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "ac92d9eff958417292134a284f0dd16f54c1acedd51b575631c18f13abd7ec88"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ac92d9eff958417292134a284f0dd16f54c1acedd51b575631c18f13abd7ec88"
-      },
-      "8": {
-        "source_ref": "1 Samuel 29:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 8,
-            "source_ref": "1 Samuel 29:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "02212d4a8d92e481f83a859b0dbb84c8b70c0e547d7f44c6fc15134936f4ab47"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "02212d4a8d92e481f83a859b0dbb84c8b70c0e547d7f44c6fc15134936f4ab47"
-      },
-      "9": {
-        "source_ref": "1 Samuel 29:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 9,
-            "source_ref": "1 Samuel 29:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "f6cb78fa73e927e8e94c3b07e2abe19a78831e7d39673a145a91bfe864b9b8ab"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f6cb78fa73e927e8e94c3b07e2abe19a78831e7d39673a145a91bfe864b9b8ab"
-      },
-      "10": {
-        "source_ref": "1 Samuel 29:10 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 10,
-            "source_ref": "1 Samuel 29:10 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "cdd2666dec535a88a7b2cbe0cbb60f24453ee11211bd0c734219964de5b1436a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cdd2666dec535a88a7b2cbe0cbb60f24453ee11211bd0c734219964de5b1436a"
-      },
-      "11": {
-        "source_ref": "1 Samuel 29:11 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 29,
-            "verse": 11,
-            "source_ref": "1 Samuel 29:11 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "6a062b4b9f955f2576e82df7f78f4a87fec748e60f24fcfd474c6eb82479f56c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6a062b4b9f955f2576e82df7f78f4a87fec748e60f24fcfd474c6eb82479f56c"
-      }
+    "sha256": "06a23dc39dc12f38a8064ac667163fbf02cf581bb44c6a7b531424aef34b5252",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/1Sam.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "public_versification_note": "1 Samuel 17–31: 404 public verses bind to 405 exact original records. Public 1Sam 20:42 binds complete Hebrew 20:42 and 21:1; public 21:1–15 binds Hebrew 21:2–16; public 23:29 binds Hebrew 24:1; public 24:1–22 binds Hebrew 24:2–23. All other verses in this batch are one-to-one."
+  },
+  "chapter_binding": {
+    "chapter": 29,
+    "verse_count": 11,
+    "path": "translations/fluent/OT/1samuel/1Samuel_29.md",
+    "before_sha256": "d229e8589bae22ae9ed1d83c02ed456edba3fad35c5cfa29371ff0d8d33e7b96",
+    "after_sha256": "94465a61d5aeee9e22f45245b7fd8284c09ad1bfc9550eaaa970374cefe13bf9",
+    "tsw_comparator_path": "books/OT/1samuel/1Samuel_29.md",
+    "tsw_comparator_sha256": "89b946d9f36969972d68e7aeda715794399c735c2d904bd706ecb8030bf61ae0"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-14-1samuel-17-31/1samuel-verse-review.json",
+  "public_versification": {
+    "29:1": [
+      "1Sam 29:1"
+    ],
+    "29:2": [
+      "1Sam 29:2"
+    ],
+    "29:3": [
+      "1Sam 29:3"
+    ],
+    "29:4": [
+      "1Sam 29:4"
+    ],
+    "29:5": [
+      "1Sam 29:5"
+    ],
+    "29:6": [
+      "1Sam 29:6"
+    ],
+    "29:7": [
+      "1Sam 29:7"
+    ],
+    "29:8": [
+      "1Sam 29:8"
+    ],
+    "29:9": [
+      "1Sam 29:9"
+    ],
+    "29:10": [
+      "1Sam 29:10"
+    ],
+    "29:11": [
+      "1Sam 29:11"
+    ]
+  },
+  "key_decisions": [
+    {
+      "location": "1 Samuel 29:3",
+      "delta": "F3",
+      "decision": "Preserves Achish’s imprecise days-or-years expression without adding an explicit self-correction; his confidence remains his assessment.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "1 Samuel 29:6",
+      "delta": "F3",
+      "decision": "Preserves Achish’s oath by the LORD and his assessment as speech.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "1 Samuel 29:8",
+      "delta": "F3",
+      "decision": "Preserves ambiguous loyalty in David’s protest without revealing an unspoken plan.",
+      "disposition": "REVIEW_PENDING"
+    },
+    {
+      "location": "1 Samuel 29:10",
+      "delta": "F3",
+      "decision": "Preserves your-master designation and repeated early departure.",
+      "disposition": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/1samuel/1Samuel_29.md",
-    "blob_sha": "283214d2b59ed91845b0ccf2199227ba7953a9b7"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ],
+  "qa_scope": "structural"
 }

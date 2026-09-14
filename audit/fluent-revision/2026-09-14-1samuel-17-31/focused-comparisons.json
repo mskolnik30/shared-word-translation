@@ -1,0 +1,1768 @@
+{
+  "qualification": "Selected authoring reread after the complete first Hebrew reading and source-led drafting; not independent editorial review.",
+  "rows": [
+    {
+      "reference": "1 Samuel 17:4",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:4",
+          "source_verse_sha256": "3fe6724cdebe3750f328a6beaf15984d352435a21851e64d25e5e73ff2edf38f",
+          "hebrew": "וַ/יֵּצֵ֤א אִֽישׁ הַ/בֵּנַ֨יִם֙ מִ/מַּחֲנ֣וֹת פְּלִשְׁתִּ֔ים גָּלְיָ֥ת שְׁמ֖/וֹ מִ/גַּ֑ת גָּבְה֕/וֹ שֵׁ֥שׁ אַמּ֖וֹת וָ/זָֽרֶת",
+          "annotations": []
+        }
+      ],
+      "after": "A champion came out from the Philistine camps. His name was Goliath, from Gath, and he stood six cubits and a span tall.",
+      "rationale": "Retains the pinned height and ancient units; champion renders the man between the armies."
+    },
+    {
+      "reference": "1 Samuel 17:7",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:7",
+          "source_verse_sha256": "b838276a3eade07a3f1848800a2b7113a331ded5b78a441d0455c81be90dc882",
+          "hebrew": "ו/חץ חֲנִית֗/וֹ כִּ/מְנוֹר֙ אֹֽרְגִ֔ים וְ/לַהֶ֣בֶת חֲנִית֔/וֹ שֵׁשׁ מֵא֥וֹת שְׁקָלִ֖ים בַּרְזֶ֑ל וְ/נֹשֵׂ֥א הַ/צִּנָּ֖ה הֹלֵ֥ךְ לְ/פָנָֽי/ו",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ו/חץ</catchWord><rdg type=\"x-qere\"><w lemma=\"c/6086\" morph=\"HC/Ncmsc\" id=\"09vQR\">וְ/עֵ֣ץ</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "His spear shaft was like a weaver’s beam, and its iron head weighed six hundred shekels. A shield-bearer walked ahead of him.",
+      "rationale": "Follows the qere shaft and retains the textile image, iron and separate shield-bearer."
+    },
+    {
+      "reference": "1 Samuel 17:12",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:12",
+          "source_verse_sha256": "021c26c83ba5a5417568cc1fd38cdd1ef4a3e5fb85c132c3f03a81730e3428e9",
+          "hebrew": "וְ/דָוִד֩ בֶּן אִ֨ישׁ אֶפְרָתִ֜י הַ/זֶּ֗ה מִ/בֵּ֥ית לֶ֨חֶם֙ יְהוּדָ֔ה וּ/שְׁמ֣/וֹ יִשַׁ֔י וְ/ל֖/וֹ שְׁמֹנָ֣ה בָנִ֑ים וְ/הָ/אִישׁ֙ בִּ/ימֵ֣י שָׁא֔וּל זָקֵ֖ן בָּ֥א בַ/אֲנָשִֽׁים",
+          "annotations": []
+        }
+      ],
+      "after": "David was the son of an Ephrathite from Bethlehem in Judah named Jesse. Jesse had eight sons and was already an old man in Saul’s time.",
+      "rationale": "Keeps the fresh introduction and eight sons; difficult age phrase is noted."
+    },
+    {
+      "reference": "1 Samuel 17:18",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:18",
+          "source_verse_sha256": "93942559daac1c7f91dd1d3cc23e4ebc3b9495738e1aba70e4dc5f8d00421225",
+          "hebrew": "וְ֠/אֵת עֲשֶׂ֜רֶת חֲרִצֵ֤י הֶֽ/חָלָב֙ הָ/אֵ֔לֶּה תָּבִ֖יא לְ/שַׂר הָ/אָ֑לֶף וְ/אֶת אַחֶ֨י/ךָ֙ תִּפְקֹ֣ד לְ/שָׁל֔וֹם וְ/אֶת עֲרֻבָּתָ֖/ם תִּקָּֽח",
+          "annotations": []
+        }
+      ],
+      "after": "Take these ten portions of cheese to their commander of a thousand. Find out how your brothers are and bring back a token from them.",
+      "rationale": "Keeps the commander's rank and difficult pledge/token expression, flagged in a note."
+    },
+    {
+      "reference": "1 Samuel 17:19",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:19",
+          "source_verse_sha256": "2318beef7f352628fd4397cc1f385a3b2eced07780682bf2280c688c24d205a7",
+          "hebrew": "וְ/שָׁא֤וּל וְ/הֵ֨מָּה֙ וְ/כָל אִ֣ישׁ יִשְׂרָאֵ֔ל בְּ/עֵ֖מֶק הָֽאֵלָ֑ה נִלְחָמִ֖ים עִם פְּלִשְׁתִּֽים",
+          "annotations": []
+        }
+      ],
+      "after": "They are with Saul and all the men of Israel in the Valley of Elah, fighting the Philistines.”",
+      "rationale": "Keeps Jesse’s explanation within his speech. The Hebrew can also be read as a return to the narrator; the note preserves this speaker uncertainty."
+    },
+    {
+      "reference": "1 Samuel 17:25",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:25",
+          "source_verse_sha256": "6c9da8298d2a0ee688d68e25fc3216d26ad7957315c3527e5162813f046d444b",
+          "hebrew": "וַ/יֹּ֣אמֶר אִ֣ישׁ יִשְׂרָאֵ֗ל הַ/רְּאִיתֶם֙ הָ/אִ֤ישׁ הָֽ/עֹלֶה֙ הַ/זֶּ֔ה כִּ֛י לְ/חָרֵ֥ף אֶת יִשְׂרָאֵ֖ל עֹלֶ֑ה וְֽ֠/הָיָה הָ/אִ֨ישׁ אֲשֶׁר יַכֶּ֜/נּוּ יַעְשְׁרֶ֥/נּוּ הַ/מֶּ֣לֶךְ עֹ֣שֶׁר גָּד֗וֹל וְ/אֶת בִּתּ/וֹ֙ יִתֶּן ל֔/וֹ וְ/אֵת֙ בֵּ֣ית אָבִ֔י/ו יַעֲשֶׂ֥ה חָפְשִׁ֖י בְּ/יִשְׂרָאֵֽל",
+          "annotations": []
+        }
+      ],
+      "after": "The Israelites were saying, “Have you seen this man coming up? He comes to defy Israel. The king will make the man who kills him very rich, give him his daughter, and free his father’s household from obligations in Israel.”",
+      "rationale": "Preserves reported rewards and qualifies the undefined household exemption in a note."
+    },
+    {
+      "reference": "1 Samuel 17:29",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:29",
+          "source_verse_sha256": "ccd0d817811a9b013a10357f2af4ebfadb1ee412a2b709752c85fae788fb797e",
+          "hebrew": "וַ/יֹּ֣אמֶר דָּוִ֔ד מֶ֥ה עָשִׂ֖יתִי עָ֑תָּה הֲ/ל֖וֹא דָּבָ֥ר הֽוּא",
+          "annotations": []
+        }
+      ],
+      "after": "David answered, “What have I done now? Can I not ask a question?”",
+      "rationale": "Renders the terse word/question idiom; alternative force remains in the note."
+    },
+    {
+      "reference": "1 Samuel 17:35",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:35",
+          "source_verse_sha256": "9e81028ab3a84ef421087cd18d2f9e28e4e12d87af8062976b2aeca6319fb67d",
+          "hebrew": "וְ/יָצָ֧אתִי אַחֲרָ֛י/ו וְ/הִכִּתִ֖י/ו וְ/הִצַּ֣לְתִּי מִ/פִּ֑י/ו וַ/יָּ֣קָם עָלַ֔/י וְ/הֶחֱזַ֨קְתִּי֙ בִּ/זְקָנ֔/וֹ וְ/הִכִּתִ֖י/ו וַ/הֲמִיתִּֽי/ו",
+          "annotations": []
+        }
+      ],
+      "after": "I went after it, struck it, and rescued the sheep from its mouth. If it turned on me, I caught it by the beard, struck it, and killed it.",
+      "rationale": "Retains the unusual beard image and all actions in the rescue."
+    },
+    {
+      "reference": "1 Samuel 17:43",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:43",
+          "source_verse_sha256": "150dbeb2361f99458816f0b5f0397a249e87c64b6f25406668edea7ffb4891d7",
+          "hebrew": "וַ/יֹּ֤אמֶר הַ/פְּלִשְׁתִּי֙ אֶל דָּוִ֔ד הֲ/כֶ֣לֶב אָנֹ֔כִי כִּֽי אַתָּ֥ה בָֽא אֵלַ֖/י בַּ/מַּקְל֑וֹת וַ/יְקַלֵּ֧ל הַ/פְּלִשְׁתִּ֛י אֶת דָּוִ֖ד בֵּ/אלֹהָֽי/ו",
+          "annotations": []
+        }
+      ],
+      "after": "The Philistine said to David, “Am I a dog, that you come at me with sticks?” Then he cursed David by his gods.",
+      "rationale": "Keeps the dog insult, plural sticks and divine invocation as reported speech."
+    },
+    {
+      "reference": "1 Samuel 17:45",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:45",
+          "source_verse_sha256": "62b3cd5f1800087b507e0b3c587fb0fb58efe770db1a66ac8a99e3138f7eddb3",
+          "hebrew": "וַ/יֹּ֤אמֶר דָּוִד֙ אֶל הַ/פְּלִשְׁתִּ֔י אַתָּה֙ בָּ֣א אֵלַ֔/י בְּ/חֶ֖רֶב וּ/בַ/חֲנִ֣ית וּ/בְ/כִיד֑וֹן וְ/אָנֹכִ֣י בָֽא אֵלֶ֗י/ךָ בְּ/שֵׁם֙ יְהוָ֣ה צְבָא֔וֹת אֱלֹהֵ֛י מַעַרְכ֥וֹת יִשְׂרָאֵ֖ל אֲשֶׁ֥ר חֵרַֽפְתָּ",
+          "annotations": []
+        }
+      ],
+      "after": "David answered, “You come at me with sword, spear, and javelin. I come at you in the name of the LORD of Armies, the God of Israel’s ranks, whom you have defied.",
+      "rationale": "Keeps three weapons and the repeated defiance against divine authority."
+    },
+    {
+      "reference": "1 Samuel 17:46",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:46",
+          "source_verse_sha256": "22d181736c39566ca0f85b1e503f40c46233b523c7263936f06d4f67dd6ee09e",
+          "hebrew": "הַ/יּ֣וֹם הַ/זֶּ֡ה יְסַגֶּרְ/ךָ֩ יְהוָ֨ה בְּ/יָדִ֜/י וְ/הִכִּיתִ֗/ךָ וַ/הֲסִרֹתִ֤י אֶת רֹֽאשְׁ/ךָ֙ מֵ/עָלֶ֔י/ךָ וְ/נָ֨תַתִּ֜י פֶּ֣גֶר מַחֲנֵ֤ה פְלִשְׁתִּים֙ הַ/יּ֣וֹם הַ/זֶּ֔ה לְ/ע֥וֹף הַ/שָּׁמַ֖יִם וּ/לְ/חַיַּ֣ת הָ/אָ֑רֶץ וְ/יֵֽדְעוּ֙ כָּל הָ/אָ֔רֶץ כִּ֛י יֵ֥שׁ אֱלֹהִ֖ים לְ/יִשְׂרָאֵֽל",
+          "annotations": []
+        }
+      ],
+      "after": "Today the LORD will hand you over to me. I will strike you down and cut off your head. Today I will give the bodies of the Philistine army to the birds of the sky and the beasts of the earth. Then the whole earth will know that Israel has a God.",
+      "rationale": "Retains beheading, corpses and worldwide recognition without softening violence."
+    },
+    {
+      "reference": "1 Samuel 17:50",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:50",
+          "source_verse_sha256": "ac0a4ff416b2a4bb02ec8d00b000370064a3dc84001e660391188b92d89f814b",
+          "hebrew": "וַ/יֶּחֱזַ֨ק דָּוִ֤ד מִן הַ/פְּלִשְׁתִּי֙ בַּ/קֶּ֣לַע וּ/בָ/אֶ֔בֶן וַ/יַּ֥ךְ אֶת הַ/פְּלִשְׁתִּ֖י וַ/יְמִיתֵ֑/הוּ וְ/חֶ֖רֶב אֵ֥ין בְּ/יַד דָּוִֽד",
+          "annotations": []
+        }
+      ],
+      "after": "So David overpowered the Philistine with a sling and a stone. He struck him down and killed him, though David had no sword in his hand.",
+      "rationale": "Keeps the summary death statement without harmonizing it with verse 51."
+    },
+    {
+      "reference": "1 Samuel 17:51",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:51",
+          "source_verse_sha256": "d72810a0610f1bed5c2f7962611f820396047ffc6c869e3a0d1a3137ec064560",
+          "hebrew": "וַ/יָּ֣רָץ דָּ֠וִד וַ/יַּעֲמֹ֨ד אֶל הַ/פְּלִשְׁתִּ֜י וַ/יִּקַּ֣ח אֶת חַ֠רְבּ/וֹ וַֽ/יִּשְׁלְפָ֤/הּ מִ/תַּעְרָ/הּ֙ וַ/יְמֹ֣תְתֵ֔/הוּ וַ/יִּכְרָת בָּ֖/הּ אֶת רֹאשׁ֑/וֹ וַ/יִּרְא֧וּ הַ/פְּלִשְׁתִּ֛ים כִּֽי מֵ֥ת גִּבּוֹרָ֖/ם וַ/יָּנֻֽסוּ",
+          "annotations": []
+        }
+      ],
+      "after": "David ran and stood over him. He took the Philistine’s sword, drew it from its sheath, and killed him, cutting off his head with it. When the Philistines saw that their champion was dead, they fled.",
+      "rationale": "Retains repeated killing and beheading rather than silently rewriting the sequence."
+    },
+    {
+      "reference": "1 Samuel 17:52",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:52",
+          "source_verse_sha256": "ff5432b6d03e23abaedd198b8a0d747e11c3ddfc14470e580dc90cf046e1c92b",
+          "hebrew": "וַ/יָּקֻ֣מוּ אַנְשֵׁי֩ יִשְׂרָאֵ֨ל וִ/יהוּדָ֜ה וַ/יָּרִ֗עוּ וַֽ/יִּרְדְּפוּ֙ אֶת הַ/פְּלִשְׁתִּ֔ים עַד בּוֹאֲ/ךָ֣ גַ֔יְא וְ/עַ֖ד שַׁעֲרֵ֣י עֶקְר֑וֹן וַֽ/יִּפְּל֞וּ חַֽלְלֵ֤י פְלִשְׁתִּים֙ בְּ/דֶ֣רֶךְ שַׁעֲרַ֔יִם וְ/עַד גַּ֖ת וְ/עַד עֶקְרֽוֹן",
+          "annotations": []
+        }
+      ],
+      "after": "The men of Israel and Judah rose with a shout and pursued the Philistines as far as the entrance to the valley and the gates of Ekron. Philistine bodies lay along the road to Shaaraim, all the way to Gath and Ekron.",
+      "rationale": "Keeps the pinned valley reading and named route; textual question noted."
+    },
+    {
+      "reference": "1 Samuel 17:54",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:54",
+          "source_verse_sha256": "595882c4f5acb9ac0d5674124cbad6e59d1fa09292cf4a09eb8320febdd6fae8",
+          "hebrew": "וַ/יִּקַּ֤ח דָּוִד֙ אֶת רֹ֣אשׁ הַ/פְּלִשְׁתִּ֔י וַ/יְבִאֵ֖/הוּ יְרוּשָׁלִָ֑ם וְ/אֶת כֵּלָ֖י/ו שָׂ֥ם בְּ/אָהֳלֽ/וֹ",
+          "annotations": []
+        }
+      ],
+      "after": "David took the Philistine’s head to Jerusalem and put his weapons in his own tent.",
+      "rationale": "Retains Jerusalem without supplying an unrecorded date or harmonization."
+    },
+    {
+      "reference": "1 Samuel 17:55",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:55",
+          "source_verse_sha256": "b45b8e696d56aee7186593a720c9cde12f3f077a2c664f70e90a758f6b77cb42",
+          "hebrew": "וְ/כִ/רְא֨וֹת שָׁא֜וּל אֶת דָּוִ֗ד יֹצֵא֙ לִ/קְרַ֣את הַ/פְּלִשְׁתִּ֔י אָמַ֗ר אֶל אַבְנֵר֙ שַׂ֣ר הַ/צָּבָ֔א בֶּן מִי זֶ֥ה הַ/נַּ֖עַר אַבְנֵ֑ר וַ/יֹּ֣אמֶר אַבְנֵ֔ר חֵֽי נַפְשְׁ/ךָ֥ הַ/מֶּ֖לֶךְ אִם יָדָֽעְתִּי",
+          "annotations": []
+        }
+      ],
+      "after": "When Saul had seen David going out to face the Philistine, he asked his army commander Abner, “Whose son is that young man, Abner?” “As you live, Your Majesty, I do not know,” Abner replied.",
+      "rationale": "Marks the narrative’s return to the earlier moment and preserves the father question."
+    },
+    {
+      "reference": "1 Samuel 17:58",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 17:58",
+          "source_verse_sha256": "140e13213eb84b1ecadb69580020c8fda85d08b19f9b5aea33fa9b731de64de2",
+          "hebrew": "וַ/יֹּ֤אמֶר אֵלָי/ו֙ שָׁא֔וּל בֶּן מִ֥י אַתָּ֖ה הַ/נָּ֑עַר וַ/יֹּ֣אמֶר דָּוִ֔ד בֶּֽן עַבְדְּ/ךָ֥ יִשַׁ֖י בֵּ֥ית הַלַּחְמִֽי",
+          "annotations": []
+        }
+      ],
+      "after": "Saul asked, “Whose son are you, young man?” David answered, “I am the son of your servant Jesse of Bethlehem.”",
+      "rationale": "Retains the precise familial answer and servant designation."
+    },
+    {
+      "reference": "1 Samuel 18:1",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:1",
+          "source_verse_sha256": "231fedad29551c66dfc7894e9a6070bf088b6ee7cfb5fcf51f6c214faf7a2e18",
+          "hebrew": "וַ/יְהִ֗י כְּ/כַלֹּת/וֹ֙ לְ/דַבֵּ֣ר אֶל שָׁא֔וּל וְ/נֶ֨פֶשׁ֙ יְה֣וֹנָתָ֔ן נִקְשְׁרָ֖ה בְּ/נֶ֣פֶשׁ דָּוִ֑ד ו/יאהבו יְהוֹנָתָ֖ן כְּ/נַפְשֽׁ/וֹ",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ו/יאהבו</catchWord><rdg type=\"x-qere\"><w lemma=\"c/157\" morph=\"HC/Vqw3ms/Sp3ms\" id=\"097PM\">וַ/יֶּאֱהָבֵ֥/הוּ</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "When David finished speaking with Saul, Jonathan’s life became bound to David’s life, and Jonathan loved him as himself.",
+      "rationale": "Preserves the binding of lives and unqualified love, without assigning a modern relationship category."
+    },
+    {
+      "reference": "1 Samuel 18:3",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:3",
+          "source_verse_sha256": "44f15adc282c386a16b092a529e5111ae473273df66f1249ca19ebe6e7121990",
+          "hebrew": "וַ/יִּכְרֹ֧ת יְהוֹנָתָ֛ן וְ/דָוִ֖ד בְּרִ֑ית בְּ/אַהֲבָת֥/וֹ אֹת֖/וֹ כְּ/נַפְשֽׁ/וֹ",
+          "annotations": []
+        }
+      ],
+      "after": "Jonathan made a covenant with David because he loved him as himself.",
+      "rationale": "Keeps covenant and the repeated reason of love."
+    },
+    {
+      "reference": "1 Samuel 18:6",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:6",
+          "source_verse_sha256": "2b307ccc40e0f893bd05b7a5070f8d1bd0a903238237daee5d11dc5cf5a8aee6",
+          "hebrew": "וַ/יְהִ֣י בְּ/בוֹאָ֗/ם בְּ/שׁ֤וּב דָּוִד֙ מֵ/הַכּ֣וֹת אֶת הַ/פְּלִשְׁתִּ֔י וַ/תֵּצֶ֨אנָה הַ/נָּשִׁ֜ים מִ/כָּל עָרֵ֤י יִשְׂרָאֵל֙ ל/שור וְ/הַ/מְּחֹל֔וֹת לִ/קְרַ֖את שָׁא֣וּל הַ/מֶּ֑לֶךְ בְּ/תֻפִּ֥ים בְּ/שִׂמְחָ֖ה וּ/בְ/שָׁלִשִֽׁים",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ל/שור</catchWord><rdg type=\"x-qere\"><w lemma=\"l/7891\" morph=\"HR/Vqc\" id=\"09UWS\">לָ/שִׁ֣יר</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "As they returned, when David came back from killing the Philistine, women came out from all Israel’s towns to meet King Saul. They sang and danced joyfully, with tambourines and other instruments.",
+      "rationale": "Retains women meeting Saul and qualifies the uncertain instrument by a note."
+    },
+    {
+      "reference": "1 Samuel 18:7",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:7",
+          "source_verse_sha256": "882099b63b79629299177b8a905cdb958cf782f524054aa20924f2f994f9a9b3",
+          "hebrew": "וַֽ/תַּעֲנֶ֛ינָה הַ/נָּשִׁ֥ים הַֽ/מְשַׂחֲק֖וֹת וַ/תֹּאמַ֑רְןָ הִכָּ֤ה שָׁאוּל֙ ב/אלפ/ו וְ/דָוִ֖ד בְּ/רִבְבֹתָֽי/ו",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ב/אלפ/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"b/505\" n=\"0.1\" morph=\"HR/Acbpc/Sp3ms\" id=\"09RJK\">בַּ/אֲלָפָ֔י/ו</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "As they celebrated, the women answered one another: “Saul has struck down his thousands, and David his tens of thousands.”",
+      "rationale": "Keeps responsive poetry, qere thousands and the asymmetric praise."
+    },
+    {
+      "reference": "1 Samuel 18:10",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:10",
+          "source_verse_sha256": "78845ab5b679d8cfbcd983d6e8e75abe6f9fa8998645d090abc070a97d45f0cb",
+          "hebrew": "וַ/יְהִ֣י מִֽ/מָּחֳרָ֗ת וַ/תִּצְלַ֣ח רוּחַ֩ אֱלֹהִ֨ים רָעָ֤ה אֶל שָׁאוּל֙ וַ/יִּתְנַבֵּ֣א בְ/תוֹךְ הַ/בַּ֔יִת וְ/דָוִ֛ד מְנַגֵּ֥ן בְּ/יָד֖/וֹ כְּ/י֣וֹם בְּ/י֑וֹם וְ/הַ/חֲנִ֖ית בְּ/יַד שָׁאֽוּל",
+          "annotations": []
+        }
+      ],
+      "after": "The next day a harmful spirit from God rushed upon Saul, and he prophesied inside the house. David was playing as he did each day, and Saul had a spear in his hand.",
+      "rationale": "Retains the same prophesying verb rather than silently diagnosing Saul; contextual ambiguity noted."
+    },
+    {
+      "reference": "1 Samuel 18:18",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:18",
+          "source_verse_sha256": "b7458dabc2a5ec71be47ef2335876f6ba96f91b110d24e4d9eb6ca761ba54ff9",
+          "hebrew": "וַ/יֹּ֨אמֶר דָּוִ֜ד אֶל שָׁא֗וּל מִ֤י אָֽנֹכִי֙ וּ/מִ֣י חַיַּ֔/י מִשְׁפַּ֥חַת אָבִ֖/י בְּ/יִשְׂרָאֵ֑ל כִּֽי אֶהְיֶ֥ה חָתָ֖ן לַ/מֶּֽלֶךְ",
+          "annotations": []
+        }
+      ],
+      "after": "David answered, “Who am I, and what is my family, my father’s clan in Israel, that I should become the king’s son-in-law?”",
+      "rationale": "Uses kinship reading of the difficult life/family phrase, flagged in a note."
+    },
+    {
+      "reference": "1 Samuel 18:21",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:21",
+          "source_verse_sha256": "ece7b8f058a8a1eda4478a38f6a878f8a0d3653e9ddff495934b309fb3b1eea2",
+          "hebrew": "וַ/יֹּ֨אמֶר שָׁא֜וּל אֶתְּנֶ֤/נָּה לּ/וֹ֙ וּ/תְהִי ל֣/וֹ לְ/מוֹקֵ֔שׁ וּ/תְהִי ב֖/וֹ יַד פְּלִשְׁתִּ֑ים וַ/יֹּ֤אמֶר שָׁאוּל֙ אֶל דָּוִ֔ד בִּ/שְׁתַּ֛יִם תִּתְחַתֵּ֥ן בִּ֖/י הַ/יּֽוֹם",
+          "annotations": []
+        }
+      ],
+      "after": "“I will give her to him,” Saul thought. “She can be a snare for him, so the Philistines’ hand will strike him.” He told David, “Now you have a second chance to become my son-in-law.”",
+      "rationale": "Keeps snare and hand imagery; second-chance rendering of the difficult in-two phrase is noted."
+    },
+    {
+      "reference": "1 Samuel 18:25",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:25",
+          "source_verse_sha256": "f2d9d8e7d2c14ab3f647ab888dc152263d6479e27909431c495169ff4ce21108",
+          "hebrew": "וַ/יֹּ֨אמֶר שָׁא֜וּל כֹּֽה תֹאמְר֣וּ לְ/דָוִ֗ד אֵֽין חֵ֤פֶץ לַ/מֶּ֨לֶךְ֙ בְּ/מֹ֔הַר כִּ֗י בְּ/מֵאָה֙ עָרְל֣וֹת פְּלִשְׁתִּ֔ים לְ/הִנָּקֵ֖ם בְּ/אֹיְבֵ֣י הַ/מֶּ֑לֶךְ וְ/שָׁא֣וּל חָשַׁ֔ב לְ/הַפִּ֥יל אֶת דָּוִ֖ד בְּ/יַד פְּלִשְׁתִּֽים",
+          "annotations": []
+        }
+      ],
+      "after": "Saul said, “Tell David, ‘The king wants no bride-price except a hundred Philistine foreskins, to take vengeance on his enemies.’” Saul planned to make David fall into Philistine hands.",
+      "rationale": "Retains the bodily demand and the narrator’s exposure of Saul’s intent."
+    },
+    {
+      "reference": "1 Samuel 18:27",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:27",
+          "source_verse_sha256": "b97da34fe01401e7b0838ebda05145056dc06876f1037c844c1ccb0361a60f1d",
+          "hebrew": "וַ/יָּ֨קָם דָּוִ֜ד וַ/יֵּ֣לֶךְ ה֣וּא וַ/אֲנָשָׁ֗י/ו וַ/יַּ֣ךְ בַּ/פְּלִשְׁתִּים֮ מָאתַ֣יִם אִישׁ֒ וַ/יָּבֵ֤א דָוִד֙ אֶת עָרְלֹ֣תֵי/הֶ֔ם וַ/יְמַלְא֣וּ/ם לַ/מֶּ֔לֶךְ לְ/הִתְחַתֵּ֖ן בַּ/מֶּ֑לֶךְ וַ/יִּתֶּן ל֥/וֹ שָׁא֛וּל אֶת מִיכַ֥ל בִּתּ֖/וֹ לְ/אִשָּֽׁה",
+          "annotations": []
+        }
+      ],
+      "after": "David went out with his men and killed two hundred Philistines. He brought their foreskins and presented the full number to the king, so he could become his son-in-law. Saul gave him his daughter Michal as his wife.",
+      "rationale": "Preserves two hundred against the demand for one hundred and the explicit mutilation."
+    },
+    {
+      "reference": "1 Samuel 18:28",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 18:28",
+          "source_verse_sha256": "37c9fa236df3a29fea1af5640ec9995569af3ab13d3f45e8c515cb4bd4db8cf0",
+          "hebrew": "וַ/יַּ֤רְא שָׁאוּל֙ וַ/יֵּ֔דַע כִּ֥י יְהוָ֖ה עִם דָּוִ֑ד וּ/מִיכַ֥ל בַּת שָׁא֖וּל אֲהֵבַֽתְ/הוּ",
+          "annotations": []
+        }
+      ],
+      "after": "Saul saw and knew that the LORD was with David and that his daughter Michal loved him.",
+      "rationale": "Keeps both grounds for Saul’s recognition."
+    },
+    {
+      "reference": "1 Samuel 19:9",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 19:9",
+          "source_verse_sha256": "06fb0816374c5789f4c0a6defe3a9607f5650ba99627a179308a0131bb7ec28c",
+          "hebrew": "וַ/תְּהִי֩ ר֨וּחַ יְהוָ֤ה רָעָה֙ אֶל שָׁא֔וּל וְ/הוּא֙ בְּ/בֵית֣/וֹ יוֹשֵׁ֔ב וַ/חֲנִית֖/וֹ בְּ/יָד֑/וֹ וְ/דָוִ֖ד מְנַגֵּ֥ן בְּ/יָֽד",
+          "annotations": []
+        }
+      ],
+      "after": "A harmful spirit from the LORD came upon Saul as he sat at home with his spear in his hand. David was playing,",
+      "rationale": "Preserves the troubling divine attribution and simultaneous actions."
+    },
+    {
+      "reference": "1 Samuel 19:13",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 19:13",
+          "source_verse_sha256": "c1fffed5aab8fae787995435fe362a3408505603c38a08e4ef303fe5ae4214e2",
+          "hebrew": "וַ/תִּקַּ֨ח מִיכַ֜ל אֶת הַ/תְּרָפִ֗ים וַ/תָּ֨שֶׂם֙ אֶל הַ/מִּטָּ֔ה וְ/אֵת֙ כְּבִ֣יר הָֽ/עִזִּ֔ים שָׂ֖מָה מְרַֽאֲשֹׁתָ֑י/ו וַ/תְּכַ֖ס בַּ/בָּֽגֶד",
+          "annotations": []
+        }
+      ],
+      "after": "She took the teraphim and laid it on the bed, put a covering of goats’ hair at its head, and covered it with a garment.",
+      "rationale": "Preserves the household sacred object and uncertain headpiece without inventing a mannequin."
+    },
+    {
+      "reference": "1 Samuel 19:16",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 19:16",
+          "source_verse_sha256": "06638f3c42c51accdea0063a88184407d4ca590e37187b1cb7fc0291d0e3ea19",
+          "hebrew": "וַ/יָּבֹ֨אוּ֙ הַ/מַּלְאָכִ֔ים וְ/הִנֵּ֥ה הַ/תְּרָפִ֖ים אֶל הַ/מִּטָּ֑ה וּ/כְבִ֥יר הָ/עִזִּ֖ים מְרַאֲשֹׁתָֽי/ו",
+          "annotations": []
+        }
+      ],
+      "after": "The messengers came in. There was the teraphim on the bed, with the goats’ hair at its head!",
+      "rationale": "Keeps the discovery and repeated disguise details."
+    },
+    {
+      "reference": "1 Samuel 19:17",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 19:17",
+          "source_verse_sha256": "e63e177b001bffdadf6a5df3ad555d7e62d815107054bb0ca9e86cba0e947daf",
+          "hebrew": "וַ/יֹּ֨אמֶר שָׁא֜וּל אֶל מִיכַ֗ל לָ֤/מָּה כָּ֨כָה֙ רִמִּיתִ֔/נִי וַ/תְּשַׁלְּחִ֥י אֶת אֹיְבִ֖/י וַ/יִּמָּלֵ֑ט וַ/תֹּ֤אמֶר מִיכַל֙ אֶל שָׁא֔וּל הוּא אָמַ֥ר אֵלַ֛/י שַׁלְּחִ֖/נִי לָ/מָ֥ה אֲמִיתֵֽ/ךְ",
+          "annotations": []
+        }
+      ],
+      "after": "Saul asked Michal, “Why did you deceive me like this and let my enemy escape?” Michal answered, “He told me, ‘Let me go. Why should I kill you?’”",
+      "rationale": "Retains her reported threat as her account, without turning it into narrated fact."
+    },
+    {
+      "reference": "1 Samuel 19:24",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 19:24",
+          "source_verse_sha256": "fcd617a7da4438e5b64b5c8087c1798ba3366dae3a554a6fceb283d5b143627f",
+          "hebrew": "וַ/יִּפְשַׁ֨ט גַּם ה֜וּא בְּגָדָ֗י/ו וַ/יִּתְנַבֵּ֤א גַם הוּא֙ לִ/פְנֵ֣י שְׁמוּאֵ֔ל וַ/יִּפֹּ֣ל עָרֹ֔ם כָּל הַ/יּ֥וֹם הַ/ה֖וּא וְ/כָל הַ/לָּ֑יְלָה עַל כֵּן֙ יֹֽאמְר֔וּ הֲ/גַ֥ם שָׁא֖וּל בַּ/נְּבִיאִֽם",
+          "annotations": []
+        }
+      ],
+      "after": "He too stripped off his clothes and prophesied before Samuel. He lay naked all that day and all that night. That is why people say, “Is Saul among the prophets too?”",
+      "rationale": "Keeps nakedness and duration without claiming a clinical condition or explaining the proverb away."
+    },
+    {
+      "reference": "1 Samuel 20:10",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:10",
+          "source_verse_sha256": "26e46333345efad89bd188acae39e2dfc916cdb9030a73488c793e0396be3905",
+          "hebrew": "וַ/יֹּ֤אמֶר דָּוִד֙ אֶל יְה֣וֹנָתָ֔ן מִ֖י יַגִּ֣יד לִ֑/י א֛וֹ מַה יַּעַנְ/ךָ֥ אָבִ֖י/ךָ קָשָֽׁה",
+          "annotations": []
+        }
+      ],
+      "after": "David asked, “Who will tell me if your father answers you harshly?”",
+      "rationale": "Takes the compressed or/what construction as a question about communicating a hostile response; noted."
+    },
+    {
+      "reference": "1 Samuel 20:12",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:12",
+          "source_verse_sha256": "54129f8db0597e085c2c250213024123b1108d8aea12b507143ebda39816a9c9",
+          "hebrew": "וַ/יֹּ֨אמֶר יְהוֹנָתָ֜ן אֶל דָּוִ֗ד יְהוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ כִּֽי אֶחְקֹ֣ר אֶת אָבִ֗/י כָּ/עֵ֤ת מָחָר֙ הַ/שְּׁלִשִׁ֔ית וְ/הִנֵּה ט֖וֹב אֶל דָּוִ֑ד וְ/לֹֽא אָז֙ אֶשְׁלַ֣ח אֵלֶ֔י/ךָ וְ/גָלִ֖יתִי אֶת אָזְנֶֽ/ךָ",
+          "annotations": []
+        }
+      ],
+      "after": "Jonathan said to David, “By the LORD, the God of Israel! I will sound out my father about this time tomorrow or the next day. If he is well disposed toward David, will I not send word and tell you?",
+      "rationale": "Retains oath opening, uncertain tomorrow/third-day phrasing and third-person David."
+    },
+    {
+      "reference": "1 Samuel 20:14",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:14",
+          "source_verse_sha256": "e03f4f70f274d3d6a838b3c6a1c8af5428d843bb4846e03ee4fb4045cd1d2a9e",
+          "hebrew": "וְ/לֹ֖א אִם עוֹדֶ֣/נִּי חָ֑י וְ/לֹֽא תַעֲשֶׂ֧ה עִמָּדִ֛/י חֶ֥סֶד יְהוָ֖ה וְ/לֹ֥א אָמֽוּת",
+          "annotations": []
+        }
+      ],
+      "after": "If I am still alive, show me the LORD’s steadfast love, so that I do not die.",
+      "rationale": "Preserves life/death request and steadfast love; difficult negatives noted."
+    },
+    {
+      "reference": "1 Samuel 20:16",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:16",
+          "source_verse_sha256": "d3206df8af716d06fd7ebaa8f7d76312ab14b89012688b4af5dfadc4dc0d3c37",
+          "hebrew": "וַ/יִּכְרֹ֥ת יְהוֹנָתָ֖ן עִם בֵּ֣ית דָּוִ֑ד וּ/בִקֵּ֣שׁ יְהוָ֔ה מִ/יַּ֖ד אֹיְבֵ֥י דָוִֽד",
+          "annotations": []
+        }
+      ],
+      "after": "So Jonathan made a covenant with David’s house: “May the LORD call David’s enemies to account.”",
+      "rationale": "Preserves the difficult reference to David’s enemies without silently substituting David."
+    },
+    {
+      "reference": "1 Samuel 20:19",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:19",
+          "source_verse_sha256": "65625fde5b0e83557433c29da7db9234978ec250bd96d0ee15246e59d73af9e1",
+          "hebrew": "וְ/שִׁלַּשְׁתָּ֙ תֵּרֵ֣ד מְאֹ֔ד וּ/בָאתָ֙ אֶל הַ/מָּק֔וֹם אֲשֶׁר נִסְתַּ֥רְתָּ שָּׁ֖ם בְּ/י֣וֹם הַֽ/מַּעֲשֶׂ֑ה וְ/יָ֣שַׁבְתָּ֔ אֵ֖צֶל הָ/אֶ֥בֶן הָ/אָֽזֶל",
+          "annotations": []
+        }
+      ],
+      "after": "On the third day, go far down to the place where you hid when this affair began, and stay beside the Ezel stone.",
+      "rationale": "Retains third-day instruction and difficult occasion/place wording, flagged for review."
+    },
+    {
+      "reference": "1 Samuel 20:25",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:25",
+          "source_verse_sha256": "01e129680f293532b2dc9d539138987cd1720b999992fad4509cedddc30017eb",
+          "hebrew": "וַ/יֵּ֣שֶׁב הַ֠/מֶּלֶךְ עַל מ֨וֹשָׁב֜/וֹ כְּ/פַ֣עַם בְּ/פַ֗עַם אֶל מוֹשַׁב֙ הַ/קִּ֔יר וַ/יָּ֨קָם֙ יְה֣וֹנָתָ֔ן וַ/יֵּ֥שֶׁב אַבְנֵ֖ר מִ/צַּ֣ד שָׁא֑וּל וַ/יִּפָּקֵ֖ד מְק֥וֹם דָּוִֽד",
+          "annotations": []
+        }
+      ],
+      "after": "The king took his usual seat beside the wall. Jonathan stood up, and Abner sat beside Saul. David’s place was empty.",
+      "rationale": "Retains the pinned stood-up reading and seating difficulty rather than changing Jonathan’s position."
+    },
+    {
+      "reference": "1 Samuel 20:30",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:30",
+          "source_verse_sha256": "7f78115c337e32c8822a5e527338ed9a560b25973ac3e8b7d5584bf89c8474d9",
+          "hebrew": "וַ/יִּֽחַר אַ֤ף שָׁאוּל֙ בִּ/יה֣וֹנָתָ֔ן וַ/יֹּ֣אמֶר ל֔/וֹ בֶּֽן נַעֲוַ֖ת הַ/מַּרְדּ֑וּת הֲ/ל֣וֹא יָדַ֗עְתִּי כִּֽי בֹחֵ֤ר אַתָּה֙ לְ/בֶן יִשַׁ֔י לְ/בָ֨שְׁתְּ/ךָ֔ וּ/לְ/בֹ֖שֶׁת עֶרְוַ֥ת אִמֶּֽ/ךָ",
+          "annotations": []
+        }
+      ],
+      "after": "Saul blazed with anger at Jonathan. “Son of a twisted, rebellious woman!” he said. “Do I not know you have chosen Jesse’s son, to your own shame and the shame of your mother’s nakedness?",
+      "rationale": "Preserves the abusive maternal insult and nakedness rather than replacing them with a sanitized rebuke."
+    },
+    {
+      "reference": "1 Samuel 20:34",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:34",
+          "source_verse_sha256": "53d1645469c3364ca0da9cdcf41f4b04c629c90a31003c165044f2f1bac4a9b6",
+          "hebrew": "וַ/יָּ֧קָם יְהוֹנָתָ֛ן מֵ/עִ֥ם הַ/שֻּׁלְחָ֖ן בָּ/חֳרִי אָ֑ף וְ/לֹא אָכַ֞ל בְּ/יוֹם הַ/חֹ֤דֶשׁ הַ/שֵּׁנִי֙ לֶ֔חֶם כִּ֤י נֶעְצַב֙ אֶל דָּוִ֔ד כִּ֥י הִכְלִמ֖/וֹ אָבִֽי/ו",
+          "annotations": []
+        }
+      ],
+      "after": "Jonathan rose from the table in fierce anger. He ate nothing that second day of the new moon, grieving over David because his father had shamed him.",
+      "rationale": "Preserves anger, fasting and grief; the pronoun’s possible referents are noted."
+    },
+    {
+      "reference": "1 Samuel 20:41",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:41",
+          "source_verse_sha256": "51e4d977103c3678c2ef58ac7b736cadaaa410469d2d5c0d98b65dc780e6d24e",
+          "hebrew": "הַ/נַּעַר֮ בָּא֒ וְ/דָוִ֗ד קָ֚ם מֵ/אֵ֣צֶל הַ/נֶּ֔גֶב וַ/יִּפֹּ֨ל לְ/אַפָּ֥י/ו אַ֛רְצָ/ה וַ/יִּשְׁתַּ֖חוּ שָׁלֹ֣שׁ פְּעָמִ֑ים וַֽ/יִּשְּׁק֣וּ אִ֣ישׁ אֶת רֵעֵ֗/הוּ וַ/יִּבְכּוּ֙ אִ֣ישׁ אֶת רֵעֵ֔/הוּ עַד דָּוִ֖ד הִגְדִּֽיל",
+          "annotations": []
+        }
+      ],
+      "after": "After the boy left, David rose from the south side, fell facedown to the ground, and bowed three times. They kissed one another and wept together, David weeping the more.",
+      "rationale": "Retains pinned south, three bows and intimate grief; difficult final expression noted."
+    },
+    {
+      "reference": "1 Samuel 20:42",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 20:42",
+          "source_verse_sha256": "9e39543b27ced5552328a6bb3a1d0d063a48cc5c2968ebb8b64c117c37e7dd18",
+          "hebrew": "וַ/יֹּ֧אמֶר יְהוֹנָתָ֛ן לְ/דָוִ֖ד לֵ֣ךְ לְ/שָׁל֑וֹם אֲשֶׁר֩ נִשְׁבַּ֨עְנוּ שְׁנֵ֜י/נוּ אֲנַ֗חְנוּ בְּ/שֵׁ֤ם יְהוָה֙ לֵ/אמֹ֔ר יְהוָ֞ה יִֽהְיֶ֣ה בֵּינִ֣/י וּ/בֵינֶ֗/ךָ וּ/בֵ֥ין זַרְעִ֛/י וּ/בֵ֥ין זַרְעֲ/ךָ֖ עַד עוֹלָֽם",
+          "annotations": []
+        },
+        {
+          "source_reference": "1Sam 21:1",
+          "source_verse_sha256": "fa8a28a41261076c70d6b7ebca48a7881259b77250ea6af08237023b54cab4e5",
+          "hebrew": "וַ/יָּ֖קָם וַ/יֵּלַ֑ךְ וִ/יהוֹנָתָ֖ן בָּ֥א הָ/עִֽיר",
+          "annotations": [
+            "<note>KJV:1Sam.20.42</note>\n          "
+          ]
+        }
+      ],
+      "after": "Jonathan said, “Go in peace. We have both sworn in the LORD’s name: ‘The LORD will stand between me and you, and between my offspring and yours, forever.’” Then David got up and left, and Jonathan went into town.",
+      "rationale": "Binds Hebrew 20:42 and 21:1 whole records to the public verse and preserves offspring pledge."
+    },
+    {
+      "reference": "1 Samuel 21:5",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 21:6",
+          "source_verse_sha256": "69d89b3b57ae590647cd01414e61bf0c3cd57c6203dd04faf9758cc1c0f149e2",
+          "hebrew": "וַ/יַּעַן֩ דָּוִ֨ד אֶת הַ/כֹּהֵ֜ן וַ/יֹּ֣אמֶר ל֗/וֹ כִּ֣י אִם אִשָּׁ֤ה עֲצֻֽרָה לָ֨/נוּ֙ כִּ/תְמ֣וֹל שִׁלְשֹׁ֔ם בְּ/צֵאתִ֕/י וַ/יִּהְי֥וּ כְלֵֽי הַ/נְּעָרִ֖ים קֹ֑דֶשׁ וְ/הוּא֙ דֶּ֣רֶךְ חֹ֔ל וְ/אַ֕ף כִּ֥י הַ/יּ֖וֹם יִקְדַּ֥שׁ בַּ/כֶּֽלִי",
+          "annotations": [
+            "<note>KJV:1Sam.21.5</note>\n          "
+          ]
+        }
+      ],
+      "after": "David replied, “Women have been kept from us, as always when I go out. The young men’s vessels are holy even on an ordinary journey. How much more today will their vessels be holy!”",
+      "rationale": "Retains the difficult vessels image and contextual reading of the final clause; alternatives noted."
+    },
+    {
+      "reference": "1 Samuel 21:7",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 21:8",
+          "source_verse_sha256": "bd3e899d85534e46bccabed382d7c3aa95f08d85302333bb2836be93324f79e6",
+          "hebrew": "וְ/שָׁ֡ם אִישׁ֩ מֵ/עַבְדֵ֨י שָׁא֜וּל בַּ/יּ֣וֹם הַ/ה֗וּא נֶעְצָר֙ לִ/פְנֵ֣י יְהוָ֔ה וּ/שְׁמ֖/וֹ דֹּאֵ֣ג הָ/אֲדֹמִ֑י אַבִּ֥יר הָ/רֹעִ֖ים אֲשֶׁ֥ר לְ/שָׁאֽוּל",
+          "annotations": [
+            "<note>KJV:1Sam.21.7</note>\n          "
+          ]
+        }
+      ],
+      "after": "One of Saul’s servants was there that day, detained before the LORD. He was Doeg the Edomite, chief of Saul’s shepherds.",
+      "rationale": "Preserves unexplained detention and source occupation rather than another witness’s title."
+    },
+    {
+      "reference": "1 Samuel 21:11",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 21:12",
+          "source_verse_sha256": "ac17b4d41800e0e75ea786997b1b83ec6019242087014ae0cff09aea1d9cca30",
+          "hebrew": "וַ/יֹּ֨אמְר֜וּ עַבְדֵ֤י אָכִישׁ֙ אֵלָ֔י/ו הֲ/לוֹא זֶ֥ה דָוִ֖ד מֶ֣לֶךְ הָ/אָ֑רֶץ הֲ/ל֣וֹא לָ/זֶ֗ה יַעֲנ֤וּ בַ/מְּחֹלוֹת֙ לֵ/אמֹ֔ר הִכָּ֤ה שָׁאוּל֙ ב/אלפ/ו וְ/דָוִ֖ד ב/רבבת/ו",
+          "annotations": [
+            "<note>KJV:1Sam.21.11</note>\n          ",
+            "<note type=\"variant\"><catchWord>ב/אלפ/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"b/505\" n=\"0.1\" morph=\"HR/Acbpc/Sp3ms\" id=\"09VGa\">בַּ/אֲלָפָ֔י/ו</w></rdg></note>\n          ",
+            "<note type=\"variant\"><catchWord>ב/רבבת/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"b/7233\" n=\"0\" morph=\"HR/Ncfpc/Sp3ms\" id=\"099dP\">בְּ/רִבְבֹתָֽי/ו</w></rdg></note>"
+          ]
+        }
+      ],
+      "after": "Achish’s servants said to him, “Is this not David, the king of the land? Is he not the one they sing about as they dance: ‘Saul has struck down his thousands, and David his tens of thousands’?”",
+      "rationale": "Keeps their king designation as speech and repeats the earlier song exactly."
+    },
+    {
+      "reference": "1 Samuel 21:13",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 21:14",
+          "source_verse_sha256": "2c12a3bc8cdefeccef039bf997dd2d66d2af434f461724a3e5d44aa0703620cf",
+          "hebrew": "וַ/יְשַׁנּ֤/וֹ אֶת טַעְמ/וֹ֙ בְּ/עֵ֣ינֵי/הֶ֔ם וַ/יִּתְהֹלֵ֖ל בְּ/יָדָ֑/ם ו/יתו עַל דַּלְת֣וֹת הַ/שַּׁ֔עַר וַ/יּ֥וֹרֶד רִיר֖/וֹ אֶל זְקָנֽ/וֹ",
+          "annotations": [
+            "<note>KJV:1Sam.21.13</note>\n          ",
+            "<note type=\"variant\"><catchWord>ו/יתו</catchWord><rdg type=\"x-qere\"><w lemma=\"c/8427\" n=\"0.1.0\" morph=\"HC/Vpw3ms\" id=\"09bst\">וַ/יְתָיו֙</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "So he changed his behavior before them and acted mad while in their hands. He scratched marks on the gate doors and let saliva run down his beard.",
+      "rationale": "Follows qere scratching and preserves deliberate performance without diagnosing illness."
+    },
+    {
+      "reference": "1 Samuel 22:9",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 22:9",
+          "source_verse_sha256": "46c06c2ae5ccfffc3dfdac05505e41604c96ce944c9881303ee225c41fad3df2",
+          "hebrew": "וַ/יַּ֜עַן דֹּאֵ֣ג הָ/אֲדֹמִ֗י וְ/ה֛וּא נִצָּ֥ב עַל עַבְדֵֽי שָׁא֖וּל וַ/יֹּאמַ֑ר רָאִ֨יתִי֙ אֶת בֶּן יִשַׁ֔י בָּ֣א נֹ֔בֶ/ה אֶל אֲחִימֶ֖לֶךְ בֶּן אֲחִטֽוּב",
+          "annotations": []
+        }
+      ],
+      "after": "Doeg the Edomite, who stood with Saul’s servants, answered, “I saw Jesse’s son come to Ahimelech son of Ahitub at Nob.",
+      "rationale": "Retains witness, father and place without adding proof of conspiracy."
+    },
+    {
+      "reference": "1 Samuel 22:14",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 22:14",
+          "source_verse_sha256": "73866b09cd824fe5747c37022eade15a4a3910673ea57685e4ba508f8c1944cd",
+          "hebrew": "וַ/יַּ֧עַן אֲחִימֶ֛לֶךְ אֶת הַ/מֶּ֖לֶךְ וַ/יֹּאמַ֑ר וּ/מִ֤י בְ/כָל עֲבָדֶ֨י/ךָ֙ כְּ/דָוִ֣ד נֶאֱמָ֔ן וַ/חֲתַ֥ן הַ/מֶּ֛לֶךְ וְ/סָ֥ר אֶל מִשְׁמַעְתֶּ֖/ךָ וְ/נִכְבָּ֥ד בְּ/בֵיתֶֽ/ךָ",
+          "annotations": []
+        }
+      ],
+      "after": "Ahimelech answered the king, “Who among all your servants is as faithful as David—your son-in-law, obedient to your commands, and honored in your house?",
+      "rationale": "Uses obedience reading of difficult court-service phrase; keeps the priest’s reasons for trust."
+    },
+    {
+      "reference": "1 Samuel 22:15",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 22:15",
+          "source_verse_sha256": "8a1c8fa11e3505f5487370cb1df56bff7c4c2af81369af757398d5ef727a0be0",
+          "hebrew": "הַ/יּ֧וֹם הַחִלֹּ֛תִי ל/שאול ל֥/וֹ בֵ/אלֹהִ֖ים חָלִ֣ילָ/ה לִּ֑/י אַל יָשֵׂם֩ הַ/מֶּ֨לֶךְ בְּ/עַבְדּ֤/וֹ דָבָר֙ בְּ/כָל בֵּ֣ית אָבִ֔/י כִּ֠י לֹֽא יָדַ֤ע עַבְדְּ/ךָ֙ בְּ/כָל זֹ֔את דָּבָ֥ר קָטֹ֖ן א֥וֹ גָדֽוֹל",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ל/שאול</catchWord><rdg type=\"x-qere\"><w lemma=\"l/7592\" morph=\"HR/Vqc\" id=\"09g86\">לִ/שְׁאָל</w></rdg></note>"
+          ]
+        }
+      ],
+      "after": "Was today the first time I inquired of God for him? Far be it from me! Do not lay any charge on your servant or any of my father’s household. Your servant knew nothing of all this, great or small.”",
+      "rationale": "Preserves rhetorical denial and claim of ignorance without recasting it as confession."
+    },
+    {
+      "reference": "1 Samuel 22:17",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 22:17",
+          "source_verse_sha256": "7f571efd82e536cd779aba3136edbaef801ebdafd07cad2d21487884211fa6d8",
+          "hebrew": "וַ/יֹּ֣אמֶר הַ/מֶּ֡לֶךְ לָ/רָצִים֩ הַ/נִּצָּבִ֨ים עָלָ֜י/ו סֹ֥בּוּ וְ/הָמִ֣יתוּ כֹּהֲנֵ֣י יְהוָ֗ה כִּ֤י גַם יָדָ/ם֙ עִם דָּוִ֔ד וְ/כִ֤י יָֽדְעוּ֙ כִּֽי בֹרֵ֣חַ ה֔וּא וְ/לֹ֥א גָל֖וּ אֶת אזנ/ו וְ/לֹֽא אָב֞וּ עַבְדֵ֤י הַ/מֶּ֨לֶךְ֙ לִ/שְׁלֹ֣חַ אֶת יָדָ֔/ם לִ/פְגֹ֖עַ בְּ/כֹהֲנֵ֥י יְהוָֽה",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>אזנ/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"241\" n=\"1\" morph=\"HNcfsc/Sp1cs\" id=\"09Cb1\">אָזְנִ֑/י</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "He ordered the guards around him, “Turn and kill the LORD’s priests! Their hand is with David too. They knew he was fleeing and did not tell me.” But the king’s servants refused to raise their hands against the LORD’s priests.",
+      "rationale": "Preserves repeated hand image, qere first-person me and the guards’ refusal."
+    },
+    {
+      "reference": "1 Samuel 22:18",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 22:18",
+          "source_verse_sha256": "c78e36299aead0458d4f174811ecced19dfe5f78bcfca59316792825f9fd9dad",
+          "hebrew": "וַ/יֹּ֤אמֶר הַ/מֶּ֨לֶךְ֙ ל/דויג סֹ֣ב אַתָּ֔ה וּ/פְגַ֖ע בַּ/כֹּהֲנִ֑ים וַ/יִּסֹּ֞ב דויג הָ/אֲדֹמִ֗י וַ/יִּפְגַּע הוּא֙ בַּ/כֹּ֣הֲנִ֔ים וַ/יָּ֣מֶת בַּ/יּ֣וֹם הַ/ה֗וּא שְׁמֹנִ֤ים וַ/חֲמִשָּׁה֙ אִ֔ישׁ נֹשֵׂ֖א אֵפ֥וֹד בָּֽד",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ל/דויג</catchWord><rdg type=\"x-qere\"><w lemma=\"l/1673\" n=\"1.2\" morph=\"HR/Np\" id=\"09aNE\">לְ/דוֹאֵ֔ג</w></rdg></note>\n          ",
+            "<note type=\"variant\"><catchWord>דויג</catchWord><rdg type=\"x-qere\"><w lemma=\"1673\" morph=\"HNp\" id=\"09u2Q\">דּוֹאֵ֣ג</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "Then the king told Doeg, “You turn and strike the priests.” Doeg the Edomite turned and attacked them. That day he killed eighty-five men who wore the linen ephod.",
+      "rationale": "Retains sole named executioner, exact number and priestly clothing."
+    },
+    {
+      "reference": "1 Samuel 22:19",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 22:19",
+          "source_verse_sha256": "47779a64deef8258bcb6b75a18e5c69f7444c0fe48f9978c532f3d3b686e22cc",
+          "hebrew": "וְ/אֵ֨ת נֹ֤ב עִיר הַ/כֹּֽהֲנִים֙ הִכָּ֣ה לְ/פִי חֶ֔רֶב מֵ/אִישׁ֙ וְ/עַד אִשָּׁ֔ה מֵ/עוֹלֵ֖ל וְ/עַד יוֹנֵ֑ק וְ/שׁ֧וֹר וַ/חֲמ֛וֹר וָ/שֶׂ֖ה לְ/פִי חָֽרֶב",
+          "annotations": []
+        }
+      ],
+      "after": "He also put Nob, the priests’ town, to the sword: men and women, children and nursing infants, cattle, donkeys, and sheep—all put to the sword.",
+      "rationale": "Keeps every human and animal group in the massacre explicit. Retains the repeated sword phrase that encloses the victims."
+    },
+    {
+      "reference": "1 Samuel 22:22",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 22:22",
+          "source_verse_sha256": "92dd89351fd218117fb2617ba065ef775958ef76a888ba4f1c11b36e172fb256",
+          "hebrew": "וַ/יֹּ֨אמֶר דָּוִ֜ד לְ/אֶבְיָתָ֗ר יָדַ֜עְתִּי בַּ/יּ֤וֹם הַ/הוּא֙ כִּֽי שָׁם֙ דויג הָ/אֲדֹמִ֔י כִּֽי הַגֵּ֥ד יַגִּ֖יד לְ/שָׁא֑וּל אָנֹכִ֣י סַבֹּ֔תִי בְּ/כָל נֶ֖פֶשׁ בֵּ֥ית אָבִֽי/ךָ",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>דויג</catchWord><rdg type=\"x-qere\"><w lemma=\"1673\" morph=\"HNp\" id=\"09bme\">דּוֹאֵ֣ג</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "David said to Abiathar, “That day, when Doeg the Edomite was there, I knew he would tell Saul. I am responsible for the deaths of everyone in your father’s household.",
+      "rationale": "Keeps David’s admission of responsibility without diluting it into regret alone. Makes responsibility for the deaths explicit, avoiding an unintended claim of continuing guardianship."
+    },
+    {
+      "reference": "1 Samuel 23:6",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 23:6",
+          "source_verse_sha256": "7f05276bbef58f38d68df618c156704a4788498451b7f503355f5f8d89a4ac47",
+          "hebrew": "וַ/יְהִ֗י בִּ֠/בְרֹחַ אֶבְיָתָ֧ר בֶּן אֲחִימֶ֛לֶךְ אֶל דָּוִ֖ד קְעִילָ֑ה אֵפ֖וֹד יָרַ֥ד בְּ/יָדֽ/וֹ",
+          "annotations": []
+        }
+      ],
+      "after": "When Abiathar son of Ahimelech fled to David at Keilah, he brought an ephod with him.",
+      "rationale": "Keeps the explanatory return to Abiathar’s arrival and relevant object."
+    },
+    {
+      "reference": "1 Samuel 23:7",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 23:7",
+          "source_verse_sha256": "a895cd35e73f2c0a7e03ecd99dac7d3232fc33cb78e45b660c06794ea8fa4633",
+          "hebrew": "וַ/יֻּגַּ֣ד לְ/שָׁא֔וּל כִּי בָ֥א דָוִ֖ד קְעִילָ֑ה וַ/יֹּ֣אמֶר שָׁא֗וּל נִכַּ֨ר אֹת֤/וֹ אֱלֹהִים֙ בְּ/יָדִ֔/י כִּ֚י נִסְגַּ֣ר לָ/ב֔וֹא בְּ/עִ֖יר דְּלָתַ֥יִם וּ/בְרִֽיחַ",
+          "annotations": []
+        }
+      ],
+      "after": "Saul was told that David had entered Keilah. “God has delivered him into my hand,” he said. “He has shut himself in by entering a town with gates and a bar.”",
+      "rationale": "Keeps Saul’s divine interpretation as his speech and town defenses as confinement."
+    },
+    {
+      "reference": "1 Samuel 23:11",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 23:11",
+          "source_verse_sha256": "8df579c2481d1a9a30ebd1aaff9e9b3a277a8e6086688813721f1be11d021deb",
+          "hebrew": "הֲ/יַסְגִּרֻ֣/נִי בַעֲלֵי֩ קְעִילָ֨ה בְ/יָד֜/וֹ הֲ/יֵרֵ֣ד שָׁא֗וּל כַּֽ/אֲשֶׁר֙ שָׁמַ֣ע עַבְדֶּ֔/ךָ יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הַגֶּד נָ֖א לְ/עַבְדֶּ֑/ךָ וַ/יֹּ֥אמֶר יְהוָ֖ה יֵרֵֽד",
+          "annotations": []
+        }
+      ],
+      "after": "Will Keilah’s leaders hand me over to him? Will Saul come down, as your servant has heard? LORD, God of Israel, please tell your servant.” The LORD answered, “He will come down.”",
+      "rationale": "Preserves question order and the answer to the second question first."
+    },
+    {
+      "reference": "1 Samuel 23:12",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 23:12",
+          "source_verse_sha256": "22a0422f20c53f07451864064b3e6b0ebfa6be7dfd22181f28cc92bbd16a18f1",
+          "hebrew": "וַ/יֹּ֣אמֶר דָּוִ֔ד הֲ/יַסְגִּ֜רוּ בַּעֲלֵ֧י קְעִילָ֛ה אֹתִ֥/י וְ/אֶת אֲנָשַׁ֖/י בְּ/יַד שָׁא֑וּל וַ/יֹּ֥אמֶר יְהוָ֖ה יַסְגִּֽירוּ",
+          "annotations": []
+        }
+      ],
+      "after": "David asked, “Will Keilah’s leaders hand me and my men over to Saul?” The LORD answered, “They will.”",
+      "rationale": "Keeps the repeated inquiry about surrender and terse reply."
+    },
+    {
+      "reference": "1 Samuel 23:14",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 23:14",
+          "source_verse_sha256": "f8355acf3c4a66ad0087a77fe025b08cd7b92423de27fc8871f6dffff7445fe4",
+          "hebrew": "וַ/יֵּ֨שֶׁב דָּוִ֤ד בַּ/מִּדְבָּר֙ בַּ/מְּצָד֔וֹת וַ/יֵּ֥שֶׁב בָּ/הָ֖ר בְּ/מִדְבַּר זִ֑יף וַ/יְבַקְשֵׁ֤/הוּ שָׁאוּל֙ כָּל הַ/יָּמִ֔ים וְ/לֹֽא נְתָנ֥/וֹ אֱלֹהִ֖ים בְּ/יָדֽ/וֹ",
+          "annotations": []
+        }
+      ],
+      "after": "David stayed in wilderness strongholds, in the hill country of the wilderness of Ziph. Saul sought him every day, but God did not give him into Saul’s hand.",
+      "rationale": "Keeps daily pursuit and the narrator’s contrast with Saul’s earlier claim."
+    },
+    {
+      "reference": "1 Samuel 23:16",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 23:16",
+          "source_verse_sha256": "051920fac144a667aba618372f66ec0df5776f5b7787841488070cc22395fa1e",
+          "hebrew": "וַ/יָּ֨קָם֙ יְהוֹנָתָ֣ן בֶּן שָׁא֔וּל וַ/יֵּ֥לֶךְ אֶל דָּוִ֖ד חֹ֑רְשָׁה וַ/יְחַזֵּ֥ק אֶת יָד֖/וֹ בֵּ/אלֹהִֽים",
+          "annotations": []
+        }
+      ],
+      "after": "Saul’s son Jonathan went to David at Horesh and strengthened his hand in God.",
+      "rationale": "Retains the concrete hand idiom, explained briefly in vocabulary."
+    },
+    {
+      "reference": "1 Samuel 23:17",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 23:17",
+          "source_verse_sha256": "4ee8a0675774cfed6946192a68db8e709eaa9d5e241e39c8e2d1273ee078bbad",
+          "hebrew": "וַ/יֹּ֨אמֶר אֵלָ֜י/ו אַל תִּירָ֗א כִּ֠י לֹ֤א תִֽמְצָאֲ/ךָ֙ יַ֚ד שָׁא֣וּל אָבִ֔/י וְ/אַתָּה֙ תִּמְלֹ֣ךְ עַל יִשְׂרָאֵ֔ל וְ/אָנֹכִ֖י אֶֽהְיֶה לְּ/ךָ֣ לְ/מִשְׁנֶ֑ה וְ/גַם שָׁא֥וּל אָבִ֖/י יֹדֵ֥עַ כֵּֽן",
+          "annotations": []
+        }
+      ],
+      "after": "“Do not be afraid,” he told him. “My father Saul’s hand will not reach you. You will be king over Israel, and I will be second to you. My father Saul knows this too.”",
+      "rationale": "Keeps Jonathan’s hoped-for future as speech without making it narrator prediction."
+    },
+    {
+      "reference": "1 Samuel 23:23",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 23:23",
+          "source_verse_sha256": "ad8611cf12e3bb28ed462ccab337d2f0b82f42046c5baaf86c17ef791124a50f",
+          "hebrew": "וּ/רְא֣וּ וּ/דְע֗וּ מִ/כֹּ֤ל הַ/מַּֽחֲבֹאִים֙ אֲשֶׁ֣ר יִתְחַבֵּ֣א שָׁ֔ם וְ/שַׁבְתֶּ֤ם אֵלַ/י֙ אֶל נָכ֔וֹן וְ/הָלַכְתִּ֖י אִתְּ/כֶ֑ם וְ/הָיָה֙ אִם יֶשְׁנ֣/וֹ בָ/אָ֔רֶץ וְ/חִפַּשְׂתִּ֣י אֹת֔/וֹ בְּ/כֹ֖ל אַלְפֵ֥י יְהוּדָֽה",
+          "annotations": []
+        }
+      ],
+      "after": "Find out all his hiding places. Come back with reliable information, and I will go with you. If he is in the land, I will search him out among all Judah’s clans.”",
+      "rationale": "Retains search detail and clan reading of thousands."
+    },
+    {
+      "reference": "1 Samuel 23:28",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 23:28",
+          "source_verse_sha256": "ed62aea93ca19f36cf229d4546d4b6c72820eac2a4ba2cbfec71602fe40a014e",
+          "hebrew": "וַ/יָּ֣שָׁב שָׁא֗וּל מִ/רְדֹף֙ אַחֲרֵ֣י דָוִ֔ד וַ/יֵּ֖לֶךְ לִ/קְרַ֣את פְּלִשְׁתִּ֑ים עַל כֵּ֗ן קָֽרְאוּ֙ לַ/מָּק֣וֹם הַ/ה֔וּא סֶ֖לַע הַֽמַּחְלְקֽוֹת",
+          "annotations": []
+        }
+      ],
+      "after": "Saul broke off his pursuit of David and went to meet the Philistines. That is why the place was called Sela-hammahlekoth.",
+      "rationale": "Preserves the name explanation without choosing an unmarked etymology."
+    },
+    {
+      "reference": "1 Samuel 23:29",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 24:1",
+          "source_verse_sha256": "0797fe40ce0215a238275579c7887258ffb5d73dfa30fe8f79084d37fb9d6b3d",
+          "hebrew": "וַ/יַּ֥עַל דָּוִ֖ד מִ/שָּׁ֑ם וַ/יֵּ֖שֶׁב בִּ/מְצָד֥וֹת עֵֽין גֶּֽדִי",
+          "annotations": [
+            "<note>KJV:1Sam.23.29</note>\n          "
+          ]
+        }
+      ],
+      "after": "David went up from there and stayed in the strongholds of En-gedi.",
+      "rationale": "Binds whole Hebrew 24:1 to public 23:29 and retains ascent and refuge."
+    },
+    {
+      "reference": "1 Samuel 24:3",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 24:4",
+          "source_verse_sha256": "7e178fc1ddfd88c0abc10b756b52709ff16b49d134b8d74ab0f180530c202764",
+          "hebrew": "וַ֠/יָּבֹא אֶל גִּדְר֨וֹת הַ/צֹּ֤אן עַל הַ/דֶּ֨רֶךְ֙ וְ/שָׁ֣ם מְעָרָ֔ה וַ/יָּבֹ֥א שָׁא֖וּל לְ/הָסֵ֣ךְ אֶת רַגְלָ֑י/ו וְ/דָוִד֙ וַ/אֲנָשָׁ֔י/ו בְּ/יַרְכְּתֵ֥י הַ/מְּעָרָ֖ה יֹשְׁבִֽים",
+          "annotations": [
+            "<note>KJV:1Sam.24.3</note>\n          "
+          ]
+        }
+      ],
+      "after": "He came to sheepfolds beside the road, where there was a cave, and went in to relieve himself. David and his men were sitting deep inside the cave.",
+      "rationale": "Renders covering-feet euphemism and preserves the concealed men’s location."
+    },
+    {
+      "reference": "1 Samuel 24:4",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 24:5",
+          "source_verse_sha256": "09fee7df786463f2b6a19c74d7c7371f004314d3af3b20700f1a38804ff6b769",
+          "hebrew": "וַ/יֹּאמְרוּ֩ אַנְשֵׁ֨י דָוִ֜ד אֵלָ֗י/ו הִנֵּ֨ה הַ/יּ֜וֹם אֲֽשֶׁר אָמַ֧ר יְהוָ֣ה אֵלֶ֗י/ךָ הִנֵּ֨ה אָנֹכִ֜י נֹתֵ֤ן אֶת איבי/ך בְּ/יָדֶ֔/ךָ וְ/עָשִׂ֣יתָ לּ֔/וֹ כַּ/אֲשֶׁ֖ר יִטַ֣ב בְּ/עֵינֶ֑י/ךָ וַ/יָּ֣קָם דָּוִ֗ד וַ/יִּכְרֹ֛ת אֶת כְּנַֽף הַ/מְּעִ֥יל אֲשֶׁר לְ/שָׁא֖וּל בַּ/לָּֽט",
+          "annotations": [
+            "<note>KJV:1Sam.24.4</note>\n          ",
+            "<note type=\"variant\"><catchWord>איבי/ך</catchWord><rdg type=\"x-qere\"><w lemma=\"341\" n=\"1.2.0\" morph=\"HVqrmsc/Sp2ms\" id=\"09vNC\">אֹֽיִבְ/ךָ֙</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "David’s men told him, “This is the day the LORD spoke of: ‘I am giving your enemy into your hand. Do whatever seems good to you.’” David got up and quietly cut off the edge of Saul’s robe.",
+      "rationale": "Keeps the alleged divine promise as the men’s quotation, not a narrator endorsement."
+    },
+    {
+      "reference": "1 Samuel 24:5",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 24:6",
+          "source_verse_sha256": "7a531bac9db70c09ab2eb95c01c5c4048970bf0b79a4dc182e5ae81181f06724",
+          "hebrew": "וַֽ/יְהִי֙ אַֽחֲרֵי כֵ֔ן וַ/יַּ֥ךְ לֵב דָּוִ֖ד אֹת֑/וֹ עַ֚ל אֲשֶׁ֣ר כָּרַ֔ת אֶת כָּנָ֖ף אֲשֶׁ֥ר לְ/שָׁאֽוּל",
+          "annotations": [
+            "<note>KJV:1Sam.24.5</note>\n          "
+          ]
+        }
+      ],
+      "after": "Afterward David’s heart struck him because he had cut off the edge of Saul’s robe.",
+      "rationale": "Preserves heart striking as the source’s image of remorse."
+    },
+    {
+      "reference": "1 Samuel 24:7",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 24:8",
+          "source_verse_sha256": "a4316bc179f57c16e776aa1d20ac59010d17257dd00f5250303648ac41dff788",
+          "hebrew": "וַ/יְשַׁסַּ֨ע דָּוִ֤ד אֶת אֲנָשָׁי/ו֙ בַּ/דְּבָרִ֔ים וְ/לֹ֥א נְתָנָ֖/ם לָ/ק֣וּם אֶל שָׁא֑וּל וְ/שָׁא֛וּל קָ֥ם מֵ/הַ/מְּעָרָ֖ה וַ/יֵּ֥לֶךְ בַּ/דָּֽרֶךְ",
+          "annotations": [
+            "<note>KJV:1Sam.24.7</note>\n          "
+          ]
+        }
+      ],
+      "after": "With these words David sharply restrained his men and would not let them attack Saul. Saul left the cave and continued on his way.",
+      "rationale": "Keeps force of rebuke without rendering it as physical dismemberment."
+    },
+    {
+      "reference": "1 Samuel 24:10",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 24:11",
+          "source_verse_sha256": "fee452548d3eb2a8ac6ed33eb17b05081cc0a4d03552d68fed4fa1c1170a320e",
+          "hebrew": "הִנֵּה֩ הַ/יּ֨וֹם הַ/זֶּ֜ה רָא֣וּ עֵינֶ֗י/ךָ אֵ֣ת אֲשֶׁר נְתָנְ/ךָ֩ יְהוָ֨ה הַ/יּ֤וֹם בְּ/יָדִ/י֙ בַּ/מְּעָרָ֔ה וְ/אָמַ֥ר לַ/הֲרָגֲ/ךָ֖ וַ/תָּ֣חָס עָלֶ֑י/ךָ וָ/אֹמַ֗ר לֹא אֶשְׁלַ֤ח יָדִ/י֙ בַּֽ/אדֹנִ֔/י כִּי מְשִׁ֥יחַ יְהוָ֖ה הֽוּא",
+          "annotations": [
+            "<note>KJV:1Sam.24.10</note>\n          "
+          ]
+        }
+      ],
+      "after": "Today your own eyes have seen how the LORD gave you into my hand in the cave. I was urged to kill you, but I spared you. I said, ‘I will not raise my hand against my lord, for he is the LORD’s anointed.’",
+      "rationale": "Takes the difficult unnamed urging and sparing clauses contextually; note preserves uncertainty."
+    },
+    {
+      "reference": "1 Samuel 24:12",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 24:13",
+          "source_verse_sha256": "417f351e2c80d0a5dc80c3e6c79e394918ffe159cfa244d966a09e67b776cd16",
+          "hebrew": "יִשְׁפֹּ֤ט יְהוָה֙ בֵּינִ֣/י וּ/בֵינֶ֔/ךָ וּ/נְקָמַ֥/נִי יְהוָ֖ה מִמֶּ֑/ךָּ וְ/יָדִ֖/י לֹ֥א תִֽהְיֶה בָּֽ/ךְ",
+          "annotations": [
+            "<note>KJV:1Sam.24.12</note>\n          "
+          ]
+        }
+      ],
+      "after": "May the LORD judge between us and avenge me on you. But my hand will not be against you.",
+      "rationale": "Keeps divine vengeance beside personal restraint without recasting it as blanket pacifism."
+    },
+    {
+      "reference": "1 Samuel 24:14",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 24:15",
+          "source_verse_sha256": "9c597f570d8924dcb8886597e5505a4e725d548655d844b7f5b2c3d70e54c267",
+          "hebrew": "אַחֲרֵ֨י מִ֤י יָצָא֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל אַחֲרֵ֥י מִ֖י אַתָּ֣ה רֹדֵ֑ף אַֽחֲרֵי֙ כֶּ֣לֶב מֵ֔ת אַחֲרֵ֖י פַּרְעֹ֥שׁ אֶחָֽד",
+          "annotations": [
+            "<note>KJV:1Sam.24.14</note>\n          "
+          ]
+        }
+      ],
+      "after": "Whom has Israel’s king come out against? Whom are you pursuing? A dead dog! A single flea!",
+      "rationale": "Keeps the belittling self-images and rhetorical questions."
+    },
+    {
+      "reference": "1 Samuel 24:21",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 24:22",
+          "source_verse_sha256": "5a43024d49ac2ea44d24f974c5b03ce7ba785c9d98b93a0d334932fc4047c765",
+          "hebrew": "וְ/עַתָּ֗ה הִשָּׁ֤בְעָ/ה לִּ/י֙ בַּֽ/יהוָ֔ה אִם תַּכְרִ֥ית אֶת זַרְעִ֖/י אַֽחֲרָ֑/י וְ/אִם תַּשְׁמִ֥יד אֶת שְׁמִ֖/י מִ/בֵּ֥ית אָבִֽ/י",
+          "annotations": [
+            "<note>KJV:1Sam.24.21</note>\n          "
+          ]
+        }
+      ],
+      "after": "Swear to me by the LORD that you will not cut off my offspring after me or wipe out my name from my father’s house.”",
+      "rationale": "Preserves distinct offspring and family-name requests."
+    },
+    {
+      "reference": "1 Samuel 25:1",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:1",
+          "source_verse_sha256": "59c0307fb55965c03f3ac8472468ebeda14b71ac3ee15c9341b05babb5d1e9a6",
+          "hebrew": "וַ/יָּ֣מָת שְׁמוּאֵ֔ל וַ/יִּקָּבְצ֤וּ כָל יִשְׂרָאֵל֙ וַ/יִּסְפְּדוּ ל֔/וֹ וַ/יִּקְבְּרֻ֥/הוּ בְּ/בֵית֖/וֹ בָּ/רָמָ֑ה וַ/יָּ֣קָם דָּוִ֔ד וַ/יֵּ֖רֶד אֶל מִדְבַּ֥ר פָּארָֽן",
+          "annotations": []
+        }
+      ],
+      "after": "Samuel died. All Israel gathered to mourn him, and they buried him at his home in Ramah. David then left and went down to the wilderness of Paran.",
+      "rationale": "Retains Samuel’s death and the pinned Paran reading without harmonizing geography."
+    },
+    {
+      "reference": "1 Samuel 25:3",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:3",
+          "source_verse_sha256": "ff21fb6d2bbe34cad54904bc86484d1477a5bea905838dd77c9dbb2df53dae76",
+          "hebrew": "וְ/שֵׁ֤ם הָ/אִישׁ֙ נָבָ֔ל וְ/שֵׁ֥ם אִשְׁתּ֖/וֹ אֲבִגָ֑יִל וְ/הָ/אִשָּׁ֤ה טֽוֹבַת שֶׂ֨כֶל֙ וִ֣/יפַת תֹּ֔אַר וְ/הָ/אִ֥ישׁ קָשֶׁ֛ה וְ/רַ֥ע מַעֲלָלִ֖ים וְ/ה֥וּא כ/לב/ו",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>כ/לב/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"3614\" n=\"0\" morph=\"HNgmsa\" id=\"09Cyq\">כָלִבִּֽי</w></rdg></note>"
+          ]
+        }
+      ],
+      "after": "His name was Nabal, and his wife’s name was Abigail. She had good judgment and was beautiful; he was harsh and acted wickedly. He was a Calebite.",
+      "rationale": "Preserves contrasting descriptions and qere Calebite rather than ketiv heart expression."
+    },
+    {
+      "reference": "1 Samuel 25:6",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:6",
+          "source_verse_sha256": "16244015c5844616964caa7790af53160eb9eea03c4b695007ccc4e2eb29f7f0",
+          "hebrew": "וַ/אֲמַרְתֶּ֥ם כֹּ֖ה לֶ/חָ֑י וְ/אַתָּ֤ה שָׁלוֹם֙ וּ/בֵיתְ/ךָ֣ שָׁל֔וֹם וְ/כֹ֥ל אֲשֶׁר לְ/ךָ֖ שָׁלֽוֹם",
+          "annotations": []
+        }
+      ],
+      "after": "Say, ‘Long life to you! Peace to you, peace to your house, and peace to all that is yours.",
+      "rationale": "Preserves threefold peace and the difficult opening wish."
+    },
+    {
+      "reference": "1 Samuel 25:11",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:11",
+          "source_verse_sha256": "83244c0e69cfa1f22a333bd5afd609597f64d138ca9b88b96cb27ebdaafbe9f7",
+          "hebrew": "וְ/לָקַחְתִּ֤י אֶת לַחְמִ/י֙ וְ/אֶת מֵימַ֔/י וְ/אֵת֙ טִבְחָתִ֔/י אֲשֶׁ֥ר טָבַ֖חְתִּי לְ/גֹֽזְזָ֑/י וְ/נָֽתַתִּי֙ לַֽ/אֲנָשִׁ֔ים אֲשֶׁר֙ לֹ֣א יָדַ֔עְתִּי אֵ֥י מִ/זֶּ֖ה הֵֽמָּה",
+          "annotations": []
+        }
+      ],
+      "after": "Should I take my bread, my water, and the meat I slaughtered for my shearers and give it to men when I do not even know where they come from?”",
+      "rationale": "Preserves possessive repetition and the pinned water rather than wine."
+    },
+    {
+      "reference": "1 Samuel 25:18",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:18",
+          "source_verse_sha256": "22c7730facbd3af49706c5eaed5278e89b8d48eeae0224aa6653f8e62df5984e",
+          "hebrew": "וַ/תְּמַהֵ֣ר אבוגיל וַ/תִּקַּח֩ מָאתַ֨יִם לֶ֜חֶם וּ/שְׁנַ֣יִם נִבְלֵי יַ֗יִן וְ/חָמֵ֨שׁ צֹ֤אן עשוות וְ/חָמֵ֤שׁ סְאִים֙ קָלִ֔י וּ/מֵאָ֥ה צִמֻּקִ֖ים וּ/מָאתַ֣יִם דְּבֵלִ֑ים וַ/תָּ֖שֶׂם עַל הַ/חֲמֹרִֽים",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>אבוגיל</catchWord><rdg type=\"x-qere\"><w lemma=\"26\" n=\"1.1.2.1\" morph=\"HNp\" id=\"093Gj\">אֲבִיגַ֡יִל</w></rdg></note>\n          ",
+            "<note type=\"variant\"><catchWord>עשוות</catchWord><rdg type=\"x-qere\"><w lemma=\"6213 a\" n=\"1.1.1\" morph=\"HVqsfpa\" id=\"09wWW\">עֲשׂוּיֹת֙</w></rdg></note>\n          ",
+            "<note n=\"k\">We read one or more consonants in L differently from BHS. </note>\n          "
+          ]
+        }
+      ],
+      "after": "Abigail hurried. She took two hundred loaves, two skins of wine, five prepared sheep, five seahs of roasted grain, a hundred raisin cakes, and two hundred fig cakes, and loaded them on donkeys.",
+      "rationale": "Preserves every food item and quantity, following qere prepared."
+    },
+    {
+      "reference": "1 Samuel 25:22",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:22",
+          "source_verse_sha256": "fb4e4b371853985f7a8bfd2164ab7f3487cb649122e788365e1fdf8c282c112d",
+          "hebrew": "כֹּה יַעֲשֶׂ֧ה אֱלֹהִ֛ים לְ/אֹיְבֵ֥י דָוִ֖ד וְ/כֹ֣ה יֹסִ֑יף אִם אַשְׁאִ֧יר מִ/כָּל אֲשֶׁר ל֛/וֹ עַד הַ/בֹּ֖קֶר מַשְׁתִּ֥ין בְּ/קִֽיר",
+          "annotations": []
+        }
+      ],
+      "after": "May God do this to David’s enemies, and more, if by morning I leave him a single one who urinates against a wall!”",
+      "rationale": "Preserves the pinned enemies in the oath and the coarse male designation; both noted."
+    },
+    {
+      "reference": "1 Samuel 25:26",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:26",
+          "source_verse_sha256": "fbb7304e457ea2966ec23aa9f0147285054d586d4a8ab4ab55ea8d47fe3b54eb",
+          "hebrew": "וְ/עַתָּ֣ה אֲדֹנִ֗/י חַי יְהוָ֤ה וְ/חֵֽי נַפְשְׁ/ךָ֙ אֲשֶׁ֨ר מְנָעֲ/ךָ֤ יְהוָה֙ מִ/בּ֣וֹא בְ/דָמִ֔ים וְ/הוֹשֵׁ֥עַ יָדְ/ךָ֖ לָ֑/ךְ וְ/עַתָּ֗ה יִֽהְי֤וּ כְ/נָבָל֙ אֹיְבֶ֔י/ךָ וְ/הַֽ/מְבַקְשִׁ֥ים אֶל אֲדֹנִ֖/י רָעָֽה",
+          "annotations": []
+        }
+      ],
+      "after": "Now, my lord, as the LORD lives and as you live, the LORD has kept you from bloodguilt and from winning deliverance by your own hand. May your enemies and those who seek your harm be like Nabal.",
+      "rationale": "Retains her anticipatory claim of restraint and hand-deliverance image."
+    },
+    {
+      "reference": "1 Samuel 25:28",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:28",
+          "source_verse_sha256": "b459b9d406fe0760be3860a7cc2894a49e42191bbb649ad8354a9670ded58a27",
+          "hebrew": "שָׂ֥א נָ֖א לְ/פֶ֣שַׁע אֲמָתֶ֑/ךָ כִּ֣י עָשֹֽׂה יַעֲשֶׂה֩ יְהוָ֨ה לַֽ/אדֹנִ֜/י בַּ֣יִת נֶאֱמָ֗ן כִּי מִלְחֲמ֤וֹת יְהוָה֙ אֲדֹנִ֣/י נִלְחָ֔ם וְ/רָעָ֛ה לֹא תִמָּצֵ֥א בְ/ךָ֖ מִ/יָּמֶֽי/ךָ",
+          "annotations": []
+        }
+      ],
+      "after": "Please forgive your servant’s offense. The LORD will surely establish a lasting house for my lord, because you fight the LORD’s battles. May no evil be found in you throughout your days.",
+      "rationale": "Preserves lasting-house promise and treats the final clause as a wish, noted as uncertain."
+    },
+    {
+      "reference": "1 Samuel 25:29",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:29",
+          "source_verse_sha256": "ffcf0ffa67b17d1116635103017a1b222ba6a52cfd298d40687bcbdb34ba65bb",
+          "hebrew": "וַ/יָּ֤קָם אָדָם֙ לִ/רְדָפְ/ךָ֔ וּ/לְ/בַקֵּ֖שׁ אֶת נַפְשֶׁ֑/ךָ וְֽ/הָיְתָה֩ נֶ֨פֶשׁ אֲדֹנִ֜/י צְרוּרָ֣ה בִּ/צְר֣וֹר הַ/חַיִּ֗ים אֵ֚ת יְהוָ֣ה אֱלֹהֶ֔י/ךָ וְ/אֵ֨ת נֶ֤פֶשׁ אֹיְבֶ֨י/ךָ֙ יְקַלְּעֶ֔/נָּה בְּ/ת֖וֹךְ כַּ֥ף הַ/קָּֽלַע",
+          "annotations": []
+        }
+      ],
+      "after": "Though someone rises to pursue you and seek your life, may my lord’s life be bound in the bundle of the living with the LORD your God. But may he sling away your enemies’ lives from the pocket of a sling.",
+      "rationale": "Keeps paired bundle and sling images rather than abstracting protection and judgment."
+    },
+    {
+      "reference": "1 Samuel 25:31",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:31",
+          "source_verse_sha256": "feec3437eb72b36a30a4a4221343c8188e112883078d2abbecf7c9dc9f6a8942",
+          "hebrew": "וְ/לֹ֣א תִהְיֶ֣ה זֹ֣את לְ/ךָ֡ לְ/פוּקָה֩ וּ/לְ/מִכְשׁ֨וֹל לֵ֜ב לַ/אדֹנִ֗/י וְ/לִ/שְׁפָּךְ דָּם֙ חִנָּ֔ם וּ/לְ/הוֹשִׁ֥יעַ אֲדֹנִ֖/י ל֑/וֹ וְ/הֵיטִ֤ב יְהוָה֙ לַֽ/אדֹנִ֔/י וְ/זָכַרְתָּ֖ אֶת אֲמָתֶֽ/ךָ",
+          "annotations": []
+        }
+      ],
+      "after": "you will have no staggering burden or stumbling heart from shedding blood without cause or winning your own deliverance. When the LORD does good to my lord, remember your servant.”",
+      "rationale": "Retains bodily conscience imagery, bloodguilt and the closing personal request."
+    },
+    {
+      "reference": "1 Samuel 25:34",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:34",
+          "source_verse_sha256": "5b319ac6b18ff7d75ab990a68aa2151264d3288c3c0f9a0a8ca0333f5a3af207",
+          "hebrew": "וְ/אוּלָ֗ם חַי יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֣ר מְנָעַ֔/נִי מֵ/הָרַ֖ע אֹתָ֑/ךְ כִּ֣י לוּלֵ֣י מִהַ֗רְתְּ ו/תבאתי לִ/קְרָאתִ֔/י כִּ֣י אִם נוֹתַ֧ר לְ/נָבָ֛ל עַד א֥וֹר הַ/בֹּ֖קֶר מַשְׁתִּ֥ין בְּ/קִֽיר",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ו/תבאתי</catchWord><rdg type=\"x-qere\"><w lemma=\"c/935\" n=\"0.1.0\" morph=\"HC/Vqw2fs\" id=\"09vDG\">וַ/תָּבֹאת֙</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "As the LORD, the God of Israel, lives, he has kept me from harming you. If you had not hurried to meet me, by dawn Nabal would not have had a single one left who urinates against a wall.”",
+      "rationale": "Preserves the repeated coarse male threat and David’s acknowledgment of intended harm."
+    },
+    {
+      "reference": "1 Samuel 25:37",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:37",
+          "source_verse_sha256": "93b60e3b0178128937c46ab16d713a471e81d03257f6b8af2714ead6624f7bcd",
+          "hebrew": "וַ/יְהִ֣י בַ/בֹּ֗קֶר בְּ/צֵ֤את הַ/יַּ֨יִן֙ מִ/נָּבָ֔ל וַ/תַּגֶּד ל֣/וֹ אִשְׁתּ֔/וֹ אֶת הַ/דְּבָרִ֖ים הָ/אֵ֑לֶּה וַ/יָּ֤מָת לִבּ/וֹ֙ בְּ/קִרְבּ֔/וֹ וְ/ה֖וּא הָיָ֥ה לְ/אָֽבֶן",
+          "annotations": []
+        }
+      ],
+      "after": "In the morning, when the wine had left Nabal, his wife told him what had happened. His heart died within him, and he became like stone.",
+      "rationale": "Preserves bodily imagery without diagnosing stroke or heart attack."
+    },
+    {
+      "reference": "1 Samuel 25:44",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 25:44",
+          "source_verse_sha256": "a4b14028f4bc797bd7423f258f957f37079fd4f4cc2999c6a7a8648ab2b59d39",
+          "hebrew": "וְ/שָׁא֗וּל נָתַ֛ן אֶת מִיכַ֥ל בִּתּ֖/וֹ אֵ֣שֶׁת דָּוִ֑ד לְ/פַלְטִ֥י בֶן לַ֖יִשׁ אֲשֶׁ֥ר מִ/גַּלִּֽים",
+          "annotations": []
+        }
+      ],
+      "after": "Saul, meanwhile, had given his daughter Michal, David’s wife, to Palti son of Laish from Gallim.",
+      "rationale": "Preserves Michal’s identification as David’s wife despite Saul’s transfer."
+    },
+    {
+      "reference": "1 Samuel 26:4",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 26:4",
+          "source_verse_sha256": "745837d0b682c4ef8a302b15019cc73c500658be226415857e73d663c6653c68",
+          "hebrew": "וַ/יִּשְׁלַ֥ח דָּוִ֖ד מְרַגְּלִ֑ים וַ/יֵּ֕דַע כִּֽי בָ֥א שָׁא֖וּל אֶל נָכֽוֹן",
+          "annotations": []
+        }
+      ],
+      "after": "David sent scouts and learned for certain that Saul had arrived.",
+      "rationale": "Reads the difficult certainty/location phrase as reliable intelligence, noted."
+    },
+    {
+      "reference": "1 Samuel 26:6",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 26:6",
+          "source_verse_sha256": "7edfc51bfbd9554e9a68ca951d945cc061dba5fed1a85aff9af6f08793ace4e7",
+          "hebrew": "וַ/יַּ֨עַן דָּוִ֜ד וַ/יֹּ֣אמֶר אֶל אֲחִימֶ֣לֶךְ הַ/חִתִּ֗י וְ/אֶל אֲבִישַׁ֨י בֶּן צְרוּיָ֜ה אֲחִ֤י יוֹאָב֙ לֵ/אמֹ֔ר מִֽי יֵרֵ֥ד אִתִּ֛/י אֶל שָׁא֖וּל אֶל הַֽ/מַּחֲנֶ֑ה וַ/יֹּ֣אמֶר אֲבִישַׁ֔י אֲנִ֖י אֵרֵ֥ד עִמָּֽ/ךְ",
+          "annotations": []
+        }
+      ],
+      "after": "David asked Ahimelech the Hittite and Abishai son of Zeruiah, Joab’s brother, “Who will go down with me into Saul’s camp?” Abishai answered, “I will.”",
+      "rationale": "Retains the Hittite and the maternal/familial identification of Abishai."
+    },
+    {
+      "reference": "1 Samuel 26:10",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 26:10",
+          "source_verse_sha256": "121a040ea2801486ad826c9faf9aa894b4d893a4a557195314c4fa878466a785",
+          "hebrew": "וַ/יֹּ֤אמֶר דָּוִד֙ חַי יְהוָ֔ה כִּ֥י אִם יְהוָ֖ה יִגָּפֶ֑/נּוּ אֽוֹ יוֹמ֤/וֹ יָבוֹא֙ וָ/מֵ֔ת א֧וֹ בַ/מִּלְחָמָ֛ה יֵרֵ֖ד וְ/נִסְפָּֽה",
+          "annotations": []
+        }
+      ],
+      "after": "He added, “As the LORD lives, the LORD will strike him, or his day will come and he will die, or he will go down to battle and perish.",
+      "rationale": "Keeps the three possible ends distinct without predicting which occurs."
+    },
+    {
+      "reference": "1 Samuel 26:12",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 26:12",
+          "source_verse_sha256": "78a03e669ccf5e669d20111ba1769a2b6f79e00ee8497560725c8b5d37b95141",
+          "hebrew": "וַ/יִּקַּח֩ דָּוִ֨ד אֶֽת הַ/חֲנִ֜ית וְ/אֶת צַפַּ֤חַת הַ/מַּ֨יִם֙ מֵרַאֲשֹׁתֵ֣י שָׁא֔וּל וַ/יֵּלְכ֖וּ לָ/הֶ֑ם וְ/אֵ֣ין רֹאֶה֩ וְ/אֵ֨ין יוֹדֵ֜עַ וְ/אֵ֣ין מֵקִ֗יץ כִּ֤י כֻלָּ/ם֙ יְשֵׁנִ֔ים כִּ֚י תַּרְדֵּמַ֣ת יְהוָ֔ה נָפְלָ֖ה עֲלֵי/הֶֽם",
+          "annotations": []
+        }
+      ],
+      "after": "David took the spear and the water flask from beside Saul’s head, and they left. No one saw, no one knew, and no one woke. They were all asleep, for a deep sleep from the LORD had fallen on them.",
+      "rationale": "Retains triple no-one and the narrator’s explanation of divine sleep."
+    },
+    {
+      "reference": "1 Samuel 26:19",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 26:19",
+          "source_verse_sha256": "0c12fd1cc01d20aa968203382074d26f0fcfb62f949f63c0e72ae1a0971c1d3a",
+          "hebrew": "וְ/עַתָּ֗ה יִֽשְׁמַֽע נָא֙ אֲדֹנִ֣/י הַ/מֶּ֔לֶךְ אֵ֖ת דִּבְרֵ֣י עַבְדּ֑/וֹ אִם יְהוָ֞ה הֱסִֽיתְ/ךָ֥ בִ/י֙ יָרַ֣ח מִנְחָ֔ה וְ/אִ֣ם בְּנֵ֣י הָ/אָדָ֗ם אֲרוּרִ֥ים הֵם֙ לִ/פְנֵ֣י יְהוָ֔ה כִּֽי גֵרְשׁ֣וּ/נִי הַ/יּ֗וֹם מֵ/הִסְתַּפֵּ֜חַ בְּ/נַחֲלַ֤ת יְהוָה֙ לֵ/אמֹ֔ר לֵ֥ךְ עֲבֹ֖ד אֱלֹהִ֥ים אֲחֵרִֽים",
+          "annotations": []
+        }
+      ],
+      "after": "My lord the king, please listen to your servant’s words. If the LORD has stirred you up against me, may he accept the scent of an offering. But if people have done it, may they be cursed before the LORD. Today they have driven me from my share in the LORD’s inheritance, saying, ‘Go and serve other gods.’",
+      "rationale": "Retains the difficult divine-incitement possibility, offering scent and forced religious displacement."
+    },
+    {
+      "reference": "1 Samuel 26:20",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 26:20",
+          "source_verse_sha256": "d499ef5ac8d5e2489a972a0f7073f944801f66152b540567461ade7fee528457",
+          "hebrew": "וְ/עַתָּ֗ה אַל יִפֹּ֤ל דָּֽמִ/י֙ אַ֔רְצָ/ה מִ/נֶּ֖גֶד פְּנֵ֣י יְהוָ֑ה כִּֽי יָצָ֞א מֶ֣לֶךְ יִשְׂרָאֵ֗ל לְ/בַקֵּשׁ֙ אֶת פַּרְעֹ֣שׁ אֶחָ֔ד כַּ/אֲשֶׁ֛ר יִרְדֹּ֥ף הַ/קֹּרֵ֖א בֶּ/הָרִֽים",
+          "annotations": []
+        }
+      ],
+      "after": "Do not let my blood fall to the ground far from the LORD’s presence. Israel’s king has come out to seek a single flea, as one hunts a partridge in the mountains.”",
+      "rationale": "Keeps blood, presence, flea and hunted-bird images without reconciling their scale."
+    },
+    {
+      "reference": "1 Samuel 26:23",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 26:23",
+          "source_verse_sha256": "03e61a880773d29b97ec0d7c78d0dddf708e1de6e146d131c39f43b9dd3a9238",
+          "hebrew": "וַֽ/יהוָה֙ יָשִׁ֣יב לָ/אִ֔ישׁ אֶת צִדְקָת֖/וֹ וְ/אֶת אֱמֻנָת֑/וֹ אֲשֶׁר֩ נְתָנְ/ךָ֨ יְהוָ֤ה הַ/יּוֹם֙ בְּ/יָ֔ד וְ/לֹ֣א אָבִ֔יתִי לִ/שְׁלֹ֥חַ יָדִ֖/י בִּ/מְשִׁ֥יחַ יְהוָֽה",
+          "annotations": [
+            "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>\n          "
+          ]
+        }
+      ],
+      "after": "The LORD repays each person’s righteousness and faithfulness. Today he gave you into my hand, but I would not raise my hand against the LORD’s anointed.",
+      "rationale": "Retains repayment, righteousness/faithfulness and repeated hand language."
+    },
+    {
+      "reference": "1 Samuel 27:7",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 27:7",
+          "source_verse_sha256": "f5a52d6e91fb40622cb53757a0d32824d6b5227078e2c4f831ed1400acdf839f",
+          "hebrew": "וַֽ/יְהִי֙ מִסְפַּ֣ר הַ/יָּמִ֔ים אֲשֶׁר יָשַׁ֥ב דָּוִ֖ד בִּ/שְׂדֵ֣ה פְלִשְׁתִּ֑ים יָמִ֖ים וְ/אַרְבָּעָ֥ה חֳדָשִֽׁים",
+          "annotations": []
+        }
+      ],
+      "after": "David lived in Philistine territory for a year and four months.",
+      "rationale": "Renders days as the annual interval in context, with exact four months retained."
+    },
+    {
+      "reference": "1 Samuel 27:8",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 27:8",
+          "source_verse_sha256": "e77c8af2a951338bb1eb4e9bfbe2be3227b4de019856225cfcdb4f5a7fc385ee",
+          "hebrew": "וַ/יַּ֤עַל דָּוִד֙ וַֽ/אֲנָשָׁ֔י/ו וַֽ/יִּפְשְׁט֛וּ אֶל הַ/גְּשׁוּרִ֥י ו/ה/גרזי וְ/הָ/עֲמָלֵקִ֑י כִּ֣י הֵ֜נָּה יֹשְׁב֤וֹת הָ/אָ֨רֶץ֙ אֲשֶׁ֣ר מֵֽ/עוֹלָ֔ם בּוֹאֲ/ךָ֥ שׁ֖וּרָ/ה וְ/עַד אֶ֥רֶץ מִצְרָֽיִם",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ו/ה/גרזי</catchWord><rdg type=\"x-qere\"><w lemma=\"c/d/1511\" n=\"1.0\" morph=\"HC/Td/Ngmsa\" id=\"09oSi\">וְ/הַ/גִּזְרִ֖י</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "David and his men went out raiding the Geshurites, the Gizrites, and the Amalekites. These peoples had long inhabited the land stretching toward Shur and the land of Egypt.",
+      "rationale": "Follows the read form Gizrites, distinct from the written Girzites; retains the other peoples and geographical extent."
+    },
+    {
+      "reference": "1 Samuel 27:9",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 27:9",
+          "source_verse_sha256": "0dcbf7cc9db9d9ab3131a9b08323dd3ce6408dab322057999d540c067bd4d847",
+          "hebrew": "וְ/הִכָּ֤ה דָוִד֙ אֶת הָ/אָ֔רֶץ וְ/לֹ֥א יְחַיֶּ֖ה אִ֣ישׁ וְ/אִשָּׁ֑ה וְ/לָקַח֩ צֹ֨אן וּ/בָקָ֜ר וַ/חֲמֹרִ֤ים וּ/גְמַלִּים֙ וּ/בְגָדִ֔ים וַ/יָּ֖שָׁב וַ/יָּבֹ֥א אֶל אָכִֽישׁ",
+          "annotations": []
+        }
+      ],
+      "after": "Whenever David struck a district, he left neither man nor woman alive. He took sheep, cattle, donkeys, camels, and clothing, then returned to Achish.",
+      "rationale": "Keeps deliberate killing of all men and women and every plunder category."
+    },
+    {
+      "reference": "1 Samuel 27:10",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 27:10",
+          "source_verse_sha256": "660d9e6a45851fa9c272087c4e2a80515d7aadf64c7bd70e4636c276d451e863",
+          "hebrew": "וַ/יֹּ֣אמֶר אָכִ֔ישׁ אַל פְּשַׁטְתֶּ֖ם הַ/יּ֑וֹם וַ/יֹּ֣אמֶר דָּוִ֗ד עַל נֶ֤גֶב יְהוּדָה֙ וְ/עַל נֶ֣גֶב הַ/יַּרְחְמְאֵלִ֔י וְ/אֶל נֶ֖גֶב הַ/קֵּינִֽי",
+          "annotations": []
+        }
+      ],
+      "after": "Achish would ask, “Where did you raid today?” David would answer, “The Negeb of Judah,” or “The Negeb of the Jerahmeelites,” or “The Negeb of the Kenites.”",
+      "rationale": "Renders difficult interrogative contextually and keeps false raid reports distinct from actual targets."
+    },
+    {
+      "reference": "1 Samuel 27:11",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 27:11",
+          "source_verse_sha256": "abbb50ef37cfd764a5d7e3f8f2494e93de5df5784da0475704537776666830c8",
+          "hebrew": "וְ/אִ֨ישׁ וְ/אִשָּׁ֜ה לֹֽא יְחַיֶּ֣ה דָוִ֗ד לְ/הָבִ֥יא גַת֙ לֵ/אמֹ֔ר פֶּן יַגִּ֥דוּ עָלֵ֖י/נוּ לֵ/אמֹ֑ר כֹּֽה עָשָׂ֤ה דָוִד֙ וְ/כֹ֣ה מִשְׁפָּט֔/וֹ כָּל הַ֨/יָּמִ֔ים אֲשֶׁ֥ר יָשַׁ֖ב בִּ/שְׂדֵ֥ה פְלִשְׁתִּֽים",
+          "annotations": []
+        }
+      ],
+      "after": "David left neither man nor woman alive to bring back to Gath. “They might report on us,” he said, “‘This is what David did.’” This was his practice all the time he lived in Philistine territory.",
+      "rationale": "Preserves the stated silencing of witnesses and sustained practice without excusing it."
+    },
+    {
+      "reference": "1 Samuel 27:12",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 27:12",
+          "source_verse_sha256": "a62be289e4bd677e32d4331f3c801f6e21b29e8ff9d8f60c598500a86e3e79bb",
+          "hebrew": "וַ/יַּאֲמֵ֥ן אָכִ֖ישׁ בְּ/דָוִ֣ד לֵ/אמֹ֑ר הַבְאֵ֤שׁ הִבְאִישׁ֙ בְּ/עַמּ֣/וֹ בְ/יִשְׂרָאֵ֔ל וְ/הָ֥יָה לִ֖/י לְ/עֶ֥בֶד עוֹלָֽם",
+          "annotations": []
+        }
+      ],
+      "after": "Achish trusted David. “He has made himself a stench to his people Israel,” he thought. “He will be my servant forever.”",
+      "rationale": "Keeps Achish’s mistaken inference and stench metaphor."
+    },
+    {
+      "reference": "1 Samuel 28:2",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 28:2",
+          "source_verse_sha256": "b4ff09fb17836610c6051908d8187838d9ba263abd57aa349b59360d4fc8de98",
+          "hebrew": "וַ/יֹּ֤אמֶר דָּוִד֙ אֶל אָכִ֔ישׁ לָ/כֵן֙ אַתָּ֣ה תֵדַ֔ע אֵ֥ת אֲשֶׁר יַעֲשֶׂ֖ה עַבְדֶּ֑/ךָ וַ/יֹּ֤אמֶר אָכִישׁ֙ אֶל דָּוִ֔ד לָ/כֵ֗ן שֹׁמֵ֧ר לְ/רֹאשִׁ֛/י אֲשִֽׂימְ/ךָ֖ כָּל הַ/יָּמִֽים",
+          "annotations": []
+        }
+      ],
+      "after": "David answered, “Then you will see what your servant can do.” Achish said, “Then I will make you my bodyguard for life.”",
+      "rationale": "Keeps David’s noncommittal reply and the guard-of-my-head promise."
+    },
+    {
+      "reference": "1 Samuel 28:6",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 28:6",
+          "source_verse_sha256": "7b3fae650a72b9a6f824fc2650f1d9fe4e6b46f114d8bbbd99898d7d97267150",
+          "hebrew": "וַ/יִּשְׁאַ֤ל שָׁאוּל֙ בַּֽ/יהוָ֔ה וְ/לֹ֥א עָנָ֖/הוּ יְהוָ֑ה גַּ֧ם בַּ/חֲלֹמ֛וֹת גַּ֥ם בָּ/אוּרִ֖ים גַּ֥ם בַּ/נְּבִיאִֽם",
+          "annotations": []
+        }
+      ],
+      "after": "Saul inquired of the LORD, but the LORD did not answer him—not through dreams, Urim, or prophets.",
+      "rationale": "Retains all three avenues and lack of answer."
+    },
+    {
+      "reference": "1 Samuel 28:12",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 28:12",
+          "source_verse_sha256": "b167e2cca91f6be187f8e938f9e5d66eaefe8265eea5f3b4bbd96c5a5b76226f",
+          "hebrew": "וַ/תֵּ֤רֶא הָֽ/אִשָּׁה֙ אֶת שְׁמוּאֵ֔ל וַ/תִּזְעַ֖ק בְּ/ק֣וֹל גָּד֑וֹל וַ/תֹּאמֶר֩ הָ/אִשָּׁ֨ה אֶל שָׁא֧וּל לֵ/אמֹ֛ר לָ֥/מָּה רִמִּיתָ֖/נִי וְ/אַתָּ֥ה שָׁאֽוּל",
+          "annotations": []
+        }
+      ],
+      "after": "When the woman saw Samuel, she cried out loudly. “Why have you deceived me?” she said to Saul. “You are Saul!”",
+      "rationale": "Preserves narrator’s identification as Samuel without imposing fraud or a demon explanation."
+    },
+    {
+      "reference": "1 Samuel 28:13",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 28:13",
+          "source_verse_sha256": "e4289cbf8e6639ea06e8ccc29a20fc9214d2b1d206554054bb301d65f97dab8f",
+          "hebrew": "וַ/יֹּ֨אמֶר לָ֥/הּ הַ/מֶּ֛לֶךְ אַל תִּֽירְאִ֖י כִּ֣י מָ֣ה רָאִ֑ית וַ/תֹּ֤אמֶר הָֽ/אִשָּׁה֙ אֶל שָׁא֔וּל אֱלֹהִ֥ים רָאִ֖יתִי עֹלִ֥ים מִן הָ/אָֽרֶץ",
+          "annotations": []
+        }
+      ],
+      "after": "The king said, “Do not be afraid. What do you see?” She answered, “I see a divine being coming up from the earth.”",
+      "rationale": "Uses contextual singular for elohim with plural participle, noting the source ambiguity."
+    },
+    {
+      "reference": "1 Samuel 28:14",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 28:14",
+          "source_verse_sha256": "498e98e91c1c70c01ea2d9ec23421447740b7bbf1940eabba2767f2ffd2fa384",
+          "hebrew": "וַ/יֹּ֤אמֶר לָ/הּ֙ מַֽה תָּאֳר֔/וֹ וַ/תֹּ֗אמֶר אִ֤ישׁ זָקֵן֙ עֹלֶ֔ה וְ/ה֥וּא עֹטֶ֖ה מְעִ֑יל וַ/יֵּ֤דַע שָׁאוּל֙ כִּֽי שְׁמוּאֵ֣ל ה֔וּא וַ/יִּקֹּ֥ד אַפַּ֛יִם אַ֖רְצָ/ה וַ/יִּשְׁתָּֽחוּ",
+          "annotations": []
+        }
+      ],
+      "after": "“What does he look like?” he asked. “An old man is coming up, wrapped in a robe,” she said. Saul knew it was Samuel and bowed facedown to the ground.",
+      "rationale": "Preserves Saul’s recognition through description rather than saying he directly saw Samuel."
+    },
+    {
+      "reference": "1 Samuel 28:17",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 28:17",
+          "source_verse_sha256": "b810b27e3da9a0c4665feb8aa6af5c196d6f6dfe17993653de61e5ec4858a4da",
+          "hebrew": "וַ/יַּ֤עַשׂ יְהוָה֙ ל֔/וֹ כַּ/אֲשֶׁ֖ר דִּבֶּ֣ר בְּ/יָדִ֑/י וַ/יִּקְרַ֨ע יְהוָ֤ה אֶת הַ/מַּמְלָכָה֙ מִ/יָּדֶ֔/ךָ וַֽ/יִּתְּנָ֖/הּ לְ/רֵעֲ/ךָ֥ לְ/דָוִֽד",
+          "annotations": []
+        }
+      ],
+      "after": "The LORD has acted for himself as he said through me. He has torn the kingdom from your hand and given it to your neighbor, David.",
+      "rationale": "Retains difficult for-himself pronoun reading and explicit naming of David."
+    },
+    {
+      "reference": "1 Samuel 28:19",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 28:19",
+          "source_verse_sha256": "555db6d38528d7abe1bbcbef71c4aa4840337a84d86dc25610f842607f8ed384",
+          "hebrew": "וְ/יִתֵּ֣ן יְ֠הוָה גַּ֣ם אֶת יִשְׂרָאֵ֤ל עִמְּ/ךָ֙ בְּ/יַד פְּלִשְׁתִּ֔ים וּ/מָחָ֕ר אַתָּ֥ה וּ/בָנֶ֖י/ךָ עִמִּ֑/י גַּ֚ם אֶת מַחֲנֵ֣ה יִשְׂרָאֵ֔ל יִתֵּ֥ן יְהוָ֖ה בְּ/יַד פְּלִשְׁתִּֽים",
+          "annotations": []
+        }
+      ],
+      "after": "The LORD will hand over Israel along with you to the Philistines. Tomorrow you and your sons will be with me. The LORD will also hand Israel’s army over to the Philistines.”",
+      "rationale": "Retains death prediction and with-me language without specifying an afterlife destination."
+    },
+    {
+      "reference": "1 Samuel 28:21",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 28:21",
+          "source_verse_sha256": "9c837d819bae52c6635497ab224299c51887a8bf6a584f252ef82efeae9fa5ad",
+          "hebrew": "וַ/תָּב֤וֹא הָֽ/אִשָּׁה֙ אֶל שָׁא֔וּל וַ/תֵּ֖רֶא כִּי נִבְהַ֣ל מְאֹ֑ד וַ/תֹּ֣אמֶר אֵלָ֗י/ו הִנֵּ֨ה שָׁמְעָ֤ה שִׁפְחָֽתְ/ךָ֙ בְּ/קוֹלֶ֔/ךָ וָ/אָשִׂ֤ים נַפְשִׁ/י֙ בְּ/כַפִּ֔/י וָֽ/אֶשְׁמַע֙ אֶת דְּבָרֶ֔י/ךָ אֲשֶׁ֥ר דִּבַּ֖רְתָּ אֵלָֽ/י",
+          "annotations": []
+        }
+      ],
+      "after": "The woman came to Saul and saw how shaken he was. She said, “Your servant listened to your voice. I took my life in my hands and did what you told me.",
+      "rationale": "Preserves her claimed obedience and risk, echoing the hearing motif."
+    },
+    {
+      "reference": "1 Samuel 29:3",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 29:3",
+          "source_verse_sha256": "c9c6fdb3283956f53b3670235d5011f421cdcb78a084424d99eac409e11cdf7f",
+          "hebrew": "וַ/יֹּֽאמְרוּ֙ שָׂרֵ֣י פְלִשְׁתִּ֔ים מָ֖ה הָ/עִבְרִ֣ים הָ/אֵ֑לֶּה וַ/יֹּ֨אמֶר אָכִ֜ישׁ אֶל שָׂרֵ֣י פְלִשְׁתִּ֗ים הֲ/לֽוֹא זֶ֨ה דָוִ֜ד עֶ֣בֶד שָׁא֣וּל מֶֽלֶךְ יִשְׂרָאֵ֗ל אֲשֶׁ֨ר הָיָ֤ה אִתִּ/י֙ זֶ֤ה יָמִים֙ אוֹ זֶ֣ה שָׁנִ֔ים וְ/לֹֽא מָצָ֤אתִי ב/וֹ֙ מְא֔וּמָה מִ/יּ֥וֹם נָפְל֖/וֹ עַד הַ/יּ֥וֹם הַ/זֶּֽה",
+          "annotations": []
+        }
+      ],
+      "after": "The Philistine commanders asked, “What are these Hebrews doing here?” Achish answered, “This is David, servant of Saul king of Israel. He has been with me these days or these years—and I have found no fault in him from the day he came over until now.”",
+      "rationale": "Preserves Achish’s imprecise days-or-years expression without adding an explicit self-correction; his confidence remains his assessment."
+    },
+    {
+      "reference": "1 Samuel 29:5",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 29:5",
+          "source_verse_sha256": "47e3d522bc7522d41b5af0794a281f3fd1344432674d8feabc95d9fd130aef26",
+          "hebrew": "הֲ/לוֹא זֶ֣ה דָוִ֔ד אֲשֶׁ֧ר יַעֲנוּ ל֛/וֹ בַּ/מְּחֹל֖וֹת לֵ/אמֹ֑ר הִכָּ֤ה שָׁאוּל֙ בַּֽ/אֲלָפָ֔י/ו וְ/דָוִ֖ד ב/רבבת/ו",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>ב/רבבת/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"b/7233\" n=\"0\" morph=\"HR/Ncfpc/Sp3ms\" id=\"09hSt\">בְּ/רִבְבֹתָֽי/ו</w></rdg></note>"
+          ]
+        }
+      ],
+      "after": "Is this not the David they sang about as they danced: ‘Saul has struck down his thousands, and David his tens of thousands’?”",
+      "rationale": "Repeats the same song exactly, keeping its political effect visible."
+    },
+    {
+      "reference": "1 Samuel 29:6",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 29:6",
+          "source_verse_sha256": "e042f9eefc3b499e2f04552d13f2b0635db7475d923a30225b9c2a383727a5f9",
+          "hebrew": "וַ/יִּקְרָ֨א אָכִ֜ישׁ אֶל דָּוִ֗ד וַ/יֹּ֣אמֶר אֵ֠לָי/ו חַי יְהוָ֞ה כִּי יָשָׁ֣ר אַתָּ֗ה וְ/ט֣וֹב בְּ֠/עֵינַ/י צֵאתְ/ךָ֨ וּ/בֹאֲ/ךָ֤ אִתִּ/י֙ בַּֽ/מַּחֲנֶ֔ה כִּ֠י לֹֽא מָצָ֤אתִֽי בְ/ךָ֙ רָעָ֔ה מִ/יּ֛וֹם בֹּאֲ/ךָ֥ אֵלַ֖/י עַד הַ/יּ֣וֹם הַ/זֶּ֑ה וּ/בְ/עֵינֵ֥י הַ/סְּרָנִ֖ים לֹֽא ט֥וֹב אָֽתָּה",
+          "annotations": [
+            "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>\n          "
+          ]
+        }
+      ],
+      "after": "Achish called David and said, “As the LORD lives, you have been upright. I have been pleased to have you go out and come in with me in the army. I have found no evil in you since you came to me, but the rulers do not approve of you.",
+      "rationale": "Preserves Achish’s oath by the LORD and his assessment as speech."
+    },
+    {
+      "reference": "1 Samuel 29:8",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 29:8",
+          "source_verse_sha256": "f5c188423d875d08bf66b7b0c5bd77e59da66380b178170a228cc484bfe16ebb",
+          "hebrew": "וַ/יֹּ֨אמֶר דָּוִ֜ד אֶל אָכִ֗ישׁ כִּ֣י מֶ֤ה עָשִׂ֨יתִי֙ וּ/מַה מָּצָ֣אתָ בְ/עַבְדְּ/ךָ֔ מִ/יּוֹם֙ אֲשֶׁ֣ר הָיִ֣יתִי לְ/פָנֶ֔י/ךָ עַ֖ד הַ/יּ֣וֹם הַ/זֶּ֑ה כִּ֣י לֹ֤א אָבוֹא֙ וְ/נִלְחַ֔מְתִּי בְּ/אֹיְבֵ֖י אֲדֹנִ֥/י הַ/מֶּֽלֶךְ",
+          "annotations": []
+        }
+      ],
+      "after": "David asked, “But what have I done? What fault have you found in your servant all the time I have been with you, that I cannot go and fight the enemies of my lord the king?”",
+      "rationale": "Preserves ambiguous loyalty in David’s protest without revealing an unspoken plan."
+    },
+    {
+      "reference": "1 Samuel 29:10",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 29:10",
+          "source_verse_sha256": "91cb0ef38f91f30c5d148cf047239010bbd4d61bd265b5f0c458ef2452a6a2d5",
+          "hebrew": "וְ/עַתָּה֙ הַשְׁכֵּ֣ם בַּ/בֹּ֔קֶר וְ/עַבְדֵ֥י אֲדֹנֶ֖י/ךָ אֲשֶׁר בָּ֣אוּ אִתָּ֑/ךְ וְ/הִשְׁכַּמְתֶּ֣ם בַּ/בֹּ֔קֶר וְ/א֥וֹר לָ/כֶ֖ם וָ/לֵֽכוּ",
+          "annotations": []
+        }
+      ],
+      "after": "Get up early tomorrow with your master’s servants who came with you. Rise early, and leave as soon as it is light.”",
+      "rationale": "Preserves your-master designation and repeated early departure."
+    },
+    {
+      "reference": "1 Samuel 30:2",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:2",
+          "source_verse_sha256": "a868a9dd3c322e383f304bb3779cfea314f0c29a7d3361d587ac75458ed42245",
+          "hebrew": "וַ/יִּשְׁבּ֨וּ אֶת הַ/נָּשִׁ֤ים אֲשֶׁר בָּ/הּ֙ מִ/קָּטֹ֣ן וְ/עַד גָּד֔וֹל לֹ֥א הֵמִ֖יתוּ אִ֑ישׁ וַ/יִּֽנְהֲג֔וּ וַ/יֵּלְכ֖וּ לְ/דַרְכָּֽ/ם",
+          "annotations": []
+        }
+      ],
+      "after": "They had taken the women there captive, along with everyone from small to great. They had killed no one, but driven them away and gone on.",
+      "rationale": "Preserves the women named and comprehensive small/great scope, distinct from David’s earlier raids."
+    },
+    {
+      "reference": "1 Samuel 30:6",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:6",
+          "source_verse_sha256": "ba1f31d3e9a57704f9cd4efab2cde76140ea4492a6ac06a769087997e5874450",
+          "hebrew": "וַ/תֵּ֨צֶר לְ/דָוִ֜ד מְאֹ֗ד כִּֽי אָמְר֤וּ הָ/עָם֙ לְ/סָקְל֔/וֹ כִּֽי מָ֨רָה֙ נֶ֣פֶשׁ כָּל הָ/עָ֔ם אִ֖ישׁ עַל בנ/ו וְ/עַל בְּנֹתָ֑י/ו וַ/יִּתְחַזֵּ֣ק דָּוִ֔ד בַּ/יהוָ֖ה אֱלֹהָֽי/ו",
+          "annotations": [
+            "<note type=\"variant\"><catchWord>בנ/ו</catchWord><rdg type=\"x-qere\"><w lemma=\"1121 a\" morph=\"HNcmpc/Sp3ms\" id=\"09gLX\">בָּנָ֣י/ו</w></rdg></note>\n          "
+          ]
+        }
+      ],
+      "after": "David was in great distress. The men talked of stoning him, bitter in spirit over their sons and daughters. But David found strength in the LORD his God.",
+      "rationale": "Keeps threat from his own men, qere sons and contrasting renewed strength."
+    },
+    {
+      "reference": "1 Samuel 30:10",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:10",
+          "source_verse_sha256": "52d0c1aabda06014ce8134d65aa82cff3eb0ff0bf7b13b66762b434f314874bb",
+          "hebrew": "וַ/יִּרְדֹּ֣ף דָּוִ֔ד ה֖וּא וְ/אַרְבַּע מֵא֣וֹת אִ֑ישׁ וַ/יַּֽעַמְדוּ֙ מָאתַ֣יִם אִ֔ישׁ אֲשֶׁ֣ר פִּגְּר֔וּ מֵ/עֲבֹ֖ר אֶת נַ֥חַל הַ/בְּשֽׂוֹר",
+          "annotations": []
+        }
+      ],
+      "after": "David continued the pursuit with four hundred men. Two hundred were too exhausted to cross the Wadi Besor and stayed there.",
+      "rationale": "Keeps exhaustion as reason and exact division of the force."
+    },
+    {
+      "reference": "1 Samuel 30:12",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:12",
+          "source_verse_sha256": "ea9566b0d1baca73e943b406de959b143b02a181b9a5890083c6d71490e21e48",
+          "hebrew": "וַ/יִּתְּנוּ ל/וֹ֩ פֶ֨לַח דְּבֵלָ֜ה וּ/שְׁנֵ֤י צִמֻּקִים֙ וַ/יֹּ֔אכַל וַ/תָּ֥שָׁב רוּח֖/וֹ אֵלָ֑י/ו כִּ֠י לֹֽא אָ֤כַל לֶ֨חֶם֙ וְ/לֹא שָׁ֣תָה מַ֔יִם שְׁלֹשָׁ֥ה יָמִ֖ים וּ/שְׁלֹשָׁ֥ה לֵילֽוֹת",
+          "annotations": []
+        }
+      ],
+      "after": "They also gave him part of a fig cake and two raisin cakes. He ate, and his spirit returned. He had eaten no bread and drunk no water for three days and three nights.",
+      "rationale": "Preserves food quantities, exact deprivation and revived-spirit image."
+    },
+    {
+      "reference": "1 Samuel 30:13",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:13",
+          "source_verse_sha256": "094deab0d0502ade07d556c1d198a980422044b13fc06a9a5de2b945555cbfa6",
+          "hebrew": "וַ/יֹּ֨אמֶר ל֤/וֹ דָוִד֙ לְֽ/מִי אַ֔תָּה וְ/אֵ֥י מִ/זֶּ֖ה אָ֑תָּה וַ/יֹּ֜אמֶר נַ֧עַר מִצְרִ֣י אָנֹ֗כִי עֶ֚בֶד לְ/אִ֣ישׁ עֲמָֽלֵקִ֔י וַ/יַּעַזְבֵ֧/נִי אֲדֹנִ֛/י כִּ֥י חָלִ֖יתִי הַ/יּ֥וֹם שְׁלֹשָֽׁה",
+          "annotations": []
+        }
+      ],
+      "after": "David asked, “Whom do you belong to, and where are you from?” He answered, “I am an Egyptian youth, a slave of an Amalekite. My master abandoned me when I fell ill three days ago.",
+      "rationale": "Retains enslavement and abandonment rather than employment language."
+    },
+    {
+      "reference": "1 Samuel 30:15",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:15",
+          "source_verse_sha256": "0bbefc4a507ac58dcd5dcf3289ee44aafd0de79016ed65ca4093250ecbeeaf3e",
+          "hebrew": "וַ/יֹּ֤אמֶר אֵלָי/ו֙ דָּוִ֔ד הֲ/תוֹרִדֵ֖/נִי אֶל הַ/גְּד֣וּד הַ/זֶּ֑ה וַ/יֹּ֡אמֶר הִשָּׁבְעָ/ה֩ לִּ֨/י בֵֽ/אלֹהִ֜ים אִם תְּמִיתֵ֗/נִי וְ/אִם תַּסְגִּרֵ֨/נִי֙ בְּ/יַד אֲדֹנִ֔/י וְ/אוֹרִֽדְ/ךָ֖ אֶל הַ/גְּד֥וּד הַ/זֶּֽה",
+          "annotations": []
+        }
+      ],
+      "after": "David asked, “Will you lead me down to this raiding band?” He answered, “Swear to me by God that you will not kill me or hand me back to my master. Then I will lead you to them.”",
+      "rationale": "Preserves the enslaved man’s two protective conditions."
+    },
+    {
+      "reference": "1 Samuel 30:17",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:17",
+          "source_verse_sha256": "aa90b28546b4feaf0f838377b26c1e58236fdca44c9fd3ea27cf8570d929e3b8",
+          "hebrew": "וַ/יַּכֵּ֥/ם דָּוִ֛ד מֵ/הַ/נֶּ֥שֶׁף וְ/עַד הָ/עֶ֖רֶב לְ/מָֽחֳרָתָ֑/ם וְ/לֹֽא נִמְלַ֤ט מֵ/הֶם֙ אִ֔ישׁ כִּי֩ אִם אַרְבַּ֨ע מֵא֧וֹת אִֽישׁ נַ֛עַר אֲשֶׁר רָכְב֥וּ עַל הַ/גְּמַלִּ֖ים וַ/יָּנֻֽסוּ",
+          "annotations": []
+        }
+      ],
+      "after": "David struck them from twilight until the next evening. No one escaped except four hundred young men who rode off on camels.",
+      "rationale": "Retains ambiguous twilight timing and exact number and means of escape."
+    },
+    {
+      "reference": "1 Samuel 30:20",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:20",
+          "source_verse_sha256": "282bf973c300fcb58c3a6f026e51d45800e420a80a54bd95456edeb5998ffbce",
+          "hebrew": "וַ/יִּקַּ֣ח דָּוִ֔ד אֶת כָּל הַ/צֹּ֖אן וְ/הַ/בָּקָ֑ר נָהֲג֗וּ לִ/פְנֵי֙ הַ/מִּקְנֶ֣ה הַ/ה֔וּא וַ/יֹּ֣אמְר֔וּ זֶ֖ה שְׁלַ֥ל דָּוִֽד",
+          "annotations": []
+        }
+      ],
+      "after": "He took all the sheep and cattle. His men drove them ahead of the other livestock, saying, “This is David’s plunder.”",
+      "rationale": "Keeps the difficult livestock distinction without inventing owners; note flags the wording."
+    },
+    {
+      "reference": "1 Samuel 30:24",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:24",
+          "source_verse_sha256": "e8d4610b05aff0b7c0476950f6412f17a311e37ae6d87feab56dbda934caec35",
+          "hebrew": "וּ/מִי֙ יִשְׁמַ֣ע לָ/כֶ֔ם לַ/דָּבָ֖ר הַ/זֶּ֑ה כִּ֞י כְּ/חֵ֣לֶק הַ/יֹּרֵ֣ד בַּ/מִּלְחָמָ֗ה וּֽ/כְ/חֵ֛לֶק הַ/יֹּשֵׁ֥ב עַל הַ/כֵּלִ֖ים יַחְדָּ֥ו יַחֲלֹֽקוּ",
+          "annotations": []
+        }
+      ],
+      "after": "Who would listen to such a proposal? The share of the one who goes into battle will be the same as the share of the one who stays with the supplies. They will share alike.”",
+      "rationale": "Keeps equal shares and both roles without recasting exhausted men as deserters."
+    },
+    {
+      "reference": "1 Samuel 30:27",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:27",
+          "source_verse_sha256": "73e4fdc3dff842f330d0da2bf2e8ecf84c7b4290fb3b286cb7923e71919cc015",
+          "hebrew": "לַ/אֲשֶׁ֧ר בְּ/בֵֽית אֵ֛ל וְ/לַ/אֲשֶׁ֥ר בְּ/רָמֽוֹת נֶ֖גֶב וְ/לַ/אֲשֶׁ֥ר בְּ/יַתִּֽר",
+          "annotations": []
+        }
+      ],
+      "after": "He sent it to those in Bethel, Ramoth-negeb, and Jattir;",
+      "rationale": "Preserves first three place names with the list continuing."
+    },
+    {
+      "reference": "1 Samuel 30:29",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:29",
+          "source_verse_sha256": "192c2b6483c51200728da94da2ab89596a74ec25e88719f37306e2160fb24556",
+          "hebrew": "וְ/לַ/אֲשֶׁ֣ר בְּ/רָכָ֗ל וְ/לַֽ/אֲשֶׁר֙ בְּ/עָרֵ֣י הַ/יְּרַחְמְאֵלִ֔י וְ/לַ/אֲשֶׁ֖ר בְּ/עָרֵ֥י הַ/קֵּינִֽי",
+          "annotations": []
+        }
+      ],
+      "after": "to those in Racal, the Jerahmeelite towns, and the Kenite towns;",
+      "rationale": "Keeps pinned Racal and distinct clan settlements."
+    },
+    {
+      "reference": "1 Samuel 30:30",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 30:30",
+          "source_verse_sha256": "fe83b70a4f0615a107ac90986a342f54014f05284dfc46b98116c1a5deca9e3d",
+          "hebrew": "וְ/לַ/אֲשֶׁ֧ר בְּ/חָרְמָ֛ה וְ/לַ/אֲשֶׁ֥ר בְּ/בוֹר עָשָׁ֖ן וְ/לַ/אֲשֶׁ֥ר בַּ/עֲתָֽךְ",
+          "annotations": []
+        }
+      ],
+      "after": "to those in Hormah, Bor-ashan, and Athach;",
+      "rationale": "Preserves the three named recipients’ towns."
+    },
+    {
+      "reference": "1 Samuel 31:2",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 31:2",
+          "source_verse_sha256": "a8a2f2824ebcce779789cf90a638ea11e803f6d4badc132511f6c18f88435a4a",
+          "hebrew": "וַ/יַּדְבְּק֣וּ פְלִשְׁתִּ֔ים אֶת שָׁא֖וּל וְ/אֶת בָּנָ֑י/ו וַ/יַּכּ֣וּ פְלִשְׁתִּ֗ים אֶת יְהוֹנָתָ֧ן וְ/אֶת אֲבִינָדָ֛ב וְ/אֶת מַלְכִּי שׁ֖וּעַ בְּנֵ֥י שָׁאֽוּל",
+          "annotations": []
+        }
+      ],
+      "after": "The Philistines closed in on Saul and his sons. They killed Jonathan, Abinadab, and Malchi-shua, Saul’s sons.",
+      "rationale": "Preserves all three names without harmonizing Abinadab with chapter 14’s list."
+    },
+    {
+      "reference": "1 Samuel 31:3",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 31:3",
+          "source_verse_sha256": "dbf937ecabdea3c2690e1a11c1e463f17d7ac34d7c3b619f20cc9e6911cb35aa",
+          "hebrew": "וַ/תִּכְבַּ֤ד הַ/מִּלְחָמָה֙ אֶל שָׁא֔וּל וַ/יִּמְצָאֻ֥/הוּ הַ/מּוֹרִ֖ים אֲנָשִׁ֣ים בַּ/קָּ֑שֶׁת וַ/יָּ֥חֶל מְאֹ֖ד מֵ/הַ/מּוֹרִֽים",
+          "annotations": []
+        }
+      ],
+      "after": "The battle pressed hard on Saul. The archers found him, and he was badly stricken by them.",
+      "rationale": "Uses stricken to retain the difficult wounded/anguished expression, with alternatives noted."
+    },
+    {
+      "reference": "1 Samuel 31:4",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 31:4",
+          "source_verse_sha256": "a7ae651cc15ae38eecd30bf6ed49dbcc689138010fd83321d2df1ea223ead85b",
+          "hebrew": "וַ/יֹּ֣אמֶר שָׁאוּל֩ לְ/נֹשֵׂ֨א כֵלָ֜י/ו שְׁלֹ֥ף חַרְבְּ/ךָ֣ וְ/דָקְרֵ֣/נִי בָ֗/הּ פֶּן יָ֠בוֹאוּ הָ/עֲרֵלִ֨ים הָ/אֵ֤לֶּה וּ/דְקָרֻ֨/נִי֙ וְ/הִתְעַלְּלוּ בִ֔/י וְ/לֹ֤א אָבָה֙ נֹשֵׂ֣א כֵלָ֔י/ו כִּ֥י יָרֵ֖א מְאֹ֑ד וַ/יִּקַּ֤ח שָׁאוּל֙ אֶת הַ/חֶ֔רֶב וַ/יִּפֹּ֖ל עָלֶֽי/הָ",
+          "annotations": []
+        }
+      ],
+      "after": "Saul told his armor-bearer, “Draw your sword and run me through. Otherwise these uncircumcised men will come, run me through, and abuse me.” His armor-bearer refused, for he was terrified. So Saul took his sword and fell on it.",
+      "rationale": "Preserves self-inflicted death, feared abuse and the armor-bearer’s refusal without euphemism."
+    },
+    {
+      "reference": "1 Samuel 31:5",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 31:5",
+          "source_verse_sha256": "932471e954842e7868b93cbf797f300656915c744afe94340be335a77d68150a",
+          "hebrew": "וַ/יַּ֥רְא נֹשֵֽׂא כֵלָ֖י/ו כִּ֣י מֵ֣ת שָׁא֑וּל וַ/יִּפֹּ֥ל גַּם ה֛וּא עַל חַרְבּ֖/וֹ וַ/יָּ֥מָת עִמּֽ/וֹ",
+          "annotations": []
+        }
+      ],
+      "after": "When the armor-bearer saw that Saul was dead, he too fell on his sword and died with him.",
+      "rationale": "Retains Saul already dead and the second suicide as narrator statements."
+    },
+    {
+      "reference": "1 Samuel 31:6",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 31:6",
+          "source_verse_sha256": "6c65f4b7503aa0087892054e95ea7ee4da6d2dec7409accde1ede86f9acf3a18",
+          "hebrew": "וַ/יָּ֣מָת שָׁא֡וּל וּ/שְׁלֹ֣שֶׁת בָּנָי/ו֩ וְ/נֹשֵׂ֨א כֵלָ֜י/ו גַּ֧ם כָּל אֲנָשָׁ֛י/ו בַּ/יּ֥וֹם הַ/ה֖וּא יַחְדָּֽו",
+          "annotations": []
+        }
+      ],
+      "after": "So Saul, his three sons, his armor-bearer, and all his men died together that day.",
+      "rationale": "Preserves the narrator’s comprehensive summary without silently restricting all."
+    },
+    {
+      "reference": "1 Samuel 31:10",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 31:10",
+          "source_verse_sha256": "b49bceff560f46af792b943ea5089cefbbea87ad8ca9593c940749ec0a9fc708",
+          "hebrew": "וַ/יָּשִׂ֨מוּ֙ אֶת כֵּלָ֔י/ו בֵּ֖ית עַשְׁתָּר֑וֹת וְ/אֶת גְּוִיָּת/וֹ֙ תָּקְע֔וּ בְּ/חוֹמַ֖ת בֵּ֥ית שָֽׁן",
+          "annotations": []
+        }
+      ],
+      "after": "They placed his armor in the temple of Ashtaroth and fastened his body to the wall of Beth-shan.",
+      "rationale": "Retains named sanctuary and public display of the body."
+    },
+    {
+      "reference": "1 Samuel 31:12",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 31:12",
+          "source_verse_sha256": "345f6e6654de615a70d9c678aae34debb88471a5a25b8138e8ef3c20b5a5d5ce",
+          "hebrew": "וַ/יָּק֜וּמוּ כָּל אִ֣ישׁ חַיִל֮ וַ/יֵּלְכ֣וּ כָל הַ/לַּיְלָה֒ וַ/יִּקְח֞וּ אֶת גְּוִיַּ֣ת שָׁא֗וּל וְ/אֵת֙ גְּוִיֹּ֣ת בָּנָ֔י/ו מֵ/חוֹמַ֖ת בֵּ֣ית שָׁ֑ן וַ/יָּבֹ֣אוּ יָבֵ֔שָׁ/ה וַ/יִּשְׂרְפ֥וּ אֹתָ֖/ם שָֽׁם",
+          "annotations": []
+        }
+      ],
+      "after": "All their fighting men set out and traveled all night. They took the bodies of Saul and his sons from Beth-shan’s wall, brought them to Jabesh, and burned them there.",
+      "rationale": "Preserves recovery, night journey and actual burning rather than substituting burial only."
+    },
+    {
+      "reference": "1 Samuel 31:13",
+      "source_segments": [
+        {
+          "source_reference": "1Sam 31:13",
+          "source_verse_sha256": "1fb1ad22a20ba9a5b1df6dd719103a4731e552edd06d20498c114b1b55c4ad6d",
+          "hebrew": "וַ/יִּקְחוּ֙ אֶת עַצְמֹ֣תֵי/הֶ֔ם וַ/יִּקְבְּר֥וּ תַֽחַת הָ/אֶ֖שֶׁל בְּ/יָבֵ֑שָׁ/ה וַ/יָּצֻ֖מוּ שִׁבְעַ֥ת יָמִֽים",
+          "annotations": []
+        }
+      ],
+      "after": "They took the bones and buried them under the tamarisk at Jabesh. Then they fasted for seven days.",
+      "rationale": "Keeps bones, tree, place and exact mourning duration."
+    }
+  ]
+}

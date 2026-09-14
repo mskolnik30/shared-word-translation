@@ -4,133 +4,97 @@ testament: OT
 chapter: 26
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-17-31-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 26
-
-## Saul Again Pursues David
+## David enters Saul’s camp
 
 <p>
-v01: The Ziphites came to Saul at Gibeah, saying, “Is not David hiding on the hill of Hachilah, facing Jeshimon?”
-
-v02: So Saul arose and went down to the wilderness of Ziph, and with him three thousand chosen men of Israel, to seek David in the wilderness of Ziph.
-
-v03: Saul camped on the hill of Hachilah, which is facing Jeshimon, beside the road. But David was staying in the wilderness. He saw that Saul had come after him into the wilderness.
-
-v04: David sent out spies and knew that Saul had surely come.
+v01: The Ziphites came to Saul at Gibeah and said, “David is hiding on the hill of Hachilah, facing Jeshimon.”
+v02: Saul set out for the wilderness of Ziph with three thousand chosen Israelites to search for David there.
 </p>
 
-## David Enters Saul’s Camp
-
 <p>
-v05: David arose and came to the place where Saul had camped. David saw the place where Saul lay and Abner son of Ner, commander of his army. Saul was lying within the camp circle, and the people were camped around him.
-
-v06: David answered and said to Ahimelech the Hittite and to Abishai son of Zeruiah, brother of Joab, saying, “Who will go down with me to Saul, to the camp?” Abishai said, “I will go down with you.”
-
-v07: So David and Abishai came to the people by night, and look, Saul was lying asleep within the camp circle, with his spear stuck in the ground at his head. Abner and the people were lying around him.
+v03: He camped beside the road on the hill of Hachilah, facing Jeshimon. David was staying in the wilderness and saw that Saul had come after him.
+v04: David sent scouts and learned for certain that Saul had arrived.
 </p>
 
-## David Refuses to Kill Saul
-
 <p>
-v08: Abishai said to David, “God has shut your enemy into your hand this day. And now please let me strike him with the spear to the ground with one stroke, and I will not strike him a second time.”
-
-v09: Yet David said to Abishai, “Do not destroy him, for who can stretch out his hand against the LORD’s anointed and be innocent?”
-
-v10: David said, “As the LORD lives, surely the LORD will strike him, or his day will come and he will die, or he will go down into battle and be swept away.
-
-v11: Far be it from me by the LORD that I should stretch out my hand against the LORD’s anointed. And now, please take the spear that is at his head and the jar of water, and let us go.”
-
-v12: So David took the spear and the jar of water from Saul’s head, and they went away. No one saw, no one knew, and no one awakened, for all of them were sleeping because a deep sleep from the LORD had fallen upon them.
+v05: David went to Saul’s camp and saw where Saul and his army commander Abner son of Ner were lying. Saul lay inside the camp enclosure, with the troops encamped around him.
 </p>
 
-## David Rebukes Abner
-
 <p>
-v13: David crossed to the other side and stood on the top of the mountain at a distance. There was much space between them.
-
-v14: David called to the people and to Abner son of Ner, saying, “Will you not answer, Abner?” Abner answered and said, “Who are you who calls to the king?”
-
-v15: David said to Abner, “Are you not a man? And who is like you in Israel? Why then have you not guarded your lord the king? For one of the people came to destroy the king your lord.
-
-v16: This thing that you have done is not good. As the LORD lives, you are sons of death because you did not guard your lord, the LORD’s anointed. And now see where the king’s spear is and the jar of water that was at his head.”
+v06: David asked Ahimelech the Hittite and Abishai son of Zeruiah, Joab’s brother, “Who will go down with me into Saul’s camp?” Abishai answered, “I will.”
+v07: David and Abishai entered the camp at night. Saul lay asleep inside the enclosure, his spear stuck in the ground beside his head. Abner and the troops lay around him.
 </p>
 
-## David Appeals to Saul
-
 <p>
-v17: Saul recognized David’s voice and said, “Is this your voice, my son David?” David said, “It is my voice, my lord the king.”
-
-v18: He said, “Why does my lord pursue after his servant? For what have I done? And what evil is in my hand?
-
-v19: And now, please let my lord the king hear the words of his servant. If the LORD has incited you against me, let him smell an offering. But if it is human beings, cursed are they before the LORD, for they have driven me out this day from sharing in the inheritance of the LORD, saying, ‘Go, serve other gods.’
-
-v20: And now, do not let my blood fall to the ground away from the presence of the LORD, for the king of Israel has come out to seek one flea, as one hunts a partridge in the mountains.”
+v08: Abishai told David, “Today God has handed your enemy over to you. Let me pin him to the ground with one thrust of the spear. I will not need a second.”
 </p>
 
-## Saul Confesses Again
+<p>
+v09: David answered, “Do not destroy him. Who can raise a hand against the LORD’s anointed and remain innocent?”
+v10: He added, “As the LORD lives, the LORD will strike him, or his day will come and he will die, or he will go down to battle and perish.
+</p>
 
 <p>
-v21: Saul said, “I have sinned. Return, my son David, for I will no longer do you harm because my life was precious in your eyes this day. Look, I have acted foolishly and have erred exceedingly.”
+v11: The LORD forbid that I should raise my hand against the LORD’s anointed. Take the spear beside his head and the water flask, and let us go.”
+v12: David took the spear and the water flask from beside Saul’s head, and they left. No one saw, no one knew, and no one woke. They were all asleep, for a deep sleep from the LORD had fallen on them.
+</p>
 
-v22: David answered and said, “Look, the king’s spear. Let one of the young men cross over and take it.
+## David challenges Abner
 
-v23: The LORD will return to each man his righteousness and his faithfulness, for the LORD gave you into my hand today, but I was not willing to stretch out my hand against the LORD’s anointed.
+<p>
+v13: David crossed to the other side and stood far away on the hilltop, leaving a great distance between them.
+v14: He called to the troops and to Abner son of Ner, “Will you not answer, Abner?” Abner answered, “Who are you, calling to the king?”
+</p>
 
-v24: And look, as your life was great in my eyes this day, so may my life be great in the eyes of the LORD, and may he rescue me from every distress.”
+<p>
+v15: David said, “Are you not a man? Who is your equal in Israel? Why did you not guard your lord the king? Someone came to destroy him.
+v16: What you have done is not good. As the LORD lives, you all deserve death, because you did not guard your lord, the LORD’s anointed. Now look: where are the king’s spear and the water flask that were beside his head?”
+</p>
 
-v25: Saul said to David, “Blessed are you, my son David. You will surely do and surely prevail.” Then David went on his way, and Saul returned to his place.
+## David and Saul speak
+
+<p>
+v17: Saul recognized David’s voice. “Is that your voice, my son David?” he asked. David answered, “It is my voice, my lord the king.”
+v18: He said, “Why is my lord pursuing his servant? What have I done? What evil is in my hand?
+</p>
+
+<p>
+v19: My lord the king, please listen to your servant’s words. If the LORD has stirred you up against me, may he accept the scent of an offering. But if people have done it, may they be cursed before the LORD. Today they have driven me from my share in the LORD’s inheritance, saying, ‘Go and serve other gods.’
+v20: Do not let my blood fall to the ground far from the LORD’s presence. Israel’s king has come out to seek a single flea, as one hunts a partridge in the mountains.”
+</p>
+
+<p>
+v21: Saul said, “I have sinned. Come back, my son David. I will not harm you again, because you valued my life today. I have acted foolishly and gone very far astray.”
+</p>
+
+<p>
+v22: David answered, “Here is the king’s spear. Let one of the young men come over and get it.
+v23: The LORD repays each person’s righteousness and faithfulness. Today he gave you into my hand, but I would not raise my hand against the LORD’s anointed.
+v24: As I valued your life today, may the LORD value mine and rescue me from every distress.”
+</p>
+
+<p>
+v25: Saul told David, “Blessed are you, my son David. You will do great things and surely prevail.” David went his own way, and Saul returned to his place.
 </p>
 
 ## Notes
 
-v01: The chapter deliberately echoes the pursuit in chapter 23 and the cave episode in chapter 24, presenting another opportunity for David to kill Saul.
+v04: The final Hebrew word is understood here as certainty that Saul had arrived, rather than a place name.
 
-v05: The “camp circle” can refer to a wagon barricade, circular encampment, or central camp area. Saul lies at the protected center.
+v06: Ahimelech the Hittite is a different man from the priest killed in chapter 22.
 
-v08: Abishai interprets opportunity as divine authorization, just as David’s men did in chapter 24. David again refuses the conclusion.
-
-v10: David names three possible ways Saul may die, all leaving the outcome to God rather than David’s hand.
-
-v12: The “deep sleep from the LORD” explains how David and Abishai move through the camp undetected.
-
-v16: “Sons of death” means deserving death for failure to protect the king.
-
-v19: David’s complaint is theological: expulsion from Israel’s land threatens exclusion from the LORD’s inheritance and pressures him toward the sphere of other gods.
-
-v19: “Let him smell an offering” is sacrificial idiom meaning may an offering appease or address divine displeasure.
-
-v20: The partridge image portrays Saul’s royal pursuit as disproportionate hunting of insignificant prey.
-
-v23: David appeals to the LORD’s reciprocal justice: righteousness and faithfulness are to be returned by God.
-
-v25: Unlike earlier reconciliation scenes, David and Saul separate permanently after this encounter.
+v19: David’s appeal leaves open both divine incitement and human responsibility. It retains the offering’s scent and the complaint that exclusion from the LORD’s inheritance amounts to being told to serve other gods.
 
 ## Vocabulary
 
-v05: מַעְגָּל (ma'gal)
-“Camp circle” or encampment.
+v09, 11, 23: Anointed
+David again links Saul’s anointing with refusing to strike him, as in chapter 24.
 
-v08: סָגַר (sagar)
-“To shut into” or deliver.
-
-v09: נָקָה (naqah)
-“To be innocent.”
-
-v12: תַּרְדֵּמָה (tardemah)
-“Deep sleep.”
-
-v16: בֶּן־מָוֶת (ben-mavet)
-“Son of death.” One deserving death.
-
-v19: נַחֲלַת יְהוָה (nachalat YHWH)
-“Inheritance of the LORD.”
-
-v20: קֹרֵא (qore)
-“Partridge.” A bird used in the hunting comparison.
-
-v23: אֱמוּנָה (emunah)
-“Faithfulness.”
-
-v24: צָרָה (tsarah)
-“Distress.”
+v20: Flea and partridge
+David combines images of insignificance and a hunted bird rather than replacing them with a general complaint.

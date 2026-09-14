@@ -4,182 +4,163 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-2samuel-1-5-biblical-fluency-2026-09-14
 ---
 
-## The House of David Grows Stronger
+## Two houses at war
 
 <p>
-v01: The war between the house of Saul and the house of David was long. David grew stronger and stronger, while the house of Saul grew weaker and weaker.
+v01: The war between Saul’s house and David’s house dragged on. David grew stronger and stronger, while Saul’s house grew weaker and weaker.
 </p>
 
-## Sons Born to David in Hebron
-
 <p>
-v02: Sons were born to David in Hebron. His firstborn was Amnon, by Ahinoam the Jezreelite;
-
-v03: his second was Chileab, by Abigail, wife of Nabal the Carmelite; the third was Absalom son of Maacah daughter of Talmai king of Geshur;
-
-v04: the fourth was Adonijah son of Haggith; the fifth was Shephatiah son of Abital;
-
-v05: and the sixth was Ithream, by Eglah, David’s wife. These were born to David in Hebron.
+v02: Sons were born to David in Hebron. His firstborn was Amnon, whose mother was Ahinoam of Jezreel.
+v03: His second was Chileab, whose mother was Abigail, Nabal’s widow from Carmel. The third was Absalom, the son of Maacah, daughter of Talmai king of Geshur.
+v04: The fourth was Adonijah, the son of Haggith, and the fifth was Shephatiah, the son of Abital.
+v05: The sixth was Ithream, whose mother was David’s wife Eglah. These sons were born to David in Hebron.
 </p>
 
-## Abner Breaks with Ish-Bosheth
+## Abner changes sides
 
 <p>
-v06: While there was war between the house of Saul and the house of David, Abner was making himself strong in the house of Saul.
-
-v07: Saul had a concubine whose name was Rizpah daughter of Aiah. Ish-Bosheth said to Abner, “Why did you go in to my father’s concubine?”
-
-v08: Then Abner became very angry over the words of Ish-Bosheth and said, “Am I a dog’s head that belongs to Judah? This day I show steadfast love to the house of Saul your father, to his brothers, and to his companions, and I have not given you into the hand of David, yet today you charge me with guilt concerning this woman!
-
-v09: Thus may God do to Abner and more also, if I do not do for David just as the LORD swore to him:
-
-v10: to transfer the kingdom from the house of Saul and establish the throne of David over Israel and over Judah, from Dan to Beersheba.”
-
-v11: Ish-Bosheth could not answer Abner another word because he feared him.
+v06: During the war between Saul’s house and David’s house, Abner was strengthening his position in Saul’s house.
 </p>
 
-## Abner Negotiates with David
-
 <p>
-v12: Abner sent messengers to David on his behalf, saying, “Whose is the land?” and saying, “Make your covenant with me, and look, my hand will be with you to bring all Israel over to you.”
-
-v13: David said, “Good. I will make a covenant with you. Only one thing I ask from you: you will not see my face unless you first bring Michal daughter of Saul when you come to see my face.”
-
-v14: David sent messengers to Ish-Bosheth son of Saul, saying, “Give me my wife Michal, whom I betrothed to myself for one hundred foreskins of the Philistines.”
-
-v15: So Ish-Bosheth sent and took her from her husband, from Paltiel son of Laish.
-
-v16: Her husband went with her, walking and weeping behind her as far as Bahurim. Then Abner said to him, “Go, return.” And he returned.
+v07: Saul had had a concubine named Rizpah, the daughter of Aiah. Ish-bosheth said to Abner, “Why have you slept with my father’s concubine?”
 </p>
 
-## Abner Speaks with the Elders of Israel
-
 <p>
-v17: Abner had spoken with the elders of Israel, saying, “For some time past you have been seeking David as king over you.
-
-v18: Now do it, for the LORD has spoken concerning David, saying, ‘By the hand of David my servant I will save my people Israel from the hand of the Philistines and from the hand of all their enemies.’”
-
-v19: Abner also spoke in the ears of Benjamin. Then Abner went to speak in the ears of David at Hebron all that was good in the eyes of Israel and in the eyes of all the house of Benjamin.
-
-v20: Abner came to David at Hebron, and twenty men were with him. David made a feast for Abner and the men who were with him.
-
-v21: Abner said to David, “I will arise and go and gather all Israel to my lord the king, so that they may make a covenant with you, and you may reign over all that your life desires.” Then David sent Abner away, and he went in peace.
+v08: Abner was furious at Ish-bosheth’s words. “Am I a dog’s head that belongs to Judah?” he said. “To this day I have shown steadfast love to the house of your father Saul, to his brothers, and to his friends. I have not handed you over to David. Yet today you charge me with wrongdoing over this woman!
+v09: May God do this to Abner, and more besides, if I do not carry out for David what the LORD swore to him:
+v10: to transfer the kingdom from Saul’s house and establish David’s throne over Israel and Judah, from Dan to Beersheba.”
 </p>
 
-## Joab Murders Abner
-
 <p>
-v22: And look, the servants of David and Joab came from a raid and brought with them much plunder. But Abner was not with David in Hebron, for David had sent him away and he had gone in peace.
-
-v23: When Joab and all the army that was with him came, they told Joab, saying, “Abner son of Ner came to the king, and he sent him away, and he went in peace.”
-
-v24: Then Joab went to the king and said, “What have you done? Look, Abner came to you. Why did you send him away, and he has gone, gone away?
-
-v25: You know Abner son of Ner, that he came to deceive you and to know your going out and your coming in and to know all that you are doing.”
-
-v26: Joab went out from David and sent messengers after Abner, and they brought him back from the cistern of Sirah, but David did not know it.
-
-v27: When Abner returned to Hebron, Joab took him aside into the middle of the gate to speak with him quietly, and there he struck him in the belly so that he died, for the blood of Asahel his brother.
+v11: Ish-bosheth could not say another word to Abner, because he was afraid of him.
 </p>
 
-## David Distances Himself from Abner’s Death
+## Terms for a covenant
 
 <p>
-v28: Afterward, when David heard of it, he said, “I and my kingdom are innocent before the LORD forever from the blood of Abner son of Ner.
-
-v29: May it fall upon the head of Joab and upon all his father’s house. May there never fail from the house of Joab one who has a discharge, or skin disease, or one who holds a spindle, or one who falls by the sword, or one who lacks bread.”
-
-v30: So Joab and Abishai his brother killed Abner because he had put Asahel their brother to death in the battle at Gibeon.
+v12: Abner sent messengers to David on his behalf, saying, “Whose land is it? Make your covenant with me. My hand will be with you to bring all Israel over to you.”
 </p>
 
-## David Laments Abner
+<p>
+v13: “Good,” David replied. “I will make a covenant with you. But I require one thing: you will not see my face unless you bring Michal, Saul’s daughter, when you come to see me.”
+</p>
 
 <p>
-v31: David said to Joab and to all the people who were with him, “Tear your clothes, gird yourselves with sackcloth, and mourn before Abner.” And King David walked behind the bier.
+v14: David also sent messengers to Ish-bosheth son of Saul: “Give me my wife Michal, whom I betrothed to myself for a hundred Philistine foreskins.”
+v15: So Ish-bosheth had her taken from her husband, Paltiel son of Laish.
+</p>
 
-v32: They buried Abner at Hebron, and the king lifted up his voice and wept at Abner’s grave, and all the people wept.
+<p>
+v16: Her husband followed her, weeping as he walked, all the way to Bahurim. Then Abner told him, “Go back!” And he went back.
+</p>
 
-v33: The king lamented for Abner and said:
+<p>
+v17: Abner had been speaking with the elders of Israel: “For some time now you have wanted David to be your king.
+v18: Now act on it! For the LORD said of David, ‘By the hand of my servant David I will save my people Israel from the hand of the Philistines and from all their enemies.’”
+</p>
 
-“Should Abner die
-as a fool dies?
+<p>
+v19: Abner also spoke directly with the Benjaminites. Then he went to Hebron to tell David everything that Israel and the whole house of Benjamin had agreed on.
+</p>
 
+<p>
+v20: When Abner came to David at Hebron with twenty men, David made a feast for him and the men with him.
+</p>
+
+<p>
+v21: Abner said to David, “Let me go and gather all Israel to my lord the king. They will make a covenant with you, and you will rule over all your heart desires.” David sent Abner away, and he went in peace.
+</p>
+
+## Joab kills Abner
+
+<p>
+v22: Just then David’s men and Joab came back from a raid, bringing a great deal of plunder. Abner was no longer with David in Hebron, for David had sent him away, and he had gone in peace.
+</p>
+
+<p>
+v23: When Joab and the whole force with him arrived, he was told, “Abner son of Ner came to the king, and the king sent him away. He went in peace.”
+</p>
+
+<p>
+v24: Joab went to the king and said, “What have you done? Abner came to you! Why did you send him away and let him go?
+v25: You know Abner son of Ner! He came to deceive you, to learn your comings and goings and find out everything you are doing.”
+</p>
+
+<p>
+v26: After leaving David, Joab sent messengers after Abner. They brought him back from the cistern of Sirah, but David knew nothing about it.
+v27: When Abner returned to Hebron, Joab took him aside inside the gate, as if to speak privately with him. There he stabbed him in the belly, and Abner died—for the blood of Joab’s brother Asahel.
+</p>
+
+<p>
+v28: When David heard about it afterward, he said, “I and my kingdom are forever innocent before the LORD of the blood of Abner son of Ner.
+v29: May it fall on Joab’s head and on his father’s whole house! May Joab’s house never be without someone with a discharge or a defiling skin disease, someone who holds a spindle, someone who falls by the sword, or someone who lacks bread.”
+</p>
+
+<p>
+v30: Joab and his brother Abishai killed Abner because he had put their brother Asahel to death in the battle at Gibeon.
+</p>
+
+## David mourns Abner
+
+<p>
+v31: David told Joab and all the people with him, “Tear your clothes, put on sackcloth, and mourn for Abner.” King David walked behind the bier.
+</p>
+
+<p>
+v32: They buried Abner in Hebron. The king wept aloud at Abner’s grave, and all the people wept.
+</p>
+
+<p>
+v33: The king sang this lament for Abner:
+“Should Abner die as a fool dies?
 v34: Your hands were not bound,
-and your feet were not put into bronze chains.
-As one falls before sons of wickedness,
-you fell.”
+and your feet were not put in bronze shackles.
+You fell as one falls before violent men.”
+And all the people wept for him again.
+</p>
 
-And all the people wept over him again.
+<p>
+v35: While it was still day, all the people came to urge David to eat. But David swore, “May God do this to me, and more besides, if I taste bread or anything else before sunset!”
+v36: All the people took notice and approved. Everything the king did pleased all the people.
+v37: That day all the people and all Israel understood that the king had not ordered the killing of Abner son of Ner.
+</p>
 
-v35: Then all the people came to cause David to eat bread while it was still day, but David swore, saying, “Thus may God do to me and more also, if I taste bread or anything else before the sun goes down.”
-
-v36: All the people recognized it, and it was good in their eyes. Everything the king did was good in the eyes of all the people.
-
-v37: So all the people and all Israel knew that day that it had not been from the king to put Abner son of Ner to death.
-
-v38: The king said to his servants, “Do you not know that a prince and a great man has fallen this day in Israel?
-
-v39: I am weak today, though anointed king, and these men, the sons of Zeruiah, are too severe for me. May the LORD repay the evildoer according to his evil.”
+<p>
+v38: The king said to his servants, “Do you not know that a commander, a great man, has fallen in Israel today?
+v39: Today I am weak, though anointed king. These men, the sons of Zeruiah, are too hard for me. May the LORD repay the evildoer for his evil.”
 </p>
 
 ## Notes
 
-v01: The civil war is framed as a gradual transfer of strength from Saul’s house to David’s rather than a sudden seizure of the kingdom.
+v07–08: The allegation about Rizpah is Ish-bosheth’s. Abner’s angry reply does not explicitly state whether it is true. His “dog’s head” insult and its connection with Judah are difficult.
 
-v03: Chileab is called Daniel in 1 Chronicles 3:1. The reason for the alternate name is not explained.
+v12: The phrase understood as “on his behalf” can also concern the messengers’ point of departure. “Whose land is it?” remains an open rhetorical question.
 
-v07: Taking a former king’s concubine could carry a claim to royal authority. Ish-Bosheth’s accusation therefore has political as well as sexual implications.
+v14–16: David calls Michal his wife, while the narrator calls Paltiel her husband. Both descriptions and Paltiel’s grief are retained; Michal’s response is not reported.
 
-v08: Abner’s “dog’s head” insult is difficult in syntax but clearly expresses outrage at being treated as disloyal after supporting Saul’s house.
+v27: The rare expression translated “privately” may suggest quietness or a deceptive approach.
 
-v09–10: Abner appeals to the LORD’s oath concerning David only after his rupture with Ish-Bosheth, making political interest and theological recognition difficult to separate.
+v29: The Hebrew term rendered “spindle” is also used for a spinning implement. Here some understand a staff or support; the precise force in the curse is uncertain. The illnesses named are not a modern diagnosis.
 
-v13–16: Michal is transferred from Paltiel back to David without her own voice in the narrative. Her legal status as David’s earlier wife and her later marriage are subordinated to dynastic politics.
+v30: The narrator names both Joab and Abishai as responsible without spelling out Abishai’s role in the scene.
 
-v14: 1 Samuel 18:25 records Saul’s demand for one hundred Philistine foreskins, while David actually delivered two hundred. David here cites the original bride-price.
-
-v18: The exact earlier oracle quoted by Abner is not preserved elsewhere in this wording. The narrative presents David’s kingship as part of divine deliverance from enemies.
-
-v21: Abner leaves “in peace” three times emphasized across verses 21–23, intensifying Joab’s later violation of safe conduct.
-
-v27: Joab kills Abner at Hebron, which later becomes a city of refuge. The narrative explicitly identifies blood vengeance for Asahel as the motive.
-
-v29: David’s curse upon Joab’s house reflects ancient assumptions about household consequences and is severe. The term rendered “holds a spindle” is uncertain and has also been understood as one who leans on a staff.
-
-v30: Abishai is included in responsibility for Abner’s death although verse 27 narrates Joab as the direct killer.
-
-v39: David’s confession that the sons of Zeruiah are “too severe” exposes the limits of his control over his own military leaders.
+v39: David describes himself as weak or soft and the sons of Zeruiah as hard. These are his own descriptions of the limits of his power.
 
 ## Vocabulary
 
-v01: חָזֵק (chazeq)
-“To grow strong.” David’s house gains strength.
+v01, 06, 10: House
+A family understood as a continuing political line; Saul’s house and David’s house are repeatedly contrasted.
 
-v07: פִּילֶגֶשׁ (pilegesh)
-“Concubine.” A recognized secondary wife or royal woman.
+v21–23: In peace
+Abner’s peaceful departure is stated three times before the killing.
 
-v08: חֶסֶד (ḥesed)
-“Steadfast love.” Abner’s claimed loyalty to Saul’s house.
-
-v12: בְּרִית (berit)
-“Covenant.” The political agreement Abner offers David.
-
-v16: בָּחוּרִים (Bahurim)
-“Bahurim.” The place where Paltiel is ordered to turn back.
-
-v21: שָׁלוֹם (shalom)
-“Peace.” Safe departure under David’s protection.
-
-v27: שֶׁקֶט (sheqet)
-“Quietly” or “privately.” Joab draws Abner aside under pretense of private speech.
-
-v29: זוּב (zuv)
-“To have a discharge.” A bodily condition named in David’s curse.
-
-v33: נָבָל (naval)
-“Fool.” David asks whether Abner should die as a fool.
-
-v38: שַׂר (sar)
-“Prince” or “leader.” David’s title for Abner.
+v31: Bier
+The frame or bed on which a body is carried for burial.

@@ -1,0 +1,45 @@
+{
+  "status": "PASSED",
+  "scope": "2 Samuel 1–5",
+  "combined_verification": "../2026-09-14-1samuel-17-31/verification.json",
+  "structural_chapters": [
+    {
+      "path": "translations/fluent/OT/2samuel/2Samuel_01.md",
+      "verses": 27,
+      "sha256": "13382763012c6b58801766f1cbed8246ffd68416469e06b4ba76506946da4508",
+      "paragraphs": 10,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/2samuel/2Samuel_02.md",
+      "verses": 32,
+      "sha256": "ea5105dd2f31b962f0a7a90de9ef036b266407dc4d09b521d09f54b7967ce8e9",
+      "paragraphs": 15,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/2samuel/2Samuel_03.md",
+      "verses": 39,
+      "sha256": "f2f8eb2af79562bc49897c994fcb65956b6e05030d7bed1ce26dba1b1d23b492",
+      "paragraphs": 25,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/2samuel/2Samuel_04.md",
+      "verses": 12,
+      "sha256": "26eb36ee564859922392413ed4c36b7535686924353787e63c95af4f50412e2c",
+      "paragraphs": 8,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    },
+    {
+      "path": "translations/fluent/OT/2samuel/2Samuel_05.md",
+      "verses": 25,
+      "sha256": "0c8d7a070230f1d071cae8635ea5efba00c96f4e69c42e1cec6769d16b656240",
+      "paragraphs": 15,
+      "poetry_and_verse_lines_inside_paragraphs": true
+    }
+  ],
+  "qa_scope": "structural",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "publication_allowed": false
+}

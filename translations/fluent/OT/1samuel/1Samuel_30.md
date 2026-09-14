@@ -4,150 +4,117 @@ testament: OT
 chapter: 30
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-17-31-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 30
-
-## Ziklag Is Burned
+## Ziklag burned
 
 <p>
-v01: And it happened when David and his men came to Ziklag on the third day that the Amalekites had raided the Negev and Ziklag. They had struck Ziklag and burned it with fire.
-
-v02: They took captive the women who were in it, from small to great. They did not put anyone to death, but carried them away and went on their way.
-
-v03: David and his men came to the city, and look, it was burned with fire, and their wives, sons, and daughters had been taken captive.
-
-v04: Then David and the people who were with him lifted their voices and wept until there was no strength in them to weep.
-
-v05: David’s two wives had been taken captive, Ahinoam the Jezreelite and Abigail wife of Nabal the Carmelite.
-
-v06: David was greatly distressed, for the people said to stone him, because the life of all the people was bitter, each over his sons and daughters. But David strengthened himself in the LORD his God.
+v01: David and his men reached Ziklag on the third day. The Amalekites had raided the Negeb and Ziklag, attacked the town, and burned it down.
+v02: They had taken the women there captive, along with everyone from small to great. They had killed no one, but driven them away and gone on.
 </p>
 
-## David Inquires of the LORD
-
 <p>
-v07: David said to Abiathar the priest, son of Ahimelech, “Please bring near to me the ephod.” Abiathar brought the ephod near to David.
-
-v08: David inquired of the LORD, saying, “Will I pursue after this raiding band? Will I overtake them?” He said to him, “Pursue, for you will surely overtake and surely rescue.”
+v03: David and his men came to the town and found it burned down. Their wives, sons, and daughters had been taken captive.
+v04: David and the men with him wept aloud until they had no strength left to weep.
+v05: David’s two wives had been taken too: Ahinoam of Jezreel and Abigail, the wife of Nabal of Carmel.
 </p>
 
-## Two Hundred Men Remain at the Besor
-
 <p>
-v09: So David went, he and the six hundred men who were with him, and they came to the Wadi Besor. People who were left behind remained.
-
-v10: David pursued, he and four hundred men, but two hundred remained behind, who were too exhausted to cross the Wadi Besor.
+v06: David was in great distress. The men talked of stoning him, bitter in spirit over their sons and daughters. But David found strength in the LORD his God.
 </p>
 
-## An Egyptian Servant Guides David
+## David pursues the raiders
 
 <p>
-v11: They found an Egyptian man in the field and took him to David. They gave him bread, and he ate, and they gave him water to drink.
-
-v12: They gave him a piece of a fig cake and two clusters of raisins. He ate, and his spirit returned to him, for he had eaten no bread and drunk no water for three days and three nights.
-
-v13: David said to him, “To whom do you belong, and from where are you?” He said, “I am an Egyptian young man, servant to an Amalekite man. My master abandoned me because I became sick three days ago.
-
-v14: We raided the Negev of the Cherethites, what belongs to Judah, and the Negev of Caleb, and we burned Ziklag with fire.”
-
-v15: David said to him, “Will you bring me down to this raiding band?” He said, “Swear to me by God that you will not put me to death and will not deliver me into the hand of my master, and I will bring you down to this raiding band.”
+v07: He told Abiathar the priest, son of Ahimelech, “Bring me the ephod.” Abiathar brought it to him.
+v08: David inquired of the LORD, “Should I pursue this raiding band? Will I overtake them?” The answer came, “Pursue them. You will surely overtake them and surely rescue the captives.”
 </p>
 
-## David Recovers Everything
-
 <p>
-v16: He brought him down, and look, they were spread over all the face of the land, eating, drinking, and celebrating because of all the great spoil that they had taken from the land of the Philistines and from the land of Judah.
-
-v17: David struck them from twilight until the evening of the next day. Not a man from them escaped except four hundred young men who rode on camels and fled.
-
-v18: David rescued all that the Amalekites had taken, and David rescued his two wives.
-
-v19: Nothing of theirs was missing, from small to great, sons or daughters, from spoil or anything that they had taken for themselves. David brought back everything.
-
-v20: David took all the sheep and cattle. They drove them before that livestock and said, “This is David’s spoil.”
+v09: David set out with his six hundred men. They reached the Wadi Besor, where some stayed behind.
+v10: David continued the pursuit with four hundred men. Two hundred were too exhausted to cross the Wadi Besor and stayed there.
 </p>
 
-## David Establishes a Rule for Sharing Spoil
+## An abandoned slave
 
 <p>
-v21: David came to the two hundred men who had been too exhausted to follow David and whom they had made stay at the Wadi Besor. They went out to meet David and to meet the people who were with him. David drew near to the people and asked about their well-being.
-
-v22: Then every evil and worthless man from among the men who had gone with David answered and said, “Because they did not go with us, we will not give them from the spoil that we rescued, except to each man his wife and his children, so that they may lead them away and go.”
-
-v23: Yet David said, “You will not do so, my brothers, with what the LORD has given us. He guarded us and gave into our hand the raiding band that came against us.
-
-v24: And who will listen to you in this matter? For as the share of the one who goes down into battle, so will be the share of the one who remains with the baggage. They will share alike.”
-
-v25: And it happened from that day and onward that he made it a statute and judgment for Israel to this day.
+v11: They found an Egyptian in the open country and brought him to David. They gave him bread to eat and water to drink.
+v12: They also gave him part of a fig cake and two raisin cakes. He ate, and his spirit returned. He had eaten no bread and drunk no water for three days and three nights.
 </p>
 
-## David Sends Gifts to Judah
+<p>
+v13: David asked, “Whom do you belong to, and where are you from?” He answered, “I am an Egyptian youth, a slave of an Amalekite. My master abandoned me when I fell ill three days ago.
+v14: We raided the Negeb of the Cherethites, the territory of Judah, and the Negeb of Caleb. We burned Ziklag down.”
+</p>
 
 <p>
-v26: David came to Ziklag and sent some of the spoil to the elders of Judah, to his companions, saying, “Look, a blessing for you from the spoil of the enemies of the LORD”—
+v15: David asked, “Will you lead me down to this raiding band?” He answered, “Swear to me by God that you will not kill me or hand me back to my master. Then I will lead you to them.”
+</p>
 
-v27: to those in Bethel, those in Ramoth of the Negev, those in Jattir,
+## The captives recovered
 
-v28: those in Aroer, those in Siphmoth, those in Eshtemoa,
+<p>
+v16: He led David down. There they were, scattered across the countryside, eating, drinking, and celebrating all the great plunder they had taken from Philistine territory and Judah.
+</p>
 
-v29: those in Racal, those in the cities of the Jerahmeelites, those in the cities of the Kenites,
+<p>
+v17: David struck them from twilight until the next evening. No one escaped except four hundred young men who rode off on camels.
+</p>
 
-v30: those in Hormah, those in Bor-Ashan, those in Athach,
+<p>
+v18: David rescued everything the Amalekites had taken, including his two wives.
+v19: Nothing was missing, small or great—sons, daughters, plunder, or anything they had taken. David brought it all back.
+</p>
 
-v31: those in Hebron, and to all the places where David and his men had walked.
+<p>
+v20: He took all the sheep and cattle. His men drove them ahead of the other livestock, saying, “This is David’s plunder.”
+</p>
+
+## Sharing the plunder
+
+<p>
+v21: David came back to the two hundred men who had been too exhausted to follow and had been left at the Wadi Besor. They came out to meet him and his men. David approached and greeted them.
+</p>
+
+<p>
+v22: But all the wicked, worthless men among those who had gone with David said, “They did not come with us. We will give them none of the plunder we rescued. Each can take only his wife and children and leave.”
+</p>
+
+<p>
+v23: David said, “My brothers, you must not do that with what the LORD has given us. He protected us and handed over the band that attacked us.
+v24: Who would listen to such a proposal? The share of the one who goes into battle will be the same as the share of the one who stays with the supplies. They will share alike.”
+v25: From that day forward he made this a statute and rule for Israel, and it remains so to this day.
+</p>
+
+<p>
+v26: When David reached Ziklag, he sent some of the plunder to his friends, the elders of Judah: “Here is a blessing for you from the plunder of the LORD’s enemies.”
+v27: He sent it to those in Bethel, Ramoth-negeb, and Jattir;
+v28: to those in Aroer, Siphmoth, and Eshtemoa;
+v29: to those in Racal, the Jerahmeelite towns, and the Kenite towns;
+v30: to those in Hormah, Bor-ashan, and Athach;
+v31: to those in Hebron and all the places where David and his men had roamed.
 </p>
 
 ## Notes
 
-v06: David’s crisis is total—home destroyed, family taken, followers turning against him—yet the narrative says he “strengthened himself in the LORD his God.”
+v02: Unlike David’s raids in chapter 27, these captors have not killed the people they took.
 
-v08: The oracle promises not merely military pursuit but successful rescue.
+v13–15: The Egyptian identifies himself as an Amalekite’s slave. His demand not to be killed or returned to his master is retained.
 
-v10: The two hundred men remain behind because of exhaustion, not cowardice.
+v17: The Hebrew term translated “twilight” can refer to dawn or evening twilight. The interval continues to the following evening.
 
-v11–15: David’s men first feed the abandoned Egyptian before learning that he can guide them, contrasting their treatment with the Amalekite master who left him sick.
+v20: The relation of these flocks to the livestock already mentioned is compressed; the draft retains the separate movement and the declaration “David’s plunder” without assigning an unexpressed prior owner.
 
-v17: The battle duration is difficult in Hebrew but describes an extended strike from twilight into the following day.
-
-v18–19: The repeated “rescued” and “nothing missing” emphasize complete reversal of the loss at Ziklag.
-
-v22: The text explicitly calls the men who want to exclude the exhausted soldiers “evil and worthless.”
-
-v23: David’s redistribution principle begins with theology: the spoil is what “the LORD has given us.”
-
-v24–25: Those guarding the baggage receive the same share as those in direct combat, making support roles part of the common military enterprise.
-
-v26–31: David’s gifts renew relationships across Judah and also establish a network of political goodwill immediately before he becomes king there.
+v27–30: The pinned place names Bethel, Racal, and Bor-ashan are retained rather than replaced with alternative identifications.
 
 ## Vocabulary
 
-v01: פָּשַׁט (pashat)
-“To raid.”
+v06: Found strength in the LORD
+Literally, strengthened himself in the LORD. This recalls Jonathan strengthening David’s hand in God in 23:16.
 
-v06: מַר נֶפֶשׁ (mar nefesh)
-“Bitter in life/spirit.”
-
-v06: חִזֵּק בַּיהוָה (chizzeq ba-YHWH)
-“Strengthened himself in the LORD.”
-
-v08: נָצַל (natsal)
-“To rescue.”
-
-v09: נַחַל הַבְּשׂוֹר (Nachal ha-Besor)
-“Wadi Besor.”
-
-v12: שׁוּב רוּחַ (shuv ruach)
-“Spirit returned.” Strength revived after food.
-
-v20: שָׁלָל (shalal)
-“Spoil.”
-
-v24: חֵלֶק (cheleq)
-“Share” or portion.
-
-v25: חֹק וּמִשְׁפָּט (choq u-mishpat)
-“Statute and judgment.”
-
-v26: בְּרָכָה (berakhah)
-“Blessing” or gift.
+v22–24: Share
+The dispute concerns whether those exhausted men who stayed with the supplies receive an equal portion of the recovered plunder.

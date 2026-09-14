@@ -4,98 +4,68 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-2samuel-1-5-biblical-fluency-2026-09-14
 ---
 
-## Ish-Bosheth Loses Courage
+## Saul’s house loses its defender
 
 <p>
-v01: When Saul’s son heard that Abner had died in Hebron, his hands grew weak, and all Israel was alarmed.
-
-v02: Saul’s son had two men who were captains of raiding bands. The name of one was Baanah, and the name of the other Rechab, sons of Rimmon the Beerothite, from the children of Benjamin, for Beeroth also was regarded as belonging to Benjamin.
-
-v03: The Beerothites fled to Gittaim and have lived there as resident aliens to this day.
+v01: When Saul’s son heard that Abner had died in Hebron, his hands fell limp, and all Israel was alarmed.
 </p>
 
-## Mephibosheth Is Introduced
-
 <p>
-v04: Jonathan son of Saul had a son crippled in his feet. He was five years old when the report concerning Saul and Jonathan came from Jezreel. His nurse carried him and fled, and as she hurried to flee he fell and became lame. His name was Mephibosheth.
+v02: Saul’s son had two men who commanded raiding bands. One was named Baanah and the other Rechab. They were sons of Rimmon of Beeroth, from the tribe of Benjamin, for Beeroth was counted as part of Benjamin.
+v03: The people of Beeroth had fled to Gittaim and have lived there as resident foreigners to this day.
 </p>
 
-## Rechab and Baanah Murder Ish-Bosheth
-
 <p>
-v05: The sons of Rimmon the Beerothite, Rechab and Baanah, went and came during the heat of the day to the house of Ish-Bosheth while he was lying down for his midday rest.
-
-v06: They came there into the midst of the house as if to get wheat, and they struck him in the belly. Then Rechab and Baanah his brother escaped.
-
-v07: They entered the house while he was lying on his bed in his bedroom, struck him and put him to death, and cut off his head. They took his head and walked by the way of the Arabah all night.
-
-v08: They brought the head of Ish-Bosheth to David at Hebron and said to the king, “Look, the head of Ish-Bosheth son of Saul, your enemy who sought your life. The LORD has given my lord the king vengeance this day upon Saul and upon his offspring.”
+v04: Jonathan son of Saul had a son whose feet were disabled. He was five years old when news of Saul and Jonathan came from Jezreel. His nurse picked him up and fled, but in her hurry to escape he fell and became lame. His name was Mephibosheth.
 </p>
 
-## David Executes the Murderers
+## Ish-bosheth is murdered
 
 <p>
-v09: David answered Rechab and Baanah his brother, sons of Rimmon the Beerothite, and said to them, “As the LORD lives, who has redeemed my life from every distress,
+v05: Rechab and Baanah, the sons of Rimmon of Beeroth, set out and reached Ish-bosheth’s house in the heat of the day. He was lying down for his midday rest.
+</p>
 
-v10: when one told me, saying, ‘Look, Saul is dead,’ and he was in his own eyes like one bringing good news, I seized him and killed him at Ziklag. That was the reward I gave him for his good news.
+<p>
+v06: They entered the inner part of the house as though to get wheat and stabbed him in the belly. Then Rechab and his brother Baanah escaped.
+v07: They had entered the house while he was lying on his bed in his bedroom. They struck him, killed him, and cut off his head. Taking his head, they traveled through the Arabah all night.
+</p>
 
-v11: How much more when wicked men have killed a righteous man in his own house on his bed! And now, will I not seek his blood from your hand and remove you from the earth?”
+<p>
+v08: They brought Ish-bosheth’s head to David at Hebron and said to the king, “Here is the head of Ish-bosheth son of Saul, your enemy who sought your life. Today the LORD has given my lord the king vengeance on Saul and his offspring.”
+</p>
 
-v12: Then David commanded the young men, and they killed them and cut off their hands and feet and hung them beside the pool at Hebron. But they took the head of Ish-Bosheth and buried it in the grave of Abner at Hebron.
+## David’s judgment
+
+<p>
+v09: David answered Rechab and his brother Baanah, the sons of Rimmon of Beeroth: “As the LORD lives, who has redeemed my life from every distress,
+v10: when someone told me, ‘Saul is dead,’ thinking he brought good news, I seized him and killed him at Ziklag. That was my reward for his news!
+v11: How much more, then, when wicked men have killed an innocent man in his own house, on his bed! Should I not demand his blood from your hands and remove you from the earth?”
+</p>
+
+<p>
+v12: David gave orders to his young men, and they killed the brothers. They cut off their hands and feet and hung them beside the pool in Hebron. But they took Ish-bosheth’s head and buried it in Abner’s tomb at Hebron.
 </p>
 
 ## Notes
 
-v01: With Abner dead, Ish-Bosheth’s political power collapses immediately. “His hands grew weak” is an idiom for loss of courage and capacity.
+v04: The notice about Mephibosheth interrupts the account to identify a surviving son of Jonathan. His disability follows a childhood fall.
 
-v02: Rechab and Baanah are Benjaminites and therefore members of the same tribe as Saul’s house, making their assassination an act of internal betrayal.
+v06–07: The pinned Hebrew mentions entering as wheat-takers, then repeats the entry and killing. The draft takes the wheat-taking as a pretext and keeps the repetition.
 
-v03: “to this day” reflects the narrator’s later perspective on the continuing Beerothite community at Gittaim.
+v10: David’s “reward” is bitter irony about the execution of the earlier messenger.
 
-v04: Mephibosheth is introduced before Ish-Bosheth’s death closes Saul’s immediate kingship. His presence preserves another branch of Jonathan’s house for later narrative significance.
-
-v04: “crippled in his feet” describes the result of a childhood injury without moral judgment. The narrative later presents Mephibosheth as the recipient of David’s covenant loyalty.
-
-v06–07: The Masoretic text contains some repetition and difficulty in describing the assassins’ entry. TSW preserves both the apparent wheat pretext and the bedroom killing without trying to reconstruct a missing line.
-
-v08: Rechab and Baanah interpret murder as the LORD’s vengeance and expect David to reward them.
-
-v09: David’s response locates his deliverance in the LORD rather than in assassination of rivals.
-
-v11: David calls Ish-Bosheth “a righteous man” in the immediate context of being murdered defenseless in his own bed. The statement does not necessarily evaluate every aspect of Ish-Bosheth’s reign.
-
-v12: The mutilation and public hanging of the assassins’ bodies are punitive display practices from the ancient royal context. TSW reports them without treating them as a model for later justice.
+v12: The execution, cutting off of hands and feet, and public hanging are all retained as actions ordered by David and performed by his men.
 
 ## Vocabulary
 
-v01: רָפָה יָדַיִם (raphah yadayim)
-“To weaken the hands.” An idiom for losing courage or strength.
+v01: Hands fell limp
+A physical image of losing resolve or strength.
 
-v02: שַׂר גְּדוּד (sar gedud)
-“Captain of a raiding band.”
-
-v03: גּוּר (gur)
-“To live as a resident alien.” The Beerothites settle at Gittaim.
-
-v04: פִּסֵּחַ (pisseach)
-“Lame” or “crippled.” Describing Mephibosheth’s impaired feet.
-
-v06: חֹמֶשׁ (chomesh)
-“Belly” or “abdomen.” The place of the fatal wound.
-
-v08: נְקָמָה (neqamah)
-“Vengeance.” The assassins’ interpretation of Saul’s house falling.
-
-v09: פָּדָה (padah)
-“To redeem.” David says the LORD has redeemed his life from distress.
-
-v10: בְּשׂוֹרָה (besorah)
-“Good news.” A report expected to be welcome.
-
-v11: דָּם (dam)
-“Blood.” David requires accountability for Ish-Bosheth’s blood.
-
-v12: תָּלָה (talah)
-“To hang.” Publicly suspend a body.
+v09: Redeem
+David speaks of the LORD rescuing his life from distress.

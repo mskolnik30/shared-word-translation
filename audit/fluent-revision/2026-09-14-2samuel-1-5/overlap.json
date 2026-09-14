@@ -1,0 +1,961 @@
+{
+  "scope": "2 Samuel 1–5",
+  "qualification": "Normalized whole-verse overlap is triage only, not fidelity, originality, comprehension or independent approval. No wording quota.",
+  "summary": {
+    "before": {
+      "identical": 122,
+      "near_identical_nonidentical": 12
+    },
+    "after": {
+      "identical": 8,
+      "near_identical_nonidentical": 6
+    }
+  },
+  "verses": [
+    {
+      "reference": "2 Samuel 1:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5714285714285714
+    },
+    {
+      "reference": "2 Samuel 1:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.78125
+    },
+    {
+      "reference": "2 Samuel 1:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5714285714285714
+    },
+    {
+      "reference": "2 Samuel 1:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "2 Samuel 1:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7317073170731707
+    },
+    {
+      "reference": "2 Samuel 1:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8387096774193549
+    },
+    {
+      "reference": "2 Samuel 1:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7692307692307693
+    },
+    {
+      "reference": "2 Samuel 1:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7407407407407407
+    },
+    {
+      "reference": "2 Samuel 1:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.723404255319149
+    },
+    {
+      "reference": "2 Samuel 1:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6506024096385542
+    },
+    {
+      "reference": "2 Samuel 1:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6285714285714286
+    },
+    {
+      "reference": "2 Samuel 1:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8888888888888888
+    },
+    {
+      "reference": "2 Samuel 1:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "2 Samuel 1:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "2 Samuel 1:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7142857142857143
+    },
+    {
+      "reference": "2 Samuel 1:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7843137254901961
+    },
+    {
+      "reference": "2 Samuel 1:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.45454545454545453
+    },
+    {
+      "reference": "2 Samuel 1:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6842105263157895
+    },
+    {
+      "reference": "2 Samuel 1:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8461538461538461
+    },
+    {
+      "reference": "2 Samuel 1:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8571428571428571
+    },
+    {
+      "reference": "2 Samuel 1:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.676923076923077
+    },
+    {
+      "reference": "2 Samuel 1:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7692307692307693
+    },
+    {
+      "reference": "2 Samuel 1:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "2 Samuel 1:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8095238095238095
+    },
+    {
+      "reference": "2 Samuel 1:25",
+      "before_identical": false,
+      "before_similarity": 0.8387096774193549,
+      "after_identical": false,
+      "after_similarity": 0.9090909090909091
+    },
+    {
+      "reference": "2 Samuel 1:26",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7346938775510204
+    },
+    {
+      "reference": "2 Samuel 1:27",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2 Samuel 2:1",
+      "before_identical": false,
+      "before_similarity": 0.9459459459459459,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "2 Samuel 2:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "2 Samuel 2:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6153846153846154
+    },
+    {
+      "reference": "2 Samuel 2:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7586206896551724
+    },
+    {
+      "reference": "2 Samuel 2:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6440677966101694
+    },
+    {
+      "reference": "2 Samuel 2:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7391304347826086
+    },
+    {
+      "reference": "2 Samuel 2:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8627450980392157
+    },
+    {
+      "reference": "2 Samuel 2:8",
+      "before_identical": false,
+      "before_similarity": 0.9523809523809523,
+      "after_identical": false,
+      "after_similarity": 0.7027027027027027
+    },
+    {
+      "reference": "2 Samuel 2:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2 Samuel 2:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2 Samuel 2:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7027027027027027
+    },
+    {
+      "reference": "2 Samuel 2:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2 Samuel 2:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5714285714285714
+    },
+    {
+      "reference": "2 Samuel 2:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "2 Samuel 2:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7391304347826086
+    },
+    {
+      "reference": "2 Samuel 2:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6545454545454545
+    },
+    {
+      "reference": "2 Samuel 2:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5405405405405406
+    },
+    {
+      "reference": "2 Samuel 2:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5416666666666666
+    },
+    {
+      "reference": "2 Samuel 2:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.3448275862068966
+    },
+    {
+      "reference": "2 Samuel 2:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6896551724137931
+    },
+    {
+      "reference": "2 Samuel 2:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7419354838709677
+    },
+    {
+      "reference": "2 Samuel 2:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "2 Samuel 2:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7252747252747253
+    },
+    {
+      "reference": "2 Samuel 2:24",
+      "before_identical": false,
+      "before_similarity": 0.967741935483871,
+      "after_identical": false,
+      "after_similarity": 0.7142857142857143
+    },
+    {
+      "reference": "2 Samuel 2:25",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.3684210526315789
+    },
+    {
+      "reference": "2 Samuel 2:26",
+      "before_identical": false,
+      "before_similarity": 0.9736842105263158,
+      "after_identical": false,
+      "after_similarity": 0.7058823529411765
+    },
+    {
+      "reference": "2 Samuel 2:27",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5217391304347826
+    },
+    {
+      "reference": "2 Samuel 2:28",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "2 Samuel 2:29",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8695652173913043
+    },
+    {
+      "reference": "2 Samuel 2:30",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "2 Samuel 2:31",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.35294117647058826
+    },
+    {
+      "reference": "2 Samuel 2:32",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6909090909090909
+    },
+    {
+      "reference": "2 Samuel 3:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "2 Samuel 3:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "2 Samuel 3:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "2 Samuel 3:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9032258064516129
+    },
+    {
+      "reference": "2 Samuel 3:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7647058823529411
+    },
+    {
+      "reference": "2 Samuel 3:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.43902439024390244
+    },
+    {
+      "reference": "2 Samuel 3:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7346938775510204
+    },
+    {
+      "reference": "2 Samuel 3:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6776859504132231
+    },
+    {
+      "reference": "2 Samuel 3:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.782608695652174
+    },
+    {
+      "reference": "2 Samuel 3:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7906976744186046
+    },
+    {
+      "reference": "2 Samuel 3:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "2 Samuel 3:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8787878787878788
+    },
+    {
+      "reference": "2 Samuel 3:13",
+      "before_identical": false,
+      "before_similarity": 0.9736842105263158,
+      "after_identical": false,
+      "after_similarity": 0.704225352112676
+    },
+    {
+      "reference": "2 Samuel 3:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8461538461538461
+    },
+    {
+      "reference": "2 Samuel 3:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7857142857142857
+    },
+    {
+      "reference": "2 Samuel 3:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5106382978723404
+    },
+    {
+      "reference": "2 Samuel 3:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6511627906976745
+    },
+    {
+      "reference": "2 Samuel 3:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8055555555555556
+    },
+    {
+      "reference": "2 Samuel 3:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.45454545454545453
+    },
+    {
+      "reference": "2 Samuel 3:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.782608695652174
+    },
+    {
+      "reference": "2 Samuel 3:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7954545454545454
+    },
+    {
+      "reference": "2 Samuel 3:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "2 Samuel 3:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7301587301587301
+    },
+    {
+      "reference": "2 Samuel 3:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8148148148148148
+    },
+    {
+      "reference": "2 Samuel 3:25",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "2 Samuel 3:26",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6938775510204082
+    },
+    {
+      "reference": "2 Samuel 3:27",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "2 Samuel 3:28",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8461538461538461
+    },
+    {
+      "reference": "2 Samuel 3:29",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6086956521739131
+    },
+    {
+      "reference": "2 Samuel 3:30",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8837209302325582
+    },
+    {
+      "reference": "2 Samuel 3:31",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "2 Samuel 3:32",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7692307692307693
+    },
+    {
+      "reference": "2 Samuel 3:33",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7857142857142857
+    },
+    {
+      "reference": "2 Samuel 3:34",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7540983606557377
+    },
+    {
+      "reference": "2 Samuel 3:35",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6052631578947368
+    },
+    {
+      "reference": "2 Samuel 3:36",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.55
+    },
+    {
+      "reference": "2 Samuel 3:37",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5416666666666666
+    },
+    {
+      "reference": "2 Samuel 3:38",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8636363636363636
+    },
+    {
+      "reference": "2 Samuel 3:39",
+      "before_identical": false,
+      "before_similarity": 0.9830508474576272,
+      "after_identical": false,
+      "after_similarity": 0.8421052631578947
+    },
+    {
+      "reference": "2 Samuel 4:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8947368421052632
+    },
+    {
+      "reference": "2 Samuel 4:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.675
+    },
+    {
+      "reference": "2 Samuel 4:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7878787878787878
+    },
+    {
+      "reference": "2 Samuel 4:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7446808510638298
+    },
+    {
+      "reference": "2 Samuel 4:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5714285714285714
+    },
+    {
+      "reference": "2 Samuel 4:6",
+      "before_identical": false,
+      "before_similarity": 0.9642857142857143,
+      "after_identical": false,
+      "after_similarity": 0.7777777777777778
+    },
+    {
+      "reference": "2 Samuel 4:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7466666666666667
+    },
+    {
+      "reference": "2 Samuel 4:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8387096774193549
+    },
+    {
+      "reference": "2 Samuel 4:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7924528301886793
+    },
+    {
+      "reference": "2 Samuel 4:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6865671641791045
+    },
+    {
+      "reference": "2 Samuel 4:11",
+      "before_identical": false,
+      "before_similarity": 0.9714285714285714,
+      "after_identical": false,
+      "after_similarity": 0.8115942028985508
+    },
+    {
+      "reference": "2 Samuel 4:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6904761904761905
+    },
+    {
+      "reference": "2 Samuel 5:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "2 Samuel 5:2",
+      "before_identical": false,
+      "before_similarity": 0.9473684210526315,
+      "after_identical": false,
+      "after_similarity": 0.8266666666666667
+    },
+    {
+      "reference": "2 Samuel 5:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8852459016393442
+    },
+    {
+      "reference": "2 Samuel 5:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8275862068965517
+    },
+    {
+      "reference": "2 Samuel 5:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7346938775510204
+    },
+    {
+      "reference": "2 Samuel 5:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7529411764705882
+    },
+    {
+      "reference": "2 Samuel 5:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8461538461538461
+    },
+    {
+      "reference": "2 Samuel 5:8",
+      "before_identical": false,
+      "before_similarity": 0.9743589743589743,
+      "after_identical": false,
+      "after_similarity": 0.6842105263157895
+    },
+    {
+      "reference": "2 Samuel 5:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7619047619047619
+    },
+    {
+      "reference": "2 Samuel 5:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9333333333333333
+    },
+    {
+      "reference": "2 Samuel 5:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9047619047619048
+    },
+    {
+      "reference": "2 Samuel 5:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9387755102040817
+    },
+    {
+      "reference": "2 Samuel 5:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7441860465116279
+    },
+    {
+      "reference": "2 Samuel 5:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2 Samuel 5:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2 Samuel 5:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2 Samuel 5:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7213114754098361
+    },
+    {
+      "reference": "2 Samuel 5:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2 Samuel 5:19",
+      "before_identical": false,
+      "before_similarity": 0.972972972972973,
+      "after_identical": false,
+      "after_similarity": 0.8115942028985508
+    },
+    {
+      "reference": "2 Samuel 5:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7142857142857143
+    },
+    {
+      "reference": "2 Samuel 5:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8888888888888888
+    },
+    {
+      "reference": "2 Samuel 5:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8888888888888888
+    },
+    {
+      "reference": "2 Samuel 5:23",
+      "before_identical": false,
+      "before_similarity": 0.96,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "2 Samuel 5:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "2 Samuel 5:25",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7567567567567568
+    }
+  ]
+}

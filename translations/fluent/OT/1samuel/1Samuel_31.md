@@ -4,97 +4,67 @@ testament: OT
 chapter: 31
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-17-31-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 31
-
-## Saul and His Sons Fall on Mount Gilboa
+## Saul and his sons fall
 
 <p>
-v01: The Philistines fought against Israel, and the men of Israel fled from before the Philistines and fell slain on Mount Gilboa.
-
-v02: The Philistines pressed hard after Saul and after his sons, and the Philistines struck Jonathan, Abinadab, and Malchi-Shua, sons of Saul.
-
-v03: The battle became heavy against Saul. The archers found him, and he was badly wounded by the archers.
-
-v04: Then Saul said to his armor-bearer, “Draw your sword and pierce me with it, lest these uncircumcised come and pierce me and abuse me.” But his armor-bearer was not willing, for he was greatly afraid. So Saul took the sword and fell upon it.
-
-v05: When his armor-bearer saw that Saul was dead, he also fell upon his sword and died with him.
-
-v06: So Saul died, and his three sons, and his armor-bearer, and all his men, together on that day.
+v01: The Philistines were fighting Israel. The Israelites fled before them and fell slain on Mount Gilboa.
+v02: The Philistines closed in on Saul and his sons. They killed Jonathan, Abinadab, and Malchi-shua, Saul’s sons.
 </p>
 
-## Israel Abandons the Cities
-
 <p>
-v07: When the men of Israel who were on the other side of the valley and people who were beyond the Jordan saw that the men of Israel had fled and that Saul and his sons were dead, they abandoned the cities and fled. Then the Philistines came and lived in them.
+v03: The battle pressed hard on Saul. The archers found him, and he was badly stricken by them.
 </p>
 
-## The Philistines Display Saul’s Body
-
 <p>
-v08: And it happened the next day when the Philistines came to strip the slain that they found Saul and his three sons fallen on Mount Gilboa.
-
-v09: They cut off his head and stripped off his weapons and sent throughout the land of the Philistines all around to proclaim the news in the houses of their idols and among the people.
-
-v10: They put his weapons in the house of the Ashtaroth and fastened his body to the wall of Beth-Shan.
+v04: Saul told his armor-bearer, “Draw your sword and run me through. Otherwise these uncircumcised men will come, run me through, and abuse me.” His armor-bearer refused, for he was terrified. So Saul took his sword and fell on it.
 </p>
 
-## The Men of Jabesh-Gilead Recover the Bodies
+<p>
+v05: When the armor-bearer saw that Saul was dead, he too fell on his sword and died with him.
+v06: So Saul, his three sons, his armor-bearer, and all his men died together that day.
+</p>
+
+## The bodies and the burial
 
 <p>
-v11: When the inhabitants of Jabesh-Gilead heard concerning him what the Philistines had done to Saul,
+v07: The Israelites across the valley and beyond the Jordan saw that Israel’s men had fled and Saul and his sons were dead. They abandoned their towns and fled, and the Philistines came and settled in them.
+</p>
 
-v12: all the valiant men arose and walked all night. They took the body of Saul and the bodies of his sons from the wall of Beth-Shan, came to Jabesh, and burned them there.
+<p>
+v08: The next day the Philistines came to strip the dead. They found Saul and his three sons fallen on Mount Gilboa.
+v09: They cut off Saul’s head and stripped away his armor. They sent word throughout Philistine territory to announce the news in their idols’ temples and among the people.
+v10: They placed his armor in the temple of Ashtaroth and fastened his body to the wall of Beth-shan.
+</p>
 
-v13: They took their bones and buried them under the tamarisk tree at Jabesh, and they fasted seven days.
+<p>
+v11: The people of Jabesh-gilead heard what the Philistines had done to Saul.
+</p>
+
+<p>
+v12: All their fighting men set out and traveled all night. They took the bodies of Saul and his sons from Beth-shan’s wall, brought them to Jabesh, and burned them there.
+v13: They took the bones and buried them under the tamarisk at Jabesh. Then they fasted for seven days.
 </p>
 
 ## Notes
 
-v01–06: The book ends Saul’s reign not with a palace scene but in military collapse on Mount Gilboa, where Jonathan and Saul’s other sons also die.
+v03: The Hebrew description of Saul can express being wounded or being deeply distressed by the archers. “Badly stricken” leaves that difficulty visible.
 
-v03: The Hebrew can mean Saul was badly wounded or greatly terrified by the archers. TSW follows the wound sense.
+v05: The narrator says Saul is dead when the armor-bearer sees him. The account given by the Amalekite in 2 Samuel 1 is preserved separately.
 
-v04: Saul’s fear is not only death but postmortem or pre-death abuse by Philistine enemies.
+v06: “All his men” remains the narrator’s collective statement; the draft does not add an explanation limiting it.
 
-v04–05: 2 Samuel 1 preserves a different account from an Amalekite who claims to have killed Saul after Saul requested it. 1 Samuel 31 states that Saul fell on his own sword. TSW preserves both narratives without harmonization.
-
-v06: “All his men” likely refers to those immediately around Saul rather than every Israelite soldier, since survivors remain elsewhere.
-
-v09: Philistine proclamation turns Saul’s death into religious propaganda within the temples of their gods.
-
-v10: 1 Chronicles 10:10 places Saul’s head in the house of Dagon and his armor in a divine house. The parallel account differs in detail.
-
-v12: Burning the bodies may have been necessary because of mutilation or may represent an unusual funerary response. Cremation is not the normal Israelite burial practice.
-
-v11–13: Jabesh-Gilead repays Saul’s earlier rescue in chapter 11 through courageous recovery and burial of his remains.
+v12–13: The people of Jabesh burn the bodies, then bury the bones. Both actions are retained. Their earlier rescue by Saul is narrated in chapter 11.
 
 ## Vocabulary
 
-v02: דָּבַק (davaq)
-“To press hard after” or cling in pursuit.
+v04: Uncircumcised
+Saul uses this covenant-marked description of the Philistines in his fear of abuse.
 
-v03: כָּבֵד (kaved)
-“To become heavy.” The battle intensifies.
-
-v04: דָּקַר (daqar)
-“To pierce.”
-
-v04: עָלַל (alal)
-“To abuse” or make sport of.
-
-v08: פָּשַׁט (pashat)
-“To strip.” The Philistines strip the slain.
-
-v09: בָּשַׂר (basar)
-“To proclaim good news.” Here Philistine victory propaganda.
-
-v10: עַשְׁתָּרוֹת (Ashtarot)
-“Ashtaroth.” Female deities associated with Philistine/Canaanite worship.
-
-v12: שָׂרַף (saraf)
-“To burn.”
-
-v13: צוּם (tsum)
-“To fast.”
+v10: Ashtaroth
+The name belongs to the cultic setting in which the Philistines place Saul’s armor.

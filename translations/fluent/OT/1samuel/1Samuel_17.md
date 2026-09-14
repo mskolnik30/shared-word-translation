@@ -4,220 +4,165 @@ testament: OT
 chapter: 17
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-17-31-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 17
-
-## Goliath Challenges Israel
+## The challenge
 
 <p>
-v01: The Philistines gathered their armies for battle and were gathered at Socoh, which belongs to Judah. They camped between Socoh and Azekah, in Ephes-Dammim.
-
-v02: Saul and the men of Israel were gathered and camped in the Valley of Elah. They drew up in battle formation to meet the Philistines.
-
-v03: The Philistines stood on the mountain on one side, and Israel stood on the mountain on the other side, with the valley between them.
-
-v04: Then a champion came out from the camps of the Philistines, whose name was Goliath from Gath. His height was six cubits and a span.
-
-v05: A bronze helmet was upon his head, and he was clothed with scale armor; the weight of the armor was five thousand shekels of bronze.
-
-v06: He had bronze greaves upon his legs and a bronze javelin between his shoulders.
-
-v07: The shaft of his spear was like a weaver’s beam, and the blade of his spear weighed six hundred shekels of iron. His shield-bearer went before him.
-
-v08: He stood and called to the battle lines of Israel and said to them, “Why have you come out to arrange for battle? Am I not the Philistine, and are you not servants of Saul? Choose for yourselves a man, and let him come down to me.
-
-v09: If he can fight with me and strike me, then we will become your servants. But if I prevail against him and strike him, then you will become our servants and serve us.”
-
-v10: The Philistine said, “I myself defy the battle lines of Israel this day. Give me a man, and let us fight together.”
-
-v11: Saul and all Israel heard these words of the Philistine and were shattered and greatly afraid.
+v01: The Philistines gathered their armies for war at Socoh in Judah. They camped between Socoh and Azekah, at Ephes-dammim.
+v02: Saul and the men of Israel gathered and camped in the Valley of Elah. They formed their battle lines facing the Philistines.
+v03: The Philistines stood on one hillside and Israel on the other, with the valley between them.
+v04: A champion came out from the Philistine camps. His name was Goliath, from Gath, and he stood six cubits and a span tall.
+v05: He wore a bronze helmet and a coat of scale armor. The bronze armor weighed five thousand shekels.
+v06: Bronze greaves covered his legs, and a bronze javelin rested between his shoulders.
+v07: His spear shaft was like a weaver’s beam, and its iron head weighed six hundred shekels. A shield-bearer walked ahead of him.
 </p>
 
-## David Comes to the Camp
-
 <p>
-v12: Now David was son of this Ephrathite man from Bethlehem in Judah, whose name was Jesse. He had eight sons, and the man in the days of Saul was old, advanced among men.
-
-v13: The three oldest sons of Jesse had gone after Saul to the battle. The names of his three sons who went to battle were Eliab the firstborn, Abinadab his second, and Shammah the third.
-
-v14: David was the youngest. The three oldest had gone after Saul.
-
-v15: Yet David went and returned from Saul to shepherd his father’s flock at Bethlehem.
-
-v16: The Philistine drew near morning and evening and presented himself forty days.
-
-v17: Jesse said to David his son, “Please take for your brothers an ephah of this roasted grain and these ten loaves and run to the camp to your brothers.
-
-v18: And take these ten cuts of cheese to the commander of their thousand. Visit your brothers for their well-being and take their pledge.”
-
-v19: Now Saul and they and all the men of Israel were in the Valley of Elah fighting with the Philistines.
-
-v20: David rose early in the morning, left the flock with a keeper, carried the provisions, and went as Jesse had commanded him. He came to the encampment as the army was going out to the battle line and shouting for battle.
-
-v21: Israel and the Philistines arranged battle line against battle line.
-
-v22: David left the things from upon him in the hand of the keeper of the baggage, ran to the battle line, and came and asked his brothers about their well-being.
+v08: He stood and shouted to Israel’s ranks, “Why come out and form battle lines? Am I not the Philistine, and are you not Saul’s servants? Choose a man and let him come down to me.
+v09: If he can fight me and kill me, we will be your slaves. But if I defeat him and kill him, you will be our slaves and serve us.”
+v10: The Philistine said, “Today I defy Israel’s ranks! Give me a man, and let us fight.”
 </p>
 
-## David Hears Goliath’s Challenge
-
 <p>
-v23: As he was speaking with them, look, the champion, Goliath the Philistine from Gath, came up from the battle lines of the Philistines and spoke according to these words, and David heard.
-
-v24: When all the men of Israel saw the man, they fled from before him and were greatly afraid.
-
-v25: The men of Israel said, “Have you seen this man who comes up? Surely he comes up to defy Israel. And it will be that the man who strikes him, the king will enrich him with great riches, give him his daughter, and make his father’s house free in Israel.”
-
-v26: David spoke to the men standing with him, saying, “What will be done for the man who strikes this Philistine and removes reproach from Israel? For who is this uncircumcised Philistine that he should defy the battle lines of the living God?”
-
-v27: The people spoke to him according to this word, saying, “Thus will it be done for the man who strikes him.”
+v11: When Saul and all Israel heard the Philistine’s words, they were shattered and terrified.
 </p>
 
-## Eliab Is Angry with David
+## David comes to the camp
 
 <p>
-v28: Eliab his oldest brother heard when he spoke to the men, and Eliab’s anger burned against David. He said, “Why did you come down? And with whom did you leave those few sheep in the wilderness? I know your presumption and the evil of your heart, for you came down so that you might see the battle.”
-
-v29: David said, “What have I done now? Was it not only a word?”
-
-v30: He turned from beside him toward another and spoke according to the same word, and the people returned a word to him like the former word.
+v12: David was the son of an Ephrathite from Bethlehem in Judah named Jesse. Jesse had eight sons and was already an old man in Saul’s time.
+v13: Jesse’s three oldest sons had gone to war with Saul: Eliab the firstborn, Abinadab the second, and Shammah the third.
+v14: David was the youngest. The three oldest followed Saul,
+v15: while David went back and forth from Saul to tend his father’s flock at Bethlehem.
 </p>
 
-## David Offers to Fight Goliath
-
 <p>
-v31: The words that David spoke were heard, and they reported them before Saul, and he sent for him.
-
-v32: David said to Saul, “Let no human heart fall because of him. Your servant will go and fight with this Philistine.”
-
-v33: Saul said to David, “You are not able to go against this Philistine to fight with him, for you are a youth, and he is a man of war from his youth.”
-
-v34: David said to Saul, “Your servant was shepherding his father’s flock, and a lion came, and also a bear, and carried off a sheep from the flock.
-
-v35: I went out after it and struck it and rescued from its mouth. When it rose against me, I seized it by its beard, struck it, and put it to death.
-
-v36: Your servant struck both lion and bear, and this uncircumcised Philistine will be like one of them, because he defied the battle lines of the living God.”
-
-v37: David said, “The LORD who rescued me from the paw of the lion and from the paw of the bear, he will rescue me from the hand of this Philistine.” Saul said to David, “Go, and may the LORD be with you.”
+v16: For forty days the Philistine came forward, taking his stand morning and evening.
+v17: Jesse told his son David, “Take this ephah of roasted grain and these ten loaves to your brothers. Hurry them to the camp.
+v18: Take these ten portions of cheese to their commander of a thousand. Find out how your brothers are and bring back a token from them.
+v19: They are with Saul and all the men of Israel in the Valley of Elah, fighting the Philistines.”
 </p>
 
-## David Refuses Saul’s Armor
-
 <p>
-v38: Saul clothed David with his garments, put a bronze helmet upon his head, and clothed him with armor.
-
-v39: David strapped his sword over his garments and tried to walk, for he had not tested them. David said to Saul, “I am not able to walk with these, for I have not tested them.” So David removed them from himself.
-
-v40: He took his staff in his hand, chose for himself five smooth stones from the wadi, and put them in the shepherd’s bag that he had, in the pouch. His sling was in his hand, and he drew near to the Philistine.
+v20: David got up early, left the flock with a keeper, and carried off the supplies as Jesse had instructed. He reached the camp enclosure as the army was marching out to its lines, raising the battle cry.
+v21: Israel and the Philistines drew up their lines, army facing army.
+v22: David left his load with the keeper of the supplies and ran to the battle line to greet his brothers.
+v23: As he spoke with them, the champion came up from the Philistine ranks—Goliath, the Philistine from Gath. He repeated his challenge, and David heard it.
+v24: Whenever the Israelites saw the man, they fled from him in terror.
 </p>
 
-## David and Goliath Confront One Another
-
 <p>
-v41: The Philistine came on, drawing nearer to David, and the man carrying the shield was before him.
-
-v42: The Philistine looked and saw David and despised him, for he was a youth, ruddy, and handsome in appearance.
-
-v43: The Philistine said to David, “Am I a dog, that you come to me with sticks?” And the Philistine cursed David by his gods.
-
-v44: The Philistine said to David, “Come to me, and I will give your flesh to the birds of the heavens and to the animals of the field.”
-
-v45: David said to the Philistine, “You come to me with sword, spear, and javelin, but I come to you in the name of the LORD of Hosts, the God of the battle lines of Israel, whom you have defied.
-
-v46: This day the LORD will give you into my hand, and I will strike you and remove your head from you. I will give the corpses of the camp of the Philistines this day to the birds of the heavens and to the wild animals of the earth, so that all the earth may know that there is a God in Israel.
-
-v47: And all this assembly will know that the LORD does not save by sword and spear, for the battle belongs to the LORD, and he will give you into our hand.”
+v25: The Israelites were saying, “Have you seen this man coming up? He comes to defy Israel. The king will make the man who kills him very rich, give him his daughter, and free his father’s household from obligations in Israel.”
+v26: David asked the men standing near him, “What will be done for the man who kills this Philistine and removes Israel’s disgrace? Who is this uncircumcised Philistine, that he should defy the ranks of the living God?”
+v27: They repeated what they had said about the reward for the man who killed him.
 </p>
 
-## David Strikes Goliath
-
 <p>
-v48: And it happened when the Philistine arose and went and drew near to meet David that David hurried and ran toward the battle line to meet the Philistine.
-
-v49: David stretched his hand into the bag, took from there a stone, slung it, and struck the Philistine on his forehead. The stone sank into his forehead, and he fell upon his face to the ground.
-
-v50: So David prevailed over the Philistine with sling and stone. He struck the Philistine and put him to death, though there was no sword in David’s hand.
-
-v51: Then David ran, stood over the Philistine, took his sword, drew it from its sheath, put him to death, and cut off his head with it.
-
-When the Philistines saw that their champion was dead, they fled.
+v28: His oldest brother Eliab heard him talking with the men and grew angry. “Why have you come down here? Who did you leave those few sheep with in the wilderness? I know your arrogance and your wicked heart. You came down to watch the battle!”
+v29: David answered, “What have I done now? Can I not ask a question?”
+v30: He turned away to someone else and asked the same thing. The people answered as before.
 </p>
 
-## Israel Pursues the Philistines
+## David faces the Philistine
 
 <p>
-v52: The men of Israel and Judah arose and shouted and pursued the Philistines as far as the entrance of the valley and as far as the gates of Ekron. The slain Philistines fell on the way of Shaaraim as far as Gath and Ekron.
-
-v53: The children of Israel returned from hotly pursuing the Philistines and plundered their camps.
-
-v54: David took the head of the Philistine and brought it to Jerusalem, but he put his weapons in his tent.
+v31: What David said was overheard and reported to Saul, who sent for him.
 </p>
 
-## Saul Asks Who David Is
+<p>
+v32: David told Saul, “Let no one lose heart because of him. Your servant will go and fight this Philistine.”
+v33: Saul answered, “You cannot go and fight this Philistine. You are only a boy, and he has been a warrior since he was young.”
+</p>
 
 <p>
-v55: When Saul saw David going out to meet the Philistine, he said to Abner commander of the army, “Whose son is this young man, Abner?” Abner said, “As your life lives, O king, I do not know.”
+v34: David said, “Your servant has tended his father’s flock. When a lion or a bear came and carried off a sheep,
+v35: I went after it, struck it, and rescued the sheep from its mouth. If it turned on me, I caught it by the beard, struck it, and killed it.
+v36: Your servant has killed both lion and bear. This uncircumcised Philistine will be like one of them, because he has defied the ranks of the living God.”
+v37: David added, “The LORD rescued me from the paw of the lion and the paw of the bear. He will rescue me from this Philistine’s hand.” Saul said, “Go, and may the LORD be with you.”
+</p>
 
-v56: The king said, “You inquire whose son this youth is.”
+<p>
+v38: Saul dressed David in his own gear. He put a bronze helmet on his head and fitted him with armor.
+v39: David strapped Saul’s sword over the gear and tried to walk, for he had never tested it. “I cannot walk in this,” he told Saul. “I have not tried it before.” So David took it off.
+v40: He took his staff and chose five smooth stones from the wadi, putting them in his shepherd’s bag, in its pouch. With his sling in hand, he approached the Philistine.
+</p>
 
-v57: When David returned from striking the Philistine, Abner took him and brought him before Saul, with the head of the Philistine in his hand.
+<p>
+v41: The Philistine kept coming closer to David, with his shield-bearer in front.
+v42: He looked David over and despised him: he was just a boy, ruddy and handsome.
+v43: The Philistine said to David, “Am I a dog, that you come at me with sticks?” Then he cursed David by his gods.
+v44: “Come here,” he said, “and I will give your flesh to the birds of the sky and the beasts of the field!”
+</p>
 
-v58: Saul said to him, “Whose son are you, young man?” David said, “The son of your servant Jesse the Bethlehemite.”
+<p>
+v45: David answered, “You come at me with sword, spear, and javelin. I come at you in the name of the LORD of Armies, the God of Israel’s ranks, whom you have defied.
+v46: Today the LORD will hand you over to me. I will strike you down and cut off your head. Today I will give the bodies of the Philistine army to the birds of the sky and the beasts of the earth. Then the whole earth will know that Israel has a God.
+v47: Everyone gathered here will know that the LORD does not save by sword or spear. The battle belongs to the LORD, and he will hand you over to us.”
+</p>
+
+## The battle turns
+
+<p>
+v48: As the Philistine moved forward to meet him, David hurried toward the battle line and ran to meet the Philistine.
+v49: David reached into his bag, took a stone, and slung it. It struck the Philistine in the forehead and sank in. He fell facedown to the ground.
+</p>
+
+<p>
+v50: So David overpowered the Philistine with a sling and a stone. He struck him down and killed him, though David had no sword in his hand.
+v51: David ran and stood over him. He took the Philistine’s sword, drew it from its sheath, and killed him, cutting off his head with it. When the Philistines saw that their champion was dead, they fled.
+</p>
+
+<p>
+v52: The men of Israel and Judah rose with a shout and pursued the Philistines as far as the entrance to the valley and the gates of Ekron. Philistine bodies lay along the road to Shaaraim, all the way to Gath and Ekron.
+v53: After chasing the Philistines, the Israelites returned and plundered their camps.
+</p>
+
+<p>
+v54: David took the Philistine’s head to Jerusalem and put his weapons in his own tent.
+</p>
+
+## Whose son is he?
+
+<p>
+v55: When Saul had seen David going out to face the Philistine, he asked his army commander Abner, “Whose son is that young man, Abner?” “As you live, Your Majesty, I do not know,” Abner replied.
+v56: The king said, “Find out whose son the young man is.”
+</p>
+
+<p>
+v57: When David returned from killing the Philistine, Abner took him to Saul. David still held the Philistine’s head.
+v58: Saul asked, “Whose son are you, young man?” David answered, “I am the son of your servant Jesse of Bethlehem.”
 </p>
 
 ## Notes
 
-v04: The Masoretic Text gives Goliath’s height as six cubits and a span. A Dead Sea Scroll manuscript and important Greek witnesses read four cubits and a span. TSW follows the Masoretic Text and records the significant variant.
+v04: The pinned Hebrew gives six cubits and a span. The ancient measures are retained rather than converted to an exact modern height.
 
-v12–31, v55–58: The Greek form of 1 Samuel omits substantial portions found in the Masoretic Text, especially material concerning David’s arrival, Eliab, and Saul’s questions about David’s family. These are major textual differences, not minor variants. TSW follows the Masoretic Text as primary.
+v12: The last description of Jesse is difficult, literally an old man “coming among men.” It is understood here as emphasizing his age.
 
-v18: “Take their pledge” is difficult. It may mean bring back a token confirming their well-being or collect something entrusted by them.
+v18: “A token” renders a word associated with a pledge or security; the precise object Jesse wants is not explained.
 
-v25: “Make his father’s house free” probably means exemption from taxes, forced labor, or royal obligations.
+v19: This verse can be read as continuing Jesse’s speech, as here, or as a return to the narrator. Hebrew does not mark the end of the quotation.
 
-v29: David’s response is terse and ambiguous: “Was it not only a word?” or “Is there not a cause?” TSW follows the simpler speech-related sense.
+v25: The promised freedom for the victor’s father’s household may concern taxation or other royal obligations; the Hebrew does not specify.
 
-v35: “Beard” translates a Hebrew term that can mean beard, chin, or jaw. The animal imagery is unusually concrete.
+v29: David’s last question can also be understood as “Is there not a reason?” The Hebrew word can mean a word, matter, or reason.
 
-v45–47: David does not deny weapons exist; he denies that Israel’s salvation is ultimately determined by weaponry. The battle belongs to the LORD.
+v50–51: Verse 50 says David killed Goliath with the sling and stone; verse 51 again speaks of killing him, now with the sword. Both statements remain.
 
-v50–51: Verse 50 summarizes Goliath’s death by sling and stone, while verse 51 narrates David using Goliath’s sword to finish the act and remove his head. TSW preserves the narrative sequence.
-
-v54: Jerusalem was not yet David’s capital in the narrative chronology. The verse may reflect later geographic memory or another stage in the tradition; TSW does not harmonize the chronology.
-
-v55–58: Saul’s question may concern David’s family identity and status rather than complete unfamiliarity with David personally, but the relation to 1 Samuel 16 remains narratively difficult.
-
-v12–13: , v14, v15, v16, v17, v18, v19, v20, v21, v22, v23, v24, v25, v26, v27, v28, v29, v30, v31, v55: –58: The Greek form of 1 Samuel omits substantial portions found in the Masoretic Text, especially material concerning David’s arrival, Eliab, and Saul’s questions about David’s family. These are major textual differences, not minor variants.
+v54–58: The reference to Jerusalem and the questions about David’s father remain where the narrative places them. The questions are not rewritten to settle their relationship to David’s earlier service to Saul.
 
 ## Vocabulary
 
-v04: אִישׁ הַבֵּנַיִם (ish ha-benayim)
-“Champion,” literally “man of the between.”
+v04: Champion
+Literally, a man between the armies: a fighter who represents his side in single combat.
 
-v05: קַשְׂקַשִּׂים (qasqassim)
-“Scales.” Describing scale armor.
+v05, 17: Shekel; ephah
+A shekel is a weight here, not a minted coin. An ephah is a dry measure.
 
-v10: חָרַף (charaf)
-“To defy” or taunt.
-
-v26: חַי (chai)
-“Living.” David calls Israel’s God the living God.
-
-v28: זָדוֹן (zadon)
-“Presumption” or arrogance.
-
-v37: נָצַל (natsal)
-“To rescue.”
-
-v40: קֶלַע (qela)
-“Sling.”
-
-v45: יְהוָה צְבָאוֹת (YHWH Tseva'ot)
-“LORD of Hosts.”
-
-v47: מִלְחָמָה לַיהוָה (milchamah la-YHWH)
-“The battle belongs to the LORD.”
-
-v50: חָזַק (chazaq)
-“To prevail” or be stronger.
+v26, 36, 45: Defy
+The repeated taunt becomes David’s description of Goliath’s challenge to the living God.

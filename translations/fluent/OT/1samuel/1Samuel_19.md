@@ -4,114 +4,89 @@ testament: OT
 chapter: 19
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-17-31-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 19
-
-## Jonathan Warns David
+## Jonathan speaks for David
 
 <p>
-v01: Saul spoke to Jonathan his son and to all his servants about putting David to death. But Jonathan son of Saul delighted greatly in David.
-
-v02: Jonathan told David, saying, “Saul my father is seeking to put you to death. And now please guard yourself in the morning. Stay in a hidden place and conceal yourself.
-
-v03: I will go out and stand beside my father in the field where you are, and I will speak with my father concerning you. If I see anything, I will tell you.”
-
-v04: Jonathan spoke good concerning David to Saul his father and said to him, “Let not the king sin against his servant David, because he has not sinned against you and because his deeds have been very good toward you.
-
-v05: He put his life in his hand and struck the Philistine, and the LORD worked a great salvation for all Israel. You saw it and rejoiced. Why then would you sin against innocent blood by putting David to death without cause?”
-
-v06: Saul listened to the voice of Jonathan, and Saul swore, “As the LORD lives, he will not be put to death.”
-
-v07: Jonathan called David, and Jonathan told him all these words. Jonathan brought David to Saul, and he was before him as formerly.
+v01: Saul told his son Jonathan and all his servants to kill David. But Jonathan delighted greatly in David,
+v02: so he warned him, “My father Saul is trying to kill you. Be on your guard tomorrow morning. Find a hiding place and stay out of sight.
+v03: I will go out and stand beside my father in the field where you are. I will speak to him about you, find out what I can, and let you know.”
 </p>
 
-## Saul Again Tries to Kill David
-
 <p>
-v08: There was war again, and David went out and fought with the Philistines and struck them with a great slaughter, and they fled before him.
-
-v09: Then an evil spirit from the LORD came upon Saul while he was sitting in his house with his spear in his hand, and David was playing with his hand.
-
-v10: Saul sought to pin David to the wall with the spear, but he slipped away from Saul’s presence, and he struck the spear into the wall. David fled and escaped that night.
+v04: Jonathan spoke well of David to his father Saul: “The king must not sin against his servant David. David has not sinned against you; what he has done has helped you greatly.
+v05: He took his life in his hands and struck down the Philistine. The LORD brought great deliverance to all Israel. You saw it and rejoiced. Why sin against innocent blood by killing David for no reason?”
 </p>
 
-## Michal Helps David Escape
-
 <p>
-v11: Saul sent messengers to David’s house to watch him and to put him to death in the morning. But Michal his wife told David, saying, “If you do not escape with your life tonight, tomorrow you will be put to death.”
-
-v12: So Michal let David down through the window, and he went and fled and escaped.
-
-v13: Michal took the household idol, put it in the bed, placed a quilt of goats’ hair at its head, and covered it with a garment.
-
-v14: Saul sent messengers to take David, but she said, “He is sick.”
-
-v15: Saul sent the messengers to see David, saying, “Bring him up to me in the bed, so that I may put him to death.”
-
-v16: The messengers came in, and look, the household idol was in the bed, with the quilt of goats’ hair at its head.
-
-v17: Saul said to Michal, “Why have you deceived me like this and sent my enemy away so that he escaped?” Michal said to Saul, “He said to me, ‘Send me away. Why should I put you to death?’”
+v06: Saul listened to Jonathan’s voice and swore, “As the LORD lives, David will not be put to death.”
+v07: Jonathan called David and told him everything. Then he brought David to Saul, and David served in his presence as before.
 </p>
 
-## David Flees to Samuel
+## Michal helps David escape
 
 <p>
-v18: David fled and escaped and came to Samuel at Ramah. He told him all that Saul had done to him. Then he and Samuel went and lived at Naioth.
-
-v19: It was told to Saul, saying, “Look, David is at Naioth in Ramah.”
-
-v20: Saul sent messengers to take David. When they saw the company of prophets prophesying and Samuel standing as leader over them, the Spirit of God came upon Saul’s messengers, and they also prophesied.
-
-v21: When it was told to Saul, he sent other messengers, and they also prophesied. Saul again sent messengers a third time, and they also prophesied.
+v08: War broke out again. David went out against the Philistines and struck them a heavy blow, and they fled from him.
 </p>
 
-## Saul Prophesies at Naioth
+<p>
+v09: A harmful spirit from the LORD came upon Saul as he sat at home with his spear in his hand. David was playing,
+v10: and Saul tried to pin him to the wall with the spear. David slipped away, and Saul drove the spear into the wall. David fled and escaped that night.
+</p>
 
 <p>
-v22: Then he himself went to Ramah and came to the great cistern that is at Secu. He asked and said, “Where are Samuel and David?” Someone said, “Look, at Naioth in Ramah.”
+v11: Saul sent messengers to watch David’s house and kill him in the morning. Michal, David’s wife, warned him, “If you do not escape tonight, you will be dead tomorrow.”
+v12: Michal lowered David through the window. He left, fled, and escaped.
+v13: She took the teraphim and laid it on the bed, put a covering of goats’ hair at its head, and covered it with a garment.
+</p>
 
-v23: He went there, to Naioth in Ramah. The Spirit of God came upon him also, and he went on prophesying until he came to Naioth in Ramah.
+<p>
+v14: When Saul sent messengers to take David, she said, “He is sick.”
+v15: Saul sent the messengers back to see David: “Bring him to me on the bed so I can kill him.”
+v16: The messengers came in. There was the teraphim on the bed, with the goats’ hair at its head!
+</p>
 
-v24: He also stripped off his garments, and he too prophesied before Samuel and lay naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?”
+<p>
+v17: Saul asked Michal, “Why did you deceive me like this and let my enemy escape?” Michal answered, “He told me, ‘Let me go. Why should I kill you?’”
+</p>
+
+## David comes to Samuel
+
+<p>
+v18: David fled and escaped to Samuel at Ramah. He told him everything Saul had done to him. Then he and Samuel went to stay at Naioth.
+v19: Saul was told, “David is at Naioth in Ramah.”
+</p>
+
+<p>
+v20: He sent messengers to seize David. When they saw the band of prophets prophesying, with Samuel standing over them, God’s Spirit came upon Saul’s messengers, and they too prophesied.
+v21: Saul heard about it and sent other messengers. They too prophesied. He sent a third group, and they too prophesied.
+</p>
+
+<p>
+v22: Then Saul himself went to Ramah. At the large cistern in Secu he asked, “Where are Samuel and David?” Someone answered, “At Naioth in Ramah.”
+v23: He set out for Naioth in Ramah, but God’s Spirit came upon him too. He kept walking and prophesying until he reached Naioth in Ramah.
+v24: He too stripped off his clothes and prophesied before Samuel. He lay naked all that day and all that night. That is why people say, “Is Saul among the prophets too?”
 </p>
 
 ## Notes
 
-v01–07: Jonathan argues for David through innocence, loyal service, and the LORD’s deliverance, temporarily reversing Saul’s death order.
+v09: The narrator attributes the harmful spirit to the LORD. This difficult attribution is retained.
 
-v09: The “evil spirit from the LORD” continues the difficult theology introduced in 1 Samuel 16:14. The text attributes Saul’s torment to a destructive spirit under divine sovereignty.
+v13, 16: Teraphim are household images. The Hebrew form is plural, but this scene can refer to one image. The goat-hair object at its head is not identified precisely.
 
-v11–17: Michal acts decisively to save David but then tells Saul that David threatened her. The narrative does not disclose whether this is self-protection or reflects another motive.
+v17: Michal reports a threat by David. The preceding narration does not say that he made it.
 
-v13: The household idol (*teraphim*) is large enough here to simulate a person in bed, showing that such objects varied in size.
-
-v20–21: Three groups sent to arrest David are overtaken by prophetic activity instead, turning coercive royal power into involuntary participation in prophecy.
-
-v24: “Naked” can mean stripped of outer garments rather than completely unclothed. The scene humiliates Saul and repeats the proverb from 10:12 in a darker context.
+v24: The Hebrew says Saul stripped off his clothes and lay naked. The wording is not reduced to removing royal insignia.
 
 ## Vocabulary
 
-v01: חָפֵץ (chafets)
-“To delight in.” Jonathan delights greatly in David.
+v13: Teraphim
+Household cult images; compare the teraphim in Genesis 31.
 
-v05: שִׂים נֶפֶשׁ בְּכַף (sim nefesh be-khaf)
-“To put life in the hand.” To risk one’s life.
-
-v05: דָּם נָקִי (dam naqi)
-“Innocent blood.”
-
-v09: רוּחַ רָעָה (ruach ra'ah)
-“Evil spirit.”
-
-v13: תְּרָפִים (teraphim)
-“Household idol.”
-
-v18: נָוִיוֹת (Naioth)
-“Naioth.” A place associated with Samuel’s prophetic community.
-
-v20: לַהֲקַת נְבִיאִים (lahakat nevi'im)
-“Company of prophets.”
-
-v24: פָּשַׁט (pashat)
-“To strip off.” Saul removes his garments.
+v20–24: Prophesy
+The repeated verb links Saul’s messengers and Saul with the prophetic group around Samuel.

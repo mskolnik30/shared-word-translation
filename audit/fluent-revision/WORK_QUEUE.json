@@ -266,20 +266,34 @@
       "scope": "1 Samuel 1–16",
       "verses": 406,
       "ledger": "audit/fluent-revision/2026-09-14-1samuel-1-16/1samuel-verse-review.json"
+    },
+    {
+      "scope": "1 Samuel 17–31",
+      "verses": 404,
+      "ledger": "audit/fluent-revision/2026-09-14-1samuel-17-31/1samuel-verse-review.json"
+    },
+    {
+      "scope": "2 Samuel 1–5",
+      "verses": 135,
+      "ledger": "audit/fluent-revision/2026-09-14-2samuel-1-5/2samuel-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "1 Samuel 17–31",
-      "action": "Continue from every verse of verified pinned Hebrew; read source versification notes carefully and bind exact original records."
-    },
-    {
       "scope": "Whole-book 1 Samuel consistency review",
-      "action": "Read the complete revised book, review recurring words and selected Hebrew difficulties; rebind any changed earlier chapters."
+      "action": "Read all 31 revised English chapters and apparatus as a connected book; review recurring language and selected Hebrew difficulties. This batch did focused checks, not a full-book pass. Rebind any changed earlier chapters."
     },
     {
-      "scope": "2 Samuel 1–20",
-      "action": "Next large connected draft batch from verified repository source pin; preserve independent-review qualification."
+      "scope": "2 Samuel 6–24",
+      "action": "Continue the remaining 19 complete chapters from the verified Hebrew pin; maintain verse-specific decisions, meaningful repetitions, literary forms and independent review qualifications."
+    },
+    {
+      "scope": "Whole-book 2 Samuel consistency review",
+      "action": "Check the complete book and its connections with 1 Samuel; rebind affected ledgers if text changes."
+    },
+    {
+      "scope": "1 Kings 1–20",
+      "action": "Next connected twenty-chapter draft batch after Samuel review, verifying the repository source pin first."
     }
   ],
   "standards": [
@@ -334,5 +348,5 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt explicitly requested 20-chapter batches on 2026-09-14. Complete as many connected whole chapters as careful source reading and verse-specific documentation permit; no overlap quota or routine approval pause."
+  "batch_preference": "Matt requested twenty chapters per large batch where careful source work permits. This batch completes 1 Samuel 17–31 and 2 Samuel 1–5: twenty chapters, 539 public verses. Whole-book 1 Samuel authoring consistency remains explicitly queued. No routine approval pause or overlap quota."
 }

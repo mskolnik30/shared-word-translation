@@ -4,101 +4,73 @@ testament: OT
 chapter: 21
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-1samuel-17-31-biblical-fluency-2026-09-14
 ---
 
-# 1 Samuel 21
-
-## David Comes to Ahimelech at Nob
+## Bread and a sword at Nob
 
 <p>
-v01: David came to Nob, to Ahimelech the priest. Ahimelech came trembling to meet David and said to him, “Why are you alone and no one is with you?”
-
-v02: David said to Ahimelech the priest, “The king commanded me a matter and said to me, ‘Let no one know anything concerning the matter for which I am sending you and which I have commanded you.’ And I have directed the young men to such and such a place.
-
-v03: And now, what is under your hand? Give five loaves of bread into my hand, or whatever is found.”
-
-v04: The priest answered David and said, “There is no ordinary bread under my hand, but there is holy bread, if only the young men have kept themselves from women.”
-
-v05: David answered the priest and said to him, “Indeed, women have been kept from us as formerly when I went out, and the vessels of the young men are holy, though it is an ordinary journey. How much more today will their vessels be holy.”
-
-v06: So the priest gave him holy bread, for there was no bread there except the bread of the Presence, which had been removed from before the LORD to put hot bread in its place on the day it was taken away.
+v01: David came to Nob, to Ahimelech the priest. Ahimelech met him trembling and asked, “Why are you alone, with no one beside you?”
+v02: David told the priest Ahimelech, “The king has charged me with a matter and said, ‘No one must know anything about the mission I am sending you on or the instructions I have given you.’ I have arranged for the young men to meet me at a certain place.
 </p>
 
-## Doeg Is Present
-
 <p>
-v07: Now a man from the servants of Saul was there that day, detained before the LORD. His name was Doeg the Edomite, chief of Saul’s shepherds.
+v03: Now, what do you have on hand? Give me five loaves, or whatever there is.”
+v04: The priest answered, “I have no ordinary bread, only holy bread—provided the young men have kept themselves from women.”
 </p>
 
-## David Takes Goliath’s Sword
-
 <p>
-v08: David said to Ahimelech, “Is there not here under your hand a spear or sword? For I did not take my sword or my weapons in my hand because the king’s matter was urgent.”
-
-v09: The priest said, “The sword of Goliath the Philistine, whom you struck in the Valley of Elah—look, it is wrapped in a cloth behind the ephod. If you will take that for yourself, take it, for there is no other except it here.” David said, “There is none like it. Give it to me.”
+v05: David replied, “Women have been kept from us, as always when I go out. The young men’s vessels are holy even on an ordinary journey. How much more today will their vessels be holy!”
+v06: So the priest gave him the holy bread. There was no bread there except the bread of the Presence, taken away from before the LORD so that fresh, warm bread could replace it on the day it was removed.
 </p>
 
-## David Flees to Achish of Gath
+<p>
+v07: One of Saul’s servants was there that day, detained before the LORD. He was Doeg the Edomite, chief of Saul’s shepherds.
+</p>
 
 <p>
-v10: David arose and fled that day from before Saul and came to Achish king of Gath.
+v08: David asked Ahimelech, “Do you have a spear or a sword here? I brought neither my sword nor my gear, because the king’s business was urgent.”
+v09: The priest said, “The sword of Goliath the Philistine, whom you struck down in the Valley of Elah, is here, wrapped in a cloth behind the ephod. Take it if you want it; there is no other here.” David answered, “There is none like it. Give it to me.”
+</p>
 
-v11: The servants of Achish said to him, “Is this not David, king of the land? Did they not answer concerning this one in dances, saying:
+## David before Achish
 
-‘Saul has struck his thousands,
-and David his ten thousands’?”
+<p>
+v10: That day David left and fled from Saul to Achish king of Gath.
+</p>
 
-v12: David set these words in his heart and was very afraid before Achish king of Gath.
+<p>
+v11: Achish’s servants said to him, “Is this not David, the king of the land? Is he not the one they sing about as they dance:
+‘Saul has struck down his thousands,
+and David his tens of thousands’?”
+v12: David took these words to heart and became very afraid of Achish king of Gath.
+</p>
 
-v13: So he changed his behavior in their eyes and acted as if mad in their hand. He made marks on the doors of the gate and let his saliva run down upon his beard.
-
-v14: Achish said to his servants, “Look, you see a man acting mad. Why have you brought him to me?
-
-v15: Do I lack madmen, that you have brought this one to act mad before me? Will this one come into my house?”
+<p>
+v13: So he changed his behavior before them and acted mad while in their hands. He scratched marks on the gate doors and let saliva run down his beard.
+v14: Achish said to his servants, “Look at the man! He is mad. Why bring him to me?
+v15: Am I short of madmen, that you bring this fellow to act mad in front of me? Is this man to enter my house?”
 </p>
 
 ## Notes
 
-v01: Nob is a priestly center. David arrives alone and immediately raises suspicion.
+v05: The Hebrew speaks of the young men’s “vessels,” which can refer to their bodies or equipment. The relation of the ordinary journey to their present holiness is difficult.
 
-v02: David deceives Ahimelech by presenting his flight as a secret royal mission. The lie later contributes to disastrous consequences for the priests of Nob.
+v07: Why Doeg was detained before the LORD is not explained.
 
-v04–06: The “holy bread” is the bread of the Presence normally associated with priestly use. Ahimelech allows David access under conditions of ritual purity.
+v11: Achish’s servants call David king of the land; the title is their characterization at this point in the story.
 
-v05: “Vessels” can refer literally to equipment or euphemistically to bodies. TSW preserves the broader term.
+v13–15: David feigns madness. Achish’s language describes his reaction and is not a modern diagnosis.
 
-v07: Doeg’s presence is narrated before his later report to Saul, creating tension within the scene.
-
-v09: Goliath’s sword has moved from battlefield trophy to sacred storage and then becomes David’s weapon while he flees from Saul.
-
-v10: David seeks refuge in Gath, Goliath’s own Philistine city, showing how desperate his flight has become.
-
-v11: The Philistine servants call David “king of the land” before he is king over Israel, likely reflecting his reputation rather than formal office.
-
-v13: David’s feigned madness is an act of survival. The exact action translated “made marks” is uncertain and may mean scratched or scribbled.
+v01–15: The public verse numbers in this chapter correspond to Hebrew 21:2–16.
 
 ## Vocabulary
 
-v01: חָרַד (charad)
-“To tremble.” Ahimelech meets David with alarm.
+v04, 06: Holy bread; bread of the Presence
+Bread set before the LORD, distinguished here from ordinary bread.
 
-v04: לֶחֶם קֹדֶשׁ (lechem qodesh)
-“Holy bread.”
-
-v06: לֶחֶם הַפָּנִים (lechem ha-panim)
-“Bread of the Presence.”
-
-v07: נֶעְצָר (ne'etsar)
-“Detained” or held back before the LORD.
-
-v09: אֵפוֹד (ephod)
-“Ephod.” A priestly garment/object.
-
-v12: יָרֵא (yare)
-“To fear.”
-
-v13: שָׁנָה טַעְמוֹ (shanah ta'amo)
-“To change his behavior/sense.”
-
-v13: הוֹלֵל (holel)
-“To act mad.”
+v09: Ephod
+A priestly object or garment; the sword’s place behind it is retained.

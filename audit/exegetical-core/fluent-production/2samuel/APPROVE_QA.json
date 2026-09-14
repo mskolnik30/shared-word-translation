@@ -1,9 +1,112 @@
 {
   "book": "2 Samuel",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_reviews_complete": 24,
   "curated_f3_decisions_acknowledged": 6,
-  "required_disposition": "APPROVE_QA",
-  "publication_note": "Eligible for review-branch installation; publication remains a separate repository decision."
+  "required_disposition": "EDITORIAL_REVIEW_REQUIRED",
+  "publication_note": "Chapters 1–5 have revised drafts awaiting independent editorial review. Earlier approvals are historical for those chapters; no publication occurred.",
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "revision_batches": [
+    {
+      "id": "fluent-2samuel-1-5-biblical-fluency-2026-09-14",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 135,
+      "verse_ledger": "audit/fluent-revision/2026-09-14-2samuel-1-5/2samuel-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "prior_record": {
+        "commit": "f35c4160019aa32e5b0c0f4af167df1759cde7d0",
+        "path": "audit/exegetical-core/fluent-production/2samuel/APPROVE_QA.json"
+      },
+      "previous_batch_chapters": [],
+      "not_yet_revised_chapters": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–5; independent approval does not transfer. Companion quotes and bindings require later reconciliation.",
+      "qa_scope": "structural"
+    }
+  ],
+  "current_revision": {
+    "id": "fluent-2samuel-1-5-biblical-fluency-2026-09-14",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "verse_count": 135,
+    "verse_ledger": "audit/fluent-revision/2026-09-14-2samuel-1-5/2samuel-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "prior_record": {
+      "commit": "f35c4160019aa32e5b0c0f4af167df1759cde7d0",
+      "path": "audit/exegetical-core/fluent-production/2samuel/APPROVE_QA.json"
+    },
+    "previous_batch_chapters": [],
+    "not_yet_revised_chapters": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–5; independent approval does not transfer. Companion quotes and bindings require later reconciliation.",
+    "qa_scope": "structural"
+  },
+  "historical_approval_scope": "Existing source-lock decisions remain provenance for the unchanged source. Earlier wording decisions apply to the text at f35c4160019aa32e5b0c0f4af167df1759cde7d0, not to this revision.",
+  "chapter_reviews_complete_scope": "Historical count; 5 newly revised chapters have new draft checks only. Independent review remains pending.",
+  "chapter_reviews_pending": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
 }
