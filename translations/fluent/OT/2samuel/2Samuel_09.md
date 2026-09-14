@@ -4,88 +4,57 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## David Seeks Someone from Saul’s House
+## Steadfast Love for Jonathan’s Son
 
 <p>
-v01: David said, “Is there still anyone left from the house of Saul, so that I may show steadfast love to him for Jonathan’s sake?”
-
-v02: There was a servant of Saul’s house whose name was Ziba. They called him to David, and the king said to him, “Are you Ziba?” He said, “Your servant.”
-
-v03: The king said, “Is there not still someone from the house of Saul, so that I may show the steadfast love of God to him?” Ziba said to the king, “There is still a son of Jonathan, crippled in both feet.”
-
-v04: The king said to him, “Where is he?” Ziba said to the king, “Look, he is in the house of Machir son of Ammiel at Lo-Debar.”
-
-v05: Then King David sent and took him from the house of Machir son of Ammiel, from Lo-Debar.
+v01: David asked, “Is anyone left from Saul’s house? I want to show him steadfast love for Jonathan’s sake.”
+v02: Saul’s house had a servant named Ziba. They summoned him to David, and the king asked, “Are you Ziba?” “At your service,” he replied.
+v03: The king asked, “Is there no one left from Saul’s house to whom I can show God’s steadfast love?” Ziba answered, “Jonathan still has a son. His feet are disabled.”
 </p>
 
-## Mephibosheth Comes before David
-
 <p>
-v06: Mephibosheth son of Jonathan, son of Saul, came to David, fell upon his face, and bowed down. David said, “Mephibosheth.” He said, “Look, your servant.”
-
-v07: David said to him, “Do not fear, for I will surely show steadfast love to you for the sake of Jonathan your father. I will restore to you all the land of Saul your grandfather, and you yourself will eat bread at my table continually.”
-
-v08: He bowed down and said, “What is your servant, that you have turned toward a dead dog like me?”
+v04: “Where is he?” the king asked. Ziba replied, “He is at the house of Machir son of Ammiel in Lo-debar.”
+v05: King David sent for him and had him brought from Machir son of Ammiel’s house in Lo-debar.
 </p>
 
-## Ziba Is Assigned to Serve Mephibosheth
+<p>
+v06: Mephibosheth, the son of Jonathan and grandson of Saul, came to David and fell facedown in homage. “Mephibosheth!” David said. “Here is your servant,” he answered.
+v07: “Do not be afraid,” David told him. “I will certainly show you steadfast love for your father Jonathan’s sake. I will restore all your grandfather Saul’s land to you, and you will always eat at my table.”
+v08: Mephibosheth bowed and said, “What is your servant, that you should notice a dead dog like me?”
+</p>
 
 <p>
-v09: Then the king called Ziba, Saul’s servant, and said to him, “All that belonged to Saul and to all his house I have given to your master’s son.
+v09: The king called Saul’s servant Ziba and said, “I have given your master’s grandson everything that belonged to Saul and his whole household.
+v10: You, your sons, and your servants will work the land for him and bring in its produce, so your master’s grandson has food to eat. But Mephibosheth himself will always eat at my table.” Ziba had fifteen sons and twenty servants.
+</p>
 
-v10: You will work the land for him, you and your sons and your servants, and bring in the produce, so that your master’s son has bread to eat. But Mephibosheth your master’s son will eat bread continually at my table.” Now Ziba had fifteen sons and twenty servants.
+<p>
+v11: Ziba told the king, “Your servant will do everything my lord the king commands.” David’s promise was, “Mephibosheth will eat at my table, like one of the king’s sons.”
+</p>
 
-v11: Ziba said to the king, “According to all that my lord the king commands his servant, so your servant will do.” So Mephibosheth ate at David’s table like one of the king’s sons.
-
-v12: Mephibosheth had a young son whose name was Mica. Everyone who lived in Ziba’s house were servants to Mephibosheth.
-
-v13: So Mephibosheth lived in Jerusalem, for he ate continually at the king’s table. He was crippled in both his feet.
+<p>
+v12: Mephibosheth had a young son named Mica. Everyone in Ziba’s household served Mephibosheth.
+v13: Mephibosheth lived in Jerusalem, because he always ate at the king’s table. He was lame in both feet.
 </p>
 
 ## Notes
 
-v01: David’s action is explicitly grounded in his covenant relationship with Jonathan rather than in ordinary royal policy toward a former dynasty.
+v07: Saul is called a “father” in the Hebrew kinship idiom; the family context identifies him as Mephibosheth’s grandfather.
 
-v03: “steadfast love of God” can mean extraordinary covenant-like kindness or kindness shown in God’s presence. The phrase intensifies David’s commitment to Jonathan’s son.
+v11: The Hebrew abruptly says “my table.” The draft takes this as a return to David’s promise and supplies an introduction. The speaker transition is not explicit in the source.
 
-v03, v13: Mephibosheth’s disability is repeated as a narrative fact, not as a moral judgment. His place at the royal table is not conditioned on physical capacity.
-
-v04: Machir later appears as a supporter of David during Absalom’s rebellion, suggesting that Mephibosheth had been protected within a household of some means.
-
-v07: Restoration of Saul’s land and continual eating at David’s table combine economic provision with royal inclusion.
-
-v08: “dead dog” is an idiom of extreme self-abasement before a king, not a statement of Mephibosheth’s actual worth.
-
-v10: Ziba’s large household makes him capable of administering the restored estate.
-
-v11: “like one of the king’s sons” gives Mephibosheth a status at table resembling adoption into David’s royal household.
-
-v12: Mica preserves Jonathan’s line beyond Mephibosheth.
+v13: The chapter repeats both Mephibosheth’s place at the table and his disability. It does not turn his disability into a moral or spiritual condition.
 
 ## Vocabulary
 
-v01: חֶסֶד (ḥesed)
-“Steadfast love.” Covenant loyalty shown for Jonathan’s sake.
+v01: Steadfast love
+David’s stated reason for seeking Jonathan’s surviving family.
 
-v03: פִּסֵּחַ (pisseach)
-“Crippled” or “lame.” Describing Mephibosheth’s feet.
-
-v07: שׁוּב (shuv)
-“To restore.” David returns Saul’s land to Mephibosheth.
-
-v07: שֻׁלְחָן (shulchan)
-“Table.” The place of continual royal fellowship.
-
-v08: כֶּלֶב מֵת (kelev met)
-“Dead dog.” An idiom of self-humbling.
-
-v10: עָבַד (avad)
-“To work” or “serve.” Ziba’s household works the land for Mephibosheth.
-
-v12: מִיכָא (Mikha)
-“Mica.” Mephibosheth’s son.
-
-v13: תָּמִיד (tamid)
-“Continually.” Mephibosheth’s permanent place at the royal table.
+v08: Dead dog
+Mephibosheth’s self-abasing description in his own speech.

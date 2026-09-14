@@ -4,153 +4,127 @@ testament: OT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## David Orders a Census
+## David Counts the People
 
 <p>
-v01: Again the anger of the LORD burned against Israel, and he incited David against them, saying, “Go, count Israel and Judah.”
-
-v02: The king said to Joab, commander of the army who was with him, “Go now through all the tribes of Israel, from Dan to Beersheba, and count the people, so that I may know the number of the people.”
-
-v03: Yet Joab said to the king, “May the LORD your God add to the people a hundred times as many as they are, while the eyes of my lord the king see it. But why does my lord the king delight in this thing?”
-
-v04: Yet the king’s word prevailed against Joab and against the commanders of the army. So Joab and the commanders of the army went out from before the king to count the people of Israel.
+v01: Again the LORD’s anger burned against Israel, and he incited David against them, saying, “Go, count Israel and Judah.”
 </p>
 
-## Joab Counts Israel and Judah
-
 <p>
-v05: They crossed the Jordan and camped in Aroer, on the right side of the city that is in the middle of the wadi, toward Gad and toward Jazer.
-
-v06: They came to Gilead and to the land of Tahtim-Hodshi. They came to Dan-Jaan and around to Sidon.
-
-v07: They came to the stronghold of Tyre and to all the cities of the Hivites and Canaanites, and they went out to the Negev of Judah at Beersheba.
-
-v08: They went throughout all the land and came to Jerusalem at the end of nine months and twenty days.
-
-v09: Joab gave the number of the census of the people to the king: Israel was eight hundred thousand valiant men who drew the sword, and the men of Judah were five hundred thousand men.
+v02: The king told Joab, the army commander with him, “Please go through all Israel’s tribes, from Dan to Beer-sheba, and muster the people, so I may know their number.”
 </p>
 
-## David’s Heart Strikes Him
-
 <p>
-v10: David’s heart struck him after he had counted the people. David said to the LORD, “I have sinned greatly in what I have done. And now, O LORD, please cause the guilt of your servant to pass away, for I have acted very foolishly.”
+v03: Joab answered the king, “May the LORD your God multiply the people a hundred times over, while my lord the king sees it with his own eyes. But why does my lord the king delight in this?”
 </p>
 
-## Gad Gives David Three Choices
-
 <p>
-v11: When David arose in the morning, the word of the LORD came to the prophet Gad, David’s seer, saying,
-
-v12: “Go and speak to David: Thus says the LORD: Three things I am laying before you. Choose for yourself one of them, and I will do it to you.”
-
-v13: So Gad came to David and told him and said to him, “Will seven years of famine come upon you in your land? Or will you flee three months before your adversaries while they pursue you? Or will there be three days of plague in your land? Now know and see what word I will return to the one who sent me.”
-
-v14: David said to Gad, “I am in great distress. Please let us fall into the hand of the LORD, for his compassion is great, but let me not fall into the hand of humanity.”
+v04: But the king’s command prevailed over Joab and the army commanders. They left the king’s presence to muster the people of Israel.
 </p>
 
-## Plague Falls upon Israel
-
 <p>
-v15: So the LORD sent a plague upon Israel from the morning until the appointed time, and seventy thousand men from the people died, from Dan to Beersheba.
-
-v16: When the messenger stretched out his hand toward Jerusalem to destroy it, the LORD relented concerning the disaster and said to the messenger who was destroying among the people, “Enough! Now relax your hand.” And the messenger of the LORD was by the threshing floor of Araunah the Jebusite.
-
-v17: David spoke to the LORD when he saw the messenger who was striking the people and said, “Look, I am the one who sinned, and I am the one who acted perversely. But these sheep—what have they done? Please let your hand be against me and against my father’s house.”
+v05: They crossed the Jordan and camped at Aroer, south of the town in the valley, in Gad, and toward Jazer.
+v06: They went to Gilead and the land of Tahtim-hodshi, then to Dan-jaan and around toward Sidon.
+v07: They came to the fortress of Tyre and all the towns of the Hivites and Canaanites, then went out to the Negeb of Judah at Beer-sheba.
 </p>
 
-## Gad Tells David to Build an Altar
-
 <p>
-v18: Gad came to David that day and said to him, “Go up, raise an altar to the LORD on the threshing floor of Araunah the Jebusite.”
-
-v19: So David went up according to the word of Gad, as the LORD commanded.
+v08: After going through the whole land, they returned to Jerusalem at the end of nine months and twenty days.
 </p>
 
-## Araunah Offers the Threshing Floor
-
 <p>
-v20: Araunah looked down and saw the king and his servants crossing over toward him. Araunah went out and bowed down to the king with his face to the ground.
-
-v21: Araunah said, “Why has my lord the king come to his servant?” David said, “To buy the threshing floor from you, to build an altar to the LORD, so that the plague may be restrained from the people.”
-
-v22: Araunah said to David, “Let my lord the king take and offer up what is good in his eyes. Look, the oxen for the burnt offering and the threshing sledges and the equipment of the oxen for the wood.
-
-v23: All this, O king, Araunah gives to the king.” And Araunah said to the king, “May the LORD your God accept you.”
+v09: Joab gave the king the number of the people mustered: in Israel, eight hundred thousand fighting men who drew the sword, and in Judah, five hundred thousand men.
 </p>
 
-## David Buys the Threshing Floor and Offers Sacrifice
+## Confession and Plague
 
 <p>
-v24: But the king said to Araunah, “No, but I will surely buy it from you for a price, for I will not offer to the LORD my God burnt offerings that cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver.
+v10: After David counted the people, his heart struck him. He said to the LORD, “I have sinned greatly in what I have done. Now, LORD, please take away your servant’s guilt, for I have acted very foolishly.”
+</p>
 
-v25: David built there an altar to the LORD and offered burnt offerings and offerings of well-being. Then the LORD was entreated for the land, and the plague was restrained from Israel.
+<p>
+v11: When David rose in the morning, the word of the LORD came to the prophet Gad, David’s seer:
+v12: “Go and tell David, ‘This is what the LORD says: I am laying three things before you. Choose one, and I will do it to you.’”
+</p>
+
+<p>
+v13: Gad came to David and told him, “Shall seven years of famine come on your land? Or will you flee for three months before enemies who pursue you? Or shall there be three days of plague in your land? Now think carefully about what answer I should take to the one who sent me.”
+</p>
+
+<p>
+v14: David told Gad, “I am in great distress. Please let us fall into the LORD’s hand, for his mercies are many. But do not let me fall into human hands.”
+</p>
+
+<p>
+v15: So the LORD sent a plague on Israel from that morning until the appointed time. Seventy thousand people died, from Dan to Beer-sheba.
+</p>
+
+<p>
+v16: When the angel stretched out his hand toward Jerusalem to destroy it, the LORD relented from the disaster. He told the angel destroying the people, “Enough! Now withdraw your hand.” The LORD’s angel was beside the threshing floor of Araunah the Jebusite.
+</p>
+
+<p>
+v17: When David saw the angel striking the people, he said to the LORD, “I am the one who sinned; I am the one who did wrong. But these sheep—what have they done? Please let your hand fall on me and my father’s house.”
+</p>
+
+## An Altar at Araunah’s Threshing Floor
+
+<p>
+v18: That day Gad came to David and said, “Go up and raise an altar to the LORD on the threshing floor of Araunah the Jebusite.”
+v19: David went up at Gad’s word, just as the LORD had commanded.
+</p>
+
+<p>
+v20: Araunah looked out and saw the king and his servants approaching. He went out and bowed facedown to the ground before the king.
+</p>
+
+<p>
+v21: Araunah asked, “Why has my lord the king come to his servant?” David answered, “To buy your threshing floor and build an altar to the LORD, so the plague may be stopped among the people.”
+</p>
+
+<p>
+v22: Araunah told David, “Let my lord the king take and offer whatever is good in his eyes. Here are the cattle for the burnt offering, and the threshing sledges and cattle equipment for the wood.”
+v23: Araunah the king gave all this to the king. Araunah said to the king, “May the LORD your God accept you.”
+</p>
+
+<p>
+v24: But the king told Araunah, “No. I will certainly buy it from you for a price. I will not offer the LORD my God burnt offerings that cost me nothing.” So David bought the threshing floor and the cattle for fifty silver shekels.
+</p>
+
+<p>
+v25: David built an altar to the LORD there and offered burnt offerings and well-being offerings. The LORD responded to pleas for the land, and the plague was stopped in Israel.
 </p>
 
 ## Notes
 
-v01: The chapter begins by saying the LORD incited David to count Israel, while 1 Chronicles 21:1 says an adversary/Satan stood against Israel and incited David. The two books frame the same event differently. TSW preserves Samuel’s wording.
+v01–10: The passage attributes the incitement to the LORD and later records David’s confession. It does not explain the census’s sin by naming pride, missing ransom payments, or another motive.
 
-v02: The census focuses on military-age population, as shown by the final count of men who draw the sword.
+v05–06: The route’s syntax and the names Tahtim-hodshi and Dan-jaan are uncertain. The draft preserves them rather than supplying a reconstructed itinerary.
 
-v03: Joab, often morally severe elsewhere, recognizes danger in the king’s desire to count the people and attempts to dissuade him.
+v09–15: The source gives eight hundred thousand fighting men in Israel, five hundred thousand men in Judah, seven years of famine as an option, and seventy thousand deaths. The endpoint “appointed time” is not further specified.
 
-v06: “Tahtim-Hodshi” is a difficult place-name and may reflect a textual problem. TSW transliterates the Masoretic form.
+v16–17: The LORD relents; David asks that the hand fall on him and his father’s house instead of the people. Both the divine action and his plea remain explicit.
 
-v06: “Tahtim-Hodshi” is a difficult place-name and may reflect a textual problem. The Masoretic form is transliterated.
+v23: The Hebrew can be read as calling Araunah “the king,” as here, or as addressing David as “O king” within Araunah’s continuing speech. His status is not explained in this account.
 
-v09: The numbers differ from 1 Chronicles 21:5, which reports 1,100,000 for Israel and 470,000 for Judah. TSW preserves Samuel’s figures.
-
-v10: “David’s heart struck him” is an idiom of inward conviction. The narrative does not state precisely what made the census sinful—possible explanations include royal pride, military self-reliance, or failure to follow census law.
-
-v13: The Masoretic Text reads seven years of famine, while 1 Chronicles 21:12 and some ancient witnesses read three years, creating a three-three-three pattern. TSW follows the Masoretic seven.
-
-v14: David chooses divine judgment rather than human enemies because he trusts the LORD’s great compassion even while facing punishment.
-
-v16: The LORD “relents” at Jerusalem, limiting the plague before David’s altar is built. Divine mercy precedes David’s sacrificial response.
-
-v17: David identifies himself as guilty and the people as sheep, taking responsibility for the consequences of his royal decision.
-
-v18: Araunah is a Jebusite whose threshing floor becomes the location of the plague-ending altar. 1 Chronicles 22:1 later connects this site with the future temple.
-
-v23: The Hebrew can also be read “All these Araunah the king gives to the king,” which has led some to suggest Araunah was a local Jebusite ruler or that “king” is a textual intrusion. TSW follows the simpler address to David.
-
-v24: 1 Chronicles 21:25 reports six hundred shekels of gold for the site, while Samuel reports fifty shekels of silver for threshing floor and oxen. The accounts may describe different scopes of purchase, but TSW does not harmonize them.
-
-v25: The book closes with the LORD being entreated for the land and the plague restrained, echoing 21:14 and ending David’s story with altar, sacrifice, and mercy.
+v24: The price is fifty silver shekels for the threshing floor and cattle. The draft does not replace it with an amount from another account.
 
 ## Vocabulary
 
-v01: חָרָה אַף (charah af)
-“Anger burned.” A standard idiom for divine wrath.
+v10: His heart struck him
+An image of inward conviction, kept visible before David’s confession.
 
-v02: פָּקַד (paqad)
-“To count” or muster. Used of the census.
+v11: Seer
+A designation for one who receives divine revelation; Gad is also called a prophet.
 
-v09: חַיִל (chayil)
-“Valiant force” or army strength.
+v22: Threshing sledges
+Agricultural tools drawn over harvested grain to separate it from the stalks.
 
-v10: נָכָה לֵב (nakhah lev)
-“The heart struck.” An idiom of conscience or inner conviction.
-
-v11: חֹזֶה (chozeh)
-“Seer.” Gad’s prophetic title.
-
-v13: דֶּבֶר (dever)
-“Plague” or pestilence.
-
-v14: רַחֲמִים (rachamim)
-“Compassion” or mercies. David’s reason for choosing the LORD’s hand.
-
-v16: נָחַם (nacham)
-“To relent.” The LORD limits the disaster.
-
-v18: גֹּרֶן (goren)
-“Threshing floor.” Araunah’s agricultural site.
-
-v24: מְחִיר (mechir)
-“Price.” David refuses an offering without cost.
-
-v25: עָתַר (atar)
-“To be entreated.” The LORD responds concerning the land.
+v25: Well-being offerings
+Sacrificial offerings associated with peace or well-being before God.

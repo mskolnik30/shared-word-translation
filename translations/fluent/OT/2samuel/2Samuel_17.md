@@ -4,162 +4,106 @@ testament: OT
 chapter: 17
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## Ahithophel Advises Immediate Pursuit
+## Two Plans of Pursuit
 
 <p>
-v01: Ahithophel said to Absalom, “Please let me choose twelve thousand men, and I will arise and pursue David tonight.
-
-v02: I will come upon him while he is weary and weak-handed, and I will terrify him. All the people who are with him will flee, and I will strike only the king.
-
-v03: Then I will bring all the people back to you. The return of all depends on the man you seek; then all the people will be at peace.”
-
-v04: The word was right in the eyes of Absalom and in the eyes of all the elders of Israel.
+v01: Ahithophel said to Absalom, “Please let me choose twelve thousand men. I will set out and pursue David tonight.
+v02: I will come upon him while he is weary and his hands are weak. I will throw him into panic, and everyone with him will flee. Then I will strike down the king alone.
+v03: I will bring all the people back to you. Bringing everyone back depends on the man you are seeking. Then all the people will be at peace.”
 </p>
 
-## Hushai Counters Ahithophel’s Counsel
-
 <p>
-v05: Then Absalom said, “Please call Hushai the Archite also, and let us hear what is in his mouth.”
-
-v06: Hushai came to Absalom, and Absalom spoke to him, saying, “According to this word Ahithophel has spoken. Will we do his word? If not, you speak.”
-
-v07: Hushai said to Absalom, “The counsel that Ahithophel has counseled this time is not good.”
-
-v08: Hushai said, “You know your father and his men, that they are mighty men and bitter in spirit, like a bear bereaved in the field. Your father is a man of war and will not spend the night with the people.
-
-v09: Look, now he is hidden in one of the pits or in one of the places. And it will happen when some of them fall at the beginning, whoever hears it will say, ‘There has been a slaughter among the people who follow Absalom.’
-
-v10: Then even the valiant man whose heart is like the heart of a lion will utterly melt, for all Israel knows that your father is a mighty man and people who are with him are valiant men.
+v04: The proposal seemed right to Absalom and all Israel’s elders.
 </p>
 
-## Hushai Advises a Massive Army
-
 <p>
-v11: “But I counsel that all Israel be surely gathered to you, from Dan to Beersheba, like the sand that is by the sea for multitude, and that you yourself go into the battle.
-
-v12: Then we will come upon him in one of the places where he may be found, and we will fall upon him as dew falls upon the ground. Of him and all the men who are with him, not even one will remain.
-
-v13: If he withdraws into a city, then all Israel will carry ropes to that city, and we will drag it into the valley until not even a pebble is found there.”
+v05: But Absalom said, “Please call Hushai the Archite too. Let us hear what he has to say as well.”
+v06: Hushai came to Absalom, who told him, “This is what Ahithophel has proposed. Should we do as he says? If not, you tell us.”
 </p>
 
-## The LORD Frustrates Ahithophel’s Good Counsel
-
 <p>
-v14: Absalom and all the men of Israel said, “The counsel of Hushai the Archite is better than the counsel of Ahithophel.”
-
-For the LORD had commanded the frustrating of the good counsel of Ahithophel, so that the LORD might bring evil upon Absalom.
+v07: Hushai answered Absalom, “This time, Ahithophel’s counsel is not good.”
 </p>
 
-## Hushai Sends Word to David
-
 <p>
-v15: Then Hushai said to Zadok and Abiathar the priests, “Thus and thus Ahithophel counseled Absalom and the elders of Israel, and thus and thus I counseled.
-
-v16: And now send quickly and tell David, saying, ‘Do not spend this night at the fords of the wilderness, but surely cross over, lest the king and all the people who are with him be swallowed up.’”
+v08: Hushai continued, “You know your father and his men. They are warriors, bitter in spirit, like a bear robbed of her cubs in the field. Your father is a man of war; he will not spend the night with the people.
+v09: Even now he is hiding in one of the pits or some other place. If some of your men fall in the first attack, anyone who hears will say, ‘There has been a slaughter among Absalom’s followers.’
+v10: Then even the brave man whose heart is like a lion’s will melt with fear. All Israel knows that your father is a warrior and that the men with him are brave.
 </p>
 
-## Jonathan and Ahimaaz Hide in a Well
-
 <p>
-v17: Jonathan and Ahimaaz were staying at En-Rogel, and a female servant would go and tell them, and they would go and tell King David, for they were not able to be seen entering the city.
-
-v18: But a young man saw them and told Absalom. So the two of them went quickly and came to the house of a man in Bahurim who had a well in his courtyard, and they went down into it.
-
-v19: The woman took and spread a covering over the mouth of the well and scattered grain upon it, and the matter was not known.
-
-v20: Absalom’s servants came to the woman at the house and said, “Where are Ahimaaz and Jonathan?” The woman said to them, “They crossed over the stream of water.” They searched but did not find them, and they returned to Jerusalem.
+v11: My counsel is this: gather all Israel around you, from Dan to Beer-sheba, as countless as the sand by the sea. And you yourself should go into battle.
+v12: Then we will come upon David wherever he is found and settle on him like dew falling on the ground. Neither he nor any of the men with him will survive—not one.
+v13: If he withdraws into a city, all Israel will bring ropes to that city, and we will drag it into the valley until not even a pebble can be found there.”
 </p>
 
-## David Crosses the Jordan
-
 <p>
-v21: After they had gone, they came up from the well and went and told King David. They said to David, “Rise and cross the water quickly, for thus Ahithophel counseled against you.”
-
-v22: Then David arose, and all the people who were with him, and they crossed the Jordan. By morning light there was not one who had not crossed the Jordan.
+v14: Absalom and all the men of Israel said, “Hushai the Archite’s counsel is better than Ahithophel’s.” For the LORD had determined to frustrate Ahithophel’s good counsel so that the LORD might bring disaster on Absalom.
 </p>
 
-## Ahithophel Dies
+## A Warning Reaches David
 
 <p>
-v23: When Ahithophel saw that his counsel had not been done, he saddled his donkey, arose, and went to his house, to his own city. He put his house in order and hanged himself. He died and was buried in the tomb of his father.
+v15: Hushai told the priests Zadok and Abiathar, “Ahithophel advised Absalom and Israel’s elders in this way, and I advised them in that way.
+v16: Now send quickly and tell David, ‘Do not spend tonight in the wilderness plains. Be sure to cross over, or the king and everyone with him may be swallowed up.’”
 </p>
 
-## Absalom Crosses the Jordan
-
 <p>
-v24: Then David came to Mahanaim, and Absalom crossed the Jordan, he and all the men of Israel with him.
-
-v25: Absalom set Amasa over the army in place of Joab. Amasa was the son of a man whose name was Ithra the Israelite, who had gone in to Abigail daughter of Nahash, sister of Zeruiah, Joab’s mother.
-
-v26: Israel and Absalom camped in the land of Gilead.
+v17: Jonathan and Ahimaaz were staying at En-rogel. A slave woman would go and give them the news, and they would take it to King David, since they could not risk being seen entering the city.
 </p>
 
-## Friends Supply David’s Camp
+<p>
+v18: But a young man saw them and told Absalom. The two hurried away to the house of a man in Bahurim. He had a well in his courtyard, and they climbed down into it.
+v19: The woman of the house took a covering, spread it over the well’s opening, and scattered crushed grain on it. Nothing was noticed.
+</p>
 
 <p>
-v27: When David came to Mahanaim, Shobi son of Nahash from Rabbah of the children of Ammon, Machir son of Ammiel from Lo-Debar, and Barzillai the Gileadite from Rogelim
+v20: Absalom’s servants came to the woman’s house and asked, “Where are Ahimaaz and Jonathan?” She told them, “They have crossed the water channel.” They searched but found no one, then returned to Jerusalem.
+</p>
 
-v28: brought beds, basins, earthen vessels, wheat, barley, flour, roasted grain, beans, lentils, roasted seeds,
+<p>
+v21: After they left, the two climbed out of the well and went to inform King David. They told him, “Get up and cross the water quickly, because this is what Ahithophel has advised against you.”
+v22: David and everyone with him got up and crossed the Jordan. By daybreak, not one person remained who had not crossed the Jordan.
+</p>
 
-v29: honey, curds, sheep, and cheese from cattle for David and for the people who were with him to eat, for they said, “The people are hungry, weary, and thirsty in the wilderness.”
+<p>
+v23: When Ahithophel saw that his counsel had not been followed, he saddled his donkey and went home to his own town. He put his household in order, hanged himself, and died. He was buried in his father’s tomb.
+</p>
+
+## Supplies at Mahanaim
+
+<p>
+v24: David reached Mahanaim, while Absalom crossed the Jordan with all the men of Israel.
+v25: Absalom had appointed Amasa over the army in Joab’s place. Amasa was the son of a man named Ithra the Israelite, who had slept with Abigail daughter of Nahash, the sister of Joab’s mother Zeruiah.
+v26: Absalom and Israel camped in the land of Gilead.
+</p>
+
+<p>
+v27: When David came to Mahanaim, Shobi son of Nahash from Rabbah of the Ammonites, Machir son of Ammiel from Lo-debar, and Barzillai the Gileadite from Rogelim
+v28: brought bedding, basins, pottery, wheat, barley, flour, roasted grain, beans, lentils, and more roasted grain,
+v29: as well as honey, curds, sheep, and cheese from the herd, for David and the people with him to eat. They said, “The people are hungry, weary, and thirsty in the wilderness.”
 </p>
 
 ## Notes
 
-v01–03: Ahithophel’s plan is strategically focused: strike quickly, target David alone, and restore the remaining people with minimal further civil war.
+v03: The middle clause is compressed and difficult. The draft understands bringing the people back to depend on removing David, the single target named in verse 2.
 
-v04: The narrator later calls Ahithophel’s counsel “good” in verse 14, confirming that Hushai’s alternative succeeds politically, not because it is the better military plan.
+v08–14: Hushai’s bear, lion, sand, dew, and ropes images are part of his persuasive speech. Verse 14 separately calls Ahithophel’s counsel good and attributes its frustration to the LORD.
 
-v08: The bereaved-bear comparison presents David’s men as dangerous because crisis has made them fierce and unpredictable.
+v25: The source names Ithra the Israelite and Abigail daughter of Nahash. These are retained without harmonizing another family account.
 
-v11: Hushai flatters Absalom by placing him personally at the head of an enormous national force rather than letting Ahithophel win the decisive victory.
-
-v13: Dragging an entire city with ropes is hyperbolic siege rhetoric meant to make Hushai’s plan sound irresistible.
-
-v14: The narrative explicitly attributes the strategic reversal to the LORD’s purpose, fulfilling David’s prayer in 15:31.
-
-v17: The communication network depends on people outside the formal leadership structure, including an unnamed female servant who carries intelligence.
-
-v19–20: The woman at Bahurim uses domestic space and grain to conceal the messengers and misdirect Absalom’s searchers.
-
-v23: Ahithophel’s death is narrated with striking calm: he arranges his household before taking his own life after recognizing the political consequence of rejected counsel.
-
-v25: The genealogy of Amasa is textually difficult. 1 Chronicles 2:17 calls his father Jether the Ishmaelite and names Abigail as sister of Zeruiah and daughter of Jesse. TSW follows Samuel’s Masoretic form.
-
-v27: Shobi’s support is notable because he comes from Ammon, recently defeated by David. The precise relationship between Shobi and the former royal house is not explained.
-
-v28: Several food terms are rare; TSW uses conventional agricultural equivalents without claiming exact certainty for every item.
+v28–29: The list repeats roasted grain. The final herd product is probably cheese or a similar dairy food; its precise identification is uncertain.
 
 ## Vocabulary
 
-v02: רָפֶה יָדַיִם (raphe yadayim)
-“Weak-handed.” An idiom for exhaustion or lost strength.
+v17: Slave woman
+The unnamed woman carries the information to the two waiting messengers.
 
-v08: מַר נֶפֶשׁ (mar nefesh)
-“Bitter in spirit.” Fierce because of deep distress.
-
-v14: פָּרַר (parar)
-“To frustrate” or “break.” The LORD overturns Ahithophel’s counsel.
-
-v16: בָּלַע (bala)
-“To swallow up.” Hushai warns of total destruction.
-
-v17: עֵין רֹגֵל (En-Rogel)
-“En-Rogel.” A spring outside Jerusalem used as a meeting point.
-
-v18: בְּאֵר (be'er)
-“Well.” The hiding place of Jonathan and Ahimaaz.
-
-v23: צָוָה אֶל־בֵּיתוֹ (tsivvah el-beto)
-“To put his house in order.” Ahithophel arranges his household before death.
-
-v25: שַׂר צָבָא (sar tsava)
-“Commander of the army.” Amasa’s office.
-
-v29: יָגֵעַ (yagea)
-“Weary.” The condition of David’s people.
-
-v29: צָמֵא (tsame)
-“Thirsty.” One reason provisions are brought.
+v23: Put his household in order
+Ahithophel arranged his affairs before his death.

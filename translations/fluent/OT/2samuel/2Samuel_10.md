@@ -4,118 +4,74 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## David Sends Comfort to Hanun
+## David’s Envoys Humiliated
 
 <p>
-v01: After this the king of the children of Ammon died, and Hanun his son became king in his place.
-
-v02: David said, “I will show steadfast love to Hanun son of Nahash, as his father showed steadfast love to me.” So David sent by the hand of his servants to comfort him concerning his father. David’s servants came into the land of the children of Ammon.
-
-v03: But the officials of the children of Ammon said to Hanun their lord, “Do you think David is honoring your father in your eyes because he sent comforters to you? Has David not sent his servants to you to search the city, spy it out, and overthrow it?”
-
-v04: So Hanun took David’s servants, shaved off half their beards, cut off their garments in the middle as far as their buttocks, and sent them away.
-
-v05: When they told David, he sent to meet them, for the men were greatly humiliated. The king said, “Remain at Jericho until your beards grow, and then return.”
+v01: After this, the king of Ammon died, and his son Hanun became king in his place.
+v02: David said, “I will show steadfast love to Hanun son of Nahash, as his father showed it to me.” He sent servants to console Hanun over his father’s death. When David’s servants reached Ammon,
 </p>
 
-## Ammon Hires Aramean Forces
-
 <p>
-v06: When the children of Ammon saw that they had made themselves odious to David, the children of Ammon sent and hired Aram-Beth-Rehob and Aram-Zobah, twenty thousand foot soldiers, and the king of Maacah with one thousand men, and the men of Tob with twelve thousand men.
-
-v07: When David heard of it, he sent Joab and all the army of the mighty men.
+v03: the Ammonite leaders told their lord Hanun, “Do you think David sent these consolers to honor your father? Has he not sent his servants to examine the city, spy it out, and overthrow it?”
+v04: Hanun seized David’s servants, shaved off half of each man’s beard, cut their clothes halfway up to their buttocks, and sent them away.
 </p>
 
-## Joab Faces Two Battle Fronts
-
 <p>
-v08: The children of Ammon came out and arranged themselves for battle at the entrance of the gate, while Aram-Zobah and Rehob and the men of Tob and Maacah were by themselves in the field.
-
-v09: Joab saw that the face of the battle was against him in front and behind. He chose from all the choice men of Israel and arranged them against Aram.
-
-v10: The rest of the people he gave into the hand of Abishai his brother, and he arranged them against the children of Ammon.
-
-v11: He said, “If Aram is too strong for me, then you will save me. But if the children of Ammon are too strong for you, then I will come to save you.
-
-v12: Be strong, and let us be strong for our people and for the cities of our God, and may the LORD do what is good in his eyes.”
+v05: When David was told, he sent someone to meet them, for the men were deeply ashamed. The king said, “Stay in Jericho until your beards grow back, then return.”
 </p>
 
-## The Arameans Flee
+## Battle with Ammon and Aram
 
 <p>
-v13: Joab and the people who were with him drew near to battle against Aram, and they fled before him.
-
-v14: When the children of Ammon saw that Aram had fled, they also fled before Abishai and entered the city. Then Joab returned from the children of Ammon and came to Jerusalem.
+v06: The Ammonites realized they had become a stench to David. They hired twenty thousand Aramean foot soldiers from Beth-rehob and Zobah, the king of Maacah with a thousand men, and twelve thousand men from Tob.
+v07: David heard and sent Joab with the whole army of warriors.
+v08: The Ammonites formed their battle line at the gate entrance. The Arameans from Zobah and Rehob and the men of Tob and Maacah stood separately in the open country.
 </p>
 
-## Hadadezer Summons More Arameans
+<p>
+v09: Joab saw that he faced battle both ahead and behind. He chose some of Israel’s best men and deployed them against the Arameans.
+v10: He placed the rest under his brother Abishai, who deployed them against the Ammonites.
+</p>
 
 <p>
-v15: When Aram saw that they had been struck before Israel, they gathered themselves together.
+v11: Joab said, “If the Arameans are too strong for me, you must come to my rescue. If the Ammonites are too strong for you, I will rescue you.
+v12: Be strong! Let us show courage for our people and our God’s towns. May the LORD do what seems good to him.”
+</p>
 
-v16: Hadadezer sent and brought out the Arameans who were beyond the River, and they came to Helam, with Shobach, commander of Hadadezer’s army, before them.
+<p>
+v13: Joab and his men advanced to fight the Arameans, and the Arameans fled before him.
+v14: When the Ammonites saw the Arameans flee, they too fled before Abishai into the city. Joab then withdrew from Ammon and returned to Jerusalem.
+</p>
 
-v17: It was reported to David, and he gathered all Israel, crossed the Jordan, and came to Helam. The Arameans arranged themselves against David and fought with him.
+<p>
+v15: The Arameans saw that Israel had defeated them, so they regrouped.
+v16: Hadadezer brought out the Arameans from beyond the River. They came to Helam, led by Shobach, Hadadezer’s army commander.
+</p>
 
-v18: Yet Aram fled before Israel, and David killed from Aram the men of seven hundred chariots and forty thousand horsemen. He also struck Shobach, commander of their army, and he died there.
-
-v19: When all the kings who were servants of Hadadezer saw that they had been struck before Israel, they made peace with Israel and served them. And Aram was afraid to save the children of Ammon any more.
+<p>
+v17: David was told. He gathered all Israel, crossed the Jordan, and came to Helam. The Arameans formed their lines against David and fought him.
+v18: The Arameans fled before Israel. David killed seven hundred chariot fighters and forty thousand horsemen. He also struck Shobach, their commander, who died there.
+v19: All Hadadezer’s subject kings saw that Israel had defeated them. They made peace with Israel and became its subjects. The Arameans were afraid to help Ammon again.
 </p>
 
 ## Notes
 
-v02: David’s attempt to show *hesed* to Hanun begins the chapter. The war grows from suspicion and humiliation rather than from an initial attack by David.
+v04: The cutting of clothes exposes the men’s buttocks. Their humiliation is not reduced to a change in clothing style.
 
-v03: Hanun’s advisers interpret diplomatic consolation as espionage, turning a gesture of loyalty into a perceived threat.
+v12: Joab urges courage but leaves the outcome to what the LORD considers good.
 
-v04: Shaving half the beard and cutting garments to expose the body are calculated acts of public humiliation against royal envoys.
-
-v06: “made themselves odious” is literally “made themselves stink,” an idiom for becoming hated or offensive.
-
-v06: The army totals and group names vary somewhat in the parallel account in 1 Chronicles 19. TSW follows 2 Samuel’s received figures.
-
-v08: Ammon holds the fortified city entrance while its hired Aramean allies fight separately in the field.
-
-v11: Joab and Abishai establish mutual aid rather than independent glory: whichever front weakens receives help from the other.
-
-v12: Joab’s courage is framed by both human responsibility—“let us be strong”—and divine freedom—“may the LORD do what is good in his eyes.”
-
-v16: “the River” refers to the Euphrates. Hadadezer draws Aramean forces from beyond it.
-
-v18: The Masoretic Text reads seven hundred chariot units and forty thousand horsemen. 1 Chronicles 19:18 has seven thousand charioteers and forty thousand foot soldiers. TSW preserves Samuel’s text and notes the parallel difference.
-
-v19: David’s victory changes the regional alliance system: kings formerly subordinate to Hadadezer make peace with Israel.
+v18: The source gives seven hundred chariot fighters and forty thousand horsemen. These categories and numbers are retained.
 
 ## Vocabulary
 
-v02: נָחַם (nacham)
-“To comfort.” David sends envoys after Nahash’s death.
+v06: A stench
+An image of becoming deeply offensive to someone.
 
-v02: חֶסֶד (ḥesed)
-“Steadfast love.” David’s intended loyalty toward Hanun.
-
-v03: חָקַר (chaqar)
-“To search out.” The suspected espionage mission.
-
-v04: גָּלַח (galach)
-“To shave.” Hanun removes half the envoys’ beards.
-
-v06: בָּאַשׁ (ba'ash)
-“To stink” or “become odious.” An idiom of public hostility.
-
-v09: בָּחוּר (bachur)
-“Choice man” or select warrior.
-
-v11: יָשַׁע (yasha)
-“To save” or “come to help.”
-
-v12: חָזַק (chazaq)
-“To be strong.” Repeated in Joab’s exhortation.
-
-v19: שָׁלוֹם (shalom)
-“Peace.” The defeated kings make peace with Israel.
-
-v19: עָבַד (avad)
-“To serve.” The kings become subject to Israel.
+v16: The River
+Here the Euphrates, the major river associated with the Aramean territories.

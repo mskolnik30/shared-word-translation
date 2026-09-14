@@ -4,186 +4,176 @@ testament: OT
 chapter: 19
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## Joab Rebukes David’s Public Mourning
+## Victory Becomes Mourning
 
 <p>
-v01: It was told to Joab, “Look, the king is weeping and mourning over Absalom.”
-
-v02: So the victory that day was turned into mourning for all the people, for the people heard that day, “The king is grieving over his son.”
-
-v03: The people stole into the city that day as people steal in who are ashamed when they flee in battle.
-
-v04: The king covered his face, and the king cried with a loud voice, “My son Absalom! Absalom, my son, my son!”
-
-v05: Then Joab came to the king in the house and said, “Today you have shamed the faces of all your servants who saved your life today, and the lives of your sons and daughters, the lives of your wives, and the lives of your concubines,
-
-v06: by loving people who hate you and hating people who love you. For you have revealed today that commanders and servants are nothing to you. For I know today that if Absalom were alive and all of us were dead today, then it would be right in your eyes.
-
-v07: And now arise, go out, and speak to the heart of your servants. For I swear by the LORD that if you do not go out, not a man will remain with you tonight, and this will be worse for you than all the evil that has come upon you from your youth until now.”
-
-v08: Then the king arose and sat in the gate. They told all the people, saying, “Look, the king is sitting in the gate.” And all the people came before the king.
-
-Now Israel had fled, each to his tent.
+v01: Joab was told, “The king is weeping and mourning for Absalom.”
+v02: That day, victory became mourning for the whole army, because they heard that the king was grieving for his son.
 </p>
 
-## Israel Debates Bringing David Back
-
 <p>
-v09: All the people were disputing throughout all the tribes of Israel, saying, “The king rescued us from the hand of our enemies and delivered us from the hand of the Philistines, but now he has fled from the land because of Absalom.
-
-v10: Absalom, whom we anointed over us, has died in battle. And now why are you silent about bringing the king back?”
+v03: The people slipped into the city that day like men ashamed because they had fled from battle.
+v04: The king covered his face and cried aloud, “My son Absalom! Absalom, my son, my son!”
 </p>
 
-## David Appeals to Judah
-
 <p>
-v11: King David sent to Zadok and Abiathar the priests, saying, “Speak to the elders of Judah, saying, ‘Why should you be the last to bring the king back to his house, when the word of all Israel has come to the king at his house?
-
-v12: You are my brothers; you are my bone and my flesh. Why then should you be the last to bring the king back?’
-
-v13: And say to Amasa, ‘Are you not my bone and my flesh? Thus may God do to me and more also, if you are not commander of the army before me all the days in place of Joab.’”
-
-v14: He turned the heart of all the men of Judah as one man, so that they sent to the king, “Return, you and all your servants.”
-
-v15: So the king returned and came as far as the Jordan, and Judah came to Gilgal to go to meet the king and bring the king across the Jordan.
+v05: Joab went into the house to the king and said, “Today you have shamed all your servants, who today saved your life and the lives of your sons, your daughters, your wives, and your concubines.
+v06: You love those who hate you and hate those who love you! Today you have made it clear that commanders and servants mean nothing to you. I can see that if Absalom were alive and all of us dead today, you would be pleased.
 </p>
 
-## Shimei Begs for Mercy
-
 <p>
-v16: Shimei son of Gera, the Benjaminite who was from Bahurim, hurried and came down with the men of Judah to meet King David.
-
-v17: With him were one thousand men from Benjamin, and Ziba servant of Saul’s house, with his fifteen sons and twenty servants with him. They rushed to the Jordan before the king
-
-v18: and crossed at the ford to bring the king’s household over and to do what was good in his eyes.
-
-Shimei son of Gera fell before the king as he was about to cross the Jordan.
-
-v19: He said to the king, “Do not let my lord count guilt to me, and do not remember what your servant did perversely on the day my lord the king went out from Jerusalem. Let the king not set it upon his heart.
-
-v20: For your servant knows that I have sinned. And look, I have come today as the first of all the house of Joseph to come down to meet my lord the king.”
+v07: Now get up, go out, and speak to your servants’ hearts. I swear by the LORD that if you do not go out, not one man will stay with you tonight. That would be worse for you than all the troubles that have come on you from your youth until now.”
 </p>
 
-## David Spares Shimei
-
 <p>
-v21: Abishai son of Zeruiah answered and said, “Should not Shimei be put to death for this, because he cursed the LORD’s anointed?”
-
-v22: David said, “What have I to do with you, sons of Zeruiah, that you should be adversaries to me today? Will anyone be put to death in Israel today? For do I not know that today I am king over Israel?”
-
-v23: The king said to Shimei, “You will not die.” And the king swore to him.
+v08: The king got up and sat at the gate. The people were told, “The king is sitting at the gate,” and they all came before him. Meanwhile, the Israelites had fled, each to his own tent.
 </p>
 
-## Mephibosheth Comes to Meet David
+## Bringing the King Back
 
 <p>
-v24: Mephibosheth son of Saul came down to meet the king. He had not tended his feet, trimmed his mustache, or washed his clothes from the day the king went away until the day he came back in peace.
-
-v25: And it happened when he came from Jerusalem to meet the king, the king said to him, “Why did you not go with me, Mephibosheth?”
-
-v26: He said, “My lord the king, my servant deceived me, for your servant said, ‘I will saddle the donkey for myself, and I will ride on it and go with the king,’ because your servant is lame.
-
-v27: He slandered your servant to my lord the king. But my lord the king is like a messenger of God, so do what is good in your eyes.
-
-v28: For all my father’s house were nothing but men deserving death before my lord the king, yet you set your servant among people who eat at your table. So what right do I still have to cry out any more to the king?”
-
-v29: The king said to him, “Why speak any more of your matters? I say: you and Ziba will divide the land.”
-
-v30: Mephibosheth said to the king, “Let him even take all of it, now that my lord the king has come in peace to his house.”
+v09: Throughout Israel’s tribes, all the people were arguing: “The king rescued us from our enemies and delivered us from the Philistines. But now he has fled the land because of Absalom.
+v10: And Absalom, whom we anointed over us, has died in battle. Why, then, are you silent about bringing the king back?”
 </p>
 
-## Barzillai Refuses Royal Provision
-
 <p>
-v31: Barzillai the Gileadite came down from Rogelim and crossed the Jordan with the king to send him on from the Jordan.
-
-v32: Barzillai was very old, eighty years old. He had provided the king with food while he stayed at Mahanaim, for he was a very great man.
-
-v33: The king said to Barzillai, “Cross over with me, and I will provide for you with me in Jerusalem.”
-
-v34: Yet Barzillai said to the king, “How many are the days of the years of my life, that I should go up with the king to Jerusalem?
-
-v35: I am eighty years old today. Can I discern between good and bad? Can your servant taste what I eat or what I drink? Can I still hear the voice of male and female singers? Why then should your servant be another burden to my lord the king?
-
-v36: Your servant will cross over the Jordan with the king only a little way. Why should the king repay me with this reward?
-
-v37: Please let your servant return, so that I may die in my own city near the grave of my father and my mother. But look, your servant Chimham—let him cross over with my lord the king, and do for him what is good in your eyes.”
-
-v38: The king said, “Chimham will cross over with me, and I will do for him what is good in your eyes. Whatever you choose from me, I will do for you.”
-
-v39: All the people crossed the Jordan, and the king crossed. The king kissed Barzillai and blessed him, and he returned to his place.
+v11: King David sent word to the priests Zadok and Abiathar: “Speak to Judah’s elders. Ask them, ‘Why should you be the last to bring the king back to his house?’” What all Israel was saying had reached the king at his house.
+v12: “You are my brothers, my own bone and flesh. Why should you be the last to bring the king back?
 </p>
 
-## Judah and Israel Quarrel over the King
+<p>
+v13: And tell Amasa, ‘Are you not my own bone and flesh? May God do this to me and more if you do not serve before me as commander of the army from now on in Joab’s place.’”
+</p>
 
 <p>
-v40: The king crossed to Gilgal, and Chimham crossed with him. All the people of Judah brought the king across, and also half the people of Israel.
+v14: He turned the hearts of all Judah’s men as one man. They sent word to the king, “Come back, you and all your servants.”
+</p>
 
-v41: And look, all the men of Israel came to the king and said to the king, “Why have our brothers, the men of Judah, stolen you away and brought the king and his household across the Jordan, and all David’s men with him?”
+<p>
+v15: So the king began his return and reached the Jordan. Judah came to Gilgal to meet him and bring him across the Jordan.
+</p>
 
-v42: All the men of Judah answered the men of Israel, “Because the king is near to us. Why is this matter burning to you? Have we eaten anything at the king’s expense? Has anything been carried off for us?”
+## Shimei Pleads for His Life
 
-v43: The men of Israel answered the men of Judah and said, “We have ten shares in the king, and in David also we have more than you. Why then did you despise us? Was not our word first to bring back our king?” But the word of the men of Judah was harsher than the word of the men of Israel.
+<p>
+v16: Shimei son of Gera, the Benjaminite from Bahurim, hurried down with Judah’s men to meet King David.
+v17: A thousand Benjaminites were with him. Ziba, the servant of Saul’s house, also came with his fifteen sons and twenty servants. They rushed across the Jordan ahead of the king.
+</p>
+
+<p>
+v18: The crossing party went over to bring the king’s household across and do whatever he wished. Shimei son of Gera fell before the king as he was crossing the Jordan.
+</p>
+
+<p>
+v19: He said to the king, “My lord, do not hold me guilty. Do not remember the wrong your servant did on the day my lord the king left Jerusalem. May the king not take it to heart.
+v20: Your servant knows that I have sinned. That is why I have come down today, the first of all Joseph’s house to meet my lord the king.”
+</p>
+
+<p>
+v21: Abishai son of Zeruiah answered, “Shouldn’t Shimei be put to death for this? He cursed the LORD’s anointed!”
+</p>
+
+<p>
+v22: David said, “What do you and I have to do with this, sons of Zeruiah? Why should you become my adversaries today? Should anyone in Israel be put to death today? Do I not know that today I am king over Israel?”
+</p>
+
+<p>
+v23: The king told Shimei, “You will not die,” and gave him his oath.
+</p>
+
+## Mephibosheth’s Account
+
+<p>
+v24: Mephibosheth, Saul’s grandson, also came down to meet the king. From the day the king left until the day he returned safely, Mephibosheth had neither cared for his feet nor trimmed his mustache nor washed his clothes.
+</p>
+
+<p>
+v25: When he came to Jerusalem to meet the king, the king asked him, “Why didn’t you go with me, Mephibosheth?”
+</p>
+
+<p>
+v26: He answered, “My lord the king, my servant deceived me. Your servant had said, ‘I will saddle a donkey for myself, ride it, and go with the king,’ because your servant is lame.
+v27: He slandered your servant to my lord the king. But my lord the king is like an angel of God. Do what is good in your eyes.
+v28: All my father’s house deserved only death before my lord the king, yet you placed your servant among those who eat at your table. What further right do I have to appeal to the king?”
+</p>
+
+<p>
+v29: The king told him, “Why say any more? I have decided: you and Ziba will divide the land.”
+</p>
+
+<p>
+v30: Mephibosheth answered the king, “Let him take all of it, now that my lord the king has come home safely.”
+</p>
+
+## Barzillai’s Farewell
+
+<p>
+v31: Barzillai the Gileadite came down from Rogelim and crossed the Jordan with the king to see him on his way.
+v32: Barzillai was very old, eighty years of age. He had supplied the king while he stayed at Mahanaim, for he was a very wealthy man.
+</p>
+
+<p>
+v33: The king told Barzillai, “Cross over with me, and I will provide for you beside me in Jerusalem.”
+</p>
+
+<p>
+v34: Barzillai answered the king, “How many years of life do I have left, that I should go up with the king to Jerusalem?
+v35: I am eighty years old today. Can I still distinguish good from bad? Can your servant taste what I eat and drink, or still hear the voices of men and women singing? Why should your servant become a burden to my lord the king?
+v36: Your servant will cross the Jordan with the king for a little way. Why should the king repay me with such a reward?
+</p>
+
+<p>
+v37: Please let your servant return, so I may die in my own town near the tomb of my father and mother. But here is your servant Chimham. Let him cross with my lord the king, and do for him what is good in your eyes.”
+</p>
+
+<p>
+v38: The king answered, “Chimham will cross with me, and I will do for him what is good in your eyes. Whatever you ask of me, I will do for you.”
+</p>
+
+<p>
+v39: All the people crossed the Jordan, and the king crossed too. The king kissed Barzillai and blessed him, and Barzillai returned to his own place.
+v40: The king crossed over to Gilgal, and Chimhan crossed with him. All Judah’s people and half Israel’s people brought the king across.
+</p>
+
+## Israel and Judah Dispute
+
+<p>
+v41: Then all the men of Israel came to the king and asked, “Why did our brothers, the men of Judah, steal you away and bring the king and his household across the Jordan, with all David’s men?”
+</p>
+
+<p>
+v42: All the men of Judah answered Israel’s men, “The king is our close relative. Why are you angry about this? Have we eaten at the king’s expense? Has he given us any gift?”
+</p>
+
+<p>
+v43: Israel’s men answered Judah’s men, “We have ten shares in the king, and a greater claim on David than you. Why have you treated us with contempt? Were we not the first to speak of bringing our king back?” But Judah’s words were harsher than Israel’s.
 </p>
 
 ## Notes
 
-v01–08: Joab forces David to distinguish private grief from public kingship. The troops who saved David feel dishonored when their victory is received only as the death of Absalom.
+v01–43: These public verses correspond to Hebrew 19:2–44. No source verse is omitted or duplicated.
 
-v06: Joab speaks hyperbolically and harshly—“loving those who hate you and hating those who love you”—but accurately identifies the political danger of David’s public behavior.
+v11–14: The king appeals to kinship and promises Amasa command in Joab’s place. The immediate subject of “he turned the hearts” is not stated by name.
 
-v11–14: David works through the priests to regain Judah’s loyalty and offers Amasa Joab’s command, likely both to reconcile former rebels and to reduce Joab’s power.
+v18: The crossing expression is difficult. It may refer to a crossing party, crossing operation, or ferry.
 
-v13: Amasa is David’s kin, but the genealogical traditions concerning his exact parentage are textually complicated.
+v24–30: The narrator reports Mephibosheth’s neglected grooming. His allegation of deception conflicts with Ziba’s report in 16:3. David divides the land without stating which account he accepts. Verse 25 retains “to Jerusalem,” although the surrounding movements make the location difficult.
 
-v16–23: Shimei’s dramatic submission occurs as David’s royal position is being restored. David refuses Abishai’s call for execution and declares the day one of restored kingship rather than vengeance.
-
-v20: Shimei calls Benjamin and allied northern tribes “the house of Joseph” in a broad northern-Israel sense.
-
-v24: Mephibosheth’s neglected grooming is evidence of mourning during David’s absence and challenges Ziba’s earlier claim that he hoped to regain Saul’s kingdom.
-
-v26: Mephibosheth’s disability made independent travel difficult and left him dependent upon Ziba to prepare transportation.
-
-v29: David’s decision to divide the land does not fully reverse his earlier judgment based on Ziba’s accusation. The narrative leaves unresolved whether this is compromise, uncertainty, or royal impatience.
-
-v30: Mephibosheth’s willingness to surrender all property emphasizes that David’s safe return matters more to him than the estate.
-
-v31–39: Barzillai’s loyalty is rewarded, but he declines palace life because of age and redirects royal favor toward Chimham.
-
-v35: Barzillai’s remarks about taste, music, and discernment are a sober description of aging rather than contempt for old age.
-
-v41–43: David’s restoration immediately reopens tribal rivalry. Judah’s special role in escorting the king becomes an insult to northern Israel and prepares directly for Sheba’s rebellion in chapter 20.
+v37–40: Chimham’s relationship to Barzillai is not stated here. Verse 40 spells the name Chimhan; the draft preserves that form.
 
 ## Vocabulary
 
-v02: תְּשׁוּעָה (teshuah)
-“Victory” or “deliverance.” The army’s success becomes mourning.
+v12: Bone and flesh
+A kinship appeal, also used when Israel first approached David in 5:1.
 
-v05: בּוֹשׁ (bosh)
-“To shame.” Joab accuses David of shaming loyal servants.
+v22: Adversaries
+The Hebrew uses satan here for human opponents, the sons of Zeruiah.
 
-v07: דִּבֶּר עַל־לֵב (dibber al-lev)
-“To speak to the heart.” To encourage or reassure.
-
-v13: שַׂר צָבָא (sar tsava)
-“Commander of the army.” The office promised to Amasa.
-
-v19: עָוֹן (avon)
-“Guilt” or “iniquity.” Shimei asks David not to count it against him.
-
-v21: מְשִׁיחַ יְהוָה (meshiach YHWH)
-“The LORD’s anointed.” Abishai’s title for David.
-
-v24: שָׂפָם (safam)
-“Mustache” or upper-lip hair. Mephibosheth leaves it untended.
-
-v27: רָגַל (ragal)
-“To slander” or falsely accuse. Mephibosheth’s charge against Ziba.
-
-v32: גָּדוֹל (gadol)
-“Great.” Barzillai is a person of considerable means/status.
-
-v43: קָשָׁה (qashah)
-“To be harsh.” Judah’s word is harsher than Israel’s.
+v43: Ten shares
+Israel’s stated claim to a larger stake in the king than Judah.

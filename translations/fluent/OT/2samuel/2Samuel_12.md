@@ -4,169 +4,115 @@ testament: OT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## Nathan’s Parable of the Poor Man’s Lamb
+## Nathan Confronts David
 
 <p>
-v01: The LORD sent Nathan to David. He came to him and said to him, “There were two men in one city, one rich and one poor.
-
-v02: The rich man had very many flocks and herds,
-
-v03: but the poor man had nothing except one little ewe lamb that he had bought. He kept it alive, and it grew up with him and with his children together. It ate from his morsel, drank from his cup, and lay in his arms. It was like a daughter to him.
-
-v04: A traveler came to the rich man, but he was unwilling to take from his own flock or herd to prepare for the traveler who had come to him. So he took the poor man’s ewe lamb and prepared it for the man who had come to him.”
+v01: The LORD sent Nathan to David. Nathan came and said, “There were two men in one town, one rich and the other poor.
+v02: The rich man had a great many sheep and cattle.
+v03: The poor man had nothing except one little ewe lamb he had bought. He raised her, and she grew up with him and his children. She ate from his food, drank from his cup, and slept in his arms. She was like a daughter to him.
+v04: A traveler came to the rich man. He spared his own sheep and cattle and would not prepare one for his guest. Instead, he took the poor man’s ewe lamb and prepared her for the visitor.”
 </p>
 
-## You Are the Man
-
 <p>
-v05: David’s anger burned greatly against the man, and he said to Nathan, “As the LORD lives, the man who did this deserves to die!
-
-v06: He will repay the ewe lamb fourfold because he did this thing and because he had no compassion.”
-
-v07: Nathan said to David, “You are the man!
-
-Thus says the LORD, the God of Israel: I anointed you king over Israel, and I rescued you from the hand of Saul.
-
-v08: I gave you your lord’s house and your lord’s wives into your embrace, and I gave you the house of Israel and Judah. And if that were too little, I would add to you such and such things.
-
-v09: Why have you despised the word of the LORD, to do what is evil in his eyes? Uriah the Hittite you struck with the sword, and his wife you took to be your wife. You killed him with the sword of the children of Ammon.
-
-v10: And now the sword will never depart from your house because you despised me and took the wife of Uriah the Hittite to be your wife.
-
-v11: Thus says the LORD: Look, I am raising up evil against you from your own house. I will take your wives before your eyes and give them to your neighbor, and he will lie with your wives in the sight of this sun.
-
-v12: For you did it secretly, but I will do this thing before all Israel and before the sun.”
+v05: David burned with anger at the man. “As the LORD lives,” he told Nathan, “the man who did this deserves to die!
+v06: He must repay the lamb fourfold, because he did this and showed no pity.”
 </p>
 
-## The LORD Has Put Away Your Sin
-
 <p>
-v13: David said to Nathan, “I have sinned against the LORD.”
-
-Nathan said to David, “The LORD also has put away your sin; you will not die.
-
-v14: Even so, because by this thing you have utterly treated the enemies of the LORD with contempt, the son born to you will surely die.”
+v07: Nathan told David, “You are the man! This is what the LORD, the God of Israel, says: ‘I anointed you king over Israel. I rescued you from Saul’s hand.
+v08: I gave you your lord’s house and your lord’s wives into your arms. I gave you the house of Israel and Judah. If that were too little, I would have given you more and more.
+v09: Why have you despised the LORD’s word and done evil in my eyes? You struck Uriah the Hittite with the sword and took his wife as your own. You killed him with the Ammonites’ sword.
+v10: Now the sword will never leave your house, because you despised me and took Uriah the Hittite’s wife to be your wife.’
 </p>
 
-## The Child Becomes Sick
-
 <p>
-v15: Then Nathan went to his house.
-
-The LORD struck the child whom Uriah’s wife had borne to David, and he became sick.
-
-v16: David sought God for the child. David fasted and went in and spent the night lying on the ground.
-
-v17: The elders of his house stood over him to raise him from the ground, but he was unwilling and would not eat bread with them.
-
-v18: On the seventh day the child died. David’s servants were afraid to tell him that the child was dead, for they said, “Look, while the child was alive, we spoke to him, and he did not listen to our voice. How then can we say to him, ‘The child is dead’? He may do himself harm.”
-
-v19: David saw that his servants were whispering together, and David understood that the child was dead. David said to his servants, “Is the child dead?” They said, “He is dead.”
+v11: “This is what the LORD says: ‘I am raising up disaster against you from your own house. Before your eyes I will take your wives and give them to someone close to you. He will sleep with them in the sight of this sun.
+v12: You acted in secret; I will do this before all Israel and before the sun.’”
 </p>
 
-## David Ends His Fast
+<p>
+v13: David said to Nathan, “I have sinned against the LORD.” Nathan replied, “The LORD has also put away your sin. You will not die.
+v14: But because by this deed you have treated the LORD’s enemies with such contempt, the son born to you will certainly die.”
+</p>
+
+## The Child’s Death
 
 <p>
-v20: Then David arose from the ground, washed, anointed himself, and changed his garments. He came into the house of the LORD and bowed down. Then he came to his house, asked, and they set bread before him, and he ate.
+v15: Nathan went home. The LORD struck the child Uriah’s wife had borne to David, and he became desperately ill.
+v16: David pleaded with God for the boy. He fasted, went in, and spent the night lying on the ground.
+v17: The elders of his household stood beside him, trying to raise him from the ground. He refused and would not eat with them.
+</p>
 
-v21: His servants said to him, “What is this thing you have done? While the child was alive, you fasted and wept, but when the child died, you arose and ate bread.”
+<p>
+v18: On the seventh day the child died. David’s servants were afraid to tell him. “While the child lived, we spoke to him and he would not listen,” they said. “How can we tell him the child is dead? He may do something harmful.”
+v19: David saw his servants whispering and realized the child had died. He asked, “Is the child dead?” “He is dead,” they answered.
+</p>
 
-v22: He said, “While the child was still alive, I fasted and wept, for I said, ‘Who knows? The LORD may be gracious to me, and the child may live.’
+<p>
+v20: David rose from the ground, washed, rubbed himself with oil, and changed his clothes. He entered the LORD’s house and worshiped. Then he went home, asked for food, and ate what they set before him.
+v21: His servants asked, “What is this you have done? While the child lived, you fasted and wept. Now that he has died, you get up and eat!”
+</p>
 
-v23: But now he is dead. Why should I fast? Am I able to bring him back again? I am going to him, but he will not return to me.”
+<p>
+v22: He answered, “While the child lived, I fasted and wept. I thought, ‘Who knows? The LORD may show me grace and let the child live.’
+v23: But now he is dead. Why should I fast? Can I bring him back? I will go to him, but he will not return to me.”
 </p>
 
 ## Solomon Is Born
 
 <p>
-v24: David comforted Bathsheba his wife and went in to her and lay with her. She bore a son, and he called his name Solomon. And the LORD loved him.
-
-v25: He sent by the hand of Nathan the prophet and called his name Jedidiah, because of the LORD.
+v24: David comforted his wife Bathsheba. He went to her and slept with her. She bore a son and named him Solomon. The LORD loved him.
+v25: He sent word through the prophet Nathan, who named him Jedidiah because of the LORD.
 </p>
 
-## Joab Captures the Royal City of Rabbah
+## Rabbah Falls
 
 <p>
-v26: Joab fought against Rabbah of the children of Ammon and captured the royal city.
-
-v27: Joab sent messengers to David and said, “I have fought against Rabbah and have also captured the city of waters.
-
-v28: And now gather the rest of the people and camp against the city and capture it, lest I capture the city and my name be called over it.”
-
-v29: So David gathered all the people, went to Rabbah, fought against it, and captured it.
+v26: Meanwhile, Joab fought against Rabbah of the Ammonites and captured the royal city.
+v27: Joab sent messengers to David: “I have fought against Rabbah and captured the water city.
+v28: Now gather the remaining troops, besiege the city, and take it. Otherwise I will capture it and it will bear my name.”
 </p>
 
-## David Takes the Ammonite Crown
-
 <p>
-v30: He took the crown of their king from his head. Its weight was a talent of gold, with a precious stone, and it was placed upon David’s head. He brought out very much plunder from the city.
-
-v31: He brought out the people who were in it and put them to saws, iron picks, and iron axes, and made them pass through the brick kiln. Thus he did to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem.
+v29: David gathered all the troops, went to Rabbah, fought against it, and captured it.
+v30: He took their king’s crown from his head. It weighed a talent of gold and held a precious stone, and it was placed on David’s head. He carried off an immense amount of plunder.
+v31: He brought out the people and put them under saws, iron threshing tools, and iron axes, and made them pass through the brickworks. He did this to all the Ammonite towns. Then David and all the troops returned to Jerusalem.
 </p>
 
 ## Notes
 
-v01–04: Nathan’s parable leads David to condemn a rich man for taking what he did not need from a poor man. The emotional center is not only theft but the destruction of a cherished relationship.
+v09: The read form has “my eyes”; the written form has “his eyes.” The accusation holds David responsible for killing Uriah through the Ammonites.
 
-v05–06: David’s fourfold repayment echoes Torah’s restitution law for stolen sheep, while his death sentence exceeds that law and exposes the intensity of his moral judgment before recognizing himself.
+v11–12: The announced harm includes David’s wives being taken and sexual access made public. The women’s consent is not stated.
 
-v07: “You are the man” collapses the distance created by the parable and identifies royal abuse as the very injustice David condemned.
+v14: The pinned Hebrew says David has treated “the enemies of the LORD” with contempt. This is difficult in context. It is often understood indirectly as giving those enemies cause for contempt toward the LORD. The draft retains the direct wording and leaves the difficulty visible.
 
-v08: The statement about Saul’s wives uses royal-household transfer language. It should not be detached from ancient dynastic practice into a claim that women are mere divine property.
+v18: The servants fear he may “do something harmful.” The Hebrew does not specify the person who might be harmed.
 
-v09: Nathan holds David directly responsible for Uriah’s death even though the Ammonites physically killed him: “you killed him with the sword of the children of Ammon.”
+v23: “I will go to him” points toward David’s own death. The verse does not describe the conditions of an afterlife.
 
-v11–12: The announced judgment of David’s wives anticipates Absalom’s public seizure of David’s concubines in 2 Samuel 16. The text describes reciprocal humiliation within ancient royal conflict; it does not morally approve sexual violation.
+v24–25: The read form says that she named Solomon; the written form says he did. The next verse’s subjects are compressed: the draft understands the LORD to send word through Nathan and Nathan to give the name Jedidiah.
 
-v13: David’s confession is brief and without self-defense. Nathan immediately announces forgiveness from the death penalty while not removing all consequences.
+v30: “Their king” can also be read as the name of a deity, Milcom. The source states a talent of gold and a precious stone, and says the crown was placed on David’s head.
 
-v14: The Masoretic Text literally says David has “made the enemies of the LORD utterly despise” or “blaspheme.” Some ancient traditions soften the wording to avoid directly saying David despised the LORD. TSW follows the sense of the received euphemistic form.
-
-v15: Bathsheba is again called “Uriah’s wife” at the point where the child is struck, keeping Uriah’s violated marriage in view.
-
-v16–23: David’s fasting is petition rather than magical technique. Once the child dies, he accepts that the outcome cannot be changed.
-
-v23: “I am going to him” most directly refers to David eventually joining the child in death. The verse by itself does not fully describe the afterlife.
-
-v24–25: Solomon’s name is associated with peace, while Jedidiah means “beloved of the LORD.” The narrative marks divine love after a chapter of judgment.
-
-v30: The Hebrew can mean the crown of “their king” or of Milcom, the Ammonite deity. TSW follows the royal reading while noting the ambiguity.
-
-v31: The treatment of Ammonite captives is textually and morally difficult. The Masoretic wording can describe forced labor with saws and iron tools or execution by them; the brick-kiln phrase is also uncertain. TSW preserves the harsh labor wording without escalating it beyond the Hebrew’s ambiguity.
+v31: The instrument language is disputed: it can be understood as brutal execution or as forced labor with saws, iron tools, and brickmaking. The draft keeps the severe “under” and “pass through” language without claiming the method is certain.
 
 ## Vocabulary
 
-v03: כִּבְשָׂה (kivsah)
-“Ewe lamb.” The poor man’s cherished animal.
+v03: Ewe lamb
+A young female sheep. The story calls her like a daughter to the poor man.
 
-v06: חָמַל (chamal)
-“To have compassion” or spare. The rich man lacked it.
+v25: Jedidiah
+“Beloved of the LORD,” connecting the name with the preceding statement of love.
 
-v07: מָשַׁח (mashach)
-“To anoint.” God reminds David of his royal calling.
+v27: Water city
+Probably the part of Rabbah associated with its water supply; the precise layout is not explained.
 
-v09: בָּזָה (bazah)
-“To despise.” David despised the LORD’s word through his actions.
-
-v13: חָטָא (chata)
-“To sin.” David’s confession before Nathan.
-
-v13: עָבַר (avar)
-“To put away” or cause to pass. Nathan says the LORD has removed David’s sin.
-
-v16: צוּם (tsum)
-“To fast.” David’s petition for the child.
-
-v22: חָנַן (chanan)
-“To be gracious.” David hopes for divine mercy.
-
-v24: שְׁלֹמֹה (Shelomoh)
-“Solomon.” The son later associated with peace.
-
-v25: יְדִידְיָהּ (Yedidyah)
-“Jedidiah,” “beloved of the LORD.”
-
-v31: מַלְבֵּן (malben)
-“Brick kiln” or brick mold. A difficult term in the treatment of captives.
+v30: Talent
+A large unit of weight; no modern weight is inserted into the verse.

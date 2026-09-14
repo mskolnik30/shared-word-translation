@@ -4,130 +4,113 @@ testament: OT
 chapter: 21
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## Famine and the Gibeonites
+## Famine and a Broken Oath
 
 <p>
-v01: There was a famine in the days of David for three years, year after year. David sought the face of the LORD, and the LORD said, “There is bloodguilt upon Saul and upon his house because he put the Gibeonites to death.”
-
-v02: So the king called the Gibeonites and spoke to them. Now the Gibeonites were not from the children of Israel but from the remnant of the Amorites. The children of Israel had sworn to them, but Saul had sought to strike them in his zeal for the children of Israel and Judah.
-
-v03: David said to the Gibeonites, “What will I do for you? And how will I make atonement, so that you may bless the inheritance of the LORD?”
-
-v04: The Gibeonites said to him, “It is not a matter of silver or gold for us with Saul or with his house, and it is not for us to put any man in Israel to death.” He said, “Whatever you say, I will do for you.”
-
-v05: They said to the king, “The man who consumed us and who planned to destroy us, so that we would have no place in all the territory of Israel—
-
-v06: let seven men from his sons be given to us, and we will hang them before the LORD at Gibeah of Saul, the chosen of the LORD.” The king said, “I will give them.”
+v01: In David’s days there was a famine for three years, year after year. David sought the LORD’s face, and the LORD said, “It is because of Saul and his bloodstained house, because he put the Gibeonites to death.”
 </p>
 
-## Seven Descendants of Saul Are Given Over
-
 <p>
-v07: But the king spared Mephibosheth son of Jonathan, son of Saul, because of the oath of the LORD that was between them, between David and Jonathan son of Saul.
-
-v08: The king took the two sons of Rizpah daughter of Aiah whom she had borne to Saul, Armoni and Mephibosheth, and the five sons of Merab daughter of Saul whom she had borne to Adriel son of Barzillai the Meholathite.
-
-v09: He gave them into the hand of the Gibeonites, and they hanged them on the mountain before the LORD, and the seven fell together. They were put to death in the first days of harvest, at the beginning of barley harvest.
+v02: The king summoned the Gibeonites and spoke to them. The Gibeonites were not Israelites but a remnant of the Amorites. The Israelites had sworn an oath to them, yet Saul had sought to strike them down in his zeal for Israel and Judah.
 </p>
 
-## Rizpah Guards the Bodies
-
 <p>
-v10: Rizpah daughter of Aiah took sackcloth and spread it for herself upon the rock, from the beginning of harvest until water was poured upon them from the heavens. She did not allow the birds of the heavens to rest upon them by day or the animals of the field by night.
-
-v11: It was told to David what Rizpah daughter of Aiah, concubine of Saul, had done.
+v03: David asked the Gibeonites, “What shall I do for you? How can I make atonement, so that you will bless the LORD’s inheritance?”
 </p>
 
-## Saul and Jonathan Are Buried with Saul’s House
-
 <p>
-v12: David went and took the bones of Saul and the bones of Jonathan his son from the citizens of Jabesh-Gilead, who had stolen them from the public square of Beth-Shan, where the Philistines had hung them on the day the Philistines struck Saul at Gilboa.
-
-v13: He brought up from there the bones of Saul and the bones of Jonathan his son, and they gathered the bones of people who had been hanged.
-
-v14: They buried the bones of Saul and Jonathan his son in the land of Benjamin at Zela, in the tomb of Kish his father. They did all that the king commanded. And after that God was entreated for the land.
+v04: The Gibeonites answered, “Our dispute with Saul and his house is not about silver or gold, and we have no right to put anyone in Israel to death.” He said, “Tell me what you want, and I will do it for you.”
 </p>
 
-## Wars with Philistine Giants
-
 <p>
-v15: There was again war between the Philistines and Israel. David went down, and his servants with him, and they fought the Philistines. David became weary.
-
-v16: Ishbi-Benob, who was among the descendants of the giant, whose spear weighed three hundred shekels of bronze and who was girded with a new weapon, thought to strike David.
-
-v17: Yet Abishai son of Zeruiah came to his aid and struck the Philistine and put him to death. Then the men of David swore to him, saying, “You will not go out with us to battle again, so that you do not extinguish the lamp of Israel.”
+v05: They told the king, “The man who consumed us and plotted against us would have destroyed us, leaving us no place anywhere in Israel’s territory.
+v06: Let seven of his male descendants be handed over to us. We will expose them in death before the LORD at Gibeah of Saul, the LORD’s chosen one.” The king said, “I will hand them over.”
 </p>
 
-## Further Victories over the Giants
+<p>
+v07: But the king spared Mephibosheth, the son of Saul’s son Jonathan, because of the oath before the LORD between David and Jonathan son of Saul.
+</p>
 
 <p>
-v18: After this there was again battle with the Philistines at Gob. Then Sibbecai the Hushathite struck Saph, who was among the descendants of the giant.
+v08: The king took Armoni and Mephibosheth, the two sons whom Rizpah daughter of Aiah had borne to Saul, and the five sons whom Saul’s daughter Michal had borne to Adriel son of Barzillai the Meholathite.
+v09: He handed them over to the Gibeonites, who exposed them in death on the hill before the LORD. All seven fell together. They were put to death in the first days of harvest, at the beginning of the barley harvest.
+</p>
 
-v19: There was again battle with the Philistines at Gob, and Elhanan son of Jaare-Oregim the Bethlehemite struck Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.
+## Rizpah Guards the Dead
 
-v20: There was again battle at Gath, where there was a man of great stature who had six fingers on each hand and six toes on each foot, twenty-four in number. He also was descended from the giant.
+<p>
+v10: Rizpah daughter of Aiah took sackcloth and spread it for herself on the rock. From the beginning of harvest until water poured down on them from the sky, she allowed no bird of the sky to settle on them by day, and no wild animal by night.
+</p>
 
-v21: He taunted Israel, and Jonathan son of Shimei, David’s brother, struck him.
+<p>
+v11: David was told what Rizpah daughter of Aiah, Saul’s concubine, had done.
+</p>
 
-v22: These four were descended from the giant in Gath, and they fell by the hand of David and by the hand of his servants.
+<p>
+v12: David went and retrieved the bones of Saul and his son Jonathan from the people of Jabesh-gilead. They had secretly taken them from the public square of Beth-shan, where the Philistines had hung them on the day they struck Saul down on Gilboa.
+v13: He brought up the bones of Saul and his son Jonathan from there, and they gathered the bones of those who had been exposed in death.
+</p>
+
+<p>
+v14: They buried the bones of Saul and his son Jonathan at Zela in Benjamin, in the tomb of Saul’s father Kish. They did everything the king commanded. After this, God responded to pleas for the land.
+</p>
+
+## Battles with Rapha’s Descendants
+
+<p>
+v15: Once again there was war between the Philistines and Israel. David went down with his servants to fight the Philistines, and David grew weary.
+</p>
+
+<p>
+v16: Ishbi-benob, one of Rapha’s descendants, had a bronze spearhead weighing three hundred shekels and was armed with a new weapon. He intended to strike David down.
+</p>
+
+<p>
+v17: But Abishai son of Zeruiah came to his aid, struck the Philistine, and killed him. Then David’s men swore to him, “You must never go into battle with us again, or you may extinguish Israel’s lamp.”
+</p>
+
+<p>
+v18: After this, there was another battle with the Philistines at Gob. There Sibbecai the Hushathite struck down Saph, one of Rapha’s descendants.
+</p>
+
+<p>
+v19: In another battle with the Philistines at Gob, Elhanan son of Jaare-oregim the Bethlehemite struck down Goliath the Gittite. Goliath’s spear shaft was like a weaver’s beam.
+</p>
+
+<p>
+v20: There was another battle at Gath. A man of great size was there, with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha.
+v21: When he taunted Israel, Jonathan, the son of David’s brother Shimeah, struck him down.
+</p>
+
+<p>
+v22: These four were descended from Rapha in Gath. They fell by the hands of David and his servants.
 </p>
 
 ## Notes
 
-v01: The famine is interpreted as connected with Saul’s violation of Israel’s oath to the Gibeonites. The episode reaches back to the covenant made with Gibeon in Joshua 9.
+v01–06: The LORD’s answer identifies bloodguilt. The demand for seven descendants comes from the Gibeonites, and David agrees to it. The passage does not quote a divine command prescribing their execution.
 
-v03: “make atonement” uses the ordinary Hebrew atonement verb, but the mechanism here is negotiated with the wronged Gibeonites rather than sanctuary sacrifice.
+v06–09: The verb refers to lethal public exposure, often understood as hanging or impalement. The precise method is uncertain; the deaths are explicit.
 
-v06: The execution of Saul’s descendants is a severe instance of ancient bloodguilt and dynastic accountability. TSW preserves the narrative without treating inherited execution as a transferable model of justice.
+v07–08: Two different men are named Mephibosheth: Jonathan’s son is spared; Rizpah’s son is handed over. Verse 8 reads Michal and says she bore five sons. This conflicts with other family notices, including 6:23. The draft does not silently substitute Merab or “raised.”
 
-v07: Mephibosheth son of Jonathan is protected because David’s oath to Jonathan remains binding even amid the attempt to address Saulide bloodguilt.
+v10–14: Rizpah guards the bodies until rain falls. David then retrieves and gathers remains for burial. The answered pleas for the land are reported after these actions.
 
-v08: The Masoretic Text reads “Michal daughter of Saul,” but Michal is elsewhere said to have had no child, and 1 Samuel 18:19 identifies Merab as Adriel’s wife. Many textual traditions therefore read Merab here. TSW follows the contextual correction “Merab” and records the Masoretic difficulty.
-
-v10: Rizpah’s long vigil over the exposed bodies is an act of maternal loyalty and protest against desecration, lasting from barley harvest until rain.
-
-v12: Jabesh-Gilead had recovered Saul and Jonathan’s bodies after the Philistines displayed them at Beth-Shan. David now gathers their remains for formal family burial.
-
-v14: The statement that God was entreated for the land comes only after burial of Saul’s house, suggesting that proper treatment of the dead belongs to the resolution of the bloodguilt crisis.
-
-v16: “descendants of the giant” translates a term likely related to the Rephaim. The exact ancestral designation is uncertain.
-
-v17: David is called “the lamp of Israel,” shifting his role from warrior to indispensable symbol of national continuity.
-
-v19: The Masoretic Text says Elhanan killed Goliath, while 1 Chronicles 20:5 says he killed Lahmi brother of Goliath. The Samuel text likely reflects a textual difficulty. TSW preserves the Masoretic wording and notes the parallel.
-
-v20: The twenty-four digits are presented as a sign of extraordinary stature within the giant-warrior tradition.
+v19: The pinned text says Elhanan struck down Goliath. It does not say “Goliath’s brother.” The draft preserves this difficulty alongside the earlier David account.
 
 ## Vocabulary
 
-v01: דָּם (dam)
-“Bloodguilt” or “blood.” The unresolved killing of Gibeonites is the cause named for the famine.
+v03: Atonement
+Dealing with the offense and its consequences so the relationship can be restored; David asks what will accomplish it here.
 
-v03: כִּפֶּר (kipper)
-“To make atonement.” To address guilt and restore right relation.
+v16: Rapha
+A name or ancestral designation associated here with unusually formidable warriors.
 
-v06: יָקַע (yaqa)
-“To hang” or expose publicly. Used of the seven Saulide descendants.
-
-v10: שַׂק (saq)
-“Sackcloth.” Rizpah spreads it upon the rock during her vigil.
-
-v14: עָתַר (atar)
-“To be entreated” or respond to prayer. God responds for the land.
-
-v16: רָפָה (Rapha)
-“The giant” or ancestral giant designation.
-
-v17: נֵר יִשְׂרָאֵל (ner Yisrael)
-“Lamp of Israel.” A title for David as bearer of national continuity.
-
-v19: מְנוֹר אֹרְגִים (menor orgim)
-“Weaver’s beam.” The comparison for the spear shaft.
-
-v20: מִדִּין (middin)
-“Stature” or measure. Used of the extraordinary warrior.
-
-v21: חָרַף (charaf)
-“To taunt” or defy. The giant challenges Israel.
+v17: Israel’s lamp
+The men’s image of David’s life and continuing leadership.

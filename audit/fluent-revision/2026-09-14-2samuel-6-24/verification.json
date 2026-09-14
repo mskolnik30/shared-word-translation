@@ -1,0 +1,333 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-14T19:07:49.831422+00:00",
+  "base_commit": "82918a076360a371bdf598f83d00668656811ccd",
+  "scope": "2 Samuel 6–24 and 1 Kings 1",
+  "new_chapters": 20,
+  "new_verses": 613,
+  "affected_source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-2samuel-6-24/2samuel-verse-review.json",
+      "status": "PASSED",
+      "chapters": 19,
+      "verses": 560,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1kings-1/1kings-verse-review.json",
+      "status": "PASSED",
+      "chapters": 1,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "preservation": {
+    "prior_ledgers_byte_identical": 55,
+    "prior_chapters_byte_identical": 277,
+    "historical_provenance_and_unrelated_work_preserved": true
+  },
+  "cumulative_coverage": {
+    "ledgers": 57,
+    "chapters": 297,
+    "verses": 8879
+  },
+  "structural_chapters": [
+    {
+      "chapter": 6,
+      "verse_count": 23,
+      "path": "translations/fluent/OT/2samuel/2Samuel_06.md",
+      "before_sha256": "78096f91f12a5e99ec12b07679fb791edd07bb21368cdd0e3c456b9a2c35b8c0",
+      "after_sha256": "14121d82a8ff646c2589eadbf779063e0e6c88b3e17f87d23a1a26bda01a396c",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_06.md",
+      "tsw_comparator_sha256": "ae08b9ff2d7a965e5f4d17eafaeb61e4753a9e04cd9981150bc10ff11f070365"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 29,
+      "path": "translations/fluent/OT/2samuel/2Samuel_07.md",
+      "before_sha256": "a9807cf297f442f098d00a2c6485d6054a9c00f9b90bc4e862434e1fe07c37ea",
+      "after_sha256": "acc4bd1a11eece4bff07a60185923e1ebbd181357e2f9dc853f92ea49772d8b2",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_07.md",
+      "tsw_comparator_sha256": "bc6ce8edd056a589429d855d8046eda168f4660266f1197f5eda9d478ea0d1e5"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 18,
+      "path": "translations/fluent/OT/2samuel/2Samuel_08.md",
+      "before_sha256": "9c6ebd8b32211aa0b07f845abdbfc1aebed9363c0d9056b4d9c7c2334c47b937",
+      "after_sha256": "3817a85ab3817f194dddd76c6494823cfe2f3c2cb10a38b2de571c95513ecab9",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_08.md",
+      "tsw_comparator_sha256": "9f13150a5d49e97ea45f9fb4ae249b4b83bac4d5a891368fa4851e9ac7433405"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 13,
+      "path": "translations/fluent/OT/2samuel/2Samuel_09.md",
+      "before_sha256": "6a345e46def74896a5c4a7311b797b7b4b389e21c2664294f76295e3150ec547",
+      "after_sha256": "e987397755151089f741f99a095a577e2683ff24a1dd611a7d39292f8bca096b",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_09.md",
+      "tsw_comparator_sha256": "9e3038d199ebdbb2c2d788f1ad249e81b29751183ea60aea4d34fc9be6eb5f3c"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 19,
+      "path": "translations/fluent/OT/2samuel/2Samuel_10.md",
+      "before_sha256": "0efdbcc6aea4a97a518075113a4cc31890a5627890d5f2fc1d941947fb985e45",
+      "after_sha256": "18aefae2d14321a7908f864dc61855069a09007d6e6d4db31baf107f18ae11ec",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_10.md",
+      "tsw_comparator_sha256": "08f37c40134c0efc394ad47fa157e24f08460a31998906506e86acc13c2974ec"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 27,
+      "path": "translations/fluent/OT/2samuel/2Samuel_11.md",
+      "before_sha256": "6c920fe73cf53154f4eb56f16e50c1c77947166fd8eaafde44f1967ec4ab2f04",
+      "after_sha256": "4bb2ebcb2c26f1168196084cdeab9ff88ae4365987863a9b244708e87b996ed8",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_11.md",
+      "tsw_comparator_sha256": "8ed009fe2df584f2af86650ba906e163f4589302bbbeb39db0bb0c69c9ae08db"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 31,
+      "path": "translations/fluent/OT/2samuel/2Samuel_12.md",
+      "before_sha256": "11f62006efe729906aa50eb462a5dbba00b0935152523a5791d8b51f8027fb15",
+      "after_sha256": "0b600feba53deb2708c995d56ee2276160d788f63b70f44a4488bf1c9f6b9587",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_12.md",
+      "tsw_comparator_sha256": "dd78a794cf0a8a05613d9addac9255985be4fd6b8a4ca4e65d0d75293123e150"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 39,
+      "path": "translations/fluent/OT/2samuel/2Samuel_13.md",
+      "before_sha256": "e831ecce5dddb63521ef5722bcb67ae6e7ef8393664a84ce7bf06c759e0b28fe",
+      "after_sha256": "2cde32dbc88d13ee63f2ff26982af02f8def44739ba84aaf059c684688387460",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_13.md",
+      "tsw_comparator_sha256": "bed0e78526a28637b4d1bb657d96227119e7a34eeab41223ca3d69b49d285b09"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 33,
+      "path": "translations/fluent/OT/2samuel/2Samuel_14.md",
+      "before_sha256": "b06d8bc5a8d1fb3a9986400fb7513b363916e21217afa79f64d2bd4897f75832",
+      "after_sha256": "f07de615987b831e1f3f891f34931da9142fbbfd02a9c4c77ab398e453df5dc8",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_14.md",
+      "tsw_comparator_sha256": "c5846ab508f769ea32096a916a768fdf004245ff6092a38e3cc1e09057305eab"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 37,
+      "path": "translations/fluent/OT/2samuel/2Samuel_15.md",
+      "before_sha256": "1ca1c20e1709b3181ec44d8139733bb9e2a6baf28458a034ce3b85cc05e09e66",
+      "after_sha256": "b7a5374982ee137b1e2d6b2f18e7d743b64eaaf9a43ae2b2e732239f39b0b04c",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_15.md",
+      "tsw_comparator_sha256": "59b57e919b8d0cac02f20da2256ba9472f836cf20977d6df2a84a052cf04d918"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 23,
+      "path": "translations/fluent/OT/2samuel/2Samuel_16.md",
+      "before_sha256": "14984960f57ec5e606dccf019afe4a12df49dcdf9b8f534cb3b09c351c7e0fe4",
+      "after_sha256": "f6f1c95f712959e2e55e80afda510202312f847a539224debdd88bbdbafc807f",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_16.md",
+      "tsw_comparator_sha256": "b789df9cab912803b0ca7ea74d95f099aac8ad6ac066f36b8349dcf5e18e2f69"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 29,
+      "path": "translations/fluent/OT/2samuel/2Samuel_17.md",
+      "before_sha256": "46c48fb00d0e94581395ca3fcfa1a8aa1a53188e0c93f48886d4c926d3796266",
+      "after_sha256": "052af3312d2e0fa3bbc535dc6a21e6cb0cf929e30549a7c0bae38cae1888ba4e",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_17.md",
+      "tsw_comparator_sha256": "fd777c4e199ee5f96dd8142b92cd0aa63298092a213e441ec5fbcfaacb85c474"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 33,
+      "path": "translations/fluent/OT/2samuel/2Samuel_18.md",
+      "before_sha256": "42732e3014c1e94ee717a90c3a1a5f6710c3c828c88208377617ba52deb35460",
+      "after_sha256": "c4fc712a4cdadcaf15a27852a719549a85ab1a6ab3def2da4445180b8b952649",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_18.md",
+      "tsw_comparator_sha256": "2b19af4db9c3dc4f09aa06f1ce9e672027d7d8bfdcaca4c105f7d4651a4daaef"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 43,
+      "path": "translations/fluent/OT/2samuel/2Samuel_19.md",
+      "before_sha256": "9adea9e5c2058e3be27fc555bc0b237c4a372a4e7d9a428bc5d8739a1a4cda7d",
+      "after_sha256": "4c6f93ab528a35b38a015d8dcb8278444c37f5cc46e90bd4c8d150eb24995219",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_19.md",
+      "tsw_comparator_sha256": "a5f2520497463fd783008434c1f44836d8773525c6eaf37df83c6aa1faf90c65"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 26,
+      "path": "translations/fluent/OT/2samuel/2Samuel_20.md",
+      "before_sha256": "26c53cc96496c9d646bb58f23ef189f173733e6d752d9e5ba23215beb33732b7",
+      "after_sha256": "d2c38b25808d1f606138f49fd263a759bcfc2c10824e8e572b56950fee27d8ff",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_20.md",
+      "tsw_comparator_sha256": "39bc070b71d7e4a4ae10cfd85f8898b40a703c85399e47b816fcf34a0f8d3631"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 22,
+      "path": "translations/fluent/OT/2samuel/2Samuel_21.md",
+      "before_sha256": "aa387aebaed7f15022ce4a0161b5d18318e2879d1ec39be8b0fab3f8ce9c1e15",
+      "after_sha256": "fc2befc673e470fa7584a4d28382aa3fb2d5ad203f9031d632452c4a03c124af",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_21.md",
+      "tsw_comparator_sha256": "ea5065e4b41d62bcf85fd1c87f61c28585114d6a5306dd6b1c1b91d15f1ece6e"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 51,
+      "path": "translations/fluent/OT/2samuel/2Samuel_22.md",
+      "before_sha256": "55ebc3a6e8924e83039c2135a3536a0d136a069df048cf756cf3165d04eeaa5b",
+      "after_sha256": "2188763848d05f98f5750727ef9c7d5857434f0e04bbecf89996c9bcc0d598a9",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_22.md",
+      "tsw_comparator_sha256": "143b2a55eb6c3f698b05af5cf92a991dbd9b1e54578a946b93034a24ce0e1192"
+    },
+    {
+      "chapter": 23,
+      "verse_count": 39,
+      "path": "translations/fluent/OT/2samuel/2Samuel_23.md",
+      "before_sha256": "9a54bbbe91f628442772e1c15d0e256118f4f78bb340a04f4fa10d7e79486469",
+      "after_sha256": "e1a057de83a17683dc39542505f0f3a8dcb559e7639c586cfb3d2098a8730829",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_23.md",
+      "tsw_comparator_sha256": "fc52eb3155731e8e5073b89de9ce876a21277e897c5207c2125cfc6f045a26d4"
+    },
+    {
+      "chapter": 24,
+      "verse_count": 25,
+      "path": "translations/fluent/OT/2samuel/2Samuel_24.md",
+      "before_sha256": "41c07c2fd72f85b08f9bb21efb9f74e572818b80b4b4b98e67c7d1b6a1671639",
+      "after_sha256": "1ca87d6bb04791cc30eee867b88bd1ab33c3c1f737548e0c3d6d3cfbcf6853ba",
+      "tsw_comparator_path": "books/OT/2samuel/2Samuel_24.md",
+      "tsw_comparator_sha256": "91114175f74d058f57c29ef72de2c9007dab519d5b9ff9be70c2a9b2a0086d2f"
+    },
+    {
+      "chapter": 1,
+      "verse_count": 53,
+      "path": "translations/fluent/OT/1kings/1Kings_01.md",
+      "before_sha256": "8d0f58309b01067215a42b9d9dc155c220d73f9de98717f5de1bef1945d10451",
+      "after_sha256": "e2cdf8d0867ed0abae0a7321a75bba570945eac462cb52644458874499096e64",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_01.md",
+      "tsw_comparator_sha256": "7d6be0b2a647d6119c04dff2f067521fda539d58ef23ad7db8143438ecf9b082"
+    }
+  ],
+  "first_source_reading": {
+    "public_verses": 613,
+    "original_records": 613,
+    "all_original_annotations_read": true
+  },
+  "tsw_comparator_reading": 613,
+  "focused_source_reread": {
+    "2samuel": 120,
+    "1kings": 16
+  },
+  "focused_assertions": {
+    "2 Samuel 8:4": [
+      "seventeen hundred",
+      "twenty thousand",
+      "hundred chariots"
+    ],
+    "2 Samuel 8:13": [
+      "eighteen thousand Arameans"
+    ],
+    "2 Samuel 12:14": [
+      "the LORD’s enemies",
+      "die"
+    ],
+    "2 Samuel 12:31": [
+      "under saws",
+      "brickworks"
+    ],
+    "2 Samuel 13:14": [
+      "overpowered",
+      "raped"
+    ],
+    "2 Samuel 14:26": [
+      "two hundred shekels"
+    ],
+    "2 Samuel 15:7": [
+      "forty years"
+    ],
+    "2 Samuel 18:3": [
+      "ten thousand like us"
+    ],
+    "2 Samuel 21:8": [
+      "Michal",
+      "borne",
+      "Armoni",
+      "Mephibosheth"
+    ],
+    "2 Samuel 21:19": [
+      "Elhanan",
+      "Goliath"
+    ],
+    "2 Samuel 22:36": [
+      "your answering me"
+    ],
+    "2 Samuel 22:46": [
+      "limping"
+    ],
+    "2 Samuel 22:51": [
+      "tower of salvation"
+    ],
+    "2 Samuel 23:8": [
+      "Josheb-basshebeth",
+      "Adino",
+      "eight hundred"
+    ],
+    "2 Samuel 23:18": [
+      "Three",
+      "three hundred"
+    ],
+    "2 Samuel 23:19": [
+      "Three"
+    ],
+    "2 Samuel 23:20": [
+      "two ariels"
+    ],
+    "2 Samuel 23:39": [
+      "Thirty-seven"
+    ],
+    "2 Samuel 24:9": [
+      "eight hundred thousand",
+      "five hundred thousand"
+    ],
+    "2 Samuel 24:13": [
+      "seven years",
+      "three months",
+      "three days"
+    ],
+    "2 Samuel 24:15": [
+      "Seventy thousand"
+    ],
+    "2 Samuel 24:23": [
+      "Araunah the king"
+    ],
+    "2 Samuel 24:24": [
+      "fifty silver shekels"
+    ],
+    "1 Kings 1:4": [
+      "did not have sexual relations"
+    ],
+    "1 Kings 1:39": [
+      "Zadok",
+      "anointed"
+    ],
+    "1 Kings 1:45": [
+      "Zadok",
+      "Nathan"
+    ]
+  },
+  "all_2samuel_source_records_bound_once": 695,
+  "public_source_versification_checked": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_samuel_consistency_passes": "PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

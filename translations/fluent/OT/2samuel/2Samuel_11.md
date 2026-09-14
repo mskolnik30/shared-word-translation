@@ -4,144 +4,102 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## David Remains in Jerusalem
+## David and Bathsheba
 
 <p>
-v01: At the turning of the year, at the time when kings go out to battle, David sent Joab and his servants with him and all Israel. They devastated the children of Ammon and besieged Rabbah. But David remained in Jerusalem.
+v01: At the turn of the year, when kings go out to war, David sent Joab, his servants, and all Israel. They devastated Ammon and besieged Rabbah, while David stayed in Jerusalem.
 </p>
 
-## David Takes Bathsheba
-
 <p>
-v02: It happened toward evening that David arose from his bed and walked on the roof of the king’s house. From the roof he saw a woman bathing, and the woman was very beautiful in appearance.
-
-v03: David sent and inquired about the woman. Someone said, “Is this not Bathsheba daughter of Eliam, wife of Uriah the Hittite?”
-
-v04: David sent messengers and took her. She came to him, and he lay with her. Now she had been purifying herself from her uncleanness. Then she returned to her house.
-
-v05: The woman conceived, and she sent and told David and said, “I am pregnant.”
+v02: One evening David rose from his bed and walked on the roof of the royal house. From there he saw a woman bathing. She was very beautiful.
+v03: David sent someone to find out about her. He was told, “Is this not Bathsheba, Eliam’s daughter, the wife of Uriah the Hittite?”
 </p>
 
-## David Summons Uriah
-
 <p>
-v06: Then David sent to Joab, saying, “Send me Uriah the Hittite.” So Joab sent Uriah to David.
-
-v07: Uriah came to him, and David asked concerning Joab’s well-being, the well-being of the people, and the well-being of the war.
-
-v08: David said to Uriah, “Go down to your house and wash your feet.” Uriah went out from the king’s house, and a gift from the king went out after him.
-
-v09: Yet Uriah slept at the entrance of the king’s house with all the servants of his lord and did not go down to his house.
-
-v10: They told David, saying, “Uriah did not go down to his house.” David said to Uriah, “Have you not come from a journey? Why did you not go down to your house?”
-
-v11: Uriah said to David, “The ark and Israel and Judah are living in booths, and my lord Joab and the servants of my lord are camped on the open field. Will I then go to my house to eat and drink and lie with my wife? As you live and as your life lives, I will not do this thing.”
-
-v12: David said to Uriah, “Remain here today also, and tomorrow I will send you away.” So Uriah remained in Jerusalem that day and the next.
-
-v13: David called him, and he ate before him and drank, and David made him drunk. In the evening he went out to lie on his bed with the servants of his lord, but he did not go down to his house.
+v04: David sent messengers and took her. She came to him, and he slept with her. She had been purifying herself from her uncleanness. Then she returned home.
+v05: The woman became pregnant and sent word to David: “I am pregnant.”
 </p>
 
-## David Arranges Uriah’s Death
+## Uriah Refuses to Go Home
 
 <p>
-v14: In the morning David wrote a letter to Joab and sent it by the hand of Uriah.
-
-v15: He wrote in the letter, saying, “Set Uriah at the front of the fiercest battle, then withdraw from behind him, so that he may be struck and die.”
-
-v16: So when Joab was watching the city, he assigned Uriah to the place where he knew there were mighty men.
-
-v17: The men of the city came out and fought with Joab, and some of the people from David’s servants fell. Uriah the Hittite also died.
+v06: David sent word to Joab, “Send me Uriah the Hittite.” Joab sent Uriah to David.
+v07: When Uriah arrived, David asked how Joab was, how the troops were, and how the war was going.
 </p>
 
-## Joab Sends the Battle Report
-
 <p>
-v18: Then Joab sent and told David all the matters of the war.
-
-v19: He commanded the messenger, saying, “When you finish speaking to the king all the matters of the war,
-
-v20: if the king’s anger rises and he says to you, ‘Why did you go so near the city to fight? Did you not know they would shoot from the wall?
-
-v21: Who struck Abimelech son of Jerubbesheth? Did not a woman throw an upper millstone upon him from the wall so that he died at Thebez? Why did you go so near the wall?’ Then you will say, ‘Your servant Uriah the Hittite is also dead.’”
-
-v22: The messenger went and came and told David all that Joab had sent him to tell.
-
-v23: The messenger said to David, “The men prevailed over us and came out against us into the field, but we pushed them back as far as the entrance of the gate.
-
-v24: Then the archers shot at your servants from the wall, and some of the king’s servants died. Your servant Uriah the Hittite also died.”
-
-v25: David said to the messenger, “Thus you will say to Joab: ‘Do not let this matter be evil in your eyes, for the sword devours one as well as another. Strengthen your battle against the city and overthrow it.’ And encourage him.”
+v08: Then David told Uriah, “Go home and wash your feet.” Uriah left the king’s house, and a gift from the king followed him.
+v09: But Uriah slept at the entrance to the king’s house with his lord’s servants. He did not go home.
 </p>
 
-## David Takes Bathsheba as Wife
+<p>
+v10: David was told, “Uriah did not go home.” He asked Uriah, “Have you not just returned from a journey? Why did you not go home?”
+v11: Uriah answered, “The ark, Israel, and Judah are staying in shelters. My lord Joab and my lord’s servants are camped in the open. Should I go home to eat and drink and sleep with my wife? As you live, as your very life lives, I will not do this!”
+</p>
 
 <p>
-v26: When the wife of Uriah heard that Uriah her husband was dead, she lamented over her husband.
+v12: David said, “Stay here today as well. Tomorrow I will send you back.” So Uriah stayed in Jerusalem that day and the next.
+v13: David invited him to eat and drink in his presence and made him drunk. That evening Uriah went out to sleep with his lord’s servants. He still did not go home.
+</p>
 
-v27: When the mourning was past, David sent and gathered her into his house, and she became his wife and bore him a son.
+## David Sends Uriah to His Death
 
-But the thing that David had done was evil in the eyes of the LORD.
+<p>
+v14: In the morning David wrote a letter to Joab and sent it by Uriah’s own hand.
+v15: He wrote, “Put Uriah at the front, where the fighting is fiercest. Then withdraw from him so he is struck down and dies.”
+v16: As Joab watched the city, he stationed Uriah where he knew its strongest fighters were.
+v17: The city’s men came out and fought Joab. Some of David’s servants fell, and Uriah the Hittite died too.
+</p>
+
+<p>
+v18: Joab sent David a full report of the fighting.
+v19: He instructed the messenger, “When you finish telling the king about the fighting,
+v20: he may become angry and ask, ‘Why did you go so close to the city to fight? Did you not know they would shoot from the wall?
+v21: Who killed Abimelech son of Jerubbesheth? Did not a woman drop an upper millstone on him from the wall, so he died at Thebez? Why did you approach the wall?’ Then tell him, ‘Your servant Uriah the Hittite is dead too.’”
+</p>
+
+<p>
+v22: The messenger went to David and delivered everything Joab had sent him to say.
+v23: He told David, “The men gained the upper hand and came out against us in the open. But we pushed them back to the gate entrance.
+v24: The archers shot at your servants from the wall, and some of the king’s servants died. Your servant Uriah the Hittite is dead too.”
+</p>
+
+<p>
+v25: David told the messenger, “Tell Joab, ‘Do not see this as evil. The sword devours one person as readily as another. Press the attack against the city and destroy it.’ Encourage him.”
+</p>
+
+## Uriah’s Wife Mourns
+
+<p>
+v26: When Uriah’s wife heard that her husband was dead, she mourned him.
+v27: After the mourning ended, David sent for her and brought her into his house. She became his wife and bore him a son. But what David had done was evil in the LORD’s eyes.
 </p>
 
 ## Notes
 
-v01: The chapter opens with David absent from the battlefield “at the time when kings go out,” immediately creating contrast between royal duty and what follows in Jerusalem.
+v02–05: David is on the roof. The text does not say where Bathsheba is bathing. It says David sent, took her, and slept with her; it does not report her consent, a seduction, or her thoughts. Her message in verse 5 is quoted directly.
 
-v03: Bathsheba is identified through both father and husband before David acts, making her existing household relationships explicit.
+v04: Purification concerns ritual uncleanness, likely connected here with menstruation. Ritual uncleanness is not a claim of moral wrongdoing.
 
-v04: “took her” is the same royal-power verb used for seizure elsewhere. The text records David initiating the entire encounter and does not state that Bathsheba had meaningful power to refuse the king. TSW therefore avoids romanticizing the episode as an affair between equals.
+v08–11: “Wash your feet” remains a homecoming expression in the text. Uriah himself makes the prospect of sleeping with his wife explicit in verse 11.
 
-v04: The note concerning purification indicates Bathsheba had completed menstrual impurity, clarifying the timing of conception and later exposing David as the father.
+v21: The source uses Jerubbesheth. The draft retains that form rather than replacing it with Jerubbaal.
 
-v08: “wash your feet” can be ordinary hospitality but in context is likely part of David’s attempt to send Uriah home to sexual relations with Bathsheba.
-
-v11: Uriah’s solidarity with ark, troops, and commander contrasts sharply with David’s self-protective conduct.
-
-v13: David uses alcohol to try to overcome Uriah’s disciplined refusal, yet Uriah still does not go home.
-
-v14: Uriah unknowingly carries the written order for his own death, intensifying the narrative’s portrayal of David’s abuse of royal authority.
-
-v17: David’s scheme kills not only Uriah but other servants as collateral casualties.
-
-v21: “Jerubbesheth” is a shame-substitution form related to Jerubbaal, the name of Gideon. The story recalled is Judges 9:50–54.
-
-v25: David’s statement that “the sword devours one as well as another” disguises intentional murder as ordinary battlefield risk.
-
-v26: Bathsheba is still called “the wife of Uriah” after his death, preserving the moral identity of the marriage David destroyed.
-
-v27: The chapter withholds explicit divine commentary until the final line, where all David’s concealed actions are summarized as evil in the LORD’s eyes.
+v25–27: David tells Joab not to regard the deaths as evil; the narrator closes by calling David’s action evil in the LORD’s eyes.
 
 ## Vocabulary
 
-v01: תְּשׁוּבַת הַשָּׁנָה (teshuvat ha-shanah)
-“Turning of the year.” The season associated with renewed military campaigns.
+v11: Shelters
+Temporary dwellings, also called booths; Uriah contrasts them with his own home.
 
-v03: דָּרַשׁ (darash)
-“To inquire.” David investigates Bathsheba’s identity.
+v21: Upper millstone
+The upper stone used to grind grain against a lower stone.
 
-v04: לָקַח (laqach)
-“To take.” The royal action by which Bathsheba is brought to David.
-
-v04: טָהֵר (taher)
-“To purify.” Bathsheba had completed ritual cleansing.
-
-v05: הָרָה (harah)
-“To conceive” or “be pregnant.”
-
-v11: סֻכּוֹת (sukkot)
-“Booths.” Temporary shelters associated here with troops in the field.
-
-v14: סֵפֶר (sefer)
-“Letter” or written document.
-
-v15: שׁוּב מֵאַחֲרָיו (shuv me-acharav)
-“To withdraw from behind him.” The order isolating Uriah.
-
-v26: סָפַד (safad)
-“To lament.” Bathsheba mourns Uriah.
-
-v27: רָעַע (ra'a)
-“To be evil.” The LORD’s moral verdict on David’s actions.
+v25: The sword devours
+An image of killing used here in David’s attempt to reassure Joab.

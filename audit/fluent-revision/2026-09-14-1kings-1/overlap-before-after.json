@@ -1,0 +1,390 @@
+{
+  "method": "NFKC/casefold words, punctuation ignored; SequenceMatcher autojunk=false; near threshold 0.90. Triage only, no quota, no proof of fidelity or independent authorship.",
+  "summary": {
+    "before": {
+      "verses": 53,
+      "identical_words": 51,
+      "near_identical": 2,
+      "mean_word_similarity": 0.998158
+    },
+    "after": {
+      "verses": 53,
+      "identical_words": 3,
+      "near_identical": 7,
+      "mean_word_similarity": 0.798899
+    }
+  },
+  "verses": [
+    {
+      "reference": "1 Kings 1:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.851064,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.967742,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:8",
+      "before_similarity": 0.95,
+      "after_similarity": 0.926829,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.80597,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:10",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Kings 1:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.807692,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.831169,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:14",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Kings 1:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.682927,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.84058,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.829268,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.88,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.85,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.808989,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.85,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.735294,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.901961,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.754098,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:36",
+      "before_similarity": 1.0,
+      "after_similarity": 0.878049,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:37",
+      "before_similarity": 1.0,
+      "after_similarity": 0.949153,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.881356,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.877193,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:40",
+      "before_similarity": 1.0,
+      "after_similarity": 0.681818,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:41",
+      "before_similarity": 1.0,
+      "after_similarity": 0.779661,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:42",
+      "before_similarity": 1.0,
+      "after_similarity": 0.892857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:43",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Kings 1:44",
+      "before_similarity": 1.0,
+      "after_similarity": 0.836364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:45",
+      "before_similarity": 1.0,
+      "after_similarity": 0.892308,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:46",
+      "before_similarity": 0.952381,
+      "after_similarity": 0.47619,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:47",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:48",
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:49",
+      "before_similarity": 1.0,
+      "after_similarity": 0.64,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:50",
+      "before_similarity": 1.0,
+      "after_similarity": 0.470588,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:51",
+      "before_similarity": 1.0,
+      "after_similarity": 0.794872,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:52",
+      "before_similarity": 1.0,
+      "after_similarity": 0.95082,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 1:53",
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235,
+      "before_identical": true,
+      "after_identical": false
+    }
+  ]
+}

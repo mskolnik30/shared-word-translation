@@ -4,184 +4,138 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## Amnon Desires Tamar
+## Amnon and Tamar
 
 <p>
-v01: After this it happened that Absalom son of David had a beautiful sister whose name was Tamar, and Amnon son of David loved her.
-
-v02: Amnon was so distressed that he made himself sick because of Tamar his sister, for she was a virgin, and it seemed difficult in Amnon’s eyes to do anything to her.
-
-v03: Yet Amnon had a companion whose name was Jonadab son of Shimeah, David’s brother. Jonadab was a very shrewd man.
-
-v04: He said to him, “Why are you, the king’s son, so thin morning after morning? Will you not tell me?” Amnon said to him, “I love Tamar, sister of Absalom my brother.”
-
-v05: Jonadab said to him, “Lie down on your bed and make yourself sick. When your father comes to see you, say to him, ‘Please let Tamar my sister come and give me bread to eat, and let her prepare the food before my eyes so that I may see it and eat from her hand.’”
+v01: After this, David’s son Absalom had a beautiful sister named Tamar, and David’s son Amnon fell in love with her.
+v02: Amnon was so distressed over his sister Tamar that he made himself ill. She was a virgin, and it seemed impossible to him to do anything to her.
 </p>
 
-## Tamar Comes to Amnon
-
 <p>
-v06: So Amnon lay down and made himself sick. When the king came to see him, Amnon said to the king, “Please let Tamar my sister come and make two cakes before my eyes, so that I may eat from her hand.”
-
-v07: Then David sent to Tamar at the house, saying, “Please go to the house of Amnon your brother and prepare food for him.”
-
-v08: So Tamar went to the house of Amnon her brother while he was lying down. She took dough, kneaded it, made cakes before his eyes, and cooked the cakes.
-
-v09: She took the pan and poured them out before him, but he refused to eat. Amnon said, “Send everyone out from me.” So everyone went out from him.
-
-v10: Then Amnon said to Tamar, “Bring the food into the inner room so that I may eat from your hand.” Tamar took the cakes that she had made and brought them to Amnon her brother in the inner room.
+v03: Amnon had a friend named Jonadab, the son of David’s brother Shimeah. Jonadab was a very shrewd man.
+v04: He asked, “Why do you look so worn down every morning, son of the king? Won’t you tell me?” Amnon answered, “I’m in love with Tamar, my brother Absalom’s sister.”
 </p>
 
-## Amnon Violates Tamar
-
 <p>
-v11: When she brought them near to him to eat, he seized her and said to her, “Come, lie with me, my sister.”
-
-v12: She said to him, “No, my brother! Do not humiliate me, for such a thing is not done in Israel. Do not do this disgraceful thing!
-
-v13: I—where could I carry my shame? And you would be like one of the disgraceful fools in Israel. Now therefore, please speak to the king, for he will not withhold me from you.”
-
-v14: But he was not willing to listen to her voice. Being stronger than she, he humiliated her and lay with her.
+v05: Jonadab told him, “Lie down on your bed and pretend to be ill. When your father comes to see you, say, ‘Please let my sister Tamar come and give me something to eat. Let her prepare the food where I can watch, and I’ll eat it from her hand.’”
+v06: So Amnon lay down and pretended to be ill. When the king came to see him, Amnon said, “Please let my sister Tamar come and make two cakes where I can watch. I’ll eat them from her hand.”
 </p>
 
-## Amnon Hates Tamar
-
 <p>
-v15: Then Amnon hated her with a very great hatred, so that the hatred with which he hated her was greater than the love with which he had loved her. Amnon said to her, “Rise, go!”
-
-v16: She said to him, “No! This evil of sending me away is greater than the other that you did to me.” But he was not willing to listen to her.
-
-v17: He called his young man who served him and said, “Please send this woman out from me, outside, and bolt the door behind her.”
-
-v18: She was wearing a long robe with sleeves, for thus the virgin daughters of the king were clothed. His servant brought her outside and bolted the door behind her.
-
-v19: Tamar put ashes on her head and tore the long robe with sleeves that was upon her. She put her hand on her head and went away, crying out as she went.
+v07: David sent word to Tamar at home: “Go to your brother Amnon’s house and prepare food for him.”
+v08: Tamar went to her brother Amnon’s house, where he was lying down. She took dough, kneaded it, shaped cakes in front of him, and cooked them.
+v09: She took the pan and emptied it in front of him, but he refused to eat. “Send everyone away from me,” Amnon said. So everyone left him.
 </p>
 
-## Absalom Takes Tamar into His House
-
 <p>
-v20: Absalom her brother said to her, “Has Amnon your brother been with you? And now, my sister, be silent; he is your brother. Do not set your heart on this matter.” So Tamar remained desolate in the house of Absalom her brother.
-
-v21: When King David heard of all these things, he became very angry.
-
-v22: Absalom spoke to Amnon neither good nor evil, for Absalom hated Amnon because he had humiliated Tamar his sister.
+v10: Then Amnon told Tamar, “Bring the food into the bedroom so I can eat from your hand.” Tamar took the cakes she had made and brought them into the bedroom to her brother Amnon.
+v11: When she brought them close for him to eat, he grabbed her and said, “Come, lie with me, my sister.”
 </p>
 
-## Absalom Plans Revenge
-
 <p>
-v23: After two full years, Absalom had sheep shearers at Baal-Hazor, which is near Ephraim, and Absalom invited all the king’s sons.
-
-v24: Absalom came to the king and said, “Look, your servant has sheep shearers. Please let the king and his servants go with your servant.”
-
-v25: But the king said to Absalom, “No, my son, let us not all go, lest we be a burden upon you.” He pressed him, but he was not willing to go, though he blessed him.
-
-v26: Then Absalom said, “If not, please let Amnon my brother go with us.” The king said to him, “Why should he go with you?”
-
-v27: Yet Absalom pressed him, and he sent Amnon and all the king’s sons with him.
+v12: “No, my brother!” she said. “Do not violate me. Such a thing is not done in Israel. Do not commit this outrage!
+v13: Where could I take my shame? And you would be counted among Israel’s fools. Please speak to the king; he will not withhold me from you.”
 </p>
 
-## Absalom Has Amnon Killed
-
 <p>
-v28: Absalom commanded his young men, saying, “See now, when Amnon’s heart is merry with wine and I say to you, ‘Strike Amnon,’ then put him to death. Do not fear. Have I not commanded you? Be strong and be valiant.”
-
-v29: The young men of Absalom did to Amnon just as Absalom had commanded. Then all the king’s sons arose, and each mounted his mule and fled.
+v14: But he would not listen to her. He overpowered her, violated her, and raped her.
 </p>
 
-## David Hears a False Report
+## Tamar Sent Away
 
 <p>
-v30: While they were on the way, the report came to David, saying, “Absalom has struck all the king’s sons, and not one of them remains.”
-
-v31: Then the king arose, tore his garments, and lay on the ground. All his servants stood by with their clothes torn.
-
-v32: Yet Jonadab son of Shimeah, David’s brother, answered and said, “Let not my lord say that they have put to death all the young men, the king’s sons, for Amnon alone is dead. For by the mouth of Absalom this has been determined from the day he humiliated Tamar his sister.
-
-v33: And now let not my lord the king set this matter upon his heart, saying, ‘All the king’s sons are dead,’ for Amnon alone is dead.”
+v15: Then Amnon hated her with an intense hatred. His hatred was greater than the love he had felt for her. “Get up! Go!” he told her.
+v16: She said, “No! Sending me away is a greater wrong than the other thing you have done to me.” But he would not listen to her.
 </p>
 
-## Absalom Flees
+<p>
+v17: He called the young man who attended him and said, “Put this woman outside, away from me, and bolt the door behind her.”
+v18: She was wearing an ornamented robe, the kind the king’s virgin daughters wore. His attendant put her outside and bolted the door behind her.
+</p>
 
 <p>
-v34: Absalom fled.
+v19: Tamar put ashes on her head and tore the ornamented robe she was wearing. With her hand on her head, she walked away, crying aloud.
+</p>
 
-The young man who kept watch lifted his eyes and looked, and look, many people were coming from the road behind him, by the side of the mountain.
+<p>
+v20: Her brother Absalom asked her, “Has your brother Amnon been with you? For now, my sister, keep quiet. He is your brother; do not take this matter to heart.” So Tamar lived in her brother Absalom’s house, desolate.
+</p>
 
-v35: Jonadab said to the king, “Look, the king’s sons have come. According to the word of your servant, so it has happened.”
+<p>
+v21: When King David heard about all this, he was very angry.
+v22: Absalom said nothing to Amnon, either good or bad. He hated Amnon because he had violated his sister Tamar.
+</p>
 
-v36: And it happened when he finished speaking, look, the king’s sons came. They lifted their voices and wept, and the king and all his servants also wept with a very great weeping.
+## Absalom Kills Amnon
 
-v37: Yet Absalom fled and went to Talmai son of Ammihud, king of Geshur. David mourned for his son all the days.
+<p>
+v23: Two full years later, Absalom had sheepshearers at Baal-hazor, near Ephraim, and invited all the king’s sons.
+</p>
 
-v38: Absalom fled and went to Geshur and was there three years.
+<p>
+v24: Absalom came to the king and said, “Your servant has sheepshearers at work. Please let the king and his servants come with your servant.”
+v25: “No, my son,” the king answered. “We should not all go and burden you.” Absalom pressed him, but David would not go, though he gave him his blessing.
+</p>
 
-v39: The spirit of King David longed to go out to Absalom, for he was comforted concerning Amnon, since he was dead.
+<p>
+v26: Absalom said, “Then please let my brother Amnon come with us.” The king asked, “Why should he go with you?”
+v27: But Absalom pressed him, and he let Amnon and all the king’s sons go with him.
+</p>
+
+<p>
+v28: Absalom instructed his attendants, “Watch for Amnon’s heart to grow merry with wine. When I tell you, ‘Strike Amnon,’ kill him. Do not be afraid. Haven’t I commanded you? Be strong and courageous.”
+v29: Absalom’s attendants did to Amnon just what Absalom had commanded. Then all the king’s sons got up, mounted their mules, and fled.
+</p>
+
+## The Report Reaches David
+
+<p>
+v30: While they were still on the road, word reached David: “Absalom has struck down all the king’s sons. Not one is left.”
+v31: The king got up, tore his clothes, and lay on the ground. All his servants stood nearby with their clothes torn.
+</p>
+
+<p>
+v32: But Jonadab, the son of David’s brother Shimeah, said, “My lord must not think they have killed all the young men, the king’s sons. Only Amnon is dead. Absalom has been set on this since the day Amnon violated his sister Tamar.
+v33: So my lord the king must not take to heart the report that all the king’s sons are dead. Only Amnon is dead.”
+</p>
+
+<p>
+v34: Meanwhile, Absalom had fled. The young man keeping watch looked up and saw a large crowd coming along the road behind him, down the side of the mountain.
+v35: Jonadab told the king, “Look, the king’s sons are coming. It is just as your servant said.”
+</p>
+
+<p>
+v36: As he finished speaking, the king’s sons arrived and began to weep aloud. The king and all his servants also wept bitterly.
+</p>
+
+<p>
+v37: Absalom fled to Talmai son of Ammihud, king of Geshur. David mourned for his son day after day.
+v38: Absalom had fled to Geshur, and he stayed there three years.
+v39: King David longed to go out to Absalom, for he had found comfort over Amnon’s death.
 </p>
 
 ## Notes
 
-v01: Tamar is introduced as Absalom’s sister before being named as Amnon’s object of desire, placing her within the royal household web that will later fracture.
+v12–14: Tamar refuses, calls the proposed act an outrage, and is overpowered. “Raped” makes the forced intercourse explicit. Her appeal to speak with the king is not a narrator’s ruling that the proposed marriage was permitted.
 
-v02: Amnon’s “love” is immediately shown to be self-focused desire. The narrative’s later contrast between love and hatred exposes that he does not seek Tamar’s good.
+v18–19: The robe’s Hebrew expression also occurs in Joseph’s story. Its exact design is uncertain; long sleeves and ornamentation are possible understandings.
 
-v05: Jonadab’s shrewdness is morally corrupt. He uses insight to devise a setting in which Tamar can be isolated.
+v20–22: Absalom’s instruction to keep quiet is his response, not advice to the reader. Tamar remains desolate. The pinned text reports David’s anger but gives no further action by him here.
 
-v12: Tamar names the act as humiliation and a “disgraceful thing” in Israel. Her speech provides the chapter’s clearest moral interpretation before the assault occurs.
+v30–33: The first report says all the sons died; Jonadab corrects it. The narrative preserves the inaccurate report as a report.
 
-v13: Tamar’s proposal that Amnon ask the king may be a desperate attempt to prevent immediate violence rather than evidence that such sibling marriage would actually have been lawful.
-
-v14: The Hebrew says Amnon was stronger than Tamar and “humiliated” her. TSW retains the direct power imbalance and does not euphemize the rape.
-
-v15: Amnon’s hatred exceeds his previous “love,” revealing the destructive character of possessive desire once it has taken what it wanted.
-
-v18: The exact design of Tamar’s garment is uncertain. The Hebrew describes a distinctive robe worn by virgin royal daughters; “long robe with sleeves” is a conventional rendering.
-
-v20: Absalom’s instruction to be silent may be intended as immediate protection or emotional containment, but it also leaves Tamar without public justice. She is said to remain “desolate.”
-
-v21: David becomes angry but the Masoretic Text records no action. Some ancient witnesses add that he did not punish Amnon because he loved him as firstborn. TSW follows the Masoretic Text and notes the shorter form.
-
-v22: Absalom’s silence toward Amnon is not forgiveness; the narrator explicitly says he hates him.
-
-v23–29: Absalom waits two years and then uses a festive setting and intoxication to arrange Amnon’s death, echoing the use of deception in Tamar’s assault.
-
-v32: Jonadab, who designed the circumstances of Tamar’s rape, now displays remarkable knowledge of Absalom’s long-standing intent.
-
-v37: Geshur is the homeland of Absalom’s mother Maacah, making his maternal grandfather Talmai a natural refuge.
-
-v39: The Hebrew syntax is difficult and can be understood either as David longing to go to Absalom or as David’s hostility toward Absalom being exhausted. TSW follows the longing sense while noting the ambiguity.
+v39: The Hebrew construction is incomplete. The draft understands an implied longing to go to Absalom. Another possible sense is that David ceased going out against him. The direction of the king’s heart in 14:1 is also open to interpretation.
 
 ## Vocabulary
 
-v02: צָרַר (tsarar)
-“To be distressed” or “constricted.” Amnon becomes inwardly sick with desire.
+v12: Outrage
+A disgraceful violation of the community’s moral order.
 
-v03: חָכָם (chakham)
-“Wise” or “shrewd.” Jonadab’s intelligence is used manipulatively.
-
-v12: נָבָלָה (nevalah)
-“Disgraceful thing.” A grave violation of Israel’s moral order.
-
-v14: עָנָה (anah)
-“To humiliate” or “violate.” Used of Amnon’s sexual assault of Tamar.
-
-v15: שָׂנֵא (sane)
-“To hate.” Amnon’s response after violating Tamar.
-
-v18: פַּסִּים (passim)
-“A garment term of uncertain meaning, traditionally “long robe with sleeves.”.”
-
-v19: אֵפֶר (efer)
-“Ashes.” Tamar places them on her head in grief.
-
-v20: שָׁמֵם (shamem)
-“To be desolate.” Tamar’s condition in Absalom’s house.
-
-v28: חָזַק (chazaq)
-“To be strong.” Absalom exhorts his servants before murder.
-
-v39: כָּלָה (kalah)
-“To be spent,” “long,” or “come to an end.” A difficult verb in David’s response toward Absalom.
+v28: Be strong and courageous
+A familiar encouragement formula placed here in Absalom’s order to kill.

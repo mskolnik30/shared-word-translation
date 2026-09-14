@@ -4,172 +4,137 @@ testament: OT
 chapter: 15
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## Absalom Steals the Hearts of Israel
+## Absalom Wins Support
 
 <p>
-v01: After this Absalom prepared for himself a chariot and horses and fifty men running before him.
-
-v02: Absalom would rise early and stand beside the way of the gate. Whenever any man had a dispute to come before the king for judgment, Absalom would call to him and say, “From what city are you?” He would say, “Your servant is from one of the tribes of Israel.”
-
-v03: Absalom would say to him, “See, your matters are good and right, but there is no one appointed by the king to hear you.”
-
-v04: Absalom would say, “Who will make me judge in the land, so that every man who has a dispute or case may come to me, and I would give him justice!”
-
-v05: And whenever a man came near to bow down to him, he would stretch out his hand, take hold of him, and kiss him.
-
-v06: Absalom did this to all Israel who came to the king for judgment. So Absalom stole the heart of the men of Israel.
+v01: After this, Absalom provided himself with a chariot and horses, and fifty men to run ahead of him.
 </p>
 
-## Absalom Announces His Rebellion
-
 <p>
-v07: At the end of forty years Absalom said to the king, “Please let me go and pay my vow that I vowed to the LORD in Hebron.
-
-v08: For your servant vowed a vow while I lived at Geshur in Aram, saying, ‘If the LORD will indeed bring me back to Jerusalem, then I will serve the LORD.’”
-
-v09: The king said to him, “Go in peace.” So he arose and went to Hebron.
-
-v10: Yet Absalom sent spies throughout all the tribes of Israel, saying, “When you hear the sound of the ram’s horn, then say, ‘Absalom has become king in Hebron!’”
-
-v11: With Absalom went two hundred men from Jerusalem who were invited and went in their innocence, knowing nothing of the matter.
-
-v12: Absalom sent for Ahithophel the Gilonite, David’s counselor, from his city Giloh while he was offering sacrifices. The conspiracy became strong, and the people with Absalom kept increasing.
+v02: He would rise early and stand beside the road to the gate. Whenever a man had a dispute to bring before the king for judgment, Absalom would call to him, “What town are you from?” The man would answer, “Your servant belongs to one of Israel’s tribes.”
+v03: Absalom would tell him, “Look, your claims are good and right, but the king has no one to hear you.”
+v04: Then Absalom would say, “If only someone would make me judge in the land! Everyone with a dispute or claim could come to me, and I would give him justice.”
 </p>
 
-## David Flees Jerusalem
-
 <p>
-v13: A messenger came to David, saying, “The heart of the men of Israel has gone after Absalom.”
-
-v14: David said to all his servants who were with him in Jerusalem, “Rise, and let us flee, for otherwise there will be no escape for us from Absalom. Hurry to go, lest he hurry and overtake us and bring evil upon us and strike the city with the edge of the sword.”
-
-v15: The king’s servants said to the king, “According to all that my lord the king chooses, look, your servants are ready.”
-
-v16: So the king went out, and all his household after him. But the king left ten concubines to keep the house.
-
-v17: The king went out, and all the people after him, and they stopped at the last house.
+v05: Whenever a man approached to bow before him, Absalom would reach out, take hold of him, and kiss him.
+v06: Absalom did this to all the Israelites who came to the king for judgment. In this way he stole the hearts of the men of Israel.
 </p>
 
-## The Gittites Follow David
+## Absalom Proclaimed King
 
 <p>
-v18: All his servants passed by beside him, and all the Cherethites and all the Pelethites and all the Gittites, six hundred men who had followed him from Gath, passed by before the king.
-
-v19: Then the king said to Ittai the Gittite, “Why should you also go with us? Return and remain with the king, for you are a foreigner and also an exile from your own place.
-
-v20: You came only yesterday, and today should I make you wander with us when I am going wherever I may go? Return and take your brothers back with you. Steadfast love and faithfulness be with you.”
-
-v21: Yet Ittai answered the king and said, “As the LORD lives and as my lord the king lives, surely in whatever place my lord the king will be, whether for death or for life, there also your servant will be.”
-
-v22: David said to Ittai, “Go and cross over.” So Ittai the Gittite crossed over, and all his men and all the little children who were with him.
+v07: At the end of forty years, Absalom said to the king, “Please let me go to Hebron and fulfill the vow I made to the LORD.
+v08: While your servant was living in Geshur in Aram, I made this vow: ‘If the LORD indeed brings me back to Jerusalem, I will worship the LORD.’”
+v09: The king told him, “Go in peace.” So he left for Hebron.
 </p>
 
-## David Crosses the Kidron
-
 <p>
-v23: All the land wept with a loud voice as all the people crossed over. The king crossed the Wadi Kidron, and all the people crossed over toward the way of the wilderness.
+v10: But Absalom sent secret messengers through all Israel’s tribes, saying, “When you hear the ram’s horn, announce, ‘Absalom is king in Hebron!’”
 </p>
 
-## David Sends the Ark Back to Jerusalem
-
 <p>
-v24: And look, Zadok also came, and all the Levites with him carrying the ark of the covenant of God. They set down the ark of God, and Abiathar went up until all the people had finished passing out of the city.
-
-v25: The king said to Zadok, “Return the ark of God to the city. If I find favor in the eyes of the LORD, he will bring me back and let me see it and its dwelling place.
-
-v26: But if he says thus, ‘I have no delight in you,’ look, here I am. Let him do to me as is good in his eyes.”
-
-v27: The king also said to Zadok the priest, “Are you not a seer? Return to the city in peace, and your two sons with you: Ahimaaz your son and Jonathan son of Abiathar.
-
-v28: See, I will wait at the fords of the wilderness until a word comes from you to inform me.”
-
-v29: So Zadok and Abiathar returned the ark of God to Jerusalem and remained there.
+v11: Two hundred men from Jerusalem went with Absalom as invited guests. They went innocently, knowing nothing of the affair.
+v12: While offering sacrifices, Absalom sent for David’s adviser Ahithophel the Gilonite from his town of Giloh. The conspiracy grew strong, and more and more people joined Absalom.
 </p>
 
-## David Weeps on the Mount of Olives
+## David Leaves Jerusalem
 
 <p>
-v30: David went up the ascent of the Mount of Olives, going and weeping. His head was covered, and he walked barefoot. All the people who were with him each covered his head, and they went up, going and weeping.
-
-v31: It was told to David, saying, “Ahithophel is among the conspirators with Absalom.” David said, “O LORD, please turn the counsel of Ahithophel into foolishness.”
+v13: A messenger came to David and said, “The hearts of the men of Israel have gone after Absalom.”
+v14: David told all his servants with him in Jerusalem, “Get up! We must flee, or none of us will escape Absalom. Hurry, before he overtakes us, brings disaster on us, and strikes the city with the edge of the sword.”
+v15: The king’s servants answered, “Your servants are ready to do whatever my lord the king chooses.”
 </p>
 
-## Hushai Is Sent Back to Jerusalem
+<p>
+v16: The king left, with his whole household following him. He left ten women, his concubines, to look after the house.
+v17: The king set out with all the people following him, and they stopped at the last house.
+</p>
 
 <p>
-v32: It happened when David came to the summit, where God was worshiped, look, Hushai the Archite came to meet him with his robe torn and dirt upon his head.
+v18: All his servants passed beside him. All the Cherethites and Pelethites, and all six hundred Gittites who had followed him from Gath, passed in front of the king.
+</p>
 
-v33: David said to him, “If you cross over with me, you will be a burden to me.
+<p>
+v19: The king said to Ittai the Gittite, “Why should you go with us too? Go back and stay with the king. You are a foreigner, an exile from your own place.
+v20: You arrived only yesterday. Should I make you wander with us today, when I myself do not know where I am going? Go back and take your brothers with you. May steadfast love and faithfulness be with you.”
+</p>
 
-v34: But if you return to the city and say to Absalom, ‘I will be your servant, O king; as I was your father’s servant in the past, so now I will be your servant,’ then you can frustrate for me the counsel of Ahithophel.
+<p>
+v21: Ittai answered the king, “As the LORD lives, and as my lord the king lives, wherever my lord the king may be, whether for death or for life, your servant will be there too.”
+</p>
 
-v35: Are not Zadok and Abiathar the priests there with you? So whatever word you hear from the king’s house, tell it to Zadok and Abiathar the priests.
+<p>
+v22: David told Ittai, “Go on, then. Cross over.” So Ittai the Gittite crossed over with all his men and all the children with him.
+v23: The whole land wept aloud as all the people passed by. The king crossed the Kidron Valley, and all the people crossed toward the road into the wilderness.
+</p>
 
-v36: Look, their two sons are there with them, Ahimaaz son of Zadok and Jonathan son of Abiathar. By their hand you will send to me everything that you hear.”
+## The Ark Returns to the City
 
-v37: So Hushai, David’s companion, came into the city just as Absalom was entering Jerusalem.
+<p>
+v24: Zadok was there too, with all the Levites carrying the ark of God’s covenant. They set down the ark of God, and Abiathar came up, until all the people had finished leaving the city.
+</p>
+
+<p>
+v25: The king told Zadok, “Take the ark of God back to the city. If I find favor in the LORD’s eyes, he will bring me back and let me see it and its dwelling again.
+v26: But if he says, ‘I take no pleasure in you,’ here I am. Let him do to me what is good in his eyes.”
+</p>
+
+<p>
+v27: The king also said to Zadok the priest, “Are you not a seer? Return to the city in peace. Take your two sons with you: your son Ahimaaz and Abiathar’s son Jonathan.
+v28: Look, I will wait in the wilderness plains until word comes from you to inform me.”
+</p>
+
+<p>
+v29: So Zadok and Abiathar took the ark of God back to Jerusalem and stayed there.
+</p>
+
+## David Sends Hushai Back
+
+<p>
+v30: David climbed the ascent of the Mount of Olives, weeping as he went, his head covered and his feet bare. Everyone with him covered his head and climbed, weeping.
+v31: David was told, “Ahithophel is among the conspirators with Absalom.” David said, “Please, LORD, turn Ahithophel’s counsel into foolishness.”
+</p>
+
+<p>
+v32: When David reached the summit, where God was worshiped, Hushai the Archite met him with his tunic torn and dirt on his head.
+</p>
+
+<p>
+v33: David told him, “If you cross over with me, you will be a burden to me.
+v34: But if you return to the city and tell Absalom, ‘I will be your servant, O king; I was your father’s servant before, but now I am yours,’ you can frustrate Ahithophel’s counsel for me.
+v35: Won’t the priests Zadok and Abiathar be there with you? Tell them everything you hear from the king’s house.
+v36: Their two sons are there with them: Zadok’s son Ahimaaz and Abiathar’s son Jonathan. Send me everything you hear through them.”
+v37: So Hushai, David’s friend, entered the city as Absalom was entering Jerusalem.
 </p>
 
 ## Notes
 
-v01: Chariot, horses, and fifty runners create visible royal spectacle. Absalom begins acting like a king before formally claiming the throne.
+v07: The pinned Hebrew says forty years. It does not identify the starting point. This draft retains the number instead of silently replacing it with four.
 
-v02–06: Absalom’s strategy combines accessibility, criticism of the royal justice system, promises of fair judgment, touch, and public affection. He “steals” Israel’s hearts through political performance.
+v17: “The last house” may instead designate a place called Beth-merhak.
 
-v07: The Masoretic Text reads “forty years,” which is chronologically difficult within David’s reign. Some ancient witnesses read “four years.” TSW follows the Masoretic Text and records the major variant.
+v19–21: Ittai is a foreigner and exile. David offers release from following him; Ittai’s reply is a pledge extending to death.
 
-v08: Absalom uses a vow to the LORD as the public reason for traveling to Hebron, while the narrative identifies the trip as the launch of rebellion.
+v24: The source says Abiathar “came up.” It does not explicitly say he offered sacrifices at this point.
 
-v09: David’s “Go in peace” becomes painfully ironic because Hebron was also the city where David himself was first anointed king.
+v27–28: “Are you not a seer?” is difficult; it can also be taken as an appeal to see or understand. Verse 28 follows the read “plains”; the written form refers to crossings.
 
-v11: Two hundred invited men accompany Absalom “in innocence,” showing how conspiracy can gather apparent support from people unaware of its purpose.
-
-v12: Ahithophel’s defection is especially dangerous because he has been David’s counselor and his advice carries extraordinary authority.
-
-v16: David leaves ten concubines to keep the palace. Their presence later becomes central to Absalom’s public assertion of kingship.
-
-v19–22: David gives Ittai a genuine opportunity to leave because he is a recent foreign exile. Ittai answers with covenant-like loyalty “for death or for life.”
-
-v25–26: David refuses to use the ark as a talisman guaranteeing his restoration. He entrusts his future to whether he finds favor with the LORD.
-
-v27: The phrase translated “Are you not a seer?” is textually difficult and may be a question or imperative related to seeing. TSW follows the traditional reading.
-
-v30: David’s barefoot, covered-head ascent is public mourning and humiliation as he leaves the royal city.
-
-v31: Rather than ask for Ahithophel’s death, David prays that his counsel be turned into foolishness.
-
-v34–36: Hushai, priests, and their sons form an intelligence network within Jerusalem, blending political strategy with David’s continuing dependence on divine outcome.
+v34–37: David gives Hushai a proposed profession of allegiance and a route for sending news. Hushai’s actual answer to Absalom is narrated in chapter 16.
 
 ## Vocabulary
 
-v01: מֶרְכָּבָה (merkavah)
-“Chariot.” A visible symbol of royal status.
+v06: Stole the hearts
+The narrator’s description of Absalom winning the people’s allegiance.
 
-v02: מִשְׁפָּט (mishpat)
-“Judgment” or “justice.” The legal access Absalom claims to provide.
+v18: Cherethites and Pelethites
+Named groups serving in David’s guard.
 
-v06: גָּנַב לֵב (ganav lev)
-“To steal the heart.” To win allegiance deceptively.
-
-v08: נֶדֶר (neder)
-“Vow.” Absalom’s stated religious reason for going to Hebron.
-
-v10: שׁוֹפָר (shofar)
-“Ram’s horn.” The signal proclaiming Absalom king.
-
-v12: קֶשֶׁר (qesher)
-“Conspiracy.” The organized rebellion.
-
-v20: חֶסֶד וֶאֱמֶת (ḥesed ve-emet)
-“Steadfast love and faithfulness.” David’s blessing to Ittai.
-
-v25: חֵן (chen)
-“Favor.” David’s hope before the LORD.
-
-v30: יָחֵף (yachef)
-“Barefoot.” A sign of mourning and humiliation.
-
-v34: פָּרַר (parar)
-“To frustrate” or “break.” Hushai is to disrupt Ahithophel’s counsel.
+v25: Favor in the LORD’s eyes
+David makes his return conditional on the LORD’s favor, not possession of the ark.

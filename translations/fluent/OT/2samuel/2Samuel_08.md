@@ -4,118 +4,72 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 ---
 
-## David Defeats the Philistines and Moabites
+## David’s Victories
 
 <p>
-v01: After this David struck the Philistines and subdued them, and David took Metheg-Ammah from the hand of the Philistines.
-
-v02: He struck Moab and measured them with a cord, making them lie down on the ground. He measured two cords to put to death and one full cord to keep alive. So the Moabites became servants to David and brought tribute.
+v01: After this David defeated the Philistines and brought them under his rule. He took Metheg-ammah out of their hands.
+v02: He also defeated Moab. He made the people lie on the ground and measured them with a cord: two cord-lengths for death and one full cord-length for life. The Moabites became David’s subjects and brought tribute.
 </p>
 
-## David Defeats Hadadezer
-
 <p>
-v03: David struck Hadadezer son of Rehob, king of Zobah, when he went to restore his power at the Euphrates River.
-
-v04: David captured from him one thousand seven hundred horsemen and twenty thousand foot soldiers. David hamstrung all the chariot horses but left enough for one hundred chariots.
-
-v05: When Aram of Damascus came to help Hadadezer king of Zobah, David struck twenty-two thousand men of Aram.
-
-v06: David put garrisons in Aram of Damascus, and the Arameans became servants to David and brought tribute. The LORD gave David victory wherever he went.
-
-v07: David took the gold shields that were on the servants of Hadadezer and brought them to Jerusalem.
-
-v08: From Betah and Berothai, cities of Hadadezer, King David took very much bronze.
+v03: David defeated Hadadezer son of Rehob, king of Zobah, as he went to reestablish his power at the Euphrates River.
+v04: David captured seventeen hundred horsemen and twenty thousand foot soldiers. He hamstrung the chariot horses, keeping only enough for a hundred chariots.
 </p>
 
-## Toi Sends Gifts to David
-
 <p>
-v09: When Toi king of Hamath heard that David had struck all the army of Hadadezer,
-
-v10: Toi sent Joram his son to King David to ask about his well-being and to bless him because he had fought against Hadadezer and struck him, for Hadadezer had been a man of wars against Toi. In his hand were vessels of silver, vessels of gold, and vessels of bronze.
-
-v11: King David also consecrated these to the LORD, with the silver and gold that he had consecrated from all the nations he had subdued:
-
-v12: from Aram, Moab, the children of Ammon, the Philistines, Amalek, and from the spoil of Hadadezer son of Rehob, king of Zobah.
+v05: When the Arameans of Damascus came to help King Hadadezer of Zobah, David struck down twenty-two thousand of them.
+v06: David stationed garrisons in Aram of Damascus, and the Arameans became his subjects and brought tribute. The LORD gave David victory wherever he went.
+v07: David took the gold shields carried by Hadadezer’s servants and brought them to Jerusalem.
+v08: From Betah and Berothai, Hadadezer’s towns, King David took a vast quantity of bronze.
 </p>
 
-## David Makes a Name
-
 <p>
-v13: David made a name when he returned from striking eighteen thousand Arameans in the Valley of Salt.
-
-v14: He put garrisons in Edom. Throughout all Edom he put garrisons, and all the Edomites became servants to David. The LORD gave David victory wherever he went.
+v09: When King Toi of Hamath heard that David had defeated Hadadezer’s whole army,
+v10: he sent his son Joram to greet King David and congratulate him on fighting and defeating Hadadezer. Hadadezer had been at war with Toi. Joram brought articles of silver, gold, and bronze.
 </p>
 
-## David Administers Justice
+<p>
+v11: King David dedicated these to the LORD, along with the silver and gold he had dedicated from all the nations he subdued:
+v12: Aram, Moab, Ammon, the Philistines, and Amalek, as well as the plunder of Hadadezer son of Rehob, king of Zobah.
+</p>
 
 <p>
-v15: David reigned over all Israel, and David was doing justice and righteousness for all his people.
+v13: David made a name for himself when he returned from striking down eighteen thousand Arameans in the Valley of Salt.
+v14: He placed garrisons in Edom—throughout Edom—and all the Edomites became David’s subjects. The LORD gave David victory wherever he went.
+</p>
 
-v16: Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was recorder;
+## David’s Officials
 
-v17: Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was scribe;
-
-v18: Benaiah son of Jehoiada was over the Cherethites and the Pelethites, and David’s sons were priests.
+<p>
+v15: David ruled over all Israel, administering justice and righteousness for all his people.
+v16: Joab son of Zeruiah commanded the army. Jehoshaphat son of Ahilud was the recorder.
+v17: Zadok son of Ahitub and Ahimelech son of Abiathar were priests. Seraiah was the scribe.
+v18: Benaiah son of Jehoiada was over the Cherethites and Pelethites, and David’s sons were priests.
 </p>
 
 ## Notes
 
-v01: “Metheg-Ammah” is a difficult place-name or phrase. 1 Chronicles 18:1 identifies Gath and its villages. TSW preserves Samuel’s wording.
+v01: Metheg-ammah is retained as a name. The expression can also be understood as “the bridle of the mother city”; its exact reference is uncertain.
 
-v02: David’s treatment of Moab is severe and unusual, with two measured groups put to death and one spared. The narrative does not explain the reason, and TSW does not attempt to justify the violence.
+v03–04: The read tradition supplies “Euphrates,” absent from the written line. The source gives seventeen hundred horsemen and twenty thousand foot soldiers.
 
-v03: The exact meaning of Hadadezer’s effort “to restore his power” at the Euphrates is uncertain; it may refer to reestablishing a monument, border, or military control.
+v12–14: The pinned text says Aram in verse 12 and Arameans in verse 13, followed by Edom in verse 14. The draft preserves the sequence.
 
-v04: The Masoretic Text reads 1,700 horsemen, while 1 Chronicles 18:4 and some ancient witnesses read 7,000. TSW follows the Masoretic figure and records the variant.
-
-v04: Hamstringing horses prevents their future use in war. David retains only enough for one hundred chariots.
-
-v06, v14: The repeated theological refrain is that the LORD gives David victory wherever he goes, interpreting imperial expansion under divine favor.
-
-v10: Joram’s visit turns one foreign king’s conflict with Hadadezer into diplomatic alliance with David.
-
-v11: War spoils are consecrated to the LORD rather than kept solely as royal wealth.
-
-v13: The Masoretic Text says Arameans, while 1 Chronicles 18:12 associates the Valley of Salt victory with Edomites. The following verse concerns Edom. TSW preserves the Masoretic reading and notes the tension.
-
-v15: The chapter’s summary of conquest ends with justice and righteousness for “all his people,” presenting internal governance as part of kingship.
-
-v17: The priestly names differ from some parallel lists and may reflect textual transmission or multiple offices. TSW preserves Samuel’s form.
-
-v18: Calling David’s sons “priests” is surprising because they are not Levites. The Hebrew *kohanim* can sometimes denote high royal officials, though priest is its ordinary meaning. TSW retains “priests” and notes the issue.
+v17–18: The source names Ahimelech son of Abiathar and calls David’s sons “priests.” It does not explain their duties here.
 
 ## Vocabulary
 
-v01: כָּנַע (kana)
-“To subdue.” David brings Philistine power under control.
+v02: Tribute
+Goods paid to an overlord by a subject people.
 
-v02: חֶבֶל (chevel)
-“Cord” or measuring line. Used in the grim division of Moabite captives.
+v04: Hamstrung
+Disabled the horses by cutting the tendons of their hind legs.
 
-v02: מִנְחָה (minchah)
-“Tribute” or offering. Payment brought by subject peoples.
-
-v04: עִקֵּר (iqqer)
-“To hamstring.” To disable war horses.
-
-v06: מַצָּב (matstsav)
-“Garrison” or military post.
-
-v06: יָשַׁע (yasha)
-“To give victory” or save. The LORD grants David success.
-
-v11: קָדַשׁ (qadash)
-“To consecrate.” David dedicates captured wealth to the LORD.
-
-v15: מִשְׁפָּט (mishpat)
-“Justice.” Right governance.
-
-v15: צְדָקָה (tsedaqah)
-“Righteousness.” Right ordering and conduct.
-
-v18: כֹּהֵן (kohen)
-“Priest,” possibly high official in this unusual royal context.
+v15: Justice and righteousness
+A paired description of the king’s responsibility to govern rightly.

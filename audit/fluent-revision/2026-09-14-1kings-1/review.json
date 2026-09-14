@@ -1,0 +1,57 @@
+{
+  "revision_id": "fluent-1kings-1-biblical-fluency-2026-09-14",
+  "scope": "1 Kings 1, all 53 public verses.",
+  "status": "REVIEW_PENDING",
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "publication_allowed": false,
+  "method": [
+    "Read every selected original pinned Hebrew verse and its written/read and other annotations before composing English.",
+    "Compose a connected reading voice, retaining source meaning, literary form, gender-specific relationships, ancient imagery, meaningful repetitions and consequential uncertainty.",
+    "Read every TSW comparator after drafting; compare at verse level and revise draft overinterpretations. No mechanical synonym substitution or overlap quota.",
+    "Record individual before/after text, rationale, F0–F3 editorial choice, exact original source-verse hash and comparator for every verse.",
+    "Reread selected source/English difficulties as an authoring check; independent editorial review and reader testing have not occurred."
+  ],
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "1Kgs",
+    "book_verse_count": 817,
+    "scope_chapters": [
+      1
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e",
+    "sha256": "85c7242254c8096d4a0ec59f8fd232bc663067eb20b361c16275061273d30503",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/1Kgs.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "public_versification_note": "1 Kings 1: all 53 public verses bind one-to-one to matching Hebrew records."
+  },
+  "comparison": {
+    "before": {
+      "verses": 53,
+      "identical_words": 51,
+      "near_identical": 2,
+      "mean_word_similarity": 0.998158
+    },
+    "after": {
+      "verses": 53,
+      "identical_words": 3,
+      "near_identical": 7,
+      "mean_word_similarity": 0.798899
+    }
+  },
+  "comparison_limit": "Normalized whole-verse overlap is triage, not evidence by itself of fidelity, originality or comprehension. Shared clear wording remains where appropriate.",
+  "verification": "audit/fluent-revision/2026-09-14-2samuel-6-24/verification.json",
+  "reproduce_verification": "python3 audit/fluent-revision/2026-09-14-2samuel-6-24/verify_batch.py --source-directory /path/to/source-files",
+  "companion_impact": "All changed chapter quotations, hashes and reference bindings need reconciliation in a later authorized Companion installation; the separate Companion branch was not modified.",
+  "whole_book_consistency": "Whole-book 1 Samuel and 2 Samuel authoring passes remain queued; this twenty-chapter draft and focused reread do not substitute for those passes.",
+  "independent_review_priority": [
+    "1:4: care distinguished from sexual relations; 1:6: birth sequence without an invented shared mother.",
+    "1:13,17,24–27: reports, questions and oaths attributed to their speakers; 1:27,47 read forms retained.",
+    "1:39,45: Zadok’s actual anointing and Jonathan’s report of Zadok and Nathan remain distinct.",
+    "1:50–53: altar horns and Solomon’s conditional response do not become an unconditional oath."
+  ]
+}
