@@ -7,7 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision: fluent-joshua-1-8-biblical-fluency-2026-09-14
+revision: fluent-joshua-consistency-2026-09-14
 ---
 
 ## The LORD commissions Joshua
@@ -18,7 +18,7 @@ v02: “My servant Moses is dead. Now get up and cross this Jordan, you and all 
 v03: I have given you every place the sole of your foot steps on, just as I promised Moses.
 v04: Your territory will stretch from the wilderness and this Lebanon to the great river, the Euphrates—all the land of the Hittites—and to the Great Sea in the west.
 v05: No one will be able to stand against you as long as you live. As I was with Moses, I will be with you. I will not let you go or abandon you.
-v06: Be strong and courageous, for you will lead these people into possession of the land I swore to their ancestors to give them.
+v06: Be strong and courageous, for you will give these people their inheritance—the land I swore to their ancestors to give them.
 </p>
 
 ## Keep the instruction

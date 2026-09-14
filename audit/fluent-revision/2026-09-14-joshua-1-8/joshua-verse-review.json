@@ -37,7 +37,7 @@
       "verse_count": 18,
       "path": "translations/fluent/OT/joshua/Joshua_01.md",
       "before_sha256": "d9a4c3a267c9f8c299549410677decc06c99e80f958bcb1a66467c6172e015ab",
-      "after_sha256": "4e30a77d3d575ddfd85825930e2413ea79d51d0351b274ec9d7e0daf11000959",
+      "after_sha256": "91b6a63f9d7de72a9a273cbc47f04e88f40aab51f3e64f357d428a97b489ed55",
       "tsw_comparator_path": "books/OT/joshua/Joshua_01.md",
       "tsw_comparator_sha256": "6d1725d3983f892806ee545c451b6a3f149df0ce16ec92864a83a37c31b1218d"
     },
@@ -174,15 +174,26 @@
     {
       "reference": "Joshua 1:6",
       "delta": "F2",
-      "rationale": "Connects courage to the causative inheritance task and the ancestral oath.",
+      "rationale": "Connects courage to the causative inheritance task and the ancestral oath. Consistency refinement: Renders the causative inherit verb with inheritance explicitly, making the opening commission connect with the repeated inheritance language in the allotments. Joshua remains the agent who distributes the LORD’s promised gift; the oath and recipients remain.",
       "source_reference": "Josh 1:6",
       "source_verse_sha256": "9aa56871838581a48c115476915232abd2641c2acaaf467d0de843a8b29712cc",
       "before": "Be strong and courageous, for you will cause this people to inherit the land that I swore to their ancestors to give them.",
-      "after": "Be strong and courageous, for you will lead these people into possession of the land I swore to their ancestors to give them.",
+      "after": "Be strong and courageous, for you will give these people their inheritance—the land I swore to their ancestors to give them.",
       "tsw_comparator": "Be strong and courageous, for you shall cause this people to inherit the land that I swore to their ancestors to give them.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.73913,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.755556,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-joshua-consistency-2026-09-14",
+          "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+          "prior_after": "Be strong and courageous, for you will lead these people into possession of the land I swore to their ancestors to give them.",
+          "prior_delta": "F2",
+          "prior_rationale": "Connects courage to the causative inheritance task and the ancestral oath.",
+          "refinement_delta": "F2",
+          "rationale": "Renders the causative inherit verb with inheritance explicitly, making the opening commission connect with the repeated inheritance language in the allotments. Joshua remains the agent who distributes the LORD’s promised gift; the oath and recipients remain."
+        }
+      ]
     },
     {
       "reference": "Joshua 1:7",
@@ -2544,5 +2555,15 @@
       "F3": 47,
       "F0": 1
     }
-  }
+  },
+  "consistency_revisions": [
+    {
+      "id": "fluent-joshua-consistency-2026-09-14",
+      "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+      "report": "audit/fluent-revision/2026-09-14-joshua-consistency/review.json",
+      "changed_references": [
+        "Joshua 1:6"
+      ]
+    }
+  ]
 }

@@ -7,14 +7,14 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision: fluent-joshua-18-24-biblical-fluency-2026-09-14
+revision: fluent-joshua-consistency-2026-09-14
 ---
 
 ## Joshua’s farewell charge
 
 <p>
 v01: A long time had passed since the LORD gave Israel rest from all their surrounding enemies. Joshua was old, advanced in years.
-v02: He summoned all Israel—its elders, heads, judges, and officials—and told them, “I am old, advanced in years.
+v02: He summoned all Israel—its elders, heads, judges, and officers—and told them, “I am old, advanced in years.
 v03: You have seen everything the LORD your God has done to all these nations before you. It is the LORD your God who has fought for you.
 v04: Look, I have allotted these remaining nations to your tribes as an inheritance, together with all the nations I cut off, from the Jordan to the Great Sea toward the sunset.
 v05: The LORD your God himself will push them back and drive them out before you. You will take possession of their land, as the LORD your God promised you.

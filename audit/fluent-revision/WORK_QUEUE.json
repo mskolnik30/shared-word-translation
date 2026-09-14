@@ -245,10 +245,6 @@
   ],
   "next_work": [
     {
-      "scope": "Joshua whole-book consistency review",
-      "action": "Complete source-based authoring consistency review across all 24 chapters. Check names, totals, boundary ambiguities, recurring inheritance, rest, instruction, serve, witness and conquest/remaining-peoples language; rebind any changed earlier text and keep independent review pending."
-    },
-    {
       "scope": "Judges 1–5",
       "action": "Verify the repository-pinned Hebrew attribution before beginning the next book. Draft complete connected chapters from that source, preserving prose and poetry, gender, violence, ambiguity and meaningful repetition."
     }
@@ -288,6 +284,11 @@
       "scope": "Deuteronomy 1–34",
       "report": "audit/fluent-revision/2026-09-13-deuteronomy-consistency/review.json",
       "qualification": "Whole-book structural scan and 250 selected source/English comparisons; five verse refinements in three chapters, affected ledger rebound; independent scholarly review and reader testing pending."
+    },
+    {
+      "scope": "Joshua 1–24",
+      "report": "audit/fluent-revision/2026-09-14-joshua-consistency/review.json",
+      "qualification": "Whole-book structural scan, all 658 English verses read and 200 selected source/English comparisons; three verse refinements in three chapters, affected ledger rebound; independent scholarly review and reader testing pending."
     }
   ],
   "batch_preference": "Matt explicitly requested larger batches on 2026-09-13. Aim for connected scopes of roughly 150–250 verses where feasible, preserving every-source-verse reading, verse-specific rationale and complete-chapter checks."

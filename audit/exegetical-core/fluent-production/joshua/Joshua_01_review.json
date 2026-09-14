@@ -39,7 +39,7 @@
     "verse_count": 18,
     "path": "translations/fluent/OT/joshua/Joshua_01.md",
     "before_sha256": "d9a4c3a267c9f8c299549410677decc06c99e80f958bcb1a66467c6172e015ab",
-    "after_sha256": "4e30a77d3d575ddfd85825930e2413ea79d51d0351b274ec9d7e0daf11000959",
+    "after_sha256": "91b6a63f9d7de72a9a273cbc47f04e88f40aab51f3e64f357d428a97b489ed55",
     "tsw_comparator_path": "books/OT/joshua/Joshua_01.md",
     "tsw_comparator_sha256": "6d1725d3983f892806ee545c451b6a3f149df0ce16ec92864a83a37c31b1218d"
   },
@@ -65,6 +65,26 @@
       "delta": "F3",
       "decision": "Retains the lethal sanction in the people’s speech and their repetition of the commission refrain.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "consistency_revisions": [
+    {
+      "id": "fluent-joshua-consistency-2026-09-14",
+      "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+      "prior_chapter_binding": {
+        "chapter": 1,
+        "verse_count": 18,
+        "path": "translations/fluent/OT/joshua/Joshua_01.md",
+        "before_sha256": "d9a4c3a267c9f8c299549410677decc06c99e80f958bcb1a66467c6172e015ab",
+        "after_sha256": "4e30a77d3d575ddfd85825930e2413ea79d51d0351b274ec9d7e0daf11000959",
+        "tsw_comparator_path": "books/OT/joshua/Joshua_01.md",
+        "tsw_comparator_sha256": "6d1725d3983f892806ee545c451b6a3f149df0ce16ec92864a83a37c31b1218d"
+      },
+      "report": "audit/fluent-revision/2026-09-14-joshua-consistency/review.json",
+      "changed_verses": [
+        "Joshua 1:6"
+      ],
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

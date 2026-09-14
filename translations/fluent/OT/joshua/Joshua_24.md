@@ -7,13 +7,13 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision: fluent-joshua-18-24-biblical-fluency-2026-09-14
+revision: fluent-joshua-consistency-2026-09-14
 ---
 
 ## The assembly at Shechem
 
 <p>
-v01: Joshua gathered all Israel’s tribes at Shechem. He summoned Israel’s elders, heads, judges, and officials, and they presented themselves before God.
+v01: Joshua gathered all Israel’s tribes at Shechem. He summoned Israel’s elders, heads, judges, and officers, and they presented themselves before God.
 </p>
 
 ## The LORD recounts the journey

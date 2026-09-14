@@ -81,7 +81,7 @@
       "verse_count": 16,
       "path": "translations/fluent/OT/joshua/Joshua_23.md",
       "before_sha256": "eefb5f4b90837542f8f722f5a68d1128412556525a3bf52c1817dcd02e7a8b0c",
-      "after_sha256": "0602360859479902e8c5096640dc7236c0b4eb174b75398d4aeb423c854b1b74",
+      "after_sha256": "cb2d5a7ee282c500efdc489cb2744e50ef32bfa1bc8a2a438c5ef7be808b4364",
       "tsw_comparator_path": "books/OT/joshua/Joshua_23.md",
       "tsw_comparator_sha256": "9617e92cc7a156358935bae6b643c6c7de1de9813e58871d0288b11560a0e2be"
     },
@@ -90,7 +90,7 @@
       "verse_count": 33,
       "path": "translations/fluent/OT/joshua/Joshua_24.md",
       "before_sha256": "6003fffed63aae9495aabd52f6a552c56a5a8a02ab3581184412e80df4fa1746",
-      "after_sha256": "569cd1c0d744a94c8082688c4ee68bf829c70d2d67f5efde4767dd309a2e5629",
+      "after_sha256": "55d297fe091cb4e894b752fa2bee174d48679a0c04882b4eddac23f4613f279a",
       "tsw_comparator_path": "books/OT/joshua/Joshua_24.md",
       "tsw_comparator_sha256": "6505af3e16912614ee6a8b3e7f7285cce43547def0e6782048c7a44d8d14d34a"
     }
@@ -2283,15 +2283,26 @@
     {
       "reference": "Joshua 23:2",
       "delta": "F2",
-      "rationale": "Keep all leadership categories and repeat Joshua’s age in his own voice.",
+      "rationale": "Keep all leadership categories and repeat Joshua’s age in his own voice. Consistency refinement: Uses officers for shoterim, matching 1:10, 3:2 and 8:33 so readers recognize the same community role at the farewell assembly; all four leadership categories remain.",
       "source_reference": "Josh 23:2",
       "source_verse_sha256": "68d238786386f51df42f959906f22da296a4e83303fd58b5f7e1e13040e9309f",
       "before": "Joshua called all Israel, their elders, heads, judges, and officers, and said to them, “I am old, advanced in days.",
-      "after": "He summoned all Israel—its elders, heads, judges, and officials—and told them, “I am old, advanced in years.",
+      "after": "He summoned all Israel—its elders, heads, judges, and officers—and told them, “I am old, advanced in years.",
       "tsw_comparator": "Joshua called all Israel, their elders, heads, judges, and officers, and said to them, “I am old, advanced in days.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.666667,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.717949,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-joshua-consistency-2026-09-14",
+          "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+          "prior_after": "He summoned all Israel—its elders, heads, judges, and officials—and told them, “I am old, advanced in years.",
+          "prior_delta": "F2",
+          "prior_rationale": "Keep all leadership categories and repeat Joshua’s age in his own voice.",
+          "refinement_delta": "F1",
+          "rationale": "Uses officers for shoterim, matching 1:10, 3:2 and 8:33 so readers recognize the same community role at the farewell assembly; all four leadership categories remain."
+        }
+      ]
     },
     {
       "reference": "Joshua 23:3",
@@ -2478,15 +2489,26 @@
     {
       "reference": "Joshua 24:1",
       "delta": "F2",
-      "rationale": "Preserve all groups, Shechem and the formal divine presence.",
+      "rationale": "Preserve all groups, Shechem and the formal divine presence. Consistency refinement: Keeps the same officers designation for shoterim as in the earlier assemblies and 23:2, preserving Shechem, the four leadership categories and presentation before God.",
       "source_reference": "Josh 24:1",
       "source_verse_sha256": "d19fd6eb48d4a93cadda545ad3cdae9494cfdf53de907374f34136a5877882e6",
       "before": "Joshua gathered all the tribes of Israel to Shechem and summoned the elders of Israel, its heads, its judges, and its officers, and they presented themselves before God.",
-      "after": "Joshua gathered all Israel’s tribes at Shechem. He summoned Israel’s elders, heads, judges, and officials, and they presented themselves before God.",
+      "after": "Joshua gathered all Israel’s tribes at Shechem. He summoned Israel’s elders, heads, judges, and officers, and they presented themselves before God.",
       "tsw_comparator": "And Joshua gathered all the tribes of Israel to Shechem and summoned the elders of Israel, its heads, its judges, and its officers, and they presented themselves before God.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.64,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.68,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-joshua-consistency-2026-09-14",
+          "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+          "prior_after": "Joshua gathered all Israel’s tribes at Shechem. He summoned Israel’s elders, heads, judges, and officials, and they presented themselves before God.",
+          "prior_delta": "F2",
+          "prior_rationale": "Preserve all groups, Shechem and the formal divine presence.",
+          "refinement_delta": "F1",
+          "rationale": "Keeps the same officers designation for shoterim as in the earlier assemblies and 23:2, preserving Shechem, the four leadership categories and presentation before God."
+        }
+      ]
     },
     {
       "reference": "Joshua 24:2",
@@ -2929,5 +2951,16 @@
       "F3": 69,
       "F0": 15
     }
-  }
+  },
+  "consistency_revisions": [
+    {
+      "id": "fluent-joshua-consistency-2026-09-14",
+      "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+      "report": "audit/fluent-revision/2026-09-14-joshua-consistency/review.json",
+      "changed_references": [
+        "Joshua 23:2",
+        "Joshua 24:1"
+      ]
+    }
+  ]
 }

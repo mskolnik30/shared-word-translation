@@ -1,0 +1,116 @@
+{
+  "id": "fluent-joshua-consistency-2026-09-14",
+  "base_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+  "scope": "All 24 chapters structurally scanned, all 658 English verses and apparatus read; 200 selected source/English comparisons reread",
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Josh",
+    "book_verse_count": 658,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "sha256": "d32a65fc6dc7207625c05ddcd133a0833a0c48e3d2343ba6fff4e01be9d5beaf",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Josh.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including all written/read and other notes, not normalized reconstructions.",
+    "public_versification_note": "Public Joshua 1–8 and Hebrew source references align one to one. All 186 original source records are bound exactly once."
+  },
+  "changes": [
+    {
+      "reference": "Joshua 1:6",
+      "delta": "F2",
+      "before": "Be strong and courageous, for you will lead these people into possession of the land I swore to their ancestors to give them.",
+      "after": "Be strong and courageous, for you will give these people their inheritance—the land I swore to their ancestors to give them.",
+      "rationale": "Renders the causative inherit verb with inheritance explicitly, making the opening commission connect with the repeated inheritance language in the allotments. Joshua remains the agent who distributes the LORD’s promised gift; the oath and recipients remain.",
+      "source_reference": "Josh 1:6",
+      "source_verse_sha256": "9aa56871838581a48c115476915232abd2641c2acaaf467d0de843a8b29712cc",
+      "tsw_comparator": "Be strong and courageous, for you shall cause this people to inherit the land that I swore to their ancestors to give them.",
+      "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+      "verse_ledger": "audit/fluent-revision/2026-09-14-joshua-1-8/joshua-verse-review.json",
+      "chapter_path": "translations/fluent/OT/joshua/Joshua_01.md",
+      "before_chapter_sha256": "4e30a77d3d575ddfd85825930e2413ea79d51d0351b274ec9d7e0daf11000959",
+      "after_chapter_sha256": "91b6a63f9d7de72a9a273cbc47f04e88f40aab51f3e64f357d428a97b489ed55",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Joshua 23:2",
+      "delta": "F1",
+      "before": "He summoned all Israel—its elders, heads, judges, and officials—and told them, “I am old, advanced in years.",
+      "after": "He summoned all Israel—its elders, heads, judges, and officers—and told them, “I am old, advanced in years.",
+      "rationale": "Uses officers for shoterim, matching 1:10, 3:2 and 8:33 so readers recognize the same community role at the farewell assembly; all four leadership categories remain.",
+      "source_reference": "Josh 23:2",
+      "source_verse_sha256": "68d238786386f51df42f959906f22da296a4e83303fd58b5f7e1e13040e9309f",
+      "tsw_comparator": "Joshua called all Israel, their elders, heads, judges, and officers, and said to them, “I am old, advanced in days.",
+      "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+      "verse_ledger": "audit/fluent-revision/2026-09-14-joshua-18-24/joshua-verse-review.json",
+      "chapter_path": "translations/fluent/OT/joshua/Joshua_23.md",
+      "before_chapter_sha256": "0602360859479902e8c5096640dc7236c0b4eb174b75398d4aeb423c854b1b74",
+      "after_chapter_sha256": "cb2d5a7ee282c500efdc489cb2744e50ef32bfa1bc8a2a438c5ef7be808b4364",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Joshua 24:1",
+      "delta": "F1",
+      "before": "Joshua gathered all Israel’s tribes at Shechem. He summoned Israel’s elders, heads, judges, and officials, and they presented themselves before God.",
+      "after": "Joshua gathered all Israel’s tribes at Shechem. He summoned Israel’s elders, heads, judges, and officers, and they presented themselves before God.",
+      "rationale": "Keeps the same officers designation for shoterim as in the earlier assemblies and 23:2, preserving Shechem, the four leadership categories and presentation before God.",
+      "source_reference": "Josh 24:1",
+      "source_verse_sha256": "d19fd6eb48d4a93cadda545ad3cdae9494cfdf53de907374f34136a5877882e6",
+      "tsw_comparator": "And Joshua gathered all the tribes of Israel to Shechem and summoned the elders of Israel, its heads, its judges, and its officers, and they presented themselves before God.",
+      "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+      "verse_ledger": "audit/fluent-revision/2026-09-14-joshua-18-24/joshua-verse-review.json",
+      "chapter_path": "translations/fluent/OT/joshua/Joshua_24.md",
+      "before_chapter_sha256": "569cd1c0d744a94c8082688c4ee68bf829c70d2d67f5efde4767dd309a2e5629",
+      "after_chapter_sha256": "55d297fe091cb4e894b752fa2bee174d48679a0c04882b4eddac23f4613f279a",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "structural_qa": "PASSED",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "english_reading": {
+    "chapters": 24,
+    "verses": 658,
+    "headings_notes_and_vocabulary": "Read throughout"
+  },
+  "source_comparisons": {
+    "verses": 200,
+    "qualification": "Selected source rereading for authoring consistency, not a second exhaustive Hebrew reading or independent review."
+  },
+  "findings": [
+    "Inheritance in 1:6 now introduces the language that governs the later allotments. Officers is consistent in all five shoterim occurrences (1:10;3:2;8:33;23:2;24:1).",
+    "Rest in 1:13–15, 21:44, 22:4 and 23:1 remains linked; the land rested from war in 11:23 and 14:15 preserves the distinct quiet/rest verb.",
+    "Instruction, scroll, right/left, clinging, service and witness remain recognizable across the opening commission, Ebal reading and closing assemblies.",
+    "The thirty-one kings, the four Levitical totals totaling forty-eight, names and mismatched town totals remain as previously source-bound. No list was shortened or reconciled by invention.",
+    "Rahab’s loyal kindness, household rescue and blood responsibility remain; the curse, perpetual slavery and oath in the Gibeonite narrative remain explicit.",
+    "The collective judgment in Joshua 7, children brought to the valley, pronoun shifts in the punishment, horse hamstringing and annihilation language remain.",
+    "Whole-land and no-standing-enemy claims coexist with survivors, remaining peoples, failed expulsion and forced labor. Distinct speakers and temporal claims were not harmonized.",
+    "Written/read alternatives and boundary difficulties remain selectively noted. No independent map reconstruction or manuscript collation was performed."
+  ],
+  "unresolved": [
+    "Independent Hebrew and editorial review remains required for the difficult boundary syntax, textual choices and judicial/war language documented in the three draft batches.",
+    "Reader comprehension and oral testing remain pending. Distinct wording and structural tests do not certify biblical fluency or independent originality."
+  ],
+  "companion_impact": {
+    "changed_chapters": [
+      1,
+      23,
+      24
+    ],
+    "action": "Reconcile quotations and source bindings for these refinements during later Companion installation.",
+    "companion_branch_changed": false
+  },
+  "next_work": "Judges 1–5",
+  "github_upload": "Previously blocked; no retry."
+}

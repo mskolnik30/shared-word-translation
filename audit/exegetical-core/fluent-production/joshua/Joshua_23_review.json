@@ -38,7 +38,7 @@
     "verse_count": 16,
     "path": "translations/fluent/OT/joshua/Joshua_23.md",
     "before_sha256": "eefb5f4b90837542f8f722f5a68d1128412556525a3bf52c1817dcd02e7a8b0c",
-    "after_sha256": "0602360859479902e8c5096640dc7236c0b4eb174b75398d4aeb423c854b1b74",
+    "after_sha256": "cb2d5a7ee282c500efdc489cb2744e50ef32bfa1bc8a2a438c5ef7be808b4364",
     "tsw_comparator_path": "books/OT/joshua/Joshua_23.md",
     "tsw_comparator_sha256": "9617e92cc7a156358935bae6b643c6c7de1de9813e58871d0288b11560a0e2be"
   },
@@ -94,6 +94,26 @@
       "delta": "F3",
       "decision": "Keep covenant violation, other-god service, divine anger and rapid loss together in the conditional warning.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "consistency_revisions": [
+    {
+      "id": "fluent-joshua-consistency-2026-09-14",
+      "prior_commit": "cc09484292131e85dd89e5835f700ee01e363cc2",
+      "prior_chapter_binding": {
+        "chapter": 23,
+        "verse_count": 16,
+        "path": "translations/fluent/OT/joshua/Joshua_23.md",
+        "before_sha256": "eefb5f4b90837542f8f722f5a68d1128412556525a3bf52c1817dcd02e7a8b0c",
+        "after_sha256": "0602360859479902e8c5096640dc7236c0b4eb174b75398d4aeb423c854b1b74",
+        "tsw_comparator_path": "books/OT/joshua/Joshua_23.md",
+        "tsw_comparator_sha256": "9617e92cc7a156358935bae6b643c6c7de1de9813e58871d0288b11560a0e2be"
+      },
+      "report": "audit/fluent-revision/2026-09-14-joshua-consistency/review.json",
+      "changed_verses": [
+        "Joshua 23:2"
+      ],
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }
