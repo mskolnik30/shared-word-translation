@@ -4,107 +4,85 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-1-5-biblical-fluency-2026-09-14
 ---
 
-## The Messenger at Bochim
+## Weeping at Bochim
 
 <p>
-v01: The messenger of the LORD went up from Gilgal to Bochim and said, “I brought you up from Egypt and brought you into the land that I swore to your ancestors. I said, ‘I will never break my covenant with you.
-
-v02: And you will make no covenant with the inhabitants of this land; you will tear down their altars.’ But you have not listened to my voice. What is this you have done?
-
-v03: So now I say: I will not drive them out before you, but they will become adversaries to you, and their gods will become a snare to you.”
-
-v04: When the messenger of the LORD spoke these words to all the children of Israel, the people lifted up their voices and wept.
-
-v05: They called the name of that place Bochim, and they sacrificed there to the LORD.
+v01: The angel of the LORD went up from Gilgal to Bochim and said, “I brought you up from Egypt and into the land I swore to your ancestors to give you. I said, ‘I will never break my covenant with you.
+v02: You must make no covenant with this land’s inhabitants; you must tear down their altars.’ But you have not obeyed my voice. What have you done?
+v03: So now I say, ‘I will not drive them out before you. They will be thorns in your sides, and their gods will become a snare for you.’”
+v04: When the angel of the LORD spoke these words to all the Israelites, the people raised their voices and wept.
+v05: They named that place Bochim and offered sacrifices to the LORD there.
 </p>
 
-## The Generation After Joshua
+## A generation that did not know
 
 <p>
-v06: When Joshua dismissed the people, the children of Israel went each to their inheritance to take possession of the land.
-
-v07: The people served the LORD all the days of Joshua and all the days of the elders who outlived Joshua, who had seen all the great work that the LORD had done for Israel.
-
-v08: Joshua son of Nun, servant of the LORD, died at the age of one hundred ten years.
-
-v09: They buried him within the border of his inheritance at Timnath-Heres, in the hill country of Ephraim, north of Mount Gaash.
-
-v10: And all that generation also was gathered to their ancestors. Another generation arose after them who did not know the LORD or the work that he had done for Israel.
+v06: Joshua had sent the people away, and the Israelites went each to their inheritance to take possession of the land.
+v07: The people served the LORD throughout Joshua’s lifetime and throughout the lifetimes of the elders who outlived him, who had seen all the great work the LORD had done for Israel.
+v08: Joshua son of Nun, the LORD’s servant, died at the age of one hundred ten.
+v09: They buried him within his inheritance at Timnath-heres, in Ephraim’s hill country, north of Mount Gaash.
+v10: That whole generation was gathered to its ancestors. Another generation arose after them that did not know the LORD or the work he had done for Israel.
 </p>
 
-## Israel Serves the Baals
+## Israel abandons the LORD
 
 <p>
-v11: The children of Israel did evil in the eyes of the LORD and served the Baals.
-
-v12: They abandoned the LORD, the God of their ancestors, who had brought them out of the land of Egypt. They followed other gods from among the gods of the peoples around them, bowed down to them, and provoked the LORD to anger.
-
+v11: The Israelites did what was evil in the LORD’s eyes and served the Baals.
+v12: They abandoned the LORD, the God of their ancestors, who had brought them out of Egypt. They followed other gods, the gods of the peoples around them, and bowed down to them, provoking the LORD to anger.
 v13: They abandoned the LORD and served Baal and the Ashtaroth.
-
-v14: The anger of the LORD burned against Israel, and he gave them into the hand of plunderers who plundered them. He sold them into the hand of their enemies around them, and they could no longer stand before their enemies.
-
-v15: Wherever they went out, the hand of the LORD was against them for harm, just as the LORD had spoken and just as the LORD had sworn to them. And they were in great distress.
+v14: The LORD’s anger burned against Israel. He gave them into the hand of raiders who plundered them, and sold them into the hand of their enemies all around. They could no longer stand against their enemies.
+v15: Whenever they went out, the LORD’s hand was against them to bring harm, just as he had said and sworn to them. They were in deep distress.
 </p>
 
-## The LORD Raises Up Judges
+## Judges raised up to rescue
 
 <p>
-v16: Then the LORD raised up judges, who saved them from the hand of people who plundered them.
-
-v17: Yet they did not listen even to their judges, but prostituted themselves after other gods and bowed down to them. They quickly turned aside from the way in which their ancestors had walked, obeying the commandments of the LORD; they did not do so.
-
-v18: Whenever the LORD raised up judges for them, the LORD was with the judge and saved them from the hand of their enemies all the days of the judge, for the LORD was moved by their groaning because of people who oppressed and crushed them.
-
-v19: But when the judge died, they turned back and acted more corruptly than their ancestors, following other gods, serving them, and bowing down to them. They did not cease from their practices or from their stubborn way.
+v16: Then the LORD raised up judges who rescued them from the hand of their raiders.
+v17: Yet they would not listen even to their judges. They prostituted themselves after other gods and bowed down to them. They quickly left the path their ancestors had walked in obeying the LORD’s commandments; they did not do as their ancestors had done.
 </p>
 
-## The Nations Remain
+<p>
+v18: Whenever the LORD raised up a judge for them, he was with that judge and rescued them from their enemies’ hand throughout the judge’s lifetime. Their groaning under those who oppressed and crushed them moved the LORD to compassion.
+v19: But when the judge died, they turned back and became more corrupt than their ancestors, following other gods, serving them, and bowing down to them. They would not give up their practices or their stubborn ways.
+</p>
+
+## The nations left in place
 
 <p>
-v20: So the anger of the LORD burned against Israel, and he said, “Because this nation has transgressed my covenant that I commanded their ancestors and has not listened to my voice,
-
-v21: I also will no longer drive out before them any of the nations that Joshua left when he died,
-
-v22: in order to test Israel by them, whether they will keep the way of the LORD and walk in it as their ancestors kept it, or not.”
-
-v23: So the LORD left those nations, not driving them out quickly, and he did not give them into the hand of Joshua.
+v20: The LORD’s anger burned against Israel, and he said, “Because this nation has violated the covenant I commanded their ancestors to keep and has not obeyed my voice,
+v21: I too will no longer drive out before them any of the nations Joshua left when he died.
+v22: Through them I will test Israel, to see whether they will keep to the LORD’s way and walk in it as their ancestors did.”
+v23: So the LORD left these nations in place. He did not drive them out quickly or give them into Joshua’s hand.
 </p>
 
 ## Notes
 
-v01: “messenger of the LORD” — The Hebrew *malakh YHWH* can mean “messenger” or “angel of the LORD.” TSW uses “messenger” to preserve the ordinary lexical sense while leaving the figure’s identity open.
+v01: The angel speaks in the first person as the one who brought Israel from Egypt. The text does not pause to explain this relationship between messenger and sender.
 
-v03: The Hebrew of the first consequence can be understood as the remaining peoples becoming adversaries or thorns at Israel’s sides. The main point is that tolerated peoples and their gods become sources of entanglement.
+v03: The Hebrew says that they will be “in your sides”; thorns supplies the implied image. Another reading understands the expression as adversaries.
 
-v10: “did not know the LORD” — In context this is not merely lack of information. The new generation lacks the covenantal recognition shaped by memory of what the LORD had done.
+v06–10: The account returns to Joshua’s lifetime. Timnath-heres is the name given here; Joshua 24:30 has Timnath-serah.
 
-v11–19: These verses provide the theological pattern repeated throughout Judges: abandonment, oppression, crying out, deliverance through a judge, and renewed corruption.
+v17: The language of prostitution pictures Israel’s allegiance to other gods as infidelity. The metaphor is retained alongside the concrete acts of worship.
 
-v17: “prostituted themselves” — The strong metaphor describes covenant unfaithfulness expressed through worship of other gods. The translation retains its force.
-
-v18: “was moved by their groaning” — The Hebrew verb expresses relenting or being moved with compassion in response to suffering.
+v18: The LORD’s response to the people’s groaning is expressed by a word that can convey relenting or being moved to pity.
 
 ## Vocabulary
 
-v01: מַלְאַךְ (malakh)
-“Messenger” or “angel.” One sent with a message or commission.
+v01: covenant
+A binding relationship with obligations; both the LORD’s covenant and forbidden agreements are in view here.
 
-v02: בְּרִית (berit)
-“Covenant.” A binding relationship established by promise and obligation.
+v05: Bochim
+A name associated with weeping.
 
-v11: בַּעַל (Baal)
-“Baal,” literally “lord” or “master.” A title and name associated with Canaanite deities.
+v13: Ashtaroth
+A plural name associated with the goddess Ashtoreth. It differs from Asheroth in 3:7.
 
-v13: עַשְׁתָּרוֹת (Ashtarot)
-“Ashtaroth.” A plural form associated with the goddess Astarte and related cultic worship.
-
-v16: שָׁפַט (shafat)
-“To judge” or “govern.” The noun “judge” in Judges can include military deliverance and leadership.
-
-v18: נָחַם (nacham)
-“To relent,” “be moved,” or “have compassion.” Here the LORD is moved by Israel’s groaning.
-
-v22: נָסָה (nasah)
-“To test.” To prove or expose the character of faithfulness through trial.
+v16: judges
+Leaders whom the LORD raises to rescue Israel. Their role can include rule, battle leadership, and deciding disputes; it is broader than a modern courtroom office.

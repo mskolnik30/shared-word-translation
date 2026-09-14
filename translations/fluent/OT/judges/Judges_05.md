@@ -4,225 +4,200 @@ testament: OT
 chapter: 5
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-1-5-biblical-fluency-2026-09-14
 ---
 
-## The Song of Deborah and Barak
+## Deborah and Barak sing
 
 <p>
-v01: On that day Deborah and Barak son of Abinoam sang:
-
-v02: When leaders let their hair flow in Israel,
-when the people freely offer themselves,
+v01: That day Deborah and Barak son of Abinoam sang:
+v02: When leaders took the lead in Israel,
+when the people freely offered themselves,
 bless the LORD!
-
-v03: Hear, O kings!
-Give ear, O rulers!
-I, to the LORD, I will sing;
-I will make music to the LORD,
-the God of Israel.
-
-v04: O LORD, when you went out from Seir,
-when you marched from the fields of Edom,
-the earth shook,
-the heavens also poured,
-the clouds poured down water.
-
-v05: The mountains quaked before the LORD,
-even Sinai before the LORD,
-the God of Israel.
+v03: Hear, kings! Listen, rulers!
+I will sing to the LORD—I will!
+I will make music to the LORD, the God of Israel.
 </p>
 
-## In the Days of Shamgar
+<p>
+v04: LORD, when you went out from Seir,
+when you marched from the fields of Edom,
+the earth shook, the heavens dripped,
+the clouds dripped water.
+v05: Mountains flowed before the LORD,
+this Sinai before the LORD, the God of Israel.
+</p>
+
+## Until Deborah arose
 
 <p>
 v06: In the days of Shamgar son of Anath,
-in the days of Jael,
-the highways were abandoned,
-and travelers went by crooked paths.
-
-v07: Village life ceased in Israel;
-it ceased
-until I, Deborah, arose,
-until I arose as a mother in Israel.
-
+in the days of Jael, the roads fell silent.
+Travelers took winding paths.
+v07: Village life ceased in Israel; it ceased,
+until I arose, Deborah,
+until I arose, a mother in Israel.
 v08: They chose new gods;
-then war was in the gates.
-Was a shield seen, or a spear,
+then war came to the gates.
+Was a shield or spear to be seen
 among forty thousand in Israel?
-
-v09: My heart is with the commanders of Israel,
-with people who freely offered themselves among the people.
-Bless the LORD!
-
-v10: You who ride on white donkeys,
-you who sit on rich carpets,
-and you who walk on the road—
-tell of it!
-
-v11: At the sound of people who divide the flocks
-among the watering places,
-there they recount the righteous acts of the LORD,
-the righteous acts of his villagers in Israel.
-Then the people of the LORD
-went down to the gates.
 </p>
 
-## Awake, Deborah
+<p>
+v09: My heart is with Israel’s commanders,
+with those who freely offered themselves among the people.
+Bless the LORD!
+v10: You who ride pale female donkeys,
+you who sit on saddlecloths,
+you who walk along the road—tell of it!
+v11: To the sound of singers at the watering places,
+there they recount the LORD’s righteous acts,
+his righteous acts for Israel’s villagers.
+Then the LORD’s people went down to the gates.
+</p>
+
+## Awake, Deborah! Rise, Barak!
 
 <p>
 v12: Awake, awake, Deborah!
-Awake, awake, sing a song!
-Arise, Barak!
-Lead away your captives, son of Abinoam!
-
-v13: Then the survivors came down to the nobles;
-the people of the LORD came down for me
-against the warriors.
-
-v14: From Ephraim came those whose root was in Amalek;
-after you, Benjamin, among your peoples.
+Awake, awake! Sing a song!
+Rise, Barak!
+Lead your captives away, son of Abinoam!
+v13: Then a remnant came down to the nobles;
+the LORD’s people came down to me among the warriors.
+v14: From Ephraim came those whose roots were in Amalek;
+after you, Benjamin, among your people.
 From Machir commanders came down,
-and from Zebulun people who carry the staff of command.
-
-v15: The princes of Issachar were with Deborah,
-and Issachar was faithful to Barak;
-into the valley they rushed at his feet.
-Among the divisions of Reuben
-there were great searchings of heart.
-
-v16: Why did you sit among the sheepfolds,
-listening to the piping for the flocks?
-Among the divisions of Reuben
-there were great searchings of heart.
-
-v17: Gilead remained beyond the Jordan.
-Dan—why did he stay with the ships?
-Asher sat at the seashore
-and remained by his landings.
-
-v18: Zebulun was a people who risked their lives to death,
-and Naphtali also,
-on the heights of the field.
+and from Zebulun those who carry the muster officer’s staff.
 </p>
 
-## The Stars Fought from Heaven
+<p>
+v15: My leaders in Issachar were with Deborah;
+Issachar was with Barak,
+sent into the valley at his heels.
+Among Reuben’s divisions
+were great resolves of heart.
+v16: Why did you stay between the sheepfolds,
+listening to the piping for the flocks?
+Among Reuben’s divisions
+were great searchings of heart.
+</p>
+
+<p>
+v17: Gilead stayed beyond the Jordan.
+And Dan—why did he linger by the ships?
+Asher sat by the seashore
+and stayed beside his harbors.
+v18: Zebulun was a people who risked their lives to death,
+and Naphtali too, on the heights of the field.
+</p>
+
+## The stars fought
 
 <p>
 v19: Kings came; they fought.
 Then the kings of Canaan fought
-at Taanach, by the waters of Megiddo.
+at Taanach, by Megiddo’s waters.
 They took no plunder of silver.
-
 v20: From heaven the stars fought;
-from their courses
-they fought against Sisera.
-
-v21: The torrent Kishon swept them away,
-the ancient torrent, the torrent Kishon.
-March on, my soul, in strength!
-
-v22: Then the horses’ hooves hammered
-from the galloping,
-the galloping of his mighty steeds.
-
-v23: “Curse Meroz,” says the messenger of the LORD.
-“Bitterly curse its inhabitants,
-because they did not come to the help of the LORD,
-to the help of the LORD among the warriors.”
+from their courses they fought against Sisera.
 </p>
 
-## Most Blessed Is Jael
+<p>
+v21: The Wadi Kishon swept them away,
+the ancient wadi, the Wadi Kishon.
+March on, my soul, with strength!
+v22: Then the horses’ hooves pounded
+with the galloping, galloping of his mighty steeds.
+</p>
 
 <p>
-v24: Most blessed among women is Jael,
-wife of Heber the Kenite;
-most blessed among women in tents.
+v23: “Curse Meroz,” said the angel of the LORD.
+“Curse its inhabitants bitterly,
+for they did not come to the LORD’s help,
+to the LORD’s help among the warriors.”
+</p>
 
+## Jael in her tent
+
+<p>
+v24: Most blessed of women be Jael,
+Heber the Kenite’s wife;
+most blessed of women in tents.
 v25: He asked for water; she gave milk.
-In a noble bowl
-she brought curds.
-
-v26: She reached her hand to the tent peg,
-and her right hand to the workers’ hammer.
-She struck Sisera;
-she crushed his head.
-She shattered and pierced his temple.
-
-v27: Between her feet he sank,
-he fell, he lay still.
-Between her feet he sank, he fell.
-Where he sank,
-there he fell—destroyed.
+In a bowl fit for nobles she brought curds.
 </p>
 
-## The Mother of Sisera Waits
+<p>
+v26: Her hand reached for the tent peg,
+her right hand for the workers’ hammer.
+She hammered Sisera, crushed his head,
+smashed and pierced his temple.
+v27: Between her feet he sank, fell, lay still.
+Between her feet he sank and fell.
+Where he sank, there he fell—destroyed.
+</p>
+
+## Sisera’s mother waits
 
 <p>
-v28: Through the window she looked down,
-the mother of Sisera cried through the lattice:
-“Why is his chariot delayed in coming?
-Why are the hoofbeats of his chariots late?”
-
-v29: The wisest of her noble women answer her,
-and she repeats their words to herself:
-
-v30: “Are they not finding and dividing plunder?
-A woman, two women for each warrior;
+v28: Through the window Sisera’s mother looked,
+crying through the lattice:
+“Why is his chariot so long in coming?
+Why are the hoofbeats of his chariots delayed?”
+v29: Her wisest ladies answer her;
+she too repeats their words to herself:
+v30: “Surely they are finding and dividing plunder—
+a womb, two wombs for each man;
 plunder of dyed cloth for Sisera,
-plunder of embroidered dyed cloth,
-two pieces of embroidered cloth
-for the neck of the plunderer?”
+plunder of dyed cloth, embroidered;
+dyed cloth, doubly embroidered,
+for the necks of those taking plunder.”
+</p>
 
-v31: So may all your enemies perish, O LORD!
-But may people who love you
-be like the sun
+<p>
+v31: So may all your enemies perish, LORD!
+But may those who love him be like the sun
 when it rises in its strength.
 
-And the land had rest forty years.
+The land rested for forty years.
 </p>
 
 ## Notes
 
-v02: The Hebrew phrase translated “leaders let their hair flow” is difficult and may refer to leaders leading or people freely offering themselves. The song celebrates voluntary participation in deliverance.
+v02: The opening can concern leaders taking action or hair being let loose. The first reading is used here beside the people’s willing response; compare verse 9.
 
-v04–05: The LORD is portrayed as marching from the south in imagery of storm and earthquake. The song links Israel’s present deliverance with the divine manifestation at Sinai.
+v05: Flowed preserves the source’s image; quaked is another reading. The compressed Sinai phrase is left visible.
 
-v07: “mother in Israel” — Deborah describes her leadership through maternal imagery without reducing her role to a private domestic sphere.
+v07–08: Village life is uncertain; leaders or warriors is another understanding. Verse 8 can alternatively make God the one choosing new leaders. The wording about war at the gates is also difficult.
 
-v08: “They chose new gods” — The line links idolatry with vulnerability to war, continuing Judges’ theological pattern.
+v10–11: Saddlecloths and singers are uncertain readings. The latter word has also been related to dividing water or flocks, or to archers. The villagers language recalls verse 7; the relationship between their acts and the LORD’s acts is compressed.
 
-v15–17: The tribes are evaluated according to whether they joined the conflict. Reuben’s inward deliberation contrasts with the decisive action of Zebulun and Naphtali.
+v13: Came down reads the verb from the root for descending; the pointing also suggests ruling. The relations among remnant, nobles, people, and warriors are uncertain. Among can also be understood as against.
 
-v20: “the stars fought” — Cosmic imagery presents the battle as extending beyond human military action. The poem does not separate weather, providence, and heavenly warfare into modern categories.
+v14–16: The root in Amalek is retained. Issachar’s compressed line pictures following Barak. Reuben’s resolves in verse 15 become searchings in verse 16: the Hebrew changes one consonant.
 
-v23: Meroz is cursed for refusing to participate. The location is uncertain.
+v21–23: Ancient is uncertain. Verse 21 retains an address to the speaker’s own soul. In verse 23, among the warriors can also mean against them.
 
-v24–27: Jael’s violent act is celebrated within the victory song. The poem does not soften the brutality of ancient warfare.
+v26–27: The song piles up blows and repeated falls. These images are not rearranged to make a single scene with chapter 4.
 
-v30: The anticipated plunder includes captive women described as war spoils. The song exposes the expectations of Sisera’s household rather than endorsing such treatment.
+v30: The wombs are women imagined as war plunder, reduced to their bodies; the sexual violence implicit in this language should not be missed. These are the imagined words of Sisera’s mother and her ladies. The ending literally associates necks with plunder; those taking it are supplied here. Doubly embroidered may instead refer to two embroidered pieces.
+
+v31: The Hebrew shifts from your enemies to those who love him. The sentence about forty years of rest returns to the narrator’s voice.
 
 ## Vocabulary
 
-v02: פָּרַע (para)
-“To let loose,” “lead,” or “go unrestrained.” A difficult term in the opening blessing.
+v09: freely offered themselves
+Volunteered; the repeated wording connects the people’s response here with verse 2.
 
-v07: פְּרָזוֹן (perazon)
-“Village life” or “rural leadership.” A rare word whose precise nuance is uncertain.
+v14: muster officer
+An official who records or organizes troops; the staff marks the role.
 
-v11: צִדְקוֹת (tsidqot)
-“Righteous acts” or “saving deeds.” Just and faithful acts attributed to the LORD.
+v21: soul
+Hebrew nephesh: here the speaker’s own self or life.
 
-v15: חֵקֶר לֵב (cheqer lev)
-“Searchings of heart.” Deep inward deliberation.
-
-v20: מְסִלָּה (mesillah)
-“Course” or “track.” Here the paths or courses of the stars.
-
-v21: נַחַל (nachal)
-“Torrent” or “wadi.” A seasonal stream capable of sudden flooding.
-
-v24: בָּרַךְ (barakh)
-“To bless.” Jael is pronounced blessed within the song.
-
-v31: גְּבוּרָה (gevurah)
-“Strength” or “might.” The sun rises in its strength as an image of those who love the LORD.
+v25: curds
+Thickened milk.

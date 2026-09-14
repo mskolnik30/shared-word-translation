@@ -1,0 +1,1031 @@
+{
+  "scope": "Judges 1–5",
+  "qualification": "Normalized whole-verse overlap is triage only, not fidelity, originality, comprehension or independent approval.",
+  "summary": {
+    "before": {
+      "identical": 126,
+      "near_identical_nonidentical": 19
+    },
+    "after": {
+      "identical": 2,
+      "near_identical_nonidentical": 12
+    }
+  },
+  "verses": [
+    {
+      "reference": "Judges 1:1",
+      "before_identical": false,
+      "before_similarity": 0.9615384615384616,
+      "after_identical": false,
+      "after_similarity": 0.6222222222222222
+    },
+    {
+      "reference": "Judges 1:2",
+      "before_identical": false,
+      "before_similarity": 0.9375,
+      "after_identical": false,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Judges 1:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7714285714285715
+    },
+    {
+      "reference": "Judges 1:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8085106382978723
+    },
+    {
+      "reference": "Judges 1:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7878787878787878
+    },
+    {
+      "reference": "Judges 1:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7368421052631579
+    },
+    {
+      "reference": "Judges 1:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7777777777777778
+    },
+    {
+      "reference": "Judges 1:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8085106382978723
+    },
+    {
+      "reference": "Judges 1:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7142857142857143
+    },
+    {
+      "reference": "Judges 1:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7317073170731707
+    },
+    {
+      "reference": "Judges 1:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Judges 1:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.358974358974359
+    },
+    {
+      "reference": "Judges 1:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8333333333333334
+    },
+    {
+      "reference": "Judges 1:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7368421052631579
+    },
+    {
+      "reference": "Judges 1:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8307692307692308
+    },
+    {
+      "reference": "Judges 1:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8157894736842105
+    },
+    {
+      "reference": "Judges 1:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6274509803921569
+    },
+    {
+      "reference": "Judges 1:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Judges 1:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9310344827586207
+    },
+    {
+      "reference": "Judges 1:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Judges 1:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6792452830188679
+    },
+    {
+      "reference": "Judges 1:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7857142857142857
+    },
+    {
+      "reference": "Judges 1:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.41379310344827586
+    },
+    {
+      "reference": "Judges 1:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6181818181818182
+    },
+    {
+      "reference": "Judges 1:25",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6296296296296297
+    },
+    {
+      "reference": "Judges 1:26",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8163265306122449
+    },
+    {
+      "reference": "Judges 1:27",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6170212765957447
+    },
+    {
+      "reference": "Judges 1:28",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8108108108108109
+    },
+    {
+      "reference": "Judges 1:29",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8333333333333334
+    },
+    {
+      "reference": "Judges 1:30",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7555555555555555
+    },
+    {
+      "reference": "Judges 1:31",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8333333333333334
+    },
+    {
+      "reference": "Judges 1:32",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6486486486486487
+    },
+    {
+      "reference": "Judges 1:33",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7466666666666667
+    },
+    {
+      "reference": "Judges 1:34",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Judges 1:35",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Judges 1:36",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7142857142857143
+    },
+    {
+      "reference": "Judges 2:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9024390243902439
+    },
+    {
+      "reference": "Judges 2:2",
+      "before_identical": false,
+      "before_similarity": 0.9375,
+      "after_identical": false,
+      "after_similarity": 0.6896551724137931
+    },
+    {
+      "reference": "Judges 2:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7857142857142857
+    },
+    {
+      "reference": "Judges 2:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7906976744186046
+    },
+    {
+      "reference": "Judges 2:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5925925925925926
+    },
+    {
+      "reference": "Judges 2:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Judges 2:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7692307692307693
+    },
+    {
+      "reference": "Judges 2:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Judges 2:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8205128205128205
+    },
+    {
+      "reference": "Judges 2:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8421052631578947
+    },
+    {
+      "reference": "Judges 2:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Judges 2:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8860759493670886
+    },
+    {
+      "reference": "Judges 2:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Judges 2:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8157894736842105
+    },
+    {
+      "reference": "Judges 2:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6451612903225806
+    },
+    {
+      "reference": "Judges 2:16",
+      "before_identical": false,
+      "before_similarity": 0.9411764705882353,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Judges 2:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.735632183908046
+    },
+    {
+      "reference": "Judges 2:18",
+      "before_identical": false,
+      "before_similarity": 0.9777777777777777,
+      "after_identical": false,
+      "after_similarity": 0.38095238095238093
+    },
+    {
+      "reference": "Judges 2:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.821917808219178
+    },
+    {
+      "reference": "Judges 2:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7457627118644068
+    },
+    {
+      "reference": "Judges 2:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.918918918918919
+    },
+    {
+      "reference": "Judges 2:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5882352941176471
+    },
+    {
+      "reference": "Judges 2:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5581395348837209
+    },
+    {
+      "reference": "Judges 3:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.76
+    },
+    {
+      "reference": "Judges 3:2",
+      "before_identical": false,
+      "before_similarity": 0.9545454545454546,
+      "after_identical": false,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Judges 3:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7307692307692307
+    },
+    {
+      "reference": "Judges 3:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5714285714285714
+    },
+    {
+      "reference": "Judges 3:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8148148148148148
+    },
+    {
+      "reference": "Judges 3:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7894736842105263
+    },
+    {
+      "reference": "Judges 3:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7916666666666666
+    },
+    {
+      "reference": "Judges 3:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.847457627118644
+    },
+    {
+      "reference": "Judges 3:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7272727272727273
+    },
+    {
+      "reference": "Judges 3:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9859154929577465
+    },
+    {
+      "reference": "Judges 3:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Judges 3:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7384615384615385
+    },
+    {
+      "reference": "Judges 3:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6511627906976745
+    },
+    {
+      "reference": "Judges 3:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7619047619047619
+    },
+    {
+      "reference": "Judges 3:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6585365853658537
+    },
+    {
+      "reference": "Judges 3:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6976744186046512
+    },
+    {
+      "reference": "Judges 3:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.967741935483871
+    },
+    {
+      "reference": "Judges 3:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Judges 3:19",
+      "before_identical": false,
+      "before_similarity": 0.9722222222222222,
+      "after_identical": false,
+      "after_similarity": 0.6567164179104478
+    },
+    {
+      "reference": "Judges 3:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6206896551724138
+    },
+    {
+      "reference": "Judges 3:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8717948717948718
+    },
+    {
+      "reference": "Judges 3:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7796610169491526
+    },
+    {
+      "reference": "Judges 3:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.918918918918919
+    },
+    {
+      "reference": "Judges 3:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.45614035087719296
+    },
+    {
+      "reference": "Judges 3:25",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7878787878787878
+    },
+    {
+      "reference": "Judges 3:26",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7741935483870968
+    },
+    {
+      "reference": "Judges 3:27",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5925925925925926
+    },
+    {
+      "reference": "Judges 3:28",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6857142857142857
+    },
+    {
+      "reference": "Judges 3:29",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7567567567567568
+    },
+    {
+      "reference": "Judges 3:30",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6060606060606061
+    },
+    {
+      "reference": "Judges 3:31",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Judges 4:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5294117647058824
+    },
+    {
+      "reference": "Judges 4:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8070175438596491
+    },
+    {
+      "reference": "Judges 4:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Judges 4:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7407407407407407
+    },
+    {
+      "reference": "Judges 4:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6792452830188679
+    },
+    {
+      "reference": "Judges 4:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6590909090909091
+    },
+    {
+      "reference": "Judges 4:7",
+      "before_identical": false,
+      "before_similarity": 0.9841269841269841,
+      "after_identical": false,
+      "after_similarity": 0.7017543859649122
+    },
+    {
+      "reference": "Judges 4:8",
+      "before_identical": false,
+      "before_similarity": 0.9803921568627451,
+      "after_identical": false,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Judges 4:9",
+      "before_identical": false,
+      "before_similarity": 0.9647058823529412,
+      "after_identical": false,
+      "after_similarity": 0.5609756097560976
+    },
+    {
+      "reference": "Judges 4:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9047619047619048
+    },
+    {
+      "reference": "Judges 4:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7619047619047619
+    },
+    {
+      "reference": "Judges 4:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8275862068965517
+    },
+    {
+      "reference": "Judges 4:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7755102040816326
+    },
+    {
+      "reference": "Judges 4:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7948717948717948
+    },
+    {
+      "reference": "Judges 4:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7796610169491526
+    },
+    {
+      "reference": "Judges 4:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6792452830188679
+    },
+    {
+      "reference": "Judges 4:17",
+      "before_identical": false,
+      "before_similarity": 0.967741935483871,
+      "after_identical": false,
+      "after_similarity": 0.7272727272727273
+    },
+    {
+      "reference": "Judges 4:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7868852459016393
+    },
+    {
+      "reference": "Judges 4:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8148148148148148
+    },
+    {
+      "reference": "Judges 4:20",
+      "before_identical": false,
+      "before_similarity": 0.96,
+      "after_identical": false,
+      "after_similarity": 0.7727272727272727
+    },
+    {
+      "reference": "Judges 4:21",
+      "before_identical": false,
+      "before_similarity": 0.9777777777777777,
+      "after_identical": false,
+      "after_similarity": 0.691358024691358
+    },
+    {
+      "reference": "Judges 4:22",
+      "before_identical": false,
+      "before_similarity": 0.9523809523809523,
+      "after_identical": false,
+      "after_similarity": 0.7228915662650602
+    },
+    {
+      "reference": "Judges 4:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6153846153846154
+    },
+    {
+      "reference": "Judges 4:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6976744186046512
+    },
+    {
+      "reference": "Judges 5:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9473684210526315
+    },
+    {
+      "reference": "Judges 5:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7272727272727273
+    },
+    {
+      "reference": "Judges 5:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8333333333333334
+    },
+    {
+      "reference": "Judges 5:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8679245283018868
+    },
+    {
+      "reference": "Judges 5:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8275862068965517
+    },
+    {
+      "reference": "Judges 5:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7272727272727273
+    },
+    {
+      "reference": "Judges 5:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.918918918918919
+    },
+    {
+      "reference": "Judges 5:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Judges 5:9",
+      "before_identical": false,
+      "before_similarity": 0.95,
+      "after_identical": false,
+      "after_similarity": 0.8947368421052632
+    },
+    {
+      "reference": "Judges 5:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7619047619047619
+    },
+    {
+      "reference": "Judges 5:11",
+      "before_identical": false,
+      "before_similarity": 0.975609756097561,
+      "after_identical": false,
+      "after_similarity": 0.6388888888888888
+    },
+    {
+      "reference": "Judges 5:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8823529411764706
+    },
+    {
+      "reference": "Judges 5:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6842105263157895
+    },
+    {
+      "reference": "Judges 5:14",
+      "before_identical": false,
+      "before_similarity": 0.9666666666666667,
+      "after_identical": false,
+      "after_similarity": 0.8333333333333334
+    },
+    {
+      "reference": "Judges 5:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6206896551724138
+    },
+    {
+      "reference": "Judges 5:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8085106382978723
+    },
+    {
+      "reference": "Judges 5:17",
+      "before_identical": false,
+      "before_similarity": 0.9787234042553191,
+      "after_identical": false,
+      "after_similarity": 0.7083333333333334
+    },
+    {
+      "reference": "Judges 5:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9473684210526315
+    },
+    {
+      "reference": "Judges 5:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9090909090909091
+    },
+    {
+      "reference": "Judges 5:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Judges 5:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7777777777777778
+    },
+    {
+      "reference": "Judges 5:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8148148148148148
+    },
+    {
+      "reference": "Judges 5:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7333333333333333
+    },
+    {
+      "reference": "Judges 5:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6060606060606061
+    },
+    {
+      "reference": "Judges 5:25",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8666666666666667
+    },
+    {
+      "reference": "Judges 5:26",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7407407407407407
+    },
+    {
+      "reference": "Judges 5:27",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9130434782608695
+    },
+    {
+      "reference": "Judges 5:28",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7272727272727273
+    },
+    {
+      "reference": "Judges 5:29",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Judges 5:30",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Judges 5:31",
+      "before_identical": false,
+      "before_similarity": 0.967741935483871,
+      "after_identical": false,
+      "after_similarity": 0.8666666666666667
+    }
+  ]
+}

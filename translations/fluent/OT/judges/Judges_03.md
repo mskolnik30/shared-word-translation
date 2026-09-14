@@ -4,132 +4,104 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-1-5-biblical-fluency-2026-09-14
 ---
 
-## Nations Left to Test Israel
+## Nations that test Israel
 
 <p>
-v01: These are the nations that the LORD left in order to test Israel by them—all in Israel who had not experienced any of the wars of Canaan—
-
-v02: only so that the generations of the children of Israel might know war, at least people who had not known it before:
-
-v03: the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived on Mount Lebanon, from Mount Baal-Hermon to Lebo-Hamath.
-
-v04: They were for testing Israel, to know whether Israel would obey the commandments of the LORD that he had commanded their ancestors by the hand of Moses.
-
-v05: So the children of Israel lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
-
-v06: They took their daughters for themselves as wives, gave their own daughters to their sons, and served their gods.
+v01: These are the nations the LORD left to test Israel—all those who had not known any of the wars in Canaan.
+v02: He did this so that later generations of Israelites would know warfare, teaching it to those who had not experienced it before.
+v03: They were the five Philistine rulers, all the Canaanites, the Sidonians, and the Hivites living in the Lebanon mountains, from Mount Baal-hermon to Lebo-hamath.
+v04: They remained to test Israel, to learn whether Israel would obey the LORD’s commandments, which he had given their ancestors through Moses.
+v05: The Israelites lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
+v06: They took those peoples’ daughters as wives, gave their own daughters to those peoples’ sons, and served their gods.
 </p>
 
-## Othniel Delivers Israel
+## Othniel rescues Israel
 
 <p>
-v07: The children of Israel did evil in the eyes of the LORD. They forgot the LORD their God and served the Baals and the Asheroth.
-
-v08: The anger of the LORD burned against Israel, and he sold them into the hand of Cushan-Rishathaim king of Aram-Naharaim. The children of Israel served Cushan-Rishathaim eight years.
-
-v09: Then the children of Israel cried out to the LORD, and the LORD raised up a deliverer for the children of Israel who saved them: Othniel son of Kenaz, Caleb’s younger brother.
-
-v10: The Spirit of the LORD came upon him, and he judged Israel. He went out to war, and the LORD gave Cushan-Rishathaim king of Aram into his hand, and his hand prevailed over Cushan-Rishathaim.
-
-v11: Then the land had rest forty years. And Othniel son of Kenaz died.
+v07: The Israelites did what was evil in the LORD’s eyes. They forgot the LORD their God and served the Baals and the Asheroth.
+v08: The LORD’s anger burned against Israel, and he sold them into the hand of Cushan-rishathaim, king of Aram-naharaim. The Israelites served Cushan-rishathaim for eight years.
+v09: The Israelites cried out to the LORD, and he raised up a rescuer who saved them: Othniel son of Kenaz, Caleb’s younger brother.
+v10: The Spirit of the LORD came upon him, and he judged Israel. He went out to war, and the LORD gave Cushan-rishathaim, king of Aram, into his hand. His hand prevailed over Cushan-rishathaim.
+v11: The land rested for forty years. Then Othniel son of Kenaz died.
 </p>
 
-## Ehud and Eglon
+## Ehud and the king of Moab
 
 <p>
-v12: Again the children of Israel did evil in the eyes of the LORD, and the LORD strengthened Eglon king of Moab against Israel because they had done evil in the eyes of the LORD.
-
-v13: Eglon gathered to himself the children of Ammon and Amalek. He went and struck Israel, and they possessed the City of Palms.
-
-v14: The children of Israel served Eglon king of Moab eighteen years.
-
-v15: Then the children of Israel cried out to the LORD, and the LORD raised up for them a deliverer, Ehud son of Gera, a Benjaminite, a man restricted in his right hand. The children of Israel sent tribute by his hand to Eglon king of Moab.
-
-v16: Ehud made for himself a sword with two edges, a cubit in length, and strapped it under his clothing on his right thigh.
-
-v17: He presented the tribute to Eglon king of Moab. Now Eglon was a very fat man.
+v12: Again the Israelites did what was evil in the LORD’s eyes. The LORD strengthened Eglon king of Moab against Israel because they had done what was evil in the LORD’s eyes.
+v13: Eglon gathered the Ammonites and Amalek to him, went out, and struck Israel. They took possession of the City of Palms.
+v14: The Israelites served Eglon king of Moab for eighteen years.
 </p>
 
 <p>
-v18: When Ehud had finished presenting the tribute, he sent away the people who had carried the tribute.
-
-v19: But he himself turned back from the carved stones near Gilgal and said, “I have a secret message for you, O king.” The king said, “Silence!” And everyone who stood around him went out from him.
-
-v20: Ehud came to him while he was sitting alone in the cool upper room. Ehud said, “I have a word from God for you.” And he rose from his seat.
-
-v21: Then Ehud reached with his left hand, took the sword from his right thigh, and thrust it into Eglon’s belly.
-
-v22: The handle also went in after the blade, and the fat closed over the blade, for he did not draw the sword out of his belly, and the refuse came out.
-
-v23: Then Ehud went out through the vestibule, closed the doors of the upper room behind him, and locked them.
+v15: The Israelites cried out to the LORD, and he raised up a rescuer for them: Ehud son of Gera, a Benjaminite, a left-handed man. The Israelites sent tribute with him to Eglon king of Moab.
+v16: Ehud made himself a double-edged sword, a gomed long, and strapped it under his clothes on his right thigh.
+v17: He presented the tribute to Eglon king of Moab. Eglon was a very fat man.
 </p>
 
-## Moab Is Defeated
-
 <p>
-v24: After he had gone out, Eglon’s servants came. They saw that the doors of the upper room were locked, and they said, “Surely he is covering his feet in the cool room.”
-
-v25: They waited until they were embarrassed, but look, he did not open the doors of the upper room. So they took the key and opened them, and look, their lord was fallen dead on the floor.
-
-v26: Ehud escaped while they delayed. He passed beyond the carved stones and escaped to Seirah.
-
-v27: When he arrived, he blew the ram’s horn in the hill country of Ephraim, and the children of Israel went down with him from the hill country, with him at their head.
-
-v28: He said to them, “Follow me, for the LORD has given your enemies, the Moabites, into your hand.” So they went down after him, seized the fords of the Jordan against Moab, and allowed no one to cross.
-
-v29: They struck down about ten thousand Moabites at that time, all strong and able men, and not one escaped.
-
-v30: So Moab was subdued that day under the hand of Israel, and the land had rest eighty years.
+v18: After presenting the tribute, Ehud sent away the people who had carried it.
+v19: But he himself turned back at the carved images near Gilgal. “I have a secret message for you, King,” he said. “Silence!” the king ordered, and all his attendants left him.
+v20: Ehud approached Eglon as he sat alone in his cool upper room. “I have a message from God for you,” Ehud said. The king rose from his seat.
+v21: Ehud reached with his left hand, drew the sword from his right thigh, and drove it into Eglon’s belly.
+v22: The hilt went in after the blade, and the fat closed over it. Ehud did not pull the sword out of his belly, and the excrement came out.
+v23: Ehud went out into the vestibule, closed the doors of the upper room behind him, and locked them.
 </p>
 
-## Shamgar
+<p>
+v24: After he left, the king’s servants came and found the upper-room doors locked. “He must be relieving himself in the cool room,” they said.
+v25: They waited until they were embarrassed, but he still did not open the doors. So they took the key and opened them. There lay their lord on the floor, dead.
+v26: Ehud escaped while they delayed. He passed the carved images and made his way to Seirah.
+</p>
+
+## Moab subdued
 
 <p>
-v31: After him came Shamgar son of Anath, who struck six hundred Philistines with an oxgoad, and he also saved Israel.
+v27: When he arrived, he blew the horn in Ephraim’s hill country. The Israelites came down from the hills with him leading them.
+v28: “Follow me,” he told them, “for the LORD has given your enemies, the Moabites, into your hand.” They followed him down, seized the Jordan crossings toward Moab, and let no one cross.
+v29: At that time they struck down about ten thousand Moabites, all strong and capable men. Not one escaped.
+v30: That day Moab was subdued under Israel’s hand, and the land rested for eighty years.
+</p>
+
+## Shamgar rescues Israel
+
+<p>
+v31: After Ehud came Shamgar son of Anath. He struck down six hundred Philistines with an oxgoad; he too rescued Israel.
 </p>
 
 ## Notes
 
-v01–04: The nations are described both as remaining because Israel had not driven them out and as instruments through which Israel is tested. Judges holds human failure and divine testing together.
+v02–04: Learning warfare and testing obedience are both stated purposes. The translation keeps both without adding an explanation of how they fit together.
 
-v07: “Asheroth” — The Hebrew plural can refer to cultic objects associated with the goddess Asherah or to manifestations of the goddess herself.
+v09: The kinship phrase has the same possible attachments as 1:13: Othniel or Kenaz may be Caleb’s younger brother.
 
-v10: “Spirit of the LORD” — The Spirit equips Othniel for judgment and deliverance. Judges repeatedly connects the Spirit with particular acts of empowered leadership.
+v15: The Hebrew describes Ehud as restricted in his right hand. Left-handed conveys his use of the left in verse 21; the phrase does not establish why.
 
-v15: “restricted in his right hand” — The Hebrew can mean left-handed or impaired in the right hand. The story depends on Ehud’s use of his left hand and concealment of the weapon on the unexpected side.
+v19: Carved images are also understood as carved stones or quarries. The same landmark recurs in verse 26.
 
-v19: “carved stones” — The Hebrew *pesilim* can mean carved images or idols. Their precise character at Gilgal is uncertain.
+v22–23: The last phrase of verse 22 is uncertain. The reading here describes excrement emerging; other interpretations concern the sword’s exit or Ehud’s departure. The clause is retained. Vestibule in verse 23 also translates an uncertain architectural word.
 
-v22: The narrative is intentionally graphic and humiliating toward Eglon. The Hebrew final phrase is difficult, but the scene clearly emphasizes the complete penetration of the sword and bodily collapse.
-
-v24: “covering his feet” — An idiom for relieving oneself. The servants’ assumption delays discovery and enables Ehud’s escape.
-
-v31: Shamgar’s notice is brief and lacks the fuller cycle found elsewhere, yet he is explicitly said to have saved Israel.
+v24: Relieving himself renders the expression “covering his feet.” The servants’ assumption explains their delay; it is not a report of what the king is doing.
 
 ## Vocabulary
 
-v01: נָסָה (nasah)
-“To test.” To expose or prove faithfulness through trial.
+v07: Asheroth
+A plural term associated with Asherah and her worship. It is not the Ashtaroth named in 2:13.
 
-v09: מוֹשִׁיעַ (moshia)
-“Deliverer” or “savior.” One raised up to rescue Israel from oppression.
+v16: gomed
+A rare Hebrew length measure, perhaps a cubit or a shorter measure. Its exact length is uncertain.
 
-v10: רוּחַ יְהוָה (ruach YHWH)
-“Spirit of the LORD.” Divine empowering presence.
+v17: tribute
+Goods delivered in acknowledgment of another ruler’s power.
 
-v15: אִטֵּר יַד־יְמִינוֹ (itter yad-yemino)
-“Restricted in his right hand.” An unusual expression describing Ehud’s handedness or limitation.
+v27: horn
+Hebrew shofar: an animal horn sounded as a signal.
 
-v16: גֹּמֶד (gomed)
-“Cubit” or short measure. A rare length term describing Ehud’s sword.
-
-v19: פְּסִילִים (pesilim)
-“Carved images” or “carved stones.” Objects shaped by carving, often idols.
-
-v27: שׁוֹפָר (shofar)
-“Ram’s horn.” Used to signal assembly or battle.
-
-v31: מַלְמַד (malmad)
-“Oxgoad.” A pointed agricultural tool used to direct cattle.
+v31: oxgoad
+A pointed implement used to drive working cattle, used here as a weapon.

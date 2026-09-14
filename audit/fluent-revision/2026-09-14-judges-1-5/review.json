@@ -1,0 +1,78 @@
+{
+  "scope": "Judges 1–5",
+  "revision_id": "fluent-judges-1-5-biblical-fluency-2026-09-14",
+  "base_commit": "1bee833986b0aff270b3f5f50f26357f29783223",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Judg",
+    "book_verse_count": 618,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "sha256": "1429da54e4c60bf805adea3ce2b96a57140d9d44a77bfb47050bae2ac954e1a3",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Judg.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including all written/read and other notes, not normalized reconstructions.",
+    "public_versification_note": "Public Judges 1–5 and Hebrew source references align one to one. All 145 original source records are bound exactly once."
+  },
+  "authoring_review": {
+    "all_source_verses_read": 145,
+    "all_tsw_comparator_verses_read_after_drafting": 145,
+    "focused_second_source_comparisons": 88,
+    "review_type": "Translation authoring and focused self-check; no independent reviewer or reader testing."
+  },
+  "completed_work": [
+    "Five complete source-based chapters, all 145 verses with individual rationale, F0–F3 choice, exact source binding and before/after/comparator text.",
+    "Selective notes preserve uncertainties and explain recurring terms. Poetry remains within its verse paragraphs.",
+    "All 49 cumulative source-binding ledgers passed, covering 6,763 verses in 221 chapters. Chapter structure, focused risks, preservation of unrelated work, translation-family audit and git diff --check passed.",
+    "This session also completed Joshua’s whole-book authoring consistency review, separately committed and documented."
+  ],
+  "key_decisions": [
+    "1 preserves all city lists, the capture notices alongside limits on expulsion, Benjamin in Jerusalem, compelled labor and the reversal of which people live among which. The kinship attachment in 1:13 stays open in a note.",
+    "2 returns retrospectively to Joshua’s lifetime; preserves Timnath-heres, the angel’s divine first-person speech, covenant, infidelity metaphor, divine harm and compassion. Judges remains a biblical title with its wider role explained.",
+    "3 retains both learning war and testing obedience as purposes, Asheroth distinct from Ashtaroth, Aram-naharaim and shorter Aram, all named rescuers and exact periods. Ehud’s left-handedness does not imply an invented cause. Gomed remains an uncertain ancient measure. The difficult final clause in 3:22 is retained with alternatives noted.",
+    "4 preserves Deborah’s prophetic and judicial agency, Barak’s conditional response without an invented motive, the distinction between Jabin and Sisera, exact military counts, Hobab’s kinship designation, reading-tradition Zaanannim and Jael’s deliberate lethal action.",
+    "5 keeps poetic repetition, changing voices, stars fighting, direct curses and blessing, the violent verb sequence and collapsing posture. It does not harmonize the song into the prose account. Wombs retains the dehumanizing image for captive women; the note makes the implicit sexual harm and the speakers clear.",
+    "5 retains the source’s different Reuben heart nouns in 15–16, root in Amalek, repeated galloping, address to the soul, repeated plunder and the your-to-him shift in 31. Difficult readings in 2,5,7–8,10–11,13–16,21–23,30 remain identified."
+  ],
+  "remaining_review_questions": [
+    "Independent Hebrew review of rare or compressed expressions, especially 1:13–16,19,36; 2:3; 3:16,22–23; 4:4,11,15; 5:2,5,7–8,10–16,21,23,30.",
+    "Jabin is supplied for the ruler’s pronoun in 4:3; review this clarification alongside Sisera’s command of the same chariots in 4:13.",
+    "Whole-book Judges consistency review follows the remaining narratives; reader comprehension and sustained listening have not been tested."
+  ],
+  "overlap": {
+    "before": {
+      "identical": 126,
+      "near_identical_nonidentical": 19
+    },
+    "after": {
+      "identical": 2,
+      "near_identical_nonidentical": 12
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse overlap is triage only, not fidelity, originality, comprehension or independent approval.",
+  "high_overlap_triage": "All 14 verses with normalized similarity at least 0.90 were inspected. Clear common wording, repeated source formulas and compressed poetry were retained where appropriate; no wording was forced away from TSW to meet a quota.",
+  "companion_impact": {
+    "changed_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "action": "Reconcile Fluent quotations and bindings at later authorized installation. Joshua 1,23,24 refinements also affect quoted text or bindings.",
+    "separate_companion_branch_changed": false
+  },
+  "github_write_status": "Existing authentication/integration access blocker remains; no rejected write retried.",
+  "next_scope": "Judges 6–12"
+}

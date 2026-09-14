@@ -241,12 +241,25 @@
       "scope": "Joshua 18–24",
       "verses": 216,
       "ledger": "audit/fluent-revision/2026-09-14-joshua-18-24/joshua-verse-review.json"
+    },
+    {
+      "scope": "Judges 1–5",
+      "verses": 145,
+      "ledger": "audit/fluent-revision/2026-09-14-judges-1-5/judges-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Judges 1–5",
-      "action": "Verify the repository-pinned Hebrew attribution before beginning the next book. Draft complete connected chapters from that source, preserving prose and poetry, gender, violence, ambiguity and meaningful repetition."
+      "scope": "Judges 6–12",
+      "action": "Continue in a large connected batch from pinned Hebrew: Gideon, Abimelech, subsequent judges and Jephthah. Preserve speeches, cultic terms, numbers, violence, vows and uncertainty."
+    },
+    {
+      "scope": "Judges 13–21",
+      "action": "Complete the remaining narratives in connected chapters with particular care for sexual violence, kinship, repeated refrains and source wording."
+    },
+    {
+      "scope": "Judges whole-book consistency review",
+      "action": "Read the complete draft and revisit selected Hebrew for recurring language, cycles, names, numbers and literary contrasts. Distinguish self-check from independent editorial review."
     }
   ],
   "standards": [
