@@ -36,7 +36,7 @@
     "verse_count": 31,
     "path": "translations/fluent/OT/judges/Judges_05.md",
     "before_sha256": "bfb29f7d87abde06ad6e49a66e159de74b204c6fcee959efb23486f908312baa",
-    "after_sha256": "6ade7e6d839a6e22109294c7302a5b6abad74bb10fc5363c9eea277410b10465",
+    "after_sha256": "c170213e364d57b8bbe334eb8ffae9c9ed1908f36d70e4daca2f6e4b95d66b2a",
     "tsw_comparator_path": "books/OT/judges/Judges_05.md",
     "tsw_comparator_sha256": "835ab47de0b8df3b6b68cf49c8f6b5133db40f5843d9f9ba80125b0a29ac4a8c"
   },
@@ -146,6 +146,27 @@
       "delta": "F3",
       "decision": "Preserve the prayer for enemies’ death, shift from your to him, sun image and separate narrator’s rest notice.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "consistency_revisions": [
+    {
+      "id": "fluent-judges-consistency-2026-09-14",
+      "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+      "prior_chapter_binding": {
+        "chapter": 5,
+        "verse_count": 31,
+        "path": "translations/fluent/OT/judges/Judges_05.md",
+        "before_sha256": "bfb29f7d87abde06ad6e49a66e159de74b204c6fcee959efb23486f908312baa",
+        "after_sha256": "6ade7e6d839a6e22109294c7302a5b6abad74bb10fc5363c9eea277410b10465",
+        "tsw_comparator_path": "books/OT/judges/Judges_05.md",
+        "tsw_comparator_sha256": "835ab47de0b8df3b6b68cf49c8f6b5133db40f5843d9f9ba80125b0a29ac4a8c"
+      },
+      "report": "audit/fluent-revision/2026-09-14-judges-consistency/review.json",
+      "changed_verses": [
+        "Judges 5:18",
+        "Judges 5:28"
+      ],
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

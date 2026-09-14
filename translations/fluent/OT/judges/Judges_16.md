@@ -7,7 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision: fluent-judges-13-21-biblical-fluency-2026-09-14
+revision: fluent-judges-consistency-2026-09-14
 ---
 
 ## Samson at Gaza
@@ -43,7 +43,7 @@ v13: Delilah told Samson, “You have kept making a fool of me and telling me li
 v14: She fastened it with the pin and called, “The Philistines are upon you, Samson!” He woke from sleep and pulled out the loom pin and the woven web.
 </p>
 
-## Samson tells her all his heart
+## Samson tells her all that is in his heart
 
 <p>
 v15: She said, “How can you say, ‘I love you,’ when your heart is not with me? You have made a fool of me three times and have not told me what makes your strength so great.”
@@ -52,7 +52,7 @@ v17: He told her all that was in his heart: “No razor has touched my head, for
 </p>
 
 <p>
-v18: Delilah saw that he had told her all his heart. She sent for the Philistine rulers: “Come up this time. He has told me all his heart.” They came to her with the silver in their hands.
+v18: Delilah saw that he had told her all that was in his heart. She sent for the Philistine rulers: “Come up this time. He has told me all that is in his heart.” They came to her with the silver in their hands.
 v19: She lulled him to sleep on her knees, called a man, and had the seven locks of his hair shaved off. Then she began to afflict him, and his strength left him.
 </p>
 
@@ -101,7 +101,7 @@ v07–09: Bowstrings may refer to fresh cords of animal sinew. The recurring cry
 
 v13–14: The Hebrew condition breaks off after the loom’s web. A longer Greek form supplies the threatened weakness and a fuller account of weaving the hair. The draft keeps the short Hebrew and marks its unfinished condition.
 
-v17–20: All his heart repeats the image of full disclosure. Verse 19 grammatically attributes shaving to Delilah, after she calls a man; had the hair shaved represents her responsibility. Afflict continues the purpose stated in verses 5–6.
+v17–20: All that is in his heart preserves the repeated image of full disclosure. Verse 19 grammatically attributes shaving to Delilah, after she calls a man; had the hair shaved represents her responsibility. Afflict continues the purpose stated in verses 5–6.
 
 v28: For one of my two eyes follows one reading of the compressed phrase. Another is a single act of revenge for both eyes. The request remains Samson’s own.
 

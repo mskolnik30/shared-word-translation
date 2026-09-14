@@ -330,5 +330,18 @@
     ],
     "not_yet_revised_chapters": [],
     "note": "Source-based draft and authoring self-check only. Earlier approvals and bindings are historical for changed chapters; no independent approval transfers. Companion bindings for chapters 13–21 require later reconciliation."
-  }
+  },
+  "consistency_passes": [
+    {
+      "id": "fluent-judges-consistency-2026-09-14",
+      "report": "audit/fluent-revision/2026-09-14-judges-consistency/review.json",
+      "qualification": "Structural scan of all 21 chapters, all 618 English verses read and 265 selected source/English comparisons; five verse refinements in chapters 5, 16 and 19. Independent editorial review remains pending.",
+      "changed_chapters": [
+        5,
+        16,
+        19
+      ],
+      "prior_commit": "3504ff60de9df091d43250021588219d735a45a7"
+    }
+  ]
 }

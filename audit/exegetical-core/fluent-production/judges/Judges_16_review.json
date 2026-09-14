@@ -40,7 +40,7 @@
     "verse_count": 31,
     "path": "translations/fluent/OT/judges/Judges_16.md",
     "before_sha256": "ef1793a1a791f9c25ade48968ecdf4abb69dc9aeb1d7f2eafaafdda705e282c9",
-    "after_sha256": "e88f0659b437405a2f7570cb19ea3bd6513a7c57067fe99aac6a3b02419a3d83",
+    "after_sha256": "c9b9684dfdea449c43181a767eabf2bde2b820d517c64f71ad6f1e43fb2688af",
     "tsw_comparator_path": "books/OT/judges/Judges_16.md",
     "tsw_comparator_sha256": "312db2139bf34af6d811628ba0c25aed69d5edee73f01f9a48bbe9fd74ee5971"
   },
@@ -150,6 +150,26 @@
       "delta": "F3",
       "decision": "Retain his death wish, the collective killing and the narrator’s comparison without praise added.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "consistency_revisions": [
+    {
+      "id": "fluent-judges-consistency-2026-09-14",
+      "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+      "prior_chapter_binding": {
+        "chapter": 16,
+        "verse_count": 31,
+        "path": "translations/fluent/OT/judges/Judges_16.md",
+        "before_sha256": "ef1793a1a791f9c25ade48968ecdf4abb69dc9aeb1d7f2eafaafdda705e282c9",
+        "after_sha256": "e88f0659b437405a2f7570cb19ea3bd6513a7c57067fe99aac6a3b02419a3d83",
+        "tsw_comparator_path": "books/OT/judges/Judges_16.md",
+        "tsw_comparator_sha256": "312db2139bf34af6d811628ba0c25aed69d5edee73f01f9a48bbe9fd74ee5971"
+      },
+      "report": "audit/fluent-revision/2026-09-14-judges-consistency/review.json",
+      "changed_verses": [
+        "Judges 16:18"
+      ],
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

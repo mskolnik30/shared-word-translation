@@ -260,8 +260,12 @@
   ],
   "next_work": [
     {
-      "scope": "Judges whole-book consistency review",
-      "action": "Read the complete draft and revisit selected Hebrew for recurring language, cycles, names, numbers and literary contrasts. Distinguish self-check from independent editorial review."
+      "scope": "Ruth 1–4",
+      "action": "Translate the complete connected book from its verified pinned Hebrew, then compare TSW and perform whole-book authoring consistency review; preserve independent-review qualification."
+    },
+    {
+      "scope": "1 Samuel 1–12",
+      "action": "Proceed in a large connected complete-chapter batch from the repository’s verified pinned Hebrew source."
     }
   ],
   "standards": [
@@ -304,6 +308,11 @@
       "scope": "Joshua 1–24",
       "report": "audit/fluent-revision/2026-09-14-joshua-consistency/review.json",
       "qualification": "Whole-book structural scan, all 658 English verses read and 200 selected source/English comparisons; three verse refinements in three chapters, affected ledger rebound; independent scholarly review and reader testing pending."
+    },
+    {
+      "scope": "Judges 1–24",
+      "report": "audit/fluent-revision/2026-09-14-judges-consistency/review.json",
+      "qualification": "Whole-book structural scan, all 618 English verses read and 265 selected source/English comparisons; five verse refinements in three chapters, affected ledger rebound; independent scholarly review and reader testing pending."
     }
   ],
   "batch_preference": "Matt explicitly requested larger batches on 2026-09-13. Aim for connected scopes of roughly 150–250 verses where feasible, preserving every-source-verse reading, verse-specific rationale and complete-chapter checks."

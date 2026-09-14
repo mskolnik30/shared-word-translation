@@ -7,7 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision: fluent-judges-1-5-biblical-fluency-2026-09-14
+revision: fluent-judges-consistency-2026-09-14
 ---
 
 ## Deborah and Barak sing
@@ -91,7 +91,7 @@ v17: Gilead stayed beyond the Jordan.
 And Dan—why did he linger by the ships?
 Asher sat by the seashore
 and stayed beside his harbors.
-v18: Zebulun was a people who risked their lives to death,
+v18: Zebulun was a people who risked their lives even to death,
 and Naphtali too, on the heights of the field.
 </p>
 
@@ -147,7 +147,7 @@ Where he sank, there he fell—destroyed.
 v28: Through the window Sisera’s mother looked,
 crying through the lattice:
 “Why is his chariot so long in coming?
-Why are the hoofbeats of his chariots delayed?”
+Why is the clatter of his chariots delayed?”
 v29: Her wisest ladies answer her;
 she too repeats their words to herself:
 v30: “Surely they are finding and dividing plunder—
@@ -183,6 +183,8 @@ v14–16: The root in Amalek is retained. Issachar’s compressed line pictures 
 v21–23: Ancient is uncertain. Verse 21 retains an address to the speaker’s own soul. In verse 23, among the warriors can also mean against them.
 
 v26–27: The song piles up blows and repeated falls. These images are not rearranged to make a single scene with chapter 4.
+
+v28: Clatter renders the image of the chariots’ footsteps. The question imagines their delayed arrival; the Hebrew does not mention horses here.
 
 v30: The wombs are women imagined as war plunder, reduced to their bodies; the sexual violence implicit in this language should not be missed. These are the imagined words of Sisera’s mother and her ladies. The ending literally associates necks with plunder; those taking it are supplied here. Doubly embroidered may instead refer to two embroidered pieces.
 

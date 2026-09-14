@@ -1,0 +1,353 @@
+{
+  "scope": "Judges 1–21 whole-book authoring consistency review",
+  "revision_id": "fluent-judges-consistency-2026-09-14",
+  "base_commit": "3504ff60de9df091d43250021588219d735a45a7",
+  "draft_verses_read": 618,
+  "chapter_apparatus_read": 21,
+  "selected_hebrew_verses_reread": 265,
+  "newly_translated_verses": 0,
+  "refined_verses": 5,
+  "changed_chapters": [
+    5,
+    16,
+    19
+  ],
+  "status": "AUTHORING_CONSISTENCY_PASS_COMPLETE",
+  "independent_editorial_status": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Judg",
+    "book_verse_count": 618,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "sha256": "1429da54e4c60bf805adea3ce2b96a57140d9d44a77bfb47050bae2ac954e1a3",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Judg.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including all written/read and other notes, not normalized reconstructions.",
+    "public_versification_note": "All 618 Judges public references align one to one with source records; this pass reread 265 selected records."
+  },
+  "chapter_reading_record": [
+    {
+      "chapter": 1,
+      "verse_count": 36,
+      "after_sha256": "3621d31e494a758f637c9f8587c9e59776d6a4f3b907e0ee8feb3a02a840adf7",
+      "observations": "Judah/Simeon brother language, capture versus failed expulsion, forced labor, Kenite kinship, Othniel/Achsah and the Dan restriction remain coherent without harmonizing Joshua."
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "after_sha256": "779a0586989ef11aac29c095ec44653dd9bde72a21cc66ed624397c1f653402b",
+      "observations": "The return to Joshua’s lifetime is clear. Covenant, abandonment, judges, rescue, hand, groaning, corruption and testing establish the recurring cycle."
+    },
+    {
+      "chapter": 3,
+      "verse_count": 31,
+      "after_sha256": "aabe5f21987949a689b8176a37f9966f30b1cfbd2cddc3fb526cd594ee4e1ccb",
+      "observations": "Asheroth remains distinct from Ashtaroth. Exact service/rest counts, Ehud’s left hand and right thigh, difficult bodily/architectural phrases and Shamgar’s separate notice remain."
+    },
+    {
+      "chapter": 4,
+      "verse_count": 24,
+      "after_sha256": "35766bd4ed2bd4a2c45d3b8f61a252c7aba1a140460f9b59601fe62f3c423842",
+      "observations": "Deborah’s female prophetic and judging role, Barak’s conditional reply, the woman’s hand, chariot count and Jael’s killing retain their specific agents. This prose account is not merged with the song."
+    },
+    {
+      "chapter": 5,
+      "verse_count": 31,
+      "after_sha256": "c170213e364d57b8bbe334eb8ffae9c9ed1908f36d70e4daca2f6e4b95d66b2a",
+      "observations": "The complete song retains parallel lines, repetitions, changing speakers, communal participation, difficult old wording and the captive-women image. Two lines refined for degree and chariot sound, with the footsteps image noted."
+    },
+    {
+      "chapter": 6,
+      "verse_count": 40,
+      "after_sha256": "2cc1d228756ac6795d1f0ec6ff44ca48b2e61c24a512195dd18054b914e5b7e3",
+      "observations": "Gideon’s accusation remains his voice, grasp renders kaph while hand commonly renders yad, the two-bull ambiguity remains noted, the Spirit clothing image survives, and opposite fleece tests remain distinct."
+    },
+    {
+      "chapter": 7,
+      "verse_count": 25,
+      "after_sha256": "b3a9fc889d939f8f29adcef931155dfede63241a8b7478e89fa42eb70ed85e0d",
+      "observations": "Gilead, drinking descriptions, camp geography, 22,000/10,000/300 counts and distinct instructions/performed battle cries remain; pursuit is not harmonized with the next chapter’s crossing."
+    },
+    {
+      "chapter": 8,
+      "verse_count": 35,
+      "after_sha256": "0d0839ceac300a5807b5b0f1a8e71defc389178d6f693d4bfa7146e142f05bc4",
+      "observations": "Ephraim’s gleanings, captured-hands threat, violence at Succoth/Penuel, counts, rule refusal, ephod/snare and household kindness remain visible. Abimelech’s birth and kingly name are not flattened into an explanation."
+    },
+    {
+      "chapter": 9,
+      "verse_count": 57,
+      "after_sha256": "0a510e3a5266b536198dbd879136be6fdeb3b77b8e80f85fd0b98c75f10b4725",
+      "observations": "The tree fable remains connected prose with repeated invitations, sway, shade and reciprocal fire. Seventy sons and surviving Jotham, slave-woman speech, evil spirit, shifting companies and the unnamed woman remain."
+    },
+    {
+      "chapter": 10,
+      "verse_count": 18,
+      "after_sha256": "fef54545d790bc27c08cc0fd866fa8936a2304e79011b6b657fbf4f29320d6c6",
+      "observations": "All minor-judge family/town/year counts, foreign gods, Maon and repeated abandonment/rescue terms remain. That year and eighteen years are retained together."
+    },
+    {
+      "chapter": 11,
+      "verse_count": 40,
+      "after_sha256": "59eac2a15101a8e2ae09c8f707df2eb3088c1fb4bbacc07fc2ec6aa1c04f4ada",
+      "observations": "Commander/head negotiation, rival land account, Chemosh, 300 years and the LORD as Judge remain. Spirit and vow remain separate; the unnamed daughter’s loss and restrained fulfillment are preserved."
+    },
+    {
+      "chapter": 12,
+      "verse_count": 15,
+      "after_sha256": "79e3cdbc78e701983da64f2cf1ce5ded44eb1e640ffeda5b33a418876ce65118",
+      "observations": "Ephraim’s second confrontation differs from Gideon’s earlier response. The fugitives taunt, Shibboleth test, 42,000 deaths and minor-judge notices remain without normalization."
+    },
+    {
+      "chapter": 13,
+      "verse_count": 25,
+      "after_sha256": "ea380729d0512faacdac89573111181659376eef0038ab5d5f84911f91b8c15d",
+      "observations": "The woman’s encounters, distinct announcement and retelling, womb consecration, begin rescue, wonder/name relation and wife’s reasoning remain clear."
+    },
+    {
+      "chapter": 14,
+      "verse_count": 20,
+      "after_sha256": "e0927f664f4d539be6ea8d2366a9ebfb2eb037f6282fd8c54f9a88cdf81f5e88",
+      "observations": "Right in my eyes connects to the book’s refrain. The riddle, heifer image, seven/three-day tension and killings retain separate speakers and literary forms."
+    },
+    {
+      "chapter": 15,
+      "verse_count": 20,
+      "after_sha256": "ce8badd16db3c240d46a643084bad7e6f43dc2ff732049a61d0ce40070fdd04d",
+      "observations": "Reciprocal retaliation, the woman and father’s deaths, numerical details, jawbone poem, Lehi spring and twenty years under Philistine power remain."
+    },
+    {
+      "chapter": 16,
+      "verse_count": 31,
+      "after_sha256": "c9b9684dfdea449c43181a767eabf2bde2b820d517c64f71ad6f1e43fb2688af",
+      "observations": "Full-heart disclosure now reads naturally in all three occurrences across 17–18. Loom gap, affliction, mutilation, rooftop count, revenge ambiguity and death comparison remain."
+    },
+    {
+      "chapter": 17,
+      "verse_count": 13,
+      "after_sha256": "7c06c1f3e622f6728e0ef8e282de5c7699d50567e0875e1ea1c23e8d5acc6903",
+      "observations": "Micah’s dedication/image contradiction, 1,100/200/10 silver figures, father/son/priest relations and exact closing-book refrain remain."
+    },
+    {
+      "chapter": 18,
+      "verse_count": 31,
+      "after_sha256": "37c7e68e7440906795d4c7f43aec2abd10866e71796ba88b1e43e931558674d8",
+      "observations": "Dan’s inheritance claim, oracle, uncertain Laish clause, distinct object lists, violence against a quiet secure people, Manasseh/Moses issue and Shiloh/exile notices remain."
+    },
+    {
+      "chapter": 19,
+      "verse_count": 30,
+      "after_sha256": "0d6cc2f2cdfd566cb6e228964fcb25e25916f11665b56b407910a57703c717a0",
+      "observations": "Corrected the father’s plural stay command and clarified the husband’s agency. All time markers, uncertain departure/destination readings, sexual violence, master designation, threshold image and unannounced time of death remain."
+    },
+    {
+      "chapter": 20,
+      "verse_count": 48,
+      "after_sha256": "edfd227f6c770f9d09269f5d3af472cee6e2b15fe68dfa080d9fcc038b62c4b8",
+      "observations": "The Levite’s account remains distinct from the narrator. The opening Judah-first question echoes 1:1, now against Benjamin. All inquiries, retrospective battle scenes, disputed place forms and nonmatching casualty totals remain."
+    },
+    {
+      "chapter": 21,
+      "verse_count": 25,
+      "after_sha256": "dcc8d69fb4b96d9c09efcf19e995f78dadeb8c4c736887bdadabba94df2853f8",
+      "observations": "The two human oaths, killing and captive-taking, Shiloh abduction, inheritance language and exact 17:6 refrain remain. The elders’ uncertain oath argument remains qualified rather than endorsed."
+    }
+  ],
+  "cross_book_themes": [
+    {
+      "theme": "Evaluation and eyes",
+      "references": [
+        "2:11",
+        "3:7",
+        "3:12",
+        "4:1",
+        "6:1",
+        "10:6",
+        "13:1",
+        "14:3",
+        "14:7",
+        "17:6",
+        "19:24",
+        "21:25"
+      ],
+      "decision": "Preserve evil in the LORD’s eyes, Samson’s right-in-eyes claims, the host’s good-in-eyes offer and the final exact refrain. Moral speakers remain distinguishable."
+    },
+    {
+      "theme": "Hand, grasp and power",
+      "references": [
+        "2:14–18",
+        "3:10",
+        "4:9",
+        "6:13–14",
+        "7:2",
+        "8:6–7",
+        "12:3",
+        "15:18"
+      ],
+      "decision": "Retain meaningful bodily power imagery; grasp in 6:13–14 reflects kaph and does not require mechanical harmonization to hand."
+    },
+    {
+      "theme": "Spirit and agency",
+      "references": [
+        "3:10",
+        "6:34",
+        "9:23",
+        "11:29–31",
+        "13:25",
+        "14:6",
+        "14:19",
+        "15:14",
+        "16:20"
+      ],
+      "decision": "Preserve came upon, clothed himself, began to stir, rushed upon, and left according to their verbs. Do not turn the following actions or human vows into divine commands."
+    },
+    {
+      "theme": "Rest and time",
+      "references": [
+        "3:8",
+        "3:11",
+        "3:14",
+        "3:30",
+        "4:3",
+        "5:31",
+        "6:1",
+        "8:28",
+        "9:22",
+        "10:2–8",
+        "12:7–14",
+        "13:1",
+        "15:20",
+        "16:31"
+      ],
+      "decision": "Retain each period as stated, including repeated twenty-year Samson notices; do not sum them into an unsupported linear chronology."
+    },
+    {
+      "theme": "Kinship and affected women",
+      "references": [
+        "1:13–15",
+        "4:4–21",
+        "5:30",
+        "8:31",
+        "9:18",
+        "11:34–40",
+        "13:3–23",
+        "15:6",
+        "19:1–29",
+        "21:10–23"
+      ],
+      "decision": "Preserve specific gender, distinct narratorial and quoted designations, naming or anonymity, and explicit harm. Clarify the husband’s action at 19:25 without changing master in 26–27."
+    },
+    {
+      "theme": "Inheritance and tribal relations",
+      "references": [
+        "1:3",
+        "1:34",
+        "2:6",
+        "11:2",
+        "18:1",
+        "20:1",
+        "21:17",
+        "21:24"
+      ],
+      "decision": "Retain inheritance and tribe/clan distinctions while recording Dan’s allotment tension. No book-to-book historical harmonization."
+    },
+    {
+      "theme": "Cult and objects",
+      "references": [
+        "2:13",
+        "3:7",
+        "6:25",
+        "8:27",
+        "9:4",
+        "9:46",
+        "17:3–5",
+        "18:17–20"
+      ],
+      "decision": "Keep Ashtaroth/Asheroth/Asherah, Baal-berith/El-berith and the object lists distinct. Vocabulary explains terms without claiming an exact ephod reconstruction."
+    },
+    {
+      "theme": "Competing accounts and repetition",
+      "references": [
+        "4:21",
+        "5:26–27",
+        "13:5",
+        "13:7",
+        "14:15–17",
+        "19:25–28",
+        "20:4–6",
+        "20:35–46"
+      ],
+      "decision": "Preserve narrative and poetic differences, the woman’s retelling, temporal tensions, the Levite’s omitted action and the retrospective battle account. Do not make repeated accounts identical."
+    }
+  ],
+  "changes_file": "changes.json",
+  "focused_comparisons_file": "focused-comparisons.json",
+  "source_detail": "All 265 selected original XML records were read, including their written/read and other annotations, and bound by exact substring hash. The pinned morphology identifies 19:8 vehitmahmehu as a plural imperative (HC/Vtv2mp).",
+  "comparator_review": "The five changed verses were compared with TSW after source-led refinement. Earlier complete TSW comparisons remain documented in the original batches. No additional full-book TSW rereading is claimed for this pass.",
+  "overlap": {
+    "before": {
+      "identical": 9,
+      "near_identical_nonidentical": 24
+    },
+    "after": {
+      "identical": 9,
+      "near_identical_nonidentical": 24
+    }
+  },
+  "overlap_qualification": "Existing revised draft comparison only; similarity is not proof of originality, fidelity or comprehension.",
+  "preserved_provenance": "Original source, base commits, initial before text, comparators and editorial classifications remain in the ledgers. Five refinements have additive history. Two affected ledgers and three chapter bindings are rebound; historical reports remain snapshots.",
+  "review_limits": [
+    "This is a translation-authoring self-check, not an independent Hebrew review or publication approval.",
+    "The entire English draft and apparatus were read; this pass reread 265 selected Hebrew verses, not every Hebrew verse anew. Complete first-source readings were recorded in the three draft batches.",
+    "Consequential uncertainties remain in chapter 5’s old poetry, 6:25–26, 7:3–8, 9:31,44, 11:24,31,37–40, 14:4,15, 16:13–14,28, 17:3–4,7, 18:7,18,30, 19:2,18, 20:31–43,48 and 21:22. Existing notes preserve alternatives.",
+    "No reader-comprehension or listening test has occurred."
+  ],
+  "companion_impact": {
+    "newly_changed_chapters": [
+      5,
+      16,
+      19
+    ],
+    "action": "Reconcile quotations, notes references and text bindings on later authorized installation; preserve earlier recorded impacts.",
+    "separate_companion_branch_changed": false
+  },
+  "github_upload": "Established access blocker remains; no rejected write retried.",
+  "next_work": [
+    {
+      "scope": "Ruth 1–4",
+      "action": "Translate the complete connected book from its verified pinned Hebrew, then compare TSW and perform whole-book authoring consistency review; preserve independent-review qualification."
+    },
+    {
+      "scope": "1 Samuel 1–12",
+      "action": "Proceed in a large connected complete-chapter batch from the repository’s verified pinned Hebrew source."
+    }
+  ]
+}

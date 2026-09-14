@@ -40,7 +40,7 @@
     "verse_count": 30,
     "path": "translations/fluent/OT/judges/Judges_19.md",
     "before_sha256": "0e3b8baeb7ca838e7314644187d41bf72625b742d2d04647ba72e5fb8a5d709b",
-    "after_sha256": "e747026a40994a4eeea6ef0a770022e8c7ebf0927211330a7bf9a9d5e6d810d2",
+    "after_sha256": "0d6cc2f2cdfd566cb6e228964fcb25e25916f11665b56b407910a57703c717a0",
     "tsw_comparator_path": "books/OT/judges/Judges_19.md",
     "tsw_comparator_sha256": "9f324c84c8850c3cd18c4d336db026f6d0f87fa2af061d22fa107d6ff6aa168d"
   },
@@ -138,6 +138,27 @@
       "delta": "F3",
       "decision": "Retain dismemberment, number and her as the sent object; do not resolve the time of death.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "consistency_revisions": [
+    {
+      "id": "fluent-judges-consistency-2026-09-14",
+      "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+      "prior_chapter_binding": {
+        "chapter": 19,
+        "verse_count": 30,
+        "path": "translations/fluent/OT/judges/Judges_19.md",
+        "before_sha256": "0e3b8baeb7ca838e7314644187d41bf72625b742d2d04647ba72e5fb8a5d709b",
+        "after_sha256": "e747026a40994a4eeea6ef0a770022e8c7ebf0927211330a7bf9a9d5e6d810d2",
+        "tsw_comparator_path": "books/OT/judges/Judges_19.md",
+        "tsw_comparator_sha256": "9f324c84c8850c3cd18c4d336db026f6d0f87fa2af061d22fa107d6ff6aa168d"
+      },
+      "report": "audit/fluent-revision/2026-09-14-judges-consistency/review.json",
+      "changed_verses": [
+        "Judges 19:8",
+        "Judges 19:25"
+      ],
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

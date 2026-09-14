@@ -70,7 +70,7 @@
       "verse_count": 31,
       "path": "translations/fluent/OT/judges/Judges_05.md",
       "before_sha256": "bfb29f7d87abde06ad6e49a66e159de74b204c6fcee959efb23486f908312baa",
-      "after_sha256": "6ade7e6d839a6e22109294c7302a5b6abad74bb10fc5363c9eea277410b10465",
+      "after_sha256": "c170213e364d57b8bbe334eb8ffae9c9ed1908f36d70e4daca2f6e4b95d66b2a",
       "tsw_comparator_path": "books/OT/judges/Judges_05.md",
       "tsw_comparator_sha256": "835ab47de0b8df3b6b68cf49c8f6b5133db40f5843d9f9ba80125b0a29ac4a8c"
     }
@@ -1782,15 +1782,26 @@
     {
       "reference": "Judges 5:18",
       "delta": "F3",
-      "rationale": "Retain death-risk and the field heights, contrasting these groups with those who stayed.",
+      "rationale": "Retain death-risk and the field heights, contrasting these groups with those who stayed. Consistency refinement: Add even to make the English degree expression intelligible while retaining the source’s life/death language and the parallel naming of Zebulun and Naphtali; preserve poetry.",
       "source_reference": "Judg 5:18",
       "source_verse_sha256": "67cf44439ffb35cda7fd6a72ae516c21d911a9197322baff0ab6c3ac8c4831ef",
       "before": "Zebulun was a people who risked their lives to death, and Naphtali also, on the heights of the field.",
-      "after": "Zebulun was a people who risked their lives to death, and Naphtali too, on the heights of the field.",
+      "after": "Zebulun was a people who risked their lives even to death, and Naphtali too, on the heights of the field.",
       "tsw_comparator": "Zebulun was a people who risked their lives to death, and Naphtali also, on the heights of the field.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.947368,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-judges-consistency-2026-09-14",
+          "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+          "prior_after": "Zebulun was a people who risked their lives to death, and Naphtali too, on the heights of the field.",
+          "prior_delta": "F3",
+          "prior_rationale": "Retain death-risk and the field heights, contrasting these groups with those who stayed.",
+          "refinement_delta": "F2",
+          "rationale": "Add even to make the English degree expression intelligible while retaining the source’s life/death language and the parallel naming of Zebulun and Naphtali; preserve poetry."
+        }
+      ]
     },
     {
       "reference": "Judges 5:19",
@@ -1912,15 +1923,26 @@
     {
       "reference": "Judges 5:28",
       "delta": "F2",
-      "rationale": "Retain mother’s audible anxiety, window/lattice and both questions.",
+      "rationale": "Retain mother’s audible anxiety, window/lattice and both questions. Consistency refinement: Render the figurative footsteps of the chariots as clatter rather than assigning hooves to the vehicles. Retain both questions, the mother’s waiting, and poetic lines; explain the footsteps image in a selective note.",
       "source_reference": "Judg 5:28",
       "source_verse_sha256": "695b2931940ea848c59505baa20f85f8c518c52ee4b32bac3f3bc6711c5082b7",
       "before": "Through the window she looked down, the mother of Sisera cried through the lattice: “Why is his chariot delayed in coming? Why are the hoofbeats of his chariots late?”",
-      "after": "Through the window Sisera’s mother looked, crying through the lattice: “Why is his chariot so long in coming? Why are the hoofbeats of his chariots delayed?”",
+      "after": "Through the window Sisera’s mother looked, crying through the lattice: “Why is his chariot so long in coming? Why is the clatter of his chariots delayed?”",
       "tsw_comparator": "Through the window she looked down, the mother of Sisera cried through the lattice: “Why is his chariot delayed in coming? Why are the hoofbeats of his chariots late?”",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.727273,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.654545,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-judges-consistency-2026-09-14",
+          "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+          "prior_after": "Through the window Sisera’s mother looked, crying through the lattice: “Why is his chariot so long in coming? Why are the hoofbeats of his chariots delayed?”",
+          "prior_delta": "F2",
+          "prior_rationale": "Retain mother’s audible anxiety, window/lattice and both questions.",
+          "refinement_delta": "F2",
+          "rationale": "Render the figurative footsteps of the chariots as clatter rather than assigning hooves to the vehicles. Retain both questions, the mother’s waiting, and poetic lines; explain the footsteps image in a selective note."
+        }
+      ]
     },
     {
       "reference": "Judges 5:29",
@@ -1984,5 +2006,16 @@
       "F3": 74,
       "F0": 2
     }
-  }
+  },
+  "consistency_revisions": [
+    {
+      "id": "fluent-judges-consistency-2026-09-14",
+      "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+      "report": "audit/fluent-revision/2026-09-14-judges-consistency/review.json",
+      "changed_references": [
+        "Judges 5:18",
+        "Judges 5:28"
+      ]
+    }
+  ]
 }

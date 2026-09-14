@@ -65,7 +65,7 @@
       "verse_count": 31,
       "path": "translations/fluent/OT/judges/Judges_16.md",
       "before_sha256": "ef1793a1a791f9c25ade48968ecdf4abb69dc9aeb1d7f2eafaafdda705e282c9",
-      "after_sha256": "e88f0659b437405a2f7570cb19ea3bd6513a7c57067fe99aac6a3b02419a3d83",
+      "after_sha256": "c9b9684dfdea449c43181a767eabf2bde2b820d517c64f71ad6f1e43fb2688af",
       "tsw_comparator_path": "books/OT/judges/Judges_16.md",
       "tsw_comparator_sha256": "312db2139bf34af6d811628ba0c25aed69d5edee73f01f9a48bbe9fd74ee5971"
     },
@@ -92,7 +92,7 @@
       "verse_count": 30,
       "path": "translations/fluent/OT/judges/Judges_19.md",
       "before_sha256": "0e3b8baeb7ca838e7314644187d41bf72625b742d2d04647ba72e5fb8a5d709b",
-      "after_sha256": "e747026a40994a4eeea6ef0a770022e8c7ebf0927211330a7bf9a9d5e6d810d2",
+      "after_sha256": "0d6cc2f2cdfd566cb6e228964fcb25e25916f11665b56b407910a57703c717a0",
       "tsw_comparator_path": "books/OT/judges/Judges_19.md",
       "tsw_comparator_sha256": "9f324c84c8850c3cd18c4d336db026f6d0f87fa2af061d22fa107d6ff6aa168d"
     },
@@ -1185,15 +1185,26 @@
     {
       "reference": "Judges 16:18",
       "delta": "F2",
-      "rationale": "Retain threefold heart disclosure across the two verses and follow the read tradition’s me.",
+      "rationale": "Retain threefold heart disclosure across the two verses and follow the read tradition’s me. Consistency refinement: Use the same natural full-heart-disclosure construction as verse 17, preserving both repetitions in 18 and the read-tradition me; do not replace heart with an abstract secret.",
       "source_reference": "Judg 16:18",
       "source_verse_sha256": "9f17c90f662f4f92e03d5e1b935370d38a22d73b4b8b16a7ebd9c685611fb677",
       "before": "When Delilah saw that he had told her all his heart, she sent and called the rulers of the Philistines, saying, “Come up this time, for he has told me all his heart.” Then the rulers of the Philistines came up to her and brought the silver in their hands.",
-      "after": "Delilah saw that he had told her all his heart. She sent for the Philistine rulers: “Come up this time. He has told me all his heart.” They came to her with the silver in their hands.",
+      "after": "Delilah saw that he had told her all that was in his heart. She sent for the Philistine rulers: “Come up this time. He has told me all that is in his heart.” They came to her with the silver in their hands.",
       "tsw_comparator": "When Delilah saw that he had told her all his heart, she sent and called the rulers of the Philistines, saying, “Come up this time, for he has told me all his heart.” Then the rulers of the Philistines came up to her and brought the silver in their hands.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.758621,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.709677,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-judges-consistency-2026-09-14",
+          "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+          "prior_after": "Delilah saw that he had told her all his heart. She sent for the Philistine rulers: “Come up this time. He has told me all his heart.” They came to her with the silver in their hands.",
+          "prior_delta": "F2",
+          "prior_rationale": "Retain threefold heart disclosure across the two verses and follow the read tradition’s me.",
+          "refinement_delta": "F2",
+          "rationale": "Use the same natural full-heart-disclosure construction as verse 17, preserving both repetitions in 18 and the read-tradition me; do not replace heart with an abstract secret."
+        }
+      ]
     },
     {
       "reference": "Judges 16:19",
@@ -2030,15 +2041,26 @@
     {
       "reference": "Judges 19:8",
       "delta": "F2",
-      "rationale": "Retain the fifth-day delay and declining daylight without an invented clock time.",
+      "rationale": "Retain the fifth-day delay and declining daylight without an invented clock time. Consistency refinement: Keep the plural imperative vehitmahmehu inside the father’s speech. The prior draft changed his request into narrated action. Preserve the fifth day, declining daylight and the two men eating; a note explains the plural address.",
       "source_reference": "Judg 19:8",
       "source_verse_sha256": "6ae1fc396f7655470c8aed748a7db787a1e0b7d5278911aa8ac906385177fc4a",
       "before": "He rose early in the morning on the fifth day to go, but the young woman’s father said, “Please strengthen your heart and remain until the day declines.” So the two of them ate.",
-      "after": "On the fifth day he rose early to leave. The woman’s father said, “Please strengthen yourself.” They lingered until the day began to decline, and the two men ate.",
+      "after": "On the fifth day he rose early to leave. The woman’s father said, “Please strengthen yourself. Stay until the day begins to decline.” The two men ate.",
       "tsw_comparator": "He rose early in the morning on the fifth day to go, but the young woman’s father said, “Please strengthen your heart and remain until the day declines.” So the two of them ate.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.539683,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.557377,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-judges-consistency-2026-09-14",
+          "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+          "prior_after": "On the fifth day he rose early to leave. The woman’s father said, “Please strengthen yourself.” They lingered until the day began to decline, and the two men ate.",
+          "prior_delta": "F2",
+          "prior_rationale": "Retain the fifth-day delay and declining daylight without an invented clock time.",
+          "refinement_delta": "F3",
+          "rationale": "Keep the plural imperative vehitmahmehu inside the father’s speech. The prior draft changed his request into narrated action. Preserve the fifth day, declining daylight and the two men eating; a note explains the plural address."
+        }
+      ]
     },
     {
       "reference": "Judges 19:9",
@@ -2251,15 +2273,26 @@
     {
       "reference": "Judges 19:25",
       "delta": "F3",
-      "rationale": "Keep the husband’s agency and explicit repeated assault rather than obscuring it as intimacy.",
+      "rationale": "Keep the husband’s agency and explicit repeated assault rather than obscuring it as intimacy. Consistency refinement: Identify the man who seizes his own concubine as her husband, already identified in 19:3. This distinguishes his action from the host’s preceding offer and preserves the assault, abuse and dawn release without resolving her time of death.",
       "source_reference": "Judg 19:25",
       "source_verse_sha256": "c6625dd31431323b064a1ccfafe6331f568ae154fca22f9c9dd2bd4585b9261d",
       "before": "But the men would not listen to him. So the man seized his concubine and brought her out to them. They knew her and abused her all night until morning, and they released her when the dawn began to rise.",
-      "after": "The men would not listen to him. Then the man seized his concubine and brought her out to them. They raped her and abused her all night until morning, and let her go as dawn was breaking.",
+      "after": "The men would not listen to him. Then her husband seized his concubine and brought her out to them. They raped her and abused her all night until morning, and let her go as dawn was breaking.",
       "tsw_comparator": "But the men would not listen to him. So the man seized his concubine and brought her out to them. They knew her and abused her all night until morning, and they released her when the dawn began to rise.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.779221,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING",
+      "consistency_history": [
+        {
+          "revision_id": "fluent-judges-consistency-2026-09-14",
+          "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+          "prior_after": "The men would not listen to him. Then the man seized his concubine and brought her out to them. They raped her and abused her all night until morning, and let her go as dawn was breaking.",
+          "prior_delta": "F3",
+          "prior_rationale": "Keep the husband’s agency and explicit repeated assault rather than obscuring it as intimacy.",
+          "refinement_delta": "F2",
+          "rationale": "Identify the man who seizes his own concubine as her husband, already identified in 19:3. This distinguishes his action from the host’s preceding offer and preserves the assault, abuse and dawn release without resolving her time of death."
+        }
+      ]
     },
     {
       "reference": "Judges 19:26",
@@ -3310,5 +3343,17 @@
       "F3": 127,
       "F0": 1
     }
-  }
+  },
+  "consistency_revisions": [
+    {
+      "id": "fluent-judges-consistency-2026-09-14",
+      "prior_commit": "3504ff60de9df091d43250021588219d735a45a7",
+      "report": "audit/fluent-revision/2026-09-14-judges-consistency/review.json",
+      "changed_references": [
+        "Judges 16:18",
+        "Judges 19:8",
+        "Judges 19:25"
+      ]
+    }
+  ]
 }

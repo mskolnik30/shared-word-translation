@@ -7,7 +7,7 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision: fluent-judges-13-21-biblical-fluency-2026-09-14
+revision: fluent-judges-consistency-2026-09-14
 ---
 
 ## The Levite and his concubine
@@ -32,7 +32,7 @@ v07: The man got up to leave, but his father-in-law urged him to stay, so he spe
 </p>
 
 <p>
-v08: On the fifth day he rose early to leave. The woman’s father said, “Please strengthen yourself.” They lingered until the day began to decline, and the two men ate.
+v08: On the fifth day he rose early to leave. The woman’s father said, “Please strengthen yourself. Stay until the day begins to decline.” The two men ate.
 v09: The man got up to leave with his concubine and servant. His father-in-law, the woman’s father, said, “Look, the day is sinking toward evening. Please spend the night. The day is nearly over. Stay here and enjoy yourself. Tomorrow you can rise early for your journey and go home.”
 </p>
 
@@ -82,7 +82,7 @@ v24: Here are my virgin daughter and his concubine. Let me bring them out. Viola
 </p>
 
 <p>
-v25: The men would not listen to him. Then the man seized his concubine and brought her out to them. They raped her and abused her all night until morning, and let her go as dawn was breaking.
+v25: The men would not listen to him. Then her husband seized his concubine and brought her out to them. They raped her and abused her all night until morning, and let her go as dawn was breaking.
 </p>
 
 ## The woman at the threshold
@@ -104,6 +104,8 @@ v30: Everyone who saw it said, “Nothing like this has happened or been seen fr
 ## Notes
 
 v01–03: Concubine names a marital relationship of lower status than a principal wife. Verse 2 follows the Hebrew verb for sexual unfaithfulness; an important Greek reading says she became angry with him. Neither reading justifies the later violence.
+
+v08: Stay is a plural command within the father’s speech, addressing the departing party; the two men then eat.
 
 v18: The Hebrew says house of the LORD. Some ancient witnesses instead have my house. The draft preserves the Hebrew destination without supplying an unmentioned sanctuary.
 

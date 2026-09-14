@@ -208,5 +208,18 @@
     19,
     20,
     21
+  ],
+  "consistency_passes": [
+    {
+      "id": "fluent-judges-consistency-2026-09-14",
+      "report": "audit/fluent-revision/2026-09-14-judges-consistency/review.json",
+      "qualification": "Structural scan of all 21 chapters, all 618 English verses read and 265 selected source/English comparisons; five verse refinements in chapters 5, 16 and 19. Independent editorial review remains pending.",
+      "changed_chapters": [
+        5,
+        16,
+        19
+      ],
+      "prior_commit": "3504ff60de9df091d43250021588219d735a45a7"
+    }
   ]
 }
