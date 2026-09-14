@@ -4,141 +4,124 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-6-12-biblical-fluency-2026-09-14
 ---
 
-## Ephraim Confronts Gideon
+## Ephraim’s anger subsides
 
 <p>
-v01: The men of Ephraim said to Gideon, “What is this thing you have done to us, not calling us when you went to fight against Midian?” And they argued fiercely with him.
-
-v02: He said to them, “What have I done now compared with you? Are not the gleanings of Ephraim better than the grape harvest of Abiezer?
-
-v03: God has given into your hand Oreb and Zeeb, the princes of Midian. What was I able to do compared with you?” Then their anger against him subsided when he said this.
+v01: The men of Ephraim said to Gideon, “Why have you treated us this way? Why did you not call us when you went to fight Midian?” They argued fiercely with him.
+v02: He answered, “What have I done compared with you? Are not Ephraim’s gleanings better than Abiezer’s whole grape harvest?
+v03: God gave Midian’s leaders, Oreb and Zeeb, into your hand. What could I do to match that?” When he said this, their anger toward him subsided.
 </p>
 
-## Succoth and Penuel Refuse Bread
+## Bread refused
 
 <p>
-v04: Gideon came to the Jordan and crossed over, he and the three hundred men who were with him, exhausted yet pursuing.
-
-v05: He said to the men of Succoth, “Please give loaves of bread to the people who follow me, for they are exhausted, and I am pursuing Zebah and Zalmunna, kings of Midian.”
-
-v06: The officials of Succoth said, “Are the hands of Zebah and Zalmunna already in your hand, that we should give bread to your army?”
-
-v07: Gideon said, “Because of this, when the LORD gives Zebah and Zalmunna into my hand, I will thresh your flesh with thorns of the wilderness and briers.”
-
-v08: From there he went up to Penuel and spoke to them in the same way, and the men of Penuel answered him as the men of Succoth had answered.
-
-v09: So he also spoke to the men of Penuel, saying, “When I return in peace, I will tear down this tower.”
+v04: Gideon reached the Jordan and crossed it with his three hundred men, exhausted but still in pursuit.
+v05: He said to the men of Succoth, “Please give some loaves of bread to the people following me. They are exhausted, and I am pursuing Zebah and Zalmunna, the kings of Midian.”
+v06: Succoth’s leaders replied, “Are Zebah’s and Zalmunna’s hands already in your hand, that we should give your army bread?”
+v07: “Then when the LORD gives Zebah and Zalmunna into my hand,” Gideon said, “I will thresh your flesh with desert thorns and briers.”
 </p>
 
-## Zebah and Zalmunna Captured
-
 <p>
-v10: Now Zebah and Zalmunna were in Karkor, and their armies were with them, about fifteen thousand men, everyone who remained of the entire army of the people of the east, for one hundred twenty thousand men who drew the sword had fallen.
-
-v11: Gideon went up by the route of people who live in tents, east of Nobah and Jogbehah, and struck the army while the army felt secure.
-
-v12: Zebah and Zalmunna fled, but he pursued them and captured the two kings of Midian, Zebah and Zalmunna, and threw the entire army into panic.
+v08: He went up from there to Penuel and made the same request. The men of Penuel answered as the men of Succoth had.
+v09: So he told the men of Penuel, “When I return in peace, I will tear down this tower.”
 </p>
 
-## Gideon Punishes Succoth and Penuel
+## The kings captured
 
 <p>
-v13: Gideon son of Joash returned from the battle by the ascent of Heres.
-
-v14: He captured a young man from the men of Succoth and questioned him. The young man wrote down for him the officials and elders of Succoth, seventy-seven men.
-
-v15: Gideon came to the men of Succoth and said, “Look, Zebah and Zalmunna, concerning whom you taunted me, saying, ‘Are the hands of Zebah and Zalmunna already in your hand, that we should give bread to your exhausted men?’”
-
-v16: He took the elders of the city and thorns of the wilderness and briers, and with them he taught the men of Succoth.
-
-v17: He tore down the tower of Penuel and killed the men of the city.
+v10: Zebah and Zalmunna were at Karkor with their army, about fifteen thousand men—all that remained of the entire eastern army. One hundred twenty thousand swordsmen had fallen.
+v11: Gideon went up by the route of the tent dwellers east of Nobah and Jogbehah. He struck the army while it felt secure.
+v12: Zebah and Zalmunna fled, but Gideon pursued them. He captured the two kings of Midian, Zebah and Zalmunna, and threw the whole army into panic.
 </p>
 
-## Gideon Kills the Kings of Midian
+## Gideon returns to Succoth
 
 <p>
-v18: Then he said to Zebah and Zalmunna, “What kind of men were those whom you killed at Tabor?” They said, “They were like you; each person looked like the son of a king.”
-
-v19: He said, “They were my brothers, the sons of my mother. As the LORD lives, if you had kept them alive, I would not kill you.”
-
-v20: He said to Jether his firstborn, “Rise, kill them.” But the young man did not draw his sword, for he was afraid, because he was still a young man.
-
-v21: Then Zebah and Zalmunna said, “Rise yourself and fall upon us, for as the man is, so is his strength.” So Gideon rose and killed Zebah and Zalmunna, and he took the crescent ornaments that were on the necks of their camels.
+v13: Gideon son of Joash returned from the battle by the Ascent of Heres.
+v14: He captured a young man from Succoth and questioned him. The young man wrote down for him the names of Succoth’s leaders and elders—seventy-seven men.
+v15: Gideon came to the men of Succoth and said, “Here are Zebah and Zalmunna! You taunted me, saying, ‘Are Zebah’s and Zalmunna’s hands already in your hand, that we should give bread to your exhausted men?’”
+v16: He took the town’s elders, and with desert thorns and briers he taught the men of Succoth a lesson.
+v17: He tore down Penuel’s tower and killed the men of the town.
 </p>
 
-## Gideon Refuses Kingship
+## Gideon kills the kings
 
 <p>
-v22: The men of Israel said to Gideon, “Rule over us—you, your son, and your son’s son—for you have saved us from the hand of Midian.”
-
-v23: Gideon said to them, “I will not rule over you, and my son will not rule over you. The LORD will rule over you.”
-
-v24: Gideon said to them, “Let me make a request of you: each of you give me an earring from his plunder.” For they had golden earrings because they were Ishmaelites.
-
-v25: They said, “We will gladly give them.” They spread out a garment, and each man threw into it an earring from his plunder.
-
-v26: The weight of the golden earrings that he requested was one thousand seven hundred shekels of gold, besides the crescent ornaments, pendants, and purple garments that were on the kings of Midian, and besides the chains that were around their camels’ necks.
-
-v27: Gideon made an ephod from it and placed it in his city, in Ophrah. All Israel prostituted themselves after it there, and it became a snare to Gideon and to his household.
+v18: Then he asked Zebah and Zalmunna, “What were the men you killed at Tabor like?” They answered, “They were like you. Each looked like a king’s son.”
+v19: “They were my brothers, my mother’s sons,” he said. “As the LORD lives, if you had spared them, I would not kill you.”
+v20: He told Jether, his firstborn, “Get up and kill them.” But the boy did not draw his sword. He was afraid, for he was still young.
+v21: Zebah and Zalmunna said, “Get up and strike us yourself. A man’s strength matches the man.” Gideon got up and killed them, then took the crescent ornaments from their camels’ necks.
 </p>
 
-## Gideon’s Final Years
+## Rule and the ephod
 
 <p>
-v28: Midian was subdued before the children of Israel, and they lifted their heads no more. The land had rest forty years in the days of Gideon.
+v22: The Israelites told Gideon, “Rule over us—you, your son, and your grandson—because you rescued us from Midian’s hand.”
+v23: Gideon replied, “I will not rule over you, and my son will not rule over you. The LORD will rule over you.”
+</p>
 
-v29: Jerubbaal son of Joash went and lived in his own house.
+<p>
+v24: “But I have one request,” Gideon said. “Let each of you give me an earring from his plunder.” The enemy had gold earrings because they were Ishmaelites.
+v25: “We will gladly give them,” they said. They spread out a cloak, and each man threw an earring from his plunder onto it.
+v26: The gold earrings he requested weighed one thousand seven hundred shekels, besides the crescents, pendants, and purple garments worn by Midian’s kings, and the chains on their camels’ necks.
+v27: Gideon made the gold into an ephod and set it up in his town, Ophrah. All Israel prostituted themselves after it there, and it became a snare to Gideon and his household.
+</p>
 
-v30: Gideon had seventy sons who came from his own body, for he had many wives.
+## Gideon’s final years
 
-v31: His concubine who was in Shechem also bore him a son, and he named him Abimelech.
+<p>
+v28: Midian was subdued before the Israelites and did not lift its head again. The land rested for forty years during Gideon’s lifetime.
+</p>
 
-v32: Gideon son of Joash died in a good old age and was buried in the tomb of Joash his father, at Ophrah of the Abiezrites.
+<p>
+v29: Jerubbaal son of Joash went back to live in his own house.
+v30: Gideon had seventy sons of his own, for he had many wives.
+v31: His concubine in Shechem also bore him a son, whom he named Abimelech.
+v32: Gideon son of Joash died at a good old age. He was buried in the tomb of his father Joash at Ophrah of the Abiezrites.
+</p>
 
-v33: As soon as Gideon died, the children of Israel turned again and prostituted themselves after the Baals, and made Baal-Berith their god.
-
-v34: The children of Israel did not remember the LORD their God, who had delivered them from the hand of all their enemies around them,
-
-v35: nor did they show steadfast love to the house of Jerubbaal—that is, Gideon—in return for all the good that he had done for Israel.
+<p>
+v33: As soon as Gideon died, the Israelites turned back and prostituted themselves after the Baals. They made Baal-berith their god.
+v34: They did not remember the LORD their God, who had rescued them from the hand of all their enemies around them.
+v35: Nor did they show loyal kindness to the household of Jerubbaal—that is, Gideon—in return for all the good he had done for Israel.
 </p>
 
 ## Notes
 
-v02: Gideon diffuses Ephraim’s anger through a proverb-like comparison that praises their later contribution above his own earlier victory.
+v02: Gideon compares Ephraim’s later capture of the leaders with grapes gleaned after harvest, and his own clan’s achievement with the main harvest.
 
-v07, v16: Gideon’s threatened punishment of Succoth is carried out with thorns and briers. The narrative reports the violence without explicitly commending it.
+v13: Ascent of Heres reads the expression as a place-name. It has also been understood in relation to the sun’s rising.
 
-v17: Penuel’s refusal of support results in the destruction of its tower and the killing of its men, marking a severe turn in Gideon’s leadership toward fellow Israelites.
+v16: The Hebrew uses the verb for making known: taught a lesson. Some ancient versions read a threshing verb, matching the threat in verse 7. In either case, the thorns and briers are instruments of violence.
 
-v19: Gideon’s killing of Zebah and Zalmunna is tied to blood vengeance for his brothers, adding personal retaliation to the public war against Midian.
+v18: The Hebrew question begins where. The answer concerns appearance, so the question is understood here as asking what the men were like.
 
-v22–23: Gideon verbally refuses hereditary kingship and affirms the LORD’s rule, yet the following actions accumulate wealth, royal ornaments, multiple wives, and a son named Abimelech, meaning “my father is king.”
+v24–27: The enemy are called Ishmaelites here. The amount of gold supplies no written unit; shekels is understood. The ephod’s precise form is not described.
 
-v27: The ephod becomes a snare and object of unfaithful devotion. A victory associated with rejection of Baal ends with a new religious failure centered on Gideon’s own legacy.
-
-v33: “Baal-Berith” means “Baal of the covenant,” showing how covenant language itself could be redirected toward another deity.
+v30–31: The seventy sons and the son born in Shechem are reported separately. Abimelech’s name means my father is king; the narrative does not explain the naming.
 
 ## Vocabulary
 
-v02: עֹלֵלוֹת (olelot)
-“Gleanings.” Grapes left after the main harvest, used metaphorically for Ephraim’s contribution.
+v02: gleanings
+Produce gathered after the main harvest.
 
-v07: דּוּשׁ (dush)
-“To thresh.” Gideon uses agricultural imagery for violent punishment.
+v21: crescent ornaments
+Decorations shaped like a crescent moon.
 
-v16: יָדַע (yada)
-“To know” or “teach.” The unusual form in v16 is often understood as Gideon “teaching” the men of Succoth through punishment.
+v27: ephod
+A term elsewhere used for a priestly garment. Here it names the gold object Gideon set up and Israel pursued in worship.
 
-v23: מָשַׁל (mashal)
-“To rule.” Gideon rejects rule for himself and his son while affirming the LORD’s rule.
+v31: concubine
+A woman in a recognized sexual and household relationship with a man, with a different status from a wife.
 
-v27: אֵפוֹד (ephod)
-“Ephod.” A priestly or cultic object whose precise form here is uncertain.
+v33: Baal-berith
+Lord of the covenant.
 
-v27: מוֹקֵשׁ (moqesh)
-“Snare.” A trap, here describing the ephod’s destructive religious effect.
-
-v33: בַּעַל בְּרִית (Baal-Berith)
-“Baal of the covenant.” The deity adopted by Israel after Gideon’s death.
+v35: loyal kindness
+Hebrew hesed: faithful kindness within a relationship, here toward Gideon’s household.

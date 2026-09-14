@@ -4,154 +4,126 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-6-12-biblical-fluency-2026-09-14
 ---
 
-## Jephthah the Gileadite
+## Jephthah driven out and called back
 
 <p>
-v01: Jephthah the Gileadite was a mighty warrior, but he was the son of a prostitute. Gilead was Jephthah’s father.
-
-v02: Gilead’s wife also bore him sons. When the wife’s sons grew up, they drove Jephthah out and said to him, “You will not inherit in our father’s house, for you are the son of another woman.”
-
-v03: So Jephthah fled from his brothers and lived in the land of Tob. Worthless men gathered around Jephthah and went out with him.
-</p>
-
-## The Elders Ask Jephthah to Lead
-
-<p>
-v04: After some time, the children of Ammon fought against Israel.
-
-v05: When the children of Ammon fought against Israel, the elders of Gilead went to bring Jephthah from the land of Tob.
-
-v06: They said to Jephthah, “Come and be our commander, so that we may fight against the children of Ammon.”
-
-v07: Jephthah said to the elders of Gilead, “Did you not hate me and drive me out from my father’s house? Why have you come to me now when you are in distress?”
-
-v08: The elders of Gilead said to Jephthah, “For this reason we have now returned to you: that you may go with us, fight against the children of Ammon, and become head over us, over all the inhabitants of Gilead.”
-
-v09: Jephthah said to the elders of Gilead, “If you bring me back to fight against the children of Ammon, and the LORD gives them before me, will I become your head?”
-
-v10: The elders of Gilead said to Jephthah, “The LORD will be witness between us if we do not do according to your word.”
-
-v11: So Jephthah went with the elders of Gilead, and the people made him head and commander over them. Jephthah spoke all his words before the LORD at Mizpah.
-</p>
-
-## Jephthah Sends Messengers to Ammon
-
-<p>
-v12: Jephthah sent messengers to the king of the children of Ammon, saying, “What is between me and you, that you have come to me to fight against my land?”
-
-v13: The king of the children of Ammon said to Jephthah’s messengers, “Because Israel took away my land when they came up from Egypt, from the Arnon as far as the Jabbok and to the Jordan. Now therefore restore it peacefully.”
-
-v14: Jephthah again sent messengers to the king of the children of Ammon,
-
-v15: and said to him, “Thus says Jephthah: Israel did not take away the land of Moab or the land of the children of Ammon.
-
-v16: But when they came up from Egypt, Israel went through the wilderness as far as the Sea of Reeds and came to Kadesh.
-
-v17: Then Israel sent messengers to the king of Edom, saying, ‘Please let me pass through your land,’ but the king of Edom did not listen. They also sent to the king of Moab, but he would not consent. So Israel remained at Kadesh.
-
-v18: Then they went through the wilderness, went around the land of Edom and the land of Moab, came from the east side of the land of Moab, and camped beyond the Arnon. They did not enter the territory of Moab, for the Arnon was the border of Moab.
+v01: Jephthah the Gileadite was a mighty warrior. His mother was a prostitute, and Gilead was his father.
+v02: Gilead’s wife also bore him sons. When they grew up, they drove Jephthah out. “You will have no inheritance in our father’s household,” they said, “because you are another woman’s son.”
+v03: Jephthah fled from his brothers and settled in the land of Tob. Worthless men gathered around him and went out with him.
 </p>
 
 <p>
-v19: Israel sent messengers to Sihon king of the Amorites, king of Heshbon. Israel said to him, ‘Please let us pass through your land to our place.’
-
-v20: Yet Sihon did not trust Israel to pass through his territory. Sihon gathered all his people, camped at Jahaz, and fought against Israel.
-
-v21: The LORD, the God of Israel, gave Sihon and all his people into the hand of Israel, and they struck them. So Israel took possession of all the land of the Amorites who inhabited that land.
-
-v22: They took possession of all the territory of the Amorites, from the Arnon to the Jabbok and from the wilderness to the Jordan.
-
-v23: So now the LORD, the God of Israel, has dispossessed the Amorites before his people Israel. Should you then dispossess us?
-
-v24: Will you not possess whatever Chemosh your god gives you to possess? And whatever the LORD our God dispossesses before us, that we will possess.
-
-v25: Now are you really better than Balak son of Zippor, king of Moab? Did he ever contend with Israel, or did he ever fight against them?
-
-v26: While Israel has lived in Heshbon and its villages, Aroer and its villages, and in all the cities along the Arnon for three hundred years, why did you not recover them during that time?
-
-v27: I therefore have not sinned against you, but you are doing evil to me by fighting against me. May the LORD, the Judge, judge this day between the children of Israel and the children of Ammon.”
-
-v28: But the king of the children of Ammon did not listen to the words Jephthah sent to him.
+v04: Some time later the Ammonites went to war with Israel.
+v05: When the Ammonites fought Israel, Gilead’s elders went to bring Jephthah back from the land of Tob.
+v06: “Come and be our commander,” they told him, “so we can fight the Ammonites.”
+v07: Jephthah answered the elders, “Did you not hate me and drive me out of my father’s household? Why come to me now that you are in trouble?”
 </p>
 
-## Jephthah’s Vow
-
 <p>
-v29: Then the Spirit of the LORD came upon Jephthah, and he passed through Gilead and Manasseh, passed through Mizpeh of Gilead, and from Mizpeh of Gilead he passed on to the children of Ammon.
-
-v30: Jephthah vowed a vow to the LORD and said, “If you truly give the children of Ammon into my hand,
-
-v31: then whatever comes out from the doors of my house to meet me when I return in peace from the children of Ammon will belong to the LORD, and I will offer it up as a burnt offering.”
+v08: Gilead’s elders replied, “That is why we have come back to you now. Come with us, fight the Ammonites, and be our head—over everyone living in Gilead.”
+v09: Jephthah told them, “If you bring me back to fight the Ammonites and the LORD gives them over to me, I will be your head.”
+v10: The elders answered, “May the LORD listen between us: we will do as you say.”
+v11: Jephthah went with Gilead’s elders, and the people made him their head and commander. At Mizpah he spoke all his terms before the LORD.
 </p>
 
-## The LORD Gives Ammon into His Hand
+## The dispute over the land
 
 <p>
-v32: So Jephthah crossed over to the children of Ammon to fight against them, and the LORD gave them into his hand.
-
-v33: He struck them from Aroer as far as the approach to Minnith, twenty cities, and as far as Abel-Keramim, with a very great slaughter. So the children of Ammon were subdued before the children of Israel.
+v12: Jephthah sent messengers to the Ammonite king: “What is there between you and me, that you have come to fight in my land?”
+v13: The Ammonite king told Jephthah’s messengers, “When Israel came up from Egypt, they took my land, from the Arnon to the Jabbok and the Jordan. Now give it back peacefully.”
 </p>
 
-## Jephthah’s Daughter
+<p>
+v14: Jephthah sent messengers back to the Ammonite king
+v15: with this answer: “This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.
+v16: When Israel came up from Egypt, they traveled through the wilderness to the Sea of Reeds and reached Kadesh.
+v17: Israel sent messengers to Edom’s king, saying, ‘Please let me pass through your land.’ But Edom’s king would not listen. They also sent to Moab’s king, who refused. So Israel stayed at Kadesh.
+v18: Then they traveled through the wilderness around Edom and Moab, came to Moab’s eastern side, and camped beyond the Arnon. They did not enter Moab’s territory, for the Arnon was its boundary.
+</p>
 
 <p>
-v34: Jephthah came to his house at Mizpah, and look, his daughter came out to meet him with tambourines and dances. She was his only child; besides her he had neither son nor daughter.
+v19: Israel sent messengers to Sihon king of the Amorites, who ruled at Heshbon. They said, ‘Please let us pass through your land to our own place.’
+v20: But Sihon would not trust Israel to cross his territory. He gathered all his people, camped at Jahaz, and fought Israel.
+v21: The LORD, the God of Israel, gave Sihon and all his people into Israel’s hand, and Israel struck them down. Israel took possession of all the land of the Amorites who lived there.
+v22: They took all Amorite territory, from the Arnon to the Jabbok and from the wilderness to the Jordan.
+</p>
 
-v35: When he saw her, he tore his clothes and said, “Alas, my daughter! You have brought me very low, and you have become one who troubles me, for I have opened my mouth to the LORD and cannot turn back.”
+<p>
+v23: Now that the LORD, the God of Israel, has driven the Amorites out before his people Israel, are you going to take possession of their land?
+v24: Do you not possess what Chemosh your god gives you to possess? We too will possess the land of all those the LORD our God has driven out before us.
+v25: Are you really better than Balak son of Zippor, king of Moab? Did he ever dispute with Israel or fight them?
+v26: Israel has lived in Heshbon and its dependent towns, Aroer and its dependent towns, and all the towns along the Arnon for three hundred years. Why did you not recover them during that time?
+v27: I have not wronged you, but you are doing me wrong by fighting me. May the LORD, the Judge, judge today between the Israelites and the Ammonites.”
+v28: But the Ammonite king would not listen to the message Jephthah sent him.
+</p>
 
-v36: She said to him, “My father, you have opened your mouth to the LORD. Do to me according to what has gone out from your mouth, since the LORD has given you vengeance against your enemies, the children of Ammon.”
+## Jephthah’s vow and victory
 
-v37: Then she said to her father, “Let this thing be done for me: leave me alone two months, that I may go down upon the mountains and weep over my virginity, I and my companions.”
+<p>
+v29: The Spirit of the LORD came upon Jephthah. He passed through Gilead and Manasseh, then through Mizpeh of Gilead. From Mizpeh of Gilead he went on toward the Ammonites.
+</p>
 
-v38: He said, “Go.” He sent her away two months, and she went with her companions and wept over her virginity upon the mountains.
+<p>
+v30: Jephthah made a vow to the LORD: “If you really give the Ammonites into my hand,
+v31: whoever comes out through the doors of my house to meet me when I return in peace from the Ammonites will belong to the LORD, and I will offer that one as a burnt offering.”
+</p>
 
-v39: At the end of two months she returned to her father, and he did to her according to the vow he had vowed. She had never known a man. And it became a custom in Israel
+<p>
+v32: Jephthah crossed over to fight the Ammonites, and the LORD gave them into his hand.
+v33: He struck them from Aroer to the approach to Minnith—twenty towns—and as far as Abel-keramim, in a crushing defeat. The Ammonites were subdued before the Israelites.
+</p>
 
-v40: that from year to year the daughters of Israel went to commemorate the daughter of Jephthah the Gileadite four days in the year.
+## Jephthah’s daughter
+
+<p>
+v34: When Jephthah reached his home at Mizpah, his daughter came out to meet him with tambourines and dancing. She was his only child; he had no other son or daughter.
+v35: When he saw her, he tore his clothes and said, “Ah, my daughter! You have brought me very low. You have become one of those who trouble me! I have opened my mouth to the LORD and cannot take it back.”
+v36: She answered, “My father, you have opened your mouth to the LORD. Do to me what came out of your mouth, now that the LORD has taken vengeance for you on your enemies, the Ammonites.”
+</p>
+
+<p>
+v37: Then she told her father, “Grant me this: let me go for two months to wander in the hills and weep over my virginity with my companions.”
+v38: “Go,” he said, and sent her away for two months. She went with her companions and wept over her virginity in the hills.
+</p>
+
+<p>
+v39: At the end of the two months she returned to her father, and he did to her what he had vowed. She had never known a man. This became a custom in Israel:
+v40: year after year, Israel’s daughters went to commemorate the daughter of Jephthah the Gileadite for four days each year.
 </p>
 
 ## Notes
 
-v01–03: Jephthah is introduced simultaneously as a mighty warrior and as an outcast because of his birth. His later elevation emerges from the same community that expelled him.
+v06–11: The elders first offer the role of commander, then head over all Gilead. Jephthah’s final clause in verse 9 may also be read as a question. Verse 10 pictures the LORD hearing between the parties.
 
-v12–27: Jephthah attempts diplomacy before battle. His argument retells Israel’s journey and distinguishes Ammonite territory from the Amorite land Israel actually seized.
+v13–27: The rival land claims and historical arguments are the speakers’ words. Jephthah’s account is not rewritten to match every detail of other biblical retellings.
 
-v24: Jephthah refers to Chemosh as Ammon’s god, although elsewhere Milcom is associated with Ammon and Chemosh with Moab. The speech may reflect rhetorical accommodation, overlapping traditions, or textual complexity; TSW does not correct the text.
+v24: Chemosh is named here although the addressee is Ammon’s king; elsewhere Chemosh is associated with Moab. The second half compresses the movement from dispossessing people to possessing their land.
 
-v24: The speech may reflect rhetorical accommodation, overlapping traditions, or textual complexity; the wording remains unresolved.
+v29–31: The Spirit comes upon Jephthah before he makes his vow. The vow is his initiative. Whoever can also be rendered whatever. The Hebrew joins belonging to the LORD and being offered as a burnt offering; reading the conjunction as or underlies a different interpretation, but is not followed here.
 
-v29–31: The Spirit of the LORD comes upon Jephthah before he makes the vow. The narrative does not say the vow was required by God or prompted by the Spirit.
+v34–36: The daughter is unnamed and is his only child. Jephthah’s blame and claim that he cannot turn back are his words. Her reply is preserved without making it a divine command.
 
-v31: The Hebrew wording can refer to “whatever” or “whoever” comes out and joins that outcome directly to offering as a burnt offering. The narrative’s tragic development resists attempts to make the vow harmless.
-
-v35: Jephthah blames the situation upon his daughter’s appearance even though the vow was his own. The narrative preserves this displacement of responsibility.
-
-v39: The text states that Jephthah did according to his vow and emphasizes that his daughter had known no man. Interpretations that understand dedication rather than death have been proposed, but the straightforward narrative movement strongly supports the tragic force of the vow. TSW preserves the wording without adding an explanatory resolution.
+v37–40: She laments her virginity with female companions. Verse 37 literally speaks of going down upon the hills. Verse 39 reports fulfillment of the vow without narrating the act. Read with verse 31, it points to sacrifice; an interpretation as lifelong celibacy is not substituted into the text. Commemorate can also be understood as lament or recount.
 
 ## Vocabulary
 
-v01: גִּבּוֹר חַיִל (gibbor chayil)
-“Mighty warrior.” A person of strength or military ability.
+v01: mighty warrior
+The description also used of Gideon in 6:12.
 
-v06: קָצִין (qatsin)
-“Commander” or “leader.” A military or civic leader.
+v16: Sea of Reeds
+Hebrew Yam Suph, traditionally called the Red Sea.
 
-v09: רֹאשׁ (rosh)
-“Head.” A chief or ruling leader.
+v30: vow
+A solemn promise made to God; here the promise is conditional on victory.
 
-v27: שֹׁפֵט (shofet)
-“Judge.” Here the LORD is invoked as the one who judges between peoples.
+v31: burnt offering
+An offering burned on an altar. This term keeps the harm implicit in the vow visible.
 
-v29: רוּחַ יְהוָה (ruach YHWH)
-“Spirit of the LORD.” Divine empowering presence.
-
-v30: נֶדֶר (neder)
-“Vow.” A solemn promise made to God.
-
-v31: עֹלָה (olah)
-“Burnt offering.” An offering wholly consumed upon the altar.
-
-v40: תָּנָה (tanah)
-“To commemorate” or “recount.” A rare verb describing the annual practice concerning Jephthah’s daughter.
+v39: known a man
+An expression for having sexual relations with a man.

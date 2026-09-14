@@ -1,0 +1,796 @@
+{
+  "qualification": "Authoring self-check after complete first reading of all 230 source verses. No independent review.",
+  "rows": [
+    {
+      "reference": "Judges 6:2",
+      "source_verse_sha256": "36319ce5bb4dcb86121c6d3d95869d9a364835278a249f6ac64a2c74957a5165",
+      "hebrew": "וַ/תָּ֥עָז יַד מִדְיָ֖ן עַל יִשְׂרָאֵ֑ל מִ/פְּנֵ֨י מִדְיָ֜ן עָשֽׂוּ לָ/הֶ֣ם בְּנֵ֣י יִשְׂרָאֵ֗ל אֶת הַ/מִּנְהָרוֹת֙ אֲשֶׁ֣ר בֶּֽ/הָרִ֔ים וְ/אֶת הַ/מְּעָר֖וֹת וְ/אֶת הַ/מְּצָדֽוֹת",
+      "annotations": [],
+      "after": "Midian’s hand bore down on Israel. To escape the Midianites, the Israelites made hiding places in the mountains, caves, and strongholds."
+    },
+    {
+      "reference": "Judges 6:4",
+      "source_verse_sha256": "4137c423de130bdce81aa8330d36b17184dea538365ba72b1778e9f0ba7468d8",
+      "hebrew": "וַ/יַּחֲנ֣וּ עֲלֵי/הֶ֗ם וַ/יַּשְׁחִ֨יתוּ֙ אֶת יְב֣וּל הָ/אָ֔רֶץ עַד בּוֹאֲ/ךָ֖ עַזָּ֑ה וְ/לֹֽא יַשְׁאִ֤ירוּ מִֽחְיָה֙ בְּ/יִשְׂרָאֵ֔ל וְ/שֶׂ֥ה וָ/שׁ֖וֹר וַ/חֲמֽוֹר",
+      "annotations": [],
+      "after": "They camped against them and ruined the land’s produce as far as Gaza. They left Israel nothing to live on—not a sheep, an ox, or a donkey."
+    },
+    {
+      "reference": "Judges 6:5",
+      "source_verse_sha256": "7e2b6b54014d8e3f5fc609a65446f251e12229c5180d93ca5766483ab640826b",
+      "hebrew": "כִּ֡י הֵם֩ וּ/מִקְנֵי/הֶ֨ם יַעֲל֜וּ וְ/אָהֳלֵי/הֶ֗ם יבאו כְ/דֵֽי אַרְבֶּה֙ לָ/רֹ֔ב וְ/לָ/הֶ֥ם וְ/לִ/גְמַלֵּי/הֶ֖ם אֵ֣ין מִסְפָּ֑ר וַ/יָּבֹ֥אוּ בָ/אָ֖רֶץ לְ/שַׁחֲתָֽ/הּ",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>יבאו</catchWord><rdg type=\"x-qere\"><w lemma=\"c/935\" morph=\"HC/Vqq3cp\" id=\"07XWV\">וּ/בָ֤אוּ</w></rdg></note>\n          "
+      ],
+      "after": "They came up with their livestock and tents, swarming like locusts. They and their camels were beyond counting, and they entered the land to destroy it."
+    },
+    {
+      "reference": "Judges 6:8",
+      "source_verse_sha256": "4dfa8ce9b21816acd6dd9ed3824288569ba24a2b9fcc6333458e7a97c8b03e57",
+      "hebrew": "וַ/יִּשְׁלַ֧ח יְהוָ֛ה אִ֥ישׁ נָבִ֖יא אֶל בְּנֵ֣י יִשְׂרָאֵ֑ל וַ/יֹּ֨אמֶר לָ/הֶ֜ם כֹּה אָמַ֥ר יְהוָ֣ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל אָנֹכִ֞י הֶעֱלֵ֤יתִי אֶתְ/כֶם֙ מִ/מִּצְרַ֔יִם וָ/אֹצִ֥יא אֶתְ/כֶ֖ם מִ/בֵּ֥ית עֲבָדִֽים",
+      "annotations": [],
+      "after": "he sent them a prophet, who said, “This is what the LORD, the God of Israel, says: ‘I brought you up from Egypt. I brought you out of the house of slavery."
+    },
+    {
+      "reference": "Judges 6:13",
+      "source_verse_sha256": "e68b0578a13796adde13911a5688a458f8bfaa676eab292b6034bf1f1cc82d3b",
+      "hebrew": "וַ/יֹּ֨אמֶר אֵלָ֤י/ו גִּדְעוֹן֙ בִּ֣י אֲדֹנִ֔/י וְ/יֵ֤שׁ יְהוָה֙ עִמָּ֔/נוּ וְ/לָ֥/מָּה מְצָאַ֖תְ/נוּ כָּל זֹ֑את וְ/אַיֵּ֣ה כָֽל נִפְלְאֹתָ֡י/ו אֲשֶׁר֩ סִפְּרוּ לָ֨/נוּ אֲבוֹתֵ֜י/נוּ לֵ/אמֹ֗ר הֲ/לֹ֤א מִ/מִּצְרַ֨יִם֙ הֶעֱלָ֣/נוּ יְהוָ֔ה וְ/עַתָּה֙ נְטָשָׁ֣/נוּ יְהוָ֔ה וַֽ/יִּתְּנֵ֖/נוּ בְּ/כַף מִדְיָֽן",
+      "annotations": [],
+      "after": "“Please, my lord,” Gideon replied, “if the LORD is with us, why has all this happened to us? Where are all his wonders our ancestors told us about when they said, ‘Did not the LORD bring us up from Egypt?’ Now the LORD has abandoned us and given us into Midian’s grasp.”"
+    },
+    {
+      "reference": "Judges 6:14",
+      "source_verse_sha256": "973ba553c767063214629cbbc8a776a48d8e2cafb0fac7856619e9dd3e4455cd",
+      "hebrew": "וַ/יִּ֤פֶן אֵלָי/ו֙ יְהוָ֔ה וַ/יֹּ֗אמֶר לֵ֚ךְ בְּ/כֹחֲ/ךָ֣ זֶ֔ה וְ/הוֹשַׁעְתָּ֥ אֶת יִשְׂרָאֵ֖ל מִ/כַּ֣ף מִדְיָ֑ן הֲ/לֹ֖א שְׁלַחְתִּֽי/ךָ",
+      "annotations": [],
+      "after": "The LORD turned to him and said, “Go with this strength of yours and rescue Israel from Midian’s grasp. Am I not sending you?”"
+    },
+    {
+      "reference": "Judges 6:15",
+      "source_verse_sha256": "f9aaf6e9b64e93c967b8debcd5e78bbf8a08d23fbaf972269907774d3668b589",
+      "hebrew": "וַ/יֹּ֤אמֶר אֵלָי/ו֙ בִּ֣י אֲדֹנָ֔/י בַּ/מָּ֥ה אוֹשִׁ֖יעַ אֶת יִשְׂרָאֵ֑ל הִנֵּ֤ה אַלְפִּ/י֙ הַ/דַּ֣ל בִּ/מְנַשֶּׁ֔ה וְ/אָנֹכִ֥י הַ/צָּעִ֖יר בְּ/בֵ֥ית אָבִֽ/י",
+      "annotations": [],
+      "after": "“Please, Lord,” he answered, “how can I rescue Israel? My clan is the weakest in Manasseh, and I am the youngest in my father’s household.”"
+    },
+    {
+      "reference": "Judges 6:19",
+      "source_verse_sha256": "ef97df142e8003114c5b087e4f4a4f44c16033464d655a2e0ead5d4c02b9883c",
+      "hebrew": "וְ/גִדְע֣וֹן בָּ֗א וַ/יַּ֤עַשׂ גְּדִֽי עִזִּים֙ וְ/אֵיפַת קֶ֣מַח מַצּ֔וֹת הַ/בָּשָׂר֙ שָׂ֣ם בַּ/סַּ֔ל וְ/הַ/מָּרַ֖ק שָׂ֣ם בַּ/פָּר֑וּר וַ/יּוֹצֵ֥א אֵלָ֛י/ו אֶל תַּ֥חַת הָ/אֵלָ֖ה וַ/יַּגַּֽשׁ",
+      "annotations": [],
+      "after": "Gideon went in and prepared a young goat and unleavened bread from an ephah of flour. He put the meat in a basket and the broth in a pot, brought them out beneath the terebinth, and presented them."
+    },
+    {
+      "reference": "Judges 6:25",
+      "source_verse_sha256": "78b7f6465502e5e036d729ed88ba0f48eb42d9f661b7814f1ee2e587c7b96df6",
+      "hebrew": "וַ/יְהִי֮ בַּ/לַּ֣יְלָה הַ/הוּא֒ וַ/יֹּ֧אמֶר ל֣/וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַ/שּׁוֹר֙ אֲשֶׁ֣ר לְ/אָבִ֔י/ךָ וּ/פַ֥ר הַ/שֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְ/הָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַ/בַּ֨עַל֙ אֲשֶׁ֣ר לְ/אָבִ֔י/ךָ וְ/אֶת הָ/אֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖י/ו תִּכְרֹֽת",
+      "annotations": [],
+      "after": "That night the LORD told him, “Take your father’s bull and the second bull, seven years old. Tear down your father’s altar to Baal and cut down the Asherah beside it."
+    },
+    {
+      "reference": "Judges 6:26",
+      "source_verse_sha256": "52e6110fce3749d630560467584878c6f3c6dfd15637b2c83875655058cb2faf",
+      "hebrew": "וּ/בָנִ֨יתָ מִזְבֵּ֜חַ לַ/יהוָ֣ה אֱלֹהֶ֗י/ךָ עַ֣ל רֹ֧אשׁ הַ/מָּע֛וֹז הַ/זֶּ֖ה בַּ/מַּֽעֲרָכָ֑ה וְ/לָֽקַחְתָּ֙ אֶת הַ/פָּ֣ר הַ/שֵּׁנִ֔י וְ/הַעֲלִ֣יתָ עוֹלָ֔ה בַּ/עֲצֵ֥י הָ/אֲשֵׁרָ֖ה אֲשֶׁ֥ר תִּכְרֹֽת",
+      "annotations": [],
+      "after": "Build a properly arranged altar to the LORD your God on top of this stronghold. Take the second bull and offer it as a burnt offering, using the wood of the Asherah you cut down.”"
+    },
+    {
+      "reference": "Judges 6:31",
+      "source_verse_sha256": "f44c984517fcc7438cffa321202912cb82ad580216fca46cc641fd6ebff2c0df",
+      "hebrew": "וַ/יֹּ֣אמֶר יוֹאָ֡שׁ לְ/כֹל֩ אֲשֶׁר עָמְד֨וּ עָלָ֜י/ו הַ/אַתֶּ֣ם תְּרִיב֣וּ/ן לַ/בַּ֗עַל אִם אַתֶּם֙ תּוֹשִׁיע֣וּ/ן אוֹת֔/וֹ אֲשֶׁ֨ר יָרִ֥יב ל֛/וֹ יוּמַ֖ת עַד הַ/בֹּ֑קֶר אִם אֱלֹהִ֥ים הוּא֙ יָ֣רֶב ל֔/וֹ כִּ֥י נָתַ֖ץ אֶֽת מִזְבְּחֽ/וֹ",
+      "annotations": [],
+      "after": "Joash answered everyone confronting him, “Are you going to plead Baal’s case? Are you going to save him? Anyone who pleads for him must be put to death by morning! If he is a god, let him plead his own case, since someone has torn down his altar.”"
+    },
+    {
+      "reference": "Judges 6:34",
+      "source_verse_sha256": "c363e34e7b61f689737835b2e30ce12a7a3a3e4c702bd19d1f054ddf1d208496",
+      "hebrew": "וְ/ר֣וּחַ יְהוָ֔ה לָבְשָׁ֖ה אֶת גִּדְע֑וֹן וַ/יִּתְקַע֙ בַּ/שּׁוֹפָ֔ר וַ/יִזָּעֵ֥ק אֲבִיעֶ֖זֶר אַחֲרָֽי/ו",
+      "annotations": [
+        "<note n=\"Q\">Marks a place where we agree with BHQ against BHS in reading L. </note>\n          ",
+        "<note n=\"n\">Marks an anomalous form. </note>\n          ",
+        "<note n=\"p\">We read punctuation in L differently from BHS. </note>\n          "
+      ],
+      "after": "The Spirit of the LORD clothed himself with Gideon. Gideon sounded the horn, and the Abiezrites rallied behind him."
+    },
+    {
+      "reference": "Judges 6:37",
+      "source_verse_sha256": "b07d5a3351bd726364a5711888e2556087b564a8e7c5440bb5c3d8f06194a489",
+      "hebrew": "הִנֵּ֣ה אָנֹכִ֗י מַצִּ֛יג אֶת גִּזַּ֥ת הַ/צֶּ֖מֶר בַּ/גֹּ֑רֶן אִ֡ם טַל֩ יִהְיֶ֨ה עַֽל הַ/גִּזָּ֜ה לְ/בַדָּ֗/הּ וְ/עַל כָּל הָ/אָ֨רֶץ֙ חֹ֔רֶב וְ/יָדַעְתִּ֗י כִּֽי תוֹשִׁ֧יעַ בְּ/יָדִ֛/י אֶת יִשְׂרָאֵ֖ל כַּ/אֲשֶׁ֥ר דִּבַּֽרְתָּ",
+      "annotations": [],
+      "after": "look, I am laying a wool fleece on the threshing floor. If dew falls only on the fleece while all the ground is dry, I will know that you will rescue Israel through my hand, as you have said.”"
+    },
+    {
+      "reference": "Judges 6:39",
+      "source_verse_sha256": "cc8e86840acb23c90a4bcb4af258620eb102617f4afc9debea398b951104e1f5",
+      "hebrew": "וַ/יֹּ֤אמֶר גִּדְעוֹן֙ אֶל הָ֣/אֱלֹהִ֔ים אַל יִ֤חַר אַפְּ/ךָ֙ בִּ֔/י וַ/אֲדַבְּרָ֖ה אַ֣ךְ הַ/פָּ֑עַם אֲנַסֶּ֤ה נָּא רַק הַ/פַּ֨עַם֙ בַּ/גִּזָּ֔ה יְהִי נָ֨א חֹ֤רֶב אֶל הַ/גִּזָּה֙ לְ/בַדָּ֔/הּ וְ/עַל כָּל הָ/אָ֖רֶץ יִֽהְיֶה טָּֽל",
+      "annotations": [],
+      "after": "Then Gideon said to God, “Do not let your anger burn against me. Let me speak just once more. Please let me test the fleece just this once: let the fleece alone be dry, with dew on all the ground.”"
+    },
+    {
+      "reference": "Judges 6:40",
+      "source_verse_sha256": "66a0fe7a5dd45155276f2024b52ac147a2f316531804fe1efdc7beb7d18d7441",
+      "hebrew": "וַ/יַּ֧עַשׂ אֱלֹהִ֛ים כֵּ֖ן בַּ/לַּ֣יְלָה הַ/ה֑וּא וַ/יְהִי חֹ֤רֶב אֶל הַ/גִּזָּה֙ לְ/בַדָּ֔/הּ וְ/עַל כָּל הָ/אָ֖רֶץ הָ֥יָה טָֽל",
+      "annotations": [],
+      "after": "God did that very night as Gideon asked. Only the fleece was dry; dew covered all the ground."
+    },
+    {
+      "reference": "Judges 7:3",
+      "source_verse_sha256": "2604da33e735716aef2f1e0fd45591478c5981198def7877b03f4d83966745b4",
+      "hebrew": "וְ/עַתָּ֗ה קְרָ֨א נָ֜א בְּ/אָזְנֵ֤י הָ/עָם֙ לֵ/אמֹ֔ר מִֽי יָרֵ֣א וְ/חָרֵ֔ד יָשֹׁ֥ב וְ/יִצְפֹּ֖ר מֵ/הַ֣ר הַ/גִּלְעָ֑ד וַ/יָּ֣שָׁב מִן הָ/עָ֗ם עֶשְׂרִ֤ים וּ/שְׁנַ֨יִם֙ אֶ֔לֶף וַ/עֲשֶׂ֥רֶת אֲלָפִ֖ים נִשְׁאָֽרוּ",
+      "annotations": [],
+      "after": "Now announce for everyone to hear: ‘Anyone who is afraid and trembling may turn back and leave Mount Gilead.’” Twenty-two thousand turned back, and ten thousand remained."
+    },
+    {
+      "reference": "Judges 7:4",
+      "source_verse_sha256": "73c5f9e569d4048dac9a3aadf4b8edd222e6323a419316f26f8a3972dc0b7365",
+      "hebrew": "וַ/יֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן עוֹד֮ הָ/עָ֣ם רָב֒ הוֹרֵ֤ד אוֹתָ/ם֙ אֶל הַ/מַּ֔יִם וְ/אֶצְרְפֶ֥/נּוּ לְ/ךָ֖ שָׁ֑ם וְ/הָיָ֡ה אֲשֶׁר֩ אֹמַ֨ר אֵלֶ֜י/ךָ זֶ֣ה יֵלֵ֣ךְ אִתָּ֗/ךְ ה֚וּא יֵלֵ֣ךְ אִתָּ֔/ךְ וְ/כֹ֨ל אֲשֶׁר אֹמַ֜ר אֵלֶ֗י/ךָ זֶ֚ה לֹא יֵלֵ֣ךְ עִמָּ֔/ךְ ה֖וּא לֹ֥א יֵלֵֽךְ",
+      "annotations": [],
+      "after": "The LORD told Gideon, “There are still too many. Bring them down to the water, and I will sift them for you there. Whoever I tell you is to go with you will go. Whoever I tell you is not to go will not go.”"
+    },
+    {
+      "reference": "Judges 7:5",
+      "source_verse_sha256": "c6ad806d81082918c84b9aba51b02f7b879a93b6ac415ec55c51c9f778e39a08",
+      "hebrew": "וַ/יּ֥וֹרֶד אֶת הָ/עָ֖ם אֶל הַ/מָּ֑יִם וַ/יֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן כֹּ֣ל אֲשֶׁר יָלֹק֩ בִּ/לְשׁוֹנ֨/וֹ מִן הַ/מַּ֜יִם כַּ/אֲשֶׁ֧ר יָלֹ֣ק הַ/כֶּ֗לֶב תַּצִּ֤יג אוֹת/וֹ֙ לְ/בָ֔ד וְ/כֹ֛ל אֲשֶׁר יִכְרַ֥ע עַל בִּרְכָּ֖י/ו לִ/שְׁתּֽוֹת",
+      "annotations": [],
+      "after": "Gideon brought the people down to the water. The LORD said, “Set apart everyone who laps the water with his tongue as a dog laps, and everyone who kneels down to drink.”"
+    },
+    {
+      "reference": "Judges 7:6",
+      "source_verse_sha256": "720440edf7e6e4231b7bc7e077a832964dcef967b19ae2e80d56082eccbec78d",
+      "hebrew": "וַ/יְהִ֗י מִסְפַּ֞ר הַֽ/מֲלַקְקִ֤ים בְּ/יָדָ/ם֙ אֶל פִּי/הֶ֔ם שְׁלֹ֥שׁ מֵא֖וֹת אִ֑ישׁ וְ/כֹל֙ יֶ֣תֶר הָ/עָ֔ם כָּרְע֥וּ עַל בִּרְכֵי/הֶ֖ם לִ/שְׁתּ֥וֹת מָֽיִם",
+      "annotations": [],
+      "after": "Three hundred men lapped with their hands to their mouths. All the rest knelt down to drink water."
+    },
+    {
+      "reference": "Judges 7:7",
+      "source_verse_sha256": "61302d28943f48456c95e3f5c17e57729998b4edb30b32ee5c3ff49c16683ce7",
+      "hebrew": "וַ/יֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן בִּ/שְׁלֹשׁ֩ מֵא֨וֹת הָ/אִ֤ישׁ הַֽ/מֲלַקְקִים֙ אוֹשִׁ֣יעַ אֶתְ/כֶ֔ם וְ/נָתַתִּ֥י אֶת מִדְיָ֖ן בְּ/יָדֶ֑/ךָ וְ/כָל הָ/עָ֔ם יֵלְכ֖וּ אִ֥ישׁ לִ/מְקֹמֽ/וֹ",
+      "annotations": [],
+      "after": "The LORD told Gideon, “With the three hundred men who lapped, I will rescue you and give Midian into your hand. Let everyone else go home.”"
+    },
+    {
+      "reference": "Judges 7:8",
+      "source_verse_sha256": "7abca8480a0f561bc95d477079e60f292be8ea9cdb00e5e906dd5701fe7e1fdb",
+      "hebrew": "וַ/יִּקְח֣וּ אֶת צֵדָה֩ הָ/עָ֨ם בְּ/יָדָ֜/ם וְ/אֵ֣ת שׁוֹפְרֹֽתֵי/הֶ֗ם וְ/אֵ֨ת כָּל אִ֤ישׁ יִשְׂרָאֵל֙ שִׁלַּח֙ אִ֣ישׁ לְ/אֹֽהָלָ֔י/ו וּ/בִ/שְׁלֹשׁ מֵא֥וֹת הָ/אִ֖ישׁ הֶֽחֱזִ֑יק וּ/מַחֲנֵ֣ה מִדְיָ֔ן הָ֥יָה ל֖/וֹ מִ/תַּ֥חַת בָּ/עֵֽמֶק",
+      "annotations": [],
+      "after": "The men took the people’s provisions and horns. Gideon sent the rest of Israel back to their tents but kept the three hundred. Midian’s camp was below him in the valley."
+    },
+    {
+      "reference": "Judges 7:13",
+      "source_verse_sha256": "99153ce7181489d12d31c0af694d86850d93c354978cb5459505bbc32611b155",
+      "hebrew": "וַ/יָּבֹ֣א גִדְע֔וֹן וְ/הִ֨נֵּה אִ֔ישׁ מְסַפֵּ֥ר לְ/רֵעֵ֖/הוּ חֲל֑וֹם וַ/יֹּ֜אמֶר הִנֵּ֧ה חֲל֣וֹם חָלַ֗מְתִּי וְ/הִנֵּ֨ה צלול לֶ֤חֶם שְׂעֹרִים֙ מִתְהַפֵּךְ֙ בְּ/מַחֲנֵ֣ה מִדְיָ֔ן וַ/יָּבֹ֣א עַד הָ֠/אֹהֶל וַ/יַּכֵּ֧/הוּ וַ/יִּפֹּ֛ל וַ/יַּהַפְכֵ֥/הוּ לְ/מַ֖עְלָ/ה וְ/נָפַ֥ל הָ/אֹֽהֶל",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>צלול</catchWord><rdg type=\"x-qere\"><w lemma=\"6742\" n=\"0.1.1.0\" morph=\"HNcmsc\" id=\"07vwy\">צְלִ֜יל</w></rdg></note>\n          "
+      ],
+      "after": "Gideon arrived as a man was telling his companion a dream. “Listen to the dream I had,” he said. “A round loaf of barley bread came tumbling into Midian’s camp. It struck the tent so that it fell, overturned it, and left it flat.”"
+    },
+    {
+      "reference": "Judges 7:18",
+      "source_verse_sha256": "33cf33c9cdb09531c32b1813d2d256bf6bff097daf605f08239146d9e83f5c7d",
+      "hebrew": "וְ/תָקַעְתִּי֙ בַּ/שּׁוֹפָ֔ר אָנֹכִ֖י וְ/כָל אֲשֶׁ֣ר אִתִּ֑/י וּ/תְקַעְתֶּ֨ם בַּ/שּׁוֹפָר֜וֹת גַּם אַתֶּ֗ם סְבִיבוֹת֙ כָּל הַֽ/מַּחֲנֶ֔ה וַ/אֲמַרְתֶּ֖ם לַ/יהוָ֥ה וּ/לְ/גִדְעֽוֹן",
+      "annotations": [],
+      "after": "When I and everyone with me blow our horns, you too must blow yours all around the camp and shout, ‘For the LORD and for Gideon!’”"
+    },
+    {
+      "reference": "Judges 7:20",
+      "source_verse_sha256": "e44fe5b022add60bff1d978460358caa6e01b7a4dbac4e3db9e59c535d8f8daf",
+      "hebrew": "וַֽ֠/יִּתְקְעוּ שְׁלֹ֨שֶׁת הָ/רָאשִׁ֥ים בַּ/שּֽׁוֹפָרוֹת֮ וַ/יִּשְׁבְּר֣וּ הַ/כַּדִּים֒ וַ/יַּחֲזִ֤יקוּ בְ/יַד שְׂמאוֹלָ/ם֙ בַּ/לַּפִּדִ֔ים וּ/בְ/יַ֨ד יְמִינָ֔/ם הַ/שּׁוֹפָר֖וֹת לִ/תְק֑וֹעַ וַֽ/יִּקְרְא֔וּ חֶ֥רֶב לַֽ/יהוָ֖ה וּ/לְ/גִדְעֽוֹן",
+      "annotations": [
+        "<note n=\"U\">We agree with both BHS 1997 and BHQ on an unexpected reading. </note>\n          "
+      ],
+      "after": "All three companies blew their horns and shattered their jars. Holding torches in their left hands and horns to blow in their right, they shouted, “A sword for the LORD and for Gideon!”"
+    },
+    {
+      "reference": "Judges 7:22",
+      "source_verse_sha256": "9acffd60fb4a9ee0b8ac4716339b25808e27c918a7caed9f0e35d5d76defb038",
+      "hebrew": "וַֽ/יִּתְקְעוּ֮ שְׁלֹשׁ מֵא֣וֹת הַ/שּׁוֹפָרוֹת֒ וַ/יָּ֣שֶׂם יְהוָ֗ה אֵ֣ת חֶ֥רֶב אִ֛ישׁ בְּ/רֵעֵ֖/הוּ וּ/בְ/כָל הַֽ/מַּחֲנֶ֑ה וַ/יָּ֨נָס הַֽ/מַּחֲנֶ֜ה עַד בֵּ֤ית הַשִּׁטָּה֙ צְֽרֵרָ֔תָ/ה עַ֛ד שְׂפַת אָבֵ֥ל מְחוֹלָ֖ה עַל טַבָּֽת",
+      "annotations": [],
+      "after": "As the three hundred horns sounded, the LORD turned each man’s sword against his companion throughout the camp. The army fled as far as Beth-shittah toward Zererah, to the edge of Abel-meholah near Tabbath."
+    },
+    {
+      "reference": "Judges 7:25",
+      "source_verse_sha256": "9d6d4c00d28da52fdadaf70e238338989e7936e927fc372287446e0d6d98ee29",
+      "hebrew": "וַֽ/יִּלְכְּד֡וּ שְׁנֵֽי שָׂרֵ֨י מִדְיָ֜ן אֶת עֹרֵ֣ב וְ/אֶת זְאֵ֗ב וַ/יַּהַרְג֨וּ אֶת עוֹרֵ֤ב בְּ/צוּר עוֹרֵב֙ וְ/אֶת זְאֵב֙ הָרְג֣וּ בְ/יֶֽקֶב זְאֵ֔ב וַֽ/יִּרְדְּפ֖וּ אֶל מִדְיָ֑ן וְ/רֹאשׁ עֹרֵ֣ב וּ/זְאֵ֔ב הֵבִ֨יאוּ֙ אֶל גִּדְע֔וֹן מֵ/עֵ֖בֶר לַ/יַּרְדֵּֽן",
+      "annotations": [],
+      "after": "They captured Midian’s two leaders, Oreb and Zeeb. They killed Oreb at the Rock of Oreb and Zeeb at the Winepress of Zeeb, and pursued Midian. They brought Oreb’s and Zeeb’s heads to Gideon from beyond the Jordan."
+    },
+    {
+      "reference": "Judges 8:2",
+      "source_verse_sha256": "26c6fbf476c8ac7348528c6a54fb41475201a938f5e56c77aa020ef65654b697",
+      "hebrew": "וַ/יֹּ֣אמֶר אֲלֵי/הֶ֔ם מֶה עָשִׂ֥יתִי עַתָּ֖ה כָּ/כֶ֑ם הֲ/ל֗וֹא ט֛וֹב עֹלְל֥וֹת אֶפְרַ֖יִם מִ/בְצִ֥יר אֲבִיעֶֽזֶר",
+      "annotations": [],
+      "after": "He answered, “What have I done compared with you? Are not Ephraim’s gleanings better than Abiezer’s whole grape harvest?"
+    },
+    {
+      "reference": "Judges 8:6",
+      "source_verse_sha256": "89c6c79864e5077e79e89780743394e13f30ad523d1b761684753f42c3bee403",
+      "hebrew": "וַ/יֹּ֨אמֶר֙ שָׂרֵ֣י סֻכּ֔וֹת הֲ֠/כַף זֶ֧בַח וְ/צַלְמֻנָּ֛ע עַתָּ֖ה בְּ/יָדֶ֑/ךָ כִּֽי נִתֵּ֥ן לִֽ/צְבָאֲ/ךָ֖ לָֽחֶם",
+      "annotations": [],
+      "after": "Succoth’s leaders replied, “Are Zebah’s and Zalmunna’s hands already in your hand, that we should give your army bread?”"
+    },
+    {
+      "reference": "Judges 8:7",
+      "source_verse_sha256": "37e37bff856dd063fc2246dbc4e83521997fe76024dfeac0d8d11a1c00c3fe54",
+      "hebrew": "וַ/יֹּ֣אמֶר גִּדְע֔וֹן לָ/כֵ֗ן בְּ/תֵ֧ת יְהוָ֛ה אֶת זֶ֥בַח וְ/אֶת צַלְמֻנָּ֖ע בְּ/יָדִ֑/י וְ/דַשְׁתִּי֙ אֶת בְּשַׂרְ/כֶ֔ם אֶת קוֹצֵ֥י הַ/מִּדְבָּ֖ר וְ/אֶת הַֽ/בַּרְקֳנִֽים",
+      "annotations": [],
+      "after": "“Then when the LORD gives Zebah and Zalmunna into my hand,” Gideon said, “I will thresh your flesh with desert thorns and briers.”"
+    },
+    {
+      "reference": "Judges 8:10",
+      "source_verse_sha256": "829dcefa4058c707bd7df751194c5a7952041a8ed7664d759a046a7f97012670",
+      "hebrew": "וְ/זֶ֨בַח וְ/צַלְמֻנָּ֜ע בַּ/קַּרְקֹ֗ר וּ/מַחֲנֵי/הֶ֤ם עִמָּ/ם֙ כַּ/חֲמֵ֤שֶׁת עָשָׂר֙ אֶ֔לֶף כֹּ֚ל הַ/נּ֣וֹתָרִ֔ים מִ/כֹּ֖ל מַחֲנֵ֣ה בְנֵי קֶ֑דֶם וְ/הַ/נֹּ֣פְלִ֔ים מֵאָ֨ה וְ/עֶשְׂרִ֥ים אֶ֛לֶף אִ֖ישׁ שֹׁ֥לֵֽף חָֽרֶב",
+      "annotations": [],
+      "after": "Zebah and Zalmunna were at Karkor with their army, about fifteen thousand men—all that remained of the entire eastern army. One hundred twenty thousand swordsmen had fallen."
+    },
+    {
+      "reference": "Judges 8:14",
+      "source_verse_sha256": "5f621a43c7c45532449873127cf11e7c9efb9d9cd2595b4cde08b59c92582d48",
+      "hebrew": "וַ/יִּלְכָּד נַ֛עַר מֵ/אַנְשֵׁ֥י סֻכּ֖וֹת וַ/יִּשְׁאָלֵ֑/הוּ וַ/יִּכְתֹּ֨ב אֵלָ֜י/ו אֶת שָׂרֵ֤י סֻכּוֹת֙ וְ/אֶת זְקֵנֶ֔י/הָ שִׁבְעִ֥ים וְ/שִׁבְעָ֖ה אִֽישׁ",
+      "annotations": [],
+      "after": "He captured a young man from Succoth and questioned him. The young man wrote down for him the names of Succoth’s leaders and elders—seventy-seven men."
+    },
+    {
+      "reference": "Judges 8:16",
+      "source_verse_sha256": "5a1000a93a4c48071ddfbf4cdb5ff6b3a8d0940d38fafbfafb54d72ba7e2b09b",
+      "hebrew": "וַ/יִּקַּח֙ אֶת זִקְנֵ֣י הָ/עִ֔יר וְ/אֶת קוֹצֵ֥י הַ/מִּדְבָּ֖ר וְ/אֶת הַֽ/בַּרְקֳנִ֑ים וַ/יֹּ֣דַע בָּ/הֶ֔ם אֵ֖ת אַנְשֵׁ֥י סֻכּֽוֹת",
+      "annotations": [],
+      "after": "He took the town’s elders, and with desert thorns and briers he taught the men of Succoth a lesson."
+    },
+    {
+      "reference": "Judges 8:18",
+      "source_verse_sha256": "82fc54d7eba9fb1ae3084bea1334845779708ff4f0917a99e440e102cccdbf75",
+      "hebrew": "וַ/יֹּ֗אמֶר אֶל זֶ֨בַח֙ וְ/אֶל צַלְמֻנָּ֔ע אֵיפֹה֙ הָ/אֲנָשִׁ֔ים אֲשֶׁ֥ר הֲרַגְתֶּ֖ם בְּ/תָב֑וֹר וַֽ/יֹּאמרוּ֙ כָּמ֣וֹ/ךָ כְמוֹ/הֶ֔ם אֶחָ֕ד כְּ/תֹ֖אַר בְּנֵ֥י הַ/מֶּֽלֶךְ",
+      "annotations": [
+        "<note n=\"Q\">Marks a place where we agree with BHQ against BHS in reading L. </note>\n          ",
+        "<note n=\"n\">Marks an anomalous form. </note>\n          ",
+        "<note n=\"v\">We read one or more vowels in L differently from BHS. </note>\n          "
+      ],
+      "after": "Then he asked Zebah and Zalmunna, “What were the men you killed at Tabor like?” They answered, “They were like you. Each looked like a king’s son.”"
+    },
+    {
+      "reference": "Judges 8:19",
+      "source_verse_sha256": "c7adac3eba8c344f47b864732edbe86fc6b54911ada44cd2b52af3c24ca1dc01",
+      "hebrew": "וַ/יֹּאמַ֕ר אַחַ֥/י בְּנֵֽי אִמִּ֖/י הֵ֑ם חַי יְהוָ֗ה ל֚וּ הַחֲיִתֶ֣ם אוֹתָ֔/ם לֹ֥א הָרַ֖גְתִּי אֶתְ/כֶֽם",
+      "annotations": [],
+      "after": "“They were my brothers, my mother’s sons,” he said. “As the LORD lives, if you had spared them, I would not kill you.”"
+    },
+    {
+      "reference": "Judges 8:20",
+      "source_verse_sha256": "6bf05d1c68d4e4a97b14b02d7fc25c869841b7df6ad96a55e717f7dcad2b87d6",
+      "hebrew": "וַ/יֹּ֨אמֶר֙ לְ/יֶ֣תֶר בְּכוֹר֔/וֹ ק֖וּם הֲרֹ֣ג אוֹתָ֑/ם וְ/לֹא שָׁלַ֨ף הַ/נַּ֤עַר חַרְבּ/וֹ֙ כִּ֣י יָרֵ֔א כִּ֥י עוֹדֶ֖/נּוּ נָֽעַר",
+      "annotations": [],
+      "after": "He told Jether, his firstborn, “Get up and kill them.” But the boy did not draw his sword. He was afraid, for he was still young."
+    },
+    {
+      "reference": "Judges 8:21",
+      "source_verse_sha256": "d8c2ebb7b9ee85a4535f99f8910eb2e85b5f27bf203b9dfe32e35e698d51ea26",
+      "hebrew": "וַ/יֹּ֜אמֶר זֶ֣בַח וְ/צַלְמֻנָּ֗ע ק֤וּם אַתָּה֙ וּ/פְגַע בָּ֔/נוּ כִּ֥י כָ/אִ֖ישׁ גְּבוּרָת֑/וֹ וַ/יָּ֣קָם גִּדְע֗וֹן וַֽ/יַּהֲרֹג֙ אֶת זֶ֣בַח וְ/אֶת צַלְמֻנָּ֔ע וַ/יִּקַּח֙ אֶת הַ/שַּׂ֣הֲרֹנִ֔ים אֲשֶׁ֖ר בְּ/צַוְּארֵ֥י גְמַלֵּי/הֶֽם",
+      "annotations": [],
+      "after": "Zebah and Zalmunna said, “Get up and strike us yourself. A man’s strength matches the man.” Gideon got up and killed them, then took the crescent ornaments from their camels’ necks."
+    },
+    {
+      "reference": "Judges 8:24",
+      "source_verse_sha256": "d2b516c32fd9112410c2914cbf9f1efbe2f0e1b6e5b9a66be2fbeabeff4b4e5c",
+      "hebrew": "וַ/יֹּ֨אמֶר אֲלֵ/הֶ֜ם גִּדְע֗וֹן אֶשְׁאֲלָ֤ה מִ/כֶּם֙ שְׁאֵלָ֔ה וּ/תְנוּ לִ֕/י אִ֖ישׁ נֶ֣זֶם שְׁלָל֑/וֹ כִּֽי נִזְמֵ֤י זָהָב֙ לָ/הֶ֔ם כִּ֥י יִשְׁמְעֵאלִ֖ים הֵֽם",
+      "annotations": [],
+      "after": "“But I have one request,” Gideon said. “Let each of you give me an earring from his plunder.” The enemy had gold earrings because they were Ishmaelites."
+    },
+    {
+      "reference": "Judges 8:26",
+      "source_verse_sha256": "106cba2176a3945cfa2cde3f56cdd21bb4cb9c6b6c35f789bcb9aeeebf2dc294",
+      "hebrew": "וַ/יְהִ֗י מִשְׁקַ֞ל נִזְמֵ֤י הַ/זָּהָב֙ אֲשֶׁ֣ר שָׁאָ֔ל אֶ֥לֶף וּ/שְׁבַע מֵא֖וֹת זָהָ֑ב לְ֠/בַד מִן הַ/שַּׂהֲרֹנִ֨ים וְ/הַ/נְּטִפ֜וֹת וּ/בִגְדֵ֣י הָ/אַרְגָּמָ֗ן שֶׁ/עַל֙ מַלְכֵ֣י מִדְיָ֔ן וּ/לְ/בַד֙ מִן הָ֣/עֲנָק֔וֹת אֲשֶׁ֖ר בְּ/צַוְּארֵ֥י גְמַלֵּי/הֶֽם",
+      "annotations": [],
+      "after": "The gold earrings he requested weighed one thousand seven hundred shekels, besides the crescents, pendants, and purple garments worn by Midian’s kings, and the chains on their camels’ necks."
+    },
+    {
+      "reference": "Judges 8:27",
+      "source_verse_sha256": "d019c41aee8370e487d1e578f7e91569e6a9755899d7974ec1a85877bc78b9e4",
+      "hebrew": "וַ/יַּעַשׂ֩ אוֹת֨/וֹ גִדְע֜וֹן לְ/אֵפ֗וֹד וַ/יַּצֵּ֨ג אוֹת֤/וֹ בְ/עִיר/וֹ֙ בְּ/עָפְרָ֔ה וַ/יִּזְנ֧וּ כָֽל יִשְׂרָאֵ֛ל אַחֲרָ֖י/ו שָׁ֑ם וַ/יְהִ֛י לְ/גִדְע֥וֹן וּ/לְ/בֵית֖/וֹ לְ/מוֹקֵֽשׁ",
+      "annotations": [],
+      "after": "Gideon made the gold into an ephod and set it up in his town, Ophrah. All Israel prostituted themselves after it there, and it became a snare to Gideon and his household."
+    },
+    {
+      "reference": "Judges 8:30",
+      "source_verse_sha256": "5248acb7ba77b727869a59baa37d8e5952ea084100d113a7948d682b9170bf90",
+      "hebrew": "וּ/לְ/גִדְע֗וֹן הָיוּ֙ שִׁבְעִ֣ים בָּנִ֔ים יֹצְאֵ֖י יְרֵכ֑/וֹ כִּֽי נָשִׁ֥ים רַבּ֖וֹת הָ֥יוּ לֽ/וֹ",
+      "annotations": [],
+      "after": "Gideon had seventy sons of his own, for he had many wives."
+    },
+    {
+      "reference": "Judges 8:31",
+      "source_verse_sha256": "6e2c58136fc82c1435fab4c566545b088cfe2e1bbe160bf50a09a8c2dcb5126b",
+      "hebrew": "וּ/פִֽילַגְשׁ/וֹ֙ אֲשֶׁ֣ר בִּ/שְׁכֶ֔ם יָֽלְדָה לּ֥/וֹ גַם הִ֖יא בֵּ֑ן וַ/יָּ֥שֶׂם אֶת שְׁמ֖/וֹ אֲבִימֶֽלֶךְ",
+      "annotations": [],
+      "after": "His concubine in Shechem also bore him a son, whom he named Abimelech."
+    },
+    {
+      "reference": "Judges 8:35",
+      "source_verse_sha256": "0c1c3c10e317caf2730b1032cbbf0f1dd3b187d0914c75a012f2823d12b11846",
+      "hebrew": "וְ/לֹֽא עָשׂ֣וּ חֶ֔סֶד עִם בֵּ֥ית יְרֻבַּ֖עַל גִּדְע֑וֹן כְּ/כָל הַ/טּוֹבָ֔ה אֲשֶׁ֥ר עָשָׂ֖ה עִם יִשְׂרָאֵֽל",
+      "annotations": [],
+      "after": "Nor did they show loyal kindness to the household of Jerubbaal—that is, Gideon—in return for all the good he had done for Israel."
+    },
+    {
+      "reference": "Judges 9:1",
+      "source_verse_sha256": "60e9161f2a325ff2402f0be8adc16ef30b41af73a03153ebe57b4dd350e52775",
+      "hebrew": "וַ/יֵּ֨לֶךְ אֲבִימֶ֤לֶךְ בֶּן יְרֻבַּ֨עַל֙ שְׁכֶ֔מָ/ה אֶל אֲחֵ֖י אִמּ֑/וֹ וַ/יְדַבֵּ֣ר אֲלֵי/הֶ֔ם וְ/אֶל כָּל מִשְׁפַּ֛חַת בֵּית אֲבִ֥י אִמּ֖/וֹ לֵ/אמֹֽר",
+      "annotations": [],
+      "after": "Abimelech son of Jerubbaal went to his mother’s brothers in Shechem. He spoke to them and to the whole clan of his mother’s father:"
+    },
+    {
+      "reference": "Judges 9:2",
+      "source_verse_sha256": "2e5d94532074a54e27cdf80705f8dd908115d43d486584f995c15ed27cd9c38e",
+      "hebrew": "דַּבְּרוּ נָ֞א בְּ/אָזְנֵ֨י כָל בַּעֲלֵ֣י שְׁכֶם֮ מַה טּ֣וֹב לָ/כֶם֒ הַ/מְשֹׁ֨ל בָּ/כֶ֜ם שִׁבְעִ֣ים אִ֗ישׁ כֹּ֚ל בְּנֵ֣י יְרֻבַּ֔עַל אִם מְשֹׁ֥ל בָּ/כֶ֖ם אִ֣ישׁ אֶחָ֑ד וּ/זְכַרְתֶּ֕ם כִּֽי עַצְמֵ/כֶם וּ/בְשַׂרְ/כֶ֖ם אָנִֽי",
+      "annotations": [
+        "<note n=\"Q\">Marks a place where we agree with BHQ against BHS in reading L. </note>\n          ",
+        "<note n=\"U\">We agree with both BHS 1997 and BHQ on an unexpected reading. </note>\n          ",
+        "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>\n          ",
+        "<note n=\"n\">Marks an anomalous form. </note>\n          ",
+        "<note n=\"U\">We agree with both BHS 1997 and BHQ on an unexpected reading. </note>\n        "
+      ],
+      "after": "“Ask all Shechem’s citizens this: Which is better for you—to be ruled by seventy men, all Jerubbaal’s sons, or by one man? Remember, I am your own bone and flesh.”"
+    },
+    {
+      "reference": "Judges 9:4",
+      "source_verse_sha256": "7c7bfb245e9931113ea354f762c6d36c4c3578c60dc8cab7e89e78211f5e6df0",
+      "hebrew": "וַ/יִּתְּנוּ ל/וֹ֙ שִׁבְעִ֣ים כֶּ֔סֶף מִ/בֵּ֖יתּ בַ֣עַל בְּרִ֑ית וַ/יִּשְׂכֹּ֨ר בָּ/הֶ֜ם אֲבִימֶ֗לֶךְ אֲנָשִׁ֤ים רֵיקִים֙ וּ/פֹ֣חֲזִ֔ים וַ/יֵּלְכ֖וּ אַחֲרָֽי/ו",
+      "annotations": [
+        "<note n=\"P\">We read the punctuation in L differently from BHQ. </note>\n          ",
+        "<note n=\"n\">Marks an anomalous form. </note>\n          ",
+        "<note n=\"p\">We read punctuation in L differently from BHS. </note>\n          ",
+        "<note n=\"P\">We read the punctuation in L differently from BHQ. </note>\n          ",
+        "<note n=\"n\">Marks an anomalous form. </note>\n          ",
+        "<note n=\"p\">We read punctuation in L differently from BHS. </note>\n          "
+      ],
+      "after": "They gave him seventy shekels of silver from the temple of Baal-berith. With it Abimelech hired worthless, reckless men, who followed him."
+    },
+    {
+      "reference": "Judges 9:5",
+      "source_verse_sha256": "0c5d102b675e88f8e730fac203e8125fe52ae86b0fb595202df6f0b248290dd4",
+      "hebrew": "וַ/יָּבֹ֤א בֵית אָבִי/ו֙ עָפְרָ֔תָ/ה וַֽ/יַּהֲרֹ֞ג אֶת אֶחָ֧י/ו בְּנֵֽי יְרֻבַּ֛עַל שִׁבְּעִ֥ים אִ֖ישׁ עַל אֶ֣בֶן אֶחָ֑ת וַ/יִּוָּתֵ֞ר יוֹתָ֧ם בֶּן יְרֻבַּ֛עַל הַ/קָּטֹ֖ן כִּ֥י נֶחְבָּֽא",
+      "annotations": [
+        "<note n=\"P\">We read the punctuation in L differently from BHQ. </note>\n          ",
+        "<note n=\"n\">Marks an anomalous form. </note>\n          ",
+        "<note n=\"p\">We read punctuation in L differently from BHS. </note>\n          "
+      ],
+      "after": "He went to his father’s house at Ophrah and killed his brothers, Jerubbaal’s seventy sons, on one stone. But Jotham, Jerubbaal’s youngest son, survived because he hid."
+    },
+    {
+      "reference": "Judges 9:6",
+      "source_verse_sha256": "847b039a981271c233218cac572ca0a4dffd7673bb5ceebcdc233a961c0bd12a",
+      "hebrew": "וַ/יֵּאָ֨סְפ֜וּ כָּל בַּעֲלֵ֤י שְׁכֶם֙ וְ/כָל בֵּ֣ית מִלּ֔וֹא וַ/יֵּ֣לְכ֔וּ וַ/יַּמְלִ֥יכוּ אֶת אֲבִימֶ֖לֶךְ לְ/מֶ֑לֶךְ עִם אֵל֥וֹן מֻצָּ֖ב אֲשֶׁ֥ר בִּ/שְׁכֶֽם",
+      "annotations": [],
+      "after": "All Shechem’s citizens and all Beth-millo gathered and made Abimelech king beside the oak of the pillar at Shechem."
+    },
+    {
+      "reference": "Judges 9:9",
+      "source_verse_sha256": "3cf1497e9bf5a97874712920b43535fb5abaf2db2754976296cd7b95ad7380b8",
+      "hebrew": "וַ/יֹּ֤אמֶר לָ/הֶם֙ הַ/זַּ֔יִת הֶ/חֳדַ֨לְתִּי֙ אֶת דִּשְׁנִ֔/י אֲשֶׁר בִּ֛/י יְכַבְּד֥וּ אֱלֹהִ֖ים וַ/אֲנָשִׁ֑ים וְ/הָ֣לַכְתִּ֔י לָ/נ֖וּעַ עַל הָ/עֵצִֽים",
+      "annotations": [],
+      "after": "But the olive tree answered, ‘Should I give up my rich oil, by which gods and people are honored, to go and sway over the trees?’"
+    },
+    {
+      "reference": "Judges 9:13",
+      "source_verse_sha256": "c277d18c0d5606ad8536a53febc1be76077a80235bf5733ee98e3ae4ddc984dd",
+      "hebrew": "וַ/תֹּ֤אמֶר לָ/הֶם֙ הַ/גֶּ֔פֶן הֶ/חֳדַ֨לְתִּי֙ אֶת תִּ֣ירוֹשִׁ֔/י הַֽ/מְשַׂמֵּ֥חַ אֱלֹהִ֖ים וַ/אֲנָשִׁ֑ים וְ/הָ֣לַכְתִּ֔י לָ/נ֖וּעַ עַל הָ/עֵצִֽים",
+      "annotations": [],
+      "after": "The vine answered, ‘Should I give up my wine, which gladdens gods and people, to go and sway over the trees?’"
+    },
+    {
+      "reference": "Judges 9:15",
+      "source_verse_sha256": "14e75130a4a6de0b70190f49a878cfce4302af22aee8a7cfa1e7c96184a9a498",
+      "hebrew": "וַ/יֹּ֣אמֶר הָ/אָטָד֮ אֶל הָ/עֵצִים֒ אִ֡ם בֶּ/אֱמֶ֣ת אַתֶּם֩ מֹשְׁחִ֨ים אֹתִ֤/י לְ/מֶ֨לֶךְ֙ עֲלֵי/כֶ֔ם בֹּ֖אוּ חֲס֣וּ בְ/צִלִּ֑/י וְ/אִם אַ֕יִן תֵּ֤צֵא אֵשׁ֙ מִן הָ֣/אָטָ֔ד וְ/תֹאכַ֖ל אֶת אַרְזֵ֥י הַ/לְּבָנֽוֹן",
+      "annotations": [],
+      "after": "The bramble told the trees, ‘If you are truly anointing me king over you, come and take shelter in my shade. But if not, let fire come out of the bramble and consume the cedars of Lebanon.’"
+    },
+    {
+      "reference": "Judges 9:16",
+      "source_verse_sha256": "3ac4211abec80c80d0fab97655c064fde81ea16b6dc2662e375b61b39b93a4b8",
+      "hebrew": "וְ/עַתָּ֗ה אִם בֶּ/אֱמֶ֤ת וּ/בְ/תָמִים֙ עֲשִׂיתֶ֔ם וַ/תַּמְלִ֖יכוּ אֶת אֲבִימֶ֑לֶךְ וְ/אִם טוֹבָ֤ה עֲשִׂיתֶם֙ עִם יְרֻבַּ֣עַל וְ/עִם בֵּית֔/וֹ וְ/אִם כִּ/גְמ֥וּל יָדָ֖י/ו עֲשִׂ֥יתֶם לֽ/וֹ",
+      "annotations": [],
+      "after": "Now, have you acted faithfully and with integrity in making Abimelech king? Have you treated Jerubbaal and his household well and repaid him as his actions deserved?"
+    },
+    {
+      "reference": "Judges 9:18",
+      "source_verse_sha256": "ad56088e1b5fd26bc405eca5595380da8a1b34ddf101c2a1bf5500998aff17df",
+      "hebrew": "וְ/אַתֶּ֞ם קַמְתֶּ֨ם עַל בֵּ֤ית אָבִ/י֙ הַ/יּ֔וֹם וַ/תַּהַרְג֧וּ אֶת בָּנָ֛י/ו שִׁבְעִ֥ים אִ֖ישׁ עַל אֶ֣בֶן אֶחָ֑ת וַ/תַּמְלִ֜יכוּ אֶת אֲבִימֶ֤לֶךְ בֶּן אֲמָת/וֹ֙ עַל בַּעֲלֵ֣י שְׁכֶ֔ם כִּ֥י אֲחִי/כֶ֖ם הֽוּא",
+      "annotations": [],
+      "after": "But today you have risen against my father’s household. You killed his seventy sons on one stone and made Abimelech, the son of his slave woman, king over Shechem’s citizens because he is your brother."
+    },
+    {
+      "reference": "Judges 9:19",
+      "source_verse_sha256": "58b79b0ae6c60e7da6eb36aeaa1a4ea173b4fbd79d8aecf949d7700ac9d31ac3",
+      "hebrew": "וְ/אִם בֶּ/אֱמֶ֨ת וּ/בְ/תָמִ֧ים עֲשִׂיתֶ֛ם עִם יְרֻבַּ֥עַל וְ/עִם בֵּית֖/וֹ הַ/יּ֣וֹם הַ/זֶּ֑ה שִׂמְחוּ֙ בַּ/אֲבִימֶ֔לֶךְ וְ/יִשְׂמַ֥ח גַּם ה֖וּא בָּ/כֶֽם",
+      "annotations": [],
+      "after": "If you have acted faithfully and with integrity toward Jerubbaal and his household today, then rejoice in Abimelech, and let him rejoice in you."
+    },
+    {
+      "reference": "Judges 9:20",
+      "source_verse_sha256": "613e689ac9f270f50ebfd6bc424811afb20dc3088cf582d76dadeb4d07c39886",
+      "hebrew": "וְ/אִם אַ֕יִן תֵּ֤צֵא אֵשׁ֙ מֵ/אֲבִימֶ֔לֶךְ וְ/תֹאכַ֛ל אֶת בַּעֲלֵ֥י שְׁכֶ֖ם וְ/אֶת בֵּ֣ית מִלּ֑וֹא וְ/תֵצֵ֨א אֵ֜שׁ מִ/בַּעֲלֵ֤י שְׁכֶם֙ וּ/מִ/בֵּ֣ית מִלּ֔וֹא וְ/תֹאכַ֖ל אֶת אֲבִימֶֽלֶךְ",
+      "annotations": [],
+      "after": "But if not, let fire come out of Abimelech and consume Shechem’s citizens and Beth-millo. Let fire come out of Shechem’s citizens and Beth-millo and consume Abimelech!”"
+    },
+    {
+      "reference": "Judges 9:23",
+      "source_verse_sha256": "45ae4a145e5d961f8515dda5d4e7ff527161844693a1a4c4674e3c1ceb32956c",
+      "hebrew": "וַ/יִּשְׁלַ֤ח אֱלֹהִים֙ ר֣וּחַ רָעָ֔ה בֵּ֣ין אֲבִימֶ֔לֶךְ וּ/בֵ֖ין בַּעֲלֵ֣י שְׁכֶ֑ם וַ/יִּבְגְּד֥וּ בַעֲלֵי שְׁכֶ֖ם בַּ/אֲבִימֶֽלֶךְ",
+      "annotations": [],
+      "after": "God sent an evil spirit between Abimelech and Shechem’s citizens, and they betrayed Abimelech."
+    },
+    {
+      "reference": "Judges 9:24",
+      "source_verse_sha256": "54d03700b17050077de574227cf8c9e83ca230060e06c93d4385d0e1ea8eae39",
+      "hebrew": "לָ/ב֕וֹא חֲמַ֖ס שִׁבְעִ֣ים בְּנֵֽי יְרֻבָּ֑עַל וְ/דָמָ֗/ם לָ/שׂ֞וּם עַל אֲבִימֶ֤לֶךְ אֲחִי/הֶם֙ אֲשֶׁ֣ר הָרַ֣ג אוֹתָ֔/ם וְ/עַל֙ בַּעֲלֵ֣י שְׁכֶ֔ם אֲשֶׁר חִזְּק֥וּ אֶת יָדָ֖י/ו לַ/הֲרֹ֥ג אֶת אֶחָֽי/ו",
+      "annotations": [],
+      "after": "This brought the violence done to Jerubbaal’s seventy sons back upon those responsible: their blood fell on their brother Abimelech, who killed them, and on Shechem’s citizens, who strengthened his hand to kill his brothers."
+    },
+    {
+      "reference": "Judges 9:28",
+      "source_verse_sha256": "3aeda8dffdd20e22e8d91b882ea43f805f039198775d3b819e77dbd62f0af7f6",
+      "hebrew": "וַ/יֹּ֣אמֶר גַּ֣עַל בֶּן עֶ֗בֶד מִֽי אֲבִימֶ֤לֶךְ וּ/מִֽי שְׁכֶם֙ כִּ֣י נַעַבְדֶ֔/נּוּ הֲ/לֹ֥א בֶן יְרֻבַּ֖עַל וּ/זְבֻ֣ל פְּקִיד֑/וֹ עִבְד֗וּ אֶת אַנְשֵׁ֤י חֲמוֹר֙ אֲבִ֣י שְׁכֶ֔ם וּ/מַדּ֖וּעַ נַעַבְדֶ֥/נּוּ אֲנָֽחְנוּ",
+      "annotations": [],
+      "after": "Gaal son of Ebed said, “Who is Abimelech, and who is Shechem, that we should serve him? Is he not Jerubbaal’s son, and is not Zebul his officer? Serve the men of Hamor, Shechem’s father! Why should we serve Abimelech?"
+    },
+    {
+      "reference": "Judges 9:31",
+      "source_verse_sha256": "aec31cd1354c3d364b959c70d915aca56a3f9c6ac5d6e2156ec7126eef354f0c",
+      "hebrew": "וַ/יִּשְׁלַ֧ח מַלְאָכִ֛ים אֶל אֲבִימֶ֖לֶךְ בְּ/תָרְמָ֣ה לֵ/אמֹ֑ר הִנֵּה֩ גַ֨עַל בֶּן עֶ֤בֶד וְ/אֶחָי/ו֙ בָּאִ֣ים שְׁכֶ֔מָ/ה וְ/הִנָּ֛/ם צָרִ֥ים אֶת הָ/עִ֖יר עָלֶֽי/ךָ",
+      "annotations": [],
+      "after": "He secretly sent messengers to Abimelech: “Gaal son of Ebed and his brothers have come to Shechem. They are stirring up the town against you."
+    },
+    {
+      "reference": "Judges 9:37",
+      "source_verse_sha256": "1ecc4efc5b8adb120f0b8e468a68063193ca475513ea93760e987ce1e7bfb7ae",
+      "hebrew": "וַ/יֹּ֨סֶף ע֣וֹד גַּעַל֮ לְ/דַבֵּר֒ וַ/יֹּ֕אמֶר הִנֵּה עָם֙ יֽוֹרְדִ֔ים מֵ/עִ֖ם טַבּ֣וּר הָ/אָ֑רֶץ וְ/רֹאשׁ אֶחָ֣ד בָּ֔א מִ/דֶּ֖רֶךְ אֵל֥וֹן מְעוֹנְנִֽים",
+      "annotations": [],
+      "after": "Gaal spoke again: “People are coming down from the Navel of the Land, and one company is coming by the Diviners’ Oak.”"
+    },
+    {
+      "reference": "Judges 9:43",
+      "source_verse_sha256": "f43ad0119b7cfad36ff70501db2e852250a10ae6d38930bedc7c293c618ce996",
+      "hebrew": "וַ/יִּקַּ֣ח אֶת הָ/עָ֗ם וַֽ/יֶּחֱצֵ/ם֙ לִ/שְׁלֹשָׁ֣ה רָאשִׁ֔ים וַ/יֶּאֱרֹ֖ב בַּ/שָּׂדֶ֑ה וַ/יַּ֗רְא וְ/הִנֵּ֤ה הָ/עָם֙ יֹצֵ֣א מִן הָ/עִ֔יר וַ/יָּ֥קָם עֲלֵי/הֶ֖ם וַ/יַּכֵּֽ/ם",
+      "annotations": [],
+      "after": "He took his men, divided them into three companies, and hid them in the fields. When he saw the people coming out of the town, he rose against them and struck them down."
+    },
+    {
+      "reference": "Judges 9:44",
+      "source_verse_sha256": "4a4510d2674b1f8a82c4a84cc380d7ccf20c6eff0dafe7083d52095578ee8fd1",
+      "hebrew": "וַ/אֲבִימֶ֗לֶךְ וְ/הָ/רָאשִׁים֙ אֲשֶׁ֣ר עִמּ֔/וֹ פָּשְׁט֕וּ וַ/יַּ֣עַמְד֔וּ פֶּ֖תַח שַׁ֣עַר הָ/עִ֑יר וּ/שְׁנֵ֣י הָֽ/רָאשִׁ֗ים פָּֽשְׁט֛וּ עַֽל כָּל אֲשֶׁ֥ר בַּ/שָּׂדֶ֖ה וַ/יַּכּֽוּ/ם",
+      "annotations": [],
+      "after": "Abimelech and the companies with him rushed forward and took their stand at the town gate. The other two companies rushed everyone in the fields and struck them down."
+    },
+    {
+      "reference": "Judges 9:46",
+      "source_verse_sha256": "a9735f81316ac16c4eb01d0712fd2b30997053647c963ed4804e186442eab24b",
+      "hebrew": "וַֽ/יִּשְׁמְע֔וּ כָּֽל בַּעֲלֵ֖י מִֽגְדַּל שְׁכֶ֑ם וַ/יָּבֹ֣אוּ אֶל צְרִ֔יחַ בֵּ֖ית אֵ֥ל בְּרִֽית",
+      "annotations": [],
+      "after": "When all the citizens of the Tower of Shechem heard, they entered the stronghold of the temple of El-berith."
+    },
+    {
+      "reference": "Judges 9:48",
+      "source_verse_sha256": "0b07599019de2e7e3233beaec27987f3888e24dcbcb2ff738c9e6f13618940e5",
+      "hebrew": "וַ/יַּ֨עַל אֲבִימֶ֜לֶךְ הַר צַלְמ֗וֹן הוּא֮ וְ/כָל הָ/עָ֣ם אֲשֶׁר אִתּ/וֹ֒ וַ/יִּקַּח֩ אֲבִימֶ֨לֶךְ אֶת הַ/קַּרְדֻּמּ֜וֹת בְּ/יָד֗/וֹ וַ/יִּכְרֹת֙ שׂוֹכַ֣ת עֵצִ֔ים וַ/יִּ֨שָּׂאֶ֔/הָ וַ/יָּ֖שֶׂם עַל שִׁכְמ֑/וֹ וַ/יֹּ֜אמֶר אֶל הָ/עָ֣ם אֲשֶׁר עִמּ֗/וֹ מָ֤ה רְאִיתֶם֙ עָשִׂ֔יתִי מַהֲר֖וּ עֲשׂ֥וּ כָמֽוֹ/נִי",
+      "annotations": [],
+      "after": "He and everyone with him went up Mount Zalmon. Abimelech took an ax in his hand, cut a branch from the trees, lifted it onto his shoulder, and told his people, “You have seen what I did. Hurry and do the same.”"
+    },
+    {
+      "reference": "Judges 9:49",
+      "source_verse_sha256": "981ae3c5f4f98f1e428110b67ec470e44b34c4e28ea01c1d68d0bde9f1693cf5",
+      "hebrew": "וַ/יִּכְרְת֨וּ גַם כָּל הָ/עָ֜ם אִ֣ישׁ שׂוֹכֹ֗/ה וַ/יֵּ֨לְכ֜וּ אַחֲרֵ֤י אֲבִימֶ֨לֶךְ֙ וַ/יָּשִׂ֣ימוּ עַֽל הַ/צְּרִ֔יחַ וַ/יַּצִּ֧יתוּ עֲלֵי/הֶ֛ם אֶֽת הַ/צְּרִ֖יחַ בָּ/אֵ֑שׁ וַ/יָּמֻ֜תוּ גַּ֣ם כָּל אַנְשֵׁ֧י מִֽגְדַּל שְׁכֶ֛ם כְּ/אֶ֖לֶף אִ֥ישׁ וְ/אִשָּֽׁה",
+      "annotations": [],
+      "after": "Each man cut a branch and followed Abimelech. They piled the branches against the stronghold and set it on fire over the people inside. All the people of the Tower of Shechem died too—about a thousand men and women."
+    },
+    {
+      "reference": "Judges 9:51",
+      "source_verse_sha256": "edff69aeab93d7976c73a1bdabb36c6aee57deab8f29f3b6205a1b2c82b8a52a",
+      "hebrew": "וּ/מִגְדַּל עֹז֮ הָיָ֣ה בְ/תוֹךְ הָ/עִיר֒ וַ/יָּנֻ֨סוּ שָׁ֜מָּ/ה כָּל הָ/אֲנָשִׁ֣ים וְ/הַ/נָּשִׁ֗ים וְ/כֹל֙ בַּעֲלֵ֣י הָ/עִ֔יר וַֽ/יִּסְגְּר֖וּ בַּעֲדָ֑/ם וַֽ/יַּעֲל֖וּ עַל גַּ֥ג הַ/מִּגְדָּֽל",
+      "annotations": [],
+      "after": "There was a strong tower inside the town. All the men and women and all the town’s citizens fled into it, shut themselves in, and climbed onto the tower’s roof."
+    },
+    {
+      "reference": "Judges 9:53",
+      "source_verse_sha256": "479ce4d39526a89444b5bcf37a324e81a1a3c798f499554bb6e251e9a8f4f55b",
+      "hebrew": "וַ/תַּשְׁלֵ֞ךְ אִשָּׁ֥ה אַחַ֛ת פֶּ֥לַח רֶ֖כֶב עַל רֹ֣אשׁ אֲבִימֶ֑לֶךְ וַ/תָּ֖רִץ אֶת גֻּלְגָּלְתּֽ/וֹ",
+      "annotations": [],
+      "after": "But a woman threw an upper millstone onto Abimelech’s head and crushed his skull."
+    },
+    {
+      "reference": "Judges 9:54",
+      "source_verse_sha256": "2f76d927ecdf3880e3b6f5690a65a2e8043e59bb8bdf6a205215c1edfc77d5c8",
+      "hebrew": "וַ/יִּקְרָ֨א מְהֵרָ֜ה אֶל הַ/נַּ֣עַר נֹשֵׂ֣א כֵלָ֗י/ו וַ/יֹּ֤אמֶר ל/וֹ֙ שְׁלֹ֤ף חַרְבְּ/ךָ֙ וּ/מ֣וֹתְתֵ֔/נִי פֶּן יֹ֥אמְרוּ לִ֖/י אִשָּׁ֣ה הֲרָגָ֑תְ/הוּ וַ/יִּדְקְרֵ֥/הוּ נַעֲר֖/וֹ וַ/יָּמֹֽת",
+      "annotations": [],
+      "after": "He quickly called the young man carrying his weapons. “Draw your sword and kill me,” he said, “so they will not say of me, ‘A woman killed him.’” His attendant ran him through, and he died."
+    },
+    {
+      "reference": "Judges 9:56",
+      "source_verse_sha256": "5e522925b6291678efad6b84479a093097de528b2f8f69b5f915f8afa63ffad2",
+      "hebrew": "וַ/יָּ֣שֶׁב אֱלֹהִ֔ים אֵ֖ת רָעַ֣ת אֲבִימֶ֑לֶךְ אֲשֶׁ֤ר עָשָׂה֙ לְ/אָבִ֔י/ו לַ/הֲרֹ֖ג אֶת שִׁבְעִ֥ים אֶחָֽי/ו",
+      "annotations": [],
+      "after": "So God returned upon Abimelech the evil he had done to his father by killing his seventy brothers."
+    },
+    {
+      "reference": "Judges 10:4",
+      "source_verse_sha256": "d54168580f9f6a492eda907f6b6b6127688ae90f08ce02f61e5b9df95f4010fe",
+      "hebrew": "וַֽ/יְהִי ל֞/וֹ שְׁלֹשִׁ֣ים בָּנִ֗ים רֹֽכְבִים֙ עַל שְׁלֹשִׁ֣ים עֲיָרִ֔ים וּ/שְׁלֹשִׁ֥ים עֲיָרִ֖ים לָ/הֶ֑ם לָ/הֶ֞ם יִקְרְא֣וּ חַוֺּ֣ת יָאִ֗יר עַ֚ד הַ/יּ֣וֹם הַ/זֶּ֔ה אֲשֶׁ֖ר בְּ/אֶ֥רֶץ הַ/גִּלְעָֽד",
+      "annotations": [],
+      "after": "He had thirty sons who rode thirty donkeys. They had thirty towns in Gilead, called Havvoth-jair to this day."
+    },
+    {
+      "reference": "Judges 10:6",
+      "source_verse_sha256": "1567ec288a98c5e3193df647bea5b17e04500d2f5fca6beb00d5e80c7516398d",
+      "hebrew": "וַ/יֹּסִ֣פוּ בְּנֵ֣י יִשְׂרָאֵ֗ל לַ/עֲשׂ֣וֹת הָ/רַע֮ בְּ/עֵינֵ֣י יְהוָה֒ וַ/יַּעַבְד֣וּ אֶת הַ/בְּעָלִ֣ים וְ/אֶת הָ/עַשְׁתָּר֡וֹת וְ/אֶת אֱלֹהֵ֣י אֲרָם֩ וְ/אֶת אֱלֹהֵ֨י צִיד֜וֹן וְ/אֵ֣ת אֱלֹהֵ֣י מוֹאָ֗ב וְ/אֵת֙ אֱלֹהֵ֣י בְנֵי עַמּ֔וֹן וְ/אֵ֖ת אֱלֹהֵ֣י פְלִשְׁתִּ֑ים וַ/יַּעַזְב֥וּ אֶת יְהוָ֖ה וְ/לֹ֥א עֲבָדֽוּ/הוּ",
+      "annotations": [],
+      "after": "Again the Israelites did what was evil in the LORD’s eyes. They served the Baals and the Ashtaroth, the gods of Aram, Sidon, Moab, the Ammonites, and the Philistines. They abandoned the LORD and did not serve him."
+    },
+    {
+      "reference": "Judges 10:8",
+      "source_verse_sha256": "c13e3a44b9a839261b20dd496643b85dd711e48caa61e8a94d07f2ea67ff625a",
+      "hebrew": "וַֽ/יִּרְעֲצ֤וּ וַ/יְרֹֽצְצוּ֙ אֶת בְּנֵ֣י יִשְׂרָאֵ֔ל בַּ/שָּׁנָ֖ה הַ/הִ֑יא שְׁמֹנֶ֨ה עֶשְׂרֵ֜ה שָׁנָ֗ה אֶֽת כָּל בְּנֵ֤י יִשְׂרָאֵל֙ אֲשֶׁר֙ בְּ/עֵ֣בֶר הַ/יַּרְדֵּ֔ן בְּ/אֶ֥רֶץ הָ/אֱמֹרִ֖י אֲשֶׁ֥ר בַּ/גִּלְעָֽד",
+      "annotations": [],
+      "after": "That year they shattered and crushed the Israelites. For eighteen years they oppressed all the Israelites east of the Jordan, in the Amorite land of Gilead."
+    },
+    {
+      "reference": "Judges 10:11",
+      "source_verse_sha256": "bca6fef9ced963e92a45e723180bf053fdb786f6e84c2ad4693a623cfba2ea0b",
+      "hebrew": "וַ֥/יֹּאמֶר יְהוָ֖ה אֶל בְּנֵ֣י יִשְׂרָאֵ֑ל הֲ/לֹ֤א מִ/מִּצְרַ֨יִם֙ וּ/מִן הָ֣/אֱמֹרִ֔י וּ/מִן בְּנֵ֥י עַמּ֖וֹן וּ/מִן פְּלִשְׁתִּֽים",
+      "annotations": [],
+      "after": "The LORD answered the Israelites, “Did I not rescue you from Egypt, the Amorites, the Ammonites, and the Philistines?"
+    },
+    {
+      "reference": "Judges 10:12",
+      "source_verse_sha256": "3cd7604e75711b04bca74584d33af11d5204044880553638fcbace0b6b2a4407",
+      "hebrew": "וְ/צִידוֹנִ֤ים וַֽ/עֲמָלֵק֙ וּ/מָע֔וֹן לָחֲצ֖וּ אֶתְ/כֶ֑ם וַ/תִּצְעֲק֣וּ אֵלַ֔/י וָ/אוֹשִׁ֥יעָ/ה אֶתְ/כֶ֖ם מִ/יָּדָֽ/ם",
+      "annotations": [],
+      "after": "The Sidonians, Amalek, and Maon oppressed you too. You cried out to me, and I rescued you from their hand."
+    },
+    {
+      "reference": "Judges 10:16",
+      "source_verse_sha256": "6d3f1a29a954d8bb49e2b71bf7d1dcf189b2d80d8155dff207e51db13df0f510",
+      "hebrew": "וַ/יָּסִ֜ירוּ אֶת אֱלֹהֵ֤י הַ/נֵּכָר֙ מִ/קִּרְבָּ֔/ם וַ/יַּעַבְד֖וּ אֶת יְהוָ֑ה וַ/תִּקְצַ֥ר נַפְשׁ֖/וֹ בַּ/עֲמַ֥ל יִשְׂרָאֵֽל",
+      "annotations": [],
+      "after": "They removed the foreign gods from among them and served the LORD. He could no longer bear Israel’s misery."
+    },
+    {
+      "reference": "Judges 11:1",
+      "source_verse_sha256": "caf90d35b0407b71662be6b207798f6852f48b175e9d05b925396292572c4f86",
+      "hebrew": "וְ/יִפְתָּ֣ח הַ/גִּלְעָדִ֗י הָיָה֙ גִּבּ֣וֹר חַ֔יִל וְ/ה֖וּא בֶּן אִשָּׁ֣ה זוֹנָ֑ה וַ/יּ֥וֹלֶד גִּלְעָ֖ד אֶת יִפְתָּֽח",
+      "annotations": [],
+      "after": "Jephthah the Gileadite was a mighty warrior. His mother was a prostitute, and Gilead was his father."
+    },
+    {
+      "reference": "Judges 11:8",
+      "source_verse_sha256": "7e892d4681a6c787419017e2827d40034f2591c9189021a2bde40bbe7255468c",
+      "hebrew": "וַ/יֹּאמְרוּ֩ זִקְנֵ֨י גִלְעָ֜ד אֶל יִפְתָּ֗ח לָ/כֵן֙ עַתָּה֙ שַׁ֣בְנוּ אֵלֶ֔י/ךָ וְ/הָלַכְתָּ֣ עִמָּ֔/נוּ וְ/נִלְחַמְתָּ֖ בִּ/בְנֵ֣י עַמּ֑וֹן וְ/הָיִ֤יתָ לָּ֨/נוּ֙ לְ/רֹ֔אשׁ לְ/כֹ֖ל יֹשְׁבֵ֥י גִלְעָֽד",
+      "annotations": [],
+      "after": "Gilead’s elders replied, “That is why we have come back to you now. Come with us, fight the Ammonites, and be our head—over everyone living in Gilead.”"
+    },
+    {
+      "reference": "Judges 11:9",
+      "source_verse_sha256": "f986b4f8f58cb410fcf4f9c211ba1a84e06cb4563a3a5f96fb55a1898ae21ffb",
+      "hebrew": "וַ/יֹּ֨אמֶר יִפְתָּ֜ח אֶל זִקְנֵ֣י גִלְעָ֗ד אִם מְשִׁיבִ֨ים אַתֶּ֤ם אוֹתִ/י֙ לְ/הִלָּחֵם֙ בִּ/בְנֵ֣י עַמּ֔וֹן וְ/נָתַ֧ן יְהוָ֛ה אוֹתָ֖/ם לְ/פָנָ֑/י אָנֹכִ֕י אֶהְיֶ֥ה לָ/כֶ֖ם לְ/רֹֽאשׁ",
+      "annotations": [],
+      "after": "Jephthah told them, “If you bring me back to fight the Ammonites and the LORD gives them over to me, I will be your head.”"
+    },
+    {
+      "reference": "Judges 11:10",
+      "source_verse_sha256": "aa676296effd074b60f7623e8ac900b2fac6db0797824bc85ae3778d265a22fd",
+      "hebrew": "וַ/יֹּאמְר֥וּ זִקְנֵֽי גִלְעָ֖ד אֶל יִפְתָּ֑ח יְהוָ֗ה יִהְיֶ֤ה שֹׁמֵ֨עַ֙ בֵּֽינוֹתֵ֔י/נוּ אִם לֹ֥א כִ/דְבָרְ/ךָ֖ כֵּ֥ן נַעֲשֶֽׂה",
+      "annotations": [],
+      "after": "The elders answered, “May the LORD listen between us: we will do as you say.”"
+    },
+    {
+      "reference": "Judges 11:11",
+      "source_verse_sha256": "7d421fc0d94c697e36dd2ad8b63767d221954b9666071b1d1ffc359931bc32f8",
+      "hebrew": "וַ/יֵּ֤לֶךְ יִפְתָּח֙ עִם זִקְנֵ֣י גִלְעָ֔ד וַ/יָּשִׂ֨ימוּ הָ/עָ֥ם אוֹת֛/וֹ עֲלֵי/הֶ֖ם לְ/רֹ֣אשׁ וּ/לְ/קָצִ֑ין וַ/יְדַבֵּ֨ר יִפְתָּ֧ח אֶת כָּל דְּבָרָ֛י/ו לִ/פְנֵ֥י יְהוָ֖ה בַּ/מִּצְפָּֽה",
+      "annotations": [],
+      "after": "Jephthah went with Gilead’s elders, and the people made him their head and commander. At Mizpah he spoke all his terms before the LORD."
+    },
+    {
+      "reference": "Judges 11:13",
+      "source_verse_sha256": "550efb387ec80ffcab9095e8954c475a7b8d8ff128483615b5dcd441d20aa2ec",
+      "hebrew": "וַ/יֹּאמֶר֩ מֶ֨לֶךְ בְּנֵי עַמּ֜וֹן אֶל מַלְאֲכֵ֣י יִפְתָּ֗ח כִּֽי לָקַ֨ח יִשְׂרָאֵ֤ל אֶת אַרְצִ/י֙ בַּ/עֲלוֹת֣/וֹ מִ/מִּצְרַ֔יִם מֵ/אַרְנ֥וֹן וְ/עַד הַ/יַּבֹּ֖ק וְ/עַד הַ/יַּרְדֵּ֑ן וְ/עַתָּ֕ה הָשִׁ֥יבָ/ה אֶתְ/הֶ֖ן בְּ/שָׁלֽוֹם",
+      "annotations": [],
+      "after": "The Ammonite king told Jephthah’s messengers, “When Israel came up from Egypt, they took my land, from the Arnon to the Jabbok and the Jordan. Now give it back peacefully.”"
+    },
+    {
+      "reference": "Judges 11:17",
+      "source_verse_sha256": "c918afefcbffa913f4ead3c458f92159e38148de767a80ca93455615cd82889c",
+      "hebrew": "וַ/יִּשְׁלַ֣ח יִשְׂרָאֵ֣ל מַלְאָכִ֣ים אֶל מֶלֶךְ֩ אֱד֨וֹם לֵ/אמֹ֜ר אֶעְבְּרָה נָּ֣א בְ/אַרְצֶ֗/ךָ וְ/לֹ֤א שָׁמַע֙ מֶ֣לֶךְ אֱד֔וֹם וְ/גַ֨ם אֶל מֶ֧לֶךְ מוֹאָ֛ב שָׁלַ֖ח וְ/לֹ֣א אָבָ֑ה וַ/יֵּ֥שֶׁב יִשְׂרָאֵ֖ל בְּ/קָדֵֽשׁ",
+      "annotations": [],
+      "after": "Israel sent messengers to Edom’s king, saying, ‘Please let me pass through your land.’ But Edom’s king would not listen. They also sent to Moab’s king, who refused. So Israel stayed at Kadesh."
+    },
+    {
+      "reference": "Judges 11:19",
+      "source_verse_sha256": "aa834247e2faad001e25fd5d1dfa508fba35fc0abf078d0cf688dea786e7a9c4",
+      "hebrew": "וַ/יִּשְׁלַ֤ח יִשְׂרָאֵל֙ מַלְאָכִ֔ים אֶל סִיח֥וֹן מֶֽלֶךְ הָ/אֱמֹרִ֖י מֶ֣לֶךְ חֶשְׁבּ֑וֹן וַ/יֹּ֤אמֶר ל/וֹ֙ יִשְׂרָאֵ֔ל נַעְבְּרָה נָּ֥א בְ/אַרְצְ/ךָ֖ עַד מְקוֹמִֽ/י",
+      "annotations": [],
+      "after": "Israel sent messengers to Sihon king of the Amorites, who ruled at Heshbon. They said, ‘Please let us pass through your land to our own place.’"
+    },
+    {
+      "reference": "Judges 11:24",
+      "source_verse_sha256": "739f8af798d37574a52dc59389244434077af41f7113887cc6e26f88e4c51265",
+      "hebrew": "הֲ/לֹ֞א אֵ֣ת אֲשֶׁ֧ר יוֹרִֽישְׁ/ךָ֛ כְּמ֥וֹשׁ אֱלֹהֶ֖י/ךָ אוֹת֥/וֹ תִירָ֑שׁ וְ/אֵת֩ כָּל אֲשֶׁ֨ר הוֹרִ֜ישׁ יְהוָ֧ה אֱלֹהֵ֛י/נוּ מִ/פָּנֵ֖י/נוּ אוֹת֥/וֹ נִירָֽשׁ",
+      "annotations": [],
+      "after": "Do you not possess what Chemosh your god gives you to possess? We too will possess the land of all those the LORD our God has driven out before us."
+    },
+    {
+      "reference": "Judges 11:25",
+      "source_verse_sha256": "3e101218fbb421147ddbc26aa6d30156a1deee98f2c799c4080457bb66da0ff8",
+      "hebrew": "וְ/עַתָּ֗ה הֲ/ט֥וֹב טוֹב֙ אַתָּ֔ה מִ/בָּלָ֥ק בֶּן צִפּ֖וֹר מֶ֣לֶךְ מוֹאָ֑ב הֲ/ר֥וֹב רָב֙ עִם יִשְׂרָאֵ֔ל אִם נִלְחֹ֥ם נִלְחַ֖ם בָּֽ/ם",
+      "annotations": [],
+      "after": "Are you really better than Balak son of Zippor, king of Moab? Did he ever dispute with Israel or fight them?"
+    },
+    {
+      "reference": "Judges 11:26",
+      "source_verse_sha256": "2b7352b4e9d3337bd394b98add60d91d5d8ce8d1907bec97610adfd78893e353",
+      "hebrew": "בְּ/שֶׁ֣בֶת יִ֠שְׂרָאֵל בְּ/חֶשְׁבּ֨וֹן וּ/בִ/בְנוֹתֶ֜י/הָ וּ/בְ/עַרְע֣וֹר וּ/בִ/בְנוֹתֶ֗י/הָ וּ/בְ/כָל הֶֽ/עָרִים֙ אֲשֶׁר֙ עַל יְדֵ֣י אַרְנ֔וֹן שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וּ/מַדּ֥וּעַ לֹֽא הִצַּלְתֶּ֖ם בָּ/עֵ֥ת הַ/הִֽיא",
+      "annotations": [],
+      "after": "Israel has lived in Heshbon and its dependent towns, Aroer and its dependent towns, and all the towns along the Arnon for three hundred years. Why did you not recover them during that time?"
+    },
+    {
+      "reference": "Judges 11:27",
+      "source_verse_sha256": "df044c543b7803bf33f37c8b7f47640e69fb3c89285fce480bf1c06f6c8cb7c4",
+      "hebrew": "וְ/אָֽנֹכִי֙ לֹֽא חָטָ֣אתִי לָ֔/ךְ וְ/אַתָּ֞ה עֹשֶׂ֥ה אִתִּ֛/י רָעָ֖ה לְ/הִלָּ֣חֶם בִּ֑/י יִשְׁפֹּ֨ט יְהוָ֤ה הַ/שֹּׁפֵט֙ הַ/יּ֔וֹם בֵּ֚ין בְּנֵ֣י יִשְׂרָאֵ֔ל וּ/בֵ֖ין בְּנֵ֥י עַמּֽוֹן",
+      "annotations": [],
+      "after": "I have not wronged you, but you are doing me wrong by fighting me. May the LORD, the Judge, judge today between the Israelites and the Ammonites.”"
+    },
+    {
+      "reference": "Judges 11:29",
+      "source_verse_sha256": "8241a09eb5bd175eabc83bd46581346f07283bfb5caa04ed453b245d362f757e",
+      "hebrew": "וַ/תְּהִ֤י עַל יִפְתָּח֙ ר֣וּחַ יְהוָ֔ה וַ/יַּעֲבֹ֥ר אֶת הַ/גִּלְעָ֖ד וְ/אֶת מְנַשֶּׁ֑ה וַֽ/יַּעֲבֹר֙ אֶת מִצְפֵּ֣ה גִלְעָ֔ד וּ/מִ/מִּצְפֵּ֣ה גִלְעָ֔ד עָבַ֖ר בְּנֵ֥י עַמּֽוֹן",
+      "annotations": [],
+      "after": "The Spirit of the LORD came upon Jephthah. He passed through Gilead and Manasseh, then through Mizpeh of Gilead. From Mizpeh of Gilead he went on toward the Ammonites."
+    },
+    {
+      "reference": "Judges 11:30",
+      "source_verse_sha256": "17ffddae85401ee7a0191ed3f0fde960c1cc18209b1a565e2d138bc575a9c8c3",
+      "hebrew": "וַ/יִּדַּ֨ר יִפְתָּ֥ח נֶ֛דֶר לַ/יהוָ֖ה וַ/יֹּאמַ֑ר אִם נָת֥וֹן תִּתֵּ֛ן אֶת בְּנֵ֥י עַמּ֖וֹן בְּ/יָדִֽ/י",
+      "annotations": [],
+      "after": "Jephthah made a vow to the LORD: “If you really give the Ammonites into my hand,"
+    },
+    {
+      "reference": "Judges 11:31",
+      "source_verse_sha256": "0cbc4831e376bd84c3fce4394f56d4fc4e519d80bde932f63313b1df83c7bfbf",
+      "hebrew": "וְ/הָיָ֣ה הַ/יּוֹצֵ֗א אֲשֶׁ֨ר יֵצֵ֜א מִ/דַּלְתֵ֤י בֵיתִ/י֙ לִ/קְרָאתִ֔/י בְּ/שׁוּבִ֥/י בְ/שָׁל֖וֹם מִ/בְּנֵ֣י עַמּ֑וֹן וְ/הָיָה֙ לַֽ/יהוָ֔ה וְ/הַעֲלִיתִ֖/הוּ עוֹלָֽה",
+      "annotations": [],
+      "after": "whoever comes out through the doors of my house to meet me when I return in peace from the Ammonites will belong to the LORD, and I will offer that one as a burnt offering.”"
+    },
+    {
+      "reference": "Judges 11:32",
+      "source_verse_sha256": "d284284a7b09178ae7d17ed174c07d71c4f9af90915ffcb2364d52affb561414",
+      "hebrew": "וַ/יַּעֲבֹ֥ר יִפְתָּ֛ח אֶל בְּנֵ֥י עַמּ֖וֹן לְ/הִלָּ֣חֶם בָּ֑/ם וַ/יִתְּנֵ֥/ם יְהוָ֖ה בְּ/יָדֽ/וֹ",
+      "annotations": [
+        "<note n=\"Q\">Marks a place where we agree with BHQ against BHS in reading L. </note>\n          ",
+        "<note n=\"n\">Marks an anomalous form. </note>\n          ",
+        "<note n=\"p\">We read punctuation in L differently from BHS. </note>\n          "
+      ],
+      "after": "Jephthah crossed over to fight the Ammonites, and the LORD gave them into his hand."
+    },
+    {
+      "reference": "Judges 11:33",
+      "source_verse_sha256": "2d56154050dc82fce376458be95fbaac29f89ef4c075f4c3117c5c2981132f61",
+      "hebrew": "וַ/יַּכֵּ֡/ם מֵ/עֲרוֹעֵר֩ וְ/עַד בּוֹאֲ/ךָ֨ מִנִּ֜ית עֶשְׂרִ֣ים עִ֗יר וְ/עַד֙ אָבֵ֣ל כְּרָמִ֔ים מַכָּ֖ה גְּדוֹלָ֣ה מְאֹ֑ד וַ/יִּכָּֽנְעוּ֙ בְּנֵ֣י עַמּ֔וֹן מִ/פְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל",
+      "annotations": [
+        "<note n=\"C\">We read one or more accents in L differently from BHQ. </note>\n          ",
+        "<note n=\"c\">We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. </note>\n          "
+      ],
+      "after": "He struck them from Aroer to the approach to Minnith—twenty towns—and as far as Abel-keramim, in a crushing defeat. The Ammonites were subdued before the Israelites."
+    },
+    {
+      "reference": "Judges 11:34",
+      "source_verse_sha256": "7d44dac01b8fbb983d11eac4c01e4fa8134baf9dcebb0e6da01c3568bd16cd1c",
+      "hebrew": "וַ/יָּבֹ֨א יִפְתָּ֣ח הַ/מִּצְפָּה֮ אֶל בֵּית/וֹ֒ וְ/הִנֵּ֤ה בִתּ/וֹ֙ יֹצֵ֣את לִ/קְרָאת֔/וֹ בְ/תֻפִּ֖ים וּ/בִ/מְחֹל֑וֹת וְ/רַק֙ הִ֣יא יְחִידָ֔ה אֵֽין ל֥/וֹ מִמֶּ֛/נּוּ בֵּ֖ן אוֹ בַֽת",
+      "annotations": [],
+      "after": "When Jephthah reached his home at Mizpah, his daughter came out to meet him with tambourines and dancing. She was his only child; he had no other son or daughter."
+    },
+    {
+      "reference": "Judges 11:35",
+      "source_verse_sha256": "13bc21c18ed87d2c8a8127d687fe59592b9bc41d10d3786423cc5bf33764ac81",
+      "hebrew": "וַ/יְהִי֩ כִ/רְאוֹת֨/וֹ אוֹתָ֜/הּ וַ/יִּקְרַ֣ע אֶת בְּגָדָ֗י/ו וַ/יֹּ֨אמֶר֙ אֲהָ֤הּ בִּתִּ/י֙ הַכְרֵ֣עַ הִכְרַעְתִּ֔/נִי וְ/אַ֖תְּ הָיִ֣יתְ בְּ/עֹֽכְרָ֑/י וְ/אָנֹכִ֗י פָּצִ֤יתִי פִ/י֙ אֶל יְהוָ֔ה וְ/לֹ֥א אוּכַ֖ל לָ/שֽׁוּב",
+      "annotations": [
+        "<note n=\"U\">We agree with both BHS 1997 and BHQ on an unexpected reading. </note>\n          "
+      ],
+      "after": "When he saw her, he tore his clothes and said, “Ah, my daughter! You have brought me very low. You have become one of those who trouble me! I have opened my mouth to the LORD and cannot take it back.”"
+    },
+    {
+      "reference": "Judges 11:36",
+      "source_verse_sha256": "78f2c5f83cd07cce1717bb8208f811eca95b92b15b4ea9f2572f81ccf81935f8",
+      "hebrew": "וַ/תֹּ֣אמֶר אֵלָ֗י/ו אָבִ/י֙ פָּצִ֤יתָה אֶת פִּ֨י/ךָ֙ אֶל יְהוָ֔ה עֲשֵׂ֣ה לִ֔/י כַּ/אֲשֶׁ֖ר יָצָ֣א מִ/פִּ֑י/ךָ אַחֲרֵ֡י אֲשֶׁ֣ר עָשָׂה֩ לְ/ךָ֙ יְהוָ֧ה נְקָמ֛וֹת מֵ/אֹיְבֶ֖י/ךָ מִ/בְּנֵ֥י עַמּֽוֹן",
+      "annotations": [],
+      "after": "She answered, “My father, you have opened your mouth to the LORD. Do to me what came out of your mouth, now that the LORD has taken vengeance for you on your enemies, the Ammonites.”"
+    },
+    {
+      "reference": "Judges 11:37",
+      "source_verse_sha256": "82cbd0729fe5bebc2792924d986f2ad5d2a8ce3869c10c473449e74ca1fc3c1e",
+      "hebrew": "וַ/תֹּ֨אמֶר֙ אֶל אָבִ֔י/הָ יֵעָ֥שֶׂה לִּ֖/י הַ/דָּבָ֣ר הַ/זֶּ֑ה הַרְפֵּ֨ה מִמֶּ֜/נִּי שְׁנַ֣יִם חֳדָשִׁ֗ים וְ/אֵֽלְכָה֙ וְ/יָרַדְתִּ֣י עַל הֶֽ/הָרִ֔ים וְ/אֶבְכֶּה֙ עַל בְּתוּלַ֔/י אָנֹכִ֖י ו/רעית/י",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>ו/רעית/י</catchWord><rdg type=\"x-qere\"><w lemma=\"c/7464\" n=\"0\" morph=\"HC/Ncfpc/Sp1cs\" id=\"07gHx\">וְ/רֵעוֹתָֽ/י</w></rdg></note>"
+      ],
+      "after": "Then she told her father, “Grant me this: let me go for two months to wander in the hills and weep over my virginity with my companions.”"
+    },
+    {
+      "reference": "Judges 11:38",
+      "source_verse_sha256": "41eaacc165178542d45ec5ae7de6586468131d09f94379c75281a480fa4bb0fc",
+      "hebrew": "וַ/יֹּ֣אמֶר לֵ֔כִי וַ/יִּשְׁלַ֥ח אוֹתָ֖/הּ שְׁנֵ֣י חֳדָשִׁ֑ים וַ/תֵּ֤לֶךְ הִיא֙ וְ/רֵ֣עוֹתֶ֔י/הָ וַ/תֵּ֥בְךְּ עַל בְּתוּלֶ֖י/הָ עַל הֶ/הָרִֽים",
+      "annotations": [],
+      "after": "“Go,” he said, and sent her away for two months. She went with her companions and wept over her virginity in the hills."
+    },
+    {
+      "reference": "Judges 11:39",
+      "source_verse_sha256": "529e737d1bd8676a3081874d49af988a4fa9b98040cea696a2ee7f05b622c9d4",
+      "hebrew": "וַ/יְהִ֞י מִ/קֵּ֣ץ שְׁנַ֣יִם חֳדָשִׁ֗ים וַ/תָּ֨שָׁב֙ אֶל אָבִ֔י/הָ וַ/יַּ֣עַשׂ לָ֔/הּ אֶת נִדְר֖/וֹ אֲשֶׁ֣ר נָדָ֑ר וְ/הִיא֙ לֹא יָדְעָ֣ה אִ֔ישׁ וַ/תְּהִי חֹ֖ק בְּ/יִשְׂרָאֵֽל",
+      "annotations": [],
+      "after": "At the end of the two months she returned to her father, and he did to her what he had vowed. She had never known a man. This became a custom in Israel:"
+    },
+    {
+      "reference": "Judges 11:40",
+      "source_verse_sha256": "4ba30bfbab0493ab086da5cc91c1a030dde0e9458d753d9816aa7499c88faf34",
+      "hebrew": "מִ/יָּמִ֣ים יָמִ֗ימָ/ה תֵּלַ֨כְנָה֙ בְּנ֣וֹת יִשְׂרָאֵ֔ל לְ/תַנּ֕וֹת לְ/בַת יִפְתָּ֖ח הַ/גִּלְעָדִ֑י אַרְבַּ֥עַת יָמִ֖ים בַּ/שָּׁנָֽה",
+      "annotations": [],
+      "after": "year after year, Israel’s daughters went to commemorate the daughter of Jephthah the Gileadite for four days each year."
+    },
+    {
+      "reference": "Judges 12:1",
+      "source_verse_sha256": "22598f2d4f7e24ae713f47d39f431bf329cff8018949fcb88d12e119487fc1b8",
+      "hebrew": "וַ/יִּצָּעֵק֙ אִ֣ישׁ אֶפְרַ֔יִם וַֽ/יַּעֲבֹ֖ר צָפ֑וֹנָ/ה וַ/יֹּאמְר֨וּ לְ/יִפְתָּ֜ח מַדּ֣וּעַ עָבַ֣רְתָּ לְ/הִלָּחֵ֣ם בִּ/בְנֵי עַמּ֗וֹן וְ/לָ֨/נוּ֙ לֹ֤א קָרָ֨אתָ֙ לָ/לֶ֣כֶת עִמָּ֔/ךְ בֵּיתְ/ךָ֕ נִשְׂרֹ֥ף עָלֶ֖י/ךָ בָּ/אֵֽשׁ",
+      "annotations": [],
+      "after": "The men of Ephraim were called together and crossed northward. They told Jephthah, “Why did you cross over to fight the Ammonites without calling us to go with you? We will burn your house down over you!”"
+    },
+    {
+      "reference": "Judges 12:4",
+      "source_verse_sha256": "5d5fde802aa24b6d9dee47a692e8f6e5f060e6273ca2370f4c62fa5a99f7a296",
+      "hebrew": "וַ/יִּקְבֹּ֤ץ יִפְתָּח֙ אֶת כָּל אַנְשֵׁ֣י גִלְעָ֔ד וַ/יִּלָּ֖חֶם אֶת אֶפְרָ֑יִם וַ/יַּכּוּ֩ אַנְשֵׁ֨י גִלְעָ֜ד אֶת אֶפְרַ֗יִם כִּ֤י אָמְרוּ֙ פְּלִיטֵ֤י אֶפְרַ֨יִם֙ אַתֶּ֔ם גִּלְעָ֕ד בְּ/ת֥וֹךְ אֶפְרַ֖יִם בְּ/ת֥וֹךְ מְנַשֶּֽׁה",
+      "annotations": [],
+      "after": "Jephthah gathered all the men of Gilead and fought Ephraim. Gilead’s men struck Ephraim down, because the Ephraimites had said, “You Gileadites are fugitives from Ephraim, among Ephraim and Manasseh.”"
+    },
+    {
+      "reference": "Judges 12:5",
+      "source_verse_sha256": "a0ecdabde2bf8bd3e87e0202544f0501b6eb131479d2c7e6e04c1175f9d02f44",
+      "hebrew": "וַ/יִּלְכֹּ֥ד גִּלְעָ֛ד אֶֽת מַעְבְּר֥וֹת הַ/יַּרְדֵּ֖ן לְ/אֶפְרָ֑יִם וְֽ֠/הָיָה כִּ֣י יֹאמְר֞וּ פְּלִיטֵ֤י אֶפְרַ֨יִם֙ אֶעֱבֹ֔רָה וַ/יֹּ֨אמְרוּ ל֧/וֹ אַנְשֵֽׁי גִלְעָ֛ד הַֽ/אֶפְרָתִ֥י אַ֖תָּה וַ/יֹּ֥אמֶֽר לֹֽא",
+      "annotations": [],
+      "after": "Gilead seized the Jordan crossings leading to Ephraim. Whenever an Ephraimite fugitive asked to cross, the men of Gilead asked him, “Are you an Ephraimite?” If he said no,"
+    },
+    {
+      "reference": "Judges 12:6",
+      "source_verse_sha256": "ba1abb2954280224c0929272ab9151e6b2efb77516c476a0f90b20731e0f3b13",
+      "hebrew": "וַ/יֹּ֣אמְרוּ ל/וֹ֩ אֱמָר נָ֨א שִׁבֹּ֜לֶת וַ/יֹּ֣אמֶר סִבֹּ֗לֶת וְ/לֹ֤א יָכִין֙ לְ/דַבֵּ֣ר כֵּ֔ן וַ/יֹּאחֲז֣וּ אוֹת֔/וֹ וַ/יִּשְׁחָט֖וּ/הוּ אֶל מַעְבְּר֣וֹת הַ/יַּרְדֵּ֑ן וַ/יִּפֹּ֞ל בָּ/עֵ֤ת הַ/הִיא֙ מֵֽ/אֶפְרַ֔יִם אַרְבָּעִ֥ים וּ/שְׁנַ֖יִם אָֽלֶף",
+      "annotations": [],
+      "after": "they told him, “Say ‘Shibboleth.’” If he said “Sibboleth,” unable to pronounce it correctly, they seized him and slaughtered him at the Jordan crossings. Forty-two thousand Ephraimites fell at that time."
+    },
+    {
+      "reference": "Judges 12:7",
+      "source_verse_sha256": "232041a81b4d23408a136e8c34e83edb87f3c0bff7618c3267f1b14fd9c8e36b",
+      "hebrew": "וַ/יִּשְׁפֹּ֥ט יִפְתָּ֛ח אֶת יִשְׂרָאֵ֖ל שֵׁ֣שׁ שָׁנִ֑ים וַ/יָּ֗מָת יִפְתָּח֙ הַ/גִּלְעָדִ֔י וַ/יִּקָּבֵ֖ר בְּ/עָרֵ֥י גִלְעָֽד",
+      "annotations": [],
+      "after": "Jephthah judged Israel for six years. Then Jephthah the Gileadite died and was buried in one of Gilead’s towns."
+    },
+    {
+      "reference": "Judges 12:9",
+      "source_verse_sha256": "d0475acf767ef6636e03ad9a9e539550e66d360f83e596f4f2f19e8234fa1a1d",
+      "hebrew": "וַ/יְהִי ל֞/וֹ שְׁלֹשִׁ֣ים בָּנִ֗ים וּ/שְׁלֹשִׁ֤ים בָּנוֹת֙ שִׁלַּ֣ח הַ/ח֔וּצָ/ה וּ/שְׁלֹשִׁ֣ים בָּנ֔וֹת הֵבִ֥יא לְ/בָנָ֖י/ו מִן הַ/ח֑וּץ וַ/יִּשְׁפֹּ֥ט אֶת יִשְׂרָאֵ֖ל שֶׁ֥בַע שָׁנִֽים",
+      "annotations": [],
+      "after": "He had thirty sons and thirty daughters. He sent his daughters to marry outside his family and brought in thirty daughters from outside for his sons. He judged Israel for seven years."
+    },
+    {
+      "reference": "Judges 12:12",
+      "source_verse_sha256": "07c4a58e86ba81ba783c8dd9efc354c5d21566cffd1ccb2f6218d935ef7c15ee",
+      "hebrew": "וַ/יָּ֖מָת אֵל֣וֹן הַ/זְּבֽוּלֹנִ֑י וַ/יִּקָּבֵ֥ר בְּ/אַיָּל֖וֹן בְּ/אֶ֥רֶץ זְבוּלֻֽן",
+      "annotations": [],
+      "after": "Elon the Zebulunite died and was buried at Aijalon in Zebulun’s territory."
+    },
+    {
+      "reference": "Judges 12:14",
+      "source_verse_sha256": "315752ee474756d899f3c384a6de0bfa51aec24830c1f755d901decca4004cf5",
+      "hebrew": "וַ/יְהִי ל֞/וֹ אַרְבָּעִ֣ים בָּנִ֗ים וּ/שְׁלֹשִׁים֙ בְּנֵ֣י בָנִ֔ים רֹכְבִ֖ים עַל שִׁבְעִ֣ים עֲיָרִ֑ם וַ/יִּשְׁפֹּ֥ט אֶת יִשְׂרָאֵ֖ל שְׁמֹנֶ֥ה שָׁנִֽים",
+      "annotations": [],
+      "after": "He had forty sons and thirty grandsons who rode seventy donkeys. He judged Israel for eight years."
+    },
+    {
+      "reference": "Judges 12:15",
+      "source_verse_sha256": "3ca364ec1b3433bced6007d74b811cb679973e3e21f205fb0c2c56049b884cd5",
+      "hebrew": "וַ/יָּ֛מָת עַבְדּ֥וֹן בֶּן הִלֵּ֖ל הַ/פִּרְעָתוֹנִ֑י וַ/יִּקָּבֵ֤ר בְּ/פִרְעָתוֹן֙ בְּ/אֶ֣רֶץ אֶפְרַ֔יִם בְּ/הַ֖ר הָ/עֲמָלֵקִֽי",
+      "annotations": [],
+      "after": "Abdon son of Hillel, the Pirathonite, died and was buried at Pirathon in Ephraim’s territory, in the hill country of the Amalekites."
+    }
+  ]
+}

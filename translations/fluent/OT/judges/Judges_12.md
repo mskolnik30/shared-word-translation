@@ -4,83 +4,67 @@ testament: OT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-judges-6-12-biblical-fluency-2026-09-14
 ---
 
-## Ephraim Confronts Jephthah
+## Ephraim confronts Jephthah
 
 <p>
-v01: The men of Ephraim were called together and crossed northward. They said to Jephthah, “Why did you cross over to fight against the children of Ammon and did not call us to go with you? We will burn your house over you with fire.”
-
-v02: Jephthah said to them, “I and my people were in a great dispute with the children of Ammon. I called you, but you did not save me from their hand.
-
-v03: When I saw that you would not save me, I put my life in my hand and crossed over against the children of Ammon, and the LORD gave them into my hand. Why then have you come up to me this day to fight against me?”
-
-v04: Then Jephthah gathered all the men of Gilead and fought Ephraim. The men of Gilead struck Ephraim because they had said, “You Gileadites are fugitives from Ephraim, living between Ephraim and Manasseh.”
+v01: The men of Ephraim were called together and crossed northward. They told Jephthah, “Why did you cross over to fight the Ammonites without calling us to go with you? We will burn your house down over you!”
+v02: Jephthah answered, “My people and I were in a bitter conflict with the Ammonites. I called for you, but you did not rescue me from their hand.
+v03: When I saw that you would not rescue me, I took my life in my own hand and crossed over against the Ammonites. The LORD gave them into my hand. Why have you come up today to fight me?”
+v04: Jephthah gathered all the men of Gilead and fought Ephraim. Gilead’s men struck Ephraim down, because the Ephraimites had said, “You Gileadites are fugitives from Ephraim, among Ephraim and Manasseh.”
 </p>
 
-## Shibboleth
+## Death at the crossings
 
 <p>
-v05: The Gileadites seized the fords of the Jordan against Ephraim. When one of the Ephraimite fugitives said, “Let me cross,” the men of Gilead said to him, “Are you an Ephraimite?” If he said, “No,”
+v05: Gilead seized the Jordan crossings leading to Ephraim. Whenever an Ephraimite fugitive asked to cross, the men of Gilead asked him, “Are you an Ephraimite?” If he said no,
+v06: they told him, “Say ‘Shibboleth.’” If he said “Sibboleth,” unable to pronounce it correctly, they seized him and slaughtered him at the Jordan crossings. Forty-two thousand Ephraimites fell at that time.
+</p>
 
-v06: they said to him, “Then say, ‘Shibboleth.’” But he said, “Sibboleth,” for he could not pronounce it correctly. Then they seized him and slaughtered him at the fords of the Jordan. At that time forty-two thousand of Ephraim fell.
-
-v07: Jephthah judged Israel six years. Then Jephthah the Gileadite died and was buried in one of the cities of Gilead.
+<p>
+v07: Jephthah judged Israel for six years. Then Jephthah the Gileadite died and was buried in one of Gilead’s towns.
 </p>
 
 ## Ibzan, Elon, and Abdon
 
 <p>
-v08: After him Ibzan of Bethlehem judged Israel.
+v08: After him, Ibzan of Bethlehem judged Israel.
+v09: He had thirty sons and thirty daughters. He sent his daughters to marry outside his family and brought in thirty daughters from outside for his sons. He judged Israel for seven years.
+v10: Ibzan died and was buried at Bethlehem.
+</p>
 
-v09: He had thirty sons and thirty daughters. He sent his daughters outside his clan in marriage and brought in thirty daughters from outside for his sons. He judged Israel seven years.
+<p>
+v11: After him, Elon the Zebulunite judged Israel for ten years.
+v12: Elon the Zebulunite died and was buried at Aijalon in Zebulun’s territory.
+</p>
 
-v10: Then Ibzan died and was buried at Bethlehem.
-
-v11: After him Elon the Zebulunite judged Israel. He judged Israel ten years.
-
-v12: Then Elon the Zebulunite died and was buried at Aijalon in the land of Zebulun.
-
-v13: After him Abdon son of Hillel the Pirathonite judged Israel.
-
-v14: He had forty sons and thirty grandsons who rode on seventy donkeys. He judged Israel eight years.
-
-v15: Then Abdon son of Hillel the Pirathonite died and was buried at Pirathon in the land of Ephraim, in the hill country of the Amalekites.
+<p>
+v13: After him, Abdon son of Hillel, the Pirathonite, judged Israel.
+v14: He had forty sons and thirty grandsons who rode seventy donkeys. He judged Israel for eight years.
+v15: Abdon son of Hillel, the Pirathonite, died and was buried at Pirathon in Ephraim’s territory, in the hill country of the Amalekites.
 </p>
 
 ## Notes
 
-v01: Ephraim repeats the pattern of confronting a victorious judge for not including them in battle, as in Judges 8. This time the conflict escalates rather than being defused.
+v01: Northward may instead be read as to Zaphon, a place-name.
 
-v03: “put my life in my hand” — The Hebrew idiom means risking one’s life. Jephthah presents himself as acting under mortal danger when Ephraim did not help.
+v04–06: The taunt about fugitives and the tribal locations is difficult. The next verses call the people trying to cross fugitives too. Their pronunciation becomes the means of identifying and killing them.
 
-v04: The insult against Gilead appears to question their tribal legitimacy or portray them as displaced Ephraimites. The exact force of the taunt is difficult.
+v06: Unable to pronounce interprets an uncertain verb that can also concern not managing or not taking care to say it correctly. The text retains the contrast between Shibboleth and Sibboleth.
 
-v06: “Shibboleth” — The word means an ear of grain or flowing stream. Here its importance is phonetic: dialect difference becomes a test of identity with lethal consequences.
+v07: The Hebrew says he was buried in the towns of Gilead. One of is supplied to make the burial location intelligible without naming a town.
 
-v06: The number forty-two thousand is extremely large in relation to the conflict and may reflect ancient numerical conventions that are difficult to reconstruct. TSW preserves the received number.
-
-v08–15: The notices concerning Ibzan, Elon, and Abdon emphasize family networks, marriage alliances, and status without recording major military deliverances.
+v08–09: Bethlehem is not further identified. Outside is understood as outside the family or clan in the marriage arrangements; the text does not specify foreign nations.
 
 ## Vocabulary
 
-v03: שִׂים נֶפֶשׁ בְּכַף (sim nefesh be-khaf)
-“To put one’s life in one’s hand.” An idiom for risking one’s life.
+v06: Shibboleth
+A Hebrew word whose meanings include an ear of grain or a stream. Here its pronunciation, not its meaning, is decisive.
 
-v05: מַעְבָּרוֹת (ma'barot)
-“Fords” or “crossings.” Shallow points where a river can be crossed.
-
-v06: שִׁבֹּלֶת (shibboleth)
-“Ear of grain” or “stream.” Used as a pronunciation test identifying Ephraimites.
-
-v06: סִבֹּלֶת (sibboleth)
-The Ephraimite pronunciation recorded in the story.
-
-v06: סִבֹּלֶת (sibboleth)
-“Sibboleth.” The pronunciation of the word functions as the identifying test in the narrative.
-
-v08: שָׁפַט (shafat)
-“To judge” or “govern.” Used of the regional leaders who follow Jephthah.
-
-v14: עַיִר (ayir)
-“Young donkey.” Riding animals associated with family status and wealth.
+v14: grandsons
+Literally sons of sons; the forty sons and thirty grandsons account for the seventy riders.
