@@ -4,123 +4,89 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-1-8-biblical-fluency-2026-09-14
 ---
 
-## Jericho Is Shut Up
+## Jericho is shut
 
 <p>
-v01: Now Jericho was tightly shut because of the children of Israel. No one went out, and no one came in.
-
-v02: The LORD said to Joshua, “See, I have given Jericho into your hand, with its king and mighty warriors.
-
-v03: You will march around the city, all the men of war circling the city once. Thus you will do for six days.
-
-v04: Seven priests will carry seven ram’s horns before the ark. On the seventh day you will circle the city seven times, and the priests will blow the horns.
-
-v05: When they make a long blast with the ram’s horn, when you hear the sound of the horn, all the people will shout with a great shout. Then the wall of the city will fall beneath itself, and the people will go up, each straight ahead.”
+v01: Jericho was tightly shut because of the Israelites. No one went out, and no one came in.
+v02: The LORD told Joshua, “Look! I have given Jericho into your hand, along with its king and mighty warriors.
+v03: All your fighting men are to march around the city once. Do this for six days.
+v04: Seven priests are to carry seven ram’s horns ahead of the ark. On the seventh day, march around the city seven times, with the priests blowing the horns.
+v05: When they sound a long blast on the ram’s horn and you hear it, all the people are to give a great shout. The city wall will fall down where it stands, and the people will go up, each straight ahead.”
 </p>
 
-## Israel Marches Around the City
+## The procession around Jericho
 
 <p>
-v06: So Joshua son of Nun called the priests and said to them, “Take up the ark of the covenant, and let seven priests carry seven ram’s horns before the ark of the LORD.”
-
-v07: He said to the people, “Pass on and march around the city, and let the armed men pass before the ark of the LORD.”
-
-v08: When Joshua had spoken to the people, the seven priests carrying the seven ram’s horns before the LORD passed on and blew the horns, and the ark of the covenant of the LORD followed them.
-
-v09: The armed men went before the priests who blew the horns, and the rear guard followed the ark while the horns continued sounding.
-
-v10: Joshua commanded the people, saying, “You will not shout or let your voice be heard, nor will any word go out of your mouth until the day I say to you, ‘Shout!’ Then you will shout.”
-
-v11: So he caused the ark of the LORD to circle the city, going around it once. Then they entered the camp and spent the night in the camp.
-
-v12: Joshua rose early in the morning, and the priests took up the ark of the LORD.
-
-v13: The seven priests carrying the seven ram’s horns before the ark of the LORD walked on, continually blowing the horns. The armed men went before them, and the rear guard followed the ark of the LORD, while the horns continued sounding.
-
-v14: On the second day they circled the city once and returned to the camp. Thus they did six days.
+v06: Joshua son of Nun called the priests and told them, “Lift the ark of the covenant. Seven priests are to carry seven ram’s horns ahead of the ark of the LORD.”
+v07: Then he told the people, “Move out and march around the city. Let the armed men go ahead of the ark of the LORD.”
+v08: As Joshua spoke to the people, the seven priests carrying seven ram’s horns before the LORD moved out, blowing the horns. The ark of the LORD’s covenant followed them.
+v09: The armed men marched ahead of the priests blowing the horns, and the rear guard followed the ark, while the horns kept sounding.
 </p>
 
-## The Seventh Day
-
 <p>
-v15: On the seventh day they rose early at the dawning of the day and circled the city in the same manner seven times. Only on that day did they circle the city seven times.
-
-v16: At the seventh time, when the priests blew the horns, Joshua said to the people, “Shout, for the LORD has given you the city!
-
-v17: The city and all that is in it will be devoted to destruction for the LORD. Only Rahab the prostitute will live, she and everyone who are with her in the house, because she hid the messengers whom we sent.
-
-v18: But as for you, keep yourselves from what is devoted to destruction, lest you desire and take from what is devoted and make the camp of Israel itself devoted to destruction and bring trouble upon it.
-
-v19: All the silver and gold, and vessels of bronze and iron, are holy to the LORD. They will come into the treasury of the LORD.”
+v10: Joshua had commanded the people, “Do not shout or let your voices be heard. Do not let a word leave your mouths until the day I tell you, ‘Shout!’ Then shout.”
+v11: He had the ark of the LORD circle the city once. Then they returned to camp and spent the night there.
+v12: Joshua rose early the next morning, and the priests lifted the ark of the LORD.
+v13: The seven priests carrying seven ram’s horns ahead of the ark of the LORD kept marching and blowing. The armed men went ahead of them, and the rear guard followed the ark of the LORD, while the horns kept sounding.
+v14: On the second day they circled the city once and returned to camp. They did this for six days.
 </p>
 
-## Jericho Falls
+## The seventh day
 
 <p>
-v20: So the people shouted, and the priests blew the horns. When the people heard the sound of the horn, the people shouted with a great shout, and the wall fell beneath itself. The people went up into the city, each straight ahead, and they captured the city.
-
-v21: They devoted to destruction all that was in the city, from man to woman, from young to old, and ox and sheep and donkey, with the edge of the sword.
+v15: On the seventh day they rose at dawn and circled the city in the same way seven times. Only on that day did they circle it seven times.
+v16: On the seventh circuit, when the priests blew the horns, Joshua told the people, “Shout! The LORD has given you the city!
+v17: The city and everything in it are devoted to the LORD for destruction. Only Rahab the prostitute and everyone with her in the house are to live, because she hid the messengers we sent.
+v18: But keep away from what is devoted to destruction. If you take any of it while carrying out the destruction, you will make Israel’s camp itself subject to destruction and bring trouble on it.
+v19: All silver and gold, and all objects of bronze and iron, are holy to the LORD. They must go into the LORD’s treasury.”
 </p>
 
-## Rahab Is Spared
-
 <p>
-v22: Joshua said to the two men who had spied out the land, “Go into the prostitute’s house and bring out from there the woman and everyone who belong to her, as you swore to her.”
-
-v23: So the young men who had been spies went in and brought out Rahab, her father, her mother, her brothers, and everyone who belonged to her. They brought out all her clan and placed them outside the camp of Israel.
-
-v24: They burned the city with fire and all that was in it. Only the silver and gold and vessels of bronze and iron they put into the treasury of the house of the LORD.
-
-v25: Yet Rahab the prostitute, her father’s household, and everyone who belonged to her Joshua preserved alive. She has lived among Israel to this day because she hid the messengers whom Joshua sent to spy out Jericho.
+v20: The people shouted, and the horns sounded. When the people heard the horn blast, they gave a great shout, and the wall fell down where it stood. They went up into the city, each straight ahead, and captured it.
+v21: They devoted everything in the city to destruction, killing with the sword men and women, young and old, cattle, sheep, and donkeys.
 </p>
 
-## Joshua Curses the Rebuilding of Jericho
+## Rahab’s household is spared
 
 <p>
-v26: Joshua made them swear at that time, saying:
+v22: Joshua told the two men who had spied out the land, “Go into the prostitute’s house. Bring out the woman and all who belong to her, just as you swore to her.”
+v23: The young spies went in and brought out Rahab, her father and mother, her brothers, and all who belonged to her. They brought out all her relatives and settled them outside Israel’s camp.
+v24: They burned the city and everything in it. Only the silver, gold, and objects of bronze and iron went into the treasury of the LORD’s house.
+v25: But Joshua spared Rahab the prostitute, her father’s household, and all who belonged to her. She has lived among Israel to this day, because she hid the messengers Joshua sent to spy out Jericho.
+</p>
 
-“Cursed before the LORD
-is the man who rises
-and rebuilds this city, Jericho.
+## The curse on rebuilding
 
-At the cost of his firstborn
-he will lay its foundation,
-and at the cost of his youngest
-he will set up its gates.”
-
-v27: So the LORD was with Joshua, and his fame was throughout all the land.
+<p>
+v26: At that time Joshua imposed this oath: “Cursed before the LORD is the man who rises to rebuild this city, Jericho!
+At the cost of his firstborn he will lay its foundation;
+at the cost of his youngest he will set up its gates.”
+v27: The LORD was with Joshua, and his fame spread throughout the land.
 </p>
 
 ## Notes
 
-v17–21: The language of *herem*, devotion to destruction, is severe and comprehensive. TSW preserves the text’s warfare language without minimizing its moral difficulty or importing explanations not stated in the chapter.
+v07: “He told” follows the Hebrew reading tradition, referring to Joshua. The written form has “they told.”
 
-v18: Israel itself can become subject to the ban if it takes what has been devoted. The warning prepares directly for Achan’s act in chapter 7.
+v17–19: What is devoted to the LORD is removed from ordinary use. Here people and animals are killed, while the specified metals enter the treasury. The different outcomes are stated explicitly in verses 19 and 21.
 
-v20: The fall of the wall follows ritual procession, horns, and shouting rather than ordinary siege tactics, emphasizing that the city is given by the LORD.
+v18: The Hebrew repeats the verb and noun for devotion to destruction. The first clause can be understood as acting under the ban while taking from it, or as incurring destruction by taking it. Either way, the stated danger extends to Israel’s camp.
 
-v23: Rahab’s household is first placed outside Israel’s camp, fitting the boundaries of ritual community, before verse 25 summarizes her lasting incorporation into Israel.
-
-v26: Joshua’s curse concerns rebuilding Jericho as a fortified city. The language ties foundation and gates to the loss of sons.
+v26: The paired lines associate rebuilding the foundation with the firstborn and setting the gates with the youngest. “At the cost of” expresses the force of the curse without specifying how that loss happens.
 
 ## Vocabulary
 
 v04: שׁוֹפָר (shofar)
-“Ram’s horn.” Used in procession and as the signal for the shout.
+Horn used as a signaling instrument. These ram’s horns differ from the silver trumpets of Numbers 10.
 
-v17: חֵרֶם (cherem)
-“Devoted thing” or “ban.” Something placed under irrevocable divine claim, often involving destruction.
+v17: חֵרֶם (herem)
+Something irrevocably devoted, removed from ordinary possession. In this account it entails destruction, with stated exceptions.
 
-v18: עָכַר (akhar)
-“To bring trouble.” The verb anticipates the consequences of taking what is devoted.
-
-v19: קֹדֶשׁ (qodesh)
-“Holy.” Set apart as belonging to the LORD.
-
-v20: תְּרוּעָה (teruah)
-“Shout” or “blast.” A loud signal of acclamation or battle.
-
-v26: אָרַר (arar)
-“To curse.” To pronounce judgment upon someone.
+v18: עָכַר (akar)
+Bring trouble. This warning anticipates the language and place-name in 7:25–26.

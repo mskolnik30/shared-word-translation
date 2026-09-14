@@ -4,100 +4,75 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-1-8-biblical-fluency-2026-09-14
 ---
 
-## Rahab Hides the Spies
+## Rahab hides the spies
 
 <p>
-v01: Joshua son of Nun secretly sent two men from Shittim as spies, saying, “Go, see the land, especially Jericho.” So they went and entered the house of a woman, a prostitute, whose name was Rahab, and they lodged there.
-
-v02: It was told to the king of Jericho, saying, “Look, men from the children of Israel have come here tonight to search out the land.”
-
-v03: Then the king of Jericho sent to Rahab, saying, “Bring out the men who came to you, who entered your house, for they have come to search out all the land.”
-
-v04: But the woman took the two men and hid them. She said, “Yes, the men came to me, but I did not know where they were from.
-
-v05: When the gate was about to be shut at dark, the men went out. I do not know where the men went. Pursue them quickly, for you may overtake them.”
-
-v06: But she had brought them up to the roof and hidden them among the stalks of flax that she had arranged on the roof.
-
-v07: So the men pursued them along the road to the Jordan as far as the fords. As soon as people who pursued them had gone out, the gate was shut.
+v01: Joshua son of Nun secretly sent two men from Shittim to spy out the land. “Go and look over the land, especially Jericho,” he told them. They went to the house of a prostitute named Rahab and stayed there.
+v02: Word reached the king of Jericho: “Some Israelite men came here tonight to search out the land.”
+v03: So the king of Jericho sent this message to Rahab: “Bring out the men who came to you and entered your house. They have come to search out the whole land.”
+v04: But the woman had taken the two men and hidden them. She said, “Yes, the men came to me, but I did not know where they were from.
+v05: At dark, when the gate was about to close, they left. I do not know where they went. Hurry after them—you can catch them!”
+v06: She had actually taken them up to the roof and hidden them under the stalks of flax she had laid out there.
+v07: The pursuers went after them along the road to the Jordan’s crossing places. As soon as the pursuers left, the gate was shut.
 </p>
 
-## Rahab Confesses the LORD
+## Rahab asks for her household’s life
 
 <p>
-v08: Before the spies lay down, she came up to them on the roof.
-
-v09: She said to the men, “I know that the LORD has given you the land, and that terror of you has fallen upon us, and that all the inhabitants of the land melt away before you.
-
-v10: For we have heard how the LORD dried up the waters of the Sea of Reeds before you when you came out from Egypt, and what you did to the two kings of the Amorites beyond the Jordan, to Sihon and Og, whom you devoted to destruction.
-
-v11: When we heard it, our hearts melted, and no spirit remained in anyone because of you. For the LORD your God—he is God in the heavens above and on the earth beneath.
+v08: Before the two men lay down, Rahab went up to them on the roof.
+v09: She said, “I know the LORD has given you the land. Terror of you has fallen on us, and everyone who lives in the land is melting with fear because of you.
+v10: We heard how the LORD dried up the water of the Sea of Reeds before you when you left Egypt, and what you did to Sihon and Og, the two Amorite kings east of the Jordan whom you devoted to destruction.
+v11: When we heard it, our hearts melted, and no one had any spirit left to face you. For the LORD your God is God in heaven above and on earth below.
+v12: Now please swear to me by the LORD that, since I have shown you loyal kindness, you too will show loyal kindness to my father’s household. Give me a trustworthy sign
+v13: that you will spare my father and mother, my brothers and sisters, and all who belong to them, and rescue our lives from death.”
+v14: The men answered her, “Our lives for yours, even to death! If you do not reveal our mission, we will show you loyal kindness and faithfulness when the LORD gives us the land.”
 </p>
 
-## The Spies Swear to Rahab
+## The escape and the scarlet cord
 
 <p>
-v12: Now therefore, please swear to me by the LORD, since I have shown you steadfast love, that you also will show steadfast love to my father’s house. Give me a reliable sign
-
-v13: that you will preserve alive my father, my mother, my brothers, my sisters, and everyone who belong to them, and rescue our lives from death.”
-
-v14: The men said to her, “Our lives for yours, even to death, if you do not tell this matter of ours. When the LORD gives us the land, we will deal with you in steadfast love and faithfulness.”
-
-v15: Then she let them down by a rope through the window, for her house was in the city wall, and she lived in the wall.
-
-v16: She said to them, “Go toward the hill country, lest the pursuers meet you. Hide yourselves there three days until the pursuers return. Afterward you may go your way.”
-
-v17: The men said to her, “We will be free from this oath of yours that you made us swear
-
-v18: unless, when we enter the land, you tie this cord of scarlet thread in the window through which you let us down, and gather to yourself in the house your father, your mother, your brothers, and all your father’s household.
-
-v19: Whoever goes outside the doors of your house into the street, his blood will be on his own head, and we will be innocent. But whoever is with you in the house, his blood will be on our head if a hand is laid upon him.
-
-v20: But if you tell this matter of ours, then we will be free from your oath that you made us swear.”
-
-v21: She said, “According to your words, so be it.” Then she sent them away, and they went. And she tied the scarlet cord in the window.
+v15: She lowered them by a rope through the window, for her house was built into the city wall; she lived in the wall itself.
+v16: “Go to the hills,” she told them, “so the pursuers will not find you. Hide there for three days until they come back; then you can go on your way.”
+v17: The men told her, “We will be free of this oath you made us swear unless you do this:
+v18: when we enter the land, tie this scarlet cord in the window you lowered us through, and gather your father, mother, brothers, and your father’s entire household into your house.
+v19: If anyone goes outside the doors of your house, their blood will be on their own head, and we will be free of guilt. But if a hand is laid on anyone with you inside the house, their blood will be on our heads.
+v20: If you reveal our mission, we will be free of the oath you made us swear.”
+v21: “Let it be as you say,” she replied. She sent them away, and they left. Then she tied the scarlet cord in the window.
 </p>
 
-## The Spies Return to Joshua
+## The spies return
 
 <p>
-v22: They departed and went into the hill country and stayed there three days until the pursuers returned. The pursuers searched all along the road but did not find them.
-
-v23: Then the two men returned. They came down from the hill country, crossed over, and came to Joshua son of Nun. They told him all that had happened to them.
-
-v24: They said to Joshua, “Truly the LORD has given all the land into our hand. Moreover, all the inhabitants of the land melt away before us.”
+v22: They went into the hills and stayed there three days, until the pursuers returned. The pursuers searched all along the road but never found the spies.
+v23: Then the two men came back down from the hills, crossed the river, and went to Joshua son of Nun. They told him everything that had happened to them.
+v24: “The LORD really has given the whole land into our hands,” they told Joshua. “Everyone living there is melting with fear because of us.”
 </p>
 
 ## Notes
 
-v01: Rahab is introduced directly as a prostitute, yet the narrative centers her courage, discernment, and confession concerning the LORD.
+v01: The Hebrew calls Rahab a prostitute. The verb for the men’s stay can mean lie down or lodge; this verse does not say that they had sex with her.
 
-v04–05: Rahab deceives the king’s agents in order to protect the spies. The narrative reports the deception as part of her act of protection without pausing to formulate a general ethic concerning false speech.
+v04: The Hebrew has “hid him” after “the two men.” The translation follows the plural referent made explicit again in verse 6.
 
-v09–11: Rahab interprets Israel’s past deliverance theologically and confesses the LORD’s sovereignty in heaven and earth before Israel has entered Jericho.
+v10: Sea of Reeds is the Hebrew name traditionally rendered Red Sea.
 
-v12–14: “steadfast love and faithfulness” describes reciprocal loyalty grounded in the protection Rahab has already extended to the spies.
+v12–14: “Loyal kindness” translates hesed in both Rahab’s request and the men’s pledge. Their promise is reciprocal and sworn by the LORD.
 
-v18: The scarlet cord functions as a visible sign identifying the household to be spared. The text itself does not assign symbolic meaning beyond the agreement.
+v19: Blood on one’s head is an image of responsibility for a death. The oath distinguishes people who stay inside the house from those who leave.
 
 ## Vocabulary
 
-v01: רָגַל (ragal)
-“To spy out” or “explore.” To investigate land or territory.
+v09: מוּג (mug)
+Melt or dissolve. Rahab describes the land’s fear this way, and the spies repeat it in verse 24.
 
-v01: זוֹנָה (zonah)
-“Prostitute.” The social designation given to Rahab.
+v12: חֶסֶד (hesed)
+Loyal kindness. Committed care for another; here it is expressed in protecting lives.
 
-v09: אֵימָה (emah)
-“Terror” or “dread.” Fear that falls upon the inhabitants of the land.
-
-v12: חֶסֶד (ḥesed)
-“Steadfast love,” “loyalty,” or “kindness.” Faithful action within relationship.
-
-v12: אוֹת (ot)
-“Sign.” A confirming mark of the agreement.
-
-v18: תִּקְוַת חוּט הַשָּׁנִי (tiqvat chut ha-shani)
-“Cord of scarlet thread.” The identifying cord placed in Rahab’s window.
+v14: אֱמֶת (emeth)
+Faithfulness or reliability. Paired here with loyal kindness.

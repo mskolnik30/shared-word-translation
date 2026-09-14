@@ -4,116 +4,100 @@ testament: OT
 chapter: 7
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-1-8-biblical-fluency-2026-09-14
 ---
 
-## Israel Breaks Faith in the Devoted Things
+## A breach of faith
 
 <p>
-v01: But the children of Israel acted unfaithfully concerning what was devoted. Achan son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, took from what was devoted, and the anger of the LORD burned against the children of Israel.
+v01: But the Israelites broke faith concerning what was devoted to destruction. Achan son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, took some of it, and the LORD’s anger burned against the Israelites.
 </p>
 
-## Israel Is Defeated at Ai
+## Defeat at Ai
 
 <p>
-v02: Joshua sent men from Jericho to Ai, which is near Beth-Aven, east of Bethel, and said to them, “Go up and spy out the land.” The men went up and spied out Ai.
-
-v03: They returned to Joshua and said to him, “Do not let all the people go up. Let about two or three thousand men go up and strike Ai. Do not weary all the people there, for they are few.”
-
-v04: So about three thousand men from the people went up there, but they fled before the men of Ai.
-
-v05: The men of Ai struck about thirty-six men of them. They pursued them from before the gate as far as Shebarim and struck them on the descent. Then the hearts of the people melted and became like water.
+v02: Joshua sent men from Jericho to Ai, near Beth-aven, east of Bethel. “Go up and spy out the land,” he told them. They went up and spied out Ai.
+v03: They returned to Joshua and said, “Not all the people need to go up. Let about two or three thousand men go up and strike Ai. Do not wear everyone out going there; there are only a few people in Ai.”
+v04: About three thousand men went up there, but they fled from the men of Ai.
+v05: The men of Ai killed about thirty-six of them, chasing them from the gate as far as Shebarim and striking them down on the descent. The people’s hearts melted and turned to water.
 </p>
 
-## Joshua Falls Before the Ark
+## Joshua’s protest
 
 <p>
-v06: Joshua tore his clothes and fell on his face to the ground before the ark of the LORD until evening, he and the elders of Israel. They put dust on their heads.
-
-v07: Joshua said, “Ah, Lord GOD! Why did you ever bring this people across the Jordan, only to give us into the hand of the Amorites to destroy us? If only we had been content to remain beyond the Jordan!
-
-v08: Please, Lord, what can I say after Israel has turned its back before its enemies?
-
-v09: The Canaanites and all the inhabitants of the land will hear and surround us and cut off our name from the earth. And what will you do for your great name?”
+v06: Joshua tore his clothes and fell facedown to the ground before the ark of the LORD, along with the elders of Israel. They stayed there until evening and put dust on their heads.
+v07: Joshua said, “Ah, Lord GOD! Why did you ever bring these people across the Jordan—to hand us over to the Amorites and destroy us? If only we had been content to stay on the other side of the Jordan!
+v08: Please, Lord, what can I say now that Israel has turned its back on its enemies?
+v09: The Canaanites and everyone else in the land will hear. They will surround us and cut off our name from the earth. Then what will you do for your great name?”
 </p>
 
-## The LORD Reveals Israel’s Sin
+## The LORD’s answer
 
 <p>
-v10: The LORD said to Joshua, “Rise! Why is it that you have fallen on your face?
-
-v11: Israel has sinned. They have also transgressed my covenant that I commanded them. They have taken from what was devoted, and they have stolen, and they have deceived, and they have put it among their own goods.
-
-v12: So the children of Israel cannot stand before their enemies. They turn their backs before their enemies because they have become devoted to destruction. I will not continue to be with you unless you destroy what is devoted from among you.
-
-v13: Rise, consecrate the people and say, ‘Consecrate yourselves for tomorrow, for thus says the LORD, the God of Israel: There is something devoted in your midst, Israel. You cannot stand before your enemies until you remove what is devoted from your midst.
-
-v14: In the morning you will draw near by your tribes. The tribe that the LORD takes will draw near by clans; the clan that the LORD takes will draw near by households; and the household that the LORD takes will draw near man by man.
-
-v15: The one who is taken with what is devoted will be burned with fire, he and all that belongs to him, because he has transgressed the covenant of the LORD and because he has done a disgraceful thing in Israel.’”
+v10: The LORD answered Joshua, “Get up! Why are you lying facedown like this?
+v11: Israel has sinned. They have violated my covenant, which I commanded them to keep. They have taken what was devoted to destruction; they have stolen, they have lied, and they have put it among their own belongings.
+v12: That is why the Israelites cannot stand against their enemies. They turn their backs on them because they themselves have become devoted to destruction. I will no longer be with you unless you destroy what is devoted to destruction from among you.
+v13: Get up and consecrate the people. Tell them, ‘Consecrate yourselves for tomorrow, for the LORD, the God of Israel, says: There is something devoted to destruction among you, Israel. You cannot stand against your enemies until you remove it from among you.
+v14: In the morning, present yourselves tribe by tribe. The tribe the LORD singles out must come forward clan by clan; the clan he singles out, household by household; and the household he singles out, man by man.
+v15: The one singled out with what was devoted to destruction must be burned with fire, he and everything that belongs to him, because he has violated the LORD’s covenant and committed an outrage in Israel.’”
 </p>
 
-## Achan Is Identified
+## Achan is singled out
 
 <p>
-v16: So Joshua rose early in the morning and brought Israel near by tribes, and the tribe of Judah was taken.
-
-v17: He brought the clans of Judah near, and the clan of the Zerahites was taken. He brought the clan of the Zerahites near man by man, and Zabdi was taken.
-
-v18: He brought his household near man by man, and Achan son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, was taken.
-
-v19: Joshua said to Achan, “My son, please give glory to the LORD, the God of Israel, and give him praise. Tell me now what you have done; do not hide it from me.”
-
-v20: Achan answered Joshua and said, “Truly I have sinned against the LORD, the God of Israel, and this is what I did:
-
-v21: When I saw among the plunder a beautiful cloak from Shinar, two hundred shekels of silver, and one bar of gold weighing fifty shekels, I desired them and took them. Look, they are hidden in the ground inside my tent, with the silver underneath.”
-
-v22: So Joshua sent messengers, and they ran to the tent. Look, it was hidden in his tent, with the silver underneath.
-
-v23: They took them from the midst of the tent, brought them to Joshua and all the children of Israel, and poured them out before the LORD.
+v16: Joshua rose early in the morning and brought Israel forward tribe by tribe. The tribe of Judah was singled out.
+v17: He brought forward the clans of Judah, and the Zerahite clan was singled out. He brought the Zerahite clan forward man by man, and Zabdi was singled out.
+v18: He brought Zabdi’s household forward man by man, and Achan son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, was singled out.
 </p>
 
-## The Valley of Achor
+<p>
+v19: Joshua said to Achan, “My son, give glory to the LORD, the God of Israel, and acknowledge him. Tell me what you have done; do not hide it from me.”
+v20: Achan answered Joshua, “It is true. I have sinned against the LORD, the God of Israel. This is what I did:
+v21: Among the plunder I saw a beautiful cloak from Shinar, two hundred shekels of silver, and a tongue-shaped bar of gold weighing fifty shekels. I coveted them and took them. They are buried in the ground inside my tent, with the silver underneath.”
+</p>
+
+## The hidden things are found
 
 <p>
-v24: Joshua and all Israel with him took Achan son of Zerah, the silver, the cloak, the bar of gold, his sons and daughters, his oxen, donkeys, sheep, tent, and all that he had, and brought them up to the Valley of Achor.
+v22: Joshua sent messengers, and they ran to the tent. There it was, buried in his tent, with the silver underneath.
+v23: They took the things out of the tent, brought them to Joshua and all the Israelites, and spread them out before the LORD.
+</p>
 
-v25: Joshua said, “Why have you brought trouble upon us? The LORD will bring trouble upon you this day.” Then all Israel stoned him with stones. They burned them with fire and stoned them with stones.
-
-v26: They raised over him a great heap of stones that remains to this day. Then the LORD turned from his burning anger. Therefore the name of that place was called the Valley of Achor to this day.
+<p>
+v24: Joshua, with all Israel, took Achan son of Zerah, the silver, the cloak, the tongue-shaped gold bar, his sons and daughters, his cattle, donkey, sheep, tent, and everything he had. They brought them up to the Valley of Achor.
+v25: Joshua said, “Why have you brought trouble on us? The LORD will bring trouble on you today.” All Israel stoned him. They burned them with fire and pelted them with stones.
+v26: They raised a great heap of stones over him, which remains to this day. Then the LORD turned from his burning anger. That is why the place is called the Valley of Achor to this day.
 </p>
 
 ## Notes
 
-v01: Achan acts individually, yet the verse says “Israel acted unfaithfully.” The chapter treats covenant identity corporately without erasing Achan’s specific responsibility.
+v01,11–12: The account names Achan’s act but describes Israel as breaking faith and becoming subject to destruction. The collective claims are retained.
 
-v03: The scouts’ confidence after Jericho contains no recorded inquiry of the LORD. The easy victory they expect becomes defeat.
+v05: Shebarim may be a place-name or may refer to quarries or broken ground. Its exact location is uncertain.
 
-v07–09: Joshua’s lament questions the crossing itself but finally appeals to the LORD’s “great name.” The prayer is allowed to include fear, protest, and concern for divine reputation.
+v14,17: The LORD’s selection narrows from tribe toward individual. Verse 17 says “man by man” at the clan stage, even though verse 14’s instructions mention households. The main text keeps that difference and does not specify how the selection was performed.
 
-v11: The series “taken … stolen … deceived … put among their goods” intensifies the violation. What belonged under divine claim has been converted into private possession.
+v19: “Give glory” and “acknowledge him” introduce the demand to tell the truth. The second expression can also be rendered give praise or make confession.
 
-v21: Achan’s sequence—“I saw … I desired … I took”—compresses the movement from perception to coveting to action.
+v21–22: Shinar is a name for the Babylonian region. The gold is called a “tongue.” The silver is “underneath”; the feminine Hebrew suffix can point to the cloak.
 
-v25: The account of Achan and his household is one of the chapter’s most difficult features. TSW preserves the corporate punishment as narrated without attempting to resolve questions the text does not answer.
+v24–25: Sons and daughters are included among those brought to the valley. Verse 25 changes from “stoned him” to “burned them” and “pelted them.” The translation preserves that shift and does not assign the children an unstated role in the theft.
 
-v26: “Achor” is linked with the verb “to trouble.” The place-name memorializes the crisis and its resolution.
+v26: Achor echoes the word for trouble in verse 25 and the warning in 6:18.
 
 ## Vocabulary
 
-v01: מָעַל (ma'al)
-“To act unfaithfully.” To violate a sacred or covenantal trust.
-
-v11: בְּרִית (berit)
-“Covenant.” The binding relationship Achan’s act is said to transgress.
-
-v13: קָדַשׁ (qadash)
-“To consecrate.” To prepare or set apart in relation to the LORD.
-
-v15: נְבָלָה (nevalah)
-“Disgraceful thing” or “outrage.” A grave violation within Israel.
+v01: מָעַל (maal)
+Break faith or act unfaithfully, especially concerning something entrusted or sacred.
 
 v21: חָמַד (chamad)
-“To desire” or “covet.” Achan’s inward desire for the devoted objects.
+Covet or desire. Achan’s confession moves from seeing to coveting to taking.
 
-v25: עָכַר (akhar)
-“To trouble.” The wordplay behind the Valley of Achor.
+v21: שֶׁקֶל (sheqel)
+A unit of weight, not a minted coin here. The silver weighs two hundred shekels and the gold fifty.
+
+v25: עָכַר (akar)
+Bring trouble. Repeated between Joshua’s question and the announced consequence.

@@ -1,0 +1,87 @@
+{
+  "scope": "Joshua 1–8",
+  "revision_id": "fluent-joshua-1-8-biblical-fluency-2026-09-14",
+  "base_commit": "66da508924ee7a0491749f718a9c16e72ab57841",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Josh",
+    "book_verse_count": 658,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "sha256": "d32a65fc6dc7207625c05ddcd133a0833a0c48e3d2343ba6fff4e01be9d5beaf",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Josh.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including all written/read and other notes, not normalized reconstructions.",
+    "public_versification_note": "Public Joshua 1–8 and Hebrew source references align one to one. All 186 original source records are bound exactly once."
+  },
+  "authoring_review": {
+    "all_source_verses_read": 186,
+    "all_tsw_comparator_verses_read_after_drafting": 186,
+    "focused_second_source_comparisons": 23,
+    "review_type": "Translation authoring and focused self-check; no independent reviewer or reader testing."
+  },
+  "completed_work": [
+    "Source-first connected narrative draft of all eight chapters, with verse-specific rationale and exact before/after/comparator/source hashes.",
+    "Selective notes and vocabulary preserve recurring biblical language and consequential textual choices.",
+    "Sentence boundaries cross verse labels where needed; the curse poem remains inside its verse paragraph.",
+    "All 46 cumulative ledger audits passed, including exact historical parent reads; all 186 new XML substrings are individually bound."
+  ],
+  "key_decisions": [
+    "1:8 retains the mouth image and unfolds spoken reflection on instruction; courage, rest and instruction connect with the Torah.",
+    "2 retains Rahab’s occupation, agency, life-for-life pledge, family rescue and the blood-on-heads responsibility image.",
+    "3:16 follows written at Adam and notes reading-tradition from Adam; 5:1 and 6:7 explicitly note consequential written/read alternatives.",
+    "4 retains both in-river and camp stones and repeated questions from children; ark of testimony is not renamed covenant.",
+    "5 preserves second-time circumcision and the ensuing generational explanation, narrator’s give us, and the commander’s abrupt No without supplying a doctrinal identity.",
+    "6 keeps herem’s dedication and destruction together, names victims, distinguishes treasury metals, and preserves the difficult warning of verse 18.",
+    "7 retains corporate indictment, full lineage, disputed Shebarim, man-by-man sequence, gold tongue image, children in the valley, and him/them punishment shift without inventing guilt.",
+    "8 retains thirty thousand and about five thousand, the north/west deployment and night notices, Bethel, men and women among twelve thousand dead, and sunset corpse removal.",
+    "8:30–35 closes the batch with instruction written and heard by the complete assembly, including women, children and resident foreigners."
+  ],
+  "remaining_review_questions": [
+    "Independent Hebrew scholarship should assess difficult syntax at 3:16, 6:18, 7:17, 7:25 and 8:13–14,32.",
+    "The relation of the two troop counts and the night notices in Joshua 8 remains unresolved.",
+    "Names, terms and interpretive choices require whole-book consistency review after the remainder of Joshua is drafted.",
+    "Natural reading and listening goals have not yet been tested with readers; low overlap does not demonstrate comprehension or independent authorship."
+  ],
+  "overlap": {
+    "before": {
+      "identical": 146,
+      "near_identical_nonidentical": 38
+    },
+    "after": {
+      "identical": 2,
+      "near_identical_nonidentical": 8
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse overlap is triage only, not fidelity, originality, comprehension or independent approval.",
+  "companion_impact": {
+    "changed_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "action": "Reconcile Fluent quotations and source bindings at later authorized Companion installation.",
+    "separate_companion_branch_changed": false
+  },
+  "github_write_status": "Previously authorized write blocked by authentication/integration access. No rejected write retried.",
+  "next_scope": "Joshua 9–12"
+}

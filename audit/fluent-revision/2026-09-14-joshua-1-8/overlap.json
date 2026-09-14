@@ -1,0 +1,1318 @@
+{
+  "scope": "Joshua 1–8",
+  "qualification": "Normalized whole-verse overlap is triage only, not fidelity, originality, comprehension or independent approval.",
+  "summary": {
+    "before": {
+      "identical": 146,
+      "near_identical_nonidentical": 38
+    },
+    "after": {
+      "identical": 2,
+      "near_identical_nonidentical": 8
+    }
+  },
+  "verses": [
+    {
+      "reference": "Joshua 1:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Joshua 1:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7142857142857143
+    },
+    {
+      "reference": "Joshua 1:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5641025641025641
+    },
+    {
+      "reference": "Joshua 1:4",
+      "before_identical": false,
+      "before_similarity": 0.9736842105263158,
+      "after_identical": false,
+      "after_similarity": 0.6470588235294118
+    },
+    {
+      "reference": "Joshua 1:5",
+      "before_identical": false,
+      "before_similarity": 0.96875,
+      "after_identical": false,
+      "after_similarity": 0.6461538461538462
+    },
+    {
+      "reference": "Joshua 1:6",
+      "before_identical": false,
+      "before_similarity": 0.9565217391304348,
+      "after_identical": false,
+      "after_similarity": 0.7391304347826086
+    },
+    {
+      "reference": "Joshua 1:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8354430379746836
+    },
+    {
+      "reference": "Joshua 1:8",
+      "before_identical": false,
+      "before_similarity": 0.9583333333333334,
+      "after_identical": false,
+      "after_similarity": 0.627906976744186
+    },
+    {
+      "reference": "Joshua 1:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8727272727272727
+    },
+    {
+      "reference": "Joshua 1:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.375
+    },
+    {
+      "reference": "Joshua 1:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6493506493506493
+    },
+    {
+      "reference": "Joshua 1:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Joshua 1:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7916666666666666
+    },
+    {
+      "reference": "Joshua 1:14",
+      "before_identical": false,
+      "before_similarity": 0.9411764705882353,
+      "after_identical": false,
+      "after_similarity": 0.7123287671232876
+    },
+    {
+      "reference": "Joshua 1:15",
+      "before_identical": false,
+      "before_similarity": 0.9807692307692307,
+      "after_identical": false,
+      "after_similarity": 0.6464646464646465
+    },
+    {
+      "reference": "Joshua 1:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.631578947368421
+    },
+    {
+      "reference": "Joshua 1:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7547169811320755
+    },
+    {
+      "reference": "Joshua 1:18",
+      "before_identical": false,
+      "before_similarity": 0.9629629629629629,
+      "after_identical": false,
+      "after_similarity": 0.6274509803921569
+    },
+    {
+      "reference": "Joshua 2:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6410256410256411
+    },
+    {
+      "reference": "Joshua 2:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5714285714285714
+    },
+    {
+      "reference": "Joshua 2:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8387096774193549
+    },
+    {
+      "reference": "Joshua 2:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9090909090909091
+    },
+    {
+      "reference": "Joshua 2:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5454545454545454
+    },
+    {
+      "reference": "Joshua 2:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6956521739130435
+    },
+    {
+      "reference": "Joshua 2:7",
+      "before_identical": false,
+      "before_similarity": 0.9666666666666667,
+      "after_identical": false,
+      "after_similarity": 0.5283018867924528
+    },
+    {
+      "reference": "Joshua 2:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7407407407407407
+    },
+    {
+      "reference": "Joshua 2:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6176470588235294
+    },
+    {
+      "reference": "Joshua 2:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7045454545454546
+    },
+    {
+      "reference": "Joshua 2:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.71875
+    },
+    {
+      "reference": "Joshua 2:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7301587301587301
+    },
+    {
+      "reference": "Joshua 2:13",
+      "before_identical": false,
+      "before_similarity": 0.96,
+      "after_identical": false,
+      "after_similarity": 0.8571428571428571
+    },
+    {
+      "reference": "Joshua 2:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5915492957746479
+    },
+    {
+      "reference": "Joshua 2:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8163265306122449
+    },
+    {
+      "reference": "Joshua 2:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.4745762711864407
+    },
+    {
+      "reference": "Joshua 2:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6842105263157895
+    },
+    {
+      "reference": "Joshua 2:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6571428571428571
+    },
+    {
+      "reference": "Joshua 2:19",
+      "before_identical": false,
+      "before_similarity": 0.9347826086956522,
+      "after_identical": false,
+      "after_similarity": 0.4666666666666667
+    },
+    {
+      "reference": "Joshua 2:20",
+      "before_identical": false,
+      "before_similarity": 0.9523809523809523,
+      "after_identical": false,
+      "after_similarity": 0.5405405405405406
+    },
+    {
+      "reference": "Joshua 2:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Joshua 2:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7636363636363637
+    },
+    {
+      "reference": "Joshua 2:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7796610169491526
+    },
+    {
+      "reference": "Joshua 2:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Joshua 3:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5818181818181818
+    },
+    {
+      "reference": "Joshua 3:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7096774193548387
+    },
+    {
+      "reference": "Joshua 3:3",
+      "before_identical": false,
+      "before_similarity": 0.9722222222222222,
+      "after_identical": false,
+      "after_similarity": 0.6567164179104478
+    },
+    {
+      "reference": "Joshua 3:4",
+      "before_identical": false,
+      "before_similarity": 0.9512195121951219,
+      "after_identical": false,
+      "after_similarity": 0.5333333333333333
+    },
+    {
+      "reference": "Joshua 3:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Joshua 3:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Joshua 3:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7058823529411765
+    },
+    {
+      "reference": "Joshua 3:8",
+      "before_identical": false,
+      "before_similarity": 0.9375,
+      "after_identical": false,
+      "after_similarity": 0.6551724137931034
+    },
+    {
+      "reference": "Joshua 3:9",
+      "before_identical": false,
+      "before_similarity": 0.972972972972973,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Joshua 3:10",
+      "before_identical": false,
+      "before_similarity": 0.9620253164556962,
+      "after_identical": false,
+      "after_similarity": 0.547945205479452
+    },
+    {
+      "reference": "Joshua 3:11",
+      "before_identical": false,
+      "before_similarity": 0.9523809523809523,
+      "after_identical": false,
+      "after_similarity": 0.7317073170731707
+    },
+    {
+      "reference": "Joshua 3:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6923076923076923
+    },
+    {
+      "reference": "Joshua 3:13",
+      "before_identical": false,
+      "before_similarity": 0.9622641509433962,
+      "after_identical": false,
+      "after_similarity": 0.574468085106383
+    },
+    {
+      "reference": "Joshua 3:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6382978723404256
+    },
+    {
+      "reference": "Joshua 3:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.2571428571428571
+    },
+    {
+      "reference": "Joshua 3:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6818181818181818
+    },
+    {
+      "reference": "Joshua 3:17",
+      "before_identical": false,
+      "before_similarity": 0.9367088607594937,
+      "after_identical": false,
+      "after_similarity": 0.7105263157894737
+    },
+    {
+      "reference": "Joshua 4:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.896551724137931
+    },
+    {
+      "reference": "Joshua 4:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.782608695652174
+    },
+    {
+      "reference": "Joshua 4:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7027027027027027
+    },
+    {
+      "reference": "Joshua 4:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Joshua 4:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5822784810126582
+    },
+    {
+      "reference": "Joshua 4:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6808510638297872
+    },
+    {
+      "reference": "Joshua 4:7",
+      "before_identical": false,
+      "before_similarity": 0.9583333333333334,
+      "after_identical": false,
+      "after_similarity": 0.5647058823529412
+    },
+    {
+      "reference": "Joshua 4:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5684210526315789
+    },
+    {
+      "reference": "Joshua 4:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.90625
+    },
+    {
+      "reference": "Joshua 4:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7012987012987013
+    },
+    {
+      "reference": "Joshua 4:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8292682926829268
+    },
+    {
+      "reference": "Joshua 4:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5714285714285714
+    },
+    {
+      "reference": "Joshua 4:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8571428571428571
+    },
+    {
+      "reference": "Joshua 4:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5964912280701754
+    },
+    {
+      "reference": "Joshua 4:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Joshua 4:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9032258064516129
+    },
+    {
+      "reference": "Joshua 4:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8181818181818182
+    },
+    {
+      "reference": "Joshua 4:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7032967032967034
+    },
+    {
+      "reference": "Joshua 4:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9166666666666666
+    },
+    {
+      "reference": "Joshua 4:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5517241379310345
+    },
+    {
+      "reference": "Joshua 4:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Joshua 4:22",
+      "before_identical": false,
+      "before_similarity": 0.9333333333333333,
+      "after_identical": false,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Joshua 4:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.821917808219178
+    },
+    {
+      "reference": "Joshua 4:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6229508196721312
+    },
+    {
+      "reference": "Joshua 5:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5818181818181818
+    },
+    {
+      "reference": "Joshua 5:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7804878048780488
+    },
+    {
+      "reference": "Joshua 5:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5714285714285714
+    },
+    {
+      "reference": "Joshua 5:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6349206349206349
+    },
+    {
+      "reference": "Joshua 5:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6785714285714286
+    },
+    {
+      "reference": "Joshua 5:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6356589147286822
+    },
+    {
+      "reference": "Joshua 5:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6274509803921569
+    },
+    {
+      "reference": "Joshua 5:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.631578947368421
+    },
+    {
+      "reference": "Joshua 5:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7547169811320755
+    },
+    {
+      "reference": "Joshua 5:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5384615384615384
+    },
+    {
+      "reference": "Joshua 5:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.4090909090909091
+    },
+    {
+      "reference": "Joshua 5:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.4857142857142857
+    },
+    {
+      "reference": "Joshua 5:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7272727272727273
+    },
+    {
+      "reference": "Joshua 5:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5945945945945946
+    },
+    {
+      "reference": "Joshua 5:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8148148148148148
+    },
+    {
+      "reference": "Joshua 6:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8648648648648649
+    },
+    {
+      "reference": "Joshua 6:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8421052631578947
+    },
+    {
+      "reference": "Joshua 6:3",
+      "before_identical": false,
+      "before_similarity": 0.9090909090909091,
+      "after_identical": false,
+      "after_similarity": 0.47368421052631576
+    },
+    {
+      "reference": "Joshua 6:4",
+      "before_identical": false,
+      "before_similarity": 0.8928571428571429,
+      "after_identical": false,
+      "after_similarity": 0.7142857142857143
+    },
+    {
+      "reference": "Joshua 6:5",
+      "before_identical": false,
+      "before_similarity": 0.9347826086956522,
+      "after_identical": false,
+      "after_similarity": 0.6206896551724138
+    },
+    {
+      "reference": "Joshua 6:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.78125
+    },
+    {
+      "reference": "Joshua 6:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7083333333333334
+    },
+    {
+      "reference": "Joshua 6:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.71875
+    },
+    {
+      "reference": "Joshua 6:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.782608695652174
+    },
+    {
+      "reference": "Joshua 6:10",
+      "before_identical": false,
+      "before_similarity": 0.9166666666666666,
+      "after_identical": false,
+      "after_similarity": 0.6268656716417911
+    },
+    {
+      "reference": "Joshua 6:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6938775510204082
+    },
+    {
+      "reference": "Joshua 6:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8387096774193549
+    },
+    {
+      "reference": "Joshua 6:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7901234567901234
+    },
+    {
+      "reference": "Joshua 6:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8947368421052632
+    },
+    {
+      "reference": "Joshua 6:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8064516129032258
+    },
+    {
+      "reference": "Joshua 6:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8260869565217391
+    },
+    {
+      "reference": "Joshua 6:17",
+      "before_identical": false,
+      "before_similarity": 0.925,
+      "after_identical": false,
+      "after_similarity": 0.7027027027027027
+    },
+    {
+      "reference": "Joshua 6:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5142857142857142
+    },
+    {
+      "reference": "Joshua 6:19",
+      "before_identical": false,
+      "before_similarity": 0.96,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Joshua 6:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6744186046511628
+    },
+    {
+      "reference": "Joshua 6:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.34615384615384615
+    },
+    {
+      "reference": "Joshua 6:22",
+      "before_identical": false,
+      "before_similarity": 0.9714285714285714,
+      "after_identical": false,
+      "after_similarity": 0.8955223880597015
+    },
+    {
+      "reference": "Joshua 6:23",
+      "before_identical": false,
+      "before_similarity": 0.975,
+      "after_identical": false,
+      "after_similarity": 0.7945205479452054
+    },
+    {
+      "reference": "Joshua 6:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7333333333333333
+    },
+    {
+      "reference": "Joshua 6:25",
+      "before_identical": false,
+      "before_similarity": 0.88,
+      "after_identical": false,
+      "after_similarity": 0.8493150684931506
+    },
+    {
+      "reference": "Joshua 6:26",
+      "before_identical": false,
+      "before_similarity": 0.9565217391304348,
+      "after_identical": false,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Joshua 6:27",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8461538461538461
+    },
+    {
+      "reference": "Joshua 7:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.691358024691358
+    },
+    {
+      "reference": "Joshua 7:2",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Joshua 7:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.725
+    },
+    {
+      "reference": "Joshua 7:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8235294117647058
+    },
+    {
+      "reference": "Joshua 7:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7397260273972602
+    },
+    {
+      "reference": "Joshua 7:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7692307692307693
+    },
+    {
+      "reference": "Joshua 7:7",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7341772151898734
+    },
+    {
+      "reference": "Joshua 7:8",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8387096774193549
+    },
+    {
+      "reference": "Joshua 7:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8064516129032258
+    },
+    {
+      "reference": "Joshua 7:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.3448275862068966
+    },
+    {
+      "reference": "Joshua 7:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7837837837837838
+    },
+    {
+      "reference": "Joshua 7:12",
+      "before_identical": false,
+      "before_similarity": 0.975609756097561,
+      "after_identical": false,
+      "after_similarity": 0.7228915662650602
+    },
+    {
+      "reference": "Joshua 7:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Joshua 7:14",
+      "before_identical": false,
+      "before_similarity": 0.9111111111111111,
+      "after_identical": false,
+      "after_similarity": 0.43902439024390244
+    },
+    {
+      "reference": "Joshua 7:15",
+      "before_identical": false,
+      "before_similarity": 0.975,
+      "after_identical": false,
+      "after_similarity": 0.6133333333333333
+    },
+    {
+      "reference": "Joshua 7:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Joshua 7:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6896551724137931
+    },
+    {
+      "reference": "Joshua 7:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8679245283018868
+    },
+    {
+      "reference": "Joshua 7:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9206349206349206
+    },
+    {
+      "reference": "Joshua 7:20",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8372093023255814
+    },
+    {
+      "reference": "Joshua 7:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8409090909090909
+    },
+    {
+      "reference": "Joshua 7:22",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8780487804878049
+    },
+    {
+      "reference": "Joshua 7:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7755102040816326
+    },
+    {
+      "reference": "Joshua 7:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7804878048780488
+    },
+    {
+      "reference": "Joshua 7:25",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8181818181818182
+    },
+    {
+      "reference": "Joshua 7:26",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7945205479452054
+    },
+    {
+      "reference": "Joshua 8:1",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Joshua 8:2",
+      "before_identical": false,
+      "before_similarity": 0.9714285714285714,
+      "after_identical": false,
+      "after_similarity": 0.7164179104477612
+    },
+    {
+      "reference": "Joshua 8:3",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7843137254901961
+    },
+    {
+      "reference": "Joshua 8:4",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8070175438596491
+    },
+    {
+      "reference": "Joshua 8:5",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Joshua 8:6",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.71875
+    },
+    {
+      "reference": "Joshua 8:7",
+      "before_identical": false,
+      "before_similarity": 0.9583333333333334,
+      "after_identical": false,
+      "after_similarity": 0.7555555555555555
+    },
+    {
+      "reference": "Joshua 8:8",
+      "before_identical": false,
+      "before_similarity": 0.9615384615384616,
+      "after_identical": false,
+      "after_similarity": 0.4897959183673469
+    },
+    {
+      "reference": "Joshua 8:9",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7924528301886793
+    },
+    {
+      "reference": "Joshua 8:10",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6363636363636364
+    },
+    {
+      "reference": "Joshua 8:11",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6785714285714286
+    },
+    {
+      "reference": "Joshua 8:12",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.9473684210526315
+    },
+    {
+      "reference": "Joshua 8:13",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7142857142857143
+    },
+    {
+      "reference": "Joshua 8:14",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6511627906976745
+    },
+    {
+      "reference": "Joshua 8:15",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.5882352941176471
+    },
+    {
+      "reference": "Joshua 8:16",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Joshua 8:17",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": true,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Joshua 8:18",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7605633802816901
+    },
+    {
+      "reference": "Joshua 8:19",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7457627118644068
+    },
+    {
+      "reference": "Joshua 8:20",
+      "before_identical": false,
+      "before_similarity": 0.9772727272727273,
+      "after_identical": false,
+      "after_similarity": 0.7228915662650602
+    },
+    {
+      "reference": "Joshua 8:21",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8333333333333334
+    },
+    {
+      "reference": "Joshua 8:22",
+      "before_identical": false,
+      "before_similarity": 0.927536231884058,
+      "after_identical": false,
+      "after_similarity": 0.5151515151515151
+    },
+    {
+      "reference": "Joshua 8:23",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Joshua 8:24",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6067415730337079
+    },
+    {
+      "reference": "Joshua 8:25",
+      "before_identical": false,
+      "before_similarity": 0.9375,
+      "after_identical": false,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Joshua 8:26",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6666666666666666
+    },
+    {
+      "reference": "Joshua 8:27",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6046511627906976
+    },
+    {
+      "reference": "Joshua 8:28",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8387096774193549
+    },
+    {
+      "reference": "Joshua 8:29",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7741935483870968
+    },
+    {
+      "reference": "Joshua 8:30",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Joshua 8:31",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6597938144329897
+    },
+    {
+      "reference": "Joshua 8:32",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.41025641025641024
+    },
+    {
+      "reference": "Joshua 8:33",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.6614173228346457
+    },
+    {
+      "reference": "Joshua 8:34",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.8085106382978723
+    },
+    {
+      "reference": "Joshua 8:35",
+      "before_identical": true,
+      "before_similarity": 1.0,
+      "after_identical": false,
+      "after_similarity": 0.7058823529411765
+    }
+  ]
+}

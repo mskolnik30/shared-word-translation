@@ -1,0 +1,174 @@
+{
+  "qualification": "Authoring self-check after complete first reading of all 186 source verses. No independent review.",
+  "rows": [
+    {
+      "reference": "Joshua 1:14",
+      "source_verse_sha256": "f5458587694a6691e6f4bcded65ffbb99265d222507ae81d0416a388b92d9712",
+      "hebrew": "נְשֵׁי/כֶ֣ם טַפְּ/כֶם֮ וּ/מִקְנֵי/כֶם֒ יֵשְׁב֕וּ בָּ/אָ֕רֶץ אֲשֶׁ֨ר נָתַ֥ן לָ/כֶ֛ם מֹשֶׁ֖ה בְּ/עֵ֣בֶר הַ/יַּרְדֵּ֑ן וְ/אַתֶּם֩ תַּעַבְר֨וּ חֲמֻשִׁ֜ים לִ/פְנֵ֣י אֲחֵי/כֶ֗ם כֹּ֚ל גִּבּוֹרֵ֣י הַ/חַ֔יִל וַ/עֲזַרְתֶּ֖ם אוֹתָֽ/ם",
+      "annotations": [],
+      "after": "Your wives, your little ones, and your livestock may stay in the land Moses gave you on this side of the Jordan. But all your mighty warriors must cross over armed ahead of your fellow Israelites and help them,"
+    },
+    {
+      "reference": "Joshua 2:13",
+      "source_verse_sha256": "c7a689ba8ab5e332f02623e92b893cbd4428badfc37780a951aa03a53014d0d9",
+      "hebrew": "וְ/הַחֲיִתֶ֞ם אֶת אָבִ֣/י וְ/אֶת אִמִּ֗/י וְ/אֶת אַחַ/י֙ וְ/אֶת אחות/י וְ/אֵ֖ת כָּל אֲשֶׁ֣ר לָ/הֶ֑ם וְ/הִצַּלְתֶּ֥ם אֶת נַפְשֹׁתֵ֖י/נוּ מִ/מָּֽוֶת",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>אחות/י</catchWord><rdg type=\"x-qere\"><w lemma=\"269\" n=\"1.1\" morph=\"HNcfpc/Sp1cs\" id=\"06FYV\">אַחְיוֹתַ֔/י</w></rdg></note>\n          "
+      ],
+      "after": "that you will spare my father and mother, my brothers and sisters, and all who belong to them, and rescue our lives from death.”"
+    },
+    {
+      "reference": "Joshua 3:16",
+      "source_verse_sha256": "8baa249484cfdac418b9e1da8525b0bfa448a730351007c5763e2f1924e93347",
+      "hebrew": "וַ/יַּעַמְד֡וּ הַ/מַּיִם֩ הַ/יֹּרְדִ֨ים מִ/לְ/מַ֜עְלָ/ה קָ֣מוּ נֵד אֶחָ֗ד הַרְחֵ֨ק מְאֹ֜ד ב/אדם הָ/עִיר֙ אֲשֶׁר֙ מִ/צַּ֣ד צָֽרְתָ֔ן וְ/הַ/יֹּרְדִ֗ים עַ֣ל יָ֧ם הָ/עֲרָבָ֛ה יָם הַ/מֶּ֖לַח תַּ֣מּוּ נִכְרָ֑תוּ וְ/הָ/עָ֥ם עָבְר֖וּ נֶ֥גֶד יְרִיחֽוֹ",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>ב/אדם</catchWord><rdg type=\"x-qere\"><w lemma=\"m/121\" morph=\"HR/Np\" id=\"06rKT\">מֵֽ/אָדָ֤ם</w></rdg></note>\n          "
+      ],
+      "after": "the water coming downstream stopped and rose in a single heap far away at Adam, the town beside Zarethan. The water flowing toward the Sea of the Arabah, the Salt Sea, was completely cut off. The people crossed opposite Jericho."
+    },
+    {
+      "reference": "Joshua 4:9",
+      "source_verse_sha256": "26c6e38f341303c468cbff08b6b1422a349016e1b836f12e5c23402c0835d839",
+      "hebrew": "וּ/שְׁתֵּ֧ים עֶשְׂרֵ֣ה אֲבָנִ֗ים הֵקִ֣ים יְהוֹשֻׁעַ֮ בְּ/ת֣וֹךְ הַ/יַּרְדֵּן֒ תַּ֗חַת מַצַּב֙ רַגְלֵ֣י הַ/כֹּהֲנִ֔ים נֹשְׂאֵ֖י אֲר֣וֹן הַ/בְּרִ֑ית וַ/יִּ֣הְיוּ שָׁ֔ם עַ֖ד הַ/יּ֥וֹם הַ/זֶּֽה",
+      "annotations": [],
+      "after": "Joshua also set up twelve stones in the middle of the Jordan, where the priests carrying the ark of the covenant had stood. They are there to this day."
+    },
+    {
+      "reference": "Joshua 4:13",
+      "source_verse_sha256": "4950eebd8f0780ae7c78a6b4f5ba081ea3d017839d434c20bba2b9f5f19b2d1b",
+      "hebrew": "כְּ/אַרְבָּעִ֥ים אֶ֖לֶף חֲלוּצֵ֣י הַ/צָּבָ֑א עָבְר֞וּ לִ/פְנֵ֤י יְהוָה֙ לַ/מִּלְחָמָ֔ה אֶ֖ל עַֽרְב֥וֹת יְרִיחֽוֹ",
+      "annotations": [],
+      "after": "About forty thousand, equipped for battle, crossed before the LORD to the plains of Jericho for war."
+    },
+    {
+      "reference": "Joshua 4:19",
+      "source_verse_sha256": "1a60ddf83c25aa9e46f161819f64eb12220567a0dd467e15d679b0c5f03c1d09",
+      "hebrew": "וְ/הָ/עָ֗ם עָלוּ֙ מִן הַ/יַּרְדֵּ֔ן בֶּ/עָשׂ֖וֹר לַ/חֹ֣דֶשׁ הָ/רִאשׁ֑וֹן וַֽ/יַּחֲנוּ֙ בַּ/גִּלְגָּ֔ל בִּ/קְצֵ֖ה מִזְרַ֥ח יְרִיחֽוֹ",
+      "annotations": [],
+      "after": "The people came up from the Jordan on the tenth day of the first month and camped at Gilgal, on Jericho’s eastern edge."
+    },
+    {
+      "reference": "Joshua 5:1",
+      "source_verse_sha256": "3bb1ee4ba9d9ee9e9695a42ded309744fbf2ade22a8084a2bb8e44ac97db2a5c",
+      "hebrew": "וַ/יְהִ֣י כִ/שְׁמֹ֣עַ כָּל מַלְכֵ֣י הָ/אֱמֹרִ֡י אֲשֶׁר֩ בְּ/עֵ֨בֶר הַ/יַּרְדֵּ֜ן יָ֗מָּ/ה וְ/כָל מַלְכֵ֤י הַֽ/כְּנַעֲנִי֙ אֲשֶׁ֣ר עַל הַ/יָּ֔ם אֵ֠ת אֲשֶׁר הוֹבִ֨ישׁ יְהוָ֜ה אֶת מֵ֧י הַ/יַּרְדֵּ֛ן מִ/פְּנֵ֥י בְנֵֽי יִשְׂרָאֵ֖ל עַד עבר/נו וַ/יִּמַּ֣ס לְבָבָ֗/ם וְ/לֹא הָ֨יָה בָ֥/ם עוֹד֙ ר֔וּחַ מִ/פְּנֵ֖י בְּנֵֽי יִשְׂרָאֵֽל",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>עבר/נו</catchWord><rdg type=\"x-qere\"><w lemma=\"5674 a\" n=\"1\" morph=\"HVqc/Sp3mp\" id=\"06cMr\">עָבְרָ֑/ם</w></rdg></note>\n          "
+      ],
+      "after": "All the Amorite kings west of the Jordan and all the Canaanite kings along the sea heard that the LORD had dried up the Jordan’s water before the Israelites until they crossed. Their hearts melted, and they had no spirit left to face the Israelites."
+    },
+    {
+      "reference": "Joshua 5:6",
+      "source_verse_sha256": "b9b072201d4a036d1bf4b758d3f4751c3be614106464fb3f8927df0258151091",
+      "hebrew": "כִּ֣י אַרְבָּעִ֣ים שָׁנָ֗ה הָלְכ֣וּ בְנֵֽי יִשְׂרָאֵל֮ בַּ/מִּדְבָּר֒ עַד תֹּ֨ם כָּל הַ/גּ֜וֹי אַנְשֵׁ֤י הַ/מִּלְחָמָה֙ הַ/יֹּצְאִ֣ים מִ/מִּצְרַ֔יִם אֲשֶׁ֥ר לֹֽא שָׁמְע֖וּ בְּ/ק֣וֹל יְהוָ֑ה אֲשֶׁ֨ר נִשְׁבַּ֤ע יְהוָה֙ לָ/הֶ֔ם לְ/בִלְתִּ֞י הַרְאוֹתָ֣/ם אֶת הָ/אָ֗רֶץ אֲשֶׁר֩ נִשְׁבַּ֨ע יְהוָ֤ה לַֽ/אֲבוֹתָ/ם֙ לָ֣/תֶת לָ֔/נוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּ/דְבָֽשׁ",
+      "annotations": [],
+      "after": "The Israelites traveled in the wilderness for forty years, until the entire nation of fighting men who had left Egypt had died out. They had not obeyed the LORD’s voice, and the LORD had sworn that he would not let them see the land he had sworn to their ancestors to give us—a land flowing with milk and honey."
+    },
+    {
+      "reference": "Joshua 6:18",
+      "source_verse_sha256": "dd555bebf77dac22d8ecb575588fb6cf67c2cbb34dc0b4f748fd55f1be3b435e",
+      "hebrew": "וְ/רַק אַתֶּם֙ שִׁמְר֣וּ מִן הַ/חֵ֔רֶם פֶּֽן תַּחֲרִ֖ימוּ וּ/לְקַחְתֶּ֣ם מִן הַ/חֵ֑רֶם וְ/שַׂמְתֶּ֞ם אֶת מַחֲנֵ֤ה יִשְׂרָאֵל֙ לְ/חֵ֔רֶם וַ/עֲכַרְתֶּ֖ם אוֹתֽ/וֹ",
+      "annotations": [],
+      "after": "But keep away from what is devoted to destruction. If you take any of it while carrying out the destruction, you will make Israel’s camp itself subject to destruction and bring trouble on it."
+    },
+    {
+      "reference": "Joshua 6:21",
+      "source_verse_sha256": "551de1a964e99a284a5d1bcc4527759db571d05607a296eb935d737762386efd",
+      "hebrew": "וַֽ/יַּחֲרִ֨ימוּ֙ אֶת כָּל אֲשֶׁ֣ר בָּ/עִ֔יר מֵ/אִישׁ֙ וְ/עַד אִשָּׁ֔ה מִ/נַּ֖עַר וְ/עַד זָקֵ֑ן וְ/עַ֨ד שׁ֥וֹר וָ/שֶׂ֛ה וַ/חֲמ֖וֹר לְ/פִי חָֽרֶב",
+      "annotations": [],
+      "after": "They devoted everything in the city to destruction, killing with the sword men and women, young and old, cattle, sheep, and donkeys."
+    },
+    {
+      "reference": "Joshua 7:6",
+      "source_verse_sha256": "b0596c1a166bffea6f2d3174d493f169fbbafb827e49751f96b3bca715711bf1",
+      "hebrew": "וַ/יִּקְרַ֨ע יְהוֹשֻׁ֜עַ שִׂמְלֹתָ֗י/ו וַ/יִּפֹּל֩ עַל פָּנָ֨י/ו אַ֜רְצָ/ה לִ/פְנֵ֨י אֲר֤וֹן יְהוָה֙ עַד הָ/עֶ֔רֶב ה֖וּא וְ/זִקְנֵ֣י יִשְׂרָאֵ֑ל וַ/יַּעֲל֥וּ עָפָ֖ר עַל רֹאשָֽׁ/ם",
+      "annotations": [],
+      "after": "Joshua tore his clothes and fell facedown to the ground before the ark of the LORD, along with the elders of Israel. They stayed there until evening and put dust on their heads."
+    },
+    {
+      "reference": "Joshua 7:17",
+      "source_verse_sha256": "f50da205269fb8aa293b2ec1fea2c3e2c057abeea1310bc24efff3108330356f",
+      "hebrew": "וַ/יַּקְרֵב֙ אֶת מִשְׁפַּ֣חַת יְהוּדָ֔ה וַ/יִּלְכֹּ֕ד אֵ֖ת מִשְׁפַּ֣חַת הַ/זַּרְחִ֑י וַ/יַּקְרֵ֞ב אֶת מִשְׁפַּ֤חַת הַ/זַּרְחִי֙ לַ/גְּבָרִ֔ים וַ/יִּלָּכֵ֖ד זַבְדִּֽי",
+      "annotations": [],
+      "after": "He brought forward the clans of Judah, and the Zerahite clan was singled out. He brought the Zerahite clan forward man by man, and Zabdi was singled out."
+    },
+    {
+      "reference": "Joshua 7:21",
+      "source_verse_sha256": "09e41cc428d09bafd163215d3070ac4c0176523ba2e449c14e8d6fbb91884bfd",
+      "hebrew": "ו/אראה בַ/שָּׁלָ֡ל אַדֶּ֣רֶת שִׁנְעָר֩ אַחַ֨ת טוֹבָ֜ה וּ/מָאתַ֧יִם שְׁקָלִ֣ים כֶּ֗סֶף וּ/לְשׁ֨וֹן זָהָ֤ב אֶחָד֙ חֲמִשִּׁ֤ים שְׁקָלִים֙ מִשְׁקָל֔/וֹ וָֽ/אֶחְמְדֵ֖/ם וָֽ/אֶקָּחֵ֑/ם וְ/הִנָּ֨/ם טְמוּנִ֥ים בָּ/אָ֛רֶץ בְּ/ת֥וֹךְ הָ/אָֽהֳלִ֖/י וְ/הַ/כֶּ֥סֶף תַּחְתֶּֽי/הָ",
+      "annotations": [
+        "<note type=\"variant\"><catchWord>ו/אראה</catchWord><rdg type=\"x-qere\"><w lemma=\"c/7200\" morph=\"HC/Vqw1cs\" id=\"06oYz\">וָ/אֵ֣רֶא</w></rdg></note>\n          "
+      ],
+      "after": "Among the plunder I saw a beautiful cloak from Shinar, two hundred shekels of silver, and a tongue-shaped bar of gold weighing fifty shekels. I coveted them and took them. They are buried in the ground inside my tent, with the silver underneath.”"
+    },
+    {
+      "reference": "Joshua 7:24",
+      "source_verse_sha256": "3c35d9dcb5cd123b852af2ccc73d353b7d5a43e2fd36d548f6eea0b6bb680c28",
+      "hebrew": "וַ/יִּקַּ֣ח יְהוֹשֻׁ֣עַ אֶת עָכָ֣ן בֶּן זֶ֡רַח וְ/אֶת הַ/כֶּ֣סֶף וְ/אֶת הָ/אַדֶּ֣רֶת וְֽ/אֶת לְשׁ֣וֹן הַ/זָּהָ֡ב וְֽ/אֶת בָּנָ֡י/ו וְֽ/אֶת בְּנֹתָ֡י/ו וְ/אֶת שׁוֹר/וֹ֩ וְ/אֶת חֲמֹר֨/וֹ וְ/אֶת צֹאנ֤/וֹ וְ/אֶֽת אָהֳל/וֹ֙ וְ/אֶת כָּל אֲשֶׁר ל֔/וֹ וְ/כָל יִשְׂרָאֵ֖ל עִמּ֑/וֹ וַ/יַּעֲל֥וּ אֹתָ֖/ם עֵ֥מֶק עָכֽוֹר",
+      "annotations": [],
+      "after": "Joshua, with all Israel, took Achan son of Zerah, the silver, the cloak, the tongue-shaped gold bar, his sons and daughters, his cattle, donkey, sheep, tent, and everything he had. They brought them up to the Valley of Achor."
+    },
+    {
+      "reference": "Joshua 7:25",
+      "source_verse_sha256": "26ef4d70c9713642e44baffaaf36caced692dd54a9b92a0f9e5da71cde9e20aa",
+      "hebrew": "וַ/יֹּ֤אמֶר יְהוֹשֻׁ֨עַ֙ מֶ֣ה עֲכַרְתָּ֔/נוּ יַעְכֳּרְ/ךָ֥ יְהוָ֖ה בַּ/יּ֣וֹם הַ/זֶּ֑ה וַ/יִּרְגְּמ֨וּ אֹת֤/וֹ כָל יִשְׂרָאֵל֙ אֶ֔בֶן וַ/יִּשְׂרְפ֤וּ אֹתָ/ם֙ בָּ/אֵ֔שׁ וַ/יִּסְקְל֥וּ אֹתָ֖/ם בָּ/אֲבָנִֽים",
+      "annotations": [],
+      "after": "Joshua said, “Why have you brought trouble on us? The LORD will bring trouble on you today.” All Israel stoned him. They burned them with fire and pelted them with stones."
+    },
+    {
+      "reference": "Joshua 8:3",
+      "source_verse_sha256": "161dbda0ec25ad26d4ae7214b9dfba397660665630ea1b22fd988f0a412074a2",
+      "hebrew": "וַ/יָּ֧קָם יְהוֹשֻׁ֛עַ וְ/כָל עַ֥ם הַ/מִּלְחָמָ֖ה לַ/עֲל֣וֹת הָ/עָ֑י וַ/יִּבְחַ֣ר יְ֠הוֹשֻׁעַ שְׁלֹשִׁ֨ים אֶ֤לֶף אִישׁ֙ גִּבּוֹרֵ֣י הַ/חַ֔יִל וַ/יִּשְׁלָחֵ֖/ם לָֽיְלָה",
+      "annotations": [],
+      "after": "Joshua and all the fighting men set out to go up to Ai. Joshua chose thirty thousand mighty warriors and sent them out at night."
+    },
+    {
+      "reference": "Joshua 8:12",
+      "source_verse_sha256": "fecc42d66ab21fc72bc0296507867751cdc9f6ca298b858c2630b561912cf01e",
+      "hebrew": "וַ/יִּקַּ֕ח כַּ/חֲמֵ֥שֶׁת אֲלָפִ֖ים אִ֑ישׁ וַ/יָּ֨שֶׂם אוֹתָ֜/ם אֹרֵ֗ב בֵּ֧ין בֵּֽית אֵ֛ל וּ/בֵ֥ין הָ/עַ֖י מִ/יָּ֥ם לָ/עִֽיר",
+      "annotations": [],
+      "after": "He took about five thousand men and placed them in ambush between Bethel and Ai, west of the city."
+    },
+    {
+      "reference": "Joshua 8:13",
+      "source_verse_sha256": "6788d394553ad6fbb000810222a590cd57d6b081905ed21d6d051389cd9fb3a8",
+      "hebrew": "וַ/יָּשִׂ֨ימוּ הָ/עָ֜ם אֶת כָּל הַֽ/מַּחֲנֶ֗ה אֲשֶׁר֙ מִ/צְּפ֣וֹן לָ/עִ֔יר וְ/אֶת עֲקֵב֖/וֹ מִ/יָּ֣ם לָ/עִ֑יר וַ/יֵּ֧לֶךְ יְהוֹשֻׁ֛עַ בַּ/לַּ֥יְלָה הַ/ה֖וּא בְּ/ת֥וֹךְ הָ/עֵֽמֶק",
+      "annotations": [],
+      "after": "The people positioned the whole camp north of the city and its rear detachment west of the city. That night Joshua went into the valley."
+    },
+    {
+      "reference": "Joshua 8:14",
+      "source_verse_sha256": "b2ce8c12657ce621537c13a3ba05951b97fe1b1a61d8539c5f90d92efa661b7b",
+      "hebrew": "וַ/יְהִ֞י כִּ/רְא֣וֹת מֶֽלֶךְ הָ/עַ֗י וַֽ/יְמַהֲר֡וּ וַ/יַּשְׁכִּ֡ימוּ וַ/יֵּצְא֣וּ אַנְשֵֽׁי הָ/עִ֣יר לִ/קְרַֽאת יִ֠שְׂרָאֵל לַֽ/מִּלְחָמָ֞ה ה֧וּא וְ/כָל עַמּ֛/וֹ לַ/מּוֹעֵ֖ד לִ/פְנֵ֣י הָֽ/עֲרָבָ֑ה וְ/הוּא֙ לֹ֣א יָדַ֔ע כִּֽי אֹרֵ֥ב ל֖/וֹ מֵ/אַחֲרֵ֥י הָ/עִֽיר",
+      "annotations": [],
+      "after": "When the king of Ai saw this, he and all his people hurried out early to fight Israel at the appointed place facing the Arabah. He did not know there was an ambush behind the city."
+    },
+    {
+      "reference": "Joshua 8:17",
+      "source_verse_sha256": "98252e813e30133fb0e660eb16d21cc545e8c0f55290b41968c33959d69f4a7e",
+      "hebrew": "וְ/לֹֽא נִשְׁאַ֣ר אִ֗ישׁ בָּ/עַי֙ וּ/בֵ֣ית אֵ֔ל אֲשֶׁ֥ר לֹֽא יָצְא֖וּ אַחֲרֵ֣י יִשְׂרָאֵ֑ל וַ/יַּעַזְב֤וּ אֶת הָ/עִיר֙ פְּתוּחָ֔ה וַֽ/יִּרְדְּפ֖וּ אַחֲרֵ֥י יִשְׂרָאֵֽל",
+      "annotations": [],
+      "after": "Not a man remained in Ai or Bethel who did not go out after Israel. They left the city open and pursued Israel."
+    },
+    {
+      "reference": "Joshua 8:25",
+      "source_verse_sha256": "2d65b4dbfe2efc7fb4993c344a846ae282d0873c21c613d296a94039b9d0ff96",
+      "hebrew": "וַ/יְהִי֩ כָל הַ/נֹּ֨פְלִ֜ים בַּ/יּ֤וֹם הַ/הוּא֙ מֵ/אִ֣ישׁ וְ/עַד אִשָּׁ֔ה שְׁנֵ֥ים עָשָׂ֖ר אָ֑לֶף כֹּ֖ל אַנְשֵׁ֥י הָ/עָֽי",
+      "annotations": [],
+      "after": "All who fell that day, men and women, numbered twelve thousand—all the people of Ai."
+    },
+    {
+      "reference": "Joshua 8:32",
+      "source_verse_sha256": "6796a678fddb86329e48b6a679c6c6590bb714c2e7defb3c5fdeff2b226f3317",
+      "hebrew": "וַ/יִּכְתָּב שָׁ֖ם עַל הָ/אֲבָנִ֑ים אֵ֗ת מִשְׁנֵה֙ תּוֹרַ֣ת מֹשֶׁ֔ה אֲשֶׁ֣ר כָּתַ֔ב לִ/פְנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל",
+      "annotations": [],
+      "after": "There, in the sight of the Israelites, Joshua wrote on the stones a copy of Moses’ instruction."
+    },
+    {
+      "reference": "Joshua 8:35",
+      "source_verse_sha256": "d1b93beb1eb65b768735084add81e5f45517f7245371861a6dc963f307da0161",
+      "hebrew": "לֹֽא הָיָ֣ה דָבָ֔ר מִ/כֹּ֖ל אֲשֶׁר צִוָּ֣ה מֹשֶׁ֑ה אֲשֶׁ֨ר לֹֽא קָרָ֜א יְהוֹשֻׁ֗עַ נֶ֣גֶד כָּל קְהַ֤ל יִשְׂרָאֵל֙ וְ/הַ/נָּשִׁ֣ים וְ/הַ/טַּ֔ף וְ/הַ/גֵּ֖ר הַ/הֹלֵ֥ךְ בְּ/קִרְבָּֽ/ם",
+      "annotations": [],
+      "after": "Not one word of all Moses had commanded was left unread by Joshua before the whole assembly of Israel, including the women, the little ones, and the resident foreigners who lived among them."
+    }
+  ]
+}
