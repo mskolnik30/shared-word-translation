@@ -1,0 +1,78 @@
+{
+  "scope": "1 Kings 2–21",
+  "new_chapters": 20,
+  "new_public_verses": 710,
+  "status": "AUTHORING_CHECKS_COMPLETE",
+  "independent_editorial_status": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "method": [
+    "Read all 710 selected original Hebrew verse records and all their notes from the verified pinned 1 Kings XML before independent verse-by-verse composition.",
+    "Composed 710 verses and individual rationales in authoring-input.tsv, without using TSW as an English drafting template.",
+    "Read all 710 TSW comparators afterward; examined overlap as triage, retaining names, formulae and clear shared phrases without a difference quota.",
+    "Reread 138 selected Hebrew/English pairs with original notes; focused-comparisons.json records the selection and final ledger text.",
+    "Added selective Notes and Vocabulary and paragraph/section structure to support connected reading.",
+    "Ran the affected source-binding audit and reproducible verification script, including structural and targeted checks, historical preservation, translation-family audit and git diff --check."
+  ],
+  "reading_voice": [
+    "Natural dialogue with identified speakers and clear family and political relationships.",
+    "Recurring house, heart, listen, walk, turn, covenant, service and inheritance language kept visible through Solomon’s reign, the divided kingdom and Elijah’s confrontations.",
+    "Wisdom and prosperity retained alongside royal executions, forced labor, enslavement, starvation and prophetic killing.",
+    "Architectural terms and ancient measures kept visible with uncertainty noted. Repetitions in prayers, royal assessments, and Elijah’s speech retained."
+  ],
+  "focused_refinements": [
+    {
+      "reference": "1 Kings 7:31",
+      "change": "Restored the opening’s upward extension beyond the crown while preserving uncertainty about compressed architectural referents."
+    },
+    {
+      "reference": "1 Kings 8:38",
+      "change": "Restored explicit individual and collective petition instead of collapsing both into anyone among Israel."
+    },
+    {
+      "reference": "1 Kings 11:7",
+      "change": "Used facing Jerusalem instead of supplying an eastern compass direction."
+    },
+    {
+      "reference": "1 Kings 14:24; 15:12",
+      "change": "Used male shrine attendants for a clearer reading voice, with the disputed traditional sexual-function interpretation explained in notes."
+    }
+  ],
+  "consequential_choices": [
+    "Written/read forms explicitly noted at 5:3, 9:18 and other relevant places; source hashes always include both original forms.",
+    "Public 4:21–34 and 5:1–18 mapped through the pinned KJV notes without losing or duplicating Hebrew records. Original clause boundaries retained at 18:33–34 and 20:2–3.",
+    "No harmonization of 40,000 stalls, 3,300 and 550 supervisors, 2,000-bath Sea, 420 talents, 1,005 songs, regnal dates, mother designations, or large battle counts.",
+    "Priests and royal lists retain Abiathar, Rehoboam, and both mother designations of Maacah despite narrative tensions.",
+    "Coarse male-targeting idioms, slaughter at the Kishon, the swords commissioned at Horeb, and Naboth’s murder remain explicit.",
+    "Fine stillness at 19:12 preserves the unusual sound/quiet pairing without inserting a statement that God was in it.",
+    "Ahab’s retelling omits Naboth’s inheritance rationale; the draft preserves the difference."
+  ],
+  "overlap": {
+    "before": {
+      "verses": 710,
+      "identical_words": 670,
+      "near_identical": 40,
+      "mean_word_similarity": 0.99756
+    },
+    "after": {
+      "verses": 710,
+      "identical_words": 16,
+      "near_identical": 60,
+      "mean_word_similarity": 0.738432
+    }
+  },
+  "overlap_limit": "Word overlap is triage, not proof of fidelity, originality, reader comprehension, or independent scholarly approval.",
+  "provenance": {
+    "exact_parent_commit": "2a0f6019c595e2be476bbd84dcc6a930c8eea5f7",
+    "prior_ledgers_unchanged": 57,
+    "prior_revised_chapters_unchanged": 297,
+    "approval_rebinding": "Only revised 1 Kings 2–21 chapter reviews and affected book entries are superseded. Earlier provenance remains in exact Git history. Prior 1 Kings 1 and all prior batches are unchanged."
+  },
+  "pending": [
+    "Independent scholarly review and reader testing.",
+    "Whole-book 1 Samuel and 2 Samuel authoring consistency passes remain queued.",
+    "1 Kings 22 and whole-book 1 Kings consistency review.",
+    "Companion quotes, snippets, and text bindings for changed chapters need reconciliation before installation/publication."
+  ],
+  "access": "GitHub upload remains authorized but blocked by the previously observed authentication/403 issue. No new write attempt, public deployment or Companion branch change."
+}

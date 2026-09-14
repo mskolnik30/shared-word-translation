@@ -4,121 +4,111 @@ testament: OT
 chapter: 16
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1kings-2-21-biblical-fluency-2026-09-14
 ---
 
+## Baasha’s house condemned
+
 <p>
-v01: The word of the LORD came to Jehu son of Hanani concerning Baasha, saying,
-v02: “Because I raised you up from the dust and made you leader over my people Israel, yet you have walked in the way of Jeroboam and have caused my people Israel to sin, provoking me to anger by their sins,
-v03: look, I will sweep away Baasha and his house. I will make your house like the house of Jeroboam son of Nebat.
-v04: Anyone belonging to Baasha who dies in the city, the dogs will eat; and anyone belonging to him who dies in the open country, the birds of the sky will eat.”
+v01: The word of the LORD came to Jehu son of Hanani against Baasha:
+v02: “I raised you from the dust and made you leader over my people Israel. But you followed Jeroboam’s way and led my people Israel into sin, provoking me to anger with their sins.
+v03: Now I will sweep away Baasha and his house. I will make your house like the house of Jeroboam son of Nebat.
+v04: Dogs will eat anyone of Baasha’s house who dies in the city, and the birds of the sky will eat anyone who dies in the open country.”
 </p>
 
 <p>
-v05: Now the rest of the acts of Baasha—what he did and his might—are they not written in the book of the chronicles of the kings of Israel?
-v06: Baasha lay down with his ancestors and was buried in Tirzah, and Elah his son became king in his place.
+v05: The rest of Baasha’s history, what he did, and his mighty deeds—are they not written in the Book of the Annals of Israel’s Kings?
+v06: Baasha lay down with his ancestors and was buried in Tirzah. His son Elah became king in his place.
 </p>
 
 <p>
-v07: Moreover, the word of the LORD came through Jehu son of Hanani the prophet against Baasha and against his house, because of all the evil that he did in the sight of the LORD, provoking him to anger by the work of his hands, becoming like the house of Jeroboam, and because he struck it down.
+v07: The LORD’s word also came through the prophet Jehu son of Hanani against Baasha and his house, because of all the evil he did in the LORD’s eyes, provoking him with the work of his hands and becoming like Jeroboam’s house—and because he struck that house down.
+</p>
+
+## Elah and Zimri
+
+<p>
+v08: In the twenty-sixth year of Asa king of Judah, Elah son of Baasha became king over Israel at Tirzah. He ruled two years.
+v09: His servant Zimri, commander of half his chariots, conspired against him. Elah was in Tirzah, drinking himself drunk in the house of Arza, who managed the palace there.
+v10: Zimri entered, struck him down, and killed him in the twenty-seventh year of Asa king of Judah. He became king in Elah’s place.
 </p>
 
 <p>
-v08: In the twenty-sixth year of Asa king of Judah, Elah son of Baasha became king over Israel in Tirzah for two years.
-v09: But his servant Zimri, commander of half the chariots, conspired against him. Elah was in Tirzah, drinking himself drunk in the house of Arza, who was over the household in Tirzah.
-v10: Zimri came in, struck him down, and killed him in the twenty-seventh year of Asa king of Judah; and he became king in his place.
+v11: As soon as he became king and sat on the throne, he struck down Baasha’s whole house. He left him no male who urinates against a wall, no relative, and no friend.
+v12: Zimri destroyed Baasha’s whole house, just as the LORD had spoken against Baasha through Jehu the prophet,
+v13: because of all the sins of Baasha and his son Elah, which they committed and led Israel to commit, provoking the LORD, Israel’s God, with their worthless idols.
+v14: The rest of Elah’s history and all he did—are they not written in the Book of the Annals of Israel’s Kings?
 </p>
 
 <p>
-v11: When he became king, as soon as he sat on his throne, he struck down all the house of Baasha. He did not leave him a single male, neither his kinsmen nor his friends.
-v12: Thus Zimri destroyed all the house of Baasha, according to the word of the LORD that he spoke against Baasha through Jehu the prophet,
-v13: because of all the sins of Baasha and the sins of Elah his son, by which they sinned and by which they caused Israel to sin, provoking the LORD, the God of Israel, to anger with their worthless things.
+v15: In the twenty-seventh year of Asa king of Judah, Zimri ruled seven days in Tirzah. The troops were encamped against Gibbethon, which belonged to the Philistines.
+v16: The troops in camp heard, “Zimri has conspired and killed the king.” That very day, in the camp, all Israel made Omri, the army commander, king over Israel.
+v17: Omri and all Israel with him left Gibbethon and besieged Tirzah.
 </p>
 
 <p>
-v14: Now the rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
+v18: When Zimri saw that the city had been captured, he went into the citadel of the king’s house and set the palace on fire over himself. He died
+v19: because of the sins he had committed, doing evil in the LORD’s eyes, following Jeroboam’s way and the sin by which he led Israel into sin.
 </p>
 
 <p>
-v15: In the twenty-seventh year of Asa king of Judah, Zimri reigned seven days in Tirzah. Now the people were encamped against Gibbethon, which belonged to the Philistines.
-v16: The people who were encamped heard it said, “Zimri has conspired and has also struck down the king.” So all Israel made Omri, commander of the army, king over Israel that day in the camp.
-v17: Omri went up from Gibbethon with all Israel, and they besieged Tirzah.
-v18: When Zimri saw that the city had been captured, he went into the citadel of the king’s house and burned the king’s house down over himself with fire, and he died,
-v19: because of his sins that he had committed, doing what was evil in the sight of the LORD, walking in the way of Jeroboam and in the sin that he had committed, causing Israel to sin.
+v20: The rest of Zimri’s history and the conspiracy he carried out—are they not written in the Book of the Annals of Israel’s Kings?
+</p>
+
+## Omri and Ahab
+
+<p>
+v21: Then Israel’s people split in two. Half followed Tibni son of Ginath to make him king, and half followed Omri.
+v22: Omri’s followers prevailed over the followers of Tibni son of Ginath. Tibni died, and Omri became king.
 </p>
 
 <p>
-v20: Now the rest of the acts of Zimri, and the conspiracy that he made, are they not written in the book of the chronicles of the kings of Israel?
+v23: In the thirty-first year of Asa king of Judah, Omri became king over Israel. He ruled twelve years, six of them in Tirzah.
+v24: He bought the hill of Samaria from Shemer for two talents of silver and built on it. He named the city he built Samaria after Shemer, the hill’s owner.
 </p>
 
 <p>
-v21: Then the people of Israel divided into two parts: half of the people followed Tibni son of Ginath, to make him king, and half followed Omri.
-v22: But the people who followed Omri prevailed over the people who followed Tibni son of Ginath. Tibni died, and Omri became king.
+v25: Omri did evil in the LORD’s eyes, more evil than all who came before him.
+v26: He followed Jeroboam son of Nebat in all his ways and in the sin by which he led Israel into sin, provoking the LORD, Israel’s God, with their worthless idols.
+v27: The rest of Omri’s history, what he did, and the mighty deeds he accomplished—are they not written in the Book of the Annals of Israel’s Kings?
 </p>
 
 <p>
-v23: In the thirty-first year of Asa king of Judah, Omri became king over Israel for twelve years. He reigned six years in Tirzah.
-v24: He bought the hill of Samaria from Shemer for two talents of silver. He built on the hill and called the name of the city that he built Samaria, after the name of Shemer, owner of the hill.
+v28: Omri lay down with his ancestors and was buried in Samaria. His son Ahab became king in his place.
 </p>
 
 <p>
-v25: Omri did what was evil in the sight of the LORD, and did more evil than everyone who were before him.
-v26: He walked in all the way of Jeroboam son of Nebat and in his sin by which he caused Israel to sin, provoking the LORD, the God of Israel, to anger with their worthless things.
+v29: Ahab son of Omri became king over Israel in the thirty-eighth year of Asa king of Judah. Ahab son of Omri ruled Israel from Samaria for twenty-two years.
+v30: Ahab son of Omri did more evil in the LORD’s eyes than all who came before him.
 </p>
 
 <p>
-v27: Now the rest of the acts of Omri that he did, and the might that he showed, are they not written in the book of the chronicles of the kings of Israel?
-v28: Omri lay down with his ancestors and was buried in Samaria, and Ahab his son became king in his place.
+v31: As though following the sins of Jeroboam son of Nebat were a small thing, he married Jezebel daughter of Ethbaal king of the Sidonians. He went and served Baal and bowed down to him.
+v32: He set up an altar for Baal in the house of Baal he built in Samaria.
+v33: Ahab also made an Asherah pole. He did more to provoke the LORD, Israel’s God, than all the kings of Israel before him.
 </p>
 
 <p>
-v29: Ahab son of Omri became king over Israel in the thirty-eighth year of Asa king of Judah. Ahab son of Omri reigned over Israel in Samaria twenty-two years.
-v30: Ahab son of Omri did what was evil in the sight of the LORD, more than everyone who were before him.
-v31: As though it were a small thing for him to walk in the sins of Jeroboam son of Nebat, he took as wife Jezebel daughter of Ethbaal, king of the Sidonians, and went and served Baal and bowed down to him.
-v32: He set up an altar for Baal in the house of Baal that he had built in Samaria.
-v33: Ahab also made the Asherah. Ahab went on doing more to provoke the LORD, the God of Israel, to anger than all the kings of Israel who were before him.
-</p>
-
-<p>
-v34: In his days Hiel of Bethel rebuilt Jericho. At the cost of Abiram his firstborn he laid its foundation, and at the cost of Segub his youngest he set up its gates, according to the word of the LORD, which he spoke through Joshua son of Nun.
+v34: In his days Hiel of Bethel rebuilt Jericho. He laid its foundations at the cost of Abiram his firstborn and set up its gates at the cost of Segub his youngest, just as the LORD had spoken through Joshua son of Nun.
 </p>
 
 ## Notes
 
-v03: “Sweep away” renders an image of burning or consuming removal. The judgment concerns both Baasha and his “house,” his royal line.
+v07: Baasha is condemned for destroying Jeroboam’s house, although 15:29 presents that destruction as fulfilling the LORD’s word. The tension is retained.
 
-v07: The verse holds together Baasha’s violence against Jeroboam’s house and Baasha’s own repetition of Jeroboam’s sinful pattern. The narrative does not portray the overthrow of one condemned dynasty as automatically making the successor righteous.
+v11: The male-targeting idiom is retained, followed by the additional groups of relatives and friends. The violence is not reduced to a change of rulers.
 
-v11: “A single male” translates a blunt Hebrew expression, literally one “urinating against a wall.” Its harshness underscores the total destruction of Baasha’s male household.
+v22–23: The narrative gives Asa’s twenty-seventh year for Omri’s proclamation in the camp and thirty-first for this accession notice. Neither date is adjusted.
 
-v13: “Worthless things” renders *hebel*, a word associated with breath, vapor, and emptiness. The term characterizes the objects of Israel’s worship as insubstantial and futile.
-
-v18: The wording may mean that Zimri burned the royal residence over himself, or that he set it on fire while inside it. In either case, his reign ends in self-destruction amid the fall of Tirzah.
-
-v24: The city’s name, Samaria, is explicitly linked to Shemer, from whom Omri purchased the hill.
-
-v31: The question “As though it were a small thing” heightens the accusation: Ahab does not merely continue Jeroboam’s sins but adds the worship of Baal.
-
-v34: Hiel’s rebuilding of Jericho is presented as the fulfillment of the word spoken through Joshua (Joshua 6:26). The text links the loss of his sons to the rebuilding without explaining the precise sequence of events.
+v34: The building of Jericho is linked to the loss of Hiel’s firstborn and youngest sons. The verse does not describe how they died; the translation does not assert a child-sacrifice procedure.
 
 ## Vocabulary
 
-v03: בָּעַר (*baʿar*)
-— “to burn, consume, sweep away.” In the judgment against Baasha’s house, the participle evokes a thorough consuming removal.
+v13: Worthless idols
+The Hebrew uses a word for emptiness or futility to characterize the objects of worship.
 
-v13: הֶבֶל (hebel)
-“breath, vapor, worthlessness.” Baasha and Elah provoke the LORD through their hebalim, with a sense of the emptiness of their idolatrous practices.
-
-v16: מַחֲנֶה (maḥaneh)
-“camp.” The army camp becomes the setting in which Omri is made king, contrasting military acclamation with the instability in Tirzah.
-
-v24: שֹׁמְרוֹן (Shomron)
-“Samaria.” The account deliberately connects the city’s name with Shemer, the former owner of the hill.
-
-v31: בַּעַל (*Baʿal*)
-— “Baal.” Here the name identifies the deity whom Ahab serves and before whom he bows, marking a decisive intensification of Israel’s unfaithfulness.
-
-v33: אֲשֵׁרָה (*Asherah*)
-— “Asherah.” The term may refer to a goddess, a cultic image, or a sacred installation associated with her worship; the passage does not specify its precise form.
-
-v03: בָּעַר (baʿar)
-“to burn, consume, sweep away.” In the judgment against Baasha’s house, the participle evokes a thorough consuming removal.
+v24: Samaria
+The city’s name is connected here with Shemer, from whom Omri bought the hill.

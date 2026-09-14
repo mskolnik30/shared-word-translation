@@ -286,6 +286,11 @@
       "scope": "1 Kings 1",
       "verses": 53,
       "ledger": "audit/fluent-revision/2026-09-14-1kings-1/1kings-verse-review.json"
+    },
+    {
+      "scope": "1 Kings 2–21",
+      "verses": 710,
+      "ledger": "audit/fluent-revision/2026-09-14-1kings-2-21/1kings-verse-review.json"
     }
   ],
   "next_work": [
@@ -298,12 +303,12 @@
       "action": "Check the complete book and its connections with 1 Samuel; rebind affected ledgers if text changes."
     },
     {
-      "scope": "1 Kings 2–21",
-      "action": "Continue twenty complete chapters from the verified Hebrew pin after the queued Samuel consistency passes; preserve exact source records and verse-specific editorial decisions."
-    },
-    {
       "scope": "1 Kings 22 and whole-book consistency review",
       "action": "Finish the book, then review its sustained voice and source-sensitive decisions; rebind any changed earlier chapters."
+    },
+    {
+      "scope": "2 Kings 1–20",
+      "action": "Continue a large connected source-based batch after finishing 1 Kings and the queued consistency passes; verify the pinned source and all verse mappings first."
     }
   ],
   "standards": [
@@ -358,5 +363,5 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt requested twenty chapters per large batch where careful source work permits. This batch completes 2 Samuel 6–24 and 1 Kings 1: twenty chapters, 613 public verses. Whole-book 1 and 2 Samuel authoring consistency passes remain explicitly queued. No routine approval pause or overlap quota."
+  "batch_preference": "Matt requested twenty chapters per large batch where careful source work permits. This batch completes 1 Kings 2–21: twenty chapters, 710 public verses. The new drafting preference was followed while whole-book 1 and 2 Samuel authoring consistency passes remain explicitly queued, not claimed complete. No routine approval pause or overlap quota."
 }

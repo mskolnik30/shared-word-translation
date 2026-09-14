@@ -4,113 +4,101 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1kings-2-21-biblical-fluency-2026-09-14
 ---
 
-<p>
-v01: King Solomon was king over all Israel.
-</p>
+## Officials and provision districts
 
 <p>
-v02: These were the officials he had: Azariah son of Zadok the priest;
-
+v01: King Solomon ruled over all Israel.
+v02: These were his officials: Azariah son of Zadok, the priest;
 v03: Elihoreph and Ahijah, sons of Shisha, secretaries; Jehoshaphat son of Ahilud, recorder;
-
 v04: Benaiah son of Jehoiada, over the army; Zadok and Abiathar, priests;
-
-v05: Azariah son of Nathan, over the governors; and Zabud son of Nathan, priest and the king’s friend;
-
-v06: Ahishar, over the household; and Adoniram son of Abda, over the forced labor.
+v05: Azariah son of Nathan, over the district officials; Zabud son of Nathan, priest and the king’s friend;
+v06: Ahishar, over the royal household; Adoniram son of Abda, over the forced labor.
 </p>
 
 <p>
-v07: Solomon had twelve governors over all Israel, who provided for the king and his household. Each one was responsible for providing for one month in the year.
+v07: Solomon had twelve district officials over all Israel. They supplied the king and his household, each responsible for one month of the year.
 </p>
 
 <p>
-v08: These were their names: Ben-Hur, in the hill country of Ephraim;
+v08: Their names were: Ben-hur, in the hill country of Ephraim;
+v09: Ben-deker, in Makaz, Shaalbim, Beth-shemesh, and Elon-beth-hanan;
+v10: Ben-hesed, in Arubboth, with Socoh and all the land of Hepher under him;
+v11: Ben-abinadab, over all the heights of Dor; Solomon’s daughter Taphath was his wife;
+v12: Baana son of Ahilud, in Taanach and Megiddo and all Beth-shean beside Zarethan below Jezreel, from Beth-shean to Abel-meholah and beyond Jokmeam;
+v13: Ben-geber, in Ramoth-gilead, with the villages of Jair son of Manasseh in Gilead under him, and the region of Argob in Bashan—sixty great cities with walls and bronze bars;
+</p>
 
-v09: Ben-Deker, in Makaz, Shaalbim, Beth-shemesh, and Elon-beth-hanan;
-
-v10: Ben-Hesed, in Arubboth; he had Sokoh and all the land of Hepher;
-
-v11: Ben-Abinadab, over all the district of Dor; Taphath, Solomon’s daughter, was his wife;
-
-v12: Baana son of Ahilud, over Taanach and Megiddo, and all Beth-shean, which is beside Zarethan, below Jezreel, from Beth-shean to Abel-meholah, as far as beyond Jokmeam;
-
-v13: Ben-Geber, in Ramoth-gilead; he had the settlements of Jair son of Manasseh, which are in Gilead; he had the region of Argob, which is in Bashan: sixty great cities with walls and bronze bars;
-
+<p>
 v14: Ahinadab son of Iddo, in Mahanaim;
-
-v15: Ahimaaz, in Naphtali; he also took Basemath, Solomon’s daughter, as his wife;
-
+v15: Ahimaaz, in Naphtali; he too had married a daughter of Solomon, Basemath;
 v16: Baana son of Hushai, in Asher and Bealoth;
-
 v17: Jehoshaphat son of Paruah, in Issachar;
-
 v18: Shimei son of Ela, in Benjamin;
-
-v19: Geber son of Uri, in the land of Gilead—the land of Sihon king of the Amorites and of Og king of Bashan—and one governor who was in the land.
 </p>
 
 <p>
-v20: Judah and Israel were as numerous as the sand that is by the sea. They were eating and drinking and rejoicing.
+v19: Geber son of Uri, in the land of Gilead, the territory of Sihon king of the Amorites and Og king of Bashan. There was one official in that land.
+</p>
+
+## Prosperity and wisdom
+
+<p>
+v20: Judah and Israel were as numerous as the sand beside the sea. They ate, drank, and rejoiced.
+v21: Solomon ruled all the kingdoms from the River to the land of the Philistines and the border of Egypt. They brought tribute and served Solomon throughout his life.
 </p>
 
 <p>
-v21: Solomon ruled over all the kingdoms from the River to the land of the Philistines and as far as the border of Egypt, bringing tribute and serving Solomon all the days of his life.
-v22: Solomon’s provisions for one day were thirty cors of fine flour and sixty cors of flour,
-v23: ten fattened cattle, twenty pasture-fed cattle, and one hundred sheep, besides deer, gazelles, roebucks, and fattened birds.
-v24: For he ruled over all the region beyond the River, from Tiphsah to Gaza, over all the kings beyond the River. And he had peace on every side around him.
-v25: Judah and Israel lived in security, each under their vine and under their fig tree, from Dan to Beer-sheba, all the days of Solomon.
-v26: Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.
+v22: Solomon’s daily provisions were thirty cors of fine flour and sixty cors of meal,
+v23: ten fattened cattle, twenty pasture-fed cattle, and a hundred sheep, besides deer, gazelles, roebucks, and fattened birds.
+v24: He ruled everything west of the River, from Tiphsah to Gaza, including all the kings west of the River. He had peace on every side.
 </p>
 
 <p>
-v27: These officials provided for King Solomon and for everyone who came near King Solomon’s table, each in their month; they let nothing be lacking.
-v28: They brought the barley and the straw for the horses and the steeds to the place where they were, each according to their assignment.
+v25: Throughout Solomon’s days, Judah and Israel lived securely, each under his own vine and fig tree, from Dan to Beer-sheba.
+v26: Solomon had forty thousand stalls for his chariot horses and twelve thousand horsemen.
 </p>
 
 <p>
-v29: God gave Solomon wisdom and very great understanding, and breadth of heart like the sand on the seashore.
-v30: Solomon’s wisdom exceeded the wisdom of all the people of the east and all the wisdom of Egypt.
-v31: He was wiser than every other person—wiser than Ethan the Ezrahite, and Heman, Calcol, and Darda, the sons of Mahol. His name was known among all the nations around him.
-v32: He spoke three thousand proverbs, and his songs numbered one thousand and five.
-v33: He spoke about the trees, from the cedar that is in Lebanon to the hyssop that grows out of the wall. He spoke also about animals, birds, creeping things, and fish.
-v34: People came from all peoples to hear Solomon’s wisdom, from all the kings of the earth who had heard of his wisdom.
+v27: The district officials supplied King Solomon and everyone who came to his table, each in his assigned month. They let nothing be lacking.
+v28: Each also brought barley and straw for the horses and swift steeds to the required place, according to his assignment.
+</p>
+
+<p>
+v29: God gave Solomon wisdom, very great understanding, and breadth of heart like the sand on the seashore.
+v30: Solomon’s wisdom surpassed the wisdom of all the people of the East and all the wisdom of Egypt.
+v31: He was wiser than anyone: wiser than Ethan the Ezrahite, and Heman, Calcol, and Darda, the sons of Mahol. His name became known among all the surrounding nations.
+</p>
+
+<p>
+v32: He spoke three thousand proverbs, and his songs numbered one thousand five.
+v33: He spoke about trees, from the cedar in Lebanon to the hyssop growing out of a wall. He also spoke about animals, birds, crawling creatures, and fish.
+v34: People came from all nations to hear Solomon’s wisdom, sent by all the kings of the earth who had heard of it.
 </p>
 
 ## Notes
 
-v05: — “The king’s friend.”: This is an official designation as well as a relational one. Zabud’s title places him among Solomon’s court officers, though the precise responsibilities of the role are not stated.
+v02: “The priest” can be read as Azariah’s office or as identifying his father Zadok. The brief list leaves the attachment open.
 
-v06: — “Forced labor.”: The Hebrew term refers to labor levied by royal authority. The administrative list thus includes not only household and military oversight but also the machinery by which the king could compel labor.
+v04: Abiathar remains in this list of priests, although chapter 2 describes his removal. The list is not silently reconciled with that narrative.
 
-v07: — Twelve governors.: The twelve districts are organized for supplying the royal household in monthly rotation. Their boundaries do not simply reproduce Israel’s tribal territories, reflecting a centralized royal administration.
+v19: The final clause says there was one official in that land. Its relation to Geber’s district is unclear; “Judah” is not supplied.
 
-v19: — “One governor who was in the land.”: The final phrase is compressed and syntactically uncertain. It may identify an additional governor over the territory just named, or indicate that there was one governor over the whole land.
+v21–34: These public verse labels correspond to Hebrew 5:1–14 in the pinned source. The complete words and order are preserved.
 
-v20: — “As numerous as the sand.”: The image echoes the promise of an innumerable people. Here it is joined to eating, drinking, and rejoicing, portraying abundance and well-being under Solomon’s reign.
+v26: The pinned Hebrew gives forty thousand stalls and twelve thousand horsemen. These numbers are retained.
 
-v21–34: These verses correspond to 1 Kings 5:1–14 in the Hebrew chapter division.
-
-v22: A *cor* was a large dry measure. The text leaves the quantities in ancient units rather than converting them, emphasizing the scale of the royal household’s daily provisions.
-
-v25: “Each under their vine and under their fig tree” is an image of settled security, household abundance, and freedom from threat. The description of peace extends from political stability into ordinary life.
-
-v29: “Breadth of heart” describes expansive discernment and capacity for understanding. In biblical Hebrew, the heart can denote thought, judgment, and purpose as well as feeling.
-
-v32: The Hebrew says literally, “his song was one thousand and five.” The singular can function collectively; the sense is a count of songs.
+v29: “A breadth of heart” pictures expansive understanding. The sand image also describes Israel’s population in verse 20.
 
 ## Vocabulary
 
-v07: — נִצָּבִים (*niṣṣābîm*)
-“governors” or “officials.” In this chapter, the term names the regional administrators responsible for supplying Solomon’s court.
+v21: The River
+The Euphrates, the great river marking the reach of Solomon’s rule in this description.
 
-v07: — כּוּל (*kûl*)
-“provide” or “sustain.” The governors sustain the king and his household through an ordered monthly rotation.
-
-v06: — מַס (*mas*)
-“forced labor.” It denotes labor imposed for the king’s projects and stands alongside the other structures of royal administration.
-
-v20: — חוֹל (*ḥôl*)
-“sand.” The people’s number is compared with the sand by the sea, an image of abundance that recalls God’s promises concerning Israel.
+v22: Cor
+An ancient measure of capacity used here for flour. The original quantities are retained without imposing an exact modern conversion.

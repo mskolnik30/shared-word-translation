@@ -4,108 +4,93 @@ testament: OT
 chapter: 19
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1kings-2-21-biblical-fluency-2026-09-14
 ---
 
-<p>
-v01: Ahab told Jezebel all that Elijah had done, and all about how he had killed all the prophets with the sword.
+## Elijah flees
 
-v02: Then Jezebel sent a messenger to Elijah, saying, “May the gods do so to me, and more also, if by this time tomorrow I do not make your life like the life of one of them.”
+<p>
+v01: Ahab told Jezebel everything Elijah had done and how he had killed all the prophets with the sword.
+v02: Jezebel sent a messenger to Elijah: “May the gods do this to me, and more besides, if by this time tomorrow I have not made your life like the life of one of them.”
 </p>
 
 <p>
-v03: He saw it, rose up, and went for his life. He came to Beer-sheba, which belongs to Judah, and left his servant there.
-
-v04: But he himself went a day’s journey into the wilderness. He came and sat down beneath a broom tree. He asked that he might die, saying, “Enough now, LORD. Take my life, for I am no better than my ancestors.”
+v03: When he saw this, he got up and went for his life. He reached Beer-sheba in Judah and left his servant there.
 </p>
 
 <p>
-v05: Then he lay down and slept beneath the broom tree. And look: an angel was touching him and said to him, “Get up. Eat.”
-
-v06: He looked, and there at his head was a cake baked on hot stones and a jar of water. He ate and drank, then lay down again.
-
-v07: The angel of the LORD came back a second time, touched him, and said, “Get up. Eat, for the journey is too much for you.”
-
-v08: So he got up, ate, and drank. In the strength of that food he went forty days and forty nights, as far as Horeb, the mountain of God.
+v04: He himself went a day’s journey into the wilderness and sat under a broom bush. He asked to die: “Enough now, LORD. Take my life. I am no better than my ancestors.”
 </p>
 
 <p>
-v09: There he came to the cave and spent the night there. And look: the word of the LORD came to him and said to him, “What are you doing here, Elijah?”
-
-v10: He said, “I have been very zealous for the LORD, the God of hosts. For the people of Israel have abandoned your covenant, torn down your altars, and killed your prophets with the sword. I alone am left, and they are seeking my life to take it.”
+v05: He lay down and slept under the broom bush. Suddenly an angel touched him and said, “Get up and eat.”
+v06: He looked, and there beside his head were a cake baked on hot stones and a jug of water. He ate and drank, then lay down again.
 </p>
 
 <p>
-v11: He said, “Go out and stand on the mountain before the LORD.” And look: the LORD was passing by. A great and powerful wind was tearing apart mountains and breaking rocks before the LORD, but the LORD was not in the wind. After the wind came an earthquake, but the LORD was not in the earthquake.
+v07: The LORD’s angel came back a second time, touched him, and said, “Get up and eat. The journey is too much for you.”
+v08: He got up, ate, and drank. Strengthened by that food, he traveled forty days and forty nights to Horeb, the mountain of God.
+</p>
 
-v12: After the earthquake came fire, but the LORD was not in the fire. After the fire came a sound of thin silence.
+## At Horeb
 
-v13: When Elijah heard it, he wrapped his face in his mantle. He went out and stood at the entrance of the cave. And look: a voice came to him and said, “What are you doing here, Elijah?”
-
-v14: He said, “I have been very zealous for the LORD, the God of hosts. For the people of Israel have abandoned your covenant, torn down your altars, and killed your prophets with the sword. I alone am left, and they are seeking my life to take it.”
+<p>
+v09: There he entered the cave and spent the night. The LORD’s word came to him: “What are you doing here, Elijah?”
+v10: He answered, “I have been intensely zealous for the LORD, the God of Armies. The Israelites have abandoned your covenant, torn down your altars, and killed your prophets with the sword. I alone remain, and they are seeking my life to take it.”
 </p>
 
 <p>
-v15: The LORD said to him, “Go, return by your way to the wilderness of Damascus. When you arrive, you will anoint Hazael as king over Aram.
-
-v16: “And you will anoint Jehu son of Nimshi as king over Israel, and Elisha son of Shaphat from Abel-meholah as prophet in your place.
-
-v17: “The one who escapes from the sword of Hazael, Jehu will put to death; and the one who escapes from the sword of Jehu, Elisha will put to death.
-
-v18: “But I will leave seven thousand in Israel: every knee that has not bowed to Baal, and every mouth that has not kissed him.”
+v11: He said, “Go out and stand on the mountain before the LORD.” The LORD was passing by. A great, powerful wind tore mountains apart and shattered rocks before the LORD, but the LORD was not in the wind. After the wind came an earthquake, but the LORD was not in the earthquake.
+v12: After the earthquake came fire, but the LORD was not in the fire. After the fire came a sound of fine stillness.
 </p>
 
 <p>
-v19: So he went from there and found Elisha son of Shaphat, who was plowing with twelve pairs of oxen before him, and he was with the twelfth. Elijah passed by him and threw his mantle over him.
+v13: When Elijah heard it, he wrapped his face in his cloak and went out to stand at the cave’s entrance. A voice came to him: “What are you doing here, Elijah?”
+v14: He answered, “I have been intensely zealous for the LORD, the God of Armies. The Israelites have abandoned your covenant, torn down your altars, and killed your prophets with the sword. I alone remain, and they are seeking my life to take it.”
+</p>
 
-v20: He left the oxen and ran after Elijah. He said, “Please let me kiss my father and my mother, and then I will follow you.” He said to him, “Go back. For what have I done to you?”
+<p>
+v15: The LORD told him, “Go back on your way to the wilderness of Damascus. When you arrive, anoint Hazael king over Aram.
+v16: Anoint Jehu son of Nimshi king over Israel, and anoint Elisha son of Shaphat from Abel-meholah as prophet in your place.
+v17: Whoever escapes Hazael’s sword, Jehu will kill; whoever escapes Jehu’s sword, Elisha will kill.
+</p>
 
-v21: So he returned from following him, took the pair of oxen, and slaughtered them. With the equipment of the oxen he boiled their flesh and gave it to the people, and they ate. Then he rose, went after Elijah, and served him.
+<p>
+v18: Yet I will leave seven thousand in Israel: every knee that has not bowed to Baal and every mouth that has not kissed him.”
+</p>
+
+## Elisha follows
+
+<p>
+v19: Elijah left and found Elisha son of Shaphat plowing. Twelve pairs of cattle were ahead of him, and he was with the twelfth. Elijah passed him and threw his cloak over him.
+</p>
+
+<p>
+v20: Elisha left the cattle and ran after Elijah. “Please let me kiss my father and mother,” he said, “and then I will follow you.” Elijah answered, “Go back. What have I done to you?”
+v21: Elisha turned back, took his pair of cattle, and slaughtered them. Using the cattle’s equipment as fuel, he boiled the meat and gave it to the people to eat. Then he got up, followed Elijah, and served him.
 </p>
 
 ## Notes
 
-v03: **19:3** The Hebrew text as supplied reads, “He saw,” while a traditional reading reflected in many translations is “He was afraid.” “He saw it” preserves the consonantal wording and leaves the precise force open: Elijah may see the threat and flee for his life.
+v03: The pinned Hebrew reads “he saw,” rather than “he was afraid.” The draft says he saw what was happening and fled for his life.
 
-v04: **19:4** “Take my life” expresses Elijah’s request to die. The same Hebrew word, *nephesh*, can mean “life,” “self,” or “person”; Elijah’s despair is bodily and personal, not merely abstract.
+v09: The source says “the cave,” without explicitly identifying it as a cave occupied earlier by Moses.
 
-v11–12: **19:11–12** The LORD is explicitly said not to be “in” the wind, earthquake, or fire. The passage does not deny God’s power over these forces; it distinguishes them from the manner in which Elijah receives God’s presence and word here.
+v10,14: Elijah repeats his answer word for word. The repetition is preserved rather than rewritten to sound less repetitive.
 
-v12: **19:12** The phrase translated “a sound of thin silence” is deliberately compact and difficult. It may suggest a barely audible sound, profound stillness, or silence made perceptible. Its strangeness is part of the scene’s movement after wind, earthquake, and fire.
+v12: “A sound of fine stillness” keeps the unusual pairing of sound and quiet. “A gentle whisper” is another possible way to express it; the verse does not explicitly state that the LORD was in the stillness.
 
-v15–17: **19:15–17** The commands concerning Hazael, Jehu, and Elisha place Elijah’s personal crisis within a larger work of judgment and succession. The text names violent consequences without explaining every detail of how these commissions will be carried out.
+v15–17: The renewed commission includes the swords of Hazael and Jehu and killing attributed to Elisha. These disturbing elements remain beside the care shown to Elijah.
 
-v18: **19:18** God’s declaration challenges Elijah’s claim, repeated in verses 10 and 14, that he alone remains. The seven thousand are identified by their refusal to bow to or kiss Baal, bodily signs of allegiance and worship.
-
-v20: **19:20** Elijah’s reply, “For what have I done to you?” can sound dismissive, permissive, or probing. The wording leaves Elisha’s decision and the cost of following before the reader.
-
-v21: **19:21** Elisha’s use of the oxen and plowing equipment makes his departure from his former work visible and costly. He then “served” Elijah, language that can denote personal attendance and ministry.
-
-v03: The Hebrew text as supplied reads, “He saw,” while a traditional reading reflected in many translations is “He was afraid.” “He saw it” preserves the consonantal wording and leaves the precise force open: Elijah may see the threat and flee for his life.
-
-v04: The same Hebrew word, *nephesh*, can mean “life,” “self,” or “person”; Elijah’s despair is bodily and personal, not merely abstract.
+v20: “What have I done to you?” can be heard as release, reminder, or challenge. The question remains open.
 
 ## Vocabulary
 
-v04: 4 נֶפֶשׁ (*nephesh*)
-— In Elijah’s plea, the word refers to his life or very self: “Take my life.” It recurs in the chapter’s threats and fears, binding Jezebel’s vow, Elijah’s despair, and his complaint that others seek his life.
+v04: Broom bush
+A desert shrub giving Elijah a place to lie down.
 
-v19: 12 דְּמָמָה דַקָּה (*demamah daqqah*)
-— Literally, “thin silence” or “fine stillness.” The phrase follows the wind, earthquake, and fire, marking the elusive and restrained manner in which Elijah encounters the divine voice.
-
-v19: 13 אַדֶּרֶת (*ʾadderet*)
-— A mantle or outer cloak. Elijah covers his face with it before going to the cave’s entrance, and later throws it over Elisha. The garment becomes a tangible sign linking the prophet’s encounter with God to Elisha’s call.
-
-v19: קָנָא (qanaʾ)
-“Be zealous.” Elijah intensifies the word—“I have been very zealous”—as he describes Israel’s abandonment of the covenant. His zeal is directed toward the LORD, the God of hosts, yet it is spoken from isolation and exhaustion.
-
-v19: דְּמָמָה דַקָּה (demamah daqqah)
-“Thin silence; Fine stillness.”
-
-v19: אַדֶּרֶת (ʾadderet)
-“A mantle or outer cloak.” Elijah covers his face with it before going to the cave’s entrance, and later throws it over Elisha.
-
-v18: 18 בַּעַל (*Baal*)
-— The name of the deity whose worship has shaped the conflict of the preceding chapter. Kneeling and kissing are named as acts of allegiance that the faithful remnant has refused.
-
-v18: בַּעַל (Baal)
-“Baal.” The name of the deity whose worship dominates the preceding conflict.
+v19: Cloak
+Elijah’s outer garment, thrown over Elisha in an action that calls him to follow.

@@ -1,0 +1,534 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-14T19:42:38.953670+00:00",
+  "base_commit": "2a0f6019c595e2be476bbd84dcc6a930c8eea5f7",
+  "scope": "1 Kings 2–21",
+  "new_chapters": 20,
+  "new_verses": 710,
+  "affected_source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1kings-2-21/1kings-verse-review.json",
+      "status": "PASSED",
+      "chapters": 20,
+      "verses": 710,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "preservation": {
+    "prior_ledgers_byte_identical": 57,
+    "prior_chapters_byte_identical": 297,
+    "historical_provenance_and_unrelated_work_preserved": true
+  },
+  "cumulative_coverage": {
+    "ledgers": 58,
+    "chapters": 317,
+    "verses": 9589
+  },
+  "structural_chapters": [
+    {
+      "chapter": 2,
+      "verse_count": 46,
+      "path": "translations/fluent/OT/1kings/1Kings_02.md",
+      "before_sha256": "088ccb26c23a5e3f7931ebb6f097dfe6917ffa00685fb44d9b8721b50d52a7c1",
+      "after_sha256": "b9ff1a1d56d45e6503373adee8eedc4cdc93ebeeb47919e5275c7dc6dc8fb945",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_02.md",
+      "tsw_comparator_sha256": "fc60d573b931810342904e275a7a1291fb8c66ab4b1b9833a9bb104d03733d3c"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 28,
+      "path": "translations/fluent/OT/1kings/1Kings_03.md",
+      "before_sha256": "c82f33128a965a30f39d79e4226c4a1f9ef55a25673ce949c583767e044611cb",
+      "after_sha256": "09eec47273f36c0bdb187097b9cccfe9b79f8600cd534c48b9a75bfb625f1deb",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_03.md",
+      "tsw_comparator_sha256": "f45e3dac599ca3f710fcdf9a890cfb784edebde58086d1a7de0d2b885b16cc45"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 34,
+      "path": "translations/fluent/OT/1kings/1Kings_04.md",
+      "before_sha256": "d44270ea252eee96c61e1b26761a625f6818d690a69aa13a5f2b96e4420d0ae0",
+      "after_sha256": "09d799662bb033846768fa927528c6eb70712f24262a243e6972d3002da9b869",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_04.md",
+      "tsw_comparator_sha256": "c78bc7f239e253c0fb647a550a88a30cf42d546c5d191c506613fc799d82b5d6"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 18,
+      "path": "translations/fluent/OT/1kings/1Kings_05.md",
+      "before_sha256": "7f76581318a9f8b498654733f690e27cc6e296722cfaf726d6c1f6711f3a1d4c",
+      "after_sha256": "aad1bae014a085fe73953ba4e33d1b8cbdfb7fd5644894a0c23ddda52c71ca73",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_05.md",
+      "tsw_comparator_sha256": "d03a23406e37d3513fba32acbc4d42aad5ed6cf0b8acee623f8f01155aad15a2"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 38,
+      "path": "translations/fluent/OT/1kings/1Kings_06.md",
+      "before_sha256": "8f2d389052aed077ecbaa33b4d493883aa5b5ed5347acc744b7802b32703f460",
+      "after_sha256": "3d6f4efbca733eaff4666c733dc0a4973dc80530a7e328ad18b3d59aab3d50fb",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_06.md",
+      "tsw_comparator_sha256": "5c81e0ddaadaaaac8b63a3a335f5c21dbbaf8876bb24769c22f405e717ab0ae2"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 51,
+      "path": "translations/fluent/OT/1kings/1Kings_07.md",
+      "before_sha256": "de764e8b42a50d51cf029ce3b7cc346e8bf61f05e34dfbca76766d651d2f2c61",
+      "after_sha256": "09f1d33d2c79dbd33b7f7a97fe662955eb611d102def4f9bf5e4c5187384c66c",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_07.md",
+      "tsw_comparator_sha256": "e053dada2aac8a44eefcca9c07e850eff14be6d940d88616edb17526e0ad194f"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 66,
+      "path": "translations/fluent/OT/1kings/1Kings_08.md",
+      "before_sha256": "60c585c9e99a0235a2a0c4b89b7320c4a426aa2d5142b556d609c9855fdf2870",
+      "after_sha256": "2bdffb22769e824dc5ad04a0a2a7875bc640b677029a5a10ce405e95d859991c",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_08.md",
+      "tsw_comparator_sha256": "c36ab8f0bf927a94fe2efeb5266caf303c7f76d929b6f4e18659d1aae23be5ee"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 28,
+      "path": "translations/fluent/OT/1kings/1Kings_09.md",
+      "before_sha256": "c84fc2169605b3950d21fb0527084bb886d9282f42d9049bde6a0ce9fd483a0e",
+      "after_sha256": "d31834b512e335cf45abf77becef86e48cdbb679fe96a1f1d90779c667c77c72",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_09.md",
+      "tsw_comparator_sha256": "3828a757472bd5bb2e2a09c136354f447ab5c8b7e8f0a3a505bd5de32cc5e0a1"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 29,
+      "path": "translations/fluent/OT/1kings/1Kings_10.md",
+      "before_sha256": "cc6c2fbea2e21b38dd08ed33aef03c2af1093bcbd08c84369163613d6b8a5c9b",
+      "after_sha256": "ecddca6449f3193d2450cf9624771b1bae75ce5718bd076537f08fd223618916",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_10.md",
+      "tsw_comparator_sha256": "6d37d08f9d79fa685b452aa5ac8cdaaa74dcbb771ba92f4bbfee5e659e047534"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 43,
+      "path": "translations/fluent/OT/1kings/1Kings_11.md",
+      "before_sha256": "cc6e62b80e6c626a40326986482341143c3e96f220f1f29e49c254567baed808",
+      "after_sha256": "45d415e7a54c2e9ff09d07baa1ba2cc82a21b96a8a50f0520928119d3989012b",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_11.md",
+      "tsw_comparator_sha256": "6df37da742f90e04cbbe50c9c232bfdf845c72c92445d4557e31eedfa28409fd"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 33,
+      "path": "translations/fluent/OT/1kings/1Kings_12.md",
+      "before_sha256": "ebabdfc33f1ec17c2b97428c36ce4d98d7fa0410f981551990c21536620ccc52",
+      "after_sha256": "b3bdb37d20683213fbeb504dca658b69077f39adc4d9f9e78695728f1d4c85c6",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_12.md",
+      "tsw_comparator_sha256": "26ead2c177dc7007ac71256dea7e37cf37e2a8dad153de9bdda68f4fd856989b"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 34,
+      "path": "translations/fluent/OT/1kings/1Kings_13.md",
+      "before_sha256": "b57cee696f6f329a92ade18185f912e41bfa5ef9b73cb48871811d1a5711e11f",
+      "after_sha256": "b2ec5ef4bec105efa5817717e52e91a0c4ec33ce5ce22d552f8d5564050c2d90",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_13.md",
+      "tsw_comparator_sha256": "0ef5422adad3d6474a183cb0d8626e70c6b6564b716c7074e82602b6ac8dc580"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 31,
+      "path": "translations/fluent/OT/1kings/1Kings_14.md",
+      "before_sha256": "baa8cfaa6f02344d8c318e16d0818b6e775ca81c8bda4129a652e7d406f8cb09",
+      "after_sha256": "32183302a1a4162374c4747e2cbd3255e9fbf579e7f413fe54cf9f4378fb8a91",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_14.md",
+      "tsw_comparator_sha256": "20fa0a69f611fe496fc30ad14336d5de311933e6292270d82ddf9701c97afe64"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 34,
+      "path": "translations/fluent/OT/1kings/1Kings_15.md",
+      "before_sha256": "2f219ae831bc7f80ee5d37bc962a0daee7cd62be586415597eb58b3884306164",
+      "after_sha256": "31a352a9a40ad1ca8b69f8d9c60cc73197710b9e5c8038ff6e3043badcf9d986",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_15.md",
+      "tsw_comparator_sha256": "9ff1da14096e089b8d6129031f3209a59d411f68a7421e8f05bec2b15bebf69d"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 34,
+      "path": "translations/fluent/OT/1kings/1Kings_16.md",
+      "before_sha256": "e183656bb316c042ed0ba6c6dfd5699f6d0d0850d3b5e3d8b7c2b755ca3ecbf6",
+      "after_sha256": "d44ef7841fd12edc270035de1883e2f26f6ff2a7c93919da157e199ec1366198",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_16.md",
+      "tsw_comparator_sha256": "649ed5264f801193a77fe6487b5982ba5412a18429f2cb8e4aca20e61741891d"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 24,
+      "path": "translations/fluent/OT/1kings/1Kings_17.md",
+      "before_sha256": "6f03f7f975850d6d7c582bb7a6c87042441e00fa10c000334d9142d2684edbc3",
+      "after_sha256": "03d9e1404d6c520b6d4924325ca474503ba2f560027a3df7f434a900dc1d0f15",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_17.md",
+      "tsw_comparator_sha256": "aa554289bcd54a15acb0d175b7b3fd2d1786f137769d07b87923be739aef960a"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 46,
+      "path": "translations/fluent/OT/1kings/1Kings_18.md",
+      "before_sha256": "62ef3b06530c8995a10456f87823bfd1eb3dbe7ab8890db57675c5302ba75231",
+      "after_sha256": "a67f64d45d51d86d490bc8f80bd42bd20d5808da78579704cb770dbbd367d622",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_18.md",
+      "tsw_comparator_sha256": "ae9df0441b3010a6690d39274ba9cd7c01f6f3fc4491d0947c6f8c08d2fbbf30"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 21,
+      "path": "translations/fluent/OT/1kings/1Kings_19.md",
+      "before_sha256": "2411b441e552ac318b372972e156dc20f03d895a9cf54a35b79a0c7e519aa6d9",
+      "after_sha256": "ee0f11b13d6c52f9ce1ebd9f088c0be6245eb0757d4b5ec89e6c3a8fd8fbdd12",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_19.md",
+      "tsw_comparator_sha256": "454500bf62dd70022e0d990357f6948ad7f46f2935d17769f8f60d2f84dccb54"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 43,
+      "path": "translations/fluent/OT/1kings/1Kings_20.md",
+      "before_sha256": "055885dd6da586b49917fbf98e06043d456d84eacbd08800500186fc96269f50",
+      "after_sha256": "cc3f042576d81e1647bbbc665dfc71143dfedf43cbde6aff0ba2c555d7d8e091",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_20.md",
+      "tsw_comparator_sha256": "f187e7a19fa4cc196726aca385417aaa73852e2c9e7710e1cc6d7bb59cc88d0f"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 29,
+      "path": "translations/fluent/OT/1kings/1Kings_21.md",
+      "before_sha256": "20c3c76db2d1b6fcea4a110730cc05b76bef0177ad9474a1cf715d632fe4ff26",
+      "after_sha256": "ea93fd5ee3eba532f7966c10f256561e99a503b5a209c66afdd1cdd76d0e568a",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_21.md",
+      "tsw_comparator_sha256": "dd2b9831db332223e3f63d41d5ec177a76af4615c0f0c5ed4f7a0eda06ad5852"
+    }
+  ],
+  "first_source_reading": {
+    "public_verses": 710,
+    "original_records": 710,
+    "all_original_annotations_read": true
+  },
+  "tsw_comparator_reading": 710,
+  "focused_source_reread": {
+    "1kings": 138
+  },
+  "focused_assertions": {
+    "2:11": [
+      "forty",
+      "seven",
+      "thirty-three"
+    ],
+    "2:28": [
+      "Absalom"
+    ],
+    "2:39": [
+      "slaves",
+      "Achish",
+      "Maacah"
+    ],
+    "3:7": [
+      "young boy"
+    ],
+    "3:9": [
+      "listening heart"
+    ],
+    "4:26": [
+      "forty thousand",
+      "twelve thousand"
+    ],
+    "4:32": [
+      "three thousand",
+      "one thousand five"
+    ],
+    "5:3": [
+      "my feet"
+    ],
+    "5:11": [
+      "twenty thousand cors",
+      "twenty cors"
+    ],
+    "5:13": [
+      "thirty thousand"
+    ],
+    "5:14": [
+      "ten thousand",
+      "one month",
+      "two months"
+    ],
+    "5:15": [
+      "seventy thousand",
+      "eighty thousand"
+    ],
+    "5:16": [
+      "thirty-three hundred"
+    ],
+    "6:1": [
+      "four hundred eightieth",
+      "fourth",
+      "Ziv",
+      "second"
+    ],
+    "6:8": [
+      "middle"
+    ],
+    "6:16": [
+      "floor up to the walls"
+    ],
+    "6:38": [
+      "eleventh",
+      "Bul",
+      "eighth",
+      "seven years"
+    ],
+    "7:2": [
+      "four rows"
+    ],
+    "7:3": [
+      "forty-five",
+      "fifteen"
+    ],
+    "7:7": [
+      "floor to the other"
+    ],
+    "7:15": [
+      "eighteen",
+      "twelve",
+      "other"
+    ],
+    "7:23": [
+      "ten cubits",
+      "five cubits",
+      "thirty cubits"
+    ],
+    "7:26": [
+      "two thousand baths"
+    ],
+    "7:38": [
+      "forty baths",
+      "four cubits"
+    ],
+    "7:42": [
+      "four hundred pomegranates"
+    ],
+    "8:9": [
+      "nothing",
+      "two stone tablets"
+    ],
+    "8:38": [
+      "any person",
+      "all your people"
+    ],
+    "8:46": [
+      "no one who does not sin"
+    ],
+    "8:63": [
+      "twenty-two thousand",
+      "a hundred twenty thousand"
+    ],
+    "8:65": [
+      "fourteen"
+    ],
+    "8:66": [
+      "eighth"
+    ],
+    "9:18": [
+      "Tadmor"
+    ],
+    "9:21": [
+      "forced slave labor",
+      "devote to destruction"
+    ],
+    "9:22": [
+      "did not make slaves"
+    ],
+    "9:23": [
+      "five hundred fifty"
+    ],
+    "9:28": [
+      "four hundred twenty"
+    ],
+    "10:14": [
+      "six hundred sixty-six"
+    ],
+    "10:16": [
+      "two hundred",
+      "six hundred"
+    ],
+    "10:17": [
+      "three hundred",
+      "three minas"
+    ],
+    "10:29": [
+      "six hundred",
+      "hundred fifty"
+    ],
+    "11:3": [
+      "seven hundred",
+      "three hundred"
+    ],
+    "11:5": [
+      "Milcom"
+    ],
+    "11:7": [
+      "Molech"
+    ],
+    "11:16": [
+      "every male",
+      "six months"
+    ],
+    "11:33": [
+      "they",
+      "his father David"
+    ],
+    "11:39": [
+      "not forever"
+    ],
+    "12:7": [
+      "servant",
+      "serve"
+    ],
+    "12:18": [
+      "Adoram",
+      "stoned"
+    ],
+    "12:21": [
+      "Benjamin",
+      "hundred eighty thousand"
+    ],
+    "12:28": [
+      "gods"
+    ],
+    "13:11": [
+      "One of his sons",
+      "His sons"
+    ],
+    "13:18": [
+      "lying"
+    ],
+    "13:28": [
+      "neither eaten",
+      "nor mauled the donkey"
+    ],
+    "14:10": [
+      "urinates",
+      "dung"
+    ],
+    "14:21": [
+      "forty-one",
+      "seventeen",
+      "Naamah"
+    ],
+    "14:24": [
+      "male shrine attendants"
+    ],
+    "15:6": [
+      "Rehoboam"
+    ],
+    "15:10": [
+      "mother",
+      "Maacah"
+    ],
+    "15:12": [
+      "male shrine attendants"
+    ],
+    "16:11": [
+      "urinates",
+      "relative",
+      "friend"
+    ],
+    "16:23": [
+      "thirty-first",
+      "twelve",
+      "six"
+    ],
+    "16:34": [
+      "Abiram",
+      "Segub"
+    ],
+    "17:21": [
+      "three times",
+      "life return"
+    ],
+    "18:19": [
+      "four hundred fifty",
+      "four hundred"
+    ],
+    "18:34": [
+      "four jars",
+      "third time"
+    ],
+    "18:40": [
+      "slaughtered"
+    ],
+    "19:3": [
+      "saw"
+    ],
+    "19:8": [
+      "forty days",
+      "forty nights"
+    ],
+    "19:12": [
+      "fine stillness"
+    ],
+    "19:17": [
+      "Hazael",
+      "Jehu",
+      "Elisha",
+      "kill"
+    ],
+    "19:18": [
+      "seven thousand"
+    ],
+    "20:15": [
+      "two hundred thirty-two",
+      "seven thousand"
+    ],
+    "20:23": [
+      "gods"
+    ],
+    "20:29": [
+      "hundred thousand",
+      "one day"
+    ],
+    "20:30": [
+      "twenty-seven thousand"
+    ],
+    "20:31": [
+      "heads"
+    ],
+    "20:38": [
+      "bandage"
+    ],
+    "20:42": [
+      "devoted to destruction"
+    ],
+    "21:3": [
+      "inheritance"
+    ],
+    "21:10": [
+      "cursed God",
+      "stone"
+    ],
+    "21:21": [
+      "urinates"
+    ],
+    "21:23": [
+      "rampart"
+    ],
+    "21:29": [
+      "his son"
+    ]
+  },
+  "selected_1kings_source_records_bound_once": 763,
+  "public_source_versification_checked": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_samuel_consistency_passes": "PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

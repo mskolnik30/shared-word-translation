@@ -4,197 +4,150 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1kings-2-21-biblical-fluency-2026-09-14
 ---
 
+## Ben-hadad threatens Samaria
+
 <p>
-v01: Ben-hadad king of Aram gathered all his army, with thirty-two kings allied with him, horses, and chariots. He went up, laid siege to Samaria, and fought against it.
+v01: Ben-hadad king of Aram gathered his whole army, with thirty-two kings, horses, and chariots. He advanced on Samaria, besieged it, and attacked it.
+v02: He sent messengers into the city to Ahab king of Israel.
+v03: His message was: “This is what Ben-hadad says: Your silver and gold are mine. Your wives and your finest sons are mine too.”
+v04: The king of Israel answered, “As you say, my lord the king. I and all I have are yours.”
 </p>
 
 <p>
-v02: He sent messengers into the city to Ahab king of Israel
+v05: The messengers returned and said, “This is what Ben-hadad says: I sent word that you must give me your silver, gold, wives, and sons.
+v06: But about this time tomorrow I will send my servants to you. They will search your house and your servants’ houses. Whatever is precious in your eyes, they will seize and carry away.”
 </p>
 
 <p>
-v03: and said to him, “Thus says Ben-hadad: ‘Your silver and your gold are mine; your wives also and your finest children are mine.’”
+v07: The king of Israel summoned all the land’s elders. “Please take note,” he said. “See how this man seeks our harm. He demanded my wives, sons, silver, and gold, and I did not refuse him.”
+v08: All the elders and all the people said, “Do not listen to him or agree.”
 </p>
 
 <p>
-v04: The king of Israel answered, “According to your word, my lord the king: I am yours, with all that is mine.”
+v09: He told Ben-hadad’s messengers, “Tell my lord the king: I will do everything you first asked of your servant, but I cannot do this.” The messengers left and took back his answer.
 </p>
 
 <p>
-v05: The messengers returned and said, “Thus says Ben-hadad: ‘I sent to you, saying, “You must give me your silver and your gold, your wives and your children.”
+v10: Ben-hadad sent back this message: “May the gods do this to me, and more besides, if Samaria’s dust is enough to give a handful to each of the people following me!”
+v11: The king of Israel answered, “Tell him: Someone putting on armor should not boast like someone taking it off.”
 </p>
 
 <p>
-v06: But about this time tomorrow I will send my servants to you. They will search your house and the houses of your servants, and whatever is desirable in your eyes they will put in their hands and take away.’”
+v12: Ben-hadad heard this while he and the kings were drinking in their shelters. He ordered his servants, “Take your positions!” They took their positions against the city.
+</p>
+
+## Ahab wins the first battle
+
+<p>
+v13: A prophet approached Ahab king of Israel and said, “This is what the LORD says: Do you see this great army? I am giving it into your hand today, and you will know that I am the LORD.”
+v14: “Through whom?” Ahab asked. The prophet answered, “The LORD says: Through the young attendants of the district commanders.” “Who is to begin the battle?” Ahab asked. “You,” he replied.
 </p>
 
 <p>
-v07: Then the king of Israel summoned all the elders of the land and said, “Please consider and see that this man is seeking harm. For he sent for my wives, my children, my silver, and my gold, and I did not withhold them from him.”
+v15: Ahab mustered the district commanders’ young attendants: two hundred thirty-two. After them he mustered all the troops, all the Israelites: seven thousand.
+v16: They went out at noon while Ben-hadad was drinking himself drunk in the shelters with the thirty-two kings who supported him.
+v17: The district commanders’ young attendants went out first. Ben-hadad sent scouts, who reported, “Men have come out of Samaria.”
 </p>
 
 <p>
-v08: All the elders and all the people said to him, “Do not listen, and do not consent.”
+v18: He said, “If they have come for peace, take them alive. If they have come for war, take them alive.”
+v19: The district commanders’ young attendants came out of the city, followed by the army.
 </p>
 
 <p>
-v09: So he said to Ben-hadad’s messengers, “Say to my lord the king, ‘Everything that you first demanded of your servant I will do, but this thing I cannot do.’” The messengers went and brought him word again.
+v20: Each struck down his opponent. Aram fled, and Israel pursued them. Ben-hadad king of Aram escaped on horseback with horsemen.
+v21: The king of Israel came out and struck the horses and chariots, inflicting a great defeat on Aram.
+</p>
+
+## The battle at Aphek
+
+<p>
+v22: The prophet approached the king of Israel and said, “Go, strengthen yourself. Consider carefully what you must do, because at the turn of the year the king of Aram will attack you.”
 </p>
 
 <p>
-v10: Ben-hadad sent word to him and said, “May the gods do so to me, and more also, if the dust of Samaria will be enough for handfuls for all the people who follow me.”
+v23: The king of Aram’s servants told him, “Their gods are gods of the hills. That is why they overpowered us. But if we fight them on the plain, we will surely overpower them.
+v24: Do this: remove each king from his post and put governors in their places.
+v25: Raise an army equal to the one you lost, horse for horse and chariot for chariot. We will fight them on the plain, and surely we will overpower them.” He listened and did so.
 </p>
 
 <p>
-v11: The king of Israel answered, “Tell him: ‘Let not one who puts on armor boast like one who takes it off.’”
+v26: At the turn of the year Ben-hadad mustered Aram and advanced to Aphek to fight Israel.
+v27: The Israelites were mustered and supplied, and went out to meet them. Israel camped opposite them like two little flocks of goats, while Aram filled the land.
 </p>
 
 <p>
-v12: When Ben-hadad heard this word, while he and the kings were drinking in the shelters, he said to his servants, “Take your positions.” So they took their positions against the city.
+v28: The man of God approached the king of Israel and said, “This is what the LORD says: Because Aram has said, ‘The LORD is a god of the hills, not a god of the valleys,’ I will give this whole great army into your hand. Then you will know that I am the LORD.”
 </p>
 
 <p>
-v13: Then a prophet came near to Ahab king of Israel and said, “Thus says the LORD: ‘Have you seen all this great multitude? Look, I am giving it into your hand today, and you will know that I am the LORD.’”
+v29: They camped opposite one another for seven days. On the seventh day battle began, and the Israelites struck down a hundred thousand Aramean foot soldiers in one day.
+v30: The survivors fled into Aphek, where the wall fell on twenty-seven thousand of the remaining men. Ben-hadad fled into the city and hid in an inner room.
+</p>
+
+## Ahab releases Ben-hadad
+
+<p>
+v31: His servants said, “We have heard that the kings of Israel’s house show mercy. Let us put sackcloth around our waists and ropes around our heads and go out to the king of Israel. Perhaps he will spare your life.”
+v32: They tied sackcloth around their waists and ropes around their heads and went to the king of Israel. “Your servant Ben-hadad says, ‘Please spare my life,’” they told him. Ahab answered, “Is he still alive? He is my brother.”
 </p>
 
 <p>
-v14: Ahab said, “By whom?” He said, “Thus says the LORD: ‘By the young men of the provincial commanders.’” Then he said, “Who will begin the battle?” He said, “You.”
+v33: The men took this as a favorable sign and quickly seized on his words. “Your brother Ben-hadad!” they said. “Go and bring him,” Ahab replied. Ben-hadad came out to him, and Ahab brought him up into his chariot.
+v34: Ben-hadad said, “I will return the towns my father took from your father. You may establish trading streets in Damascus, as my father did in Samaria.” Ahab answered, “On this covenant I will release you.” He made a covenant with him and let him go.
+</p>
+
+## A prophet confronts the king
+
+<p>
+v35: At the LORD’s word, one of the prophets’ company said to his companion, “Please strike me.” But the man refused.
+v36: He told him, “Because you did not listen to the LORD’s voice, a lion will strike you when you leave me.” When the man left, a lion met him and struck him down.
 </p>
 
 <p>
-v15: So he mustered the young men of the provincial commanders: they were two hundred and thirty-two. After them he mustered all the people, all the people of Israel: seven thousand.
+v37: The prophet found another man and said, “Please strike me.” The man struck him and wounded him.
+v38: Then the prophet went and waited for the king beside the road, disguised with a bandage over his eyes.
 </p>
 
 <p>
-v16: They went out at noon, while Ben-hadad was drinking himself drunk in the shelters, he and the thirty-two kings who were helping him.
+v39: As the king passed, he cried out, “Your servant went into the thick of battle. A man turned aside and brought me another man, saying, ‘Guard this man. If he goes missing, your life will be for his life, or you must pay a talent of silver.’
+v40: But while your servant was busy here and there, the man disappeared.” The king of Israel told him, “That is your sentence. You have decided it yourself.”
 </p>
 
 <p>
-v17: The young men of the provincial commanders went out first. Ben-hadad sent out scouts, and they reported to him, “Men have come out from Samaria.”
-</p>
-
-<p>
-v18: He said, “If they have come out for peace, seize them alive; and if they have come out for battle, seize them alive.”
-</p>
-
-<p>
-v19: These came out from the city: the young men of the provincial commanders, with the army following them.
-</p>
-
-<p>
-v20: Each struck down his opponent, and Aram fled. Israel pursued them, while Ben-hadad king of Aram escaped on a horse with horsemen.
-</p>
-
-<p>
-v21: The king of Israel went out and struck the horses and the chariots, inflicting a great defeat on Aram.
-</p>
-
-<p>
-v22: Then the prophet came near to the king of Israel and said to him, “Go, strengthen yourself. Consider and see what you must do, for at the turn of the year the king of Aram will come up against you.”
-</p>
-
-<p>
-v23: Now the servants of the king of Aram said to him, “Their god is a god of the hills; that is why they were stronger than we were. But let us fight them on the plain, and surely we will be stronger than they.
-</p>
-
-<p>
-v24: Do this: remove the kings, each from his post, and appoint governors in their place.
-</p>
-
-<p>
-v25: Muster for yourself an army like the army that fell from you, horse for horse and chariot for chariot. Then let us fight them on the plain, and surely we will be stronger than they.” He listened to their voice and did so.
-</p>
-
-<p>
-v26: At the turn of the year Ben-hadad mustered Aram and went up to Aphek to fight against Israel.
-</p>
-
-<p>
-v27: The people of Israel were mustered and provisioned, and they went out to meet them. The people of Israel camped opposite them like two little flocks of goats, while Aram filled the land.
-</p>
-
-<p>
-v28: Then a man of God came near and spoke to the king of Israel, saying, “Thus says the LORD: ‘Because Aram has said, “the LORD is a god of the hills, but not a god of the valleys,” I will give all this great multitude into your hand, and you will know that I am the LORD.’”
-</p>
-
-<p>
-v29: They camped opposite one another for seven days. On the seventh day the battle drew near, and the people of Israel struck down one hundred thousand Aramean foot soldiers in one day.
-</p>
-
-<p>
-v30: People who remained fled to Aphek, into the city; and the wall fell on twenty-seven thousand of the remaining men. Ben-hadad fled and entered the city, into an inner room.
-</p>
-
-<p>
-v31: His servants said to him, “Look, please, we have heard that the kings of the house of Israel are kings of steadfast love. Let us, please, put sackcloth around our waists and ropes on our heads, and go out to the king of Israel. Perhaps he will let you live.”
-</p>
-
-<p>
-v32: So they fastened sackcloth around their waists and ropes on their heads, and came to the king of Israel. They said, “Your servant Ben-hadad says, ‘Please let me live.’” He said, “Is he still alive? He is my brother.”
-</p>
-
-<p>
-v33: The men took this as an omen and quickly seized on it from him. They said, “Your brother Ben-hadad.” He said, “Come, bring him.” Ben-hadad came out to him, and Ahab had him come up into the chariot.
-</p>
-
-<p>
-v34: Ben-hadad said to him, “The cities that my father took from your father I will restore. You may establish streets for yourself in Damascus, as my father established them in Samaria.” Ahab said, “On the basis of a covenant, I will send you away.” So he made a covenant with him and sent him away.
-</p>
-
-<p>
-v35: Now one man from among the sons of the prophets said to his companion by the word of the LORD, “Please strike me.” But the man refused to strike him.
-</p>
-
-<p>
-v36: Then he said to him, “Because you have not listened to the voice of the LORD, look, when you leave me, a lion will strike you.” When he left him, a lion found him and struck him down.
-</p>
-
-<p>
-v37: Then he found another man and said, “Please strike me.” So the man struck him, striking and wounding him.
-</p>
-
-<p>
-v38: The prophet went and stood waiting for the king along the road. He disguised himself with a bandage over his eyes.
-</p>
-
-<p>
-v39: As the king was passing by, he cried out to the king and said, “Your servant went out into the midst of the battle, and look, a man turned aside and brought a man to me. He said, ‘Guard this man. If he should be missing, then your life will be for his life, or you will weigh out a talent of silver.’
-</p>
-
-<p>
-v40: But while your servant was busy here and there, he was gone.” The king of Israel said to him, “So is your judgment; you yourself have decided it.”
-</p>
-
-<p>
-v41: Then he quickly removed the bandage from over his eyes, and the king of Israel recognized that he was one of the prophets.
-</p>
-
-<p>
-v42: He said to him, “Thus says the LORD: ‘Because you have let go from your hand the man devoted to me for destruction, your life will be for his life, and your people for his people.’”
-</p>
-
-<p>
-v43: The king of Israel went to his house sullen and troubled, and came to Samaria.
+v41: The prophet quickly removed the bandage from his eyes, and the king of Israel recognized him as one of the prophets.
+v42: He told the king, “This is what the LORD says: Because you let the man I devoted to destruction escape from your hand, your life will be for his life, and your people for his people.”
+v43: The king of Israel went home to Samaria, sullen and angry.
 </p>
 
 ## Notes
 
+v02–03: The division follows the pinned Hebrew: the messengers are sent in verse 2, and their message is given in verse 3.
 
+v03: The Hebrew adjective “finest” or “best” follows “wives and sons”; its scope may include both groups.
+
+v23,28: The Arameans’ claim about gods of hills is their explanation for defeat. The later prophetic answer specifically names the LORD. The voices are kept distinct.
+
+v29–30: The account gives one hundred thousand foot soldiers killed in one day and twenty-seven thousand men under the falling wall. These large numbers are preserved.
+
+v31–32: The source places the ropes on their heads, without specifying how they were worn. It is not changed to “around their necks.”
+
+v34: The exchange switches speakers without naming them. The draft identifies Ben-hadad’s offer and Ahab’s release terms; “trading streets” interprets the streets as a commercial concession.
+
+v38: The word here denotes a bandage or head covering, not ashes.
+
+v42: The prophet calls Ben-hadad a man devoted to destruction. The chapter has not previously quoted an order to Ahab using those words.
 
 ## Vocabulary
 
-v11: חָגַר (ḥāgar)
-“to gird on.” In the proverb, fastening on armor marks a warrior before combat, in contrast to one who has already unfastened it after battle.
+v35: Company of prophets
+Literally “sons of the prophets,” expressing membership in a prophetic group.
 
-v23: מִישׁוֹר (mîshôr)
-“plain, level land.” Aram’s advisers treat the terrain as the decisive factor because they imagine Israel’s God to be restricted to the hills.
-
-v31: חֶסֶד (ḥesed)
-“steadfast love, loyal mercy.” Ben-hadad’s servants characterize Israel’s kings as rulers known for merciful loyalty and appeal to that reputation for his life.
-
-v34: בְּרִית (berit)
-“covenant.” Ahab formalizes an agreement with Ben-hadad and sends him away, an act later judged by Yahweh’s prophetic word.
-
-v42: חֵרֶם (ḥerem)
-“that which is devoted.” Here it describes the Aramean king as one set apart to Yahweh for judgment, not as an object available for Ahab’s diplomatic disposal.
+v39: Talent of silver
+A substantial weight of silver demanded as the alternative to the guard’s life; it is not converted into modern currency.

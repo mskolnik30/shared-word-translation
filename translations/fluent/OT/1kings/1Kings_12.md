@@ -4,143 +4,119 @@ testament: OT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1kings-2-21-biblical-fluency-2026-09-14
 ---
 
+## Rehoboam refuses the people
+
 <p>
-v01: Rehoboam went to Shechem, because all Israel had come to Shechem to make him king.
+v01: Rehoboam went to Shechem, where all Israel had gathered to make him king.
+v02: Jeroboam son of Nebat heard about it while he was still in Egypt, where he had fled from King Solomon. Jeroboam was living in Egypt.
 </p>
 
 <p>
-v02: When Jeroboam son of Nebat heard of it—he was still in Egypt, where he had fled from King Solomon, and Jeroboam remained in Egypt—
-
-v03: they sent and called for him. Jeroboam and the whole assembly of Israel came and spoke to Rehoboam, saying,
-
-v04: “Your father made our yoke hard. Now lighten the hard service of your father and his heavy yoke that he placed upon us, and we will serve you.”
-
-v05: He said to them, “Go away for three days, then return to me.” So the people went away.
+v03: They sent for him. Jeroboam and the whole assembly of Israel came and said to Rehoboam,
+v04: “Your father made our yoke harsh. Now lighten the harsh service and heavy yoke your father put on us, and we will serve you.”
+v05: He told them, “Go away for three days, then return to me.” So the people left.
 </p>
 
 <p>
-v06: King Rehoboam took counsel with the elders who had stood before Solomon his father while he was alive, saying, “How do you counsel me to answer this people?”
-
-v07: They spoke to him, saying, “If today you will become a servant to this people, serve them, answer them, and speak good words to them, then they will be your servants always.”
-
-v08: But he abandoned the counsel that the elders had given him and took counsel with the young men who had grown up with him and stood before him.
-
-v09: He said to them, “What do you counsel, that we may answer this people who have spoken to me, saying, ‘Lighten the yoke that your father placed upon us’?”
-
-v10: The young men who had grown up with him spoke to him, saying, “This is what you should say to this people who spoke to you, saying, ‘Your father made our yoke heavy; but you, lighten it for us.’ This is what you should say to them: ‘My little finger is thicker than my father’s waist.
-
-v11: And now, though my father loaded a heavy yoke upon you, I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions.’”
-
-v12: So Jeroboam and all the people came to Rehoboam on the third day, just as the king had said: “Return to me on the third day.”
-
-v13: The king answered the people harshly, abandoning the counsel that the elders had given him.
-
-v14: He spoke to them according to the counsel of the young men, saying, “My father made your yoke heavy, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions.”
+v06: King Rehoboam consulted the elders who had served his father Solomon during his lifetime. “How do you advise me to answer these people?” he asked.
+v07: They answered, “If today you become a servant to these people and serve them, responding with good words, they will be your servants always.”
 </p>
 
 <p>
-v15: So the king did not listen to the people, for this turn of events was from the LORD, in order to establish his word that the LORD had spoken through Ahijah the Shilonite to Jeroboam son of Nebat.
+v08: But he abandoned the elders’ advice and consulted the young men who had grown up with him and now served him.
+v09: He asked them, “What do you advise? How should we answer these people who have asked me, ‘Lighten the yoke your father put on us’?”
+</p>
 
-v16: When all Israel saw that the king had not listened to them, the people answered the king:
+<p>
+v10: The young men who had grown up with him answered, “Tell these people who said, ‘Your father made our yoke heavy; lighten it for us’: ‘My little finger is thicker than my father’s waist!
+v11: My father loaded you with a heavy yoke; I will add to it. My father disciplined you with whips; I will discipline you with scorpions.’”
+</p>
 
-“What share do we have in David?
-There is no inheritance for us in the son of Jesse.
+<p>
+v12: Jeroboam and all the people returned to Rehoboam on the third day, as the king had told them: “Return to me on the third day.”
+v13: The king answered the people harshly. He abandoned the advice the elders had given him
+v14: and spoke as the young men advised: “My father made your yoke heavy; I will add to it. My father disciplined you with whips; I will discipline you with scorpions.”
+v15: The king would not listen to the people. This turn of events came from the LORD, to fulfill the word the LORD had spoken to Jeroboam son of Nebat through Ahijah of Shiloh.
+</p>
+
+## The kingdom divides
+
+<p>
+v16: When all Israel saw that the king would not listen, the people answered him:
+“What share have we in David?
+We have no inheritance in Jesse’s son.
 To your tents, Israel!
-Now see to your own house, David!”
-
+Look after your own house now, David!”
 So Israel went to their tents.
-
-v17: Yet Rehoboam reigned over the Israelites who lived in the cities of Judah.
-
-v18: Then King Rehoboam sent Adoram, who was over the forced labor, but all Israel stoned him with stones, and he died. King Rehoboam gathered strength to get into the chariot and flee to Jerusalem.
-
-v19: So Israel rebelled against the house of David to this day.
-
-v20: When all Israel heard that Jeroboam had returned, they sent and called him to the assembly, and they made him king over all Israel. No one followed the house of David except the tribe of Judah alone.
+v17: Rehoboam continued to rule the Israelites who lived in Judah’s towns.
 </p>
 
 <p>
-v21: When Rehoboam came to Jerusalem, he assembled all the house of Judah and the tribe of Benjamin: one hundred eighty thousand chosen warriors, to fight against the house of Israel and restore the kingdom to Rehoboam son of Solomon.
-
-v22: But the word of God came to Shemaiah, the man of God, saying,
-
-v23: “Say to Rehoboam son of Solomon, king of Judah, and to all the house of Judah and Benjamin, and to the rest of the people,
-
-v24: ‘Thus says the LORD: You must not go up or fight against your brothers, the people of Israel. Let each of you return home, for this thing has come from me.’” So they listened to the word of the LORD and turned back to go, according to the word of the LORD.
+v18: King Rehoboam sent Adoram, who was over the forced labor, but all Israel stoned him to death. Rehoboam hurried into his chariot and fled to Jerusalem.
+v19: Israel has been in rebellion against David’s house to this day.
 </p>
 
 <p>
-v25: Jeroboam built up Shechem in the hill country of Ephraim and lived there. Then he went out from there and built up Penuel.
+v20: When all Israel heard that Jeroboam had returned, they summoned him to the assembly and made him king over all Israel. Only the tribe of Judah remained loyal to David’s house.
+v21: When Rehoboam reached Jerusalem, he assembled all Judah’s house and the tribe of Benjamin—a hundred eighty thousand chosen warriors—to fight Israel’s house and restore the kingdom to Rehoboam son of Solomon.
+</p>
 
-v26: Jeroboam said in his heart, “Now the kingdom will return to the house of David.
+<p>
+v22: But the word of God came to Shemaiah, the man of God:
+v23: “Say to Rehoboam son of Solomon, king of Judah, to all Judah’s house and Benjamin, and to the rest of the people:
+v24: ‘This is what the LORD says: Do not go up to fight your brothers, the Israelites. Each of you must return home, for this has come from me.’” They listened to the LORD’s word and turned back, as the LORD commanded.
+</p>
 
-v27: If this people goes up to offer sacrifices in the house of the LORD in Jerusalem, then the heart of this people will return to their lord, to Rehoboam king of Judah. They will kill me and return to Rehoboam king of Judah.”
+## Jeroboam’s worship sites
 
-v28: So the king took counsel and made two calves of gold. He said to them, “It is too much for you to go up to Jerusalem. Here are your gods, Israel, who brought you up from the land of Egypt.”
+<p>
+v25: Jeroboam fortified Shechem in Ephraim’s hill country and lived there. Then he went out from there and fortified Penuel.
+</p>
 
-v29: He placed one in Bethel, and he put the other in Dan.
+<p>
+v26: Jeroboam said in his heart, “Now the kingdom may return to David’s house.
+v27: If these people go up to offer sacrifices in the LORD’s house in Jerusalem, their hearts will turn back to their lord, Rehoboam king of Judah. They will kill me and return to Rehoboam king of Judah.”
+</p>
 
-v30: This thing became sin, and the people went before the one as far as Dan.
+<p>
+v28: After taking counsel, the king made two gold calves. He told the people, “You have gone up to Jerusalem long enough. Here are your gods, Israel, who brought you up from Egypt.”
+v29: He placed one in Bethel and the other in Dan.
+v30: This became a sin. The people went as far as Dan to appear before one of them.
+</p>
 
-v31: He made a house of high places and appointed priests from among all the people, who were not from the sons of Levi.
+<p>
+v31: He built shrines at the high places and appointed priests from among the people who were not Levites.
+</p>
 
-v32: Jeroboam made a festival in the eighth month, on the fifteenth day of the month, like the festival that was in Judah. He went up to the altar; thus he did at Bethel, sacrificing to the calves that he had made. At Bethel he stationed the priests of the high places that he had made.
-
-v33: He went up to the altar that he had made at Bethel on the fifteenth day of the eighth month, in the month that he had devised from his own heart. He made a festival for the Israelites and went up to the altar to burn incense.
+<p>
+v32: Jeroboam established a festival on the fifteenth day of the eighth month, like the festival in Judah, and went up to the altar. This is what he did at Bethel, sacrificing to the calves he had made. At Bethel he installed the priests of the high places he had made.
+v33: He went up to the altar he had made at Bethel on the fifteenth day of the eighth month—a month he had devised in his own heart. He established a festival for the Israelites and went up to the altar to burn offerings.
 </p>
 
 ## Notes
 
-v04: The people describe Solomon’s rule with the paired images of hard service and a heavy yoke. Their request is not to reject kingship but to seek relief from burdens imposed by it.
+v02–03: The pinned Hebrew says Jeroboam stayed in Egypt, then reports that the assembly sent for him. “Returned from Egypt” is not substituted in verse 2.
 
-v07: The elders urge Rehoboam to become a “servant” to the people. The passage presents humble service, good speech, and enduring royal loyalty as closely connected.
+v07: The elders link becoming the people’s servant, serving them, and having them as servants. The repeated word exposes the choice facing Rehoboam.
 
-v10: “My little finger is thicker than my father’s waist” is a boast of surpassing strength and severity. The precise body-part term may also carry a more forceful or coarse implication; the translation retains the ordinary image.
+v10–11: “My little finger” supplies “finger” for “my little one.” The boast contrasts it with his father’s waist; “scorpions” intensifies the image of a punishing whip.
 
-v11: “Scorpions” may refer literally to scorpions or, more likely, to barbed whips whose lashes were especially painful. The threat intensifies the contrast with ordinary whips.
+v20–21: Verse 20 names Judah alone; verse 21 names Judah and Benjamin. Both descriptions are retained.
 
-v15: The narrative identifies Rehoboam’s refusal as a turn of events “from the LORD,” while still portraying the king’s harsh response and rejection of counsel. It does not remove the human agency that drives the division.
+v28: The calf declaration echoes the wording about coming out of Egypt. The Hebrew uses a plural verb here; “gods” preserves that grammar without resolving everything the calves were meant to represent.
 
-v16: The people’s cry uses the language of “share” and “inheritance,” declaring that they no longer recognize a stake in David’s royal house. “To your tents” is a summons to disperse and withdraw allegiance.
-
-v18: Adoram’s role “over the forced labor” makes his death a direct rejection of the labor system at the center of the people’s complaint.
-
-v24: The command not to fight calls the divided people “your brothers,” even as the division is said to have come from the LORD.
-
-v28: Jeroboam’s proclamation deliberately echoes Israel’s deliverance from Egypt, applying exodus language to the golden calves.
-
-v30: The Hebrew wording is compressed: “the people went before the one as far as Dan.” It likely describes pilgrimage or worship associated with the calf shrine, while leaving the exact geographic sense terse.
-
-v33: The festival date is said to be one Jeroboam “devised from his own heart,” emphasizing that this cultic arrangement originates in his own purpose rather than in an instruction attributed to the LORD.
+v33: “His own heart” follows the source’s read form.
 
 ## Vocabulary
 
-v04: עֹל (*ʿol*) — “yoke.”: The yoke names the political and economic burden placed on the people under Solomon and threatened anew by Rehoboam.
+v04: Yoke
+A wooden fitting for working animals; here an image of the burdens imposed by the king.
 
-v07: עֶבֶד (*ʿeved*) — “servant.”: The elders call the king to serve the people so that they may become his servants; the reversal frames authority as service rather than domination.
-
-v15: סִבָּה (sibbâ)
-“turn of events.”: The word identifies the kingdom’s rupture as an occurrence coming from the LORD and serving the establishment of the LORD’s earlier word.
-
-v16: נַחֲלָה (*naḥălâ*) — “inheritance.”: Israel’s cry denies any inherited share in the Davidic house, expressing a break in covenantal and political belonging.
-
-v18: מַס (*mas*) — “forced labor.”: The term identifies the labor levy administered by Adoram, linking the revolt to the people’s complaint about oppressive service.
-
-v28: אֱלֹהִים (*ʾĕlōhîm*) — “gods.”: Though grammatically plural, the word in Jeroboam’s proclamation may evoke the traditional exodus declaration; the plural form preserves the text’s deliberate echo and ambiguity.
-
-v30: חַטָּאת (*ḥaṭṭāʾt*) — “sin.”: The narrator directly characterizes Jeroboam’s calf arrangement as sin, setting the theological judgment alongside its political purpose.
-
-v30: חַטָּאת (ḥaṭṭāʾt)
-“Sin.” The narrator applies the term directly to Jeroboam’s calf arrangement.
-
-v31: בָּמָה (*bāmâ*) — “high place.”: These worship sites become part of Jeroboam’s alternative religious order, together with priests not drawn from Levi.
-
-v33: לֵב (*lēv*) — “heart.”: Jeroboam devises the festival “from his own heart,” where the heart denotes inner thought, intention, and resolve.
-
-v04: עֹל (ʿol)
-“yoke.”: The yoke names the political and economic burden placed on the people under Solomon and threatened anew by Rehoboam.
-
-v07: עֶבֶד (ʿeved)
-“servant.”: The elders call the king to serve the people so that they may become his servants; the reversal frames authority as service rather than domination.
+v16: House of David
+David’s dynasty. In the people’s chant, “your own house” also turns the king’s attention back to his own concerns.
