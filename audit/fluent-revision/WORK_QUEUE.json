@@ -231,20 +231,21 @@
       "scope": "Joshua 1–8",
       "verses": 186,
       "ledger": "audit/fluent-revision/2026-09-14-joshua-1-8/joshua-verse-review.json"
+    },
+    {
+      "scope": "Joshua 9–17",
+      "verses": 256,
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-9-17/joshua-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Joshua 9–12",
-      "action": "Continue from the verified Joshua source: Gibeonites, southern and northern campaigns, kings list. Preserve oaths, forced labor, violence, cosmic imagery, place names and numbers."
-    },
-    {
-      "scope": "Joshua 13–24",
-      "action": "Revise the land allotments and concluding covenant narratives in connected complete-chapter batches, preserving every source record and geographical detail."
+      "scope": "Joshua 18–24",
+      "action": "Continue a larger connected batch: remaining tribal allotments, refuge and Levitical towns, eastern tribes and altar, farewell and covenant. Read all 216 source verses; preserve every place, number, relationship, speech and consequential ambiguity."
     },
     {
       "scope": "Joshua whole-book consistency review",
-      "action": "Structural scan and selected source-based review of recurring language, names, numbers, land claims, surviving peoples, covenant and memory; distinguish self-check from independent review."
+      "action": "Source-based authoring self-check of recurring language, names, totals, boundary descriptions, conquest and remaining peoples, covenant and instruction. Rebind changed earlier chapters and keep independent review pending."
     }
   ],
   "standards": [

@@ -4,88 +4,73 @@ testament: OT
 chapter: 17
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-9-17-biblical-fluency-2026-09-14
 ---
 
-## The Allotment of Manasseh
+## Manasseh’s inheritance
 
 <p>
-v01: The lot was for the tribe of Manasseh, for he was Joseph’s firstborn. Machir, firstborn of Manasseh and father of Gilead, received Gilead and Bashan because he was a man of war.
-
-v02: The lot was also for the rest of the children of Manasseh according to their clans: for the children of Abiezer, the children of Helek, the children of Asriel, the children of Shechem, the children of Hepher, and the children of Shemida. These were the male descendants of Manasseh son of Joseph according to their clans.
+v01: An allotment also went to the tribe of Manasseh, Joseph’s firstborn. Machir, Manasseh’s firstborn and the father of Gilead, had received Gilead and Bashan because he was a warrior.
+v02: The rest of Manasseh’s descendants received allotments by their clans: the descendants of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These were the male descendants of Manasseh son of Joseph, by their clans.
 </p>
 
-## The Daughters of Zelophehad
+## Zelophehad’s daughters receive land
 
 <p>
-v03: Yet Zelophehad son of Hepher, son of Gilead, son of Machir, son of Manasseh, had no sons, but only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
-
-v04: They came near before Eleazar the priest, Joshua son of Nun, and the leaders, saying, “The LORD commanded Moses to give us an inheritance among our brothers.” So according to the command of the LORD he gave them an inheritance among their father’s brothers.
-
-v05: Thus ten portions fell to Manasseh, besides the land of Gilead and Bashan that is beyond the Jordan,
-
-v06: because the daughters of Manasseh received an inheritance among his sons. The land of Gilead belonged to the rest of the children of Manasseh.
+v03: Now Zelophehad son of Hepher, son of Gilead, son of Machir, son of Manasseh, had no sons, only daughters. Their names were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+v04: They approached Eleazar the priest, Joshua son of Nun, and the leaders. “The LORD commanded Moses to give us an inheritance among our relatives,” they said. So Joshua gave them an inheritance among their father’s brothers, as the LORD had commanded.
+v05: Ten portions fell to Manasseh, besides the land of Gilead and Bashan across the Jordan,
+v06: because Manasseh’s daughters received an inheritance among his sons. The land of Gilead belonged to the rest of Manasseh’s descendants.
 </p>
 
-## The Boundary of Manasseh
+## Manasseh’s boundaries and towns
 
 <p>
-v07: The border of Manasseh was from Asher to Michmethath, which is east of Shechem. The border went southward to the inhabitants of En-Tappuah.
-
-v08: The land of Tappuah belonged to Manasseh, but Tappuah on the border of Manasseh belonged to the children of Ephraim.
-
-v09: The border went down to the Wadi Kanah. South of the wadi, cities belonging to Ephraim were among the cities of Manasseh. The border of Manasseh was north of the wadi, and it ended at the sea.
-
-v10: Southward belonged to Ephraim and northward to Manasseh, with the sea as its border. They reached Asher on the north and Issachar on the east.
-
-v11: In Issachar and Asher Manasseh had Beth-Shean and its villages, Ibleam and its villages, the inhabitants of Dor and its villages, the inhabitants of En-Dor and its villages, the inhabitants of Taanach and its villages, and the inhabitants of Megiddo and its villages—the three heights.
-
-v12: Yet the children of Manasseh were not able to possess these cities, and the Canaanites persisted in living in that land.
-
-v13: When the children of Israel became strong, they put the Canaanites to forced labor, but they did not drive them out completely.
+v07: Manasseh’s boundary ran from Asher to Michmethath, opposite Shechem. From there it turned south toward the people of En-tappuah.
+v08: The land around Tappuah belonged to Manasseh, but Tappuah itself, on Manasseh’s boundary, belonged to Ephraim’s descendants.
+v09: The boundary descended to the Wadi Kanah. South of the wadi were towns belonging to Ephraim among Manasseh’s towns. Manasseh’s boundary was on the north side of the wadi and ended at the sea.
+v10: The land to the south belonged to Ephraim, and the land to the north to Manasseh, with the sea as their boundary. They reached Asher on the north and Issachar on the east.
+v11: Within Issachar and Asher, Manasseh had Beth-shean and its dependent towns, Ibleam and its dependent towns, and the inhabitants of Dor, En-dor, Taanach, and Megiddo, each with its dependent towns—the three heights.
 </p>
 
-## The Children of Joseph Ask for More Land
+<p>
+v12: Yet Manasseh’s descendants could not take possession of these towns. The Canaanites were determined to remain in that land.
+v13: When the Israelites grew strong, they subjected the Canaanites to forced labor, but they still did not drive them out.
+</p>
+
+## Joseph’s descendants ask for more land
 
 <p>
-v14: The children of Joseph spoke to Joshua, saying, “Why have you given me only one lot and one portion as an inheritance, since I am a numerous people, because the LORD has blessed me until now?”
+v14: Joseph’s descendants said to Joshua, “Why have you given us only one allotment, one portion, as an inheritance? We are a numerous people, since the LORD has blessed us all this time.”
+v15: Joshua replied, “If you are so numerous, go up into the forest and clear land for yourselves there, in the land of the Perizzites and the Rephaim, since the hill country of Ephraim is too cramped for you.”
+v16: Joseph’s descendants answered, “The hill country is not enough for us. And all the Canaanites who live in the valley have iron chariots, both those in Beth-shean and its dependent towns and those in the Valley of Jezreel.”
+</p>
 
-v15: Joshua said to them, “If you are a numerous people, go up for yourself to the forest and clear land for yourself there in the land of the Perizzites and the Rephaim, since the hill country of Ephraim is too narrow for you.”
-
-v16: The children of Joseph said, “The hill country is not enough for us, and all the Canaanites who live in the valley land have iron chariots, both those in Beth-Shean and its villages and those in the Valley of Jezreel.”
-
-v17: Joshua spoke to the house of Joseph, to Ephraim and Manasseh, saying, “You are a numerous people and have great strength. You will not have only one lot.
-
-v18: But the hill country will be yours. Though it is a forest, you will clear it, and its farthest limits will be yours. For you will drive out the Canaanites, though they have iron chariots and though they are strong.”
+<p>
+v17: Joshua said to Joseph’s household, to Ephraim and Manasseh, “You are a numerous people, and you have great strength. You will have more than one allotment.
+v18: The hill country will be yours. Though it is forest, you must clear it, and its farthest reaches will be yours. You will drive out the Canaanites, even though they have iron chariots and are strong.”
 </p>
 
 ## Notes
 
-v03–06: The daughters of Zelophehad receive land in accordance with the earlier ruling given through Moses. Their inheritance is integrated into the tribal distribution rather than treated as an exception outside it.
+v03–06: The daughters’ claim follows the inheritance decision in Numbers 27:1–11. Their broader “brothers” in verse 4 is rendered relatives; “their father’s brothers” retains the more specific relationship.
 
-v05: The “ten portions” count Manasseh’s family divisions west of the Jordan while distinguishing the eastern territory already assigned.
+v07: “South” renders the Hebrew “right.” In an eastward orientation, the right side is south.
 
-v11: Manasseh’s cities lie within the broader territories of Issachar and Asher, demonstrating the complexity of tribal geography.
+v11: “The three heights” is a difficult ending to a list of six named places. It may designate three districts or hill sites; the exact reference is uncertain.
 
-v12–13: As elsewhere, failure to drive out the Canaanites becomes coexistence and forced labor rather than full possession.
-
-v14–18: Joseph’s descendants appeal to their numerical strength as reason for more land. Joshua responds by turning their claimed strength into a responsibility to clear and possess difficult territory.
+v12–13,18: The account distinguishes inability to take the towns, later forced labor without expulsion, and Joshua’s assurance that the Canaanites can be driven out. None of these notices is removed.
 
 ## Vocabulary
 
-v01: בְּכוֹר (bekhor)
-“Firstborn.” Manasseh is named as Joseph’s firstborn.
-
-v04: נַחֲלָה (nachalah)
-“Inheritance.” The daughters of Zelophehad receive a territorial portion.
-
 v05: חֶבֶל (chevel)
-“Portion” or “territorial allotment.” A measured share of land.
+Cord, measured portion, or allotment. Here ten portions of land, besides the eastern territory.
 
-v12: יָאַל (ya'al)
-“To be willing” or “persist.” The Canaanites persist in living in the land.
+v11: בָּנוֹת (banoth)
+Daughters. In settlement lists, the dependent towns of a larger town.
 
-v16: רֶכֶב בַּרְזֶל (rekhev barzel)
-“Iron chariots.” A symbol of Canaanite military strength.
-
-v18: בָּרָא (bara)
-“To clear” or “cut down.” Used of clearing forested hill country.
+v15: בָּרָא (bara)
+Clear or cut down, in this form and setting. Joshua tells Joseph’s descendants to clear forest land.

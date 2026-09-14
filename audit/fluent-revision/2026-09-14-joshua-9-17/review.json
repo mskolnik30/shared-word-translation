@@ -1,0 +1,112 @@
+{
+  "scope": "Joshua 9–17",
+  "revision_id": "fluent-joshua-9-17-biblical-fluency-2026-09-14",
+  "base_commit": "6600d692480e490e8ebccbadd51c716fe81fc037",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Josh",
+    "book_verse_count": 658,
+    "scope_chapters": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "sha256": "d32a65fc6dc7207625c05ddcd133a0833a0c48e3d2343ba6fff4e01be9d5beaf",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Josh.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including all written/read and other notes, not normalized reconstructions.",
+    "public_versification_note": "Public Joshua 9–17 and Hebrew source references align one to one. All 256 original source records are bound exactly once."
+  },
+  "authoring_review": {
+    "all_source_verses_read": 256,
+    "all_tsw_comparator_verses_read_after_drafting": 256,
+    "focused_second_source_comparisons": 53,
+    "review_type": "Translation authoring and focused self-check; no independent reviewer or reader testing."
+  },
+  "completed_work": [
+    "Source-first connected draft of nine complete chapters: 256 verses, each with before/after wording, TSW comparator, exact original Hebrew record hash and individual rationale.",
+    "Selective Notes and Vocabulary maintain recurring biblical terms and explain consequential uncertainty.",
+    "The campaign repetitions, sun-and-moon poem, all royal entries and geographical lists remain present.",
+    "All 47 cumulative ledger audits passed, totaling 6,402 verses across 209 chapters. Structural, translation-family, focused assertions, name-order checks and diff checks passed."
+  ],
+  "key_decisions": [
+    "9:4 retains a traditional envoy interpretation of the difficult pinned verb with the provisions-reading alternative noted. 9:14 does not specify tasting or inspecting.",
+    "9 keeps the Gibeonites’ fear of death, binding oath, curse and enduring enslavement; service language is distinguished by context.",
+    "10:10 keeps the LORD as continuing grammatical subject, notes the possible agent shift; 10:12–13 retains the poem and cosmic imagery without a physical explanation.",
+    "10:15,43 retain identical return notices in their given positions. 10:26 explicitly places killing before hanging on five trees; sunset removal follows.",
+    "10–11 keep exhaustive destruction statements, all breathing victims, named survivors and remaining peoples. Horse hamstringing is not euphemized.",
+    "11:20 preserves divine hardening and no mercy; 11:23’s whole-land rest remains beside 13:1’s unfinished possession.",
+    "12 keeps every one in the thirty-one-king tally, Shimron-meron as one entry, Lasharon and Goiim in Gilgal with notes.",
+    "13 distinguishes Levi’s offerings inheritance from the LORD himself, retains the half-tribes and sixty Jair settlements, and documents Lidbir and boundary syntax.",
+    "14 retains Caleb’s forty, forty-five and eighty-five figures and the perhaps in his request.",
+    "15 retains Othniel’s ambiguous kinship phrase, Achsah’s agency and both springs; the implied Othniel in 15:18 is made explicit while noting the alternate referent.",
+    "15 retains the name lists despite stated totals of twenty-nine and fourteen that differ from the listed thirty-six and fifteen. Source spellings Lahmas, Kiriath-sannah and reading-tradition Janum are preserved.",
+    "16 retains Bethel-to-Luz and difficult boundary syntax with notes; Ephraim’s enclaves and Canaanite forced labor remain.",
+    "17 retains all five daughters and their lineage, ten portions, town-versus-land ownership, six named places with the uncertain three heights, and the iron-chariot obstacle."
+  ],
+  "remaining_review_questions": [
+    "Independent Hebrew review is still required for 9:4, 10:10, 12:2–3,18,23, 13:3–4,8,23,26–27, 15:17–18,32,36, and 16:5–6; 17:7,9,11.",
+    "The three heights at 17:11 and discrepancies in Joshua 15’s town totals remain unresolved.",
+    "Joshua’s recurring vocabulary, boundary descriptions and conquest/remaining-land statements need whole-book authoring consistency review after chapters 18–24.",
+    "Reader comprehension and sustained listening have not been tested; similarity metrics cannot certify independent authorship, fidelity or biblical fluency."
+  ],
+  "overlap": {
+    "before": {
+      "identical": 243,
+      "near_identical_nonidentical": 13
+    },
+    "after": {
+      "identical": 41,
+      "near_identical_nonidentical": 15
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse overlap is triage only, not fidelity, originality, comprehension or independent approval.",
+  "companion_impact": {
+    "changed_chapters": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "cumulative_joshua_revised_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "action": "Reconcile Fluent quotations and source bindings during later authorized Companion installation.",
+    "separate_companion_branch_changed": false
+  },
+  "github_write_status": "Previously authorized writes blocked by authentication/integration access; no rejected write retried.",
+  "next_scope": "Joshua 18–24"
+}

@@ -4,57 +4,47 @@ testament: OT
 chapter: 16
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-9-17-biblical-fluency-2026-09-14
 ---
 
-## The Allotment of Joseph
+## Joseph’s allotment
 
 <p>
-v01: The lot for the children of Joseph went out from the Jordan at Jericho, east of the waters of Jericho, into the wilderness, going up from Jericho through the hill country to Bethel.
-
-v02: It went out from Bethel to Luz and crossed to the border of the Archites at Ataroth.
-
-v03: Then it went down westward to the border of the Japhletites as far as the border of Lower Beth-Horon, then to Gezer, and it ended at the sea.
-
-v04: So the children of Joseph, Manasseh and Ephraim, received their inheritance.
+v01: The allotment for Joseph’s descendants ran from the Jordan at Jericho, east of the waters of Jericho, through the wilderness that rises from Jericho into the hill country at Bethel.
+v02: From Bethel it went to Luz, then passed into the territory of the Archites at Ataroth.
+v03: It descended west to the territory of the Japhletites, as far as Lower Beth-horon and Gezer, and ended at the sea.
+v04: So Joseph’s descendants, Manasseh and Ephraim, received their inheritance.
 </p>
 
-## The Territory of Ephraim
+## Ephraim’s inheritance
 
 <p>
-v05: The territory of the children of Ephraim according to their clans was this: the border of their inheritance toward the east was Ataroth-Addar as far as Upper Beth-Horon.
+v05: This was the territory of Ephraim’s descendants by their clans. The boundary of their inheritance on the east ran from Ataroth-addar to Upper Beth-horon.
+v06: The boundary went toward the sea, with Michmethath on the north. It turned east to Taanath-shiloh and passed beyond it on the east to Janoah.
+v07: From Janoah it descended to Ataroth and Naarah, reached Jericho, and came out at the Jordan.
+v08: From Tappuah the boundary went west to the Wadi Kanah and ended at the sea. This was the inheritance of the tribe of Ephraim’s descendants by their clans,
+v09: including the towns set apart for Ephraim’s descendants within the inheritance of Manasseh’s descendants—all those towns and their villages.
+</p>
 
-v06: The border went out toward the sea. Michmethath was on the north. The border turned eastward to Taanath-Shiloh and passed beyond it eastward to Janoah.
-
-v07: It went down from Janoah to Ataroth and Naarah, reached Jericho, and went out at the Jordan.
-
-v08: From Tappuah the border went westward to the Wadi Kanah and ended at the sea. This is the inheritance of the tribe of the children of Ephraim according to their clans,
-
-v09: together with the cities set apart for the children of Ephraim within the inheritance of the children of Manasseh, all the cities with their villages.
-
-v10: But they did not drive out the Canaanites who lived in Gezer. So the Canaanites have lived among Ephraim to this day and became forced labor.
+<p>
+v10: But they did not drive out the Canaanites living in Gezer. The Canaanites have lived among Ephraim to this day, subjected to forced labor.
 </p>
 
 ## Notes
 
-v01–04: The allotment of Joseph is introduced before Ephraim and Manasseh are treated separately, preserving their shared identity as Joseph’s descendants.
+v02: The boundary runs from Bethel to Luz here. The names are retained in sequence, although other passages identify Luz as Bethel’s earlier name.
 
-v09: Ephraim holds enclaves within Manasseh’s wider territory, showing that tribal boundaries did not always form simple continuous blocks.
+v05–06: The directional clauses are compressed, especially the relation of Michmethath to the seaward boundary. The translation keeps the named directions and places without reconstructing a map.
 
-v10: Ephraim’s inability or unwillingness to drive out Gezer ends in forced labor rather than complete displacement, a pattern repeated in Judges 1.
+v09–10: Ephraim receives towns within Manasseh’s inheritance, while Canaanites remain in Gezer under forced labor. An allotted territory and complete expulsion are distinct in the account.
 
 ## Vocabulary
 
-v01: גּוֹרָל (goral)
-“Lot” or “allotment.” The assigned territorial portion.
+v04: נַחֲלָה (nachalah)
+Inheritance. The shared Joseph heading introduces the separate Manasseh and Ephraim allotments.
 
-v04: נָחַל (nachal)
-“To receive as inheritance.” To possess an allotted portion.
-
-v08: נַחַל קָנָה (Nachal Qanah)
-“Wadi Kanah.” A boundary stream between tribal territories.
-
-v09: מִבְדָּל (mivdal)
-“Set apart” or “separated.” Used of cities assigned within another tribe’s territory.
-
-v10: מַס־עֹבֵד (mas-oved)
-“Forced labor.” Compulsory labor imposed upon the remaining Canaanites.
+v10: מַס (mas)
+Forced labor or a labor levy. The Canaanites’ continued residence is accompanied by coerced service.

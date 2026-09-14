@@ -4,159 +4,130 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-9-17-biblical-fluency-2026-09-14
 ---
 
-## Five Kings Attack Gibeon
+## Five kings attack Gibeon
 
 <p>
-v01: When Adoni-Zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction, doing to Ai and its king as he had done to Jericho and its king, and that the inhabitants of Gibeon had made peace with Israel and were among them,
-
-v02: he was very afraid, because Gibeon was a great city, like one of the royal cities, and because it was greater than Ai and all its men were warriors.
-
-v03: So Adoni-Zedek king of Jerusalem sent to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon, saying,
-
-v04: “Come up to me and help me, and let us strike Gibeon, for it has made peace with Joshua and with the children of Israel.”
-
-v05: So the five kings of the Amorites—the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon—gathered together and went up, they and all their armies, and camped against Gibeon and fought against it.
+v01: Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction, treating Ai and its king as he had treated Jericho and its king. He also heard that Gibeon’s people had made peace with Israel and were living among them.
+v02: They were deeply afraid. Gibeon was a great city, like one of the royal cities; it was larger than Ai, and all its men were warriors.
+v03: Adoni-zedek king of Jerusalem sent this message to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon:
+v04: “Come up and help me attack Gibeon, because it has made peace with Joshua and the Israelites.”
+v05: The five Amorite kings—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon—joined forces and advanced with all their armies. They camped against Gibeon and attacked it.
 </p>
 
-## Joshua Comes to Gibeon
+## Joshua comes to Gibeon’s aid
 
 <p>
-v06: The men of Gibeon sent to Joshua at the camp at Gilgal, saying, “Do not withdraw your hands from your servants. Come up to us quickly, save us, and help us, for all the kings of the Amorites who live in the hill country have gathered against us.”
-
-v07: So Joshua went up from Gilgal, he and all the people of war with him, and all the mighty warriors.
-
-v08: The LORD said to Joshua, “Do not fear them, for I have given them into your hand. Not a man of them will stand before you.”
-
-v09: Joshua came upon them suddenly, having marched up all night from Gilgal.
-
-v10: The LORD threw them into confusion before Israel, and Israel struck them with a great slaughter at Gibeon and pursued them by the way of the ascent of Beth-Horon and struck them as far as Azekah and Makkedah.
-
-v11: As they fled before Israel, while they were on the descent of Beth-Horon, the LORD threw large stones from heaven upon them as far as Azekah, and they died. More died from the hailstones than the children of Israel killed with the sword.
+v06: The men of Gibeon sent word to Joshua at the camp in Gilgal: “Do not withdraw your hand from your servants! Come up quickly; save us and help us. All the Amorite kings of the hill country have gathered against us.”
+v07: Joshua marched up from Gilgal with all the fighting men, including all the mighty warriors.
+v08: The LORD told Joshua, “Do not be afraid of them. I have given them into your hand; not one of them will stand against you.”
+v09: Joshua came upon them suddenly after marching all night from Gilgal.
+v10: The LORD threw them into panic before Israel and dealt them a crushing defeat at Gibeon. He pursued them along the road up to Beth-horon and struck them down as far as Azekah and Makkedah.
+v11: As they fled from Israel down the slope of Beth-horon, the LORD hurled great stones from heaven on them all the way to Azekah, and they died. More died from the hailstones than the Israelites killed with the sword.
 </p>
 
-## Sun, Stand Still
+## Sun and moon stand still
 
 <p>
-v12: Then Joshua spoke to the LORD on the day when the LORD gave the Amorites before the children of Israel, and he said in the sight of Israel:
-
-“Sun, stand still over Gibeon,
-and moon, over the Valley of Aijalon.
-
-v13: And the sun stood still,
+v12: On the day the LORD gave the Amorites over to the Israelites, Joshua spoke to the LORD. In the sight of Israel he said:
+“Sun, stand still over Gibeon;
+moon, over the Valley of Aijalon.”
+v13: The sun stood still,
 and the moon stopped,
-until the nation took vengeance on its enemies.”
-
-Is this not written in the Book of Jashar?
-
-The sun stopped in the middle of heaven and did not hurry to set for about a whole day.
-
-v14: There was no day like it before or after it, when the LORD listened to the voice of a man, for the LORD fought for Israel.
-
-v15: Then Joshua returned, and all Israel with him, to the camp at Gilgal.
+until the nation took vengeance on its enemies.
+Is this not written in the Book of Jashar? The sun stopped in the middle of the sky and did not hurry to set for about a full day.
+v14: There has been no day like it, before or since, when the LORD listened to a man’s voice in this way. For the LORD fought for Israel.
+v15: Then Joshua and all Israel with him returned to the camp at Gilgal.
 </p>
 
-## The Five Kings Hide in a Cave
+## The five kings in the cave
 
 <p>
-v16: These five kings fled and hid themselves in the cave at Makkedah.
-
-v17: It was told to Joshua, saying, “The five kings have been found hidden in the cave at Makkedah.”
-
-v18: Joshua said, “Roll large stones against the mouth of the cave and appoint men over it to guard them.
-
-v19: But you, do not stop. Pursue your enemies and strike their rear. Do not allow them to enter their cities, for the LORD your God has given them into your hand.”
-
-v20: When Joshua and the children of Israel had finished striking them with a very great slaughter until they were consumed, and the survivors who remained of them had entered the fortified cities,
-
-v21: all the people returned to Joshua at the camp at Makkedah in peace. No one sharpened his tongue against any of the children of Israel.
+v16: The five kings had fled and hidden in the cave at Makkedah.
+v17: Joshua was told, “The five kings have been found hiding in the cave at Makkedah.”
+v18: He ordered, “Roll great stones across the mouth of the cave and post men there to guard them.
+v19: But do not stop. Pursue your enemies and strike their rear. Do not let them reach their towns, for the LORD your God has given them into your hands.”
+v20: Joshua and the Israelites struck them down in a crushing defeat until they were finished. Yet the survivors who escaped reached the fortified towns.
+v21: All the people returned safely to Joshua at the camp in Makkedah. No one turned a sharp tongue against any Israelite.
 </p>
 
-## The Five Kings Are Executed
-
 <p>
-v22: Then Joshua said, “Open the mouth of the cave and bring out these five kings to me from the cave.”
-
-v23: They did so and brought out to him from the cave these five kings: the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon.
-
-v24: When they brought out these kings to Joshua, Joshua called all the men of Israel and said to the commanders of the men of war who had gone with him, “Come near. Put your feet on the necks of these kings.” So they came near and put their feet on their necks.
-
-v25: Joshua said to them, “Do not fear or be dismayed. Be strong and courageous, for thus the LORD will do to all your enemies against whom you fight.”
-
-v26: Afterward Joshua struck them and put them to death and hanged them on five trees. They hung on the trees until evening.
-
-v27: At the time of sunset Joshua commanded, and they took them down from the trees and threw them into the cave where they had hidden. They placed large stones against the mouth of the cave, which remain to this very day.
+v22: Joshua said, “Open the mouth of the cave and bring those five kings out to me.”
+v23: They did so, bringing out the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon from the cave.
 </p>
 
-## The Southern Campaign
-
 <p>
-v28: Joshua captured Makkedah that day and struck it and its king with the edge of the sword. He devoted them and every life in it to destruction; he left no survivor. He did to the king of Makkedah as he had done to the king of Jericho.
-
-v29: Then Joshua passed from Makkedah, and all Israel with him, to Libnah and fought against Libnah.
-
-v30: The LORD also gave it and its king into the hand of Israel. He struck it and every life in it with the edge of the sword. He left no survivor in it and did to its king as he had done to the king of Jericho.
-
-v31: Then Joshua passed from Libnah, and all Israel with him, to Lachish. He camped against it and fought against it.
-
-v32: The LORD gave Lachish into the hand of Israel, and he captured it on the second day and struck it and every life in it with the edge of the sword, according to all that he had done to Libnah.
-
-v33: Then Horam king of Gezer came up to help Lachish, and Joshua struck him and his people until he left him no survivor.
-
-v34: Joshua passed from Lachish, and all Israel with him, to Eglon. They camped against it and fought against it.
-
-v35: They captured it that day and struck it with the edge of the sword. He devoted every life in it to destruction that day, according to all that he had done to Lachish.
-
-v36: Joshua went up from Eglon, and all Israel with him, to Hebron, and they fought against it.
-
-v37: They captured it and struck it, its king, all its cities, and every life in it with the edge of the sword. He left no survivor, according to all that he had done to Eglon. He devoted it and every life in it to destruction.
-
-v38: Then Joshua turned, and all Israel with him, to Debir and fought against it.
-
-v39: He captured it, its king, and all its cities, and they struck them with the edge of the sword and devoted every life in it to destruction. He left no survivor. As he had done to Hebron, so he did to Debir and its king, and as he had done to Libnah and its king.
+v24: When the kings were brought to Joshua, he summoned all the men of Israel. He told the commanders who had gone with him, “Come here and put your feet on these kings’ necks.” They came forward and put their feet on their necks.
+v25: Joshua told them, “Do not be afraid or discouraged. Be strong and courageous, for this is what the LORD will do to all the enemies you fight.”
+v26: Afterward Joshua struck the kings and killed them, then hung them on five trees. They remained hanging there until evening.
+v27: At sunset Joshua ordered them taken down from the trees and thrown into the cave where they had hidden. Great stones were placed across its mouth; they remain there to this very day.
 </p>
 
-## Joshua Strikes the Whole Southern Land
+## The southern campaign
 
 <p>
-v40: So Joshua struck all the land: the hill country, the Negev, the foothills, and the slopes, and all their kings. He left no survivor but devoted every breathing thing to destruction, as the LORD, the God of Israel, had commanded.
+v28: That day Joshua captured Makkedah and put it and its king to the sword. He devoted them and everyone in the city to destruction, leaving no survivor. He treated Makkedah’s king as he had treated Jericho’s king.
+</p>
 
-v41: Joshua struck them from Kadesh-Barnea as far as Gaza, and all the land of Goshen as far as Gibeon.
+<p>
+v29: Joshua and all Israel with him moved on from Makkedah to Libnah and fought against it.
+v30: The LORD gave Libnah and its king into Israel’s hand too. Joshua put the city and everyone in it to the sword, leaving no survivor. He treated its king as he had treated Jericho’s king.
+</p>
 
-v42: Joshua captured all these kings and their land at one time, because the LORD, the God of Israel, fought for Israel.
+<p>
+v31: Joshua and all Israel with him moved on from Libnah to Lachish, camped against it, and attacked it.
+v32: The LORD gave Lachish into Israel’s hand. Joshua captured it on the second day and put it and everyone in it to the sword, just as he had done to Libnah.
+v33: Then Horam king of Gezer came up to help Lachish. Joshua struck him and his people down until no survivor was left.
+</p>
 
-v43: Then Joshua returned, and all Israel with him, to the camp at Gilgal.
+<p>
+v34: Joshua and all Israel with him moved on from Lachish to Eglon, camped against it, and attacked it.
+v35: They captured Eglon that day and put it to the sword. That same day Joshua devoted everyone in it to destruction, just as he had done to Lachish.
+</p>
+
+<p>
+v36: Joshua and all Israel with him went up from Eglon to Hebron and fought against it.
+v37: They captured Hebron and put it to the sword, along with its king, its dependent towns, and everyone in it. Joshua left no survivor, just as he had done to Eglon. He devoted the city and everyone in it to destruction.
+</p>
+
+<p>
+v38: Joshua and all Israel with him turned toward Debir and fought against it.
+v39: He captured Debir, its king, and all its dependent towns. They put them to the sword and devoted everyone in the city to destruction, leaving no survivor. He treated Debir and its king as he had treated Hebron, and as he had treated Libnah and its king.
+</p>
+
+<p>
+v40: Joshua struck the whole region—the hill country, the Negev, the lowlands, and the slopes—and all their kings. He left no survivor and devoted everything that breathed to destruction, as the LORD, the God of Israel, had commanded.
+v41: Joshua struck them from Kadesh-barnea to Gaza, and throughout the land of Goshen as far as Gibeon.
+v42: Joshua captured all these kings and their lands in a single campaign, because the LORD, the God of Israel, fought for Israel.
+v43: Then Joshua and all Israel with him returned to the camp at Gilgal.
 </p>
 
 ## Notes
 
-v08–11: The victory is repeatedly attributed to the LORD through promise, confusion of the enemy, and hailstones, even as Israel fights and pursues.
+v10: The LORD is the named subject, followed by singular verbs for striking and pursuing. These can also be understood with Joshua or Israel as the acting subject; the main text keeps the continuing grammatical subject.
 
-v12–14: The language of the sun and moon standing still is poetic and extraordinary. The chapter presents the event as unique and as evidence that the LORD fought for Israel.
+v12–13: The address to sun and moon and the following account retain their poetic form and cosmic images. The cited Book of Jashar means Book of the Upright; this passage does not explain the physical mechanism.
 
-v13: “Book of Jashar” — An ancient source also named elsewhere in the Hebrew Bible. The work itself has not been preserved.
+v15,43: The return to Gilgal appears in both places. The intervening account resumes the fate of the kings; the two notices are retained in their given order.
 
-v24: Placing feet on the kings’ necks is a public image of military subjugation. The narrative uses the act to strengthen Israel’s commanders for further battle.
+v21: A sharp tongue pictures hostile speech. The Hebrew is literally “sharpen his tongue”; compare the related expression in Exodus 11:7.
 
-v28–40: The repeated *herem* language is severe. TSW preserves the conquest account’s own terminology without attempting to harmonize it with later ethical frameworks.
+v26–27: The kings are killed before their bodies are hung on trees. Removal at sunset recalls Deuteronomy 21:22–23.
+
+v28–40: The repeated destruction and no-survivor statements are retained. Verse 37 again names a king of Hebron after the five kings’ deaths; the account does not explain that relationship.
 
 ## Vocabulary
 
-v10: הָמַם (hamam)
-“To confuse” or “throw into panic.” The LORD disorders the Amorite armies.
-
-v11: אֶבֶן בָּרָד (even barad)
-“Hailstone.” Literally a stone of hail.
+v06: יָד (yad)
+Hand. Withdrawing a hand means withholding help; giving enemies into a hand expresses power over them.
 
 v12: דָּמַם (damam)
-“To be still” or “stop.” Joshua commands the sun to stand still.
+Be still or silent. Here addressed to the sun, paired with the moon stopping in verse 13.
 
-v13: סֵפֶר הַיָּשָׁר (Sefer ha-Yashar)
-“Book of Jashar,” literally “Book of the Upright.” An ancient source cited by the narrative.
-
-v24: צַוָּאר (tsavvar)
-“Neck.” The conquered kings’ necks become a symbol of subjugation.
-
-v40: נְשָׁמָה (neshamah)
-“Breath” or “breathing life.” Used in the phrase concerning every breathing thing.
+v28: חֵרֶם (herem)
+Irrevocable devotion, here to destruction. The campaign repeatedly specifies the killing of everyone in the captured towns.

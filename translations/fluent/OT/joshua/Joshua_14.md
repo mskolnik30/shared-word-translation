@@ -4,76 +4,60 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-9-17-biblical-fluency-2026-09-14
 ---
 
-## The Land Is Distributed by Lot
+## The western inheritances
 
 <p>
-v01: These are the inheritances that the children of Israel received in the land of Canaan, which Eleazar the priest, Joshua son of Nun, and the heads of the ancestral houses of the tribes of the children of Israel distributed to them,
-
-v02: by lot was their inheritance, as the LORD commanded by the hand of Moses, for the nine tribes and the half-tribe.
-
-v03: For Moses had given the inheritance of the two tribes and the half-tribe beyond the Jordan, but to the Levites he gave no inheritance among them.
-
-v04: For the children of Joseph were two tribes, Manasseh and Ephraim. They gave no portion to the Levites in the land, except cities to live in, with their pasturelands for their livestock and possessions.
-
-v05: As the LORD commanded Moses, so the children of Israel did, and they divided the land.
+v01: These are the inheritances the Israelites received in the land of Canaan, allotted to them by Eleazar the priest, Joshua son of Nun, and the heads of the ancestral houses of Israel’s tribes.
+v02: Their inheritance was assigned by lot, as the LORD had commanded through Moses, for the nine and a half tribes.
+v03: Moses had already given the two and a half tribes their inheritance on the other side of the Jordan. He gave the Levites no inheritance among them.
+v04: Joseph’s descendants formed two tribes, Manasseh and Ephraim. The Levites received no share of the land except towns to live in and pasturelands for their livestock and possessions.
+v05: The Israelites divided the land just as the LORD had commanded Moses.
 </p>
 
-## Caleb Requests Hebron
+## Caleb asks for Hebron
 
 <p>
-v06: Then the children of Judah approached Joshua at Gilgal, and Caleb son of Jephunneh the Kenizzite said to him, “You know the word that the LORD spoke to Moses, the man of God, concerning me and concerning you at Kadesh-Barnea.
+v06: The people of Judah came to Joshua at Gilgal. Caleb son of Jephunneh the Kenizzite said to him, “You know what the LORD said to Moses, the man of God, about you and me at Kadesh-barnea.
+v07: I was forty years old when Moses, the LORD’s servant, sent me from Kadesh-barnea to spy out the land. I brought him back a report from my heart.
+v08: My fellow Israelites who went up with me made the people’s hearts melt, but I followed the LORD my God wholeheartedly.
+v09: That day Moses swore, ‘The land your foot has walked on will surely be an inheritance for you and your children forever, because you followed the LORD my God wholeheartedly.’
+</p>
 
-v07: I was forty years old when Moses servant of the LORD sent me from Kadesh-Barnea to spy out the land, and I brought back word to him as it was in my heart.
+<p>
+v10: Now look—the LORD has kept me alive as he promised. Forty-five years have passed since he spoke these words to Moses, while Israel was traveling in the wilderness. Here I am today, eighty-five years old!
+v11: I am still as strong today as I was when Moses sent me. My strength is the same now as then, for battle and for going out and coming in.
+v12: So give me this hill country the LORD spoke of that day. You heard then that the Anakim were there, with great fortified towns. Perhaps the LORD will be with me, and I will drive them out as he promised.”
+</p>
 
-v08: But my brothers who went up with me made the heart of the people melt, yet I fully followed the LORD my God.
-
-v09: Moses swore on that day, saying, ‘Surely the land on which your foot has trodden will be an inheritance for you and for your children forever, because you fully followed the LORD my God.’
-
-v10: And now, look, the LORD has kept me alive, as he spoke, these forty-five years from the time the LORD spoke this word to Moses while Israel walked in the wilderness. And now, look, I am eighty-five years old today.
-
-v11: I am still as strong today as I was on the day Moses sent me. As my strength was then, so my strength is now, for war and for going out and coming in.
-
-v12: Now therefore give me this hill country of which the LORD spoke on that day. For you heard on that day that the Anakim were there, with great fortified cities. Perhaps the LORD will be with me, and I will drive them out, as the LORD spoke.”
-
-v13: Then Joshua blessed him and gave Hebron to Caleb son of Jephunneh as an inheritance.
-
-v14: So Hebron became the inheritance of Caleb son of Jephunneh the Kenizzite to this day, because he fully followed the LORD, the God of Israel.
-
-v15: The name of Hebron formerly was Kiriath-Arba. Arba was the greatest man among the Anakim.
-
-And the land had rest from war.
+<p>
+v13: Joshua blessed Caleb son of Jephunneh and gave him Hebron as an inheritance.
+v14: That is why Hebron has belonged to Caleb son of Jephunneh the Kenizzite as an inheritance to this day: he followed the LORD, the God of Israel, wholeheartedly.
+v15: Hebron was formerly called Kiriath-arba, after Arba, the great man among the Anakim. Then the land rested from war.
 </p>
 
 ## Notes
 
-v02: The land is distributed “by lot,” placing territorial allocation under a process understood as discerning divine apportionment rather than mere human preference.
+v04: Joseph is counted through two tribes, Manasseh and Ephraim. Levi receives towns and pasturelands rather than a territorial share like the others.
 
-v06: Caleb is called a Kenizzite while also standing within Judah. The text preserves this ancestral designation without explaining its relationship to tribal identity.
+v07–10: Caleb recalls the spying mission and the oath recorded in Numbers 13–14 and Deuteronomy 1. His stated age of forty, the intervening forty-five years, and his present eighty-five years are all retained.
 
-v08, v14: “fully followed” literally carries the sense of filling up or following completely after the LORD. Caleb’s faithfulness is contrasted with the discouraging report of the other spies.
+v11: “Going out and coming in” is a broad expression for activity, here alongside military strength.
 
-v10: Caleb’s age links the present distribution of the land with the wilderness generation and the earlier promise at Kadesh-Barnea.
-
-v12: Caleb’s confidence remains qualified by dependence: “Perhaps the LORD will be with me.” His strength does not replace the need for divine presence.
+v12: The Hebrew says “perhaps.” Caleb’s expectation of the LORD’s presence is preserved without turning it into an unconditional claim.
 
 ## Vocabulary
 
-v02: גּוֹרָל (goral)
-“Lot.” A means used to assign or discern portions.
-
-v07: רָגַל (ragal)
-“To spy out” or “explore.” To investigate the land.
-
-v08: מָלֵא אַחֲרֵי (male acharei)
-“To fully follow.” Literally to fill after, expressing complete loyalty.
+v08: מָלֵא (male)
+Be full or fill. The expression “followed wholeheartedly” is literally filled after, describing Caleb’s allegiance.
 
 v09: נַחֲלָה (nachalah)
-“Inheritance.” A lasting territorial possession.
+Inheritance. The promised land is given to Caleb and his children as a lasting share.
 
-v12: עֲנָקִים (Anakim)
-“Anakim.” A people remembered for great stature and fortified cities.
-
-v13: בָּרַךְ (barakh)
-“To bless.” Joshua blesses Caleb before giving Hebron.
+v15: שָׁקַט (shaqat)
+Be quiet or undisturbed. The land’s rest repeats the close of 11:23.

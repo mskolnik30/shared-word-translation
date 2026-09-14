@@ -4,104 +4,80 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision: fluent-joshua-9-17-biblical-fluency-2026-09-14
 ---
 
-## The Northern Kings Gather
+## The northern kings assemble
 
 <p>
-v01: When Jabin king of Hazor heard of this, he sent to Jobab king of Madon, to the king of Shimron, to the king of Achshaph,
-
-v02: and to the kings who were in the north, in the hill country, in the Arabah south of Chinneroth, in the foothills, and in the heights of Dor on the west,
-
-v03: to the Canaanites in the east and west, the Amorites, Hittites, Perizzites, Jebusites in the hill country, and Hivites under Hermon in the land of Mizpah.
-
-v04: They went out, they and all their armies with them, a people as numerous as the sand that is on the seashore, with very many horses and chariots.
-
-v05: All these kings met together and came and camped together at the waters of Merom to fight against Israel.
+v01: When Jabin king of Hazor heard what had happened, he sent word to Jobab king of Madon, to the kings of Shimron and Achshaph,
+v02: and to the northern kings in the hill country, in the Arabah south of Chinneroth, in the lowlands, and in the heights of Dor to the west.
+v03: He also sent to the Canaanites in the east and west; the Amorites, Hittites, Perizzites, and Jebusites in the hill country; and the Hivites below Hermon in the land of Mizpah.
+v04: They came out with all their armies—a vast force, as countless as the sand on the seashore—with very many horses and chariots.
+v05: All these kings assembled and camped together beside the waters of Merom to fight Israel.
 </p>
 
-## The LORD Gives Them into Joshua’s Hand
+## Battle at the waters of Merom
 
 <p>
-v06: The LORD said to Joshua, “Do not fear them, for tomorrow about this time I will give all of them slain before Israel. You will hamstring their horses and burn their chariots with fire.”
-
-v07: So Joshua and all the people of war with him came against them suddenly by the waters of Merom and fell upon them.
-
-v08: The LORD gave them into the hand of Israel, and they struck them and pursued them as far as Great Sidon, Misrephoth-Maim, and the Valley of Mizpeh toward the east. They struck them until no survivor remained to them.
-
-v09: Joshua did to them as the LORD had spoken to him: he hamstrung their horses and burned their chariots with fire.
+v06: The LORD told Joshua, “Do not be afraid of them. By this time tomorrow I will hand all of them over, slain before Israel. Hamstring their horses and burn their chariots.”
+v07: Joshua and all the fighting men with him came upon them suddenly at the waters of Merom and attacked.
+v08: The LORD gave them into Israel’s hand. The Israelites struck them and pursued them as far as Great Sidon, Misrephoth-maim, and the Valley of Mizpeh to the east. They struck them down until no survivor remained.
+v09: Joshua did as the LORD had told him: he hamstrung their horses and burned their chariots.
 </p>
 
-## Hazor Is Burned
+## Hazor and the royal cities
 
 <p>
-v10: Joshua turned back at that time and captured Hazor and struck its king with the sword, for Hazor formerly was the head of all these kingdoms.
-
-v11: They struck every life in it with the edge of the sword, devoting them to destruction. Nothing breathing remained, and he burned Hazor with fire.
-
-v12: Joshua captured all the cities of these kings and all their kings and struck them with the edge of the sword. He devoted them to destruction, as Moses servant of the LORD had commanded.
-
-v13: Yet Israel did not burn any of the cities standing on their mounds, except Hazor alone, which Joshua burned.
-
-v14: All the plunder of these cities and the livestock the children of Israel took as plunder for themselves. But every human being they struck with the edge of the sword until they had destroyed them; they left none breathing.
+v10: At that time Joshua turned back, captured Hazor, and killed its king with the sword. Hazor had formerly been the head of all these kingdoms.
+v11: They put everyone in Hazor to the sword, devoting them to destruction. Nothing that breathed was left. Joshua burned Hazor.
+v12: Joshua captured all these royal cities and their kings. He put them to the sword and devoted them to destruction, as Moses, the LORD’s servant, had commanded.
 </p>
 
-## Joshua Carries Out What Moses Commanded
-
 <p>
-v15: As the LORD had commanded Moses his servant, so Moses commanded Joshua, and so Joshua did. He did not leave undone a word of all that the LORD had commanded Moses.
-
-v16: Thus Joshua took all that land: the hill country, all the Negev, all the land of Goshen, the foothills, the Arabah, the hill country of Israel and its foothills,
-
-v17: from Mount Halak, which rises toward Seir, as far as Baal-Gad in the Valley of Lebanon under Mount Hermon. He captured all their kings, struck them, and put them to death.
-
-v18: Joshua made war with all these kings for many days.
-
-v19: There was not a city that made peace with the children of Israel except the Hivites, the inhabitants of Gibeon. They took all in battle.
-
-v20: For it was from the LORD to harden their hearts to meet Israel in battle, so that he might devote them to destruction, that there might be no favor for them, but that he might destroy them, as the LORD had commanded Moses.
+v13: Yet Israel did not burn the cities standing on their mounds. Hazor alone was burned by Joshua.
+v14: The Israelites took all the plunder and livestock from these cities for themselves. But they put all the people to the sword until they had destroyed them, leaving no one breathing.
+v15: What the LORD commanded his servant Moses, Moses commanded Joshua, and Joshua carried it out. He left undone nothing the LORD had commanded Moses.
 </p>
 
-## The Anakim Are Cut Off
+## The campaign’s reach
 
 <p>
-v21: At that time Joshua came and cut off the Anakim from the hill country—from Hebron, Debir, Anab, and from all the hill country of Judah and all the hill country of Israel. Joshua devoted them and their cities to destruction.
+v16: Joshua took this whole region: the hill country, all the Negev, all the land of Goshen, the lowlands, the Arabah, and the hill country of Israel with its lowlands,
+v17: from Mount Halak, which rises toward Seir, to Baal-gad in the Lebanon Valley below Mount Hermon. He captured all their kings, struck them down, and killed them.
+v18: Joshua waged war against all these kings for a long time.
+v19: No city made peace with the Israelites except the Hivites living in Gibeon. Israel took all the others in battle.
+v20: It was the LORD who hardened their hearts to meet Israel in battle, so that they would be devoted to destruction without mercy and destroyed, as the LORD had commanded Moses.
+</p>
 
-v22: None of the Anakim was left in the land of the children of Israel; only in Gaza, Gath, and Ashdod did some remain.
+## The Anakim and the land’s rest
 
-v23: So Joshua took the whole land according to all that the LORD had spoken to Moses. Joshua gave it as an inheritance to Israel according to their divisions by their tribes. And the land had rest from war.
+<p>
+v21: At that time Joshua came and cut off the Anakim from the hill country—from Hebron, Debir, Anab, all the hill country of Judah, and all the hill country of Israel. He devoted them and their towns to destruction.
+v22: No Anakim remained in the land of the Israelites. They remained only in Gaza, Gath, and Ashdod.
+v23: Joshua took the whole land, just as the LORD had told Moses. He gave it to Israel as an inheritance, divided among their tribes. Then the land rested from war.
 </p>
 
 ## Notes
 
-v04: The northern coalition is described as overwhelming in number and military technology, particularly horses and chariots.
+v06,09: Hamstringing cuts a horse’s leg tendons. The command and its fulfillment both retain this harm.
 
-v06: Hamstringing the horses and burning chariots prevents Israel from incorporating the enemy’s military system into its own power.
+v13–14: The account distinguishes burning towns, taking livestock and plunder, and killing people. Only Hazor is burned among the towns described as standing on mounds.
 
-v13: The phrase “cities standing on their mounds” refers to established sites built upon earlier settlement layers. Hazor alone is explicitly burned among these northern cities.
+v20: The Hebrew attributes the hardening of the kings’ hearts to the LORD and connects it with battle and destruction without mercy. The translation preserves that attribution.
 
-v18: “many days” qualifies the compressed conquest summaries. The campaign is not portrayed as a single brief event.
-
-v20: The hardening of the kings’ hearts is a severe theological statement. The narrative attributes their decision to fight both to divine purpose and to their own military action without resolving the tension.
-
-v23: “the whole land” is followed by later chapters describing land still remaining. The summary speaks from the perspective of decisive regional victory rather than claiming every settlement has already been occupied.
+v22–23: The whole-land summary stands beside named places where Anakim remain. Chapter 13:1 will say that much land still remains to be possessed; the different claims are retained.
 
 ## Vocabulary
 
-v06: עָקַר (aqar)
-“To hamstring.” To disable a horse by cutting its leg tendons.
-
 v10: רֹאשׁ (rosh)
-“Head.” Hazor is described as the leading city of the northern coalition.
-
-v13: תֵּל (tel)
-“Mound.” A settlement mound built up over successive occupations.
-
-v15: סוּר (sur)
-“To turn aside” or “leave undone.” Joshua does not depart from what was commanded.
+Head. Used here of Hazor’s former position among the kingdoms.
 
 v20: חָזַק (chazaq)
-“To harden” or “strengthen.” Used of the kings’ hearts becoming resolved for battle.
+Be strong or make firm. Here the LORD makes their hearts firm or hard for battle.
 
-v23: נָחַל (nachal)
-“To give as inheritance” or “cause to inherit.” Joshua distributes the land among Israel.
+v23: שָׁקַט (shaqat)
+Be quiet or undisturbed. The land rests from war; the wording recurs at 14:15.

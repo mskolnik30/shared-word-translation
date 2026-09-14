@@ -1,0 +1,1134 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-14T12:01:33.360362+00:00",
+  "base_commit": "6600d692480e490e8ebccbadd51c716fe81fc037",
+  "scope": "Joshua 9–17 source binding, structure, selected risk assertions and cumulative ledger preservation",
+  "revision_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 149,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-16-17/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 50,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-18-20/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 94,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-21-22/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-23-25/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 122,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-26-27/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 80,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-1-2/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 88,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-3-4/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 100,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-5-6/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 58,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-7-8/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 115,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-9-10/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 59,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-11-12/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-13-18/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-19-24/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 182,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-25-30/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 193,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-31-36/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 228,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-1-6/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 219,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-7-12/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 161,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-13-18/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 134,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-19-26/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 179,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 266,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-1-8/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 186,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-9-17/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 9,
+      "verses": 256,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "cumulative_coverage": {
+    "chapters": 209,
+    "verses": 6402
+  },
+  "structural_chapters": [
+    {
+      "chapter": 9,
+      "verses": 27,
+      "sha256": "f06f45b66cb54e06a1f7e1943ee14fa3691ed5342c6e0b15bf661cd3217c12ac",
+      "headings": [
+        "Two responses to Israel",
+        "A covenant made at Gilgal",
+        "The deception is discovered",
+        "Lives spared, labor imposed"
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": 43,
+      "sha256": "a332591db277f8222d9cce83e5a9da99a991dcc7d59e5ce281e564fd654e89f7",
+      "headings": [
+        "Five kings attack Gibeon",
+        "Joshua comes to Gibeon’s aid",
+        "Sun and moon stand still",
+        "The five kings in the cave",
+        "The southern campaign"
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": 23,
+      "sha256": "c3253dfc9a50cb77a50c7f1615e7cbb2b26180b5e28702ed273c61657bc3b98b",
+      "headings": [
+        "The northern kings assemble",
+        "Battle at the waters of Merom",
+        "Hazor and the royal cities",
+        "The campaign’s reach",
+        "The Anakim and the land’s rest"
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": 24,
+      "sha256": "c83783360bb97f2d95af51c48227e47e5a0f0f77a6f3d97dae0240db83a175d6",
+      "headings": [
+        "Kings east of the Jordan",
+        "Kings west of the Jordan"
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": 33,
+      "sha256": "2171b2bb05fb3041bcfea31e350f72f50d2683075cce55104360d7b807fc40df",
+      "headings": [
+        "Land still to be possessed",
+        "The eastern inheritances",
+        "Reuben’s inheritance",
+        "Gad’s inheritance",
+        "Half of Manasseh’s inheritance"
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": 15,
+      "sha256": "7e03896f212925dfddfe872604ee33b7d13f0773f12e7120c4c2dd7e79dbd77c",
+      "headings": [
+        "The western inheritances",
+        "Caleb asks for Hebron"
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": 63,
+      "sha256": "4cf42229d21a446831cec92ae9f4dc336a98704853576cf6ee3b350753378c52",
+      "headings": [
+        "Judah’s boundaries",
+        "Caleb, Othniel, and Achsah",
+        "Judah’s towns",
+        "Towns in the lowlands",
+        "Towns in the hill country",
+        "Towns in the wilderness",
+        "Jebusites in Jerusalem"
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": 10,
+      "sha256": "eef6aaf9267b101f141b08ea67c6e54660c67b1128961c874bf2b3a8efd32d34",
+      "headings": [
+        "Joseph’s allotment",
+        "Ephraim’s inheritance"
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": 18,
+      "sha256": "4f13e5dea2376fa2ea25ed28f4170f6d4c9030b7dc6d006acc385951c88849d5",
+      "headings": [
+        "Manasseh’s inheritance",
+        "Zelophehad’s daughters receive land",
+        "Manasseh’s boundaries and towns",
+        "Joseph’s descendants ask for more land"
+      ]
+    }
+  ],
+  "first_source_reading_verses": 256,
+  "focused_source_reread_verses": 53,
+  "focused_assertions": {
+    "9:4": [
+      "posing as envoys",
+      "wineskins"
+    ],
+    "9:14": [
+      "took some",
+      "did not ask"
+    ],
+    "9:17": [
+      "Gibeon, Chephirah, Beeroth, and Kiriath-jearim",
+      "third day"
+    ],
+    "9:23": [
+      "cursed",
+      "slaves",
+      "always"
+    ],
+    "9:24": [
+      "destroy all its inhabitants",
+      "feared greatly for our lives"
+    ],
+    "10:3": [
+      "Hoham king of Hebron",
+      "Piram king of Jarmuth",
+      "Japhia king of Lachish",
+      "Debir king of Eglon"
+    ],
+    "10:10": [
+      "The LORD",
+      "He pursued"
+    ],
+    "10:11": [
+      "hailstones",
+      "More died"
+    ],
+    "10:13": [
+      "vengeance",
+      "Book of Jashar",
+      "about a full day"
+    ],
+    "10:14": [
+      "man’s voice"
+    ],
+    "10:20": [
+      "survivors",
+      "fortified towns"
+    ],
+    "10:21": [
+      "sharp tongue"
+    ],
+    "10:24": [
+      "feet",
+      "necks"
+    ],
+    "10:26": [
+      "killed them, then hung",
+      "five trees"
+    ],
+    "10:27": [
+      "sunset",
+      "cave"
+    ],
+    "10:32": [
+      "second day"
+    ],
+    "10:37": [
+      "king",
+      "dependent towns",
+      "everyone"
+    ],
+    "10:40": [
+      "everything that breathed",
+      "destruction"
+    ],
+    "11:6": [
+      "tomorrow",
+      "Hamstring their horses",
+      "burn their chariots"
+    ],
+    "11:13": [
+      "mounds",
+      "Hazor alone"
+    ],
+    "11:14": [
+      "livestock",
+      "all the people",
+      "no one breathing"
+    ],
+    "11:20": [
+      "LORD who hardened",
+      "without mercy"
+    ],
+    "11:22": [
+      "Gaza, Gath, and Ashdod"
+    ],
+    "11:23": [
+      "whole land",
+      "land rested from war"
+    ],
+    "12:2": [
+      "middle of the valley",
+      "half of Gilead",
+      "Jabbok"
+    ],
+    "12:23": [
+      "Goiim in Gilgal"
+    ],
+    "12:24": [
+      "Thirty-one kings"
+    ],
+    "13:1": [
+      "land still remains"
+    ],
+    "13:3": [
+      "Gaza, Ashdod, Ashkelon, Gath, and Ekron",
+      "Avvim"
+    ],
+    "13:4": [
+      "in the south",
+      "Mearah"
+    ],
+    "13:7": [
+      "nine tribes",
+      "half-tribe"
+    ],
+    "13:13": [
+      "did not drive out",
+      "Geshur",
+      "Maacath"
+    ],
+    "13:14": [
+      "offerings made by fire"
+    ],
+    "13:21": [
+      "Evi, Rekem, Zur, Hur, and Reba"
+    ],
+    "13:22": [
+      "Balaam son of Beor",
+      "diviner",
+      "killed"
+    ],
+    "13:26": [
+      "Lidbir"
+    ],
+    "13:30": [
+      "sixty towns"
+    ],
+    "13:31": [
+      "Half of Gilead",
+      "half of Machir’s"
+    ],
+    "13:33": [
+      "LORD, the God of Israel, is their inheritance"
+    ],
+    "14:7": [
+      "forty years"
+    ],
+    "14:10": [
+      "Forty-five",
+      "eighty-five"
+    ],
+    "14:12": [
+      "Perhaps",
+      "Anakim"
+    ],
+    "15:14": [
+      "Sheshai, Ahiman, and Talmai"
+    ],
+    "15:17": [
+      "Othniel son of Kenaz, Caleb’s brother"
+    ],
+    "15:18": [
+      "she urged Othniel",
+      "her father"
+    ],
+    "15:19": [
+      "blessing",
+      "upper springs",
+      "lower springs"
+    ],
+    "15:32": [
+      "twenty-nine"
+    ],
+    "15:36": [
+      "fourteen"
+    ],
+    "15:40": [
+      "Lahmas"
+    ],
+    "15:47": [
+      "Great Sea"
+    ],
+    "15:49": [
+      "Kiriath-sannah"
+    ],
+    "15:53": [
+      "Janum"
+    ],
+    "15:63": [
+      "could not drive out",
+      "Jebusites"
+    ],
+    "16:2": [
+      "From Bethel",
+      "to Luz"
+    ],
+    "16:3": [
+      "Lower Beth-horon"
+    ],
+    "16:5": [
+      "Upper Beth-horon"
+    ],
+    "16:6": [
+      "Michmethath",
+      "north",
+      "east",
+      "Janoah"
+    ],
+    "16:10": [
+      "did not drive out",
+      "forced labor"
+    ],
+    "17:3": [
+      "Mahlah, Noah, Hoglah, Milcah, and Tirzah"
+    ],
+    "17:4": [
+      "relatives",
+      "father’s brothers"
+    ],
+    "17:5": [
+      "Ten portions",
+      "besides"
+    ],
+    "17:6": [
+      "daughters",
+      "among his sons"
+    ],
+    "17:7": [
+      "opposite Shechem",
+      "south"
+    ],
+    "17:9": [
+      "South",
+      "Ephraim",
+      "north side"
+    ],
+    "17:11": [
+      "Beth-shean",
+      "Ibleam",
+      "Dor, En-dor, Taanach, and Megiddo",
+      "three heights"
+    ],
+    "17:13": [
+      "forced labor",
+      "still did not drive them out"
+    ],
+    "17:16": [
+      "iron chariots",
+      "Valley of Jezreel"
+    ],
+    "17:18": [
+      "clear it",
+      "even though"
+    ]
+  },
+  "name_and_tally_checks": [
+    {
+      "reference": "Joshua 15:21",
+      "comparator_names_in_order": [
+        "Kabzeel",
+        "Eder",
+        "Jagur"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:22",
+      "comparator_names_in_order": [
+        "Kinah",
+        "Dimonah",
+        "Adadah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:23",
+      "comparator_names_in_order": [
+        "Kedesh",
+        "Hazor",
+        "Ithnan"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:24",
+      "comparator_names_in_order": [
+        "Ziph",
+        "Telem",
+        "Bealoth"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:25",
+      "comparator_names_in_order": [
+        "Hazor-Hadattah",
+        "Kerioth-Hezron",
+        "Hazor"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:26",
+      "comparator_names_in_order": [
+        "Amam",
+        "Shema",
+        "Moladah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:27",
+      "comparator_names_in_order": [
+        "Hazar-Gaddah",
+        "Heshmon",
+        "Beth-Pelet"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:28",
+      "comparator_names_in_order": [
+        "Hazar-Shual",
+        "Beersheba",
+        "Biziothiah"
+      ],
+      "source_spelling_exceptions": {
+        "Beersheba": "Beer-sheba",
+        "Lahmam": "Lahmas",
+        "Janim": "Janum"
+      }
+    },
+    {
+      "reference": "Joshua 15:29",
+      "comparator_names_in_order": [
+        "Baalah",
+        "Iim",
+        "Ezem"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:30",
+      "comparator_names_in_order": [
+        "Eltolad",
+        "Chesil",
+        "Hormah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:31",
+      "comparator_names_in_order": [
+        "Ziklag",
+        "Madmannah",
+        "Sansannah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:32",
+      "comparator_names_in_order": [
+        "Lebaoth",
+        "Shilhim",
+        "Ain",
+        "Rimmon"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:33",
+      "comparator_names_in_order": [
+        "Eshtaol",
+        "Zorah",
+        "Ashnah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:34",
+      "comparator_names_in_order": [
+        "Zanoah",
+        "En-Gannim",
+        "Tappuah",
+        "Enam"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:35",
+      "comparator_names_in_order": [
+        "Jarmuth",
+        "Adullam",
+        "Socoh",
+        "Azekah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:36",
+      "comparator_names_in_order": [
+        "Shaaraim",
+        "Adithaim",
+        "Gederah",
+        "Gederothaim"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:37",
+      "comparator_names_in_order": [
+        "Zenan",
+        "Hadashah",
+        "Migdal-Gad"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:38",
+      "comparator_names_in_order": [
+        "Dilean",
+        "Mizpeh",
+        "Joktheel"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:39",
+      "comparator_names_in_order": [
+        "Lachish",
+        "Bozkath",
+        "Eglon"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:40",
+      "comparator_names_in_order": [
+        "Cabbon",
+        "Lahmam",
+        "Chitlish"
+      ],
+      "source_spelling_exceptions": {
+        "Beersheba": "Beer-sheba",
+        "Lahmam": "Lahmas",
+        "Janim": "Janum"
+      }
+    },
+    {
+      "reference": "Joshua 15:41",
+      "comparator_names_in_order": [
+        "Gederoth",
+        "Beth-Dagon",
+        "Naamah",
+        "Makkedah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:42",
+      "comparator_names_in_order": [
+        "Libnah",
+        "Ether",
+        "Ashan"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:43",
+      "comparator_names_in_order": [
+        "Iphtah",
+        "Ashnah",
+        "Nezib"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:44",
+      "comparator_names_in_order": [
+        "Keilah",
+        "Achzib",
+        "Mareshah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:48",
+      "comparator_names_in_order": [
+        "Shamir",
+        "Jattir",
+        "Socoh"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:49",
+      "comparator_names_in_order": [
+        "Dannah",
+        "Kiriath-Sannah",
+        "Debir"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:50",
+      "comparator_names_in_order": [
+        "Anab",
+        "Eshtemoh",
+        "Anim"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:51",
+      "comparator_names_in_order": [
+        "Goshen",
+        "Holon",
+        "Giloh"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:52",
+      "comparator_names_in_order": [
+        "Arab",
+        "Dumah",
+        "Eshan"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:53",
+      "comparator_names_in_order": [
+        "Janim",
+        "Beth-Tappuah",
+        "Aphekah"
+      ],
+      "source_spelling_exceptions": {
+        "Beersheba": "Beer-sheba",
+        "Lahmam": "Lahmas",
+        "Janim": "Janum"
+      }
+    },
+    {
+      "reference": "Joshua 15:54",
+      "comparator_names_in_order": [
+        "Humtah",
+        "Kiriath-Arba",
+        "Hebron",
+        "Zior"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:55",
+      "comparator_names_in_order": [
+        "Maon",
+        "Carmel",
+        "Ziph",
+        "Juttah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:56",
+      "comparator_names_in_order": [
+        "Jezreel",
+        "Jokdeam",
+        "Zanoah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:57",
+      "comparator_names_in_order": [
+        "Kain",
+        "Gibeah",
+        "Timnah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:58",
+      "comparator_names_in_order": [
+        "Halhul",
+        "Beth-Zur",
+        "Gedor"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:59",
+      "comparator_names_in_order": [
+        "Maarath",
+        "Beth-Anoth",
+        "Eltekon"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:60",
+      "comparator_names_in_order": [
+        "Kiriath-Baal",
+        "Kiriath-Jearim",
+        "Rabbah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:61",
+      "comparator_names_in_order": [
+        "Beth-Arabah",
+        "Middin",
+        "Secacah"
+      ],
+      "source_spelling_exceptions": {}
+    },
+    {
+      "reference": "Joshua 15:62",
+      "comparator_names_in_order": [
+        "Nibshan",
+        "En-Gedi"
+      ],
+      "source_spelling_exceptions": {}
+    }
+  ],
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "historical_provenance_and_unrelated_work_preserved": true,
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}
