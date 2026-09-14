@@ -1,0 +1,438 @@
+{
+  "qualification": "Authoring source reread, not independent editorial approval. Exact record hashes remain in the ledger.",
+  "rows": [
+    {
+      "reference": "1 Kings 22:1",
+      "delta": "F0",
+      "rationale": "Keeps the interval of peace.",
+      "source_reference": "1Kgs 22:1",
+      "source_verse_sha256": "25e4ee215d9d08332f9c3d6fb0d2ad5810a85871917a07de771c2929e1c3b6da",
+      "before": "For three years there was no war between Aram and Israel.",
+      "after": "For three years there was no war between Aram and Israel.",
+      "tsw_comparator": "For three years there was no war between Aram and Israel.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:1",
+          "hebrew": "וַ/יֵּשְׁב֖וּ שָׁלֹ֣שׁ שָׁנִ֑ים אֵ֚ין מִלְחָמָ֔ה בֵּ֥ין אֲרָ֖ם וּ/בֵ֥ין יִשְׂרָאֵֽל",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:6",
+      "delta": "F3",
+      "rationale": "Keeps approximate count and Adonai designation.",
+      "source_reference": "1Kgs 22:6",
+      "source_verse_sha256": "d7565e422b6d39ab0f4a5ecb60102aa08cc0567151f9f2b1b9a2f143e661f285",
+      "before": "So the king of Israel gathered the prophets, about four hundred men, and said to them, “Should I go against Ramoth-gilead for battle, or should I refrain?” They said, “Go up, and the Lord will give it into the hand of the king.”",
+      "after": "Israel’s king gathered about four hundred prophets and asked, “Should I go to war against Ramoth-gilead, or hold back?” “Go,” they said. “The Lord will give it into the king’s hand.”",
+      "tsw_comparator": "So the king of Israel gathered the prophets, about four hundred men, and said to them, “Should I go against Ramoth-gilead for battle, or should I refrain?” They said, “Go up, and the Lord will give it into the hand of the king.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.605263,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:6",
+          "hebrew": "וַ/יִּקְבֹּ֨ץ מֶֽלֶךְ יִשְׂרָאֵ֥ל אֶֽת הַ/נְּבִיאִים֮ כְּ/אַרְבַּ֣ע מֵא֣וֹת אִישׁ֒ וַ/יֹּ֣אמֶר אֲלֵ/הֶ֗ם הַ/אֵלֵ֞ךְ עַל רָמֹ֥ת גִּלְעָ֛ד לַ/מִּלְחָמָ֖ה אִם אֶחְדָּ֑ל וַ/יֹּאמְר֣וּ עֲלֵ֔ה וְ/יִתֵּ֥ן אֲדֹנָ֖/י בְּ/יַ֥ד הַ/מֶּֽלֶךְ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:19",
+      "delta": "F3",
+      "rationale": "Keeps the heavenly council distinct from earthly thrones.",
+      "source_reference": "1Kgs 22:19",
+      "source_verse_sha256": "09f313e7e2dac52a640e4141e8a4cc1e00ffc0ab852f62b8412a2e8d2ffe8f26",
+      "before": "Micaiah said, “Therefore hear the word of the LORD: I saw the LORD sitting on his throne, with all the host of heaven standing beside him, on his right and on his left.",
+      "after": "Micaiah continued, “Then hear the LORD’s word. I saw the LORD seated on his throne, with all heaven’s army standing beside him, to his right and left.",
+      "tsw_comparator": "Micaiah said, “Therefore hear the word of the LORD: I saw the LORD sitting on his throne, with all the host of heaven standing beside him, on his right and on his left.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:19",
+          "hebrew": "וַ/יֹּ֕אמֶר לָ/כֵ֖ן שְׁמַ֣ע דְּבַר יְהוָ֑ה רָאִ֤יתִי אֶת יְהוָה֙ יֹשֵׁ֣ב עַל כִּסְא֔/וֹ וְ/כָל צְבָ֤א הַ/שָּׁמַ֨יִם֙ עֹמֵ֣ד עָלָ֔י/ו מִ/ימִינ֖/וֹ וּ/מִ/שְּׂמֹאלֽ/וֹ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:20",
+      "delta": "F3",
+      "rationale": "Retains divine initiative in the disturbing vision.",
+      "source_reference": "1Kgs 22:20",
+      "source_verse_sha256": "820e1e1ade1ff6732a7a75ca1cce71839a6228aaf4ddd3370aeb7e60c35e4032",
+      "before": "The LORD said, ‘Who will entice Ahab, so that he may go up and fall at Ramoth-gilead?’ One said one thing, and another said another.",
+      "after": "The LORD asked, ‘Who will entice Ahab to go up and fall at Ramoth-gilead?’ One proposed this, another that.",
+      "tsw_comparator": "The LORD said, ‘Who will entice Ahab, so that he may go up and fall at Ramoth-gilead?’ One said one thing, and another said another.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.652174,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:20",
+          "hebrew": "וַ/יֹּ֣אמֶר יְהוָ֗ה מִ֤י יְפַתֶּה֙ אֶת אַחְאָ֔ב וְ/יַ֕עַל וְ/יִפֹּ֖ל בְּ/רָמֹ֣ת גִּלְעָ֑ד וַ/יֹּ֤אמֶר זֶה֙ בְּ/כֹ֔ה וְ/זֶ֥ה אֹמֵ֖ר בְּ/כֹֽה",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:21",
+      "delta": "F3",
+      "rationale": "Uses the full original Hebrew record, including the question.",
+      "source_reference": "1Kgs 22:21",
+      "source_verse_sha256": "d058d9d8ceac3648932202b572e92ec55f444c34e3ca8769e7cb2bf3d2eb4537",
+      "before": "Then the spirit came forward and stood before the LORD and said, ‘I will entice him.’ The LORD said to him, ‘How?’",
+      "after": "Then the spirit came forward and stood before the LORD. ‘I will entice him,’ it said. ‘How?’ the LORD asked.",
+      "tsw_comparator": "Then the spirit came forward and stood before the LORD and said, ‘I will entice him.’ The LORD said to him, ‘How?’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:21",
+          "hebrew": "וַ/יֵּצֵ֣א הָ/ר֗וּחַ וַֽ/יַּעֲמֹד֙ לִ/פְנֵ֣י יְהוָ֔ה וַ/יֹּ֖אמֶר אֲנִ֣י אֲפַתֶּ֑/נּוּ וַ/יֹּ֧אמֶר יְהוָ֛ה אֵלָ֖י/ו בַּ/מָּֽה",
+          "notes": [
+            "<note>KJV:1Kgs.22.22</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:22",
+      "delta": "F3",
+      "rationale": "Preserves authorization of deception without theological repair.",
+      "source_reference": "1Kgs 22:22",
+      "source_verse_sha256": "71adba5d2d8222e6bb4e9dbfb655111be0dcdf6a9aadba4a5fa7aa70ee83877a",
+      "before": "He said, ‘I will go out and become a lying spirit in the mouth of all his prophets.’ And he said, ‘You will entice him, and you will also prevail. Go out and do so.’",
+      "after": "It answered, ‘I will go and become a lying spirit in the mouths of all his prophets.’ The LORD said, ‘You will entice him and succeed. Go and do it.’",
+      "tsw_comparator": "He said, ‘I will go out and become a lying spirit in the mouth of all his prophets.’ And he said, ‘You will entice him, and you will also prevail. Go out and do so.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.707692,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:22",
+          "hebrew": "וַ/יֹּ֗אמֶר אֵצֵא֙ וְ/הָיִ֨יתִי֙ ר֣וּחַ שֶׁ֔קֶר בְּ/פִ֖י כָּל נְבִיאָ֑י/ו וַ/יֹּ֗אמֶר תְּפַתֶּה֙ וְ/גַם תּוּכָ֔ל צֵ֖א וַ/עֲשֵׂה כֵֽן",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:23",
+      "delta": "F3",
+      "rationale": "Keeps the vision’s application attributed to Micaiah.",
+      "source_reference": "1Kgs 22:23",
+      "source_verse_sha256": "9681893a0c31265104135e505238c0e5ca0c5f7d7a860ffe6d3b60fcdd8ecb01",
+      "before": "Now look: the LORD has put a lying spirit in the mouth of all these prophets of yours; and the LORD has spoken evil concerning you.”",
+      "after": "So now the LORD has put a lying spirit in the mouths of all these prophets of yours. The LORD has pronounced disaster against you.”",
+      "tsw_comparator": "Now look: the LORD has put a lying spirit in the mouth of all these prophets of yours; and the LORD has spoken evil concerning you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.784314,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:23",
+          "hebrew": "וְ/עַתָּ֗ה הִנֵּ֨ה נָתַ֤ן יְהוָה֙ ר֣וּחַ שֶׁ֔קֶר בְּ/פִ֖י כָּל נְבִיאֶ֣י/ךָ אֵ֑לֶּה וַֽ/יהוָ֔ה דִּבֶּ֥ר עָלֶ֖י/ךָ רָעָֽה",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:34",
+      "delta": "F3",
+      "rationale": "Preserves untargeted shot and uncertain armor detail.",
+      "source_reference": "1Kgs 22:34",
+      "source_verse_sha256": "407e9f13c1c4313a2460122d6bd59c71771c1c5ff5c73a5ca80b4fa9e55465b9",
+      "before": "But a man drew his bow at random and struck the king of Israel between the scale armor and the breastplate. He said to his charioteer, “Turn your hand and take me out of the camp, for I am wounded.”",
+      "after": "But a man drew his bow without a particular target and struck Israel’s king between the armor’s fittings and breastplate. The king told his chariot driver, “Turn around and take me out of the fighting. I am wounded.”",
+      "tsw_comparator": "But a man drew his bow at random and struck the king of Israel between the scale armor and the breastplate. He said to his charioteer, “Turn your hand and take me out of the camp, for I am wounded.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:34",
+          "hebrew": "וְ/אִ֗ישׁ מָשַׁ֤ךְ בַּ/קֶּ֨שֶׁת֙ לְ/תֻמּ֔/וֹ וַ/יַּכֶּה֙ אֶת מֶ֣לֶךְ יִשְׂרָאֵ֔ל בֵּ֥ין הַ/דְּבָקִ֖ים וּ/בֵ֣ין הַ/שִּׁרְיָ֑ן וַ/יֹּ֣אמֶר לְ/רַכָּב֗/וֹ הֲפֹ֥ךְ יָדְ/ךָ֛ וְ/הוֹצִיאֵ֥/נִי מִן הַֽ/מַּחֲנֶ֖ה כִּ֥י הָחֳלֵֽיתִי",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:35",
+      "delta": "F2",
+      "rationale": "Retains bodily injury and continued exposure.",
+      "source_reference": "1Kgs 22:35",
+      "source_verse_sha256": "c7eb71ad0f972e270ea57d4fe94e908a476c892fbddf88eaa1666ac976fe41f8",
+      "before": "The battle grew fierce that day, and the king was held upright in his chariot facing Aram. He died in the evening, and the blood from the wound flowed into the hollow of the chariot.",
+      "after": "The battle grew fierce that day. The king was held upright in his chariot facing Aram. He died that evening, and blood from his wound ran into the chariot’s floor.",
+      "tsw_comparator": "The battle grew fierce that day, and the king was held upright in his chariot facing Aram. He died in the evening, and the blood from the wound flowed into the hollow of the chariot.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:35",
+          "hebrew": "וַ/תַּעֲלֶ֤ה הַ/מִּלְחָמָה֙ בַּ/יּ֣וֹם הַ/ה֔וּא וְ/הַ/מֶּ֗לֶךְ הָיָ֧ה מָעֳמָ֛ד בַּ/מֶּרְכָּבָ֖ה נֹ֣כַח אֲרָ֑ם וַ/יָּ֣מָת בָּ/עֶ֔רֶב וַ/יִּ֥צֶק דַּֽם הַ/מַּכָּ֖ה אֶל חֵ֥יק הָ/רָֽכֶב",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:38",
+      "delta": "F3",
+      "rationale": "Retains prostitutes and location without harmonizing Naboth’s oracle.",
+      "source_reference": "1Kgs 22:38",
+      "source_verse_sha256": "daf092ef0af9c2a6aebe9b3477ae46564e956a6d71f711517510f98d69011942",
+      "before": "They washed the chariot at the pool of Samaria, and the dogs licked up his blood, while the prostitutes washed themselves, according to the word of the LORD that he had spoken.",
+      "after": "They washed the chariot at Samaria’s pool, where prostitutes bathed, and dogs licked his blood, just as the LORD had said.",
+      "tsw_comparator": "They washed the chariot at the pool of Samaria, and the dogs licked up his blood, while the prostitutes washed themselves, according to the word of the LORD that he had spoken.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.528302,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:38",
+          "hebrew": "וַ/יִּשְׁטֹ֨ף אֶת הָ/רֶ֜כֶב עַ֣ל בְּרֵכַ֣ת שֹׁמְר֗וֹן וַ/יָּלֹ֤קּוּ הַ/כְּלָבִים֙ אֶת דָּמ֔/וֹ וְ/הַ/זֹּנ֖וֹת רָחָ֑צוּ כִּ/דְבַ֥ר יְהוָ֖ה אֲשֶׁ֥ר דִּבֵּֽר",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:39",
+      "delta": "F2",
+      "rationale": "Preserves the source notice and ivory house.",
+      "source_reference": "1Kgs 22:39",
+      "source_verse_sha256": "7f2733a8e419737b492f795bd277e8c83c02486ebe1b356dedb5e40f00cdac16",
+      "before": "Now the rest of the deeds of Ahab, all that he did, the ivory house that he built, and all the cities that he built—are they not written in the book of the annals of the kings of Israel?",
+      "after": "The rest of Ahab’s deeds, everything he did, the ivory house he built, and all the towns he built—are they not written in the annals of the kings of Israel?",
+      "tsw_comparator": "Now the rest of the deeds of Ahab, all that he did, the ivory house that he built, and all the cities that he built—are they not written in the book of the annals of the kings of Israel?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.788732,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:39",
+          "hebrew": "וְ/יֶתֶר֩ דִּבְרֵ֨י אַחְאָ֜ב וְ/כָל אֲשֶׁ֣ר עָשָׂ֗ה וּ/בֵ֤ית הַ/שֵּׁן֙ אֲשֶׁ֣ר בָּנָ֔ה וְ/כָל הֶ/עָרִ֖ים אֲשֶׁ֣ר בָּנָ֑ה הֲ/לֽוֹא הֵ֣ם כְּתוּבִ֗ים עַל סֵ֛פֶר דִּבְרֵ֥י הַ/יָּמִ֖ים לְ/מַלְכֵ֥י יִשְׂרָאֵֽל",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:41",
+      "delta": "F0",
+      "rationale": "Retains the regnal synchronism.",
+      "source_reference": "1Kgs 22:41",
+      "source_verse_sha256": "b3a0d0155df6dea52d76992acfc5190142e650018f7586f30b260438d469ea0a",
+      "before": "Jehoshaphat son of Asa became king over Judah in the fourth year of Ahab king of Israel.",
+      "after": "Jehoshaphat son of Asa became king over Judah in the fourth year of Ahab king of Israel.",
+      "tsw_comparator": "Jehoshaphat son of Asa became king over Judah in the fourth year of Ahab king of Israel.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:41",
+          "hebrew": "וִ/יהֽוֹשָׁפָט֙ בֶּן אָסָ֔א מָלַ֖ךְ עַל יְהוּדָ֑ה בִּ/שְׁנַ֣ת אַרְבַּ֔ע לְ/אַחְאָ֖ב מֶ֥לֶךְ יִשְׂרָאֵֽל",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:42",
+      "delta": "F2",
+      "rationale": "Preserves age, reign, and maternal lineage.",
+      "source_reference": "1Kgs 22:42",
+      "source_verse_sha256": "b161a632eaa9a1997429471b5f44ec18db700fa499f85261f4a76e54bdcfaf42",
+      "before": "Jehoshaphat was thirty-five years old when he became king, and he reigned twenty-five years in Jerusalem. His mother’s name was Azubah daughter of Shilhi.",
+      "after": "Jehoshaphat was thirty-five when he became king, and he ruled in Jerusalem for twenty-five years. His mother was Azubah daughter of Shilhi.",
+      "tsw_comparator": "Jehoshaphat was thirty-five years old when he became king, and he reigned twenty-five years in Jerusalem. His mother’s name was Azubah daughter of Shilhi.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.76,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:42",
+          "hebrew": "יְהוֹשָׁפָ֗ט בֶּן שְׁלֹשִׁ֨ים וְ/חָמֵ֤שׁ שָׁנָה֙ בְּ/מָלְכ֔/וֹ וְ/עֶשְׂרִ֤ים וְ/חָמֵשׁ֙ שָׁנָ֔ה מָלַ֖ךְ בִּ/ירוּשָׁלִָ֑ם וְ/שֵׁ֣ם אִמּ֔/וֹ עֲזוּבָ֖ה בַּת שִׁלְחִֽי",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:43",
+      "delta": "F3",
+      "rationale": "Binds both Hebrew records 43–44 to the inherited public label.",
+      "source_reference": "1Kgs 22:43",
+      "source_verse_sha256": "db6981fa4b7a1a04aae91f86b375898af03fcd516213afd83226b04c156332a1",
+      "before": "He walked in all the way of Asa his father; he did not turn aside from it, doing what was right in the eyes of the LORD. Only the high places were not removed; the people still sacrificed and burned incense at the high places.",
+      "after": "He followed the whole course of his father Asa and did not turn aside from it, doing what was right in the LORD’s eyes. Yet the high places remained; the people still sacrificed and burned offerings there.",
+      "tsw_comparator": "He walked in all the way of Asa his father; he did not turn aside from it, doing what was right in the eyes of the LORD. Only the high places were not removed; the people still sacrificed and burned incense at the high places.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.658537,
+      "editorial_status": "REVIEW_PENDING",
+      "source_segments": [
+        {
+          "source_reference": "1Kgs 22:43",
+          "source_verse_sha256": "db6981fa4b7a1a04aae91f86b375898af03fcd516213afd83226b04c156332a1"
+        },
+        {
+          "source_reference": "1Kgs 22:44",
+          "source_verse_sha256": "4ebe4c3e66f92ac7fac98b876c68c88ae97dc89736d423a6e57b15ab1d801e45"
+        }
+      ],
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:43",
+          "hebrew": "וַ/יֵּ֗לֶךְ בְּ/כָל דֶּ֛רֶךְ אָסָ֥א אָבִ֖י/ו לֹא סָ֣ר מִמֶּ֑/נּוּ לַ/עֲשׂ֥וֹת הַ/יָּשָׁ֖ר בְּ/עֵינֵ֥י יְהוָֽה",
+          "notes": []
+        },
+        {
+          "reference": "1Kgs 22:44",
+          "hebrew": "אַ֥ךְ הַ/בָּמ֖וֹת לֹֽא סָ֑רוּ ע֥וֹד הָ/עָ֛ם מְזַבְּחִ֥ים וּֽ/מְקַטְּרִ֖ים בַּ/בָּמֽוֹת",
+          "notes": [
+            "<note>KJV:1Kgs.22.43!b</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:44",
+      "delta": "F2",
+      "rationale": "Retains peace between the kingdoms.",
+      "source_reference": "1Kgs 22:45",
+      "source_verse_sha256": "e047d5110df9bcf8768346a54d2f43b1f7ba53390cbad44e45765dfe03c6998a",
+      "before": "Jehoshaphat made peace with the king of Israel.",
+      "after": "Jehoshaphat also made peace with the king of Israel.",
+      "tsw_comparator": "Jehoshaphat made peace with the king of Israel.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:45",
+          "hebrew": "וַ/יַּשְׁלֵ֥ם יְהוֹשָׁפָ֖ט עִם מֶ֥לֶךְ יִשְׂרָאֵֽל",
+          "notes": [
+            "<note>KJV:1Kgs.22.44</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:45",
+      "delta": "F2",
+      "rationale": "Keeps the source referral and military record.",
+      "source_reference": "1Kgs 22:46",
+      "source_verse_sha256": "1a4eff5e29db2cba31a6bbf1477692d97214f7ebe598e32f81a8d66256bf8ec1",
+      "before": "Now the rest of the deeds of Jehoshaphat, his might that he showed, and how he fought—are they not written in the book of the annals of the kings of Judah?",
+      "after": "The rest of Jehoshaphat’s deeds, his achievements, and the wars he fought—are they not written in the annals of the kings of Judah?",
+      "tsw_comparator": "Now the rest of the deeds of Jehoshaphat, his might that he showed, and how he fought—are they not written in the book of the annals of the kings of Judah?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:46",
+          "hebrew": "וְ/יֶ֨תֶר דִּבְרֵ֧י יְהוֹשָׁפָ֛ט וּ/גְבוּרָת֥/וֹ אֲשֶׁר עָשָׂ֖ה וַ/אֲשֶׁ֣ר נִלְחָ֑ם הֲ/לֹֽא הֵ֣ם כְּתוּבִ֗ים עַל סֵ֛פֶר דִּבְרֵ֥י הַ/יָּמִ֖ים לְ/מַלְכֵ֥י יְהוּדָֽה",
+          "notes": [
+            "<note>KJV:1Kgs.22.45</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:46",
+      "delta": "F3",
+      "rationale": "Matches the qualified cult-term choice in earlier chapters.",
+      "source_reference": "1Kgs 22:47",
+      "source_verse_sha256": "35197a7efda0680b04dd9d901be387bbce555cd13afcdf588cc40a4ab55f045c",
+      "before": "He removed from the land the rest of the male cult prostitutes who remained in the days of Asa his father.",
+      "after": "He removed from the land the remaining male shrine attendants who had survived from his father Asa’s days.",
+      "tsw_comparator": "He removed from the land the rest of the male cult prostitutes who remained in the days of Asa his father.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.512821,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:47",
+          "hebrew": "וְ/יֶ֨תֶר֙ הַ/קָּדֵ֔שׁ אֲשֶׁ֣ר נִשְׁאַ֔ר בִּ/ימֵ֖י אָסָ֣א אָבִ֑י/ו בִּעֵ֖ר מִן הָ/אָֽרֶץ",
+          "notes": [
+            "<note>KJV:1Kgs.22.46</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:48",
+      "delta": "F3",
+      "rationale": "Follows the read forms and keeps the failed voyage.",
+      "source_reference": "1Kgs 22:49",
+      "source_verse_sha256": "b2d436d9bbe45c6575bcbceff44de88e6893ddd05579c50bda7c99ca62ae63fd",
+      "before": "Jehoshaphat made ships of Tarshish to go to Ophir for gold, but they did not go, for the ships were wrecked at Ezion-geber.",
+      "after": "Jehoshaphat built Tarshish ships to sail to Ophir for gold. But they never sailed, because they were wrecked at Ezion-geber.",
+      "tsw_comparator": "Jehoshaphat made ships of Tarshish to go to Ophir for gold, but they did not go, for the ships were wrecked at Ezion-geber.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.622222,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:49",
+          "hebrew": "יְהוֹשָׁפָ֡ט עשר אֳנִיּ֨וֹת תַּרְשִׁ֜ישׁ לָ/לֶ֧כֶת אוֹפִ֛ירָ/ה לַ/זָּהָ֖ב וְ/לֹ֣א הָלָ֑ךְ כִּֽי נשברה אֳנִיּ֖וֹת בְּ/עֶצְי֥וֹן גָּֽבֶר",
+          "notes": [
+            "<note>KJV:1Kgs.22.48</note>",
+            "<note type=\"variant\"><catchWord>עשר</catchWord><rdg type=\"x-qere\"><w lemma=\"6213\" morph=\"HVqp3ms\" id=\"113AH\">עָשָׂה֩</w></rdg></note>",
+            "<note type=\"variant\"><catchWord>נשברה</catchWord><rdg type=\"x-qere\"><w lemma=\"7665\" morph=\"HVNp3cp\" id=\"11cyX\">נִשְׁבְּר֥וּ</w></rdg></note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:49",
+      "delta": "F2",
+      "rationale": "Does not import a different sequence from Chronicles.",
+      "source_reference": "1Kgs 22:50",
+      "source_verse_sha256": "0bc433e3b1c4e2b950e366e47bbb6f4e0477d319f275a7b86aedbefe027b1a2f",
+      "before": "Then Ahaziah son of Ahab said to Jehoshaphat, “Let my servants go with your servants in the ships.” But Jehoshaphat was unwilling.",
+      "after": "Then Ahaziah son of Ahab told Jehoshaphat, “Let my servants sail with yours.” But Jehoshaphat refused.",
+      "tsw_comparator": "Then Ahaziah son of Ahab said to Jehoshaphat, “Let my servants go with your servants in the ships.” But Jehoshaphat was unwilling.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.631579,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:50",
+          "hebrew": "אָ֠ז אָמַ֞ר אֲחַזְיָ֤הוּ בֶן אַחְאָב֙ אֶל יְה֣וֹשָׁפָ֔ט יֵלְכ֧וּ עֲבָדַ֛/י עִם עֲבָדֶ֖י/ךָ בָּ/אֳנִיּ֑וֹת וְ/לֹ֥א אָבָ֖ה יְהוֹשָׁפָֽט",
+          "notes": [
+            "<note>KJV:1Kgs.22.49</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:51",
+      "delta": "F2",
+      "rationale": "Preserves both chronological statements.",
+      "source_reference": "1Kgs 22:52",
+      "source_verse_sha256": "f98b12354fa03138d69e8e7d996dd52254adc37242932d6a5e22e5a469009493",
+      "before": "Ahaziah son of Ahab became king over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel two years.",
+      "after": "Ahaziah son of Ahab became king over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah. He ruled Israel for two years.",
+      "tsw_comparator": "Ahaziah son of Ahab became king over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel two years.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.901961,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Kgs 22:52",
+          "hebrew": "אֲחַזְיָ֣הוּ בֶן אַחְאָ֗ב מָלַ֤ךְ עַל יִשְׂרָאֵל֙ בְּ/שֹׁ֣מְר֔וֹן בִּ/שְׁנַת֙ שְׁבַ֣ע עֶשְׂרֵ֔ה לִ/יהוֹשָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה וַ/יִּמְלֹ֥ךְ עַל יִשְׂרָאֵ֖ל שְׁנָתָֽיִם",
+          "notes": [
+            "<note>KJV:1Kgs.22.51</note>"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,126 +4,83 @@ testament: OT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Nebuchadnezzar Subdues Jehoiakim
+## Babylon gains control
 
 <p>
-v01: In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant for three years. Then he turned and rebelled against him.
-
-v02: The LORD sent against him raiding bands of Chaldeans, Arameans, Moabites, and children of Ammon. He sent them against Judah to destroy it, according to the word of the LORD that he had spoken by the hand of his servants the prophets.
-
-v03: Surely this came upon Judah by the mouth of the LORD, to remove them from his presence because of the sins of Manasseh, according to all that he had done,
-
-v04: and also because of the innocent blood that he shed, for he filled Jerusalem with innocent blood, and the LORD was not willing to forgive.
+v01: In Jehoiakim’s days Nebuchadnezzar king of Babylon invaded. Jehoiakim became his servant for three years, then turned and rebelled against him.
+v02: The LORD sent raiding bands of Chaldeans, Arameans, Moabites, and Ammonites against him. He sent them against Judah to destroy it, according to the LORD’s word spoken through his servants the prophets.
 </p>
 
-## Jehoiakim Dies
-
 <p>
-v05: Now the rest of the acts of Jehoiakim and all that he did, are they not written in the book of the chronicles of the kings of Judah?
-
-v06: Jehoiakim lay down with his ancestors. Jehoiachin his son became king in his place.
-
-v07: The king of Egypt did not again go out from his land, for the king of Babylon had taken from the Wadi of Egypt as far as the Euphrates River all that belonged to the king of Egypt.
+v03: This came upon Judah at the LORD’s command, to remove them from his presence because of Manasseh’s sins and everything he had done,
+v04: including the innocent blood he had shed. He had filled Jerusalem with innocent blood, and the LORD was unwilling to forgive.
 </p>
 
-## Jehoiachin Reigns for Three Months
-
 <p>
-v08: Jehoiachin was eighteen years old when he became king, and he reigned three months in Jerusalem. His mother’s name was Nehushta daughter of Elnathan from Jerusalem.
-
-v09: He did what was evil in the eyes of the LORD, according to all that his father had done.
+v05: The rest of Jehoiakim’s acts and everything he did are written in the annals of the kings of Judah.
+v06: Jehoiakim rested with his ancestors. His son Jehoiachin became king in his place.
 </p>
 
-## Jerusalem Surrenders to Babylon
+<p>
+v07: The king of Egypt no longer came out of his land, because the king of Babylon had taken everything that had belonged to him, from the Wadi of Egypt to the Euphrates River.
+</p>
+
+## Jehoiachin taken into exile
 
 <p>
-v10: At that time the servants of Nebuchadnezzar king of Babylon went up to Jerusalem, and the city came under siege.
+v08: Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem for three months. His mother’s name was Nehushta, daughter of Elnathan, from Jerusalem.
+v09: He did what was evil in the LORD’s eyes, just as his father had done.
+</p>
 
+<p>
+v10: At that time the servants of Nebuchadnezzar king of Babylon advanced on Jerusalem, and the city came under siege.
 v11: Nebuchadnezzar king of Babylon came to the city while his servants were besieging it.
-
-v12: Then Jehoiachin king of Judah went out to the king of Babylon—he, his mother, his servants, his officials, and his court officers—and the king of Babylon took him in the eighth year of his reign.
 </p>
 
-## The Temple and Palace Are Plundered
-
 <p>
-v13: He brought out from there all the treasures of the house of the LORD and the treasures of the king’s house and cut apart all the gold vessels that Solomon king of Israel had made in the temple of the LORD, as the LORD had spoken.
-
-v14: He carried all Jerusalem into exile: all the officials, all the mighty men of wealth, ten thousand exiles, and all the craftsmen and smiths. No one remained except the poorest people of the land.
-
-v15: He carried Jehoiachin into exile to Babylon, and the king’s mother, the king’s wives, his court officers, and the powerful people of the land he carried into exile from Jerusalem to Babylon.
-
-v16: All the men of strength, seven thousand, and the craftsmen and smiths, one thousand, all mighty men trained for war—the king of Babylon brought them into exile to Babylon.
+v12: Jehoiachin king of Judah went out to the king of Babylon with his mother, servants, commanders, and court officials. The king of Babylon took him prisoner in the eighth year of his reign.
+v13: He carried off all the treasures of the LORD’s house and the palace and cut apart all the gold utensils Solomon king of Israel had made for the LORD’s temple, just as the LORD had said.
 </p>
 
-## Zedekiah Is Made King
+<p>
+v14: He deported all Jerusalem—all the leaders and capable fighting men, ten thousand exiles, along with all the craftsmen and metalworkers. Only the poorest people of the land remained.
+v15: He deported Jehoiachin to Babylon. He also took the king’s mother, his wives, his court officials, and the leading men of the land into exile from Jerusalem to Babylon.
+v16: The king of Babylon took to Babylon all the fighting men, seven thousand, and the craftsmen and metalworkers, a thousand—all strong men fit for war.
+</p>
 
 <p>
-v17: The king of Babylon made Mattaniah, Jehoiachin’s uncle, king in his place and changed his name to Zedekiah.
+v17: The king of Babylon made Jehoiachin’s uncle Mattaniah king in his place and changed his name to Zedekiah.
+</p>
 
-v18: Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem. His mother’s name was Hamutal daughter of Jeremiah from Libnah.
+## Zedekiah’s reign
 
-v19: He did what was evil in the eyes of the LORD, according to all that Jehoiakim had done.
-
-v20: For because of the anger of the LORD this happened in Jerusalem and Judah until he cast them away from his presence.
-
-Zedekiah rebelled against the king of Babylon.
+<p>
+v18: Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem for eleven years. His mother’s name was Hamutal, daughter of Jeremiah, from Libnah.
+v19: He did what was evil in the LORD’s eyes, just as Jehoiakim had done.
+v20: Because of the LORD’s anger, these things happened in Jerusalem and Judah until he cast them out of his presence. Then Zedekiah rebelled against the king of Babylon.
 </p>
 
 ## Notes
 
-v01: Jehoiakim moves from Egyptian vassalage to Babylonian vassalage and then rebels, placing Judah between collapsing and rising empires.
+v08: Jehoiachin is eighteen here, with a three-month reign. The age and duration have not been changed to match Chronicles.
 
-v02: The narrator interprets even smaller raiding bands as instruments carrying out the prophetic word of judgment.
+v14: The broad “all Jerusalem” is qualified by the poorest people remaining. Verses 14 and 16 give a total and selected subgroups; the draft preserves the figures without manufacturing an additional total.
 
-v03–04: Manasseh’s idolatry and innocent blood remain the central historical charges explaining Judah’s approaching exile.
-
-v04: “the LORD was not willing to forgive” signals the narrative’s conviction that accumulated bloodguilt had reached an irreversible historical consequence.
-
-v07: Babylon’s control from the Wadi of Egypt to the Euphrates marks Egypt’s loss of its former territories in Syria-Palestine.
-
-v08: 2 Chronicles 36:9 gives Jehoiachin’s age as eight in the Masoretic Text, likely a textual difference. Kings’ eighteen fits the surrounding narrative and Jehoiachin’s royal household.
-
-v12: Jehoiachin’s surrender preserves the city temporarily but begins the major deportation of 597 BCE.
-
-v13: The dismantling of Solomon’s gold vessels signals reversal of the temple glory described in 1 Kings.
-
-v14–16: The deportation targets leadership, military strength, craftsmen, and skilled labor, leaving the poorest population behind. The overlapping totals likely describe categories rather than simple additive groups.
-
-v17: Mattaniah’s renaming as Zedekiah demonstrates Babylon’s authority over Judah’s throne, paralleling Pharaoh Neco’s renaming of Jehoiakim.
-
-v20: Zedekiah’s rebellion launches the final sequence leading to Jerusalem’s destruction in chapter 25.
+v17: Mattaniah is Jehoiachin’s uncle, and Babylon’s king renames him Zedekiah. He is not Jehoiachin’s son in this account.
 
 ## Vocabulary
 
-v01: עֶבֶד (eved)
-“Servant.” Jehoiakim becomes Babylon’s vassal.
+v02: Chaldeans
+The group associated with Babylon’s ruling power and armies in these accounts.
 
-v01: מָרַד (marad)
-“To rebel.” Jehoiakim and later Zedekiah resist Babylon.
+v07: Wadi of Egypt
+A boundary watercourse distinct from the Nile.
 
-v02: גְּדוּד (gedud)
-“Raiding band.”
-
-v04: דָּם נָקִי (dam naqi)
-“Innocent blood.”
-
-v10: מָצוֹר (matsor)
-“Siege.” Jerusalem is surrounded.
-
-v12: יָצָא אֶל (yatsa el)
-“To go out to.” Jehoiachin surrenders to Babylon.
-
-v14: גָּלָה (galah)
-“To carry into exile.”
-
-v14: חָרָשׁ (charash)
-“Craftsman.”
-
-v14: מַסְגֵּר (masger)
-“Smith” or metalworker.
-
-v17: שִׁנָּה שֵׁם (shinnah shem)
-“To change a name.” Imperial control over a vassal king.
+v12: Tributary kingship
+A subordinate king remains on a throne under an imperial ruler’s control; here that control also includes imprisonment and replacement.

@@ -4,126 +4,91 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Hezekiah Becomes Deathly Ill
+## Hezekiah’s illness and recovery
 
 <p>
-v01: In those days Hezekiah became sick to the point of death. Isaiah the prophet son of Amoz came to him and said to him, “Thus says the LORD: Put your house in order, for you will die and not live.”
-
-v02: Then he turned his face to the wall and prayed to the LORD, saying,
-
-v03: “Please, O LORD, remember now how I have walked before you in faithfulness and with a whole heart and have done what is good in your eyes.” And Hezekiah wept with great weeping.
+v01: In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: Put your household in order, for you are going to die. You will not live.”
 </p>
 
-## The LORD Adds Fifteen Years
-
 <p>
-v04: And it happened before Isaiah had gone out of the middle courtyard that the word of the LORD came to him, saying,
-
-v05: “Return and say to Hezekiah, ruler of my people: Thus says the LORD, the God of David your ancestor: I have heard your prayer; I have seen your tears. Look, I am healing you. On the third day you will go up to the house of the LORD.
-
-v06: I will add fifteen years to your days. From the hand of the king of Assyria I will rescue you and this city, and I will defend this city for my own sake and for the sake of David my servant.”
-
-v07: Isaiah said, “Take a cake of figs.” They took it and placed it upon the boil, and he recovered.
+v02: Hezekiah turned his face to the wall and prayed to the LORD:
+v03: “Please, LORD, remember how I have walked before you faithfully and with a whole heart, and have done what is good in your eyes.” Hezekiah wept bitterly.
 </p>
 
-## The Shadow Goes Backward
-
 <p>
-v08: Hezekiah said to Isaiah, “What is the sign that the LORD will heal me and that I will go up to the house of the LORD on the third day?”
-
-v09: Isaiah said, “This will be the sign for you from the LORD that the LORD will do the thing that he has spoken: Will the shadow go forward ten steps, or will it go backward ten steps?”
-
-v10: Hezekiah said, “It is easy for the shadow to lengthen ten steps. No, let the shadow go backward ten steps.”
-
-v11: Isaiah the prophet called to the LORD, and he made the shadow go backward ten steps by the steps of Ahaz, by which it had gone down.
+v04: Before Isaiah had left the middle courtyard, the LORD’s word came to him:
+v05: “Go back and tell Hezekiah, the leader of my people: This is what the LORD, the God of your ancestor David, says: I have heard your prayer and seen your tears. I am healing you. On the third day you will go up to the LORD’s house.
+v06: I will add fifteen years to your life. I will rescue you and this city from the king of Assyria’s hand. I will defend this city for my own sake and for the sake of David my servant.”
 </p>
 
-## Envoys Come from Babylon
-
 <p>
-v12: At that time Berodach-Baladan son of Baladan king of Babylon sent letters and a gift to Hezekiah, for he had heard that Hezekiah had been sick.
-
-v13: Hezekiah listened to them and showed them all his treasure house—the silver, gold, spices, precious oil, his armory, and all that was found in his treasuries. There was nothing in his house or in all his dominion that Hezekiah did not show them.
+v07: Isaiah said, “Bring a cake of figs.” They brought it, applied it to the boil, and he recovered.
 </p>
 
-## Isaiah Announces Future Exile to Babylon
-
 <p>
-v14: Then Isaiah the prophet came to King Hezekiah and said to him, “What did these men say, and from where did they come to you?” Hezekiah said, “They came from a distant land, from Babylon.”
-
-v15: He said, “What did they see in your house?” Hezekiah said, “They saw everything that is in my house. There is nothing among my treasuries that I did not show them.”
-
-v16: Then Isaiah said to Hezekiah, “Hear the word of the LORD:
-
-v17: Look, days are coming when all that is in your house and what your ancestors have stored up until this day will be carried to Babylon. Nothing will be left, says the LORD.
-
-v18: And some of your sons who will come from you, whom you will father, will be taken, and they will become eunuchs in the palace of the king of Babylon.”
-
-v19: Hezekiah said to Isaiah, “The word of the LORD that you have spoken is good.” For he said, “Will there not be peace and faithfulness in my days?”
+v08: Hezekiah asked Isaiah, “What is the sign that the LORD will heal me and that I will go up to the LORD’s house on the third day?”
+v09: Isaiah answered, “This is your sign from the LORD that he will do what he has promised: Shall the shadow move forward ten steps, or go back ten steps?”
 </p>
 
-## Hezekiah Dies
+<p>
+v10: Hezekiah said, “It is easy for the shadow to move forward ten steps. No—let it go back ten steps.”
+v11: Isaiah the prophet called to the LORD, and he brought the shadow back ten steps on the steps of Ahaz, down which it had gone.
+</p>
+
+## Visitors from Babylon
 
 <p>
-v20: Now the rest of the acts of Hezekiah and all his might, and how he made the pool and the conduit and brought water into the city, are they not written in the book of the chronicles of the kings of Judah?
+v12: At that time Berodach-baladan son of Baladan, king of Babylon, sent letters and a gift to Hezekiah, because he had heard that Hezekiah was ill.
+v13: Hezekiah listened to them and showed them his entire treasure house—the silver, gold, spices, fine oil, his armory, and everything found in his treasuries. There was nothing in his house or in all his domain that Hezekiah did not show them.
+</p>
 
-v21: Hezekiah lay down with his ancestors. Manasseh his son became king in his place.
+<p>
+v14: Then Isaiah the prophet came to King Hezekiah and asked, “What did these men say, and where did they come from?” Hezekiah answered, “They came from a distant land—from Babylon.”
+v15: Isaiah asked, “What did they see in your house?” Hezekiah said, “They saw everything in my house. There was nothing in my treasuries that I did not show them.”
+</p>
+
+<p>
+v16: Isaiah said to Hezekiah, “Hear the LORD’s word:
+v17: The days are coming when everything in your house, and everything your ancestors have stored up until today, will be carried to Babylon. Nothing will be left, says the LORD.
+v18: Some of your own sons, born from you, will be taken away and become eunuchs in the palace of the king of Babylon.”
+</p>
+
+<p>
+v19: Hezekiah said to Isaiah, “The LORD’s word you have spoken is good.” He added, “Will there not be peace and stability in my days?”
+</p>
+
+<p>
+v20: The rest of Hezekiah’s acts, all his might, and how he built the pool and channel and brought water into the city are written in the annals of the kings of Judah.
+v21: Hezekiah rested with his ancestors. His son Manasseh became king in his place.
 </p>
 
 ## Notes
 
-v01: The command “put your house in order” concerns royal household and succession as Hezekiah faces death.
+v04: The read text says “courtyard”; the written text has “city.”
 
-v03: Hezekiah appeals to his faithful walk, consistent with the exceptionally positive royal evaluation in chapter 18. His prayer is not presented as a claim of sinless perfection.
+v09: The Hebrew says steps or degrees. The text describes the shadow’s movement on Ahaz’s steps without explaining the instrument or mechanism.
 
-v04–06: The prophetic sentence changes before Isaiah has even left the palace complex, emphasizing divine responsiveness to prayer.
+v12: The pinned Kings text has Berodach-baladan; Isaiah 39 has Merodach-baladan.
 
-v07: The fig cake functions as a physical treatment within a healing explicitly attributed to the LORD.
+v13: Kings says Hezekiah listened to the visitors. It is not replaced with Isaiah’s different wording about his reaction.
 
-v09–11: The “steps of Ahaz” may refer to a stairway, sundial-like structure, or another device for observing shadow. The text focuses on reversal of the shadow rather than the mechanism.
+v18: Saris can mean a eunuch or a court official. “Eunuchs” preserves the possible bodily consequence of forced royal service.
 
-v12: The Babylonian king is better known from Assyrian records as Merodach-Baladan. The Hebrew form here is Berodach-Baladan, with textual variation.
-
-v13: Hezekiah’s display may be diplomatic pride, alliance signaling, or simple hospitality. Isaiah’s response makes the exposed royal wealth prophetically significant.
-
-v17: Babylon, still distant and not yet Judah’s conqueror, becomes the announced destination of future temple and royal treasure.
-
-v18: “eunuchs” may mean castrated officials or palace servants more broadly. The prophecy emphasizes forced service in a foreign royal court.
-
-v19: Hezekiah’s response can sound selfish because he focuses on peace in his own lifetime, though it can also express submission to the LORD’s word. The narrative leaves the moral evaluation implicit.
-
-v20: Hezekiah’s waterworks are commonly associated with the tunnel bringing Gihon water into Jerusalem, known archaeologically from the Siloam Tunnel.
+v19: Hezekiah’s response is retained without labeling it either selfish relief or exemplary acceptance.
 
 ## Vocabulary
 
-v01: צָוָה לְבֵית (tsavah le-bet)
-“To put the house in order.” Arrange household affairs before death.
+v01: Put your household in order
+Give instructions for the affairs of the household before death.
 
-v03: לֵב שָׁלֵם (lev shalem)
-“Whole heart.” Undivided devotion.
+v06: David my servant
+The dynastic promise remains a recurring reason for the city’s defense.
 
-v05: רָפָא (rapha)
-“To heal.”
-
-v07: דְּבֶלֶת תְּאֵנִים (develet te'enim)
-“Cake of figs.” A pressed fig poultice.
-
-v09: מַעֲלָה (ma'alah)
-“Step” or degree. Used of the shadow’s movement.
-
-v11: צֵל (tsel)
-“Shadow.” The sign given to Hezekiah.
-
-v12: מִנְחָה (minchah)
-“Gift.” The Babylonian diplomatic present.
-
-v13: בֵּית נְכֹתֹה (bet nekhoto)
-“Treasure house.” A store of valuable goods.
-
-v18: סָרִיס (saris)
-“Eunuch” or court official.
-
-v20: תְּעָלָה (te'alah)
-“Conduit” or water channel.
+v13: Treasury
+A store of valuables, including precious materials and equipment.

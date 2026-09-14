@@ -4,154 +4,103 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Amaziah Reigns in Judah
+## Amaziah of Judah
 
 <p>
-v01: In the second year of Joash son of Jehoahaz king of Israel, Amaziah son of Joash king of Judah became king.
-
-v02: He was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddin from Jerusalem.
-
-v03: He did what was right in the eyes of the LORD, yet not like David his ancestor. He did according to all that Joash his father had done.
-
-v04: Only the high places were not removed. The people were still sacrificing and burning incense on the high places.
+v01: In the second year of Joash son of Joahaz, king of Israel, Amaziah son of Joash became king of Judah.
+v02: He was twenty-five years old when he became king, and he reigned in Jerusalem for twenty-nine years. His mother’s name was Jehoaddan, from Jerusalem.
+v03: He did what was right in the LORD’s eyes, though not like his ancestor David. He did everything as his father Joash had done.
+v04: Yet the high places were not removed. The people still sacrificed and burned offerings there.
 </p>
 
-## Amaziah Executes His Father’s Murderers
-
 <p>
-v05: And it happened when the kingdom was firmly in his hand that he struck his servants who had struck his father the king.
-
-v06: But the children of the murderers he did not put to death, according to what is written in the book of the instruction of Moses, where the LORD commanded, saying, “Fathers will not be put to death for sons, and sons will not be put to death for fathers, but each person will be put to death for his own sin.”
+v05: Once the kingdom was secure in his hands, he struck down the servants who had killed his father the king.
+v06: But he did not put the killers’ sons to death, in keeping with what is written in the Book of Moses’ Instruction, where the LORD commanded: “Fathers must not be put to death for their children, nor children for their fathers. Each must be put to death for their own sin.”
 </p>
 
-## Amaziah Defeats Edom
-
 <p>
-v07: He struck ten thousand of Edom in the Valley of Salt and captured Sela in battle. He called its name Joktheel, as it is to this day.
+v07: He struck down ten thousand Edomites in the Valley of Salt and captured Sela in battle. He named it Joktheel, the name it bears to this day.
 </p>
 
-## Amaziah Challenges Israel
+## Judah challenges Israel
 
 <p>
-v08: Then Amaziah sent messengers to Jehoash son of Jehoahaz son of Jehu, king of Israel, saying, “Come, let us look one another in the face.”
-
-v09: Jehoash king of Israel sent to Amaziah king of Judah, saying, “The thornbush that is in Lebanon sent to the cedar that is in Lebanon, saying, ‘Give your daughter to my son as wife.’ But a wild animal that was in Lebanon passed by and trampled the thornbush.
-
-v10: You have surely struck Edom, and your heart has lifted you up. Enjoy your glory and stay in your house. Why should you provoke disaster and fall, you and Judah with you?”
+v08: Then Amaziah sent messengers to Jehoash son of Jehoahaz, son of Jehu, king of Israel: “Come, let us meet face to face.”
+v09: Jehoash king of Israel sent this reply to Amaziah king of Judah: “A thistle in Lebanon sent word to a cedar in Lebanon, ‘Give your daughter to my son as his wife.’ Then a wild animal in Lebanon passed by and trampled the thistle.
+v10: You have indeed defeated Edom, and your heart has lifted you up. Enjoy your glory and stay home. Why stir up trouble and bring yourself down, and Judah with you?”
 </p>
 
-## Judah Is Defeated at Beth-Shemesh
-
 <p>
-v11: Yet Amaziah did not listen. So Jehoash king of Israel went up, and he and Amaziah king of Judah looked one another in the face at Beth-Shemesh, which belongs to Judah.
-
-v12: Judah was struck before Israel, and each man fled to his tent.
-
-v13: Jehoash king of Israel captured Amaziah king of Judah at Beth-Shemesh, and he came to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate, four hundred cubits.
-
-v14: He took all the gold and silver and all the vessels found in the house of the LORD and in the treasuries of the king’s house, as well as hostages, and returned to Samaria.
+v11: But Amaziah would not listen. Jehoash king of Israel advanced, and he and Amaziah king of Judah met face to face at Beth-shemesh in Judah.
+v12: Judah was defeated by Israel, and everyone fled to his tents.
 </p>
 
-## Jehoash Dies
-
 <p>
-v15: Now the rest of the acts of Jehoash that he did and his might and how he fought Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel?
-
-v16: Jehoash lay down with his ancestors and was buried in Samaria with the kings of Israel. Jeroboam his son became king in his place.
+v13: At Beth-shemesh, Jehoash king of Israel captured Amaziah king of Judah, son of Jehoash, son of Ahaziah. He came to Jerusalem and broke down four hundred cubits of its wall, from the Ephraim Gate to the Corner Gate.
+v14: He took all the gold and silver, all the utensils found in the LORD’s house and in the palace treasuries, and hostages. Then he returned to Samaria.
 </p>
 
-## Amaziah Dies
-
 <p>
-v17: Amaziah son of Joash king of Judah lived fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
-
-v18: Now the rest of the acts of Amaziah, are they not written in the book of the chronicles of the kings of Judah?
-
-v19: They made a conspiracy against him in Jerusalem, and he fled to Lachish. But they sent after him to Lachish and put him to death there.
-
-v20: They carried him on horses, and he was buried in Jerusalem with his ancestors in the city of David.
-
-v21: Then all the people of Judah took Azariah, who was sixteen years old, and made him king in place of his father Amaziah.
-
-v22: He built Elath and restored it to Judah after the king lay down with his ancestors.
+v15: The rest of Jehoash’s acts, his might, and his war with Amaziah king of Judah are written in the annals of the kings of Israel.
+v16: Jehoash rested with his ancestors and was buried in Samaria with the kings of Israel. His son Jeroboam became king in his place.
 </p>
 
-## Jeroboam II Reigns in Israel
-
 <p>
-v23: In the fifteenth year of Amaziah son of Joash king of Judah, Jeroboam son of Joash king of Israel became king in Samaria, and he reigned forty-one years.
-
-v24: He did what was evil in the eyes of the LORD. He did not turn away from all the sins of Jeroboam son of Nebat, by which he caused Israel to sin.
-
-v25: He restored the border of Israel from Lebo-Hamath as far as the Sea of the Arabah, according to the word of the LORD, the God of Israel, that he spoke by the hand of his servant Jonah son of Amittai, the prophet who was from Gath-Hepher.
-
-v26: For the LORD saw the very bitter affliction of Israel, that there was neither slave nor free, and there was no helper for Israel.
-
-v27: The LORD had not spoken to wipe out the name of Israel from under the heavens, so he saved them by the hand of Jeroboam son of Joash.
+v17: Amaziah son of Joash, king of Judah, lived fifteen years after the death of Jehoash son of Jehoahaz, king of Israel.
+v18: The rest of Amaziah’s acts are written in the annals of the kings of Judah.
 </p>
 
-## Jeroboam II Dies
+<p>
+v19: A conspiracy formed against him in Jerusalem, and he fled to Lachish. They sent men after him to Lachish and killed him there.
+v20: They brought him back on horses, and he was buried in Jerusalem with his ancestors in the City of David.
+</p>
 
 <p>
-v28: Now the rest of the acts of Jeroboam and all that he did and his might, how he fought and how he restored Damascus and Hamath to Judah in Israel, are they not written in the book of the chronicles of the kings of Israel?
+v21: All the people of Judah took Azariah, who was sixteen years old, and made him king in place of his father Amaziah.
+v22: He rebuilt Elath and restored it to Judah after the king had rested with his ancestors.
+</p>
 
-v29: Jeroboam lay down with his ancestors, with the kings of Israel. Zechariah his son became king in his place.
+## Jeroboam of Israel
+
+<p>
+v23: In the fifteenth year of Amaziah son of Joash, king of Judah, Jeroboam son of Joash became king of Israel in Samaria. He reigned for forty-one years.
+v24: He did what was evil in the LORD’s eyes. He did not turn away from any of the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+</p>
+
+<p>
+v25: He restored Israel’s border from Lebo-hamath to the Sea of the Arabah, according to the word of the LORD, the God of Israel, spoken through his servant Jonah son of Amittai, the prophet from Gath-hepher.
+v26: For the LORD saw that Israel’s suffering was very bitter. There was no one left, bound or free, and no one to help Israel.
+v27: The LORD had not said that he would blot out Israel’s name from under heaven. So he saved them through Jeroboam son of Joash.
+</p>
+
+<p>
+v28: The rest of Jeroboam’s acts, everything he did, his military might, and how he recovered for Israel Damascus and Hamath, which had belonged to Judah, are written in the annals of the kings of Israel.
+v29: Jeroboam rested with his ancestors, with the kings of Israel. His son Zechariah became king in his place.
 </p>
 
 ## Notes
 
-v03: Amaziah is positively evaluated but explicitly falls short of David, continuing the book’s graded assessment of Judah’s kings.
+v02: Jehoaddan follows the source’s read tradition; its written form is Jehoaddin.
 
-v06: The narrator directly cites Deuteronomy 24:16 to explain why Amaziah does not execute the children of his father’s assassins.
+v06: The quoted rule also appears in Deuteronomy 24:16. It distinguishes a killer’s guilt from that of his children.
 
-v07: Sela means “rock” and is often associated with Edomite territory near later Petra. Amaziah renames it Joktheel.
+v09: The thistle-and-cedar fable mocks Amaziah’s claim to equal standing. The draft preserves the images and leaves their application in the king’s own warning.
 
-v08: “look one another in the face” is a challenge to military confrontation.
-
-v09: Jehoash’s thornbush-and-cedar parable mocks Amaziah as a small ruler inflated by victory over Edom.
-
-v13: Breaching Jerusalem’s wall and taking temple and palace treasure publicly reverse Amaziah’s pride.
-
-v21: Azariah is also known as Uzziah in the biblical tradition. Kings commonly uses Azariah in regnal notices.
-
-v25: Jonah son of Amittai is the same name and hometown associated with the prophet in the book of Jonah. Here his prophecy concerns restoration of Israel’s northern border.
-
-v26: “neither slave nor free” is an idiom for no one remaining to help, not a social census.
-
-v27: Jeroboam II is religiously condemned yet politically used as an instrument of the LORD’s compassion toward suffering Israel.
-
-v28: The Hebrew phrase concerning Damascus and Hamath is difficult. It may refer to recovering territories formerly belonging to Judah/Israel. TSW preserves the Masoretic wording without harmonizing its geography.
+v28: The Hebrew connection between Damascus, Hamath, Judah, and Israel is difficult. “Which had belonged to Judah” is one way of construing it; the precise political relationship is uncertain.
 
 ## Vocabulary
 
-v04: בָּמָה (bamah)
-“High place.” A local worship site.
+v13: Cubit
+An ancient length based on the forearm.
 
-v06: תּוֹרַת מֹשֶׁה (torat Moshe)
-“Instruction of Moses.”
+v25: Sea of the Arabah
+The Dead Sea.
 
-v07: סֶלַע (Sela)
-“Sela,” literally “rock.” An Edomite stronghold.
-
-v08: רָאָה פָנִים (ra'ah panim)
-“To look one another in the face.” A challenge to battle.
-
-v09: חוֹחַ (choach)
-“Thornbush.” The lowly plant in Jehoash’s parable.
-
-v10: כָּבוֹד (kavod)
-“Glory.” Amaziah is told to enjoy his victory without overreaching.
-
-v19: קֶשֶׁר (qesher)
-“Conspiracy.” The plot against Amaziah.
-
-v25: גְּבוּל (gevul)
-“Border.” Jeroboam restores Israel’s territory.
-
-v26: עֳנִי (oni)
-“Affliction.” Israel’s severe distress.
-
-v27: מָחָה (machah)
-“To wipe out.” The LORD had not decreed Israel’s erasure.
+v27: Blot out a name
+An image of erasing a people’s continued existence and remembrance.

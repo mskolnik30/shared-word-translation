@@ -4,164 +4,130 @@ testament: OT
 chapter: 15
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Azariah Reigns in Judah
+## Azariah of Judah
 
 <p>
-v01: In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah became king.
-
-v02: He was sixteen years old when he became king, and he reigned fifty-two years in Jerusalem. His mother’s name was Jecoliah from Jerusalem.
-
-v03: He did what was right in the eyes of the LORD, according to all that Amaziah his father had done.
-
-v04: Only the high places were not removed. The people were still sacrificing and burning incense on the high places.
-
-v05: The LORD struck the king, and he had a skin disease until the day of his death. He lived in a separate house, while Jotham the king’s son was over the household, judging the people of the land.
-
-v06: Now the rest of the acts of Azariah and all that he did, are they not written in the book of the chronicles of the kings of Judah?
-
-v07: Azariah lay down with his ancestors, and they buried him with his ancestors in the city of David. Jotham his son became king in his place.
+v01: In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah became king of Judah.
+v02: He was sixteen years old when he became king, and he reigned in Jerusalem for fifty-two years. His mother’s name was Jecoliah, from Jerusalem.
+v03: He did what was right in the LORD’s eyes, just as his father Amaziah had done.
+v04: Yet the high places were not removed. The people still sacrificed and burned offerings there.
 </p>
 
-## Zechariah Reigns in Israel
-
 <p>
-v08: In the thirty-eighth year of Azariah king of Judah, Zechariah son of Jeroboam became king over Israel in Samaria for six months.
-
-v09: He did what was evil in the eyes of the LORD, as his ancestors had done. He did not turn away from the sins of Jeroboam son of Nebat, by which he caused Israel to sin.
-
-v10: Shallum son of Jabesh conspired against him, struck him before the people, and put him to death. He became king in his place.
-
-v11: Now the rest of the acts of Zechariah, look, they are written in the book of the chronicles of the kings of Israel.
-
-v12: This was the word of the LORD that he spoke to Jehu, saying, “Your sons will sit upon the throne of Israel to the fourth generation.” And so it happened.
+v05: The LORD struck the king with a skin disease that lasted until his death. He lived in a separate house, while Jotham the king’s son managed the palace and governed the people of the land.
+v06: The rest of Azariah’s acts and everything he did are written in the annals of the kings of Judah.
+v07: Azariah rested with his ancestors, and they buried him with them in the City of David. His son Jotham became king in his place.
 </p>
 
-## Shallum Reigns for One Month
+## Coups in Israel
 
 <p>
-v13: Shallum son of Jabesh became king in the thirty-ninth year of Uzziah king of Judah, and he reigned one month in Samaria.
-
-v14: Then Menahem son of Gadi went up from Tirzah and came to Samaria. He struck Shallum son of Jabesh in Samaria and put him to death, and he became king in his place.
-
-v15: Now the rest of the acts of Shallum and the conspiracy that he made, look, they are written in the book of the chronicles of the kings of Israel.
-
-v16: Then Menahem struck Tiphsah and everyone who were in it and its territory from Tirzah because it did not open to him. He struck it and ripped open all its pregnant women.
+v08: In the thirty-eighth year of Azariah king of Judah, Zechariah son of Jeroboam became king over Israel in Samaria. He reigned for six months.
+v09: He did what was evil in the LORD’s eyes, as his ancestors had done. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
 </p>
 
-## Menahem Reigns in Israel
-
 <p>
-v17: In the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi became king over Israel, and he reigned ten years in Samaria.
-
-v18: He did what was evil in the eyes of the LORD. He did not turn away all his days from the sins of Jeroboam son of Nebat, by which he caused Israel to sin.
-
-v19: Pul king of Assyria came against the land, and Menahem gave Pul one thousand talents of silver so that his hand would be with him to strengthen the kingdom in his hand.
-
-v20: Menahem exacted the silver from Israel, from all the mighty men of wealth, fifty shekels of silver from each man, to give to the king of Assyria. So the king of Assyria turned back and did not remain there in the land.
-
-v21: Now the rest of the acts of Menahem and all that he did, are they not written in the book of the chronicles of the kings of Israel?
-
-v22: Menahem lay down with his ancestors. Pekahiah his son became king in his place.
+v10: Shallum son of Jabesh conspired against him, struck him down in front of the people, killed him, and became king in his place.
+v11: The rest of Zechariah’s acts are written in the annals of the kings of Israel.
 </p>
 
-## Pekahiah Is Assassinated
-
 <p>
-v23: In the fiftieth year of Azariah king of Judah, Pekahiah son of Menahem became king over Israel in Samaria, and he reigned two years.
-
-v24: He did what was evil in the eyes of the LORD. He did not turn away from the sins of Jeroboam son of Nebat, by which he caused Israel to sin.
-
-v25: Pekah son of Remaliah, his officer, conspired against him and struck him in Samaria, in the citadel of the king’s house, with Argob and Arieh. With him were fifty men from the Gileadites. He put him to death and became king in his place.
-
-v26: Now the rest of the acts of Pekahiah and all that he did, look, they are written in the book of the chronicles of the kings of Israel.
+v12: This fulfilled the LORD’s word to Jehu: “Your sons will sit on Israel’s throne to the fourth generation.” And so it happened.
 </p>
 
-## Pekah Reigns as Assyria Advances
-
 <p>
-v27: In the fifty-second year of Azariah king of Judah, Pekah son of Remaliah became king over Israel in Samaria, and he reigned twenty years.
-
-v28: He did what was evil in the eyes of the LORD. He did not turn away from the sins of Jeroboam son of Nebat, by which he caused Israel to sin.
-
-v29: In the days of Pekah king of Israel, Tiglath-Pileser king of Assyria came and captured Ijon, Abel-Beth-Maacah, Janoah, Kedesh, Hazor, Gilead, Galilee, all the land of Naphtali, and carried them into exile to Assyria.
-
-v30: Hoshea son of Elah made a conspiracy against Pekah son of Remaliah, struck him, and put him to death. He became king in his place in the twentieth year of Jotham son of Uzziah.
-
-v31: Now the rest of the acts of Pekah and all that he did, look, they are written in the book of the chronicles of the kings of Israel.
+v13: Shallum son of Jabesh became king in the thirty-ninth year of Uzziah king of Judah. He reigned in Samaria for one month.
+v14: Menahem son of Gadi came up from Tirzah to Samaria, struck down Shallum son of Jabesh there, killed him, and became king in his place.
+v15: The rest of Shallum’s acts and the conspiracy he formed are written in the annals of the kings of Israel.
 </p>
 
-## Jotham Reigns in Judah
+<p>
+v16: Then Menahem attacked Tiphsah, everyone in it, and its surrounding territory, setting out from Tirzah. Because it had not opened its gates to him, he struck it and ripped open all its pregnant women.
+</p>
+
+## Menahem and Assyria
 
 <p>
-v32: In the second year of Pekah son of Remaliah king of Israel, Jotham son of Uzziah king of Judah became king.
+v17: In the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi became king over Israel. He reigned in Samaria for ten years.
+v18: He did what was evil in the LORD’s eyes. Throughout his life he did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+</p>
 
-v33: He was twenty-five years old when he became king, and he reigned sixteen years in Jerusalem. His mother’s name was Jerusha daughter of Zadok.
+<p>
+v19: Pul king of Assyria invaded the land. Menahem gave Pul a thousand talents of silver to gain his support and secure the kingdom in his own hands.
+v20: Menahem raised the money from Israel, requiring each wealthy man to pay fifty shekels of silver for the king of Assyria. Then Assyria’s king withdrew and did not stay in the land.
+</p>
 
-v34: He did what was right in the eyes of the LORD. He did according to all that Uzziah his father had done.
+<p>
+v21: The rest of Menahem’s acts and everything he did are written in the annals of the kings of Israel.
+v22: Menahem rested with his ancestors. His son Pekahiah became king in his place.
+</p>
 
-v35: Only the high places were not removed. The people were still sacrificing and burning incense on the high places. He built the Upper Gate of the house of the LORD.
+## Pekahiah and Pekah
 
-v36: Now the rest of the acts of Jotham and all that he did, are they not written in the book of the chronicles of the kings of Judah?
+<p>
+v23: In the fiftieth year of Azariah king of Judah, Pekahiah son of Menahem became king over Israel in Samaria. He reigned for two years.
+v24: He did what was evil in the LORD’s eyes. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+</p>
 
-v37: In those days the LORD began to send Rezin king of Aram and Pekah son of Remaliah against Judah.
+<p>
+v25: His officer Pekah son of Remaliah conspired against him. With fifty men of Gilead, he struck him down in the citadel of the palace in Samaria, along with Argob and Arieh. He killed him and became king in his place.
+v26: The rest of Pekahiah’s acts and everything he did are written in the annals of the kings of Israel.
+</p>
 
-v38: Jotham lay down with his ancestors and was buried with his ancestors in the city of David his ancestor. Ahaz his son became king in his place.
+<p>
+v27: In the fifty-second year of Azariah king of Judah, Pekah son of Remaliah became king over Israel in Samaria. He reigned for twenty years.
+v28: He did what was evil in the LORD’s eyes. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+</p>
+
+<p>
+v29: In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead, and Galilee—all the land of Naphtali. He deported the people to Assyria.
+v30: Hoshea son of Elah formed a conspiracy against Pekah son of Remaliah, struck him down, killed him, and became king in his place, in the twentieth year of Jotham son of Uzziah.
+v31: The rest of Pekah’s acts and everything he did are written in the annals of the kings of Israel.
+</p>
+
+## Jotham of Judah
+
+<p>
+v32: In the second year of Pekah son of Remaliah, king of Israel, Jotham son of Uzziah became king of Judah.
+v33: He was twenty-five years old when he became king, and he reigned in Jerusalem for sixteen years. His mother’s name was Jerusha, daughter of Zadok.
+v34: He did what was right in the LORD’s eyes, doing everything as his father Uzziah had done.
+</p>
+
+<p>
+v35: Yet the high places were not removed. The people still sacrificed and burned offerings there. He built the Upper Gate of the LORD’s house.
+v36: The rest of Jotham’s acts are written in the annals of the kings of Judah.
+</p>
+
+<p>
+v37: In those days the LORD began sending Rezin king of Aram and Pekah son of Remaliah against Judah.
+v38: Jotham rested with his ancestors and was buried with them in the City of David his ancestor. His son Ahaz became king in his place.
 </p>
 
 ## Notes
 
-v01: Azariah is also called Uzziah. The chapter itself uses both forms in different synchronisms, reflecting the dual naming preserved in Kings.
+v05: The separate house is described by an unusual term associated with freedom or separation. Kings does not give the explanation for the skin disease found in Chronicles.
 
-v05: The king’s *tsara'at* requires him to live separately while Jotham governs palace and people. 2 Chronicles 26 provides a fuller account connecting the disease with a temple offense, but Kings does not state the cause.
+v13: Uzziah and Azariah name the same Judean king in this account.
 
-v10–12: Zechariah’s assassination ends Jehu’s dynasty in its fourth generation, explicitly fulfilling the promise of 2 Kings 10:30.
+v16: Tiphsah is the Hebrew place name here. Its location in this episode is difficult; the draft does not replace it with another town. The attack on pregnant women is explicit.
 
-v13–16: Northern kingship now becomes extremely unstable: Shallum reigns only one month before Menahem kills him.
+v25: Argob and Arieh are retained as named persons. Their exact role in the coup is not explained.
 
-v16: Menahem’s atrocity against pregnant women is narrated as political terror against a city that refused him entry. TSW retains the severity without amplification.
-
-v19: Pul is another name or royal designation for Tiglath-Pileser III of Assyria.
-
-v20: Menahem secures his throne through foreign imperial backing financed by a heavy levy on wealthy Israelites.
-
-v25: The exact roles of Argob and Arieh are unclear; they may be Pekahiah’s companions or officials killed with him.
-
-v29: Tiglath-Pileser’s campaign marks a decisive stage in the dismantling of northern Israel through territorial loss and deportation.
-
-v30: The “twentieth year of Jotham” is chronologically difficult because Jotham is said to reign sixteen years. It may count from an accession or co-regency framework. TSW preserves the Masoretic synchronism.
-
-v37: The Aram-Israel pressure on Judah prepares for the crisis under Ahaz in chapter 16 and in Isaiah 7.
+v30: The twentieth year of Jotham is retained alongside the sixteen-year reign in verse 33; the draft does not impose a chronological reconstruction.
 
 ## Vocabulary
 
-v05: צָרַעַת (tsara'at)
-“Skin disease.” The condition isolating Azariah.
+v19: Talent
+A large unit of weight; a thousand talents represents a substantial payment.
 
-v05: בֵּית הַחָפְשִׁית (bet ha-chofshit)
-“Separate house,” literally “house of freedom.” The king’s isolated residence.
+v20: Shekel
+A smaller weight used to measure the silver levy.
 
-v10: קָשַׁר (qashar)
-“To conspire.” A repeated verb in Israel’s dynastic instability.
-
-v16: בָּקַע (baqa)
-“To rip open.” Menahem’s atrocity against pregnant women.
-
-v19: פּוּל (Pul)
-“Pul.” The Assyrian king identified with Tiglath-Pileser III.
-
-v20: יָצָא כֶּסֶף (yatsa kesef)
-“To exact silver.” Menahem raises tribute from wealthy men.
-
-v25: שָׁלִישׁ (shalish)
-“Officer” or royal aide. Pekah’s position before his revolt.
-
-v29: גָּלָה (galah)
-“To carry into exile.” Assyria deported northern populations.
-
-v35: שַׁעַר הָעֶלְיוֹן (sha'ar ha-elyon)
-“Upper Gate.” A temple gate built by Jotham.
-
-v37: שָׁלַח (shalach)
-“To send.” The LORD begins sending foreign kings against Judah.
+v29: Deport
+Forcibly remove a population to another territory.

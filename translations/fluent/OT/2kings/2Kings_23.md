@@ -4,190 +4,135 @@ testament: OT
 chapter: 23
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Josiah Reads the Covenant Book to the People
+## The covenant read aloud
 
 <p>
-v01: Then the king sent, and they gathered to him all the elders of Judah and Jerusalem.
-
-v02: The king went up to the house of the LORD, and with him all the men of Judah, all the inhabitants of Jerusalem, the priests, the prophets, and all the people, from small to great. He read in their hearing all the words of the book of the covenant that had been found in the house of the LORD.
-
-v03: The king stood by the pillar and made the covenant before the LORD, to walk after the LORD and keep his commandments, testimonies, and statutes with all his heart and with all his life, to establish the words of this covenant written in this book. And all the people stood in the covenant.
+v01: The king sent word, and all the elders of Judah and Jerusalem gathered to him.
+v02: The king went up to the LORD’s house with all the men of Judah, all Jerusalem’s inhabitants, the priests, the prophets, and all the people, from the least to the greatest. He read aloud to them all the words of the Book of the Covenant found in the LORD’s house.
 </p>
 
-## Josiah Removes Idolatry from the Temple
-
 <p>
-v04: The king commanded Hilkiah the high priest, the priests of the second rank, and the keepers of the threshold to bring out from the temple of the LORD all the vessels made for Baal, for Asherah, and for all the host of the heavens. He burned them outside Jerusalem in the fields of the Kidron and carried their ashes to Bethel.
-
-v05: He removed the idolatrous priests whom the kings of Judah had appointed to burn incense on the high places in the cities of Judah and around Jerusalem, people who burned incense to Baal, to the sun, the moon, the constellations, and all the host of the heavens.
-
-v06: He brought out the Asherah from the house of the LORD outside Jerusalem to the Wadi Kidron, burned it at the Wadi Kidron, ground it to dust, and threw its dust upon the graves of the common people.
-
-v07: He tore down the houses of the cult prostitutes that were in the house of the LORD, where the women were weaving coverings for Asherah.
+v03: The king stood by the pillar and made a covenant before the LORD: to follow the LORD and keep his commandments, testimonies, and decrees with all his heart and all his being, carrying out the words of this covenant written in the book. All the people joined in the covenant.
 </p>
 
-## Josiah Defiles the High Places
+## Josiah removes the shrines
 
 <p>
-v08: He brought all the priests from the cities of Judah and defiled the high places where the priests had burned incense, from Geba as far as Beersheba. He tore down the high places of the gates that were at the entrance of the gate of Joshua, governor of the city, which were on one’s left at the city gate.
-
-v09: Yet the priests of the high places did not come up to the altar of the LORD in Jerusalem, but they ate unleavened bread among their brothers.
-
-v10: He defiled Topheth, which is in the Valley of the Son of Hinnom, so that no one could make his son or daughter pass through the fire to Molech.
-
-v11: He removed the horses that the kings of Judah had dedicated to the sun at the entrance of the house of the LORD, by the chamber of Nathan-Melech the court official, which was in the precincts, and he burned the chariots of the sun with fire.
-
-v12: The altars that were on the roof of the upper room of Ahaz, which the kings of Judah had made, and the altars that Manasseh had made in the two courts of the house of the LORD, the king tore down and crushed there and threw their dust into the Wadi Kidron.
+v04: The king commanded Hilkiah the high priest, the second-ranking priests, and the threshold guards to remove from the LORD’s temple all the utensils made for Baal, Asherah, and all the army of heaven. He burned them outside Jerusalem in the fields of the Kidron and carried their ashes to Bethel.
+v05: He removed the cult priests Judah’s kings had appointed to burn offerings at the high places in Judah’s towns and around Jerusalem, and those who burned offerings to Baal, the sun, the moon, the constellations, and all the army of heaven.
 </p>
 
-## Josiah Destroys Solomon’s High Places
-
 <p>
-v13: The high places that were before Jerusalem, south of the Mount of Destruction, which Solomon king of Israel had built for Ashtoreth detestable thing of the Sidonians, for Chemosh detestable thing of Moab, and for Milcom abomination of the children of Ammon, the king defiled.
-
-v14: He shattered the pillars, cut down the Asherah poles, and filled their places with human bones.
+v06: He brought the Asherah out of the LORD’s house to the Kidron Valley outside Jerusalem, burned it there, ground it to dust, and scattered its dust over the graves of the common people.
+v07: He tore down the quarters of the male shrine attendants in the LORD’s house, where women wove coverings for Asherah.
 </p>
 
-## Josiah Destroys the Altar at Bethel
-
 <p>
-v15: Moreover, the altar that was at Bethel and the high place that Jeroboam son of Nebat had made, by which he caused Israel to sin—that altar and high place he tore down. He burned the high place, ground it to dust, and burned the Asherah.
-
-v16: Josiah turned and saw the tombs that were there on the mountain. He sent and took the bones from the tombs and burned them upon the altar and defiled it according to the word of the LORD that the man of God had proclaimed, who proclaimed these things.
-
-v17: He said, “What is this monument that I see?” The men of the city said to him, “It is the tomb of the man of God who came from Judah and proclaimed these things that you have done against the altar of Bethel.”
-
-v18: He said, “Let him rest. Let no one move his bones.” So they left his bones with the bones of the prophet who had come from Samaria.
+v08: He brought all the priests from Judah’s towns and defiled the high places where they had burned offerings, from Geba to Beer-sheba. He demolished the high places at the gates, at the entrance to the gate of Joshua the city governor, on the left as one entered the city gate.
+v09: The priests of the high places did not go up to the LORD’s altar in Jerusalem, though they ate unleavened bread among their fellow priests.
 </p>
 
-## Josiah Removes the High Places of Samaria
-
 <p>
-v19: Josiah also removed all the houses of the high places that were in the cities of Samaria, which the kings of Israel had made to provoke the LORD to anger, and he did to them according to all the acts he had done in Bethel.
-
-v20: He slaughtered all the priests of the high places who were there upon the altars and burned human bones upon them. Then he returned to Jerusalem.
+v10: He defiled Topheth in the Valley of Ben-hinnom, so that no one could make a son or daughter pass through the fire to Molech.
 </p>
 
-## Josiah Keeps the Passover
-
 <p>
-v21: The king commanded all the people, saying, “Make a Passover to the LORD your God as it is written in this book of the covenant.”
-
-v22: Surely no Passover like this had been made from the days of the judges who judged Israel or in all the days of the kings of Israel and the kings of Judah.
-
-v23: But in the eighteenth year of King Josiah this Passover was made to the LORD in Jerusalem.
+v11: He removed the horses Judah’s kings had dedicated to the sun at the entrance to the LORD’s house, near the chamber of Nathan-melech the court official in the precincts. He burned the sun’s chariots.
+v12: The king demolished the altars Judah’s kings had made on the roof of Ahaz’s upper room and the altars Manasseh had made in both courtyards of the LORD’s house. He removed them from there and threw their dust into the Kidron Valley.
 </p>
 
-## Josiah Removes Mediums and Idols
-
 <p>
-v24: Moreover, Josiah removed the mediums, spiritists, household gods, idols, and all the detestable things that were seen in the land of Judah and in Jerusalem, in order to establish the words of the instruction written in the book that Hilkiah the priest had found in the house of the LORD.
-
-v25: Before him there was no king like him who returned to the LORD with all his heart, with all his life, and with all his might, according to all the instruction of Moses, and after him none arose like him.
+v13: The king defiled the high places east of Jerusalem, south of the Mount of Destruction, which Solomon king of Israel had built for Ashtoreth, the Sidonians’ detestable god, Chemosh, Moab’s detestable god, and Milcom, the Ammonites’ abhorrent god.
+v14: He smashed the sacred pillars, cut down the Asherah poles, and filled their sites with human bones.
 </p>
 
-## Yet the LORD Does Not Turn from His Anger
+## Bethel and Samaria
 
 <p>
-v26: Even so, the LORD did not turn from the great burning of his anger with which his anger burned against Judah because of all the provocations with which Manasseh had provoked him.
-
-v27: The LORD said, “I will remove Judah also from my presence, as I removed Israel, and I will reject this city Jerusalem that I chose and the house of which I said, ‘My name will be there.’”
+v15: He also demolished the altar at Bethel and the high place Jeroboam son of Nebat had made, leading Israel into sin. He demolished that altar and high place, burned the high place, ground it to dust, and burned the Asherah.
+v16: Josiah turned and saw the tombs there on the hill. He had the bones taken from the tombs and burned on the altar, defiling it, according to the LORD’s word proclaimed by the man of God who had announced these things.
 </p>
 
-## Josiah Dies at Megiddo
-
 <p>
-v28: Now the rest of the acts of Josiah and all that he did, are they not written in the book of the chronicles of the kings of Judah?
-
-v29: In his days Pharaoh Neco king of Egypt went up to the king of Assyria at the Euphrates River. King Josiah went to meet him, and Pharaoh Neco put him to death at Megiddo when he saw him.
-
-v30: His servants carried him dead in a chariot from Megiddo, brought him to Jerusalem, and buried him in his tomb. Then the people of the land took Jehoahaz son of Josiah, anointed him, and made him king in place of his father.
+v17: He asked, “What is that monument I see?” The men of the city told him, “It is the tomb of the man of God who came from Judah and announced these things you have done to Bethel’s altar.”
+v18: He said, “Leave it alone. Let no one disturb his bones.” So they spared his bones, along with those of the prophet who had come from Samaria.
 </p>
 
-## Jehoahaz Reigns for Three Months
-
 <p>
-v31: Jehoahaz was twenty-three years old when he became king, and he reigned three months in Jerusalem. His mother’s name was Hamutal daughter of Jeremiah from Libnah.
-
-v32: He did what was evil in the eyes of the LORD, according to all that his ancestors had done.
-
-v33: Pharaoh Neco bound him at Riblah in the land of Hamath so that he would not reign in Jerusalem, and imposed upon the land a tribute of one hundred talents of silver and a talent of gold.
-
-v34: Pharaoh Neco made Eliakim son of Josiah king in place of Josiah his father and changed his name to Jehoiakim. But he took Jehoahaz, and he came to Egypt and died there.
+v19: Josiah also removed all the high-place shrines in Samaria’s towns, which Israel’s kings had made and so provoked anger. He did to them everything he had done at Bethel.
+v20: He slaughtered all the priests of the high places there on their altars and burned human bones on them. Then he returned to Jerusalem.
 </p>
 
-## Jehoiakim Becomes Egypt’s Vassal
+## Passover
 
 <p>
-v35: Jehoiakim gave the silver and gold to Pharaoh, but he assessed the land to give the silver according to Pharaoh’s command. He exacted the silver and gold from the people of the land, from each according to his assessment, to give to Pharaoh Neco.
+v21: The king commanded all the people, “Celebrate Passover to the LORD your God, as written in this Book of the Covenant.”
+v22: No Passover like this had been celebrated since the days of the judges who judged Israel, or throughout the days of the kings of Israel and Judah.
+v23: It was in King Josiah’s eighteenth year that this Passover was celebrated to the LORD in Jerusalem.
+</p>
 
-v36: Jehoiakim was twenty-five years old when he became king, and he reigned eleven years in Jerusalem. His mother’s name was Zebidah daughter of Pedaiah from Rumah.
+<p>
+v24: Josiah also cleared away the mediums, spiritists, household gods, idols, and all the detestable things seen in Judah and Jerusalem. He did this to carry out the words of the Instruction written in the book Hilkiah the priest had found in the LORD’s house.
+v25: No king before him had turned to the LORD as he did, with all his heart, all his being, and all his strength, following all Moses’ Instruction. Nor did anyone like him arise afterward.
+</p>
 
-v37: He did what was evil in the eyes of the LORD, according to all that his ancestors had done.
+<p>
+v26: Yet the LORD did not turn from his great, burning anger against Judah because of everything Manasseh had done to provoke him.
+v27: The LORD said, “I will remove Judah from my presence too, just as I removed Israel. I will reject Jerusalem, this city I chose, and the house of which I said, ‘My name will be there.’”
+</p>
+
+## Josiah’s death and his successors
+
+<p>
+v28: The rest of Josiah’s acts and everything he did are written in the annals of the kings of Judah.
+v29: In his days Pharaoh Neco king of Egypt went up to the king of Assyria at the Euphrates River. King Josiah went out to meet him, and Neco killed him at Megiddo when he saw him.
+v30: His servants carried him dead from Megiddo to Jerusalem in a chariot and buried him in his tomb. The people of the land took Josiah’s son Jehoahaz, anointed him, and made him king in his father’s place.
+</p>
+
+<p>
+v31: Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem for three months. His mother’s name was Hamutal, daughter of Jeremiah, from Libnah.
+v32: He did what was evil in the LORD’s eyes, just as his ancestors had done.
+</p>
+
+<p>
+v33: Pharaoh Neco imprisoned him at Riblah in the land of Hamath, preventing him from reigning in Jerusalem. He imposed on the land a levy of a hundred talents of silver and one talent of gold.
+v34: Pharaoh Neco made Eliakim son of Josiah king in place of his father Josiah and changed his name to Jehoiakim. He took Jehoahaz away to Egypt, where he died.
+</p>
+
+<p>
+v35: Jehoiakim gave Pharaoh the silver and gold, but he taxed the land to meet Pharaoh’s demand. He exacted silver and gold from the people of the land, each according to his assessment, to pay Pharaoh Neco.
+</p>
+
+<p>
+v36: Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem for eleven years. His mother’s name was Zebudah, daughter of Pedaiah, from Rumah.
+v37: He did what was evil in the LORD’s eyes, just as his ancestors had done.
 </p>
 
 ## Notes
 
-v01–03: Josiah turns the discovered book into a public covenant ceremony involving leaders, clergy, prophets, and all the people.
+v07: The male shrine attendants are traditionally called male cult prostitutes; their precise role is debated. The woven “houses” for Asherah may be textile coverings or shrine hangings.
 
-v03: “with all his heart and with all his life” echoes Deuteronomy’s language of total covenant devotion.
+v09: The displaced priests share unleavened bread but do not serve at Jerusalem’s altar; the two statements are distinct.
 
-v04–14: The reform reaches inside the temple, across Jerusalem, throughout Judah, and back into institutions dating to Solomon and Manasseh. Josiah’s reforms are deliberately comprehensive.
+v20: Josiah kills the high-place priests on their altars. The Hebrew uses a verb also used for slaughtering sacrifices.
 
-v05: “idolatrous priests” translates *kemarim*, a contemptuous term for unauthorized cultic personnel.
+v22: “No Passover like this” does not necessarily mean that no Passover of any kind had occurred during the intervening period.
 
-v07: The Hebrew term can denote male cult prostitutes or consecrated persons. Their rooms stand within the temple complex, showing the depth of religious syncretism.
-
-v10: Topheth in the Valley of Hinnom is rendered unusable for child sacrifice to Molech.
-
-v11: Horses and chariots dedicated to the sun suggest royal participation in astral worship.
-
-v13: “Mount of Destruction” is a polemical alteration of the Mount of Olives’ name, associating Solomon’s foreign shrines with corruption.
-
-v15–18: Josiah’s actions at Bethel fulfill the anonymous man of God’s prophecy from 1 Kings 13, several centuries earlier in the narrative.
-
-v20: Josiah’s slaughter of high-place priests is severe covenantal purge language. TSW preserves it without extending it as a model for later religious violence.
-
-v22: The statement that no comparable Passover had been observed since the judges emphasizes scale or faithfulness to the book, not necessarily total absence of all Passover observance.
-
-v25: Josiah is evaluated in the exact terms of Deuteronomy 6:5—heart, life, and might—making him the book’s model of Deuteronomic kingship.
-
-v26–27: Even Josiah’s exceptional reform does not reverse the accumulated judgment associated especially with Manasseh. Personal faithfulness and historical consequence remain distinct.
-
-v29: The political circumstances of Josiah’s encounter with Pharaoh Neco are compressed. 2 Chronicles 35 supplies a fuller battle narrative.
-
-v34: Pharaoh changes Eliakim’s name to Jehoiakim, demonstrating Egyptian control over Judah’s succession.
+v29: The preposition connecting Neco’s march to Assyria can be understood as “to” or “against.” The draft leaves the military alliance unstated. Kings says Josiah was killed at Megiddo and carried away dead.
 
 ## Vocabulary
 
-v03: בְּרִית (berit)
-“Covenant.” Josiah renews the covenant publicly.
+v02: Book of the Covenant
+The discovered book described in terms of the binding relationship it sets out.
 
-v05: כְּמָרִים (kemarim)
-“Idolatrous priests.” Unauthorized cultic personnel.
+v10: Topheth
+A place in the Valley of Ben-hinnom associated here with child sacrifice.
 
-v07: קָדֵשׁ (qadesh)
-“Cult prostitute” or consecrated male functionary.
-
-v10: תֹּפֶת (Tophet)
-“Topheth.” The child-sacrifice site in the Valley of Hinnom.
-
-v13: שִׁקּוּץ (shiquts)
-“Detestable thing.” A contemptuous term for foreign gods.
-
-v15: בָּמָה (bamah)
-“High place.” The Bethel shrine is destroyed.
-
-v21: פֶּסַח (pesach)
-“Passover.”
-
-v24: תְּרָפִים (teraphim)
-“Household gods.”
-
-v25: מְאֹד (me'od)
-“Might” or full capacity. Josiah turns with all his might.
-
-v35: עָרַךְ (arakh)
-“To assess.” Jehoiakim taxes the land for Egyptian tribute.
+v13: Mount of Destruction
+The Hebrew designation for the hill associated with these shrines.

@@ -1,0 +1,1045 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-14T20:32:00.359676+00:00",
+  "base_commit": "f7f1fd7eb2d7534b8667a1d243746b3d28b915f0",
+  "scope": "1 Kings 22; 2 Kings 1–25; 1 Chronicles 1–4",
+  "new_chapters": 30,
+  "new_verses": 948,
+  "affected_source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1kings-22/1kings-verse-review.json",
+      "status": "PASSED",
+      "chapters": 1,
+      "verses": 53,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-2kings-1-25/2kings-verse-review.json",
+      "status": "PASSED",
+      "chapters": 25,
+      "verses": 719,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1chronicles-1-4/1chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 176,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "preservation": {
+    "prior_ledgers_byte_identical": 58,
+    "prior_chapters_byte_identical": 317,
+    "historical_provenance_and_unrelated_work_preserved": true
+  },
+  "cumulative_coverage": {
+    "ledgers": 61,
+    "chapters": 347,
+    "verses": 10537
+  },
+  "structural_chapters": [
+    {
+      "chapter": 22,
+      "verse_count": 53,
+      "path": "translations/fluent/OT/1kings/1Kings_22.md",
+      "before_sha256": "0d846591cfcfc031f7f344c5e64de0b52d5d0bbda3055e87c7e3de928169ba83",
+      "after_sha256": "4f078b2be64dcdb25b8ddb0168936fcdfa6367bd6d074973927edb57b0276aad",
+      "tsw_comparator_path": "books/OT/1kings/1Kings_22.md",
+      "tsw_comparator_sha256": "1fc5d651a34c3c8b74f5d3fa063528701fec556af2bcb96ec9df9c57f752ddbc"
+    },
+    {
+      "chapter": 1,
+      "verse_count": 18,
+      "path": "translations/fluent/OT/2kings/2Kings_01.md",
+      "before_sha256": "42c860bf3db78d706df425dbdbf9d69b050e1fe61ece19a4301e304dfc5e502b",
+      "after_sha256": "9291b196060cba57c99338b6202420c3689374ba6331606e22163cd873581160",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_01.md",
+      "tsw_comparator_sha256": "3c9ade59d3028c5e40edc7464a2dd9dfacb70038b7c433304f171c8ec21996a4"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 25,
+      "path": "translations/fluent/OT/2kings/2Kings_02.md",
+      "before_sha256": "970ec5b3cfb54fdb8f07d777c6174c7ec4fc048b4bd07c07de799d15f68ba363",
+      "after_sha256": "51e1289d0ca5c2cdfee3972cfecb74e7d493b8230dc41a4eb085585cc01c0a9b",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_02.md",
+      "tsw_comparator_sha256": "0f8bed66bff9dc9605b6c2c35b9cff9a41e367df9dc9a66de462e88182183980"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 27,
+      "path": "translations/fluent/OT/2kings/2Kings_03.md",
+      "before_sha256": "f92b413044b88187cb53f18ba1d27157a24d1e48fd2041027a0f419434c8db5f",
+      "after_sha256": "2ca7369f642479616dfa793024cf1637c63fba77b38f34981ce237d4564a88c2",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_03.md",
+      "tsw_comparator_sha256": "ea2bfac52cb75119438b40e809a4e4740ebe6f1ab33c39b2789409326af7270b"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 44,
+      "path": "translations/fluent/OT/2kings/2Kings_04.md",
+      "before_sha256": "9c1d20d09ed384c39e08280a2c344c6e365cd958bdcea49c8d50ae2107a1e367",
+      "after_sha256": "6503e65eace22198b9da82d254cacdeb6a3d9437226c8e2068b610837602fac4",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_04.md",
+      "tsw_comparator_sha256": "ede9927843335988243f3ce37dfd77fed511b917aeb67c398839db7ab41c0294"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 27,
+      "path": "translations/fluent/OT/2kings/2Kings_05.md",
+      "before_sha256": "e00418df2fb130d84005369452b8322cfdd44c4a35ab2504a7e4800d63b688cf",
+      "after_sha256": "321200820db0aa6650b03546129c74a89fac4347003464fc96a1df8158e07dc7",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_05.md",
+      "tsw_comparator_sha256": "26839c3a1abb2c2397125d4430cfd8c4c0e5cce383d4111ed3cd6542092b54af"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 33,
+      "path": "translations/fluent/OT/2kings/2Kings_06.md",
+      "before_sha256": "ff2da318988b4b46795517d51d29d83b4bcff7b9ca3132a4f9412f382c21831e",
+      "after_sha256": "40629b4aeaeae94589c91c66a7ae3f338353d226f9a943cbc47521d7a084b934",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_06.md",
+      "tsw_comparator_sha256": "de4f598c8056117d456a298aa374a4a97b4ad0be62d0dc1d4b9a6c8bd4796c91"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 20,
+      "path": "translations/fluent/OT/2kings/2Kings_07.md",
+      "before_sha256": "530e5d678865f14a4a13c6c127f3b752af825141c672ebebbfabf99b0e43098e",
+      "after_sha256": "5842cf6568f3853a4eb1550e3d692ed8c4f068ce5b1f14ad30ac47daada0212e",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_07.md",
+      "tsw_comparator_sha256": "8ddfefa8db81d8ddc3767f1994eddbf34d527c14db4b04bcaffa7439eda074bd"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 29,
+      "path": "translations/fluent/OT/2kings/2Kings_08.md",
+      "before_sha256": "098915b3b23366f271029e2ec242b764dddbfe37669ae48488431b1643fd17cb",
+      "after_sha256": "c600e64b7d5593d19c7dec7f80e075f3d47419c5dca080c7a2f8cb17b9eeb078",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_08.md",
+      "tsw_comparator_sha256": "1e2edce80dbacded6b60c4ded09085c56e677de17db1697af9569895c8b4f370"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 37,
+      "path": "translations/fluent/OT/2kings/2Kings_09.md",
+      "before_sha256": "1ef1ca5d64e89412d26ce71e479e3c7997429423fffe075f1d83b34902b590d0",
+      "after_sha256": "85fcf4258c26c73e0e47510be127b6151b3f02b035484f62388c396b35f9fdb5",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_09.md",
+      "tsw_comparator_sha256": "947ec43043fcbde462d0770ed6d33325a771c78bbd43116e2c4cbcc0bce43fd2"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 36,
+      "path": "translations/fluent/OT/2kings/2Kings_10.md",
+      "before_sha256": "24865186f1c6a295f7fd54e28f9bd890f2a4db5b31a4e167b2828ac8b619f701",
+      "after_sha256": "7a1321e8a6cdddb556aa757291e35b963746108e06e3b75bfe22f8ac8081f724",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_10.md",
+      "tsw_comparator_sha256": "3fbbf2f35013a9af3b83dd4d76ec6793b1d3fe78abda3dc7cf7a800e5041b0db"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 21,
+      "path": "translations/fluent/OT/2kings/2Kings_11.md",
+      "before_sha256": "e1f3f88cd625af5e4d77936f730774af55113cd4f7d910fbd1ddfef5211ae8fa",
+      "after_sha256": "f45c4d7984947f049d22f58f3784be433f4d2c7d9a75d749d778e935fbbfc3e4",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_11.md",
+      "tsw_comparator_sha256": "c37fd55fa23455d58d7248a69a0fc413e1017aec4258f22548b01a3db4bee29e"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 21,
+      "path": "translations/fluent/OT/2kings/2Kings_12.md",
+      "before_sha256": "db657e82b88a3d44746cfa818f4caef628c7fdd2bcaa7e741d909fd06f42bb5e",
+      "after_sha256": "c7a39e4a27348ac9511f23a9cf22729614473dd627bab281ff48e5618c969734",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_12.md",
+      "tsw_comparator_sha256": "5307826625c6a8ae469d0de3ff94bd5a8efae8ab88ce2ffa0b2493806a5676f0"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 25,
+      "path": "translations/fluent/OT/2kings/2Kings_13.md",
+      "before_sha256": "ef26f204f04bc21df5a2e19ee5f253f05831125fec069f7216023f6eedde4a0e",
+      "after_sha256": "a8f5d592e170912de9f42ffbd7d0fc2710d8cf1ec26f375da9d1d489a49e4a64",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_13.md",
+      "tsw_comparator_sha256": "e0686a375e0544c8f7c279b168b66aca791634c0902b89af33b19f836127b8ef"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 29,
+      "path": "translations/fluent/OT/2kings/2Kings_14.md",
+      "before_sha256": "5ba78520b3f4ae61583817a46bfcdd3b88eb1fefde44695bfabcea22df137157",
+      "after_sha256": "47d2180e0c95d31af91e29dc7dee2be24923b91c8a00f7d17373385d536d07ed",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_14.md",
+      "tsw_comparator_sha256": "fbcb1ec38cbc24ddb3a84c8ae2bad82b7d945652fce6d3e06e8aa453f28e5069"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 38,
+      "path": "translations/fluent/OT/2kings/2Kings_15.md",
+      "before_sha256": "26f20b44ed5339970e2be9662710496711c8d0887487d50b86519e15aa969fae",
+      "after_sha256": "0c94576ec2c81cbf80a892d06db6e0d08fb1afd35b1e323bd5ce71e5e27ded1d",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_15.md",
+      "tsw_comparator_sha256": "493ad5e8f5693133cbd22b95d4d6d9294d3280edd3ef6437c12669bcd05e478e"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 20,
+      "path": "translations/fluent/OT/2kings/2Kings_16.md",
+      "before_sha256": "eebfe4ccb7888b77e4925f0700bc528ef33acc8b497333e7300ceccc03bb08b1",
+      "after_sha256": "062461a41a335ac6e8ffe2d0c5cc6142e1945e99528657f33ecbddffc7103dad",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_16.md",
+      "tsw_comparator_sha256": "56a1e42c6b2bbc4974eb48cc5da26732c4b5f5347fcd5ad81bf8bb25f026ad98"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 41,
+      "path": "translations/fluent/OT/2kings/2Kings_17.md",
+      "before_sha256": "b820ad369624519d1e83cff5d7010090b30de26d0bab05812277abf8098685f0",
+      "after_sha256": "a2cab533f27eb2f39791483b66d8e8b99532d896d20fd90a2bf243963acf2630",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_17.md",
+      "tsw_comparator_sha256": "47aa7ac1407c98c20f4684b30acd26e2c19868c5c8773447aa7bb3c186a6001f"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 37,
+      "path": "translations/fluent/OT/2kings/2Kings_18.md",
+      "before_sha256": "3bb30f71aa8a0f26711866008a28dd0242d3c9325688405b18fabf5d14580d48",
+      "after_sha256": "6cf55cc01efc5d5909ab81e17ae17f6fc472f259634db1ba0fd44eb8e644fea9",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_18.md",
+      "tsw_comparator_sha256": "7d9cf0b2dceef57bcf31dff379f163ca94944597eba233e9db80ba8a29bc12c9"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 37,
+      "path": "translations/fluent/OT/2kings/2Kings_19.md",
+      "before_sha256": "bb3b21d5dee8f447e92a98c38234c0a38fbf412d743d4c8550fe5373a14c3b12",
+      "after_sha256": "e6dfa2d6ce4a27790173091c4699a7f14d35ff775a1f62cacf870359050623e0",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_19.md",
+      "tsw_comparator_sha256": "5b826b1990e2f0930774a70966ebdc2eebffcb9a1d88fdbedac49bc58a56908a"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 21,
+      "path": "translations/fluent/OT/2kings/2Kings_20.md",
+      "before_sha256": "ec85e19bd257d35d4247f5e903d36b26926230ad4cc84ab0f76c8f80a96150f6",
+      "after_sha256": "a396964841974f50bbcae52474af5f177ac3649727af2193b67eea495a0c6f03",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_20.md",
+      "tsw_comparator_sha256": "5f79e18f51e100a1cf91122ee55e17fb959e88731b448bb53bd957647cf8d7c0"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 26,
+      "path": "translations/fluent/OT/2kings/2Kings_21.md",
+      "before_sha256": "1f34f4ecdfc6de31b38e4621c369f33ad65225972a285bfbdfe0e6189a04701f",
+      "after_sha256": "a62e5eade9caf1b65e69a0a9629b816eef83f9b19d234e484d879b5ede70828a",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_21.md",
+      "tsw_comparator_sha256": "9e6a318199e9c0e2882b3e4c4c2b12fe89b44d6cebfe0a62c8354ef79c79f03c"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 20,
+      "path": "translations/fluent/OT/2kings/2Kings_22.md",
+      "before_sha256": "70a1e69d0287bfdf55a64bd1e24366519a6934dcc4be989018eca8588e71855b",
+      "after_sha256": "1ef6a6e795250ff4b6fae4bbc361da142b28cb4f8d3cc69e5317ae91ccfbfd73",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_22.md",
+      "tsw_comparator_sha256": "1c79d11e9c277224399feca17f8d062d554d2aa1ff730adbce98501b2e9ac462"
+    },
+    {
+      "chapter": 23,
+      "verse_count": 37,
+      "path": "translations/fluent/OT/2kings/2Kings_23.md",
+      "before_sha256": "2e6600b396ed9b4924456efffdacd5f1f74469913a88c9f2574232231b0bfafb",
+      "after_sha256": "233694576dec6808e84d19f48e87e20fa29a7ca2bbdfabb8162d8be4308f2fdd",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_23.md",
+      "tsw_comparator_sha256": "f3537e8b029ff375ebde3379f6f01eb0ab21977e61e70fcb6a56796e5acf81ba"
+    },
+    {
+      "chapter": 24,
+      "verse_count": 20,
+      "path": "translations/fluent/OT/2kings/2Kings_24.md",
+      "before_sha256": "fe19530155d2111fe2da5cb6fad8da2bb0cebb69cc2d62e5ef9a7ac5f5d80ecf",
+      "after_sha256": "0dce389336cdb65cb4e79beaf20fe7754d01a5c8ed81e136670f86a9c3c41103",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_24.md",
+      "tsw_comparator_sha256": "5a6b0ea46f87007046d9de31e1f2c6c55b7d4aa927df7fd9865f9460c7705675"
+    },
+    {
+      "chapter": 25,
+      "verse_count": 30,
+      "path": "translations/fluent/OT/2kings/2Kings_25.md",
+      "before_sha256": "cd31f5b0025766f1e8e5c226d77a73fcd27898a7157a96bfb0c42e65d8eeea04",
+      "after_sha256": "aee7f72294880b5ac918ba73f155500671816cdbc2d5751c4208e0b1b9f6e869",
+      "tsw_comparator_path": "books/OT/2kings/2Kings_25.md",
+      "tsw_comparator_sha256": "b8d8965e2c28ac6b9653695bd9f150cfd83cefd53fcf4ee166dc308405183d65"
+    },
+    {
+      "chapter": 1,
+      "verse_count": 54,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_01.md",
+      "before_sha256": "767d9081a242885795f959097a26ef8ff99026483251b85dd9731670c6a2e08b",
+      "after_sha256": "df2a44006e27df9dbb77236749d118cc8edb60e01b2491325a6ec907a7cc04c2",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_01.md",
+      "tsw_comparator_sha256": "6bc261b4e57cf7234fa438859d6349850c79c984f02133be55a7ac3db4370d52"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 55,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_02.md",
+      "before_sha256": "749f0b9aa7aa02d2636b6000048168030f8e6a40baf965c46c2fbbc19c677945",
+      "after_sha256": "02415576dd3a123f65ec08b115680e80290674edbbd5ce36a7ba3bf1dbe49cd9",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_02.md",
+      "tsw_comparator_sha256": "f35e160329438f03b9a1fbe953f25f7d48f66f8833540c1f137f300dbb162d7a"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 24,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_03.md",
+      "before_sha256": "6350d127f66bbb0b08cf1970bfd03e67a30922e85313f3d34ddf6c04e7e15042",
+      "after_sha256": "fa53764b1a641b37a824454c1fb640935c5ab1c65bdd523d44884ea6eaec056d",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_03.md",
+      "tsw_comparator_sha256": "39f5a1427cb0ac83b7045c85754e48c6b8d06e6a06a24d59e864c4354d000fa2"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 43,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_04.md",
+      "before_sha256": "b9e4040b338c8ce737bdec488a258f880889933bb70356eaa4ce9597a1003279",
+      "after_sha256": "aadfeb3e8a268bc22186b9d5f86bcf1b287025ba0b052351dea43a876a357eb5",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_04.md",
+      "tsw_comparator_sha256": "4e53531425fa9d36609b03ad6909adb5762c3bfc9ed90df64925ecb8b03d8092"
+    }
+  ],
+  "first_source_reading": {
+    "public_verses": 948,
+    "original_records": 949,
+    "all_original_annotations_read": true
+  },
+  "tsw_comparator_reading": 948,
+  "focused_source_reread": {
+    "1kings": 20,
+    "2kings": 200,
+    "1chronicles": 44
+  },
+  "focused_assertions": {
+    "1 Kings 22:6": [
+      "four hundred",
+      "Lord"
+    ],
+    "1 Kings 22:21": [
+      "How?"
+    ],
+    "1 Kings 22:38": [
+      "prostitutes",
+      "Samaria"
+    ],
+    "1 Kings 22:42": [
+      "thirty-five",
+      "twenty-five",
+      "Azubah",
+      "Shilhi"
+    ],
+    "1 Kings 22:43": [
+      "high places",
+      "Asa"
+    ],
+    "1 Kings 22:46": [
+      "male shrine attendants"
+    ],
+    "1 Kings 22:51": [
+      "seventeenth",
+      "two years"
+    ],
+    "2 Kings 1:14": [
+      "two captains",
+      "each with his fifty"
+    ],
+    "2 Kings 1:17": [
+      "second year",
+      "Jehoram son of Jehoshaphat"
+    ],
+    "2 Kings 2:9": [
+      "double share"
+    ],
+    "2 Kings 2:11": [
+      "chariot of fire",
+      "whirlwind"
+    ],
+    "2 Kings 2:24": [
+      "two female bears",
+      "forty-two",
+      "children",
+      "tore"
+    ],
+    "2 Kings 3:4": [
+      "hundred thousand lambs",
+      "wool of a hundred thousand rams"
+    ],
+    "2 Kings 3:26": [
+      "seven hundred",
+      "Edom"
+    ],
+    "2 Kings 3:27": [
+      "firstborn son",
+      "burnt offering",
+      "Great wrath"
+    ],
+    "2 Kings 4:1": [
+      "two children as slaves"
+    ],
+    "2 Kings 4:10": [
+      "bed, table, chair, and lampstand"
+    ],
+    "2 Kings 4:35": [
+      "seven times"
+    ],
+    "2 Kings 4:42": [
+      "twenty barley loaves"
+    ],
+    "2 Kings 4:43": [
+      "hundred men"
+    ],
+    "2 Kings 5:1": [
+      "LORD had given Aram victory"
+    ],
+    "2 Kings 5:2": [
+      "captured a young girl"
+    ],
+    "2 Kings 5:5": [
+      "ten talents",
+      "six thousand gold shekels",
+      "ten changes"
+    ],
+    "2 Kings 5:12": [
+      "Amana",
+      "Pharpar"
+    ],
+    "2 Kings 5:14": [
+      "seven times"
+    ],
+    "2 Kings 5:17": [
+      "two mule-loads"
+    ],
+    "2 Kings 5:18": [
+      "Rimmon",
+      "bow",
+      "forgive"
+    ],
+    "2 Kings 5:26": [
+      "male and female slaves"
+    ],
+    "2 Kings 5:27": [
+      "descendants forever"
+    ],
+    "2 Kings 6:10": [
+      "on his guard"
+    ],
+    "2 Kings 6:25": [
+      "eighty",
+      "quarter-kab",
+      "five"
+    ],
+    "2 Kings 6:29": [
+      "boiled my son",
+      "ate him"
+    ],
+    "2 Kings 7:1": [
+      "seah of fine flour",
+      "two seahs of barley",
+      "shekel"
+    ],
+    "2 Kings 7:6": [
+      "Hittite kings",
+      "kings of Egypt"
+    ],
+    "2 Kings 7:13": [
+      "five",
+      "horses"
+    ],
+    "2 Kings 7:14": [
+      "two chariot teams"
+    ],
+    "2 Kings 8:9": [
+      "forty camel loads"
+    ],
+    "2 Kings 8:10": [
+      "certainly recover",
+      "certainly die"
+    ],
+    "2 Kings 8:12": [
+      "dash their little children",
+      "rip open their pregnant women"
+    ],
+    "2 Kings 8:13": [
+      "great thing"
+    ],
+    "2 Kings 8:17": [
+      "thirty-two",
+      "eight years"
+    ],
+    "2 Kings 8:25": [
+      "twelfth"
+    ],
+    "2 Kings 8:26": [
+      "twenty-two",
+      "Athaliah",
+      "daughter of Omri"
+    ],
+    "2 Kings 9:8": [
+      "urinates against a wall"
+    ],
+    "2 Kings 9:20": [
+      "madman"
+    ],
+    "2 Kings 9:26": [
+      "Naboth",
+      "his sons"
+    ],
+    "2 Kings 9:27": [
+      "Megiddo",
+      "died there"
+    ],
+    "2 Kings 9:29": [
+      "eleventh"
+    ],
+    "2 Kings 9:33": [
+      "Jehu trampled her"
+    ],
+    "2 Kings 9:35": [
+      "skull",
+      "feet",
+      "palms"
+    ],
+    "2 Kings 10:1": [
+      "seventy sons",
+      "Jezreel"
+    ],
+    "2 Kings 10:8": [
+      "two heaps"
+    ],
+    "2 Kings 10:14": [
+      "forty-two"
+    ],
+    "2 Kings 10:24": [
+      "eighty"
+    ],
+    "2 Kings 10:30": [
+      "fourth generation"
+    ],
+    "2 Kings 10:36": [
+      "twenty-eight"
+    ],
+    "2 Kings 11:3": [
+      "six years"
+    ],
+    "2 Kings 11:4": [
+      "seventh"
+    ],
+    "2 Kings 11:10": [
+      "the spear and shields"
+    ],
+    "2 Kings 11:12": [
+      "testimony"
+    ],
+    "2 Kings 11:21": [
+      "seven years old"
+    ],
+    "2 Kings 12:1": [
+      "seventh",
+      "forty years",
+      "Zibiah"
+    ],
+    "2 Kings 12:6": [
+      "twenty-third"
+    ],
+    "2 Kings 12:21": [
+      "Jozabad",
+      "Jehozabad"
+    ],
+    "2 Kings 13:1": [
+      "twenty-third",
+      "seventeen"
+    ],
+    "2 Kings 13:7": [
+      "fifty horsemen",
+      "ten chariots",
+      "ten thousand"
+    ],
+    "2 Kings 13:10": [
+      "thirty-seventh",
+      "sixteen"
+    ],
+    "2 Kings 13:18": [
+      "three times"
+    ],
+    "2 Kings 13:19": [
+      "five or six"
+    ],
+    "2 Kings 13:21": [
+      "Elisha’s bones",
+      "came to life"
+    ],
+    "2 Kings 13:23": [
+      "Abraham, Isaac, and Jacob"
+    ],
+    "2 Kings 14:2": [
+      "twenty-five",
+      "twenty-nine",
+      "Jehoaddan"
+    ],
+    "2 Kings 14:6": [
+      "did not put the killers’ sons to death"
+    ],
+    "2 Kings 14:7": [
+      "ten thousand",
+      "Sela",
+      "Joktheel"
+    ],
+    "2 Kings 14:13": [
+      "four hundred cubits"
+    ],
+    "2 Kings 14:17": [
+      "fifteen years"
+    ],
+    "2 Kings 14:21": [
+      "sixteen years old"
+    ],
+    "2 Kings 14:23": [
+      "fifteenth",
+      "forty-one"
+    ],
+    "2 Kings 14:25": [
+      "Jonah son of Amittai"
+    ],
+    "2 Kings 14:28": [
+      "Damascus and Hamath, which had belonged to Judah"
+    ],
+    "2 Kings 15:1": [
+      "twenty-seventh"
+    ],
+    "2 Kings 15:2": [
+      "sixteen",
+      "fifty-two"
+    ],
+    "2 Kings 15:8": [
+      "thirty-eighth",
+      "six months"
+    ],
+    "2 Kings 15:13": [
+      "thirty-ninth",
+      "one month"
+    ],
+    "2 Kings 15:16": [
+      "Tiphsah",
+      "pregnant women"
+    ],
+    "2 Kings 15:19": [
+      "thousand talents"
+    ],
+    "2 Kings 15:20": [
+      "fifty shekels"
+    ],
+    "2 Kings 15:25": [
+      "fifty men",
+      "Argob",
+      "Arieh"
+    ],
+    "2 Kings 15:27": [
+      "fifty-second",
+      "twenty years"
+    ],
+    "2 Kings 15:30": [
+      "twentieth year of Jotham"
+    ],
+    "2 Kings 15:33": [
+      "sixteen years"
+    ],
+    "2 Kings 16:2": [
+      "twenty years old",
+      "sixteen years"
+    ],
+    "2 Kings 16:3": [
+      "son pass through the fire"
+    ],
+    "2 Kings 16:6": [
+      "Elath for Aram",
+      "Edomites"
+    ],
+    "2 Kings 16:15": [
+      "inquire by"
+    ],
+    "2 Kings 17:6": [
+      "Halah",
+      "Habor",
+      "Gozan",
+      "Media"
+    ],
+    "2 Kings 17:15": [
+      "empty and became empty"
+    ],
+    "2 Kings 17:17": [
+      "sons and daughters"
+    ],
+    "2 Kings 17:18": [
+      "Only the tribe of Judah"
+    ],
+    "2 Kings 17:19": [
+      "Judah too failed"
+    ],
+    "2 Kings 17:33": [
+      "feared the LORD"
+    ],
+    "2 Kings 17:34": [
+      "do not fear the LORD"
+    ],
+    "2 Kings 17:41": [
+      "feared the LORD"
+    ],
+    "2 Kings 18:2": [
+      "twenty-five",
+      "twenty-nine"
+    ],
+    "2 Kings 18:4": [
+      "bronze serpent",
+      "Nehushtan"
+    ],
+    "2 Kings 18:14": [
+      "three hundred",
+      "thirty talents"
+    ],
+    "2 Kings 18:17": [
+      "Tartan",
+      "Rab-saris",
+      "Rab-shakeh"
+    ],
+    "2 Kings 18:23": [
+      "two thousand horses"
+    ],
+    "2 Kings 18:26": [
+      "Aramaic",
+      "Judean"
+    ],
+    "2 Kings 18:27": [
+      "excrement",
+      "urine"
+    ],
+    "2 Kings 19:7": [
+      "spirit"
+    ],
+    "2 Kings 19:14": [
+      "letters"
+    ],
+    "2 Kings 19:28": [
+      "hook in your nose",
+      "bridle in your lips"
+    ],
+    "2 Kings 19:31": [
+      "LORD of Armies"
+    ],
+    "2 Kings 19:35": [
+      "hundred and eighty-five thousand"
+    ],
+    "2 Kings 19:37": [
+      "his sons",
+      "Ararat"
+    ],
+    "2 Kings 20:4": [
+      "middle courtyard"
+    ],
+    "2 Kings 20:6": [
+      "fifteen years"
+    ],
+    "2 Kings 20:11": [
+      "back ten steps"
+    ],
+    "2 Kings 20:12": [
+      "Berodach-baladan"
+    ],
+    "2 Kings 20:13": [
+      "listened to them"
+    ],
+    "2 Kings 20:18": [
+      "eunuchs"
+    ],
+    "2 Kings 21:1": [
+      "twelve",
+      "fifty-five"
+    ],
+    "2 Kings 21:13": [
+      "measuring line",
+      "plumb line",
+      "dish"
+    ],
+    "2 Kings 21:16": [
+      "innocent blood"
+    ],
+    "2 Kings 21:19": [
+      "twenty-two",
+      "two years"
+    ],
+    "2 Kings 22:1": [
+      "eight",
+      "thirty-one"
+    ],
+    "2 Kings 22:3": [
+      "eighteenth"
+    ],
+    "2 Kings 22:14": [
+      "Huldah the prophetess"
+    ],
+    "2 Kings 22:20": [
+      "grave in peace"
+    ],
+    "2 Kings 23:7": [
+      "male shrine attendants",
+      "Asherah"
+    ],
+    "2 Kings 23:11": [
+      "removed the horses",
+      "burned the sun’s chariots"
+    ],
+    "2 Kings 23:13": [
+      "Solomon",
+      "Ashtoreth",
+      "Chemosh",
+      "Milcom"
+    ],
+    "2 Kings 23:20": [
+      "slaughtered all the priests"
+    ],
+    "2 Kings 23:22": [
+      "No Passover like this"
+    ],
+    "2 Kings 23:25": [
+      "all his heart, all his being, and all his strength"
+    ],
+    "2 Kings 23:26": [
+      "did not turn"
+    ],
+    "2 Kings 23:29": [
+      "to the king of Assyria",
+      "Megiddo"
+    ],
+    "2 Kings 23:30": [
+      "carried him dead"
+    ],
+    "2 Kings 23:31": [
+      "twenty-three",
+      "three months"
+    ],
+    "2 Kings 23:33": [
+      "hundred talents of silver",
+      "one talent of gold"
+    ],
+    "2 Kings 23:36": [
+      "twenty-five",
+      "eleven",
+      "Zebudah"
+    ],
+    "2 Kings 24:8": [
+      "eighteen",
+      "three months"
+    ],
+    "2 Kings 24:12": [
+      "eighth"
+    ],
+    "2 Kings 24:14": [
+      "ten thousand"
+    ],
+    "2 Kings 24:16": [
+      "seven thousand",
+      "a thousand"
+    ],
+    "2 Kings 24:17": [
+      "uncle Mattaniah",
+      "Zedekiah"
+    ],
+    "2 Kings 24:18": [
+      "twenty-one",
+      "eleven"
+    ],
+    "2 Kings 25:1": [
+      "ninth year",
+      "tenth day of the tenth month"
+    ],
+    "2 Kings 25:2": [
+      "eleventh"
+    ],
+    "2 Kings 25:3": [
+      "ninth day of the month"
+    ],
+    "2 Kings 25:7": [
+      "sons before his eyes",
+      "put out Zedekiah’s eyes"
+    ],
+    "2 Kings 25:8": [
+      "seventh day of the fifth month",
+      "nineteenth year"
+    ],
+    "2 Kings 25:17": [
+      "eighteen cubits",
+      "three cubits"
+    ],
+    "2 Kings 25:18": [
+      "three threshold guards"
+    ],
+    "2 Kings 25:19": [
+      "five",
+      "sixty"
+    ],
+    "2 Kings 25:25": [
+      "seventh month",
+      "ten men"
+    ],
+    "2 Kings 25:27": [
+      "thirty-seventh",
+      "twenty-seventh",
+      "twelfth"
+    ],
+    "2 Kings 25:29": [
+      "rest of his life"
+    ],
+    "2 Kings 25:30": [
+      "rest of his life"
+    ],
+    "1 Chronicles 1:6": [
+      "Diphath"
+    ],
+    "1 Chronicles 1:7": [
+      "Rodanim"
+    ],
+    "1 Chronicles 1:17": [
+      "Meshech"
+    ],
+    "1 Chronicles 1:22": [
+      "Ebal"
+    ],
+    "1 Chronicles 1:36": [
+      "Timna",
+      "Amalek"
+    ],
+    "1 Chronicles 1:42": [
+      "Jaakan",
+      "Dishon"
+    ],
+    "1 Chronicles 1:50": [
+      "Hadad",
+      "Pai"
+    ],
+    "1 Chronicles 1:51": [
+      "Alvah"
+    ],
+    "1 Chronicles 2:15": [
+      "David the seventh"
+    ],
+    "1 Chronicles 2:17": [
+      "Jether the Ishmaelite"
+    ],
+    "1 Chronicles 2:18": [
+      "Azubah",
+      "Jerioth"
+    ],
+    "1 Chronicles 2:21": [
+      "sixty"
+    ],
+    "1 Chronicles 2:22": [
+      "twenty-three towns"
+    ],
+    "1 Chronicles 2:23": [
+      "sixty towns"
+    ],
+    "1 Chronicles 2:24": [
+      "Caleb-ephrathah"
+    ],
+    "1 Chronicles 2:31": [
+      "Ahlai"
+    ],
+    "1 Chronicles 2:34": [
+      "no sons, only daughters",
+      "Egyptian slave"
+    ],
+    "1 Chronicles 2:35": [
+      "slave Jarha"
+    ],
+    "1 Chronicles 2:42": [
+      "sons of Mareshah"
+    ],
+    "1 Chronicles 2:50": [
+      "Caleb son of Hur"
+    ],
+    "1 Chronicles 3:1": [
+      "Daniel"
+    ],
+    "1 Chronicles 3:5": [
+      "Bath-shua",
+      "Ammiel"
+    ],
+    "1 Chronicles 3:6": [
+      "Elishama",
+      "Eliphelet"
+    ],
+    "1 Chronicles 3:8": [
+      "Elishama",
+      "Eliphelet",
+      "nine"
+    ],
+    "1 Chronicles 3:17": [
+      "the captive"
+    ],
+    "1 Chronicles 3:19": [
+      "Pedaiah’s sons",
+      "Zerubbabel"
+    ],
+    "1 Chronicles 3:22": [
+      "Hattush, Igal, Bariah, Neariah, and Shaphat—six"
+    ],
+    "1 Chronicles 3:24": [
+      "seven"
+    ],
+    "1 Chronicles 4:3": [
+      "father of Etam"
+    ],
+    "1 Chronicles 4:17": [
+      "She conceived"
+    ],
+    "1 Chronicles 4:18": [
+      "Judean wife",
+      "Bithiah"
+    ],
+    "1 Chronicles 4:22": [
+      "ruled in Moab",
+      "Jashubi-lehem"
+    ],
+    "1 Chronicles 4:27": [
+      "sixteen sons",
+      "six daughters"
+    ],
+    "1 Chronicles 4:32": [
+      "five towns"
+    ],
+    "1 Chronicles 4:41": [
+      "Meunites",
+      "devoted them to destruction"
+    ],
+    "1 Chronicles 4:42": [
+      "Five hundred",
+      "Pelatiah, Neariah, Rephaiah, and Uzziel"
+    ],
+    "1 Chronicles 4:43": [
+      "remnant of Amalek"
+    ]
+  },
+  "whole_1kings_source_records_bound_once": 817,
+  "whole_2kings_source_records_bound_once": 719,
+  "selected_1chronicles_source_records_bound_once": 176,
+  "public_source_versification_checked": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_samuel_and_kings_consistency_passes": "PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

@@ -4,126 +4,81 @@ testament: OT
 chapter: 22
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Josiah Reigns in Judah
+## Josiah and the discovered book
 
 <p>
-v01: Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem. His mother’s name was Jedidah daughter of Adaiah from Bozkath.
-
-v02: He did what was right in the eyes of the LORD and walked in all the way of David his ancestor. He did not turn aside to the right or to the left.
+v01: Josiah was eight years old when he became king, and he reigned in Jerusalem for thirty-one years. His mother’s name was Jedidah, daughter of Adaiah, from Bozkath.
+v02: He did what was right in the LORD’s eyes and walked in all the ways of his ancestor David, turning aside neither to the right nor to the left.
 </p>
 
-## Josiah Orders Repairs to the Temple
-
 <p>
-v03: In the eighteenth year of King Josiah, the king sent Shaphan son of Azaliah son of Meshullam, the scribe, to the house of the LORD, saying,
-
-v04: “Go up to Hilkiah the high priest and let him count the silver that has been brought into the house of the LORD, which the keepers of the threshold have gathered from the people.
-
-v05: Let them give it into the hand of those doing the work, those appointed over the house of the LORD, and let them give it to those doing the work who are in the house of the LORD to repair the damage of the house:
-
-v06: to carpenters, builders, and masons, and to buy timber and quarried stone to repair the house.
-
-v07: But no accounting will be required from them for the silver given into their hand, for they are acting faithfully.”
+v03: In King Josiah’s eighteenth year, the king sent Shaphan the secretary, son of Azaliah, son of Meshullam, to the LORD’s house with this command:
 </p>
 
-## The Book of the Instruction Is Found
-
 <p>
-v08: Hilkiah the high priest said to Shaphan the scribe, “I have found the book of the instruction in the house of the LORD.” Hilkiah gave the book to Shaphan, and he read it.
-
-v09: Shaphan the scribe came to the king and returned a word to the king and said, “Your servants have poured out the silver that was found in the house and have given it into the hand of those doing the work, those appointed over the house of the LORD.”
-
-v10: Then Shaphan the scribe told the king, saying, “Hilkiah the priest has given me a book.” And Shaphan read it before the king.
+v04: “Go up to Hilkiah the high priest and have him total the money brought into the LORD’s house, which the threshold guards have collected from the people.
+v05: Let them put it into the hands of those supervising the work on the LORD’s house, who are to pay the workers repairing the damage to the house—
+v06: the carpenters, builders, and masons—and buy timber and dressed stone to repair the house.
+v07: But no accounting is to be required from them for the money entrusted to them, because they act faithfully.”
 </p>
 
-## Josiah Tears His Clothes
-
 <p>
-v11: And it happened when the king heard the words of the book of the instruction that he tore his clothes.
-
-v12: The king commanded Hilkiah the priest, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the scribe, and Asaiah servant of the king, saying,
-
-v13: “Go, inquire of the LORD for me and for the people and for all Judah concerning the words of this book that has been found. For great is the fury of the LORD that is kindled against us because our ancestors did not listen to the words of this book, to do according to all that is written concerning us.”
+v08: Hilkiah the high priest told Shaphan the secretary, “I have found the Book of the Instruction in the LORD’s house.” Hilkiah gave the book to Shaphan, and he read it.
 </p>
 
-## Huldah the Prophet Speaks
-
 <p>
-v14: So Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophet, wife of Shallum son of Tikvah son of Harhas, keeper of the garments. She lived in Jerusalem in the Second Quarter, and they spoke with her.
-
-v15: She said to them, “Thus says the LORD, the God of Israel: Say to the man who sent you to me:
-
-v16: Thus says the LORD: Look, I am bringing disaster upon this place and upon its inhabitants, all the words of the book that the king of Judah has read,
-
-v17: because they abandoned me and burned incense to other gods in order to provoke me to anger with all the work of their hands. My fury is kindled against this place and will not be extinguished.
+v09: Shaphan the secretary came to the king and reported, “Your servants have emptied out the money found in the house and given it to those supervising the work on the LORD’s house.”
+v10: Then Shaphan the secretary told the king, “Hilkiah the priest has given me a book.” And Shaphan read it aloud before the king.
 </p>
 
-## Josiah Will Be Gathered in Peace
+## The king consults Huldah
 
 <p>
-v18: “But to the king of Judah who sent you to inquire of the LORD, thus you will say to him: Thus says the LORD, the God of Israel, concerning the words that you have heard:
+v11: When the king heard the words of the Book of the Instruction, he tore his clothes.
+</p>
 
-v19: Because your heart was tender and you humbled yourself before the LORD when you heard what I spoke against this place and against its inhabitants, that they would become a horror and a curse, and you tore your clothes and wept before me, I also have heard you, says the LORD.
+<p>
+v12: The king commanded Hilkiah the priest, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the secretary, and Asaiah the king’s servant:
+v13: “Go and inquire of the LORD for me, for the people, and for all Judah concerning the words of this book that has been found. Great is the LORD’s wrath kindled against us, because our ancestors did not listen to this book’s words and do everything written for us.”
+</p>
 
-v20: So look, I am gathering you to your ancestors, and you will be gathered to your grave in peace. Your eyes will not see all the disaster that I am bringing upon this place.”
+<p>
+v14: Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophetess, wife of Shallum son of Tikvah, son of Harhas, keeper of the wardrobe. She lived in Jerusalem’s Second Quarter. They spoke with her,
+</p>
 
-Then they returned the word to the king.
+<p>
+v15: and she said to them, “This is what the LORD, the God of Israel, says: Tell the man who sent you to me:
+v16: This is what the LORD says: I am bringing disaster on this place and its inhabitants—all the words of the book the king of Judah has read.
+v17: Because they abandoned me and burned offerings to other gods, provoking me with all the work of their hands, my wrath is kindled against this place and will not be quenched.
+</p>
+
+<p>
+v18: But tell the king of Judah, who sent you to inquire of the LORD: This is what the LORD, the God of Israel, says concerning the words you heard:
+v19: Because your heart was tender and you humbled yourself before the LORD when you heard what I said against this place and its inhabitants—that they would become a desolation and a curse—and because you tore your clothes and wept before me, I too have heard you, declares the LORD.
+v20: Therefore I will gather you to your ancestors, and you will be gathered to your grave in peace. Your eyes will not see all the disaster I am bringing on this place.” They took the reply back to the king.
 </p>
 
 ## Notes
 
-v02: Josiah’s evaluation echoes Deuteronomy’s command not to turn aside to the right or left, presenting him as exceptionally Torah-shaped.
+v08: The text calls the discovery the Book of the Instruction, using torah. Its exact extent is not stated.
 
-v03–07: Like Joash, Josiah begins with temple repair, and trusted workers again receive funds without detailed accounting because they act faithfully.
+v14: Huldah is explicitly a female prophet. Her oracle is delivered directly to the royal delegation.
 
-v08: “book of the instruction” is traditionally identified with some form of Deuteronomy, though the narrative itself does not name its exact contents.
-
-v10: The book moves from priest to scribe to king, and public authority is confronted by written covenant instruction.
-
-v11: Josiah’s immediate response is embodied grief rather than defensive argument.
-
-v13: The king interprets the discovered book not as an antiquarian object but as a living covenant witness explaining present divine anger.
-
-v14: Huldah is the prophet consulted by the king’s highest officials. Her gender is noted by the text without diminishing her authority to deliver the LORD’s word.
-
-v14: The “Second Quarter” is a district of Jerusalem whose exact boundaries are uncertain.
-
-v16–17: Huldah confirms that the book’s announced judgment will come because Judah’s long history of idolatry has reached a point of no return.
-
-v19: Josiah’s tender heart, humility, torn clothing, and tears are explicitly said to be heard by the LORD.
-
-v20: Josiah later dies violently in battle in chapter 23. “Gathered … in peace” therefore refers to being spared from seeing Jerusalem’s final catastrophe rather than necessarily dying without violence.
+v20: The promise of burial “in peace” stands beside Josiah’s later violent death in 23:29–30. The oracle also says he will not see the coming disaster on this place. The draft leaves both statements intact.
 
 ## Vocabulary
 
-v02: יָשָׁר (yashar)
-“Right.” Josiah does what is right in the LORD’s eyes.
+v08: Instruction
+Hebrew torah: authoritative teaching or law.
 
-v04: תָּמַם (tamam)
-“To count completely” or total. Hilkiah totals temple funds.
+v14: Second Quarter
+A district of Jerusalem.
 
-v05: בֶּדֶק (bedeq)
-“Damage” or breach. Temple deterioration needing repair.
-
-v07: אֱמוּנָה (emunah)
-“Faithfulness.” The workers are trustworthy.
-
-v08: סֵפֶר הַתּוֹרָה (sefer ha-torah)
-“Book of the instruction.”
-
-v13: דָּרַשׁ (darash)
-“To inquire.” Josiah seeks the LORD concerning the book.
-
-v14: נְבִיאָה (nevi'ah)
-“Prophet.” The title given to Huldah.
-
-v19: רַךְ לֵב (rakh lev)
-“Tender heart.” A heart responsive to the divine word.
-
-v19: כָּנַע (kana)
-“To humble oneself.”
-
-v20: אָסַף (asaf)
-“To gather.” Josiah will be gathered to his ancestors.
+v19: Tender heart
+A receptive response to the warning, shown here in humility and mourning.

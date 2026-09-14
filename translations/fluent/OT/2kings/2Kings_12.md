@@ -4,126 +4,87 @@ testament: OT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Joash Reigns in Jerusalem
+## Joash and the temple repairs
 
 <p>
-v01: In the seventh year of Jehu, Joash became king, and he reigned forty years in Jerusalem. His mother’s name was Zibiah from Beersheba.
-
-v02: Joash did what was right in the eyes of the LORD all his days in which Jehoiada the priest instructed him.
-
-v03: Only the high places were not removed. The people were still sacrificing and burning incense on the high places.
+v01: Joash became king in Jehu’s seventh year and reigned in Jerusalem for forty years. His mother’s name was Zibiah, from Beer-sheba.
+v02: Joash did what was right in the LORD’s eyes throughout the time Jehoiada the priest instructed him.
+v03: Yet the high places were not removed. The people still sacrificed and burned offerings there.
 </p>
 
-## Joash Orders Repairs to the Temple
-
 <p>
-v04: Joash said to the priests, “All the silver of the holy things that is brought into the house of the LORD—the silver of people who pass over, the silver of each person’s valuation, and all silver that comes upon a person’s heart to bring into the house of the LORD—
-
-v05: let the priests take it, each from his acquaintance, and let them repair the damage of the house wherever damage is found.”
-
-v06: But in the twenty-third year of King Joash, the priests had not repaired the damage of the house.
-
-v07: So King Joash called Jehoiada the priest and the other priests and said to them, “Why are you not repairing the damage of the house? And now, do not take silver from your acquaintances for yourselves, but give it for the damage of the house.”
-
-v08: The priests agreed that they would no longer take silver from the people and that they would not themselves repair the damage of the house.
+v04: Joash said to the priests, “All the money brought into the LORD’s house as sacred gifts—the money collected from those counted, the money from personal assessments, and all the money anyone’s heart prompts them to bring to the LORD’s house—
+v05: the priests are to receive, each from his acquaintances. They must repair the house wherever damage is found.”
 </p>
 
-## A Chest Is Set beside the Altar
-
 <p>
-v09: Jehoiada the priest took a chest, bored a hole in its lid, and placed it beside the altar, on the right side as one enters the house of the LORD. The priests who guarded the threshold put there all the silver that was brought into the house of the LORD.
-
-v10: And it happened whenever they saw that there was much silver in the chest, the king’s scribe and the high priest would come up, bind and count the silver that was found in the house of the LORD.
-
-v11: They would give the weighed silver into the hands of those doing the work, those appointed over the house of the LORD. They paid it out to the carpenters and builders who worked on the house of the LORD,
-
-v12: to masons and stonecutters, and to buy timber and quarried stone to repair the damage of the house of the LORD and for everything that went out for repairing the house.
+v06: But by King Joash’s twenty-third year, the priests had still not repaired the damage to the house.
+v07: So King Joash called Jehoiada the priest and the other priests and asked, “Why aren’t you repairing the damage to the house? From now on, stop taking money from your acquaintances. Hand it over for the repairs.”
 </p>
 
-## The Money Is Used for Repair Work
-
 <p>
-v13: But there were not made for the house of the LORD silver basins, snuffers, bowls, trumpets, or any vessel of gold or vessel of silver from the money brought into the house of the LORD,
-
-v14: for they gave it to those doing the work, and with it they repaired the house of the LORD.
-
-v15: They did not require an accounting from the men into whose hand they gave the silver to give to those doing the work, for they were acting faithfully.
-
-v16: The silver of guilt offerings and the silver of sin offerings was not brought into the house of the LORD; it belonged to the priests.
+v08: The priests agreed not to take any more money from the people and not to be responsible for repairing the house.
 </p>
 
-## Joash Pays Hazael to Withdraw
-
 <p>
-v17: Then Hazael king of Aram went up and fought against Gath and captured it. Hazael set his face to go up against Jerusalem.
-
-v18: Joash king of Judah took all the holy things that Jehoshaphat, Jehoram, and Ahaziah his ancestors, kings of Judah, had consecrated, and his own holy things, and all the gold found in the treasuries of the house of the LORD and the king’s house, and sent them to Hazael king of Aram. Then he went away from Jerusalem.
+v09: Jehoiada the priest took a chest, bored a hole in its lid, and placed it beside the altar, on the right as one entered the LORD’s house. The priests guarding the threshold put into it all the money brought to the LORD’s house.
+v10: Whenever they saw that there was a great deal of money in the chest, the king’s secretary and the high priest came up, bagged it, and counted the money found in the LORD’s house.
 </p>
 
-## Joash Is Assassinated
+<p>
+v11: They gave the weighed money to those supervising the work on the LORD’s house. These paid it out to the carpenters and builders working on the house,
+v12: to the masons and stonecutters, and for timber and dressed stone to repair the LORD’s house, as well as every other expense of the repairs.
+</p>
 
 <p>
-v19: Now the rest of the acts of Joash and all that he did, are they not written in the book of the chronicles of the kings of Judah?
+v13: But none of the money brought into the LORD’s house was used to make silver basins, snuffers, bowls, trumpets, or any gold or silver utensils for the house.
+v14: Instead, they gave it to the workers and used it to repair the LORD’s house.
+</p>
 
-v20: His servants arose and made a conspiracy and struck Joash at the house of Millo, on the way that goes down to Silla.
+<p>
+v15: No accounting was required from the men entrusted with paying the workers, because they acted faithfully.
+v16: Money from guilt offerings and sin offerings was not brought into the LORD’s house; it belonged to the priests.
+</p>
 
-v21: Jozacar son of Shimeath and Jehozabad son of Shomer, his servants, struck him, and he died. They buried him with his ancestors in the city of David. Amaziah his son became king in his place.
+## Hazael’s threat and Joash’s death
+
+<p>
+v17: Then Hazael king of Aram came up, fought against Gath, and captured it. He turned his attention toward attacking Jerusalem.
+v18: Joash king of Judah took all the sacred gifts dedicated by his ancestors Jehoshaphat, Jehoram, and Ahaziah, kings of Judah, along with his own sacred gifts and all the gold found in the treasuries of the LORD’s house and the palace. He sent them to Hazael king of Aram, who withdrew from Jerusalem.
+</p>
+
+<p>
+v19: The rest of Joash’s acts and everything he did are written in the annals of the kings of Judah.
+</p>
+
+<p>
+v20: His servants rose up, formed a conspiracy, and struck Joash down at Beth-millo, on the way down to Silla.
+v21: His servants Jozabad son of Shimeath and Jehozabad son of Shomer struck him, and he died. They buried him with his ancestors in the City of David. His son Amaziah became king in his place.
 </p>
 
 ## Notes
 
-v02: Joash’s faithfulness is explicitly linked to the period of Jehoiada’s instruction, a qualification developed more fully in 2 Chronicles 24.
+v02: The Hebrew connects Joash’s right conduct with Jehoiada’s instruction. It can be read as conduct during his instruction or throughout his days because of that instruction.
 
-v03: The recurring note about high places shows that even otherwise positive kings leave decentralized worship unreformed.
+v04: The first money category is difficult: it may refer to census payments or money that passes as currency. The other categories concern personal assessments and voluntary gifts.
 
-v04: The temple income categories likely include census-related money, valuation payments, and voluntary gifts.
+v15: The account says the paymasters acted faithfully. It does not accuse the earlier collectors of theft.
 
-v06: The twenty-third-year delay exposes a breakdown in the original priest-managed repair system.
-
-v09–12: The chest creates a more transparent collection process involving both royal and priestly oversight.
-
-v10: “bind and count” may refer to wrapping the silver into measured bags after totaling it.
-
-v15: Formal accounting is waived because the workers are described as acting faithfully, echoing the trust language later used in Josiah’s repairs.
-
-v16: Money from guilt and sin offerings remains priestly income and is distinguished from building-repair funds.
-
-v18: Joash preserves Jerusalem by stripping both temple and palace treasuries to pay Hazael, a sharp contrast with the chapter’s earlier investment in the temple.
-
-v20–21: Joash dies by conspiracy from his own servants. 2 Chronicles 24 connects the assassination with the killing of Zechariah son of Jehoiada, but Kings does not supply that explanation.
-
-v20: “Millo” and “Silla” are topographic terms or place names whose exact identification is uncertain.
+v21: The pinned Hebrew names Jozabad and Jehozabad here. Other textual forms and the parallel in Chronicles differ; the names have not been silently harmonized.
 
 ## Vocabulary
 
-v03: בָּמָה (bamah)
-“High place.” A local sacrificial site.
+v04: Sacred gifts
+Money set apart for the sanctuary.
 
-v04: כֶּסֶף הַקֳּדָשִׁים (kesef ha-qodashim)
-“Silver of the holy things.” Sacred funds brought to the temple.
+v16: Guilt offering; sin offering
+Distinct offerings whose payments here belong to the priests.
 
-v05: בֶּדֶק (bedeq)
-“Damage” or breach. Structural deterioration requiring repair.
-
-v09: אֲרוֹן (aron)
-“Chest.” The collection box for temple funds.
-
-v10: מָנָה (manah)
-“To count” or allot. Used of the collected silver.
-
-v11: פָּקַד (paqad)
-“To appoint” or oversee. Work supervisors over temple repair.
-
-v15: אֱמוּנָה (emunah)
-“Faithfulness.” The workers’ trustworthy conduct.
-
-v17: לָכַד (lakhad)
-“To capture.” Hazael takes Gath.
-
-v20: קֶשֶׁר (qesher)
-“Conspiracy.” The plot against Joash.
-
-v20: מִלּוֹא (Millo)
-“Millo.” A fortification or filled structure.
+v18: Treasury
+A store of valuables, not a modern bank account.

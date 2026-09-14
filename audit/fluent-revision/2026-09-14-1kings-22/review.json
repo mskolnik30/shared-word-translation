@@ -1,0 +1,42 @@
+{
+  "scope": "1 Kings 22, all 53 public verses.",
+  "qualification": "Authoring source and comparator checks only; independent scholarly review and reader testing have not occurred.",
+  "editorial_status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source_reading": "Every selected original verse and its notes read before independent composition.",
+  "tsw_comparator_reading": 53,
+  "focused_source_reread_verses": 20,
+  "findings": [
+    "Read all 54 original records and all source annotations before independently drafting 53 public verses. Read every TSW comparator afterward.",
+    "Preserved the commissioned lying spirit and the throne-room contrast without supplying a doctrinal resolution.",
+    "Preserved Samaria’s pool and the prostitutes’ bathing in 22:38; did not harmonize the oracle’s geography.",
+    "Public 22:43 contains both original records 43–44. Public 44–53 bind original 45–54. The clause-level KJV annotation at original 21 did not trigger a whole-record shift.",
+    "Reviewed all six verses at or above 0.90 normalized overlap. Kept clear notices, dates and peace language."
+  ],
+  "overlap_summary": {
+    "before": {
+      "verses": 53,
+      "identical_words": 50,
+      "near_identical": 3,
+      "mean_word_similarity": 0.996787
+    },
+    "after": {
+      "verses": 53,
+      "identical_words": 2,
+      "near_identical": 4,
+      "mean_word_similarity": 0.683301
+    }
+  },
+  "high_overlap_verses_inspected": [
+    "1 Kings 22:1",
+    "1 Kings 22:2",
+    "1 Kings 22:41",
+    "1 Kings 22:44",
+    "1 Kings 22:51",
+    "1 Kings 22:53"
+  ],
+  "overlap_qualification": "NFKC/casefold whole-verse word overlap is triage, not proof of fidelity, originality, legal uniqueness or comprehension. No change quota.",
+  "structural_evidence": "../2026-09-14-2kings-1-25/verification.json",
+  "companion_impact": "Changed wording invalidates earlier quote/text bindings for these chapters; reconcile during later Companion installation. No Companion files changed.",
+  "remaining_work": "Whole-book Samuel and Kings authoring consistency passes remain queued; independent editorial review and reader testing remain pending."
+}

@@ -1,0 +1,14 @@
+{
+  "before": {
+    "verses": 948,
+    "identical_words": 853,
+    "near_identical": 92,
+    "mean_word_similarity": 0.995798
+  },
+  "after": {
+    "verses": 948,
+    "identical_words": 42,
+    "near_identical": 65,
+    "mean_word_similarity": 0.725636
+  }
+}

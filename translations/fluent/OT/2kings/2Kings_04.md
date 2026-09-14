@@ -4,192 +4,133 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## The Widow’s Oil
+## The widow’s oil
 
 <p>
-v01: A woman from the wives of the sons of the prophets cried out to Elisha, saying, “Your servant my husband is dead, and you know that your servant feared the LORD. But the creditor has come to take my two children for himself as servants.”
-
-v02: Elisha said to her, “What will I do for you? Tell me, what do you have in the house?” She said, “Your servant has nothing at all in the house except a jar of oil.”
-
-v03: He said, “Go, ask for vessels from outside, from all your neighbors—empty vessels, not a few.
-
-v04: Then go in and shut the door behind you and behind your sons. Pour into all these vessels, and when one is full, set it aside.”
-
-v05: So she went from him and shut the door behind her and behind her sons. They brought the vessels to her, and she kept pouring.
-
-v06: When the vessels were full, she said to her son, “Bring me another vessel.” But he said to her, “There is no more vessel.” Then the oil stopped.
-
-v07: She came and told the man of God, and he said, “Go, sell the oil and pay your debt, and you and your sons live on what remains.”
+v01: The wife of a man from the company of prophets cried out to Elisha, “Your servant, my husband, has died. You know he feared the LORD. Now his creditor is coming to take my two children as slaves.”
+v02: Elisha asked, “What can I do for you? Tell me what you have at home.” “Your servant has nothing at home but a flask of oil,” she answered.
 </p>
 
-## The Shunammite Woman Welcomes Elisha
-
 <p>
-v08: One day Elisha passed through Shunem, and there was a great woman there, and she urged him to eat bread. So whenever he passed by, he would turn aside there to eat bread.
-
-v09: She said to her husband, “Look now, I know that this is a holy man of God who continually passes by us.
-
-v10: Please let us make a small upper room with walls and put there for him a bed, a table, a chair, and a lamp. Then when he comes to us, he may turn aside there.”
+v03: He said, “Go outside and borrow empty jars from all your neighbors. Gather plenty.
+v04: Then go inside and shut the door behind you and your sons. Pour oil into all those jars, setting each full one aside.”
 </p>
 
-## Elisha Promises a Son
-
 <p>
-v11: One day he came there, turned aside to the upper room, and lay down there.
-
-v12: He said to Gehazi his servant, “Call this Shunammite.” He called her, and she stood before him.
-
-v13: He said to him, “Please say to her, ‘Look, you have taken all this trouble for us. What is to be done for you? Is there something to speak for you to the king or to the commander of the army?’” She said, “I live among my own people.”
-
-v14: He said, “Then what is to be done for her?” Gehazi said, “Actually, she has no son, and her husband is old.”
-
-v15: He said, “Call her.” He called her, and she stood in the doorway.
-
-v16: He said, “At this appointed time, according to the time of life, you will embrace a son.” She said, “No, my lord, man of God! Do not deceive your servant.”
-
-v17: But the woman conceived and bore a son at that appointed time, according to the time of life, just as Elisha had spoken to her.
+v05: She left him and shut the door behind herself and her sons. They brought her the jars, and she kept pouring.
+v06: When the jars were full, she said to her son, “Bring another jar.” “There are no more,” he answered. Then the oil stopped.
+v07: She went and told the man of God. He said, “Go, sell the oil, and pay your debt. You and your sons can live on what remains.”
 </p>
 
-## The Child Dies
+## A son for the Shunammite
 
 <p>
-v18: The child grew. One day he went out to his father, to the reapers.
-
-v19: He said to his father, “My head! My head!” He said to the servant, “Carry him to his mother.”
-
-v20: He carried him and brought him to his mother, and he sat on her knees until noon, and then he died.
-
-v21: She went up and laid him on the bed of the man of God, shut the door behind him, and went out.
-
-v22: She called to her husband and said, “Please send me one of the young men and one of the donkeys, so that I may run to the man of God and return.”
-
-v23: He said, “Why are you going to him today? It is neither new moon nor Sabbath.” She said, “It is well.”
-
-v24: Then she saddled the donkey and said to her young man, “Drive and go forward. Do not slow the riding for me unless I tell you.”
+v08: One day Elisha passed through Shunem. A prominent woman there urged him to eat with her. After that, whenever he passed through, he stopped there for a meal.
+v09: She told her husband, “I know this man who regularly passes our way is a holy man of God.
+v10: Let us make a small walled upper room and put a bed, table, chair, and lampstand there for him. When he visits, he can stay there.”
 </p>
 
-## The Shunammite Reaches Elisha
-
 <p>
-v25: So she went and came to the man of God at Mount Carmel. When the man of God saw her from a distance, he said to Gehazi his servant, “Look, there is the Shunammite.
-
-v26: Now run to meet her and say to her, ‘Is it well with you? Is it well with your husband? Is it well with the child?’” She said, “It is well.”
-
-v27: But when she came to the man of God at the mountain, she took hold of his feet. Gehazi came near to push her away, but the man of God said, “Leave her alone, for her life is bitter within her, and the LORD has hidden it from me and has not told me.”
-
-v28: Then she said, “Did I ask a son from my lord? Did I not say, ‘Do not deceive me’?”
+v11: One day he arrived, went up to the room, and lay down there.
+v12: He told his servant Gehazi, “Call the Shunammite woman.” Gehazi called her, and she stood before him.
+v13: Elisha told him, “Say to her, ‘You have gone to all this trouble for us. What can be done for you? Shall we speak to the king or the army commander on your behalf?’” She answered, “I live among my own people.”
 </p>
 
-## Elisha Sends Gehazi Ahead
-
 <p>
-v29: He said to Gehazi, “Gird up your waist, take my staff in your hand, and go. If you meet anyone, do not greet him, and if someone greets you, do not answer him. Lay my staff upon the face of the boy.”
-
-v30: But the mother of the boy said, “As the LORD lives and as your life lives, I will not leave you.” So he arose and followed her.
-
-v31: Gehazi passed on before them and laid the staff upon the face of the boy, but there was no voice and no response. So he returned to meet him and told him, saying, “The boy has not awakened.”
+v14: “Then what can be done for her?” he asked. Gehazi answered, “She has no son, and her husband is old.”
+v15: Elisha said, “Call her.” He called her, and she stood in the doorway.
+v16: “At this time next year,” he said, “you will hold a son in your arms.” She answered, “No, my lord, man of God! Do not deceive your servant.”
+v17: The woman conceived and bore a son at that time the next year, just as Elisha had told her.
 </p>
 
-## Elisha Raises the Child
+## The child dies
 
 <p>
-v32: Elisha came into the house, and look, the boy was dead, lying on his bed.
-
-v33: He went in, shut the door behind the two of them, and prayed to the LORD.
-
-v34: Then he went up and lay upon the child, put his mouth upon his mouth, his eyes upon his eyes, and his palms upon his palms. He stretched himself upon him, and the flesh of the child became warm.
-
-v35: Then he returned and walked in the house once back and forth. He went up and stretched himself upon him again. The boy sneezed seven times, and the boy opened his eyes.
-
-v36: He called Gehazi and said, “Call this Shunammite.” So he called her. When she came to him, he said, “Lift up your son.”
-
-v37: She came, fell at his feet, and bowed down to the ground. Then she lifted up her son and went out.
+v18: The child grew. One day he went out to his father among the harvesters.
+v19: “My head! My head!” he cried to his father. His father told a servant, “Carry him to his mother.”
+v20: The servant carried him to his mother. He sat on her knees until noon, then died.
 </p>
 
-## Death in the Pot
-
 <p>
-v38: Elisha returned to Gilgal, and there was famine in the land. The sons of the prophets were sitting before him, and he said to his servant, “Set on the large pot and cook stew for the sons of the prophets.”
-
-v39: One went out into the field to gather herbs and found a wild vine and gathered from it his garment full of wild gourds. He came and sliced them into the stew pot, though they did not know what they were.
-
-v40: They poured it out for the men to eat. And it happened as they were eating from the stew that they cried out and said, “Man of God, there is death in the pot!” And they were not able to eat it.
-
-v41: He said, “Then bring flour.” He threw it into the pot and said, “Pour it out for the people, and let them eat.” And there was nothing harmful in the pot.
+v21: She went upstairs and laid him on the man of God’s bed, shut the door, and went out.
+v22: She called her husband: “Please send me a servant and a donkey so I can hurry to the man of God and return.”
+v23: “Why go to him today?” he asked. “It is neither new moon nor Sabbath.” “All is well,” she said.
 </p>
 
-## Twenty Loaves Feed a Hundred Men
+<p>
+v24: She saddled the donkey and told her servant, “Drive on. Do not slow down for me unless I tell you.”
+v25: She traveled to the man of God at Mount Carmel. When he saw her in the distance, he told Gehazi, “There is the Shunammite woman.
+v26: Run to meet her. Ask, ‘Is all well with you? With your husband? With the child?’” She answered, “All is well.”
+</p>
 
 <p>
-v42: A man came from Baal-Shalishah and brought the man of God bread of firstfruits, twenty loaves of barley and fresh ears of grain in his sack. Elisha said, “Give it to the people so that they may eat.”
+v27: When she reached the man of God on the mountain, she grasped his feet. Gehazi came to push her away, but the man of God said, “Leave her alone. She is in bitter distress, and the LORD has hidden it from me. He has not told me.”
+v28: She said, “Did I ask my lord for a son? Didn’t I say, ‘Do not mislead me’?”
+</p>
 
-v43: But his attendant said, “How can I set this before one hundred men?” He said, “Give it to the people so that they may eat, for thus says the LORD: ‘They will eat and have some left.’”
+<p>
+v29: Elisha told Gehazi, “Tuck up your clothes, take my staff, and go. If you meet anyone, do not greet them; if someone greets you, do not answer. Lay my staff on the boy’s face.”
+v30: But the boy’s mother said, “As the LORD lives, and as you live, I will not leave you.” So Elisha got up and followed her.
+v31: Gehazi went ahead and laid the staff on the boy’s face. There was no sound or response. He went back to meet Elisha and said, “The boy has not awakened.”
+</p>
 
-v44: So he set it before them, and they ate and had some left, according to the word of the LORD.
+## The child lives
+
+<p>
+v32: Elisha entered the house. The boy was dead, lying on his bed.
+v33: He went inside, shut the door on the two of them, and prayed to the LORD.
+v34: He climbed onto the bed and lay over the child, mouth to mouth, eyes to eyes, hands to hands. As he stretched over him, the child’s body grew warm.
+</p>
+
+<p>
+v35: Elisha got up and walked back and forth in the house, then climbed up and stretched over him again. The boy sneezed seven times and opened his eyes.
+v36: He called Gehazi: “Call the Shunammite woman.” Gehazi called her, and she came. “Pick up your son,” Elisha said.
+v37: She fell at his feet and bowed to the ground. Then she picked up her son and left.
+</p>
+
+## Food for the prophets
+
+<p>
+v38: Elisha returned to Gilgal during a famine. The company of prophets sat before him. He told his servant, “Put the large pot on and cook stew for the prophets.”
+v39: One went into the fields to gather greens. He found a wild vine and filled his garment with wild gourds. He came back and sliced them into the stew, not knowing what they were.
+</p>
+
+<p>
+v40: They served the men, but as they tasted the stew they cried, “Death in the pot, man of God!” They could not eat it.
+v41: “Bring flour,” Elisha said. He threw it into the pot and said, “Serve the people so they can eat.” There was nothing harmful in the pot.
+</p>
+
+<p>
+v42: A man came from Baal-shalishah with firstfruits bread for the man of God: twenty barley loaves and fresh grain in his sack. Elisha said, “Give it to the people to eat.”
+v43: His attendant asked, “How can I set this before a hundred men?” Elisha answered, “Give it to the people to eat. The LORD says, ‘They will eat and have some left.’”
+v44: He set it before them. They ate and had some left, according to the LORD’s word.
 </p>
 
 ## Notes
 
-v01: Debt slavery threatens the widow’s sons after the death of a prophetic household head. Elisha’s miracle addresses both economic debt and family preservation.
+v01: The creditor threatens to take the woman’s two children as slaves. This is debt enslavement, not ordinary hired work.
 
-v02: The widow’s small amount of oil becomes the starting point of provision. The narrative repeatedly joins divine gift with ordinary household materials.
+v16: “This time next year” renders a Hebrew expression also used in the promise to Sarah; its literal wording refers to the season of life.
 
-v08: “great woman” can mean wealthy, influential, or socially prominent. Her hospitality is initiated without a request from Elisha.
+v23: The woman’s reply uses shalom, “peace” or “well-being.” The repeated reply in verse 26 does not disclose her son’s death.
 
-v13: The Shunammite declines royal advocacy, saying she lives securely “among my own people.” Her request is not initially material or political.
+v31: Gehazi’s staff does not wake the boy. That failed attempt remains distinct from Elisha’s later actions.
 
-v16: “according to the time of life” is an idiom for the same season in the following year, associated with the time of childbirth.
-
-v20: The child’s death in his mother’s arms is narrated with restraint and without diagnosis.
-
-v23: New moon and Sabbath appear as expected times for visiting a prophetic figure, suggesting regular religious consultation or instruction.
-
-v26: The Shunammite’s “It is well” does not describe the child’s actual condition; it postpones disclosure until she reaches Elisha.
-
-v27: Elisha openly admits that the LORD has hidden the matter from him, showing prophetic knowledge as received rather than automatic.
-
-v29–31: Gehazi’s use of the staff does not restore the child. The text does not explain why the delegated action fails.
-
-v34–35: Elisha’s bodily contact is part of the narrated restoration but is not presented as a transferable technique. He first prays to the LORD.
-
-v39: The wild gourd is often identified with colocynth, but exact botanical identification is uncertain.
-
-v41: The flour is used in the healing of the stew, but the narrative attributes prophetic authority to Elisha rather than describing a known antidote.
-
-v42: Firstfruits are brought to the man of God during famine, and the prophetic command redistributes them to the community.
-
-v43–44: The multiplication is explicitly grounded in the word of the LORD: the food proves sufficient and leaves a remainder.
+v35: The boy sneezes seven times. The number and the bodily actions are retained without diagnosing a medical procedure.
 
 ## Vocabulary
 
-v01: נָשָׁה (nashah)
-“Creditor.” One who claims repayment of debt.
+v08: Shunammite
+A woman from Shunem.
 
-v02: אָסוּךְ שֶׁמֶן (asukh shemen)
-“Jar of oil.” A small household vessel of oil.
+v23: New moon
+The beginning of a lunar month, associated with communal worship.
 
-v08: אִשָּׁה גְדוֹלָה (ishah gedolah)
-“Great woman.” A woman of wealth or social standing.
-
-v09: אִישׁ אֱלֹהִים (ish Elohim)
-“Man of God.” A frequent title for Elisha.
-
-v16: מוֹעֵד (moed)
-“Appointed time.” The promised season of birth.
-
-v27: מַר נֶפֶשׁ (mar nefesh)
-“Bitter in life/spirit.” Deep inner distress.
-
-v29: מִשְׁעֶנֶת (mish'enet)
-“Staff.” Elisha’s staff carried by Gehazi.
-
-v35: עָטַשׁ (atash)
-“To sneeze.” The child sneezes seven times.
-
-v39: פַּקֻּעֹת שָׂדֶה (paqqu'ot sadeh)
-“Wild gourds.” A potentially poisonous field plant.
-
-v42: לֶחֶם בִּכּוּרִים (lechem bikkurim)
-“Bread of firstfruits.” The offering brought during famine.
+v42: Firstfruits
+The first produce brought as an offering.

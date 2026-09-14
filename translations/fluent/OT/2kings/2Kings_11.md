@@ -4,126 +4,91 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Athaliah Seizes the Throne
+## Joash is hidden
 
 <p>
-v01: When Athaliah mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal offspring.
-
-v02: Yet Jehosheba daughter of King Joram, sister of Ahaziah, took Joash son of Ahaziah and stole him away from among the king’s sons who were being put to death, him and his nurse, into the bedroom. They hid him from Athaliah, and he was not put to death.
-
-v03: He was with her hidden in the house of the LORD six years, while Athaliah reigned over the land.
+v01: When Athaliah, Ahaziah’s mother, saw that her son was dead, she set out to destroy the entire royal line.
+v02: But Jehosheba, King Joram’s daughter and Ahaziah’s sister, took Joash son of Ahaziah and stole him away from the royal sons being killed. She put him and his nurse in a bedroom. They hid him from Athaliah, and he was not killed.
+v03: He remained hidden with her in the LORD’s house for six years, while Athaliah ruled the land.
 </p>
 
-## Jehoiada Prepares to Crown Joash
+## Jehoiada prepares the coronation
 
 <p>
-v04: In the seventh year Jehoiada sent and took the commanders of hundreds of the Carites and the guards and brought them to himself in the house of the LORD. He made a covenant with them and put them under oath in the house of the LORD, and he showed them the king’s son.
-
-v05: He commanded them, saying, “This is the thing that you will do: one third of you who come in on the Sabbath will keep watch over the king’s house;
-
-v06: one third will be at the Gate of Sur, and one third at the gate behind the guards. You will keep watch over the house for defense.
-
-v07: And the two divisions of you who go out on the Sabbath will keep watch over the house of the LORD around the king.
-
-v08: You will surround the king, each man with his weapons in his hand. Whoever comes within the ranks will be put to death. Be with the king when he goes out and when he comes in.”
-
-v09: The commanders of hundreds did according to all that Jehoiada the priest commanded. Each took his men, those coming in on the Sabbath together with those going out on the Sabbath, and came to Jehoiada the priest.
-
-v10: The priest gave to the commanders of hundreds the spears and shields that had belonged to King David, which were in the house of the LORD.
-
-v11: The guards stood, each man with his weapons in his hand, from the south side of the house to the north side of the house, by the altar and the house, all around the king.
+v04: In the seventh year Jehoiada sent for the commanders of hundreds of the Carites and the guards and brought them to him in the LORD’s house. He made a covenant with them, put them under oath there, and showed them the king’s son.
 </p>
 
-## Joash Is Crowned
-
 <p>
-v12: Then he brought out the king’s son, put the crown upon him and the testimony, and they made him king and anointed him. They clapped their hands and said, “Long live the king!”
+v05: He commanded them, “This is what you must do: One third of you coming on duty on the Sabbath will guard the palace,
+v06: one third will be at the Sur Gate, and one third at the gate behind the guards. Keep a close watch over the palace.
 </p>
 
-## Athaliah Is Put to Death
-
 <p>
-v13: Athaliah heard the sound of the guards and the people, and she came to the people at the house of the LORD.
-
-v14: She looked, and look, the king was standing by the pillar according to the custom, with the commanders and the trumpeters beside the king, and all the people of the land rejoicing and blowing trumpets. Athaliah tore her clothes and cried, “Treason! Treason!”
-
-v15: Then Jehoiada the priest commanded the commanders of hundreds who were appointed over the army and said to them, “Bring her out between the ranks. Whoever follows her, put to death with the sword.” For the priest had said, “She will not be put to death in the house of the LORD.”
-
-v16: So they laid hands on her, and she went by the way of the horses’ entrance to the king’s house, and there she was put to death.
+v07: The other two divisions of you, all those going off duty on the Sabbath, must guard the LORD’s house around the king.
+v08: Surround the king, each man with his weapons in hand. Anyone who breaks through the ranks must be killed. Stay with the king wherever he goes.”
 </p>
 
-## Covenant Is Renewed and Baal’s Temple Is Destroyed
-
 <p>
-v17: Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD’s people, and also between the king and the people.
-
-v18: Then all the people of the land went to the house of Baal and tore it down. They completely broke its altars and images in pieces and killed Mattan priest of Baal before the altars. Then the priest appointed oversight over the house of the LORD.
+v09: The commanders of hundreds did everything Jehoiada the priest commanded. Each brought his men, those coming on duty on the Sabbath and those going off duty, to Jehoiada the priest.
+v10: The priest gave the commanders of hundreds the spear and shields that had belonged to King David and were kept in the LORD’s house.
+v11: The guards stood, each with his weapons in hand, from the south side of the house to its north side, around the altar and the house, surrounding the king.
 </p>
 
-## Joash Takes the Throne
+<p>
+v12: Jehoiada brought out the king’s son, placed the crown on him, and gave him the covenant testimony. They made him king and anointed him, clapping their hands and calling, “Long live the king!”
+</p>
+
+## Athaliah is removed
 
 <p>
-v19: He took the commanders of hundreds, the Carites, the guards, and all the people of the land, and they brought the king down from the house of the LORD and came by the way of the gate of the guards to the king’s house. He sat upon the throne of the kings.
+v13: Athaliah heard the noise of the guards and the people and came to the people at the LORD’s house.
+v14: She looked, and there was the king standing by the pillar, as was customary. The commanders and trumpeters were beside him, and all the people of the land were rejoicing and blowing trumpets. Athaliah tore her clothes and cried, “Conspiracy! Conspiracy!”
+</p>
 
-v20: All the people of the land rejoiced, and the city was quiet after they had put Athaliah to death with the sword at the king’s house.
+<p>
+v15: Jehoiada the priest ordered the commanders of hundreds in charge of the army, “Bring her out between the ranks. Kill anyone who follows her with the sword.” For the priest had said, “She must not be killed in the LORD’s house.”
+v16: They seized her and took her by the horses’ entrance to the palace, and she was killed there.
+</p>
 
+## The covenant renewed
+
+<p>
+v17: Jehoiada made a covenant between the LORD, the king, and the people, that they would be the LORD’s people. He also made a covenant between the king and the people.
+v18: All the people of the land went to Baal’s temple and tore it down. They smashed its altars and images to pieces and killed Mattan, Baal’s priest, in front of the altars. Then the priest appointed guards over the LORD’s house.
+</p>
+
+<p>
+v19: He took the commanders of hundreds, the Carites, the guards, and all the people of the land, and they brought the king down from the LORD’s house. They entered the palace through the Guards’ Gate, and he sat on the royal throne.
+v20: All the people of the land rejoiced, and the city was quiet. Athaliah had been put to death by the sword at the palace.
+</p>
+
+<p>
 v21: Joash was seven years old when he became king.
 </p>
 
 ## Notes
 
-v01: Athaliah responds to Ahaziah’s death by attempting to eliminate the Davidic royal line. The survival of Joash preserves the “lamp” promised to David.
+v06: The final Hebrew word in the guard order is uncertain. “Keep a close watch” conveys the context without supplying a detailed arrangement the wording cannot securely establish.
 
-v02: Jehosheba’s action is the decisive human act preserving the child king. 2 Chronicles 22:11 identifies her as wife of Jehoiada the priest.
+v12: “Testimony” may refer to a covenant document or royal obligations. Its exact physical form is not specified.
 
-v03: The child is hidden in the temple for six years while Athaliah exercises royal power.
+v16: The killing takes place at the palace, following the explicit order not to kill Athaliah in the LORD’s house.
 
-v04: “Carites” are elite guards, perhaps related to the Cherethites. Their exact ethnic identity is uncertain.
-
-v10: Weapons associated with David turn the temple into a place where Davidic kingship is physically defended.
-
-v12: “the testimony” placed with the crown may be a royal copy of covenant instruction or another symbolic document. The exact object is not specified.
-
-v14: The irony of Athaliah’s cry “Treason!” is strong: she herself seized the throne through destruction of royal heirs.
-
-v15–16: Jehoiada insists that Athaliah not be killed within the temple precincts, maintaining sacred-space boundaries even during revolution.
-
-v17: The covenant has two dimensions: LORD-king-people and king-people, joining theological allegiance and political order.
-
-v18: Baal’s temple and priest are destroyed as part of the restoration of Davidic rule and covenant identity.
-
-v21: The chapter ends by emphasizing the king’s extreme youth, implying dependence on priestly and institutional guidance.
+v21: Public 11:21 corresponds to Hebrew 12:1; the public verses of chapter 12 are one lower than their Hebrew labels.
 
 ## Vocabulary
 
-v01: זֶרַע הַמַּמְלָכָה (zera ha-mamlakhah)
-“Royal offspring.” The dynastic descendants Athaliah targets.
+v04: Carites
+A named group of royal guards.
 
-v02: גָּנַב (ganav)
-“To steal away.” Jehosheba secretly rescues Joash.
+v12: Anoint
+Pour oil on the new king as part of his installation.
 
-v04: בְּרִית (berit)
-“Covenant.” Jehoiada binds the guards to the plan.
-
-v04: כָּרִי (Kari)
-“Carite.” A member of an elite guard force.
-
-v10: שִׁלְטוֹן (shilton)
-“Shield.” Royal weapons kept in the temple.
-
-v12: נֵזֶר (nezer)
-“Crown.” The royal diadem placed upon Joash.
-
-v12: עֵדוּת (edut)
-“Testimony.” A covenantal object or document associated with enthronement.
-
-v14: קֶשֶׁר (qesher)
-“Treason” or conspiracy.
-
-v17: עַם לַיהוָה (am la-YHWH)
-“People of the LORD.” The covenant identity renewed.
-
-v20: שָׁקַט (shaqat)
-“To be quiet.” The city settles after Athaliah’s death.
+v17: Covenant
+A binding relationship with stated obligations; two relationships are named here.

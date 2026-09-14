@@ -1,0 +1,895 @@
+{
+  "qualification": "Authoring source reread, not independent editorial approval. Exact record hashes remain in the ledger.",
+  "rows": [
+    {
+      "reference": "1 Chronicles 1:4",
+      "delta": "F3",
+      "rationale": "Use punctuation to distinguish Noah from the three following branches.",
+      "source_reference": "1Chr 1:4",
+      "source_verse_sha256": "ffa76b0336b63b5c8ae7ede853a9ea99d2bf90a047fcfae59dd3732cc5c10f47",
+      "before": "Noah, Shem, Ham, and Japheth.",
+      "after": "Noah; Shem, Ham, and Japheth.",
+      "tsw_comparator": "Noah, Shem, Ham, and Japheth.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:4",
+          "hebrew": "נֹ֥חַ שֵׁ֖ם חָ֥ם וָ/יָֽפֶת",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 1:6",
+      "delta": "F3",
+      "rationale": "Keep Diphath rather than harmonizing Genesis’ Riphath.",
+      "source_reference": "1Chr 1:6",
+      "source_verse_sha256": "941e597e849eef9966362fff400b40c39b3772807af875a6175005a82f9ef9ab",
+      "before": "The sons of Gomer: Ashkenaz, Diphath, and Togarmah.",
+      "after": "Gomer’s sons were Ashkenaz, Diphath, and Togarmah.",
+      "tsw_comparator": "The sons of Gomer: Ashkenaz, Diphath, and Togarmah.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:6",
+          "hebrew": "וּ/בְנֵ֖י גֹּ֑מֶר אַשְׁכֲּנַ֥ז וְ/דִיפַ֖ת וְ/תוֹגַרְמָֽה",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 1:7",
+      "delta": "F3",
+      "rationale": "Retain Rodanim as written here.",
+      "source_reference": "1Chr 1:7",
+      "source_verse_sha256": "cebaa8c9a3557b16a357487f7e198c18c897d53ca878e618aa1a8c6858e07884",
+      "before": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.",
+      "after": "Javan’s sons were Elishah, Tarshish, Kittim, and Rodanim.",
+      "tsw_comparator": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:7",
+          "hebrew": "וּ/בְנֵ֥י יָוָ֖ן אֱלִישָׁ֣ה וְ/תַרְשִׁ֑ישָׁ/ה כִּתִּ֖ים וְ/רוֹדָנִֽים",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 1:17",
+      "delta": "F3",
+      "rationale": "Use descendants for the compressed generations and retain Meshech, not Genesis’ Mash.",
+      "source_reference": "1Chr 1:17",
+      "source_verse_sha256": "beec5c03333b0c16091846c6767157044228b498a15515ccf4a60451ab219f94",
+      "before": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech.",
+      "after": "Shem’s descendants were Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech.",
+      "tsw_comparator": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.740741,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:17",
+          "hebrew": "בְּנֵ֣י שֵׁ֔ם עֵילָ֣ם וְ/אַשּׁ֔וּר וְ/אַרְפַּכְשַׁ֖ד וְ/ל֣וּד וַ/אֲרָ֑ם וְ/ע֥וּץ וְ/ח֖וּל וְ/גֶ֥תֶר וָ/מֶֽשֶׁךְ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 1:22",
+      "delta": "F0",
+      "rationale": "Keep Ebal rather than Genesis’ Obal.",
+      "source_reference": "1Chr 1:22",
+      "source_verse_sha256": "400370ebc041cbb52bbf57a2eed5ce0b8f8f80bdbf55dd3416f24f3df8fd889a",
+      "before": "Ebal, Abimael, Sheba,",
+      "after": "Ebal, Abimael, Sheba,",
+      "tsw_comparator": "Ebal, Abimael, Sheba,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:22",
+          "hebrew": "וְ/אֶת עֵיבָ֥ל וְ/אֶת אֲבִימָאֵ֖ל וְ/אֶת שְׁבָֽא",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 1:27",
+      "delta": "F2",
+      "rationale": "Keep the explicit identity statement.",
+      "source_reference": "1Chr 1:27",
+      "source_verse_sha256": "c3182353faaf0e6f27b2fe7b0ef18c13447d7f429d499c5c9a255495109d60ca",
+      "before": "Abram, that is, Abraham. The Descendants of Abraham",
+      "after": "Abram—that is, Abraham.",
+      "tsw_comparator": "Abram, that is, Abraham. The Descendants of Abraham",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:27",
+          "hebrew": "אַבְרָ֖ם ה֥וּא אַבְרָהָֽם",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 1:36",
+      "delta": "F3",
+      "rationale": "Retain Timna in the list; note the compressed relationship against Genesis.",
+      "source_reference": "1Chr 1:36",
+      "source_verse_sha256": "a4002bf2b16a670fa03035b66485a5584f50ed25ae210fbfd87dd8e5c35d3ac8",
+      "before": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek.",
+      "after": "Eliphaz’s descendants were Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek.",
+      "tsw_comparator": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.695652,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:36",
+          "hebrew": "בְּנֵ֖י אֱלִיפָ֑ז תֵּימָ֤ן וְ/אוֹמָר֙ צְפִ֣י וְ/גַעְתָּ֔ם קְנַ֖ז וְ/תִמְנָ֥ע וַ/עֲמָלֵֽק",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 1:42",
+      "delta": "F3",
+      "rationale": "Keep Dishon as written here and note the variant relation to 1:38.",
+      "source_reference": "1Chr 1:42",
+      "source_verse_sha256": "7c4aba6f1039193c8fda141732bf4b3efe445ea4a78c07be4b0e039d387aa1d5",
+      "before": "The sons of Ezer: Bilhan, Zaavan, and Akan. The sons of Dishan: Uz and Aran.",
+      "after": "Ezer’s sons were Bilhan, Zaavan, and Jaakan. Dishon’s sons were Uz and Aran.",
+      "tsw_comparator": "The sons of Ezer: Bilhan, Zaavan, and Akan. The sons of Dishan: Uz and Aran.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:42",
+          "hebrew": "בְּֽנֵי אֵ֔צֶר בִּלְהָ֥ן וְ/זַעֲוָ֖ן יַעֲקָ֑ן בְּנֵ֥י דִישׁ֖וֹן ע֥וּץ וַ/אֲרָֽן",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 1:50",
+      "delta": "F3",
+      "rationale": "Preserve Pai and both female-line relationship terms without harmonizing Genesis.",
+      "source_reference": "1Chr 1:50",
+      "source_verse_sha256": "cd8c5f799f48f6198e303f892a6ccf75f604e1f8fba267b05d1b181f3d901ec6",
+      "before": "Baal-hanan died, and Hadad reigned in his place. The name of his city was Pai, and his wife’s name was Mehetabel daughter of Matred, daughter of Me-zahab.",
+      "after": "Baal-hanan died, and Hadad became king in his place. His city was named Pai. His wife’s name was Mehetabel, daughter of Matred, daughter of Me-zahab.",
+      "tsw_comparator": "Baal-hanan died, and Hadad reigned in his place. The name of his city was Pai, and his wife’s name was Mehetabel daughter of Matred, daughter of Me-zahab.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:50",
+          "hebrew": "וַ/יָּ֨מָת֙ בַּ֣עַל חָנָ֔ן וַ/יִּמְלֹ֤ךְ תַּחְתָּי/ו֙ הֲדַ֔ד וְ/שֵׁ֥ם עִיר֖/וֹ פָּ֑עִי וְ/שֵׁ֨ם אִשְׁתּ֤/וֹ מְהֵיטַבְאֵל֙ בַּת מַטְרֵ֔ד בַּ֖ת מֵ֥י זָהָֽב",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 1:51",
+      "delta": "F3",
+      "rationale": "Keep Hadad’s death notice and repeated chief titles; follow read Alvah.",
+      "source_reference": "1Chr 1:51",
+      "source_verse_sha256": "3bde13c02f9710e3e7ed4494c8b5c6a7b8e6b66cb5bbcac9b888dc5704916738",
+      "before": "Hadad died. The chiefs of Edom were chief Timna, chief Aliah, chief Jetheth,",
+      "after": "Hadad died. These were Edom’s chiefs: Chief Timna, Chief Alvah, Chief Jetheth,",
+      "tsw_comparator": "Hadad died. The chiefs of Edom were chief Timna, chief Aliah, chief Jetheth,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.64,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 1:51",
+          "hebrew": "וַ/יָּ֖מָת הֲדָ֑ד וַ/יִּהְיוּ֙ אַלּוּפֵ֣י אֱד֔וֹם אַלּ֥וּף תִּמְנָ֛ע אַלּ֥וּף עליה אַלּ֥וּף יְתֵֽת",
+          "notes": [
+            "<note type=\"variant\"><catchWord>עליה</catchWord><rdg type=\"x-qere\"><w lemma=\"5933\" n=\"0.0\" morph=\"HNp\" id=\"13mGU\">עַֽלְוָ֖ה</w></rdg></note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:7",
+      "delta": "F3",
+      "rationale": "Keep Achar and its trouble wordplay rather than silently substituting Achan.",
+      "source_reference": "1Chr 2:7",
+      "source_verse_sha256": "5366dd9d805899b02fab605b1b95d8c23f4e27168d167bbd21d61ae42c78927c",
+      "before": "The son of Carmi was Achar, the troubler of Israel, who violated the ban.",
+      "after": "Carmi’s son was Achar, who brought trouble on Israel by being unfaithful with what was devoted to destruction.",
+      "tsw_comparator": "The son of Carmi was Achar, the troubler of Israel, who violated the ban.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.25,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:7",
+          "hebrew": "וּ/בְנֵ֖י כַּרְמִ֑י עָכָר֙ עוֹכֵ֣ר יִשְׂרָאֵ֔ל אֲשֶׁ֥ר מָעַ֖ל בַּ/חֵֽרֶם",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:15",
+      "delta": "F3",
+      "rationale": "Retain seventh despite Samuel’s eight-son presentation.",
+      "source_reference": "1Chr 2:15",
+      "source_verse_sha256": "131959ff869a65f8dbfe92266ea91668d4fe58b66986d7954b9a5db1be6d4edb",
+      "before": "Ozem the sixth, David the seventh.",
+      "after": "Ozem the sixth, and David the seventh.",
+      "tsw_comparator": "Ozem the sixth, David the seventh.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:15",
+          "hebrew": "אֹ֚צֶם הַ/שִּׁשִּׁ֔י דָּוִ֖יד הַ/שְּׁבִעִֽי",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:17",
+      "delta": "F3",
+      "rationale": "Retain Ishmaelite rather than harmonizing Samuel.",
+      "source_reference": "1Chr 2:17",
+      "source_verse_sha256": "e669bcf53daf9364445b96f79fe1f9acd41a37ff2c37620043257320906930f2",
+      "before": "Abigail bore Amasa, and the father of Amasa was Jether the Ishmaelite.",
+      "after": "Abigail bore Amasa. Amasa’s father was Jether the Ishmaelite.",
+      "tsw_comparator": "Abigail bore Amasa, and the father of Amasa was Jether the Ishmaelite.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:17",
+          "hebrew": "וַ/אֲבִיגַ֕יִל יָלְדָ֖ה אֶת עֲמָשָׂ֑א וַ/אֲבִ֣י עֲמָשָׂ֔א יֶ֖תֶר הַ/יִּשְׁמְעֵאלִֽי",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:18",
+      "delta": "F3",
+      "rationale": "Keep both women and the ambiguous her; flag the difficult syntax.",
+      "source_reference": "1Chr 2:18",
+      "source_verse_sha256": "12dfe384522d5d739e0ac16e01e2df48cb0ac9dd37b614b0f2c92f09eef81e6c",
+      "before": "Caleb son of Hezron had children by his wife Azubah and by Jerioth. Her sons were Jesher, Shobab, and Ardon.",
+      "after": "Caleb son of Hezron had children by his wife Azubah and by Jerioth. These were her sons: Jesher, Shobab, and Ardon.",
+      "tsw_comparator": "Caleb son of Hezron had children by his wife Azubah and by Jerioth. Her sons were Jesher, Shobab, and Ardon.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.926829,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:18",
+          "hebrew": "וְ/כָלֵ֣ב בֶּן חֶצְר֗וֹן הוֹלִ֛יד אֶת עֲזוּבָ֥ה אִשָּׁ֖ה וְ/אֶת יְרִיע֑וֹת וְ/אֵ֣לֶּה בָנֶ֔י/הָ יֵ֥שֶׁר וְ/שׁוֹבָ֖ב וְ/אַרְדּֽוֹן",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:21",
+      "delta": "F3",
+      "rationale": "Preserve the sexual idiom, marriage, and exact age.",
+      "source_reference": "1Chr 2:21",
+      "source_verse_sha256": "ec64fdb1ee0927d73159340b05d95c7848480b948fa5cf5de6a7127b5bda5d27",
+      "before": "Later, Hezron went into the daughter of Machir, the father of Gilead; he married her when he was sixty years old, and she bore him Segub.",
+      "after": "Later Hezron went in to the daughter of Machir, Gilead’s father. He married her when he was sixty years old, and she bore him Segub.",
+      "tsw_comparator": "Later, Hezron went into the daughter of Machir, the father of Gilead; he married her when he was sixty years old, and she bore him Segub.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862745,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:21",
+          "hebrew": "וְ/אַחַ֗ר בָּ֤א חֶצְרוֹן֙ אֶל בַּת מָכִיר֙ אֲבִ֣י גִלְעָ֔ד וְ/ה֣וּא לְקָחָ֔/הּ וְ/ה֖וּא בֶּן שִׁשִּׁ֣ים שָׁנָ֑ה וַ/תֵּ֥לֶד ל֖/וֹ אֶת שְׂגֽוּב",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:22",
+      "delta": "F2",
+      "rationale": "Keep the number and territory.",
+      "source_reference": "1Chr 2:22",
+      "source_verse_sha256": "150a6027ad545ebca5095635d0520f2c0459027d3b2f3f991449482f294ff941",
+      "before": "Segub fathered Jair, who held twenty-three towns in the land of Gilead.",
+      "after": "Segub fathered Jair, who had twenty-three towns in the land of Gilead.",
+      "tsw_comparator": "Segub fathered Jair, who held twenty-three towns in the land of Gilead.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:22",
+          "hebrew": "וּ/שְׂג֖וּב הוֹלִ֣יד אֶת יָאִ֑יר וַֽ/יְהִי ל֗/וֹ עֶשְׂרִ֤ים וְ/שָׁלוֹשׁ֙ עָרִ֔ים בְּ/אֶ֖רֶץ הַ/גִּלְעָֽד",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:23",
+      "delta": "F3",
+      "rationale": "Preserve the two aggressors and sixty-town notice alongside the prior twenty-three.",
+      "source_reference": "1Chr 2:23",
+      "source_verse_sha256": "8152ffdd2ea0abb262e2a19558ed0e25e117c39cf1cc8d68dfa0b749c9f7687b",
+      "before": "Yet Geshur and Aram took the towns of Jair from them, along with Kenath and the daughters of Gilead—sixty towns in all. All these were descendants of Machir, the father of Gilead.",
+      "after": "Geshur and Aram took Havvoth-jair from them, along with Kenath and its villages—sixty towns. All these were descendants of Machir, Gilead’s father.",
+      "tsw_comparator": "But Geshur and Aram took the towns of Jair from them, along with Kenath and the daughters of Gilead—sixty towns in all. All these were descendants of Machir, the father of Gilead.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.701754,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:23",
+          "hebrew": "וַ/יִּקַּ֣ח גְּשֽׁוּר וַ֠/אֲרָם אֶת חַוֺּ֨ת יָאִ֧יר מֵ/אִתָּ֛/ם אֶת קְנָ֥ת וְ/אֶת בְּנֹתֶ֖י/הָ שִׁשִּׁ֣ים עִ֑יר כָּל אֵ֕לֶּה בְּנֵ֖י מָכִ֥יר אֲבִי גִלְעָֽד",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:24",
+      "delta": "F3",
+      "rationale": "Follow the pinned place reading while noting the difficult alternative construction.",
+      "source_reference": "1Chr 2:24",
+      "source_verse_sha256": "1c48be18005c4276fa224cbd9fd70734b4d0e76639956911bd43eb5277ec2af3",
+      "before": "After the death of Hezron in Caleb Ephrathah, Hezron's wife Abijah bore him Ashhur, the father of Tekoa.",
+      "after": "After Hezron died in Caleb-ephrathah, his wife Abijah bore him Ashhur, the father of Tekoa.",
+      "tsw_comparator": "After the death of Hezron in Caleb Ephrathah, Hezron's wife Abijah bore him Ashhur, the father of Tekoa.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:24",
+          "hebrew": "וְ/אַחַ֥ר מוֹת חֶצְר֖וֹן בְּ/כָלֵ֣ב אֶפְרָ֑תָה וְ/אֵ֤שֶׁת חֶצְרוֹן֙ אֲבִיָּ֔ה וַ/תֵּ֣לֶד ל֔/וֹ אֶת אַשְׁח֖וּר אֲבִ֥י תְקֽוֹעַ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:31",
+      "delta": "F3",
+      "rationale": "Use descendant for Ahlai in light of the explicit daughters-only notice in verse 34.",
+      "source_reference": "1Chr 2:31",
+      "source_verse_sha256": "9d323ecfa24990fb829c8230a08133b97e60d912757ef0ba9bf127f3e96dc916",
+      "before": "The son of Appaim: Ishi, and the son of Ishi: Sheshan. Sheshan's descendants: Ahlai.",
+      "after": "Appaim’s son was Ishi, Ishi’s son was Sheshan, and Sheshan’s descendant was Ahlai.",
+      "tsw_comparator": "The son of Appaim: Ishi, and the son of Ishi: Sheshan. Sheshan's descendants: Ahlai.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.444444,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:31",
+          "hebrew": "וּ/בְנֵ֥י אַפַּ֖יִם יִשְׁעִ֑י וּ/בְנֵ֤י יִשְׁעִי֙ שֵׁשָׁ֔ן וּ/בְנֵ֥י שֵׁשָׁ֖ן אַחְלָֽי",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:34",
+      "delta": "F3",
+      "rationale": "Preserve daughters and explicit enslavement.",
+      "source_reference": "1Chr 2:34",
+      "source_verse_sha256": "695af9a7bcc6ca00ce1b406cba09a1ace03e2ab280eae7ebbaf3e8d3f3a85c32",
+      "before": "Sheshan had no sons, only daughters. He had an Egyptian servant named Jarha.",
+      "after": "Sheshan had no sons, only daughters. He had an Egyptian slave named Jarha.",
+      "tsw_comparator": "Sheshan had no sons, only daughters. He had an Egyptian servant named Jarha.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:34",
+          "hebrew": "וְ/לֹֽא הָיָ֧ה לְ/שֵׁשָׁ֛ן בָּנִ֖ים כִּ֣י אִם בָּנ֑וֹת וּ/לְ/שֵׁשָׁ֛ן עֶ֥בֶד מִצְרִ֖י וּ/שְׁמ֥/וֹ יַרְחָֽע",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:35",
+      "delta": "F3",
+      "rationale": "Retain the father’s agency and slave status without inventing consent or emancipation.",
+      "source_reference": "1Chr 2:35",
+      "source_verse_sha256": "efd562fa32681e19c8b6ebac9ac77d8148678c18b85b04a7b8017c83ec9ecd8b",
+      "before": "Sheshan gave his daughter in marriage to his servant Jarha, and she bore him Attai.",
+      "after": "Sheshan gave his daughter in marriage to his slave Jarha, and she bore him Attai.",
+      "tsw_comparator": "Sheshan gave his daughter in marriage to his servant Jarha, and she bore him Attai.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:35",
+          "hebrew": "וַ/יִּתֵּ֨ן שֵׁשָׁ֧ן אֶת בִּתּ֛/וֹ לְ/יַרְחָ֥ע עַבְדּ֖/וֹ לְ/אִשָּׁ֑ה וַ/תֵּ֥לֶד ל֖/וֹ אֶת עַתָּֽי",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:42",
+      "delta": "F3",
+      "rationale": "Preserve the difficult second clause rather than correcting the genealogy.",
+      "source_reference": "1Chr 2:42",
+      "source_verse_sha256": "9abaf741f09ca6b5e5f1af73350d93d5c5f42b8f40184bbe0c60368d08c98e64",
+      "before": "The sons of Caleb, Jerahmeel's brother: Mesha his firstborn, the father of Ziph, and Mareshah the father of Hebron.",
+      "after": "The descendants of Caleb, Jerahmeel’s brother, included Mesha his firstborn, the father of Ziph, and the sons of Mareshah, the father of Hebron.",
+      "tsw_comparator": "The sons of Caleb, Jerahmeel's brother: Mesha his firstborn, the father of Ziph, and Mareshah the father of Hebron.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:42",
+          "hebrew": "וּ/בְנֵ֤י כָלֵב֙ אֲחִ֣י יְרַחְמְאֵ֔ל מֵישָׁ֥ע בְּכֹר֖/וֹ ה֣וּא אֲבִי זִ֑יף וּ/בְנֵ֥י מָרֵשָׁ֖ה אֲבִ֥י חֶבְרֽוֹן",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:50",
+      "delta": "F3",
+      "rationale": "Retain the singular son construction and note its tension with the earlier genealogy.",
+      "source_reference": "1Chr 2:50",
+      "source_verse_sha256": "628004f57468699b528c9798c13be4eeda115e21f4a2d3542f1810110d81a3da",
+      "before": "These were the sons of Caleb: The sons of Hur, the firstborn of Ephrathah: Shobal fathered Kiriath-jearim,",
+      "after": "These were the descendants of Caleb son of Hur, Ephrathah’s firstborn: Shobal, the father of Kiriath-jearim,",
+      "tsw_comparator": "These were the sons of Caleb: The sons of Hur, the firstborn of Ephrathah: Shobal fathered Kiriath-jearim,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.628571,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:50",
+          "hebrew": "אֵ֤לֶּה הָיוּ֙ בְּנֵ֣י כָלֵ֔ב בֶּן ח֖וּר בְּכ֣וֹר אֶפְרָ֑תָה שׁוֹבָ֕ל אֲבִ֖י קִרְיַ֥ת יְעָרִֽים",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:55",
+      "delta": "F3",
+      "rationale": "Keep the scribal occupation and Rechab connection.",
+      "source_reference": "1Chr 2:55",
+      "source_verse_sha256": "e40420a5559957ac712115b1dbd7726390e9be26d4f56b2cb962c913a3842943",
+      "before": "The families of Scribal families residing in Jabez—the Tirathites, the Shimeathites, and the Sucathites—these are the Kenites who came from Hammath, the father of the house of Rechab.",
+      "after": "The clans of scribes living at Jabez were the Tirathites, Shimeathites, and Sucathites. These were the Kenites who came from Hammath, the father of the house of Rechab.",
+      "tsw_comparator": "The families of Scribal families residing in Jabez—the Tirathites, the Shimeathites, and the Sucathites—these are the Kenites who came from Hammath, the father of the house of Rechab.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.758621,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 2:55",
+          "hebrew": "וּ/מִשְׁפְּח֤וֹת סֹפְרִים֙ ישבו יַעְבֵּ֔ץ תִּרְעָתִ֥ים שִׁמְעָתִ֖ים שׂוּכָתִ֑ים הֵ֚מָּה הַ/קִּינִ֣ים הַ/בָּאִ֔ים מֵ/חַמַּ֖ת אֲבִ֥י בֵית רֵכָֽב",
+          "notes": [
+            "<note type=\"variant\"><catchWord>ישבו</catchWord><rdg type=\"x-qere\"><w lemma=\"3427\" morph=\"HVqrmpc\" id=\"13xKf\">יֹשְׁבֵ֣י</w></rdg></note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:1",
+      "delta": "F3",
+      "rationale": "Keep Daniel rather than harmonizing Samuel’s Chileab and retain both mothers.",
+      "source_reference": "1Chr 3:1",
+      "source_verse_sha256": "665d0d9205956356eed999cfd80f6abc29cd30bb23a75f03b2b9923fcd69ae1a",
+      "before": "These were the sons of David who were born to him in Hebron: The firstborn was Amnon, by Ahinoam the Jezreelite; the second was Daniel, by Abigail the Carmelite;",
+      "after": "These were David’s sons born to him in Hebron: his firstborn Amnon, by Ahinoam of Jezreel; the second, Daniel, by Abigail of Carmel;",
+      "tsw_comparator": "These were the sons of David who were born to him in Hebron: The firstborn was Amnon, by Ahinoam the Jezreelite; the second was Daniel, by Abigail the Carmelite;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.653846,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:1",
+          "hebrew": "וְ/אֵ֤לֶּה הָיוּ֙ בְּנֵ֣י דָויִ֔ד אֲשֶׁ֥ר נֽוֹלַד ל֖/וֹ בְּ/חֶבְר֑וֹן הַ/בְּכ֣וֹר אַמְנֹ֗ן לַ/אֲחִינֹ֨עַם֙ הַ/יִּזְרְעֵאלִ֔ית שֵׁנִי֙ דָּנִיֵּ֔אל לַ/אֲבִיגַ֖יִל הַֽ/כַּרְמְלִֽית",
+          "notes": [
+            "<note n=\"1\">BHS has been faithful to the Leningrad Codex where there might be a question of the validity of the form and we keep the same form as BHS. </note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:5",
+      "delta": "F3",
+      "rationale": "Preserve the source’s maternal and grandfather name forms.",
+      "source_reference": "1Chr 3:5",
+      "source_verse_sha256": "aca8b0c11f10e5d6bd849f86cd236eacf1012263937eb10d465e3be85d68f332",
+      "before": "and these were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four by Bath-shua, daughter of Ammiel;",
+      "after": "These were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon—four by Bath-shua, daughter of Ammiel.",
+      "tsw_comparator": "and these were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four by Bath-shua, daughter of Ammiel;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.974359,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:5",
+          "hebrew": "וְ/אֵ֥לֶּה נוּלְּדוּ ל֖/וֹ בִּ/ירוּשָׁלָ֑יִם שִׁ֠מְעָא וְ/שׁוֹבָ֞ב וְ/נָתָ֤ן וּ/שְׁלֹמֹה֙ אַרְבָּעָ֔ה לְ/בַת שׁ֖וּעַ בַּת עַמִּיאֵֽל",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:6",
+      "delta": "F3",
+      "rationale": "Retain the first occurrence of repeated names.",
+      "source_reference": "1Chr 3:6",
+      "source_verse_sha256": "2b0cbbdf00941f2fb23f523d8de1ed83df2ac250838b8505312fdf756772f817",
+      "before": "Ibhar, Elishama, Eliphelet,",
+      "after": "There were also Ibhar, Elishama, Eliphelet,",
+      "tsw_comparator": "Ibhar, Elishama, Eliphelet,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:6",
+          "hebrew": "וְ/יִבְחָ֥ר וֶ/אֱלִישָׁמָ֖ע וֶ/אֱלִיפָֽלֶט",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:8",
+      "delta": "F3",
+      "rationale": "Preserve repeated names and the stated nine without deduplication.",
+      "source_reference": "1Chr 3:8",
+      "source_verse_sha256": "ba563dfce694a798976a57e1fca4397f0574aeeee8ea9b6b71de8946254ea48f",
+      "before": "Elishama, Eliada, Eliphelet, nine.",
+      "after": "Elishama, Eliada, and Eliphelet—nine in all.",
+      "tsw_comparator": "Elishama, Eliada, Eliphelet, nine.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:8",
+          "hebrew": "וֶ/אֱלִישָׁמָ֧ע וְ/אֶלְיָדָ֛ע וֶ/אֱלִיפֶ֖לֶט תִּשְׁעָֽה",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:9",
+      "delta": "F2",
+      "rationale": "Keep the excluded group and named daughter.",
+      "source_reference": "1Chr 3:9",
+      "source_verse_sha256": "551112ac3f4aba6f43c2a21071bbaf52cbbc6bfb0098b8124097c085b7e993e9",
+      "before": "These were all the sons of David, besides the sons of the concubines; and Tamar was their sister.",
+      "after": "These were all David’s sons, besides the sons of his concubines. Tamar was their sister.",
+      "tsw_comparator": "These were all the sons of David, besides the sons of the concubines; and Tamar was their sister.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.787879,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:9",
+          "hebrew": "כֹּ֖ל בְּנֵ֣י דָוִ֑יד מִ/לְּ/בַ֥ד בְּֽנֵי פִֽילַגְשִׁ֖ים וְ/תָמָ֥ר אֲחוֹתָֽ/ם",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:16",
+      "delta": "F3",
+      "rationale": "Preserve the ambiguous second his son rather than silently equating him with the uncle in Kings.",
+      "source_reference": "1Chr 3:16",
+      "source_verse_sha256": "9a5ebdc645ab96a4fa846ac08d96d3c860cac0df53e1aa8a1d14800dd40b9cb0",
+      "before": "The sons of Jehoiakim: Jeconiah his son, Zedekiah.",
+      "after": "Jehoiakim’s descendants were his son Jeconiah and his son Zedekiah.",
+      "tsw_comparator": "The sons of Jehoiakim: Jeconiah his son, Zedekiah.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.444444,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:16",
+          "hebrew": "וּ/בְנֵ֖י יְהוֹיָקִ֑ים יְכָנְיָ֥ה בְנ֖/וֹ צִדְקִיָּ֥ה בְנֽ/וֹ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:17",
+      "delta": "F3",
+      "rationale": "Read assir as captive and note the alternative proper name Assir.",
+      "source_reference": "1Chr 3:17",
+      "source_verse_sha256": "5ff35a8410ebea2c2ebc8f9c2503bb7ab2846009ac6b3c5f0092bfbbd59f2456",
+      "before": "The sons of Jeconiah, the captive: Shealtiel his son,",
+      "after": "The descendants of Jeconiah the captive were Shealtiel his son,",
+      "tsw_comparator": "The sons of Jeconiah, the captive: Shealtiel his son,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:17",
+          "hebrew": "וּ/בְנֵי֙ יְכָנְיָ֣ה אַסִּ֔ר שְׁאַלְתִּיאֵ֖ל בְּנֽ/וֹ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:19",
+      "delta": "F3",
+      "rationale": "Preserve Pedaiah’s fatherhood and the named sister without harmonizing Ezra.",
+      "source_reference": "1Chr 3:19",
+      "source_verse_sha256": "b4d974ab53dc75866d8da478ac4d2596cb18e5375838f41f103f24d1bbd7957d",
+      "before": "The sons of Pedaiah: Zerubbabel and Shimei; and the sons of Zerubbabel: Meshullam and Hananiah, and Shelomith their sister;",
+      "after": "Pedaiah’s sons were Zerubbabel and Shimei. Zerubbabel’s sons were Meshullam and Hananiah, and Shelomith was their sister.",
+      "tsw_comparator": "The sons of Pedaiah: Zerubbabel and Shimei; and the sons of Zerubbabel: Meshullam and Hananiah, and Shelomith their sister;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:19",
+          "hebrew": "וּ/בְנֵ֣י פְדָיָ֔ה זְרֻבָּבֶ֖ל וְ/שִׁמְעִ֑י וּ/בֶן זְרֻבָּבֶל֙ מְשֻׁלָּ֣ם וַ/חֲנַנְיָ֔ה וּ/שְׁלֹמִ֖ית אֲחוֹתָֽ/ם",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:22",
+      "delta": "F3",
+      "rationale": "Retain six despite only five following names, with an explicit note.",
+      "source_reference": "1Chr 3:22",
+      "source_verse_sha256": "39c143c47e0b45427008c81e6d3c4dbb42b4349a7910703e4189aeeceb5fa263",
+      "before": "The sons of Shecaniah: Shemaiah and the sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat, six.",
+      "after": "Shecaniah’s descendant was Shemaiah. Shemaiah’s sons were Hattush, Igal, Bariah, Neariah, and Shaphat—six.",
+      "tsw_comparator": "The sons of Shecaniah: Shemaiah and the sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat, six.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.580645,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:22",
+          "hebrew": "וּ/בְנֵ֥י שְׁכַנְיָ֖ה שְׁמַעְיָ֑ה וּ/בְנֵ֣י שְׁמַעְיָ֗ה חַטּ֡וּשׁ וְ֠/יִגְאָל וּ/בָרִ֧יחַ וּ/נְעַרְיָ֛ה וְ/שָׁפָ֖ט שִׁשָּֽׁה",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 3:24",
+      "delta": "F3",
+      "rationale": "Follow the read Hodaviah and preserve all seven.",
+      "source_reference": "1Chr 3:24",
+      "source_verse_sha256": "761a088f27f137569c0d1b0bbb7cd2bb4042daa882bd0955725374cd24c2ec4a",
+      "before": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.",
+      "after": "Elioenai’s sons were Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven.",
+      "tsw_comparator": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 3:24",
+          "hebrew": "וּ/בְנֵ֣י אֶלְיוֹעֵינַ֗י הדיוהו וְ/אֶלְיָשִׁ֡יב וּ/פְלָיָ֡ה וְ֠/עַקּוּב וְ/יוֹחָנָ֧ן וּ/דְלָיָ֛ה וַ/עֲנָ֖נִי שִׁבְעָֽה",
+          "notes": [
+            "<note type=\"variant\"><catchWord>הדיוהו</catchWord><rdg type=\"x-qere\"><w lemma=\"1938\" n=\"0.0.0.3\" morph=\"HNp\" id=\"13Gjw\">הוֹדַוְיָ֡הוּ</w></rdg></note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:3",
+      "delta": "F3",
+      "rationale": "Preserve the difficult singular father phrase and the named sister; note textual uncertainty.",
+      "source_reference": "1Chr 4:3",
+      "source_verse_sha256": "6e9d596308fb21c90cc38e9350cc484ed3a41f02d2178d8dd25ca1bfc311fc4b",
+      "before": "These were the sons of Etam: Jezreel, Ishma, and Idbash. And the name of their sister was Hazzelelponi.",
+      "after": "These belonged to the father of Etam: Jezreel, Ishma, and Idbash. Their sister’s name was Hazzelelponi.",
+      "tsw_comparator": "These were the sons of Etam: Jezreel, Ishma, and Idbash. And the name of their sister was Hazzelelponi.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.647059,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:3",
+          "hebrew": "וְ/אֵ֨לֶּה֙ אֲבִ֣י עֵיטָ֔ם יִזְרְעֶ֥אל וְ/יִשְׁמָ֖א וְ/יִדְבָּ֑שׁ וְ/שֵׁ֥ם אֲחוֹתָ֖/ם הַצְלֶלְפּֽוֹנִי",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:10",
+      "delta": "F3",
+      "rationale": "Retain the concrete land request and pain link without turning the prayer into a universal promise.",
+      "source_reference": "1Chr 4:10",
+      "source_verse_sha256": "db3197694ca4d15fb214de09fdc7bff9b532a4628a8ce8d573a920fb957d56c0",
+      "before": "Jabez called upon the God of Israel, saying, \"If you would bless me and enlarge my territory, may your hand be with me, and keep me from harm, so that it might not bring me pain!\" God granted what he requested.",
+      "after": "Jabez called on the God of Israel: “If only you would bless me and enlarge my territory! Let your hand be with me, and keep me from harm so that I am free from pain.” God granted what he asked.",
+      "tsw_comparator": "Jabez called upon the God of Israel, saying, \"If you would bless me and enlarge my territory, may your hand be with me, and keep me from harm, so that it might not bring me pain!\" God granted what he requested.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.790123,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:10",
+          "hebrew": "וַ/יִּקְרָ֣א יַ֠עְבֵּץ לֵ/אלֹהֵ֨י יִשְׂרָאֵ֜ל לֵ/אמֹ֗ר אִם בָּרֵ֨ךְ תְּבָרֲכֵ֜/נִי וְ/הִרְבִּ֤יתָ אֶת גְּבוּלִ/י֙ וְ/הָיְתָ֤ה יָדְ/ךָ֙ עִמִּ֔/י וְ/עָשִׂ֥יתָ מֵּ/רָעָ֖ה לְ/בִלְתִּ֣י עָצְבִּ֑/י וַ/יָּבֵ֥א אֱלֹהִ֖ים אֵ֥ת אֲשֶׁר שָׁאָֽל",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:17",
+      "delta": "F3",
+      "rationale": "Retain the unnamed female subject rather than silently rearranging the next verse.",
+      "source_reference": "1Chr 4:17",
+      "source_verse_sha256": "fddf05dad3565e44a212bcb73e2890a358a2952731ed49540eebf74533ac79c9",
+      "before": "The sons of Ezrah: Jether, Mered, Epher, and Jalon; and she conceived Miriam, Shammai, and Ishbah the father of Eshtemoa.",
+      "after": "Ezrah’s sons were Jether, Mered, Epher, and Jalon. She conceived Miriam, Shammai, and Ishbah, the father of Eshtemoa.",
+      "tsw_comparator": "The sons of Ezrah: Jether, Mered, Epher, and Jalon; and she conceived Miriam, Shammai, and Ishbah the father of Eshtemoa.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:17",
+          "hebrew": "וּ/בֶן עֶזְרָ֔ה יֶ֥תֶר וּ/מֶ֖רֶד וְ/עֵ֣פֶר וְ/יָל֑וֹן וַ/תַּ֨הַר֙ אֶת מִרְיָ֣ם וְ/אֶת שַׁמַּ֔י וְ/אֶת יִשְׁבָּ֖ח אֲבִ֥י אֶשְׁתְּמֹֽעַ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:18",
+      "delta": "F3",
+      "rationale": "Keep both maternal notices in source order and note their difficult relationship.",
+      "source_reference": "1Chr 4:18",
+      "source_verse_sha256": "9827dc6acd842799f6d83c64706ef95fcba212b2455ca96b96d2ae6e40fe6684",
+      "before": "His wife from Judah bore Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah. These were the sons of Bithiah daughter of Pharaoh, whom Mered took.",
+      "after": "His Judean wife bore Jered, the father of Gedor, Heber, the father of Soco, and Jekuthiel, the father of Zanoah. These were the children of Bithiah, Pharaoh’s daughter, whom Mered married.",
+      "tsw_comparator": "His wife from Judah bore Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah. These were the sons of Bithiah daughter of Pharaoh, whom Mered took.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84375,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:18",
+          "hebrew": "וְ/אִשְׁתּ֣/וֹ הַ/יְהֻדִיָּ֗ה יָלְדָ֞ה אֶת יֶ֨רֶד אֲבִ֤י גְדוֹר֙ וְ/אֶת חֶ֨בֶר֙ אֲבִ֣י שׂוֹכ֔וֹ וְ/אֶת יְקֽוּתִיאֵ֖ל אֲבִ֣י זָנ֑וֹחַ וְ/אֵ֗לֶּה בְּנֵי֙ בִּתְיָ֣ה בַת פַּרְעֹ֔ה אֲשֶׁ֥ר לָקַ֖ח מָֽרֶד",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:22",
+      "delta": "F3",
+      "rationale": "Retain the uncertain rule-in-Moab reading and proper name with alternatives noted.",
+      "source_reference": "1Chr 4:22",
+      "source_verse_sha256": "36a41b46f5ba2e7a62db7219d58a29fffad0a0a7c13c13c44a8b052e8baec548",
+      "before": "Jokim, the men of Cozeba, Joash, Seraph, who ruled in Moab, and Jashubi-lehem. (These are ancient things.)",
+      "after": "also Jokim, the men of Cozeba, Joash, and Saraph, who ruled in Moab, and Jashubi-lehem. These records are ancient.",
+      "tsw_comparator": "Jokim, the men of Cozeba, Joash, Seraph, who ruled in Moab, and Jashubi-lehem. (These are ancient things.)",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:22",
+          "hebrew": "וְ/יוֹקִ֞ים וְ/אַנְשֵׁ֣י כֹזֵבָ֗א וְ/יוֹאָ֧שׁ וְ/שָׂרָ֛ף אֲשֶׁר בָּעֲל֥וּ לְ/מוֹאָ֖ב וְ/יָשֻׁ֣בִי לָ֑חֶם וְ/הַ/דְּבָרִ֖ים עַתִּיקִֽים",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:27",
+      "delta": "F3",
+      "rationale": "Keep both gendered counts and the relative population comparison.",
+      "source_reference": "1Chr 4:27",
+      "source_verse_sha256": "d72a913c327b9bae34f6a0bdffe6a3c41f45e392b78097b8c0c185b1ef7874cb",
+      "before": "Shimei had sixteen sons and six daughters, but his brothers did not have many sons. Therefore, their family did not multiply like that of Judah.",
+      "after": "Shimei had sixteen sons and six daughters, but his brothers did not have many sons. Their whole clan did not become as numerous as the people of Judah.",
+      "tsw_comparator": "Shimei had sixteen sons and six daughters, but his brothers did not have many sons. Therefore, their family did not multiply like that of Judah.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.754717,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:27",
+          "hebrew": "וּ/לְ/שִׁמְעִ֞י בָּנִ֨ים שִׁשָּׁ֤ה עָשָׂר֙ וּ/בָנ֣וֹת שֵׁ֔שׁ וּ/לְ/אֶחָ֕י/ו אֵ֖ין בָּנִ֣ים רַבִּ֑ים וְ/כֹל֙ מִשְׁפַּחְתָּ֔/ם לֹ֥א הִרְבּ֖וּ עַד בְּנֵ֥י יְהוּדָֽה",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:32",
+      "delta": "F2",
+      "rationale": "Keep the source’s settlement/town terms and stated five.",
+      "source_reference": "1Chr 4:32",
+      "source_verse_sha256": "7a564e159e1e3074e1ec7f1df3ac1122ef6a8f7179fde67e40c86d0bc4b97eae",
+      "before": "Their villages were Etam, Ayin, Rimmon, Tochen, and Ashan—five towns—",
+      "after": "Their outlying settlements were Etam, Ain, Rimmon, Tochen, and Ashan—five towns—",
+      "tsw_comparator": "Their villages were Etam, Ayin, Rimmon, Tochen, and Ashan—five towns—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:32",
+          "hebrew": "וְ/חַצְרֵי/הֶם֙ עֵיטָ֣ם וָ/עַ֔יִן רִמּ֥וֹן וְ/תֹ֖כֶן וְ/עָשָׁ֑ן עָרִ֖ים חָמֵֽשׁ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:41",
+      "delta": "F3",
+      "rationale": "Retain the violent dispossession and pasture motive without sanitizing conquest.",
+      "source_reference": "1Chr 4:41",
+      "source_verse_sha256": "686731d7e548ca8721d5f9c82a1344bd7967ef3d339ea3429a062cab46c4bff0",
+      "before": "These named above, during the time of King Hezekiah of Judah, came and attacked their tents and the Meunites that were found there. They devoted them to destruction to this day and lived in their place, because there was pasture for their flocks.",
+      "after": "In the days of Hezekiah king of Judah, these men listed by name came and attacked their tents and the Meunites found there. They devoted them to destruction, with lasting effect to this day, and settled in their place because there was pasture for their flocks.",
+      "tsw_comparator": "These named above, during the time of King Hezekiah of Judah, came and attacked their tents and the Meunites that were found there. They devoted them to destruction to this day and lived in their place, because there was pasture for their flocks.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764045,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:41",
+          "hebrew": "וַ/יָּבֹ֡אוּ אֵלֶּה֩ הַ/כְּתוּבִ֨ים בְּ/שֵׁמ֜וֹת בִּ/ימֵ֣י יְחִזְקִיָּ֣הוּ מֶֽלֶךְ יְהוּדָ֗ה וַ/יַּכּ֨וּ אֶת אָהֳלֵי/הֶ֜ם וְ/אֶת ה/מעינים אֲשֶׁ֤ר נִמְצְאוּ שָׁ֨מָּ/ה֙ וַ/יַּחֲרִימֻ/ם֙ עַד הַ/יּ֣וֹם הַ/זֶּ֔ה וַ/יֵּשְׁב֖וּ תַּחְתֵּי/הֶ֑ם כִּֽי מִרְעֶ֥ה לְ/צֹאנָ֖/ם שָֽׁם",
+          "notes": [
+            "<note type=\"variant\"><catchWord>ה/מעינים</catchWord><rdg type=\"x-qere\"><w lemma=\"d/4586\" morph=\"HTd/Ngmpa\" id=\"13ojQ\">הַ/מְּעוּנִ֨ים</w></rdg></note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:42",
+      "delta": "F3",
+      "rationale": "Keep the number and four brother-leaders.",
+      "source_reference": "1Chr 4:42",
+      "source_verse_sha256": "ca48ca114bf450863816509547189ad8a07aafda1af08a79b94db88da4c1ef10",
+      "before": "Some of them, five hundred men from the sons of Simeon, went to Mount Seir with Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi, at their head.",
+      "after": "Five hundred of these Simeonites went to Mount Seir, led by Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi.",
+      "tsw_comparator": "Some of them, five hundred men from the sons of Simeon, went to Mount Seir with Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi, at their head.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:42",
+          "hebrew": "וּ/מֵ/הֶ֣ם מִן בְּנֵ֣י שִׁמְע֗וֹן הָלְכוּ֙ לְ/הַ֣ר שֵׂעִ֔יר אֲנָשִׁ֖ים חֲמֵ֣שׁ מֵא֑וֹת וּ/פְלַטְיָ֡ה וּ֠/נְעַרְיָה וּ/רְפָיָ֧ה וְ/עֻזִּיאֵ֛ל בְּנֵ֥י יִשְׁעִ֖י בְּ/רֹאשָֽׁ/ם",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 4:43",
+      "delta": "F3",
+      "rationale": "Preserve the remnant’s killing and narrator’s time notice.",
+      "source_reference": "1Chr 4:43",
+      "source_verse_sha256": "31bf3704b4980ba0134984cb2a5581a4d4bbf2d25a8bf3f60739e3899887bea2",
+      "before": "They defeated the remaining Amalekites who had escaped, and they have lived there to this day.",
+      "after": "They struck down the surviving remnant of Amalek and have lived there to this day.",
+      "tsw_comparator": "They defeated the remaining Amalekites who had escaped, and they have lived there to this day.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.580645,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "1Chr 4:43",
+          "hebrew": "וַ/יַּכּ֕וּ אֶת שְׁאֵרִ֥ית הַ/פְּלֵטָ֖ה לַ/עֲמָלֵ֑ק וַ/יֵּ֣שְׁבוּ שָׁ֔ם עַ֖ד הַ/יּ֥וֹם הַ/זֶּֽה",
+          "notes": []
+        }
+      ]
+    }
+  ]
+}

@@ -177,11 +177,25 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "current_revision": {
-    "id": "fluent-1kings-2-21-biblical-fluency-2026-09-14",
+    "id": "fluent-1kings-22-biblical-fluency-2026-09-14",
     "chapters": [
+      22
+    ],
+    "verse_count": 53,
+    "verse_ledger": "audit/fluent-revision/2026-09-14-1kings-22/1kings-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f7f1fd7eb2d7534b8667a1d243746b3d28b915f0",
+      "path": "audit/exegetical-core/fluent-production/1kings/1_KINGS_FLUENT_BOOK_QA.json"
+    },
+    "previous_batch_chapters": [
+      1,
       2,
       3,
       4,
@@ -203,22 +217,8 @@
       20,
       21
     ],
-    "verse_count": 710,
-    "verse_ledger": "audit/fluent-revision/2026-09-14-1kings-2-21/1kings-verse-review.json",
-    "automated_qa": "PASSED",
-    "editorial_status": "REVIEW_PENDING",
-    "qa_scope": "structural",
-    "prior_record": {
-      "commit": "2a0f6019c595e2be476bbd84dcc6a930c8eea5f7",
-      "path": "audit/exegetical-core/fluent-production/1kings/1_KINGS_FLUENT_BOOK_QA.json"
-    },
-    "previous_batch_chapters": [
-      1
-    ],
-    "not_yet_revised_chapters": [
-      22
-    ],
-    "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 2–21; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
+    "not_yet_revised_chapters": [],
+    "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 22–22; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
   },
   "historical_approval_scope": "Earlier wording and its original bindings only; no approval transfers to revised chapters.",
   "revision_batches": [
@@ -302,6 +302,46 @@
         22
       ],
       "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 2–21; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
+    },
+    {
+      "id": "fluent-1kings-22-biblical-fluency-2026-09-14",
+      "chapters": [
+        22
+      ],
+      "verse_count": 53,
+      "verse_ledger": "audit/fluent-revision/2026-09-14-1kings-22/1kings-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f7f1fd7eb2d7534b8667a1d243746b3d28b915f0",
+        "path": "audit/exegetical-core/fluent-production/1kings/1_KINGS_FLUENT_BOOK_QA.json"
+      },
+      "previous_batch_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "not_yet_revised_chapters": [],
+      "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 22–22; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
     }
   ]
 }

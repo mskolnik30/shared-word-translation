@@ -4,102 +4,73 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Moab Rebels after Ahab’s Death
+## Ahaziah seeks an oracle
 
 <p>
-v01: After the death of Ahab, Moab rebelled against Israel.
+v01: After Ahab’s death, Moab rebelled against Israel.
+v02: Ahaziah fell through the lattice of his upper room in Samaria and was injured. He sent messengers with this command: “Go and consult Baal-zebub, the god of Ekron. Ask whether I will recover from this illness.”
 </p>
 
-## Ahaziah Seeks Baal-Zebub
-
 <p>
-v02: Ahaziah fell through the lattice in his upper room that was in Samaria and became sick. So he sent messengers and said to them, “Go, inquire of Baal-Zebub, god of Ekron, whether I will recover from this sickness.”
-
-v03: But the messenger of the LORD said to Elijah the Tishbite, “Rise, go up to meet the messengers of the king of Samaria and say to them, ‘Is it because there is no God in Israel that you are going to inquire of Baal-Zebub, god of Ekron?’
-
-v04: So thus says the LORD: ‘You will not come down from the bed to which you have gone up, but you will surely die.’” Then Elijah went.
-
-v05: The messengers returned to Ahaziah, and he said to them, “Why have you returned?”
-
-v06: They said to him, “A man came up to meet us and said to us, ‘Go, return to the king who sent you and say to him: Thus says the LORD: Is it because there is no God in Israel that you are sending to inquire of Baal-Zebub, god of Ekron? Therefore you will not come down from the bed to which you have gone up, but you will surely die.’”
-
-v07: He said to them, “What kind of man was he who came up to meet you and spoke these words to you?”
-
-v08: They said to him, “A hairy man, with a leather belt bound around his waist.” He said, “It is Elijah the Tishbite.”
+v03: But the LORD’s angel told Elijah the Tishbite, “Go up to meet the king of Samaria’s messengers. Say to them, ‘Is there no God in Israel, that you are going to consult Baal-zebub, Ekron’s god?’
+v04: Therefore the LORD says: ‘You will not come down from the bed you have climbed into. You will certainly die.’” So Elijah went.
 </p>
 
-## Fire Falls on the First Two Captains
-
 <p>
-v09: Then the king sent to him a captain of fifty with his fifty. He went up to Elijah, and look, he was sitting on the top of the hill. He said to him, “Man of God, the king says, ‘Come down.’”
-
-v10: Elijah answered and said to the captain of fifty, “If I am a man of God, let fire come down from the heavens and consume you and your fifty.” Then fire came down from the heavens and consumed him and his fifty.
-
-v11: Again the king sent to him another captain of fifty with his fifty. He answered and said to him, “Man of God, thus says the king: ‘Come down quickly.’”
-
-v12: Elijah answered and said to them, “If I am a man of God, let fire come down from the heavens and consume you and your fifty.” Then the fire of God came down from the heavens and consumed him and his fifty.
+v05: The messengers returned to Ahaziah. “Why have you come back?” he asked.
+v06: They answered, “A man met us and told us, ‘Go back to the king who sent you. Tell him: The LORD says, Is there no God in Israel, that you send to consult Baal-zebub, Ekron’s god? Therefore you will not come down from the bed you have climbed into. You will certainly die.’”
 </p>
 
-## The Third Captain Pleads for His Life
-
 <p>
-v13: Again the king sent a third captain of fifty with his fifty. The third captain of fifty went up, came, and knelt on his knees before Elijah. He pleaded with him and said to him, “Man of God, please let my life and the life of these fifty servants of yours be precious in your eyes.
-
-v14: Look, fire came down from the heavens and consumed the first two captains of fifty with their fifties. But now let my life be precious in your eyes.”
-
-v15: The messenger of the LORD said to Elijah, “Go down with him. Do not be afraid of him.” So he arose and went down with him to the king.
+v07: He asked them, “What did the man who met you and said this look like?”
+v08: “He was a hairy man,” they said, “with a leather belt around his waist.” “That is Elijah the Tishbite,” he replied.
 </p>
 
-## Ahaziah Dies
+## Elijah and the royal captains
 
 <p>
-v16: He said to him, “Thus says the LORD: Because you sent messengers to inquire of Baal-Zebub, god of Ekron—is it because there is no God in Israel to inquire of his word?—therefore you will not come down from the bed to which you have gone up, but you will surely die.”
+v09: The king sent a captain with his fifty men to Elijah. The captain went up and found him sitting on a hilltop. “Man of God,” he said, “the king commands you to come down.”
+v10: Elijah answered the captain, “If I am a man of God, let fire come down from heaven and consume you and your fifty men.” Fire came down from heaven and consumed them.
+</p>
 
-v17: So he died according to the word of the LORD that Elijah had spoken. Jehoram became king in his place in the second year of Jehoram son of Jehoshaphat king of Judah, because Ahaziah had no son.
+<p>
+v11: The king sent another captain with fifty men. He said to Elijah, “Man of God, the king says, ‘Come down at once!’”
+v12: Elijah answered, “If I am a man of God, let fire come down from heaven and consume you and your fifty men.” God’s fire came down from heaven and consumed them.
+</p>
 
-v18: Now the rest of the acts of Ahaziah that he did, are they not written in the book of the chronicles of the kings of Israel?
+<p>
+v13: Again the king sent a third captain with fifty men. This captain went up, knelt before Elijah, and pleaded, “Man of God, please let my life and the lives of these fifty servants of yours be precious in your eyes.
+v14: Fire came down from heaven and consumed the first two captains, each with his fifty men. But now, please let my life be precious in your eyes.”
+</p>
+
+<p>
+v15: The LORD’s angel told Elijah, “Go down with him. Do not be afraid of him.” Elijah got up and went with him to the king.
+v16: Elijah told him, “The LORD says: Because you sent messengers to consult Baal-zebub, Ekron’s god—is there no God in Israel whose word you can seek?—you will not come down from the bed you have climbed into. You will certainly die.”
+</p>
+
+<p>
+v17: Ahaziah died according to the LORD’s word spoken by Elijah. Because he had no son, Jehoram became king in his place, in the second year of Jehoram son of Jehoshaphat, king of Judah.
+v18: The rest of Ahaziah’s deeds—are they not written in the annals of the kings of Israel?
 </p>
 
 ## Notes
 
-v01: Moab’s rebellion forms the political background to the opening of 2 Kings and becomes the main subject of chapter 3.
+v08: “A hairy man” may describe Elijah himself or a hairy garment. The leather belt is explicit.
 
-v02: “Baal-Zebub” is the name of the god of Ekron in the Masoretic Text. The form may preserve a polemical alteration of a title meaning “Baal the prince” or similar, but TSW retains the received name.
+v10: The fire consumes the captain and his fifty men. The narrative repeats the deaths of the second group; it does not explain away the harm.
 
-v03: The issue is not merely foreign consultation but the king’s implicit denial that Israel has a God whose word can be sought.
-
-v08: “hairy man” can describe Elijah’s body or his garment. The leather belt is the identifying feature in the messengers’ report.
-
-v09–12: The fire episodes are severe prophetic judgment scenes. TSW preserves them without generalizing them into a pattern for religious coercion.
-
-v13–15: The third captain approaches with humility rather than royal command. The messenger of the LORD then instructs Elijah not to fear and to go with him.
-
-v17: The regnal synchronism is textually and chronologically difficult because multiple kings named Jehoram/Joram overlap in Israel and Judah. TSW follows the Masoretic wording.
+v17: The two kings named Jehoram belong to different kingdoms. This accession is dated to Judah’s Jehoram’s second year; 3:1 dates it by Jehoshaphat’s eighteenth year. Both notices are retained.
 
 ## Vocabulary
 
-v02: דָּרַשׁ (darash)
-“To inquire” or “seek.” Ahaziah seeks an oracle from a foreign god.
+v02: Baal-zebub
+The name of the god consulted at Ekron; the story contrasts that consultation with seeking Israel’s God.
 
-v02: בַּעַל־זְבוּב (Ba'al-Zevuv)
-“Baal-Zebub.” The deity of Ekron.
-
-v03: מַלְאַךְ יְהוָה (malakh YHWH)
-“Messenger of the LORD.”
-
-v08: אֵזוֹר עוֹר (ezor or)
-“Leather belt.” Elijah’s identifying garment.
-
-v10: אֵשׁ (esh)
-“Fire.” The sign of divine judgment in the scene.
-
-v13: חָנַן (chanan)
-“To plead for favor.” The third captain’s posture before Elijah.
-
-v16: דְּבַר יְהוָה (devar YHWH)
-“Word of the LORD.” The word Ahaziah refused to seek in Israel.
-
-v17: מָלַךְ (malakh)
-“To reign.” Jehoram succeeds Ahaziah.
+v09: Man of God
+A title used for a prophet.

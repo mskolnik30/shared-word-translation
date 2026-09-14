@@ -4,157 +4,112 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## The Iron Axe Head Floats
+## The borrowed ax
 
 <p>
-v01: The sons of the prophets said to Elisha, “Look, the place where we live before you is too cramped for us.
-
-v02: Please let us go to the Jordan and take from there each person a beam, and let us make for ourselves a place there where we may live.” He said, “Go.”
-
-v03: One said, “Please agree to go with your servants.” He said, “I will go.”
-
-v04: So he went with them. They came to the Jordan and cut down trees.
-
-v05: And it happened as one was felling a beam that the iron axe head fell into the water. He cried out and said, “Ah, my lord! And it was borrowed!”
-
-v06: The man of God said, “Where did it fall?” He showed him the place. Then he cut a piece of wood, threw it there, and made the iron float.
-
-v07: He said, “Lift it for yourself.” So he stretched out his hand and took it.
+v01: The company of prophets told Elisha, “The place where we meet with you is too small for us.
+v02: Let us go to the Jordan. Each of us can cut a beam, and we can make a place to stay there.” “Go,” he said.
+v03: One asked, “Please come with your servants.” “I will,” Elisha answered.
 </p>
 
-## Elisha Reveals Aram’s Plans
-
 <p>
-v08: Now the king of Aram was making war against Israel. He consulted with his servants, saying, “At such and such a place will be my camp.”
-
-v09: But the man of God sent to the king of Israel, saying, “Guard yourself from passing this place, for the Arameans are going down there.”
-
-v10: So the king of Israel sent to the place concerning which the man of God had spoken to him and warned him. He guarded himself there, not once or twice.
-
-v11: The heart of the king of Aram was stormed over this matter, and he called his servants and said to them, “Will you not tell me who among us is for the king of Israel?”
-
-v12: One of his servants said, “No, my lord the king, but Elisha the prophet who is in Israel tells the king of Israel the words that you speak in your bedroom.”
-
-v13: He said, “Go and see where he is, so that I may send and take him.” It was told to him, saying, “Look, he is in Dothan.”
+v04: He went with them. They reached the Jordan and began cutting trees.
+v05: As one of them cut a beam, the iron axhead fell into the water. “Oh, my lord!” he cried. “It was borrowed!”
+v06: The man of God asked, “Where did it fall?” When he showed him, Elisha cut a stick and threw it there, and made the iron float.
+v07: “Lift it out,” he said. The man reached out and took it.
 </p>
 
-## Those with Us Are More Than Those with Them
+## The army at Dothan
 
 <p>
-v14: So he sent there horses, chariots, and a strong force. They came by night and surrounded the city.
-
-v15: The servant of the man of God rose early and went out, and look, an army with horses and chariots was surrounding the city. His servant said to him, “Ah, my lord! What will we do?”
-
-v16: He said, “Do not fear, for people who are with us are more than people who are with them.”
-
-v17: Then Elisha prayed and said, “O LORD, please open his eyes so that he may see.” The LORD opened the eyes of the young man, and he saw, and look, the mountain was full of horses and chariots of fire all around Elisha.
+v08: Aram’s king was at war with Israel. He consulted his servants: “I will camp at such and such a place.”
+v09: The man of God sent word to Israel’s king: “Be careful not to pass that place. The Arameans are coming down there.”
+v10: The king of Israel sent men to the place the man of God had warned him about. He was on his guard there, not just once or twice.
 </p>
 
-## Elisha Leads the Arameans into Samaria
-
 <p>
-v18: When the Arameans came down to him, Elisha prayed to the LORD and said, “Please strike this nation with blindness.” So he struck them with blindness according to the word of Elisha.
-
-v19: Elisha said to them, “This is not the way, and this is not the city. Follow me, and I will lead you to the man whom you seek.” And he led them to Samaria.
-
-v20: And it happened when they came into Samaria that Elisha said, “O LORD, open the eyes of these men so that they may see.” The LORD opened their eyes, and they saw, and look, they were among Samaria.
-
-v21: When the king of Israel saw them, he said to Elisha, “Will I strike them? Will I strike them, my father?”
-
-v22: He said, “You will not strike them. Would you strike those whom you have captured with your sword and your bow? Set bread and water before them so that they may eat and drink and go to their lord.”
-
-v23: So he prepared a great feast for them. They ate and drank, and he sent them away, and they went to their lord. And the raiding bands of Aram did not continue coming into the land of Israel.
+v11: This greatly troubled Aram’s king. He called his servants and asked, “Will no one tell me which of us is on Israel’s king’s side?”
+v12: “None of us, my lord the king,” a servant answered. “Elisha, the prophet in Israel, tells Israel’s king even the words you speak in your bedroom.”
+v13: “Go and find out where he is,” the king said, “so I can send men to seize him.” He was told, “He is in Dothan.”
 </p>
 
-## Ben-Hadad Besieges Samaria
-
 <p>
-v24: After this Ben-Hadad king of Aram gathered all his army and went up and besieged Samaria.
-
-v25: There was a great famine in Samaria, and look, they besieged it until a donkey’s head was sold for eighty shekels of silver and a quarter of a kab of dove’s dung for five shekels of silver.
-
-v26: As the king of Israel was passing by upon the wall, a woman cried out to him, saying, “Save, my lord the king!”
-
-v27: He said, “If the LORD does not save you, from where will I save you? From the threshing floor or from the winepress?”
-
-v28: The king said to her, “What is it with you?” She said, “This woman said to me, ‘Give your son, and we will eat him today, and my son we will eat tomorrow.’
-
-v29: So we boiled my son and ate him. The next day I said to her, ‘Give your son, and we will eat him,’ but she hid her son.”
+v14: He sent horses, chariots, and a large force there. They arrived at night and surrounded the town.
+v15: The man of God’s attendant rose early and went outside. An army with horses and chariots surrounded the town. “Oh, my lord, what shall we do?” he asked.
 </p>
 
-## The King Blames Elisha
+<p>
+v16: “Do not be afraid,” Elisha answered. “Those with us outnumber those with them.”
+v17: Elisha prayed, “LORD, please open his eyes so he can see.” The LORD opened the young man’s eyes. He saw the hills full of horses and chariots of fire around Elisha.
+</p>
 
 <p>
-v30: When the king heard the words of the woman, he tore his clothes. As he passed by upon the wall, the people looked, and look, sackcloth was beneath upon his body.
+v18: As the Arameans came down toward him, Elisha prayed to the LORD, “Please strike these people with blindness.” He struck them with blindness, as Elisha asked.
+v19: Elisha told them, “This is not the road or the town. Follow me, and I will take you to the man you are looking for.” He led them to Samaria.
+</p>
 
-v31: He said, “Thus may God do to me and more also if the head of Elisha son of Shaphat remains upon him today.”
+<p>
+v20: When they entered Samaria, Elisha said, “LORD, open their eyes so they can see.” The LORD opened their eyes, and they saw they were inside Samaria.
+v21: When Israel’s king saw them, he asked Elisha, “Shall I strike them down, my father? Shall I?”
+</p>
 
-v32: Elisha was sitting in his house, and the elders were sitting with him. The king sent a man from before him. Before the messenger came to him, Elisha said to the elders, “Do you see how this son of a murderer has sent to remove my head? See, when the messenger comes, shut the door and hold him at the door. Is not the sound of his lord’s feet behind him?”
+<p>
+v22: “Do not strike them,” he answered. “Would you strike down those you had captured with your sword and bow? Set bread and water before them. Let them eat and drink, then return to their master.”
+v23: The king prepared a great feast. They ate and drank, and he sent them back to their master. Aramean raiding bands no longer came into Israel’s land.
+</p>
 
-v33: While he was still speaking with them, look, the messenger came down to him. And he said, “Look, this disaster is from the LORD. Why should I wait for the LORD any longer?”
+## Famine in Samaria
+
+<p>
+v24: Afterward, Ben-hadad king of Aram gathered his whole army and besieged Samaria.
+v25: Famine grew severe in Samaria under the siege. A donkey’s head sold for eighty silver shekels, and a quarter-kab of dove dung for five.
+</p>
+
+<p>
+v26: As Israel’s king walked along the wall, a woman cried to him, “Help me, my lord the king!”
+v27: He answered, “If the LORD does not help you, where can I find help for you? From the threshing floor? From the winepress?”
+</p>
+
+<p>
+v28: Then he asked, “What is wrong?” She said, “This woman told me, ‘Give up your son so we can eat him today. We will eat mine tomorrow.’
+v29: We boiled my son and ate him. The next day I said, ‘Give up your son so we can eat him.’ But she hid her son.”
+</p>
+
+<p>
+v30: When the king heard her words, he tore his clothes. As he passed along the wall, the people saw sackcloth beneath them, against his skin.
+v31: He said, “May God punish me, and more besides, if Elisha son of Shaphat’s head stays on his shoulders today!”
+</p>
+
+<p>
+v32: Elisha was sitting at home with the elders. The king sent a man ahead of him. Before the messenger arrived, Elisha told the elders, “Do you see how this murderer’s son has sent someone to take off my head? When the messenger comes, shut the door and hold it against him. Isn’t the sound of his master’s footsteps behind him?”
+v33: While he was still speaking, the messenger came down to him. Then came the words, “This disaster is from the LORD. Why should I wait for the LORD any longer?”
 </p>
 
 ## Notes
 
-v01–07: The floating axe head addresses an ordinary economic problem within the prophetic community. The borrowed iron mattered because iron tools were valuable.
+v05: The axhead was borrowed. Its loss is therefore also an obligation to another person.
 
-v08–12: Elisha’s prophetic insight makes private military strategy transparent, leading the Aramean king to suspect treason.
+v18: The unusual word for blindness may describe a disabling confusion of sight. The account does not explain its physical mechanism.
 
-v17: The fiery horses and chariots reveal an unseen divine army already surrounding Elisha. The prayer changes the servant’s perception rather than summoning new forces.
+v25: “Dove dung” follows the Hebrew’s written and read expressions. Some understand the phrase as a name for a food plant. The price is five silver pieces for a quarter-kab, against eighty for a donkey’s head.
 
-v18: The word translated “blindness” may describe dazzling confusion rather than complete inability to see, since the soldiers can still follow Elisha.
+v27: The opening can be read conditionally, “If the LORD does not help you,” or as a negative wish, “May the LORD not help you.” The Hebrew is terse.
 
-v21: The king calls Elisha “my father,” recognizing prophetic authority even while asking permission to kill the captured force.
-
-v22–23: Elisha replaces slaughter with a feast. Feeding captured enemies ends the immediate cycle of raiding.
-
-v24: The narrative then shifts to a larger royal siege by Ben-Hadad, distinct from the smaller raiding bands that had ceased.
-
-v25: Both the donkey’s head and the substance traditionally rendered “dove’s dung” represent extreme scarcity. The second term may refer to a plant product, but its identification is uncertain.
-
-v28–29: The siege reaches the horror anticipated in covenant curses: mothers consume a child under famine. TSW preserves the account without graphic expansion.
-
-v30: The king’s hidden sackcloth shows mourning or penitence beneath royal clothing, but his next act is to threaten the prophet.
-
-v31: The king blames Elisha for the disaster despite the prophet having repeatedly protected Israel.
-
-v32: “son of a murderer” may refer to the king’s own violent disposition or to his father Ahab’s bloodguilt. Elisha’s immediate target is the king’s order to kill him.
-
-v33: The final speaker is textually uncertain—possibly the king or his messenger. TSW leaves the speech within the narrative without naming the speaker.
+v33: The messenger arrives, but the final speaker is not explicitly identified. The words may be the king’s, whether spoken by him or relayed by his messenger.
 
 ## Vocabulary
 
-v05: שָׁאַל (sha'al)
-“To borrow.” The axe head was borrowed property.
+v24: Ben-hadad
+A royal name used by more than one Aramean king.
 
-v06: צוּף (tsuf)
-“To float.” Elisha makes the iron rise.
+v25: Kab
+A small dry measure; the text gives a quarter of it.
 
-v11: סָעַר (sa'ar)
-“To storm” or be agitated. The Aramean king’s heart is deeply troubled.
-
-v17: פָּקַח עֵינַיִם (paqach einayim)
-“To open eyes.” A prayer for spiritual perception.
-
-v17: פָּקַח עֵינַיִם (paqach einayim)
-“To open eyes.” To enable perception or recognition.
-
-v18: סַנְוֵרִים (sanverim)
-“Blindness” or dazzling confusion.
-
-v23: כֵּרָה (kerah)
-“Feast.” A large meal prepared for captured enemies.
-
-v24: צוּר (tsur)
-“To besiege.” Aram encircles Samaria.
-
-v25: קַב (qav)
-“Kab.” A small dry measure.
-
-v30: שַׂק (saq)
-“Sackcloth.” A garment of mourning.
-
-v33: יָחַל (yachal)
-“To wait” or hope. The speaker refuses to wait for the LORD.
+v30: Sackcloth
+Coarse cloth worn as a sign of grief or distress.

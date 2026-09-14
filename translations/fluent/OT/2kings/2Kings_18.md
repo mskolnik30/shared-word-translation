@@ -4,158 +4,121 @@ testament: OT
 chapter: 18
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2kings-1-25-biblical-fluency-2026-09-14
 ---
 
-## Hezekiah Reigns in Judah
+## Hezekiah trusts the LORD
 
 <p>
-v01: In the third year of Hoshea son of Elah king of Israel, Hezekiah son of Ahaz king of Judah became king.
+v01: In the third year of Hoshea son of Elah, king of Israel, Hezekiah son of Ahaz became king of Judah.
+v02: He was twenty-five years old when he became king, and he reigned in Jerusalem for twenty-nine years. His mother’s name was Abi, daughter of Zechariah.
+v03: He did what was right in the LORD’s eyes, just as his ancestor David had done.
+</p>
 
-v02: He was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abi daughter of Zechariah.
+<p>
+v04: He removed the high places, smashed the sacred pillars, and cut down the Asherah. He broke up the bronze serpent Moses had made, because until then the Israelites had been burning offerings to it. It was called Nehushtan.
+v05: He trusted in the LORD, the God of Israel. None of Judah’s kings after him was like him, nor any of those before him.
+v06: He held fast to the LORD and did not stop following him. He kept the commandments the LORD had given Moses.
+</p>
 
-v03: He did what was right in the eyes of the LORD, according to all that David his ancestor had done.
-
-v04: He removed the high places, shattered the pillars, cut down the Asherah, and crushed the bronze serpent that Moses had made, for until those days the children of Israel had been burning incense to it. It was called Nehushtan.
-
-v05: He trusted in the LORD, the God of Israel, so that after him there was none like him among all the kings of Judah, nor among people who were before him.
-
-v06: He clung to the LORD. He did not turn away from following him but kept his commandments that the LORD commanded Moses.
-
-v07: The LORD was with him. Wherever he went out, he acted wisely. He rebelled against the king of Assyria and did not serve him.
-
+<p>
+v07: The LORD was with him, and he succeeded wherever he went. He rebelled against the king of Assyria and refused to serve him.
 v08: He struck the Philistines as far as Gaza and its territory, from watchtower to fortified city.
 </p>
 
-## The Fall of Samaria Is Recalled
+## Samaria’s fall recalled
 
 <p>
-v09: And it happened in the fourth year of King Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, that Shalmaneser king of Assyria went up against Samaria and besieged it.
-
-v10: At the end of three years they captured it. In the sixth year of Hezekiah, which was the ninth year of Hoshea king of Israel, Samaria was captured.
-
-v11: The king of Assyria carried Israel into exile to Assyria and settled them in Halah and by the Habor, river of Gozan, and in the cities of the Medes,
-
-v12: because they did not listen to the voice of the LORD their God but transgressed his covenant—all that Moses servant of the LORD commanded. They did not listen and did not do it.
+v09: In King Hezekiah’s fourth year, which was the seventh year of Hoshea son of Elah, king of Israel, Shalmaneser king of Assyria advanced on Samaria and besieged it.
+v10: They captured it at the end of three years. Samaria fell in Hezekiah’s sixth year, which was Hoshea king of Israel’s ninth year.
+v11: The king of Assyria deported Israel to Assyria and settled them in Halah, along the Habor, the river of Gozan, and in the cities of Media.
+v12: This was because they had not listened to the LORD their God but had broken his covenant—everything Moses the LORD’s servant commanded. They neither listened nor acted.
 </p>
 
-## Sennacherib Invades Judah
+## Assyria invades Judah
 
 <p>
-v13: In the fourteenth year of King Hezekiah, Sennacherib king of Assyria went up against all the fortified cities of Judah and captured them.
-
-v14: Hezekiah king of Judah sent to the king of Assyria at Lachish, saying, “I have sinned. Turn away from me. Whatever you impose upon me I will bear.” The king of Assyria imposed upon Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.
-
-v15: So Hezekiah gave all the silver that was found in the house of the LORD and in the treasuries of the king’s house.
-
-v16: At that time Hezekiah cut off the doors of the temple of the LORD and the doorposts that Hezekiah king of Judah had overlaid, and gave them to the king of Assyria.
+v13: In King Hezekiah’s fourteenth year, Sennacherib king of Assyria attacked all Judah’s fortified cities and captured them.
+v14: Hezekiah king of Judah sent word to the king of Assyria at Lachish: “I have done wrong. Withdraw from me, and I will bear whatever you impose.” Assyria’s king imposed on Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.
 </p>
 
-## The Rabshakeh Challenges Hezekiah
-
 <p>
-v17: Then the king of Assyria sent the Tartan, the Rab-Saris, and the Rabshakeh from Lachish to King Hezekiah with a heavy force to Jerusalem. They went up and came to Jerusalem. They went up and came and stood by the conduit of the upper pool, which is on the highway of the Washer’s Field.
-
-v18: They called to the king. Eliakim son of Hilkiah, who was over the household, Shebnah the scribe, and Joah son of Asaph the recorder went out to them.
-
-v19: The Rabshakeh said to them, “Please say to Hezekiah: Thus says the great king, the king of Assyria: What is this confidence in which you trust?
-
-v20: You say—but it is only a word of lips—‘There is counsel and strength for war.’ And now, upon whom do you trust that you have rebelled against me?
-
-v21: Now look, you trust upon the staff of this broken reed, upon Egypt, which, if a man leans upon it, goes into his palm and pierces it. So is Pharaoh king of Egypt to everyone who trust upon him.
-
-v22: But if you say to me, ‘We trust in the LORD our God,’ is he not the one whose high places and altars Hezekiah removed and said to Judah and Jerusalem, ‘Before this altar in Jerusalem you will bow down’?
-
-v23: And now, please make a wager with my lord the king of Assyria: I will give you two thousand horses, if you are able on your part to put riders upon them.
-
-v24: How then can you turn back the face of one governor among the least of my lord’s servants while you trust in Egypt for chariots and horsemen?
-
-v25: And now, have I come up without the LORD against this place to destroy it? The LORD said to me, ‘Go up against this land and destroy it.’”
+v15: Hezekiah gave him all the silver found in the LORD’s house and the palace treasuries.
+v16: At that time Hezekiah stripped the doors of the LORD’s temple and the doorposts he had overlaid with gold, and gave the gold to the king of Assyria.
 </p>
 
-## The Rabshakeh Speaks in Judean
+<p>
+v17: The king of Assyria sent the Tartan, the Rab-saris, and the Rab-shakeh from Lachish with a large army to King Hezekiah at Jerusalem. They came up to Jerusalem and took their stand by the channel of the upper pool, on the road to the Washer’s Field.
+v18: They called for the king. Eliakim son of Hilkiah, the palace administrator, Shebnah the secretary, and Joah son of Asaph, the recorder, came out to them.
+</p>
+
+## The envoy challenges Jerusalem
 
 <p>
-v26: Then Eliakim son of Hilkiah, Shebnah, and Joah said to the Rabshakeh, “Please speak to your servants in Aramaic, for we understand it. Do not speak with us in Judean in the ears of the people who are upon the wall.”
+v19: The Rab-shakeh said to them, “Tell Hezekiah: ‘This is what the great king, the king of Assyria, says: What is this confidence you have?
+v20: You say you have strategy and strength for war—but that is only talk. On whom are you relying, that you have rebelled against me?
+</p>
 
-v27: But the Rabshakeh said to them, “Has my lord sent me to speak these words to your lord and to you? Is it not to the men sitting upon the wall, who will eat their own dung and drink their own urine with you?”
+<p>
+v21: Look! You are relying on Egypt, that splintered reed of a staff. If anyone leans on it, it pierces his hand. That is what Pharaoh king of Egypt is like for everyone who relies on him.
+v22: But if you tell me, “We rely on the LORD our God,” isn’t he the one whose high places and altars Hezekiah removed, telling Judah and Jerusalem, “You must bow before this altar in Jerusalem”?
+</p>
 
-v28: Then the Rabshakeh stood and called with a loud voice in Judean and spoke and said, “Hear the word of the great king, the king of Assyria!
+<p>
+v23: Now make a wager with my master, the king of Assyria. I will give you two thousand horses—if you can find riders for them!
+v24: How could you turn back even one governor, one of my master’s least servants, when you rely on Egypt for chariots and horsemen?
+v25: And have I come to destroy this place without the LORD? The LORD told me, “Go up against this land and destroy it.”’”
+</p>
 
-v29: Thus says the king: Do not let Hezekiah deceive you, for he is not able to rescue you from my hand.
+<p>
+v26: Eliakim son of Hilkiah, Shebnah, and Joah said to the Rab-shakeh, “Please speak to your servants in Aramaic; we understand it. Don’t speak to us in Judean within hearing of the people on the wall.”
+v27: But the Rab-shakeh answered, “Did my master send me to say these things only to your master and you? Didn’t he send me to the men sitting on the wall, who will have to eat their own excrement and drink their own urine along with you?”
+</p>
 
-v30: Do not let Hezekiah make you trust in the LORD, saying, ‘The LORD will surely rescue us, and this city will not be given into the hand of the king of Assyria.’
+<p>
+v28: Then the Rab-shakeh stood and shouted in Judean, “Hear the word of the great king, the king of Assyria!
+v29: This is what the king says: Don’t let Hezekiah deceive you. He cannot rescue you from the king’s hand.
+v30: Don’t let Hezekiah make you rely on the LORD by saying, ‘The LORD will certainly rescue us. This city will not be handed over to the king of Assyria.’
+</p>
 
-v31: Do not listen to Hezekiah, for thus says the king of Assyria: Make peace with me and come out to me. Then each of you will eat from his own vine and each from his own fig tree, and each will drink water from his own cistern,
+<p>
+v31: Don’t listen to Hezekiah. This is what the king of Assyria says: Make peace with me and come out to me. Then each of you can eat from your own vine and fig tree and drink water from your own cistern,
+v32: until I come and take you to a land like your own—a land of grain and new wine, bread and vineyards, olive oil and honey. Live, and do not die! Don’t listen to Hezekiah when he misleads you by saying, ‘The LORD will rescue us.’
+</p>
 
-v32: until I come and take you to a land like your own land, a land of grain and new wine, a land of bread and vineyards, a land of olive trees and honey, so that you may live and not die. Do not listen to Hezekiah when he misleads you, saying, ‘The LORD will rescue us.’
-
-v33: Have any of the gods of the nations ever rescued his land from the hand of the king of Assyria?
-
+<p>
+v33: Have any of the nations’ gods rescued their lands from the king of Assyria’s hand?
 v34: Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena, and Ivvah? Have they rescued Samaria from my hand?
+v35: Which of all the gods of these lands has rescued its land from my hand? How, then, could the LORD rescue Jerusalem from my hand?”
+</p>
 
-v35: Who among all the gods of the lands have rescued their land from my hand, that the LORD should rescue Jerusalem from my hand?”
-
-v36: But the people were silent and did not answer him a word, for the king’s command was, “You will not answer him.”
-
-v37: Then Eliakim son of Hilkiah, who was over the household, Shebna the scribe, and Joah son of Asaph the recorder came to Hezekiah with their clothes torn and told him the words of the Rabshakeh.
+<p>
+v36: The people were silent and did not answer him a word, for the king had commanded, “Do not answer him.”
+v37: Eliakim son of Hilkiah, the palace administrator, Shebna the secretary, and Joah son of Asaph, the recorder, came to Hezekiah with their clothes torn and reported the Rab-shakeh’s words.
 </p>
 
 ## Notes
 
-v04: Hezekiah destroys even the bronze serpent made by Moses because it had become an object of incense worship. Sacred history does not protect an object once it becomes an idol.
+v04: Nehushtan resembles the Hebrew words for bronze and serpent. The naming clause can mean “he called it” or “it was called.”
 
-v05: The extraordinary evaluation of Hezekiah emphasizes trust in the LORD as the defining quality of his reign.
+v05: The exceptional praise concerns Hezekiah’s trust. Josiah receives similarly exceptional praise for turning to the LORD in 23:25.
 
-v07: Political rebellion against Assyria follows theological trust, though the chapter later shows the enormous cost and danger of that decision.
+v22: The envoy treats the removal of local altars as a reason to distrust the LORD’s help. That argument is part of his speech, not the narrator’s explanation.
 
-v09–12: The fall of northern Israel is repeated within Hezekiah’s story as a warning example of covenant disobedience.
+v25: The claim that the LORD ordered the invasion is the Assyrian speaker’s claim.
 
-v14–16: Hezekiah initially responds to Sennacherib by submission and massive tribute, even stripping temple architecture of precious metal.
-
-v17: Tartan, Rab-Saris, and Rabshakeh are Assyrian court/military titles rather than necessarily personal names.
-
-v21: The “broken reed” image mocks Egypt as an unreliable ally that injures the one who leans upon it.
-
-v22: The Rabshakeh misunderstands or deliberately distorts Hezekiah’s reform, assuming that removing high places would anger the LORD rather than centralize authorized worship.
-
-v25: The Assyrian envoy claims divine authorization from the LORD. The narrative forces the question of whether imperial success elsewhere should be interpreted as permission to destroy Jerusalem.
-
-v26: Aramaic was the language of international diplomacy, while “Judean” refers to the local Hebrew dialect understood by the population on the wall.
-
-v27: The siege threat is expressed with deliberately degrading bodily language to frighten Jerusalem’s inhabitants.
-
-v31–32: Assyria presents exile as a pleasant relocation, promising each person an equivalent land. The rhetoric conceals the coercion of deportation.
-
-v33–35: The theological challenge reaches its climax by treating the LORD as one more defeated territorial god. Chapter 19 answers this claim.
+v27: The written expressions are coarse; the read tradition substitutes more decorous terms. Both describe eating excrement and drinking urine under siege.
 
 ## Vocabulary
 
-v04: נְחֻשְׁתָּן (Nehushtan)
-“Nehushtan.” The contemptuous name given to the bronze serpent.
+v17: Tartan; Rab-saris; Rab-shakeh
+Assyrian official titles, conventionally understood as commander, chief court officer, and chief cupbearer or senior envoy.
 
-v05: בָּטַח (batach)
-“To trust.” Hezekiah’s defining posture toward the LORD.
+v26: Aramaic; Judean
+Aramaic was understood by the officials; Judean was the local language understood by the listeners on the wall.
 
-v06: דָּבַק (davaq)
-“To cling.” Hezekiah’s covenant attachment.
-
-v13: לָכַד (lakhad)
-“To capture.” Assyria takes Judah’s fortified cities.
-
-v17: רַב־שָׁקֵה (Rav-Shaqeh)
-“Rabshakeh.” An Assyrian official title.
-
-v19: בִּטָּחוֹן (bittachon)
-“Confidence.” The central issue in the Assyrian challenge.
-
-v21: קָנֶה רָצוּץ (qaneh ratsuts)
-“Broken reed.” The image for Egypt.
-
-v26: אֲרָמִית (Aramit)
-“Aramaic.” The diplomatic language.
-
-v26: יְהוּדִית (Yehudit)
-“Judean.” The local language/dialect of Jerusalem.
-
-v31: בְּרָכָה (berakhah)
-“Peace agreement” or blessing. The Rabshakeh’s invitation to surrender.
+v31: Vine and fig tree
+Familiar images of settled agricultural well-being used in the surrender offer.

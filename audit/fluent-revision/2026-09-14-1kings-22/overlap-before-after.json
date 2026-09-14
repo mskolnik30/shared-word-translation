@@ -1,0 +1,390 @@
+{
+  "method": "NFKC/casefold words, punctuation ignored; SequenceMatcher autojunk=false; near threshold 0.90. Triage only, no quota, no proof of fidelity or independent authorship.",
+  "summary": {
+    "before": {
+      "verses": 53,
+      "identical_words": 50,
+      "near_identical": 3,
+      "mean_word_similarity": 0.996787
+    },
+    "after": {
+      "verses": 53,
+      "identical_words": 2,
+      "near_identical": 4,
+      "mean_word_similarity": 0.683301
+    }
+  },
+  "verses": [
+    {
+      "reference": "1 Kings 22:1",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Kings 22:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.622951,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:5",
+      "before_similarity": 0.941176,
+      "after_similarity": 0.551724,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.605263,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:7",
+      "before_similarity": 0.947368,
+      "after_similarity": 0.529412,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.454545,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.723404,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.514286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:14",
+      "before_similarity": 0.941176,
+      "after_similarity": 0.516129,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.641026,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.512821,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.707692,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.784314,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.77193,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.627451,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.627451,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:36",
+      "before_similarity": 1.0,
+      "after_similarity": 0.421053,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:37",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.528302,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.788732,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:40",
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:41",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Kings 22:42",
+      "before_similarity": 1.0,
+      "after_similarity": 0.76,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:43",
+      "before_similarity": 1.0,
+      "after_similarity": 0.658537,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:44",
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:45",
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:46",
+      "before_similarity": 1.0,
+      "after_similarity": 0.512821,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:47",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:48",
+      "before_similarity": 1.0,
+      "after_similarity": 0.622222,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:49",
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:50",
+      "before_similarity": 1.0,
+      "after_similarity": 0.807692,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:51",
+      "before_similarity": 1.0,
+      "after_similarity": 0.901961,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:52",
+      "before_similarity": 1.0,
+      "after_similarity": 0.590164,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Kings 22:53",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    }
+  ]
+}
