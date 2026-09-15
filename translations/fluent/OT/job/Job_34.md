@@ -4,184 +4,125 @@ testament: OT
 chapter: 34
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-27-42-biblical-fluency-2026-09-15
 ---
 
-## Elihu Appeals to the Wise
+## Elihu: Hear my judgment
 
 <p>
-v01: Elihu answered and said:
-
+v01: Elihu went on:
 v02: “Hear my words, you wise people;
-and you who know, give ear to me.
-
+you who know, listen to me.
 v03: For the ear tests words
 as the palate tastes food.
-
-v04: Let us choose justice for ourselves;
-let us know among ourselves what is good.
+v04: Let us decide together what is just;
+let us discover among ourselves what is good.
+v05: For Job has said, ‘I am in the right,
+but God has denied me justice.
+v06: Despite my right, I am counted a liar;
+my arrow wound is incurable, though I have not rebelled.’
+v07: Who is like Job,
+drinking mockery like water,
+v08: keeping company with evildoers
+and walking with wicked men?
+v09: For he says, ‘It does a person no good
+to take delight in God.’
 </p>
 
-## Job Has Said, God Has Taken Away My Justice
+## God does no wrong
 
 <p>
-v05: For Job has said, ‘I am righteous,
-but God has taken away my justice.
-
-v06: In spite of my justice I am counted a liar;
-my wound is incurable, though I have no transgression.’
-
-v07: What man is like Job,
-who drinks mockery like water,
-
-v08: who travels in company with workers of harm
-and walks with wicked people?
-
-v09: For he has said, ‘It does not profit a man
-to delight himself in God.’
-</p>
-
-## Far Be It from God to Do Wickedness
-
-<p>
-v10: So listen to me, people of understanding:
-far be it from God to do wickedness,
-and from the Almighty to do injustice.
-
-v11: For the work of a human he repays him,
-and according to a person’s way he causes him to find.
-
-v12: Surely God does not act wickedly,
-and the Almighty does not pervert justice.
-
-v13: Who appointed him over the earth?
-And who placed the entire world under him?
-
-v14: If he set his heart upon himself,
-if he gathered to himself his spirit and his breath,
-
-v15: all flesh would expire together,
+v10: So listen to me, you people of understanding:
+God is far from wickedness,
+the Almighty from injustice!
+v11: He repays people for what they do,
+bringing upon each the outcome of his ways.
+v12: Truly, God does no wrong;
+the Almighty does not twist justice.
+v13: Who entrusted the earth to him?
+Who placed the whole inhabited world in his care?
+v14: If he set his heart on it
+and gathered his spirit and breath back to himself,
+v15: all flesh would perish together,
 and humanity would return to dust.
-</p>
-
-## God Shows No Partiality to Princes
-
-<p>
 v16: If you have understanding, hear this;
-give ear to the sound of my words.
-
+listen to the sound of my words.
 v17: Can one who hates justice govern?
-Will you condemn the righteous and mighty One,
-
-v18: who says to a king, ‘Worthless one,’
-and to nobles, ‘Wicked,’
-
-v19: who does not show partiality to princes
-or recognize the rich above the poor,
-for all of them are the work of his hands?
-
-v20: In a moment they die,
-and at midnight a people is shaken and passes away;
-the mighty are removed, but not by human hand.
+Will you condemn the righteous and mighty one,
+v18: who says to a king, ‘Worthless man!’
+and to nobles, ‘Wicked men!’?
+v19: He shows no partiality to officials
+and does not favor the rich over the poor,
+for all are the work of his hands.
+v20: In a moment they die;
+at midnight people are shaken and pass away.
+The mighty are removed without a human hand.
 </p>
 
-## His Eyes Are on Human Ways
-
 <p>
-v21: For his eyes are upon the ways of a person,
-and he sees all his steps.
-
-v22: There is no darkness and no death-shadow
-where workers of harm may hide.
-
-v23: For he does not appoint a time for a man
-to enter before God in judgment.
-
-v24: He breaks mighty people without searching it out
-and makes others stand in their place.
-
-v25: So he recognizes their works;
+v21: His eyes are on a person’s ways;
+he sees every step.
+v22: There is no darkness, no deep shadow,
+where evildoers can hide.
+v23: He has no need to examine a person further
+before bringing him into judgment with God.
+v24: He shatters the mighty without inquiry
+and sets others in their place.
+v25: Knowing their deeds,
 he overturns them in the night, and they are crushed.
-
-v26: He strikes them for their wickedness
-in a place where people can see,
-
-v27: because they turned aside from following him
-and gave no attention to any of his ways,
-
-v28: so that they caused the cry of the poor to come to him,
-and he heard the cry of the afflicted.
+v26: He strikes them as wicked people
+in a place where others can see,
+v27: because they turned away from following him
+and paid no attention to his ways.
+v28: They made the cry of the poor reach him,
+and he hears the cry of the afflicted.
 </p>
 
-## When He Is Silent, Who Can Condemn?
+## Who can condemn him?
 
 <p>
-v29: When he gives quiet, who can condemn?
+v29: When he is quiet, who can condemn him?
 When he hides his face, who can see him?
-Whether over a nation or over a person, it is the same,
-
-v30: so that a godless person may not reign,
-so that there are no snares for the people.
-</p>
-
-## Should God Repay on Your Terms?
-
-<p>
-v31: For has anyone said to God,
-‘I have borne chastisement; I will not act corruptly again.
-
-v32: What I do not see, teach me;
-if I have done injustice, I will do it no more’?
-
-v33: Should he repay according to your terms because you reject his judgment?
-For you must choose, and not I.
-So declare what you know.
-
-v34: People of understanding will say to me,
-and a wise man who hears me:
-
-v35: ‘Job speaks without knowledge,
-and his words are without insight.’
-
+He is over nation and individual alike,
+v30: to keep a godless person from ruling,
+from setting snares for the people.
+v31: Suppose someone says to God,
+‘I have borne punishment; I will offend no more.
+v32: Teach me what I do not see;
+if I have done wrong, I will not do it again.’
+v33: Must God repay on your terms because you object?
+You must choose, not I.
+Say what you know.
+v34: People of understanding will tell me,
+a wise man who hears me will say,
+v35: ‘Job speaks without knowledge;
+his words show no insight.’
 v36: If only Job were tested to the limit
-because his answers are like those of wicked men!
-
-v37: For he adds rebellion to his sin;
+for answering like evildoers!
+v37: He adds rebellion to his sin;
 he claps his hands among us
 and multiplies his words against God.”
 </p>
 
 ## Notes
 
-v05–09: Elihu summarizes Job’s position in increasingly negative terms. Job has indeed said God took away his justice, but the claim that serving God has no profit compresses Job’s critique into a more sweeping rejection.
+v06: The opening can mean that Job is counted a liar despite his right, or that he would lie about his case. Elihu is quoting or paraphrasing Job’s position.
 
-v10–12: Elihu’s central commitment is that God cannot act wickedly or pervert justice. This is a theological boundary that Job himself has struggled to reconcile with experience.
+v14: The object of setting the heart is uncertain: God may set his heart on himself or on a person. The withdrawal of spirit and breath follows.
 
-v14–15: Human life depends continuously upon God’s spirit and breath; if God gathered them back, all flesh would return to dust.
+v18: The line can describe God addressing rulers as worthless, or ask whether it is proper for a person to address them that way.
 
-v19: Divine impartiality is grounded in creation: rich and poor alike are the work of God’s hands.
+v23: The phrase may concern no further examination being needed or no appointed time for appearing before God.
 
-v28: Elihu specifically affirms that God hears the cry of the poor and afflicted, a claim that aligns with Job’s concern for oppressed people but remains difficult to reconcile with Job’s observations in chapter 24.
-
-v33: Elihu insists that Job cannot demand justice on Job’s own terms. The Hebrew is compact and difficult, but the question challenges Job’s attempt to set conditions for divine judgment.
-
-v36: Elihu’s wish that Job be tested “to the limit” is severe and sits uneasily beside Job’s already extreme suffering.
+v36: The opening is understood as “if only”; it can also be read “my father.” The demand for Job to be tested is Elihu’s own severe wish.
 
 ## Vocabulary
 
-v04: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Elihu invites communal discernment about what is just.
+v15: Dust
+The shared destination of humanity when breath is withdrawn.
 
-v10: רֶשַׁע (resha)
-“Wickedness.” Elihu denies it can belong to God.
-
-v12: עִוֵּת (ivvet)
-“To pervert” or “distort.” God does not distort justice.
-
-v19: נָשָׂא פָנִים (nasa panim)
-“To show partiality.” God does not privilege rulers because of status.
-
-v28: צַעֲקַת דַּל (tsa'aqat dal)
-“Cry of the poor.” The appeal God hears.
-
-v37: פֶּשַׁע (pesha)
-“Rebellion” or “transgression.” Elihu accuses Job of adding rebellion through his speech.
+v30: Snare
+An image for the harm a godless ruler brings upon a people.

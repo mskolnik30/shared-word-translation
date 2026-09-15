@@ -4,106 +4,54 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-1-24-biblical-fluency-2026-09-15
 ---
 
----
-book: Psalms
-testament: OT
-chapter: 20
-translation: TSW
----
+## May the LORD answer you
 
-## Trust in the Name of the LORD
 <p>
-v01: May the LORD answer you in the day of trouble!
-May the name of the God of Jacob protect you!
+v01: For the director. A psalm of David.
+May the LORD answer you on a day of distress;
+may the name of Jacob’s God set you securely on high.
 v02: May he send you help from the sanctuary
-and give you support from Zion!
-</p>
-
-<p>
+and sustain you from Zion.
 v03: May he remember all your offerings
-and regard with favor your burnt sacrifices! Selah.
+and accept your burnt offering. Selah.
+v04: May he give you your heart’s desire
+and fulfill all your plans.
+v05: May we shout for joy at your victory
+and raise our banners in the name of our God.
+May the LORD fulfill all your requests.
 </p>
 
-<p>
-v04: May he grant you your heart’s desire
-and fulfill all your plans!
-v05: May we shout for joy over your salvation,
-and in the name of our God set up our banners!
-May the LORD fulfill all your petitions!
-</p>
-
-## Confidence in Victory
 <p>
 v06: Now I know that the LORD saves his anointed;
-he will answer him from his holy heaven
+he will answer him from his holy heavens
 with the saving might of his right hand.
+v07: Some look to chariots, others to horses;
+we call on the name of the LORD our God.
+v08: They bow down and fall;
+we rise and stand firm.
 </p>
 
 <p>
-v07: Some trust in chariots and some in horses,
-but we trust in the name of the LORD our God.
-v08: They collapse and fall,
-but we rise and stand upright.
-</p>
-
-## Final Appeal
-<p>
-v09: O LORD, save the king!
-May he answer us when we call.
+v09: LORD, save!
+May the King answer us when we call.
 </p>
 
 ## Notes
 
-v01–05: The psalm is communal intercession for a leader (likely the king).
+v01–05: The prayer addresses one person, understood from the following verses as the king.
 
-v03: Worship (offerings) is connected to divine remembrance.
-
-v04–05: Desire and plans are framed within dependence on God.
-
-v06: Confidence shifts from petition to assurance.
-
-v07: Central contrast—human military strength vs. divine reliance.
-
-v08: Outcomes reflect the object of trust.
-
-v09: Closing plea reinforces dependence on divine response.
+v09: The Hebrew accents place a strong pause after “save.” Another familiar reading is “LORD, save the king; answer us when we call.”
 
 ## Vocabulary
 
-v01: עָנָה (anah)
-“To answer.” Respond.
+v03: Burnt offering
+An offering consumed on the altar.
 
-v01: שֵׁם (shem)
-“Name.” Authority and identity.
-
-v02: עֵזֶר (‘ezer)
-“Help.” Aid.
-
-v02: סָעַד (sa‘ad)
-“To support.” Sustain.
-
-v03: זָכַר (zakhar)
-“To remember.” Act on memory.
-
-v03: דָּשֵׁן (dashen)
-“To regard favorably.” Accept offering.
-
-v05: מִשְׁאָלָה (mish’alah)
-“Desire.” Request.
-
-v05: רָנַן (ranan)
-“To shout for joy.” Celebrate.
-
-v06: יָשַׁע (yasha)
-“To save.” Deliver.
-
-v07: בָּטַח (batach)
-“To trust.” Rely upon.
-
-v08: קוּם (qum)
-“To rise.” Stand.
-
-v09: מֶלֶךְ (melekh)
-“King.” Ruler.
+v06: Anointed
+The king consecrated for his role.

@@ -4,149 +4,87 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-1-24-biblical-fluency-2026-09-15
 ---
 
-## I Will Give Thanks to the LORD
+## The LORD remembers the afflicted
+
 <p>
-v01: I will give thanks to the LORD with my whole heart;
-I will recount all your wondrous deeds.
-v02: I will be glad and exult in you;
-I will sing praise to your name, O Most High.
+v01: For the director. According to Muth-labben. A psalm of David.
+I will thank the LORD with my whole heart;
+I will recount all your wonders.
+v02: I will rejoice and exult in you;
+I will sing to your name, Most High.
 </p>
 
-## God’s Justice Displayed
 <p>
 v03: When my enemies turn back,
 they stumble and perish before you.
-v04: For you have maintained my just cause;
-you have sat on the throne, giving righteous judgment.
+v04: For you have upheld my cause and my right;
+you sat on the throne, judging justly.
+v05: You rebuked nations and destroyed the wicked;
+you erased their name forever and ever.
+v06: The enemy is finished, a ruin forever.
+You uprooted their cities;
+even their memory has perished.
 </p>
 
 <p>
-v05: You have rebuked the nations;
-you have made the wicked perish;
-you have blotted out their name forever and ever.
-v06: The enemy came to an end in everlasting ruins;
-their cities you rooted out;
-the very memory of them has perished.
-</p>
-
-## The LORD as Righteous Judge
-<p>
-v07: But the LORD sits enthroned forever;
-he has established his throne for justice,
-v08: and he judges the world with righteousness;
-he judges the peoples with uprightness.
+v07: But the LORD is enthroned forever;
+he has established his throne for judgment.
+v08: He judges the world in righteousness
+and renders judgment on peoples with equity.
+v09: The LORD is a stronghold for the crushed,
+a stronghold in times of distress.
+v10: Those who know your name trust in you,
+for you have not abandoned those who seek you, LORD.
 </p>
 
 <p>
-v09: The LORD is a stronghold for the oppressed,
-a stronghold in times of trouble.
-v10: And people who know your name put their trust in you,
-for you, O LORD, have not forsaken people who seek you.
-</p>
-
-## Call to Praise and Testimony
-<p>
-v11: Sing praises to the LORD, who sits enthroned in Zion!
-Tell among the peoples his deeds!
-v12: For he who avenges blood is mindful of them;
+v11: Sing to the LORD, enthroned in Zion;
+make his deeds known among the peoples.
+v12: For the one who calls bloodshed to account remembers them;
 he does not forget the cry of the afflicted.
-</p>
-
-## Prayer for Mercy
-<p>
-v13: Be gracious to me, O LORD!
-See my affliction from people who hate me,
-O you who lift me up from the gates of death,
-v14: that I may recount all your praises,
-that in the gates of the daughter of Zion
-I may rejoice in your salvation.
-</p>
-
-## The Downfall of the Wicked
-<p>
-v15: The nations have sunk in the pit that they made;
-in the net that they hid, their own foot has been caught.
-v16: The LORD has made himself known; he has executed judgment;
-the wicked are snared in the work of their own hands. Higgaion. Selah.
+v13: Be gracious to me, LORD!
+See what I suffer from those who hate me,
+you who lift me from death’s gates,
+v14: so I may recount all your praises
+at the gates of Daughter Zion
+and rejoice in your rescue.
 </p>
 
 <p>
-v17: The wicked will return to Sheol,
+v15: Nations have sunk into the pit they made;
+their feet are caught in the net they hid.
+v16: The LORD has made himself known by executing justice;
+the wicked are snared by the work of their own hands. Higgaion. Selah
+v17: Let the wicked return to Sheol,
 all the nations that forget God.
-v18: For the needy will not always be forgotten,
-and the hope of the poor will not perish forever.
+v18: For the needy will not be forgotten forever,
+nor the hope of the poor perish for all time.
 </p>
 
-## Final Appeal
 <p>
-v19: Arise, O LORD! Let not man prevail;
-let the nations be judged before you!
-v20: Put them in fear, O LORD;
-let the nations know that they are but human. Selah.
+v19: Rise, LORD! Do not let mortals prevail.
+Let nations be judged before you.
+v20: Strike them with fear, LORD;
+let the nations know they are only human. Selah
 </p>
 
 ## Notes
 
-v01–02: Praise is comprehensive—heart, memory, and proclamation.
+v01: Muth-labben is an uncertain musical direction or title.
 
-v03–06: Past victories are interpreted as acts of divine justice.
+v01–20: Psalms 9 and 10 share a partial alphabetic pattern in Hebrew. The English keeps their received division and does not force an artificial acrostic.
 
-v07–08: God’s reign is enduring and judicial—justice defines kingship.
+v16: Higgaion may concern meditation or a musical sound; its precise function with Selah is uncertain.
 
-v09–10: God is both refuge and relationally known (“those who know your name”).
-
-v11–12: Testimony extends outward; God remembers the afflicted.
-
-v13–14: Personal deliverance is tied to public praise.
-
-v15–16: The wicked are undone by their own schemes—justice is reflexive.
-
-v17–18: Judgment and hope coexist—wicked perish, needy endure.
-
-v19–20: Final appeal centers on human limitation before divine authority.
+v20: The draft understands the disputed term as fear; it has also been read as teacher.
 
 ## Vocabulary
 
-v01: יָדָה (yadah)
-“To give thanks.” Praise.
-
-v01: סָפַר (saphar)
-“To recount.” Tell in detail.
-
-v02: עָלַז (‘alaz)
-“To exult.” Rejoice greatly.
-
-v04: דִּין (din)
-“To judge.” Render justice.
-
-v05: מָחָה (machah)
-“To blot out.” Erase.
-
-v07: יָשַׁב (yashav)
-“To sit.” Be enthroned.
-
-v09: מִשְׂגָּב (misgav)
-“Stronghold.” High refuge.
-
-v10: בָּטַח (batach)
-“To trust.” Rely upon.
-
-v12: דָּרַשׁ (darash)
-“To seek.” Investigate or require.
-
-v15: טָבַע (tava‘)
-“To sink.” Go down.
-
-v16: נוֹקֵשׁ (noqesh)
-“To be snared.” Trapped.
-
-v17: שְׁאוֹל (sheol)
-“Grave.” Realm of the dead.
-
-v18: אֶבְיוֹן (evyon)
-“Needy.” Poor.
-
-v20: אֱנוֹשׁ (‘enosh)
-“Human.” Mortal person.
+v12: Seeks an account for blood
+An image of holding bloodshed accountable.

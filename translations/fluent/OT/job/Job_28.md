@@ -4,144 +4,100 @@ testament: OT
 chapter: 28
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-27-42-biblical-fluency-2026-09-15
 ---
 
-## There Is a Mine for Silver
+## The hidden places of the earth
 
 <p>
-v01: “Surely there is a mine for silver
+v01: There is a place where silver is mined,
 and a place where gold is refined.
-
-v02: Iron is taken from the dust,
+v02: Iron is taken from the earth,
 and copper is smelted from stone.
-
-v03: A human puts an end to darkness
-and searches to the farthest limit
-for stone in gloom and death-shadow.
-
-v04: He opens a shaft far from where people dwell,
-forgotten by the foot;
-they hang and swing far from humanity.
-
-v05: As for the earth, from it comes bread,
-but underneath it is overturned as by fire.
-
-v06: Its stones are the place of sapphire,
+v03: People put an end to darkness;
+they search to the farthest depths
+for stone in gloom and deep shadow.
+v04: They cut a shaft far from inhabited places;
+forgotten by passing feet,
+they hang and sway far from other people.
+v05: The earth brings forth bread,
+but beneath it things are overturned as by fire.
+v06: Its stones hold lapis lazuli,
 and its dust contains gold.
-</p>
-
-## Humanity Searches Hidden Things
-
-<p>
-v07: A path no bird of prey knows,
-and the falcon’s eye has not seen it.
-
+v07: No bird of prey knows that path;
+the falcon’s eye has never seen it.
 v08: Proud beasts have not trodden it;
-the lion has not passed over it.
-
-v09: A human puts his hand to the flint;
-he overturns mountains by the roots.
-
-v10: He cuts channels through the rocks,
-and his eye sees every precious thing.
-
-v11: He binds the streams from weeping,
-and brings hidden things to light.
+no lion has passed over it.
+v09: People lay hands on flint
+and overturn mountains at their roots.
+v10: They cut channels through the rocks;
+their eyes discover every precious thing.
+v11: They stop up streams at their sources
+and bring hidden things into the light.
 </p>
 
-## But Where Can Wisdom Be Found?
+## Where can wisdom be found?
 
 <p>
-v12: But wisdom—where can it be found?
-And where is the place of understanding?
-
-v13: A human does not know its value,
-and it is not found in the land of the living.
-
-v14: The deep says, ‘It is not in me,’
-and the sea says, ‘It is not with me.’
-
-v15: Fine gold cannot be given for it,
-and silver cannot be weighed as its price.
-
-v16: It cannot be weighed against gold of Ophir,
-against precious onyx or sapphire.
-
-v17: Gold and glass cannot equal it,
-nor can it be exchanged for a vessel of refined gold.
-
-v18: Coral and crystal need not be mentioned;
-the acquisition of wisdom is above pearls.
-
-v19: The topaz of Cush cannot equal it;
-it cannot be weighed against pure gold.
+v12: But where can wisdom be found?
+Where is the home of understanding?
+v13: No mortal knows its worth;
+it cannot be found in the land of the living.
+v14: The deep says, ‘It is not in me.’
+The sea says, ‘It is not with me.’
+v15: Fine gold cannot be given in exchange for it,
+nor silver weighed out as its price.
+v16: It cannot be valued in gold from Ophir,
+in precious onyx or lapis lazuli.
+v17: Gold and glass cannot equal it;
+it cannot be exchanged for vessels of pure gold.
+v18: Coral and crystal are not worth mentioning;
+the price of wisdom is beyond pearls.
+v19: Topaz from Cush cannot equal it;
+it cannot be valued in pure gold.
 </p>
 
-## God Understands the Way to Wisdom
+## God knows its way
 
 <p>
-v20: From where then does wisdom come?
-And where is the place of understanding?
-
-v21: It is hidden from the eyes of every living thing
-and concealed from the birds of the heavens.
-
+v20: Where, then, does wisdom come from?
+Where is the home of understanding?
+v21: It is hidden from the eyes of every living thing,
+concealed even from the birds of the heavens.
 v22: Abaddon and Death say,
-‘With our ears we have heard a report of it.’
-
-v23: God understands the way to it,
-and he knows its place.
-
+‘We have heard only a report of it.’
+v23: God understands the way to it;
+he knows where it lives.
 v24: For he looks to the ends of the earth
-and sees everything under the heavens.
-
+and sees everything beneath the heavens.
 v25: When he gave weight to the wind
-and measured the waters by measure,
-
-v26: when he made a decree for the rain
+and measured out the waters,
+v26: when he set a rule for the rain
 and a path for the thunderbolt,
-
 v27: then he saw wisdom and declared it;
-he established it and also searched it out.
-
-v28: And he said to humanity:
-
-‘Look, the fear of the Lord—that is wisdom,
-and turning away from evil is understanding.’”
+he established it and searched it out.
+v28: And he said to humanity,
+‘Look: reverence for the Lord is wisdom,
+and turning from evil is understanding.’”
 </p>
 
 ## Notes
 
-v01–11: The poem begins with human technological ingenuity. People penetrate darkness, excavate mountains, redirect water, and uncover materials hidden from animals.
+v01–28: The chapter has no new speaker introduction. It can be read as part of Job’s discourse or as a reflective poem within the book. The draft does not add an attribution.
 
-v12: The contrast is not between knowledge and ignorance generally but between extraordinary human ability to find material treasure and inability to locate wisdom by the same methods.
+v04: The compressed mining description is difficult. The draft pictures miners hanging far from ordinary human paths.
 
-v13: The Hebrew term translated “value” can also mean price or proper estimate. Human beings do not possess even the measure by which wisdom could be priced.
+v06,16,18–19: Several mineral names have uncertain modern equivalents. Lapis lazuli, coral, crystal, pearls, and topaz are conventional approximations, not secure identifications.
 
-v15–19: The accumulation of precious materials emphasizes that wisdom is not a commodity available through sufficient wealth.
-
-v22: Even Death and Abaddon possess only a “report” of wisdom. The realm beyond ordinary human life does not itself contain the answer.
-
-v23–27: God knows wisdom because God knows and orders the whole creation. Wisdom is rooted in the Creator’s understanding of reality.
-
-v28: The poem concludes by translating cosmic wisdom into human vocation: fear of the Lord and turning from evil. The wording echoes the narrator’s description of Job in 1:1.
+v13: The pinned Hebrew says people do not know wisdom’s worth; another familiar rendering, “way,” represents a different reading.
 
 ## Vocabulary
 
-v01: מוֹצָא (motsa)
-“Mine,” “source,” or “place of extraction.” The location from which silver is brought out.
+v28: Lord
+Here the Hebrew title Adonai, distinguished from LORD for the divine name.
 
-v03: צַלְמָוֶת (tsalmavet)
-“Death-shadow” or “deep darkness.” The darkness penetrated by miners.
-
-v12: חָכְמָה (chokmah)
-“Wisdom.” The central object of the poem’s search.
-
-v13: עֵרֶךְ (erekh)
-“Value” or “price.” The worth of wisdom cannot be properly measured by humans.
-
-v22: אֲבַדּוֹן (Abaddon)
-“Destruction.” The realm of death that knows only a report of wisdom.
-
-v28: יִרְאַת אֲדֹנָי (yirat Adonai)
-“Fear of the Lord.” Reverent relation to God identified as human wisdom.
+v28: Wisdom
+The poem moves from searching hidden places to reverence for the Lord and turning from evil.

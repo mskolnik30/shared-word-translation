@@ -4,82 +4,51 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-1-24-biblical-fluency-2026-09-15
 ---
 
-## The Fool Says in His Heart
+## Who does what is good?
+
 <p>
-v01: The fool says in his heart, “There is no God.”
-They are corrupt, they do abominable deeds;
-there is none who does good.
+v01: For the director. Of David.
+The fool says in his heart, “There is no God.”
+They act corruptly and do abhorrent things;
+no one does good.
+v02: The LORD looks down from heaven on humanity
+to see whether anyone understands,
+whether anyone seeks God.
+v03: All have turned aside; together they have become corrupt.
+No one does good—not even one.
 </p>
 
 <p>
-v02: The LORD looks down from heaven on the children of humanity,
-to see if there are any who understand,
-who seek after God.
-</p>
-
-<p>
-v03: They have all turned aside; together they have become corrupt;
-there is none who does good,
-not even one.
-</p>
-
-## The Wicked Oppress the Righteous
-<p>
-v04: Have they no knowledge, all the evildoers
-who eat up my people as they eat bread
-and do not call upon the LORD?
-</p>
-
-<p>
-v05: There they are in great terror,
-for God is with the generation of the righteous.
-v06: You would shame the plans of the poor,
+v04: Do all these evildoers know nothing,
+devouring my people as they eat bread,
+never calling on the LORD?
+v05: There they are, terrified,
+for God is among the righteous generation.
+v06: You frustrate the poor person’s plans,
 but the LORD is his refuge.
 </p>
 
-## Hope for Restoration
 <p>
-v07: Oh, that salvation for Israel would come out of Zion!
-When the LORD restores the fortunes of his people,
-let Jacob rejoice, let Israel be glad.
+v07: If only Israel’s rescue would come from Zion!
+When the LORD restores his people’s fortunes,
+let Jacob rejoice and Israel be glad.
 </p>
 
 ## Notes
 
-v01: Denial of God is ethical, not merely intellectual.
+v01: Fool describes a morally reckless stance in this poem, not a measure of intellectual ability.
 
-v02–03: Universal corruption is observed from divine perspective.
+v04: “My people” introduces a voice whose speaker is not explicitly named.
 
-v04: Exploitation is normalized (“eat…as bread”).
-
-v05–06: God’s presence distinguishes the righteous despite oppression.
-
-v07: Final hope is communal restoration.
+v07: The final expression can concern restoring fortunes or bringing back captivity.
 
 ## Vocabulary
 
-v01: נָבָל (naval)
-“Fool.” Morally deficient.
-
-v01: שָׁחַת (shachat)
-“To corrupt.” Ruin.
-
-v02: שָׂכַל (sakal)
-“To understand.” Act wisely.
-
-v03: סוּר (sur)
-“To turn aside.” Deviate.
-
-v04: יָדַע (yada‘)
-“To know.” Recognize.
-
-v05: פַּחַד (pachad)
-“Terror.” Fear.
-
-v06: חָסָה (chasah)
-“To take refuge.” Seek shelter.
-
-v07: יְשׁוּעָה (yeshuah)
-“Salvation.” Deliverance.
+v02: Seek God
+To turn toward God in one’s conduct and understanding.

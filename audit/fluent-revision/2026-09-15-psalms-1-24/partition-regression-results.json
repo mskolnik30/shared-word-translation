@@ -1,0 +1,73 @@
+{
+  "status": "PASSED",
+  "valid_psalm_titles_and_split_record_accepted": true,
+  "malformed_cases": {
+    "undeclared_duplicate": {
+      "rejected": true,
+      "errors": [
+        "duplicate ledger reference without complete partitions: Ps 13:6",
+        "source partition gap, overlap, or order mismatch: Ps 13:6"
+      ]
+    },
+    "all_partitions_removed": {
+      "rejected": true,
+      "errors": [
+        "duplicate ledger reference without complete partitions: Ps 13:6"
+      ]
+    },
+    "overlapping_words": {
+      "rejected": true,
+      "errors": [
+        "source partition gap, overlap, or order mismatch: Ps 13:6"
+      ]
+    },
+    "missing_word": {
+      "rejected": true,
+      "errors": [
+        "source partition gap, overlap, or order mismatch: Ps 13:6"
+      ]
+    },
+    "out_of_range": {
+      "rejected": true,
+      "errors": [
+        "source partition gap, overlap, or order mismatch: Ps 13:6"
+      ]
+    },
+    "noninteger_range": {
+      "rejected": true,
+      "errors": [
+        "invalid source partition: Psalms 13:6",
+        "duplicate ledger reference without complete partitions: Ps 13:6",
+        "source partition gap, overlap, or order mismatch: Ps 13:6"
+      ]
+    },
+    "missing_explanation": {
+      "rejected": true,
+      "errors": [
+        "invalid source partition: Psalms 13:6",
+        "duplicate ledger reference without complete partitions: Ps 13:6",
+        "source partition gap, overlap, or order mismatch: Ps 13:6"
+      ]
+    },
+    "changed_original_hash": {
+      "rejected": true,
+      "errors": [
+        "source verse hash mismatch: Psalms 13:6"
+      ]
+    },
+    "missing_title_record": {
+      "rejected": true,
+      "errors": [
+        "ledger/source coverage differs"
+      ]
+    },
+    "title_hash_corrupted": {
+      "rejected": true,
+      "errors": [
+        "primary source missing from segments: Psalms 3:1",
+        "source segment hash mismatch: Psalms 3:1 / Ps 3:1"
+      ]
+    }
+  },
+  "scope": "Source binding validation only, not editorial review."
+}

@@ -2,461 +2,96 @@
   "book": "Job",
   "chapter": 28,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-job-27-42-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "6479d27235b909d76b1eaf5160d45855a1342113",
+    "path": "audit/exegetical-core/fluent-production/job/Job_28_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Job",
+    "book_verse_count": 1070,
+    "scope_chapters": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Job.xml",
-    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "28:1-28",
-      "decision": "Preserve the wisdom poem's voice and its contrast between human mining and wisdom known by God.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Job.xml",
     "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Job 28:1",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 1,
-            "source_ref": "Job 28:1",
-            "segment_mode": "whole",
-            "sha256": "a6191373b3a143f16d6333a79fdf30fb4036ec18736ecfc32862173c7f5b3165"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a6191373b3a143f16d6333a79fdf30fb4036ec18736ecfc32862173c7f5b3165"
-      },
-      "2": {
-        "source_ref": "Job 28:2",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 2,
-            "source_ref": "Job 28:2",
-            "segment_mode": "whole",
-            "sha256": "552ba7abc59f4dc44fc7a5a094d6c2af8a490a7ad75d715bb28f629cffb1c37e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "552ba7abc59f4dc44fc7a5a094d6c2af8a490a7ad75d715bb28f629cffb1c37e"
-      },
-      "3": {
-        "source_ref": "Job 28:3",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 3,
-            "source_ref": "Job 28:3",
-            "segment_mode": "whole",
-            "sha256": "1d158d458ee86a8eb46035f0629620b8a720a2722cc8873eaf97699b49b6d772"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1d158d458ee86a8eb46035f0629620b8a720a2722cc8873eaf97699b49b6d772"
-      },
-      "4": {
-        "source_ref": "Job 28:4",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 4,
-            "source_ref": "Job 28:4",
-            "segment_mode": "whole",
-            "sha256": "a9d8d77fa1bc61f0af68360bfb2668ce1e92e9b82319918da57f14280514149b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a9d8d77fa1bc61f0af68360bfb2668ce1e92e9b82319918da57f14280514149b"
-      },
-      "5": {
-        "source_ref": "Job 28:5",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 5,
-            "source_ref": "Job 28:5",
-            "segment_mode": "whole",
-            "sha256": "ef5e44fdb380b99cd3ccf84ac7b7bc3f68b57602d3675727fc1ef29b95b7740f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ef5e44fdb380b99cd3ccf84ac7b7bc3f68b57602d3675727fc1ef29b95b7740f"
-      },
-      "6": {
-        "source_ref": "Job 28:6",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 6,
-            "source_ref": "Job 28:6",
-            "segment_mode": "whole",
-            "sha256": "9bf85bdb89643413a66c564651ea96bb9bf18a9977a30aa25faebcccf5e6983e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9bf85bdb89643413a66c564651ea96bb9bf18a9977a30aa25faebcccf5e6983e"
-      },
-      "7": {
-        "source_ref": "Job 28:7",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 7,
-            "source_ref": "Job 28:7",
-            "segment_mode": "whole",
-            "sha256": "6217607d9754bd4dbdefac59027609aec70f12e19b75b0bc01ff13db6e55aa98"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6217607d9754bd4dbdefac59027609aec70f12e19b75b0bc01ff13db6e55aa98"
-      },
-      "8": {
-        "source_ref": "Job 28:8",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 8,
-            "source_ref": "Job 28:8",
-            "segment_mode": "whole",
-            "sha256": "4db70abb094c5e57133312413aa19fc2d8b929a678856bed05bf97baa47b361e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4db70abb094c5e57133312413aa19fc2d8b929a678856bed05bf97baa47b361e"
-      },
-      "9": {
-        "source_ref": "Job 28:9",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 9,
-            "source_ref": "Job 28:9",
-            "segment_mode": "whole",
-            "sha256": "f69aa05348709ee12dafa1d3e7ea434421ef8668b3c15fb4ca59b818dba4f820"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f69aa05348709ee12dafa1d3e7ea434421ef8668b3c15fb4ca59b818dba4f820"
-      },
-      "10": {
-        "source_ref": "Job 28:10",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 10,
-            "source_ref": "Job 28:10",
-            "segment_mode": "whole",
-            "sha256": "89fc8cc6b0fa7c5212063b3a3a7d6ce14494dab27e3822b6c0ec6201722722ad"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "89fc8cc6b0fa7c5212063b3a3a7d6ce14494dab27e3822b6c0ec6201722722ad"
-      },
-      "11": {
-        "source_ref": "Job 28:11",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 11,
-            "source_ref": "Job 28:11",
-            "segment_mode": "whole",
-            "sha256": "262ba7b58b6f419ea9ef9975b7d1c1d2ccc7d746fca49d01dbf993ddcc366699"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "262ba7b58b6f419ea9ef9975b7d1c1d2ccc7d746fca49d01dbf993ddcc366699"
-      },
-      "12": {
-        "source_ref": "Job 28:12",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 12,
-            "source_ref": "Job 28:12",
-            "segment_mode": "whole",
-            "sha256": "f95c245fd74e9e27a969aeffa1981201bf3bea5624a13bf1a3be6984c4c4f47e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f95c245fd74e9e27a969aeffa1981201bf3bea5624a13bf1a3be6984c4c4f47e"
-      },
-      "13": {
-        "source_ref": "Job 28:13",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 13,
-            "source_ref": "Job 28:13",
-            "segment_mode": "whole",
-            "sha256": "fbd07dad4617ca295da862f7d092ffda24652ddbf2f8519178d7797e17b4b5ca"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fbd07dad4617ca295da862f7d092ffda24652ddbf2f8519178d7797e17b4b5ca"
-      },
-      "14": {
-        "source_ref": "Job 28:14",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 14,
-            "source_ref": "Job 28:14",
-            "segment_mode": "whole",
-            "sha256": "17a9f83cb3980528d7718acbfa841a1d8abebde38c4e3bc1d30e0d4d1621bad8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "17a9f83cb3980528d7718acbfa841a1d8abebde38c4e3bc1d30e0d4d1621bad8"
-      },
-      "15": {
-        "source_ref": "Job 28:15",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 15,
-            "source_ref": "Job 28:15",
-            "segment_mode": "whole",
-            "sha256": "6d7f3d0d28e5a87ffba4567990b96ea8afa04ed0cae31b1378ec1cff4c9ffd23"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6d7f3d0d28e5a87ffba4567990b96ea8afa04ed0cae31b1378ec1cff4c9ffd23"
-      },
-      "16": {
-        "source_ref": "Job 28:16",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 16,
-            "source_ref": "Job 28:16",
-            "segment_mode": "whole",
-            "sha256": "17da0e3589f564cf03cee5747dd4e25d2340725c590c35d8e866d801649e92cb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "17da0e3589f564cf03cee5747dd4e25d2340725c590c35d8e866d801649e92cb"
-      },
-      "17": {
-        "source_ref": "Job 28:17",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 17,
-            "source_ref": "Job 28:17",
-            "segment_mode": "whole",
-            "sha256": "6d050e43ac0cbae7027b9e9c741de0213f49d98da8e32a01aaa5371fc0c5bca6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6d050e43ac0cbae7027b9e9c741de0213f49d98da8e32a01aaa5371fc0c5bca6"
-      },
-      "18": {
-        "source_ref": "Job 28:18",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 18,
-            "source_ref": "Job 28:18",
-            "segment_mode": "whole",
-            "sha256": "3f2411026a6dfe82b24e604076ec834116e29c5f40ca581343fbc34c69290d11"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3f2411026a6dfe82b24e604076ec834116e29c5f40ca581343fbc34c69290d11"
-      },
-      "19": {
-        "source_ref": "Job 28:19",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 19,
-            "source_ref": "Job 28:19",
-            "segment_mode": "whole",
-            "sha256": "197f9ba07cc56c9454556756cfe57db2477d888bec1bb9724bcfb2639a4c1382"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "197f9ba07cc56c9454556756cfe57db2477d888bec1bb9724bcfb2639a4c1382"
-      },
-      "20": {
-        "source_ref": "Job 28:20",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 20,
-            "source_ref": "Job 28:20",
-            "segment_mode": "whole",
-            "sha256": "113491a801483a32849fa1c40073b25d8776b69f2843666b4fce10763aeb369c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "113491a801483a32849fa1c40073b25d8776b69f2843666b4fce10763aeb369c"
-      },
-      "21": {
-        "source_ref": "Job 28:21",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 21,
-            "source_ref": "Job 28:21",
-            "segment_mode": "whole",
-            "sha256": "9c5e560e8611fb7e0e834e923afa73c13bf244205649681db0c579d79d2f5577"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9c5e560e8611fb7e0e834e923afa73c13bf244205649681db0c579d79d2f5577"
-      },
-      "22": {
-        "source_ref": "Job 28:22",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 22,
-            "source_ref": "Job 28:22",
-            "segment_mode": "whole",
-            "sha256": "95cf7a89caac3dd4fe10024284ac0c8de6c7f2d0e02f9cba923316c8107b90cb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "95cf7a89caac3dd4fe10024284ac0c8de6c7f2d0e02f9cba923316c8107b90cb"
-      },
-      "23": {
-        "source_ref": "Job 28:23",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 23,
-            "source_ref": "Job 28:23",
-            "segment_mode": "whole",
-            "sha256": "af99599df731aff7269170da8c493538bdb12534a70206cf7ce1354ace5fae00"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "af99599df731aff7269170da8c493538bdb12534a70206cf7ce1354ace5fae00"
-      },
-      "24": {
-        "source_ref": "Job 28:24",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 24,
-            "source_ref": "Job 28:24",
-            "segment_mode": "whole",
-            "sha256": "c380d5c640b37a5b459513491d17bfd299d9601e163eb5226b15604c130b8203"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c380d5c640b37a5b459513491d17bfd299d9601e163eb5226b15604c130b8203"
-      },
-      "25": {
-        "source_ref": "Job 28:25",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 25,
-            "source_ref": "Job 28:25",
-            "segment_mode": "whole",
-            "sha256": "79e18f476b8bb35995c4d272b48f876dfba5352d707dc070426063c4d68b0191"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "79e18f476b8bb35995c4d272b48f876dfba5352d707dc070426063c4d68b0191"
-      },
-      "26": {
-        "source_ref": "Job 28:26",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 26,
-            "source_ref": "Job 28:26",
-            "segment_mode": "whole",
-            "sha256": "9fafb33f2e3b8e7e6dbfd756c3aec305d3def420667dd344f628db11be201a80"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9fafb33f2e3b8e7e6dbfd756c3aec305d3def420667dd344f628db11be201a80"
-      },
-      "27": {
-        "source_ref": "Job 28:27",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 27,
-            "source_ref": "Job 28:27",
-            "segment_mode": "whole",
-            "sha256": "b7795e2bb5d94ff8ab115e2b9f7cf79a77f4c943b1e4910430717ac3b747d815"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b7795e2bb5d94ff8ab115e2b9f7cf79a77f4c943b1e4910430717ac3b747d815"
-      },
-      "28": {
-        "source_ref": "Job 28:28",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 28,
-            "source_ref": "Job 28:28",
-            "segment_mode": "whole",
-            "sha256": "c83407d6a22f36a93f0f722ef4ee96ee89d72b2b5ad355fae5cfaae4834f6ddc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c83407d6a22f36a93f0f722ef4ee96ee89d72b2b5ad355fae5cfaae4834f6ddc"
-      }
+    "sha256": "e2a79175f4bdb26c9cb3db72c26d04beaa713d1d530ea19c588e096598122d9f",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Job.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Public Job 41:1–8 binds Hebrew 40:25–32; public 41:9–34 binds Hebrew 41:1–26. Other selected labels match. All 458 original records bind once in this batch; earlier chapters 1–26 are unchanged."
+  },
+  "chapter_binding": {
+    "chapter": 28,
+    "verse_count": 28,
+    "path": "translations/fluent/OT/job/Job_28.md",
+    "before_sha256": "3d0fae30b2addfbd62cf093df2a499c75ce985c9f5e97de1ad59c852f08f8a14",
+    "after_sha256": "e9c2ce7abde9fb9ccdbcb91e913623091277e28ce73249348d52d63b95fdc74f",
+    "tsw_comparator_path": "books/OT/job/Job_28.md",
+    "tsw_comparator_sha256": "26997c6511a68f5cb62d7753d989194e39f4bc1794e9990c1aa547eb664c5405"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-job-27-42/job-verse-review.json",
+  "public_versification": "Public Job 41:1–8 binds Hebrew 40:25–32; public 41:9–34 binds Hebrew 41:1–26. Other selected labels match. All 458 original records bind once in this batch; earlier chapters 1–26 are unchanged.",
+  "key_decisions": [
+    {
+      "reference": "Job 28:4",
+      "decision": "Renders difficult mining scene with hanging workers intact.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Job 28:6",
+      "decision": "Uses conventional ancient blue-stone identification with uncertainty noted.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Job 28:13",
+      "decision": "Follows pinned worth, not substituted way.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Job 28:16",
+      "decision": "Retains place and distinct stones with qualified identification.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Job 28:18",
+      "decision": "Uses conventional uncertain material names, not modern certainty.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Job 28:19",
+      "decision": "Retains Cush and comparison’s repeated valuation language.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Job 28:28",
+      "decision": "Uses Lord for Adonai; retains wisdom’s paired conclusion.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/job/Job_28.md",
-    "blob_sha": "e3b07d3bf618b155034ba9eb3d5d9564613dde6c"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -2,215 +2,84 @@
   "book": "Psalms",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-1-24-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "6479d27235b909d76b1eaf5160d45855a1342113",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_002_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 2:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 1,
-            "source_ref": "Psalms 2:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "b8e03f45915d52be339cfcd834ee3030c206703a5b2ba206cc4189b7999f6392"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b8e03f45915d52be339cfcd834ee3030c206703a5b2ba206cc4189b7999f6392"
-      },
-      "2": {
-        "source_ref": "Psalms 2:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 2,
-            "source_ref": "Psalms 2:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "15fa6e0b8ae4752a40f3d52d74030373dbda62c99c7a9123b6873d36d0cf36f4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "15fa6e0b8ae4752a40f3d52d74030373dbda62c99c7a9123b6873d36d0cf36f4"
-      },
-      "3": {
-        "source_ref": "Psalms 2:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 3,
-            "source_ref": "Psalms 2:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "336c4bc5caaf526684d147904bc5da83c74b37701c86082db2f99e25a5c633d1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "336c4bc5caaf526684d147904bc5da83c74b37701c86082db2f99e25a5c633d1"
-      },
-      "4": {
-        "source_ref": "Psalms 2:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 4,
-            "source_ref": "Psalms 2:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a8db92aa8b07edca0253b557ed44a6e907fd8219dc51edf6d9cea52e7eeacfe0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a8db92aa8b07edca0253b557ed44a6e907fd8219dc51edf6d9cea52e7eeacfe0"
-      },
-      "5": {
-        "source_ref": "Psalms 2:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 5,
-            "source_ref": "Psalms 2:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "bc9e7209909e422231921414ad38da888a6aebdb75b4a06a866dd2867bc5a361"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bc9e7209909e422231921414ad38da888a6aebdb75b4a06a866dd2867bc5a361"
-      },
-      "6": {
-        "source_ref": "Psalms 2:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 6,
-            "source_ref": "Psalms 2:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "0df948f393f8cff704780f48fe594a5fe88b0d7b6f8cfb31ffaa2d9b45cbe376"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0df948f393f8cff704780f48fe594a5fe88b0d7b6f8cfb31ffaa2d9b45cbe376"
-      },
-      "7": {
-        "source_ref": "Psalms 2:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 7,
-            "source_ref": "Psalms 2:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "c9eb271339fa86556e82f5ed5c69beb8f12393b7aa1028ed06ae0d353f6f5a15"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c9eb271339fa86556e82f5ed5c69beb8f12393b7aa1028ed06ae0d353f6f5a15"
-      },
-      "8": {
-        "source_ref": "Psalms 2:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 8,
-            "source_ref": "Psalms 2:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "bd0bc14123dd95ac81c60f54d728bf85b2d4d3241b9e6eaa3d9d773a68dc5c62"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bd0bc14123dd95ac81c60f54d728bf85b2d4d3241b9e6eaa3d9d773a68dc5c62"
-      },
-      "9": {
-        "source_ref": "Psalms 2:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 9,
-            "source_ref": "Psalms 2:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a72a55192828452bc85d4e0dc5b874d9bc63379959c69fbee42718a37e9129c5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a72a55192828452bc85d4e0dc5b874d9bc63379959c69fbee42718a37e9129c5"
-      },
-      "10": {
-        "source_ref": "Psalms 2:10 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 10,
-            "source_ref": "Psalms 2:10 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "7797d6e0013e4e250c47a4aa21dea4305645c0b40f02b4a3e36da9c3f16dada1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7797d6e0013e4e250c47a4aa21dea4305645c0b40f02b4a3e36da9c3f16dada1"
-      },
-      "11": {
-        "source_ref": "Psalms 2:11 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 11,
-            "source_ref": "Psalms 2:11 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "62f57df8b9cb4fe754c06f4e89c2b51cda7a2ca2d20b08cddacc7af3ab9c7390"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "62f57df8b9cb4fe754c06f4e89c2b51cda7a2ca2d20b08cddacc7af3ab9c7390"
-      },
-      "12": {
-        "source_ref": "Psalms 2:12 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 12,
-            "source_ref": "Psalms 2:12 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "0d9b2965515a46c9b5aabfd9fc0ad99219df0bfc9310c92fd7c0a5741d942e5b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0d9b2965515a46c9b5aabfd9fc0ad99219df0bfc9310c92fd7c0a5741d942e5b"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Hebrew titles are translated inside public verse 1. Separate title records in Psalms 3–9, 12–13, and 18–22 bind jointly with Hebrew verse 2 to public verse 1; subsequent public labels are offset by one. Psalm 13 public verses 5 and 6 partition Hebrew 13:6 at direct-child word boundaries 1–6 and 7–11. Both retain the full original record hash and its numbering notes. Other labels match. All 325 original source records are covered; one is explicitly partitioned across two public verses."
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 12,
+    "path": "translations/fluent/OT/psalms/Psalm_002.md",
+    "before_sha256": "39c41c5b9e50066512f9f0e72a90bf5964c522dfc557a624d476d1664ef5ea5d",
+    "after_sha256": "aac9eb47c192fa3a8df0544d8608c195a66b9804b4920f7031cb7734085bb0f9",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_002.md",
+    "tsw_comparator_sha256": "2396f4e8266082aa0494d6b555895a528632458b70716be5aaac3815e18f7f58"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-psalms-1-24/psalms-verse-review.json",
+  "public_versification": "Hebrew titles are translated inside public verse 1. Separate title records in Psalms 3–9, 12–13, and 18–22 bind jointly with Hebrew verse 2 to public verse 1; subsequent public labels are offset by one. Psalm 13 public verses 5 and 6 partition Hebrew 13:6 at direct-child word boundaries 1–6 and 7–11. Both retain the full original record hash and its numbering notes. Other labels match. All 325 original source records are covered; one is explicitly partitioned across two public verses.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 2:7",
+      "decision": "Preserves royal speaker and begetting language.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 2:9",
+      "decision": "Follows pointed break reading and violent pottery image.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 2:12",
+      "decision": "Retains difficult kiss-son reading with alternatives in note.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_002.md",
-    "blob_sha": "c56a7338adafe7298e5928675b9a2fa38d7a77d3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

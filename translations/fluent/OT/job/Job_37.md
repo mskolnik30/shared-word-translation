@@ -4,141 +4,91 @@ testament: OT
 chapter: 37
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-27-42-biblical-fluency-2026-09-15
 ---
 
-## My Heart Trembles at This
+## Elihu: Listen to his thunder
 
 <p>
-v01: “At this also my heart trembles
+v01: At this my heart trembles
 and leaps from its place.
-
-v02: Listen carefully to the thunder of his voice
-and the rumbling that goes out from his mouth.
-
-v03: Under all the heavens he sends it,
-and his lightning to the edges of the earth.
-
-v04: After it a voice roars;
-he thunders with his majestic voice,
-and he does not hold back the flashes when his voice is heard.
-
+v02: Listen closely to the thunder of his voice,
+the rumbling that comes from his mouth.
+v03: He sends it beneath the whole sky,
+his lightning to the edges of the earth.
+v04: After it comes a roaring sound;
+he thunders with his majestic voice.
+He holds nothing back when his voice is heard.
 v05: God thunders wondrously with his voice;
-he does great things that we cannot know.
-</p>
-
-## He Says to the Snow, Fall on the Earth
-
-<p>
-v06: For he says to the snow, ‘Fall on the earth,’
-and to the rain shower,
-and to his mighty showers of rain.
-
-v07: He seals the hand of every human,
-so that all people may know his work.
-
-v08: Then the animal enters its lair
-and remains in its den.
-
-v09: From the chamber comes the storm,
+he does great things beyond our understanding.
+v06: He says to the snow, ‘Fall on the earth,’
+and likewise to the downpour, his mighty rain.
+v07: He seals every human hand,
+so that all those he made may know his work.
+v08: The wild animal enters its den
+and stays in its dwelling.
+v09: The storm comes from its chamber,
 and cold from the scattering winds.
-
-v10: By the breath of God ice is given,
-and the broad waters are frozen.
+v10: God’s breath gives ice,
+and the broad waters freeze solid.
+v11: He loads the clouds with moisture
+and scatters his lightning cloud.
+v12: They turn about under his direction,
+doing whatever he commands
+across the face of the inhabited earth.
+v13: Whether for punishment, for his land, or for faithful love,
+he makes it happen.
 </p>
 
-## The Clouds Turn According to His Guidance
+## Consider God’s wonders
 
 <p>
-v11: He loads the thick cloud with moisture;
-the cloud scatters his lightning.
-
-v12: It turns around and around by his guidance,
-to do all that he commands it
-on the face of the inhabited earth.
-
-v13: Whether for a rod,
-or for his land,
-or for steadfast love,
-he causes it to find its mark.
-</p>
-
-## Stop and Consider the Wonders of God
-
-<p>
-v14: Give ear to this, Job;
-stand still
-and consider the wonders of God.
-
-v15: Do you know how God appoints them
-and causes the lightning of his cloud to shine?
-
-v16: Do you know the balancing of the clouds,
+v14: Listen to this, Job.
+Stand still and consider God’s wonders.
+v15: Do you know how God directs them
+and makes his cloud’s lightning shine?
+v16: Do you know how the clouds hang in balance,
 the wonders of one complete in knowledge?
-
-v17: You whose garments are hot
-when the earth is still because of the south wind,
-
-v18: can you, with him, spread out the skies,
+v17: You whose clothes grow hot
+when the earth lies still under the south wind,
+v18: can you hammer out the skies with him,
 hard as a cast-metal mirror?
-</p>
-
-## Teach Us What We Should Say to Him
-
-<p>
-v19: Teach us what we should say to him;
+v19: Teach us what to say to him;
 we cannot arrange our case because of darkness.
-
-v20: Should it be told him that I would speak?
-If a man speaks, will he surely be swallowed up?
-
-v21: And now people cannot look at the light
-when it is bright in the skies,
-after the wind has passed and cleared them.
-
+v20: Should he be told that I want to speak?
+Would anyone ask to be swallowed up?
+v21: Now no one can look at the light
+when it shines bright in the skies
+after the wind has swept them clear.
 v22: From the north comes golden splendor;
-around God is awe-inspiring majesty.
-
-v23: The Almighty—we cannot find him;
-he is great in power,
-and in justice and abundant righteousness
-he does not afflict.
-
-v24: So people fear him;
-he does not regard any who are wise in their own heart.”
+around God is awesome majesty.
+v23: The Almighty—we cannot find him out.
+He is great in power;
+in justice and abundant righteousness he does not oppress.
+v24: That is why people revere him.
+He pays no regard to those wise in their own hearts.”
 </p>
 
 ## Notes
 
-v01–05: Elihu responds bodily to the storm: trembling and leaping heart. Thunder becomes “the voice” of God, bringing the divine speech closer.
+v07: The sealing of people’s hands can picture work being stopped so they recognize God’s work. The relation of the final words is uncertain.
 
-v06–10: Snow, rain, animal shelter, cold, and ice are all presented as responsive to divine command. Human labor pauses under weather people cannot control.
+v09: The second wind expression concerns scattering winds; a specific compass direction is not certain.
 
-v13: The storm may serve discipline, the needs of the land, or steadfast love. Elihu allows the same natural event to have different divine purposes rather than one simple interpretation.
+v13: The line names punishment, the land, and faithful love as possible purposes of the weather.
 
-v14: “stand still and consider” is Elihu’s final direct summons to Job before the LORD himself begins asking Job to consider creation.
+v18: The skies are pictured as hard like a cast metal mirror. The ancient image is retained.
 
-v18: The skies are compared with a polished metal mirror, reflecting an ancient visual image of the firm, gleaming heavens rather than a technical scientific statement.
+v20: The relation between speaking and being swallowed is difficult; Elihu warns about addressing God.
 
-v23: The final clause is textually difficult. TSW follows the sense that the Almighty does not violate justice by oppressive affliction, consistent with Elihu’s argument.
+v22: Gold coming from the north is an unresolved poetic image. The draft does not identify it as a particular modern weather phenomenon.
 
-v24: Elihu closes by contrasting fear of God with wisdom “in one’s own heart,” returning to the book’s concern with the limits of human self-certainty.
+v23: The last verb can mean not oppressing or, with another understanding, not answering.
 
 ## Vocabulary
 
-v02: רֹגֶז (rogez)
-“Rumbling,” “roar,” or “agitation.” Used of the sound of divine thunder.
-
-v06: שֶׁלֶג (sheleg)
-“Snow.” Snowfall is commanded by God.
-
-v10: קֶרַח (qerach)
-“Ice.” Produced by the breath of God in the poem.
-
-v12: תַּחְבֻּלָה (tachbulah)
-“Guidance” or “steering.” The clouds move according to divine direction.
-
-v13: חֶסֶד (ḥesed)
-“Steadfast love.” One possible purpose Elihu gives for God’s weather.
-
-v22: הוֹד (hod)
-“Splendor” or “majesty.” Awe-inspiring glory surrounding God.
+v16: Complete in knowledge
+Here the description concerns God, echoing Elihu’s claim in 36:4.

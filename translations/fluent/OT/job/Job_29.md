@@ -4,133 +4,97 @@ testament: OT
 chapter: 29
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-27-42-biblical-fluency-2026-09-15
 ---
 
-## If Only I Were as in Former Months
+## Job remembers former days
 
 <p>
-v01: Job again took up his discourse and said:
-
-v02: “If only I were as in former months,
-as in the days when God watched over me,
-
-v03: when his lamp shone upon my head
-and by his light I walked through darkness,
-
-v04: as I was in the days of my prime,
-when the counsel of God was over my tent,
-
-v05: when the Almighty was still with me,
-when my children were around me,
-
-v06: when my steps were washed with curds
-and the rock poured out streams of oil for me.
+v01: Job continued his discourse:
+v02: “If only I could return to the months gone by,
+to the days when God watched over me,
+v03: when his lamp shone above my head
+and by his light I walked through darkness!
+v04: If only I were as in my prime,
+when God’s friendship rested over my tent,
+v05: when the Almighty was still with me
+and my children were all around me,
+v06: when my steps were washed in curds
+and the rock poured out streams of oil for me!
 </p>
 
-## When I Went Out to the Gate
-
 <p>
-v07: When I went out to the gate of the city,
-when I prepared my seat in the square,
-
-v08: young men saw me and withdrew,
-and the aged rose and stood.
-
-v09: Princes restrained their words
-and placed a hand over their mouth.
-
-v10: The voice of nobles was hushed,
-and their tongue clung to the roof of their mouth.
-
-v11: For the ear that heard blessed me,
-and the eye that saw testified for me,
-
-v12: because I delivered the poor who cried out,
-and the fatherless who had no helper.
-
-v13: The blessing of the one about to perish came upon me,
-and I made the widow’s heart sing for joy.
+v07: When I went out to the city gate
+and took my seat in the square,
+v08: young men saw me and stepped aside;
+the aged rose and remained standing.
+v09: Officials stopped talking
+and put their hands over their mouths.
+v10: The voices of nobles fell silent;
+their tongues clung to the roofs of their mouths.
 </p>
 
-## I Put on Righteousness
+## I helped those who cried out
 
 <p>
-v14: I put on righteousness, and it clothed me;
-my justice was like a robe and a turban.
-
-v15: I was eyes to the blind
-and feet to the lame.
-
-v16: I was a father to the poor,
-and I investigated the case of one I did not know.
-
+v11: Those who heard me called me blessed;
+those who saw me spoke in my favor,
+v12: because I rescued the poor who cried for help
+and the orphan who had no helper.
+v13: The dying gave me their blessing;
+I made the widow’s heart sing for joy.
+v14: I clothed myself with righteousness, and it clothed me;
+justice was my robe and turban.
+v15: I was eyes for the blind
+and feet for the lame.
+v16: I was a father to the needy;
+I investigated the case of someone I did not know.
 v17: I broke the jaws of the unjust
-and plucked the prey from his teeth.
+and pulled their prey from their teeth.
 </p>
 
-## I Thought I Would Die in My Nest
-
 <p>
-v18: Then I said, ‘I will die in my nest,
-and multiply my days like the sand.
-
-v19: My root is open to the waters,
-and dew spends the night upon my branch.
-
-v20: My glory is fresh with me,
-and my bow is renewed in my hand.’
+v18: I thought, ‘I will die in my nest,
+my days as numerous as sand.
+v19: My roots will reach the water;
+dew will rest all night on my branches.
+v20: My honor will remain fresh,
+and the bow in my hand will regain its strength.’
 </p>
 
-## People Waited for My Counsel
+## People waited for my counsel
 
 <p>
-v21: People listened to me and waited;
-they were silent for my counsel.
-
-v22: After my word they did not speak again,
-and my speech dropped upon them.
-
-v23: They waited for me as for rain
-and opened their mouth for the spring rain.
-
-v24: I smiled upon them when they did not believe it,
-and they did not cast down the light of my face.
-
-v25: I chose their way and sat as chief;
-I lived like a king among his troops,
-like one who comforts mourners.”
+v21: People listened to me and waited,
+keeping silent for my counsel.
+v22: After I spoke, they said no more;
+my words fell gently on them.
+v23: They waited for me as for rain,
+opening their mouths for the spring showers.
+v24: I smiled at them when they lacked confidence;
+they did not cast down the light of my face.
+v25: I chose their course and sat as their head,
+living like a king among his troops,
+like one who comforts mourners.
 </p>
 
 ## Notes
 
-v02–06: Job remembers former blessing not merely as wealth but as divine protection, family presence, and a sense of intimate counsel with God.
+v04: The expression for Job’s prime literally speaks of his autumn days; “friendship” can also be confidential counsel.
 
-v07: The city gate was a place of legal judgment and communal leadership. Job’s seat there signifies public responsibility, not private prestige alone.
+v16: The case Job investigated may have belonged to a person he did not know, or may itself have been unfamiliar.
 
-v12–17: Job provides concrete evidence against Eliphaz’s accusations in chapter 22: he delivered the poor, defended the fatherless, encouraged widows, aided disabled people, and investigated unfamiliar cases.
+v18: The word rendered “sand” has also been understood as the phoenix, a bird associated with renewed life.
 
-v14: Righteousness and justice are pictured as clothing, not occasional actions. They characterize Job’s public identity.
-
-v18–20: Job expected his faithful life to continue into a secure old age. His former expectation resembles the outcome the friends insist righteousness should produce.
-
-v23: Counsel is compared to seasonal rain needed for life and harvest, showing how the community once valued Job’s words.
+v24: The relation between Job’s smile and the people’s confidence is difficult. The draft keeps both his reassuring smile and the light of his face.
 
 ## Vocabulary
 
-v03: נֵר (ner)
-“Lamp.” The light of divine care that Job remembers over his life.
+v14: Clothed in righteousness
+Job pictures just conduct as the clothing that identified him.
 
-v04: סוֹד (sod)
-“Counsel,” “intimate fellowship,” or “confidential circle.” Job remembers God’s counsel over his tent.
-
-v12: עָנִי (ani)
-“Poor” or “afflicted.” One Job says he delivered when they cried out.
-
-v14: צְדָקָה (tsedaqah)
-“Righteousness.” Right conduct pictured as Job’s clothing.
-
-v14: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Job’s public justice is compared to formal garments.
-
-v16: רִיב (riv)
-“Case” or “legal dispute.” Job investigated cases even for strangers.
+v20: Bow
+An image of renewed strength.

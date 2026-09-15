@@ -2,147 +2,84 @@
   "book": "Psalms",
   "chapter": 14,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-1-24-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "6479d27235b909d76b1eaf5160d45855a1342113",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_014_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 14:1 (Hebrew; before kjv marker) + Psalms 14:1 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 14,
-            "verse": 1,
-            "source_ref": "Psalms 14:1 (Hebrew; before kjv marker)",
-            "segment_mode": "before_kjv_marker",
-            "sha256": "2692c00a47f2223665d9631d155392ae767b7ded5f75f26cf03964757586617d"
-          },
-          {
-            "chapter": 14,
-            "verse": 1,
-            "source_ref": "Psalms 14:1 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "cb21c70aaf35e827c9d7f96baeeea2916751b13120a2283be7a3cb321a1bf3e5"
-          }
-        ],
-        "segment_mode": "before_kjv_marker+after_kjv_marker",
-        "sha256": "d1f89fded2005948f58722ec8cbc1628ead4623a9167b5aebb91fa2a1d41ffaa"
-      },
-      "2": {
-        "source_ref": "Psalms 14:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 14,
-            "verse": 2,
-            "source_ref": "Psalms 14:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e44caee0e16bbfcf672700b3978e1498d7db6d780a2a9b36e57488b08c98352d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e44caee0e16bbfcf672700b3978e1498d7db6d780a2a9b36e57488b08c98352d"
-      },
-      "3": {
-        "source_ref": "Psalms 14:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 14,
-            "verse": 3,
-            "source_ref": "Psalms 14:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "bbb080bd2047ee22a9a6a1d51ca9212dca494fc9b9390a7b8ea57dda15c7697b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bbb080bd2047ee22a9a6a1d51ca9212dca494fc9b9390a7b8ea57dda15c7697b"
-      },
-      "4": {
-        "source_ref": "Psalms 14:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 14,
-            "verse": 4,
-            "source_ref": "Psalms 14:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "941ad0635d3455317de4b01b970e035f5b7498fc67b2c0ccdf8bf2ea0ea8c442"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "941ad0635d3455317de4b01b970e035f5b7498fc67b2c0ccdf8bf2ea0ea8c442"
-      },
-      "5": {
-        "source_ref": "Psalms 14:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 14,
-            "verse": 5,
-            "source_ref": "Psalms 14:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e1f9123afa31786b56de290306c88aa324387dfc24866fc7214796610e8d3801"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e1f9123afa31786b56de290306c88aa324387dfc24866fc7214796610e8d3801"
-      },
-      "6": {
-        "source_ref": "Psalms 14:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 14,
-            "verse": 6,
-            "source_ref": "Psalms 14:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "fa49430e26d54bb44e69e4980eee212fc9ada518cc9eb40ede4faa9d3eb7f508"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fa49430e26d54bb44e69e4980eee212fc9ada518cc9eb40ede4faa9d3eb7f508"
-      },
-      "7": {
-        "source_ref": "Psalms 14:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 14,
-            "verse": 7,
-            "source_ref": "Psalms 14:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "fb49c7ca2e75603c947a38533bfbf754e5716c9e6146c748d3b7b2f76f5743c1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fb49c7ca2e75603c947a38533bfbf754e5716c9e6146c748d3b7b2f76f5743c1"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Hebrew titles are translated inside public verse 1. Separate title records in Psalms 3–9, 12–13, and 18–22 bind jointly with Hebrew verse 2 to public verse 1; subsequent public labels are offset by one. Psalm 13 public verses 5 and 6 partition Hebrew 13:6 at direct-child word boundaries 1–6 and 7–11. Both retain the full original record hash and its numbering notes. Other labels match. All 325 original source records are covered; one is explicitly partitioned across two public verses."
+  },
+  "chapter_binding": {
+    "chapter": 14,
+    "verse_count": 7,
+    "path": "translations/fluent/OT/psalms/Psalm_014.md",
+    "before_sha256": "b0af9a9498dbac59db92bc4670829c2566da939a564b7af3ec4400ad7e10b8a8",
+    "after_sha256": "3196b8178248fd65b7c914c1795b244110d2c3b9c36e6b591c5caa4ce0f00fdf",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_014.md",
+    "tsw_comparator_sha256": "6bb7b796fb5fd6bfaaa08f756aee763d63ed7140047d449783513782f7e1bd5e"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-psalms-1-24/psalms-verse-review.json",
+  "public_versification": "Hebrew titles are translated inside public verse 1. Separate title records in Psalms 3–9, 12–13, and 18–22 bind jointly with Hebrew verse 2 to public verse 1; subsequent public labels are offset by one. Psalm 13 public verses 5 and 6 partition Hebrew 13:6 at direct-child word boundaries 1–6 and 7–11. Both retain the full original record hash and its numbering notes. Other labels match. All 325 original source records are covered; one is explicitly partitioned across two public verses.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 14:1",
+      "decision": "Retains title, inner claim, and moral consequence.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 14:4",
+      "decision": "Keeps devouring image and unmarked my-people speaker.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 14:7",
+      "decision": "Preserves wish, restoration idiom, and paired people-names.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_014.md",
-    "blob_sha": "29eea1ba7923a45179321644da0d8b5fdee901cd"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

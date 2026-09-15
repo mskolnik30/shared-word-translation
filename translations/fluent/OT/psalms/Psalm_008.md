@@ -4,55 +4,56 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-1-24-biblical-fluency-2026-09-15
 ---
 
-## The Majesty of God and the Calling of Humanity
+## Your name in all the earth
 
 <p>
-v01: O LORD, our Lord,
-how majestic is your name in all the earth!
-You have set your glory above the heavens.
-
-v02: Out of the mouths of infants and nursing children
-you have established strength because of your foes,
+v01: For the director. According to the Gittith. A psalm of David.
+LORD, our Lord,
+how majestic is your name throughout the earth!
+You have set your splendor above the heavens.
+v02: From the mouths of children and nursing infants
+you have established strength against your foes,
 to silence the enemy and the avenger.
+</p>
 
-v03: When I look at your heavens, the work of your fingers,
-the moon and the stars that you have set in place,
+<p>
+v03: When I see your heavens, the work of your fingers,
+the moon and stars you have established,
+v04: what are mortals, that you remember them,
+human beings, that you attend to them?
+</p>
 
-v04: what are human beings that you are mindful of them,
-mortals that you care for them?
+<p>
+v05: You made them a little lower than God
+and crowned them with glory and splendor.
+v06: You gave them rule over the work of your hands;
+you placed everything beneath their feet:
+v07: all sheep and cattle,
+and the wild animals too,
+v08: the birds of the heavens and the fish of the sea,
+whatever travels the paths of the seas.
+</p>
 
-v05: Yet you have made them a little lower than the divine,
-and crowned them with glory and honor.
-
-v06: You have given them dominion over the works of your hands;
-you have put everything under their feet,
-
-v07: all sheep and oxen,
-and also the beasts of the field,
-
-v08: the birds of the air, and the fish of the sea,
-whatever passes along the paths of the seas.
-
-v09: O LORD, our Lord,
-how majestic is your name in all the earth!
+<p>
+v09: LORD, our Lord,
+how majestic is your name throughout the earth!
 </p>
 
 ## Notes
 
+v01: Gittith is an uncertain musical designation. The clause about placing glory above the heavens is grammatically difficult.
 
+v02: The pinned Hebrew says “strength”; “praise” belongs to another textual tradition used in a later quotation.
+
+v05: The Hebrew elohim can mean God or divine beings. The draft follows “God” while leaving the alternative visible here.
 
 ## Vocabulary
 
-v01: יְהוָה (YHWH)
-“LORD.” The divine name, represented in English by small-capital LORD.
-
-v01: אֲדֹנֵינוּ (adonēnu)
-“Our Lord.” A title of authority addressed to God.
-
-v01: כָּבוֹד (kavod)
-“Glory; weight, honor, visible significance that reflects God’s presence.”
-
-v05: כָּבוֹד (kavod)
-“Glory; bestowed dignity rather than inherent status.”
+v04: Humankind
+The paired expressions mortal and son of man describe human beings in their frailty.

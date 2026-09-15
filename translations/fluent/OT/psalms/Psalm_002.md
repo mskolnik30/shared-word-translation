@@ -4,103 +4,63 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-1-24-biblical-fluency-2026-09-15
 ---
 
-## The Nations Rage
+## The nations and the LORD’s anointed
+
 <p>
 v01: Why do the nations rage
-and the peoples plot in vain?
-v02: The kings of the earth set themselves,
-and the rulers take counsel together,
-against the LORD and against his anointed, saying,
+and the peoples plot emptiness?
+v02: The kings of the earth take their stand;
+rulers gather together
+against the LORD and his anointed one:
+v03: “Let us tear apart their bonds
+and throw their cords off us!”
 </p>
 
 <p>
-v03: “Let us burst their bonds apart
-and cast away their cords from us.”
-</p>
-
-## The LORD Responds
-<p>
-v04: He who sits in the heavens laughs;
+v04: The one enthroned in heaven laughs;
 the Lord holds them in derision.
-v05: Then he will speak to them in his wrath,
-and terrify them in his fury, saying,
+v05: Then he speaks to them in anger
+and terrifies them in his fury:
+v06: “I myself have installed my king
+on Zion, my holy mountain.”
 </p>
 
 <p>
-v06: “As for me, I have set my King
-on Zion, my holy hill.”
-</p>
-
-## The Decree of the LORD
-<p>
-v07: I will tell of the decree:
-The LORD said to me, “You are my Son;
+v07: I will declare the decree:
+the LORD said to me, “You are my son;
 today I have begotten you.
-v08: Ask of me, and I will make the nations your heritage,
-and the ends of the earth your possession.
+v08: Ask of me, and I will give you nations as your inheritance,
+the ends of the earth as your possession.
+v09: You will break them with an iron rod,
+shatter them like a potter’s vessel.”
 </p>
 
 <p>
-v09: You will break them with a rod of iron
-and dash them in pieces like a potter’s vessel.”
-</p>
-
-## A Call to Wisdom
-<p>
-v10: Now therefore, O kings, be wise;
-be warned, O rulers of the earth.
-v11: Serve the LORD with fear,
-and rejoice with trembling.
-</p>
-
-<p>
-v12: Kiss the Son,
-lest he be angry, and you perish in the way,
-for his wrath is quickly kindled.
-Blessed are everyone who take refuge in him.
+v10: Now, kings, be wise;
+rulers of the earth, accept correction.
+v11: Serve the LORD with reverence;
+rejoice with trembling.
+v12: Kiss the son, lest he grow angry
+and you perish on the way,
+for his anger can flare in a moment.
+Happy are all who take refuge in him.
 </p>
 
 ## Notes
 
-v01–03: Human resistance is collective and deliberate, yet described as futile.
+v07: The king reports a declaration of sonship. The psalm’s royal setting remains visible without adding a later doctrinal explanation.
 
-v04–06: Divine response is not reactive but sovereign—God has already established his king.
+v09: The pointed Hebrew reads “break”; a different vocalization can give “shepherd.”
 
-v07–09: The “son” language introduces royal identity tied to divine authority.
-
-v08: Dominion is universal, extending to the ends of the earth.
-
-v10–12: The psalm shifts to exhortation—political power is called to submission.
-
-v12: Refuge, not resistance, is the path to blessing.
+v12: “Kiss the son” takes bar as the Aramaic word for son. The line is difficult; readings involving purity or homage expressed differently have also been proposed. The one whose anger burns is not explicitly renamed.
 
 ## Vocabulary
 
-v01: רָגַשׁ (ragash)
-“To rage.” Be in tumult.
-
-v01: הָגָה (hagah)
-“To plot.” Meditate or scheme.
-
-v02: מָשִׁיחַ (mashiach)
-“Anointed.” One set apart.
-
-v04: שָׂחַק (sachaq)
-“To laugh.” Express derision.
-
-v06: נָסַךְ (nasakh)
-“To install.” Set in place.
-
-v07: יָלַד (yalad)
-“To beget.” Bring forth.
-
-v09: רָעַע (ra‘a)
-“To break.” Smash or shatter.
-
-v11: יָרֵא (yare)
-“To fear.” Reverence.
-
-v12: חָסָה (chasah)
-“To take refuge.” Seek protection.
+v02: Anointed
+Someone consecrated with oil; here the king.

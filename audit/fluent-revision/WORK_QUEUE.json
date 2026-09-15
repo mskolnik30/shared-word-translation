@@ -356,12 +356,22 @@
       "scope": "Job 1–26",
       "verses": 612,
       "ledger": "audit/fluent-revision/2026-09-15-job-1-26/job-verse-review.json"
+    },
+    {
+      "scope": "Job 27–42",
+      "verses": 458,
+      "ledger": "audit/fluent-revision/2026-09-15-job-27-42/job-verse-review.json"
+    },
+    {
+      "scope": "Psalms 1–24",
+      "verses": 312,
+      "ledger": "audit/fluent-revision/2026-09-15-psalms-1-24/psalms-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Job 27–42",
-      "action": "Continue independently from the verified pinned Hebrew; preserve the poetry, received speaker sequence, textual uncertainties, and the distinction between human arguments and divine speech."
+      "scope": "Psalms 25–64",
+      "action": "Continue a forty-chapter target where careful source work permits. Read every pinned source verse and title; preserve poetry, speaker changes, textual uncertainty and public/source versification."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -448,7 +458,7 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt requests thirty chapters where careful source work permits. This batch completes Esther 7–10 and Job 1–26: 30 chapters, 674 verses. Each source verse and its notes was read before independent drafting; TSW is a subsequent comparator. Independent editorial review remains pending.",
+  "batch_preference": "Matt requests forty chapters where careful source work permits. This batch completes Job 27–42 and Psalms 1–24: 40 chapters, 770 public verses, covering 783 original Hebrew records. Each source verse and its notes was read before independent drafting; TSW was read afterward as comparator. Independent editorial review remains pending.",
   "completed_authoring_consistency_reviews": [
     {
       "scope": "Esther 1–10",

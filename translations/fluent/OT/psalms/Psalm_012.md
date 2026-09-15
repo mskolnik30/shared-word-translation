@@ -4,99 +4,50 @@ testament: OT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-1-24-biblical-fluency-2026-09-15
 ---
 
-## The Faithful Have Vanished
-<p>
-v01: Save, O LORD, for the faithful have vanished;
-for the trustworthy have disappeared from among the children of humanity.
-v02: Everyone utters lies to his neighbor;
-with flattering lips and a double heart they speak.
-</p>
+## When faithful voices disappear
 
-## The LORD Will Cut Off Deceit
 <p>
-v03: May the LORD cut off all flattering lips,
-the tongue that makes great boasts,
-v04: people who say, “With our tongue we will prevail,
-our lips are with us; who is master over us?”
-</p>
-
-## The LORD’s Promise
-<p>
-v05: “Because the poor are plundered,
-because the needy groan,
-I will now arise,” says the LORD;
-“I will place him in the safety for which he longs.”
+v01: For the director. According to the Sheminith. A psalm of David.
+Save us, LORD! The faithful have vanished;
+the trustworthy have disappeared from humanity.
+v02: Everyone lies to a neighbor;
+they speak with smooth lips and a double heart.
+v03: May the LORD cut off every flattering lip,
+every tongue that boasts,
+v04: those who say, “With our tongues we will prevail;
+our lips are our own. Who can rule us?”
 </p>
 
 <p>
-v06: The words of the LORD are pure words,
-like silver refined in a furnace on the ground,
+v05: “Because the poor are plundered and the needy groan,
+I will now rise,” says the LORD.
+“I will bring to safety the one who longs for it.”
+v06: The LORD’s words are pure,
+like silver refined in an earthen furnace,
 purified seven times.
-</p>
-
-## Confidence in Preservation
-<p>
-v07: You, O LORD, will keep them;
-you will guard us from this generation forever.
-v08: On every side the wicked prowl,
-as vileness is exalted among the children of humanity.
+v07: You, LORD, will guard them;
+you will keep each one safe from this generation forever,
+v08: though the wicked prowl on every side
+when vileness is exalted among human beings.
 </p>
 
 ## Notes
 
-v01–02: Social breakdown is defined by the collapse of truth and trust.
+v01: Sheminith is an uncertain musical direction involving the eighth.
 
-v02: Speech reveals inner division (“double heart”).
+v05: The last phrase can describe one longing for safety or one being puffed at or scorned.
 
-v03–04: Human speech becomes an assertion of autonomy and power.
+v06: The furnace and earth expression is difficult; the refining of silver remains clear.
 
-v05: God’s response is triggered by injustice—he arises for the oppressed.
-
-v06: Divine speech contrasts human speech—pure, refined, reliable.
-
-v07: Preservation is both individual and communal.
-
-v08: The environment remains corrupt even after divine assurance—tension persists.
+v07: The Hebrew moves between plural “them” and singular “him.” The immediate concern is protection amid a corrupt generation; the grammar should not be made into an unqualified claim about manuscript transmission.
 
 ## Vocabulary
 
-v01: חָסִיד (chasid)
-“Faithful.” Loyal or devout.
-
-v01: אֱמוּן (emun)
-“Trustworthy.” Reliable.
-
-v02: חָלַק (chalaq)
-“To flatter.” Speak smoothly.
-
-v02: לֵב וָלֵב (lev va-lev)
-“Double heart.” Divided intention.
-
-v03: כָּרַת (karat)
-“To cut off.” Remove.
-
-v04: גָּבַר (gavar)
-“To prevail.” Overcome.
-
-v05: שֹׁד (shod)
-“Plunder.” Violent theft.
-
-v05: אֶבְיוֹן (evyon)
-“Needy.” Poor.
-
-v06: טָהוֹר (tahor)
-“Pure.” Clean.
-
-v06: צָרַף (tsaraph)
-“To refine.” Purify.
-
-v07: שָׁמַר (shamar)
-“To keep.” Guard.
-
-v08: רָשָׁע (rasha)
-“Wicked.” Evil-doer.
-
-v08: זֻלּוּת (zullut)
-“Vileness.” Worthlessness.
+v02: A double heart
+Literally, a heart and a heart: divided or deceptive intention.

@@ -4,89 +4,51 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-1-24-biblical-fluency-2026-09-15
 ---
 
-## O LORD, How Many Are My Foes
+## When enemies rise
+
 <p>
-v01: O LORD, how many are my foes!
-Many are rising against me;
-v02: many are saying of my soul,
-“There is no salvation for him in God.” Selah.
+v01: A psalm of David, when he fled from his son Absalom.
+LORD, how many are my foes!
+So many rise against me.
+v02: So many say of me,
+“There is no rescue for him in God.” Selah
 </p>
 
-## The LORD Is My Shield
 <p>
-v03: But you, O LORD, are a shield about me,
-my glory, and the lifter of my head.
-v04: I cried aloud to the LORD,
-and he answered me from his holy hill. Selah.
+v03: But you, LORD, are a shield around me,
+my glory, the one who lifts my head.
+v04: I cry aloud to the LORD,
+and he answers me from his holy mountain. Selah
 </p>
 
-## Rest and Confidence
 <p>
 v05: I lay down and slept;
-I woke again, for the LORD sustained me.
-v06: I will not be afraid of many thousands of people
-who have set themselves against me all around.
+I woke again, because the LORD sustained me.
+v06: I will not fear tens of thousands
+arrayed against me on every side.
 </p>
 
-## Arise, O LORD
 <p>
-v07: Arise, O LORD!
-Save me, O my God!
-For you strike all my enemies on the cheek;
+v07: Rise, LORD! Save me, my God!
+You strike all my enemies on the cheek;
 you break the teeth of the wicked.
-</p>
-
-<p>
-v08: Salvation belongs to the LORD;
-your blessing be upon your people! Selah.
+v08: Rescue belongs to the LORD.
+May your blessing rest on your people. Selah
 </p>
 
 ## Notes
 
-v01–02: Opposition is both external (“foes”) and internalized (“no salvation”).
+v01: The Hebrew title places the psalm during David’s flight from Absalom. It is translated before the poem inside public verse 1.
 
-v03: God is described relationally—shield, glory, and restorer of dignity.
-
-v04: Prayer connects distress to divine response.
-
-v05: Sleep becomes an act of trust, not vulnerability.
-
-v06: Confidence is not based on reduced threat but on divine presence.
-
-v07: Deliverance is expressed in vivid, physical imagery.
-
-v08: Salvation is claimed as belonging to the LORD, not the individual.
+v07: Striking the jaw and breaking teeth remain violent images of disabling enemies.
 
 ## Vocabulary
 
-v01: צָר (tsar)
-“Foe.” Adversary.
-
-v02: נֶפֶשׁ (nephesh)
-“Soul.” Life or self.
-
-v03: מָגֵן (magen)
-“Shield.” Protection.
-
-v03: כָּבוֹד (kavod)
-“Glory.” Honor or weight.
-
-v03: רוּם (rum)
-“To lift.” Raise up.
-
-v04: קָרָא (qara)
-“To cry out.” Call loudly.
-
-v05: יָשֵׁן (yashen)
-“To sleep.” Rest.
-
-v05: סָמַךְ (samak)
-“To sustain.” Support.
-
-v07: נָכָה (nakah)
-“To strike.” Hit or defeat.
-
-v08: יְשׁוּעָה (yeshuah)
-“Salvation.” Deliverance.
+v02: Selah
+An ancient performance or musical marker whose precise meaning is uncertain.

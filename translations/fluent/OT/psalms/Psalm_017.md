@@ -4,172 +4,74 @@ testament: OT
 chapter: 17
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-1-24-biblical-fluency-2026-09-15
 ---
 
-## A Prayer for Vindication
+## Hear a just appeal
 
 <p>
-v01: Hear a just cause, O LORD; attend to my cry;
-
-give ear to my prayer from lips free of deceit.
-
-v02: From your presence let my judgment come;
-
-let your eyes look what is right.
-</p>
-
-<p>
-v03: You have tried my heart, you have visited me by night;
-
-you have tested me, and you find nothing;
-
-I have purposed that my mouth will not transgress.
-
-v04: As for the works of man, by the word of your lips
-
-I have kept myself from the paths of the violent.
-
-v05: My steps have held fast to your tracks;
-
+v01: A prayer of David.
+Hear a just cause, LORD; attend to my cry.
+Listen to my prayer from lips without deceit.
+v02: Let my vindication come from you;
+let your eyes see what is right.
+v03: You have tested my heart, visited me by night,
+refined me and found nothing.
+I have resolved that my mouth will not transgress.
+v04: As for human deeds, by the word of your lips
+I have kept away from the paths of the violent.
+v05: My steps have held to your tracks;
 my feet have not slipped.
 </p>
 
 <p>
-v06: I call upon you, for you will answer me, O God;
-
-incline your ear to me; hear my words.
-
-v07: Show your steadfast love in wondrous ways,
-
-O Savior of people who take refuge
-
-from people who rise up against them at your right hand.
+v06: I call to you because you will answer me, God.
+Turn your ear toward me; hear what I say.
+v07: Show your wondrous faithful love,
+you who save by your right hand
+those who seek refuge from their attackers.
+v08: Guard me like the pupil of your eye;
+hide me in the shadow of your wings,
+v09: from the wicked who ravage me,
+from deadly enemies who surround me.
 </p>
 
 <p>
-v08: Keep me as the apple of the eye;
-
-hide me in the shadow of your wings
-
-v09: from the wicked who despoil me,
-
-my deadly enemies who surround me.
+v10: They close up their unfeeling hearts;
+their mouths speak arrogantly.
+v11: They have tracked us and now surround us;
+they fix their eyes on throwing us to the ground.
+v12: The enemy is like a lion eager to tear,
+a young lion crouching in hiding.
 </p>
 
 <p>
-v10: They close their hearts to pity;
-
-with their mouths they speak arrogantly.
-
-v11: They have now surrounded our steps;
-
-they set their eyes to cast us down to the ground.
-
-v12: He is like a lion eager to tear,
-
-as a young lion lurking in hiding places.
-</p>
-
-<p>
-v13: Arise, O LORD! Confront him, bring him low;
-
-deliver my soul from the wicked by your sword,
-
-v14: from men by your hand, O LORD,
-
-from men of the world whose portion is in this life.
-
-You fill their womb with treasure;
-
-they are satisfied with children,
-
-and they leave their abundance to their infants.
-</p>
-
-<p>
-v15: As for me, I will look your face in righteousness;
-
+v13: Rise, LORD! Confront him; bring him down.
+With your sword, rescue my life from the wicked.
+v14: With your hand, LORD, rescue me from mortals,
+from people of this world whose portion is in this life.
+You fill their bellies with your stored-up goods;
+their children have enough, and they leave the rest to their little ones.
+v15: But I will see your face in righteousness;
 when I awake, I will be satisfied with your likeness.
 </p>
 
 ## Notes
 
-v01–02: The appeal rests on integrity; “just cause” frames the prayer as a legal plea before God.
+v03: The final expression can describe a resolution about speech or a thought God does not find.
 
-v03: Testing imagery (trial, night visitation) presents examined character rather than claimed innocence.
+v10: Closing their fat is an image of hardened or unfeeling hearts.
 
-v04: “Word of your lips” functions as guard—divine speech shapes ethical restraint.
+v11: The draft follows the read “us”; the written form says “me.”
 
-v05: Stability language (held fast, not slipped) mirrors covenantal fidelity.
+v14: The description of worldly people, stored goods, children, and what is left over is difficult. It can picture their present abundance, or be heard as a wish that judgment reach them and their descendants.
 
-v07: “Steadfast love” (ḥesed) appears as active rescue; God’s right hand signals power and protection.
-
-v08: Dual imagery—eye and wings—combines intimacy and shelter.
-
-v10–12: The enemy is characterized by hardness, arrogance, and predatory intent; lion imagery intensifies threat.
-
-v13–14: Judgment is requested as divine intervention; contrast emerges between those satisfied in this life and the speaker.
-
-v15: Final hope is not material but relational—seeing God’s face and bearing likeness.
+v15: The awakening is not explicitly dated or identified as resurrection.
 
 ## Vocabulary
 
-v01: צֶדֶק (ṣedeq)
-
-“Righteousness/justice.” Conformity to right order.
-
-v01: רִנָּה (rinnāh)
-
-“Cry.” A ringing plea or shout.
-
-v02: מִשְׁפָּט (mišpāṭ)
-
-“Judgment.” Legal decision or vindication.
-
-v03: בָּחַן (bāḥan)
-
-“To test.” To examine for integrity.
-
-v03: פָּקַד (pāqaḏ)
-
-“To visit.” To attend, often for inspection.
-
-v04: פָּרִיץ (pārîṣ)
-
-“Violent.” One who breaks through or oppresses.
-
-v05: תָּמַךְ (tāmaḵ)
-
-“To hold fast.” To support, sustain.
-
-v07: חֶסֶד (ḥeseḏ)
-
-“Steadfast love.” Loyal, covenantal love.
-
-v08: אִישׁוֹן (ʾîšôn)
-
-“Pupil (of the eye).” Center of sight, object of care.
-
-v08: צֵל (ṣēl)
-
-“Shadow.” Protective covering.
-
-v10: חֵלֶב (ḥēleḇ)
-
-“Fat.” Here metaphor for insensibility, closed heart.
-
-v12: כְּפִיר (kĕp̄îr)
-
-“Young lion.” Symbol of aggressive strength.
-
-v13: קָדַם (qāḏam)
-
-“To confront.” To meet, oppose directly.
-
-v14: חֵלֶק (ḥēleq)
-
-“Portion.” Allotted share or inheritance.
-
-v15: תְּמוּנָה (tĕmûnāh)
-
-“Likeness.” Form, visible representation.
+v08: Pupil of your eye
+An image of something closely guarded.

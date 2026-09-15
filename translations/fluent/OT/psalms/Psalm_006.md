@@ -4,103 +4,52 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-1-24-biblical-fluency-2026-09-15
 ---
 
-## A Cry for Mercy
+## How long, LORD?
+
 <p>
-v01: O LORD, do not rebuke me in your anger,
-nor discipline me in your wrath.
-v02: Be gracious to me, O LORD, for I am weak;
-heal me, O LORD, for my bones are troubled.
+v01: For the director. With stringed instruments, according to the Sheminith. A psalm of David.
+LORD, do not rebuke me in your anger
+or correct me in your fury.
+v02: Be gracious to me, LORD, for I am wasting away.
+Heal me, LORD, for my bones are terrified.
+v03: My whole being is deeply terrified.
+And you, LORD—how long?
+v04: Turn back, LORD; rescue my life.
+Save me for the sake of your faithful love.
+v05: For in death no one remembers you;
+in Sheol, who gives you thanks?
 </p>
 
 <p>
-v03: My soul also is greatly troubled.
-But you, O LORD—how long?
+v06: I am worn out with groaning.
+Every night I flood my bed;
+my tears drench my couch.
+v07: My eyes waste away with grief;
+they grow old because of all my foes.
 </p>
 
-## Plea for Deliverance
 <p>
-v04: Turn, O LORD, deliver my life;
-save me for the sake of your steadfast love.
-v05: For in death there is no remembrance of you;
-in Sheol who will give you praise?
-</p>
-
-## Weariness and Grief
-<p>
-v06: I am weary with my groaning;
-every night I flood my bed with tears;
-I drench my couch with my weeping.
-v07: My eye wastes away because of grief;
-it grows weak because of all my foes.
-</p>
-
-## The LORD Has Heard
-<p>
-v08: Depart from me, all you workers of evil,
-for the LORD has heard the sound of my weeping.
+v08: Away from me, all who do wrong!
+The LORD has heard the sound of my weeping.
 v09: The LORD has heard my plea;
-the LORD accepts my prayer.
-</p>
-
-<p>
-v10: All my enemies will be ashamed and greatly troubled;
-they will turn back and be put to shame in a moment.
+the LORD receives my prayer.
+v10: All my enemies will be shamed and deeply terrified;
+they will turn back, suddenly put to shame.
 </p>
 
 ## Notes
 
-v01–02: The psalm distinguishes between discipline and destructive wrath.
+v01: Sheminith means something like “the eighth,” but its precise musical use is uncertain.
 
-v02–03: Physical and internal distress are intertwined (bones, soul).
-
-v03: The unresolved “how long?” marks the depth of suffering.
-
-v04–05: Appeal is grounded in God’s steadfast love, not worthiness.
-
-v05: Praise is tied to life—death is framed as silence.
-
-v06–07: Grief is expressed in embodied, repetitive imagery.
-
-v08–09: The turning point—confidence emerges through being heard.
-
-v10: Enemies’ reversal mirrors the psalmist’s earlier distress.
+v05: The speaker appeals to the absence of remembrance and praise in death. The lament is allowed its own voice without being rewritten into a complete teaching about the afterlife.
 
 ## Vocabulary
 
-v01: יָכַח (yakach)
-“To rebuke.” Correct or confront.
-
-v01: יָסַר (yasar)
-“To discipline.” Instruct through correction.
-
-v02: חָנַן (chanan)
-“To be gracious.” Show favor.
-
-v02: רָפָא (rapha)
-“To heal.” Restore.
-
-v03: בָּהַל (bahal)
-“To be troubled.” Terrified or disturbed.
-
-v04: שׁוּב (shuv)
-“To turn.” Return.
-
-v04: חָלַץ (chalats)
-“To deliver.” Rescue.
-
-v05: שְׁאוֹל (sheol)
-“Grave.” Realm of the dead.
-
-v06: יָגַע (yaga)
-“To be weary.” Exhausted.
-
-v08: פָּעַל (pa‘al)
-“To work.” Act or do.
-
-v09: תְּחִנָּה (techinnah)
-“Plea.” Supplication.
-
-v10: בּוֹשׁ (bosh)
-“To be ashamed.” Disgraced.
+v05: Sheol
+The realm of the dead.

@@ -4,93 +4,66 @@ testament: OT
 chapter: 42
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-27-42-biblical-fluency-2026-09-15
 ---
 
-## Job Answers the LORD
+## Job replies
 
 <p>
-v01: Then Job answered the LORD and said:
-
-v02: “I know that you can do everything
-and that no purpose of yours can be withheld.
-
-v03: ‘Who is this who hides counsel without knowledge?’
-So I declared what I did not understand,
-things too wonderful for me, which I did not know.
-
-v04: ‘Hear now, and I will speak;
-I will question you,
-and you make me know.’
-
-v05: By the hearing of the ear I had heard of you,
-but now my eye has seen you.
-
-v06: So I reject
-and relent concerning dust and ashes.”
+v01: Job answered the LORD:
+v02: “I know that you can do everything;
+no purpose of yours can be thwarted.
+v03: ‘Who is this who conceals counsel without knowledge?’
+I have spoken of things I did not understand,
+things too wonderful for me, beyond my knowing.
+v04: ‘Listen now, and I will speak;
+I will question you, and you must answer me.’
+v05: I had heard of you with my ears,
+but now my eyes have seen you.
+v06: So I take back what I said
+and relent in dust and ashes.”
 </p>
 
-## The LORD Rebukes the Friends
+## The LORD addresses the friends
 
 <p>
-v07: After the LORD had spoken these words to Job, the LORD said to Eliphaz the Temanite, “My anger burns against you and against your two friends, because you have not spoken concerning me what is right, as my servant Job has.
-v08: So now take for yourselves seven bulls and seven rams and go to my servant Job. Offer a burnt offering for yourselves, and my servant Job will pray for you. For I will accept his face, so that I do not deal with you according to your folly, because you have not spoken concerning me what is right, as my servant Job has.”
-v09: Then Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did as the LORD spoke to them, and the LORD accepted Job’s face.
+v07: After the LORD had spoken these words to Job, he said to Eliphaz the Temanite, “My anger burns against you and your two friends, because you have not spoken rightly about me as my servant Job has.
+v08: Now take seven bulls and seven rams, go to my servant Job, and offer a burnt offering for yourselves. My servant Job will pray for you. I will accept him and will not deal with you according to your folly, because you have not spoken rightly about me as my servant Job has.”
+v09: Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did as the LORD had told them, and the LORD accepted Job.
 </p>
 
-## The LORD Restores Job
+## Job’s later life
 
 <p>
-v10: The LORD restored the fortunes of Job when he prayed for his friends, and the LORD added to all that Job had, double.
-v11: Then all his brothers, all his sisters, and everyone who had known him before came to him and ate bread with him in his house. They showed him sympathy and comforted him concerning all the trouble that the LORD had brought upon him. Each gave him one piece of silver and one gold ring.
-
-v12: The LORD blessed the latter days of Job more than his beginning. He had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand female donkeys.
+v10: The LORD restored Job’s fortunes when he prayed for his friends. The LORD gave Job twice as much as he had before.
+v11: All his brothers and sisters and everyone who had known him before came and ate with him in his house. They shared his grief and comforted him for all the calamity the LORD had brought upon him. Each gave him one kesitah and one gold ring.
+v12: The LORD blessed Job’s later life more than his beginning. He had fourteen thousand sheep, six thousand camels, a thousand pairs of oxen, and a thousand female donkeys.
 v13: He also had seven sons and three daughters.
-v14: He called the name of the first Jemimah, the name of the second Keziah, and the name of the third Keren-Happuch.
-v15: In all the land no women were found as beautiful as Job’s daughters, and their father gave them an inheritance among their brothers.
-
-v16: After this Job lived one hundred forty years and saw his children and his children’s children, four generations.
+v14: He named the first daughter Jemimah, the second Keziah, and the third Keren-happuch.
+v15: Nowhere in the land were women found as beautiful as Job’s daughters. Their father gave them an inheritance alongside their brothers.
+v16: After this, Job lived 140 years and saw his children and their children to the fourth generation.
 v17: Then Job died, old and full of days.
 </p>
 
 ## Notes
 
-v03–04: Job quotes the LORD’s own questions back to God. His response acknowledges the limits of what he understood when speaking beyond his knowledge.
+v03–04: The quotation marks identify echoes of the LORD’s earlier questions. Verse 4 can also be read as Job’s own request to speak and learn.
 
-v06: The Hebrew is famously ambiguous. The verb *ma'as* can mean reject or despise but does not explicitly state what Job rejects; *nichamti* can mean repent, relent, or be comforted; and “dust and ashes” can mark mortality or mourning. TSW renders “I reject and relent concerning dust and ashes,” preserving the lack of an explicit object rather than adding “myself” or “my words.”
+v06: The Hebrew supplies no object such as “myself” after the first verb. It can mean reject or retract. The second verb can mean repent, relent, or be comforted; the final phrase can mean in dust and ashes or concerning dust and ashes. The draft gives one reading without claiming the alternatives are settled.
 
-v05: Job’s transformation is grounded in encounter: hearing has become seeing. The text does not say that God supplied the causal explanation Job repeatedly requested.
+v07–08: “About me” can also mean “to me.” The LORD contrasts Job with the three friends; Elihu is not named here.
 
-v07–08: The LORD explicitly says the three friends did not speak rightly concerning God “as my servant Job has.” This divine evaluation places a limit on reading the friends’ retribution theology as the book’s final answer.
+v11: The narrator explicitly describes the calamity as what the LORD brought upon Job. The value of a kesitah is unknown; the gold ring may be an ear or nose ornament.
 
-v08–09: Job becomes intercessor for the very friends who accused him. The LORD’s acceptance is expressed idiomatically as “accepting the face” of Job.
-
-v10: Restoration comes “when he prayed for his friends,” but the narrative does not present the new blessings as replacing the children who died or making the earlier suffering insignificant.
-
-v13: Job receives again seven sons and three daughters rather than double the number of children. The text treats children differently from livestock and possessions in the restoration count.
-
-v15: Job’s daughters receive inheritance “among their brothers,” an unusual and notable provision in the ancient setting.
-
-v17: “full of days” is a traditional expression for a life reaching mature completion. The book closes with Job’s mortality, not escape from human creatureliness.
+v15: The daughters receive an inheritance alongside their brothers, an expressly stated feature of the ending.
 
 ## Vocabulary
 
-v02: מְזִמָּה (mezimmah)
-“Purpose” or “plan.” Job acknowledges that God’s purpose cannot be withheld.
+v11: Kesitah
+An ancient unit of payment whose precise weight or value is uncertain.
 
-v03: פָּלָא (pala)
-“To be wonderful” or “beyond understanding.” Job spoke of matters too wonderful for him.
-
-v06: מָאַס (ma'as)
-“To reject” or “despise.” The object is not explicitly stated in the Hebrew.
-
-v06: נָחַם (nacham)
-“To relent,” “repent,” or “be comforted.” A key ambiguous verb in Job’s final response.
-
-v08: נָשָׂא פָנִים (nasa panim)
-“To accept the face” or “show favor.” The LORD accepts Job’s intercession.
-
-v10: שׁוּב שְׁבוּת (shuv shevut)
-“To restore the fortunes.” An idiom of reversal and restoration.
-
-v17: שְׂבַע יָמִים (seva yamim)
-“Full of days.” An expression for a completed and mature life.
+v17: Full of days
+An idiom for a life that has run its full course.

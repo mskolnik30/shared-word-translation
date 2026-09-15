@@ -4,155 +4,114 @@ testament: OT
 chapter: 30
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-27-42-biblical-fluency-2026-09-15
 ---
 
-## Now They Laugh at Me
+## Now they mock me
 
 <p>
-v01: “But now they laugh at me,
-men younger than I,
-whose fathers I would have refused
-to put with the dogs of my flock.
-
-v02: What use was the strength of their hands to me,
-when their vigor had perished?
-
-v03: Through want and hunger they were gaunt,
-gnawing the dry ground
-in darkness and desolation.
-
-v04: They plucked salt herbs among the bushes,
-and the roots of broom trees were their food.
-
+v01: But now men younger than I am laugh at me,
+men whose fathers I disdained
+to put even with the dogs of my flock.
+v02: What use was the strength of their hands to me?
+Their vigor had deserted them.
+v03: Gaunt from want and hunger,
+they gnawed the dry ground
+in the night of waste and desolation.
+v04: They gathered salt plants among the bushes;
+broom roots were their food.
 v05: They were driven out from the community;
-people shouted after them as after a thief.
-
-v06: They had to live in dreadful ravines,
-in holes of the earth and rocks.
-
-v07: Among the bushes they brayed;
-under nettles they huddled together.
-
-v08: Children of fools, even children without a name,
-they were whipped out of the land.
+people shouted at them as at a thief.
+v06: They had to live in the gullies,
+in holes in the earth and among rocks.
+v07: They brayed among the bushes
+and huddled beneath nettles.
+v08: Children of fools, children without a name,
+they were beaten out of the land.
 </p>
-
-## I Have Become Their Song
 
 <p>
 v09: And now I have become their song;
-I have become a byword to them.
-
-v10: They abhor me and keep far from me;
+I am a byword among them.
+v10: They loathe me and keep their distance;
 they do not hesitate to spit in my face.
-
 v11: Because God has loosened my bowstring and humbled me,
-they cast off restraint before me.
-
-v12: At my right hand a brood rises;
-they push away my feet
+they have thrown off restraint in my presence.
+v12: The rabble rises at my right hand;
+they push my feet aside
 and build their roads of destruction against me.
-
-v13: They tear up my path;
-they profit from my calamity,
-with no one to restrain them.
-
-v14: As through a wide breach they come;
-amid the ruin they roll upon me.
-
-v15: Terrors are turned upon me;
-they pursue my dignity like the wind,
-and my salvation passes away like a cloud.
+v13: They tear up my path
+and advance my ruin,
+with no one to help them.
+v14: They come through as through a wide breach;
+amid the wreckage they roll in.
+v15: Terrors turn upon me;
+my dignity is swept away like wind,
+and my deliverance passes like a cloud.
 </p>
 
-## My Soul Is Poured Out Within Me
+## My life drains away
 
 <p>
-v16: And now my soul is poured out within me;
-days of affliction seize me.
-
-v17: At night my bones are pierced within me,
-and my gnawing pains do not rest.
-
-v18: With great force my garment is disfigured;
+v16: Now my life pours out within me;
+days of affliction have taken hold of me.
+v17: Night pierces my bones;
+the pains that gnaw me never rest.
+v18: With great force my clothing is distorted;
 it binds me like the collar of my tunic.
-
-v19: He has thrown me into the mire,
-and I have become like dust and ashes.
-
-v20: I cry to you, but you do not answer me;
+v19: He has thrown me into the mud;
+I have become like dust and ashes.
+v20: I cry to you for help, but you do not answer;
 I stand, and you merely look at me.
-
 v21: You have turned cruel toward me;
-with the might of your hand you persecute me.
-
-v22: You lift me to the wind; you make me ride upon it,
-and you dissolve me in the storm.
-
-v23: For I know that you will bring me to death,
-to the house appointed for all living.
+you attack me with the strength of your hand.
+v22: You lift me onto the wind and make me ride it;
+you dissolve me in the storm.
+v23: I know you will bring me to death,
+to the house appointed for everyone alive.
 </p>
 
-## When I Hoped for Good, Evil Came
+## I hoped for good
 
 <p>
-v24: Yet does not one stretch out a hand from a ruin?
-In disaster, does one not cry out for help?
-
-v25: Did I not weep for the one whose day was hard?
-Was not my soul grieved for the poor?
-
-v26: But when I hoped for good, evil came;
+v24: Does not a ruined person stretch out a hand,
+crying for help in his disaster?
+v25: Did I not weep for those whose days were hard?
+Did my soul not grieve for the needy?
+v26: Yet when I hoped for good, evil came;
 when I waited for light, darkness came.
-
-v27: My inward parts churn and do not rest;
+v27: My insides seethe and never grow still;
 days of affliction confront me.
-
-v28: I walk darkened, but not by the sun;
+v28: I walk about darkened, though not by the sun;
 I rise in the assembly and cry for help.
-
-v29: I have become a brother to jackals
-and a companion to ostriches.
-
-v30: My skin turns black upon me,
-and my bones burn from heat.
-
-v31: My lyre has become mourning,
-and my pipe the voice of people who weep.”
+v29: I have become a brother to jackals,
+a companion to ostriches.
+v30: My skin blackens and peels from me;
+my bones burn with heat.
+v31: My lyre has turned to mourning,
+my pipe to the sound of weeping.
 </p>
 
 ## Notes
 
-v01–08: Job describes those who now mock him in harsh social terms. His speech reflects the status hierarchies and prejudices of his setting even as it emphasizes the extremity of his reversal.
+v01–08: Job describes socially excluded people with contempt. These are his words, not an endorsement by the narrator or translator.
 
-v09: Job has moved from honored counselor in chapter 29 to the subject of mocking songs. Social reversal is as central as bodily suffering.
+v03–04: The rare description can picture gnawing the dry ground or fleeing into desolation. Broom roots may be food or fuel.
 
-v11: The Hebrew subject can be read as singular or plural depending on textual decisions. TSW understands God as the one who has loosened Job’s bowstring, enabling others to abandon restraint.
+v11: The read form is “my bowstring”; the written form has “his.” God is understood as the one loosening it.
 
-v17–18: The Hebrew bodily and clothing imagery is difficult. The lines clearly portray constant nocturnal pain and constriction.
+v18: The clothing and collar image is obscure. Great force may distort Job’s clothing or bind him tightly like a garment.
 
-v20: Job’s complaint is not that God is absent in every sense; he experiences God as looking on without answering.
+v22: The final word is uncertain. “Storm” follows an interpretation of the written form; the read form is a word ordinarily associated with sound wisdom or resources.
 
-v21: Job directly addresses God as having “turned cruel.” The book permits this accusatory prayer to remain within Job’s speech.
+v24: The line can describe a ruined person reaching for help, or question striking someone already ruined.
 
-v25–26: Job contrasts his former compassion for sufferers with the good he expected and the calamity he received.
+v28: The darkness of Job’s appearance can concern mourning or a darkened body not caused by sunlight.
 
 ## Vocabulary
 
-v09: נְגִינָה (neginah)
-“Song” or “music.” Job has become the subject of ridicule.
-
-v15: נְדִיבָה (nedivah)
-“Dignity,” “nobility,” or “willingness.” Job’s social honor is chased away like wind.
-
-v16: שָׁפַךְ (shafakh)
-“To pour out.” Job’s life is pictured as emptied within him.
-
-v17: עָצֶם (etsem)
-“Bone.” Job’s pain penetrates even his bones.
-
-v21: אַכְזָר (akhzar)
-“Cruel” or “fierce.” Job’s shocking description of God’s treatment of him.
-
-v31: אֵבֶל (evel)
-“Mourning.” The sound that has replaced Job’s music.
+v29: Jackals and ostriches
+Their cries give Job images for his own lament.

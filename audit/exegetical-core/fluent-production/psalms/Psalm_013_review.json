@@ -2,138 +2,84 @@
   "book": "Psalms",
   "chapter": 13,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-1-24-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "6479d27235b909d76b1eaf5160d45855a1342113",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_013_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "13:5-6",
-      "decision": "Document the two public clauses split inside Hebrew Psalm 13:6.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 13:1 (Hebrew; whole) + Psalms 13:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 1,
-            "source_ref": "Psalms 13:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a3709c84ffbe89a8cf1295028ec66554f059ffa134059cebdeca8bbc4f60575b"
-          },
-          {
-            "chapter": 13,
-            "verse": 2,
-            "source_ref": "Psalms 13:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "c7126dc05b85e47f5e5a923479dcdee40dacbd96d97106af2787dba42eb37553"
-          }
-        ],
-        "segment_mode": "whole+after_kjv_marker",
-        "sha256": "ba62f379cce883a19b25ba22a9ab0c60892426ca60ef1c56f45baf403070120a"
-      },
-      "2": {
-        "source_ref": "Psalms 13:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 3,
-            "source_ref": "Psalms 13:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "a4dc585395cf853fdd5fa3475a61dbb4399672d90941aa89b56de6fd1c7b4ebc"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "a4dc585395cf853fdd5fa3475a61dbb4399672d90941aa89b56de6fd1c7b4ebc"
-      },
-      "3": {
-        "source_ref": "Psalms 13:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 4,
-            "source_ref": "Psalms 13:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "c0c2c80731405c2feb06c19276c9fee5d466b21320d7e268ced105e608e3db69"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "c0c2c80731405c2feb06c19276c9fee5d466b21320d7e268ced105e608e3db69"
-      },
-      "4": {
-        "source_ref": "Psalms 13:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 5,
-            "source_ref": "Psalms 13:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "de3e32c993bc86785dac07cec98c14d465fae290362474357ecb5fce7fd63642"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "de3e32c993bc86785dac07cec98c14d465fae290362474357ecb5fce7fd63642"
-      },
-      "5": {
-        "source_ref": "Psalms 13:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 6,
-            "source_ref": "Psalms 13:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "e5b8f612499ea3da4486c5053250b92d26de7d8ba1579762801b328b8257456a"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "e5b8f612499ea3da4486c5053250b92d26de7d8ba1579762801b328b8257456a"
-      },
-      "6": {
-        "source_ref": "Psalms 13:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 6,
-            "source_ref": "Psalms 13:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "b4861f15408d241b43a1f15f7e169c500c2e183a544fa5eba147eeebec9bcb07"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "b4861f15408d241b43a1f15f7e169c500c2e183a544fa5eba147eeebec9bcb07"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Hebrew titles are translated inside public verse 1. Separate title records in Psalms 3–9, 12–13, and 18–22 bind jointly with Hebrew verse 2 to public verse 1; subsequent public labels are offset by one. Psalm 13 public verses 5 and 6 partition Hebrew 13:6 at direct-child word boundaries 1–6 and 7–11. Both retain the full original record hash and its numbering notes. Other labels match. All 325 original source records are covered; one is explicitly partitioned across two public verses."
+  },
+  "chapter_binding": {
+    "chapter": 13,
+    "verse_count": 6,
+    "path": "translations/fluent/OT/psalms/Psalm_013.md",
+    "before_sha256": "d8547845d3219c3720c10b69047e875786e92489dd4de6c8cd74fa516844214c",
+    "after_sha256": "3d278f19e2f2a8bc8965a9f1fcd57db49dd131e840bdc9d642f874632c8fe757",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_013.md",
+    "tsw_comparator_sha256": "d710816c1ad108d26c90d1470d0cd5f991d14f222c54b81c4692f88e926a0474"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-psalms-1-24/psalms-verse-review.json",
+  "public_versification": "Hebrew titles are translated inside public verse 1. Separate title records in Psalms 3–9, 12–13, and 18–22 bind jointly with Hebrew verse 2 to public verse 1; subsequent public labels are offset by one. Psalm 13 public verses 5 and 6 partition Hebrew 13:6 at direct-child word boundaries 1–6 and 7–11. Both retain the full original record hash and its numbering notes. Other labels match. All 325 original source records are covered; one is explicitly partitioned across two public verses.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 13:1",
+      "decision": "Retains title and repeated open-ended complaint.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 13:5",
+      "decision": "Binds first clauses of Hebrew13:6 with exact full-record hash.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 13:6",
+      "decision": "Binds final clause of same original13:6, documenting split.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_013.md",
-    "blob_sha": "9ae4584cf6f10c78e6f0a778750f9ca1bab99bdc"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

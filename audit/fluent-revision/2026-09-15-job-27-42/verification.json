@@ -1,0 +1,615 @@
+{
+  "status": "PASSED",
+  "base_commit": "6479d27235b909d76b1eaf5160d45855a1342113",
+  "new_chapters": 40,
+  "new_verses": 770,
+  "cumulative_coverage": {
+    "ledgers": 73,
+    "chapters": 507,
+    "verses": 14359
+  },
+  "preservation": {
+    "prior_ledgers_byte_identical": 71,
+    "prior_chapters_byte_identical": 467,
+    "historical_provenance_preserved": true,
+    "tsw_unchanged": true
+  },
+  "cumulative_source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 108
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 11,
+      "verses": 299
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 14,
+      "verses": 394
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 103
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 133
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 155
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 169
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 134
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 146
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 100
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 53
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 74
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 210
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 118
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 98
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 145
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 93
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 50
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 122
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 80
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 55
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 149
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-16-17/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 50
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-18-20/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 94
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-21-22/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 57
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-23-25/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 3,
+      "verses": 122
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-leviticus-26-27/leviticus-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 80
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-1-2/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 88
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-3-4/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 100
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-5-6/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 58
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-7-8/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 115
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-11-numbers-9-10/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 59
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-11-12/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 2,
+      "verses": 51
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-13-18/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 214
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-19-24/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 182
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-25-30/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 193
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-numbers-31-36/numbers-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 228
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-1-6/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 219
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-7-12/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 161
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-13-18/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 134
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-19-26/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 179
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 266
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-1-8/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 8,
+      "verses": 186
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-9-17/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 9,
+      "verses": 256
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-joshua-18-24/joshua-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 216
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-judges-1-5/judges-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 145
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-judges-6-12/judges-verse-review.json",
+      "status": "PASSED",
+      "chapters": 7,
+      "verses": 230
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-judges-13-21/judges-verse-review.json",
+      "status": "PASSED",
+      "chapters": 9,
+      "verses": 243
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-ruth-1-4/ruth-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 85
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1samuel-1-16/1samuel-verse-review.json",
+      "status": "PASSED",
+      "chapters": 16,
+      "verses": 406
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1samuel-17-31/1samuel-verse-review.json",
+      "status": "PASSED",
+      "chapters": 15,
+      "verses": 404
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-2samuel-1-5/2samuel-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 135
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-2samuel-6-24/2samuel-verse-review.json",
+      "status": "PASSED",
+      "chapters": 19,
+      "verses": 560
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1kings-1/1kings-verse-review.json",
+      "status": "PASSED",
+      "chapters": 1,
+      "verses": 53
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1kings-2-21/1kings-verse-review.json",
+      "status": "PASSED",
+      "chapters": 20,
+      "verses": 710
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1kings-22/1kings-verse-review.json",
+      "status": "PASSED",
+      "chapters": 1,
+      "verses": 53
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-2kings-1-25/2kings-verse-review.json",
+      "status": "PASSED",
+      "chapters": 25,
+      "verses": 719
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-14-1chronicles-1-4/1chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 176
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-1chronicles-5-29/1chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 25,
+      "verses": 766
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-2chronicles-1-5/2chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 88
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-2chronicles-6-20/2chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 15,
+      "verses": 342
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-2chronicles-21-35/2chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 15,
+      "verses": 369
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-2chronicles-36/2chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 1,
+      "verses": 23
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-ezra-1-10/ezra-verse-review.json",
+      "status": "PASSED",
+      "chapters": 10,
+      "verses": 280
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-nehemiah-1-13/nehemiah-verse-review.json",
+      "status": "PASSED",
+      "chapters": 13,
+      "verses": 405
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-esther-1-6/esther-verse-review.json",
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 105
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-esther-7-10/esther-verse-review.json",
+      "status": "PASSED",
+      "chapters": 4,
+      "verses": 62
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-job-1-26/job-verse-review.json",
+      "status": "PASSED",
+      "chapters": 26,
+      "verses": 612
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-job-27-42/job-verse-review.json",
+      "status": "PASSED",
+      "chapters": 16,
+      "verses": 458
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-psalms-1-24/psalms-verse-review.json",
+      "status": "PASSED",
+      "chapters": 24,
+      "verses": 312
+    }
+  ],
+  "all_job_original_records_bound_once": 1070,
+  "selected_original_records": {
+    "job": 458,
+    "psalms": 325
+  },
+  "focused_authoring_reread": {
+    "job": 103,
+    "psalms": 93
+  },
+  "first_source_reading": {
+    "original_records": 783,
+    "all_source_annotations_read": true
+  },
+  "tsw_comparator_verses_read_after_drafting": 770,
+  "focused_assertions": {
+    "Job 30:13": [
+      "no one to help them"
+    ],
+    "Job 31:10": [
+      "my wife grind",
+      "other men bend over her"
+    ],
+    "Job 31:13": [
+      "male or female slave"
+    ],
+    "Job 32:2": [
+      "Elihu son of Barachel",
+      "Buzite",
+      "family of Ram"
+    ],
+    "Job 32:3": [
+      "condemned Job"
+    ],
+    "Job 33:19": [
+      "all his bones"
+    ],
+    "Job 33:28": [
+      "his life"
+    ],
+    "Job 36:14": [
+      "male shrine attendants"
+    ],
+    "Job 38:7": [
+      "sons of God"
+    ],
+    "Job 38:26": [
+      "land where no one lives"
+    ],
+    "Job 39:30": [
+      "gulp blood"
+    ],
+    "Job 40:4": [
+      "little account"
+    ],
+    "Job 42:6": [
+      "take back what I said",
+      "relent in dust and ashes"
+    ],
+    "Job 42:8": [
+      "seven bulls and seven rams"
+    ],
+    "Job 42:11": [
+      "calamity the LORD had brought",
+      "one kesitah",
+      "one gold ring"
+    ],
+    "Job 42:12": [
+      "fourteen thousand sheep",
+      "six thousand camels",
+      "thousand pairs of oxen",
+      "thousand female donkeys"
+    ],
+    "Job 42:13": [
+      "seven sons and three daughters"
+    ],
+    "Job 42:14": [
+      "Jemimah",
+      "Keziah",
+      "Keren-happuch"
+    ],
+    "Job 42:15": [
+      "inheritance alongside their brothers"
+    ],
+    "Job 42:16": [
+      "140 years",
+      "fourth generation"
+    ],
+    "Psalms 2:7": [
+      "begotten"
+    ],
+    "Psalms 3:1": [
+      "Absalom"
+    ],
+    "Psalms 5:5": [
+      "hate everyone who does wrong"
+    ],
+    "Psalms 8:2": [
+      "strength"
+    ],
+    "Psalms 8:5": [
+      "lower than God"
+    ],
+    "Psalms 11:6": [
+      "snares"
+    ],
+    "Psalms 13:1": [
+      "For the director"
+    ],
+    "Psalms 15:5": [
+      "lend money at interest"
+    ],
+    "Psalms 16:9": [
+      "my glory"
+    ],
+    "Psalms 18:1": [
+      "Saul"
+    ],
+    "Psalms 18:13": [
+      "hail and burning coals"
+    ],
+    "Psalms 19:4": [
+      "measuring line"
+    ],
+    "Psalms 20:9": [
+      "LORD, save!",
+      "the King"
+    ],
+    "Psalms 21:10": [
+      "their offspring"
+    ],
+    "Psalms 22:16": [
+      "Like a lion—my hands and feet!"
+    ],
+    "Psalms 22:21": [
+      "you have answered me!"
+    ],
+    "Psalms 23:6": [
+      "will return",
+      "pursue me"
+    ],
+    "Psalms 24:4": [
+      "my life"
+    ],
+    "Psalms 24:6": [
+      "Jacob"
+    ]
+  },
+  "speaker_boundaries_poetry_containment_and_public_source_mapping": "PASSED",
+  "partition_regression": {
+    "status": "PASSED",
+    "invalid_cases_rejected": 10
+  },
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "whole_book_job_consistency_review": "PENDING; forty selected chapters received source drafting and focused authoring checks. Earlier chapters 1–26 were not reread continuously in this batch.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

@@ -84,7 +84,40 @@ def audit(root, ledger, source_bytes):
                       f"source segment hash mismatch: {verse['reference']} / {ref}")
         else:
             references.append(verse['source_reference'])
-    check(len(references) == len(set(references)), 'duplicate ledger reference')
+    # A source record can span public verses (e.g. Hebrew Ps 13:6).
+    # Such a split must partition every direct-child word exactly once, in
+    # public order. Every part still binds the complete original XML record,
+    # including its notes; these ranges never replace the full-record hash.
+    partitions = {}
+    for verse in ledger['verses']:
+        if 'source_partition' in verse:
+            ref = verse['source_reference']
+            part = verse['source_partition']
+            valid = (source.get('format') == 'osis_xml'
+                     and 'source_segments' not in verse
+                     and isinstance(part, dict)
+                     and type(part.get('word_start')) is int
+                     and type(part.get('word_end')) is int
+                     and 1 <= part['word_start'] <= part['word_end']
+                     and isinstance(part.get('reason'), str)
+                     and bool(part['reason'].strip()))
+            check(valid, f"invalid source partition: {verse['reference']}")
+            if valid:
+                partitions.setdefault(ref, []).append(part)
+    counts = Counter(references)
+    for ref, count in counts.items():
+        if count > 1 or ref in partitions:
+            parts = partitions.get(ref, [])
+            check(count > 1 and len(parts) == count,
+                  f'duplicate ledger reference without complete partitions: {ref}')
+            if parts and ref in source_verses:
+                import xml.etree.ElementTree as ET
+                words = [e for e in ET.fromstring(source_verses[ref])
+                         if e.tag.split('}')[-1] == 'w']
+                positions = [i for p in parts
+                             for i in range(p['word_start'], p['word_end'] + 1)]
+                check(positions == list(range(1, len(words) + 1)),
+                      f'source partition gap, overlap, or order mismatch: {ref}')
     check(set(references) == set(source_verses), 'ledger/source coverage differs')
     check(ledger['publication_allowed'] is False, 'draft publication must remain blocked')
     check(ledger['status'] == 'REVIEW_PENDING', 'draft editorial status changed')

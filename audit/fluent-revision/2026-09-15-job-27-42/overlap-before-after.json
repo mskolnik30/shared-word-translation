@@ -1,0 +1,3225 @@
+{
+  "method": "NFKC/casefold words, punctuation ignored; SequenceMatcher autojunk=false; near threshold 0.90. Triage only, no quota, no proof of fidelity or independent authorship.",
+  "summary": {
+    "before": {
+      "verses": 458,
+      "identical_words": 438,
+      "near_identical": 18,
+      "mean_word_similarity": 0.997283
+    },
+    "after": {
+      "verses": 458,
+      "identical_words": 14,
+      "near_identical": 48,
+      "mean_word_similarity": 0.703775
+    }
+  },
+  "verses": [
+    {
+      "reference": "Job 27:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.4,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.514286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:15",
+      "before_similarity": 0.933333,
+      "after_similarity": 1.0,
+      "before_identical": false,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 27:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.88,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.428571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 27:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.55,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.88,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.24,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.384615,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.969697,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.944444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.88,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.965517,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 28:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.484848,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.72,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.285714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.2,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.344828,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.482759,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.296296,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 29:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.708333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.421053,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.684211,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.384615,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.918919,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.457143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.594595,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.914286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.956522,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 30:31",
+      "before_similarity": 0.928571,
+      "after_similarity": 0.592593,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.4,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.648649,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.457143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.682927,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.322581,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:24",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 31:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.723404,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:36",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:37",
+      "before_similarity": 1.0,
+      "after_similarity": 0.363636,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 31:40",
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.965517,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.684211,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:6",
+      "before_similarity": 0.966667,
+      "after_similarity": 0.631579,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.551724,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:10",
+      "before_similarity": 0.916667,
+      "after_similarity": 0.538462,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.486486,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:16",
+      "before_similarity": 0.941176,
+      "after_similarity": 0.75,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.4,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.307692,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 32:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.434783,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.551724,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.64,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.64,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.428571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:22",
+      "before_similarity": 0.933333,
+      "after_similarity": 0.857143,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.829268,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.731707,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.956522,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.611111,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:31",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 33:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 33:33",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 34:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.285714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:3",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 34:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.702703,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.454545,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:10",
+      "before_similarity": 0.954545,
+      "after_similarity": 0.564103,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.114286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:13",
+      "before_similarity": 0.928571,
+      "after_similarity": 0.551724,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:17",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 34:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.64,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.25,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:25",
+      "before_similarity": 0.933333,
+      "after_similarity": 0.785714,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.466667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.466667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.722222,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.619048,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:36",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 34:37",
+      "before_similarity": 1.0,
+      "after_similarity": 0.972973,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:5",
+      "before_similarity": 0.928571,
+      "after_similarity": 0.642857,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.486486,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.969697,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.611111,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.894737,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.829268,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 35:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.285714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.681818,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.384615,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.32,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.36,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.594595,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.7,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 36:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.952381,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.514286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.904762,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 37:24",
+      "before_similarity": 0.9375,
+      "after_similarity": 0.484848,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:2",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 38:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.416667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:11",
+      "before_similarity": 0.9375,
+      "after_similarity": 0.75,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:22",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 38:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:36",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 38:37",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:40",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 38:41",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.384615,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.214286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:15",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 39:16",
+      "before_similarity": 0.954545,
+      "after_similarity": 0.930233,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.482759,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 39:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:2",
+      "before_similarity": 0.947368,
+      "after_similarity": 0.647059,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:13",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 40:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:18",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 40:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.96,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.416667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 40:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.514286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:10",
+      "before_similarity": 0.888889,
+      "after_similarity": 0.606061,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.64,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.516129,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 41:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:2",
+      "before_similarity": 0.909091,
+      "after_similarity": 0.774194,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:3",
+      "before_similarity": 0.961538,
+      "after_similarity": 0.666667,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:6",
+      "before_similarity": 0.888889,
+      "after_similarity": 0.545455,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:8",
+      "before_similarity": 0.984127,
+      "after_similarity": 0.793103,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.84,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.622222,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:11",
+      "before_similarity": 0.981481,
+      "after_similarity": 0.76,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:13",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Job 42:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Job 42:17",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    }
+  ]
+}
