@@ -1,0 +1,28 @@
+{
+  "scope": "Psalms 25–64",
+  "chapters": 40,
+  "verses": 609,
+  "original_source_records": 642,
+  "method": "All selected pinned Hebrew records and their written/read and other annotations read before independent drafting. All TSW comparator verses read after drafting. All draft verse wording and apparatus inspected in authoring; 247 selected source/English comparisons reread. No synonym engine or overlap quota.",
+  "focused_reread_selection": "focused-selection.json",
+  "corrections_and_clarifications": [
+    "Psalm 40:5 now retains the separate no-one-compares-with-you clause.",
+    "Psalm 44:20 conditional or and line break corrected.",
+    "Psalm 50:18 reads ratzah as pleased participation, not running.",
+    "Psalm 51:19 retains both burnt offerings and whole offerings.",
+    "Psalm 61:2 retains height without an explicit inability-to-reach assertion.",
+    "Psalms 42:11 and 43:5 use matching saving-help wording with the face image explained in notes.",
+    "Music-leader titles and LORD of Armies are consistent within this batch.",
+    "Source titles, including Psalm 60 names and twelve thousand, retained inside public verse 1."
+  ],
+  "distinct_voice": "Connected clauses, direct speakers, audible stanzas and refrains, recurrent biblical vocabulary, and source-sensitive selective notes. Clear common wording remains where useful.",
+  "companion_impact": "Psalms 25–64 text quotations and chapter bindings must be reconciled before later installation. No Companion branch changed.",
+  "remaining_work": [
+    "Psalms 65–104 next draft target.",
+    "Whole-book Psalms reading and consistency pass after completion, including title terminology and divine-title house style across batches.",
+    "Earlier whole-book reviews remain queued unchanged.",
+    "Independent editorial review and reader testing."
+  ],
+  "independent_editorial_status": "REVIEW_PENDING",
+  "publication_allowed": false
+}

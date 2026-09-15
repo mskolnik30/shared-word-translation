@@ -4,93 +4,63 @@ testament: OT
 chapter: 30
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
-<p>
-A psalm. A song for the dedication of the house. Of David.
-</p>
+## From mourning to dancing
 
 <p>
-v01: I will exalt you, LORD,
-for you have drawn me up
-and have not made my enemies rejoice over me.
-v02: LORD my God,
-I cried out to you,
+v01: A psalm. A song for the dedication of the house. Of David.
+I will lift you high, LORD, for you drew me up
+and did not let my enemies rejoice over me.
+v02: LORD my God, I cried to you,
 and you healed me.
-v03: LORD, you brought up my life from Sheol;
-you kept me alive from going down to the Pit.
+v03: LORD, you brought my life up from Sheol;
+you kept me alive, saving me from going down to the pit.
 </p>
 
 <p>
-v04: Sing praises to the LORD, you faithful ones,
-and give thanks at the remembrance of his holiness.
-v05: For his anger is for a moment;
-his favor is for a lifetime.
-Weeping may lodge for the evening,
-but rejoicing comes in the morning.
+v04: Sing praise to the LORD, you faithful ones;
+give thanks at the remembrance of his holiness.
+v05: His anger lasts a moment; his favor brings a lifetime.
+Weeping may stay for the night,
+but a cry of joy comes with morning.
 </p>
 
 <p>
-v06: As for me, I said in my security,
+v06: When I was secure, I said,
 “I will never be shaken.”
-v07: LORD, by your favor
-you made my mountain stand strong.
-You hid your face;
-I was dismayed.
+v07: LORD, in your favor you made my mountain stand strong.
+You hid your face, and I was terrified.
 </p>
 
 <p>
 v08: To you, LORD, I called;
-to the Lord I pleaded for grace:
-v09: “What gain is there in my blood,
-in my going down to the Pit?
-Will dust give you thanks?
-Will it declare your faithfulness?
-v10: Hear, LORD, and be gracious to me;
-LORD, be my helper.”
+to the Lord I pleaded:
+v09: “What gain is there in my blood, in my going down to the pit?
+Will the dust thank you? Will it tell of your faithfulness?
+v10: Hear, LORD, and be gracious to me.
+LORD, be my help!”
 </p>
 
 <p>
-v11: You turned my mourning into dancing for me;
-you loosened my sackcloth
-and clothed me with joy,
-v12: so that glory may sing praise to you and not be silent.
-LORD my God,
-I will give thanks to you forever.
+v11: You turned my mourning into dancing;
+you loosened my sackcloth and clothed me with joy,
+v12: so my glory may sing to you and not be silent.
+LORD my God, I will thank you forever.
 </p>
 
 ## Notes
 
-v03: “Sheol” and “the Pit” evoke the realm of death and the grave. The speaker describes deliverance as restoration from the edge of death.
+v01,07: The title names a house’s dedication without identifying the house. “My mountain” is an unusual image of established strength; the Hebrew wording is retained.
 
-v05: The briefness of anger and the endurance of favor are set beside the movement from nighttime weeping to morning rejoicing. The verse does not deny suffering; it places it within a larger confession of restoring favor.
-
-v07: “My mountain” is an image of established security and strength. When God hides the divine face, that apparent stability is exposed as dependent on God’s favor.
-
-v09: The questions appeal to the loss of praise that death would bring. They express the psalmist’s urgent plea for life rather than offering a full account of life after death.
-
-v12: “Glory” may refer to the speaker’s honor, inner self, or whole being. The open wording allows the final praise to gather the psalmist’s restored life into thanksgiving.
+v03,05,12: Verse 3 follows the traditional reading “my going down”; the written form can refer to those going down. Favor in verse 5 brings life or lasts a lifetime. “My glory” in verse 12 is the speaker’s praising self.
 
 ## Vocabulary
 
-v04: **שְׁאוֹל — *she’ol***: Sheol is the realm of the dead, named here with “the Pit” to portray the speaker’s nearness to death and God’s rescue.
+v03: **Sheol**: The realm of the dead. Being brought up from it here celebrates rescue from threatened death.
 
-v05: **חָסִיד — *ḥasid***: “Faithful ones” names those bound to the LORD in covenant loyalty; they are summoned to join the individual’s thanksgiving.
-
-v06: **רָצוֹן — *ratson***: “Favor” denotes God’s goodwill or acceptance. In this verse it stands in deliberate contrast to divine anger.
-
-v08: **פָּנִים — *panim***: Literally “face,” God’s face expresses attentive, life-giving presence. Its concealment leaves the speaker dismayed.
-
-v12: **מָחוֹל — *maḥol***: “Dancing” is the embodied counterpart to mourning, expressing the reversal God has brought about.
-
-v03: שְׁאוֹל (she’ol)
-“Sheol; realm of the dead.” Here paired conceptually with the Pit and nearness to death.
-
-v04: חָסִיד (ḥasid)
-“Faithful ones” names those bound to the LORD in covenant loyalty; they are summoned to join the individual’s thanksgiving.
-
-v05: רָצוֹן (ratson)
-“Favor” denotes God’s goodwill or acceptance. In this verse it stands in deliberate contrast to divine anger.
-
-v07: פָּנִים (panim)
-“Face.” Its concealment leaves the speaker dismayed.
+v11: **Sackcloth**: Coarse cloth worn in grief or distress; exchanging it for joy gives mourning a bodily image.

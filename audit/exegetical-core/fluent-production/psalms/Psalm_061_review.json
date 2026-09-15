@@ -2,162 +2,110 @@
   "book": "Psalms",
   "chapter": 61,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-25-64-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "54011f97552535dcc5b37389cb2321966f7d9771",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_061_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 61:1 (Hebrew; whole) + Psalms 61:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 61,
-            "verse": 1,
-            "source_ref": "Psalms 61:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "3cf3999e6bc130b272a027962086ab44ee0af30f5f465df40f310403b9273e99"
-          },
-          {
-            "chapter": 61,
-            "verse": 2,
-            "source_ref": "Psalms 61:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "622df79808bdc320e6c0421add74e7637679318eac157fe49a2311ef90b4d4c1"
-          }
-        ],
-        "segment_mode": "whole+after_kjv_marker",
-        "sha256": "9f6641c0aca0054d4ee9b27ee7f0dc2234c0e93e6fade9ddcd6d89df9b8f69fa"
-      },
-      "2": {
-        "source_ref": "Psalms 61:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 61,
-            "verse": 3,
-            "source_ref": "Psalms 61:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "9ced7e6f9f18f9751a0624b6b3a40b699394af61dd25e5f5d530f12fc2641ef0"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "9ced7e6f9f18f9751a0624b6b3a40b699394af61dd25e5f5d530f12fc2641ef0"
-      },
-      "3": {
-        "source_ref": "Psalms 61:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 61,
-            "verse": 4,
-            "source_ref": "Psalms 61:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "4eb5e86456e84bb3218c75435366e8ea1c8b6548ff8ed72f4aff8230f76466fe"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "4eb5e86456e84bb3218c75435366e8ea1c8b6548ff8ed72f4aff8230f76466fe"
-      },
-      "4": {
-        "source_ref": "Psalms 61:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 61,
-            "verse": 5,
-            "source_ref": "Psalms 61:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "06523ce34a96eb710f242632b795688438da6cc2b7553d96e66615e9d3860438"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "06523ce34a96eb710f242632b795688438da6cc2b7553d96e66615e9d3860438"
-      },
-      "5": {
-        "source_ref": "Psalms 61:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 61,
-            "verse": 6,
-            "source_ref": "Psalms 61:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "a37fca2005e624f23cac47c834e24fcc6e88e95c195d6784e7697dbac25cc2bb"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "a37fca2005e624f23cac47c834e24fcc6e88e95c195d6784e7697dbac25cc2bb"
-      },
-      "6": {
-        "source_ref": "Psalms 61:7 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 61,
-            "verse": 7,
-            "source_ref": "Psalms 61:7 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "e57a0bbd46647b54bb8a66698c01fe7d703a6e6187247bfbef6d0e9e1d75bd9b"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "e57a0bbd46647b54bb8a66698c01fe7d703a6e6187247bfbef6d0e9e1d75bd9b"
-      },
-      "7": {
-        "source_ref": "Psalms 61:8 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 61,
-            "verse": 8,
-            "source_ref": "Psalms 61:8 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "1f2ad676f4778b5188496f72d218a2d27ed9c51d995351b5a2b23415a0ed62e6"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "1f2ad676f4778b5188496f72d218a2d27ed9c51d995351b5a2b23415a0ed62e6"
-      },
-      "8": {
-        "source_ref": "Psalms 61:9 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 61,
-            "verse": 9,
-            "source_ref": "Psalms 61:9 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "3af254aedd72cea380279793f6d44484f599a031674259a58f69d8ac41ce50a7"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "3af254aedd72cea380279793f6d44484f599a031674259a58f69d8ac41ce50a7"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 61,
+    "verse_count": 8,
+    "path": "translations/fluent/OT/psalms/Psalm_061.md",
+    "before_sha256": "c210689e5d13b1991ed56e9183bc8343a61daa1bb0e7303d9c2f02cf2ed7655a",
+    "after_sha256": "835675a4e0ab09549d22ad11c9f6b46b728c66641fa085a6d868b002c5683a4b",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_061.md",
+    "tsw_comparator_sha256": "99f396cfdbd3f7a5f0bed3a6d3ea89b2dae0831df9de982f5ada3199cbdc1aad"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-psalms-25-64/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 61:1",
+      "decision": "Title singular instrument retained and two appeals.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 61:2",
+      "decision": "Retain the height comparison as high above me without making inability to reach it an explicit source claim.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 61:5",
+      "decision": "Supply recipient me from speaker, preserve inheritance and name.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 61:6",
+      "decision": "Keep royal longevity prayer and repeated days.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 61:7",
+      "decision": "Keep third-person king and personified guards without naming dynasty.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_061.md",
-    "blob_sha": "479f177929ca50f97d9ce7765de3be71e0832434"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

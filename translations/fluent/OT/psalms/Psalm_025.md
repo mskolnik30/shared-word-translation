@@ -4,111 +4,93 @@ testament: OT
 chapter: 25
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
+
+## Teach me your paths
 
 <p>
 v01: Of David.
-
-To you, LORD,
-I lift up my soul.
-v02: My God, in you I trust;
-let me not be put to shame;
-let not my enemies exult over me.
-v03: Indeed, none who wait for you will be put to shame;
-people who act treacherously without cause will be put to shame.
+To you, LORD, I lift up my life.
+v02: My God, I trust in you.
+Do not let me be put to shame;
+do not let my enemies celebrate my downfall.
+v03: Indeed, no one who waits for you will be put to shame.
+Let shame fall on those who betray others without cause.
 </p>
 
 <p>
-v04: Make known to me your ways, LORD;
+v04: Show me your ways, LORD;
 teach me your paths.
 v05: Lead me in your truth and teach me,
-for you are the God of my salvation;
-for you I wait all day long.
-v06: Remember your compassion, LORD,
-and your steadfast loves,
-for they have been from of old.
-v07: Do not remember the sins of my youth or my transgressions;
-according to your steadfast love, remember me,
+for you are the God who saves me.
+I wait for you all day long.
+v06: Remember your compassion, LORD, and your faithful love;
+they have been yours from long ago.
+v07: Do not remember my youthful sins or my rebellions.
+Remember me according to your faithful love,
 for the sake of your goodness, LORD.
 </p>
 
 <p>
-v08: Good and upright is the LORD;
-so he instructs sinners in the way.
-v09: He leads the humble in justice,
+v08: The LORD is good and upright;
+that is why he teaches sinners the way.
+v09: He leads the humble in what is just
 and teaches the humble his way.
-v10: All the paths of the LORD are steadfast love and faithfulness
-for people who keep his covenant and his testimonies.
-v11: For the sake of your name, LORD,
-forgive my iniquity, for it is great.
+v10: All the LORD’s paths are faithful love and truth
+for those who keep his covenant and his testimonies.
+v11: For your name’s sake, LORD,
+forgive my wrongdoing, great as it is.
 </p>
 
 <p>
-v12: Who is the person who fears the LORD?
-He instructs them in the way he chooses.
-v13: They themselves will dwell in goodness,
+v12: Who is the person who reveres the LORD?
+The LORD will teach that person the way to choose.
+v13: That person will rest in well-being,
 and their offspring will inherit the land.
-v14: The counsel of the LORD is for people who fear him,
-and he makes his covenant known to them.
-v15: My eyes are always toward the LORD,
-for he brings my feet out of the net.
+v14: The LORD shares his counsel with those who revere him;
+he makes his covenant known to them.
+v15: My eyes are always turned toward the LORD,
+for he will free my feet from the net.
 </p>
 
 <p>
-v16: Turn to me and be gracious to me,
-for I am lonely and afflicted.
-v17: The troubles of my heart have grown large;
-bring me out of my distresses.
-v18: Look on my affliction and my trouble,
-and take away all my sins.
-v19: Look on my enemies, for they are many,
-and they hate me with violent hatred.
+v16: Turn toward me and be gracious to me,
+for I am alone and afflicted.
+v17: My heart’s troubles have grown wide;
+bring me out of my distress.
+v18: Look at my affliction and hardship,
+and forgive all my sins.
+v19: Look how many my enemies are,
+how violently they hate me.
 </p>
 
 <p>
-v20: Guard my soul and rescue me;
-let me not be put to shame,
-for I take refuge in you.
+v20: Guard my life and rescue me.
+Do not let me be put to shame,
+for I have taken refuge in you.
 v21: May integrity and uprightness guard me,
 for I wait for you.
-v22: Redeem Israel, O God,
+</p>
+
+<p>
+v22: God, redeem Israel
 from all its troubles.
 </p>
 
 ## Notes
 
-v01–22: The psalm is shaped as an alphabetic acrostic, though its sequence is not entirely regular. The form gives ordered expression to a prayer that moves repeatedly between trust, instruction, confession, and distress.
+v01–22: Most lines begin with successive Hebrew letters, though the alphabetic pattern is irregular. The final appeal widens the prayer from one person to Israel.
 
-v06–07: The prayer asks the LORD both to “remember” enduring compassion and not to remember the speaker’s earlier sins. In this passage, remembrance is active: it concerns how God will act toward the petitioner.
+v12,14: The choice of a way may be God’s or the learner’s. “Counsel” suggests confidential conversation or fellowship, not merely information.
 
-v10: “Covenant” and “testimonies” describe a relationship in which the LORD’s steadfast love and faithfulness are encountered by those who keep the covenant’s obligations.
-
-v14: “Counsel” can suggest confidential counsel or intimate fellowship. The line joins reverence for the LORD with being given knowledge of the covenant.
-
-v22: The final petition widens the individual prayer into an appeal for Israel’s redemption from all its troubles.
-
-v01–22: The psalm is shaped as an alphabetic acrostic, though its sequence is not entirely regular.
+v17: The Hebrew says the heart’s troubles have widened. Another reading takes this as a plea to make room for the heart in distress.
 
 ## Vocabulary
 
-v05: **אֱמֶת — *ʾemet***: “truth” is not merely correct information here; it is the dependable reality and faithfulness in which the psalmist asks God to lead them.
+v10: **Covenant — berit**: A binding relationship with obligations. Here covenant, faithful love, truth, and keeping God’s testimonies belong together.
 
-v06: **רַחֲמִים — *raḥamim***: “compassion” is a plural form associated with deep, tender mercy. It stands alongside the LORD’s enduring acts of steadfast love.
-
-v07: **חֶסֶד — *ḥesed***: Rendered “steadfast love,” this term names the LORD’s loyal, covenantal care. The psalmist appeals to that love rather than to personal innocence.
-
-v10: בְּרִית (berit)
-“Covenant” names the binding relationship established by God, with both divine faithfulness and a call to keep its testimonies.
-
-v14: **סוֹד — *sod***: “Counsel” can refer to a confidential circle or intimate deliberation. The LORD shares this counsel with those who fear him.
-
-v21: **תֹּם — *tom***: “Integrity” denotes wholeness or blamelessness. Together with “uprightness,” it is invoked as a protection for one who waits for the LORD.
-
-v05: אֱמֶת (ʾemet)
-“truth” is not merely correct information here; it is the dependable reality and faithfulness in which the psalmist asks God to lead them.
-
-v06: רַחֲמִים (raḥamim)
-“compassion” is a plural form associated with deep, tender mercy. It stands alongside the LORD’s enduring acts of steadfast love.
-
-v07: חֶסֶד (ḥesed)
-“Steadfast love.” Names the LORD’s loyal, covenantal care. The psalmist appeals to that love rather than to personal innocence.
+v01,20: **Life — nephesh**: The living person or self, also often called “soul.” Lifting it to God expresses personal dependence.

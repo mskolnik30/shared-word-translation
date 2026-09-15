@@ -4,57 +4,45 @@ testament: OT
 chapter: 53
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
+## Corruption and rescue
+
 <p>
-For the director; upon Mahalath. A Maskil of David.
+v01: For the music leader. According to Mahalath. A maskil of David.
+The fool says in his heart, “There is no God.”
+They are corrupt and do abhorrent wrong; no one does good.
 </p>
 
 <p>
-v01: The fool says in his heart, “There is no God.”
-They are corrupt and commit abominable injustice;
-there is none who does good.
+v02: God looks down from heaven on humanity
+to see whether anyone understands, whether anyone seeks God.
+v03: All have turned away; together they have become corrupt.
+No one does good, not even one.
 </p>
 
 <p>
-v02: God looked down from heaven upon the children of humanity
-to see if there is anyone who acts wisely,
-any who seek after God.
-</p>
-
-<p>
-v03: All have turned aside; together they have become corrupt.
-There is none who does good,
-not even one.
-</p>
-
-<p>
-v04: Do they not know, all evildoers,
-who eat up my people as they eat bread,
-and do not call upon God?
-</p>
-
-<p>
-v05: There they were in great fear where no fear was.
-For God scattered the bones of people who encamped against you;
+v04: Do these evildoers know nothing,
+devouring my people as they eat bread, never calling on God?
+v05: There they trembled with terror where there was no cause for terror.
+God scattered the bones of those camped against you;
 you put them to shame, for God rejected them.
 </p>
 
 <p>
-v06: Oh, that salvation for Israel would come out of Zion!
-When God restores the fortunes of his people,
-Jacob will rejoice; Israel will be glad.
+v06: If only Israel’s salvation would come from Zion!
+When God restores his people’s fortunes,
+let Jacob rejoice and Israel be glad.
 </p>
 
 ## Notes
 
-v03: “Not even one” intensifies the universal scope of the psalm’s accusation: the claim concerns the whole human field being surveyed, not merely a particular group of evildoers.
-
-v05: The phrase “where there was no fear” makes the terror strikingly disproportionate to any visible cause, locating the reversal in God’s action rather than in the enemy’s apparent circumstances.
+v01,05: Mahalath and maskil are uncertain musical or literary directions. This psalm resembles Psalm 14, but its divine names and its account of terror and scattered bones differ; those differences are retained.
 
 ## Vocabulary
 
-v03: אֱלֹהִים (e.lo.him) — A plural form often used with singular verbs, indicating majesty, emphasizes divine omnipresence and involvement.
-
-v02: אֱלֹהִים (elohim)
-“God.” The common Hebrew designation for God; grammatically plural in form but often used with singular reference to Israel’s God.
+v06: **Restore fortunes**: A phrase for reversing a people’s loss or plight; it can include a return from captivity.

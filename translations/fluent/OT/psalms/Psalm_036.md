@@ -4,80 +4,56 @@ testament: OT
 chapter: 36
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
-<p>
-For the director. Of David, the servant of the LORD.
-</p>
+## The spring of life
 
 <p>
-v01: An utterance of transgression to the wicked is within my heart:
+v01: For the music leader. Of the LORD’s servant David.
+An oracle of rebellion concerning the wicked lies within my heart:
 there is no fear of God before his eyes.
-v02: For in his own eyes he flatters himself,
-too much to find his guilt and hate it.
-v03: The words of his mouth are trouble and deceit;
-he has ceased to act wisely, to do good.
-v04: He plans trouble on his bed;
-he sets himself on a way that is not good;
-evil he does not reject.
+v02: He flatters himself in his own eyes
+too much to recognize and hate his wrongdoing.
+v03: His mouth speaks harm and deceit;
+he has stopped acting wisely and doing good.
+v04: He plots harm on his bed,
+sets himself on a way that is not good,
+and does not reject evil.
 </p>
 
 <p>
-v05: LORD, your steadfast love is in the heavens,
-your faithfulness reaches to the clouds.
-v06: Your righteousness is like the mountains of God;
-your judgments are a great deep.
-Human and beast you save, LORD.
-v07: How precious is your steadfast love, O God!
-The children of humankind take refuge
-in the shadow of your wings.
-v08: They are filled from the abundance of your house,
-and you give them drink from the river of your delights.
-</p>
-
-<p>
-v09: For with you is the fountain of life;
+v05: LORD, your faithful love reaches the heavens,
+your faithfulness the clouds.
+v06: Your righteousness is like the mighty mountains;
+your judgments are a vast deep.
+You save humans and animals, LORD.
+v07: How precious is your faithful love, God!
+People take refuge in the shadow of your wings.
+v08: They drink their fill of your house’s abundance;
+you give them drink from your river of delights.
+v09: With you is the spring of life;
 in your light we see light.
-v10: Draw out your steadfast love to people who know you,
-and your righteousness to the upright in heart.
-v11: Do not let the foot of pride come against me;
-do not let the hand of the wicked drive me away.
-v12: There the workers of trouble have fallen;
-they are thrust down and cannot rise.
+</p>
+
+<p>
+v10: Extend your faithful love to those who know you,
+your righteousness to the upright in heart.
+v11: Do not let the foot of pride come upon me
+or the hand of the wicked drive me away.
+v12: There the evildoers have fallen,
+thrown down, unable to rise.
 </p>
 
 ## Notes
 
-v01: The Hebrew has a difficult first-person expression, “within my heart,” even though the surrounding lines concern the wicked person. The syntax has produced differing construals, and the tension should not be resolved too quickly.
+v01–02: The Hebrew has “within my heart,” not “his heart.” The opening may present the speaker’s insight into rebellion’s hold on the wicked. The next line’s flattering subject and pronouns are also difficult.
 
-v02: The wording is compressed. Self-flattery is portrayed as preventing the wicked from discovering and hating their own guilt.
-
-v05–06: The psalm answers the confined world of the wicked with the immeasurable scale of God’s steadfast love, faithfulness, righteousness, and judgments; the imagery moves from the heavens and mountains to the great deep.
-
-v07–08: The refuge of God’s wings is joined with abundance, nourishment, and flowing water. The imagery gathers protection and delight without reducing them to a single setting.
-
-v11–12: The prayer closes with both a plea for protection and a declaration of the evildoers’ downfall. “There” points dramatically to the place of their collapse without specifying it.
+v06–09: “Mighty mountains” is literally “mountains of God.” Human beings and animals are both named as recipients of rescue; wings, a feast, a river, and light then develop the sheltering imagery.
 
 ## Vocabulary
 
-v02: **פֶּשַׁע — *peshaʿ***: “transgression” is personified as giving an utterance or oracle. Its voice stands in direct contrast to the fear of God.
-
-v06: **חֶסֶד — *ḥesed***: “steadfast love” names God’s faithful, covenantal goodness. In this psalm it is expansive, protective, and life-giving.
-
-v07: **מִשְׁפָּט — *mishpat***: “judgments” can refer to God’s acts of justice and governing decisions. Their comparison to the great deep emphasizes both their depth and their vastness.
-
-v09: **עֵדֶן — *ʿeden***: “delights” evokes luxuriant pleasure and abundance. The plural form intensifies the river imagery.
-
-v10: **מְקוֹר חַיִּים — *meqor ḥayyim***: “fountain of life” presents life as flowing from God. The following line links this life-giving source with divine light.
-
-v01: פֶּשַׁע (peshaʿ)
-“transgression” is personified as giving an utterance or oracle. Its voice stands in direct contrast to the fear of God.
-
-v05: חֶסֶד (ḥesed)
-“steadfast love” names God’s faithful, covenantal goodness. In this psalm it is expansive, protective, and life-giving.
-
-v06: מִשְׁפָּט (mishpat)
-“judgments” can refer to God’s acts of justice and governing decisions.
-
-v08: עֵדֶן (ʿeden)
-“delights” evokes luxuriant pleasure and abundance. The plural form intensifies the river imagery.
+v05: **Faithful love — ḥesed**: Committed kindness and loyalty. Alongside faithfulness, it describes dependable care.

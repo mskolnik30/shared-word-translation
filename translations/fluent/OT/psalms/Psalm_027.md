@@ -4,123 +4,70 @@ testament: OT
 chapter: 27
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
-## A Psalm of Confidence and Longing
+## Light and a stronghold
 
 <p>
-v01: The LORD is my light and my salvation;
-  whom will I fear?
-  The LORD is the stronghold of my life;
-  of whom will I be afraid?
+v01: Of David.
+The LORD is my light and my salvation—whom should I fear?
+The LORD is my life’s stronghold—whom should I dread?
+v02: When evildoers came at me to devour my flesh,
+my adversaries and enemies stumbled and fell.
+v03: Though an army camps against me, my heart will not fear.
+Though war rises against me, even then I will trust.
+</p>
 
-v02: When the wicked draw near against me
-  to devour my flesh—
-  my adversaries and my enemies—
-  they stumble and fall.
+<p>
+v04: One thing I have asked of the LORD; this is what I seek:
+to dwell in the LORD’s house all my life,
+to gaze on the LORD’s beauty and seek him in his temple.
+v05: On a day of trouble he will hide me in his shelter,
+conceal me in the cover of his tent,
+and lift me high onto a rock.
+v06: Now my head will rise above the enemies around me.
+In his tent I will offer sacrifices with shouts of joy;
+I will sing and make music to the LORD.
+</p>
 
-v03: Though an army encamp against me,
-  my heart will not fear;
-  though war rise up against me,
-  in this I will trust.
+<p>
+v07: Hear my voice when I call, LORD;
+be gracious to me and answer.
+v08: My heart speaks for you: “Seek my face.”
+Your face, LORD, I will seek.
+v09: Do not hide your face from me
+or turn your servant away in anger.
+You have been my help.
+Do not abandon or forsake me, God who saves me.
+v10: Though my father and mother forsake me,
+the LORD will take me in.
+</p>
 
-v04: One thing I have asked of the LORD,
-  this I seek:
-  that I may dwell in the house of the LORD
-  all the days of my life,
-  to look the beauty of the LORD,
-  and to inquire in his temple.
+<p>
+v11: Teach me your way, LORD;
+lead me on a level path because of those watching for my fall.
+v12: Do not hand me over to my adversaries’ desires.
+False witnesses have risen against me, breathing violence.
+</p>
 
-v05: For he will hide me in his shelter
-  in the day of trouble;
-  he will conceal me under the cover of his tent;
-  he will set me high upon a rock.
-
-v06: And now my head is lifted up
-  above my enemies all around me,
-  and I will offer in his tent
-  sacrifices with shouts of joy;
-  I will sing and make melody to the LORD.
-
-v07: Hear, O LORD, when I cry aloud;
-  be gracious to me and answer me.
-
-v08: You have said, “Seek my face.”
-  My heart says to you, “Your face, LORD, do I seek.”
-
-v09: Do not hide your face from me;
-  do not turn your servant away in anger,
-  you who have been my help.
-  Do not cast me off, do not forsake me,
-  O God of my salvation.
-
-v10: If my father and my mother forsake me,
-  the LORD will take me up.
-
-v11: Teach me your way, O LORD,
-  and lead me on a level path
-  because of people who watch me.
-
-v12: Do not give me up to the will of my adversaries,
-  for false witnesses have risen against me
-  and they breathe out violence.
-
-v13: I believe that I will see the goodness of the LORD
-  in the land of the living.
-
-v14: Wait for the LORD;
-  be strong, and let your heart take courage;
-  wait for the LORD.
+<p>
+v13: If I had not trusted that I would see the LORD’s goodness
+in the land of the living—
+v14: Wait for the LORD.
+Be strong, and let your heart take courage.
+Wait for the LORD.
 </p>
 
 ## Notes
 
-v01: Light and salvation pair what is often kept apart—illumination and rescue. Light here is not a metaphor for understanding, but for the LORD’s nearness.
+v04,08: “Seek him” can mean inquire or contemplate. Verse 8 is compressed: literally, “To you my heart said, ‘Seek my face.’” The translation hears the heart voicing God’s invitation; the exact relation of the voices is uncertain.
 
-v02: The metaphor of being eaten (“to devour my flesh”) names a violence that is total, not measured.
-
-v04: The single petition is striking against the backdrop of military threat. What is asked for is not victory but presence.
-
-v05: The shelter and tent imagery returns to the wilderness sanctuary, where divine presence and refuge coincide.
-
-v08: A textual difficulty stands here. The Hebrew is uneven, and may be read as God’s command (“Seek my face!”) followed by the speaker’s response. The translation preserves the most widely received reading.
-
-v10: The sentence is conditional in form but absolute in claim. Even the most foundational human bond is named as possibly failing; the LORD remains.
-
-v13: The Hebrew opens with an emphatic word that resists smooth translation. Some scribal traditions mark it as if missing, suggesting that the verse breaks off and resumes. The translation reads the line as written.
-
-v14: The closing “wait” frames the whole psalm. The petitioner does not yet hold what was asked for in v.4; trust is sustained, not resolved.
-
-v08: A textual difficulty stands here. The Hebrew is uneven, and may be read as God’s command (“Seek my face!”) followed by the speaker’s response.
+v10,13: Verse 10 can describe abandonment or imagine it. Verse 13 begins “If I had not…” without completing the consequence; the dash preserves that unfinished thought.
 
 ## Vocabulary
 
-v01: אוֹר (ʾôr) — Light. A word more often associated with creation and revelation than with rescue.
-
-v01: יֵשַׁע (yēšaʿ) — Salvation, deliverance, rescue.
-
-v01: מָעוֹז (māʿôz) — Stronghold, refuge, fortress.
-
-v04: בַּיִת (bayiṯ) — House. Names both household and temple; the term is left in its broad sense.
-
-v04: נֹעַם (nōʿam) — Beauty, pleasantness, graciousness.
-
-v05: סֻכָּה (sukkâ) — Shelter, booth, tent. The same word used for the festival of Tabernacles.
-
-v08: פָּנִים (pānîm) — Face, presence. The word that names God’s nearness and absence in equal measure.
-
-v11: דֶּרֶךְ (dereḵ) — Way, path. Both physical road and pattern of life.
-
-v13: לוּלֵא (lûlēʾ) — “If not.” An emphatic Hebrew opening; some traditions mark it with dots, indicating textual uncertainty.
-
-v14: קָוָה (qāwâ)
-“To wait, to hope. The verb names expectant trust rather than passive delay.”
-
-v01: אוֹר (ʾôr)
-“Light. A word more often associated with creation and revelation than with rescue.”
-
-v01: יֵשַׁע (yēšaʿ)
-“Salvation, deliverance, rescue.”
-
-v01: מָעוֹז (māʿôz)
-“Stronghold, refuge, fortress.”
+v01: **Stronghold — maʿoz**: A place of strength and protection. Light, salvation, and stronghold offer different images of the same confidence.

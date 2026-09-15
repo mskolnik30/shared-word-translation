@@ -1,0 +1,197 @@
+{
+  "status": "PASSED",
+  "base_commit": "54011f97552535dcc5b37389cb2321966f7d9771",
+  "new_chapters": 40,
+  "new_verses": 609,
+  "original_source_records_bound_exactly_once": 642,
+  "cumulative_coverage": {
+    "ledgers": 74,
+    "chapters": 547,
+    "verses": 14968
+  },
+  "preservation": {
+    "prior_ledgers_byte_identical": 73,
+    "prior_chapters_byte_identical": 507,
+    "historical_provenance_preserved": true,
+    "tsw_unchanged": true
+  },
+  "source_binding_audit": {
+    "status": "PASSED",
+    "errors": []
+  },
+  "public_source_offsets": {
+    "25": 0,
+    "26": 0,
+    "27": 0,
+    "28": 0,
+    "29": 0,
+    "30": 1,
+    "31": 1,
+    "32": 0,
+    "33": 0,
+    "34": 1,
+    "35": 0,
+    "36": 1,
+    "37": 0,
+    "38": 1,
+    "39": 1,
+    "40": 1,
+    "41": 1,
+    "42": 1,
+    "43": 0,
+    "44": 1,
+    "45": 1,
+    "46": 1,
+    "47": 1,
+    "48": 1,
+    "49": 1,
+    "50": 0,
+    "51": 2,
+    "52": 2,
+    "53": 1,
+    "54": 2,
+    "55": 1,
+    "56": 1,
+    "57": 1,
+    "58": 1,
+    "59": 1,
+    "60": 2,
+    "61": 1,
+    "62": 1,
+    "63": 1,
+    "64": 1
+  },
+  "first_source_reading": {
+    "original_records": 642,
+    "all_annotations_read": true
+  },
+  "tsw_comparator_verses_read_after_drafting": 609,
+  "focused_authoring_source_reread": 247,
+  "focused_assertions": {
+    "27:13": [
+      "If I had not",
+      "—"
+    ],
+    "29:1": [
+      "sons of gods"
+    ],
+    "29:6": [
+      "Lebanon",
+      "Sirion"
+    ],
+    "33:2": [
+      "ten-stringed"
+    ],
+    "34:1": [
+      "Abimelech"
+    ],
+    "36:1": [
+      "my heart"
+    ],
+    "36:6": [
+      "humans and animals"
+    ],
+    "40:5": [
+      "No one compares with you"
+    ],
+    "40:6": [
+      "dug out ears"
+    ],
+    "44:17": [
+      "not forgotten",
+      "covenant"
+    ],
+    "44:20": [
+      "or spread"
+    ],
+    "44:23": [
+      "Why do you sleep"
+    ],
+    "45:6": [
+      "O God"
+    ],
+    "45:9": [
+      "Ophir",
+      "queen"
+    ],
+    "45:14": [
+      "virgin companions"
+    ],
+    "49:7": [
+      "brother"
+    ],
+    "49:11": [
+      "inward thought"
+    ],
+    "50:10": [
+      "thousand hills"
+    ],
+    "51:1": [
+      "Nathan",
+      "Bathsheba"
+    ],
+    "51:5": [
+      "sin my mother"
+    ],
+    "52:1": [
+      "Doeg",
+      "Edomite",
+      "Saul",
+      "Ahimelech"
+    ],
+    "53:5": [
+      "bones",
+      "no cause for terror"
+    ],
+    "54:1": [
+      "Ziphites"
+    ],
+    "54:3": [
+      "Strangers"
+    ],
+    "55:23": [
+      "half their days"
+    ],
+    "56:1": [
+      "Philistines",
+      "Gath"
+    ],
+    "58:8": [
+      "stillborn"
+    ],
+    "58:10": [
+      "blood"
+    ],
+    "59:11": [
+      "Do not kill"
+    ],
+    "59:13": [
+      "Consume"
+    ],
+    "60:1": [
+      "Joab",
+      "twelve thousand",
+      "Edomites",
+      "Aram-naharaim",
+      "Aram-zobah",
+      "Valley of Salt"
+    ],
+    "60:5": [
+      "answer me"
+    ],
+    "60:8": [
+      "Philistia, shout over me"
+    ],
+    "63:10": [
+      "jackals"
+    ]
+  },
+  "refrains_and_intentional_differences": "PASSED",
+  "divine_name_and_selah_counts": "PASSED; Psalm 25:12 repeats LORD once to identify the pronoun subject explicitly",
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_psalms_review": "PENDING; this is a selected forty-chapter authoring batch.",
+  "publication_allowed": false
+}

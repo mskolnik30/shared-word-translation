@@ -4,67 +4,70 @@ testament: OT
 chapter: 57
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
-For the leader. Do not destroy. A Miktam of David, when he fled from Saul, into the cave.
+## Refuge under your wings
 
 <p>
-v01: Be gracious to me, O God, be gracious to me,
-    for in you my soul takes refuge;
-in the shadow of your wings I will take refuge,
-    until destruction passes by.
+v01: For the music leader. “Do Not Destroy.” Of David. A miktam, when he fled from Saul into the cave.
+Be gracious to me, God, be gracious to me!
+I take refuge in you;
+in the shadow of your wings I will take refuge
+until destruction passes by.
 v02: I call to God Most High,
-    to God who fulfills his purpose for me.
+to God who brings things to completion for me.
 v03: He will send from heaven and save me;
-    he will put to shame people who trample on me. Selah
-God will send forth his steadfast love and his faithfulness.
+he will put my pursuer to shame. Selah.
+God will send his faithful love and faithfulness.
 </p>
 
 <p>
-v04: My soul is among lions;
-    I lie down among people who breathe out fire—
-people whose teeth are spears and arrows,
-    whose tongues are sharp swords.
+v04: My life is among lions;
+I lie down among those burning to devour—
+human beings whose teeth are spears and arrows,
+whose tongues are sharp swords.
 </p>
 
 <p>
-v05: Be exalted, O God, above the heavens;
-    let your glory be over all the earth.
+v05: Rise high above the heavens, God;
+let your glory be over all the earth.
 </p>
 
 <p>
 v06: They set a net for my steps;
-    my soul was bowed down.
-They dug a pit in my path,
-    but they have fallen into it themselves. Selah
+I was bowed down.
+They dug a pit in front of me
+and fell into it themselves. Selah.
 </p>
 
 <p>
-v07: My heart is steadfast, O God,
-    my heart is steadfast.
-I will sing and make melody.
-v08: Awake, my glory!
-    Awake, O harp and lyre!
-    I will awake the dawn.
-v09: I will thank you, Lord, among the peoples;
-    I will sing praises to you among the nations.
-v10: For your steadfast love is great to the heavens,
-    and your faithfulness to the clouds.
+v07: My heart is steady, God; my heart is steady.
+I will sing and make music.
+v08: Wake up, my glory!
+Wake up, harp and lyre!
+I will wake the dawn.
 </p>
 
 <p>
-v11: Be exalted, O God, above the heavens;
-    let your glory be over all the earth.
+v09: I will thank you among the peoples, Lord;
+I will make music to you among the nations.
+v10: Your faithful love reaches high to the heavens,
+your faithfulness to the clouds.
+</p>
+
+<p>
+v11: Rise high above the heavens, God;
+let your glory be over all the earth.
 </p>
 
 ## Notes
 
-
+v01,03–04: “Do Not Destroy” may name a tune; miktam remains unexplained. The reproach clause in verse 3 may describe God shaming the pursuer or the pursuer insulting the speaker. The following verse deliberately blends lions, burning, and human weapons.
 
 ## Vocabulary
 
-v01: מִכְתָּם (mikhtam)
-“Likely a literary or musical term, specific meaning uncertain.” Used in this inscription and in similar Psalms (16, 58-60) often during times of distress.
-
-v03: יִשְׁלַח (shalach)
-“He will send." In this context, it conveys God's active deliverance from threat, aligned with His attributes of love and truth.
+v08: **My glory**: The speaker addresses their own praising self. The poem then calls on instruments and imagines waking dawn itself.

@@ -4,62 +4,55 @@ testament: OT
 chapter: 52
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
+## The razor and the olive tree
+
 <p>
-For the director, a maskil of David.
+v01: For the music leader. A maskil of David, when Doeg the Edomite came and told Saul, “David has come to Ahimelech’s house.”
+Why boast of evil, you mighty man?
+God’s faithful love lasts all day.
+v02: Your tongue plots ruin,
+like a sharpened razor, working deceit.
 </p>
 
 <p>
-When Doeg the Edomite came and reported to Saul,
-saying, "David has come to the house of Ahimelech."
-</p>
-
-<p>
-v01: Why do you boast of evil, mighty man?
-The steadfast love of God endures all the day.
-v02: Your tongue plots destruction,
-like a sharp razor, you worker of deceit.
 v03: You love evil more than good,
-falsehood more than speaking righteousness.
-Selah
-v04: You love all words that devour,
-O deceitful tongue.
+lies more than speaking rightly. Selah.
+v04: You love every devouring word,
+you deceitful tongue!
 </p>
 
 <p>
-v05: Yet God will break you down forever;
-he will snatch and tear you from your tent,
-he will uproot you from the land of the living.
-Selah
+v05: But God will tear you down forever;
+he will seize you, pull you from your tent,
+and uproot you from the land of the living. Selah.
 </p>
 
 <p>
 v06: The righteous will see and fear;
-they will laugh at him, saying,
-v07: "See the man who would not make God his refuge,
-but trusted in the abundance of his riches
-and strengthened himself in his destruction."
+they will laugh at him:
+v07: “Here is the man who would not make God his stronghold.
+He trusted in his great wealth
+and made himself strong through destruction.”
 </p>
 
 <p>
-v08: Yet I am like a green olive tree
-in the house of God.
-I trust in the steadfast love of God
-forever and ever.
-v09: I will thank you forever,
-because you have done it.
-I will wait for your name,
-for it is good, in the presence of your faithful ones.
+v08: But I am like a flourishing olive tree in God’s house;
+I trust in God’s faithful love forever and ever.
+v09: I will thank you forever because you have acted.
+I will wait for your name, for it is good,
+in the presence of your faithful ones.
 </p>
 
 ## Notes
 
-
+v01,07,09: The title names Doeg’s report about Ahimelech to Saul. “God’s faithful love” interrupts the boast abruptly. “Through destruction” in verse 7 is difficult and may concern ruinous desire or resources. The ending retains “wait for your name,” not a different verb such as proclaim.
 
 ## Vocabulary
 
-v03: חֶסֶד (chesed) - "steadfast love." This term evokes a covenantal loyalty or mercy, often emphasizing God's enduring faithfulness and compassion toward his people.
-
-v01: חֶסֶד (chesed)
-“steadfast love." This term evokes a covenantal loyalty or mercy, often with a sense of God's enduring faithfulness and compassion toward his people.
+v05,08: **Uproot and olive tree**: The boastful man is uprooted, while the petitioner is a flourishing tree. The repeated plant image organizes the contrast.

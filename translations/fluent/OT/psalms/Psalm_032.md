@@ -4,155 +4,62 @@ testament: OT
 chapter: 32
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
-## The Joy of Forgiveness
+## Sin confessed and forgiven
 
 <p>
-v01: Happy are those whose rebellion is forgiven,
-whose sin is covered.
-
-v02: Happy are those to whom the LORD does not count iniquity,
-and in whose spirit there is no deceit.
-
-v03: While I kept silent, my bones wasted away
-through my groaning all day long.
-
-v04: For day and night your hand was heavy upon me;
-my strength was dried up as by the heat of summer.
-Selah
-
-v05: Then I acknowledged my sin to you,
-and I did not hide my iniquity;
-I said, “I will confess my transgressions to the LORD,”
-and you forgave the guilt of my sin.
-Selah
-
-v06: So let everyone who are faithful offer prayer to you
-at a time when you may be found;
-surely the rush of mighty waters
-will not reach them.
-
-v07: You are a hiding place for me;
-you preserve me from trouble;
-you surround me with shouts of deliverance.
-Selah
+v01: Of David. A maskil.
+Happy is the one whose rebellion is forgiven, whose sin is covered.
+v02: Happy is the person whose wrongdoing the LORD does not count against them,
+in whose spirit there is no deceit.
 </p>
-## Instruction and Trust
 
 <p>
-v08: I will instruct you and teach you the way you should go;
+v03: When I kept silent, my bones wore out
+through my groaning all day long.
+v04: Day and night your hand weighed on me;
+my vitality dried up in summer’s heat. Selah.
+</p>
+
+<p>
+v05: I made my sin known to you; I did not cover my wrongdoing.
+I said, “I will confess my rebellions to the LORD,”
+and you forgave the guilt of my sin. Selah.
+</p>
+
+<p>
+v06: So let everyone faithful pray to you while you may be found.
+When mighty waters flood, they will not reach that person.
+v07: You are my hiding place. You guard me from distress;
+you surround me with songs of deliverance. Selah.
+</p>
+
+<p>
+v08: I will give you insight and teach you the way to go;
 I will counsel you with my eye upon you.
+v09: Do not be like a horse or mule without understanding,
+held in check by bit and bridle,
+or it will not come near you.
+</p>
 
-v09: Do not be like a horse or a mule, without understanding,
-whose temper must be curbed with bit and bridle,
-else it will not stay near you.
-
-v10: Many are the sorrows of the wicked,
-but steadfast love surrounds people who trust in the LORD.
-
-v11: Be glad in the LORD and rejoice, O righteous,
-and shout for joy, all you upright in heart.
+<p>
+v10: The wicked have many sorrows,
+but faithful love surrounds the one who trusts the LORD.
+v11: Rejoice in the LORD and be glad, you righteous;
+shout for joy, all you upright in heart.
 </p>
 
 ## Notes
 
-v01: Happy are those whose rebellion is forgiven,
-whose sin is covered.
+v01,06: “Maskil” is a song designation of uncertain meaning, possibly connected with insight. “While you may be found” supplies the object of finding; the short Hebrew phrase has also been understood as a time of distress.
 
-v02: Happy are those to whom the LORD does not count iniquity,
-and in whose spirit there is no deceit.
-
-v03: While I kept silent, my bones wasted away
-through my groaning all day long.
-
-v04: For day and night your hand was heavy upon me;
-my strength was dried up as by the heat of summer.
-Selah
-
-v05: Then I acknowledged my sin to you,
-and I did not hide my iniquity;
-I said, “I will confess my transgressions to the LORD,”
-and you forgave the guilt of my sin.
-Selah
-
-v06: Therefore let all who are faithful offer prayer to you
-at a time when you may be found;
-surely the rush of mighty waters
-shall not reach them.
-
-v07: You are a hiding place for me;
-you preserve me from trouble;
-you surround me with shouts of deliverance.
-Selah
-
-v08: I will instruct you and teach you the way you should go;
-I will counsel you with my eye upon you.
-
-v09: Do not be like a horse or a mule, without understanding,
-whose temper must be curbed with bit and bridle,
-else it will not stay near you.
-
-v10: Many are the sorrows of the wicked,
-but steadfast love surrounds those who trust in the LORD.
-
-v11: Be glad in the LORD and rejoice, O righteous,
-and shout for joy, all you upright in heart.
+v08–09: The new “I” may be God speaking or the psalmist teaching. No speaker is explicitly named. The bit-and-bridle comparison warns against unresponsive understanding; its final clause is difficult.
 
 ## Vocabulary
 
-v01: אַשְׁרֵי (’ashrê) — happy; blessed; one who is rightly situated
-
-v01: פֶּשַׁע (pesha‘) — rebellion; breach of relationship
-
-v01: חָטָא (ḥaṭṭā’/ḥēṭ’) — sin; missing the mark
-
-v02: חָשַׁב (ḥāshav) — count; reckon; account
-
-v02: עָוֹן (‘āwōn) — iniquity; distortion; guilt
-
-v03: חָרַשׁ (ḥārash) — keep silent; remain quiet
-
-v03: עֶצֶם (‘etsem) — bone; strength; frame
-
-v04: יָד (yād) — hand; power; sustained pressure
-
-v04: לֵשַׁד (lēshad) — moisture; vitality; life-sap
-
-v05: יָדַע (yāda‘) — acknowledge; make known
-
-v05: יָדָה (yādāh) — confess; give thanks; declare
-
-v06: חָסִיד (ḥāsîd) — faithful one; loyal one
-
-v06: שֶׁטֶף (sheṭef) — flood; rushing waters
-
-v07: סֵתֶר (sēter) — hiding place; shelter
-
-v07: פָּלַט (pālaṭ) — rescue; deliver; cause to escape
-
-v08: שָׂכַל (śākal) — give insight; instruct wisely
-
-v08: יָעַץ (yā‘aṣ) — counsel; advise
-
-v09: בִּין (bîn) — understand; discern
-
-v09: מֶתֶג (meteg) — bit; restraint
-
-v10: בָּטַח (bāṭaḥ) — trust; rely upon
-
-v10: חֶסֶד (ḥesed)
-“Steadfast love; covenant loyalty.”
-
-v11: שָׂמַח (śāmaḥ) — rejoice; be glad
-
-v11: רָנַן (rānan) — shout for joy; cry out
-
-v01: חָטָא (ḥaṭṭā’/ḥēṭ’)
-“Sin; missing the mark.”
-
-v02: עָוֹן (‘āwōn)
-“Iniquity; distortion; guilt.”
-
-v06: חָסִיד (ḥāsîd)
-“Faithful one; loyal one.”
+v01,05: **Cover — kasah**: God covers sin by forgiving it; the speaker stops covering wrongdoing by concealing it. The repeated image binds confession and forgiveness.

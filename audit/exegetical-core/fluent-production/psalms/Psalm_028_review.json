@@ -2,177 +2,105 @@
   "book": "Psalms",
   "chapter": 28,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-25-64-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "54011f97552535dcc5b37389cb2321966f7d9771",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_028_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 28:1 (Hebrew; before kjv marker) + Psalms 28:1 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 1,
-            "source_ref": "Psalms 28:1 (Hebrew; before kjv marker)",
-            "segment_mode": "before_kjv_marker",
-            "sha256": "6eaada10832cf8bf7c5656574c45a7af0ccf3bc2a9d0fbaa89c003ce1cc7daa3"
-          },
-          {
-            "chapter": 28,
-            "verse": 1,
-            "source_ref": "Psalms 28:1 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "588cc7b403c3b86b9d9b730de78a113d5b95591ba081e183a658b4d45ca5a1f2"
-          }
-        ],
-        "segment_mode": "before_kjv_marker+after_kjv_marker",
-        "sha256": "a51559c5e39b0aba98f009db8330d605e2b867578fe5422e3d05aa241efaef93"
-      },
-      "2": {
-        "source_ref": "Psalms 28:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 2,
-            "source_ref": "Psalms 28:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "02b58db0c57871c2f0e14e2eb1d57b6687f6dc23b75f6897d54a17046a2eeb5d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "02b58db0c57871c2f0e14e2eb1d57b6687f6dc23b75f6897d54a17046a2eeb5d"
-      },
-      "3": {
-        "source_ref": "Psalms 28:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 3,
-            "source_ref": "Psalms 28:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "2b5b9d8dafff647c6d443cee561c8f1af3cb33c40d39a20d7738c9c195a9382f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2b5b9d8dafff647c6d443cee561c8f1af3cb33c40d39a20d7738c9c195a9382f"
-      },
-      "4": {
-        "source_ref": "Psalms 28:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 4,
-            "source_ref": "Psalms 28:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "dbe4f4f6702187aac5f5d7cc23628b9d688fbc8b8abef99a14586f8a31d0e8d5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "dbe4f4f6702187aac5f5d7cc23628b9d688fbc8b8abef99a14586f8a31d0e8d5"
-      },
-      "5": {
-        "source_ref": "Psalms 28:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 5,
-            "source_ref": "Psalms 28:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "4f8ed6718ad2c9092a5173d9190278c2a9918d6131fb091bdfe31df395b95273"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4f8ed6718ad2c9092a5173d9190278c2a9918d6131fb091bdfe31df395b95273"
-      },
-      "6": {
-        "source_ref": "Psalms 28:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 6,
-            "source_ref": "Psalms 28:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "8c8a1e9a99612c55ca6ab225e9f2c82be358b337751028b94a5049b087d246ba"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8c8a1e9a99612c55ca6ab225e9f2c82be358b337751028b94a5049b087d246ba"
-      },
-      "7": {
-        "source_ref": "Psalms 28:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 7,
-            "source_ref": "Psalms 28:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "c82ed5e57950324ae747f369a4cf543453e26734660b0177dc5d81deb0d520a1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c82ed5e57950324ae747f369a4cf543453e26734660b0177dc5d81deb0d520a1"
-      },
-      "8": {
-        "source_ref": "Psalms 28:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 8,
-            "source_ref": "Psalms 28:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "6dafb5876e6937b96123fabef7343d5e084633b1ec0694505bfb48a80ca9568a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6dafb5876e6937b96123fabef7343d5e084633b1ec0694505bfb48a80ca9568a"
-      },
-      "9": {
-        "source_ref": "Psalms 28:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 28,
-            "verse": 9,
-            "source_ref": "Psalms 28:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "f9dee104b34a486609424e73ae576e129ad9851fe3e5e06500e033d997245433"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f9dee104b34a486609424e73ae576e129ad9851fe3e5e06500e033d997245433"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 28,
+    "verse_count": 9,
+    "path": "translations/fluent/OT/psalms/Psalm_028.md",
+    "before_sha256": "5c3285143f9fa06c5d0de88ee32b04359e5ea5fe6fc4f45465da94e3884cc607",
+    "after_sha256": "10c1849d1efca63dde28679973159d2dbf3b5bd25136686d085941e7de5408ea",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_028.md",
+    "tsw_comparator_sha256": "0977a3930119f99f31eb06d3a271322468ed75e22fad2b936a8e7cf3e94d5860"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-psalms-25-64/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 28:1",
+      "decision": "Keep hearing/silence contrast and the threat of death.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 28:2",
+      "decision": "Clarify the temple location while preserving raised hands.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 28:8",
+      "decision": "Retain pinned their rather than silently replacing it with his people.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 28:9",
+      "decision": "Keep collective inheritance and the caring shepherd actions.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_028.md",
-    "blob_sha": "0944a41a7626aaa85bd6cdc5950146cac9e1b75b"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

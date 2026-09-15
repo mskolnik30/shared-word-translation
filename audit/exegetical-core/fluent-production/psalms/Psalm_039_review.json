@@ -2,237 +2,115 @@
   "book": "Psalms",
   "chapter": 39,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-25-64-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "54011f97552535dcc5b37389cb2321966f7d9771",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_039_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 39:1 (Hebrew; whole) + Psalms 39:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 1,
-            "source_ref": "Psalms 39:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "944eea13770fb9b72172fc201ee8706507ccc6c24102380a91f48c2af79ec324"
-          },
-          {
-            "chapter": 39,
-            "verse": 2,
-            "source_ref": "Psalms 39:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "59d48ad79e8fe337445aa5e4cb0f6dc9686e4913c7381773270cd97cad9d0f5e"
-          }
-        ],
-        "segment_mode": "whole+after_kjv_marker",
-        "sha256": "66b507aa1220df0712f275fe8d3ad5bcba83632c229d0a23d6a6c59ed76aed5a"
-      },
-      "2": {
-        "source_ref": "Psalms 39:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 3,
-            "source_ref": "Psalms 39:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "e783eaa1f65e3f4a001635f523a9bc85db78b81306df9c87d3e3b35fce795bf2"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "e783eaa1f65e3f4a001635f523a9bc85db78b81306df9c87d3e3b35fce795bf2"
-      },
-      "3": {
-        "source_ref": "Psalms 39:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 4,
-            "source_ref": "Psalms 39:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "fee469ef7bbd9a38372449abde067c6918e771bf95f1c7df639424dfac5d9c2e"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "fee469ef7bbd9a38372449abde067c6918e771bf95f1c7df639424dfac5d9c2e"
-      },
-      "4": {
-        "source_ref": "Psalms 39:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 5,
-            "source_ref": "Psalms 39:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "4195dab5681629473394611c3edc213916ca3a23f52721255b5480530bba6db2"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "4195dab5681629473394611c3edc213916ca3a23f52721255b5480530bba6db2"
-      },
-      "5": {
-        "source_ref": "Psalms 39:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 6,
-            "source_ref": "Psalms 39:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "631788073240cd1ce76f7cfc5b6dd9462b32a84664ae8f22feadba8a57afd56f"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "631788073240cd1ce76f7cfc5b6dd9462b32a84664ae8f22feadba8a57afd56f"
-      },
-      "6": {
-        "source_ref": "Psalms 39:7 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 7,
-            "source_ref": "Psalms 39:7 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "b2c1cabff9d91fc37648fd997d4cfb3a6e5e81a8fc317b400fb3c228cbeab1d2"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "b2c1cabff9d91fc37648fd997d4cfb3a6e5e81a8fc317b400fb3c228cbeab1d2"
-      },
-      "7": {
-        "source_ref": "Psalms 39:8 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 8,
-            "source_ref": "Psalms 39:8 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "3e27eb1c720c660ae3c3f0c1b6348b2af6dc8c5c61755c48e3650dca20f12ede"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "3e27eb1c720c660ae3c3f0c1b6348b2af6dc8c5c61755c48e3650dca20f12ede"
-      },
-      "8": {
-        "source_ref": "Psalms 39:9 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 9,
-            "source_ref": "Psalms 39:9 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "71edb92a4c21c33fd03c3de4ff161013e3af52260b5948fac2ed764b5cf749e0"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "71edb92a4c21c33fd03c3de4ff161013e3af52260b5948fac2ed764b5cf749e0"
-      },
-      "9": {
-        "source_ref": "Psalms 39:10 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 10,
-            "source_ref": "Psalms 39:10 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "4d4f53587b7e4de86d15bfa6e8ff3fbdf8d163fb905f460f30d9c0a963f5936b"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "4d4f53587b7e4de86d15bfa6e8ff3fbdf8d163fb905f460f30d9c0a963f5936b"
-      },
-      "10": {
-        "source_ref": "Psalms 39:11 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 11,
-            "source_ref": "Psalms 39:11 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "33e6e5944b130708b1a96b7ef11cd7cda241f2780119086fdf12c45b8fc51290"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "33e6e5944b130708b1a96b7ef11cd7cda241f2780119086fdf12c45b8fc51290"
-      },
-      "11": {
-        "source_ref": "Psalms 39:12 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 12,
-            "source_ref": "Psalms 39:12 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "7534f83e80027423717ba22b4c4a6f23656a83e778bf49a84c1914b10e08f923"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "7534f83e80027423717ba22b4c4a6f23656a83e778bf49a84c1914b10e08f923"
-      },
-      "12": {
-        "source_ref": "Psalms 39:13 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 13,
-            "source_ref": "Psalms 39:13 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "c12234ec83a01788abb170d7732571fc4213e8bc5fc7a23c8223f600b291f685"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "c12234ec83a01788abb170d7732571fc4213e8bc5fc7a23c8223f600b291f685"
-      },
-      "13": {
-        "source_ref": "Psalms 39:14 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 39,
-            "verse": 14,
-            "source_ref": "Psalms 39:14 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "6ded6c8ad4559369e55635c60eacdbe953fa0170fb7e8198b850a17b14b6724e"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "6ded6c8ad4559369e55635c60eacdbe953fa0170fb7e8198b850a17b14b6724e"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 39,
+    "verse_count": 13,
+    "path": "translations/fluent/OT/psalms/Psalm_039.md",
+    "before_sha256": "51b7d238965deb70e4cd930c6b1dbbeb45402dda2453c580b8010895522bb48a",
+    "after_sha256": "5b50fdf7c127eec2ee90a8d7cb4f3923386899846c369480fae1f7bfc24b20ba",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_039.md",
+    "tsw_comparator_sha256": "ad11842d2dc9dbc42cdb43c5c777a6b0f870932697e6744bfb47b38a47760154"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-psalms-25-64/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 39:1",
+      "decision": "Retain personal name in title and deliberate restraint image.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 39:2",
+      "decision": "Keep the cost of silence and ambiguous good phrase.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 39:5",
+      "decision": "Retain concrete measure and apparent stability overturned.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 39:6",
+      "decision": "Keep shadow, breath, and uncertain inheritor.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 39:12",
+      "decision": "Retain vulnerable residency before God and ancestral connection.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 39:13",
+      "decision": "Keep the unsettling request for divine withdrawal and unresolved ending.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_039.md",
-    "blob_sha": "aa251e9ed0165ce8371efc397d5a2a1975b1ad0b"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

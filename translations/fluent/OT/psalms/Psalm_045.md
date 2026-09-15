@@ -4,149 +4,77 @@ testament: OT
 chapter: 45
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
-## For the Director of Music. According to Lilies. Of the Sons of Korah. A Maskil. A Love Song.
+## A song for the king and bride
 
 <p>
-v01: My heart overflows with a good word;
-  I address my song to the king.
-  My tongue is like the pen of a skillful scribe.
+v01: For the music leader. According to “Lilies.” Of the sons of Korah. A maskil. A song of love.
+My heart overflows with a good word; I address my verses to the king.
+My tongue is a skilled scribe’s pen.
+</p>
 
-v02: You are the most beautiful of mortals;
-  grace is poured upon your lips;
-  therefore God has blessed you forever.
+<p>
+v02: You are the most handsome of men; grace pours from your lips.
+That is why God has blessed you forever.
+v03: Strap your sword to your thigh, mighty warrior,
+in your splendor and majesty.
+v04: In your majesty ride on to victory
+for truth, humility, and righteousness;
+let your right hand teach you awesome deeds.
+v05: Your arrows are sharp; peoples fall beneath you—
+they strike the hearts of the king’s enemies.
+</p>
 
-v03: Strap your sword on your thigh, O mighty one,
-  in your splendor and majesty.
-
-v04: In your majesty, ride on victoriously
-  for the sake of truth and humility and righteousness;
-  let your right hand teach you awesome deeds.
-
-v05: Your arrows are sharp
-  in the heart of the king’s enemies;
-  peoples fall under you.
-
+<p>
 v06: Your throne, O God, is forever and ever;
-  the scepter of your kingdom is a scepter of equity.
-
-v07: You love righteousness and hate wickedness;
-  therefore God, your God, has anointed you
-  with the oil of joy beyond your companions.
-
-v08: All your robes are fragrant with myrrh and aloes and cassia;
-  from ivory palaces stringed instruments make you glad.
-
-v09: Daughters of kings are among your honored women;
-  at your right hand stands the queen in gold of Ophir.
+the scepter of your kingdom is a scepter of fairness.
+v07: You love righteousness and hate wickedness.
+So God, your God, has anointed you
+with the oil of joy above your companions.
+v08: All your garments smell of myrrh, aloes, and cassia;
+from ivory palaces string music brings you joy.
+v09: Kings’ daughters are among your honored women;
+at your right hand stands the queen in gold from Ophir.
 </p>
-## The Bride and Her People
 
 <p>
-v10: Hear, O daughter, and see, and incline your ear:
-  forget your people and your father’s house,
+v10: Listen, daughter; look and bend your ear.
+Forget your people and your father’s house.
+v11: Let the king desire your beauty;
+he is your lord, so bow before him.
+v12: The daughter of Tyre comes with a gift;
+the richest of the people seek your favor.
+</p>
 
-v11: and the king will desire your beauty.
-  Since he is your lord, bow down to him.
-
-v12: The daughter of Tyre will come with a gift;
-  the rich among the people will seek your favor.
-
-v13: All glorious is the princess within;
-  her clothing is interwoven with gold.
-
+<p>
+v13: The king’s daughter is all splendor within her chamber;
+her clothing is woven with gold.
 v14: In embroidered garments she is led to the king;
-  the young women, her companions, follow her—
-  they are brought to you.
-
-v15: With joy and gladness they are led along
-  as they enter the palace of the king.
+virgin companions follow her and are brought to you.
+v15: They are led in with joy and gladness;
+they enter the king’s palace.
 </p>
-## A Promise for the King
 
 <p>
-v16: In place of your fathers will be your sons;
-  you will make them princes in all the earth.
-
-v17: I will cause your name to be remembered in all generations;
-  therefore the peoples will praise you forever and ever.
+v16: Your sons will take the place of your fathers;
+you will appoint them princes throughout the land.
+v17: I will make your name remembered in every generation;
+so peoples will praise you forever and ever.
 </p>
 
 ## Notes
 
-v01: “overflows with a good word” — The psalm begins as crafted praise: public poetry offered as a gift, not flattery for hire.
+v01,06–07: The title presents a love song addressed to a king. “Your throne, O God” preserves a striking address; alternatives include “God is your throne” or a throne described as divine. The next verse says “God, your God.” The wording is left open to this tension rather than resolved by a doctrinal paraphrase.
 
-v04: “for the sake of truth and humility and righteousness” — Royal power is judged by moral purpose; victory is legitimate only when ordered toward truth, humility, and right-making.
-
-v06: “Your throne, O God” — The psalm uses exalted language for the king; later readers hear more than royal ceremony here, but the immediate claim is that the throne’s authority is grounded in God’s rule.
-
-v06: “scepter of equity” — The measure of kingship is justice: fair dealing, honest judgments, and protection of the vulnerable.
-
-v07: “God, your God, has anointed you” — The king is not divine by nature; he is appointed and empowered by God for a holy task.
-
-v08–09: “ivory palaces… queen… gold of Ophir” — Courtly splendor is not the point; it is a backdrop for covenant ideals and the public responsibilities of leadership.
-
-v10: “forget your people… father’s house” — Marriage here signals a new loyalty and identity; the bride’s primary allegiance shifts as she enters a new household.
-
-v11: “Since he is your lord, bow down to him” — This reflects ancient royal protocol and social hierarchy; in TSW we read it descriptively (what the court expects), not as a timeless mandate for marriage or gender relations.
-
-v16: “In place of your fathers… your sons” — The psalm blesses continuity and stability; leadership succession is pictured as a gift to the people.
-
-v17: “name… remembered… praise” — The closing aim is enduring public remembrance, not private romance: the reign is meant to become a long witness to righteous rule.
+v04,08–16: The relation of humility and righteousness in verse 4 is compressed; string music in verse 8 is a reading of a rare word. The court setting includes foreign gifts, the queen, a bride and her virgin companions. “Within her chamber” in verse 13 describes location, not an assertion about inner beauty. Verse 16 returns to masculine address and the king’s sons.
 
 ## Vocabulary
 
-v01: רָחַשׁ (raḥash) — to stir; to overflow; to bubble up
+v12: **Daughter of Tyre**: The city personified, representing its people or representatives.
 
-v01: דָּבָר (davar) — word; message; matter
-
-v01: עֵט (ʿet) — stylus; pen
-
-v02: יָפָה (yafah) — to be beautiful; fair
-
-v02: חֵן (ḥen) — favor; grace; charm
-
-v03: גִּבּוֹר (gibbor) — mighty one; warrior
-
-v04: עֲנָוָה (ʿanavah) — humility; gentleness
-
-v06: כִּסֵּא (kisse’) — throne
-
-v06: שֵׁבֶט (shevet) — scepter; staff; tribe (context)
-
-v06: מֵישָׁרִים (mesharim) — equity; uprightness; fairness
-
-v07: מָשַׁח (mashach) — to anoint
-
-v07: שֶׁמֶן (shemen) — oil
-
-v08: מוֹר (mor) — myrrh
-
-v08: אֲהָלוֹת (’ahālōt) — aloes (fragrant wood)
-
-v09: אוֹפִיר (’Ophir) — Ophir (region known for gold)
-
-v10: נָטָה (natah) — to incline; to turn toward
-
-v10: שָׁכַח (shakhaḥ) — to forget
-
-v13: כָּבוֹד (kavod) — glory; honor; weightiness
-
-v14: רָקַם (raqam) — to embroider; to weave with patterns
-
-v15: שִׂמְחָה (simḥah) — joy; gladness
-
-v17: זָכַר (zakar) — to remember; to call to mind
-
-v01: רָחַשׁ (raḥash)
-“To stir; to overflow; to bubble up.”
-
-v01: דָּבָר (davar)
-“Word; message; matter.”
-
-v02: חֵן (ḥen)
-“Favor; grace; charm.”
-
-v13: כָּבוֹד (kavod)
-“Glory; honor; weightiness.”
+v06: **Scepter**: A staff signifying royal authority; its fairness describes the character of rule.

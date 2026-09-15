@@ -2,237 +2,120 @@
   "book": "Psalms",
   "chapter": 41,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-25-64-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "54011f97552535dcc5b37389cb2321966f7d9771",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_041_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 41:1 (Hebrew; whole) + Psalms 41:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 1,
-            "source_ref": "Psalms 41:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a3709c84ffbe89a8cf1295028ec66554f059ffa134059cebdeca8bbc4f60575b"
-          },
-          {
-            "chapter": 41,
-            "verse": 2,
-            "source_ref": "Psalms 41:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "582107923e58be7a3bf0e28a820f516570101965fcd4b2b61413d7c2397976ed"
-          }
-        ],
-        "segment_mode": "whole+after_kjv_marker",
-        "sha256": "7b7d99ced8245b82b89d7a002160de906a734e2cdc27317a8a0ef688034a79fc"
-      },
-      "2": {
-        "source_ref": "Psalms 41:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 3,
-            "source_ref": "Psalms 41:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "3159f81ce7170875cb94596467a76c9c1541f33d11884e1049ea7ddad73c9591"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "3159f81ce7170875cb94596467a76c9c1541f33d11884e1049ea7ddad73c9591"
-      },
-      "3": {
-        "source_ref": "Psalms 41:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 4,
-            "source_ref": "Psalms 41:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "aeddcf227d387fdea23d87d7c720bdfb6fc6ae0828210ebdefe33e4a8ef678af"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "aeddcf227d387fdea23d87d7c720bdfb6fc6ae0828210ebdefe33e4a8ef678af"
-      },
-      "4": {
-        "source_ref": "Psalms 41:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 5,
-            "source_ref": "Psalms 41:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "e29bb45bbb432419ff1e35b960ff5aca16491c0edc9435eb889d65331ee71e48"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "e29bb45bbb432419ff1e35b960ff5aca16491c0edc9435eb889d65331ee71e48"
-      },
-      "5": {
-        "source_ref": "Psalms 41:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 6,
-            "source_ref": "Psalms 41:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "98c9ec05a077e47c5fb95294bb7f7be8aec2a4dfa14eb96bc853270685dfea52"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "98c9ec05a077e47c5fb95294bb7f7be8aec2a4dfa14eb96bc853270685dfea52"
-      },
-      "6": {
-        "source_ref": "Psalms 41:7 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 7,
-            "source_ref": "Psalms 41:7 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "6a6cfb73140f1f0adc49d0ba270e0cb8ce53bcd01413cff754137a4d1a2409c2"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "6a6cfb73140f1f0adc49d0ba270e0cb8ce53bcd01413cff754137a4d1a2409c2"
-      },
-      "7": {
-        "source_ref": "Psalms 41:8 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 8,
-            "source_ref": "Psalms 41:8 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "fe953865f7ac32e0b4b36d50c8779b6d2b3706aeadaa35840d26885e2ca8d722"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "fe953865f7ac32e0b4b36d50c8779b6d2b3706aeadaa35840d26885e2ca8d722"
-      },
-      "8": {
-        "source_ref": "Psalms 41:9 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 9,
-            "source_ref": "Psalms 41:9 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "4c0a7eee29c955de4581d1714488e67965cab94ce7334f406723d4781d77989d"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "4c0a7eee29c955de4581d1714488e67965cab94ce7334f406723d4781d77989d"
-      },
-      "9": {
-        "source_ref": "Psalms 41:10 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 10,
-            "source_ref": "Psalms 41:10 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "1921d67f6386237c8e4a1e720594d14e373d757d794ddc4239f9dc7af20f36e3"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "1921d67f6386237c8e4a1e720594d14e373d757d794ddc4239f9dc7af20f36e3"
-      },
-      "10": {
-        "source_ref": "Psalms 41:11 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 11,
-            "source_ref": "Psalms 41:11 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "64067a7f9c416c8eb738e30be078a8ee6031b30d9687d758a176286079c5bdc2"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "64067a7f9c416c8eb738e30be078a8ee6031b30d9687d758a176286079c5bdc2"
-      },
-      "11": {
-        "source_ref": "Psalms 41:12 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 12,
-            "source_ref": "Psalms 41:12 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "712cb4c4835cc4d956f7c422bb949100a1ff1d25e46d6d977ed96fd07fb7498f"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "712cb4c4835cc4d956f7c422bb949100a1ff1d25e46d6d977ed96fd07fb7498f"
-      },
-      "12": {
-        "source_ref": "Psalms 41:13 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 13,
-            "source_ref": "Psalms 41:13 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "43dbd64338138cb6c8062b410c96c005bd94529bf5bcc095a0fc222f25c7a7a0"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "43dbd64338138cb6c8062b410c96c005bd94529bf5bcc095a0fc222f25c7a7a0"
-      },
-      "13": {
-        "source_ref": "Psalms 41:14 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 41,
-            "verse": 14,
-            "source_ref": "Psalms 41:14 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "ad09818d32847a74b2f9152ca1c7968aa4266bcb15062653980f070938355ec8"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "ad09818d32847a74b2f9152ca1c7968aa4266bcb15062653980f070938355ec8"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 41,
+    "verse_count": 13,
+    "path": "translations/fluent/OT/psalms/Psalm_041.md",
+    "before_sha256": "5a063126f6048b0e58429133168ae832b0e572501437e274c66471a6788b76cf",
+    "after_sha256": "40267b603c76608713d8403df1991c2c6e3a6e656ab437279d53a0185e8d44f7",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_041.md",
+    "tsw_comparator_sha256": "05252f1c8a237f114e92ed9d71407f764e588f85daaa1a4336bc9dfe09cb9656"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-psalms-25-64/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 41:1",
+      "decision": "Preserve thoughtful care and reciprocal protection.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 41:2",
+      "decision": "Follow read blessed form and preserve shift into prayer.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 41:3",
+      "decision": "Retain the difficult bed-turning image and person shift for a note.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 41:8",
+      "decision": "Retain ambiguous destructive thing rather than naming a disease.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 41:9",
+      "decision": "Preserve shared food and the betrayal image.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 41:10",
+      "decision": "Keep retributive purpose rather than softening it to recovery alone.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 41:13",
+      "decision": "Retain the closing doxology and repeated amen.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_041.md",
-    "blob_sha": "ee2c9a88dd9d9fac1c9cf41d23b5cbbad7f44e29"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

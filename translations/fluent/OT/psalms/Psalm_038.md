@@ -4,103 +4,90 @@ testament: OT
 chapter: 38
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
+## A body weighed down
+
 <p>
-A psalm of David, for remembrance.
+v01: A psalm of David. For remembrance.
+LORD, do not rebuke me in your rage
+or discipline me in your fury.
+v02: Your arrows have sunk into me;
+your hand has come down upon me.
 </p>
 
 <p>
-v01: LORD, do not rebuke me in your anger,
-do not discipline me in your wrath.
-v02: For your arrows have sunk into me,
-and your hand has come down upon me.
-</p>
-
-<p>
-v03: There is no soundness in my flesh because of your indignation;
+v03: No part of my body is sound because of your indignation;
 there is no peace in my bones because of my sin.
-v04: For my iniquities have risen over my head;
-like a heavy burden, they are too heavy for me.
+v04: My wrongdoings have risen over my head;
+like a heavy load, they are too much for me.
 v05: My wounds stink and fester
-because of my foolishness.
-v06: I am bent and bowed down greatly;
-all day long I walk about in mourning.
-v07: For my loins are full of burning,
-and there is no soundness in my flesh.
+because of my folly.
+v06: I am bent and bowed very low;
+all day I walk about mourning.
+v07: My loins are full of burning;
+no part of my body is sound.
 v08: I am numb and utterly crushed;
-I roar because of the groaning of my heart.
+I roar from the turmoil of my heart.
 </p>
 
 <p>
-v09: Lord, all my longing is before you,
-and my groaning is not hidden from you.
-v10: My heart pounds; my strength has left me,
-and even the light of my eyes is gone from me.
-v11: My loved ones and my friends stand away from my affliction,
-and my close ones stand at a distance.
-v12: Those seeking my life lay snares,
-and those seeking my harm speak ruin;
-all day long they devise deceit.
+v09: Lord, all my longing lies before you;
+my sighing is not hidden from you.
+v10: My heart pounds; my strength has left me.
+Even the light of my eyes is gone.
 </p>
 
 <p>
-v13: Yet I am like one deaf, who does not hear,
-like one mute, who does not open his mouth.
-v14: I have become like one who does not hear,
-in whose mouth are no replies.
+v11: My loved ones and friends stand back from my affliction;
+my relatives keep their distance.
+v12: Those seeking my life set traps;
+those seeking my harm speak of ruin
+and devise deceit all day.
+</p>
+
+<p>
+v13: But I am like someone deaf, unable to hear,
+like someone speechless, whose mouth does not open.
+v14: I am like a person who hears nothing
+and has no argument to offer.
+</p>
+
+<p>
 v15: For I wait for you, LORD;
 you will answer, Lord my God.
-v16: For I said, “Let them not rejoice over me;
-when my foot slips, let them not exalt themselves over me.”
+v16: I said, “Do not let them rejoice over me,
+exalting themselves when my foot slips.”
 </p>
 
 <p>
-v17: For I am ready to fall,
-and my pain is always before me.
-v18: For I confess my iniquity;
-I am troubled because of my sin.
-v19: But my enemies are vigorous and strong,
-and many are people who hate me without cause.
-v20: People who repay evil for good accuse me
+v17: I am close to falling;
+my pain is always before me.
+v18: I confess my wrongdoing;
+my sin fills me with anxiety.
+v19: My enemies are vigorous and strong;
+those who hate me unjustly are many.
+v20: Those who repay good with evil oppose me
 because I pursue what is good.
 </p>
 
 <p>
-v21: Do not forsake me, LORD;
-my God, do not be far from me.
+v21: Do not forsake me, LORD.
+My God, do not stay far away.
 v22: Hurry to help me,
 Lord, my salvation.
 </p>
 
 ## Notes
 
-v01–03: The psalmist relates bodily anguish, divine indignation, and personal sin without offering a general explanation that every illness results from a particular sin. The prayer holds confession and suffering together before God.
+v01,03–07: “For remembrance” may mark a liturgical purpose. The speaker links personal wrongdoing with bodily suffering; the poem is this sufferer’s confession, not a diagnosis of every illness. The word rendered “burning” is uncertain and can suggest disgrace.
 
-v13–15: The psalmist’s silence before hostile speech is not resignation. It becomes an act of waiting for the LORD’s answer.
-
-v17: “Ready to fall” can evoke a physical limp or collapse as well as imminent disaster, fitting the psalm’s interwoven bodily and social distress.
+v19–20: “Vigorous” follows the Hebrew “living”; another reading gives enemies “without cause.” Verse 20 follows the traditional reading “my following what is good.”
 
 ## Vocabulary
 
-v01: **לְהַזְכִּיר — *lehazkîr***: “for remembrance.” This heading term frames the psalm as an appeal brought before God, not merely as private recollection.
-
-v05: **עָוֺן — *ʿāwōn***: “iniquity.” Here the word names guilt as a burden that has risen over the psalmist’s head and become too heavy to bear.
-
-v06: **אִוֶּלֶת — *ʾiwwelet***: “foolishness.” The term describes not simple lack of knowledge but culpable, destructive folly.
-
-v10: **תַּאֲוָה — *taʾăwâ***: “longing.” The psalmist’s deepest desire, alongside groaning, remains fully open before the Lord.
-
-v21: **שָׂטַן — *śāṭan***: “accuse” or “oppose.” Those who should answer good with good instead set themselves against the psalmist for pursuing what is good.
-
-v01: לְהַזְכִּיר (lehazkîr)
-“for remembrance.” This heading term frames the psalm as an appeal brought before God, not merely as private recollection.
-
-v04: עָוֺן (ʿāwōn)
-“iniquity.” Here the word names guilt as a burden that has risen over the psalmist’s head and become too heavy to bear.
-
-v05: אִוֶּלֶת (ʾiwwelet)
-“foolishness.” The term describes not simple lack of knowledge but culpable, destructive folly.
-
-v09: תַּאֲוָה (ta'avah)
-“Longing; desire.”
+v07: **Loins**: The lower trunk or waist region, a bodily center of strength and vulnerability.

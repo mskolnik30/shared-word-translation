@@ -4,157 +4,81 @@ testament: OT
 chapter: 40
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
-## For the Director of Music. Of David. A Psalm.
+## Waiting, rescue, and renewed distress
 
 <p>
-v01: I waited and waited for the LORD,
-  and the LORD leaned toward me
-  and heard my cry.
-
-v02: The LORD brought me up from the pit of roaring,
-  out of the mud and mire,
-  and set my feet on a rock,
-  making my steps secure.
-
-v03: The LORD put a new song in my mouth,
-  a song of praise to our God.
-  Many will see and fear,
-  and will trust in the LORD.
-
-v04: Happy is the one who makes the LORD their trust,
-  who does not turn to the proud,
-  nor to people who swerve into falsehood.
-
-v05: Many things you have done, O LORD my God—
-  your wonders and your purposes for us;
-  none can compare with you.
-  If I would declare and speak of them,
-  they are more than can be counted.
-
-v06: Sacrifice and offering you did not desire,
-  but you opened my ears.
-  Burnt offering and sin offering you did not require.
-
-v07: Then I said, “Look—I have come;
-  in the scroll of the book it is written of me.
-
-v08: I delight to do your will, O my God;
-  your instruction is within my heart.”
-
-v09: I have proclaimed good news of righteousness
-  in the great assembly;
-  look—I have not restrained my lips,
-  O LORD, you know.
-
-v10: I have not hidden your righteousness within my heart;
-  I have spoken of your faithfulness and your saving help.
-  I have not concealed your steadfast love and your truth
-  from the great assembly.
-
-v11: As for you, O LORD, do not withhold your compassion from me;
-  let your steadfast love and your truth continually keep me.
+v01: For the music leader. Of David. A psalm.
+I waited and waited for the LORD;
+he bent toward me and heard my cry.
+v02: He brought me up from a roaring pit, from clinging mud.
+He set my feet on a rock and made my steps secure.
+v03: He put a new song in my mouth, a song of praise to our God.
+Many will see and fear and trust in the LORD.
 </p>
-## Prayer for Help
 
 <p>
-v12: For troubles have surrounded me beyond number;
-  my iniquities have overtaken me, so that I cannot see;
-  they are more than the hairs of my head,
-  and my heart fails me.
+v04: Happy is the one who makes the LORD their trust,
+who does not turn to the arrogant or those straying after lies.
+v05: LORD my God, you have done so many wonders; your thoughts are for us.
+No one compares with you.
+If I tried to tell and recount them, they would be too many to number.
+</p>
 
-v13: Be pleased, O LORD, to deliver me;
-  O LORD, hurry to help me!
+<p>
+v06: You did not desire sacrifice and offering;
+you dug out ears for me.
+You did not ask for burnt offering or sin offering.
+v07: Then I said, “Here I am; I have come.
+In the scroll it is written about me.
+v08: I delight to do your will, my God;
+your instruction is deep within me.”
+</p>
 
-v14: Let those be put to shame and confounded together
-  who seek my life to destroy it.
-  Let those be turned back and brought to dishonor
-  who delight in my hurt.
+<p>
+v09: I have announced righteousness in the great assembly.
+I have not held my lips back, LORD; you know.
+v10: I have not hidden your righteousness in my heart.
+I have told of your faithfulness and salvation;
+I have not concealed your faithful love and truth from the great assembly.
+</p>
 
-v15: Let those be appalled because of their shame
-  who say to me, “Aha! Aha!”
+<p>
+v11: You, LORD, will not hold your compassion back from me;
+your faithful love and truth will always guard me.
+v12: Troubles beyond counting surround me.
+My wrongdoings have caught up with me, and I cannot see.
+They are more than the hairs on my head; my heart has failed me.
+</p>
 
-v16: But let everyone who seek you rejoice and be glad in you;
-  let people who love your salvation say continually,
-  “The LORD is great!”
+<p>
+v13: Be pleased to rescue me, LORD;
+LORD, hurry to help me.
+v14: Let those seeking to destroy my life be ashamed and humiliated together.
+Let those who delight in my harm retreat in disgrace.
+v15: Let those who say to me, “Aha! Aha!”
+be appalled at their own shame.
+</p>
 
-v17: Yet I am poor and needy;
-  yet the Lord takes thought for me.
-  You are my help and my deliverer;
-  O my God, do not delay!
+<p>
+v16: Let all who seek you rejoice and be glad in you.
+Let those who love your salvation always say, “Great is the LORD!”
+v17: But I am afflicted and needy; may the Lord think of me.
+You are my help and my rescuer.
+My God, do not delay.
 </p>
 
 ## Notes
 
-v01: “I waited and waited” — The doubled language stresses long endurance; trust is practiced over time, not proved in a moment.
+v06–07: The Hebrew says God “dug out ears,” an image of readiness to hear. The Greek rendering quoted in Hebrews 10 uses “body”; that later quotation is not substituted here. The scroll may speak about the petitioner or prescribe an obligation for the petitioner.
 
-v02: “pit of roaring… mud and mire” — The imagery is both danger and stuckness: chaos below and no footing beneath; deliverance is stabilization.
-
-v03: “a new song… Many will see… and trust” — Praise becomes testimony; personal rescue is meant to widen communal trust.
-
-v04: “makes the LORD their trust” — Trust is not a mood but a chosen center of gravity; the psalm contrasts trust with social pressure and deception.
-
-v06: “you opened my ears” — God desires responsive obedience over ritual performance; the core offering is a listening life.
-
-v08: “your instruction is within my heart” — Not mere external compliance; God’s teaching becomes internal orientation and desire.
-
-v09: “proclaimed good news of righteousness” — Righteousness is not private; the psalmist goes public with God’s right-making action.
-
-v10: “steadfast love and… truth” — Covenant language: God’s loyal love and reliability are the content of proclamation.
-
-v12: “my iniquities have overtaken me” — The trouble is not only enemies “out there” but sin “within”; the psalm holds moral honesty with urgent prayer.
-
-v13: “hurry to help me” — Boldness in prayer is permitted; need does not require polished speech.
-
-v16: “love your salvation… ‘The LORD is great!’” — The community of seekers is named by joy and praise, not by triumphalism.
-
-v17: “poor and needy… the Lord takes thought for me” — The closing posture is humility and confidence: the Lord’s attention is the psalmist’s security, even before circumstances change.
+v11,17: Verse 11 can be read as confidence that God will not withhold compassion or as a request. The Lord’s attention in verse 17 likewise permits either assurance or petition.
 
 ## Vocabulary
 
-v01: קָוָה (qavah) — to wait for; to hope in
-
-v01: נָטָה (natah) — to bend/lean toward; to incline
-
-v02: שָׁאוֹן (sha’on) — roaring; tumult; crashing noise
-
-v02: טִיט (ṭit) — mud; mire; clay
-
-v02: צוּר (tsur) — rock; cliff; firm rock
-
-v03: שִׁיר (shir) — song
-
-v03: בָּטַח (bataḥ) — to trust; to rely on
-
-v04: אַשְׁרֵי (’ashrei) — happy; blessed; flourishing
-
-v06: זֶבַח (zevaḥ) — sacrifice
-
-v06: אָזַן (’azan) — ear; to listen; to give ear
-
-v08: תּוֹרָה (torah) — instruction; teaching
-
-v09: בָּשַׂר (basar) — to announce good news; to proclaim
-
-v10: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
-
-v10: אֱמֶת (’emet) — truth; reliability; faithfulness
-
-v12: עָוֹן (ʿavon) — iniquity; guilt; twisted wrongdoing
-
-v13: נָצַל (natsal) — to deliver; to rescue
-
-v17: אֶבְיוֹן (’evyon) — poor; needy; vulnerable
-
-v03: בָּטַח (bataḥ)
-“To trust; to rely on.”
-
-v06: זֶבַח (zevaḥ)
-“Sacrifice.”
-
-v08: תּוֹרָה (torah)
-“Instruction; teaching.”
-
-v09: בָּשַׂר (basar)
-“To announce good news; to proclaim.”
+v02: **Roaring pit**: A pit of tumult or destruction, paired with unstable mud and contrasted with firm rock.

@@ -4,74 +4,59 @@ testament: OT
 chapter: 29
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
+
+## The voice over the waters
 
 <p>
 v01: A psalm of David.
-
-Ascribe to the LORD, you sons of gods;
-ascribe to the LORD glory and strength.
-v02: Ascribe to the LORD the glory of his name;
-bow down to the LORD in holy splendor.
+Give the LORD his due, you sons of gods;
+give the LORD glory and strength.
+v02: Give the LORD the glory of his name;
+bow before the LORD in holy splendor.
 </p>
 
 <p>
-v03: The voice of the LORD is over the waters;
-the God of glory thunders;
-the LORD is over mighty waters.
-v04: The voice of the LORD is in power;
-the voice of the LORD is in majesty.
-v05: The voice of the LORD breaks cedars;
-the LORD breaks the cedars of Lebanon.
-v06: He makes them skip like a calf—
-Lebanon and Sirion like a young wild ox.
-v07: The voice of the LORD carves out flames of fire.
-v08: The voice of the LORD makes the wilderness writhe;
+v03: The LORD’s voice is over the waters;
+the God of glory thunders,
+the LORD over mighty waters.
+v04: The LORD’s voice is powerful;
+the LORD’s voice is majestic.
+</p>
+
+<p>
+v05: The LORD’s voice breaks cedars;
+the LORD shatters the cedars of Lebanon.
+v06: He makes Lebanon skip like a calf,
+Sirion like a young wild ox.
+</p>
+
+<p>
+v07: The LORD’s voice cuts out flames of fire.
+v08: The LORD’s voice makes the wilderness writhe;
 the LORD makes the wilderness of Kadesh writhe.
-v09: The voice of the LORD brings does to birth
-and strips forests bare;
-and in his temple, all say, “Glory!”
+v09: The LORD’s voice brings deer into labor
+and strips the forests bare.
+In his temple everything cries, “Glory!”
 </p>
 
 <p>
 v10: The LORD sat enthroned over the flood;
-the LORD sits enthroned as king forever.
+the LORD sits as king forever.
 v11: May the LORD give strength to his people;
 may the LORD bless his people with peace.
 </p>
 
 ## Notes
 
-v01: “Sons of gods” is a literal rendering of a phrase that may refer to heavenly beings. The psalm opens by summoning even the divine council to acknowledge the LORD’s incomparable glory and strength.
+v01–02: “Sons of gods” addresses heavenly beings. “Holy splendor” may also suggest holy adornment; the precise setting of the summons remains open.
 
-v02: “Holy splendor” can also be understood as “the splendor of holiness.” The phrase holds together the LORD’s holiness and the fitting beauty of worship offered to him.
-
-v03–09: The repeated “voice of the LORD” evokes a thunderstorm moving from the waters and Lebanon toward the wilderness of Kadesh. The storm imagery declares the LORD’s sovereign power over creation.
-
-v09: The final clause may refer to all within the LORD’s temple, or more broadly to everything in it. The response to the LORD’s terrifying voice is the single cry, “Glory!”
-
-v10: “The flood” uses a word otherwise associated with the great flood of Genesis. The LORD’s kingship is set over the most overwhelming waters and endures forever.
-
-v01: “Sons of gods” is a literal rendering of a phrase that may refer to heavenly beings.
+v06,09: Sirion is a name for Mount Hermon. Verse 9 can be understood as the voice bringing deer into labor; an alternative interpretation has it twisting oaks. The forest is stripped in either reading.
 
 ## Vocabulary
 
-v01: **בְּנֵי אֵלִים — *bene ʾelim***: “sons of gods.” This expression places the LORD above all heavenly powers summoned to ascribe glory to him.
-
-v03: **קוֹל — *qol***: “voice.” Repeated seven times in vv. 3–9, the LORD’s voice is heard in the thunderstorm and portrayed as active throughout creation.
-
-v03: **כָּבוֹד — *kavod***: “glory.” The word conveys weight, splendor, and manifest honor. The God of glory thunders, and all in his temple answer, “Glory!”
-
-v10: **מַבּוּל — *mabbul***: “flood.” This distinctive term recalls the cosmic waters of the flood narrative, emphasizing that the LORD reigns even over chaos.
-
-v10: מַבּוּל (mabbul)
-“flood.” This distinctive term recalls the cosmic waters of the flood narrative, with a sense of that the LORD reigns even over chaos.
-
-v01: בְּנֵי אֵלִים (bene elim)
-“Sons of gods/divine beings.” A plural expression for members of the heavenly assembly.
-
-v03: קוֹל (qol)
-“Voice.” Repeated seven times in vv. 3–9 and associated with the storm imagery.
-
-v03: כָּבוֹד (kavod)
-“glory.” The word conveys weight, splendor, and manifest honor. The God of glory thunders, and all in his temple answer, “Glory!”
+v10: **Flood — mabbul**: The same distinctive flood word used in Genesis 6–11. The king’s rule extends over overwhelming waters.

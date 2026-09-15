@@ -4,57 +4,69 @@ testament: OT
 chapter: 62
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
+## Silence, trust, and strength
+
 <p>
-For the director, according to Jeduthun. A psalm of David.
+v01: For the music leader. According to Jeduthun. A psalm of David.
+For God alone I wait in silence;
+my rescue comes from him.
+v02: He alone is my rock and my rescue,
+my stronghold; I will not be greatly shaken.
 </p>
 
 <p>
-v01: Only in God is my soul at rest;
-from him is my salvation.
-v02: Only he is my rock and my salvation,
-my fortress; I will not be greatly shaken.
-v03: How long will all of you attack a man
-to batter him,
-a leaning wall, a tottering fence?
-v04: Only from his exaltation they have counseled to thrust him down;
-they delight in falsehood.
-With their mouth they bless,
-but inwardly they curse. Selah
-v05: Only in God, O my soul, wait in silence,
-for my hope is from him.
-v06: Only he is my rock and my salvation,
-my fortress; I will not be shaken.
-v07: On God rests my salvation and my glory;
-my mighty rock, my refuge is God.
-v08: Trust in him at all times, O people;
-pour out your heart before him;
-God is a refuge for us. Selah
-v09: Surely men of low degree are vanity,
-and men of high degree are a lie;
-in the balances they go up;
-together they are lighter than a breath.
-v10: Trust not in oppression,
-and do not put vain hope in robbery;
-if riches increase,
-do not set your heart upon them.
-v11: One thing God has spoken,
-two things I have heard:
-that power belongs to God,
-v12: and to you, O Lord, belongs steadfast love,
-for you will repay everyone
-according to their work.
+v03: How long will you all attack one man,
+trying to murder him
+as though he were a leaning wall, a fence about to fall?
+v04: They plot only to topple him from his high place.
+They delight in lies;
+with their mouths they bless, but inwardly they curse. Selah.
+</p>
+
+<p>
+v05: Wait in silence for God alone, my soul;
+my hope comes from him.
+v06: He alone is my rock and my rescue,
+my stronghold; I will not be shaken.
+</p>
+
+<p>
+v07: My rescue and my honor rest on God;
+my mighty rock, my refuge, is in God.
+v08: Trust him at all times, you people;
+pour out your hearts before him.
+God is a refuge for us. Selah.
+</p>
+
+<p>
+v09: Ordinary people are a breath;
+the powerful are a lie.
+Put them together on the scales and they rise—
+lighter than a breath.
+v10: Do not trust in extortion
+or put empty hopes in stolen goods.
+If wealth increases, do not set your heart on it.
+</p>
+
+<p>
+v11: God has spoken once; twice I have heard this:
+strength belongs to God,
+v12: and faithful love belongs to you, Lord.
+You repay each person according to what they do.
 </p>
 
 ## Notes
 
+v02–06: The first refrain says “not greatly shaken”; the second omits “greatly.” The intervening picture of assault on one man is difficult but retains the contrast between many attackers and a fragile target.
 
+v09,11–12: The paired descriptions of humanity are understood as ordinary and prominent people. The one-and-two saying introduces strength and faithful love together, then the repayment of deeds.
 
 ## Vocabulary
 
-v01: אֱלֹהִים (elohim)
-“God.” The common Hebrew designation for God.
-
-v12: חֶסֶד (chesed)
-“Steadfast love; covenant loyalty.” Reliable love expressed in faithful action.
+v01,05: **Silence — dumiyyah**: Still waiting directed toward God. Verse 5 turns the opening declaration into a command to the self.

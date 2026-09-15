@@ -4,104 +4,84 @@ testament: OT
 chapter: 34
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-25-64-biblical-fluency-2026-09-15
 ---
 
-<p>
-Of David, when he changed his behavior before Abimelech, who drove him away, and he went.
-</p>
+## Taste and see
 
 <p>
-v01: I will bless the LORD at all times;
-his praise will continually be in my mouth.
-v02: My whole being will boast in the LORD;
-the humble will hear and rejoice.
-v03: Magnify the LORD with me,
-and let us exalt his name together.
+v01: Of David, when he changed his behavior before Abimelech, who drove him away, and he left.
+I will bless the LORD at all times; his praise will always be in my mouth.
+v02: I will boast in the LORD;
+let the humble hear and be glad.
+v03: Magnify the LORD with me;
+let us lift his name high together.
 </p>
 
 <p>
 v04: I sought the LORD, and he answered me;
-he delivered me from all my fears.
-v05: They looked to him and were radiant,
-and their faces will not be ashamed.
-v06: This poor one cried, and the LORD heard;
+he rescued me from everything I feared.
+v05: Those who look to him shine with joy;
+their faces need never be ashamed.
+v06: This afflicted person cried out, and the LORD heard;
 he saved him from all his troubles.
-v07: The angel of the LORD encamps around people who fear him,
+v07: The LORD’s messenger camps around those who revere him
 and rescues them.
 </p>
 
 <p>
-v08: Taste and see that the LORD is good;
-blessed is the one who takes refuge in him.
-v09: Fear the LORD, you his holy ones,
-for people who fear him have no lack.
-v10: Young lions suffer want and hunger,
-but people who seek the LORD lack no good thing.
+v08: Taste and see that the LORD is good.
+Happy is the one who takes refuge in him.
+v09: Revere the LORD, you his holy ones;
+those who revere him lack nothing.
+v10: Young lions go hungry and lack food,
+but those who seek the LORD will lack no good thing.
 </p>
 
 <p>
 v11: Come, children, listen to me;
-I will teach you the fear of the LORD.
-v12: Who is the person who desires life,
-who loves days in order to see good?
+I will teach you reverence for the LORD.
+v12: Who desires life
+and loves to see good days?
 v13: Guard your tongue from evil
-and your lips from speaking deceit.
-v14: Turn away from evil and do good;
+and your lips from deceitful speech.
+v14: Turn from evil and do good;
 seek peace and pursue it.
 </p>
 
 <p>
-v15: The eyes of the LORD are toward the righteous,
-and his ears toward their cry.
-v16: The face of the LORD is against people who do evil,
-to cut off the memory of them from the earth.
+v15: The LORD’s eyes are toward the righteous,
+his ears toward their cry for help.
+v16: The LORD’s face is against evildoers,
+to erase their memory from the earth.
 v17: They cry out, and the LORD hears;
-from all their troubles he delivers them.
-v18: The LORD is near to the brokenhearted,
-and he saves those crushed in spirit.
+he rescues them from all their troubles.
+v18: The LORD is near to the brokenhearted
+and saves those whose spirits are crushed.
 </p>
 
 <p>
-v19: Many are the troubles of the righteous,
-but the LORD delivers him from them all.
-v20: He guards all his bones;
+v19: The righteous face many troubles,
+but the LORD rescues them from them all.
+v20: He guards all their bones;
 not one of them is broken.
-v21: Evil will put the wicked to death,
-and people who hate the righteous will be held guilty.
-v22: The LORD redeems the life of his servants,
-and none of people who take refuge in him will be held guilty.
+v21: Evil will kill the wicked;
+those who hate the righteous will be held guilty.
+v22: The LORD redeems the lives of his servants;
+none who take refuge in him will be held guilty.
 </p>
 
 ## Notes
 
-v05: “They looked to him” has no explicit subject in Hebrew. It may refer broadly to those who, like the psalmist, turn to the LORD in need.
+v01: The title names Abimelech. The comparable story in 1 Samuel 21 names Achish; the title is not silently changed to match it. The poem follows an alphabetic pattern with an additional closing line.
 
-v07: “The angel of the LORD” presents the LORD’s protection in personal, encircling imagery. The verse does not explain the precise identity of this messenger.
-
-v19–20: The promise of deliverance does not deny the righteous person’s many troubles. The language of unbroken bones intensifies the claim of God’s preserving care.
-
-v21–22: The same Hebrew root associated with guilt closes both verses: those who hate the righteous incur guilt, while those who take refuge in the LORD are not held guilty.
+v05,19–20: Verse 5 can be heard as a statement or an invitation to look. The later promise of rescue stands alongside the explicit admission that the righteous have many troubles.
 
 ## Vocabulary
 
-v05: **דָּרַשׁ — *darash***: “I sought.” Here seeking the LORD is an active turning toward God for answer and deliverance.
+v07: **Messenger — malʾakh**: The word also translated “angel.” Here the LORD’s messenger forms a protective camp.
 
-v08: **חָנָה — *chanah***: “encamps.” The verb evokes a military camp set around those who fear the LORD, portraying protective presence.
-
-v09: **חָסָה — *chasah***: “takes refuge.” This recurring psalm-language describes entrusting oneself to the LORD for shelter and safety.
-
-v12: **יִרְאָה — *yirah***: “fear.” The fear of the LORD is taught as a life-shaping reverence expressed through speech, conduct, and the pursuit of peace.
-
-v19: **דַּכָּא — *dakka***: “crushed.” Paired with the brokenhearted, it names those inwardly crushed or brought low; the LORD is near to them.
-
-v04: דָּרַשׁ (darash)
-“I sought.” Here seeking the LORD is an active turning toward God for answer and deliverance.
-
-v07: חָנָה (chanah)
-“encamps.” The verb evokes a military camp set around those who fear the LORD, describing protective presence.
-
-v08: חָסָה (chasah)
-“takes refuge.” This recurring psalm-language describes entrusting oneself to the LORD for shelter and safety.
-
-v11: יִרְאָה (yirah)
-“fear.” The fear of the LORD is taught as a life-shaping reverence expressed through speech, conduct, and the pursuit of peace.
+v08: **Taste and see**: An invitation to encounter goodness, expressed through the bodily act of tasting.

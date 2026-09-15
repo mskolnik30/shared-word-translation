@@ -2,110 +2,95 @@
   "book": "Psalms",
   "chapter": 43,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-25-64-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "54011f97552535dcc5b37389cb2321966f7d9771",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_043_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 43:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 43,
-            "verse": 1,
-            "source_ref": "Psalms 43:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "c10fc1e261b50eb34300fd038465bb645e199990e6c900e0e2e36cda71469b0a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c10fc1e261b50eb34300fd038465bb645e199990e6c900e0e2e36cda71469b0a"
-      },
-      "2": {
-        "source_ref": "Psalms 43:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 43,
-            "verse": 2,
-            "source_ref": "Psalms 43:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "b763213a81a460c0e68159b4ce580053809e157a4dad7ca3d24b480e06252152"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b763213a81a460c0e68159b4ce580053809e157a4dad7ca3d24b480e06252152"
-      },
-      "3": {
-        "source_ref": "Psalms 43:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 43,
-            "verse": 3,
-            "source_ref": "Psalms 43:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "388ba2ee26b43713111adf6f856c9479850585a9628a507370dafdcc966e269c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "388ba2ee26b43713111adf6f856c9479850585a9628a507370dafdcc966e269c"
-      },
-      "4": {
-        "source_ref": "Psalms 43:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 43,
-            "verse": 4,
-            "source_ref": "Psalms 43:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "ebac47e4b93818c48a55fdcd828b2fbfe2ad69b52fd1fb848931db3d1e22e7da"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ebac47e4b93818c48a55fdcd828b2fbfe2ad69b52fd1fb848931db3d1e22e7da"
-      },
-      "5": {
-        "source_ref": "Psalms 43:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 43,
-            "verse": 5,
-            "source_ref": "Psalms 43:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "d4b9aa08bfd7eb6b0d1dab717aa7d47afa6e6ee06f82101f2bd90d77cf86a4b1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d4b9aa08bfd7eb6b0d1dab717aa7d47afa6e6ee06f82101f2bd90d77cf86a4b1"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 43,
+    "verse_count": 5,
+    "path": "translations/fluent/OT/psalms/Psalm_043.md",
+    "before_sha256": "cce688e010204486ee9c84cdbcd6f3a828c66f6a597ba19836bcbbd27077395a",
+    "after_sha256": "10faf5e12e3a428b290fac162948803f4b4c410751c19c59dc294e97317cc02e",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_043.md",
+    "tsw_comparator_sha256": "17344e97706e938197eaf273335e8efee6e1b14a3a82e0ec75f248e369083171"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-psalms-25-64/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 43:1",
+      "decision": "Preserve legal appeal and collective hostility.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 43:5",
+      "decision": "Repeat the shared refrain exactly; render salvation of my face as my saving help, explaining the bodily image in a note.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_043.md",
-    "blob_sha": "0e055b1eb55f21d689a2fbe1dec84d115262779c"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

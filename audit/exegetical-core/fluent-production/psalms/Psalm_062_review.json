@@ -2,222 +2,130 @@
   "book": "Psalms",
   "chapter": 62,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-25-64-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "54011f97552535dcc5b37389cb2321966f7d9771",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_062_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 62:1 (Hebrew; whole) + Psalms 62:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 1,
-            "source_ref": "Psalms 62:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e8d2b8e4b55c182745c0c914438bee6338d4f9e19f922d2d73df8685d9211744"
-          },
-          {
-            "chapter": 62,
-            "verse": 2,
-            "source_ref": "Psalms 62:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "4e0adb8fae2f79ea56868ecbe0865f89db9e0525f9f9d56aa15fc8d1953773ef"
-          }
-        ],
-        "segment_mode": "whole+after_kjv_marker",
-        "sha256": "0ff3a13de9b261d44b1c5b83ff1106f49fceb248ba473b44af2dfdc53255d46f"
-      },
-      "2": {
-        "source_ref": "Psalms 62:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 3,
-            "source_ref": "Psalms 62:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "95c29c49e3d6764f26ea8a618cd21eee6dfb3e6f023163c296c34bc38a0f5ce4"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "95c29c49e3d6764f26ea8a618cd21eee6dfb3e6f023163c296c34bc38a0f5ce4"
-      },
-      "3": {
-        "source_ref": "Psalms 62:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 4,
-            "source_ref": "Psalms 62:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "834124767f9cc06e4383c2f10687bfea05d39bb135764f3af4739164c8338d69"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "834124767f9cc06e4383c2f10687bfea05d39bb135764f3af4739164c8338d69"
-      },
-      "4": {
-        "source_ref": "Psalms 62:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 5,
-            "source_ref": "Psalms 62:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "817b69b898045df3d35f63d1be8d46f3ff49e7f655b0ae632c63dde9989fb034"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "817b69b898045df3d35f63d1be8d46f3ff49e7f655b0ae632c63dde9989fb034"
-      },
-      "5": {
-        "source_ref": "Psalms 62:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 6,
-            "source_ref": "Psalms 62:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "16d053e7490ad9ed1c80d6eac620a8bf3378a572af88bc71ed1fab78c6139c38"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "16d053e7490ad9ed1c80d6eac620a8bf3378a572af88bc71ed1fab78c6139c38"
-      },
-      "6": {
-        "source_ref": "Psalms 62:7 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 7,
-            "source_ref": "Psalms 62:7 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "2b8e8f0971a0f37538b695ce359c8f85663aacc7a4f5870052626100e3e2a955"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "2b8e8f0971a0f37538b695ce359c8f85663aacc7a4f5870052626100e3e2a955"
-      },
-      "7": {
-        "source_ref": "Psalms 62:8 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 8,
-            "source_ref": "Psalms 62:8 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "9f3cecaa89e6f179c3d4ef20909ce8902c662cfeccded999a64c4ecf54095867"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "9f3cecaa89e6f179c3d4ef20909ce8902c662cfeccded999a64c4ecf54095867"
-      },
-      "8": {
-        "source_ref": "Psalms 62:9 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 9,
-            "source_ref": "Psalms 62:9 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "fbc71f13245f4b43353db6f31f7ce8c9179d7a8bcb4cd2c5ee2ff6860e12f529"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "fbc71f13245f4b43353db6f31f7ce8c9179d7a8bcb4cd2c5ee2ff6860e12f529"
-      },
-      "9": {
-        "source_ref": "Psalms 62:10 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 10,
-            "source_ref": "Psalms 62:10 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "ac16e9a1ace5a96954cbcc0c598d07306d4c7b29f668279bec4036c597af3281"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "ac16e9a1ace5a96954cbcc0c598d07306d4c7b29f668279bec4036c597af3281"
-      },
-      "10": {
-        "source_ref": "Psalms 62:11 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 11,
-            "source_ref": "Psalms 62:11 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "f2785f64af49f5024dcc071573ab9b490d688e9209425229bd41392430566ff9"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "f2785f64af49f5024dcc071573ab9b490d688e9209425229bd41392430566ff9"
-      },
-      "11": {
-        "source_ref": "Psalms 62:12 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 12,
-            "source_ref": "Psalms 62:12 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "16f5de6fb843b81daf5f7519cffbac74d0f921056e75fc688adebe1854a4299f"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "16f5de6fb843b81daf5f7519cffbac74d0f921056e75fc688adebe1854a4299f"
-      },
-      "12": {
-        "source_ref": "Psalms 62:13 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 62,
-            "verse": 13,
-            "source_ref": "Psalms 62:13 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "7bf39ade8c2a3ebfdecebf4911a49740d70a5f96468c5c384adeee8d29997bbd"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "7bf39ade8c2a3ebfdecebf4911a49740d70a5f96468c5c384adeee8d29997bbd"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 62,
+    "verse_count": 12,
+    "path": "translations/fluent/OT/psalms/Psalm_062.md",
+    "before_sha256": "570df9cbeae8af135f4f67a5b239528cc71834fc593ce0abebe9d49eeedb1201",
+    "after_sha256": "fc2b97fb0a9831dd8d3aacbcdd92ea02393580ed0c1cd008ad4a64ae83bae20f",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_062.md",
+    "tsw_comparator_sha256": "1cb4eea00f5df32c12ac4013d2c2c827fd484d4b08b104937d7fb0a5115416c4"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-psalms-25-64/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 51, 52, 54, and 60 bind two separate title records plus Hebrew verse 3 to public verse 1; following labels are offset by two. Psalms 30, 31, 34, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 642 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 62:1",
+      "decision": "Title preserved; silence and exclusive focus carried in first refrain.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 62:2",
+      "decision": "Keep greatly, absent in later refrain, to preserve progression.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 62:3",
+      "decision": "Keep vulnerable singular against collective attackers; difficult murder verb active per pinned pointing.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 62:4",
+      "decision": "Preserve social elevation and outer/inner contrast, normalize singular mouth to plural people.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 62:5",
+      "decision": "Self-command rather than identical statement, hope versus rescue.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 62:6",
+      "decision": "Repeat refrain without greatly, retain real difference from verse 2.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 62:9",
+      "decision": "Social distinction beney adam/ish contextual; all together inadequate, not class contempt.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 62:11",
+      "decision": "Keep numeric saying and clause continuing into faithful love.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 62:12",
+      "decision": "Direct-address shift and deeds-based repayment without doctrinal expansion.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_062.md",
-    "blob_sha": "170ded2337c14df299ef34b4679d004f6ac15275"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }
