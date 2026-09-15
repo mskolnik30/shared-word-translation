@@ -4,221 +4,142 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezra-1-10-biblical-fluency-2026-09-15
 ---
 
-## Those Who Returned from Exile
+## Those who returned
 
 <p>
-v01: These are the people of the province who went up from the captivity of the exiles whom Nebuchadnezzar king of Babylon had carried away to Babylon. They returned to Jerusalem and Judah, each to his own city.
-
-v02: They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
-
-The number of the men of the people of Israel:
+v01: These are the people of the province who came up from captivity. Nebuchadnezzar king of Babylon had exiled them to Babylon; now they returned to Jerusalem and Judah, each to his own town.
+v02: They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. The men of the people of Israel were counted as follows:
 </p>
 
-## The People of Israel
-
 <p>
-v03: the descendants of Parosh, two thousand one hundred seventy-two;
-
-v04: the descendants of Shephatiah, three hundred seventy-two;
-
-v05: the descendants of Arah, seven hundred seventy-five;
-
-v06: the descendants of Pahath-Moab, from the descendants of Jeshua and Joab, two thousand eight hundred twelve;
-
-v07: the descendants of Elam, one thousand two hundred fifty-four;
-
-v08: the descendants of Zattu, nine hundred forty-five;
-
-v09: the descendants of Zaccai, seven hundred sixty;
-
-v10: the descendants of Bani, six hundred forty-two;
-
-v11: the descendants of Bebai, six hundred twenty-three;
-
-v12: the descendants of Azgad, one thousand two hundred twenty-two;
-
-v13: the descendants of Adonikam, six hundred sixty-six;
-
-v14: the descendants of Bigvai, two thousand fifty-six;
-
-v15: the descendants of Adin, four hundred fifty-four;
-
-v16: the descendants of Ater, through Hezekiah, ninety-eight;
-
-v17: the descendants of Bezai, three hundred twenty-three;
-
-v18: the descendants of Jorah, one hundred twelve;
-
-v19: the descendants of Hashum, two hundred twenty-three;
-
-v20: the descendants of Gibbar, ninety-five;
-
-v21: the people of Bethlehem, one hundred twenty-three;
-
-v22: the men of Netophah, fifty-six;
-
-v23: the men of Anathoth, one hundred twenty-eight;
-
-v24: the descendants of Azmaveth, forty-two;
-
-v25: the descendants of Kiriath-Arim, Chephirah, and Beeroth, seven hundred forty-three;
-
-v26: the descendants of Ramah and Geba, six hundred twenty-one;
-
-v27: the men of Michmas, one hundred twenty-two;
-
-v28: the men of Bethel and Ai, two hundred twenty-three;
-
-v29: the descendants of Nebo, fifty-two;
-
-v30: the descendants of Magbish, one hundred fifty-six;
-
-v31: the descendants of the other Elam, one thousand two hundred fifty-four;
-
-v32: the descendants of Harim, three hundred twenty;
-
-v33: the descendants of Lod, Hadid, and Ono, seven hundred twenty-five;
-
-v34: the descendants of Jericho, three hundred forty-five;
-
-v35: the descendants of Senaah, three thousand six hundred thirty.
+v03: The family of Parosh: 2,172.
+v04: The family of Shephatiah: 372.
+v05: The family of Arah: 775.
+v06: The family of Pahath-moab, from the families of Jeshua and Joab: 2,812.
+v07: The family of Elam: 1,254.
+v08: The family of Zattu: 945.
+v09: The family of Zaccai: 760.
+v10: The family of Bani: 642.
+v11: The family of Bebai: 623.
+v12: The family of Azgad: 1,222.
+v13: The family of Adonikam: 666.
+v14: The family of Bigvai: 2,056.
+v15: The family of Adin: 454.
+v16: The family of Ater, of Hezekiah: 98.
+v17: The family of Bezai: 323.
+v18: The family of Jorah: 112.
+v19: The family of Hashum: 223.
+v20: The family of Gibbar: 95.
 </p>
 
-## The Priests and Levites
-
 <p>
-v36: The priests: the descendants of Jedaiah, of the house of Jeshua, nine hundred seventy-three;
-
-v37: the descendants of Immer, one thousand fifty-two;
-
-v38: the descendants of Pashhur, one thousand two hundred forty-seven;
-
-v39: the descendants of Harim, one thousand seventeen.
-
-v40: The Levites: the descendants of Jeshua and Kadmiel, of the descendants of Hodaviah, seventy-four.
-
-v41: The singers: the descendants of Asaph, one hundred twenty-eight.
-
-v42: The descendants of the gatekeepers: the descendants of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, one hundred thirty-nine in all.
+v21: The people of Bethlehem: 123.
+v22: The men of Netophah: 56.
+v23: The men of Anathoth: 128.
+v24: The people of Azmaveth: 42.
+v25: The people of Kiriath-arim, Chephirah, and Beeroth: 743.
+v26: The people of Ramah and Geba: 621.
+v27: The men of Michmas: 122.
+v28: The men of Bethel and Ai: 223.
+v29: The people of Nebo: 52.
+v30: The people of Magbish: 156.
+v31: The family of the other Elam: 1,254.
+v32: The family of Harim: 320.
+v33: The people of Lod, Hadid, and Ono: 725.
+v34: The people of Jericho: 345.
+v35: The people of Senaah: 3,630.
 </p>
 
-## The Temple Servants
+## Priests and temple workers
 
 <p>
-v43: The temple servants: the descendants of Ziha, Hasupha, and Tabbaoth;
-
-v44: the descendants of Keros, Siaha, and Padon;
-
-v45: the descendants of Lebanah, Hagabah, and Akkub;
-
-v46: the descendants of Hagab, Shamlai, and Hanan;
-
-v47: the descendants of Giddel, Gahar, and Reaiah;
-
-v48: the descendants of Rezin, Nekoda, and Gazzam;
-
-v49: the descendants of Uzza, Paseah, and Besai;
-
-v50: the descendants of Asnah, Meunim, and Nephisim;
-
-v51: the descendants of Bakbuk, Hakupha, and Harhur;
-
-v52: the descendants of Bazluth, Mehida, and Harsha;
-
-v53: the descendants of Barkos, Sisera, and Temah;
-
-v54: the descendants of Neziah and Hatipha.
+v36: The priests: the family of Jedaiah, of Jeshua’s house, 973;
+v37: the family of Immer, 1,052;
+v38: the family of Pashhur, 1,247;
+v39: the family of Harim, 1,017.
 </p>
 
-## The Descendants of Solomon’s Servants
-
 <p>
-v55: The descendants of Solomon’s servants: the descendants of Sotai, Hassophereth, and Peruda;
-
-v56: the descendants of Jaalah, Darkon, and Giddel;
-
-v57: the descendants of Shephatiah, Hattil, Pochereth-Hazzebaim, and Ami.
-
-v58: All the temple servants and the descendants of Solomon’s servants were three hundred ninety-two.
+v40: The Levites: the families of Jeshua and Kadmiel, of the family of Hodaviah, 74.
+v41: The singers: the family of Asaph, 128.
+v42: The gatekeepers: the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, 139 in all.
 </p>
 
-## Those Whose Genealogy Could Not Be Established
-
 <p>
-v59: These came up from Tel-Melah, Tel-Harsha, Cherub, Addan, and Immer, but they could not show their ancestral houses or their descent, whether they belonged to Israel:
-
-v60: the descendants of Delaiah, Tobiah, and Nekoda, six hundred fifty-two.
-
-v61: And from the descendants of the priests: the descendants of Habaiah, Hakkoz, and Barzillai, who had taken a wife from the daughters of Barzillai the Gileadite and was called by their name.
-
-v62: These searched for their registration among those enrolled by genealogy, but it was not found, so they were excluded from the priesthood as unclean.
-
-v63: The governor told them that they should not eat from the most holy things until a priest stood with Urim and Thummim.
+v43: The temple servants were the families of Ziha, Hasupha, Tabbaoth,
+v44: Keros, Siaha, Padon,
+v45: Lebanah, Hagabah, Akkub,
+v46: Hagab, Shalmai, Hanan,
+v47: Giddel, Gahar, Reaiah,
+v48: Rezin, Nekoda, Gazzam,
+v49: Uzza, Paseah, Besai,
+v50: Asnah, Meunim, Nephusim,
+v51: Bakbuk, Hakupha, Harhur,
+v52: Bazluth, Mehida, Harsha,
+v53: Barkos, Sisera, Temah,
+v54: Neziah, and Hatipha.
 </p>
 
-## The Whole Assembly
-
 <p>
-v64: The whole assembly together was forty-two thousand three hundred sixty,
-
-v65: besides their male servants and female servants, who numbered seven thousand three hundred thirty-seven. They also had two hundred male and female singers.
-
-v66: Their horses were seven hundred thirty-six; their mules, two hundred forty-five;
-
-v67: their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty.
+v55: The families descended from Solomon’s servants were Sotai, Hassophereth, Peruda,
+v56: Jaalah, Darkon, Giddel,
+v57: Shephatiah, Hattil, Pochereth-hazzebaim, and Ami.
+v58: The temple servants and the descendants of Solomon’s servants totaled 392.
 </p>
 
-## Gifts for the House of God
+## Uncertain family records
 
 <p>
-v68: When some of the heads of ancestral houses came to the house of the LORD in Jerusalem, they gave freely for the house of God, to raise it on its site.
+v59: The following came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, but could not establish their ancestral houses or descent—whether they belonged to Israel:
+v60: the families of Delaiah, Tobiah, and Nekoda, 652.
+</p>
 
-v69: According to their ability they gave to the treasury for the work sixty-one thousand darics of gold, five thousand minas of silver, and one hundred priestly garments.
+<p>
+v61: Among the priestly families were Habaiah, Hakkoz, and Barzillai. Barzillai had married a daughter of Barzillai the Gileadite and had taken that family’s name.
+v62: They searched for their genealogical records, but the records could not be found. So they were excluded from the priesthood as unclean.
+v63: The governor told them not to eat any of the most holy food until a priest could serve with the Urim and Thummim.
+</p>
 
-v70: So the priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants lived in their cities, and all Israel in their cities.
+## The assembly and its gifts
+
+<p>
+v64: The whole assembly numbered 42,360,
+v65: besides their 7,337 male and female slaves. They also had 200 male and female singers.
+v66: They had 736 horses and 245 mules,
+v67: 435 camels and 6,720 donkeys.
+</p>
+
+<p>
+v68: When they reached the LORD’s house in Jerusalem, some of the family heads gave voluntary offerings for God’s house, to rebuild it on its site.
+v69: They gave as much as they could to the building fund: 61,000 gold darics, 5,000 silver minas, and 100 priestly robes.
+v70: The priests, Levites, some of the people, singers, gatekeepers, and temple servants settled in their towns. All Israel was settled in its towns.
 </p>
 
 ## Notes
 
-v01: “the province” reflects Judah’s status within the Persian imperial system. The chapter simultaneously remembers the return as restoration to ancestral cities.
+v01–70: Nehemiah 7 preserves a parallel register with differences in names and numbers. This chapter retains Ezra’s own entries and totals.
 
-v02: Several names in this leadership list also appear elsewhere in Ezra–Nehemiah, but the text does not require that every repeated name refer to the same individual.
+v02: Names shared with later figures do not by themselves establish that they are the same people.
 
-v03–35: The list alternates between family names and place names. TSW preserves this uneven structure rather than converting all entries into one category.
+v46, 50: Shalmai, Meunim, and Nephusim follow the Hebrew reading tradition recorded alongside the written text.
 
-v36–42: Priests, Levites, singers, and gatekeepers are counted separately because restoration includes the reconstitution of temple worship as well as resettlement.
+v61–63: The missing records concern eligibility for priestly service. The governor leaves the question open pending priestly discernment.
 
-v43: “temple servants” translates Hebrew *Nethinim*, a designation for a hereditary group assigned to service connected with the sanctuary.
-
-v59–63: Genealogical uncertainty has particular consequences for priesthood because priestly service and access to holy food depend upon established descent.
-
-v63: Urim and Thummim were priestly means of seeking divine decision. Ezra does not report that such a priest later appeared; the statement leaves the matter pending.
-
-v64: The total of 42,360 is larger than the sum of the individual numbers preserved in the list. The same phenomenon appears in the related list in Nehemiah 7. TSW retains both the received total and the individual figures rather than harmonizing them.
-
-v69: “darics” names a Persian gold coin. The underlying Hebrew monetary term is rare, and the precise historical coinage represented by the list has been discussed.
+v64: The stated assembly total is preserved without adjusting it to the itemized counts.
 
 ## Vocabulary
 
-v01: גּוֹלָה (golah)
-“Exile” or “community of exiles.” The term can describe both captivity and those who have returned from it.
+v43: Temple servants
+The Nethinim, a group assigned to service at the temple.
 
-v43: נְתִינִים (Nethinim)
-“Temple servants.” A group assigned to sanctuary service.
+v63: Urim and Thummim
+Sacred means associated with a priest’s inquiry for divine guidance; their precise form and operation are uncertain.
 
-v62: גָּאַל (ga'al)
-“To exclude as unclean” or “defile.” Here priestly claimants are disqualified because their genealogy cannot be verified.
-
-v63: תִּרְשָׁתָא (tirshata)
-“Governor.” A Persian-period administrative title.
-
-v63: אוּרִים וְתֻמִּים (Urim ve-Thummim)
-“Urim and Thummim.” Priestly instruments associated with discerning divine judgment.
-
-v68: נָדַב (nadav)
-“To give freely” or “volunteer.” The household heads contribute willingly to rebuilding.
-
-v69: דַּרְכְּמוֹן (darkemon)
-“Daric” or Persian gold monetary unit. The exact numismatic reference is debated.
+v69: Daric; mina
+A daric was a gold coin; a mina was a unit of weight. The ancient units are retained.

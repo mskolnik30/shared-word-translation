@@ -1,0 +1,180 @@
+{
+  "method": "NFKC/casefold words, punctuation ignored; SequenceMatcher autojunk=false; near threshold 0.90. Triage only, no quota, no proof of fidelity or independent authorship.",
+  "summary": {
+    "before": {
+      "verses": 23,
+      "identical_words": 22,
+      "near_identical": 1,
+      "mean_word_similarity": 0.99839
+    },
+    "after": {
+      "verses": 23,
+      "identical_words": 0,
+      "near_identical": 1,
+      "mean_word_similarity": 0.727922
+    }
+  },
+  "verses": [
+    {
+      "reference": "2 Chronicles 36:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.65,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.744186,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.746667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.753623,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.617647,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.821429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.651685,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.604651,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:20",
+      "before_similarity": 0.962963,
+      "after_similarity": 0.592593,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.421053,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.574713,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "2 Chronicles 36:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.834783,
+      "before_identical": true,
+      "after_identical": false
+    }
+  ]
+}

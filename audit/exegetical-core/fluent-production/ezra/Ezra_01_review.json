@@ -2,206 +2,81 @@
   "book": "Ezra",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-ezra-1-10-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "749d1387736696a625c2ec177645f7212c0e9ec6",
+    "path": "audit/exegetical-core/fluent-production/ezra/Ezra_01_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ezra",
+    "book_verse_count": 280,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ezra.xml",
-    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "1:1-11",
-      "decision": "Hold Cyrus's imperial authorization and the narrator's claim of divine sovereignty together.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ezra.xml",
     "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Ezra 1:1",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 1,
-            "source_ref": "Ezra 1:1",
-            "segment_mode": "whole",
-            "sha256": "cc906a75901c221342bd1039b07bba9e14afda2a1e08f2261468ef81d575de0b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cc906a75901c221342bd1039b07bba9e14afda2a1e08f2261468ef81d575de0b"
-      },
-      "2": {
-        "source_ref": "Ezra 1:2",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 2,
-            "source_ref": "Ezra 1:2",
-            "segment_mode": "whole",
-            "sha256": "d60c7ee2261a95f05aa0b20ab8430419b008e49ff7e17cc2d3cd74dd438217d2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d60c7ee2261a95f05aa0b20ab8430419b008e49ff7e17cc2d3cd74dd438217d2"
-      },
-      "3": {
-        "source_ref": "Ezra 1:3",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 3,
-            "source_ref": "Ezra 1:3",
-            "segment_mode": "whole",
-            "sha256": "1ff9c87f4a0bb50ba27a006e66e365781a867a733706cc7bbeafb20365924962"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1ff9c87f4a0bb50ba27a006e66e365781a867a733706cc7bbeafb20365924962"
-      },
-      "4": {
-        "source_ref": "Ezra 1:4",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 4,
-            "source_ref": "Ezra 1:4",
-            "segment_mode": "whole",
-            "sha256": "590b614b3768d2e392021c3aecff53c18fc4dd899ba21dfc01461f5a74feef68"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "590b614b3768d2e392021c3aecff53c18fc4dd899ba21dfc01461f5a74feef68"
-      },
-      "5": {
-        "source_ref": "Ezra 1:5",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 5,
-            "source_ref": "Ezra 1:5",
-            "segment_mode": "whole",
-            "sha256": "54293f6e743983b36cb0e156791cf03d5e163ae38cb925994793c3f28ec2dba2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "54293f6e743983b36cb0e156791cf03d5e163ae38cb925994793c3f28ec2dba2"
-      },
-      "6": {
-        "source_ref": "Ezra 1:6",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 6,
-            "source_ref": "Ezra 1:6",
-            "segment_mode": "whole",
-            "sha256": "51a11c369b28748b000b6b530800a25a3869b6aea2668797853ea05d292e240a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "51a11c369b28748b000b6b530800a25a3869b6aea2668797853ea05d292e240a"
-      },
-      "7": {
-        "source_ref": "Ezra 1:7",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 7,
-            "source_ref": "Ezra 1:7",
-            "segment_mode": "whole",
-            "sha256": "7f2857c41e12550c85dfaab6259dc4c23f0a457f97f61fd7c8ccafe10ba830fb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7f2857c41e12550c85dfaab6259dc4c23f0a457f97f61fd7c8ccafe10ba830fb"
-      },
-      "8": {
-        "source_ref": "Ezra 1:8",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 8,
-            "source_ref": "Ezra 1:8",
-            "segment_mode": "whole",
-            "sha256": "2d535825a37ffb9c0e6f91992b5b1d45856c6a63e59428768ec3a05ebe8387bc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2d535825a37ffb9c0e6f91992b5b1d45856c6a63e59428768ec3a05ebe8387bc"
-      },
-      "9": {
-        "source_ref": "Ezra 1:9",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 9,
-            "source_ref": "Ezra 1:9",
-            "segment_mode": "whole",
-            "sha256": "80f9c2f45fdf526e0fa5ed8231fed7068654a09eadd8ee93e5b2c658858a73ca"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "80f9c2f45fdf526e0fa5ed8231fed7068654a09eadd8ee93e5b2c658858a73ca"
-      },
-      "10": {
-        "source_ref": "Ezra 1:10",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 10,
-            "source_ref": "Ezra 1:10",
-            "segment_mode": "whole",
-            "sha256": "954d1c4fb336d4567664720a19886648ca356a42db42b205020fc81c7a8e2cbc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "954d1c4fb336d4567664720a19886648ca356a42db42b205020fc81c7a8e2cbc"
-      },
-      "11": {
-        "source_ref": "Ezra 1:11",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 11,
-            "source_ref": "Ezra 1:11",
-            "segment_mode": "whole",
-            "sha256": "10a9e79f776ae5fc9078a17bb4edb23cfd3760c9468e88026b6d221897faac78"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "10a9e79f776ae5fc9078a17bb4edb23cfd3760c9468e88026b6d221897faac78"
-      }
+    "sha256": "f0104ad778bedd7cd67c7fa6529c0b157837fca140fd5a3594b5e44a28b5d474",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ezra.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew",
+      "Aramaic"
+    ],
+    "public_versification_note": "All 280 public verses bind matching original Ezra records. Aramaic spans 4:8–6:18 and 7:12–26; remaining verses are Hebrew."
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 11,
+    "path": "translations/fluent/OT/ezra/Ezra_01.md",
+    "before_sha256": "5ec353e365cffdd0725efaf722ef0b99a5067b06f2fb016d9523f4928eeb2b5d",
+    "after_sha256": "f0e0c701ed1a72b9da5d06c88a7b50fd38b1fd281bbb88ae313ca92c1ac6c34b",
+    "tsw_comparator_path": "books/OT/ezra/Ezra_01.md",
+    "tsw_comparator_sha256": "b90a2fb6f426a8fa00c8efcd007482c3f163c07ce61bc64c2f2c84b9b05a5412"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-ezra-1-10/ezra-verse-review.json",
+  "public_versification": "All 280 public verses bind matching original Ezra records. Aramaic spans 4:8–6:18 and 7:12–26; remaining verses are Hebrew.",
+  "key_decisions": [
+    {
+      "reference": "Ezra 1:1",
+      "decision": "Keeps the shared wording with Chronicles where the source repeats it, linking the books without disguising repetition.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Ezra 1:3",
+      "decision": "Preserves the distinct divine wording and the possible attachment of the final Jerusalem phrase in a note.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Ezra 1:9",
+      "decision": "Keeps every counted category while noting that the rare vessel terms are uncertain.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Ezra 1:10",
+      "decision": "Retains the difficult second designation and every number rather than adjusting the inventory to its total.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Ezra 1:11",
+      "decision": "Preserves the stated total despite its difference from the listed amounts, and connects the objects’ return with the exiles’ return.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/ezra/Ezra_01.md",
-    "blob_sha": "134a2500620fe0010967b7a4c38a9bd6c3597be4"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

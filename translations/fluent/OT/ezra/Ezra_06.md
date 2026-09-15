@@ -4,118 +4,87 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezra-1-10-biblical-fluency-2026-09-15
 ---
 
-## Cyrus’s Decree Is Found
+## Cyrus’s decree is found
 
 <p>
-v01: Then King Darius issued a command, and a search was made in the house of the archives where the treasures were stored in Babylon.
-
-v02: A scroll was found at Ecbatana, in the fortress that is in the province of Media, and this was written in it as a memorandum:
-
-v03: “In the first year of King Cyrus, King Cyrus issued a decree concerning the house of God in Jerusalem:
-
-Let the house be rebuilt as a place where sacrifices are offered, and let its foundations be established. Its height will be sixty cubits and its width sixty cubits,
-
-v04: with three courses of large stones and one course of new timber. Let the expense be paid from the royal house.
-
-v05: Also, let the gold and silver vessels of the house of God that Nebuchadnezzar took from the temple in Jerusalem and brought to Babylon be returned. Let each go back to its place in the temple in Jerusalem, and place them in the house of God.”
+v01: King Darius ordered a search in the archives where the treasures were stored in Babylon.
+v02: A scroll was found in the citadel at Ecbatana, in the province of Media. It contained this memorandum:
 </p>
 
-## Darius Orders the Work to Continue
-
 <p>
-v06: “Now therefore, Tattenai, governor of the province Beyond the River, Shethar-Bozenai, and your associates, the officials in the province Beyond the River, keep away from there.
-
-v07: Leave the work on this house of God alone. Let the governor of the Judeans and the elders of the Judeans rebuild this house of God on its site.
-
-v08: Moreover, I issue a decree concerning what you will do for these elders of the Judeans for the rebuilding of this house of God: the full expense will be paid to these men from the royal revenue, from the tribute of the province Beyond the River, without delay, so that they are not hindered.
-
-v09: Whatever is needed—young bulls, rams, and lambs for burnt offerings to the God of heaven, and wheat, salt, wine, and oil, according to the request of the priests who are in Jerusalem—let it be given to them day by day without fail,
-
-v10: so that they may offer pleasing sacrifices to the God of heaven and pray for the life of the king and his sons.
-
-v11: I also issue a decree that if someone alters this edict, a beam will be pulled from his house, and he will be lifted up and impaled upon it, and his house will be made a refuse heap because of this.
-
-v12: May the God who has caused his name to dwell there overthrow any king or people who stretches out a hand to alter this decree or destroy this house of God in Jerusalem. I, Darius, have issued the decree. Let it be carried out diligently.”
+v03: “In the first year of King Cyrus, King Cyrus issued an order concerning God’s house in Jerusalem: Let the house be rebuilt as a place where sacrifices are offered, with its foundations firmly laid. It is to be sixty cubits high and sixty cubits wide,
+v04: with three courses of large stones and one course of new timber. The expense is to be paid by the royal treasury.
+v05: Also, the gold and silver vessels of God’s house that Nebuchadnezzar took from the temple in Jerusalem to Babylon are to be returned to their place in the temple in Jerusalem. Deposit them in God’s house.”
 </p>
 
-## The Temple Is Completed
+## Darius’s instructions
 
 <p>
-v13: Then Tattenai, governor of the province Beyond the River, Shethar-Bozenai, and their associates carried this out diligently because King Darius had sent the command.
-
-v14: The elders of the Judeans built and prospered through the prophesying of Haggai the prophet and Zechariah son of Iddo. They built and completed it according to the command of the God of Israel and according to the decrees of Cyrus, Darius, and Artaxerxes king of Persia.
-
-v15: This house was completed on the third day of the month of Adar, in the sixth year of the reign of King Darius.
+v06: “Now, Tattenai, governor of Beyond the River, Shethar-bozenai, and your associates, the officials in Beyond the River: keep away from there!
+v07: Leave the work on this house of God alone. Let the Jewish governor and elders rebuild God’s house on its site.
 </p>
 
-## The Temple Is Dedicated
-
 <p>
-v16: The children of Israel, the priests, the Levites, and the rest of the returned exiles celebrated the dedication of this house of God with joy.
-
-v17: They offered for the dedication of this house of God one hundred bulls, two hundred rams, and four hundred lambs, and as a sin offering for all Israel, twelve male goats, according to the number of the tribes of Israel.
-
-v18: They appointed the priests in their divisions and the Levites in their courses for the service of God in Jerusalem, as it is written in the book of Moses.
+v08: I also order what you are to do for these Jewish elders as they rebuild God’s house: their expenses are to be paid in full, without delay, from the royal revenue collected as tribute in Beyond the River, so the work does not stop.
+v09: Whatever they need—young bulls, rams, and lambs for burnt offerings to the God of heaven, or wheat, salt, wine, and oil—is to be supplied to them daily without fail, as the priests in Jerusalem request,
+v10: so they may offer pleasing sacrifices to the God of heaven and pray for the lives of the king and his sons.
 </p>
 
-## Passover after the Return
+<p>
+v11: I further order that if anyone alters this decree, a beam is to be pulled from his house, and he is to be lifted up and impaled on it. His house is to be made a refuse heap because of this.
+v12: May the God who has made his name dwell there overthrow any king or people who reach out to alter this order or destroy this house of God in Jerusalem. I, Darius, have issued the order. Let it be carried out diligently.”
+</p>
+
+## The temple is completed
 
 <p>
-v19: The returned exiles kept the Passover on the fourteenth day of the first month.
+v13: Then Tattenai, governor of Beyond the River, Shethar-bozenai, and their associates carried out King Darius’s instructions diligently.
+v14: The Jewish elders continued building and prospering through the prophecy of Haggai the prophet and Zechariah son of Iddo. They built and finished the house under the command of the God of Israel and the decrees of Cyrus, Darius, and Artaxerxes king of Persia.
+v15: This house was finished on the third day of the month of Adar, in the sixth year of King Darius’s reign.
+</p>
 
-v20: For the priests and the Levites had purified themselves together; all of them were clean. They slaughtered the Passover sacrifice for all the returned exiles, for their brothers the priests, and for themselves.
+<p>
+v16: The Israelites—the priests, Levites, and the rest of the returned exiles—joyfully celebrated the dedication of this house of God.
+v17: For its dedication they offered a hundred bulls, two hundred rams, and four hundred lambs, together with twelve male goats as a sin offering for all Israel, one for each of Israel’s tribes.
+v18: They assigned the priests to their divisions and the Levites to their groups for God’s service in Jerusalem, as written in the Book of Moses.
+</p>
 
-v21: The children of Israel who had returned from exile ate it, along with everyone who had separated themselves from the uncleanness of the nations of the land to join them, to seek the LORD, the God of Israel.
+## Passover celebrated
 
-v22: They kept the Festival of Unleavened Bread seven days with joy, for the LORD had made them joyful and had turned the heart of the king of Assyria toward them, strengthening their hands for the work of the house of God, the God of Israel.
+<p>
+v19: The returned exiles observed the Passover on the fourteenth day of the first month.
+v20: The priests and Levites had purified themselves together; all were clean. The Levites slaughtered the Passover animals for all the returned exiles, for their fellow priests, and for themselves.
+v21: The Israelites who had returned from exile ate the meal, along with everyone who had joined them by separating from the impurity of the nations of the land to seek the LORD, the God of Israel.
+v22: They celebrated the Festival of Unleavened Bread with joy for seven days. The LORD had made them joyful and turned the heart of the king of Assyria toward them, strengthening their hands for work on the house of God, the God of Israel.
 </p>
 
 ## Notes
 
-v02: The decree is found not in Babylon but at Ecbatana, the Median royal center. Imperial administration could store records across multiple royal sites.
+v03–04: The foundation and construction wording is difficult. The text gives height and width of sixty cubits each, but no length here. “New timber” follows the source’s vocalized wording.
 
-v03: The dimensions in Cyrus’s memorandum differ from the dimensions associated with Solomon’s temple. TSW preserves the figures as recorded in the Aramaic document.
+v11: The decree threatens impalement on a beam taken from the offender’s own house. This is the king’s stated penalty.
 
-v08–10: Darius goes beyond permitting the rebuilding: Persian provincial revenues are ordered to fund construction and ongoing sacrifices, including prayer for the king and his sons.
+v14: Artaxerxes is named here as well as Cyrus and Darius, although verse 15 dates the temple’s completion to Darius. The retrospective list is retained.
 
-v11: The punishment described in the decree is severe and reflects ancient imperial legal rhetoric. The Aramaic verb may refer to impalement or another form of execution involving the house beam.
+v19: The text returns to Hebrew here.
 
-v12: “caused his name to dwell there” uses biblical sanctuary language within a Persian royal decree as preserved by Ezra.
+v21: The verse includes others who joined the returned exiles to seek the LORD. It does not explicitly identify their ancestry.
 
-v14: Artaxerxes is named alongside Cyrus and Darius even though the temple was completed in Darius’s reign. The verse may summarize the broader Persian support for the restored community rather than provide a strictly chronological list of temple-building decrees.
-
-v15: The temple is completed in the sixth year of Darius, commonly dated to 515 BCE.
-
-v18: With this verse the extended Aramaic section that began at Ezra 4:8 ends. Ezra 6:19 resumes in Hebrew.
-
-v21: Participation in Passover includes returned Israelites and others who separated themselves from the uncleanness of the surrounding peoples to seek the LORD. The defining movement is toward covenant worship.
-
-v22: Darius is unexpectedly called “king of Assyria.” The title may view Persian rule as inheriting the older imperial dominion over the region. TSW retains the received designation.
+v22: The source calls the ruler “king of Assyria” here. The title is retained even though the surrounding narrative concerns Persian rule.
 
 ## Vocabulary
 
-v01: בֵּית סִפְרַיָּא (bet sifrayya)
-“House of the archives.” A repository of royal written records.
+v03: Cubit
+An ancient length based on the forearm.
 
-v02: דָּכְרָנָה (dokhrana)
-“Memorandum” or “record.” A written document preserved for remembrance.
+v12: His name dwell
+Language of God’s chosen presence and authority associated with his house.
 
-v08: מִדָּה (middah)
-“Tribute” or “tax.” Provincial revenue used to fund the temple work.
-
-v10: נִיחוֹחִין (nichochin)
-“Pleasing offerings.” Sacrifices described as acceptable before God.
-
-v11: זְקַף (zeqaf)
-“To lift up” or “impale.” Used in the royal penalty clause.
-
-v16: חֲנֻכָּה (chanukkah)
-“Dedication.” The ceremonial inauguration of the rebuilt temple.
-
-v19: פֶּסַח (pesach)
-“Passover.” The memorial feast of Israel’s deliverance from Egypt.
-
-v22: חַג הַמַּצּוֹת (chag ha-matsot)
-“Festival of Unleavened Bread.” The seven-day festival following Passover.
+v19: Passover
+The festival recalling Israel’s deliverance from Egypt.

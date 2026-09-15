@@ -1,0 +1,19 @@
+{
+  "status": "AUTHORING_REVIEW_COMPLETED",
+  "method": "Every listed verse inspected after source-based drafting. Shared names, counts, short formulas and clear wording retained where appropriate. No quota; this is not independent review or proof of originality.",
+  "rows": [
+    {
+      "reference": "2 Chronicles 36:13",
+      "delta": "F3",
+      "rationale": "Preserves the oath and both bodily images, with returning connected to the book’s recurring language.",
+      "source_reference": "2Chr 36:13",
+      "source_verse_sha256": "89e1add17ed8175c673b47edecb058aced3d88d5d16aab9db85ee0152c0931cd",
+      "before": "He also rebelled against King Nebuchadnezzar, who had made him swear by God. He stiffened his neck and hardened his heart from turning to the LORD, the God of Israel.",
+      "after": "He also rebelled against King Nebuchadnezzar, who had made him swear an oath by God. He stiffened his neck and hardened his heart against returning to the LORD, the God of Israel.",
+      "tsw_comparator": "He also rebelled against King Nebuchadnezzar, who had made him swear by God. He stiffened his neck and hardened his heart from turning to the LORD, the God of Israel.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.903226,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
+}

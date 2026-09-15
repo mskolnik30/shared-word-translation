@@ -4,93 +4,65 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezra-1-10-biblical-fluency-2026-09-15
 ---
 
-## The Altar Is Rebuilt
+## The altar is rebuilt
 
 <p>
-v01: When the seventh month came and the children of Israel were in the cities, the people gathered as one in Jerusalem.
-
-v02: Then Jeshua son of Jozadak and his brothers the priests arose, along with Zerubbabel son of Shealtiel and his brothers, and they built the altar of the God of Israel to offer burnt offerings on it, as it is written in the instruction of Moses, the man of God.
-
-v03: They set the altar on its foundation despite their fear of the peoples of the lands, and they offered burnt offerings upon it to the LORD, burnt offerings morning and evening.
+v01: When the seventh month arrived, the Israelites were in their towns. The people gathered as one in Jerusalem.
+v02: Jeshua son of Jozadak and his fellow priests, together with Zerubbabel son of Shealtiel and his relatives, began rebuilding the altar of the God of Israel. They would offer burnt offerings on it, as written in the instruction of Moses, the man of God.
+v03: They set the altar on its foundations, for they were afraid of the peoples of the surrounding lands. On it they offered burnt offerings to the LORD, morning and evening.
 </p>
 
-## The Festival of Booths
-
 <p>
-v04: They kept the Festival of Booths as it is written and offered the daily burnt offerings by number, according to the ordinance for each day,
-
-v05: and afterward the continual burnt offering, the offerings for the new moons and for all the appointed festivals of the LORD that were consecrated, and the offerings of everyone who freely offered a freewill offering to the LORD.
-
-v06: From the first day of the seventh month they began to offer burnt offerings to the LORD, although the foundation of the temple of the LORD had not yet been laid.
-
-v07: They gave silver to the masons and carpenters, and food, drink, and oil to the Sidonians and Tyrians to bring cedar logs from Lebanon by sea to Joppa, according to the authorization they had received from Cyrus king of Persia.
+v04: They observed the Festival of Shelters as written, offering the required number of burnt offerings day by day, each day’s offerings according to its rule.
+v05: After that came the regular burnt offerings, those for the new moons and all the LORD’s appointed holy festivals, and the offerings of everyone who gave a voluntary gift to the LORD.
 </p>
 
-## The Foundation of the Temple Is Laid
+<p>
+v06: They began offering burnt offerings to the LORD on the first day of the seventh month, although the foundation of the LORD’s temple had not yet been laid.
+v07: They paid the stonecutters and craftsmen in silver. They gave food, drink, and oil to the Sidonians and Tyrians to bring cedar timber from Lebanon by sea to Joppa, under the authorization Cyrus king of Persia had granted them.
+</p>
+
+## Laying the temple foundation
 
 <p>
-v08: In the second year after they came to the house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel, Jeshua son of Jozadak, the rest of their brothers the priests and Levites, and everyone who had come to Jerusalem from captivity began the work. They appointed the Levites from twenty years old and upward to oversee the work of the house of the LORD.
+v08: In the second month of the second year after their arrival at God’s house in Jerusalem, Zerubbabel son of Shealtiel, Jeshua son of Jozadak, and the rest of their fellow priests and Levites, with everyone who had returned to Jerusalem from captivity, began the work. They appointed Levites twenty years old and above to oversee the work on the LORD’s house.
+v09: Jeshua, his sons and relatives, and Kadmiel and his sons, descendants of Judah, stood together to oversee those working on God’s house. With them were the sons of Henadad, their sons, and their fellow Levites.
+</p>
 
-v09: Jeshua with his sons and brothers, Kadmiel and his sons, the sons of Judah, stood together to oversee those doing the work in the house of God, along with the sons of Henadad and their sons and brothers, the Levites.
-
-v10: When the builders laid the foundation of the temple of the LORD, the priests stood in their vestments with trumpets, and the Levites, the sons of Asaph, with cymbals, to praise the LORD according to the direction of David king of Israel.
-
+<p>
+v10: When the builders laid the foundation of the LORD’s temple, the priests took their places in their robes with trumpets, and the Levites descended from Asaph with cymbals, to praise the LORD as David king of Israel had directed.
 v11: They sang to one another in praise and thanksgiving to the LORD:
-
-“For he is good,
-for his steadfast love toward Israel
-endures forever.”
-
-And all the people gave a great shout of praise to the LORD because the foundation of the house of the LORD had been laid.
+“He is good;
+his faithful love for Israel lasts forever.”
+Then all the people raised a great shout of praise to the LORD because the foundation of his house had been laid.
 </p>
 
-## Weeping and Shouting Together
-
 <p>
-v12: But many of the priests, Levites, and heads of ancestral houses, old people who had seen the first house, wept with a loud voice when the foundation of this house was laid before their eyes, while many others raised their voices with a shout of joy.
-
-v13: The people could not distinguish the sound of the shout of joy from the sound of the people’s weeping, for the people shouted with a great shout, and the sound was heard far away.
+v12: Many of the older priests, Levites, and family heads who had seen the first house wept aloud as they watched the foundation of this house being laid. Many others lifted their voices in joyful shouts.
+v13: No one could distinguish the joyful shouts from the people’s weeping. The people were shouting so loudly that the sound could be heard far away.
 </p>
 
 ## Notes
 
-v01: The seventh month was central to Israel’s festival calendar. Worship is restored before the temple building itself is restored.
+v03: The Hebrew links building the altar with fear of surrounding peoples. It can also be understood as building despite that fear.
 
-v02: Rebuilding begins with the altar and with practices grounded in the instruction of Moses, establishing continuity between the returned community and Israel’s received covenantal order.
+v09: The Hebrew says “Judah” here. The related family designation in 2:40 is “Hodaviah.” The difference is retained.
 
-v03: The Hebrew can be understood as the altar being established “because of” fear of surrounding peoples or “despite” that fear. TSW follows the sense that worship proceeds in the presence of fear.
-
-v04–06: The sequence emphasizes ordered worship: Festival of Booths, daily offerings, new moons, appointed festivals, and freewill offerings.
-
-v07: The timber arrangements recall the building of Solomon’s temple, where cedar also came from Lebanon through Phoenician cooperation.
-
-v08: Levites from age twenty are appointed to supervise the temple work. This differs from some Pentateuchal age thresholds for Levitical service and reflects the particular work described here.
-
-v11: The refrain “for he is good, for his steadfast love endures forever” is familiar from Israel’s liturgical tradition and ties rebuilding to worship rather than merely construction.
-
-v12–13: The same event produces both grief and joy. Ezra does not require one emotion to cancel the other; memory of the former temple and hope in the new foundation sound together.
+v12–13: The text describes weeping and joy together but does not explain every person’s reason for weeping.
 
 ## Vocabulary
 
-v01: כְּאִישׁ אֶחָד (ke-ish echad)
-“As one.” An idiom of communal unity.
+v02: Burnt offering
+An offering burned on the altar for God.
 
-v02: עֹלָה (olah)
-“Burnt offering.” An offering wholly consumed upon the altar.
+v04: Festival of Shelters
+The autumn festival involving temporary shelters, also called Booths or Tabernacles.
 
-v04: חַג הַסֻּכּוֹת (chag ha-sukkot)
-“Festival of Booths.” The autumn pilgrimage festival.
-
-v05: נְדָבָה (nedavah)
-“Freewill offering.” A voluntary offering presented to the LORD.
-
-v08: נָצַח (natsach)
-“To oversee” or “supervise.” Used of Levites directing the rebuilding work.
-
-v10: יָסַד (yasad)
-“To lay a foundation.” The key building action celebrated in the chapter.
-
-v11: חֶסֶד (ḥesed)
-“Steadfast love.” The enduring covenant love praised in song.
+v11: Faithful love
+Hebrew hesed: enduring loyalty and kindness in a relationship.

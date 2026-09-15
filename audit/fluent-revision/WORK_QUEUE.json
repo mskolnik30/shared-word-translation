@@ -326,6 +326,16 @@
       "scope": "2 Chronicles 21–35",
       "verses": 369,
       "ledger": "audit/fluent-revision/2026-09-15-2chronicles-21-35/2chronicles-verse-review.json"
+    },
+    {
+      "scope": "2 Chronicles 36",
+      "verses": 23,
+      "ledger": "audit/fluent-revision/2026-09-15-2chronicles-36/2chronicles-verse-review.json"
+    },
+    {
+      "scope": "Ezra 1–10",
+      "verses": 280,
+      "ledger": "audit/fluent-revision/2026-09-15-ezra-1-10/ezra-verse-review.json"
     }
   ],
   "next_work": [
@@ -350,12 +360,12 @@
       "action": "Review the complete book and its connections to Samuel, Kings, and 2 Chronicles; rebind affected earlier ledgers if text changes."
     },
     {
-      "scope": "2 Chronicles 36 and whole-book consistency review",
-      "action": "Finish the final chapter, then review recurring vocabulary, names, chronology, source ambiguities and Notes across the whole book. Rebind earlier ledgers if wording changes."
+      "scope": "Whole-book 2 Chronicles consistency review",
+      "action": "Review the complete book before continuing into Ezra; rebind earlier ledgers if text changes."
     },
     {
-      "scope": "Ezra, then Nehemiah",
-      "action": "Verify pinned Hebrew and Aramaic attribution and complete source records before independently drafting the next connected scope."
+      "scope": "Nehemiah, then Esther",
+      "action": "Pinned sources materialized and Git blobs verified; read every selected verse before drafting."
     }
   ],
   "standards": [
@@ -410,5 +420,5 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt requests thirty complete chapters where careful source work permits. This turn completed 2 Chronicles 6–35, thirty chapters and 711 public verses, in two verified fifteen-chapter checkpoints. Preserve the source-first biblical-fluency standard, individual rationale, and all queued whole-book consistency passes. No routine approval pause or overlap quota."
+  "batch_preference": "Matt requests thirty chapters where careful source work permits; continue through complete connected books with verified checkpoints."
 }

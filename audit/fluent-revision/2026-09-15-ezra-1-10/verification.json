@@ -1,0 +1,175 @@
+{
+  "status": "PASSED",
+  "base_commit": "749d1387736696a625c2ec177645f7212c0e9ec6",
+  "new_chapters": 11,
+  "new_verses": 303,
+  "cumulative_coverage": {
+    "ledgers": 67,
+    "chapters": 418,
+    "verses": 12405
+  },
+  "preservation": {
+    "prior_ledgers_byte_identical": 65,
+    "prior_chapters_byte_identical": 407,
+    "historical_provenance_preserved": true
+  },
+  "affected_source_binding_audits": [
+    {
+      "status": "PASSED",
+      "chapters": 1,
+      "verses": 23,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "status": "PASSED",
+      "chapters": 10,
+      "verses": 280,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "all_2chronicles_source_records_bound_once": 822,
+  "ezra_languages": {
+    "Hebrew_verses": 213,
+    "Aramaic_verses": 67,
+    "Aramaic_ranges": [
+      "4:8–6:18",
+      "7:12–26"
+    ]
+  },
+  "focused_authoring_reread": {
+    "2chronicles": 13,
+    "ezra": 68
+  },
+  "first_source_reading": {
+    "verses": 303,
+    "all_source_annotations_read": true
+  },
+  "tsw_comparator_verses_read_after_drafting": 303,
+  "focused_assertions": {
+    "2 Chronicles 36:4": [
+      "Eliakim’s brother"
+    ],
+    "2 Chronicles 36:6": [
+      "to take him"
+    ],
+    "2 Chronicles 36:9": [
+      "eight",
+      "three months and ten days"
+    ],
+    "2 Chronicles 36:10": [
+      "brother Zedekiah"
+    ],
+    "2 Chronicles 36:17": [
+      "no compassion",
+      "virgin"
+    ],
+    "2 Chronicles 36:21": [
+      "Sabbaths",
+      "seventy years"
+    ],
+    "Ezra 1:9": [
+      "twenty-nine knives"
+    ],
+    "Ezra 1:10": [
+      "second kind"
+    ],
+    "Ezra 1:11": [
+      "five thousand four hundred"
+    ],
+    "Ezra 2:46": [
+      "Shalmai"
+    ],
+    "Ezra 2:50": [
+      "Nephusim"
+    ],
+    "Ezra 2:64": [
+      "42,360"
+    ],
+    "Ezra 2:65": [
+      "7,337",
+      "female slaves"
+    ],
+    "Ezra 4:9": [
+      "Dahae"
+    ],
+    "Ezra 4:14": [
+      "palace’s salt"
+    ],
+    "Ezra 5:4": [
+      "we asked"
+    ],
+    "Ezra 6:3": [
+      "sixty cubits high and sixty cubits wide"
+    ],
+    "Ezra 6:11": [
+      "impaled"
+    ],
+    "Ezra 6:14": [
+      "Artaxerxes"
+    ],
+    "Ezra 6:22": [
+      "king of Assyria"
+    ],
+    "Ezra 7:22": [
+      "hundred cors",
+      "no fixed limit"
+    ],
+    "Ezra 7:26": [
+      "death",
+      "banishment",
+      "confiscation",
+      "imprisonment"
+    ],
+    "Ezra 8:5": [
+      "son of Jahaziel"
+    ],
+    "Ezra 8:10": [
+      "son of Josiphiah"
+    ],
+    "Ezra 8:14": [
+      "Zaccur"
+    ],
+    "Ezra 8:24": [
+      "twelve",
+      "along with",
+      "ten"
+    ],
+    "Ezra 8:35": [
+      "ninety-six",
+      "seventy-seven"
+    ],
+    "Ezra 9:8": [
+      "tent peg",
+      "slavery"
+    ],
+    "Ezra 10:3": [
+      "wives and the children"
+    ],
+    "Ezra 10:8": [
+      "forfeit all his property",
+      "excluded"
+    ],
+    "Ezra 10:29": [
+      "Ramoth"
+    ],
+    "Ezra 10:35": [
+      "Cheluhu"
+    ],
+    "Ezra 10:37": [
+      "Jaasai"
+    ],
+    "Ezra 10:43": [
+      "Jaddai"
+    ],
+    "Ezra 10:44": [
+      "borne children"
+    ]
+  },
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

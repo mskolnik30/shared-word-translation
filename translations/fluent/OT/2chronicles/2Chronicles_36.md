@@ -4,137 +4,91 @@ testament: OT
 chapter: 36
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-36-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 36
-
-## Jehoahaz Reigns Briefly
+## Judah’s last kings
 
 <p>
-v01: The people of the land took Jehoahaz son of Josiah and made him king in place of his father in Jerusalem.
-
-v02: Jehoahaz was twenty-three years old when he became king, and he reigned three months in Jerusalem.
-
-v03: The king of Egypt removed him at Jerusalem and imposed upon the land a fine of one hundred talents of silver and one talent of gold.
-
-v04: The king of Egypt made Eliakim his brother king over Judah and Jerusalem and changed his name to Jehoiakim. Neco took Jehoahaz his brother and brought him to Egypt.
+v01: The people of the land took Josiah’s son Jehoahaz and made him king in Jerusalem in his father’s place.
+v02: Jehoahaz was twenty-three when he became king. He reigned in Jerusalem for three months.
+v03: The king of Egypt removed him from power in Jerusalem and imposed a levy on the land of one hundred talents of silver and one talent of gold.
+v04: The king of Egypt made Jehoahaz’s brother Eliakim king over Judah and Jerusalem and changed his name to Jehoiakim. Neco took Eliakim’s brother Jehoahaz away to Egypt.
 </p>
 
-## Jehoiakim Reigns and Is Taken by Babylon
-
 <p>
-v05: Jehoiakim was twenty-five years old when he became king, and he reigned eleven years in Jerusalem. He did what was evil in the eyes of the LORD his God.
-
-v06: Nebuchadnezzar king of Babylon came up against him and bound him with bronze chains to take him to Babylon.
-
-v07: Nebuchadnezzar also brought some of the vessels of the house of the LORD to Babylon and put them in his palace in Babylon.
-
-v08: Now the rest of the acts of Jehoiakim, the detestable things that he did and what was found against him, look, they are written in the book of the kings of Israel and Judah. Jehoiachin his son became king in his place.
+v05: Jehoiakim was twenty-five when he became king. He reigned in Jerusalem for eleven years and did what was evil in the eyes of the LORD his God.
+v06: Nebuchadnezzar king of Babylon came against him and bound him in bronze shackles to take him to Babylon.
+v07: Nebuchadnezzar also took some of the vessels from the LORD’s house to Babylon and put them in his palace there.
+v08: The rest of Jehoiakim’s acts, the detestable things he did, and what was found against him are recorded in the Book of the Kings of Israel and Judah. His son Jehoiachin succeeded him.
 </p>
 
-## Jehoiachin Is Carried to Babylon
-
 <p>
-v09: Jehoiachin was eight years old when he became king, and he reigned three months and ten days in Jerusalem. He did what was evil in the eyes of the LORD.
-
-v10: At the turning of the year King Nebuchadnezzar sent and brought him to Babylon, with the precious vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.
+v09: Jehoiachin was eight when he became king. He reigned in Jerusalem for three months and ten days and did what was evil in the LORD’s eyes.
+v10: At the turn of the year, King Nebuchadnezzar sent for him and brought him to Babylon, along with the precious vessels from the LORD’s house. He made Jehoiachin’s brother Zedekiah king over Judah and Jerusalem.
 </p>
 
-## Zedekiah Refuses to Humble Himself
+## Jerusalem’s fall
 
 <p>
-v11: Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem.
-
-v12: He did what was evil in the eyes of the LORD his God. He did not humble himself before Jeremiah the prophet, who spoke from the mouth of the LORD.
-
-v13: He also rebelled against King Nebuchadnezzar, who had made him swear by God. He stiffened his neck and hardened his heart from turning to the LORD, the God of Israel.
+v11: Zedekiah was twenty-one when he became king. He reigned in Jerusalem for eleven years.
+v12: He did what was evil in the eyes of the LORD his God. He did not humble himself before the prophet Jeremiah, who spoke the LORD’s words.
+v13: He also rebelled against King Nebuchadnezzar, who had made him swear an oath by God. He stiffened his neck and hardened his heart against returning to the LORD, the God of Israel.
 </p>
 
-## Judah’s Leaders Pollute the Temple
-
 <p>
-v14: Moreover, all the officials of the priests and the people acted very unfaithfully according to all the detestable practices of the nations, and they polluted the house of the LORD that he had consecrated in Jerusalem.
-
-v15: The LORD, the God of their ancestors, sent word to them by the hand of his messengers, rising early and sending, because he had compassion on his people and on his dwelling place.
-
-v16: But they mocked the messengers of God, despised his words, and scoffed at his prophets until the wrath of the LORD rose against his people, until there was no remedy.
+v14: All the leading priests and the people kept adding to their unfaithfulness, following all the detestable practices of the nations. They defiled the LORD’s house, which he had made holy in Jerusalem.
+v15: The LORD, the God of their ancestors, kept sending word to them through his messengers, again and again. He had compassion on his people and on his dwelling place.
+v16: But they mocked God’s messengers, despised his words, and scoffed at his prophets, until the LORD’s wrath rose against his people and there was no remedy.
 </p>
 
-## Jerusalem Is Destroyed
-
 <p>
-v17: So he brought up against them the king of the Chaldeans, who killed their young men with the sword in the house of their sanctuary and had no compassion on young man or virgin, old man or aged. He gave them all into his hand.
-
-v18: All the vessels of the house of God, great and small, the treasures of the house of the LORD, and the treasures of the king and his officials, all these he brought to Babylon.
-
-v19: They burned the house of God, tore down the wall of Jerusalem, burned all its palaces with fire, and destroyed all its precious vessels.
-
-v20: People who escaped from the sword he carried to Babylon, and they became servants to him and his sons until the rule of the kingdom of Persia,
-
-v21: to fulfill the word of the LORD by the mouth of Jeremiah until the land had enjoyed its Sabbaths. All the days of its desolation it kept Sabbath, to fulfill seventy years.
+v17: He brought the king of the Chaldeans against them. The king killed their young men with the sword in their sanctuary and showed no compassion to young man or virgin, to the old or the very aged. God handed them all over to him.
+v18: He took everything to Babylon: all the vessels of God’s house, large and small, the treasures of the LORD’s house, and the treasures of the king and his officials.
+v19: They burned down God’s house, tore down Jerusalem’s wall, burned all its palaces, and destroyed everything precious in them.
 </p>
 
-## Cyrus Proclaims Return
+<p>
+v20: He carried off to Babylon those who had escaped the sword. They became slaves to him and his sons until the kingdom of Persia came to power.
+v21: This fulfilled the LORD’s word spoken through Jeremiah. The land made up for its Sabbaths: throughout its desolation it rested, until seventy years were complete.
+</p>
+
+## An invitation to return
 
 <p>
-v22: In the first year of Cyrus king of Persia, so that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred the spirit of Cyrus king of Persia, and he made a proclamation throughout all his kingdom and also put it in writing, saying,
-
-v23: “Thus says Cyrus king of Persia:
-
-The LORD, the God of the heavens,
-has given me all the kingdoms of the earth,
-and he has appointed me
-to build for him a house
-in Jerusalem, which is in Judah.
-
-Whoever is among you
-from all his people—
-may the LORD his God be with him.
-
-Let him go up!”
+v22: In the first year of Cyrus king of Persia, the LORD stirred Cyrus’s spirit to fulfill the word the LORD had spoken through Jeremiah. Cyrus issued a proclamation throughout his kingdom and also put it in writing:
+v23: “This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, has given me all the kingdoms of the earth. He has appointed me to build him a house in Jerusalem, in Judah. Whoever among you belongs to his people—may the LORD his God be with him, and let him go up!’”
 </p>
 
 ## Notes
 
-v06: Chronicles says Jehoiakim was bound to be taken to Babylon, while 2 Kings does not narrate his actual deportation. The traditions preserve different emphases.
+v06: The wording says that Nebuchadnezzar bound Jehoiakim to take him to Babylon; this sentence does not explicitly say that the journey took place.
 
-v09: The Masoretic Text reads Jehoiachin was eight years old, while 2 Kings 24:8 reads eighteen. Most scholars regard eight as a textual difficulty, but TSW preserves Chronicles’ Masoretic form.
+v07: The Hebrew word translated “palace” can also mean a temple.
 
-v10: Zedekiah is called Jehoiachin’s “brother,” using kinship language broadly; he was actually his uncle according to 2 Kings 24:17.
+v09: The pinned Hebrew text says “eight.” Second Kings 24:8 says “eighteen.” The difference is retained.
 
-v15: The phrase “rising early and sending” is a Hebrew idiom for persistent, repeated warning.
+v10: The Hebrew calls Zedekiah Jehoiachin’s “brother” here. Second Kings 24:17 identifies him as Jehoiachin’s uncle.
 
-v16: “Until there was no remedy” marks the point when repeated prophetic warning has been exhausted.
+v15: “Again and again” represents an idiom of rising early and sending, emphasizing persistent effort.
 
-v21: Chronicles interprets exile through both Jeremiah’s seventy years and the land’s missed Sabbaths, echoing Leviticus 26.
+v21: The land’s rest recalls Leviticus 26:34–35. Jeremiah 25:11–12 and 29:10 speak of seventy years. The verse joins these themes without explaining a detailed chronology.
 
-v22–23: The book ends with divine initiative through a foreign Persian king and an unfinished command: “Let him go up!” Chronicles closes by opening the way toward restoration.
+v22–23: Ezra 1:1–3 repeats much of this proclamation, with some differences in wording. Chronicles ends with the invitation to go up.
 
 ## Vocabulary
 
-v03: עָנַשׁ (anash)
-“To fine” or impose a penalty.
+v03: Talent
+A large unit of weight used for precious metals.
 
-v12: כָּנַע (kana)
-“To humble oneself.”
+v13: Heart
+The center of thought, intention, and resolve as well as feeling.
 
-v13: קָשָׁה עֹרֶף (qashah oref)
-“To stiffen the neck.”
+v17: Chaldeans
+A name used here for the Babylonian forces.
 
-v14: טָמֵא (tame)
-“To pollute” or make unclean.
-
-v15: הִשְׁכִּים (hishkim)
-“To rise early.” An idiom for persistent action.
-
-v16: מַרְפֵּא (marpe)
-“Remedy” or healing.
-
-v21: שָׁבַת (shavat)
-“To keep Sabbath” or rest.
-
-v22: עוּר רוּחַ (ur ruach)
-“To stir the spirit.”
-
-v23: עָלָה (alah)
-“To go up.” The final summons toward Jerusalem.
+v21: Sabbaths
+Periods of rest; here the desolate land itself is pictured resting.
