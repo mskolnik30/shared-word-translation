@@ -4,92 +4,70 @@ testament: OT
 chapter: 26
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## How You Have Helped the Powerless!
+## Job: Whom have you helped?
 
 <p>
-v01: Then Job answered and said:
-
-v02: “How you have helped one without power!
-How you have saved an arm without strength!
-
-v03: How you have counseled one without wisdom
-and made sound wisdom abundantly known!
-
-v04: To whom have you declared words,
-and whose breath came out from you?
+v01: Then Job answered:
+v02: “How you have helped the powerless!
+How you have saved the arm without strength!
+v03: What counsel you have given the unwise!
+What an abundance of sound wisdom you have made known!
+v04: To whom have you spoken these words?
+Whose breath has come out of you?
 </p>
 
-## Sheol Is Naked Before God
+## The reach of God’s power
 
 <p>
 v05: The shades tremble
 beneath the waters and their inhabitants.
-
-v06: Sheol is naked before him,
-and Abaddon has no covering.
-
-v07: He stretches out the north over emptiness;
-he hangs the earth upon nothing.
-
-v08: He binds up waters in his clouds,
-and the cloud does not burst beneath them.
-
+v06: Sheol lies naked before him;
+Abaddon has no covering.
+v07: He stretches the north over emptiness
+and hangs the earth on nothing.
+v08: He binds up water in his clouds,
+yet the cloud does not split beneath it.
 v09: He covers the face of his throne,
 spreading his cloud over it.
-</p>
-
-## By His Power He Stilled the Sea
-
-<p>
-v10: He inscribed a circle upon the face of the waters
+v10: He draws a circle on the surface of the waters,
 at the boundary between light and darkness.
-
 v11: The pillars of heaven tremble
 and are astonished at his rebuke.
-
-v12: By his power he stilled the sea,
-and by his understanding he shattered Rahab.
-
-v13: By his breath the heavens became fair;
+v12: By his power he stilled the Sea;
+by his understanding he shattered Rahab.
+v13: By his breath the heavens became clear;
 his hand pierced the fleeing serpent.
-
-v14: Look, these are only the edges of his ways,
-and what a whisper of a word we hear of him!
-But the thunder of his power—who can understand?”
+v14: These are only the edges of his ways;
+how faint a whisper we hear of him!
+Who can understand the thunder of his mighty deeds?”
 </p>
 
 ## Notes
 
-v02–04: Job’s opening is biting sarcasm. Bildad’s short speech has not actually helped, saved, counseled, or illuminated him.
+v05: The “shades” are the dead, named by the Hebrew term Rephaim.
 
-v05: “shades” — Hebrew *Rephaim* refers poetically to the dead. Even the realm beneath the waters trembles before God.
+v06: Abaddon means destruction and here names the realm of death. The passage does not identify the figure named Abaddon in Revelation.
 
-v07: The poetic images of north, emptiness, earth, and nothingness present creation as suspended entirely by divine power rather than as a technical cosmology.
+v07: The earth suspended over nothing is a poetic image of divine power. It is not recast as a modern scientific account.
 
-v10: The “circle” marks the horizon or boundary where light and darkness meet over the waters.
+v09: The word can refer to a throne or to the full moon. The draft follows the throne reading.
 
-v12–13: Rahab and the fleeing serpent are chaos-monster imagery. God’s ordering power is portrayed through victory over the sea and cosmic serpent.
+v12: The verb can describe stirring the sea or bringing it to rest. The draft follows the latter alongside the shattering of Rahab.
 
-v14: Job insists that even these vast divine acts are merely “edges” and a whisper of God’s ways. Human speech about divine power remains radically partial.
+v13: The fleeing serpent belongs to the poem’s imagery of cosmic conflict.
+
+v14: The draft follows the read form’s plural “ways” or mighty deeds. These remain only the outskirts of what can be known.
 
 ## Vocabulary
 
-v05: רְפָאִים (Rephaim)
-“Shades” or “departed dead.” Inhabitants of the realm of death in poetic imagery.
+v12: Rahab
+A poetic name for chaotic power subdued by God.
 
-v06: אֲבַדּוֹן (Abaddon)
-“Destruction.” A poetic name for the realm associated with death.
-
-v07: תֹּהוּ (tohu)
-“Emptiness” or “formlessness.” The north is stretched over it.
-
-v10: חוּג (chug)
-“Circle” or “horizon.” A boundary drawn upon the waters.
-
-v12: רַהַב (Rahav)
-“Rahab.” A poetic chaos power associated with the sea.
-
-v13: נָחָשׁ בָּרִחַ (nachash bariach)
-“Fleeing serpent.” A cosmic serpent subdued by God.
+v14: Whisper
+What humans hear is only a faint trace of divine power.

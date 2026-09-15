@@ -4,128 +4,86 @@ testament: OT
 chapter: 7
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## Human Life Is Hard Service
+## Job: Days without hope
 
 <p>
-v01: “Does not a human have hard service on earth?
-Are not his days like the days of a hired worker?
-
-v02: Like a servant longing for shade,
-and like a hired worker waiting for wages,
-
+v01: Does not a mortal have hard service on earth,
+his days like a hired worker’s?
+v02: Like a slave longing for shade,
+like a hired worker waiting for his wages,
 v03: so I have been allotted months of emptiness,
-and nights of misery have been assigned to me.
-
-v04: When I lie down, I say, ‘When will I rise?’
-But the night is long,
-and I am filled with restlessness until dawn.
-
-v05: My flesh is clothed with worms and crusts of dust;
-my skin hardens and breaks out again.
-
-v06: My days are swifter than a weaver’s shuttle
-and come to an end without hope.
+and nights of trouble have been assigned to me.
+v04: When I lie down, I ask, ‘When can I get up?’
+The night drags on,
+and I am full of tossing until dawn.
+v05: My flesh is clothed with worms and crusts of dirt;
+my skin closes up and breaks out again.
+v06: My days move faster than a weaver’s shuttle
+and end without hope.
 </p>
 
-## Remember That My Life Is Breath
+## Remember how brief my life is
 
 <p>
-v07: Remember that my life is breath;
-my eye will not again see good.
-
-v08: The eye of the one who sees me will see me no more;
-your eyes will be upon me,
-but I will not be.
-
-v09: As a cloud fades and goes away,
+v07: Remember that my life is a breath;
+my eyes will never again see good.
+v08: The eye that sees me will see me no more.
+Your eyes will look for me, but I will be gone.
+v09: As a cloud fades and vanishes,
 so one who goes down to Sheol does not come up.
-
-v10: He returns no more to his house,
-and his place knows him no more.
+v10: He will never return to his house;
+his place will know him no more.
 </p>
 
-## I Will Speak in the Anguish of My Spirit
-
 <p>
-v11: So I will not restrain my mouth.
-I will speak in the anguish of my spirit;
-I will complain in the bitterness of my soul.
-
-v12: Am I the sea, or a sea monster,
+v11: So I will not hold my tongue.
+I will speak from my spirit’s distress
+and complain from my soul’s bitterness.
+v12: Am I the Sea, or a sea monster,
 that you set a guard over me?
-
 v13: When I say, ‘My bed will comfort me;
 my couch will ease my complaint,’
-
-v14: then you terrify me with dreams
-and frighten me with visions,
-
-v15: so that my soul chooses strangling,
-death rather than these bones.
-
-v16: I reject my life; I would not live forever.
-Leave me alone,
-for my days are breath.
-</p>
-
-## What Is a Human That You Examine Him?
-
-<p>
-v17: What is a human that you make so much of him,
-that you set your heart upon him,
-
-v18: that you visit him every morning
+v14: you frighten me with dreams
+and terrify me with visions.
+v15: I would choose strangling,
+death rather than these bones of mine.
+v16: I despise my life; I will not live forever.
+Leave me alone, for my days are a breath.
+v17: What is a mortal, that you make so much of him,
+that you set your heart on him,
+v18: inspect him every morning
 and test him every moment?
-
-v19: How long will you not look away from me
-or leave me alone long enough to swallow my spit?
-
-v20: If I have sinned, what have I done to you,
-Watcher of humanity?
+v19: Will you never look away from me,
+or leave me long enough to swallow my spit?
+v20: If I have sinned, what have I done to you, watcher of humanity?
 Why have you made me your target,
-so that I have become a burden to you?
-
-v21: Why do you not forgive my transgression
-and pass over my guilt?
-For now I will lie down in the dust;
-you will seek me,
-but I will not be.”
+so that I have become a burden to myself?
+v21: Why do you not pardon my rebellion
+and take away my guilt?
+Soon I will lie in the dust;
+you will seek me, but I will be gone.”
 </p>
 
 ## Notes
 
-v01: Job compares life with military or forced service and hired labor, emphasizing obligation, exhaustion, and waiting for relief.
+v06: The word for hope can also mean a thread or cord, echoing the weaver’s shuttle.
 
-v05: The description of Job’s skin is physical and unsparing. The text continues to resist turning his suffering into abstraction.
+v12: Sea and the sea monster evoke threatening powers held within bounds. Job asks why he requires such guarding.
 
-v07: “breath” — Hebrew *ruach* can mean breath, wind, or spirit. Here the image emphasizes fragility and transience.
+v15: The difficult comparison literally sets strangling and death against “my bones,” the exhausted bodily life he is enduring.
 
-v09: Job speaks from within ancient Israelite imagery of Sheol as the destination from which ordinary human life does not return. The book does not yet answer his longing with a developed resurrection claim.
-
-v12: Sea and sea monster evoke chaotic powers that require divine restraint. Job asks why God guards him as though he were a cosmic threat.
-
-v17–18: Job deliberately echoes language that elsewhere celebrates divine attention to humanity, but he experiences constant divine attention as invasive testing rather than care.
-
-v20: “Watcher of humanity” — The title turns divine vigilance into an accusation: Job feels targeted rather than protected.
+v20: The pinned Hebrew says Job has become a burden “to myself.” The draft preserves that wording.
 
 ## Vocabulary
 
-v01: צָבָא (tsava)
-“Hard service,” “warfare,” or “appointed service.” Job’s image for human life.
+v09: Sheol
+The realm of the dead; the word does not by itself identify a place of punishment.
 
-v03: שָׁוְא (shav)
-“Emptiness” or “vanity.” The character of Job’s allotted months.
-
-v05: רִמָּה (rimmah)
-“Worm.” Part of Job’s description of his diseased skin.
-
-v07: רוּחַ (ruach)
-“Breath,” “wind,” or “spirit.” Here the fleeting character of life.
-
-v09: שְׁאוֹל (Sheol)
-“Sheol.” The realm of the dead.
-
-v20: נֹצֵר הָאָדָם (notser ha-adam)
-“Watcher of humanity.” Job’s challenging designation for God’s constant attention.
+v19: Swallow my spit
+An image for even a moment’s respite.

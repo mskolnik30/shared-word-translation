@@ -4,129 +4,93 @@ testament: OT
 chapter: 16
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## Miserable Comforters Are You All
+## Job: Miserable comforters
 
 <p>
-v01: Then Job answered and said:
-
+v01: Then Job answered:
 v02: “I have heard many things like these.
-Miserable comforters are you all.
-
-v03: Is there an end to words of wind?
-Or what provokes you that you answer?
-
-v04: I also could speak as you do
-if your life were in place of my life.
-I could compose words against you
+All of you are comforters who bring trouble!
+v03: Will windy words never end?
+What drives you to keep answering?
+v04: I too could speak as you do,
+if you were in my place.
+I could string words together against you
 and shake my head at you.
-
-v05: I would strengthen you with my mouth,
-and the movement of my lips
-would bring relief.
+v05: I could strengthen you with my mouth;
+the movement of my lips could bring relief.
 </p>
 
-## God Has Worn Me Out
+## God has torn me apart
 
 <p>
-v06: If I speak, my pain is not restrained;
-and if I stop, what departs from me?
-
-v07: But now he has worn me out.
-You have made all my company desolate.
-
-v08: You have shriveled me,
-and it has become a witness.
-My leanness rises against me
+v06: If I speak, my pain is not relieved;
+if I stop, what leaves me?
+v07: But now he has worn me out;
+you have devastated my whole company.
+v08: You have shriveled me up, and it has become a witness.
+My wasting body rises against me
 and testifies to my face.
-
-v09: He tears me in his anger and hates me;
+v09: He tears me apart in his anger and hates me;
 he gnashes his teeth at me.
-My adversary sharpens his eyes against me.
-
-v10: They open their mouths against me;
-they strike my cheek with contempt;
-they gather together against me.
-
-v11: God gives me over to unjust men
+My adversary sharpens his gaze against me.
+v10: They gape at me with their mouths;
+they strike my cheek in contempt.
+Together they mass against me.
+v11: God hands me over to the unjust
 and throws me into the hands of the wicked.
-</p>
-
-## He Shattered Me Again and Again
-
-<p>
-v12: I was at ease, and he shattered me;
-he seized me by the neck and crushed me.
-He set me up as his target.
-
+v12: I was at ease, but he shattered me.
+He seized me by the neck and crushed me;
+he set me up as his target.
 v13: His archers surround me.
-He splits open my kidneys and does not spare;
-he pours my gall upon the ground.
-
-v14: He breaks me breach upon breach;
-he runs upon me like a warrior.
-
-v15: I have sewn sackcloth over my skin
+He pierces my kidneys without pity
+and pours my gall onto the ground.
+v14: He breaks through me, breach after breach;
+he charges at me like a warrior.
+v15: I have sewn sackcloth onto my skin
 and thrust my horn into the dust.
-
 v16: My face is red from weeping,
-and death-shadow is upon my eyelids,
-
-v17: though there is no violence in my hands,
+and deep shadow lies on my eyelids,
+v17: though there is no violence in my hands
 and my prayer is pure.
 </p>
 
-## Earth, Do Not Cover My Blood
+## My witness is in heaven
 
 <p>
-v18: Earth, do not cover my blood,
-and let there be no resting place for my cry.
-
-v19: Even now, look, my witness is in heaven,
-and the one who testifies for me is on high.
-
-v20: My friends scorn me;
-my eye pours tears to God,
-
-v21: that one might argue for a man with God,
-as a son of man for his neighbor.
-
-v22: For when a few years have come,
-I will go the way
-from which I will not return.”
+v18: Earth, do not cover my blood!
+Let my cry find no resting place!
+v19: Even now, my witness is in heaven;
+the one who testifies for me is on high.
+v20: My friends mock me;
+my eyes pour out tears to God,
+v21: that someone might plead a man’s case with God
+as a human pleads for his friend.
+v22: For a few more years will come,
+and I will go down a road from which I will not return.
 </p>
 
 ## Notes
 
-v02: Job turns the friends’ intended role against them: they came to comfort him but have become “miserable comforters.”
+v05: Job says he could strengthen them with his mouth. This can be heard as sincere consolation or as an ironic echo of their empty comfort.
 
-v04–05: Job says he could imitate their accusatory speech if circumstances were reversed, but he imagines instead strengthening and relieving them with words.
+v07: The speech moves from “he” to direct address, “you.” The draft preserves the shift.
 
-v09–14: Job’s imagery shifts rapidly between God as predator, warrior, and archer. He experiences divine agency as violent assault.
+v13: The word can name archers or arrows. The images of split kidneys and spilled gall remain graphic.
 
-v17: Job again insists on the absence of violence in his hands and the purity of his prayer. The claim directly resists the friends’ increasingly specific accusations.
+v20: The first phrase is difficult: it can describe the friends as mockers or evoke interpreters or advocates. The draft follows the mocking-friends reading.
 
-v18: Uncovered blood in biblical imagery cries out for justice. Job asks creation itself not to silence his unresolved case.
-
-v19–21: Job unexpectedly imagines a heavenly witness who can testify for him and plead his case with God. The identity of this witness is not explained.
+v21: The heavenly witness is not named. The plea for someone to argue a human being’s case before God is left within Job’s own speech.
 
 ## Vocabulary
 
-v02: עָמֵל (amel)
-“Miserable,” “troublesome,” or “wearisome.” Used of the friends as comforters who increase suffering.
+v15: Horn
+An image of strength or dignity, now thrust into the dust.
 
-v03: דִּבְרֵי־רוּחַ (divrei-ruach)
-“Words of wind.” Speech Job considers empty and unhelpful.
-
-v12: מַטָּרָה (mattarah)
-“Target.” Job describes himself as an object of divine attack.
-
-v15: קֶרֶן (qeren)
-“Horn.” A symbol of strength or dignity, here thrust into the dust.
-
-v19: עֵד (ed)
-“Witness.” Job claims a witness exists in heaven.
-
-v21: יָכַח (yakhach)
-“To argue,” “plead,” or “mediate.” Job longs for someone to argue his case with God.
+v18: Cover my blood
+Uncovered blood calls attention to a wrong still demanding an answer.

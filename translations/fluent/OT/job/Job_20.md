@@ -4,144 +4,101 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## Zophar: The Joy of the Wicked Is Brief
+## Zophar: The triumph of the wicked is brief
 
 <p>
-v01: Then Zophar the Naamathite answered and said:
-
-v02: “Therefore my troubling thoughts make me answer,
-because of my agitation within me.
-
-v03: I hear a correction that insults me,
-and a spirit from my understanding answers me.
-
-v04: Do you not know this from of old,
-since humanity was placed upon the earth,
-
-v05: that the rejoicing of the wicked is brief
-and the joy of the godless only for a moment?
-
-v06: Though his height rises to the heavens
-and his head reaches the clouds,
-
-v07: like his own dung he perishes forever;
-people who saw him say, ‘Where is he?’
-
-v08: He flies away like a dream and is not found;
-he is chased away like a vision of the night.
-
-v09: The eye that saw him sees him no more,
-and his place beholds him no longer.
+v01: Then Zophar the Naamathite answered:
+v02: “My troubled thoughts compel me to answer,
+because of the agitation within me.
+v03: I hear a rebuke that shames me,
+and my understanding moves my spirit to reply.
 </p>
 
-## His Children Will Seek the Favor of the Poor
-
 <p>
+v04: Do you not know this from long ago,
+from the time humanity was placed on earth,
+v05: that the wicked’s shout of joy is brief
+and the godless person’s gladness lasts only a moment?
+v06: Though his stature reaches the heavens
+and his head touches the clouds,
+v07: he will perish forever like his own dung;
+those who saw him will ask, ‘Where is he?’
+v08: He flies away like a dream and cannot be found;
+he is chased away like a vision in the night.
+v09: The eye that looked on him will not do so again;
+his place will see him no more.
 v10: His children will seek the favor of the poor,
 and his own hands will return his wealth.
-
 v11: His bones are full of youthful vigor,
-but it lies down with him in the dust.
-
-v12: Though evil is sweet in his mouth,
-though he hides it under his tongue,
-
-v13: though he spares it and will not let it go
-but keeps it within his palate,
-
-v14: his food is changed in his stomach;
-it becomes the venom of cobras within him.
-
-v15: He swallows wealth and vomits it up;
-God drives it out of his belly.
-
-v16: He sucks the poison of cobras;
-the tongue of a viper kills him.
+but it will lie down with him in the dust.
 </p>
 
-## He Will Not Enjoy What He Took
+## Sweetness that turns to poison
 
 <p>
-v17: He will not look upon streams,
-rivers flowing with honey and curds.
-
-v18: He returns what he labored for and does not swallow it;
-according to the wealth of his trade,
-he will not enjoy it.
-
+v12: Though evil tastes sweet in his mouth
+and he hides it under his tongue,
+v13: though he savors it and will not let it go,
+keeping it against his palate,
+v14: his food turns inside his bowels
+into cobra venom within him.
+v15: He swallows wealth and vomits it up;
+God forces it out of his belly.
+v16: He sucks cobra venom;
+a viper’s tongue kills him.
+v17: He will not see the streams,
+the rivers flowing with honey and curds.
+v18: He returns what he gained without swallowing it;
+he cannot enjoy the wealth from his trading.
 v19: For he crushed and abandoned the poor;
 he seized a house he did not build.
-
-v20: Because he knew no rest in his belly,
-he will not save anything he desired.
-
+v20: Because his belly knew no contentment,
+he will save nothing of what he desired.
 v21: Nothing escaped his devouring;
-so his prosperity will not endure.
-
-v22: In the fullness of his abundance he will be distressed;
+that is why his prosperity will not last.
+v22: At the height of his abundance, distress will seize him;
 every hand of misery will come against him.
 </p>
 
-## God Will Send His Burning Anger
+## God’s burning anger
 
 <p>
 v23: When he is about to fill his belly,
-God will send against him the burning of his anger
-and rain it upon him as his food.
-
-v24: He flees from an iron weapon,
-but a bronze bow pierces him.
-
-v25: He pulls the arrow out, and it comes from his back;
-the glittering point comes out from his gall.
-Terrors come upon him.
-
-v26: Complete darkness is stored up for his treasures;
-a fire not blown by human breath consumes him.
-It devours what remains in his tent.
-
-v27: The heavens reveal his guilt,
+God will send his burning anger against him
+and rain it down on him as his food.
+v24: He flees an iron weapon,
+but an arrow from a bronze bow pierces him.
+v25: He pulls it out, and it comes from his body,
+the gleaming point from his gall.
+Terrors come over him.
+v26: Utter darkness is stored up for his treasures;
+a fire no one has fanned consumes him
+and devours what remains in his tent.
+v27: The heavens expose his wrongdoing,
 and the earth rises against him.
-
-v28: The produce of his house is carried away,
-flowing off on the day of God’s anger.
-
-v29: This is the portion of a wicked man from God,
-and the inheritance appointed to him by God.”
+v28: The increase of his house is swept away,
+washed off on the day of God’s anger.
+v29: This is the wicked person’s portion from God,
+the inheritance God has decreed for him.”
 </p>
 
 ## Notes
 
-v05: Zophar states his thesis as ancient and universal: wicked prosperity is necessarily brief. Job’s next speech directly challenges that claim with observation of wicked people who live long and prosper.
+v03: The relation between spirit and understanding is compressed. Zophar presents his reply as arising from his own understanding.
 
-v07: The comparison with dung is intentionally degrading and expresses complete disappearance from honor and memory.
+v10: The first line can concern children seeking favor from the poor or making restitution to them. The second line names the man’s own hands returning wealth.
 
-v12–16: Wickedness is pictured as sweet food deliberately savored, which then transforms into poison inside the body.
+v18: The wording about gain and exchange is difficult; the central claim is that the man cannot enjoy the wealth he has acquired.
 
-v19: Zophar finally names specific wrongdoing—oppression of the poor and seizure of houses—even though the narrative has given no evidence that Job committed these acts.
-
-v26: “fire not blown” is fire not kindled or sustained by human means, implying divine or supernatural judgment.
-
-v27: Heaven and earth, which Job had called upon as witnesses, are here imagined by Zophar as witnesses against the wicked.
+v23: The last word can be related to food or eating; other interpretations concern fighting. The draft pictures wrath raining down as the man’s food.
 
 ## Vocabulary
 
-v02: חוּשׁ (chush)
-“Agitation” or “haste.” Zophar’s inward urgency to respond.
-
-v05: חָנֵף (chanef)
-“Godless” or “profane.” One whose joy Zophar says is momentary.
-
-v14: מְרוֹרַת פְּתָנִים (merorat petanim)
-“Venom of cobras.” An image of internally transformed evil.
-
-v19: דַּל (dal)
-“Poor” or “weak.” The one Zophar says the wicked has crushed.
-
-v23: חֲרוֹן אַפּוֹ (charon appo)
-“Burning of his anger.” Intense divine wrath.
-
-v29: חֵלֶק (cheleq)
-“Portion.” The allotted outcome Zophar assigns to the wicked.
+v25: Gall
+The bitter bodily fluid, here part of a graphic image of a weapon piercing the body.

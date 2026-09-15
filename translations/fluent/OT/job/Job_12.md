@@ -4,144 +4,90 @@ testament: OT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## No Doubt Wisdom Will Die with You
+## Job: I have understanding too
 
 <p>
-v01: Then Job answered and said:
-
-v02: “Truly you are the people,
+v01: Then Job answered:
+v02: “Surely you are the people,
 and wisdom will die with you!
-
-v03: Yet I also have a heart like you;
-I am not inferior to you.
-And who does not know things like these?
-
-v04: I have become a laughingstock to my neighbor,
-one who called to God and he answered him—
-a laughingstock: the righteous and blameless man.
-
-v05: In the thought of one who is at ease,
-there is contempt for disaster,
-ready for those whose foot slips.
-
-v06: The tents of robbers are at peace,
-and people who provoke God are secure,
-people who bring their god in their hand.
+v03: But I have understanding as you do;
+I am no less than you.
+Who does not know such things?
+v04: I have become a laughingstock to my friend—
+I who called on God and received an answer,
+a righteous man of integrity, made a joke.
+v05: Those at ease think disaster deserves contempt;
+it awaits those whose feet slip.
+v06: Robbers’ tents are peaceful,
+and those who provoke God are secure—
+those who carry their god in their hand.
 </p>
 
-## Ask the Animals, and They Will Teach You
+## Ask the earth’s creatures
 
 <p>
-v07: But ask the animals, and they will teach you;
-the birds of the heavens, and they will tell you.
-
-v08: Or speak to the earth, and it will teach you;
-and the fish of the sea will recount it to you.
-
-v09: Who among all these does not know
+v07: Ask the animals, and they will teach you;
+the birds of the heavens will tell you.
+v08: Speak to the earth, and it will teach you;
+the fish of the sea will recount it to you.
+v09: Which of all these does not know
 that the hand of the LORD has done this?
-
-v10: In whose hand is the life of every living thing
-and the breath of all human flesh.
-
+v10: In his hand is the life of every living thing
+and the breath of all humanity.
 v11: Does not the ear test words
 as the palate tastes food?
-
-v12: Is wisdom with the aged,
-and understanding in length of days?
+v12: Wisdom is with the aged,
+and understanding with length of days.
 </p>
 
-## With God Are Wisdom and Strength
+## Strength and wisdom belong to God
 
 <p>
-v13: With him are wisdom and strength;
-his are counsel and understanding.
-
-v14: Look, he tears down, and it cannot be rebuilt;
-he shuts a man in, and no one can open.
-
-v15: Look, he withholds the waters, and they dry up;
-he sends them out, and they overturn the earth.
-
+v13: With God are wisdom and might;
+counsel and understanding belong to him.
+v14: What he tears down cannot be rebuilt;
+whoever he shuts in cannot be released.
+v15: If he holds back the waters, they dry up;
+if he sends them out, they overturn the land.
 v16: With him are strength and sound wisdom;
-the deceived and the deceiver are his.
-
+the deceived and the deceiver belong to him.
 v17: He leads counselors away stripped
-and makes judges fools.
-
-v18: He loosens the discipline of kings
-and binds a belt around their waist.
-
+and makes fools of judges.
+v18: He loosens the bonds imposed by kings
+and binds a belt around their waists.
 v19: He leads priests away stripped
-and overthrows the established.
-
-v20: He removes speech from the trusted
-and takes away discernment from elders.
-</p>
-
-## He Makes Nations Great and Destroys Them
-
-<p>
-v21: He pours contempt upon nobles
+and overthrows the firmly established.
+v20: He removes the speech of trusted advisors
+and takes away the elders’ discernment.
+v21: He pours contempt on nobles
 and loosens the belt of the strong.
-
 v22: He uncovers deep things from darkness
-and brings death-shadow into light.
-
+and brings deep shadow into the light.
 v23: He makes nations great and destroys them;
-he enlarges nations and leads them away.
-
-v24: He removes the heart from the heads of the people of the earth
-and makes them wander in a wasteland without a way.
-
-v25: They grope in darkness with no light,
-and he makes them wander like a drunken person.”
+he spreads nations abroad and leads them away.
+v24: He takes understanding from the leaders of the earth’s people
+and makes them wander in a trackless waste.
+v25: They grope in darkness without light;
+he makes them stagger like a drunkard.
 </p>
 
 ## Notes
 
-v02: Job’s sarcasm exposes the friends’ assumption that traditional wisdom belongs especially to them.
+v05: The opening is difficult. The draft reads contempt for another’s disaster; a discarded torch is another proposed image.
 
-v04: Job names himself “righteous and blameless,” echoing the narrator’s opening description. His complaint is that a person once known for answered prayer is now mocked.
+v06: The final line can picture carrying one’s god in one’s hand or receiving abundance from God’s hand. The draft retains the unsettling former image.
 
-v06: Job again points to the observable prosperity of wrongdoers, challenging a simplistic claim that wickedness always produces immediate visible ruin.
+v09: The divine name LORD appears here in the dialogue and is preserved.
 
-v07–10: Creation itself testifies to dependence upon divine power. Job can affirm God’s sovereignty while still contesting the friends’ interpretation of how that sovereignty operates.
-
-v09: “the hand of the LORD” — This is the only occurrence of the divine name YHWH in the poetic dialogue outside the prose framework, making the line especially notable.
-
-v16–25: Job describes divine sovereignty as destabilizing human hierarchies: counselors, judges, kings, priests, elders, nobles, and nations can all be overturned.
+v18: The draft reads the bonds as those imposed by kings, then pictures the kings themselves bound. Another understanding concerns removing the kings’ belts or signs of office.
 
 ## Vocabulary
 
-v03: לֵבָב (levav)
-“Heart.” Here intellectual and moral understanding: “I also have a heart.”
-
-v03: לֵבָב (levav)
-“Heart.” Here the term refers to understanding or mind.
-
-v04: שְׂחוֹק (sechoq)
-“Laughingstock” or “object of laughter.” Job’s social humiliation.
-
-v04: שְׂחוֹק (sechoq)
-“Laughingstock; object of laughter.”
-
-v10: נֶפֶשׁ (nefesh)
-“Life,” “self,” or “living being.” The life of every creature is in God’s hand.
-
-v10: נֶפֶשׁ (nefesh)
-“Life; self; living being.”
-
-v13: תּוּשִׁיָּה (tushiyyah)
-“Sound wisdom” or “effective wisdom.” Belongs ultimately to God.
-
-v13: תּוּשִׁיָּה (tushiyyah)
-“Sound wisdom; effective wisdom.”
-
-v22: צַלְמָוֶת (tsalmavet)
-“Death-shadow” or “deep darkness.” God can bring even it into light.
-
-v24: תֹּהוּ (tohu)
-“Wasteland,” “formlessness,” or “emptiness.” A pathless place of disorientation.
+v18: Bonds
+The image turns the authority of rulers into their own captivity.

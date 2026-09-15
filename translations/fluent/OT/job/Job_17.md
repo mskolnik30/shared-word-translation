@@ -4,101 +4,71 @@ testament: OT
 chapter: 17
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## My Spirit Is Broken
+## Job: Who will stand surety for me?
 
 <p>
-v01: “My spirit is broken;
-my days are extinguished;
-the graves are ready for me.
-
-v02: Surely mockers are with me,
-and my eye must dwell on their provocation.
-
-v03: Put down a pledge for me with yourself.
-Who is there who will strike hands with me?
-
-v04: For you have hidden understanding from their heart;
-so you will not exalt them.
-
-v05: One who informs against friends for a share—
-the eyes of his children will fail.
+v01: My spirit is broken; my days are spent.
+The grave waits for me.
+v02: Mockers surround me;
+my eyes dwell on their provocation.
+v03: Put up a pledge for me with yourself, please.
+Who else will clasp my hand as guarantor?
+v04: You have closed their hearts to understanding;
+that is why you will not exalt them.
+v05: One who betrays friends for a share of the profit
+will see his children’s eyes fail.
 </p>
 
-## He Has Made Me a Byword
-
 <p>
-v06: He has made me a byword among peoples,
-and I have become one in whose face people spit.
-
-v07: My eye has grown dim from grief,
-and all my limbs are like a shadow.
-
-v08: The upright are appalled at this,
-and the innocent stirs himself against the godless.
-
-v09: Yet the righteous holds to his way,
-and one with clean hands grows stronger and stronger.
-</p>
-
-## Where Then Is My Hope?
-
-<p>
-v10: But all of you, come again now;
+v06: He has made me a byword among peoples;
+I am someone in whose face people spit.
+v07: My eyes have grown dim with grief;
+all my limbs are like shadows.
+v08: The upright are appalled at this;
+the innocent rise against the godless.
+v09: Yet the righteous hold to their way,
+and those with clean hands grow stronger.
+v10: But come back, all of you—come on!
 I will not find a wise man among you.
+</p>
 
-v11: My days have passed;
-my plans are broken off,
-the desires of my heart.
+## Where is my hope?
 
-v12: They make night into day,
-saying, ‘Light is near’
-in the face of darkness.
-
-v13: If I hope for Sheol as my house,
+<p>
+v11: My days have passed; my plans are broken,
+the desires my heart held as its own.
+v12: They turn night into day,
+saying light is near in the face of darkness.
+v13: If I look to Sheol as my home,
 if I spread my bed in darkness,
-
 v14: if I say to the pit, ‘You are my father,’
 and to the worm, ‘My mother and my sister,’
-
-v15: where then is my hope?
-And my hope—who will see it?
-
+v15: where, then, is my hope?
+Who can see any hope for me?
 v16: Will it go down to the bars of Sheol?
 Will we descend together into the dust?”
 </p>
 
 ## Notes
 
-v01: Job speaks as though death is immediately before him. His body, time, and future all seem exhausted.
+v03: Job asks God for security in a dispute with God. The tension is retained.
 
-v03: Job asks God to provide the pledge for Job’s own case. The legal image is paradoxical: God is both the one with whom Job disputes and the only possible guarantor.
+v05: This compact saying concerns betrayal of companions for a share or reward, followed by harm to the betrayer’s children. Its precise wording is uncertain.
 
-v05: The Hebrew proverb is difficult. It appears to condemn betrayal of friends for gain and warns that such betrayal has consequences extending to one’s household.
+v11: “Desires” renders an expression literally concerning the possessions of the heart.
 
-v06: Job’s suffering has become public humiliation; he is not merely ill but socially transformed into a proverb and object of contempt.
-
-v08–09: Job imagines the truly upright being appalled by his treatment rather than joining the friends’ accusations. Righteousness persists by holding to the way.
-
-v13–16: Hope is reduced to the possibility of Sheol as home and kinship with pit and worm. Job asks whether any hope can survive such descent.
+v16: The grammar of the final question, including who goes down and rests together, is difficult. The draft follows Job’s hope down to the bars of Sheol without resolving every pronoun.
 
 ## Vocabulary
 
-v01: חָבַל (chaval)
-“To be broken” or “destroyed.” Job’s spirit is spent.
+v03: Surety
+A pledge or guarantor securing an obligation.
 
-v03: עָרַב (arav)
-“To pledge” or “become surety.” Job asks God to guarantee his case.
-
-v06: מָשָׁל (mashal)
-“Proverb” or “byword.” Job has become an example people speak about.
-
-v07: כַּעַס (ka'as)
-“Grief,” “vexation,” or “anguish.” The cause of Job’s dimmed eyes.
-
-v13: שְׁאוֹל (Sheol)
-“Sheol.” The realm of the dead, imagined as Job’s possible house.
-
-v14: שַׁחַת (shachat)
-“Pit” or “corruption.” A poetic designation of death or the grave.
+v16: Bars of Sheol
+The realm of the dead imagined as a place of confinement.

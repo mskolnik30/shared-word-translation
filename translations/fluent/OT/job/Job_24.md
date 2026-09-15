@@ -4,140 +4,106 @@ testament: OT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## Why Are Times of Judgment Hidden?
+## Job: Why are no days of judgment set?
 
 <p>
-v01: “Why are times not stored up by the Almighty?
-Why do people who know him not see his days?
-
-v02: People move boundary markers;
-they seize flocks and pasture them.
-
-v03: They drive away the donkey of the fatherless;
-they take the widow’s ox as a pledge.
-
-v04: They turn the needy aside from the road;
-the poor of the land hide themselves together.
+v01: Why does the Almighty not appoint times for judgment?
+Why do those who know him never see his days?
+v02: People move boundary stones;
+they steal flocks and pasture them.
+v03: They drive away the orphan’s donkey
+and take the widow’s ox as a pledge.
+v04: They push the needy off the road;
+the poor of the land must hide together.
 </p>
 
-## The Poor Labor for Others
+## The poor struggle to live
 
 <p>
-v05: Look, like wild donkeys in the wilderness,
-they go out to their work, seeking food;
-the wasteland provides food
-for them and for their children.
-
-v06: In the field they harvest another’s fodder,
-and they glean the vineyard of the wicked.
-
+v05: Like wild donkeys in the wilderness,
+the poor go out to their work, searching for food.
+The desert supplies bread for their children.
+v06: They reap fodder in the fields
+and glean late grapes in the wicked person’s vineyard.
 v07: They spend the night naked, without clothing,
-and have no covering in the cold.
-
-v08: They are wet with the rain of the mountains,
-and for lack of shelter they embrace the rock.
-
-v09: They tear the fatherless from the breast,
-and they take a pledge against the poor.
-
-v10: Naked, they go about without clothing;
-hungry, they carry sheaves.
-
-v11: Between their walls they press oil;
-they tread winepresses, yet thirst.
-
-v12: From the city the dying groan,
-and the life of the wounded cries out,
-yet God does not charge it as folly.
+with no covering against the cold.
+v08: Drenched by mountain storms,
+they cling to a rock for lack of shelter.
+v09: The orphan is snatched from the breast,
+and a pledge is taken from the poor.
+v10: They go about naked, without clothing;
+hungry, they carry sheaves of grain.
+v11: Between the walls they press oil;
+they tread winepresses, yet go thirsty.
+v12: People groan from the city;
+the wounded cry out for help.
+Yet God does not charge anyone with wrongdoing.
 </p>
 
-## Those Who Rebel Against the Light
+## Those who rebel against the light
 
 <p>
-v13: These are among people who rebel against the light;
-they do not recognize its ways
+v13: There are those who rebel against the light,
+who do not know its ways
 or remain in its paths.
-
-v14: At daylight the murderer rises;
-he kills the poor and needy,
-and in the night he becomes like a thief.
-
-v15: The eye of the adulterer waits for twilight,
+v14: The murderer rises at daylight
+and kills the poor and needy;
+at night he acts as a thief.
+v15: The adulterer’s eye waits for twilight,
 saying, ‘No eye will see me,’
-and he puts a covering on his face.
-
-v16: In darkness they break into houses;
+and he covers his face.
+v16: In darkness they dig into houses;
 by day they shut themselves in.
 They do not know the light.
-
-v17: For morning is death-shadow to all of them,
-for they recognize the terrors of death-shadow.
+v17: For all of them, morning is deep darkness;
+they are familiar with the terrors of deep shadow.
 </p>
 
-## The Wicked May Be Carried Away
+## Carried away
 
 <p>
-v18: Swift is he upon the face of the waters;
-their portion is cursed in the land;
-he does not turn toward the way of the vineyards.
-
-v19: Drought and heat steal away snow waters;
-so Sheol people who have sinned.
-
-v20: The womb forgets him;
-the worm finds him sweet.
+v18: He is swept swiftly along the water’s surface;
+their portion in the land is cursed.
+He no longer turns toward the vineyards.
+v19: Drought and heat snatch away snow water;
+Sheol does the same to those who have sinned.
+v20: The womb forgets him; worms feast on him.
 He is remembered no more,
 and injustice is broken like a tree.
-
-v21: He devours the barren woman who does not give birth
+v21: He preys on the barren woman who has no child
 and does no good to the widow.
-
-v22: Yet God draws the mighty away by his power;
-he rises, and no one is sure of life.
-
-v23: He gives them security, and they lean upon it,
-but his eyes are upon their ways.
-
-v24: They are exalted a little while, then they are gone;
-they are brought low and gathered like all others;
-they are cut off like the heads of grain.
-
-v25: If it is not so, who will prove me a liar
-and make my word nothing?”
+v22: Yet God draws away the mighty by his power;
+he rises, and they have no assurance of life.
+v23: He gives them security, and they rely on it;
+but his eyes are on their ways.
+v24: They are exalted a little while, then are gone.
+They are brought low and gathered in like everyone else,
+cut off like heads of grain.
+v25: If this is not so, who will prove me a liar
+and show that my words amount to nothing?”
 </p>
 
 ## Notes
 
-v01: Job asks why divine judgment is not visible in predictable “times.” The question concerns the apparent delay of justice, not ignorance of God’s sovereignty.
+v01: The appointed times are understood as times for judgment from the surrounding question about God’s days.
 
-v02–12: Job gives concrete examples of exploitation: land theft, seizure of animals, predatory lending, homelessness, hungry labor, and workers producing oil and wine they cannot enjoy.
+v09: The second line does not explicitly repeat a child as the object taken in pledge. The draft retains that restraint.
 
-v12: The final line is difficult. Job’s point is that cries of suffering rise while God appears not to intervene or treat the injustice as an immediately punishable outrage.
+v11: “Between their walls” can also be understood as among their rows, in the setting of pressing oil.
 
-v13–17: Murderer, adulterer, and thief structure their lives around darkness, yet the imagery also shows a moral inversion in which they experience daylight as threat.
+v12: The final clause can mean God does not charge anyone with wrongdoing; another reading takes it as his not attending to the cry.
 
-v18–24: This section is among the most difficult in the book syntactically. It may continue Job’s description of wicked prosperity while acknowledging eventual death, or it may voice the traditional judgment his friends expect. TSW preserves the received clauses without over-resolving their speaker or logic.
+v18–24: These lines are difficult to connect with the surrounding argument. They have been read as Job’s own description, a curse or wish, or a quotation of an opponent. The draft preserves their received order and attribution to Job without adding a new speaker.
 
-v25: Job closes by challenging anyone to falsify his observation of the world.
+v22: The subject is understood here as God drawing away the mighty. Alternatives concern God prolonging their life or a powerful person acting by his own strength.
 
 ## Vocabulary
 
-v01: עֵת (et)
-“Time” or “appointed time.” Job asks why times of judgment are not visible.
-
-v02: גְּבוּל (gevul)
-“Boundary marker.” Moving it is a form of land theft.
-
-v03: חָבַל (chaval)
-“To take as a pledge.” Debt security seized from the vulnerable.
-
-v08: מַחְסֶה (machaseh)
-“Shelter” or “refuge.” The poor lack shelter from mountain rain.
-
-v13: מָרַד (marad)
-“To rebel.” The wicked are described as rebels against the light.
-
-v19: שְׁאוֹל (Sheol)
-“Sheol.” The realm of death that consumes sinners as heat consumes snow water.
+v06: Fodder
+Food for animals; the poor glean what they can from another’s fields.

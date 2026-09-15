@@ -2,191 +2,64 @@
   "book": "Esther",
   "chapter": 7,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-esther-7-10-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "92b2b2153d789ef247fd282608af0684eb7e1f50",
+    "path": "audit/exegetical-core/fluent-production/esther/Esther_07_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Esth",
+    "book_verse_count": 167,
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Esth.xml",
-    "git_blob_sha": "69950cc320d3cad140477d5ea3c8767949984883"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "7:1-10",
-      "decision": "Keep Esther's strategic disclosure and Haman's reversal clear without obscuring the power imbalance around her.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Esth.xml",
     "git_blob_sha": "69950cc320d3cad140477d5ea3c8767949984883",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Esther 7:1",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 1,
-            "source_ref": "Esther 7:1",
-            "segment_mode": "whole",
-            "sha256": "d1ec567003498747210d657149f62634b46a8fb3757250930f68e19995c59272"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d1ec567003498747210d657149f62634b46a8fb3757250930f68e19995c59272"
-      },
-      "2": {
-        "source_ref": "Esther 7:2",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 2,
-            "source_ref": "Esther 7:2",
-            "segment_mode": "whole",
-            "sha256": "13cf7857fbb48c9d689b8d19b81ae786996e72f714407ad5663295dde9ae825a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "13cf7857fbb48c9d689b8d19b81ae786996e72f714407ad5663295dde9ae825a"
-      },
-      "3": {
-        "source_ref": "Esther 7:3",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 3,
-            "source_ref": "Esther 7:3",
-            "segment_mode": "whole",
-            "sha256": "1d2bb76f32ff08d06df0e02258dd85d0bc0f995dd6741bdce2426f1c9b514f12"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1d2bb76f32ff08d06df0e02258dd85d0bc0f995dd6741bdce2426f1c9b514f12"
-      },
-      "4": {
-        "source_ref": "Esther 7:4",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 4,
-            "source_ref": "Esther 7:4",
-            "segment_mode": "whole",
-            "sha256": "f622f447d283a1b83f6ea47722033325f7886cab02f5f4452131436a1218deb7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f622f447d283a1b83f6ea47722033325f7886cab02f5f4452131436a1218deb7"
-      },
-      "5": {
-        "source_ref": "Esther 7:5",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 5,
-            "source_ref": "Esther 7:5",
-            "segment_mode": "whole",
-            "sha256": "0ba5adc81356fd69e5095afcaa3abc6ef0c5fdb46f8346f8d8f2f6ad18672b24"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0ba5adc81356fd69e5095afcaa3abc6ef0c5fdb46f8346f8d8f2f6ad18672b24"
-      },
-      "6": {
-        "source_ref": "Esther 7:6",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 6,
-            "source_ref": "Esther 7:6",
-            "segment_mode": "whole",
-            "sha256": "38e537e7909933667b6af224a3f0c3a2c3b5337b74fede03f6b0fda1c17e09d8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "38e537e7909933667b6af224a3f0c3a2c3b5337b74fede03f6b0fda1c17e09d8"
-      },
-      "7": {
-        "source_ref": "Esther 7:7",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 7,
-            "source_ref": "Esther 7:7",
-            "segment_mode": "whole",
-            "sha256": "9d7d5a38144968426d5e17aef7c4ff3c34e7c5ea9a6611636523151c7fdbb412"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9d7d5a38144968426d5e17aef7c4ff3c34e7c5ea9a6611636523151c7fdbb412"
-      },
-      "8": {
-        "source_ref": "Esther 7:8",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 8,
-            "source_ref": "Esther 7:8",
-            "segment_mode": "whole",
-            "sha256": "7f48d8894b5c04d483be7fd60f6c241896a1a6ae9bb28e641d076958438ae13c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7f48d8894b5c04d483be7fd60f6c241896a1a6ae9bb28e641d076958438ae13c"
-      },
-      "9": {
-        "source_ref": "Esther 7:9",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 9,
-            "source_ref": "Esther 7:9",
-            "segment_mode": "whole",
-            "sha256": "1af159555ec8be206f9f1e63d2c1f14311f88d33fb3f741b7a55d845d36c3793"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1af159555ec8be206f9f1e63d2c1f14311f88d33fb3f741b7a55d845d36c3793"
-      },
-      "10": {
-        "source_ref": "Esther 7:10",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 10,
-            "source_ref": "Esther 7:10",
-            "segment_mode": "whole",
-            "sha256": "e51d46b86065cda4d28260bd11a38384f425fe790a9c3ba515ab8b150b907f1c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e51d46b86065cda4d28260bd11a38384f425fe790a9c3ba515ab8b150b907f1c"
-      }
+    "sha256": "fbce6b0601751035416ee98f492c6a5076bdbaa18518b8237d3df62276b1d015",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Esth.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Public Esther 7–10 binds the 62 matching original Hebrew records, including all source notes. The earlier 105 records remain bound in the Esther 1–6 ledger."
+  },
+  "chapter_binding": {
+    "chapter": 7,
+    "verse_count": 10,
+    "path": "translations/fluent/OT/esther/Esther_07.md",
+    "before_sha256": "0534a66a9d0e4056f9e565c2fd432bec1496dba9681d8e4daf58dbf7db3a1f0c",
+    "after_sha256": "b4b939754a53fd622dfac7896bdb89492d73441400e15dfe167e544e5c2c3a9b",
+    "tsw_comparator_path": "books/OT/esther/Esther_07.md",
+    "tsw_comparator_sha256": "2e9f42a2c7889699145aae79ff0529131670e37abb47dc71b3d0625d9259a935"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-esther-7-10/esther-verse-review.json",
+  "public_versification": "Public Esther 7–10 binds the 62 matching original Hebrew records, including all source notes. The earlier 105 records remain bound in the Esther 1–6 ledger.",
+  "key_decisions": [
+    {
+      "reference": "Esther 7:4",
+      "decision": "Retain the threefold destruction formula and enslaved men and women; mark the difficult final clause’s alternative reading in a note.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 7:8",
+      "decision": "Keep the king’s accusation distinct from the narrator’s description; preserve the face covering and ambiguous falling posture.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 7:9",
+      "decision": "Retain the witness’s appeal to Mordecai’s service, the height, and the reversal of the intended victim.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/esther/Esther_07.md",
-    "blob_sha": "44802ec979b0402d6be53838edf4559a0781bd1e"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

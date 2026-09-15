@@ -4,100 +4,76 @@ testament: OT
 chapter: 23
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## If Only I Knew Where to Find Him
+## Job: If only I knew where to find him
 
 <p>
-v01: Then Job answered and said:
-
-v02: “Even today my complaint is bitter;
-his hand is heavy despite my groaning.
-
-v03: If only I knew where to find him,
-that I might come to his seat!
-
+v01: Then Job answered:
+v02: “Even today my complaint is defiant;
+my hand lies heavy over my groaning.
+v03: If only I knew where to find him!
+I would come right to his dwelling.
 v04: I would arrange my case before him
 and fill my mouth with arguments.
-
-v05: I would know the words he would answer me
+v05: I would learn the words of his answer
 and understand what he would say to me.
-
-v06: Would he contend with me in the greatness of his power?
-No; surely he would give attention to me.
-
+v06: Would he oppose me with his great power?
+No—he would pay attention to me.
 v07: There an upright person could argue with him,
 and I would be delivered forever from my judge.
 </p>
 
-## I Cannot Perceive Him
+## I cannot see him
 
 <p>
-v08: Look, I go forward, but he is not there;
-and backward, but I cannot perceive him;
-
-v09: to the left where he works, but I cannot look him;
-he turns to the right, but I cannot see him.
-
-v10: But he knows the way that I take;
-when he has tested me,
-I will come out like gold.
-
-v11: My foot has held fast to his step;
-I have kept his way and not turned aside.
-
+v08: But I go forward, and he is not there;
+backward, and I cannot perceive him.
+v09: To the left, where he works, I cannot behold him;
+he turns to the right, and I cannot see him.
+v10: But he knows the way I take.
+When he tests me, I will come out like gold.
+v11: My feet have held to his steps;
+I have kept his way without turning aside.
 v12: I have not departed from the command of his lips;
-I have treasured the words of his mouth
-more than my appointed food.
+I have treasured his words more than my allotted food.
 </p>
 
-## He Is One, and Who Can Turn Him?
+## He does what he desires
 
 <p>
-v13: But he is one, and who can turn him?
-What his soul desires, that he does.
-
-v14: For he will complete what is appointed for me,
-and many such things are with him.
-
-v15: So I am terrified before his face;
+v13: But he is of one purpose—who can turn him back?
+Whatever he desires, he does.
+v14: He will complete what is appointed for me,
+and he has many such things in store.
+v15: That is why I am terrified before him;
 when I consider it, I am afraid of him.
-
-v16: God has made my heart faint,
-and the Almighty has terrified me,
-
-v17: yet I am not silenced by the darkness
-or by the thick darkness that covers my face.”
+v16: God has made my heart faint;
+the Almighty has terrified me.
+v17: Yet I am not silenced by darkness,
+by the thick gloom that covers my face.
 </p>
 
 ## Notes
 
-v03–07: Job imagines a formal hearing before God’s seat. He believes an actual encounter could produce attention and vindication rather than simply overpowering force.
+v02: The Hebrew can describe Job’s complaint as defiant or bitter. It reads “my hand,” though many render “his hand.” The draft retains Job’s hand and the difficult comparison with his groaning.
 
-v08–09: God is inaccessible in every direction. Job’s problem is no longer only that God attacks him but that the God he wants to address cannot be located.
+v08–09: Forward, back, left, and right can also be understood as east, west, north, and south.
 
-v10: The line can mean that God knows Job’s way even when Job cannot find God. Job expects testing to reveal rather than create his integrity: he will emerge as gold.
+v12: The comparison can refer to allotted food or to Job’s own prescribed course.
 
-v12: The Hebrew final phrase is difficult and can mean “more than my portion,” “more than my prescribed food,” or “within my breast.” TSW follows the food comparison while preserving the sense of valuing divine words intensely.
+v13: “One” can emphasize God’s single purpose or his unique, unopposed standing.
 
-v13–16: The same divine sovereignty that could vindicate Job also terrifies him because God’s purpose cannot be redirected by human power.
+v17: The final sentence is difficult. The draft understands Job as not silenced by darkness; another reading concerns not being cut off before darkness came.
 
 ## Vocabulary
 
-v03: תְּכוּנָה (tekhunah)
-“Seat,” “place,” or “established location.” Job longs to reach God’s place of judgment.
+v04: Case
+Job imagines arranging his arguments for a hearing.
 
-v04: מִשְׁפָּט (mishpat)
-“Case” or “judgment.” Job wants to arrange his legal case before God.
-
-v06: רִיב (riv)
-“To contend” or “litigate.” Job asks whether God would use overwhelming power in the dispute.
-
-v10: בָּחַן (bachan)
-“To test” or “examine.” The testing Job says will reveal him like refined gold.
-
-v12: צָפַן (tsafan)
-“To treasure” or “store up.” Job’s relation to the words of God’s mouth.
-
-v16: רָכַךְ (rakhakh)
-“To make soft” or “make faint.” God has made Job’s heart lose firmness.
+v10: Gold
+Refining supplies an image for being tested and emerging with integrity.

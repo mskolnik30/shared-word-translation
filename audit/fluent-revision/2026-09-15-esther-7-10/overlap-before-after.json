@@ -1,0 +1,453 @@
+{
+  "method": "NFKC/casefold words, punctuation ignored; SequenceMatcher autojunk=false; near threshold 0.90. Triage only, no quota, no proof of fidelity or independent authorship.",
+  "summary": {
+    "before": {
+      "verses": 62,
+      "identical_words": 52,
+      "near_identical": 10,
+      "mean_word_similarity": 0.994796
+    },
+    "after": {
+      "verses": 62,
+      "identical_words": 2,
+      "near_identical": 3,
+      "mean_word_similarity": 0.710024
+    }
+  },
+  "verses": [
+    {
+      "reference": "Esther 7:1",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Esther 7:2",
+      "before_similarity": 0.954545,
+      "after_similarity": 0.682927,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 7:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 7:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 7:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.634146,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 7:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.944444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 7:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.613333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 7:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.686275,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 7:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.78481,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 7:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.784314,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.716418,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.603448,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.790123,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.630137,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.776471,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.861111,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.637681,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 8:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.549451,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:1",
+      "before_similarity": 0.980392,
+      "after_similarity": 0.531915,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:2",
+      "before_similarity": 0.972973,
+      "after_similarity": 0.724638,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:5",
+      "before_similarity": 0.96,
+      "after_similarity": 0.833333,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:7",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "Esther 9:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:12",
+      "before_similarity": 0.965517,
+      "after_similarity": 0.738739,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.578947,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:16",
+      "before_similarity": 0.976744,
+      "after_similarity": 0.775,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.77551,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.678571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:19",
+      "before_similarity": 0.972973,
+      "after_similarity": 0.470588,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.324324,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.632653,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.794118,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:26",
+      "before_similarity": 0.96875,
+      "after_similarity": 0.603175,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:27",
+      "before_similarity": 0.976744,
+      "after_similarity": 0.459459,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:28",
+      "before_similarity": 0.948718,
+      "after_similarity": 0.648649,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.763158,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 9:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 10:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 10:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.886076,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "Esther 10:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.542857,
+      "before_identical": true,
+      "after_identical": false
+    }
+  ]
+}

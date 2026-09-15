@@ -4,118 +4,85 @@ testament: OT
 chapter: 18
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## Bildad: How Long Will You Hunt for Words?
+## Bildad: The wicked man’s light goes out
 
 <p>
-v01: Then Bildad the Shuhite answered and said:
-
-v02: “How long will you hunt for words?
-Consider, and afterward we will speak.
-
+v01: Then Bildad the Shuhite answered:
+v02: “How long before you put an end to words?
+Gain understanding, and then we can speak.
 v03: Why are we counted as animals,
-and regarded as unclean in your eyes?
-
+regarded as unclean in your eyes?
 v04: You who tear yourself in your anger—
-should the earth be abandoned for your sake,
-or a rock be moved from its place?
+should the earth be abandoned for you?
+Should a rock move from its place?
 </p>
 
-## The Light of the Wicked Is Extinguished
+## Caught in his own trap
 
 <p>
-v05: Indeed, the light of the wicked is extinguished,
-and the flame of his fire does not shine.
-
-v06: Light becomes dark in his tent,
-and his lamp above him is extinguished.
-
-v07: His strong steps are restricted,
-and his own counsel casts him down.
-
-v08: For he is sent into a net by his own feet,
-and he walks upon a lattice trap.
-
-v09: A trap seizes him by the heel;
-a snare holds him fast.
-
-v10: A cord is hidden for him in the ground,
-and a trap for him on the path.
-</p>
-
-## Terrors Frighten Him on Every Side
-
-<p>
+v05: The light of the wicked will indeed go out;
+the flame of his fire will not shine.
+v06: Light grows dark in his tent;
+the lamp above him goes out.
+v07: His vigorous strides are narrowed;
+his own plans throw him down.
+v08: His own feet drive him into a net;
+he walks over a mesh trap.
+v09: A snare catches his heel;
+a trap grips him.
+v10: A cord lies hidden for him in the ground,
+a trap along his path.
 v11: Terrors frighten him on every side
 and chase him at his heels.
-
-v12: His strength becomes hungry,
-and calamity is ready at his side.
-
+v12: His strength is famished,
+and disaster stands ready at his side.
 v13: It consumes parts of his skin;
-the firstborn of death consumes his limbs.
-
-v14: He is torn from the security of his tent
-and marched to the king of terrors.
-
-v15: Fire dwells in his tent, no longer his;
-sulfur is scattered upon his dwelling.
-
-v16: His roots dry up below,
-and his branch withers above.
+the firstborn of Death consumes his limbs.
 </p>
 
-## He Has No Name in the Street
+## Driven to the king of terrors
 
 <p>
-v17: His memory perishes from the earth,
-and he has no name in the street.
-
+v14: He is torn from the tent he trusted
+and marched before the king of terrors.
+v15: What is not his will inhabit his tent;
+sulfur will be scattered over his dwelling.
+v16: Below, his roots dry up;
+above, his branches wither.
+v17: His memory perishes from the earth;
+he has no name in the streets.
 v18: He is driven from light into darkness
-and chased from the inhabited world.
-
+and chased out of the world.
 v19: He has no offspring or descendant among his people,
-and no survivor where he once lived.
-
-v20: Those in the west are appalled at his day,
-and those in the east are seized with horror.
-
-v21: Surely these are the dwellings of the unjust,
-and this is the place
-of one who does not know God.”
+no survivor where he lived.
+v20: Those in the west are appalled at his day;
+those in the east are seized with horror.
+v21: Such are the dwellings of the unjust;
+this is the place of one who does not know God.”
 </p>
 
 ## Notes
 
-v03: Bildad reacts defensively to Job’s criticism of the friends, interpreting it as though Job has treated them like ignorant animals.
+v02–03: Bildad uses plural forms of “you,” although Job is his immediate opponent.
 
-v04: Bildad accuses Job of expecting the moral order of creation to be changed for his individual case. He treats his own retributive framework as fixed like earth and rock.
+v03: The word rendered “unclean” is rare and has also been understood as dull or stupid.
 
-v05–10: A network of trap images depicts the wicked as caught by the consequences of their own path.
+v12: The line may describe famished strength or disaster hungry for its victim.
 
-v13: “firstborn of death” — A poetic personification, possibly meaning the most deadly disease or most terrible agent of death. The phrase is not further defined.
+v15: The first line can describe something not belonging to the man occupying his tent. The following sulfur image is retained without silently supplying a different Hebrew text.
 
-v14: “king of terrors” personifies death or the power associated with death.
-
-v17–19: Bildad’s description includes loss of memory, name, children, and household—details that cut painfully close to Job’s actual losses and therefore function as implied accusation.
+v20: The paired expressions can refer to west and east or to later and earlier generations. The draft follows the geographic reading.
 
 ## Vocabulary
 
-v05: אוֹר (or)
-“Light.” A common image of life and flourishing, here extinguished for the wicked.
+v13: Firstborn of Death
+A personification of a powerful, deadly affliction.
 
-v08: רֶשֶׁת (reshet)
-“Net.” One of several trapping images in Bildad’s speech.
-
-v09: פַּח (pach)
-“Snare” or “trap.” A device that catches unexpectedly.
-
-v13: בְּכוֹר מָוֶת (bekhor mavet)
-“Firstborn of death.” A poetic designation for a supreme or especially deadly power.
-
-v14: מֶלֶךְ בַּלָּהוֹת (melekh ballahot)
-“King of terrors.” Personified death or terror.
-
-v17: זֵכֶר (zekher)
-“Memory” or “remembrance.” The wicked person’s name disappears from communal memory.
+v14: King of terrors
+A poetic ruler of death’s terrors; the text does not identify a historical king.

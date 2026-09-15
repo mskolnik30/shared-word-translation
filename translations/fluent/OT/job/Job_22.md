@@ -4,147 +4,101 @@ testament: OT
 chapter: 22
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## Eliphaz: Can a Human Be of Use to God?
+## Eliphaz: Is not your wrongdoing great?
 
 <p>
-v01: Then Eliphaz the Temanite answered and said:
-
-v02: “Can a human be of use to God?
-Surely a wise person is useful only to himself.
-
-v03: Is it a delight to the Almighty if you are righteous,
-or gain to him if you make your ways blameless?
-
-v04: Is it because of your fear that he corrects you
-and enters into judgment with you?
-
-v05: Is not your wickedness great,
-and is there no end to your guilt?
+v01: Then Eliphaz the Temanite answered:
+v02: “Can a man be of use to God?
+Even a wise person benefits himself.
+v03: Does the Almighty gain pleasure because you are righteous,
+or profit because your ways have integrity?
+v04: Is it because of your reverence that he rebukes you
+and brings you into judgment?
+v05: Is not your wickedness great?
+Are not your wrongs endless?
+v06: You took pledges from your brothers without cause
+and stripped clothing from those who were nearly naked.
+v07: You gave no water to the exhausted
+and withheld bread from the hungry.
+v08: The man with power owned the land,
+and the favored man lived in it.
+v09: You sent widows away empty-handed,
+and the arms of orphans were crushed.
+v10: That is why snares surround you
+and sudden terror overwhelms you,
+v11: or darkness keeps you from seeing,
+and a flood of water covers you.
 </p>
 
-## You Have Taken Pledges from Your Brothers
+## God sees from heaven
 
 <p>
-v06: For you have taken a pledge from your brothers for nothing
-and stripped the clothing of the naked.
-
-v07: You have not given water to the weary to drink,
-and from the hungry you have withheld bread.
-
-v08: The land belonged to the man of power,
-and the favored person lived in it.
-
-v09: You sent widows away empty,
-and the arms of the fatherless were crushed.
-
-v10: So snares are around you,
-and sudden dread terrifies you,
-
-v11: or darkness, so that you cannot see,
-and a flood of waters covers you.
-</p>
-
-## Does God Not See?
-
-<p>
-v12: Is not God high in the heavens?
-See the highest stars, how high they are!
-
+v12: Is not God in the heights of heaven?
+Look at the highest stars—how lofty they are!
 v13: Yet you say, ‘What does God know?
 Can he judge through thick darkness?
-
-v14: Clouds are his covering, so he cannot see,
-and he walks upon the vault of heaven.’
-</p>
-
-## Will You Keep the Ancient Path?
-
-<p>
-v15: Will you keep the ancient path
-that people of wickedness walked,
-
-v16: who were snatched away before their time,
-whose foundation was poured away like a river?
-
-v17: They said to God, ‘Depart from us,’
-and, ‘What can the Almighty do to us?’
-
-v18: Yet he filled their houses with good things.
+v14: Clouds hide him so he cannot see;
+he walks on the vault of heaven.’
+v15: Will you keep to the ancient path
+that evildoers have trodden,
+v16: who were swept away before their time,
+whose foundation was washed out by a river?
+v17: They said to God, ‘Leave us alone!’
+What could the Almighty do to them?
+v18: Yet he had filled their houses with good things.
 The counsel of the wicked is far from me.
-
-v19: The righteous see it and rejoice,
-and the innocent mock them,
-
-v20: saying, ‘Surely our adversaries are cut off,
-and fire has consumed what remained of them.’
+v19: The righteous see it and rejoice;
+the innocent mock them:
+v20: ‘Surely our adversaries are cut off,
+and fire has consumed what they left.’
 </p>
 
 ## Return to the Almighty
 
 <p>
-v21: Become acquainted with him and be at peace;
-by this good will come to you.
-
-v22: Receive instruction from his mouth,
-and place his words in your heart.
-
-v23: If you return to the Almighty, you will be restored;
-if you remove injustice far from your tents,
-
-v24: and put your gold in the dust,
-and the gold of Ophir among the stones of the wadis,
-
+v21: Come to terms with him and be at peace;
+through this, good will come to you.
+v22: Receive instruction from his mouth
+and lay his words in your heart.
+v23: If you return to the Almighty, you will be rebuilt,
+if you put injustice far from your tents,
+v24: if you put gold in the dust
+and gold of Ophir among the stones of the ravines,
 v25: then the Almighty will be your gold
 and your precious silver.
-
-v26: For then you will delight yourself in the Almighty
-and lift up your face to God.
-
-v27: You will pray to him, and he will hear you,
-and you will fulfill your vows.
-
-v28: You will decide a matter, and it will stand for you,
-and light will shine upon your ways.
-
-v29: When people are brought low, you will say, ‘Lift up!’
-and he will save the one of lowered eyes.
-
-v30: He will deliver even one who is not innocent;
-he will be delivered through the cleanness of your hands.”
+v26: Then you will delight in the Almighty
+and lift your face to God.
+v27: You will pray to him, and he will hear you;
+you will fulfill your vows.
+v28: You will decide on a matter, and it will stand for you;
+light will shine on your paths.
+v29: When people are brought low, you will say, ‘Lift them up!’
+He will save those whose eyes are lowered.
+v30: He will rescue even one who is not innocent;
+that person will be rescued through the cleanness of your hands.”
 </p>
 
 ## Notes
 
-v05–09: Eliphaz moves from implication to explicit accusation, charging Job with economic exploitation, withholding food and water, and harming widows and orphans. None of these charges has been supported by the narrative.
+v05–09: The alleged offenses are accusations made by Eliphaz. The narrator has not established that Job committed them.
 
-v13–14: Eliphaz puts a theology of divine remoteness into Job’s mouth, although Job’s complaint has usually been the opposite: God is painfully present and attentive.
+v11: The opening “or” and the relation of darkness to seeing are abrupt in the Hebrew.
 
-v15–20: The “ancient path” may allude to a remembered catastrophic judgment, perhaps the flood, but the reference is not explicit.
+v17: The pinned text asks what the Almighty could do “to them,” not “to us.” The draft preserves the shift out of the preceding direct speech.
 
-v18: Eliphaz repeats Job’s own wording from 21:16—“the counsel of the wicked is far from me”—while embedding it within his contrary argument.
+v20: The term rendered “adversaries” is uncommon and uncertain.
 
-v21–30: Eliphaz offers reconciliation with God through repentance and rejection of wealth. Much of the counsel could be sound for a guilty oppressor, but the speech presupposes Job is such a person.
+v29: The short exclamation can call for lifting the fallen or refer to pride. The draft follows the appeal to lift them up.
 
-v30: The Hebrew final verse is difficult. It can imply that Job’s clean hands would become a means of deliverance even for someone guilty, an ironic anticipation of Job’s later intercession for the friends.
+v30: The opening word is rare. Read as a negative, it gives “one who is not innocent”; an alternative connects it with an island or region of the innocent.
 
 ## Vocabulary
 
-v04: מִשְׁפָּט (mishpat)
-“Judgment” or “legal case.” Eliphaz assumes Job’s suffering is divine litigation for guilt.
-
-v06: חָבַל (chaval)
-“To take a pledge.” To seize property as security for debt.
-
-v09: יָתוֹם (yatom)
-“Fatherless” or “orphan.” A person especially vulnerable to exploitation.
-
-v21: סָכַן (sakhan)
-“To become acquainted” or “be of use.” A rare verb in Eliphaz’s invitation to be reconciled with God.
-
-v23: שׁוּב (shuv)
-“To return.” The central verb of Eliphaz’s call to repentance.
-
-v25: בֶּצֶר (betser)
-“Gold” or “precious ore.” Wealth replaced by the Almighty himself.
+v24: Ophir
+A source of prized gold; its location is uncertain.

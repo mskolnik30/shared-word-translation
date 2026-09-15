@@ -4,147 +4,104 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## If Only My Grief Could Be Weighed
+## Job: My grief has weight
 
 <p>
-v01: Then Job answered and said:
-
-v02: “If only my grief could truly be weighed,
-and my calamity laid together on the scales!
-
-v03: For now it would be heavier than the sand of the seas;
-so my words have been rash.
-
-v04: For the arrows of the Almighty are in me;
+v01: Then Job answered:
+v02: “If only my anguish could be weighed
+and all my calamity laid together on the scales!
+v03: It would outweigh the sand of the seas.
+That is why my words have been rash.
+v04: The Almighty’s arrows are in me;
 my spirit drinks their poison.
-The terrors of God are arranged against me.
-
-v05: Does the wild donkey bray over grass,
-or does the ox low over its fodder?
-
-v06: Can tasteless food be eaten without salt,
-or is there flavor in the white of an egg?
-
-v07: My life refuses to touch them;
+God’s terrors are arrayed against me.
+v05: Does a wild donkey bray when it has grass,
+or an ox low over its fodder?
+v06: Can tasteless food be eaten without salt?
+Is there flavor in the white of an egg?
+v07: I refuse to touch such things;
 they are like sickening food to me.
 </p>
 
-## That God Would Grant My Request
-
 <p>
-v08: If only my request would come,
-and God would grant my hope—
-
-v09: that God would be willing to crush me,
-that he would release his hand and cut me off!
-
-v10: Then this would still be my comfort;
-I would leap in pain that does not spare,
-for I have not hidden the words of the Holy One.
-
-v11: What is my strength, that I should wait?
-And what is my end, that I should prolong my life?
-
+v08: If only my request would be granted,
+if God would give me what I long for!
+v09: If only God would consent to crush me,
+release his hand and cut me off!
+v10: Then I would still have this comfort,
+and exult in pain that does not relent:
+I have not denied the words of the Holy One.
+v11: What strength do I have to keep waiting?
+What future do I have to prolong my endurance?
 v12: Is my strength the strength of stones?
 Is my flesh bronze?
-
-v13: Is there any help in me?
-Has resourcefulness been driven from me?
+v13: Have I not been left without help within me?
+Has every resource been driven from me?
 </p>
 
-## My Brothers Have Dealt Treacherously
+## Friends like a failing stream
 
 <p>
-v14: Steadfast love is owed to one who is despairing by a friend,
-even if he abandons the fear of the Almighty.
-
-v15: My brothers have dealt treacherously like a wadi,
-like channels of wadis that pass away,
-
-v16: which are dark with ice,
-and snow hides itself in them.
-
-v17: In the season when they are scorched, they vanish;
-when it is hot, they disappear from their place.
-
-v18: Caravans turn aside from their course;
+v14: A friend owes faithful love to one who is wasting away,
+even if he abandons reverence for the Almighty.
+v15: My brothers have been treacherous like a streambed,
+like channels whose waters pass away,
+v16: dark with ice,
+where snow lies hidden.
+v17: When heat comes, they vanish;
+in the warmth they dry up where they stood.
+v18: Caravans turn aside from their routes;
 they go up into the wasteland and perish.
-
-v19: The caravans of Tema look;
+v19: The caravans of Tema look for them;
 the travelers of Sheba hope for them.
-
 v20: They are ashamed because they trusted;
-they come there and are confounded.
-
-v21: For now you have become nothing;
-you see terror and are afraid.
+they arrive there and are dismayed.
+v21: That is what you have become to me.
+You see something dreadful and are afraid.
+v22: Have I said, ‘Give me something,’
+or, ‘Pay a ransom for me from your wealth,’
+v23: or, ‘Rescue me from an enemy’s hand;
+redeem me from the grip of ruthless men’?
 </p>
 
-## Teach Me, and I Will Be Silent
+## Show me where I went wrong
 
 <p>
-v22: Did I say, ‘Give to me’?
-Or, ‘Offer a bribe for me from your wealth’?
-
-v23: Or, ‘Deliver me from the hand of an adversary’?
-Or, ‘Redeem me from the hand of the ruthless’?
-
-v24: Teach me, and I will be silent;
-make me understand how I have gone astray.
-
-v25: How forceful are honest words!
-But what does your correction correct?
-
-v26: Do you intend to correct words,
-and treat the words of one in despair as wind?
-
+v24: Teach me, and I will be silent.
+Show me where I have gone wrong.
+v25: How forceful honest words can be!
+But what does your rebuke prove?
+v26: Do you mean to correct mere words,
+treating a desperate man’s speech as wind?
 v27: You would even cast lots over an orphan
-and bargain over your friend.
-
-v28: But now, please turn and look at me;
-surely I will not lie to your face.
-
-v29: Turn, please; let there be no injustice.
-Turn again; my righteousness is still in this.
-
+and bargain away your friend.
+v28: Now, please turn and look at me.
+Would I lie to your faces?
+v29: Reconsider, please; let there be no injustice.
+Reconsider—my righteousness is at stake.
 v30: Is there injustice on my tongue?
-Can my palate not discern calamity?”
+Can my palate not discern calamity?
 </p>
 
 ## Notes
 
-v02–03: Job asks that grief and calamity be placed on scales. His “rash” words are explained by the disproportionate weight of suffering rather than dismissed as meaningless speech.
+v06: The substance paired with tasteless food is uncertain: egg white and the juice of a plant such as mallow are possibilities.
 
-v04: Job experiences God not as refuge but as an archer whose poisoned arrows are already inside him. The metaphor is intentionally unsettling.
+v10: The verb for exulting or taking comfort amid pain is uncommon. Job’s refusal to deny the Holy One’s words is retained.
 
-v08–10: Job again asks for death but insists that he has not denied the Holy One’s words. His desire to die and his claim to faithfulness coexist.
+v14: The draft takes the sufferer as the one who may abandon reverence for the Almighty. Another reading accuses the friend who withholds loyalty of abandoning that reverence.
 
-v14: The Hebrew line is difficult. TSW follows the sense that a despairing person is owed loyal love by a friend even when faith itself is failing.
+v18: The Hebrew may describe caravans turning aside or the channels of streams running away. The caravan reading continues the travelers’ search for water.
 
-v15–20: Seasonal wadis promise water from a distance but disappear when travelers most need them. Job uses the image for friends who have failed precisely when suffering made friendship necessary.
-
-v24: Job is willing to be taught if the friends can identify his actual wrongdoing. His protest is against accusation without demonstrated offense.
-
-v26: Job asks whether the friends are treating desperate speech itself as evidence, rather than hearing it as the speech of a person overwhelmed by suffering.
+v21: The written and read forms differ: the written form can yield “you have become nothing,” while the read form means “to it/him.” “That is what you have become to me” relates the friends to the failed stream; the wording remains uncertain.
 
 ## Vocabulary
 
-v02: כַּעַס (ka'as)
-“Grief,” “vexation,” or “anguish.” Job’s inward burden.
-
-v04: חֵץ (chets)
-“Arrow.” Job describes the Almighty’s terrors as poisoned arrows.
-
-v09: דָּכָא (daka)
-“To crush.” The death Job asks God to permit.
-
-v14: חֶסֶד (ḥesed)
-“Steadfast love” or “loyal kindness.” What Job says a despairing friend is owed.
-
-v15: נַחַל (nachal)
-“Wadi” or seasonal stream. A channel that may flow and then vanish.
-
-v25: נִמְרְצוּ (nimretsu)
-“Forceful,” “painful,” or “effective.” Describes honest words whose impact is real.
+v14: Faithful love
+Loyal care expected within a relationship, even when the sufferer’s faith is shaken.

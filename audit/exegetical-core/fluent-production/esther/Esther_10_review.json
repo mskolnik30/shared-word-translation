@@ -2,80 +2,54 @@
   "book": "Esther",
   "chapter": 10,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-esther-7-10-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "92b2b2153d789ef247fd282608af0684eb7e1f50",
+    "path": "audit/exegetical-core/fluent-production/esther/Esther_10_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Esth",
+    "book_verse_count": 167,
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Esth.xml",
-    "git_blob_sha": "69950cc320d3cad140477d5ea3c8767949984883"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Esth.xml",
     "git_blob_sha": "69950cc320d3cad140477d5ea3c8767949984883",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Esther 10:1",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 1,
-            "source_ref": "Esther 10:1",
-            "segment_mode": "whole",
-            "sha256": "d328d1a446f4a35cc392df6cab15ddaf4e7581f65f3dbbac2b7419091b9b5ea0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d328d1a446f4a35cc392df6cab15ddaf4e7581f65f3dbbac2b7419091b9b5ea0"
-      },
-      "2": {
-        "source_ref": "Esther 10:2",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 2,
-            "source_ref": "Esther 10:2",
-            "segment_mode": "whole",
-            "sha256": "ada8f0a158f7a8629cd59d48d7fce559e01d0f4200b7ba37d4050086d89f4dc4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ada8f0a158f7a8629cd59d48d7fce559e01d0f4200b7ba37d4050086d89f4dc4"
-      },
-      "3": {
-        "source_ref": "Esther 10:3",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 3,
-            "source_ref": "Esther 10:3",
-            "segment_mode": "whole",
-            "sha256": "759e2169ca7e6ecff0a62987ef2f9abec2607fad29e23c82792dade18ea7a706"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "759e2169ca7e6ecff0a62987ef2f9abec2607fad29e23c82792dade18ea7a706"
-      }
+    "sha256": "fbce6b0601751035416ee98f492c6a5076bdbaa18518b8237d3df62276b1d015",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Esth.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Public Esther 7–10 binds the 62 matching original Hebrew records, including all source notes. The earlier 105 records remain bound in the Esther 1–6 ledger."
+  },
+  "chapter_binding": {
+    "chapter": 10,
+    "verse_count": 3,
+    "path": "translations/fluent/OT/esther/Esther_10.md",
+    "before_sha256": "ed3def91be42da65b065fc7329e61463b134e1470c5c25d2027f23820b02503e",
+    "after_sha256": "c4483e7e454522a8d1539654c38c4fa11b309071553d7a6bdc31adc482db2004",
+    "tsw_comparator_path": "books/OT/esther/Esther_10.md",
+    "tsw_comparator_sha256": "052a9b15cf0c5bf363dec7fa94b9654038f9e7da4a7980b4c176b624dfdb6c9f"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-esther-7-10/esther-verse-review.json",
+  "public_versification": "Public Esther 7–10 binds the 62 matching original Hebrew records, including all source notes. The earlier 105 records remain bound in the Esther 1–6 ledger.",
+  "key_decisions": [
+    {
+      "reference": "Esther 10:3",
+      "decision": "Retain second rank and the qualified many rather than unanimous approval; render the final seed reference corporately, with the literal wording noted.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/esther/Esther_10.md",
-    "blob_sha": "4a50251a68e0edb3f7c06c0c930ac7c0a0afc33f"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -4,175 +4,118 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## How Can a Human Be Right with God?
+## Job: Who can contend with God?
 
 <p>
-v01: Then Job answered and said:
-
-v02: “Truly I know that it is so,
-but how can a human be right with God?
-
-v03: If one wished to contend with him,
-one could not answer him
-one time out of a thousand.
-
-v04: Wise in heart and mighty in strength—
-who has hardened himself against him
-and come out whole?
-</p>
-
-## He Does Great Things Beyond Searching
-
-<p>
-v05: He removes mountains, and they do not know it,
-when he overturns them in his anger.
-
+v01: Then Job answered:
+v02: “Yes, I know that this is so.
+But how can a mortal be in the right before God?
+v03: If someone wished to dispute with him,
+he could not answer him once in a thousand times.
+v04: God is wise in heart and mighty in strength.
+Who has resisted him and come through unharmed?
+v05: He moves mountains before they know it,
+overturning them in his anger.
 v06: He shakes the earth from its place,
 and its pillars tremble.
-
 v07: He commands the sun, and it does not rise;
 he seals up the stars.
-
 v08: He alone stretches out the heavens
-and treads upon the heights of the sea.
-
-v09: He made the Bear and Orion,
-the Pleiades
+and treads on the heights of the sea.
+v09: He made the Bear, Orion, and the Pleiades,
 and the chambers of the south.
-
-v10: He does great things beyond searching,
-and wonders without number.
-
-v11: Look, he passes by me, but I do not see him;
+v10: He does great things beyond searching out,
+wonders beyond counting.
+v11: He passes by me, but I do not see him;
 he moves on, but I do not perceive him.
-
-v12: Look, he snatches away—who can turn him back?
-Who can say to him,
-‘What are you doing?’
+v12: If he snatches something away, who can stop him?
+Who can ask him, ‘What are you doing?’
+v13: God does not turn back his anger;
+even Rahab’s helpers bow beneath him.
 </p>
 
-## How Could I Answer Him?
+## How could I answer him?
 
 <p>
-v13: God will not turn back his anger;
-under him the helpers of Rahab bow.
-
-v14: How much less could I answer him
-and choose my words with him?
-
-v15: Though I were righteous, I could not answer;
-I would plead for mercy from my judge.
-
-v16: If I called and he answered me,
-I would not believe
-that he listened to my voice.
-
-v17: For he crushes me with a storm
+v14: How much less could I answer him,
+choosing my words to argue with him!
+v15: Even if I were in the right, I could not answer;
+I could only plead with my judge.
+v16: If I called and he answered,
+I would not believe he was listening to my voice.
+v17: He crushes me in a storm
 and multiplies my wounds without cause.
-
-v18: He will not let me catch my breath,
-but fills me with bitter things.
-
-v19: If it is a matter of strength—look, he is mighty!
-And if of justice—who can summon him?
-
-v20: Though I were righteous, my own mouth would condemn me;
-though I were blameless,
-it would declare me crooked.
+v18: He will not let me catch my breath;
+he fills me with bitterness.
+v19: If it is a matter of strength, he is mighty!
+If it is a matter of justice, who can summon me?
+v20: Even if I were in the right, my own mouth would condemn me;
+even if I had integrity, it would declare me crooked.
 </p>
 
-## I Am Blameless, Yet I Despise My Life
-
 <p>
-v21: I am blameless; I do not know myself.
+v21: I have integrity! I no longer care for myself;
 I despise my life.
-
-v22: It is all one; therefore I say:
-he destroys the blameless and the wicked.
-
-v23: If a scourge suddenly kills,
-he mocks at the despair of the innocent.
-
-v24: The earth is given into the hand of the wicked;
+v22: It is all the same. That is why I say,
+‘He destroys the person of integrity and the wicked alike.’
+v23: When a scourge brings sudden death,
+he mocks the despair of the innocent.
+v24: The earth is handed over to the wicked;
 he covers the faces of its judges.
 If it is not he, then who is it?
 </p>
 
-## My Days Flee Away
+## There is no arbiter between us
 
 <p>
 v25: My days are swifter than a runner;
-they flee away; they see no good.
-
-v26: They pass like boats of reed,
-like an eagle swooping upon prey.
-
-v27: If I say, ‘I will forget my complaint;
-I will put away my sad face and be cheerful,’
-
-v28: I become afraid of all my pains;
-I know you will not hold me innocent.
-
-v29: I will be condemned.
-Why then do I labor in vain?
-
-v30: If I wash myself with snow
-and cleanse my hands with lye,
-
-v31: then you would plunge me into a pit,
-and my own clothes would abhor me.
-</p>
-
-## There Is No Arbiter Between Us
-
-<p>
-v32: For he is not a man like me, that I might answer him,
-that we might come together in judgment.
-
+they flee without seeing good.
+v26: They pass like reed boats,
+like an eagle swooping on prey.
+v27: If I say, ‘I will forget my complaint,
+put off my gloomy face and brighten up,’
+v28: I still dread all my pain.
+I know you will not acquit me.
+v29: I am to be condemned;
+why should I wear myself out for nothing?
+v30: Even if I washed with snow water
+and cleaned my hands with lye,
+v31: you would plunge me into a pit,
+and even my clothes would loathe me.
+v32: For he is not a man like me, that I could answer him
+and we could go to court together.
 v33: There is no arbiter between us
-who might lay a hand upon us both.
-
-v34: Let him remove his rod from me,
-and let his terror not frighten me.
-
-v35: Then I would speak and not fear him,
-for in myself I am not so.”
+to lay a hand on us both.
+v34: Let him take his rod away from me;
+let his terror no longer frighten me.
+v35: Then I could speak without fearing him,
+but as things stand, I cannot.
 </p>
 
 ## Notes
 
-v02: Job does not deny divine justice in the abstract; he asks how a human being could establish a case before a God whose power is incomparable.
+v09: Bear, Orion, and Pleiades are conventional identifications of the Hebrew star names; the exact ancient groupings are uncertain.
 
-v08: “heights of the sea” — The Hebrew *bamot yam* may mean waves, heights, or backs of the sea. The image presents God walking above the chaotic waters.
+v13: Rahab here is a poetic chaos figure, not the woman in Joshua.
 
-v09: The Hebrew names constellations familiar to ancient observers. Their exact correspondence with modern constellation names is traditional rather than certain in every case.
+v19: The Hebrew reads “Who can summon me?” The first person is retained. It can be heard as a challenge voiced by God; other readings make Job the speaker of the question, or render it with “him.”
 
-v13: “Rahab” — Here Rahab is not the woman of Joshua but a mythic sea-monster or chaos power. Even its helpers bow beneath God.
+v20: The subject that would declare Job twisted can be his own mouth or God. The line preserves the pressure of a defense that turns against him.
 
-v17: Job uses *chinnam*, “without cause,” the same term used in the heavenly prologue. His claim therefore unexpectedly echoes the narrator’s privileged information.
+v26: The material of the swift boats is uncertain; reed boats is a common understanding.
 
-v22–24: Job pushes retribution theology to its breaking point by observing that blameless and wicked alike die and that the wicked may hold power in the world.
-
-v33: Job longs for an arbiter able to stand between himself and God and “lay a hand” upon both. The legal image expresses the impossibility Job feels in arguing his case directly.
+v35: The closing phrase is exceptionally compressed, literally something like “not so am I with myself.” The draft understands Job as unable to speak freely under present conditions.
 
 ## Vocabulary
 
-v02: צָדַק (tsadaq)
-“To be right” or “be justified.” Job asks how a human can be right in a case with God.
+v13: Rahab
+A name associated with the defeat of chaotic power.
 
-v03: רִיב (riv)
-“To contend” or “plead a case.” Legal dispute language central to Job’s desire for a hearing.
-
-v08: בָּמֳתֵי יָם (bamote yam)
-“Heights of the sea.” Poetic imagery of God mastering the sea.
-
-v13: רַהַב (Rahav)
-“Rahab.” A poetic name for a chaos monster or proud sea power.
-
-v17: חִנָּם (chinnam)
-“Without cause.” Job’s claim that his wounds lack moral cause.
-
-v33: מוֹכִיחַ (mokhiach)
-“Arbiter,” “mediator,” or “one who decides.” Someone who could stand between disputing parties.
+v33: Arbiter
+Someone able to bring both parties together and hear their dispute. No specific figure is identified.

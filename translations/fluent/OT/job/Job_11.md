@@ -4,112 +4,81 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-job-1-26-biblical-fluency-2026-09-15
 ---
 
-## Zophar: Should Your Talk Go Unanswered?
+## Zophar: If only God would speak
 
 <p>
-v01: Then Zophar the Naamathite answered and said:
-
-v02: “Should a multitude of words go unanswered,
-and should a man full of talk be justified?
-
-v03: Should your empty talk make people silent,
-and when you mock, should no one shame you?
-
-v04: For you say, ‘My teaching is pure,
+v01: Then Zophar the Naamathite answered:
+v02: “Should this torrent of words go unanswered?
+Does a man win his case by talking?
+v03: Should your empty talk silence people?
+Will you mock with no one to shame you?
+v04: You say, ‘My teaching is pure,
 and I am clean in your eyes.’
-
-v05: But if only God would speak
-and open his lips with you,
-
-v06: and tell you the secrets of wisdom,
-for sound wisdom has many sides.
-Know then that God causes some of your guilt to be forgotten.
+v05: If only God would speak
+and open his lips against you!
+v06: If only he would tell you wisdom’s secrets,
+for sound wisdom has a double depth!
+Know this: God overlooks some of your guilt.
 </p>
 
-## Can You Search Out the Depths of God?
+## Can you fathom God?
 
 <p>
-v07: Can you search out the depths of God?
-Can you find the limit of the Almighty?
-
-v08: It is higher than heaven—what can you do?
+v07: Can you fathom the depths of God?
+Can you reach the limits of the Almighty?
+v08: They are higher than heaven—what can you do?
 Deeper than Sheol—what can you know?
-
-v09: Its measure is longer than the earth
+v09: Their measure is longer than the earth
 and broader than the sea.
-
-v10: If he passes through and imprisons
-and summons an assembly, who can turn him back?
-
-v11: For he knows people of emptiness;
-when he sees wickedness,
-will he not consider it?
-
-v12: But an empty-headed person may gain understanding
-when a wild donkey’s colt is born human.
+v10: If he passes by, imprisons someone, and calls the court,
+who can stop him?
+v11: He knows deceitful people;
+he sees wrongdoing without needing to investigate.
+v12: An empty-headed man will gain understanding
+when a wild donkey’s colt is born human!
 </p>
 
-## If You Prepare Your Heart
+## Set your heart right
 
 <p>
-v13: If you prepare your heart
-and stretch out your hands toward him,
-
-v14: if wickedness is in your hand, put it far away,
-and do not let injustice dwell in your tents,
-
-v15: then surely you will lift up your face without blemish;
-you will be firm and will not fear.
-
-v16: For you will forget your misery,
-remembering it only as waters that have passed by.
-
-v17: Your lifetime will rise brighter than noon;
-darkness will become like morning.
-
-v18: You will trust because there is hope;
-you will look around and lie down securely.
-
-v19: You will lie down with no one making you afraid,
+v13: If you set your heart right
+and spread your hands toward him,
+v14: if you put the wrongdoing in your hands far away
+and let no injustice live in your tents,
+v15: then you will lift your face without blemish;
+you will stand firm and have no fear.
+v16: You will forget your trouble,
+remembering it as water that has flowed away.
+v17: Your life will rise brighter than noon;
+even its darkness will be like morning.
+v18: You will feel secure because there is hope;
+you will look around and lie down safely.
+v19: You will rest with no one to frighten you,
 and many will seek your favor.
-
 v20: But the eyes of the wicked will fail;
-escape will perish from them,
-and their hope will be the breathing out of life.”
+escape will elude them,
+and their only hope will be their last breath.”
 </p>
 
 ## Notes
 
-v02–03: Zophar interprets Job’s extended lament as excessive and mocking speech. He moves more quickly than the other friends from correction to accusation.
+v06: The phrases about wisdom’s double depth and God’s treatment of guilt are difficult. The draft understands Zophar to claim that Job is receiving less than his guilt deserves.
 
-v04: Job has claimed integrity, but Zophar restates that claim as though Job had claimed complete doctrinal and moral purity. His paraphrase sharpens the accusation.
+v11: The last question can mean that God sees without investigation or that wrongdoing cannot escape his attention.
 
-v06: The Hebrew final line likely means that God exacts less than Job’s guilt deserves. Zophar therefore assumes hidden guilt even while claiming God’s wisdom is inaccessible.
+v12: The wild donkey becoming human can be an impossible comparison that mocks an empty-headed person’s supposed wisdom. Another reading allows the possibility of learning.
 
-v07–09: Zophar’s language about the unsearchable dimensions of divine wisdom is itself a warning against human certainty, though he does not apply that warning to his own judgment of Job.
+v17: The rare word rendered as darkness can concern gloom or failing light.
 
-v12: The proverb is deliberately absurd: an empty person becoming wise is compared with a wild donkey’s colt being born human.
-
-v13–20: Zophar offers restoration if Job repents, assuming that Job’s present suffering can be reversed through confession of wrongdoing Zophar has not demonstrated.
+v18: The verb may mean looking around securely or digging about before settling down.
 
 ## Vocabulary
 
-v02: שְׂפָתַיִם (sefatayim)
-“Lips.” In the idiom, a person of lips is one characterized by abundant speech.
-
-v06: תּוּשִׁיָּה (tushiyyah)
-“Sound wisdom,” “resourcefulness,” or “effective wisdom.” Zophar describes wisdom as having hidden complexity.
-
-v07: חֵקֶר (cheqer)
-“Depth,” “searching,” or “unsearchable limit.” What cannot be fully discovered about God.
-
-v11: מְתֵי־שָׁוְא (metei-shav)
-“People of emptiness” or “false people.” Those lacking substance or truth.
-
-v12: פֶּרֶא (pere)
-“Wild donkey.” An untamed animal used in Zophar’s absurd comparison.
-
-v18: בָּטַח (batach)
-“To trust” or “feel secure.” The security Zophar promises after repentance.
+v08: Sheol
+The realm of the dead, paired with the heights of heaven to describe what exceeds human reach.

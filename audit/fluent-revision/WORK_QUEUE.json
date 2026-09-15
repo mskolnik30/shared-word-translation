@@ -346,9 +346,23 @@
       "scope": "Esther 1–6",
       "verses": 105,
       "ledger": "audit/fluent-revision/2026-09-15-esther-1-6/esther-verse-review.json"
+    },
+    {
+      "scope": "Esther 7–10",
+      "verses": 62,
+      "ledger": "audit/fluent-revision/2026-09-15-esther-7-10/esther-verse-review.json"
+    },
+    {
+      "scope": "Job 1–26",
+      "verses": 612,
+      "ledger": "audit/fluent-revision/2026-09-15-job-1-26/job-verse-review.json"
     }
   ],
   "next_work": [
+    {
+      "scope": "Job 27–42",
+      "action": "Continue independently from the verified pinned Hebrew; preserve the poetry, received speaker sequence, textual uncertainties, and the distinction between human arguments and divine speech."
+    },
     {
       "scope": "Whole-book 1 Samuel consistency review",
       "action": "Read all 31 revised English chapters and apparatus as a connected book; review recurring language and selected Hebrew difficulties. This batch did focused checks, not a full-book pass. Rebind any changed earlier chapters."
@@ -374,12 +388,12 @@
       "action": "Review the complete book before continuing into Ezra; rebind earlier ledgers if text changes."
     },
     {
-      "scope": "Esther 7–10",
-      "action": "Continue from the verified pinned Hebrew; preserve the unresolved banquet scene and the story’s reversals. Then review Esther as a complete book."
-    },
-    {
       "scope": "Whole-book Ezra and Nehemiah consistency review",
       "action": "Read the complete revised books and apparatus continuously, preserving distinct registers, chronology, and voices. Rebind affected ledgers if wording changes."
+    },
+    {
+      "scope": "Whole-book Job consistency review after Job 42",
+      "action": "Read the completed dialogues and frame narrative as a whole; check speaker boundaries, repeated legal and bodily images, textual notes, and the difference between claims and narrative endorsement."
     }
   ],
   "standards": [
@@ -434,5 +448,13 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt requests thirty chapters where careful source work permits. This turn completes 2 Chronicles 36, Ezra 1–10, Nehemiah 1–13, and Esther 1–6: 30 chapters, 813 verses, saved across two cumulative checkpoints. Independent editorial review remains pending."
+  "batch_preference": "Matt requests thirty chapters where careful source work permits. This batch completes Esther 7–10 and Job 1–26: 30 chapters, 674 verses. Each source verse and its notes was read before independent drafting; TSW is a subsequent comparator. Independent editorial review remains pending.",
+  "completed_authoring_consistency_reviews": [
+    {
+      "scope": "Esther 1–10",
+      "date": "2026-09-15",
+      "evidence": "audit/fluent-revision/2026-09-15-esther-7-10/whole-book-authoring-review.json",
+      "independent_editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }
