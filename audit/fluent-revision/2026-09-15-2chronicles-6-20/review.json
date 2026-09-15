@@ -1,0 +1,97 @@
+{
+  "scope": "2 Chronicles 6–20: fifteen complete chapters, 342 public verses. First half of requested thirty-chapter target; 21–35 remains.",
+  "qualification": "Authoring source and comparator checks only. Independent scholarly review and reader testing have not occurred.",
+  "editorial_status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "first_source_reading": {
+    "original_records": 342,
+    "all_annotations_read": true,
+    "before_independent_composition": true
+  },
+  "tsw_comparators_read_after_drafting": 342,
+  "focused_source_reread_verses": 73,
+  "findings": [
+    "Every original source verse was read with its written/read and other notes before independent composition. The full XML SHA256 and Git blob identity match the pinned attribution. All 342 TSW comparator verses were read afterward.",
+    "The temple prayer retains repeated hearing and forgiveness, names and embodied images, the oath dispute, individual affliction, prayer for foreigners, and the possibility of captivity. The conditional royal promise is not made unconditional.",
+    "Preserved the mouth/hand promise imagery, the clothing of salvation and the poetic close in 6:41–42. The direction of faithful love in 6:42 is an explicit editorial choice with its alternative noted.",
+    "Kept the temple answer in its narrative setting. The change from singular Solomon to plural you all in 7:19 and third-person them in 7:20 is represented; the land remains God’s ground.",
+    "Preserved the unequal imposed labor categories and Solomon’s own explanation for relocating Pharaoh’s daughter. Gold quantities, building dimensions and reign lengths are retained without harmonizing with Kings.",
+    "The source has a first-person I will make your yoke heavy at 10:14; the TSW comparator reads my father made your yoke heavy. Fluent follows the pinned Hebrew and keeps the actual answer distinct from the earlier advice.",
+    "The protest at 10:16 and the prophetic sheep image at 18:16 are lineated within their verse paragraphs. Headings remain outside paragraphs; all translated verse content remains inside them.",
+    "Retained the read daughter in 11:18, with the uncertain Abihail linkage noted. Kept Micaiah daughter of Uriel at 13:2, the read Ephrain at 13:19, Maacah as mother at 15:16 with the generational possibility noted, and Oded at 15:8 alongside Azariah son of Oded at 15:1.",
+    "Preserved the tension between Rehoboam’s age forty-one and Abijah’s young/fainthearted portrayal, Asa’s thirty-fifth/thirty-sixth years and the Kings chronology, and notices of high-place removals alongside continuing high places.",
+    "Kept the covenant’s death penalty at 15:13, the positive joy notice immediately after it, Asa’s stocks and brutal oppression, and the narrative criticism of seeking physicians without adding a general medical prohibition.",
+    "Preserved the very large army and casualty counts, including the five-hundred-thousand deaths at 13:17 and million-strong force at 14:9. Selected numerical assertions guard against accidental changes; they do not establish historical plausibility.",
+    "Micaiah’s initial favorable reply is retained without an inserted tone marker. The heavenly council, commissioned lying spirit, royal anger and prophetic imprisonment remain explicit. No spirit identity or doctrinal resolution is supplied.",
+    "Kept Chronicles’ direct attribution of Jehoshaphat’s rescue to God, the king maintaining his upright posture until sunset, the judicial ban on favoritism and bribes, and the difficult they returned clause in 19:8.",
+    "At 20:1–2 retained the repeated Ammonites and Aram of the pinned Hebrew, and at 20:25 retained corpses. The alternative Meunites, Edom and clothing found in comparators are identified in notes rather than silently replacing the source.",
+    "Preserved the women and children standing in the assembly, unknowing action and confessed powerlessness, trust/stand-firm wordplay, the unnamed ambushes, mutual destruction, and Tarshish as the stated destination of the ships.",
+    "Public 14:1 binds original 13:23; public 14:2–15 bind original 14:1–14. Every other selected label matches. All 342 original records are bound exactly once with exact original substring hashes, including annotations.",
+    "Inspected all 34 verses with normalized whole-verse overlap of at least 0.90 after the full comparator reading. Retained concise names, dates and formulas where they serve faithful reading; no change quota.",
+    "All 63 earlier ledgers and 377 earlier revised chapter files remain byte-identical to the parent. Their existing source-audit evidence is preserved; the broad historical source audits were not repeated."
+  ],
+  "overlap_summary": {
+    "before": {
+      "verses": 342,
+      "identical_words": 312,
+      "near_identical": 28,
+      "mean_word_similarity": 0.995682
+    },
+    "after": {
+      "verses": 342,
+      "identical_words": 6,
+      "near_identical": 28,
+      "mean_word_similarity": 0.720902
+    }
+  },
+  "high_overlap_verses_inspected": [
+    "2 Chronicles 6:1",
+    "2 Chronicles 7:4",
+    "2 Chronicles 8:4",
+    "2 Chronicles 8:5",
+    "2 Chronicles 9:2",
+    "2 Chronicles 9:3",
+    "2 Chronicles 9:14",
+    "2 Chronicles 9:15",
+    "2 Chronicles 9:17",
+    "2 Chronicles 9:25",
+    "2 Chronicles 9:26",
+    "2 Chronicles 9:30",
+    "2 Chronicles 10:2",
+    "2 Chronicles 11:3",
+    "2 Chronicles 11:6",
+    "2 Chronicles 11:7",
+    "2 Chronicles 11:8",
+    "2 Chronicles 11:9",
+    "2 Chronicles 11:10",
+    "2 Chronicles 11:19",
+    "2 Chronicles 11:20",
+    "2 Chronicles 11:21",
+    "2 Chronicles 13:11",
+    "2 Chronicles 13:21",
+    "2 Chronicles 14:2",
+    "2 Chronicles 15:15",
+    "2 Chronicles 15:19",
+    "2 Chronicles 16:13",
+    "2 Chronicles 17:3",
+    "2 Chronicles 17:11",
+    "2 Chronicles 17:12",
+    "2 Chronicles 17:15",
+    "2 Chronicles 20:16",
+    "2 Chronicles 20:35"
+  ],
+  "overlap_qualification": "Word overlap is triage, not proof of fidelity, independent authorship, legal uniqueness or reader comprehension.",
+  "external_comparator_checks": [
+    {
+      "url": "https://tips.translation.bible/story/translation-commentary-on-2-chronicles-642/",
+      "claim": "UBS discussion confirms the two directions of faithful love in 6:42. Consulted after composition."
+    },
+    {
+      "url": "https://bible.usccb.org/bible/2chronicles/20",
+      "claim": "NABRE renders Meunites, Edom and garments at 20:1,2,25; comparison confirms these alternatives differ from the pinned Hebrew retained here. Consulted after composition."
+    }
+  ],
+  "structural_evidence": "verification.json",
+  "companion_impact": "Changed chapters require later quotation and text-binding reconciliation. No Companion files changed.",
+  "remaining_work": "Draft 2 Chronicles 21–35 to finish the requested thirty-chapter target. Whole-book Samuel, Kings and 1 Chronicles consistency passes, independent review and reader testing remain pending."
+}

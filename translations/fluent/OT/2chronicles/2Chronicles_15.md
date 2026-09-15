@@ -4,92 +4,74 @@ testament: OT
 chapter: 15
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-6-20-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 15
-
-## The Spirit of God Comes upon Azariah
+## Azariah’s message
 
 <p>
-v01: The Spirit of God came upon Azariah son of Oded.
-
-v02: He went out before Asa and said to him, “Hear me, Asa and all Judah and Benjamin! The LORD is with you when you are with him. If you seek him, he will be found by you, but if you abandon him, he will abandon you.
-
-v03: For many days Israel was without the true God, without a teaching priest, and without instruction.
-
-v04: But in their distress they returned to the LORD, the God of Israel, and sought him, and he was found by them.
-
-v05: In those times there was no peace for the one going out or the one coming in, for great disturbances were upon all the inhabitants of the lands.
-
-v06: Nation was crushed by nation and city by city, for God troubled them with every kind of distress.
-
-v07: But you, be strong and do not let your hands grow weak, for there is reward for your work.”
+v01: God’s Spirit came upon Azariah son of Oded.
+v02: He went out to meet Asa and said, “Listen to me, Asa and all Judah and Benjamin! The LORD is with you when you are with him. If you seek him, he will let you find him; if you abandon him, he will abandon you.
 </p>
 
-## Asa Removes Idols
-
 <p>
-v08: When Asa heard these words and the prophecy of Oded the prophet, he strengthened himself and removed the detestable idols from all the land of Judah and Benjamin and from the cities he had captured in the hill country of Ephraim. He repaired the altar of the LORD that was before the porch of the LORD.
-
-v09: He gathered all Judah and Benjamin and people who lived with them from Ephraim, Manasseh, and Simeon, for many from Israel had fallen to him when they saw that the LORD his God was with him.
-
-v10: They gathered at Jerusalem in the third month, in the fifteenth year of Asa’s reign.
-
-v11: They sacrificed to the LORD on that day from the spoil they had brought, seven hundred cattle and seven thousand sheep.
+v03: For a long time Israel was without the true God, without a teaching priest, and without instruction.
+v04: But in their distress they turned to the LORD, Israel’s God. They sought him, and he let them find him.
+v05: In those times there was no peace for anyone going out or coming in, for great turmoil troubled all the inhabitants of the lands.
+v06: Nation crushed nation and city crushed city, for God threw them into turmoil with every kind of distress.
 </p>
 
-## Judah Enters a Covenant to Seek the LORD
-
 <p>
-v12: They entered into a covenant to seek the LORD, the God of their ancestors, with all their heart and with all their life.
-
-v13: Whoever would not seek the LORD, the God of Israel, was to be put to death, from small to great, from man to woman.
-
-v14: They swore to the LORD with a loud voice, with shouting, trumpets, and ram’s horns.
-
-v15: All Judah rejoiced over the oath, for they had sworn with all their heart and sought him with their whole desire. He was found by them, and the LORD gave them rest on every side.
+v07: But you, be strong! Do not let your hands grow slack, for your work will be rewarded.”
 </p>
 
-## Asa Removes Maacah
+## The covenant assembly
 
 <p>
-v16: King Asa even removed Maacah his mother from being queen mother because she had made a horrid image for Asherah. Asa cut down her horrid image, crushed it, and burned it at the Wadi Kidron.
+v08: When Asa heard these words and the prophecy of Oded the prophet, he took courage. He removed the detestable objects from all Judah and Benjamin and the towns he had captured in Ephraim’s hill country. He renewed the LORD’s altar in front of the LORD’s entrance hall.
+v09: He gathered all Judah and Benjamin, along with the people from Ephraim, Manasseh, and Simeon living among them. Many from Israel had come over to him when they saw that the LORD his God was with him.
+</p>
 
-v17: But the high places were not removed from Israel. Even so, Asa’s heart was whole all his days.
+<p>
+v10: They gathered in Jerusalem in the third month of Asa’s fifteenth year as king.
+v11: That day they sacrificed to the LORD seven hundred cattle and seven thousand sheep and goats from the plunder they had brought.
+</p>
 
-v18: He brought into the house of God the holy things of his father and his own holy things: silver, gold, and vessels.
+<p>
+v12: They entered a covenant to seek the LORD, their ancestors’ God, with all their heart and all their being.
+v13: Anyone who would not seek the LORD, Israel’s God, was to be put to death, whether small or great, man or woman.
+v14: They swore to the LORD with loud voices, shouting, trumpets, and rams’ horns.
+v15: All Judah rejoiced over the oath, for they had sworn with all their heart and sought him with their whole desire. He let them find him, and the LORD gave them rest on every side.
+</p>
 
+<p>
+v16: King Asa also removed Maacah his mother from her position as queen mother because she had made a monstrous image for Asherah. Asa cut down her image, crushed it, and burned it in the Kidron Valley.
+v17: The high places were not removed from Israel. Even so, Asa’s heart was whole all his days.
+v18: He brought the things his father had consecrated and his own consecrated gifts into God’s house: silver, gold, and utensils.
 v19: There was no war until the thirty-fifth year of Asa’s reign.
 </p>
 
 ## Notes
 
-v02: The speech states a central theology of Chronicles: seeking the LORD leads to finding him; abandoning him leads to abandonment.
+v3–6: The speech does not name the period it describes.
 
-v03: “Without the true God, without a teaching priest, and without instruction” describes covenant disorder through worship, priesthood, and Torah.
+v8: The Hebrew names Oded here, although verse 1 introduces Azariah son of Oded. The draft retains both notices.
 
-v13: The death penalty belongs to the ancient covenant-renewal setting and is not a general mandate for later religious coercion.
+v13: The covenant includes a death penalty for refusal. The following joy does not remove that coercive provision.
 
-v16: “Horrid image” translates a rare and strongly negative term associated with Maacah’s Asherah object.
+v16: The Hebrew calls Maacah Asa’s mother. Mother can include a grandmother or senior female ancestor; 11:20 identifies Maacah as Abijah’s mother.
 
-v17: This verse helps qualify 14:5: Asa removed high places in Judah, but high places remained more broadly in Israel.
+v17: The remaining high places in Israel are stated alongside the positive judgment of Asa’s heart. Compare the removals in Judah in 14:3–5.
+
+v19: The thirty-fifth year is retained. Together with 16:1, it presents a chronological difficulty beside the regnal dates in 1 Kings.
 
 ## Vocabulary
 
-v01: רוּחַ אֱלֹהִים (ruach Elohim)
-“Spirit of God.”
+v12: All their being
+Nephesh names the living self or life, not only an inner part.
 
-v02: עָזַב (azav)
-“To abandon.”
-
-v03: תּוֹרָה (torah)
-“Instruction.”
-
-v07: שָׂכָר (sakhar)
-“Reward.”
-
-v12: בְּרִית (berit)
-“Covenant.”
-
-v16: מִפְלֶצֶת (mifletset)
-“Horrid image.” A rare contemptuous cultic term.
+v16: Queen mother
+Gebirah is a title for a senior royal woman with recognized authority.

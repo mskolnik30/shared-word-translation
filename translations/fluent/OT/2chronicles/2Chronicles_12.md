@@ -4,86 +4,67 @@ testament: OT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-6-20-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 12
-
-## Rehoboam Abandons the Instruction of the LORD
+## Shishak invades
 
 <p>
-v01: And it happened when the kingdom of Rehoboam was established and he was strong that he abandoned the instruction of the LORD, and all Israel with him.
-
-v02: In the fifth year of King Rehoboam, Shishak king of Egypt came up against Jerusalem because they had acted unfaithfully against the LORD,
-
-v03: with one thousand two hundred chariots and sixty thousand horsemen. The people who came with him from Egypt were without number: Libyans, Sukkites, and Cushites.
-
-v04: He captured the fortified cities that belonged to Judah and came as far as Jerusalem.
+v01: Once Rehoboam’s kingdom was established and he had grown strong, he abandoned the LORD’s instruction, and all Israel followed him.
+v02: In King Rehoboam’s fifth year, Shishak king of Egypt marched against Jerusalem because they had been unfaithful to the LORD.
+v03: He had twelve hundred chariots, sixty thousand horsemen, and countless troops who came with him from Egypt: Libyans, Sukkites, and Cushites.
+v04: He captured Judah’s fortified towns and advanced as far as Jerusalem.
 </p>
 
-## Shemaiah Calls Judah to Humble Itself
+## Humbling and deliverance
 
 <p>
-v05: Then Shemaiah the prophet came to Rehoboam and to the officials of Judah who had gathered at Jerusalem because of Shishak and said to them, “Thus says the LORD: You abandoned me, so I also have abandoned you into the hand of Shishak.”
-
-v06: Then the officials of Israel and the king humbled themselves and said, “The LORD is righteous.”
-
-v07: When the LORD saw that they humbled themselves, the word of the LORD came to Shemaiah, saying, “They have humbled themselves. I will not destroy them, but I will give them a little deliverance, and my wrath will not be poured out upon Jerusalem by the hand of Shishak.
-
-v08: Even so they will become his servants, so that they may know my service and the service of the kingdoms of the lands.”
+v05: Shemaiah the prophet came to Rehoboam and Judah’s officials, who had gathered in Jerusalem because of Shishak. He told them, “The LORD says: You abandoned me, so I have abandoned you into Shishak’s hand.”
+v06: Israel’s officials and the king humbled themselves and said, “The LORD is righteous.”
 </p>
 
-## Shishak Plunders Jerusalem
-
 <p>
-v09: So Shishak king of Egypt came up against Jerusalem and took the treasures of the house of the LORD and the treasures of the king’s house. He took everything. He also took the gold shields that Solomon had made.
-
-v10: King Rehoboam made bronze shields in their place and entrusted them to the hands of the commanders of the runners who guarded the entrance of the king’s house.
-
-v11: Whenever the king entered the house of the LORD, the runners came and carried them and afterward returned them to the guardroom.
+v07: When the LORD saw that they had humbled themselves, his word came to Shemaiah: “They have humbled themselves. I will not destroy them; I will grant them some deliverance. My wrath will not be poured out on Jerusalem through Shishak.
+v08: But they will become his servants, so they may know the difference between serving me and serving the kingdoms of other lands.”
 </p>
 
-## Rehoboam’s Reign Ends
+<p>
+v09: Shishak king of Egypt marched against Jerusalem and took the treasures of the LORD’s house and the royal house. He took everything, including the gold shields Solomon had made.
+v10: King Rehoboam replaced them with bronze shields and entrusted them to the captains of the runners who guarded the royal house’s entrance.
+v11: Whenever the king entered the LORD’s house, the runners came and carried the shields, then returned them to the runners’ guardroom.
+</p>
 
 <p>
-v12: Because he humbled himself, the anger of the LORD turned from him so as not to destroy him completely. Moreover, there were good things in Judah.
+v12: Because Rehoboam humbled himself, the LORD’s anger turned away from him and did not destroy him completely. There were also good things in Judah.
+</p>
 
-v13: King Rehoboam strengthened himself in Jerusalem and reigned. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city that the LORD had chosen from all the tribes of Israel to put his name there. His mother’s name was Naamah the Ammonite.
+## Rehoboam’s reign ends
 
-v14: He did evil, for he did not set his heart to seek the LORD.
-
-v15: Now the acts of Rehoboam, first and last, are they not written in the words of Shemaiah the prophet and Iddo the seer according to genealogical record? There were wars between Rehoboam and Jeroboam all their days.
-
-v16: Rehoboam lay down with his ancestors and was buried in the city of David. Abijah his son became king in his place.
+<p>
+v13: King Rehoboam strengthened his rule in Jerusalem. He was forty-one when he became king and reigned seventeen years in Jerusalem, the city the LORD had chosen from all Israel’s tribes for his name to dwell there. His mother was Naamah the Ammonite.
+v14: He did evil because he had not set his heart on seeking the LORD.
+v15: Rehoboam’s acts, from first to last, are written in the records of Shemaiah the prophet and Iddo the seer, with the genealogical record. Rehoboam and Jeroboam were at war throughout their days.
+v16: Rehoboam lay down with his ancestors and was buried in David’s City. His son Abijah became king in his place.
 </p>
 
 ## Notes
 
-v01: Rehoboam’s strength becomes the setting for abandoning Torah, continuing Chronicles’ theme that prosperity can produce unfaithfulness.
+v7: Some deliverance can also be understood as deliverance soon. The following verse makes clear that subjection to Shishak remains.
 
-v06: “The LORD is righteous” is a concise confession accepting divine judgment.
+v13: Rehoboam’s mother is explicitly identified as an Ammonite.
 
-v08: Foreign domination becomes a lesson contrasting service to the LORD with service to earthly kingdoms.
-
-v09–10: Gold shields replaced by bronze visually symbolize the reduction of Solomon’s former glory.
-
-v14: Chronicles summarizes Rehoboam’s failure as not setting his heart to seek the LORD.
+v15: The Hebrew adds a reference to genealogical registration; its exact connection to the named records is compressed.
 
 ## Vocabulary
 
-v01: תּוֹרָה (torah)
-“Instruction.” Rehoboam abandons the LORD’s teaching.
+v5: Abandoned
+Azav is repeated of the people’s action and God’s response.
 
-v02: מָעַל (ma'al)
-“To act unfaithfully.”
+v8: Service
+Avodah can describe worship or labor; here it links serving God and serving foreign rulers.
 
-v06: כָּנַע (kana)
-“To humble oneself.”
-
-v07: פְּלֵיטָה (peletah)
-“Deliverance” or escape.
-
-v09: אוֹצָר (otsar)
-“Treasury.”
-
-v14: כּוּן לֵב (kun lev)
-“To set or establish the heart.”
+v10: Runners
+Royal guards or attendants who accompanied the king.

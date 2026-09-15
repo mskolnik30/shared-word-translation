@@ -2,245 +2,92 @@
   "book": "2 Chronicles",
   "chapter": 16,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-2chronicles-6-20-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "625643519e5a0bd0d812b0add13989028216c6c6",
+    "path": "audit/exegetical-core/fluent-production/2chronicles/2Chronicles_16_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "2Chr",
+    "book_verse_count": 822,
+    "scope_chapters": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/2Chr.xml",
-    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/2Chr.xml",
     "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Chronicles 16:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 1,
-            "source_ref": "2 Chronicles 16:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e4b7fcfba91a7168c71071e116cad78d1a66b7576a412fd4ba7d526575c329ce"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e4b7fcfba91a7168c71071e116cad78d1a66b7576a412fd4ba7d526575c329ce"
-      },
-      "2": {
-        "source_ref": "2 Chronicles 16:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 2,
-            "source_ref": "2 Chronicles 16:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "330d767773f14c3e936dad7ea47e3fb9af3ebe3b7d29faa05b5fe22e36a1bda2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "330d767773f14c3e936dad7ea47e3fb9af3ebe3b7d29faa05b5fe22e36a1bda2"
-      },
-      "3": {
-        "source_ref": "2 Chronicles 16:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 3,
-            "source_ref": "2 Chronicles 16:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "def2581e43a42b638fc2f958619840775205f45b67066cddd1daf61707d46bec"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "def2581e43a42b638fc2f958619840775205f45b67066cddd1daf61707d46bec"
-      },
-      "4": {
-        "source_ref": "2 Chronicles 16:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 4,
-            "source_ref": "2 Chronicles 16:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "f9270c4297264eb0df8f6ef62a8ba455bc223c51ae7f82d69c2f25b9cb9b385e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f9270c4297264eb0df8f6ef62a8ba455bc223c51ae7f82d69c2f25b9cb9b385e"
-      },
-      "5": {
-        "source_ref": "2 Chronicles 16:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 5,
-            "source_ref": "2 Chronicles 16:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "ff21c2967a272c3009466ddc1a02fbfd46440d6f1cffa69db68d2944c70092c0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ff21c2967a272c3009466ddc1a02fbfd46440d6f1cffa69db68d2944c70092c0"
-      },
-      "6": {
-        "source_ref": "2 Chronicles 16:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 6,
-            "source_ref": "2 Chronicles 16:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "7c074b73e109b367fac3d5d0d48417045f92ef5680d860a66e7841e551815943"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7c074b73e109b367fac3d5d0d48417045f92ef5680d860a66e7841e551815943"
-      },
-      "7": {
-        "source_ref": "2 Chronicles 16:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 7,
-            "source_ref": "2 Chronicles 16:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "6968112e136ac9ee1f3339f1c2ac0078ff1caa8d912e5f06cfee80abde339df0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6968112e136ac9ee1f3339f1c2ac0078ff1caa8d912e5f06cfee80abde339df0"
-      },
-      "8": {
-        "source_ref": "2 Chronicles 16:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 8,
-            "source_ref": "2 Chronicles 16:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "9458408bb651ad0958258326bf57a53c9e2ad7f8c7882019397a9e8f8f3ab5c6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9458408bb651ad0958258326bf57a53c9e2ad7f8c7882019397a9e8f8f3ab5c6"
-      },
-      "9": {
-        "source_ref": "2 Chronicles 16:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 9,
-            "source_ref": "2 Chronicles 16:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "4062b40b9d2af77c9408682b7276c9d74401ca36755eaa49606ace07c257f2f8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4062b40b9d2af77c9408682b7276c9d74401ca36755eaa49606ace07c257f2f8"
-      },
-      "10": {
-        "source_ref": "2 Chronicles 16:10 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 10,
-            "source_ref": "2 Chronicles 16:10 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "92bf39396a759c3bb41c22d322191d2f5cc72189f92e5b36b6e4525681567fe6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "92bf39396a759c3bb41c22d322191d2f5cc72189f92e5b36b6e4525681567fe6"
-      },
-      "11": {
-        "source_ref": "2 Chronicles 16:11 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 11,
-            "source_ref": "2 Chronicles 16:11 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "0312caae2ab55c0b3c684677f68e8ff6bcc3c37596ecea2cb07dc2ffbde98934"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0312caae2ab55c0b3c684677f68e8ff6bcc3c37596ecea2cb07dc2ffbde98934"
-      },
-      "12": {
-        "source_ref": "2 Chronicles 16:12 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 12,
-            "source_ref": "2 Chronicles 16:12 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "f8e5e39c08c5adf8076ee1d0f5dde74c66449ee33ed347210c0ae1448dda3fbf"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f8e5e39c08c5adf8076ee1d0f5dde74c66449ee33ed347210c0ae1448dda3fbf"
-      },
-      "13": {
-        "source_ref": "2 Chronicles 16:13 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 13,
-            "source_ref": "2 Chronicles 16:13 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "f26c3ad762bb6082285a488253b50f1391f63835b381b8dd4a0dd552976b9d2e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f26c3ad762bb6082285a488253b50f1391f63835b381b8dd4a0dd552976b9d2e"
-      },
-      "14": {
-        "source_ref": "2 Chronicles 16:14 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 16,
-            "verse": 14,
-            "source_ref": "2 Chronicles 16:14 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "bde171bd3137da3f99fc305c096e1ecff522eae402694c2958a776314669a78d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bde171bd3137da3f99fc305c096e1ecff522eae402694c2958a776314669a78d"
-      }
+    "sha256": "7065101f61f1279a31b4f68911c2aaa5dfd278e959648691775dd39979586f6f",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/2Chr.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "public_versification_note": "Public 14:1 binds Hebrew 13:23; public 14:2–15 binds Hebrew 14:1–14. All other selected verses bind matching labels."
+  },
+  "chapter_binding": {
+    "chapter": 16,
+    "verse_count": 14,
+    "path": "translations/fluent/OT/2chronicles/2Chronicles_16.md",
+    "before_sha256": "58183e95e9db4be568252c5d50035e4c18c6c76e4874fc55199debd4a0054b4a",
+    "after_sha256": "9744f1d35560064001aaecc304fc49243550960d69c89183f683db21d004fdb7",
+    "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_16.md",
+    "tsw_comparator_sha256": "7b09b3b999c23dac04f11fd5d2569a09359c1d85b05ec19c5d49707a04355dc0"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-2chronicles-6-20/2chronicles-verse-review.json",
+  "public_versification": "Public 14:1 binds Hebrew 13:23; public 14:2–15 binds Hebrew 14:1–14. All other selected verses bind matching labels.",
+  "key_decisions": [
+    {
+      "reference": "2 Chronicles 16:1",
+      "decision": "Preserve the source date and blockade’s purpose.",
+      "delta": "F3"
+    },
+    {
+      "reference": "2 Chronicles 16:4",
+      "decision": "Keep Chronicles’ Abel-maim and storage wording.",
+      "delta": "F3"
+    },
+    {
+      "reference": "2 Chronicles 16:7",
+      "decision": "Retain Aram as the escaped army rather than substituting Israel.",
+      "delta": "F3"
+    },
+    {
+      "reference": "2 Chronicles 16:9",
+      "decision": "Retain roaming eyes, whole hearts and the adverse future.",
+      "delta": "F3"
+    },
+    {
+      "reference": "2 Chronicles 16:10",
+      "decision": "Keep both the prophet’s confinement and wider oppression explicit.",
+      "delta": "F3"
+    },
+    {
+      "reference": "2 Chronicles 16:12",
+      "decision": "Retain the contrast as a narrative judgment without a general medical prohibition.",
+      "delta": "F3"
+    },
+    {
+      "reference": "2 Chronicles 16:14",
+      "decision": "Distinguish burial from the honorary burning rather than implying cremation.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/2chronicles/2Chronicles_16.md",
-    "blob_sha": "0e3cf97baf627094516dbd66762374f5d68eef68"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

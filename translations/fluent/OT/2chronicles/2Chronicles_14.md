@@ -4,82 +4,64 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-6-20-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 14
-
-## Asa Does What Is Good
+## Asa and a time of rest
 
 <p>
-v01: Abijah lay down with his ancestors, and they buried him in the city of David. Asa his son became king in his place. In his days the land had rest ten years.
+v01: Abijah lay down with his ancestors and was buried in David’s City. His son Asa became king in his place. In his days the land was quiet for ten years.
+</p>
 
+<p>
 v02: Asa did what was good and right in the eyes of the LORD his God.
-
-v03: He removed the foreign altars and the high places, shattered the pillars, and cut down the Asherah poles.
-
-v04: He commanded Judah to seek the LORD, the God of their ancestors, and to do the instruction and the commandment.
-
-v05: He removed from all the cities of Judah the high places and the incense altars. And the kingdom had rest before him.
+v03: He removed the foreign altars and high places, smashed the sacred pillars, and cut down the Asherah poles.
+v04: He told Judah to seek the LORD, their ancestors’ God, and to carry out the instruction and commandment.
+v05: He removed the high places and incense altars from every town in Judah, and the kingdom was quiet under him.
 </p>
 
-## Asa Fortifies Judah
-
 <p>
-v06: He built fortified cities in Judah, for the land had rest and he had no war in those years, because the LORD had given him rest.
-
-v07: He said to Judah, “Let us build these cities and surround them with walls, towers, gates, and bars. The land is still before us because we have sought the LORD our God. We sought him, and he has given us rest on every side.” So they built and prospered.
-
-v08: Asa had an army of three hundred thousand from Judah carrying large shields and spears, and two hundred eighty thousand from Benjamin carrying small shields and drawing bows. All these were mighty warriors.
+v06: He built fortified towns in Judah while the land was quiet. No war troubled him in those years, because the LORD had given him rest.
+v07: He told Judah, “Let us build these towns and surround them with walls, towers, gates, and bars while the land is still open to us. We have sought the LORD our God; we have sought him, and he has given us rest on every side.” So they built and prospered.
 </p>
 
-## Zerah the Cushite Invades
-
 <p>
-v09: Zerah the Cushite came out against them with an army of one million and three hundred chariots, and he came as far as Mareshah.
-
-v10: Asa went out against him, and they drew up battle lines in the Valley of Zephathah at Mareshah.
-
-v11: Asa cried to the LORD his God and said, “O LORD, there is none besides you to help between the mighty and the one with no strength. Help us, O LORD our God, for we rely upon you, and in your name we have come against this multitude. O LORD, you are our God; let no human being prevail against you.”
+v08: Asa’s army included three hundred thousand men of Judah carrying large shields and spears, and two hundred eighty thousand men of Benjamin carrying smaller shields and drawing bows. All were capable warriors.
 </p>
 
-## The LORD Gives Judah Victory
+## Zerah’s army
 
 <p>
-v12: So the LORD struck the Cushites before Asa and before Judah, and the Cushites fled.
+v09: Zerah the Cushite marched against them with an army of a million and three hundred chariots. He advanced as far as Mareshah.
+v10: Asa went out to meet him, and they drew up for battle in the Valley of Zephathah near Mareshah.
+</p>
 
-v13: Asa and the people who were with him pursued them as far as Gerar. So many Cushites fell that none remained alive, for they were shattered before the LORD and before his army. They carried away very much spoil.
+<p>
+v11: Asa called to the LORD his God: “LORD, no one but you can help in the struggle between the many and the powerless. Help us, LORD our God, for we rely on you. In your name we have come against this vast crowd. You are the LORD our God; do not let mere mortals prevail against you.”
+</p>
 
-v14: They struck all the cities around Gerar, for the terror of the LORD was upon them. They plundered all the cities, for there was much plunder in them.
-
-v15: They also struck the tents of the livestock and carried away sheep in abundance and camels. Then they returned to Jerusalem.
+<p>
+v12: The LORD defeated the Cushites before Asa and Judah, and the Cushites fled.
+v13: Asa and the people with him pursued them as far as Gerar. So many Cushites fell that they could not recover, for they were shattered before the LORD and his camp. Judah carried off enormous plunder.
+v14: They struck all the towns around Gerar, for the dread of the LORD had fallen on them. They plundered every town, where there was much to take.
+v15: They also struck the livestock camps, captured great numbers of sheep and goats and camels, and returned to Jerusalem.
 </p>
 
 ## Notes
 
-v01: “Rest” is repeated as a sign of divine favor and covenant stability.
+v1: This verse is numbered 13:23 in the Hebrew source. English verses 14:2–15 correspond to Hebrew 14:1–14.
 
-v05: Chronicles’ account of Asa’s removal of high places differs from 1 Kings 15:14, which says the high places were not removed. The traditions may distinguish different periods or types of high places; TSW preserves Chronicles’ statement.
+v11: The first appeal contrasts a great force with powerlessness. It can also be understood as saying that helping the strong or the powerless makes no difference to God.
 
-v09: “Cushite” may refer to a Nubian/Ethiopian or southern military leader; the precise identity of Zerah is uncertain.
-
-v11: Asa’s prayer centers on the LORD’s ability to help regardless of human numerical strength.
+v13: Could not recover renders an expression that can also mean none remained alive. The main text retains the devastating defeat without resolving it as a precise survivor count.
 
 ## Vocabulary
 
-v01: שָׁקַט (shaqat)
-“To have rest” or quiet.
+v9: Cushite
+A person of Cush, associated with the region south of Egypt.
 
-v03: מַצֵּבָה (matsevah)
-“Pillar.” A cultic standing stone.
-
-v04: דָּרַשׁ (darash)
-“To seek.”
-
-v07: צָלַח (tsalach)
-“To prosper.”
-
-v11: שָׁעַן (sha'an)
-“To rely upon.”
-
-v14: פַּחַד (pachad)
-“Terror.” Fear attributed to the LORD.
+v11: Rely
+The same leaning-for-support verb is central to Hanani’s rebuke in 16:7–8.

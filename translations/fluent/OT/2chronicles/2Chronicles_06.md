@@ -4,191 +4,122 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-6-20-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 6
-
-## Solomon Blesses the Assembly
+## Solomon blesses the assembly
 
 <p>
-v01: Then Solomon said:
-
-“The LORD said
-that he would dwell
-in thick darkness.
-
-v02: Yet I have built you
-an exalted house,
-a place for you to dwell
-forever.”
-
-v03: Then the king turned his face and blessed all the assembly of Israel, while all the assembly of Israel stood.
-
-v04: He said, “Blessed be the LORD, the God of Israel, who spoke with his mouth to David my father and fulfilled it with his hands, saying,
-
-v05: ‘From the day I brought my people out from the land of Egypt, I did not choose a city from all the tribes of Israel to build a house so that my name might be there, and I did not choose a man to be ruler over my people Israel.
-
-v06: Yet I have chosen Jerusalem so that my name may be there, and I have chosen David to be over my people Israel.’
-
-v07: It was in the heart of David my father to build a house for the name of the LORD, the God of Israel.
-
-v08: But the LORD said to David my father, ‘Because it was in your heart to build a house for my name, you did well that it was in your heart.
-
-v09: Even so, you will not build the house, but your son who comes from your body—he will build the house for my name.’
-
-v10: The LORD has established his word that he spoke, for I have risen in place of David my father and sit on the throne of Israel, as the LORD spoke, and I have built the house for the name of the LORD, the God of Israel.
-
-v11: There I have placed the ark in which is the covenant of the LORD that he made with the children of Israel.”
+v01: Then Solomon said, “The LORD said he would dwell in thick darkness.
+v02: I have built you a lofty house,
+a settled place for you to dwell forever.”
 </p>
 
-## Solomon’s Prayer of Dedication
-
 <p>
-v12: Then he stood before the altar of the LORD in the presence of all the assembly of Israel and spread out his hands.
-
-v13: For Solomon had made a bronze platform, five cubits long, five cubits wide, and three cubits high, and had put it among the court. He stood upon it, knelt on his knees before all the assembly of Israel, and spread out his hands toward the heavens.
-
-v14: He said:
-
-“O LORD, God of Israel,
-there is no God like you
-in the heavens or on the earth,
-keeping covenant and steadfast love
-with your servants
-who walk before you
-with all their heart.
-
-v15: You have kept with your servant David my father what you spoke to him. You spoke with your mouth and with your hand have fulfilled it this day.
-
-v16: And now, O LORD, God of Israel, keep with your servant David my father what you spoke to him, saying, ‘There will not be cut off from you a man before me to sit upon the throne of Israel, if only your sons guard their way, to walk in my instruction as you have walked before me.’
-
-v17: And now, O LORD, God of Israel, let your word be confirmed that you spoke to your servant David.
+v03: The king turned toward the whole assembly of Israel and blessed them. Everyone remained standing.
+v04: He said, “Blessed be the LORD, Israel’s God! With his own hands he has fulfilled what his own mouth promised my father David:
+v05: ‘From the day I brought my people out of Egypt, I chose no city among all Israel’s tribes for a house where my name would dwell, and I chose no one to lead my people Israel.
+v06: But I chose Jerusalem for my name to dwell there, and I chose David to lead my people Israel.’
 </p>
 
-## Will God Really Dwell with Humanity?
-
 <p>
-v18: “But will God truly dwell with humanity upon the earth? Look, the heavens and the highest heavens cannot contain you; how much less this house that I have built!
-
-v19: Yet turn toward the prayer of your servant and toward his plea, O LORD my God, to hear the cry and the prayer that your servant prays before you,
-
-v20: that your eyes may be open toward this house day and night, toward the place of which you said that you would put your name there, to hear the prayer that your servant prays toward this place.
-
-v21: Hear the pleas of your servant and of your people Israel when they pray toward this place. Hear from your dwelling place, from the heavens; hear and forgive.
+v07: “My father David had it in his heart to build a house for the name of the LORD, Israel’s God.
+v08: But the LORD told my father David, ‘You did well to have it in your heart to build a house for my name.
+v09: Even so, you will not build the house. Your son, born from your own body, will build the house for my name.’
+v10: “The LORD has fulfilled his promise. I have succeeded my father David and taken Israel’s throne, just as the LORD said, and I have built the house for the name of the LORD, Israel’s God.
+v11: I have placed the ark there. In it is the LORD’s covenant, which he made with the Israelites.”
 </p>
 
-## When a Person Sins against a Neighbor
+## Solomon’s prayer
 
 <p>
-v22: “If a man sins against his neighbor and an oath is laid upon him to make him swear, and the oath comes before your altar in this house,
-
-v23: then hear from the heavens and act. Judge your servants, repaying the wicked by bringing his way upon his head and declaring the righteous righteous by giving him according to his righteousness.
+v12: Solomon stood before the LORD’s altar, facing the whole assembly of Israel, and spread out his hands.
+v13: He had made a bronze platform five cubits long, five cubits wide, and three cubits high and set it in the middle of the courtyard. He stood on it, then knelt before the whole assembly of Israel and spread his hands toward heaven.
 </p>
 
-## When Israel Is Defeated
-
 <p>
-v24: “When your people Israel are struck before an enemy because they sinned against you, and they return and confess your name and pray and plead before you in this house,
-
-v25: then hear from the heavens and forgive the sin of your people Israel and bring them back to the ground that you gave to them and to their ancestors.
+v14: He prayed, “LORD, Israel’s God, there is no God like you in heaven or on earth. You keep covenant and faithful love with your servants who walk before you with all their heart.
+v15: You have kept the promise you made to your servant David my father. What you spoke with your mouth you have fulfilled with your hand, as we see today.
+v16: Now, LORD, Israel’s God, keep this promise you made to your servant David my father: ‘You will never lack a man to sit before me on Israel’s throne, provided your sons watch their ways and walk in my instruction as you have walked before me.’
+v17: Now, LORD, Israel’s God, let the word you spoke to your servant David prove true.
 </p>
 
-## When the Heavens Are Shut
-
 <p>
-v26: “When the heavens are shut up and there is no rain because they sinned against you, and they pray toward this place and confess your name and turn from their sin because you humble them,
-
-v27: then hear in the heavens and forgive the sin of your servants and your people Israel, when you teach them the good way in which they should walk. Give rain upon your land that you gave to your people as an inheritance.
+v18: “But will God really dwell with human beings on earth? Heaven, even the highest heavens, cannot contain you! How much less this house I have built!
+v19: Yet attend to your servant’s prayer and plea, LORD my God. Listen to the cry and the prayer your servant offers before you.
+v20: May your eyes be open toward this house day and night, toward the place where you said you would put your name. Hear the prayer your servant offers toward this place.
+v21: Hear the pleas your servant and your people Israel offer toward this place. Hear from heaven, your dwelling place. Hear, and forgive.
 </p>
 
-## When Famine or Plague Comes
-
 <p>
-v28: “If there is famine in the land, if there is plague, blight, mildew, locust, or grasshopper; if their enemies besiege them in the land at their gates; whatever plague or sickness there may be—
-
-v29: whatever prayer, whatever plea is made by any person or by all your people Israel, each knowing his own affliction and pain and spreading out his hands toward this house—
-
-v30: then hear from the heavens, your dwelling place, and forgive. Give to each according to all his ways, for you know his heart—for you alone know the heart of the children of humanity—
-
-v31: so that they may fear you and walk in your ways all the days that they live upon the face of the ground that you gave to our ancestors.
+v22: “When someone wrongs a neighbor and is required to swear an oath, and the oath is brought before your altar in this house,
+v23: hear from heaven and act. Judge between your servants: repay the guilty by bringing their conduct down on their own heads, and vindicate the righteous by treating them according to their righteousness.
 </p>
 
-## When a Foreigner Prays
-
 <p>
-v32: “And also concerning the foreigner who is not from your people Israel, when he comes from a distant land because of your great name, your strong hand, and your outstretched arm, and he comes and prays toward this house,
-
-v33: then hear from the heavens, from your dwelling place, and do according to all for which the foreigner calls to you, so that all the peoples of the earth may know your name and fear you, as your people Israel do, and know that your name is called upon this house that I have built.
+v24: “When your people Israel are defeated by an enemy because they have sinned against you, and they turn back, acknowledge your name, and pray and plead before you in this house,
+v25: hear from heaven. Forgive the sin of your people Israel and bring them back to the ground you gave them and their ancestors.
 </p>
 
-## When Your People Go Out to Battle
-
 <p>
-v34: “When your people go out to battle against their enemies by the way you send them, and they pray to you toward this city that you have chosen and the house that I have built for your name,
-
-v35: then hear from the heavens their prayer and their plea and maintain their cause.
+v26: “When the heavens are shut and no rain falls because they have sinned against you, and they pray toward this place, acknowledge your name, and turn from their sin because you have afflicted them,
+v27: hear from heaven. Forgive the sin of your servants, your people Israel, as you teach them the good way to walk. Send rain on the land you gave your people as their inheritance.
 </p>
 
-## When Your People Go into Exile
-
 <p>
-v36: “When they sin against you—for there is no human being who does not sin—and you become angry with them and give them before an enemy, and their captors carry them captive to a land far or near,
-
-v37: and they bring it back to their heart in the land where they were carried captive and return and plead with you in the land of their captivity, saying, ‘We have sinned, we have acted perversely, and we have acted wickedly,’
-
-v38: and they return to you with all their heart and with all their life in the land of their captivity where they carried them captive, and pray toward their land that you gave to their ancestors, the city that you chose, and the house that I built for your name,
-
-v39: then hear from the heavens, from your dwelling place, their prayer and their pleas, maintain their cause, and forgive your people who sinned against you.
+v28: “When famine strikes the land, or plague, blight, mildew, locusts or devouring locusts; when enemies besiege them in the land at their gates; whatever the affliction or disease,
+v29: whatever prayer or plea any person or all your people Israel offer, each knowing their own affliction and pain and spreading their hands toward this house,
+v30: hear from heaven, your settled dwelling place, and forgive. Deal with each according to all their ways, for you know their heart—you alone know the hearts of human beings—
+v31: so that they may fear you and walk in your ways all the days they live on the ground you gave our ancestors.
 </p>
 
-## Arise, O LORD God, to Your Resting Place
+<p>
+v32: “As for foreigners who do not belong to your people Israel but come from a distant land because of your great name, your strong hand, and your outstretched arm: when they come and pray toward this house,
+v33: hear from heaven, your settled dwelling place. Do all the foreigner calls on you to do, so that all earth’s peoples may know your name and fear you as your people Israel do, and know that this house I have built bears your name.
+</p>
 
 <p>
-v40: “And now, my God, please let your eyes be open and your ears attentive to the prayer of this place.
+v34: “When your people go to war against their enemies by whatever route you send them, and pray to you toward this city you have chosen and the house I have built for your name,
+v35: hear their prayer and plea from heaven, and uphold their cause.
+</p>
 
-v41: And now arise, O LORD God,
-to your resting place,
+<p>
+v36: “When they sin against you—for there is no one who does not sin—and you are angry with them and hand them over to an enemy, so that their captors take them to a land far away or nearby,
+v37: if they take it to heart in the land where they are captives, turn back, and plead with you there, saying, ‘We have sinned, done wrong, and acted wickedly,’
+v38: if they return to you with all their heart and all their being in the land of their captivity, where they have been taken, and pray toward the land you gave their ancestors, the city you chose, and the house I built for your name,
+v39: hear their prayer and pleas from heaven, your settled dwelling place. Uphold their cause, and forgive your people who have sinned against you.
+</p>
+
+<p>
+v40: “Now, my God, please open your eyes and let your ears attend to the prayer offered in this place.
+v41: Now rise, LORD God, to your resting place,
 you and the ark of your strength.
-Let your priests, O LORD God,
-be clothed with salvation,
-and let your faithful ones
-rejoice in goodness.
-
-v42: O LORD God,
-do not turn away the face
-of your anointed one.
-Remember the steadfast love
-of David your servant.”
+May your priests, LORD God, be clothed with salvation;
+may your faithful ones rejoice in goodness.
+v42: LORD God, do not turn away your anointed one.
+Remember the faithful love shown to David your servant.”
 </p>
 
 ## Notes
 
-v06: Chronicles explicitly says God chose both Jerusalem and David, joining city and dynasty.
+v18: The question holds together God’s presence among human beings and the impossibility of containing God in a building.
 
-v18: Solomon’s theology resists the idea that the temple physically contains God.
+v22–23: The oath belongs to a dispute between neighbors. The prayer asks God to distinguish guilt from innocence; it does not describe the procedure in detail.
 
-v32–33: The prayer includes foreigners who come because of the LORD’s name and asks that their prayers be heard.
+v32–33: The foreigner is explicitly someone outside Israel. The request extends hearing and response to that person’s prayer.
 
-v36: “There is no human being who does not sin” grounds the exile petition in realistic anthropology.
-
-v41–42: The closing lines echo Psalm 132 and emphasize priests, ark, anointed king, and Davidic steadfast love.
+v42: The Hebrew can mean the faithful love shown to David or David’s own acts of loyalty. Fluent follows the first possibility.
 
 ## Vocabulary
 
-v14: בְּרִית (berit)
-“Covenant.”
+v14: Covenant and faithful love
+Berit and hesed join pledged relationship with enduring loyalty.
 
-v14: חֶסֶד (hesed)
-“Steadfast love.”
+v21: Hear and forgive
+These paired requests recur throughout the prayer, connecting its different situations.
 
-v18: כִּיל (kil)
-“To contain.”
-
-v21: סָלַח (salach)
-“To forgive.”
-
-v32: נָכְרִי (nokhri)
-“Foreigner.”
-
-v42: מָשִׁיחַ (mashiach)
-“Anointed one.”
+v41: Salvation
+Teshuah means deliverance or rescue; here it is pictured as clothing.

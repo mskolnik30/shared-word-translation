@@ -207,28 +207,26 @@
     2,
     3,
     4,
-    5
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
   ],
   "current_revision": {
-    "id": "fluent-2chronicles-1-5-biblical-fluency-2026-09-15",
+    "id": "fluent-2chronicles-6-20-biblical-fluency-2026-09-15",
     "chapters": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "verse_count": 88,
-    "verse_ledger": "audit/fluent-revision/2026-09-15-2chronicles-1-5/2chronicles-verse-review.json",
-    "automated_qa": "PASSED",
-    "editorial_status": "REVIEW_PENDING",
-    "qa_scope": "structural",
-    "prior_record": {
-      "commit": "89f0893c0abd136c80d4a194ca42b090ae6f6274",
-      "path": "audit/exegetical-core/fluent-production/2chronicles/2_CHRONICLES_FLUENT_BOOK_QA.json"
-    },
-    "previous_batch_chapters": [],
-    "not_yet_revised_chapters": [
       6,
       7,
       8,
@@ -243,7 +241,25 @@
       17,
       18,
       19,
-      20,
+      20
+    ],
+    "verse_count": 342,
+    "verse_ledger": "audit/fluent-revision/2026-09-15-2chronicles-6-20/2chronicles-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "625643519e5a0bd0d812b0add13989028216c6c6",
+      "path": "audit/exegetical-core/fluent-production/2chronicles/2_CHRONICLES_FLUENT_BOOK_QA.json"
+    },
+    "previous_batch_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "not_yet_revised_chapters": [
       21,
       22,
       23,
@@ -261,7 +277,7 @@
       35,
       36
     ],
-    "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–5; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
+    "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 6–20; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
   },
   "historical_approval_scope": "Earlier wording and its original bindings only; no approval transfers to revised chapters.",
   "revision_batches": [
@@ -318,6 +334,61 @@
         36
       ],
       "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–5; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
+    },
+    {
+      "id": "fluent-2chronicles-6-20-biblical-fluency-2026-09-15",
+      "chapters": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 342,
+      "verse_ledger": "audit/fluent-revision/2026-09-15-2chronicles-6-20/2chronicles-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "625643519e5a0bd0d812b0add13989028216c6c6",
+        "path": "audit/exegetical-core/fluent-production/2chronicles/2_CHRONICLES_FLUENT_BOOK_QA.json"
+      },
+      "previous_batch_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "not_yet_revised_chapters": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 6–20; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
     }
   ]
 }

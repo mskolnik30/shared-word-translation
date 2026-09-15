@@ -316,6 +316,11 @@
       "scope": "2 Chronicles 1–5",
       "verses": 88,
       "ledger": "audit/fluent-revision/2026-09-15-2chronicles-1-5/2chronicles-verse-review.json"
+    },
+    {
+      "scope": "2 Chronicles 6–20",
+      "verses": 342,
+      "ledger": "audit/fluent-revision/2026-09-15-2chronicles-6-20/2chronicles-verse-review.json"
     }
   ],
   "next_work": [
@@ -340,12 +345,12 @@
       "action": "Review the complete book and its connections to Samuel, Kings, and 2 Chronicles; rebind affected earlier ledgers if text changes."
     },
     {
-      "scope": "2 Chronicles 6–35",
-      "action": "Next thirty-chapter drafting target. Continue independent source reading, preserve the temple prayer and each reign’s narrative, and verify all verse mappings."
+      "scope": "2 Chronicles 21–35",
+      "action": "Finish the remaining fifteen chapters of the requested thirty-chapter target; independent Hebrew reading, source-bound rationale and comparator review for every verse."
     },
     {
       "scope": "2 Chronicles 36, then Ezra",
-      "action": "Finish Chronicles, review the whole book for consistency, and verify the pinned Hebrew and Aramaic sources before beginning Ezra."
+      "action": "Finish Chronicles and its whole-book consistency pass; verify pinned Hebrew and Aramaic sources before Ezra."
     }
   ],
   "standards": [
@@ -400,5 +405,5 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt requests thirty complete chapters where careful source work permits. This batch completes 1 Chronicles 5–29 and 2 Chronicles 1–5: thirty chapters, 854 public verses. Whole-book Samuel, Kings, and 1 Chronicles authoring consistency passes remain explicitly queued. No routine approval pause or overlap quota."
+  "batch_preference": "Matt requests thirty complete chapters where careful source work permits. This checkpoint completes the first fifteen of the target, 2 Chronicles 6–20, with 342 public verses. The remaining fifteen, 21–35, are next. Preserve the source-first biblical-fluency standard and all queued whole-book consistency passes. No routine approval pause or overlap quota."
 }

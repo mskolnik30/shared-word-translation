@@ -4,157 +4,138 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-6-20-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 20
-
-## A Great Multitude Comes against Judah
+## An invading army
 
 <p>
-v01: After this the children of Moab and the children of Ammon, and with them some of the Meunites, came against Jehoshaphat for battle.
-
-v02: People came and told Jehoshaphat, saying, “A great multitude is coming against you from beyond the sea, from Edom. Look, they are in Hazazon-Tamar, that is, En-Gedi.”
-
-v03: Jehoshaphat was afraid and set his face to seek the LORD. He proclaimed a fast throughout all Judah.
-
-v04: Judah gathered to seek the LORD. Even from all the cities of Judah they came to seek the LORD.
+v01: After this, the Moabites and Ammonites, with some of the Ammonites, came to wage war against Jehoshaphat.
+v02: Messengers told Jehoshaphat, “A vast crowd is coming against you from beyond the sea, from Aram. They are already at Hazazon-tamar”—that is, En-gedi.
 </p>
 
-## Jehoshaphat Prays in the Temple
-
 <p>
-v05: Jehoshaphat stood in the assembly of Judah and Jerusalem in the house of the LORD, before the new court,
-
-v06: and said:
-
-“O LORD, God of our ancestors,
-are you not God in the heavens?
-You rule over all the kingdoms of the nations.
-In your hand are power and might,
-and no one can stand against you.
-
-v07: Did you not, our God, dispossess the inhabitants of this land before your people Israel and give it forever to the offspring of Abraham your friend?
-
-v08: They lived in it and built for you in it a sanctuary for your name, saying,
-
-v09: ‘If evil comes upon us—sword, judgment, plague, or famine—we will stand before this house and before you, for your name is in this house, and cry to you from our distress, and you will hear and save.’
-
-v10: And now, look, the children of Ammon and Moab and Mount Seir, whom you did not allow Israel to invade when they came from the land of Egypt, but they turned aside from them and did not destroy them—
-
-v11: look how they repay us, coming to drive us out from your possession that you gave us to possess.
-
-v12: O our God, will you not judge them? For there is no power in us before this great multitude that is coming against us. We do not know what we should do, but our eyes are upon you.”
+v03: Jehoshaphat was afraid. He set himself to seek the LORD and proclaimed a fast throughout Judah.
+v04: Judah gathered to seek help from the LORD. They came from every town in Judah to seek the LORD.
 </p>
 
-## The Spirit of the LORD Comes upon Jahaziel
+## Jehoshaphat’s prayer
 
 <p>
-v13: All Judah was standing before the LORD, even their little children, their wives, and their sons.
-
-v14: Then among the assembly the Spirit of the LORD came upon Jahaziel son of Zechariah, son of Benaiah, son of Jeiel, son of Mattaniah, the Levite from the sons of Asaph.
-
-v15: He said, “Listen, all Judah and inhabitants of Jerusalem, and King Jehoshaphat! Thus says the LORD to you: Do not fear or be dismayed before this great multitude, for the battle is not yours but God’s.
-
-v16: Tomorrow go down against them. Look, they are coming up by the ascent of Ziz, and you will find them at the end of the valley before the wilderness of Jeruel.
-
-v17: You will not need to fight in this battle. Take your position, stand, and see the salvation of the LORD with you, Judah and Jerusalem. Do not fear and do not be dismayed. Tomorrow go out before them, and the LORD will be with you.”
+v05: Jehoshaphat stood in the assembly of Judah and Jerusalem at the LORD’s house, in front of the new courtyard.
+v06: He said, “LORD, our ancestors’ God, are you not God in heaven? You rule all the nations’ kingdoms. Power and might are in your hand, and no one can stand against you.
+v07: Our God, did you not drive out this land’s inhabitants before your people Israel and give it forever to the offspring of Abraham, who loved you?
+v08: They lived in it and built you a sanctuary for your name, saying,
+v09: ‘If disaster comes upon us—the sword of judgment, plague, or famine—we will stand before this house and before you, for your name is in this house. We will cry to you in our distress, and you will hear and save.’
 </p>
 
-## Judah Worships before the Battle
-
 <p>
-v18: Jehoshaphat bowed his face to the ground, and all Judah and the inhabitants of Jerusalem fell before the LORD, worshiping the LORD.
-
-v19: The Levites from the children of the Kohathites and from the children of the Korahites arose to praise the LORD, the God of Israel, with an exceedingly loud voice.
+v10: “Now look at Ammon, Moab, and Mount Seir. You did not let Israel invade them when Israel came from Egypt. Israel turned away and did not destroy them.
+v11: See how they repay us: they come to drive us from the inheritance you gave us to possess!
 </p>
 
-## Singers Go before the Army
-
 <p>
-v20: They rose early in the morning and went out to the wilderness of Tekoa. As they went out, Jehoshaphat stood and said, “Hear me, Judah and inhabitants of Jerusalem! Trust in the LORD your God, and you will be established. Trust in his prophets, and you will succeed.”
-
-v21: After consulting with the people, he appointed singers to the LORD and those praising in holy splendor as they went out before the armed men, saying:
-
-“Give thanks to the LORD,
-for his steadfast love is forever.”
-
-v22: At the time they began with singing and praise, the LORD set ambushes against the children of Ammon, Moab, and Mount Seir who had come against Judah, and they were struck.
-
-v23: The children of Ammon and Moab rose against the inhabitants of Mount Seir to devote them to destruction and destroy them. When they had finished with the inhabitants of Seir, each helped destroy his companion.
+v12: Our God, will you not judge them? We have no strength against this vast crowd coming against us. We do not know what to do, but our eyes are on you.”
 </p>
 
-## Judah Collects the Spoil
-
 <p>
-v24: When Judah came to the lookout of the wilderness, they turned toward the multitude, and look, corpses were fallen to the ground, and no one had escaped.
-
-v25: Jehoshaphat and his people came to take their spoil, and they found among them in abundance goods, clothing, and precious things. They stripped for themselves more than they could carry. They were three days taking the spoil, for it was abundant.
-
-v26: On the fourth day they gathered in the Valley of Beracah, for there they blessed the LORD. Therefore they called the name of that place the Valley of Beracah to this day.
+v13: All Judah stood before the LORD, including their little ones, wives, and sons.
 </p>
 
-## The Fear of God Falls on the Kingdoms
+## The word through Jahaziel
 
 <p>
-v27: Then every man of Judah and Jerusalem returned, with Jehoshaphat at their head, to return to Jerusalem with joy, for the LORD had made them rejoice over their enemies.
-
-v28: They came to Jerusalem with harps, lyres, and trumpets, to the house of the LORD.
-
-v29: The fear of God was upon all the kingdoms of the lands when they heard that the LORD had fought against the enemies of Israel.
-
-v30: So the kingdom of Jehoshaphat had rest, and his God gave him rest all around.
+v14: In the middle of the assembly, the LORD’s Spirit came upon Jahaziel son of Zechariah, son of Benaiah, son of Jeiel, son of Mattaniah, a Levite descended from Asaph.
+v15: He said, “Listen, all Judah, people of Jerusalem, and King Jehoshaphat! The LORD says to you: Do not be afraid or dismayed by this vast crowd. The battle belongs to God, not to you.
 </p>
 
-## Jehoshaphat’s Reign Summarized
-
 <p>
-v31: Jehoshaphat reigned over Judah. He was thirty-five years old when he became king, and he reigned twenty-five years in Jerusalem. His mother’s name was Azubah daughter of Shilhi.
-
-v32: He walked in the way of Asa his father and did not turn aside from it, doing what was right in the eyes of the LORD.
-
-v33: Only the high places were not removed, and the people had not yet set their heart toward the God of their ancestors.
-
-v34: Now the rest of the acts of Jehoshaphat, first and last, look, they are written in the words of Jehu son of Hanani, which were included in the book of the kings of Israel.
+v16: Tomorrow go down against them. They are coming up the Ascent of Ziz, and you will find them at the end of the wadi facing the wilderness of Jeruel.
+v17: You will not need to fight in this battle. Take your positions, stand, and see the LORD’s salvation for you, Judah and Jerusalem. Do not be afraid or dismayed. Go out to meet them tomorrow, and the LORD will be with you.”
 </p>
 
-## Jehoshaphat’s Ships Are Broken
+<p>
+v18: Jehoshaphat bowed with his face to the ground. All Judah and Jerusalem’s inhabitants fell before the LORD to worship him.
+v19: The Levites from the Kohathites and Korahites stood up to praise the LORD, Israel’s God, with very loud voices.
+</p>
+
+## Judah goes out
 
 <p>
-v35: After this Jehoshaphat king of Judah joined himself with Ahaziah king of Israel, who acted wickedly.
+v20: Early the next morning they went out to Tekoa’s wilderness. As they left, Jehoshaphat stood and said, “Listen to me, Judah and people of Jerusalem! Trust the LORD your God, and you will stand firm. Trust his prophets, and you will succeed.”
+</p>
 
-v36: He joined with him to make ships to go to Tarshish, and they made the ships at Ezion-Geber.
+<p>
+v21: After consulting the people, he appointed singers to the LORD, praising in holy splendor as they went ahead of the armed troops. They sang, “Give thanks to the LORD, for his faithful love lasts forever.”
+</p>
 
-v37: Then Eliezer son of Dodavahu from Mareshah prophesied against Jehoshaphat, saying, “Because you joined yourself with Ahaziah, the LORD has broken your works.” So the ships were wrecked and were not able to go to Tarshish.
+<p>
+v22: As they began their shouts of joy and praise, the LORD set ambushes against Ammon, Moab, and Mount Seir, who had come against Judah, and they were defeated.
+v23: Ammon and Moab rose against Mount Seir’s inhabitants to devote them to destruction and wipe them out. When they had finished with Seir’s inhabitants, they helped destroy one another.
+</p>
+
+<p>
+v24: Judah reached the lookout over the wilderness and looked toward the crowd. There lay corpses on the ground; no one had escaped.
+v25: Jehoshaphat and his people came to take the plunder. They found great quantities of possessions, corpses, and valuable objects. They stripped off more than they could carry. They spent three days taking plunder, because there was so much.
+</p>
+
+<p>
+v26: On the fourth day they assembled in the Valley of Beracah, where they blessed the LORD. That is why the place is called the Valley of Beracah to this day.
+</p>
+
+<p>
+v27: Then every man of Judah and Jerusalem returned joyfully to Jerusalem, with Jehoshaphat at their head. The LORD had given them joy over their enemies.
+v28: They entered Jerusalem with harps, lyres, and trumpets and went to the LORD’s house.
+</p>
+
+<p>
+v29: Dread of God fell on all the kingdoms of the lands when they heard that the LORD had fought against Israel’s enemies.
+v30: Jehoshaphat’s kingdom was quiet, for his God had given him rest on every side.
+</p>
+
+## The closing account of Jehoshaphat
+
+<p>
+v31: Jehoshaphat reigned over Judah. He was thirty-five when he became king and reigned twenty-five years in Jerusalem. His mother was Azubah daughter of Shilhi.
+v32: He followed the way of his father Asa without turning aside, doing what was right in the LORD’s eyes.
+v33: Yet the high places remained, and the people still had not set their hearts on their ancestors’ God.
+v34: Jehoshaphat’s remaining acts, from first to last, are written in the records of Jehu son of Hanani, which were included in the Book of the Kings of Israel.
+</p>
+
+<p>
+v35: After this, Jehoshaphat king of Judah joined with Ahaziah king of Israel, who acted wickedly.
+v36: He joined with him to make ships to sail to Tarshish. They built the ships at Ezion-geber.
+v37: Eliezer son of Dodavahu from Mareshah prophesied against Jehoshaphat: “Because you joined with Ahaziah, the LORD has shattered your work.” The ships broke up and could not sail to Tarshish.
 </p>
 
 ## Notes
 
-v03–04: Jehoshaphat’s fear leads directly to seeking the LORD and calling the entire kingdom to fast.
+v1–2: The pinned Hebrew repeats Ammonites in verse 1 and reads Aram in verse 2. Meunites and Edom are alternative readings often adopted to address these difficulties. Fluent retains the pinned readings.
 
-v12: “We do not know what we should do, but our eyes are upon you” is the theological center of the prayer.
+v7: Who loved you follows the Hebrew participle; your friend is another way to render the relationship.
 
-v15–17: Judah is commanded to stand and witness divine deliverance rather than win the battle through military force.
+v9: Sword of judgment represents a difficult compressed phrase; sword, judgment is another division.
 
-v21–22: Worship goes before the army, and the divine ambush begins as praise begins.
+v21: Holy splendor can refer to sacred beauty or holy attire. The Hebrew does not specify a garment here.
 
-v35–37: The chapter closes by qualifying Jehoshaphat’s faithfulness through another alliance with a wicked northern king.
+v22: The ambushers are not identified. The following verse describes the invaders turning on one another.
+
+v25: The Hebrew has corpses in the inventory. Clothing is an alternative reading; the draft preserves the more difficult source word.
+
+v35: The final he can refer to Ahaziah or to Jehoshaphat’s conduct in making the alliance. Fluent follows the nearer named person, Ahaziah.
+
+v36–37: Chronicles explicitly says the ships were to sail to Tarshish. The different description in 1 Kings 22:48 is not substituted here.
 
 ## Vocabulary
 
-v03: צוֹם (tsom)
-“Fast.”
+v17: Salvation
+Yeshuah is deliverance; the promised rescue concerns this battle.
 
-v12: עַיִן (ayin)
-“Eye.” Judah’s eyes are fixed upon God.
+v20: Trust and stand firm
+Forms of the same Hebrew root, aman, connect reliance with being established.
 
-v14: רוּחַ יְהוָה (ruach YHWH)
-“Spirit of the LORD.”
-
-v17: יְשׁוּעָה (yeshuah)
-“Salvation” or deliverance.
-
-v21: חֶסֶד (hesed)
-“Steadfast love.”
-
-v26: בְּרָכָה (berakhah)
-“Blessing.” The valley is named for blessing the LORD.
+v26: Beracah
+The name means blessing and echoes they blessed in the same verse.
