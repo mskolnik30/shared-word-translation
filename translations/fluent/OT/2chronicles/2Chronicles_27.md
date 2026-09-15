@@ -4,61 +4,48 @@ testament: OT
 chapter: 27
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-21-35-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 27
-
-## Jotham Reigns in Judah
+## Jotham’s reign
 
 <p>
-v01: Jotham was twenty-five years old when he became king, and he reigned sixteen years in Jerusalem. His mother’s name was Jerushah daughter of Zadok.
-
-v02: He did what was right in the eyes of the LORD according to all that Uzziah his father had done, except that he did not enter the temple of the LORD. Yet the people still acted corruptly.
+v01: Jotham was twenty-five when he became king, and he ruled in Jerusalem for sixteen years. His mother's name was Jerushah daughter of Zadok.
+v02: He did what was right in the LORD's eyes, following all that his father Uzziah had done, except that he did not enter the LORD's temple. The people, however, continued their corrupt ways.
 </p>
 
-## Jotham Builds and Fights
-
 <p>
-v03: He built the Upper Gate of the house of the LORD and built extensively on the wall of Ophel.
-
-v04: He built cities in the hill country of Judah and built fortresses and towers in the forests.
-
-v05: He fought with the king of the children of Ammon and prevailed against them. The children of Ammon gave him that year one hundred talents of silver, ten thousand cors of wheat, and ten thousand of barley. The children of Ammon paid him the same amount in the second and third years.
+v03: He built the Upper Gate of the LORD's house and did extensive building on the wall of the Ophel.
+v04: He built cities in Judah's hill country, and fortresses and towers in the wooded regions.
 </p>
 
-## Jotham Becomes Strong
+<p>
+v05: He fought the king of the Ammonites and prevailed over them. That year the Ammonites gave him one hundred talents of silver, ten thousand kors of wheat, and ten thousand of barley. They paid him the same in the second and third years.
+</p>
 
 <p>
-v06: So Jotham became strong because he established his ways before the LORD his God.
+v06: Jotham grew strong because he ordered his ways before the LORD his God.
+</p>
 
-v07: Now the rest of the acts of Jotham, all his wars and his ways, look, they are written in the book of the kings of Israel and Judah.
-
-v08: He was twenty-five years old when he became king, and he reigned sixteen years in Jerusalem.
-
-v09: Jotham lay down with his ancestors, and they buried him in the city of David. Ahaz his son became king in his place.
+<p>
+v07: The rest of Jotham's acts, all his wars, and his ways are written in the Book of the Kings of Israel and Judah.
+v08: He was twenty-five when he became king and ruled in Jerusalem for sixteen years.
+v09: Jotham rested with his ancestors and was buried in the City of David. His son Ahaz succeeded him as king.
 </p>
 
 ## Notes
 
-v02: Jotham avoids his father Uzziah’s temple transgression, yet popular corruption continues despite the king’s faithfulness.
+v02: The exception recalls Uzziah’s entry to burn incense in 26:16–21.
 
-v05: Tribute from Ammon demonstrates political strength but is not made the theological center of the chapter.
-
-v06: Jotham’s strength is explicitly grounded in ordering his ways before the LORD.
+v05: The same tribute is reported for three years. The silver and grain amounts are retained in their ancient units.
 
 ## Vocabulary
 
-v03: עֹפֶל (Ophel)
-“Ophel.” The elevated fortified area of Jerusalem.
+v03: Ophel
+A raised area of Jerusalem associated with its fortifications.
 
-v04: בִּירָנִיּוֹת (biraniyyot)
-“Fortresses.”
-
-v05: כָּנַע (kana)
-“To subdue” or prevail.
-
-v06: כּוּן (kun)
-“To establish” or make firm.
-
-v06: דֶּרֶךְ (derekh)
-“Way.” Jotham establishes his ways before the LORD.
+v05: Kor
+An ancient dry measure for grain; the precise modern equivalent varies.

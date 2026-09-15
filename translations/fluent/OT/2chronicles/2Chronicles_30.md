@@ -4,114 +4,111 @@ testament: OT
 chapter: 30
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-21-35-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 30
-
-## Hezekiah Invites All Israel to Passover
+## An invitation to all Israel
 
 <p>
-v01: Hezekiah sent to all Israel and Judah and also wrote letters to Ephraim and Manasseh, that they should come to the house of the LORD in Jerusalem to make the Passover to the LORD, the God of Israel.
-
-v02: The king and his officials and all the assembly in Jerusalem took counsel to make the Passover in the second month.
-
-v03: For they were not able to make it at that time because not enough priests had consecrated themselves and the people had not gathered to Jerusalem.
-
-v04: The matter was right in the eyes of the king and in the eyes of all the assembly.
-
-v05: So they established a decree to make proclamation throughout all Israel, from Beersheba even to Dan, that they should come to make the Passover to the LORD, the God of Israel, in Jerusalem, for they had not made it in great numbers as written.
+v01: Hezekiah sent word throughout Israel and Judah. He also wrote letters to Ephraim and Manasseh, inviting them to the LORD's house in Jerusalem to celebrate the Passover to the LORD, Israel's God.
 </p>
 
-## Couriers Carry the Invitation North
-
 <p>
-v06: The couriers went with letters from the hand of the king and his officials throughout all Israel and Judah, according to the king’s command, saying:
-
-“Children of Israel, return to the LORD, the God of Abraham, Isaac, and Israel, so that he may return to the remnant of you who have escaped from the hand of the kings of Assyria.
-
-v07: Do not be like your ancestors and like your brothers who acted unfaithfully against the LORD, the God of their ancestors, so that he made them a horror, as you see.
-
-v08: Now do not stiffen your neck like your ancestors. Give your hand to the LORD and come to his sanctuary, which he has consecrated forever, and serve the LORD your God, so that the burning of his anger may turn from you.
-
-v09: For if you return to the LORD, your brothers and your children will find compassion before their captors and return to this land, for the LORD your God is gracious and compassionate and will not turn his face from you if you return to him.”
-
-v10: So the couriers passed from city to city through the land of Ephraim and Manasseh and as far as Zebulun, but they laughed at them and mocked them.
-
-v11: Even so, some men from Asher, Manasseh, and Zebulun humbled themselves and came to Jerusalem.
-
-v12: The hand of God was also upon Judah to give them one heart to do the command of the king and the officials by the word of the LORD.
+v02: The king, his officials, and the whole assembly in Jerusalem agreed to celebrate the Passover in the second month.
+v03: They had been unable to celebrate it at the proper time because not enough priests had consecrated themselves and the people had not assembled in Jerusalem.
+v04: The proposal seemed right to the king and the whole assembly.
 </p>
 
-## The Passover Is Celebrated
-
 <p>
-v13: A very great assembly gathered at Jerusalem to make the Festival of Unleavened Bread in the second month.
-
-v14: They arose and removed the altars that were in Jerusalem. They removed all the incense altars and threw them into the Wadi Kidron.
-
-v15: They slaughtered the Passover on the fourteenth day of the second month. The priests and Levites were ashamed, consecrated themselves, and brought burnt offerings to the house of the LORD.
-
-v16: They stood at their station according to their ordinance, according to the instruction of Moses the man of God. The priests threw the blood received from the hand of the Levites.
-
-v17: For there were many in the assembly who had not consecrated themselves. Therefore the Levites were responsible for slaughtering the Passover lambs for everyone who was not clean, to consecrate them to the LORD.
+v05: They decided to issue a proclamation throughout Israel, from Beer-sheba to Dan, calling people to Jerusalem to celebrate the Passover to the LORD, Israel's God. They had not celebrated it in large numbers as prescribed.
 </p>
 
-## Hezekiah Prays for the Unclean
+<p>
+v06: Couriers went throughout Israel and Judah with letters from the king and his officials. At the king's command, they said: “People of Israel, return to the LORD, the God of Abraham, Isaac, and Israel, so that he may return to those of you who remain, who have escaped the grasp of Assyria's kings.
+</p>
 
 <p>
-v18: For a multitude of the people, many from Ephraim, Manasseh, Issachar, and Zebulun, had not purified themselves, yet they ate the Passover not as written. But Hezekiah prayed for them, saying, “May the good LORD make atonement for
+v07: Do not be like your ancestors and relatives who were unfaithful to the LORD, the God of their ancestors. He made them a desolation, as you can see.
+v08: Do not stiffen your necks as your ancestors did. Give your hand to the LORD. Come to the sanctuary he has consecrated forever, and serve the LORD your God, so that his burning anger may turn away from you.
+v09: If you return to the LORD, your relatives and children will find compassion with their captors and return to this land. The LORD your God is gracious and compassionate. He will not turn his face from you if you return to him.”
+</p>
 
-v19: everyone who has set his heart to seek God, the LORD, the God of his ancestors, even though not according to the purification of the sanctuary.”
+## Responses to the invitation
 
+<p>
+v10: The couriers passed from city to city through Ephraim and Manasseh as far as Zebulun, but people laughed at them and mocked them.
+v11: Still, some men from Asher, Manasseh, and Zebulun humbled themselves and came to Jerusalem.
+</p>
+
+<p>
+v12: God's hand was also at work in Judah, giving them one heart to carry out the command of the king and officials in accordance with the LORD's word.
+</p>
+
+## Passover in the second month
+
+<p>
+v13: A great crowd assembled in Jerusalem to celebrate the Festival of Unleavened Bread in the second month—a very large assembly.
+v14: They set about removing the altars in Jerusalem. They removed all the incense altars too and threw them into the Kidron Valley.
+</p>
+
+<p>
+v15: They slaughtered the Passover animals on the fourteenth day of the second month. The priests and Levites were ashamed; they consecrated themselves and brought burnt offerings to the LORD's house.
+v16: They took their appointed places according to their rule, in keeping with the law of Moses, the man of God. The priests splashed the blood handed to them by the Levites.
+</p>
+
+<p>
+v17: Many in the assembly had not consecrated themselves, so the Levites slaughtered the Passover animals for everyone who was unclean, to consecrate them to the LORD.
+</p>
+
+<p>
+v18: A large number of people—many from Ephraim, Manasseh, Issachar, and Zebulun—had not purified themselves, yet they ate the Passover contrary to what was written. But Hezekiah prayed for them: “May the good LORD make atonement for
+v19: everyone who has set his heart on seeking God, the LORD, the God of his ancestors, even without the purification required for the sanctuary.”
+</p>
+
+<p>
 v20: The LORD listened to Hezekiah and healed the people.
 </p>
 
-## The Festival Is Extended
+<p>
+v21: The Israelites present in Jerusalem celebrated the Festival of Unleavened Bread for seven days with great joy. Day after day the Levites and priests praised the LORD with resounding instruments for the LORD.
+v22: Hezekiah spoke encouragement to all the Levites who showed sound understanding in the LORD's service. They ate the festival meals for seven days, sacrificing well-being offerings and giving thanks to the LORD, the God of their ancestors.
+</p>
+
+## Another seven days of joy
 
 <p>
-v21: The children of Israel who were present in Jerusalem made the Festival of Unleavened Bread seven days with great gladness. The Levites and priests praised the LORD day by day with strong instruments to the LORD.
+v23: The whole assembly agreed to celebrate for another seven days, and they spent those seven days in joy.
+v24: Hezekiah king of Judah contributed one thousand bulls and seven thousand sheep and goats for the assembly. The officials contributed one thousand bulls and ten thousand sheep and goats. Many priests consecrated themselves.
+</p>
 
-v22: Hezekiah spoke to the heart of all the Levites who showed good understanding in the service of the LORD. They ate the appointed feast seven days, sacrificing offerings of well-being and giving thanks to the LORD, the God of their ancestors.
-
-v23: Then the whole assembly took counsel to make another seven days, and they made seven more days with gladness.
-
-v24: For Hezekiah king of Judah contributed to the assembly one thousand bulls and seven thousand sheep, and the officials contributed to the assembly one thousand bulls and ten thousand sheep. A great number of priests consecrated themselves.
-
-v25: All the assembly of Judah rejoiced, and the priests, the Levites, all the assembly that came from Israel, the resident aliens who came from the land of Israel, and people who lived in Judah.
-
-v26: There was great gladness in Jerusalem, for from the days of Solomon son of David king of Israel there had not been anything like this in Jerusalem.
-
-v27: Then the Levitical priests arose and blessed the people, and their voice was heard, and their prayer came to his holy dwelling, to the heavens.
+<p>
+v25: Everyone rejoiced: the whole assembly of Judah, the priests and Levites, all those who had come from Israel, and the resident foreigners who had come from Israel's land or were living in Judah.
+v26: There was great joy in Jerusalem. Nothing like it had happened there since the days of Solomon son of David, king of Israel.
+v27: The Levitical priests stood and blessed the people. Their voice was heard, and their prayer reached his holy dwelling in heaven.
 </p>
 
 ## Notes
 
-v02–03: The second-month Passover follows the provision of Numbers 9 for those unable to celebrate in the first month.
+v02–03: The second-month observance follows insufficient priestly preparation and the people’s absence. Compare the provision for a later Passover in Numbers 9:9–14.
 
-v06–09: The invitation deliberately reaches remnants of the former northern kingdom after Assyrian devastation.
+v05: In large numbers follows one understanding of the Hebrew. Another is for a long time.
 
-v10–11: Responses range from mockery to humility, preserving human freedom within the call to return.
+v18–20: The prayer does not deny the ritual shortfall. It asks for atonement for those seeking God, and the LORD is said to heal the people without a specific illness being named.
 
-v18–20: Hezekiah’s prayer prioritizes a heart set on seeking God while acknowledging ritual irregularity; the LORD responds by healing.
+v22: The final verb can express thanksgiving or confession. The festival context supports giving thanks, while the broader sense of acknowledging God remains relevant.
 
-v23: The spontaneous second week makes the celebration unusually extended.
+v27: Levitical priests follows the linked Hebrew designation; priests and Levites is another possible understanding.
 
 ## Vocabulary
 
-v06: שׁוּב (shuv)
-“To return.” The central call to repentance.
+v08: Give your hand
+An image of yielding allegiance or pledging loyalty, paired here with the opposite image of a stiff neck.
 
-v08: קְשֵׁה־עֹרֶף (qesheh-oref)
-“Stiff-necked.”
+v12: One heart
+Shared purpose expressed as a common heart.
 
-v11: כָּנַע (kana)
-“To humble oneself.”
-
-v18: כִּפֶּר (kipper)
-“To make atonement.”
-
-v20: רָפָא (rapha)
-“To heal.”
-
-v22: דִּבֶּר עַל־לֵב (dibber al-lev)
-“To speak to the heart.” To encourage.
+v25: Resident foreigners
+People living among Israel or Judah without being native members of those communities; they share in the rejoicing.

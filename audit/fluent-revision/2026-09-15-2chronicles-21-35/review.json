@@ -1,0 +1,94 @@
+{
+  "scope": "2 Chronicles 21–35: fifteen complete chapters, 369 public verses. Completes the same turn’s thirty-chapter target of 2 Chronicles 6–35, 711 verses, following the verified first half.",
+  "qualification": "Authoring source checks and comparator review only. Independent scholarly review and reader testing have not occurred.",
+  "editorial_status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "first_source_reading": {
+    "original_records": 369,
+    "all_annotations_read": true,
+    "before_independent_composition": true,
+    "truncation_recovery": "The initial 31–35 display truncated 33:11–34:3. The entire chapter 33 and exact XML of 34:1–3 were explicitly retrieved and read before those chapters were composed."
+  },
+  "tsw_comparators_read_after_drafting": 369,
+  "focused_source_reread_verses": 89,
+  "findings": [
+    "All 369 pinned Hebrew verse records and their original annotations were read before independent composition. The full source identity is verified against its Git blob and SHA256. All 369 TSW comparators were read afterward in three complete five-chapter groups.",
+    "Preserved the source-first approach to biblical fluency: connected narrative paragraphs, clear speakers and family relationships, repeated seek/return/heart/faithfulness vocabulary, and selective Notes and Vocabulary. Source-shared language is retained where clear; no mechanical synonym replacement or change quota.",
+    "Jehoram’s fratricide, the violent royal succession, incurable bowel disease, Athaliah’s slaughter and execution, and the killing of Mattan remain explicit. The letters and acts are not harmonized with the chronology or details of Kings.",
+    "Kept the source’s king of Israel titles for Judah’s rulers, the similar names Azariah/Azariahu in 21:2, Jehoahaz in 21:17, forty-two in 22:2, and Azariah in 22:6. Notes make the resulting difficulties visible without silently replacing the text.",
+    "Jehoiada’s covenant names himself as a party in 23:16. Testimony in the coronation remains a selective vocabulary issue; Levitical priests follows the linked source wording, with the coordination alternative noted.",
+    "Joash’s two wives, Jehoiada’s 130 years, the Spirit clothing Zechariah, Joash’s forgotten loyal love, his responsibility for the murder, and plural sons in 24:25 remain intact. The Ammonite and Moabite mothers of the conspirators are named without added moral conclusions.",
+    "Amaziah’s individual-liability rule, abrupt prophetic warning at 25:8, killing of ten thousand living prisoners, Samaria geographical difficulty, four hundred cubits of wall, and city of Judah burial wording are retained. The difficult warning is noted rather than made falsely certain.",
+    "Uzziah’s seeing/visions reading follows the pinned text rather than TSW’s fear of God. Military figures, designed devices, pride, priestly confrontation, and skin disease are retained without a speculative medical diagnosis or engineering reconstruction.",
+    "Ahaz’s burning of his sons is explicit. The 120,000 deaths and 200,000 captives remain as written. Oded’s challenge to enslaving men and women and the full list of care for returning captives are preserved. Slaves conveys the coercion more clearly than the TSW comparator’s servants.",
+    "Hezekiah’s opening of the closed doors, fourteen Levites in seven named pairs, first/eighth/sixteenth days, four sets of seven sacrificial animals, and repeated all Israel are checked. The account’s comparison of priestly and Levitical readiness is not softened.",
+    "The second-month Passover retains both the ritual breach and the prayer for atonement, with healed left as the source gives it. Northern participants and resident foreigners remain visible. The additional seven days are not collapsed into the first seven.",
+    "The compressed distribution instructions retain age three in 31:16, age twenty in 31:17, and dependents in 31:18. Their ambiguity is acknowledged. Cananiah follows the source’s read form consistently in 31:12–13 and 35:9.",
+    "Assyria’s invasion comes after faithfulness. The arm of flesh, people leaning on royal words, full rescue taunts, angelic action, guided in 32:22, and God leaving Hezekiah to test and know his heart are preserved without theological mitigation.",
+    "Manasseh’s child-sacrifice wording has a note making its harm clear. Hooks and bronze restraints, Assyrian captors with Babylon as destination, humbling and return, rebuilt as the read form in 33:16, and Hozai in 33:19 remain source-bound.",
+    "Huldah is clearly a woman speaking with prophetic authority. The source’s read returned in 34:9 is retained with the written Jerusalem-inhabitants alternative noted. The peace promise and later fatal battle remain side by side. Josiah’s compelled service is not recast as universal voluntary conversion.",
+    "Josiah’s first-month Passover, donation totals, general cook verb with fire and vessels distinguished, the attribution of Neco’s words to God, disguise, Jerusalem-before-death sequence, and both male and female lament singers are retained.",
+    "All 25 verses with whole-verse similarity at least 0.90 were inspected after the complete comparator reading. Three identical verses preserve clear dates/names or a concise narrative sentence. Overlap is triage, not evidence of copying or proof of originality, fidelity or comprehension.",
+    "Focused authoring rereading covered 89 selected public verses with source notes. Subsequent edits made Joash’s victim explicitly Jehoiada’s son, retained the full slaughter verb in 22:10, and simplified 32:5’s opening for natural English. Bindings and focused records were regenerated afterward.",
+    "All 64 previous ledgers and 392 earlier revised chapters are preserved byte-identically to the immediately preceding checkpoint. Existing source-audit evidence remains intact; broad historical source audits were not repeated."
+  ],
+  "overlap_summary": {
+    "before": {
+      "verses": 369,
+      "identical_words": 331,
+      "near_identical": 37,
+      "mean_word_similarity": 0.995937
+    },
+    "after": {
+      "verses": 369,
+      "identical_words": 3,
+      "near_identical": 22,
+      "mean_word_similarity": 0.707631
+    }
+  },
+  "high_overlap_verses_inspected": [
+    "2 Chronicles 21:3",
+    "2 Chronicles 23:1",
+    "2 Chronicles 23:16",
+    "2 Chronicles 23:21",
+    "2 Chronicles 24:15",
+    "2 Chronicles 24:16",
+    "2 Chronicles 24:18",
+    "2 Chronicles 24:26",
+    "2 Chronicles 25:25",
+    "2 Chronicles 25:28",
+    "2 Chronicles 26:1",
+    "2 Chronicles 29:4",
+    "2 Chronicles 29:9",
+    "2 Chronicles 30:11",
+    "2 Chronicles 30:15",
+    "2 Chronicles 30:20",
+    "2 Chronicles 31:8",
+    "2 Chronicles 32:8",
+    "2 Chronicles 33:17",
+    "2 Chronicles 34:3",
+    "2 Chronicles 34:8",
+    "2 Chronicles 34:18",
+    "2 Chronicles 34:27",
+    "2 Chronicles 34:29",
+    "2 Chronicles 35:1"
+  ],
+  "overlap_qualification": "Normalized word overlap is triage only, not a fidelity, legal uniqueness or comprehension test.",
+  "external_comparator_checks": [
+    {
+      "url": "https://tips.translation.bible/story/translation-commentary-on-2-chronicles-3116/",
+      "claim": "UBS discussion confirms uncertainty in the distribution syntax and the textual support for age three. Consulted after independent drafting."
+    },
+    {
+      "url": "https://tips.translation.bible/story/translation-commentary-on-2-chronicles-258/",
+      "claim": "UBS discussion documents competing ways to connect the abrupt imperatives and defeat warning. Consulted after independent drafting."
+    },
+    {
+      "url": "https://tips.translation.bible/story/translation-commentary-on-2-chronicles-265/",
+      "claim": "UBS discussion distinguishes seeing/visions in the Masoretic text from fear-of-God readings. Consulted after independent drafting."
+    }
+  ],
+  "structural_evidence": "verification.json",
+  "companion_impact": "Changed chapters require later quotation and text-binding reconciliation. No Companion files changed.",
+  "remaining_work": "2 Chronicles 36, then whole-book consistency review; verify Ezra Hebrew/Aramaic source before the next connected scope. Earlier whole-book Samuel, Kings and 1 Chronicles consistency passes, independent editorial review and reader testing remain pending."
+}

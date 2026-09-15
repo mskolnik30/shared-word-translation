@@ -4,112 +4,102 @@ testament: OT
 chapter: 33
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-21-35-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 33
-
-## Manasseh Reigns Wickedly
+## Manasseh leads Judah astray
 
 <p>
-v01: Manasseh was twelve years old when he became king, and he reigned fifty-five years in Jerusalem.
-
-v02: He did what was evil in the eyes of the LORD according to the detestable practices of the nations whom the LORD had dispossessed before the children of Israel.
-
-v03: He rebuilt the high places that Hezekiah his father had torn down, raised altars for the Baals, made Asherah poles, and bowed down to all the host of the heavens and served them.
-
-v04: He built altars in the house of the LORD, concerning which the LORD had said, “In Jerusalem my name will be forever.”
-
-v05: He built altars to all the host of the heavens in the two courts of the house of the LORD.
-
-v06: He made his sons pass through the fire in the Valley of the Son of Hinnom, practiced soothsaying, divination, and sorcery, and dealt with mediums and spiritists. He multiplied doing what was evil in the eyes of the LORD, provoking him to anger.
-
-v07: He set the carved image of the idol that he had made in the house of God, of which God had said to David and to Solomon his son, “In this house and in Jerusalem, which I chose from all the tribes of Israel, I will put my name forever.
-
-v08: I will not again remove the foot of Israel from the ground that I appointed for your ancestors, if only they are careful to do all that I commanded them, all the instruction, statutes, and judgments by the hand of Moses.”
-
-v09: Manasseh led Judah and the inhabitants of Jerusalem astray to do more evil than the nations whom the LORD had destroyed before the children of Israel.
+v01: Manasseh was twelve when he became king, and he ruled in Jerusalem for fifty-five years.
+v02: He did what was evil in the LORD's eyes, following the detestable practices of the nations the LORD had driven out before Israel.
 </p>
 
-## Manasseh Is Taken to Babylon
-
 <p>
-v10: The LORD spoke to Manasseh and to his people, but they did not listen.
-
-v11: So the LORD brought upon them the commanders of the army of the king of Assyria. They captured Manasseh with hooks, bound him with bronze chains, and brought him to Babylon.
+v03: He rebuilt the high places his father Hezekiah had demolished, set up altars for the Baals, made Asherah poles, and bowed down to all the host of heaven and served them.
+v04: He built altars in the LORD's house, where the LORD had said, “My name will be in Jerusalem forever.”
+v05: He built altars for all the host of heaven in both courts of the LORD's house.
 </p>
 
-## Manasseh Humbles Himself
-
 <p>
-v12: When he was in distress, he sought the favor of the LORD his God and humbled himself greatly before the God of his ancestors.
-
-v13: He prayed to him, and God was entreated by him and heard his plea and brought him back to Jerusalem into his kingdom. Then Manasseh knew that the LORD—he is God.
+v06: He made his sons pass through the fire in the Valley of Ben-hinnom. He practiced divination, sought omens, used sorcery, and dealt with mediums and spiritists. He did much evil in the LORD's eyes, provoking him to anger.
 </p>
 
-## Manasseh Reforms Jerusalem
-
 <p>
-v14: After this he built an outer wall for the city of David west of Gihon in the valley, as far as the entrance of the Fish Gate, encircling Ophel, and he made it very high. He also put commanders of the army in all the fortified cities of Judah.
-
-v15: He removed the foreign gods and the idol from the house of the LORD and all the altars that he had built on the mountain of the house of the LORD and in Jerusalem, and he threw them outside the city.
-
-v16: He restored the altar of the LORD and sacrificed upon it offerings of well-being and thanksgiving, and commanded Judah to serve the LORD, the God of Israel.
-
-v17: Even so the people still sacrificed on the high places, but only to the LORD their God.
+v07: He put the carved idol he had made in God's house, about which God had told David and his son Solomon: “In this house and in Jerusalem, which I have chosen from all Israel's tribes, I will place my name forever.
+v08: I will no longer remove Israel's feet from the soil I appointed for your ancestors, if only they carefully do everything I commanded them—all the law, statutes, and judgments given through Moses.”
 </p>
 
-## Manasseh’s Death
-
 <p>
-v18: Now the rest of the acts of Manasseh, his prayer to his God, and the words of the seers who spoke to him in the name of the LORD, the God of Israel, look, they are in the acts of the kings of Israel.
-
-v19: His prayer and how God was entreated by him, all his sin and his unfaithfulness, and the places where he built high places and set up the Asherah poles and carved images before he humbled himself, look, they are written in the words of Hozai.
-
-v20: Manasseh lay down with his ancestors, and they buried him in his house. Amon his son became king in his place.
+v09: Manasseh led Judah and Jerusalem's inhabitants astray, so that they did worse evil than the nations the LORD had destroyed before Israel.
 </p>
 
-## Amon Reigns and Is Assassinated
+## Distress and return
 
 <p>
-v21: Amon was twenty-two years old when he became king, and he reigned two years in Jerusalem.
+v10: The LORD spoke to Manasseh and his people, but they paid no attention.
+v11: So the LORD brought against them the army commanders of Assyria's king. They captured Manasseh with hooks, bound him in bronze shackles, and took him to Babylon.
+</p>
 
-v22: He did what was evil in the eyes of the LORD as Manasseh his father had done. Amon sacrificed to all the carved images that Manasseh his father had made and served them.
+<p>
+v12: In his distress he sought the favor of the LORD his God and humbled himself deeply before the God of his ancestors.
+v13: He prayed to him, and God received his plea, heard his appeal, and brought him back to Jerusalem to his kingdom. Then Manasseh knew that the LORD is God.
+</p>
 
-v23: He did not humble himself before the LORD as Manasseh his father had humbled himself, but this Amon multiplied guilt.
+<p>
+v14: Afterward he built a very high outer wall for the City of David, west of Gihon in the valley, extending to the entrance of the Fish Gate and around the Ophel. He stationed army commanders in all Judah's fortified cities.
+</p>
 
-v24: His servants conspired against him and put him to death in his house.
+<p>
+v15: He removed the foreign gods and the idol from the LORD's house, along with all the altars he had built on the mountain of the LORD's house and in Jerusalem, and threw them outside the city.
+v16: He rebuilt the LORD's altar and sacrificed well-being offerings and thank offerings on it. He told Judah to serve the LORD, Israel's God.
+</p>
 
-v25: But the people of the land struck everyone who had conspired against King Amon, and the people of the land made Josiah his son king in his place.
+<p>
+v17: The people still sacrificed at the high places, but only to the LORD their God.
+</p>
+
+<p>
+v18: The rest of Manasseh's acts, his prayer to his God, and the words of the seers who spoke to him in the name of the LORD, Israel's God, are in the records of Israel's kings.
+v19: His prayer and how it was answered, all his sin and unfaithfulness, and the places where he built high places and set up Asherah poles and carved images before he humbled himself are written in the records of Hozai.
+</p>
+
+<p>
+v20: Manasseh rested with his ancestors and was buried at his house. His son Amon succeeded him as king.
+</p>
+
+## Amon’s reign
+
+<p>
+v21: Amon was twenty-two when he became king, and he ruled in Jerusalem for two years.
+v22: He did what was evil in the LORD's eyes, as his father Manasseh had done. Amon sacrificed to all the carved images his father had made and served them.
+</p>
+
+<p>
+v23: But he did not humble himself before the LORD as his father Manasseh had. This Amon multiplied his guilt.
+</p>
+
+<p>
+v24: His servants conspired against him and killed him in his own house.
+v25: The people of the land struck down everyone who had conspired against King Amon. Then the people of the land made his son Josiah king in his place.
 </p>
 
 ## Notes
 
-v11–13: Chronicles uniquely narrates Manasseh’s captivity, repentance, prayer, and restoration, material absent from 2 Kings 21.
+v06: Made his sons pass through the fire is the source’s wording for the sacrificial practice. It should not be taken to describe a harmless ceremony; compare the explicit burning in 28:3.
 
-v11: Assyrian hooks and chains evoke known imperial practices of humiliating captives.
+v11: Hooks is retained without specifying their placement on Manasseh’s body. The destination is Babylon, although his captors serve Assyria’s king.
 
-v13: Manasseh’s restored knowledge—“the LORD, he is God”—comes through severe humiliation and answered prayer.
+v16: Rebuilt follows the read form. The written form means established or prepared.
 
-v17: Popular high-place worship continues but is now directed only to the LORD, showing reform that remains incomplete by Deuteronomic standards.
-
-v23: Amon imitates Manasseh’s evil but not his humility.
+v19: Hozai follows the name as pointed in the Hebrew. Another understanding takes the word as a reference to seers. The prayer mentioned here is not quoted in this chapter.
 
 ## Vocabulary
 
-v06: כָּשַׁף (kashaf)
-“To practice sorcery.”
+v03: Host of heaven
+The heavenly array, including sun, moon, and stars, treated here as objects of worship.
 
-v11: חוֹחַ (choach)
-“Hook.” A restraint for captives.
-
-v12: כָּנַע (kana)
-“To humble oneself.”
-
-v13: עָתַר (atar)
-“To be entreated.”
-
-v16: תּוֹדָה (todah)
-“Thanksgiving offering.”
-
-v23: אַשְׁמָה (ashmah)
-“Guilt.”
+v12: Humbled himself
+Brought himself low before God. Its repetition distinguishes Manasseh’s later response from Amon’s refusal.

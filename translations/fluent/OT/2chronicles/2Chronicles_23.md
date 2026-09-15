@@ -4,102 +4,90 @@ testament: OT
 chapter: 23
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-21-35-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 23
-
-## Jehoiada Makes a Covenant with the Commanders
+## Jehoiada prepares the assembly
 
 <p>
-v01: In the seventh year Jehoiada strengthened himself and took the commanders of hundreds into covenant with him: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.
-
-v02: They went around through Judah and gathered the Levites from all the cities of Judah and the heads of the ancestral houses of Israel, and they came to Jerusalem.
-
-v03: All the assembly made a covenant with the king in the house of God. Jehoiada said to them, “Look, the king’s son will reign, as the LORD spoke concerning the sons of David.
+v01: In the seventh year, Jehoiada took courage and brought the commanders of hundreds into a covenant with him: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.
+v02: They traveled through Judah and gathered the Levites from all its cities, along with Israel's ancestral family heads. They came to Jerusalem.
 </p>
 
-## The Temple Guard Is Organized
-
 <p>
-v04: “This is the thing that you will do: one third of you priests and Levites who come in on the Sabbath will be gatekeepers;
-
-v05: one third will be at the king’s house, and one third at the Foundation Gate, while all the people will be in the courts of the house of the LORD.
-
-v06: Let no one enter the house of the LORD except the priests and the Levites who minister. They may enter because they are holy, but all the people will keep the charge of the LORD.
-
-v07: The Levites will surround the king, each man with his weapons in his hand. Whoever enters the house will be put to death. Be with the king when he comes in and when he goes out.”
+v03: The whole assembly made a covenant with the king in God's house. Jehoiada told them, “Here is the king's son! He will reign, as the LORD promised concerning David's sons.
 </p>
 
-## Joash Is Crowned
-
 <p>
-v08: The Levites and all Judah did according to all that Jehoiada the priest commanded. Each took his men, those coming in on the Sabbath with those going out on the Sabbath, for Jehoiada the priest did not dismiss the divisions.
-
-v09: Jehoiada the priest gave to the commanders of hundreds the spears, large shields, and small shields that had belonged to King David, which were in the house of God.
-
-v10: He stationed all the people, each man with his weapon in his hand, from the south side of the house to the north side of the house, by the altar and the house, around the king.
-
-v11: Then they brought out the king’s son, put the crown upon him and the testimony, and made him king. Jehoiada and his sons anointed him and said, “Long live the king!”
+v04: This is what you must do: a third of you priests and Levites coming on duty on the Sabbath must guard the thresholds,
+v05: a third must be at the palace, and a third at the Foundation Gate. All the people must be in the courts of the LORD's house.
 </p>
 
-## Athaliah Is Put to Death
-
 <p>
-v12: Athaliah heard the sound of the people running and praising the king, and she came to the people in the house of the LORD.
-
-v13: She looked, and look, the king was standing by his pillar at the entrance, and the commanders and trumpeters beside the king, and all the people of the land rejoicing and blowing trumpets, and the singers with instruments of music leading the praise. Then Athaliah tore her clothes and said, “Treason! Treason!”
-
-v14: Jehoiada the priest brought out the commanders of hundreds appointed over the army and said to them, “Bring her out between the ranks, and whoever follows her will be put to death with the sword.” For the priest said, “You will not put her to death in the house of the LORD.”
-
-v15: So they laid hands on her, and she went to the entrance of the Horse Gate of the king’s house, and they put her to death there.
+v06: No one may enter the LORD's house except the priests and the Levites serving there. They may enter because they are holy; all the people must keep the LORD's requirements.
+v07: The Levites must surround the king, each with his weapon in hand. Anyone who enters the house must be put to death. Stay with the king wherever he comes and goes.”
 </p>
 
-## Covenant Renewal and the Destruction of Baal Worship
+## Joash is crowned
 
 <p>
-v16: Jehoiada made a covenant between himself and all the people and the king, that they should be the LORD’s people.
-
-v17: Then all the people went to the house of Baal and tore it down. They broke its altars and images in pieces and killed Mattan priest of Baal before the altars.
-
-v18: Jehoiada appointed the oversight of the house of the LORD into the hand of the Levitical priests whom David had assigned over the house of the LORD, to offer burnt offerings to the LORD as written in the instruction of Moses, with rejoicing and song according to the order of David.
-
-v19: He stationed the gatekeepers at the gates of the house of the LORD so that no one unclean in any matter might enter.
+v08: The Levites and all Judah did everything Jehoiada the priest commanded. Each commander took his men, both those coming on duty on the Sabbath and those going off, for Jehoiada the priest had not dismissed the divisions.
+v09: Jehoiada the priest gave the commanders of hundreds the spears, large shields, and small shields that had belonged to King David and were in God's house.
+v10: He stationed all the people, each with his weapon in hand, from the south side of the house to the north side, by the altar and the house, surrounding the king.
 </p>
 
-## Joash Is Seated on the Throne
+<p>
+v11: They brought out the king's son, put the crown on him, gave him the testimony, and made him king. Jehoiada and his sons anointed him and cried, “Long live the king!”
+</p>
+
+## Athaliah is put to death
 
 <p>
-v20: He took the commanders of hundreds, the nobles, the rulers of the people, and all the people of the land and brought the king down from the house of the LORD. They entered the king’s house through the Upper Gate and seated the king upon the throne of the kingdom.
+v12: Athaliah heard the noise of the people running and praising the king. She went to the people at the LORD's house.
+v13: There she saw the king standing by his pillar at the entrance, with the commanders and trumpeters beside him. All the people of the land were rejoicing and sounding trumpets, while the singers played their instruments and led the praise. Athaliah tore her clothes and shouted, “Treason! Treason!”
+</p>
 
-v21: All the people of the land rejoiced, and the city was quiet after Athaliah had been put to death with the sword.
+<p>
+v14: Jehoiada the priest brought out the commanders of hundreds who were in charge of the army and told them, “Take her out between the ranks. Anyone who follows her must be killed with the sword.” For the priest had said, “Do not kill her in the LORD's house.”
+v15: They seized her, and she came to the entrance of the Horse Gate at the palace. There they put her to death.
+</p>
+
+## Covenant and restored service
+
+<p>
+v16: Jehoiada made a covenant between himself, all the people, and the king, that they would be the LORD's people.
+v17: All the people went to Baal's house and tore it down. They smashed its altars and images and killed Mattan, Baal's priest, in front of the altars.
+</p>
+
+<p>
+v18: Jehoiada placed the oversight of the LORD's house in the hands of the Levitical priests whom David had assigned to it. They were to offer burnt offerings to the LORD as written in Moses' law, with rejoicing and song according to David's directions.
+v19: He stationed gatekeepers at the gates of the LORD's house so that no one unclean in any respect could enter.
+</p>
+
+<p>
+v20: He took the commanders of hundreds, the nobles, the people's rulers, and all the people of the land, and brought the king down from the LORD's house. They entered the palace through the Upper Gate and seated the king on the royal throne.
+v21: All the people of the land rejoiced, and the city was quiet. Athaliah had been put to death with the sword.
 </p>
 
 ## Notes
 
-v01–03: Jehoiada’s conspiracy is framed not merely as palace politics but as restoration of the Davidic promise.
+v07: The order to kill an entrant concerns unauthorized entry during this guarded installation. The preceding verse permits priests and serving Levites to enter.
 
-v06: Chronicles emphasizes Levitical holiness and temple boundaries more strongly than the parallel in 2 Kings 11.
+v11: Testimony may refer to a written covenant or law document associated with the king’s obligations. The object is not described further here.
 
-v11: “The testimony” may be a covenant document or royal copy of instruction; its precise form is not stated.
+v13: Pillar may designate a pillar or a raised standing place associated with the king.
 
-v18: Temple worship is deliberately reestablished according to both Moses and David.
+v16: The Hebrew names Jehoiada himself, the people, and the king as the covenant parties here.
+
+v18: The Hebrew places priests and Levites together without a conjunction. Levitical priests follows that wording; priests and Levites is another possible understanding.
 
 ## Vocabulary
 
-v01: חָזַק (chazaq)
-“To strengthen oneself.”
+v06: Holy
+Set apart for the LORD’s service; the access rule concerns the sanctuary.
 
-v03: בְּרִית (berit)
-“Covenant.”
-
-v06: קָדוֹשׁ (qadosh)
-“Holy.”
-
-v11: עֵדוּת (edut)
-“Testimony.”
-
-v13: קֶשֶׁר (qesher)
-“Treason” or conspiracy.
-
-v18: תּוֹרַת מֹשֶׁה (torat Moshe)
-“Instruction of Moses.”
+v19: Unclean
+A ritual condition that restricts sanctuary access, not a claim of inferior human worth.

@@ -4,122 +4,117 @@ testament: OT
 chapter: 25
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-21-35-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 25
-
-## Amaziah Organizes Judah’s Army
+## Amaziah’s divided heart
 
 <p>
-v01: Amaziah was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddan from Jerusalem.
-
-v02: He did what was right in the eyes of the LORD, but not with a whole heart.
-
-v03: And it happened when the kingdom was firmly established for him that he put to death his servants who had struck his father the king.
-
-v04: But he did not put their sons to death, according to what is written in the instruction, in the book of Moses, where the LORD commanded, saying, “Fathers will not be put to death for sons, and sons will not be put to death for fathers, but each person will die for his own sin.”
-
-v05: Amaziah gathered Judah and appointed them according to ancestral houses, commanders of thousands and commanders of hundreds, throughout all Judah and Benjamin. He counted them from twenty years old and upward and found three hundred thousand choice men able to go out to war, handling spear and large shield.
-
-v06: He also hired from Israel one hundred thousand mighty warriors for one hundred talents of silver.
+v01: Amaziah was twenty-five when he became king, and he ruled in Jerusalem for twenty-nine years. His mother's name was Jehoaddan, from Jerusalem.
+v02: He did what was right in the LORD's eyes, but not with an undivided heart.
 </p>
 
-## A Man of God Warns Amaziah
-
 <p>
-v07: But a man of God came to him, saying, “O king, do not let the army of Israel go with you, for the LORD is not with Israel, with all these children of Ephraim.
-
-v08: But if you go, act, be strong for battle; God will make you stumble before the enemy, for God has power to help and to make stumble.”
-
-v09: Amaziah said to the man of God, “And what about the one hundred talents that I gave to the troops of Israel?” The man of God said, “The LORD has much more than this to give you.”
-
-v10: So Amaziah separated the troops who had come to him from Ephraim, that they should go to their place. Their anger burned greatly against Judah, and they returned to their place in fierce anger.
+v03: Once his hold on the kingdom was secure, he killed the servants who had struck down his father the king.
+v04: But he did not put their sons to death, following what is written in the law, in the book of Moses, where the LORD commanded: “Fathers must not die for their children, and children must not die for their fathers. Each must die for his own sin.”
 </p>
 
-## Amaziah Defeats Edom
+## Army and warning
 
 <p>
-v11: Amaziah strengthened himself and led his people and went to the Valley of Salt. He struck ten thousand of the children of Seir.
-
-v12: The children of Judah captured ten thousand alive and brought them to the top of the rock and threw them from the top of the rock, and all of them were broken to pieces.
-
-v13: But the men of the troop whom Amaziah had sent back from going with him to battle raided the cities of Judah from Samaria as far as Beth-Horon. They struck three thousand of them and took much plunder.
+v05: Amaziah assembled Judah and arranged all Judah and Benjamin by ancestral families under commanders of thousands and hundreds. He mustered the men twenty years old and upward and found three hundred thousand selected men fit for military service, able to handle spear and large shield.
+v06: He also hired one hundred thousand capable warriors from Israel for one hundred talents of silver.
 </p>
 
-## Amaziah Worships the Gods of Edom
-
 <p>
-v14: After Amaziah came from striking the Edomites, he brought the gods of the children of Seir, set them up for himself as gods, bowed down before them, and burned incense to them.
-
-v15: Then the anger of the LORD burned against Amaziah, and he sent a prophet to him who said to him, “Why have you sought the gods of the people who did not rescue their own people from your hand?”
-
-v16: And it happened as he spoke to him that the king said to him, “Have we appointed you as counselor to the king? Stop! Why should they strike you?” Then the prophet stopped, but said, “I know that God has determined to destroy you because you have done this and have not listened to my counsel.”
+v07: But a man of God came to him and said, “King, do not let Israel's army go with you. The LORD is not with Israel—with any of the Ephraimites.
+v08: Go, then! Act! Be strong for battle! God will make you stumble before the enemy, for God has power both to help and to make people stumble.”
 </p>
 
-## Amaziah Challenges Joash of Israel
-
 <p>
-v17: Then Amaziah king of Judah took counsel and sent to Joash son of Jehoahaz son of Jehu, king of Israel, saying, “Come, let us look one another in the face.”
-
-v18: Joash king of Israel sent to Amaziah king of Judah, saying, “The thornbush that was in Lebanon sent to the cedar that was in Lebanon, saying, ‘Give your daughter to my son as wife.’ But a wild animal of Lebanon passed by and trampled the thornbush.
-
-v19: You say, ‘Look, I have struck Edom,’ and your heart has lifted you up to boast. Now stay in your house. Why should you provoke disaster and fall, you and Judah with you?”
+v09: Amaziah asked the man of God, “What about the hundred talents I gave Israel's troops?” The man of God answered, “The LORD can give you much more than that.”
+v10: So Amaziah dismissed the troops who had come to him from Ephraim and sent them home. They became furious with Judah and went home burning with anger.
 </p>
 
-## Judah Is Defeated
+## Victory and violence
 
 <p>
-v20: Yet Amaziah did not listen, for it was from God, in order to give them into the hand of the enemy because they had sought the gods of Edom.
-
-v21: So Joash king of Israel went up, and they looked one another in the face, he and Amaziah king of Judah, at Beth-Shemesh, which belongs to Judah.
-
-v22: Judah was struck before Israel, and each man fled to his tent.
-
-v23: Joash king of Israel captured Amaziah king of Judah, son of Joash son of Jehoahaz, at Beth-Shemesh. He brought him to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate, four hundred cubits.
-
-v24: He took all the gold and silver and all the vessels found in the house of God with Obed-Edom, the treasures of the king’s house, and hostages, and returned to Samaria.
+v11: Amaziah gathered his courage, led his people to the Valley of Salt, and struck down ten thousand men of Seir.
+v12: The men of Judah captured another ten thousand alive. They brought them to the top of a cliff and threw them down from it, and every one of them was torn apart.
 </p>
 
-## Amaziah Dies
+<p>
+v13: Meanwhile, the troops Amaziah had sent back from going with him to battle raided Judah's cities, from Samaria to Beth-horon. They struck down three thousand people and took a great deal of plunder.
+</p>
 
 <p>
-v25: Amaziah son of Joash king of Judah lived fifteen years after the death of Joash son of Jehoahaz king of Israel.
+v14: After Amaziah returned from striking down the Edomites, he brought the gods of the people of Seir and set them up as his own gods. He bowed before them and burned offerings to them.
+v15: The LORD's anger burned against Amaziah. He sent him a prophet, who said, “Why have you sought the gods of a people whose gods could not rescue them from your hand?”
+</p>
 
-v26: Now the rest of the acts of Amaziah, first and last, look, are they not written in the book of the kings of Judah and Israel?
+<p>
+v16: While the prophet was speaking, the king interrupted him: “Have we made you a royal adviser? Stop! Why should you be struck down?” The prophet stopped, but said, “I know God has determined to destroy you, because you have done this and have not listened to my advice.”
+</p>
 
-v27: From the time Amaziah turned away from following the LORD, they made a conspiracy against him in Jerusalem, and he fled to Lachish. But they sent after him to Lachish and put him to death there.
+## A challenge to Israel
 
-v28: They carried him on horses and buried him with his ancestors in the city of Judah.
+<p>
+v17: After taking counsel, Amaziah king of Judah sent this message to Joash son of Jehoahaz, son of Jehu, king of Israel: “Come, let us face each other!”
+</p>
+
+<p>
+v18: Joash king of Israel sent word back to Amaziah king of Judah: “A thistle in Lebanon sent a message to a cedar in Lebanon: ‘Give your daughter to my son as a wife.’ But a wild animal in Lebanon passed by and trampled the thistle.
+v19: You say, ‘Look, I have defeated Edom!’ Your heart has lifted you up to seek glory. Stay home now. Why provoke disaster and bring yourself down, and Judah with you?”
+</p>
+
+<p>
+v20: Amaziah would not listen. This came from God, so that they would be handed over, because they had sought Edom's gods.
+</p>
+
+<p>
+v21: So Joash king of Israel marched up, and he and Amaziah king of Judah faced each other at Beth-shemesh in Judah.
+v22: Judah was defeated by Israel, and every man fled to his own tent.
+</p>
+
+<p>
+v23: At Beth-shemesh, Joash king of Israel captured Amaziah king of Judah, son of Joash, son of Jehoahaz. He brought him to Jerusalem and broke down four hundred cubits of its wall, from the Ephraim Gate to the Corner Gate.
+v24: He took all the gold and silver, all the utensils found in God's house under Obed-edom's care, the palace treasures, and hostages. Then he returned to Samaria.
+</p>
+
+## The end of Amaziah’s reign
+
+<p>
+v25: Amaziah son of Joash, king of Judah, lived fifteen years after the death of Joash son of Jehoahaz, king of Israel.
+v26: The rest of Amaziah's acts, from first to last, are written in the Book of the Kings of Judah and Israel.
+</p>
+
+<p>
+v27: From the time Amaziah turned away from following the LORD, a conspiracy formed against him in Jerusalem. He fled to Lachish, but they sent men after him there and killed him.
+v28: They brought him back on horses and buried him with his ancestors in the city of Judah.
 </p>
 
 ## Notes
 
-v02: Amaziah’s reign is outwardly right but inwardly divided: “not with a whole heart.”
+v08: The abrupt Hebrew imperatives are followed by a warning of defeat. They can be heard as a challenge: go ahead and rely on military strength, but God can bring you down. Other readings understand a conditional contrast with going without the hired troops.
 
-v04: Chronicles explicitly cites the Mosaic instruction against executing children for their parents’ crimes.
+v12: The men thrown from the cliff are living captives. The text reports their killing in explicit bodily terms.
 
-v12: The execution of captives by throwing them from a cliff is severe wartime violence. TSW preserves the narrative without presenting it as a normative model.
+v13: Samaria is retained in the geographical span, although its relation to Judah’s cities is difficult.
 
-v14–16: Amaziah’s worship of defeated Edomite gods is intentionally irrational and becomes the turning point of his reign.
+v23: Jehoahaz is another form used for Ahaziah in this royal family; compare 21:17 and 22:1.
 
-v20: His refusal to heed warning is interpreted as part of the divine judgment already determined.
+v28: The Hebrew reads city of Judah. City of David is familiar from related burial notices and from the Kings parallel, but is not substituted here.
 
 ## Vocabulary
 
-v02: לֵב שָׁלֵם (lev shalem)
-“Whole heart.”
+v04: Each for his own sin
+The quotation limits punishment of children for their fathers’ offenses; compare Deuteronomy 24:16.
 
-v07: אִישׁ הָאֱלֹהִים (ish ha-Elohim)
-“Man of God.”
+v06: Talent
+An ancient unit of weight. The hundred talents here measure silver paid for the hired troops.
 
-v08: כָּשַׁל (kashal)
-“To stumble.”
-
-v14: שָׁחָה (shachah)
-“To bow down.”
-
-v19: כָּבוֹד (kavod)
-“Glory” or boast.
-
-v27: סוּר מֵאַחֲרֵי (sur me-acharei)
-“To turn away from following.”
+v23: Cubit
+A length based on the forearm, roughly half a meter; four hundred cubits is an approximate modern distance of two hundred meters.

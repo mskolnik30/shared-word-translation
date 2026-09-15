@@ -4,104 +4,78 @@ testament: OT
 chapter: 21
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-21-35-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 21
-
-## Jehoram Becomes King
+## Jehoram takes the throne
 
 <p>
-v01: Jehoshaphat lay down with his ancestors and was buried with his ancestors in the city of David. Jehoram his son became king in his place.
-
-v02: He had brothers, sons of Jehoshaphat: Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah. All these were sons of Jehoshaphat king of Israel.
-
-v03: Their father gave them many gifts of silver, gold, and precious things, with fortified cities in Judah, but he gave the kingdom to Jehoram because he was the firstborn.
+v01: Jehoshaphat rested with his ancestors and was buried beside them in the City of David. His son Jehoram succeeded him as king.
+v02: Jehoram's brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariahu, Michael, and Shephatiah. All were sons of Jehoshaphat king of Israel.
+v03: Their father gave them generous gifts of silver, gold, and precious things, along with fortified cities in Judah. But he gave the kingdom to Jehoram because he was the firstborn.
 </p>
 
-## Jehoram Kills His Brothers
-
 <p>
-v04: When Jehoram had risen over the kingdom of his father and strengthened himself, he killed all his brothers with the sword and also some of the officials of Israel.
-
-v05: Jehoram was thirty-two years old when he became king, and he reigned eight years in Jerusalem.
-
-v06: He walked in the way of the kings of Israel, as the house of Ahab had done, for Ahab’s daughter was his wife. He did what was evil in the eyes of the LORD.
-
-v07: Yet the LORD was not willing to destroy the house of David because of the covenant that he had made with David and because he had said that he would give a lamp to him and to his sons all the days.
+v04: Once Jehoram had taken over his father's kingdom and secured his power, he killed all his brothers with the sword, along with some of Israel's officials.
+v05: Jehoram was thirty-two when he became king, and he ruled in Jerusalem for eight years.
+v06: He followed the ways of Israel's kings, as Ahab's house had done, for he had married Ahab's daughter. He did what was evil in the LORD's eyes.
+v07: Yet the LORD was unwilling to destroy David's house because of the covenant he had made with David. He had promised to give a lamp to David and his sons for all time.
 </p>
 
-## Edom and Libnah Rebel
+## Revolt and a prophetic letter
 
 <p>
-v08: In his days Edom rebelled from under the hand of Judah and set a king over themselves.
-
-v09: So Jehoram crossed over with his commanders and all the chariots with him. He arose by night and struck the Edomites who had surrounded him and the commanders of the chariots.
-
-v10: So Edom rebelled from under the hand of Judah to this day. Libnah also rebelled from under his hand at that time because he had abandoned the LORD, the God of his ancestors.
-
-v11: Moreover, he made high places in the mountains of Judah, caused the inhabitants of Jerusalem to prostitute themselves, and led Judah astray.
+v08: During Jehoram's reign, Edom broke free from Judah's rule and set up a king of its own.
+v09: Jehoram crossed over with his commanders and all his chariots. Rising during the night, he struck the Edomites who had surrounded him and the chariot commanders.
+v10: Edom has remained in revolt against Judah to this day. Libnah also revolted against Jehoram's rule at that time, because he had abandoned the LORD, the God of his ancestors.
 </p>
 
-## Elijah Sends a Letter
-
 <p>
-v12: A letter came to him from Elijah the prophet, saying:
-
-“Thus says the LORD, the God of David your father: Because you have not walked in the ways of Jehoshaphat your father or in the ways of Asa king of Judah,
-
-v13: but have walked in the way of the kings of Israel and have caused Judah and the inhabitants of Jerusalem to prostitute themselves as the house of Ahab caused Israel to prostitute itself, and you have also killed your brothers, your father’s household, who were better than you—
-
-v14: look, the LORD is about to strike your people, your sons, your wives, and all your possessions with a great blow.
-
-v15: And you will have severe sickness with disease of your intestines until your intestines come out because of the sickness, day after day.”
+v11: He also built high places in Judah's hills, led Jerusalem's inhabitants into prostitution, and drove Judah astray.
 </p>
 
-## Judah Is Invaded
-
 <p>
-v16: The LORD stirred up against Jehoram the spirit of the Philistines and the Arabians who were beside the Cushites.
-
-v17: They came up against Judah, broke into it, and carried away all the possessions found in the king’s house, and also his sons and wives. No son was left to him except Jehoahaz, the youngest of his sons.
+v12: A letter came to him from Elijah the prophet: “This is what the LORD, the God of your ancestor David, says: You have not followed the ways of your father Jehoshaphat or of Asa king of Judah.
+v13: Instead, you have followed the ways of Israel's kings and led Judah and Jerusalem's inhabitants into prostitution, just as Ahab's house did. You have also killed your brothers, members of your father's house who were better than you.
+v14: So the LORD is about to strike your people, your sons, your wives, and everything you own with a devastating blow.
+v15: You yourself will suffer terribly from a disease in your bowels, until, as the illness goes on day after day, your bowels come out.”
 </p>
 
-## Jehoram Dies without Honor
+## Invasion, illness, and death
 
 <p>
-v18: After all this the LORD struck him in his intestines with a disease for which there was no healing.
+v16: The LORD stirred up against Jehoram the spirit of the Philistines and of the Arabs who lived beside the Cushites.
+v17: They invaded Judah, broke into it, and carried off everything they found in the king's palace, as well as his sons and wives. No son was left to him except Jehoahaz, his youngest.
+</p>
 
-v19: And it happened after days upon days, at the time of the end of two years, that his intestines came out because of his disease, and he died in severe suffering. His people did not make a burning for him like the burning for his ancestors.
+<p>
+v18: After all this, the LORD struck him with an incurable disease in his bowels.
+v19: Time passed. At the end of two years, his bowels came out because of his illness, and he died in terrible pain. His people made no funeral burning for him as they had for his ancestors.
+</p>
 
-v20: He was thirty-two years old when he became king, and he reigned eight years in Jerusalem. He departed without being desired. They buried him in the city of David, but not in the tombs of the kings.
+<p>
+v20: He was thirty-two when he became king and ruled in Jerusalem for eight years. He departed with no one longing for him. They buried him in the City of David, but not in the royal tombs.
 </p>
 
 ## Notes
 
-v02: Jehoshaphat is called “king of Israel” here although he ruled Judah, reflecting Chronicles’ occasional use of “Israel” for the whole covenant people.
+v02: The Hebrew calls Jehoshaphat king of Israel here, though his kingdom was Judah. Azariah and Azariahu represent two closely related forms of a name in this list.
 
-v04: Jehoram’s first act of secured rule is fratricide, contrasting sharply with the Davidic covenant he inherits.
+v09: The final phrase names chariot commanders but does not explicitly identify their side. The account does not say that Edom was brought back under Judah’s rule.
 
-v07: The “lamp” promise preserves David’s line despite Jehoram’s evil.
+v12: The text attributes this letter to Elijah. It gives no explanation of its timing in relation to the Elijah narratives in Kings.
 
-v12: Elijah’s letter is chronologically surprising because Elijah’s departure is narrated earlier in Kings. Chronicles preserves a prophetic letter without explaining the timing.
+v17: Jehoahaz is called Ahaziah in 22:1 and Azariah in 22:6. The different forms are retained where they occur.
 
-v20: “He departed without being desired” is a stark summary of a king whose death produces no public affection.
+v19: The funeral burning was an honor for the dead; the verse does not say that his body would have been cremated. Compare 16:14.
 
 ## Vocabulary
 
-v04: חָזַק (chazaq)
-“To strengthen oneself.”
+v07: Lamp
+The lamp image represents the continuing life of David’s royal house.
 
-v07: נִיר (nir)
-“Lamp.” The continuing Davidic line.
-
-v10: עָזַב (azav)
-“To abandon.”
-
-v11: זָנָה (zanah)
-“To prostitute oneself.” A metaphor for idolatry.
-
-v12: מִכְתָּב (mikhtav)
-“Letter” or writing.
-
-v20: חֶמְדָּה (chemdah)
-“Desire.” Jehoram dies without being desired.
+v11: Prostitution
+Here the image describes abandoning the LORD for other gods. It should not be read as an additional report about sexual conduct.

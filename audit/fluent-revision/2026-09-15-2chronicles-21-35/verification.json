@@ -1,0 +1,590 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-15T12:37:34.363427+00:00",
+  "base_commit": "498038a0fe190418dfbf27f2bbc54add7a8db8d5",
+  "scope": "2 Chronicles 21–35",
+  "new_chapters": 15,
+  "new_verses": 369,
+  "affected_source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-2chronicles-21-35/2chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 15,
+      "verses": 369,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "preservation": {
+    "prior_ledgers_byte_identical": 64,
+    "prior_chapters_byte_identical": 392,
+    "historical_provenance_and_unrelated_work_preserved": true
+  },
+  "cumulative_coverage": {
+    "ledgers": 65,
+    "chapters": 407,
+    "verses": 12102
+  },
+  "structural_chapters": [
+    {
+      "chapter": 21,
+      "verse_count": 20,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_21.md",
+      "before_sha256": "84968da3aa8133adc465d63f1c106bb9ac5ce4ec3b76595a960677a06a09209f",
+      "after_sha256": "c982e93ba39eca6feedfaee81495c2ea9f0c86d3c27e543e2a936559af1aa7a3",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_21.md",
+      "tsw_comparator_sha256": "af9d36576c4effed66eba78ddcb79e7430653afdd3c3c28194b0c705017e84f9"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 12,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_22.md",
+      "before_sha256": "b3a60bdaf72379834e2aeb92039f3127dea6a454f36e570e5910cc2a7b123092",
+      "after_sha256": "4aedaf196b0dad22769cacabfd84e3d15c7246ca6d026c762096cde762110c32",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_22.md",
+      "tsw_comparator_sha256": "8a52a73fd1ee4dc19b21db5341597b7acd8697d6690847a790660aeb405ca99d"
+    },
+    {
+      "chapter": 23,
+      "verse_count": 21,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_23.md",
+      "before_sha256": "c68d4e09b85b76e9434a820b610461018fa3ce0c650e55c10b9bd02bd4845a2b",
+      "after_sha256": "87f127d9af9d10ebbff3a9316b634701bb7520e10e2d6ed09209b6abaf7fe488",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_23.md",
+      "tsw_comparator_sha256": "63e7cef70670c5fbcf41712fd449b26c5eda3cbb853b084fcb64f790cde30486"
+    },
+    {
+      "chapter": 24,
+      "verse_count": 27,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_24.md",
+      "before_sha256": "93128d2e2753a8bfdf39ca5e4b2f02c8614afcca22e49abc51d674bc52e15d80",
+      "after_sha256": "d937a23da03d38435b86975178b60b3b965a2561333e33cf73e435c8e15fc502",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_24.md",
+      "tsw_comparator_sha256": "a31af8555f139a3717990f5ecad9ef14cdf689700f3d867fc9b4261960b98606"
+    },
+    {
+      "chapter": 25,
+      "verse_count": 28,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_25.md",
+      "before_sha256": "8b9db96a13863bff83aeaf1dff27f42a8571f55daa828613063fc1f220da07c1",
+      "after_sha256": "d825f06986c5eb23cc76a4f7eb0a5ee68cdc34b5da1160d0529ccce75c9d39e8",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_25.md",
+      "tsw_comparator_sha256": "95fe61f4a43de3aebd9bed4956822d79f521899922570f443a1ccbad3c0d433d"
+    },
+    {
+      "chapter": 26,
+      "verse_count": 23,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_26.md",
+      "before_sha256": "5af042321481a72389618a3c1100593a4a54ebe37672e7578b0ed5b998e85ff1",
+      "after_sha256": "32462dad5d33477f2f3671528e0d86be9ba8dbbb301d306337ca995c3a75626c",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_26.md",
+      "tsw_comparator_sha256": "b021675cee19d687d3bff2058be775bf8afb18cd39a4d8645a46eb1e9f17601e"
+    },
+    {
+      "chapter": 27,
+      "verse_count": 9,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_27.md",
+      "before_sha256": "5dafa43d411fa84e03ab389e314087c77c34f43f7460eb22752d45e17ceabd70",
+      "after_sha256": "aea856673f72677b3e5783ef475a1a3d975beb693a36978cf32403652eb61469",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_27.md",
+      "tsw_comparator_sha256": "b375f259e1648b624ca7e023cd8e8e8f35caa94622f735f201e35da81b6fc8c5"
+    },
+    {
+      "chapter": 28,
+      "verse_count": 27,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_28.md",
+      "before_sha256": "15a32373f723a794bf5bb8572fb2dc890f9f124e35195e0c64fe60f914402530",
+      "after_sha256": "79c4986158413c55f400ae099e74e283ecaa17543c3a5976f303d4c830f02f67",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_28.md",
+      "tsw_comparator_sha256": "706025ca2c422d3d96804a596af3a5d973820132619af957ededa32947d6024a"
+    },
+    {
+      "chapter": 29,
+      "verse_count": 36,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_29.md",
+      "before_sha256": "5c97b946b079a9bdc99ff0c400dd1edc7a34f5326af727e678a2d423dddb6f73",
+      "after_sha256": "29e31941fd6a3ce00a73258f8a22ff81f0b399a466c969ad7944b97395423f2d",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_29.md",
+      "tsw_comparator_sha256": "a3daf020d5ff7269a12b0d4c41f60a05fdcc5e7a8aabb018205a548576441c51"
+    },
+    {
+      "chapter": 30,
+      "verse_count": 27,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_30.md",
+      "before_sha256": "0876187b05a265f203a3156983ef6756b54d23c835daffb29f8b8f01f6876c67",
+      "after_sha256": "f019c6695b65498f2d540f22c4482a48ca777f0dc820deb5caacd3b311867226",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_30.md",
+      "tsw_comparator_sha256": "520ee24d3eaa481569eb63d81b2d8453ce0a0991aa15ed4f3bfdc7e1fc245e82"
+    },
+    {
+      "chapter": 31,
+      "verse_count": 21,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_31.md",
+      "before_sha256": "00c0d21fa4e5219f5cb6b0bd3a7f27711336ad4eeab78a2e52774254b852b0c0",
+      "after_sha256": "b845967de8df2f3d4ddf1d5886a1b2c258bdbf12419c96ef5ea9918a2b15540a",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_31.md",
+      "tsw_comparator_sha256": "d8a2d7b956da15b0f3eb859d84185a5437699118bc3a0438c92764b7abd4155e"
+    },
+    {
+      "chapter": 32,
+      "verse_count": 33,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_32.md",
+      "before_sha256": "4b8d1cdd3625a5d5908f1ebcdf461a1576935001b2efc62278ac0258645c8031",
+      "after_sha256": "ed5854e4534de376a6026929376a523d1f5443f4ba0a336fdaab5049035d977d",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_32.md",
+      "tsw_comparator_sha256": "51d1d66838cc7a22c36bcc727bba1a14c620367aaa39b6fb6efbffb97da0ab38"
+    },
+    {
+      "chapter": 33,
+      "verse_count": 25,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_33.md",
+      "before_sha256": "9dbe83926be60539271e1f4b35488d3e3378b42dcfdbfb4780018faa16984581",
+      "after_sha256": "305b08f76396d0d71394d033182c3f9b663941a1409218d101ab0026daf2aa8e",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_33.md",
+      "tsw_comparator_sha256": "16665a8e5a44328bb12668ddbb341c10f755df9f491a81ef37881450bd61708f"
+    },
+    {
+      "chapter": 34,
+      "verse_count": 33,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_34.md",
+      "before_sha256": "12ed8f4a2831bd4224de1e57165226fcdf14073276aa16af8078e6dfdd9c8906",
+      "after_sha256": "67a9c9277deb8f527972af8048349fe1449b64e1bb113ae6da67e735812f8e41",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_34.md",
+      "tsw_comparator_sha256": "e8bc1d16ce566cf07406d9769f37130feb8db2e7c96dbec786b36c0c982d3027"
+    },
+    {
+      "chapter": 35,
+      "verse_count": 27,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_35.md",
+      "before_sha256": "f108d788f0ec62c7c100bb210ba3ae7bed161edf5b2db9cc1c9b35d2e9ade2ec",
+      "after_sha256": "7b24bfb5e025558c56beded35d3918e8b663fc0f86656b64987841a9b56bddea",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_35.md",
+      "tsw_comparator_sha256": "5452e6892f4fcee03b2100f51c754cd3e1a4ba668feb0ed33906094a77036994"
+    }
+  ],
+  "first_source_reading": {
+    "public_verses": 369,
+    "original_records": 369,
+    "all_original_annotations_read": true
+  },
+  "tsw_comparator_reading": 369,
+  "focused_source_reread": {
+    "2chronicles": 89
+  },
+  "focused_assertions": {
+    "2 Chronicles 21:2": [
+      "Azariah",
+      "Azariahu",
+      "king of Israel"
+    ],
+    "2 Chronicles 21:5": [
+      "thirty-two",
+      "eight years"
+    ],
+    "2 Chronicles 21:14": [
+      "sons",
+      "wives"
+    ],
+    "2 Chronicles 21:17": [
+      "Jehoahaz"
+    ],
+    "2 Chronicles 21:19": [
+      "two years",
+      "bowels",
+      "funeral burning"
+    ],
+    "2 Chronicles 22:2": [
+      "forty-two",
+      "one year",
+      "Omri"
+    ],
+    "2 Chronicles 22:6": [
+      "Azariah",
+      "Ramah"
+    ],
+    "2 Chronicles 22:9": [
+      "Samaria",
+      "descendant of Jehoshaphat"
+    ],
+    "2 Chronicles 22:10": [
+      "destroyed all the royal offspring"
+    ],
+    "2 Chronicles 22:11": [
+      "Jehoshabeath",
+      "nurse",
+      "wife of Jehoiada",
+      "Ahaziah's sister"
+    ],
+    "2 Chronicles 23:1": [
+      "seventh year",
+      "Azariah son of Jeroham",
+      "Ishmael son of Jehohanan",
+      "Azariah son of Obed",
+      "Maaseiah son of Adaiah",
+      "Elishaphat son of Zichri"
+    ],
+    "2 Chronicles 23:7": [
+      "put to death"
+    ],
+    "2 Chronicles 23:11": [
+      "testimony"
+    ],
+    "2 Chronicles 23:16": [
+      "between himself"
+    ],
+    "2 Chronicles 23:17": [
+      "killed Mattan"
+    ],
+    "2 Chronicles 24:3": [
+      "two wives",
+      "sons and daughters"
+    ],
+    "2 Chronicles 24:15": [
+      "one hundred thirty"
+    ],
+    "2 Chronicles 24:20": [
+      "Spirit clothed Zechariah"
+    ],
+    "2 Chronicles 24:22": [
+      "Jehoiada's son",
+      "call you to account"
+    ],
+    "2 Chronicles 24:25": [
+      "priest's sons",
+      "not in the royal tombs"
+    ],
+    "2 Chronicles 24:26": [
+      "Zabad",
+      "Shimeath the Ammonite woman",
+      "Jehozabad",
+      "Shimrith the Moabite woman"
+    ],
+    "2 Chronicles 25:1": [
+      "twenty-five",
+      "twenty-nine"
+    ],
+    "2 Chronicles 25:4": [
+      "did not put their sons to death"
+    ],
+    "2 Chronicles 25:5": [
+      "twenty years",
+      "three hundred thousand"
+    ],
+    "2 Chronicles 25:6": [
+      "one hundred thousand",
+      "one hundred talents"
+    ],
+    "2 Chronicles 25:8": [
+      "God will make you stumble"
+    ],
+    "2 Chronicles 25:12": [
+      "ten thousand alive",
+      "threw them down",
+      "torn apart"
+    ],
+    "2 Chronicles 25:13": [
+      "Samaria",
+      "three thousand"
+    ],
+    "2 Chronicles 25:23": [
+      "four hundred cubits",
+      "Jehoahaz"
+    ],
+    "2 Chronicles 25:25": [
+      "fifteen years"
+    ],
+    "2 Chronicles 25:28": [
+      "city of Judah"
+    ],
+    "2 Chronicles 26:3": [
+      "sixteen",
+      "fifty-two",
+      "Jecoliah"
+    ],
+    "2 Chronicles 26:5": [
+      "visions of God"
+    ],
+    "2 Chronicles 26:11": [
+      "Jeiel"
+    ],
+    "2 Chronicles 26:12": [
+      "two thousand six hundred"
+    ],
+    "2 Chronicles 26:13": [
+      "three hundred seven thousand five hundred"
+    ],
+    "2 Chronicles 26:17": [
+      "eighty"
+    ],
+    "2 Chronicles 26:19": [
+      "skin disease",
+      "forehead"
+    ],
+    "2 Chronicles 26:21": [
+      "separate house",
+      "Jotham"
+    ],
+    "2 Chronicles 27:1": [
+      "twenty-five",
+      "sixteen"
+    ],
+    "2 Chronicles 27:5": [
+      "one hundred talents",
+      "ten thousand kors",
+      "ten thousand of barley",
+      "second and third"
+    ],
+    "2 Chronicles 28:3": [
+      "burned his sons in the fire"
+    ],
+    "2 Chronicles 28:6": [
+      "single day",
+      "one hundred twenty thousand"
+    ],
+    "2 Chronicles 28:8": [
+      "two hundred thousand",
+      "women, sons, and daughters"
+    ],
+    "2 Chronicles 28:10": [
+      "slavery",
+      "men and women slaves"
+    ],
+    "2 Chronicles 28:15": [
+      "clothes and sandals",
+      "food and drink",
+      "oil",
+      "donkeys",
+      "Jericho",
+      "Samaria"
+    ],
+    "2 Chronicles 28:16": [
+      "kings of Assyria"
+    ],
+    "2 Chronicles 28:19": [
+      "king of Israel"
+    ],
+    "2 Chronicles 28:20": [
+      "Tilgath-pilneser"
+    ],
+    "2 Chronicles 29:1": [
+      "twenty-five",
+      "twenty-nine"
+    ],
+    "2 Chronicles 29:12": [
+      "Mahath son of Amasai",
+      "Joel son of Azariah",
+      "Kish son of Abdi",
+      "Azariah son of Jehallelel",
+      "Joah son of Zimmah",
+      "Eden son of Joah"
+    ],
+    "2 Chronicles 29:13": [
+      "Shimri and Jeiel",
+      "Zechariah and Mattaniah"
+    ],
+    "2 Chronicles 29:14": [
+      "Jehiel and Shimei",
+      "Shemaiah and Uzziel"
+    ],
+    "2 Chronicles 29:17": [
+      "first day",
+      "eighth day",
+      "eight more days",
+      "sixteenth day"
+    ],
+    "2 Chronicles 29:21": [
+      "seven bulls",
+      "seven rams",
+      "seven lambs",
+      "seven male goats"
+    ],
+    "2 Chronicles 29:24": [
+      "atonement for all Israel"
+    ],
+    "2 Chronicles 29:32": [
+      "seventy",
+      "one hundred",
+      "two hundred"
+    ],
+    "2 Chronicles 29:33": [
+      "six hundred",
+      "three thousand"
+    ],
+    "2 Chronicles 30:5": [
+      "in large numbers"
+    ],
+    "2 Chronicles 30:15": [
+      "fourteenth day of the second month"
+    ],
+    "2 Chronicles 30:18": [
+      "Issachar",
+      "contrary to what was written",
+      "make atonement"
+    ],
+    "2 Chronicles 30:19": [
+      "seeking God",
+      "purification required"
+    ],
+    "2 Chronicles 30:20": [
+      "healed"
+    ],
+    "2 Chronicles 30:24": [
+      "one thousand bulls",
+      "seven thousand",
+      "ten thousand"
+    ],
+    "2 Chronicles 30:25": [
+      "resident foreigners"
+    ],
+    "2 Chronicles 31:7": [
+      "third month",
+      "seventh month"
+    ],
+    "2 Chronicles 31:12": [
+      "Cananiah",
+      "Shimei"
+    ],
+    "2 Chronicles 31:13": [
+      "Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, and Benaiah"
+    ],
+    "2 Chronicles 31:16": [
+      "three years old"
+    ],
+    "2 Chronicles 31:17": [
+      "twenty years old"
+    ],
+    "2 Chronicles 31:18": [
+      "little children, wives, sons, and daughters"
+    ],
+    "2 Chronicles 32:1": [
+      "After these acts of faithfulness"
+    ],
+    "2 Chronicles 32:8": [
+      "arm of flesh",
+      "leaned on"
+    ],
+    "2 Chronicles 32:21": [
+      "angel",
+      "offspring",
+      "sword"
+    ],
+    "2 Chronicles 32:22": [
+      "guided them"
+    ],
+    "2 Chronicles 32:30": [
+      "Gihon",
+      "westward"
+    ],
+    "2 Chronicles 32:31": [
+      "God left him",
+      "test him",
+      "know everything in his heart"
+    ],
+    "2 Chronicles 33:1": [
+      "twelve",
+      "fifty-five"
+    ],
+    "2 Chronicles 33:6": [
+      "sons pass through the fire"
+    ],
+    "2 Chronicles 33:11": [
+      "hooks",
+      "bronze shackles",
+      "Babylon"
+    ],
+    "2 Chronicles 33:16": [
+      "rebuilt"
+    ],
+    "2 Chronicles 33:19": [
+      "Hozai"
+    ],
+    "2 Chronicles 33:21": [
+      "twenty-two",
+      "two years"
+    ],
+    "2 Chronicles 34:1": [
+      "eight",
+      "thirty-one"
+    ],
+    "2 Chronicles 34:3": [
+      "eighth year",
+      "twelfth year"
+    ],
+    "2 Chronicles 34:5": [
+      "priests' bones"
+    ],
+    "2 Chronicles 34:6": [
+      "ruins"
+    ],
+    "2 Chronicles 34:9": [
+      "returned to Jerusalem"
+    ],
+    "2 Chronicles 34:11": [
+      "kings had ruined"
+    ],
+    "2 Chronicles 34:22": [
+      "Huldah the prophet",
+      "Shallum",
+      "Tokhath",
+      "Hasrah",
+      "Second Quarter"
+    ],
+    "2 Chronicles 34:28": [
+      "grave in peace"
+    ],
+    "2 Chronicles 34:33": [
+      "made everyone present"
+    ],
+    "2 Chronicles 35:1": [
+      "fourteenth day of the first month"
+    ],
+    "2 Chronicles 35:3": [
+      "holy ark",
+      "shoulders"
+    ],
+    "2 Chronicles 35:7": [
+      "thirty thousand",
+      "three thousand cattle"
+    ],
+    "2 Chronicles 35:8": [
+      "two thousand six hundred",
+      "three hundred cattle"
+    ],
+    "2 Chronicles 35:9": [
+      "Cananiah",
+      "five thousand",
+      "five hundred cattle"
+    ],
+    "2 Chronicles 35:13": [
+      "cooked the Passover over the fire",
+      "pots, kettles, and pans"
+    ],
+    "2 Chronicles 35:18": [
+      "Samuel the prophet"
+    ],
+    "2 Chronicles 35:19": [
+      "eighteenth year"
+    ],
+    "2 Chronicles 35:22": [
+      "disguised",
+      "Neco's words from God's mouth"
+    ],
+    "2 Chronicles 35:24": [
+      "second chariot",
+      "Jerusalem. He died"
+    ],
+    "2 Chronicles 35:25": [
+      "male and female singers",
+      "Laments"
+    ]
+  },
+  "whole_1chronicles_source_records_bound_once": 943,
+  "selected_2chronicles_source_records_bound_once": 369,
+  "public_source_versification_checked": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_samuel_kings_and_1chronicles_consistency_passes": "PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}
