@@ -2,266 +2,96 @@
   "book": "Esther",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-esther-1-6-biblical-fluency-2026-09-15",
+  "supersedes": {
+    "commit": "ede8b7a9364ed466faacb7e662374ee9ee98e621",
+    "path": "audit/exegetical-core/fluent-production/esther/Esther_03_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Esth",
+    "book_verse_count": 167,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Esth.xml",
-    "git_blob_sha": "69950cc320d3cad140477d5ea3c8767949984883"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "3:1-15",
-      "decision": "Name the planned destruction of a people clearly and retain the machinery of imperial antisemitic violence.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Esth.xml",
     "git_blob_sha": "69950cc320d3cad140477d5ea3c8767949984883",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Esther 3:1",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 1,
-            "source_ref": "Esther 3:1",
-            "segment_mode": "whole",
-            "sha256": "de784137877dab100a9e5d7527149162ee26f62d1d8c2eddca79aa26e62d728d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "de784137877dab100a9e5d7527149162ee26f62d1d8c2eddca79aa26e62d728d"
-      },
-      "2": {
-        "source_ref": "Esther 3:2",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 2,
-            "source_ref": "Esther 3:2",
-            "segment_mode": "whole",
-            "sha256": "4ad8eb31638d4cc93e40971e0c11cc8112af18be9ade2be6af56011a8ff43a91"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4ad8eb31638d4cc93e40971e0c11cc8112af18be9ade2be6af56011a8ff43a91"
-      },
-      "3": {
-        "source_ref": "Esther 3:3",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 3,
-            "source_ref": "Esther 3:3",
-            "segment_mode": "whole",
-            "sha256": "10923e737b480f024617d304cfa6d5c6a68f5e0d0eacd725ee2f58c59d4dfe48"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "10923e737b480f024617d304cfa6d5c6a68f5e0d0eacd725ee2f58c59d4dfe48"
-      },
-      "4": {
-        "source_ref": "Esther 3:4",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 4,
-            "source_ref": "Esther 3:4",
-            "segment_mode": "whole",
-            "sha256": "dfab893e2be39ad2217494291a30ccfe8eaf1710fd56ec305aa30f74ffa78bb3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "dfab893e2be39ad2217494291a30ccfe8eaf1710fd56ec305aa30f74ffa78bb3"
-      },
-      "5": {
-        "source_ref": "Esther 3:5",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 5,
-            "source_ref": "Esther 3:5",
-            "segment_mode": "whole",
-            "sha256": "fb34c75d3b848f88d14df070add432aa18e060ad68fc4478aec6b86807dc6ae4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fb34c75d3b848f88d14df070add432aa18e060ad68fc4478aec6b86807dc6ae4"
-      },
-      "6": {
-        "source_ref": "Esther 3:6",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 6,
-            "source_ref": "Esther 3:6",
-            "segment_mode": "whole",
-            "sha256": "263e89604668d366c320ac9dd44eb92461393cf034642afe7a2890ca3511a504"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "263e89604668d366c320ac9dd44eb92461393cf034642afe7a2890ca3511a504"
-      },
-      "7": {
-        "source_ref": "Esther 3:7",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 7,
-            "source_ref": "Esther 3:7",
-            "segment_mode": "whole",
-            "sha256": "d626e52056d94382f982a0a83daa381032b8b966396b2fc25d307d07fcb04ab2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d626e52056d94382f982a0a83daa381032b8b966396b2fc25d307d07fcb04ab2"
-      },
-      "8": {
-        "source_ref": "Esther 3:8",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 8,
-            "source_ref": "Esther 3:8",
-            "segment_mode": "whole",
-            "sha256": "4b1670976f2ada330e9d9f686d0202991aef1c1ade1c0b81990df92f77c0bf7f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4b1670976f2ada330e9d9f686d0202991aef1c1ade1c0b81990df92f77c0bf7f"
-      },
-      "9": {
-        "source_ref": "Esther 3:9",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 9,
-            "source_ref": "Esther 3:9",
-            "segment_mode": "whole",
-            "sha256": "16a8e45b693da6c687ea1e3c5eb5b2a943dfd1ed6915566f551d65c64655fd32"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "16a8e45b693da6c687ea1e3c5eb5b2a943dfd1ed6915566f551d65c64655fd32"
-      },
-      "10": {
-        "source_ref": "Esther 3:10",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 10,
-            "source_ref": "Esther 3:10",
-            "segment_mode": "whole",
-            "sha256": "7b218f6ee0bb0615e4f642404dbe4c6854ca83c6bab538371ebc59c01dc7177a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7b218f6ee0bb0615e4f642404dbe4c6854ca83c6bab538371ebc59c01dc7177a"
-      },
-      "11": {
-        "source_ref": "Esther 3:11",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 11,
-            "source_ref": "Esther 3:11",
-            "segment_mode": "whole",
-            "sha256": "b63e6872050b0826cb73df61dd2eac87a927dedfd548b5844c7f264985195772"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b63e6872050b0826cb73df61dd2eac87a927dedfd548b5844c7f264985195772"
-      },
-      "12": {
-        "source_ref": "Esther 3:12",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 12,
-            "source_ref": "Esther 3:12",
-            "segment_mode": "whole",
-            "sha256": "ceb0f36366398e75299f3ba478c30eebbf3b0db483de3e3cff02344b5676ecef"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ceb0f36366398e75299f3ba478c30eebbf3b0db483de3e3cff02344b5676ecef"
-      },
-      "13": {
-        "source_ref": "Esther 3:13",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 13,
-            "source_ref": "Esther 3:13",
-            "segment_mode": "whole",
-            "sha256": "523026d21802e2bb26e764c5b7081ec729ea9be80c984e0a6e4c18d8cbfabbd9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "523026d21802e2bb26e764c5b7081ec729ea9be80c984e0a6e4c18d8cbfabbd9"
-      },
-      "14": {
-        "source_ref": "Esther 3:14",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 14,
-            "source_ref": "Esther 3:14",
-            "segment_mode": "whole",
-            "sha256": "c2571c5ee7d23fa1a2d756f22ac99373a77e193b6358934888c770105c12f72f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c2571c5ee7d23fa1a2d756f22ac99373a77e193b6358934888c770105c12f72f"
-      },
-      "15": {
-        "source_ref": "Esther 3:15",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 15,
-            "source_ref": "Esther 3:15",
-            "segment_mode": "whole",
-            "sha256": "2536adeb4d3da7b503de2243d61c7f59e2ba82f6874360b271ed3f7dbe1cb5ba"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2536adeb4d3da7b503de2243d61c7f59e2ba82f6874360b271ed3f7dbe1cb5ba"
-      }
+    "sha256": "fbce6b0601751035416ee98f492c6a5076bdbaa18518b8237d3df62276b1d015",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Esth.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Public Esther 1–6 binds the 105 matching original Hebrew records, including all source notes. Chapters 7–10 remain outside this draft batch."
+  },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 15,
+    "path": "translations/fluent/OT/esther/Esther_03.md",
+    "before_sha256": "e77f3eb1e9050d3b4d55bc18c36a4b7a0d0a73ad9ebb44ff9d9d9b619929db13",
+    "after_sha256": "18ddb1c54ef26f9b7752921e73be989ca2a5dc5e7127e1920097148a87ed23f9",
+    "tsw_comparator_path": "books/OT/esther/Esther_03.md",
+    "tsw_comparator_sha256": "4fdc78c776098df19fb5cc1ceee102716f5f1f02dbfd77c5797b5b3743572a48"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-15-esther-1-6/esther-verse-review.json",
+  "public_versification": "Public Esther 1–6 binds the 105 matching original Hebrew records, including all source notes. Chapters 7–10 remain outside this draft batch.",
+  "key_decisions": [
+    {
+      "reference": "Esther 3:1",
+      "decision": "Retain the descent label and elevated seat rather than replacing the image entirely with a modern office title.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 3:2",
+      "decision": "Preserve the paired gestures and repeated refusal without adding a religious explanation absent from the narrative.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 3:4",
+      "decision": "Retain the repeated pressure and disclosed identity without inventing the contents of Mordecai's argument.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 3:6",
+      "decision": "Preserve the escalation from personal grievance to destruction of an entire people.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 3:7",
+      "decision": "Retain the foreign term and its source explanation, with the month result; do not import the thirteenth day into this verse.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 3:8",
+      "decision": "Keep the accusation in Haman's speech, including its sweeping claims; the narrator does not validate them.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 3:9",
+      "decision": "Retain the immense stated payment and its administrative destination, without inventing how Haman would finance it.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 3:11",
+      "decision": "Preserve the chilling paired grant and the uncertain treatment of the silver rather than deciding whether payment is waived.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Esther 3:13",
+      "decision": "Keep the threefold killing formula, explicitly threatened groups, exact date, and permission to loot.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/esther/Esther_03.md",
-    "blob_sha": "07cfdb090aceed9f3a09402ff67b801c6498e988"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

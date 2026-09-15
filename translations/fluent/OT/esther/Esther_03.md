@@ -4,108 +4,72 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-esther-1-6-biblical-fluency-2026-09-15
 ---
 
-## Haman Is Exalted
+## Haman and Mordecai
 
 <p>
-v01: After these things King Ahasuerus promoted Haman son of Hammedatha the Agagite and exalted him. He set his seat above all the officials who were with him.
-
-v02: All the king’s servants who were at the king’s gate bowed down and prostrated themselves before Haman, for so the king had commanded concerning him. But Mordecai would not bow down or prostrate himself.
-
-v03: Then the king’s servants who were at the king’s gate said to Mordecai, “Why are you transgressing the king’s command?”
-
-v04: When they spoke to him day after day and he did not listen to them, they told Haman, to see whether Mordecai’s words would stand, for he had told them that he was a Judean.
+v01: After these events, King Ahasuerus promoted Haman son of Hammedatha the Agagite. He raised him up and gave him a seat above all the other officials with him.
+v02: All the king's attendants at the king's gate bowed and knelt before Haman, as the king had commanded. But Mordecai would neither bow nor kneel.
 </p>
 
-## Haman Seeks to Destroy the Judeans
-
 <p>
-v05: When Haman saw that Mordecai would not bow down or prostrate himself before him, Haman was filled with fury.
-
-v06: But it was contemptible in his eyes to lay hands on Mordecai alone, for they had revealed to him Mordecai’s people. So Haman sought to destroy all the Judeans who were throughout the whole kingdom of Ahasuerus, the people of Mordecai.
+v03: The king's attendants at the gate asked Mordecai, “Why are you disobeying the king's command?”
+v04: They spoke to him day after day, but he would not listen. So they reported him to Haman to see whether Mordecai's position would stand, for he had told them he was a Jew.
 </p>
 
-## Pur Is Cast
-
 <p>
-v07: In the first month, which is the month of Nisan, in the twelfth year of King Ahasuerus, Pur—that is, the lot—was cast before Haman, day by day and month by month, until the twelfth month, which is the month of Adar.
+v05: When Haman saw that Mordecai would neither bow nor kneel before him, he was filled with fury.
+v06: But he considered it beneath him to lay hands on Mordecai alone. Since he had been told who Mordecai's people were, Haman sought to destroy all the Jews throughout Ahasuerus's kingdom—the people of Mordecai.
 </p>
 
-## Haman Accuses a Scattered People
+## A decree to destroy the Jews
 
 <p>
-v08: Haman said to King Ahasuerus, “There is one people scattered and separated among the peoples in all the provinces of your kingdom. Their laws are different from those of every people, and they do not carry out the king’s laws, so it is not worthwhile for the king to leave them alone.
-
-v09: If it is good to the king, let it be written that they be destroyed, and I will weigh out ten thousand talents of silver into the hands of people who carry out the king’s business, to bring into the king’s treasuries.”
-
-v10: Then the king removed his signet ring from his hand and gave it to Haman son of Hammedatha the Agagite, enemy of the Judeans.
-
-v11: The king said to Haman, “The silver is given to you, and the people also, to do with them as is good in your eyes.”
+v07: In the first month, the month of Nisan, in the twelfth year of King Ahasuerus, the Pur—that is, the lot—was cast before Haman to choose a day and a month. It fell on the twelfth month, the month of Adar.
 </p>
 
-## The Decree of Destruction
+<p>
+v08: Then Haman said to King Ahasuerus, “There is a certain people scattered and dispersed among the peoples in every province of your kingdom. Their laws differ from those of every other people, and they do not obey the king's laws. It is not in the king's interest to let them remain.
+v09: If it pleases the king, let an order be written to destroy them. I will weigh out ten thousand talents of silver into the hands of those who conduct the king's business, to bring it into the royal treasuries.”
+</p>
 
 <p>
-v12: Then the king’s scribes were called on the thirteenth day of the first month, and it was written according to all that Haman commanded to the king’s satraps, to the governors who were over each province, and to the officials of each people, to every province according to its script and every people according to its language. It was written in the name of King Ahasuerus and sealed with the king’s signet ring.
+v10: The king removed his signet ring from his hand and gave it to Haman son of Hammedatha the Agagite, the enemy of the Jews.
+v11: The king told Haman, “The silver is given to you, and the people too. Do with them as you see fit.”
+</p>
 
-v13: Letters were sent by the hand of couriers to all the king’s provinces, to destroy, kill, and annihilate all the Judeans, from young to old, little children and women, in one day—the thirteenth day of the twelfth month, which is the month of Adar—and to plunder their possessions.
+<p>
+v12: On the thirteenth day of the first month, the king's scribes were summoned. Everything Haman commanded was written to the king's satraps, the governors of every province, and the officials of every people—to each province in its own script and each people in its own language. It was written in King Ahasuerus's name and sealed with his signet ring.
+v13: Letters were sent by couriers to every royal province, ordering the destruction, killing, and annihilation of all the Jews—young and old, children and women—on a single day, the thirteenth day of the twelfth month, the month of Adar. Their property was to be plundered.
+</p>
 
-v14: A copy of the document was to be issued as law in every province, publicly displayed to all peoples so that they would be ready for that day.
-
-v15: The couriers went out hurried by the king’s command, and the law was issued in the citadel of Susa. Then the king and Haman sat down to drink, but the city of Susa was thrown into confusion.
+<p>
+v14: A copy of the document was to be issued as law in every province and made known to all the peoples, so that they would be ready for that day.
+v15: The couriers hurried out at the king's command, and the decree was issued in the citadel of Susa. The king and Haman sat down to drink, while the city of Susa was bewildered.
 </p>
 
 ## Notes
 
-v01: “Agagite” links Haman by name with Agag, the Amalekite king in 1 Samuel 15. Combined with Mordecai’s Benjaminite genealogy through Kish, the designation gives the conflict an older biblical resonance without explicitly narrating a biological genealogy.
+v01: “Agagite” evokes Agag, the Amalekite king in 1 Samuel 15. The label is retained without adding an unexpressed genealogy.
 
-v02: The text does not state why Mordecai refuses to bow. Bowing to human officials is not universally forbidden elsewhere in Scripture, so TSW does not supply an unstated religious reason.
+v02–04: The narrative says Mordecai is a Jew but does not explicitly explain why he refuses the gestures. A specific claim about idolatry is not added.
 
-v04: Mordecai identifies himself as Judean, making his ethnic identity part of the conflict at the gate.
+v07: The Hebrew names Adar as the resulting month; the thirteenth day is stated in verse 13.
 
-v06: Haman’s response escalates from personal wounded pride to a plan for collective extermination of an entire people.
-
-v07: “Pur” is a Persian loanword meaning “lot.” The lot determines the date, and its plural *Purim* later becomes the festival’s name.
-
-v08: Haman turns cultural and legal distinctiveness into an accusation of political disloyalty. The rhetoric deliberately collapses difference into danger.
-
-v09: Ten thousand talents of silver is an enormous sum, underscoring the scale of the proposed destruction and its economic dimension.
-
-v10: Giving the signet ring delegates royal authority to Haman. The king’s personal distance from the decree does not lessen the decree’s legal power.
-
-v13: The threefold language “destroy, kill, and annihilate” leaves no ambiguity about the genocidal intent of the decree. The inclusion of children and women makes its totalizing violence explicit.
-
-v15: The king and Haman drink while the city is confused. The juxtaposition is a deliberate narrative indictment of imperial detachment.
+v11: The grant of the silver can be understood as waiving Haman’s payment or allowing him control of the funds. The direct wording leaves the issue open.
 
 ## Vocabulary
 
-v01: אֲגָגִי (Agagi)
-“Agagite.” Haman’s designation, evoking Agag and Amalekite memory.
+v07: Pur
+A lot used to select a date. The Hebrew immediately explains the foreign term; it will give its name to Purim.
 
-v02: כָּרַע (kara)
-“To bow down.” To bend the knee in submission or honor.
+v09: Talent
+A large unit of weight. Ten thousand talents describes an enormous amount of silver.
 
-v02: שָׁחָה (shachah)
-“To prostrate oneself.” To bow deeply before another.
-
-v06: שָׁמַד (shamad)
-“To destroy.” One of the verbs used for Haman’s intended extermination.
-
-v07: פּוּר (pur)
-“Lot.” A Persian loanword for the object or process used to determine a date.
-
-v08: דָּת (dat)
-“Law.” Haman frames Judean law as incompatible with royal law.
-
-v10: טַבַּעַת (tabba'at)
-“Signet ring.” The instrument used to authorize royal documents.
-
-v12: אֲחַשְׁדַּרְפָּן (achashdarpan)
-“Satrap.” A high Persian provincial official.
-
-v13: אָבַד (avad)
-“To annihilate” or “cause to perish.” Part of the decree’s language of total destruction.
-
-v15: נָבוֹךְ (navokh)
-“To be confused” or “perplexed.” The state of the city after the decree.
+v10: Signet ring
+A seal used to authorize documents in the king’s name.

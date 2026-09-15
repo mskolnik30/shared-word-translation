@@ -4,81 +4,78 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-nehemiah-1-13-biblical-fluency-2026-09-15
 ---
 
-## The King Sends Nehemiah to Jerusalem
+## A request before the king
 
 <p>
-v01: In the month of Nisan, in the twentieth year of King Artaxerxes, wine was before him. I took up the wine and gave it to the king. I had not previously been sad in his presence.
-v02: The king said to me, “Why is your face sad when you are not sick? This can only be sadness of heart.” Then I was very afraid.
-v03: I said to the king, “May the king live forever! Why should my face not be sad when the city, the place of my ancestors’ tombs, lies in ruins and its gates have been consumed by fire?”
-v04: The king said to me, “What are you asking?” So I prayed to the God of heaven,
-v05: and I said to the king, “If it is good in the king’s eyes, and if your servant has found favor before you, send me to Judah, to the city of my ancestors’ tombs, so that I may rebuild it.”
+v01: In the month of Nisan, in the twentieth year of King Artaxerxes, wine was set before him. I took the wine and gave it to the king. I had never looked sad in his presence.
+v02: The king asked me, “Why does your face look so sad? You are not ill. This can only be sadness of heart.” I was terribly afraid.
+v03: I answered, “May the king live forever! How could I not look sad when the city where my ancestors are buried lies in ruins and its gates have been consumed by fire?”
 </p>
 
 <p>
-v06: Then the king said to me, with the queen sitting beside him, “How long will your journey be, and when will you return?” It was good in the king’s eyes to send me, and I gave him a time.
-v07: I also said to the king, “If it is good in the king’s eyes, let letters be given to me for the governors Beyond the River, so that they will let me pass until I come to Judah,
-v08: and a letter to Asaph, keeper of the king’s forest, so that he may give me timber to make beams for the gates of the fortress by the house, for the city wall, and for the house I will enter.” The king granted me this, because the good hand of my God was upon me.
-v09: Then I came to the governors Beyond the River and gave them the king’s letters. The king had sent army officers and horsemen with me.
-v10: When Sanballat the Horonite and Tobiah the Ammonite servant heard this, it was very troubling to them that someone had come to seek the good of the Israelites.
+v04: The king asked, “What are you requesting?” I prayed to the God of heaven
+v05: and answered the king, “If it pleases the king, and if your servant has found favor with you, send me to Judah, to the city where my ancestors are buried, so I can rebuild it.”
 </p>
 
-## Nehemiah Inspects the Wall
-
 <p>
-v11: I came to Jerusalem and was there three days.
-v12: Then I arose at night, I and a few men with me. I had told no one what my God had put into my heart to do for Jerusalem. There was no animal with me except the animal I rode.
-v13: I went out at night through the Valley Gate toward the Jackal Well and the Dung Gate. I inspected the walls of Jerusalem, which were broken down, and its gates, which had been consumed by fire.
-v14: Then I passed on to the Spring Gate and the King’s Pool, but there was no place for the animal under me to pass.
-v15: So I went up by the valley at night and inspected the wall. Then I turned back and entered through the Valley Gate, and returned.
-v16: The officials did not know where I had gone or what I was doing, for I had not yet told the Jews, the priests, the nobles, the officials, or the rest who would do the work.
+v06: With the queen seated beside him, the king asked, “How long will your journey take? When will you return?” The king was pleased to send me, and I gave him a time.
+v07: I also said, “If it pleases the king, let me have letters to the governors of Beyond the River, directing them to let me pass through until I reach Judah,
+v08: and a letter to Asaph, keeper of the king’s forest, to give me timber for the beams of the gates of the fortress by the temple, for the city wall, and for the house I will occupy.” The king granted my requests, for the good hand of my God was on me.
 </p>
 
-## Rise Up and Build
+<p>
+v09: I went to the governors of Beyond the River and gave them the king’s letters. The king had sent army officers and horsemen with me.
+v10: When Sanballat the Horonite and Tobiah the Ammonite official heard about it, they were deeply displeased that someone had come to seek the Israelites’ welfare.
+</p>
+
+## Inspecting Jerusalem
 
 <p>
-v17: Then I said to them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem so that we will no longer be a disgrace.”
-v18: I told them how the good hand of my God had been upon me and also the words the king had spoken to me. They said, “Let us rise up and build.” And they strengthened their hands for the good work.
-v19: But when Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arabian heard, they mocked us and despised us and said, “What is this thing you are doing? Are you rebelling against the king?”
-v20: I answered them and said, “The God of heaven will give us success. We, his servants, will rise up and build. But you have no portion, right, or memorial in Jerusalem.”
+v11: I arrived in Jerusalem and stayed there for three days.
+v12: Then I got up at night with a few men. I had told no one what my God was putting into my heart to do for Jerusalem. The only animal with me was the one I was riding.
+</p>
+
+<p>
+v13: That night I went out through the Valley Gate toward the Dragon Spring and the Dung Gate, inspecting Jerusalem’s broken walls and its fire-consumed gates.
+v14: I went on to the Fountain Gate and the King’s Pool, but there was no room for the animal beneath me to pass.
+v15: So I went up along the valley in the night, inspecting the wall. Then I turned back, came through the Valley Gate, and returned.
+v16: The officials did not know where I had gone or what I was doing. I had not yet told the Jews, priests, nobles, officials, or the others who would do the work.
+</p>
+
+## A call to rebuild
+
+<p>
+v17: Then I told them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned. Come, let us rebuild Jerusalem’s wall and put an end to our disgrace.”
+v18: I told them how the good hand of my God had been on me and what the king had said. They answered, “Let us get up and build!” They strengthened their hands for the good work.
+</p>
+
+<p>
+v19: But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard, they mocked and despised us. “What are you doing?” they asked. “Are you rebelling against the king?”
+v20: I answered them, “The God of heaven will give us success. We, his servants, will get up and build. You have no share, no right, and no memorial in Jerusalem.”
 </p>
 
 ## Notes
 
-v01: “Nisan” — The first month in the later Judean calendar. Several months have passed since the report in Kislev in chapter 1.
+v01: Nisan falls in spring. Both this scene and 1:1 are dated to the twentieth year; the text does not explain its year-reckoning.
 
-v04: Nehemiah’s brief prayer occurs within the royal conversation. The narrative places deliberate planning and immediate prayer beside one another.
+v06: The queen’s presence is stated, but her identity and role in the decision are not explained.
 
-v07: “Beyond the River” — A Persian administrative designation for territory west of the Euphrates.
+v09: Nehemiah receives a military escort. Ezra 8:22 describes a different decision about an escort; the accounts are not made identical.
 
-v08: “the good hand of my God” — A recurring expression in Ezra–Nehemiah for divine favor expressed through concrete circumstances.
+v10: Tobiah’s title is literally “servant.” It can describe an official; it does not by itself establish that he was enslaved.
 
-v10: “Ammonite servant” — “Servant” may be an official title or a term of status; the text does not define Tobiah’s office precisely.
-
-v13–15: The nighttime inspection lets Nehemiah assess the damage before publicly announcing the project.
-
-v20: “portion, right, or memorial” — The three terms deny Sanballat, Tobiah, and Geshem a recognized claim within Jerusalem’s restored civic-religious community.
+v20: The three terms deny the opponents a share, a recognized claim, and a memorial in Jerusalem. The precise legal force of the final term is uncertain.
 
 ## Vocabulary
 
-v01: פַּח (pach)
-“Governor.” A Persian-period administrative official; the noun appears later in the chapter’s regional context.
+v01: Susa
+A royal center of the Persian Empire, far east of Jerusalem.
 
-v05: בָּנָה (banah)
-“To build” or “rebuild.” A central verb throughout the wall narrative.
-
-v08: יָד (yad)
-“Hand.” In the phrase “the good hand of my God,” a metaphor for active favor and help.
-
-v10: רָעַע (ra'a')
-“To be displeased” or “be troubled.” Describes the opponents’ reaction to Israel’s welfare.
-
-v13: שָׂבַר (savar)
-“To inspect” or “examine.” A rare verb used for Nehemiah’s careful nighttime assessment.
-
-v17: חֶרְפָּה (cherpah)
-“Disgrace” or “reproach.” Social shame linked with Jerusalem’s ruin.
-
-v20: זִכָּרוֹן (zikkaron)
-“Memorial” or “remembrance.” A recognized claim to remembered belonging or standing.
+v08: The good hand of my God
+An image for God’s favorable help, recurring in Ezra and Nehemiah.

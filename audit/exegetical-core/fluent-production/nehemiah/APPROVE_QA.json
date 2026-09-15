@@ -1,9 +1,104 @@
 {
   "book": "Nehemiah",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "chapter_reviews_complete": 13,
+  "status": "REVIEW_PENDING",
+  "chapter_reviews_complete": false,
   "curated_f3_decisions_acknowledged": 9,
   "required_disposition": "APPROVE_QA",
-  "publication_note": "Eligible for review-branch installation; publication remains a separate repository decision."
+  "publication_note": "Eligible for review-branch installation; publication remains a separate repository decision.",
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "current_revision": {
+    "id": "fluent-nehemiah-1-13-biblical-fluency-2026-09-15",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "verse_count": 405,
+    "verse_ledger": "audit/fluent-revision/2026-09-15-nehemiah-1-13/nehemiah-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "ede8b7a9364ed466faacb7e662374ee9ee98e621",
+      "path": "audit/exegetical-core/fluent-production/nehemiah/APPROVE_QA.json"
+    },
+    "previous_batch_chapters": [],
+    "not_yet_revised_chapters": [],
+    "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–13; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
+  },
+  "historical_approval_scope": "Earlier wording and its original bindings only; no approval transfers to revised chapters.",
+  "revision_batches": [
+    {
+      "id": "fluent-nehemiah-1-13-biblical-fluency-2026-09-15",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 405,
+      "verse_ledger": "audit/fluent-revision/2026-09-15-nehemiah-1-13/nehemiah-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "ede8b7a9364ed466faacb7e662374ee9ee98e621",
+        "path": "audit/exegetical-core/fluent-production/nehemiah/APPROVE_QA.json"
+      },
+      "previous_batch_chapters": [],
+      "not_yet_revised_chapters": [],
+      "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–13; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
+    }
+  ],
+  "chapter_reviews_pending": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "chapter_reviews_complete_scope": "Historical wording only; independent review of revised chapters is pending."
 }

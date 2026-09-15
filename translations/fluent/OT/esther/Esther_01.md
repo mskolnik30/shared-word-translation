@@ -4,111 +4,78 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-esther-1-6-biblical-fluency-2026-09-15
 ---
 
-## Ahasuerus Displays His Royal Glory
+## The king’s banquets
 
 <p>
-v01: Now it happened in the days of Ahasuerus—the Ahasuerus who reigned from India to Cush, over one hundred twenty-seven provinces—
-
-v02: in those days, when King Ahasuerus sat on the throne of his kingdom in the citadel of Susa,
-
-v03: in the third year of his reign, he gave a feast for all his officials and servants. The army of Persia and Media, the nobles, and the officials of the provinces were before him.
-
-v04: He displayed the riches of his royal glory and the splendor and honor of his greatness for many days, one hundred eighty days.
-
-v05: When these days were completed, the king gave a feast lasting seven days for all the people who were present in the citadel of Susa, from the greatest to the least, in the courtyard of the garden of the king’s palace.
-
-v06: There were white and violet linen hangings fastened with cords of fine linen and purple to silver rings and marble pillars; couches of gold and silver were upon a pavement of porphyry, marble, mother-of-pearl, and dark stone.
-
-v07: Drinks were served in vessels of gold, vessels differing from one another, and royal wine was abundant according to the king’s generosity.
-
-v08: Drinking was according to the rule: “No compulsion.” For the king had instructed all the officials of his household to do according to each person’s desire.
-
-v09: Queen Vashti also gave a feast for the women in the royal house that belonged to King Ahasuerus.
+v01: This happened in the days of Ahasuerus, the Ahasuerus who ruled over 127 provinces, from India to Cush.
+v02: In those days, King Ahasuerus ruled from his royal throne in the citadel of Susa.
+v03: In the third year of his reign, he held a banquet for all his officials and attendants. The army of Persia and Media, the nobles, and the provincial officials were there before him.
+v04: For 180 days he displayed the riches of his glorious kingdom and the splendor of his great majesty.
 </p>
 
-## Vashti Refuses the King’s Command
-
 <p>
-v10: On the seventh day, when the king’s heart was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carkas, the seven eunuchs who served before King Ahasuerus,
-
-v11: to bring Queen Vashti before the king wearing the royal crown, to show the peoples and the officials her beauty, for she was beautiful in appearance.
-
-v12: Yet Queen Vashti refused to come at the king’s command that was delivered by the eunuchs. Then the king became very angry, and his fury burned within him.
+v05: When those days were over, the king held a seven-day banquet in the garden courtyard of the royal palace for everyone present in the citadel of Susa, from the greatest to the least.
+v06: White cotton and blue-violet hangings were fastened with cords of fine linen and purple wool to silver rings and marble pillars. Gold and silver couches stood on a pavement of alabaster, marble, mother-of-pearl, and colored stone.
+v07: Drinks were served in gold vessels, each different from the next. The royal wine flowed freely, as generously as only a king could provide.
+v08: The rule for drinking was that no one was to be compelled. The king had instructed every official of his household to let each man do as he wished.
 </p>
 
-## The King Consults the Wise Men
+<p>
+v09: Queen Vashti also held a banquet for the women in King Ahasuerus's royal palace.
+</p>
+
+## Vashti refuses
 
 <p>
-v13: Then the king said to the wise men who understood the times—for this was the king’s custom toward everyone who knew law and judgment,
+v10: On the seventh day, when the king was cheerful with wine, he gave an order to Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas—the seven eunuchs who attended King Ahasuerus.
+v11: They were to bring Queen Vashti before the king wearing her royal crown, to show the peoples and officials her beauty, for she was beautiful to look at.
+v12: But Queen Vashti refused to come at the king's command delivered by the eunuchs. The king became furious, and anger burned within him.
+</p>
 
-v14: and nearest to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven officials of Persia and Media who saw the king’s face and sat first in the kingdom—
+## A decree for every household
 
-v15: “According to law, what is to be done to Queen Vashti because she did not carry out the command of King Ahasuerus delivered by the eunuchs?”
+<p>
+v13: The king consulted the wise men who understood the times, for it was his practice to bring such matters before those who knew law and judgment.
+v14: Those closest to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan. These seven officials of Persia and Media had access to the king and held the highest rank in the kingdom.
+v15: “According to the law, what should be done to Queen Vashti?” he asked. “She has not carried out King Ahasuerus's command delivered by the eunuchs.”
+</p>
 
-v16: Memucan said before the king and the officials, “Queen Vashti has not wronged the king alone, but also all the officials and all the peoples who are in all the provinces of King Ahasuerus.
+<p>
+v16: Memucan answered in the presence of the king and the officials, “Queen Vashti has wronged more than the king. She has wronged all the officials and all the peoples throughout King Ahasuerus's provinces.
+v17: For the queen's conduct will become known to all the women, and they will look down on their husbands. They will say, ‘King Ahasuerus ordered Queen Vashti brought before him, but she did not come.’
+v18: This very day, the noblewomen of Persia and Media who have heard what the queen did will speak the same way to all the king's officials. There will be contempt and anger enough!
+</p>
 
-v17: For the queen’s action will become known to all women, causing them to despise their husbands in their eyes when they say, ‘King Ahasuerus commanded Queen Vashti to be brought before him, but she did not come.’
+<p>
+v19: If it pleases the king, let him issue a royal decree, and let it be written into the laws of Persia and Media so that it cannot be revoked: Vashti must never again come before King Ahasuerus. Let the king give her royal position to another woman, someone better than she is.
+v20: When the king's decree is heard throughout his vast kingdom, all the women will honor their husbands, from the greatest to the least.”
+</p>
 
-v18: This very day the noble women of Persia and Media who hear of the queen’s action will speak likewise to all the king’s officials, and there will be contempt and anger enough.
-
-v19: If it is good to the king, let a royal decree go out from before him, and let it be written among the laws of Persia and Media so that it cannot be revoked: Vashti will no longer come before King Ahasuerus, and the king will give her royal position to another who is better than she.
-
-v20: When the decree that the king makes is heard throughout all his kingdom, though it is vast, all women will give honor to their husbands, from greatest to least.”
-
-v21: The word was good in the eyes of the king and the officials, and the king did according to the word of Memucan.
-
-v22: He sent letters to all the king’s provinces, to each province in its own script and to each people in its own language, that every man should be ruler in his own house and speak according to the language of his people.
+<p>
+v21: The king and his officials liked this advice, and the king did as Memucan proposed.
+v22: He sent letters to every royal province, to each province in its own script and to each people in its own language: every man was to rule his own household and speak the language of his own people.
 </p>
 
 ## Notes
 
-v01: “Ahasuerus” is the Hebrew form of the Persian royal name commonly identified with Xerxes I. TSW retains the biblical name rather than replacing it in the main text.
+v01: Ahasuerus is the Hebrew form of the king’s name. Cush is the region south of Egypt; “Ethiopia” in older usage should not be equated exactly with the modern country.
 
-v01: “India to Cush” describes the breadth of the Persian Empire from its eastern territories to regions south of Egypt. “Cush” need not be reduced to one modern national boundary.
+v06: Several material names are rare or uncertain. The paving terms are rendered with conventional possibilities; their precise mineral identifications cannot be established from this verse alone.
 
-v04: The extraordinary one-hundred-eighty-day display emphasizes imperial wealth, scale, and spectacle before the narrative narrows to the royal household.
+v11: The command specifies Vashti’s royal crown. It does not say that she was to appear naked.
 
-v06: Several luxury materials in the palace description are rare or difficult to identify precisely. TSW uses conventional English equivalents while preserving the abundance and diversity of the scene.
-
-v08: “No compulsion” portrays even the drinking feast as governed by royal regulation. The line contributes to Esther’s recurring irony concerning imperial control.
-
-v10: The seven officials are eunuchs or court functionaries serving in direct royal attendance.
-
-v11: The text says Vashti is to appear “with the royal crown.” It does not explicitly say what else she was or was not to wear; later traditions should not be read back into the Hebrew wording.
-
-v16–20: Memucan converts one woman’s refusal into an empire-wide political threat. The disproportionate reaction is part of the narrative’s portrayal of royal anxiety and bureaucracy.
-
-v19: Persian and Median law is described as irrevocable, a theme that becomes crucial later when the king cannot simply cancel Haman’s decree.
-
-v22: The final clause is difficult and may concern each husband ruling his household and speaking his own language there. TSW preserves both elements without supplying a more elaborate social policy than the Hebrew states.
+v22: The final language clause is difficult: it may concern the household’s language or the language in which male authority was to be announced. The draft keeps the direct wording.
 
 ## Vocabulary
 
-v01: מְדִינָה (medinah)
-“Province.” An administrative district of the Persian Empire.
+v02: Citadel
+A fortified royal or administrative center, distinguished here from the wider city.
 
-v02: בִּירָה (birah)
-“Citadel” or “fortress.” The fortified royal complex at Susa.
-
-v03: מִשְׁתֶּה (mishteh)
-“Feast” or “banquet,” especially one involving drinking.
-
-v04: יְקָר (yeqar)
-“Honor,” “splendor,” or “preciousness.” Used of royal magnificence.
-
-v08: אֹנֵס (ones)
-“Compulsion.” The drinking rule explicitly forbids forcing anyone.
-
-v10: סָרִיס (saris)
-“Eunuch” or “court official.” A royal servant with close palace access.
-
-v13: דָּת (dat)
-“Law” or “decree.” A Persian-period term prominent throughout Esther.
-
-v19: כָּתַב (katav)
-“To write.” Royal decisions gain administrative force through written decrees.
-
-v22: שָׂרַר (sarar)
-“To rule” or “exercise authority.” Used of household authority in the decree.
+v10: Eunuch
+A male court attendant; the term commonly refers to a castrated man, though it can also function as a court title.

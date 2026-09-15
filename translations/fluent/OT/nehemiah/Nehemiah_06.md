@@ -4,84 +4,74 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-nehemiah-1-13-biblical-fluency-2026-09-15
 ---
 
-## Attempts to Draw Nehemiah Away
+## Attempts to draw Nehemiah away
 
 <p>
-v01: When it was reported to Sanballat, Tobiah, Geshem the Arabian, and the rest of our enemies that I had rebuilt the wall and no breach remained in it—though at that time I had not set the doors in the gates—
-v02: Sanballat and Geshem sent to me, saying, “Come, let us meet together at one of the villages in the plain of Ono.” But they were planning to do me harm.
-v03: I sent messengers to them, saying, “I am doing a great work and cannot come down. Why should the work stop while I leave it and come down to you?”
-v04: They sent to me four times in this way, and I answered them in the same way.
+v01: Sanballat, Tobiah, Geshem the Arab, and our other enemies heard that I had rebuilt the wall and no gap remained in it, though I had not yet installed the doors in the gates.
+v02: Sanballat and Geshem sent me this message: “Come, let us meet in the villages on the plain of Ono.” But they were planning to harm me.
+v03: I sent messengers to answer them, “I am doing a great work and cannot come down. Why should the work stop while I leave it to come down to you?”
+v04: They sent the same message four times, and each time I gave the same answer.
 </p>
 
-## The Open Letter
-
 <p>
-v05: Then Sanballat sent his servant to me in the same way a fifth time, with an open letter in his hand.
-v06: In it was written, “It is reported among the nations, and Gashmu says, that you and the Jews are planning to rebel, and for this reason you are rebuilding the wall. According to these reports, you are to become their king.
-v07: You have also appointed prophets to proclaim about you in Jerusalem, saying, ‘There is a king in Judah!’ Now these things will be reported to the king. So come, let us take counsel together.”
-v08: Then I sent to him, saying, “No such things as you say have happened; you are inventing them from your own heart.”
-v09: For they all wanted to frighten us, saying, “Their hands will become weak from the work, and it will not be completed.” But now, strengthen my hands.
+v05: The fifth time, Sanballat sent his servant with the same message and an open letter in his hand.
+v06: It said, “The nations are hearing—and Gashmu says it too—that you and the Jews are planning to rebel. That is why you are building the wall. According to these reports, you intend to become their king,
+v07: and you have appointed prophets to proclaim about you in Jerusalem, ‘There is a king in Judah!’ These reports will reach the king. So come now, and let us consult together.”
 </p>
 
-## Shemaiah’s False Prophecy
-
 <p>
-v10: I went to the house of Shemaiah son of Delaiah, son of Mehetabel, who was shut in. He said, “Let us meet in the house of God, inside the temple, and let us shut the temple doors, for they are coming to kill you. They are coming to kill you by night.”
-v11: Yet I said, “Should a man like me flee? And could someone like me enter the temple and live? I will not go in.”
-v12: I recognized that God had not sent him; he had spoken this prophecy against me because Tobiah and Sanballat had hired him.
-v13: He was hired so that I would become afraid, act in this way, and sin, so that they would have an evil report with which to reproach me.
-v14: Remember, my God, Tobiah and Sanballat according to these deeds of theirs, and also Noadiah the prophetess and the rest of the prophets who were trying to make me afraid.
+v08: I sent him this answer: “Nothing you are saying has happened. You are inventing it in your own heart.”
+v09: They were all trying to frighten us, thinking, “Their hands will weaken, and the work will not be finished.” Now strengthen my hands!
 </p>
 
-## The Wall Is Finished
+## A prophet’s warning
 
 <p>
-v15: The wall was finished on the twenty-fifth day of Elul, in fifty-two days.
-v16: When all our enemies heard, all the nations around us became afraid and fell greatly in their own estimation, for they recognized that this work had been done by our God.
-v17: Also in those days the nobles of Judah sent many letters to Tobiah, and Tobiah’s letters came to them.
-v18: For many in Judah were bound to him by oath, because he was son-in-law to Shecaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berechiah.
-v19: They also spoke of his good deeds before me and reported my words to him. And Tobiah sent letters to make me afraid.
+v10: I went to the house of Shemaiah son of Delaiah, son of Mehetabel, who was confined there. He said, “Let us meet in God’s house, inside the temple, and shut its doors. They are coming to kill you—tonight they are coming to kill you.”
+v11: I answered, “Should a man like me run away? Could someone like me enter the temple and live? I will not go in.”
+v12: Then I recognized that God had not sent him. He had spoken this prophecy against me because Tobiah and Sanballat had hired him.
+v13: They had hired him to frighten me into doing this and sinning. Then they would have a bad report to use against me and disgrace me.
+</p>
+
+<p>
+v14: Remember Tobiah and Sanballat, my God, for these deeds. Remember also Noadiah the prophetess and the other prophets who tried to frighten me.
+</p>
+
+## The wall is finished
+
+<p>
+v15: The wall was finished on the twenty-fifth day of Elul, after fifty-two days.
+v16: When all our enemies heard, all the surrounding nations were afraid and sank greatly in their own esteem. They knew this work had been accomplished by our God.
+</p>
+
+<p>
+v17: During those days Judah’s nobles kept sending letters to Tobiah, and his letters kept coming to them.
+v18: Many in Judah were bound to him by oath, because he was the son-in-law of Shecaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berechiah.
+v19: They kept telling me about his good deeds and reporting my words to him. Tobiah sent letters to frighten me.
 </p>
 
 ## Notes
 
-v02: Ono lay outside Jerusalem. The repeated invitations attempt to remove Nehemiah from the work and from the security of the city.
+v02: “The villages” may instead be the place-name Kephirim.
 
-v05: “open letter” — An unsealed letter could make its accusations public as it traveled, turning correspondence into political pressure.
+v06: Gashmu is the form used here for Geshem, named in 2:19 and 6:1.
 
-v06–07: The accusations frame rebuilding as rebellion against Persia. The charge exploits the political vulnerability of a restored Jerusalem.
+v09: “Now strengthen my hands!” turns abruptly from reporting threats to an appeal. God is not named in this short clause.
 
-v09: Nehemiah answers intimidation with a brief prayer embedded directly in the narrative: “strengthen my hands.”
+v10–13: Shemaiah’s confinement is unexplained. Nehemiah’s question about entering the temple and living may involve ritual danger as well as the proposed escape from attackers.
 
-v11: Access to the inner temple was restricted. Nehemiah’s refusal is not only courage but a refusal to seek safety through an unauthorized sacred act.
-
-v12–13: Prophetic speech is tested by its source and by the act it urges. Nehemiah concludes that fear was being used to lead him into sin.
-
-v15: “fifty-two days” — The compressed rebuilding period intensifies the narrative’s claim that the achievement cannot be explained simply by ordinary political strength.
-
-v18–19: Opposition is not only external. Kinship and oath relationships give Tobiah influence within Judah’s noble families.
+v14: Noadiah is explicitly identified as a female prophet. Nehemiah’s prayer includes her among those who tried to frighten him.
 
 ## Vocabulary
 
-v02: רָעָה (ra'ah)
-“Harm” or “evil.” The intended outcome behind the invitation.
+v15: Elul
+A late-summer month. The wall is completed on its twenty-fifth day, after fifty-two days of work.
 
-v05: אִגֶּרֶת (iggeret)
-“Letter.” Written correspondence, here deliberately left open.
-
-v08: בָּדָא (bada)
-“To invent” or “devise.” To create a claim from one’s own mind.
-
-v09: חָזַק (chazaq)
-“To strengthen.” Used in Nehemiah’s prayer concerning his hands.
-
-v12: נָכַר (nakhar)
-“To recognize” or “discern.” Nehemiah perceives that the prophecy did not come from God.
-
-v13: יָרֵא (yare)
-“To fear.” Fear is repeatedly used as the intended instrument of coercion.
-
-v16: נָפַל (nafal)
-“To fall.” In the idiom, the surrounding peoples “fall in their own eyes,” losing confidence.
+v18: Bound by oath
+Committed through a sworn obligation; these ties complicate Nehemiah’s opposition to Tobiah.

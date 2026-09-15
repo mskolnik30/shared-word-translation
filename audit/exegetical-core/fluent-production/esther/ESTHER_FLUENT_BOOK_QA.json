@@ -1,7 +1,7 @@
 {
   "book": "Esther",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 10,
   "public_verse_slots": 167,
   "included_verse_labels": 167,
@@ -106,5 +106,73 @@
         "blob_sha": "4a50251a68e0edb3f7c06c0c930ac7c0a0afc33f"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "current_revision": {
+    "id": "fluent-esther-1-6-biblical-fluency-2026-09-15",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "verse_count": 105,
+    "verse_ledger": "audit/fluent-revision/2026-09-15-esther-1-6/esther-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "ede8b7a9364ed466faacb7e662374ee9ee98e621",
+      "path": "audit/exegetical-core/fluent-production/esther/ESTHER_FLUENT_BOOK_QA.json"
+    },
+    "previous_batch_chapters": [],
+    "not_yet_revised_chapters": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–6; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
+  },
+  "historical_approval_scope": "Earlier wording and its original bindings only; no approval transfers to revised chapters.",
+  "revision_batches": [
+    {
+      "id": "fluent-esther-1-6-biblical-fluency-2026-09-15",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 105,
+      "verse_ledger": "audit/fluent-revision/2026-09-15-esther-1-6/esther-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "ede8b7a9364ed466faacb7e662374ee9ee98e621",
+        "path": "audit/exegetical-core/fluent-production/esther/ESTHER_FLUENT_BOOK_QA.json"
+      },
+      "previous_batch_chapters": [],
+      "not_yet_revised_chapters": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Source-based draft and authoring checks only. Earlier wording approvals are historical for chapters 1–6; independent approval does not transfer. Companion quotes and bindings require later reconciliation."
+    }
+  ]
 }

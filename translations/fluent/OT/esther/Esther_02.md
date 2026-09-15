@@ -4,118 +4,88 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-esther-1-6-biblical-fluency-2026-09-15
 ---
 
-## A Search for a New Queen
+## Women gathered for the king
 
 <p>
-v01: After these things, when the anger of King Ahasuerus had subsided, he remembered Vashti, what she had done, and what had been decreed against her.
-
-v02: Then the king’s young men who served him said, “Let beautiful young virgins be sought for the king.
-
-v03: Let the king appoint officers in all the provinces of his kingdom to gather every beautiful young virgin to the citadel of Susa, to the house of the women, into the hand of Hegai, the king’s eunuch who has charge of the women, and let their beauty treatments be given to them.
-
-v04: Then let the young woman who is good in the king’s eyes become queen in place of Vashti.” The matter was good in the king’s eyes, and he did so.
+v01: Later, when King Ahasuerus's anger had subsided, he remembered Vashti, what she had done, and what had been decreed against her.
+v02: The king's young attendants said, “Let beautiful young virgins be sought for the king.
+v03: Let the king appoint officers in every province of his kingdom to gather all the beautiful young virgins into the women's quarters in the citadel of Susa. Put them in the care of Hegai, the king's eunuch who guards the women, and give them beauty treatments.
+v04: Then let the young woman who pleases the king become queen in Vashti's place.” The king liked the proposal and acted on it.
 </p>
 
-## Mordecai and Esther
+## Esther and Mordecai
 
 <p>
-v05: There was a Judean man in the citadel of Susa whose name was Mordecai son of Jair, son of Shimei, son of Kish, a Benjaminite,
-
-v06: who had been carried into exile from Jerusalem with the exiles who were carried away with Jeconiah king of Judah, whom Nebuchadnezzar king of Babylon had carried into exile.
-
-v07: He was bringing up Hadassah—that is, Esther—the daughter of his uncle, for she had neither father nor mother. The young woman was beautiful in form and appearance, and when her father and mother died, Mordecai took her as his own daughter.
-
-v08: When the king’s command and decree were heard and many young women were gathered to the citadel of Susa into the hand of Hegai, Esther also was taken to the king’s house, into the hand of Hegai, keeper of the women.
-
-v09: The young woman was good in his eyes and gained favor before him. He quickly provided her beauty treatments and her portions, and seven chosen young women from the king’s house. He moved her and her young women to the best place in the house of the women.
-
-v10: Esther had not revealed her people or her kindred, for Mordecai had commanded her not to make it known.
-
-v11: Every day Mordecai walked back and forth before the courtyard of the house of the women to learn Esther’s welfare and what was happening to her.
+v05: There was a Jewish man in the citadel of Susa named Mordecai, son of Jair, son of Shimei, son of Kish, a Benjaminite,
+v06: who had been taken into exile from Jerusalem with the captives deported with King Jeconiah of Judah, whom King Nebuchadnezzar of Babylon had taken into exile.
+v07: Mordecai was raising Hadassah, also called Esther, his uncle's daughter, because she had neither father nor mother. The young woman had a lovely figure and a beautiful face. When her parents died, Mordecai had taken her as his own daughter.
 </p>
 
-## The Women Prepare to Go to the King
-
 <p>
-v12: When the turn came for each young woman to go in to King Ahasuerus, after she had been treated twelve months according to the regulation for women—for thus were the days of their beauty treatments completed: six months with oil of myrrh and six months with perfumes and women’s treatments—
-
-v13: then in this way the young woman went to the king: whatever she said was given to her to take with her from the house of the women to the king’s house.
-
-v14: In the evening she went in, and in the morning she returned to the second house of the women, into the hand of Shaashgaz, the king’s eunuch who had charge of the concubines. She did not go in to the king again unless the king delighted in her and she was called by name.
+v08: When the king's command and decree were announced, many young women were gathered into the citadel of Susa under Hegai's care. Esther too was taken to the king's palace and placed in the care of Hegai, the guardian of the women.
+v09: She pleased him and won his kindness. He quickly supplied her beauty treatments and special portions of food, assigned her seven selected attendants from the king's palace, and moved her and her attendants to the best place in the women's quarters.
 </p>
 
-## Esther Becomes Queen
-
 <p>
-v15: When the turn came for Esther daughter of Abihail, the uncle of Mordecai who had taken her as his daughter, to go in to the king, she asked for nothing except what Hegai the king’s eunuch, keeper of the women, advised. Esther gained favor in the eyes of everyone who saw her.
-
-v16: Esther was taken to King Ahasuerus into his royal house in the tenth month, which is the month of Tebeth, in the seventh year of his reign.
-
-v17: The king loved Esther more than all the women, and she gained favor and steadfast kindness before him more than all the virgins. He set the royal crown on her head and made her queen in place of Vashti.
-
-v18: Then the king gave a great feast for all his officials and servants, Esther’s feast. He granted relief to the provinces and gave gifts according to the king’s generosity.
+v10: Esther had not revealed her people or her family background, because Mordecai had instructed her not to tell.
+v11: Every day Mordecai walked back and forth in front of the courtyard of the women's quarters, trying to learn how Esther was and what was being done with her.
 </p>
 
-## Mordecai Uncovers a Plot
+## The women’s turns before the king
 
 <p>
-v19: When virgins were gathered a second time, Mordecai was sitting at the king’s gate.
+v12: Each young woman's turn to go to King Ahasuerus came after twelve months under the prescribed treatment for women: six months with oil of myrrh and six months with perfumes and other beauty treatments.
+v13: When a young woman went to the king, she was given whatever she asked to take with her from the women's quarters to the king's palace.
+v14: She went in the evening and returned in the morning to the second women's quarters, under the care of Shaashgaz, the king's eunuch who guarded the concubines. She would not go to the king again unless he delighted in her and summoned her by name.
+</p>
 
-v20: Esther had still not revealed her kindred or her people, as Mordecai had commanded her, and Esther continued to carry out Mordecai’s word as she had when he was bringing her up.
+<p>
+v15: When the turn came for Esther—daughter of Abihail, the uncle of Mordecai, who had adopted her as his daughter—to go to the king, she asked for nothing beyond what Hegai, the king's eunuch and guardian of the women, advised. Esther won the favor of everyone who saw her.
+v16: Esther was taken to King Ahasuerus in his royal palace in the tenth month, the month of Tebeth, in the seventh year of his reign.
+</p>
 
-v21: In those days, while Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s eunuchs from the guardians of the threshold, became angry and sought to lay hands on King Ahasuerus.
+<p>
+v17: The king loved Esther more than all the other women. She won his favor and affection more than all the other virgins, so he placed the royal crown on her head and made her queen in Vashti's place.
+v18: The king held a great banquet for all his officials and attendants—Esther's banquet. He granted relief to the provinces and gave gifts with royal generosity.
+</p>
 
-v22: The matter became known to Mordecai, and he told Queen Esther. Esther told the king in Mordecai’s name.
+## A plot reported
 
-v23: The matter was investigated and found to be so, and the two were hanged on a tree. It was written in the book of the chronicles before the king.
+<p>
+v19: When the virgins were gathered a second time, Mordecai was sitting at the king's gate.
+v20: Esther still had not revealed her family background or her people, as Mordecai had instructed her. She continued to follow his instructions just as she had when he was raising her.
+</p>
+
+<p>
+v21: In those days, while Mordecai was sitting at the king's gate, Bigthan and Teresh, two of the king's eunuchs who guarded the entrance, became angry and plotted to lay hands on King Ahasuerus.
+v22: Mordecai learned of the plot and told Queen Esther. Esther then reported it to the king, giving Mordecai the credit.
+v23: The matter was investigated and found to be true. Both men were hung on a wooden stake, and the event was recorded in the book of the chronicles in the king's presence.
 </p>
 
 ## Notes
 
-v05: Mordecai is introduced explicitly as Judean and Benjaminite, locating the coming conflict within Israel’s exilic identity.
+v05–06: “Who had been taken into exile” can be connected with Mordecai or an ancestor in the preceding genealogy, especially Kish. The Hebrew does not remove this ambiguity.
 
-v06: Grammatically, the relative clause can attach the exile statement to Kish or Mordecai. The chronology makes an ancestral connection likely, but TSW preserves the traditional narrative flow without overexplaining it in the main text.
+v07: Hadassah is Esther’s other name. She is Mordecai’s cousin, whom he raises as a daughter.
 
-v07: “Hadassah” is Esther’s Hebrew name; “Esther” is the name used in the Persian court setting.
+v08: Esther is “taken” into the palace. The account does not describe a voluntary modern beauty contest.
 
-v08: Esther is “taken” into the royal system. The narrative does not describe the gathering as a voluntary beauty contest; imperial power over the young women should remain visible.
+v18: The provincial benefit may be a holiday or some form of remission or relief; its exact administrative meaning is uncertain.
 
-v09: “favor” is a key narrative theme. Esther repeatedly receives favor within structures she does not control.
+v19: The text mentions a second gathering of virgins without explaining its relationship to the earlier gathering.
 
-v10: Esther’s hidden identity becomes central to the plot. Mordecai’s reason for commanding secrecy is not stated.
-
-v12–14: The text describes a royal harem system in which women spend one night with the king and afterward move to the house of concubines unless summoned again. TSW reports the structure without romanticizing it.
-
-v17: “steadfast kindness” translates *hesed*, an unusual term in a Persian court setting. Esther receives both favor and loyal kindness in the king’s eyes.
-
-v19: The second gathering of virgins is unexplained. TSW retains the statement without attempting to reconstruct a missing event.
-
-v23: “hanged on a tree” can refer to hanging, impalement, or exposure upon a wooden structure. Persian execution practices make precise reconstruction uncertain.
+v23: The Hebrew describes being hung on wood. The wording can include hanging or impalement; “wooden stakes” does not establish the exact execution method.
 
 ## Vocabulary
 
-v03: תַּמְרוּק (tamruq)
-“Beauty treatment” or “cosmetic preparation.”
+v14: Concubines
+Women in a recognized sexual relationship with a man whose status was below that of a full wife. Here they remain in guarded royal quarters.
 
-v05: יְהוּדִי (Yehudi)
-“Judean” or “Jew.” A person identified with Judah and the Judean people.
-
-v07: הֲדַסָּה (Hadassah)
-“Hadassah.” Esther’s Hebrew name, related to “myrtle.”
-
-v09: חֶסֶד (ḥesed)
-“Steadfast kindness.” Loyal favor shown within relationship.
-
-v10: מוֹלֶדֶת (moledet)
-“Kindred” or “native lineage.” Family and people of origin.
-
-v14: פִּילֶגֶשׁ (pilegesh)
-“Concubine.” A woman in a recognized but secondary royal sexual relationship.
-
-v19: שַׁעַר הַמֶּלֶךְ (sha'ar ha-melekh)
-“King’s gate.” A place of royal administration and official presence.
-
-v23: סֵפֶר דִּבְרֵי הַיָּמִים (sefer divrei hayamim)
-“Book of the chronicles.” The royal record of events.
+v23: Chronicles
+An official written record of events. This particular entry returns to the story in chapter 6.

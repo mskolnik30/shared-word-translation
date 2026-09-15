@@ -114,9 +114,26 @@ def audit(root, ledger, source_bytes):
         check(text.count('## Notes\n') == 1 and text.count('## Vocabulary\n') == 1,
               f"apparatus heading count: {chapter['path']}")
         after, old, tsw = map(verse_texts, (text, before.decode(), comparator.decode()))
-        expected = [f'{v:02}' for v in range(1, chapter['verse_count'] + 1)]
+        # Some pinned sources omit a public verse present in the comparator.
+        # Accept only a declared, explained gap already present in the exact
+        # parent text. Full source-record coverage is independently required above.
+        omitted = chapter.get('source_omitted_public_labels', [])
+        valid_omission = (isinstance(omitted, list)
+                          and all(isinstance(v, int) and v > 0 for v in omitted)
+                          and omitted == sorted(set(omitted)))
+        check(valid_omission, f"invalid omitted labels: {chapter['path']}")
+        if not valid_omission:
+            omitted = []
+        maximum = chapter['verse_count'] + len(omitted)
+        check(all(v <= maximum for v in omitted), f"omitted label out of range: {chapter['path']}")
+        if omitted:
+            check(bool(chapter.get('source_omission_reason', '').strip()),
+                  f"missing omission explanation: {chapter['path']}")
+        expected = [f'{v:02}' for v in range(1, maximum + 1) if v not in omitted]
         check(list(after) == expected, f"verse sequence mismatch: {chapter['path']}")
-        check(list(old) == list(after) == list(tsw), f"verse alignment mismatch: {chapter['path']}")
+        comparator_expected = [f'{v:02}' for v in range(1, maximum + 1)]
+        check(list(old) == list(after) and list(tsw) == comparator_expected,
+              f"verse alignment mismatch: {chapter['path']}")
         chapters[chapter['chapter']] = (after, old, tsw)
     seen = Counter()
     for verse in ledger['verses']:

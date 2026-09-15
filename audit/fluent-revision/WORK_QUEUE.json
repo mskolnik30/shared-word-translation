@@ -336,6 +336,16 @@
       "scope": "Ezra 1–10",
       "verses": 280,
       "ledger": "audit/fluent-revision/2026-09-15-ezra-1-10/ezra-verse-review.json"
+    },
+    {
+      "scope": "Nehemiah 1–13",
+      "verses": 405,
+      "ledger": "audit/fluent-revision/2026-09-15-nehemiah-1-13/nehemiah-verse-review.json"
+    },
+    {
+      "scope": "Esther 1–6",
+      "verses": 105,
+      "ledger": "audit/fluent-revision/2026-09-15-esther-1-6/esther-verse-review.json"
     }
   ],
   "next_work": [
@@ -364,8 +374,12 @@
       "action": "Review the complete book before continuing into Ezra; rebind earlier ledgers if text changes."
     },
     {
-      "scope": "Nehemiah, then Esther",
-      "action": "Pinned sources materialized and Git blobs verified; read every selected verse before drafting."
+      "scope": "Esther 7–10",
+      "action": "Continue from the verified pinned Hebrew; preserve the unresolved banquet scene and the story’s reversals. Then review Esther as a complete book."
+    },
+    {
+      "scope": "Whole-book Ezra and Nehemiah consistency review",
+      "action": "Read the complete revised books and apparatus continuously, preserving distinct registers, chronology, and voices. Rebind affected ledgers if wording changes."
     }
   ],
   "standards": [
@@ -420,5 +434,5 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt requests thirty chapters where careful source work permits; continue through complete connected books with verified checkpoints."
+  "batch_preference": "Matt requests thirty chapters where careful source work permits. This turn completes 2 Chronicles 36, Ezra 1–10, Nehemiah 1–13, and Esther 1–6: 30 chapters, 813 verses, saved across two cumulative checkpoints. Independent editorial review remains pending."
 }

@@ -4,114 +4,94 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-nehemiah-1-13-biblical-fluency-2026-09-15
 ---
 
-## The Assembly Hears the Torah
+## Separation after the reading
 
 <p>
-v01: On that day they read from the book of Moses in the hearing of the people, and it was found written that no Ammonite or Moabite should enter the assembly of God forever,
-v02: because they had not met the Israelites with bread and water but had hired Balaam against them to curse them. Yet our God turned the curse into a blessing.
-v03: When they heard the Torah, they separated from Israel all the mixed multitude.
+v01: On that day the Book of Moses was read aloud to the people. They found written in it that no Ammonite or Moabite should ever enter God’s assembly,
+v02: because they had not met the Israelites with bread and water and had hired Balaam to curse them. But our God turned the curse into a blessing.
+v03: When they heard the instruction, they separated all the mixed foreign population from Israel.
 </p>
 
-## Tobiah’s Room in the Temple Courts
+## Restoring the temple rooms and support
 
 <p>
-v04: Before this, Eliashib the priest, who had been appointed over the chambers of the house of our God and was related to Tobiah,
-v05: had prepared for him a large chamber where previously they placed the grain offerings, frankincense, vessels, tithes of grain, new wine, and oil that were assigned to the Levites, singers, and gatekeepers, along with the contributions for the priests.
-v06: During all this I was not in Jerusalem, for in the thirty-second year of Artaxerxes king of Babylon I had gone to the king. After some time I asked leave from the king,
-v07: and I came to Jerusalem. Then I learned of the evil Eliashib had done for Tobiah by preparing a chamber for him in the courts of the house of God.
-v08: It was very grievous to me, so I threw all Tobiah’s household goods out of the chamber.
-v09: Then I gave orders, and they purified the chambers; and I brought back there the vessels of the house of God, with the grain offering and frankincense.
-</p>
-
-## The Levites’ Portions Restored
-
-<p>
-v10: I also learned that the portions of the Levites had not been given to them, so the Levites and singers who did the work had fled, each to their own field.
-v11: Then I contended with the officials and said, “Why has the house of God been forsaken?” I gathered them together and restored them to their stations.
-v12: Then all Judah brought the tithe of grain, new wine, and oil into the storehouses.
-v13: I appointed as treasurers over the storehouses Shelemiah the priest, Zadok the scribe, and Pedaiah from the Levites, and next to them Hanan son of Zaccur, son of Mattaniah, because they were considered faithful. Their responsibility was to distribute to their relatives.
-v14: Remember me, my God, concerning this, and do not wipe out my acts of steadfast love that I have done for the house of my God and for its observances.
-</p>
-
-## The Sabbath Protected
-
-<p>
-v15: In those days I saw people in Judah treading winepresses on the Sabbath and bringing in heaps of grain, loading donkeys with wine, grapes, figs, and every kind of burden, and bringing them into Jerusalem on the Sabbath day. I warned them on the day they sold food.
-v16: Tyrians living there were also bringing in fish and every kind of merchandise and selling on the Sabbath to the people of Judah, even in Jerusalem.
-v17: Then I contended with the nobles of Judah and said to them, “What is this evil thing you are doing, profaning the Sabbath day?
-v18: Did not your ancestors do this, so that our God brought all this disaster upon us and upon this city? Yet you are adding wrath upon Israel by profaning the Sabbath.”
+v04: Before this, Eliashib the priest had been put in charge of a storeroom in our God’s house. He was closely connected with Tobiah
+v05: and had prepared a large room for him. Previously it had held the grain offering, frankincense, vessels, the tithes of grain, new wine, and oil assigned to the Levites, singers, and gatekeepers, and the priests’ contributions.
+v06: I was not in Jerusalem during all this. In the thirty-second year of Artaxerxes king of Babylon, I had gone back to the king. After some time I asked him for leave
+v07: and returned to Jerusalem. Then I learned of the wrong Eliashib had done for Tobiah by preparing a room for him in the courts of God’s house.
+v08: I was deeply displeased and threw all Tobiah’s household belongings out of the room.
+v09: I ordered the rooms purified, and I put back the vessels of God’s house, the grain offering, and the frankincense.
 </p>
 
 <p>
-v19: As the gates of Jerusalem began to grow dark before the Sabbath, I commanded that the doors be shut and not opened until after the Sabbath. I stationed some of my servants at the gates so that no burden would enter on the Sabbath day.
-v20: Then the merchants and sellers of every kind of merchandise spent the night outside Jerusalem once or twice.
-v21: I warned them and said, “Why are you spending the night in front of the wall? If you do it again, I will lay hands on you.” From that time on they did not come on the Sabbath.
-v22: Then I commanded the Levites to purify themselves and come guard the gates, to keep the Sabbath day holy. Remember this also for me, my God, and spare me according to the greatness of your steadfast love.
+v10: I also learned that the Levites had not received their portions. The Levites and singers who did the work had gone back to their own fields.
+v11: I confronted the officials: “Why has God’s house been abandoned?” Then I gathered the workers and restored them to their posts.
+v12: All Judah brought the tithes of grain, new wine, and oil into the storehouses.
+v13: I appointed Shelemiah the priest, Zadok the scribe, and Pedaiah the Levite over the storehouses, with Hanan son of Zaccur, son of Mattaniah, as their assistant. They were considered trustworthy and were responsible for distributing the portions to their fellows.
+v14: Remember me for this, my God. Do not wipe out the faithful deeds I have done for your house and its service.
 </p>
 
-## Nehemiah Confronts Intermarriage
+## Sabbath commerce
 
 <p>
-v23: In those days I also saw Jews who had married women of Ashdod, Ammon, and Moab.
-v24: Half of their children spoke the language of Ashdod or the language of one of the other peoples, and they did not know how to speak the language of Judah.
-v25: I contended with them, pronounced curses upon them, struck some of them, pulled out their hair, and made them swear by God, saying, “You will not give your daughters to their sons, and you will not take their daughters for your sons or for yourselves.
-v26: Did not Solomon king of Israel sin because of these things? Among many nations there was no king like him, and he was loved by his God, and God made him king over all Israel. Yet foreign women caused even him to sin.
-v27: Are we then to hear that you are doing all this great evil, acting unfaithfully against our God by marrying foreign women?”
+v15: In those days I saw people in Judah treading winepresses on the Sabbath, bringing in heaps of grain and loading donkeys with wine, grapes, figs, and every kind of load. They brought it all into Jerusalem on the Sabbath. I warned them when they sold their food.
+v16: Tyrians living there brought fish and all kinds of merchandise and sold them on the Sabbath to Judah’s people, right in Jerusalem.
+v17: I confronted Judah’s nobles: “What is this evil you are doing, profaning the Sabbath day?
+v18: Did not your ancestors act this way, so that our God brought all this disaster on us and this city? Now you are adding to the wrath against Israel by profaning the Sabbath.”
 </p>
 
-## The Priesthood Cleansed
+<p>
+v19: As shadows fell on Jerusalem’s gates before the Sabbath, I ordered the doors shut and not opened again until after the Sabbath. I stationed some of my men at the gates so no load could enter on the Sabbath.
+v20: Once or twice, the merchants and sellers of all kinds of goods spent the night outside Jerusalem.
+v21: I warned them, “Why are you spending the night by the wall? If you do it again, I will lay hands on you.” From then on they stopped coming on the Sabbath.
+v22: I told the Levites to purify themselves and come guard the gates, keeping the Sabbath day holy. Remember this too for me, my God, and spare me according to your great faithful love.
+</p>
+
+## Marriage and the community’s language
 
 <p>
-v28: One of the sons of Joiada son of Eliashib the high priest was son-in-law to Sanballat the Horonite, so I drove him away from me.
-v29: Remember them, my God, because they have defiled the priesthood and the covenant of the priesthood and the Levites.
-v30: So I cleansed them from everything foreign and established duties for the priests and Levites, each in their work,
-v31: and for the wood offering at appointed times and for the firstfruits. Remember me, my God, for good.
+v23: In those days I also saw Jews who had married women from Ashdod, Ammon, and Moab.
+v24: Half their children spoke the language of Ashdod and did not know how to speak Judean; they spoke the language of one people or another.
+v25: I confronted them, cursed them, beat some of the men, and pulled out their hair. I made them swear by God: “You must not give your daughters to their sons or take their daughters as wives for your sons or yourselves.
+</p>
+
+<p>
+v26: Was it not through marriages like these that Solomon king of Israel sinned? Among the many nations there was no king like him. His God loved him and made him king over all Israel, yet foreign wives led even him into sin.
+v27: Must we now hear that you too are doing all this great evil, being unfaithful to our God by marrying foreign women?”
+</p>
+
+<p>
+v28: One of the sons of Joiada son of Eliashib the high priest was Sanballat the Horonite’s son-in-law. I drove him away from me.
+v29: Remember them, my God, for defiling the priesthood and the covenant of the priesthood and the Levites.
+</p>
+
+<p>
+v30: I purified them of everything foreign and assigned duties to the priests and Levites, each to his work.
+v31: I arranged for the wood offering at appointed times and for the firstfruits. Remember me for good, my God.
 </p>
 
 ## Notes
 
-v01–03: The reading reflects Deuteronomic restrictions concerning Ammon and Moab. The narrative applies the Torah to communal boundaries in the restored community.
+v03: The term describes a mixed population; its precise membership is not specified. It should not be reduced to a claim about mixed biological ancestry.
 
-v04–09: Tobiah, a major opponent throughout the book, has been given space inside the temple complex through Eliashib’s relationship with him. Nehemiah treats this as a direct corruption of sacred space.
+v04: Eliashib’s closeness to Tobiah may indicate kinship or an association; the wording does not identify the exact relationship.
 
-v06: Artaxerxes is called “king of Babylon” here within the Persian imperial context. TSW preserves the textual designation rather than harmonizing it with other royal titles.
+v06: Artaxerxes is called “king of Babylon” here, although he is the Persian ruler. The title is retained.
 
-v10–13: When temple personnel are not supported, they leave sacred service to work their fields. Nehemiah restores both material provision and trustworthy administration.
+v24: The children’s speech is described in relation to Ashdod and Judah and to the languages of other peoples. The concern about language is stated in the narrator’s account.
 
-v14: “acts of steadfast love” — The Hebrew term can describe faithful deeds done in loyal service. Nehemiah asks God not to erase these acts from remembrance.
-
-v15–22: Sabbath observance is again inseparable from economic practice. Nehemiah addresses both Judean producers and outside merchants.
-
-v23–27: The problem is presented through covenantal allegiance and household formation, including the children’s loss of the language of Judah. The text’s harsh actions are narrated without commendatory expansion.
-
-v28–29: Intermarriage reaches into the high-priestly family and links it again with Sanballat, joining household, priesthood, and political loyalty.
-
-v31: The book ends with the recurring prayer, “Remember me,” leaving Nehemiah’s work before God rather than ending with a claim of final human completion.
+v25: Nehemiah reports cursing, beating, and pulling out hair. These coercive actions are retained plainly, without endorsement or euphemism.
 
 ## Vocabulary
 
-v03: עֵרֶב (erev)
-“Mixed group” or “mixed multitude.” A population understood as not belonging to Israel’s covenantal assembly.
+v11: Abandon the house of God
+The complaint recalls the promise in 10:39 and focuses here on neglected support for temple workers.
 
-v05: לִשְׁכָּה (lishkah)
-“Chamber” or “room.” A storage or administrative room within the temple complex.
-
-v10: מָנָה (manah)
-“Portion” or “assigned share.” The support designated for Levites and singers.
-
-v14: חֶסֶד (ḥesed)
-“Steadfast love” or “faithful deed.” Here used for Nehemiah’s acts of loyal service.
-
-v17: חָלַל (chalal)
-“To profane.” To treat what is holy as ordinary or violated.
-
-v22: שָׁמַר (shamar)
-“To keep” or “guard.” Used of guarding the gates and keeping the Sabbath holy.
-
-v24: יְהוּדִית (Yehudit)
-“Language of Judah” or “Judean.” The local language associated with the restored Judean community.
-
-v29: גָּאַל (ga'al)
-“To defile” in the relevant stem, here describing corruption of priestly status and covenant responsibility.
+v31: Remember me
+Nehemiah’s recurring appeal closes the book; the narrative does not announce that every conflict has been resolved.

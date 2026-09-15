@@ -1,0 +1,167 @@
+{
+  "status": "PASSED",
+  "base_commit": "ede8b7a9364ed466faacb7e662374ee9ee98e621",
+  "new_chapters": 19,
+  "new_verses": 510,
+  "whole_turn_chapters": 30,
+  "whole_turn_verses": 813,
+  "cumulative_coverage": {
+    "ledgers": 69,
+    "chapters": 437,
+    "verses": 12915
+  },
+  "preservation": {
+    "prior_ledgers_byte_identical": 67,
+    "prior_chapters_byte_identical": 418,
+    "historical_provenance_preserved": true
+  },
+  "affected_source_binding_audits": [
+    {
+      "status": "PASSED",
+      "chapters": 13,
+      "verses": 405,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "status": "PASSED",
+      "chapters": 6,
+      "verses": 105,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "all_2chronicles_source_records_bound_once": 822,
+  "nehemiah_original_records_bound_once": 405,
+  "esther_selected_records_bound_once": 105,
+  "source_gap_regression_checks": "PASSED",
+  "focused_authoring_reread": {
+    "nehemiah": 67,
+    "esther": 27
+  },
+  "first_source_reading": {
+    "verses": 510,
+    "all_source_annotations_read": true
+  },
+  "tsw_comparator_verses_read_after_drafting": 510,
+  "additional_comparator_only_verse_read": "Nehemiah 7:68 (not imported)",
+  "focused_assertions": {
+    "Nehemiah 3:12": [
+      "daughters"
+    ],
+    "Nehemiah 3:20": [
+      "Zaccai"
+    ],
+    "Nehemiah 5:5": [
+      "sons and daughters into slavery"
+    ],
+    "Nehemiah 5:11": [
+      "hundredth"
+    ],
+    "Nehemiah 6:14": [
+      "Noadiah the prophetess"
+    ],
+    "Nehemiah 7:17": [
+      "2,322"
+    ],
+    "Nehemiah 7:67": [
+      "7,337",
+      "245",
+      "slaves"
+    ],
+    "Nehemiah 7:70": [
+      "530"
+    ],
+    "Nehemiah 8:8": [
+      "meaning",
+      "understand"
+    ],
+    "Nehemiah 8:10": [
+      "stronghold"
+    ],
+    "Nehemiah 9:36": [
+      "slaves"
+    ],
+    "Nehemiah 10:19": [
+      "Nebai"
+    ],
+    "Nehemiah 10:32": [
+      "third of a shekel"
+    ],
+    "Nehemiah 10:38": [
+      "Aaronite"
+    ],
+    "Nehemiah 12:9": [
+      "Unni"
+    ],
+    "Nehemiah 12:17": [
+      "Abijah, Zichri",
+      "Miniamin",
+      "Moadiah, Piltai"
+    ],
+    "Nehemiah 12:24": [
+      "Jeshua son of Kadmiel"
+    ],
+    "Nehemiah 13:6": [
+      "king of Babylon"
+    ],
+    "Nehemiah 13:25": [
+      "cursed them",
+      "beat some of the men",
+      "pulled out their hair"
+    ],
+    "Esther 1:1": [
+      "127"
+    ],
+    "Esther 1:6": [
+      "White cotton"
+    ],
+    "Esther 1:10": [
+      "Mehuman",
+      "Biztha",
+      "Harbona",
+      "Bigtha",
+      "Abagtha",
+      "Zethar",
+      "Carcas"
+    ],
+    "Esther 2:8": [
+      "Esther too was taken"
+    ],
+    "Esther 2:12": [
+      "twelve",
+      "six months"
+    ],
+    "Esther 3:9": [
+      "ten thousand talents"
+    ],
+    "Esther 3:13": [
+      "destruction, killing, and annihilation",
+      "children and women",
+      "thirteenth"
+    ],
+    "Esther 4:14": [
+      "another place",
+      "who knows"
+    ],
+    "Esther 4:16": [
+      "three days",
+      "if I perish, I perish"
+    ],
+    "Esther 5:14": [
+      "fifty cubits"
+    ],
+    "Esther 6:8": [
+      "on its head"
+    ],
+    "Esther 6:11": [
+      "Haman",
+      "Mordecai"
+    ]
+  },
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

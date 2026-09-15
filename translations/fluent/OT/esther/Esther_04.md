@@ -4,109 +4,77 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-esther-1-6-biblical-fluency-2026-09-15
 ---
 
-## Mordecai Mourns
+## Mourning across the provinces
 
 <p>
-v01: When Mordecai learned all that had been done, Mordecai tore his clothes, put on sackcloth and ashes, went out into the midst of the city, and cried out with a loud and bitter cry.
-
-v02: He came as far as the front of the king’s gate, for no one was permitted to enter the king’s gate wearing sackcloth.
-
-v03: In every province, wherever the king’s command and law reached, there was great mourning among the Judeans, with fasting, weeping, and lamentation. Sackcloth and ashes were spread out for many.
+v01: When Mordecai learned everything that had happened, he tore his clothes, put on sackcloth and ashes, and went out into the city, crying out loudly and bitterly.
+v02: He came as far as the front of the king's gate, because no one wearing sackcloth could enter it.
+v03: In every province reached by the king's command and decree, there was great mourning among the Jews, with fasting, weeping, and lamenting. Many lay on sackcloth and ashes.
 </p>
 
-## Esther Learns of Mordecai’s Distress
-
 <p>
-v04: Esther’s young women and her eunuchs came and told her, and the queen writhed greatly in distress. She sent garments to clothe Mordecai and remove his sackcloth from him, but he did not accept them.
-
-v05: Then Esther called Hathach, one of the king’s eunuchs whom he had appointed to attend her, and commanded him concerning Mordecai, to learn what this was and why.
-
-v06: Hathach went out to Mordecai in the city square that was before the king’s gate.
-
-v07: Mordecai told him all that had happened to him and the exact amount of silver that Haman had said he would weigh into the king’s treasuries for the destruction of the Judeans.
-
-v08: He also gave him a copy of the written law that had been issued in Susa for their destruction, to show Esther and tell her, and to command her to go to the king to seek his favor and plead before him for her people.
+v04: Esther's attendants and eunuchs came and told her, and the queen was deeply distressed. She sent clothes for Mordecai to put on in place of his sackcloth, but he would not accept them.
 </p>
 
-## Esther Fears Going to the King
+## Messages between Esther and Mordecai
 
 <p>
-v09: Hathach came and told Esther the words of Mordecai.
-
-v10: Then Esther spoke to Hathach and commanded him to say to Mordecai:
-
-v11: “All the king’s servants and the people of the king’s provinces know that for any man or woman who comes to the king in the inner court without being called, there is one law: to put that person to death, unless the king extends the gold scepter so that the person may live. But I have not been called to come to the king these thirty days.”
-
-v12: They told Mordecai Esther’s words.
+v05: Esther summoned Hathach, one of the king's eunuchs assigned to attend her, and sent him to Mordecai to find out what was happening and why.
+v06: Hathach went out to Mordecai in the city square in front of the king's gate.
 </p>
 
-## For Such a Time as This
-
 <p>
-v13: Then Mordecai said to return this answer to Esther:
-
-“Do not imagine in your life that you will escape in the king’s house more than all the other Judeans.
-
-v14: For if you remain completely silent at this time, relief and deliverance will arise for the Judeans from another place, but you and your father’s house will perish. And who knows whether you have come to royal position for a time such as this?”
+v07: Mordecai told him everything that had happened to him, including the exact amount of silver Haman had promised to weigh into the royal treasuries for the destruction of the Jews.
+v08: He also gave him a copy of the decree issued in Susa for their destruction, to show Esther and explain it to her. He instructed her to go to the king, plead for his favor, and appeal to him for her people.
 </p>
 
-## Fast for Me
+<p>
+v09: Hathach returned and reported Mordecai's words to Esther.
+</p>
 
 <p>
-v15: Then Esther said to return this answer to Mordecai:
+v10: Esther sent Hathach back to Mordecai with this message:
+v11: “All the king's attendants and the people of his provinces know that any man or woman who enters the inner courtyard to approach the king without being summoned faces one law: death. Only someone to whom the king extends the gold scepter may live. And I have not been summoned to the king for thirty days.”
+</p>
 
-v16: “Go, gather all the Judeans who are found in Susa and fast for me. Do not eat or drink for three days, night or day. I and my young women will also fast in the same way. Then I will go to the king, though it is not according to the law; and if I perish, I perish.”
+<p>
+v12: They reported Esther's words to Mordecai.
+</p>
 
-v17: So Mordecai passed on and did according to all that Esther had commanded him.
+## Esther resolves to act
+
+<p>
+v13: Mordecai sent this answer to Esther: “Do not imagine that you alone of all the Jews will escape because you are in the king's palace.
+v14: If you remain silent at this time, relief and deliverance will arise for the Jews from another place, but you and your father's house will perish. And who knows whether you have come to royal power for a time like this?”
+</p>
+
+<p>
+v15: Esther sent this reply to Mordecai:
+v16: “Go and gather all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. My attendants and I will fast in the same way. Then I will go to the king, even though it is against the law. And if I perish, I perish.”
+</p>
+
+<p>
+v17: Mordecai went away and did everything Esther had instructed him to do.
 </p>
 
 ## Notes
 
-v01–03: Public mourning spreads wherever the extermination decree arrives. Sackcloth, ashes, fasting, weeping, and lamentation form a communal response before any political solution appears.
+v12: The Hebrew switches to a plural subject, “they,” after naming Hathach earlier. The switch is retained.
 
-v04: Esther’s first response is to send clothing, perhaps because she does not yet know the cause of Mordecai’s mourning or because sackcloth cannot enter the royal gate.
+v14: Mordecai speaks of relief from “another place” and asks “who knows?” The Hebrew does not explicitly name God or turn the question into certainty.
 
-v08: Mordecai’s instruction brings Esther’s hidden identity into direct tension with her royal position. She must now act “for her people.”
-
-v11: The danger Esther describes is institutional, not hypothetical. Unauthorized approach to the king can result in death unless the king extends the scepter.
-
-v13: “Do not imagine in your life” is a Hebrew idiom meaning do not suppose inwardly that palace status guarantees safety.
-
-v14: “relief and deliverance will arise … from another place” is one of Esther’s most suggestive lines. The Hebrew book never explicitly names God, and TSW does not insert a divine name here. Mordecai expresses confidence in deliverance without identifying its source in the sentence.
-
-v14: “Who knows” preserves uncertainty rather than claiming Mordecai possesses direct prophetic knowledge of Esther’s purpose.
-
-v16: Esther’s three-day fast makes her action a communal act of solidarity and dependence. The Hebrew text does not explicitly mention prayer, so TSW does not add it.
-
-v16: “If I perish, I perish” is neither despair nor certainty of death; it is Esther’s acceptance of the risk attached to action.
+v16: Fasting is stated, but prayer is not expressly mentioned in this Hebrew passage. The repetition “if I perish, I perish” retains Esther’s acknowledgment of danger.
 
 ## Vocabulary
 
-v01: שַׂק (saq)
-“Sackcloth.” Coarse material worn in mourning.
+v01: Sackcloth and ashes
+Visible signs of grief and distress.
 
-v01: אֵפֶר (efer)
-“Ashes.” A sign of grief, humiliation, or mourning.
-
-v03: צוֹם (tsom)
-“Fast.” Abstention from food, here practiced communally in crisis.
-
-v08: בָּקַשׁ (baqash)
-“To seek.” Esther is to seek the king’s favor on behalf of her people.
-
-v11: שַׁרְבִיט (sharvit)
-“Scepter.” The royal staff extended as a sign that the uninvited person may live.
-
-v14: רֶוַח (revach)
-“Relief” or “breathing room.” Release from constriction or danger.
-
-v14: הַצָּלָה (hatsalah)
-“Deliverance.” Rescue from the threatened destruction.
-
-v16: אָבַד (avad)
-“To perish.” Esther accepts the possibility of death.
-
-v17: עָבַר (avar)
-“To pass on.” Mordecai goes and carries out Esther’s command.
+v11: Scepter
+A royal staff. The king’s extension of it grants an exception to the stated death penalty.
