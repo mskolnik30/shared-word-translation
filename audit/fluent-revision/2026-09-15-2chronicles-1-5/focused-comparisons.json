@@ -1,0 +1,905 @@
+{
+  "qualification": "Authoring source reread, not independent editorial approval. Exact record hashes remain in the ledger.",
+  "rows": [
+    {
+      "reference": "2 Chronicles 1:5",
+      "delta": "F3",
+      "rationale": "Choose the LORD as the object of seeking while noting that the pronoun may refer to the altar.",
+      "source_reference": "2Chr 1:5",
+      "source_verse_sha256": "9ea1e2437baf6b2dcef3640fd028e34cc41834dfb1adaff429059dd30bde7734",
+      "before": "The bronze altar that Bezalel son of Uri, son of Hur, had made was there before the tabernacle of the LORD, and Solomon and the assembly sought him there.",
+      "after": "The bronze altar made by Bezalel son of Uri, son of Hur, stood before the LORD’s tabernacle. Solomon and the assembly sought the LORD there.",
+      "tsw_comparator": "The bronze altar that Bezalel son of Uri, son of Hur, had made was there before the tabernacle of the LORD, and Solomon and the assembly sought him there.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.703704,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 1:5",
+          "hebrew": "וּ/מִזְבַּ֣ח הַ/נְּחֹ֗שֶׁת אֲשֶׁ֤ר עָשָׂה֙ בְּצַלְאֵל֙ בֶּן אוּרִ֣י בֶן ח֔וּר שָׂ֕ם לִ/פְנֵ֖י מִשְׁכַּ֣ן יְהוָ֑ה וַ/יִּדְרְשֵׁ֥/הוּ שְׁלֹמֹ֖ה וְ/הַ/קָּהָֽל",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 1:6",
+      "delta": "F2",
+      "rationale": "Retain the exact offering count and altar setting.",
+      "source_reference": "2Chr 1:6",
+      "source_verse_sha256": "37b863284f5f7bb61df8cf7170ba19beefb7da82e09acffcecdd68b0cf93a957",
+      "before": "Solomon went up there to the bronze altar before the LORD, which was at the tent of meeting, and offered upon it one thousand burnt offerings.",
+      "after": "Solomon went up there to the bronze altar before the LORD at the tent of meeting and presented a thousand burnt offerings on it.",
+      "tsw_comparator": "Solomon went up there to the bronze altar before the LORD, which was at the tent of meeting, and offered upon it one thousand burnt offerings.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 1:6",
+          "hebrew": "וַ/יַּעַל֩ שְׁלֹמֹ֨ה שָׁ֜ם עַל מִזְבַּ֤ח הַ/נְּחֹ֨שֶׁת֙ לִ/פְנֵ֣י יְהוָ֔ה אֲשֶׁ֖ר לְ/אֹ֣הֶל מוֹעֵ֑ד וַ/יַּ֧עַל עָלָ֛י/ו עֹל֖וֹת אָֽלֶף",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 1:10",
+      "delta": "F3",
+      "rationale": "Retain the leadership movement image and both wisdom terms.",
+      "source_reference": "2Chr 1:10",
+      "source_verse_sha256": "28185e7c03e73543e3f8a8a456ed0327ed7e81e142e7c80215291a470f39415e",
+      "before": "Now give me wisdom and knowledge, so that I may go out and come in before this people, for who can judge this great people of yours?”",
+      "after": "Give me wisdom and knowledge so I can go out and come in before this people. For who can govern this great people of yours?”",
+      "tsw_comparator": "Now give me wisdom and knowledge, so that I may go out and come in before this people, for who can judge this great people of yours?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.884615,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 1:10",
+          "hebrew": "עַתָּ֗ה חָכְמָ֤ה וּ/מַדָּע֙ תֶּן לִ֔/י וְ/אֵֽצְאָ֛ה לִ/פְנֵ֥י הָֽ/עָם הַ/זֶּ֖ה וְ/אָב֑וֹאָה כִּֽי מִ֣י יִשְׁפֹּ֔ט אֶת עַמְּ/ךָ֥ הַ/זֶּ֖ה הַ/גָּדֽוֹל",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 1:13",
+      "delta": "F3",
+      "rationale": "Render the difficult directional wording according to the departure context and note the Hebrew problem.",
+      "source_reference": "2Chr 1:13",
+      "source_verse_sha256": "5a44b7a70a383cd62fc81ee0dc7fe2cda34b3f83a3d6d618705e0939c46fa20d",
+      "before": "So Solomon came from the high place at Gibeon, from before the tent of meeting, to Jerusalem, and he reigned over Israel.",
+      "after": "Solomon came from the high place at Gibeon, from before the tent of meeting, to Jerusalem, and he reigned over Israel.",
+      "tsw_comparator": "So Solomon came from the high place at Gibeon, from before the tent of meeting, to Jerusalem, and he reigned over Israel.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.976744,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 1:13",
+          "hebrew": "וַ/יָּבֹ֨א שְׁלֹמֹ֜ה לַ/בָּמָ֤ה אֲשֶׁר בְּ/גִבְעוֹן֙ יְר֣וּשָׁלִַ֔ם מִ/לִּ/פְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וַ/יִּמְלֹ֖ךְ עַל יִשְׂרָאֵֽל",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 1:14",
+      "delta": "F2",
+      "rationale": "Keep both totals and both stationing locations.",
+      "source_reference": "2Chr 1:14",
+      "source_verse_sha256": "2986fded32a4a71ec12c4d936fc7a400aa0a2ac19b5fe8e329c0935563959f45",
+      "before": "Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen, and he stationed them in the chariot cities and with the king in Jerusalem.",
+      "after": "Solomon gathered chariots and horsemen. He had fourteen hundred chariots and twelve thousand horsemen, which he stationed in the chariot towns and with the king in Jerusalem.",
+      "tsw_comparator": "Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen, and he stationed them in the chariot cities and with the king in Jerusalem.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 1:14",
+          "hebrew": "וַ/יֶּאֱסֹ֣ף שְׁלֹמֹה֮ רֶ֣כֶב וּ/פָרָשִׁים֒ וַֽ/יְהִי ל֗/וֹ אֶ֤לֶף וְ/אַרְבַּע מֵאוֹת֙ רֶ֔כֶב וּ/שְׁנֵים עָשָׂ֥ר אֶ֖לֶף פָּרָשִׁ֑ים וַ/יַּנִּיחֵ/ם֙ בְּ/עָרֵ֣י הָ/רֶ֔כֶב וְ/עִם הַ/מֶּ֖לֶךְ בִּ/ירֽוּשָׁלִָֽם",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 1:16",
+      "delta": "F3",
+      "rationale": "Choose the place-name Kue while flagging the alternative understanding of the difficult trade term.",
+      "source_reference": "2Chr 1:16",
+      "source_verse_sha256": "4d27003e92de8800bcf68611f8fcf6d9f32b4b5e9b8df39f497045ff74331ca7",
+      "before": "Solomon’s horses were imported from Egypt and Kue; the king’s merchants purchased them from Kue at the current price.",
+      "after": "Solomon’s horses were imported from Egypt and Kue. The king’s merchants bought them from Kue at the going price.",
+      "tsw_comparator": "Solomon’s horses were imported from Egypt and Kue; the king’s merchants purchased them from Kue at the current price.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.894737,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 1:16",
+          "hebrew": "וּ/מוֹצָ֧א הַ/סּוּסִ֛ים אֲשֶׁ֥ר לִ/שְׁלֹמֹ֖ה מִ/מִּצְרָ֑יִם וּ/מִ/קְוֵ֕א סֹחֲרֵ֣י הַ/מֶּ֔לֶךְ מִ/קְוֵ֥א יִקְח֖וּ בִּ/מְחִֽיר",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 1:17",
+      "delta": "F3",
+      "rationale": "Supply the customary silver unit and preserve both prices and export destinations.",
+      "source_reference": "2Chr 1:17",
+      "source_verse_sha256": "43c27bff96e53b24b89aaacebae15237a654145ad5ae9fc0644f95fed52ff42d",
+      "before": "A chariot could be imported from Egypt for six hundred shekels of silver and a horse for one hundred fifty. So through them they exported them to all the kings of the Hittites and the kings of Aram.",
+      "after": "They imported a chariot from Egypt for six hundred shekels of silver and a horse for a hundred fifty. Through these merchants they also exported them to all the Hittite and Aramean kings.",
+      "tsw_comparator": "A chariot could be imported from Egypt for six hundred shekels of silver and a horse for one hundred fifty. So through them they exported them to all the kings of the Hittites and the kings of Aram.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.704225,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 1:17",
+          "hebrew": "וַֽ֠/יַּעֲלוּ וַ/יּוֹצִ֨יאוּ מִ/מִּצְרַ֤יִם מֶרְכָּבָה֙ בְּ/שֵׁ֣שׁ מֵא֣וֹת כֶּ֔סֶף וְ/ס֖וּס בַּ/חֲמִשִּׁ֣ים וּ/מֵאָ֑ה וְ֠/כֵן לְ/כָל מַלְכֵ֧י הַֽ/חִתִּ֛ים וּ/מַלְכֵ֥י אֲרָ֖ם בְּ/יָדָ֥/ם יוֹצִֽיאוּ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 2:1",
+      "delta": "F3",
+      "rationale": "Bind this public verse to Hebrew 1:18 and retain the paired houses.",
+      "source_reference": "2Chr 1:18",
+      "source_verse_sha256": "dee98e912a630969398ca524e1c03c7f82609a1c6f8968539a0266b483308c68",
+      "before": "Solomon commanded that a house be built for the name of the LORD and a royal house for himself.",
+      "after": "Solomon decided to build a house for the LORD’s name and a house for his own kingdom.",
+      "tsw_comparator": "Solomon commanded that a house be built for the name of the LORD and a royal house for himself.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.555556,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 1:18",
+          "hebrew": "וַ/יֹּ֣אמֶר שְׁלֹמֹ֗ה לִ/בְנ֥וֹת בַּ֨יִת֙ לְ/שֵׁ֣ם יְהוָ֔ה וּ/בַ֖יִת לְ/מַלְכוּתֽ/וֹ",
+          "notes": [
+            "<note>KJV:2Chr.2.1</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 2:2",
+      "delta": "F3",
+      "rationale": "Bind Hebrew 2:1 and preserve all three workforce figures.",
+      "source_reference": "2Chr 2:1",
+      "source_verse_sha256": "8bf9cf0eff85a0e9b2c6cacd84f85761f453aa60e8714636ea283a032d02260c",
+      "before": "Solomon counted seventy thousand burden-bearers, eighty thousand stonecutters in the hill country, and three thousand six hundred to oversee them.",
+      "after": "He counted out seventy thousand men to carry loads, eighty thousand to quarry stone in the hills, and thirty-six hundred to supervise them.",
+      "tsw_comparator": "Solomon counted seventy thousand burden-bearers, eighty thousand stonecutters in the hill country, and three thousand six hundred to oversee them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.533333,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 2:1",
+          "hebrew": "וַ/יִּסְפֹּ֨ר שְׁלֹמֹ֜ה שִׁבְעִ֥ים אֶ֨לֶף֙ אִ֣ישׁ סַבָּ֔ל וּ/שְׁמוֹנִ֥ים אֶ֛לֶף אִ֖ישׁ חֹצֵ֣ב בָּ/הָ֑ר וּ/מְנַצְּחִ֣ים עֲלֵי/הֶ֔ם שְׁלֹ֥שֶׁת אֲלָפִ֖ים וְ/שֵׁ֥שׁ מֵאֽוֹת",
+          "notes": [
+            "<note>KJV:2Chr.2.2</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 2:8",
+      "delta": "F3",
+      "rationale": "Keep all three tree terms and the joint workforce, continuing the purpose into the next verse.",
+      "source_reference": "2Chr 2:7",
+      "source_verse_sha256": "665cfe7cac0798a4aa3bd8cd5963956162be208d4d90bf271f84de3c650dc463",
+      "before": "Send me also cedar, cypress, and algum timber from Lebanon, for I know that your servants know how to cut timber from Lebanon. My servants will be with your servants,",
+      "after": "Send me cedar, cypress, and algum timber from Lebanon. I know your servants are skilled at cutting Lebanon’s timber. My servants will work with yours",
+      "tsw_comparator": "Send me also cedar, cypress, and algum timber from Lebanon, for I know that your servants know how to cut timber from Lebanon. My servants will be with your servants,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.654545,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 2:7",
+          "hebrew": "וּֽ/שְׁלַֽח לִ/י֩ עֲצֵ֨י אֲרָזִ֜ים בְּרוֹשִׁ֣ים וְ/אַלְגּוּמִּים֮ מֵֽ/הַ/לְּבָנוֹן֒ כִּ֚י אֲנִ֣י יָדַ֔עְתִּי אֲשֶׁ֤ר עֲבָדֶ֨י/ךָ֙ יֽוֹדְעִ֔ים לִ/כְר֖וֹת עֲצֵ֣י לְבָנ֑וֹן וְ/הִנֵּ֥ה עֲבָדַ֖/י עִם עֲבָדֶֽי/ךָ",
+          "notes": [
+            "<note>KJV:2Chr.2.8</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 2:10",
+      "delta": "F3",
+      "rationale": "Preserve all four equal quantities, distinct measures, and the difficult beaten-wheat description.",
+      "source_reference": "2Chr 2:9",
+      "source_verse_sha256": "c14139e18d349f3ea768c84744b887c3d4bf6fc06c15813fc8413d24e7e0a645",
+      "before": "Look, I will give to your servants, the woodcutters who cut the timber, twenty thousand cors of crushed wheat, twenty thousand cors of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”",
+      "after": "I will give your servants, the woodcutters who fell the trees, twenty thousand cors of beaten wheat, twenty thousand cors of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”",
+      "tsw_comparator": "Look, I will give to your servants, the woodcutters who cut the timber, twenty thousand cors of crushed wheat, twenty thousand cors of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 2:9",
+          "hebrew": "וְ/הִנֵּ֣ה לַֽ/חֹטְבִ֣ים לְֽ/כֹרְתֵ֣י הָ/עֵצִ֡ים נָתַתִּי֩ חִטִּ֨ים מַכּ֜וֹת לַ/עֲבָדֶ֗י/ךָ כֹּרִים֙ עֶשְׂרִ֣ים אֶ֔לֶף וּ/שְׂעֹרִ֕ים כֹּרִ֖ים עֶשְׂרִ֣ים אָ֑לֶף וְ/יַ֗יִן בַּתִּים֙ עֶשְׂרִ֣ים אֶ֔לֶף וְ/שֶׁ֕מֶן בַּתִּ֖ים עֶשְׂרִ֥ים אָֽלֶף",
+          "notes": [
+            "<note>KJV:2Chr.2.10</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 2:13",
+      "delta": "F3",
+      "rationale": "Retain the craftsman’s name-title and distinguish him from the king.",
+      "source_reference": "2Chr 2:12",
+      "source_verse_sha256": "35ad235ac91c24170f90b7d8de415771fb3b3910e5a680bc513c104a845635f1",
+      "before": "And now I am sending a skilled and understanding man, Huram-Abi,",
+      "after": "I am sending Huram-abi, a skilled man with understanding.",
+      "tsw_comparator": "And now I am sending a skilled and understanding man, Huram-Abi,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.454545,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 2:12",
+          "hebrew": "וְ/עַתָּ֗ה שָׁלַ֧חְתִּי אִישׁ חָכָ֛ם יוֹדֵ֥עַ בִּינָ֖ה לְ/חוּרָ֥ם אָבִֽי",
+          "notes": [
+            "<note>KJV:2Chr.2.13</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 2:14",
+      "delta": "F3",
+      "rationale": "Keep Dan rather than harmonizing Kings and preserve the full skills inventory.",
+      "source_reference": "2Chr 2:13",
+      "source_verse_sha256": "eb9ec2a6cae51072e69143c371fe3755ea2668442289d63c6f33e4a278171851",
+      "before": "son of a woman from the daughters of Dan, and his father was a man of Tyre. He knows how to work in gold, silver, bronze, iron, stone, wood, purple, blue, fine linen, and crimson, and to make every kind of engraving and devise every design that may be given to him, with your skilled men and the skilled men of my lord David your father.",
+      "after": "His mother is from the daughters of Dan, and his father is a man of Tyre. He knows how to work in gold, silver, bronze, iron, stone, wood, purple, blue, fine linen, and crimson, and how to do every kind of engraving and devise any design assigned to him. He will work with your skilled workers and those of my lord David your father.",
+      "tsw_comparator": "son of a woman from the daughters of Dan, and his father was a man of Tyre. He knows how to work in gold, silver, bronze, iron, stone, wood, purple, blue, fine linen, and crimson, and to make every kind of engraving and devise every design that may be given to him, with your skilled men and the skilled men of my lord David your father.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.784615,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 2:13",
+          "hebrew": "בֶּן אִשָּׁ֞ה מִן בְּנ֣וֹת דָּ֗ן וְ/אָבִ֣י/ו אִישׁ צֹרִ֡י יוֹדֵ֡עַ לַ/עֲשׂ֣וֹת בַּ/זָּֽהָב וּ֠/בַ/כֶּסֶף בַּ/נְּחֹ֨שֶׁת בַּ/בַּרְזֶ֜ל בָּ/אֲבָנִ֣ים וּ/בָ/עֵצִ֗ים בָּ/אַרְגָּמָ֤ן בַּ/תְּכֵ֨לֶת֙ וּ/בַ/בּ֣וּץ וּ/בַ/כַּרְמִ֔יל וּ/לְ/פַתֵּ֨חַ֙ כָּל פִּתּ֔וּחַ וְ/לַ/חְשֹׁ֖ב כָּל מַחֲשָׁ֑בֶת אֲשֶׁ֤ר יִנָּֽתֶן ל/וֹ֙ עִם חֲכָמֶ֔י/ךָ וְֽ/חַכְמֵ֔י אֲדֹנִ֖/י דָּוִ֥יד אָבִֽי/ךָ",
+          "notes": [
+            "<note>KJV:2Chr.2.14</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 2:17",
+      "delta": "F3",
+      "rationale": "Keep the counted population and exact total without presenting the labor as voluntary.",
+      "source_reference": "2Chr 2:16",
+      "source_verse_sha256": "d9a849955b6e59d87cbb89f18f31d8630ce7e5d9530a351e1d4872d5abcf2132",
+      "before": "Solomon counted all the resident aliens who were in the land of Israel after the census that David his father had taken of them, and one hundred fifty-three thousand six hundred were found.",
+      "after": "Solomon counted all the foreign men living in the land of Israel, following the count his father David had made. There were 153,600.",
+      "tsw_comparator": "Solomon counted all the resident aliens who were in the land of Israel after the census that David his father had taken of them, and one hundred fifty-three thousand six hundred were found.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.482759,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 2:16",
+          "hebrew": "וַ/יִּסְפֹּ֣ר שְׁלֹמֹ֗ה כָּל הָ/אֲנָשִׁ֤ים הַ/גֵּירִים֙ אֲשֶׁר֙ בְּ/אֶ֣רֶץ יִשְׂרָאֵ֔ל אַחֲרֵ֣י הַ/סְּפָ֔ר אֲשֶׁ֥ר סְפָרָ֖/ם דָּוִ֣יד אָבִ֑י/ו וַ/יִּמָּצְא֗וּ מֵאָ֤ה וַ/חֲמִשִּׁים֙ אֶ֔לֶף וּ/שְׁלֹ֥שֶׁת אֲלָפִ֖ים וְ/שֵׁ֥שׁ מֵאֽוֹת",
+          "notes": [
+            "<note>KJV:2Chr.2.17</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 2:18",
+      "delta": "F3",
+      "rationale": "Retain every assignment and the coercive force of making the people work.",
+      "source_reference": "2Chr 2:17",
+      "source_verse_sha256": "afb9972789c432fa6c69a1291c1f7ba3f1accb0387ab476f344304becf43245c",
+      "before": "He appointed seventy thousand of them as burden-bearers, eighty thousand as stonecutters in the hill country, and three thousand six hundred as overseers to make the people work.",
+      "after": "He assigned seventy thousand of them to carry loads, eighty thousand to quarry stone in the hills, and thirty-six hundred as supervisors to keep the people at work.",
+      "tsw_comparator": "He appointed seventy thousand of them as burden-bearers, eighty thousand as stonecutters in the hill country, and three thousand six hundred as overseers to make the people work.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.586207,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 2:17",
+          "hebrew": "וַ/יַּ֨עַשׂ מֵ/הֶ֜ם שִׁבְעִ֥ים אֶ֨לֶף֙ סַבָּ֔ל וּ/שְׁמֹנִ֥ים אֶ֖לֶף חֹצֵ֣ב בָּ/הָ֑ר וּ/שְׁלֹ֤שֶׁת אֲלָפִים֙ וְ/שֵׁ֣שׁ מֵא֔וֹת מְנַצְּחִ֖ים לְ/הַעֲבִ֥יד אֶת הָ/עָֽם",
+          "notes": [
+            "<note>KJV:2Chr.2.18</note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:1",
+      "delta": "F3",
+      "rationale": "Supply the LORD as the appearance’s subject and preserve the full site identification.",
+      "source_reference": "2Chr 3:1",
+      "source_verse_sha256": "fe178d7b8236969080eb528a12b6bcb4b8df4d5d9672c85fd17f1b544dfa55ef",
+      "before": "Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to David his father, at the place David had prepared, on the threshing floor of Ornan the Jebusite.",
+      "after": "Solomon began building the LORD’s house in Jerusalem on Mount Moriah, where the LORD had appeared to his father David, at the place David had prepared on the threshing floor of Ornan the Jebusite.",
+      "tsw_comparator": "Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to David his father, at the place David had prepared, on the threshing floor of Ornan the Jebusite.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.873239,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:1",
+          "hebrew": "וַ/יָּ֣חֶל שְׁלֹמֹ֗ה לִ/בְנ֤וֹת אֶת בֵּית יְהוָה֙ בִּ/יר֣וּשָׁלִַ֔ם בְּ/הַר֙ הַ/מּ֣וֹרִיָּ֔ה אֲשֶׁ֥ר נִרְאָ֖ה לְ/דָוִ֣יד אָבִ֑י/הוּ אֲשֶׁ֤ר הֵכִין֙ בִּ/מְק֣וֹם דָּוִ֔יד בְּ/גֹ֖רֶן אָרְנָ֥ן הַ/יְבוּסִֽי",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:2",
+      "delta": "F3",
+      "rationale": "Supply day for the elliptical second and retain all date elements.",
+      "source_reference": "2Chr 3:2",
+      "source_verse_sha256": "5bdbd28ae1af52a8fee6210c42627debc533fed223235858cddb094121453e3e",
+      "before": "He began to build on the second day of the second month, in the fourth year of his reign.",
+      "after": "He began building on the second day of the second month in the fourth year of his reign.",
+      "tsw_comparator": "He began to build on the second day of the second month, in the fourth year of his reign.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.918919,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:2",
+          "hebrew": "וַ֠/יָּחֶל לִ/בְנ֞וֹת בַּ/חֹ֤דֶשׁ הַ/שֵּׁנִי֙ בַּ/שֵּׁנִ֔י בִּ/שְׁנַ֥ת אַרְבַּ֖ע לְ/מַלְכוּתֽ/וֹ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:3",
+      "delta": "F2",
+      "rationale": "Keep the older cubit standard and both foundation dimensions.",
+      "source_reference": "2Chr 3:3",
+      "source_verse_sha256": "e959043aa0ac53791cf0f3783887ac6557d5905b1a486a136498650b696e7c76",
+      "before": "These are the foundations Solomon laid for building the house of God: the length in cubits according to the former measure was sixty cubits, and the width twenty cubits.",
+      "after": "These were the foundation dimensions Solomon used for building God’s house, measured in cubits of the older standard: sixty cubits long and twenty cubits wide.",
+      "tsw_comparator": "These are the foundations Solomon laid for building the house of God: the length in cubits according to the former measure was sixty cubits, and the width twenty cubits.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.518519,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:3",
+          "hebrew": "וְ/אֵ֨לֶּה֙ הוּסַ֣ד שְׁלֹמֹ֔ה לִ/בְנ֖וֹת אֶת בֵּ֣ית הָ/אֱלֹהִ֑ים הָ/אֹ֡רֶךְ אַמּ֞וֹת בַּ/מִּדָּ֤ה הָ/רִֽאשׁוֹנָה֙ אַמּ֣וֹת שִׁשִּׁ֔ים וְ/רֹ֖חַב אַמּ֥וֹת עֶשְׂרִֽים",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:4",
+      "delta": "F3",
+      "rationale": "Retain the Hebrew’s striking height and flag the twenty-cubit alternative without silently correcting it.",
+      "source_reference": "2Chr 3:4",
+      "source_verse_sha256": "a1b80100aad1921929fb774a1cf34c0cd9921886b0773c280f08898296a738e1",
+      "before": "The porch that was in front of the house was twenty cubits long, corresponding to the width of the house, and its height was one hundred twenty cubits. He overlaid its interior with pure gold.",
+      "after": "The entrance hall across the front was twenty cubits long, matching the width of the house, and a hundred twenty cubits high. He overlaid its interior with pure gold.",
+      "tsw_comparator": "The porch that was in front of the house was twenty cubits long, corresponding to the width of the house, and its height was one hundred twenty cubits. He overlaid its interior with pure gold.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6875,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:4",
+          "hebrew": "וְ/הָ/אוּלָ֡ם אֲשֶׁר֩ עַל פְּנֵ֨י הָ/אֹ֜רֶךְ עַל פְּנֵ֤י רֹֽחַב הַ/בַּ֨יִת֙ אַמּ֣וֹת עֶשְׂרִ֔ים וְ/הַ/גֹּ֖בַהּ מֵאָ֣ה וְ/עֶשְׂרִ֑ים וַ/יְצַפֵּ֥/הוּ מִ/פְּנִ֖ימָה זָהָ֥ב טָהֽוֹר",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:8",
+      "delta": "F2",
+      "rationale": "Keep the square dimensions and large gold weight.",
+      "source_reference": "2Chr 3:8",
+      "source_verse_sha256": "b2785f52c23ac990b15a310fbcbd02a552b30f1c502099ac5ae7fc28a83955ca",
+      "before": "He made the house of the Most Holy Place. Its length corresponded to the width of the house, twenty cubits, and its width twenty cubits. He overlaid it with six hundred talents of fine gold.",
+      "after": "He made the Most Holy Place twenty cubits long, across the width of the house, and twenty cubits wide. He overlaid it with six hundred talents of fine gold.",
+      "tsw_comparator": "He made the house of the Most Holy Place. Its length corresponded to the width of the house, twenty cubits, and its width twenty cubits. He overlaid it with six hundred talents of fine gold.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.71875,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:8",
+          "hebrew": "וַ/יַּ֨עַשׂ֙ אֶת בֵּֽית קֹ֣דֶשׁ הַ/קֳּדָשִׁ֔ים אָרְכּ֞/וֹ עַל פְּנֵ֤י רֹֽחַב הַ/בַּ֨יִת֙ אַמּ֣וֹת עֶשְׂרִ֔ים וְ/רָחְבּ֖/וֹ אַמּ֣וֹת עֶשְׂרִ֑ים וַ/יְחַפֵּ֨/הוּ֙ זָהָ֣ב ט֔וֹב לְ/כִכָּרִ֖ים שֵׁ֥שׁ מֵאֽוֹת",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:9",
+      "delta": "F3",
+      "rationale": "Retain the stated aggregate weight without asserting each nail weighed fifty.",
+      "source_reference": "2Chr 3:9",
+      "source_verse_sha256": "ad791ac5fb5cb99b0bceeca9ebbe590686b5eed10fa216f09f285fbf61e1b161",
+      "before": "The weight of the nails was fifty shekels of gold, and he overlaid the upper rooms with gold.",
+      "after": "The gold nails weighed fifty shekels. He also overlaid the upper rooms with gold.",
+      "tsw_comparator": "The weight of the nails was fifty shekels of gold, and he overlaid the upper rooms with gold.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6875,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:9",
+          "hebrew": "וּ/מִשְׁקָ֛ל לְ/מִסְמְר֥וֹת לִ/שְׁקָלִ֖ים חֲמִשִּׁ֣ים זָהָ֑ב וְ/הָ/עֲלִיּ֖וֹת חִפָּ֥ה זָהָֽב",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:10",
+      "delta": "F3",
+      "rationale": "Preserve two figures and the uncertain workmanship term at a general level.",
+      "source_reference": "2Chr 3:10",
+      "source_verse_sha256": "2751761725b9189d104a9c12206d8bee5a4b3ceb7c8e26fe7bca07d60e6099d0",
+      "before": "In the house of the Most Holy Place he made two cherubim of sculptured work and overlaid them with gold.",
+      "after": "In the Most Holy Place he made two sculpted cherubim and overlaid them with gold.",
+      "tsw_comparator": "In the house of the Most Holy Place he made two cherubim of sculptured work and overlaid them with gold.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:10",
+          "hebrew": "וַ/יַּ֜עַשׂ בְּ/בֵֽית קֹ֤דֶשׁ הַ/קֳּדָשִׁים֙ כְּרוּבִ֣ים שְׁנַ֔יִם מַעֲשֵׂ֖ה צַעֲצֻעִ֑ים וַ/יְצַפּ֥וּ אֹתָ֖/ם זָהָֽב",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:11",
+      "delta": "F2",
+      "rationale": "Keep the total span and the first figure’s two contacts.",
+      "source_reference": "2Chr 3:11",
+      "source_verse_sha256": "859c91a3b8487d9890fcb883c9183c20586fafc30acdec65ef5c15cfb2be8404",
+      "before": "The wings of the cherubim were twenty cubits long. One wing of the first cherub was five cubits and touched the wall of the house, and its other wing was five cubits and touched the wing of the other cherub.",
+      "after": "Together the cherubim’s wings spanned twenty cubits. One wing of the first cherub was five cubits long and touched the wall of the house; its other wing was five cubits long and touched the other cherub’s wing.",
+      "tsw_comparator": "The wings of the cherubim were twenty cubits long. One wing of the first cherub was five cubits and touched the wall of the house, and its other wing was five cubits and touched the wing of the other cherub.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.779221,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:11",
+          "hebrew": "וְ/כַנְפֵי֙ הַ/כְּרוּבִ֔ים אָרְכָּ֖/ם אַמּ֣וֹת עֶשְׂרִ֑ים כְּנַ֨ף הָ/אֶחָ֜ד לְ/אַמּ֣וֹת חָמֵ֗שׁ מַגַּ֨עַת֙ לְ/קִ֣יר הַ/בַּ֔יִת וְ/הַ/כָּנָ֤ף הָ/אַחֶ֨רֶת֙ אַמּ֣וֹת חָמֵ֔שׁ מַגִּ֕יעַ לִ/כְנַ֖ף הַ/כְּר֥וּב הָ/אַחֵֽר",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:12",
+      "delta": "F2",
+      "rationale": "Preserve the mirrored geometry and each five-cubit wing.",
+      "source_reference": "2Chr 3:12",
+      "source_verse_sha256": "c340a31f6ba1ee3ed6ec829ba46e02dca980885eb69875041325bcb8d77b3c4b",
+      "before": "One wing of the second cherub was five cubits and touched the wall of the house, and its other wing was five cubits and joined the wing of the first cherub.",
+      "after": "One wing of the other cherub was five cubits long and touched the other wall of the house; its other wing was five cubits long and joined the first cherub’s wing.",
+      "tsw_comparator": "One wing of the second cherub was five cubits and touched the wall of the house, and its other wing was five cubits and joined the wing of the first cherub.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.806452,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:12",
+          "hebrew": "וּ/כְנַ֨ף הַ/כְּר֤וּב הָ/אֶחָד֙ אַמּ֣וֹת חָמֵ֔שׁ מַגִּ֖יעַ לְ/קִ֣יר הַ/בָּ֑יִת וְ/הַ/כָּנָ֤ף הָ/אַחֶ֨רֶת֙ אַמּ֣וֹת חָמֵ֔שׁ דְּבֵקָ֕ה לִ/כְנַ֖ף הַ/כְּר֥וּב הָ/אַחֵֽר",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:13",
+      "delta": "F2",
+      "rationale": "Keep standing posture and the outward-facing direction.",
+      "source_reference": "2Chr 3:13",
+      "source_verse_sha256": "cd3e808b3d85cb7d99f5493e01c96e679ab7991141a45dcb93d4fdf2d7bd797e",
+      "before": "The wings of these cherubim spread out twenty cubits. They stood on their feet, and their faces were toward the house.",
+      "after": "The wings of these cherubim spread out twenty cubits. The cherubim stood on their feet, facing the main hall.",
+      "tsw_comparator": "The wings of these cherubim spread out twenty cubits. They stood on their feet, and their faces were toward the house.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:13",
+          "hebrew": "כַּנְפֵי֙ הַ/כְּרוּבִ֣ים הָ/אֵ֔לֶּה פֹּֽרְשִׂ֖ים אַמּ֣וֹת עֶשְׂרִ֑ים וְ/הֵ֛ם עֹמְדִ֥ים עַל רַגְלֵי/הֶ֖ם וּ/פְנֵי/הֶ֥ם לַ/בָּֽיִת",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:15",
+      "delta": "F3",
+      "rationale": "Keep thirty-five without adding each or combined where the Hebrew does not settle it.",
+      "source_reference": "2Chr 3:15",
+      "source_verse_sha256": "2171c26c2ad063cdc8f790035299620f2e20f67ad531008d53b5ea71fcb1454f",
+      "before": "In front of the house he made two pillars thirty-five cubits high, and the capital on top of each was five cubits.",
+      "after": "He made two pillars in front of the house, thirty-five cubits in length, with a capital five cubits high on top of each.",
+      "tsw_comparator": "In front of the house he made two pillars thirty-five cubits high, and the capital on top of each was five cubits.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.553191,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:15",
+          "hebrew": "וַ/יַּ֜עַשׂ לִ/פְנֵ֤י הַ/בַּ֨יִת֙ עַמּוּדִ֣ים שְׁנַ֔יִם אַמּ֕וֹת שְׁלֹשִׁ֥ים וְ/חָמֵ֖שׁ אֹ֑רֶךְ וְ/הַ/צֶּ֥פֶת אֲשֶׁר עַל רֹאשׁ֖/וֹ אַמּ֥וֹת חָמֵֽשׁ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 3:16",
+      "delta": "F3",
+      "rationale": "Retain the difficult inner-sanctuary wording and exact pomegranate count, with the alternative noted.",
+      "source_reference": "2Chr 3:16",
+      "source_verse_sha256": "7b83f9cea35cb0ed780441eb9e644055de4d417100e2d48375cbe5c36360824f",
+      "before": "He made chains in the inner sanctuary and put them on the tops of the pillars, and he made one hundred pomegranates and put them on the chains.",
+      "after": "He made chains in the inner sanctuary and placed them on top of the pillars. He made a hundred pomegranates and put them on the chains.",
+      "tsw_comparator": "He made chains in the inner sanctuary and put them on the tops of the pillars, and he made one hundred pomegranates and put them on the chains.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851852,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 3:16",
+          "hebrew": "וַ/יַּ֤עַשׂ שַׁרְשְׁרוֹת֙ בַּ/דְּבִ֔יר וַ/יִּתֵּ֖ן עַל רֹ֣אשׁ הָ/עַמֻּדִ֑ים וַ/יַּ֤עַשׂ רִמּוֹנִים֙ מֵאָ֔ה וַ/יִּתֵּ֖ן בַּֽ/שַּׁרְשְׁרֽוֹת",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:1",
+      "delta": "F3",
+      "rationale": "Preserve all three altar dimensions.",
+      "source_reference": "2Chr 4:1",
+      "source_verse_sha256": "8eb90fad114ffa8bdc6115689b9bf5703776e63162cf2a2c0af36da58fa3b96a",
+      "before": "He made a bronze altar, twenty cubits long, twenty cubits wide, and twenty cubits high.",
+      "after": "He made a bronze altar twenty cubits long, twenty cubits wide, and ten cubits high.",
+      "tsw_comparator": "He made a bronze altar, twenty cubits long, twenty cubits wide, and twenty cubits high.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:1",
+          "hebrew": "וַ/יַּ֨עַשׂ֙ מִזְבַּ֣ח נְחֹ֔שֶׁת עֶשְׂרִ֤ים אַמָּה֙ אָרְכּ֔/וֹ וְ/עֶשְׂרִ֥ים אַמָּ֖ה רָחְבּ֑/וֹ וְ/עֶ֥שֶׂר אַמּ֖וֹת קוֹמָתֽ/וֹ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:2",
+      "delta": "F2",
+      "rationale": "Keep the named Sea and the source’s diameter, height, and circumference without recalculating them.",
+      "source_reference": "2Chr 4:2",
+      "source_verse_sha256": "b92a3b3e9302966ab4299aab6adbb5a5e01f84803148827f3b7e4404bf30e227",
+      "before": "He made the Sea of cast metal, ten cubits from rim to rim, circular all around, five cubits high, and a line of thirty cubits encircled it.",
+      "after": "He made the Sea of cast metal, round in shape, ten cubits from rim to rim and five cubits high. A measuring line thirty cubits long encircled it.",
+      "tsw_comparator": "He made the Sea of cast metal, ten cubits from rim to rim, circular all around, five cubits high, and a line of thirty cubits encircled it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:2",
+          "hebrew": "וַ/יַּ֥עַשׂ אֶת הַ/יָּ֖ם מוּצָ֑ק עֶ֣שֶׂר בָּֽ֠/אַמָּה מִ/שְּׂפָת֨/וֹ אֶל שְׂפָת֜/וֹ עָג֣וֹל סָבִ֗יב וְ/חָמֵ֤שׁ בָּֽ/אַמָּה֙ קֽוֹמָת֔/וֹ וְ/קָו֙ שְׁלֹשִׁ֣ים בָּֽ/אַמָּ֔ה יָסֹ֥ב אֹת֖/וֹ סָבִֽיב",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:3",
+      "delta": "F3",
+      "rationale": "Retain oxen rather than substituting Kings’ gourds and preserve the casting method.",
+      "source_reference": "2Chr 4:3",
+      "source_verse_sha256": "8b21847e0db0113406e82874f1ae8b95e6d9c5459c230188d35401284fb8e848",
+      "before": "Under it were figures of oxen all around, ten to a cubit, encircling the Sea all around. The oxen were in two rows, cast as one piece with it.",
+      "after": "Figures of oxen encircled it underneath, ten to a cubit, all around the Sea. The oxen were in two rows, cast in one piece with it.",
+      "tsw_comparator": "Under it were figures of oxen all around, ten to a cubit, encircling the Sea all around. The oxen were in two rows, cast as one piece with it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:3",
+          "hebrew": "וּ/דְמ֣וּת בְּקָרִים֩ תַּ֨חַת ל֜/וֹ סָבִ֤יב סָבִיב֙ סוֹבְבִ֣ים אֹת֔/וֹ עֶ֚שֶׂר בָּֽ/אַמָּ֔ה מַקִּיפִ֥ים אֶת הַ/יָּ֖ם סָבִ֑יב שְׁנַ֤יִם טוּרִים֙ הַ/בָּקָ֔ר יְצוּקִ֖ים בְּ/מֻֽצַקְתּֽ/וֹ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:4",
+      "delta": "F2",
+      "rationale": "Keep every orientation and the inward-facing rear portions.",
+      "source_reference": "2Chr 4:4",
+      "source_verse_sha256": "be19e6da6a0ba00833444cef8e766e807d181a4015b4fcc838ad11d056d1b23e",
+      "before": "It stood upon twelve oxen, three facing north, three facing west, three facing south, and three facing east. The Sea was set upon them, and all their hindquarters were inward.",
+      "after": "It stood on twelve oxen: three facing north, three west, three south, and three east. The Sea rested above them, and all their hindquarters faced inward.",
+      "tsw_comparator": "It stood upon twelve oxen, three facing north, three facing west, three facing south, and three facing east. The Sea was set upon them, and all their hindquarters were inward.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.785714,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:4",
+          "hebrew": "עוֹמֵ֞ד עַל שְׁנֵ֧ים עָשָׂ֣ר בָּקָ֗ר שְׁלֹשָׁ֣ה פֹנִ֣ים צָפ֡וֹנָ/ה וּ/שְׁלוֹשָׁה֩ פֹנִ֨ים יָ֜מָּ/ה וּ/שְׁלֹשָׁ֣ה פֹּנִ֣ים נֶ֗גְבָּ/ה וּ/שְׁלֹשָׁה֙ פֹּנִ֣ים מִזְרָ֔חָ/ה וְ/הַ/יָּ֥ם עֲלֵי/הֶ֖ם מִ/לְ/מָ֑עְלָ/ה וְ/כָל אֲחֹרֵי/הֶ֖ם בָּֽיְתָ/ה",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:5",
+      "delta": "F3",
+      "rationale": "Retain thickness, both shape comparisons, and Chronicles’ three-thousand capacity.",
+      "source_reference": "2Chr 4:5",
+      "source_verse_sha256": "396c9ef35ce40aed6a149b11c8b98e4db45f1fabbac663906e632f2f4fe80454",
+      "before": "Its thickness was a handbreadth, and its rim was made like the rim of a cup, like a lily blossom. It held three thousand baths.",
+      "after": "It was a handbreadth thick. Its rim was shaped like the rim of a cup, like a lily blossom. It could hold three thousand baths.",
+      "tsw_comparator": "Its thickness was a handbreadth, and its rim was made like the rim of a cup, like a lily blossom. It held three thousand baths.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:5",
+          "hebrew": "וְ/עָבְי֣/וֹ טֶ֔פַח וּ/שְׂפָת/וֹ֙ כְּ/מַעֲשֵׂ֣ה שְׂפַת כּ֔וֹס פֶּ֖רַח שֽׁוֹשַׁנָּ֑ה מַחֲזִ֣יק בַּתִּ֔ים שְׁלֹ֥שֶׁת אֲלָפִ֖ים יָכִֽיל",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:6",
+      "delta": "F2",
+      "rationale": "Distinguish sacrificial washing from priestly washing and preserve the five-plus-five arrangement.",
+      "source_reference": "2Chr 4:6",
+      "source_verse_sha256": "5b4de5cf54dcc1cfb7558f066614ef5823b386b6abdc099387cc602debffd7a5",
+      "before": "He made ten basins and put five on the right and five on the left to wash in them. The things used for the burnt offering were rinsed in them, but the Sea was for the priests to wash in.",
+      "after": "He made ten basins, placing five on the right and five on the left, for washing. They rinsed the materials for the burnt offering in them, while the Sea was for the priests to wash in.",
+      "tsw_comparator": "He made ten basins and put five on the right and five on the left to wash in them. The things used for the burnt offering were rinsed in them, but the Sea was for the priests to wash in.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.763158,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:6",
+          "hebrew": "וַ/יַּ֣עַשׂ כִּיּוֹרִים֮ עֲשָׂרָה֒ וַ֠/יִּתֵּן חֲמִשָּׁ֨ה מִ/יָּמִ֜ין וַ/חֲמִשָּׁ֤ה מִ/שְּׂמֹאול֙ לְ/רָחְצָ֣ה בָ/הֶ֔ם אֶת מַעֲשֵׂ֥ה הָ/עוֹלָ֖ה יָדִ֣יחוּ בָ֑/ם וְ/הַ/יָּ֕ם לְ/רָחְצָ֥ה לַ/כֹּהֲנִ֖ים בּֽ/וֹ",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:7",
+      "delta": "F2",
+      "rationale": "Keep the design reference and symmetrical placement.",
+      "source_reference": "2Chr 4:7",
+      "source_verse_sha256": "904f8b9d6ec43a818d7f82787cb777cc5fe5bc692e813d2cc175559fd2bb8483",
+      "before": "He made ten gold lampstands according to their design and set them in the temple, five on the right and five on the left.",
+      "after": "He made ten gold lampstands according to their prescribed design and put them in the main hall, five on the right and five on the left.",
+      "tsw_comparator": "He made ten gold lampstands according to their design and set them in the temple, five on the right and five on the left.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.88,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:7",
+          "hebrew": "וַ֠/יַּעַשׂ אֶת מְנֹר֧וֹת הַ/זָּהָ֛ב עֶ֖שֶׂר כְּ/מִשְׁפָּטָ֑/ם וַ/יִּתֵּן֙ בַּֽ/הֵיכָ֔ל חָמֵ֥שׁ מִ/יָּמִ֖ין וְ/חָמֵ֥שׁ מִ/שְּׂמֹֽאול",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:8",
+      "delta": "F2",
+      "rationale": "Retain both furnishing counts and table positions.",
+      "source_reference": "2Chr 4:8",
+      "source_verse_sha256": "66049800bee68312e41e405b3189d97f5a95aa28e6f964086502b19337e4cdda",
+      "before": "He made ten tables and placed them in the temple, five on the right and five on the left. He also made one hundred gold bowls.",
+      "after": "He made ten tables and put them in the main hall, five on the right and five on the left. He also made a hundred gold sprinkling bowls.",
+      "tsw_comparator": "He made ten tables and placed them in the temple, five on the right and five on the left. He also made one hundred gold bowls.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851852,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:8",
+          "hebrew": "וַ/יַּ֣עַשׂ שֻׁלְחָנוֹת֮ עֲשָׂרָה֒ וַ/יַּנַּח֙ בַּֽ/הֵיכָ֔ל חֲמִשָּׁ֥ה מִ/יָּמִ֖ין וַ/חֲמִשָּׁ֣ה מִ/שְּׂמֹ֑אול וַ/יַּ֛עַשׂ מִזְרְקֵ֥י זָהָ֖ב מֵאָֽה",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:13",
+      "delta": "F2",
+      "rationale": "Retain the four-hundred total and two rows on each network.",
+      "source_reference": "2Chr 4:13",
+      "source_verse_sha256": "f81acd66847e4b0399ca6f819cefffeae73934010a782f94a54b16caf80b8e62",
+      "before": "the four hundred pomegranates for the two networks, two rows of pomegranates for each network to cover the two bowls of the capitals that were upon the pillars.",
+      "after": "the four hundred pomegranates for the two networks, two rows of pomegranates for each network covering the two bowl-shaped capitals on top of the pillars;",
+      "tsw_comparator": "the four hundred pomegranates for the two networks, two rows of pomegranates for each network to cover the two bowls of the capitals that were upon the pillars.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.740741,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:13",
+          "hebrew": "וְ/אֶת הָֽ/רִמּוֹנִ֛ים אַרְבַּ֥ע מֵא֖וֹת לִ/שְׁתֵּ֣י הַ/שְּׂבָכ֑וֹת שְׁנַ֨יִם טוּרִ֤ים רִמּוֹנִים֙ לַ/שְּׂבָכָ֣ה הָ/אֶחָ֔ת לְ/כַסּ֗וֹת אֶת שְׁתֵּי֙ גֻּלּ֣וֹת הַ/כֹּֽתָר֔וֹת אֲשֶׁ֖ר עַל פְּנֵ֥י הָ/עַמּוּדִֽים",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:15",
+      "delta": "F2",
+      "rationale": "Preserve the singular Sea and twelve supports.",
+      "source_reference": "2Chr 4:15",
+      "source_verse_sha256": "5e693883cebfc74d99f79ddc8458ed6787d324d831a7045e407a084395d60587",
+      "before": "the one Sea and the twelve oxen beneath it,",
+      "after": "the one Sea and the twelve oxen beneath it;",
+      "tsw_comparator": "the one Sea and the twelve oxen beneath it,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:15",
+          "hebrew": "אֶת הַ/יָּ֖ם אֶחָ֑ד וְ/אֶת הַ/בָּקָ֥ר שְׁנֵים עָשָׂ֖ר תַּחְתָּֽי/ו",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 4:16",
+      "delta": "F3",
+      "rationale": "Keep all utensil categories, the craftsman’s title, and the polished metal.",
+      "source_reference": "2Chr 4:16",
+      "source_verse_sha256": "ce6985b3e5cec693fce5d9778a264dd52dec19a76f69e1a5f2577c35d4570d4c",
+      "before": "the pots, shovels, forks, and all their equipment. Huram-Abiv made them for King Solomon for the house of the LORD from polished bronze.",
+      "after": "and the pots, shovels, forks, and all their utensils. Huram-abi made these of polished bronze for King Solomon for the LORD’s house.",
+      "tsw_comparator": "the pots, shovels, forks, and all their equipment. Huram-Abiv made them for King Solomon for the house of the LORD from polished bronze.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.638298,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 4:16",
+          "hebrew": "וְ/אֶת הַ֠/סִּירוֹת וְ/אֶת הַ/יָּעִ֤ים וְ/אֶת הַ/מִּזְלָגוֹת֙ וְ/אֶת כָּל כְּלֵי/הֶ֔ם עָשָׂ֞ה חוּרָ֥ם אָבִ֛יו לַ/מֶּ֥לֶךְ שְׁלֹמֹ֖ה לְ/בֵ֣ית יְהוָ֑ה נְחֹ֖שֶׁת מָרֽוּק",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 5:3",
+      "delta": "F3",
+      "rationale": "Preserve the male referent and the unnamed festival’s timing.",
+      "source_reference": "2Chr 5:3",
+      "source_verse_sha256": "ca553346ee07d4bd7a1283a5755537e7b9aa48e34aef013caf90b902eeb69e7a",
+      "before": "All the men of Israel assembled to the king at the festival, which was in the seventh month.",
+      "after": "All the men of Israel assembled before the king at the festival in the seventh month.",
+      "tsw_comparator": "All the men of Israel assembled to the king at the festival, which was in the seventh month.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 5:3",
+          "hebrew": "וַ/יִּקָּהֲל֧וּ אֶל הַ/מֶּ֛לֶךְ כָּל אִ֥ישׁ יִשְׂרָאֵ֖ל בֶּ/חָ֑ג ה֖וּא הַ/חֹ֥דֶשׁ הַ/שְּׁבִעִֽי",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 5:5",
+      "delta": "F3",
+      "rationale": "Render the adjacent priests-Levites phrase as Levitical priests while noting the alternative priests and Levites.",
+      "source_reference": "2Chr 5:5",
+      "source_verse_sha256": "b8ca3f8dd30a94deebcf22247dda0e764e40c7a3d467e6aab91f7ccf549cc131",
+      "before": "They brought up the ark, the tent of meeting, and all the holy vessels that were in the tent. The Levitical priests brought them up.",
+      "after": "They brought up the ark, the tent of meeting, and all the holy utensils in the tent. The Levitical priests brought them up.",
+      "tsw_comparator": "They brought up the ark, the tent of meeting, and all the holy vessels that were in the tent. The Levitical priests brought them up.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 5:5",
+          "hebrew": "וַ/יַּעֲל֤וּ אֶת הָ/אָרוֹן֙ וְ/אֶת אֹ֣הֶל מוֹעֵ֔ד וְ/אֶת כָּל כְּלֵ֥י הַ/קֹּ֖דֶשׁ אֲשֶׁ֣ר בָּ/אֹ֑הֶל הֶעֱל֣וּ אֹתָ֔/ם הַ/כֹּהֲנִ֖ים הַ/לְוִיִּֽם",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 5:9",
+      "delta": "F3",
+      "rationale": "Retain the difficult from-the-ark wording and the narrator’s singular enduring referent.",
+      "source_reference": "2Chr 5:9",
+      "source_verse_sha256": "fe0d26942e000fc09d33bbbee58f6a73314152bcd63b9673de9bc7740990b444",
+      "before": "The poles were so long that the ends of the poles were seen from the Holy Place before the inner sanctuary, but they were not seen outside. They are there to this day.",
+      "after": "The poles were so long that their ends could be seen extending from the ark in front of the inner sanctuary, but they could not be seen from outside. It remains there to this day.",
+      "tsw_comparator": "The poles were so long that the ends of the poles were seen from the Holy Place before the inner sanctuary, but they were not seen outside. They are there to this day.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.647059,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 5:9",
+          "hebrew": "וַֽ/יַּאֲרִיכוּ֮ הַ/בַּדִּים֒ וַ/יֵּרָאוּ֩ רָאשֵׁ֨י הַ/בַּדִּ֤ים מִן הָ/אָרוֹן֙ עַל פְּנֵ֣י הַ/דְּבִ֔יר וְ/לֹ֥א יֵרָא֖וּ הַ/ח֑וּצָ/ה וַֽ/יְהִי שָׁ֔ם עַ֖ד הַ/יּ֥וֹם הַ/זֶּֽה",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 5:10",
+      "delta": "F3",
+      "rationale": "Keep the restrictive contents statement and covenant setting.",
+      "source_reference": "2Chr 5:10",
+      "source_verse_sha256": "3383d93cd8b33f0b5f3269b6ae8d3ac7df6e5aae111e10d75beb990564b7aa57",
+      "before": "There was nothing in the ark except the two tablets that Moses put there at Horeb, where the LORD made a covenant with the children of Israel when they came out from Egypt.",
+      "after": "There was nothing in the ark except the two tablets Moses had placed there at Horeb, where the LORD made a covenant with the Israelites when they came out of Egypt.",
+      "tsw_comparator": "There was nothing in the ark except the two tablets that Moses put there at Horeb, where the LORD made a covenant with the children of Israel when they came out from Egypt.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84375,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 5:10",
+          "hebrew": "אֵ֚ין בָּֽ/אָר֔וֹן רַ֚ק שְׁנֵ֣י הַ/לֻּח֔וֹת אֲשֶׁר נָתַ֥ן מֹשֶׁ֖ה בְּ/חֹרֵ֑ב אֲשֶׁ֨ר כָּרַ֤ת יְהוָה֙ עִם בְּנֵ֣י יִשְׂרָאֵ֔ל בְּ/צֵאתָ֖/ם מִ/מִּצְרָֽיִם",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 5:12",
+      "delta": "F2",
+      "rationale": "Keep the full musical personnel, dress, location, instruments, and exact priest count.",
+      "source_reference": "2Chr 5:12",
+      "source_verse_sha256": "314059f2cbda3a9aabf8387fce568a36005055af2e3de1bec4f4c181576f700f",
+      "before": "and all the Levites who were singers, Asaph, Heman, Jeduthun, and their sons and brothers, clothed in fine linen, with cymbals, harps, and lyres, stood east of the altar, and with them one hundred twenty priests blowing trumpets—",
+      "after": "All the Levitical singers—Asaph, Heman, Jeduthun, their sons, and their relatives—stood east of the altar, dressed in fine linen, with cymbals, harps, and lyres. With them were a hundred twenty priests sounding trumpets.",
+      "tsw_comparator": "and all the Levites who were singers, Asaph, Heman, Jeduthun, and their sons and brothers, clothed in fine linen, with cymbals, harps, and lyres, stood east of the altar, and with them one hundred twenty priests blowing trumpets—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.630137,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 5:12",
+          "hebrew": "וְ/הַ/לְוִיִּ֣ם הַ/מְשֹׁרֲרִ֣ים לְ/כֻלָּ֡/ם לְ/אָסָ֡ף לְ/הֵימָ֣ן לִֽ֠/ידֻתוּן וְ/לִ/בְנֵי/הֶ֨ם וְ/לַ/אֲחֵי/הֶ֜ם מְלֻבָּשִׁ֣ים בּ֗וּץ בִּ/מְצִלְתַּ֨יִם֙ וּ/בִ/נְבָלִ֣ים וְ/כִנֹּר֔וֹת עֹמְדִ֖ים מִזְרָ֣ח לַ/מִּזְבֵּ֑חַ וְ/עִמָּ/הֶ֤ם כֹּֽהֲנִים֙ לְ/מֵאָ֣ה וְ/עֶשְׂרִ֔ים מחצררים בַּ/חֲצֹֽצְרֽוֹת",
+          "notes": [
+            "<note type=\"variant\"><catchWord>מחצררים</catchWord><rdg type=\"x-qere\"><w lemma=\"2690\" n=\"0.0\" morph=\"HVhrmpa\" id=\"14Tvm\">מַחְצְרִ֖ים</w></rdg></note>"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 5:13",
+      "delta": "F3",
+      "rationale": "Preserve the repeated unity, recognizable refrain, and repeated house identification.",
+      "source_reference": "2Chr 5:13",
+      "source_verse_sha256": "324efb2336af81946566c3297d118ddd7f99b5df7cab7e1abc4acf8a43514533",
+      "before": "and it happened when the trumpeters and singers were as one, making one voice to praise and give thanks to the LORD, and when they raised their voice with trumpets, cymbals, and instruments of song, and praised the LORD: “For he is good, for his steadfast love is forever,” then the house, the house of the LORD, was filled with a cloud.",
+      "after": "The trumpeters and singers joined as one, making one sound of praise and thanksgiving to the LORD. They raised their voices with trumpets, cymbals, and musical instruments, praising the LORD: “For he is good; his faithful love lasts forever.” Then a cloud filled the house, the LORD’s house.",
+      "tsw_comparator": "and it happened when the trumpeters and singers were as one, making one voice to praise and give thanks to the LORD, and when they raised their voice with trumpets, cymbals, and instruments of song, and praised the LORD: “For he is good, for his steadfast love is forever,” then the house, the house of the LORD, was filled with a cloud.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING",
+      "source_reading": [
+        {
+          "reference": "2Chr 5:13",
+          "hebrew": "וַ/יְהִ֣י כְ֠/אֶחָד ל/מחצצרים וְ/לַ/מְשֹֽׁרֲרִ֜ים לְ/הַשְׁמִ֣יעַ קוֹל אֶחָ֗ד לְ/הַלֵּ֣ל וּ/לְ/הֹדוֹת֮ לַ/יהוָה֒ וּ/כְ/הָרִ֣ים ק֠וֹל בַּ/חֲצֹצְר֨וֹת וּ/בִ/מְצִלְתַּ֜יִם וּ/בִ/כְלֵ֣י הַ/שִּׁ֗יר וּ/בְ/הַלֵּ֤ל לַ/יהוָה֙ כִּ֣י ט֔וֹב כִּ֥י לְ/עוֹלָ֖ם חַסְדּ֑/וֹ וְ/הַ/בַּ֛יִת מָלֵ֥א עָנָ֖ן בֵּ֥ית יְהוָֽה",
+          "notes": [
+            "<note type=\"variant\"><catchWord>ל/מחצצרים</catchWord><rdg type=\"x-qere\"><w lemma=\"l/2690\" morph=\"HRd/Vprmpa\" id=\"14iTM\">לַ/מְחַצְּרִ֨ים</w></rdg></note>"
+          ]
+        }
+      ]
+    }
+  ]
+}

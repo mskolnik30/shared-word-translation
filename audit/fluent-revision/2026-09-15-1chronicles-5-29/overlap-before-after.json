@@ -1,0 +1,5381 @@
+{
+  "method": "NFKC/casefold words, punctuation ignored; SequenceMatcher autojunk=false; near threshold 0.90. Triage only, no quota, no proof of fidelity or independent authorship.",
+  "summary": {
+    "before": {
+      "verses": 766,
+      "identical_words": 748,
+      "near_identical": 18,
+      "mean_word_similarity": 0.998951
+    },
+    "after": {
+      "verses": 766,
+      "identical_words": 57,
+      "near_identical": 60,
+      "mean_word_similarity": 0.719873
+    }
+  },
+  "verses": [
+    {
+      "reference": "1 Chronicles 5:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.674419,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.466667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.618182,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.576923,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.64,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.90566,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.536585,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.393443,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:20",
+      "before_similarity": 0.973684,
+      "after_similarity": 0.676056,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.680851,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.756757,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.897959,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.653061,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 5:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.838095,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.421053,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.424242,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.454545,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.416667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.428571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.421053,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.454545,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.428571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.651163,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:33",
+      "before_similarity": 0.952381,
+      "after_similarity": 0.883721,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:34",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:35",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:36",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:37",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:38",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:40",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:41",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:42",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:43",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:44",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:45",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:46",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:47",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 6:48",
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:49",
+      "before_similarity": 0.977778,
+      "after_similarity": 0.738095,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:50",
+      "before_similarity": 1.0,
+      "after_similarity": 0.384615,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:51",
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:52",
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:53",
+      "before_similarity": 1.0,
+      "after_similarity": 0.4,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:54",
+      "before_similarity": 1.0,
+      "after_similarity": 0.541667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:55",
+      "before_similarity": 1.0,
+      "after_similarity": 0.48,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:56",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:57",
+      "before_similarity": 1.0,
+      "after_similarity": 0.421053,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:58",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:59",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:60",
+      "before_similarity": 1.0,
+      "after_similarity": 0.347826,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:61",
+      "before_similarity": 1.0,
+      "after_similarity": 0.465116,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:62",
+      "before_similarity": 1.0,
+      "after_similarity": 0.375,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:63",
+      "before_similarity": 1.0,
+      "after_similarity": 0.181818,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:64",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:65",
+      "before_similarity": 1.0,
+      "after_similarity": 0.384615,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:66",
+      "before_similarity": 1.0,
+      "after_similarity": 0.344828,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:67",
+      "before_similarity": 1.0,
+      "after_similarity": 0.52381,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:68",
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:69",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:70",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:71",
+      "before_similarity": 1.0,
+      "after_similarity": 0.391304,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:72",
+      "before_similarity": 1.0,
+      "after_similarity": 0.521739,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:73",
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:74",
+      "before_similarity": 1.0,
+      "after_similarity": 0.521739,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:75",
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:76",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:77",
+      "before_similarity": 1.0,
+      "after_similarity": 0.363636,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:78",
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:79",
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:80",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 6:81",
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.369231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.342857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.489796,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.363636,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.466667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.766667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.516129,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.64,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:36",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:37",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 7:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 7:40",
+      "before_similarity": 1.0,
+      "after_similarity": 0.275862,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:1",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 8:2",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 8:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:4",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 8:5",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 8:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.341463,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:11",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 8:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.594595,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:30",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 8:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:36",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 8:37",
+      "before_similarity": 1.0,
+      "after_similarity": 0.48,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 8:40",
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:1",
+      "before_similarity": 0.966667,
+      "after_similarity": 0.641509,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.521739,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.930233,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.578947,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.863636,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.945455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.458333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.88,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.65,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.641975,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.553846,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.594595,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.64,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.457143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.585366,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.604651,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.488889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.654545,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:36",
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:37",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 9:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.551724,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:40",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 9:41",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:42",
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:43",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 9:44",
+      "before_similarity": 1.0,
+      "after_similarity": 0.702703,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.470588,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.746988,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.926829,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.618182,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.542373,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 10:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.710526,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.712329,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.851064,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.85,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.678571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.901961,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.487805,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.702703,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.630435,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.722892,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.725,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:27",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:28",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:29",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:30",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:33",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:34",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:36",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:37",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:40",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:41",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:42",
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:43",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:44",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 11:45",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:46",
+      "before_similarity": 1.0,
+      "after_similarity": 0.96,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 11:47",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 12:1",
+      "before_similarity": 0.966667,
+      "after_similarity": 0.83871,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.488889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.952381,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:6",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 12:7",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 12:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.638889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:10",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 12:11",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 12:12",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 12:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.721311,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.796296,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:18",
+      "before_similarity": 0.978261,
+      "after_similarity": 0.863636,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.549451,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.851064,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.585366,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.77193,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.454545,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.181818,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.347826,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:32",
+      "before_similarity": 0.958333,
+      "after_similarity": 0.75,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:33",
+      "before_similarity": 0.966667,
+      "after_similarity": 0.461538,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:36",
+      "before_similarity": 0.9375,
+      "after_similarity": 0.461538,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:37",
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.756757,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 12:40",
+      "before_similarity": 1.0,
+      "after_similarity": 0.805556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.849315,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.829268,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.73913,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.784314,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 13:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.509091,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:7",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 14:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.819672,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.712329,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.7,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 14:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.677966,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.765432,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.730769,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.693878,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.784314,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:19",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 15:20",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 15:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:23",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 15:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.837209,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.766667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 15:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.844444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.792453,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:8",
+      "before_similarity": 0.903226,
+      "after_similarity": 0.9375,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:10",
+      "before_similarity": 0.933333,
+      "after_similarity": 0.866667,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:11",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 16:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.88,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:16",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 16:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.72,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:21",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 16:22",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 16:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.64,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.965517,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:27",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 16:28",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 16:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.484848,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:33",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 16:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:35",
+      "before_similarity": 1.0,
+      "after_similarity": 0.77193,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:36",
+      "before_similarity": 1.0,
+      "after_similarity": 0.954545,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:37",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:38",
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:39",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:40",
+      "before_similarity": 1.0,
+      "after_similarity": 0.786885,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:41",
+      "before_similarity": 1.0,
+      "after_similarity": 0.877193,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:42",
+      "before_similarity": 1.0,
+      "after_similarity": 0.745098,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 16:43",
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.80597,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.952381,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.754098,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.74359,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.872727,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.885246,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:12",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 17:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.958904,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.810811,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.56,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.983051,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.704225,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.734694,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.808989,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.746667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.872727,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 17:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.678571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.878049,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.701754,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.870968,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 18:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:1",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 19:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.656716,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.865672,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.716981,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.703704,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.851852,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.594595,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.765957,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.644068,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.698413,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.653846,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 19:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 20:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.675,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 20:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.716049,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 20:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.684211,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 20:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 20:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.813559,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 20:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 20:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 20:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.536585,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:1",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 21:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:3",
+      "before_similarity": 0.97561,
+      "after_similarity": 0.613333,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.648649,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.529412,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.793103,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.516129,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.767857,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.771429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.733945,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.678571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.72,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.65,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:24",
+      "before_similarity": 0.972222,
+      "after_similarity": 0.828571,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.816901,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.830189,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 21:30",
+      "before_similarity": 0.958333,
+      "after_similarity": 0.755556,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.878049,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.862745,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.781609,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.93617,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.948718,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.886364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.985507,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.836364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.867925,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.819672,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.703297,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.810127,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 22:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.721649,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:1",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 23:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.863636,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.648649,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.784314,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.739726,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.307692,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.307692,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.394737,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.411765,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.478873,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.561404,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.566667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 23:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.71875,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.972973,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.358209,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.301887,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.783505,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.7,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.6,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.470588,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.210526,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.315789,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.347826,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.363636,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.285714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.611111,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 24:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.506329,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.72973,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.510638,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.7,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.981132,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.630137,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:7",
+      "before_similarity": 0.956522,
+      "after_similarity": 0.410256,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.390244,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 25:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.529412,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.681818,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.482759,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.90566,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.416667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.410256,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.585366,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.611111,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.96,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.25,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.766667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.507937,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.5,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 26:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.805556,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.582524,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.702703,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.553191,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.791667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.772727,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.772727,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:8",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 27:9",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 27:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.894737,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:11",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 27:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:13",
+      "before_similarity": 1.0,
+      "after_similarity": 1.0,
+      "before_identical": true,
+      "after_identical": true
+    },
+    {
+      "reference": "1 Chronicles 27:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.894737,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.75,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.641509,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:26",
+      "before_similarity": 0.944444,
+      "after_similarity": 0.266667,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.622222,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.619048,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.551724,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:31",
+      "before_similarity": 1.0,
+      "after_similarity": 0.411765,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:32",
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:33",
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 27:34",
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.728972,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.897959,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:3",
+      "before_similarity": 0.92,
+      "after_similarity": 0.816327,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.9,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.698413,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:8",
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.728972,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.603774,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.432432,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.539683,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.644068,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.712329,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.594595,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.584615,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.625,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.807692,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 28:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.635294,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:1",
+      "before_similarity": 1.0,
+      "after_similarity": 0.8,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:2",
+      "before_similarity": 1.0,
+      "after_similarity": 0.811321,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:3",
+      "before_similarity": 1.0,
+      "after_similarity": 0.547945,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:4",
+      "before_similarity": 1.0,
+      "after_similarity": 0.844444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:5",
+      "before_similarity": 1.0,
+      "after_similarity": 0.596491,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:6",
+      "before_similarity": 1.0,
+      "after_similarity": 0.763636,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:7",
+      "before_similarity": 1.0,
+      "after_similarity": 0.852941,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:8",
+      "before_similarity": 0.954545,
+      "after_similarity": 0.75,
+      "before_identical": false,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:9",
+      "before_similarity": 1.0,
+      "after_similarity": 0.627451,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:10",
+      "before_similarity": 1.0,
+      "after_similarity": 0.84,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:11",
+      "before_similarity": 1.0,
+      "after_similarity": 0.885714,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:12",
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:13",
+      "before_similarity": 1.0,
+      "after_similarity": 0.88,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:14",
+      "before_similarity": 1.0,
+      "after_similarity": 0.776119,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:15",
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:16",
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:17",
+      "before_similarity": 1.0,
+      "after_similarity": 0.864198,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:18",
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:19",
+      "before_similarity": 1.0,
+      "after_similarity": 0.741935,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:20",
+      "before_similarity": 1.0,
+      "after_similarity": 0.783784,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:21",
+      "before_similarity": 1.0,
+      "after_similarity": 0.816901,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:22",
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:23",
+      "before_similarity": 1.0,
+      "after_similarity": 0.844444,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:24",
+      "before_similarity": 1.0,
+      "after_similarity": 0.648649,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:25",
+      "before_similarity": 1.0,
+      "after_similarity": 0.836364,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:26",
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:27",
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:28",
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:29",
+      "before_similarity": 1.0,
+      "after_similarity": 0.847458,
+      "before_identical": true,
+      "after_identical": false
+    },
+    {
+      "reference": "1 Chronicles 29:30",
+      "before_similarity": 1.0,
+      "after_similarity": 0.862745,
+      "before_identical": true,
+      "after_identical": false
+    }
+  ]
+}

@@ -4,78 +4,57 @@ testament: OT
 chapter: 5
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-1-5-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 5
-
-## The Temple Furnishings Are Brought In
+## The ark brought into the temple
 
 <p>
-v01: Thus all the work that Solomon did for the house of the LORD was finished. Solomon brought in the holy things of David his father—the silver, the gold, and all the vessels—and put them in the treasuries of the house of God.
+v01: When all Solomon’s work for the LORD’s house was finished, he brought in the things his father David had dedicated. He placed the silver, gold, and all the utensils in the treasuries of God’s house.
+v02: Then Solomon assembled Israel’s elders, all the tribal heads, and the leaders of the Israelite ancestral houses in Jerusalem, to bring the ark of the LORD’s covenant up from the City of David, that is, Zion.
+v03: All the men of Israel assembled before the king at the festival in the seventh month.
 </p>
 
-## The Ark Is Brought to the Temple
-
 <p>
-v02: Then Solomon assembled the elders of Israel and all the heads of the tribes, the leaders of the ancestral houses of the children of Israel, to Jerusalem, to bring up the ark of the covenant of the LORD from the city of David, which is Zion.
-
-v03: All the men of Israel assembled to the king at the festival, which was in the seventh month.
-
-v04: All the elders of Israel came, and the Levites carried the ark.
-
-v05: They brought up the ark, the tent of meeting, and all the holy vessels that were in the tent. The Levitical priests brought them up.
-
-v06: King Solomon and all the congregation of Israel assembled before him were sacrificing sheep and cattle that could not be counted or numbered for multitude.
-
-v07: The priests brought the ark of the covenant of the LORD to its place, to the inner sanctuary of the house, to the Most Holy Place, beneath the wings of the cherubim.
-
-v08: For the cherubim spread their wings over the place of the ark, and the cherubim covered the ark and its poles from above.
-
-v09: The poles were so long that the ends of the poles were seen from the Holy Place before the inner sanctuary, but they were not seen outside. They are there to this day.
-
-v10: There was nothing in the ark except the two tablets that Moses put there at Horeb, where the LORD made a covenant with the children of Israel when they came out from Egypt.
+v04: All Israel’s elders came, and the Levites lifted the ark.
+v05: They brought up the ark, the tent of meeting, and all the holy utensils in the tent. The Levitical priests brought them up.
+v06: King Solomon and the whole congregation of Israel gathered with him before the ark, sacrificing so many sheep and cattle that they could not be counted or numbered.
 </p>
 
-## The Glory of the LORD Fills the Temple
+<p>
+v07: The priests brought the ark of the LORD’s covenant to its place in the inner sanctuary of the house, the Most Holy Place, beneath the wings of the cherubim.
+v08: The cherubim spread their wings over the ark’s place, covering the ark and its poles from above.
+</p>
 
 <p>
-v11: And it happened when the priests came out from the Holy Place—for all the priests who were present had consecrated themselves without regard to their divisions—
+v09: The poles were so long that their ends could be seen extending from the ark in front of the inner sanctuary, but they could not be seen from outside. It remains there to this day.
+v10: There was nothing in the ark except the two tablets Moses had placed there at Horeb, where the LORD made a covenant with the Israelites when they came out of Egypt.
+</p>
 
-v12: and all the Levites who were singers, Asaph, Heman, Jeduthun, and their sons and brothers, clothed in fine linen, with cymbals, harps, and lyres, stood east of the altar, and with them one hundred twenty priests blowing trumpets—
+## The glory fills the house
 
-v13: and it happened when the trumpeters and singers were as one, making one voice to praise and give thanks to the LORD, and when they raised their voice with trumpets, cymbals, and instruments of song, and praised the LORD:
-
-“For he is good,
-for his steadfast love is forever,”
-
-then the house, the house of the LORD, was filled with a cloud.
-
-v14: The priests were not able to stand to minister because of the cloud, for the glory of the LORD filled the house of God.
+<p>
+v11: The priests came out of the holy place. All the priests present had consecrated themselves, without regard to their divisions.
+v12: All the Levitical singers—Asaph, Heman, Jeduthun, their sons, and their relatives—stood east of the altar, dressed in fine linen, with cymbals, harps, and lyres. With them were a hundred twenty priests sounding trumpets.
+v13: The trumpeters and singers joined as one, making one sound of praise and thanksgiving to the LORD. They raised their voices with trumpets, cymbals, and musical instruments, praising the LORD: “For he is good; his faithful love lasts forever.” Then a cloud filled the house, the LORD’s house.
+v14: The priests could not remain standing to serve because of the cloud, for the glory of the LORD filled God’s house.
 </p>
 
 ## Notes
 
-v03: The seventh-month festival is the Festival of Booths.
+v03: The festival in the seventh month is the Feast of Shelters, though it is not named in this verse.
 
-v10: Chronicles, like 1 Kings, says only the two stone tablets were in the ark at this point.
+v05: The Hebrew places “priests” and “Levites” together without “and.” It may mean Levitical priests, or priests and Levites as two groups.
 
-v11–13: Chronicles strongly emphasizes organized Levitical music and united worship at the temple dedication.
-
-v14: The cloud signifies divine presence and recalls the tabernacle in Exodus 40.
+v09: The Hebrew says “from the ark,” unlike the “from the holy place” wording in 1 Kings 8:8. Its closing verb is singular; the ark is the likely referent of “it.” “To this day” belongs to the narrator’s historical voice.
 
 ## Vocabulary
 
-v02: אֲרוֹן הַבְּרִית (aron ha-berit)
-“Ark of the covenant.”
+v07: Most Holy Place
+The innermost sanctuary where the ark was placed.
 
-v07: דְּבִיר (devir)
-“Inner sanctuary.” The Most Holy Place.
-
-v11: קָדַשׁ (qadash)
-“To consecrate.” Priests prepare for sacred service.
-
-v13: חֶסֶד (hesed)
-“Steadfast love.”
-
-v14: כְּבוֹד יְהוָה (kevod YHWH)
-“Glory of the LORD.”
+v13: Faithful love
+Hesed: enduring loyalty and kindness. The refrain repeats 1 Chronicles 16:34.

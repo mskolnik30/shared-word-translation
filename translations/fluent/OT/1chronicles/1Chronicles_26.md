@@ -4,170 +4,100 @@ testament: OT
 chapter: 26
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1chronicles-5-29-biblical-fluency-2026-09-15
 ---
 
+## Gatekeeping families
+
 <p>
-v01: For the divisions of the gatekeepers: of the Korahites, Meshelemiah son of Kore, from the sons of Asaph.
+v01: These were the gatekeepers’ divisions. From the Korahites came Meshelemiah son of Kore, of Asaph’s descendants.
+v02: Meshelemiah’s sons were Zechariah the firstborn, Jediael second, Zebadiah third, Jathniel fourth,
+v03: Elam fifth, Jehohanan sixth, and Eliehoenai seventh.
 </p>
 
 <p>
-v02: Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
+v04: Obed-edom’s sons were Shemaiah the firstborn, Jehozabad second, Joah third, Sacar fourth, Nethanel fifth,
+v05: Ammiel sixth, Issachar seventh, and Peullethai eighth, for God had blessed him.
+v06: His son Shemaiah also had sons who led their ancestral house, for they were capable men.
+v07: Shemaiah’s sons were Othni, Rephael, Obed, and Elzabad; his relatives Elihu and Semachiah were also capable men.
+v08: All these were Obed-edom’s descendants. They, their sons, and their relatives were capable men with strength for the service—sixty-two belonging to Obed-edom.
 </p>
 
 <p>
-v03: Elam the fifth, Jehohanan the sixth, and Eliehoenai the seventh.
+v09: Meshelemiah had eighteen sons and relatives, all capable men.
 </p>
 
 <p>
-v04: Obed-edom had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sakhar the fourth, and Nethanel the fifth,
+v10: Hosah, from Merari’s descendants, had sons. Shimri was the leader; although he was not the firstborn, his father appointed him leader.
+v11: Hilkiah was second, Tebaliah third, and Zechariah fourth. Hosah’s sons and relatives totaled thirteen.
+</p>
+
+## Gate assignments
+
+<p>
+v12: These divisions of gatekeepers, under their leading men, had duties like their relatives, serving in the LORD’s house.
+v13: They cast lots for each gate by ancestral house, small and great alike.
+v14: The lot for the east fell to Shelemiah. They cast lots for his son Zechariah, a wise counselor, and his lot came out for the north.
+v15: The south fell to Obed-edom, and the storehouse to his sons.
+v16: The west fell to Shuppim and Hosah, including the Shallecheth Gate on the ascending road, with guards stationed opposite one another.
 </p>
 
 <p>
-v05: Ammiel the sixth, Issachar the seventh, and Peullethai the eighth; for God had blessed him.
+v17: Six Levites were stationed on the east, four each day on the north, four each day on the south, and two at each storehouse.
+v18: At the Parbar on the west, four were on the road and two at the Parbar.
+v19: These were the gatekeepers’ divisions from the Korahites and Merarites.
+</p>
+
+## Treasuries
+
+<p>
+v20: Among the Levites, Ahijah was in charge of the treasuries of God’s house and the treasuries of dedicated gifts.
+v21: From Ladan’s descendants, the Gershonites belonging to Ladan, the head of the ancestral houses of Ladan the Gershonite was Jehieli.
+v22: Jehieli’s sons, Zetham and his brother Joel, were in charge of the treasuries of the LORD’s house.
 </p>
 
 <p>
-v06: To his son Shemaiah were born sons who ruled their ancestral house, for they were mighty warriors.
+v23: From the Amramites, Izharites, Hebronites, and Uzzielites:
+v24: Shebuel son of Gershom, son of Moses, was chief officer over the treasuries.
+v25: His relatives through Eliezer were Rehabiah his son, Jeshaiah his son, Joram his son, Zichri his son, and Shelomith his son.
 </p>
 
 <p>
-v07: The sons of Shemaiah: Othni, Rephael, Obed, and Elzabad; and his brothers, Elihu and Semakiah, were capable men.
+v26: This Shelomoth and his relatives oversaw all the treasuries of dedicated gifts given by King David, the heads of ancestral houses, the commanders of thousands and hundreds, and the army commanders.
+v27: They dedicated some of the plunder taken in war to maintain the LORD’s house.
+v28: Everything dedicated by Samuel the seer, Saul son of Kish, Abner son of Ner, and Joab son of Zeruiah—all the dedicated gifts—was under Shelomith and his relatives.
 </p>
 
-<p>
-v08: All these were from the sons of Obed-edom: they, their sons, and their brothers, capable men with strength for the service—sixty-two belonging to Obed-edom.
-</p>
+## Duties throughout Israel
 
 <p>
-v09: Meshelemiah had sons and brothers, capable men: eighteen.
-</p>
-
-<p>
-v10: Hosah, from the sons of Merari, had sons: Shimri was the chief, though he was not the firstborn; his father made him chief.
-</p>
-
-<p>
-v11: Hilkiah was second, Tabaliah third, and Zechariah fourth. All the sons and brothers of Hosah were thirteen.
-</p>
-
-<p>
-v12: These divisions of the gatekeepers, the leading men, had duties alongside their brothers in serving in the house of the LORD.
-</p>
-
-<p>
-v13: They cast lots, small and great alike, according to their ancestral houses, for gate after gate.
-</p>
-
-<p>
-v14: The lot for the east fell to Shelemiah. Then lots were cast for his son Zechariah, a wise counselor, and his lot came out for the north.
-</p>
-
-<p>
-v15: For Obed-edom, the south; and for his sons, the storehouse building.
-</p>
-
-<p>
-v16: For Shuppim and Hosah, the west, with Shalleketh Gate on the ascending roadway: guard post alongside guard post.
-</p>
-
-<p>
-v17: On the east were six Levites; on the north, four each day; on the south, four each day; and at the storehouses, two by two.
-</p>
-
-<p>
-v18: At the Parbar on the west, there were four at the roadway and two at the Parbar.
-</p>
-
-<p>
-v19: These were the divisions of the gatekeepers among the sons of Korah and the sons of Merari.
-</p>
-
-<p>
-v20: As for the Levites, Ahijah was over the treasuries of the house of God and over the treasuries of the holy things.
-</p>
-
-<p>
-v21: The sons of Ladan, the sons of the Gershonite Ladan: the heads of the ancestral houses of Ladan the Gershonite were Jehieli.
-</p>
-
-<p>
-v22: The sons of Jehieli, Zetham and Joel his brother, were over the treasuries of the house of the LORD.
-</p>
-
-<p>
-v23: For the Amramites, the Izharites, the Hebronites, and the Uzzielites:
-</p>
-
-<p>
-v24: Shebuel son of Gershom, son of Moses, was chief over the treasuries.
-</p>
-
-<p>
-v25: His relatives through Eliezer were: Rehabeiah his son, Isaiah his son, Joram his son, Zichri his son, and Shelomoth his son.
-</p>
-
-<p>
-v26: This Shelomoth and his brothers were over all the treasuries of the holy things that King David, the heads of the ancestral houses, the commanders of thousands and hundreds, and the commanders of the army had dedicated.
-</p>
-
-<p>
-v27: From the wars and from the spoil they had dedicated things to strengthen the house of the LORD.
-</p>
-
-<p>
-v28: Everything that Samuel the seer, Saul son of Kish, Abner son of Ner, and Joab son of Zeruiah had dedicated—everything dedicated—was under the care of Shelomith and his brothers.
-</p>
-
-<p>
-v29: Of the Izharites, Kenaniah and his sons were assigned to the outside work over Israel, as officials and judges.
-</p>
-
-<p>
-v30: Of the Hebronites, Hashabiah and his brothers, one thousand seven hundred capable men, were assigned to the oversight of Israel west of the Jordan, for every work of the LORD and for the service of the king.
-</p>
-
-<p>
-v31: Of the Hebronites, Jerijah was chief among the Hebronites according to his generations and ancestral houses. In the fortieth year of David’s reign, they were sought out, and mighty warriors were found among them at Jazer of Gilead.
-</p>
-
-<p>
-v32: His brothers were capable men, two thousand seven hundred heads of ancestral houses. King David appointed them over the Reubenites, the Gadites, and the half-tribe of Manasseh, for every matter of God and every matter of the king.
+v29: From the Izharites, Chenaniah and his sons handled outside duties for Israel as officials and judges.
+v30: From the Hebronites, Hashabiah and his relatives, 1,700 capable men, supervised Israel west of the Jordan in all the LORD’s work and the king’s service.
+v31: Jeriah was the head of the Hebronites according to their ancestral genealogies. In the fortieth year of David’s reign, a search was made among them, and capable men were found at Jazer in Gilead.
+v32: His relatives were 2,700 capable men, heads of ancestral houses. King David appointed them over the Reubenites, Gadites, and the half-tribe of Manasseh for every matter concerning God and the king.
 </p>
 
 ## Notes
 
-v10: Shimri is called “the chief” even though he was not the firstborn. The text does not explain the appointment, but explicitly distinguishes appointed leadership from birth order.
+v01: Asaph is retained here; a related genealogy gives Ebiasaph in 9:19.
 
-v13: Casting lots distributes the gate assignments among “small and great alike.” The phrase emphasizes that status did not determine placement; each ancestral house received a gate assignment.
+v07: The attachment of “his relatives” is uncertain; the draft does not assign an unstated father to Elihu and Semachiah.
 
-v16: “Guard post alongside guard post” preserves the compact Hebrew expression, which likely describes corresponding or opposite watch stations.
+v16: Shuppim is retained in this difficult line; it may reflect a textual problem.
 
-v18: *Parbar* is a location or structure associated with the western side of the temple complex. Its precise meaning and location are uncertain.
+v18: Parbar is an uncertain architectural term, perhaps a colonnade or an area adjoining the court.
 
-v26–28: The treasuries include things dedicated by David and other leaders, including goods from war and spoil. These materials are presented as consecrated for strengthening the house of the LORD.
+v20: The Hebrew has Ahijah; an ancient Greek reading instead refers to “their relatives.”
 
-v29–32: Levitical service extends beyond temple gates and treasuries into public administration. Their work concerns both “every matter of God” and “every matter of the king,” holding religious and royal responsibilities together without collapsing them.
+v25–28: Shelomith follows the read form in verse 25; Shelomoth in verse 26 and Shelomith in verse 28 remain as given.
 
 ## Vocabulary
 
-v01: - **v1: מַחֲלֹקֶת (*maḥăloqet*)** — “division.” The term frames the chapter’s ordered distribution of gatekeeping, treasury, and administrative responsibilities.
+v26: Dedicated gifts
+Property set apart for sacred use.
 
-v12: מִשְׁמֶרֶת (mishmeret)
-“duty,” “charge,” or “watch.” Here it describes an assigned responsibility in the house of the LORD, not merely standing guard.
-
-v13: גּוֹרָל (goral)
-“lot.” The lots allocate service assignments across the ancestral houses, from the small to the great.
-
-v20: - **v20: אוֹצָר (*’otsar*)** — “treasury” or “storehouse.” The chapter distinguishes treasuries of the house of God from treasuries holding consecrated things.
-
-v26: קֹדֶשׁ (qodesh)
-“holiness,” “holy thing.” The dedicated materials are treated as belonging to the sphere of what is set apart for God.
-
-v27: - **v27: חָזַק (*ḥazaq*)** — “to strengthen.” Spoil dedicated from war serves to strengthen or support the house of the LORD.
-
-v29: - **v29: מְלָאכָה (*mela’khah*)** — “work” or “service.” The Levites’ “outside work” places some of their vocation in the wider life and administration of Israel.
-
-v32: - **v32: דְּבַר (*davar*)** — “word,” “matter,” or “affair.” The closing phrase encompasses both matters of God and matters of the king.
-
-v01: מַחֲלֹקֶת (maḥăloqet)
-“division.” The term frames the chapter’s ordered distribution of gatekeeping, treasury, and administrative responsibilities.
+v29: Outside duties
+Administrative and judicial service beyond the sanctuary itself.

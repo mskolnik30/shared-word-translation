@@ -306,6 +306,16 @@
       "scope": "1 Chronicles 1–4",
       "verses": 176,
       "ledger": "audit/fluent-revision/2026-09-14-1chronicles-1-4/1chronicles-verse-review.json"
+    },
+    {
+      "scope": "1 Chronicles 5–29",
+      "verses": 766,
+      "ledger": "audit/fluent-revision/2026-09-15-1chronicles-5-29/1chronicles-verse-review.json"
+    },
+    {
+      "scope": "2 Chronicles 1–5",
+      "verses": 88,
+      "ledger": "audit/fluent-revision/2026-09-15-2chronicles-1-5/2chronicles-verse-review.json"
     }
   ],
   "next_work": [
@@ -326,8 +336,16 @@
       "action": "Review sustained voice, royal names and dates, recurring formulas, and connections with 1 Kings; authoring review only."
     },
     {
-      "scope": "1 Chronicles 5–29, then 2 Chronicles 1–5",
-      "action": "Next thirty-chapter drafting target, subject to careful complete source reading and verified mappings. Keep genealogical relationships and temple vocabulary clear."
+      "scope": "Whole-book 1 Chronicles consistency review",
+      "action": "Review the complete book and its connections to Samuel, Kings, and 2 Chronicles; rebind affected earlier ledgers if text changes."
+    },
+    {
+      "scope": "2 Chronicles 6–35",
+      "action": "Next thirty-chapter drafting target. Continue independent source reading, preserve the temple prayer and each reign’s narrative, and verify all verse mappings."
+    },
+    {
+      "scope": "2 Chronicles 36, then Ezra",
+      "action": "Finish Chronicles, review the whole book for consistency, and verify the pinned Hebrew and Aramaic sources before beginning Ezra."
     }
   ],
   "standards": [
@@ -382,5 +400,5 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt requested thirty chapters per large batch where careful source work permits. This batch completes 1 Kings 22, 2 Kings 1–25, and 1 Chronicles 1–4: thirty chapters, 948 public verses. Whole-book 1 and 2 Samuel consistency passes remain explicitly queued; whole-book Kings passes are also queued. No routine approval pause or overlap quota."
+  "batch_preference": "Matt requests thirty complete chapters where careful source work permits. This batch completes 1 Chronicles 5–29 and 2 Chronicles 1–5: thirty chapters, 854 public verses. Whole-book Samuel, Kings, and 1 Chronicles authoring consistency passes remain explicitly queued. No routine approval pause or overlap quota."
 }

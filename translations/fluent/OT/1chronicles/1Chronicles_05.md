@@ -4,105 +4,70 @@ testament: OT
 chapter: 5
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1chronicles-5-29-biblical-fluency-2026-09-15
 ---
 
+## Reuben and the eastern tribes
+
 <p>
-v01: Now the sons of Reuben, the firstborn of Israel—for he was the firstborn, but because he defiled his father's bed, his birthright was given to the sons of Joseph, son of Israel, so that he is not recorded in the genealogy according to the firstborn.
+v01: These are the descendants of Reuben, Israel’s firstborn. He was the firstborn, but when he defiled his father’s bed, his birthright was given to the sons of Joseph son of Israel. The genealogy was not to be reckoned by birthright.
+v02: Judah became strong among his brothers, and a ruler came from him, but the birthright belonged to Joseph.
 </p>
 
 <p>
-v02: Though Judah prevailed over his brothers, and from him came a ruler, the birthright belonged to Joseph.
+v03: Reuben, Israel’s firstborn, had these sons: Hanoch, Pallu, Hezron, and Carmi.
+v04: Joel’s line continued through his son Shemaiah, then Gog, then Shimei,
+v05: then Micah, Reaiah, Baal,
+v06: and Beerah, whom Tilgath-pilneser king of Assyria deported. Beerah was a leader of the Reubenites.
 </p>
 
 <p>
-v03: The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi.
+v07: His relatives, listed by clans in their genealogical records, included Jeiel the head, Zechariah,
+v08: and Bela son of Azaz, son of Shema, son of Joel. Bela lived in Aroer, with his territory extending to Nebo and Baal-meon.
+v09: To the east he occupied land as far as the edge of the wilderness stretching from the Euphrates River, because their herds had grown numerous in Gilead.
+v10: In Saul’s days they made war on the Hagrites and defeated them. They settled in their tents throughout the region east of Gilead.
 </p>
 
 <p>
-v04: The sons of Joel: Shemaiah his son, Gog his son, Shimei his son,
-v05: Micah his son, Reaiah his son, Baal his son,
-v06: and Beerah his son, whom Tiglath-Pileser king of Assyria carried into exile. He was leader of the Reubenites.
+v11: The descendants of Gad lived beside them in Bashan, as far as Salecah.
+v12: Joel was the head, Shapham second, with Janai and Shaphat in Bashan.
+v13: Their relatives by ancestral household were Michael, Meshullam, Sheba, Jorai, Jacan, Zia, and Eber—seven.
+v14: They were descendants of Abihail son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz.
+v15: Ahi son of Abdiel, son of Guni, headed their ancestral household.
+v16: They lived in Gilead, in Bashan and its villages, and in all Sharon’s pasturelands out to their boundaries.
+v17: All of them were entered in genealogical records in the days of Jotham king of Judah and Jeroboam king of Israel.
+</p>
+
+## War and exile
+
+<p>
+v18: The Reubenites, Gadites, and half-tribe of Manasseh had 44,760 capable fighting men, trained for war, who carried shield and sword and drew the bow.
+v19: They fought the Hagrites, Jetur, Naphish, and Nodab.
+v20: They received help against them, and the Hagrites and all their allies were handed over to them. They had cried out to God during the battle, and he answered because they trusted him.
+v21: They captured the livestock: fifty thousand camels, two hundred fifty thousand sheep and goats, and two thousand donkeys. They also took a hundred thousand people captive.
+v22: Many fell slain, because the battle was from God. The victors lived in their place until the exile.
 </p>
 
 <p>
-v07: His brethren according to their families, in their genealogical records, were the first: Jeiel and Zechariah,
-v08: and Bela the son of Azaz, the son of Shema, the son of Joel. He inhabited Aroer, as far as Nebo and Baal Meon.
-</p>
-
-<p>
-v09: He also dwelt to the east as far as the entrance of the wilderness to the river Euphrates, because their livestock had multiplied in the land of Gilead.
-v10: And in the days of Saul they made war with the Hagrites, who fell into their hand. They dwelt in their tents throughout the entire eastern side of Gilead.
-</p>
-
-<p>
-v11: The sons of Gad dwelt opposite them in the land of Bashan as far as Salecah:
-v12: Joel the chief, and Shapham the second, then Jaanai and Shaphat in Bashan.
-</p>
-
-<p>
-v13: Their relatives, by their fathers' houses, were Michael, Meshullam, Sheba, Jorai, Jacan, Zia, and Eber, seven in all.
-v14: These were the sons of Abihail, son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz.
-</p>
-
-<p>
-v15: Ahi, the son of Abdiel, the son of Guni, was chief of their fathers' house.
-v16: They lived in Gilead, in Bashan and in its towns, and throughout all the pasture lands of Sharon, as far as their borders.
-</p>
-
-<p>
-v17: All were registered in genealogies during the days of Jotham king of Judah and Jeroboam king of Israel.
-</p>
-
-<p>
-v18: The sons of Reuben, the Gadites, and the half-tribe of Manasseh: valiant men, men bearing shield and sword, skilled with bow, trained in warfare; forty-four thousand seven hundred sixty going forth to battle.
-v19: They made war with the Hagrites, Jetur, Naphish, and Nodab.
-</p>
-
-<p>
-v20: They received help against them, and the Hagrites and everyone who were with them were delivered into their hand. They cried out to God in the battle, and He was entreated of them because they trusted in Him.
-</p>
-
-<p>
-v21: They took away their livestock: fifty thousand camels, two hundred fifty thousand sheep, two thousand donkeys, and one hundred thousand people.
-</p>
-
-<p>
-v22: For many fell slain because the battle was of God. And they dwelt in their place until the exile.
-</p>
-
-<p>
-v23: The sons of the half-tribe of Manasseh lived in the land from Bashan to Baal Hermon, Senir, and Mount Hermon; they were numerous.
-v24: The heads of their fathers' houses were Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel—mighty men of valor, famous men, heads of their fathers' houses.
-</p>
-
-<p>
-v25: But they were unfaithful to the God of their fathers and played the harlot after the gods of the peoples of the land whom God had destroyed before them.
-</p>
-
-<p>
-v26: So the God of Israel stirred up the spirit of Pul king of Assyria and the spirit of Tiglath-Pileser king of Assyria, and he took them into exile, namely, the Reubenites, the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and the river of Gozan to this day.
+v23: The people of the half-tribe of Manasseh lived in the land from Bashan to Baal-hermon, Senir, and Mount Hermon. They had become numerous.
+v24: Their ancestral household heads were Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel—mighty warriors, men of renown, heads of their ancestral households.
+v25: But they were unfaithful to the God of their ancestors. They went whoring after the gods of the peoples of the land whom God had destroyed before them.
+v26: So the God of Israel stirred the spirit of Pul king of Assyria and the spirit of Tilgath-pilneser king of Assyria. He deported the Reubenites, Gadites, and half-tribe of Manasseh and brought them to Halah, Habor, Hara, and the river of Gozan, where they remain to this day.
 </p>
 
 ## Notes
 
-v01–26: - **v1: Reuben, the firstborn of Israel**: The text underscores Reuben's status deteriorating from the firstborn due to his transgression, transferring the birthright to Joseph.
+v01–02: Reuben’s firstborn status, Joseph’s birthright, and Judah’s leadership are distinguished rather than treated as the same privilege.
 
-v02: Judah prevailed over his brothers: Suggests the prominence of Judah’s line through which a ruler, David, arose, albeit the birthright was designated to Joseph.
-
-v04–06: Joel, Shemaiah, Beerah: Genealogical records linking Reuben’s descendants to historical events, such as the exile at the hands of Tiglath-Pileser.
-
-v20: Cried out to God... trusted in Him: Illustrates reliance on divine assistance in battle, revealing a moment of faith in God during warfare.
-
-v25: Unfaithful… played the harlot: A metaphor for idolatry, illustrating the people's spiritual infidelity affecting their covenant relationship with God.
-
-v26: Pul and Tiglath-Pileser: Reflects the impact of Assyrian kings on Israel's history, particularly the exile of the northern tribes.
-
-v26: The Hebrew chapter division continues with the Levitical genealogy at 5:27; common English versification begins that genealogy in chapter 6.
+v26: Pul and Tilgath-pilneser are both named in the Hebrew. The wording is retained; these names are associated with the same Assyrian ruler.
 
 ## Vocabulary
 
-v01: - **v1: בְּכוֹר (be.khor)** - "Firstborn": Referred to status and rights, particularly illustrating Reuben's lost inheritance.
+v01: Birthright
+The standing and inheritance associated with the firstborn.
 
-v25: - **v25: מָעַל (ma.al)** - "Unfaithful": Literally means to act treacherously, indicating Israel's spiritual betrayal.
-
-v26: - **v26: רוּחַ (ru.ach)** - "Spirit": Here, it signifies God's influence over foreign rulers, leading to significant cultural and geographical shifts.
+v25: Unfaithfulness
+Betrayal of a binding relationship; the verse also uses the image of prostitution after other gods.

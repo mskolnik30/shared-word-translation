@@ -4,78 +4,72 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2chronicles-1-5-biblical-fluency-2026-09-15
 ---
 
-# 2 Chronicles 2
-
-## Solomon Plans to Build the Temple
+## Preparations for the temple
 
 <p>
-v01: Solomon commanded that a house be built for the name of the LORD and a royal house for himself.
-
-v02: Solomon counted seventy thousand burden-bearers, eighty thousand stonecutters in the hill country, and three thousand six hundred to oversee them.
-
-v03: Solomon sent word to Huram king of Tyre, saying, “As you dealt with David my father and sent him cedars to build for himself a house to live in, so deal with me.
-
-v04: Look, I am building a house for the name of the LORD my God, to consecrate it to him, to burn fragrant incense before him, for the continual arrangement of bread, and for burnt offerings morning and evening, on Sabbaths, new moons, and appointed festivals of the LORD our God. This is upon Israel forever.
-
-v05: The house that I am building is great, for our God is greater than all gods.
-
-v06: But who can build him a house, since the heavens and the highest heavens cannot contain him? And who am I that I should build him a house except as a place to burn offerings before him?
-
-v07: And now send me a skilled man to work in gold, silver, bronze, iron, purple, crimson, and blue yarn, and one who knows how to engrave, to work with the skilled men who are with me in Judah and Jerusalem, whom David my father prepared.
-
-v08: Send me also cedar, cypress, and algum timber from Lebanon, for I know that your servants know how to cut timber from Lebanon. My servants will be with your servants,
-
-v09: to prepare timber for me in abundance, for the house I am building will be great and wonderful.
-
-v10: Look, I will give to your servants, the woodcutters who cut the timber, twenty thousand cors of crushed wheat, twenty thousand cors of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”
+v01: Solomon decided to build a house for the LORD’s name and a house for his own kingdom.
+v02: He counted out seventy thousand men to carry loads, eighty thousand to quarry stone in the hills, and thirty-six hundred to supervise them.
 </p>
 
-## Huram Responds to Solomon
-
 <p>
-v11: Huram king of Tyre answered in a letter and sent to Solomon: “Because the LORD loves his people, he has made you king over them.”
-
-v12: Huram said, “Blessed be the LORD, the God of Israel, who made the heavens and the earth, who has given to David the king a wise son, endowed with discretion and understanding, who will build a house for the LORD and a royal house for himself.
-
-v13: And now I am sending a skilled and understanding man, Huram-Abi,
-
-v14: son of a woman from the daughters of Dan, and his father was a man of Tyre. He knows how to work in gold, silver, bronze, iron, stone, wood, purple, blue, fine linen, and crimson, and to make every kind of engraving and devise every design that may be given to him, with your skilled men and the skilled men of my lord David your father.
-
-v15: Now therefore let my lord send to his servants the wheat, barley, oil, and wine of which he spoke,
-
-v16: and we will cut timber from Lebanon according to all your need and bring it to you as rafts by sea to Joppa. Then you will bring it up to Jerusalem.”
+v03: Solomon sent this message to Huram king of Tyre: “Deal with me as you did with my father David, when you sent him cedar to build a house to live in.
+v04: I am building a house for the name of the LORD my God, to dedicate it to him: to burn fragrant incense before him, to set out bread continually, and to present burnt offerings morning and evening, on Sabbaths, new moons, and the appointed festivals of the LORD our God. This is Israel’s lasting obligation.
+v05: The house I am building will be great, because our God is greater than all gods.
+v06: But who has the strength to build him a house? Even heaven and the highest heavens cannot contain him. Who am I to build him a house, except as a place to burn offerings before him?
 </p>
 
-## Solomon Organizes the Labor Force
+<p>
+v07: Now send me a man skilled in working with gold, silver, bronze, iron, purple, crimson, and blue fabrics, and skilled in engraving. He will work with the skilled workers my father David provided for me in Judah and Jerusalem.
+v08: Send me cedar, cypress, and algum timber from Lebanon. I know your servants are skilled at cutting Lebanon’s timber. My servants will work with yours
+v09: to prepare timber for me in abundance, because the house I am building will be great and extraordinary.
+v10: I will give your servants, the woodcutters who fell the trees, twenty thousand cors of beaten wheat, twenty thousand cors of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”
+</p>
+
+## Huram’s reply
 
 <p>
-v17: Solomon counted all the resident aliens who were in the land of Israel after the census that David his father had taken of them, and one hundred fifty-three thousand six hundred were found.
+v11: Huram king of Tyre replied in a letter sent to Solomon: “Because the LORD loves his people, he has made you their king.”
+v12: Huram also said, “Blessed be the LORD, the God of Israel, who made heaven and earth! He has given King David a wise son with insight and understanding, who will build a house for the LORD and a house for his own kingdom.
+</p>
 
-v18: He appointed seventy thousand of them as burden-bearers, eighty thousand as stonecutters in the hill country, and three thousand six hundred as overseers to make the people work.
+<p>
+v13: I am sending Huram-abi, a skilled man with understanding.
+v14: His mother is from the daughters of Dan, and his father is a man of Tyre. He knows how to work in gold, silver, bronze, iron, stone, wood, purple, blue, fine linen, and crimson, and how to do every kind of engraving and devise any design assigned to him. He will work with your skilled workers and those of my lord David your father.
+v15: Now let my lord send his servants the wheat, barley, oil, and wine he promised.
+v16: We will cut as much timber from Lebanon as you need and bring it to you by sea in rafts to Joppa. You can take it up to Jerusalem.”
+</p>
+
+## The labor force
+
+<p>
+v17: Solomon counted all the foreign men living in the land of Israel, following the count his father David had made. There were 153,600.
+v18: He assigned seventy thousand of them to carry loads, eighty thousand to quarry stone in the hills, and thirty-six hundred as supervisors to keep the people at work.
 </p>
 
 ## Notes
 
-v04: The temple is for God’s name and for ordered worship, not because God can be contained by a building.
+v01: Public 2:1 corresponds to Hebrew 1:18. Public 2:2–18 corresponds to Hebrew 2:1–17.
 
-v06: Solomon explicitly confesses that even the highest heavens cannot contain God.
+v08: Algum is an uncertain tree identification; the name is retained.
 
-v14: Chronicles describes Huram-Abi’s maternal ancestry differently from 1 Kings 7:14, which associates his mother with Naphtali. TSW preserves Chronicles’ form.
+v10: The expression “beaten wheat” is textually difficult; the four provision amounts are preserved as written.
 
-v17–18: The labor force is drawn from resident aliens living in Israel. The text presents this as royal labor organization within the ancient monarchy.
+v13: Abi, literally “my father,” can function as an honorific. Huram-abi is the craftsman, not Huram the king.
+
+v14: His mother is associated with Dan here; 1 Kings 7:14 associates her with Naphtali. Neither account is silently altered.
+
+v17–18: The workforce consists of resident foreign men. Their assigned labor and supervision are explicit; it is not called voluntary.
 
 ## Vocabulary
 
-v04: קָדַשׁ (qadash)
-“To consecrate.” To set apart for the LORD.
+v10: Cor and bath
+Ancient capacity measures: the cor for dry goods here, the bath for liquids.
 
-v06: כִּיל (kil)
-“To contain.” The heavens cannot contain God.
-
-v07: חָכָם (chakham)
-“Skilled” or “wise.” Used of artisanship.
-
-v17: גֵּר (ger)
-“Resident alien.” A non-Israelite living in the land.
+v06: Highest heavens
+An emphatic expression for the heavens in their greatest extent.

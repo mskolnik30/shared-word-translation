@@ -4,116 +4,83 @@ testament: OT
 chapter: 27
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1chronicles-5-29-biblical-fluency-2026-09-15
 ---
 
+## Monthly army divisions
+
 <p>
-v01: The people of Israel, according to their number—the heads of ancestral houses, the commanders of thousands and of hundreds, and their officers who served the king in every matter of the divisions that came in and went out month by month, for all the months of the year—each division was twenty-four thousand.
+v01: Here is the roster of the Israelites who served the king: the heads of ancestral houses, commanders of thousands and hundreds, and their officials, responsible for the divisions that came on duty and went off duty month by month throughout the year. Each division numbered twenty-four thousand.
+v02: Jashobeam son of Zabdiel commanded the first division for the first month. His division numbered twenty-four thousand.
+v03: He was a descendant of Perez and the chief of all army commanders for the first month.
+v04: Dodai the Ahohite commanded the division for the second month, with Mikloth as an officer in his division. His division numbered twenty-four thousand.
+v05: The third army commander, for the third month, was Benaiah son of Jehoiada the priest, a leading man. His division numbered twenty-four thousand.
+v06: This was the Benaiah who was a warrior of the Thirty and over the Thirty. His son Ammizabad was in charge of his division.
+v07: The fourth, for the fourth month, was Joab’s brother Asahel, succeeded by his son Zebadiah. His division numbered twenty-four thousand.
+v08: The fifth, for the fifth month, was the commander Shamhuth the Izrahite. His division numbered twenty-four thousand.
+v09: The sixth, for the sixth month, was Ira son of Ikkesh the Tekoite. His division numbered twenty-four thousand.
+v10: The seventh, for the seventh month, was Helez the Pelonite, from Ephraim’s descendants. His division numbered twenty-four thousand.
+v11: The eighth, for the eighth month, was Sibbecai the Hushathite, of the Zerahites. His division numbered twenty-four thousand.
+v12: The ninth, for the ninth month, was Abiezer the Anathothite, of the Benjaminites. His division numbered twenty-four thousand.
+v13: The tenth, for the tenth month, was Maharai the Netophathite, of the Zerahites. His division numbered twenty-four thousand.
+v14: The eleventh, for the eleventh month, was Benaiah the Pirathonite, from Ephraim’s descendants. His division numbered twenty-four thousand.
+v15: The twelfth, for the twelfth month, was Heldai the Netophathite, from Othniel’s family. His division numbered twenty-four thousand.
+</p>
+
+## Tribal leaders
+
+<p>
+v16: These were the leaders over Israel’s tribes: over the Reubenites, Eliezer son of Zichri; over the Simeonites, Shephatiah son of Maacah;
+v17: over Levi, Hashabiah son of Kemuel; over Aaron’s descendants, Zadok;
+v18: over Judah, Elihu, one of David’s brothers; over Issachar, Omri son of Michael;
+v19: over Zebulun, Ishmaiah son of Obadiah; over Naphtali, Jerimoth son of Azriel;
+v20: over Ephraim’s descendants, Hoshea son of Azaziah; over half the tribe of Manasseh, Joel son of Pedaiah;
+v21: over the half of Manasseh in Gilead, Iddo son of Zechariah; over Benjamin, Jaasiel son of Abner;
+v22: over Dan, Azarel son of Jeroham. These were the leaders of Israel’s tribes.
 </p>
 
 <p>
-v02: Over the first division for the first month was Jashobeam son of Zabdiel; his division numbered twenty-four thousand.
+v23: David did not count those twenty years old and under, because the LORD had promised to multiply Israel like the stars of heaven.
+v24: Joab son of Zeruiah began the count but did not finish it. Wrath came on Israel because of it, and the number was not entered in King David’s official chronicles.
+</p>
 
-v03: He was from the descendants of Perez, chief of all the commanders of the army for the first month.
+## Royal property and advisers
 
-v04: Over the division for the second month was Dodai the Ahohite; Mikloth was the leader of his division, which numbered twenty-four thousand.
-
-v05: The commander of the army for the third month was Benaiah son of Jehoiada the priest, the chief; his division numbered twenty-four thousand.
-
-v06: This was Benaiah, a warrior among the Thirty and over the Thirty; and his son Ammizabad was over his division.
-
-v07: The fourth, for the fourth month, was Asahel brother of Joab, and after him his son Zebadiah; his division numbered twenty-four thousand.
-
-v08: The fifth, for the fifth month, was the commander Shamhuth the Izrahite; his division numbered twenty-four thousand.
-
-v09: The sixth, for the sixth month, was Ira son of Ikkesh the Tekoite; his division numbered twenty-four thousand.
-
-v10: The seventh, for the seventh month, was Helez the Pelonite, from the Ephraimites; his division numbered twenty-four thousand.
-
-v11: The eighth, for the eighth month, was Sibbecai the Hushathite, of the Zerahites; his division numbered twenty-four thousand.
-
-v12: The ninth, for the ninth month, was Abiezer the Anathothite, a Benjaminite; his division numbered twenty-four thousand.
-
-v13: The tenth, for the tenth month, was Maharai the Netophathite, of the Zerahites; his division numbered twenty-four thousand.
-
-v14: The eleventh, for the eleventh month, was Benaiah the Pirathonite, from the Ephraimites; his division numbered twenty-four thousand.
-
-v15: The twelfth, for the twelfth month, was Heldai the Netophathite, of Othniel; his division numbered twenty-four thousand.
+<p>
+v25: Azmaveth son of Adiel was over the king’s treasuries. Jonathan son of Uzziah was over the storehouses in the countryside, towns, villages, and towers.
+v26: Ezri son of Chelub was over the fieldworkers who cultivated the ground.
+v27: Shimei the Ramathite was over the vineyards. Zabdi the Shiphmite was over the vineyard produce stored as wine.
+v28: Baal-hanan the Gederite was over the olive trees and sycamore figs in the foothills. Joash was over the stores of oil.
+v29: Shirtai the Sharonite was over the cattle grazing in Sharon. Shaphat son of Adlai was over the cattle in the valleys.
+v30: Obil the Ishmaelite was over the camels. Jehdeiah the Meronothite was over the female donkeys.
+v31: Jaziz the Hagrite was over the flocks. All these were officials over King David’s property.
 </p>
 
 <p>
-v16: Over the tribes of Israel: for the Reubenites, Eliezer son of Zichri was leader; for the Simeonites, Shephatiah son of Maacah;
-
-v17: for Levi, Hashabiah son of Kemuel; for Aaron, Zadok;
-
-v18: for Judah, Elihu, one of David’s brothers; for Issachar, Omri son of Michael;
-
-v19: for Zebulun, Ishmaiah son of Obadiah; for Naphtali, Jeremoth son of Azriel;
-
-v20: for the Ephraimites, Hoshea son of Azaziah; for half the tribe of Manasseh, Joel son of Pedaiah;
-
-v21: for the half-tribe of Manasseh in Gilead, Iddo son of Zechariah; for Benjamin, Jaasiel son of Abner;
-
-v22: for Dan, Azarel son of Jeroham. These were the commanders of the tribes of Israel.
-</p>
-
-<p>
-v23: David did not take their number from those twenty years old and under, for the LORD had said that he would make Israel as numerous as the stars of heaven.
-
-v24: Joab son of Zeruiah began to count them but did not finish; and because of this wrath came upon Israel. The number was not entered in the record of the chronicles of King David.
-</p>
-
-<p>
-v25: Over the king’s treasuries was Azmaveth son of Adiel. Over the storehouses in the fields, in the cities, in the villages, and in the towers was Jonathan son of Uzziah.
-
-v26: Over people who did the work of the field, for cultivating the ground, was Ezri son of Chelub.
-
-v27: Over the vineyards was Shimei the Ramathite; over what was in the vineyards for the wine storehouses was Zabdi the Shiphmite.
-
-v28: Over the olive trees and the sycamore trees in the lowland was Baal-hanan the Gederite; over the stores of oil was Joash.
-
-v29: Over the cattle grazing in Sharon was Shitrai the Sharonite; over the cattle in the valleys was Shaphat son of Adlai.
-
-v30: Over the camels was Obil the Ishmaelite; over the donkeys was Jehdeiah the Meronothite.
-
-v31: Over the flocks was Jaziz the Hagrite. All these were overseers of the property that belonged to King David.
-</p>
-
-<p>
-v32: Jonathan, David’s uncle, was a counselor, a man of understanding, and a scribe; Jehiel son of Hacmoni was with the king’s sons.
-
-v33: Ahithophel was counselor to the king, and Hushai the Archite was the king’s friend.
-
-v34: After Ahithophel came Jehoiada son of Benaiah and Abiathar; and Joab was commander of the king’s army.
+v32: David’s uncle Jonathan was a counselor, a discerning man and a scribe. Jehiel son of Hachmoni attended the king’s sons.
+v33: Ahithophel was the king’s counselor, and Hushai the Archite was the king’s friend.
+v34: After Ahithophel came Jehoiada son of Benaiah and Abiathar. Joab commanded the king’s army.
 </p>
 
 ## Notes
 
-v01: - **27:1:** The divisions “came in and went out month by month,” describing a rotating system of service. Each division is said to contain twenty-four thousand, a pattern that presents Israel’s military administration as ordered and comprehensive.
+v07: Asahel and his successor Zebadiah are both listed; the roster spans more than one point in time.
 
-v04: - **27:4:** The Hebrew wording links Mikloth closely with Dodai’s division but does not explicitly state his precise role. The translation understands him as its leader.
+v18: Elihu is named as David’s brother here; the draft does not replace the name with Eliab.
 
-v06: - **27:6:** “The Thirty” refers to David’s elite corps of warriors. Benaiah is described both as one among this group and as having authority over it.
+v22: Gad and Asher are absent from this roster; entries for them have not been supplied.
 
-v23–24: - **27:23–24:** The account recalls the census associated with Joab and divine wrath. The text holds together David’s administrative ordering of Israel with the warning that numbering the people could become an act of presumption rather than trust in the LORD’s promise.
+v29: Shirtai follows the Hebrew read form; the written form gives Shitrai.
 
-v32: - **27:32:** The Hebrew word rendered “uncle” may also mean a close male relative. The text identifies Jonathan as David’s *dod*, without specifying the exact family relationship.
+v32: Uncle is the ordinary sense of the kinship term here, though the identity of this Jonathan is debated.
 
 ## Vocabulary
 
-v01: - **27:1 — מַחֲלֹקֶת (*maḥăloqet*):** A division or assigned group. In this chapter it names the rotating military units that serve the king month by month.
+v01: Division
+An organized group assigned a turn of service.
 
-v01: - **27:1 — שָׁרַת (*sharat*):** To serve in an appointed capacity. The word emphasizes organized service to the king rather than merely military activity.
-
-v23: כּוֹכָב (kokhav)
-“Star.” Israel’s promised multiplication “as the stars of heaven” echoes the language of divine promise and frames the census within that promise.
-
-v24: קֶצֶף (qetseph)
-“Wrath or indignation.” Here it marks the grave consequence that came upon Israel in connection with the unfinished census.
-
-v31: - **27:31 — רְכוּשׁ (*rekhush*):** Property, possessions, or wealth. The term gathers the fields, animals, produce, and storehouses under David’s royal estate.
-
-v01: מַחֲלֹקֶת (maḥăloqet)
-“A division or assigned group.” In this chapter it names the rotating military units that serve the king month by month.
-
-v01: שָׁרַת (sharat)
-“To serve in an appointed capacity.”
+v24: Chronicles
+Records of events or annals; the phrase here names a royal record, not necessarily the biblical book’s title.

@@ -1,0 +1,51 @@
+{
+  "scope": "2 Chronicles 1–5, all 88 public verses.",
+  "qualification": "Authoring source and comparator checks only; independent scholarly review and reader testing have not occurred.",
+  "editorial_status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source_reading": "Every selected original verse and its notes read before independent composition.",
+  "tsw_comparator_reading": 88,
+  "focused_source_reread_verses": 44,
+  "findings": [
+    "Read all 88 original records and their annotations before independently drafting all 88 public verses; read all 88 TSW comparators afterward. Focused authoring reread covered 44 public verses.",
+    "Kept Solomon’s request for wisdom connected with governing the people. Retained the going-out/coming-in image with explanation, and noted the difficult direction wording at 1:13 and the Kue interpretation at 1:16.",
+    "Preserved the 153,600 resident foreigners assigned to the work and the exact seventy-thousand/eighty-thousand/thirty-six-hundred division. The draft does not turn the assigned labor into an assertion of voluntary participation.",
+    "Retained Dan for the craftsman’s mother, Huram-abi, the twenty-thousand-unit provisions and the uncertain timber identification rather than importing details from Kings.",
+    "The Hebrew height of the bronze altar at 4:1 is ten cubits; the TSW comparator incorrectly says twenty. Fluent retains the Hebrew ten. The hundred-twenty-cubit hall height in 3:4 is retained with a textual note about the twenty-cubit reading in some witnesses.",
+    "Kept thirty-five cubits for the two pillars without inserting each, the sixty-by-twenty foundation dimensions, five-cubit wings and capitals, and the Sea’s three-thousand-bath capacity. Did not harmonize these with Kings.",
+    "Kept oxen at 4:3 and the inner-sanctuary chain wording at 3:16 with notes on their difficulty. Retained from the ark and the singular it at 5:9, and Levitical priests at 5:5.",
+    "Preserved the hundred twenty trumpeting priests, as one/one sound repetition, and the faithful-love refrain joining the worship scene to earlier thanksgiving.",
+    "Public 2:1 binds original 1:18; public 2:2–18 binds original 2:1–17. All other selected labels match; each original record is bound once.",
+    "Reviewed all ten high-overlap verses. Clear dimensions, dates and formulas were retained where useful. Overlap did not govern translation decisions."
+  ],
+  "overlap_summary": {
+    "before": {
+      "verses": 88,
+      "identical_words": 83,
+      "near_identical": 5,
+      "mean_word_similarity": 0.997724
+    },
+    "after": {
+      "verses": 88,
+      "identical_words": 2,
+      "near_identical": 8,
+      "mean_word_similarity": 0.767381
+    }
+  },
+  "high_overlap_verses_inspected": [
+    "2 Chronicles 1:12",
+    "2 Chronicles 1:13",
+    "2 Chronicles 3:2",
+    "2 Chronicles 3:6",
+    "2 Chronicles 3:7",
+    "2 Chronicles 3:14",
+    "2 Chronicles 4:1",
+    "2 Chronicles 4:10",
+    "2 Chronicles 4:15",
+    "2 Chronicles 5:5"
+  ],
+  "overlap_qualification": "NFKC/casefold whole-verse word overlap is triage, not proof of fidelity, originality, legal uniqueness or comprehension. No change quota.",
+  "structural_evidence": "../2026-09-15-1chronicles-5-29/verification.json",
+  "companion_impact": "Changed wording invalidates earlier quote/text bindings for these chapters; reconcile during later Companion installation. No Companion files changed.",
+  "remaining_work": "Whole-book Samuel, Kings and 1 Chronicles authoring consistency passes remain queued; independent editorial review and reader testing remain pending."
+}

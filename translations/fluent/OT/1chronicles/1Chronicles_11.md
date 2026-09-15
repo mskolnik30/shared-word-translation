@@ -4,215 +4,100 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1chronicles-5-29-biblical-fluency-2026-09-15
 ---
 
-# 1 Chronicles 11
+## David becomes king
 
 <p>
-v01: Then all Israel gathered to David at Hebron, saying, “Look, we are your bone and your flesh.
+v01: All Israel gathered around David at Hebron and said, “We are your own bone and flesh.
+v02: Even when Saul was king, you were the one who led Israel out and brought them back. The LORD your God told you, ‘You will shepherd my people Israel and be ruler over them.’”
+v03: All Israel’s elders came to the king at Hebron. David made a covenant with them there before the LORD, and they anointed him king over Israel, as the LORD had said through Samuel.
+</p>
+
+## Jerusalem captured
+
+<p>
+v04: David and all Israel went to Jerusalem, that is, Jebus, where the Jebusites lived.
+v05: The people of Jebus told David, “You will not get in here.” But David captured the stronghold of Zion, now the City of David.
+v06: David had said, “Whoever strikes the Jebusites first will become chief and commander.” Joab son of Zeruiah went up first and became chief.
+v07: David settled in the stronghold, so it was called the City of David.
+v08: He built up the city all around, from the Millo outward. Joab restored the rest of the city.
+v09: David grew more and more powerful, and the LORD of Armies was with him.
+</p>
+
+## David’s warriors
+
+<p>
+v10: These were the heads of David’s mighty warriors. Together with all Israel, they gave him strong support in establishing his kingdom, making him king as the LORD had spoken concerning Israel.
+v11: This is the roll of David’s mighty warriors: Jashobeam son of Hachmoni, chief of the Three, raised his spear against three hundred men and killed them in a single encounter.
+v12: Next was Eleazar son of Dodo the Ahohite, one of the three mighty warriors.
+v13: He was with David at Pas-dammim, where the Philistines had gathered for battle. There was a field full of barley, and the people fled before the Philistines.
+v14: They took their stand in the middle of the field, defended it, and struck down the Philistines. The LORD brought about a great victory.
 </p>
 
 <p>
-v02: In times past, even when Saul was king, you were the one leading Israel out and bringing them in. And the LORD your God said to you, ‘You will shepherd my people Israel, and you will be leader over my people Israel.’”
+v15: Three of the thirty leading warriors went down to David at the rock near the cave of Adullam. A Philistine force was encamped in the Valley of Rephaim.
+v16: David was then in the stronghold, and a Philistine garrison was at Bethlehem.
+v17: David longed for water and said, “If only someone would bring me a drink from the cistern by Bethlehem’s gate!”
+v18: The three broke through the Philistine camp, drew water from the cistern by Bethlehem’s gate, and carried it back to David. But he refused to drink it and poured it out to the LORD.
+v19: “My God forbid that I should do this!” he said. “Could I drink these men’s blood at the cost of their lives? They brought it at the risk of their lives.” He would not drink it. Such were the deeds of the three mighty warriors.
 </p>
 
 <p>
-v03: So all the elders of Israel came to the king at Hebron, and David made a covenant with them at Hebron before the LORD. Then they anointed David king over Israel, according to the word of the LORD through Samuel.
+v20: Abishai, Joab’s brother, was chief of the Three. He raised his spear against three hundred men and killed them, gaining a name among the Three.
+v21: He was twice as honored as the Three and became their commander, though he did not attain to the Three.
 </p>
 
 <p>
-v04: David and all Israel went to Jerusalem—that is, Jebus—where the Jebusites, the inhabitants of the land, were.
+v22: Benaiah son of Jehoiada was the son of a valiant man from Kabzeel, a man of many deeds. He struck down Moab’s two ariels. He also went down into a pit on a snowy day and killed a lion.
+v23: He killed an Egyptian five cubits tall whose spear was like a weaver’s beam. Benaiah went down against him with a staff, seized the spear from his hand, and killed him with his own spear.
+v24: These were the deeds of Benaiah son of Jehoiada, and they gave him a name among the three mighty warriors.
+v25: He was more honored than the Thirty, though he did not attain to the Three. David put him in charge of his guard.
 </p>
 
 <p>
-v05: The inhabitants of Jebus said to David, “You will not come in here.” But David captured the stronghold of Zion, which is the City of David.
-</p>
-
-<p>
-v06: David said, “Whoever strikes down a Jebusite first will become chief and commander.” Joab son of Zeruiah went up first, and he became chief.
-</p>
-
-<p>
-v07: David lived in the stronghold; therefore they called it the City of David.
-</p>
-
-<p>
-v08: He built up the city all around, from the Millo and all around it; and Joab restored the rest of the city.
-</p>
-
-<p>
-v09: David became greater and greater, for LORD of Hosts was with him.
-</p>
-
-<p>
-v10: These are the chiefs of David’s warriors, who gave him strong support in his kingdom, together with all Israel, to make him king, according to the word of the LORD concerning Israel.
-</p>
-
-<p>
-v11: This is the number of David’s warriors: Jashobeam son of Hachmoni, chief of the Thirty. He raised his spear against three hundred slain at one time.
-</p>
-
-<p>
-v12: After him was Eleazar son of Dodo the Ahohite; he was among the three warriors.
-</p>
-
-<p>
-v13: He was with David at Pas-dammim, where the Philistines had gathered for battle. There was a portion of the field full of barley, and the people fled from before the Philistines.
-</p>
-
-<p>
-v14: But they took their stand in the middle of the field and defended it, and struck down the Philistines. And the LORD brought about a great deliverance.
-</p>
-
-<p>
-v15: Three of the thirty chiefs went down to David at the rock, at the cave of Adullam, while a Philistine camp was encamped in the Valley of Rephaim.
-</p>
-
-<p>
-v16: David was then in the stronghold, and the Philistine garrison was then in Bethlehem.
-</p>
-
-<p>
-v17: David longed and said, “Who will give me water to drink from the well of Bethlehem that is by the gate?”
-</p>
-
-<p>
-v18: So the three broke through the Philistine camp, drew water from the well of Bethlehem that is by the gate, carried it, and brought it to David. But David would not drink it; he poured it out to the LORD.
-</p>
-
-<p>
-v19: He said, “Far be it from me, before my God, that I should do this! Should I drink the blood of these men—their lives? For they brought it at the risk of their lives.” Therefore he would not drink it. These things the three warriors did.
-</p>
-
-<p>
-v20: Abishai, Joab’s brother, was chief of the three. He raised his spear against three hundred slain, and he had a name among the three.
-</p>
-
-<p>
-v21: Among the three, he was more honored than the two, and he became their commander; but he did not attain to the three.
-</p>
-
-<p>
-v22: Benaiah son of Jehoiada, son of a valiant man from Kabzeel, a man of many deeds—he struck down the two Ariels of Moab. He also went down and struck down a lion in the middle of a pit on a day of snow.
-</p>
-
-<p>
-v23: He struck down an Egyptian, a man five cubits tall. The Egyptian had a spear in his hand like a weaver’s beam, but Benaiah went down to him with a staff, snatched the spear from the Egyptian’s hand, and killed him with his own spear.
-</p>
-
-<p>
-v24: These things Benaiah son of Jehoiada did, and he had a name among the three warriors.
-</p>
-
-<p>
-v25: He was honored among the Thirty, but he did not attain to the three. David put him over his guard.
-</p>
-
-<p>
-v26: The warriors of the armies were Asahel brother of Joab; Elhanan son of Dodo from Bethlehem;
-</p>
-
-<p>
+v26: The mighty warriors also included Asahel, Joab’s brother; Elhanan son of Dodo, from Bethlehem;
 v27: Shammoth the Harorite; Helez the Pelonite;
-</p>
-
-<p>
 v28: Ira son of Ikkesh the Tekoite; Abiezer the Anathothite;
-</p>
-
-<p>
 v29: Sibbecai the Hushathite; Ilai the Ahohite;
-</p>
-
-<p>
 v30: Maharai the Netophathite; Heled son of Baanah the Netophathite;
-</p>
-
-<p>
-v31: Ithai son of Ribai from Gibeah of the Benjaminites; Benaiah the Pirathonite;
-</p>
-
-<p>
-v32: Hurai from the wadis of Gaash; Abiel the Arabathite;
-</p>
-
-<p>
+v31: Ithai son of Ribai, from Gibeah in Benjamin; Benaiah the Pirathonite;
+v32: Hurai from the valleys of Gaash; Abiel the Arbathite;
 v33: Azmaveth the Baharumite; Eliahba the Shaalbonite;
-</p>
-
-<p>
 v34: the sons of Hashem the Gizonite; Jonathan son of Shagee the Hararite;
-</p>
-
-<p>
-v35: Ahiam son of Sachar the Hararite; Eliphal son of Ur;
-</p>
-
-<p>
+v35: Ahiam son of Sacar the Hararite; Eliphal son of Ur;
 v36: Hepher the Mecherathite; Ahijah the Pelonite;
-</p>
-
-<p>
 v37: Hezro the Carmelite; Naarai son of Ezbai;
-</p>
-
-<p>
-v38: Joel brother of Nathan; Mibhar son of Hagri;
-</p>
-
-<p>
-v39: Zelek the Ammonite; Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah;
-</p>
-
-<p>
-v40: Ira the Jetherite; Gareb the Jetherite;
-</p>
-
-<p>
+v38: Joel, Nathan’s brother; Mibhar son of Hagri;
+v39: Zelek the Ammonite; Naharai the Beerothite, armor-bearer to Joab son of Zeruiah;
+v40: Ira the Ithrite; Gareb the Ithrite;
 v41: Uriah the Hittite; Zabad son of Ahlai;
-</p>
-
-<p>
-v42: Adina son of Shiza the Reubenite, a chief of the Reubenites, and thirty with him;
-</p>
-
-<p>
-v43: Hanan son of Maakah; and Joshaphat the Mithnite;
-</p>
-
-<p>
+v42: Adina son of Shiza the Reubenite, a Reubenite leader with thirty men;
+v43: Hanan son of Maacah; Joshaphat the Mithnite;
 v44: Uzzia the Ashterathite; Shama and Jeiel, sons of Hotham the Aroerite;
-</p>
-
-<p>
-v45: Jediael son of Shimri; and Joha his brother, the Tizite;
-</p>
-
-<p>
-v46: Eliel the Mahavite; Jeribai and Joshaviah, sons of Elnaam; and Ithmah the Moabite;
-</p>
-
-<p>
+v45: Jediael son of Shimri and his brother Joha the Tizite;
+v46: Eliel the Mahavite; Jeribai and Joshaviah, sons of Elnaam; Ithmah the Moabite;
 v47: Eliel, Obed, and Jaasiel the Mezobaite.
 </p>
 
 ## Notes
 
-v22: The expression translated “the two Ariels of Moab” is uncertain. *Ariel* may be a personal or clan designation, or it may evoke “lion-like men”; the text does not explain the phrase.
+v11,20–21: The titles and ranks involving the Three and the Thirty are textually difficult. Verse 21 may describe twice the honor, or a second rank; the draft does not collapse all the groups into one.
+
+v13: The field contains barley here; the parallel in 2 Samuel 23:11 mentions lentils.
+
+v22: The Hebrew calls the two Moabite opponents “ariels.” The term may describe formidable warriors, but its precise meaning here is uncertain.
+
+v23: The Egyptian’s height is five cubits. A cubit is the length from elbow to fingertip; ancient standards varied.
 
 ## Vocabulary
 
-v03: בְּרִית (berit)
-“covenant.” David’s agreement with Israel’s elders is made before YHWH, framing the transfer of kingship as a binding relationship accountable to God.
+v08: Millo
+A named fortified structure or earthwork associated with Jerusalem.
 
-v09: צְבָאוֹת (tseva’ot)
-“armies” or “hosts.” In “YHWH of Armies,” the title presents YHWH as ruler over vast forces and accompanies David’s growing strength.
-
-v10: גִּבּוֹרִים (gibborim)
-“warriors” or “mighty ones.” The term introduces the distinguished fighters whose deeds fill the remainder of the chapter.
-
-v14: תְּשׁוּעָה (teshu‘ah)
-“deliverance.” Although warriors defend the field, the text attributes the great rescue to YHWH.
-
-v19: נֶפֶשׁ (nephesh)
-“life,” “self,” or “person.” David identifies the water with the lives of the men who brought it, with a sense of the cost at which it was obtained.
+v18–19: Poured out
+David treats the water as too closely bound to the men’s endangered lives to drink it, and gives it to the LORD.

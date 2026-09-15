@@ -4,76 +4,54 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1chronicles-5-29-biblical-fluency-2026-09-15
 ---
 
+## Bringing back the ark
+
 <p>
-v01: David consulted with the commanders of thousands and of hundreds, with every leader.
+v01: David consulted the commanders of thousands and hundreds and all the other leaders.
+v02: Then he said to the whole assembly of Israel, “If this seems good to you and is from the LORD our God, let us send word far and wide to our relatives who remain throughout Israel, including the priests and Levites in their towns with pasturelands, asking them to join us.
+v03: Let us bring the ark of our God back to us. We did not seek it out in Saul’s time.”
+v04: The whole assembly agreed to do this, because the proposal seemed right to all the people.
 </p>
 
 <p>
-v02: Then David said to the whole assembly of Israel, “If it seems good to you, and if it is from the LORD our God, let us send word far and wide to our kindred who remain in all the lands of Israel, and with them to the priests and Levites in their towns and pasturelands, that they may gather to us.
+v05: So David gathered all Israel, from the Shihor of Egypt to Lebo-hamath, to bring God’s ark from Kiriath-jearim.
+v06: David and all Israel went up to Baalah, that is, Kiriath-jearim in Judah, to bring up from there the ark of God, the LORD enthroned above the cherubim, the ark called by his name.
+v07: They carried God’s ark on a new cart from Abinadab’s house. Uzza and Ahio guided the cart.
+v08: David and all Israel celebrated before God with all their strength, with songs, lyres, harps, drums, cymbals, and trumpets.
+</p>
 
-v03: Let us bring the ark of our God back to us, for we did not seek it in the days of Saul.”
+## Uzza’s death
 
-v04: The whole assembly said to do so, for the matter seemed right in the eyes of all the people.
+<p>
+v09: When they reached Chidon’s threshing floor, Uzza reached out to steady the ark, because the oxen stumbled.
+v10: The LORD’s anger burned against Uzza. He struck him down because he had reached out his hand to the ark, and Uzza died there before God.
+v11: David was angry because the LORD had broken out against Uzza. He called that place Perez-uzza, its name to this day.
 </p>
 
 <p>
-v05: So David assembled all Israel, from the Shihor of Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim.
-</p>
-
-<p>
-v06: David and all Israel went up to Baalah, to Kiriath-jearim, which belongs to Judah, to bring up from there the ark of God, the LORD, who sits enthroned above the cherubim—the ark called by the Name.
-</p>
-
-<p>
-v07: They set the ark of God on a new cart from the house of Abinadab. Uzzah and Ahio were driving the cart.
-
-v08: David and all Israel were celebrating before God with all their strength, with songs and with lyres, harps, tambourines, cymbals, and trumpets.
-</p>
-
-<p>
-v09: When they came to the threshing floor of Kidon, Uzzah reached out his hand to hold the ark, because the cattle stumbled.
-
-v10: Then the anger of the LORD burned against Uzzah, and he struck him because he had reached out his hand against the ark. He died there before God.
-
-v11: David was angry because the LORD had burst out against Uzzah; and he called that place Perez-uzzah, as it is to this day.
-
-v12: David feared God that day, saying, “How can I bring the ark of God to me?”
-</p>
-
-<p>
-v13: So David did not bring the ark to himself, to the City of David, but turned it aside to the house of Obed-edom the Gittite.
-
-v14: The ark of God remained with the household of Obed-edom in his house for three months, and the LORD blessed the household of Obed-edom and all that belonged to him.
+v12: David was afraid of God that day. “How can I bring God’s ark to me?” he asked.
+v13: David did not take the ark home to the City of David. Instead, he took it aside to the house of Obed-edom the Gittite.
+v14: God’s ark stayed with Obed-edom’s household, in his house, for three months. The LORD blessed Obed-edom’s household and everything he had.
 </p>
 
 ## Notes
 
-v02–04: - **2:** David’s proposal joins broad communal participation with the condition, “if it is from the LORD our God.” The people’s agreement in verse 4 confirms that the plan seems right to them, but the chapter’s later events leave open the question of how human consensus relates to faithful approach to God.
+v03: The object of “seek” can be heard as the ark or, through it, God. The draft keeps the ark as the immediate referent.
 
-v06: - **6:** “The ark called by the Name” is a compact expression linking the ark with the divine Name. The wording does not identify the ark with God; rather, it marks it as the holy sign of God’s presence and reign among Israel.
+v09: Chidon is the threshing floor’s name here; 2 Samuel 6:6 has Nacon. The verb about the oxen may mean they stumbled or caused the ark to slip.
 
-v09–12: - **9–12:** The account does not question Uzzah’s apparent attempt to keep the ark from falling, yet it directly connects his death with his reaching out his hand against it. The sharp movement from public celebration to judgment, and then David’s fear, preserves the gravity and danger of drawing near to God without explaining away the event.
-
-v11: - **11:** *Perez-uzzah* means “breach against Uzzah.” The place-name memorializes the LORD’s sudden “bursting out” against Uzzah, using the same Hebrew root.
+v11: Perez-uzza means “outbreak against Uzza,” echoing the verb in David’s reaction.
 
 ## Vocabulary
 
-v02: - **2 — קָהָל (*qahal*):** “assembly.” David addresses Israel not merely as scattered individuals but as a gathered people participating in a shared decision.
+v06: Cherubim
+Heavenly beings associated with the divine throne and the ark; the plural of cherub.
 
-v03: - **3 — דָּרַשׁ (*darash*):** “seek.” Israel’s failure to “seek” the ark in Saul’s days presents the ark’s return as a renewal of attentiveness to God.
-
-v06: - **6 — שֵׁם (*shem*):** “name.” In the phrase “called by the Name,” God’s Name signifies God’s revealed presence, reputation, and claim upon the people.
-
-v10–11: פָּרַץ (parats)
-“break out; burst out.” The LORD’s anger breaks out against Uzzah, and the resulting place-name, Perez-uzzah, keeps that breach in Israel’s memory.
-
-v02: קָהָל (qahal)
-“assembly.” David addresses Israel not merely as scattered individuals but as a gathered people participating in a shared decision.
-
-v03: דָּרַשׁ (darash)
-“seek.” Israel’s failure to “seek” the ark in Saul’s days presents the ark’s return as a renewal of attentiveness to God.
-
-v06: שֵׁם (shem)
-“name.” In the phrase “called by the Name,” God’s Name can denote God’s revealed presence, reputation, and claim upon the people.
+v07: Ark
+The sacred chest associated with God’s covenant and presence among Israel.

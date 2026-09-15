@@ -4,122 +4,75 @@ testament: OT
 chapter: 25
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1chronicles-5-29-biblical-fluency-2026-09-15
 ---
 
+## Musicians appointed
+
 <p>
-v01: David and the commanders of the army set apart for the service the sons of Asaph, Heman, and Jeduthun, who prophesied with lyres, harps, and cymbals. The number of the skilled men for their service was:
+v01: David and the army commanders set apart for the service some of the sons of Asaph, Heman, and Jeduthun, who prophesied with lyres, harps, and cymbals. Here is the roster of the men who carried out this work:
+v02: From Asaph’s sons: Zaccur, Joseph, Nethaniah, and Asharelah. Asaph’s sons served under Asaph, who prophesied under the king’s direction.
+v03: From Jeduthun’s sons: Gedaliah, Zeri, Jeshaiah, Hashabiah, and Mattithiah—six in all—under their father Jeduthun, who prophesied with the lyre in thanksgiving and praise to the LORD.
 </p>
 
 <p>
-v02: Of the sons of Asaph: Zakkur, Joseph, Nethaniah, and Asarelah. The sons of Asaph were under the direction of Asaph, who prophesied under the direction of the king.
+v04: From Heman’s sons: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth.
+v05: All these were sons of Heman, the king’s seer in the words of God, to raise his horn. God gave Heman fourteen sons and three daughters.
+v06: All these served under their father in the music of the LORD’s house, with cymbals, harps, and lyres for the service of God’s house. Asaph, Jeduthun, and Heman were under the king’s direction.
 </p>
 
 <p>
-v03: Of Jeduthun: the sons of Jeduthun—Gedaliah, Zeri, Jeshaiah, Hashabiah, and Mattithiah—six, under the direction of their father Jeduthun with the lyre, prophesying in giving thanks and praise to the LORD.
+v07: Together with their relatives, all trained and skilled in music for the LORD, they numbered 288.
+v08: They cast lots for their duties, small and great alike, teacher and learner together.
 </p>
 
-<p>
-v04: Of Heman: the sons of Heman—Bukkiah, Mattaniah, Uzziel, Shubael, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth.
-
-v05: All these were sons of Heman, the king’s seer in the words of God, to raise up his horn. God gave Heman fourteen sons and three daughters.
-</p>
+## The musical divisions
 
 <p>
-v06: All these were under the direction of their father for song in the house of the LORD, with cymbals, harps, and lyres, for the service of the house of God, under the direction of the king, Asaph, Jeduthun, and Heman.
-</p>
-
-<p>
-v07: Their number, together with their kindred who were trained in song for the LORD, everyone who were skilled, was two hundred eighty-eight.
-</p>
-
-<p>
-v08: They cast lots for their duties, the small as well as the great, the skilled together with the student.
-</p>
-
-<p>
-v09: The first lot came out for Asaph, for Joseph; Gedaliah was second, he and his sons and kindred, twelve.
-
-v10: The third was Zakkur, his sons and kindred, twelve.
-
-v11: The fourth was for Izri, his sons and kindred, twelve.
-
-v12: The fifth was Nethaniah, his sons and kindred, twelve.
-
-v13: The sixth was Bukkiah, his sons and kindred, twelve.
-
-v14: The seventh was Jesharelah, his sons and kindred, twelve.
-
-v15: The eighth was Jeshaiah, his sons and kindred, twelve.
-
-v16: The ninth was Mattaniah, his sons and kindred, twelve.
-
-v17: The tenth was Shimei, his sons and kindred, twelve.
-
-v18: The eleventh was Azarel, his sons and kindred, twelve.
-
-v19: The twelfth was Hashabiah, his sons and kindred, twelve.
-
-v20: The thirteenth was Shubael, his sons and kindred, twelve.
-
-v21: The fourteenth was Mattithiah, his sons and kindred, twelve.
-
-v22: The fifteenth was Jerimoth, his sons and kindred, twelve.
-
-v23: The sixteenth was Hananiah, his sons and kindred, twelve.
-
-v24: The seventeenth was Joshbekashah, his sons and kindred, twelve.
-
-v25: The eighteenth was Hanani, his sons and kindred, twelve.
-
-v26: The nineteenth was Mallothi, his sons and kindred, twelve.
-
-v27: The twentieth was Eliathah, his sons and kindred, twelve.
-
-v28: The twenty-first was Hothir, his sons and kindred, twelve.
-
-v29: The twenty-second was Giddalti, his sons and kindred, twelve.
-
-v30: The twenty-third was Mahazioth, his sons and kindred, twelve.
-
-v31: The twenty-fourth was Romamti-ezer, his sons and kindred, twelve.
+v09: The first lot fell to Joseph of Asaph’s family. The second fell to Gedaliah, with his relatives and sons, twelve in all.
+v10: The third fell to Zaccur, with his sons and relatives, twelve in all.
+v11: The fourth fell to Izri, with his sons and relatives, twelve in all.
+v12: The fifth fell to Nethaniah, with his sons and relatives, twelve in all.
+v13: The sixth fell to Bukkiah, with his sons and relatives, twelve in all.
+v14: The seventh fell to Jesharelah, with his sons and relatives, twelve in all.
+v15: The eighth fell to Jeshaiah, with his sons and relatives, twelve in all.
+v16: The ninth fell to Mattaniah, with his sons and relatives, twelve in all.
+v17: The tenth fell to Shimei, with his sons and relatives, twelve in all.
+v18: The eleventh fell to Azarel, with his sons and relatives, twelve in all.
+v19: The twelfth fell to Hashabiah, with his sons and relatives, twelve in all.
+v20: The thirteenth fell to Shubael, with his sons and relatives, twelve in all.
+v21: The fourteenth fell to Mattithiah, with his sons and relatives, twelve in all.
+v22: The fifteenth fell to Jeremoth, with his sons and relatives, twelve in all.
+v23: The sixteenth fell to Hananiah, with his sons and relatives, twelve in all.
+v24: The seventeenth fell to Joshbekashah, with his sons and relatives, twelve in all.
+v25: The eighteenth fell to Hanani, with his sons and relatives, twelve in all.
+v26: The nineteenth fell to Mallothi, with his sons and relatives, twelve in all.
+v27: The twentieth fell to Eliathah, with his sons and relatives, twelve in all.
+v28: The twenty-first fell to Hothir, with his sons and relatives, twelve in all.
+v29: The twenty-second fell to Giddalti, with his sons and relatives, twelve in all.
+v30: The twenty-third fell to Mahazioth, with his sons and relatives, twelve in all.
+v31: The twenty-fourth fell to Romamti-ezer, with his sons and relatives, twelve in all.
 </p>
 
 ## Notes
 
-v01: - **v1** “Prophesied” describes music-making as a Spirit-oriented ministry of proclamation, not simply as instrumental accompaniment. The chapter holds musical skill and prophetic speech together.
+v03: The text says six sons but names five. Shimei, named in verse 17, is often supplied here; this draft leaves the written list intact.
 
-v05: - **v5** “To raise up his horn” uses the horn as an image of strength, dignity, and exaltation. The exact relation of the phrase to Heman’s role as seer or to God’s gift of children is syntactically compressed.
+v04–05: Heman’s fourteen sons and three daughters are all mentioned. Some of the final names resemble phrases of praise, but the roster presents them as names.
 
-v06: - **v6** The phrase “under the direction of the king” may refer broadly to David’s oversight of the whole musical service, while the naming of Asaph, Jeduthun, and Heman also emphasizes their distinct leadership within it.
+v05: “Raise his horn” is an image of strengthened standing or honor; whose horn is meant is not explicit.
 
-v08: - **v8** The lots are cast without regard to age, rank, or level of training: “the small as well as the great, the skilled together with the student.” The ordering of worship is presented as both carefully trained and entrusted to God’s determination.
+v09: The first lot has a shorter entry than the later ones. The draft does not insert an explicit twelve-person total there.
 
-v09–31: - **v9–31** Each of the twenty-four divisions contains twelve members. The repeated wording gives the roster a measured, liturgical rhythm and underscores the ordered fullness of the musical service.
-
-v06: The phrase “under the direction of the king” may refer broadly to David’s oversight of the musical service or more narrowly to the named leaders’ work under royal authority.
+v11,14,18,20: Izri, Jesharelah, Azarel, and Shubael differ in form from names in the opening list. They are retained in their respective entries.
 
 ## Vocabulary
 
-v01: - **v1 — נָבָא (*navaʾ*)**: “to prophesy.” Here the term characterizes the ministry performed with instruments, presenting temple music as a vehicle of inspired proclamation.
+v01: Prophesy
+Speak or perform under divine inspiration; here the verb describes musical thanksgiving and praise.
 
-v03: - **v3 — יָדָה (*yadah*)**: “to give thanks.” Jeduthun’s prophetic ministry is specifically directed toward thanksgiving and praise to the LORD.
-
-v05: - **v5 — חֹזֶה (*chozeh*)**: “seer.” Heman is identified as the king’s seer in matters concerning God, linking his musical household with revelatory service.
-
-v05: - **v5 — קֶרֶן (*qeren*)**: “horn.” Used figuratively for strength, honor, or elevated standing; the image gives theological weight to God’s blessing of Heman.
-
-v08: - **v8 — גּוֹרָל (*goral*)**: “lot.” The lots assign the worship divisions, expressing an ordered distribution not based merely on human status.
-
-v08: - **v8 — תַּלְמִיד (*talmid*)**: “student.” The term places learners alongside the skilled, showing that the musical ministry included formation as well as performance.
-
-v01: נָבָא (navaʾ)
-“to prophesy.” Here the term characterizes the ministry performed with instruments, presenting temple music as a vehicle of inspired proclamation.
-
-v03: יָדָה (yadah)
-“to give thanks.” Jeduthun’s prophetic ministry is specifically directed toward thanksgiving and praise to the LORD.
-
-v05: חֹזֶה (chozeh)
-“Horn.” Used figuratively for strength, honor, or elevated standing.
-
-v05: קֶרֶן (qeren)
-“Horn.” Used figuratively for strength, honor, or elevated standing.
+v08: Teacher and learner
+Skill and training do not exempt a musician from the shared lot procedure.

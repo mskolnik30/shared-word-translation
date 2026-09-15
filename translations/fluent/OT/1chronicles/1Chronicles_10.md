@@ -4,70 +4,54 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1chronicles-5-29-biblical-fluency-2026-09-15
 ---
 
-<p>
-v01: Now the Philistines fought against Israel, and the men of Israel fled before the Philistines and fell slain on Mount Gilboa.
+## Saul’s death
 
-v02: The Philistines pressed hard after Saul and his sons, and the Philistines struck down Jonathan, Abinadab, and Malki-shua, Saul’s sons.
+<p>
+v01: The Philistines fought against Israel. Israel’s men fled before them, and many fell slain on Mount Gilboa.
+v02: The Philistines pressed hard after Saul and his sons. They killed Saul’s sons Jonathan, Abinadab, and Malchi-shua.
+v03: The battle closed in on Saul. The archers found him, and he trembled before them.
+v04: Saul said to his armor-bearer, “Draw your sword and run me through, so these uncircumcised men won’t come and abuse me.” His armor-bearer was too afraid to do it. So Saul took his sword and fell on it.
+v05: When the armor-bearer saw that Saul was dead, he too fell on his sword and died.
+v06: Saul and his three sons died; his whole house died together.
 </p>
 
 <p>
-v03: The battle bore heavily upon Saul, and the archers found him. He was in anguish because of the archers.
-
-v04: Saul said to his armor-bearer, “Draw your sword and pierce me through with it, lest these uncircumcised men come and abuse me.” But his armor-bearer would not, for he was very afraid. So Saul took the sword and fell upon it.
-
-v05: When his armor-bearer saw that Saul was dead, he too fell upon the sword and died.
-
-v06: Thus Saul died, along with his three sons; all his house died together.
+v07: When all the Israelites in the valley saw that the army had fled and Saul and his sons were dead, they abandoned their towns and fled. The Philistines came and occupied them.
+v08: The next day the Philistines came to strip the slain and found Saul and his sons fallen on Mount Gilboa.
+v09: They stripped Saul and took his head and armor. They sent word throughout Philistine territory, announcing the news to their idols and their people.
+v10: They placed his armor in their gods’ temple and fastened his skull in Dagon’s temple.
 </p>
 
 <p>
-v07: When all the men of Israel who were in the valley saw that they had fled and that Saul and his sons had died, they abandoned their towns and fled. Then the Philistines came and lived in them.
+v11: When everyone in Jabesh-gilead heard what the Philistines had done to Saul,
+v12: all their warriors set out, recovered Saul’s body and his sons’ bodies, and brought them to Jabesh. They buried their bones beneath the terebinth there and fasted for seven days.
 </p>
 
 <p>
-v08: The next day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa.
-
-v09: They stripped him and took away his head and his weapons. They sent them throughout the land of the Philistines, to bring the news to their idols and to the people.
-
-v10: They placed his weapons in the house of their gods, and they fastened his skull in the house of Dagon.
-</p>
-
-<p>
-v11: When all Jabesh-gilead heard everything that the Philistines had done to Saul,
-
-v12: all the valiant men rose up and carried away Saul’s body and the bodies of his sons. They brought them to Jabesh and buried their bones beneath the oak in Jabesh. Then they fasted seven days.
-</p>
-
-<p>
-v13: So Saul died because of his unfaithfulness that he committed against the LORD: because of the word of the LORD that he did not keep, and also because he consulted a medium to seek guidance.
-
-v14: He did not seek the LORD, so he put him to death and turned the kingdom over to David son of Jesse.
+v13: Saul died because of his unfaithfulness to the LORD: he had not kept the LORD’s word, and he had consulted a medium for guidance.
+v14: He did not seek the LORD. So the LORD put him to death and turned the kingdom over to David son of Jesse.
 </p>
 
 ## Notes
 
-v03: - **10:3** “He was in anguish” renders a Hebrew verb that can suggest trembling, writhing, or being overcome with dread. The wording does not explicitly say that Saul was wounded, though the surrounding scene makes the archers’ threat immediate.
+v03: The Hebrew can describe trembling or anguish; some understand Saul as wounded by the archers.
 
-v06: - **10:6** “All his house” may refer broadly to Saul’s household or royal house. The statement intensifies the loss beyond Saul and the three named sons without specifying every person included.
+v06: “All his house” is retained as this account’s summary. Chapters 8–9 also preserve later descendants of Saul’s family.
 
-v09: - **10:9** The Philistines’ announcement is directed both to their idols and to their people. The scene portrays the victory as publicly credited within Philistine religious and communal life.
+v12: Chronicles names a terebinth here; the parallel burial notice in 1 Samuel 31:13 names a tamarisk.
 
-v13–14: - **10:13–14** The chapter closes by interpreting Saul’s death in terms of his unfaithfulness: he sought guidance from a medium but did not seek the LORD. This theological assessment stands alongside the account of Saul’s death in verses 4–5, holding together human action and divine judgment.
+v13–14: The narrator links Saul’s death to unfaithfulness and seeking a medium rather than the LORD. This judgment remains distinct from the preceding description of his death.
 
 ## Vocabulary
 
-v03: - **10:3 חוּל** (*chul*): Here the verb describes Saul’s response when the archers reach him. It conveys intense distress and may evoke trembling, anguish, or writhing under the pressure of battle.
+v13: Medium
+Someone consulted to communicate with the dead.
 
-v13: מַעַל (ma'al)
-“Unfaithfulness” describes a breach of loyalty, especially covenant loyalty toward the LORD. Saul’s death is interpreted as flowing from this betrayal.
-
-v13: אוֹב (ʾov)
-“A medium or spirit-consulting practice.” Saul seeks guidance through this forbidden source rather than from the LORD.
-
-v14: דָּרַשׁ (darash)
-“Seek” or “seek guidance.” The repeated verb contrasts Saul’s consultation of a medium with his failure to seek the LORD.
-
-v03: חוּל (chul)
-“To writhe; tremble; be in anguish.” The verb describes Saul’s distress when the archers reach him.
+v14: Seek
+A recurring Chronicles word for turning to God for guidance and help.

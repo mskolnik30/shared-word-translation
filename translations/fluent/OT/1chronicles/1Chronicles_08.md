@@ -4,194 +4,106 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1chronicles-5-29-biblical-fluency-2026-09-15
 ---
+
+## Benjamin’s families
 
 <p>
 v01: Benjamin fathered Bela his firstborn, Ashbel the second, Aharah the third,
-</p>
-
-<p>
 v02: Nohah the fourth, and Rapha the fifth.
-</p>
-
-<p>
-v03: Bela had sons: Addar, Gera, Abihud,
-</p>
-
-<p>
+v03: Bela’s sons were Addar, Gera, Abihud,
 v04: Abishua, Naaman, Ahoah,
-</p>
-
-<p>
 v05: Gera, Shephuphan, and Huram.
 </p>
 
 <p>
-v06: These were the sons of Ehud. They were heads of ancestral houses for the inhabitants of Geba, and they carried them away into Manahath:
+v06: These were Ehud’s descendants, ancestral heads of the people living in Geba, who were deported to Manahath:
+v07: Naaman, Ahijah, and Gera. Gera deported them; he fathered Uzza and Ahihud.
 </p>
 
 <p>
-v07: Naaman, Ahijah, and Gera—he carried them away—and he fathered Uzza and Ahihud.
-</p>
-
-<p>
-v08: Shaharaim fathered children in the country of Moab after he had sent away Hushim and Baara, his wives.
-</p>
-
-<p>
-v09: By Hodesh his wife, he fathered Jobab, Zibia, Mesha, Malcam,
-</p>
-
-<p>
-v10: Jeuz, Sachia, and Mirmah. These were his sons, heads of ancestral houses.
+v08: Shaharaim had children in the country of Moab after sending away his wives Hushim and Baara.
+v09: By his wife Hodesh he fathered Jobab, Zibia, Mesha, Malcam,
+v10: Jeuz, Sachia, and Mirmah. These sons of his were ancestral household heads.
 </p>
 
 <p>
 v11: By Hushim he fathered Abitub and Elpaal.
+v12: Elpaal’s sons were Eber, Misham, and Shemed, who built Ono and Lod with its villages.
 </p>
 
 <p>
-v12: The sons of Elpaal: Eber, Misham, and Shemed, who built Ono and Lod with its villages.
+v13: Beriah and Shema headed the ancestral households of Aijalon’s residents. They drove out the people of Gath.
+v14: Ahio, Shashak, Jeremoth,
+v15: Zebadiah, Arad, Eder,
+v16: Michael, Ishpah, and Joha were Beriah’s sons.
 </p>
 
 <p>
-v13: Beriah and Shema were heads of ancestral houses for the inhabitants of Aijalon. They drove out the inhabitants of Gath.
+v17: Zebadiah, Meshullam, Hizki, Heber,
+v18: Ishmerai, Izliah, and Jobab were Elpaal’s sons.
 </p>
 
 <p>
-v14: Ahio, Shashak, and Jeremoth;
+v19: Jakim, Zichri, Zabdi,
+v20: Elienai, Zillethai, Eliel,
+v21: Adaiah, Beraiah, and Shimrath were Shimei’s sons.
 </p>
 
 <p>
-v15: Zebadiah, Arad, and Eder;
+v22: Ishpan, Eber, Eliel,
+v23: Abdon, Zichri, Hanan,
+v24: Hananiah, Elam, Anthothijah,
+v25: Iphdeiah, and Penuel were Shashak’s sons.
 </p>
 
 <p>
-v16: Michael, Ishpah, and Joha were sons of Beriah.
+v26: Shamsherai, Shehariah, Athaliah,
+v27: Jaareshiah, Elijah, and Zichri were Jeroham’s sons.
+v28: These were ancestral household heads, leaders listed by their generations. They lived in Jerusalem.
+</p>
+
+## Saul’s family
+
+<p>
+v29: The father of Gibeon lived in Gibeon. His wife was named Maacah.
+v30: His firstborn son was Abdon; then Zur, Kish, Baal, Nadab,
+v31: Gedor, Ahio, and Zecher.
+v32: Mikloth fathered Shimeah. They too lived in Jerusalem with their relatives, opposite their relatives’ homes.
 </p>
 
 <p>
-v17: Zebadiah, Meshullam, Hizki, and Heber;
+v33: Ner fathered Kish, and Kish fathered Saul. Saul fathered Jonathan, Malchi-shua, Abinadab, and Esh-baal.
+v34: Jonathan’s son was Merib-baal, and Merib-baal fathered Micah.
+v35: Micah’s sons were Pithon, Melech, Tarea, and Ahaz.
+v36: Ahaz fathered Jehoaddah. Jehoaddah fathered Alemeth, Azmaveth, and Zimri, and Zimri fathered Moza.
+v37: Moza fathered Binea. His line continued through Raphah, then Eleasah, then Azel.
 </p>
 
 <p>
-v18: Ishmerai, Izliah, and Jobab were sons of Elpaal.
-</p>
-
-<p>
-v19: Jakim, Zicri, and Zabdi;
-</p>
-
-<p>
-v20: Elienai, Zillethai, and Eliel;
-</p>
-
-<p>
-v21: Adaiah, Beraiah, and Shimrath were sons of Shimei.
-</p>
-
-<p>
-v22: Ishpan, Eber, and Eliel;
-</p>
-
-<p>
-v23: Abdon, Zicri, and Hanan;
-</p>
-
-<p>
-v24: Hananiah, Elam, and Anthothijah;
-</p>
-
-<p>
-v25: Iphdeiah and Penuel were sons of Shashak.
-</p>
-
-<p>
-v26: Shamsherai, Shehariah, and Athaliah;
-</p>
-
-<p>
-v27: Jaareshiah, Elijah, and Zicri were sons of Jeroham.
-</p>
-
-<p>
-v28: These were heads of ancestral houses, according to their generations, chief men. These lived in Jerusalem.
-</p>
-
-<p>
-v29: In Gibeon lived the father of Gibeon, and his wife’s name was Maacah.
-</p>
-
-<p>
-v30: His firstborn son was Abdon, then Zur, Kish, Baal, Nadab,
-</p>
-
-<p>
-v31: Gedor, Ahio, and Zeker.
-</p>
-
-<p>
-v32: Mikloth fathered Shimeah. They also lived opposite their kindred in Jerusalem, with their kindred.
-</p>
-
-<p>
-v33: Ner fathered Kish; Kish fathered Saul; and Saul fathered Jonathan, Malchishua, Abinadab, and Eshbaal.
-</p>
-
-<p>
-v34: The son of Jonathan was Merib-baal; Merib-baal fathered Micah.
-</p>
-
-<p>
-v35: The sons of Micah: Pithon, Melech, Tarea, and Ahaz.
-</p>
-
-<p>
-v36: Ahaz fathered Jehoaddah; Jehoaddah fathered Alemeth, Azmaveth, and Zimri; and Zimri fathered Moza.
-</p>
-
-<p>
-v37: Moza fathered Binea; his son was Rapha, his son Eleasah, his son Azel.
-</p>
-
-<p>
-v38: Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were sons of Azel.
-</p>
-
-<p>
-v39: The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and Eliphelet the third.
-</p>
-
-<p>
-v40: The sons of Ulam were mighty warriors, drawing the bow. They had many sons and grandsons, one hundred fifty in all. All these were from the sons of Benjamin.
+v38: Azel had six sons: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were Azel’s sons.
+v39: His brother Eshek’s sons were Ulam the firstborn, Jeush the second, and Eliphelet the third.
+v40: Ulam’s sons were mighty warriors skilled with the bow. They had many sons and grandsons—one hundred fifty. All these belonged to Benjamin.
 </p>
 
 ## Notes
 
-v06–07: The notice that the people of Geba were “carried away” is compressed, and the precise relationship between Gera and the preceding families is not fully clear. The genealogy preserves the displacement without explaining its circumstances.
+v06–07: The wording about removal to Manahath and Gera’s part in it is difficult; the event is not otherwise explained here.
 
-v08: “After he had sent away” can refer to Shaharaim’s sending away his wives, Hushim and Baara. The brief statement does not explain why they were sent away.
+v29: The founder or “father” of Gibeon is unnamed in this verse; 9:35 names Jeiel.
 
-v12: The expression translated “its villages” literally means “its daughters,” a common way of referring to smaller settlements associated with a principal town.
+v33–34: Eshbaal and Meribbaal are retained as Chronicles names them. Samuel generally calls them Ish-bosheth and Mephibosheth.
 
-v28: The repeated language of “heads” emphasizes that these lists identify recognized household and clan leaders, not merely successive biological descendants.
-
-v33–40: The genealogy reaches Saul’s family and continues through Jonathan’s line, joining Benjamin’s wider network of households to the royal house while tracing its continuing descendants.
+v36–37: Jehoaddah and Raphah here differ from Jarah and Rephaiah in 9:42–43. Both forms remain visible in their own passages.
 
 ## Vocabulary
 
-v06: - **v06: רָאשֵׁי אָבוֹת (*rashei avot*)** — “heads of ancestral houses.” This designation identifies persons who represent and lead extended kinship groups within Benjamin.
+v33: Fathered
+Identifies descent; genealogical lists may span generations.
 
-v12: - **v12: בְּנוֹתֶיהָ (*benoteha*)** — literally, “its daughters.” Applied to Lod, the word refers to dependent villages or settlements surrounding the city.
-
-v12: בְּנוֹתֶיהָ (benoteha)
-“Its daughters.”
-
-v28: תּוֹלְדוֹתָם (toledotam)
-“their generations.” Here it frames the genealogy as an ordered account of family descent and continuity.
-
-v40: גִּבֹּרֵי חַיִל (gibborei chayil)
-“mighty warriors.” The phrase describes Ulam’s descendants as capable fighters and gives military weight to the closing Benjaminite lineage.
-
-v06: רָאשֵׁי אָבוֹת (rashei avot)
-“heads of ancestral houses.” This designation identifies persons who represent and lead extended kinship groups within Benjamin.
+v38: Bocheru
+Retained as a personal name, though the form resembles the word for firstborn.

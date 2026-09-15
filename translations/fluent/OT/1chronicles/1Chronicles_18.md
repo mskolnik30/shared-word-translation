@@ -4,92 +4,62 @@ testament: OT
 chapter: 18
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-1chronicles-5-29-biblical-fluency-2026-09-15
 ---
 
-# 1 Chronicles 18
+## David’s victories
 
 <p>
-v01: After this, David struck the Philistines and subdued them. He took Gath and its surrounding towns from the hand of the Philistines.
+v01: After this, David defeated the Philistines and subdued them. He took Gath and its surrounding towns from their control.
+v02: He also defeated Moab. The Moabites became David’s subjects and brought him tribute.
 </p>
 
 <p>
-v02: He struck Moab, and the Moabites became David’s servants, bringing tribute.
+v03: David defeated Hadadezer king of Zobah toward Hamath, as Hadadezer went to establish his control at the Euphrates River.
+v04: David captured a thousand chariots, seven thousand horsemen, and twenty thousand foot soldiers from him. David hamstrung all the chariot horses except enough for a hundred chariots.
+v05: When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand of them.
+v06: David stationed forces in Aramean Damascus. The Arameans became his subjects and brought tribute. The LORD gave David victory wherever he went.
+v07: David took the gold shields carried by Hadadezer’s servants and brought them to Jerusalem.
+v08: From Tibhath and Cun, towns belonging to Hadadezer, David took a vast quantity of bronze. Solomon used it to make the bronze Sea, the pillars, and the bronze utensils.
 </p>
 
 <p>
-v03: David struck Hadadezer king of Zobah toward Hamath, as he went to establish his power at the Euphrates River.
+v09: When Tou king of Hamath heard that David had defeated Hadadezer king of Zobah’s entire army,
+v10: he sent his son Hadoram to King David to greet him and congratulate him for fighting Hadadezer and defeating him. Hadadezer had often been at war with Tou. Hadoram brought articles of gold, silver, and bronze.
+v11: King David dedicated these to the LORD as well, along with the silver and gold he had taken from all the nations: Edom, Moab, the Ammonites, the Philistines, and Amalek.
 </p>
 
 <p>
-v04: David captured from him one thousand chariots, seven thousand horsemen, and twenty thousand foot soldiers. David hamstrung all the chariot horses, but left from them one hundred chariot horses.
+v12: Abishai son of Zeruiah struck down eighteen thousand Edomites in the Valley of Salt.
+v13: He stationed garrisons in Edom, and all Edom became David’s subjects. The LORD gave David victory wherever he went.
 </p>
 
-<p>
-v05: When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck twenty-two thousand men of the Arameans.
-</p>
+## Royal officials
 
 <p>
-v06: Then David placed garrisons among the Arameans of Damascus, and the Arameans became David’s servants, bringing tribute. The LORD gave David victory wherever he went.
-</p>
-
-<p>
-v07: David took the gold shields that had belonged to Hadadezer’s servants and brought them to Jerusalem.
-</p>
-
-<p>
-v08: From Tibhath and Cun, cities of Hadadezer, David took a very great quantity of bronze. With it Solomon made the bronze Sea, the pillars, and the bronze vessels.
-</p>
-
-<p>
-v09: When Toi king of Hamath heard that David had struck all the army of Hadadezer king of Zobah,
-</p>
-
-<p>
-v10: he sent his son Hadoram to King David, to ask after his welfare and to bless him because he had fought against Hadadezer and struck him; for Hadadezer had been at war with Toi. Hadoram brought articles of gold, silver, and bronze.
-</p>
-
-<p>
-v11: King David also dedicated these to the LORD, along with the silver and gold that he had carried off from all the nations: from Edom, Moab, the Ammonites, the Philistines, and Amalek.
-</p>
-
-<p>
-v12: Abishai son of Zeruiah struck Edom in the Valley of Salt—eighteen thousand.
-</p>
-
-<p>
-v13: He placed garrisons in Edom, and all the Edomites became David’s servants. The LORD gave David victory wherever he went.
-</p>
-
-<p>
-v14: So David reigned over all Israel, administering justice and righteousness for all his people.
-</p>
-
-<p>
-v15: Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was recorder;
-</p>
-
-<p>
-v16: Zadok son of Ahitub and Abimelech son of Abiathar were priests; Shavsha was secretary;
-</p>
-
-<p>
-v17: and Benaiah son of Jehoiada was over the Kerethites and the Pelethites. David’s sons were foremost at the king’s side.
+v14: David reigned over all Israel, administering justice and righteousness for all his people.
+v15: Joab son of Zeruiah commanded the army. Jehoshaphat son of Ahilud was the recorder.
+v16: Zadok son of Ahitub and Abimelech son of Abiathar were priests. Shavsha was the scribe.
+v17: Benaiah son of Jehoiada was over the Cherethites and Pelethites. David’s sons held the leading positions at the king’s side.
 </p>
 
 ## Notes
 
+v03: The subject of the movement toward the Euphrates is not named again in Hebrew. The draft understands it as Hadadezer.
 
+v04: The figures here differ from the parallel in 2 Samuel 8:4. The Hebrew says a hundred chariots were left; enough horses for those chariots is supplied.
+
+v06: “Forces” supplies the missing object of “stationed.”
+
+v16: Abimelech and Shavsha are retained as named here rather than replaced with forms from parallel lists.
 
 ## Vocabulary
 
-v02: מִנְחָה (minḥah)
-“gift, offering, tribute.” Here it is the payment brought by a defeated people to their ruler, carrying both political and economic significance.
+v02: Tribute
+Payment acknowledging another ruler’s dominance.
 
-v11: קָדַשׁ (qadash)
-“make holy, dedicate.” David sets apart the captured wealth for the LORD, redirecting royal spoils toward sacred use.
-
-v14: מִשְׁפָּט (mishpat)
-“justice, judgment.” David’s rule includes the rendering of just decisions for the people.
-
-v14: צְדָקָה (tsedaqah)
-“righteousness, rightness.” Paired with mishpat, it describes governance ordered toward what is right and faithful.
+v08: Sea
+The name of the great bronze basin later installed at the temple.

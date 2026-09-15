@@ -1,0 +1,590 @@
+{
+  "status": "PASSED",
+  "created_utc": "2026-09-15T11:32:45.854234+00:00",
+  "base_commit": "89f0893c0abd136c80d4a194ca42b090ae6f6274",
+  "scope": "1 Chronicles 5–29; 2 Chronicles 1–5",
+  "new_chapters": 30,
+  "new_verses": 854,
+  "affected_source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-1chronicles-5-29/1chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 25,
+      "verses": 766,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-15-2chronicles-1-5/2chronicles-verse-review.json",
+      "status": "PASSED",
+      "chapters": 5,
+      "verses": 88,
+      "scope": "source identity, byte bindings, coverage, format, ledger consistency; no human approval",
+      "errors": []
+    }
+  ],
+  "preservation": {
+    "prior_ledgers_byte_identical": 61,
+    "prior_chapters_byte_identical": 347,
+    "historical_provenance_and_unrelated_work_preserved": true
+  },
+  "cumulative_coverage": {
+    "ledgers": 63,
+    "chapters": 377,
+    "verses": 11391
+  },
+  "structural_chapters": [
+    {
+      "chapter": 5,
+      "verse_count": 26,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_05.md",
+      "before_sha256": "b517bd12568348363cadb0f4a4a1a3a8b8036e4b7441191436872c099cdfbc8c",
+      "after_sha256": "925ce2647e5d4adb3a73692ff62fe650e75e70547302fb830e90f5915ccbf45d",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_05.md",
+      "tsw_comparator_sha256": "968aae2614c4525d5310aef810535ca60de17badaa7bfd1f4c9da7b7213fea28"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 81,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_06.md",
+      "before_sha256": "e0154abecd5fa4914363ff0298dd8bf5ccd2ed057c1343262b0fd6b9422bd92a",
+      "after_sha256": "31af5f607fec6f51519dc54c70cd20a8a47fb01b89109cebeef0f9347e06f315",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_06.md",
+      "tsw_comparator_sha256": "a0824fef11715572bcbf6d0e8fdc85845ffc7961bb260ac0a764afba8b9930f8"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 40,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_07.md",
+      "before_sha256": "deb346073ee0f5833732dbe947eac7b9c5fd6d9953faf8b026d310859f3f278e",
+      "after_sha256": "5f134a867e7f1f300590e14d90ea7b2e8e9d4a37420b236c369040e0d302bf7e",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_07.md",
+      "tsw_comparator_sha256": "962f07652ecc27748bdb75c3a48852263b6fd80f434faace6dfe0244928854cb"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 40,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_08.md",
+      "before_sha256": "32a8b105caeadf04d6076dd0c1c274fbb3a2c117ea0053c3ba0bd03789170d1a",
+      "after_sha256": "880930f9a07ff80b5f7cd0f41c4e20c2f269f0df32eb99e2f05d464f85fa1aed",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_08.md",
+      "tsw_comparator_sha256": "2c12317a3654531b7f338373e86df35451ce7bd57d48d5b7c6e13a6fc59c7069"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 44,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_09.md",
+      "before_sha256": "f23f6294c6d12d508d4b4cdefe367f97e7f7edab3888659e40244eb9aafbfa9c",
+      "after_sha256": "d02b4148ed2e78666ca9b86489e2b3d9333784f594436947a55c0eaa734cafb0",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_09.md",
+      "tsw_comparator_sha256": "cd348a65147db5d046d20d19fff1508c570855b5cb2a96ae9e49aefd5983f9e5"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 14,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_10.md",
+      "before_sha256": "f1ac7a5e19ef8b3f4f4af08f01ab91069bd1122faebacb31d3fc072619eb8147",
+      "after_sha256": "b0b576bf88ff19bae71970cddf02501b5f5da76ae2c2a6ce94bab595815ec865",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_10.md",
+      "tsw_comparator_sha256": "e4d70910ec35c5759b84298cf5094e4afc36ec64ec56aeb12903bd84acdc5fec"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 47,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_11.md",
+      "before_sha256": "c83f83d681743fd47d487c00cdee08da349d9338de6226c8a80aaa190e189a14",
+      "after_sha256": "59c5fbc608520474a3cb528e7dcb9531e52fd08ce269de9ab9bd50630d772e9c",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_11.md",
+      "tsw_comparator_sha256": "bebaea2692fe59a7308da32deb2e09131b0dd14a4bf3969304ca32ba7e72b488"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 40,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_12.md",
+      "before_sha256": "f07f88d3d6d7ea45eb1f3c0dab59645221cc848f3ac8fa6cd1ac4aae0f9b0d5b",
+      "after_sha256": "41748bad42bcec675d5b77392821d2e957e57e8c41960fcdc8973bca6b9ca949",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_12.md",
+      "tsw_comparator_sha256": "f7640a34d2a448d65e7a5fcbe71b988b017ed8a090f137d7774fbb373588ec44"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 14,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_13.md",
+      "before_sha256": "776b80a680928c54adb15a2d75b44a73d7445e04e782c4e9ed01f3e896e7e11f",
+      "after_sha256": "59542738f56e17f50f251a6bde297914a5ec2874101dff12ae73c4e7f0680464",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_13.md",
+      "tsw_comparator_sha256": "fc6390f2301fac5f3d7fc54c13d068a51e9390268ee08e5415aa42923350573d"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 17,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_14.md",
+      "before_sha256": "99f2350143a9e7dc08e698c51075d7bc0cb4ab2587f277d2494fdce98861ac60",
+      "after_sha256": "4de3d21c2f980b492e2cf8c179953d3fc2ad82f32044e22364d9a7072c56c7b6",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_14.md",
+      "tsw_comparator_sha256": "0db0dc7fd3b6fadd2756c95a4a864afaa655c5f4129c40fefb49364f3a738ecf"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 29,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_15.md",
+      "before_sha256": "4201f094e17ab2a565b94112d66b0e4156f79bf3447f822ffcd9f2a26f3a4d2d",
+      "after_sha256": "759b83f10b657de9b5f349e5c6ee771d24404fbe3c95d9332e58d0e909b1b6e2",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_15.md",
+      "tsw_comparator_sha256": "c2e5b14cbef577969c3b084a2b16b7dd5f6752dd0a00b0da7e4e0e144cf2210f"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 43,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_16.md",
+      "before_sha256": "9cc914419863244e1a02bf7d4238e852fb219eafe8171cc2664e6bebdd8a6f4a",
+      "after_sha256": "0ddcb43de23b930c6a67f603f3bed15813ed30d7b29f70c36e98681679533b0a",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_16.md",
+      "tsw_comparator_sha256": "18dea4a2aba3cddaee61f7fd172f99c94b75af7d8d7272e78f2e9e79573005ed"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 27,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_17.md",
+      "before_sha256": "b64329af82a7c5eb14b8df6ac3fe57c4cf269277e70b78e0210258d6c66c33ef",
+      "after_sha256": "4387a163380b755eb96b0ef3bd1ebec7cc2bd804262215d871cd2d77f19850b8",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_17.md",
+      "tsw_comparator_sha256": "155efcb6109bed642ba625f254411f1019df097e33a03caded9b4b1b35bf0c96"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 17,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_18.md",
+      "before_sha256": "47cc3ff2617abefc01c01857e8dc4feb31e47046ff291cce15daa7c72eee44bf",
+      "after_sha256": "2fa0b0a207237bbe98b8770ef1076f8f942ea3380b8f9be4c8de92a0fd4685a4",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_18.md",
+      "tsw_comparator_sha256": "afa7f6394f7dce5e04b7b00e19508adcac74022dcb7e58da94de45e7b3cf46f6"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 19,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_19.md",
+      "before_sha256": "9aae7d33ccdbe3b4c8065557914652f680d24f969341cf1515a6428a5d1c7424",
+      "after_sha256": "f66553ef036fcce58e74a194d7e8a0af656e8f1a4a002f2835cad9bb8dcc89d5",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_19.md",
+      "tsw_comparator_sha256": "c41d668896bdeec29e00a52a211128e5e9ea3cb545607d9e957ae1c0e6e75f27"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 8,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_20.md",
+      "before_sha256": "d84ed1634cfe7e4dfda482107dc948827915c8aa642fc4dc89f6c01ca285b2a6",
+      "after_sha256": "7bf17ea96e3661bce48a28fd1cc82aea8b96e8501101e2b48848dcdb03041fd3",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_20.md",
+      "tsw_comparator_sha256": "a614ecbec8d6d180c1aab0e610cf394629ebd2cd9e0133dc6ff4c9d367dcb4fc"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 30,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_21.md",
+      "before_sha256": "3e95804c1bc93b5aaa506cbc4f62931814c5b652e6680e3a314ccee6c95c5a44",
+      "after_sha256": "f9f0a2c5b5f7ab577f7380e1fafd1360afe297c12cb0666fa54e1964a6c82541",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_21.md",
+      "tsw_comparator_sha256": "9026f5fbe0d4366003b02b7be356609304cf2652b35c7681903cf5a2e2678808"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 19,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_22.md",
+      "before_sha256": "e4cc4250d04a94c80c3ac33e7d0a8219df4144fec2adcb2bbb88a0299c201a8a",
+      "after_sha256": "22aa985db29a542083d9ddb67dd25f83af45d41c53f1d224d0c6539aa5293396",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_22.md",
+      "tsw_comparator_sha256": "4ab88ddc34e71a703bd04724e23bc5b2603b3140dac001c1a5cf62051194f022"
+    },
+    {
+      "chapter": 23,
+      "verse_count": 32,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_23.md",
+      "before_sha256": "1817744dd2dbc89d1c26e70452540c07ff1840418895139a282cf5523aec8f76",
+      "after_sha256": "7998a398a837246195a04f681be81a48f617fd645ea82d2c980001d3214e8339",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_23.md",
+      "tsw_comparator_sha256": "96be09c0a6fabbd7dc0fe931218f9e3efecdf2a2817e5d93746ac6015cb990fa"
+    },
+    {
+      "chapter": 24,
+      "verse_count": 31,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_24.md",
+      "before_sha256": "6adba854774fd1d52001feefef76d03501108fbf7ed779b7f8dfb318598ba08e",
+      "after_sha256": "3e597a07f6fee573494e8f5e09a2344b684857d55342c6b80339bf40dcbe0865",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_24.md",
+      "tsw_comparator_sha256": "3578bab12ec769f8dada5d2e02d092831b0a42468a2fd4a12c46488eaa01399d"
+    },
+    {
+      "chapter": 25,
+      "verse_count": 31,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_25.md",
+      "before_sha256": "ac51516ab0ef628345fedccf56d679be28e4b61de89d00f279b20c8bde1d6794",
+      "after_sha256": "91811e5f9c55a2a2687b31f5b918c2444cba877ff8a826eae52bff7a8032b703",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_25.md",
+      "tsw_comparator_sha256": "7077e641d06003839b6eb8e45a319d8601118c9bb31c703abd1117b620d7c068"
+    },
+    {
+      "chapter": 26,
+      "verse_count": 32,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_26.md",
+      "before_sha256": "277e57fcb28efd61e52ae4c89f48f4e0e2cfc8cdb57f9dbb13b072d9e88aa827",
+      "after_sha256": "f58f18705d8449f6e5248e1475e6613e954dca40e6eea3adfa3a72d09c94f3d1",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_26.md",
+      "tsw_comparator_sha256": "e5fe39396d8d3a5605fc37895bcccc7529b63ce8b6a0b601f10b2a31ac272e72"
+    },
+    {
+      "chapter": 27,
+      "verse_count": 34,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_27.md",
+      "before_sha256": "9a6225dd8f76bcf66ccffdb53e721df7e93a45bcb586f4585050df244ae33e30",
+      "after_sha256": "e1367615636c148754cb377d82c5adb46f4240961dc8fc475d6d2ff692bd819c",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_27.md",
+      "tsw_comparator_sha256": "f6f92e989a9d61119a914a3447ebaeca48c5019bfd16b65ceb869a57c96b9ae7"
+    },
+    {
+      "chapter": 28,
+      "verse_count": 21,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_28.md",
+      "before_sha256": "124045fac5c9d654ed930f096cb1379d6f4e121e68681cf69d6ffa90ee95acc2",
+      "after_sha256": "f339ee0860287c58f59c756d834fbaf533c6fade3505ef0df24402aeef80c39e",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_28.md",
+      "tsw_comparator_sha256": "f6c4e2ee23b4a9fd23fb4b9ede4d55736aa6f3ece7db53f2cb83622623a00df0"
+    },
+    {
+      "chapter": 29,
+      "verse_count": 30,
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_29.md",
+      "before_sha256": "6498fc507fda83705f1cdc62be93e83353e4fc5e463a424d98364bd9389b0c20",
+      "after_sha256": "6189c26d8f3bd97002e5cd1e1985195954671389e9fbfc4a8ea348980ca7f667",
+      "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_29.md",
+      "tsw_comparator_sha256": "80f2d8d837fa83b15ca2fc1b2e803d21f4a19eefe51e95036739fd3d9b197e40"
+    },
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_01.md",
+      "before_sha256": "cb4256e71ff281252d0415221bde9bec4af5bfa776f3d4a292be6dbdf0436339",
+      "after_sha256": "8f4d91a660728a27a70dfd889a4c312703c9847b1ea29184eb755c0dd5a1f34c",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_01.md",
+      "tsw_comparator_sha256": "ceda82cd477832b01c675976b3b7acecbdf62afa1171906e50ff9c696af808aa"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 18,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_02.md",
+      "before_sha256": "a47b742f2b5036c410ff5a0cc8595a4e7e36225e89bf80430565e7f0e387aadb",
+      "after_sha256": "56be9ba074163db48aac726f1908b7c4f7cdca1c7f21d0d076bb54729488a579",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_02.md",
+      "tsw_comparator_sha256": "4d596486afb90396ed8d9f03370f828cab53b105103ccce3ea5154074f23ef06"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 17,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_03.md",
+      "before_sha256": "626e7a7845a7dc13d03592aa68437650a57a8d444f8e89cf8c36ba1ce035b545",
+      "after_sha256": "02fe08f9ed2faf095bff579a1675bd6d124a778a901b08c292fa75309eb0ee1b",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_03.md",
+      "tsw_comparator_sha256": "738ee3839606baea129ef53a31a82c3db60a69ae7450e38912ed68620525027c"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_04.md",
+      "before_sha256": "7da0bd02f797e788896f853a6092d927e25f98a5cc313e8585716763741d8edd",
+      "after_sha256": "bac319831c746f1d472020a1b23cc07641d0b2fade9a1b9bbb0015cf49f2b005",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_04.md",
+      "tsw_comparator_sha256": "edcd1f6c621b33172f466edd8445c939a9931e46d8e7c463a01e9fd05f0aa0a0"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 14,
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_05.md",
+      "before_sha256": "60f2b08728e927f68697c8bb65e27ed201486ace564fd36a78344051b7d0fe44",
+      "after_sha256": "9157da511e076945225eaea67dad79aca0ad934ceda60cdb45ae8781362f89d5",
+      "tsw_comparator_path": "books/OT/2chronicles/2Chronicles_05.md",
+      "tsw_comparator_sha256": "39deb7295cf9eaf3d52d87f464b67383036a25e814e28ccc573f9a4c51b4207a"
+    }
+  ],
+  "first_source_reading": {
+    "public_verses": 854,
+    "original_records": 855,
+    "all_original_annotations_read": true
+  },
+  "tsw_comparator_reading": 854,
+  "focused_source_reread": {
+    "1chronicles": 225,
+    "2chronicles": 44
+  },
+  "focused_assertions": {
+    "1 Chronicles 6:28": [
+      "Vashni",
+      "Abijah"
+    ],
+    "1 Chronicles 6:60": [
+      "Geba",
+      "thirteen"
+    ],
+    "1 Chronicles 7:3": [
+      "five"
+    ],
+    "1 Chronicles 7:24": [
+      "Sheerah"
+    ],
+    "1 Chronicles 8:36": [
+      "Jehoaddah"
+    ],
+    "1 Chronicles 9:42": [
+      "Jarah"
+    ],
+    "1 Chronicles 10:12": [
+      "terebinth"
+    ],
+    "1 Chronicles 10:14": [
+      "LORD put him to death"
+    ],
+    "1 Chronicles 11:11": [
+      "three hundred"
+    ],
+    "1 Chronicles 11:13": [
+      "barley"
+    ],
+    "1 Chronicles 11:19": [
+      "blood",
+      "lives"
+    ],
+    "1 Chronicles 11:23": [
+      "five cubits"
+    ],
+    "1 Chronicles 12:18": [
+      "Spirit clothed",
+      "Peace, peace"
+    ],
+    "1 Chronicles 13:9": [
+      "Chidon"
+    ],
+    "1 Chronicles 14:7": [
+      "Beeliada"
+    ],
+    "1 Chronicles 15:18": [
+      "Ben"
+    ],
+    "1 Chronicles 15:20": [
+      "Aziel",
+      "alamoth"
+    ],
+    "1 Chronicles 15:21": [
+      "sheminith"
+    ],
+    "1 Chronicles 15:26": [
+      "seven bulls",
+      "seven rams"
+    ],
+    "1 Chronicles 16:13": [
+      "Israel"
+    ],
+    "1 Chronicles 16:15": [
+      "Remember"
+    ],
+    "1 Chronicles 16:27": [
+      "joy"
+    ],
+    "1 Chronicles 16:38": [
+      "sixty-eight"
+    ],
+    "1 Chronicles 17:14": [
+      "my house",
+      "my kingdom"
+    ],
+    "1 Chronicles 18:4": [
+      "thousand chariots",
+      "seven thousand",
+      "twenty thousand"
+    ],
+    "1 Chronicles 18:12": [
+      "Abishai",
+      "eighteen thousand"
+    ],
+    "1 Chronicles 18:16": [
+      "Abimelech",
+      "Shavsha"
+    ],
+    "1 Chronicles 19:6": [
+      "stench"
+    ],
+    "1 Chronicles 19:7": [
+      "thirty-two thousand"
+    ],
+    "1 Chronicles 19:18": [
+      "seven thousand",
+      "forty thousand"
+    ],
+    "1 Chronicles 20:3": [
+      "cut"
+    ],
+    "1 Chronicles 20:5": [
+      "Lahmi",
+      "brother"
+    ],
+    "1 Chronicles 20:6": [
+      "twenty-four"
+    ],
+    "1 Chronicles 21:1": [
+      "Satan"
+    ],
+    "1 Chronicles 21:5": [
+      "1,100,000",
+      "470,000"
+    ],
+    "1 Chronicles 21:12": [
+      "three years",
+      "three months",
+      "three days"
+    ],
+    "1 Chronicles 21:14": [
+      "seventy thousand"
+    ],
+    "1 Chronicles 21:25": [
+      "six hundred"
+    ],
+    "1 Chronicles 22:8": [
+      "blood"
+    ],
+    "1 Chronicles 22:14": [
+      "hundred thousand",
+      "million"
+    ],
+    "1 Chronicles 23:3": [
+      "thirty",
+      "thirty-eight thousand"
+    ],
+    "1 Chronicles 23:24": [
+      "twenty"
+    ],
+    "1 Chronicles 23:22": [
+      "daughters",
+      "Kish"
+    ],
+    "1 Chronicles 24:23": [
+      "Jeriah",
+      "Amariah",
+      "Jahaziel",
+      "Jekameam"
+    ],
+    "1 Chronicles 25:3": [
+      "six"
+    ],
+    "1 Chronicles 25:5": [
+      "fourteen sons",
+      "three daughters"
+    ],
+    "1 Chronicles 25:7": [
+      "288"
+    ],
+    "1 Chronicles 26:8": [
+      "sixty-two"
+    ],
+    "1 Chronicles 26:20": [
+      "Ahijah"
+    ],
+    "1 Chronicles 26:30": [
+      "1,700"
+    ],
+    "1 Chronicles 26:31": [
+      "fortieth"
+    ],
+    "1 Chronicles 26:32": [
+      "2,700"
+    ],
+    "1 Chronicles 27:23": [
+      "twenty"
+    ],
+    "1 Chronicles 27:29": [
+      "Shirtai"
+    ],
+    "1 Chronicles 28:2": [
+      "footstool"
+    ],
+    "1 Chronicles 28:18": [
+      "chariot"
+    ],
+    "1 Chronicles 29:7": [
+      "darics"
+    ],
+    "1 Chronicles 29:15": [
+      "shadow"
+    ],
+    "1 Chronicles 29:22": [
+      "second time"
+    ],
+    "1 Chronicles 29:27": [
+      "forty",
+      "seven",
+      "thirty-three"
+    ],
+    "2 Chronicles 1:14": [
+      "fourteen hundred",
+      "twelve thousand"
+    ],
+    "2 Chronicles 1:17": [
+      "six hundred",
+      "hundred fifty"
+    ],
+    "2 Chronicles 2:10": [
+      "twenty thousand cors",
+      "twenty thousand baths"
+    ],
+    "2 Chronicles 2:14": [
+      "Dan",
+      "Tyre"
+    ],
+    "2 Chronicles 2:17": [
+      "153,600"
+    ],
+    "2 Chronicles 2:18": [
+      "seventy thousand",
+      "eighty thousand",
+      "thirty-six hundred"
+    ],
+    "2 Chronicles 3:2": [
+      "second day",
+      "second month",
+      "fourth year"
+    ],
+    "2 Chronicles 3:4": [
+      "hundred twenty cubits high"
+    ],
+    "2 Chronicles 3:15": [
+      "thirty-five",
+      "five cubits"
+    ],
+    "2 Chronicles 4:1": [
+      "twenty cubits long",
+      "twenty cubits wide",
+      "ten cubits high"
+    ],
+    "2 Chronicles 4:5": [
+      "three thousand baths"
+    ],
+    "2 Chronicles 5:9": [
+      "from the ark",
+      "It remains"
+    ],
+    "2 Chronicles 5:12": [
+      "hundred twenty"
+    ],
+    "2 Chronicles 5:13": [
+      "as one",
+      "one sound",
+      "faithful love"
+    ]
+  },
+  "whole_1chronicles_source_records_bound_once": 943,
+  "selected_2chronicles_source_records_bound_once": 88,
+  "public_source_versification_checked": true,
+  "translation_family_audit": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_samuel_kings_and_1chronicles_consistency_passes": "PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}
