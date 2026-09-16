@@ -2,581 +2,411 @@
   "book": "Luke",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 80,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-1-4-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f3641e1567a056d4d6cb88f8202bea87ec08a494",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_01_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "9d5aaa0d294955fe317f1ca32b761e58606fea6f9887d891cdc0b5b6d43009d2"
-      },
-      "2": {
-        "source_ref": "Luke 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "1d7e94c5d6f8d599cd6321bf372f556136981775f8a397f2eeed10331f497627"
-      },
-      "3": {
-        "source_ref": "Luke 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "036f1292b27d3b0406b61ee2b2bdf231595df9b75577549d2b4f1d9cb23fb4af"
-      },
-      "4": {
-        "source_ref": "Luke 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "d3cf9046e012ea72f92d61f8eebd38ec5b3edde28784f30a608889e52ef39173"
-      },
-      "5": {
-        "source_ref": "Luke 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "0c37682cf541393bc3ec54d89b74bb677716a1b846eeee0a9daba66d94ad1e5b"
-      },
-      "6": {
-        "source_ref": "Luke 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "b5233abf84db16f062e0aa33c7f81064c34ac45b86b24cbc8463e7b0e27fa098"
-      },
-      "7": {
-        "source_ref": "Luke 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "a3a45592a54dd0759251d020c7bf79dc3a25f9476db9d9a322bd5ca568b27b57"
-      },
-      "8": {
-        "source_ref": "Luke 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "37e6e16c474b9cacf05f5f08893be9fc3690954d0c960a3964ce4e06f2950ad9"
-      },
-      "9": {
-        "source_ref": "Luke 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "da743d891d498a45cf219010fc22038d1daab712489547bd8985d565f4589623"
-      },
-      "10": {
-        "source_ref": "Luke 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "77755820aca4c9335bb335f357033dc9f65e9bf088e1b3ea59e180edc75cf570"
-      },
-      "11": {
-        "source_ref": "Luke 1:11",
-        "source_chapter": 1,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "b51b3e45a6e1a4f222806349e7e9068d773633f2778fffc90ce5d0939c524e0c"
-      },
-      "12": {
-        "source_ref": "Luke 1:12",
-        "source_chapter": 1,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "35c3892f59748b5731caba40f09e36924ba87bc61fd4a89e3ec7bfb82314d4b5"
-      },
-      "13": {
-        "source_ref": "Luke 1:13",
-        "source_chapter": 1,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "6e68ded0d93318496c52d1ed7339ea3e1eafbc94190b1f966369a6490d232b89"
-      },
-      "14": {
-        "source_ref": "Luke 1:14",
-        "source_chapter": 1,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "8c93b311632466022c7bd95e9a9fbbc0713dfce7cd22e5d31901e23bc914bdba"
-      },
-      "15": {
-        "source_ref": "Luke 1:15",
-        "source_chapter": 1,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "5138d8e6140d8cc130d6ca3d402907eab2e51e39ef27b7c8950fae1e3c4a9cc8"
-      },
-      "16": {
-        "source_ref": "Luke 1:16",
-        "source_chapter": 1,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "8a8659e83f36b554d4e21508d9ed216727cb135b546fb1915456f14b3ead8388"
-      },
-      "17": {
-        "source_ref": "Luke 1:17",
-        "source_chapter": 1,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "8d575d7a2e59a859fc94e517a25e3ad9a6159a586d5418006c083be20cf5a8f2"
-      },
-      "18": {
-        "source_ref": "Luke 1:18",
-        "source_chapter": 1,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "e55fa345050627bc5c53923ea47aa2fdfd9a58d0d0a48cabbc05a48329351606"
-      },
-      "19": {
-        "source_ref": "Luke 1:19",
-        "source_chapter": 1,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "7686e8b6e8c9240f75f4d9aab83f25797af55acae890ae0e0b4ffb1a6adeb571"
-      },
-      "20": {
-        "source_ref": "Luke 1:20",
-        "source_chapter": 1,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "1a08bec0ea2656b0cc76e7c88aa1477f284749a39ac3044dab92549c99c66f5b"
-      },
-      "21": {
-        "source_ref": "Luke 1:21",
-        "source_chapter": 1,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "34baad20e3d25a29ad6b33e36e3fcb0a282b460b3d28907b0393bda6c4a2f3e7"
-      },
-      "22": {
-        "source_ref": "Luke 1:22",
-        "source_chapter": 1,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "fc5f6bebb00fab5fa3b330f22986fa8a5d25599a07d3f2506240b05ae6a64725"
-      },
-      "23": {
-        "source_ref": "Luke 1:23",
-        "source_chapter": 1,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "ae640053bcc86ebb3e20c2ee0f4f21e94d62f3536241a7373f70b4368a90fa86"
-      },
-      "24": {
-        "source_ref": "Luke 1:24",
-        "source_chapter": 1,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "c03f58f02256588a3f7c7794b36584945bec5c0622eee28361872168637f4575"
-      },
-      "25": {
-        "source_ref": "Luke 1:25",
-        "source_chapter": 1,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "6e241dd1e7617bf89b80d616d885a4970c1801795bbff75fb46571c1a77ce02c"
-      },
-      "26": {
-        "source_ref": "Luke 1:26",
-        "source_chapter": 1,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "110d364097353b5416bcba16a6a512183a5165c016da391202ae3f59ac132e2b"
-      },
-      "27": {
-        "source_ref": "Luke 1:27",
-        "source_chapter": 1,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "2e2a7d3594102568ece55233dccc672350854b6ff73e3490799515afefef293b"
-      },
-      "28": {
-        "source_ref": "Luke 1:28",
-        "source_chapter": 1,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "503aeaa69f16673b922e46c18ce83c2f3a126533d9963951742603b8c670fa15"
-      },
-      "29": {
-        "source_ref": "Luke 1:29",
-        "source_chapter": 1,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "8b6b0b5db08e1c84d465c653c6f53e675fd37846f7478a81e9caed03b5b4b6a3"
-      },
-      "30": {
-        "source_ref": "Luke 1:30",
-        "source_chapter": 1,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "bb58abc5aa3dd5d9f626af0f8b58022d9805f514c59d5681cc3838b02366092d"
-      },
-      "31": {
-        "source_ref": "Luke 1:31",
-        "source_chapter": 1,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "5b3123538f3be91822f70007f4ff5f689b65d99f17411bc2a8d7d58503c480de"
-      },
-      "32": {
-        "source_ref": "Luke 1:32",
-        "source_chapter": 1,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "b2a6b919f5d13e03de05d9ff9c23f678aaab390bbfd679676f56faa4982c9936"
-      },
-      "33": {
-        "source_ref": "Luke 1:33",
-        "source_chapter": 1,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "daa829add2ac2ff615ad354d1dc5f435fe3cd17ae4d139cf43383c889dd67eb2"
-      },
-      "34": {
-        "source_ref": "Luke 1:34",
-        "source_chapter": 1,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "e8f5c83f67c2ac28a5c5039f24904299c22c38e0580b024a7558fc927233cecf"
-      },
-      "35": {
-        "source_ref": "Luke 1:35",
-        "source_chapter": 1,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "bcc3f5b9997b53d8ec0f87c7c214804e6951d9ac8a2c41f63060ed35e447989d"
-      },
-      "36": {
-        "source_ref": "Luke 1:36",
-        "source_chapter": 1,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "0214a1a0d561edd46b60df6bccf593ce3e92d5bdf6dd438fad302cef1f410b4b"
-      },
-      "37": {
-        "source_ref": "Luke 1:37",
-        "source_chapter": 1,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "92f1b98e55021341e6f877980f11c1c01cb03f145f82e6be7c5279f253bc07bf"
-      },
-      "38": {
-        "source_ref": "Luke 1:38",
-        "source_chapter": 1,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "a52d55f729649f3f5c82a207a1b33903a52d0f71799f71e38b7b0ae8c6f81ab0"
-      },
-      "39": {
-        "source_ref": "Luke 1:39",
-        "source_chapter": 1,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "a2d6e8f8b3f5f15f03b0bf6b94db6b74f43036b0a359d2dd38fc48a8eef4eab1"
-      },
-      "40": {
-        "source_ref": "Luke 1:40",
-        "source_chapter": 1,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "10cc8e717c39d220460dd1defdb7a8926c4212eeea7c2ae863a9a26d6bca0578"
-      },
-      "41": {
-        "source_ref": "Luke 1:41",
-        "source_chapter": 1,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "2a8c83fe54cb60b75c4ab4df1e2b41d7ac2287bde5a1f9792c1848c10bd9f917"
-      },
-      "42": {
-        "source_ref": "Luke 1:42",
-        "source_chapter": 1,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "4682d98712dec2c6df8f30b1a9880d6919a002dcb5c7a6c705d209d41c263bab"
-      },
-      "43": {
-        "source_ref": "Luke 1:43",
-        "source_chapter": 1,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "f699f9fea75cdcff950cc299d0010ff51f732149c342ac197f47903237455126"
-      },
-      "44": {
-        "source_ref": "Luke 1:44",
-        "source_chapter": 1,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "fff9e1a3fe3cdb14acc3870f9bbd510bb0d0ceea5ce026e9f471efa8ad274863"
-      },
-      "45": {
-        "source_ref": "Luke 1:45",
-        "source_chapter": 1,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "5b3101004639a4ebc4a279dd2fb02f085de455302f69f10e4f95f596543135e8"
-      },
-      "46": {
-        "source_ref": "Luke 1:46",
-        "source_chapter": 1,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "1cf86340900d795da758359f934fd97289a5cdcce3905558960ad0edfa378085"
-      },
-      "47": {
-        "source_ref": "Luke 1:47",
-        "source_chapter": 1,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "eda1823150e89669828991e1ff141860617daedc1c2f158a8c501be9a3a925f5"
-      },
-      "48": {
-        "source_ref": "Luke 1:48",
-        "source_chapter": 1,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "2d80d689703495e079dbdb7b0afbff2814ae3009d5da29f5d852bb014979d1bd"
-      },
-      "49": {
-        "source_ref": "Luke 1:49",
-        "source_chapter": 1,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "70f62729563fe0b000d3355ef21d4def7c66923dc82e1a16efd4a7f08d0a498f"
-      },
-      "50": {
-        "source_ref": "Luke 1:50",
-        "source_chapter": 1,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "15d3be03862a0f874069ff23ba6b24b77bb15433edf38c8e4479db0fcf2a2283"
-      },
-      "51": {
-        "source_ref": "Luke 1:51",
-        "source_chapter": 1,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "aba6dccbe46f3aacc92e3219053062b6dba89f5b6093a8340ba2f280d1bc945d"
-      },
-      "52": {
-        "source_ref": "Luke 1:52",
-        "source_chapter": 1,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "16cf4b06d2b47ee563ae9902d758e7f880d6a5ebf739bb41a83d238636d8ac8c"
-      },
-      "53": {
-        "source_ref": "Luke 1:53",
-        "source_chapter": 1,
-        "source_verse": 53,
-        "segment_mode": "whole_record",
-        "sha256": "0df240357371413629c5d04af189b4ceb0942975396ea95811443435297ab8c4"
-      },
-      "54": {
-        "source_ref": "Luke 1:54",
-        "source_chapter": 1,
-        "source_verse": 54,
-        "segment_mode": "whole_record",
-        "sha256": "f2476522c82fee247cb9f6ca7ea2ff73e1a23893df993ca278e652b23743155a"
-      },
-      "55": {
-        "source_ref": "Luke 1:55",
-        "source_chapter": 1,
-        "source_verse": 55,
-        "segment_mode": "whole_record",
-        "sha256": "de8afa41b58b737658d33a5e58002357025fa95dda812ba91b9af3e18054eee5"
-      },
-      "56": {
-        "source_ref": "Luke 1:56",
-        "source_chapter": 1,
-        "source_verse": 56,
-        "segment_mode": "whole_record",
-        "sha256": "4459f724686f08c1c65d21727610f9065d99fe72326ded87869cb30120e16fa6"
-      },
-      "57": {
-        "source_ref": "Luke 1:57",
-        "source_chapter": 1,
-        "source_verse": 57,
-        "segment_mode": "whole_record",
-        "sha256": "79422997f064f03dc540ef7e3453f8da63eaec79f7dd20ed49cc93de0f70f28a"
-      },
-      "58": {
-        "source_ref": "Luke 1:58",
-        "source_chapter": 1,
-        "source_verse": 58,
-        "segment_mode": "whole_record",
-        "sha256": "3c158d36105d070acd4c640f71af4ece877caf9c5581655e46864b71b1ac11e5"
-      },
-      "59": {
-        "source_ref": "Luke 1:59",
-        "source_chapter": 1,
-        "source_verse": 59,
-        "segment_mode": "whole_record",
-        "sha256": "6c156212e96f81b059de01d694dc22a5252ab674a1bea2ecb42369dd6d1395d7"
-      },
-      "60": {
-        "source_ref": "Luke 1:60",
-        "source_chapter": 1,
-        "source_verse": 60,
-        "segment_mode": "whole_record",
-        "sha256": "c58484c87ff4f1fe5b372f63dd8a406ecf0e20ddcd8ad53a6a4d96bc6ed5cbb5"
-      },
-      "61": {
-        "source_ref": "Luke 1:61",
-        "source_chapter": 1,
-        "source_verse": 61,
-        "segment_mode": "whole_record",
-        "sha256": "c6e31edfb46362ca9bb16c2cf050b03af6263d332348ac4f71342b523856d24e"
-      },
-      "62": {
-        "source_ref": "Luke 1:62",
-        "source_chapter": 1,
-        "source_verse": 62,
-        "segment_mode": "whole_record",
-        "sha256": "722bc20e33fd6684024f3b6d20743beb662caadf0c640997376ff36be016ff6a"
-      },
-      "63": {
-        "source_ref": "Luke 1:63",
-        "source_chapter": 1,
-        "source_verse": 63,
-        "segment_mode": "whole_record",
-        "sha256": "1cae6e825be34b522e3a940714f7072c951ad4059ef581f39a0c03aa2f835367"
-      },
-      "64": {
-        "source_ref": "Luke 1:64",
-        "source_chapter": 1,
-        "source_verse": 64,
-        "segment_mode": "whole_record",
-        "sha256": "bbda032601250a0ac96c79b91002c610dc9b0928278ddcfa75473a91fe4a119a"
-      },
-      "65": {
-        "source_ref": "Luke 1:65",
-        "source_chapter": 1,
-        "source_verse": 65,
-        "segment_mode": "whole_record",
-        "sha256": "cd7bd82fc179d4340546b9ffe831b325c3575acca56b42ca960ced0960efd7ef"
-      },
-      "66": {
-        "source_ref": "Luke 1:66",
-        "source_chapter": 1,
-        "source_verse": 66,
-        "segment_mode": "whole_record",
-        "sha256": "4ba9d6d83eefbc17d2d7731eb9407ffd34c9498bf553e0992fd5a90a5bd3fca1"
-      },
-      "67": {
-        "source_ref": "Luke 1:67",
-        "source_chapter": 1,
-        "source_verse": 67,
-        "segment_mode": "whole_record",
-        "sha256": "3e0328275dda071f86645925fdadc2d4f4795eb76ec288f0fc242f306b1391a9"
-      },
-      "68": {
-        "source_ref": "Luke 1:68",
-        "source_chapter": 1,
-        "source_verse": 68,
-        "segment_mode": "whole_record",
-        "sha256": "ba9e95d227c733f8b3073db1cc1d3ed5950924cc3a83ef5c90fc100287642506"
-      },
-      "69": {
-        "source_ref": "Luke 1:69",
-        "source_chapter": 1,
-        "source_verse": 69,
-        "segment_mode": "whole_record",
-        "sha256": "cb62ea9cdae41ac7714aef4213e48fab551cfe56a079133edc7a407368aa11fc"
-      },
-      "70": {
-        "source_ref": "Luke 1:70",
-        "source_chapter": 1,
-        "source_verse": 70,
-        "segment_mode": "whole_record",
-        "sha256": "ddbebb69cf2afa8e01124c902486d07e33b2356e2ed71d5445799b0d85496b1f"
-      },
-      "71": {
-        "source_ref": "Luke 1:71",
-        "source_chapter": 1,
-        "source_verse": 71,
-        "segment_mode": "whole_record",
-        "sha256": "58fbc7185ac00c6ece94b937e55fcaa51169931bbed532c758537acf4e7bbd0e"
-      },
-      "72": {
-        "source_ref": "Luke 1:72",
-        "source_chapter": 1,
-        "source_verse": 72,
-        "segment_mode": "whole_record",
-        "sha256": "90422d169f00d517bfe32945fd4f56a392a9f6caaa8f6e67582a7f3d0b9036f5"
-      },
-      "73": {
-        "source_ref": "Luke 1:73",
-        "source_chapter": 1,
-        "source_verse": 73,
-        "segment_mode": "whole_record",
-        "sha256": "a37701ffb88033ab04cfc1c9882a3065fdc23963a856ef7025d00bc2180175b7"
-      },
-      "74": {
-        "source_ref": "Luke 1:74",
-        "source_chapter": 1,
-        "source_verse": 74,
-        "segment_mode": "whole_record",
-        "sha256": "4b6a5c22277ea5a9f8eace23270f9a277e3ae5924dbd3f223132e7e392b4c173"
-      },
-      "75": {
-        "source_ref": "Luke 1:75",
-        "source_chapter": 1,
-        "source_verse": 75,
-        "segment_mode": "whole_record",
-        "sha256": "641c6dac5cfedb09e70f840506822d72027b56c526035427c765c8a3980524af"
-      },
-      "76": {
-        "source_ref": "Luke 1:76",
-        "source_chapter": 1,
-        "source_verse": 76,
-        "segment_mode": "whole_record",
-        "sha256": "0e25b6772cb9c9acad206fc6f7982cb1f8dc5d3b9665ac1c5fb25824cec1793b"
-      },
-      "77": {
-        "source_ref": "Luke 1:77",
-        "source_chapter": 1,
-        "source_verse": 77,
-        "segment_mode": "whole_record",
-        "sha256": "e67c959726ee81b74709bd91ab019b7a42152f8169aa323df12b62141d6937c1"
-      },
-      "78": {
-        "source_ref": "Luke 1:78",
-        "source_chapter": 1,
-        "source_verse": 78,
-        "segment_mode": "whole_record",
-        "sha256": "ba590ebdd4ee0f298ffb86edcd7d113709b83324d4a510e77aeeb2fc7c1a3b96"
-      },
-      "79": {
-        "source_ref": "Luke 1:79",
-        "source_chapter": 1,
-        "source_verse": 79,
-        "segment_mode": "whole_record",
-        "sha256": "4d795c8033e5e229cc02a5c53bd4f88d2881a372aa4b694fd28b8b7704c2b14d"
-      },
-      "80": {
-        "source_ref": "Luke 1:80",
-        "source_chapter": 1,
-        "source_verse": 80,
-        "segment_mode": "whole_record",
-        "sha256": "1ddbb2f85dacb115ff7436444978d329affa213e71757dc4077f3f51c5edd673"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 80,
+    "path": "translations/fluent/NT/luke/Luke_01.md",
+    "before_sha256": "d34f478030d8fe592f204871399c0f1898ac444e93935d174c28b8e3b05ac7b7",
+    "after_sha256": "cf5980b9bd48553a7c8eca55d2f8d3e16cf8cc95fa0db539936360b59d907671",
+    "tsw_comparator_path": "books/NT/luke/Luke_01.md",
+    "tsw_comparator_sha256": "15e98cbf6405625a0fa9242b14c648db7cbb698e501fefe01c4934dfd84719c1"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-1-4/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 1:1",
+      "delta": "F3",
+      "rationale": "Preserve the formal opening and fulfillment language rather than reduce the events to reported facts.",
+      "source_reference": "Luke 1:1",
+      "source_verse_sha256": "16cee0157e40dd634a698ee1f9860f74b4172ab692aaecafaa94c0519325d9aa",
+      "before": "Since many have undertaken to put together an account of the events that have been fulfilled among us,",
+      "after": "Since many have undertaken to put together an account of the events fulfilled among us,",
+      "tsw_comparator": "Since many have undertaken to set in order a narrative about the matters that have been fulfilled among us,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.529412,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:3",
+      "delta": "F3",
+      "rationale": "Make the author's investigation and decision clear while retaining the formal address and orderly claim.",
+      "source_reference": "Luke 1:3",
+      "source_verse_sha256": "d51cc0faa69935c0c907fb193be719828ca75f0a760092bfba25f89b524a1be4",
+      "before": "I too decided, after carefully investigating everything from the beginning, to write an orderly account for you, most excellent Theophilus,",
+      "after": "I too decided, after carefully investigating everything from the beginning, to write an orderly account for you, most excellent Theophilus,",
+      "tsw_comparator": "it seemed good to me also—having followed all things closely from the start—to write an orderly account for you, most excellent Theophilus,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:7",
+      "delta": "F3",
+      "rationale": "Retain the narrator's explanation and their shared age without turning childlessness into a moral judgment.",
+      "source_reference": "Luke 1:7",
+      "source_verse_sha256": "5eeef2e3d5582ba333872af24514df0d752bac57d9fa924eea680e6d2b9c4193",
+      "before": "But they had no child, because Elizabeth was unable to have children, and both of them were advanced in years.",
+      "after": "But they had no child, because Elizabeth was unable to conceive, and both were advanced in years.",
+      "tsw_comparator": "But they had no child, because Elizabeth was barren, and both were advanced in years.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:15",
+      "delta": "F3",
+      "rationale": "Preserve the abstention and prenatal Spirit filling without assigning an unstated vow category.",
+      "source_reference": "Luke 1:15",
+      "source_verse_sha256": "de0b06dce9707631a882708f1e9a7a2423bad95c9d02a6d65c978d0b61d2ea6a",
+      "before": "because he will be great before the Lord. He must never drink wine or strong drink, and he will be filled with the Holy Spirit even from his mother’s womb.",
+      "after": "for he will be great before the Lord. He must never drink wine or strong drink, and he will be filled with the Holy Spirit even from his mother's womb.",
+      "tsw_comparator": "for he will be great before the Lord. He must never drink wine or strong drink, and he will be filled with the Holy Spirit even from his mother’s womb.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:17",
+      "delta": "F3",
+      "rationale": "Clarify the Lord as the preceding pronoun's referent; retain fathers, Elijah, and the two kinds of turning.",
+      "source_reference": "Luke 1:17",
+      "source_verse_sha256": "453521aeb4bb89b8fbfafb876c90f96c94f643a751d5a092abb357d2452e51e7",
+      "before": "He will go before the Lord in the spirit and power of Elijah, to turn the hearts of parents toward their children and the disobedient toward the wisdom of the righteous, to prepare a people made ready for the Lord.”",
+      "after": "He will go before the Lord in Elijah's spirit and power, turning fathers' hearts toward their children and the disobedient toward the wisdom of the righteous, to make a people ready for the Lord.”",
+      "tsw_comparator": "And he will go before the Lord in the spirit and power of Elijah, to turn the hearts of parents to their children, and the disobedient to the wisdom of the righteous, to make ready for the Lord a people prepared.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:22",
+      "delta": "F3",
+      "rationale": "Resolve repeated pronouns and preserve their inference and his continued gestures without diagnosing deafness.",
+      "source_reference": "Luke 1:22",
+      "source_verse_sha256": "fdf3dd98c65696c7925e1dbe6c557e30ac4046d8786d22233a65fec997108e84",
+      "before": "When he came out, he could not speak to them, and they realized that he had seen a vision in the sanctuary. He kept making signs to them and remained unable to speak.",
+      "after": "When he came out, he could not speak to them. They realized that he had seen a vision in the sanctuary. He kept making signs to them but remained unable to speak.",
+      "tsw_comparator": "When he came out, he could not speak to them, and they realized that he had seen a vision in the temple. He kept making signs to them and remained unable to speak.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:25",
+      "delta": "F3",
+      "rationale": "Retain Elizabeth's own interpretation and social disgrace as her speech rather than a judgment on infertility.",
+      "source_reference": "Luke 1:25",
+      "source_verse_sha256": "fd4e264c72b8557f7a44b2babf7b7578ccbd422bf40fe6557abce3d57bd0b980",
+      "before": "She said, “This is what the Lord has done for me in the days when he looked on me and took away my disgrace among people.”",
+      "after": "“This is what the Lord has done for me. He has looked on me with favor and taken away my disgrace among people.”",
+      "tsw_comparator": "“Thus the Lord has done for me in the days when the Lord looked on me, to take away my disgrace among people.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.608696,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:27",
+      "delta": "F3",
+      "rationale": "Preserve virgin, the binding marriage pledge, Joseph's Davidic connection, and Mary's introduction.",
+      "source_reference": "Luke 1:27",
+      "source_verse_sha256": "03ffa7bad225afe090f7af3db71c573aefb0f1dfb54c6a0b8cf3331927a2ae23",
+      "before": "to a virgin pledged in marriage to a man named Joseph, from the house of David. The virgin’s name was Mary.",
+      "after": "to a virgin pledged in marriage to a man named Joseph, of David's house. The virgin's name was Mary.",
+      "tsw_comparator": "to a virgin engaged to a man whose name was Joseph, of the house of David. And the virgin’s name was Mary.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.682927,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:28",
+      "delta": "F3",
+      "rationale": "Retain favor as something received and omit an additional blessing absent from the pinned text.",
+      "source_reference": "Luke 1:28",
+      "source_verse_sha256": "fecb0adb9912aba10cd17a57158ec65be744c0acfeb8f941b8b0d023f87262ac",
+      "before": "He came to her and said, “Greetings, favored one! The Lord is with you.”",
+      "after": "The angel came to her and said, “Greetings, favored one! The Lord is with you.”",
+      "tsw_comparator": "And he came to her and said, “Greetings, favored one! The Lord is with you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.866667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:34",
+      "delta": "F3",
+      "rationale": "Render the sexual knowing idiom naturally while preserving Mary's question about how, distinct from Zechariah's assurance question.",
+      "source_reference": "Luke 1:34",
+      "source_verse_sha256": "99d7992682f9407786e47165eb309c79aacb71878adf478f2da006cbc9140308",
+      "before": "Mary said to the angel, “How will this be, since I have not had sexual relations with a man?”",
+      "after": "Mary asked the angel, “How will this happen, since I have not been with a man?”",
+      "tsw_comparator": "Mary said to the angel, “How can this be, since I have not known a man?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:35",
+      "delta": "F3",
+      "rationale": "Keep Spirit, power, overshadowing, and the explanatory therefore without supplying a physical mechanism.",
+      "source_reference": "Luke 1:35",
+      "source_verse_sha256": "902925dbfbb4e04fc84c1391b6cbd31c353e3406e69a9fa265ef395b3481f4c9",
+      "before": "The angel answered her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. Therefore the holy child to be born will be called Son of God.",
+      "after": "The angel answered, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. Therefore the child to be born will be called holy, the Son of God.",
+      "tsw_comparator": "The angel answered her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the holy child to be born will be called Son of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:37",
+      "delta": "F3",
+      "rationale": "Preserve word and the promise's effective power; record the broader nothing-is-impossible alternative in a note.",
+      "source_reference": "Luke 1:37",
+      "source_verse_sha256": "b2c9d1147f3b0f79b6aaaafa02e9c1ab26a03cd3744d3d90f70f4681c61ea229",
+      "before": "For nothing will be impossible with God.”",
+      "after": "For no word from God will fail.”",
+      "tsw_comparator": "For nothing will be impossible with God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.285714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:38",
+      "delta": "F3",
+      "rationale": "Retain the female slave self-designation and Mary's voiced assent rather than erase either.",
+      "source_reference": "Luke 1:38",
+      "source_verse_sha256": "90715c3993484e3caeab1e16a725a4e14eaa7cc05df455297df9c30a0b4584ee",
+      "before": "Mary said, “Look, I am the Lord’s servant. Let it happen to me according to your word.” Then the angel left her.",
+      "after": "Mary said, “Here I am, the Lord's slave. Let it happen to me according to your word.” Then the angel left her.",
+      "tsw_comparator": "Then Mary said, “Here am I, the servant of the Lord; let it be with me according to your word.” Then the angel departed from her.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:43",
+      "delta": "F3",
+      "rationale": "Preserve Elizabeth's question and consequential designation my Lord without importing later titles.",
+      "source_reference": "Luke 1:43",
+      "source_verse_sha256": "fb84a97157c1c8f814e5551cd8d71135035d5c091027e970e86cfd167b920609",
+      "before": "Why has this happened to me, that the mother of my Lord should come to me?",
+      "after": "How is it that the mother of my Lord should come to me?",
+      "tsw_comparator": "And why has this happened to me, that the mother of my Lord should come to me?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:45",
+      "delta": "F3",
+      "rationale": "Keep third-person blessing and the link between believing and fulfillment, with an alternative clause relation noted.",
+      "source_reference": "Luke 1:45",
+      "source_verse_sha256": "ebe6900d5fe7b909990116a99cab281f7939eb441c300bfc0c5f22543be25064",
+      "before": "Blessed is the one who trusted that what the Lord spoke to her would be fulfilled.”",
+      "after": "Blessed is she who believed that what the Lord had spoken to her would be fulfilled.”",
+      "tsw_comparator": "And blessed is she who trusted that there would be a fulfillment of what was spoken to her from the Lord.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.486486,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:46",
+      "delta": "F3",
+      "rationale": "Preserve the explicit speaker and familiar worship verb, with poetry lineation.",
+      "source_reference": "Luke 1:46",
+      "source_verse_sha256": "d6b4f23d9901ff60ed3586b30e0ff8e6735f259aa9d2623521d5ab5be2f71fa9",
+      "before": "And Mary said, “My soul magnifies the Lord,",
+      "after": "Mary said: “My soul magnifies the Lord,",
+      "tsw_comparator": "And Mary said, “My soul magnifies the Lord,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:47",
+      "delta": "F3",
+      "rationale": "Keep soul/spirit parallelism and Mary's personal address to God as Savior.",
+      "source_reference": "Luke 1:47",
+      "source_verse_sha256": "5b042fbb44e4c1807daf7e31cfb0eab7f2b6de51220e52d156763bc9c5a5bb41",
+      "before": "and my spirit rejoices in God my Savior,",
+      "after": "and my spirit rejoices in God my Savior,",
+      "tsw_comparator": "and my spirit rejoices in God my Savior,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:48",
+      "delta": "F3",
+      "rationale": "Preserve lowliness as circumstance and the female slave image, then the shift toward future generations.",
+      "source_reference": "Luke 1:48",
+      "source_verse_sha256": "5e76982bca90fd0ea2a63b004fd505826cd0ed7b239a6b394c6fb5e7304e3f91",
+      "before": "because he has looked on the lowly condition of his servant. Look—from now on all generations will call me blessed,",
+      "after": "for he has looked on the lowly condition of his slave. From now on, every generation will call me blessed,",
+      "tsw_comparator": "for the Lord has looked on the lowliness of the Lord’s servant. For look—from now on all generations will call me blessed,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.604651,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:49",
+      "delta": "F3",
+      "rationale": "Retain the divine epithet, personal great acts, and holiness of the name.",
+      "source_reference": "Luke 1:49",
+      "source_verse_sha256": "50e2481d7029ef948927de55e0fe2e3d85b6b997e8fe7ec852c8a0b19ea7439e",
+      "before": "because the Mighty One has done great things for me, and holy is his name.",
+      "after": "for the Mighty One has done great things for me. Holy is his name,",
+      "tsw_comparator": "for the Mighty One has done great things for me, and holy is his name.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.965517,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:50",
+      "delta": "F3",
+      "rationale": "Carry the repeated generations and fear language without replacing reverent fear with a weaker feeling.",
+      "source_reference": "Luke 1:50",
+      "source_verse_sha256": "d967df085e8f207a6d3f9eb0477ade91a6c5d8d2e4fbdef0dcfa9a059e982216",
+      "before": "His mercy is for generation after generation for those who fear him.",
+      "after": "and his mercy reaches generation after generation for those who fear him.",
+      "tsw_comparator": "His mercy is for generation upon generation for those who fear him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:51",
+      "delta": "F3",
+      "rationale": "Preserve the bodily strength image and the inward location of pride.",
+      "source_reference": "Luke 1:51",
+      "source_verse_sha256": "5e89e48c09bba34e57e0aee832b7e5a0a842c349944d88b839f0bee5ea1ce56b",
+      "before": "He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts.",
+      "after": "He has shown strength with his arm and scattered those proud in the thoughts of their hearts.",
+      "tsw_comparator": "He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:52",
+      "delta": "F3",
+      "rationale": "Keep the concrete political reversal and lowly connection with Mary's earlier condition.",
+      "source_reference": "Luke 1:52",
+      "source_verse_sha256": "c3ddc5f78d045988fe351378b58e62756c0f834807ad066521943872de4556f5",
+      "before": "He has brought rulers down from their thrones and lifted up the lowly.",
+      "after": "He has brought rulers down from their thrones and raised up the lowly.",
+      "tsw_comparator": "He has brought down the powerful from their thrones and lifted up the lowly.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.814815,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:53",
+      "delta": "F3",
+      "rationale": "Retain hunger, goods, wealth, and emptiness rather than spiritualize the material contrast.",
+      "source_reference": "Luke 1:53",
+      "source_verse_sha256": "50610b023f70c6369d7898be121adccb4f1bf14050dadd4c1cc5f3aa60bc66e0",
+      "before": "He has filled the hungry with good things and sent the rich away empty.",
+      "after": "He has filled the hungry with good things and sent the rich away empty.",
+      "tsw_comparator": "He has filled the hungry with good things, and sent the rich away empty.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:54",
+      "delta": "F3",
+      "rationale": "Keep Israel as servant and divine remembering as the reason for help.",
+      "source_reference": "Luke 1:54",
+      "source_verse_sha256": "e4cf39dfd99a0e7b5900818b34a6cb51fb4213402bedd46a2cc85ab926bd896f",
+      "before": "He has helped his servant Israel, remembering his mercy,",
+      "after": "He has come to the aid of Israel his servant, remembering his mercy,",
+      "tsw_comparator": "He has helped his servant Israel, in remembrance of his mercy,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:55",
+      "delta": "F3",
+      "rationale": "Make the mercy connection across verses audible while retaining Abraham, descendants, and forever.",
+      "source_reference": "Luke 1:55",
+      "source_verse_sha256": "065d53463e3e52f1fcaecdcb33912aeacb270c617f066951ff62b4da77bf8d85",
+      "before": "just as he spoke to our ancestors, to Abraham and his descendants forever.”",
+      "after": "just as he promised our ancestors, mercy to Abraham and his descendants forever.”",
+      "tsw_comparator": "just as he spoke to our ancestors, to Abraham and to Abraham’s descendants forever.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.740741,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:69",
+      "delta": "F3",
+      "rationale": "Preserve the ancient horn image and Davidic household, supplying a selective note for readers.",
+      "source_reference": "Luke 1:69",
+      "source_verse_sha256": "0b17a36856be730f9f8c5a12769c8835519e2d14710aa940c715c0b3b3dd0ed3",
+      "before": "He has raised up a horn of salvation for us in the house of his servant David,",
+      "after": "He has raised up a horn of salvation for us in the house of his servant David,",
+      "tsw_comparator": "and has raised up a horn of salvation for us in the house of his servant David,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:73",
+      "delta": "F3",
+      "rationale": "Retain oath as identifying the covenant promise and allow its content to continue into the next verse.",
+      "source_reference": "Luke 1:73",
+      "source_verse_sha256": "1835cd6dd05e007f5ebd85d70e7ec9b13ae79abb54f3b005dae5c70300c1904f",
+      "before": "the oath he swore to our ancestor Abraham,",
+      "after": "the oath he swore to Abraham our father, to grant us",
+      "tsw_comparator": "the oath that he swore to our ancestor Abraham—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 1:78",
+      "delta": "F3",
+      "rationale": "Retain visceral mercy in natural English, the dawn image, and the future visit in this source.",
+      "source_reference": "Luke 1:78",
+      "source_verse_sha256": "682d57d62c25fa67ed033bf74f4ea287bbe15d4dadb3bcdab9d278ffefebdb24",
+      "before": "because of the tender mercy of our God, by which the dawn from on high will visit us,",
+      "after": "because of the tender mercy of our God, by which the dawn from on high will visit us,",
+      "tsw_comparator": "By the tender mercy of our God, the dawn from on high will break upon us,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_01.md",
-    "blob_sha": "93dc6e4a6c4110656cd75d26ffd821aebd88baac"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

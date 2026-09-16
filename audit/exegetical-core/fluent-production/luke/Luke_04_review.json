@@ -2,329 +2,320 @@
   "book": "Luke",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 44,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-1-4-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f3641e1567a056d4d6cb88f8202bea87ec08a494",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_04_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 4:1",
-        "source_chapter": 4,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "af14c9ce8cf95fa88f917a1fbf8377b2d160d75d8dbd1fcdfe6c00e645f2f76c"
-      },
-      "2": {
-        "source_ref": "Luke 4:2",
-        "source_chapter": 4,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "ec83e834d151c27fae0e528285787e416fc1a6bab4cb3a54bf57becf4349679d"
-      },
-      "3": {
-        "source_ref": "Luke 4:3",
-        "source_chapter": 4,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "15dd0989e05dffa75ba3c4cfb3d4b4c043eb1196b93e30aaf7be0780a8266580"
-      },
-      "4": {
-        "source_ref": "Luke 4:4",
-        "source_chapter": 4,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "dc1cdcf8814ec6203b8c8ad5c280c772b3f36be409695e67ee31fb4d16489de6"
-      },
-      "5": {
-        "source_ref": "Luke 4:5",
-        "source_chapter": 4,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "4210fee0081f46fcf14f156754be0acf22f83ab7237c357833dee0a09f16e95d"
-      },
-      "6": {
-        "source_ref": "Luke 4:6",
-        "source_chapter": 4,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "46e62a8107fe64dd9995e0a5ffdf04c988c2b21c341b75f209be95eda7dfbc7f"
-      },
-      "7": {
-        "source_ref": "Luke 4:7",
-        "source_chapter": 4,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "18e25da6aee087107e8c23cdd322d4733f9a3c4bbf485abbef35cc65c5ec0366"
-      },
-      "8": {
-        "source_ref": "Luke 4:8",
-        "source_chapter": 4,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "014c9a5cb92c2433acac09e803aa4939710e539f5bf43a3fc5968281b919177e"
-      },
-      "9": {
-        "source_ref": "Luke 4:9",
-        "source_chapter": 4,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "d6d1c79c65c5dc2867c17619a89e95108d3c726c7a5fc4ed15d17d4299536b60"
-      },
-      "10": {
-        "source_ref": "Luke 4:10",
-        "source_chapter": 4,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "7ea0d7f59e6185af11f6d58e1fba233f4467c88248b645bf926b95ba4719387c"
-      },
-      "11": {
-        "source_ref": "Luke 4:11",
-        "source_chapter": 4,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "8365f32b246be6434e90a21c4f5a6a8bc5226a54b6b57c01596a32027cb1815e"
-      },
-      "12": {
-        "source_ref": "Luke 4:12",
-        "source_chapter": 4,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "b6ef8b2634e0af94aa4ad05d2e9b7d083b0409da7b5b620b982d8cd3ffdda4b2"
-      },
-      "13": {
-        "source_ref": "Luke 4:13",
-        "source_chapter": 4,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "e84f9031f773494931c8307b5306853e3f6c5677e6be66c89b451edb15ee020b"
-      },
-      "14": {
-        "source_ref": "Luke 4:14",
-        "source_chapter": 4,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "f33a014dc36fa8e282e04ccab2316465708b21a5158a9d3836d08638c9630455"
-      },
-      "15": {
-        "source_ref": "Luke 4:15",
-        "source_chapter": 4,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "e527f8e1c151fd35045098a3881470b82661d174629b8c065a72c8228750faf4"
-      },
-      "16": {
-        "source_ref": "Luke 4:16",
-        "source_chapter": 4,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "71df0786b33f46354076437209fb407f436031d7b6c231098dd63b7fbd88463e"
-      },
-      "17": {
-        "source_ref": "Luke 4:17",
-        "source_chapter": 4,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "43806def4a9e51cf13aef412f6cdbabf54a71fdb468c6e2b0726c6adde91760a"
-      },
-      "18": {
-        "source_ref": "Luke 4:18",
-        "source_chapter": 4,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "159a0b38383cc0e8ef3d0151473349c8ece4e53b00ff9e89a99159e2338b59b2"
-      },
-      "19": {
-        "source_ref": "Luke 4:19",
-        "source_chapter": 4,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "ee3b745e6e2504eedd008cc74638a18479a1ea2b11bbd281c13f46e6b51069b6"
-      },
-      "20": {
-        "source_ref": "Luke 4:20",
-        "source_chapter": 4,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "d62573ed5954346fbb2eae0f9f111cd06746eeab6a2f2a47eb2e93c9e8809315"
-      },
-      "21": {
-        "source_ref": "Luke 4:21",
-        "source_chapter": 4,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "813c1b0193ecfbcdfacecd59df659873ba5c3f1ef08e7038d431d56182281854"
-      },
-      "22": {
-        "source_ref": "Luke 4:22",
-        "source_chapter": 4,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "565ca052a067d536e0ead0cb36cc47246955bafdbb34e053e7a37843cdc62fff"
-      },
-      "23": {
-        "source_ref": "Luke 4:23",
-        "source_chapter": 4,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "cd964d4bb9edb33dc37e51149e415c0a0ef76f00ae9a8a42dedcf02cd95f6edb"
-      },
-      "24": {
-        "source_ref": "Luke 4:24",
-        "source_chapter": 4,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "39bae8c5cc52001bf29b1eaea21a23c8a08bc03a9201d09fae9b1a92f6a4f1c2"
-      },
-      "25": {
-        "source_ref": "Luke 4:25",
-        "source_chapter": 4,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "e746d2c9bf9ef188f12708d0e6e97c156d1f36f3cbaef7ebf69ae67ddcffb732"
-      },
-      "26": {
-        "source_ref": "Luke 4:26",
-        "source_chapter": 4,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "582d2b2ec69c161b62b7982c33aa2fcff34bb4808986697e26f2ddc1526e6c95"
-      },
-      "27": {
-        "source_ref": "Luke 4:27",
-        "source_chapter": 4,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "c2b1770a09f5aa88ca4e10d98a3ab4bed99d2f9332b476d0d7008d1a43650beb"
-      },
-      "28": {
-        "source_ref": "Luke 4:28",
-        "source_chapter": 4,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "a05fc62b496a7483f3c5f42e42cc255d80ca593727e5fc99ed0ba15f95ba7bc3"
-      },
-      "29": {
-        "source_ref": "Luke 4:29",
-        "source_chapter": 4,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "3cdc29d6792b47e7d0e3e0e0760dcf4fd939d8bc35c9f1740626227f53f1b622"
-      },
-      "30": {
-        "source_ref": "Luke 4:30",
-        "source_chapter": 4,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "3605302a3cfa57f8c7789cd81082cdc2a4b05f09b665bf63f6877b7152c250a9"
-      },
-      "31": {
-        "source_ref": "Luke 4:31",
-        "source_chapter": 4,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "5997dada9dd21a79f4b857257db9917c4b72596b2ad177956288e3aff1da8aa6"
-      },
-      "32": {
-        "source_ref": "Luke 4:32",
-        "source_chapter": 4,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "c4ed8747fe9712c62ad095d0b3ea8ad053868fe8e1cb534e434e46d6b0f1a8a5"
-      },
-      "33": {
-        "source_ref": "Luke 4:33",
-        "source_chapter": 4,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "26912bdec26388479f8d815840aafdcce1bd333423dd9226d8e0b6b923633872"
-      },
-      "34": {
-        "source_ref": "Luke 4:34",
-        "source_chapter": 4,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "470b5c744d6f697dc8b1307c07d4570889dad7418fcdbb88b55ebcda27e122bc"
-      },
-      "35": {
-        "source_ref": "Luke 4:35",
-        "source_chapter": 4,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "3bba40b3b1bde8f905081bd573c6e6a0302c2848770ddb0426b06cda8a1f939d"
-      },
-      "36": {
-        "source_ref": "Luke 4:36",
-        "source_chapter": 4,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "1532b3914f179b43ebe73907300a8727a87297e74495a31e7961d106edfbf116"
-      },
-      "37": {
-        "source_ref": "Luke 4:37",
-        "source_chapter": 4,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "404a70cb8b0d01d84870f079dee9f95cad470a5ab79bd65660ed0beddf244f66"
-      },
-      "38": {
-        "source_ref": "Luke 4:38",
-        "source_chapter": 4,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "5fd4cbde8c861953c299e2e552f0f2e9b4708cf981662aca583958e694a18b38"
-      },
-      "39": {
-        "source_ref": "Luke 4:39",
-        "source_chapter": 4,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "f27c6364384bfdd3f2613059f6546f22becd9a594385d8edd4b8af586b051b97"
-      },
-      "40": {
-        "source_ref": "Luke 4:40",
-        "source_chapter": 4,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "0cf9e8eab19687dd29b0f0f72e986035218d8fdcf768d181095e0aa8fd1f5e1a"
-      },
-      "41": {
-        "source_ref": "Luke 4:41",
-        "source_chapter": 4,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "3c551de8187596d11289945c5399a1eeeb9fa9bb136ea9c4c9d94e6de71f9158"
-      },
-      "42": {
-        "source_ref": "Luke 4:42",
-        "source_chapter": 4,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "89523843ead3916bce3cde051286e510d2e4e8da63488da0e25a31afafea34ba"
-      },
-      "43": {
-        "source_ref": "Luke 4:43",
-        "source_chapter": 4,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "822bf0db9cf049d95f06a0193ec20b80e31a67cd759e3695224ef0f786407ba8"
-      },
-      "44": {
-        "source_ref": "Luke 4:44",
-        "source_chapter": 4,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "3c1951e258402f196b77c0baf98bd79a3ab079b2988731e87b864bf20c27cf77"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 44,
+    "path": "translations/fluent/NT/luke/Luke_04.md",
+    "before_sha256": "2fd08e288d6fba0361e48d15baeaf5bdc03d16d956974593f5cc26dc2e035e55",
+    "after_sha256": "60d384a4d2dda3444eb8d4d3c97859b8de54393c3da71906b509aeeacab3e0af",
+    "tsw_comparator_path": "books/NT/luke/Luke_04.md",
+    "tsw_comparator_sha256": "dcc4762215ba082d96b5b880cd6dbe0fea2ff025eb9e8177a6e4ae741d5ba0e8"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-1-4/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 4:4",
+      "delta": "F3",
+      "rationale": "Follow the shorter source quotation without importing its continuation from another Gospel.",
+      "source_reference": "Luke 4:4",
+      "source_verse_sha256": "9c7a80a5c2ff8074c562d3ffceef8b4cea31622d027da54c31f75b6e96ab8bdc",
+      "before": "Jesus answered him, “It is written, ‘A person shall not live by bread alone.’”",
+      "after": "Jesus answered, “It is written, ‘A human being does not live on bread alone.’”",
+      "tsw_comparator": "And Jesus answered him, “It is written, ‘A human being shall not live by bread alone.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:5",
+      "delta": "F3",
+      "rationale": "Resolve the subject and retain leading up without adding a mountain absent from this source.",
+      "source_reference": "Luke 4:5",
+      "source_verse_sha256": "650a7f1adf73b9ee46a3c63c44950145820e703e6745cafeb7aa32830d6e4c4d",
+      "before": "The devil led him up and showed him all the kingdoms of the inhabited world in a moment of time.",
+      "after": "The devil led him up and showed him all the kingdoms of the inhabited world in an instant.",
+      "tsw_comparator": "And leading him up, he showed him all the kingdoms of the world in a moment of time,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.611111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:6",
+      "delta": "F3",
+      "rationale": "Keep the authority claim as the devil's speech rather than the narrator's endorsement.",
+      "source_reference": "Luke 4:6",
+      "source_verse_sha256": "2d0fe3f6ab435c8f664e8d93c1b89daf61eca28a85bb060a49896293b18948eb",
+      "before": "He said to him, “I will give you all this authority and their glory, because it has been handed over to me, and I give it to whomever I want.",
+      "after": "“I will give you all this authority and their glory,” he said, “because it has been handed over to me, and I give it to anyone I choose.",
+      "tsw_comparator": "and the devil said to him, “To you I will give all this authority and their glory, because it has been handed over to me, and I give it to whom I wish.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.754098,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:7",
+      "delta": "F3",
+      "rationale": "Retain the offered bargain and worship gesture without adding a kneeling detail.",
+      "source_reference": "Luke 4:7",
+      "source_verse_sha256": "f8b360ff1218119c95643f84c83b7b094611cd680f1e94bb24b448df3ac4124f",
+      "before": "Therefore, if you bow before me, it will all be yours.”",
+      "after": "So if you bow down before me, it will all be yours.”",
+      "tsw_comparator": "Therefore, if you worship before me, it will all be yours.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:8",
+      "delta": "F3",
+      "rationale": "Keep worship and service distinct and omit a dismissal formula absent here.",
+      "source_reference": "Luke 4:8",
+      "source_verse_sha256": "31c26c77d72eb9996e74dcb9489a2ec346409faaaa07a8a9dbf045a9021e792c",
+      "before": "Jesus answered him, “It is written, ‘You shall worship the Lord your God, and serve him alone.’”",
+      "after": "Jesus answered, “It is written, ‘Worship the Lord your God, and serve him alone.’”",
+      "tsw_comparator": "And answering, Jesus said to him, “It is written, ‘You shall worship the Lord your God, and him only shall you serve.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.611111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:9",
+      "delta": "F3",
+      "rationale": "Retain Luke's final temptation at Jerusalem and the high temple position without claiming a precise architectural location.",
+      "source_reference": "Luke 4:9",
+      "source_verse_sha256": "dc4ee6e5a771f91f623ad2a25a838e9cdfff77988a391f3af3aba0dbe448664d",
+      "before": "The devil led him to Jerusalem, set him on the highest point of the temple, and said, “If you are God’s Son, throw yourself down from here,",
+      "after": "The devil led him to Jerusalem, stood him on the highest point of the temple, and said, “If you are the Son of God, throw yourself down from here.",
+      "tsw_comparator": "And he led him to Jerusalem and set him on the pinnacle of the temple, and said to him, “If you are the Son of God, throw yourself down from here,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:10",
+      "delta": "F3",
+      "rationale": "Keep the devil's explicit quotation and its stated protection without completing the psalm beyond the cited words.",
+      "source_reference": "Luke 4:10",
+      "source_verse_sha256": "a6e15e580b12031e2970c9d8e6556aa392b64b13ba4d1e4b6073867412a6e490",
+      "before": "because it is written, ‘He will command his angels concerning you, to guard you,’",
+      "after": "For it is written, ‘He will command his angels concerning you, to protect you,’",
+      "tsw_comparator": "for it is written, ‘He will command his angels concerning you, to guard you,’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.928571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:11",
+      "delta": "F3",
+      "rationale": "Preserve the second quotation and the hands/foot/stone imagery.",
+      "source_reference": "Luke 4:11",
+      "source_verse_sha256": "d5193749d74b7e6c1ac97548fa402b92078d5584d3a0d6d15d4b4779b4fe3ed1",
+      "before": "and, ‘They will lift you up on their hands, so that you do not strike your foot against a stone.’”",
+      "after": "and, ‘They will lift you up in their hands so that you do not strike your foot against a stone.’”",
+      "tsw_comparator": "and, ‘On their hands they will bear you up, lest you strike your foot against a stone.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.648649,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:12",
+      "delta": "F3",
+      "rationale": "Retain said rather than substitute written and keep the testing verb as Jesus' answer to the devil.",
+      "source_reference": "Luke 4:12",
+      "source_verse_sha256": "09f81ea245d29102e47031c1cbdf188f3d3fc5640f7c0c05a4401e15046a861d",
+      "before": "Jesus answered him, “It has been said, ‘You shall not test the Lord your God.’”",
+      "after": "Jesus replied, “It is said, ‘Do not put the Lord your God to the test.’”",
+      "tsw_comparator": "And answering, Jesus said to him, “It has been said, ‘You shall not test the Lord your God.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.484848,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:18",
+      "delta": "F3",
+      "rationale": "Preserve every named group and the repeated release sense without adding a brokenhearted clause absent from the source.",
+      "source_reference": "Luke 4:18",
+      "source_verse_sha256": "d09cc425275a00a0c81af03b873ef21e318accca09daaeff558377033d113175",
+      "before": "“The Spirit of the Lord is upon me, because he has anointed me to announce good news to the poor. He has sent me to proclaim release to captives and recovery of sight to the blind, to send the oppressed out in release,",
+      "after": "“The Lord's Spirit is upon me, because he has anointed me to bring good news to the poor. He has sent me to proclaim release to captives and sight to the blind, to send the oppressed away in freedom,",
+      "tsw_comparator": "“The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor; he has sent me to proclaim release to captives and recovery of sight to the blind, to send out the oppressed in release,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.853659,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:19",
+      "delta": "F3",
+      "rationale": "Retain the favorable year without identifying a modern date or adding a vengeance clause.",
+      "source_reference": "Luke 4:19",
+      "source_verse_sha256": "393ee46ec311da6925a9f5a54d62ac1244a34f9e991a33f7ced4c300c84411f7",
+      "before": "to proclaim the year of the Lord’s favor.”",
+      "after": "to proclaim the year of the Lord's favor.”",
+      "tsw_comparator": "to proclaim the year of the Lord’s favor.”",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:20",
+      "delta": "F3",
+      "rationale": "Preserve the sequence and the congregation's sustained visual attention.",
+      "source_reference": "Luke 4:20",
+      "source_verse_sha256": "ca7269739a69422057e1bed7566af9412eac43862a5d630daf0bf2a152563eba",
+      "before": "He rolled up the scroll, gave it back to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on him.",
+      "after": "He rolled up the scroll, gave it back to the attendant, and sat down. Every eye in the synagogue was fixed on him.",
+      "tsw_comparator": "And rolling up the scroll, he gave it back to the attendant and sat down. And the eyes of all in the synagogue were fixed on him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:21",
+      "delta": "F3",
+      "rationale": "Retain today and the accomplished fulfillment as heard by the present audience.",
+      "source_reference": "Luke 4:21",
+      "source_verse_sha256": "f618352ea7d1d9a4a653268468521f981d9e05e6361ed8f13826fc52d6257768",
+      "before": "He began by saying to them, “Today this Scripture has been fulfilled in your hearing.”",
+      "after": "He began to speak: “Today this scripture has been fulfilled in your hearing.”",
+      "tsw_comparator": "And he began to say to them, “Today this scripture has been fulfilled in your hearing.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.827586,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:22",
+      "delta": "F3",
+      "rationale": "Render witness favorably in context while keeping their identity question and the grace language open to a note.",
+      "source_reference": "Luke 4:22",
+      "source_verse_sha256": "23b07630f643dea6bded2f5756ba75b8891bc87853bc6157d5e18ed8d465beb4",
+      "before": "Everyone was speaking well of him and marveling at the gracious words coming from his mouth. They asked, “Is this not Joseph’s son?”",
+      "after": "Everyone spoke well of him and marveled at the gracious words coming from his mouth. “Is this not Joseph's son?” they asked.",
+      "tsw_comparator": "And all were speaking well of him and marveling at the gracious words coming from his mouth, and they were saying, “Is not this Joseph’s son?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:25",
+      "delta": "F3",
+      "rationale": "Preserve the exact duration, closed sky, and famine setting without adjusting it to another account.",
+      "source_reference": "Luke 4:25",
+      "source_verse_sha256": "781bab7702ffe9d413dd066b19101d9c520815d699394d6d195baeb9e1b0282d",
+      "before": "But I tell you the truth: there were many widows in Israel in Elijah’s days, when heaven was shut for three years and six months and a severe famine came over the whole land.",
+      "after": "I tell you the truth: there were many widows in Israel in Elijah's days, when the sky was shut for three years and six months and a great famine came over the whole land.",
+      "tsw_comparator": "But in truth I say to you, there were many widows in Israel in the days of Elijah, when the heaven was shut up three years and six months, when a great famine came over all the land,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.722222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:26",
+      "delta": "F3",
+      "rationale": "Keep the contrast, sending passive, named town, and Sidonian region.",
+      "source_reference": "Luke 4:26",
+      "source_verse_sha256": "9f4a8fc039b6fbc65f3a9c0778b93149548efccc2697d89e4a97ad982b0cf9f7",
+      "before": "Yet Elijah was sent to none of them, but only to a widow at Zarephath in Sidon.",
+      "after": "Yet Elijah was sent to none of them, but to a widow in Zarephath in the region of Sidon.",
+      "tsw_comparator": "and Elijah was sent to none of them, but only to Zarephath in Sidon, to a woman who was a widow.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.55,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:27",
+      "delta": "F3",
+      "rationale": "Retain the ancient disease designation, cleansing, prophet, and outsider's national identity.",
+      "source_reference": "Luke 4:27",
+      "source_verse_sha256": "b5f527c85bf5ba4650d4c8e21c6b87401dd11226bd75a79230c826ee6d0fc408",
+      "before": "And there were many people with skin diseases in Israel in the time of Elisha the prophet, yet none of them was cleansed except Naaman the Syrian.”",
+      "after": "There were also many people with leprosy in Israel in the time of the prophet Elisha. Yet none of them was cleansed except Naaman the Syrian.”",
+      "tsw_comparator": "And there were many lepers in Israel in the time of Elisha the prophet, and none of them was cleansed, but only Naaman the Syrian.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745098,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:35",
+      "delta": "F3",
+      "rationale": "Resolve the target of rebuke and the affected man while retaining no harm after the violent movement.",
+      "source_reference": "Luke 4:35",
+      "source_verse_sha256": "6c28d26c3454d0f58286431934287609d186af52b99767dcbf915c9986e96478",
+      "before": "Jesus rebuked him: “Be silent and come out of him!” The demon threw the man down in front of them and came out without harming him.",
+      "after": "Jesus rebuked the demon: “Be silent and come out of him!” The demon threw the man down in front of them and came out without harming him.",
+      "tsw_comparator": "And Jesus rebuked him, saying, “Be silent and come out of him.” And the demon, throwing him down in the midst, came out from him without harming him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.654545,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:39",
+      "delta": "F3",
+      "rationale": "Retain fever as the object rebuked and immediate service without calling the illness demonic.",
+      "source_reference": "Luke 4:39",
+      "source_verse_sha256": "7ae0643e9e16e88d0b861231cc401a82208ba812bb005a7d91ecd2f98600e28f",
+      "before": "He stood over her and rebuked the fever, and it left her. Immediately she got up and began serving them.",
+      "after": "He stood over her and rebuked the fever, and it left her. Immediately she got up and began serving them.",
+      "tsw_comparator": "He stood over her and rebuked the fever, and it left her. Immediately she arose and began serving them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:41",
+      "delta": "F3",
+      "rationale": "Retain both titles and the narrator's stated reason for silencing.",
+      "source_reference": "Luke 4:41",
+      "source_verse_sha256": "7758fee9a5af6b8de167af82bbb9aef4029ef1eb2232b73c4ca1206b297e07a2",
+      "before": "Demons also came out of many people, shouting, “You are God’s Son!” But he rebuked them and would not allow them to speak, because they knew he was the Christ.",
+      "after": "Demons also came out of many, shouting, “You are the Son of God!” But he rebuked them and would not let them speak, because they knew he was the Messiah.",
+      "tsw_comparator": "Demons also came out from many, crying out and saying, “You are the Son of God!” But he rebuked them and would not allow them to speak, because they knew that he was the Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 4:44",
+      "delta": "F3",
+      "rationale": "Follow the pinned Judea reading rather than harmonize the region to Galilee.",
+      "source_reference": "Luke 4:44",
+      "source_verse_sha256": "7d8bdb8a61168245e20732c18ae24ef4101059f3403e3c0b4891d56f4dded4db",
+      "before": "And he continued proclaiming in the synagogues of Judea.",
+      "after": "He continued proclaiming the message in the synagogues of Judea.",
+      "tsw_comparator": "And he was proclaiming in the synagogues of Judea.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_04.md",
-    "blob_sha": "d110f3b419fe345d6705777535c696e57138f403"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

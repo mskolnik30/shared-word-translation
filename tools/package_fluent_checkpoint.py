@@ -72,7 +72,7 @@ def main():
     reader=[f'# Fluent: cumulative revised reader\n\nEditorial draft · {counts["chapters"]} chapters · {counts["verses"]:,} verses\n\nIndependent editorial review and reader testing pending. Publication not allowed.\n']
     scope_reader=[f'# Fluent: {cfg["scope"]}\n\nIntermediate editorial draft · {n} chapters · {nv} verses\n\nThe active fifty-chapter block remains incomplete. Publication not allowed.\n']
     active_reader=[f'# Fluent: active fifty-chapter block\n\nIN_PROGRESS · {block["completed_chapters"]}/50 chapters · {block["completed_verses"]} verses\n\nDraft-covered: {block["completed_scope"]}. Remaining: {block["remaining_scope"]}.\n\nIndependent review pending. Publication not allowed.\n']
-    scope_paths={c['path'] for c in json.loads((A/'mark-verse-review.json').read_text())['chapters']};active_count=0
+    scope_paths={c['path'] for c in json.loads((A/(cfg['slug']+'-verse-review.json')).read_text())['chapters']};active_count=0
     for ch in chapters:
         t=(R/ch['path']).read_text();name=re.search(r'^book: (.+)$',t,re.M)[1];body=t.split('---',2)[2].strip();lines=[]
         for line in body.splitlines():

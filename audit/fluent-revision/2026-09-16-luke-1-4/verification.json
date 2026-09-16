@@ -1,0 +1,62 @@
+{
+  "status": "PASSED",
+  "qa_scope": "structural",
+  "parent_commit": "f3641e1567a056d4d6cb88f8202bea87ec08a494",
+  "new_chapters": 4,
+  "new_verses": 214,
+  "cumulative_coverage": {
+    "ledgers": 112,
+    "chapters": 982,
+    "verses": 25207
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 111,
+    "chapters_byte_identical": 978,
+    "tsw_and_companion_unchanged": true
+  },
+  "source_binding_audit": "PASSED; all exact payloads, whole-file SHA-256 and Git blob identity",
+  "additional_affected_ledgers_passed": [
+    "audit/fluent-revision/2026-09-16-mark-13-16/mark-verse-review.json"
+  ],
+  "source_sensitive_checks": {
+    "fathers_hearts": true,
+    "word_promise": true,
+    "slave_servant_distinction": true,
+    "future_dawn": true,
+    "first_registration_when": true,
+    "birth_and_lodging": true,
+    "army_speaking": true,
+    "favor_reading": true,
+    "plural_purification": true,
+    "father_and_mother": true,
+    "rulers": true,
+    "both_soldier_prohibitions": true,
+    "age_and_supposition": true,
+    "source_genealogy_names": true,
+    "six_names_3_33": true,
+    "two_cainans": true,
+    "genealogy_ending": true,
+    "short_bread_quote": true,
+    "no_added_mountain": true,
+    "no_added_dismissal": true,
+    "no_added_brokenhearted": true,
+    "judea_retained": true
+  },
+  "focused_authoring_reread_count": 137,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "block_progress": {
+    "scope": "Matthew 24–28; Mark 1–16; Luke 1–24; John 1–5",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 25,
+    "completed_scope": "Matthew 24–28; Mark 1–16; Luke 1–4",
+    "completed_verses": 1145,
+    "remaining_scope": "Luke 5–24; John 1–5",
+    "remaining_chapters": 25,
+    "qualification": "Intermediate checkpoint, not a completed fifty-chapter block. Source and structural checks passed; independent editorial review and reader testing pending."
+  },
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "companion_reconciliation": "PENDING; no quotations or bindings changed",
+  "publication_allowed": false
+}

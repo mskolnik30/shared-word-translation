@@ -1,8 +1,8 @@
 {
   "book": "Luke",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "RETAINED_FOR_BATCH_DEPLOYMENT",
+  "status": "REVIEW_PENDING",
+  "publication_status": "REVIEW_PENDING",
   "chapter_count": 24,
   "public_verse_slots": 1151,
   "included_verse_labels": 1149,
@@ -388,5 +388,52 @@
         "blob_sha": "5f6f2bb6b70bd6ba77baca82c1951fae9cc16ea1"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "current_revision": {
+    "id": "fluent-luke-1-4-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verse_count": 214,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-luke-1-4/luke-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f3641e1567a056d4d6cb88f8202bea87ec08a494",
+      "path": "audit/exegetical-core/fluent-production/luke/LUKE_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-luke-1-4-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 214,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-luke-1-4/luke-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f3641e1567a056d4d6cb88f8202bea87ec08a494",
+        "path": "audit/exegetical-core/fluent-production/luke/LUKE_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

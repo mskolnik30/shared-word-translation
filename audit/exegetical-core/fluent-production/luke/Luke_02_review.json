@@ -2,385 +2,255 @@
   "book": "Luke",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 52,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-1-4-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f3641e1567a056d4d6cb88f8202bea87ec08a494",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_02_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 2:1",
-        "source_chapter": 2,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "22a82aa3e034c98192ab828d0d2826a66ed94c703d1e434b66155ddeb3c07b23"
-      },
-      "2": {
-        "source_ref": "Luke 2:2",
-        "source_chapter": 2,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "8ea805cae4086386099221e8b319bf13c96315f9ba8abb6acadce03efa0c83c5"
-      },
-      "3": {
-        "source_ref": "Luke 2:3",
-        "source_chapter": 2,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "9ea6c09d8010bef4dd98f546b158f801405e810c3d7ed0a1775c9f69c25ed59e"
-      },
-      "4": {
-        "source_ref": "Luke 2:4",
-        "source_chapter": 2,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "4bb16f865f1e01c06f9c81631bdf9470c3be74f4ecd3972b442772d0376846f7"
-      },
-      "5": {
-        "source_ref": "Luke 2:5",
-        "source_chapter": 2,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "e8c74f262f372abd8a417235f7bcd2cad29f82ba8540a36024392f11aa05775c"
-      },
-      "6": {
-        "source_ref": "Luke 2:6",
-        "source_chapter": 2,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "5c9b92777b939c4ce3b70b68fd1424c91ce2164e9e344702ccda63009bcf6bf0"
-      },
-      "7": {
-        "source_ref": "Luke 2:7",
-        "source_chapter": 2,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "d83085a96ce4edc103d93f77a2859d66d92a1fe8dc8466c9d2550eac0b346367"
-      },
-      "8": {
-        "source_ref": "Luke 2:8",
-        "source_chapter": 2,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "7d62608c66c43e0bbc2e39b8c871e92ce0c3e7f5cd6fbed051b4bc2b15e0f5dd"
-      },
-      "9": {
-        "source_ref": "Luke 2:9",
-        "source_chapter": 2,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "6082869bd42c6f774605d303f513913e28a7a1c7afba452a8d6b03c5c46ce7ff"
-      },
-      "10": {
-        "source_ref": "Luke 2:10",
-        "source_chapter": 2,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "6cd64cfb3ef5198638ef5b6e12242ac88bfaa587dc57af3058d6b449004f65bd"
-      },
-      "11": {
-        "source_ref": "Luke 2:11",
-        "source_chapter": 2,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "9a009ff1cd87c1de9f83321193785f46959351d38e698e9a520e22f2e3734cc8"
-      },
-      "12": {
-        "source_ref": "Luke 2:12",
-        "source_chapter": 2,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "c92f28206a24489bf291841a5a1716e8abaa733187cb9830ea1388cc6ca0823f"
-      },
-      "13": {
-        "source_ref": "Luke 2:13",
-        "source_chapter": 2,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "9c984a64ba07bcb1103701179bec767c48c707683e4c0be2da6fbc2c8eb1aa48"
-      },
-      "14": {
-        "source_ref": "Luke 2:14",
-        "source_chapter": 2,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "e5cf380e672458e9c80d2675feb4f4875f19438ebd377cb06411ddfb4e81c02f"
-      },
-      "15": {
-        "source_ref": "Luke 2:15",
-        "source_chapter": 2,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "829ed5b93aa64ea47f6551afe28ae6c73b1ddacceaf41b31a58352d5112241c3"
-      },
-      "16": {
-        "source_ref": "Luke 2:16",
-        "source_chapter": 2,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "1821d8ee427b7b76001b8c96693cdcbf027a3a5138987e1b597f8a5f37c566d0"
-      },
-      "17": {
-        "source_ref": "Luke 2:17",
-        "source_chapter": 2,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "7b41fb636eb4c24261e4c151054af964ae460c542b9838e3bff0e664c67e9c92"
-      },
-      "18": {
-        "source_ref": "Luke 2:18",
-        "source_chapter": 2,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "27b99a488def28a7c13594d200bd4d2a2b8af167db9c69356ac7f554d83b06f3"
-      },
-      "19": {
-        "source_ref": "Luke 2:19",
-        "source_chapter": 2,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "4d26f797c88cbda5d6833f467c0a32a5b969c446b534987b4d5c0d2c53b721ba"
-      },
-      "20": {
-        "source_ref": "Luke 2:20",
-        "source_chapter": 2,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "d456c29004300c612628be201fa7409db651d4395c821b99e299152ec6f61e87"
-      },
-      "21": {
-        "source_ref": "Luke 2:21",
-        "source_chapter": 2,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "1df17c12e34d43ca1b632babe5212ea0eaab8597a858b654bccdb2fa9046eafe"
-      },
-      "22": {
-        "source_ref": "Luke 2:22",
-        "source_chapter": 2,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "746ecfee58b1e485fa0787faf32bc705c59403a2d32099c1bb4795ecee318a61"
-      },
-      "23": {
-        "source_ref": "Luke 2:23",
-        "source_chapter": 2,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "53c9d858c5840b0699ebb35a59dd87b2287ee08b1df08f1e36f2b5dfc788d46b"
-      },
-      "24": {
-        "source_ref": "Luke 2:24",
-        "source_chapter": 2,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "d77627ee884e2fd547c473d6cb6d2f0fd34b816a64bb901da9405db994e01a5d"
-      },
-      "25": {
-        "source_ref": "Luke 2:25",
-        "source_chapter": 2,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "215178c2bc09114f71e2cf78e0d26eb7d1bf91bb97c0c3423fa22fec57a306cb"
-      },
-      "26": {
-        "source_ref": "Luke 2:26",
-        "source_chapter": 2,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "176421786b9325644a3fe998b994a913a061285e87f18c6d1363a78c5361a013"
-      },
-      "27": {
-        "source_ref": "Luke 2:27",
-        "source_chapter": 2,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "152697fd0dab58d15e58566293293dcfab3a63b13fc978b6d98fc6107c885a35"
-      },
-      "28": {
-        "source_ref": "Luke 2:28",
-        "source_chapter": 2,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "b80a098be4262b02c2aa291810f9cbbd3bfa008195951149c83c7f8d20de11fe"
-      },
-      "29": {
-        "source_ref": "Luke 2:29",
-        "source_chapter": 2,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "a8dfc0c3a50c00f3efdc7bb03672b16df19f0b507962b2623b5a6a8c0bbb6fd1"
-      },
-      "30": {
-        "source_ref": "Luke 2:30",
-        "source_chapter": 2,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "5d2a6d1bcccad893c3c5c7c7a56fbf478a897608cdf9266cf63f619cb50bf4b4"
-      },
-      "31": {
-        "source_ref": "Luke 2:31",
-        "source_chapter": 2,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "7a665c9b8ef04f43e93c86a7cb97074776ac0a9a41a87d8b0d0805d0ba9dacec"
-      },
-      "32": {
-        "source_ref": "Luke 2:32",
-        "source_chapter": 2,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "718e6543af5de13de6c35b9b0eb6c5368a9a0e786511a1814425629229bcbb2f"
-      },
-      "33": {
-        "source_ref": "Luke 2:33",
-        "source_chapter": 2,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "8c4b636670daccf82696bd10b371cdc0728ef991c0d452cdd265c3b5687a8829"
-      },
-      "34": {
-        "source_ref": "Luke 2:34",
-        "source_chapter": 2,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "425847e1cb5dad92c0b248a6954c52e013308799e808610e3b4e7688a21b0794"
-      },
-      "35": {
-        "source_ref": "Luke 2:35",
-        "source_chapter": 2,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "008d376647408f789fb163c0d32e885dea90ed7c9d2a2c7f088006e0598d0e5e"
-      },
-      "36": {
-        "source_ref": "Luke 2:36",
-        "source_chapter": 2,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "0fb5f26340b5d231ae4d6eb81843e5280f17c2381d0afee4f4e06e9b7abce1c6"
-      },
-      "37": {
-        "source_ref": "Luke 2:37",
-        "source_chapter": 2,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "e9fbd38bbce6dbcf8be15b5995cba2d3e9972a38aa70e80c3516defe84eba936"
-      },
-      "38": {
-        "source_ref": "Luke 2:38",
-        "source_chapter": 2,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "47e6900a9272460eea8520413dbb05e40407eac774cbe60179cf795ac7aba8df"
-      },
-      "39": {
-        "source_ref": "Luke 2:39",
-        "source_chapter": 2,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "cc646769b591568eca8ba2b1ddc2f63d83272ba8ef30d4a95ea273de68ef8e4f"
-      },
-      "40": {
-        "source_ref": "Luke 2:40",
-        "source_chapter": 2,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "6f1e53af4ea57cde03d7c9147653ed09da15646371ce8e1ed294b255fc7b9df8"
-      },
-      "41": {
-        "source_ref": "Luke 2:41",
-        "source_chapter": 2,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "6439ce8f5d3d8d51c97e6f44ba3ad38a84691142c221569ba3dddca16d82b7f9"
-      },
-      "42": {
-        "source_ref": "Luke 2:42",
-        "source_chapter": 2,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "1b48a891887c5f4b02e7f112942b13d7059c0f30385a12e677f2755619fb8d0c"
-      },
-      "43": {
-        "source_ref": "Luke 2:43",
-        "source_chapter": 2,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "74724cd259b801768a9c254de1455eec7e5d885b9fd33c7e720087634b531f8d"
-      },
-      "44": {
-        "source_ref": "Luke 2:44",
-        "source_chapter": 2,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "a790d9a09d4d2ec546c2e0a44c1481877f01e49f7b6b22e9a12f5410d35a47a8"
-      },
-      "45": {
-        "source_ref": "Luke 2:45",
-        "source_chapter": 2,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "9132c08a2eee5e3a11d9f0fc22c909bc19079328b3bd32dcdd844f4fba8c0041"
-      },
-      "46": {
-        "source_ref": "Luke 2:46",
-        "source_chapter": 2,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "2236d82a5cf3daa2abec41da7d671c5fcb0944c2ef0b7e7e5242a69ca6477c9a"
-      },
-      "47": {
-        "source_ref": "Luke 2:47",
-        "source_chapter": 2,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "8a0f7f808ee2d867b6fc4fc9c3455318dd4f2e62f795e7a3e6c606da43feec89"
-      },
-      "48": {
-        "source_ref": "Luke 2:48",
-        "source_chapter": 2,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "823f16f33795899fd98a186dd291b24b0ab00077ec51cd88e2cb56d3b0e03556"
-      },
-      "49": {
-        "source_ref": "Luke 2:49",
-        "source_chapter": 2,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "b8205db30c3d2966692fafdc78b69b7e5cc61641f6e2a95f520b6bcd86f6acbb"
-      },
-      "50": {
-        "source_ref": "Luke 2:50",
-        "source_chapter": 2,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "2ea26079050a9e063bf2b158c8f42bcbd5c4490bc3ea674d336da4eba27f2399"
-      },
-      "51": {
-        "source_ref": "Luke 2:51",
-        "source_chapter": 2,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "c65c4db2bc7e76083e653adc75dff9c97c92106ff837f2f1516673eb352c9a6d"
-      },
-      "52": {
-        "source_ref": "Luke 2:52",
-        "source_chapter": 2,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "663ec7c6580d3186fe485dfb8cedef0b794dffb465dc676e3022eea71dec7f4c"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 52,
+    "path": "translations/fluent/NT/luke/Luke_02.md",
+    "before_sha256": "6b8df377b22ead8ddacdc2a26756d7d64f56728641127d93ccf23048634c3905",
+    "after_sha256": "2b0fcae7e0f90b87734f36063e233a993ae1e66ea3e28171e444eed95e82ef51",
+    "tsw_comparator_path": "books/NT/luke/Luke_02.md",
+    "tsw_comparator_sha256": "73bcba348cc131fd0a0dba7b7f070d94e071f27069418d695d973e6d83b28b18"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-1-4/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 2:2",
+      "delta": "F3",
+      "rationale": "Follow the ordinary first-and-when construction without changing it to before to resolve chronology.",
+      "source_reference": "Luke 2:2",
+      "source_verse_sha256": "e984b40e9a8b2ae4a9f013fe5a9bb1ca21d13b639b55cb4e53ab065c7676c6d0",
+      "before": "This was the first registration while Quirinius was governing Syria.",
+      "after": "This was the first registration, when Quirinius was governing Syria.",
+      "tsw_comparator": "This was the first registration, taken while Quirinius was governing Syria.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:5",
+      "delta": "F3",
+      "rationale": "Retain the marriage pledge and pregnancy without substituting wife from another reading.",
+      "source_reference": "Luke 2:5",
+      "source_verse_sha256": "ecb3845544e77c33cb3165384e938283e2a8e6bdcc52545722978e53f9df3e38",
+      "before": "He went to be registered with Mary, who was pledged to him in marriage and was expecting a child.",
+      "after": "He went to register with Mary, who was pledged in marriage to him and was expecting a child.",
+      "tsw_comparator": "He went to be registered with Mary, to whom he was pledged, and who was expecting a child.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:7",
+      "delta": "F3",
+      "rationale": "Retain firstborn, wrapping, and manger; use guest room with a note on the broader lodging sense.",
+      "source_reference": "Luke 2:7",
+      "source_verse_sha256": "e8dc519d4733dd570dee8cf13da3c88949da00372f6716519e1fb330c92e9eab",
+      "before": "She gave birth to her firstborn son, wrapped him in strips of cloth, and laid him in a feeding trough, because there was no place for them in the guest room.",
+      "after": "She bore her firstborn son, wrapped him in cloths, and laid him in a manger, because there was no space for them in the guest room.",
+      "tsw_comparator": "She gave birth to her firstborn child, wrapped him in bands of cloth, and laid him in a feeding trough, because there was no place for them in the guest room.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:10",
+      "delta": "F3",
+      "rationale": "Keep the emphatic good news and joy while preserving the singular collective people.",
+      "source_reference": "Luke 2:10",
+      "source_verse_sha256": "0092fb227c8d285ad0f8abc9e0fa45bb95bb941a4d138b79f701b72d0bf2a9a9",
+      "before": "But the angel said, “Do not be afraid. Look—I am announcing good news to you, great joy that will be for all the people.",
+      "after": "The angel said, “Do not be afraid. I bring you good news of great joy for all the people.",
+      "tsw_comparator": "The angel said to them, “Do not be afraid; for see—I am bringing you good news of great joy for all the people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.837209,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:11",
+      "delta": "F3",
+      "rationale": "Retain today, for you, birthplace, and all three titles without merging Savior and Messiah.",
+      "source_reference": "Luke 2:11",
+      "source_verse_sha256": "2caa97fe96912b7fdfa65bc56a78e40d9dcb4b1897ee5d4f91a49913014a50d1",
+      "before": "Today a Savior has been born for you in David’s town, who is Christ the Lord.",
+      "after": "Today in David's town a Savior has been born for you: the Messiah, the Lord.",
+      "tsw_comparator": "To you is born this day, in the city of David, a Savior, who is the Messiah, the Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.411765,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:14",
+      "delta": "F3",
+      "rationale": "Follow the genitive favor reading, keeping God's favor rather than making goodwill a human qualification.",
+      "source_reference": "Luke 2:14",
+      "source_verse_sha256": "4478e1ef99d3d648a9a915ad93b6b90e04309fab20eb2fe93c1c0a6c6b4db361",
+      "before": "“Glory to God in the highest, and on earth peace among people of his favor.”",
+      "after": "“Glory to God in the highest, and on earth peace among those he favors!”",
+      "tsw_comparator": "“Glory to God in the highest heaven, and on earth peace among those whom God favors.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.866667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:22",
+      "delta": "F3",
+      "rationale": "Keep the plural their and the presentation purpose rather than correct the source to Mary's purification alone.",
+      "source_reference": "Luke 2:22",
+      "source_verse_sha256": "6fa6d1607ef85871e70513dc85c1ed811a227ce5dae5ff4673d5a355e42998a6",
+      "before": "When the days of their purification according to Moses’ law were completed, they brought him up to Jerusalem to present him to the Lord,",
+      "after": "When the days of their purification under the law of Moses were complete, they brought Jesus up to Jerusalem to present him to the Lord,",
+      "tsw_comparator": "When the days of their purification according to the law of Moses were fulfilled, they brought him up to Jerusalem to present him to the Lord",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862745,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:29",
+      "delta": "F3",
+      "rationale": "Retain the master/slave relationship and present release without making the words an explicit request for death.",
+      "source_reference": "Luke 2:29",
+      "source_verse_sha256": "3fb3e395739768cd818403394052b6c7746716c3de1e47d460d10560a5d546f1",
+      "before": "“Now, Master, you are releasing your servant in peace, according to your word,",
+      "after": "“Now, Master, you are releasing your slave in peace, just as you said,",
+      "tsw_comparator": "“Now, Sovereign Lord, you are dismissing your servant in peace, according to your word;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.444444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:32",
+      "delta": "F3",
+      "rationale": "Keep Gentiles and Israel as distinct, joined recipients of light and glory.",
+      "source_reference": "Luke 2:32",
+      "source_verse_sha256": "e4e99c3a04e019bea61605935e711984fde8d1c2d8fb36ee57b5e7cb27beb70c",
+      "before": "a light for revelation to the nations and glory for your people Israel.”",
+      "after": "a light for revelation to the Gentiles and glory for your people Israel.”",
+      "tsw_comparator": "a light for revelation to the nations and for glory to your people Israel.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.814815,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:33",
+      "delta": "F3",
+      "rationale": "Follow the pinned source's father and mother rather than replace father with Joseph for harmonization.",
+      "source_reference": "Luke 2:33",
+      "source_verse_sha256": "2026f47d09bcd47dce3063694914193b2dd846f8aeb1ee8f90b5e3c8a3df4953",
+      "before": "The child’s father and mother were amazed at what was being said about him.",
+      "after": "His father and mother were amazed at what was being said about him.",
+      "tsw_comparator": "And the child’s father and mother were amazed at what was being said about him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:34",
+      "delta": "F3",
+      "rationale": "Retain both falling and rising and the passive appointment without deciding whether the same people undergo both.",
+      "source_reference": "Luke 2:34",
+      "source_verse_sha256": "796f261fbbc44d3f0838d75db5a39e845147c1ff5351df99ee5abc73963137ad",
+      "before": "Simeon blessed them and said to Mary his mother, “Look, this child is appointed for the falling and rising of many in Israel and for a sign that will be opposed—",
+      "after": "Simeon blessed them and said to Mary, his mother, “This child is appointed for the fall and rising of many in Israel, and as a sign that will be opposed—",
+      "tsw_comparator": "Then Simeon blessed them and said to Mary, his mother, “This child is destined for the falling and the rising of many in Israel, and to be a sign that will be opposed,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:35",
+      "delta": "F3",
+      "rationale": "Preserve Mary's personal wound and the revelation clause without supplying a specific future event.",
+      "source_reference": "Luke 2:35",
+      "source_verse_sha256": "3918e8b5094b7ad6c8ca03e53d23a45b34045bb7b40f212f3d2b83dff3f99a30",
+      "before": "and a sword will pierce your own life too—so that the thoughts of many hearts may be revealed.”",
+      "after": "and a sword will pierce your own soul too—so that the thoughts of many hearts may be revealed.”",
+      "tsw_comparator": "so that the inner thoughts of many will be revealed— and a sword will pierce your own soul also.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.421053,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:37",
+      "delta": "F3",
+      "rationale": "Render eighty-four as her age while recording the possible duration of widowhood; retain constant temple service.",
+      "source_reference": "Luke 2:37",
+      "source_verse_sha256": "2e2c562c215130cbd016d41942a48c9138d40783ff23dfff1cbf30d36d5a3435",
+      "before": "and then as a widow until the age of eighty-four. She never left the temple, serving God with fasting and prayer night and day.",
+      "after": "and she was now a widow of eighty-four. She never left the temple, serving God night and day with fasting and prayer.",
+      "tsw_comparator": "and then as a widow to the age of eighty-four. She never left the temple, but worshiped there with fasting and prayer night and day.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.612245,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:40",
+      "delta": "F3",
+      "rationale": "Keep physical growth, wisdom, and favor without adding in spirit from a variant.",
+      "source_reference": "Luke 2:40",
+      "source_verse_sha256": "2560da191fc9c50f8fdc4bb1ff5e07cf36bbfdb32d4fcb142145f437dfa62693",
+      "before": "The child grew and became strong, filled with wisdom, and God’s favor was upon him.",
+      "after": "The child grew strong and was filled with wisdom, and God's favor was upon him.",
+      "tsw_comparator": "The child grew and became strong, filled with wisdom; and the favor of God was upon him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:49",
+      "delta": "F3",
+      "rationale": "Retain the two questions, necessity, and father contrast; document the alternative Father's affairs construction.",
+      "source_reference": "Luke 2:49",
+      "source_verse_sha256": "2bf0ab75afddf01dc69986f4d771979c5025b22447a6ffbba0f4146b4d9a0c95",
+      "before": "He said to them, “Why were you searching for me? Did you not know that I must be in my Father’s house?”",
+      "after": "He answered, “Why were you searching for me? Did you not know that I must be in my Father's house?”",
+      "tsw_comparator": "He said to them, “Why were you searching for me? Did you not know that I must be in my Father’s house?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.904762,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 2:52",
+      "delta": "F3",
+      "rationale": "Keep the threefold development and both divine and human favor, noting the age/stature range.",
+      "source_reference": "Luke 2:52",
+      "source_verse_sha256": "444d8a4cae728bc64fbc104e36841d257f2e200c1627e2e6c557f45918cfe944",
+      "before": "Jesus grew in wisdom and stature and in favor with God and people.",
+      "after": "Jesus continued to grow in wisdom and stature, and in favor with God and people.",
+      "tsw_comparator": "And Jesus grew in wisdom and in stature, and in favor with God and with people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_02.md",
-    "blob_sha": "809c3633c8f7ef70c7f9bbccffeec2eb441eeaa3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

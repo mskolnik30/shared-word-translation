@@ -34,7 +34,7 @@ def main():
     parent, book, slug = cfg['parent_commit'], cfg['book'], cfg['slug']
     def old(path):
         return subprocess.check_output(['git', 'show', parent+':'+path], cwd=R)
-    source = json.loads(old(cfg['source_template_ledger']))['source']
+    source = dict(cfg['source']) if 'source' in cfg else json.loads(old(cfg['source_template_ledger']))['source']
     source['scope_chapters'] = cfg['chapters']
     sb = (args.source_directory/cfg['source_filename']).read_bytes()
     assert sha(sb) == source['sha256']
@@ -116,13 +116,19 @@ def main():
     for ch in L['chapters']:
         rp = f'audit/exegetical-core/fluent-production/{slug}/{book}_{ch["chapter"]:02}_review.json'
         dump(R/rp,dict(book=book,chapter=ch['chapter'],translation='FLUENT',status='REVIEW_PENDING',publication_allowed=False,qa_scope='structural',automated_qa='PASSED',revision_id=rid,supersedes=dict(commit=parent,path=rp),source=source,chapter_binding=ch,verse_ledger=ledger,key_decisions=[v for v in L['verses'] if v['reference'].startswith(f'{book} {ch["chapter"]}:') and v['delta']=='F3']))
-    for fn in [slug.upper()+'_FLUENT_BOOK_QA.json',slug.upper()+'_SOURCE_BINDINGS.json']:
+    for fn in cfg.get('book_record_files', [slug.upper()+'_FLUENT_BOOK_QA.json',slug.upper()+'_SOURCE_BINDINGS.json']):
         rp = f'audit/exegetical-core/fluent-production/{slug}/'+fn
         d = json.loads(old(rp))
         rev = dict(id=rid,chapters=cfg['chapters'],verse_count=len(D),verse_ledger=ledger,automated_qa='PASSED',editorial_status='REVIEW_PENDING',qa_scope='structural',prior_record=dict(commit=parent,path=rp),note='Previous wording approvals and Companion bindings do not transfer.')
         d.update(status='REVIEW_PENDING', publication_allowed=False,
                  editorial_review_pending_chapters=sorted(set(d.get('editorial_review_pending_chapters',[])+cfg['chapters'])), current_revision=rev)
         d.setdefault('revision_batches',[]).append(rev)
+        if fn in cfg.get('supersede_entry_records', []):
+            for entry in d['entries']:
+                if entry['chapter'] in cfg['chapters']:
+                    entry.update(status='SUPERSEDED', superseded_by_verse_ledger=ledger,
+                                 superseded_reason='Historical English hash and classification; see new source-bound revision.')
+            d['historical_summary_note'] = 'Original classifications and English hashes remain historical; affected entries are explicitly superseded.'
         if 'publication_status' in d: d['publication_status']='REVIEW_PENDING'
         dump(R/rp,d)
     rows=[]

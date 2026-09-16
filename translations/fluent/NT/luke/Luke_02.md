@@ -4,123 +4,110 @@ testament: NT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-luke-1-4-biblical-fluency-2026-09-16
 ---
+
 
 ## The Birth of Jesus
 <p>
 v01: In those days a decree went out from Caesar Augustus that the whole inhabited world should be registered.
-v02: This was the first registration while Quirinius was governing Syria.
+v02: This was the first registration, when Quirinius was governing Syria.
 v03: Everyone went to be registered, each to their own town.
-v04: Joseph also went up from Galilee, from the town of Nazareth, to Judea, to David’s town called Bethlehem, because he belonged to the house and family of David.
-v05: He went to be registered with Mary, who was pledged to him in marriage and was expecting a child.
+v04: Joseph also went up from Nazareth in Galilee to Judea, to David's town, called Bethlehem, because he belonged to David's house and family.
+v05: He went to register with Mary, who was pledged in marriage to him and was expecting a child.
 v06: While they were there, the time came for her to give birth.
-v07: She gave birth to her firstborn son, wrapped him in strips of cloth, and laid him in a feeding trough, because there was no place for them in the guest room.
+v07: She bore her firstborn son, wrapped him in cloths, and laid him in a manger, because there was no space for them in the guest room.
 </p>
 
 ## Good News of Great Joy
 <p>
-v08: In that region shepherds were living in the fields and keeping watch over their flock at night.
-v09: An angel of the Lord stood before them, and the glory of the Lord shone around them. They were filled with great fear.
-v10: But the angel said, “Do not be afraid. Look—I am announcing good news to you, great joy that will be for all the people.
-v11: Today a Savior has been born for you in David’s town, who is Christ the Lord.
-v12: This will be the sign for you: you will find a baby wrapped in strips of cloth and lying in a feeding trough.”
-v13: Suddenly there was with the angel a multitude of the heavenly army, praising God:
+v08: In that region, shepherds were living out in the fields, keeping watch over their flock through the night.
+v09: An angel of the Lord stood before them, and the Lord's glory shone around them. They were terrified.
+v10: The angel said, “Do not be afraid. I bring you good news of great joy for all the people.
+v11: Today in David's town a Savior has been born for you: the Messiah, the Lord.
+v12: This will be the sign for you: you will find a baby wrapped in cloths and lying in a manger.”
+v13: Suddenly a vast heavenly army appeared with the angel, praising God and saying,
 v14: “Glory to God in the highest,
-and on earth peace among people of his favor.”
-v15: When the angels had left them and gone into heaven, the shepherds said to one another, “Let us go straight to Bethlehem and see this thing that has happened, which the Lord has made known to us.”
-v16: They went quickly and found Mary and Joseph, and the baby lying in the feeding trough.
-v17: After seeing him, they made known what had been told them about this child.
-v18: Everyone who heard it was amazed at what the shepherds told them.
-v19: But Mary treasured all these words, bringing them together in her heart.
-v20: The shepherds returned, glorifying and praising God for everything they had heard and seen, just as it had been told them.
+and on earth peace among those he favors!”
+v15: When the angels had left them and gone into heaven, the shepherds said to one another, “Let us go to Bethlehem and see what has happened, which the Lord has made known to us.”
+v16: They hurried there and found Mary and Joseph, and the baby lying in the manger.
+v17: After seeing him, they made known what they had been told about this child.
+v18: Everyone who heard was amazed at what the shepherds told them.
+v19: But Mary treasured all these things and pondered them in her heart.
+v20: The shepherds returned, glorifying and praising God for everything they had heard and seen. It was just as they had been told.
 </p>
 
 ## Jesus Presented to the Lord
 <p>
-v21: When eight days were completed for his circumcision, he was named Jesus, the name given by the angel before he was conceived.
-v22: When the days of their purification according to Moses’ law were completed, they brought him up to Jerusalem to present him to the Lord,
-v23: as it is written in the Lord’s law, “Every firstborn male will be called holy to the Lord,”
-v24: and to offer a sacrifice according to what is said in the Lord’s law, “a pair of turtledoves or two young pigeons.”
-v25: There was a man in Jerusalem named Simeon. He was righteous and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him.
-v26: The Holy Spirit had revealed to him that he would not see death before he had seen the Lord’s Christ.
-v27: Guided by the Spirit, he came into the temple. When the parents brought in the child Jesus to do for him what the law required,
-v28: Simeon took him into his arms and blessed God:
-v29: “Now, Master, you are releasing your servant in peace,
-according to your word,
-v30: because my eyes have seen your salvation,
-v31: which you prepared before all peoples:
-v32: a light for revelation to the nations
+v21: Eight days later, when the child was circumcised, he was named Jesus, the name the angel had given before he was conceived in the womb.
+v22: When the days of their purification under the law of Moses were complete, they brought Jesus up to Jerusalem to present him to the Lord,
+v23: as the Lord's law says: “Every male who first opens the womb is to be called holy to the Lord.”
+v24: They also came to offer the sacrifice prescribed in the Lord's law: “a pair of turtledoves or two young pigeons.”
+v25: There was a man in Jerusalem named Simeon. He was righteous and devout, waiting for Israel's consolation, and the Holy Spirit was upon him.
+v26: The Holy Spirit had revealed to him that he would not see death before he saw the Lord's Messiah.
+v27: Guided by the Spirit, he came into the temple. When the parents brought in the child Jesus to carry out what the law required for him,
+v28: Simeon took him into his arms, blessed God, and said,
+v29: “Now, Master, you are releasing your slave in peace,
+just as you said,
+v30: for my eyes have seen your salvation,
+v31: which you have prepared before all peoples:
+v32: a light for revelation to the Gentiles
 and glory for your people Israel.”
-v33: The child’s father and mother were amazed at what was being said about him.
-v34: Simeon blessed them and said to Mary his mother, “Look, this child is appointed for the falling and rising of many in Israel and for a sign that will be opposed—
-v35: and a sword will pierce your own life too—so that the thoughts of many hearts may be revealed.”
-v36: There was also a prophet named Anna, daughter of Phanuel, from the tribe of Asher. She was advanced in years and had lived with her husband seven years after her marriage,
-v37: and then as a widow until the age of eighty-four. She never left the temple, serving God with fasting and prayer night and day.
-v38: At that very hour she came and began giving thanks to God and speaking about the child to everyone waiting for the redemption of Jerusalem.
-v39: When they had completed everything required by the Lord’s law, they returned to Galilee, to their own town of Nazareth.
-v40: The child grew and became strong, filled with wisdom, and God’s favor was upon him.
-v41: His parents went to Jerusalem every year for the Passover festival.
-v42: When he was twelve years old, they went up according to the festival custom.
-v43: After the festival days were completed, as they were returning home, the boy Jesus stayed behind in Jerusalem, but his parents did not know it.
-v44: Assuming he was in the traveling group, they went a day’s journey and then began looking for him among their relatives and acquaintances.
-v45: When they did not find him, they returned to Jerusalem searching for him.
-v46: After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions.
-v47: Everyone who heard him was amazed at his understanding and his answers.
-v48: When his parents saw him, they were astonished. His mother said, “Child, why have you treated us this way? Look, your father and I have been anxiously searching for you.”
-v49: He said to them, “Why were you searching for me? Did you not know that I must be in my Father’s house?”
-v50: But they did not understand the saying he spoke to them.
-v51: Then he went down with them, came to Nazareth, and was subject to them. His mother treasured all these things in her heart.
-v52: Jesus grew in wisdom and stature and in favor with God and people.
+v33: His father and mother were amazed at what was being said about him.
+v34: Simeon blessed them and said to Mary, his mother, “This child is appointed for the fall and rising of many in Israel, and as a sign that will be opposed—
+v35: and a sword will pierce your own soul too—so that the thoughts of many hearts may be revealed.”
+v36: There was also a prophet named Anna, daughter of Phanuel, from the tribe of Asher. She was very old. After her marriage she had lived with her husband for seven years,
+v37: and she was now a widow of eighty-four. She never left the temple, serving God night and day with fasting and prayer.
+v38: She came up at that very moment, gave thanks to God, and spoke about the child to everyone awaiting Jerusalem's redemption.
+v39: After they had done everything required by the Lord's law, they returned to Galilee, to their own town of Nazareth.
+v40: The child grew strong and was filled with wisdom, and God's favor was upon him.
+v41: Every year his parents went to Jerusalem for the Passover festival.
+v42: When Jesus was twelve, they went up as usual for the festival.
+v43: After the festival days ended, his parents set out for home, but the boy Jesus stayed in Jerusalem without their knowing it.
+v44: They thought he was with the traveling group and went a day's journey before looking for him among their relatives and acquaintances.
+v45: When they did not find him, they returned to Jerusalem to search for him.
+v46: After three days they found him in the temple, sitting among the teachers, listening to them and asking questions.
+v47: Everyone who heard him was astonished at his understanding and his answers.
+v48: His parents were overwhelmed when they saw him. His mother said, “Child, why have you treated us this way? Your father and I have been searching for you in anguish.”
+v49: He answered, “Why were you searching for me? Did you not know that I must be in my Father's house?”
+v50: But they did not understand what he said to them.
+v51: He went down with them to Nazareth and remained obedient to them. His mother kept all these things in her heart.
+v52: Jesus continued to grow in wisdom and stature, and in favor with God and people.
 </p>
 
 ## Notes
 
-v02: Luke’s relationship between this registration, Quirinius, and other ancient chronological evidence remains historically debated. Fluent translates the critical text rather than solving the chronology inside the verse.
+v02: The text is rendered ‘first registration’ and ‘when Quirinius was governing Syria.’ The wording is not changed to ‘before Quirinius’ to resolve a chronological question.
 
-v07: `katalyma` is “guest room/lodging place.” Luke uses a different word for a commercial inn in 10:34, so Fluent does not introduce an innkeeper.
+v07: ‘Guest room’ can also mean ‘lodging place.’ The verse does not describe the building's layout or mention an innkeeper.
 
-v10–11: “Today” becomes a major Lukan theological time-word: salvation is repeatedly announced as present action.
+v14: The Greek reading followed here means people of favor or goodwill, understood as recipients of God's favor. Another reading underlies the familiar ‘goodwill toward people.’
 
-v14: The critical text supports a genitive form meaning peace among people of God’s favor, rather than the familiar nominative “goodwill toward people.”
+v22: The Greek has the plural ‘their purification.’ The translation does not change this to ‘her purification.’
 
-v22: The critical text reads “their purification,” despite the fact that the ritual requirement in view is associated especially with the mother. Fluent does not silently change the pronoun.
+v33: The text followed here says ‘his father and mother.’ The word ‘father’ is retained alongside the preceding birth account.
 
-v32: “Nations” preserves the broad sense of `ethnē`; “Gentiles” remains contextually possible.
+v34–35: The sword saying interrupts the prophecy about opposition and the disclosure of hearts. ‘Fall and rising’ does not specify whether the same people experience both.
 
-v34–35: Falling/rising and opposition/revelation are kept together without assigning every phrase to separate groups.
+v37: Eighty-four is taken here as Anna's age. The construction can also be understood as eighty-four years of widowhood.
 
-v37: The syntax most naturally describes Anna as eighty-four years old, though an ancient reading of eighty-four years of widowhood is possible.
+v49: The Greek can mean ‘in my Father's house’ or, more broadly, ‘engaged in my Father's affairs.’ The temple setting supports ‘house’ here.
 
-v49: The Greek may mean “in my Father’s house” or more broadly “about my Father’s things/affairs.” The temple setting supports the main text.
+v52: The term rendered ‘stature’ can also refer to age or maturity.
 
 ## Vocabulary
 
-v01: οἰκουμένη (oikoumenē)
-“Inhabited world.”
+v01: **οἰκουμένη (oikoumenē)**: Inhabited world; here used within an imperial decree.
 
-v07: κατάλυμα (katalyma)
-“Guest room, lodging place.”
+v07: **φάτνη (phatnē)**: Manger or feeding trough.
 
-v07: φάτνη (phatnē)
-“Feeding trough, manger.”
+v11: **χριστός (christos)**: Messiah or Christ, meaning ‘anointed one.’
 
-v10: εὐαγγελίζομαι (euangelizomai)
-“To announce good news.”
+v25: **παράκλησις (paraklēsis)**: Consolation, comfort, or encouragement.
 
-v11: σωτήρ (sōtēr)
-“Savior, deliverer.”
+v29: **δεσπότης / δοῦλος (despotēs / doulos)**: Master / slave; the paired terms in Simeon's address.
 
-v14: εἰρήνη (eirēnē)
-“Peace, wholeness.”
-
-v25: παράκλησις (paraklēsis)
-“Consolation, comfort.”
-
-v30: σωτήριον (sōtērion)
-“Salvation, saving deliverance.”
-
-v38: λύτρωσις (lytrōsis)
-“Redemption, release.”
-
-v49: δεῖ (dei)
-“It is necessary, it must be.”
+v49: **δεῖ (dei)**: Must or it is necessary; repeated in Jesus' account of his mission in 4:43.

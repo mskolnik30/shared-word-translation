@@ -1,0 +1,116 @@
+{
+  "parent_commit": "f3641e1567a056d4d6cb88f8202bea87ec08a494",
+  "parent_library_version": 84,
+  "book": "Luke",
+  "slug": "luke",
+  "chapters": [1, 2, 3, 4],
+  "scope": "Luke 1–4",
+  "expected_verses": 214,
+  "source_filename": "luke-pinned-greek.txt",
+  "book_record_files": ["LUKE_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "Luke 5–24; John 1–5",
+  "completed_block_scope": "Matthew 24–28; Mark 1–16; Luke 1–4",
+  "source_omissions": {},
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": ["1:1", "1:3", "1:7", "1:15", "1:17", "1:22", "1:25", "1:27", "1:28", "1:34", "1:35", "1:37", "1:38", "1:43", "1:45", "1:46", "1:47", "1:48", "1:49", "1:50", "1:51", "1:52", "1:53", "1:54", "1:55", "1:69", "1:73", "1:78", "2:2", "2:5", "2:7", "2:10", "2:11", "2:14", "2:22", "2:29", "2:32", "2:33", "2:34", "2:35", "2:37", "2:40", "2:49", "2:52", "3:2", "3:3", "3:7", "3:10", "3:11", "3:12", "3:13", "3:14", "3:16", "3:17", "3:19", "3:21", "3:22", "3:23", "3:29", "3:32", "3:33", "3:36", "3:37", "3:38", "4:4", "4:5", "4:6", "4:7", "4:8", "4:9", "4:10", "4:11", "4:12", "4:18", "4:19", "4:20", "4:21", "4:22", "4:25", "4:26", "4:27", "4:35", "4:39", "4:41", "4:44"],
+  "focused_extra_references": ["1:5", "1:8", "1:9", "1:13", "1:19", "1:24", "1:26", "1:32", "1:33", "1:36", "1:41", "1:56", "1:59", "1:63", "1:68", "1:74", "1:75", "1:76", "1:77", "1:79", "2:1", "2:4", "2:13", "2:21", "2:23", "2:24", "2:26", "2:36", "2:42", "2:46", "2:48", "3:1", "3:4", "3:5", "3:6", "3:24", "3:25", "3:26", "3:27", "3:28", "3:30", "3:31", "3:34", "3:35", "4:1", "4:2", "4:16", "4:23", "4:24", "4:34", "4:40", "4:43"],
+  "apparatus": {
+    "1": {
+      "notes": [
+        ["01–04", "The opening links received eyewitness testimony, the writer's careful inquiry, an orderly account, and reliable instruction. ‘Orderly’ does not by itself specify a strictly chronological arrangement."],
+        ["17", "‘Fathers' hearts’ retains the family language of the Greek. The saying links turning within families with the disobedient turning toward righteous wisdom."],
+        ["25", "Elizabeth speaks of disgrace ‘among people.’ The narrator has already called both her and Zechariah righteous in verse 6."],
+        ["28", "‘Favored one’ describes someone who has received favor or grace. The text followed here does not add ‘blessed are you among women’ to this greeting; that blessing occurs in verse 42."],
+        ["35", "The Greek can also be construed ‘the holy child to be born will be called Son of God.’ ‘Overshadow’ retains the source's image without explaining a mechanism."],
+        ["37", "‘No word from God will fail’ can also be rendered more broadly, ‘Nothing will be impossible with God.’ The word translated ‘word’ can also refer to a matter or event."],
+        ["38, 48", "The Greek term is the feminine form of ‘slave.’ Mary uses it of herself; her spoken assent in verse 38 is also retained."],
+        ["45", "The clause can be read as the content of belief, as here, or as its ground: ‘blessed is she who believed, because there will be a fulfillment.’"],
+        ["69", "A horn is an image of strength; ‘horn of salvation’ preserves the song's ancient image of saving power."],
+        ["78", "The Greek word can mean rising or dawn. The following light imagery supports ‘dawn’ here; the verb in the text followed is future, ‘will visit.’"]
+      ],
+      "vocabulary": [
+        ["04", "ἀσφάλεια (asphaleia)", "Reliability, security, or certainty."],
+        ["30", "χάρις (charis)", "Favor or grace."],
+        ["48", "ταπείνωσις (tapeinōsis)", "Lowly condition or humiliation; a person's circumstances, not necessarily a claim to humility as a virtue."],
+        ["68", "λύτρωσις (lytrōsis)", "Redemption or release."],
+        ["72", "διαθήκη (diathēkē)", "Covenant."],
+        ["77", "ἄφεσις (aphesis)", "Release or forgiveness; here release from sins."]
+      ]
+    },
+    "2": {
+      "notes": [
+        ["02", "The text is rendered ‘first registration’ and ‘when Quirinius was governing Syria.’ The wording is not changed to ‘before Quirinius’ to resolve a chronological question."],
+        ["07", "‘Guest room’ can also mean ‘lodging place.’ The verse does not describe the building's layout or mention an innkeeper."],
+        ["14", "The Greek reading followed here means people of favor or goodwill, understood as recipients of God's favor. Another reading underlies the familiar ‘goodwill toward people.’"],
+        ["22", "The Greek has the plural ‘their purification.’ The translation does not change this to ‘her purification.’"],
+        ["33", "The text followed here says ‘his father and mother.’ The word ‘father’ is retained alongside the preceding birth account."],
+        ["34–35", "The sword saying interrupts the prophecy about opposition and the disclosure of hearts. ‘Fall and rising’ does not specify whether the same people experience both."],
+        ["37", "Eighty-four is taken here as Anna's age. The construction can also be understood as eighty-four years of widowhood."],
+        ["49", "The Greek can mean ‘in my Father's house’ or, more broadly, ‘engaged in my Father's affairs.’ The temple setting supports ‘house’ here."],
+        ["52", "The term rendered ‘stature’ can also refer to age or maturity."]
+      ],
+      "vocabulary": [
+        ["01", "οἰκουμένη (oikoumenē)", "Inhabited world; here used within an imperial decree."],
+        ["07", "φάτνη (phatnē)", "Manger or feeding trough."],
+        ["11", "χριστός (christos)", "Messiah or Christ, meaning ‘anointed one.’"],
+        ["25", "παράκλησις (paraklēsis)", "Consolation, comfort, or encouragement."],
+        ["29", "δεσπότης / δοῦλος (despotēs / doulos)", "Master / slave; the paired terms in Simeon's address."],
+        ["49", "δεῖ (dei)", "Must or it is necessary; repeated in Jesus' account of his mission in 4:43."]
+      ]
+    },
+    "3": {
+      "notes": [
+        ["01–02", "The dating frame names imperial, regional, and priestly authorities before locating the word of God with John in the wilderness."],
+        ["07", "John addresses the crowds in Luke's account. The translation does not replace them with a narrower group from another Gospel."],
+        ["14", "The soldiers are not assigned a national identity in this verse. Both coercion and false accusation are prohibited."],
+        ["16–17", "Spirit and fire remain together in the baptism saying; the following threshing image includes both gathering and burning."],
+        ["23", "‘When he began’ is elliptical; the beginning of Jesus' public work is understood. ‘As people supposed’ qualifies his being Joseph's son."],
+        ["23–38", "The repeated ‘son of’ makes the backward chain of descent clear. The genealogy is not altered to match another biblical list."],
+        ["29", "‘Joshua’ renders the Greek name Iēsous, the same Greek form used for ‘Jesus.’"],
+        ["32–33", "The pinned Greek text has the name forms Jobel and Sala and includes both Admin and Arni. These are preserved rather than silently replaced from a parallel genealogy."],
+        ["36–37", "Cainan, written Kainam in this Greek text, appears in two different positions in the genealogy. Both occurrences are retained."]
+      ],
+      "vocabulary": [
+        ["01", "τετραάρχης (tetraarchēs)", "Tetrarch, a title for a regional ruler."],
+        ["03", "μετάνοια (metanoia)", "Repentance, a turning or change of mind and direction."],
+        ["11", "χιτών (chitōn)", "Tunic, a basic garment."],
+        ["17", "πτύον (ptyon)", "Winnowing fork, a tool for tossing threshed grain to separate it from chaff."],
+        ["22", "σωματικῷ εἴδει (sōmatikō eidei)", "In bodily form; Luke's wording for the Spirit's visible descent."]
+      ]
+    },
+    "4": {
+      "notes": [
+        ["04–12", "The shorter bread quotation and Luke's sequence of tests are retained. The Greek text here does not name a mountain in verse 5 or add a dismissal of Satan in verse 8."],
+        ["06", "The claim about receiving and distributing authority is the devil's speech, not a separate assertion by the narrator."],
+        ["09", "The temple's ‘highest point’ renders a term literally related to a wing or projecting edge. The verse does not identify its precise location."],
+        ["18–19", "The quotation includes good news, release, sight, freedom for the oppressed, and favor. The text followed here does not add ‘to heal the brokenhearted.’"],
+        ["22", "‘Gracious words’ can also be understood as ‘words of grace,’ emphasizing their content as well as their manner."],
+        ["27", "‘Leprosy’ represents an ancient disease term; it does not establish a modern medical diagnosis."],
+        ["39", "Jesus rebukes the fever. The narrator does not call the fever a demon."],
+        ["44", "The Greek text followed here reads ‘Judea.’ Another reading has ‘Galilee.’ The geographical wording is not harmonized to the preceding scenes."]
+      ],
+      "vocabulary": [
+        ["02", "πειράζω (peirazō)", "Test or tempt."],
+        ["18", "ἄφεσις (aphesis)", "Release or forgiveness; the same word rendered ‘forgiveness’ in 1:77 and 3:3."],
+        ["19, 24", "δεκτός (dektos)", "Acceptable, favorable, or welcome; used of the Lord's year and a prophet's reception."],
+        ["32", "ἐξουσία (exousia)", "Authority; repeated in the response to the unclean spirit's departure."],
+        ["43", "βασιλεία (basileia)", "Kingdom, reign, or rule."]
+      ]
+    }
+  }
+}

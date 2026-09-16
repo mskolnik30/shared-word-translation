@@ -4,127 +4,108 @@ testament: NT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-luke-1-4-biblical-fluency-2026-09-16
 ---
+
 
 ## Jesus Is Tested
 
 <p>
 v01: Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness
-v02: for forty days, being tested by the devil. He ate nothing during those days, and when they ended, he was hungry.
-v03: The devil said to him, “If you are God’s Son, tell this stone to become bread.”
-v04: Jesus answered him, “It is written, ‘A person shall not live by bread alone.’”
-v05: The devil led him up and showed him all the kingdoms of the inhabited world in a moment of time.
-v06: He said to him, “I will give you all this authority and their glory, because it has been handed over to me, and I give it to whomever I want.
-v07: Therefore, if you bow before me, it will all be yours.”
-v08: Jesus answered him, “It is written,
-‘You shall worship the Lord your God,
-and serve him alone.’”
-v09: The devil led him to Jerusalem, set him on the highest point of the temple, and said, “If you are God’s Son, throw yourself down from here,
-v10: because it is written,
-‘He will command his angels concerning you,
-to guard you,’
-v11: and,
-‘They will lift you up on their hands,
-so that you do not strike your foot against a stone.’”
-v12: Jesus answered him, “It has been said, ‘You shall not test the Lord your God.’”
-v13: When the devil had completed every test, he left him until an opportune time.
+v02: for forty days, while the devil tested him. He ate nothing during those days, and when they were over, he was hungry.
+v03: The devil said to him, “If you are the Son of God, tell this stone to become bread.”
+v04: Jesus answered, “It is written, ‘A human being does not live on bread alone.’”
+v05: The devil led him up and showed him all the kingdoms of the inhabited world in an instant.
+v06: “I will give you all this authority and their glory,” he said, “because it has been handed over to me, and I give it to anyone I choose.
+v07: So if you bow down before me, it will all be yours.”
+v08: Jesus answered, “It is written, ‘Worship the Lord your God, and serve him alone.’”
+v09: The devil led him to Jerusalem, stood him on the highest point of the temple, and said, “If you are the Son of God, throw yourself down from here.
+v10: For it is written, ‘He will command his angels concerning you, to protect you,’
+v11: and, ‘They will lift you up in their hands so that you do not strike your foot against a stone.’”
+v12: Jesus replied, “It is said, ‘Do not put the Lord your God to the test.’”
+v13: When the devil had finished every test, he left him until another opportunity.
 </p>
 
 ## Jesus Begins His Ministry
 
 <p>
-v14: Jesus returned to Galilee in the power of the Spirit, and news about him spread throughout the surrounding region.
-v15: He taught in their synagogues and was praised by everyone.
+v14: Jesus returned to Galilee in the Spirit's power, and news about him spread through the whole surrounding region.
+v15: He taught in their synagogues, and everyone praised him.
 </p>
 
 ## Jesus in Nazareth
 
 <p>
-v16: Jesus came to Nazareth, where he had been raised. As was his custom, he entered the synagogue on the Sabbath and stood up to read.
-v17: The scroll of the prophet Isaiah was given to him. He unrolled the scroll and found the place where it was written:
-v18: “The Spirit of the Lord is upon me,
+v16: He came to Nazareth, where he had grown up. On the Sabbath he went into the synagogue, as he usually did, and stood to read.
+v17: The scroll of the prophet Isaiah was handed to him. He unrolled it and found the place where it was written:
+v18: “The Lord's Spirit is upon me,
 because he has anointed me
-to announce good news to the poor.
+to bring good news to the poor.
 He has sent me to proclaim release to captives
-and recovery of sight to the blind,
-to send the oppressed out in release,
-v19: to proclaim the year of the Lord’s favor.”
-v20: He rolled up the scroll, gave it back to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on him.
-v21: He began by saying to them, “Today this Scripture has been fulfilled in your hearing.”
-v22: Everyone was speaking well of him and marveling at the gracious words coming from his mouth. They asked, “Is this not Joseph’s son?”
-v23: He said to them, “No doubt you will quote this proverb to me: ‘Physician, heal yourself. Do here in your hometown everything we have heard happened in Capernaum.’”
-v24: He said, “Truly I tell you, no prophet is accepted in his hometown.
-v25: But I tell you the truth: there were many widows in Israel in Elijah’s days, when heaven was shut for three years and six months and a severe famine came over the whole land.
-v26: Yet Elijah was sent to none of them, but only to a widow at Zarephath in Sidon.
-v27: And there were many people with skin diseases in Israel in the time of Elisha the prophet, yet none of them was cleansed except Naaman the Syrian.”
-v28: Everyone in the synagogue was filled with rage when they heard these things.
-v29: They got up, drove him out of the town, and led him to the edge of the hill on which their town was built, intending to throw him down.
-v30: But he passed through the middle of them and went on his way.
+and sight to the blind,
+to send the oppressed away in freedom,
+v19: to proclaim the year of the Lord's favor.”
+v20: He rolled up the scroll, gave it back to the attendant, and sat down. Every eye in the synagogue was fixed on him.
+v21: He began to speak: “Today this scripture has been fulfilled in your hearing.”
+v22: Everyone spoke well of him and marveled at the gracious words coming from his mouth. “Is this not Joseph's son?” they asked.
+v23: He said, “You will surely quote me this proverb: ‘Doctor, heal yourself!’ You will say, ‘Do here in your hometown what we heard happened in Capernaum.’”
+v24: Then he said, “Truly I tell you, no prophet is welcome in their hometown.
+v25: I tell you the truth: there were many widows in Israel in Elijah's days, when the sky was shut for three years and six months and a great famine came over the whole land.
+v26: Yet Elijah was sent to none of them, but to a widow in Zarephath in the region of Sidon.
+v27: There were also many people with leprosy in Israel in the time of the prophet Elisha. Yet none of them was cleansed except Naaman the Syrian.”
+v28: When they heard this, everyone in the synagogue was filled with rage.
+v29: They got up, drove him out of town, and took him to the edge of the hill on which their town was built, intending to throw him over.
+v30: But he passed through their midst and went on his way.
 </p>
 
 ## Authority in Capernaum
 
 <p>
-v31: He went down to Capernaum, a town of Galilee, and was teaching them on the Sabbath.
-v32: They were astonished at his teaching because his word carried authority.
-v33: In the synagogue was a man who had the spirit of an unclean demon. He cried out loudly,
-v34: “Ah! What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
-v35: Jesus rebuked him: “Be silent and come out of him!” The demon threw the man down in front of them and came out without harming him.
-v36: Amazement came over everyone, and they said to one another, “What kind of word is this? With authority and power he commands unclean spirits, and they come out!”
-v37: News about him spread into every place in the surrounding region.
-v38: Jesus left the synagogue and entered Simon’s house. Simon’s mother-in-law was suffering from a high fever, and they appealed to him for her.
+v31: He went down to Capernaum, a town in Galilee, and taught the people on the Sabbath.
+v32: They were astonished at his teaching, because his words carried authority.
+v33: In the synagogue was a man with the spirit of an unclean demon. He shouted loudly,
+v34: “Ah! What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are: God's Holy One!”
+v35: Jesus rebuked the demon: “Be silent and come out of him!” The demon threw the man down in front of them and came out without harming him.
+v36: Everyone was amazed. They said to one another, “What is this word? He commands unclean spirits with authority and power, and they come out!”
+v37: Reports about him spread to every place in the surrounding region.
+v38: Jesus left the synagogue and entered Simon's house. Simon's mother-in-law was suffering from a high fever, and they asked Jesus to help her.
 v39: He stood over her and rebuked the fever, and it left her. Immediately she got up and began serving them.
-v40: When the sun was setting, everyone who had people sick with various diseases brought them to him. He laid his hands on each of them and healed them.
-v41: Demons also came out of many people, shouting, “You are God’s Son!” But he rebuked them and would not allow them to speak, because they knew he was the Christ.
-v42: When day came, he went out to a deserted place. The crowds searched for him, came to him, and tried to keep him from leaving them.
-v43: But he said, “I must announce the good news of God’s kingdom to the other towns also, because this is why I was sent.”
-v44: And he continued proclaiming in the synagogues of Judea.
+v40: As the sun was setting, everyone who had people sick with various diseases brought them to him. He laid his hands on each one and healed them.
+v41: Demons also came out of many, shouting, “You are the Son of God!” But he rebuked them and would not let them speak, because they knew he was the Messiah.
+v42: At daybreak Jesus went out to a deserted place. The crowds searched for him, found him, and tried to keep him from leaving them.
+v43: But he told them, “I must bring the good news of God's kingdom to the other towns too, because that is why I was sent.”
+v44: He continued proclaiming the message in the synagogues of Judea.
 </p>
 
 ## Notes
 
-v01: Luke says Jesus is both “full of the Holy Spirit” and “led by the Spirit,” extending the Spirit emphasis of chapters 1–3.
+v04–12: The shorter bread quotation and Luke's sequence of tests are retained. The Greek text here does not name a mountain in verse 5 or add a dismissal of Satan in verse 8.
 
-v05–08: Luke places the kingdoms temptation before the Jerusalem/temple temptation, unlike Matthew. Fluent preserves Luke’s order.
+v06: The claim about receiving and distributing authority is the devil's speech, not a separate assertion by the narrator.
 
-v06: The devil’s claim that worldly authority has been “handed over” to him is a character’s claim within the temptation scene, not narrator commentary.
+v09: The temple's ‘highest point’ renders a term literally related to a wing or projecting edge. The verse does not identify its precise location.
 
-v18–19: Luke’s form of Isaiah joins good news, release, sight, freedom from oppression, and the Lord’s favor as Jesus’ programmatic mission statement.
+v18–19: The quotation includes good news, release, sight, freedom for the oppressed, and favor. The text followed here does not add ‘to heal the brokenhearted.’
 
-v21: “Today” is central: Luke presents scriptural fulfillment as arriving in the hearers’ present.
+v22: ‘Gracious words’ can also be understood as ‘words of grace,’ emphasizing their content as well as their manner.
 
-v25–27: The Elijah/Elisha examples intensify the scene by naming God’s mercy beyond Israel’s boundaries.
+v27: ‘Leprosy’ represents an ancient disease term; it does not establish a modern medical diagnosis.
 
-v43: Jesus says he “must” proclaim the kingdom elsewhere. `dei` signals mission necessity rather than mere preference.
+v39: Jesus rebukes the fever. The narrator does not call the fever a demon.
+
+v44: The Greek text followed here reads ‘Judea.’ Another reading has ‘Galilee.’ The geographical wording is not harmonized to the preceding scenes.
 
 ## Vocabulary
 
-v01: πλήρης πνεύματος ἁγίου
-“Full of the Holy Spirit.”
+v02: **πειράζω (peirazō)**: Test or tempt.
 
-v02: πειράζω (peirazō)
-“To test, tempt.”
+v18: **ἄφεσις (aphesis)**: Release or forgiveness; the same word rendered ‘forgiveness’ in 1:77 and 3:3.
 
-v14: δύναμις (dynamis)
-“Power.”
+v19, 24: **δεκτός (dektos)**: Acceptable, favorable, or welcome; used of the Lord's year and a prophet's reception.
 
-v18: χρίω (chriō)
-“To anoint.”
+v32: **ἐξουσία (exousia)**: Authority; repeated in the response to the unclean spirit's departure.
 
-v18: ἄφεσις (aphesis)
-“Release, forgiveness.”
-
-v21: σήμερον (sēmeron)
-“Today.”
-
-v24: δεκτός (dektos)
-“Accepted, welcome, favorable.”
-
-v32: ἐξουσία (exousia)
-“Authority.”
-
-v43: δεῖ (dei)
-“It is necessary, must.”
-
-v43: βασιλεία τοῦ θεοῦ
-“Kingdom of God.”
+v43: **βασιλεία (basileia)**: Kingdom, reign, or rule.
