@@ -1,0 +1,79 @@
+{
+  "scope": "Ezekiel 1–48; Daniel 1–2",
+  "chapters": 50,
+  "verses": 1343,
+  "status": "DRAFT_COMPLETED",
+  "latest_checkpoint_portion": {
+    "scope": "Ezekiel 25–48; Daniel 1–2",
+    "chapters": 26,
+    "verses": 724
+  },
+  "fifty_chapter_block": {
+    "scope": "Ezekiel 1–48; Daniel 1–2",
+    "status": "DRAFT_COMPLETED",
+    "chapters_target": 50,
+    "completed_chapters": 50,
+    "completed_scope": "Ezekiel 1–48; Daniel 1–2",
+    "completed_verses": 1343,
+    "remaining_scope": null,
+    "remaining_chapters": 0,
+    "qualification": "All fifty draft chapters completed with source and structural checks passed. Independent editorial review and reader testing pending; publication not allowed."
+  },
+  "books": [
+    {
+      "book": "ezekiel",
+      "rel": "audit/fluent-revision/2026-09-16-ezekiel-25-48",
+      "verses": 654,
+      "chapters": 24,
+      "focused": 106,
+      "overlap": {
+        "before": {
+          "identical": 453,
+          "near_identical_nonidentical": 188,
+          "mean_word_similarity": 0.983561
+        },
+        "after": {
+          "identical": 20,
+          "near_identical_nonidentical": 47,
+          "mean_word_similarity": 0.716162
+        }
+      }
+    },
+    {
+      "book": "daniel",
+      "rel": "audit/fluent-revision/2026-09-16-daniel-1-2",
+      "verses": 70,
+      "chapters": 2,
+      "focused": 15,
+      "overlap": {
+        "before": {
+          "identical": 55,
+          "near_identical_nonidentical": 15,
+          "mean_word_similarity": 0.990513
+        },
+        "after": {
+          "identical": 1,
+          "near_identical_nonidentical": 3,
+          "mean_word_similarity": 0.698029
+        }
+      }
+    }
+  ],
+  "focused_authoring_rereads_latest_portion": 121,
+  "focused_authoring_rereads_complete_block": 257,
+  "refinements": [
+    "Preserved written/read distinctions including Ezekiel36:14–15,42:16,48:16 and Daniel2:4.",
+    "Kept difficult pinned numbers and unsupplied units in the temple vision, with qualified notes.",
+    "Clarified Ezekiel44:29 as irrevocable dedication in its priestly assignment context.",
+    "Preserved the Hebrew/Aramaic transition, the king’s violence, Daniel’s plural speech, and the unnamed kingdoms."
+  ],
+  "overlap_qualification": "Overlap is triage only, not proof of fidelity, originality, or comprehension.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "next_work": {
+    "scope": "Daniel 3–12; Hosea 1–14; Joel 1–3; Amos 1–9; Obadiah; Jonah 1–4; Micah 1–7; Nahum 1–2",
+    "action": "Next fifty-chapter draft block. Verify pinned sources and public/source versification for each book before drafting. Preserve all pending whole-book reviews; do not treat structural QA as independent editorial review."
+  },
+  "github": "Previously blocked; no rejected write retried."
+}

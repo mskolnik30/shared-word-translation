@@ -4,124 +4,80 @@ testament: OT
 chapter: 33
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: The word of the LORD came to me, saying:
-</p>
+## The watchman’s responsibility
 
 <p>
-v02: “Human one, speak to your people and say to them: When I bring the sword against a land, and the people of that land take one man from among them and appoint him as their watchman,
-v03: and he sees the sword coming against the land, blows the horn, and warns the people,
-v04: then anyone who hears the sound of the horn and does not take warning—if the sword comes and takes them away, their blood will be on their own head.
-v05: They heard the sound of the horn and did not take warning; their blood will be on them. But one who takes warning will save their life.
+v01: The word of the LORD came to me:
+v02: “Son of man, speak to your people. Tell them: Suppose I bring a sword against a land, and its people choose a man from among them and appoint him as their watchman.
+v03: He sees the sword approaching the land, blows the ram’s horn, and warns the people.
+v04: If someone hears the horn but ignores the warning, and the sword comes and takes that person away, their blood will be on their own head.
+v05: They heard the horn but ignored the warning; their blood will be their own responsibility. Had they heeded the warning, they would have saved their life.
+v06: But if the watchman sees the sword coming and does not blow the horn, so the people receive no warning, and the sword comes and takes a life, that person is taken in their guilt. Yet I will demand their blood from the watchman’s hand.
+v07: “You, son of man, I have appointed as a watchman for the house of Israel. Hear the word from my mouth and give them my warning.
+v08: When I tell the wicked, ‘Wicked one, you will surely die,’ and you do not speak to warn them away from their way, that wicked person will die in their guilt. But I will demand their blood from your hand.
+v09: But if you warn the wicked to turn from their way, and they do not turn from it, they will die in their guilt, while you will have saved your own life.
 </p>
 
-<p>
-v06: “But if the watchman sees the sword coming and does not blow the horn, so that the people are not warned, and the sword comes and takes one life from among them, that person is taken away in their guilt; but I will require their blood from the watchman’s hand.
-</p>
+## Turn back and live
 
 <p>
-v07: “Now you, human one: I have appointed you as a watchman for the house of Israel. When you hear a word from my mouth, you must warn them from me.
-v08: When I say to the wicked, ‘Wicked one, you will surely die,’ and you do not speak to warn the wicked away from their way, that wicked person will die in their guilt, but I will require their blood from your hand.
-v09: But if you warn the wicked to turn from their way, and they do not turn from their way, they will die in their guilt; but you will have saved your life.
+v10: “Son of man, tell the house of Israel: You say, ‘Our rebellions and sins weigh on us, and we are wasting away because of them. How can we live?’
+v11: Tell them: As I live, declares the Lord GOD, I take no pleasure in the death of the wicked, but in the wicked turning from their way and living. Turn back, turn back from your evil ways! Why should you die, house of Israel?
+v12: “Son of man, tell your people: The righteousness of the righteous will not rescue them when they rebel. The wickedness of the wicked will not bring them down when they turn from it. A righteous person cannot live by past righteousness when they sin.
+v13: When I tell the righteous that they will surely live, but they trust in their righteousness and do wrong, none of their righteous deeds will be remembered. They will die because of the wrong they have done.
+v14: But when I tell the wicked, ‘You will surely die,’ and they turn from their sin and do what is just and right—
+v15: returning what was taken as a pledge, repaying what was stolen, and following the statutes that give life without doing wrong—they will surely live. They will not die.
+v16: None of the sins they committed will be remembered against them. They have done what is just and right; they will surely live.
+v17: “Yet your people say, ‘The Lord’s way is not fair.’ It is their own way that is not fair.
+v18: When the righteous turn from their righteousness and do wrong, they will die because of it.
+v19: When the wicked turn from their wickedness and do what is just and right, they will live because of it.
+v20: Yet you say, ‘The Lord’s way is not fair.’ House of Israel, I will judge each of you according to your ways.”
 </p>
 
-<p>
-v10: “And you, human one, say to the house of Israel: This is what you have said: ‘Surely our rebellions and our sins are upon us, and because of them we are wasting away. How then can we live?’
-v11: Say to them: As I live, declares the LORD GOD, I take no pleasure in the death of the wicked, but instead that the wicked turn from their way and live. Turn back, turn back from your evil ways! Why should you die, house of Israel?
-</p>
+## The fugitive arrives
 
 <p>
-v12: “And you, human one, say to your people: The righteousness of the righteous will not save them on the day of their rebellion, and the wickedness of the wicked will not cause them to stumble on the day they turn from their wickedness. Nor will the righteous be able to live by their righteousness on the day they sin.
-v13: When I say to the righteous, ‘They will surely live,’ and they trust in their righteousness and do injustice, none of their righteous deeds will be remembered; because of the injustice they have done, they will die.
-v14: But when I say to the wicked, ‘You will surely die,’ and they turn from their sin and do justice and righteousness—
-v15: if the wicked restore a pledge, repay what they have taken by robbery, and walk in the statutes of life without doing injustice—they will surely live; they will not die.
-v16: None of the sins they have committed will be remembered against them. They have done justice and righteousness; they will surely live.
+v21: In the twelfth year of our exile, on the fifth day of the tenth month, a fugitive from Jerusalem came to me and said, “The city has fallen!”
+v22: The evening before the fugitive arrived, the hand of the LORD had come upon me. He opened my mouth before the man came to me in the morning. My mouth was opened, and I was no longer silent.
 </p>
 
-<p>
-v17: “Yet your people say, ‘The way of the LORD is not right,’ when it is their way that is not right.
-v18: When the righteous turn from their righteousness and do injustice, they will die because of it.
-v19: But when the wicked turn from their wickedness and do justice and righteousness, because of these they will live.
-v20: Yet you say, ‘The way of the LORD is not right.’ House of Israel, I will judge each of you according to your ways.”
-</p>
+## Claims to the land
 
 <p>
-v21: In the twelfth year of our exile, in the tenth month, on the fifth day of the month, a fugitive from Jerusalem came to me, saying, “The city has been struck down.”
+v23: The word of the LORD came to me:
+v24: “Son of man, the people living in these ruins on Israel’s soil say, ‘Abraham was only one man, yet he possessed the land. We are many; surely the land has been given to us as a possession.’
+v25: Therefore tell them: This is what the Lord GOD says: You eat with the blood, lift your eyes to your idols, and shed blood. Should you possess the land?
+v26: You rely on your sword, commit abominations, and each of you defiles his neighbor’s wife. Should you possess the land?
+v27: Tell them: This is what the Lord GOD says: As I live, those in the ruins will fall by the sword. Those in the open country I have given to the beasts for food. Those in strongholds and caves will die of pestilence.
+v28: I will make the land a desolate waste and put an end to its proud strength. Israel’s mountains will lie desolate, with no one passing through.
+v29: Then they will know that I am the LORD, when I make the land a desolate waste because of all the abominations they committed.
 </p>
 
-<p>
-v22: Now the hand of the LORD had been upon me in the evening, before the fugitive came. He opened my mouth before the man came to me in the morning; my mouth was opened, and I was no longer mute.
-</p>
+## Listening without doing
 
 <p>
-v23: The word of the LORD came to me, saying:
-</p>
-
-<p>
-v24: “Human one, the inhabitants of these ruins on the land of Israel are saying, ‘Abraham was one man, yet he possessed the land; but we are many, and the land has been given to us as a possession.’
-</p>
-
-<p>
-v25: So say to them: Thus says the LORD GOD: You eat meat with the blood, lift your eyes to your idols, and shed blood. Will you possess the land?
-v26: You stand by your sword, commit abominations, and each of you defiles the wife of a neighbor. Will you possess the land?
-</p>
-
-<p>
-v27: “Say this to them: Thus says the LORD GOD: As I live, surely people who are in the ruins will fall by the sword; whoever is in the open field I will give to the wild animals to be devoured; and people who are in strongholds and caves will die by pestilence.
-v28: I will make the land a desolation and waste, and the pride of its strength will cease. The mountains of Israel will be desolate, with no one passing through.
-v29: Then they will know that I am the LORD, when I make the land a desolation and waste because of all the abominations they have committed.
-</p>
-
-<p>
-v30: “And you, human one, your people are talking about you beside the walls and in the doorways of the houses. One speaks with another, each to their brother or sister, saying, ‘Please come and hear what word is coming from the LORD.’
-v31: They come to you as people come, and they sit before you as my people. They hear your words, but they do not do them. For with their mouths they speak desire, while their hearts go after their gain.
-v32: Look, you are to them like a song of desire, beautifully voiced and well played on an instrument. They hear your words, but they do not do them.
-v33: When this comes—and look, it is coming—then they will know that a prophet has been among them.”
+v30: “As for you, son of man, your people talk about you beside the walls and in the doorways. They say to one another, ‘Come and hear the word that comes from the LORD.’
+v31: They come to you as people do, and my people sit before you. They hear your words but do not act on them. Their mouths express love, but their hearts pursue dishonest gain.
+v32: To them you are like a love song, sung with a beautiful voice and skillfully played. They hear your words but do not act on them.
+v33: When it comes—and it is coming—they will know that a prophet has been among them.”
 </p>
 
 ## Notes
 
-v06: The watchman image holds together personal responsibility and communal responsibility. Those who refuse a warning remain accountable for their own guilt, yet the watchman is accountable for withholding the warning entrusted to him.
+v21: “Twelfth year” follows the pinned Hebrew. Other witnesses have a different year; the date has not been adjusted to resolve the chronology.
 
-v11: “I take no pleasure” does not deny judgment; the surrounding passage speaks plainly of death and judgment. It reveals that judgment is not the LORD’s desired end: the repeated summons is, “Turn back … and live.”
+v25: Eating “with the blood” may refer to consuming blood or to eating in connection with blood rites. The brief Hebrew expression is retained.
 
-v12–16: The passage resists treating either former righteousness or former wickedness as a fixed status that determines the present. Turning is expressed not only in leaving sin but in concrete restoration, justice, and righteousness.
-
-v17–20: The people charge that the Lord’s way is “not right.” The response does not offer an abstract explanation of divine justice, but returns attention to the actual ways of those being judged.
-
-v21–22: The report of Jerusalem’s fall marks a major transition in Ezekiel’s ministry. His mouth, previously restrained, is opened as the message moves from warning before the city’s fall toward testimony among the exiles after it.
-
-v25: Eating “with the blood” evokes the biblical prohibition against consuming blood. It stands alongside idolatry and bloodshed as evidence that the survivors’ claim to the land is morally false.
-
-v30–32: The people value Ezekiel’s words as an attractive performance while refusing to enact them. “Desire” and “song of desire” preserve the passage’s language of sensual attraction, set in contrast with hearts pursuing unjust gain.
+v31–32: The language of love or desire in verse 31 leads into the comparison with a singer of love songs. Listening with pleasure is contrasted with acting on what is heard.
 
 ## Vocabulary
 
-v02: צֹפֶה (*tsofeh*)
-— “watchman.” The watchman sees danger and sounds the warning; the role becomes the central image for Ezekiel’s responsibility to speak the word he receives.
+v2: **Watchman**: A guard charged with seeing danger and sounding the alarm; the image explains Ezekiel’s responsibility to speak.
 
-v08: עָוֹן (*avon*)
-— “guilt” or “iniquity.” Here it is the condition in which the wicked die if they refuse to turn, while the prophet’s failure to warn brings a separate accountability.
-
-v11: שׁוּב (*shuv*)
-— “turn back.” Repeated urgently—“Turn back, turn back”—it names a decisive return from evil ways toward life.
-
-v14: מִשְׁפָּט (mishpat)
-“justice.” In this passage, turning from sin is made visible through actions that establish what is right.
-
-v14: צְדָקָה (tsedaqah)
-“righteousness.” Paired with mishpat, it describes faithful, just conduct rather than merely a private moral quality.
-
-v15: חֻקּוֹת הַחַיִּים (*chuqqot hachayyim*)
-— “statutes of life.” The expression presents the LORD’s commands as a path ordered toward life, in contrast to injustice and death.
-
-v25: גִּלּוּלִים (*gillulim*)
-— “idols.” The term is deliberately contemptuous, often suggesting worthless or defiling objects; it exposes the emptiness of the people’s worship.
-
-v31: בֶּצַע (betsa)
-“gain,” often gain obtained unjustly. The people’s hearts pursue profit even while they sit and listen to the prophet’s words.
-
-v08: עָוֹן (avon)
-“guilt” or “iniquity.” Here it is the condition in which the wicked die if they refuse to turn, while the prophet’s failure to warn brings a separate accountability.
+v15: **Pledge**: Property held as security for a debt.

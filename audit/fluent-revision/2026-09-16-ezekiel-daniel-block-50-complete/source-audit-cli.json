@@ -1,0 +1,26 @@
+[
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-ezekiel-25-48/ezekiel-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered76/sources/ezekiel-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 24,\n  \"verses\": 654,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-daniel-1-2/daniel-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered76/sources/daniel-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 2,\n  \"verses\": 70,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  }
+]

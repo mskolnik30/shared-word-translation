@@ -1,0 +1,213 @@
+{
+  "status": "PASSED",
+  "base_commit": "7dc4e2a6204076f5aa5a43288d033c3aa8dc96bd",
+  "new_chapters": 26,
+  "new_verses": 724,
+  "unique_original_source_records": {
+    "ezekiel": 654,
+    "daniel": 70
+  },
+  "cumulative_coverage": {
+    "ledgers": 91,
+    "chapters": 857,
+    "verses": 21915
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 89,
+    "chapters_byte_identical": 831,
+    "verses": 21191,
+    "tsw_unchanged": true,
+    "historical_provenance_preserved": true
+  },
+  "source_binding_audit": "PASSED for affected Ezekiel and Daniel ledgers",
+  "divine_names": "PASSED verse by verse, including LORD/GOD and YAH separately",
+  "focused_assertions": {
+    "Ezekiel 25:10": [
+      "Ammonites"
+    ],
+    "Ezekiel 26:20": [
+      "set splendor"
+    ],
+    "Ezekiel 27:13": [
+      "human lives"
+    ],
+    "Ezekiel 27:15": [
+      "Dedan"
+    ],
+    "Ezekiel 27:16": [
+      "Aram"
+    ],
+    "Ezekiel 27:17": [
+      "pannag"
+    ],
+    "Ezekiel 28:13": [
+      "carnelian",
+      "topaz",
+      "diamond",
+      "beryl",
+      "onyx",
+      "jasper",
+      "sapphire",
+      "turquoise",
+      "emerald"
+    ],
+    "Ezekiel 29:13": [
+      "forty"
+    ],
+    "Ezekiel 32:32": [
+      "my terror"
+    ],
+    "Ezekiel 33:21": [
+      "twelfth",
+      "fifth",
+      "tenth"
+    ],
+    "Ezekiel 34:16": [
+      "destroy the fat and the strong"
+    ],
+    "Ezekiel 36:14": [
+      "bereave"
+    ],
+    "Ezekiel 36:15": [
+      "stumble"
+    ],
+    "Ezekiel 37:9": [
+      "four winds",
+      "slain"
+    ],
+    "Ezekiel 38:12": [
+      "navel"
+    ],
+    "Ezekiel 40:5": [
+      "six long cubits",
+      "handbreadth"
+    ],
+    "Ezekiel 40:9": [
+      "eight",
+      "two"
+    ],
+    "Ezekiel 40:14": [
+      "sixty"
+    ],
+    "Ezekiel 40:30": [
+      "twenty-five",
+      "five"
+    ],
+    "Ezekiel 40:44": [
+      "singers",
+      "east gate"
+    ],
+    "Ezekiel 40:49": [
+      "eleven"
+    ],
+    "Ezekiel 41:22": [
+      "three",
+      "two",
+      "length",
+      "table"
+    ],
+    "Ezekiel 42:4": [
+      "one cubit"
+    ],
+    "Ezekiel 42:16": [
+      "five hundred reeds"
+    ],
+    "Ezekiel 43:3": [
+      "when I came"
+    ],
+    "Ezekiel 43:15": [
+      "four horns"
+    ],
+    "Ezekiel 43:16": [
+      "twelve"
+    ],
+    "Ezekiel 43:17": [
+      "fourteen",
+      "half a cubit",
+      "east"
+    ],
+    "Ezekiel 44:29": [
+      "irrevocably devoted"
+    ],
+    "Ezekiel 45:1": [
+      "ten thousand"
+    ],
+    "Ezekiel 45:5": [
+      "twenty chambers"
+    ],
+    "Ezekiel 45:12": [
+      "twenty-five",
+      "fifteen",
+      "twenty gerahs"
+    ],
+    "Ezekiel 45:14": [
+      "one-tenth",
+      "Ten baths"
+    ],
+    "Ezekiel 45:20": [
+      "seventh day"
+    ],
+    "Ezekiel 46:1": [
+      "inner court"
+    ],
+    "Ezekiel 47:22": [
+      "resident foreigners",
+      "inheritance"
+    ],
+    "Ezekiel 48:35": [
+      "eighteen thousand",
+      "The LORD Is There"
+    ],
+    "Daniel 1:7": [
+      "Daniel",
+      "Belteshazzar",
+      "Hananiah",
+      "Shadrach",
+      "Mishael",
+      "Meshach",
+      "Azariah",
+      "Abed-nego"
+    ],
+    "Daniel 1:12": [
+      "ten days"
+    ],
+    "Daniel 1:21": [
+      "Cyrus"
+    ],
+    "Daniel 2:4": [
+      "your servant",
+      "we will"
+    ],
+    "Daniel 2:36": [
+      "we will"
+    ],
+    "Daniel 2:43": [
+      "human offspring"
+    ],
+    "Daniel 2:46": [
+      "Daniel",
+      "offering",
+      "incense"
+    ]
+  },
+  "versification": "724 unique exact original records; public and source verse labels match in this portion. Daniel2:4 changes from Hebrew to Aramaic.",
+  "repeated_refrains": "Divine-name repetitions checked verse by verse; recurring promise and judgment phrases reread.",
+  "focused_authoring_reread": 121,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_reviews": "All prior pending reviews preserved.",
+  "active_fifty_chapter_block": {
+    "scope": "Ezekiel 1–48; Daniel 1–2",
+    "status": "DRAFT_COMPLETED",
+    "chapters_target": 50,
+    "completed_chapters": 50,
+    "completed_scope": "Ezekiel 1–48; Daniel 1–2",
+    "completed_verses": 1343,
+    "remaining_scope": null,
+    "remaining_chapters": 0,
+    "qualification": "All fifty draft chapters completed with source and structural checks passed. Independent editorial review and reader testing pending; publication not allowed."
+  },
+  "publication_allowed": false
+}

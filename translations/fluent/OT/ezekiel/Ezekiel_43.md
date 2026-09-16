@@ -4,132 +4,78 @@ testament: OT
 chapter: 43
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-# Ezekiel 43
+## The glory returns
 
 <p>
-v01: Then he led me to the gate, the gate that faces east.
+v01: He led me to the gate facing east.
+v02: The glory of the God of Israel was coming from the east. His voice was like the sound of great waters, and the earth shone with his glory.
+v03: The vision looked like the one I had seen when I came to destroy the city, and like the visions I had seen beside the Kebar River. I fell facedown.
+v04: The glory of the LORD entered the temple through the east-facing gate.
+v05: The spirit lifted me and brought me into the inner court. The glory of the LORD filled the temple.
 </p>
 
-<p>
-v02: And there—the glory of the God of Israel was coming from the east. His voice was like the sound of many waters, and the earth shone from his glory.
-</p>
+## The dwelling place
 
 <p>
-v03: The vision I saw was like the vision I had seen when he came to destroy the city, and the visions were like the vision I had seen by the Kebar River. I fell facedown.
+v06: I heard someone speaking to me from the temple while the man stood beside me.
+v07: He said, “Son of man, this is the place of my throne and the place for the soles of my feet, where I will dwell among the Israelites forever. The house of Israel and their kings will no longer defile my holy name by their prostitution or by the corpses of their kings at their high places.
+v08: They set their threshold beside mine and their doorpost beside mine, with only a wall between me and them. They defiled my holy name by the abominations they committed, so I consumed them in my anger.
+v09: Now let them put their prostitution and their kings’ corpses far from me, and I will dwell among them forever.
 </p>
 
-<p>
-v04: The glory of the LORD entered the house by way of the gate that faces east.
-</p>
+## The temple’s design
 
 <p>
-v05: Then the Spirit lifted me and brought me into the inner court, and there—the glory of the LORD filled the house.
+v10: “Son of man, describe the temple to the house of Israel, so they may be ashamed of their guilt. Let them measure its design.
+v11: If they are ashamed of all they have done, make known to them the temple’s form and arrangement, its exits and entrances, all its forms, all its statutes, all its forms and all its instructions. Write these before their eyes, so they may observe all its form and all its statutes and carry them out.
+v12: This is the instruction for the temple: the whole area on top of the mountain, all around, is most holy. This is the instruction for the temple.
 </p>
 
-<p>
-v06: I heard someone speaking to me from the house, while a man was standing beside me.
-</p>
+## The altar
 
 <p>
-v07: He said to me, “Human one, this is the place of my throne and the place for the soles of my feet, where I will dwell among the children of Israel forever. The house of Israel and their kings will no longer defile my holy name by their prostitution or by the corpses of their kings at their high places.
+v13: “These are the altar’s measurements in long cubits, each a cubit and a handbreadth. Its base is one cubit deep and one cubit wide, with a rim one span wide around its edge. This is the altar’s base.
+v14: From the base on the ground to the lower ledge is two cubits, with a width of one cubit. From the smaller ledge to the larger ledge is four cubits, with a width of one cubit.
+v15: The altar hearth is four cubits high, and four horns project upward from the hearth.
+v16: The hearth is twelve cubits long and twelve cubits wide, square on its four sides.
+v17: The ledge is fourteen cubits long and fourteen cubits wide on its four sides. Its surrounding rim is half a cubit, and its base extends one cubit all around. Its steps face east.”
 </p>
 
-<p>
-v08: When they placed their threshold beside my threshold and their doorposts beside my doorposts, with only a wall between me and them, they defiled my holy name by the detestable things they did. So I consumed them in my anger.
-</p>
+## Consecrating the altar
 
 <p>
-v09: Now let them put their prostitution and the corpses of their kings far from me, and I will dwell among them forever.
-</p>
-
-<p>
-v10: “You, human one, tell the house of Israel about the house, so that they may be ashamed of their iniquities. Let them measure the design.
-</p>
-
-<p>
-v11: If they are ashamed of all that they have done, reveal to them the form of the house and its arrangement, its exits and its entrances, all its forms, all its statutes, all its forms, and all its laws. Write them down before their eyes, so that they may keep its entire form and all its statutes and do them.
-</p>
-
-<p>
-v12: This is the law of the house: On the top of the mountain, all its territory around it is most holy. Look—this is the law of the house.
-</p>
-
-<p>
-v13: “These are the measurements of the altar in cubits—the cubit being a cubit and a handbreadth: the gutter will be one cubit deep and one cubit wide, with a border around its edge one span. This will be the base of the altar.
-</p>
-
-<p>
-v14: From the gutter at ground level to the lower ledge will be two cubits, with a width of one cubit; and from the smaller ledge to the larger ledge will be four cubits, with a width of one cubit.
-</p>
-
-<p>
-v15: The altar hearth will be four cubits high, and from the altar hearth upward there will be four horns.
-</p>
-
-<p>
-v16: The altar hearth will be twelve cubits long by twelve cubits wide, square on its four sides.
-</p>
-
-<p>
-v17: The ledge will be fourteen cubits long by fourteen cubits wide on its four sides, with a border around it of half a cubit and a gutter around it of one cubit. Its steps will face east.”
-</p>
-
-<p>
-v18: Then he said to me, “Human one, this is what the LORD GOD says: These are the statutes for the altar on the day it is made, to offer burnt offerings on it and to splash blood on it.
-</p>
-
-<p>
-v19: You will give to the Levitical priests who are from the offspring of Zadok, who draw near to me to minister to me, declares the LORD GOD, a bull from the herd as a sin offering.
-</p>
-
-<p>
-v20: You will take some of its blood and put it on its four horns, on the four corners of the ledge, and on the border all around. Thus you will cleanse it from sin and make atonement for it.
-</p>
-
-<p>
-v21: You will take the bull of the sin offering, and it will be burned in the appointed place of the house, outside the sanctuary.
-</p>
-
-<p>
-v22: On the second day you will offer an unblemished male goat as a sin offering, and they will cleanse the altar from sin as they cleansed it with the bull.
-</p>
-
-<p>
-v23: When you have finished cleansing it from sin, you will offer an unblemished bull from the herd and an unblemished ram from the flock.
-</p>
-
-<p>
-v24: You will bring them before the LORD. The priests will throw salt on them and offer them up as a burnt offering to the LORD.
-</p>
-
-<p>
-v25: For seven days you will prepare a male goat as a sin offering each day; and they will prepare an unblemished bull from the herd and an unblemished ram from the flock.
-</p>
-
-<p>
-v26: For seven days they will make atonement for the altar, cleanse it, and consecrate it.
-</p>
-
-<p>
-v27: When they have completed the days, from the eighth day onward the priests will offer on the altar your burnt offerings and your well-being offerings. Then I will accept you, declares the LORD GOD.”
+v18: He told me, “Son of man, this is what the Lord GOD says: These are the altar’s statutes for the day it is made, for offering burnt offerings on it and splashing blood against it.
+v19: Give a young bull as a sin offering to the Levitical priests descended from Zadok, who approach me to serve me, declares the Lord GOD.
+v20: Take some of its blood and put it on the altar’s four horns, the ledge’s four corners, and the rim all around. Purify the altar and make atonement for it.
+v21: Take the bull of the sin offering and burn it at the temple’s appointed place outside the sanctuary.
+v22: On the second day offer an unblemished male goat as a sin offering. They must purify the altar as they purified it with the bull.
+v23: When you finish purifying it, offer an unblemished young bull and an unblemished ram from the flock.
+v24: Present them before the LORD. The priests must throw salt on them and offer them as a burnt offering to the LORD.
+v25: For seven days provide a male goat as a sin offering each day. They must also provide an unblemished young bull and an unblemished ram from the flock.
+v26: For seven days they must make atonement for the altar, cleanse it, and consecrate it.
+v27: When these days are complete, from the eighth day onward the priests must offer your burnt offerings and your peace offerings on the altar. Then I will accept you, declares the Lord GOD.”
 </p>
 
 ## Notes
 
-v26: “Consecrate it” literally reflects the idiom “fill its hand,” an expression used for installation into sacred service.
+v3: The pinned Hebrew says “when I came to destroy the city.” Other witnesses have “when he came.” The first-person wording is retained rather than silently corrected.
+
+v7: The phrase concerning the kings’ corpses and their high places is difficult. Some understand royal funerary monuments or read the final word as referring to their deaths.
+
+v11: The repeated references to the temple’s forms and regulations are retained.
+
+v13–17: The long cubit is again defined as a cubit plus a handbreadth. Some details of the altar’s base and ledges are uncertain; the stated numbers, square shapes, and four horns remain explicit.
+
+v26: Consecration is expressed with the image of filling hands, applied here to the altar. The Hebrew reading note supplies a plural form.
 
 ## Vocabulary
 
-v02: כָּבוֹד (kavod)
-“glory.” In this passage, God’s kavod is the radiant, overwhelming presence that comes from the east, illuminates the earth, enters the house, and fills it.
+v7: **Footstool**: The place for the soles of God’s feet, an image of his dwelling and rule.
 
-v12: תּוֹרָה (torah)
-“law” or “instruction.” The “law of the house” is the ordering instruction that marks the entire temple precinct as most holy.
-
-v18: עֹלָה (olah)
-“burnt offering.” This offering is wholly brought up upon the altar, fitting the chapter’s concern with the altar’s dedication for sacrifice.
-
-v20: כִּפֶּר (kipper)
-“make atonement.” Here the verb describes ritual action performed for the altar, restoring it for its holy service.
+v15: **Altar hearth**: The upper surface where the offering burns; its Hebrew designation also contains a lion-like word form.

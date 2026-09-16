@@ -446,12 +446,22 @@
       "scope": "Ezekiel 1–24",
       "verses": 619,
       "ledger": "audit/fluent-revision/2026-09-16-ezekiel-1-24/ezekiel-verse-review.json"
+    },
+    {
+      "scope": "Ezekiel 25–48",
+      "verses": 654,
+      "ledger": "audit/fluent-revision/2026-09-16-ezekiel-25-48/ezekiel-verse-review.json"
+    },
+    {
+      "scope": "Daniel 1–2",
+      "verses": 70,
+      "ledger": "audit/fluent-revision/2026-09-16-daniel-1-2/daniel-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Ezekiel 25–48; Daniel 1–2",
-      "action": "Continue remaining twenty-six chapters of the authorized fifty-chapter block. Preserve pinned Hebrew/Aramaic and public numbering; independent review pending."
+      "scope": "Daniel 3–12; Hosea 1–14; Joel 1–3; Amos 1–9; Obadiah; Jonah 1–4; Micah 1–7; Nahum 1–2",
+      "action": "Next fifty-chapter draft block. Verify pinned sources and public/source versification for each book before drafting. Preserve all pending whole-book reviews; do not treat structural QA as independent editorial review."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -512,6 +522,10 @@
     {
       "scope": "Whole-book Lamentations consistency review",
       "action": "Read the revised book and apparatus continuously; check recurring language and difficult source passages. Rebind changed text. Draft completion and focused authoring checks do not complete independent review."
+    },
+    {
+      "scope": "Whole-book Ezekiel consistency review",
+      "action": "Read all 48 revised chapters and apparatus continuously, checking recurring recognition formulas, dates, temple measurements, and textual choices. Rebind any changed chapter; focused checks do not complete this review."
     }
   ],
   "standards": [
@@ -577,13 +591,13 @@
   ],
   "active_fifty_chapter_block": {
     "scope": "Ezekiel 1–48; Daniel 1–2",
-    "status": "IN_PROGRESS",
+    "status": "DRAFT_COMPLETED",
     "chapters_target": 50,
-    "completed_chapters": 24,
-    "completed_scope": "Ezekiel 1–24",
-    "completed_verses": 619,
-    "remaining_scope": "Ezekiel 25–48; Daniel 1–2",
-    "remaining_chapters": 26,
-    "qualification": "Verified intermediate draft checkpoint; block incomplete. Independent review and reader testing pending; publication not allowed."
+    "completed_chapters": 50,
+    "completed_scope": "Ezekiel 1–48; Daniel 1–2",
+    "completed_verses": 1343,
+    "remaining_scope": null,
+    "remaining_chapters": 0,
+    "qualification": "All fifty draft chapters completed with source and structural checks passed. Independent editorial review and reader testing pending; publication not allowed."
   }
 }

@@ -4,106 +4,84 @@ testament: OT
 chapter: 36
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: And you, mortal, prophesy to the mountains of Israel, and say: Mountains of Israel, hear the word of the LORD.
-v02: Thus says the LORD GOD: Because the enemy has said of you, “Aha! The ancient high places have become our possession,”
-v03: so prophesy and say: Thus says the LORD GOD: Because they have made you desolate and snapped at you from every side, so that you became a possession for the remnant of the nations, and you have become the talk on people’s lips and their slander,
-v04: so, mountains of Israel, hear the word of the LORD GOD. Thus says the LORD GOD to the mountains and the hills, to the ravines and the valleys, to the desolate ruins and the abandoned cities that have become plunder and mockery to the remnant of the nations all around.
-</p>
+## To the mountains of Israel
 
 <p>
-v05: So thus says the LORD GOD: Surely in the fire of my jealousy I have spoken against the remnant of the nations and against all Edom, who gave my land to themselves as a possession with wholehearted joy and contempt of soul, in order to make its pastureland plunder.
-v06: So prophesy concerning the land of Israel, and say to the mountains and the hills, to the ravines and the valleys: Thus says the LORD GOD: Look, I have spoken in my jealousy and in my wrath, because you have borne the disgrace of the nations.
-v07: So thus says the LORD GOD: I have raised my hand in oath: Surely the nations around you will bear their own disgrace.
+v01: “Son of man, prophesy to Israel’s mountains. Say: Mountains of Israel, hear the word of the LORD!
+v02: This is what the Lord GOD says: The enemy said about you, ‘Aha! The ancient heights have become ours to possess.’
+v03: Therefore prophesy and say: This is what the Lord GOD says: Because they ravaged and crushed you from every side, making you a possession for the remaining nations, and because people made you a subject of gossip and slander,
+v04: therefore, mountains of Israel, hear the word of the Lord GOD! This is what the Lord GOD says to the mountains and hills, ravines and valleys, desolate ruins and abandoned cities that became plunder and a mockery to the remaining nations all around:
+v05: This is what the Lord GOD says: In the fire of my jealousy I have spoken against the remaining nations and all Edom, who took my land as their own possession with wholehearted joy and contempt, making its pastureland plunder.
+v06: Therefore prophesy over Israel’s soil. Tell the mountains and hills, ravines and valleys: This is what the Lord GOD says: I have spoken in my jealousy and fury because you have borne the nations’ disgrace.
+v07: Therefore this is what the Lord GOD says: I have raised my hand in an oath: the nations around you will bear their own disgrace.
+v08: “But you, mountains of Israel, will put out branches and bear fruit for my people Israel, for they are coming soon.
+v09: I am for you. I will turn toward you, and you will be tilled and sown.
+v10: I will multiply people on you, the whole house of Israel, all of it. The cities will be inhabited and the ruins rebuilt.
+v11: I will multiply humans and animals on you; they will increase and be fruitful. I will make you inhabited as before and treat you better than at the beginning. Then you will know that I am the LORD.
+v12: I will bring people to walk on you, my people Israel. They will possess you, and you will be their inheritance. You will never again bereave them of children.
+v13: “This is what the Lord GOD says: People say to you, ‘You devour human beings and bereave your nations.’
+v14: Therefore you will no longer devour human beings or bereave your nations, declares the Lord GOD.
+v15: I will no longer let you hear the nations’ insults. You will no longer bear the peoples’ taunts or cause your nations to stumble, declares the Lord GOD.”
 </p>
 
-<p>
-v08: But you, mountains of Israel, will put forth your branches and bear your fruit for my people Israel, for they are near to come.
-v09: For look, I am for you, and I will turn toward you; you will be cultivated and sown.
-v10: I will multiply people upon you—all the house of Israel, all of it. The cities will be inhabited, and the ruins rebuilt.
-v11: I will multiply upon you people and animals; they will multiply and be fruitful. I will cause you to be inhabited as in your former times, and I will do you more good than in your beginnings. Then you will know that I am the LORD.
-v12: I will cause people to walk upon you—my people Israel—and they will possess you. You will be their inheritance, and you will no longer make them childless.
-</p>
-
-<p>
-v13: Thus says the LORD GOD: Because they say to you, “You devour people, and you have made your nation childless,”
-v14: so you will no longer devour people, and you will no longer cause your nation to stumble, declares the LORD GOD.
-v15: I will no longer let you hear the disgrace of the nations, nor will you bear the reproach of peoples anymore; and you will no longer cause your nation to stumble, declares the LORD GOD.
-</p>
+## The profaned name
 
 <p>
 v16: The word of the LORD came to me:
-v17: Mortal, when the house of Israel lived in their land, they defiled it by their way and their deeds. Their way before me was like the uncleanness of a menstruating woman.
-v18: So I poured out my wrath upon them for the blood that they had shed on the land, and because they had defiled it with their idols.
-v19: I scattered them among the nations, and they were dispersed through the lands. I judged them according to their way and their deeds.
-v20: When they came to the nations where they went, they profaned my holy name, when people said of them, “These are the people of the LORD, yet they had to leave his land.”
-v21: Yet I had concern for my holy name, which the house of Israel had profaned among the nations where they went.
+v17: “Son of man, when the house of Israel lived on their own soil, they defiled it by their ways and deeds. Their conduct before me was like menstrual uncleanness.
+v18: So I poured out my fury on them for the blood they shed on the land and for defiling it with their idols.
+v19: I scattered them among the nations, and they were dispersed through the lands. I judged them according to their ways and deeds.
+v20: Wherever they went among the nations, they profaned my holy name. People said of them, ‘These are the LORD’s people, yet they had to leave his land.’
+v21: But I had concern for my holy name, which the house of Israel profaned among the nations where they went.
 </p>
 
-<p>
-v22: So say to the house of Israel: Thus says the LORD GOD: It is not for your sake that I am acting, house of Israel, but for my holy name, which you have profaned among the nations where you went.
-v23: I will sanctify my great name, which has been profaned among the nations, which you have profaned among them. Then the nations will know that I am the LORD, declares the LORD GOD, when I show myself holy through you before their eyes.
-</p>
+## A new heart and spirit
 
 <p>
-v24: For I will take you from the nations, gather you from all the lands, and bring you into your own land.
-v25: I will sprinkle clean water on you, and you will be clean. From all your uncleannesses and from all your idols I will cleanse you.
-v26: I will give you a new heart, and I will put a new spirit within you. I will remove the heart of stone from your flesh and give you a heart of flesh.
-v27: I will put my Spirit within you, and I will make it happen that you walk in my statutes, keep my judgments, and do them.
-v28: You will live in the land that I gave to your ancestors. You will be my people, and I will be your God.
-v29: I will save you from all your uncleannesses. I will call for the grain and make it plentiful, and I will not bring famine upon you.
-v30: I will multiply the fruit of the tree and the produce of the field, so that you will no longer bear the reproach of famine among the nations.
-v31: Then you will remember your evil ways and your deeds that were not good, and you will loathe yourselves because of your iniquities and your abominations.
-v32: It is not for your sake that I am acting, declares the LORD GOD; let this be known to you. Be ashamed and humiliated because of your ways, house of Israel.
+v22: “Therefore tell the house of Israel: This is what the Lord GOD says: I am acting for the sake of my holy name, which you profaned among the nations where you went—not for your sake, house of Israel.
+v23: I will show the holiness of my great name, profaned among the nations, which you profaned among them. The nations will know that I am the LORD, declares the Lord GOD, when I show myself holy through you before their eyes.
+v24: I will take you from the nations, gather you from all the lands, and bring you to your own soil.
+v25: I will sprinkle clean water on you, and you will be clean. I will cleanse you from all your uncleanness and all your idols.
+v26: I will give you a new heart and put a new spirit within you. I will remove the heart of stone from your flesh and give you a heart of flesh.
+v27: I will put my spirit within you and cause you to follow my statutes, keeping my judgments and carrying them out.
+v28: You will live in the land I gave your ancestors. You will be my people, and I will be your God.
+v29: I will save you from all your uncleanness. I will summon the grain and make it abundant, and I will bring no famine upon you.
+v30: I will increase the fruit of the trees and the produce of the field, so you will no longer bear the disgrace of famine among the nations.
+v31: Then you will remember your evil ways and your deeds that were not good. You will loathe yourselves for your guilt and your abominations.
+v32: I am not doing this for your sake, declares the Lord GOD. Know that! Be ashamed and disgraced for your ways, house of Israel.
 </p>
 
-<p>
-v33: Thus says the LORD GOD: On the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited, and the ruins will be rebuilt.
-v34: The desolate land will be cultivated, instead of lying desolate before the eyes of everyone who passes by.
-v35: They will say, “This land that was desolate has become like the garden of Eden; and the ruined, desolate, and demolished cities are fortified and inhabited.”
-v36: Then the nations that remain around you will know that I, the LORD, have rebuilt what was demolished and planted what was desolate. I, the LORD, have spoken, and I will do it.
-</p>
+## The land restored
 
 <p>
-v37: Thus says the LORD GOD: I will also allow the house of Israel to seek me for this: to do it for them. I will multiply them like a flock of people.
-v38: Like a holy flock, like the flock of Jerusalem at its appointed festivals, so the ruined cities will be filled with flocks of people. Then they will know that I am the LORD.
+v33: “This is what the Lord GOD says: On the day I cleanse you from all your guilt, I will make the cities inhabited and the ruins rebuilt.
+v34: The desolate land will be tilled instead of lying waste before everyone who passes by.
+v35: They will say, ‘This desolate land has become like the garden of Eden. The ruined, desolate, demolished cities are fortified and inhabited.’
+v36: Then the nations left around you will know that I, the LORD, rebuilt the demolished places and planted what was desolate. I, the LORD, have spoken, and I will do it.
+v37: “This is what the Lord GOD says: I will also let the house of Israel ask me to do this for them: I will multiply their people like a flock.
+v38: Like flocks for holy offerings, like Jerusalem’s flocks at her festivals, the ruined cities will be filled with flocks of people. Then they will know that I am the LORD.”
 </p>
 
 ## Notes
 
-v01: The prophet is told to address the “mountains of Israel.” The land is treated as an audience because its devastation, restoration, and fruitfulness are bound up with the fate of Israel.
+v5: The phrase about pastureland and plunder is difficult; the draft retains the land-seizure setting without treating the exact wording as settled.
 
-v05: “In the fire of my jealousy” presents the LORD’s response to the nations’ joyful seizure of the land. The language conveys passionate covenantal concern, not petty envy.
+v13–15: The reading notes affect the forms for the nations and, in verse 14, bereavement. Verse 15’s language of stumbling is kept distinct.
 
-v17: The comparison to menstrual uncleanness draws on ritual language. It portrays Israel’s conduct as defiling the land before God; it does not identify bodily processes themselves as moral wrongdoing.
+v17: Menstrual impurity is a ritual category. The comparison does not say that menstruation itself is a moral offense.
 
-v20–23: Israel’s exile leads the nations to question the LORD’s name and power. Restoration is therefore described both as mercy toward Israel and as the public sanctifying of God’s holy name.
+v26: The contrast is between stone and living flesh. “Flesh” here describes a responsive heart, not wrongdoing.
 
-v25–27: Cleansing, a new heart, a new spirit, and the gift of God’s Spirit belong together. The passage holds divine action and Israel’s renewed obedience together: God gives what enables them to walk in God’s statutes.
-
-v31–32: Restoration does not erase responsibility. Israel’s remembrance and self-loathing arise after God’s cleansing grace, while the repeated “not for your sake” keeps the focus on God’s holy name.
-
-v37: Though God promises restoration, God also says that Israel will seek God for it. The verse preserves the tension between divine initiative and the people’s prayerful dependence.
+v37: The willingness to be approached by Israel stands alongside earlier refusals to answer inquiry, including chapter 20.
 
 ## Vocabulary
 
-v05: קִנְאָה (*qin'ah*) — “jealousy.” Here it expresses the LORD’s zealous concern for the land and people bound to God’s name when other nations claim them as their own.
+v20: **Profane**: To treat what is holy as common, here bringing dishonor upon God’s name among the nations.
 
-v17: טֻמְאָה (*tum'ah*) — “uncleanness” or “defilement.” The term frames Israel’s way and deeds as contaminating the land before God.
-
-v20: חָלַל (chalal)
-“profane.” Israel’s exile causes God’s holy name to be treated as dishonored among the nations.
-
-v23: קָדַשׁ (qadash)
-“make holy” or “show as holy.” God’s restoration of Israel will publicly demonstrate the holiness of God’s name.
-
-v26: לֵב (lev)
-“heart.” In this passage the heart is the inner center of will and responsiveness; the “heart of stone” is replaced with a living, responsive “heart of flesh.”
-
-v27: רוּחַ (ruach)
-“spirit” or “breath.” “My Spirit” is God’s own enlivening presence placed within the people, enabling their faithful obedience.
-
-v31: תּוֹעֵבָה (to'evah)
-“abomination.” The word names practices regarded as profoundly offensive and incompatible with covenant life.
+v26: **Heart**: In this setting, the center of a person’s intention and response, not only emotion.

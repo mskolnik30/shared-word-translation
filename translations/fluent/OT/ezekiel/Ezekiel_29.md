@@ -4,100 +4,60 @@ testament: OT
 chapter: 29
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
+## Pharaoh and the Nile
+
 <p>
-v01: In the tenth year, in the tenth month, on the twelfth day of the month, the word of the LORD came to me, saying:
+v01: In the tenth year, on the twelfth day of the tenth month, the word of the LORD came to me:
+v02: “Son of man, turn your face toward Pharaoh king of Egypt. Prophesy against him and against all Egypt.
+v03: Say: This is what the Lord GOD says: I am against you, Pharaoh king of Egypt, the great monster lying among his Nile channels, who says, ‘My Nile is mine; I made it for myself.’
+v04: I will put hooks in your jaws and make the fish of your channels cling to your scales. I will pull you up from your channels, with all their fish clinging to your scales.
+v05: I will abandon you in the wilderness, you and all the fish of your channels. You will fall in the open country, neither gathered nor collected. I have given you as food to the beasts of the earth and the birds of the sky.
+v06: Then everyone living in Egypt will know that I am the LORD. For you have been a reed staff to the house of Israel.
+v07: When they grasped you in their hand, you splintered and tore every shoulder. When they leaned on you, you broke and forced every back upright.
 </p>
 
+## Egypt laid waste
+
 <p>
-v02: "Son of man, set your face against Pharaoh king of Egypt and prophesy against him and against all Egypt.
+v08: “Therefore this is what the Lord GOD says: I am bringing a sword against you and will cut off humans and animals from you.
+v09: Egypt will become a desolate waste. Then they will know that I am the LORD. Because Pharaoh said, ‘The Nile is mine; I made it,’
+v10: I am against you and your Nile channels. I will make Egypt a ruined, desolate waste, from Migdol to Syene, as far as the border of Cush.
+v11: No human foot will pass through it, nor any animal’s foot. It will be uninhabited for forty years.
+v12: I will make Egypt desolate among desolate lands. Its cities will lie desolate among ruined cities for forty years. I will scatter the Egyptians among the nations and disperse them through the lands.
+v13: “For this is what the Lord GOD says: At the end of forty years I will gather the Egyptians from the peoples among whom they were scattered.
+v14: I will restore Egypt’s fortunes and bring them back to Pathros, the land of their origin. There they will be a lowly kingdom.
+v15: It will be the lowliest of kingdoms and will never again exalt itself over the nations. I will make them few, so they no longer rule the nations.
+v16: Egypt will no longer be a source of confidence for the house of Israel, calling their guilt to mind when they turn to it. Then they will know that I am the Lord GOD.”
 </p>
 
-<p>
-v03: Speak and say: Thus says the LORD GOD: Look, I am against you, Pharaoh king of Egypt, the great dragon lying among his rivers, who has said, 'My river is mine, and I have made it for myself.'
-
-v04: I will put hooks in your jaws, and I will make the fish of your rivers cling to your scales. I will bring you up out of the midst of your rivers, and all the fish of your rivers will cling to your scales.
-
-v05: I will leave you in the wilderness, you and all the fish of your rivers. You will fall on the open field; you will not be gathered or buried. I have given you as food to the beasts of the land and to the birds of the heavens.
-
-v06: All the inhabitants of Egypt will know that I am the LORD, because they have been a staff of reed to the house of Israel.
-
-v07: When they grasped you with the hand, you broke and tore all their shoulders; and when they leaned upon you, you broke and made all their loins to shake."
-</p>
+## Payment for the army
 
 <p>
-v08: So thus says the LORD GOD: "Look, I will bring a sword against you, and I will cut off from you human and animal.
-
-v09: The land of Egypt will become a desolation and a waste. Then they will know that I am the LORD, because you have said, 'The river is mine, and I have made it.'
-</p>
-
-<p>
-v10: So look, I am against you and against your rivers, and I will make the land of Egypt an utter waste and desolation, from Migdol to Syene, as far as the border of Cush.
-
-v11: No foot of human will pass through it, nor foot of animal will pass through it; and it will not be inhabited for forty years.
-
-v12: I will make the land of Egypt desolate among desolated countries, and her cities will be a desolation among wasted cities for forty years; and I will scatter the Egyptians among the nations and disperse them through the countries."
-</p>
-
-<p>
-v13: For thus says the LORD GOD: "At the end of forty years I will gather the Egyptians from the peoples among whom they were scattered.
-
-v14: I will restore the fortunes of Egypt and bring them back to the land of Pathros, the land of their origin, and there they will be a lowly kingdom.
-
-v15: It will be the lowest of the kingdoms; it will never again lift itself up above the nations. I will make them small so that they will never again rule over the nations.
-
-v16: It will never again be a source of confidence for the house of Israel, bringing iniquity to remembrance when they turn to them, and they will know that I am the LORD GOD."
-</p>
-
-<p>
-v17: In the twenty-seventh year, in the first month, on the first day of the month, the word of the LORD came to me, saying:
-</p>
-
-<p>
-v18: "Son of man, Nebuchadnezzar king of Babylon made his army labor hard against Tyre; every head was made bald and every shoulder rubbed bare. Yet he had no wages from Tyre to give to him or his army for the labor he had performed against it.
-</p>
-
-<p>
-v19: So thus says the LORD GOD: Look, I will give the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off her wealth, take her spoil, and seize her plunder; it will be wages for his army.
-
-v20: I have given him the land of Egypt as his payment for which he labored, because they worked for me, declares the LORD GOD.
-</p>
-
-<p>
-v21: On that day I will cause a horn to sprout for the house of Israel, and I will give you the opening of the mouth among them. Then they will know that I am the LORD."
+v17: In the twenty-seventh year, on the first day of the first month, the word of the LORD came to me:
+v18: “Son of man, Nebuchadnezzar king of Babylon made his army labor hard against Tyre. Every head was rubbed bald and every shoulder rubbed raw, yet neither he nor his army received wages from Tyre for the work they did against her.
+v19: Therefore this is what the Lord GOD says: I am giving Egypt to Nebuchadnezzar king of Babylon. He will carry off its wealth, seize its spoil, and take its plunder as wages for his army.
+v20: I have given him Egypt as payment for the work he did, because they worked for me, declares the Lord GOD.
+v21: “On that day I will make a horn sprout for the house of Israel. I will give you an open mouth among them. Then they will know that I am the LORD.”
 </p>
 
 ## Notes
 
-v01: - **v1**: The phrase "the word of Yahweh" indicates divine communication to the prophet, a recurring formula in prophetic literature.
+v3: The claim can also be understood as “I made myself.” The Hebrew suffix leaves a consequential question about what Pharaoh claims to have made.
 
-v03–05: - **v3-5**: Pharaoh is likened to a great dragon (or sea monster), symbolizing Egypt's power and self-assertion; the imagery of hooks and fish signifies control and defeat.
+v7: The final clause literally speaks of making every pair of loins stand. The awkward image of forcing backs upright is retained; readings such as making them stagger involve another interpretation or textual adjustment.
 
-v06–07: - **v6-7**: Egypt, as "a staff of reed," suggests instability and unreliability, a metaphor for their support of Israel, which ultimately fails.
+v11–13: The forty years are retained as stated, without reducing them to a general expression for a long time.
 
-v10–12: - **v10-12**: The desolation of Egypt for forty years parallels other prophetic time spans symbolizing complete cycles of judgment and renewal.
-
-v18: - **v18**: Highlights the exertion of Babylon's army and stresses the lack of reward from the siege of Tyre, contrasting with what Yahweh will provide.
+v17–18: This oracle’s twenty-seventh year is later than the surrounding dates. Its statement that Nebuchadnezzar received no payment from Tyre is retained.
 
 ## Vocabulary
 
-v01: - **v1 דָּבָר (da.var)**: Translated as "word," refers to Yahweh's communication, highlighting divine authority in prophetic messages.
+v3: **Great sea creature**: A formidable water creature used as an image of Pharaoh in the Nile; no particular species is certain.
 
-v10: - **v10 חׇרְבָּה (chor.bah)**: Rendered "desolation," indicating a complete devastation, a common consequence in judgment oracles.
-
-v10: חׇרְבָּה (chorbah)
-“Desolation.”
-
-v16: - **v16 מִבְטָח (miv.tach)**: Meaning "confidence," in this context implies misplaced trust of Israel in Egypt instead of Yahweh.
-
-v16: מִבְטָח (mivtach)
-“Confidence; object of trust.” Here it describes Israel’s misplaced reliance on Egypt.
-
-v02: - **v18 נָבִיא (na.vi)**: "Prophet," a standard title for God's spokesperson, emphasizing the role of conveying divine messages.
-
-v01: דָּבָר (davar)
-“Word; matter.” In the prophetic formula it denotes the word that comes from the LORD.
-
-v02: נָבִיא (navi)
-“Prophet," a standard title for God's spokesperson, with a sense of the role of conveying divine messages.
+v21: **Horn**: An image of strength raised up for Israel; the concrete image is retained.

@@ -4,148 +4,77 @@ testament: OT
 chapter: 44
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-# Ezekiel 44
+## The closed east gate
 
 <p>
-v01: Then he brought me back by way of the outer gate of the sanctuary, the one facing east; and it was shut.
+v01: He brought me back to the sanctuary’s outer gate facing east. It was shut.
+v02: The LORD told me, “This gate must remain shut. It must not be opened, and no one may enter through it, because the LORD, the God of Israel, has entered through it. It must remain shut.
+v03: The prince, because he is prince, may sit there to eat bread before the LORD. He must enter by the gate’s vestibule and leave the same way.”
 </p>
 
-<p>
-v02: And the LORD said to me, “This gate will remain shut. It will not be opened, and no one will enter through it, because the LORD, the God of Israel, has entered through it. Therefore it will remain shut.
-</p>
+## Service in the sanctuary
 
 <p>
-v03: As for the prince, the prince himself may sit in it to eat bread before the LORD. He will enter by way of the gate’s vestibule, and by the same way he will go out.”
+v04: Then he brought me through the north gate to the front of the temple. I looked: the glory of the LORD filled the LORD’s temple. I fell facedown.
+v05: The LORD told me, “Son of man, pay attention. Look with your eyes and listen with your ears to everything I tell you about all the statutes and instructions of the LORD’s temple. Pay attention to the temple’s entrance and every exit from the sanctuary.
+v06: Tell the rebellious house of Israel: This is what the Lord GOD says: Enough of all your abominations, house of Israel!
+v07: You brought foreigners, uncircumcised in heart and flesh, into my sanctuary to profane my house while you offered my food, the fat and blood. They broke my covenant in addition to all your abominations.
+v08: You did not keep charge of my holy things. You appointed others to keep charge of my sanctuary in your place.
+v09: “This is what the Lord GOD says: No foreigner uncircumcised in heart and flesh may enter my sanctuary, including any foreigner living among the Israelites.
+v10: But the Levites who went far from me when Israel strayed, who strayed from me after their idols, must bear their guilt.
+v11: They may serve in my sanctuary, attending the temple’s gates and serving in the temple. They will slaughter burnt offerings and sacrifices for the people and stand before them to serve them.
+v12: Because they served the people before their idols and became a stumbling block of guilt for the house of Israel, I have raised my hand in an oath against them, declares the Lord GOD. They must bear their guilt.
+v13: They must not approach me to serve as priests or come near any of my holy things, the most holy things. They must bear their disgrace for the abominations they committed.
+v14: Yet I will put them in charge of the temple’s duties, all its service and everything done there.
 </p>
 
-<p>
-v04: Then he brought me by way of the north gate to the front of the house. I looked, and look, the glory of the LORD filled the house of the LORD; and I fell on my face.
-</p>
+## The priests of Zadok’s line
 
 <p>
-v05: The LORD said to me, “Mortal, set your heart on this. See with your eyes and hear with your ears all that I speak to you concerning all the statutes of the house of the LORD and all its instructions. Set your heart on the entrance of the house and on every exit of the sanctuary.
+v15: “But the Levitical priests descended from Zadok, who kept charge of my sanctuary when the Israelites strayed from me, may approach me to serve me. They will stand before me to offer fat and blood, declares the Lord GOD.
+v16: They may enter my sanctuary and approach my table to serve me. They must keep my charge.
+v17: When they enter the inner court’s gates, they must wear linen garments. They must wear no wool while serving at the inner court’s gates or inside the temple.
+v18: They must wear linen turbans on their heads and linen undergarments around their waists. They must not bind themselves with anything that causes sweat.
+v19: When they go out to the outer court—to the outer court where the people are—they must remove their service garments and leave them in the holy chambers. They must put on other clothes, so they do not transmit holiness to the people through their garments.
+v20: They must neither shave their heads nor let their hair grow long. They must keep their hair trimmed.
+v21: No priest may drink wine when entering the inner court.
+v22: They must not marry a widow or a divorced woman, but only a virgin of Israelite descent. They may, however, marry the widow of a priest.
+v23: They must teach my people to distinguish the holy from the common and make known the difference between unclean and clean.
+v24: In a dispute they must serve as judges and decide it according to my judgments. They must keep my instructions and statutes at all my appointed festivals and keep my Sabbaths holy.
+v25: A priest must not approach a dead person and become unclean, except for a father, mother, son, daughter, brother, or a sister who has not married.
+v26: After his cleansing, seven days must be counted for him.
+v27: On the day he enters the holy place, the inner court, to serve there, he must offer his sin offering, declares the Lord GOD.
 </p>
 
-<p>
-v06: Say to the rebellious house, to the house of Israel: Thus says the LORD GOD: Enough of all your abominations, house of Israel,
-</p>
+## The priests’ portion
 
 <p>
-v07: when you brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, profaning my house, when you offered my food—the fat and the blood. They broke my covenant along with all your abominations.
-</p>
-
-<p>
-v08: You have not kept charge of my holy things, but you appointed others to keep charge of my sanctuary for you.
-</p>
-
-<p>
-v09: Thus says the LORD GOD: No foreigner, uncircumcised in heart and uncircumcised in flesh, will enter my sanctuary—no foreigner who is among the people of Israel.
-</p>
-
-<p>
-v10: But the Levites who went far from me when Israel went astray, who went astray from me after their idols, will bear their iniquity.
-</p>
-
-<p>
-v11: Yet they will serve in my sanctuary, having charge of the gates of the house and serving in the house. They will slaughter the burnt offering and the sacrifice for the people, and they will stand before them to serve them.
-</p>
-
-<p>
-v12: Because they served them before their idols and became for the house of Israel a stumbling block of iniquity, therefore I have raised my hand against them, declares the LORD GOD, and they will bear their iniquity.
-</p>
-
-<p>
-v13: They will not draw near to me to serve as priests for me, nor to draw near to any of my holy things, to the most holy things. They will bear their disgrace and the abominations that they have done.
-</p>
-
-<p>
-v14: Yet I will appoint them to keep charge of the house, for all its service and for all that is to be done in it.
-</p>
-
-<p>
-v15: “But the Levitical priests, the sons of Zadok, who kept charge of my sanctuary when the people of Israel went astray from me—they will draw near to me to serve me. They will stand before me to offer me fat and blood, declares the LORD GOD.
-</p>
-
-<p>
-v16: They will enter my sanctuary, and they will draw near to my table to serve me, and they will keep my charge.
-</p>
-
-<p>
-v17: When they enter the gates of the inner court, they will wear linen garments. No wool will come upon them while they serve at the gates of the inner court and within.
-</p>
-
-<p>
-v18: They will have linen turbans on their heads and linen undergarments on their bodies. They will not gird themselves with anything that causes sweat.
-</p>
-
-<p>
-v19: When they go out to the outer court, to the outer court where the people are, they will take off the garments in which they minister and leave them in the holy chambers. They will put on other garments, so that they do not communicate holiness to the people by their garments.
-</p>
-
-<p>
-v20: They will not shave their heads or let their hair grow long; they will keep the hair of their heads trimmed.
-</p>
-
-<p>
-v21: No priest will drink wine when they enter the inner court.
-</p>
-
-<p>
-v22: They will not take a widow or a divorced woman as wives, but only virgins from the offspring of the house of Israel; or they may take a widow who is the widow of a priest.
-</p>
-
-<p>
-v23: They will teach my people the difference between holy and common, and reveal to them the difference between unclean and clean.
-</p>
-
-<p>
-v24: In a dispute they will stand to judge; they will judge it according to my judgments. They will keep my instructions and my statutes at all my appointed times, and they will keep my Sabbaths holy.
-</p>
-
-<p>
-v25: They will not go near a dead person to defile themselves, except for a father or mother, son or daughter, brother, or sister who has not belonged to a man; for these they may defile themselves.
-</p>
-
-<p>
-v26: After the priest’s purification, they will count seven days for him.
-</p>
-
-<p>
-v27: On the day he enters the holy place, into the inner court, to serve in the holy place, he will offer his sin offering, declares the LORD GOD.
-</p>
-
-<p>
-v28: “This will be their inheritance: I am their inheritance. You will give them no possession in Israel; I am their possession.
-</p>
-
-<p>
-v29: They will eat the grain offering, the sin offering, and the guilt offering. Everything devoted to destruction in Israel will be theirs.
-</p>
-
-<p>
-v30: The first of all the firstfruits of everything, and every contribution from all your contributions, will belong to the priests. You will give the first of your dough to the priest, so that a blessing may rest on your house.
-</p>
-
-<p>
-v31: The priests will not eat anything, bird or animal, that dies of itself or is torn by beasts.
+v28: “This will be their inheritance: I am their inheritance. Give them no landed possession in Israel; I am their possession.
+v29: They may eat the grain offering, sin offering, and guilt offering. Everything irrevocably devoted in Israel will belong to them.
+v30: The first of all firstfruits and every contribution you offer will belong to the priests. Give the priest the first portion of your dough, so a blessing may rest on your house.
+v31: The priests must not eat any bird or animal that died naturally or was torn by beasts.
 </p>
 
 ## Notes
 
+v7: The Hebrew shifts to “they broke my covenant” within the accusation against Israel. The change of subject is retained.
 
+v9: The restriction names uncircumcision of both heart and flesh. The bodily requirement and the inward image are both retained.
+
+v19: The repetition of the outer court is retained. The concern about making people holy through priestly garments belongs to the passage’s distinctions of sacred status.
+
+v25: The exceptions concerning a dead relative are specifically listed. The sister is further described as not having belonged to a husband.
+
+v29: The term for irrevocably devoted property can elsewhere involve destruction. Here the devoted thing is assigned to the priests, so the draft does not require its destruction.
 
 ## Vocabulary
 
-v07: עָרֵל (ʿarel)
-“uncircumcised.” In this passage the term is applied to both heart and flesh, expressing a condition incompatible with guarding the holiness of the sanctuary.
+v15: **Sons of Zadok**: The priestly line given responsibility for service near the LORD in this vision.
 
-v13: קֹדֶשׁ (qodesh)
-“holy thing” or “holiness.” Its repeated use intensifies the restriction: the excluded Levites may serve the house but may not approach the LORD’s holy things, especially the “most holy things.”
-
-v14: מִשְׁמֶרֶת (mishmeret)
-“charge,” “guard duty,” or “assigned responsibility.” It describes entrusted sanctuary service and recurs as a central measure of priestly faithfulness.
-
-v23: חֹל (ḥol)
-“common” or “ordinary.” Set against qodesh, it names what is not consecrated; the priests must teach Israel to distinguish it from what is holy.
+v29: **Irrevocably devoted**: Set apart under a binding dedication; the Hebrew term is herem.

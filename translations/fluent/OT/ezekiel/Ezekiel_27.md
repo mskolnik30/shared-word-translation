@@ -4,104 +4,133 @@ testament: OT
 chapter: 27
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: It came about that the word of the LORD came to me, saying,
-</p>
+## The splendid ship
 
 <p>
-v02: "Now, you, son of man, lift up a lamentation over Tyre.
+v01: The word of the LORD came to me:
+v02: “Son of man, take up a lament over Tyre.
+v03: Say to Tyre, who sits at the entrances to the sea, trading with peoples on many coastlands: This is what the Lord GOD says:
+‘Tyre, you said,
+“I am perfect in beauty.”
+v04: Your borders lie in the heart of the seas;
+your builders perfected your beauty.
+v05: They made all your planks
+from junipers of Senir;
+they took a cedar from Lebanon
+to make your mast.
+v06: They made your oars from oaks of Bashan,
+your deck of cypress from the coastlands of Kittim,
+inlaid with ivory.
+v07: Embroidered linen from Egypt was your sail
+and served as your banner.
+Blue and purple cloth from Elishah’s coastlands
+was your awning.
+v08: People of Sidon and Arvad were your rowers;
+your own skilled men, Tyre, were aboard as pilots.
+v09: Elders of Gebal and its skilled men
+were aboard to repair your seams.
+All the ships of the sea and their sailors
+came to you to exchange your goods.
+v10: Men of Persia, Lud, and Put served in your army
+as your warriors.
+They hung shield and helmet on you
+and gave you splendor.
+v11: Men of Arvad and your army stood on your walls all around;
+the Gammadim were in your towers.
+They hung their shields all around your walls
+and perfected your beauty.
 </p>
 
-<p>
-v03: Say to Tyre, who dwells at the entrances of the sea, who trades with the peoples in many coastlands, 'Thus says the LORD GOD: Tyre, you have said, "I am perfect in beauty."
-v04: In the heart of the seas are your borders. Your builders have perfected your beauty.
-</p>
+## Its trading partners
 
 <p>
-v05: They made all your planks of cypress from Senir. They took a cedar from Lebanon to make a mast for you.
-v06: They made your oars of oaks from Bashan. They made your deck of inlaid ivory from the coasts of Kittim.
-v07: Fine embroidered linen from Egypt was your sail, serving as your banner; blue and purple from the coasts of Elishah covered you.
+v12: “‘Tarshish traded with you because of your abundant wealth. They paid for your wares with silver, iron, tin, and lead.
+v13: Javan, Tubal, and Meshech were your traders. They exchanged human lives and bronze vessels for your goods.
+v14: From Beth-togarmah they brought horses, warhorses, and mules in exchange for your wares.
+v15: The people of Dedan traded with you. Many coastlands were your customers; they paid you in ivory tusks and ebony.
+v16: Aram traded with you because of your many products. They paid for your wares with turquoise, purple cloth, embroidery, fine linen, coral, and rubies.
+v17: Judah and the land of Israel traded with you. They exchanged wheat from Minnith, pannag, honey, oil, and balm for your goods.
+v18: Damascus traded with you for your many products and abundant wealth, bringing wine from Helbon and white wool.
+v19: Vedan and Javan from Uzal paid for your wares. Wrought iron, cassia, and aromatic cane were among your traded goods.
+v20: Dedan traded saddlecloths with you.
+v21: Arabia and all the princes of Kedar were your customers. They traded with you in lambs, rams, and male goats.
+v22: The traders of Sheba and Raamah traded with you. They paid for your wares with the finest spices, all kinds of precious stones, and gold.
+v23: Haran, Canneh, Eden, the traders of Sheba, Asshur, and Chilmad traded with you.
+v24: They traded with you in splendid clothes, blue and embroidered wraps, and multicolored rugs bound and secured with cords.
+v25: Ships of Tarshish carried your merchandise.
+You were filled and heavily laden
+in the heart of the seas.
 </p>
 
-<p>
-v08: Inhabitants of Sidon and Arvad were your rowers; your skilled men, O Tyre, were among you; they were your pilots.
-v09: The elders of Gebal and its skilled men were in you, caulking your seams. All the ships of the sea with their sailors were among you to carry your merchandise.
-</p>
+## The ship breaks apart
 
 <p>
-v10: Persia, Lud, and Put were in your army; they hung shield and helmet in you; they gave you your splendor.
-v11: The sons of Arvad and your army were on your walls all around, and the Gammadites were in your towers. They hung their shields on your walls all around; they perfected your beauty.
-</p>
-
-<p>
-v12: Tarshish traded with you because of your great wealth of all kinds; silver, iron, tin, and lead they exchanged for your merchandise.
-v13: Javan, Tubal, and Meshech were your merchants, exchanging human beings and vessels of bronze for your merchandise.
-v14: From the house of Togarmah they gave you horses, war horses, and mules for your wares.
-v15: The men of Dedan were your traders; many coastlands were your own agents; ivory and ebony they brought as your payment.
-v16: Aram traded with you due to the abundance of your goods; with emeralds, purple, embroidered work, fine linen, coral, and rubies they exchanged for your wares.
-v17: Judah and the land of Israel were your traders; they exchanged wheat from Minnith, confections, honey, oil, and resin for your merchandise.
-v18: Damascus traded with you because of the abundance of your goods and all your wealth, with wine from Helbon and white wool.
-v19: Vedan and Javan from Uzal exchanged wrought iron, cassia, and calamus for your merchandise.
-v20: Dedan was your merchant in saddlecloths for riding.
-v21: Arabia and all the princes of Kedar were agents doing business with you in lambs, rams, and goats.
-v22: The traders of Sheba and Raamah were your merchants; they traded in all kinds of spices, stones of value, and gold for your goods.
-v23: Haran, Canneh, and Eden, the traders of Sheba, Asshur, and Chilmad traded with you.
-v24: These were your merchants in splendid apparel, in clothes of blue and embroidered work, in cords, firmly twisted, and secured in your market.
-</p>
-
-<p>
-v25: The ships of Tarshish were your carriers for your merchandise; you were filled and heavily laden in the heart of the seas.
-v26: Your rowers have brought you into great waters; the east wind has shattered you in the heart of the seas.
-v27: Your wealth, your wares, your merchandise, your mariners, your pilots, those repairing your seams, and all your warriors who are in you, along with all your company in your midst, will fall into the heart of the seas on the day of your downfall.
-</p>
-
-<p>
-v28: At the sound of the cry of your pilots, the countryside will shake.
-v29: Everyone who handle the oar, the mariners, all the pilots of the sea, will come down from their ships; they will stand on the land,
-v30: and they will make their voice heard over you and cry out bitterly. They will throw dust on their heads and wallow in ashes.
-v31: They will make themselves bald for you and gird themselves with sackcloth; they will weep over you in bitterness of soul, with bitter mourning.
-v32: In their wailing they will take up a lamentation for you and lament over you: "Who is like Tyre, silent and destroyed among the sea?"
-</p>
-
-<p>
-v33: When your wares went out from the seas, you satisfied many peoples; you enriched the kings of the earth with your great wealth and merchandise.
-</p>
-
-<p>
-v34: Now you are shattered by the seas in the depths of the waters; your merchandise and all your company have fallen in your midst.
-</p>
-
-<p>
-v35: All the inhabitants of the coastlands are appalled at you, and their kings shudder with horror, their faces are distorted.
-v36: The merchants among the peoples hiss at you; you have become a horror and will be no more forever.'"
+v26: Your rowers took you into great waters,
+but the east wind shattered you
+in the heart of the seas.
+v27: Your wealth, wares, and goods,
+your sailors and pilots,
+those who repaired your seams and traded your goods,
+all your warriors aboard
+and the whole company within you—
+they will fall into the heart of the seas
+on the day of your fall.
+v28: At the sound of your pilots’ cry,
+the shorelands will shake.
+v29: All who handle an oar will leave their ships.
+Sailors and all the sea’s pilots
+will stand on land.
+v30: They will raise their voices over you
+and cry out bitterly,
+throwing dust on their heads
+and rolling in ashes.
+v31: They will shave their heads for you
+and wrap themselves in sackcloth.
+With bitter hearts they will weep over you,
+a bitter mourning.
+v32: In their wailing they will take up a lament for you:
+“Who is like Tyre,
+now silenced in the midst of the sea?”
+v33: When your wares went out across the seas,
+you satisfied many peoples.
+Your great wealth and merchandise
+enriched the kings of the earth.
+v34: Now you are shattered by the seas,
+in the depths of the waters;
+your merchandise and all your company
+have fallen with you.
+v35: All who live on the coastlands are appalled at you.
+Their kings shudder with horror;
+their faces are troubled.
+v36: Merchants among the peoples hiss at you.
+You have become a terror,
+and you will be no more forever.’”
 </p>
 
 ## Notes
 
-v03: **v3**: The description of Tyre as claiming to be "perfect in beauty" echoes themes of arrogance and self-glorification throughout the prophecy.
+v5–6: The wood names are approximate. The phrase rendered with cypress in verse 6 is especially difficult; its Hebrew words can be divided and understood differently.
 
-v10: **v10**: The listing of Persia, Lud, and Put emphasizes the military strength and alliances that Tyre relied on, now turned to no avail.
+v11: The Gammadim are not otherwise identified here; the name is retained.
 
-v32: **v32**: The lament emphasizes Tyre's uniqueness and former glory, now contrasted with its silence and destruction.
+v13: “Human lives” explicitly includes people among the traded goods.
+
+v15–17: Dedan and Aram follow the pinned Hebrew; other textual traditions differ. Pannag is an unidentified traded food or product.
+
+v18–19: “White wool” could instead involve a place name. The sequence Vedan, Javan, and Uzal in verse 19 is obscure, and the commercial route cannot be reconstructed confidently from it.
+
+v24: The description of textiles and their bindings is uncertain; the rendering follows a textile setting without claiming certainty about each item.
+
+v28,32: “Shorelands” in verse 28 is uncertain. The opening of verse 32 is difficult, as is the phrase describing Tyre as silenced in the sea.
 
 ## Vocabulary
 
-v03: 3 יֹפִי (yo.phi)
-Translated as "beauty." In this passage, it underscores Tyre's self-perception and its perceived completeness and attractiveness, setting up its fall as a poignant loss.
+v3: **Tyre**: The trading city is addressed as a magnificent ship; its trading partners and crew become part of the ship’s story.
 
-v25: 25 תַּרְשִׁישׁ (tar.shish)
-Referring to the ships and trade routes associated with wealth and vast commercial enterprise, the mention underscores Tyre's vast economic reach.
-
-v25: תַּרְשִׁישׁ (tarshish)
-“Tarshish.” A place associated with long-distance maritime trade and valuable goods.
-
-v32: 32 קִינָה (qi.nah)
-Lamentation or dirge, a song of mourning for someone or something lost, reflecting the deep sorrow over Tyre’s downfall.
-
-v32: קִינָה (qinah)
-“Lament; dirge.” A formal song or poem of mourning.
-
-v03: יֹפִי (yophi)
-“Beauty.” In this passage, it marks Tyre's self-perception and its perceived completeness and attractiveness, setting up its fall as a poignant loss.
+v25: **Ships of Tarshish**: Large trading vessels associated with distant sea trade.

@@ -4,146 +4,75 @@ testament: OT
 chapter: 34
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
+
+## The shepherds and the flock
 
 <p>
 v01: The word of the LORD came to me:
+v02: “Son of man, prophesy against Israel’s shepherds. Prophesy and tell them: This is what the Lord GOD says to the shepherds: Woe to the shepherds of Israel who feed themselves! Should shepherds not feed the flock?
+v03: You eat the fat, wear the wool, and slaughter the well-fed animals, but you do not feed the flock.
+v04: You have not strengthened the weak, healed the sick, bound up the injured, brought back the strays, or searched for the lost. Instead you have ruled them with force and cruelty.
+v05: They scattered because they had no shepherd. They became food for every wild beast, and they scattered.
+v06: My flock wanders over all the mountains and every high hill. My flock is scattered across the whole earth, with no one searching or seeking them.
+v07: “Therefore, shepherds, hear the word of the LORD!
+v08: As I live, declares the Lord GOD, my flock has become plunder and food for every wild beast because it has no shepherd. My shepherds did not search for my flock; they fed themselves and did not feed my flock.
+v09: Therefore, shepherds, hear the word of the LORD!
+v10: This is what the Lord GOD says: I am against the shepherds. I will demand my flock from their hands and remove them from tending it. The shepherds will no longer feed themselves. I will rescue my flock from their mouths, so it will no longer be food for them.
 </p>
 
-<p>
-v02: “Human one, prophesy against the shepherds of Israel. Prophesy, and say to the shepherds: Thus says the LORD GOD: Woe to the shepherds of Israel who have been shepherding themselves! Should not shepherds shepherd the flock?
-</p>
+## The LORD seeks his sheep
 
 <p>
-v03: You eat the fat, clothe yourselves with the wool, and slaughter the fattened animal; but you do not shepherd the flock.
+v11: “For this is what the Lord GOD says: I myself will search for my flock and look after them.
+v12: As a shepherd looks after a flock when he is among his scattered sheep, so I will look after my flock. I will rescue them from every place where they were scattered on a day of cloud and thick darkness.
+v13: I will bring them out from the peoples, gather them from the lands, and bring them to their own soil. I will feed them on Israel’s mountains, in the ravines, and in all the inhabited places of the land.
+v14: I will feed them in good pasture, and Israel’s high mountains will be their grazing land. There they will lie down in good grazing land and feed on rich pasture on Israel’s mountains.
+v15: I myself will feed my flock, and I myself will let them lie down, declares the Lord GOD.
+v16: I will search for the lost, bring back the strays, bind up the injured, and strengthen the sick. But I will destroy the fat and the strong. I will feed them with justice.
 </p>
 
-<p>
-v04: You have not strengthened the weak, healed the sick, bound up the injured, brought back the straying, or sought the lost. Instead, you have ruled them with force and harshness.
-</p>
+## Judgment within the flock
 
 <p>
-v05: They were scattered because there was no shepherd, and they became food for every wild animal of the field; they were scattered.
+v17: “As for you, my flock, this is what the Lord GOD says: I will judge between one sheep and another, between rams and male goats.
+v18: Is it not enough for you to feed on good pasture? Must you trample what remains? Is it not enough to drink clear water? Must you muddy the rest with your feet?
+v19: Must my flock feed on what your feet have trampled and drink what your feet have muddied?
+v20: “Therefore this is what the Lord GOD says to them: I myself will judge between the fat sheep and the lean sheep.
+v21: You shove with flank and shoulder and butt all the weak with your horns until you have driven them away.
+v22: So I will save my flock, and they will no longer be plunder. I will judge between one sheep and another.
 </p>
 
-<p>
-v06: My flock wandered over all the mountains and every high hill. My flock was scattered over the whole face of the earth, with no one seeking them and no one searching for them.
-</p>
+## One shepherd and a covenant of peace
 
 <p>
-v07: So, shepherds, hear the word of the LORD:
-</p>
-
-<p>
-v08: As I live, declares the LORD GOD, because my flock became plunder and my flock became food for every wild animal of the field, since there was no shepherd, and because my shepherds did not seek my flock, but the shepherds shepherded themselves and did not shepherd my flock—
-</p>
-
-<p>
-v09: so, shepherds, hear the word of the LORD.
-</p>
-
-<p>
-v10: Thus says the LORD GOD: Look, I am against the shepherds. I will require my flock from their hand, and I will put an end to their shepherding the flock. The shepherds will no longer shepherd themselves. I will rescue my flock from their mouths, and they will no longer be food for them.
-</p>
-
-<p>
-v11: For thus says the LORD GOD: Look, I myself will search for my flock and examine them.
-</p>
-
-<p>
-v12: As a shepherd examines their flock on the day when they are among their scattered sheep, so I will examine my flock. I will rescue them from all the places to which they were scattered on a day of cloud and deep darkness.
-</p>
-
-<p>
-v13: I will bring them out from the peoples and gather them from the lands, and I will bring them into their own land. I will shepherd them on the mountains of Israel, by the ravines, and in all the inhabited places of the land.
-</p>
-
-<p>
-v14: I will shepherd them in good pasture, and their fold will be on the high mountains of Israel. There they will lie down in a good fold, and they will feed in rich pasture on the mountains of Israel.
-</p>
-
-<p>
-v15: I myself will shepherd my flock, and I myself will make them lie down, declares the LORD GOD.
-</p>
-
-<p>
-v16: I will seek the lost, bring back the straying, bind up the injured, and strengthen the sick; but I will destroy the fat and the strong. I will shepherd it with justice.
-</p>
-
-<p>
-v17: As for you, my flock, thus says the LORD GOD: Look, I am judging between one sheep and another, between rams and male goats.
-</p>
-
-<p>
-v18: Is it too little for you to feed in the good pasture, that you must trample the rest of your pasture with your feet? And to drink clear water, that you must foul what remains with your feet?
-</p>
-
-<p>
-v19: Must my flock feed on what your feet have trampled and drink what your feet have fouled?
-</p>
-
-<p>
-v20: So thus says the LORD GOD to them: Look, I myself will judge between the fat sheep and the lean sheep.
-</p>
-
-<p>
-v21: Because you shove with flank and shoulder, and butt all the weak with your horns until you have scattered them abroad,
-</p>
-
-<p>
-v22: I will save my flock, and they will no longer be plunder. I will judge between one sheep and another.
-</p>
-
-<p>
-v23: I will raise up over them one shepherd, my servant David, and he will shepherd them. He will shepherd them, and he will be their shepherd.
-</p>
-
-<p>
+v23: I will raise up one shepherd over them, my servant David, and he will feed them. He will feed them and be their shepherd.
 v24: I, the LORD, will be their God, and my servant David will be prince among them. I, the LORD, have spoken.
-</p>
-
-<p>
-v25: I will make with them a covenant of peace and remove dangerous wild animals from the land, so that they may live securely in the wilderness and sleep in the forests.
-</p>
-
-<p>
-v26: I will make them and the places around my hill a blessing. I will send down the rain in its season; they will be rains of blessing.
-</p>
-
-<p>
-v27: The tree of the field will give its fruit, and the land will give its yield. They will be secure on their land, and they will know that I am the LORD, when I break the bars of their yoke and rescue them from the hand of people who enslaved them.
-</p>
-
-<p>
-v28: They will no longer be plunder for the nations, nor will the wild animals of the land devour them. They will live securely, with no one to terrify them.
-</p>
-
-<p>
-v29: I will establish for them a planting for renown. They will no longer be swept away by famine in the land, nor will they bear the disgrace of the nations any longer.
-</p>
-
-<p>
-v30: Then they will know that I, the LORD their God, am with them, and that they, the house of Israel, are my people, declares the LORD GOD.
-</p>
-
-<p>
-v31: You are my flock, the flock of my pasture. You are human beings, and I am your God, declares the LORD GOD.”
+v25: “I will make a covenant of peace with them and remove harmful beasts from the land. They will live safely in the wilderness and sleep in the forests.
+v26: I will make them and the places around my hill a blessing. I will send rain in its season; there will be showers of blessing.
+v27: The trees of the field will bear fruit, and the earth will yield its crops. They will live safely on their own soil. Then they will know that I am the LORD, when I break the bars of their yoke and rescue them from those who enslaved them.
+v28: They will no longer be plunder for the nations, and the beasts of the earth will not devour them. They will live safely, with no one making them afraid.
+v29: I will provide a planting of renown for them. They will no longer be taken away by famine in the land or bear the disgrace of the nations.
+v30: Then they will know that I, the LORD their God, am with them, and that they, the house of Israel, are my people, declares the Lord GOD.
+v31: You are my flock, the flock of my pasture; you are human beings, and I am your God, declares the Lord GOD.”
 </p>
 
 ## Notes
 
+v3: “Fat” follows the pinned Hebrew pointing. A different pointing yields “milk.”
 
+v16: The pinned text says “destroy” concerning the fat and strong. Some witnesses instead speak of guarding them. The difficult judgment is retained.
+
+v23: The promised shepherd is called “my servant David.” The draft retains that name without supplying an explanation of his identity.
+
+v29: The planting is described with the Hebrew word for name or renown; some textual traditions instead connect it with peace.
 
 ## Vocabulary
 
-v02: רֹעִים (roʿim)
-“shepherds.” The word names both literal shepherds and Israel’s leaders; the chapter presses the contrast between shepherding the flock and feeding oneself from it.
+v2: **Shepherds**: An image for Israel’s leaders; the flock represents the people in their care.
 
-v04: פֶּרֶךְ (perek)
-“harshness.” The term describes crushing, ruthless domination, sharpening the charge that the shepherds have treated the flock as subjects to exploit.
-
-v16: מִשְׁפָּט (mishpat)
-“justice.” The LORD’s shepherding includes both restoration of the vulnerable and right judgment among the flock.
-
-v25: בְּרִית שָׁלוֹם (berit shalom)
-“covenant of peace.” This covenant establishes comprehensive well-being: security, freedom from threat, and life in a restored land.
+v25: **Covenant of peace**: A pledged relationship bringing safety and well-being to the people and their land.

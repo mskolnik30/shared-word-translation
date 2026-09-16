@@ -1,7 +1,7 @@
 {
   "book": "Daniel",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 12,
   "public_verse_slots": 357,
   "included_verse_labels": 357,
@@ -129,5 +129,46 @@
         "blob_sha": "974606d07fe5f18089db83e25980d87a74128833"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2
+  ],
+  "current_revision": {
+    "id": "fluent-daniel-1-2-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2
+    ],
+    "verse_count": 70,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-daniel-1-2/daniel-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "7dc4e2a6204076f5aa5a43288d033c3aa8dc96bd",
+      "path": "audit/exegetical-core/fluent-production/daniel/DANIEL_FLUENT_BOOK_QA.json"
+    },
+    "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-daniel-1-2-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2
+      ],
+      "verse_count": 70,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-daniel-1-2/daniel-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "7dc4e2a6204076f5aa5a43288d033c3aa8dc96bd",
+        "path": "audit/exegetical-core/fluent-production/daniel/DANIEL_FLUENT_BOOK_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    }
+  ]
 }

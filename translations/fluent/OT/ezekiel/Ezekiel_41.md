@@ -4,126 +4,83 @@ testament: OT
 chapter: 41
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: He brought me into the temple hall and measured the pilasters: six cubits wide on this side and six cubits wide on that side—the width of the tent.
-</p>
+## The temple’s inner spaces
 
 <p>
-v02: The width of the doorway was ten cubits, and the sides of the doorway were five cubits on this side and five cubits on that side. He measured its length: forty cubits; and its width: twenty cubits.
+v01: He brought me to the main hall and measured its jambs: six cubits wide on each side, the width of the tent.
+v02: The entrance was ten cubits wide, with five cubits on each side. He measured the hall: forty cubits long and twenty cubits wide.
+v03: Then he went inside and measured the entrance jamb: two cubits. The entrance was six cubits, and the width beside the entrance was seven cubits.
+v04: He measured the room’s length and width: twenty cubits by twenty, beyond the main hall. He told me, “This is the Most Holy Place.”
 </p>
 
-<p>
-v03: Then he went inward and measured the pilaster of the doorway: two cubits. The doorway was six cubits, and the width of the doorway was seven cubits.
-</p>
+## The side rooms
 
 <p>
-v04: He measured its length: twenty cubits; and its width: twenty cubits, before the temple hall. Then he said to me, “This is the most holy place.”
+v05: He measured the temple wall: six cubits thick. The side chambers all around the temple were four cubits wide.
+v06: The side chambers were arranged one above another in three stories, thirty in each. They rested on ledges in the wall surrounding the temple, so they could be supported without being fastened into the temple wall itself.
+v07: The side chambers grew wider at each higher story, as the surrounding structure rose level by level. The width increased upward, and one went from the lowest level to the highest through the middle level.
+v08: I saw a raised platform all around the temple. The side chambers’ foundations measured a full reed, six long cubits.
+v09: The outer wall of the side chambers was five cubits thick. There was an open space beside the temple’s side chambers,
+v10: and between them and the chambers was a space twenty cubits wide all around the temple.
+v11: The side chambers opened onto the open space, one entrance facing north and one facing south. The open space was five cubits wide all around.
 </p>
 
-<p>
-v05: He measured the wall of the house: six cubits. The width of each side chamber was four cubits, all around the house, all around.
-</p>
+## The rear building and measurements
 
 <p>
-v06: The side chambers were chamber beside chamber, thirty times over in three levels. They entered into the wall belonging to the house, around the side chambers, all around, so that they might be supported, but they were not supported by the wall of the house.
+v12: The building facing the separate area on the west was seventy cubits wide. Its wall was five cubits thick all around, and its length was ninety cubits.
+v13: He measured the temple: a hundred cubits long. The separate area, the building, and its walls also measured a hundred cubits in length.
+v14: The front of the temple and the separate area on the east measured a hundred cubits across.
 </p>
 
-<p>
-v07: The side chambers widened and went upward, story by story, because the structure of the house went upward, story by story, all around the house. Therefore the house became wider upward; and from the lowest level one went up to the highest through the middle level.
-</p>
+## Woodwork and carvings
 
 <p>
-v08: I saw that the house had a raised base all around. The foundations of the side chambers were a full rod, six cubits to the joint.
+v15: He measured the building facing the separate area behind the temple, with its galleries on both sides: a hundred cubits. The inner hall and the court’s vestibules,
+v16: the thresholds, recessed windows, and galleries around all three were paneled with wood all around, opposite the threshold, from the floor to the windows. The windows were covered.
+v17: Above the entrance, inside the temple and outside, along every wall inside and outside, everything was measured.
+v18: Cherubim and palm trees were carved there, a palm between each pair of cherubim. Each cherub had two faces:
+v19: a human face toward the palm on one side and a young lion’s face toward the palm on the other. They were carved all around the temple.
+v20: From the floor to above the entrance, cherubim and palm trees were carved on the wall of the main hall.
 </p>
 
-<p>
-v09: The width of the outer wall of the side chamber was five cubits. The open space beside the side chambers belonging to the house—
-</p>
+## The table and doors
 
 <p>
-v10: and between the chambers—was twenty cubits wide, all around the house, all around.
-</p>
-
-<p>
-v11: The doorway of the side chamber opened onto the open space: one doorway facing north and one doorway facing south. The width of the open space was five cubits, all around.
-</p>
-
-<p>
-v12: The building that faced the separate area on the western side was seventy cubits wide. The wall of the building was five cubits wide all around, and its length was ninety cubits.
-</p>
-
-<p>
-v13: He measured the house: one hundred cubits long. The separate area, the building, and its walls were one hundred cubits long.
-</p>
-
-<p>
-v14: The width of the front of the house, together with the separate area toward the east, was one hundred cubits.
-</p>
-
-<p>
-v15: He measured the length of the building facing the separate area behind it, together with its galleries on this side and on that side: one hundred cubits. The inner temple hall and the porches of the court,
-</p>
-
-<p>
-v16: the thresholds, the shuttered windows, and the galleries around the three levels—opposite the threshold—were paneled with wood all around, from the ground to the windows; and the windows were covered.
-</p>
-
-<p>
-v17: Above the doorway, as far as the inner house, and outside, on every wall all around, inside and outside, were measurements.
-</p>
-
-<p>
-v18: Cherubim and palm trees were made, with a palm tree between cherub and cherub. Each cherub had two faces:
-</p>
-
-<p>
-v19: a human face toward the palm tree on this side, and a young lion’s face toward the palm tree on that side. They were made throughout the whole house, all around.
-</p>
-
-<p>
-v20: From the ground up to above the doorway, cherubim and palm trees were made—and the wall of the temple hall.
-</p>
-
-<p>
-v21: The doorposts of the temple hall were square, and the appearance of the front of the sanctuary was like the appearance of the other.
-</p>
-
-<p>
-v22: The wooden altar was three cubits high and two cubits long. Its corners, its length, and its sides were of wood. He said to me, “This is the table that is before the LORD.”
-</p>
-
-<p>
-v23: The temple hall and the sanctuary had two doors.
-</p>
-
-<p>
-v24: The doors had two swinging leaves each: two leaves for one door and two leaves for the other.
-</p>
-
-<p>
-v25: Cherubim and palm trees were made on the doors of the temple hall, like those made on the walls. A wooden canopy was on the front of the porch outside.
-</p>
-
-<p>
-v26: There were shuttered windows and palm trees on this side and on that side, on the sides of the porch, the side chambers of the house, and the canopies.
+v21: The main hall’s doorposts were square. The front of the sanctuary had the same appearance.
+v22: The wooden altar was three cubits high and two cubits long. Its corners, its length, and its sides were wood. He told me, “This is the table that stands before the LORD.”
+v23: The main hall and the sanctuary each had double doors.
+v24: Each door had two swinging leaves, two leaves for one door and two for the other.
+v25: Cherubim and palm trees were carved on the doors of the main hall, as on the walls. A wooden canopy stood across the outside front of the vestibule.
+v26: Recessed windows and palm trees stood on both sides of the vestibule, along with the temple’s side chambers and the canopies.
 </p>
 
 ## Notes
 
+v1: “The width of the tent” is the pinned Hebrew’s unusual expression within this description of the temple building.
 
+v3: The entrance measurements are difficult to relate to one another; the six and seven cubits are both retained.
+
+v6: The draft understands the compact numerical phrase as three levels with thirty rooms on each. Other arrangements, including a total of thirty-three, have been proposed.
+
+v8: The word qualifying the cubit is rare. Its precise relation to the long cubit of 40:5 is uncertain.
+
+v15–17: Several architectural terms and the relations among the measurements are obscure. The draft follows the sequence of the Hebrew without claiming a fully resolved floor plan.
+
+v20: The source marks words concerning the wall of the main hall with extraordinary dots. The marked words are retained.
+
+v21–22: The objects being compared in verse 21 are uncertain. Verse 22 says “its length,” where some read “its base.” The wooden object is called both an altar and a table; its width is not supplied.
+
+v25–26: The wooden canopy or projecting structure is named with a rare word; its exact form is uncertain.
 
 ## Vocabulary
 
-v04: קֹדֶשׁ קָדָשִׁים (qōdeš qodāšîm)
-“most holy place.” The superlative construction identifies the innermost chamber as sacred beyond the surrounding temple spaces.
+v4: **Most Holy Place**: The innermost sacred space of the temple.
 
-v12: גִּזְרָה (gizrâ)
-“separate area.” This designated zone lies alongside the temple complex and is repeatedly measured as part of its ordered holiness.
-
-v15: אַתִּיק (ʾattîq)
-“gallery.” The term refers to architectural projections or galleries; its precise form is uncertain, but it belongs to the complex surrounding structure.
-
-v18: כְּרוּב (kĕrûb)
-“cherub.” These heavenly beings appear here as carved temple imagery, marking the house as a place associated with God’s holy presence.
+v18: **Cherubim**: Plural of cherub. The carved figures here alternate with palm trees and are described with two faces.

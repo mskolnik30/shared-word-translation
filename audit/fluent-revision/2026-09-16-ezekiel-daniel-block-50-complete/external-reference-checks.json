@@ -1,0 +1,17 @@
+{
+  "purpose": "Supplementary checks after source drafting; these are not the translation base.",
+  "date": "2026-09-16",
+  "sources": [
+    {
+      "url": "https://www.esv.org/Ezekiel+40/",
+      "observed": "Publisher text differs from the pinned Hebrew in several temple details: the gate/chamber description in40:44, added or differing measurements in40:48\u201349, and passage length in42:4. Fluent retains the pinned source with explicit notes.",
+      "qualification": "Comparison of published English text; no direct collation of ancient manuscripts performed."
+    },
+    {
+      "url": "https://bible.org/seriespage/daniel-2",
+      "observed": "The commentary discusses the Hebrew-to-Aramaic transition at2:4 and differing interpretations of the king\u2019s expression in2:5.",
+      "qualification": "Supplementary discussion, not an independent review of Fluent or a replacement for the pinned Hebrew/Aramaic."
+    }
+  ],
+  "independent_editorial_review": "REVIEW_PENDING"
+}

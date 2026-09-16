@@ -4,54 +4,57 @@ testament: OT
 chapter: 25
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: And the word of the LORD came to me, saying,
-v02: "Son of man, set your face against the Ammonites and prophesy against them.
-v03: Say to the Ammonites, 'Hear the word of the LORD GOD: Thus says the LORD GOD: Because you said "Aha!" against my sanctuary when it was defiled, and against the land of Israel when it was desolate, and against the house of Judah when they went into exile,
-v04: so, I am giving you to the people of the East as a possession. They will set their camps among you and make their dwellings in your midst. They will eat your fruit and drink your milk.
-v05: I will make Rabbah a pasture for camels and the Ammonites a resting place for flocks. Then you will know that I am the LORD.
-v06: For thus says the LORD GOD: Because you have clapped your hands and stamped your feet and rejoiced with all the malice of your soul against the land of Israel,
-v07: so, look, I have stretched out my hand against you and will give you as plunder to the nations. I will cut you off from the peoples and make you perish from the lands. I will destroy you, and you will know that I am the LORD.'"
-</p>
+## Against Ammon
 
 <p>
-v08: Thus says the LORD GOD: Because Moab and Seir said, "Look, the house of Judah is like all the nations,"
-v09: so, look, I will open the shoulder of Moab from the cities, from its cities on the frontier, the glory of the country—Beth-jeshimoth, Baal-meon, and Kiriathaim—
-v10: to the sons of the East, along with the Ammonites, and I will give it as a possession, so that the Ammonites may not be remembered among the nations.
-v11: I will execute judgments upon Moab. Then they will know that I am the LORD.
+v01: The word of the LORD came to me:
+v02: “Son of man, turn your face toward the Ammonites and prophesy against them.
+v03: Tell the Ammonites: Hear the word of the Lord GOD! This is what the Lord GOD says: You said ‘Aha!’ when my sanctuary was profaned, when Israel’s land was laid waste, and when the house of Judah went into exile.
+v04: So I am handing you over to the people of the east as their possession. They will pitch their camps among you and set up their dwellings there. They will eat your fruit and drink your milk.
+v05: I will make Rabbah a pasture for camels and Ammon a resting place for flocks. Then you will know that I am the LORD.
+v06: For this is what the Lord GOD says: You clapped your hands and stamped your feet, rejoicing over Israel’s land with all the contempt in your heart.
+v07: So I have stretched out my hand against you. I will give you as plunder to the nations, cut you off from the peoples, and make you disappear from the lands. I will destroy you. Then you will know that I am the LORD.
 </p>
 
-<p>
-v12: Thus says the LORD GOD: Because Edom acted out of vengeance against the house of Judah and has grievously offended in taking revenge upon them,
-v13: so, thus says the LORD GOD: I will stretch out my hand against Edom and will cut off humans and animals from it, and I will lay it waste; from Teman to Dedan they will fall by the sword.
-v14: I will lay my vengeance upon Edom by the hand of my people Israel. And they will act in Edom according to my anger and my wrath, and they will know my vengeance, declares the LORD GOD.
-</p>
+## Against Moab
 
 <p>
-v15: Thus says the LORD GOD: Because the Philistines acted in revenge and took vengeance with malice in their souls to destroy with everlasting enmity,
-v16: so, thus says the LORD GOD: Look, I will stretch out my hand against the Philistines and will cut off the Cherethites and destroy the remnant of the seacoast.
-v17: I will execute great vengeance upon them with wrathful rebukes. Then they will know that I am the LORD, when I lay my vengeance upon them."
+v08: “This is what the Lord GOD says: Moab and Seir said, ‘Look, the house of Judah is just like every other nation.’
+v09: So I am opening Moab’s flank, stripping away its frontier towns, the glory of the land: Beth-jeshimoth, Baal-meon, and Kiriathaim.
+v10: I will give Moab to the people of the east as a possession, along with the Ammonites, so that the Ammonites will no longer be remembered among the nations.
+v11: I will carry out judgments against Moab. Then they will know that I am the LORD.
+</p>
+
+## Against Edom
+
+<p>
+v12: “This is what the Lord GOD says: Edom took vengeance on the house of Judah and became deeply guilty by taking revenge on them.
+v13: Therefore this is what the Lord GOD says: I will stretch out my hand against Edom and cut off humans and animals from it. I will make it a waste from Teman onward; as far as Dedan they will fall by the sword.
+v14: I will put my vengeance against Edom into the hands of my people Israel. They will act against Edom according to my anger and fury, and Edom will know my vengeance, declares the Lord GOD.
+</p>
+
+## Against the Philistines
+
+<p>
+v15: “This is what the Lord GOD says: The Philistines acted in revenge, taking vengeance with contempt in their hearts, seeking destruction out of age-old hostility.
+v16: Therefore this is what the Lord GOD says: I am stretching out my hand against the Philistines. I will cut off the Cherethites and destroy the remnant along the seacoast.
+v17: I will carry out great acts of vengeance against them, with furious punishments. Then they will know that I am the LORD, when I bring my vengeance upon them.”
 </p>
 
 ## Notes
 
-v01–17: - **Word of the Lord** (v1): Ezekiel often begins his prophecy with this phrase, emphasizing the divine origin of the message.
-- **Son of man** (v2): A title used for Ezekiel, highlighting his humanity in contrast to the divine.
-- **Aha!** (v3): An expression of triumph or delight over the misfortune of others, illustrating Ammon's malicious gloating over Judah’s downfall.
-- **People of the East** (v4): Likely referring to nomadic tribes from the Arabian desert, symbolizing outsiders coming to occupy the land.
-- **Plunder to the nations** (v7): Indicates divine judgment where Ammon becomes vulnerable to foreign control and exploitation.
-- **Not be remembered among the nations** (v10): The erasure of Ammon’s identity as a distinct people, symbolizing complete obliteration.
-- **Edom's vengeance** (v12): Edom is judged for its historical hostility against Israel, emphasizing themes of justice and retribution.
-- **Great vengeance** (v17): Indicates severe punishment as a demonstration of divine authority and justice.
+v7: “Plunder” follows the reading preserved in the Hebrew reading note; the written form differs.
+
+v9–10: The attack opens Moab’s flank. Verse 10 again names the Ammonites; the repeated name is retained rather than replaced with Moab.
 
 ## Vocabulary
 
-v03: - **Sanctuary** (v3): Refers to the temple in Jerusalem, a central symbol of God's presence and relationship with Israel.
+v4: **People of the east**: Groups living east of Ammon; the expression does not name one particular people.
 
-v14: - **Vengeance** (v14): Expresses a strong theme in the passage, emphasizing God's retributive justice on behalf of His people.
-
-v16: - **Cherethites** (v16): Likely a specific group among the Philistines, illustrating the thoroughness of the divine judgement.
-
-v16: - **Seacoast** (v16): Refers to the geographical location of the Philistine territories, highlighting their identity and region for judgment.
+v13: **Teman and Dedan**: Places associated here with Edom and the reach of its devastation.

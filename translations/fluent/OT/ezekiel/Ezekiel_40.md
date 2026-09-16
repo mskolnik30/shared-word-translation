@@ -4,221 +4,111 @@ testament: OT
 chapter: 40
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month—in the fourteenth year after the city was struck down—on that very day the hand of the LORD was upon me, and he brought me there.
-</p>
+## The vision begins
 
 <p>
-v02: In visions of God he brought me into the land of Israel and set me down on a very high mountain. Upon it was something like the structure of a city, to the south.
+v01: In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, fourteen years after the city fell—on that very day—the hand of the LORD came upon me, and he brought me there.
+v02: In visions of God he brought me to the land of Israel and set me on a very high mountain. On its south side was something like a city’s buildings.
+v03: He brought me there, and I saw a man whose appearance was like bronze. He stood in the gateway with a linen cord and a measuring reed in his hand.
+v04: The man said to me, “Son of man, look with your eyes, listen with your ears, and pay attention to everything I show you. You were brought here so I could show it to you. Tell the house of Israel everything you see.”
 </p>
 
-<p>
-v03: He brought me there, and look: there was a man whose appearance was like the appearance of bronze, with a linen cord and a measuring reed in his hand. He was standing in the gateway.
-</p>
+## The wall and east gate
 
 <p>
-v04: The man said to me, “Human one, see with your eyes, hear with your ears, and set your heart on all that I am showing you, for you were brought here so that I might show it to you. Tell the house of Israel everything that you see.”
+v05: A wall surrounded the temple on the outside. The man’s measuring reed was six long cubits, each a cubit and a handbreadth. He measured the wall: one reed thick and one reed high.
+v06: He came to the east-facing gate, climbed its steps, and measured the gate’s threshold: one reed wide. The other threshold was also one reed wide.
+v07: Each guardroom was one reed long and one reed wide. Between the guardrooms were five cubits. The threshold beside the gate’s vestibule, on the temple side, was one reed.
+v08: He measured the gate’s vestibule on the temple side: one reed.
+v09: He measured the gate’s vestibule: eight cubits, with its jambs two cubits. The vestibule was on the temple side.
+v10: The east gate had three guardrooms on each side, all three the same size. The jambs on both sides also had the same measurements.
+v11: He measured the gate opening: ten cubits wide. The gate passage was thirteen cubits long.
+v12: A barrier one cubit wide stood before the guardrooms on each side. The guardrooms were six cubits on each side.
+v13: He measured the gate from one guardroom’s roof to the opposite roof: twenty-five cubits across, doorway opposite doorway.
+v14: He made the jambs sixty cubits, and the court surrounded the gate up to the jambs.
+v15: From the front of the entrance gate to the front of the inner vestibule was fifty cubits.
+v16: Recessed windows surrounded the guardrooms and their jambs, facing inward into the gate; the vestibules likewise had windows all around facing inward. Palm trees decorated the jambs.
 </p>
 
-<p>
-v05: And look: there was a wall outside the temple all around. In the man’s hand was a measuring reed, six cubits long, each cubit being a cubit and a handbreadth. He measured the width of the structure: one reed; and its height: one reed.
-</p>
+## The outer court
 
 <p>
-v06: Then he came to the gate facing east, went up its steps, and measured the threshold of the gate: one reed wide. The other threshold was one reed wide.
+v17: Then he brought me into the outer court. Chambers and a pavement ran around the court; thirty chambers stood along the pavement.
+v18: The pavement flanked the gates and matched their length. This was the lower pavement.
+v19: He measured from the front of the lower gate to the outside front of the inner court: a hundred cubits, on the east and the north.
+v20: He measured the length and width of the north-facing gate of the outer court.
+v21: Its guardrooms, three on each side, its jambs, and its vestibules matched the first gate: fifty cubits long and twenty-five cubits wide.
+v22: Its windows, vestibules, and palm trees matched the east-facing gate. Seven steps led up to it, with its vestibules ahead of them.
+v23: A gate to the inner court stood opposite the north gate, as on the east. He measured a hundred cubits from gate to gate.
+v24: He led me south, where there was a south-facing gate. He measured its jambs and vestibules; they had the same dimensions.
+v25: The gate and its vestibules had windows all around like the others. It was fifty cubits long and twenty-five cubits wide.
+v26: Seven steps led up to it, and its vestibules were ahead of them. Palm trees decorated the jambs, one on either side.
+v27: The inner court also had a south-facing gate. He measured a hundred cubits from gate to gate on the south.
 </p>
 
-<p>
-v07: Each gate chamber was one reed long and one reed wide, and the space between the chambers was five cubits. The threshold of the gate beside the vestibule of the gate, toward the temple, was one reed.
-</p>
+## The inner gates
 
 <p>
-v08: He measured the vestibule of the gate, toward the temple: one reed.
+v28: He brought me into the inner court through the south gate. He measured this south gate; it had the same dimensions.
+v29: Its guardrooms, jambs, and vestibules had the same measurements. The gate and its vestibules had windows all around. It was fifty cubits long and twenty-five cubits wide.
+v30: Vestibules all around were twenty-five cubits long and five cubits wide.
+v31: Its vestibules faced the outer court. Palm trees decorated its jambs, and eight steps led up to it.
+v32: He brought me into the inner court on the east and measured the gate. It had the same dimensions.
+v33: Its guardrooms, jambs, and vestibules had the same measurements. The gate and its vestibules had windows all around. It was fifty cubits long and twenty-five cubits wide.
+v34: Its vestibules faced the outer court. Palm trees decorated its jambs on both sides, and eight steps led up to it.
+v35: He brought me to the north gate and measured it. It had the same dimensions:
+v36: guardrooms, jambs, vestibules, and windows all around. It was fifty cubits long and twenty-five cubits wide.
+v37: Its jambs faced the outer court, with palm trees on the jambs on both sides. Eight steps led up to it.
 </p>
 
-<p>
-v09: Then he measured the vestibule of the gate: eight cubits; and its gateposts: two cubits. The vestibule of the gate was toward the temple.
-</p>
+## Tables and rooms
 
 <p>
-v10: The gate chambers of the east gate were three on this side and three on that side; the three had one measurement. The gateposts on this side and on that side had one measurement.
+v38: There was a chamber with its doorway beside the gate jambs. There they washed the burnt offering.
+v39: Inside the gate’s vestibule were two tables on each side for slaughtering the burnt offering, sin offering, and guilt offering.
+v40: Outside, beside the approach to the north gate’s entrance, were two tables. Two more stood on the other side beside the vestibule.
+v41: Four tables stood on each side of the gate, eight tables in all, for slaughtering the sacrifices.
+v42: There were also four tables of cut stone for the burnt offering, each a cubit and a half long, a cubit and a half wide, and one cubit high. On them they laid the tools for slaughtering burnt offerings and other sacrifices.
+v43: Hooks a handbreadth long were fixed all around inside, and the flesh of the offering lay on the tables.
+v44: Outside the inner gate, in the inner court, were chambers for singers beside the north gate, facing south. Another stood beside the east gate, facing north.
+v45: He told me, “The chamber facing south is for the priests who keep charge of the temple.
+v46: The chamber facing north is for the priests who keep charge of the altar. These are the descendants of Zadok, who among the Levites approach the LORD to serve him.”
 </p>
 
-<p>
-v11: He measured the width of the entrance to the gate: ten cubits; the length of the gate: thirteen cubits.
-</p>
+## The court and temple entrance
 
 <p>
-v12: There was a boundary in front of the chambers, one cubit on this side, and a boundary of one cubit on that side. Each chamber was six cubits on this side and six cubits on that side.
-</p>
-
-<p>
-v13: He measured the gate from the roof of one chamber to the roof of the other: twenty-five cubits wide, entrance opposite entrance.
-</p>
-
-<p>
-v14: He made the gateposts sixty cubits high, with the court extending to the gateposts all around the gate.
-</p>
-
-<p>
-v15: From the front of the entrance gate to the front of the inner vestibule of the gate was fifty cubits.
-</p>
-
-<p>
-v16: There were recessed windows in the chambers and in their gateposts, facing inward, all around the gate; and likewise in the vestibules. Windows were all around, facing inward, and palm trees were on the gateposts.
-</p>
-
-<p>
-v17: Then he brought me into the outer court. Look: there were chambers and a pavement made for the court all around. Thirty chambers faced the pavement.
-</p>
-
-<p>
-v18: The pavement ran alongside the gates, corresponding to the length of the gates; this was the lower pavement.
-</p>
-
-<p>
-v19: He measured the width from the front of the lower gate to the front of the inner court, outside: one hundred cubits, on the east and on the north.
-</p>
-
-<p>
-v20: As for the gate of the outer court facing north, he measured its length and its width.
-</p>
-
-<p>
-v21: Its chambers, three on this side and three on that side; its gateposts and its vestibules were like the measurements of the first gate: fifty cubits long and twenty-five cubits wide.
-</p>
-
-<p>
-v22: Its windows, its vestibules, and its palm trees were like the measurements of the gate facing east. They went up to it by seven steps, and its vestibule was before them.
-</p>
-
-<p>
-v23: There was a gate to the inner court opposite the north gate and the east gate. He measured from gate to gate: one hundred cubits.
-</p>
-
-<p>
-v24: Then he led me south, and look: there was a gate facing south. He measured its gateposts and its vestibules according to these measurements.
-</p>
-
-<p>
-v25: It and its vestibules had windows all around, like those windows: fifty cubits long and twenty-five cubits wide.
-</p>
-
-<p>
-v26: Seven steps led up to it, and its vestibules were before them. It had palm trees on its gateposts, one on this side and one on that side.
-</p>
-
-<p>
-v27: There was a gate to the inner court facing south. He measured from gate to gate toward the south: one hundred cubits.
-</p>
-
-<p>
-v28: Then he brought me into the inner court through the south gate. He measured the south gate according to these measurements.
-</p>
-
-<p>
-v29: Its chambers, its gateposts, and its vestibules were according to these measurements. It and its vestibules had windows all around: fifty cubits long and twenty-five cubits wide.
-</p>
-
-<p>
-v30: There were vestibules all around, twenty-five cubits long and five cubits wide.
-</p>
-
-<p>
-v31: Its vestibule faced the outer court, palm trees were on its gateposts, and eight steps led up to it.
-</p>
-
-<p>
-v32: Then he brought me into the inner court toward the east. He measured the gate according to these measurements.
-</p>
-
-<p>
-v33: Its chambers, its gateposts, and its vestibules were according to these measurements. It and its vestibules had windows all around: fifty cubits long and twenty-five cubits wide.
-</p>
-
-<p>
-v34: Its vestibule faced the outer court. Palm trees were on its gateposts, on this side and on that side, and eight steps led up to it.
-</p>
-
-<p>
-v35: Then he brought me to the north gate and measured it according to these measurements:
-</p>
-
-<p>
-v36: its chambers, its gateposts, its vestibules, and its windows all around. It was fifty cubits long and twenty-five cubits wide.
-</p>
-
-<p>
-v37: Its gateposts faced the outer court. Palm trees were on its gateposts, on this side and on that side, and eight steps led up to it.
-</p>
-
-<p>
-v38: There was a chamber with its entrance by the gateposts of the gates; there they washed the burnt offering.
-</p>
-
-<p>
-v39: In the vestibule of the gate were two tables on this side and two tables on that side, on which to slaughter the burnt offering, the sin offering, and the guilt offering.
-</p>
-
-<p>
-v40: On the outside, as one goes up to the entrance of the north gate, were two tables; and on the other side, by the vestibule of the gate, were two tables.
-</p>
-
-<p>
-v41: Four tables on this side and four tables on that side, by the side of the gate: eight tables on which they slaughtered.
-</p>
-
-<p>
-v42: There were four tables for the burnt offering, made of cut stone, each person and a half cubits long, one and a half cubits wide, and one cubit high. On them they placed the implements with which they slaughtered the burnt offering and the sacrifice.
-</p>
-
-<p>
-v43: Double ledges, one handbreadth wide, were fixed all around inside. The flesh of the offering was to be placed on the tables.
-</p>
-
-<p>
-v44: Outside the inner gate were chambers for the singers, in the inner court: one beside the north gate, facing south; and one beside the east gate, facing north.
-</p>
-
-<p>
-v45: He said to me, “This chamber facing south is for the priests who keep charge of the temple.
-</p>
-
-<p>
-v46: The chamber facing north is for the priests who keep charge of the altar. They are the sons of Zadok, those among the sons of Levi who draw near to the LORD to minister to him.”
-</p>
-
-<p>
-v47: He measured the court: one hundred cubits long and one hundred cubits wide, square. The altar was in front of the temple.
-</p>
-
-<p>
-v48: Then he brought me to the vestibule of the temple and measured the gatepost of the vestibule: five cubits on this side and five cubits on that side. The width of the gate was three cubits on this side and three cubits on that side.
-</p>
-
-<p>
-v49: The length of the vestibule was twenty cubits, and its width was eleven cubits. There were steps by which they went up to it, and pillars stood beside the gateposts, one on this side and one on that side.
+v47: He measured the court: a square, a hundred cubits long and a hundred cubits wide. The altar stood in front of the temple.
+v48: He brought me to the temple’s vestibule and measured its jambs: five cubits on each side. The gate’s side walls were three cubits on each side.
+v49: The vestibule was twenty cubits long and eleven cubits wide, with steps leading up to it. Pillars stood beside the jambs, one on each side.
 </p>
 
 ## Notes
 
-v44: The Hebrew can be read as referring either to chambers “for singers” or to chambers situated in relation to those who sing.
+v5: The measuring reed is six long cubits. Each long cubit is an ordinary cubit plus a handbreadth; exact modern equivalents would be approximate.
+
+v6,8–9: The repeated threshold in verse 6 and the differing vestibule measurements in verses 8–9 are retained. Their exact architectural relation is uncertain.
+
+v14: The sixty cubits are in the Hebrew, but the measured dimension is not specified clearly. The draft does not insert “high” or revise the number.
+
+v30: This verse’s vestibules and measurements are retained, despite questions about how they fit the other gate descriptions.
+
+v37: The Hebrew names jambs here, where related descriptions speak of vestibules. The difference is retained.
+
+v43: The fittings can be understood as hooks or ledges. A handbreadth is a small unit based on the breadth of a hand.
+
+v44: “Singers” and “east gate” follow the pinned Hebrew. Other witnesses and proposed readings have “two” rooms and a south gate.
+
+v48–49: The three cubits at either side are difficult to assign precisely. Verse 49 has eleven cubits, not twelve, and gives no number for the steps.
 
 ## Vocabulary
 
-v03: קָנֶה (qāneh)
-“A measuring reed.” In this vision the reed is the instrument by which the temple’s ordered dimensions are disclosed.
+v1: **Beginning of the year**: The date expression is retained without supplying a named month.
 
-v07: תָּא (tāʾ)
-“A gate chamber or guardroom.” The repeated chambers make the gateways structured thresholds between the courts.
-
-v38: עֹלָה (ʿōlâ)
-“Burnt offering, an offering that ascends in smoke.” Its washing and slaughtering are specifically provided for in the temple’s design.
-
-v39: חַטָּאת (ḥaṭṭāʾt)
-“Sin offering. The term names an offering concerned with sin and purification.”
-
-v39: אָשָׁם (ʾāšām)
-“Guilt offering. It addresses culpability and the restoration required by wrongdoing.”
+v6: **Threshold, jamb, vestibule**: The lower entrance surface, upright side structure, and entrance porch or hall; exact arrangements in the vision are sometimes uncertain.

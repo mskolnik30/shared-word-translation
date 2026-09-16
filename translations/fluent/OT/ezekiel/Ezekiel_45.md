@@ -4,87 +4,71 @@ testament: OT
 chapter: 45
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: When you allot the land as an inheritance, you will set aside an offering for the LORD: a holy portion from the land, twenty-five thousand in length and ten thousand in width. It will be holy throughout its entire boundary all around.
-v02: Of this, there will be for the sanctuary a square five hundred by five hundred, with fifty cubits of open land around it.
-v03: From this measurement you will measure a length of twenty-five thousand and a width of ten thousand. In it will be the sanctuary, the most holy place.
-v04: It will be a holy portion from the land for the priests, the ministers of the sanctuary who draw near to minister to the LORD. It will be a place for their houses and a holy place for the sanctuary.
-</p>
+## Land set apart
 
 <p>
-v05: A length of twenty-five thousand and a width of ten thousand will belong to the Levites, the ministers of the house, as their possession: twenty chambers.
-v06: Alongside the holy offering you will give the city a possession five thousand in width and twenty-five thousand in length. It will belong to the whole house of Israel.
+v01: “When you allot the land as an inheritance, set apart a holy contribution for the LORD, twenty-five thousand long and ten thousand wide. The entire area within its boundaries will be holy.
+v02: Within it, the sanctuary will occupy a square five hundred by five hundred, with fifty cubits of open land around it.
+v03: From this measured area mark off a length of twenty-five thousand and a width of ten thousand. Within it will be the sanctuary, the Most Holy Place.
+v04: This holy portion of the land will belong to the priests who serve in the sanctuary, who approach the LORD to serve him. It will provide space for their houses and a holy place for the sanctuary.
+v05: A portion twenty-five thousand long and ten thousand wide will belong to the Levites who serve in the temple, as their possession, with twenty chambers.
+v06: Give the city a possession five thousand wide and twenty-five thousand long, alongside the holy contribution. It will belong to the whole house of Israel.
+v07: The prince will have land on both sides of the holy contribution and the city’s possession, alongside them, extending westward on the west and eastward on the east. Its length will match one tribal portion, from the western boundary to the eastern boundary.
+v08: This land will be his possession in Israel. My princes will no longer oppress my people but will leave the land to the house of Israel according to their tribes.
 </p>
 
-<p>
-v07: For the prince there will be land on both sides of the holy offering and of the city’s possession, alongside the holy offering and alongside the city’s possession, from the west side westward and from the east side eastward. Its length will correspond to one of the tribal portions, from the western boundary to the eastern boundary.
-v08: This will be his possession in Israel’s land, so that my princes will no longer oppress my people. They will give the land to the house of Israel according to their tribes.
-</p>
+## Just measures
 
 <p>
-v09: Thus says the LORD GOD: Enough of you, princes of Israel! Put away violence and devastation; do justice and righteousness. Put an end to your expulsions of my people, declares the LORD GOD.
+v09: “This is what the Lord GOD says: Enough, princes of Israel! Put away violence and plunder. Do what is just and right. Stop driving my people from their property, declares the Lord GOD.
+v10: Use honest scales, an honest ephah, and an honest bath.
+v11: The ephah and the bath must have the same capacity: the bath one-tenth of a homer and the ephah one-tenth of a homer. The homer will be their standard.
+v12: The shekel will be twenty gerahs. Twenty shekels, twenty-five shekels, and fifteen shekels will make your mina.
 </p>
 
-<p>
-v10: You will have just balances, a just ephah, and a just bath.
-v11: The ephah and the bath will have the same measure: the bath will contain one-tenth of a homer, and the ephah one-tenth of a homer. Their standard measure will be according to the homer.
-v12: The shekel will be twenty gerahs. Twenty shekels, twenty-five shekels, and fifteen shekels will be your mina.
-</p>
+## The people’s contribution
 
 <p>
-v13: This is the offering that you will set aside: one-sixth of an ephah from each homer of wheat, and one-sixth of an ephah from each homer of barley.
-v14: The prescribed portion of oil will be one-tenth of a bath from each cor of oil—the cor being ten baths, or one homer, since ten baths are a homer.
-v15: And one sheep from every two hundred from the well-watered pastures of Israel, for the grain offering, the burnt offering, and the well-being offerings, to make atonement for them, declares the LORD GOD.
-v16: All the people of the land will be responsible for this offering for the prince in Israel.
-v17: The burnt offerings, grain offerings, and drink offerings at the festivals, new moons, Sabbaths, and all the appointed times of the house of Israel will be the prince’s responsibility. He will provide the sin offering, the grain offering, the burnt offering, and the well-being offerings, to make atonement for the house of Israel.
+v13: “This is the contribution you must offer: one-sixth of an ephah from each homer of wheat and one-sixth of an ephah from each homer of barley.
+v14: The prescribed portion of oil, measured by the bath, is one-tenth of a bath from each cor. Ten baths make a homer, for a homer is ten baths.
+v15: Take one sheep from every two hundred from Israel’s well-watered pastures. These will provide grain offerings, burnt offerings, and peace offerings to make atonement for them, declares the Lord GOD.
+v16: All the people of the land must give this contribution to the prince in Israel.
+v17: The prince will be responsible for the burnt offerings, grain offerings, and drink offerings at the feasts, new moons, Sabbaths, and all the house of Israel’s appointed festivals. He must provide the sin offering, grain offering, burnt offering, and peace offerings to make atonement for the house of Israel.
 </p>
 
-<p>
-v18: Thus says the LORD GOD: In the first month, on the first day of the month, you will take a flawless young bull and purify the sanctuary from sin.
-v19: The priest will take some of the blood of the sin offering and put it on the doorposts of the house, on the four corners of the altar’s ledge, and on the doorposts of the gate of the inner court.
-v20: You will do the same on the seventh day of the month for anyone who strays or acts unknowingly. Thus you will make atonement for the house.
-</p>
+## The festival offerings
 
 <p>
-v21: In the first month, on the fourteenth day of the month, you will have the Passover, a festival lasting seven days. Unleavened bread will be eaten.
-v22: On that day the prince will provide, for himself and for all the people of the land, a bull as a sin offering.
-v23: During the seven days of the festival he will provide as a burnt offering to the LORD seven bulls and seven rams without blemish each day for the seven days, and a male goat each day as a sin offering.
-v24: He will provide a grain offering of an ephah for each bull and an ephah for each ram, with a hin of oil for each ephah.
-v25: In the seventh month, on the fifteenth day of the month, at the festival, he will provide the same for the seven days: the same sin offering, burnt offering, grain offering, and oil.
+v18: “This is what the Lord GOD says: On the first day of the first month, take an unblemished young bull and purify the sanctuary.
+v19: The priest must take some blood from the sin offering and put it on the temple’s doorpost, the four corners of the altar’s ledge, and the doorpost of the inner court’s gate.
+v20: Do the same on the seventh day of the month for anyone who sins unintentionally or unknowingly. In this way you will make atonement for the temple.
+v21: On the fourteenth day of the first month, observe the Passover, a festival lasting seven days. Unleavened bread must be eaten.
+v22: On that day the prince must provide a bull as a sin offering for himself and all the people of the land.
+v23: For each of the festival’s seven days he must provide a burnt offering to the LORD: seven unblemished bulls and seven unblemished rams each day, and a male goat each day as a sin offering.
+v24: He must provide a grain offering of an ephah for each bull and an ephah for each ram, with a hin of oil for each ephah.
+v25: At the festival beginning on the fifteenth day of the seventh month, he must provide the same for seven days: sin offerings, burnt offerings, grain offerings, and oil.
 </p>
 
 ## Notes
 
-v01: The “offering” is a portion of land set apart for the LORD. The language presents land itself as capable of being made holy through its dedication to God.
+v1–5: The large land dimensions omit their units, while verse 2 explicitly uses cubits. The draft leaves unsupplied units unstated. Verse 1 has ten thousand in the pinned Hebrew, where some witnesses have twenty thousand; verse 5 has twenty chambers, where some have cities.
 
-v07–09: The prince receives an assigned holding, but this provision is explicitly tied to the end of royal oppression. Political authority is given real space and responsibility, yet it is bounded so that the people’s inherited land is protected.
+v12: The three stated amounts add to sixty shekels for a mina. The unusual formulation is retained.
 
-v10–12: Just weights and measures belong within the same vision as sanctuary worship and land distribution. Economic integrity is not treated as separate from holiness and justice.
+v14: A tenth of a bath from a cor is one-hundredth of the cor, since a cor contains ten baths. The stated proportions are retained.
 
-v17: - v15, 17: The prince’s role includes supplying the offerings on behalf of the people. The text places public leadership under responsibility for the community’s worship and atonement, rather than permitting leadership to exploit the community.
+v20: The pinned Hebrew says the seventh day of the month. Another textual tradition gives a different date in the seventh month.
 
-v20: “Anyone who strays or acts unknowingly” may refer to unintentional or inadvertent wrongdoing, though the terms are broad enough to include those led astray through ignorance or simplicity. The rite extends the sanctuary’s purification to the effects of such sin among the people.
+v21: The compact phrase describing the festival is understood here as a festival of seven days. It does not introduce a separate Feast of Weeks into the Passover instruction.
 
 ## Vocabulary
 
-v01: **תְּרוּמָה — *terumah***: An offering set apart or raised up for God. Here it is not a movable gift but a sacred portion of the land, establishing holiness at the center of Israel’s restored life.
+v10–11: **Ephah, bath, homer**: Measures for grain and liquid: an ephah and a bath each equal one-tenth of a homer.
 
-v03: **קֹדֶשׁ קָדָשִׁים — *qodesh qodashim***: “Most holy place.” The repeated form intensifies holiness and identifies the sanctuary as the concentrated center of the sacred land.
-
-v08: **יָנָה — *yanah***: To oppress, exploit, or mistreat. The prince’s allotted land is intended to prevent rulers from taking property and power at the expense of God’s people.
-
-v09: **מִשְׁפָּט וּצְדָקָה — *mishpat utsedaqah***: “Justice and righteousness.” Together these terms call for right judgment and faithful, equitable action in Israel’s public life.
-
-v17: כִּפֶּר (kipper)
-“To make atonement or effect purification.” In this passage, the offerings address the community’s standing before God and the holiness of the sanctuary among them.
-
-v01: תְּרוּמָה (terumah)
-“An offering set apart or raised up for God.” Here it is not a movable gift but a sacred portion of the land, establishing holiness at the center of Israel’s restored life.
-
-v03: קֹדֶשׁ קָדָשִׁים (qodesh qodashim)
-“Most holy place.” The doubled adjective is an intensive form marking the highest degree of holiness.
-
-v09: מִשְׁפָּט וּצְדָקָה (mishpat u-tsedaqah)
-“Justice and righteousness.” A paired expression for right judgment and right action.
+v12: **Shekel, gerah, mina**: Weight units. The verse specifies twenty gerahs to a shekel and amounts totaling sixty shekels to a mina.

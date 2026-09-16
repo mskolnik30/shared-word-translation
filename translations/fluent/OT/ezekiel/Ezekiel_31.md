@@ -4,167 +4,75 @@ testament: OT
 chapter: 31
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-25-48-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: In the eleventh year, in the third month, on the first day of the month, the word of the LORD came to me:
-</p>
+## The towering cedar
 
 <p>
-v02: Human one, say to Pharaoh king of Egypt and to his multitude:
-Whom do you resemble in your greatness?
-
-v03:
-</p>
-
-<p>
-Look: Assyria was a cedar in Lebanon,
-beautiful in its branches, a forest giving shade,
-high in stature;
-its top was among the thick boughs.
-
-v04: Waters made it grow;
-the Deep made it high.
-Its rivers flowed around its planting,
-and it sent out its channels
+v01: In the eleventh year, on the first day of the third month, the word of the LORD came to me:
+v02: “Son of man, say to Pharaoh king of Egypt and his multitude: Who can compare with you in greatness?
+v03: Look at Assyria: a cedar in Lebanon,
+with beautiful branches, a shaded thicket,
+and towering height,
+its top among the clouds.
+v04: Water made it grow;
+the deep made it tall.
+Its rivers flowed around the planting,
+and it sent its channels
 to all the trees of the field.
-
-v05: So it grew taller
-than all the trees of the field.
+v05: So it towered above all the trees of the field.
 Its boughs multiplied,
-and its branches grew long
-because of abundant waters as it spread them out.
-
-v06: In its boughs all the birds of the heavens nested;
-under its branches all the animals of the field gave birth;
-and in its shade
-all the many nations lived.
-
-v07: It was beautiful in its greatness,
-in the length of its branches,
-for its root was by abundant waters.
-
-v08: Cedars could not rival it
-in the garden of God;
-cypresses were not like its boughs,
-and plane trees were not like its branches.
-No tree in the garden of God
-resembled it in its beauty.
-
-v09: I made it beautiful
-with its many branches,
-and all the trees of Eden envied it,
-which were in the garden of God.
-
-v10:
+its branches grew long,
+spreading out with abundant water.
+v06: All the birds of the sky nested in its boughs;
+all the beasts of the field gave birth beneath its branches.
+All the great nations lived in its shade.
+v07: It was beautiful in its greatness
+and in the length of its branches,
+for its roots reached abundant water.
+v08: Cedars in God’s garden could not rival it.
+Junipers could not match its boughs,
+nor plane trees its branches.
+No tree in God’s garden matched its beauty.
+v09: I made it beautiful with its many branches,
+and all the trees of Eden in God’s garden envied it.
 </p>
 
+## The tree brought down
+
 <p>
-So, thus says the LORD GOD:
-Because it grew high in stature
-and set its top among the thick boughs,
-and its heart was lifted up because of its height,
-
-v11: I gave it into the hand
-of a mighty one of the nations.
-He will surely deal with it according to its wickedness.
-I have driven it out.
-
-v12: Foreigners cut it down,
-the ruthless ones of the nations,
-and left it.
-On the mountains and in all the valleys
-its branches fell;
-its boughs were broken
-in all the ravines of the land.
-All the peoples of the earth came down from its shade
-and left it.
-
-v13: Upon its fallen trunk
-all the birds of the heavens settle,
-and among its branches
-are all the animals of the field,
-
-v14: so that none of the trees by the waters
-may grow high in stature,
-or set their tops among the thick boughs,
-and none who drink water
-may stand tall in their height.
-For all of them are given over to death,
-to the land below,
-among mortals,
-with people who go down to the Pit.
-
-v15:
+v10: “Therefore this is what the Lord GOD says: Because you grew so tall, and it lifted its top among the clouds, its heart proud of its height,
+v11: I handed it over to a mighty ruler of nations, who would surely deal with it. I drove it out because of its wickedness.
+v12: Foreigners, the most ruthless of nations, cut it down and abandoned it. Its branches fell on the mountains and in every valley; its boughs broke in all the ravines of the land. All the peoples of the earth left its shade and abandoned it.
+v13: All the birds of the sky settle on its fallen trunk, and all the beasts of the field rest on its branches.
+v14: This happened so that no well-watered tree would exalt itself in height or lift its top among the clouds, and no water-drinking tree would stand proud in its height. For they are all given over to death, to the world below, among human beings who descend to the pit.
 </p>
 
+## Descent to the dead
+
 <p>
-Thus says the LORD GOD:
-On the day it went down to Sheol,
-I caused mourning.
-I covered the Deep over it
-and held back its rivers,
-and abundant waters were restrained.
-Because of it I darkened Lebanon,
-and because of it all the trees of the field languished.
-
-v16: At the sound of its fall I made nations tremble,
-when I brought it down to Sheol
-with people who go down to the Pit.
-Then in the land below
-all the trees of Eden were comforted—
-the choice and best trees of Lebanon,
-everyone who drink water.
-
-v17: They too went down with it to Sheol,
-to those slain by the sword—
-people who were its arm,
-who lived in its shade among the nations.
-
-v18: Whom, then, do you resemble
-in glory and greatness among the trees of Eden?
-Yet you will be brought down with the trees of Eden
-to the land below.
-Among the uncircumcised you will lie
-with those slain by the sword.
-This is Pharaoh and all his multitude,
-declares the LORD GOD.
+v15: “This is what the Lord GOD says: On the day it went down to Sheol, I caused mourning. I covered the deep for it, held back its rivers, and stopped the great waters. I darkened Lebanon over it, and all the trees of the field fainted because of it.
+v16: I made the nations shake at the sound of its fall, when I brought it down to Sheol with those who descend to the pit. Then all the trees of Eden, the choicest and best of Lebanon, all that drank water, were comforted in the world below.
+v17: They too went down with it to Sheol, to those slain by the sword—its allies who lived in its shade among the nations.
+v18: “Which tree of Eden compares with you in glory and greatness? Yet you will be brought down with the trees of Eden to the world below. You will lie among the uncircumcised, with those slain by the sword. This is Pharaoh and all his multitude, declares the Lord GOD.”
 </p>
 
 ## Notes
 
-v03: Assyria is pictured as a magnificent cedar. The image does not merely describe a tree; it evokes imperial greatness, shelter, abundance, and the vulnerability of a power whose height becomes its peril.
+v3: “Assyria” follows the pinned text. Some understand a tree name instead. The expression about the top among clouds can also be understood in relation to thick branches.
 
-v08–09: The “garden of God” and “trees of Eden” draw on Eden imagery without fully identifying Assyria with Eden itself. The language heightens the cedar’s splendor while preparing for its descent.
+v10: The address changes from “you” to “it” within the verse. The shift from Pharaoh to the tree image is retained.
 
-v10: The cedar’s downfall is explicitly connected to its lifted-up heart. Height itself is not condemned; pride in height is.
+v15: The description of covering the deep and restraining its rivers is difficult. The mourning imagery is retained without reconstructing a physical event.
 
-v14: The warning expands beyond Assyria to “all the trees by the waters”—all powers sustained by abundance. The passage holds together divine gift, human greatness, pride, and mortality.
-
-v15–17: *Sheol*, the “land below,” and the “Pit” form a repeated descent imagery. The text portrays the realm of the dead as the destination shared by the mighty and those they sheltered.
-
-v18: The oracle returns directly to Pharaoh. Assyria’s fall is not simply a historical comparison but a warning that Egypt’s grandeur and multitude cannot exempt it from the same judgment.
+v17: The tree’s “arm” represents those who supported its power.
 
 ## Vocabulary
 
-v04: תְּהוֹם (*tehom*) — “the Deep.”: Here the Deep is the source of the waters that make the cedar flourish. In v15, the same Deep is restrained and made to mourn, showing that the abundance sustaining imperial life is under God’s command.
+v3: **Cedar**: A towering tree becomes the image of imperial greatness and its fall.
 
-v08: גַּן־אֱלֹהִים (*gan ʾelohim*) — “garden of God.”: The phrase places the cedar’s beauty in a setting of unsurpassed fertility and splendor. Its use intensifies the contrast between exaltation and judgment.
-
-v10: לֵבָב (*levav*) — “heart.”: The cedar’s heart is “lifted up” because of its height. In this passage, the heart names the inward posture that turns received greatness into pride.
-
-v14: אֶרֶץ תַּחְתִּית (*ʾerets taḥtit*) — “land below.”: This phrase describes the destination of the proud trees and is paired with Sheol and the Pit. It emphasizes the downward movement that counters their towering stature.
-
-v14: אֶרֶץ תַּחְתִּית (ʾerets taḥtit)
-“land below.”: This phrase describes the destination of the proud trees and is paired with Sheol and the Pit.
-
-v15: שְׁאוֹל (sheʾol)
-“Sheol.”: Sheol is the realm to which the cedar descends with those slain by the sword. The term preserves the text’s grave, shadowed vision of death without specifying more than the passage itself does.
-
-v18: עֲרֵלִים (*ʿarelim*) — “the uncircumcised.”: In Ezekiel’s judgment language, this term marks those brought down in dishonor among the slain. Pharaoh’s fate is thereby placed among peoples Egypt would have regarded as dishonored or defeated.
-
-v04: תְּהוֹם (tehom)
-“the Deep.”: Here the Deep is the source of the waters that make the cedar flourish. In v15, the same Deep is restrained and made to mourn, showing that the abundance sustaining imperial life is under God’s command.
-
-v08: גַּן־אֱלֹהִים (gan ʾelohim)
-“garden of God.”: The phrase places the cedar’s beauty in a setting of unsurpassed fertility and splendor. Its use intensifies the contrast between exaltation and judgment.
+v16: **Sheol**: The realm of the dead, pictured as below the earth.
