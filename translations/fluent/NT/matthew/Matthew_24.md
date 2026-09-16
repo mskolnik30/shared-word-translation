@@ -4,151 +4,135 @@ testament: NT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-matthew-24-28-biblical-fluency-2026-09-16
 ---
 
 ## The Temple's Destruction Foretold
 
 <p>
-v01: Jesus left the temple and was going away when his disciples came to point out the temple buildings to him.
-v02: He answered them, “Do you see all these things? Truly I tell you, not one stone here will be left on another; every one will be thrown down.”
+v01: Jesus was leaving the temple when his disciples came over to show him its buildings.
+v02: He replied, “Do you see all this? I tell you the truth: not one stone here will remain on another. Every one will be torn down.”
 </p>
 
 ## Signs, Persecution, and Endurance
 
 <p>
-v03: As Jesus was sitting on the Mount of Olives, the disciples came to him privately and asked, “Tell us, when will these things happen, and what will be the sign of your coming and of the completion of the age?”
-v04: Jesus answered them, “See that no one leads you astray.
-v05: For many will come in my name, saying, ‘I am the Christ,’ and they will lead many astray.
-v06: You will hear of wars and reports of wars. See that you are not alarmed, because these things must happen, but the end is not yet.
-v07: Nation will rise against nation and kingdom against kingdom, and there will be famines and earthquakes in various places.
-v08: All these things are the beginning of birth pains.
-v09: Then they will hand you over to distress and kill you, and you will be hated by all nations because of my name.
-v10: Then many will fall away, hand one another over, and hate one another.
+v03: As he sat on the Mount of Olives, the disciples came to him privately. “Tell us,” they said, “when will this happen? What will be the sign of your coming and the end of the age?”
+v04: Jesus answered, “Be careful that no one leads you astray.
+v05: Many will come in my name, claiming, ‘I am the Christ,’ and will lead many astray.
+v06: You will hear of wars and rumors of wars. Do not be alarmed. These things must happen, but the end has not yet come.
+v07: Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places.
+v08: All this is the beginning of birth pains.
+v09: “Then they will hand you over to suffering and kill you. All nations will hate you because of my name.
+v10: At that time many will fall away, hand one another over, and hate one another.
 v11: Many false prophets will arise and lead many astray.
-v12: Because lawlessness will increase, the love of many will grow cold.
-v13: But the one who endures to the end will be saved.
-v14: And this good news of the kingdom will be proclaimed in the whole inhabited world as a testimony to all nations, and then the end will come.
+v12: As lawlessness increases, the love of many will grow cold.
+v13: But whoever endures to the end will be saved.
+v14: This good news of the kingdom will be proclaimed throughout the inhabited world as a testimony to all nations. Then the end will come.
 </p>
 
 ## The Desolating Abomination
 
 <p>
-v15: “Therefore, when you see the abomination of desolation spoken of through Daniel the prophet standing in the holy place—let the reader understand—
-v16: then let those in Judea flee to the mountains.
-v17: Let the one on the housetop not come down to take things out of the house,
-v18: and let the one in the field not turn back to get a cloak.
-v19: Woe to those who are pregnant and to those nursing infants in those days!
-v20: Pray that your flight will not happen in winter or on a Sabbath.
-v21: For then there will be great distress, unlike anything from the beginning of the world until now, and never to be repeated.
-v22: If those days had not been cut short, no flesh would be saved. But for the sake of the chosen, those days will be cut short.
+v15: “So when you see the abomination of desolation spoken of through the prophet Daniel standing in the holy place—let the reader understand—
+v16: those in Judea must flee to the mountains.
+v17: Anyone on the roof must not go down to collect things from the house.
+v18: Anyone in the field must not turn back for a cloak.
+v19: How terrible those days will be for pregnant women and nursing mothers!
+v20: Pray that you will not have to flee in winter or on a Sabbath.
+v21: For then there will be great suffering, unlike anything since the world began, and never to be repeated.
+v22: If those days were not cut short, no one would survive. But for the sake of the chosen, those days will be cut short.
 </p>
 
 ## False Christs and the Coming of the Son of Man
 
 <p>
-v23: “Then if anyone says to you, ‘Look, here is the Christ!’ or, ‘There he is!’ do not believe it.
-v24: For false christs and false prophets will arise and give great signs and wonders in order to lead astray, if possible, even the chosen.
-v25: Look, I have told you beforehand.
-v26: Therefore if they tell you, ‘Look, he is in the wilderness,’ do not go out; or, ‘Look, he is in the inner rooms,’ do not believe it.
-v27: For just as lightning comes from the east and flashes as far as the west, so will be the coming of the Son of Man.
-v28: Wherever the corpse is, there the vultures will gather.
+v23: “If anyone then tells you, ‘Look, here is the Christ!’ or ‘There he is!’ do not believe it.
+v24: False christs and false prophets will arise and perform great signs and wonders to lead astray, if possible, even the chosen.
+v25: Remember, I have warned you beforehand.
+v26: So if they tell you, ‘Look, he is in the wilderness,’ do not go out. If they say, ‘Look, he is in the inner rooms,’ do not believe it.
+v27: For as lightning flashes from east to west, so will the coming of the Son of Man be.
+v28: Wherever the corpse is, the vultures will gather.
 </p>
 
 <p>
-v29: “Immediately after the distress of those days,
+v29: “Immediately after the suffering of those days,
 ‘the sun will be darkened,
-the moon will not give its light,
+and the moon will give no light;
 the stars will fall from heaven,
 and the powers of the heavens will be shaken.’
-v30: Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn. They will see the Son of Man coming on the clouds of heaven with power and great glory.
-v31: He will send his angels with a great trumpet, and they will gather his chosen from the four winds, from one end of heaven to the other.
+v30: Then the sign of the Son of Man will appear in heaven, and all the tribes of the earth will mourn. They will see the Son of Man coming on the clouds of heaven with power and great glory.
+v31: He will send his angels with a mighty trumpet, and they will gather his chosen from the four winds, from one end of heaven to the other.
 </p>
 
 ## The Fig Tree and This Generation
 
 <p>
-v32: “Learn the parable from the fig tree: as soon as its branch becomes tender and puts out leaves, you know that summer is near.
-v33: In the same way, when you see all these things, know that it is near, at the doors.
-v34: Truly I tell you, this generation will certainly not pass away until all these things happen.
-v35: Heaven and earth will pass away, but my words will certainly not pass away.
+v32: “Learn this lesson from the fig tree: when its branches grow tender and put out leaves, you know summer is near.
+v33: In the same way, when you see all these things, know that it is near, right at the door.
+v34: I tell you the truth: this generation will not pass away until all these things happen.
+v35: Heaven and earth will pass away, but my words will never pass away.
 </p>
 
 ## No One Knows the Day and Hour
 
 <p>
-v36: “But concerning that day and hour no one knows—not even the angels of heaven, nor the Son, but the Father alone.
-v37: For just as the days of Noah were, so will be the coming of the Son of Man.
-v38: In those days before the flood, people were eating and drinking, marrying and giving in marriage, until the day Noah entered the ark.
-v39: They did not know until the flood came and swept them all away. So also will be the coming of the Son of Man.
-v40: Then two will be in the field; one will be taken and one left.
-v41: Two women will be grinding at the mill; one will be taken and one left.
-v42: Therefore stay awake, because you do not know on what day your Lord is coming.
-v43: But understand this: if the owner of the house had known at what watch the thief was coming, he would have stayed awake and would not have allowed his house to be broken into.
-v44: Therefore you also must be ready, because the Son of Man is coming at an hour you do not expect.
+v36: “But no one knows that day or hour—not the angels in heaven, nor the Son, but only the Father.
+v37: As it was in the days of Noah, so it will be at the coming of the Son of Man.
+v38: In the days before the flood, people were eating and drinking, marrying and being given in marriage, until the day Noah entered the ark.
+v39: They knew nothing until the flood came and swept them all away. So it will be at the coming of the Son of Man.
+v40: Then two people will be in the field; one will be taken and the other left.
+v41: Two women will be grinding at the mill; one will be taken and the other left.
+v42: So stay awake, because you do not know what day your Lord will come.
+v43: Understand this: if the homeowner had known what time of night the thief was coming, he would have stayed awake and would not have let his house be broken into.
+v44: You too must be ready, because the Son of Man will come at an hour you do not expect.
 </p>
 
 ## The Faithful and Unfaithful Servants
 
 <p>
-v45: “Who then is the faithful and wise servant whom the master put over the household to give them food at the proper time?
-v46: Blessed is that servant whom the master finds doing so when he comes.
-v47: Truly I tell you, the master will put that servant over all his possessions.
-v48: But if that evil servant says in his heart, ‘My master is delayed,’
-v49: and begins to beat fellow servants and eat and drink with drunkards,
-v50: the master of that servant will come on a day when he does not expect and at an hour he does not know.
-v51: He will cut him in two and assign him a place with the hypocrites. There will be weeping and grinding of teeth.
+v45: “Who, then, is the faithful and wise servant whom the master has put in charge of his household to give them food at the proper time?
+v46: Blessed is that servant if his master finds him doing this when he returns.
+v47: I tell you the truth: he will put that servant in charge of everything he owns.
+v48: But suppose that wicked servant says to himself, ‘My master is taking a long time,’
+v49: and begins beating his fellow servants and eating and drinking with drunkards.
+v50: That servant’s master will come on a day he does not expect and at an hour he does not know.
+v51: He will cut him in two and give him a place with the hypocrites. There will be weeping and grinding of teeth.
 </p>
 
 ## Notes
 
-v03: Matthew explicitly joins the temple question with “your coming” (`parousia`) and “completion of the age,” making the discourse's temporal horizons complex from the start.
+v03: The questions join the temple’s destruction, Jesus’ coming, and the end of the age. The translation does not assign them a single timetable.
 
-v14: “Inhabited world” translates `oikoumenē`, often the known inhabited world/empire. The saying nevertheless pairs it with testimony to all nations.
+v15: “Abomination of desolation” echoes Daniel 9:27; 11:31; 12:11. The reader-directed aside is retained within the passage.
 
-v15: Matthew explicitly names Daniel, unlike Mark's shorter formulation.
+v28: The Greek bird name can denote eagles or vultures. The corpse setting supports “vultures”; the proverb’s precise application is left open.
 
-v20: The Sabbath detail is distinctive to Matthew and preserves the Judean setting rather than universalizing the flight instructions.
+v30: “The sign of the Son of Man” can be understood in several ways; the text does not identify a separate object. “Earth” can also mean “land.”
 
-v27: The coming of the Son of Man is pictured as public and unmistakable, countering secret-location claims in vv23–26.
+v33: The Greek can mean “it is near” or “he is near.”
 
-v28: The corpse/vulture proverb is deliberately cryptic. Fluent does not identify exactly what corpse or gathering Matthew intends.
+v34: The text says “this generation.” Its relation to the events described remains debated.
 
-v30: “Sign of the Son of Man” has several possible syntactic interpretations. The translation preserves Matthew's wording rather than identifying the sign with the Son himself or a separate object.
+v36: The pinned Greek includes “nor the Son”; some manuscripts omit these words.
 
-v36: SBLGNT includes “nor the Son.” Some manuscript traditions omit it in Matthew, likely under influence from theological or Synoptic concerns. Fluent follows the pinned text.
+v40–41: The sayings do not explicitly identify whether being taken or being left is the favorable outcome.
 
-v40–41: The text does not say whether being “taken” or “left” is the desirable outcome. The Noah comparison makes simplistic rapture assumptions unsafe; Fluent leaves both verbs unexpanded.
-
-v51: The violent idiom is retained in meaning. It describes severe judgment and should not be softened into ordinary dismissal.
+v51: The Greek literally describes cutting in two. The violent judgment image is retained.
 
 ## Vocabulary
 
-v03: παρουσία (parousia)
-“Coming, arrival, presence.”
+v03: **Coming**: Greek parousia: arrival or presence; here Jesus’ coming.
 
-v03: συντέλεια (synteleia)
-“Completion, consummation.”
+v14: **Inhabited world**: Greek oikoumenē: the inhabited world, sometimes viewed in terms of the known world or empire.
 
-v09: παραδίδωμι (paradidōmi)
-“To hand over.”
+v15: **Abomination of desolation**: A scriptural expression for a desecrating horror associated with devastation.
 
-v13: ὑπομένω (hypomenō)
-“To endure.”
+v22: **Chosen**: Greek eklektoi: those selected or chosen; also rendered “elect.”
 
-v15: βδέλυγμα ἐρημώσεως (bdelygma erēmōseōs)
-“Abomination of desolation.”
+v30: **Son of Man**: Jesus’ recurring self-designation; the cloud imagery echoes Daniel 7:13.
 
-v22: ἐκλεκτός (eklektos)
-“Chosen, elect.”
-
-v24: ψευδόχριστος (pseudochristos)
-“False christ.”
-
-v27: ἀστραπή (astrapē)
-“Lightning.”
-
-v36: ὥρα (hōra)
-“Hour, appointed time.”
-
-v42: γρηγορέω (grēgoreō)
-“To stay awake, watch.”
+v45: **Servant**: Greek doulos can mean an enslaved person. This household role should not be assumed to be modern paid employment.

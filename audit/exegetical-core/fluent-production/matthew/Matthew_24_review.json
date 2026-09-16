@@ -2,55 +2,178 @@
   "book": "Matthew",
   "chapter": 24,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "canonical_tsw_path": "books/NT/matthew/Matthew_24.md",
-  "canonical_tsw_sha": "d0f522b2db0f881b09202924c05498c5c88ceb4d",
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-matthew-24-28-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "cd51fb21efb0b9967dc4fc4ccd7e5fe2bc8f5781",
+    "path": "audit/exegetical-core/fluent-production/matthew/Matthew_24_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Matt.txt",
-    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+    "git_blob_sha": "d19efbdff018c2bde83ba0fc01e0d8cb399b496b",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Matt",
+    "book_verse_count": 1068,
+    "scope_chapters": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
   },
-  "chapter_focus": [
-    "temple/apocalyptic discourse",
-    "deception/endurance",
-    "Son of Man coming",
-    "watchfulness"
-  ],
-  "curated_f3": [
+  "chapter_binding": {
+    "chapter": 24,
+    "verse_count": 51,
+    "path": "translations/fluent/NT/matthew/Matthew_24.md",
+    "before_sha256": "326ef87176e4c2679540454d9e151b208623904c260a24ab098d2b90000a0257",
+    "after_sha256": "d88c051bdfae99d961068cf350c00215c1f0f53d8fe0f7a7f3214088dd37b5cb",
+    "tsw_comparator_path": "books/NT/matthew/Matthew_24.md",
+    "tsw_comparator_sha256": "a9a3897b83dc4ab153d416e181858299b618b81c126f4e0cf354a788ea4f49f2"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-matthew-24-28/matthew-verse-review.json",
+  "key_decisions": [
     {
-      "location": "3",
-      "decision": "parousia/completion horizons"
+      "reference": "Matthew 24:3",
+      "delta": "F3",
+      "rationale": "Separates the approach from two questions while retaining coming and age language.",
+      "source_reference": "Matt 24:3",
+      "source_verse_sha256": "a729556df11f5279491d534f1918ad8d5a7c620258360124c7e4732a599b6571",
+      "before": "As Jesus was sitting on the Mount of Olives, the disciples came to him privately and asked, “Tell us, when will these things happen, and what will be the sign of your coming and of the completion of the age?”",
+      "after": "As he sat on the Mount of Olives, the disciples came to him privately. “Tell us,” they said, “when will this happen? What will be the sign of your coming and the end of the age?”",
+      "tsw_comparator": "As he sat on the Mount of Olives, the disciples came to him privately, saying, “Tell us, when will these things be, and what will be the sign of your coming and of the end of the age?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.864865,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "15",
-      "decision": "Daniel abomination"
+      "reference": "Matthew 24:15",
+      "delta": "F3",
+      "rationale": "Retains the scriptural expression and narrator’s reader-directed aside.",
+      "source_reference": "Matt 24:15",
+      "source_verse_sha256": "c26344b1344a96af00caf50178d9126cd631a2f6d4791c084bc696eaa8ad18c8",
+      "before": "“Therefore, when you see the abomination of desolation spoken of through Daniel the prophet standing in the holy place—let the reader understand—",
+      "after": "“So when you see the abomination of desolation spoken of through the prophet Daniel standing in the holy place—let the reader understand—",
+      "tsw_comparator": "“So when you see the abomination of desolation spoken of by the prophet Daniel standing in the holy place—let the reader understand—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.956522,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "28",
-      "decision": "corpse/vultures saying open"
+      "reference": "Matthew 24:28",
+      "delta": "F3",
+      "rationale": "Retains the unexplained proverb and corpse rather than interpreting it.",
+      "source_reference": "Matt 24:28",
+      "source_verse_sha256": "7d6b2bf598acd1bdc2a7e8a7def55a397280c9edb0f8aedb814394199c7ac213",
+      "before": "Wherever the corpse is, there the vultures will gather.",
+      "after": "Wherever the corpse is, the vultures will gather.",
+      "tsw_comparator": "Wherever the corpse is, there the vultures will gather.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "30",
-      "decision": "sign of Son of Man syntax"
+      "reference": "Matthew 24:30",
+      "delta": "F3",
+      "rationale": "Retains the ambiguous sign phrase, tribal mourning, and cloud imagery.",
+      "source_reference": "Matt 24:30",
+      "source_verse_sha256": "d293416ad8f7c4f723856076d299679638d31f7d2cc2392132a013a559a2f983",
+      "before": "Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn. They will see the Son of Man coming on the clouds of heaven with power and great glory.",
+      "after": "Then the sign of the Son of Man will appear in heaven, and all the tribes of the earth will mourn. They will see the Son of Man coming on the clouds of heaven with power and great glory.",
+      "tsw_comparator": "Then will appear in heaven the sign of the Son of Man, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "36",
-      "decision": "nor the Son retained"
+      "reference": "Matthew 24:33",
+      "delta": "F3",
+      "rationale": "Keeps it/he ambiguity in a note rather than specifying an event in the text.",
+      "source_reference": "Matt 24:33",
+      "source_verse_sha256": "f5263beff2c1fee9419aaa4e1292342e15ebe9de96ed337b588743e505ed4ccb",
+      "before": "In the same way, when you see all these things, know that it is near, at the doors.",
+      "after": "In the same way, when you see all these things, know that it is near, right at the door.",
+      "tsw_comparator": "So also, when you see all these things, you know that he is near, at the very gates.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.648649,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "40",
-      "decision": "taken/left outcome not supplied"
+      "reference": "Matthew 24:34",
+      "delta": "F3",
+      "rationale": "Retains this generation without changing it to a future generation or people.",
+      "source_reference": "Matt 24:34",
+      "source_verse_sha256": "edcbe534d034a4800b9ea23187759ee01c353594a536c7bb67132f8b0add8b1b",
+      "before": "Truly I tell you, this generation will certainly not pass away until all these things happen.",
+      "after": "I tell you the truth: this generation will not pass away until all these things happen.",
+      "tsw_comparator": "Truly, I say to you, this generation will not pass away until all these things take place.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 24:36",
+      "delta": "F3",
+      "rationale": "Preserves nor the Son in the pinned Greek without theological adjustment.",
+      "source_reference": "Matt 24:36",
+      "source_verse_sha256": "0bd7307d214397c7e917ab539c94af7fbbcd2f040cc07bdb91823c834ed920b7",
+      "before": "“But concerning that day and hour no one knows—not even the angels of heaven, nor the Son, but the Father alone.",
+      "after": "“But no one knows that day or hour—not the angels in heaven, nor the Son, but only the Father.",
+      "tsw_comparator": "“But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 24:40",
+      "delta": "F3",
+      "rationale": "Supplies people for natural English without specifying their fate.",
+      "source_reference": "Matt 24:40",
+      "source_verse_sha256": "9754963a7fe8f802f7f83eca8273098a69ea42a10375c89bb32240617b8d78fc",
+      "before": "Then two will be in the field; one will be taken and one left.",
+      "after": "Then two people will be in the field; one will be taken and the other left.",
+      "tsw_comparator": "Then two men will be in the field; one will be taken and one left.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.83871,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 24:41",
+      "delta": "F3",
+      "rationale": "Retains the explicitly female workers and parallel taken/left wording.",
+      "source_reference": "Matt 24:41",
+      "source_verse_sha256": "36d7554ce41a39efdac536f3863c48d6ac6906b2e4505d9b9881054710d6c798",
+      "before": "Two women will be grinding at the mill; one will be taken and one left.",
+      "after": "Two women will be grinding at the mill; one will be taken and the other left.",
+      "tsw_comparator": "Two women will be grinding at the mill; one will be taken and one left.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.903226,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 24:51",
+      "delta": "F3",
+      "rationale": "Retains the violent judgment and recurring final image without softening it.",
+      "source_reference": "Matt 24:51",
+      "source_verse_sha256": "81873f99253a19ec50f0d53b927adb58a446328b602fa8ae0d465e5366c4c5b1",
+      "before": "He will cut him in two and assign him a place with the hypocrites. There will be weeping and grinding of teeth.",
+      "after": "He will cut him in two and give him a place with the hypocrites. There will be weeping and grinding of teeth.",
+      "tsw_comparator": "and will cut him in pieces and put him with the hypocrites. In that place there will be weeping and gnashing of teeth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711111,
+      "editorial_status": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
-  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
-  "verse_delta_summary": {
-    "F0": 4,
-    "F1": 17,
-    "F2": 24,
-    "F3": 6
-  }
+  ]
 }

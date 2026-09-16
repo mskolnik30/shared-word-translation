@@ -1,0 +1,55 @@
+{
+  "status": "PASSED",
+  "base_commit": "cd51fb21efb0b9967dc4fc4ccd7e5fe2bc8f5781",
+  "new_chapters": 8,
+  "new_verses": 366,
+  "cumulative_coverage": {
+    "ledgers": 108,
+    "chapters": 965,
+    "verses": 24428
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 106,
+    "chapters_byte_identical": 957,
+    "verses": 24062,
+    "tsw_and_companion_unchanged": true
+  },
+  "source_binding_audit": "PASSED both ledgers and all 366 source records",
+  "focused_authoring_reread": 64,
+  "source_reading": "All 366 Greek records read before authoring. Prior Fluent consulted after source reading for Matthew24–25; other chapters drafted before reading prior Fluent. TSW compared after authoring.",
+  "summaries": {
+    "matthew": {
+      "verses_drafted": 258,
+      "verses_with_changed_text": 240,
+      "delta_counts": {
+        "F2": 180,
+        "F3": 63,
+        "F0": 15
+      }
+    },
+    "mark": {
+      "verses_drafted": 108,
+      "verses_with_changed_text": 97,
+      "delta_counts": {
+        "F3": 22,
+        "F2": 77,
+        "F0": 9
+      }
+    }
+  },
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "block_progress": {
+    "scope": "Matthew 24–28; Mark 1–16; Luke 1–24; John 1–5",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 8,
+    "completed_scope": "Matthew 24–28; Mark 1–3",
+    "completed_verses": 366,
+    "remaining_scope": "Mark 4–16; Luke 1–24; John 1–5",
+    "remaining_chapters": 42,
+    "qualification": "Intermediate checkpoint, not a completed fifty-chapter block. Source and structural checks passed; independent editorial review and reader testing pending."
+  },
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false
+}

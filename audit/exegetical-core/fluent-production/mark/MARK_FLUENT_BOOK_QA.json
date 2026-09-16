@@ -1,8 +1,8 @@
 {
   "book": "Mark",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "READY_FOR_PR",
+  "status": "REVIEW_PENDING",
+  "publication_status": "REVIEW_PENDING",
   "chapter_count": 16,
   "public_verse_slots": 678,
   "included_verse_labels": 673,
@@ -107,5 +107,50 @@
   ],
   "source_file_sha256": "fe1b5a4c15db71e7e30f33fb67966ca93baffae377085ece0b88f66316729638",
   "source_bindings_file": "MARK_SOURCE_BINDINGS.json",
-  "verse_ledger_coverage": 673
+  "verse_ledger_coverage": 673,
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3
+  ],
+  "current_revision": {
+    "id": "fluent-mark-1-3-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3
+    ],
+    "verse_count": 108,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-mark-1-3/mark-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "cd51fb21efb0b9967dc4fc4ccd7e5fe2bc8f5781",
+      "path": "audit/exegetical-core/fluent-production/mark/MARK_FLUENT_BOOK_QA.json"
+    },
+    "note": "Earlier wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-mark-1-3-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 108,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-mark-1-3/mark-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "cd51fb21efb0b9967dc4fc4ccd7e5fe2bc8f5781",
+        "path": "audit/exegetical-core/fluent-production/mark/MARK_FLUENT_BOOK_QA.json"
+      },
+      "note": "Earlier wording approvals and Companion bindings do not transfer."
+    }
+  ],
+  "historical_publication_status_before_revision": "READY_FOR_PR"
 }

@@ -2,51 +2,204 @@
   "book": "Matthew",
   "chapter": 26,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "canonical_tsw_path": "books/NT/matthew/Matthew_26.md",
-  "canonical_tsw_sha": "2e6fdeeae89290d78d6b6ef65c08d7015f4394d5",
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-matthew-24-28-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "cd51fb21efb0b9967dc4fc4ccd7e5fe2bc8f5781",
+    "path": "audit/exegetical-core/fluent-production/matthew/Matthew_26_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Matt.txt",
-    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+    "git_blob_sha": "d19efbdff018c2bde83ba0fc01e0d8cb399b496b",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Matt",
+    "book_verse_count": 1068,
+    "scope_chapters": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
   },
-  "chapter_focus": [
-    "Passover/anointing",
-    "hand-over",
-    "covenant cup",
-    "Gethsemane/arrest/trial"
-  ],
-  "curated_f3": [
+  "chapter_binding": {
+    "chapter": 26,
+    "verse_count": 75,
+    "path": "translations/fluent/NT/matthew/Matthew_26.md",
+    "before_sha256": "be16f85eb49a24a77a379c7859a4ff4db581fbdf7c14a808dfab148289cd7bf8",
+    "after_sha256": "0c853447e30a65896891bd043021898dab0413af9f716b6203327288efb50e2c",
+    "tsw_comparator_path": "books/NT/matthew/Matthew_26.md",
+    "tsw_comparator_sha256": "738a60e5bfc70d6b6353456d0249e028a19b580d92d95807c6b5d638906e305b"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-matthew-24-28/matthew-verse-review.json",
+  "key_decisions": [
     {
-      "location": "15",
-      "decision": "thirty silver coins"
+      "reference": "Matthew 26:15",
+      "delta": "F3",
+      "rationale": "Retains the hand-over network, weighing, number, and metal.",
+      "source_reference": "Matt 26:15",
+      "source_verse_sha256": "1427f3106226a0f9d5a7e288fb41c5d914ab50c5ce5e6441500936ffe18a0dfb",
+      "before": "and said, “What are you willing to give me if I hand him over to you?” They paid him thirty silver coins.",
+      "after": "“What will you give me if I hand him over to you?” he asked. They weighed out thirty silver coins for him.",
+      "tsw_comparator": "and said, “What are you willing to give me if I hand him over to you?” And they weighed out for him thirty pieces of silver.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "28",
-      "decision": "blood covenant + forgiveness sins"
+      "reference": "Matthew 26:20",
+      "delta": "F3",
+      "rationale": "Keeps the meal posture and full group.",
+      "source_reference": "Matt 26:20",
+      "source_verse_sha256": "2bbb93a5a6a87ed155d7c2a26eda706f0d60ba6d1500ccb32136f75254c7fe70",
+      "before": "When evening came, he was reclining at the table with the twelve.",
+      "after": "When evening came, Jesus reclined at the table with the twelve disciples.",
+      "tsw_comparator": "When evening came, he was reclining at table with the twelve.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.695652,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "39",
-      "decision": "Gethsemane will/cup"
+      "reference": "Matthew 26:25",
+      "delta": "F3",
+      "rationale": "Retains Rabbi rather than harmonizing to Lord and leaves the indirect response intact.",
+      "source_reference": "Matt 26:25",
+      "source_verse_sha256": "eff28f0679ed874f2b220003dafc850ff69744ed8340c1247945b7af31a1ce97",
+      "before": "Judas, the one handing him over, answered, “Surely not I, Rabbi?” Jesus told him, “You said it.”",
+      "after": "Judas, who was handing him over, asked, “Surely not I, Rabbi?” Jesus said to him, “You have said it.”",
+      "tsw_comparator": "Judas, who was betraying him, answered, “Surely not I, Rabbi?” Jesus said to him, “You have said so.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "52",
-      "decision": "sword saying"
+      "reference": "Matthew 26:28",
+      "delta": "F3",
+      "rationale": "Retains Matthew’s forgiveness phrase and omits new absent from the pinned text.",
+      "source_reference": "Matt 26:28",
+      "source_verse_sha256": "dd6d9c16b87b9a7af4a09e38a0cac02a6b061641a2c8fb4fdfcaecb7d607befb",
+      "before": "because this is my blood of the covenant, poured out for many for the forgiveness of sins.",
+      "after": "“for this is my blood of the covenant, poured out for many for the forgiveness of sins.",
+      "tsw_comparator": "for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.944444,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "64",
-      "decision": "you said it + from now on Son of Man"
+      "reference": "Matthew 26:34",
+      "delta": "F3",
+      "rationale": "Preserves Matthew’s single rooster marker and three denials.",
+      "source_reference": "Matt 26:34",
+      "source_verse_sha256": "cdd58e600e0139112bf5ddb04e980a95d42350b3c80171232e160b384ac61c87",
+      "before": "Jesus told him, “Truly I tell you, this very night, before a rooster crows, you will deny me three times.”",
+      "after": "Jesus told him, “I tell you the truth: tonight, before a rooster crows, you will deny me three times.”",
+      "tsw_comparator": "Jesus said to him, “Truly I tell you: this very night, before the rooster crows, you will deny me three times.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 26:39",
+      "delta": "F3",
+      "rationale": "Retains the cup metaphor, bodily posture, and contrast of wills.",
+      "source_reference": "Matt 26:39",
+      "source_verse_sha256": "79575b6698f35fb599c22c1ccabd8790f1cf9e9a430f08a36abefcc74f0f7ce9",
+      "before": "Going a little farther, he fell facedown and prayed, “My Father, if it is possible, let this cup pass from me. Yet not as I want, but as you want.”",
+      "after": "Going a little farther, he fell facedown and prayed, “My Father, if it is possible, let this cup pass from me. Yet not as I will, but as you will.”",
+      "tsw_comparator": "And going on a little farther, he fell on his face and prayed, saying, “My Father, if it is possible, let this cup pass from me. Yet not as I will, but as you will.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.892308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 26:40",
+      "delta": "F3",
+      "rationale": "Keeps the address to Peter with the plural challenge to the group documented in apparatus.",
+      "source_reference": "Matt 26:40",
+      "source_verse_sha256": "a6fffc3f558a39599ffdda6d07e5756e3470b38c7f35d6a892f8aa4e1677fda1",
+      "before": "He came to the disciples and found them sleeping. He said to Peter, “So, could you not watch with me for one hour?",
+      "after": "He came back to the disciples and found them sleeping. He said to Peter, “Could you not keep watch with me for even one hour?",
+      "tsw_comparator": "And he came to the disciples and found them sleeping, and he said to Peter, “So, were you not able to keep watch with me for one hour?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.830189,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 26:45",
+      "delta": "F3",
+      "rationale": "Uses interrogative punctuation for the difficult opening, with the alternative retained in a note.",
+      "source_reference": "Matt 26:45",
+      "source_verse_sha256": "df4fe7aa853e9a22ac3f67924d206beb7e2d712790de6948894a9ab2ad008775",
+      "before": "Then he came to the disciples and said, “Are you still sleeping and resting? Look, the hour has drawn near, and the Son of Man is being handed over into sinners' hands.",
+      "after": "Then he came to the disciples and said, “Are you still sleeping and resting? Look, the hour has come. The Son of Man is being handed over into the hands of sinners.",
+      "tsw_comparator": "Then he came to the disciples and said to them, “Are you still sleeping and taking your rest? See, the hour has drawn near, and the Son of Man is handed over into the hands of sinners.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.811594,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 26:50",
+      "delta": "F3",
+      "rationale": "Renders the elliptical address as a command while recording its uncertainty in a note.",
+      "source_reference": "Matt 26:50",
+      "source_verse_sha256": "eb2f5075485f738ed376b032f24bb166e4943c399e7ded0b953b4e9215c83d2f",
+      "before": "Jesus said to him, “Friend, do what you came for.” Then they came, laid hands on Jesus, and arrested him.",
+      "after": "Jesus said to him, “Friend, do what you came for.” Then they stepped forward, seized Jesus, and arrested him.",
+      "tsw_comparator": "But Jesus said to him, “Friend, do what you have come for.” Then they came up and laid hands on Jesus and seized him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.651163,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 26:52",
+      "delta": "F3",
+      "rationale": "Preserves the repeated sword and warning without converting it into a modern policy statement.",
+      "source_reference": "Matt 26:52",
+      "source_verse_sha256": "617ff26af12dee9f1df2a56d4e0dc7ec54694da24b934bc58bfd06cdf3c55ce4",
+      "before": "Then Jesus said to him, “Put your sword back in its place, because all who take the sword will perish by the sword.",
+      "after": "Jesus said to him, “Put your sword back where it belongs. Everyone who takes up the sword will perish by the sword.",
+      "tsw_comparator": "Then Jesus said to him, “Return your sword to its place, for all who take the sword will perish by the sword.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 26:64",
+      "delta": "F3",
+      "rationale": "Retains indirect affirmation, Power as divine designation, and combined imagery.",
+      "source_reference": "Matt 26:64",
+      "source_verse_sha256": "ddcc62f107a2cd6764126d60b3f0d611bc2a0ff5f6407d2510ff49453fbd3f78",
+      "before": "Jesus said to him, “You said it. But I tell you, from now on you will see the Son of Man sitting at the right hand of Power and coming on the clouds of heaven.”",
+      "after": "Jesus answered, “You have said it. But I tell you, from now on you will see the Son of Man seated at the right hand of Power and coming on the clouds of heaven.”",
+      "tsw_comparator": "Jesus said to him, “You have said so. But I tell you: from now on you will see the Son of Man seated at the right hand of Power and coming on the clouds of heaven.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 26:74",
+      "delta": "F3",
+      "rationale": "Retains curses without specifying their unstated target and keeps immediate crowing.",
+      "source_reference": "Matt 26:74",
+      "source_verse_sha256": "31f268056c3f36d98f9452529a28b6021f8c5089384a662ee01ca72c4a422740",
+      "before": "Then he began to curse and swear, “I do not know the man!” Immediately a rooster crowed.",
+      "after": "Then he began to call down curses and swear, “I do not know the man!” Immediately a rooster crowed.",
+      "tsw_comparator": "Then he began to invoke a curse on himself and to swear, “I do not know the man!” And immediately a rooster crowed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
-  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
-  "verse_delta_summary": {
-    "F0": 0,
-    "F1": 25,
-    "F2": 45,
-    "F3": 5
-  }
+  ]
 }

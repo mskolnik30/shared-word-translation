@@ -2,59 +2,243 @@
   "book": "Matthew",
   "chapter": 27,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "canonical_tsw_path": "books/NT/matthew/Matthew_27.md",
-  "canonical_tsw_sha": "ce75cd1a13447f7791d829de02cf9de8eb9c39fd",
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-matthew-24-28-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "cd51fb21efb0b9967dc4fc4ccd7e5fe2bc8f5781",
+    "path": "audit/exegetical-core/fluent-production/matthew/Matthew_27_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Matt.txt",
-    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+    "git_blob_sha": "d19efbdff018c2bde83ba0fc01e0d8cb399b496b",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Matt",
+    "book_verse_count": 1068,
+    "scope_chapters": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
   },
-  "chapter_focus": [
-    "Judas regret",
-    "Jesus Barabbas",
-    "crucifixion",
-    "unique Matthew signs/guard"
-  ],
-  "curated_f3": [
+  "chapter_binding": {
+    "chapter": 27,
+    "verse_count": 66,
+    "path": "translations/fluent/NT/matthew/Matthew_27.md",
+    "before_sha256": "4f003712a236c251aaf1c86345037b4675a78b7551b8d17d99a2512d2b35f355",
+    "after_sha256": "686e15d88860690d2fb0be5f40c287c4de12a3a0aa738d28aa563cbfa3b18da5",
+    "tsw_comparator_path": "books/NT/matthew/Matthew_27.md",
+    "tsw_comparator_sha256": "cb138127604ad4b59aa81c52942393f890cb229c601a0ef00b1bd888085dc410"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-matthew-24-28/matthew-verse-review.json",
+  "key_decisions": [
     {
-      "location": "3",
-      "decision": "metamelomai regret vs repentance"
+      "reference": "Matthew 27:3",
+      "delta": "F3",
+      "rationale": "Keeps remorse tied to the condemnation without resolving later theological judgments about repentance.",
+      "source_reference": "Matt 27:3",
+      "source_verse_sha256": "9bd266da38630055ad9d9476f56476939c8f2aea8b17533350d2e0043a3ba715",
+      "before": "When Judas, the one who handed Jesus over, saw that Jesus had been condemned, he regretted what he had done and returned the thirty silver coins to the chief priests and elders,",
+      "after": "When Judas, who had handed him over, saw that Jesus was condemned, he was filled with remorse. He returned the thirty silver coins to the chief priests and elders.",
+      "tsw_comparator": "Then Judas, who betrayed him, saw that Jesus was condemned, and he regretted it and returned the thirty pieces of silver to the chief priests and the elders,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "9",
-      "decision": "Jeremiah attribution preserved"
+      "reference": "Matthew 27:9",
+      "delta": "F3",
+      "rationale": "Preserves the pinned attribution to Jeremiah and quoted price without silently correcting to Zechariah.",
+      "source_reference": "Matt 27:9",
+      "source_verse_sha256": "7f3057c7f4883eac5cb7465ab1e9cadfb9c30c7d0927e66457f595d6e577ab1f",
+      "before": "Then what was spoken through Jeremiah the prophet was fulfilled: “They took the thirty silver coins, the price of the one whose price had been set by some of the sons of Israel,",
+      "after": "Then what was spoken through the prophet Jeremiah was fulfilled: “They took the thirty silver coins, the price set on him by some of the people of Israel,",
+      "tsw_comparator": "Then was fulfilled what had been spoken through the prophet Jeremiah, saying, “And they took the thirty pieces of silver, the price of the one valued, whom some of the children of Israel valued,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.612903,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "16",
-      "decision": "Jesus Barabbas reading"
+      "reference": "Matthew 27:10",
+      "delta": "F3",
+      "rationale": "Retains the quotation’s first-person close and divine instruction.",
+      "source_reference": "Matt 27:10",
+      "source_verse_sha256": "4dc32292905643830af97756f00bdcc22d6f95617747fb08b48fe57114e4232c",
+      "before": "and they gave them for the potter's field, as the Lord directed me.”",
+      "after": "and gave them for the potter’s field, as the Lord directed me.”",
+      "tsw_comparator": "and they gave them for the potter’s field, as the Lord directed me.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "25",
-      "decision": "anti-Jewish misuse explicitly rejected in note"
+      "reference": "Matthew 27:16",
+      "delta": "F3",
+      "rationale": "Preserves Jesus in Barabbas’s name as printed in the pinned text.",
+      "source_reference": "Matt 27:16",
+      "source_verse_sha256": "029a0eba42e9de911e427a96d290a199f307c01b0a21d35f897490ff4bfb4c65",
+      "before": "At that time they had a notorious prisoner named Jesus Barabbas.",
+      "after": "At that time they had a notorious prisoner called Jesus Barabbas.",
+      "tsw_comparator": "At that time they had a notorious prisoner called Barabbas.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.952381,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "35",
-      "decision": "longer fulfillment expansion excluded"
+      "reference": "Matthew 27:17",
+      "delta": "F3",
+      "rationale": "Retains the deliberate contrast between the two names.",
+      "source_reference": "Matt 27:17",
+      "source_verse_sha256": "3dedc178fa40ebd261531fa60af320ce4e95c35e653cdc8ac0e12fcdd8c46787",
+      "before": "So when they had gathered, Pilate asked them, “Whom do you want me to release for you: Jesus Barabbas or Jesus who is called Christ?”",
+      "after": "So when the crowd gathered, Pilate asked, “Whom do you want me to release for you: Jesus Barabbas, or Jesus who is called the Christ?”",
+      "tsw_comparator": "So when they were gathered, Pilate said to them, “Whom do you want me to release for you—Barabbas, or Jesus who is called Christ?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "49",
-      "decision": "piercing-side variant excluded from main text"
+      "reference": "Matthew 27:24",
+      "delta": "F3",
+      "rationale": "Keeps Pilate’s claim as speech and preserves the repeated responsibility idiom.",
+      "source_reference": "Matt 27:24",
+      "source_verse_sha256": "8863e49a03a2f8e8dfc2caf0c6da66b0e01e1c8a1794e7bbe6dc216b2e879efd",
+      "before": "When Pilate saw that he was getting nowhere, but instead a riot was beginning, he took water, washed his hands before the crowd, and said, “I am innocent of this man's blood. You see to it.”",
+      "after": "Pilate saw that he was getting nowhere and that a riot was beginning. He took water and washed his hands in front of the crowd. “I am innocent of this blood,” he said. “That is your concern.”",
+      "tsw_comparator": "So when Pilate saw that he was gaining nothing, but rather that a riot was beginning, he took water and washed his hands before the crowd, saying, “I am innocent of this man’s blood; see to it yourselves.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "52",
-      "decision": "raised holy ones unique Matthew"
+      "reference": "Matthew 27:25",
+      "delta": "F3",
+      "rationale": "Retains the difficult words without expanding their speakers beyond this narrative scene.",
+      "source_reference": "Matt 27:25",
+      "source_verse_sha256": "8783fae77bf2a1f0af81c924e110b53153cd67aad048a776027fc46ea1c2057d",
+      "before": "All the people answered, “His blood be on us and on our children!”",
+      "after": "All the people answered, “His blood be on us and on our children!”",
+      "tsw_comparator": "And all the people answered, “His blood be on us and on our children!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.962963,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 27:26",
+      "delta": "F3",
+      "rationale": "Preserves Pilate’s agency in flogging and execution despite his preceding claim.",
+      "source_reference": "Matt 27:26",
+      "source_verse_sha256": "74b131a84f73711795cee603232de8aa1d11c7d81c1879cadc2229b79b9288b3",
+      "before": "Then Pilate released Barabbas for them. After having Jesus flogged, he handed him over to be crucified.",
+      "after": "Then he released Barabbas for them. After having Jesus flogged, he handed him over to be crucified.",
+      "tsw_comparator": "Then he released for them Barabbas, and having scourged Jesus, delivered him to be crucified.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 27:35",
+      "delta": "F3",
+      "rationale": "Preserves the casting of lots without inserting a source-absent fulfillment quotation.",
+      "source_reference": "Matt 27:35",
+      "source_verse_sha256": "d9338fd5020b8a2e76dc5f47e28259ba94e992eea7f6ee3e2f9d7c7b92b08805",
+      "before": "After crucifying him, they divided his clothes by casting lots.",
+      "after": "After crucifying him, they divided his clothes by casting lots.",
+      "tsw_comparator": "And when they had crucified him, they divided his garments among them by casting lots.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.56,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 27:45",
+      "delta": "F3",
+      "rationale": "Renders the sixth-to-ninth hours naturally while leaving land/earth range in a note.",
+      "source_reference": "Matt 27:45",
+      "source_verse_sha256": "336f7dbb4fb0b39b322439082afda2c18a9f7bb993d4b8988bf2a8a032b3988b",
+      "before": "From the sixth hour until the ninth hour, darkness came over all the land.",
+      "after": "From noon until three in the afternoon, darkness covered the whole land.",
+      "tsw_comparator": "Now from the sixth hour there was darkness over all the land until the ninth hour.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.214286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 27:46",
+      "delta": "F3",
+      "rationale": "Retains Matthew’s transliteration and quoted lament without explaining away abandonment.",
+      "source_reference": "Matt 27:46",
+      "source_verse_sha256": "bbca0e0b9223cbade52fcd356016fbf58f1028f1034b4fc9cd734c5de5eee2c0",
+      "before": "About the ninth hour Jesus cried out with a loud voice, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?”",
+      "after": "About three in the afternoon, Jesus cried out loudly, “Eli, Eli, lema sabachthani?” That means, “My God, my God, why have you forsaken me?”",
+      "tsw_comparator": "And about the ninth hour Jesus cried out with a loud voice, saying, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.730769,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 27:49",
+      "delta": "F3",
+      "rationale": "Keeps the waiting taunt without adding the spear variant absent from the pinned text.",
+      "source_reference": "Matt 27:49",
+      "source_verse_sha256": "68296c959ca80b119f9687519fb0528f4a3fd7946fc1a2537ee45eb8e68eb6e3",
+      "before": "But the others said, “Leave him alone. Let us see whether Elijah comes to save him.”",
+      "after": "The others said, “Leave him alone. Let us see whether Elijah comes to save him.”",
+      "tsw_comparator": "But the others said, “Wait, let us see whether Elijah will come to save him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.733333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 27:52",
+      "delta": "F3",
+      "rationale": "Retains bodies, holy people, sleep metaphor, and passive raising.",
+      "source_reference": "Matt 27:52",
+      "source_verse_sha256": "a6ee3252984fe39878e567268ddfc676b9ef26dd3cee256d37e59d0a786f4306",
+      "before": "The tombs were opened, and many bodies of the holy ones who had fallen asleep were raised.",
+      "after": "The tombs were opened, and many bodies of the holy people who had fallen asleep were raised.",
+      "tsw_comparator": "The tombs were opened, and many bodies of the saints who had fallen asleep were raised,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 27:53",
+      "delta": "F3",
+      "rationale": "Names Jesus to clarify whose resurrection sets the timing, without inventing subsequent events.",
+      "source_reference": "Matt 27:53",
+      "source_verse_sha256": "7f273688eda65412361489eabfc17031fbaf3f190c203eab193502b867ed4619",
+      "before": "After Jesus' resurrection, they came out of the tombs, entered the holy city, and appeared to many.",
+      "after": "After Jesus’ resurrection, they came out of the tombs, entered the holy city, and appeared to many.",
+      "tsw_comparator": "and coming out of the tombs after his resurrection they went into the holy city and appeared to many.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.611111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 27:65",
+      "delta": "F3",
+      "rationale": "Preserves the ambiguous have-a-guard wording; imperative alternative goes in a note.",
+      "source_reference": "Matt 27:65",
+      "source_verse_sha256": "6b029a53e6ceffb46ec14eb31a86f8267472042a89c01a84f160609e24b260d1",
+      "before": "Pilate told them, “You have a guard. Go, make it as secure as you know how.”",
+      "after": "Pilate told them, “You have a guard. Go and secure it as best you know how.”",
+      "tsw_comparator": "Pilate said to them, “You have a guard; go, make it as secure as you know how.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
-  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
-  "verse_delta_summary": {
-    "F0": 3,
-    "F1": 20,
-    "F2": 31,
-    "F3": 12
-  }
+  ]
 }

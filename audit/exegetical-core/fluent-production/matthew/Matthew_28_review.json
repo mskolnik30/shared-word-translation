@@ -2,47 +2,126 @@
   "book": "Matthew",
   "chapter": 28,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "canonical_tsw_path": "books/NT/matthew/Matthew_28.md",
-  "canonical_tsw_sha": "ae29e7bcfc952ccd998716d3e32f8c6a58b92088",
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-matthew-24-28-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "cd51fb21efb0b9967dc4fc4ccd7e5fe2bc8f5781",
+    "path": "audit/exegetical-core/fluent-production/matthew/Matthew_28_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Matt.txt",
-    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+    "git_blob_sha": "d19efbdff018c2bde83ba0fc01e0d8cb399b496b",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Matt",
+    "book_verse_count": 1068,
+    "scope_chapters": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
   },
-  "chapter_focus": [
-    "empty tomb",
-    "women witness",
-    "guard counter-story",
-    "Great Commission/Emmanuel"
-  ],
-  "curated_f3": [
+  "chapter_binding": {
+    "chapter": 28,
+    "verse_count": 20,
+    "path": "translations/fluent/NT/matthew/Matthew_28.md",
+    "before_sha256": "f5b431200d101680ca76a7d019997b4a1ab9993ed1bf7a820ba309c44856a182",
+    "after_sha256": "0657acf4e3bedad750b77f5d4ec20368fa987c546a3ffeefff6a99bfe0fa8314",
+    "tsw_comparator_path": "books/NT/matthew/Matthew_28.md",
+    "tsw_comparator_sha256": "2868dc2b824ff8092c1a0a056b86782fcb6b71add00febdca4af062d7a5c365c"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-matthew-24-28/matthew-verse-review.json",
+  "key_decisions": [
     {
-      "location": "15",
-      "decision": "intra-Jewish polemic not generalized"
+      "reference": "Matthew 28:1",
+      "delta": "F3",
+      "rationale": "Preserves Matthew’s two named visitors and stated purpose without importing spices.",
+      "source_reference": "Matt 28:1",
+      "source_verse_sha256": "e9e9bb4d9740ecf8da56cbeb07fd5630bcc4dc6faef86365bb3522548e98d390",
+      "before": "After the Sabbath, as the first day of the week was dawning, Mary Magdalene and the other Mary went to see the tomb.",
+      "after": "After the Sabbath, as the first day of the week was dawning, Mary Magdalene and the other Mary came to see the tomb.",
+      "tsw_comparator": "Now after the Sabbath, as the first day of the week began to dawn, Mary Magdalene and the other Mary went to see the tomb.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "17",
-      "decision": "some doubted/hesitated"
+      "reference": "Matthew 28:6",
+      "delta": "F3",
+      "rationale": "Preserves passive raised and the invitation to inspect the empty place.",
+      "source_reference": "Matt 28:6",
+      "source_verse_sha256": "974b18ed559fc7a3f9f3f964bf6699df72624a8ac9f953ef21909ec5c3032338",
+      "before": "He is not here, because he has been raised, just as he said. Come, see the place where he lay.",
+      "after": "He is not here; he has been raised, just as he said. Come and see the place where he lay.",
+      "tsw_comparator": "He is not here, for he has been raised, just as he said. Come, see the place where he lay.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.95,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "19",
-      "decision": "make disciples main imperative"
+      "reference": "Matthew 28:15",
+      "delta": "F3",
+      "rationale": "Preserves the narrator’s report without implying agreement by every Jewish person.",
+      "source_reference": "Matt 28:15",
+      "source_verse_sha256": "b5422b20d53973f2a2e20520ff3d7141bc0972dfbb55cfafdc64598709cfc1a7",
+      "before": "The soldiers took the money and did as they were instructed. And this story has been spread among Jews to this day.",
+      "after": "The soldiers took the money and did as they were instructed. This story has circulated among the Jews to this day.",
+      "tsw_comparator": "So they took the money and did as they were instructed. And this story has been spread among the Judeans to this day.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.772727,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "20",
-      "decision": "Emmanuel inclusion frame / completion of age"
+      "reference": "Matthew 28:17",
+      "delta": "F3",
+      "rationale": "Renders distazō as hesitation while retaining the tension alongside worship.",
+      "source_reference": "Matt 28:17",
+      "source_verse_sha256": "3e8c15028062247157a30a6b5a1f3e7f0ef14bd9af98519a3b018eb8ec16ffe1",
+      "before": "When they saw him, they bowed before him, but some doubted.",
+      "after": "When they saw him, they worshiped him, but some hesitated.",
+      "tsw_comparator": "And when they saw him, they worshiped him; but some doubted.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 28:19",
+      "delta": "F3",
+      "rationale": "Keeps disciple-making central, all nations, singular name, and the threefold baptismal expression.",
+      "source_reference": "Matt 28:19",
+      "source_verse_sha256": "5430fbc4bcf434b1beafc448467a804fa38ce1657546ba2db877f7c19d91224e",
+      "before": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+      "after": "So go and make disciples of all nations, baptizing them into the name of the Father and of the Son and of the Holy Spirit,",
+      "tsw_comparator": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.92,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Matthew 28:20",
+      "delta": "F3",
+      "rationale": "Preserves obedience-oriented teaching, continuing presence, and the age rather than the world’s destruction.",
+      "source_reference": "Matt 28:20",
+      "source_verse_sha256": "86fce9ef12419b50b2fade42d8fcc76e76116f991d87c4a37ab8c7efcbfdff30",
+      "before": "teaching them to keep everything I commanded you. And look—I am with you always, to the completion of the age.”",
+      "after": "and teaching them to keep everything I have commanded you. And remember, I am with you every day, to the end of the age.”",
+      "tsw_comparator": "teaching them to keep all that I have commanded you. And look—I am with you always, to the end of the age.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808511,
+      "editorial_status": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
-  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
-  "verse_delta_summary": {
-    "F0": 0,
-    "F1": 8,
-    "F2": 6,
-    "F3": 6
-  }
+  ]
 }
