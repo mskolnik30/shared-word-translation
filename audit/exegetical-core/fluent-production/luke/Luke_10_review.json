@@ -2,315 +2,553 @@
   "book": "Luke",
   "chapter": 10,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 42,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-9-11-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "332d656855e6687a7f2912b23ee35746f674495e",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_10_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 10:1",
-        "source_chapter": 10,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "5daa3749424499ed12ef3cad6f90324603ea56b899a1765ed97764227a415220"
-      },
-      "2": {
-        "source_ref": "Luke 10:2",
-        "source_chapter": 10,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "76c1312e1d7500b58349480b4bd3b9fbf8ac9036992e59f750f9d9197ee8045a"
-      },
-      "3": {
-        "source_ref": "Luke 10:3",
-        "source_chapter": 10,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "a556edac5ad4e98bcfc0ec225360fd9fdd809a14db0ba8cb7e67b44e8afcea6b"
-      },
-      "4": {
-        "source_ref": "Luke 10:4",
-        "source_chapter": 10,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "d52169461145fec9a994a119adc87b648b301b135acd1c972e3b0d8a9c7b078f"
-      },
-      "5": {
-        "source_ref": "Luke 10:5",
-        "source_chapter": 10,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "555247ba555e7ec503f25e727e5dd2ad504bf0b779d29cdf6c893c6f3660124c"
-      },
-      "6": {
-        "source_ref": "Luke 10:6",
-        "source_chapter": 10,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "b2a28d32b991411f82620d293cdfcaa272d05881f48a9df9663a6bf3ebeeae12"
-      },
-      "7": {
-        "source_ref": "Luke 10:7",
-        "source_chapter": 10,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "55de894c0d1b9fb96c2b0f72b5cfa06b6b60ee075fab1749db8118117ffa2842"
-      },
-      "8": {
-        "source_ref": "Luke 10:8",
-        "source_chapter": 10,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "cae19d5b4335367aa3a871d943ffe1335f6f98b2c1dc50dbdde199b72d10f221"
-      },
-      "9": {
-        "source_ref": "Luke 10:9",
-        "source_chapter": 10,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "d3741541153e160be0322d4f53efa77f8ff0d6dc0fac207165455bbe206d6528"
-      },
-      "10": {
-        "source_ref": "Luke 10:10",
-        "source_chapter": 10,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "b966bbd67a8c0b23b857b2518c99167c483b11b7261576c890b2f1163bad476c"
-      },
-      "11": {
-        "source_ref": "Luke 10:11",
-        "source_chapter": 10,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "10463036a421c52adb5d08d2c524f4ae0f40ce0c5fc78e9871f04dcfd515c501"
-      },
-      "12": {
-        "source_ref": "Luke 10:12",
-        "source_chapter": 10,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "e0f49e5f20cc80c426a00d36d4fc261be1b41f84415bc85e6cade65fa14d94a6"
-      },
-      "13": {
-        "source_ref": "Luke 10:13",
-        "source_chapter": 10,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "ac701f6cf880be0d843723cf0ca6a0c6c15d759d68e9447cdc4260447778b56e"
-      },
-      "14": {
-        "source_ref": "Luke 10:14",
-        "source_chapter": 10,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "c641057ac128388b5ecd92f3b2a6b00450826beb19acf590b033c1e0d7eb9655"
-      },
-      "15": {
-        "source_ref": "Luke 10:15",
-        "source_chapter": 10,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "0edd64eeb3407c10c5ec2305f0e3411c91d14f05887b5d2adaccfc8aa9709ce5"
-      },
-      "16": {
-        "source_ref": "Luke 10:16",
-        "source_chapter": 10,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "f7493890f13c2963f9a237fb2cacdd35250f7498df92f6f0f8f8812eb843af6c"
-      },
-      "17": {
-        "source_ref": "Luke 10:17",
-        "source_chapter": 10,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "fe8806366c9dfe4221ddac46722bb7cb62e42adf7a5c641f0572a0fbd748a0c2"
-      },
-      "18": {
-        "source_ref": "Luke 10:18",
-        "source_chapter": 10,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "a1881c2ed48796b90dfa77d75cc23dc82fd9430021b30691bf466b3f60448793"
-      },
-      "19": {
-        "source_ref": "Luke 10:19",
-        "source_chapter": 10,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "50d8ba3bcf12ad81947d8f3da95d88225e7778620acfe035a32864e9c4c818e5"
-      },
-      "20": {
-        "source_ref": "Luke 10:20",
-        "source_chapter": 10,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "ddd9d79b1def81e262e4d71d9b98b092c40e428db99052ee02aee37533108834"
-      },
-      "21": {
-        "source_ref": "Luke 10:21",
-        "source_chapter": 10,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "e54c96717a302d066a52c43cc07e527e4a96f017f7ac3380f8bbeb23b520596d"
-      },
-      "22": {
-        "source_ref": "Luke 10:22",
-        "source_chapter": 10,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "3d31f2785cdf60e1333b6e85c03fc48cbe3f37d38f7592906d40ad4b953bb8de"
-      },
-      "23": {
-        "source_ref": "Luke 10:23",
-        "source_chapter": 10,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "07e1e54c9c9bd7868646a610a7e15af9e04074b842a5c5613b33b6a644f9a528"
-      },
-      "24": {
-        "source_ref": "Luke 10:24",
-        "source_chapter": 10,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "0426d55415186b9a4fdcaddd19d6dc12d1b3a460aded922c2b53149ea97d6343"
-      },
-      "25": {
-        "source_ref": "Luke 10:25",
-        "source_chapter": 10,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "dbd7d341c40f4a54f1e645de9355f325fd2bcc5cd0088ff3ab9e875d9242354a"
-      },
-      "26": {
-        "source_ref": "Luke 10:26",
-        "source_chapter": 10,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "c366cb62bbe315ef3274bd2aa2927b580422ec2090ef613126385013323841d9"
-      },
-      "27": {
-        "source_ref": "Luke 10:27",
-        "source_chapter": 10,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "5e300ae424407ab196387b13617cd2c90679bdf92ac4702327d53a3de2821203"
-      },
-      "28": {
-        "source_ref": "Luke 10:28",
-        "source_chapter": 10,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "46935f5ab79bd69ceed464e18e4999ff7c56539772d466effb1cb2f1dae89e62"
-      },
-      "29": {
-        "source_ref": "Luke 10:29",
-        "source_chapter": 10,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "6a5b7464d577c1a90ddbc853669983efbd0ab89f1e423efa72abda72fa5c29d0"
-      },
-      "30": {
-        "source_ref": "Luke 10:30",
-        "source_chapter": 10,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "3389466076570b0c973e14682aca10a710768cfc553b15835655cc3fd204b2f6"
-      },
-      "31": {
-        "source_ref": "Luke 10:31",
-        "source_chapter": 10,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "893b655f6a39ce835c2d693cb366e22329fd1f3b6f4d8921d9fccdcdeb1024b5"
-      },
-      "32": {
-        "source_ref": "Luke 10:32",
-        "source_chapter": 10,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "0b4f0671bab6d6044144159e8b9f376ef604671ea57342564fec3234b7391212"
-      },
-      "33": {
-        "source_ref": "Luke 10:33",
-        "source_chapter": 10,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "34c56fba6bc77d84bc89cfdd84a244c14133b2ee79a57e47cbacdf48cb4814da"
-      },
-      "34": {
-        "source_ref": "Luke 10:34",
-        "source_chapter": 10,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "af174acb755c34056a2868e14d75ceabbf53232ba89cbb126e002edfd4cd4aba"
-      },
-      "35": {
-        "source_ref": "Luke 10:35",
-        "source_chapter": 10,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "513ba7e3988b1204e751ff12714fa88104af0d3bb85eb228cdb758fea847e7d6"
-      },
-      "36": {
-        "source_ref": "Luke 10:36",
-        "source_chapter": 10,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "40bf745aa4040ee71dec1d6486729596d275de34443709212ac9be64996eb89e"
-      },
-      "37": {
-        "source_ref": "Luke 10:37",
-        "source_chapter": 10,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "56cbb16d7a1420c713a03dace5da100a2b7e273f6e2ff9d2c01217159f9e4a75"
-      },
-      "38": {
-        "source_ref": "Luke 10:38",
-        "source_chapter": 10,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "c1a3f794952d04f7c21a942bd63d85cd2e4d22f37cc24f64effc389078d364dc"
-      },
-      "39": {
-        "source_ref": "Luke 10:39",
-        "source_chapter": 10,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "7cd5951c25520a86d53b7e8d338e046de3b04c4cc11dcf68d6ab8a4a1ea4b9b8"
-      },
-      "40": {
-        "source_ref": "Luke 10:40",
-        "source_chapter": 10,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "1ada177bb32c2ceb69296107dbe58aebe868ca82b1638b81217774c78171ac05"
-      },
-      "41": {
-        "source_ref": "Luke 10:41",
-        "source_chapter": 10,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "82ae6d0e4c2455396411c3a65356334d25dc590f1e5c0c4e6a600bdb40739a73"
-      },
-      "42": {
-        "source_ref": "Luke 10:42",
-        "source_chapter": 10,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "dfcf678bb41b9e555953ea6dc115df1f9f5e9deebb7e18edb47695b705aec4ca"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      9,
+      10,
+      11
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 10,
+    "verse_count": 42,
+    "path": "translations/fluent/NT/luke/Luke_10.md",
+    "before_sha256": "9fcc164b9fc5f460ccb99871fe4260fd92ef8b2b59d4fbbd6f1915c36366b34d",
+    "after_sha256": "b2e5ea09b80f36a72c09ca248547ef55b2c90e387db6ce38143fead24b3d81af",
+    "tsw_comparator_path": "books/NT/luke/Luke_10.md",
+    "tsw_comparator_sha256": "5420289b8b01558b5a85d130fe6d7d4b5d811f5f95b1f874adf2e90a0effa32c"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-9-11/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 10:1",
+      "delta": "F3",
+      "rationale": "Keeps the pinned number, paired sending, and preparation for Jesus’ own arrival.",
+      "source_reference": "Luke 10:1",
+      "source_verse_sha256": "c84a56e32b0ddd2d67528986fb6f9839c78aff4020fb848506524f4c84f35f8c",
+      "before": "After this, the Lord appointed seventy-two others and sent them ahead of him in pairs to every town and place where he himself was about to go.",
+      "after": "After this, the Lord appointed seventy-two others and sent them ahead of him in pairs to every town and place he was about to visit.",
+      "tsw_comparator": "After these things the Lord appointed seventy-two others and sent them ahead of him in pairs to every town and place where he himself was about to come.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.872727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:2",
+      "delta": "F3",
+      "rationale": "Preserves repetition of harvest and the strong sending verb.",
+      "source_reference": "Luke 10:2",
+      "source_verse_sha256": "50e9897c1f85cc2fa864caaf323142b5f0cbdd5f490bb4f44fa08985749dd90d",
+      "before": "He told them, “The harvest is plentiful, but the workers are few. Therefore ask the Lord of the harvest to send out workers into his harvest.",
+      "after": "He told them, “The harvest is plentiful, but the workers are few. Therefore ask the Lord of the harvest to send out workers into his harvest.",
+      "tsw_comparator": "And he said to them, “The harvest is abundant, but the laborers are few. Therefore ask the Lord of the harvest to send out laborers into his harvest.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.814815,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:3",
+      "delta": "F3",
+      "rationale": "Keeps the abrupt command and vulnerable animal image.",
+      "source_reference": "Luke 10:3",
+      "source_verse_sha256": "3991c7043593f8709cd59e5b379a64b90fb02c7f6a799b649b910cfd95aec9bc",
+      "before": "Go. Look—I am sending you like lambs among wolves.",
+      "after": "Go! I am sending you out like lambs among wolves.",
+      "tsw_comparator": "Go on your way. Look—I am sending you out like lambs among wolves.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:4",
+      "delta": "F3",
+      "rationale": "Retains all travel restrictions and urgency of avoiding road greetings.",
+      "source_reference": "Luke 10:4",
+      "source_verse_sha256": "06eceaf84067d7d6e577488ea1b513674f5b2fa632e79e63e0b92d3a729df506",
+      "before": "Carry no moneybag, traveling bag, or sandals, and greet no one along the road.",
+      "after": "Carry no moneybag, travel bag, or sandals, and greet no one along the road.",
+      "tsw_comparator": "Carry no purse, no bag, no sandals; and greet no one on the road.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:5",
+      "delta": "F3",
+      "rationale": "Keeps peace as spoken over the household.",
+      "source_reference": "Luke 10:5",
+      "source_verse_sha256": "4654c35c12fc7acf2c0f42f502674fdd79870eaaa1741b64b90219a17a893cda",
+      "before": "Whatever house you enter, first say, ‘Peace to this house.’",
+      "after": "Whenever you enter a house, first say, ‘Peace to this house.’",
+      "tsw_comparator": "Whatever house you enter, first say, ‘Peace to this house.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:6",
+      "delta": "F3",
+      "rationale": "Renders “son of peace” idiomatically while preserving the returning peace image.",
+      "source_reference": "Luke 10:6",
+      "source_verse_sha256": "708648bdf39c25d835ada0542c16d90bb84dbec7e983bb6304fcbac79f691376",
+      "before": "If a person of peace is there, your peace will rest on them; if not, it will return to you.",
+      "after": "If a person of peace is there, your peace will rest on them; if not, it will return to you.",
+      "tsw_comparator": "And if a child of peace is there, your peace will rest on them; but if not, it will return to you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.904762,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:7",
+      "delta": "F3",
+      "rationale": "Keeps household stability, hospitality, wages, and prohibition on upgrading lodging.",
+      "source_reference": "Luke 10:7",
+      "source_verse_sha256": "d5124da82e59e44c98eed921e8ac58aea24cf049f2f878891f446bc7b87d1138",
+      "before": "Stay in that same house, eating and drinking what they provide, because the worker deserves wages. Do not move from house to house.",
+      "after": "Stay in that same house, eating and drinking whatever they provide, because the worker deserves their wages. Do not move from house to house.",
+      "tsw_comparator": "Remain in that same house, eating and drinking what they provide, for the laborer deserves their wages. Do not move from house to house.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:9",
+      "delta": "F3",
+      "rationale": "Keeps healing and kingdom nearness directed to the same people.",
+      "source_reference": "Luke 10:9",
+      "source_verse_sha256": "4fd7dc3f5809606b298052df5efe5e111ba5e280a277c832cb6b22d034672b1f",
+      "before": "Heal the sick there and tell them, ‘God’s kingdom has come near to you.’",
+      "after": "Heal the sick there and tell them, ‘The kingdom of God has come near to you.’",
+      "tsw_comparator": "Heal the sick in it, and say to them, ‘The kingdom of God has come near to you.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:11",
+      "delta": "F3",
+      "rationale": "Keeps clinging dust, witness against the town, and unchanged kingdom nearness.",
+      "source_reference": "Luke 10:11",
+      "source_verse_sha256": "10beac6800bf25863706c1f8448cdde239ba8f0d455c1ed71cb2c9dbb34399fc",
+      "before": "‘Even the dust of your town that clings to our feet we wipe off against you. Yet know this: God’s kingdom has come near.’",
+      "after": "‘Even the dust from your town that clings to our feet we wipe off against you. Yet know this: the kingdom of God has come near.’",
+      "tsw_comparator": "‘Even the dust of your town that clings to our feet we wipe off against you. Yet know this: the kingdom of God has come near.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.961538,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:12",
+      "delta": "F3",
+      "rationale": "Retains future judgment and the Sodom comparison.",
+      "source_reference": "Luke 10:12",
+      "source_verse_sha256": "41b873705a60e1940587013b5da1241008d28512230d3b91d25387fbbff60bf2",
+      "before": "I tell you, it will be more bearable on that day for Sodom than for that town.",
+      "after": "I tell you, on that day it will be more bearable for Sodom than for that town.",
+      "tsw_comparator": "I tell you, it will be more bearable on that day for Sodom than for that town.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:13",
+      "delta": "F3",
+      "rationale": "Keeps all four place names, miraculous works, repentance, and bodily signs.",
+      "source_reference": "Luke 10:13",
+      "source_verse_sha256": "8ef4b13d5fb79dfa99ea240837d4f658b42691c14ca6d3f7068650d350688db4",
+      "before": "“Woe to you, Chorazin! Woe to you, Bethsaida! If the works of power done among you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.",
+      "after": "Woe to you, Chorazin! Woe to you, Bethsaida! If the miracles done among you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.",
+      "tsw_comparator": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:14",
+      "delta": "F3",
+      "rationale": "Preserves comparative judgment and direct plural address.",
+      "source_reference": "Luke 10:14",
+      "source_verse_sha256": "7fb1ac282d24fb6a9ab4a5ade38a61b7178cffd7362b3c985ebd58b275d61545",
+      "before": "But it will be more bearable in the judgment for Tyre and Sidon than for you.",
+      "after": "But at the judgment it will be more bearable for Tyre and Sidon than for you.",
+      "tsw_comparator": "But it will be more bearable in the judgment for Tyre and Sidon than for you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8125,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:15",
+      "delta": "F3",
+      "rationale": "Keeps the rhetorical question and heaven-Hades descent contrast.",
+      "source_reference": "Luke 10:15",
+      "source_verse_sha256": "372e58c54c20f8eaf7840ce10ca08cd85166d435ef95f9de43525c4e23a13ffb",
+      "before": "And you, Capernaum—will you be lifted up to heaven? You will be brought down to Hades.",
+      "after": "And you, Capernaum, will you be lifted up to heaven? You will be brought down to Hades.",
+      "tsw_comparator": "And you, Capernaum—will you be lifted up to heaven? You will be brought down to Hades.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:16",
+      "delta": "F3",
+      "rationale": "Preserves the linked chain of hearing and rejection.",
+      "source_reference": "Luke 10:16",
+      "source_verse_sha256": "aa6577094e519d6b541e5167e6876c820fe880a14e7ac4c2e64adb964daf186a",
+      "before": "Whoever listens to you listens to me. Whoever rejects you rejects me, and whoever rejects me rejects the one who sent me.”",
+      "after": "Whoever listens to you listens to me; whoever rejects you rejects me; and whoever rejects me rejects the one who sent me.”",
+      "tsw_comparator": "“Whoever listens to you listens to me, and whoever rejects you rejects me; and whoever rejects me rejects the one who sent me.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.977778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:17",
+      "delta": "F3",
+      "rationale": "Keeps the pinned number, joy, demons, and authority located in Jesus’ name.",
+      "source_reference": "Luke 10:17",
+      "source_verse_sha256": "6da3f23a33d309c3bbfdd7401d86c129347fe4bc3acf5f579dcf213a63720201",
+      "before": "The seventy-two returned with joy and said, “Lord, even the demons submit to us in your name!”",
+      "after": "The seventy-two returned with joy, saying, “Lord, even the demons submit to us in your name!”",
+      "tsw_comparator": "The seventy-two returned with joy, saying, “Lord, even the demons submit to us in your name!”",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:18",
+      "delta": "F3",
+      "rationale": "Retains Jesus as witness and the vivid fall comparison.",
+      "source_reference": "Luke 10:18",
+      "source_verse_sha256": "881257da326c45508eec7a618fb831e76a4d3673a0a4c650ff53762d04910477",
+      "before": "He said to them, “I was watching Satan fall like lightning from heaven.",
+      "after": "He said to them, “I watched Satan fall from heaven like lightning.",
+      "tsw_comparator": "And he said to them, “I watched Satan fall like lightning from heaven.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:19",
+      "delta": "F3",
+      "rationale": "Keeps authority, dangerous creatures, enemy power, and emphatic protection.",
+      "source_reference": "Luke 10:19",
+      "source_verse_sha256": "6d0ccea6c7e735a52eeec431e996b4415aa5ecd76bbf29d5e5a25e07ab8f7e5f",
+      "before": "Look—I have given you authority to tread on snakes and scorpions and over all the power of the enemy, and nothing will harm you.",
+      "after": "Look, I have given you authority to tread on snakes and scorpions and over all the power of the enemy. Nothing will ever harm you.",
+      "tsw_comparator": "Look—I have given you authority to tread on snakes and scorpions, and over all the power of the enemy; and nothing will harm you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:20",
+      "delta": "F3",
+      "rationale": "Preserves the correction from exercised power to heavenly belonging.",
+      "source_reference": "Luke 10:20",
+      "source_verse_sha256": "328bdb49381d728ea8f4323b72ba6bcad4730d3d0863ee7cabd29a852c0bc435",
+      "before": "Nevertheless, do not rejoice that the spirits submit to you. Rejoice that your names are written in heaven.”",
+      "after": "Nevertheless, do not rejoice that the spirits submit to you; rejoice that your names are written in heaven.”",
+      "tsw_comparator": "Nevertheless, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.972973,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:21",
+      "delta": "F3",
+      "rationale": "Keeps Spirit, praise, divine hiding and revealing, infants, and gracious will.",
+      "source_reference": "Luke 10:21",
+      "source_verse_sha256": "775f04dfb1c101e03e2e616629ae8390c2e079a932f4c4a87a60a105b65c4bde",
+      "before": "In that same hour Jesus rejoiced in the Holy Spirit and said, “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and understanding and revealed them to little children. Yes, Father, because this was pleasing before you.",
+      "after": "At that very hour Jesus rejoiced in the Holy Spirit and said, “I praise you, Father, Lord of heaven and earth, because you hid these things from the wise and intelligent and revealed them to infants. Yes, Father, because this was your gracious will.",
+      "tsw_comparator": "In that same hour he rejoiced in the Holy Spirit and said, “I thank you, Father, Lord of heaven and earth, because you have hidden these things from the wise and understanding and revealed them to infants. Yes, Father, for so it was pleasing in your sight.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.747253,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:22",
+      "delta": "F3",
+      "rationale": "Preserves mutual knowledge, handing over, and the Son’s chosen revelation.",
+      "source_reference": "Luke 10:22",
+      "source_verse_sha256": "44a8939ad3a8aad5753aeb89d6e415ada10587d911f1ea16bc9fa56e9cfdbb17",
+      "before": "Everything has been handed over to me by my Father. No one knows who the Son is except the Father, or who the Father is except the Son and anyone to whom the Son chooses to reveal him.”",
+      "after": "Everything has been handed over to me by my Father. No one knows who the Son is except the Father, or who the Father is except the Son and anyone to whom the Son chooses to reveal him.”",
+      "tsw_comparator": "All things have been handed over to me by my Father; and no one knows who the Son is except the Father, or who the Father is except the Son and anyone to whom the Son chooses to reveal him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:23",
+      "delta": "F3",
+      "rationale": "Keeps the private turn and blessing of their seeing.",
+      "source_reference": "Luke 10:23",
+      "source_verse_sha256": "b881c52cb6d84094feb86a2aaa2578f8af935178b1896de88ec07cead5e05b3c",
+      "before": "Turning privately to the disciples, he said, “Blessed are the eyes that see what you see.",
+      "after": "Then Jesus turned privately to the disciples and said, “Blessed are the eyes that see what you see.",
+      "tsw_comparator": "Then, turning to the disciples, he said privately, “Blessed are the eyes that see what you see.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:24",
+      "delta": "F3",
+      "rationale": "Retains prophets and kings and the paired longing to see and hear.",
+      "source_reference": "Luke 10:24",
+      "source_verse_sha256": "0ae297b04f33a1b53d9fc6221005d859b206255e51b48f4310998abf5cb6ac70",
+      "before": "For I tell you, many prophets and kings wanted to see what you see but did not see it, and to hear what you hear but did not hear it.”",
+      "after": "For I tell you, many prophets and kings wanted to see what you see but did not see it, and to hear what you hear but did not hear it.”",
+      "tsw_comparator": "For I tell you that many prophets and kings desired to see what you see, but did not see it, and to hear what you hear, but did not hear it.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.95082,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:25",
+      "delta": "F3",
+      "rationale": "Keeps the testing motive, title, action question, and inheritance language.",
+      "source_reference": "Luke 10:25",
+      "source_verse_sha256": "7642222a7c95edad1f6012ac71a3f609ee587406fae31db77220060611b73c5b",
+      "before": "Look—an expert in the Law stood up to test Jesus. “Teacher,” he said, “what must I do to inherit eternal life?”",
+      "after": "An expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?”",
+      "tsw_comparator": "And look—a lawyer stood up to test him, saying, “Teacher, what must I do to inherit eternal life?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.65,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:27",
+      "delta": "F3",
+      "rationale": "Keeps all four human dimensions and the neighbor command.",
+      "source_reference": "Luke 10:27",
+      "source_verse_sha256": "dfe04936f0585c6c59106725c800328ff9c3e9a2f1f1c0ddb05b178128301c78",
+      "before": "He answered, “You shall love the Lord your God with all your heart, with all your life, with all your strength, and with all your mind; and your neighbor as yourself.”",
+      "after": "He answered, “‘Love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind,’ and ‘your neighbor as yourself.’”",
+      "tsw_comparator": "He answered, “You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.935484,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:28",
+      "delta": "F3",
+      "rationale": "Retains approval and the command’s life consequence.",
+      "source_reference": "Luke 10:28",
+      "source_verse_sha256": "895f6c6c782c155cf5ec7b14c11a8446fff44d5ff4aedb3880b5e6e93e54a373",
+      "before": "Jesus said, “You have answered correctly. Do this, and you will live.”",
+      "after": "Jesus told him, “You have answered correctly. Do this, and you will live.”",
+      "tsw_comparator": "And he said to him, “You have answered rightly; do this, and you will live.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:29",
+      "delta": "F3",
+      "rationale": "Keeps his self-justifying motive and limiting question.",
+      "source_reference": "Luke 10:29",
+      "source_verse_sha256": "0bbefee5596b2c6c5ef5854f6a9dd5453b660400da4709048ac028d14ad18e37",
+      "before": "But wanting to justify himself, the man asked Jesus, “And who is my neighbor?”",
+      "after": "But wanting to justify himself, he asked Jesus, “And who is my neighbor?”",
+      "tsw_comparator": "But wanting to justify himself, he said to Jesus, “And who is my neighbor?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:30",
+      "delta": "F3",
+      "rationale": "Preserves geography and every stage of the violent attack.",
+      "source_reference": "Luke 10:30",
+      "source_verse_sha256": "05ddcb834709c28d83e488cd05071b7705652f89aa7fc9a7ff8f6d355e6198e3",
+      "before": "Jesus replied, “A man was going down from Jerusalem to Jericho and fell among robbers. They stripped him, beat him, and went away, leaving him half dead.",
+      "after": "Jesus replied, “A man was going down from Jerusalem to Jericho when he fell into the hands of robbers. They stripped him, beat him, and went away, leaving him half dead.",
+      "tsw_comparator": "Jesus replied and said, “A man was going down from Jerusalem to Jericho, and he fell among robbers, who stripped him and beat him and went away, leaving him half-dead.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.806452,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:31",
+      "delta": "F3",
+      "rationale": "Keeps chance, priestly identity, sight, and deliberate avoidance.",
+      "source_reference": "Luke 10:31",
+      "source_verse_sha256": "599569c20033c8ee6a0199610c25ce215a628d9a40f7a022b3569bd0339bc32c",
+      "before": "By chance a priest was going down that road. When he saw the man, he passed by on the other side.",
+      "after": "By chance a priest was going down that road. When he saw the man, he passed by on the other side.",
+      "tsw_comparator": "Now by chance a priest was going down that road, and when he saw him, he passed by on the other side.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:32",
+      "delta": "F3",
+      "rationale": "Preserves parallel seeing and avoidance.",
+      "source_reference": "Luke 10:32",
+      "source_verse_sha256": "ee2b2be77c44b3edd4b1f6ae136ce69b290772eda09e97a87fc4d146921eb5f4",
+      "before": "In the same way, a Levite came to the place, saw him, and passed by on the other side.",
+      "after": "In the same way, a Levite came to the place, saw him, and passed by on the other side.",
+      "tsw_comparator": "Likewise a Levite also, when he came to the place and saw him, passed by on the other side.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:33",
+      "delta": "F3",
+      "rationale": "Retains Samaritan identity and compassion arising upon sight.",
+      "source_reference": "Luke 10:33",
+      "source_verse_sha256": "bdb87997a98ef1d386188122d675b79f07fad10adf7d7459c08c6abb0e726bba",
+      "before": "But a Samaritan traveling along came to him. When he saw the man, he was moved with compassion.",
+      "after": "But a Samaritan traveling that way came to him, saw him, and was moved with compassion.",
+      "tsw_comparator": "But a Samaritan, as he journeyed, came to where he was; and when he saw him, he was moved with compassion.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.594595,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:34",
+      "delta": "F3",
+      "rationale": "Keeps concrete treatment, personal transport, inn, and continuing care.",
+      "source_reference": "Luke 10:34",
+      "source_verse_sha256": "52d9ebbad511451f00f90edc85c0bb92aea803e608708999c50528ae2fdf34cf",
+      "before": "He went to him, bandaged his wounds, and poured on oil and wine. Then he put him on his own animal, brought him to an inn, and took care of him.",
+      "after": "He went to him, bandaged his wounds, and poured on oil and wine. Then he put him on his own animal, brought him to an inn, and cared for him.",
+      "tsw_comparator": "He went to him and bound up his wounds, pouring on oil and wine. Then he set him on his own animal and brought him to an inn and took care of him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:35",
+      "delta": "F3",
+      "rationale": "Preserves exact amount, innkeeper, open-ended cost, and promised return.",
+      "source_reference": "Luke 10:35",
+      "source_verse_sha256": "31adbe20df6fc1d207f1641f3af304a7e61d3d41d2178211bf20794b0a875303",
+      "before": "The next day he took out two denarii, gave them to the innkeeper, and said, ‘Take care of him, and whatever more you spend, I will repay you when I return.’",
+      "after": "The next day he took out two denarii, gave them to the innkeeper, and said, ‘Take care of him. Whatever more you spend, I will repay you when I return.’",
+      "tsw_comparator": "And the next day he took out two denarii and gave them to the innkeeper and said, ‘Take care of him, and whatever you spend beyond this, I will repay you when I return.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.90625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:36",
+      "delta": "F3",
+      "rationale": "Keeps Jesus’ reversal from defining neighbor to becoming one.",
+      "source_reference": "Luke 10:36",
+      "source_verse_sha256": "42231a75ce97e727270e144538d204d19b4171704f6c54c55bda8d71e4b9363e",
+      "before": "Which of these three do you think became a neighbor to the man who fell among robbers?”",
+      "after": "Which of these three do you think became a neighbor to the man who fell among the robbers?”",
+      "tsw_comparator": "Which of these three, do you think, proved to be a neighbor to the man who fell among robbers?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.864865,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:37",
+      "delta": "F3",
+      "rationale": "Retains the lawyer’s indirect identification and Jesus’ practical command.",
+      "source_reference": "Luke 10:37",
+      "source_verse_sha256": "ae6115a3aae82c2b3b659f5f77e188658cb6d534893f258c63d45f0a34ae535c",
+      "before": "He said, “The one who showed him mercy.” Jesus said to him, “Go and do the same.”",
+      "after": "The expert said, “The one who showed him mercy.” Jesus told him, “Go and do likewise.”",
+      "tsw_comparator": "He said, “The one who showed mercy to him.” And Jesus said to him, “Go, and do likewise.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:38",
+      "delta": "F3",
+      "rationale": "Keeps travel, unnamed village, Martha’s name, agency, and hospitality.",
+      "source_reference": "Luke 10:38",
+      "source_verse_sha256": "d842356932d4dcb130d320d90f8da607a9c1d2c6668460c9e4a02549d4ff9b9c",
+      "before": "As they continued on their way, Jesus entered a village. A woman named Martha welcomed him into her house.",
+      "after": "As they continued on their way, Jesus entered a village. A woman named Martha welcomed him into her home.",
+      "tsw_comparator": "Now as they went on their way, he entered a village, and a woman named Martha welcomed him into her house.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:39",
+      "delta": "F3",
+      "rationale": "Preserves Mary’s learner posture and sustained listening.",
+      "source_reference": "Luke 10:39",
+      "source_verse_sha256": "4e8ca22e44359beb11f47008d5d6d3c1ea17f06e20828fa738f2fa204ea713c6",
+      "before": "She had a sister called Mary, who sat at the Lord’s feet and listened to his word.",
+      "after": "She had a sister named Mary, who sat at the Lord’s feet and listened to his word.",
+      "tsw_comparator": "And she had a sister called Mary, who sat at the Lord’s feet and listened to his word.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:40",
+      "delta": "F3",
+      "rationale": "Keeps the burden of service, Martha’s complaint, and direct request without belittling her work.",
+      "source_reference": "Luke 10:40",
+      "source_verse_sha256": "8da8ca190661b681f7fb8b9f5db576851749e672f4418ca9b2545875bb9baa63",
+      "before": "But Martha was distracted by much serving. She came to Jesus and said, “Lord, do you not care that my sister has left me to serve alone? Tell her to help me.”",
+      "after": "But Martha was distracted by her many tasks. She came to Jesus and said, “Lord, do you not care that my sister has left me to serve alone? Tell her to help me.”",
+      "tsw_comparator": "But Martha was distracted by much serving; and she came up and said, “Lord, do you not care that my sister has left me to serve alone? Tell her then to help me.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.848485,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:41",
+      "delta": "F3",
+      "rationale": "Retains doubled name, care, agitation, and many concerns.",
+      "source_reference": "Luke 10:41",
+      "source_verse_sha256": "6978b12bf95046c34ca94dcbac1ae2e9070112d6902d48b25c15a46b3ae37dee",
+      "before": "The Lord answered, “Martha, Martha, you are anxious and troubled about many things,",
+      "after": "The Lord answered her, “Martha, Martha, you are worried and troubled about many things,",
+      "tsw_comparator": "But the Lord answered her, “Martha, Martha, you are anxious and troubled about many things;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.896552,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 10:42",
+      "delta": "F3",
+      "rationale": "Preserves the difficult “few or one” wording and Mary’s protected choice.",
+      "source_reference": "Luke 10:42",
+      "source_verse_sha256": "3af9a63c342847731d685747a1ca7a8c39c03a9843bde21a3a328a06cb1b5be6",
+      "before": "but one thing is necessary. Mary has chosen the good portion, and it will not be taken away from her.”",
+      "after": "but few things are needed—or only one. Mary has chosen the good portion, and it will not be taken away from her.”",
+      "tsw_comparator": "but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_10.md",
-    "blob_sha": "8116c8099691f91b7e39ebffc7a13ca9efe6246e"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

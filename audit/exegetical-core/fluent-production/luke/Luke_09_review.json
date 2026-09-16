@@ -2,455 +2,670 @@
   "book": "Luke",
   "chapter": 9,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 62,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-9-11-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "332d656855e6687a7f2912b23ee35746f674495e",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_09_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 9:1",
-        "source_chapter": 9,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "85bf4676cc7ebde04576de89593abe6ae3a17999df805ee8730fe2000829ea7d"
-      },
-      "2": {
-        "source_ref": "Luke 9:2",
-        "source_chapter": 9,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "4a8b94c199903015ce87f753828fa4f6870156d25a3f2cb4f7d962fc40b783fe"
-      },
-      "3": {
-        "source_ref": "Luke 9:3",
-        "source_chapter": 9,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "4c0ed25044bcb5d0ce36800d4cc5dee6f70209325c38ad36ea2858de9fd8eb72"
-      },
-      "4": {
-        "source_ref": "Luke 9:4",
-        "source_chapter": 9,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "78c79f7721f0a61b2277f243aa46cbe9750929503bab13c839e34cf73f2b3b45"
-      },
-      "5": {
-        "source_ref": "Luke 9:5",
-        "source_chapter": 9,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "a6f1fa39186502f17b2f1c1c74994eaba1330b90a75f9baeaa493edd36f5cf04"
-      },
-      "6": {
-        "source_ref": "Luke 9:6",
-        "source_chapter": 9,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "14989739420b6f096d039d3b28353482ff390e47fa5799f177eb741b6e8e7fd0"
-      },
-      "7": {
-        "source_ref": "Luke 9:7",
-        "source_chapter": 9,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "83a9e2d3e0e6c5091eba50a76574085d7ed3dc5ab4a2f38f17224ec33cc1aa54"
-      },
-      "8": {
-        "source_ref": "Luke 9:8",
-        "source_chapter": 9,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "c9dafe8e15160d17182088c5c89911315cb9ef2d872924c4135c79ce871ccb4c"
-      },
-      "9": {
-        "source_ref": "Luke 9:9",
-        "source_chapter": 9,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "46b8c4c0c7b257c8157ee7a0ab5e657a02361fb080decd8f87599b3518788ffc"
-      },
-      "10": {
-        "source_ref": "Luke 9:10",
-        "source_chapter": 9,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "9ca7f6678eea5fdbb0a9e71d105ac229ae3d6b9fcb32143dbd50399329e19737"
-      },
-      "11": {
-        "source_ref": "Luke 9:11",
-        "source_chapter": 9,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "3fcd3da96914861e823488bc3da49a1ffa672e44d8c731aee1d133549dfec5df"
-      },
-      "12": {
-        "source_ref": "Luke 9:12",
-        "source_chapter": 9,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "932cdb6063efe7e9135f278609a575ca7d48d87a18f1efaa0e4eba5662914858"
-      },
-      "13": {
-        "source_ref": "Luke 9:13",
-        "source_chapter": 9,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "057b345ab03492b55d351c7ba1de6606bdf35cf88146ce675a9e70c67f8d7ff0"
-      },
-      "14": {
-        "source_ref": "Luke 9:14",
-        "source_chapter": 9,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "d388f78f5cd7d5b572deff03949eb48feb7512263b71c6de5806f21d18690abe"
-      },
-      "15": {
-        "source_ref": "Luke 9:15",
-        "source_chapter": 9,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "63ce30d0d1a810c5a652b2b79495f9afc6b066b95f40d401f30298a31748ac67"
-      },
-      "16": {
-        "source_ref": "Luke 9:16",
-        "source_chapter": 9,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "74622560759bde9fa6f65ca04f6789bd96d669181abd3343cbf66ab1947d2473"
-      },
-      "17": {
-        "source_ref": "Luke 9:17",
-        "source_chapter": 9,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "b45b443006b8ec2c1636bd8dcdb3c460d17626c6309621190924ab2aff3b2293"
-      },
-      "18": {
-        "source_ref": "Luke 9:18",
-        "source_chapter": 9,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "0275e7e8a7101a0fa799feef00677cf0fc3a70d3af953bf2e25555bbe35a4de8"
-      },
-      "19": {
-        "source_ref": "Luke 9:19",
-        "source_chapter": 9,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "e034968658c61e6b483b5290e5eca8386f766e8f75138b06a524fb01e24e07f2"
-      },
-      "20": {
-        "source_ref": "Luke 9:20",
-        "source_chapter": 9,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "55a65d5588ad636af5db0b30f3c14144da81492e2b949908660d23669761c561"
-      },
-      "21": {
-        "source_ref": "Luke 9:21",
-        "source_chapter": 9,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "a01bf3d79a401a1d068ef30725b1abf6783da69fb385e5aa62c5cf6f396bd0bb"
-      },
-      "22": {
-        "source_ref": "Luke 9:22",
-        "source_chapter": 9,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "ce817acc992c772d1458065b80edc97cac7f25daece46cb6eeccc3af9f65752b"
-      },
-      "23": {
-        "source_ref": "Luke 9:23",
-        "source_chapter": 9,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "eeab0f93ad05bd77968f1f6bb60b1577594f5c55acd91082bc0df36b842d2b3e"
-      },
-      "24": {
-        "source_ref": "Luke 9:24",
-        "source_chapter": 9,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "97cf41f899267f34453e985c9586f6c098ecce138f337903c307840698cc1a85"
-      },
-      "25": {
-        "source_ref": "Luke 9:25",
-        "source_chapter": 9,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "e1247a0cbabcae9b5133b2b886ed106bda441c9a49a1ad13c53b020a23bf08d2"
-      },
-      "26": {
-        "source_ref": "Luke 9:26",
-        "source_chapter": 9,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "6e80e7d85f310407214b4c6459ce5a1da6e1f7e5701af0c1f9e2465bdaf2ea53"
-      },
-      "27": {
-        "source_ref": "Luke 9:27",
-        "source_chapter": 9,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "7b1e6a82910abc41bd87a98f4bc8ea2ea68589018f9c9837b1d75301a3213f54"
-      },
-      "28": {
-        "source_ref": "Luke 9:28",
-        "source_chapter": 9,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "78d56b98653302192f1ca180db679b35fce028c95c41c953c9995e96909a4b6f"
-      },
-      "29": {
-        "source_ref": "Luke 9:29",
-        "source_chapter": 9,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "fc5fb4d07346b1fd783ea12e9c7d289b99a0ab4aa5d402614b677addafa7518a"
-      },
-      "30": {
-        "source_ref": "Luke 9:30",
-        "source_chapter": 9,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "1e7a5689729b49630e8c21468677b2bf6dbdf683ac33341fe89105a03151f09d"
-      },
-      "31": {
-        "source_ref": "Luke 9:31",
-        "source_chapter": 9,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "ddc64a5df5572494ef5541c92ab0c18116d43c7d3dda8007366b06de327327b2"
-      },
-      "32": {
-        "source_ref": "Luke 9:32",
-        "source_chapter": 9,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "7046534207c4d851c46a00dc9d3475940342e71730b67ba61efa407945bc7c3a"
-      },
-      "33": {
-        "source_ref": "Luke 9:33",
-        "source_chapter": 9,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "ad406455e41bd6ab726410e2ddafb1c82ef9b751355ff76aef7730eedfbccceb"
-      },
-      "34": {
-        "source_ref": "Luke 9:34",
-        "source_chapter": 9,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "6e1362a7be42220781838cc60c2fa7dd2de95108fd9d61664cb826c2385aba73"
-      },
-      "35": {
-        "source_ref": "Luke 9:35",
-        "source_chapter": 9,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "77f930ac40dfd2a9ec8f48d74fb0293429901189334bd4fb9e5addbf4427a1e5"
-      },
-      "36": {
-        "source_ref": "Luke 9:36",
-        "source_chapter": 9,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "65d80098ae19315de4a148fcaccfed3ddf16302f9d503b45e676e5609e05393e"
-      },
-      "37": {
-        "source_ref": "Luke 9:37",
-        "source_chapter": 9,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "23af0f283509be28d36a2c48fa6a1e4d53a14c495ecb9ea01076ff9a44f883d8"
-      },
-      "38": {
-        "source_ref": "Luke 9:38",
-        "source_chapter": 9,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "1284b230687146b0f83f96b253a77f8fce828013304b2a4e9566e31ac3d673ea"
-      },
-      "39": {
-        "source_ref": "Luke 9:39",
-        "source_chapter": 9,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "9d2b175feadb1cf34996279c8742edf3f4bda16a9e77a8078356848d43f9178e"
-      },
-      "40": {
-        "source_ref": "Luke 9:40",
-        "source_chapter": 9,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "c89d7d2c707c245d5fa4f876d4da49e577355dc6dfe19d976b1c0020aaced2ef"
-      },
-      "41": {
-        "source_ref": "Luke 9:41",
-        "source_chapter": 9,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "ef71a03ef9c91811466a77e4b52f550e5a9b3420a4db800838cbc78691a78d49"
-      },
-      "42": {
-        "source_ref": "Luke 9:42",
-        "source_chapter": 9,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "aa9c804170279d553c2b3f52e6ae98dbdb762898c659d51944e302b6aa1d7940"
-      },
-      "43": {
-        "source_ref": "Luke 9:43",
-        "source_chapter": 9,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "1db22d9ac9a4df268206d7061588b95218adade30b7f4e78eebfb81a99382387"
-      },
-      "44": {
-        "source_ref": "Luke 9:44",
-        "source_chapter": 9,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "0529d566482ae78b7ebf8e2a8d73b83760c211a97c0982f5e0b63897464807ec"
-      },
-      "45": {
-        "source_ref": "Luke 9:45",
-        "source_chapter": 9,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "b6238e4a9eb025171ff5cafae0d0377a09073e18f06836b0f0ebbc182e237769"
-      },
-      "46": {
-        "source_ref": "Luke 9:46",
-        "source_chapter": 9,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "8856170ebc744c07bdfa8cbf82e24fadedd20dc3207132877bf5728a6699adc7"
-      },
-      "47": {
-        "source_ref": "Luke 9:47",
-        "source_chapter": 9,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "79050a1e88bd9bd99135dcbf3b92b3c096560224324bf2ed1dae0ef9b4aa7e40"
-      },
-      "48": {
-        "source_ref": "Luke 9:48",
-        "source_chapter": 9,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "04c64536084010ca0f4ee193d801435a162617e45e158133a261b4076a883901"
-      },
-      "49": {
-        "source_ref": "Luke 9:49",
-        "source_chapter": 9,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "c7c2fcfa927a2e150ee1585dffda8abedee4dc50976378617928c286d2919205"
-      },
-      "50": {
-        "source_ref": "Luke 9:50",
-        "source_chapter": 9,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "5ec5f7a0807fab0f437cdf36736b8a1de6e93cd79ddb59bdc96b9d0d97b527e4"
-      },
-      "51": {
-        "source_ref": "Luke 9:51",
-        "source_chapter": 9,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "f86d217f351527a79a09f36d654d47ee0caa2b252e44c1e94566215aa3f71b32"
-      },
-      "52": {
-        "source_ref": "Luke 9:52",
-        "source_chapter": 9,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "58b029a727527b6fa2e4460e9dfdc4cd56929c42882a93eab091d9a188186f8c"
-      },
-      "53": {
-        "source_ref": "Luke 9:53",
-        "source_chapter": 9,
-        "source_verse": 53,
-        "segment_mode": "whole_record",
-        "sha256": "2ea4b7fdfb2d9595a71671be4378c609034fed184d211252b8ed9230b245a3d7"
-      },
-      "54": {
-        "source_ref": "Luke 9:54",
-        "source_chapter": 9,
-        "source_verse": 54,
-        "segment_mode": "whole_record",
-        "sha256": "553b8511996e2e75b2eb238f3bdf83dea221a6da0dafa362526ce75859dc51b9"
-      },
-      "55": {
-        "source_ref": "Luke 9:55",
-        "source_chapter": 9,
-        "source_verse": 55,
-        "segment_mode": "whole_record",
-        "sha256": "9413438a49cb425b8f023591634288dd47686e1c9384393cce4bc6baa4917f9a"
-      },
-      "56": {
-        "source_ref": "Luke 9:56",
-        "source_chapter": 9,
-        "source_verse": 56,
-        "segment_mode": "whole_record",
-        "sha256": "95a91110a62f1bd70a6af29b71c2d8137af64389371d13ac1282f3e5f73d6028"
-      },
-      "57": {
-        "source_ref": "Luke 9:57",
-        "source_chapter": 9,
-        "source_verse": 57,
-        "segment_mode": "whole_record",
-        "sha256": "8da2b9ebf8a4f55bbb4636b2de8a3f88430d7025d727165888eebd5eb0550980"
-      },
-      "58": {
-        "source_ref": "Luke 9:58",
-        "source_chapter": 9,
-        "source_verse": 58,
-        "segment_mode": "whole_record",
-        "sha256": "36f763355fa64b7197366c688f5b0d3282711ed2a04d0eff879a285ac7bb236a"
-      },
-      "59": {
-        "source_ref": "Luke 9:59",
-        "source_chapter": 9,
-        "source_verse": 59,
-        "segment_mode": "whole_record",
-        "sha256": "e48f1665141e31a0e60cc0eaea88bd0b209fd761e3882d6891d0f491bb2ffc79"
-      },
-      "60": {
-        "source_ref": "Luke 9:60",
-        "source_chapter": 9,
-        "source_verse": 60,
-        "segment_mode": "whole_record",
-        "sha256": "d714159dbcefe9c8eaa7ccbaa234b361fd6655f9b3fae3d06ba7c17a88143063"
-      },
-      "61": {
-        "source_ref": "Luke 9:61",
-        "source_chapter": 9,
-        "source_verse": 61,
-        "segment_mode": "whole_record",
-        "sha256": "e87b8dc0b8f0a2487a63fe237d845e459d007b8764d2e7a5e11b45a9b3a2fe36"
-      },
-      "62": {
-        "source_ref": "Luke 9:62",
-        "source_chapter": 9,
-        "source_verse": 62,
-        "segment_mode": "whole_record",
-        "sha256": "1980d86e3014337a5d28abcd6b90e5b6ac0cdea03313e05a3f8d1edc14f19e56"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      9,
+      10,
+      11
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 9,
+    "verse_count": 62,
+    "path": "translations/fluent/NT/luke/Luke_09.md",
+    "before_sha256": "4ee3f1814fba609e183752a8f723f2b55091b8419f0b6f50183582b54409e2f2",
+    "after_sha256": "c60dbb1a58b147b1decf96797a88ee1b00f853501d845db197941edcd5598c12",
+    "tsw_comparator_path": "books/NT/luke/Luke_09.md",
+    "tsw_comparator_sha256": "db2e30d9c60cebfaff4cc0df1f09302359b2eb40e53057e9b0dc0ce230e92c15"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-9-11/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 9:1",
+      "delta": "F3",
+      "rationale": "Distinguishes power and authority while retaining their scope over demons and illness.",
+      "source_reference": "Luke 9:1",
+      "source_verse_sha256": "82c62094b1e5ce27d63d345bc9244c5a4f4fc143b77bdab7607eae1bf2a47890",
+      "before": "Jesus called the twelve together and gave them power and authority over all demons and to heal diseases.",
+      "after": "Jesus called the Twelve together and gave them power and authority over all demons and power to heal diseases.",
+      "tsw_comparator": "And calling together the twelve, he gave them power and authority over all demons and to heal diseases,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.756757,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:3",
+      "delta": "F3",
+      "rationale": "Preserves every prohibited provision and the specific number of tunics.",
+      "source_reference": "Luke 9:3",
+      "source_verse_sha256": "af3d93d0667320429c1c94cc71c5903c04bc673a9c0c79384e9042111c59d9c9",
+      "before": "He told them, “Take nothing for the journey—no staff, bag, bread, or money, and do not have two tunics.",
+      "after": "He told them, “Take nothing for the journey—no staff, bag, bread, or money, and do not have two tunics apiece.",
+      "tsw_comparator": "And he said to them, “Take nothing for the journey—neither staff nor bag nor bread nor money, nor have two tunics.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.651163,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:5",
+      "delta": "F3",
+      "rationale": "Retains rejection, public departure, dust gesture, and its witness function.",
+      "source_reference": "Luke 9:5",
+      "source_verse_sha256": "ba855ab09ec2d059fb2f65431508eceadd4e9446cbd239d444184e3f525d62c3",
+      "before": "Wherever people do not welcome you, leave that town and shake the dust off your feet as a testimony against them.”",
+      "after": "Wherever people do not welcome you, leave that town and shake the dust from your feet as a testimony against them.”",
+      "tsw_comparator": "And wherever they do not receive you, going out from that town shake off the dust from your feet as a testimony against them.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.755556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:7",
+      "delta": "F3",
+      "rationale": "Retains Herod’s title, comprehensive report, perplexity, and first explanation.",
+      "source_reference": "Luke 9:7",
+      "source_verse_sha256": "f661fec0bf74395a14ea4af3d46dd0492603b3d3180d1b0572e5508745b5bc32",
+      "before": "Herod the tetrarch heard about everything that was happening and was perplexed because some people were saying that John had been raised from the dead,",
+      "after": "Herod the tetrarch heard about everything that was happening, and he was perplexed because some were saying that John had been raised from the dead,",
+      "tsw_comparator": "Now Herod the tetrarch heard about all that was happening, and he was perplexed, because it was being said by some that John had been raised from the dead,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.814815,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:9",
+      "delta": "F3",
+      "rationale": "Preserves Herod’s responsibility, identity question, and sustained desire to see Jesus.",
+      "source_reference": "Luke 9:9",
+      "source_verse_sha256": "c4097b07c9cab3c0322ef3c22e7550bd1514d117b762ce3285ed2895d8725179",
+      "before": "Herod said, “John I beheaded. Who then is this about whom I hear such things?” And he kept trying to see Jesus.",
+      "after": "Herod said, “I beheaded John. Who, then, is this man I hear such things about?” And he kept trying to see Jesus.",
+      "tsw_comparator": "And Herod said, “John I beheaded, but who is this about whom I hear such things?” And he was seeking to see him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:10",
+      "delta": "F3",
+      "rationale": "Keeps the apostles’ report, private withdrawal, and pinned place name.",
+      "source_reference": "Luke 9:10",
+      "source_verse_sha256": "4d853fe8860e5e8d3aa3bc53002799d75f9aded27b4c1c3dff1c0db8e8db0707",
+      "before": "When the apostles returned, they told Jesus everything they had done. He took them with him and withdrew privately toward a town called Bethsaida.",
+      "after": "When the apostles returned, they reported to Jesus everything they had done. He took them with him and withdrew privately to a town called Bethsaida.",
+      "tsw_comparator": "And returning, the apostles told him all that they had done. And taking them with him, he withdrew privately to a town called Bethsaida.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.612245,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:12",
+      "delta": "F3",
+      "rationale": "Keeps the late hour, both needs, and deserted setting.",
+      "source_reference": "Luke 9:12",
+      "source_verse_sha256": "0efc7d61529f45de9d0bb2d7c8950e3a1d170a71ad2609d866f6568ecab0e3fc",
+      "before": "The day began to decline. The twelve came and said, “Send the crowd away so they can go into the surrounding villages and countryside to find lodging and food, because we are here in a deserted place.”",
+      "after": "As the day began to draw to a close, the Twelve came to him and said, “Send the crowd away so they can go into the surrounding villages and countryside to find lodging and food, because we are here in a deserted place.”",
+      "tsw_comparator": "Now the day began to decline, and the twelve came and said to him, “Dismiss the crowd, so that going into the surrounding villages and countryside they may find lodging and provisions, because here we are in a desolate place.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.650602,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:13",
+      "delta": "F3",
+      "rationale": "Preserves the emphatic “you,” exact food count, and disciples’ proposed alternative.",
+      "source_reference": "Luke 9:13",
+      "source_verse_sha256": "8200fd1a0058c69d2facb3cebfa06fd744621ca6e1dd93aa79b97943edb6b553",
+      "before": "But he said, “You give them something to eat.” They replied, “We have only five loaves and two fish—unless we go and buy food for all these people.”",
+      "after": "But he said to them, “You give them something to eat.” They replied, “We have no more than five loaves and two fish—unless we go and buy food for all these people.”",
+      "tsw_comparator": "But he said to them, “You give them something to eat.” And they said, “We have no more than five loaves and two fish—unless we go and buy food for all these people.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.955224,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:14",
+      "delta": "F3",
+      "rationale": "Keeps the gender-specific count and approximate group size.",
+      "source_reference": "Luke 9:14",
+      "source_verse_sha256": "590720f3c34ac2284f243c575dae33770397f5c08dfe0f7b245de1de5c826a2f",
+      "before": "There were about five thousand men. Jesus told his disciples, “Have them sit down in groups of about fifty.”",
+      "after": "There were about five thousand men. Jesus told his disciples, “Have them sit down in groups of about fifty each.”",
+      "tsw_comparator": "For there were about five thousand men.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.444444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:16",
+      "delta": "F3",
+      "rationale": "Preserves the sequence and the ongoing distribution through the disciples.",
+      "source_reference": "Luke 9:16",
+      "source_verse_sha256": "a495d2ce9dab0661dfedfb66c72babcf873c68ecc512167d9f21e1736184a939",
+      "before": "Jesus took the five loaves and two fish, looked up to heaven, blessed them, broke them, and kept giving them to the disciples to set before the crowd.",
+      "after": "Taking the five loaves and two fish, Jesus looked up to heaven, blessed them, broke them, and kept giving them to the disciples to set before the crowd.",
+      "tsw_comparator": "And taking the five loaves and the two fish, looking up to heaven, he blessed them and broke them and was giving them to the disciples to set before the crowd.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.847458,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:17",
+      "delta": "F3",
+      "rationale": "Keeps universal satisfaction and exact remainder count.",
+      "source_reference": "Luke 9:17",
+      "source_verse_sha256": "0e66de3a822292263fb84b9297b6a5c026889a2089907e2cc481e57aa2644356",
+      "before": "Everyone ate and was satisfied, and twelve baskets of broken pieces were collected from what remained.",
+      "after": "They all ate and were satisfied. The leftovers were gathered up—twelve baskets of broken pieces.",
+      "tsw_comparator": "And they all ate and were satisfied, and what was left over was taken up—twelve baskets of broken pieces.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:18",
+      "delta": "F3",
+      "rationale": "Preserves Luke’s prayer setting and clarifies the disciples’ presence.",
+      "source_reference": "Luke 9:18",
+      "source_verse_sha256": "f434bc2b55f454025ebbd24d5cfd02c4ab96bfeb79bcedf8b4e092c5adf09f4a",
+      "before": "Once, while Jesus was praying alone and the disciples were with him, he asked them, “Who do the crowds say I am?”",
+      "after": "Once, while Jesus was praying alone and the disciples were with him, he asked them, “Who do the crowds say I am?”",
+      "tsw_comparator": "And it happened, while he was praying alone, the disciples were with him, and he asked them, saying, “Who do the crowds say that I am?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.791667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:20",
+      "delta": "F3",
+      "rationale": "Keeps the emphatic contrast, named respondent, and concise confession.",
+      "source_reference": "Luke 9:20",
+      "source_verse_sha256": "4e61905bd5873212099a00ef43053af965103e62268bbb09feedd96d5de54cfc",
+      "before": "He asked them, “But you—who do you say I am?” Peter answered, “God’s Christ.”",
+      "after": "“But you,” he asked, “who do you say I am?” Peter answered, “God’s Messiah.”",
+      "tsw_comparator": "And he said to them, “But you, who do you say that I am?” And answering, Peter said, “The Christ of God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:21",
+      "delta": "F3",
+      "rationale": "Retains both rebuke-like warning and command to silence.",
+      "source_reference": "Luke 9:21",
+      "source_verse_sha256": "98fd5bf5fb7eca1dec9f4dfc0fa0dff9378249a75c61d26221eb7e1392bc1748",
+      "before": "Jesus strictly warned them and commanded them to tell this to no one.",
+      "after": "Jesus warned them sternly and ordered them not to tell this to anyone.",
+      "tsw_comparator": "But strictly warning them, he commanded them to tell this to no one,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.461538,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:22",
+      "delta": "F3",
+      "rationale": "Preserves necessity, all three rejecting groups, death, and third-day raising.",
+      "source_reference": "Luke 9:22",
+      "source_verse_sha256": "83f1f32c01ec3615db9895ee3e7b66cebe86dcbfd9030f0f6b8d3b587073ee4d",
+      "before": "He said, “The Son of Man must suffer many things, be rejected by the elders, chief priests, and scribes, be killed, and on the third day be raised.”",
+      "after": "He said, “The Son of Man must suffer many things, be rejected by the elders, chief priests, and scribes, be killed, and be raised on the third day.”",
+      "tsw_comparator": "saying, “The Son of Man must suffer many things and be rejected by the elders and chief priests and scribes, and be killed, and on the third day be raised.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.827586,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:23",
+      "delta": "F3",
+      "rationale": "Keeps the universal audience, self-denial, cross, Luke’s “daily,” and continued following.",
+      "source_reference": "Luke 9:23",
+      "source_verse_sha256": "96811532ebaaad6385627a763a24e34ef5cff4bab9471fbefaf5b96e40172a3c",
+      "before": "He said to everyone, “If anyone wants to come after me, let them deny themselves, take up their cross daily, and follow me.",
+      "after": "Then he said to everyone, “If anyone wants to come after me, they must deny themselves, take up their cross every day, and follow me.",
+      "tsw_comparator": "And he was saying to all, “If anyone wants to come after me, let him deny himself and take up his cross daily and follow me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.627451,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:24",
+      "delta": "F3",
+      "rationale": "Retains the repeated life/save/lose paradox and its cause.",
+      "source_reference": "Luke 9:24",
+      "source_verse_sha256": "304e7cc33c4d32c9e0df73d5f4c9d351e12993854c373b4051d2073474eb861e",
+      "before": "For whoever wants to save their life will lose it, but whoever loses their life because of me will save it.",
+      "after": "For whoever wants to save their life will lose it, but whoever loses their life because of me will save it.",
+      "tsw_comparator": "For whoever wants to save his life will lose it, but whoever loses his life for my sake, this one will save it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:25",
+      "delta": "F3",
+      "rationale": "Keeps the whole-world contrast and Luke’s reflexive “self.”",
+      "source_reference": "Luke 9:25",
+      "source_verse_sha256": "27d2b96560f9c241cd385b2bb31da13ed5ffb93e54faac04664d17ad7f6716f8",
+      "before": "What does it benefit a person to gain the whole world but lose or forfeit themselves?",
+      "after": "What does it benefit someone to gain the whole world but lose or forfeit themselves?",
+      "tsw_comparator": "For what is a person profited if he gains the whole world but loses or forfeits himself?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.375,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:26",
+      "delta": "F3",
+      "rationale": "Preserves reciprocal shame and the threefold glory relationship.",
+      "source_reference": "Luke 9:26",
+      "source_verse_sha256": "1b65898cc90d431953b9f736535fde7a4f8c0c18e3e88c85ad62d82232f30fc2",
+      "before": "Whoever is ashamed of me and my words, the Son of Man will be ashamed of that person when he comes in his glory and the glory of the Father and the holy angels.",
+      "after": "Whoever is ashamed of me and my words, the Son of Man will be ashamed of that person when he comes in his glory and the glory of the Father and of the holy angels.",
+      "tsw_comparator": "For whoever is ashamed of me and my words, of him the Son of Man will be ashamed when he comes in his glory and the glory of the Father and of the holy angels.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:27",
+      "delta": "F3",
+      "rationale": "Keeps the emphatic negation, death image, and unresolved time statement.",
+      "source_reference": "Luke 9:27",
+      "source_verse_sha256": "2f1b2f390c7f0f51403ebeb9ce34542f965f79bc34443813728f678b1cc1fa24",
+      "before": "But truly I tell you, some standing here will certainly not taste death before they see God’s kingdom.”",
+      "after": "Truly I tell you, some standing here will certainly not taste death before they see the kingdom of God.”",
+      "tsw_comparator": "But I say to you truly, there are some standing here who will certainly not taste death until they see the kingdom of God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.697674,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:28",
+      "delta": "F3",
+      "rationale": "Retains Luke’s approximate eight days, named order, mountain, and prayer purpose.",
+      "source_reference": "Luke 9:28",
+      "source_verse_sha256": "7d2f9aa57fbb9e023b053c57a4b2aef32e6f15ffdcdce1c857053b99f9738626",
+      "before": "About eight days after these sayings, Jesus took Peter, John, and James and went up the mountain to pray.",
+      "after": "About eight days after these sayings, Jesus took Peter, John, and James and went up the mountain to pray.",
+      "tsw_comparator": "And it happened about eight days after these sayings that, taking Peter and John and James, he went up on the mountain to pray.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.744186,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:29",
+      "delta": "F3",
+      "rationale": "Keeps transformation during prayer and the visual clothing description.",
+      "source_reference": "Luke 9:29",
+      "source_verse_sha256": "c5e344cabe9635496e67664f79b313d496b8fbaa5372d6bfaa0c3de1ad2dee15",
+      "before": "As he was praying, the appearance of his face changed, and his clothing became dazzling white.",
+      "after": "As he was praying, the appearance of his face changed, and his clothing became dazzling white.",
+      "tsw_comparator": "And as he was praying, the appearance of his face became different, and his clothing became dazzling white.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:31",
+      "delta": "F3",
+      "rationale": "Renders exodos as departure while retaining fulfillment and Jerusalem.",
+      "source_reference": "Luke 9:31",
+      "source_verse_sha256": "1481bf35d5b64a8d3abd5daddd4a2602c1b64c963f8d2019124dd5ed26d499f6",
+      "before": "Appearing in glory, they were speaking about his departure, which he was about to accomplish in Jerusalem.",
+      "after": "They appeared in glory and spoke about his departure, which he was about to fulfill in Jerusalem.",
+      "tsw_comparator": "who, appearing in glory, were speaking of his departure, which he was about to accomplish at Jerusalem.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.588235,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:32",
+      "delta": "F3",
+      "rationale": "Keeps heavy sleep, awakening, glory, and the two figures.",
+      "source_reference": "Luke 9:32",
+      "source_verse_sha256": "ece65096b6a43bf652dbd5675ae1e664a8ed781dda1f2fcd0908b8fe148fb958",
+      "before": "Peter and those with him were heavy with sleep, but when they became fully awake they saw Jesus’ glory and the two men standing with him.",
+      "after": "Peter and those with him were weighed down with sleep, but when they became fully awake they saw Jesus’ glory and the two men standing with him.",
+      "tsw_comparator": "Now Peter and those with him were weighed down with sleep, but becoming fully awake they saw his glory and the two men standing with him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.867925,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:33",
+      "delta": "F3",
+      "rationale": "Preserves the timing, three shelters, names, and narrator’s assessment.",
+      "source_reference": "Luke 9:33",
+      "source_verse_sha256": "9b0d2c3d6df705396c3a3ffef86d844fc11696f5918c8bbf86ae390322d89991",
+      "before": "As the men were leaving Jesus, Peter said, “Master, it is good for us to be here. Let us make three shelters: one for you, one for Moses, and one for Elijah.” He did not know what he was saying.",
+      "after": "As the men were leaving Jesus, Peter said to him, “Master, it is good for us to be here. Let us make three shelters: one for you, one for Moses, and one for Elijah.” He did not know what he was saying.",
+      "tsw_comparator": "And it happened, as they were departing from him, Peter said to Jesus, “Master, it is good for us to be here; let us make three tents, one for you and one for Moses and one for Elijah”—not knowing what he was saying.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.767442,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:34",
+      "delta": "F3",
+      "rationale": "Keeps the cloud’s active covering and the disciples’ fear on entering.",
+      "source_reference": "Luke 9:34",
+      "source_verse_sha256": "a82d30d61bd5d244ae7de98e1d551265a48e89c2d57ecfdebe09cbb91701e2b5",
+      "before": "While he was saying this, a cloud came and overshadowed them, and they were afraid as they entered the cloud.",
+      "after": "While he was saying this, a cloud came and overshadowed them. They were afraid as they entered the cloud.",
+      "tsw_comparator": "And as he was saying these things, a cloud came and overshadowed them, and they were afraid as they entered into the cloud.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.809524,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:35",
+      "delta": "F3",
+      "rationale": "Retains the pinned reading “Chosen One” and the command to listen.",
+      "source_reference": "Luke 9:35",
+      "source_verse_sha256": "6b810fc315f6c2db3b7c7eb3c5f6de183cba1d66dc6e4fa6d8dd7f66e703dee8",
+      "before": "A voice came from the cloud: “This is my Son, the Chosen One. Listen to him!”",
+      "after": "A voice came from the cloud, saying, “This is my Son, my Chosen One. Listen to him!”",
+      "tsw_comparator": "And a voice came from the cloud, saying, “This is my Son, the Chosen One; listen to him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:36",
+      "delta": "F3",
+      "rationale": "Keeps Jesus alone, the disciples’ silence, and its time frame.",
+      "source_reference": "Luke 9:36",
+      "source_verse_sha256": "ae10eadda3563a31a77829713d562a15b2768ef249ea882e314947e2b415a41d",
+      "before": "When the voice had spoken, Jesus was found alone. They kept silent and told no one in those days anything they had seen.",
+      "after": "When the voice had spoken, Jesus was found alone. The disciples kept silent and, in those days, told no one anything they had seen.",
+      "tsw_comparator": "And when the voice had come, Jesus was found alone. And they kept silent and reported to no one in those days anything of what they had seen.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.692308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:38",
+      "delta": "F3",
+      "rationale": "Keeps the father’s loud plea and only-child status.",
+      "source_reference": "Luke 9:38",
+      "source_verse_sha256": "bcb55e31db89b6b2c17da84fa84f89a182861c1aa05f832ce1c3c498048f71fb",
+      "before": "Look—a man from the crowd cried out, “Teacher, I beg you to look at my son, because he is my only child.",
+      "after": "A man in the crowd shouted, “Teacher, I beg you to look at my son, because he is my only child.",
+      "tsw_comparator": "And behold, a man from the crowd cried out, saying, “Teacher, I beg you to look upon my son, because he is my only child.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:39",
+      "delta": "F3",
+      "rationale": "Names the boy’s violent suffering without softening or importing a diagnosis.",
+      "source_reference": "Luke 9:39",
+      "source_verse_sha256": "6eff7ad21d7f76bf277d1b54d0bc635dfd8c538a9455b824630228b34ecb1649",
+      "before": "Look—a spirit seizes him, and suddenly he cries out. It convulses him so that he foams, and it barely leaves him after crushing him.",
+      "after": "A spirit seizes him, and he suddenly screams. It convulses him until he foams and scarcely leaves him, crushing him as it goes.",
+      "tsw_comparator": "And behold, a spirit seizes him, and suddenly he cries out, and it convulses him with foaming, and scarcely leaves him, crushing him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.652174,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:41",
+      "delta": "F3",
+      "rationale": "Retains the collective rebuke, two questions, and command to the father.",
+      "source_reference": "Luke 9:41",
+      "source_verse_sha256": "97aa959bcd74b7c0b787ad9ff5ef1d65e0b8a5e80070197e4a1dea06763ff837",
+      "before": "Jesus answered, “Faithless and twisted generation! How long will I be with you and put up with you? Bring your son here.”",
+      "after": "Jesus answered, “You unbelieving and corrupt generation! How long must I be with you and put up with you? Bring your son here.”",
+      "tsw_comparator": "And answering, Jesus said, “O faithless and twisted generation, how long shall I be with you and bear with you? Bring your son here.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.680851,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:42",
+      "delta": "F3",
+      "rationale": "Keeps the continuing harm, exorcism, healing, and restoration to the father.",
+      "source_reference": "Luke 9:42",
+      "source_verse_sha256": "ed072f3fca5534b64353a2fb45e545c75f5f5e6cc34416c4394824ad189224b7",
+      "before": "While the boy was still coming, the demon threw him down and convulsed him. But Jesus rebuked the unclean spirit, healed the boy, and gave him back to his father.",
+      "after": "Even while the boy was approaching, the demon threw him down and convulsed him. But Jesus rebuked the unclean spirit, healed the child, and gave him back to his father.",
+      "tsw_comparator": "And while he was still coming, the demon threw him down and convulsed him. But Jesus rebuked the unclean spirit and healed the boy and gave him back to his father.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.819672,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:43",
+      "delta": "F3",
+      "rationale": "Preserves divine majesty, universal wonder, and turn to private teaching.",
+      "source_reference": "Luke 9:43",
+      "source_verse_sha256": "02b4b2616f4f85248fcf2d879716cdc35d2321025e89e8f8d8c613d22611fe30",
+      "before": "Everyone was astonished at God’s greatness. While everyone was marveling at everything Jesus was doing, he said to his disciples,",
+      "after": "Everyone was astonished at the majesty of God. While they were all marveling at everything Jesus was doing, he said to his disciples,",
+      "tsw_comparator": "And all were astonished at the greatness of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.3125,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:44",
+      "delta": "F3",
+      "rationale": "Retains the vivid hearing idiom, impending betrayal, and repeated “human.”",
+      "source_reference": "Luke 9:44",
+      "source_verse_sha256": "3fc53d46a867c62f50c8c40a4385385d08095ad2241ded705e977caf442fb2a5",
+      "before": "“Let these words sink into your ears: the Son of Man is about to be handed over into human hands.”",
+      "after": "“Let these words sink into your ears: The Son of Man is about to be handed over into human hands.”",
+      "tsw_comparator": "“Let these words sink into your ears: the Son of Man is about to be handed over into the hands of men.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.904762,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:45",
+      "delta": "F3",
+      "rationale": "Keeps ignorance, concealment, purpose/result, and fear.",
+      "source_reference": "Luke 9:45",
+      "source_verse_sha256": "1bf54a88b891344ae1680282a05c2cf6ac94623339bebb0a5bd9b360c7d10856",
+      "before": "But they did not understand this saying. It was concealed from them so that they could not grasp it, and they were afraid to ask him about it.",
+      "after": "But they did not understand this saying. Its meaning was concealed from them so they could not grasp it, and they were afraid to ask him about it.",
+      "tsw_comparator": "But they did not understand this saying, and it was concealed from them so that they might not perceive it, and they were afraid to ask him about this saying.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.793103,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:47",
+      "delta": "F3",
+      "rationale": "Keeps Jesus’ knowledge, heart location, and placement of a child.",
+      "source_reference": "Luke 9:47",
+      "source_verse_sha256": "237198e66faf6c51950d4e73369b1d53628364b3a72f82b43eedbb0d266acfe7",
+      "before": "Jesus, knowing the reasoning of their hearts, took a child and stood the child beside him.",
+      "after": "But Jesus knew the reasoning in their hearts. He took a child and had the child stand beside him.",
+      "tsw_comparator": "But Jesus, knowing the reasoning of their heart, took a child and set him beside himself,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:48",
+      "delta": "F3",
+      "rationale": "Preserves the chain of welcome and paradox of least and great.",
+      "source_reference": "Luke 9:48",
+      "source_verse_sha256": "6692b9f0b9bfa56b540f4a436110a51d199af351ce86efd77bde62e201ffe593",
+      "before": "He said, “Whoever welcomes this child in my name welcomes me, and whoever welcomes me welcomes the one who sent me. For the one who is least among all of you—this one is great.”",
+      "after": "He said to them, “Whoever welcomes this child in my name welcomes me, and whoever welcomes me welcomes the one who sent me. For the one who is least among all of you is the one who is great.”",
+      "tsw_comparator": "and said to them, “Whoever receives this child in my name receives me, and whoever receives me receives the one who sent me; for the one who is least among you all, this one is great.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.773333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:49",
+      "delta": "F3",
+      "rationale": "Keeps John’s identity, the outsider’s effective action, and group-boundary reason.",
+      "source_reference": "Luke 9:49",
+      "source_verse_sha256": "d44fc2bb5b57a3fdfd9da45362b62693c4fe0d5b22c77b127261d4745ce618a7",
+      "before": "John answered, “Master, we saw someone casting out demons in your name, and we tried to stop him because he does not follow with us.”",
+      "after": "John answered, “Master, we saw someone driving out demons in your name, and we tried to stop him because he does not follow with us.”",
+      "tsw_comparator": "And answering, John said, “Master, we saw someone casting out demons in your name, and we were hindering him, because he does not follow with us.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.784314,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:50",
+      "delta": "F3",
+      "rationale": "Retains the plural group pronouns in the pinned reading.",
+      "source_reference": "Luke 9:50",
+      "source_verse_sha256": "fdd43ca7527c3b717c830c3c4963e35b2afe5ddf4ea9a5484be46c1f5ebb1dce",
+      "before": "Jesus said, “Do not stop him, because whoever is not against you is for you.”",
+      "after": "Jesus told him, “Do not stop him, for whoever is not against you is for you.”",
+      "tsw_comparator": "But Jesus said to him, “Do not hinder him, for whoever is not against you is for you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:51",
+      "delta": "F3",
+      "rationale": "Preserves the ascension horizon and deliberate “set his face” image.",
+      "source_reference": "Luke 9:51",
+      "source_verse_sha256": "f10541fc9020c04bbb0a2b5785fad1ded45b03d72041219b1e9d110aca0ef3fa",
+      "before": "When the days were approaching for him to be taken up, Jesus set his face to go to Jerusalem.",
+      "after": "As the days approached for Jesus to be taken up, he set his face firmly toward Jerusalem.",
+      "tsw_comparator": "And it happened, when the days were being fulfilled for him to be taken up, he set his face to go to Jerusalem,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:52",
+      "delta": "F3",
+      "rationale": "Keeps the messengers, ethnic-geographic setting, and purpose.",
+      "source_reference": "Luke 9:52",
+      "source_verse_sha256": "221cd1280ae82131ca99feb159b8cd7fad4e7292ad623c8b2a3246d1ba6bd77b",
+      "before": "He sent messengers ahead of him. They entered a Samaritan village to prepare for him,",
+      "after": "He sent messengers ahead of him. They entered a Samaritan village to make preparations for him,",
+      "tsw_comparator": "and he sent messengers before his face. And going, they entered into a village of Samaritans to prepare for him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.555556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:53",
+      "delta": "F3",
+      "rationale": "Retains the stated Jerusalem-related reason for refusal.",
+      "source_reference": "Luke 9:53",
+      "source_verse_sha256": "8938396fa5e6421b76f2aec97939ede2abff1fcfc5b24181e5eac58df4c06daf",
+      "before": "but the people did not welcome him because his face was set toward Jerusalem.",
+      "after": "but the people did not welcome him because he was heading toward Jerusalem.",
+      "tsw_comparator": "but they did not receive him, because his face was set toward Jerusalem.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:54",
+      "delta": "F3",
+      "rationale": "Names both disciples and preserves the requested lethal violence.",
+      "source_reference": "Luke 9:54",
+      "source_verse_sha256": "367818ae3b3b3f7e31de91f2658a4a480d7a31dbd376b8655e5b90116caa9f10",
+      "before": "When James and John saw this, they said, “Lord, do you want us to command fire to come down from heaven and consume them?”",
+      "after": "When the disciples James and John saw this, they said, “Lord, do you want us to call down fire from heaven to consume them?”",
+      "tsw_comparator": "And when his disciples James and John saw it, they said, “Lord, do you want us to command fire to come down from heaven and consume them?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745098,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:55",
+      "delta": "F3",
+      "rationale": "Keeps the source’s brief response without adding a speech absent from the pinned text.",
+      "source_reference": "Luke 9:55",
+      "source_verse_sha256": "020249ac5a9bd79268c6e1b0ac99fa45a1d78819b7ada07127ffcf16a315990b",
+      "before": "But Jesus turned and rebuked them.",
+      "after": "But Jesus turned and rebuked them.",
+      "tsw_comparator": "But turning, he rebuked them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:56",
+      "delta": "F3",
+      "rationale": "Retains the nonviolent movement onward.",
+      "source_reference": "Luke 9:56",
+      "source_verse_sha256": "f19183e77630affc5e0d905886a64f2fed186facac62ae54d863e503b541f8dd",
+      "before": "Then they went to another village.",
+      "after": "Then they went to another village.",
+      "tsw_comparator": "And they went on to another village.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:58",
+      "delta": "F3",
+      "rationale": "Preserves the animal shelters and Son of Man’s lack of place.",
+      "source_reference": "Luke 9:58",
+      "source_verse_sha256": "18a88163db76e79196091ff8430d6a322767753b81ebcaf836b82283ce8120e1",
+      "before": "Jesus said, “Foxes have dens, and birds of the sky have nests, but the Son of Man has nowhere to lay his head.”",
+      "after": "Jesus told him, “Foxes have dens and birds of the sky have nests, but the Son of Man has nowhere to lay his head.”",
+      "tsw_comparator": "And Jesus said to him, “Foxes have holes, and birds of the sky have nests, but the Son of Man has nowhere to lay his head.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.88,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:60",
+      "delta": "F3",
+      "rationale": "Retains the deliberately harsh paradox and contrasted commission.",
+      "source_reference": "Luke 9:60",
+      "source_verse_sha256": "3d5782d2b50c2c6c1f7d861b38c51593c673570638a010e751a8ed13f8598100",
+      "before": "Jesus said, “Let the dead bury their own dead, but you go and proclaim God’s kingdom.”",
+      "after": "Jesus told him, “Let the dead bury their own dead, but you go and proclaim the kingdom of God.”",
+      "tsw_comparator": "But he said to him, “Leave the dead to bury their own dead, but you go and proclaim the kingdom of God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 9:62",
+      "delta": "F3",
+      "rationale": "Preserves the agricultural image and kingdom suitability.",
+      "source_reference": "Luke 9:62",
+      "source_verse_sha256": "6a35b7aa92aee68567dd3994836455bbefde3d3d8fc6cbee072aaf3cefeb0d5d",
+      "before": "Jesus said, “No one who puts a hand to the plow and looks back is fit for God’s kingdom.”",
+      "after": "Jesus told him, “No one who puts a hand to the plow and looks back is fit for the kingdom of God.”",
+      "tsw_comparator": "But Jesus said to him, “No one who puts his hand to the plow and looks back is fit for the kingdom of God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.869565,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_09.md",
-    "blob_sha": "fb11ff56ba8fce4f9ea55b68380af7aee4cd2ae2"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -1,0 +1,107 @@
+{
+  "parent_commit": "332d656855e6687a7f2912b23ee35746f674495e",
+  "parent_library_version": 86,
+  "book": "Luke",
+  "slug": "luke",
+  "chapters": [9, 10, 11],
+  "scope": "Luke 9–11",
+  "expected_verses": 158,
+  "source_filename": "luke-pinned-greek.txt",
+  "book_record_files": ["LUKE_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "Luke 12–24; John 1–5",
+  "completed_block_scope": "Matthew 24–28; Mark 1–16; Luke 1–11",
+  "source_omissions": {},
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "9:1", "9:3", "9:5", "9:7", "9:9", "9:10", "9:12", "9:13", "9:14", "9:16", "9:17", "9:18", "9:20", "9:21", "9:22", "9:23", "9:24", "9:25", "9:26", "9:27", "9:28", "9:29", "9:31", "9:32", "9:33", "9:34", "9:35", "9:36", "9:38", "9:39", "9:41", "9:42", "9:43", "9:44", "9:45", "9:47", "9:48", "9:49", "9:50", "9:51", "9:52", "9:53", "9:54", "9:55", "9:56", "9:58", "9:60", "9:62",
+    "10:1", "10:2", "10:3", "10:4", "10:5", "10:6", "10:7", "10:9", "10:11", "10:12", "10:13", "10:14", "10:15", "10:16", "10:17", "10:18", "10:19", "10:20", "10:21", "10:22", "10:23", "10:24", "10:25", "10:27", "10:28", "10:29", "10:30", "10:31", "10:32", "10:33", "10:34", "10:35", "10:36", "10:37", "10:38", "10:39", "10:40", "10:41", "10:42",
+    "11:2", "11:3", "11:4", "11:5", "11:7", "11:8", "11:9", "11:11", "11:13", "11:14", "11:15", "11:16", "11:17", "11:18", "11:19", "11:20", "11:21", "11:22", "11:23", "11:24", "11:25", "11:26", "11:27", "11:28", "11:29", "11:30", "11:31", "11:32", "11:33", "11:34", "11:35", "11:36", "11:38", "11:39", "11:40", "11:41", "11:42", "11:43", "11:44", "11:46", "11:47", "11:48", "11:49", "11:50", "11:51", "11:52", "11:53", "11:54"
+  ],
+  "focused_extra_references": [],
+  "apparatus": {
+    "9": {
+      "notes": [
+        ["03", "The pinned text prohibits a staff as well as a bag, bread, money, and two tunics. Parallel mission accounts differ in some travel details."],
+        ["14", "The count explicitly says about five thousand men. The verse does not provide a separate count of women or children."],
+        ["23", "Luke explicitly includes ‘every day’ in the saying about taking up one's cross."],
+        ["25", "Luke's form says a person may lose or forfeit ‘himself,’ emphasizing damage to the person rather than using only the word ‘soul.’"],
+        ["28", "Luke says ‘about eight days.’ Parallel accounts use a different way of marking the interval."],
+        ["31", "The word rendered ‘departure’ is *exodos*. In this setting it gathers Jesus' coming death, resurrection, and departure into the journey he will fulfill at Jerusalem."],
+        ["35", "The pinned text reads ‘my Chosen One.’ Other manuscript traditions have wording closer to ‘my beloved Son.’"],
+        ["38–42", "The child is the father's only son. The violent symptoms and harm are reported as the action of a spirit; the translation does not impose a modern medical diagnosis."],
+        ["51", "‘Set his face’ is an ancient image of firm resolve. Jesus' journey toward Jerusalem unfolds under the horizon of his being ‘taken up.’"],
+        ["54–56", "James and John propose consuming the Samaritan village with fire. Jesus rebukes them and the group goes elsewhere. The pinned text does not include the longer rebuke found in some manuscripts."]
+      ],
+      "vocabulary": [
+        ["01", "δύναμις / ἐξουσία (dynamis / exousia)", "Power or ability / authority or right."],
+        ["20", "χριστός (christos)", "Messiah or Christ, the anointed one."],
+        ["23", "σταυρός (stauros)", "Cross, a Roman instrument of execution and public shame."],
+        ["31", "ἔξοδος (exodos)", "Departure or exodus."],
+        ["35", "ἐκλέγομαι (eklegomai)", "Choose or select."],
+        ["51", "ἀνάλημψις (analēmpsis)", "Being taken up or ascension."]
+      ]
+    },
+    "10": {
+      "notes": [
+        ["01, 17", "The pinned Greek text reads ‘seventy-two.’ Other ancient witnesses read ‘seventy.’"],
+        ["06", "‘Person of peace’ is literally ‘son of peace,’ an idiom for someone characterized by or receptive to peace."],
+        ["11", "The kingdom's nearness is announced both to towns that welcome the messengers and to a town that rejects them."],
+        ["19", "The saying grants authority over snakes, scorpions, and the enemy's power. It is not a command to handle dangerous animals or test God."],
+        ["21", "The pinned reading explicitly says Jesus rejoiced ‘in the Holy Spirit.’"],
+        ["29–37", "Jesus answers ‘Who is my neighbor?’ by asking who became a neighbor to the assaulted man. The Samaritan's identity, compassion, material care, and continuing obligation remain central to the reversal."],
+        ["38–42", "Martha's service is real and necessary; the scene contrasts distracted anxiety with Mary's protected attention. It does not condemn hospitality or service as such."],
+        ["42", "The Greek reads ‘few things are needed, or one.’ The wording may concern a simple meal, a single necessary thing, or both. The main text preserves the unusual alternatives."]
+      ],
+      "vocabulary": [
+        ["02", "θερισμός (therismos)", "Harvest."],
+        ["06", "εἰρήνη (eirēnē)", "Peace, well-being, or wholeness."],
+        ["15", "ᾅδης (hadēs)", "Hades, the realm of the dead."],
+        ["25", "ζωὴ αἰώνιος (zōē aiōnios)", "Eternal life or the life of the age to come."],
+        ["33", "σπλαγχνίζομαι (splagchnizomai)", "Be moved with deep compassion."],
+        ["37", "ἔλεος (eleos)", "Mercy or compassionate action."]
+      ]
+    },
+    "11": {
+      "notes": [
+        ["02–04", "Luke preserves a shorter form of the prayer than the familiar form in Matthew and later worship traditions. Added petitions are not imported into the main text."],
+        ["03", "The adjective describing bread is rare and can mean bread needed for the day or bread for the coming day. Luke also explicitly says ‘each day.’"],
+        ["04", "‘Testing’ can also mean trial or temptation. The prayer asks not to be brought into it without explaining the agent or circumstances."],
+        ["08", "The noun can describe shamelessness, bold persistence, or refusal to be deterred. It is not fully clear whether the emphasis falls on the requester's persistence or the sleeper's avoidance of shame."],
+        ["13", "Luke names the Father's gift as the Holy Spirit, rather than the more general ‘good things’ found in a parallel saying."],
+        ["20", "‘Finger of God’ retains a concrete scriptural image for divine action and power."],
+        ["27–28", "A woman blesses the womb and breasts that sustained Jesus. Jesus redirects the blessing toward hearing and keeping God's word without denying his mother."],
+        ["29–30", "Luke identifies Jonah himself as the sign to Nineveh. The text here does not add a reference to three days and nights."],
+        ["34", "The adjective describing the eye can mean healthy, clear, single, or generous; its opposite can mean bad, evil, or unhealthy. The light-darkness image is retained without forcing one nuance."],
+        ["38", "The verb is related to baptism and here refers to ceremonial washing before a meal, not Christian baptism."],
+        ["41", "‘Give what is inside as alms’ is compressed and difficult. The wording has also been understood as giving alms from what one has or giving the contents of the dishes."],
+        ["42", "Jesus names justice and the love of God as neglected obligations while also saying the detailed acts should not simply be abandoned."],
+        ["44", "Unmarked graves made people unknowingly encounter ritual impurity. The image criticizes hidden rather than visible corruption."],
+        ["51", "The Zechariah named here is not further identified in the verse. The translation does not silently choose among historical identifications."]
+      ],
+      "vocabulary": [
+        ["04", "πειρασμός (peirasmos)", "Testing, trial, or temptation."],
+        ["08", "ἀναίδεια (anaideia)", "Shamelessness, boldness, or unembarrassed persistence."],
+        ["15", "Βεελζεβούλ (Beelzeboul)", "Beelzebul, named in the accusation as ruler of demons."],
+        ["20", "δάκτυλος θεοῦ (daktylos theou)", "Finger of God."],
+        ["28", "φυλάσσω (phylassō)", "Keep, guard, or observe."],
+        ["41", "ἐλεημοσύνη (eleēmosynē)", "Alms or merciful giving."],
+        ["52", "γνῶσις (gnōsis)", "Knowledge or understanding."]
+      ]
+    }
+  }
+}
