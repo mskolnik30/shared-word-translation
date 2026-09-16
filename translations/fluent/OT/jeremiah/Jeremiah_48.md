@@ -4,351 +4,210 @@ testament: OT
 chapter: 48
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-41-52-biblical-fluency-2026-09-16
 ---
 
-## Concerning Moab
+## The breaking of Moab
 
 <p>
-v01: Concerning Moab.
-
-Thus says the LORD of Hosts, the God of Israel:
-
+v01: Concerning Moab. This is what the **LORD** of hosts, the God of Israel, says:
 “Woe to Nebo, for it is devastated!
-Kiriathaim is put to shame and captured;
-the stronghold is put to shame
-and shattered.
-
-v02: The praise of Moab is no more.
-In Heshbon they have devised evil against her:
-‘Come, let us cut her off from being a nation.’
-You also, Madmen, will be silenced;
-the sword will go after you.
-
-v03: A sound of crying from Horonaim:
-devastation and great breaking!
-
+Kiriathaim is disgraced and captured;
+the stronghold is disgraced and shattered.
+v02: Moab's praise is gone.
+In Heshbon they plan her ruin:
+‘Come, let us wipe her out as a nation.’
+You too, Madmen, will fall silent;
+the sword will pursue you.
+v03: A cry sounds from Horonaim:
+‘Devastation! Great destruction!’
 v04: Moab is broken;
-her little ones make their cry heard.
-
-v05: For on the ascent to Luhith
-weeping goes up with weeping,
-and on the descent to Horonaim
-they hear the distressing cry of breaking.
-</p>
-
-## Flee and Save Your Lives
-
-<p>
+her little ones raise a cry.
+v05: Up the slope to Luhith
+they go weeping, weeping.
+On the descent from Horonaim
+they hear anguished cries of destruction.
 v06: Flee! Save your lives!
-Become like a shrub
-in the wilderness.
-
-v07: For because you trusted
-in your works and in your treasures,
-you also will be captured.
-Chemosh will go out into exile,
-his priests and his officials together.
-
-v08: The destroyer will come
-against every city,
-and no city will escape.
-The valley will perish,
-and the plain will be destroyed,
-as the LORD has spoken.
-
-v09: Give wings to Moab,
-for she will surely fly away.
-Her cities will become a desolation,
-without anyone living in them.
-
-v10: Cursed is the one
-who does the work of the LORD negligently,
-and cursed is the one
-who keeps the sword from blood.
+Be like a shrub in the wilderness.
+v07: Because you trusted in your works and treasures,
+you too will be captured.
+Chemosh will go into exile,
+his priests and officials together.
+v08: A destroyer will come to every town;
+not one town will escape.
+The valley will perish
+and the plateau be destroyed,
+as the **LORD** has said.
+v09: Give Moab wings,
+for she must fly away.
+Her towns will become a desolation,
+with no one living in them.
+v10: Cursed is the one who does the **LORD**'s work carelessly;
+cursed is the one who holds his sword back from blood.
 </p>
 
-## Moab Has Been at Ease
+## Wine left undisturbed
 
 <p>
-v11: Moab has been at ease from his youth
-and has settled on his dregs.
-He has not been poured
-from vessel to vessel,
-nor has he gone into exile.
-So his taste remains in him,
-and his scent has not changed.
-
-v12: So look, days are coming,”
-says the LORD,
-“when I will send pourers to him,
-and they will pour him out.
-They will empty his vessels
-and smash his jars.
-
+v11: Moab has been at ease since youth,
+settled on its lees.
+It has not been poured from vessel to vessel
+or gone into exile.
+So its flavor remains
+and its aroma has not changed.
+v12: Therefore days are coming,” declares the **LORD**,
+“when I will send people to tip it out.
+They will tip it out, empty its vessels,
+and smash its jars.
 v13: Moab will be ashamed of Chemosh,
-just as the house of Israel
-was ashamed of Bethel,
-their confidence.
-</p>
-
-## The Horn of Moab Is Cut Off
-
-<p>
-v14: How can you say,
-‘We are warriors,
-mighty men for battle’?
-
-v15: Moab is devastated,
-and they have gone up against her cities.
-Her choice young men
-have gone down to slaughter,”
-says the King,
-whose name is the LORD of Hosts.
-
-v16: The disaster of Moab is near to come,
-and her calamity hurries greatly.
-
-v17: Mourn for her,
-all you who are around her,
-everyone who know her name.
-Say,
-‘How the strong staff is broken,
-the beautiful rod!’
-
-v18: Come down from glory
-and sit in thirst,
-inhabitant daughter Dibon,
-for the destroyer of Moab
-has come up against you;
-he has destroyed your strongholds.
-
+as the house of Israel was ashamed of Bethel,
+the place it trusted.
+v14: How can you say, ‘We are warriors,
+men strong in battle’?
+v15: Moab is devastated;
+an attacker has gone up against its towns.
+Its finest young men go down to slaughter,”
+declares the King, whose name is the **LORD** of hosts.
+v16: Moab's disaster is near;
+its calamity is coming swiftly.
+v17: Mourn for it, all you neighbors,
+all who know its name.
+Say, “How the mighty staff is broken,
+the splendid rod!”
+v18: Come down from your glory;
+sit in thirst, daughter dwelling in Dibon.
+Moab's destroyer has come against you;
+he has ruined your fortifications.
 v19: Stand by the road and watch,
-inhabitant of Aroer.
-Ask the fleeing man
-and the escaping woman;
-say, ‘What has happened?’
-
-v20: Moab is put to shame,
-for she is broken.
+you who live in Aroer.
+Ask the fleeing man and escaping woman,
+“What has happened?”
+v20: “Moab is disgraced, for it is shattered!
 Wail and cry out!
-Declare by the Arnon
-that Moab is devastated.
+Announce beside the Arnon
+that Moab is devastated.”
 </p>
 
-## Judgment Has Come upon the Plain
+## Judgment across the land
 
 <p>
-v21: Judgment has come upon the land of the plain: upon Holon, Jahzah, and Mephaath;
-
-v22: upon Dibon, Nebo, and Beth-Diblathaim;
-
-v23: upon Kiriathaim, Beth-Gamul, and Beth-Meon;
-
-v24: upon Kerioth and Bozrah, and upon all the cities of the land of Moab, far and near.
-
-v25: The horn of Moab is cut off,
-and his arm is broken,”
-says the LORD.
-</p>
-
-## Moab Magnified Himself Against the LORD
-
-<p>
-v26: “Make him drunk,
-for he magnified himself against the LORD.
-Moab will wallow in his vomit,
-and he also will become a laughingstock.
-
-v27: Was Israel not a laughingstock to you?
-Was he found among thieves,
-that whenever you spoke of him
+v21: Judgment has come to the plateau—to Holon, Jahzah, and Mephaath,
+v22: to Dibon, Nebo, and Beth-diblathaim,
+v23: to Kiriathaim, Beth-gamul, and Beth-meon,
+v24: to Kerioth, Bozrah, and all the towns of Moab, far and near.
+v25: “Moab's horn is cut off;
+its arm is broken,” declares the **LORD**.
+v26: “Make it drunk,
+for it has made itself great against the **LORD**.
+Moab will wallow in its vomit
+and become a laughingstock too.
+v27: Wasn't Israel a laughingstock to you?
+Was Israel found among thieves,
+that whenever you spoke of it
 you shook your head?
-
-v28: Leave the cities
-and dwell in the rock,
-inhabitants of Moab.
-Be like a dove
-that nests on the sides
-of the mouth of a gorge.
+v28: Leave your towns and live among the rocks,
+people of Moab.
+Be like a dove that nests
+at the mouth of a ravine.
 </p>
 
-## We Have Heard the Pride of Moab
+## Pride and mourning
 
 <p>
-v29: We have heard of the pride of Moab—
-he is exceedingly proud—
-his loftiness, his pride,
-his arrogance,
-and the haughtiness of his heart.
-
-v30: “I know his fury,”
-says the LORD,
-“but his boasts are false;
-his deeds are false.
-
-v31: So I will wail over Moab;
-for all Moab I will cry out.
-For the people of Kir-Heres
-they will moan.
-
-v32: More than the weeping for Jazer
-I will weep for you, vine of Sibmah.
-Your branches crossed the sea;
-they reached as far as Jazer.
-The destroyer has fallen
-upon your summer fruit
-and upon your grape harvest.
-
-v33: Joy and gladness are taken away
-from the fruitful field
-and from the land of Moab.
-I have caused wine to cease from the presses;
-no one treads with the shout of joy.
-The shouting will not be
-a shout of joy.
-</p>
-
-## The Cry of Moab
-
-<p>
-v34: From the cry of Heshbon
-as far as Elealeh, as far as Jahaz,
-they have raised their voice;
-from Zoar as far as Horonaim
-and Eglath-Shelishiyah.
-For even the waters of Nimrim
-will become desolate.
-
-v35: “I will cause to cease in Moab,”
-says the LORD,
-“the one who offers on the high place
-and the one who burns incense
-to his gods.
-
-v36: So my heart moans for Moab
-like flutes,
-and my heart moans
-like flutes for the people of Kir-Heres.
-So the abundance they acquired
-has perished.
-
-v37: For every head is bald,
-and every beard is clipped.
-On all hands are cuts,
-and sackcloth is on the waist.
-
-v38: On all the roofs of Moab
-and in its public squares
-there is lamentation,
-for I have broken Moab
-like a vessel no one desires,”
-says the LORD.
-
-v39: “How she is broken!
-How they wail!
-How Moab has turned his back in shame!
+v29: We have heard of Moab's pride—
+so very proud!
+Its loftiness, its pride, its arrogance,
+its haughty heart.
+v30: I know its fury,” declares the **LORD**,
+“but it amounts to nothing.
+Its empty boasts accomplish nothing.
+v31: So I wail for Moab;
+I cry out for all Moab.
+There is mourning for the people of Kir-heres.
+v32: More than the weeping for Jazer,
+I weep for you, vine of Sibmah.
+Your branches crossed the sea,
+reaching the sea of Jazer.
+A destroyer has fallen on your summer fruit
+and your grape harvest.
+v33: Joy and gladness are taken
+from the orchards and the land of Moab.
+I have stopped the wine in the presses.
+No one treads grapes with a joyful shout;
+the shouting is no shout of joy.
+v34: From Heshbon to Elealeh, as far as Jahaz,
+their cries ring out;
+from Zoar to Horonaim and Eglath-shelishiyah.
+Even the waters of Nimrim have become desolate.
+v35: “I will put an end in Moab,” declares the **LORD**,
+“to those who offer on the high place
+and burn incense to their gods.”
+v36: So my heart sounds like pipes for Moab;
+my heart sounds like pipes for the people of Kir-heres.
+The wealth they gained has perished.
+v37: Every head is shaved,
+every beard cut off.
+Every hand is gashed,
+every waist wrapped in sackcloth.
+v38: On every rooftop of Moab
+and in all its squares, nothing but mourning!
+“For I have broken Moab
+like a vessel no one wants,” declares the **LORD**.
+v39: How it is shattered! Wail!
+How Moab has turned its back in shame!
 Moab has become a laughingstock
-and a terror to all around him.”
+and a terror to all its neighbors.
 </p>
 
-## Like an Eagle over Moab
+## Terror, pit, and trap
 
 <p>
-v40: For thus says the LORD:
-
-“Look, one will fly like an eagle
-and spread his wings over Moab.
-
-v41: The cities are captured,
-and the strongholds are seized.
-The heart of Moab’s warriors on that day
-will be like the heart of a woman in labor.
-
-v42: Moab will be destroyed from being a people
-because he magnified himself
-against the LORD.
-</p>
-
-## Terror, Pit, and Snare
-
-<p>
-v43: Terror and pit and snare
-are upon you,
-inhabitant of Moab,”
-says the LORD.
-
-v44: “The one who flees from the terror
-will fall into the pit;
-the one who climbs out of the pit
-will be caught in the snare.
+v40: For this is what the **LORD** says:
+“Look! One swoops like an eagle,
+spreading his wings over Moab.
+v41: The towns are captured;
+the strongholds seized.
+On that day Moab's warriors will have hearts
+like a woman in labor.
+v42: Moab will be destroyed as a people,
+for it made itself great against the **LORD**.
+v43: Terror, pit, and trap await you,
+inhabitant of Moab,” declares the **LORD**.
+v44: “Whoever flees the terror falls into the pit;
+whoever climbs from the pit is caught in the trap.
 For I will bring upon Moab
-the year of their visitation,”
-says the LORD.
-
-v45: “In the shadow of Heshbon
-the fugitives stand without strength,
-for fire has gone out from Heshbon
-and flame from the midst of Sihon.
-It has devoured the forehead of Moab
-and the crown of the sons of tumult.
-
+the year of its reckoning,” declares the **LORD**.
+v45: In Heshbon's shadow the fugitives stand exhausted.
+But fire has gone out from Heshbon,
+a flame from Sihon's midst.
+It consumes Moab's forehead,
+the crown of the noisy people's head.
 v46: Woe to you, Moab!
-The people of Chemosh have perished,
-for your sons have been taken captive
-and your daughters into captivity.
-
-v47: Yet I will restore
-the fortunes of Moab
-in the latter days,”
-says the LORD.
-
-Thus far is the judgment on Moab.
+The people of Chemosh have perished.
+Your sons are taken captive,
+your daughters into captivity.
+v47: “Yet in days to come I will restore Moab's fortunes,” declares the **LORD**. Here ends the judgment on Moab.
 </p>
 
 ## Notes
 
-v01–25: The oracle moves rapidly through Moabite cities and regions. The geography itself becomes a catalogue of judgment, and many locations are difficult to identify precisely.
+v1–2: “Stronghold” may be the place name Misgab. Heshbon sounds like the Hebrew verb for planning; Madmen is paired with a similar-sounding verb for falling silent.
 
-v07: Chemosh was the national god associated with Moab. His exile with priests and officials portrays the collapse of Moab’s religious and political order.
+v4–6: The traditional read text has “her little ones” in verse 4; another reading gives a cry heard as far as Zoar. Verse 5's phrase for anguished cries is difficult. Verse 6's desert comparison can be read as a shrub or a wild donkey.
 
-v10: The curse against negligent performance of the LORD’s work is unusually severe because the “work” in this context is the announced act of judgment. TSW preserves the verse without turning it into a general endorsement of violence.
+v9–10: The words rendered “wings” and “fly away” are uncertain; alternatives include a marker or salt and going out or falling into ruin. Verse 10's curse belongs to the violent judgment oracle. It has not been recast as a general saying about diligence.
 
-v11–12: Moab is compared with wine left undisturbed on its sediment. Long stability has preserved its characteristic “taste” and “scent”; coming judgment is pictured as being poured out from vessel to vessel.
+v15,30–32: The subject of the ascent against Moab's towns in verse 15 is supplied. Verse 30's clauses about fury and boasts are difficult. The first-person mourning in verses 31–32 is not assigned to a new named speaker. “The sea of Jazer” is the pinned wording, though the geographical expression is uncertain.
 
-v13: Bethel represents the northern kingdom’s misplaced religious confidence. Moab’s trust in Chemosh is said to end in comparable shame.
+v34,41: Eglath-shelishiyah may be a place name or an expression meaning “three-year-old heifer.” “The towns” in verse 41 may instead name Kerioth, already listed in verse 24.
 
-v26: The imagery of drunkenness and vomit deliberately humiliates Moab after its self-exaltation against the LORD.
-
-v32: Sibmah’s vine extends beyond ordinary geography in poetic abundance. The destroyer reaches the very places from which prosperity came.
-
-v36: The LORD’s own heart is described as mourning for Moab even within an oracle of judgment. Judgment and lament are not separated.
-
-v45: The language echoes an older poem associated with Sihon and Moab. Jeremiah reuses inherited poetic material within the new judgment oracle.
-
-v47: The final promise of restored fortunes prevents Moab’s judgment from being the final word.
+v43–45: “Terror, pit, and trap” reproduce the sequence of similar-sounding Hebrew words. Verse 45 echoes the fire from Heshbon in Numbers 21:28, keeping Moab's forehead and the crown of the noisy people's head as bodily images.
 
 ## Vocabulary
 
-v06: עֲרוֹעֵר (aroer)
-“Shrub” or possibly a place-related wilderness plant. A rare term used in the call to flee.
+v11: **Lees**: Sediment left in wine. Moab's undisturbed life is compared to wine never poured into another vessel.
 
-v07: כְּמוֹשׁ (Kemosh)
-“Chemosh.” The deity especially associated with Moab.
-
-v11: שֶׁמֶר (shemer)
-“Dregs” or “lees.” Sediment on which wine settles.
-
-v12: צָעָה (tsa'ah)
-“To pour out” or “tilt.” Used in the extended vessel image.
-
-v25: קֶרֶן (qeren)
-“Horn.” A symbol of power or strength.
-
-v29: גָּאוֹן (gaon)
-“Pride” or “exaltation.” Repeatedly associated with Moab’s self-magnification.
-
-v43: פַּחַד וָפַחַת וָפָח (pachad va-pachat va-pach)
-“Terror, pit, and snare.” A rhythmic threefold image of inescapable judgment.
-
-v47: שׁוּב שְׁבוּת (shuv shevut)
-“To restore the fortunes.” The promise that concludes the Moab oracle.
+v7: **Chemosh**: Moab's god, pictured going into exile with his priests and officials.

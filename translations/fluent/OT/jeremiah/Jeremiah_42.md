@@ -4,98 +4,57 @@ testament: OT
 chapter: 42
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-41-52-biblical-fluency-2026-09-16
 ---
 
-## The Remnant Asks Jeremiah to Pray
+## A request for guidance
 
 <p>
-v01: Then all the commanders of the armies, Johanan son of Kareah, Jezaniah son of Hoshaiah, and all the people from the least to the greatest approached
-
-v02: and said to Jeremiah the prophet, “Please let our plea fall before you, and pray to the LORD your God for us, for all this remnant. For we are left only a few from many, as your eyes see us.
-
-v03: May the LORD your God tell us the way in which we should walk and the thing that we should do.”
-
-v04: Jeremiah the prophet said to them, “I have heard. Look, I will pray to the LORD your God according to your words, and whatever word the LORD answers you, I will tell you. I will not hold back a word from you.”
-
-v05: They said to Jeremiah, “May the LORD be a true and faithful witness against us if we do not act according to every word with which the LORD your God sends you to us.
-
-v06: Whether good or bad, we will listen to the voice of the LORD our God, to whom we are sending you, so that it may be well with us when we listen to the voice of the LORD our God.”
+v01: Then all the army commanders, Johanan son of Kareah, Jezaniah son of Hoshaiah, and all the people, from the least to the greatest, came forward.
+v02: They said to Jeremiah the prophet, “Please hear our plea. Pray to the **LORD** your God for us, for all this remnant. Once we were many; now only a few of us are left, as you can see.
+v03: May the **LORD** your God show us the way to go and what we should do.”
+v04: Jeremiah the prophet answered, “I hear you. I will pray to the **LORD** your God as you ask. Everything the **LORD** tells me in answer to you, I will tell you. I will hold nothing back.”
+v05: They said to Jeremiah, “May the **LORD** be a true and faithful witness against us if we fail to do everything the **LORD** your God sends you to tell us.
+v06: Whether it is welcome or unwelcome, we will obey the **LORD** our God, to whom we are sending you. Then things will go well for us, because we obey the **LORD** our God.”
 </p>
 
-## After Ten Days the Word Comes
+## Stay in the land
 
 <p>
-v07: At the end of ten days, the word of the LORD came to Jeremiah.
-
-v08: Then he called Johanan son of Kareah, all the commanders of the armies who were with him, and all the people from the least to the greatest,
-
-v09: and said to them, “Thus says the LORD, the God of Israel, to whom you sent me to make your plea fall before him:
-
-v10: If you will truly remain in this land, then I will build you and not tear you down; I will plant you and not uproot you, for I relent concerning the disaster that I have done to you.
-
-v11: Do not fear the king of Babylon, whom you fear. Do not fear him,” says the LORD, “for I am with you to save you and to rescue you from his hand.
-
-v12: I will give you compassion, and he will have compassion on you and cause you to return to your own soil.
+v07: Ten days later, the word of the **LORD** came to Jeremiah.
+v08: He called Johanan son of Kareah, all the army commanders with him, and all the people, from the least to the greatest.
+v09: He told them, “This is what the **LORD**, the God of Israel, says—the one you sent me to with your plea:
+v10: ‘If you will stay in this land, I will build you up and not tear you down; I will plant you and not uproot you. For I have relented over the disaster I brought on you.
+v11: Do not fear the king of Babylon, whom you now fear. Do not fear him, declares the **LORD**, for I am with you to save you and rescue you from his hand.
+v12: I will grant you mercy, so that he will have mercy on you and restore you to your own ground.’
 </p>
 
-## Do Not Go to Egypt
+## The warning against Egypt
 
 <p>
-v13: “But if you say, ‘We will not remain in this land,’ so that you do not listen to the voice of the LORD your God,
-
-v14: saying, ‘No, but we will go to the land of Egypt, where we will not see war or hear the sound of the ram’s horn or hunger for bread, and there we will live,’
-
-v15: then now hear the word of the LORD, remnant of Judah. Thus says the LORD of Hosts, the God of Israel: If you set your faces to enter Egypt and go to live there as resident aliens,
-
-v16: then the sword that you fear will overtake you there in the land of Egypt, and the famine that you dread will cling to you there in Egypt, and there you will die.
-
-v17: So it will be with all the people who set their faces to go to Egypt to live there as resident aliens: they will die by sword, famine, and plague. None of them will remain or escape from the disaster that I am bringing upon them.
-</p>
-
-## You Have Misled Yourselves
-
-<p>
-v18: “For thus says the LORD of Hosts, the God of Israel: Just as my anger and fury were poured out upon the inhabitants of Jerusalem, so my fury will be poured out upon you when you enter Egypt. You will become a curse, a horror, a malediction, and a reproach, and you will see this place no more.
-
-v19: The LORD has spoken concerning you, remnant of Judah: Do not go to Egypt. Know certainly that I have testified against you today.
-
-v20: For you have misled yourselves at the cost of your lives, for you sent me to the LORD your God, saying, ‘Pray for us to the LORD our God, and according to all that the LORD our God says, tell us so, and we will do it.’
-
-v21: I have told you today, but you have not listened to the voice of the LORD your God in anything with which he sent me to you.
-
-v22: Now therefore know certainly that you will die by sword, famine, and plague in the place where you desire to go to live as resident aliens.”
+v13: “But if you say, ‘We will not stay in this land,’ and refuse to obey the **LORD** your God,
+v14: if you say, ‘No! We will go to Egypt, where we will see no war, hear no trumpet, and go hungry for no bread. That is where we will live,’
+v15: then hear the word of the **LORD**, remnant of Judah. This is what the **LORD** of hosts, the God of Israel, says: ‘If you are determined to enter Egypt and settle there,
+v16: the sword you fear will catch up with you there in Egypt. The famine you dread will cling to you there in Egypt. There you will die.
+v17: Everyone determined to go and settle in Egypt will die by sword, famine, or plague. No survivor or fugitive will escape the disaster I am bringing on them.’
+v18: “For this is what the **LORD** of hosts, the God of Israel, says: ‘As my anger and wrath were poured out on Jerusalem's inhabitants, so my wrath will be poured out on you when you enter Egypt. You will become an example invoked in oaths, an object of horror, a curse, and a disgrace. You will never see this place again.’
+v19: “The **LORD** has spoken to you, remnant of Judah: ‘Do not go to Egypt.’ Be certain of this: I have warned you today.
+v20: You have made a fatal mistake. You yourselves sent me to the **LORD** your God, saying, ‘Pray for us to the **LORD** our God. Tell us everything the **LORD** our God says, and we will do it.’
+v21: I have told you today, but you have not obeyed the **LORD** your God in anything he sent me to tell you.
+v22: So be certain: you will die by sword, famine, and plague in the place where you want to go and settle.”
 </p>
 
 ## Notes
 
-v02–06: The remnant solemnly promises obedience before knowing the content of the answer. The rest of the narrative tests whether their commitment is genuine.
+v2–6: The speakers move from “your God” to “our God.” Jeremiah answers with “your God.” The changing pronouns remain part of the exchange.
 
-v07: The ten-day delay resists any impression that Jeremiah produces immediate answers on demand. The prophet waits for the word to come.
+v10–12: Building, planting, tearing down, and uprooting echo Jeremiah's commission in 1:10. “Relented” retains the statement of changed divine intention. Verse 12 still speaks of restoration to the ground although the group has not yet left Judah.
 
-v10: “I will build … plant” again reverses Jeremiah’s destruction language. Remaining in a devastated Judah is presented as the path toward restoration.
-
-v11–12: The people’s fear of Babylon is directly addressed with the assurance “I am with you,” echoing divine-presence language used throughout Scripture.
-
-v14: Egypt is imagined as a place without war, alarm, or hunger. The oracle declares that the very dangers they seek to escape will follow them there.
-
-v20: The Hebrew phrase is difficult and can be understood as deceiving themselves or erring at the cost of their lives. TSW preserves both the self-deception and its mortal consequence.
+v20: The accusation is literally close to “you have led astray at the cost of your lives.” It can describe self-deception or a deadly mistake; the repeated pledge explains the charge.
 
 ## Vocabulary
 
-v02: תְּחִנָּה (techinnah)
-“Plea” or “supplication.” A humble request brought before another.
-
-v05: אֱמֶת וֶאֱמוּנָה (emet ve-emunah)
-“True and faithful.” Reliable witness language invoked concerning the LORD.
-
-v10: נָטַע (nata)
-“To plant.” A restoration verb contrasted with uprooting.
-
-v12: רַחֲמִים (rachamim)
-“Compassion” or “mercies.” The LORD promises to place compassion before Babylon’s king.
-
-v15: גּוּר (gur)
-“To live as a resident alien.” To reside in a land without ancestral possession.
-
-v20: תָּעָה (ta'ah)
-“To wander,” “err,” or “mislead oneself.” Used of the remnant’s fatal self-deception.
+v18: **Example invoked in oaths**: A ruined people's fate could be named when calling down a curse in an oath.

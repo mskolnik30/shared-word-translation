@@ -431,12 +431,22 @@
       "scope": "Jeremiah 21–40",
       "verses": 517,
       "ledger": "audit/fluent-revision/2026-09-16-jeremiah-21-40/jeremiah-verse-review.json"
+    },
+    {
+      "scope": "Jeremiah 41–52",
+      "verses": 353,
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-41-52/jeremiah-verse-review.json"
+    },
+    {
+      "scope": "Lamentations 1–5",
+      "verses": 154,
+      "ledger": "audit/fluent-revision/2026-09-16-lamentations-1-5/lamentations-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Jeremiah 41–52; Lamentations 1–5",
-      "action": "Complete the remaining 17 chapters of the current fifty-chapter block, now drafted through Jeremiah 40. Continue source-first drafting and exact source bindings; preserve pending consistency reviews."
+      "scope": "Ezekiel 1–48; Daniel 1–2",
+      "action": "Next authorized fifty-chapter block. Verify pinned Hebrew/Aramaic sources and versification before independent drafting; complete source bindings and structural checks, preserving independent review limits."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -489,6 +499,14 @@
     {
       "scope": "Whole-book Isaiah consistency review",
       "action": "Read the complete revised book and apparatus continuously; source-check recurring vocabulary and difficulties. Rebind earlier text if changed. Draft completion and focused checks do not complete this separate review."
+    },
+    {
+      "scope": "Whole-book Jeremiah consistency review",
+      "action": "Read the revised book and apparatus continuously; check recurring language and difficult source passages. Rebind changed text. Draft completion and focused authoring checks do not complete independent review."
+    },
+    {
+      "scope": "Whole-book Lamentations consistency review",
+      "action": "Read the revised book and apparatus continuously; check recurring language and difficult source passages. Rebind changed text. Draft completion and focused authoring checks do not complete independent review."
     }
   ],
   "standards": [
@@ -554,13 +572,13 @@
   ],
   "active_fifty_chapter_block": {
     "scope": "Jeremiah 8–52; Lamentations 1–5",
-    "status": "IN_PROGRESS",
+    "status": "DRAFT_COMPLETED",
     "chapters_target": 50,
-    "completed_chapters": 33,
-    "completed_scope": "Jeremiah 8–40",
-    "completed_verses": 804,
-    "remaining_scope": "Jeremiah 41–52; Lamentations 1–5",
-    "remaining_chapters": 17,
-    "qualification": "Completed portion checked and checkpointed; the fifty-chapter block is not yet complete. No approval pause is required."
+    "completed_chapters": 50,
+    "completed_scope": "Jeremiah 8–52; Lamentations 1–5",
+    "completed_verses": 1311,
+    "remaining_scope": null,
+    "remaining_chapters": 0,
+    "qualification": "All fifty chapters drafted and source-bound. Independent editorial review and reader testing pending; publication not allowed."
   }
 }

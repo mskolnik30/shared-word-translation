@@ -4,241 +4,164 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-lamentations-1-5-biblical-fluency-2026-09-16
 ---
 
-## The City Sits Alone
+## The city sits alone
 
 <p>
 v01: How she sits alone,
 the city once full of people!
 She has become like a widow,
-she who was great among the nations.
+once great among the nations.
 A princess among the provinces
-has become forced labor.
-
-v02: She weeps bitterly in the night,
-and her tears are on her cheeks.
-She has no comforter
-among all her lovers.
-All her companions have betrayed her;
+has been put to forced labor.
+v02: She weeps and weeps in the night,
+tears running down her cheeks.
+Among all her lovers
+there is no one to comfort her.
+All her friends have betrayed her;
 they have become her enemies.
-
-v03: Judah has gone into exile
-under affliction and harsh servitude.
-She dwells among the nations
-and finds no rest.
-All her pursuers overtook her
-in narrow places.
-
-v04: The roads to Zion mourn
-because no one comes to the appointed festival.
+v03: Judah has gone into exile through affliction
+and harsh servitude.
+She lives among the nations
+but finds no resting place.
+All her pursuers overtake her
+in the narrow places.
+v04: The roads to Zion mourn,
+for no one comes to the appointed feast.
 All her gates are desolate;
 her priests groan.
-Her young women grieve,
+Her virgins grieve,
 and she herself is bitter.
-</p>
-
-## Her Adversaries Have Become the Head
-
-<p>
-v05: Her adversaries have become the head;
-her enemies are at ease,
-for the LORD has afflicted her
-because of the multitude of her transgressions.
-Her little children have gone into captivity
-before the adversary.
-
-v06: All splendor has departed
+v05: Her foes have become her masters;
+her enemies are at ease.
+The **LORD** has made her suffer
+for her many rebellions.
+Her little children have gone captive
+before the enemy.
+v06: All her splendor has departed
 from daughter Zion.
-Her princes have become like deer
-that find no pasture;
-they go without strength
+Her officials have become like deer
+that find no pasture.
+Without strength they walk
 before the pursuer.
-
-v07: Jerusalem remembers,
-in the days of her affliction and wandering,
-all her precious things
-that were hers in days of old.
-When her people fell into the hand of the adversary
-and there was no one to help her,
-the adversaries saw her
+v07: In her days of affliction and wandering,
+Jerusalem remembers all her treasures from long ago.
+When her people fell into the enemy's hand,
+there was no one to help her.
+Her enemies saw her
 and laughed at her downfall.
-
-v08: Jerusalem sinned greatly;
-so she has become an impurity.
-Everyone who honored her despise her
-because they have seen her nakedness.
-She herself groans
+v08: Jerusalem has sinned grievously;
+so she has become unclean.
+All who honored her now despise her,
+for they have seen her nakedness.
+She too groans
 and turns away.
 </p>
 
-## See, O LORD, My Affliction
+## Look at my affliction
 
 <p>
-v09: Her uncleanness was in her skirts;
-she did not remember her end.
-She fell astonishingly;
-there is no one to comfort her.
-
-“See, O LORD, my affliction,
-for the enemy has magnified himself.”
-
-v10: The adversary has spread his hand
-over all her precious things.
-She has seen nations enter her sanctuary,
-those whom you commanded
+v09: Her uncleanness is on her skirts;
+she gave no thought to her end.
+Her fall was astonishing;
+no one comforts her.
+“Look, **LORD**, at my affliction,
+for the enemy has made himself great!”
+v10: The enemy stretched out his hand
+over all her treasures.
+She saw nations enter her sanctuary,
+those you commanded
 not to enter your assembly.
-
-v11: All her people groan
-as they seek bread.
-They give their precious things for food
-to restore their lives.
-
-“See, O LORD, and look,
-for I have become despised.”
-</p>
-
-## Is There Any Pain Like My Pain?
-
-<p>
-v12: Is it nothing to you,
-everyone who pass by?
-Look and see
-if there is any pain like my pain,
-which was dealt to me,
-with which the LORD afflicted me
-on the day of his fierce anger.
-
-v13: From on high he sent fire
-into my bones,
-and it prevailed over them.
-He spread a net for my feet;
-he turned me back.
-He made me desolate,
-faint all day long.
-
-v14: The yoke of my transgressions
-was bound by his hand;
-they were intertwined
-and came up upon my neck.
+v11: All her people groan, searching for bread.
+They trade their treasures for food
+to keep themselves alive.
+“Look, **LORD**, and see:
+I have become despised.
+v12: Does this mean nothing to you, all who pass by?
+Look and see whether any pain is like my pain,
+like what has been done to me,
+what the **LORD** inflicted
+on the day of his burning anger.
+v13: From on high he sent fire into my bones,
+and it mastered them.
+He spread a net for my feet
+and turned me back.
+He left me desolate,
+sick all day long.
+v14: The yoke of my rebellions was bound by his hand;
+woven together, they rose onto my neck.
 He made my strength fail.
-The Lord gave me into hands
-against which I cannot stand.
-
-v15: The Lord rejected
-all my mighty ones in my midst.
-He summoned an assembly against me
+The Lord handed me over
+to those I cannot withstand.
+v15: The Lord has cast aside
+all the mighty men within me.
+He called an assembly against me
 to crush my young men.
-The Lord has trodden the winepress
-for virgin daughter Judah.
-</p>
-
-## There Is No Comforter
-
-<p>
+The Lord has trodden virgin daughter Judah
+as grapes in a winepress.
 v16: For these things I weep;
-my eye, my eye pours down water,
-because a comforter is far from me,
-one who would restore my life.
+my eye, my eye pours out water.
+Far from me is a comforter,
+one who could restore my life.
 My children are desolate,
-for the enemy has prevailed.
-
-v17: Zion stretches out her hands;
-there is no one to comfort her.
-The LORD has commanded concerning Jacob
-that those around him become his adversaries.
-Jerusalem has become
-an impurity among them.
-
-v18: The LORD is righteous,
-for I rebelled against his mouth.
-Hear, all you peoples,
-and see my pain:
-my young women and my young men
-have gone into captivity.
+for the enemy has prevailed.”
 </p>
 
-## My Sighs Are Many
+## No comforter
 
 <p>
+v17: Zion spreads out her hands;
+no one comforts her.
+The **LORD** has commanded
+that Jacob's neighbors become his foes.
+Jerusalem has become unclean among them.
+v18: “The **LORD** is righteous,
+for I rebelled against his command.
+Listen, all you peoples,
+and see my pain.
+My virgins and young men
+have gone into captivity.
 v19: I called to my lovers,
 but they deceived me.
-My priests and my elders
-perished in the city
-while seeking food for themselves
-to restore their lives.
-
-v20: See, O LORD,
-for I am in distress.
-My inward parts churn;
-my heart is overturned within me,
-for I have greatly rebelled.
+My priests and elders died in the city
+as they searched for food
+to keep themselves alive.
+v20: Look, **LORD**, how distressed I am!
+My insides churn;
+my heart turns over within me,
+for I have rebelled deeply.
 Outside, the sword bereaves;
-inside, there is death.
-
-v21: They have heard that I groan;
-there is no one to comfort me.
-All my enemies have heard of my disaster;
-they rejoice because you have done it.
-Bring the day you proclaimed,
+inside, it is like death.
+v21: They hear my groaning,
+but no one comforts me.
+All my enemies hear of my disaster;
+they rejoice that you have done it.
+Bring the day you announced,
 and let them become like me.
-
-v22: Let all their evil come before you,
-and deal with them
-as you have dealt with me
-because of all my transgressions.
-For my sighs are many,
-and my heart is faint.
+v22: Let all their evil come before you.
+Deal with them as you dealt with me
+for all my rebellions.
+My groans are many,
+and my heart is sick.”
 </p>
 
 ## Notes
 
-v01: “How” — The Hebrew *ekhah* opens the lament with a cry of shock and grief. The same word gives the book its Hebrew title.
+v1: Chapters 1–4 use Hebrew alphabetic patterns. Here each of the twenty-two verses begins with the next letter. English lineation preserves the poem's movement without claiming to reproduce that alphabetic form. Jerusalem speaks and is spoken about as a woman.
 
-v01: “forced labor” — The Hebrew *mas* can describe tribute, levy, or compulsory labor. The reversal is severe: the city once described as a princess has become subject to imposed service.
+v8–9,17: The poem uses impurity, skirts, and nakedness to describe the city's disgrace. The imagery is preserved as ancient lament language; it does not make sexual humiliation an approved response to wrongdoing.
 
-v03: “in narrow places” — The Hebrew expression can describe literal constricted places and also distress or entrapment. The translation preserves the spatial image.
+v12–14: The opening question of verse 12 is difficult and can also be read as an appeal to passersby. The verb for binding the yoke in verse 14 is rare; some readings understand watching over the rebellions instead. Fire and net images are not reduced to one literal event.
 
-v08–09: Jerusalem’s condition is expressed through imagery of ritual uncleanness, exposed nakedness, and soiled clothing. The poem does not separate public humiliation from theological judgment.
-
-v12: “Is it nothing to you?” — The Hebrew opening is compressed and has been interpreted in more than one way. The line addresses those passing by and demands that they look upon suffering without indifference.
-
-v14: “the yoke of my transgressions” — Wrongdoing is pictured as a burden bound together and placed upon the neck. The image joins responsibility and consequence.
-
-v18: “rebelled against his mouth” — The Hebrew names rebellion against the LORD’s “mouth,” preserving the concrete connection between divine speech and disobedience.
-
-v21–22: The speaker acknowledges the LORD’s judgment and at the same time asks for corresponding judgment upon enemies who rejoice over Jerusalem’s ruin. Confession and protest remain together.
-
-v01–22: The chapter is an alphabetic acrostic in Hebrew, with successive verses beginning with successive letters of the Hebrew alphabet. The English translation preserves the verse structure rather than attempting to recreate the acrostic.
+v21–22: The closing request asks that enemies suffer as Jerusalem has suffered. The draft keeps this as the afflicted city's prayer, without adding a resolution or endorsement of retaliation.
 
 ## Vocabulary
 
-v01: אֵיכָה (ekhah)
-“How!” A lamenting exclamation expressing shock, grief, and reversal.
+v15: **Appointed assembly**: The word also used for a feast or appointed meeting is turned here into a gathering that crushes the city's young men.
 
-v01: מַס (mas)
-“Forced labor,” “tribute,” or “levy.” Compulsory service imposed by a stronger power.
-
-v02: מְנַחֵם (menachem)
-“Comforter.” One who brings consolation or relief in grief.
-
-v03: מְצָרִים (metsarim)
-“Narrow places” or “straits.” Constricted places used as an image of distress.
-
-v05: פֶּשַׁע (pesha)
-“Transgression” or “rebellion.” Wrongdoing that breaks proper relationship.
-
-v08: נִדָּה (niddah)
-“Impurity.” A state of uncleanness or exclusion, used here as an image of Jerusalem’s humiliation.
-
-v12: מַכְאוֹב (makh'ov)
-“Pain” or “suffering.” Deep affliction experienced bodily and inwardly.
-
-v14: עֹל (ol)
-“Yoke.” A burden placed on the neck, here used for the weight of transgressions.
-
-v18: מָרָה (marah)
-“To rebel.” To resist or defy authoritative speech.
-
-v22: דַּוָּי (davvai)
-“Faint” or “sick.” A condition of inward weakness and pain.
+v1: **Forced labor**: Compulsory service imposed on a subject population, reversing the city's former rank.

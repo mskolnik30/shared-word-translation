@@ -4,78 +4,43 @@ testament: OT
 chapter: 43
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-41-52-biblical-fluency-2026-09-16
 ---
 
-## The People Reject Jeremiah’s Word
+## The answer rejected
 
 <p>
-v01: When Jeremiah had finished speaking to all the people all the words of the LORD their God with which the LORD their God had sent him to them—all these words—
-
-v02: Azariah son of Hoshaiah, Johanan son of Kareah, and all the arrogant men said to Jeremiah, “You are speaking falsehood. The LORD our God did not send you to say, ‘Do not go to Egypt to live there as resident aliens.’
-
-v03: Yet Baruch son of Neriah is inciting you against us in order to give us into the hand of the Chaldeans, so that they may put us to death and carry us into exile to Babylon.”
-
-v04: So Johanan son of Kareah, all the commanders of the armies, and all the people did not listen to the voice of the LORD to remain in the land of Judah.
+v01: Jeremiah finished telling all the people every word of the **LORD** their God—all these words the **LORD** their God had sent him to speak to them.
+v02: Then Azariah son of Hoshaiah, Johanan son of Kareah, and all the arrogant men said to Jeremiah, “You are lying! The **LORD** our God did not send you to say, ‘Do not go to Egypt to settle there.’
+v03: Baruch son of Neriah is turning you against us, to hand us over to the Chaldeans so they can kill us or carry us into exile in Babylon.”
+v04: So Johanan son of Kareah, all the army commanders, and all the people refused to obey the **LORD**'s command to stay in the land of Judah.
+v05: Johanan son of Kareah and all the army commanders took the whole remnant of Judah who had returned from all the nations where they had been scattered to settle in Judah:
+v06: the men, women, children, and king's daughters—everyone Nebuzaradan, captain of the guard, had left with Gedaliah son of Ahikam, son of Shaphan. They also took Jeremiah the prophet and Baruch son of Neriah.
+v07: They entered Egypt, refusing to obey the **LORD**, and reached Tahpanhes.
 </p>
 
-## The Remnant Goes to Egypt
+## Stones at Tahpanhes
 
 <p>
-v05: Johanan son of Kareah and all the commanders of the armies took all the remnant of Judah who had returned from all the nations where they had been driven to live in the land of Judah:
-
-v06: the men, women, little children, the king’s daughters, every person whom Nebuzaradan captain of the guard had left with Gedaliah son of Ahikam, son of Shaphan, and Jeremiah the prophet and Baruch son of Neriah.
-
-v07: They entered the land of Egypt, for they did not listen to the voice of the LORD, and they came as far as Tahpanhes.
-</p>
-
-## Jeremiah Hides Stones at Tahpanhes
-
-<p>
-v08: Then the word of the LORD came to Jeremiah at Tahpanhes, saying,
-
-v09: “Take large stones in your hand and hide them in mortar in the pavement at the entrance of Pharaoh’s palace in Tahpanhes, in the sight of the Judean men.
-
-v10: Say to them: Thus says the LORD of Hosts, the God of Israel: Look, I am sending and taking Nebuchadnezzar king of Babylon, my servant, and I will set his throne above these stones that I have hidden, and he will spread his royal canopy over them.
-
-v11: He will come and strike the land of Egypt: those for death, to death; those for captivity, to captivity; and those for the sword, to the sword.
-
-v12: I will kindle a fire in the houses of the gods of Egypt, and he will burn them and carry them captive. He will wrap the land of Egypt around himself as a shepherd wraps his garment, and he will go out from there in peace.
-
-v13: He will break the pillars of Beth-Shemesh that is in the land of Egypt and burn the houses of the gods of Egypt with fire.”
+v08: In Tahpanhes, the word of the **LORD** came to Jeremiah:
+v09: “Take large stones and hide them in the mortar of the brickwork at the entrance to Pharaoh's palace in Tahpanhes, while the men of Judah watch.
+v10: Tell them, ‘This is what the **LORD** of hosts, the God of Israel, says: I am sending for my servant Nebuchadnezzar king of Babylon. I will place his throne over these stones I have hidden, and he will spread his canopy above them.
+v11: He will come and strike Egypt: those destined for death, to death; those for captivity, to captivity; those for the sword, to the sword.
+v12: I will set fire to the temples of Egypt's gods. He will burn them and carry them away. He will wrap himself in Egypt as a shepherd wraps himself in his garment, and leave there unharmed.
+v13: He will shatter the pillars of Beth-shemesh in Egypt and burn the temples of Egypt's gods.’”
 </p>
 
 ## Notes
 
-v02: The people who had promised to obey “whether good or bad” now accuse Jeremiah of falsehood once the answer contradicts their intention.
+v2: Azariah son of Hoshaiah is named here; 42:1 names Jezaniah son of Hoshaiah. The draft preserves the difference.
 
-v03: Baruch is blamed as the hidden influence behind Jeremiah’s message, shifting responsibility away from the prophetic claim that the word came from the LORD.
+v9–12: The installation holding the stones is uncertain: brickwork, pavement, or a brickmaking area has been proposed. The garment image in verse 12 may describe wrapping Egypt around the conqueror; another reading is cleaning it out as a shepherd cleans a garment.
 
-v05–07: Jeremiah and Baruch are taken to Egypt with the remnant. The narrative does not say that they voluntarily reject the command they had proclaimed.
-
-v09: The stones are an enacted sign placed at a politically symbolic location in Tahpanhes, anticipating Babylonian authority reaching into Egypt.
-
-v10: Nebuchadnezzar is again called the LORD’s “servant,” extending his role as an instrument of judgment beyond Judah.
-
-v12: The image of a shepherd wrapping a garment suggests the ease and completeness with which the conqueror will take possession of Egypt.
-
-v13: “Beth-Shemesh” here refers to an Egyptian “House of the Sun,” commonly associated with Heliopolis, rather than the Judean city of the same translated name.
+v13: Beth-shemesh means “house of the sun.” Here it is explicitly in Egypt, associated with the solar sanctuary commonly called Heliopolis; it is not the Judean town of the same name.
 
 ## Vocabulary
 
-v02: זֵד (zed)
-“Arrogant” or “presumptuous.” Characterizing those who reject Jeremiah’s word.
-
-v03: סוּת (sut)
-“To incite” or “urge.” Baruch is accused of turning Jeremiah against the people.
-
-v09: מֶלֶט (melet)
-“Mortar” or “clay.” Material in which Jeremiah hides the stones.
-
-v10: שַׁפְרִיר (shafrir)
-“Royal canopy” or “pavilion.” A rare word describing Nebuchadnezzar’s authority over the site.
-
-v12: עָטָה (atah)
-“To wrap” or “envelop.” Used in the shepherd-and-garment comparison.
-
-v13: מַצֵּבָה (matsevah)
-“Pillar.” Standing stones associated here with Egyptian worship.
+v10: **My servant**: The title identifies Babylon's king as the agent of the announced judgment, without making all his actions exemplary.

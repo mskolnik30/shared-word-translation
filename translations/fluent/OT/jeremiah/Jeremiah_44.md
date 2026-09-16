@@ -4,130 +4,65 @@ testament: OT
 chapter: 44
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-41-52-biblical-fluency-2026-09-16
 ---
 
-## A Word to the Judeans in Egypt
+## A word to the Judeans in Egypt
 
 <p>
-v01: The word that came to Jeremiah concerning all the Judeans living in the land of Egypt, living at Migdol, Tahpanhes, Memphis, and in the land of Pathros, saying,
-
-v02: “Thus says the LORD of Hosts, the God of Israel: You yourselves have seen all the disaster that I brought upon Jerusalem and upon all the cities of Judah. Look, they are a ruin this day, and no one lives in them,
-
-v03: because of the evil that they did to provoke me to anger by going to burn incense and serve other gods whom they had not known, neither they, you, nor your ancestors.
-
-v04: Yet I sent to you all my servants the prophets, rising early and sending them, saying, ‘Please do not do this detestable thing that I hate.’
-
-v05: But they did not listen or incline their ear to turn from their evil, not burning incense to other gods.
-
-v06: So my fury and my anger were poured out and burned in the cities of Judah and in the streets of Jerusalem, and they became a ruin and a desolation, as they are this day.
+v01: The word came to Jeremiah concerning all the Judeans living in Egypt—in Migdol, Tahpanhes, Memphis, and the land of Pathros:
+v02: “This is what the **LORD** of hosts, the God of Israel, says: You have seen all the disaster I brought on Jerusalem and all Judah's towns. Today they lie ruined, with no one living in them,
+v03: because of the evil they did to provoke me. They went to burn incense and serve other gods, gods unknown to them, to you, and to your ancestors.
+v04: Again and again I sent you all my servants the prophets, saying, ‘Please do not do this abhorrent thing that I hate.’
+v05: But they would not listen or pay attention. They would not turn from their evil and stop burning incense to other gods.
+v06: So my wrath and anger poured out and burned in Judah's towns and Jerusalem's streets. They became ruins, a desolation, as they are today.
+v07: “Now this is what the **LORD**, the God of hosts, the God of Israel, says: Why are you bringing such great harm on yourselves, cutting off man and woman, child and nursing infant from Judah, leaving yourselves no remnant?
+v08: Why provoke me with what your hands have made, burning incense to other gods in Egypt, where you have come to settle? You will cut yourselves off and become a curse and a disgrace among all the nations of the earth.
+v09: Have you forgotten the evil of your ancestors, of Judah's kings and their wives, of yourselves and your wives, done in Judah and in Jerusalem's streets?
+v10: To this day they have not humbled themselves or shown reverence. They have not followed my instruction and my statutes, which I set before you and your ancestors.
+v11: “Therefore this is what the **LORD** of hosts, the God of Israel, says: I am setting my face against you for disaster, to cut off all Judah.
+v12: I will take the remnant of Judah who set their faces toward Egypt to settle there, and they will all come to an end in Egypt. They will fall by the sword and waste away in famine. From the least to the greatest, they will die by sword and famine and become an example invoked in oaths, an object of horror, a curse, and a disgrace.
+v13: I will call those living in Egypt to account, just as I called Jerusalem to account, by sword, famine, and plague.
+v14: None of the remnant of Judah who have come to settle in Egypt will escape or survive to return to Judah, where they long to return and live. They will not return—except for a few fugitives.”
 </p>
 
-## Why Bring Disaster on Yourselves?
+## The people answer
 
 <p>
-v07: “And now, thus says the LORD, the God of Hosts, the God of Israel: Why are you doing great evil against your own lives, to cut off from yourselves man and woman, child and nursing infant from the midst of Judah, leaving yourselves no remnant?
-
-v08: Why provoke me to anger with the work of your hands, burning incense to other gods in the land of Egypt where you have come to live as resident aliens, so that you cut yourselves off and become a curse and a reproach among all the nations of the earth?
-
-v09: Have you forgotten the evil of your ancestors, the evil of the kings of Judah, the evil of their wives, your own evil, and the evil of your wives, which they did in the land of Judah and in the streets of Jerusalem?
-
-v10: They have not been humbled to this day, nor have they feared or walked in my instruction and my statutes that I set before you and before your ancestors.
+v15: Then all the men who knew their wives were burning incense to other gods, all the women standing there—a large assembly—and all the people living in Pathros in Egypt answered Jeremiah:
+v16: “As for the word you have spoken to us in the name of the **LORD**, we will not listen to you.
+v17: We will certainly do everything we have promised: burn incense to the Queen of Heaven and pour out drink offerings to her, as we, our ancestors, our kings, and our officials did in Judah's towns and Jerusalem's streets. Then we had plenty of bread, lived well, and saw no disaster.
+v18: But ever since we stopped burning incense to the Queen of Heaven and pouring out drink offerings to her, we have lacked everything and been consumed by sword and famine.”
+v19: The women added, “When we burned incense to the Queen of Heaven and poured out drink offerings to her, did we make cakes bearing her image and pour out offerings without our husbands?”
 </p>
 
-## None Will Return Except Fugitives
+## Whose word will stand?
 
 <p>
-v11: “Therefore thus says the LORD of Hosts, the God of Israel: Look, I am setting my face against you for harm, to cut off all Judah.
-
-v12: I will take the remnant of Judah who set their faces to enter the land of Egypt to live there as resident aliens, and they will all be consumed. In the land of Egypt they will fall; by sword and famine they will be consumed. From least to greatest they will die by sword and famine, and they will become a curse, a horror, a malediction, and a reproach.
-
-v13: I will attend to people who live in the land of Egypt just as I attended to Jerusalem, by sword, famine, and plague.
-
-v14: None of the remnant of Judah who entered the land of Egypt to live there as resident aliens will escape or survive to return to the land of Judah, to which they lift up their lives to return and dwell there. They will not return except fugitives.”
-</p>
-
-## The People Defend the Queen of Heaven
-
-<p>
-v15: Then all the men who knew that their wives were burning incense to other gods, and all the women who stood by—a great assembly—and all the people who lived in the land of Egypt in Pathros answered Jeremiah, saying,
-
-v16: “As for the word that you have spoken to us in the name of the LORD, we will not listen to you.
-
-v17: But we will certainly do every word that has gone out from our mouths, burning incense to the Queen of Heaven and pouring out drink offerings to her, as we did, we and our ancestors, our kings and our officials, in the cities of Judah and in the streets of Jerusalem. Then we had plenty of food and were well and saw no disaster.
-
-v18: But from the time we ceased burning incense to the Queen of Heaven and pouring out drink offerings to her, we have lacked everything and have been consumed by sword and famine.”
-
-v19: And the women said, “When we burned incense to the Queen of Heaven and poured out drink offerings to her, did we make cakes for her in her image and pour out drink offerings to her without our husbands?”
-</p>
-
-## Jeremiah Answers the People
-
-<p>
-v20: Then Jeremiah said to all the people, to the men and to the women and to all the people who had answered him a word, saying,
-
-v21: “The incense that you burned in the cities of Judah and in the streets of Jerusalem—you, your ancestors, your kings, your officials, and the people of the land—did not the LORD remember it, and did it not come up upon his heart?
-
-v22: The LORD could no longer bear it because of the evil of your deeds and because of the detestable things you committed. Therefore your land became a ruin, a horror, and a curse, without inhabitant, as it is this day.
-
-v23: Because you burned incense and sinned against the LORD and did not listen to the voice of the LORD or walk in his instruction, statutes, and testimonies, therefore this disaster has happened to you, as it is this day.”
-</p>
-
-## The LORD’s Name Will No Longer Be Spoken by Them
-
-<p>
-v24: Jeremiah said to all the people and to all the women, “Hear the word of the LORD, all Judah who are in the land of Egypt.
-
-v25: Thus says the LORD of Hosts, the God of Israel: You and your wives have spoken with your mouths and fulfilled with your hands, saying, ‘We will surely perform our vows that we vowed, to burn incense to the Queen of Heaven and pour out drink offerings to her.’ Then surely establish your vows and surely perform your vows!
-
-v26: So hear the word of the LORD, all Judah who live in the land of Egypt: Look, I swear by my great name,” says the LORD, “that my name will no longer be called by the mouth of any man of Judah in all the land of Egypt, saying, ‘As the Lord GOD lives.’
-
-v27: Look, I am watching over them for harm and not for good, and all the men of Judah who are in the land of Egypt will be consumed by sword and famine until they are finished.
-
-v28: But a few in number who escape the sword will return from the land of Egypt to the land of Judah. Then all the remnant of Judah who came to the land of Egypt to live there as resident aliens will know whose word will stand, mine or theirs.
-</p>
-
-## A Sign Concerning Pharaoh Hophra
-
-<p>
-v29: “And this will be the sign for you,” says the LORD, “that I am attending to you in this place, so that you may know that my words will surely stand against you for harm:
-
-v30: Thus says the LORD: Look, I am giving Pharaoh Hophra king of Egypt into the hand of his enemies and into the hand of people who seek his life, just as I gave Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, his enemy who sought his life.”
+v20: Jeremiah answered all the people—the men, the women, and everyone who had replied to him:
+v21: “The incense you burned in Judah's towns and Jerusalem's streets—you, your ancestors, your kings, your officials, and the people of the land—wasn't that what the **LORD** remembered? Didn't it come to his mind?
+v22: The **LORD** could no longer bear your evil deeds and the abhorrent things you did. That is why your land became a ruin, a horror, and a curse, without inhabitants, as it is today.
+v23: Because you burned incense and sinned against the **LORD**, because you did not obey the **LORD** or follow his instruction, statutes, and testimonies, this disaster has overtaken you, as you see today.”
+v24: Then Jeremiah said to all the people, including all the women, “Hear the word of the **LORD**, all you people of Judah in Egypt.
+v25: This is what the **LORD** of hosts, the God of Israel, says: ‘You and your wives have carried out with your hands what you said with your mouths: “We will certainly fulfill our vows to burn incense to the Queen of Heaven and pour out drink offerings to her.” Go ahead, confirm your vows! Fulfill your vows!
+v26: But hear the word of the **LORD**, all Judah living in Egypt: I swear by my great name, says the **LORD**, that no one from Judah anywhere in Egypt will again invoke my name by saying, “As the Lord **GOD** lives.”
+v27: I am watching over them for harm, not for good. All the people of Judah in Egypt will be consumed by sword and famine until they are finished.
+v28: Only a few who escape the sword will return from Egypt to Judah. Then all the remnant of Judah who came to settle in Egypt will know whose word stands—mine or theirs.
+v29: And this will be your sign, declares the **LORD**, that I will call you to account in this place, so you may know that my words of disaster against you will certainly stand.
+v30: This is what the **LORD** says: I am handing Pharaoh Hophra king of Egypt over to his enemies, to those who seek his life, just as I handed Zedekiah king of Judah over to Nebuchadnezzar king of Babylon, his enemy who sought his life.’”
 </p>
 
 ## Notes
 
-v01: The locations show a widely dispersed Judean population in Egypt, from the northeastern Delta to Pathros in Upper Egypt.
+v9: The Hebrew shifts from the plural “kings” to “his wives.” The draft takes the singular collectively; it does not identify a particular king.
 
-v09: Responsibility is distributed across ancestors, kings, royal women, men, and women. Jeremiah does not isolate idolatry within one gender or social class.
+v14,28: The sweeping denial of survival is followed by an exception for a few fugitives. Both statements are preserved.
 
-v15–19: The people offer an alternative interpretation of Judah’s history: they remember prosperity during worship of the Queen of Heaven and disaster after ceasing it. Jeremiah directly contests their causal reading.
-
-v17: “Queen of Heaven” is a title whose precise deity is debated, often associated with a major Mesopotamian or West Semitic goddess. TSW retains the title rather than identifying her by a reconstructed name.
-
-v19: The women insist their husbands knew of and participated in the ritual practice, resisting any attempt to place responsibility upon women alone.
-
-v25: Jeremiah’s command to “establish your vows” is ironic judgment, not approval of the vows. Their insistence on the practice is allowed to run toward its announced consequence.
-
-v28: A small number will return, preserving an exception inside an otherwise severe judgment oracle.
-
-v30: Pharaoh Hophra—Apries in Greek sources—becomes the confirming sign that Egypt itself cannot provide the security the Judean refugees sought.
+v17–19,25: The people and Jeremiah give opposing accounts of the disaster. “The women added” is supplied in verse 19 from their reference to “our husbands.” The cake expression may refer to representing or honoring the goddess. Several verbs in verse 25 are feminine plural, directing attention to the women within the larger group.
 
 ## Vocabulary
 
-v01: פַּתְרוֹס (Pathros)
-“Pathros.” A designation for Upper Egypt.
-
-v10: דָּכָא (daka)
-“To be humbled” or “crushed.” The people have not humbled themselves before the LORD.
-
-v17: מְלֶכֶת הַשָּׁמַיִם (meleket ha-shamayim)
-“Queen of Heaven.” A divine title used by the Judean worshipers in Egypt.
-
-v19: כַּוָּנִים (kavvanim)
-“Cakes.” Ritual cakes associated with worship of the Queen of Heaven.
-
-v26: שָׁבַע (shava)
-“To swear.” The LORD swears by the divine great name.
-
-v28: מִסְפָּר (mispar)
-“Number.” Only a small number escape and return.
+v17: **Queen of Heaven**: A title used here for the deity receiving incense, cakes, and drink offerings. The passage does not give her a personal name.

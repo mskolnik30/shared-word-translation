@@ -4,447 +4,185 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-lamentations-1-5-biblical-fluency-2026-09-16
 ---
 
-## Affliction Under the LORD’s Hand
+## The man who has seen affliction
 
 <p>
-v01: I am the one who has seen affliction
-  under the rod of the LORD’s wrath.
+v01: I am the man who has seen affliction
+under the rod of his fury.
+v02: He led me and made me walk
+in darkness, without light.
+v03: Against me he turns his hand
+again and again, all day long.
+v04: He wore away my flesh and skin;
+he broke my bones.
+v05: He built siegeworks against me,
+surrounding me with bitterness and hardship.
+v06: He made me live in dark places,
+like those long dead.
+v07: He walled me in so I cannot escape;
+he made my bronze chain heavy.
+v08: Even when I cry out and plead,
+he shuts out my prayer.
+v09: He blocked my roads with cut stone
+and twisted my paths.
+v10: He is a bear lying in wait for me,
+a lion in hiding.
+v11: He forced me off my paths and tore me apart;
+he left me desolate.
+v12: He drew his bow
+and set me up as a target for his arrow.
+v13: He drove the sons of his quiver
+into my kidneys.
+v14: I became a laughingstock to all my people,
+the subject of their songs all day long.
+v15: He filled me with bitter things
+and made me drink my fill of wormwood.
+v16: He ground my teeth with gravel
+and pressed me into ashes.
+v17: You have driven my life away from peace;
+I have forgotten what good is.
+v18: I said, “My endurance is gone,
+and so is my hope from the **LORD**.”
 </p>
 
-<p>
-v02: The LORD has driven me and brought me
-  into darkness and not into light.
-</p>
+## Remembering and hoping
 
 <p>
-v03: Surely the LORD turns a hand against me,
-  again and again all the day long.
-</p>
-
-<p>
-v04: The LORD has made my flesh and my skin waste away;
-  the LORD has broken my bones.
-</p>
-
-<p>
-v05: The LORD has besieged me
-  and surrounded me with bitterness and hardship.
-</p>
-
-<p>
-v06: The LORD has made me dwell in darkness,
-  like those long dead.
-</p>
-
-<p>
-v07: The LORD has walled me in so that I cannot escape;
-  the LORD has made my chains heavy.
-</p>
-
-<p>
-v08: Even when I cry and call for help,
-  the LORD shuts out my prayer.
-</p>
-
-<p>
-v09: The LORD has blocked my ways with hewn stones;
-  the LORD has made my paths crooked.
-</p>
-
-<p>
-v10: The LORD is to me like a bear lying in wait,
-  like a lion in hiding.
-</p>
-
-<p>
-v11: The LORD turned aside my steps and tore me to pieces;
-  the LORD has left me desolate.
-</p>
-
-<p>
-v12: The LORD bent the bow
-  and set me as a target for the arrow.
-</p>
-
-<p>
-v13: The LORD drove into my kidneys
-  the arrows of the LORD’s quiver.
-</p>
-
-<p>
-v14: I have become a laughingstock to all my people,
-  their mocking song all day long.
-</p>
-
-<p>
-v15: The LORD has filled me with bitterness;
-  the LORD has made me drunk with wormwood.
-</p>
-
-<p>
-v16: The LORD has ground my teeth with gravel;
-  the LORD has pressed me into the dust.
-</p>
-
-<p>
-v17: My whole being is deprived of peace;
-  I have forgotten what well-being is.
-</p>
-
-<p>
-v18: So I said, “My endurance has perished,
-  and so has my hope from the LORD.”
-</p>
-
-<p>
-v19: Remember my affliction and my wandering—
-  the wormwood and the gall!
-</p>
-
-<p>
-v20: My whole being remembers it
-  and is bowed down within me.
-</p>
-
-## The Steadfast Love of the LORD
-
-<p>
-v21: But this I call to mind,
-  and therefore I have hope:
-</p>
-
-<p>
-v22: The steadfast love of the LORD never ceases;
-  the LORD’s mercies never come to an end;
-</p>
-
-<p>
-v23: they are new every morning;
-  great is your faithfulness.
-</p>
-
-<p>
-v24: “The LORD is my portion,” says my whole being,
-  “therefore I will hope in the LORD.”
-</p>
-
-<p>
-v25: The LORD is good to people who wait for him,
-  to the one who seeks him.
-</p>
-
-<p>
+v19: Remember my affliction and wandering,
+the wormwood and the poison.
+v20: My soul remembers them again and again
+and sinks within me.
+v21: But this I bring back to mind,
+and so I have hope:
+v22: Through the **LORD**'s acts of steadfast love we have not come to an end,
+for his compassion has not run out.
+v23: They are new every morning.
+Great is your faithfulness!
+v24: “The **LORD** is my portion,” my soul says,
+“so I will hope in him.”
+v25: The **LORD** is good to those who wait for him,
+to the person who seeks him.
 v26: It is good to wait quietly
-  for the salvation of the LORD.
+for the **LORD**'s salvation.
+v27: It is good for a man
+to carry a yoke in his youth.
+v28: Let him sit alone and be silent,
+for God has laid it on him.
+v29: Let him put his mouth in the dust—
+perhaps there is hope.
+v30: Let him offer his cheek to the one who strikes him;
+let him have his fill of disgrace.
+v31: For the Lord will not reject forever.
+v32: Though he causes grief, he will show compassion
+according to his abundant steadfast love.
+v33: For it is not from his heart
+that he afflicts or grieves human beings.
 </p>
 
-<p>
-v27: It is good for a person to bear
-  the yoke in youth.
-</p>
-
-<p>
-v28: Let them sit alone in silence
-  when the LORD has laid it on them;
-</p>
-
-<p>
-v29: let them put their mouth in the dust—
-  perhaps there may yet be hope;
-</p>
-
-<p>
-v30: let them give their cheek to the one who strikes,
-  and let them be filled with insults.
-</p>
-
-<p>
-v31: For the Lord will not reject forever,
-</p>
-
-<p>
-v32: but though he causes grief, he will have compassion
-  according to the abundance of his steadfast love;
-</p>
-
-<p>
-v33: for he does not afflict from his heart
-  or grieve the children of humanity.
-</p>
-
-## God Sees, God Judges, God Will Hear
+## Justice and judgment
 
 <p>
 v34: To crush underfoot
-  all the prisoners of the earth,
+all the prisoners of the earth,
+v35: to deny a man justice
+in the presence of the Most High,
+v36: to wrong someone in a lawsuit—
+does the Lord not see?
+v37: Who speaks and it happens
+unless the Lord has commanded it?
+v38: Do not disaster and good alike
+come from the mouth of the Most High?
+v39: Why should a living man complain
+about the consequences of his sins?
 </p>
 
-<p>
-v35: to deny a person justice
-  before the face of the Most High,
-</p>
+## Let us return
 
 <p>
-v36: to subvert a person in a lawsuit—
-  the Lord does not approve.
-</p>
-
-<p>
-v37: Who has spoken and it happened,
-  unless the Lord has commanded it?
-</p>
-
-<p>
-v38: Is it not from the mouth of the Most High
-  that both calamity and good come?
-</p>
-
-<p>
-v39: Why should any living person complain
-  about the punishment of their sins?
-</p>
-
-<p>
-v40: Let us examine our ways and test them,
-  and let us return to the LORD.
-</p>
-
-<p>
-v41: Let us lift up our hearts and hands
-  to God in heaven:
-</p>
-
-<p>
-v42: “We have rebelled and been stubborn,
-  and you have not forgiven.”
-</p>
-
-<p>
-v43: You have wrapped yourself in anger and pursued us;
-  you have killed without pity.
-</p>
-
-<p>
-v44: You have wrapped yourself with a cloud
-  so that prayer cannot pass through.
-</p>
-
-<p>
-v45: You have made us scum and refuse
-  among the peoples.
-</p>
-
-<p>
+v40: Let us examine and search our ways
+and return to the **LORD**.
+v41: Let us lift our hearts with our hands
+to God in heaven.
+v42: We have rebelled and defied you;
+you have not forgiven.
+v43: You wrapped yourself in anger and pursued us;
+you killed without pity.
+v44: You wrapped yourself in a cloud
+so no prayer could pass through.
+v45: You made us refuse and filth
+among the peoples.
 v46: All our enemies
-  open their mouths against us.
+open their mouths against us.
+v47: Terror and pit have come upon us,
+devastation and destruction.
 </p>
 
-<p>
-v47: Terror and pitfall have come upon us,
-  ruin and destruction.
-</p>
+## Tears and a plea
 
 <p>
-v48: My eyes flow with streams of tears
-  because of the destruction of the daughter of my people.
-</p>
-
-<p>
-v49: My eyes will pour down without ceasing,
-  without relief,
-</p>
-
-<p>
-v50: until the LORD looks down
-  and sees from heaven.
-</p>
-
-<p>
-v51: My eyes bring grief to my soul
-  because of all the daughters of my city.
-</p>
-
-<p>
-v52: People who are my enemies without cause
-  hunted me like a bird;
-</p>
-
-<p>
-v53: they cast me alive into the pit
-  and threw stones on me;
-</p>
-
-<p>
-v54: water closed over my head;
-  I said, “I am lost.”
-</p>
-
-<p>
-v55: I called on your name, O LORD,
-  from the depths of the pit;
-</p>
-
-<p>
-v56: you heard my voice:
-  “Do not hide your ear from my sighing,
-  from my cry for help.”
-</p>
-
-<p>
-v57: You came near when I called on you;
-  you said, “Do not fear!”
-</p>
-
-<p>
-v58: You have taken up my cause, O Lord;
-  you have redeemed my life.
-</p>
-
-<p>
-v59: O LORD, you have seen the wrong done to me;
-  judge my case.
-</p>
-
-<p>
+v48: My eye pours out streams of water
+because my people are shattered.
+v49: My eye streams without stopping,
+without a moment's relief,
+v50: until the **LORD** looks down
+and sees from heaven.
+v51: What my eye sees torments my soul
+because of all the daughters of my city.
+v52: Those who hated me without cause
+hunted me like a bird.
+v53: They tried to end my life in a pit
+and threw stones at me.
+v54: Water closed over my head.
+I said, “I am cut off!”
+v55: I called your name, **LORD**,
+from the deepest pit.
+v56: You heard my voice:
+“Do not close your ear
+to my plea for relief, to my cry for help.”
+v57: You drew near when I called to you;
+you said, “Do not fear.”
+v58: Lord, you took up the cases concerning my life;
+you redeemed my life.
+v59: You have seen the wrong done to me, **LORD**;
+judge my case.
 v60: You have seen all their vengeance,
-  all their plots against me.
-</p>
-
-<p>
-v61: You have heard their insults, O LORD,
-  all their plots against me—
-</p>
-
-<p>
-v62: the lips and thoughts of my attackers,
-  all day long.
-</p>
-
-<p>
-v63: Look at them—sitting or rising;
-  I am their mocking song.
-</p>
-
-<p>
-v64: You will repay them, O LORD,
-  according to the work of their hands.
-</p>
-
-<p>
-v65: You will give them hardness of heart;
-  your curse will be on them.
-</p>
-
-<p>
-v66: You will pursue them in anger and destroy them
-  from under the heavens of the LORD.
+all their plots against me.
+v61: You have heard their insults, **LORD**,
+all their plots against me,
+v62: the words of those who rise against me,
+their muttering against me all day long.
+v63: Look at them sitting and rising—
+I am their mocking song.
+v64: Repay them, **LORD**,
+according to what their hands have done.
+v65: Give them a covering over the heart;
+let your curse be on them.
+v66: Pursue them in anger and destroy them
+from beneath the heavens of the **LORD**.
 </p>
 
 ## Notes
 
-v01–03: “affliction… darkness… again and again” — The lament is relentless and personal; suffering is narrated as sustained divine pressure, not a single bad day.
+v1–3: Each Hebrew letter begins three successive verses in this sixty-six-verse poem. The opening speaker is a man, but the poem does not name him. The source uses “he,” not repeated instances of the divine name, until verse 18.
 
-v07–09: “walled me in… shuts out my prayer… blocked my ways” — The poet names the terror of divine silence and confinement: no exit, no hearing, no clear path.
+v18–22: The word rendered “endurance” can also mean lasting strength or splendor. Verse 19 can be an appeal to remember or a statement of recollection. The pinned Hebrew of verse 22 says “we have not come to an end”; the familiar “his love never ceases” follows a different construal or reading.
 
-v10–13: bear / lion / target — God is imagined as hunter and archer; these metaphors are not doctrinal claims but grief-speech that tells the truth of felt experience.
+v28–39: These reflections remain inside the afflicted speaker's poem. “God” in verse 28 clarifies an implied agent; another reading takes the burden as something the man assumes. “From his heart” in verse 33 concerns willingness or desire. Verse 36 can ask whether the Lord sees, or state that he does not approve. Verse 39 literally speaks of a man's sins, with their consequences understood here.
 
-v14–18: “laughingstock… wormwood… hope… perished” — Social shame compounds inner agony; bitterness becomes bodily, and hope feels extinguished.
+v42–44,64–66: The poem returns from hope to “you have not forgiven” and blocked prayer, then ends with a petition for vengeance. These turns have not been smoothed into a single reassuring conclusion.
 
-v21: “this I call to mind” — The hinge is memory: not denial of pain, but a deliberate reorientation of attention.
-
-v22–24: “steadfast love… mercies… new every morning… portion” — Covenant language breaks through despair. Hope is grounded in God’s character and daily renewed compassion, not in immediate circumstance.
-
-v26: “wait quietly” — Quiet waiting is framed as strength, not passivity: a disciplined refusal to panic or self-save.
-
-v27–30: “bear the yoke… mouth in the dust… cheek to the striker” — These are hard sayings. The point is endurance under suffering without retaliatory violence, holding open the possibility of hope.
-
-v31–33: “not reject forever… not… from his heart” — The poem insists grief is not God’s final word; compassion is deeper than judgment, and affliction is not God’s delight.
-
-v34–36: “deny justice… the Lord does not approve” — Even amid divine judgment, God is not aligned with oppression. Injustice is condemned as contrary to the Most High.
-
-v37–38: “unless the Lord has commanded… calamity and good” — A high view of God’s sovereignty is voiced without neat explanations; the text refuses a world where suffering is outside God’s awareness.
-
-v40–42: “examine… return… rebelled” — Lament turns communal: confession and return are named as fitting responses, without pretending they instantly erase consequences.
-
-v43–45: “wrapped… anger… prayer cannot pass” — The sense of blocked prayer returns; alienation is pictured as cosmic weather—clouded heavens.
-
-v48–51: “streams of tears… until the LORD looks down” — Persistent weeping becomes intercession; the poet prays through tears toward God’s seeing.
-
-v55–58: “called… from the pit… you came near… redeemed” — The second major turning: God’s nearness breaks in, not as abstraction but as reassurance (“Do not fear”) and rescue.
-
-v59–63: “judge my case… you have seen… you have heard” — The poet appeals to God as witness and judge; justice is entrusted to God’s sight and hearing.
-
-v64–66: repayment / curse — The ending is raw. It voices the desire for moral reckoning rather than personal revenge, placing vengeance in God’s hands—even while the language remains fierce and unresolved.
+v51–56,65: Verse 51's relation to the city's daughters is uncertain; it may mean grief because of them or more than theirs. Verse 53 can describe stones thrown at the speaker or a stone placed over the pit. Verse 56's plea for relief can also refer to breathing or sighing. The “covering” of the heart in verse 65 is obscure and may imply hardness or obstruction.
 
 ## Vocabulary
 
-v01: עֳנִי (ʿoni) — affliction; misery
+v13: **Sons of his quiver**: An image for arrows. “Kidneys” names the inner body struck by them.
 
-v01: שֵׁבֶט (shevet) — rod; staff; scepter
+v15: **Wormwood**: A bitter plant used here as an image of suffering.
 
-v02: חֹשֶׁךְ (ḥoshekh) — darkness
-
-v05: מָרוֹר (maror) — bitterness
-
-v07: גָּדַר (gadar) — to wall in; to fence up
-
-v07: נְחֹשֶׁת (neḥoshet) — bronze (as in “bronze chains”)
-
-v08: תְּפִלָּה (tefillah) — prayer
-
-v09: גָּזִית (gazit) — hewn stone; cut stone
-
-v10: דֹּב (dov) — bear
-
-v10: אַרְיֵה (’aryeh) — lion
-
-v12: קֶשֶׁת (qeshet) — bow
-
-v13: כִּלְיָה (kilyah) — kidneys (seat of inner life)
-
-v15: לַעֲנָה (laʿanah) — wormwood
-
-v16: חָצָץ (ḥatsats) — gravel; small stones
-
-v17: שָׁלוֹם (shalom)
-“Peace; wholeness.”
-
-v18: תִּקְוָה (tiqvah) — hope
-
-v22: רַחֲמִים (raḥamim) — mercies; compassion
-
-v22: חֶסֶד (ḥesed)
-“Steadfast love; covenant loyalty.”
-
-v23: אֱמוּנָה (’emunah)
-“Faithfulness; steadiness.”
-
-v24: חֵלֶק (ḥeleq) — portion; share
-
-v25: קָוָה (qavah) — to wait for; to hope in
-
-v33: לֵב (lev) — heart; inner will
-
-v35: מִשְׁפָּט (mishpat)
-“Justice; judgment.”
-
-v38: רָעָה (ra‘ah) — calamity; evil; disaster (context)
-
-v40: חָקַר (ḥaqar) — to examine; to search out
-
-v40: שׁוּב (shuv) — to return; to turn back
-
-v48: דִּמְעָה (dim‘ah) — tear
-
-v52: צִפּוֹר (tsippor) — bird
-
-v53: בּוֹר (bor) — pit; cistern
-
-v58: גָּאַל (ga’al)
-“To redeem; to reclaim.”
-
-v61: חֶרְפָּה (ḥerpah) — reproach; insult; disgrace
-
-v65: מְגִנָּה (meginnah) — hardness/shielding of heart (sense in context); protective covering
+v24: **Portion**: One's allotted share or inheritance. The speaker calls the LORD his portion.

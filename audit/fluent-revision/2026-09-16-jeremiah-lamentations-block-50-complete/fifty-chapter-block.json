@@ -1,0 +1,33 @@
+{
+  "scope": "Jeremiah 8–52; Lamentations 1–5",
+  "status": "DRAFT_COMPLETED",
+  "chapters": 50,
+  "verses": 1311,
+  "portions": [
+    {
+      "scope": "Jeremiah 8–20",
+      "verses": 287,
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json"
+    },
+    {
+      "scope": "Jeremiah 21–40",
+      "verses": 517,
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-21-40/jeremiah-verse-review.json"
+    },
+    {
+      "scope": "Jeremiah 41–52",
+      "verses": 353,
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-41-52/jeremiah-verse-review.json"
+    },
+    {
+      "scope": "Lamentations 1–5",
+      "verses": 154,
+      "ledger": "audit/fluent-revision/2026-09-16-lamentations-1-5/lamentations-verse-review.json"
+    }
+  ],
+  "structural_qa": "PASSED in each portion; exact cumulative bindings preserved.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "next_block": "Ezekiel 1–48; Daniel 1–2"
+}

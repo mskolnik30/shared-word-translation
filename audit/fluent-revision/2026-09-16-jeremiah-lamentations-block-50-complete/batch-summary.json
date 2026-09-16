@@ -1,0 +1,74 @@
+{
+  "scope": "Jeremiah 41–52; Lamentations 1–5",
+  "chapters": 17,
+  "verses": 507,
+  "status": "FINAL_PORTION_DRAFT_COMPLETED",
+  "fifty_chapter_block": {
+    "scope": "Jeremiah 8–52; Lamentations 1–5",
+    "status": "DRAFT_COMPLETED",
+    "chapters_target": 50,
+    "completed_chapters": 50,
+    "completed_scope": "Jeremiah 8–52; Lamentations 1–5",
+    "completed_verses": 1311,
+    "remaining_scope": null,
+    "remaining_chapters": 0,
+    "qualification": "All fifty chapters drafted and source-bound. Independent editorial review and reader testing pending; publication not allowed."
+  },
+  "books": [
+    {
+      "book": "jeremiah",
+      "rel": "audit/fluent-revision/2026-09-16-jeremiah-41-52",
+      "verses": 353,
+      "chapters": 12,
+      "focused": 111,
+      "overlap": {
+        "before": {
+          "identical": 311,
+          "near_identical_nonidentical": 42,
+          "mean_word_similarity": 0.995807
+        },
+        "after": {
+          "identical": 6,
+          "near_identical_nonidentical": 18,
+          "mean_word_similarity": 0.711452
+        }
+      }
+    },
+    {
+      "book": "lamentations",
+      "rel": "audit/fluent-revision/2026-09-16-lamentations-1-5",
+      "verses": 154,
+      "chapters": 5,
+      "focused": 66,
+      "overlap": {
+        "before": {
+          "identical": 144,
+          "near_identical_nonidentical": 9,
+          "mean_word_similarity": 0.996261
+        },
+        "after": {
+          "identical": 8,
+          "near_identical_nonidentical": 9,
+          "mean_word_similarity": 0.71263
+        }
+      }
+    }
+  ],
+  "focused_authoring_rereads": 177,
+  "refinements": [
+    "Clarified causative desolation in the repeated pasture clauses at Jeremiah 49:20 and 50:45.",
+    "Kept written/read distinctions and the disputed opening of Jeremiah 51:3 explicit.",
+    "Preserved first-person plural we in Lamentations 3:22 and clarified the implied agent in 3:28.",
+    "Kept from his heart governing both affliction and grief in Lamentations 3:33.",
+    "Preserved Lamentations 5:22 as an unresolved ending and named sexual violence plainly in 5:11."
+  ],
+  "overlap_qualification": "Overlap is triage, not proof of fidelity, authorship, or comprehension. Clear shared wording remains where warranted.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "next_work": {
+    "scope": "Ezekiel 1–48; Daniel 1–2",
+    "action": "Next authorized fifty-chapter block. Verify pinned Hebrew/Aramaic sources and versification before independent drafting; complete source bindings and structural checks, preserving independent review limits."
+  },
+  "github": "Previously blocked; no rejected write retried."
+}

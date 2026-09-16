@@ -4,225 +4,140 @@ testament: OT
 chapter: 46
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-41-52-biblical-fluency-2026-09-16
 ---
 
-## Concerning the Nations
+## Words concerning the nations
 
 <p>
-v01: The word of the LORD that came to Jeremiah the prophet concerning the nations:
+v01: The word of the **LORD** that came to Jeremiah the prophet concerning the nations:
 </p>
 
-## Concerning Egypt at Carchemish
+## Egypt at Carchemish
 
 <p>
-v02: Concerning Egypt, concerning the army of Pharaoh Neco king of Egypt, which was by the Euphrates River at Carchemish and which Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim son of Josiah, king of Judah:
-
-v03: Prepare shield and buckler,
-and draw near for battle!
-
-v04: Harness the horses
-and mount, riders!
-Take your stand with helmets;
-polish the spears;
-put on the coats of armor!
-
-v05: Why do I see it?
-They are terrified;
-they are turning backward.
-Their warriors are beaten down
-and flee in haste
-without looking back.
-Terror is all around,
-says the LORD.
-
-v06: The swift cannot flee,
-and the warrior cannot escape.
-In the north, by the bank of the Euphrates River,
+v02: Concerning Egypt: the army of Pharaoh Neco king of Egypt, which was by the Euphrates at Carchemish and which Nebuchadnezzar king of Babylon defeated in the fourth year of Jehoiakim son of Josiah, king of Judah.
+v03: “Ready the small shield and the large shield!
+Advance to battle!
+v04: Harness the horses!
+Mount up, riders!
+Take your positions with helmets on.
+Polish the spears;
+put on your armor!
+v05: Why do I see them terrified,
+falling back?
+Their warriors are crushed.
+They flee in panic and do not look back.
+Terror on every side!” declares the **LORD**.
+v06: The swift cannot flee;
+the warrior cannot escape.
+In the north, beside the Euphrates,
 they stumble and fall.
-</p>
-
-## Egypt Rises Like the Nile
-
-<p>
 v07: Who is this rising like the Nile,
 whose waters surge like rivers?
-
 v08: Egypt rises like the Nile,
-and its waters surge like rivers.
-It says, “I will rise;
-I will cover the earth.
-I will destroy city
-and people who live in it.”
-
-v09: Go up, horses!
-Rage, chariots!
-Let the warriors go out:
-Cush and Put, who handle the shield,
-and the Ludim,
-who handle and bend the bow.
-
-v10: But that day belongs to the Lord GOD of Hosts,
-a day of vengeance,
-to avenge himself on his adversaries.
-The sword will devour and be satisfied;
-it will drink its fill of their blood.
-For the Lord GOD of Hosts has a sacrifice
-in the land of the north
-by the Euphrates River.
-</p>
-
-## There Is No Healing for Egypt
-
-<p>
-v11: Go up to Gilead and take balm,
-virgin daughter Egypt.
-In vain you multiply medicines;
+its waters surging like rivers.
+It says, “I will rise and cover the earth;
+I will destroy cities and their people.”
+v09: Charge, horses!
+Race wildly, chariots!
+Let the warriors march out:
+Cush and Put, carrying shields,
+and the Ludim, handling and drawing the bow.
+v10: But that day belongs to the Lord **GOD** of hosts,
+a day of vengeance, when he takes vengeance on his enemies.
+The sword will eat its fill
+and drink its fill of their blood.
+For the Lord **GOD** of hosts has a sacrifice
+in the north, beside the Euphrates.
+v11: Go up to Gilead and get balm,
+virgin daughter Egypt!
+You multiply remedies in vain;
 there is no healing for you.
-
-v12: The nations have heard your shame,
-and your cry has filled the earth,
-for warrior stumbled against warrior;
-both of them fell together.
+v12: The nations have heard of your disgrace;
+your cry fills the earth.
+Warrior stumbles over warrior;
+both fall together.
 </p>
 
-## Nebuchadnezzar Will Strike Egypt
+## The coming attack on Egypt
 
 <p>
-v13: The word that the LORD spoke to Jeremiah the prophet concerning the coming of Nebuchadnezzar king of Babylon to strike the land of Egypt:
-
-v14: Declare in Egypt,
-make it heard in Migdol;
-make it heard in Memphis
-and in Tahpanhes.
-Say:
-
-“Take your stand and prepare yourself,
-for the sword has devoured
-all around you.
-
-v15: Why has your mighty one been swept away?
-He did not stand,
-because the LORD thrust him down.
-
-v16: He made many stumble;
-indeed, one fell against another.
-They said,
-‘Rise, and let us return to our people
-and to the land of our birth
-because of the sword of the oppressor.’
-
-v17: There they called Pharaoh king of Egypt,
-‘Noise—he has let the appointed time pass.’
-</p>
-
-## The King Is Coming
-
-<p>
-v18: As I live,” says the King,
-whose name is the LORD of Hosts,
-“surely like Tabor among the mountains
-and like Carmel by the sea,
-so he will come.
-
-v19: Prepare baggage for exile,
-inhabitant daughter Egypt,
-for Memphis will become a desolation,
-burned and without inhabitant.
-
+v13: The word the **LORD** spoke to Jeremiah the prophet about Nebuchadnezzar king of Babylon coming to strike Egypt:
+v14: “Announce it in Egypt;
+proclaim it in Migdol,
+proclaim it in Memphis and Tahpanhes:
+‘Take your position and get ready,
+for the sword has devoured all around you.’
+v15: Why is your mighty one swept away?
+He cannot stand,
+for the **LORD** has driven him down.
+v16: He makes many stumble;
+one falls against another.
+They say, ‘Get up! Let us return to our people,
+to the land of our birth,
+away from the oppressor's sword.’
+v17: There they cry, ‘Pharaoh king of Egypt is all noise!
+He has let the appointed time pass.’
+v18: As I live,” declares the King,
+whose name is the **LORD** of hosts,
+“one is coming, like Tabor among the mountains,
+like Carmel beside the sea.
+v19: Pack your belongings for exile,
+daughter dwelling in Egypt!
+Memphis will become a desolation,
+laid waste, with no one living there.
 v20: Egypt is a beautiful heifer,
-but a gadfly from the north
-has come—has come.
-
-v21: Even her hired soldiers in her midst
-are like fattened calves,
-but they also have turned;
-they have fled together.
-They did not stand,
-for the day of their disaster
-has come upon them,
-the time of their visitation.
+but a biting fly comes from the north—it comes!
+v21: Even the hired soldiers among her
+are like fattened calves.
+They too turn and flee together;
+they do not stand.
+Their day of disaster has come upon them,
+the time of their reckoning.
+v22: Her sound retreats like a snake,
+for they advance in force.
+They come at her with axes,
+like men cutting wood.
+v23: They will cut down her forest,” declares the **LORD**,
+“though it cannot be searched through.
+They are more numerous than locusts,
+beyond counting.
+v24: Daughter Egypt is disgraced,
+handed over to a people from the north.”
+v25: The **LORD** of hosts, the God of Israel, says, “I am calling Amon of Thebes to account, along with Pharaoh, Egypt, her gods and kings—Pharaoh and everyone who trusts in him.
+v26: I will hand them over to those who seek their lives, to Nebuchadnezzar king of Babylon and his servants. Afterward Egypt will be inhabited as in former days,” declares the **LORD**.
 </p>
 
-## Egypt Will Be Handed Over
+## A word to Jacob
 
 <p>
-v22: Her sound is like a serpent moving away,
-for they come with an army;
-with axes they come against her
-like woodcutters.
-
-v23: They will cut down her forest,
-says the LORD,
-though it cannot be searched out,
-for they are more numerous than locusts
-and without number.
-
-v24: Daughter Egypt is put to shame;
-she is given into the hand
-of a people from the north.
-
-v25: The LORD of Hosts, the God of Israel, says: “Look, I am attending to Amon of Thebes, Pharaoh, Egypt, her gods and her kings—Pharaoh and people who trust in him.
-
-v26: I will give them into the hand of people who seek their lives, into the hand of Nebuchadnezzar king of Babylon and into the hand of his servants. Afterward Egypt will be inhabited as in days of old,” says the LORD.
-</p>
-
-## Do Not Fear, Jacob My Servant
-
-<p>
-v27: “But you, my servant Jacob, do not fear,
-and do not be dismayed, Israel.
-For look, I am saving you from far away
+v27: “But you, my servant Jacob, do not fear;
+do not be dismayed, Israel.
+I will save you from far away,
 and your offspring from the land of their captivity.
-Jacob will return and be quiet and at ease,
-and no one will make him afraid.
-
-v28: You, my servant Jacob, do not fear,”
-says the LORD,
+Jacob will return and live quietly, at ease,
+with no one to make him afraid.
+v28: Do not fear, my servant Jacob,” declares the **LORD**,
 “for I am with you.
-Though I make a complete end
-of all the nations where I drove you,
-of you I will not make a complete end.
-I will discipline you in justice,
-but I will certainly not leave you unpunished.”
+I will make an end of all the nations
+where I have driven you,
+but I will not make an end of you.
+I will discipline you justly;
+I will certainly not leave you unpunished.”
 </p>
 
 ## Notes
 
-v02: The battle at Carchemish in 605 BCE decisively weakened Egyptian power in Syria-Palest and marked Babylon’s rise under Nebuchadnezzar.
+v15: The noun for “mighty one” has an unusual form beside singular verbs. It can be read as a warrior, a collective force, or a divine bull; the text does not name Apis. The draft preserves the singular syntax without deciding the identification.
 
-v07–08: Egypt’s military confidence is imagined through the Nile’s annual rising, but the flood-like boast collapses before the LORD’s judgment.
-
-v10: The language of “sacrifice” is applied to battlefield death, a severe prophetic metaphor in which the LORD’s judgment consumes Egypt’s army.
-
-v15: The Hebrew can be read “Why is your mighty one swept away?” and may also contain an allusion to Egypt’s sacred bull imagery. TSW preserves the broad martial image.
-
-v17: The nickname given Pharaoh is difficult. It portrays him as loud or tumultuous yet one who has missed the decisive appointed moment.
-
-v20: The Hebrew word translated “gadfly” can denote a stinging or destructive insect. Egypt the heifer is harassed by an attacker from the north.
-
-v25: “Amon of Thebes” is the major Egyptian deity Amun associated with Thebes. The judgment is directed toward Egypt’s religious and political centers together.
-
-v27–28: These verses closely parallel Jeremiah 30:10–11. Their placement after the Egypt oracle re-centers the wider judgments on the promise that Jacob will not be completely destroyed.
+v20–23: The biting fly term is rare and uncertain. The poem shifts from a heifer and fattened calves to a retreating snake and a forest felled by an innumerable army. These images are kept rather than made into one literal scene.
 
 ## Vocabulary
 
-v02: כַּרְכְּמִישׁ (Karkemish)
-“Carchemish.” The Euphrates city where Babylon defeated Egypt.
+v10: **Sacrifice**: The battle is pictured as slaughter belonging to the Lord. The image retains the violence of the oracle.
 
-v08: יְאֹר (ye'or)
-“Nile.” Egypt’s river, used as an image of swelling military power.
-
-v10: נְקָמָה (neqamah)
-“Vengeance” or “recompense.” Judgment against adversaries.
-
-v11: צֳרִי (tsori)
-“Balm.” A medicinal resin associated with Gilead.
-
-v17: מוֹעֵד (moed)
-“Appointed time.” Pharaoh is mocked as having let the decisive time pass.
-
-v20: קֶרֶץ (qerets)
-“Gadfly” or “stinging insect.” A rare term for the northern threat.
-
-v25: אָמוֹן מִנֹּא (Amon min-No)
-“Amon of Thebes.” The Egyptian deity Amun associated with the city of Thebes.
+v11: **Balm**: A medicinal substance associated with Gilead; its precise botanical identity is not specified here.

@@ -1,0 +1,260 @@
+{
+  "status": "PASSED",
+  "base_commit": "10f26b8d4f7f1388c7b9ac557aab217a21d92ca5",
+  "new_chapters": 17,
+  "new_verses": 507,
+  "unique_original_source_records": {
+    "jeremiah": 353,
+    "lamentations": 154
+  },
+  "cumulative_coverage": {
+    "ledgers": 88,
+    "chapters": 807,
+    "verses": 20572
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 86,
+    "chapters_byte_identical": 790,
+    "verses": 20065,
+    "tsw_unchanged": true,
+    "historical_provenance_preserved": true
+  },
+  "source_binding_audit": "PASSED for affected Jeremiah and Lamentations ledgers",
+  "divine_names": "PASSED verse by verse, including LORD/GOD and YAH separately",
+  "focused_assertions": {
+    "Jeremiah 41:1": [
+      "seventh",
+      "ten",
+      "Elishama"
+    ],
+    "Jeremiah 41:5": [
+      "eighty",
+      "Shechem",
+      "Shiloh",
+      "Samaria",
+      "frankincense"
+    ],
+    "Jeremiah 41:8": [
+      "ten",
+      "wheat",
+      "barley",
+      "oil",
+      "honey"
+    ],
+    "Jeremiah 41:15": [
+      "eight"
+    ],
+    "Jeremiah 42:1": [
+      "Jezaniah"
+    ],
+    "Jeremiah 42:7": [
+      "Ten days"
+    ],
+    "Jeremiah 42:10": [
+      "relented",
+      "build",
+      "plant"
+    ],
+    "Jeremiah 43:2": [
+      "Azariah"
+    ],
+    "Jeremiah 43:6": [
+      "daughters",
+      "Jeremiah",
+      "Baruch"
+    ],
+    "Jeremiah 44:19": [
+      "husbands"
+    ],
+    "Jeremiah 44:26": [
+      "Lord **GOD**"
+    ],
+    "Jeremiah 44:30": [
+      "Hophra",
+      "Zedekiah",
+      "Nebuchadnezzar"
+    ],
+    "Jeremiah 45:1": [
+      "fourth",
+      "Jehoiakim"
+    ],
+    "Jeremiah 45:5": [
+      "life as plunder"
+    ],
+    "Jeremiah 46:2": [
+      "Neco",
+      "Carchemish",
+      "fourth"
+    ],
+    "Jeremiah 46:9": [
+      "Cush",
+      "Put",
+      "Ludim"
+    ],
+    "Jeremiah 47:3": [
+      "fathers",
+      "children"
+    ],
+    "Jeremiah 48:10": [
+      "sword",
+      "blood"
+    ],
+    "Jeremiah 48:19": [
+      "man",
+      "woman"
+    ],
+    "Jeremiah 48:32": [
+      "sea of Jazer"
+    ],
+    "Jeremiah 48:47": [
+      "restore"
+    ],
+    "Jeremiah 49:6": [
+      "restore"
+    ],
+    "Jeremiah 49:11": [
+      "orphans",
+      "widows"
+    ],
+    "Jeremiah 49:39": [
+      "restore"
+    ],
+    "Jeremiah 50:37": [
+      "women"
+    ],
+    "Jeremiah 51:3": [
+      "young men",
+      "destruction"
+    ],
+    "Jeremiah 51:27": [
+      "Ararat",
+      "Minni",
+      "Ashkenaz"
+    ],
+    "Jeremiah 51:30": [
+      "women"
+    ],
+    "Jeremiah 51:34": [
+      "me",
+      "monster"
+    ],
+    "Jeremiah 51:64": [
+      "grow weary",
+      "Here end"
+    ],
+    "Jeremiah 52:1": [
+      "twenty-one",
+      "eleven",
+      "Hamutal"
+    ],
+    "Jeremiah 52:12": [
+      "tenth",
+      "fifth",
+      "nineteenth"
+    ],
+    "Jeremiah 52:20": [
+      "two",
+      "twelve",
+      "stands"
+    ],
+    "Jeremiah 52:21": [
+      "eighteen",
+      "twelve",
+      "four",
+      "hollow"
+    ],
+    "Jeremiah 52:22": [
+      "five"
+    ],
+    "Jeremiah 52:23": [
+      "ninety-six",
+      "hundred"
+    ],
+    "Jeremiah 52:25": [
+      "seven",
+      "sixty"
+    ],
+    "Jeremiah 52:28": [
+      "3,023",
+      "seventh"
+    ],
+    "Jeremiah 52:29": [
+      "832",
+      "eighteenth"
+    ],
+    "Jeremiah 52:30": [
+      "745",
+      "4,600",
+      "twenty-third"
+    ],
+    "Jeremiah 52:31": [
+      "thirty-seventh",
+      "twenty-fifth",
+      "twelfth"
+    ],
+    "Lamentations 1:16": [
+      "my eye, my eye"
+    ],
+    "Lamentations 2:11": [
+      "liver"
+    ],
+    "Lamentations 2:20": [
+      "eat",
+      "children"
+    ],
+    "Lamentations 3:1": [
+      "man"
+    ],
+    "Lamentations 3:13": [
+      "quiver",
+      "kidneys"
+    ],
+    "Lamentations 3:22": [
+      "we have not come to an end"
+    ],
+    "Lamentations 3:42": [
+      "not forgiven"
+    ],
+    "Lamentations 3:65": [
+      "covering",
+      "curse"
+    ],
+    "Lamentations 4:10": [
+      "compassionate",
+      "cooked",
+      "children"
+    ],
+    "Lamentations 4:20": [
+      "anointed"
+    ],
+    "Lamentations 5:11": [
+      "raped",
+      "virgins"
+    ],
+    "Lamentations 5:22": [
+      "unless",
+      "rejected",
+      "angry"
+    ]
+  },
+  "versification": "All 507 selected public labels match the original Hebrew records. Lamentations alphabetic patterns verified from source.",
+  "repeated_refrains": "Divine-name repetitions checked verse by verse; recurring promise and judgment phrases reread.",
+  "focused_authoring_reread": 177,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_reviews": "All prior pending reviews preserved.",
+  "active_fifty_chapter_block": {
+    "scope": "Jeremiah 8–52; Lamentations 1–5",
+    "status": "DRAFT_COMPLETED",
+    "chapters_target": 50,
+    "completed_chapters": 50,
+    "completed_scope": "Jeremiah 8–52; Lamentations 1–5",
+    "completed_verses": 1311,
+    "remaining_scope": null,
+    "remaining_chapters": 0,
+    "qualification": "All fifty chapters drafted and source-bound. Independent editorial review and reader testing pending; publication not allowed."
+  },
+  "publication_allowed": false
+}

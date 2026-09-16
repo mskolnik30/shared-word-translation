@@ -4,511 +4,277 @@ testament: OT
 chapter: 51
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-41-52-biblical-fluency-2026-09-16
 ---
 
-## A Destroying Wind against Babylon
+## A destroying wind
 
 <p>
-v01: Thus says the LORD:
-
-“Look, I am stirring up
-against Babylon
-and against the inhabitants of Leb-Kamai
-a destroying wind.
-
-v02: I will send winnowers to Babylon,
-and they will winnow her
-and empty her land,
-for on the day of disaster
-they will be against her from every side.
-
-v03: Against the one who bends the bow
-let the archer bend his bow,
-and against the one who rises
-in his coat of armor.
+v01: This is what the **LORD** says:
+“I am stirring up a destroying wind
+against Babylon and the people of Leb-kamai.
+v02: I will send strangers against Babylon;
+they will winnow her and empty her land.
+They will surround her
+on the day of disaster.
+v03: Let the archer draw against the one who draws his bow,
+against the one who rises in armor.
 Do not spare her young men;
-devote all her army to destruction.
-
-v04: They will fall slain
-in the land of the Chaldeans,
-pierced through
-in her streets.
-
-v05: For Israel is not forsaken,
-nor Judah,
-by his God,
-by the LORD of Hosts,
-though their land is filled with guilt
-against the Holy One of Israel.
-</p>
-
-## Flee from the Midst of Babylon
-
-<p>
-v06: Flee from the midst of Babylon!
-Each one save his life!
-Do not be silenced in her guilt,
-for this is the time
-of the LORD’s vengeance;
-he is repaying her recompense.
-
-v07: Babylon was a golden cup
-in the hand of the LORD,
-making all the earth drunk.
-The nations drank from her wine;
-so the nations went mad.
-
-v08: Suddenly Babylon has fallen
-and is broken.
-Wail over her!
-Take balm for her pain;
-perhaps she may be healed.
-
-v09: “We would have healed Babylon,
-but she is not healed.
-Abandon her,
-and let each of us go to his own land,
-for her judgment reaches to the heavens
-and is lifted to the skies.
-
-v10: The LORD has brought forth our righteousness.
-Come, let us recount in Zion
-the work of the LORD our God.”
-</p>
-
-## Prepare the Medes against Babylon
-
-<p>
-v11: Sharpen the arrows;
-fill the quivers!
-The LORD has stirred up
-the spirit of the kings of the Medes,
-because his purpose against Babylon
-is to destroy her.
-For this is the vengeance of the LORD,
-the vengeance for his temple.
-
-v12: Lift up a banner
-against the walls of Babylon!
-Strengthen the guard;
-set the watchmen;
-prepare the ambushes.
-For the LORD has both purposed
-and done what he spoke
-concerning the inhabitants of Babylon.
-
-v13: You who dwell by many waters,
-abundant in treasures,
-your end has come,
+devote her whole army to destruction.
+v04: They will fall slain in the land of the Chaldeans,
+pierced through in her streets.
+v05: For Israel and Judah have not been widowed
+of their God, the **LORD** of hosts,
+though their land is full of guilt
+before the Holy One of Israel.
+v06: Flee from Babylon!
+Save your lives, each of you.
+Do not perish in her guilt.
+This is the **LORD**'s time for vengeance;
+he is repaying her what she deserves.
+v07: Babylon was a golden cup in the **LORD**'s hand,
+making the whole earth drunk.
+The nations drank her wine;
+that is why the nations went mad.
+v08: Suddenly Babylon has fallen and shattered!
+Wail for her.
+Bring balm for her wound;
+perhaps she can be healed.
+v09: ‘We tried to heal Babylon, but she was not healed.
+Leave her! Let each of us go to our own land.
+Her judgment reaches heaven,
+rises to the clouds.’
+v10: The **LORD** has brought our vindication to light.
+Come, let us tell in Zion
+what the **LORD** our God has done.
+v11: Polish the arrows!
+Take up the shields!
+The **LORD** has stirred the spirit of the kings of Media.
+His purpose is to destroy Babylon.
+This is the **LORD**'s vengeance,
+vengeance for his temple.
+v12: Raise a signal against Babylon's walls.
+Strengthen the watch; post sentries;
+prepare the ambush.
+The **LORD** has both planned and carried out
+what he said against Babylon's inhabitants.
+v13: You who dwell beside many waters,
+rich in treasures,
+your end has come—
 the measure of your gain.
-
-v14: The LORD of Hosts has sworn by himself:
-
-“Surely I will fill you with people
-like locusts,
-and they will raise
-a shout against you.”
+v14: The **LORD** of hosts has sworn by himself:
+‘I will fill you with men like locusts,
+and they will raise a victory shout over you.’
 </p>
 
-## The Maker Is Not Like the Idols
+## The Maker and the war club
 
 <p>
 v15: He made the earth by his power,
 established the world by his wisdom,
-and by his understanding
-stretched out the heavens.
-
-v16: At the sound of his voice
-there is a roar of waters in the heavens.
-He makes clouds rise
-from the ends of the earth;
-he makes lightning for the rain
-and brings wind
-from his storehouses.
-
-v17: Every human being
-is senseless, without knowledge;
-every goldsmith is put to shame
-by the carved image,
-for his cast image is falsehood
-and there is no breath in them.
-
-v18: They are emptiness,
-a work of mockery;
-at the time of their visitation
-they will perish.
-
-v19: The portion of Jacob is not like these,
-for he is the one who formed everything,
-and Israel is the tribe of his inheritance.
-The LORD of Hosts
-is his name.
-</p>
-
-## My War Club
-
-<p>
-v20: “You are my war club,
-my weapons of war.
+and stretched out the heavens by his understanding.
+v16: When he gives voice, waters roar in heaven.
+He raises clouds from the ends of the earth,
+makes lightning for the rain,
+and brings wind from his storehouses.
+v17: Everyone is senseless, without knowledge;
+every metalworker is ashamed of the carved image.
+The cast image is a lie;
+there is no breath in them.
+v18: They are vapor, a work of delusion;
+at the time of their reckoning they will perish.
+v19: Jacob's Portion is not like these.
+He is the one who forms all things,
+and the tribe is his inheritance.
+The **LORD** of hosts is his name.
+v20: “You are my war club, my weapon of battle.
 With you I shatter nations;
 with you I destroy kingdoms.
-
-v21: With you I shatter
-horse and rider;
-with you I shatter
-chariot and rider.
-
-v22: With you I shatter
-man and woman;
-with you I shatter
-old and young;
-with you I shatter
-young man and young woman.
-
-v23: With you I shatter
-shepherd and flock;
-with you I shatter
-farmer and team;
-with you I shatter
-governors and officials.
-
-v24: Yet I will repay Babylon
-and all the inhabitants of Chaldea
-for all their evil
-that they did in Zion
-before your eyes,”
-says the LORD.
+v21: With you I shatter horse and rider;
+with you I shatter chariot and driver.
+v22: With you I shatter man and woman;
+with you I shatter old and young;
+with you I shatter young man and virgin.
+v23: With you I shatter shepherd and flock;
+with you I shatter farmer and team;
+with you I shatter governors and deputies.
+v24: I will repay Babylon and all who live in Chaldea for all the evil they did in Zion, before your eyes,” declares the **LORD**.
 </p>
 
-## O Destroying Mountain
+## The destroying mountain
 
 <p>
-v25: “Look, I am against you,
-O destroying mountain,”
-says the LORD,
-“you who destroy all the earth.
+v25: “I am against you, destroying mountain,” declares the **LORD**,
+“you who destroy the whole earth.
 I will stretch out my hand against you,
-roll you down from the cliffs,
-and make you
-a burned-out mountain.
-
-v26: They will not take from you
-a stone for a corner
-or a stone for a foundation,
-for you will become
-everlasting desolations,”
-says the LORD.
-</p>
-
-## Set Up a Banner in the Land
-
-<p>
-v27: Lift up a banner in the land!
-Blow the ram’s horn among the nations!
+roll you down from the crags,
+and make you a burned-out mountain.
+v26: No one will take from you a cornerstone
+or a stone for foundations.
+You will be a lasting desolation,” declares the **LORD**.
+v27: Raise a signal in the land!
+Blow the trumpet among the nations!
 Consecrate nations against her;
-summon against her
-the kingdoms of Ararat, Minni, and Ashkenaz.
+summon kingdoms against her—
+Ararat, Minni, and Ashkenaz.
 Appoint a commander against her;
-bring up horses
-like bristling locusts.
-
-v28: Consecrate nations against her—
-the kings of the Medes,
-their governors and all their officials,
-and all the land of their rule.
-
-v29: The earth trembles and writhes,
-for the purposes of the LORD
-stand against Babylon,
-to make the land of Babylon
-a desolation without inhabitant.
-
-v30: The warriors of Babylon
-have stopped fighting;
-they remain in their strongholds.
-Their strength has dried up;
-they have become like women.
-Her dwellings are set on fire;
-her bars are broken.
-
-v31: Runner runs to meet runner,
-and messenger to meet messenger,
-to tell the king of Babylon
-that his city has been captured
-from every side.
-
+bring up horses like bristling locusts.
+v28: Consecrate nations against her:
+the kings of Media, its governors and all its deputies,
+and every land under their rule.
+v29: The earth shakes and writhes,
+for the **LORD**'s purposes against Babylon stand:
+to make Babylon's land a desolation,
+with no one living there.
+v30: Babylon's warriors have stopped fighting.
+They stay in their strongholds;
+their strength has failed;
+they have become women.
+Her homes are set on fire;
+her gate bars are broken.
+v31: Runner meets runner,
+messenger meets messenger,
+to tell Babylon's king
+that his city is captured from end to end.
 v32: The crossings are seized,
-the marshes are burned with fire,
-and the men of war
-are terrified.
-</p>
-
-## Babylon Is a Threshing Floor
-
-<p>
-v33: For thus says the LORD of Hosts,
-the God of Israel:
-
+the marshes burned with fire,
+and the fighting men terrified.
+v33: For this is what the **LORD** of hosts, the God of Israel, says:
 “Daughter Babylon is like a threshing floor
-at the time it is trodden down.
-Yet a little while,
-and the time of harvest
-will come for her.”
+at the time it is trampled.
+A little longer,
+and her harvest time will come.”
 </p>
 
-## Jerusalem Speaks against Babylon
+## Zion speaks
 
 <p>
-v34: “Nebuchadnezzar king of Babylon
-devoured me and crushed me;
-he made me an empty vessel.
-Like a sea monster he swallowed me;
-he filled his belly with my delicacies
-and cast me out.
-
-v35: ‘May the violence done to me and my flesh
-be upon Babylon,’
-the inhabitant of Zion will say.
-‘And may my blood be upon
-the inhabitants of Chaldea,’
-Jerusalem will say.”
-</p>
-
-## I Will Plead Your Case
-
-<p>
-v36: So thus says the LORD:
-
-“Look, I will plead your case
+v34: “Nebuchadnezzar king of Babylon has devoured me,
+crushed me, left me an empty vessel.
+He swallowed me like a monster,
+filled his belly with my delicacies,
+then cast me away.
+v35: May the violence done to me and my flesh fall on Babylon,”
+says the woman dwelling in Zion.
+“May my blood fall on Chaldea's inhabitants,”
+says Jerusalem.
+v36: Therefore this is what the **LORD** says:
+“I will plead your case
 and take vengeance for you.
 I will dry up her sea
-and make her fountain dry.
-
-v37: Babylon will become heaps,
-a dwelling place for jackals,
-a horror and a hissing,
-without inhabitant.
-
-v38: Together they roar like young lions;
-they growl like lion cubs.
-
-v39: When they are heated
-I will prepare their feast;
-I will make them drunk
-so that they become jubilant,
-then sleep an everlasting sleep
-and not wake,”
-says the LORD.
-
-v40: “I will bring them down
-like lambs to slaughter,
-like rams
-with male goats.
-</p>
-
-## How Sheshach Is Captured
-
-<p>
-v41: “How Sheshach is captured!
-How the praise of the entire earth
-is seized!
+and make her spring run dry.
+v37: Babylon will become heaps of rubble,
+a haunt of jackals,
+a horror and an object of hissing,
+with no one living there.
+v38: Together they roar like young lions,
+growl like lion cubs.
+v39: When they are heated, I will prepare their feast
+and make them drunk, so they exult.
+Then they will sleep an everlasting sleep
+and never wake,” declares the **LORD**.
+v40: “I will bring them down like lambs to slaughter,
+like rams with male goats.
+v41: How Sheshach is captured,
+the praise of the whole earth seized!
 How Babylon has become
 a horror among the nations!
-
 v42: The sea has risen over Babylon;
-she is covered
-with the multitude of its waves.
-
-v43: Her cities have become a desolation,
-a dry land and a wilderness,
-a land in which no one lives
-and through which no human being passes.
-
-v44: I will attend to Bel in Babylon
-and bring out of his mouth
-what he swallowed.
-The nations will no longer stream to him,
-and even the wall of Babylon will fall.
+its roaring waves cover her.
+v43: Her towns have become a desolation,
+a dry and barren land,
+a land where no one lives
+and no human being passes.
+v44: I will call Bel in Babylon to account
+and pull what he swallowed from his mouth.
+Nations will no longer stream to him.
+Even Babylon's wall has fallen.
 </p>
 
-## Go Out from the Midst of Her
+## Leave Babylon
 
 <p>
-v45: “Go out from the midst of her, my people!
-Each save his life
-from the burning anger
-of the LORD.
-
-v46: Do not let your heart become weak,
-and do not fear
-because of the report heard in the land.
-A report comes in one year,
-and after it another report in another year:
-violence in the land,
-ruler against ruler.
-
-v47: So look, days are coming
-when I will attend to
-the carved images of Babylon.
-Her whole land will be put to shame,
-and all her slain
-will fall in her midst.
-
-v48: Then heaven and earth
-and all that is in them
-will sing for joy over Babylon,
-for from the north
-the destroyers will come against her,”
-says the LORD.
-
-v49: “As Babylon caused
-the slain of Israel to fall,
-so at Babylon will fall
-the slain of all the land.
-</p>
-
-## Remember the LORD from Far Away
-
-<p>
-v50: “You who escaped the sword,
-go! Do not stand still!
-Remember the LORD from far away,
-and let Jerusalem
-come upon your heart.
-
-v51: ‘We are put to shame,
-for we have heard reproach;
-humiliation has covered our faces,
-for foreigners have entered
-the holy places of the LORD’s house.’
-</p>
-
-## Babylon Will Not Reach Heaven
-
-<p>
-v52: “Therefore look, days are coming,”
-says the LORD,
-“when I will attend to her carved images,
-and throughout all her land
-the wounded will groan.
-
-v53: Though Babylon rises to the heavens,
-and though she fortifies
-the height of her strength,
-from me destroyers will come against her,”
-says the LORD.
-</p>
-
-## A Cry from Babylon
-
-<p>
-v54: A sound of crying from Babylon,
-and great breaking
-from the land of the Chaldeans!
-
-v55: For the LORD is devastating Babylon
-and silencing her great voice.
-Their waves roar like many waters;
-the roar of their voice is given.
-
-v56: For the destroyer has come against her,
-against Babylon.
+v45: Come out of her, my people!
+Save your lives, each of you,
+from the **LORD**'s burning anger.
+v46: Do not lose heart or fear the reports heard in the land. One report comes one year, another the next: violence in the land, ruler against ruler.
+v47: Therefore days are coming
+when I will call Babylon's carved images to account.
+Her whole land will be disgraced;
+all her slain will fall within her.
+v48: Heaven and earth and everything in them
+will shout for joy over Babylon,
+for destroyers will come against her from the north,”
+declares the **LORD**.
+v49: Babylon must fall for Israel's slain,
+just as the slain of all the earth
+have fallen because of Babylon.
+v50: You who escaped the sword, go on! Do not stand still.
+Remember the **LORD** from far away,
+and let Jerusalem come to mind.
+v51: “We are ashamed, for we have heard insults;
+disgrace covers our faces.
+Foreigners have entered
+the holy places of the **LORD**'s house.”
+v52: “Therefore days are coming,” declares the **LORD**,
+“when I will call her carved images to account,
+and throughout her land the wounded will groan.
+v53: Though Babylon climbs to heaven
+and fortifies her lofty stronghold,
+destroyers will come to her from me,” declares the **LORD**.
+v54: A cry sounds from Babylon,
+great destruction from Chaldea's land!
+v55: For the **LORD** is devastating Babylon,
+silencing her great voice.
+Their waves roar like mighty waters;
+the noise of their voices resounds.
+v56: A destroyer has come against her, against Babylon.
 Her warriors are captured;
-their bows are shattered.
-For the LORD is a God of recompense;
+their bows are broken.
+For the **LORD** is a God of recompense;
 he will surely repay.
-
-v57: “I will make her officials drunk,
-her wise men, her governors,
-her officers, and her warriors.
+v57: “I will make her officials and wise men drunk,
+her governors, deputies, and warriors.
 They will sleep an everlasting sleep
-and not wake,”
-says the King,
-whose name is the LORD of Hosts.
-
-v58: Thus says the LORD of Hosts:
-
-“The broad wall of Babylon
-will be utterly laid bare,
-and her high gates
-will be burned with fire.
-The peoples labor for emptiness,
-and the nations for fire,
-and they become weary.”
+and never wake,” declares the King,
+whose name is the **LORD** of hosts.
+v58: This is what the **LORD** of hosts says:
+“Babylon's broad wall will be utterly stripped away,
+her high gates burned with fire.
+Peoples labor for nothing,
+nations wear themselves out for fire.”
 </p>
 
-## Jeremiah’s Scroll Is Thrown into the Euphrates
+## The scroll in the river
 
 <p>
-v59: The word that Jeremiah the prophet commanded Seraiah son of Neriah, son of Mahseiah, when he went with Zedekiah king of Judah to Babylon in the fourth year of his reign. Seraiah was the quartermaster.
-
-v60: Jeremiah wrote in one book all the disaster that would come upon Babylon, all these words that are written concerning Babylon.
-
-v61: Jeremiah said to Seraiah, “When you come to Babylon, see that you read all these words.
-
-v62: Then say, ‘O LORD, you have spoken concerning this place, to cut it off so that no one lives in it, from human to animal, but that it become an everlasting desolation.’
-
-v63: And when you have finished reading this book, tie a stone to it and throw it into the middle of the Euphrates.
-
-v64: Then say, ‘Thus Babylon will sink and will not rise because of the disaster that I am bringing upon her, and they will become weary.’”
-
-Thus far are the words of Jeremiah.
+v59: This is what Jeremiah the prophet instructed Seraiah son of Neriah, son of Mahseiah, when he went with Zedekiah king of Judah to Babylon in the fourth year of his reign. Seraiah was the officer responsible for resting places.
+v60: Jeremiah wrote on a single scroll all the disaster that would come upon Babylon—all these words written against Babylon.
+v61: Jeremiah told Seraiah, “When you reach Babylon, see that you read all these words aloud.
+v62: Then say, ‘**LORD**, you have declared that this place will be cut off, with no one living in it, neither human nor animal. It will be a lasting desolation.’
+v63: When you finish reading this scroll, tie a stone to it and throw it into the Euphrates.
+v64: Then say, ‘This is how Babylon will sink and never rise from the disaster I am bringing upon her. They will grow weary.’” Here end the words of Jeremiah.
 </p>
 
 ## Notes
 
-v01: “Leb-Kamai” is generally understood as an encoded designation for Chaldea/Babylonia using the Hebrew *atbash* substitution system. TSW preserves the received cryptic name rather than replacing it in the main text.
+v1–5: Leb-kamai means “heart of those rising against me” and also encodes Chaldea by reversing the Hebrew alphabet. “Wind” can also mean “spirit.” Verse 3 has a repeated written word omitted in the read tradition and disputed “against/not” wording; an alternative begins, “Let the archer not draw his bow.” In verse 5, “their land” may refer to Israel and Judah or to the Chaldeans.
 
-v03: The Hebrew is syntactically difficult and may be read as commands either to Babylon’s archers or to those attacking them. TSW preserves the battle contrast without claiming certainty about every grammatical relation.
+v11,13: The military item in verse 11 can be read as shields or quivers. The final phrase of verse 13 is literally close to “the cubit of your gain”; a related interpretation pictures the cutting off of a life-thread.
 
-v05: Israel and Judah are said not to be forsaken even though “their land is filled with guilt.” Election and judgment remain in tension.
+v15–24: Verses 15–19 repeat the creator passage of 10:12–16. Unlike 10:16, verse 19 does not explicitly name Israel before “tribe.” The identity of the war club in verses 20–23 is not stated; Babylon and an attacker against it are both proposed. “Before your eyes” in verse 24 may qualify the wrongdoing or its repayment.
 
-v07: Babylon, itself a golden cup in the LORD’s hand, becomes the means through which nations are made drunk. The empire is both instrument and later object of judgment.
+v30,34–35: Verse 30 repeats the ancient gendered taunt in 50:37. In verse 34 the written forms say “us,” while the read forms say “me”; the draft follows the read forms as Zion speaks as a woman. The monster's swallowing continues in Bel's mouth in verse 44.
 
-v15–19: These verses closely parallel Jeremiah 10:12–16. The Creator is contrasted with breathless images before the oracle returns to Babylon’s fall.
+v41,49: Sheshach encodes Babylon by the same reversed-alphabet method used in verse 1. Verse 49's compressed wording can describe Babylon falling for Israel's slain or the further falling of slain people at Babylon; the draft uses the retributive reading.
 
-v20–23: The identity of the one addressed as the LORD’s “war club” is not explicitly named in the immediate lines and has been understood as Babylon or the power appointed to destroy Babylon. TSW preserves the second-person address without supplying a name.
-
-v25: Calling Babylon a “destroying mountain” is metaphorical even though Babylon itself lies on a plain. The image concerns massive destructive power rather than topography.
-
-v34: The Hebrew monster term *tannin* can denote a serpent, dragon, or great sea creature. TSW uses “sea monster” without identifying a zoological species.
-
-v41: “Sheshach,” like the term in Jeremiah 25:26, is an *atbash* cryptogram for Babylon.
-
-v58: The clause concerning Babylon’s wall has textual and lexical difficulties. The clear movement is from supposedly vast fortification to ruined wall, burned gates, and human labor spent for nothing.
-
-v59: Seraiah’s title is rare and may mean quartermaster, lodging official, or another court function. TSW uses “quartermaster” while leaving the uncertainty in the note.
-
-v63–64: The sinking scroll is an enacted prophetic sign: the written judgment against Babylon is physically joined to the image of the empire sinking beyond recovery.
+v59,64: Seraiah's title is literally “official of rest”; responsibility for stopping places is a likely sense. “They will grow weary” at the end repeats wording from verse 58 and is awkward in its present setting. It is retained, as is the closing notice before chapter 52's historical account.
 
 ## Vocabulary
 
-v01: לֵב קָמָי (Lev-Qamai)
-“Leb-Kamai.” A cryptic designation commonly understood as Chaldea through atbash substitution.
+v2: **Winnow**: Separate grain from chaff by tossing it into moving air. Here the image depicts the emptying of Babylon.
 
-v02: זָרָה (zarah)
-“To winnow.” To separate grain by throwing it into moving air, used here for scattering Babylon.
-
-v07: כּוֹס זָהָב (kos zahav)
-“Golden cup.” Babylon as an intoxicating instrument in the LORD’s hand.
-
-v11: מָדַי (Madai)
-“Media” or “the Medes.” The people summoned against Babylon.
-
-v20: מַפֵּץ (mappets)
-“War club” or “shattering weapon.” An instrument used to break other powers.
-
-v25: הַר הַמַּשְׁחִית (har ha-mashchit)
-“Destroying mountain.” A metaphor for Babylon’s vast destructive power.
-
-v34: תַּנִּין (tannin)
-“Sea monster,” “dragon,” or great serpent-like creature.
-
-v41: שֵׁשַׁךְ (Sheshakh)
-“Sheshach.” An encoded name for Babylon.
-
-v56: גְּמֻלוֹת (gemulot)
-“Recompense” or “repayments.” The LORD is called a God who repays.
-
-v63: פְּרָת (Perat)
-“Euphrates.” The river into which the prophetic scroll is thrown.
+v19: **Portion**: An allotted share or inheritance; “Jacob's Portion” names the God to whom Jacob belongs.

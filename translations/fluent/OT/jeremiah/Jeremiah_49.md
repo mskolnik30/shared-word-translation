@@ -4,309 +4,188 @@ testament: OT
 chapter: 49
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-41-52-biblical-fluency-2026-09-16
 ---
 
-## Concerning the Children of Ammon
+## The Ammonites
 
 <p>
-v01: Concerning the children of Ammon.
-
-Thus says the LORD:
-
-“Does Israel have no sons?
-Does he have no heir?
-Why then has Milcom possessed Gad,
-and his people lived in its cities?
-
-v02: So look, days are coming,”
-says the LORD,
-“when I will make the sound of the battle cry
-heard against Rabbah of the children of Ammon.
-It will become a desolate mound,
-and its daughter towns will be burned with fire.
-Then Israel will possess
-people who possessed him,”
-says the LORD.
-
+v01: Concerning the Ammonites. This is what the **LORD** says:
+“Has Israel no sons?
+Has it no heir?
+Why has Milcom taken possession of Gad,
+and why do his people live in Gad's towns?
+v02: Therefore days are coming,” declares the **LORD**,
+“when I will sound the battle cry
+against Rabbah of the Ammonites.
+It will become a desolate mound;
+its surrounding towns will be burned.
+Then Israel will dispossess those who dispossessed it,” says the **LORD**.
 v03: “Wail, Heshbon, for Ai is devastated!
 Cry out, daughters of Rabbah!
-Put on sackcloth; lament,
-and run back and forth among the walls,
-for Milcom will go into exile,
-his priests and his officials together.
-
-v04: Why do you boast in the valleys,
-your flowing valley,
-backsliding daughter,
-who trusts in her treasures, saying,
+Put on sackcloth, mourn,
+and wander among the enclosures.
+Milcom is going into exile,
+his priests and officials together.
+v04: Why boast about your valleys,
+your flowing valley, faithless daughter?
+You trust in your treasures and say,
 ‘Who will come against me?’
-
-v05: Look, I am bringing terror upon you,”
-says the Lord GOD of Hosts,
-“from all those around you.
-You will be driven out, each straight ahead,
-and no one will gather the fugitives.
-
-v06: But afterward I will restore
-the fortunes of the children of Ammon,”
-says the LORD.
+v05: I am bringing terror on you
+from all around,” declares the Lord **GOD** of hosts.
+“Each of you will be driven straight ahead,
+with no one to gather the wanderers.
+v06: But afterward I will restore the Ammonites' fortunes,” declares the **LORD**.
 </p>
 
-## Concerning Edom
+## Edom
 
 <p>
-v07: Concerning Edom.
-
-Thus says the LORD of Hosts:
-
-“Is there no longer wisdom in Teman?
-Has counsel perished from the discerning?
+v07: Concerning Edom. This is what the **LORD** of hosts says:
+“Is there no wisdom left in Teman?
+Has counsel vanished from the discerning?
 Has their wisdom decayed?
-
-v08: Flee! Turn back!
-Dwell deep, inhabitants of Dedan,
-for I will bring the disaster of Esau upon him
-at the time I attend to him.
-
-v09: If grape gatherers came to you,
-would they not leave gleanings?
-If thieves came by night,
-would they not destroy only enough for themselves?
-
-v10: Yet I have stripped Esau bare;
-I have uncovered his hiding places,
-and he cannot conceal himself.
-His offspring are destroyed,
-and his brothers and his neighbors,
+v08: Flee! Turn away!
+Hide deep, people of Dedan.
+For I bring Esau's disaster upon him,
+the time when I call him to account.
+v09: If grape pickers came to you,
+wouldn't they leave gleanings?
+If thieves came at night,
+they would destroy only as much as they wanted.
+v10: But I have stripped Esau bare,
+exposed his hiding places;
+he cannot hide.
+His offspring, relatives, and neighbors are devastated,
 and he is no more.
-
-v11: Leave your orphans;
-I will preserve them alive,
-and let your widows trust in me.”
+v11: Leave your orphans; I will keep them alive.
+Let your widows trust in me.”
+v12: For this is what the **LORD** says: “Those who were not sentenced to drink the cup must drink it. Will you go entirely unpunished? You will not go unpunished; you must drink.
+v13: For I swear by myself,” declares the **LORD**, “Bozrah will become a horror, a disgrace, a ruin, and a curse. All its towns will be lasting ruins.”
+v14: I have heard a report from the **LORD**;
+a messenger is sent among the nations:
+“Gather and come against her!
+Rise up for battle!”
+v15: “I have made you small among the nations,
+despised among humankind.
+v16: The terror you inspire has deceived you,
+along with the arrogance of your heart.
+You live in clefts of the rock
+and occupy the hilltops.
+Though you make your nest high as an eagle's,
+from there I will bring you down,” declares the **LORD**.
+v17: Edom will become a horror.
+Everyone passing by will be appalled
+and hiss at all its wounds.
+v18: “As when Sodom, Gomorrah, and their neighbors were overthrown,” says the **LORD**, “no one will live there; no human being will settle there.
+v19: Look!
+Like a lion he comes up from the Jordan's thickets
+against a lasting pasture.
+In a moment I will drive him away from it.
+Who is the chosen one I will appoint over it?
+Who is like me?
+Who can summon me?
+What shepherd can stand before me?
+v20: So hear the **LORD**'s plan against Edom,
+what he has devised against Teman's inhabitants:
+Even the smallest of the flock will be dragged away;
+he will lay their pasture waste because of them.
+v21: At the sound of their fall the earth shakes;
+their cry is heard at the Sea of Reeds.
+v22: Look! One rises and swoops like an eagle,
+spreading his wings over Bozrah.
+On that day Edom's warriors will have hearts
+like a woman in labor.”
 </p>
 
-## Edom Will Become a Horror
-
-<p>
-v12: For thus says the LORD: “Look, those whose judgment was not to drink the cup must surely drink. And you—will you go entirely unpunished? You will not go unpunished, but you will surely drink.
-
-v13: For I have sworn by myself,” says the LORD, “that Bozrah will become a horror, a reproach, a ruin, and a curse, and all its cities will become everlasting ruins.”
-
-v14: I have heard a report from the LORD,
-and a messenger has been sent among the nations:
-
-“Gather yourselves and come against her!
-Rise for battle!”
-
-v15: For look, I have made you small among the nations,
-despised among humanity.
-
-v16: The terror you inspire
-and the pride of your heart have deceived you,
-you who live in the clefts of the rock,
-who hold the height of the hill.
-Though you make your nest as high as the eagle,
-from there I will bring you down,”
-says the LORD.
-
-v17: “Edom will become a horror. Everyone who passes by it will be horrified and hiss because of all its wounds.
-
-v18: As in the overthrow of Sodom and Gomorrah and their neighbors,” says the LORD, “no one will live there, and no human being will stay in it.
-</p>
-
-## The Counsel of the LORD against Edom
-
-<p>
-v19: “Look, like a lion coming up
-from the pride of the Jordan
-against an enduring pasture,
-so suddenly I will make him run away from her.
-And whoever is chosen
-I will appoint over her.
-For who is like me?
-Who will summon me?
-And what shepherd can stand before me?
-
-v20: So hear the counsel of the LORD
-that he has counseled against Edom,
-and his purposes
-that he has purposed against the inhabitants of Teman:
-Surely they will drag away the little ones of the flock;
-surely he will make their pasture desolate over them.
-
-v21: At the sound of their fall
-the earth trembles;
-their cry—
-its sound is heard at the Sea of Reeds.
-
-v22: Look, one will rise and fly like an eagle
-and spread his wings over Bozrah.
-The heart of Edom’s warriors on that day
-will be like the heart of a woman in labor.”
-</p>
-
-## Concerning Damascus
+## Damascus
 
 <p>
 v23: Concerning Damascus.
-
-“Hamath and Arpad are put to shame,
-for they have heard bad news.
-They melt in fear;
-there is anxiety like the sea
-that cannot be quiet.
-
-v24: Damascus has become weak;
-she turns to flee,
-and panic has seized her.
-Distress and pains have taken hold of her
+“Hamath and Arpad are shamed;
+they have heard bad news and melt away.
+Anxiety stirs the sea;
+it cannot be still.
+v24: Damascus has grown weak and turned to flee.
+Trembling grips her;
+distress and pangs seize her
 like a woman giving birth.
-
-v25: How has the city of praise
-not been abandoned,
-the city of my joy?
-
-v26: So her young men will fall
-in her public squares,
-and all the men of war
-will be silenced on that day,”
-says the LORD of Hosts.
-
-v27: “I will kindle a fire
-in the wall of Damascus,
-and it will consume
-the palaces of Ben-Hadad.”
+v25: How is the city of praise not abandoned,
+the town of my delight?
+v26: Therefore her young men will fall in her squares;
+all her fighting men will be silenced that day,”
+declares the **LORD** of hosts.
+v27: “I will set fire to Damascus's wall,
+and it will consume Ben-hadad's palaces.”
 </p>
 
-## Concerning Kedar and Hazor
+## Kedar and Hazor
 
 <p>
-v28: Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon struck.
-
-Thus says the LORD:
-
-“Rise, go up against Kedar;
-destroy the children of the east!
-
-v29: Their tents and their flocks they will take;
-their curtains and all their vessels
-and their camels they will carry away.
-They will cry to them,
-‘Terror is all around!’
-
-v30: Flee! Wander far away!
-Dwell deep, inhabitants of Hazor,”
-says the LORD,
-“for Nebuchadnezzar king of Babylon
-has counseled counsel against you
-and purposed a purpose against you.
-
-v31: Rise, go up against a nation at ease,
-living securely,”
-says the LORD,
-“which has neither gates nor bars
-and dwells alone.
-
-v32: Their camels will become plunder,
-and the multitude of their livestock spoil.
+v28: Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon struck. This is what the **LORD** says:
+“Rise up! Advance against Kedar;
+devastate the people of the east.
+v29: Take their tents and flocks,
+their tent curtains and all their equipment.
+Carry off their camels,
+and cry out over them, ‘Terror on every side!’
+v30: Flee far away!
+Hide deep, people of Hazor,” declares the **LORD**.
+“Nebuchadnezzar king of Babylon has planned against you;
+he has devised a scheme against you.
+v31: Rise up! Advance against a nation at ease,
+living securely,” declares the **LORD**,
+“with neither gates nor bars,
+dwelling apart.
+v32: Their camels will become booty,
+their many herds plunder.
 I will scatter to every wind
-people who clip the corners of their hair,
-and from every side
-I will bring their disaster,”
-says the LORD.
-
-v33: “Hazor will become a dwelling for jackals,
+those who clip the edges of their hair.
+From every side I will bring their disaster,” declares the **LORD**.
+v33: “Hazor will become a haunt of jackals,
 a desolation forever.
-No one will live there,
-and no human being will stay in it.”
+No one will live there;
+no human being will settle there.”
 </p>
 
-## Concerning Elam
+## Elam
 
 <p>
-v34: The word of the LORD that came to Jeremiah the prophet concerning Elam at the beginning of the reign of Zedekiah king of Judah, saying:
-
-v35: Thus says the LORD of Hosts:
-
-“Look, I am breaking the bow of Elam,
-the chief of their might.
-
-v36: I will bring upon Elam four winds
-from the four ends of the heavens,
-and I will scatter them
-to all these winds.
-There will be no nation
-to which the outcasts of Elam will not come.
-
-v37: I will make Elam terrified
-before their enemies
-and before people who seek their lives.
+v34: The word of the **LORD** that came to Jeremiah the prophet concerning Elam, at the beginning of the reign of Zedekiah king of Judah:
+v35: This is what the **LORD** of hosts says:
+“I am breaking Elam's bow,
+the mainstay of its strength.
+v36: I will bring four winds against Elam
+from the four ends of the heavens.
+I will scatter its people to all these winds;
+there will be no nation
+where Elam's outcasts do not arrive.
+v37: I will shatter Elam before its enemies,
+before those who seek its life.
 I will bring disaster upon them,
-my fierce anger,”
-says the LORD.
+my burning anger,” declares the **LORD**.
 “I will send the sword after them
-until I have consumed them.
-
+until I have finished them.
 v38: I will set my throne in Elam
-and destroy from there
-king and officials,”
-says the LORD.
-
-v39: “But it will be in the latter days
-that I will restore
-the fortunes of Elam,”
-says the LORD.
+and destroy its king and officials,” declares the **LORD**.
+v39: “Yet in days to come I will restore Elam's fortunes,” declares the **LORD**.
 </p>
 
 ## Notes
 
-v01: The question concerning Gad assumes that Ammon has occupied Israelite territory east of the Jordan. Milcom is the deity associated with Ammon.
+v1–4: Milcom can also be read “their king.” Ai's location here is uncertain. The flowing-valley expression in verse 4 may describe abundance or a valley draining away; the draft leaves the image visible.
 
-v03: The Hebrew place-name “Ai” is unexpected in an Ammonite oracle and may reflect a site now unknown or a textual difficulty. TSW retains the received reading.
+v7,19–20: The word rendered “discerning” in verse 7 may be read “sons.” The lion, pasture, and shepherd passage has disputed pronouns and syntax. Verse 20 may describe the smallest sheep being dragged away, or the smallest dragging others away. The same passage recurs against Babylon in 50:44–45.
 
-v06: The Ammon oracle ends with restoration after judgment, a pattern also found in the Moab and Elam oracles.
+v23–25: The Hebrew has anxiety “in the sea,” an unusual expression retained here. Verse 25 includes a negative: the question can ask why the city has not been abandoned, while some readings instead lament its abandonment.
 
-v07: Teman was associated with Edomite wisdom. The oracle begins by asking whether Edom’s renowned counsel has failed.
-
-v08–22: Much of the Edom material closely parallels Obadiah. TSW does not harmonize wording between the books but preserves Jeremiah’s received form.
-
-v11: The brief promise concerning orphans and widows stands unexpectedly within the severe Edom oracle and is preserved without qualification.
-
-v19: The lion-from-the-Jordan image is difficult in its pronouns and movements. The central claim is clear: no shepherd or ruler can stand before the LORD’s appointed action.
-
-v23–27: Damascus represents Aramean power, with Hamath and Arpad drawn into the same collapse.
-
-v28: Kedar and Hazor here refer to Arabian peoples and settlements rather than the Canaanite Hazor known from Joshua.
-
-v31: The target is portrayed as a community without fortified gates, living in apparent security and isolation.
-
-v34–39: Elam lay east of Babylon. The oracle begins with scattering to every direction but ends with restoration “in the latter days.”
+v32: Clipping the edges of the hair identifies a custom associated with the addressed people. The reference is preserved rather than replaced by a general term for nomads.
 
 ## Vocabulary
 
-v01: מַלְכָּם (Malkam)
-“Milcom” or “their king.” The consonants permit wordplay between the Ammonite deity and “their king.”
+v12: **Cup**: An image of an allotted experience of judgment that must be drunk.
 
-v07: תֵּימָן (Teman)
-“Teman.” An Edomite region associated with wisdom.
-
-v08: דְּדָן (Dedan)
-“Dedan.” An Arabian people or region linked commercially with Edom.
-
-v16: זָדוֹן (zadon)
-“Pride” or “presumption.” Edom’s self-confidence is said to deceive.
-
-v23: דְּאָגָה (de'agah)
-“Anxiety” or “care.” The agitation compared with an unsettled sea.
-
-v28: קֵדָר (Qedar)
-“Kedar.” A nomadic Arabian people associated with tents and flocks.
-
-v32: קְצוּצֵי פֵאָה (qetsutse pe'ah)
-“Those who clip the corners of their hair.” A cultural marker applied to Arabian peoples.
-
-v35: קֶשֶׁת (qeshet)
-“Bow.” Named as the chief military strength of Elam.
-
-v39: שׁוּב שְׁבוּת (shuv shevut)
-“To restore the fortunes.” The reversal promised after judgment.
+v21: **Sea of Reeds**: The Hebrew name often represented in English as the Red Sea.
