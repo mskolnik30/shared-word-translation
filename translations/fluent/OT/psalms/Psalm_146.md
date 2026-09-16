@@ -4,46 +4,44 @@ testament: OT
 chapter: 146
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-145-150-biblical-fluency-2026-09-16
 ---
 
 <p>
-v01: Hallelujah! Praise LORD, O my soul.
-v02: I will praise the LORD while I live;
-    I will sing praises to my God while I have being.
-v03: Do not trust in princes,
-    in a human being who cannot save.
-v04: His spirit departs, he returns to the earth;
-    in that very day, his plans perish.
-v05: Blessed is he whose help is the God of Jacob,
-    whose hope is in the LORD his God,
-v06: who made heaven and earth,
-    the sea and all that is in them;
-    who keeps faith forever;
-v07: who executes justice for the oppressed;
-    who gives food to the hungry.
-    the LORD frees the prisoners;
-v08: LORD opens the eyes of the blind;
-    the LORD lifts up people who are bowed down;
-    the LORD loves the righteous;
-v09: the LORD watches over the strangers;
-    He upholds the orphan and widow,
-    but the way of the wicked He brings to ruin.
-v10: the LORD will reign forever,
-    your God, O Zion, to all generations.
-    Hallelujah!
+v01: Praise **YAH**!
+Praise the LORD, my whole being.
+v02: I will praise the LORD as long as I live;
+I will make music for my God while I have breath.
+v03: Do not put your trust in nobles,
+in a human being who cannot save.
+v04: His breath departs; he returns to his ground.
+That very day his plans perish.
+v05: Happy is the one whose help is the God of Jacob,
+whose hope rests on the LORD his God,
+v06: the maker of heaven and earth,
+the sea and everything in them,
+who keeps faith forever,
+v07: who brings justice to the oppressed
+and gives bread to the hungry.
+The LORD sets prisoners free.
+v08: The LORD opens the eyes of the blind;
+the LORD raises those bowed down;
+the LORD loves the righteous.
+v09: The LORD guards resident foreigners;
+he sustains the fatherless and the widow,
+but he frustrates the way of the wicked.
+v10: The LORD will reign forever,
+your God, Zion, through every generation.
+Praise **YAH**!
 </p>
 
 ## Notes
 
-
+v03–04: The warning rests on human mortality: even powerful people die, and their plans end with them.
 
 ## Vocabulary
 
-v01: יְהוָ֣ה (Yahweh)
-“LORD.” The divine name, represented in English by small-capital LORD.
-
-v01: נֶ֫פֶשׁ (nephesh)
-“Life; self; person.” Here the speaker addresses the whole self in praise.
-
-v05: שֵׂ֫בֶר (sever)
-“Hope; expectation.” The object of expectation is the LORD.
+v09: **Resident foreigners**: People living outside their own ancestral community, named here alongside the fatherless and widows.

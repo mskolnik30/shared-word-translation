@@ -4,242 +4,126 @@ testament: OT
 chapter: 23
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-proverbs-1-31-biblical-fluency-2026-09-16
 ---
 
 ## Do Not Exhaust Yourself for Wealth
 
 <p>
-v01: When you sit to eat
-with a ruler,
-consider carefully
-what is before you,
-
-v02: and put a knife to your throat
-if you have a great appetite.
-
-v03: Do not desire
-the ruler’s delicacies,
-for they are deceptive food.
-
-v04: Do not exhaust yourself
-to become rich;
-have the understanding
-to stop.
-
-v05: When your eyes fly toward wealth,
-it is gone,
-for it surely makes wings for itself
-and flies like an eagle toward heaven.
+v01: When you sit down to eat with a ruler,
+consider carefully what is before you.
+v02: Put a knife to your throat
+if you are ruled by appetite.
+v03: Do not crave his delicacies,
+for that food is deceptive.
+v04: Do not wear yourself out getting rich;
+have the sense to stop.
+v05: Will you set your eyes on it? It is gone!
+Wealth surely makes itself wings
+and flies toward heaven like an eagle.
 </p>
 
 <p>
-v06: Do not eat the bread
-of one with a stingy eye,
-and do not desire
-their delicacies,
-
-v07: for as they calculate
-within themselves, so they are.
-“Eat and drink,” they say to you,
-but their heart is not with you.
-
-v08: You will vomit up
-the morsel you ate
-and waste
-your pleasant words.
-
-v09: Do not speak
-in the hearing of a fool,
-for they will despise
-the wisdom of your words.
-
-v10: Do not move
-an ancient boundary
-or enter the fields
-of the fatherless,
-
-v11: for their Redeemer is strong;
-the Redeemer
-will plead their case
-against you.
+v06: Do not eat the bread of the stingy
+or crave their delicacies.
+v07: For he is like one calculating inwardly.
+“Eat and drink,” he tells you,
+but his heart is not with you.
+v08: You will vomit the morsel you ate
+and waste your pleasant words.
+v09: Do not speak in a fool’s hearing,
+for he will despise the good sense of your words.
+v10: Do not move the ancient boundary marker
+or encroach on the fields of the fatherless.
+v11: For their Redeemer is strong;
+he will plead their case against you.
 </p>
 
 ## Apply Your Heart to Discipline
 
 <p>
-v12: Apply your heart
-to discipline
-and your ears
-to words of knowledge.
-
-v13: Do not withhold discipline
-from a child;
-if you strike with the rod,
-the child will not die.
-
-v14: You may strike with the rod
-and rescue their life
-from Sheol.
-
-v15: My child,
-if your heart is wise,
-my own heart
-will rejoice.
-
-v16: My innermost being will rejoice
-when your lips
-speak what is upright.
+v12: Bring your heart to discipline
+and your ears to words of knowledge.
+v13: Do not withhold discipline from a youth;
+if you strike him with a rod, he will not die.
+v14: You will strike him with a rod
+and rescue his life from Sheol.
+v15: My son, if your heart becomes wise,
+my own heart will rejoice.
+v16: My innermost being will exult
+when your lips speak what is right.
 </p>
 
 ## Do Not Envy Sinners
 
 <p>
-v17: Do not let your heart
-envy sinners,
-but remain in the fear of the LORD
-all day long.
-
-v18: Surely there is a future,
-and your hope
-will not be cut off.
-
-v19: Hear, my child, and become wise;
-direct your heart
-in the way.
-
-v20: Do not be among
-people who drink too much wine,
-or among those
-who gorge themselves on meat,
-
-v21: for the drunkard and glutton
-will come to poverty,
-and drowsiness
-will clothe a person in rags.
+v17: Do not let your heart envy sinners;
+instead, fear the LORD all day long.
+v18: For surely there is a future,
+and your hope will not be cut off.
+v19: Listen, my son, and become wise;
+lead your heart straight along the way.
+v20: Do not join those who drink too much wine
+or those who gorge themselves on meat,
+v21: for the drunkard and the glutton become poor,
+and drowsiness clothes them in rags.
 </p>
 
 ## Buy Truth and Do Not Sell It
 
 <p>
-v22: Listen to your father
-who gave you life,
-and do not despise your mother
-when she is old.
-
-v23: Buy truth
-and do not sell it—
-wisdom, discipline,
-and understanding.
-
-v24: The father of the righteous
-will greatly rejoice;
-the one who fathers a wise child
-will be glad.
-
-v25: Let your father and mother be glad;
-let the one who gave birth to you
-rejoice.
-
-v26: My child, give me your heart,
-and let your eyes
-delight in my ways.
+v22: Listen to your father who gave you life;
+do not despise your mother when she is old.
+v23: Buy truth, and do not sell it—
+wisdom, discipline, and understanding.
+v24: The father of the righteous will greatly rejoice;
+one who fathers a wise son will be glad in him.
+v25: May your father and mother be glad;
+may the woman who bore you rejoice.
+v26: My son, give me your heart,
+and let your eyes keep watch over my ways.
 </p>
 
 ## The Pit of Unfaithfulness
 
 <p>
-v27: For a prostitute
-is a deep pit,
-and a foreign woman
-a narrow well.
-
-v28: She lies in wait
-like a robber
-and increases the treacherous
-among humanity.
+v27: For a prostitute is a deep pit,
+and the forbidden woman a narrow well.
+v28: She too lies in wait like a robber
+and increases the faithless among humankind.
 </p>
 
 ## Do Not Be Captivated by Wine
 
 <p>
-v29: Who has woe?
-Who has sorrow?
-Who has conflicts?
-Who has complaints?
-Who has wounds without cause?
-Who has reddened eyes?
-
-v30: People who linger long over wine,
-people who go
-to search out mixed wine.
-
-v31: Do not look at wine
-when it is red,
+v29: Who has woe? Who has sorrow?
+Who has quarrels? Who has complaints?
+Who has wounds for no reason? Who has bloodshot eyes?
+v30: Those who linger over wine,
+those who go seeking mixed drink.
+v31: Do not gaze at wine when it is red,
 when it sparkles in the cup
 and goes down smoothly.
-
-v32: In the end
-it bites like a serpent
-and stings
-like a viper.
-
+v32: In the end it bites like a snake
+and strikes like a viper.
 v33: Your eyes will see strange things,
-and your heart
-will speak perversities.
-
-v34: You will be like one
-lying down in the heart of the sea,
-like one lying
-at the top of a mast.
-
-v35: “They struck me,
-but I was not hurt.
-They beat me,
-but I did not feel it.
-When will I wake up?
-I will seek another drink.”
+and your heart will speak perversities.
+v34: You will be like someone lying in the heart of the sea,
+like someone lying at the top of a mast.
+v35: “They struck me, but I felt no pain;
+they beat me, but I did not know it.
+When will I wake up? I will seek another drink.”
 </p>
 
 ## Notes
 
-v02: The violent image “put a knife to your throat” is deliberate hyperbole calling for severe restraint in the presence of power and luxury.
+v02,13–14: The knife at the throat is a forceful image of appetite restrained. Verses 13–14 explicitly describe striking a youth with a rod and its claimed protective purpose; the translation preserves that ancient disciplinary language.
 
-v04–05: Wealth is pictured as capable of flying away despite intense human effort to secure it.
-
-v07: The Hebrew is difficult. The central contrast is between outward hospitality and inward calculation.
-
-v10–11: The vulnerable fatherless have a powerful “Redeemer,” a legal-family term here applied to God as their defender.
-
-v13–14: The ancient discipline imagery assumes parental responsibility to correct. Its stated aim is rescue from destruction, not uncontrolled violence.
-
-v23: Truth, wisdom, discipline, and understanding are worth acquiring at cost and are not to be traded away for temporary advantage.
-
-v29–35: The poem moves from questions about suffering to the seductive appearance of wine and finally to addiction’s impaired perception and compulsion.
-
-v35: The final line portrays the tragic cycle of intoxication: harm has occurred, yet the first desire upon waking is to return to the source of harm.
+v16,26,33: “Innermost being” is literally “kidneys.” Verse 26 follows the read form “keep/watch,” not the written “delight.” “Strange things” in verse 33 can also be understood as strange women.
 
 ## Vocabulary
 
-v04: יָגַע (yaga)
-“To toil” or “exhaust oneself.” Labor carried to the point of weariness.
-
-v06: רַע־עָיִן (ra ayin)
-“Stingy eye.” Literally “evil eye,” describing begrudging generosity.
-
-v11: גֹּאֵל (goel)
-“Redeemer” or “kinsman-redeemer.” One with responsibility to defend or reclaim the rights of a vulnerable relative.
-
-v17: קָנָא (qana)
-“To envy” or “be jealous.” Here directed toward the apparent success of sinners.
-
-v23: אֱמֶת (emet)
-“Truth” or “faithfulness.” What is reliable and worth preserving.
-
-v27: שׁוּחָה (shuchah)
-“Pit.” A deep opening from which escape is difficult.
-
-v29: אוֹי (oy)
-“Woe.” A cry of grief, distress, or impending trouble.
-
-v32: צֶפַע (tsepha)
-“Viper.” A venomous serpent used as an image for wine’s eventual harm.
+v11: **Redeemer**: A defender who takes up another’s cause, drawing on the role of a family protector.

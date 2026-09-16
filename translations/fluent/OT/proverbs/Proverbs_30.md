@@ -4,122 +4,76 @@ testament: OT
 chapter: 30
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-proverbs-1-31-biblical-fluency-2026-09-16
 ---
 
 ## The Words of Agur
 
 <p>
-v01: The words of Agur son of Jakeh, the oracle.
-
-The man declares to Ithiel,
+v01: The words of Agur son of Jakeh. The oracle.
+The man’s declaration to Ithiel—
 to Ithiel and Ucal:
-
-v02: Surely I am more ignorant
-than any person,
-and I do not have
-human understanding.
-
+v02: Surely I am more brutish than anyone;
+I do not have human understanding.
 v03: I have not learned wisdom,
-nor do I possess
-knowledge of the Holy One.
+nor do I have knowledge of the Holy One.
 </p>
 
 ## Every Word of God Is Refined
 
 <p>
-v04: Who has ascended to heaven
-and come down?
-Who has gathered the wind
-in the hollow of the hands?
-Who has wrapped the waters
-in a garment?
-Who has established
-all the ends of the earth?
-
-What is this one’s name,
-and what is the name of the son?
-Surely you know.
-
-v05: Every word of God
-is refined;
-God is a shield
-to people who take refuge.
-
-v06: Do not add
-to God’s words,
-lest God correct you
-and you be found a liar.
+v04: Who has gone up to heaven and come down?
+Who has gathered the wind in his hands?
+Who has wrapped the waters in a garment?
+Who has established all the ends of the earth?
+What is his name, and what is his son’s name?
+Surely you know!
+v05: Every word of God is refined;
+he is a shield to those who seek refuge in him.
+v06: Do not add to his words,
+or he will correct you and you will be exposed as a liar.
 </p>
 
 ## Give Me Neither Poverty nor Riches
 
 <p>
 v07: Two things I ask of you;
-do not withhold them from me
-before I die:
-
-v08: Keep falsehood and lying speech
-far from me.
-Give me neither poverty
-nor riches;
-feed me with the bread
-appointed for me,
-
-v09: lest I become full
-and deny you
-and say, “Who is the LORD?”
-or lest I become poor
-and steal
-and profane the name
-of my God.
+do not withhold them from me before I die:
+v08: Keep falsehood and lying words far from me.
+Give me neither poverty nor wealth;
+feed me with the bread allotted to me,
+v09: or I may be full and deny you, saying, “Who is the LORD?”
+Or I may become poor and steal,
+and misuse the name of my God.
 </p>
 
 ## A Generation Never Satisfied
 
 <p>
-v10: Do not slander a servant
-to a master,
-lest the servant curse you
-and you be found guilty.
-
-v11: There is a generation
-that curses its father
-and does not bless
-its mother.
-
-v12: There is a generation
-pure in its own eyes
-yet not washed
-from its filth.
-
-v13: There is a generation—
-how high are its eyes,
-how lifted
-its eyelids!
-
-v14: There is a generation
-whose teeth are swords
-and whose jaws are knives,
-to devour the poor from the earth
-and the needy from humanity.
+v10: Do not slander a servant to his master,
+or he may curse you and you will bear guilt.
+v11: There is a generation that curses its father
+and does not bless its mother;
+v12: a generation pure in its own eyes,
+yet not washed of its filth;
+v13: a generation—how haughty its eyes,
+how high its eyelids rise!
+v14: a generation with swords for teeth
+and knives for jaws,
+devouring the afflicted from the land
+and the needy from humankind.
 </p>
 
 <p>
-v15: The leech has two daughters:
-
-“Give!”
-“Give!”
-
-Three things
-are never satisfied;
-four never say,
-“Enough”:
-
-v16: Sheol,
-the barren womb,
-land never satisfied with water,
-and fire that never says,
-“Enough.”
+v15: The leech has two daughters: “Give! Give!”
+Three things are never satisfied;
+four never say, “Enough”:
+v16: Sheol, the barren womb,
+the land never satisfied with water,
+and fire that never says, “Enough.”
 </p>
 
 ## Things Too Wonderful for Me
@@ -127,154 +81,72 @@ and fire that never says,
 <p>
 v17: The eye that mocks a father
 and despises obedience to a mother—
-the ravens of the valley
-will peck it out,
-and the young eagles
-will eat it.
-
-v18: Three things
-are too wonderful for me;
+ravens of the valley will peck it out,
+and young eagles will eat it.
+v18: Three things are too wonderful for me;
 four I do not understand:
-
-v19: the way of an eagle
-in the heavens,
-the way of a serpent
-upon a rock,
-the way of a ship
-in the heart of the sea,
-and the way of a man
-with a young woman.
-
-v20: Such is the way
-of an adulterous woman:
+v19: the way of an eagle in the sky,
+the way of a snake on a rock,
+the way of a ship in the heart of the sea,
+and the way of a man with a young woman.
+v20: This is the way of an adulterous woman:
 she eats, wipes her mouth,
-and says,
-“I have done nothing wrong.”
+and says, “I have done nothing wrong.”
 </p>
 
 ## Four Things the Earth Cannot Bear
 
 <p>
-v21: Under three things
-the earth trembles,
-and under four
-it cannot bear up:
-
-v22: a servant when he becomes king,
-a fool when filled with food,
-
-v23: an unloved woman
-when she is married,
-and a servant woman
-when she inherits
-her mistress.
+v21: Under three things the earth trembles;
+under four it cannot bear up:
+v22: a servant who becomes king,
+a fool who has his fill of bread,
+v23: a hated woman who marries,
+and a slave woman who succeeds her mistress.
 </p>
 
 ## Four Small but Wise Creatures
 
 <p>
-v24: Four things
-are small on the earth,
+v24: Four things on earth are small,
 yet they are exceedingly wise:
-
-v25: ants are not a strong people,
-yet they prepare
-their food in summer;
-
-v26: rock badgers
-are not a mighty people,
-yet they make their homes
-among the rocks;
-
+v25: ants are a people without strength,
+yet they prepare their food in summer;
+v26: rock badgers are a people without power,
+yet they make their homes in the cliff;
 v27: locusts have no king,
-yet all of them
-go out in ranks;
-
-v28: a lizard
-can be caught in the hands,
-yet it is found
-in royal palaces.
+yet they all advance in ranks;
+v28: a lizard can be caught in the hands,
+yet it is found in kings’ palaces.
 </p>
 
 ## Four Things with Stately Movement
 
 <p>
-v29: Three things
-are stately in their stride,
-and four
-are stately in their movement:
-
-v30: the lion,
-mighty among animals,
-which does not turn back
-before anything;
-
-v31: the strutting rooster,
-the male goat,
-and a king
-with an army around him.
+v29: Three things have a stately stride;
+four move with dignity:
+v30: the lion, mighty among beasts,
+which retreats before nothing;
+v31: the strutting rooster, the male goat,
+and a king with his army beside him.
 </p>
 
 ## Restrain Pride and Anger
 
 <p>
-v32: If you have acted foolishly
-by exalting yourself,
-or if you have planned evil,
-put your hand
-over your mouth.
-
-v33: For pressing milk
-produces curds,
-pressing the nose
-produces blood,
-and pressing anger
-produces conflict.
+v32: If you have acted foolishly by exalting yourself,
+or if you have schemed—put your hand over your mouth!
+v33: For pressing milk produces curds,
+pressing a nose produces blood,
+and pressing anger produces a quarrel.
 </p>
 
 ## Notes
 
-v01: The Hebrew of the second half of the verse is unusually difficult. The Masoretic vocalization gives the names Ithiel and Ucal; other readings understand the words as a personal lament of exhaustion. TSW retains the traditional names without concealing the uncertainty.
+v01,03–04: The opening retains Ithiel and Ucal as names. Different word divisions can yield a declaration of weariness to God. “Oracle” may instead be the place-name Massa. “Holy One” in verse 3 represents a plural form. The son in verse 4 is left unidentified.
 
-v04: The questions emphasize the limits of human wisdom before the Creator. The unexpected question concerning “the son” is retained without supplying an identity the proverb itself does not give.
-
-v05: “refined” uses the language of tested metal. God’s speech has passed the test and is dependable.
-
-v08–09: Agur does not pray primarily for abundance but for enough. Both wealth and poverty can create distinct spiritual dangers.
-
-v15–16: Numerical sayings allow the list to grow from three to four. The repeated theme is insatiability.
-
-v18–19: The four “ways” leave no lasting track that fully explains how passage occurred. Human intimacy is placed among the mysteries of movement.
-
-v24–28: Wisdom is discovered among creatures lacking obvious strength or authority. Smallness does not prevent effective adaptation.
-
-v31: The Hebrew expression translated “strutting rooster” is uncertain and has been rendered in several ways, including greyhound or warhorse. TSW retains a traditional animal interpretation while acknowledging the uncertainty.
+v28,31: Verse 28 may describe a lizard grasping with its hands or being caught by hands. The animal in verse 31 is literally “girded at the loins”; rooster is a possible identification. The final phrase about the king’s company is also uncertain.
 
 ## Vocabulary
 
-v01: מַשָּׂא (massa)
-“Oracle” or “burden.” A weighty saying or prophetic utterance.
-
-v03: קָדוֹשׁ (qadosh)
-“Holy One.” A divine designation emphasizing holiness.
-
-v03: קָדוֹשׁ (qadosh)
-“Holy One.” A divine designation with a sense of holiness.
-
-v05: צָרַף (tsaraf)
-“To refine.” To test and purify metal through fire.
-
-v08: כָּזָב (kazav)
-“Falsehood” or “lie.” Speech that proves unreliable.
-
-v15: עֲלוּקָה (aluqah)
-“Leech.” A blood-feeding creature used as an image of insatiable demand.
-
-v18: פָּלָא (pala)
-“To be wonderful” or “beyond understanding.”
-
-v26: שָׁפָן (shafan)
-“Rock badger” or “hyrax.” A small rock-dwelling animal.
-
-v33: מִיץ (mits)
-“Pressing” or “squeezing.” Repeated three times to show consequences produced through sustained pressure.
+v33: **Pressing**: One repeated Hebrew word connects milk, nose, and anger. “Nose” and “anger” are also related Hebrew expressions.

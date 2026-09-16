@@ -1,0 +1,173 @@
+{
+  "status": "PASSED",
+  "base_commit": "1e0d2add96250b83f5278fca0a72eb277fa60cb9",
+  "new_chapters": 40,
+  "new_verses": 1061,
+  "source_records_bound_exactly_once": {
+    "psalms": 80,
+    "proverbs": 915,
+    "ecclesiastes": 66
+  },
+  "cumulative_coverage": {
+    "ledgers": 79,
+    "chapters": 667,
+    "verses": 17489
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 76,
+    "chapters_byte_identical": 627,
+    "verses": 16428,
+    "tsw_unchanged": true,
+    "historical_provenance_preserved": true
+  },
+  "source_binding_audit": "PASSED for all three affected ledgers",
+  "divine_names_selah": "PASSED verse by verse",
+  "focused_assertions": {
+    "Psalms 145:1": [
+      "David"
+    ],
+    "Psalms 145:12": [
+      "his mighty",
+      "his kingdom"
+    ],
+    "Psalms 146:9": [
+      "resident foreigners",
+      "fatherless",
+      "widow"
+    ],
+    "Psalms 147:19": [
+      "words",
+      "Jacob",
+      "Israel"
+    ],
+    "Psalms 148:14": [
+      "horn"
+    ],
+    "Psalms 149:5": [
+      "beds"
+    ],
+    "Psalms 149:7": [
+      "vengeance"
+    ],
+    "Psalms 150:6": [
+      "everything that breathes"
+    ],
+    "Proverbs 1:1": [
+      "Solomon",
+      "David",
+      "Israel"
+    ],
+    "Proverbs 6:16": [
+      "six",
+      "seven"
+    ],
+    "Proverbs 6:31": [
+      "sevenfold"
+    ],
+    "Proverbs 8:22": [
+      "acquired"
+    ],
+    "Proverbs 8:30": [
+      "master worker",
+      "playing"
+    ],
+    "Proverbs 13:23": [
+      "injustice"
+    ],
+    "Proverbs 17:10": [
+      "hundred"
+    ],
+    "Proverbs 17:27": [
+      "noble spirit"
+    ],
+    "Proverbs 19:7": [
+      "not there"
+    ],
+    "Proverbs 21:6": [
+      "seeking death"
+    ],
+    "Proverbs 22:6": [
+      "his way"
+    ],
+    "Proverbs 22:20": [
+      "excellent sayings"
+    ],
+    "Proverbs 23:14": [
+      "rod",
+      "Sheol"
+    ],
+    "Proverbs 23:26": [
+      "keep watch"
+    ],
+    "Proverbs 24:16": [
+      "seven"
+    ],
+    "Proverbs 25:1": [
+      "Hezekiah",
+      "Judah"
+    ],
+    "Proverbs 26:2": [
+      "does not"
+    ],
+    "Proverbs 26:16": [
+      "seven"
+    ],
+    "Proverbs 30:1": [
+      "Agur",
+      "Jakeh",
+      "Ithiel",
+      "Ucal"
+    ],
+    "Proverbs 30:15": [
+      "two",
+      "Three",
+      "four"
+    ],
+    "Proverbs 30:33": [
+      "pressing milk",
+      "pressing a nose",
+      "pressing anger"
+    ],
+    "Proverbs 31:1": [
+      "Lemuel",
+      "mother"
+    ],
+    "Proverbs 31:4": [
+      "Where"
+    ],
+    "Proverbs 31:21": [
+      "scarlet"
+    ],
+    "Proverbs 31:24": [
+      "sells",
+      "merchant"
+    ],
+    "Ecclesiastes 1:1": [
+      "David",
+      "Jerusalem"
+    ],
+    "Ecclesiastes 2:7": [
+      "male and female slaves"
+    ],
+    "Ecclesiastes 2:25": [
+      "apart from me"
+    ],
+    "Ecclesiastes 3:18": [
+      "they themselves are animals"
+    ],
+    "Ecclesiastes 3:21": [
+      "Who knows whether",
+      "?"
+    ]
+  },
+  "acrostic_31_10_31": "22 successive Hebrew initials verified",
+  "ecclesiastes_time_pairs": 14,
+  "repeated_sayings": "PASSED",
+  "focused_authoring_reread": 276,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_psalms_proverbs_reviews": "PENDING; focused rereading and structural checks completed, not a full continuous reread.",
+  "publication_allowed": false
+}

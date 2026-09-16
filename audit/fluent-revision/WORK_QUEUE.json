@@ -381,12 +381,27 @@
       "scope": "Psalms 105–144",
       "verses": 714,
       "ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json"
+    },
+    {
+      "scope": "Psalms 145–150",
+      "verses": 80,
+      "ledger": "audit/fluent-revision/2026-09-16-psalms-145-150/psalms-verse-review.json"
+    },
+    {
+      "scope": "Proverbs 1–31",
+      "verses": 915,
+      "ledger": "audit/fluent-revision/2026-09-16-proverbs-1-31/proverbs-verse-review.json"
+    },
+    {
+      "scope": "Ecclesiastes 1–3",
+      "verses": 66,
+      "ledger": "audit/fluent-revision/2026-09-16-ecclesiastes-1-3/ecclesiastes-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Psalms 145–150; Proverbs 1–31; Ecclesiastes 1–3",
-      "action": "Continue the next forty-chapter block: finish Psalms 145–150, then Proverbs 1–31 and Ecclesiastes 1–3. Verify each new book source and read every verse and annotation before drafting. Perform and record whole-book Psalms consistency review after Psalm 150; preserve all earlier pending whole-book reviews. TSW remains comparator only."
+      "scope": "Ecclesiastes 4–12; Song of Songs 1–8; Isaiah 1–23",
+      "action": "Continue next forty-chapter drafting block from pinned verified sources, reading every verse and annotation. TSW comparator only. Preserve all pending whole-book reviews."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -419,6 +434,14 @@
     {
       "scope": "Whole-book Job consistency review after Job 42",
       "action": "Read the completed dialogues and frame narrative as a whole; check speaker boundaries, repeated legal and bodily images, textual notes, and the difference between claims and narrative endorsement."
+    },
+    {
+      "scope": "Whole-book Psalms consistency review",
+      "action": "Read the complete revised book and apparatus continuously; source-check selected recurring vocabulary and difficulties. Rebind any earlier wording changed. Draft completion and focused checks do not complete this review."
+    },
+    {
+      "scope": "Whole-book Proverbs consistency review",
+      "action": "Read the complete revised book and apparatus continuously; source-check selected recurring vocabulary and difficulties. Rebind any earlier wording changed. Draft completion and focused checks do not complete this review."
     }
   ],
   "standards": [
@@ -473,7 +496,7 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt authorizes successive forty-chapter blocks without routine approval pauses, with all source and QA standards retained. This batch drafts Psalms 105–144: 40 chapters and 714 public verses. Independent editorial review and reader testing remain pending.",
+  "batch_preference": "Successive forty-chapter blocks authorized without routine approval pauses, retaining source and QA standards. Latest block: Psalms 145–150; Proverbs 1–31; Ecclesiastes 1–3, 1061 verses. Independent review and reader testing pending.",
   "completed_authoring_consistency_reviews": [
     {
       "scope": "Esther 1–10",

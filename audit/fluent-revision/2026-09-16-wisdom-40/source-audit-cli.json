@@ -1,0 +1,41 @@
+[
+  {
+    "book": "psalms",
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-psalms-145-150/psalms-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered71/sources/psalms-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 6,\n  \"verses\": 80,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "book": "proverbs",
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-proverbs-1-31/proverbs-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered71/sources/proverbs-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 31,\n  \"verses\": 915,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "book": "ecclesiastes",
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-ecclesiastes-1-3/ecclesiastes-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered71/sources/ecclesiastes-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 3,\n  \"verses\": 66,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  }
+]

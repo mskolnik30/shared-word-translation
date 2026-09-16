@@ -4,219 +4,98 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-proverbs-1-31-biblical-fluency-2026-09-16
 ---
 
 ## Honest Scales
 
 <p>
-v01: A false balance is an abomination to the LORD,
-but an accurate weight is the LORD’s delight.
-
-v02: When pride comes,
-disgrace comes,
-but wisdom is with the humble.
-
-v03: The integrity of the upright guides them,
-but the crookedness of the treacherous
-destroys them.
-
-v04: Wealth does not profit
-on the day of wrath,
-but righteousness delivers from death.
-
-v05: The righteousness of the blameless
-makes their way straight,
-but the wicked fall
-by their own wickedness.
+v01: Dishonest scales are detestable to the LORD,
+but an accurate weight delights him.
+v02: Pride arrives, and dishonor follows;
+wisdom is with the modest.
+v03: The integrity of the upright guides them;
+the crookedness of the faithless destroys them.
+v04: Wealth brings no benefit on the day of wrath,
+but righteousness rescues from death.
+v05: The righteousness of the blameless makes their way straight;
+the wicked fall through their own wickedness.
 </p>
 
 <p>
-v06: The righteousness of the upright delivers them,
-but the treacherous are caught
-by their own craving.
-
-v07: When the wicked die,
-their hope perishes,
-and the expectation placed in strength
-comes to nothing.
-
-v08: The righteous are rescued from trouble,
-and the wicked come into it instead.
-
-v09: With the mouth the godless destroy a neighbor,
-but through knowledge
-the righteous are rescued.
-
-v10: When it goes well with the righteous,
-the city rejoices;
-and when the wicked perish,
-there is shouting.
+v06: The righteousness of the upright rescues them;
+the faithless are caught by their own craving.
+v07: When a wicked person dies, hope perishes;
+expectation placed in strength dies too.
+v08: The righteous are freed from trouble,
+and the wicked take their place.
+v09: With his mouth the godless man destroys his neighbor,
+but through knowledge the righteous escape.
+v10: When the righteous prosper, a city rejoices;
+when the wicked perish, there are shouts of joy.
 </p>
 
 <p>
-v11: By the blessing of the upright
-a city is exalted,
-but by the mouth of the wicked
-it is torn down.
-
-v12: Whoever despises a neighbor
-lacks sense,
-but a person of understanding
-keeps silent.
-
-v13: A gossip goes about revealing secrets,
-but one faithful in spirit
-conceals a matter.
-
-v14: Where there is no guidance,
-a people falls,
-but in an abundance of counselors
-there is safety.
-
-v15: Whoever becomes surety for a stranger
-will surely suffer,
-but whoever hates striking hands in pledge
-is secure.
+v11: Through the blessing of the upright a city is raised up;
+through the mouth of the wicked it is torn down.
+v12: Whoever despises his neighbor lacks sense;
+a person of understanding keeps silent.
+v13: A gossip goes about revealing confidences,
+but a trustworthy person keeps a matter covered.
+v14: Without guidance a people falls;
+with many counselors there is deliverance.
+v15: Whoever guarantees a stranger’s debt will suffer for it;
+whoever avoids pledging is secure.
 </p>
 
 <p>
-v16: A gracious woman gains honor,
-and ruthless people gain wealth.
-
-v17: A person of steadfast love
-does good to their own life,
-but the cruel
-trouble their own flesh.
-
+v16: A gracious woman holds on to honor,
+and ruthless men hold on to wealth.
+v17: A man of faithful love does good to himself;
+a cruel man harms his own flesh.
 v18: The wicked earn deceptive wages,
-but whoever sows righteousness
-receives a sure reward.
-
-v19: Whoever stands firm in righteousness
-moves toward life,
-but whoever pursues evil
-moves toward death.
-
-v20: Those crooked in heart
-are an abomination to the LORD,
-but those whose way is blameless
-are the LORD’s delight.
+but one who sows righteousness earns a lasting reward.
+v19: True righteousness leads to life;
+whoever pursues evil pursues his own death.
+v20: Twisted hearts are detestable to the LORD;
+those whose way is blameless delight him.
 </p>
 
 <p>
-v21: Be assured:
-the wicked will not go unpunished,
-but the offspring of the righteous
-will escape.
-
-v22: Like a gold ring in a pig’s snout
-is a beautiful woman
-who turns away from good judgment.
-
-v23: The desire of the righteous
-ends only in good,
-but the expectation of the wicked
-in wrath.
-
-v24: One gives freely
-and yet increases all the more;
-another withholds what is right
-and comes only to poverty.
-
-v25: A generous person will flourish,
-and whoever gives water
-will themselves be watered.
+v21: Be assured: evil will not go unpunished,
+but the offspring of the righteous will escape.
+v22: A gold ring in a pig’s snout—
+such is a beautiful woman who turns from good judgment.
+v23: The desire of the righteous ends only in good;
+the hope of the wicked ends in wrath.
+v24: One person gives freely and gains still more;
+another withholds what is due and comes only to need.
+v25: A generous person will flourish;
+one who refreshes others will also be refreshed.
 </p>
 
 <p>
-v26: The people curse
-the one who holds back grain,
-but blessing is upon the head
-of the one who sells it.
-
-v27: Whoever diligently seeks good
-seeks favor,
-but whoever searches for evil—
-it will come to them.
-
-v28: Whoever trusts in wealth
-will fall,
-but the righteous will flourish
-like a green leaf.
-
-v29: Whoever troubles their own household
-will inherit wind,
-and a fool will become servant
-to the wise in heart.
-
-v30: The fruit of the righteous
-is a tree of life,
-and whoever gains lives
-is wise.
-
-v31: If the righteous receive their due on earth,
-how much more
-the wicked and the sinner!
+v26: People curse the one who withholds grain,
+but blessing rests on the head of the one who sells it.
+v27: Whoever earnestly seeks good seeks favor;
+whoever searches for evil will find it coming upon him.
+v28: Whoever trusts in wealth will fall,
+but the righteous will flourish like a leaf.
+v29: Whoever brings trouble on his household will inherit wind,
+and a fool will serve the wise in heart.
+v30: The fruit of the righteous is a tree of life,
+and one who wins lives is wise.
+v31: If the righteous are repaid on earth,
+how much more the wicked and the sinner!
 </p>
 
 ## Notes
 
-v01: Accurate commercial measures are explicitly treated as a theological matter. Economic honesty belongs within faithfulness to the LORD.
-
-v02: Pride and humility are not merely internal attitudes; each produces a corresponding social and moral outcome.
-
-v04: Wealth loses its supposed power at the point of ultimate crisis. Righteousness, rather than accumulated resources, is named as delivering from death.
-
-v09: “godless” — The Hebrew term can describe one who is profane or morally corrupt, not merely someone who lacks religious belief.
-
-v10–11: The conduct of individuals shapes the whole city. Wisdom literature therefore refuses to treat righteousness and wickedness as merely private matters.
-
-v13: “faithful in spirit” — Faithfulness is demonstrated by the ability to hold another person’s confidential matter rather than turning knowledge into social currency.
-
-v14: The proverb commends multiple counselors rather than isolated confidence in one person’s judgment.
-
-v16: The Hebrew text of the second line differs across ancient witnesses, making the full contrast difficult. TSW retains the Masoretic wording concerning ruthless people acquiring wealth without assuming that such wealth constitutes true honor.
-
-v17: Steadfast love and cruelty rebound upon the person practicing them. Character shapes the life of the one who acts as well as the lives of others.
-
-v22: The comparison deliberately combines something valuable and beautiful with a context that renders it grotesquely misplaced. Beauty without discernment is presented as similarly disordered.
-
-v24–25: Generosity appears paradoxical: giving does not necessarily diminish the giver. The proverbs describe a social and moral economy in which open-handedness creates flourishing.
-
-v26: Grain hoarding is condemned when withholding harms the community for personal advantage. Selling grain appropriately, by contrast, brings blessing.
-
-v30: “gains lives” — The Hebrew phrase can also be translated “takes lives/souls,” but within the positive parallelism TSW understands it as wisely winning or gaining people rather than violently taking life.
-
-v31: The closing saying argues from lesser to greater: if even the righteous experience consequences within earthly life, the wicked cannot presume escape.
+v16,30: Verse 16 contrasts a gracious woman’s honor with wealth held by ruthless men. In verse 30 “wins lives” is literally “takes lives,” a difficult expression here; the draft reads it positively with wisdom, without making it a technical term for conversion.
 
 ## Vocabulary
 
-v01: מֹאזְנֵי מִרְמָה (mozenei mirmah)
-“False balance.” Scales manipulated for dishonest commerce.
-
-v02: זָדוֹן (zadon)
-“Pride” or “presumption.” Self-exalting arrogance.
-
-v03: יֹשֶׁר (yosher)
-“Uprightness” or “straightness.” Moral integrity pictured as a straight path.
-
-v09: חָנֵף (chanef)
-“Godless,” “profane,” or “corrupt.” One whose conduct is morally polluted or faithless.
-
-v13: רָכִיל (rakhil)
-“Gossip” or “slanderer.” One who travels about spreading damaging information.
-
-v14: תַּחְבֻּלוֹת (tachbulot)
-“Guidance,” “strategies,” or “wise counsel.” Skilled direction gained through deliberation.
-
-v17: חֶסֶד (ḥesed)
-“Steadfast love,” “loyalty,” or “kindness.” Faithful relational action.
-
-v22: טַעַם (taam)
-“Judgment,” “discernment,” or “good sense.” The capacity to perceive what is fitting.
-
-v25: בְּרָכָה (berakhah)
-“Blessing.” Here associated with generosity and flourishing.
-
-v30: עֵץ חַיִּים (ets chayyim)
-“Tree of life.” An image of life-giving influence and flourishing.
+v01: **Accurate weight**: A correctly sized stone used with balance scales; false weights enable commercial theft.

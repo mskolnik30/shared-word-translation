@@ -2,125 +2,75 @@
   "book": "Psalms",
   "chapter": 150,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-145-150-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "1e0d2add96250b83f5278fca0a72eb277fa60cb9",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_150_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 150:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 150,
-            "verse": 1,
-            "source_ref": "Psalms 150:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "5bce1dd933165d47b4a938404da8e6a0f85f9421f146f882b5a5886c0aafd45a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5bce1dd933165d47b4a938404da8e6a0f85f9421f146f882b5a5886c0aafd45a"
-      },
-      "2": {
-        "source_ref": "Psalms 150:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 150,
-            "verse": 2,
-            "source_ref": "Psalms 150:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "1644890c3b8463b8a6591c9f799e818e7ae3abec38c614e354fb707b92af7337"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1644890c3b8463b8a6591c9f799e818e7ae3abec38c614e354fb707b92af7337"
-      },
-      "3": {
-        "source_ref": "Psalms 150:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 150,
-            "verse": 3,
-            "source_ref": "Psalms 150:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "dac2dd4e674e7ee8ffcd35732f2d3cbbd81bbf0192674c1864a59289c16dedef"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "dac2dd4e674e7ee8ffcd35732f2d3cbbd81bbf0192674c1864a59289c16dedef"
-      },
-      "4": {
-        "source_ref": "Psalms 150:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 150,
-            "verse": 4,
-            "source_ref": "Psalms 150:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "43060e6f23cdc5529088bb738e941855125e0351ffebd28058f3463a2701bd49"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "43060e6f23cdc5529088bb738e941855125e0351ffebd28058f3463a2701bd49"
-      },
-      "5": {
-        "source_ref": "Psalms 150:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 150,
-            "verse": 5,
-            "source_ref": "Psalms 150:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a1982158c8dd4c92be2fa95a41af56ef58b6a858e086ab5e294f73c13a670bd1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a1982158c8dd4c92be2fa95a41af56ef58b6a858e086ab5e294f73c13a670bd1"
-      },
-      "6": {
-        "source_ref": "Psalms 150:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 150,
-            "verse": 6,
-            "source_ref": "Psalms 150:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "9f8cd840335e6bc556cef24d3eebc5678d9a6680363d1ea1b59c057258231b9b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9f8cd840335e6bc556cef24d3eebc5678d9a6680363d1ea1b59c057258231b9b"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All 80 selected original verse records bind exactly once to matching public verse labels. No record partition or offset in this scope. Titles remain inside their verse labels."
+  },
+  "chapter_binding": {
+    "chapter": 150,
+    "verse_count": 6,
+    "path": "translations/fluent/OT/psalms/Psalm_150.md",
+    "before_sha256": "99bfe2b8c1e818cfb596fe3ba7cddd4d00dff64cffde7b6f7152cfd55eabd7b5",
+    "after_sha256": "c18119f0f191d57d4655a9138720135378da67c97f0422094a01a4eea020f7ef",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_150.md",
+    "tsw_comparator_sha256": "3a01709f03b04ab4b499d718892aa64f5f5685ce997a647955007683569c9fe3"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-145-150/psalms-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Psalms 150:1",
+      "decision": "Keeps holy place and cosmic expanse distinct.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 150:3",
+      "decision": "Keeps shofar and two stringed instruments.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 150:4",
+      "decision": "Preserves dance and distinct musical groupings.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 150:5",
+      "decision": "Keeps repeated instrument and intensified sound.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 150:6",
+      "decision": "Preserves broad breathing-life invitation and both short names.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_150.md",
-    "blob_sha": "c146ea25acf1eb4225a2fdd781b7088ae42176e4"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

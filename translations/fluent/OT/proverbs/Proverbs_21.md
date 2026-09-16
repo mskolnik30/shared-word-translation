@@ -4,218 +4,102 @@ testament: OT
 chapter: 21
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-proverbs-1-31-biblical-fluency-2026-09-16
 ---
 
 ## The LORD Weighs the Heart
 
 <p>
-v01: A king’s heart
-is like channels of water
-in the hand of the LORD;
-the LORD turns it wherever desired.
-
-v02: Every way of a person
-is right in their own eyes,
-but the LORD
-weighs hearts.
-
-v03: To practice righteousness and justice
-is more acceptable to the LORD
-than sacrifice.
-
-v04: Haughty eyes
-and a proud heart—
-the lamp of the wicked—
-are sin.
-
-v05: The plans of the diligent
-surely lead to abundance,
-but everyone who hurries
-comes only to poverty.
+v01: A king’s heart is like channels of water in the LORD’s hand;
+he turns it wherever he wishes.
+v02: Every way seems right in a person’s own eyes,
+but the LORD weighs hearts.
+v03: Doing righteousness and justice
+is more desirable to the LORD than sacrifice.
+v04: Haughty eyes and a swollen heart—
+the lamp of the wicked—are sin.
+v05: The plans of the diligent lead only to gain;
+everyone who hurries comes only to need.
 </p>
 
 <p>
-v06: Gaining treasure
-with a lying tongue
-is a fleeting vapor,
-a snare of death.
-
-v07: The violence of the wicked
-will sweep them away,
-because they refuse
-to practice justice.
-
-v08: The way of the guilty
-is crooked,
-but the work of the pure
-is upright.
-
-v09: Better to live
-on a corner of a roof
-than share a house
-with a quarrelsome spouse.
-
-v10: The appetite of the wicked
-desires evil;
-their neighbor receives
-no mercy from them.
+v06: Treasures gained by a lying tongue
+are a vanishing breath for those seeking death.
+v07: The violence of the wicked drags them away,
+because they refuse to do justice.
+v08: The way of the guilty is twisted,
+but the conduct of the pure is straight.
+v09: Better to live on a corner of the roof
+than share a house with a quarrelsome wife.
+v10: The wicked crave evil;
+their neighbor finds no mercy in their eyes.
 </p>
 
 ## Justice and Understanding
 
 <p>
-v11: When a scoffer is punished,
-the simple become wise;
-when the wise are instructed,
-they gain knowledge.
-
-v12: The Righteous One observes
-the house of the wicked
-and overturns the wicked
-into ruin.
-
-v13: Whoever closes their ear
-to the cry of the poor
-will also cry out
-and not be answered.
-
-v14: A gift given secretly
-calms anger,
-and a concealed present
-strong wrath.
-
-v15: The practice of justice
-is joy to the righteous
-but terror
-to people who do evil.
+v11: When a scoffer is punished, the inexperienced become wise;
+when the wise receive instruction, they gain knowledge.
+v12: The Righteous One considers the house of the wicked;
+he overturns the wicked into disaster.
+v13: Whoever shuts his ear to the poor person’s cry
+will also cry out and receive no answer.
+v14: A gift in secret quiets anger;
+a concealed bribe quiets fierce rage.
+v15: Doing justice brings joy to the righteous
+but terror to those who do wrong.
 </p>
 
 <p>
-v16: A person who wanders
-from the way of understanding
-will rest
-in the assembly of the dead.
-
-v17: Whoever loves pleasure
-will become poor;
-whoever loves wine and oil
-will not become rich.
-
-v18: The wicked become
-a ransom for the righteous,
-and the treacherous
-in place of the upright.
-
-v19: Better to live
-in a wilderness
-than with a quarrelsome
-and angry spouse.
-
-v20: Precious treasure and oil
-are in the dwelling of the wise,
-but a foolish person
-swallows them up.
+v16: One who wanders from the way of understanding
+will rest among the assembly of the dead.
+v17: Whoever loves pleasure will become needy;
+whoever loves wine and oil will not grow rich.
+v18: The wicked become a ransom for the righteous,
+and the faithless take the place of the upright.
+v19: Better to live in a wilderness
+than with a quarrelsome and angry wife.
+v20: Precious treasure and oil are in the wise person’s home,
+but a fool swallows them up.
 </p>
 
 ## Pursue Righteousness
 
 <p>
-v21: Whoever pursues righteousness
-and steadfast love
-finds life,
-righteousness, and honor.
-
-v22: A wise person can scale
-a city of warriors
-and bring down
-the stronghold they trusted.
-
-v23: Whoever guards mouth and tongue
-guards their life
-from troubles.
-
-v24: “Scoffer” is the name
-of the proud and arrogant person
-who acts
-with excessive pride.
-
-v25: The desire of the lazy
-kills them,
-because their hands
-refuse to work.
+v21: Whoever pursues righteousness and faithful love
+finds life, righteousness, and honor.
+v22: A wise person scales a city of warriors
+and brings down the stronghold they trust.
+v23: Whoever guards his mouth and tongue
+guards his life from troubles.
+v24: Proud and arrogant—Scoffer is his name;
+he acts with overflowing pride.
+v25: A sluggard’s craving kills him,
+for his hands refuse to work.
 </p>
 
 <p>
-v26: All day long
-they crave more and more,
-but the righteous give
-and do not hold back.
-
-v27: The sacrifice of the wicked
-is an abomination—
-how much more
-when brought with evil intent!
-
-v28: A false witness will perish,
-but one who listens carefully
-will speak enduringly.
-
-v29: A wicked person
-hardens their face,
-but the upright
-consider their way.
-
-v30: There is no wisdom,
-no understanding,
-and no counsel
-that can stand against the LORD.
-
-v31: The horse is prepared
-for the day of battle,
-but victory
-belongs to the LORD.
+v26: All day long he craves and craves,
+but the righteous give without holding back.
+v27: The sacrifice of the wicked is detestable;
+how much more when brought with an evil purpose!
+v28: A lying witness will perish,
+but a person who listens will speak enduringly.
+v29: A wicked man puts on a bold face,
+but the upright considers his way.
+v30: There is no wisdom, no understanding,
+and no counsel that can stand against the LORD.
+v31: The horse is prepared for the day of battle,
+but deliverance belongs to the LORD.
 </p>
 
 ## Notes
 
-v01: Even royal power is not independent of the LORD. The image of irrigation channels portrays authority redirected according to divine purpose.
-
-v03: Ethical faithfulness is preferred to sacrifice detached from righteousness and justice.
-
-v12: “The Righteous One” may refer to a righteous human observer or to God. TSW retains the possible divine designation rather than eliminating the ambiguity.
-
-v13: Refusal to hear the vulnerable is answered by a corresponding experience of not being heard.
-
-v21: Righteousness and steadfast love are not passive qualities; they are things pursued.
-
-v27: Religious practice becomes especially offensive when it is deliberately used while pursuing evil.
-
-v30: Human intelligence cannot finally construct a strategy capable of defeating the LORD’s purpose.
-
-v31: Preparation remains appropriate, but preparation is distinguished from the source of ultimate deliverance.
+v04,06,12: “Lamp” in verse 4 can also be understood as a plowed field. Verse 6 follows the pinned “seekers of death,” rather than “snares of death.” Verse 12 reads “the Righteous One” as God; a righteous human observer is also possible.
 
 ## Vocabulary
 
-v01: פַּלְגֵי־מַיִם (palge mayim)
-“Channels of water.” Irrigation streams redirected by a cultivator.
-
-v02: תָּכַן (takhan)
-“To weigh.” To evaluate the true character of the heart.
-
-v03: צְדָקָה וּמִשְׁפָּט (tsedaqah u-mishpat)
-“Righteousness and justice.” Right conduct joined with right judgment.
-
-v13: דַּל (dal)
-“Poor” or “weak.” One lacking power, resources, or security.
-
-v16: רְפָאִים (rephaim)
-“The dead” or “departed shades.”
-
-v21: רָדַף (radaf)
-“To pursue.” To seek persistently.
-
-v23: שָׁמַר (shamar)
-“To guard” or “keep.” Careful protection, here directed toward speech.
-
-v31: תְּשׁוּעָה (teshuah)
-“Victory,” “deliverance,” or “saving help.” The outcome belonging ultimately to the LORD.
+v18: **Ransom**: Something given in another’s place. Here the image describes a reversal between the wicked and the righteous.

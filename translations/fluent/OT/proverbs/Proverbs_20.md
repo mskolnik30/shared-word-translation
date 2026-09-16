@@ -4,215 +4,102 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-proverbs-1-31-biblical-fluency-2026-09-16
 ---
 
 ## Wisdom in Daily Life
 
 <p>
-v01: Wine is a mocker,
-strong drink a brawler;
-whoever is led astray by them
-is not wise.
-
-v02: The terror of a king
-is like the roaring of a lion;
-whoever provokes him
-endangers their own life.
-
-v03: It is an honor
-for a person to stay out of conflict,
-but every fool
-bursts into quarrels.
-
-v04: The lazy do not plow
-in the proper season;
-at harvest they will look
-and find nothing.
-
-v05: Counsel in the human heart
-is deep water,
-but a person of understanding
-will draw it out.
+v01: Wine is a scoffer; strong drink is a brawler.
+Whoever is led astray by them is not wise.
+v02: A king’s terror is like a young lion’s roar;
+whoever provokes him endangers his own life.
+v03: It is an honor to stay out of a quarrel,
+but every fool rushes into one.
+v04: A sluggard will not plow in the cold season;
+at harvest he looks for a crop, but there is none.
+v05: Counsel in a person’s heart is deep water,
+but someone with understanding draws it out.
 </p>
 
 <p>
-v06: Many people proclaim
-their own steadfast love,
-but a faithful person—
-who can find?
-
-v07: The righteous walk
-in their integrity;
-blessed are their children
-after them.
-
-v08: A king sitting
-on the judgment throne
-winnows all evil
-with his eyes.
-
-v09: Who can say,
-“I have made my heart pure;
-I am clean
-from my sin”?
-
-v10: Unequal weights
-and unequal measures—
-both alike
-are an abomination to the LORD.
+v06: Many proclaim their own faithful love,
+but who can find a trustworthy person?
+v07: The righteous walk with integrity;
+happy are their children after them.
+v08: A king sitting on the judgment throne
+winnows out all evil with his eyes.
+v09: Who can say, “I have made my heart clean;
+I am pure from my sin”?
+v10: Two different weights, two different measures—
+both are detestable to the LORD.
 </p>
 
 ## Listen, Work, and Speak Truthfully
 
 <p>
-v11: Even a child
-makes themselves known by their deeds,
-whether their conduct
-is pure and upright.
-
-v12: The hearing ear
-and the seeing eye—
-the LORD has made
-both of them.
-
-v13: Do not love sleep,
-or you will become poor;
-open your eyes,
-and you will have enough bread.
-
-v14: “Bad, bad,” says the buyer,
-but after going away
-the buyer boasts.
-
-v15: There is gold
-and an abundance of jewels,
-but lips of knowledge
-are a precious treasure.
+v11: Even a youth is known by his actions,
+whether his conduct is pure and upright.
+v12: The hearing ear and the seeing eye—
+the LORD made them both.
+v13: Do not love sleep, or you will become poor;
+open your eyes, and you will have enough bread.
+v14: “Bad, bad!” says the buyer;
+then he goes away and boasts.
+v15: There is gold, and jewels in abundance,
+but knowledgeable lips are a precious treasure.
 </p>
 
 <p>
-v16: Take the garment
-of one who becomes surety for a stranger;
-hold it as security
-for an outsider.
-
-v17: Bread gained by deception
-is sweet to a person,
-but afterward
-the mouth is filled with gravel.
-
-v18: Plans are established
-through counsel;
-conduct war
-with wise guidance.
-
-v19: A gossip reveals secrets;
-so do not associate
-with one who opens their lips carelessly.
-
-v20: Whoever curses father or mother,
-their lamp will be extinguished
-in deepest darkness.
+v16: Take the garment of one who guarantees a stranger’s debt;
+hold it as a pledge when he guarantees an outsider woman’s debt.
+v17: Bread gained by deceit tastes sweet,
+but afterward the mouth is filled with gravel.
+v18: Plans are established through counsel;
+wage war with sound guidance.
+v19: A gossip goes about revealing confidences;
+do not associate with one whose lips are always open.
+v20: Whoever curses his father or mother—
+his lamp will go out in deepest darkness.
 </p>
 
 ## Wait for the LORD
 
 <p>
-v21: An inheritance gained hastily
-at the beginning
-will not be blessed
-in the end.
-
-v22: Do not say,
-“I will repay evil.”
-Wait for the LORD,
-who will save you.
-
-v23: Unequal weights
-are an abomination to the LORD,
-and dishonest scales
-are not good.
-
-v24: A person’s steps
-are from the LORD;
-how then can anyone fully understand
-their own way?
-
-v25: It is a trap
-to say rashly, “Holy!”
-and only afterward
-consider the vow.
+v21: An inheritance hastily seized at the beginning
+will not be blessed at the end.
+v22: Do not say, “I will repay evil.”
+Wait for the LORD, and he will deliver you.
+v23: Two different weights are detestable to the LORD,
+and dishonest scales are not good.
+v24: A man’s steps come from the LORD;
+how, then, can a human understand his own way?
+v25: It is a snare to blurt out, “This is holy!”
+and only afterward consider the vows.
 </p>
 
 ## The Human Spirit
 
 <p>
-v26: A wise king
-winnows the wicked
-and turns the wheel
-over them.
-
-v27: The human spirit
-is the lamp of the LORD,
-searching all
-the innermost parts.
-
-v28: Steadfast love and faithfulness
-preserve a king,
-and the throne is supported
-by steadfast love.
-
-v29: The glory of the young
-is their strength,
-and the splendor of the old
-is gray hair.
-
-v30: Blows that wound
-cleanse away evil,
-and strokes reach
-the innermost parts.
+v26: A wise king winnows the wicked
+and drives a threshing wheel over them.
+v27: The human breath is the LORD’s lamp,
+searching every chamber within.
+v28: Faithful love and faithfulness guard a king;
+through faithful love he sustains his throne.
+v29: The glory of young men is their strength;
+the splendor of the old is gray hair.
+v30: Wounding blows scour away evil;
+stripes cleanse the chambers within.
 </p>
 
 ## Notes
 
-v01: The warning concerns being mastered or led astray by intoxicating drink rather than treating wine itself as the entire subject.
-
-v05: Human intention can be difficult to access even to the person who carries it. Understanding includes the capacity to draw deep counsel into the open.
-
-v09: The rhetorical question resists claims of complete moral purity.
-
-v14: The proverb observes bargaining behavior: a buyer devalues an item while negotiating and praises the bargain afterward.
-
-v17: Deceptive gain tastes pleasant initially but becomes destructive once consumed.
-
-v22: The command refuses personal vengeance and relocates hope for justice in the LORD.
-
-v24: Human beings genuinely walk and choose, yet the full meaning of their way is not transparent even to themselves.
-
-v27: The human spirit becomes an instrument through which the LORD searches inward life.
+v16,21,30: Verse 16 follows the read form referring to an outsider woman; the written form refers to outsiders in the plural. Verse 21 follows “hastily acquired.” Verse 30 retains wounding blows and follows the read form’s cleansing expression.
 
 ## Vocabulary
 
-v01: שֵׁכָר (shekhar)
-“Strong drink.” An intoxicating beverage distinct from ordinary wine.
-
-v05: עֵצָה (etsah)
-“Counsel” or “purpose.” Intention pictured as deep water.
-
-v06: אֱמוּנִים (emunim)
-“Faithfulness.” Reliable and trustworthy character.
-
-v10: אֵיפָה (ephah)
-“Measure.” A standard unit whose manipulation could facilitate fraud.
-
-v18: תַּחְבֻּלוֹת (tachbulot)
-“Wise guidance” or “strategy.” Skilled counsel, especially in complex action.
-
-v22: יָשַׁע (yasha)
-“To save” or “deliver.” The LORD’s action replacing private vengeance.
-
-v27: נְשָׁמָה (neshamah)
-“Spirit” or “breath.” The human life-breath pictured as the LORD’s lamp.
-
-v28: אֱמֶת (emet)
-“Faithfulness” or “truth.” Reliability that supports stable rule.
+v25: **Holy**: Set apart for God. The warning concerns making a vow before considering its cost.
