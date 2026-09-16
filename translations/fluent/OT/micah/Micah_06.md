@@ -4,114 +4,88 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-micah-1-7-biblical-fluency-2026-09-16
 ---
 
-## The LORD Brings a Case
+## The LORD’s case
 
 <p>
-v01: Hear what the LORD says: Rise—plead your case before the mountains, and let the hills hear your voice.
+v01: Hear what the LORD says:
+“Rise, present your case before the mountains,
+and let the hills hear your voice.”
+v02: Hear the LORD’s case, mountains,
+you enduring foundations of the earth!
+The LORD has a case against his people;
+he will dispute with Israel.
+v03: “My people, what have I done to you?
+How have I wearied you? Answer me!
+v04: I brought you up from the land of Egypt
+and redeemed you from the house of slavery.
+I sent Moses, Aaron, and Miriam ahead of you.
+v05: My people, remember what Balak king of Moab planned
+and what Balaam son of Beor answered him.
+Remember the journey from Shittim to Gilgal,
+so you may know the LORD’s righteous acts.”
 </p>
 
+## What does the LORD ask?
+
 <p>
-v02: Hear, O mountains, the case of the LORD, you enduring foundations of the earth; for the LORD has a dispute with the people and will bring charges against Israel.
+v06: With what shall I approach the LORD
+and bow before God on high?
+Shall I approach him with burnt offerings,
+with year-old calves?
+v07: Will the LORD be pleased with thousands of rams,
+with tens of thousands of rivers of oil?
+Shall I give my firstborn for my rebellion,
+the fruit of my body for the sin of my life?
+v08: He has told you, human being, what is good.
+What does the LORD ask of you
+but to do justice, love faithful kindness,
+and walk humbly with your God?
 </p>
 
-<p>
-v03: O my people, what have I done to you? How have I wearied you? Answer me.
-</p>
+## Dishonest measures
 
 <p>
-v04: For I brought you up from the land of slavery, and redeemed you from the house of oppression; I sent before you Moses, Aaron, and Miriam.
-</p>
-
-<p>
-v05: O my people, remember now what King Balak of Moab planned, and how Balaam son of Beor answered him, and what happened from Shittim to Gilgal, so that you may remember the saving acts of the LORD.
-</p>
-
-## What Will We Bring?
-
-<p>
-v06: With what will I come before the LORD, and bow myself before the God of all heights? Will I come with burnt offerings, with calves a year old?
-</p>
-
-<p>
-v07: Will the LORD be pleased with thousands of rams, with ten thousand rivers of oil? Will I give my firstborn for my wrongdoing, the fruit of my body for the sin of my soul?
-</p>
-
-<p>
-v08: God has told you, O people, what is good; and what does the LORD require of you but to do justice, to love faithful kindness, and to walk humbly with your God?
-</p>
-
-## The City Called to Account
-
-<p>
-v09: The voice of the LORD cries out to the city (it is wisdom to fear your name): Hear, O tribe and assembly of the city!
-</p>
-
-<p>
-v10: Are there still treasures gained by injustice in the house of the wicked, and the dishonest measure that I abhor?
-</p>
-
-<p>
-v11: Can I tolerate wicked scales and a bag of deceitful weights?
-</p>
-
-<p>
-v12: Your wealthy are full of violence; your inhabitants speak lies, and their tongues are deceitful in their mouths.
-</p>
-
-## Consequences of Injustice
-
-<p>
-v13: So I have begun to strike you, to lay you waste because of your sins.
-</p>
-
-<p>
-v14: You will eat but not be satisfied, and emptiness will remain within you; you will put things aside but not preserve them, and what you preserve I will give to the sword.
-</p>
-
-<p>
-v15: You will sow but not reap; you will tread olives but not anoint yourselves with oil; you will tread grapes but not drink wine.
-</p>
-
-<p>
-v16: For you have kept the statutes of Omri, and all the practices of the house of Ahab; you have followed their counsel. Therefore I will make you a desolation, and your inhabitants an object of scorn; you will bear the disgrace of my people.
+v09: The voice of the LORD calls to the city—
+wisdom sees your name:
+“Hear the rod and the one who appointed it!
+v10: Are there still treasures gained by wickedness in the wicked house,
+and the accursed, undersized ephah?
+v11: Can I be pure with wicked scales
+and a pouch of fraudulent weights?
+v12: The city’s rich are full of violence;
+her inhabitants speak lies,
+and deceit is on their tongues.
+v13: So I too have made you sick with my blows,
+devastating you because of your sins.
+v14: You will eat but not be satisfied;
+emptiness will remain within you.
+You will put things away but not save them;
+what you do save I will give to the sword.
+v15: You will sow but not reap;
+you will tread olives but not anoint yourself with oil,
+tread grapes but not drink wine.
+v16: You have kept Omri’s decrees
+and all the practices of Ahab’s house;
+you have walked in their counsels.
+So I will make you a desolation,
+your inhabitants an object of hissing,
+and you will bear my people’s disgrace.”
 </p>
 
 ## Notes
 
-v01–02: The courtroom imagery establishes a covenant lawsuit. The mountains and enduring foundations of the earth serve as witnesses, giving the dispute a public and long-standing horizon.
+v06-08: The questions escalate from offerings to the speaker’s firstborn. The response names justice, faithful kindness, and humble walking; the question about a child is not a command to offer one.
 
-v03: The questions are not accusations but invitations. The Holy One speaks with the language of wounded relationship, asking the people to name how the covenant has been experienced as burden rather than gift.
-
-v04–05: Memory is central to the case. Liberation from slavery, faithful leadership, and protection along the journey are recalled to reorient the people toward the character and saving action of the Holy One.
-
-v06–07: These verses give voice to anxious religiosity. The escalating offerings reveal a belief that reconciliation must be earned through excess, culminating in the distortion that imagines God as desiring harm rather than life.
-
-v08: This verse functions as the theological center of the chapter. Justice, faithful kindness, and humble walking are presented not as new demands but as a clear restatement of what has always defined covenant faithfulness.
-
-v09: The prophetic voice addresses the city as a collective body. Wisdom here is linked to reverence, suggesting that moral clarity begins with recognizing the Holy One’s claim on communal life.
-
-v10–12: Economic injustice is named concretely. Dishonest measures, violence, and deceit are not isolated moral failures but systemic practices that shape the life of the community.
-
-v13–15: The consequences described reflect moral disorder rather than arbitrary punishment. Effort without fulfillment mirrors a society that has severed justice from daily practice.
-
-v16: The reference to Omri and Ahab situates the present crisis within a legacy of corrupt leadership. The resulting disgrace is communal, underscoring that injustice leaves enduring marks on a people’s shared life.
+v09-11,14: These lines contain difficult wording. Verse 9 retains seeing the name, rod, and its appointer; alternatives involve fearing the name or addressing a tribe. Verse 11 keeps the first-person “be pure.” The inward emptiness and saving clauses in verse 14 also admit different readings.
 
 ## Vocabulary
 
-v05: Saving acts: Refers to concrete moments of deliverance and protection preserved in communal memory. These acts define God’s character and ground covenant responsibility.
+v05: **Shittim to Gilgal**: Places bracketing Israel’s entry into the land in the remembered journey.
 
-v08: Justice: Concrete actions that sustain right relationships within a community. Justice is not abstract fairness but the active ordering of social, economic, and communal life toward equity and truth.
-
-v08: Faithful kindness: Translates ḥesed, a covenantal term expressing loyalty, mercy, and steadfast commitment. It describes love rooted in relationship rather than emotion alone.
-
-v08: Walk humbly: A relational metaphor describing attentiveness, modesty, and trust in one’s life with God. The emphasis is on posture and direction rather than moral display or achievement.
-
-v10: Dishonest measure: A symbol of economic exploitation. The term points to systems that advantage the powerful at the expense of the vulnerable rather than isolated acts of cheating.
-
-v11: Wicked scales: A concrete image of corruption in daily commerce. The language emphasizes how injustice becomes ordinary and normalized.
-
-v12: Violence: Used broadly to describe harm embedded in social and economic practices, not only physical force. Violence includes exploitation that erodes communal trust and dignity.
-
-v16: Desolation: A condition of communal unraveling marked by loss of stability, honor, and continuity rather than mere physical ruin.
+v10-11: **Ephah and weights**: Tools of trade whose manipulation makes the charge of dishonesty concrete.

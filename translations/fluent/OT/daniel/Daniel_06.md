@@ -4,172 +4,79 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-daniel-3-12-biblical-fluency-2026-09-16
 ---
 
-## Daniel Is Set over the Kingdom
+## The decree against prayer
 
 <p>
-v01: It seemed good to Darius to appoint over the kingdom one hundred twenty satraps who would be throughout the whole kingdom,
-
-v02: and over them three high officials, of whom Daniel was one, so that these satraps might give account to them and the king would suffer no loss.
-
-v03: Then this Daniel distinguished himself above the high officials and satraps because an extraordinary spirit was in him, and the king planned to appoint him over the whole kingdom.
+v01: Darius decided to appoint 120 satraps over the kingdom, with responsibilities throughout it.
+v02: Over them he placed three administrators, one of whom was Daniel. The satraps reported to them so that the king would suffer no loss.
+v03: Daniel distinguished himself above the other administrators and satraps because he had an extraordinary spirit. The king planned to put him over the entire kingdom.
+v04: The administrators and satraps looked for grounds to accuse Daniel in his conduct of the kingdom’s affairs. But they could find no negligence or corruption: he was trustworthy, and no fault or corruption was found in him.
+v05: The men said, “We will find no grounds against this Daniel unless we find something connected with the law of his God.”
+v06: So these administrators and satraps came together before the king. “King Darius, may you live forever!” they said.
+v07: “All the kingdom’s administrators, prefects, satraps, advisers, and governors have agreed that the king should establish and enforce this decree: for thirty days, anyone who petitions any god or person except you, O king, must be thrown into the lions’ den.
+v08: Now, O king, establish the decree and sign the document so it cannot be changed, according to the law of the Medes and Persians, which cannot be revoked.”
+v09: So King Darius signed the document and the decree.
 </p>
 
-## Daniel’s Rivals Seek a Charge against Him
+## Daniel’s prayer
 
 <p>
-v04: Then the high officials and satraps sought to find a ground for accusation against Daniel concerning the kingdom, but they were not able to find any ground for accusation or corruption, because he was faithful, and no negligence or corruption was found in him.
-
-v05: Then these men said, “We will not find any ground for accusation against this Daniel unless we find it against him concerning the law of his God.”
+v10: When Daniel learned that the document had been signed, he went home. His upstairs room had windows open toward Jerusalem. Three times a day he knelt, prayed, and gave thanks before his God, just as he had done before.
+v11: The men came together and found Daniel praying and asking mercy before his God.
+v12: They approached the king about his decree: “Didn’t you sign a decree that for thirty days anyone who petitions any god or person except you, O king, must be thrown into the lions’ den?” The king answered, “The matter is settled, according to the law of the Medes and Persians, which cannot be revoked.”
+v13: Then they told the king, “Daniel, one of the exiles from Judah, pays no attention to you, O king, or to the decree you signed. He makes his petition three times a day.”
+v14: When the king heard this, he was deeply distressed. He set his mind on rescuing Daniel and worked until sunset to save him.
+v15: Then the men came together before the king and said, “Remember, O king: by the law of the Medes and Persians, no decree or statute the king establishes can be changed.”
 </p>
 
-## The Officials Manipulate the King
+## The lions’ den
 
 <p>
-v06: Then these high officials and satraps came together before the king and said thus to him, “King Darius, live forever!
-
-v07: All the high officials of the kingdom, prefects, satraps, counselors, and governors have taken counsel to establish a royal statute and enforce an injunction that whoever makes a petition to any god or person for thirty days except to you, O king, will be thrown into a den of lions.
-
-v08: Now, O king, establish the injunction and sign the document so that it cannot be changed, according to the law of the Medes and Persians, which cannot be revoked.”
-
-v09: So King Darius signed the document, the injunction.
+v16: The king gave the order, and Daniel was brought in and thrown into the lions’ den. The king said to Daniel, “May your God, whom you serve continually, rescue you.”
+v17: A stone was brought and laid over the den’s opening. The king sealed it with his own signet and those of his nobles, so that nothing concerning Daniel could be changed.
+v18: The king returned to his palace and spent the night fasting. No diversions were brought to him, and sleep fled from him.
+v19: At the first light of dawn, the king got up and hurried to the lions’ den.
+v20: As he approached the den, he called to Daniel in an anguished voice: “Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?”
+v21: Daniel answered the king, “May the king live forever!
+v22: My God sent his angel and shut the lions’ mouths. They have not harmed me, because I was found innocent before him. Nor have I done you any harm, O king.”
+v23: The king was overjoyed and ordered Daniel lifted from the den. Daniel was lifted out, and no injury was found on him, because he had trusted his God.
+v24: At the king’s command, the men who had accused Daniel were brought in and thrown into the lions’ den, together with their children and wives. Before they reached the bottom, the lions overpowered them and crushed all their bones.
 </p>
 
-## Daniel Continues to Pray
+## The king’s decree
 
 <p>
-v10: When Daniel knew that the document had been signed, he went into his house. His windows in his upper room were open toward Jerusalem, and three times a day he knelt on his knees, prayed, and gave thanks before his God, just as he had done before.
-
-v11: Then these men came together and found Daniel making petition and seeking mercy before his God.
-
-v12: Then they approached and spoke before the king concerning the royal injunction: “Did you not sign an injunction that anyone who makes a petition to any god or person within thirty days except to you, O king, will be thrown into a den of lions?” The king answered and said, “The matter is certain, according to the law of the Medes and Persians, which cannot be revoked.”
-
-v13: Then they answered and said before the king, “Daniel, who is from the exiles of Judah, has paid no attention to you, O king, or to the injunction that you signed, but three times a day he makes his petition.”
-</p>
-
-## Darius Tries to Rescue Daniel
-
-<p>
-v14: Then the king, when he heard the matter, was greatly distressed, and he set his heart on Daniel to rescue him. Until the sun went down he exerted himself to deliver him.
-
-v15: Then these men came together before the king and said to the king, “Know, O king, that it is a law of the Medes and Persians that no injunction or statute that the king establishes may be changed.”
-</p>
-
-## Daniel Is Thrown into the Lions’ Den
-
-<p>
-v16: Then the king commanded, and they brought Daniel and threw him into the den of lions. The king answered and said to Daniel, “Your God whom you serve continually—he will rescue you.”
-
-v17: A stone was brought and placed over the opening of the den, and the king sealed it with his signet ring and with the signet rings of his nobles, so that nothing might be changed concerning Daniel.
-
-v18: Then the king went to his palace and spent the night fasting. No entertainment was brought before him, and his sleep fled from him.
-</p>
-
-## God Shuts the Lions’ Mouths
-
-<p>
-v19: Then the king arose at dawn, at first light, and went hurriedly to the den of lions.
-
-v20: When he came near the den to Daniel, he cried out with a grieving voice. The king answered and said to Daniel, “Daniel, servant of the living God, has your God whom you serve continually been able to rescue you from the lions?”
-
-v21: Then Daniel spoke with the king: “O king, live forever!
-
-v22: My God sent his messenger and shut the mouths of the lions, and they did not harm me, because before him innocence was found in me, and also before you, O king, I have done no harm.”
-
-v23: Then the king was exceedingly glad concerning him and commanded that Daniel be brought up from the den. So Daniel was brought up from the den, and no wound was found upon him because he had trusted in his God.
-</p>
-
-## Daniel’s Accusers Are Thrown to the Lions
-
-<p>
-v24: Then the king commanded, and they brought those men who had maliciously accused Daniel, and they threw them, their children, and their wives into the den of lions. They had not reached the bottom of the den before the lions overpowered them and crushed all their bones.
-</p>
-
-## Darius Issues a Decree
-
-<p>
-v25: Then King Darius wrote to all peoples, nations, and languages who dwell in all the earth:
-
-“May your peace increase.
-
-v26: I make a decree that in every dominion of my kingdom people will tremble and fear before the God of Daniel:
-
-For he is the living God
-and endures forever.
-His kingdom will not be destroyed,
-and his rule
-will be to the end.
-
+v25: Then King Darius wrote to all peoples, nations, and languages throughout the earth: “May your well-being increase!
+v26: I decree that throughout my realm people must tremble in fear before Daniel’s God.
+For he is the living God,
+enduring forever.
+His kingdom will not be destroyed;
+his rule will last to the end.
 v27: He rescues and delivers;
-he does signs and wonders
-in the heavens and on the earth,
-for he has rescued Daniel
-from the power of the lions.”
-</p>
-
-## Daniel Prospers
-
-<p>
-v28: So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian.
+he performs signs and wonders
+in heaven and on earth.
+He rescued Daniel from the lions’ power.”
+v28: So Daniel prospered during the reign of Darius and during the reign of Cyrus the Persian.
 </p>
 
 ## Notes
 
-v01: The Persian administrative numbers belong to Daniel’s narrative presentation of Darius’s kingdom. The exact historical structure represented is debated.
+v16: The king’s words may be read as a wish, “May your God rescue you,” or as confidence that God will rescue Daniel.
 
-v03: Daniel’s excellence is again attributed to an “extraordinary spirit,” echoing the descriptions in chapters 5 and earlier court narratives.
+v18: The Aramaic term rendered “diversions” is uncertain. It describes something normally brought to the king that he did without that night.
 
-v04: Daniel’s rivals can find no administrative corruption, negligence, or disloyalty, so they weaponize his religious faithfulness.
+v24: The account explicitly includes the accusers’ wives and children in the execution. Retaining that detail does not turn the king’s action into an instruction for readers.
 
-v07: The officials claim unanimity—“all the high officials”—even though Daniel, one of the highest officials, clearly did not agree. Their speech to the king is manipulative.
-
-v08: The supposedly unchangeable law of Medes and Persians again creates the narrative problem of an impulsive royal decree that the king later cannot simply reverse.
-
-v10: Daniel does not begin a new protest practice after the decree; he prays “just as he had done before.” His faithfulness is continuity rather than theatrical defiance.
-
-v10: Open windows toward Jerusalem express exilic prayer oriented toward the lost holy city.
-
-v16: Darius’s statement may be a hope, blessing, or confession: Daniel’s continually served God is the only possible rescuer now that the king’s legal system has trapped him.
-
-v17: Multiple seals prevent tampering from either royal or official sides.
-
-v22: Daniel attributes rescue to God’s messenger and declares innocence both before God and before the king.
-
-v24: The execution of wives and children with the accusers reflects ancient imperial collective punishment and is morally severe. TSW reports the narrative without endorsing such punishment as a general principle.
-
-v26–27: Darius’s decree confesses the enduring kingdom of Daniel’s God, in contrast with the fragile legal and political power exercised by earthly kings.
-
-v28: The Aramaic wording can be read as Daniel prospering under Darius and Cyrus, or possibly identifying Darius with Cyrus in some relation. TSW follows the straightforward two-reign reading.
+v28: The verse names Darius and Cyrus without explaining their relationship. This draft does not identify them as the same person.
 
 ## Vocabulary
 
-v01: אֲחַשְׁדַּרְפָּן (achashdarpan)
-“Satrap.” A high provincial official.
+v01: **Satraps**: Provincial officials in the empire.
 
-v02: סָרַךְ (sarakh)
-“High official.” One supervising provincial administrators.
-
-v04: מְהֵימַן (meheman)
-“Faithful” or “trustworthy.” Daniel’s administrative character.
-
-v07: אֱסָר (esar)
-“Injunction” or “binding prohibition.”
-
-v10: בְּעָא (be'a)
-“To pray” or “petition.” Daniel’s regular appeal before God.
-
-v16: גֹּב אַרְיָוָתָא (gov aryavata)
-“Den of lions.”
-
-v20: אֱלָהָא חַיָּא (Elaha chayya)
-“Living God.” Darius’s title for Daniel’s God.
-
-v22: מַלְאַךְ (malakh)
-“Messenger” or “angel.”
-
-v23: אֲמַן (aman)
-“To trust.” Daniel is unharmed because he trusted his God.
-
-v27: שֵׁיזִב (sheziv)
-“To rescue.” A repeated verb in the royal confession.
+v08: **Interdict**: A formally imposed prohibition.

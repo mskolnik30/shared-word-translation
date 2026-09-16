@@ -4,175 +4,105 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-amos-1-9-biblical-fluency-2026-09-16
 ---
 
-## The Words of Amos
+## The LORD roars
 
 <p>
-v01: The words of Amos, who was among the shepherds of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash king of Israel, two years before the earthquake.
-
+v01: These are the words of Amos, who was among the sheep breeders of Tekoa—what he saw concerning Israel during the reigns of Uzziah king of Judah and Jeroboam son of Joash king of Israel, two years before the earthquake.
 v02: He said:
-
-The LORD roars from Zion
-and gives his voice from Jerusalem;
-the pastures of the shepherds mourn,
-and the summit of Carmel dries up.
+“The LORD roars from Zion
+and raises his voice from Jerusalem.
+The shepherds’ pastures mourn,
+and the summit of Carmel dries up.”
 </p>
 
-## Judgment on Damascus
+## Against Damascus
 
 <p>
-v03: Thus says the LORD:
-
-For three transgressions of Damascus,
-and for four,
-I will not turn it back,
-because they threshed Gilead
-with sledges of iron.
-
-v04: So I will send fire
-upon the house of Hazael,
-and it will consume
-the fortresses of Ben-Hadad.
-
-v05: I will break the bar of Damascus
-and cut off the inhabitant from the Valley of Aven
-and the one who holds the scepter from Beth-Eden.
-The people of Aram will go into exile to Kir,
-says the LORD.
+v03: This is what the LORD says:
+“For three rebellions of Damascus, and for four,
+I will not turn it back:
+they threshed Gilead with iron threshing sledges.
+v04: I will send fire into the house of Hazael,
+and it will consume Ben-hadad’s citadels.
+v05: I will break the gate bar of Damascus,
+cut off the inhabitant from the Valley of Aven
+and the scepter-holder from Beth-eden.
+The people of Aram will go into exile to Kir,” says the LORD.
 </p>
 
-## Judgment on Gaza
+## Against Gaza
 
 <p>
-v06: Thus says the LORD:
-
-For three transgressions of Gaza,
-and for four,
-I will not turn it back,
-because they carried into exile a whole population
+v06: This is what the LORD says:
+“For three rebellions of Gaza, and for four,
+I will not turn it back:
+they deported an entire community
 to hand them over to Edom.
-
-v07: So I will send fire
-upon the wall of Gaza,
-and it will consume
-her fortresses.
-
+v07: I will send fire into Gaza’s wall,
+and it will consume her citadels.
 v08: I will cut off the inhabitant from Ashdod
-and the one who holds the scepter from Ashkelon.
+and the scepter-holder from Ashkelon.
 I will turn my hand against Ekron,
-and the remnant of the Philistines will perish,
+and the remaining Philistines will perish,”
 says the Lord GOD.
 </p>
 
-## Judgment on Tyre
+## Against Tyre
 
 <p>
-v09: Thus says the LORD:
-
-For three transgressions of Tyre,
-and for four,
-I will not turn it back,
-because they handed over a whole population to Edom
-and did not remember
-the covenant of brothers.
-
-v10: So I will send fire
-upon the wall of Tyre,
-and it will consume
-her fortresses.
+v09: This is what the LORD says:
+“For three rebellions of Tyre, and for four,
+I will not turn it back:
+they handed an entire community over to Edom
+and did not remember a covenant of brothers.
+v10: I will send fire into Tyre’s wall,
+and it will consume her citadels.”
 </p>
 
-## Judgment on Edom
+## Against Edom
 
 <p>
-v11: Thus says the LORD:
-
-For three transgressions of Edom,
-and for four,
-I will not turn it back,
-because he pursued his brother with the sword
+v11: This is what the LORD says:
+“For three rebellions of Edom, and for four,
+I will not turn it back:
+he pursued his brother with a sword
 and destroyed his compassion.
-His anger tore continually,
-and he kept his fury forever.
-
-v12: So I will send fire
-upon Teman,
-and it will consume
-the fortresses of Bozrah.
+His anger tore on and on;
+he kept his fury forever.
+v12: I will send fire into Teman,
+and it will consume Bozrah’s citadels.”
 </p>
 
-## Judgment on Ammon
+## Against Ammon
 
 <p>
-v13: Thus says the LORD:
-
-For three transgressions of the children of Ammon,
-and for four,
-I will not turn it back,
-because they ripped open the pregnant women of Gilead
-in order to enlarge their territory.
-
-v14: So I will kindle fire
-upon the wall of Rabbah,
-and it will consume her fortresses
-with a shout on the day of battle,
-with a storm on the day of whirlwind.
-
+v13: This is what the LORD says:
+“For three rebellions of the Ammonites, and for four,
+I will not turn it back:
+they ripped open Gilead’s pregnant women
+to enlarge their territory.
+v14: I will set fire to Rabbah’s wall,
+and it will consume her citadels,
+amid shouts on the day of battle,
+amid a whirlwind on the day of storm.
 v15: Their king will go into exile,
-he and his officials together,
-says the LORD.
+he and his rulers together,” says the LORD.
 </p>
 
 ## Notes
 
-v01: Amos is identified with Tekoa in Judah, yet most of his prophetic work in the book is directed toward the northern kingdom of Israel.
+v03: “For three ... and for four” is a repeated escalating formula. The following offenses are not a checklist of exactly four items. “I will not turn it back” retains the unstated object, understood in context as judgment.
 
-v01: “shepherds” translates a rare Hebrew term associated elsewhere with sheep breeders. It may imply more than ordinary hired shepherding, but the exact social status of Amos is uncertain.
-
-v01: The earthquake was memorable enough to date Amos’s ministry and is recalled again in Zechariah 14:5, but its precise historical date remains uncertain.
-
-v03: The repeated formula “for three transgressions … and for four” is a rhetorical pattern indicating accumulated guilt rather than a literal count of exactly four offenses.
-
-v03: “I will not turn it back” leaves the object unstated in Hebrew. It may mean the LORD will not turn back punishment, wrath, or the announced judgment. TSW preserves the source ambiguity.
-
-v03: “threshed Gilead with sledges of iron” is an image of extreme military violence. It may evoke literal torture or metaphorically describe devastating conquest.
-
-v05: “Valley of Aven” and “Beth-Eden” are geographic names with possible wordplay. Their exact locations are debated.
-
-v09: “covenant of brothers” may refer to treaty obligations, longstanding kinship-like relations, or both. The text does not specify a single historical treaty.
-
-v11: Edom’s violence is described as violence against “his brother,” evoking the ancestral relation between Edom/Esau and Israel/Jacob.
-
-v13: The violence against pregnant women is presented as an atrocity committed for territorial expansion. TSW retains the severity without graphic amplification.
-
-v15: Hebrew *malkam* can mean “their king” and also resembles the name of the Ammonite deity Milcom. TSW renders the ordinary royal sense while noting the possible wordplay.
+v05,08,15: “Inhabitant” may refer especially to a ruler. Verse 15 follows the pointed “their king”; the consonants can also evoke the Ammonite deity Milcom.
 
 ## Vocabulary
 
-v01: נֹקֵד (noqed)
-“Shepherd” or “sheep breeder.” A rare occupational term used of Amos.
+v03: **Threshing sledge**: A heavy implement used to separate grain; the iron-sledge image makes the violence against Gilead concrete.
 
-v02: שָׁאַג (sha'ag)
-“To roar.” The LORD’s voice is compared with a lion.
-
-v03: פֶּשַׁע (pesha)
-“Transgression” or “rebellion.” A serious breach of covenantal or moral order.
-
-v03: חָרוּץ (charuts)
-“Threshing sledge.” A heavy agricultural instrument fitted with sharp material.
-
-v05: בְּרִיחַ (beriach)
-“Bar.” A gate-bar symbolizing a city’s defenses.
-
-v09: בְּרִית אַחִים (berit achim)
-“Covenant of brothers.” A treaty or bond described through kinship language.
-
-v11: רַחֲמִים (rachamim)
-“Compassion.” Edom is charged with destroying brotherly mercy.
-
-v14: סוּפָה (suphah)
-“Whirlwind” or “storm.” An image of violent judgment.
-
-v15: מֶלֶךְ (melekh)
-“King.” The ruler who goes into exile with the officials.
+v09: **Covenant of brothers**: An alliance described in the language of kinship and mutual obligation.

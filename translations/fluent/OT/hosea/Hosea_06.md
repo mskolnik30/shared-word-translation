@@ -4,111 +4,63 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-hosea-1-14-biblical-fluency-2026-09-16
 ---
 
-## Come, Let Us Return to the LORD
+## Return and healing
 
 <p>
-v01: Come, let us return to the LORD,
-for he has torn us,
-but he will heal us;
-he has struck us,
-but he will bind us up.
-
-v02: After two days he will revive us;
+v01: “Come, let us return to the LORD.
+He has torn us, but he will heal us;
+he has struck us, but he will bind our wounds.
+v02: After two days he will bring us back to life;
 on the third day he will raise us up,
 and we will live before him.
-
-v03: Let us know;
-let us press on to know the LORD.
-His going forth is as certain as dawn;
-he will come to us like rain,
-like the spring rain
-that waters the earth.
+v03: Let us know him; let us press on to know the LORD.
+His coming is as certain as the dawn.
+He will come to us like the rain,
+like spring rain watering the earth.”
 </p>
 
-## Your Steadfast Love Is Like Morning Mist
+## Love that vanishes
 
 <p>
-v04: What will I do with you, Ephraim?
-What will I do with you, Judah?
-Your steadfast love is like a morning cloud,
-like dew that goes away early.
-
-v05: So I cut them down by the prophets;
-I killed them by the words of my mouth,
-and my judgment goes out like light.
-
-v06: For I desire steadfast love
-and not sacrifice,
-and knowledge of God
-rather than burnt offerings.
-</p>
-
-## They Broke the Covenant
-
-<p>
-v07: But like Adam they transgressed the covenant;
-there they acted treacherously against me.
-
+v04: “What am I to do with you, Ephraim?
+What am I to do with you, Judah?
+Your faithful love is like a morning cloud,
+like dew that vanishes early.
+v05: That is why I have cut them down through the prophets,
+killed them with the words of my mouth.
+The judgments against you go out like light.
+v06: I desire faithful love, not sacrifice;
+knowledge of God, rather than burnt offerings.
+v07: But like Adam they broke the covenant;
+there they betrayed me.
 v08: Gilead is a city of evildoers,
 tracked with blood.
-
-v09: As bands of robbers wait for a man,
-so the company of priests murders
-on the road to Shechem;
-surely they commit outrage.
-
-v10: In the house of Israel
-I have seen a horrifying thing:
-there Ephraim prostitutes himself;
+v09: Like bands of raiders waiting for someone,
+a company of priests murders on the road to Shechem.
+They have committed an outrage.
+v10: In the house of Israel I have seen a horror:
+Ephraim’s prostitution is there;
 Israel is defiled.
-
-v11: For you also, Judah,
-a harvest is appointed
-when I restore the fortunes of my people.
+v11: For you too, Judah, a harvest is appointed.
+When I restore my people’s fortunes,
 </p>
 
 ## Notes
 
-v01–03: The speakers express confidence that return will quickly bring healing. The following divine response challenges the depth and endurance of their covenant loyalty.
+v01-03: The communal appeal is followed by God’s challenge in verse 4. The text does not label the appeal as either fully sincere or merely presumptuous. The two-day/third-day language remains in its own setting.
 
-v02: “after two days … on the third day” is a poetic expression of rapid restoration. The text does not explicitly identify a later event beyond Israel’s hoped-for revival.
+v05,07: Verse 5 follows “your judgments,” understood as judgments against the addressees. “Like Adam” may refer to Adam, humanity, or a place named Adam; “there” makes the place interpretation possible, but the text remains uncertain.
 
-v04: Israel’s *hesed* is compared with mist and dew that vanish quickly, contrasting with the enduring steadfast love expected in covenant relationship.
-
-v05: Prophetic words function as instruments of judgment; speech from the LORD can “cut down” and “kill” metaphorically before physical judgment arrives.
-
-v06: Sacrifice is not rejected in itself. The contrast exposes worship detached from steadfast love and knowledge of God.
-
-v07: “like Adam” may refer to the individual Adam or possibly to a place named Adam. TSW follows the personal reading while preserving the ambiguity in the note.
-
-v09: The accusation against priests is severe and unusual, portraying them as organized bands of violent attackers on the road to Shechem.
-
-v11: “harvest” can carry positive or negative force. Its placement beside restoration leaves the image open to the chapter’s tension between judgment and renewal.
+v11: The final temporal clause can be connected with what precedes or with 7:1. This draft lets the sentence continue across the chapter boundary.
 
 ## Vocabulary
 
-v01: שׁוּב (shuv)
-“To return.” The central covenantal verb of turning back to the LORD.
+v06: **Burnt offering**: An offering wholly burned on the altar.
 
-v01: רָפָא (rapha)
-“To heal.” The hoped-for reversal of divine wounding.
-
-v03: יָדַע (yada)
-“To know.” Here relational knowledge of the LORD.
-
-v04: חֶסֶד (ḥesed)
-“Steadfast love.” Israel’s covenant loyalty, criticized here for its impermanence.
-
-v06: זֶבַח (zevach)
-“Sacrifice.” Ritual offering contrasted with steadfast love.
-
-v07: עָבַר בְּרִית (avar berit)
-“To transgress a covenant.” To violate covenant obligations.
-
-v09: זִמָּה (zimmah)
-“Outrage” or “depravity.” Deliberate grave wrongdoing.
-
-v11: קָצִיר (qatsir)
-“Harvest.” A metaphor whose precise force is shaped by context.
+v09: **Shechem**: A named city; the accusation concerns murder on the road leading there.

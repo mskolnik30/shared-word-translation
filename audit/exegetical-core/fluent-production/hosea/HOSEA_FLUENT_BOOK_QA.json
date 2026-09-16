@@ -1,7 +1,7 @@
 {
   "book": "Hosea",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 14,
   "public_verse_slots": 197,
   "included_verse_labels": 197,
@@ -122,5 +122,82 @@
         "blob_sha": "fa120de8a7251b9108a1bc49c1caad51f19e7cf3"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "current_revision": {
+    "id": "fluent-hosea-1-14-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "verse_count": 197,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-hosea-1-14/hosea-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+      "path": "audit/exegetical-core/fluent-production/hosea/HOSEA_FLUENT_BOOK_QA.json"
+    },
+    "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-hosea-1-14-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 197,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-hosea-1-14/hosea-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+        "path": "audit/exegetical-core/fluent-production/hosea/HOSEA_FLUENT_BOOK_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    }
+  ]
 }

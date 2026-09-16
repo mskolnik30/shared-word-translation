@@ -1,0 +1,1398 @@
+{
+  "scope": "Hosea 1–14, all 197 verses.",
+  "verses": 197,
+  "method": "Normalized word sequence; near identical >=0.90 excluding identical. Triage only, not proof of fidelity, originality, or comprehension.",
+  "summary": {
+    "before": {
+      "identical": 172,
+      "near_identical_nonidentical": 22,
+      "mean_word_similarity": 0.992857
+    },
+    "after": {
+      "identical": 9,
+      "near_identical_nonidentical": 18,
+      "mean_word_similarity": 0.767918
+    }
+  },
+  "rows": [
+    {
+      "reference": "Hosea 1:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.873239
+    },
+    {
+      "reference": "Hosea 1:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.837838,
+      "after_similarity": 0.558824
+    },
+    {
+      "reference": "Hosea 1:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.969697
+    },
+    {
+      "reference": "Hosea 1:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.835443
+    },
+    {
+      "reference": "Hosea 1:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Hosea 1:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Hosea 1:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Hosea 1:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Hosea 1:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.684211
+    },
+    {
+      "reference": "Hosea 1:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.957447,
+      "after_similarity": 0.696629
+    },
+    {
+      "reference": "Hosea 1:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.71875
+    },
+    {
+      "reference": "Hosea 2:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Hosea 2:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.676471
+    },
+    {
+      "reference": "Hosea 2:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.617647
+    },
+    {
+      "reference": "Hosea 2:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Hosea 2:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.815789
+    },
+    {
+      "reference": "Hosea 2:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Hosea 2:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Hosea 2:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Hosea 2:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.754098
+    },
+    {
+      "reference": "Hosea 2:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Hosea 2:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Hosea 2:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.987654,
+      "after_similarity": 0.56338
+    },
+    {
+      "reference": "Hosea 2:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Hosea 2:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Hosea 2:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.693333
+    },
+    {
+      "reference": "Hosea 2:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.95
+    },
+    {
+      "reference": "Hosea 2:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Hosea 2:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.989691,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Hosea 2:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Hosea 2:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Hosea 2:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.95
+    },
+    {
+      "reference": "Hosea 2:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Hosea 2:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Hosea 3:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Hosea 3:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Hosea 3:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90625,
+      "after_similarity": 0.688525
+    },
+    {
+      "reference": "Hosea 3:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Hosea 3:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.71875
+    },
+    {
+      "reference": "Hosea 4:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.805556
+    },
+    {
+      "reference": "Hosea 4:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Hosea 4:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.738462
+    },
+    {
+      "reference": "Hosea 4:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Hosea 4:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.95
+    },
+    {
+      "reference": "Hosea 4:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.753623
+    },
+    {
+      "reference": "Hosea 4:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Hosea 4:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Hosea 4:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.73913
+    },
+    {
+      "reference": "Hosea 4:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.76
+    },
+    {
+      "reference": "Hosea 4:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Hosea 4:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.542373
+    },
+    {
+      "reference": "Hosea 4:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.805556
+    },
+    {
+      "reference": "Hosea 4:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.641026
+    },
+    {
+      "reference": "Hosea 4:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.881356
+    },
+    {
+      "reference": "Hosea 4:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Hosea 4:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Hosea 4:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Hosea 4:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.969697
+    },
+    {
+      "reference": "Hosea 5:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.754098
+    },
+    {
+      "reference": "Hosea 5:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Hosea 5:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Hosea 5:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Hosea 5:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Hosea 5:6",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Hosea 5:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Hosea 5:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Hosea 5:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.926829,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Hosea 5:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Hosea 5:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Hosea 5:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Hosea 5:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.862069
+    },
+    {
+      "reference": "Hosea 5:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Hosea 5:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.938776
+    },
+    {
+      "reference": "Hosea 6:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.90566
+    },
+    {
+      "reference": "Hosea 6:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.893617
+    },
+    {
+      "reference": "Hosea 6:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.852941
+    },
+    {
+      "reference": "Hosea 6:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "Hosea 6:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.627451
+    },
+    {
+      "reference": "Hosea 6:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Hosea 6:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Hosea 6:8",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Hosea 6:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Hosea 6:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Hosea 6:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Hosea 7:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.566038
+    },
+    {
+      "reference": "Hosea 7:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.791667
+    },
+    {
+      "reference": "Hosea 7:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Hosea 7:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Hosea 7:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.954545
+    },
+    {
+      "reference": "Hosea 7:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.641509
+    },
+    {
+      "reference": "Hosea 7:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Hosea 7:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Hosea 7:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Hosea 7:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Hosea 7:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Hosea 7:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.819672
+    },
+    {
+      "reference": "Hosea 7:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.877193
+    },
+    {
+      "reference": "Hosea 7:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.754717
+    },
+    {
+      "reference": "Hosea 7:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Hosea 7:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.575758
+    },
+    {
+      "reference": "Hosea 8:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Hosea 8:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Hosea 8:3",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Hosea 8:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.52459
+    },
+    {
+      "reference": "Hosea 8:5",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Hosea 8:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Hosea 8:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Hosea 8:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Hosea 8:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Hosea 8:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Hosea 8:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Hosea 8:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.514286
+    },
+    {
+      "reference": "Hosea 8:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.925373
+    },
+    {
+      "reference": "Hosea 8:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Hosea 9:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "Hosea 9:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Hosea 9:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Hosea 9:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.980769,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Hosea 9:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Hosea 9:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Hosea 9:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.779221
+    },
+    {
+      "reference": "Hosea 9:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.653061
+    },
+    {
+      "reference": "Hosea 9:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Hosea 9:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Hosea 9:11",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Hosea 9:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.826087
+    },
+    {
+      "reference": "Hosea 9:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Hosea 9:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Hosea 9:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.876712
+    },
+    {
+      "reference": "Hosea 9:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Hosea 9:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Hosea 10:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.54902
+    },
+    {
+      "reference": "Hosea 10:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Hosea 10:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Hosea 10:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Hosea 10:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Hosea 10:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Hosea 10:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "Hosea 10:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84058
+    },
+    {
+      "reference": "Hosea 10:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Hosea 10:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Hosea 10:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.819672
+    },
+    {
+      "reference": "Hosea 10:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Hosea 10:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Hosea 10:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Hosea 10:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.577778
+    },
+    {
+      "reference": "Hosea 11:1",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Hosea 11:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.958333
+    },
+    {
+      "reference": "Hosea 11:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.897959
+    },
+    {
+      "reference": "Hosea 11:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.819672
+    },
+    {
+      "reference": "Hosea 11:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Hosea 11:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Hosea 11:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Hosea 11:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.918919
+    },
+    {
+      "reference": "Hosea 11:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.619718
+    },
+    {
+      "reference": "Hosea 11:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Hosea 11:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Hosea 11:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Hosea 12:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.872727
+    },
+    {
+      "reference": "Hosea 12:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.478261
+    },
+    {
+      "reference": "Hosea 12:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Hosea 12:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.734694
+    },
+    {
+      "reference": "Hosea 12:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Hosea 12:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Hosea 12:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Hosea 12:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Hosea 12:9",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.964286,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Hosea 12:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Hosea 12:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Hosea 12:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Hosea 12:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Hosea 12:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Hosea 13:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Hosea 13:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.513514
+    },
+    {
+      "reference": "Hosea 13:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Hosea 13:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Hosea 13:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Hosea 13:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.390244
+    },
+    {
+      "reference": "Hosea 13:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Hosea 13:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Hosea 13:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.25
+    },
+    {
+      "reference": "Hosea 13:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.872727
+    },
+    {
+      "reference": "Hosea 13:11",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Hosea 13:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Hosea 13:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.716981
+    },
+    {
+      "reference": "Hosea 13:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.939394,
+      "after_similarity": 0.870968
+    },
+    {
+      "reference": "Hosea 13:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.897436
+    },
+    {
+      "reference": "Hosea 13:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.892308
+    },
+    {
+      "reference": "Hosea 14:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Hosea 14:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.862069
+    },
+    {
+      "reference": "Hosea 14:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.766667
+    },
+    {
+      "reference": "Hosea 14:4",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Hosea 14:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Hosea 14:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Hosea 14:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.763636
+    },
+    {
+      "reference": "Hosea 14:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.688525
+    },
+    {
+      "reference": "Hosea 14:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.644068
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "status": "AUTHORING_REREAD_COMPLETED",
+  "qualification": "Drafting-agent reread, not independent editorial approval.",
+  "rows": [
+    {
+      "reference": "Nahum 1:2",
+      "delta": "F3",
+      "rationale": "Retains three divine names and repeated vengeance rather than softening the opening.",
+      "source_reference": "Nah 1:2",
+      "source_verse_sha256": "94ec9032378beec4d045d7aaeb41530213cf28ec2542803058970b7d82a308f9",
+      "before": "A jealous and avenging God is the LORD; the LORD avenges and is master of wrath. The LORD takes vengeance on adversaries and keeps wrath for enemies.",
+      "after": "The LORD is a jealous and avenging God; the LORD avenges and is full of wrath. The LORD takes vengeance on his adversaries and reserves wrath for his enemies.",
+      "tsw_comparator": "A jealous and avenging God is the LORD; the LORD avenges and is master of wrath. The LORD takes vengeance on adversaries and keeps wrath for enemies.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.785714,
+      "editorial_status": "REVIEW_PENDING",
+      "original_source_xml": "<verse osisID=\"Nah.1.2\">\n          <w lemma=\"410\" morph=\"HNcmsa\" id=\"34nPh\">אֵ֣ל</w>\n          <w lemma=\"7072\" morph=\"HAamsa\" id=\"34LN3\">קַנּ֤וֹא</w>\n          <w lemma=\"c/5358\" n=\"1.1.0\" morph=\"HC/Vqrmsa\" id=\"34Qzf\">וְ/נֹקֵם֙</w>\n          <w lemma=\"3068\" n=\"1.1\" morph=\"HNp\" id=\"34aPd\">יְהוָ֔ה</w>\n          <w lemma=\"5358\" morph=\"HVqrmsa\" id=\"34eYX\">נֹקֵ֥ם</w>\n          <w lemma=\"3068\" n=\"1.0\" morph=\"HNp\" id=\"34C5U\">יְהוָ֖ה</w>\n          <w lemma=\"c/1167\" morph=\"HC/Ncmsc\" id=\"34qNN\">וּ/בַ֣עַל</w>\n          <w lemma=\"2534\" n=\"1\" morph=\"HNcfsa\" id=\"34EVS\">חֵמָ֑ה</w>\n          <w lemma=\"5358\" morph=\"HVqrmsa\" id=\"34PB6\">נֹקֵ֤ם</w>\n          <w lemma=\"3068\" n=\"0.1.0\" morph=\"HNp\" id=\"3437c\">יְהוָה֙</w>\n          <w lemma=\"l/6862 c\" n=\"0.1\" morph=\"HR/Ncmpc/Sp3ms\" id=\"34x9c\">לְ/צָרָ֔י/ו</w>\n          <w lemma=\"c/5201\" morph=\"HC/Vqrmsa\" id=\"34yNB\">וְ/נוֹטֵ֥ר</w>\n          <w lemma=\"1931\" n=\"0.0\" morph=\"HPp3ms\" id=\"3429t\">ה֖וּא</w>\n          <w lemma=\"l/341\" n=\"0\" morph=\"HR/Vqrmpc/Sp3ms\" id=\"34KZG\">לְ/אֹיְבָֽי/ו</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Nahum 1:3",
+      "delta": "F3",
+      "rationale": "Keeps patience alongside accountability and ancient storm/feet imagery.",
+      "source_reference": "Nah 1:3",
+      "source_verse_sha256": "3491b8d3ee1af9333fbeafb855c3fbf4e173f6d1755d2a4560a76abd2b690ec5",
+      "before": "The LORD is slow to anger and great in power, but the LORD will certainly not leave the guilty unpunished. The LORD's way is in whirlwind and storm, and clouds are the dust of the LORD's feet.",
+      "after": "The LORD is slow to anger and great in power, but he will certainly not leave guilt unpunished. The LORD’s way is in whirlwind and storm; clouds are the dust of his feet.",
+      "tsw_comparator": "The LORD is slow to anger and great in power, but the LORD will certainly not leave the guilty unpunished. The LORD's way is in whirlwind and storm, and clouds are the dust of the LORD's feet.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING",
+      "original_source_xml": "<verse osisID=\"Nah.1.3\">\n          <w lemma=\"3068\" n=\"1.1.1\" morph=\"HNp\" id=\"34TZE\">יְהֹוָ֗ה</w>\n          <w lemma=\"750\" morph=\"HAamsc\" id=\"34thY\">אֶ֤רֶךְ</w>\n          <w lemma=\"639\" n=\"1.1.0\" morph=\"HNcmda\" id=\"34JM7\">אַפַּ֨יִם֙</w>\n          <w type=\"x-ketiv\" lemma=\"c/1419 a\" morph=\"HC/Aamsc\" id=\"34fpo\">ו/גדול</w><note type=\"variant\"><catchWord>ו/גדול</catchWord><rdg type=\"x-qere\"><w lemma=\"c/1419 a\" morph=\"HC/Aamsc\" id=\"34W26\">וּ/גְדָל</w></rdg></note><seg type=\"x-maqqef\">־</seg><w lemma=\"3581 b\" n=\"1.1\" morph=\"HNcmsa\" id=\"34yw4\">כֹּ֔חַ</w>\n          <w lemma=\"c/5352\" n=\"1.0\" morph=\"HC/Vpa\" id=\"34jbg\">וְ/נַקֵּ֖ה</w>\n          <w lemma=\"3808\" morph=\"HTn\" id=\"34USR\">לֹ֣א</w>\n          <w lemma=\"5352\" n=\"1\" morph=\"HVpi3ms\" id=\"34v6U\">יְנַקֶּ֑ה</w>\n          <w lemma=\"3068\" n=\"0.1.1\" morph=\"HNp\" id=\"345SS\">יְהוָ֗ה</w>\n          <w lemma=\"b/5492 a\" morph=\"HR/Ncfsa\" id=\"34GzE\">בְּ/סוּפָ֤ה</w>\n          <w lemma=\"c/b/8183\" n=\"0.1.0\" morph=\"HC/R/Ncfsa\" id=\"34qCU\">וּ/בִ/שְׂעָרָה֙</w>\n          <w lemma=\"1870\" n=\"0.1\" morph=\"HNcbsc/Sp3ms\" id=\"34g2y\">דַּרְכּ֔/וֹ</w>\n          <w lemma=\"c/6051\" n=\"0.0\" morph=\"HC/Ncmsa\" id=\"34jQb\">וְ/עָנָ֖ן</w>\n          <w lemma=\"80\" morph=\"HNcmsc\" id=\"34794\">אֲבַ֥ק</w>\n          <w lemma=\"7272\" n=\"0\" morph=\"HNcfdc/Sp3ms\" id=\"34CsU\">רַגְלָֽי/ו</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Nahum 1:4",
+      "delta": "F3",
+      "rationale": "Retains all waters and three fertile regions with repeated withering.",
+      "source_reference": "Nah 1:4",
+      "source_verse_sha256": "03b08fe49c67a9bff0f4396bab941e6fb0706851d4712a41ab8691f28ca66a7b",
+      "before": "The LORD rebukes the sea and dries it up and makes all the rivers dry. Bashan and Carmel wither, and the blossom of Lebanon withers.",
+      "after": "He rebukes the sea and dries it up; he makes all the rivers run dry. Bashan and Carmel wither; Lebanon’s blossoms wither.",
+      "tsw_comparator": "The LORD rebukes the sea and dries it up and makes all the rivers dry. Bashan and Carmel wither, and the blossom of Lebanon withers.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.680851,
+      "editorial_status": "REVIEW_PENDING",
+      "original_source_xml": "<verse osisID=\"Nah.1.4\">\n          <w lemma=\"1605\" morph=\"HVqrmsa\" id=\"34XR4\">גּוֹעֵ֤ר</w>\n          <w lemma=\"b/3220\" n=\"1.1.0\" morph=\"HRd/Ncmsa\" id=\"34KvS\">בַּ/יָּם֙</w>\n          <w lemma=\"c/3001\" n=\"1.1\" morph=\"HC/Vpw3ms/Sp3ms\" id=\"34dBc\">וַֽ/יַּבְּשֵׁ֔/הוּ</w>\n          <w lemma=\"c/3605\" morph=\"HC/Ncmsc\" id=\"34nAB\">וְ/כָל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/5104\" n=\"1.0\" morph=\"HTd/Ncmpa\" id=\"34kfX\">הַ/נְּהָר֖וֹת</w>\n          <w lemma=\"2717 a\" n=\"1\" morph=\"HVhp3ms\" id=\"34Wkf\">הֶֽחֱרִ֑יב</w>\n          <w lemma=\"535\" morph=\"HVKp3ms\" id=\"34wrL\">אֻמְלַ֤ל</w>\n          <w lemma=\"1316\" n=\"0.1.0\" morph=\"HNp\" id=\"343TL\">בָּשָׁן֙</w>\n          <w lemma=\"c/3760\" n=\"0.1\" morph=\"HC/Np\" id=\"34LeN\">וְ/כַרְמֶ֔ל</w>\n          <w lemma=\"c/6525\" morph=\"HC/Ncmsc\" id=\"34sMn\">וּ/פֶ֥רַח</w>\n          <w lemma=\"3844\" n=\"0.0\" morph=\"HNp\" id=\"34Y3z\">לְבָנ֖וֹן</w>\n          <w lemma=\"535\" n=\"0\" morph=\"HVKp3ms\" id=\"34NQN\">אֻמְלָֽל</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Nahum 2:2",
+      "delta": "F3",
+      "rationale": "Preserves like rather than silently and, and repeated plunder plus vine image.",
+      "source_reference": "Nah 2:3",
+      "source_verse_sha256": "90e7e044f6777799e088500bce0a56cbec5ce207ecfaff22e3e015cb93160f0a",
+      "before": "For the LORD is restoring the majesty of Jacob as the majesty of Israel, though plunderers have plundered them and ruined their vine branches.",
+      "after": "For the LORD is restoring Jacob’s splendor, like Israel’s splendor, though plunderers have plundered them and ruined their vine branches.",
+      "tsw_comparator": "For the LORD is restoring the majesty of Jacob as the majesty of Israel, though plunderers have plundered them and ruined their vine branches.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.681818,
+      "editorial_status": "REVIEW_PENDING",
+      "original_source_xml": "<verse osisID=\"Nah.2.3\">\n          <note>KJV:Nah.2.2</note>\n          <w lemma=\"3588 a\" morph=\"HC\" id=\"343eS\">כִּ֣י</w>\n          <w lemma=\"7725\" morph=\"HVqp3ms\" id=\"34ddd\">שָׁ֤ב</w>\n          <w lemma=\"3068\" n=\"1.1.0\" morph=\"HNp\" id=\"34hxo\">יְהוָה֙</w>\n          <w lemma=\"853\" morph=\"HTo\" id=\"34TW6\">אֶת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1347\" morph=\"HNcmsc\" id=\"34PVx\">גְּא֣וֹן</w>\n          <w lemma=\"3290\" n=\"1.1\" morph=\"HNp\" id=\"34PGK\">יַעֲקֹ֔ב</w>\n          <w lemma=\"k/1347\" n=\"1.0\" morph=\"HR/Ncmsc\" id=\"34U4a\">כִּ/גְא֖וֹן</w>\n          <w lemma=\"3478\" n=\"1\" morph=\"HNp\" id=\"34dSQ\">יִשְׂרָאֵ֑ל</w>\n          <w lemma=\"3588 a\" morph=\"HC\" id=\"34Qbs\">כִּ֤י</w>\n          <w lemma=\"1238 b\" n=\"0.1.0\" morph=\"HVqp3cp/Sp3mp\" id=\"34ndZ\">בְקָקוּ/ם֙</w>\n          <w lemma=\"1238 b\" n=\"0.1\" morph=\"HVqrmpa\" id=\"34Xa1\">בֹּֽקְקִ֔ים</w>\n          <w lemma=\"c/2156\" n=\"0.0\" morph=\"HC/Ncfpc/Sp3mp\" id=\"343yJ\">וּ/זְמֹרֵי/הֶ֖ם</w>\n          <w lemma=\"7843\" n=\"0\" morph=\"HVpp3cp\" id=\"34B6c\">שִׁחֵֽתוּ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Nahum 2:3",
+      "delta": "F3",
+      "rationale": "Renders two rare equipment terms cautiously with uncertainty noted; retains color and preparation.",
+      "source_reference": "Nah 2:4",
+      "source_verse_sha256": "8a9153f18d1896c6800c084d34064673f96c68ffa7b297aff8e0ec96b5628ec6",
+      "before": "The shields of the warriors are red; the soldiers are clothed in scarlet. The chariots flash like fire on the day they are prepared, and the cypress spears are brandished.",
+      "after": "His warriors’ shields are red; his soldiers are clothed in scarlet. The chariots flash with fiery metal on the day he prepares them, and cypress spears are brandished.",
+      "tsw_comparator": "The shields of the warriors are red; the soldiers are clothed in scarlet. The chariots flash like fire on the day they are prepared, and the cypress spears are brandished.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.655172,
+      "editorial_status": "REVIEW_PENDING",
+      "original_source_xml": "<verse osisID=\"Nah.2.4\">\n          <note>KJV:Nah.2.3</note>\n          <w lemma=\"4043\" morph=\"HNcbsc\" id=\"34bju\">מָגֵ֨ן</w>\n          <w lemma=\"1368\" n=\"1.1.1.0\" morph=\"HAampc/Sp3ms\" id=\"34cn3\">גִּבֹּרֵ֜י/הוּ</w>\n          <w lemma=\"119\" n=\"1.1.1\" morph=\"HVPsmsa\" id=\"347mS\">מְאָדָּ֗ם</w>\n          <w lemma=\"376\" morph=\"HNcmpc\" id=\"34dJe\">אַנְשֵׁי</w><seg type=\"x-maqqef\">־</seg><w lemma=\"2428\" n=\"1.1.0\" morph=\"HNcmsa\" id=\"34WvG\">חַ֨יִל֙</w>\n          <w lemma=\"8529\" n=\"1.1\" morph=\"HVPsmpa\" id=\"34RXg\">מְתֻלָּעִ֔ים</w>\n          <w lemma=\"b/784\" morph=\"HR/Ncbsc\" id=\"34pqY\">בְּ/אֵשׁ</w><seg type=\"x-maqqef\">־</seg><w lemma=\"6393\" morph=\"HNcfpa\" id=\"34n9v\">פְּלָד֥וֹת</w>\n          <w lemma=\"d/7393\" n=\"1.0\" morph=\"HTd/Ncmsa\" id=\"34gYe\">הָ/רֶ֖כֶב</w>\n          <w lemma=\"b/3117\" morph=\"HR/Ncmsc\" id=\"34eXj\">בְּ/י֣וֹם</w>\n          <w lemma=\"3559 a\" n=\"1\" morph=\"HVhc/Sp3ms\" id=\"348ro\">הֲכִינ֑/וֹ</w>\n          <w lemma=\"c/d/1265\" n=\"0.0\" morph=\"HC/Td/Ncmpa\" id=\"34v5z\">וְ/הַ/בְּרֹשִׁ֖ים</w>\n          <w lemma=\"7477\" n=\"0\" morph=\"HVHp3cp\" id=\"34bCC\">הָרְעָֽלוּ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Nahum 2:5",
+      "delta": "F3",
+      "rationale": "Keeps unnamed commander, stumbling, and uncertain siege screen without fixing attacker/defender identification.",
+      "source_reference": "Nah 2:6",
+      "source_verse_sha256": "48f9ac7d380b5787b38153a5cf19cf7ee6aef252ad94e9c2cfa4601578a45f88",
+      "before": "He remembers his nobles; they stumble as they advance. They hurry to the wall, and the siege shelter is set in place.",
+      "after": "He summons his nobles; they stumble as they go. They hurry to her wall, and the protective screen is set in place.",
+      "tsw_comparator": "He remembers his nobles; they stumble as they advance. They hurry to the wall, and the siege shelter is set in place.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.772727,
+      "editorial_status": "REVIEW_PENDING",
+      "original_source_xml": "<verse osisID=\"Nah.2.6\">\n          <note>KJV:Nah.2.5</note>\n          <w lemma=\"2142\" n=\"1.1.0\" morph=\"HVqi3ms\" id=\"34mL3\">יִזְכֹּר֙</w>\n          <w lemma=\"117\" n=\"1.1\" morph=\"HAampc/Sp3ms\" id=\"34zfc\">אַדִּירָ֔י/ו</w>\n          <w lemma=\"3782\" n=\"1.0\" morph=\"HVNi3mp\" id=\"34sYp\">יִכָּשְׁל֖וּ</w>\n          <w type=\"x-ketiv\" lemma=\"b/1979\" morph=\"HR/Ncfpc/Sp3mp\" id=\"34GvF\">ב/הלכות/ם</w><note type=\"variant\"><catchWord>ב/הלכות/ם</catchWord><rdg type=\"x-qere\"><w lemma=\"b/1979\" n=\"1\" morph=\"HR/Ncfsc/Sp3mp\" id=\"34dAC\">בַּ/הֲלִֽיכָתָ֑/ם</w></rdg></note>\n          <w lemma=\"4116 a\" n=\"0.1.0\" morph=\"HVpi3mp\" id=\"34i4W\">יְמַֽהֲרוּ֙</w>\n          <w lemma=\"2346\" n=\"0.1\" morph=\"HNcfsc/Sp3fs\" id=\"34chR\">חֽוֹמָתָ֔/הּ</w>\n          <w lemma=\"c/3559 a\" n=\"0.0\" morph=\"HC/VHp3ms\" id=\"34Ddq\">וְ/הֻכַ֖ן</w>\n          <w lemma=\"d/5526 d\" n=\"0\" morph=\"HTd/Ncmsa\" id=\"34dSp\">הַ/סֹּכֵֽךְ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    }
+  ]
+}

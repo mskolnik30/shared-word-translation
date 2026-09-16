@@ -1,0 +1,103 @@
+[
+  {
+    "book": "daniel",
+    "count": 357,
+    "sha256": "e63592e843bfe907758853affb352f049296cce1df95e747d65a48b29ab486a4",
+    "source": {
+      "type": "oshb",
+      "repository": "openscriptures/morphhb",
+      "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+      "file": "wlc/Dan.xml",
+      "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a"
+    }
+  },
+  {
+    "book": "hosea",
+    "count": 197,
+    "sha256": "c70b02018b2ff4f424e50b1b285c25614d65684e2340d4b9dff166253e0084ba",
+    "source": {
+      "type": "oshb",
+      "repository": "openscriptures/morphhb",
+      "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+      "file": "wlc/Hos.xml",
+      "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec"
+    }
+  },
+  {
+    "book": "joel",
+    "count": 73,
+    "sha256": "c0fefc6881afe949b023968106cdccc05a690734b8bb6e9aa48914d77e5369af",
+    "source": {
+      "type": "oshb",
+      "repository": "openscriptures/morphhb",
+      "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+      "file": "wlc/Joel.xml",
+      "git_blob_sha": "d1a160746190931dccd91014499558fae735586a"
+    }
+  },
+  {
+    "book": "amos",
+    "count": 146,
+    "sha256": "fbb3341d363dbb8266edf98d7880299537dd743d8ee35c53d6113d5542d78f9d",
+    "source": {
+      "type": "oshb",
+      "repository": "openscriptures/morphhb",
+      "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+      "file": "wlc/Amos.xml",
+      "git_blob_sha": "139a2253ba5ec75a37b73e0e791bea0ab6648710"
+    }
+  },
+  {
+    "book": "obadiah",
+    "count": 21,
+    "sha256": "1e893e552a7ed7e2e6d4048637ff5da8a2853a9e4432f4095cede80b959d850c",
+    "source": {
+      "type": "oshb",
+      "repository": "openscriptures/morphhb",
+      "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+      "file": "wlc/Obad.xml",
+      "git_blob_sha": "17496d001587f142484239a7337380c68a30e77e"
+    }
+  },
+  {
+    "book": "jonah",
+    "count": 48,
+    "sha256": "1e1afcc3aaba1399d5c884ee106894c6bfca87c8c81fa57783ab75a923eee17d",
+    "source": {
+      "id": "OT.OSHB.WLC.2.2",
+      "revision": "6a5db28",
+      "repository": "openscriptures/morphhb",
+      "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+      "file": "wlc/Jonah.xml",
+      "git_blob_sha": "158c18ecbf3026fa845105d34b8766d89bcd039e",
+      "versification": {
+        "public_Jonah_1_17": "WLC Jonah 2:1",
+        "public_Jonah_2_1_10": "WLC Jonah 2:2-11"
+      }
+    }
+  },
+  {
+    "book": "micah",
+    "count": 105,
+    "sha256": "267e111adc1b941e32444816af07aa136ecde02cb315cd42597f78b393e67a01",
+    "source": {
+      "type": "oshb",
+      "repository": "openscriptures/morphhb",
+      "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+      "file": "wlc/Mic.xml",
+      "git_blob_sha": "91f1eb9525085bdf34d5554d93e38943ea350452"
+    }
+  },
+  {
+    "book": "nahum",
+    "count": 47,
+    "sha256": "5993b28bdbee3c922e3e93002d343a655493e8bd45e3472f3b62d77beadcb62c",
+    "source": {
+      "type": "oshb",
+      "repository": "openscriptures/morphhb",
+      "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+      "file": "wlc/Nah.xml",
+      "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00"
+    }
+  }
+]

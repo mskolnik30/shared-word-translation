@@ -1,0 +1,48 @@
+{
+  "status": "AUTHORING_REREAD_COMPLETED",
+  "qualification": "Drafting-agent reread, not independent editorial approval.",
+  "rows": [
+    {
+      "reference": "Obadiah 1:7",
+      "delta": "F3",
+      "rationale": "Makes the bread partners intelligible while preserving the final third-person shift and obscure trap term.",
+      "source_reference": "Obad 1:7",
+      "source_verse_sha256": "676b531273f5d6b1d15e654ac83a3e04dacc30da333c2eec03b8e95f937822f0",
+      "before": "All your allies have driven you to the border; those at peace with you have deceived you and prevailed against you. Those who eat your bread have set a trap beneath you. There is no understanding in him.",
+      "after": "All your allies have driven you to the border. Your trusted friends have deceived and overpowered you. Those who share your bread set a trap beneath you. There is no understanding in him.",
+      "tsw_comparator": "All your allies have driven you to the border; those at peace with you have deceived you and prevailed against you. Those who eat your bread have set a trap beneath you. There is no understanding in him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.788732,
+      "editorial_status": "REVIEW_PENDING",
+      "original_source_xml": "<verse osisID=\"Obad.1.7\">\n          <w lemma=\"5704\" morph=\"HR\" id=\"31tKT\">עַֽד</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/1366\" morph=\"HTd/Ncmsa\" id=\"31NRT\">הַ/גְּב֣וּל</w>\n          <w lemma=\"7971\" n=\"1.1.1\" morph=\"HVpp3cp/Sp2ms\" id=\"31sRU\">שִׁלְּח֗וּ/ךָ</w>\n          <w lemma=\"3605\" n=\"1.1.0\" morph=\"HNcmsc\" id=\"31Wxq\">כֹּ֚ל</w>\n          <w lemma=\"376\" morph=\"HNcmpc\" id=\"319qY\">אַנְשֵׁ֣י</w>\n          <w lemma=\"1285\" n=\"1.1\" morph=\"HNcfsc/Sp2ms\" id=\"31n5f\">בְרִיתֶ֔/ךָ</w>\n          <w lemma=\"5377\" n=\"1.0.0\" morph=\"HVhp3cp/Sp2ms\" id=\"31YUq\">הִשִּׁיא֛וּ/ךָ</w>\n          <w lemma=\"3201\" morph=\"HVqp3cp\" id=\"31fQr\">יָכְל֥וּ</w>\n          <w lemma=\"l\" n=\"1.0\" morph=\"HR/Sp2ms\" id=\"31L7t\">לְ/ךָ֖</w>\n          <w lemma=\"376\" morph=\"HNcmpc\" id=\"31A74\">אַנְשֵׁ֣י</w>\n          <w lemma=\"7965\" n=\"1\" morph=\"HNcmsc/Sp2ms\" id=\"31dNE\">שְׁלֹמֶ֑/ךָ</w>\n          <w lemma=\"3899\" n=\"0.1.1\" morph=\"HNcbsc/Sp2ms\" id=\"31xdF\">לַחְמְ/ךָ֗</w>\n          <w lemma=\"7760 a\" morph=\"HVqi3mp\" id=\"31AYg\">יָשִׂ֤ימוּ</w>\n          <w lemma=\"4204\" n=\"0.1.0\" morph=\"HNcmsa\" id=\"31Ls9\">מָזוֹר֙</w>\n          <w lemma=\"8478\" n=\"0.1\" morph=\"HR/Sp2ms\" id=\"31Snp\">תַּחְתֶּ֔י/ךָ</w>\n          <w lemma=\"369\" morph=\"HTn\" id=\"3187B\">אֵ֥ין</w>\n          <w lemma=\"8394\" n=\"0.0\" morph=\"HNcfsa\" id=\"31nLp\">תְּבוּנָ֖ה</w>\n          <w lemma=\"b\" n=\"0\" morph=\"HR/Sp3ms\" id=\"31PzC\">בּֽ/וֹ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Obadiah 1:12",
+      "delta": "F3",
+      "rationale": "Keeps prohibitive form rather than silently changing to past should-not-have and preserves day refrain.",
+      "source_reference": "Obad 1:12",
+      "source_verse_sha256": "519500288ce83569177790ca2661afc5d44f6970f0247368be873e0cd2fdfa49",
+      "before": "Do not look with pleasure on the day of your brother, on the day of his misfortune. Do not rejoice over the children of Judah on the day of their destruction. Do not boast on the day of distress.",
+      "after": "Do not gloat over your brother’s day, the day of his calamity. Do not rejoice over Judah’s people on the day they perish; do not boast on the day of distress.",
+      "tsw_comparator": "Do not look with pleasure on the day of your brother, on the day of his misfortune. Do not rejoice over the children of Judah on the day of their destruction. Do not boast on the day of distress.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.628571,
+      "editorial_status": "REVIEW_PENDING",
+      "original_source_xml": "<verse osisID=\"Obad.1.12\">\n          <w lemma=\"c/408\" morph=\"HC/Tn\" id=\"31aMT\">וְ/אַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"7200\" morph=\"HVqj2ms\" id=\"31Cof\">תֵּ֤רֶא</w>\n          <w lemma=\"b/3117\" morph=\"HR/Ncmsc\" id=\"31YWU\">בְ/יוֹם</w><seg type=\"x-maqqef\">־</seg><w lemma=\"251\" n=\"1.1.0\" morph=\"HNcmsc/Sp2ms\" id=\"31rAQ\">אָחִ֨י/ךָ֙</w>\n          <w lemma=\"b/3117\" morph=\"HR/Ncmsc\" id=\"31fLi\">בְּ/י֣וֹם</w>\n          <w lemma=\"5235\" n=\"1.1\" morph=\"HNcmsc/Sp3ms\" id=\"31Ptj\">נָכְר֔/וֹ</w>\n          <w lemma=\"c/408\" morph=\"HC/Tn\" id=\"31AJj\">וְ/אַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"8055\" morph=\"HVqj2ms\" id=\"319Hv\">תִּשְׂמַ֥ח</w>\n          <w lemma=\"l/1121 a\" morph=\"HR/Ncmpc\" id=\"31j1i\">לִ/בְנֵֽי</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3063\" n=\"1.0\" morph=\"HNp\" id=\"31J9J\">יְהוּדָ֖ה</w>\n          <w lemma=\"b/3117\" morph=\"HR/Ncmsc\" id=\"31U4n\">בְּ/י֣וֹם</w>\n          <w lemma=\"6\" n=\"1\" morph=\"HVqc/Sp3mp\" id=\"312Kt\">אָבְדָ֑/ם</w>\n          <w lemma=\"c/408\" morph=\"HC/Tn\" id=\"31RmH\">וְ/אַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1431\" morph=\"HVhj2ms\" id=\"31SWL\">תַּגְדֵּ֥ל</w>\n          <w lemma=\"6310\" n=\"0.0\" morph=\"HNcmsc/Sp2ms\" id=\"3175P\">פִּ֖י/ךָ</w>\n          <w lemma=\"b/3117\" morph=\"HR/Ncmsc\" id=\"313Lj\">בְּ/י֥וֹם</w>\n          <w lemma=\"6869 b\" n=\"0\" morph=\"HNcfsa\" id=\"31Qa3\">צָרָֽה</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Obadiah 1:13",
+      "delta": "F3",
+      "rationale": "Retains the three repeated disaster clauses and possession shifts.",
+      "source_reference": "Obad 1:13",
+      "source_verse_sha256": "ea069ef8634a317b73f335495d69c2ad7fd5dc7e200e843a5aa5c7420e4d001e",
+      "before": "Do not enter the gate of my people on the day of their disaster. Do not look with pleasure on their calamity on the day of their disaster. Do not reach for their wealth on the day of their disaster.",
+      "after": "Do not enter my people’s gate on the day of their disaster. Do not gloat over his suffering on the day of his disaster. Do not reach for his wealth on the day of his disaster.",
+      "tsw_comparator": "Do not enter the gate of my people on the day of their disaster. Do not look with pleasure on their calamity on the day of their disaster. Do not reach for their wealth on the day of their disaster.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.710526,
+      "editorial_status": "REVIEW_PENDING",
+      "original_source_xml": "<verse osisID=\"Obad.1.13\">\n          <w lemma=\"408\" morph=\"HTn\" id=\"31WTe\">אַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"935\" morph=\"HVqj2ms\" id=\"316VM\">תָּב֤וֹא</w>\n          <w lemma=\"b/8179\" morph=\"HR/Ncmsc\" id=\"31sKn\">בְ/שַֽׁעַר</w><seg type=\"x-maqqef\">־</seg><w lemma=\"5971 a\" n=\"1.1.0\" morph=\"HNcmsc/Sp1cs\" id=\"31oAj\">עַמִּ/י֙</w>\n          <w lemma=\"b/3117\" morph=\"HR/Ncmsc\" id=\"31AxB\">בְּ/י֣וֹם</w>\n          <w lemma=\"343\" n=\"1.1\" morph=\"HNcmsc/Sp3mp\" id=\"31Ap3\">אֵידָ֔/ם</w>\n          <w lemma=\"408\" morph=\"HTn\" id=\"31CEu\">אַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"7200\" morph=\"HVqj2ms\" id=\"31zpy\">תֵּ֧רֶא</w>\n          <w lemma=\"1571\" morph=\"HD\" id=\"31FiN\">גַם</w><seg type=\"x-maqqef\">־</seg><w lemma=\"859 a\" n=\"1.0.0\" morph=\"HPp2ms\" id=\"31cLk\">אַתָּ֛ה</w>\n          <w lemma=\"b/7451 c\" n=\"1.0\" morph=\"HR/Ncfsc/Sp3ms\" id=\"3192v\">בְּ/רָעָת֖/וֹ</w>\n          <w lemma=\"b/3117\" morph=\"HR/Ncmsc\" id=\"31j63\">בְּ/י֣וֹם</w>\n          <w lemma=\"343\" n=\"1\" morph=\"HNcmsc/Sp3ms\" id=\"31LFW\">אֵיד֑/וֹ</w>\n          <w lemma=\"c/408\" morph=\"HC/Tn\" id=\"31FbT\">וְ/אַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"7971\" morph=\"HVqj2fp\" id=\"31Bx7\">תִּשְׁלַ֥חְנָה</w>\n          <w lemma=\"b/2428\" n=\"0.0\" morph=\"HR/Ncmsc/Sp3ms\" id=\"31btu\">בְ/חֵיל֖/וֹ</w>\n          <w lemma=\"b/3117\" morph=\"HR/Ncmsc\" id=\"31rTK\">בְּ/י֥וֹם</w>\n          <w lemma=\"343\" n=\"0\" morph=\"HNcmsc/Sp3ms\" id=\"31SHw\">אֵידֽ/וֹ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    }
+  ]
+}

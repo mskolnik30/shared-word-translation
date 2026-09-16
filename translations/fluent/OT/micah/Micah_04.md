@@ -4,183 +4,90 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-micah-1-7-biblical-fluency-2026-09-16
 ---
 
-## The Mountain of the LORD
-<p>
-v01: It will come to pass in the latter days
-that the mountain of the house of the LORD
-will be established
-as the highest of the mountains,
-and it will be lifted up above the hills,
-and peoples will flow to it.
-</p>
+## The mountain and the nations
 
 <p>
-v02: And many nations will come and say,
-“Come,
-let us go up to the mountain of the LORD,
-to the house of the God of Jacob,
-that he may teach us his ways
-and that we may walk in his paths.”
-For out of Zion will go forth instruction,
+v01: In the days to come,
+the mountain of the LORD’s house
+will stand established above the mountains,
+raised higher than the hills.
+Peoples will stream toward it.
+v02: Many nations will come and say,
+“Come, let us go up to the mountain of the LORD,
+to the house of Jacob’s God.
+He will teach us his ways,
+and we will walk in his paths.”
+For instruction will go out from Zion,
 and the word of the LORD from Jerusalem.
-</p>
-
-<p>
 v03: He will judge between many peoples
-and will decide disputes
-for strong nations far away.
-And they will beat their swords into plowshares
+and settle disputes for powerful nations far away.
+They will beat their swords into plowshares
 and their spears into pruning hooks.
-Nation will not lift up sword against nation,
-neither will they learn war anymore.
-</p>
-
-<p>
-v04: But they will sit,
-each under his vine
-and under his fig tree,
-and none will make them afraid,
-for the mouth of the LORD of Hosts has spoken.
-v05: For all the peoples walk,
-each in the name of its god,
-but we will walk
-in the name of the LORD our God
+Nation will not raise a sword against nation,
+and they will no longer learn war.
+v04: Each will sit beneath his own vine and fig tree,
+with no one to frighten them,
+for the mouth of the LORD of Armies has spoken.
+v05: All the peoples walk,
+each in the name of its god;
+but we will walk in the name of the LORD our God
 forever and ever.
 </p>
 
-## The LORD Will Gather His People
+## The scattered gathered
+
 <p>
 v06: “On that day,” declares the LORD,
-“I will gather the lame,
-and I will assemble the outcast
-and those whom I have afflicted.
-v07: And the lame I will make a remnant,
-and the outcast a strong nation.
-And the LORD will reign over them in Mount Zion
-from this time forth and forevermore.
+“I will gather the lame
+and assemble those driven away,
+those whom I have afflicted.
+v07: I will make the lame a remnant
+and those cast far off a powerful nation.
+The LORD will reign over them on Mount Zion
+from now and forever.
+v08: And you, tower of the flock,
+stronghold of daughter Zion—
+to you the former dominion will come,
+the kingship of daughter Jerusalem.”
 </p>
 
-<p>
-v08: And you,
-O tower of the flock,
-hill of the daughter of Zion,
-to you it will come,
-the former dominion will come,
-the kingdom of the daughter of Jerusalem.”
-</p>
+## Exile and rescue
 
-## Zion's Future Deliverance
 <p>
 v09: Now why do you cry aloud?
-Is there no king in you?
-Has your counselor perished,
-that pain has seized you
-like a woman in labor?
-</p>
-
-<p>
-v10: Writhe and groan,
-O daughter of Zion,
-like a woman in labor,
-for now you will go out from the city
-and dwell in the open country.
-You will go to Babylon.
+Have you no king? Has your counselor perished,
+that pain grips you like a woman in labor?
+v10: Writhe and push, daughter Zion, like a woman giving birth.
+Now you must leave the city, live in the open country,
+and go as far as Babylon.
 There you will be rescued;
-there the LORD will redeem you
-from the hand of your enemies.
-</p>
-
-<p>
-v11: Now many nations
-are assembled against you,
-saying,
-“Let her be defiled,
-and let our eyes gaze upon Zion.”
-v12: But they do not know
-the thoughts of the LORD;
-they do not understand his plan,
-that he has gathered them
-as sheaves to the threshing floor.
-</p>
-
-<p>
-v13: Arise and thresh,
-O daughter of Zion,
-for I will make your horn iron,
-and I will make your hooves bronze.
-You will crush many peoples,
-and devote their gain to the LORD,
-their wealth to the Lord of all the earth.
+there the LORD will redeem you from your enemies’ hands.
+v11: Now many nations have gathered against you, saying,
+“Let her be defiled! Let our eyes feast on Zion!”
+v12: But they do not know the LORD’s thoughts
+or understand his counsel:
+he has gathered them like sheaves to a threshing floor.
+v13: “Rise and thresh, daughter Zion!
+I will make your horn iron and your hooves bronze,
+and you will crush many peoples.
+I will devote their gain to the LORD,
+their wealth to the Lord of all the earth.”
 </p>
 
 ## Notes
 
-v01–03: The chapter opens with a vision of the future reign of God that contrasts sharply with the judgment announced in chapter 3.
+v01-05: The passage shares much language with Isaiah 2. Its own details are preserved, including distant powerful nations, the vine and fig tree, and the declaration about walking in God’s name.
 
-v01: The exaltation of the LORD's mountain symbolizes the supremacy of God's kingdom among the nations.
-
-v02: The nations come willingly to receive God's instruction rather than resisting his rule.
-
-v03: Peace is established through God's righteous judgment rather than through human power.
-
-v03: The transformation of weapons into agricultural tools symbolizes the end of warfare.
-
-v04: The vine and fig tree represent security, prosperity, and covenant blessing.
-
-v05: Israel's commitment to walk in the LORD's name contrasts with the devotion of other nations to their gods.
-
-v06–07: God gathers the weak, afflicted, and scattered rather than the powerful and self-sufficient.
-
-v07: The remnant theme remains central to Micah's message of hope.
-
-v08: The promise points toward the restoration of royal rule in Zion.
-
-v09–10: Jerusalem will experience suffering and exile before restoration arrives.
-
-v10: Babylon is mentioned long before Judah's eventual exile there, highlighting the prophetic nature of the passage.
-
-v10: The place of exile will also become the place from which God delivers his people.
-
-v11–12: The nations misunderstand God's purposes and become instruments within his larger plan.
-
-v13: Zion's victory comes through God's empowerment rather than its own strength.
+v08,13: The tower and stronghold are not precisely identified. Verse 13’s final verb is first person in the pinned text: “I will devote,” although other readings take the subject as Zion.
 
 ## Vocabulary
 
-v01: אַחֲרִית הַיָּמִים (ʾaḥărîṯ hayyāmîm)
-“Latter days.” The future period in which God's purposes reach fulfillment.
+v03: **Plowshares; pruning hooks**: Tools for cultivation, made here from weapons; Joel 3:10 reverses this image in a call to battle.
 
-v02: תּוֹרָה (tôrâ)
-“Instruction.” God's teaching that directs life and covenant faithfulness.
-
-v03: שָׁפַט (šāphaṭ)
-“To judge.” To govern and render righteous decisions.
-
-v03: אִתִּים (ʾittîm)
-“Plowshares.” Agricultural tools used for cultivating fields.
-
-v04: גֶּפֶן (gephen)
-“Vine.” A symbol of prosperity and settled peace.
-
-v06: קָבַץ (qāḇaṣ)
-“To gather.” To assemble those who have been scattered.
-
-v07: שְׁאֵרִית (šĕʾērîṯ)
-“Remnant.” The portion preserved by God through judgment.
-
-v08: מִגְדַּל־עֵדֶר (migdal-ʿēḏer)
-“Tower of the flock.” A pastoral image associated with watchfulness and protection.
-
-v10: גָּאַל (gāʾal)
-“To redeem.” To rescue, reclaim, or deliver.
-
-v12: עֵצָה (ʿēṣâ)
-“Plan” or “counsel.” The purposeful design and intention of God.
-
-v13: דּוּשׁ (dûš)
-“To thresh.” To separate grain from chaff, here used as an image of judgment.
-
-v13: חֵרֶם (ḥērem)
-“To devote.” To set apart completely for God, often in the context of judgment.
+v10: **Redeem**: Rescue from another’s power, here explicitly promised at Babylon.

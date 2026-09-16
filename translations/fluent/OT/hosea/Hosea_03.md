@@ -4,54 +4,30 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-hosea-1-14-biblical-fluency-2026-09-16
 ---
 
-## Love Her Again
+## Love and waiting
 
 <p>
-v01: The LORD said to me, “Go again, love a woman loved by another and committing adultery, just as the LORD loves the children of Israel, though they turn to other gods and love cakes of raisins.”
-
-v02: So I bought her for myself for fifteen pieces of silver and a homer and a lethech of barley.
-
-v03: I said to her, “You will remain with me many days. You will not prostitute yourself, and you will not belong to another man; and I also will be so toward you.”
-</p>
-
-## Israel Will Return
-
-<p>
-v04: For the children of Israel will remain many days without king or prince, without sacrifice or pillar, without ephod or household gods.
-
-v05: Afterward the children of Israel will return and seek the LORD their God and David their king. They will come trembling to the LORD and to his goodness in the latter days.
+v01: The LORD said to me again, “Go, love a woman who is loved by another man and is an adulteress, just as the LORD loves the people of Israel, though they turn to other gods and love raisin cakes.”
+v02: So I acquired her for myself for fifteen pieces of silver, a homer of barley, and a lethek of barley.
+v03: I told her, “You must stay with me for many days. You must not prostitute yourself or belong to another man, and I will be the same toward you.”
+v04: For many days the people of Israel will remain without king or ruler, without sacrifice or sacred pillar, without ephod or household gods.
+v05: Afterward the people of Israel will return and seek the LORD their God and David their king. In the days to come they will approach the LORD and his goodness with trembling.
 </p>
 
 ## Notes
 
-v01: The woman is not named in this chapter. Whether she is Gomer from chapters 1–2 or another woman is not explicitly stated. TSW preserves that ambiguity.
+v01-03: The woman is unnamed here. “Loved by another man” follows the pointed Hebrew; different pointing can yield a different description. The purchase does not specify a legal setting, and the final reciprocal promise is terse.
 
-v01: “cakes of raisins” were associated with feasting and may have had cultic associations. The phrase is retained without assuming a specific ritual function.
-
-v02: The payment combines silver and barley. The precise social or legal status implied by the transaction is not explained in the text.
-
-v04: Israel’s deprivation includes both legitimate and illegitimate institutions: king, sacrifice, pillar, ephod, and household gods. The verse describes a period of absence rather than endorsing every item named.
-
-v05: “David their king” points to renewed Davidic rule while leaving open how the figure relates to the historical David and future kingship.
+v05: “David their king” is the source’s expression. The verse does not name a particular later ruler.
 
 ## Vocabulary
 
-v01: אָהַב (ahav)
-“To love.” The chapter begins with a command to love in a situation marked by betrayal.
+v02: **Homer; lethek**: Dry measures: the lethek is commonly understood as half a homer. Exact modern capacities are uncertain.
 
-v01: נָאַף (na'af)
-“To commit adultery.” Covenant unfaithfulness is expressed through marital language.
-
-v02: חֹמֶר (chomer)
-“Homer.” A large dry measure.
-
-v02: לֶתֶךְ (lethekh)
-“Lethech.” A dry measure, likely half a homer.
-
-v04: תְּרָפִים (teraphim)
-“Household gods.” Cultic objects associated with domestic religion or divination.
-
-v05: פָּחַד (pachad)
-“To tremble” or “come in awe.” Israel returns to the LORD with reverent fear.
+v04: **Ephod; household gods**: Objects associated with priestly or divinatory practice. Their absence is listed alongside the loss of kingship and sacrifice.

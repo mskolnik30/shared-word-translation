@@ -4,171 +4,86 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-micah-1-7-biblical-fluency-2026-09-16
 ---
 
-## Woe to Oppressors
-<p>
-v01: Woe to people who devise wickedness
-and work out evil upon their beds.
-When the morning light comes,
-they carry it out,
-because it is in the power of their hand.
-</p>
+## Fields seized
 
 <p>
+v01: Woe to those who plan wickedness
+and devise evil on their beds!
+At morning light they carry it out
+because the power lies in their hands.
 v02: They covet fields and seize them,
-and houses and take them away.
-They oppress a man and his house,
-a man and his inheritance.
+houses and take them away.
+They oppress a man and his household,
+a person and his inheritance.
+v03: So this is what the LORD says:
+“I am planning disaster against this family,
+a yoke you cannot remove from your necks.
+You will no longer walk proudly,
+for it will be an evil time.
+v04: On that day people will take up a taunt over you
+and sing a bitter lament:
+‘We are utterly devastated!
+He exchanges my people’s portion.
+How he takes it from me!
+He parcels out our fields to a renegade.’”
+v05: So you will have no one to stretch a measuring line
+for an allotted share in the LORD’s assembly.
 </p>
 
-<p>
-v03: So thus says the LORD:
-“Look,
-I am devising against this family a disaster
-from which you cannot remove your necks.
-You will not walk proudly,
-for it will be a time of calamity.
-</p>
+## Unwanted words
 
 <p>
-v04: On that day
-they will take up a taunt against you
-and lament with bitter lamentation,
-saying,
-‘We are utterly ruined.
-He changes the portion of my people.
-How he removes it from me.
-To the faithless he apportions our fields.’”
-</p>
-
-<p>
-v05: So you will have no one
-to cast the measuring line by lot
-in the assembly of the LORD.
-</p>
-
-## The People Reject the Prophets
-<p>
-v06: “Do not preach,” they preach.
-“One should not preach of such things.
-Disgrace will not overtake us.”
-</p>
-
-<p>
-v07: Should this be said,
-O house of Jacob?
-Has the Spirit of the LORD become impatient?
-Are these his deeds?
-Do not my words do good
+v06: “Do not pour out such words!” they pour out.
+“They must not speak about these things;
+disgrace will not overtake us.”
+v07: Should the house of Jacob say,
+“Has the LORD’s patience run short?
+Are these his deeds?”
+“Do not my words do good
 to the one who walks uprightly?
-</p>
-
-<p>
-v08: But lately my people
-have risen up as an enemy.
-You strip the robe from the garment
-from people who pass by trustingly,
+v08: But lately my people have risen like an enemy.
+You strip the fine cloak off the garment
+of those who pass by unsuspecting,
 returning from war.
-v09: The women of my people
-you drive out from their pleasant houses.
-From their young children
-you take away my glory forever.
+v09: You drive the women of my people
+from the homes they cherish;
+you take my splendor from their young children forever.
+v10: Get up and go! This is no resting place.
+Because it is unclean, it brings destruction—
+grievous destruction.
+v11: If someone trafficking in wind and falsehood lied,
+‘I will pour out words for you about wine and strong drink,’
+he would be the preacher for this people!
 </p>
 
-<p>
-v10: Arise and go,
-for this is no place of rest,
-because it is defiled;
-it is ruined
-with a grievous destruction.
-</p>
+## The gathered flock
 
 <p>
-v11: If a man should go about
-with wind and falsehood,
-saying,
-“I will preach to you
-of wine and strong drink,”
-he would be the preacher for this people.
-</p>
-
-## Promise of Restoration
-<p>
-v12: I will surely gather all of you, O Jacob.
-I will surely assemble the remnant of Israel.
-I will set them together like sheep in a fold,
-like a flock in its pasture.
-They will be noisy with the multitude of people.
-</p>
-
-<p>
-v13: The one who breaks through
-goes up before them.
-They break through and pass through the gate
-and go out by it.
-Their king passes on before them,
-the LORD at their head.
+v12: I will surely gather all of you, Jacob;
+I will surely assemble Israel’s remnant.
+I will bring them together like sheep in an enclosure,
+like a flock in its pasture,
+a noisy throng of people.
+v13: The one who breaks through goes up before them.
+They break through, pass the gate, and go out through it.
+Their king passes before them,
+with the LORD at their head.”
 </p>
 
 ## Notes
 
-v01–02: The chapter opens with a condemnation of deliberate injustice. The wealthy plan oppression before carrying it out.
+v04,06-08: The land recipient called a renegade is uncertain. Speaker divisions in verses 6–7 are not marked in Hebrew. Verse 8’s garment and war-return wording is difficult; the draft preserves a reading without disguising its uncertainty.
 
-v02: Land seizure violates Israel's inheritance system and threatens the covenant structure of society.
-
-v03: God responds to their schemes with a judgment that mirrors their own plotting.
-
-v04–05: Those who stole inheritances will themselves lose their place in the land.
-
-v06: The people reject prophetic warnings and prefer messages of security.
-
-v07: God's words bring blessing to those who walk uprightly; the problem lies not with the message but with the hearers.
-
-v08–09: The oppression described affects vulnerable people, including women and children.
-
-v10: The land itself can no longer function as a place of rest because it has been defiled by injustice.
-
-v11: False prophets gain acceptance by promising comfort and prosperity rather than truth.
-
-v12–13: The chapter closes unexpectedly with hope. God promises to gather a remnant after judgment.
-
-v13: The LORD himself leads his people like a king and shepherd, bringing them out into freedom.
+v12-13: The sheep enclosure can also be read as the place-name Bozrah. The breakthrough, king, and LORD at the head are retained without assigning the unnamed figures identities beyond the passage.
 
 ## Vocabulary
 
-v01: אָוֶן (ʾāwen)
-“Wickedness” or “evil.” Harmful and destructive wrongdoing.
+v05: **Measuring line and lot**: Means of dividing and assigning land within the community.
 
-v02: חָמַד (ḥāmaḏ)
-“To covet.” To desire what belongs to another.
-
-v02: נַחֲלָה (naḥălâ)
-“Inheritance.” Family land received and preserved through generations.
-
-v03: רָעָה (rāʿâ)
-“Disaster” or “calamity.” Divine judgment brought upon wrongdoing.
-
-v04: מָשָׁל (māšāl)
-“Taunt” or “proverb.” A saying used in mockery or warning.
-
-v05: גּוֹרָל (gôrāl)
-“Lot.” A means of assigning land or determining inheritance.
-
-v07: רוּחַ יְהוָה (rûaḥ YHWH)
-“Spirit of the LORD.” God's active presence and power.
-
-v09: גָּרַשׁ (gāraš)
-“To drive out.” To expel or dispossess from a place.
-
-v10: מְנוּחָה (mĕnûḥâ)
-“Rest.” Security, settlement, and covenant blessing.
-
-v11: כָּזָב (kāzāḇ)
-“Falsehood.” Deceptive or untrue speech.
-
-v12: שְׁאֵרִית (šĕʾērîṯ)
-“Remnant.” Those preserved by God after judgment.
-
-v13: פָּרַץ (pāraṣ)
-“To break through.” To burst forth or open a way through an obstacle.
+v06,11: **Pour out words**: The Hebrew uses a verb of dripping for prophetic speech, here turned against unwanted preaching.

@@ -4,144 +4,70 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-hosea-1-14-biblical-fluency-2026-09-16
 ---
 
-## Put the Horn to Your Mouth
+## The covenant broken
 
 <p>
-v01: Put the ram’s horn to your mouth!
-One comes like an eagle
-against the house of the LORD,
-because they transgressed my covenant
+v01: Put the ram’s horn to your lips!
+Like an eagle, one comes against the house of the LORD,
+because they have broken my covenant
 and rebelled against my instruction.
-
-v02: To me they cry,
-“My God, we Israel know you!”
-
+v02: They cry to me,
+‘My God, we in Israel know you!’
 v03: Israel has rejected what is good;
 an enemy will pursue him.
-</p>
-
-## They Made Kings, but Not from Me
-
-<p>
-v04: They made kings,
-but not from me;
-they made officials,
-but I did not know it.
-With their silver and their gold
-they made idols for themselves,
-so that they might be cut off.
-
+v04: They appointed kings without me;
+they set up rulers without my acknowledgment.
+From their silver and gold they made idols for themselves,
+only to be cut off.
 v05: Your calf is rejected, Samaria!
 My anger burns against them.
-How long will they be incapable
-of innocence?
-
-v06: For it is from Israel;
-a craftsman made it,
-and it is not God.
-Surely the calf of Samaria
-will become splinters.
-</p>
-
-## They Sow Wind and Reap Whirlwind
-
-<p>
-v07: For they sow wind
-and reap whirlwind.
-Standing grain has no head;
-it produces no flour.
-Even if it produced,
-strangers would swallow it.
-
-v08: Israel is swallowed up.
-Now they are among the nations
-like a vessel
-in which no one delights.
-
-v09: For they have gone up to Assyria,
-a wild donkey wandering alone.
+How long will they be incapable of innocence?
+v06: It comes from Israel: a craftsman made it;
+it is no god.
+Samaria’s calf will become splinters.
+v07: They sow wind and harvest a whirlwind.
+The stalk has no standing grain;
+the shoot produces no flour.
+Even if it did, foreigners would swallow it.
+v08: Israel has been swallowed up.
+Now among the nations
+they are a vessel no one wants.
+v09: They have gone up to Assyria,
+a wild donkey off on its own.
 Ephraim has hired lovers.
-
 v10: Though they hire among the nations,
-now I will gather them,
-and they will begin to diminish
-under the burden
-of king and officials.
-</p>
-
-## Altars Have Become Altars for Sin
-
-<p>
-v11: Because Ephraim multiplied altars
-for sin,
-altars became for him
-altars for sinning.
-
-v12: Though I write for him
-my instruction by tens of thousands,
-they are regarded
-as something foreign.
-
+now I will gather them.
+They will soon begin to suffer
+under the burden of the king of rulers.
+v11: Ephraim multiplied altars for sin;
+they became altars for sinning.
+v12: Were I to write my instruction for him in countless provisions,
+they would be regarded as something foreign.
 v13: As for my sacrificial gifts,
-they sacrifice flesh and eat it,
+they sacrifice meat and eat it,
 but the LORD does not accept them.
-Now he will remember their guilt
-and attend to their sins.
+Now he will remember their guilt and punish their sins.
 They will return to Egypt.
-</p>
-
-## Israel Forgot His Maker
-
-<p>
-v14: Israel forgot his Maker
-and built palaces,
-and Judah multiplied fortified cities.
-Yet I will send fire upon his cities,
-and it will devour her palaces.
+v14: Israel forgot his Maker and built palaces;
+Judah multiplied fortified cities.
+I will send fire into his cities,
+and it will consume her citadels.”
 </p>
 
 ## Notes
 
-v01: The eagle may represent an invading imperial power, likely Assyria. Its speed and predatory character frame the covenant violation as exposed to attack.
+v05,10: The subject of “rejected” in verse 5 is uncertain, so English uses a passive clause. The gathering and royal burden in verse 10 are also difficult; the draft does not name an unstated monarch.
 
-v02: Israel claims knowledge of God, but the surrounding verses deny that confession through covenant rebellion and rejected instruction.
-
-v04: Kingship and political appointment are criticized not because government itself is illegitimate but because Israel’s political choices proceed without recognition of the LORD.
-
-v05–06: The calf of Samaria is exposed as manufactured rather than divine. The contrast between craftsman and God is central to Hosea’s critique of idolatry.
-
-v07: “sow wind … reap whirlwind” expresses disproportionate consequence: empty practice grows into destructive result.
-
-v09: The wild donkey normally resists domestication and travels independently. Ephraim’s image is ironic because the one “wandering alone” is simultaneously purchasing alliances.
-
-v12: The Hebrew may refer to “ten thousand” or “many” instructions. The point is that even abundant divine teaching is treated as alien.
-
-v13: “return to Egypt” can invoke literal exile, symbolic return to bondage, or both. Hosea repeatedly uses Egypt as the place from which Israel was once delivered.
+v11-12: The repeated “sin” can also evoke sin offerings. Verse 12 describes abundant written instruction being treated as foreign; its verbal forms permit more than one temporal nuance.
 
 ## Vocabulary
 
-v01: שׁוֹפָר (shofar)
-“Ram’s horn.” An alarm signal of approaching danger.
+v06: **Calf**: A crafted image associated with worship in the northern kingdom.
 
-v01: בְּרִית (berit)
-“Covenant.” The relationship Israel has transgressed.
-
-v04: נָסִיךְ (nasikh)
-“Official” or “prince.” One installed in political authority.
-
-v05: עֵגֶל (egel)
-“Calf.” The cultic image associated with Samaria.
-
-v07: סוּפָה (suphah)
-“Whirlwind.” The destructive harvest reaped from sowing wind.
-
-v08: כְּלִי (keli)
-“Vessel.” Israel is compared with an unwanted object among the nations.
-
-v11: מִזְבֵּחַ (mizbeach)
-“Altar.” A place of sacrifice that has become an instrument of sin.
-
-v14: עָשָׂה (asah)
-“To make.” Israel forgets the One who made him while producing human structures and idols.
+v07: **Sow; harvest**: The linked agricultural verbs picture consequences far greater than what was planted.

@@ -1,9 +1,14 @@
 {
   "book": "Jonah",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "READY_FOR_PR_AFTER_INSTALL",
-  "chapter_counts": {"1": 17, "2": 10, "3": 10, "4": 11},
+  "status": "REVIEW_PENDING",
+  "publication_status": "REVIEW_PENDING",
+  "chapter_counts": {
+    "1": 17,
+    "2": 10,
+    "3": 10,
+    "4": 11
+  },
   "verse_total": 48,
   "source": {
     "id": "OT.OSHB.WLC.2.2",
@@ -18,20 +23,114 @@
     }
   },
   "book_level_anchors": [
-    {"id": "JONAH.GREAT", "decision": "Preserve repeated 'great' language where it structures city, wind/storm, fish, and emotional scale."},
-    {"id": "JONAH.QUM", "decision": "Use get up / got up to preserve repeated commission-response language."},
-    {"id": "JONAH.RAAH", "decision": "Use contextually natural English for ra'ah (evil/trouble/disaster/displeasure/discomfort) while exposing the Hebrew network in apparatus."},
-    {"id": "JONAH.YARE", "decision": "Preserve fear language, especially the sailors' movement from fear of the storm to fear of the LORD."},
-    {"id": "JONAH.MANAH", "decision": "Preserve appoint for fish, plant, worm, and wind."},
-    {"id": "JONAH.SHUW_NAHAM", "decision": "Preserve turn / relent language in Jonah 3 and 4."},
-    {"id": "JONAH.HESED", "decision": "Use steadfast love for God's hesed in 4:2; keep Jonah 2:8's hesed construction explicitly disputed."}
+    {
+      "id": "JONAH.GREAT",
+      "decision": "Preserve repeated 'great' language where it structures city, wind/storm, fish, and emotional scale."
+    },
+    {
+      "id": "JONAH.QUM",
+      "decision": "Use get up / got up to preserve repeated commission-response language."
+    },
+    {
+      "id": "JONAH.RAAH",
+      "decision": "Use contextually natural English for ra'ah (evil/trouble/disaster/displeasure/discomfort) while exposing the Hebrew network in apparatus."
+    },
+    {
+      "id": "JONAH.YARE",
+      "decision": "Preserve fear language, especially the sailors' movement from fear of the storm to fear of the LORD."
+    },
+    {
+      "id": "JONAH.MANAH",
+      "decision": "Preserve appoint for fish, plant, worm, and wind."
+    },
+    {
+      "id": "JONAH.SHUW_NAHAM",
+      "decision": "Preserve turn / relent language in Jonah 3 and 4."
+    },
+    {
+      "id": "JONAH.HESED",
+      "decision": "Use steadfast love for God's hesed in 4:2; keep Jonah 2:8's hesed construction explicitly disputed."
+    }
   ],
   "f3_decisions": [
-    {"location": "1:17 / 2:1-10", "decision": "Explicit WLC/public versification mapping", "disposition": "APPROVE"},
-    {"location": "2:8", "decision": "Retain covenant loyalty in main text; ambiguity note required", "disposition": "APPROVE"},
-    {"location": "3:3", "decision": "Retain exceedingly great city; note Hebrew 'great to God'", "disposition": "APPROVE"},
-    {"location": "3:10", "decision": "Translate relenting without doctrinal harmonization", "disposition": "APPROVE"},
-    {"location": "4:1/6", "decision": "Use natural English while noting ra'ah wordplay", "disposition": "APPROVE"},
-    {"location": "4:11", "decision": "Retain right/left idiom; leave interpretation open", "disposition": "APPROVE"}
-  ]
+    {
+      "location": "1:17 / 2:1-10",
+      "decision": "Explicit WLC/public versification mapping",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:8",
+      "decision": "Retain covenant loyalty in main text; ambiguity note required",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "3:3",
+      "decision": "Retain exceedingly great city; note Hebrew 'great to God'",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "3:10",
+      "decision": "Translate relenting without doctrinal harmonization",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "4:1/6",
+      "decision": "Use natural English while noting ra'ah wordplay",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "4:11",
+      "decision": "Retain right/left idiom; leave interpretation open",
+      "disposition": "APPROVE"
+    }
+  ],
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "current_revision": {
+    "id": "fluent-jonah-1-4-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verse_count": 48,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-jonah-1-4/jonah-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+      "path": "audit/exegetical-core/fluent-production/jonah/JONAH_FLUENT_BOOK_QA.json"
+    },
+    "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-jonah-1-4-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 48,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-jonah-1-4/jonah-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+        "path": "audit/exegetical-core/fluent-production/jonah/JONAH_FLUENT_BOOK_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    }
+  ],
+  "historical_publication_status_before_revision": "READY_FOR_PR_AFTER_INSTALL",
+  "historical_approvals_note": "The earlier f3_decisions and book anchors describe the prior wording; current_revision and its ledger supersede them for all four chapters. No prior approval transfers."
 }

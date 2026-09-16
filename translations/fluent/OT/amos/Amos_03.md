@@ -4,161 +4,84 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-amos-1-9-biblical-fluency-2026-09-16
 ---
 
-## You Only Have I Known
+## Known and accountable
 
 <p>
-v01: Hear this word that the LORD has spoken against you, children of Israel, against the whole clan that I brought up from the land of Egypt:
-
-v02: You only have I known
-from all the clans of the earth;
-so I will attend to you
-for all your guilt.
+v01: Hear this word that the LORD has spoken against you, people of Israel—against the whole family I brought up from the land of Egypt:
+v02: “You alone have I known
+among all the families of the earth.
+That is why I will call you to account
+for all your guilt.”
 </p>
 
-## Does a Lion Roar without Prey?
+## The lion has roared
 
 <p>
-v03: Do two walk together
-unless they have met?
-
-v04: Does a lion roar in the forest
-when it has no prey?
-Does a young lion give its voice from its den
-unless it has captured something?
-
+v03: Do two people walk together
+unless they have arranged to meet?
+v04: Does a lion roar in the forest when it has no prey?
+Does a young lion cry from its den
+unless it has caught something?
 v05: Does a bird fall into a trap on the ground
-when there is no snare for it?
+unless a snare is set for it?
 Does a trap spring up from the ground
-when it has caught nothing?
-
-v06: If a ram’s horn is blown in a city,
+without catching anything?
+v06: When a ram’s horn sounds in a city,
 do the people not tremble?
-If disaster happens in a city,
-has the LORD not done it?
-
-v07: For the Lord GOD does nothing
-unless he reveals his counsel
+When disaster strikes a city,
+has the LORD not brought it about?
+v07: The Lord GOD does nothing
+without revealing his counsel
 to his servants the prophets.
-
-v08: A lion has roared—
-who will not fear?
-The Lord GOD has spoken—
-who can but prophesy?
+v08: A lion has roared—who will not fear?
+The Lord GOD has spoken—who will not prophesy?
 </p>
 
-## Proclaim It over the Fortresses of Ashdod and Egypt
+## Witnesses to oppression
 
 <p>
-v09: Proclaim over the fortresses in Ashdod
-and over the fortresses in the land of Egypt,
-and say:
-
-“Gather yourselves
-upon the mountains of Samaria
-and see the great tumults within her
-and the oppressed in her midst.”
-
-v10: They do not know how to do what is right,
-says the LORD,
-people who store up violence and devastation
-in their fortresses.
-</p>
-
-## An Adversary Will Surround the Land
-
-<p>
-v11: So thus says the Lord GOD:
-
-An adversary will surround the land;
-he will bring down your strength from you,
-and your fortresses
-will be plundered.
-
-v12: Thus says the LORD:
-
-As the shepherd rescues from the lion’s mouth
-two legs
-or a piece of an ear,
-so the children of Israel will be rescued—
-people who sit in Samaria
-on the corner of a couch
-and on a bed in Damascus.
-</p>
-
-## The Altars of Bethel Will Be Cut Off
-
-<p>
-v13: Hear and testify against the house of Jacob,
-says the Lord GOD,
-the God of Hosts.
-
-v14: For on the day I attend
-to the transgressions of Israel,
-I will attend to the altars of Bethel.
-The horns of the altar will be cut off
+v09: Proclaim to the citadels of Ashdod
+and the citadels in the land of Egypt:
+“Gather on Samaria’s mountains
+and see the great turmoil within her
+and the oppression in her midst.”
+v10: “They do not know how to do right,” declares the LORD,
+“those who store up violence and plunder in their citadels.”
+v11: So this is what the Lord GOD says:
+“An enemy will surround the land,
+pull down your strength,
+and plunder your citadels.”
+v12: This is what the LORD says:
+“As a shepherd rescues from a lion’s mouth
+two leg bones or a scrap of ear,
+so will the people of Israel be rescued—
+those who sit in Samaria
+on a corner of a bed and on a Damascus couch.”
+v13: “Hear and testify against the house of Jacob,”
+declares the Lord GOD, the God of Armies.
+v14: “On the day I call Israel to account for his rebellions,
+I will also call Bethel’s altars to account.
+The altar’s horns will be cut off
 and fall to the ground.
-
-v15: I will strike the winter house
-together with the summer house.
-The houses of ivory will perish,
-and many houses will come to an end,
-says the LORD.
+v15: I will strike the winter house together with the summer house.
+The ivory houses will perish,
+and many houses will come to an end,” declares the LORD.
 </p>
 
 ## Notes
 
-v02: “known” is relational and covenantal, not merely intellectual. Israel’s election intensifies accountability rather than removing it.
+v02-03: “Known” describes a special relationship, not lack of awareness of other peoples. The meeting in verse 3 need not imply agreement on every belief or aim.
 
-v03: The Hebrew can mean “unless they have agreed” or “unless they have met by appointment.” The proverb assumes a prior cause for walking together.
-
-v03–06: The sequence of rhetorical questions argues from observable cause and effect toward the certainty that prophetic warning has a cause.
-
-v06: “disaster” translates *ra'ah*, which can mean calamity or harm. The verse speaks of public catastrophe under divine sovereignty, not of God committing moral evil.
-
-v07: “counsel” translates *sod*, a confidential deliberation or inner council. Prophetic speech arises because the LORD discloses what would otherwise remain hidden.
-
-v08: Amos presents prophecy as compelled response: once the divine lion roars, silence is no more natural than fearlessness before a lion.
-
-v09: Foreign powers are summoned as witnesses to Samaria’s injustice. Even nations outside Israel can recognize the disorder within the covenant people.
-
-v12: The shepherd’s tiny recovered pieces prove that an animal was lost rather than meaningfully rescuing it. The image therefore describes a remnant that barely survives judgment.
-
-v12: “bed in Damascus” is textually difficult. Some understand an ornamental fabric or a place-name rather than the city Damascus. TSW follows the Masoretic vocalization and notes the uncertainty.
-
-v14: The altar horns were sacred projecting corners. Their being cut off signals the destruction of Bethel’s cultic security.
-
-v15: Winter and summer houses, ivory decoration, and many residences expose elite luxury as part of the social world coming under judgment.
+v12: The tiny remains recovered from a lion make “rescue” bitterly ironic. The final couch phrase is obscure; this draft retains Damascus rather than presenting a reconstructed furniture description as certain.
 
 ## Vocabulary
 
-v02: יָדַע (yada)
-“To know.” Here covenantal recognition and relationship.
+v10: **Store up**: Normally used of treasures; here what fills the citadels is violence and plunder.
 
-v02: פָּקַד (paqad)
-“To attend to” or “visit.” Divine attention expressed in judgment.
-
-v05: מוֹקֵשׁ (moqesh)
-“Snare.” A trap used in the chain of rhetorical questions.
-
-v06: רָעָה (ra'ah)
-“Disaster,” “calamity,” or “harm.”
-
-v07: סוֹד (sod)
-“Counsel” or “confidential council.” What God reveals to prophets.
-
-v08: שָׁאַג (sha'ag)
-“To roar.” The lion-like divine speech.
-
-v09: מְהוּמָה (mehumah)
-“Tumult” or “confusion.” Social disorder within Samaria.
-
-v10: חָמָס (chamas)
-“Violence.” What the elite store in their fortresses.
-
-v14: קֶרֶן (qeren)
-“Horn.” A projecting corner of the altar.
-
-v15: שֵׁן (shen)
-“Ivory.” Luxury material adorning elite houses.
+v14: **Altar horns**: Projections at the altar’s corners, here broken off and thrown down.

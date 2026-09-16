@@ -1,0 +1,2028 @@
+{
+  "scope": "Daniel 3–12, all 287 verses.",
+  "verses": 287,
+  "method": "Normalized word sequence; near identical >=0.90 excluding identical. Triage only, not proof of fidelity, originality, or comprehension.",
+  "summary": {
+    "before": {
+      "identical": 243,
+      "near_identical_nonidentical": 41,
+      "mean_word_similarity": 0.992857
+    },
+    "after": {
+      "identical": 2,
+      "near_identical_nonidentical": 10,
+      "mean_word_similarity": 0.689559
+    }
+  },
+  "rows": [
+    {
+      "reference": "Daniel 3:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Daniel 3:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.741935
+    },
+    {
+      "reference": "Daniel 3:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.704225
+    },
+    {
+      "reference": "Daniel 3:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Daniel 3:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.741935
+    },
+    {
+      "reference": "Daniel 3:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.611111
+    },
+    {
+      "reference": "Daniel 3:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97619,
+      "after_similarity": 0.805195
+    },
+    {
+      "reference": "Daniel 3:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Daniel 3:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Daniel 3:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.970588,
+      "after_similarity": 0.71875
+    },
+    {
+      "reference": "Daniel 3:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Daniel 3:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Daniel 3:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Daniel 3:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.644068
+    },
+    {
+      "reference": "Daniel 3:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.984848,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Daniel 3:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.619048
+    },
+    {
+      "reference": "Daniel 3:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Daniel 3:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.528302
+    },
+    {
+      "reference": "Daniel 3:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.633333
+    },
+    {
+      "reference": "Daniel 3:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "Daniel 3:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.55814
+    },
+    {
+      "reference": "Daniel 3:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.509091
+    },
+    {
+      "reference": "Daniel 3:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Daniel 3:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.412698
+    },
+    {
+      "reference": "Daniel 3:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.929577,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Daniel 3:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.759494
+    },
+    {
+      "reference": "Daniel 3:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.659091
+    },
+    {
+      "reference": "Daniel 3:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Daniel 3:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.901961,
+      "after_similarity": 0.652632
+    },
+    {
+      "reference": "Daniel 3:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Daniel 4:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Daniel 4:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Daniel 4:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Daniel 4:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Daniel 4:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.465116
+    },
+    {
+      "reference": "Daniel 4:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.949153,
+      "after_similarity": 0.26087
+    },
+    {
+      "reference": "Daniel 4:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Daniel 4:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.738462
+    },
+    {
+      "reference": "Daniel 4:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.821918
+    },
+    {
+      "reference": "Daniel 4:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.872727,
+      "after_similarity": 0.528302
+    },
+    {
+      "reference": "Daniel 4:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Daniel 4:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72973
+    },
+    {
+      "reference": "Daniel 4:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.577778
+    },
+    {
+      "reference": "Daniel 4:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.828571
+    },
+    {
+      "reference": "Daniel 4:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.674419
+    },
+    {
+      "reference": "Daniel 4:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Daniel 4:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.637363
+    },
+    {
+      "reference": "Daniel 4:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.595238
+    },
+    {
+      "reference": "Daniel 4:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.981132,
+      "after_similarity": 0.742268
+    },
+    {
+      "reference": "Daniel 4:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 4:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.407407
+    },
+    {
+      "reference": "Daniel 4:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.763636
+    },
+    {
+      "reference": "Daniel 4:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.646617
+    },
+    {
+      "reference": "Daniel 4:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.55814
+    },
+    {
+      "reference": "Daniel 4:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.724138
+    },
+    {
+      "reference": "Daniel 4:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.530612
+    },
+    {
+      "reference": "Daniel 4:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.550725
+    },
+    {
+      "reference": "Daniel 4:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 4:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Daniel 4:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.654545
+    },
+    {
+      "reference": "Daniel 4:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.472727
+    },
+    {
+      "reference": "Daniel 4:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.76
+    },
+    {
+      "reference": "Daniel 4:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.649351
+    },
+    {
+      "reference": "Daniel 4:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764045
+    },
+    {
+      "reference": "Daniel 4:35",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.525
+    },
+    {
+      "reference": "Daniel 4:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Daniel 4:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.575758
+    },
+    {
+      "reference": "Daniel 5:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.684211
+    },
+    {
+      "reference": "Daniel 5:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Daniel 5:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Daniel 5:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.965517
+    },
+    {
+      "reference": "Daniel 5:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.626866
+    },
+    {
+      "reference": "Daniel 5:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.55
+    },
+    {
+      "reference": "Daniel 5:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.981132,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Daniel 5:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Daniel 5:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Daniel 5:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56338
+    },
+    {
+      "reference": "Daniel 5:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Daniel 5:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.314286
+    },
+    {
+      "reference": "Daniel 5:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Daniel 5:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Daniel 5:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.542373
+    },
+    {
+      "reference": "Daniel 5:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Daniel 5:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958904,
+      "after_similarity": 0.603175
+    },
+    {
+      "reference": "Daniel 5:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Daniel 5:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.756098
+    },
+    {
+      "reference": "Daniel 5:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.641509
+    },
+    {
+      "reference": "Daniel 5:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.558559
+    },
+    {
+      "reference": "Daniel 5:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Daniel 5:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Daniel 5:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Daniel 5:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Daniel 5:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Daniel 5:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Daniel 5:28",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Daniel 5:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.561404
+    },
+    {
+      "reference": "Daniel 5:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Daniel 5:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Daniel 6:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.411765
+    },
+    {
+      "reference": "Daniel 6:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Daniel 6:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Daniel 6:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.419753
+    },
+    {
+      "reference": "Daniel 6:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.653061
+    },
+    {
+      "reference": "Daniel 6:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Daniel 6:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.98,
+      "after_similarity": 0.483516
+    },
+    {
+      "reference": "Daniel 6:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Daniel 6:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Daniel 6:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Daniel 6:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Daniel 6:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.985075,
+      "after_similarity": 0.661157
+    },
+    {
+      "reference": "Daniel 6:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.630137
+    },
+    {
+      "reference": "Daniel 6:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.472727
+    },
+    {
+      "reference": "Daniel 6:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.724638
+    },
+    {
+      "reference": "Daniel 6:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 6:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Daniel 6:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Daniel 6:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.424242
+    },
+    {
+      "reference": "Daniel 6:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.701299
+    },
+    {
+      "reference": "Daniel 6:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Daniel 6:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Daniel 6:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.617647
+    },
+    {
+      "reference": "Daniel 6:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.55814
+    },
+    {
+      "reference": "Daniel 6:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Daniel 6:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.977273,
+      "after_similarity": 0.708861
+    },
+    {
+      "reference": "Daniel 6:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Daniel 6:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Daniel 7:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.637681
+    },
+    {
+      "reference": "Daniel 7:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.55814
+    },
+    {
+      "reference": "Daniel 7:3",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Daniel 7:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Daniel 7:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Daniel 7:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.688525
+    },
+    {
+      "reference": "Daniel 7:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.715789
+    },
+    {
+      "reference": "Daniel 7:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.701299
+    },
+    {
+      "reference": "Daniel 7:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.938272
+    },
+    {
+      "reference": "Daniel 7:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Daniel 7:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.738462
+    },
+    {
+      "reference": "Daniel 7:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.434783
+    },
+    {
+      "reference": "Daniel 7:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.507463
+    },
+    {
+      "reference": "Daniel 7:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.739726
+    },
+    {
+      "reference": "Daniel 7:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 7:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Daniel 7:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Daniel 7:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Daniel 7:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.540541
+    },
+    {
+      "reference": "Daniel 7:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Daniel 7:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Daniel 7:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.847458
+    },
+    {
+      "reference": "Daniel 7:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "Daniel 7:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.655172
+    },
+    {
+      "reference": "Daniel 7:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.86747
+    },
+    {
+      "reference": "Daniel 7:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Daniel 7:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.853659
+    },
+    {
+      "reference": "Daniel 7:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.618182
+    },
+    {
+      "reference": "Daniel 8:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Daniel 8:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Daniel 8:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.53125
+    },
+    {
+      "reference": "Daniel 8:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.646154
+    },
+    {
+      "reference": "Daniel 8:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.786885
+    },
+    {
+      "reference": "Daniel 8:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Daniel 8:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.660194
+    },
+    {
+      "reference": "Daniel 8:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.646154
+    },
+    {
+      "reference": "Daniel 8:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Daniel 8:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "Daniel 8:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Daniel 8:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Daniel 8:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.756098
+    },
+    {
+      "reference": "Daniel 8:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "Daniel 8:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Daniel 8:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Daniel 8:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Daniel 8:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Daniel 8:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.48
+    },
+    {
+      "reference": "Daniel 8:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Daniel 8:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Daniel 8:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.734694
+    },
+    {
+      "reference": "Daniel 8:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.510638
+    },
+    {
+      "reference": "Daniel 8:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.634921
+    },
+    {
+      "reference": "Daniel 8:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 8:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Daniel 8:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.622951
+    },
+    {
+      "reference": "Daniel 9:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 9:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.694444
+    },
+    {
+      "reference": "Daniel 9:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Daniel 9:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.78125
+    },
+    {
+      "reference": "Daniel 9:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Daniel 9:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.964286
+    },
+    {
+      "reference": "Daniel 9:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Daniel 9:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Daniel 9:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 9:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.653846
+    },
+    {
+      "reference": "Daniel 9:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Daniel 9:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Daniel 9:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.746667
+    },
+    {
+      "reference": "Daniel 9:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Daniel 9:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.788732
+    },
+    {
+      "reference": "Daniel 9:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979167,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Daniel 9:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Daniel 9:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.650602
+    },
+    {
+      "reference": "Daniel 9:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.881356
+    },
+    {
+      "reference": "Daniel 9:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Daniel 9:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Daniel 9:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Daniel 9:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.677966
+    },
+    {
+      "reference": "Daniel 9:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Daniel 9:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.86747
+    },
+    {
+      "reference": "Daniel 9:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.854167
+    },
+    {
+      "reference": "Daniel 9:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 10:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Daniel 10:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Daniel 10:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Daniel 10:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Daniel 10:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Daniel 10:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.783784
+    },
+    {
+      "reference": "Daniel 10:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "Daniel 10:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Daniel 10:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.653846
+    },
+    {
+      "reference": "Daniel 10:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Daniel 10:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.753623
+    },
+    {
+      "reference": "Daniel 10:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.783784
+    },
+    {
+      "reference": "Daniel 10:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972222,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Daniel 10:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Daniel 10:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Daniel 10:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.977778,
+      "after_similarity": 0.617284
+    },
+    {
+      "reference": "Daniel 10:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.653846
+    },
+    {
+      "reference": "Daniel 10:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 10:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.735294
+    },
+    {
+      "reference": "Daniel 10:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.878788
+    },
+    {
+      "reference": "Daniel 10:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964286,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Daniel 11:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Daniel 11:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.977273,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Daniel 11:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Daniel 11:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.741573
+    },
+    {
+      "reference": "Daniel 11:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Daniel 11:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.986301,
+      "after_similarity": 0.744526
+    },
+    {
+      "reference": "Daniel 11:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.566667
+    },
+    {
+      "reference": "Daniel 11:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.65625
+    },
+    {
+      "reference": "Daniel 11:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 11:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.474576
+    },
+    {
+      "reference": "Daniel 11:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647887
+    },
+    {
+      "reference": "Daniel 11:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.54902
+    },
+    {
+      "reference": "Daniel 11:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "Daniel 11:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.793103
+    },
+    {
+      "reference": "Daniel 11:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.735294
+    },
+    {
+      "reference": "Daniel 11:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Daniel 11:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.619048
+    },
+    {
+      "reference": "Daniel 11:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "Daniel 11:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Daniel 11:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.825397
+    },
+    {
+      "reference": "Daniel 11:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Daniel 11:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Daniel 11:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Daniel 11:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 11:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Daniel 11:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Daniel 11:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Daniel 11:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Daniel 11:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Daniel 11:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.974359,
+      "after_similarity": 0.683544
+    },
+    {
+      "reference": "Daniel 11:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Daniel 11:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Daniel 11:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Daniel 11:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.611111
+    },
+    {
+      "reference": "Daniel 11:35",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Daniel 11:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.725
+    },
+    {
+      "reference": "Daniel 11:37",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Daniel 11:38",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.596491
+    },
+    {
+      "reference": "Daniel 11:39",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.677419
+    },
+    {
+      "reference": "Daniel 11:40",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Daniel 11:41",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Daniel 11:42",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Daniel 11:43",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 11:44",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.901961
+    },
+    {
+      "reference": "Daniel 11:45",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Daniel 12:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Daniel 12:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Daniel 12:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.92,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Daniel 12:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Daniel 12:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 12:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Daniel 12:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.739496
+    },
+    {
+      "reference": "Daniel 12:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Daniel 12:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Daniel 12:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Daniel 12:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.693878
+    },
+    {
+      "reference": "Daniel 12:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Daniel 12:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    }
+  ]
+}

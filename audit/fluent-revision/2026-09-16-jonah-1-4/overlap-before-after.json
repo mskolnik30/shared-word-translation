@@ -1,0 +1,355 @@
+{
+  "scope": "Jonah 1–4, all 48 verses.",
+  "verses": 48,
+  "method": "Normalized word sequence; near identical >=0.90 excluding identical. Triage only, not proof of fidelity, originality, or comprehension.",
+  "summary": {
+    "before": {
+      "identical": 1,
+      "near_identical_nonidentical": 13,
+      "mean_word_similarity": 0.830234
+    },
+    "after": {
+      "identical": 0,
+      "near_identical_nonidentical": 3,
+      "mean_word_similarity": 0.707192
+    }
+  },
+  "rows": [
+    {
+      "reference": "Jonah 1:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Jonah 1:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.829268,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Jonah 1:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.907216,
+      "after_similarity": 0.719101
+    },
+    {
+      "reference": "Jonah 1:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.763636,
+      "after_similarity": 0.472727
+    },
+    {
+      "reference": "Jonah 1:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Jonah 1:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.584615,
+      "after_similarity": 0.676923
+    },
+    {
+      "reference": "Jonah 1:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.685714,
+      "after_similarity": 0.59375
+    },
+    {
+      "reference": "Jonah 1:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Jonah 1:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.893617
+    },
+    {
+      "reference": "Jonah 1:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.622951
+    },
+    {
+      "reference": "Jonah 1:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.653846
+    },
+    {
+      "reference": "Jonah 1:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84058,
+      "after_similarity": 0.716418
+    },
+    {
+      "reference": "Jonah 1:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Jonah 1:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.722222,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Jonah 1:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Jonah 1:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.914286
+    },
+    {
+      "reference": "Jonah 1:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978723,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Jonah 2:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Jonah 2:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.867925,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Jonah 2:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.884615,
+      "after_similarity": 0.862745
+    },
+    {
+      "reference": "Jonah 2:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.564103
+    },
+    {
+      "reference": "Jonah 2:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Jonah 2:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918033,
+      "after_similarity": 0.644068
+    },
+    {
+      "reference": "Jonah 2:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Jonah 2:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Jonah 2:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.913043,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Jonah 2:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Jonah 3:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Jonah 3:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Jonah 3:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830189,
+      "after_similarity": 0.44
+    },
+    {
+      "reference": "Jonah 3:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.755556,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Jonah 3:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.93617,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Jonah 3:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.816327,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Jonah 3:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.676471,
+      "after_similarity": 0.567164
+    },
+    {
+      "reference": "Jonah 3:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Jonah 3:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Jonah 3:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Jonah 4:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.416667
+    },
+    {
+      "reference": "Jonah 4:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.803571,
+      "after_similarity": 0.672727
+    },
+    {
+      "reference": "Jonah 4:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878049,
+      "after_similarity": 0.540541
+    },
+    {
+      "reference": "Jonah 4:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Jonah 4:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Jonah 4:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.698413,
+      "after_similarity": 0.590164
+    },
+    {
+      "reference": "Jonah 4:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.717949,
+      "after_similarity": 0.486486
+    },
+    {
+      "reference": "Jonah 4:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.85,
+      "after_similarity": 0.623377
+    },
+    {
+      "reference": "Jonah 4:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.881356
+    },
+    {
+      "reference": "Jonah 4:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.757576
+    },
+    {
+      "reference": "Jonah 4:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.885714,
+      "after_similarity": 0.625
+    }
+  ]
+}

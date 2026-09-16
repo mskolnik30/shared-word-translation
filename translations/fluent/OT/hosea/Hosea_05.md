@@ -4,141 +4,85 @@ testament: OT
 chapter: 5
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-hosea-1-14-biblical-fluency-2026-09-16
 ---
 
-## Judgment on Priests, Israel, and the Royal House
+## Leaders under judgment
 
 <p>
-v01: Hear this, priests!
+v01: “Hear this, priests!
 Pay attention, house of Israel!
-Give ear, house of the king!
-For judgment is for you,
-because you have been a snare at Mizpah
+Listen, royal house!
+Judgment concerns you,
+for you have been a trap at Mizpah
 and a net spread over Tabor.
-
-v02: The rebels have gone deep into slaughter,
-but I am discipline for them all.
-
-v03: I know Ephraim,
-and Israel is not hidden from me.
-For now, Ephraim, you have prostituted yourself;
+v02: The rebels have sunk deep into slaughter,
+but I will discipline them all.
+v03: I know Ephraim;
+Israel is not hidden from me.
+Now you have prostituted yourself, Ephraim;
 Israel is defiled.
-</p>
-
-## Their Deeds Do Not Allow Them to Return
-
-<p>
-v04: Their deeds do not allow them
-to return to their God,
-for a spirit of prostitution is within them,
+v04: Their deeds will not let them
+return to their God.
+A spirit of prostitution is within them,
 and they do not know the LORD.
-
-v05: The pride of Israel testifies to his face;
+v05: Israel’s pride testifies against him.
 Israel and Ephraim stumble in their guilt;
-Judah also stumbles with them.
-
+Judah too stumbles with them.
 v06: With their flocks and herds
 they will go to seek the LORD,
-but they will not find him;
-he has withdrawn from them.
-
-v07: They have acted treacherously against the LORD,
-for they have borne foreign children.
+but they will not find him.
+He has withdrawn from them.
+v07: They have betrayed the LORD;
+they have borne children who are strangers.
 Now a new moon will devour them
-with their portions.
+and their fields.
 </p>
 
-## Blow the Horn
+## The alarm sounds
 
 <p>
 v08: Blow the ram’s horn in Gibeah,
 the trumpet in Ramah!
-Sound the alarm at Beth-Aven!
+Sound the alarm in Beth-aven!
 Behind you, Benjamin!
-
-v09: Ephraim will become a desolation
-on the day of rebuke.
-Among the tribes of Israel
-I reveal what is certain.
-
-v10: The officials of Judah
-have become like people who move a boundary marker.
-Upon them I will pour out
-my fury like water.
-
-v11: Ephraim is oppressed,
-crushed in judgment,
-because he was determined
-to walk after a command.
-
-v12: So I am like a moth to Ephraim
-and like decay
-to the house of Judah.
-</p>
-
-## Ephraim Goes to Assyria
-
-<p>
-v13: When Ephraim saw his sickness
-and Judah his wound,
+v09: Ephraim will become a wasteland
+on the day of reckoning.
+Among Israel’s tribes
+I have announced what is certain.
+v10: Judah’s rulers have become
+like those who move boundary stones.
+I will pour my fury over them like water.
+v11: Ephraim is oppressed, crushed in judgment,
+because he was determined to follow a command.
+v12: I am like a moth to Ephraim,
+like rot to the house of Judah.
+v13: Ephraim saw his sickness
+and Judah his wound.
 Ephraim went to Assyria
-and sent to the great king.
-But he is not able to heal you
+and sent to the contending king.
+But he cannot heal you
 or cure your wound.
-
-v14: For I will be like a lion to Ephraim
-and like a young lion to the house of Judah.
+v14: For I am like a lion to Ephraim,
+like a young lion to the house of Judah.
 I myself will tear and go away;
-I will carry off,
-and no one will rescue.
-
-v15: I will go and return to my place
-until they acknowledge their guilt
-and seek my face.
-In their distress
-they will seek me earnestly.
+I will carry off, and no one will rescue.
+v15: I will go back to my place
+until they acknowledge their guilt and seek my face.
+In their distress they will seek me earnestly.”
 </p>
 
 ## Notes
 
-v01: Mizpah and Tabor may represent cultic or political centers where leaders became a “snare” rather than guides. The exact historical practices are not specified.
+v02,07,11: These lines are difficult: “rebels” and “slaughter,” the devouring “new moon,” and following a “command” preserve readings of the transmitted words. The draft does not silently replace them with proposed emendations.
 
-v02: The Hebrew of this verse is difficult. TSW follows the sense that rebellion has become deeply connected with slaughter while the LORD announces discipline.
-
-v04: “Their deeds do not allow them to return” portrays accumulated behavior as shaping moral incapacity. The people are not merely making isolated mistakes.
-
-v07: “foreign children” likely refers to a generation formed outside covenant faithfulness, though the phrase may also carry marital or cultic overtones.
-
-v10: Moving a boundary marker was an act of theft and violation of inherited land. Judah’s leaders are compared to those who erase rightful boundaries.
-
-v11: The final word translated “command” is uncertain and may refer to a human command, idol, or oppressive decree. TSW retains the broad term.
-
-v13: “great king” translates a difficult royal designation, likely referring to the Assyrian king as a powerful imperial ruler.
-
-v15: The LORD’s withdrawal is purposeful and temporary: judgment continues “until” guilt is acknowledged and the divine face is sought.
+v08,13: “Behind you, Benjamin!” is an abrupt alarm whose precise force is uncertain. “Contending king” renders the unusual epithet yareb; it may be understood as a title or differently divided wording, rather than a known personal name.
 
 ## Vocabulary
 
-v01: מוֹקֵשׁ (moqesh)
-“Snare.” A trap, here describing corrupt leadership.
+v10: **Boundary stones**: Markers of inherited land; moving them wrongfully takes another person’s property.
 
-v02: מוּסָר (musar)
-“Discipline” or “correction.” The LORD’s response to rebellion.
-
-v04: מַעֲלָלִים (ma'alalim)
-“Deeds” or “practices.” Repeated actions shaping the people’s condition.
-
-v05: גָּאוֹן (gaon)
-“Pride.” Israel’s pride becomes testimony against him.
-
-v10: גְּבוּל (gevul)
-“Boundary marker.” A territorial limit not to be moved unjustly.
-
-v12: עָשׁ (ash)
-“Moth.” A quiet image of slow but certain destruction.
-
-v13: מָזוֹר (mazor)
-“Wound” or “sore.” A condition imperial power cannot heal.
-
-v15: שָׁחַר (shachar)
-“To seek earnestly.” To seek early or diligently.
+v15: **Seek my face**: Seek God’s presence and attention.

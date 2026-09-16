@@ -4,235 +4,95 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-daniel-3-12-biblical-fluency-2026-09-16
 ---
 
-## Nebuchadnezzar Announces What the Most High Has Done
+## The king’s proclamation
 
 <p>
-v01: King Nebuchadnezzar, to all peoples, nations, and languages who dwell in all the earth:
-
-May your peace increase.
-
-v02: It has seemed good to me to declare the signs and wonders that the Most High God has done toward me.
-
-v03: How great are his signs,
-and how mighty are his wonders!
+v01: King Nebuchadnezzar, to all peoples, nations, and languages throughout the earth: May your well-being increase!
+v02: I am pleased to tell you about the signs and wonders the Most High God has done for me.
+v03: How great are his signs!
+How mighty his wonders!
 His kingdom is an everlasting kingdom,
-and his rule is from generation to generation.
+and his rule endures through every generation.
 </p>
 
-## The King Dreams of a Great Tree
+## The tree dream
 
 <p>
-v04: I, Nebuchadnezzar, was at ease in my house and flourishing in my palace.
-
-v05: I saw a dream, and it frightened me. The thoughts upon my bed and the visions of my head terrified me.
-
-v06: So a decree went out from me to bring before me all the wise men of Babylon so that they might reveal to me the interpretation of the dream.
-
-v07: Then the magicians, enchanters, Chaldeans, and diviners came in, and I told the dream before them, but they did not make its interpretation known to me.
-
-v08: At last Daniel came in before me, whose name is Belteshazzar according to the name of my god, and in whom is the spirit of the holy gods. I told the dream before him:
-
-v09: “Belteshazzar, chief of the magicians, because I know that the spirit of the holy gods is in you and no mystery is too difficult for you, tell me the visions of my dream that I saw and its interpretation.
-
-v10: These were the visions of my head upon my bed:
-
-I was looking,
-and look, a tree
-was among the earth,
-and its height was great.
-
-v11: The tree grew
-and became strong;
-its height reached to the heavens,
-and it was visible
-to the end of the entire earth.
-
-v12: Its leaves were beautiful,
-and its fruit was abundant,
-and in it was food for all.
-The animals of the field
-found shade under it,
-the birds of the heavens
-dwelt in its branches,
-and all flesh
-was fed from it.
+v04: I, Nebuchadnezzar, was at ease in my home and flourishing in my palace.
+v05: Then I had a dream that frightened me. As I lay in bed, the images and visions in my mind alarmed me.
+v06: I ordered all Babylon’s wise men brought before me to tell me what the dream meant.
+v07: The magicians, enchanters, Chaldeans, and diviners came in. I told them the dream, but they could not tell me its meaning.
+v08: At last Daniel came before me. He is called Belteshazzar, after the name of my god, and the spirit of the holy gods is in him. I told him the dream:
+v09: “Belteshazzar, chief of the magicians, I know that the spirit of the holy gods is in you and no mystery defeats you. Tell me the visions of the dream I saw and their meaning.
+v10: These were the visions in my mind as I lay in bed: I saw a tree in the middle of the earth, enormously tall.
+v11: The tree grew large and strong. Its top reached the heavens, and it could be seen to the ends of the earth.
+v12: Its leaves were beautiful, its fruit abundant, and it held food for all. Wild animals found shade beneath it; the birds of the heavens lived in its branches. Every creature fed from it.
+v13: As I watched the visions in my mind while lying in bed, a watcher, a holy one, came down from heaven.
+v14: He called out loudly: ‘Cut down the tree and lop off its branches! Strip its leaves and scatter its fruit! Let the animals flee from beneath it and the birds from its branches.
+v15: But leave its stump and roots in the ground, bound with iron and bronze among the grass of the field. Let him be drenched with the dew of heaven and share the grass of the earth with the animals.
+v16: Let his human mind be changed and an animal’s mind given to him. Let seven times pass over him.
+v17: This sentence comes by the watchers’ decree, this decision by the holy ones’ command, so the living may know that the Most High rules over human kingdoms. He gives kingship to whomever he wishes and sets even the lowliest of people over it.’
+v18: “This is the dream I, King Nebuchadnezzar, saw. Now you, Belteshazzar, tell me what it means. None of my kingdom’s wise men can explain it to me, but you can, because the spirit of the holy gods is in you.”
 </p>
 
-## A Watcher Commands the Tree to Be Cut Down
+## Daniel’s interpretation
 
 <p>
-v13: “I was looking in the visions of my head upon my bed, and look, a watcher, a holy one, came down from the heavens.
-
-v14: He called with strength and said thus:
-
-‘Cut down the tree
-and cut off its branches;
-strip off its leaves
-and scatter its fruit.
-Let the animals flee
-from under it
-and the birds
-from its branches.
-
-v15: But leave the stump of its roots
-in the earth,
-with a band of iron and bronze,
-among the grass of the field.
-Let him be wet
-with the dew of the heavens,
-and let his portion be with the animals
-in the grass of the earth.
-
-v16: Let his human heart be changed,
-and let the heart of an animal
-be given to him,
-and let seven times
-pass over him.
-
-v17: The sentence is by decree of the watchers,
-and the matter by command
-of the holy ones,
-so that the living may know
-that the Most High rules
-over the kingdom of humanity
-and gives it to whomever he wills
-and sets over it
-the lowliest of people.’
+v19: Then Daniel, called Belteshazzar, was stunned for a while, his thoughts alarming him. The king said, “Belteshazzar, do not let the dream or its meaning alarm you.” Belteshazzar answered, “My lord, may the dream concern those who hate you, and its meaning your enemies!
+v20: The tree you saw, which grew large and strong, whose top reached the heavens and which could be seen throughout the earth—
+v21: with its beautiful leaves, abundant fruit, and food for all, sheltering wild animals beneath it and birds of the heavens in its branches—
+v22: that tree is you, O king. You have grown great and strong. Your greatness has reached the heavens, and your rule the ends of the earth.
+v23: You saw a watcher, a holy one, descend from heaven and say, ‘Cut down the tree and destroy it, but leave its stump and roots in the ground, bound with iron and bronze among the grass of the field. Let him be drenched with heaven’s dew and share life with the wild animals until seven times pass over him.’
+v24: This is its meaning, O king. This is the Most High’s decree that has come upon my lord the king:
+v25: You will be driven from human society and live with the wild animals. You will be made to eat grass like cattle and be drenched with heaven’s dew. Seven times will pass over you, until you know that the Most High rules over human kingdoms and gives kingship to whomever he wishes.
+v26: The command to leave the tree’s stump and roots means your kingdom will remain for you once you know that Heaven rules.
+v27: So, O king, please accept my counsel: break with your sins by doing what is right, and with your wrongs by showing mercy to the poor. Perhaps your well-being may last longer.”
 </p>
 
-## Daniel Is Alarmed by the Dream
+## The king brought low
 
 <p>
-v18: “This dream I, King Nebuchadnezzar, saw. And you, Belteshazzar, tell the interpretation, because all the wise men of my kingdom are not able to make the interpretation known to me, but you are able, because the spirit of the holy gods is in you.”
-
-v19: Then Daniel, whose name was Belteshazzar, was appalled for a moment, and his thoughts terrified him. The king answered and said, “Belteshazzar, do not let the dream or its interpretation terrify you.” Belteshazzar answered and said, “My lord, may the dream be for people who hate you, and its interpretation for your enemies!
+v28: All this happened to King Nebuchadnezzar.
+v29: Twelve months later, he was walking on the roof of the royal palace in Babylon.
+v30: The king said, “Isn’t this great Babylon, which I built as a royal residence by my mighty power and for my majestic glory?”
+v31: While the words were still in the king’s mouth, a voice came from heaven: “King Nebuchadnezzar, this is said to you: Your kingship has been taken away.
+v32: You will be driven from human society and live with the wild animals. You will be made to eat grass like cattle. Seven times will pass over you until you know that the Most High rules over human kingdoms and gives kingship to whomever he wishes.”
+v33: The sentence against Nebuchadnezzar took effect at once. He was driven from human society, ate grass like cattle, and was drenched with heaven’s dew. His hair grew like eagles’ feathers and his nails like birds’ claws.
 </p>
 
-## You Are the Tree
+## Understanding restored
 
 <p>
-v20: “The tree that you saw, which grew and became strong, whose height reached to the heavens and was visible to all the earth,
-
-v21: whose leaves were beautiful and fruit abundant, in which was food for all, under which the animals of the field dwelt, and in whose branches the birds of the heavens lived—
-
-v22: it is you, O king. You have grown and become strong. Your greatness has grown and reaches to the heavens, and your rule to the end of the earth.
-
-v23: And because the king saw a watcher, a holy one, coming down from the heavens and saying, ‘Cut down the tree and destroy it, but leave the stump of its roots in the earth, with a band of iron and bronze, among the grass of the field; let him be wet with the dew of the heavens, and let his portion be with the animals of the field until seven times pass over him’—
-
-v24: this is the interpretation, O king, and this is the decree of the Most High that has come upon my lord the king:
-
-v25: You will be driven away from humanity, and your dwelling will be with the animals of the field. You will be made to eat grass like cattle, and you will be wet with the dew of the heavens. Seven times will pass over you, until you know that the Most High rules over the kingdom of humanity and gives it to whomever he wills.
-
-v26: And as it was commanded to leave the stump of the tree’s roots, your kingdom will be established for you after you know that the heavens rule.
-</p>
-
-## Break with Your Sins by Doing Righteousness
-
-<p>
-v27: “Therefore, O king, let my counsel be pleasing to you: break with your sins by righteousness and your iniquities by showing mercy to the poor, so that perhaps there may be a lengthening of your prosperity.”
-</p>
-
-## The Dream Is Fulfilled
-
-<p>
-v28: All this came upon King Nebuchadnezzar.
-
-v29: At the end of twelve months he was walking upon the royal palace of Babylon.
-
-v30: The king answered and said, “Is this not great Babylon, which I myself have built as a royal house by the strength of my power and for the glory of my majesty?”
-
-v31: While the word was still in the king’s mouth, a voice fell from the heavens: “To you it is spoken, King Nebuchadnezzar: the kingdom has departed from you.
-
-v32: You will be driven away from humanity, and your dwelling will be with the animals of the field. You will be made to eat grass like cattle, and seven times will pass over you until you know that the Most High rules over the kingdom of humanity and gives it to whomever he wills.”
-
-v33: Immediately the word was fulfilled upon Nebuchadnezzar. He was driven away from humanity and ate grass like cattle. His body was wet with the dew of the heavens until his hair grew like eagles’ feathers and his nails like birds’ claws.
-</p>
-
-## Nebuchadnezzar’s Reason Returns
-
-<p>
-v34: “At the end of the days, I, Nebuchadnezzar, lifted my eyes to the heavens, and my reason returned to me. I blessed the Most High and praised and honored the one who lives forever:
-
-For his rule
-is an everlasting rule,
-and his kingdom
-from generation to generation.
-
-v35: All the inhabitants of the earth
-are regarded as nothing,
-and he does according to his will
-among the army of the heavens
-and the inhabitants of the earth.
-There is no one
-who can strike his hand
-or say to him,
-‘What have you done?’
-
-v36: At that time my reason returned to me, and for the glory of my kingdom my majesty and splendor returned to me. My counselors and nobles sought me, and I was established over my kingdom, and extraordinary greatness was added to me.
-
-v37: Now I, Nebuchadnezzar, praise, exalt, and honor the King of the heavens, for all his works are truth and his ways are justice, and people who walk in pride he can humble.”
+v34: At the end of those days, I, Nebuchadnezzar, looked up to heaven, and my reason returned. I blessed the Most High and praised and honored the one who lives forever:
+His rule is everlasting,
+and his kingdom endures through every generation.
+v35: All earth’s inhabitants count as nothing.
+He does as he wishes with heaven’s army
+and those who inhabit the earth.
+No one can hold back his hand
+or ask him, “What have you done?”
+v36: At that time my reason returned. My splendor and majesty returned with the glory of my kingdom. My advisers and nobles sought me out, I was restored to my kingdom, and still greater honor was given to me.
+v37: Now I, Nebuchadnezzar, praise, exalt, and honor the King of heaven. Everything he does is true, and all his ways are just. He is able to humble those who walk in pride.
 </p>
 
 ## Notes
 
-v01: In the Masoretic chapter division Daniel 4 begins at English 3:31. Standard English Bibles number this royal proclamation as Daniel 4:1–3. TSW follows public English numbering.
+v01-03: These verses are numbered 3:31–33 in the pinned Aramaic source. The following verses of this chapter are numbered 4:1–34 there.
 
-v04: “flourishing” translates an Aramaic adjective suggesting vigorous, luxuriant growth, preparing for the tree imagery that follows.
+v08-09,18: “Spirit of the holy gods” preserves the king’s religious language. The Aramaic can also be understood as referring to the holy God; the speaker’s wording is not a new statement by the narrator.
 
-v08–09: Nebuchadnezzar describes Daniel with pagan court language, “the spirit of the holy gods.” Daniel’s own interpretation consistently attributes sovereignty to the Most High.
+v13,16: The “watcher” is a heavenly figure. “Seven times” does not itself specify years.
 
-v13: “watcher” is a distinctive Aramaic term for a heavenly being who watches and announces divine judgment.
-
-v16: “seven times” is intentionally unspecific. It can denote seven periods or seasons; the text does not define their precise duration.
-
-v17: The watchers announce the decree, but verse 24 calls it “the decree of the Most High,” keeping heavenly agency subordinate to divine sovereignty.
-
-v19: Daniel’s alarm shows concern for the king even while announcing judgment against him.
-
-v22: The tree represents Nebuchadnezzar and the extensive reach of his empire, including provision and shelter for many peoples.
-
-v26: “the heavens rule” is a reverential way of speaking of God’s rule, not a claim that impersonal heavens exercise independent sovereignty.
-
-v27: Daniel calls the king toward righteousness expressed concretely through mercy to the poor. The exact relationship between repentance and a possible delay of judgment is left open in “perhaps.”
-
-v30: Nebuchadnezzar’s boast attributes Babylon to his own power and glory, directly contradicting the chapter’s repeated claim that the Most High gives kingdoms.
-
-v33: The narrative describes Nebuchadnezzar in animal-like terms without naming a modern medical diagnosis.
-
-v34: Restoration begins when the king “lifts his eyes to the heavens,” reversing the self-exalting perspective of verse 30.
-
-v37: The chapter closes with the central theme: God can humble those who walk in pride.
+v27: The Aramaic verb can convey breaking off or redeeming. The advice links righteous action with mercy to the poor; it does not explain a system for purchasing forgiveness.
 
 ## Vocabulary
 
-v04: רַעֲנַן (ra'anan)
-“Flourishing” or “luxuriant.” Prosperous and vigorous.
+v17: **Most High**: A title emphasizing God’s supremacy.
 
-v09: רָז (raz)
-“Mystery.” A hidden matter requiring divine revelation.
-
-v13: עִיר (ir)
-“Watcher.” A heavenly being who announces judgment.
-
-v16: עִדָּן (iddan)
-“Time” or “period.” Seven times pass over the king.
-
-v17: שָׁפַל (shafal)
-“Lowly.” The Most High can place the lowliest over kingdoms.
-
-v25: טְרַד (terad)
-“To drive away.” Nebuchadnezzar is removed from human society.
-
-v27: צְדָקָה (tsidqah)
-“Righteousness.” Right conduct, here joined to mercy for the poor.
-
-v27: חֲנַן (chanan)
-“To show mercy.” Compassion toward the poor.
-
-v30: הֲדַר (hadar)
-“Majesty” or “splendor.” Royal glory claimed by Nebuchadnezzar.
-
-v37: גֵּוָה (gevah)
-“Pride.” The disposition God is able to humble.
+v34: **Dominion**: Authority to rule.

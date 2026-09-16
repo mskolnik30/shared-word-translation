@@ -1,13 +1,71 @@
 {
-  "book":"Jonah","chapter":1,"translation":"FLUENT","status":"QA_PASSED","publication_allowed":false,
-  "canonical_tsw_sha":"ed6eeb982ebe2ebc59ac5a96ccd9d51dba9ae8ab",
-  "source":{"id":"OT.OSHB.WLC.2.2","revision":"6a5db28","text":"WLC 4.20 / OSHB v2.2","versification_note":"Public Jonah 1:17 is WLC Jonah 2:1."},
-  "key_decisions":[
-    {"location":"1:2-3","delta":"F2","decision":"Get up / got up preserves qûm repetition while using natural English."},
-    {"location":"1:3","delta":"F1/F2","decision":"Preserve went down repetition and presence-of-the-LORD language."},
-    {"location":"1:4","delta":"F1","decision":"Retain vivid hurl language and repeated great."},
-    {"location":"1:6","delta":"F2","decision":"Perhaps your god will take notice of us; contextual naturalization."},
-    {"location":"1:7-8","delta":"F2","decision":"Trouble rather than moral evil in sailor speech; apparatus retains ra'ah network."},
-    {"location":"1:17","delta":"F3_SOURCE_MAPPING","decision":"Public 1:17 maps to WLC 2:1."}
+  "book": "Jonah",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-jonah-1-4-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+    "path": "audit/exegetical-core/fluent-production/jonah/Jonah_01_review.json"
+  },
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Jonah",
+    "book_verse_count": 48,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jonah.xml",
+    "git_blob_sha": "158c18ecbf3026fa845105d34b8766d89bcd039e",
+    "sha256": "1e1afcc3aaba1399d5c884ee106894c6bfca87c8c81fa57783ab75a923eee17d",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Jonah.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Exact source records mapped to established public labels; mapping is recorded for every verse and verified against source KJV annotations. Daniel, Hosea, Joel, Jonah, Micah, and Nahum have chapter-boundary differences.",
+    "extra_source_references": [],
+    "excluded_source_references": []
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 17,
+    "path": "translations/fluent/OT/jonah/Jonah_01.md",
+    "before_sha256": "eccc29a4dcbb9e7840e0e26cad1bbe6ee6f89fd35f9141e31814108a3938182b",
+    "after_sha256": "2ecfd425b28bc5940f7e7a0e7fa70c615f937cd9dbf3e2fb6a25aa5b7ad6ed6e",
+    "tsw_comparator_path": "books/OT/jonah/Jonah_01.md",
+    "tsw_comparator_sha256": "d0a669042372509fcb206ce9ef7a72812bd8a5b5e2543edce400ea83162badb0"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-jonah-1-4/jonah-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Jonah 1:3",
+      "decision": "Keeps all three Tarshish mentions, both presence clauses, and repeated downward motion central to the narrative.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 1:4",
+      "decision": "Uses hurled to connect divine wind with sailors' later hurling; retains doubled great.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 1:5",
+      "decision": "Preserves each sailor's god, cargo disposal, Jonah's further descent, and sleep contrast.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 1:17",
+      "decision": "Keeps fish unspecified, appointed as recurring verb, and exact duration; maps Hebrew2:1 to public1:17.",
+      "delta": "F3"
+    }
   ]
 }

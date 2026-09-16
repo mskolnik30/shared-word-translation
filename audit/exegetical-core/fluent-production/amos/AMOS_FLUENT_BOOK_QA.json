@@ -1,7 +1,7 @@
 {
   "book": "Amos",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 9,
   "public_verse_slots": 146,
   "included_verse_labels": 146,
@@ -97,5 +97,67 @@
         "blob_sha": "08edda983e72eeb37383c5dce4af18e75093b36e"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "current_revision": {
+    "id": "fluent-amos-1-9-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "verse_count": 146,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-amos-1-9/amos-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+      "path": "audit/exegetical-core/fluent-production/amos/AMOS_FLUENT_BOOK_QA.json"
+    },
+    "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-amos-1-9-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 146,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-amos-1-9/amos-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+        "path": "audit/exegetical-core/fluent-production/amos/AMOS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    }
+  ]
 }

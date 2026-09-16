@@ -1,13 +1,86 @@
 {
-  "book":"Jonah","chapter":4,"translation":"FLUENT","status":"QA_PASSED","publication_allowed":false,
-  "canonical_tsw_sha":"9e49d381f579efe64da252a93ba73018c24e37f3",
-  "source":{"id":"OT.OSHB.WLC.2.2","revision":"6a5db28","text":"WLC 4.20 / OSHB v2.2"},
-  "key_decisions":[
-    {"location":"4:1","delta":"F2/F3","decision":"Greatly displeased; apparatus preserves ra'ah wordplay."},
-    {"location":"4:2","delta":"F1/F2","decision":"Gracious and compassionate; abundant in steadfast love; relents from disaster."},
-    {"location":"4:6","delta":"F2","decision":"Relieve discomfort; apparatus preserves ra'ah connection."},
-    {"location":"4:6-8","delta":"F1","decision":"Preserve appoint repetition across plant, worm, wind."},
-    {"location":"4:10-11","delta":"F1","decision":"Preserve compassion parallel."},
-    {"location":"4:11","delta":"F3_OPEN","decision":"Retain right-hand/left-hand idiom without deciding one interpretation."}
+  "book": "Jonah",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-jonah-1-4-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+    "path": "audit/exegetical-core/fluent-production/jonah/Jonah_04_review.json"
+  },
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Jonah",
+    "book_verse_count": 48,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jonah.xml",
+    "git_blob_sha": "158c18ecbf3026fa845105d34b8766d89bcd039e",
+    "sha256": "1e1afcc3aaba1399d5c884ee106894c6bfca87c8c81fa57783ab75a923eee17d",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Jonah.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Exact source records mapped to established public labels; mapping is recorded for every verse and verified against source KJV annotations. Daniel, Hosea, Joel, Jonah, Micah, and Nahum have chapter-boundary differences.",
+    "extra_source_references": [],
+    "excluded_source_references": []
+  },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 11,
+    "path": "translations/fluent/OT/jonah/Jonah_04.md",
+    "before_sha256": "e24f2b3ae97c5bcc722ebab50257dd4896651f4ec26424c36028aaef3718548c",
+    "after_sha256": "95b92a31562fdb503aa12b28c4e13bd025f7607c5e123973424d9c6447e6fff6",
+    "tsw_comparator_path": "books/OT/jonah/Jonah_04.md",
+    "tsw_comparator_sha256": "37797b93ec7a20f31a5345c17e8c7b1e372097c39458c8cd7eab5b182dc5ba15"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-jonah-1-4/jonah-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Jonah 4:1",
+      "decision": "Retains raah link to evil/disaster as Jonah's evaluation and heat of anger, not narrator endorsement.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 4:2",
+      "decision": "Keeps both names, revealed flight motive, and the complete shared mercy formula as Jonah's complaint.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 4:4",
+      "decision": "Retains the evaluative question with intensity alternative noted.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 4:6",
+      "decision": "Preserves combined divine title, appointed motif, and great delight contrasting great wrong; species left unspecified.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 4:8",
+      "decision": "Preserves appointed third agent and repeated death speech; rare wind adjective noted.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 4:9",
+      "decision": "Repeats the evaluative question and Jonah's intensified self-justification.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 4:11",
+      "decision": "Preserves the open final question, more-than count, unresolved right/left idiom, and final animals.",
+      "delta": "F3"
+    }
   ]
 }

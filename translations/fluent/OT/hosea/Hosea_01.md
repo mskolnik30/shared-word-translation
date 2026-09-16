@@ -4,58 +4,49 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-hosea-1-14-biblical-fluency-2026-09-16
 ---
 
-## The LORD Commands Hosea to Marry
+## Hosea and the children’s names
 
 <p>
-v01: The word of the LORD that came to Hosea son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.
-
-v02: When the LORD began to speak through Hosea, the LORD said to Hosea, "Go, take for yourself a sexually unfaithful wife and have children born from unfaithfulness, for the land commits great sexual unfaithfulness by forsaking the LORD."
-
-v03: So he went and married Gomer daughter of Diblaim, and she conceived and bore him a son.
+v01: The word of the LORD came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Joash, king of Israel.
+v02: When the LORD first spoke through Hosea, the LORD told him, “Go, take a wife of prostitution and children of prostitution, because the land has prostituted itself, turning away from the LORD.”
+v03: So he went and married Gomer daughter of Diblaim. She conceived and bore him a son.
+v04: The LORD told him, “Name him Jezreel. In a little while I will call the house of Jehu to account for the bloodshed at Jezreel, and I will put an end to the kingdom of the house of Israel.
+v05: On that day I will break Israel’s bow in the Valley of Jezreel.”
+v06: She conceived again and bore a daughter. He told Hosea, “Name her Lo-ruhamah, because I will no longer show compassion to the house of Israel. I will certainly not forgive them.
+v07: But I will show compassion to the house of Judah and save them by the LORD their God. I will not save them by bow or sword or battle, by horses or horsemen.”
+v08: After she weaned Lo-ruhamah, she conceived and bore a son.
+v09: He said, “Name him Lo-ammi, because you are not my people, and I will not be yours.”
 </p>
 
-## Hosea Names His Children
+## The names reversed
 
 <p>
-v04: Then the LORD said to him, "Name him Jezreel; for in a little while, I will punish the house of Jehu for the bloodshed of Jezreel, and I will bring an end to the kingdom of the house of Israel.
-
-v05: On that day, I will break the bow of Israel in the Valley of Jezreel."
-</p>
-
-<p>
-v06: She conceived again and bore a daughter. Then the LORD said to him, "Name her Lo-ruhama, for I will no longer have mercy on the house of Israel, to forgive them at all.
-
-v07: Yet I will have mercy on the house of Judah; I will save them by the LORD their God, not by bow, sword, battle, horses, or horsemen."
-</p>
-
-<p>
-v08: When she had weaned Lo-ruhama, she conceived and bore a son.
-
-v09: Then the LORD said, "Name him Lo-ammi, for you are not my people and I am not your God."
-</p>
-
-## The Promise of Restoration
-
-<p>
-v10: Yet the number of the children of Israel will be like the sand of the sea, which cannot be measured or counted. In the place where it was said to them, "You are not my people," it will be said to them, "Children of the living God."
-
-v11: The people of Judah and the people of Israel will be gathered together, and they will appoint one leader and will come up from the land, for great will be the day of Jezreel.
+v10: Yet the people of Israel will be as numerous as the sand of the sea,
+which cannot be measured or counted.
+In the place where they were told, “You are not my people,”
+they will be called “children of the living God.”
+v11: The people of Judah and Israel will gather together
+and appoint one leader over themselves.
+They will come up from the land,
+for great will be the day of Jezreel.
 </p>
 
 ## Notes
 
-v02: The term "whoredom" relates to unfaithfulness, symbolizing Israel's infidelity to God.
+v02-03: “Wife of prostitution” and “children of prostitution” retain the Hebrew’s force. The wording does not settle when Gomer became sexually unfaithful or establish the children’s paternity. The marriage functions as a prophetic sign concerning the land.
 
-v04: Jezreel refers to a location and symbolic event associated with judgment against the house of Jehu.
+v06: The final clause is difficult. This draft reads it as refusal to forgive within the preceding negative statement; “I will certainly take them away” is another understanding.
 
-v06: Lo-ruhama means "not pitied" or "not shown mercy," indicating the withdrawal of God's compassion from Israel.
-
-v09: Lo-ammi means "not my people," signifying the broken covenant relationship.
-
-v10: The promise recalls Abrahamic covenant imagery of descendants as numerous as the sand on the seashore.
-
-v10–11: These verses are numbered 2:1–2 in the Hebrew chapter division.
+v09-11: “I will not be yours” preserves the terse covenant reversal. Verses 10–11 are 2:1–2 in the Hebrew source; the restoration follows the judgment without an added transition scene.
 
 ## Vocabulary
+
+v04: **Jezreel**: “God sows”; also the place associated with the bloodshed named here. Its meaning becomes hopeful in 2:22–23.
+
+v06,09: **Lo-ruhamah; Lo-ammi**: “Not Shown Compassion”; “Not My People.” Their meanings are reversed in the restoration sayings.

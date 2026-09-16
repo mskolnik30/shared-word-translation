@@ -1,7 +1,7 @@
 {
   "book": "Obadiah",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 1,
   "public_verse_slots": 21,
   "included_verse_labels": 21,
@@ -45,5 +45,43 @@
         "blob_sha": "c9669b9078880047d04153029930697a22062942"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1
+  ],
+  "current_revision": {
+    "id": "fluent-obadiah-1-1-biblical-fluency-2026-09-16",
+    "chapters": [
+      1
+    ],
+    "verse_count": 21,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-obadiah-1-1/obadiah-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+      "path": "audit/exegetical-core/fluent-production/obadiah/OBADIAH_FLUENT_BOOK_QA.json"
+    },
+    "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-obadiah-1-1-biblical-fluency-2026-09-16",
+      "chapters": [
+        1
+      ],
+      "verse_count": 21,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-obadiah-1-1/obadiah-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+        "path": "audit/exegetical-core/fluent-production/obadiah/OBADIAH_FLUENT_BOOK_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    }
+  ]
 }

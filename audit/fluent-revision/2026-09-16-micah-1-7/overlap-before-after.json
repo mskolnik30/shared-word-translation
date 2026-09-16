@@ -1,0 +1,754 @@
+{
+  "scope": "Micah 1–7, all 105 verses.",
+  "verses": 105,
+  "method": "Normalized word sequence; near identical >=0.90 excluding identical. Triage only, not proof of fidelity, originality, or comprehension.",
+  "summary": {
+    "before": {
+      "identical": 54,
+      "near_identical_nonidentical": 39,
+      "mean_word_similarity": 0.966494
+    },
+    "after": {
+      "identical": 1,
+      "near_identical_nonidentical": 9,
+      "mean_word_similarity": 0.730747
+    }
+  },
+  "rows": [
+    {
+      "reference": "Micah 1:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.877193
+    },
+    {
+      "reference": "Micah 1:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "Micah 1:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Micah 1:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Micah 1:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.630137
+    },
+    {
+      "reference": "Micah 1:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964286,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Micah 1:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.930233,
+      "after_similarity": 0.582278
+    },
+    {
+      "reference": "Micah 1:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Micah 1:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Micah 1:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Micah 1:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Micah 1:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Micah 1:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.690909
+    },
+    {
+      "reference": "Micah 1:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Micah 1:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Micah 1:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.542373
+    },
+    {
+      "reference": "Micah 2:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Micah 2:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.893617
+    },
+    {
+      "reference": "Micah 2:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.911765,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Micah 2:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95122,
+      "after_similarity": 0.55
+    },
+    {
+      "reference": "Micah 2:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "Micah 2:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.473684
+    },
+    {
+      "reference": "Micah 2:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Micah 2:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Micah 2:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Micah 2:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Micah 2:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Micah 2:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97619,
+      "after_similarity": 0.753247
+    },
+    {
+      "reference": "Micah 2:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.90625
+    },
+    {
+      "reference": "Micah 3:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.977778,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Micah 3:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Micah 3:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.763636
+    },
+    {
+      "reference": "Micah 3:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Micah 3:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.567164
+    },
+    {
+      "reference": "Micah 3:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.870968,
+      "after_similarity": 0.607143
+    },
+    {
+      "reference": "Micah 3:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Micah 3:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Micah 3:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.862745
+    },
+    {
+      "reference": "Micah 3:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Micah 3:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.975,
+      "after_similarity": 0.763158
+    },
+    {
+      "reference": "Micah 3:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Micah 4:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.405797
+    },
+    {
+      "reference": "Micah 4:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964912,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Micah 4:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.729412
+    },
+    {
+      "reference": "Micah 4:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.581818
+    },
+    {
+      "reference": "Micah 4:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.981132
+    },
+    {
+      "reference": "Micah 4:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Micah 4:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Micah 4:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.730769
+    },
+    {
+      "reference": "Micah 4:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Micah 4:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.938776,
+      "after_similarity": 0.659341
+    },
+    {
+      "reference": "Micah 4:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Micah 4:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.693878
+    },
+    {
+      "reference": "Micah 4:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97619,
+      "after_similarity": 0.825
+    },
+    {
+      "reference": "Micah 5:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Micah 5:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Micah 5:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.793103
+    },
+    {
+      "reference": "Micah 5:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Micah 5:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.25
+    },
+    {
+      "reference": "Micah 5:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.945946,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Micah 5:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.898551,
+      "after_similarity": 0.523077
+    },
+    {
+      "reference": "Micah 5:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.929293,
+      "after_similarity": 0.581395
+    },
+    {
+      "reference": "Micah 5:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Micah 5:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Micah 5:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Micah 5:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Micah 5:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Micah 5:14",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Micah 5:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Micah 6:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Micah 6:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "Micah 6:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.967742
+    },
+    {
+      "reference": "Micah 6:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Micah 6:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Micah 6:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Micah 6:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.970588,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Micah 6:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.819672
+    },
+    {
+      "reference": "Micah 6:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.553191
+    },
+    {
+      "reference": "Micah 6:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.611111
+    },
+    {
+      "reference": "Micah 6:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Micah 6:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Micah 6:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.516129
+    },
+    {
+      "reference": "Micah 6:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90625,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Micah 6:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.826087
+    },
+    {
+      "reference": "Micah 6:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.977273,
+      "after_similarity": 0.634146
+    },
+    {
+      "reference": "Micah 7:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.558824
+    },
+    {
+      "reference": "Micah 7:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "Micah 7:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.644068
+    },
+    {
+      "reference": "Micah 7:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Micah 7:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Micah 7:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.819672
+    },
+    {
+      "reference": "Micah 7:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Micah 7:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Micah 7:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.973684,
+      "after_similarity": 0.805556
+    },
+    {
+      "reference": "Micah 7:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.958904
+    },
+    {
+      "reference": "Micah 7:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Micah 7:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Micah 7:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Micah 7:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.929577,
+      "after_similarity": 0.686567
+    },
+    {
+      "reference": "Micah 7:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Micah 7:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Micah 7:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897436,
+      "after_similarity": 0.675676
+    },
+    {
+      "reference": "Micah 7:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.825397
+    },
+    {
+      "reference": "Micah 7:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Micah 7:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.744186
+    }
+  ]
+}

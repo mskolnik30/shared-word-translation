@@ -1,11 +1,61 @@
 {
-  "book":"Jonah","chapter":2,"translation":"FLUENT","status":"QA_PASSED","publication_allowed":false,
-  "canonical_tsw_sha":"d449a6b22943dc2fcbb636dcdeb45d2072814d8f",
-  "source":{"id":"OT.OSHB.WLC.2.2","revision":"6a5db28","text":"WLC 4.20 / OSHB v2.2","versification_note":"Public Jonah 2:1-10 are WLC Jonah 2:2-11."},
-  "key_decisions":[
-    {"location":"2:2-7","delta":"F1/F2","decision":"Naturalize poetic syntax without flattening descent/death imagery."},
-    {"location":"2:8","delta":"F3","decision":"Retain TSW covenant-loyalty reading while marking Hebrew ambiguity."},
-    {"location":"2:9","delta":"F1","decision":"Retain Salvation belongs to the LORD."},
-    {"location":"2:1-10","delta":"F3_SOURCE_MAPPING","decision":"Public 2:1-10 map to WLC 2:2-11."}
+  "book": "Jonah",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-jonah-1-4-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+    "path": "audit/exegetical-core/fluent-production/jonah/Jonah_02_review.json"
+  },
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Jonah",
+    "book_verse_count": 48,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Jonah.xml",
+    "git_blob_sha": "158c18ecbf3026fa845105d34b8766d89bcd039e",
+    "sha256": "1e1afcc3aaba1399d5c884ee106894c6bfca87c8c81fa57783ab75a923eee17d",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Jonah.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Exact source records mapped to established public labels; mapping is recorded for every verse and verified against source KJV annotations. Daniel, Hosea, Joel, Jonah, Micah, and Nahum have chapter-boundary differences.",
+    "extra_source_references": [],
+    "excluded_source_references": []
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 10,
+    "path": "translations/fluent/OT/jonah/Jonah_02.md",
+    "before_sha256": "bd27e79cfecf84aa1adfe0391cdf954bdc76480d0286791b67aacf2efd6d8867",
+    "after_sha256": "033a293086ba2ca4511c58d544b3fbf87c4a89b21c9d18556cdcbb48f49c8a97",
+    "tsw_comparator_path": "books/OT/jonah/Jonah_02.md",
+    "tsw_comparator_sha256": "3342a3acc65ef432b4107cf0d289cc1c36f26ebc5697ca74b5b1eb20aee1d718"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-jonah-1-4/jonah-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Jonah 2:4",
+      "decision": "Chooses yet-affirmation while noting possible question; retains temple orientation.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Jonah 2:8",
+      "decision": "Retains ambiguous their hesed rather than deciding only grace offered them or loyalty owed.",
+      "delta": "F3"
+    }
   ]
 }

@@ -1,0 +1,98 @@
+[
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-daniel-3-12/daniel-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/sources79/daniel-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 10,\n  \"verses\": 287,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-hosea-1-14/hosea-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/sources79/hosea-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 14,\n  \"verses\": 197,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-joel-1-3/joel-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/sources79/joel-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 3,\n  \"verses\": 73,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-amos-1-9/amos-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/sources79/amos-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 9,\n  \"verses\": 146,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-obadiah-1-1/obadiah-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/sources79/obadiah-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 1,\n  \"verses\": 21,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-jonah-1-4/jonah-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/sources79/jonah-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 4,\n  \"verses\": 48,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-micah-1-7/micah-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/sources79/micah-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 7,\n  \"verses\": 105,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-nahum-1-2/nahum-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/sources79/nahum-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 2,\n  \"verses\": 28,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  }
+]

@@ -4,173 +4,87 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-amos-1-9-biblical-fluency-2026-09-16
 ---
 
-## Hear This Word, Cows of Bashan
+## Luxury and oppression
 
 <p>
-v01: Hear this word,
-cows of Bashan
-who are on the mountain of Samaria,
-who oppress the poor,
-who crush the needy,
-who say to their husbands,
-“Bring, so that we may drink!”
-
-v02: The Lord GOD has sworn
-by his holiness:
-
-Look, days are coming upon you
-when they will take you away with hooks
-and the last of you
-with fishhooks.
-
-v03: You will go out through breaches,
+v01: Hear this word, you cows of Bashan on Samaria’s mountain,
+you women who oppress the poor and crush the needy,
+who say to your husbands, ‘Bring us something to drink!’
+v02: The Lord GOD has sworn by his holiness:
+“Days are coming upon you
+when you will be carried away with hooks,
+the last of you with fishhooks.
+v03: You will go out through breaches in the wall,
 each woman straight ahead,
-and you will be cast out toward Harmon,
-says the LORD.
+and you will be flung toward Harmon,” declares the LORD.
 </p>
 
-## Come to Bethel and Transgress
+## Worship and rebellion
 
 <p>
-v04: Come to Bethel and transgress;
-at Gilgal multiply transgression.
-Bring your sacrifices in the morning,
-your tithes every three days.
-
-v05: Burn a thanksgiving offering with leaven
-and proclaim freewill offerings;
-make them known,
-for so you love to do,
-children of Israel,
-says the Lord GOD.
+v04: “Go to Bethel and rebel!
+Go to Gilgal and multiply rebellion!
+Bring your sacrifices every morning
+and your tithes every three days.
+v05: Burn a thank offering of leavened bread;
+proclaim freewill offerings—announce them!
+For that is what you love, people of Israel,”
+declares the Lord GOD.
 </p>
 
-## Yet You Did Not Return to Me
+## Yet you did not return
 
 <p>
-v06: I also gave you cleanness of teeth
-in all your cities
-and lack of bread
-in all your places;
-yet you did not return to me,
-says the LORD.
-
-v07: I also withheld the rain from you
-when there were still three months until harvest.
-I made it rain upon one city
-and did not make it rain upon another city.
-One field was rained upon,
-and the field on which it did not rain
-dried up.
-
-v08: Two or three cities wandered
-to one city to drink water
-and were not satisfied;
-yet you did not return to me,
-says the LORD.
-
-v09: I struck you with blight and mildew.
-The locust devoured
-the multitude of your gardens,
-your vineyards,
-your fig trees,
-and your olive trees;
-yet you did not return to me,
-says the LORD.
-
-v10: I sent among you a plague
-like the plague of Egypt.
+v06: “I gave you clean teeth in all your cities
+and no bread in any of your settlements.
+Yet you did not return to me,” declares the LORD.
+v07: “I also withheld rain from you
+when harvest was still three months away.
+I sent rain on one city but not another.
+One field received rain;
+the field without rain dried up.
+v08: People from two or three cities staggered to one city for water,
+but they could not drink their fill.
+Yet you did not return to me,” declares the LORD.
+v09: “I struck you with blight and mildew.
+The cutting locust ate your many gardens and vineyards,
+your fig trees and olive trees.
+Yet you did not return to me,” declares the LORD.
+v10: “I sent pestilence among you as in Egypt.
 I killed your young men with the sword,
-along with the capture of your horses.
-I made the stench of your camp
-rise into your nostrils;
-yet you did not return to me,
-says the LORD.
-
-v11: I overthrew some among you
-as God overthrew Sodom and Gomorrah,
-and you were like a burning stick
-snatched from the fire;
-yet you did not return to me,
-says the LORD.
-</p>
-
-## Prepare to Meet Your God
-
-<p>
-v12: So thus I will do to you, Israel.
+and your horses were captured.
+I made the stench of your camps rise into your nostrils.
+Yet you did not return to me,” declares the LORD.
+v11: “I overthrew some of you
+as God overthrew Sodom and Gomorrah.
+You were like a charred stick snatched from a fire.
+Yet you did not return to me,” declares the LORD.
+v12: “So this is what I will do to you, Israel.
 Because I will do this to you,
-prepare to meet your God, Israel!
-
-v13: For look,
-the one who forms the mountains
-and creates the wind,
-who declares to humanity
-what his thought is,
-who makes dawn into darkness
-and treads upon the heights of the earth—
-the LORD, the God of Hosts,
-is his name.
+prepare to meet your God, Israel!”
+v13: Look: he forms the mountains and creates the wind;
+he tells human beings what his thought is.
+He turns dawn to darkness
+and treads the heights of the earth.
+The LORD, the God of Armies, is his name.
 </p>
 
 ## Notes
 
-v01: “cows of Bashan” addresses wealthy women of Samaria through imagery of the well-fed cattle for which Bashan was famous. Their luxury is linked directly to oppression of poor and needy people.
+v01-03: The feminine forms address women through the insulting image “cows of Bashan.” The terms rendered hooks have other proposed meanings, and Harmon is an uncertain destination. The captive women’s humiliation is retained.
 
-v02: The fishing-hook imagery turns Samaria’s privileged inhabitants into captured prey destined for removal.
+v04-05: The commands are sarcastic: more worship accompanies more rebellion. “Every three days” follows the text rather than changing it to the three-year tithe schedule elsewhere.
 
-v03: “Harmon” is a difficult Hebrew place-name or term whose location and meaning are uncertain. TSW transliterates rather than replacing it with a conjectural destination.
-
-v04–05: Amos speaks with biting irony: Israel is invited to intensify religious activity precisely because the worship at Bethel and Gilgal has become transgression.
-
-v04: “every three days” follows the ordinary sense of the Hebrew phrase. Some interpreters understand a longer cycle, but the prophetic satire favors exaggerated frequency.
-
-v05: Leaven was excluded from some altar offerings but permitted with particular thanksgiving offerings. Amos’s criticism is not of enthusiasm itself but of worship loved without covenant faithfulness.
-
-v06: “cleanness of teeth” means lack of food, not hygiene. Empty teeth become an image of famine.
-
-v06–11: The refrain “yet you did not return to me” interprets famine, drought, crop failure, plague, war, and near-destruction as warnings that failed to produce repentance.
-
-v07–08: The uneven rainfall creates localized survival and scarcity, so whole towns wander in search of water.
-
-v10: “capture of your horses” is compressed Hebrew and may refer to horses taken in battle while young men fall by the sword.
-
-v11: “burning stick snatched from the fire” pictures a narrow survival from destruction rather than unharmed escape.
-
-v13: “what his thought is” may refer to God revealing divine thought to humanity or exposing a person’s thought. The Hebrew pronouns allow ambiguity, which TSW preserves.
-
-v13: The phrase “what his thought is” may refer to God revealing divine thought to humanity or exposing a person’s thought. The Hebrew pronouns allow both readings.
+v13: “His thought” may concern God’s thought or a human being’s thought. The Hebrew does not fully resolve the pronoun.
 
 ## Vocabulary
 
-v01: עָשַׁק (ashaq)
-“To oppress.” To exploit someone with less power.
+v06: **Clean teeth**: An image of having nothing to eat, explained by the parallel lack of bread.
 
-v01: רָצַץ (ratsats)
-“To crush.” Violent treatment of the needy.
-
-v02: צִנָּה (tsinnah)
-“Hook.” An instrument used for taking captives in the prophetic image.
-
-v05: נְדָבָה (nedavah)
-“Freewill offering.” A voluntary offering publicly celebrated.
-
-v06: נִקְיוֹן שִׁנַּיִם (niqyon shinnayim)
-“Cleanness of teeth.” An idiom for famine.
-
-v07: מָנַע (mana)
-“To withhold.” The LORD withholds rain.
-
-v09: שִׁדָּפוֹן (shiddafon)
-“Blight.” Crop damage associated with scorching or disease.
-
-v09: יֵרָקוֹן (yeraqon)
-“Mildew” or crop pallor.
-
-v11: אוּד (ud)
-“Burning stick.” A piece of wood pulled from fire.
-
-v13: צָבָא (tsava)
-“Hosts.” The LORD is God of heavenly and earthly armies.
+v06,08-11: **Return**: The unchanged refrain links five episodes of distress to the people’s failure to respond.

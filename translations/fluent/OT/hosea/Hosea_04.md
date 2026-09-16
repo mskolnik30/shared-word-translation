@@ -4,174 +4,100 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-hosea-1-14-biblical-fluency-2026-09-16
 ---
 
-## The LORD Has a Case against the Land
+## The LORD’s case against the land
 
 <p>
-v01: Hear the word of the LORD, children of Israel, for the LORD has a case against the inhabitants of the land:
-
-“There is no faithfulness,
-no steadfast love,
-and no knowledge of God
-in the land.
-
-v02: Swearing and lying,
-murder and stealing
-and adultery break out;
-bloodshed touches bloodshed.
-
-v03: So the land mourns,
-and everyone who lives in it languishes,
-with the animals of the field
-and the birds of the heavens;
-even the fish of the sea
-are taken away.
-</p>
-
-## My People Are Destroyed for Lack of Knowledge
-
-<p>
-v04: Yet let no one contend,
-and let no one accuse,
-for your people are like those
-who contend with a priest.
-
+v01: Hear the word of the LORD, people of Israel!
+The LORD has a case against those who live in the land:
+there is no truthfulness, no faithful love,
+and no knowledge of God in the land.
+v02: Cursing and lying, murder and theft and adultery—
+they burst every boundary,
+and bloodshed follows bloodshed.
+v03: That is why the land mourns
+and everyone who lives in it wastes away,
+along with the wild animals and birds of the sky.
+Even the fish of the sea are swept away.
+v04: “Yet let no one bring a case;
+let no one make an accusation.
+Your people are like those who bring a case against a priest.
 v05: You will stumble by day,
-and the prophet also will stumble with you by night;
-and I will destroy your mother.
-
-v06: My people are destroyed
-for lack of knowledge.
-Because you rejected knowledge,
-I reject you from serving as priest to me.
-Since you forgot the instruction of your God,
-I also will forget your children.
-</p>
-
-## Priests Feed on the Sin of the People
-
-<p>
-v07: The more they multiplied,
-the more they sinned against me;
-I will exchange their glory
-for shame.
-
-v08: They feed on the sin of my people
-and lift up their appetite
-toward their guilt.
-
-v09: And it will be:
-like people, like priest.
-I will attend to them
-for their ways
-and repay them
-for their deeds.
-
-v10: They will eat
-but not be satisfied;
-they will prostitute themselves
-but not multiply,
-because they have abandoned
-giving heed to the LORD.
-</p>
-
-## Wine and Prostitution Take Away the Heart
-
-<p>
+and the prophet will stumble with you by night.
+I will destroy your mother.
+v06: My people are destroyed for lack of knowledge.
+Because you have rejected knowledge,
+I reject you from serving as my priest.
+Because you have forgotten your God’s instruction,
+I too will forget your children.
+v07: The more they increased,
+the more they sinned against me.
+I will exchange their honor for disgrace.
+v08: They feed on my people’s sin
+and set their hearts on their guilt.
+v09: It will be the same for people and priest.
+I will call them to account for their ways
+and repay them for their deeds.
+v10: They will eat but not be satisfied;
+they will prostitute themselves but not increase,
+because they have abandoned the LORD
+and ceased to keep faith with him.
 v11: Prostitution, wine, and new wine
-take away the heart.
-
-v12: My people inquire of their wood,
-and their staff gives them an answer.
-For a spirit of prostitution leads them astray,
-and they prostitute themselves
-away from their God.
-
-v13: They sacrifice on the tops of the mountains
-and burn incense on the hills,
-under oak and poplar and terebinth,
-because their shade is good.
-So your daughters prostitute themselves,
-and your daughters-in-law commit adultery.
-
-v14: I will not attend to your daughters
-when they prostitute themselves,
-or your daughters-in-law
-when they commit adultery,
-for the men themselves go aside with prostitutes
-and sacrifice with cult prostitutes.
-A people without understanding
-will be ruined.
+take away understanding.
 </p>
 
-## Do Not Go Up to Beth-Aven
+## Worship without understanding
 
 <p>
+v12: My people consult a piece of wood;
+a stick tells them what to do!
+A spirit of prostitution has led them astray,
+and they have prostituted themselves, leaving their God.
+v13: They sacrifice on the mountaintops
+and burn offerings on the hills,
+under oak, poplar, and terebinth,
+because their shade is pleasant.
+That is why your daughters prostitute themselves
+and your daughters-in-law commit adultery.
+v14: I will not punish your daughters for prostitution
+or your daughters-in-law for adultery,
+for the men themselves go off with prostitutes
+and sacrifice with women devoted to a shrine.
+A people without understanding comes to ruin.
 v15: Though you prostitute yourself, Israel,
 let Judah not become guilty.
-Do not come to Gilgal,
-and do not go up to Beth-Aven,
-and do not swear,
-“As the LORD lives!”
-
-v16: For Israel is stubborn
-like a stubborn heifer.
+Do not go to Gilgal
+or go up to Beth-aven.
+Do not swear, ‘As the LORD lives!’
+v16: Israel is stubborn, like a stubborn heifer.
 Can the LORD now pasture them
-like a lamb in a broad place?
-
-v17: Ephraim is joined to idols;
-leave him alone.
-
-v18: Their drink is gone;
+like a lamb in an open meadow?
+v17: Ephraim is bound to idols.
+Leave him alone.
+v18: When their drinking is over,
 they give themselves to prostitution.
-Her rulers dearly love shame.
-
+Her rulers dearly love disgrace.
 v19: A wind has wrapped her in its wings,
-and they will be ashamed
-because of their sacrifices.
+and they will be ashamed of their sacrifices.”
 </p>
 
 ## Notes
 
-v01: “case” translates covenant-lawsuit language. The LORD’s dispute concerns the collapse of faithfulness, steadfast love, and knowledge of God within the land.
+v04,07: Verse 4 follows the transmitted comparison with people who contend against a priest; its syntax is disputed. Verse 7 retains God as the one exchanging honor for shame, rather than substituting another textual reading.
 
-v03: Human violence and ecological collapse are held together. Land, animals, birds, and fish all suffer within the covenant crisis.
+v08,10-11: “Sin” can also mean a sin offering, giving “feed on sin” a pointed double sense. The end of verse 10 is difficult and may be connected differently with verse 11.
 
-v06: “knowledge” is not mere information. Rejecting knowledge of God includes rejecting the instruction that shapes covenant life.
+v14: The Hebrew calls the women qedeshot, women set apart in a religious setting. Their precise role is uncertain; the translation does not assume a settled category of temple prostitution. The men’s conduct is explicitly part of the accusation.
 
-v08: “feed on the sin of my people” may refer to priests benefiting from offerings connected with sin and therefore perversely desiring more guilt.
-
-v12: The staff likely refers to divination. The people seek guidance from objects rather than from the LORD.
-
-v14: The judgment refuses a double standard in which women alone bear responsibility for sexual and cultic unfaithfulness; the men’s participation is explicitly named.
-
-v15: “Beth-Aven,” meaning “house of wickedness” or “house of trouble,” is a polemical renaming of Bethel, “house of God.”
-
-v17: “leave him alone” is a severe prophetic abandonment formula directed toward Ephraim’s attachment to idols.
+v16,18: The pasture clause can be read as a question or a statement. Verse 18 has compressed and unusual wording; the draft preserves the rulers’ attachment to disgrace without claiming certainty about each phrase.
 
 ## Vocabulary
 
-v01: רִיב (riv)
-“Case,” “controversy,” or “lawsuit.” Legal language for the LORD’s charge against the land.
+v15: **Beth-aven**: “House of wickedness” or “worthlessness,” used polemically in the setting of worship associated with Bethel.
 
-v01: אֱמֶת (emet)
-“Faithfulness” or “truth.” Reliability in relationship and conduct.
-
-v01: חֶסֶד (ḥesed)
-“Steadfast love.” Loyal, enduring covenant love.
-
-v01: דַּעַת אֱלֹהִים (da'at Elohim)
-“Knowledge of God.” Relational and covenantal knowing.
-
-v06: תּוֹרָה (torah)
-“Instruction.” The teaching of God rejected by priests and people.
-
-v12: רוּחַ זְנוּנִים (ruach zenunim)
-“Spirit of prostitution.” A metaphor for persistent covenantal unfaithfulness.
-
-v15: בֵּית אָוֶן (Bet-Aven)
-“House of wickedness/trouble.” Hosea’s polemical name for Bethel.
-
-v17: חָבַר (chavar)
-“To join” or “bind oneself.” Ephraim is joined to idols.
+v17: **Ephraim**: The name of a tribe, frequently used here for the northern kingdom of Israel.

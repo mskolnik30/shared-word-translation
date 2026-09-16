@@ -1,7 +1,7 @@
 {
   "book": "Nahum",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 3,
   "public_verse_slots": 47,
   "included_verse_labels": 47,
@@ -58,5 +58,46 @@
         "blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2
+  ],
+  "current_revision": {
+    "id": "fluent-nahum-1-2-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2
+    ],
+    "verse_count": 28,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-nahum-1-2/nahum-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+      "path": "audit/exegetical-core/fluent-production/nahum/NAHUM_FLUENT_BOOK_QA.json"
+    },
+    "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-nahum-1-2-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2
+      ],
+      "verse_count": 28,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-nahum-1-2/nahum-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+        "path": "audit/exegetical-core/fluent-production/nahum/NAHUM_FLUENT_BOOK_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    }
+  ]
 }

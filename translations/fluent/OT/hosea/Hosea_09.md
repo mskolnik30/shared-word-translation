@@ -4,176 +4,93 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-hosea-1-14-biblical-fluency-2026-09-16
 ---
 
-## Do Not Rejoice, Israel
+## The harvest and the exile
 
 <p>
-v01: Do not rejoice, Israel,
-with exultation like the peoples,
-for you have prostituted yourself
-away from your God.
-You have loved a prostitute’s wages
-on every threshing floor.
-
-v02: Threshing floor and winepress
-will not feed them,
-and new wine will fail her.
-
-v03: They will not remain
-in the land of the LORD.
+v01: Do not rejoice, Israel;
+do not celebrate like the peoples.
+You have prostituted yourself, leaving your God;
+you have loved a prostitute’s wages
+on every grain-threshing floor.
+v02: Threshing floor and winepress will not feed them;
+new wine will fail her.
+v03: They will not remain in the LORD’s land.
 Ephraim will return to Egypt,
-and in Assyria
-they will eat unclean food.
-</p>
-
-## No Offerings in the LORD’s House
-
-<p>
-v04: They will not pour out wine offerings
-to the LORD,
+and in Assyria they will eat unclean food.
+v04: They will pour out no wine for the LORD,
 and their sacrifices will not please him.
-Their bread will be like the bread of mourning;
-everyone who eat it will become unclean.
-For their bread will be for their own hunger;
-it will not come
-into the house of the LORD.
-
-v05: What will you do
-on the day of appointed festival,
-on the day of the feast of the LORD?
-
-v06: For look, they go away from destruction.
-Egypt will gather them;
-Memphis will bury them.
-Nettles will possess
-their precious things of silver;
-thorns will be in their tents.
-</p>
-
-## The Days of Visitation Have Come
-
-<p>
-v07: The days of visitation have come;
+Their food will be like mourners’ bread:
+all who eat it will become unclean.
+Their bread will be only for their own hunger;
+it will not enter the house of the LORD.
+v05: What will you do on the appointed day,
+on the day of the LORD’s festival?
+v06: Look, even if they escape devastation,
+Egypt will gather them; Memphis will bury them.
+Nettles will take over their precious silver,
+and thorns their tents.
+v07: The days of reckoning have come;
 the days of repayment have come.
 Israel will know it.
-The prophet is a fool;
-the man of the spirit is mad—
-because of the greatness of your guilt
-and the greatness of hostility.
-
-v08: Ephraim’s watchman
-is with my God;
-the prophet finds
-a fowler’s snare on all his ways,
-and hostility
-in the house of his God.
-
-v09: They have deeply corrupted themselves
+“The prophet is a fool;
+the man of the spirit is mad!”
+So great is your guilt, so great your hostility.
+v08: The prophet is Ephraim’s watchman with my God,
+yet a birdcatcher’s trap lies on all his paths,
+and hostility fills the house of his God.
+v09: They have sunk deep into corruption,
 as in the days of Gibeah.
-He will remember their guilt;
-he will attend to their sins.
+He will remember their guilt
+and punish their sins.
 </p>
 
-## Like Grapes in the Wilderness
+## Fruit that withers
 
 <p>
-v10: Like grapes in the wilderness
-I found Israel;
-like the first fruit on the fig tree
-in its first season
-I saw your ancestors.
-But they came to Baal-Peor
-and consecrated themselves to Shame,
-and they became detestable
-like the thing they loved.
-
-v11: Ephraim’s glory
-will fly away like a bird—
-no birth,
-no pregnancy,
-no conception.
-
-v12: Even if they raise their children,
-I will bereave them
-until no one remains.
-Indeed, woe to them
-when I turn away from them!
-
-v13: Ephraim, as I saw him,
-was like Tyre planted in a meadow,
-but Ephraim must bring out
-his children to the killer.
-
-v14: Give them, O LORD—
-what will you give?
-Give them a womb that miscarries
-and breasts that are dry.
-</p>
-
-## All Their Evil Is at Gilgal
-
-<p>
-v15: “All their evil is at Gilgal;
+v10: “I found Israel like grapes in the wilderness.
+I saw your ancestors like the first fruit on a young fig tree.
+But they came to Baal-peor
+and devoted themselves to Shame.
+They became as detestable as what they loved.
+v11: Ephraim’s glory will fly away like a bird—
+no birth, no pregnancy, no conception.
+v12: Even if they raise children,
+I will bereave them until no one is left.
+Woe to them when I depart from them!
+v13: Ephraim, as I saw him, was like Tyre, planted in a pleasant place.
+Yet Ephraim must bring his children out to a killer.”
+v14: Give them, LORD—what will you give?
+Give them a miscarrying womb
+and breasts that have dried up.
+v15: “All their evil was at Gilgal;
 there I came to hate them.
-Because of the evil of their deeds
+For the evil of their deeds
 I will drive them from my house.
-I will love them no more;
-all their officials are rebels.
-
-v16: Ephraim is struck;
-their root is dried up;
-they will bear no fruit.
+I will love them no longer;
+all their rulers are rebels.
+v16: Ephraim is struck down;
+their root has dried up, and they will bear no fruit.
 Even if they give birth,
-I will put to death
-the precious fruit of their womb.”
-
+I will kill their cherished children.”
 v17: My God will reject them
-because they did not listen to him,
-and they will become wanderers
-among the nations.
+because they have not listened to him.
+They will wander among the nations.
 </p>
 
 ## Notes
 
-v01: Threshing floors were places of agricultural celebration and could also become settings for fertility rites. Hosea interprets Israel’s joy there through the metaphor of prostitution.
+v07-08: The source does not mark quotation boundaries. This draft treats “The prophet is a fool” as hostile speech and the prophet as a watchman; other parses make the prophet himself part of the indictment.
 
-v03: “land of the LORD” stresses that Israel’s land is not autonomous property. Exile is described as removal from the LORD’s land and return to conditions of uncleanness.
-
-v04: “bread of mourning” refers to food associated with contact with death and therefore ritual impurity. Exile disrupts both sacrifice and ordinary eating.
-
-v07: The verse may quote hostile accusations against prophets—“the prophet is a fool”—or may describe false prophetic figures. The surrounding hostility toward the true prophet keeps the line deliberately tense.
-
-v09: “days of Gibeah” recalls the sexual violence and tribal catastrophe of Judges 19–21. Hosea treats that memory as a paradigm of deep corruption.
-
-v10: Baal-Peor recalls Numbers 25. “Shame” is a contemptuous substitution for Baal, and the worshipers become like the object of their love.
-
-v11–16: Fertility, once understood as blessing, is reversed through barrenness, miscarriage, bereavement, and dried roots. The imagery is severe and deliberately bodily.
-
-v15: Gilgal, once associated with covenant renewal and Israel’s entry into the land, has become a place identified with evil in Hosea’s polemic.
+v13-16: Verse 13 retains the difficult reference to Tyre. The following prayer and judgment explicitly concern miscarriage, bereavement, and the death of children; they have not been softened into general hardship.
 
 ## Vocabulary
 
-v01: אֶתְנָן (etnan)
-“Prostitute’s wages.” Payment associated with prostitution, used metaphorically for Israel’s cultic gain.
+v04: **Mourners’ bread**: Food associated with mourning and ritual impurity, unsuitable for sanctuary use in this description.
 
-v05: מוֹעֵד (moed)
-“Appointed festival.” A designated sacred time.
-
-v07: פְּקֻדָּה (pequddah)
-“Visitation.” A time when God attends to actions for judgment or care.
-
-v08: פַּח (pach)
-“Snare.” A trap set for birds, used for hostility against the prophet.
-
-v10: שִׁקּוּץ (shiquts)
-“Detestable thing.” An object of abhorrent worship.
-
-v12: שָׁכֹל (shakhol)
-“To bereave.” To lose children through death.
-
-v16: שֹׁרֶשׁ (shoresh)
-“Root.” The source of plant life, here dried up as an image of lost future.
-
-v17: נָדַד (nadad)
-“To wander.” Ephraim becomes unsettled among the nations.
+v10: **Baal-peor**: The place or worship associated with the remembered breach of loyalty; “Shame” is a contemptuous designation in the verse.

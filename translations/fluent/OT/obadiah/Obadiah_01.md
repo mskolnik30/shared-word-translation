@@ -4,264 +4,110 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-obadiah-1-1-biblical-fluency-2026-09-16
 ---
 
-## The Vision of Obadiah
+## Edom brought down
 
 <p>
 v01: The vision of Obadiah.
-
-Thus says the Lord GOD concerning Edom:
-
-We have heard a report from the LORD,
-and a messenger has been sent among the nations:
-
-“Rise up!
-Let us rise against her for battle!”
-
-v02: Look, I have made you small among the nations;
-you are greatly despised.
-
+This is what the Lord GOD says concerning Edom:
+We have heard a report from the LORD;
+a messenger has been sent among the nations:
+“Rise! Let us rise against her for battle!”
+v02: “Look, I have made you small among the nations;
+you are deeply despised.
 v03: The pride of your heart has deceived you,
-you who dwell in the clefts of the rock,
-in your lofty dwelling,
-who say in your heart,
-“Who will bring me down to the ground?”
-
-v04: Though you soar high like the eagle,
-though your nest is set among the stars,
-from there I will bring you down,
-says the LORD.
-</p>
-
-## Edom Will Be Searched Out
-
-<p>
-v05: If thieves came to you,
-if robbers came by night—
-how you have been destroyed!—
-would they not steal only what they wanted?
-
-If grape gatherers came to you,
+you who live in clefts of rock,
+whose dwelling is high,
+who say in your heart, ‘Who can bring me down to the ground?’
+v04: Even if you soar like an eagle
+and set your nest among the stars,
+I will bring you down from there,” declares the LORD.
+v05: If thieves came to you, if robbers came by night—
+how utterly you have been destroyed!—
+would they not steal only enough for themselves?
+If grape pickers came to you,
 would they not leave gleanings?
-
-v06: How Esau has been searched out!
-How his hidden treasures
-have been sought out!
-
-v07: All your allies
-have driven you to the border;
-those at peace with you
-have deceived you and prevailed against you.
-
-Those who eat your bread
-have set a trap beneath you.
+v06: How Esau has been searched through,
+his hidden treasures hunted out!
+v07: All your allies have driven you to the border.
+Your trusted friends have deceived and overpowered you.
+Those who share your bread set a trap beneath you.
 There is no understanding in him.
+v08: “On that day,” declares the LORD,
+“will I not destroy the wise from Edom
+and understanding from Esau’s mountain?
+v09: Your warriors will be terrified, Teman,
+so that everyone on Esau’s mountain
+will be cut off in the slaughter.
 </p>
 
-## Wisdom and Strength Will Fail
+## Violence against a brother
 
 <p>
-v08: On that day,
-says the LORD,
-will I not destroy the wise from Edom
-and understanding from Mount Esau?
-
-v09: Your warriors will be terrified, O Teman,
-so that everyone from Mount Esau
-will be cut off by slaughter.
-</p>
-
-## Violence Against Jacob
-
-<p>
-v10: Because of violence
-against your brother Jacob,
+v10: Because of violence against your brother Jacob,
 shame will cover you,
 and you will be cut off forever.
-
-v11: On the day when you stood aloof,
-on the day when strangers carried away his wealth,
-when foreigners entered his gates
-and cast lots over Jerusalem,
-you were like one of them.
+v11: On the day you stood aside,
+on the day strangers carried off his wealth
+and foreigners entered his gates
+and cast lots for Jerusalem,
+you too were like one of them.
+v12: Do not gloat over your brother’s day,
+the day of his calamity.
+Do not rejoice over Judah’s people on the day they perish;
+do not boast on the day of distress.
+v13: Do not enter my people’s gate on the day of their disaster.
+Do not gloat over his suffering on the day of his disaster.
+Do not reach for his wealth on the day of his disaster.
+v14: Do not stand at the crossroads to cut down his fugitives;
+do not hand over his survivors on the day of distress.
 </p>
 
-<p>
-v12: Do not look with pleasure
-on the day of your brother,
-on the day of his misfortune.
-
-Do not rejoice over the children of Judah
-on the day of their destruction.
-
-Do not boast
-on the day of distress.
-
-v13: Do not enter the gate of my people
-on the day of their disaster.
-
-Do not look with pleasure on their calamity
-on the day of their disaster.
-
-Do not reach for their wealth
-on the day of their disaster.
-
-v14: Do not stand at the crossroads
-to cut down those who escape.
-
-Do not hand over the survivors
-on the day of distress.
-</p>
-
-## The Day of the LORD Is Near
+## The day of the LORD
 
 <p>
-v15: For the day of the LORD is near
-upon all the nations.
-
-As you have done,
-it will be done to you;
-your deeds will return
-upon your own head.
-
-v16: For just as you drank
-on my holy mountain,
-so all the nations
-will drink continually.
-
-They will drink and swallow
-and become
-as though they had never been.
-</p>
-
-## Deliverance on Mount Zion
-
-<p>
-v17: But on Mount Zion
-there will be those who escape,
+v15: For the day of the LORD is near for all the nations.
+As you have done, it will be done to you;
+your repayment will return upon your own head.
+v16: Just as you drank on my holy mountain,
+all the nations will drink continually.
+They will drink and gulp down
+and become as though they had never been.
+v17: But on Mount Zion there will be deliverance,
 and it will be holy.
-
-The house of Jacob
-will possess its possessions.
-
-v18: The house of Jacob will be a fire,
-and the house of Joseph a flame,
-but the house of Esau will be stubble.
-
-They will burn among them
-and consume them,
-and there will be no survivor
-of the house of Esau,
-for the LORD has spoken.
-</p>
-
-## The Land Will Be Restored
-
-<p>
-v19: Those of the Negev
-will possess Mount Esau,
-and those of the foothills
-the land of the Philistines.
-
-They will possess
-the territory of Ephraim
-and the territory of Samaria,
+The house of Jacob will possess its possessions.
+v18: The house of Jacob will be fire,
+the house of Joseph a flame,
+and the house of Esau stubble.
+They will burn through them and consume them;
+no survivor will remain of the house of Esau.”
+For the LORD has spoken.
+v19: The people of the Negev will possess Esau’s mountain,
+and the people of the foothills the Philistine country.
+They will possess the territory of Ephraim and Samaria,
 and Benjamin will possess Gilead.
-
-v20: The exiles of this host
-of the children of Israel
-will possess the land of the Canaanites
-as far as Zarephath;
-
-and the exiles of Jerusalem
-who are in Sepharad
+v20: The exiles of this company of Israelites
+will possess the Canaanites’ land as far as Zarephath,
+and the exiles of Jerusalem who are in Sepharad
 will possess the cities of the Negev.
-
-v21: Deliverers will go up to Mount Zion
-to judge Mount Esau,
-and the kingdom
-will belong to the LORD.
+v21: Deliverers will go up on Mount Zion
+to judge Esau’s mountain,
+and the kingship will belong to the LORD.
 </p>
 
 ## Notes
 
-v01: “Obadiah” — The Hebrew name means “servant of the LORD.” The book provides no further information identifying the prophet with certainty.
+v07,12-14: The bread/trap clause is compressed and difficult. Verses 12–14 use prohibitions; they may be heard as warnings or as reproach for actions already done. The draft retains their direct form.
 
-v01: “Edom” — Edom was associated with Esau, Jacob’s brother. The book repeatedly uses “Edom,” “Esau,” and “Mount Esau” within the same prophetic judgment, making the ancestral relationship with Jacob central to the accusation.
-
-v03: “clefts of the rock” — Edom’s mountainous terrain provided natural fortifications. The oracle turns the security of elevated rock dwellings into an image of misplaced confidence.
-
-v04: “among the stars” — The language deliberately stretches Edom’s imagined security to its highest possible point. No height places Edom beyond the LORD’s reach.
-
-v05: “how you have been destroyed!” — The exclamation interrupts the comparison with thieves and harvesters. Ordinary thieves leave something behind; Edom’s coming devastation will be more complete.
-
-v06: “Esau” — The ancestral name is used for Edom, bringing the judgment upon the nation into the family relationship between Esau and Jacob.
-
-v07: “Those who eat your bread have set a trap beneath you” — The Hebrew is difficult, especially the word rendered “trap.” The verse clearly portrays trusted allies and table companions turning against Edom.
-
-v07: “There is no understanding in him” — The sudden third-person form is retained. It may refer to Edom as a whole rather than to a particular individual.
-
-v08–09: Wisdom and military strength, both associated with Edom in biblical tradition, will fail together. Neither insight nor warriors can secure Mount Esau.
-
-v10: “your brother Jacob” — Edom’s violence is intensified by kinship. The wrongdoing is not merely violence against another nation but betrayal of a brother people.
-
-v11: “you were like one of them” — Standing aside during Jerusalem’s destruction becomes participation. Neutrality in the face of the violence described is treated as complicity.
-
-v12–14: The repeated “Do not” statements may rhetorically describe what Edom did during Judah’s disaster by presenting those acts as prohibitions. Looking, rejoicing, plundering, intercepting fugitives, and handing over survivors form an escalating pattern of complicity.
-
-v15: “As you have done, it will be done to you” — The judgment follows a principle of corresponding consequence. Edom receives back the kind of action it directed toward others.
-
-v16: “just as you drank on my holy mountain” — The identity of the addressed “you” and the precise sense of drinking are debated. Drinking may evoke celebration, judgment, or both. The translation preserves the imagery without specifying the event further.
-
-v17: “possess its possessions” — The deliberate repetition of the Hebrew root is retained as closely as English allows. Restoration includes recovering what had been lost.
-
-v18: “Jacob … Joseph … Esau” — The ancestral names represent peoples. Jacob and Joseph together broaden the promise beyond Judah alone toward the restored people of Israel.
-
-v20: “Sepharad” — The location is uncertain. Later Jewish tradition associated the name with Spain, but the ancient geographical reference cannot be established securely.
-
-v21: “Deliverers” — The Hebrew plural can mean saviors or deliverers. These figures participate in judgment from Mount Zion, but the verse culminates not in their authority but in the LORD’s kingship.
+v16,20-21: The plural “you” who drank may be Judah or Edom, affecting the drinking image. The exile clause and Sepharad’s location are uncertain. Verse 21 follows the pointed active “deliverers,” not the alternative “those delivered.”
 
 ## Vocabulary
 
-v01: חֲזוֹן (chazon)
-“Vision.” Prophetic revelation received or perceived by the prophet.
+v10: **Jacob; Esau**: Ancestral names for Israel and Edom; “brother” makes Edom’s violence a betrayal of kinship.
 
-v01: צִיר (tsir)
-“Messenger” or “envoy.” One sent among the nations with a summons.
-
-v03: זָדוֹן (zadon)
-“Pride” or “presumption.” Arrogant self-confidence that deceives the heart.
-
-v03: סֶלַע (sela)
-“Rock” or “cliff.” Rocky terrain providing natural protection and height.
-
-v06: עֵשָׂו (Esav)
-“Esau.” The ancestral name used poetically and politically for Edom.
-
-v07: בְּרִית (berit)
-“Covenant” or “alliance.” In the expression “people of your covenant,” referring to those bound to Edom by alliance.
-
-v08: תְּבוּנָה (tevunah)
-“Understanding” or “discernment.” The capacity for insight, here removed from Mount Esau.
-
-v10: חָמָס (chamas)
-“Violence.” Wrongful force, brutality, or destructive injustice.
-
-v11: נֶגֶד (neged)
-“Opposite,” “before,” or “aloof.” The expression describes Edom standing apart while Jerusalem was attacked.
-
-v15: גְּמוּל (gemul)
-“Deed,” “recompense,” or “what is repaid.” Action returning upon the one who performed it.
-
-v17: פְּלֵיטָה (peletah)
-“Escape,” “deliverance,” or “survivors.” Those who escape destruction and remain.
-
-v18: קַשׁ (qash)
-“Stubble.” Dry plant remains easily consumed by fire.
-
-v21: מוֹשִׁיעִים (moshi'im)
-“Deliverers” or “saviors.” Those who bring rescue or deliverance.
-
-v21: מְלוּכָה (melukhah)
-“Kingdom” or “kingship.” Royal rule; the book concludes by declaring that the kingdom belongs to the LORD.
+v19: **Negev; foothills**: Southern and lowland regions named as communities receiving territory in the restoration vision.
